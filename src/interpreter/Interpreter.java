@@ -33,6 +33,15 @@ public abstract class Interpreter {
     abstract public HashMap<String, Entity> parseData(String filePath, LimitingFunction limitingFunction) throws FileNotFoundException;
 
     /**
+     * Interprets the data found in the data files specified by the file paths
+     *
+     * @param filePaths the paths to the data files
+     * @return a collection of the entities found in the data file
+     * @throws FileNotFoundException if any of the data files specified by the file paths is not found
+     */
+    abstract public HashMap<String, Entity> parseData(String[] filePaths) throws FileNotFoundException;
+
+    /**
      * Returns the groups of the entities
      *
      * @return the groups
