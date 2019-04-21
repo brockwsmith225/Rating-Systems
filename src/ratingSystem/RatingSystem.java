@@ -51,4 +51,19 @@ public abstract class RatingSystem {
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
+
+    /**
+     * Setups the method for rating the entities as necessary
+     */
+    public void setup() {}
+
+    /**
+     * Ranks the entities
+     */
+    abstract public void rankEntities();
+
+    /**
+     * Ranks the groups of entities
+     */
+    public void rankGroups() {}
 }
