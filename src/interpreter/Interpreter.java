@@ -58,8 +58,6 @@ public abstract class Interpreter {
         return new File(filePath).exists();
     }
 
-    abstract public void fetch(int year);
-
     /**
      * Splits the inputted string by the inputted delimiter. Ignores
      * portions of the inputted string that are within quotes
