@@ -11,4 +11,13 @@ public abstract class RatingSystem {
     private ArrayList<Entity> rankedEntities;
     private ArrayList<Entity> rankedGroups;
     private Interpreter interpreter;
+
+    /**
+     * Creates a new instance of a Rating System object with no data
+     */
+    public RatingSystem() {
+        entities = new HashMap<>();
+        rankedEntities = new ArrayList<>();
+        rankedGroups = new ArrayList<>();
+    }
 }
