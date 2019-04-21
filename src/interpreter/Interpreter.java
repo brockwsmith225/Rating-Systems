@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.HashMap;
 
 public abstract class Interpreter {
 
@@ -19,7 +20,7 @@ public abstract class Interpreter {
      * @return a collection of the entities found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public ArrayList<Entity> parseData(String filePath) throws FileNotFoundException;
+    abstract public HashMap<String, Entity> parseData(String filePath) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data file specified by the file path
@@ -29,7 +30,7 @@ public abstract class Interpreter {
      * @return a collection of the entities found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public ArrayList<Entity> parseData(String filePath, LimitingFunction limitingFunction) throws FileNotFoundException;
+    abstract public HashMap<String, Entity> parseData(String filePath, LimitingFunction limitingFunction) throws FileNotFoundException;
 
     /**
      * Returns the groups of the entities
