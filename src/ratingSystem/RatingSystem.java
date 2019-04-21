@@ -1,6 +1,7 @@
 package ratingSystem;
 
 import interpreter.Interpreter;
+import interpreter.LimitingFunction;
 import interpreter.datatypes.Entity;
 
 import java.io.FileNotFoundException;
@@ -31,6 +32,21 @@ public abstract class RatingSystem {
      */
     public RatingSystem(Interpreter interpreter, String filePath) throws FileNotFoundException {
         entities = interpreter.parseData(filePath);
+        rankedEntities = new ArrayList<>();
+        rankedGroups = new ArrayList<>();
+        this.interpreter = interpreter;
+    }
+
+    /**
+     * Creates a new instance of a Rating System with the data found in the file specified by the file path
+     *
+     * @param interpreter the interpreter to be used to read in the data from the data file
+     * @param filePath the file path of the data file
+     * @param limitingFunction the function which limits which data from the data file is included
+     * @throws FileNotFoundException if the file specified by the file path is not found
+     */
+    public RatingSystem(Interpreter interpreter, String filePath, LimitingFunction limitingFunction) throws FileNotFoundException {
+        entities = interpreter.parseData(filePath, limitingFunction);
         rankedEntities = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
