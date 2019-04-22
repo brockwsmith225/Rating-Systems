@@ -46,6 +46,12 @@ public class RRS extends RatingSystem {
 
 
     //========== RRS only methods ==========
+
+    /**
+     * Sets up a 2D array with the values from all data points which are positive for the entity associated with it
+     *
+     * @return the 2D array with all positive values
+     */
     private double[][] setupPositiveValues() {
         double[][] values = new double[entities.size()][entities.size()];
         for (int r = 0; r < entities.size(); r++) {
@@ -67,6 +73,11 @@ public class RRS extends RatingSystem {
         return values;
     }
 
+    /**
+     * Sets up a 2D array with the values from all data points which are negative for the entity associated with it
+     *
+     * @return the 2D array with all negative values
+     */
     private double[][] setupNegativeValues() {
         double[][] values = new double[entities.size()][entities.size()];
         for (int r = 0; r < entities.size(); r++) {
@@ -88,6 +99,12 @@ public class RRS extends RatingSystem {
         return values;
     }
 
+    /**
+     * Sets up a 2D array with the partial values necessary for guaranteeing that the matrices will be regular
+     * stochastic matrices (which is necessary for the row reduction step)
+     *
+     * @return the 2D array with the partial values
+     */
     private double[][] setupPartials() {
         double[][] partials = new double[entities.size()][entities.size()];
         for (int r = 0; r < entities.size(); r++) {
@@ -98,6 +115,12 @@ public class RRS extends RatingSystem {
         return partials;
     }
 
+    /**
+     * Convertes a 2D array of values to a probability matrix
+     *
+     * @param values the 2D array of values to be converted
+     * @return a probability matrix made from the inputted values
+     */
     private Matrix convertToProbabiltyMatrix(double[][] values) {
         for (int c = 0; c < values[0].length; c++) {
             double colSum = 0.0;
@@ -111,6 +134,11 @@ public class RRS extends RatingSystem {
         return new Matrix(values);
     }
 
+    /**
+     * Sets the rating that comes from the positive value matrix for every entity
+     *
+     * @param matrix the row reduced positive value matrix
+     */
     private void setPositiveRatings(Matrix matrix) {
         double ratingSum = 0.0;
         for (int i = 0; i < matrix.rows(); i++) {
@@ -121,6 +149,11 @@ public class RRS extends RatingSystem {
         }
     }
 
+    /**
+     * Sets the rating that comes from the negative value matrix for every entity
+     *
+     * @param matrix the row reduced negative value matrix
+     */
     private void setNegativeRatings(Matrix matrix) {
         double ratingSum = 0.0;
         for (int i = 0; i < matrix.rows(); i++) {
@@ -131,6 +164,9 @@ public class RRS extends RatingSystem {
         }
     }
 
+    /**
+     * Sets the ratings for every entity based on its positive and negative ratings
+     */
     private void setRatings() {
         for (String entity : entities.keySet()) {
             entities.get(entity).setRating(entities.get(entity).getRating("Positive Rating") - entities.get(entity).getRating("Negative Rating"));
