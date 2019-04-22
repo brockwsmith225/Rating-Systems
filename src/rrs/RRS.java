@@ -17,9 +17,13 @@ public class RRS extends RatingSystem {
         double[][] posValues = setupPositiveValues();
         double[][] negValues = setupNegativeValues();
         double[][] partials = setupPartials();
+
         Matrix posMatrix = convertToProbabiltyMatrix(posValues);
         Matrix negMatrix = convertToProbabiltyMatrix(negValues);
         Matrix partialsMatrix = new Matrix(partials);
+
+        posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
+        negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
     }
 
     @Override

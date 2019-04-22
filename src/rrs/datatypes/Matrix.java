@@ -88,6 +88,12 @@ public class Matrix {
         return new Matrix(temp);
     }
 
+    /**
+     * Creates a new matrix equal to the current matrix multiplied by a scalar
+     *
+     * @param s the scalar multiplier
+     * @return a new matrix
+     */
     public Matrix multiply(double s) {
         double[][] res = new double[matrix.length][matrix[0].length];
         for (int r = 0; r < res.length; r++) {
