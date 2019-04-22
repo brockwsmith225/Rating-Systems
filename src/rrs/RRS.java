@@ -41,6 +41,22 @@ public class RRS extends RatingSystem {
         return values;
     }
 
+    private double[][] setupNegativeValues(int numberOfEntities) {
+        double[][] values = new double[numberOfEntities][numberOfEntities];
+        for (String entity : entities.keySet()) {
+            ArrayList<DataPoint> dataPoints = entities.get(entity).getDataPoints();
+            double totalWeightedScoreDiff = 0.0;
+            for (DataPoint dataPoint : dataPoints) {
+                if (dataPoint.getWeightedScoreDiff() < 0) {
+                    values[entityNameToIndex.get(entity)][entityNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
+                }
+            }
+            values[entityNameToIndex.get(entity)][entityNameToIndex.get(entity)] = totalWeightedScoreDiff;
+        }
+        return values;
+    }
+
     private double[][] setupPartials(int numberOfEntities) {
         double[][] partials = new double[numberOfEntities][numberOfEntities];
         for (int r = 0; r < numberOfEntities; r++) {
