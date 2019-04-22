@@ -184,4 +184,24 @@ public class Matrix {
         }
         return res;
     }
+
+    /**
+     * Generates an identity matrix of a certain size
+     *
+     * @param size the size of the identity matrix
+     * @return an identity matrix of the specified size
+     */
+    public static Matrix generateIdentityMatrix(int size) {
+        Matrix identity = new Matrix(size, size);
+        for (int r = 0; r < size; r++) {
+            for (int c = 0; c < size; c++) {
+                if (r == c) {
+                    identity.matrix[r][c] = 1;
+                } else {
+                    identity.matrix[r][c] = 0;
+                }
+            }
+        }
+        return identity;
+    }
 }
