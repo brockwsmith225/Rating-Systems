@@ -14,9 +14,12 @@ public class RRS extends RatingSystem {
 
     @Override
     public void setup() {
-        double[][] positiveValues = setupPositiveValues();
-        double[][] negaitveValues = setupNegativeValues();
+        double[][] posValues = setupPositiveValues();
+        double[][] negValues = setupNegativeValues();
         double[][] partials = setupPartials();
+        Matrix posMatrix = convertToProbabiltyMatrix(posValues);
+        Matrix negMatrix = convertToProbabiltyMatrix(negValues);
+        Matrix partialsMatrix = new Matrix(partials);
     }
 
     @Override
