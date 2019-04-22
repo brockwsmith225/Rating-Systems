@@ -25,6 +25,12 @@ public class RRS extends RatingSystem {
 
         posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity).rowReduce();
         negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity).rowReduce();
+
+        setPositiveRatings(posMatrix);
+        setNegativeRatings(negMatrix);
+        setRatings();
+
+        rankEntities();
     }
 
     @Override
@@ -102,6 +108,28 @@ public class RRS extends RatingSystem {
     }
 
     private void setPositiveRatings(Matrix matrix) {
+        double ratingSum = 0.0;
+        for (int i = 0; i < matrix.rows(); i++) {
+            ratingSum += matrix.get(i, i);
+        }
+        for (int i = 0; i < matrix.rows(); i++) {
+            entities.get(entityIndexToName.get(i)).setRating("Positive Rating", matrix.get(i, i) / ratingSum);
+        }
+    }
 
+    private void setNegativeRatings(Matrix matrix) {
+        double ratingSum = 0.0;
+        for (int i = 0; i < matrix.rows(); i++) {
+            ratingSum += matrix.get(i, i);
+        }
+        for (int i = 0; i < matrix.rows(); i++) {
+            entities.get(entityIndexToName.get(i)).setRating("Negative Rating", matrix.get(i, i) / ratingSum);
+        }
+    }
+
+    private void setRatings() {
+        for (String entity : entities.keySet()) {
+            entities.get(entity).setRating(entities.get(entity).getRating("Positive Rating") - entities.get(entity).getRating("Negative Rating"));
+        }
     }
 }
