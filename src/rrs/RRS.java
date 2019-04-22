@@ -23,8 +23,8 @@ public class RRS extends RatingSystem {
         Matrix partialsMatrix = new Matrix(partials);
         Matrix negIdentity = Matrix.generateIdentityMatrix(entities.size()).multiply(-1.0);
 
-        posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity);
-        negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity);
+        posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity).rowReduce();
+        negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity).rowReduce();
     }
 
     @Override
