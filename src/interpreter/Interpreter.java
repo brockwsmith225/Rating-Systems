@@ -10,8 +10,8 @@ import java.util.HashMap;
 
 public abstract class Interpreter {
 
-    private HashSet<String> addedEntites;
-    private ArrayList<Entity> entities;
+    protected HashSet<String> addedEntites;
+    protected ArrayList<Entity> entities;
 
     /**
      * Interprets the data found in the data file specified by the file path

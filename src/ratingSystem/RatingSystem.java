@@ -9,10 +9,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public abstract class RatingSystem {
-    private HashMap<String, Entity> entities;
-    private ArrayList<Entity> rankedEntities;
-    private ArrayList<Entity> rankedGroups;
-    private Interpreter interpreter;
+    protected HashMap<String, Entity> entities;
+    protected ArrayList<Entity> rankedEntities;
+    protected ArrayList<Entity> rankedGroups;
+    protected Interpreter interpreter;
 
     /**
      * Creates a new instance of a Rating System with no data
