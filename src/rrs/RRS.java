@@ -1,4 +1,4 @@
-package ratingSystem.rrs;
+package rrs;
 
 import ratingSystem.RatingSystem;
 
