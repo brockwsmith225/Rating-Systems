@@ -13,7 +13,9 @@ public class RRS extends RatingSystem {
 
     @Override
     public void setup() {
-        double[][] partials = setupPartials(entities.size());
+        double[][] positiveValues = setupPositiveValues();
+        double[][] negaitveValues = setupNegativeValues();
+        double[][] partials = setupPartials();
     }
 
     @Override
@@ -25,8 +27,13 @@ public class RRS extends RatingSystem {
 
 
     //========== RRS only methods ==========
-    private double[][] setupPositiveValues(int numberOfEntities) {
-        double[][] values = new double[numberOfEntities][numberOfEntities];
+    private double[][] setupPositiveValues() {
+        double[][] values = new double[entities.size()][entities.size()];
+        for (int r = 0; r < entities.size(); r++) {
+            for (int c = 0; c < entities.size(); c++) {
+                values[r][c] = 0.0;
+            }
+        }
         for (String entity : entities.keySet()) {
             ArrayList<DataPoint> dataPoints = entities.get(entity).getDataPoints();
             double totalWeightedScoreDiff = 0.0;
@@ -41,8 +48,13 @@ public class RRS extends RatingSystem {
         return values;
     }
 
-    private double[][] setupNegativeValues(int numberOfEntities) {
-        double[][] values = new double[numberOfEntities][numberOfEntities];
+    private double[][] setupNegativeValues() {
+        double[][] values = new double[entities.size()][entities.size()];
+        for (int r = 0; r < entities.size(); r++) {
+            for (int c = 0; c < entities.size(); c++) {
+                values[r][c] = 0.0;
+            }
+        }
         for (String entity : entities.keySet()) {
             ArrayList<DataPoint> dataPoints = entities.get(entity).getDataPoints();
             double totalWeightedScoreDiff = 0.0;
@@ -57,11 +69,11 @@ public class RRS extends RatingSystem {
         return values;
     }
 
-    private double[][] setupPartials(int numberOfEntities) {
-        double[][] partials = new double[numberOfEntities][numberOfEntities];
-        for (int r = 0; r < numberOfEntities; r++) {
-            for (int c = 0; c < numberOfEntities; c++) {
-                partials[r][c] = 1.0 / numberOfEntities;
+    private double[][] setupPartials() {
+        double[][] partials = new double[entities.size()][entities.size()];
+        for (int r = 0; r < entities.size(); r++) {
+            for (int c = 0; c < entities.size(); c++) {
+                partials[r][c] = 1.0 / entities.size();
             }
         }
         return partials;
