@@ -66,4 +66,17 @@ public abstract class RatingSystem {
      * Ranks the groups of entities
      */
     abstract public void rankGroups();
+
+    /**
+     * Prints the entities in ranked order along with their ratings
+     */
+    public void printEntityRankings() {
+        int rank = 1;
+        for (int i = 0; i < rankedEntities.size(); i++) {
+            if (i > 0 && rankedEntities.get(i).getRating() != rankedEntities.get(i).getRating()) {
+                rank = i + 1;
+            }
+            System.out.println(rank + ". " + rankedEntities.get(i) + " " + rankedEntities.get(i).getRating());
+        }
+    }
 }

@@ -5,6 +5,7 @@ import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 
 public class RRS extends RatingSystem {
@@ -34,7 +35,10 @@ public class RRS extends RatingSystem {
     }
 
     @Override
-    public void rankEntities() {}
+    public void rankEntities() {
+        rankedEntities = new ArrayList<>(entities.values());
+        Collections.sort(rankedEntities);
+    }
 
     @Override
     public void rankGroups() {}
