@@ -26,16 +26,19 @@ public class RRS extends RatingSystem {
 
     //========== RRS only methods ==========
     private double[][] setupPositiveValues(int numberOfEntities) {
-        double[][] positiveValues = new double[numberOfEntities][numberOfEntities];
+        double[][] values = new double[numberOfEntities][numberOfEntities];
         for (String entity : entities.keySet()) {
             ArrayList<DataPoint> dataPoints = entities.get(entity).getDataPoints();
+            double totalWeightedScoreDiff = 0.0;
             for (DataPoint dataPoint : dataPoints) {
                 if (dataPoint.getWeightedScoreDiff() > 0) {
-                    positiveValues[entityNameToIndex.get(entity)][entityNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    values[entityNameToIndex.get(entity)][entityNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
                 }
             }
+            values[entityNameToIndex.get(entity)][entityNameToIndex.get(entity)] = totalWeightedScoreDiff;
         }
-        return positiveValues;
+        return values;
     }
 
     private double[][] setupPartials(int numberOfEntities) {
