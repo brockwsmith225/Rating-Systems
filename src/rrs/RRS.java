@@ -96,6 +96,7 @@ public class RRS extends RatingSystem {
             for (int r = 0; r < values.length; r++) {
                 values[r][c] /= colSum;
             }
+            values[c][c] -= 1;
         }
         return new Matrix(values);
     }
