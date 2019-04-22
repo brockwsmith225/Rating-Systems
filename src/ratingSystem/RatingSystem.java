@@ -55,7 +55,7 @@ public abstract class RatingSystem {
     /**
      * Setups the method for rating the entities as necessary
      */
-    public void setup() {}
+    abstract public void setup();
 
     /**
      * Ranks the entities
@@ -65,5 +65,5 @@ public abstract class RatingSystem {
     /**
      * Ranks the groups of entities
      */
-    public void rankGroups() {}
+    abstract public void rankGroups();
 }
