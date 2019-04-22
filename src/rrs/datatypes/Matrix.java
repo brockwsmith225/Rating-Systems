@@ -68,6 +68,8 @@ public class Matrix {
         return matrix[0].length;
     }
 
+    public double get(int row, int column) { return matrix[row][column]; }
+
     /**
      * Calculates the sum of two matrices.
      *

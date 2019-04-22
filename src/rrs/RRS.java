@@ -100,4 +100,8 @@ public class RRS extends RatingSystem {
         }
         return new Matrix(values);
     }
+
+    private void setPositiveRatings(Matrix matrix) {
+
+    }
 }
