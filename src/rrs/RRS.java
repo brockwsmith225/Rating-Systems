@@ -2,6 +2,7 @@ package rrs;
 
 import interpreter.datatypes.DataPoint;
 import ratingSystem.RatingSystem;
+import rrs.datatypes.Matrix;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -77,5 +78,18 @@ public class RRS extends RatingSystem {
             }
         }
         return partials;
+    }
+
+    private Matrix convertToProbabiltyMatrix(double[][] values) {
+        for (int c = 0; c < values[0].length; c++) {
+            double colSum = 0.0;
+            for (int r = 0; r < values.length; r++) {
+                colSum += values[r][c];
+            }
+            for (int r = 0; r < values.length; r++) {
+                values[r][c] /= colSum;
+            }
+        }
+        return new Matrix(values);
     }
 }
