@@ -19,9 +19,6 @@ public class CFBInterpreter extends Interpreter<Integer> {
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
 
-        double[] avgStats = getAvgStats(data);
-
-        data = new Scanner(new File(filePath));
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
 
@@ -50,13 +47,6 @@ public class CFBInterpreter extends Interpreter<Integer> {
             }
 
             entities.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
-
-            double[] stats = new double[13];
-            stats[0] = Double.parseDouble(line[6]) / avgStats[0];
-            for (int i = 1; i < stats.length; i++) {
-                stats[i] = Double.parseDouble(line[i+7]) / avgStats[i];
-            }
-
         }
 
         return entities;
@@ -68,9 +58,6 @@ public class CFBInterpreter extends Interpreter<Integer> {
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
 
-        double[] avgStats = getAvgStats(data);
-
-        data = new Scanner(new File(filePath));
         Time startDate = getStartDate(data);
 
         data = new Scanner(new File(filePath));
