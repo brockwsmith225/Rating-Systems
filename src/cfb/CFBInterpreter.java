@@ -2,6 +2,7 @@ package cfb;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.Entity;
+import interpreter.datatypes.Time;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -21,7 +22,24 @@ public class CFBInterpreter extends Interpreter<Integer> {
 
         data = new Scanner(new File(filePath));
         while (data.hasNext()) {
-
+            String[] line = split(data.nextLine(), ",");
+            String[] d = line[0].split("-");
+            Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
+            String team = line[1];
+            String conference = line[2];
+            String location = line[3];
+            String opponent = line[4];
+            String result = line[5];
+            int teamScore = Integer.parseInt(line[6]);
+            int opponentScore = Integer.parseInt(line[7]);
+            int scoreDiff = Math.abs(teamScore - opponentScore);
+            if (addedEntites.add(team)) {
+                entities.put(team, new Entity(team));
+            }
+            if (addedGroups.add(conference)) {
+                groups.add(conference);
+            }
+            entities.get(team).setGroup(conference);
         }
 
         return entities;
@@ -29,7 +47,37 @@ public class CFBInterpreter extends Interpreter<Integer> {
 
     @Override
     public HashMap<String, Entity> parseData(String filePath, Integer week) throws FileNotFoundException {
-        return null;
+        Scanner data = new Scanner(new File(filePath));
+        entities = new HashMap<>();
+        addedEntites = new HashSet<>();
+
+        double[] avgStats = getAvgStats(data);
+
+        data = new Scanner(new File(filePath));
+        Time startDate = getStartDate(data);
+
+        data = new Scanner(new File(filePath));
+        while (data.hasNext()) {
+            String[] line = split(data.nextLine(), ",");
+            String[] d = line[0].split("-");
+            Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
+            String team = line[1];
+            String conference = line[2];
+            String location = line[3];
+            String opponent = line[4];
+            String result = line[5];
+            int teamScore = Integer.parseInt(line[6]);
+            int opponentScore = Integer.parseInt(line[7]);
+            int scoreDiff = Math.abs(teamScore - opponentScore);
+            int gameWeek = ((int)date.daysSince(startDate) + 7) / 7;
+            if ((startDate.getYear() == 2013 || startDate.getYear() == 2014) && gameWeek > 17) {
+                gameWeek = 17;
+            } else if (week > 16) {
+                gameWeek = 16;
+            }
+        }
+
+        return entities;
     }
 
     @Override
@@ -54,5 +102,15 @@ public class CFBInterpreter extends Interpreter<Integer> {
             avgStats[i] /= count;
         }
         return avgStats;
+    }
+
+    private Time getStartDate(Scanner data) {
+        String[] line = split(data.nextLine(), ",");
+        int year = Integer.parseInt(line[0].split("-")[0]);
+        Time startDate = new Time(1, 9, year);
+        while (startDate.dayOfTheWeek() != 0) {
+            startDate.incrementByDays(-1);
+        }
+        return startDate;
     }
 }

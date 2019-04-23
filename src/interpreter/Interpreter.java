@@ -12,6 +12,8 @@ public abstract class Interpreter<T> {
 
     protected HashMap<String, Entity> entities;
     protected HashSet<String> addedEntites;
+    protected ArrayList<String> groups;
+    protected HashSet<String> addedGroups;
 
     /**
      * Interprets the data found in the data file specified by the file path
@@ -47,14 +49,7 @@ public abstract class Interpreter<T> {
      * @return the groups
      */
     public ArrayList<String> groups() {
-        HashSet<String> addedGroups = new HashSet<>();
-        ArrayList<String> groups = new ArrayList<>();
-        for (Entity entity : entities.values()) {
-            if (addedGroups.add(entity.getGroup())) {
-                groups.add(entity.getGroup());
-            }
-        }
-        return groups;
+        return new ArrayList<>(groups);
     }
 
     /**

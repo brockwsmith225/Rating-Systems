@@ -30,7 +30,7 @@ public class Time implements Comparable<Time> {
      * @param year the year of the Time object
      */
     public Time(long date, long month, long year) {
-        long days = (year - 1970) * YEAR_TO_DAYS + MONTH_TO_DAYS[(int)month-1] + numberOfLeapYears(1970, year) + daysInCurrentYear(date, month, year);
+        long days = (year - 1970) * YEAR_TO_DAYS + numberOfLeapYears(1970, year) + daysInCurrentYear(date, month, year);
         this.milliseconds = days * DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS;
     }
 
@@ -97,6 +97,56 @@ public class Time implements Comparable<Time> {
         Time d = new Time(7, 1, 2019);
         int days = (int)this.daysSince(d);
         return (days % 7) < 0 ? (days % 7) + 7 : days % 7;
+    }
+
+    /**
+     * Returns the date of the Time
+     *
+     * @return the date of the Time
+     */
+    public long getDate() {
+        long year = getYear();
+        long days = milliseconds / (DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS);
+        days -= (year - 1970) * YEAR_TO_DAYS + numberOfLeapYears(1970, year);
+        long month = 1;
+        for (; days > 0; month++) {
+            days -= daysInMonth(month, year);
+        }
+        return days + daysInMonth(month - 1, year);
+    }
+
+    /**
+     * Returns the month of the Time
+     *
+     * @return the month of the Time
+     */
+    public long getMonth() {
+        long year = getYear();
+        long days = milliseconds / (DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS);
+        days -= (year - 1970) * YEAR_TO_DAYS + numberOfLeapYears(1970, year);
+        long month = 1;
+        for (; days > 0; month++) {
+            days -= daysInMonth(month, year);
+        }
+        return month - 1;
+    }
+
+    /**
+     * Returns the year of the Time
+     *
+     * @return the year of the Time
+     */
+    public long getYear() {
+        long days = milliseconds / (DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS);
+        long year = 1970;
+        for (; days > 0; year++) {
+            if (isLeapYear(year)) {
+                days -= 366;
+            } else {
+                days -= 265;
+            }
+        }
+        return year - 1;
     }
 
     @Override
