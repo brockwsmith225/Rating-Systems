@@ -1,6 +1,7 @@
 package cfb;
 
 import interpreter.Interpreter;
+import interpreter.datatypes.DataPoint;
 import interpreter.datatypes.Entity;
 import interpreter.datatypes.Time;
 
@@ -23,6 +24,7 @@ public class CFBInterpreter extends Interpreter<Integer> {
         data = new Scanner(new File(filePath));
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
+
             String[] d = line[0].split("-");
             Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
             String team = line[1];
@@ -32,14 +34,29 @@ public class CFBInterpreter extends Interpreter<Integer> {
             String result = line[5];
             int teamScore = Integer.parseInt(line[6]);
             int opponentScore = Integer.parseInt(line[7]);
-            int scoreDiff = Math.abs(teamScore - opponentScore);
+            int scoreDifference = teamScore - opponentScore;
+            int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
+
             if (addedEntites.add(team)) {
                 entities.put(team, new Entity(team));
             }
+            if (addedEntites.add(opponent)) {
+                entities.put(opponent, new Entity(opponent));
+            }
+
+            entities.get(team).setGroup(conference);
             if (addedGroups.add(conference)) {
                 groups.add(conference);
             }
-            entities.get(team).setGroup(conference);
+
+            entities.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+
+            double[] stats = new double[13];
+            stats[0] = Double.parseDouble(line[6]) / avgStats[0];
+            for (int i = 1; i < stats.length; i++) {
+                stats[i] = Double.parseDouble(line[i+7]) / avgStats[i];
+            }
+
         }
 
         return entities;
@@ -68,7 +85,8 @@ public class CFBInterpreter extends Interpreter<Integer> {
             String result = line[5];
             int teamScore = Integer.parseInt(line[6]);
             int opponentScore = Integer.parseInt(line[7]);
-            int scoreDiff = Math.abs(teamScore - opponentScore);
+            int scoreDifference = Math.abs(teamScore - opponentScore);
+            int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
             int gameWeek = ((int)date.daysSince(startDate) + 7) / 7;
             if ((startDate.getYear() == 2013 || startDate.getYear() == 2014) && gameWeek > 17) {
                 gameWeek = 17;
