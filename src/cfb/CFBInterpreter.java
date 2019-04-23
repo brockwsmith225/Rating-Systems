@@ -1,7 +1,6 @@
 package cfb;
 
 import interpreter.Interpreter;
-import interpreter.LimitingFunction;
 import interpreter.datatypes.Entity;
 
 import java.io.File;

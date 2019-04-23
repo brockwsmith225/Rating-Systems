@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class DataPoint {
     private String otherEntity;
     private double score, otherScore, weightedScoreDiff;
-    private int time;
+    private Time time;
     private HashMap<String, Double> otherData;
 
     /**
@@ -18,9 +18,9 @@ public class DataPoint {
      * @param score the score of the entity the data point belongs to
      * @param otherScore the score of the other entity of the data point
      * @param weightedScoreDiff the weighted difference of scores
-     * @param time the time at which the data point occurred
+     * @param time the date at which the data point occurred
      */
-    public DataPoint(String otherEntity, double score, double otherScore, double weightedScoreDiff, int time) {
+    public DataPoint(String otherEntity, double score, double otherScore, double weightedScoreDiff, Time time) {
         this.otherEntity = otherEntity;
         this.score = score;
         this.otherScore = otherScore;
@@ -69,7 +69,7 @@ public class DataPoint {
      *
      * @return the time at which the data point occurred
      */
-    public int getTime() {
+    public Time getTime() {
         return time;
     }
 
