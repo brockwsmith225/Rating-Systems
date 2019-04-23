@@ -10,8 +10,8 @@ import java.util.HashMap;
 
 public abstract class Interpreter {
 
+    protected HashMap<String, Entity> entities;
     protected HashSet<String> addedEntites;
-    protected ArrayList<Entity> entities;
 
     /**
      * Interprets the data found in the data file specified by the file path
@@ -49,7 +49,7 @@ public abstract class Interpreter {
     public ArrayList<String> groups() {
         HashSet<String> addedGroups = new HashSet<>();
         ArrayList<String> groups = new ArrayList<>();
-        for (Entity entity : entities) {
+        for (Entity entity : entities.values()) {
             if (addedGroups.add(entity.getGroup())) {
                 groups.add(entity.getGroup());
             }
@@ -74,7 +74,7 @@ public abstract class Interpreter {
      * @param input the input to be split
      * @return the split input
      */
-    public static String[] split(String input, String delimiter) {
+    protected static String[] split(String input, String delimiter) {
         String[] res = input.split(delimiter + "(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1);
         for (int i = 0; i < res.length; i++) {
             res[i] = res[i].replace("\"", "");
