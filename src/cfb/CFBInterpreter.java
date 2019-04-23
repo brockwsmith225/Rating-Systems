@@ -63,6 +63,7 @@ public class CFBInterpreter extends Interpreter<Integer> {
         data = new Scanner(new File(filePath));
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
+
             String[] d = line[0].split("-");
             Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
             String team = line[1];
@@ -79,6 +80,22 @@ public class CFBInterpreter extends Interpreter<Integer> {
                 gameWeek = 17;
             } else if (week > 16) {
                 gameWeek = 16;
+            }
+
+            if (gameWeek <= week) {
+                if (addedEntites.add(team)) {
+                    entities.put(team, new Entity(team));
+                }
+                if (addedEntites.add(opponent)) {
+                    entities.put(opponent, new Entity(opponent));
+                }
+
+                entities.get(team).setGroup(conference);
+                if (addedGroups.add(conference)) {
+                    groups.add(conference);
+                }
+
+                entities.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
             }
         }
 
