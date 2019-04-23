@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.HashMap;
 
-public abstract class Interpreter {
+public abstract class Interpreter<T> {
 
     protected HashMap<String, Entity> entities;
     protected HashSet<String> addedEntites;
@@ -26,11 +26,11 @@ public abstract class Interpreter {
      * Interprets the data found in the data file specified by the file path
      *
      * @param filePath the path to the data file
-     * @param limitingFunction the function which tells the interpreter which data from the data file to include
+     * @param limitingParameter the parameter which tells the interpreter which data from the data file to include
      * @return a collection of the entities found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Entity> parseData(String filePath, LimitingFunction limitingFunction) throws FileNotFoundException;
+    abstract public HashMap<String, Entity> parseData(String filePath, T limitingParameter) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data files specified by the file paths

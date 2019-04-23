@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class CFBInterpreter extends Interpreter {
+public class CFBInterpreter extends Interpreter<Integer> {
 
     @Override
     public HashMap<String, Entity> parseData(String filePath) throws FileNotFoundException {
@@ -29,7 +29,7 @@ public class CFBInterpreter extends Interpreter {
     }
 
     @Override
-    public HashMap<String, Entity> parseData(String filePath, LimitingFunction limitingFunction) throws FileNotFoundException {
+    public HashMap<String, Entity> parseData(String filePath, Integer week) throws FileNotFoundException {
         return null;
     }
 
