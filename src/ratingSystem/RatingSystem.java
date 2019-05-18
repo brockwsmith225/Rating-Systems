@@ -76,7 +76,7 @@ public abstract class RatingSystem {
             if (i > 0 && rankedEntities.get(i).getRating() != rankedEntities.get(i).getRating()) {
                 rank = i + 1;
             }
-            System.out.println(rank + ". " + rankedEntities.get(i) + " " + rankedEntities.get(i).getRating());
+            System.out.println(rank + ". " + rankedEntities.get(i).getName() + " " + rankedEntities.get(i).getRating());
         }
     }
 }

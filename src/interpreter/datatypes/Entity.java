@@ -120,6 +120,6 @@ public class Entity implements Comparable<Entity> {
 
     @Override
     public int compareTo(Entity e) {
-        return (int)Math.floor(rating - e.rating);
+        return (int)Math.floor(e.rating - rating);
     }
 }
