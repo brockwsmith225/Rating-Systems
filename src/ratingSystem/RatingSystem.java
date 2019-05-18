@@ -27,11 +27,11 @@ public abstract class RatingSystem {
      * Creates a new instance of a Rating System with the data found in the file specified by the file path
      *
      * @param interpreter the interpreter to be used to read in the data from the data file
-     * @param filePath the file path of the data file
+     * @param year the year of the data
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
-    public RatingSystem(Interpreter interpreter, String filePath) throws FileNotFoundException {
-        entities = interpreter.parseData(filePath);
+    public RatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
+        entities = interpreter.parseData(year);
         rankedEntities = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
@@ -41,12 +41,12 @@ public abstract class RatingSystem {
      * Creates a new instance of a Rating System with the data found in the file specified by the file path
      *
      * @param interpreter the interpreter to be used to read in the data from the data file
-     * @param filePath the file path of the data file
+     * @param year the data of the data
      * @param limitingFunction the function which limits which data from the data file is included
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
-    public RatingSystem(Interpreter interpreter, String filePath, LimitingFunction limitingFunction) throws FileNotFoundException {
-        entities = interpreter.parseData(filePath, limitingFunction);
+    public RatingSystem(Interpreter interpreter, int year, LimitingFunction limitingFunction) throws FileNotFoundException {
+        entities = interpreter.parseData(year, limitingFunction);
         rankedEntities = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
