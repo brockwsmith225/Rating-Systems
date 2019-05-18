@@ -1,9 +1,11 @@
 package rrs;
 
+import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -12,6 +14,14 @@ public class RRS extends RatingSystem {
 
     private HashMap<String, Integer> entityNameToIndex;
     private HashMap<Integer, String> entityIndexToName;
+
+    public RRS() {
+        super();
+    }
+
+    public RRS(Interpreter interpreter, int year) throws FileNotFoundException {
+        super(interpreter, year);
+    }
 
     @Override
     public void setup() {
