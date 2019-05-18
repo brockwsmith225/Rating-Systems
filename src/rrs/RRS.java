@@ -2,7 +2,6 @@ package rrs;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
-import interpreter.datatypes.Entity;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
 
@@ -49,7 +48,7 @@ public class RRS extends RatingSystem {
         setPositiveRatings(posMatrix);
         setNegativeRatings(negMatrix);
         setRatings();
-        System.out.println("test");
+
         rankEntities();
     }
 
@@ -57,7 +56,6 @@ public class RRS extends RatingSystem {
     public void rankEntities() {
         rankedEntities = new ArrayList<>(entities.values());
         Collections.sort(rankedEntities);
-        System.out.println(rankedEntities.size());
     }
 
     @Override
