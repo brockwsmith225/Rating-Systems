@@ -7,6 +7,8 @@ import interpreter.datatypes.Time;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -15,7 +17,7 @@ public class CFBInterpreter extends Interpreter<Integer> {
 
     @Override
     public HashMap<String, Entity> parseData(int year) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("data/" + year + ".csv"));
+        Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
 
@@ -54,13 +56,13 @@ public class CFBInterpreter extends Interpreter<Integer> {
 
     @Override
     public HashMap<String, Entity> parseData(int year, Integer week) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("data/" + year + ".csv"));
+        Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
 
         Time startDate = getStartDate(data);
 
-        data = new Scanner(new File("data/" + year + ".csv"));
+        data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
 
@@ -107,11 +109,11 @@ public class CFBInterpreter extends Interpreter<Integer> {
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
         for (int year : years) {
-            Scanner data = new Scanner(new File("data/" + year + ".csv"));
+            Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
 
             Time startDate = getStartDate(data);
 
-            data = new Scanner(new File("data/" + year + ".csv"));
+            data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
             while (data.hasNext()) {
                 String[] line = split(data.nextLine(), ",");
 
@@ -143,6 +145,11 @@ public class CFBInterpreter extends Interpreter<Integer> {
             }
         }
         return entities;
+    }
+
+    @Override
+    public boolean hasData(int year)  {
+        return new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv").exists();
     }
 
     //========== CFB only methods ==========

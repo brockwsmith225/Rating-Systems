@@ -8,6 +8,8 @@ public class Main {
             RatingSystem rrs = new RRS(new CFBInterpreter(), 2018);
             rrs.setup();
             rrs.printEntityRankings();
-        } catch (Exception e) {}
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }

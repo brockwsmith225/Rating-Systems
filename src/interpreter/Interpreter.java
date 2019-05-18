@@ -2,7 +2,6 @@ package interpreter;
 
 import interpreter.datatypes.Entity;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -58,9 +57,7 @@ public abstract class Interpreter<T> {
      * @param year the year of the data
      * @return true if the file exists, false otherwise
      */
-    public boolean hasData(int year) {
-        return new File("data/" + year + ".csv").exists();
-    }
+    abstract public boolean hasData(int year);
 
     /**
      * Splits the inputted string by the inputted delimiter. Ignores

@@ -71,6 +71,7 @@ public abstract class RatingSystem {
      * Prints the entities in ranked order along with their ratings
      */
     public void printEntityRankings() {
+        System.out.println(rankedEntities.size());
         int rank = 1;
         for (int i = 0; i < rankedEntities.size(); i++) {
             if (i > 0 && rankedEntities.get(i).getRating() != rankedEntities.get(i).getRating()) {
