@@ -2,6 +2,7 @@ package rrs;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
+import interpreter.datatypes.Entity;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
 
@@ -21,6 +22,14 @@ public class RRS extends RatingSystem {
 
     public RRS(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
+        entityNameToIndex = new HashMap<>();
+        entityIndexToName = new HashMap<>();
+        int i = 0;
+        for (String entity : entities.keySet()) {
+            entityNameToIndex.put(entity, i);
+            entityIndexToName.put(i, entity);
+            i++;
+        }
     }
 
     @Override

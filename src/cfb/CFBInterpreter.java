@@ -9,6 +9,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -19,7 +20,9 @@ public class CFBInterpreter extends Interpreter<Integer> {
     public HashMap<String, Entity> parseData(int year) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
         entities = new HashMap<>();
+        groups = new ArrayList<>();
         addedEntites = new HashSet<>();
+        addedGroups = new HashSet<>();
 
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
