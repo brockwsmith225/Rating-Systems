@@ -73,7 +73,7 @@ public abstract class RatingSystem {
     public void printEntityRankings() {
         int rank = 1;
         for (int i = 0; i < rankedEntities.size(); i++) {
-            if (i > 0 && rankedEntities.get(i).getRating() != rankedEntities.get(i).getRating()) {
+            if (i > 0 && rankedEntities.get(i).getRating() != rankedEntities.get(i - 1).getRating()) {
                 rank = i + 1;
             }
             System.out.println(rank + ". " + rankedEntities.get(i).getName() + " " + rankedEntities.get(i).getRating());
