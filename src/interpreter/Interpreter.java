@@ -18,30 +18,30 @@ public abstract class Interpreter<T> {
     /**
      * Interprets the data found in the data file specified by the file path
      *
-     * @param filePath the path to the data file
+     * @param year the year of the data
      * @return a collection of the entities found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Entity> parseData(String filePath) throws FileNotFoundException;
+    abstract public HashMap<String, Entity> parseData(int year) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data file specified by the file path
      *
-     * @param filePath the path to the data file
+     * @param year the year of the data
      * @param limitingParameter the parameter which tells the interpreter which data from the data file to include
      * @return a collection of the entities found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Entity> parseData(String filePath, T limitingParameter) throws FileNotFoundException;
+    abstract public HashMap<String, Entity> parseData(int year, T limitingParameter) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data files specified by the file paths
      *
-     * @param filePaths the paths to the data files
+     * @param years the years of the data
      * @return a collection of the entities found in the data file
      * @throws FileNotFoundException if any of the data files specified by the file paths is not found
      */
-    abstract public HashMap<String, Entity> parseData(String[] filePaths) throws FileNotFoundException;
+    abstract public HashMap<String, Entity> parseData(int[] years) throws FileNotFoundException;
 
     /**
      * Returns the groups of the entities
@@ -55,11 +55,11 @@ public abstract class Interpreter<T> {
     /**
      * Checks to see if the data file specified by the file path exists
      *
-     * @param filePath the file path of the data file
+     * @param year the year of the data
      * @return true if the file exists, false otherwise
      */
-    public boolean hasData(String filePath) {
-        return new File(filePath).exists();
+    public boolean hasData(int year) {
+        return new File("data/" + year + ".csv").exists();
     }
 
     /**

@@ -14,8 +14,8 @@ import java.util.Scanner;
 public class CFBInterpreter extends Interpreter<Integer> {
 
     @Override
-    public HashMap<String, Entity> parseData(String filePath) throws FileNotFoundException {
-        Scanner data = new Scanner(new File(filePath));
+    public HashMap<String, Entity> parseData(int year) throws FileNotFoundException {
+        Scanner data = new Scanner(new File("data/" + year + ".csv"));
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
 
@@ -53,14 +53,14 @@ public class CFBInterpreter extends Interpreter<Integer> {
     }
 
     @Override
-    public HashMap<String, Entity> parseData(String filePath, Integer week) throws FileNotFoundException {
-        Scanner data = new Scanner(new File(filePath));
+    public HashMap<String, Entity> parseData(int year, Integer week) throws FileNotFoundException {
+        Scanner data = new Scanner(new File("data/" + year + ".csv"));
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
 
         Time startDate = getStartDate(data);
 
-        data = new Scanner(new File(filePath));
+        data = new Scanner(new File("data/" + year + ".csv"));
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
 
@@ -103,15 +103,15 @@ public class CFBInterpreter extends Interpreter<Integer> {
     }
 
     @Override
-    public HashMap<String, Entity> parseData(String[] filePaths) throws FileNotFoundException {
+    public HashMap<String, Entity> parseData(int[] years) throws FileNotFoundException {
         entities = new HashMap<>();
         addedEntites = new HashSet<>();
-        for (String filePath : filePaths) {
-            Scanner data = new Scanner(new File(filePath));
+        for (int year : years) {
+            Scanner data = new Scanner(new File("data/" + year + ".csv"));
 
             Time startDate = getStartDate(data);
 
-            data = new Scanner(new File(filePath));
+            data = new Scanner(new File("data/" + year + ".csv"));
             while (data.hasNext()) {
                 String[] line = split(data.nextLine(), ",");
 
