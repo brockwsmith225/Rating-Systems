@@ -2,6 +2,7 @@ package rrs;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
+import interpreter.datatypes.Entity;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
 import rrs.datatypes.Vector;
@@ -10,6 +11,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.HashSet;
 
 public class RRS extends RatingSystem {
 
@@ -53,6 +55,7 @@ public class RRS extends RatingSystem {
         setRatings();
 
         rankEntities();
+        rankGroups();
     }
 
     @Override
@@ -62,7 +65,25 @@ public class RRS extends RatingSystem {
     }
 
     @Override
-    public void rankGroups() {}
+    public void rankGroups() {
+        HashSet<String> addedGroups = new HashSet<>();
+        HashMap<String, Entity> groups = new HashMap<>();
+        HashMap<String, Integer> groupSizes = new HashMap<>();
+        for (Entity entity : rankedEntities) {
+            if (addedGroups.add(entity.getGroup())) {
+                groups.put(entity.getGroup(), new Entity(entity.getGroup()));
+                groupSizes.put(entity.getGroup(), 0);
+            }
+            Entity group = groups.get(entity.getGroup());
+            group.setRating(group.getRating() + entity.getRating());
+            groupSizes.put(entity.getGroup(), groupSizes.get(entity.getGroup()) + 1);
+        }
+        for (String group : groups.keySet()) {
+            groups.get(group).setRating(groups.get(group).getRating() / groupSizes.get(group));
+        }
+        rankedGroups = new ArrayList<>(groups.values());
+        Collections.sort(rankedGroups);
+    }
 
 
 
