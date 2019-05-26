@@ -4,6 +4,7 @@ import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
+import rrs.datatypes.Vector;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -42,11 +43,14 @@ public class RRS extends RatingSystem {
         Matrix partialsMatrix = new Matrix(partials);
         Matrix negIdentity = Matrix.generateIdentityMatrix(entities.size()).multiply(-1.0);
 
-        posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity).rowReduce();
-        negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1)).add(negIdentity).rowReduce();
+        posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
+        negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
 
-        setPositiveRatings(posMatrix);
-        setNegativeRatings(negMatrix);
+        Vector posVector = posMatrix.getEigenvector(1.0);
+        Vector negVector = negMatrix.getEigenvector(1.0);
+
+        setPositiveRatings(posVector);
+        setNegativeRatings(negVector);
         setRatings();
 
         rankEntities();
@@ -155,30 +159,22 @@ public class RRS extends RatingSystem {
     /**
      * Sets the rating that comes from the positive value matrix for every entity
      *
-     * @param matrix the row reduced positive value matrix
+     * @param vector the eigenvector corresponding to the positive ratings
      */
-    private void setPositiveRatings(Matrix matrix) {
-        double ratingSum = 0.0;
-        for (int i = 0; i < matrix.rows(); i++) {
-            ratingSum += matrix.get(i, i);
-        }
-        for (int i = 0; i < matrix.rows(); i++) {
-            entities.get(entityIndexToName.get(i)).setRating("Positive Rating", matrix.get(i, i) / ratingSum);
+    private void setPositiveRatings(Vector vector) {
+        for (int i = 0; i < vector.size(); i++) {
+            entities.get(entityIndexToName.get(i)).setRating("Positive Rating", vector.get(i));
         }
     }
 
     /**
      * Sets the rating that comes from the negative value matrix for every entity
      *
-     * @param matrix the row reduced negative value matrix
+     * @param vector the eigenvector corresponding to the negative ratings
      */
-    private void setNegativeRatings(Matrix matrix) {
-        double ratingSum = 0.0;
-        for (int i = 0; i < matrix.rows(); i++) {
-            ratingSum += matrix.get(i, i);
-        }
-        for (int i = 0; i < matrix.rows(); i++) {
-            entities.get(entityIndexToName.get(i)).setRating("Negative Rating", matrix.get(i, i) / ratingSum);
+    private void setNegativeRatings(Vector vector) {
+        for (int i = 0; i < vector.size(); i++) {
+            entities.get(entityIndexToName.get(i)).setRating("Negative Rating", vector.get(i));
         }
     }
 

@@ -184,7 +184,7 @@ public class Matrix {
     public Vector getEigenvector(double eigenvalue) {
         Matrix m = new Matrix(matrix);
         m = m.add(generateIdentityMatrix(m.rows()).multiply(-1 * eigenvalue));
-        m.rowReduce();
+        m = m.rowReduce();
         if (m.get(m.rows() - 1, m.columns() - 1) != 0.0) {
             return null;
         }

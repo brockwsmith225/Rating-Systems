@@ -50,6 +50,16 @@ public class Vector {
     }
 
     /**
+     * Returns the value at a particular index in a vector.
+     *
+     * @param i the index of the value
+     * @return the value at the given index
+     */
+    public double get(int i) {
+        return vector[i];
+    }
+
+    /**
      * Returns the magnitude of the vector.
      *
      * @return Double representation of the magnitude.
