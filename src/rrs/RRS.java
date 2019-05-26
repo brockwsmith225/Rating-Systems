@@ -41,7 +41,6 @@ public class RRS extends RatingSystem {
         Matrix posMatrix = convertToProbabiltyMatrix(posValues);
         Matrix negMatrix = convertToProbabiltyMatrix(negValues);
         Matrix partialsMatrix = new Matrix(partials);
-        Matrix negIdentity = Matrix.generateIdentityMatrix(entities.size()).multiply(-1.0);
 
         posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
         negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
