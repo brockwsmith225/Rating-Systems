@@ -175,6 +175,33 @@ public class Matrix {
         return m;
     }
 
+    /**
+     * Gets the eigenvector corresponding to a given eigenvalue
+     *
+     * @param eigenvalue the eigenvalue
+     * @return the eigenvector that corresponds to the eigenvalue
+     */
+    public Vector getEigenvector(double eigenvalue) {
+        Matrix m = new Matrix(matrix);
+        m = m.add(generateIdentityMatrix(m.rows()).multiply(-1 * eigenvalue));
+        m.rowReduce();
+        if (m.get(m.rows() - 1, m.columns() - 1) != 0.0) {
+            return null;
+        }
+        double[] v = new double[m.rows()];
+        double sum = 0.0;
+        for (int i = 0; i < m.rows() - 1; i++) {
+            v[i] = -1.0 * m.get(i, m.columns() - 1) / m.get(i, i);
+            sum += v[i];
+        }
+        v[m.rows()-1] = 1.0;
+        sum += 1.0;
+        for (int i = 0; i < v.length; i++) {
+            v[i] /= sum;
+        }
+        return new Vector(v);
+    }
+
     @Override
     public String toString() {
         String res = "";
