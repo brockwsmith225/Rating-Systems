@@ -90,7 +90,7 @@ public class RRS extends RatingSystem {
     //========== RRS only methods ==========
 
     /**
-     * Sets up a 2D array with the values from all data points which are positive for the entity associated with it
+     * Sets up a 2D array with the values from all data points which are positive for the team associated with it
      *
      * @return the 2D array with all positive values
      */
@@ -101,22 +101,22 @@ public class RRS extends RatingSystem {
                 values[r][c] = 0.0;
             }
         }
-        for (String entity : teams.keySet()) {
-            ArrayList<DataPoint> dataPoints = teams.get(entity).getDataPoints();
+        for (String team : teams.keySet()) {
+            ArrayList<DataPoint> dataPoints = teams.get(team).getDataPoints();
             double totalWeightedScoreDiff = 0.0;
             for (DataPoint dataPoint : dataPoints) {
                 if (dataPoint.getWeightedScoreDiff() > 0) {
-                    values[teamNameToIndex.get(entity)][teamNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(dataPoint.getOtherteam())] = Math.abs(dataPoint.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
                 }
             }
-            values[teamNameToIndex.get(entity)][teamNameToIndex.get(entity)] = totalWeightedScoreDiff;
+            values[teamNameToIndex.get(team)][teamNameToIndex.get(team)] = totalWeightedScoreDiff;
         }
         return values;
     }
 
     /**
-     * Sets up a 2D array with the values from all data points which are negative for the entity associated with it
+     * Sets up a 2D array with the values from all data points which are negative for the team associated with it
      *
      * @return the 2D array with all negative values
      */
@@ -127,16 +127,16 @@ public class RRS extends RatingSystem {
                 values[r][c] = 0.0;
             }
         }
-        for (String entity : teams.keySet()) {
-            ArrayList<DataPoint> dataPoints = teams.get(entity).getDataPoints();
+        for (String team : teams.keySet()) {
+            ArrayList<DataPoint> dataPoints = teams.get(team).getDataPoints();
             double totalWeightedScoreDiff = 0.0;
             for (DataPoint dataPoint : dataPoints) {
                 if (dataPoint.getWeightedScoreDiff() < 0) {
-                    values[teamNameToIndex.get(entity)][teamNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(dataPoint.getOtherteam())] = Math.abs(dataPoint.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
                 }
             }
-            values[teamNameToIndex.get(entity)][teamNameToIndex.get(entity)] = totalWeightedScoreDiff;
+            values[teamNameToIndex.get(team)][teamNameToIndex.get(team)] = totalWeightedScoreDiff;
         }
         return values;
     }
@@ -177,7 +177,7 @@ public class RRS extends RatingSystem {
     }
 
     /**
-     * Sets the rating that comes from the positive value matrix for every entity
+     * Sets the rating that comes from the positive value matrix for every team
      *
      * @param vector the eigenvector corresponding to the positive ratings
      */
@@ -188,7 +188,7 @@ public class RRS extends RatingSystem {
     }
 
     /**
-     * Sets the rating that comes from the negative value matrix for every entity
+     * Sets the rating that comes from the negative value matrix for every team
      *
      * @param vector the eigenvector corresponding to the negative ratings
      */
@@ -202,8 +202,8 @@ public class RRS extends RatingSystem {
      * Sets the ratings for every team based on its positive and negative ratings
      */
     private void setRatings() {
-        for (String entity : teams.keySet()) {
-            teams.get(entity).setRating(teams.get(entity).getRating("Positive Rating") - teams.get(entity).getRating("Negative Rating"));
+        for (String team : teams.keySet()) {
+            teams.get(team).setRating(teams.get(team).getRating("Positive Rating") - teams.get(team).getRating("Negative Rating"));
         }
     }
 }
