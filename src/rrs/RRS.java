@@ -1,7 +1,7 @@
 package rrs;
 
 import interpreter.Interpreter;
-import interpreter.datatypes.DataPoint;
+import interpreter.datatypes.Game;
 import interpreter.datatypes.Team;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
@@ -90,7 +90,7 @@ public class RRS extends RatingSystem {
     //========== RRS only methods ==========
 
     /**
-     * Sets up a 2D array with the values from all data points which are positive for the team associated with it
+     * Sets up a 2D array with the values from all games which are positive for the team associated with it
      *
      * @return the 2D array with all positive values
      */
@@ -102,12 +102,12 @@ public class RRS extends RatingSystem {
             }
         }
         for (String team : teams.keySet()) {
-            ArrayList<DataPoint> dataPoints = teams.get(team).getDataPoints();
+            ArrayList<Game> games = teams.get(team).getNumberOfGames();
             double totalWeightedScoreDiff = 0.0;
-            for (DataPoint dataPoint : dataPoints) {
-                if (dataPoint.getWeightedScoreDiff() > 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(dataPoint.getOtherTeam())] = Math.abs(dataPoint.getWeightedScoreDiff());
-                    totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
+            for (Game game : games) {
+                if (game.getWeightedScoreDiff() > 0) {
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOtherTeam())] = Math.abs(game.getWeightedScoreDiff());
+                    totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }
             values[teamNameToIndex.get(team)][teamNameToIndex.get(team)] = totalWeightedScoreDiff;
@@ -116,7 +116,7 @@ public class RRS extends RatingSystem {
     }
 
     /**
-     * Sets up a 2D array with the values from all data points which are negative for the team associated with it
+     * Sets up a 2D array with the values from all games which are negative for the team associated with it
      *
      * @return the 2D array with all negative values
      */
@@ -128,12 +128,12 @@ public class RRS extends RatingSystem {
             }
         }
         for (String team : teams.keySet()) {
-            ArrayList<DataPoint> dataPoints = teams.get(team).getDataPoints();
+            ArrayList<Game> games = teams.get(team).getNumberOfGames();
             double totalWeightedScoreDiff = 0.0;
-            for (DataPoint dataPoint : dataPoints) {
-                if (dataPoint.getWeightedScoreDiff() < 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(dataPoint.getOtherTeam())] = Math.abs(dataPoint.getWeightedScoreDiff());
-                    totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
+            for (Game game : games) {
+                if (game.getWeightedScoreDiff() < 0) {
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOtherTeam())] = Math.abs(game.getWeightedScoreDiff());
+                    totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }
             values[teamNameToIndex.get(team)][teamNameToIndex.get(team)] = totalWeightedScoreDiff;

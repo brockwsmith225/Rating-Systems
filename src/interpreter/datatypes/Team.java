@@ -11,8 +11,8 @@ public class Team implements Comparable<Team> {
     private String name, group;
     private double rating;
     private HashMap<String, Double> otherRatings;
-    private int dataPoints;
-    private ArrayList<DataPoint> data;
+    private int numberOfGames;
+    private ArrayList<Game> games;
 
     /**
      * Creates a new instance of an team.
@@ -24,8 +24,8 @@ public class Team implements Comparable<Team> {
         this.group = "";
         this.rating = 0.0;
         this.otherRatings = new HashMap<>();
-        this.dataPoints = 0;
-        this.data = new ArrayList<>();
+        this.numberOfGames = 0;
+        this.games = new ArrayList<>();
     }
 
     /**
@@ -96,24 +96,24 @@ public class Team implements Comparable<Team> {
     }
 
     /**
-     * Adds a data point to the team
+     * Adds a game to the team
      *
-     * @param dataPoint the data point to be added
+     * @param game the game to be added
      */
-    public void addDataPoint(DataPoint dataPoint) {
-        data.add(dataPoint);
-        dataPoints++;
+    public void addGame(Game game) {
+        games.add(game);
+        numberOfGames++;
     }
 
     /**
-     * Returns a copy of the data points of the team
+     * Returns a copy of the games of the team
      *
-     * @return a copy of the data points of the team
+     * @return a copy of the games of the team
      */
-    public ArrayList<DataPoint> getDataPoints() {
-        ArrayList<DataPoint> dataCopy = new ArrayList<>();
-        for (DataPoint dp : data) {
-            dataCopy.add(DataPoint.copyOf(dp));
+    public ArrayList<Game> getNumberOfGames() {
+        ArrayList<Game> dataCopy = new ArrayList<>();
+        for (Game dp : games) {
+            dataCopy.add(Game.copyOf(dp));
         }
         return dataCopy;
     }

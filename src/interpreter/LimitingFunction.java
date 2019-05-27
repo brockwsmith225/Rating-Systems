@@ -1,13 +1,13 @@
 package interpreter;
 
-import interpreter.datatypes.DataPoint;
+import interpreter.datatypes.Game;
 
 public interface LimitingFunction {
     /**
-     * Determines whether or not the data point should be included
+     * Determines whether or not the game should be included
      *
-     * @param dataPoint the data point to be considered
-     * @return true if the data point should be included, false otherwise
+     * @param game the game to be considered
+     * @return true if the game should be included, false otherwise
      */
-    boolean includeData(DataPoint dataPoint);
+    boolean includeData(Game game);
 }

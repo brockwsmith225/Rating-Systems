@@ -1,7 +1,7 @@
 package cfb;
 
 import interpreter.Interpreter;
-import interpreter.datatypes.DataPoint;
+import interpreter.datatypes.Game;
 import interpreter.datatypes.Team;
 import interpreter.datatypes.Time;
 
@@ -49,7 +49,7 @@ public class CFBInterpreter extends Interpreter<Integer> {
                 groups.add(conference);
             }
 
-            teams.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+            teams.get(team).addGame(new Game(opponent, teamScore, opponentScore, weightedScoreDifference, date));
         }
 
         return teams;
@@ -98,7 +98,7 @@ public class CFBInterpreter extends Interpreter<Integer> {
                     groups.add(conference);
                 }
 
-                teams.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+                teams.get(team).addGame(new Game(opponent, teamScore, opponentScore, weightedScoreDifference, date));
             }
         }
 
@@ -142,7 +142,7 @@ public class CFBInterpreter extends Interpreter<Integer> {
                     groups.add(conference);
                 }
 
-                teams.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+                teams.get(team).addGame(new Game(opponent, teamScore, opponentScore, weightedScoreDifference, date));
             }
         }
         return teams;
