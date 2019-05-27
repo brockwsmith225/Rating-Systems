@@ -132,7 +132,7 @@ public class RRS extends RatingSystem {
             double totalWeightedScoreDiff = 0.0;
             for (DataPoint dataPoint : dataPoints) {
                 if (dataPoint.getWeightedScoreDiff() < 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(dataPoint.getOtherteam())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(dataPoint.getOtherTeam())] = Math.abs(dataPoint.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
                 }
             }

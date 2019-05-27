@@ -6,7 +6,7 @@ import java.util.HashMap;
  * A representation of a data point which compares two teams.
  */
 public class DataPoint {
-    private String otherEntity;
+    private String otherTeam;
     private double score, otherScore, weightedScoreDiff;
     private Time time;
     private HashMap<String, Double> otherData;
@@ -14,14 +14,14 @@ public class DataPoint {
     /**
      *  Creates a new data point.
      *
-     * @param otherEntity the name of the other entity of the data point
-     * @param score the score of the entity the data point belongs to
-     * @param otherScore the score of the other entity of the data point
+     * @param otherTeam the name of the other team of the data point
+     * @param score the score of the team the data point belongs to
+     * @param otherScore the score of the other team of the data point
      * @param weightedScoreDiff the weighted difference of scores
      * @param time the date at which the data point occurred
      */
-    public DataPoint(String otherEntity, double score, double otherScore, double weightedScoreDiff, Time time) {
-        this.otherEntity = otherEntity;
+    public DataPoint(String otherTeam, double score, double otherScore, double weightedScoreDiff, Time time) {
+        this.otherTeam = otherTeam;
         this.score = score;
         this.otherScore = otherScore;
         this.weightedScoreDiff = weightedScoreDiff;
@@ -29,27 +29,27 @@ public class DataPoint {
     }
 
     /**
-     * Returns the name of the other entity of the data point
+     * Returns the name of the other team of the data point
      *
-     * @return the name of the other entity of the data point
+     * @return the name of the other team of the data point
      */
-    public String getOtherEntity() {
-        return otherEntity;
+    public String getOtherTeam() {
+        return otherTeam;
     }
 
     /**
-     * Returns the score of the entity the data point belongs to
+     * Returns the score of the team the data point belongs to
      *
-     * @return the score of the entity the data point belongs to
+     * @return the score of the team the data point belongs to
      */
     public double getScore() {
         return score;
     }
 
     /**
-     * Returns the score of the other entity of the data point
+     * Returns the score of the other team of the data point
      *
-     * @return the score of the other entity of the data point
+     * @return the score of the other team of the data point
      */
     public double getOtherScore() {
         return otherScore;
@@ -81,6 +81,6 @@ public class DataPoint {
      * @return a copy of the data point
      */
     static DataPoint copyOf(DataPoint dataPoint) {
-        return new DataPoint(dataPoint.otherEntity, dataPoint.score, dataPoint.otherScore, dataPoint.weightedScoreDiff, dataPoint.time);
+        return new DataPoint(dataPoint.otherTeam, dataPoint.score, dataPoint.otherScore, dataPoint.weightedScoreDiff, dataPoint.time);
     }
 }
