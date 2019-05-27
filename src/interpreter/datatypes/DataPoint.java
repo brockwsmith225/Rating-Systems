@@ -3,7 +3,7 @@ package interpreter.datatypes;
 import java.util.HashMap;
 
 /**
- * A representation of a data point which compares two entities.
+ * A representation of a data point which compares two teams.
  */
 public class DataPoint {
     private String otherEntity;

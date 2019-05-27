@@ -7,7 +7,7 @@ public class Main {
         try {
             RatingSystem rrs = new RRS(new CFBInterpreter(), 2018);
             rrs.setup();
-            rrs.printEntityRankings();
+            rrs.printTeamRankings();
         } catch (Exception e) {
             e.printStackTrace();
         }

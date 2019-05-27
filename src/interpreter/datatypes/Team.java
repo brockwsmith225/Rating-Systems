@@ -6,7 +6,7 @@ import java.util.HashMap;
 /**
  *
  */
-public class Entity implements Comparable<Entity> {
+public class Team implements Comparable<Team> {
 
     private String name, group;
     private double rating;
@@ -15,11 +15,11 @@ public class Entity implements Comparable<Entity> {
     private ArrayList<DataPoint> data;
 
     /**
-     * Creates a new instance of an entity.
+     * Creates a new instance of an team.
      *
-     * @param name the name of the new entity
+     * @param name the name of the new team
      */
-    public Entity(String name) {
+    public Team(String name) {
         this.name = name;
         this.group = "";
         this.rating = 0.0;
@@ -29,63 +29,63 @@ public class Entity implements Comparable<Entity> {
     }
 
     /**
-     * Returns the name of the entity
+     * Returns the name of the team
      *
-     * @return the name of the entity
+     * @return the name of the team
      */
     public String getName() {
         return name;
     }
 
     /**
-     * Assigns the entity to a particular group
+     * Assigns the team to a particular group
      *
-     * @param group the name of the group to assign the entity to
+     * @param group the name of the group to assign the team to
      */
     public void setGroup(String group) {
         this.group = group;
     }
 
     /**
-     * Returns the group the entity belongs to
+     * Returns the group the team belongs to
      *
-     * @return the group the entity belongs to
+     * @return the group the team belongs to
      */
     public String getGroup() {
         return group;
     }
 
     /**
-     * Sets the rating of the entity
+     * Sets the rating of the team
      *
-     * @param rating the new rating of the entity
+     * @param rating the new rating of the team
      */
     public void setRating(double rating) {
         this.rating = rating;
     }
 
     /**
-     * Returns the rating of the entity
+     * Returns the rating of the team
      *
-     * @return the rating of the entity
+     * @return the rating of the team
      */
     public double getRating() {
         return rating;
     }
 
     /**
-     * Sets the rating of the entity
+     * Sets the rating of the team
      *
-     * @param rating the new rating of the entity
+     * @param rating the new rating of the team
      */
     public void setRating(String ratingName, double rating) {
         otherRatings.put(ratingName, rating);
     }
 
     /**
-     * Returns the rating of the entity
+     * Returns the rating of the team
      *
-     * @return the rating of the entity
+     * @return the rating of the team
      * @throws NullPointerException if the rating requested does not exist
      */
     public double getRating(String ratingName) throws NullPointerException {
@@ -96,7 +96,7 @@ public class Entity implements Comparable<Entity> {
     }
 
     /**
-     * Adds a data point to the entity
+     * Adds a data point to the team
      *
      * @param dataPoint the data point to be added
      */
@@ -106,9 +106,9 @@ public class Entity implements Comparable<Entity> {
     }
 
     /**
-     * Returns a copy of the data points of the entity
+     * Returns a copy of the data points of the team
      *
-     * @return a copy of the data points of the entity
+     * @return a copy of the data points of the team
      */
     public ArrayList<DataPoint> getDataPoints() {
         ArrayList<DataPoint> dataCopy = new ArrayList<>();
@@ -119,7 +119,7 @@ public class Entity implements Comparable<Entity> {
     }
 
     @Override
-    public int compareTo(Entity e) {
+    public int compareTo(Team e) {
         if (rating < e.rating) {
             return 1;
         }

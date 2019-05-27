@@ -2,7 +2,7 @@ package rrs;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
-import interpreter.datatypes.Entity;
+import interpreter.datatypes.Team;
 import ratingSystem.RatingSystem;
 import rrs.datatypes.Matrix;
 import rrs.datatypes.Vector;
@@ -15,8 +15,8 @@ import java.util.HashSet;
 
 public class RRS extends RatingSystem {
 
-    private HashMap<String, Integer> entityNameToIndex;
-    private HashMap<Integer, String> entityIndexToName;
+    private HashMap<String, Integer> teamNameToIndex;
+    private HashMap<Integer, String> teamIndexToName;
 
     public RRS() {
         super();
@@ -24,12 +24,12 @@ public class RRS extends RatingSystem {
 
     public RRS(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
-        entityNameToIndex = new HashMap<>();
-        entityIndexToName = new HashMap<>();
+        teamNameToIndex = new HashMap<>();
+        teamIndexToName = new HashMap<>();
         int i = 0;
-        for (String entity : entities.keySet()) {
-            entityNameToIndex.put(entity, i);
-            entityIndexToName.put(i, entity);
+        for (String team : teams.keySet()) {
+            teamNameToIndex.put(team, i);
+            teamIndexToName.put(i, team);
             i++;
         }
     }
@@ -54,29 +54,29 @@ public class RRS extends RatingSystem {
         setNegativeRatings(negVector);
         setRatings();
 
-        rankEntities();
+        rankTeams();
         rankGroups();
     }
 
     @Override
-    public void rankEntities() {
-        rankedEntities = new ArrayList<>(entities.values());
-        Collections.sort(rankedEntities);
+    public void rankTeams() {
+        rankedTeams = new ArrayList<>(teams.values());
+        Collections.sort(rankedTeams);
     }
 
     @Override
     public void rankGroups() {
         HashSet<String> addedGroups = new HashSet<>();
-        HashMap<String, Entity> groups = new HashMap<>();
+        HashMap<String, Team> groups = new HashMap<>();
         HashMap<String, Integer> groupSizes = new HashMap<>();
-        for (Entity entity : rankedEntities) {
-            if (addedGroups.add(entity.getGroup())) {
-                groups.put(entity.getGroup(), new Entity(entity.getGroup()));
-                groupSizes.put(entity.getGroup(), 0);
+        for (Team team : rankedTeams) {
+            if (addedGroups.add(team.getGroup())) {
+                groups.put(team.getGroup(), new Team(team.getGroup()));
+                groupSizes.put(team.getGroup(), 0);
             }
-            Entity group = groups.get(entity.getGroup());
-            group.setRating(group.getRating() + entity.getRating());
-            groupSizes.put(entity.getGroup(), groupSizes.get(entity.getGroup()) + 1);
+            Team group = groups.get(team.getGroup());
+            group.setRating(group.getRating() + team.getRating());
+            groupSizes.put(team.getGroup(), groupSizes.get(team.getGroup()) + 1);
         }
         for (String group : groups.keySet()) {
             groups.get(group).setRating(groups.get(group).getRating() / groupSizes.get(group));
@@ -95,22 +95,22 @@ public class RRS extends RatingSystem {
      * @return the 2D array with all positive values
      */
     private double[][] setupPositiveValues() {
-        double[][] values = new double[entities.size()][entities.size()];
-        for (int r = 0; r < entities.size(); r++) {
-            for (int c = 0; c < entities.size(); c++) {
+        double[][] values = new double[teams.size()][teams.size()];
+        for (int r = 0; r < teams.size(); r++) {
+            for (int c = 0; c < teams.size(); c++) {
                 values[r][c] = 0.0;
             }
         }
-        for (String entity : entities.keySet()) {
-            ArrayList<DataPoint> dataPoints = entities.get(entity).getDataPoints();
+        for (String entity : teams.keySet()) {
+            ArrayList<DataPoint> dataPoints = teams.get(entity).getDataPoints();
             double totalWeightedScoreDiff = 0.0;
             for (DataPoint dataPoint : dataPoints) {
                 if (dataPoint.getWeightedScoreDiff() > 0) {
-                    values[entityNameToIndex.get(entity)][entityNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(entity)][teamNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
                 }
             }
-            values[entityNameToIndex.get(entity)][entityNameToIndex.get(entity)] = totalWeightedScoreDiff;
+            values[teamNameToIndex.get(entity)][teamNameToIndex.get(entity)] = totalWeightedScoreDiff;
         }
         return values;
     }
@@ -121,22 +121,22 @@ public class RRS extends RatingSystem {
      * @return the 2D array with all negative values
      */
     private double[][] setupNegativeValues() {
-        double[][] values = new double[entities.size()][entities.size()];
-        for (int r = 0; r < entities.size(); r++) {
-            for (int c = 0; c < entities.size(); c++) {
+        double[][] values = new double[teams.size()][teams.size()];
+        for (int r = 0; r < teams.size(); r++) {
+            for (int c = 0; c < teams.size(); c++) {
                 values[r][c] = 0.0;
             }
         }
-        for (String entity : entities.keySet()) {
-            ArrayList<DataPoint> dataPoints = entities.get(entity).getDataPoints();
+        for (String entity : teams.keySet()) {
+            ArrayList<DataPoint> dataPoints = teams.get(entity).getDataPoints();
             double totalWeightedScoreDiff = 0.0;
             for (DataPoint dataPoint : dataPoints) {
                 if (dataPoint.getWeightedScoreDiff() < 0) {
-                    values[entityNameToIndex.get(entity)][entityNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(entity)][teamNameToIndex.get(dataPoint.getOtherEntity())] = Math.abs(dataPoint.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(dataPoint.getWeightedScoreDiff());
                 }
             }
-            values[entityNameToIndex.get(entity)][entityNameToIndex.get(entity)] = totalWeightedScoreDiff;
+            values[teamNameToIndex.get(entity)][teamNameToIndex.get(entity)] = totalWeightedScoreDiff;
         }
         return values;
     }
@@ -148,10 +148,10 @@ public class RRS extends RatingSystem {
      * @return the 2D array with the partial values
      */
     private double[][] setupPartials() {
-        double[][] partials = new double[entities.size()][entities.size()];
-        for (int r = 0; r < entities.size(); r++) {
-            for (int c = 0; c < entities.size(); c++) {
-                partials[r][c] = 1.0 / entities.size();
+        double[][] partials = new double[teams.size()][teams.size()];
+        for (int r = 0; r < teams.size(); r++) {
+            for (int c = 0; c < teams.size(); c++) {
+                partials[r][c] = 1.0 / teams.size();
             }
         }
         return partials;
@@ -183,7 +183,7 @@ public class RRS extends RatingSystem {
      */
     private void setPositiveRatings(Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            entities.get(entityIndexToName.get(i)).setRating("Positive Rating", vector.get(i));
+            teams.get(teamIndexToName.get(i)).setRating("Positive Rating", vector.get(i));
         }
     }
 
@@ -194,16 +194,16 @@ public class RRS extends RatingSystem {
      */
     private void setNegativeRatings(Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            entities.get(entityIndexToName.get(i)).setRating("Negative Rating", vector.get(i));
+            teams.get(teamIndexToName.get(i)).setRating("Negative Rating", vector.get(i));
         }
     }
 
     /**
-     * Sets the ratings for every entity based on its positive and negative ratings
+     * Sets the ratings for every team based on its positive and negative ratings
      */
     private void setRatings() {
-        for (String entity : entities.keySet()) {
-            entities.get(entity).setRating(entities.get(entity).getRating("Positive Rating") - entities.get(entity).getRating("Negative Rating"));
+        for (String entity : teams.keySet()) {
+            teams.get(entity).setRating(teams.get(entity).getRating("Positive Rating") - teams.get(entity).getRating("Negative Rating"));
         }
     }
 }

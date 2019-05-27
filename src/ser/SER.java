@@ -8,7 +8,7 @@ public class SER extends RatingSystem {
     public void setup() {}
 
     @Override
-    public void rankEntities() {}
+    public void rankTeams() {}
 
     @Override
     public void rankGroups() {}

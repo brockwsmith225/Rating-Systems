@@ -2,13 +2,11 @@ package cfb;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.DataPoint;
-import interpreter.datatypes.Entity;
+import interpreter.datatypes.Team;
 import interpreter.datatypes.Time;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -17,11 +15,11 @@ import java.util.Scanner;
 public class CFBInterpreter extends Interpreter<Integer> {
 
     @Override
-    public HashMap<String, Entity> parseData(int year) throws FileNotFoundException {
+    public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
-        entities = new HashMap<>();
+        teams = new HashMap<>();
         groups = new ArrayList<>();
-        addedEntites = new HashSet<>();
+        addedTeams = new HashSet<>();
         addedGroups = new HashSet<>();
 
         while (data.hasNext()) {
@@ -39,29 +37,29 @@ public class CFBInterpreter extends Interpreter<Integer> {
             int scoreDifference = teamScore - opponentScore;
             int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
 
-            if (addedEntites.add(team)) {
-                entities.put(team, new Entity(team));
+            if (addedTeams.add(team)) {
+                teams.put(team, new Team(team));
             }
-            if (addedEntites.add(opponent)) {
-                entities.put(opponent, new Entity(opponent));
+            if (addedTeams.add(opponent)) {
+                teams.put(opponent, new Team(opponent));
             }
 
-            entities.get(team).setGroup(conference);
+            teams.get(team).setGroup(conference);
             if (addedGroups.add(conference)) {
                 groups.add(conference);
             }
 
-            entities.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+            teams.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
         }
 
-        return entities;
+        return teams;
     }
 
     @Override
-    public HashMap<String, Entity> parseData(int year, Integer week) throws FileNotFoundException {
+    public HashMap<String, Team> parseData(int year, Integer week) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
-        entities = new HashMap<>();
-        addedEntites = new HashSet<>();
+        teams = new HashMap<>();
+        addedTeams = new HashSet<>();
 
         Time startDate = getStartDate(data);
 
@@ -88,29 +86,29 @@ public class CFBInterpreter extends Interpreter<Integer> {
             }
 
             if (gameWeek <= week) {
-                if (addedEntites.add(team)) {
-                    entities.put(team, new Entity(team));
+                if (addedTeams.add(team)) {
+                    teams.put(team, new Team(team));
                 }
-                if (addedEntites.add(opponent)) {
-                    entities.put(opponent, new Entity(opponent));
+                if (addedTeams.add(opponent)) {
+                    teams.put(opponent, new Team(opponent));
                 }
 
-                entities.get(team).setGroup(conference);
+                teams.get(team).setGroup(conference);
                 if (addedGroups.add(conference)) {
                     groups.add(conference);
                 }
 
-                entities.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+                teams.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
             }
         }
 
-        return entities;
+        return teams;
     }
 
     @Override
-    public HashMap<String, Entity> parseData(int[] years) throws FileNotFoundException {
-        entities = new HashMap<>();
-        addedEntites = new HashSet<>();
+    public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException {
+        teams = new HashMap<>();
+        addedTeams = new HashSet<>();
         for (int year : years) {
             Scanner data = new Scanner(new File("ratingsystems/src/cfb/data/cfb-" + year + ".csv"));
 
@@ -132,22 +130,22 @@ public class CFBInterpreter extends Interpreter<Integer> {
                 int scoreDifference = Math.abs(teamScore - opponentScore);
                 int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
 
-                if (addedEntites.add(team)) {
-                    entities.put(team, new Entity(team));
+                if (addedTeams.add(team)) {
+                    teams.put(team, new Team(team));
                 }
-                if (addedEntites.add(opponent)) {
-                    entities.put(opponent, new Entity(opponent));
+                if (addedTeams.add(opponent)) {
+                    teams.put(opponent, new Team(opponent));
                 }
 
-                entities.get(team).setGroup(conference);
+                teams.get(team).setGroup(conference);
                 if (addedGroups.add(conference)) {
                     groups.add(conference);
                 }
 
-                entities.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+                teams.get(team).addDataPoint(new DataPoint(opponent, teamScore, opponentScore, weightedScoreDifference, date));
             }
         }
-        return entities;
+        return teams;
     }
 
     @Override

@@ -2,24 +2,24 @@ package ratingSystem;
 
 import interpreter.Interpreter;
 import interpreter.LimitingFunction;
-import interpreter.datatypes.Entity;
+import interpreter.datatypes.Team;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
 public abstract class RatingSystem {
-    protected HashMap<String, Entity> entities;
-    protected ArrayList<Entity> rankedEntities;
-    protected ArrayList<Entity> rankedGroups;
+    protected HashMap<String, Team> teams;
+    protected ArrayList<Team> rankedTeams;
+    protected ArrayList<Team> rankedGroups;
     protected Interpreter interpreter;
 
     /**
      * Creates a new instance of a Rating System with no data
      */
     public RatingSystem() {
-        entities = new HashMap<>();
-        rankedEntities = new ArrayList<>();
+        teams = new HashMap<>();
+        rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
     }
 
@@ -31,8 +31,8 @@ public abstract class RatingSystem {
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
     public RatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
-        entities = interpreter.parseData(year);
-        rankedEntities = new ArrayList<>();
+        teams = interpreter.parseData(year);
+        rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
@@ -46,37 +46,37 @@ public abstract class RatingSystem {
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
     public RatingSystem(Interpreter interpreter, int year, LimitingFunction limitingFunction) throws FileNotFoundException {
-        entities = interpreter.parseData(year, limitingFunction);
-        rankedEntities = new ArrayList<>();
+        teams = interpreter.parseData(year, limitingFunction);
+        rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
 
     /**
-     * Setups the method for rating the entities as necessary
+     * Setups the method for rating the teams as necessary
      */
     abstract public void setup();
 
     /**
-     * Ranks the entities
+     * Ranks the teams
      */
-    abstract public void rankEntities();
+    abstract public void rankTeams();
 
     /**
-     * Ranks the groups of entities
+     * Ranks the groups of teams
      */
     abstract public void rankGroups();
 
     /**
-     * Prints the entities in ranked order along with their ratings
+     * Prints the teams in ranked order along with their ratings
      */
-    public void printEntityRankings() {
+    public void printTeamRankings() {
         int rank = 1;
-        for (int i = 0; i < rankedEntities.size(); i++) {
-            if (i > 0 && rankedEntities.get(i).getRating() != rankedEntities.get(i - 1).getRating()) {
+        for (int i = 0; i < rankedTeams.size(); i++) {
+            if (i > 0 && rankedTeams.get(i).getRating() != rankedTeams.get(i - 1).getRating()) {
                 rank = i + 1;
             }
-            System.out.println(rank + ". " + rankedEntities.get(i).getName() + " " + rankedEntities.get(i).getRating());
+            System.out.println(rank + ". " + rankedTeams.get(i).getName() + " " + rankedTeams.get(i).getRating());
         }
     }
 }

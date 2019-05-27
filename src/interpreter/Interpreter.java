@@ -1,6 +1,6 @@
 package interpreter;
 
-import interpreter.datatypes.Entity;
+import interpreter.datatypes.Team;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -9,8 +9,8 @@ import java.util.HashMap;
 
 public abstract class Interpreter<T> {
 
-    protected HashMap<String, Entity> entities;
-    protected HashSet<String> addedEntites;
+    protected HashMap<String, Team> teams;
+    protected HashSet<String> addedTeams;
     protected ArrayList<String> groups;
     protected HashSet<String> addedGroups;
 
@@ -18,32 +18,32 @@ public abstract class Interpreter<T> {
      * Interprets the data found in the data file specified by the file path
      *
      * @param year the year of the data
-     * @return a collection of the entities found in the data file
+     * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Entity> parseData(int year) throws FileNotFoundException;
+    abstract public HashMap<String, Team> parseData(int year) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data file specified by the file path
      *
      * @param year the year of the data
      * @param limitingParameter the parameter which tells the interpreter which data from the data file to include
-     * @return a collection of the entities found in the data file
+     * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Entity> parseData(int year, T limitingParameter) throws FileNotFoundException;
+    abstract public HashMap<String, Team> parseData(int year, T limitingParameter) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data files specified by the file paths
      *
      * @param years the years of the data
-     * @return a collection of the entities found in the data file
+     * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if any of the data files specified by the file paths is not found
      */
-    abstract public HashMap<String, Entity> parseData(int[] years) throws FileNotFoundException;
+    abstract public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException;
 
     /**
-     * Returns the groups of the entities
+     * Returns the groups of the teams
      *
      * @return the groups
      */
