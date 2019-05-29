@@ -1,10 +1,21 @@
 package simpleEfficiencyRating;
 
+import interpreter.Interpreter;
 import interpreter.datatypes.Game;
 import interpreter.datatypes.Team;
 import ratingSystem.RatingSystem;
 
+import java.io.FileNotFoundException;
+
 public class SimpleEfficiencyRating extends RatingSystem {
+
+    public SimpleEfficiencyRating() {
+        super();
+    }
+
+    public SimpleEfficiencyRating(Interpreter interpreter, int year) throws FileNotFoundException {
+        super(interpreter, year);
+    }
 
     @Override
     public void setup() {
