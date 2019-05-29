@@ -6,6 +6,7 @@ import interpreter.datatypes.Team;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 
 public abstract class RatingSystem {
@@ -60,7 +61,10 @@ public abstract class RatingSystem {
     /**
      * Ranks the teams
      */
-    abstract public void rankTeams();
+    public void rankTeams() {
+        rankedTeams = new ArrayList<>(teams.values());
+        Collections.sort(rankedTeams);
+    }
 
     /**
      * Ranks the groups of teams

@@ -59,12 +59,6 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     @Override
-    public void rankTeams() {
-        rankedTeams = new ArrayList<>(teams.values());
-        Collections.sort(rankedTeams);
-    }
-
-    @Override
     public void rankGroups() {
         HashSet<String> addedGroups = new HashSet<>();
         HashMap<String, Team> groups = new HashMap<>();
