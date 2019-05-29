@@ -28,16 +28,21 @@ public class SimpleEfficiencyRating extends RatingSystem {
             double defensiveEfficiency = 0.0;
             for (Game game : team.getGames()) {
                 games++;
+                offensiveEfficiency += calculateOffensiveEfficiency(game);
+                defensiveEfficiency += calculateDefensiveEfficiency(game);
             }
+            team.setRating("Offensive Rating", offensiveEfficiency / games);
+            team.setRating("Defensive Rating", games / defensiveEfficiency);
+            team.setRating(offensiveEfficiency / defensiveEfficiency);
         }
     }
 
     public double calculateOffensiveEfficiency(Game game) {
-
+        return game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
     }
 
     public double calculateDefensiveEfficiency(Game game) {
-
+        return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
     }
 
 }
