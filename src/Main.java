@@ -1,11 +1,11 @@
 import cfb.CFBInterpreter;
 import ratingSystem.RatingSystem;
-import rrs.RRS;
+import relativeRatingSystem.RelativeRatingSystem;
 
 public class Main {
     public static void main(String[] args) {
         try {
-            RatingSystem rrs = new RRS(new CFBInterpreter(), 2018);
+            RatingSystem rrs = new RelativeRatingSystem(new CFBInterpreter(), 2018);
             rrs.setup();
             rrs.printTeamRankings();
         } catch (Exception e) {

@@ -1,11 +1,11 @@
-package rrs;
+package relativeRatingSystem;
 
 import interpreter.Interpreter;
 import interpreter.datatypes.Game;
 import interpreter.datatypes.Team;
 import ratingSystem.RatingSystem;
-import rrs.datatypes.Matrix;
-import rrs.datatypes.Vector;
+import relativeRatingSystem.datatypes.Matrix;
+import relativeRatingSystem.datatypes.Vector;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -13,16 +13,16 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class RRS extends RatingSystem {
+public class RelativeRatingSystem extends RatingSystem {
 
     private HashMap<String, Integer> teamNameToIndex;
     private HashMap<Integer, String> teamIndexToName;
 
-    public RRS() {
+    public RelativeRatingSystem() {
         super();
     }
 
-    public RRS(Interpreter interpreter, int year) throws FileNotFoundException {
+    public RelativeRatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
@@ -87,7 +87,7 @@ public class RRS extends RatingSystem {
 
 
 
-    //========== RRS only methods ==========
+    //========== RelativeRatingSystem only methods ==========
 
     /**
      * Sets up a 2D array with the values from all games which are positive for the team associated with it
