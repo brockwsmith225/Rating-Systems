@@ -110,7 +110,7 @@ public class Team implements Comparable<Team> {
      *
      * @return a copy of the games of the team
      */
-    public ArrayList<Game> getNumberOfGames() {
+    public ArrayList<Game> getGames() {
         ArrayList<Game> dataCopy = new ArrayList<>();
         for (Game dp : games) {
             dataCopy.add(Game.copyOf(dp));
