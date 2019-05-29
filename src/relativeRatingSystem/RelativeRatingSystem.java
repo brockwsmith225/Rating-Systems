@@ -96,7 +96,7 @@ public class RelativeRatingSystem extends RatingSystem {
             }
         }
         for (String team : teams.keySet()) {
-            ArrayList<Game> games = teams.get(team).getNumberOfGames();
+            ArrayList<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getWeightedScoreDiff() > 0) {
@@ -122,7 +122,7 @@ public class RelativeRatingSystem extends RatingSystem {
             }
         }
         for (String team : teams.keySet()) {
-            ArrayList<Game> games = teams.get(team).getNumberOfGames();
+            ArrayList<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getWeightedScoreDiff() < 0) {

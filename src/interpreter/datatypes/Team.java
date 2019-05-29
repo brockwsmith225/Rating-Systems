@@ -106,6 +106,15 @@ public class Team implements Comparable<Team> {
     }
 
     /**
+     * Returns the number of games the team played
+     *
+     * @return the number of games the team played
+     */
+    public int getNumberOfGames() {
+        return numberOfGames;
+    }
+
+    /**
      * Returns a copy of the games of the team
      *
      * @return a copy of the games of the team
