@@ -100,7 +100,7 @@ public class RelativeRatingSystem extends RatingSystem {
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getWeightedScoreDiff() > 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOtherTeam())] = Math.abs(game.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] = Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }
@@ -126,7 +126,7 @@ public class RelativeRatingSystem extends RatingSystem {
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getWeightedScoreDiff() < 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOtherTeam())] = Math.abs(game.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] = Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }

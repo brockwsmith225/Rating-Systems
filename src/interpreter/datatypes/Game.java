@@ -6,35 +6,35 @@ import java.util.HashMap;
  * A representation of a game which compares two teams.
  */
 public class Game {
-    private String otherTeam;
-    private double score, otherScore, weightedScoreDiff;
+    private String opponent;
+    private double score, opponentScore, weightedScoreDiff;
     private Time time;
     private HashMap<String, Double> otherData;
 
     /**
      *  Creates a new game.
      *
-     * @param otherTeam the name of the other team of the game
+     * @param opponent the name of the opponent of the game
      * @param score the score of the team the game belongs to
-     * @param otherScore the score of the other team of the game
+     * @param opponentScore the score of the opponent of the game
      * @param weightedScoreDiff the weighted difference of scores
      * @param time the date at which the game occurred
      */
-    public Game(String otherTeam, double score, double otherScore, double weightedScoreDiff, Time time) {
-        this.otherTeam = otherTeam;
+    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, Time time) {
+        this.opponent = opponent;
         this.score = score;
-        this.otherScore = otherScore;
+        this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
         this.time = time;
     }
 
     /**
-     * Returns the name of the other team of the game
+     * Returns the name of the opponent of the game
      *
-     * @return the name of the other team of the game
+     * @return the name of the opponent of the game
      */
-    public String getOtherTeam() {
-        return otherTeam;
+    public String getOpponent() {
+        return opponent;
     }
 
     /**
@@ -47,12 +47,12 @@ public class Game {
     }
 
     /**
-     * Returns the score of the other team of the game
+     * Returns the score of the opponent of the game
      *
-     * @return the score of the other team of the game
+     * @return the score of the opponent of the game
      */
-    public double getOtherScore() {
-        return otherScore;
+    public double getOpponentScore() {
+        return opponentScore;
     }
 
     /**
@@ -81,6 +81,6 @@ public class Game {
      * @return a copy of the game
      */
     static Game copyOf(Game game) {
-        return new Game(game.otherTeam, game.score, game.otherScore, game.weightedScoreDiff, game.time);
+        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.time);
     }
 }
