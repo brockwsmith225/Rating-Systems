@@ -127,6 +127,32 @@ public class Team implements Comparable<Team> {
         return dataCopy;
     }
 
+    /**
+     * Calculates the average points scored by the team per game
+     *
+     * @return the average points scored per game
+     */
+    public double getAveragePointsPerGame() {
+        double averagePointsPerGame = 0.0;
+        for (Game game : games) {
+            averagePointsPerGame += game.getScore();
+        }
+        return averagePointsPerGame / numberOfGames;
+    }
+
+    /**
+     * Calculates the average points allowed by the team per game
+     *
+     * @return the average points allowed per game
+     */
+    public double getAveragePointsAllowedPerGame() {
+        double averagePointsAllowedPerGame = 0.0;
+        for (Game game : games) {
+            averagePointsAllowedPerGame += game.getOpponentScore();
+        }
+        return getAveragePointsPerGame();
+    }
+
     @Override
     public int compareTo(Team e) {
         if (rating < e.rating) {
