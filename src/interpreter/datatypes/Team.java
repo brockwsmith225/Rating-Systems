@@ -132,12 +132,12 @@ public class Team implements Comparable<Team> {
      *
      * @return the average points scored per game
      */
-    public double getAveragePointsPerGame() {
-        double averagePointsPerGame = 0.0;
+    public double getPointsPerGame() {
+        double pointsPerGame = 0.0;
         for (Game game : games) {
-            averagePointsPerGame += game.getScore();
+            pointsPerGame += game.getScore();
         }
-        return averagePointsPerGame / numberOfGames;
+        return pointsPerGame / numberOfGames;
     }
 
     /**
@@ -145,12 +145,12 @@ public class Team implements Comparable<Team> {
      *
      * @return the average points allowed per game
      */
-    public double getAveragePointsAllowedPerGame() {
-        double averagePointsAllowedPerGame = 0.0;
+    public double getPointsAllowedPerGame() {
+        double pointsAllowedPerGame = 0.0;
         for (Game game : games) {
-            averagePointsAllowedPerGame += game.getOpponentScore();
+            pointsAllowedPerGame += game.getOpponentScore();
         }
-        return getAveragePointsPerGame();
+        return pointsAllowedPerGame / numberOfGames;
     }
 
     @Override
