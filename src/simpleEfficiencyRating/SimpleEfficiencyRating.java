@@ -32,4 +32,12 @@ public class SimpleEfficiencyRating extends RatingSystem {
         }
     }
 
+    public double calculateOffensiveEfficiency(Game game) {
+
+    }
+
+    public double calculateDefensiveEfficiency(Game game) {
+
+    }
+
 }
