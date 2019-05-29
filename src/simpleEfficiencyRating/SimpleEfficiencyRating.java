@@ -1,8 +1,8 @@
-package ser;
+package simpleEfficiencyRating;
 
 import ratingSystem.RatingSystem;
 
-public class SER extends RatingSystem {
+public class SimpleEfficiencyRating extends RatingSystem {
 
     @Override
     public void setup() {}
@@ -15,6 +15,6 @@ public class SER extends RatingSystem {
 
 
 
-    //========== SER only methods ==========
+    //========== SimpleEfficiencyRating only methods ==========
 
 }
