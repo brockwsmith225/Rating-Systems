@@ -59,7 +59,9 @@ public class CollegeFootballInterpreter extends Interpreter {
     public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
         teams = new HashMap<>();
+        groups = new ArrayList<>();
         addedTeams = new HashSet<>();
+        addedGroups = new HashSet<>();
 
         Time startDate = getStartDate(data);
 
@@ -84,7 +86,6 @@ public class CollegeFootballInterpreter extends Interpreter {
             } else if (week > 16) {
                 gameWeek = 16;
             }
-
             if (gameWeek <= week) {
                 if (addedTeams.add(team)) {
                     teams.put(team, new Team(team));
@@ -177,6 +178,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         int year = Integer.parseInt(line[0].split("-")[0]);
         Time startDate = new Time(1, 9, year);
         while (startDate.dayOfTheWeek() != 0) {
+            System.out.println(startDate);
             startDate.incrementByDays(-1);
         }
         return startDate;
