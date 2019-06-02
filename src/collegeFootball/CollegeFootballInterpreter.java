@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class CollegeFootballInterpreter extends Interpreter<Integer> {
+public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
@@ -56,7 +56,7 @@ public class CollegeFootballInterpreter extends Interpreter<Integer> {
     }
 
     @Override
-    public HashMap<String, Team> parseData(int year, Integer week) throws FileNotFoundException {
+    public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
         teams = new HashMap<>();
         addedTeams = new HashSet<>();

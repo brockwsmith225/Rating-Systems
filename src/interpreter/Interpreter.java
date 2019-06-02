@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.HashMap;
 
-public abstract class Interpreter<T> {
+public abstract class Interpreter {
 
     protected HashMap<String, Team> teams;
     protected HashSet<String> addedTeams;
@@ -27,11 +27,11 @@ public abstract class Interpreter<T> {
      * Interprets the data found in the data file specified by the file path
      *
      * @param year the year of the data
-     * @param limitingParameter the parameter which tells the interpreter which data from the data file to include
+     * @param week the maximum week of the data to be included
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Team> parseData(int year, T limitingParameter) throws FileNotFoundException;
+    abstract public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data files specified by the file paths
