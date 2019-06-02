@@ -6,6 +6,10 @@ import interpreter.datatypes.Team;
 import ratingSystem.RatingSystem;
 
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 
 public class SimpleEfficiencyRating extends RatingSystem {
 
@@ -30,7 +34,19 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    public void rankGroups() {}
+    public void rankGroups() {
+        HashSet<String> addedGroups = new HashSet<>();
+        HashMap<String, Team> groups = new HashMap<>();
+        for (Team team : rankedTeams) {
+            if (addedGroups.add(team.getGroup())) {
+                groups.put(team.getGroup(), new Team(team.getGroup()));
+            }
+            Team group = groups.get(team.getGroup());
+            group.setRating(group.getRating() * team.getRating());
+        }
+        rankedGroups = new ArrayList<>(groups.values());
+        Collections.sort(rankedGroups);
+    }
 
 
 
