@@ -36,6 +36,9 @@ public class SimpleEfficiencyRating extends RatingSystem {
 
     //========== SimpleEfficiencyRating only methods ==========
 
+    /**
+     * Calculates the season efficiencies of every team
+     */
     private void calculateEfficiencies() {
         for (Team team : teams.values()) {
             int games = 0;
@@ -52,10 +55,22 @@ public class SimpleEfficiencyRating extends RatingSystem {
         }
     }
 
+    /**
+     * Calculates the offensive efficiency of a single team during a single game
+     *
+     * @param game the game for which the offensive efficiency will be calculated
+     * @return the offensive efficiency of the team from the game
+     */
     private double calculateOffensiveEfficiency(Game game) {
         return game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
     }
 
+    /**
+     * Calculates the defensive effeciency of a single team during a single game
+     *
+     * @param game the game for which the defensive efficiency will be calculated
+     * @return the defensive efficiency of the team from the game
+     */
     private double calculateDefensiveEfficiency(Game game) {
         return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
     }
