@@ -1,7 +1,6 @@
 package ratingSystem;
 
 import interpreter.Interpreter;
-import interpreter.LimitingFunction;
 import interpreter.datatypes.Team;
 
 import java.io.FileNotFoundException;
@@ -42,12 +41,12 @@ public abstract class RatingSystem {
      * Creates a new instance of a Rating System with the data found in the file specified by the file path
      *
      * @param interpreter the interpreter to be used to read in the data from the data file
-     * @param year the data of the data
-     * @param limitingFunction the function which limits which data from the data file is included
+     * @param year the year of the data
+     * @param week the maximum week of the data to be included
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
-    public RatingSystem(Interpreter interpreter, int year, LimitingFunction limitingFunction) throws FileNotFoundException {
-        teams = interpreter.parseData(year, limitingFunction);
+    public RatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
+        teams = interpreter.parseData(year, week);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
