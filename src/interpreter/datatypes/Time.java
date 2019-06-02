@@ -74,7 +74,7 @@ public class Time implements Comparable<Time> {
      * @return the time since the start time
      */
     public long timeSince(Time start) {
-        return this.milliseconds = start.milliseconds;
+        return this.milliseconds - start.milliseconds;
     }
 
     /**
