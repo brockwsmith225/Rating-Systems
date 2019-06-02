@@ -36,7 +36,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
 
     //========== SimpleEfficiencyRating only methods ==========
 
-    public void calculateEfficiencies() {
+    private void calculateEfficiencies() {
         for (Team team : teams.values()) {
             int games = 0;
             double offensiveEfficiency = 0.0;
@@ -52,11 +52,11 @@ public class SimpleEfficiencyRating extends RatingSystem {
         }
     }
 
-    public double calculateOffensiveEfficiency(Game game) {
+    private double calculateOffensiveEfficiency(Game game) {
         return game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
     }
 
-    public double calculateDefensiveEfficiency(Game game) {
+    private double calculateDefensiveEfficiency(Game game) {
         return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
     }
 
