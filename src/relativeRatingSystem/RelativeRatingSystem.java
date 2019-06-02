@@ -34,6 +34,18 @@ public class RelativeRatingSystem extends RatingSystem {
         }
     }
 
+    public RelativeRatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
+        super(interpreter, year, week);
+        teamNameToIndex = new HashMap<>();
+        teamIndexToName = new HashMap<>();
+        int i = 0;
+        for (String team : teams.keySet()) {
+            teamNameToIndex.put(team, i);
+            teamIndexToName.put(i, team);
+            i++;
+        }
+    }
+
     @Override
     public void setup() {
         double[][] posValues = setupPositiveValues();

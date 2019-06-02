@@ -17,6 +17,10 @@ public class SimpleEfficiencyRating extends RatingSystem {
         super(interpreter, year);
     }
 
+    public SimpleEfficiencyRating(Interpreter interpreter, int year, int week) throws FileNotFoundException {
+        super(interpreter, year, week);
+    }
+
     @Override
     public void setup() {
         calculateEfficiencies();
