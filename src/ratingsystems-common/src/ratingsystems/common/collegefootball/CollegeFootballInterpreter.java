@@ -1,9 +1,9 @@
-package collegeFootball;
+package ratingsystems.common.collegefootball;
 
-import interpreter.Interpreter;
-import interpreter.datatypes.Game;
-import interpreter.datatypes.Team;
-import interpreter.datatypes.Time;
+import ratingsystems.common.interpreter.Interpreter;
+import ratingsystems.common.interpreter.datatypes.Game;
+import ratingsystems.common.interpreter.datatypes.Team;
+import ratingsystems.common.interpreter.datatypes.Time;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,7 +16,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
+        Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
         teams = new HashMap<>();
         groups = new ArrayList<>();
         addedTeams = new HashSet<>();
@@ -57,13 +57,13 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
+        Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
         teams = new HashMap<>();
         addedTeams = new HashSet<>();
 
         Time startDate = getStartDate(data);
 
-        data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
+        data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
         while (data.hasNext()) {
             String[] line = split(data.nextLine(), ",");
 
@@ -110,11 +110,11 @@ public class CollegeFootballInterpreter extends Interpreter {
         teams = new HashMap<>();
         addedTeams = new HashSet<>();
         for (int year : years) {
-            Scanner data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
+            Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
 
             Time startDate = getStartDate(data);
 
-            data = new Scanner(new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv"));
+            data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
             while (data.hasNext()) {
                 String[] line = split(data.nextLine(), ",");
 
@@ -150,7 +150,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public boolean hasData(int year)  {
-        return new File("ratingsystems/src/collegeFootball/data/cfb-" + year + ".csv").exists();
+        return new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv").exists();
     }
 
     //========== CFB only methods ==========

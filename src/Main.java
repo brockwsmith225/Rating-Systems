@@ -1,6 +1,6 @@
-import collegeFootball.CollegeFootballInterpreter;
-import ratingSystem.RatingSystem;
-import simpleEfficiencyRating.SimpleEfficiencyRating;
+import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
+import ratingsystems.common.ratingsystem.RatingSystem;
+import ser.SimpleEfficiencyRating;
 
 public class Main {
     public static void main(String[] args) {

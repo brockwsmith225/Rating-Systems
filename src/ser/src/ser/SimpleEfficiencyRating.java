@@ -1,9 +1,9 @@
-package simpleEfficiencyRating;
+package ser;
 
-import interpreter.Interpreter;
-import interpreter.datatypes.Game;
-import interpreter.datatypes.Team;
-import ratingSystem.RatingSystem;
+import ratingsystems.common.interpreter.Interpreter;
+import ratingsystems.common.interpreter.datatypes.Game;
+import ratingsystems.common.interpreter.datatypes.Team;
+import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
 

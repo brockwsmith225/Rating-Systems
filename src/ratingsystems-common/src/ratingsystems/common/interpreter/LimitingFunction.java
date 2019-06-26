@@ -1,6 +1,6 @@
-package interpreter;
+package ratingsystems.common.interpreter;
 
-import interpreter.datatypes.Game;
+import ratingsystems.common.interpreter.datatypes.Game;
 
 public interface LimitingFunction {
     /**
