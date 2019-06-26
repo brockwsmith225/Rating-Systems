@@ -8,6 +8,12 @@ public class Main {
             RatingSystem ser = new SimpleEfficiencyRating(new CollegeFootballInterpreter(), 2018);
             ser.setup();
             ser.printTeamRankings();
+
+            System.out.println("==========");
+
+            ser = new SimpleEfficiencyRating(new CollegeFootballInterpreter(), 2018, 10);
+            ser.setup();
+            ser.printTeamRankings();
         } catch (Exception e) {
             e.printStackTrace();
         }

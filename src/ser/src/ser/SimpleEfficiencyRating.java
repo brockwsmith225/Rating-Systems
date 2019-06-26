@@ -6,6 +6,10 @@ import ratingsystems.common.interpreter.datatypes.Team;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 
 public class SimpleEfficiencyRating extends RatingSystem {
 
@@ -30,13 +34,28 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    public void rankGroups() {}
+    public void rankGroups() {
+        HashSet<String> addedGroups = new HashSet<>();
+        HashMap<String, Team> groups = new HashMap<>();
+        for (Team team : rankedTeams) {
+            if (addedGroups.add(team.getGroup())) {
+                groups.put(team.getGroup(), new Team(team.getGroup()));
+            }
+            Team group = groups.get(team.getGroup());
+            group.setRating(group.getRating() * team.getRating());
+        }
+        rankedGroups = new ArrayList<>(groups.values());
+        Collections.sort(rankedGroups);
+    }
 
 
 
     //========== SimpleEfficiencyRating only methods ==========
 
-    public void calculateEfficiencies() {
+    /**
+     * Calculates the season efficiencies of every team
+     */
+    private void calculateEfficiencies() {
         for (Team team : teams.values()) {
             int games = 0;
             double offensiveEfficiency = 0.0;
@@ -52,11 +71,23 @@ public class SimpleEfficiencyRating extends RatingSystem {
         }
     }
 
-    public double calculateOffensiveEfficiency(Game game) {
+    /**
+     * Calculates the offensive efficiency of a single team during a single game
+     *
+     * @param game the game for which the offensive efficiency will be calculated
+     * @return the offensive efficiency of the team from the game
+     */
+    private double calculateOffensiveEfficiency(Game game) {
         return game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
     }
 
-    public double calculateDefensiveEfficiency(Game game) {
+    /**
+     * Calculates the defensive effeciency of a single team during a single game
+     *
+     * @param game the game for which the defensive efficiency will be calculated
+     * @return the defensive efficiency of the team from the game
+     */
+    private double calculateDefensiveEfficiency(Game game) {
         return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
     }
 
