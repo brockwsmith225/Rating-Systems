@@ -2,13 +2,17 @@ package ratingsystems.rrs;
 
 import ratingsystems.common.cli.Runner;
 import ratingsystems.common.cli.Terminal;
+import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 
 public class RelativeRatingSystemRunner extends Runner {
 
     public RelativeRatingSystemRunner() {
         super();
         prefix = "[RRS]";
-        ratingSystem = new RelativeRatingSystem();
+        try {
+            ratingSystem = new RelativeRatingSystem(new CollegeFootballInterpreter(), 2018);
+        } catch (Exception e) {}
+        ratingSystem.setup();
         //Add RRS specific commands here
     }
 

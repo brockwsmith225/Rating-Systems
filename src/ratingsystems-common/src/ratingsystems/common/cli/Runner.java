@@ -16,8 +16,9 @@ public class Runner {
         prefix = "";
         //Add general rating system commands here
         commands.put("rank", (Command options) -> {
-            System.out.println("rank");
+            System.out.println();
             ratingSystem.printTeamRankings();
+            System.out.println();
             return true;
         });
         commands.put("rank-confs", (Command options) -> {
