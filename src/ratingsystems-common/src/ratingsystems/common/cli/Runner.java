@@ -6,15 +6,17 @@ import ratingsystems.common.cli.datatypes.Command;
 import java.util.HashMap;
 import java.util.function.Function;
 
-public abstract class Runner {
-    private static final String PREFIX = "";
+public class Runner {
+    public String prefix;
 
     protected HashMap<String, Function<Command, Boolean>> commands = new HashMap<>();
     protected RatingSystem ratingSystem;
 
     public Runner() {
+        prefix = "";
         //Add general rating system commands here
         commands.put("rank", (Command options) -> {
+            System.out.println("rank");
             ratingSystem.printTeamRankings();
             return true;
         });
@@ -23,7 +25,11 @@ public abstract class Runner {
         });
     }
 
-    public String getPrefix() {
-        return PREFIX;
+    public boolean run(Command command) {
+        return commands.get(command.getCommand()).apply(command);
+    }
+
+    public boolean hasCommand(String command) {
+        return commands.containsKey(command);
     }
 }
