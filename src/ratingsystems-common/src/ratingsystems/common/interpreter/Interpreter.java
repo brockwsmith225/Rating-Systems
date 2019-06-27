@@ -43,6 +43,14 @@ public abstract class Interpreter {
     abstract public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException;
 
     /**
+     * Adds the team to the interpreter results if it has not already been added
+     *
+     * @param team the team to be added
+     * @param conference the conference of the team
+     */
+    abstract public void addTeam(String team, String conference);
+
+    /**
      * Returns the groups of the teams
      *
      * @return the groups
@@ -66,7 +74,7 @@ public abstract class Interpreter {
      * @param input the input to be split
      * @return the split input
      */
-    protected static String[] split(String input, String delimiter) {
+    public static String[] split(String input, String delimiter) {
         String[] res = input.split(delimiter + "(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1);
         for (int i = 0; i < res.length; i++) {
             res[i] = res[i].replace("\"", "");

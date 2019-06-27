@@ -1,5 +1,6 @@
 package ratingsystems.common.collegefootball;
 
+import ratingsystems.common.collegefootball.datatypes.Entry;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.datatypes.Game;
 import ratingsystems.common.interpreter.datatypes.Team;
@@ -16,40 +17,19 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
+        Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
+        data.nextLine();
         teams = new HashMap<>();
         groups = new ArrayList<>();
         addedTeams = new HashSet<>();
         addedGroups = new HashSet<>();
 
         while (data.hasNext()) {
-            String[] line = split(data.nextLine(), ",");
+            Entry entry = new Entry(data.nextLine());
 
-            String[] d = line[0].split("-");
-            Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
-            String team = line[1];
-            String conference = line[2];
-            String location = line[3];
-            String opponent = line[4];
-            String result = line[5];
-            int teamScore = Integer.parseInt(line[6]);
-            int opponentScore = Integer.parseInt(line[7]);
-            int scoreDifference = teamScore - opponentScore;
-            int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
+            addTeam(entry.team, entry.conference);
 
-            if (addedTeams.add(team)) {
-                teams.put(team, new Team(team));
-            }
-            if (addedTeams.add(opponent)) {
-                teams.put(opponent, new Team(opponent));
-            }
-
-            teams.get(team).setGroup(conference);
-            if (addedGroups.add(conference)) {
-                groups.add(conference);
-            }
-
-            teams.get(team).addGame(new Game(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+            teams.get(entry.team).addGame(new Game(entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.date));
         }
 
         return teams;
@@ -58,6 +38,7 @@ public class CollegeFootballInterpreter extends Interpreter {
     @Override
     public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
+        data.nextLine();
         teams = new HashMap<>();
         groups = new ArrayList<>();
         addedTeams = new HashSet<>();
@@ -67,39 +48,18 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
         while (data.hasNext()) {
-            String[] line = split(data.nextLine(), ",");
+            Entry entry = new Entry(data.nextLine(), startDate);
 
-            String[] d = line[0].split("-");
-            Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
-            String team = line[1];
-            String conference = line[2];
-            String location = line[3];
-            String opponent = line[4];
-            String result = line[5];
-            int teamScore = Integer.parseInt(line[6]);
-            int opponentScore = Integer.parseInt(line[7]);
-            int scoreDifference = Math.abs(teamScore - opponentScore);
-            int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
-            int gameWeek = ((int)date.daysSince(startDate) + 7) / 7;
-            if ((startDate.getYear() == 2013 || startDate.getYear() == 2014) && gameWeek > 17) {
-                gameWeek = 17;
+            if ((startDate.getYear() == 2013 || startDate.getYear() == 2014) && entry.week > 17) {
+                entry.week = 17;
             } else if (week > 16) {
-                gameWeek = 16;
+                entry.week = 16;
             }
-            if (gameWeek <= week) {
-                if (addedTeams.add(team)) {
-                    teams.put(team, new Team(team));
-                }
-                if (addedTeams.add(opponent)) {
-                    teams.put(opponent, new Team(opponent));
-                }
 
-                teams.get(team).setGroup(conference);
-                if (addedGroups.add(conference)) {
-                    groups.add(conference);
-                }
+            if (entry.week <= week) {
+                addTeam(entry.team, entry.conference);
 
-                teams.get(team).addGame(new Game(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+                teams.get(entry.team).addGame(new Game(entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.date));
             }
         }
 
@@ -109,44 +69,35 @@ public class CollegeFootballInterpreter extends Interpreter {
     @Override
     public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException {
         teams = new HashMap<>();
+        groups = new ArrayList<>();
         addedTeams = new HashSet<>();
+        addedGroups = new HashSet<>();
+
         for (int year : years) {
             Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
 
-            Time startDate = getStartDate(data);
-
             data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
             while (data.hasNext()) {
-                String[] line = split(data.nextLine(), ",");
+                Entry entry = new Entry(data.nextLine());
 
-                String[] d = line[0].split("-");
-                Time date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
-                String team = line[1];
-                String conference = line[2];
-                String location = line[3];
-                String opponent = line[4];
-                String result = line[5];
-                int teamScore = Integer.parseInt(line[6]);
-                int opponentScore = Integer.parseInt(line[7]);
-                int scoreDifference = Math.abs(teamScore - opponentScore);
-                int weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
+                addTeam(entry.team, entry.conference);
 
-                if (addedTeams.add(team)) {
-                    teams.put(team, new Team(team));
-                }
-                if (addedTeams.add(opponent)) {
-                    teams.put(opponent, new Team(opponent));
-                }
-
-                teams.get(team).setGroup(conference);
-                if (addedGroups.add(conference)) {
-                    groups.add(conference);
-                }
-
-                teams.get(team).addGame(new Game(opponent, teamScore, opponentScore, weightedScoreDifference, date));
+                teams.get(entry.team).addGame(new Game(entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.date));
             }
         }
         return teams;
+    }
+
+    @Override
+    public void addTeam(String team, String conference) {
+        if (addedTeams.add(team)) {
+            teams.put(team, new Team(team));
+        }
+
+        teams.get(team).setGroup(conference);
+        if (addedGroups.add(conference)) {
+            groups.add(conference);
+        }
     }
 
     @Override

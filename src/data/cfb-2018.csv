@@ -1,0 +1,1545 @@
+Date,Team,Conference,Location,Opponent,Result,Points,OppponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions
+2018-09-01,Indiana,Big Ten,A,Florida International,W,38,28,28,37,252,4,45,213,0,14,12,8,90,0,1
+2018-09-08,Indiana,Big Ten,H,Virginia,W,20,16,16,22,150,2,44,237,1,7,12,6,42,0,1
+2018-09-15,Indiana,Big Ten,H,Ball State,W,38,10,24,32,202,0,44,255,4,9,13,5,45,1,0
+2018-09-22,Indiana,Big Ten,H,Michigan State,L,21,35,32,46,272,2,32,29,0,15,1,6,85,0,2
+2018-09-29,Indiana,Big Ten,A,Rutgers,W,24,17,27,40,288,1,42,163,2,14,8,5,60,1,1
+2018-10-06,Indiana,Big Ten,A,Ohio State,L,26,49,26,49,322,3,21,84,0,14,4,3,35,2,0
+2018-10-13,Indiana,Big Ten,H,Iowa,L,16,42,31,42,263,1,25,67,1,10,8,10,99,0,2
+2018-10-20,Indiana,Big Ten,H,Penn State,L,28,33,35,55,330,1,45,224,3,17,13,7,55,2,1
+2018-10-26,Indiana,Big Ten,A,Minnesota,L,31,38,29,44,232,2,30,153,1,11,9,5,37,1,2
+2018-11-10,Indiana,Big Ten,H,Maryland,W,34,32,16,28,243,2,30,131,2,8,7,3,39,0,1
+2018-11-17,Indiana,Big Ten,A,Michigan,L,20,31,16,35,195,1,40,190,1,8,10,7,62,1,1
+2018-11-24,Indiana,Big Ten,H,Purdue,L,21,28,36,51,345,1,30,142,2,16,9,6,80,0,1
+2018-09-03,Florida State,ACC,H,Virginia Tech,L,3,24,22,35,233,0,28,94,0,8,3,7,36,2,3
+2018-09-15,Florida State,ACC,A,Syracuse,L,7,30,18,37,178,0,23,62,1,7,3,11,90,0,1
+2018-09-22,Florida State,ACC,H,Northern Illinois,W,37,19,23,32,352,2,57,121,2,13,10,9,60,3,1
+2018-09-29,Florida State,ACC,A,Louisville,W,28,24,16,27,294,4,31,76,0,10,5,7,55,1,0
+2018-10-06,Florida State,ACC,A,Miami (FL),L,27,28,16,32,130,2,33,70,0,9,5,7,80,1,1
+2018-10-20,Florida State,ACC,H,Wake Forest,W,38,17,28,41,341,2,28,130,3,13,4,6,55,1,0
+2018-10-27,Florida State,ACC,H,Clemson,L,10,59,20,40,268,1,35,-21,0,11,1,16,134,1,1
+2018-11-03,Florida State,ACC,A,North Carolina State,L,28,47,29,48,421,4,20,24,0,13,3,16,121,1,1
+2018-11-10,Florida State,ACC,A,Notre Dame,L,13,42,23,48,216,0,30,106,2,11,6,5,35,1,1
+2018-11-17,Florida State,ACC,H,Boston College,W,22,21,19,39,322,1,36,156,1,11,7,7,56,0,2
+2018-11-24,Florida State,ACC,H,Florida,L,14,41,14,30,154,1,35,139,1,6,7,10,60,1,2
+2018-09-08,Iowa State,Big 12,A,Iowa,L,3,13,19,31,169,0,25,19,0,6,4,7,65,1,0
+2018-09-15,Iowa State,Big 12,H,Oklahoma,L,27,37,25,36,360,2,29,87,1,12,6,4,35,0,1
+2018-09-22,Iowa State,Big 12,H,Akron,W,26,13,26,34,233,1,35,132,1,12,8,5,50,2,0
+2018-09-29,Iowa State,Big 12,A,Texas Christian,L,14,17,14,28,79,1,28,119,1,6,6,1,15,1,0
+2018-10-06,Iowa State,Big 12,A,Oklahoma State,W,48,42,19,25,325,4,38,140,2,11,7,5,36,1,1
+2018-10-13,Iowa State,Big 12,H,West Virginia,W,30,14,18,25,254,3,47,244,1,11,10,10,95,0,1
+2018-10-27,Iowa State,Big 12,H,Texas Tech,W,40,31,13,27,250,2,51,172,2,9,10,4,25,1,0
+2018-11-03,Iowa State,Big 12,A,Kansas,W,27,3,17,24,273,3,38,121,0,10,9,2,12,0,0
+2018-11-10,Iowa State,Big 12,H,Baylor,W,28,14,18,23,230,1,30,127,2,12,8,4,30,0,0
+2018-11-17,Iowa State,Big 12,A,Texas,L,10,24,13,29,148,0,30,62,1,5,7,3,20,1,1
+2018-11-24,Iowa State,Big 12,H,Kansas State,W,42,38,20,27,337,2,32,156,3,11,9,5,56,1,2
+2018-12-28,Iowa State,Big 12,N,Washington State,L,26,28,18,27,315,0,39,200,3,10,11,10,63,1,2
+2018-09-01,Cincinnati,American,A,UCLA,W,26,17,14,26,110,0,51,194,3,7,11,7,45,1,0
+2018-09-08,Cincinnati,American,A,Miami (OH),W,21,0,6,11,45,1,51,188,2,3,9,8,86,0,0
+2018-09-22,Cincinnati,American,H,Ohio,W,34,30,19,31,274,2,34,150,3,12,10,14,150,0,1
+2018-09-29,Cincinnati,American,A,Connecticut,W,49,7,23,29,339,2,53,320,5,18,13,11,113,1,0
+2018-10-06,Cincinnati,American,H,Tulane,W,37,21,15,25,174,2,48,272,3,8,10,7,65,2,1
+2018-10-20,Cincinnati,American,A,Temple,L,17,24,14,34,111,0,47,200,2,8,11,7,65,2,1
+2018-10-27,Cincinnati,American,A,SMU,W,26,20,33,50,352,2,39,125,0,15,9,6,51,1,2
+2018-11-03,Cincinnati,American,H,Navy,W,42,0,14,20,189,2,41,262,4,8,14,4,30,0,0
+2018-11-10,Cincinnati,American,H,South Florida,W,35,23,17,24,194,2,52,238,3,8,14,5,22,2,0
+2018-11-17,Cincinnati,American,A,UCF,L,13,38,11,26,127,0,55,252,1,6,13,9,70,3,0
+2018-11-23,Cincinnati,American,H,East Carolina,W,56,6,25,40,394,5,38,247,2,16,8,9,90,1,0
+2018-12-31,Cincinnati,American,N,Virginia Tech,W,35,31,15,32,206,1,36,256,4,8,13,13,96,0,1
+2018-09-01,Arizona State,Pac-12,H,UTSA,W,49,7,16,24,237,4,35,267,2,9,12,11,95,0,0
+2018-09-08,Arizona State,Pac-12,H,Michigan State,W,16,13,30,48,380,1,29,44,0,18,6,4,40,0,1
+2018-09-15,Arizona State,Pac-12,A,San Diego State,L,21,28,31,46,341,2,24,36,1,16,3,7,39,0,0
+2018-09-22,Arizona State,Pac-12,A,Washington,L,20,27,17,27,104,0,40,164,2,5,9,7,72,1,0
+2018-09-29,Arizona State,Pac-12,H,Oregon State,W,52,24,14,25,162,3,48,396,4,6,20,1,5,0,0
+2018-10-06,Arizona State,Pac-12,A,Colorado,L,21,28,12,18,222,1,39,145,2,7,8,5,35,0,0
+2018-10-18,Arizona State,Pac-12,H,Stanford,L,13,20,26,45,353,0,23,84,1,16,4,7,86,1,2
+2018-10-27,Arizona State,Pac-12,A,USC,W,38,35,14,24,166,1,44,283,3,7,12,5,48,1,0
+2018-11-03,Arizona State,Pac-12,H,Utah,W,38,20,19,24,285,3,50,251,2,11,12,6,60,0,1
+2018-11-10,Arizona State,Pac-12,H,UCLA,W,31,28,16,22,199,1,57,283,3,11,16,6,75,0,1
+2018-11-17,Arizona State,Pac-12,A,Oregon,L,29,31,15,32,182,2,41,142,1,8,6,8,50,1,0
+2018-11-24,Arizona State,Pac-12,A,Arizona,W,41,40,18,31,265,1,31,136,4,10,8,9,74,0,0
+2018-12-15,Arizona State,Pac-12,N,Fresno State,L,20,31,19,31,129,1,38,164,1,7,11,3,20,0,2
+2018-08-31,Syracuse,ACC,A,Western Michigan,W,55,42,11,28,226,2,62,334,5,7,17,5,45,1,0
+2018-09-15,Syracuse,ACC,H,Florida State,W,30,7,18,31,219,1,57,222,2,10,11,8,33,0,0
+2018-09-22,Syracuse,ACC,H,Connecticut,W,51,21,22,32,295,2,46,341,3,11,15,11,100,1,0
+2018-09-29,Syracuse,ACC,A,Clemson,L,23,27,26,41,250,0,26,61,2,8,4,5,31,0,1
+2018-10-06,Syracuse,ACC,A,Pitt,L,37,44,18,38,195,1,40,189,3,9,10,5,24,1,2
+2018-10-20,Syracuse,ACC,H,North Carolina,W,40,37,28,52,406,3,33,140,2,15,8,6,53,1,1
+2018-10-27,Syracuse,ACC,H,North Carolina State,W,51,41,30,42,480,3,37,81,3,19,5,9,65,0,0
+2018-11-03,Syracuse,ACC,A,Wake Forest,W,41,24,23,35,157,0,60,264,5,7,15,9,77,0,0
+2018-11-09,Syracuse,ACC,H,Louisville,W,54,23,14,27,192,1,54,344,5,6,13,7,65,2,1
+2018-11-17,Syracuse,ACC,N,Notre Dame,L,3,36,15,35,115,0,38,119,0,6,9,3,45,0,3
+2018-11-24,Syracuse,ACC,A,Boston College,W,42,21,21,35,362,3,54,202,3,13,11,10,90,0,1
+2018-12-28,Syracuse,ACC,N,West Virginia,W,34,18,21,30,303,1,43,115,3,10,12,11,90,0,2
+2018-09-01,Coastal Carolina,Sun Belt,A,South Carolina,L,15,49,13,18,112,1,38,131,0,5,10,4,36,1,0
+2018-09-08,Coastal Carolina,Sun Belt,H,UAB,W,47,24,11,18,167,2,43,296,5,7,13,5,55,0,0
+2018-09-22,Coastal Carolina,Sun Belt,A,Louisiana,W,30,28,12,17,186,2,56,311,2,9,14,7,70,1,0
+2018-09-29,Coastal Carolina,Sun Belt,A,Troy,L,21,45,18,22,172,1,54,145,2,9,11,4,43,1,1
+2018-10-13,Coastal Carolina,Sun Belt,H,Louisiana-Monroe,L,20,45,12,23,167,0,52,272,2,6,13,8,71,2,1
+2018-10-20,Coastal Carolina,Sun Belt,A,Massachusetts,W,24,13,9,18,219,2,52,279,1,7,14,3,20,1,1
+2018-10-27,Coastal Carolina,Sun Belt,A,Georgia State,W,37,34,13,18,225,1,48,251,3,10,9,2,25,1,0
+2018-11-03,Coastal Carolina,Sun Belt,H,Appalachian State,L,7,23,14,26,106,0,26,72,0,6,5,4,27,0,1
+2018-11-10,Coastal Carolina,Sun Belt,H,Arkansas State,L,16,44,16,31,165,2,37,128,0,9,8,9,86,1,1
+2018-11-17,Coastal Carolina,Sun Belt,H,Georgia Southern,L,17,41,12,24,115,2,34,74,0,7,4,0,0,1,0
+2018-11-23,Coastal Carolina,Sun Belt,A,South Alabama,L,28,31,21,33,293,2,30,92,2,12,8,4,40,2,1
+2018-09-01,Penn State,Big Ten,H,Appalachian State,W,45,38,21,36,230,1,43,204,5,11,10,2,10,0,0
+2018-09-08,Penn State,Big Ten,A,Pitt,W,51,6,15,31,179,3,33,211,3,8,10,4,45,2,0
+2018-09-15,Penn State,Big Ten,H,Kent State,W,63,10,14,25,346,3,45,297,6,9,14,9,85,0,1
+2018-09-21,Penn State,Big Ten,A,Illinois,W,63,24,13,20,204,3,51,387,6,7,20,8,72,1,1
+2018-09-29,Penn State,Big Ten,H,Ohio State,L,26,27,16,32,286,2,44,206,1,9,9,7,64,1,0
+2018-10-13,Penn State,Big Ten,H,Michigan State,L,17,21,19,32,192,1,32,205,1,9,5,6,41,1,0
+2018-10-20,Penn State,Big Ten,A,Indiana,W,33,28,20,37,243,1,36,174,3,12,8,3,40,1,1
+2018-10-27,Penn State,Big Ten,H,Iowa,W,30,24,13,29,194,1,35,118,2,10,6,6,47,1,1
+2018-11-03,Penn State,Big Ten,A,Michigan,L,7,42,8,17,118,0,30,68,1,5,5,4,35,1,2
+2018-11-10,Penn State,Big Ten,H,Wisconsin,W,22,10,19,25,160,1,47,183,1,8,13,3,22,2,0
+2018-11-17,Penn State,Big Ten,A,Rutgers,W,20,7,17,37,183,2,39,139,0,8,9,3,43,1,1
+2018-11-24,Penn State,Big Ten,H,Maryland,W,38,3,14,24,255,1,44,310,4,11,13,3,23,1,0
+2019-01-01,Penn State,Big Ten,N,Kentucky,L,24,27,17,35,246,2,41,161,1,10,12,3,24,1,1
+2018-09-01,California,Pac-12,H,North Carolina,W,24,17,16,32,119,1,49,160,1,6,9,5,35,0,0
+2018-09-08,California,Pac-12,A,Brigham Young,W,21,18,23,35,214,2,38,172,1,10,10,9,65,2,1
+2018-09-29,California,Pac-12,H,Oregon,L,24,42,16,31,186,1,41,241,2,7,15,4,30,1,4
+2018-10-06,California,Pac-12,A,Arizona,L,17,24,32,43,315,0,34,161,2,15,7,13,115,1,3
+2018-10-13,California,Pac-12,H,UCLA,L,7,37,23,42,179,0,33,131,1,9,10,3,36,3,2
+2018-10-20,California,Pac-12,A,Oregon State,W,49,7,17,26,234,3,43,305,3,9,17,4,50,1,0
+2018-10-27,California,Pac-12,H,Washington,W,12,10,17,24,151,0,36,91,0,8,6,4,24,0,0
+2018-11-03,California,Pac-12,A,Washington State,L,13,19,18,33,179,1,36,112,0,8,6,2,25,0,2
+2018-11-10,California,Pac-12,A,USC,W,15,14,14,26,93,1,32,114,1,6,3,4,35,1,0
+2018-11-24,California,Pac-12,H,Colorado,W,33,21,14,26,116,2,38,95,0,6,3,9,75,0,0
+2018-12-01,California,Pac-12,H,Stanford,L,13,23,22,39,197,1,35,155,0,9,8,3,30,1,2
+2018-12-26,California,Pac-12,N,Texas Christian,L,7,10,17,33,164,0,30,100,1,8,6,3,20,0,5
+2018-08-31,Stanford,Pac-12,H,San Diego State,W,31,10,21,31,332,4,28,50,0,11,3,3,20,0,1
+2018-09-08,Stanford,Pac-12,H,USC,W,17,3,16,27,183,1,29,159,1,9,4,7,50,0,0
+2018-09-22,Stanford,Pac-12,A,Oregon,W,38,31,19,26,327,3,24,71,1,13,3,5,23,0,0
+2018-09-29,Stanford,Pac-12,A,Notre Dame,L,17,38,15,27,174,1,24,55,1,7,1,7,50,0,1
+2018-10-06,Stanford,Pac-12,H,Utah,L,21,40,26,42,381,1,28,42,2,18,4,2,20,2,2
+2018-10-18,Stanford,Pac-12,A,Arizona State,W,20,13,22,29,231,1,43,127,1,10,8,5,60,0,0
+2018-10-27,Stanford,Pac-12,H,Washington State,L,38,41,34,43,323,4,23,120,1,16,6,3,18,1,0
+2018-11-03,Stanford,Pac-12,A,Washington,L,23,27,29,44,347,2,23,77,1,15,3,4,28,0,3
+2018-11-10,Stanford,Pac-12,H,Oregon State,W,48,17,25,38,352,4,30,244,3,11,11,8,70,0,1
+2018-11-24,Stanford,Pac-12,A,UCLA,W,49,42,23,37,344,5,30,126,1,16,5,7,64,0,1
+2018-12-01,Stanford,Pac-12,A,California,W,23,13,18,29,237,1,35,92,1,10,5,5,40,1,0
+2018-12-31,Stanford,Pac-12,N,Pitt,W,14,13,6,17,105,0,34,103,2,4,7,6,41,0,0
+2018-09-01,Washington State,Pac-12,A,Wyoming,W,41,19,38,57,319,3,21,75,2,15,5,10,75,1,1
+2018-09-08,Washington State,Pac-12,H,San Jose State,W,31,0,35,54,420,3,31,124,1,14,7,8,60,0,3
+2018-09-21,Washington State,Pac-12,A,USC,L,36,39,37,52,344,3,24,91,2,19,4,11,118,0,0
+2018-09-29,Washington State,Pac-12,H,Utah,W,28,24,31,56,445,3,10,13,1,16,1,9,104,0,1
+2018-10-06,Washington State,Pac-12,A,Oregon State,W,56,37,30,40,430,5,22,100,2,18,6,5,46,1,0
+2018-10-20,Washington State,Pac-12,H,Oregon,W,34,20,39,51,323,4,24,77,1,19,5,5,55,0,2
+2018-10-27,Washington State,Pac-12,A,Stanford,W,41,38,40,50,438,3,19,59,2,19,4,9,89,0,0
+2018-11-03,Washington State,Pac-12,H,California,W,19,13,35,51,334,1,15,79,1,19,4,7,80,1,1
+2018-11-10,Washington State,Pac-12,A,Colorado,W,31,7,37,61,346,2,33,131,2,17,7,2,10,0,0
+2018-11-17,Washington State,Pac-12,H,Arizona,W,69,28,44,56,482,7,23,123,2,20,6,3,35,0,0
+2018-11-23,Washington State,Pac-12,H,Washington,L,15,28,26,35,152,0,24,85,2,8,6,4,21,0,2
+2018-12-28,Washington State,Pac-12,N,Iowa State,W,28,26,35,49,299,2,17,28,2,15,2,6,65,1,0
+2018-09-01,Illinois,Big Ten,H,Kent State,W,31,24,13,23,190,0,47,284,4,10,12,3,25,1,0
+2018-09-15,Illinois,Big Ten,N,South Florida,L,19,25,20,31,168,0,48,212,1,8,10,6,65,1,0
+2018-09-21,Illinois,Big Ten,H,Penn State,L,24,63,18,31,166,2,45,245,1,11,12,7,81,0,2
+2018-10-06,Illinois,Big Ten,A,Rutgers,W,38,17,10,19,89,1,43,330,4,4,11,7,80,0,0
+2018-10-13,Illinois,Big Ten,H,Purdue,L,7,46,15,29,181,0,31,69,1,7,7,7,57,0,1
+2018-10-20,Illinois,Big Ten,A,Wisconsin,L,20,49,9,21,90,0,36,210,2,2,9,3,25,2,3
+2018-10-27,Illinois,Big Ten,A,Maryland,L,33,63,14,32,261,2,35,232,1,8,11,2,25,0,1
+2018-11-03,Illinois,Big Ten,H,Minnesota,W,55,31,18,25,216,2,35,430,5,9,11,7,70,2,1
+2018-11-10,Illinois,Big Ten,A,Nebraska,L,35,54,11,25,126,0,48,384,5,7,16,7,66,3,2
+2018-11-17,Illinois,Big Ten,H,Iowa,L,0,63,12,30,82,0,43,149,0,3,8,6,68,1,3
+2018-11-24,Illinois,Big Ten,A,Northwestern,L,16,24,23,39,281,1,32,154,0,14,9,7,66,0,1
+2018-09-08,Georgia,SEC,A,South Carolina,W,41,17,16,19,202,1,52,271,3,12,15,4,47,0,1
+2018-09-15,Georgia,SEC,H,Middle Tennessee State,W,49,7,17,21,223,4,35,261,2,10,11,7,54,0,0
+2018-09-22,Georgia,SEC,A,Missouri,W,43,29,13,23,260,3,40,185,0,8,10,7,66,0,1
+2018-09-29,Georgia,SEC,H,Tennessee,W,38,12,17,24,190,0,50,251,5,10,16,6,40,0,0
+2018-10-06,Georgia,SEC,H,Vanderbilt,W,41,13,21,31,341,3,34,219,2,12,14,13,115,0,0
+2018-10-13,Georgia,SEC,A,LSU,L,16,36,16,34,209,1,30,113,1,10,7,4,20,2,2
+2018-10-27,Georgia,SEC,N,Florida,W,36,17,17,24,240,3,41,189,1,10,8,4,53,0,0
+2018-11-03,Georgia,SEC,A,Kentucky,W,34,17,14,20,113,1,50,331,3,6,16,4,45,2,0
+2018-11-10,Georgia,SEC,H,Auburn,W,27,10,15,23,213,2,44,309,1,8,13,12,85,0,1
+2018-11-17,Georgia,SEC,H,Massachusetts,W,66,27,14,17,275,3,45,426,6,8,20,2,20,1,0
+2018-11-24,Georgia,SEC,H,Georgia Tech,W,45,21,15,19,162,4,42,285,2,8,17,2,10,1,0
+2018-12-01,Georgia,SEC,N,Alabama,L,28,35,25,40,301,3,39,153,1,14,8,6,50,0,0
+2019-01-01,Georgia,SEC,N,Texas,L,21,28,21,35,224,3,30,72,0,12,6,3,49,1,1
+2018-09-01,Maryland,Big Ten,N,Texas,W,34,29,21,34,264,2,46,143,2,8,8,8,70,0,0
+2018-09-08,Maryland,Big Ten,A,Bowling Green State,W,45,14,8,16,121,1,53,444,5,4,19,14,139,1,0
+2018-09-15,Maryland,Big Ten,H,Temple,L,14,35,8,21,63,0,31,132,0,2,7,5,35,0,2
+2018-09-22,Maryland,Big Ten,H,Minnesota,W,42,13,10,14,117,1,37,315,4,2,12,10,118,0,0
+2018-10-06,Maryland,Big Ten,A,Michigan,L,21,42,7,13,73,0,37,147,2,5,5,12,107,0,1
+2018-10-13,Maryland,Big Ten,H,Rutgers,W,34,7,9,20,85,3,40,290,1,4,12,9,85,1,0
+2018-10-20,Maryland,Big Ten,A,Iowa,L,0,23,6,16,47,0,23,68,0,3,4,6,46,1,1
+2018-10-27,Maryland,Big Ten,H,Illinois,W,63,33,13,21,281,3,48,431,5,10,19,7,85,0,0
+2018-11-03,Maryland,Big Ten,H,Michigan State,L,3,24,8,24,74,0,29,26,0,4,3,3,25,2,0
+2018-11-10,Maryland,Big Ten,A,Indiana,L,32,34,14,25,189,1,59,353,2,8,18,10,93,3,1
+2018-11-17,Maryland,Big Ten,H,Ohio State,L,51,52,7,14,196,1,47,340,4,5,12,9,88,1,0
+2018-11-24,Maryland,Big Ten,A,Penn State,L,3,38,14,23,185,0,36,74,0,7,5,7,65,0,0
+2018-09-08,Georgia State,Sun Belt,A,North Carolina State,L,7,41,19,34,242,0,31,107,1,9,7,5,48,1,0
+2018-09-14,Georgia State,Sun Belt,A,Memphis,L,22,59,19,34,139,0,43,173,2,10,9,2,16,0,1
+2018-09-22,Georgia State,Sun Belt,H,Western Michigan,L,15,34,19,29,285,0,30,58,2,12,6,2,25,2,1
+2018-09-29,Georgia State,Sun Belt,H,Louisiana-Monroe,W,46,14,15,18,179,1,56,308,4,7,12,7,70,1,0
+2018-10-04,Georgia State,Sun Belt,A,Troy,L,20,37,20,36,272,1,35,116,1,11,9,0,0,2,0
+2018-10-18,Georgia State,Sun Belt,A,Arkansas State,L,35,51,20,33,299,4,43,123,1,9,11,8,80,2,0
+2018-10-27,Georgia State,Sun Belt,H,Coastal Carolina,L,34,37,14,25,231,1,34,290,4,10,11,6,74,1,0
+2018-11-03,Georgia State,Sun Belt,H,Texas State,L,31,40,21,40,224,1,43,221,3,13,11,2,13,2,0
+2018-11-10,Georgia State,Sun Belt,A,Louisiana,L,22,36,10,21,121,1,43,252,2,5,14,4,35,0,1
+2018-11-17,Georgia State,Sun Belt,A,Appalachian State,L,17,45,10,21,132,1,34,197,1,5,10,6,61,0,2
+2018-11-24,Georgia State,Sun Belt,H,Georgia Southern,L,14,35,20,33,170,2,32,94,0,7,8,3,24,0,1
+2018-09-01,Oklahoma,Big 12,H,Florida Atlantic,W,63,14,19,23,334,3,39,316,5,13,12,6,70,0,0
+2018-09-08,Oklahoma,Big 12,H,UCLA,W,49,21,19,35,306,3,35,179,4,14,9,6,40,0,1
+2018-09-15,Oklahoma,Big 12,A,Iowa State,W,37,27,21,29,348,3,39,171,1,13,10,5,60,1,0
+2018-09-22,Oklahoma,Big 12,H,Army,W,28,21,11,15,165,3,25,190,1,8,10,4,20,0,1
+2018-09-29,Oklahoma,Big 12,H,Baylor,W,66,33,17,23,432,6,31,175,3,12,8,7,80,0,0
+2018-10-06,Oklahoma,Big 12,N,Texas,L,45,48,20,27,310,4,31,222,2,12,9,7,73,2,1
+2018-10-20,Oklahoma,Big 12,A,Texas Christian,W,52,27,19,25,213,4,47,323,3,11,15,8,60,0,0
+2018-10-27,Oklahoma,Big 12,H,Kansas State,W,51,14,22,29,380,3,39,322,3,15,15,5,69,0,0
+2018-11-03,Oklahoma,Big 12,A,Texas Tech,W,51,46,20,35,360,3,44,323,4,15,16,10,113,0,2
+2018-11-10,Oklahoma,Big 12,H,Oklahoma State,W,48,47,21,30,349,1,47,353,5,15,14,8,70,0,0
+2018-11-17,Oklahoma,Big 12,H,Kansas,W,55,40,21,32,272,2,38,296,5,15,14,2,25,1,1
+2018-11-23,Oklahoma,Big 12,A,West Virginia,W,59,56,20,27,364,3,35,308,2,14,11,6,60,1,1
+2018-12-01,Oklahoma,Big 12,N,Texas,W,39,27,25,34,379,3,40,129,1,16,8,5,60,1,0
+2018-12-29,Oklahoma,Big 12,N,Alabama,L,34,45,19,37,308,2,32,163,2,15,9,7,55,0,0
+2018-09-01,Louisville,ACC,N,Alabama,L,14,51,20,39,252,2,25,27,0,13,1,11,93,0,2
+2018-09-15,Louisville,ACC,H,Western Kentucky,W,20,17,10,21,88,0,38,204,2,4,11,5,40,0,1
+2018-09-22,Louisville,ACC,A,Virginia,L,3,27,16,28,148,0,29,66,0,11,3,6,52,1,2
+2018-09-29,Louisville,ACC,H,Florida State,L,24,28,24,45,306,2,38,115,1,11,11,8,75,1,2
+2018-10-05,Louisville,ACC,H,Georgia Tech,L,31,66,27,44,370,3,23,113,1,14,7,4,35,2,1
+2018-10-13,Louisville,ACC,A,Boston College,L,20,38,17,35,170,0,32,47,3,10,4,4,33,0,1
+2018-10-27,Louisville,ACC,H,Wake Forest,L,35,56,30,54,358,1,36,174,4,19,11,5,31,1,0
+2018-11-03,Louisville,ACC,A,Clemson,L,16,77,17,34,231,0,36,81,1,8,8,10,100,1,2
+2018-11-09,Louisville,ACC,A,Syracuse,L,23,54,14,31,210,1,39,203,2,7,9,17,125,2,2
+2018-11-17,Louisville,ACC,H,North Carolina State,L,10,52,13,25,157,0,38,254,1,8,11,12,68,1,1
+2018-11-24,Louisville,ACC,H,Kentucky,L,10,56,8,16,79,0,30,226,1,3,7,12,134,0,0
+2018-09-08,Arkansas,SEC,A,Colorado State,L,27,34,11,22,138,2,53,299,1,5,16,6,60,0,2
+2018-09-15,Arkansas,SEC,H,North Texas,L,17,44,20,45,210,0,32,126,2,12,4,10,70,0,6
+2018-09-22,Arkansas,SEC,A,Auburn,L,3,34,13,32,141,0,38,149,0,5,6,8,57,1,1
+2018-09-29,Arkansas,SEC,N,Texas A&M,L,17,24,14,27,193,1,26,55,1,8,3,6,61,0,1
+2018-10-06,Arkansas,SEC,H,Alabama,L,31,65,26,40,233,3,31,172,1,12,7,2,20,2,1
+2018-10-13,Arkansas,SEC,H,Ole Miss,L,33,37,15,22,177,2,48,299,1,7,17,5,65,0,1
+2018-10-20,Arkansas,SEC,H,Tulsa,W,23,0,11,19,131,1,53,196,1,6,12,3,40,1,1
+2018-10-27,Arkansas,SEC,H,Vanderbilt,L,31,45,23,36,240,2,29,207,2,12,8,6,46,0,2
+2018-11-10,Arkansas,SEC,H,LSU,L,17,24,19,39,200,2,19,16,0,9,2,6,60,1,1
+2018-11-17,Arkansas,SEC,A,Mississippi State,L,6,52,19,34,150,0,35,69,0,6,10,9,85,2,1
+2018-11-23,Arkansas,SEC,A,Missouri,L,0,38,10,25,135,0,39,52,0,6,5,4,18,1,1
+2018-09-01,Washington,Pac-12,N,Auburn,L,16,21,18,32,296,1,33,102,0,12,8,10,95,1,1
+2018-09-15,Washington,Pac-12,A,Utah,W,21,7,14,24,155,1,41,172,2,10,6,5,35,0,1
+2018-09-22,Washington,Pac-12,H,Arizona State,W,27,20,15,23,202,3,39,171,0,11,12,3,30,0,1
+2018-09-29,Washington,Pac-12,H,Brigham Young,W,35,7,23,25,277,1,37,187,4,15,10,5,40,1,0
+2018-10-06,Washington,Pac-12,A,UCLA,W,31,24,18,26,265,1,55,197,3,11,13,1,10,0,1
+2018-10-13,Washington,Pac-12,A,Oregon,L,27,30,15,25,243,1,45,194,2,13,7,5,38,0,1
+2018-10-20,Washington,Pac-12,H,Colorado,W,27,13,15,25,150,1,40,201,2,8,12,3,45,1,1
+2018-10-27,Washington,Pac-12,A,California,L,10,12,12,25,159,1,33,91,0,8,4,4,18,0,2
+2018-11-03,Washington,Pac-12,H,Stanford,W,27,23,16,27,194,1,45,177,2,11,6,8,85,0,0
+2018-11-17,Washington,Pac-12,H,Oregon State,W,42,23,18,25,228,3,42,275,3,11,10,4,40,0,0
+2018-11-23,Washington,Pac-12,A,Washington State,W,28,15,12,15,229,1,44,258,3,7,13,6,47,2,1
+2018-11-30,Washington,Pac-12,N,Utah,W,10,3,21,33,187,0,40,119,0,8,11,4,45,0,1
+2019-01-01,Washington,Pac-12,N,Ohio State,L,23,28,36,55,315,1,36,129,2,14,10,6,46,0,0
+2018-09-08,Southern Mississippi,CUSA,H,Louisiana-Monroe,L,20,21,31,46,378,2,34,58,0,18,4,4,45,2,2
+2018-09-22,Southern Mississippi,CUSA,H,Rice,W,40,22,25,34,428,4,31,138,1,16,9,5,39,0,1
+2018-09-29,Southern Mississippi,CUSA,A,Auburn,L,13,24,30,44,215,1,21,45,0,11,2,7,46,1,2
+2018-10-13,Southern Mississippi,CUSA,A,North Texas,L,7,30,30,44,317,1,28,50,0,14,4,3,32,1,1
+2018-10-20,Southern Mississippi,CUSA,H,UTSA,W,27,17,28,33,269,1,46,218,2,14,10,7,60,2,1
+2018-10-27,Southern Mississippi,CUSA,A,Charlotte,L,17,20,27,39,297,2,34,129,0,14,8,6,43,0,3
+2018-11-03,Southern Mississippi,CUSA,H,Marshall,W,26,24,16,25,134,1,45,88,1,4,4,10,90,2,0
+2018-11-10,Southern Mississippi,CUSA,A,UAB,L,23,26,16,39,160,1,34,5,1,6,5,8,58,0,1
+2018-11-17,Southern Mississippi,CUSA,H,Louisiana Tech,W,21,20,26,31,226,1,33,54,2,14,3,4,38,1,0
+2018-11-24,Southern Mississippi,CUSA,A,UTEP,W,39,7,15,21,126,1,48,252,3,6,15,2,15,0,0
+2018-08-31,Utah State,MWC,A,Michigan State,L,31,38,29,44,319,0,25,25,3,18,2,7,49,0,2
+2018-09-08,Utah State,MWC,H,New Mexico State,W,60,13,17,31,172,1,46,274,3,8,11,10,91,1,1
+2018-09-22,Utah State,MWC,H,Air Force,W,42,32,26,38,356,2,24,133,4,19,3,5,35,2,0
+2018-10-05,Utah State,MWC,A,Brigham Young,W,45,20,18,28,165,4,42,223,1,8,10,12,125,0,0
+2018-10-13,Utah State,MWC,H,Nevada-Las Vegas,W,59,28,22,31,377,5,38,221,2,14,9,5,55,1,0
+2018-10-20,Utah State,MWC,A,Wyoming,W,24,16,12,28,53,0,33,141,2,1,8,6,52,0,1
+2018-10-27,Utah State,MWC,H,New Mexico,W,61,19,30,42,516,4,49,188,2,19,11,6,43,3,0
+2018-11-03,Utah State,MWC,A,Hawaii,W,56,17,19,24,175,1,54,426,7,11,17,12,105,1,0
+2018-11-10,Utah State,MWC,H,San Jose State,W,62,24,35,50,510,5,39,296,3,19,11,10,82,0,0
+2018-11-17,Utah State,MWC,A,Colorado State,W,29,24,15,24,169,1,28,141,0,7,9,7,71,1,0
+2018-11-24,Utah State,MWC,A,Boise State,L,24,33,29,47,363,3,19,62,0,12,5,8,72,1,1
+2018-12-15,Utah State,MWC,N,North Texas,W,52,13,21,43,359,4,40,197,3,13,11,7,76,0,1
+2018-09-08,Missouri,SEC,H,Wyoming,W,40,13,33,45,398,4,46,203,1,23,10,8,79,1,0
+2018-09-15,Missouri,SEC,A,Purdue,W,40,37,26,43,375,3,46,233,1,14,14,4,27,0,1
+2018-09-22,Missouri,SEC,H,Georgia,L,29,43,23,48,221,0,37,172,4,15,9,5,30,2,1
+2018-10-06,Missouri,SEC,A,South Carolina,L,35,37,17,36,204,0,46,286,3,9,10,10,83,0,2
+2018-10-13,Missouri,SEC,A,Alabama,L,10,39,13,26,142,1,35,70,0,6,5,5,53,1,2
+2018-10-20,Missouri,SEC,H,Memphis,W,65,33,24,32,373,4,40,273,4,13,14,12,122,0,0
+2018-10-27,Missouri,SEC,H,Kentucky,L,14,15,15,27,165,0,35,84,2,7,3,8,69,0,0
+2018-11-03,Missouri,SEC,A,Florida,W,38,17,24,32,250,3,42,221,2,12,10,11,84,0,0
+2018-11-10,Missouri,SEC,H,Vanderbilt,W,33,28,22,33,253,2,49,253,2,12,17,2,15,0,2
+2018-11-17,Missouri,SEC,A,Tennessee,W,50,17,21,30,257,2,49,227,3,14,12,10,79,1,0
+2018-11-23,Missouri,SEC,H,Arkansas,W,38,0,17,27,227,2,42,181,2,8,8,5,49,1,0
+2018-12-31,Missouri,SEC,N,Oklahoma State,L,33,38,23,38,373,3,42,264,1,14,9,6,65,1,0
+2018-08-31,Wisconsin,Big Ten,H,Western Kentucky,W,34,3,17,31,257,2,39,234,2,14,9,8,70,1,0
+2018-09-08,Wisconsin,Big Ten,H,New Mexico,W,45,14,9,13,151,2,59,417,4,5,24,4,39,1,1
+2018-09-15,Wisconsin,Big Ten,H,Brigham Young,L,21,24,18,28,190,0,43,204,3,9,13,6,33,0,1
+2018-09-22,Wisconsin,Big Ten,A,Iowa,W,28,17,17,22,205,3,44,210,1,8,11,8,68,0,0
+2018-10-06,Wisconsin,Big Ten,H,Nebraska,W,41,24,13,24,163,1,48,370,4,9,15,5,50,1,0
+2018-10-13,Wisconsin,Big Ten,A,Michigan,L,13,38,7,20,100,1,29,183,1,4,7,3,30,0,2
+2018-10-20,Wisconsin,Big Ten,H,Illinois,W,49,20,13,22,188,3,54,357,4,10,20,5,50,0,2
+2018-10-27,Wisconsin,Big Ten,A,Northwestern,L,17,31,20,33,158,1,32,165,1,6,11,5,54,3,0
+2018-11-03,Wisconsin,Big Ten,H,Rutgers,W,31,17,12,23,156,1,46,317,3,9,16,4,19,0,2
+2018-11-10,Wisconsin,Big Ten,A,Penn State,L,10,22,9,20,60,0,37,209,1,4,7,6,50,2,2
+2018-11-17,Wisconsin,Big Ten,A,Purdue,W,47,44,16,24,160,2,51,385,4,7,16,13,125,1,0
+2018-11-24,Wisconsin,Big Ten,H,Minnesota,L,15,37,22,33,189,2,31,170,0,12,9,6,54,1,3
+2018-12-27,Wisconsin,Big Ten,N,Miami (FL),W,35,3,6,11,73,1,58,333,4,3,17,1,15,0,1
+2018-09-08,Nevada,MWC,A,Vanderbilt,L,10,41,22,39,216,1,25,34,0,8,6,6,67,2,2
+2018-09-15,Nevada,MWC,H,Oregon State,W,37,35,18,37,201,2,30,156,2,10,6,5,60,0,1
+2018-09-22,Nevada,MWC,A,Toledo,L,44,63,29,50,320,1,35,262,5,14,11,10,70,1,1
+2018-09-29,Nevada,MWC,A,Air Force,W,28,25,24,33,259,4,34,177,0,12,7,13,103,1,1
+2018-10-06,Nevada,MWC,H,Fresno State,L,3,21,22,43,195,0,43,132,0,13,7,1,5,0,3
+2018-10-13,Nevada,MWC,H,Boise State,L,27,31,24,42,304,2,24,82,1,11,7,4,20,2,1
+2018-10-20,Nevada,MWC,A,Hawaii,W,40,22,23,31,261,1,36,220,4,11,12,5,55,3,0
+2018-10-27,Nevada,MWC,H,San Diego State,W,28,24,23,43,235,2,23,62,1,10,3,5,75,0,0
+2018-11-10,Nevada,MWC,H,Colorado State,W,49,10,28,36,404,4,35,235,3,20,8,6,61,1,1
+2018-11-17,Nevada,MWC,A,San Jose State,W,21,12,19,32,314,1,47,149,2,13,10,3,15,1,1
+2018-11-24,Nevada,MWC,A,Nevada-Las Vegas,L,29,34,27,45,295,2,27,169,1,13,6,4,50,0,3
+2018-12-29,Nevada,MWC,N,Arkansas State,W,16,13,18,34,200,1,40,85,1,7,7,6,51,0,2
+2018-09-08,North Carolina State,ACC,H,Georgia State,W,41,7,32,39,426,2,31,117,3,19,3,6,52,0,1
+2018-09-22,North Carolina State,ACC,A,Marshall,W,37,20,23,40,377,1,36,125,2,17,6,4,25,1,0
+2018-09-29,North Carolina State,ACC,H,Virginia,W,35,21,22,32,257,3,39,176,1,12,10,7,80,0,0
+2018-10-06,North Carolina State,ACC,H,Boston College,W,28,23,25,34,308,2,53,225,2,17,14,1,5,2,2
+2018-10-20,North Carolina State,ACC,A,Clemson,L,7,41,22,35,193,0,32,104,1,5,7,6,49,1,2
+2018-10-27,North Carolina State,ACC,A,Syracuse,L,41,51,26,44,473,3,29,68,2,13,6,9,95,0,1
+2018-11-03,North Carolina State,ACC,H,Florida State,W,47,28,21,28,240,3,49,177,2,10,10,4,50,0,0
+2018-11-08,North Carolina State,ACC,H,Wake Forest,L,23,27,35,53,374,1,27,47,1,18,3,6,55,0,1
+2018-11-17,North Carolina State,ACC,A,Louisville,W,52,10,31,42,354,4,36,164,3,19,9,2,25,0,0
+2018-11-24,North Carolina State,ACC,A,North Carolina,W,34,28,16,29,200,0,48,206,5,10,9,3,35,0,1
+2018-12-01,North Carolina State,ACC,H,East Carolina,W,58,3,33,45,421,3,38,234,4,21,10,3,30,2,1
+2018-12-31,North Carolina State,ACC,N,Texas A&M,L,13,52,19,32,139,1,37,134,0,6,7,4,30,0,2
+2018-08-25,Hawaii,MWC,A,Colorado State,W,43,34,26,37,418,3,36,199,2,19,9,10,65,1,0
+2018-09-01,Hawaii,MWC,H,Navy,W,59,41,31,42,436,6,26,90,1,17,6,1,5,1,0
+2018-09-08,Hawaii,MWC,H,Rice,W,43,29,22,33,319,4,29,162,2,16,6,6,60,0,0
+2018-09-15,Hawaii,MWC,A,Army,L,21,28,20,32,321,2,13,41,1,11,3,5,30,0,0
+2018-09-29,Hawaii,MWC,A,San Jose State,W,44,41,34,57,341,4,42,134,1,16,11,6,65,1,1
+2018-10-06,Hawaii,MWC,H,Wyoming,W,17,13,19,29,148,2,37,156,0,6,13,2,25,1,1
+2018-10-13,Hawaii,MWC,A,Brigham Young,L,23,49,22,38,248,2,28,63,1,13,4,4,25,1,1
+2018-10-20,Hawaii,MWC,H,Nevada,L,22,40,19,38,259,3,35,112,0,10,5,7,73,0,0
+2018-10-27,Hawaii,MWC,A,Fresno State,L,20,50,20,35,286,2,26,88,0,12,6,3,14,1,1
+2018-11-03,Hawaii,MWC,H,Utah State,L,17,56,19,48,347,2,20,43,0,13,1,10,75,0,2
+2018-11-17,Hawaii,MWC,H,Nevada-Las Vegas,W,35,28,18,36,328,3,31,83,1,11,6,3,15,0,2
+2018-11-24,Hawaii,MWC,A,San Diego State,W,31,30,29,46,452,3,24,64,1,17,4,6,50,2,0
+2018-12-22,Hawaii,MWC,N,Louisiana Tech,L,14,31,17,34,168,2,32,58,0,8,6,12,140,0,3
+2018-09-01,Rutgers,Big Ten,H,Texas State,W,35,7,20,29,205,1,46,218,3,11,10,7,50,1,3
+2018-09-08,Rutgers,Big Ten,A,Ohio State,L,3,52,11,30,65,0,31,69,0,4,4,7,72,0,2
+2018-09-15,Rutgers,Big Ten,A,Kansas,L,14,55,14,31,124,0,33,150,1,6,7,5,60,3,3
+2018-09-22,Rutgers,Big Ten,H,Buffalo,L,13,42,18,37,168,0,38,116,1,7,6,9,97,0,0
+2018-09-29,Rutgers,Big Ten,H,Indiana,L,17,24,19,36,193,1,23,98,1,10,6,6,63,0,1
+2018-10-06,Rutgers,Big Ten,H,Illinois,L,17,38,29,46,267,1,30,119,1,14,8,10,105,0,3
+2018-10-13,Rutgers,Big Ten,A,Maryland,L,7,34,2,17,8,0,45,171,1,0,11,4,23,0,5
+2018-10-20,Rutgers,Big Ten,H,Northwestern,L,15,18,15,31,81,0,26,107,1,2,7,7,60,0,0
+2018-11-03,Rutgers,Big Ten,A,Wisconsin,L,17,31,20,39,261,1,26,72,1,10,2,4,50,0,0
+2018-11-10,Rutgers,Big Ten,H,Michigan,L,7,42,9,20,59,0,33,193,1,3,7,3,30,1,1
+2018-11-17,Rutgers,Big Ten,H,Penn State,L,7,20,5,16,46,0,55,188,1,1,13,5,62,1,2
+2018-11-24,Rutgers,Big Ten,A,Michigan State,L,10,14,9,18,109,1,35,108,0,4,5,8,76,1,2
+2018-09-01,Central Michigan,MAC,A,Kentucky,L,20,35,17,27,137,0,39,118,1,3,7,12,106,0,0
+2018-09-08,Central Michigan,MAC,H,Kansas,L,7,31,18,32,177,1,28,103,0,7,5,6,52,2,4
+2018-09-15,Central Michigan,MAC,A,Northern Illinois,L,16,24,18,33,158,1,46,164,1,11,10,4,31,1,1
+2018-09-29,Central Michigan,MAC,A,Michigan State,L,20,31,20,35,182,2,22,63,0,8,2,7,64,0,2
+2018-10-06,Central Michigan,MAC,H,Buffalo,L,24,34,14,33,172,2,35,168,1,9,8,10,60,0,4
+2018-10-13,Central Michigan,MAC,H,Ball State,L,23,24,11,23,127,1,50,261,1,5,15,11,115,0,0
+2018-10-20,Central Michigan,MAC,H,Western Michigan,L,10,35,11,28,122,0,44,147,1,5,9,7,59,1,2
+2018-10-27,Central Michigan,MAC,A,Akron,L,10,17,19,39,169,0,49,131,1,9,9,7,75,1,0
+2018-11-03,Central Michigan,MAC,A,Eastern Michigan,L,7,17,12,32,61,0,32,77,0,4,4,7,61,2,2
+2018-11-10,Central Michigan,MAC,H,Bowling Green State,L,13,24,11,21,94,1,29,72,1,6,4,2,13,1,1
+2018-11-23,Central Michigan,MAC,A,Toledo,L,13,51,18,43,133,1,32,48,0,8,6,16,132,0,1
+2018-09-01,Michigan,Big Ten,A,Notre Dame,L,17,24,24,36,249,0,33,58,1,14,4,7,52,1,1
+2018-09-08,Michigan,Big Ten,H,Western Michigan,W,49,3,13,18,143,4,35,308,3,7,12,7,55,0,0
+2018-09-15,Michigan,Big Ten,H,SMU,W,45,20,14,18,237,3,41,197,2,8,10,13,137,0,1
+2018-09-22,Michigan,Big Ten,H,Nebraska,W,56,10,18,31,206,2,45,285,4,9,12,8,77,0,1
+2018-09-29,Michigan,Big Ten,A,Northwestern,W,20,17,15,24,196,0,42,180,2,7,10,11,100,0,0
+2018-10-06,Michigan,Big Ten,H,Maryland,W,42,21,20,28,294,3,40,171,1,11,11,6,52,0,1
+2018-10-13,Michigan,Big Ten,H,Wisconsin,W,38,13,14,21,124,0,48,320,3,5,14,1,15,0,0
+2018-10-20,Michigan,Big Ten,A,Michigan State,W,21,7,14,25,212,2,53,183,1,8,11,9,99,2,0
+2018-11-03,Michigan,Big Ten,H,Penn State,W,42,7,11,17,144,2,52,259,3,6,14,9,80,0,0
+2018-11-10,Michigan,Big Ten,A,Rutgers,W,42,7,18,27,260,3,40,193,3,14,10,2,20,0,0
+2018-11-17,Michigan,Big Ten,H,Indiana,W,31,20,16,28,250,1,50,257,1,10,13,4,45,0,1
+2018-11-24,Michigan,Big Ten,A,Ohio State,L,39,62,23,38,240,3,40,161,2,12,10,7,72,0,2
+2018-12-29,Michigan,Big Ten,N,Florida,L,15,41,23,37,249,1,30,77,0,12,5,4,22,0,2
+2018-09-08,New Mexico,MWC,A,Wisconsin,L,14,45,14,24,134,2,30,77,0,8,5,1,10,1,2
+2018-09-15,New Mexico,MWC,A,New Mexico State,W,42,25,12,19,127,0,62,198,5,6,14,15,133,1,1
+2018-09-29,New Mexico,MWC,H,Liberty,L,43,52,21,41,369,4,37,211,2,13,10,6,57,0,4
+2018-10-06,New Mexico,MWC,A,Nevada-Las Vegas,W,50,14,13,21,250,4,60,252,3,9,14,3,40,1,0
+2018-10-13,New Mexico,MWC,A,Colorado State,L,18,20,12,20,165,2,35,134,0,7,7,5,45,1,0
+2018-10-20,New Mexico,MWC,H,Fresno State,L,7,38,15,32,132,1,33,148,0,8,9,8,110,0,1
+2018-10-27,New Mexico,MWC,A,Utah State,L,19,61,18,37,220,1,30,71,0,10,3,3,35,1,4
+2018-11-03,New Mexico,MWC,H,San Diego State,L,23,31,9,20,41,2,37,101,0,3,7,2,30,0,1
+2018-11-10,New Mexico,MWC,A,Air Force,L,24,42,13,18,186,0,36,119,2,5,9,0,0,1,1
+2018-11-16,New Mexico,MWC,H,Boise State,L,14,45,8,14,103,0,45,159,1,5,10,4,41,2,1
+2018-11-24,New Mexico,MWC,H,Wyoming,L,3,31,3,17,34,0,34,49,0,1,3,2,20,0,1
+2018-09-01,Notre Dame,Ind,H,Michigan,W,24,17,12,22,170,1,47,132,2,7,10,4,40,0,1
+2018-09-08,Notre Dame,Ind,H,Ball State,W,24,16,17,31,297,0,39,121,3,13,7,2,20,0,3
+2018-09-15,Notre Dame,Ind,H,Vanderbilt,W,22,17,16,26,135,1,48,245,1,7,14,6,63,0,0
+2018-09-22,Notre Dame,Ind,A,Wake Forest,W,56,27,25,36,325,2,40,241,6,11,15,4,37,1,0
+2018-09-29,Notre Dame,Ind,H,Stanford,W,38,17,24,33,278,4,55,272,1,16,12,6,67,0,0
+2018-10-06,Notre Dame,Ind,A,Virginia Tech,W,45,23,25,35,271,2,32,167,3,12,6,5,19,0,1
+2018-10-13,Notre Dame,Ind,H,Pitt,W,19,14,26,32,264,2,38,80,0,12,8,4,35,0,2
+2018-10-27,Notre Dame,Ind,N,Navy,W,44,22,27,33,330,2,43,254,4,14,13,3,40,1,1
+2018-11-03,Notre Dame,Ind,A,Northwestern,W,31,21,22,34,343,2,40,121,2,18,7,8,58,1,0
+2018-11-10,Notre Dame,Ind,H,Florida State,W,42,13,12,25,130,3,50,365,2,8,15,8,74,0,2
+2018-11-17,Notre Dame,Ind,N,Syracuse,W,36,3,23,38,292,2,36,171,2,14,7,7,55,0,1
+2018-11-24,Notre Dame,Ind,A,USC,W,24,17,22,39,352,2,31,121,1,16,6,3,38,0,1
+2018-12-29,Notre Dame,Ind,N,Clemson,L,3,30,17,34,160,0,35,88,0,8,7,7,50,1,1
+2018-09-08,East Carolina,American,H,North Carolina,W,41,19,19,33,290,1,49,220,4,15,9,4,40,0,0
+2018-09-22,East Carolina,American,A,South Florida,L,13,20,22,50,256,0,46,156,1,11,10,2,10,0,1
+2018-09-29,East Carolina,American,H,Old Dominion,W,37,35,25,45,313,3,38,179,2,17,6,8,86,0,2
+2018-10-06,East Carolina,American,A,Temple,L,6,49,18,39,120,0,28,76,0,4,5,2,25,0,0
+2018-10-13,East Carolina,American,H,Houston,L,20,42,38,63,374,1,31,41,1,20,4,8,69,1,3
+2018-10-20,East Carolina,American,H,UCF,L,10,37,29,56,406,1,38,90,0,18,9,8,60,4,1
+2018-11-03,East Carolina,American,H,Memphis,L,41,59,34,62,449,3,29,107,2,18,8,4,45,1,0
+2018-11-10,East Carolina,American,A,Tulane,L,18,24,21,68,360,2,26,90,0,13,6,7,69,0,1
+2018-11-17,East Carolina,American,H,Connecticut,W,55,21,22,33,242,4,54,415,3,9,23,5,48,0,0
+2018-11-23,East Carolina,American,A,Cincinnati,L,6,56,10,28,220,1,33,83,0,7,3,3,30,2,3
+2018-12-01,East Carolina,American,A,North Carolina State,L,3,58,9,25,73,0,26,31,0,2,2,2,20,1,2
+2018-09-08,Pitt,ACC,H,Penn State,L,6,51,9,18,55,0,52,245,1,1,13,14,116,2,1
+2018-09-15,Pitt,ACC,H,Georgia Tech,W,24,19,16,23,197,0,31,138,3,8,6,4,38,0,1
+2018-09-22,Pitt,ACC,A,North Carolina,L,35,38,19,33,174,2,36,228,3,8,12,5,45,1,0
+2018-09-29,Pitt,ACC,A,UCF,L,14,45,16,26,163,1,33,109,0,6,8,11,125,0,1
+2018-10-06,Pitt,ACC,H,Syracuse,W,44,37,11,20,137,1,47,265,3,4,13,3,25,2,1
+2018-10-13,Pitt,ACC,A,Notre Dame,L,14,19,19,30,126,0,30,116,1,6,6,8,80,0,0
+2018-10-27,Pitt,ACC,H,Duke,W,54,45,8,19,150,2,52,484,4,6,22,4,50,0,0
+2018-11-02,Pitt,ACC,A,Virginia,W,23,13,7,14,61,0,42,254,3,1,12,7,72,0,0
+2018-11-10,Pitt,ACC,H,Virginia Tech,W,52,22,7,11,162,1,36,492,6,4,13,5,65,1,0
+2018-11-17,Pitt,ACC,A,Wake Forest,W,34,13,23,30,316,3,47,154,2,10,9,10,78,0,0
+2018-11-24,Pitt,ACC,A,Miami (FL),L,3,24,15,24,131,0,38,69,0,5,4,10,100,1,0
+2018-12-01,Pitt,ACC,N,Clemson,L,10,42,4,16,8,0,48,191,1,1,10,8,54,2,1
+2018-12-31,Pitt,ACC,N,Stanford,L,13,14,11,29,136,0,42,208,1,5,11,6,39,0,0
+2018-09-15,Akron,MAC,A,Northwestern,W,39,34,17,28,277,2,36,90,0,7,6,15,140,0,0
+2018-09-22,Akron,MAC,A,Iowa State,L,13,26,12,28,153,1,31,91,0,8,4,6,45,0,1
+2018-10-06,Akron,MAC,H,Miami (OH),L,17,41,19,35,203,1,28,56,0,9,5,8,86,2,3
+2018-10-13,Akron,MAC,A,Buffalo,L,6,24,12,29,115,0,32,120,0,5,7,5,46,0,1
+2018-10-20,Akron,MAC,A,Kent State,W,24,23,19,35,219,1,39,143,2,13,5,7,65,0,1
+2018-10-27,Akron,MAC,H,Central Michigan,W,17,10,10,27,149,1,37,154,1,6,8,4,37,4,0
+2018-11-01,Akron,MAC,H,Northern Illinois,L,26,36,21,38,326,3,28,35,0,14,1,7,50,0,2
+2018-11-10,Akron,MAC,A,Eastern Michigan,L,7,27,4,15,29,0,30,72,0,1,4,2,25,1,3
+2018-11-17,Akron,MAC,H,Bowling Green State,L,6,21,12,28,148,0,28,79,0,7,6,8,61,0,0
+2018-11-23,Akron,MAC,A,Ohio,L,28,49,24,41,356,4,21,32,0,16,3,9,81,0,1
+2018-12-01,Akron,MAC,A,South Carolina,L,3,28,19,39,178,0,39,106,0,10,7,3,24,2,0
+2018-09-08,Charlotte,CUSA,H,Appalachian State,L,9,45,12,25,108,0,43,95,0,4,8,9,80,1,1
+2018-09-13,Charlotte,CUSA,H,Old Dominion,W,28,25,23,34,202,2,46,171,1,11,14,3,22,1,0
+2018-09-22,Charlotte,CUSA,A,Massachusetts,L,31,49,23,36,283,3,41,81,1,12,7,4,32,1,0
+2018-09-29,Charlotte,CUSA,A,UAB,L,7,28,17,25,194,0,34,69,1,9,4,7,76,1,1
+2018-10-13,Charlotte,CUSA,H,Western Kentucky,W,40,14,17,26,237,1,50,211,4,12,13,4,30,1,0
+2018-10-20,Charlotte,CUSA,A,Middle Tennessee State,L,13,21,20,40,209,1,39,150,1,8,10,5,40,0,2
+2018-10-27,Charlotte,CUSA,H,Southern Mississippi,W,20,17,8,14,78,0,41,146,1,5,7,5,50,0,1
+2018-11-03,Charlotte,CUSA,A,Tennessee,L,3,14,13,25,152,0,37,92,0,7,4,8,55,0,1
+2018-11-10,Charlotte,CUSA,A,Marshall,L,13,30,10,20,72,0,41,113,1,3,10,3,15,0,0
+2018-11-17,Charlotte,CUSA,H,Florida International,L,35,42,16,22,253,1,57,281,4,9,16,7,65,1,1
+2018-11-24,Charlotte,CUSA,A,Florida Atlantic,W,27,24,10,16,111,1,49,322,2,7,13,5,55,0,1
+2018-08-25,Wyoming,MWC,A,New Mexico State,W,29,7,13,22,137,0,56,313,3,7,13,4,60,0,0
+2018-09-01,Wyoming,MWC,H,Washington State,L,19,41,8,20,67,0,39,139,2,3,11,13,109,0,1
+2018-09-08,Wyoming,MWC,A,Missouri,L,13,40,13,28,160,0,30,88,1,7,5,3,17,1,0
+2018-09-29,Wyoming,MWC,H,Boise State,L,14,34,15,26,214,1,24,81,1,7,3,6,59,1,0
+2018-10-06,Wyoming,MWC,A,Hawaii,L,13,17,9,18,87,0,34,157,0,4,8,6,45,0,0
+2018-10-13,Wyoming,MWC,A,Fresno State,L,3,27,12,32,117,0,30,104,0,6,6,5,22,0,1
+2018-10-20,Wyoming,MWC,H,Utah State,L,16,24,10,24,100,0,50,231,1,3,10,10,80,1,1
+2018-10-26,Wyoming,MWC,A,Colorado State,W,34,21,7,10,116,2,55,297,2,5,14,6,57,0,0
+2018-11-03,Wyoming,MWC,H,San Jose State,W,24,9,4,8,51,1,64,424,2,4,18,4,25,2,0
+2018-11-17,Wyoming,MWC,H,Air Force,W,35,27,15,29,262,2,29,111,3,9,7,5,35,1,0
+2018-11-24,Wyoming,MWC,A,New Mexico,W,31,3,4,17,41,0,54,367,4,4,16,5,47,1,0
+2018-09-08,Georgia Tech,ACC,A,South Florida,L,38,49,9,18,183,1,57,419,4,6,19,8,80,1,2
+2018-09-15,Georgia Tech,ACC,A,Pitt,L,19,24,6,15,66,0,56,320,3,4,16,5,35,1,1
+2018-09-22,Georgia Tech,ACC,H,Clemson,L,21,49,3,8,57,1,56,146,2,2,10,4,30,1,0
+2018-09-29,Georgia Tech,ACC,H,Bowling Green State,W,63,17,5,7,160,0,49,372,7,5,16,3,54,0,0
+2018-10-05,Georgia Tech,ACC,A,Louisville,W,66,31,1,2,12,0,65,542,8,1,27,4,50,0,0
+2018-10-13,Georgia Tech,ACC,H,Duke,L,14,28,7,17,125,1,61,229,1,5,14,3,18,3,0
+2018-10-25,Georgia Tech,ACC,A,Virginia Tech,W,49,28,0,1,0,0,78,465,7,0,31,6,50,0,0
+2018-11-03,Georgia Tech,ACC,A,North Carolina,W,38,28,2,2,104,1,74,461,4,2,24,3,20,3,0
+2018-11-10,Georgia Tech,ACC,H,Miami (FL),W,27,21,3,4,73,1,53,231,2,3,12,3,35,1,0
+2018-11-17,Georgia Tech,ACC,H,Virginia,W,30,27,1,8,37,0,52,268,1,1,11,3,25,0,0
+2018-11-24,Georgia Tech,ACC,A,Georgia,L,21,45,5,14,91,1,46,128,1,4,8,2,20,0,0
+2018-12-26,Georgia Tech,ACC,N,Minnesota,L,10,34,5,12,77,0,44,206,1,2,11,3,30,1,0
+2018-08-30,Wake Forest,ACC,A,Tulane,W,23,17,31,51,378,2,43,170,1,20,10,6,70,1,2
+2018-09-13,Wake Forest,ACC,H,Boston College,L,34,41,20,45,214,2,60,298,1,10,16,3,35,0,2
+2018-09-22,Wake Forest,ACC,H,Notre Dame,L,27,56,16,31,139,0,61,259,3,9,15,3,23,0,1
+2018-09-29,Wake Forest,ACC,H,Rice,W,56,24,17,20,243,4,41,171,2,8,9,3,25,1,1
+2018-10-06,Wake Forest,ACC,H,Clemson,L,3,63,7,27,74,0,51,175,0,4,7,5,55,0,1
+2018-10-20,Wake Forest,ACC,A,Florida State,L,17,38,26,56,261,2,51,119,0,14,10,5,65,0,1
+2018-10-27,Wake Forest,ACC,A,Louisville,W,56,35,16,24,223,2,48,368,5,10,18,3,35,0,0
+2018-11-03,Wake Forest,ACC,H,Syracuse,L,24,41,21,37,275,2,44,159,1,12,10,10,95,2,1
+2018-11-08,Wake Forest,ACC,A,North Carolina State,W,27,23,22,33,297,3,38,138,0,11,10,5,50,1,0
+2018-11-17,Wake Forest,ACC,H,Pitt,L,13,34,15,30,206,1,28,79,0,9,6,1,15,0,2
+2018-11-24,Wake Forest,ACC,A,Duke,W,59,7,18,23,177,4,57,340,3,9,19,4,30,0,0
+2018-12-22,Wake Forest,ACC,N,Memphis,W,37,34,22,40,328,1,50,201,3,13,12,7,50,0,1
+2018-09-08,Arkansas State,Sun Belt,A,Alabama,L,7,57,22,51,218,1,31,173,0,12,6,10,84,0,1
+2018-09-15,Arkansas State,Sun Belt,A,Tulsa,W,29,20,20,33,191,0,47,218,2,9,14,11,101,1,0
+2018-09-22,Arkansas State,Sun Belt,H,Nevada-Las Vegas,W,27,20,19,27,199,3,36,197,1,9,8,11,87,1,0
+2018-09-29,Arkansas State,Sun Belt,A,Georgia Southern,L,21,28,38,51,376,1,36,117,1,18,10,5,39,1,0
+2018-10-09,Arkansas State,Sun Belt,H,Appalachian State,L,9,35,27,45,219,0,37,117,0,10,6,7,65,0,3
+2018-10-18,Arkansas State,Sun Belt,H,Georgia State,W,51,35,17,28,257,3,37,273,3,10,11,11,109,0,0
+2018-10-27,Arkansas State,Sun Belt,A,Louisiana,L,43,47,17,31,270,1,45,208,5,10,14,4,65,0,1
+2018-11-03,Arkansas State,Sun Belt,H,South Alabama,W,38,14,27,40,354,3,37,155,2,15,8,3,15,0,0
+2018-11-10,Arkansas State,Sun Belt,A,Coastal Carolina,W,44,16,23,29,281,4,29,173,2,11,9,10,71,1,0
+2018-11-17,Arkansas State,Sun Belt,H,Louisiana-Monroe,W,31,17,21,27,246,3,39,158,0,11,7,7,68,0,0
+2018-11-24,Arkansas State,Sun Belt,A,Texas State,W,33,7,18,24,276,2,46,217,1,10,10,4,37,1,0
+2018-12-29,Arkansas State,Sun Belt,N,Nevada,L,13,16,26,46,275,0,47,224,1,13,9,4,25,0,3
+2018-09-08,Mississippi State,SEC,A,Kansas State,W,31,10,11,27,154,2,39,384,2,6,18,11,84,0,1
+2018-09-15,Mississippi State,SEC,H,Louisiana,W,56,10,16,24,276,2,47,331,6,11,18,3,15,0,1
+2018-09-22,Mississippi State,SEC,A,Kentucky,L,7,28,16,32,145,0,28,56,1,6,5,16,139,0,1
+2018-09-29,Mississippi State,SEC,H,Florida,L,6,13,11,26,98,0,32,104,0,6,7,2,15,0,0
+2018-10-06,Mississippi State,SEC,H,Auburn,W,23,9,9,17,69,0,57,349,2,3,18,1,15,0,1
+2018-10-20,Mississippi State,SEC,A,LSU,L,3,19,8,24,59,0,37,201,0,3,9,5,45,0,4
+2018-10-27,Mississippi State,SEC,H,Texas A&M,W,28,13,14,22,241,2,31,143,2,7,7,10,95,0,0
+2018-11-03,Mississippi State,SEC,H,Louisiana Tech,W,45,3,17,29,243,4,36,289,2,11,13,3,25,0,0
+2018-11-10,Mississippi State,SEC,A,Alabama,L,0,24,11,20,125,0,30,44,0,3,3,7,50,1,0
+2018-11-17,Mississippi State,SEC,H,Arkansas,W,52,6,12,18,188,5,47,287,2,9,16,7,60,1,0
+2018-11-22,Mississippi State,SEC,A,Ole Miss,W,35,3,11,18,111,1,51,309,4,6,16,3,35,0,0
+2019-01-01,Mississippi State,SEC,N,Iowa,L,22,27,14,32,152,1,42,190,1,4,11,8,90,1,2
+2018-09-01,Nevada-Las Vegas,MWC,A,USC,L,21,43,12,27,97,2,43,308,1,4,13,4,35,1,0
+2018-09-08,Nevada-Las Vegas,MWC,H,UTEP,W,52,24,6,14,119,3,56,414,4,5,21,3,29,0,0
+2018-09-22,Nevada-Las Vegas,MWC,A,Arkansas State,L,20,27,5,21,23,0,49,310,3,2,11,6,40,1,3
+2018-10-06,Nevada-Las Vegas,MWC,H,New Mexico,L,14,50,15,35,123,2,27,43,0,8,3,3,25,1,1
+2018-10-13,Nevada-Las Vegas,MWC,A,Utah State,L,28,59,18,36,250,3,48,154,1,10,8,9,70,0,1
+2018-10-19,Nevada-Las Vegas,MWC,H,Air Force,L,35,41,26,38,261,3,33,139,2,12,6,6,40,0,1
+2018-10-27,Nevada-Las Vegas,MWC,A,San Jose State,L,37,50,28,50,387,4,37,167,1,14,9,4,35,0,3
+2018-11-03,Nevada-Las Vegas,MWC,H,Fresno State,L,3,48,15,35,105,0,41,197,0,6,12,8,57,0,1
+2018-11-10,Nevada-Las Vegas,MWC,A,San Diego State,W,27,24,16,24,237,1,43,199,2,9,9,5,51,1,1
+2018-11-17,Nevada-Las Vegas,MWC,A,Hawaii,L,28,35,10,24,87,2,53,221,2,4,12,8,97,0,0
+2018-11-24,Nevada-Las Vegas,MWC,H,Nevada,W,34,29,15,23,183,3,50,226,2,7,13,5,40,1,0
+2018-09-08,South Florida,American,H,Georgia Tech,W,49,38,21,31,202,2,44,224,3,13,13,5,36,0,1
+2018-09-15,South Florida,American,N,Illinois,W,25,19,23,40,411,2,44,215,1,19,11,14,124,0,2
+2018-09-22,South Florida,American,H,East Carolina,W,20,13,12,20,181,1,32,115,2,5,4,3,33,1,0
+2018-10-06,South Florida,American,A,Massachusetts,W,58,42,17,24,209,1,41,365,5,8,9,11,100,1,1
+2018-10-12,South Florida,American,A,Tulsa,W,25,24,17,40,237,0,47,250,3,11,12,8,70,0,1
+2018-10-20,South Florida,American,H,Connecticut,W,38,30,20,28,265,1,37,346,4,8,16,9,90,1,2
+2018-10-27,South Florida,American,A,Houston,L,36,57,26,39,263,1,42,204,3,14,13,8,85,1,1
+2018-11-03,South Florida,American,H,Tulane,L,15,41,29,49,322,0,33,102,2,17,8,10,91,2,1
+2018-11-10,South Florida,American,A,Cincinnati,L,23,35,14,32,232,3,29,81,0,8,4,8,80,0,0
+2018-11-17,South Florida,American,A,Temple,L,17,27,14,23,82,0,48,184,2,3,10,7,55,3,2
+2018-11-23,South Florida,American,H,UCF,L,10,38,15,29,113,1,46,221,0,5,11,4,34,0,1
+2018-12-20,South Florida,American,H,Marshall,L,20,38,15,31,268,2,35,92,0,10,7,5,25,1,0
+2018-09-08,Buffalo,MAC,A,Temple,W,36,29,26,45,275,3,41,152,2,17,7,4,29,0,1
+2018-09-15,Buffalo,MAC,H,Eastern Michigan,W,35,28,21,26,325,3,41,164,2,10,6,7,47,1,0
+2018-09-22,Buffalo,MAC,A,Rutgers,W,42,13,14,28,263,3,36,182,3,10,5,3,25,0,2
+2018-09-29,Buffalo,MAC,H,Army,L,13,42,10,24,152,1,31,103,1,5,5,7,78,0,0
+2018-10-06,Buffalo,MAC,A,Central Michigan,W,34,24,10,20,127,1,48,295,3,8,12,4,38,0,1
+2018-10-13,Buffalo,MAC,H,Akron,W,24,6,16,30,212,1,46,223,2,9,10,5,45,0,1
+2018-10-20,Buffalo,MAC,A,Toledo,W,31,17,25,46,326,2,50,137,2,14,10,5,44,0,3
+2018-10-30,Buffalo,MAC,H,Miami (OH),W,51,42,20,35,358,3,37,149,4,11,10,11,100,0,0
+2018-11-06,Buffalo,MAC,H,Kent State,W,48,14,9,21,120,1,57,358,6,6,15,3,20,1,0
+2018-11-14,Buffalo,MAC,A,Ohio,L,17,52,10,23,120,0,22,157,2,4,7,3,20,2,3
+2018-11-23,Buffalo,MAC,A,Bowling Green State,W,44,14,12,22,151,1,60,336,4,4,24,4,25,0,1
+2018-11-30,Buffalo,MAC,N,Northern Illinois,L,29,30,18,35,252,2,42,142,2,10,11,3,20,0,0
+2018-12-22,Buffalo,MAC,N,Troy,L,32,42,20,35,274,1,33,102,2,11,5,5,39,3,1
+2018-09-08,Kansas State,Big 12,H,Mississippi State,L,10,31,9,21,100,1,35,113,0,5,7,2,15,0,1
+2018-09-15,Kansas State,Big 12,H,UTSA,W,41,17,14,19,285,3,44,164,2,11,8,4,41,2,0
+2018-09-22,Kansas State,Big 12,A,West Virginia,L,6,35,18,29,227,0,36,91,0,9,7,8,69,1,0
+2018-09-29,Kansas State,Big 12,H,Texas,L,14,19,11,25,110,0,39,107,2,6,7,0,0,0,0
+2018-10-06,Kansas State,Big 12,A,Baylor,L,34,37,15,26,149,1,35,319,4,5,15,6,55,1,2
+2018-10-13,Kansas State,Big 12,H,Oklahoma State,W,31,12,11,22,130,0,55,291,4,7,13,4,40,0,0
+2018-10-27,Kansas State,Big 12,A,Oklahoma,L,14,51,13,21,108,0,32,137,2,5,6,4,50,1,0
+2018-11-03,Kansas State,Big 12,A,Texas Christian,L,13,14,16,28,162,1,47,139,1,8,11,2,3,2,1
+2018-11-10,Kansas State,Big 12,H,Kansas,W,21,17,11,18,126,0,40,175,3,7,8,7,55,0,0
+2018-11-17,Kansas State,Big 12,H,Texas Tech,W,21,6,17,26,213,1,50,154,0,11,9,2,20,0,1
+2018-11-24,Kansas State,Big 12,A,Iowa State,L,38,42,18,27,183,3,47,245,2,5,15,7,61,1,0
+2018-09-08,Louisiana-Monroe,Sun Belt,A,Southern Mississippi,W,21,20,15,28,195,2,30,159,0,7,6,8,55,1,1
+2018-09-15,Louisiana-Monroe,Sun Belt,A,Texas A&M,L,10,48,15,28,225,1,29,103,0,7,6,4,38,0,1
+2018-09-22,Louisiana-Monroe,Sun Belt,H,Troy,L,27,35,29,48,290,2,36,200,2,15,11,10,94,0,1
+2018-09-29,Louisiana-Monroe,Sun Belt,A,Georgia State,L,14,46,20,34,137,0,20,125,2,6,5,3,11,2,2
+2018-10-06,Louisiana-Monroe,Sun Belt,A,Ole Miss,L,21,70,23,38,297,1,38,130,1,13,10,2,15,2,0
+2018-10-13,Louisiana-Monroe,Sun Belt,A,Coastal Carolina,W,45,20,16,22,224,1,34,242,5,8,11,2,30,1,0
+2018-10-20,Louisiana-Monroe,Sun Belt,H,Texas State,W,20,14,13,29,124,1,43,229,1,8,12,7,67,2,0
+2018-11-03,Louisiana-Monroe,Sun Belt,H,Georgia Southern,W,44,25,13,22,337,2,42,236,4,9,10,8,75,0,2
+2018-11-10,Louisiana-Monroe,Sun Belt,A,South Alabama,W,38,10,28,33,376,2,38,175,3,16,8,1,15,1,0
+2018-11-17,Louisiana-Monroe,Sun Belt,A,Arkansas State,L,17,31,17,28,218,1,26,58,1,10,4,5,63,0,3
+2018-11-24,Louisiana-Monroe,Sun Belt,H,Louisiana,L,28,31,15,24,201,2,35,143,1,8,9,4,50,1,1
+2018-09-01,UCLA,Pac-12,H,Cincinnati,L,17,26,23,37,162,0,31,144,2,10,4,6,26,0,1
+2018-09-08,UCLA,Pac-12,A,Oklahoma,L,21,49,16,26,254,1,50,129,2,11,9,6,77,0,0
+2018-09-15,UCLA,Pac-12,H,Fresno State,L,14,38,10,24,151,1,31,119,1,6,5,11,96,2,2
+2018-09-28,UCLA,Pac-12,A,Colorado,L,16,38,17,35,138,1,28,151,0,5,8,8,67,0,0
+2018-10-06,UCLA,Pac-12,H,Washington,L,24,31,27,38,272,2,27,150,1,12,8,4,45,0,1
+2018-10-13,UCLA,Pac-12,A,California,W,37,7,13,15,141,0,55,207,3,6,12,4,30,0,0
+2018-10-20,UCLA,Pac-12,H,Arizona,W,31,30,22,35,307,3,47,153,1,14,6,12,103,1,0
+2018-10-26,UCLA,Pac-12,H,Utah,L,10,41,20,40,164,0,26,127,1,7,9,5,40,1,2
+2018-11-03,UCLA,Pac-12,A,Oregon,L,21,42,23,49,297,2,38,199,1,14,15,11,64,2,1
+2018-11-10,UCLA,Pac-12,A,Arizona State,L,28,31,26,35,335,2,29,104,1,17,4,7,58,0,1
+2018-11-17,UCLA,Pac-12,H,USC,W,34,27,13,22,166,1,51,318,3,10,12,2,15,0,1
+2018-11-24,UCLA,Pac-12,H,Stanford,L,42,49,29,47,466,0,37,62,4,22,6,6,63,1,1
+2018-08-30,Northwestern,Big Ten,A,Purdue,W,31,27,23,37,235,0,42,166,4,11,7,6,56,0,0
+2018-09-08,Northwestern,Big Ten,H,Duke,L,7,21,31,56,282,0,32,99,1,16,5,2,20,0,2
+2018-09-15,Northwestern,Big Ten,H,Akron,L,34,39,37,58,405,3,36,86,2,19,7,3,35,1,2
+2018-09-29,Northwestern,Big Ten,H,Michigan,L,17,20,16,29,174,0,34,28,2,7,5,2,25,0,0
+2018-10-06,Northwestern,Big Ten,A,Michigan State,W,29,19,31,47,373,3,20,8,1,14,3,3,35,0,2
+2018-10-13,Northwestern,Big Ten,H,Nebraska,W,34,31,41,64,455,3,23,32,0,21,4,1,5,0,2
+2018-10-20,Northwestern,Big Ten,A,Rutgers,W,18,15,17,34,150,0,47,128,2,8,8,6,49,1,0
+2018-10-27,Northwestern,Big Ten,H,Wisconsin,W,31,17,17,30,167,1,49,182,3,8,9,3,20,0,3
+2018-11-03,Northwestern,Big Ten,H,Notre Dame,L,21,31,16,29,141,1,40,108,2,10,5,0,0,0,0
+2018-11-10,Northwestern,Big Ten,A,Iowa,W,14,10,15,30,122,1,46,184,1,6,12,5,40,0,2
+2018-11-17,Northwestern,Big Ten,A,Minnesota,W,24,14,15,21,230,0,39,95,3,11,4,2,20,0,0
+2018-11-24,Northwestern,Big Ten,H,Illinois,W,24,16,12,18,110,2,46,261,1,6,12,1,15,0,0
+2018-12-01,Northwestern,Big Ten,N,Ohio State,L,24,45,27,44,267,1,24,151,2,13,6,3,15,1,2
+2018-12-31,Northwestern,Big Ten,N,Utah,W,31,20,21,30,241,2,40,81,1,11,6,3,28,0,1
+2018-09-08,Kansas,Big 12,A,Central Michigan,W,31,7,18,27,145,1,45,216,2,8,10,7,55,0,0
+2018-09-15,Kansas,Big 12,H,Rutgers,W,55,14,15,25,144,1,48,400,4,9,12,7,67,0,0
+2018-09-22,Kansas,Big 12,A,Baylor,L,7,26,16,27,149,1,28,122,0,5,5,7,55,0,0
+2018-09-29,Kansas,Big 12,H,Oklahoma State,L,28,48,24,32,247,3,32,121,1,11,5,4,43,1,0
+2018-10-06,Kansas,Big 12,A,West Virginia,L,22,38,21,34,206,2,26,80,1,9,5,6,45,1,2
+2018-10-20,Kansas,Big 12,A,Texas Tech,L,16,48,18,41,221,2,29,98,0,9,6,6,62,1,1
+2018-10-27,Kansas,Big 12,H,Texas Christian,W,27,26,19,29,249,2,38,58,1,12,4,8,59,0,0
+2018-11-03,Kansas,Big 12,H,Iowa State,L,3,27,19,43,185,0,40,147,0,11,8,3,25,1,0
+2018-11-10,Kansas,Big 12,A,Kansas State,L,17,21,21,34,232,2,35,115,0,13,4,8,53,2,0
+2018-11-17,Kansas,Big 12,A,Oklahoma,L,40,55,20,28,176,1,36,348,4,8,17,6,53,0,0
+2018-11-23,Kansas,Big 12,H,Texas,L,17,24,18,35,159,1,33,137,1,8,5,9,98,0,1
+2018-08-31,Western Michigan,MAC,H,Syracuse,L,42,55,19,36,379,3,28,242,3,14,7,6,45,0,2
+2018-09-08,Western Michigan,MAC,A,Michigan,L,3,49,16,34,85,0,40,123,0,5,9,4,30,0,1
+2018-09-22,Western Michigan,MAC,A,Georgia State,W,34,15,20,25,234,3,45,294,1,12,12,5,50,0,0
+2018-09-29,Western Michigan,MAC,A,Miami (OH),W,40,39,27,42,439,5,37,123,1,20,7,9,96,2,0
+2018-10-06,Western Michigan,MAC,H,Eastern Michigan,W,27,24,16,27,235,1,41,152,3,10,8,10,67,1,1
+2018-10-13,Western Michigan,MAC,A,Bowling Green State,W,42,35,22,37,286,2,54,282,4,11,18,5,67,0,2
+2018-10-20,Western Michigan,MAC,A,Central Michigan,W,35,10,5,9,51,0,55,305,5,2,12,5,55,0,0
+2018-10-25,Western Michigan,MAC,H,Toledo,L,24,51,25,32,307,2,34,125,1,11,4,8,76,1,0
+2018-11-01,Western Michigan,MAC,H,Ohio,L,14,59,10,19,152,1,40,118,1,4,7,6,51,4,2
+2018-11-13,Western Michigan,MAC,A,Ball State,L,41,42,20,29,187,1,67,361,4,11,19,6,50,1,0
+2018-11-20,Western Michigan,MAC,H,Northern Illinois,W,28,21,19,35,285,0,46,94,3,14,7,2,10,1,0
+2018-12-21,Western Michigan,MAC,N,Brigham Young,L,18,49,20,37,175,0,39,138,2,8,6,5,37,0,1
+2018-09-01,Iowa,Big Ten,H,Northern Illinois,W,33,7,13,25,143,1,48,209,3,6,8,8,66,0,1
+2018-09-08,Iowa,Big Ten,H,Iowa State,W,13,3,16,28,166,0,36,105,1,7,6,6,55,0,0
+2018-09-22,Iowa,Big Ten,H,Wisconsin,L,17,28,14,23,256,2,31,148,0,11,5,1,5,2,1
+2018-10-06,Iowa,Big Ten,A,Minnesota,W,48,31,23,39,314,4,40,106,2,13,5,5,45,1,1
+2018-10-13,Iowa,Big Ten,A,Indiana,W,42,16,21,33,320,6,32,159,0,12,7,11,110,0,1
+2018-10-20,Iowa,Big Ten,H,Maryland,W,23,0,11,24,86,1,52,224,0,7,14,0,0,0,1
+2018-10-27,Iowa,Big Ten,A,Penn State,L,24,30,19,50,215,1,38,135,0,13,8,6,25,0,2
+2018-11-03,Iowa,Big Ten,A,Purdue,L,36,38,21,32,275,1,37,118,4,15,5,8,75,1,0
+2018-11-10,Iowa,Big Ten,H,Northwestern,L,10,14,27,41,269,1,22,64,0,12,3,3,35,2,0
+2018-11-17,Iowa,Big Ten,A,Illinois,W,63,0,14,23,197,3,37,203,4,9,11,2,28,0,1
+2018-11-23,Iowa,Big Ten,H,Nebraska,W,31,28,17,28,153,2,45,266,2,11,14,2,20,0,0
+2019-01-01,Iowa,Big Ten,N,Mississippi State,W,27,22,21,31,214,3,20,-15,0,7,1,0,0,1,1
+2018-09-01,Texas,Big 12,N,Maryland,L,29,34,21,39,263,2,36,142,2,10,9,10,102,1,2
+2018-09-08,Texas,Big 12,H,Tulsa,W,28,21,21,27,237,2,47,241,2,9,12,8,65,1,0
+2018-09-15,Texas,Big 12,H,USC,W,37,14,16,34,234,2,48,160,1,11,10,7,86,1,0
+2018-09-22,Texas,Big 12,H,Texas Christian,W,31,16,22,32,255,2,45,112,2,14,6,4,25,0,0
+2018-09-29,Texas,Big 12,A,Kansas State,W,19,14,30,38,228,1,27,115,0,14,8,10,104,0,0
+2018-10-06,Texas,Big 12,N,Oklahoma,W,48,45,26,37,324,3,38,177,3,15,9,6,43,0,0
+2018-10-13,Texas,Big 12,H,Baylor,W,23,17,24,39,219,1,41,170,1,13,9,8,56,0,1
+2018-10-27,Texas,Big 12,A,Oklahoma State,L,35,38,22,42,283,2,30,119,3,13,8,11,86,0,0
+2018-11-03,Texas,Big 12,H,West Virginia,L,41,42,25,36,354,3,39,166,2,15,11,7,64,1,0
+2018-11-10,Texas,Big 12,A,Texas Tech,W,41,34,22,34,312,4,48,157,1,15,10,6,59,0,0
+2018-11-17,Texas,Big 12,H,Iowa State,W,24,10,22,25,226,2,46,179,1,10,10,3,25,1,0
+2018-11-23,Texas,Big 12,A,Kansas,W,24,17,16,28,154,2,38,149,1,7,10,4,35,0,2
+2018-12-01,Texas,Big 12,N,Oklahoma,L,27,39,23,37,349,2,32,88,2,14,7,13,128,0,1
+2019-01-01,Texas,Big 12,N,Georgia,W,28,21,20,28,177,0,49,178,3,10,10,6,60,0,0
+2018-09-07,Texas Christian,Big 12,A,SMU,W,42,12,15,28,146,1,42,247,3,5,17,4,35,1,1
+2018-09-15,Texas Christian,Big 12,N,Ohio State,L,28,40,24,40,308,1,36,203,3,13,8,5,40,1,2
+2018-09-22,Texas Christian,Big 12,A,Texas,L,16,31,20,39,231,1,32,141,0,9,7,3,30,1,3
+2018-09-29,Texas Christian,Big 12,H,Iowa State,W,17,14,21,29,182,1,46,117,0,10,9,5,55,2,1
+2018-10-11,Texas Christian,Big 12,H,Texas Tech,L,14,17,26,45,290,2,32,121,0,12,6,8,63,1,2
+2018-10-20,Texas Christian,Big 12,H,Oklahoma,L,27,52,10,25,163,2,30,112,0,6,5,2,10,0,1
+2018-10-27,Texas Christian,Big 12,A,Kansas,L,26,27,23,33,351,1,39,153,2,17,7,5,57,1,1
+2018-11-03,Texas Christian,Big 12,H,Kansas State,W,14,13,17,33,218,1,26,57,1,8,5,2,15,1,0
+2018-11-10,Texas Christian,Big 12,A,West Virginia,L,10,47,22,37,229,1,24,-7,0,9,3,2,15,2,0
+2018-11-17,Texas Christian,Big 12,A,Baylor,W,16,9,15,21,151,1,42,160,1,4,10,8,80,0,0
+2018-11-24,Texas Christian,Big 12,H,Oklahoma State,W,31,24,16,25,180,2,45,243,1,8,11,4,30,1,0
+2018-12-26,Texas Christian,Big 12,N,California,W,10,7,8,21,28,0,59,262,1,2,14,3,30,0,4
+2018-09-02,Miami (FL),ACC,N,LSU,L,17,33,15,35,259,1,34,83,1,9,6,11,85,0,2
+2018-09-15,Miami (FL),ACC,A,Toledo,W,49,24,13,23,205,2,53,268,5,7,16,0,0,0,0
+2018-09-22,Miami (FL),ACC,H,Florida International,W,31,17,20,29,240,3,49,248,1,11,15,6,60,1,1
+2018-09-27,Miami (FL),ACC,H,North Carolina,W,47,10,8,12,125,1,34,229,2,4,10,7,65,1,1
+2018-10-06,Miami (FL),ACC,H,Florida State,W,28,27,13,32,204,4,46,102,0,8,9,6,50,1,0
+2018-10-13,Miami (FL),ACC,A,Virginia,L,13,16,15,29,190,0,29,149,1,9,6,8,71,0,3
+2018-10-26,Miami (FL),ACC,A,Boston College,L,14,27,19,39,150,1,36,155,1,8,10,6,28,0,2
+2018-11-03,Miami (FL),ACC,H,Duke,L,12,20,13,28,111,0,44,300,2,5,10,6,73,2,0
+2018-11-10,Miami (FL),ACC,A,Georgia Tech,L,21,27,14,23,165,0,30,134,3,6,7,7,49,3,0
+2018-11-17,Miami (FL),ACC,A,Virginia Tech,W,38,14,21,34,171,2,32,168,2,7,8,11,71,0,0
+2018-11-24,Miami (FL),ACC,H,Pitt,W,24,3,6,24,52,0,32,293,2,4,6,3,30,2,0
+2018-12-27,Miami (FL),ACC,N,Wisconsin,L,3,35,6,17,48,0,23,121,0,3,3,1,5,1,4
+2018-09-01,Appalachian State,Sun Belt,A,Penn State,L,38,45,26,39,292,2,37,159,2,13,8,9,100,0,1
+2018-09-08,Appalachian State,Sun Belt,A,Charlotte,W,45,9,15,15,295,3,35,139,1,9,7,5,55,2,0
+2018-09-29,Appalachian State,Sun Belt,H,South Alabama,W,52,7,10,20,169,3,46,348,4,8,15,4,45,0,2
+2018-10-09,Appalachian State,Sun Belt,A,Arkansas State,W,35,9,12,27,144,2,38,246,3,4,8,4,50,0,0
+2018-10-20,Appalachian State,Sun Belt,H,Louisiana,W,27,17,10,20,106,1,48,266,2,8,10,5,42,0,1
+2018-10-25,Appalachian State,Sun Belt,A,Georgia Southern,L,14,34,12,27,139,1,36,149,1,6,8,11,91,1,4
+2018-11-03,Appalachian State,Sun Belt,A,Coastal Carolina,W,23,7,9,19,127,1,56,278,2,6,14,6,40,0,2
+2018-11-10,Appalachian State,Sun Belt,A,Texas State,W,38,7,25,36,247,2,34,221,3,11,8,5,50,0,0
+2018-11-17,Appalachian State,Sun Belt,H,Georgia State,W,45,17,22,26,296,3,39,228,2,13,10,0,0,0,0
+2018-11-24,Appalachian State,Sun Belt,H,Troy,W,21,10,12,24,113,2,45,201,1,6,8,13,104,1,0
+2018-12-01,Appalachian State,Sun Belt,H,Louisiana,W,30,19,6,13,75,0,44,225,3,4,8,4,35,0,0
+2018-12-15,Appalachian State,Sun Belt,N,Middle Tennessee State,W,45,13,17,26,215,5,34,233,1,11,9,8,50,1,2
+2018-09-01,Oregon State,Pac-12,A,Ohio State,L,31,77,14,24,196,2,39,196,2,7,6,5,49,2,0
+2018-09-15,Oregon State,Pac-12,A,Nevada,L,35,37,35,56,459,2,40,81,3,17,9,7,60,1,2
+2018-09-22,Oregon State,Pac-12,H,Arizona,L,14,35,18,26,141,2,44,97,0,7,9,5,50,0,0
+2018-09-29,Oregon State,Pac-12,A,Arizona State,L,24,52,14,24,145,1,53,261,2,7,17,5,50,1,0
+2018-10-06,Oregon State,Pac-12,H,Washington State,L,37,56,18,26,221,0,50,276,5,10,11,11,104,1,0
+2018-10-20,Oregon State,Pac-12,H,California,L,7,49,17,33,146,0,41,95,1,7,8,5,43,0,2
+2018-10-27,Oregon State,Pac-12,A,Colorado,W,41,34,34,54,345,3,45,114,2,20,5,7,62,0,1
+2018-11-03,Oregon State,Pac-12,H,USC,L,21,38,31,46,301,1,32,31,2,17,5,4,28,0,0
+2018-11-10,Oregon State,Pac-12,A,Stanford,L,17,48,17,35,236,2,33,168,0,8,9,6,34,0,1
+2018-11-17,Oregon State,Pac-12,A,Washington,L,23,42,21,36,229,1,35,134,1,12,8,3,25,2,0
+2018-11-23,Oregon State,Pac-12,H,Oregon,L,15,55,21,39,282,2,28,54,0,13,5,0,0,1,3
+2018-09-01,Alabama,SEC,N,Louisville,W,51,14,17,26,297,2,42,222,3,12,8,10,111,1,0
+2018-09-08,Alabama,SEC,H,Arkansas State,W,57,7,20,29,321,6,44,278,1,11,13,4,35,1,0
+2018-09-15,Alabama,SEC,A,Ole Miss,W,62,7,19,28,306,4,44,210,3,14,10,8,60,1,1
+2018-09-22,Alabama,SEC,H,Texas A&M,W,45,23,25,33,415,4,28,109,2,16,6,9,82,0,0
+2018-09-29,Alabama,SEC,H,Louisiana,W,56,14,13,16,340,4,46,268,3,11,14,3,15,0,0
+2018-10-06,Alabama,SEC,A,Arkansas,W,65,31,14,18,393,4,41,246,4,13,11,5,31,0,0
+2018-10-13,Alabama,SEC,H,Missouri,W,39,10,19,30,380,3,45,184,1,12,11,5,60,1,0
+2018-10-20,Alabama,SEC,A,Tennessee,W,58,21,21,32,327,4,42,218,4,16,12,5,36,0,1
+2018-11-03,Alabama,SEC,A,LSU,W,29,0,25,42,295,2,37,281,2,15,14,6,60,0,1
+2018-11-10,Alabama,SEC,H,Mississippi State,W,24,0,17,27,163,1,45,142,2,9,12,0,0,1,1
+2018-11-24,Alabama,SEC,H,Auburn,W,52,21,26,33,377,6,26,123,1,14,6,8,82,0,0
+2018-12-01,Alabama,SEC,N,Georgia,W,35,28,17,34,246,2,29,157,3,10,9,3,10,0,2
+2018-12-29,Alabama,SEC,N,Oklahoma,W,45,34,25,28,328,4,42,200,2,16,12,9,86,0,0
+2019-01-07,Alabama,SEC,N,Clemson,L,16,44,22,36,295,2,37,148,0,11,12,6,60,0,2
+2018-09-01,Liberty,Ind,H,Old Dominion,W,52,10,26,37,353,4,38,238,3,14,9,6,58,1,0
+2018-09-08,Liberty,Ind,A,Army,L,14,38,19,37,307,2,23,110,0,14,5,6,27,2,1
+2018-09-22,Liberty,Ind,H,North Texas,L,7,47,16,40,222,1,42,122,0,11,9,5,45,0,1
+2018-09-29,Liberty,Ind,A,New Mexico,W,52,43,27,47,472,3,43,96,4,15,5,3,30,0,1
+2018-10-06,Liberty,Ind,A,New Mexico State,L,41,49,31,54,365,2,42,153,4,19,9,4,40,1,1
+2018-10-13,Liberty,Ind,H,Troy,W,22,16,17,32,238,2,45,103,1,13,4,3,45,0,1
+2018-11-03,Liberty,Ind,A,Massachusetts,L,59,62,16,35,272,2,51,216,5,13,16,7,45,0,4
+2018-11-10,Liberty,Ind,A,Virginia,L,24,45,15,27,149,0,44,205,3,10,10,3,30,0,3
+2018-11-17,Liberty,Ind,A,Auburn,L,0,53,9,28,79,0,28,55,0,6,1,1,5,2,2
+2018-11-24,Liberty,Ind,H,New Mexico State,W,28,21,18,31,154,2,47,141,0,9,7,6,63,0,2
+2018-08-30,Purdue,Big Ten,H,Northwestern,L,27,31,30,46,270,1,25,202,2,13,8,9,95,0,3
+2018-09-08,Purdue,Big Ten,H,Eastern Michigan,L,19,20,14,24,135,1,42,341,1,6,13,7,85,2,0
+2018-09-15,Purdue,Big Ten,H,Missouri,L,37,40,39,55,572,3,16,42,1,21,2,7,65,0,1
+2018-09-22,Purdue,Big Ten,H,Boston College,W,30,13,21,28,296,3,41,76,1,10,6,2,25,2,0
+2018-09-29,Purdue,Big Ten,A,Nebraska,W,42,28,25,42,328,1,37,188,4,11,10,10,75,0,0
+2018-10-13,Purdue,Big Ten,A,Illinois,W,46,7,26,37,384,4,44,227,2,14,11,5,45,0,1
+2018-10-20,Purdue,Big Ten,H,Ohio State,W,49,20,25,43,378,3,29,161,3,12,9,7,95,0,0
+2018-10-27,Purdue,Big Ten,A,Michigan State,L,13,23,29,49,277,0,13,62,1,13,2,4,30,0,3
+2018-11-03,Purdue,Big Ten,H,Iowa,W,38,36,23,32,333,4,31,101,1,9,10,6,60,0,2
+2018-11-10,Purdue,Big Ten,A,Minnesota,L,10,41,21,32,145,1,30,88,0,7,6,7,81,1,0
+2018-11-17,Purdue,Big Ten,H,Wisconsin,L,44,47,31,48,386,4,31,76,1,16,6,5,48,1,0
+2018-11-24,Purdue,Big Ten,A,Indiana,W,28,21,27,35,310,3,34,130,1,14,9,6,73,0,1
+2018-12-28,Purdue,Big Ten,N,Auburn,L,14,63,22,38,184,0,27,79,2,10,5,6,60,0,2
+2018-09-08,Nebraska,Big Ten,H,Colorado,L,28,33,19,29,236,1,54,329,3,9,13,11,95,2,1
+2018-09-15,Nebraska,Big Ten,H,Troy,L,19,24,19,27,177,2,48,187,0,7,12,10,77,1,2
+2018-09-22,Nebraska,Big Ten,A,Michigan,L,10,56,13,24,93,0,30,39,1,4,5,10,79,1,1
+2018-09-29,Nebraska,Big Ten,H,Purdue,L,28,42,25,42,323,2,39,259,2,16,14,11,136,0,1
+2018-10-06,Nebraska,Big Ten,A,Wisconsin,L,24,41,26,44,407,2,24,111,1,17,7,10,100,1,0
+2018-10-13,Nebraska,Big Ten,A,Northwestern,L,31,34,25,35,251,1,47,231,3,9,15,9,89,1,2
+2018-10-20,Nebraska,Big Ten,H,Minnesota,W,53,28,25,30,276,3,43,383,4,9,18,6,43,1,0
+2018-11-03,Nebraska,Big Ten,A,Ohio State,L,31,36,22,33,266,1,49,184,3,14,11,5,44,1,0
+2018-11-10,Nebraska,Big Ten,H,Illinois,W,54,35,24,34,290,3,34,316,4,12,9,7,72,1,1
+2018-11-17,Nebraska,Big Ten,H,Michigan State,W,9,6,16,37,145,0,30,103,0,8,5,5,45,2,0
+2018-11-23,Nebraska,Big Ten,A,Iowa,L,28,31,26,38,260,2,33,140,1,14,9,3,35,0,1
+2018-09-01,West Virginia,Big 12,N,Tennessee,W,40,14,25,34,429,5,27,118,0,18,6,4,35,1,0
+2018-09-22,West Virginia,Big 12,H,Kansas State,W,35,6,25,36,356,5,28,108,0,16,3,3,35,1,3
+2018-09-29,West Virginia,Big 12,A,Texas Tech,W,42,34,27,41,370,3,32,119,2,15,8,12,115,0,0
+2018-10-06,West Virginia,Big 12,H,Kansas,W,38,22,28,41,332,4,39,177,1,14,15,7,50,1,3
+2018-10-13,West Virginia,Big 12,A,Iowa State,L,14,30,11,15,100,1,27,52,0,2,7,9,103,0,1
+2018-10-25,West Virginia,Big 12,H,Baylor,W,58,14,21,31,396,4,33,172,3,13,5,6,64,0,0
+2018-11-03,West Virginia,Big 12,A,Texas,W,42,41,28,42,346,3,33,232,2,16,9,14,120,0,0
+2018-11-10,West Virginia,Big 12,H,Texas Christian,W,47,10,26,41,371,3,40,164,3,15,11,2,15,1,1
+2018-11-17,West Virginia,Big 12,A,Oklahoma State,L,41,45,27,48,364,2,43,189,3,17,7,5,24,1,0
+2018-11-23,West Virginia,Big 12,H,Oklahoma,L,56,59,32,49,539,4,41,165,4,20,10,5,60,2,0
+2018-12-28,West Virginia,Big 12,N,Syracuse,L,18,34,19,38,277,0,36,146,1,10,7,6,65,0,1
+2018-09-08,Oklahoma State,Big 12,H,South Alabama,W,55,13,26,42,453,2,44,164,4,21,7,9,112,1,2
+2018-09-15,Oklahoma State,Big 12,H,Boise State,W,44,21,16,27,246,1,38,176,3,9,10,4,25,0,0
+2018-09-22,Oklahoma State,Big 12,H,Texas Tech,L,17,41,18,38,258,1,24,128,1,12,6,8,73,1,1
+2018-09-29,Oklahoma State,Big 12,A,Kansas,W,48,28,15,20,312,4,46,256,2,10,14,8,92,0,1
+2018-10-06,Oklahoma State,Big 12,H,Iowa State,L,42,48,19,33,289,4,43,126,2,13,8,9,87,1,1
+2018-10-13,Oklahoma State,Big 12,A,Kansas State,L,12,31,17,35,184,0,28,127,1,8,6,7,70,0,2
+2018-10-27,Oklahoma State,Big 12,H,Texas,W,38,35,23,34,321,3,51,181,2,14,10,4,52,0,0
+2018-11-03,Oklahoma State,Big 12,A,Baylor,L,31,35,25,42,301,1,47,212,3,16,13,12,133,1,0
+2018-11-10,Oklahoma State,Big 12,A,Oklahoma,L,47,48,34,53,501,3,33,139,4,27,9,5,31,1,0
+2018-11-17,Oklahoma State,Big 12,H,West Virginia,W,45,41,30,46,338,5,43,266,1,15,19,3,35,2,2
+2018-11-24,Oklahoma State,Big 12,A,Texas Christian,L,24,31,17,40,181,0,32,99,3,9,5,6,76,1,1
+2018-12-31,Oklahoma State,Big 12,N,Missouri,W,38,33,27,45,333,4,35,169,1,15,10,7,76,0,2
+2018-08-31,Colorado,Pac-12,N,Colorado State,W,45,13,22,25,338,4,40,258,2,11,12,6,44,1,1
+2018-09-08,Colorado,Pac-12,A,Nebraska,W,33,28,33,50,351,3,35,44,1,16,7,8,46,0,0
+2018-09-28,Colorado,Pac-12,H,UCLA,W,38,16,23,27,268,1,48,209,4,12,11,6,60,0,0
+2018-10-06,Colorado,Pac-12,H,Arizona State,W,28,21,24,33,328,2,45,166,2,12,12,6,60,0,0
+2018-10-13,Colorado,Pac-12,A,USC,L,20,31,26,47,170,0,37,95,3,7,6,8,81,0,1
+2018-10-20,Colorado,Pac-12,A,Washington,L,13,27,17,28,144,1,35,119,0,8,6,4,48,0,1
+2018-10-27,Colorado,Pac-12,H,Oregon State,L,34,41,24,39,319,2,36,217,1,13,8,7,70,0,0
+2018-11-02,Colorado,Pac-12,A,Arizona,L,34,42,27,43,343,3,32,40,1,18,3,5,52,1,1
+2018-11-10,Colorado,Pac-12,H,Washington State,L,7,31,21,38,222,0,16,75,1,10,2,4,51,2,1
+2018-11-17,Colorado,Pac-12,H,Utah,L,7,30,21,33,162,0,34,34,1,8,3,4,38,1,2
+2018-11-24,Colorado,Pac-12,A,California,L,21,33,16,33,170,2,43,148,1,9,9,7,54,2,3
+2018-09-01,Rice,CUSA,H,Houston,L,27,45,24,41,292,3,43,147,0,14,5,6,57,0,1
+2018-09-08,Rice,CUSA,A,Hawaii,L,29,43,20,33,299,2,39,147,1,11,8,5,54,1,1
+2018-09-22,Rice,CUSA,A,Southern Mississippi,L,22,40,13,26,125,2,29,137,1,7,5,3,30,0,2
+2018-09-29,Rice,CUSA,A,Wake Forest,L,24,56,17,32,103,2,44,267,1,9,9,6,55,1,2
+2018-10-06,Rice,CUSA,H,UTSA,L,3,20,16,30,175,0,37,47,0,8,2,4,20,2,2
+2018-10-13,Rice,CUSA,H,UAB,L,0,42,13,28,136,0,37,50,0,7,1,5,42,1,0
+2018-10-20,Rice,CUSA,A,Florida International,L,17,36,12,21,115,0,29,125,2,6,10,0,0,0,3
+2018-10-27,Rice,CUSA,A,North Texas,L,17,41,21,37,204,1,37,95,1,12,6,8,99,1,0
+2018-11-03,Rice,CUSA,H,UTEP,L,26,34,17,32,313,2,28,70,1,10,4,7,45,1,2
+2018-11-10,Rice,CUSA,A,Louisiana Tech,L,13,28,19,35,226,1,29,100,0,8,7,1,3,0,3
+2018-11-17,Rice,CUSA,A,LSU,L,10,42,7,15,101,0,43,97,1,6,8,3,22,0,0
+2018-11-24,Rice,CUSA,H,Old Dominion,W,27,13,6,14,96,0,45,275,4,4,10,3,32,0,0
+2018-09-08,Texas A&M,SEC,H,Clemson,L,26,28,23,40,430,3,32,71,0,18,4,5,32,2,0
+2018-09-15,Texas A&M,SEC,H,Louisiana-Monroe,W,48,10,19,27,249,1,45,281,4,12,18,5,55,0,0
+2018-09-22,Texas A&M,SEC,A,Alabama,L,23,45,23,44,263,1,28,130,1,15,5,4,50,0,2
+2018-09-29,Texas A&M,SEC,N,Arkansas,W,24,17,17,26,201,0,46,176,2,10,11,7,44,0,2
+2018-10-06,Texas A&M,SEC,H,Kentucky,W,20,14,18,30,226,2,45,164,1,9,10,6,25,1,1
+2018-10-13,Texas A&M,SEC,A,South Carolina,W,26,23,25,37,353,1,40,105,1,15,9,12,117,0,0
+2018-10-27,Texas A&M,SEC,A,Mississippi State,L,13,28,23,46,232,1,22,61,0,10,4,7,40,0,1
+2018-11-03,Texas A&M,SEC,A,Auburn,L,24,28,16,32,220,1,47,201,2,11,13,7,31,1,1
+2018-11-10,Texas A&M,SEC,H,Ole Miss,W,38,24,19,28,236,3,46,268,2,13,12,7,59,1,1
+2018-11-17,Texas A&M,SEC,H,UAB,W,41,20,11,20,192,2,34,252,2,9,11,1,15,1,0
+2018-11-24,Texas A&M,SEC,H,LSU,W,74,72,23,51,287,6,56,234,3,14,16,3,24,1,0
+2018-12-31,Texas A&M,SEC,N,North Carolina State,W,52,13,14,26,140,1,34,401,5,4,14,8,75,0,1
+2018-08-25,New Mexico State,Ind,H,Wyoming,L,7,29,18,33,144,1,16,-9,0,5,2,12,57,0,0
+2018-08-30,New Mexico State,Ind,A,Minnesota,L,10,48,29,58,233,1,20,38,0,10,4,5,50,0,1
+2018-09-08,New Mexico State,Ind,A,Utah State,L,13,60,20,37,171,1,45,109,0,8,11,6,66,2,3
+2018-09-15,New Mexico State,Ind,H,New Mexico,L,25,42,22,40,249,1,36,119,1,10,6,15,114,0,5
+2018-09-22,New Mexico State,Ind,A,UTEP,W,27,20,9,18,156,1,34,155,0,5,6,8,65,1,0
+2018-10-06,New Mexico State,Ind,H,Liberty,W,49,41,34,51,402,4,28,173,3,18,6,8,77,0,0
+2018-10-13,New Mexico State,Ind,A,Louisiana,L,38,66,25,44,284,1,25,122,3,15,7,2,30,1,1
+2018-10-20,New Mexico State,Ind,H,Georgia Southern,L,31,48,25,38,295,0,35,148,4,12,10,5,38,2,1
+2018-10-27,New Mexico State,Ind,A,Texas State,L,20,27,29,59,275,0,33,153,1,14,5,6,63,0,2
+2018-11-17,New Mexico State,Ind,A,Brigham Young,L,10,45,25,61,264,1,26,48,0,12,7,5,39,1,2
+2018-11-24,New Mexico State,Ind,A,Liberty,L,21,28,29,54,313,1,27,83,0,16,4,2,20,1,1
+2018-09-01,Louisiana Tech,CUSA,A,South Alabama,W,30,26,19,29,209,2,48,231,2,8,11,6,55,0,3
+2018-09-22,Louisiana Tech,CUSA,A,LSU,L,21,38,27,50,330,3,26,87,0,14,5,6,48,1,1
+2018-09-29,Louisiana Tech,CUSA,A,North Texas,W,29,27,20,39,230,2,32,129,0,10,6,1,10,0,0
+2018-10-06,Louisiana Tech,CUSA,H,UAB,L,7,28,9,23,107,0,41,151,1,5,9,2,17,2,1
+2018-10-13,Louisiana Tech,CUSA,A,UTSA,W,31,3,25,37,309,1,38,75,3,14,6,4,40,1,1
+2018-10-20,Louisiana Tech,CUSA,H,UTEP,W,31,24,17,29,156,1,31,169,2,8,8,6,55,0,0
+2018-10-26,Louisiana Tech,CUSA,A,Florida Atlantic,W,21,13,17,35,217,1,40,113,2,11,7,4,44,0,0
+2018-11-03,Louisiana Tech,CUSA,A,Mississippi State,L,3,45,14,31,98,0,32,140,0,5,10,5,35,0,1
+2018-11-10,Louisiana Tech,CUSA,H,Rice,W,28,13,21,34,314,1,33,110,3,10,10,5,37,1,2
+2018-11-17,Louisiana Tech,CUSA,A,Southern Mississippi,L,20,21,27,43,243,1,23,68,1,13,4,3,45,0,0
+2018-11-24,Louisiana Tech,CUSA,H,Western Kentucky,L,15,30,28,53,319,0,23,61,1,16,5,5,67,0,1
+2018-12-22,Louisiana Tech,CUSA,N,Hawaii,W,31,14,19,31,285,1,38,168,3,11,8,9,99,2,1
+2018-08-30,Minnesota,Big Ten,H,New Mexico State,W,48,10,17,34,227,2,46,300,3,9,14,9,92,1,0
+2018-09-08,Minnesota,Big Ten,H,Fresno State,W,21,14,16,26,175,0,45,132,2,12,7,3,30,1,0
+2018-09-15,Minnesota,Big Ten,H,Miami (OH),W,26,3,14,26,177,3,44,118,0,8,12,5,52,1,1
+2018-09-22,Minnesota,Big Ten,A,Maryland,L,13,42,14,32,169,1,40,94,0,9,8,1,15,1,2
+2018-10-06,Minnesota,Big Ten,H,Iowa,L,31,48,18,36,234,3,31,86,1,9,8,2,10,0,4
+2018-10-13,Minnesota,Big Ten,A,Ohio State,L,14,30,13,23,218,0,33,178,2,10,7,4,60,1,2
+2018-10-20,Minnesota,Big Ten,A,Nebraska,L,28,53,20,36,349,1,36,125,3,16,5,8,80,0,1
+2018-10-26,Minnesota,Big Ten,H,Indiana,W,38,31,17,24,302,3,40,180,2,12,8,3,20,3,1
+2018-11-03,Minnesota,Big Ten,A,Illinois,L,31,55,15,28,260,2,42,178,2,7,10,2,15,2,0
+2018-11-10,Minnesota,Big Ten,H,Purdue,W,41,10,11,20,150,2,41,265,2,6,11,5,50,0,1
+2018-11-17,Minnesota,Big Ten,H,Northwestern,L,14,24,19,32,197,1,35,109,1,9,7,3,34,1,2
+2018-11-24,Minnesota,Big Ten,A,Wisconsin,W,37,15,9,16,124,0,47,201,3,7,11,2,20,0,0
+2018-12-26,Minnesota,Big Ten,N,Georgia Tech,W,34,10,7,13,132,2,43,260,2,5,13,4,30,0,0
+2018-09-08,Georgia Southern,Sun Belt,H,Massachusetts,W,34,13,6,9,154,2,55,341,2,5,18,3,35,1,0
+2018-09-15,Georgia Southern,Sun Belt,A,Clemson,L,7,38,3,9,60,0,43,80,1,3,3,4,20,1,0
+2018-09-29,Georgia Southern,Sun Belt,H,Arkansas State,W,28,21,1,3,61,1,49,348,3,1,14,8,70,0,0
+2018-10-06,Georgia Southern,Sun Belt,H,South Alabama,W,48,13,5,8,99,1,43,295,4,3,13,9,83,0,0
+2018-10-11,Georgia Southern,Sun Belt,A,Texas State,W,15,13,7,12,51,0,52,164,1,3,8,5,49,1,0
+2018-10-20,Georgia Southern,Sun Belt,A,New Mexico State,W,48,31,4,4,77,0,61,389,6,3,23,4,36,0,0
+2018-10-25,Georgia Southern,Sun Belt,H,Appalachian State,W,34,14,1,3,57,1,49,278,3,1,11,2,11,0,0
+2018-11-03,Georgia Southern,Sun Belt,A,Louisiana-Monroe,L,25,44,8,15,78,1,46,138,0,5,10,6,52,1,0
+2018-11-10,Georgia Southern,Sun Belt,H,Troy,L,21,35,14,23,190,2,34,101,1,6,6,4,47,0,0
+2018-11-17,Georgia Southern,Sun Belt,A,Coastal Carolina,W,41,17,4,6,33,0,54,409,5,2,17,2,17,1,0
+2018-11-24,Georgia Southern,Sun Belt,A,Georgia State,W,35,14,8,11,105,2,41,276,2,3,13,8,70,0,0
+2018-12-15,Georgia Southern,Sun Belt,N,Eastern Michigan,W,23,21,4,7,33,0,58,331,2,2,16,4,25,0,0
+2018-09-01,Middle Tennessee State,CUSA,A,Vanderbilt,L,7,35,24,36,178,1,36,116,0,8,10,6,40,1,1
+2018-09-15,Middle Tennessee State,CUSA,A,Georgia,L,7,49,20,30,130,1,38,158,0,4,10,3,35,1,1
+2018-09-29,Middle Tennessee State,CUSA,H,Florida Atlantic,W,25,24,27,40,259,1,36,137,2,14,8,3,29,1,1
+2018-10-05,Middle Tennessee State,CUSA,A,Marshall,W,34,24,25,40,317,2,35,103,2,13,8,11,127,1,0
+2018-10-13,Middle Tennessee State,CUSA,A,Florida International,L,21,24,15,27,142,0,40,187,3,8,11,5,52,0,1
+2018-10-20,Middle Tennessee State,CUSA,H,Charlotte,W,21,13,14,20,111,3,32,33,0,6,3,2,20,1,1
+2018-10-27,Middle Tennessee State,CUSA,A,Old Dominion,W,51,17,25,33,280,2,38,208,3,12,9,5,38,0,1
+2018-11-02,Middle Tennessee State,CUSA,H,Western Kentucky,W,29,10,24,42,228,2,43,256,0,12,13,3,34,0,0
+2018-11-10,Middle Tennessee State,CUSA,A,UTEP,W,48,32,31,40,352,4,36,139,2,13,8,6,63,2,0
+2018-11-17,Middle Tennessee State,CUSA,A,Kentucky,L,23,34,30,33,293,3,38,99,0,14,8,6,57,1,1
+2018-11-24,Middle Tennessee State,CUSA,H,UAB,W,27,3,22,29,261,2,35,133,1,10,7,4,45,0,0
+2018-12-01,Middle Tennessee State,CUSA,H,UAB,L,25,27,29,45,362,2,24,94,0,13,4,3,15,0,2
+2018-12-15,Middle Tennessee State,CUSA,N,Appalachian State,L,13,45,25,37,330,1,35,62,0,16,7,12,89,0,2
+2018-09-01,Northern Illinois,MAC,A,Iowa,L,7,33,15,26,110,1,36,101,0,6,8,7,65,1,1
+2018-09-08,Northern Illinois,MAC,H,Utah,L,6,17,18,33,111,0,43,117,0,6,8,4,43,1,1
+2018-09-15,Northern Illinois,MAC,H,Central Michigan,W,24,16,12,20,104,3,48,180,0,5,8,4,44,0,1
+2018-09-22,Northern Illinois,MAC,A,Florida State,L,19,37,20,41,215,2,20,6,1,9,3,3,15,0,0
+2018-09-29,Northern Illinois,MAC,A,Eastern Michigan,W,26,23,20,35,121,1,62,235,2,5,17,8,68,1,2
+2018-10-06,Northern Illinois,MAC,A,Ball State,W,24,16,18,29,143,1,43,227,2,10,13,6,38,0,1
+2018-10-13,Northern Illinois,MAC,H,Ohio,W,24,21,17,33,145,0,46,255,3,10,13,12,109,0,0
+2018-10-27,Northern Illinois,MAC,A,Brigham Young,W,7,6,10,21,115,0,36,89,1,5,4,10,80,0,0
+2018-11-01,Northern Illinois,MAC,A,Akron,W,36,26,21,28,188,1,61,296,2,12,20,7,85,1,0
+2018-11-07,Northern Illinois,MAC,H,Toledo,W,38,15,13,19,131,1,44,296,3,7,13,5,58,1,1
+2018-11-14,Northern Illinois,MAC,H,Miami (OH),L,7,13,15,33,157,0,37,212,1,6,8,9,90,1,1
+2018-11-20,Northern Illinois,MAC,A,Western Michigan,L,21,28,14,21,156,1,43,106,1,8,8,5,45,1,2
+2018-11-30,Northern Illinois,MAC,N,Buffalo,W,30,29,21,33,300,4,34,109,0,14,9,7,91,0,1
+2018-12-18,Northern Illinois,MAC,N,UAB,L,13,37,22,29,179,0,44,108,1,8,8,4,25,2,0
+2018-09-01,Ohio State,Big Ten,H,Oregon State,W,77,31,25,34,346,5,52,377,5,14,18,6,50,1,1
+2018-09-08,Ohio State,Big Ten,H,Rutgers,W,52,3,30,33,354,5,40,225,2,15,12,11,120,0,0
+2018-09-15,Ohio State,Big Ten,N,Texas Christian,W,40,28,24,38,344,2,42,182,1,14,13,5,39,0,0
+2018-09-22,Ohio State,Big Ten,H,Tulane,W,49,6,31,38,419,5,38,151,2,22,8,10,89,0,0
+2018-09-29,Ohio State,Big Ten,A,Penn State,W,27,26,22,39,270,3,37,119,1,11,8,10,105,0,1
+2018-10-06,Ohio State,Big Ten,H,Indiana,W,49,26,33,44,455,6,48,154,1,19,13,9,82,1,2
+2018-10-13,Ohio State,Big Ten,H,Minnesota,W,30,14,33,44,412,3,32,92,0,20,6,5,36,0,0
+2018-10-20,Ohio State,Big Ten,A,Purdue,L,20,49,49,73,470,2,25,76,0,24,4,10,86,0,1
+2018-11-03,Ohio State,Big Ten,H,Nebraska,W,36,31,18,32,252,2,40,229,3,10,11,6,46,2,1
+2018-11-10,Ohio State,Big Ten,A,Michigan State,W,26,6,24,39,227,1,45,120,1,12,8,4,30,1,0
+2018-11-17,Ohio State,Big Ten,A,Maryland,W,52,51,28,38,405,3,56,283,4,17,12,10,79,2,1
+2018-11-24,Ohio State,Big Ten,H,Michigan,W,62,39,19,30,318,5,37,249,2,14,10,12,150,1,0
+2018-12-01,Ohio State,Big Ten,N,Northwestern,W,45,24,34,41,499,5,46,108,1,25,6,9,90,1,1
+2019-01-01,Ohio State,Big Ten,N,Washington,W,28,23,25,37,251,3,32,113,1,14,7,9,53,0,0
+2018-09-15,Ohio,MAC,N,Virginia,L,31,45,16,31,246,2,30,118,2,9,4,5,35,2,0
+2018-09-22,Ohio,MAC,A,Cincinnati,L,30,34,12,27,178,1,45,234,2,7,10,8,85,1,1
+2018-09-29,Ohio,MAC,H,Massachusetts,W,58,42,23,32,270,3,44,394,4,15,16,4,45,0,1
+2018-10-06,Ohio,MAC,A,Kent State,W,27,26,18,20,284,1,38,130,3,13,8,6,61,3,1
+2018-10-13,Ohio,MAC,A,Northern Illinois,L,21,24,15,23,275,2,32,46,1,9,3,6,59,2,1
+2018-10-20,Ohio,MAC,H,Bowling Green State,W,49,14,9,13,205,4,50,392,3,8,24,4,29,1,0
+2018-10-25,Ohio,MAC,H,Ball State,W,52,14,12,22,143,1,57,411,6,7,21,3,20,0,1
+2018-11-01,Ohio,MAC,A,Western Michigan,W,59,14,13,19,164,3,41,256,4,10,13,8,75,0,0
+2018-11-07,Ohio,MAC,A,Miami (OH),L,28,30,16,28,163,2,32,201,1,8,7,3,43,1,0
+2018-11-14,Ohio,MAC,H,Buffalo,W,52,17,17,27,209,3,56,437,4,8,23,4,55,0,1
+2018-11-23,Ohio,MAC,H,Akron,W,49,28,5,14,87,0,51,381,6,4,20,8,95,0,1
+2018-12-19,Ohio,MAC,N,San Diego State,W,27,0,10,22,206,1,40,215,2,10,10,0,0,1,1
+2018-09-01,North Carolina,ACC,A,California,L,17,24,15,35,137,1,38,164,1,5,10,13,124,0,4
+2018-09-08,North Carolina,ACC,A,East Carolina,L,19,41,25,44,234,0,25,161,1,9,8,7,65,0,0
+2018-09-22,North Carolina,ACC,H,Pitt,W,38,35,22,31,313,2,40,173,3,13,9,5,45,1,0
+2018-09-27,North Carolina,ACC,A,Miami (FL),L,10,47,20,35,114,0,40,215,1,8,14,4,40,3,3
+2018-10-13,North Carolina,ACC,H,Virginia Tech,L,19,22,22,35,287,1,38,235,0,12,6,7,35,2,0
+2018-10-20,North Carolina,ACC,A,Syracuse,L,37,40,34,54,321,2,41,179,1,14,10,5,34,1,1
+2018-10-27,North Carolina,ACC,A,Virginia,L,21,31,22,38,271,2,22,66,1,11,3,4,19,1,0
+2018-11-03,North Carolina,ACC,H,Georgia Tech,L,28,38,18,31,208,1,36,166,1,10,9,1,10,0,3
+2018-11-10,North Carolina,ACC,A,Duke,L,35,42,27,43,221,1,37,315,4,11,14,10,115,0,0
+2018-11-24,North Carolina,ACC,H,North Carolina State,L,28,34,19,40,276,1,35,153,2,10,8,3,40,0,1
+2018-09-01,Miami (OH),MAC,H,Marshall,L,28,35,25,46,357,3,27,87,1,16,5,8,71,0,0
+2018-09-08,Miami (OH),MAC,H,Cincinnati,L,0,21,22,41,139,0,19,59,0,9,1,4,45,0,1
+2018-09-15,Miami (OH),MAC,A,Minnesota,L,3,26,11,23,108,0,31,91,0,5,3,6,55,2,1
+2018-09-22,Miami (OH),MAC,A,Bowling Green State,W,38,23,10,15,119,2,52,289,3,6,10,8,85,0,0
+2018-09-29,Miami (OH),MAC,H,Western Michigan,L,39,40,22,32,294,3,27,55,1,11,6,8,45,0,0
+2018-10-06,Miami (OH),MAC,A,Akron,W,41,17,24,33,214,1,38,208,3,10,9,6,60,1,1
+2018-10-13,Miami (OH),MAC,H,Kent State,W,31,6,16,25,209,1,51,295,3,9,13,6,40,1,0
+2018-10-20,Miami (OH),MAC,A,Army,L,30,31,30,53,329,4,27,77,0,17,6,8,56,0,0
+2018-10-30,Miami (OH),MAC,A,Buffalo,L,42,51,20,35,313,1,41,140,5,12,9,13,139,1,0
+2018-11-07,Miami (OH),MAC,H,Ohio,W,30,28,20,32,199,1,34,160,3,11,8,6,45,0,0
+2018-11-14,Miami (OH),MAC,A,Northern Illinois,W,13,7,15,24,107,0,41,94,0,9,4,2,15,0,0
+2018-11-20,Miami (OH),MAC,H,Ball State,W,42,21,11,17,159,1,53,364,5,8,12,3,40,0,1
+2018-09-01,UTSA,CUSA,A,Arizona State,L,7,49,19,43,218,0,33,3,1,11,5,5,29,2,1
+2018-09-08,UTSA,CUSA,H,Baylor,L,20,37,18,33,157,1,26,98,1,11,5,6,30,0,1
+2018-09-15,UTSA,CUSA,A,Kansas State,L,17,41,19,34,157,2,39,143,0,8,8,7,41,1,0
+2018-09-22,UTSA,CUSA,H,Texas State,W,25,21,19,35,127,1,41,145,0,8,7,5,50,1,0
+2018-09-29,UTSA,CUSA,H,UTEP,W,30,21,20,35,187,2,24,91,1,10,5,4,45,1,0
+2018-10-06,UTSA,CUSA,A,Rice,W,20,3,8,22,43,0,38,135,2,3,8,7,55,0,0
+2018-10-13,UTSA,CUSA,H,Louisiana Tech,L,3,31,19,40,201,0,23,85,0,9,6,4,47,1,1
+2018-10-20,UTSA,CUSA,A,Southern Mississippi,L,17,27,12,28,117,1,26,57,0,5,4,2,15,0,0
+2018-11-03,UTSA,CUSA,A,UAB,L,3,52,15,35,136,0,26,84,0,6,7,2,20,1,1
+2018-11-10,UTSA,CUSA,H,Florida International,L,7,45,18,32,143,1,26,102,0,6,6,4,23,0,4
+2018-11-17,UTSA,CUSA,A,Marshall,L,0,23,17,34,163,0,21,-26,0,9,0,10,73,1,1
+2018-11-24,UTSA,CUSA,H,North Texas,L,21,24,20,33,269,1,30,131,2,11,9,9,71,0,1
+2018-09-08,Utah,Pac-12,A,Northern Illinois,W,17,6,20,31,286,0,39,68,1,13,4,6,60,2,0
+2018-09-15,Utah,Pac-12,H,Washington,L,7,21,20,39,138,0,29,123,1,6,7,6,55,2,1
+2018-09-29,Utah,Pac-12,A,Washington State,L,24,28,12,21,118,0,50,204,3,4,11,9,76,0,0
+2018-10-06,Utah,Pac-12,A,Stanford,W,40,21,17,21,199,1,43,222,2,8,12,7,65,0,0
+2018-10-12,Utah,Pac-12,H,Arizona,W,42,10,16,22,265,3,46,230,3,8,12,9,94,0,1
+2018-10-20,Utah,Pac-12,H,USC,W,41,28,22,30,341,4,51,200,1,12,15,7,69,2,0
+2018-10-26,Utah,Pac-12,A,UCLA,W,41,10,14,22,145,1,50,325,4,9,17,5,45,0,1
+2018-11-03,Utah,Pac-12,A,Arizona State,L,20,38,11,26,147,1,32,178,1,6,9,3,28,0,3
+2018-11-10,Utah,Pac-12,H,Oregon,W,32,25,18,31,262,0,46,244,2,12,10,3,25,0,0
+2018-11-17,Utah,Pac-12,A,Colorado,W,30,7,11,23,221,2,47,169,1,8,11,5,64,0,0
+2018-11-24,Utah,Pac-12,H,Brigham Young,W,35,27,19,28,141,1,37,155,3,6,11,1,10,1,0
+2018-11-30,Utah,Pac-12,N,Washington,L,3,10,17,27,137,0,25,51,0,9,2,2,10,0,3
+2018-12-31,Utah,Pac-12,N,Northwestern,L,20,31,27,45,302,2,32,91,0,14,5,4,35,4,2
+2018-09-01,Arizona,Pac-12,H,Brigham Young,L,23,28,17,34,197,1,35,129,2,11,7,4,26,0,0
+2018-09-08,Arizona,Pac-12,A,Houston,L,18,45,28,50,381,0,50,150,2,19,9,8,85,0,2
+2018-09-22,Arizona,Pac-12,A,Oregon State,W,35,14,9,17,152,2,51,442,3,8,21,7,55,1,0
+2018-09-29,Arizona,Pac-12,H,USC,L,20,24,16,33,232,2,37,98,1,10,4,8,80,0,1
+2018-10-06,Arizona,Pac-12,H,California,W,24,17,15,25,141,1,34,124,0,5,7,10,72,1,1
+2018-10-12,Arizona,Pac-12,A,Utah,L,10,42,24,46,246,1,31,72,0,10,4,5,56,0,0
+2018-10-20,Arizona,Pac-12,A,UCLA,L,30,31,15,34,231,2,38,289,1,11,7,6,64,1,2
+2018-10-27,Arizona,Pac-12,H,Oregon,W,44,15,19,33,189,3,51,276,2,10,13,11,106,0,1
+2018-11-02,Arizona,Pac-12,H,Colorado,W,42,34,17,22,350,5,47,216,0,12,12,12,129,1,1
+2018-11-17,Arizona,Pac-12,A,Washington State,L,28,69,20,34,304,4,37,127,0,12,7,7,75,3,1
+2018-11-24,Arizona,Pac-12,H,Arizona State,L,40,41,21,39,282,3,44,238,1,11,12,7,62,1,1
+2018-08-31,Western Kentucky,CUSA,A,Wisconsin,L,3,34,17,30,181,0,34,124,0,8,6,6,65,1,1
+2018-09-15,Western Kentucky,CUSA,A,Louisville,L,17,20,25,38,260,1,43,168,1,14,11,8,69,0,1
+2018-09-22,Western Kentucky,CUSA,A,Ball State,W,28,20,25,35,252,2,40,192,2,12,14,11,102,0,0
+2018-09-29,Western Kentucky,CUSA,H,Marshall,L,17,20,24,39,263,1,32,61,1,10,4,6,43,2,1
+2018-10-13,Western Kentucky,CUSA,A,Charlotte,L,14,40,27,39,214,1,17,42,1,11,4,7,55,1,2
+2018-10-20,Western Kentucky,CUSA,H,Old Dominion,L,34,37,24,32,257,2,45,207,2,14,11,10,83,0,0
+2018-10-27,Western Kentucky,CUSA,H,Florida International,L,17,38,18,34,144,0,38,168,2,7,12,4,34,0,1
+2018-11-02,Western Kentucky,CUSA,A,Middle Tennessee State,L,10,29,16,47,270,1,25,109,0,10,6,7,80,1,1
+2018-11-10,Western Kentucky,CUSA,A,Florida Atlantic,L,15,34,25,42,228,1,34,123,1,15,4,2,10,0,1
+2018-11-17,Western Kentucky,CUSA,H,UTEP,W,40,16,19,31,214,2,50,208,2,9,12,7,62,0,1
+2018-11-24,Western Kentucky,CUSA,A,Louisiana Tech,W,30,15,11,23,92,1,51,196,3,4,12,6,50,0,1
+2018-09-01,Vanderbilt,SEC,H,Middle Tennessee State,W,35,7,10,17,170,2,37,177,2,8,10,7,49,0,0
+2018-09-08,Vanderbilt,SEC,H,Nevada,W,41,10,24,34,270,2,39,198,3,13,9,6,44,2,0
+2018-09-15,Vanderbilt,SEC,A,Notre Dame,L,17,22,26,43,326,1,27,94,1,14,5,5,60,2,1
+2018-09-22,Vanderbilt,SEC,H,South Carolina,L,14,37,19,40,192,1,33,92,1,11,9,4,21,1,1
+2018-10-06,Vanderbilt,SEC,A,Georgia,L,13,41,16,30,183,0,29,138,1,9,6,9,69,0,0
+2018-10-13,Vanderbilt,SEC,H,Florida,L,27,37,18,36,229,2,22,107,1,9,3,5,28,0,1
+2018-10-20,Vanderbilt,SEC,A,Kentucky,L,7,14,15,23,216,1,31,68,0,7,4,5,25,2,0
+2018-10-27,Vanderbilt,SEC,A,Arkansas,W,45,31,13,19,192,2,49,250,4,8,15,7,60,0,0
+2018-11-10,Vanderbilt,SEC,A,Missouri,L,28,33,24,36,249,3,29,216,1,10,9,5,45,0,0
+2018-11-17,Vanderbilt,SEC,H,Ole Miss,W,36,29,22,35,191,3,36,196,1,8,10,10,83,0,1
+2018-11-24,Vanderbilt,SEC,H,Tennessee,W,38,13,31,35,367,3,43,100,2,18,9,3,43,0,0
+2018-12-27,Vanderbilt,SEC,N,Baylor,L,38,45,18,38,286,1,24,287,4,9,11,4,26,1,0
+2018-09-01,Kentucky,SEC,H,Central Michigan,W,35,20,15,27,128,1,43,299,4,8,15,3,40,2,2
+2018-09-08,Kentucky,SEC,A,Florida,W,27,16,11,16,151,2,41,303,1,5,15,12,114,1,1
+2018-09-22,Kentucky,SEC,H,Mississippi State,W,28,7,8,14,71,0,47,229,4,3,11,5,42,0,1
+2018-09-29,Kentucky,SEC,H,South Carolina,W,24,10,13,20,132,0,44,221,3,7,12,11,115,0,1
+2018-10-06,Kentucky,SEC,A,Texas A&M,L,14,20,13,20,108,1,30,70,0,3,5,8,52,0,0
+2018-10-20,Kentucky,SEC,H,Vanderbilt,W,14,7,3,9,18,1,53,280,1,2,15,4,35,2,0
+2018-10-27,Kentucky,SEC,A,Missouri,W,15,14,25,39,294,1,35,91,0,13,5,5,31,0,1
+2018-11-03,Kentucky,SEC,H,Georgia,L,17,34,23,29,226,1,35,84,1,11,8,6,64,2,0
+2018-11-10,Kentucky,SEC,A,Tennessee,L,7,24,23,38,185,1,34,85,0,10,8,3,20,1,2
+2018-11-17,Kentucky,SEC,H,Middle Tennessee State,W,34,23,10,14,121,1,40,203,2,5,10,6,51,0,0
+2018-11-24,Kentucky,SEC,A,Louisville,W,56,10,17,24,261,3,46,340,5,11,13,6,63,0,2
+2019-01-01,Kentucky,SEC,N,Penn State,W,27,24,9,15,121,0,42,176,2,5,9,3,27,0,0
+2018-09-08,Florida,SEC,H,Kentucky,L,16,27,17,38,232,2,29,128,0,14,5,6,55,1,1
+2018-09-15,Florida,SEC,H,Colorado State,W,48,10,8,15,119,2,29,222,2,3,10,8,75,0,1
+2018-09-22,Florida,SEC,A,Tennessee,W,47,21,10,19,186,3,34,201,3,6,7,10,79,1,0
+2018-09-29,Florida,SEC,A,Mississippi State,W,13,6,23,32,239,1,34,118,0,13,7,11,90,0,1
+2018-10-06,Florida,SEC,H,LSU,W,27,19,13,28,176,1,43,215,2,6,11,11,115,0,1
+2018-10-13,Florida,SEC,A,Vanderbilt,W,37,27,19,29,284,2,63,292,2,13,18,7,89,2,1
+2018-10-27,Florida,SEC,N,Georgia,L,17,36,13,21,105,1,37,170,1,5,9,7,27,2,1
+2018-11-03,Florida,SEC,H,Missouri,L,17,38,19,40,210,1,28,113,1,8,7,8,66,0,0
+2018-11-10,Florida,SEC,H,South Carolina,W,35,31,15,21,161,1,62,367,4,11,22,7,55,1,0
+2018-11-24,Florida,SEC,A,Florida State,W,41,14,16,27,254,3,52,282,2,11,11,7,49,0,0
+2018-12-29,Florida,SEC,N,Michigan,W,41,15,14,24,170,1,39,258,3,5,10,5,40,0,0
+2018-09-01,Troy,Sun Belt,H,Boise State,L,20,56,24,34,255,1,44,124,2,13,7,3,25,3,1
+2018-09-15,Troy,Sun Belt,A,Nebraska,W,24,19,14,21,110,0,34,143,2,4,5,10,95,1,1
+2018-09-22,Troy,Sun Belt,A,Louisiana-Monroe,W,35,27,27,32,329,3,35,140,2,15,10,5,32,0,0
+2018-09-29,Troy,Sun Belt,H,Coastal Carolina,W,45,21,14,19,185,2,31,282,3,7,9,6,45,1,1
+2018-10-04,Troy,Sun Belt,H,Georgia State,W,37,20,19,25,217,3,37,337,2,9,9,13,95,0,1
+2018-10-13,Troy,Sun Belt,A,Liberty,L,16,22,16,30,160,1,39,133,0,5,10,10,65,2,1
+2018-10-23,Troy,Sun Belt,A,South Alabama,W,38,17,9,16,158,3,35,252,2,5,7,7,67,1,1
+2018-11-03,Troy,Sun Belt,H,Louisiana,W,26,16,18,22,317,1,40,110,1,12,8,9,73,1,0
+2018-11-10,Troy,Sun Belt,A,Georgia Southern,W,35,21,23,30,314,1,42,140,3,13,9,4,45,1,0
+2018-11-17,Troy,Sun Belt,H,Texas State,W,12,7,13,27,79,0,47,141,0,4,9,4,25,0,0
+2018-11-24,Troy,Sun Belt,A,Appalachian State,L,10,21,18,34,170,1,28,53,0,9,2,8,45,2,2
+2018-12-22,Troy,Sun Belt,N,Buffalo,W,42,32,31,44,320,4,31,113,2,14,7,8,65,1,0
+2018-09-01,Texas State,Sun Belt,A,Rutgers,L,7,35,9,24,100,0,30,69,0,5,4,15,119,2,1
+2018-09-15,Texas State,Sun Belt,A,South Alabama,L,31,41,17,32,214,2,52,158,2,9,8,6,50,1,2
+2018-09-22,Texas State,Sun Belt,A,UTSA,L,21,25,17,28,222,2,25,26,1,9,4,5,41,1,2
+2018-10-06,Texas State,Sun Belt,H,Louisiana,L,27,42,29,41,301,4,28,124,0,14,7,3,30,0,0
+2018-10-11,Texas State,Sun Belt,H,Georgia Southern,L,13,15,14,27,135,1,32,107,1,7,6,3,25,1,1
+2018-10-20,Texas State,Sun Belt,A,Louisiana-Monroe,L,14,20,15,25,115,0,36,127,2,6,7,6,53,0,0
+2018-10-27,Texas State,Sun Belt,H,New Mexico State,W,27,20,9,18,113,2,48,230,2,4,9,10,79,1,0
+2018-11-03,Texas State,Sun Belt,A,Georgia State,W,40,31,21,26,325,2,36,164,4,12,7,5,32,0,0
+2018-11-10,Texas State,Sun Belt,H,Appalachian State,L,7,38,19,30,132,1,31,86,0,8,5,3,19,2,1
+2018-11-17,Texas State,Sun Belt,A,Troy,L,7,12,9,23,155,0,36,129,1,6,6,2,10,1,5
+2018-11-24,Texas State,Sun Belt,H,Arkansas State,L,7,33,16,27,133,0,40,242,1,6,10,6,50,1,0
+2018-08-30,Connecticut,American,H,UCF,L,17,56,27,41,266,1,46,220,1,9,16,7,93,2,1
+2018-09-08,Connecticut,American,A,Boise State,L,7,62,11,21,71,1,25,122,0,3,6,7,44,0,1
+2018-09-22,Connecticut,American,A,Syracuse,L,21,51,19,29,217,2,39,178,1,7,7,5,42,2,1
+2018-09-29,Connecticut,American,H,Cincinnati,L,7,49,14,35,181,1,29,77,0,7,5,2,15,0,1
+2018-10-06,Connecticut,American,A,Memphis,L,14,55,24,43,215,1,30,112,1,14,4,3,25,1,3
+2018-10-20,Connecticut,American,A,South Florida,L,30,38,10,21,133,0,51,322,4,5,17,4,25,0,1
+2018-10-27,Connecticut,American,H,Massachusetts,L,17,22,4,6,15,0,44,250,2,0,11,2,25,0,1
+2018-11-03,Connecticut,American,A,Tulsa,L,19,49,14,28,232,2,50,255,0,8,13,5,45,2,1
+2018-11-10,Connecticut,American,H,SMU,L,50,62,25,40,215,4,49,365,3,12,17,9,77,0,1
+2018-11-17,Connecticut,American,A,East Carolina,L,21,55,17,33,183,3,29,91,0,11,4,5,30,1,2
+2018-11-24,Connecticut,American,H,Temple,L,7,57,14,26,100,1,53,138,0,6,12,1,15,1,3
+2018-09-08,UAB,CUSA,A,Coastal Carolina,L,24,47,12,27,149,0,41,286,3,8,16,15,143,0,1
+2018-09-15,UAB,CUSA,H,Tulane,W,31,24,12,27,180,1,56,269,2,8,16,8,80,0,2
+2018-09-29,UAB,CUSA,H,Charlotte,W,28,7,14,18,214,1,34,116,3,8,5,5,80,0,0
+2018-10-06,UAB,CUSA,A,Louisiana Tech,W,28,7,8,24,136,1,44,229,3,6,10,5,50,0,1
+2018-10-13,UAB,CUSA,A,Rice,W,42,0,11,19,274,2,45,208,3,8,8,2,30,0,1
+2018-10-20,UAB,CUSA,H,North Texas,W,29,21,14,22,189,0,48,203,3,8,11,7,90,1,0
+2018-10-27,UAB,CUSA,A,UTEP,W,19,0,13,23,92,0,47,265,2,6,15,6,65,0,1
+2018-11-03,UAB,CUSA,H,UTSA,W,52,3,10,17,249,3,53,419,4,10,19,11,122,0,1
+2018-11-10,UAB,CUSA,H,Southern Mississippi,W,26,23,14,27,207,1,43,99,2,9,5,7,100,0,3
+2018-11-17,UAB,CUSA,A,Texas A&M,L,20,41,25,39,306,2,37,111,1,16,9,6,41,1,2
+2018-11-24,UAB,CUSA,A,Middle Tennessee State,L,3,27,9,24,90,0,29,-1,0,4,3,5,60,0,1
+2018-12-01,UAB,CUSA,A,Middle Tennessee State,W,27,25,9,15,140,1,54,225,2,4,15,4,25,0,1
+2018-12-18,UAB,CUSA,N,Northern Illinois,W,37,13,17,29,373,4,36,103,0,14,6,10,79,0,1
+2018-09-08,Baylor,Big 12,A,UTSA,W,37,20,27,41,403,3,31,91,1,16,7,7,70,1,0
+2018-09-15,Baylor,Big 12,H,Duke,L,27,40,24,42,270,1,32,130,2,12,9,6,62,1,1
+2018-09-22,Baylor,Big 12,H,Kansas,W,26,7,20,29,257,3,39,190,0,10,10,13,141,0,0
+2018-09-29,Baylor,Big 12,A,Oklahoma,L,33,66,40,63,416,2,38,77,2,18,11,9,75,1,0
+2018-10-06,Baylor,Big 12,H,Kansas State,W,37,34,30,45,296,1,48,261,3,19,17,2,10,0,2
+2018-10-13,Baylor,Big 12,A,Texas,L,17,23,20,39,240,1,34,88,1,10,8,10,142,0,1
+2018-10-25,Baylor,Big 12,A,West Virginia,L,14,58,17,29,205,0,36,82,2,9,7,8,75,1,3
+2018-11-03,Baylor,Big 12,H,Oklahoma State,W,35,31,14,26,158,2,39,244,2,6,12,6,69,0,1
+2018-11-10,Baylor,Big 12,A,Iowa State,L,14,28,29,48,359,2,32,146,0,15,9,7,70,0,0
+2018-11-17,Baylor,Big 12,H,Texas Christian,L,9,16,14,29,163,0,40,140,1,7,10,9,66,2,1
+2018-11-24,Baylor,Big 12,A,Texas Tech,W,35,24,22,31,308,3,51,170,2,11,13,12,80,0,2
+2018-12-27,Baylor,Big 12,N,Vanderbilt,W,45,38,21,35,384,2,46,284,4,11,19,7,50,0,1
+2018-09-01,SMU,American,A,North Texas,L,23,46,12,24,252,2,19,4,1,7,2,4,40,0,1
+2018-09-07,SMU,American,H,Texas Christian,L,12,42,18,39,111,0,33,131,1,3,9,8,68,1,0
+2018-09-15,SMU,American,A,Michigan,L,20,45,19,34,209,3,31,110,0,10,5,6,60,0,1
+2018-09-22,SMU,American,H,Navy,W,31,30,24,32,166,3,37,158,0,10,7,3,16,1,0
+2018-10-06,SMU,American,A,UCF,L,20,48,24,42,237,2,39,83,0,12,5,2,15,1,0
+2018-10-20,SMU,American,A,Tulane,W,27,23,21,40,291,3,32,36,1,12,3,7,43,0,1
+2018-10-27,SMU,American,H,Cincinnati,L,20,26,22,43,328,2,24,23,0,11,0,7,72,0,1
+2018-11-03,SMU,American,H,Houston,W,45,31,28,44,318,4,40,196,2,16,9,2,19,0,0
+2018-11-10,SMU,American,A,Connecticut,W,62,50,20,30,279,2,38,316,6,12,9,6,83,0,0
+2018-11-16,SMU,American,H,Memphis,L,18,28,30,57,341,2,26,25,0,13,5,5,33,2,1
+2018-11-24,SMU,American,A,Tulsa,L,24,27,26,46,319,1,31,61,1,16,6,6,30,0,2
+2018-09-08,Virginia,ACC,A,Indiana,L,16,20,12,25,106,2,39,188,0,6,7,5,56,1,0
+2018-09-15,Virginia,ACC,N,Ohio,W,45,31,25,30,379,3,31,173,3,14,8,3,20,3,0
+2018-09-22,Virginia,ACC,H,Louisville,W,27,3,17,26,197,2,39,204,1,10,9,3,29,0,1
+2018-09-29,Virginia,ACC,A,North Carolina State,L,21,35,20,35,258,2,29,93,1,10,7,6,62,0,2
+2018-10-13,Virginia,ACC,H,Miami (FL),W,16,13,12,21,92,0,41,139,1,3,12,6,60,0,3
+2018-10-20,Virginia,ACC,A,Duke,W,28,14,21,34,198,1,44,178,2,12,8,6,55,0,0
+2018-10-27,Virginia,ACC,H,North Carolina,W,31,21,18,27,217,3,44,208,1,11,12,1,5,0,1
+2018-11-02,Virginia,ACC,H,Pitt,L,13,23,17,24,205,1,26,44,0,6,6,10,80,1,0
+2018-11-10,Virginia,ACC,H,Liberty,W,45,24,14,22,168,2,39,221,3,8,15,1,10,0,1
+2018-11-17,Virginia,ACC,A,Georgia Tech,L,27,30,22,28,273,2,33,130,1,14,10,4,35,1,0
+2018-11-23,Virginia,ACC,A,Virginia Tech,L,31,34,14,29,259,3,38,164,1,9,11,7,62,3,0
+2018-12-29,Virginia,ACC,N,South Carolina,W,28,0,22,31,208,3,48,205,1,13,14,3,30,1,0
+2018-09-03,Virginia Tech,ACC,A,Florida State,W,24,3,16,26,207,2,37,112,0,8,7,5,55,0,0
+2018-09-22,Virginia Tech,ACC,A,Old Dominion,L,35,49,17,34,282,3,49,318,2,11,15,7,95,0,1
+2018-09-29,Virginia Tech,ACC,A,Duke,W,31,14,17,28,332,3,41,81,1,13,4,4,26,0,0
+2018-10-06,Virginia Tech,ACC,H,Notre Dame,L,23,45,31,52,309,2,33,132,0,18,6,6,41,1,1
+2018-10-13,Virginia Tech,ACC,A,North Carolina,W,22,19,20,36,221,2,41,154,1,12,8,8,59,0,2
+2018-10-25,Virginia Tech,ACC,H,Georgia Tech,L,28,49,15,22,201,2,25,122,2,8,7,8,87,1,0
+2018-11-03,Virginia Tech,ACC,H,Boston College,L,21,31,25,43,281,3,36,111,0,14,8,8,59,1,1
+2018-11-10,Virginia Tech,ACC,A,Pitt,L,22,52,23,38,240,3,48,192,0,10,15,3,34,0,0
+2018-11-17,Virginia Tech,ACC,H,Miami (FL),L,14,38,18,36,216,1,33,119,1,12,8,3,35,1,2
+2018-11-23,Virginia Tech,ACC,H,Virginia,W,34,31,14,34,199,1,45,254,2,7,13,7,70,0,2
+2018-12-01,Virginia Tech,ACC,H,Marshall,W,41,20,18,26,312,4,38,142,1,9,9,4,41,0,0
+2018-12-31,Virginia Tech,ACC,N,Cincinnati,L,31,35,20,31,219,2,45,224,2,9,10,10,92,1,1
+2018-09-08,Clemson,ACC,A,Texas A&M,W,28,26,17,27,298,2,32,115,2,7,6,4,49,0,0
+2018-09-15,Clemson,ACC,H,Georgia Southern,W,38,7,21,31,286,1,46,309,4,14,13,7,65,1,2
+2018-09-22,Clemson,ACC,A,Georgia Tech,W,49,21,19,30,232,4,36,248,2,10,14,6,68,0,2
+2018-09-29,Clemson,ACC,H,Syracuse,W,27,23,17,29,176,0,53,293,3,8,19,3,16,2,1
+2018-10-06,Clemson,ACC,A,Wake Forest,W,63,3,25,30,227,3,40,471,6,8,12,3,28,1,0
+2018-10-20,Clemson,ACC,H,North Carolina State,W,41,7,32,48,380,1,32,91,4,19,4,8,67,1,0
+2018-10-27,Clemson,ACC,A,Florida State,W,59,10,24,44,404,5,33,120,3,16,6,5,50,0,1
+2018-11-03,Clemson,ACC,H,Louisville,W,77,16,14,20,169,5,37,492,5,8,17,3,15,1,1
+2018-11-10,Clemson,ACC,A,Boston College,W,27,7,29,41,295,1,30,129,1,13,5,2,15,1,1
+2018-11-17,Clemson,ACC,H,Duke,W,35,6,21,39,251,2,36,208,3,12,12,7,54,0,0
+2018-11-24,Clemson,ACC,H,South Carolina,W,56,35,27,37,393,1,55,351,7,19,17,8,79,1,0
+2018-12-01,Clemson,ACC,N,Pitt,W,42,10,12,24,118,2,35,301,4,4,9,6,41,0,0
+2018-12-29,Clemson,ACC,N,Notre Dame,W,30,3,27,41,327,3,37,211,1,15,9,6,65,1,0
+2019-01-07,Clemson,ACC,N,Alabama,W,44,16,20,32,347,3,31,135,2,12,7,1,12,0,0
+2018-09-01,South Carolina,SEC,H,Coastal Carolina,W,49,15,25,35,294,5,37,267,2,15,16,9,99,0,0
+2018-09-08,South Carolina,SEC,H,Georgia,L,17,41,31,48,282,2,20,54,0,16,1,3,40,0,2
+2018-09-22,South Carolina,SEC,A,Vanderbilt,W,37,14,19,28,261,1,48,273,3,14,12,8,54,2,1
+2018-09-29,South Carolina,SEC,A,Kentucky,L,10,24,17,34,193,1,35,133,0,8,11,11,94,1,3
+2018-10-06,South Carolina,SEC,H,Missouri,W,37,35,20,35,249,3,47,128,0,13,4,9,83,1,0
+2018-10-13,South Carolina,SEC,H,Texas A&M,L,23,26,17,35,223,3,18,76,0,8,6,4,39,1,1
+2018-10-27,South Carolina,SEC,H,Tennessee,W,27,24,11,16,152,1,40,224,2,6,12,2,9,0,1
+2018-11-03,South Carolina,SEC,A,Ole Miss,W,48,44,22,32,363,2,36,145,3,12,6,5,51,0,0
+2018-11-10,South Carolina,SEC,A,Florida,L,31,35,18,28,239,2,36,147,2,10,7,7,41,0,1
+2018-11-24,South Carolina,SEC,A,Clemson,L,35,56,32,50,510,5,25,90,0,23,4,7,48,0,1
+2018-12-01,South Carolina,SEC,H,Akron,W,28,3,14,27,199,3,38,185,0,9,6,6,41,2,2
+2018-12-29,South Carolina,SEC,N,Virginia,L,0,28,17,39,218,0,20,33,0,10,2,5,45,0,2
+2018-09-08,Ball State,MAC,A,Notre Dame,L,16,24,23,50,180,1,47,169,0,13,11,3,10,0,2
+2018-09-15,Ball State,MAC,A,Indiana,L,10,38,14,28,143,0,39,204,1,7,11,8,75,0,1
+2018-09-22,Ball State,MAC,H,Western Kentucky,L,20,28,27,45,285,1,29,120,1,14,8,10,120,0,0
+2018-09-29,Ball State,MAC,H,Kent State,W,52,24,32,52,446,4,42,160,3,19,7,11,91,1,1
+2018-10-06,Ball State,MAC,H,Northern Illinois,L,16,24,32,56,260,0,40,131,1,17,6,2,16,1,0
+2018-10-13,Ball State,MAC,A,Central Michigan,W,24,23,20,27,202,1,51,157,2,10,11,8,80,1,0
+2018-10-20,Ball State,MAC,H,Eastern Michigan,L,20,42,21,39,157,1,32,227,2,9,8,9,108,1,1
+2018-10-25,Ball State,MAC,A,Ohio,L,14,52,16,32,162,1,23,80,1,5,6,6,54,2,1
+2018-10-31,Ball State,MAC,A,Toledo,L,13,45,30,48,343,1,35,94,1,14,11,10,100,3,2
+2018-11-13,Ball State,MAC,H,Western Michigan,W,42,41,22,27,282,3,26,71,3,14,7,6,49,0,2
+2018-11-20,Ball State,MAC,A,Miami (OH),L,21,42,23,36,239,1,34,143,2,15,6,3,30,0,2
+2018-09-01,Massachusetts,Ind,A,Boston College,L,21,55,21,34,249,1,34,66,2,12,5,2,8,1,2
+2018-09-08,Massachusetts,Ind,A,Georgia Southern,L,13,34,23,36,216,0,24,108,1,12,6,8,55,1,1
+2018-09-15,Massachusetts,Ind,A,Florida International,L,24,63,15,32,224,1,34,199,2,11,11,5,40,1,2
+2018-09-22,Massachusetts,Ind,H,Charlotte,W,49,31,12,19,189,2,35,142,4,9,5,6,59,1,0
+2018-09-29,Massachusetts,Ind,A,Ohio,L,42,58,30,43,410,5,22,41,0,19,3,8,77,0,1
+2018-10-06,Massachusetts,Ind,H,South Florida,L,42,58,33,52,401,5,34,85,1,19,6,8,80,4,1
+2018-10-20,Massachusetts,Ind,H,Coastal Carolina,L,13,24,25,43,390,1,22,63,0,18,4,8,70,2,0
+2018-10-27,Massachusetts,Ind,A,Connecticut,W,22,17,8,15,197,2,53,247,1,7,12,2,15,1,1
+2018-11-03,Massachusetts,Ind,H,Liberty,W,62,59,29,44,540,4,54,237,4,17,15,9,79,2,1
+2018-11-10,Massachusetts,Ind,H,Brigham Young,L,16,35,23,33,183,0,36,102,2,9,5,1,10,0,0
+2018-11-17,Massachusetts,Ind,A,Georgia,L,27,66,24,32,287,2,22,103,1,10,5,7,59,0,1
+2018-09-08,San Jose State,MWC,A,Washington State,L,0,31,14,28,100,0,23,9,0,5,2,9,56,0,1
+2018-09-15,San Jose State,MWC,A,Oregon,L,22,35,20,41,267,1,28,29,1,12,1,3,25,0,2
+2018-09-29,San Jose State,MWC,H,Hawaii,L,41,44,28,49,451,3,37,39,2,17,5,10,75,0,0
+2018-10-06,San Jose State,MWC,H,Colorado State,L,30,42,18,43,237,3,34,48,1,8,6,6,45,0,2
+2018-10-13,San Jose State,MWC,N,Army,L,3,52,13,18,135,0,30,36,0,7,3,7,55,4,0
+2018-10-20,San Jose State,MWC,A,San Diego State,L,13,16,27,37,233,0,34,62,1,13,3,6,52,0,1
+2018-10-27,San Jose State,MWC,H,Nevada-Las Vegas,W,50,37,26,37,349,4,40,157,1,18,7,4,36,0,1
+2018-11-03,San Jose State,MWC,A,Wyoming,L,9,24,19,32,173,1,24,71,0,9,5,6,45,0,0
+2018-11-10,San Jose State,MWC,A,Utah State,L,24,62,22,42,344,2,20,56,0,12,1,9,80,1,2
+2018-11-17,San Jose State,MWC,H,Nevada,L,12,21,18,27,170,2,26,30,0,10,1,5,21,0,1
+2018-11-24,San Jose State,MWC,A,Fresno State,L,13,31,25,43,307,2,22,60,0,12,2,5,40,0,1
+2018-09-01,Bowling Green State,MAC,A,Oregon,L,24,58,22,38,253,3,49,155,0,14,8,5,50,1,2
+2018-09-08,Bowling Green State,MAC,H,Maryland,L,14,45,17,27,143,2,28,15,0,6,4,10,66,0,1
+2018-09-22,Bowling Green State,MAC,H,Miami (OH),L,23,38,33,50,300,3,34,85,0,15,10,7,57,1,0
+2018-09-29,Bowling Green State,MAC,A,Georgia Tech,L,17,63,29,49,330,1,38,63,1,17,7,5,26,1,2
+2018-10-06,Bowling Green State,MAC,A,Toledo,L,36,52,18,34,289,3,29,192,2,10,7,14,129,1,0
+2018-10-13,Bowling Green State,MAC,H,Western Michigan,L,35,42,21,35,379,3,21,132,2,13,3,9,85,2,2
+2018-10-20,Bowling Green State,MAC,A,Ohio,L,14,49,19,24,214,2,26,100,0,9,4,7,78,1,1
+2018-10-30,Bowling Green State,MAC,H,Kent State,L,28,35,21,38,231,3,39,86,0,11,5,11,85,0,1
+2018-11-10,Bowling Green State,MAC,A,Central Michigan,W,24,13,14,24,142,1,51,178,1,9,8,5,31,0,1
+2018-11-17,Bowling Green State,MAC,A,Akron,W,21,6,19,27,178,2,41,221,1,7,12,8,72,1,1
+2018-11-23,Bowling Green State,MAC,H,Buffalo,L,14,44,9,18,147,2,18,60,0,3,3,4,40,1,1
+2018-09-01,USC,Pac-12,H,Nevada-Las Vegas,W,43,21,22,35,282,1,38,219,3,11,10,6,58,0,0
+2018-09-08,USC,Pac-12,A,Stanford,L,3,17,17,36,218,0,37,114,0,9,11,4,35,0,2
+2018-09-15,USC,Pac-12,A,Texas,L,14,37,30,48,322,0,16,-5,2,13,2,10,99,0,1
+2018-09-21,USC,Pac-12,H,Washington State,W,39,36,17,26,241,3,31,113,2,10,6,8,65,0,0
+2018-09-29,USC,Pac-12,A,Arizona,W,24,20,16,24,197,0,47,253,3,7,9,18,169,3,0
+2018-10-13,USC,Pac-12,H,Colorado,W,31,20,17,34,272,3,27,62,0,8,6,13,123,1,2
+2018-10-20,USC,Pac-12,A,Utah,L,28,41,12,23,132,2,31,73,1,5,3,2,20,0,2
+2018-10-27,USC,Pac-12,H,Arizona State,L,35,38,21,30,271,3,33,149,1,11,6,7,73,1,0
+2018-11-03,USC,Pac-12,A,Oregon State,W,38,21,14,26,177,1,44,332,4,11,12,6,52,1,0
+2018-11-10,USC,Pac-12,H,California,L,14,15,21,34,180,2,38,97,0,11,6,5,55,1,1
+2018-11-17,USC,Pac-12,A,UCLA,L,27,34,20,34,337,2,27,112,0,12,6,9,63,0,2
+2018-11-24,USC,Pac-12,H,Notre Dame,L,17,24,37,51,349,1,24,94,1,16,7,8,71,2,0
+2018-08-31,San Diego State,MWC,A,Stanford,L,10,31,10,15,113,0,37,150,1,5,6,11,125,1,0
+2018-09-15,San Diego State,MWC,H,Arizona State,W,28,21,12,24,129,1,58,311,2,7,18,9,85,1,0
+2018-09-22,San Diego State,MWC,H,Eastern Michigan,W,23,20,12,22,176,2,37,174,0,8,6,5,56,0,1
+2018-10-06,San Diego State,MWC,A,Boise State,W,19,13,8,15,113,0,44,154,2,4,4,8,55,2,0
+2018-10-12,San Diego State,MWC,H,Air Force,W,21,17,9,25,213,1,34,84,1,8,5,8,55,0,1
+2018-10-20,San Diego State,MWC,H,San Jose State,W,16,13,7,11,86,0,47,207,1,4,10,8,67,1,0
+2018-10-27,San Diego State,MWC,A,Nevada,L,24,28,20,41,283,3,36,173,0,14,7,8,68,2,0
+2018-11-03,San Diego State,MWC,A,New Mexico,W,31,23,17,25,240,1,40,161,3,10,6,9,80,3,0
+2018-11-10,San Diego State,MWC,H,Nevada-Las Vegas,L,24,27,22,36,279,2,34,89,1,10,10,4,45,0,2
+2018-11-17,San Diego State,MWC,A,Fresno State,L,14,23,8,21,218,2,27,64,0,5,2,6,41,0,0
+2018-11-24,San Diego State,MWC,H,Hawaii,L,30,31,12,23,178,2,44,224,2,7,13,5,38,0,0
+2018-12-19,San Diego State,MWC,N,Ohio,L,0,27,12,26,134,0,36,153,0,8,10,4,35,1,1
+2018-09-08,Eastern Michigan,MAC,A,Purdue,W,20,19,22,34,347,1,31,69,1,13,3,10,71,0,1
+2018-09-15,Eastern Michigan,MAC,A,Buffalo,L,28,35,25,38,348,2,43,142,2,12,8,11,98,1,0
+2018-09-22,Eastern Michigan,MAC,A,San Diego State,L,20,23,17,27,236,1,39,119,1,7,6,6,45,1,1
+2018-09-29,Eastern Michigan,MAC,H,Northern Illinois,L,23,26,17,41,180,1,33,62,1,9,5,11,85,1,0
+2018-10-06,Eastern Michigan,MAC,A,Western Michigan,L,24,27,18,31,206,2,48,178,1,11,10,4,31,1,0
+2018-10-13,Eastern Michigan,MAC,H,Toledo,W,28,26,17,23,183,0,38,229,4,8,10,11,138,0,0
+2018-10-20,Eastern Michigan,MAC,A,Ball State,W,42,20,22,28,257,3,49,163,3,11,10,5,65,1,0
+2018-10-27,Eastern Michigan,MAC,H,Army,L,22,37,19,29,201,2,11,34,1,7,1,8,75,1,0
+2018-11-03,Eastern Michigan,MAC,H,Central Michigan,W,17,7,21,33,212,1,43,137,1,10,7,8,81,2,1
+2018-11-10,Eastern Michigan,MAC,H,Akron,W,27,7,16,24,132,0,50,261,2,7,12,7,65,1,0
+2018-11-23,Eastern Michigan,MAC,A,Kent State,W,28,20,13,26,139,0,44,237,4,5,8,3,45,1,1
+2018-12-15,Eastern Michigan,MAC,N,Georgia Southern,L,21,23,17,26,204,3,24,97,0,9,5,4,25,0,0
+2018-09-01,Florida International,CUSA,H,Indiana,L,28,38,17,28,157,1,39,170,3,8,9,7,70,2,1
+2018-09-08,Florida International,CUSA,A,Old Dominion,W,28,20,19,31,300,3,51,189,1,14,10,5,35,0,1
+2018-09-15,Florida International,CUSA,H,Massachusetts,W,63,24,16,23,207,2,53,329,5,8,22,2,30,1,1
+2018-09-22,Florida International,CUSA,A,Miami (FL),L,17,31,13,28,170,2,24,17,0,5,1,3,23,0,1
+2018-10-13,Florida International,CUSA,H,Middle Tennessee State,W,24,21,27,36,311,2,34,70,0,11,6,7,49,0,0
+2018-10-20,Florida International,CUSA,H,Rice,W,36,17,20,29,229,2,38,217,2,15,8,3,15,0,0
+2018-10-27,Florida International,CUSA,A,Western Kentucky,W,38,17,19,28,171,3,38,197,2,6,8,6,65,0,0
+2018-11-03,Florida International,CUSA,H,Florida Atlantic,L,14,49,19,34,234,2,33,96,0,13,5,2,21,1,2
+2018-11-10,Florida International,CUSA,A,UTSA,W,45,7,20,30,304,3,40,151,2,12,9,8,95,0,0
+2018-11-17,Florida International,CUSA,A,Charlotte,W,42,35,25,32,294,2,23,196,2,15,5,6,47,0,0
+2018-11-24,Florida International,CUSA,H,Marshall,L,25,28,25,38,201,0,36,206,3,12,8,3,17,0,2
+2018-12-21,Florida International,CUSA,N,Toledo,W,35,32,18,27,223,1,43,236,4,13,10,7,50,1,0
+2018-09-08,Temple,American,H,Buffalo,L,29,36,17,38,240,3,29,115,0,10,6,6,65,1,2
+2018-09-15,Temple,American,A,Maryland,W,35,14,16,28,264,2,52,165,2,11,9,4,50,0,1
+2018-09-20,Temple,American,H,Tulsa,W,31,17,8,21,109,0,36,191,2,4,11,6,47,0,2
+2018-09-29,Temple,American,A,Boston College,L,35,45,21,47,261,0,34,191,4,15,7,11,95,1,2
+2018-10-06,Temple,American,H,East Carolina,W,49,6,25,30,297,4,48,173,2,14,11,6,66,0,1
+2018-10-13,Temple,American,A,Navy,W,24,17,23,32,300,1,34,109,2,11,8,7,63,1,1
+2018-10-20,Temple,American,H,Cincinnati,W,24,17,20,42,237,3,30,80,0,11,3,6,60,0,3
+2018-11-01,Temple,American,A,UCF,L,40,52,31,52,444,4,46,226,1,21,12,14,149,0,2
+2018-11-10,Temple,American,A,Houston,W,59,49,15,23,225,0,55,317,8,11,15,15,114,1,0
+2018-11-17,Temple,American,H,South Florida,W,27,17,20,35,264,0,39,74,1,15,2,7,61,1,1
+2018-11-24,Temple,American,A,Connecticut,W,57,7,12,15,223,1,34,312,4,6,12,4,50,0,1
+2018-12-27,Temple,American,N,Duke,L,27,56,25,46,228,1,29,53,2,15,3,3,35,1,1
+2018-09-15,Louisiana,Sun Belt,A,Mississippi State,L,10,56,23,34,245,1,26,65,0,10,3,4,25,0,1
+2018-09-22,Louisiana,Sun Belt,H,Coastal Carolina,L,28,30,10,18,143,1,31,238,3,6,9,6,64,0,0
+2018-09-29,Louisiana,Sun Belt,A,Alabama,L,14,56,11,20,88,1,38,200,1,4,11,4,30,0,2
+2018-10-06,Louisiana,Sun Belt,A,Texas State,W,42,27,14,23,230,2,49,327,4,9,13,3,30,0,1
+2018-10-13,Louisiana,Sun Belt,H,New Mexico State,W,66,38,22,29,415,6,56,344,3,18,17,7,72,1,0
+2018-10-20,Louisiana,Sun Belt,A,Appalachian State,L,17,27,17,27,188,1,41,140,1,8,8,6,52,1,0
+2018-10-27,Louisiana,Sun Belt,H,Arkansas State,W,47,43,19,28,319,2,39,228,4,10,10,6,51,0,2
+2018-11-03,Louisiana,Sun Belt,A,Troy,L,16,26,14,29,170,0,36,100,2,7,9,5,39,1,2
+2018-11-10,Louisiana,Sun Belt,H,Georgia State,W,36,22,16,23,170,1,37,356,4,9,11,1,8,0,0
+2018-11-17,Louisiana,Sun Belt,H,South Alabama,W,48,38,13,19,197,3,33,210,3,8,9,6,66,0,1
+2018-11-24,Louisiana,Sun Belt,A,Louisiana-Monroe,W,31,28,17,21,213,4,49,240,0,6,13,9,78,0,1
+2018-12-01,Louisiana,Sun Belt,A,Appalachian State,L,19,30,10,22,85,0,44,216,1,5,10,5,35,0,2
+2018-12-15,Louisiana,Sun Belt,N,Tulane,L,24,41,11,25,174,1,30,84,2,6,5,1,15,0,1
+2018-08-30,UCF,American,A,Connecticut,W,56,17,26,34,356,5,36,296,3,15,14,3,27,0,0
+2018-09-21,UCF,American,H,Florida Atlantic,W,56,36,21,32,306,3,50,239,4,14,14,4,49,0,0
+2018-09-29,UCF,American,H,Pitt,W,45,14,18,34,328,4,45,240,2,12,13,8,71,0,0
+2018-10-06,UCF,American,H,SMU,W,48,20,19,37,285,2,43,256,4,12,13,7,75,0,1
+2018-10-13,UCF,American,A,Memphis,W,31,30,17,29,296,1,37,165,3,11,6,12,103,1,0
+2018-10-20,UCF,American,A,East Carolina,W,37,10,13,21,111,1,55,316,2,6,14,14,120,0,0
+2018-11-01,UCF,American,H,Temple,W,52,40,17,33,312,3,43,318,4,11,18,8,50,0,1
+2018-11-10,UCF,American,H,Navy,W,35,24,17,21,200,2,51,300,3,12,16,3,25,1,0
+2018-11-17,UCF,American,H,Cincinnati,W,38,13,13,25,268,3,36,134,2,11,7,5,45,1,0
+2018-11-23,UCF,American,A,South Florida,W,38,10,10,24,167,1,58,399,4,9,17,5,34,0,1
+2018-12-01,UCF,American,H,Memphis,W,56,41,19,28,348,2,62,350,5,13,18,5,44,3,0
+2019-01-01,UCF,American,N,LSU,L,32,40,12,31,120,1,30,130,2,5,7,12,104,1,1
+2018-09-15,Toledo,MAC,H,Miami (FL),L,24,49,13,23,222,2,36,112,1,9,8,5,38,0,1
+2018-09-22,Toledo,MAC,H,Nevada,W,63,44,16,25,230,5,46,230,2,11,10,6,65,1,0
+2018-09-29,Toledo,MAC,A,Fresno State,L,27,49,16,31,238,3,40,137,0,11,7,3,25,0,1
+2018-10-06,Toledo,MAC,H,Bowling Green State,W,52,36,17,35,184,3,44,288,4,10,13,10,79,0,0
+2018-10-13,Toledo,MAC,A,Eastern Michigan,L,26,28,12,27,147,1,52,229,2,6,14,16,130,0,1
+2018-10-20,Toledo,MAC,H,Buffalo,L,17,31,7,21,137,1,29,158,1,2,4,12,148,2,2
+2018-10-25,Toledo,MAC,A,Western Michigan,W,51,24,18,32,247,5,35,268,1,13,10,7,56,0,0
+2018-10-31,Toledo,MAC,H,Ball State,W,45,13,25,35,327,2,38,204,3,16,8,6,45,0,5
+2018-11-07,Toledo,MAC,A,Northern Illinois,L,15,38,26,47,264,1,42,167,1,13,8,5,30,0,0
+2018-11-15,Toledo,MAC,A,Kent State,W,56,34,12,18,133,2,49,384,4,6,13,12,140,0,0
+2018-11-23,Toledo,MAC,H,Central Michigan,W,51,13,14,31,180,1,49,293,5,9,15,7,70,3,1
+2018-12-21,Toledo,MAC,N,Florida International,L,32,35,22,38,264,3,27,124,1,12,8,5,55,1,0
+2018-09-01,Boise State,MWC,A,Troy,W,56,20,20,28,305,4,29,111,2,10,6,4,27,1,0
+2018-09-08,Boise State,MWC,H,Connecticut,W,62,7,25,33,418,4,45,400,4,18,19,7,71,0,0
+2018-09-15,Boise State,MWC,A,Oklahoma State,L,21,44,39,56,380,3,31,34,0,21,2,5,40,1,0
+2018-09-29,Boise State,MWC,A,Wyoming,W,34,14,29,43,345,2,46,161,2,14,11,9,71,0,0
+2018-10-06,Boise State,MWC,H,San Diego State,L,13,19,22,44,178,0,36,51,2,8,7,6,52,0,3
+2018-10-13,Boise State,MWC,A,Nevada,W,31,27,28,38,299,2,40,207,1,14,9,9,108,1,3
+2018-10-19,Boise State,MWC,H,Colorado State,W,56,28,23,27,322,4,37,150,2,16,8,5,40,0,0
+2018-10-27,Boise State,MWC,A,Air Force,W,48,38,22,36,409,5,33,121,1,16,9,1,15,0,0
+2018-11-03,Boise State,MWC,H,Brigham Young,W,21,16,23,35,214,1,37,113,2,10,10,7,81,1,1
+2018-11-09,Boise State,MWC,H,Fresno State,W,24,17,24,30,269,1,44,179,2,11,12,4,45,0,1
+2018-11-16,Boise State,MWC,A,New Mexico,W,45,14,17,27,222,3,41,227,2,14,14,5,30,0,0
+2018-11-24,Boise State,MWC,H,Utah State,W,33,24,23,32,310,1,45,199,3,11,7,7,69,0,0
+2018-12-01,Boise State,MWC,H,Fresno State,L,16,19,15,31,125,1,55,225,1,6,14,6,50,1,0
+2018-09-01,North Texas,CUSA,H,SMU,W,46,23,41,51,461,3,43,68,0,27,5,5,40,0,0
+2018-09-15,North Texas,CUSA,A,Arkansas,W,44,17,24,46,281,1,29,95,2,11,3,9,102,1,0
+2018-09-22,North Texas,CUSA,A,Liberty,W,47,7,16,27,185,2,47,346,5,10,15,4,45,0,0
+2018-09-29,North Texas,CUSA,H,Louisiana Tech,L,27,29,22,35,296,3,37,131,1,13,9,4,55,2,0
+2018-10-06,North Texas,CUSA,A,UTEP,W,27,24,23,34,294,2,35,134,1,12,8,3,40,0,0
+2018-10-13,North Texas,CUSA,H,Southern Mississippi,W,30,7,24,38,292,1,33,165,3,13,10,5,55,1,0
+2018-10-20,North Texas,CUSA,A,UAB,L,21,29,29,40,336,3,23,64,0,16,3,4,50,1,0
+2018-10-27,North Texas,CUSA,H,Rice,W,41,17,18,35,333,2,24,164,3,13,9,2,16,2,0
+2018-11-10,North Texas,CUSA,A,Old Dominion,L,31,34,26,44,240,2,38,155,2,12,9,4,60,1,1
+2018-11-15,North Texas,CUSA,H,Florida Atlantic,W,41,38,23,35,303,2,37,208,3,14,8,4,40,0,2
+2018-11-24,North Texas,CUSA,A,UTSA,W,24,21,26,36,320,2,33,196,1,16,9,6,60,0,1
+2018-12-15,North Texas,CUSA,N,Utah State,L,13,52,17,34,193,1,41,120,1,6,11,2,20,0,4
+2018-09-01,Brigham Young,Ind,A,Arizona,W,28,23,18,28,209,1,43,183,3,12,11,10,94,0,0
+2018-09-08,Brigham Young,Ind,H,California,L,18,21,22,41,196,1,33,91,0,9,8,7,65,0,2
+2018-09-15,Brigham Young,Ind,A,Wisconsin,W,24,21,13,23,120,1,28,191,2,5,8,4,36,0,0
+2018-09-29,Brigham Young,Ind,A,Washington,L,7,35,18,21,160,0,28,34,1,6,1,8,50,1,0
+2018-10-05,Brigham Young,Ind,H,Utah State,L,20,45,30,49,322,3,16,39,0,14,2,6,50,2,1
+2018-10-13,Brigham Young,Ind,H,Hawaii,W,49,23,16,24,194,3,47,280,4,11,14,6,55,0,1
+2018-10-27,Brigham Young,Ind,H,Northern Illinois,L,6,7,18,30,208,0,37,93,0,9,5,7,52,0,1
+2018-11-03,Brigham Young,Ind,A,Boise State,L,16,21,19,29,292,0,38,96,1,12,7,8,58,3,0
+2018-11-10,Brigham Young,Ind,A,Massachusetts,W,35,16,14,23,167,2,38,225,3,7,12,2,20,1,0
+2018-11-17,Brigham Young,Ind,H,New Mexico State,W,45,10,13,29,193,0,51,317,6,9,15,2,20,1,1
+2018-11-24,Brigham Young,Ind,A,Utah,L,27,35,20,29,204,2,47,153,2,8,9,3,22,0,1
+2018-12-21,Brigham Young,Ind,N,Western Michigan,W,49,18,19,19,358,4,33,132,3,12,7,6,55,1,0
+2018-09-01,Florida Atlantic,CUSA,A,Oklahoma,L,14,63,18,32,192,0,42,132,2,11,7,6,48,0,1
+2018-09-08,Florida Atlantic,CUSA,H,Air Force,W,33,27,33,40,471,3,29,54,1,21,3,8,87,1,0
+2018-09-21,Florida Atlantic,CUSA,A,UCF,L,36,56,14,27,127,1,50,320,4,5,18,7,73,0,3
+2018-09-29,Florida Atlantic,CUSA,A,Middle Tennessee State,L,24,25,17,28,154,0,55,272,3,8,12,8,54,1,1
+2018-10-06,Florida Atlantic,CUSA,H,Old Dominion,W,52,33,21,32,339,2,40,266,5,15,13,8,84,0,0
+2018-10-20,Florida Atlantic,CUSA,A,Marshall,L,7,31,20,42,240,1,37,119,0,9,6,8,69,1,4
+2018-10-26,Florida Atlantic,CUSA,H,Louisiana Tech,L,13,21,17,29,121,0,38,227,1,6,14,11,77,1,1
+2018-11-03,Florida Atlantic,CUSA,A,Florida International,W,49,14,10,16,157,2,60,439,5,5,23,5,55,0,0
+2018-11-10,Florida Atlantic,CUSA,H,Western Kentucky,W,34,15,20,25,261,0,58,315,4,10,18,6,70,1,1
+2018-11-15,Florida Atlantic,CUSA,A,North Texas,L,38,41,21,35,294,2,47,195,3,9,10,5,58,0,2
+2018-11-24,Florida Atlantic,CUSA,H,Charlotte,L,24,27,16,28,305,2,49,187,1,9,12,1,10,1,0
+2018-09-01,South Alabama,Sun Belt,H,Louisiana Tech,L,26,30,11,23,91,1,43,217,3,4,10,7,82,2,2
+2018-09-08,South Alabama,Sun Belt,A,Oklahoma State,L,13,55,17,34,136,1,37,78,1,5,5,12,85,0,1
+2018-09-15,South Alabama,Sun Belt,H,Texas State,W,41,31,24,33,266,2,27,116,2,7,4,15,143,3,0
+2018-09-22,South Alabama,Sun Belt,A,Memphis,L,35,52,24,32,360,3,36,107,2,11,7,8,83,2,0
+2018-09-29,South Alabama,Sun Belt,A,Appalachian State,L,7,52,20,33,225,0,35,83,1,10,4,9,91,0,1
+2018-10-06,South Alabama,Sun Belt,A,Georgia Southern,L,13,48,19,31,197,0,39,129,1,7,7,10,90,2,2
+2018-10-23,South Alabama,Sun Belt,H,Troy,L,17,38,18,30,275,2,45,110,0,14,8,7,91,0,3
+2018-11-03,South Alabama,Sun Belt,A,Arkansas State,L,14,38,12,22,93,2,46,156,0,8,7,6,64,0,0
+2018-11-10,South Alabama,Sun Belt,H,Louisiana-Monroe,L,10,38,14,23,129,1,31,89,0,5,5,5,36,0,0
+2018-11-17,South Alabama,Sun Belt,A,Louisiana,L,38,48,18,28,254,2,57,223,3,10,13,9,61,2,1
+2018-11-23,South Alabama,Sun Belt,H,Coastal Carolina,W,31,28,10,13,202,3,51,331,1,6,13,12,101,1,0
+2018-09-08,Memphis,American,A,Navy,L,21,22,15,25,145,0,24,233,3,8,6,4,20,3,1
+2018-09-14,Memphis,American,H,Georgia State,W,59,22,19,27,269,5,35,410,3,14,13,10,79,0,1
+2018-09-22,Memphis,American,H,South Alabama,W,52,35,22,30,292,2,46,271,5,14,14,5,50,0,0
+2018-09-28,Memphis,American,A,Tulane,L,24,40,14,30,246,2,21,31,1,8,2,4,20,0,0
+2018-10-06,Memphis,American,H,Connecticut,W,55,14,17,19,256,2,40,378,6,9,16,9,90,0,0
+2018-10-13,Memphis,American,H,UCF,L,30,31,17,29,209,0,52,281,3,10,14,7,43,2,0
+2018-10-20,Memphis,American,A,Missouri,L,33,65,15,38,208,2,43,200,2,12,9,8,65,0,2
+2018-11-03,Memphis,American,A,East Carolina,W,59,41,21,30,362,3,52,277,5,11,14,9,56,0,0
+2018-11-10,Memphis,American,H,Tulsa,W,47,21,16,23,202,2,55,297,3,10,14,8,79,1,0
+2018-11-16,Memphis,American,A,SMU,W,28,18,18,31,226,2,43,208,2,12,7,12,143,0,2
+2018-11-23,Memphis,American,H,Houston,W,52,31,21,33,209,1,59,401,6,10,19,5,32,0,2
+2018-12-01,Memphis,American,A,UCF,L,41,56,18,30,182,1,45,401,4,9,14,10,79,0,1
+2018-12-22,Memphis,American,N,Wake Forest,L,34,37,15,29,171,1,53,207,2,8,12,3,20,0,1
+2018-08-31,Army,Ind,A,Duke,L,14,34,10,21,197,1,47,168,1,7,11,7,69,2,0
+2018-09-08,Army,Ind,H,Liberty,W,38,14,2,8,61,1,74,449,4,2,24,7,100,0,0
+2018-09-15,Army,Ind,H,Hawaii,W,28,21,6,10,162,0,66,303,4,6,12,5,70,0,0
+2018-09-22,Army,Ind,A,Oklahoma,L,21,28,3,9,40,0,78,339,3,3,22,6,50,0,2
+2018-09-29,Army,Ind,A,Buffalo,W,42,13,4,5,91,1,64,281,4,3,19,7,73,0,1
+2018-10-13,Army,Ind,N,San Jose State,W,52,3,2,5,54,1,65,341,5,2,19,3,15,0,0
+2018-10-20,Army,Ind,H,Miami (OH),W,31,30,0,2,0,0,74,347,4,0,19,1,5,0,0
+2018-10-27,Army,Ind,A,Eastern Michigan,W,37,22,7,8,126,2,73,289,2,4,18,3,25,0,0
+2018-11-03,Army,Ind,H,Air Force,W,17,14,3,5,44,0,59,242,2,0,15,5,69,0,0
+2018-12-08,Army,Ind,N,Navy,W,17,10,4,9,61,0,50,222,2,3,9,3,25,0,0
+2018-12-22,Army,Ind,N,Houston,W,70,14,4,4,85,1,58,507,8,2,24,7,60,1,0
+2018-09-01,Auburn,SEC,N,Washington,W,21,16,26,36,273,1,45,147,1,17,8,12,111,0,0
+2018-09-15,Auburn,SEC,H,LSU,L,21,22,16,28,198,1,38,130,2,10,5,9,111,0,2
+2018-09-22,Auburn,SEC,H,Arkansas,W,34,3,15,22,134,0,36,91,3,6,6,7,40,0,0
+2018-09-29,Auburn,SEC,H,Southern Mississippi,W,24,13,19,33,245,2,36,96,1,8,7,9,78,1,0
+2018-10-06,Auburn,SEC,A,Mississippi State,L,9,23,19,38,214,0,21,90,0,9,5,2,10,2,0
+2018-10-13,Auburn,SEC,H,Tennessee,L,24,30,28,45,322,2,34,126,1,13,8,5,38,1,2
+2018-10-20,Auburn,SEC,A,Ole Miss,W,31,16,13,22,215,1,46,269,3,5,15,8,80,0,0
+2018-11-03,Auburn,SEC,H,Texas A&M,W,28,24,19,30,259,3,21,19,1,11,2,6,39,0,0
+2018-11-10,Auburn,SEC,A,Georgia,L,10,27,25,37,172,1,20,102,0,10,6,6,52,0,0
+2018-11-17,Auburn,SEC,H,Liberty,W,53,0,14,21,191,2,61,340,3,8,22,3,25,0,0
+2018-11-24,Auburn,SEC,A,Alabama,L,21,52,15,32,153,2,43,130,1,5,10,9,88,0,1
+2018-12-28,Auburn,SEC,N,Purdue,W,63,14,16,23,378,5,52,208,3,9,13,3,35,0,0
+2018-09-01,Marshall,CUSA,A,Miami (OH),W,35,28,24,37,272,2,38,171,3,11,11,7,62,0,0
+2018-09-22,Marshall,CUSA,H,North Carolina State,L,20,37,22,43,270,1,22,54,0,11,3,4,20,1,2
+2018-09-29,Marshall,CUSA,A,Western Kentucky,W,20,17,18,39,288,2,33,113,0,11,6,6,70,1,3
+2018-10-05,Marshall,CUSA,H,Middle Tennessee State,L,24,34,17,35,173,2,53,209,1,9,14,6,59,2,1
+2018-10-13,Marshall,CUSA,A,Old Dominion,W,42,20,18,29,182,1,45,319,5,9,13,8,101,0,1
+2018-10-20,Marshall,CUSA,H,Florida Atlantic,W,31,7,13,24,102,2,48,233,2,4,14,5,55,0,0
+2018-11-03,Marshall,CUSA,A,Southern Mississippi,L,24,26,17,38,218,1,22,31,1,9,4,7,79,3,2
+2018-11-10,Marshall,CUSA,H,Charlotte,W,30,13,15,26,178,1,38,147,2,8,8,3,20,1,0
+2018-11-17,Marshall,CUSA,H,UTSA,W,23,0,19,36,387,2,37,118,0,14,6,6,49,0,0
+2018-11-24,Marshall,CUSA,A,Florida International,W,28,25,18,27,176,2,32,154,0,10,10,6,60,0,2
+2018-12-01,Marshall,CUSA,A,Virginia Tech,L,20,41,19,34,220,1,35,232,2,11,7,11,67,1,1
+2018-12-20,Marshall,CUSA,A,South Florida,W,38,20,17,26,221,0,44,282,5,12,12,8,75,0,0
+2018-09-08,UTEP,CUSA,A,Nevada-Las Vegas,L,24,52,11,29,123,0,37,265,3,6,13,8,67,2,1
+2018-09-15,UTEP,CUSA,A,Tennessee,L,0,24,9,23,39,0,28,95,0,2,4,6,42,0,0
+2018-09-22,UTEP,CUSA,H,New Mexico State,L,20,27,10,16,194,1,64,235,1,8,14,10,73,2,1
+2018-09-29,UTEP,CUSA,A,UTSA,L,21,30,11,19,143,1,44,154,2,6,8,5,41,1,1
+2018-10-06,UTEP,CUSA,H,North Texas,L,24,27,16,33,313,2,28,104,1,10,7,4,26,0,2
+2018-10-20,UTEP,CUSA,A,Louisiana Tech,L,24,31,19,33,284,1,37,72,2,13,3,6,60,0,1
+2018-10-27,UTEP,CUSA,H,UAB,L,0,19,12,20,101,0,28,19,0,4,3,6,60,0,0
+2018-11-03,UTEP,CUSA,A,Rice,W,34,26,14,24,210,0,45,200,5,10,10,3,13,1,1
+2018-11-10,UTEP,CUSA,H,Middle Tennessee State,L,32,48,18,39,218,2,29,115,2,9,5,1,15,1,2
+2018-11-17,UTEP,CUSA,A,Western Kentucky,L,16,40,15,34,342,2,20,50,0,9,2,3,30,0,5
+2018-11-24,UTEP,CUSA,H,Southern Mississippi,L,7,39,11,23,114,1,31,73,0,7,4,2,15,1,3
+2018-09-02,LSU,SEC,N,Miami (FL),W,33,17,11,24,140,0,37,156,2,5,8,6,62,0,0
+2018-09-15,LSU,SEC,A,Auburn,W,22,21,15,35,249,1,42,121,1,11,4,9,91,0,0
+2018-09-22,LSU,SEC,H,Louisiana Tech,W,38,21,16,28,191,0,48,218,5,8,16,4,45,1,0
+2018-09-29,LSU,SEC,H,Ole Miss,W,45,16,18,25,292,3,50,281,3,10,16,5,40,2,0
+2018-10-06,LSU,SEC,A,Florida,L,19,27,19,34,192,0,41,180,2,8,9,8,75,1,2
+2018-10-13,LSU,SEC,H,Georgia,W,36,16,15,30,200,0,51,275,3,9,10,2,19,0,0
+2018-10-20,LSU,SEC,H,Mississippi State,W,19,3,16,28,129,0,44,110,1,6,9,5,53,0,1
+2018-11-03,LSU,SEC,H,Alabama,L,0,29,18,35,184,0,25,12,0,8,3,3,15,0,1
+2018-11-10,LSU,SEC,A,Arkansas,W,24,17,15,21,195,1,48,164,2,9,9,7,69,1,0
+2018-11-17,LSU,SEC,H,Rice,W,42,10,24,34,372,2,35,180,4,20,10,3,26,1,0
+2018-11-24,LSU,SEC,A,Texas A&M,L,72,74,26,39,281,4,51,215,4,17,13,10,70,1,0
+2019-01-01,LSU,SEC,N,UCF,W,40,32,21,34,394,4,52,161,0,16,12,14,145,1,1
+2018-09-08,Tulsa,American,A,Texas,L,21,28,13,26,164,1,38,189,2,7,9,6,45,0,2
+2018-09-15,Tulsa,American,H,Arkansas State,L,20,29,19,27,172,1,42,167,1,7,10,8,64,2,1
+2018-09-20,Tulsa,American,A,Temple,L,17,31,22,41,195,0,66,208,2,12,18,8,73,2,3
+2018-10-04,Tulsa,American,A,Houston,L,26,41,13,31,227,1,57,199,1,8,11,9,85,2,1
+2018-10-12,Tulsa,American,H,South Florida,L,24,25,6,21,79,1,49,220,2,5,10,10,81,0,0
+2018-10-20,Tulsa,American,A,Arkansas,L,0,23,8,25,127,0,40,133,0,5,9,4,43,1,1
+2018-10-27,Tulsa,American,H,Tulane,L,17,24,12,26,180,1,35,135,1,8,8,8,57,1,0
+2018-11-03,Tulsa,American,H,Connecticut,W,49,19,9,14,168,4,57,470,3,7,18,6,60,1,0
+2018-11-10,Tulsa,American,A,Memphis,L,21,47,14,26,140,1,41,112,2,9,5,6,46,1,0
+2018-11-17,Tulsa,American,A,Navy,L,29,37,19,28,206,0,44,164,4,11,10,7,75,1,1
+2018-11-24,Tulsa,American,H,SMU,W,27,24,21,28,271,1,46,151,2,12,7,5,40,0,1
+2018-09-08,Air Force,MWC,A,Florida Atlantic,L,27,33,8,13,164,1,56,209,2,5,11,5,50,0,1
+2018-09-22,Air Force,MWC,A,Utah State,L,32,42,11,21,148,0,86,323,3,5,21,7,65,1,0
+2018-09-29,Air Force,MWC,H,Nevada,L,25,28,8,19,96,1,51,154,1,5,10,5,40,2,0
+2018-10-06,Air Force,MWC,H,Navy,W,35,7,6,10,142,1,55,257,4,6,10,3,32,0,0
+2018-10-12,Air Force,MWC,A,San Diego State,L,17,21,8,17,62,0,51,214,2,4,9,5,56,0,1
+2018-10-19,Air Force,MWC,A,Nevada-Las Vegas,W,41,35,9,11,217,1,52,355,4,7,17,9,76,2,0
+2018-10-27,Air Force,MWC,H,Boise State,L,38,48,11,16,242,3,51,201,2,9,13,4,25,0,0
+2018-11-03,Air Force,MWC,A,Army,L,14,17,12,22,197,0,35,125,2,8,7,5,55,0,1
+2018-11-10,Air Force,MWC,H,New Mexico,W,42,24,5,6,145,2,67,478,4,4,23,2,11,3,0
+2018-11-17,Air Force,MWC,A,Wyoming,L,27,35,5,9,53,0,65,362,3,3,22,5,66,0,2
+2018-11-22,Air Force,MWC,H,Colorado State,W,27,19,8,16,81,1,67,393,2,4,23,1,15,0,0
+2018-09-01,Oregon,Pac-12,H,Bowling Green State,W,58,24,11,26,292,5,42,212,2,8,11,3,35,1,2
+2018-09-15,Oregon,Pac-12,H,San Jose State,W,35,22,16,36,309,3,49,134,2,12,7,6,59,0,2
+2018-09-22,Oregon,Pac-12,H,Stanford,L,31,38,26,33,346,1,49,178,3,15,10,4,32,1,1
+2018-09-29,Oregon,Pac-12,A,California,W,42,24,16,22,225,2,42,260,2,9,11,7,72,1,0
+2018-10-13,Oregon,Pac-12,H,Washington,W,30,27,18,32,202,2,49,177,2,11,11,7,70,1,0
+2018-10-20,Oregon,Pac-12,A,Washington State,L,20,34,25,44,270,1,23,65,1,13,5,6,44,0,0
+2018-10-27,Oregon,Pac-12,A,Arizona,L,15,44,24,48,186,2,23,84,0,12,4,6,53,2,1
+2018-11-03,Oregon,Pac-12,H,UCLA,W,42,21,19,33,292,2,42,200,3,11,8,1,15,0,0
+2018-11-10,Oregon,Pac-12,A,Utah,L,25,32,20,33,288,3,32,117,0,11,5,7,63,1,0
+2018-11-17,Oregon,Pac-12,H,Arizona State,W,31,29,19,34,262,2,39,199,2,10,10,6,55,2,2
+2018-11-23,Oregon,Pac-12,A,Oregon State,W,55,15,10,14,118,1,62,392,6,6,19,0,0,0,0
+2018-12-31,Oregon,Pac-12,N,Michigan State,W,7,6,19,33,166,1,27,37,0,8,2,2,15,0,0
+2018-09-01,Tennessee,SEC,N,West Virginia,L,14,40,19,25,172,1,38,129,1,9,9,6,48,0,0
+2018-09-15,Tennessee,SEC,H,UTEP,W,24,0,13,19,167,1,50,345,2,9,14,8,65,2,0
+2018-09-22,Tennessee,SEC,H,Florida,L,21,47,10,25,208,0,52,161,2,6,6,6,58,4,2
+2018-09-29,Tennessee,SEC,A,Georgia,L,12,38,13,21,143,2,25,66,0,5,4,5,25,1,0
+2018-10-13,Tennessee,SEC,A,Auburn,W,30,24,21,32,328,2,35,70,0,12,4,5,40,0,0
+2018-10-20,Tennessee,SEC,H,Alabama,L,21,58,14,25,227,2,30,31,0,9,2,9,59,1,0
+2018-10-27,Tennessee,SEC,A,South Carolina,L,24,27,27,39,207,2,34,144,1,12,10,9,75,0,0
+2018-11-03,Tennessee,SEC,H,Charlotte,W,14,3,16,21,172,1,26,20,0,7,2,4,55,0,0
+2018-11-10,Tennessee,SEC,H,Kentucky,W,24,7,12,20,197,2,38,219,1,7,8,4,30,2,0
+2018-11-17,Tennessee,SEC,H,Missouri,L,17,50,7,21,173,0,28,82,2,5,3,6,59,1,2
+2018-11-24,Tennessee,SEC,A,Vanderbilt,L,13,38,13,33,139,1,14,103,1,7,3,3,25,0,1
+2018-08-25,Colorado State,MWC,H,Hawaii,L,34,43,34,50,537,5,25,116,0,22,5,12,120,0,1
+2018-08-31,Colorado State,MWC,N,Colorado,L,13,45,19,37,181,1,39,103,0,10,8,5,35,0,1
+2018-09-08,Colorado State,MWC,H,Arkansas,W,34,27,32,50,389,2,23,40,1,14,5,6,54,1,1
+2018-09-15,Colorado State,MWC,A,Florida,L,10,48,23,41,240,1,41,73,0,11,8,6,33,3,0
+2018-10-06,Colorado State,MWC,A,San Jose State,W,42,30,15,29,172,4,45,219,1,8,11,8,61,0,2
+2018-10-13,Colorado State,MWC,H,New Mexico,W,20,18,24,42,311,1,41,112,1,12,10,10,65,0,0
+2018-10-19,Colorado State,MWC,A,Boise State,L,28,56,31,44,373,3,25,116,1,16,9,7,60,1,2
+2018-10-26,Colorado State,MWC,H,Wyoming,L,21,34,34,54,333,0,20,20,3,19,3,3,26,1,2
+2018-11-10,Colorado State,MWC,A,Nevada,L,10,49,23,40,186,1,33,74,0,9,3,9,73,0,1
+2018-11-17,Colorado State,MWC,H,Utah State,L,24,29,25,38,307,2,44,199,1,17,8,11,108,0,2
+2018-11-22,Colorado State,MWC,A,Air Force,L,19,27,19,32,373,3,24,64,0,15,4,8,75,0,2
+2018-08-31,Michigan State,Big Ten,H,Utah State,W,38,31,23,33,287,2,42,165,2,11,9,9,62,1,1
+2018-09-08,Michigan State,Big Ten,A,Arizona State,L,13,16,27,39,314,1,27,63,0,17,5,9,82,0,1
+2018-09-22,Michigan State,Big Ten,A,Indiana,W,35,21,15,26,219,2,40,131,2,11,6,8,72,2,2
+2018-09-29,Michigan State,Big Ten,H,Central Michigan,W,31,20,16,25,185,0,47,160,4,9,11,5,55,0,1
+2018-10-06,Michigan State,Big Ten,H,Northwestern,L,19,29,31,51,329,1,24,96,1,17,4,5,49,0,1
+2018-10-13,Michigan State,Big Ten,A,Penn State,W,21,17,25,53,295,2,36,123,1,17,5,3,20,0,1
+2018-10-20,Michigan State,Big Ten,H,Michigan,L,7,21,7,28,79,1,23,15,0,4,2,4,40,1,0
+2018-10-27,Michigan State,Big Ten,H,Purdue,W,23,13,26,46,318,2,40,108,0,18,8,6,61,1,0
+2018-11-03,Michigan State,Big Ten,A,Maryland,W,24,3,11,22,87,0,46,269,3,5,13,4,33,0,2
+2018-11-10,Michigan State,Big Ten,H,Ohio State,L,6,26,18,48,220,0,18,54,0,9,3,7,46,2,1
+2018-11-17,Michigan State,Big Ten,A,Nebraska,L,6,9,15,41,146,0,38,143,0,7,8,7,87,1,1
+2018-11-24,Michigan State,Big Ten,H,Rutgers,W,14,10,19,44,173,1,38,137,1,12,8,6,69,0,2
+2018-12-31,Michigan State,Big Ten,N,Oregon,L,6,7,22,40,172,0,46,159,0,9,10,5,35,0,1
+2018-09-01,Boston College,ACC,H,Massachusetts,W,55,21,21,27,326,4,59,273,3,14,16,7,38,0,0
+2018-09-13,Boston College,ACC,A,Wake Forest,W,41,34,16,25,304,5,44,220,1,9,9,4,35,1,0
+2018-09-22,Boston College,ACC,A,Purdue,L,13,30,15,29,144,1,34,85,1,7,7,7,60,0,4
+2018-09-29,Boston College,ACC,H,Temple,W,45,35,16,34,148,3,66,275,3,9,13,10,79,2,0
+2018-10-06,Boston College,ACC,A,North Carolina State,L,23,28,14,25,198,1,25,120,1,6,6,6,37,1,0
+2018-10-13,Boston College,ACC,H,Louisville,W,38,20,16,22,179,1,61,251,3,6,14,7,60,2,0
+2018-10-26,Boston College,ACC,H,Miami (FL),W,27,14,17,30,210,1,53,223,2,10,11,8,70,0,1
+2018-11-03,Boston College,ACC,A,Virginia Tech,W,31,21,15,26,177,1,49,219,3,8,10,4,39,1,0
+2018-11-10,Boston College,ACC,H,Clemson,L,7,27,14,24,104,0,33,9,0,6,2,6,42,0,0
+2018-11-17,Boston College,ACC,A,Florida State,L,21,22,18,38,297,1,49,125,2,13,7,5,40,0,2
+2018-11-24,Boston College,ACC,H,Syracuse,L,21,42,17,37,251,3,32,105,0,11,5,6,50,2,2
+2018-09-01,Ole Miss,SEC,N,Texas Tech,W,47,27,22,32,336,2,28,210,2,12,7,7,49,1,0
+2018-09-15,Ole Miss,SEC,H,Alabama,L,7,62,7,22,133,1,37,115,0,3,5,8,67,1,2
+2018-09-22,Ole Miss,SEC,H,Kent State,W,38,17,28,38,442,2,37,209,3,16,9,8,90,0,1
+2018-09-29,Ole Miss,SEC,A,LSU,L,16,45,19,38,178,0,31,150,1,8,9,17,167,0,1
+2018-10-06,Ole Miss,SEC,H,Louisiana-Monroe,W,70,21,31,34,517,5,38,309,5,22,12,7,73,0,0
+2018-10-13,Ole Miss,SEC,A,Arkansas,W,37,33,26,35,387,2,38,224,3,15,15,4,50,0,1
+2018-10-20,Ole Miss,SEC,H,Auburn,L,16,31,27,47,324,1,39,123,0,14,11,6,35,0,0
+2018-11-03,Ole Miss,SEC,H,South Carolina,L,44,48,31,48,379,0,50,237,5,18,14,4,35,1,0
+2018-11-10,Ole Miss,SEC,A,Texas A&M,L,24,38,22,35,373,1,30,67,1,13,4,5,48,1,0
+2018-11-17,Ole Miss,SEC,A,Vanderbilt,L,29,36,32,52,457,2,30,121,0,18,7,10,89,0,2
+2018-11-22,Ole Miss,SEC,H,Mississippi State,L,3,35,13,25,152,0,28,47,0,7,4,3,24,1,2
+2018-08-31,Duke,ACC,H,Army,W,34,14,13,17,197,1,35,184,3,8,9,4,30,1,0
+2018-09-08,Duke,ACC,A,Northwestern,W,21,7,18,24,204,3,39,97,0,8,6,4,42,0,0
+2018-09-15,Duke,ACC,A,Baylor,W,40,27,12,30,174,3,44,225,1,7,12,0,0,0,0
+2018-09-29,Duke,ACC,H,Virginia Tech,L,14,31,25,39,256,1,36,71,1,12,6,3,15,0,1
+2018-10-13,Duke,ACC,A,Georgia Tech,W,28,14,17,27,206,3,33,98,1,9,10,3,15,2,1
+2018-10-20,Duke,ACC,H,Virginia,L,14,28,23,42,262,2,27,58,0,13,5,6,67,0,2
+2018-10-27,Duke,ACC,A,Pitt,L,45,54,27,43,396,4,34,223,2,19,8,4,36,1,0
+2018-11-03,Duke,ACC,A,Miami (FL),W,20,12,19,37,144,1,30,146,1,6,5,3,25,0,1
+2018-11-10,Duke,ACC,H,North Carolina,W,42,35,31,54,361,3,35,268,3,15,10,6,40,2,1
+2018-11-17,Duke,ACC,A,Clemson,L,6,35,24,44,158,0,35,104,0,5,10,6,52,0,0
+2018-11-24,Duke,ACC,H,Wake Forest,L,7,59,17,36,145,1,34,106,0,9,6,3,25,3,1
+2018-12-27,Duke,ACC,N,Temple,W,56,27,32,44,440,5,39,123,3,15,7,4,30,0,3
+2018-09-01,Kent State,MAC,A,Illinois,L,24,31,28,41,270,2,42,184,1,12,12,5,38,0,2
+2018-09-15,Kent State,MAC,A,Penn State,L,10,63,21,40,180,1,37,41,0,8,7,10,83,0,0
+2018-09-22,Kent State,MAC,A,Ole Miss,L,17,38,25,43,242,1,41,148,1,9,11,7,55,1,1
+2018-09-29,Kent State,MAC,A,Ball State,L,24,52,30,44,314,1,41,147,2,16,6,17,142,2,1
+2018-10-06,Kent State,MAC,H,Ohio,L,26,27,27,35,271,2,36,201,0,12,10,11,100,1,2
+2018-10-13,Kent State,MAC,A,Miami (OH),L,6,31,15,29,149,0,31,125,1,7,6,10,70,0,1
+2018-10-20,Kent State,MAC,H,Akron,L,23,24,17,31,198,1,43,173,2,8,8,6,46,0,0
+2018-10-30,Kent State,MAC,A,Bowling Green State,W,35,28,14,24,157,2,50,225,3,6,13,11,86,1,0
+2018-11-06,Kent State,MAC,A,Buffalo,L,14,48,14,28,83,1,40,100,1,5,7,4,35,0,0
+2018-11-15,Kent State,MAC,H,Toledo,L,34,56,24,41,314,2,35,183,2,11,6,8,69,0,1
+2018-11-23,Kent State,MAC,H,Eastern Michigan,L,20,28,19,35,209,0,45,179,1,6,11,4,45,2,1
+2018-09-01,Old Dominion,CUSA,A,Liberty,L,10,52,18,34,172,0,39,129,1,9,6,8,75,2,0
+2018-09-08,Old Dominion,CUSA,H,Florida International,L,20,28,19,37,303,2,27,93,0,11,4,3,35,0,0
+2018-09-13,Old Dominion,CUSA,A,Charlotte,L,25,28,16,28,215,1,28,123,3,9,5,3,28,0,2
+2018-09-22,Old Dominion,CUSA,H,Virginia Tech,W,49,35,30,50,495,4,34,137,3,19,7,2,10,0,0
+2018-09-29,Old Dominion,CUSA,A,East Carolina,L,35,37,21,36,250,2,35,21,2,10,3,5,50,0,1
+2018-10-06,Old Dominion,CUSA,A,Florida Atlantic,L,33,52,39,51,390,2,36,118,3,22,8,3,25,0,2
+2018-10-13,Old Dominion,CUSA,H,Marshall,L,20,42,31,54,296,2,31,106,0,15,6,7,70,1,1
+2018-10-20,Old Dominion,CUSA,A,Western Kentucky,W,37,34,21,33,327,1,42,181,3,12,13,9,95,2,0
+2018-10-27,Old Dominion,CUSA,H,Middle Tennessee State,L,17,51,26,35,333,2,35,187,0,11,9,9,101,2,3
+2018-11-10,Old Dominion,CUSA,H,North Texas,W,34,31,21,43,301,2,34,58,2,12,4,5,45,0,1
+2018-11-24,Old Dominion,CUSA,A,Rice,L,13,27,33,54,312,1,26,77,0,16,4,4,34,1,2
+2018-09-01,Navy,American,A,Hawaii,L,41,59,6,13,85,1,49,326,5,6,13,2,18,0,0
+2018-09-08,Navy,American,H,Memphis,W,22,21,4,6,52,0,73,264,3,3,16,1,10,1,0
+2018-09-22,Navy,American,A,SMU,L,30,31,1,4,25,1,78,349,3,1,22,2,25,3,0
+2018-10-06,Navy,American,A,Air Force,L,7,35,3,12,49,0,41,129,1,2,7,4,40,0,0
+2018-10-13,Navy,American,H,Temple,L,17,24,3,11,14,0,53,270,2,1,14,6,40,1,0
+2018-10-20,Navy,American,H,Houston,L,36,49,10,16,178,1,68,344,4,6,19,3,32,0,1
+2018-10-27,Navy,American,N,Notre Dame,L,22,44,4,12,52,0,48,292,3,2,11,4,16,1,1
+2018-11-03,Navy,American,A,Cincinnati,L,0,42,3,4,47,0,52,124,0,2,9,3,31,1,0
+2018-11-10,Navy,American,A,UCF,L,24,35,0,2,0,0,62,375,3,0,19,4,30,1,0
+2018-11-17,Navy,American,H,Tulsa,W,37,29,1,2,15,0,61,395,5,1,18,4,45,1,0
+2018-11-24,Navy,American,A,Tulane,L,28,29,8,16,204,2,45,117,1,6,7,2,10,0,0
+2018-12-08,Navy,American,N,Army,L,10,17,5,17,81,0,37,127,1,4,5,5,30,2,2
+2018-09-08,Fresno State,MWC,A,Minnesota,L,14,21,24,34,212,2,24,87,0,9,3,4,40,0,2
+2018-09-15,Fresno State,MWC,A,UCLA,W,38,14,22,33,270,1,49,156,4,12,8,8,53,2,0
+2018-09-29,Fresno State,MWC,H,Toledo,W,49,27,24,32,368,4,38,186,2,16,7,3,45,0,1
+2018-10-06,Fresno State,MWC,A,Nevada,W,21,3,20,28,241,2,24,30,1,9,3,4,30,1,0
+2018-10-13,Fresno State,MWC,H,Wyoming,W,27,3,22,32,287,2,33,104,2,11,6,5,45,0,0
+2018-10-20,Fresno State,MWC,A,New Mexico,W,38,7,20,30,280,3,43,153,2,16,9,6,35,0,0
+2018-10-27,Fresno State,MWC,H,Hawaii,W,50,20,26,38,348,4,33,214,1,14,10,8,69,0,0
+2018-11-03,Fresno State,MWC,A,Nevada-Las Vegas,W,48,3,26,35,274,2,34,192,4,16,8,5,40,0,1
+2018-11-09,Fresno State,MWC,A,Boise State,L,17,24,24,35,283,1,28,107,1,14,6,9,61,0,0
+2018-11-17,Fresno State,MWC,H,San Diego State,W,23,14,17,24,267,1,43,123,2,6,9,3,40,0,0
+2018-11-24,Fresno State,MWC,H,San Jose State,W,31,13,20,29,317,2,36,198,1,10,8,5,58,2,0
+2018-12-01,Fresno State,MWC,A,Boise State,W,19,16,20,32,170,1,33,118,1,8,4,6,50,2,0
+2018-12-15,Fresno State,MWC,N,Arizona State,W,31,20,15,29,176,0,35,260,3,7,11,3,20,1,2
+2018-09-01,Texas Tech,Big 12,N,Ole Miss,L,27,47,33,56,322,1,39,154,2,18,10,6,80,0,0
+2018-09-15,Texas Tech,Big 12,H,Houston,W,63,49,43,59,605,5,41,99,4,25,6,9,82,1,0
+2018-09-22,Texas Tech,Big 12,A,Oklahoma State,W,41,17,35,46,397,2,46,224,3,20,11,3,20,0,2
+2018-09-29,Texas Tech,Big 12,H,West Virginia,L,34,42,25,47,295,2,42,168,2,13,13,7,60,0,3
+2018-10-11,Texas Tech,Big 12,A,Texas Christian,W,17,14,15,27,202,1,43,151,1,7,9,12,89,0,1
+2018-10-20,Texas Tech,Big 12,H,Kansas,W,48,16,39,49,441,3,35,112,3,21,7,7,50,2,1
+2018-10-27,Texas Tech,Big 12,A,Iowa State,L,31,40,33,57,333,1,24,30,1,20,4,10,85,0,3
+2018-11-03,Texas Tech,Big 12,H,Oklahoma,L,46,51,30,44,366,4,27,107,2,15,4,7,69,0,0
+2018-11-10,Texas Tech,Big 12,H,Texas,L,34,41,38,48,454,4,33,141,0,22,9,8,89,2,1
+2018-11-17,Texas Tech,Big 12,A,Kansas State,L,6,21,19,30,150,0,26,31,0,8,3,4,37,2,1
+2018-11-24,Texas Tech,Big 12,H,Baylor,L,24,35,21,37,247,2,30,100,1,11,7,8,85,0,2
+2018-08-30,Tulane,American,H,Wake Forest,L,17,23,19,38,283,2,41,153,0,8,9,9,83,1,0
+2018-09-15,Tulane,American,A,UAB,L,24,31,7,26,180,2,40,175,1,6,8,2,25,2,1
+2018-09-22,Tulane,American,A,Ohio State,L,6,49,10,16,156,0,41,107,1,8,5,6,55,0,0
+2018-09-28,Tulane,American,H,Memphis,W,40,24,13,22,178,1,56,318,4,9,13,9,95,0,0
+2018-10-06,Tulane,American,A,Cincinnati,L,21,37,12,31,132,2,38,134,1,5,7,12,90,1,0
+2018-10-20,Tulane,American,H,SMU,L,23,27,14,22,153,0,46,168,2,7,10,10,96,2,1
+2018-10-27,Tulane,American,A,Tulsa,W,24,17,10,19,92,0,55,312,3,5,9,8,70,1,0
+2018-11-03,Tulane,American,A,South Florida,W,41,15,4,11,61,0,52,365,5,1,15,7,52,1,0
+2018-11-10,Tulane,American,H,East Carolina,W,24,18,12,28,372,3,49,163,0,10,7,8,93,1,0
+2018-11-15,Tulane,American,A,Houston,L,17,48,10,24,147,0,43,212,2,6,12,5,43,1,3
+2018-11-24,Tulane,American,H,Navy,W,29,28,18,29,291,3,30,131,1,11,7,2,20,0,1
+2018-12-15,Tulane,American,N,Louisiana,W,41,24,11,18,145,1,68,337,4,8,19,1,5,1,1
+2018-09-01,Houston,American,A,Rice,W,45,27,18,25,320,3,37,251,3,11,10,5,38,2,0
+2018-09-08,Houston,American,H,Arizona,W,45,18,19,40,254,4,40,297,2,11,14,7,56,0,0
+2018-09-15,Houston,American,A,Texas Tech,L,49,63,31,52,462,5,40,173,2,18,8,9,68,0,0
+2018-10-04,Houston,American,H,Tulsa,W,41,26,19,27,165,3,39,314,2,8,11,8,55,1,2
+2018-10-13,Houston,American,A,East Carolina,W,42,20,16,28,249,3,43,157,2,8,8,12,115,0,0
+2018-10-20,Houston,American,A,Navy,W,49,36,25,39,413,3,25,157,3,18,11,3,20,1,1
+2018-10-27,Houston,American,H,South Florida,W,57,36,28,40,419,5,49,263,3,16,16,5,50,0,2
+2018-11-03,Houston,American,A,SMU,L,31,45,11,22,175,2,47,190,1,6,9,6,50,2,0
+2018-11-10,Houston,American,H,Temple,L,49,59,28,47,322,5,44,205,2,14,11,12,90,2,1
+2018-11-15,Houston,American,H,Tulane,W,48,17,17,30,190,3,48,298,3,9,13,6,54,0,1
+2018-11-23,Houston,American,A,Memphis,L,31,52,18,43,256,3,41,138,0,12,9,7,44,0,1
+2018-12-22,Houston,American,N,Army,L,14,70,21,32,230,1,41,87,1,11,10,5,33,2,0
