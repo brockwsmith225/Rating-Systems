@@ -26,7 +26,7 @@ public class Entry {
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
         this.scoreDifference = Math.abs(teamScore - opponentScore);
-        this.weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
+        this.weightedScoreDifference = ((teamScore - opponentScore) / scoreDifference) * (10 + scoreDifference);
         this.week = 0;
     }
 
@@ -49,7 +49,7 @@ public class Entry {
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
         this.scoreDifference = Math.abs(teamScore - opponentScore);
-        this.weightedScoreDifference = (scoreDifference / Math.abs(scoreDifference)) * (10 + Math.abs(scoreDifference));
+        this.weightedScoreDifference = ((teamScore - opponentScore) / scoreDifference) * (10 + scoreDifference);
         this.week = ((int)date.daysSince(startDate) + 7) / 7;
     }
 }

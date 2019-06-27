@@ -68,6 +68,13 @@ public class Matrix {
         return matrix[0].length;
     }
 
+    /**
+     * Returns the value at a particular index in the matrix
+     *
+     * @param row the row of the value
+     * @param column the column of the value
+     * @return the value at the specified index
+     */
     public double get(int row, int column) { return matrix[row][column]; }
 
     /**

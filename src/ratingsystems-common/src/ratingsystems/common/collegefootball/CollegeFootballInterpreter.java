@@ -37,7 +37,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
+        Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
         data.nextLine();
         teams = new HashMap<>();
         groups = new ArrayList<>();
@@ -46,7 +46,6 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         Time startDate = getStartDate(data);
 
-        data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
         while (data.hasNext()) {
             Entry entry = new Entry(data.nextLine(), startDate);
 
@@ -74,7 +73,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         addedGroups = new HashSet<>();
 
         for (int year : years) {
-            Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
+            Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
             data.nextLine();
 
             while (data.hasNext()) {

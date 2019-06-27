@@ -1,19 +1,19 @@
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
-import ser.SimpleEfficiencyRating;
+import rrs.RelativeRatingSystem;
 
 public class Main {
     public static void main(String[] args) {
         try {
-            RatingSystem ser = new SimpleEfficiencyRating(new CollegeFootballInterpreter(), 2018);
-            ser.setup();
-            ser.printTeamRankings();
+            RatingSystem rrs = new RelativeRatingSystem(new CollegeFootballInterpreter(), 2018);
+            rrs.setup();
+            rrs.printTeamRankings();
 
             System.out.println("==========");
 
-            ser = new SimpleEfficiencyRating(new CollegeFootballInterpreter(), 2018, 10);
-            ser.setup();
-            ser.printTeamRankings();
+            rrs = new RelativeRatingSystem(new CollegeFootballInterpreter(), 2018, 10);
+            rrs.setup();
+            rrs.printTeamRankings();
         } catch (Exception e) {
             e.printStackTrace();
         }
