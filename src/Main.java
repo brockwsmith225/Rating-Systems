@@ -1,6 +1,6 @@
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
-import rrs.RelativeRatingSystem;
+import ratingsystems.rrs.RelativeRatingSystem;
 
 public class Main {
     public static void main(String[] args) {

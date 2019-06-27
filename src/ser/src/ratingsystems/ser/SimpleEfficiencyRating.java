@@ -1,4 +1,4 @@
-package ser;
+package ratingsystems.ser;
 
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.datatypes.Game;

@@ -1,11 +1,11 @@
-package rrs;
+package ratingsystems.rrs;
 
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.datatypes.Game;
 import ratingsystems.common.interpreter.datatypes.Team;
 import ratingsystems.common.ratingsystem.RatingSystem;
-import rrs.datatypes.Matrix;
-import rrs.datatypes.Vector;
+import ratingsystems.rrs.datatypes.Matrix;
+import ratingsystems.rrs.datatypes.Vector;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
