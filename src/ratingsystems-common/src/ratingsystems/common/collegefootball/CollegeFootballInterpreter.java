@@ -75,8 +75,8 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         for (int year : years) {
             Scanner data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
+            data.nextLine();
 
-            data = new Scanner(new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv"));
             while (data.hasNext()) {
                 Entry entry = new Entry(data.nextLine());
 
