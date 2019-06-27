@@ -1,4 +1,4 @@
-package ratingsystems.common.runner.datatypes;
+package ratingsystems.common.cli.datatypes;
 
 import java.util.HashMap;
 

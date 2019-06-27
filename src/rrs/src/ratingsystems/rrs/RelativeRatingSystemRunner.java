@@ -1,20 +1,21 @@
 package ratingsystems.rrs;
 
-import ratingsystems.common.runner.Runner;
-import ratingsystems.common.runner.datatypes.Command;
+import ratingsystems.common.cli.Runner;
+import ratingsystems.common.cli.Terminal;
 
 public class RelativeRatingSystemRunner extends Runner {
+    private static final String PREFIX = "[RRS]";
 
-    public RelativeRatingSystemRunner(String[] command) {
-        super(command);
+    public RelativeRatingSystemRunner() {
+        super();
+        //Add RRS specific commands here
+    }
 
-        commands.put("rank", (Command comm) -> {
-
-            return true;
-        });
+    public String getPrefix() {
+        return PREFIX;
     }
 
     public static void main(String[] args) {
-
+        new Terminal(new RelativeRatingSystemRunner()).start();
     }
 }
