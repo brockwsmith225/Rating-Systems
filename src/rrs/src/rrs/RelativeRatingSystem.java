@@ -15,6 +15,7 @@ import java.util.HashSet;
 
 public class RelativeRatingSystem extends RatingSystem {
 
+    private Matrix posMatrix, negMatrix;
     private HashMap<String, Integer> teamNameToIndex;
     private HashMap<Integer, String> teamIndexToName;
 
@@ -52,12 +53,12 @@ public class RelativeRatingSystem extends RatingSystem {
         double[][] negValues = setupNegativeValues();
         double[][] partials = setupPartials();
 
-        Matrix posMatrix = convertToProbabiltyMatrix(posValues);
-        Matrix negMatrix = convertToProbabiltyMatrix(negValues);
+        this.posMatrix = convertToProbabiltyMatrix(posValues);
+        this.negMatrix = convertToProbabiltyMatrix(negValues);
         Matrix partialsMatrix = new Matrix(partials);
 
-        posMatrix = posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
-        negMatrix = negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
+        Matrix posMatrix = this.posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
+        Matrix negMatrix = this.negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
 
         Vector posVector = posMatrix.getEigenvector(1.0);
         Vector negVector = negMatrix.getEigenvector(1.0);
