@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public abstract class Interpreter {
 
@@ -60,12 +61,20 @@ public abstract class Interpreter {
     }
 
     /**
-     * Checks to see if the data file specified by the file path exists
+     * Checks to see if the data file specified by the year
      *
      * @param year the year of the data
      * @return true if the file exists, false otherwise
      */
     abstract public boolean hasData(int year);
+
+    /**
+     * Gets data from the data file specified by the year
+     *
+     * @param year the year of the data
+     * @return a scanner with the data loaded
+     */
+    abstract public Scanner getData(int year) throws FileNotFoundException;
 
     /**
      * Splits the inputted string by the inputted delimiter. Ignores
