@@ -16,7 +16,7 @@ public class Terminal {
     }
 
     public void run(String comm) {
-        Command command = new Command(split(comm, " "));
+        CommandInput command = new CommandInput(split(comm, " "));
 
         if (runner.hasCommand(command.getCommand())) {
             runner.run(command);

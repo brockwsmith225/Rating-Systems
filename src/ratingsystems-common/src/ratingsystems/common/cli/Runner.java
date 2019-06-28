@@ -8,19 +8,19 @@ import java.util.function.Function;
 public class Runner {
     public String prefix;
 
-    protected HashMap<String, Function<Command, Boolean>> commands = new HashMap<>();
+    protected HashMap<String, Function<CommandInput, Boolean>> commands = new HashMap<>();
     protected RatingSystem ratingSystem;
 
     public Runner() {
         prefix = "";
         //Add general rating system commands here
-        commands.put("rank", (Command options) -> {
+        commands.put("rank", (CommandInput options) -> {
             System.out.println();
             ratingSystem.printTeamRankings();
             System.out.println();
             return true;
         });
-        commands.put("predict", (Command options) -> {
+        commands.put("predict", (CommandInput options) -> {
             if (!options.hasArgs(2)) {
                 System.out.println("ERROR: 2 arguments required for predict, " + options.getArgs().size() + " found");
                 return false;
@@ -30,7 +30,7 @@ public class Runner {
         });
     }
 
-    public boolean run(Command command) {
+    public boolean run(CommandInput command) {
         return commands.get(command.getCommand()).apply(command);
     }
 

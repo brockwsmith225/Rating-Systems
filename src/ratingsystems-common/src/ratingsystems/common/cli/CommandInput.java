@@ -3,13 +3,13 @@ package ratingsystems.common.cli;
 import java.util.HashMap;
 import java.util.List;
 
-public class Command {
+public class CommandInput {
     private String command;
     private List<String> args;
 
     private HashMap<String, Boolean> options;
 
-    public Command(String[] command) {
+    public CommandInput(String[] command) {
         this.options = new HashMap<>();
         this.options.put("clean", false);
         this.options.put("pretty-print", false);
