@@ -16,6 +16,9 @@ public class RelativeRatingSystemRunner extends Runner {
             e.printStackTrace();
         }
         ratingSystem.setup();
+
+        //Add RRS specific parameters here
+
         //Add RRS specific commands here
     }
 

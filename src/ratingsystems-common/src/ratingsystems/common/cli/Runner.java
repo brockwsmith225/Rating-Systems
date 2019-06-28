@@ -2,6 +2,7 @@ package ratingsystems.common.cli;
 
 import ratingsystems.common.cli.commands.Command;
 import ratingsystems.common.cli.commands.Rank;
+import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
@@ -10,15 +11,22 @@ import java.util.HashMap;
 public abstract class Runner {
     public String prefix;
 
-    protected HashMap<String, Object> parameters;
+    protected HashMap<String, Interpreter> interpreters;
+    protected HashMap<String, Parameter> parameters;
     protected HashMap<String, Command> commands;
     protected RatingSystem ratingSystem;
 
     public Runner() {
         prefix = "";
 
+        //Add interpreters here
+        interpreters.put("cfb", new CollegeFootballInterpreter());
+
         //Add general rating system parameters here
         parameters = new HashMap<>();
+        parameters.put("YEAR", new Parameter(2018, 1800, 2500));
+        parameters.put("WEEK", new Parameter(50, 0, 50));
+        parameters.put("LEAGUE", new Parameter("cfb", interpreters.keySet()));
 
         //Add general rating system commands here
         commands = new HashMap<>();
@@ -30,11 +38,11 @@ public abstract class Runner {
     }
 
     public Object getParameter(String parameter) {
-        return parameters.get(parameter);
+        return parameters.get(parameter).getValue();
     }
 
     public Interpreter getInterpreter(String interpreter) {
-        return null;
+        return interpreters.get(interpreter);
     }
 
     abstract public RatingSystem loadRatingSystem();
