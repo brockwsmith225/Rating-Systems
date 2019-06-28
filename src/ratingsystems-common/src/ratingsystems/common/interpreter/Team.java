@@ -1,4 +1,4 @@
-package ratingsystems.common.interpreter.datatypes;
+package ratingsystems.common.interpreter;
 
 import java.util.ArrayList;
 import java.util.HashMap;

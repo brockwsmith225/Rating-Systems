@@ -1,7 +1,5 @@
 package ratingsystems.common.interpreter;
 
-import ratingsystems.common.interpreter.datatypes.Team;
-
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashSet;

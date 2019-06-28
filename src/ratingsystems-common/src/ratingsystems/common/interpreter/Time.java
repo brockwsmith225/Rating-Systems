@@ -1,4 +1,4 @@
-package ratingsystems.common.interpreter.datatypes;
+package ratingsystems.common.interpreter;
 
 public class Time implements Comparable<Time> {
     private static final long YEAR_TO_MONTHS = 12;

@@ -1,7 +1,7 @@
-package ratingsystems.common.collegefootball.datatypes;
+package ratingsystems.common.collegefootball;
 
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
-import ratingsystems.common.interpreter.datatypes.Time;
+import ratingsystems.common.interpreter.Time;
 
 public class Entry {
     public Time date;

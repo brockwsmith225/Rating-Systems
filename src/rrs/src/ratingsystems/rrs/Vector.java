@@ -1,4 +1,4 @@
-package ratingsystems.rrs.datatypes;
+package ratingsystems.rrs;
 
 import java.util.Collection;
 

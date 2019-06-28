@@ -1,7 +1,6 @@
 package ratingsystems.common.cli;
 
 import ratingsystems.common.ratingsystem.RatingSystem;
-import ratingsystems.common.cli.datatypes.Command;
 
 import java.util.HashMap;
 import java.util.function.Function;

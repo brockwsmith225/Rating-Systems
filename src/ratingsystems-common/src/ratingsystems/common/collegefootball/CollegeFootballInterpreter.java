@@ -1,10 +1,9 @@
 package ratingsystems.common.collegefootball;
 
-import ratingsystems.common.collegefootball.datatypes.Entry;
 import ratingsystems.common.interpreter.Interpreter;
-import ratingsystems.common.interpreter.datatypes.Game;
-import ratingsystems.common.interpreter.datatypes.Team;
-import ratingsystems.common.interpreter.datatypes.Time;
+import ratingsystems.common.interpreter.Game;
+import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.interpreter.Time;
 
 import java.io.File;
 import java.io.FileNotFoundException;

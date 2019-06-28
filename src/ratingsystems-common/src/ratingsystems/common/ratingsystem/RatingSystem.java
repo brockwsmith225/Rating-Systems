@@ -1,7 +1,7 @@
 package ratingsystems.common.ratingsystem;
 
 import ratingsystems.common.interpreter.Interpreter;
-import ratingsystems.common.interpreter.datatypes.Team;
+import ratingsystems.common.interpreter.Team;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

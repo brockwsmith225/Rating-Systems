@@ -1,8 +1,8 @@
 package ratingsystems.ser;
 
 import ratingsystems.common.interpreter.Interpreter;
-import ratingsystems.common.interpreter.datatypes.Game;
-import ratingsystems.common.interpreter.datatypes.Team;
+import ratingsystems.common.interpreter.Game;
+import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;

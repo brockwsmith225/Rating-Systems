@@ -1,7 +1,5 @@
 package ratingsystems.common.cli;
 
-import ratingsystems.common.cli.datatypes.Command;
-
 import java.util.Scanner;
 
 public class Terminal {
