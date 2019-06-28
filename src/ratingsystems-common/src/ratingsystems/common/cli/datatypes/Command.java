@@ -21,6 +21,7 @@ public class Command {
             } else {
                 if (!commandFound) {
                     this.command = c;
+                    commandFound = true;
                 } else {
                     this.args.add(c);
                 }
@@ -34,6 +35,10 @@ public class Command {
 
     public List<String> getArgs() {
         return args;
+    }
+
+    public boolean hasArgs(int n) {
+        return args.size() >= n;
     }
 
     public boolean getOption(String option) {

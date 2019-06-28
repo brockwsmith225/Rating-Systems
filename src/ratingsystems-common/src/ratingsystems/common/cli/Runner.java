@@ -21,8 +21,13 @@ public class Runner {
             System.out.println();
             return true;
         });
-        commands.put("rank-confs", (Command options) -> {
-            return false;
+        commands.put("predict", (Command options) -> {
+            if (!options.hasArgs(2)) {
+                System.out.println("ERROR: 2 arguments required for predict, " + options.getArgs().size() + " found");
+                return false;
+            }
+            System.out.println(ratingSystem.predictGame(options.getArgs().get(0), options.getArgs().get(1)));
+            return true;
         });
     }
 

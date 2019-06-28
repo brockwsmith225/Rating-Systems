@@ -82,4 +82,13 @@ public abstract class RatingSystem {
             System.out.println(rank + ". " + rankedTeams.get(i).getName() + " " + rankedTeams.get(i).getRating());
         }
     }
+
+    /**
+     * Calculates the odds of a team winning in a given game
+     *
+     * @param team1 the first team in the game
+     * @param team2 the second team in the game
+     * @return the odds that team 1 wins
+     */
+    abstract public double predictGame(String team1, String team2);
 }

@@ -92,6 +92,11 @@ public class RelativeRatingSystem extends RatingSystem {
         Collections.sort(rankedGroups);
     }
 
+    @Override
+    public double predictGame(String team1, String team2) {
+        return 0.0;
+    }
+
 
 
     //========== RelativeRatingSystem only methods ==========
