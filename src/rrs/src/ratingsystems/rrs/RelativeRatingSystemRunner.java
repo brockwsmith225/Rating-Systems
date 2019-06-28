@@ -3,6 +3,7 @@ package ratingsystems.rrs;
 import ratingsystems.common.cli.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
+import ratingsystems.common.ratingsystem.RatingSystem;
 
 public class RelativeRatingSystemRunner extends Runner {
 
@@ -16,6 +17,11 @@ public class RelativeRatingSystemRunner extends Runner {
         }
         ratingSystem.setup();
         //Add RRS specific commands here
+    }
+
+    @Override
+    public RatingSystem loadRatingSystem() {
+        return this.ratingSystem;
     }
 
     public static void main(String[] args) {
