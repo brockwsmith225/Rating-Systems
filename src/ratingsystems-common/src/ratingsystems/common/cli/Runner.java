@@ -1,6 +1,7 @@
 package ratingsystems.common.cli;
 
 import ratingsystems.common.cli.commands.Command;
+import ratingsystems.common.cli.commands.Predict;
 import ratingsystems.common.cli.commands.Rank;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
@@ -20,6 +21,7 @@ public abstract class Runner {
         prefix = "";
 
         //Add interpreters here
+        interpreters = new HashMap<>();
         interpreters.put("cfb", new CollegeFootballInterpreter());
 
         //Add general rating system parameters here
@@ -31,6 +33,7 @@ public abstract class Runner {
         //Add general rating system commands here
         commands = new HashMap<>();
         commands.put("rank", new Rank());
+        commands.put("predict", new Predict());
     }
 
     public void run(CommandInput command) {

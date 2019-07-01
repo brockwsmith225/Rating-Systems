@@ -9,7 +9,7 @@ public class RelativeRatingSystemRunner extends Runner {
 
     public RelativeRatingSystemRunner() {
         super();
-        prefix = "RRS";
+        prefix = " [RRS] ";
         try {
             ratingSystem = new RelativeRatingSystem(new CollegeFootballInterpreter(), 2018);
         } catch (Exception e) {

@@ -10,7 +10,7 @@ public class Terminal {
     }
 
     public void start() {
-        System.out.print(runner.prefix + "$: ");
+        System.out.print(runner.prefix + "> ");
         Scanner input = new Scanner(System.in);
         run(input.nextLine());
     }

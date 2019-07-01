@@ -6,10 +6,7 @@ import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
+import java.util.*;
 
 public class RelativeRatingSystem extends RatingSystem {
 
@@ -92,7 +89,37 @@ public class RelativeRatingSystem extends RatingSystem {
 
     @Override
     public double predictGame(String team1, String team2) {
-        return 0.0;
+        ArrayList<Integer> indices = new ArrayList<>();
+        indices.add(teamNameToIndex.get(team1));
+        indices.add(teamNameToIndex.get(team2));
+
+        System.out.println(this.negMatrix);
+        Matrix posMatrix = removeExtraneousConnections(this.posMatrix, indices);//this.posMatrix.copy();
+        Matrix negMatrix = removeExtraneousConnections(this.negMatrix, indices);//this.negMatrix.copy();
+        Matrix partials = new Matrix(setupPartials());
+        System.out.println(negMatrix);
+
+        posMatrix = posMatrix.multiply(0.9).add(partials.multiply(0.1));
+        negMatrix = negMatrix.multiply(0.9).add(partials.multiply(0.1));
+        System.out.println(negMatrix);
+
+        Vector posVector = posMatrix.getEigenvector(1.0);
+        Vector negVector = negMatrix.getEigenvector(1.0);
+
+        System.out.println(posVector);
+        System.out.println(negVector);
+
+        System.out.println(posVector.get(indices.get(0)));
+        System.out.println(negVector.get(indices.get(0)));
+        System.out.println(posVector.get(indices.get(0)) - negVector.get(indices.get(0)));
+        System.out.println();
+        System.out.println(posVector.get(indices.get(1)));
+        System.out.println(negVector.get(indices.get(1)));
+        System.out.println(posVector.get(indices.get(1)) - negVector.get(indices.get(1)));
+        System.out.println();
+        double total = posVector.get(indices.get(0)) - negVector.get(indices.get(0)) + posVector.get(indices.get(1)) - negVector.get(indices.get(1));
+
+        return (posVector.get(indices.get(0)) - negVector.get(indices.get(0))) / total;
     }
 
 
@@ -215,5 +242,30 @@ public class RelativeRatingSystem extends RatingSystem {
         for (String team : teams.keySet()) {
             teams.get(team).setRating(teams.get(team).getRating("Positive Rating") - teams.get(team).getRating("Negative Rating"));
         }
+    }
+
+    private Matrix removeExtraneousConnections(Matrix matrix, List<Integer> indices) {
+        Matrix matrixCopy = matrix.copy();
+        for (int c = 0; c < matrixCopy.rows(); c++) {
+            if (!indices.contains(c)) {
+                double value = matrixCopy.get(c, c);
+                double count = 0.0;
+                matrixCopy.set(c, c, 0.0);
+                for (int r = 0; r < matrixCopy.rows(); r++) {
+                    if (matrixCopy.get(r, c) > 0) {
+                        count++;
+                    }
+                }
+                value /= count;
+                for (int r = 0; r < matrixCopy.rows(); r++) {
+                    if (matrixCopy.get(r, c) > 0) {
+                        matrixCopy.set(r, c, matrixCopy.get(r, c) + value);
+                    }
+                }
+            } else {
+
+            }
+        }
+        return matrixCopy;
     }
 }

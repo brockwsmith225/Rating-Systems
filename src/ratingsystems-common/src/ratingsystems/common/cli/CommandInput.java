@@ -1,5 +1,6 @@
 package ratingsystems.common.cli;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
@@ -14,8 +15,11 @@ public class CommandInput {
         this.options.put("clean", false);
         this.options.put("pretty-print", false);
 
+        this.args = new ArrayList<>();
+
         boolean commandFound = false;
         for (String c : command) {
+            System.out.println(c);
             if (c.startsWith("-")) {
 
             } else {

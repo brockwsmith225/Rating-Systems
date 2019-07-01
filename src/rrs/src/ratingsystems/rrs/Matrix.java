@@ -78,6 +78,26 @@ public class Matrix {
     public double get(int row, int column) { return matrix[row][column]; }
 
     /**
+     * Sets the value at a particular index in the matrix
+     *
+     * @param row the row of the value
+     * @param column the column of the value
+     * @param value the value
+     */
+    public void set(int row, int column, double value) {
+        matrix[row][column] = value;
+    }
+
+    /**
+     * Returns a copy of the matrix
+     *
+     * @return a copy of the matrix
+     */
+    public Matrix copy() {
+        return new Matrix(matrix);
+    }
+
+    /**
      * Calculates the sum of two matrices.
      *
      * @param m Matrix to be added
