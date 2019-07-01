@@ -13,8 +13,8 @@ public class Predict extends Command {
 
     @Override
     public boolean validateInput(Runner runner, CommandInput commandInput) {
-        Command.validateDataExists(runner);
-        Command.validateArgsExist(commandInput, 2);
+        if (!Command.validateDataExists(runner)) return false;
+        if (!Command.validateArgsExist(commandInput, 2)) return false;
         return true;
     }
 }

@@ -16,7 +16,7 @@ public class Rank extends Command {
 
     @Override
     public boolean validateInput(Runner runner, CommandInput commandInput) {
-        Command.validateDataExists(runner);
+        if (!Command.validateDataExists(runner)) return false;
         return true;
     }
 }

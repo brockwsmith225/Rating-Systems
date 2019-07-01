@@ -33,19 +33,23 @@ public abstract class Command {
      * @param runner
      * @return true if there is data for the current league for the current year, false otherwise
      */
-    protected static void validateDataExists(Runner runner) {
+    protected static boolean validateDataExists(Runner runner) {
         Interpreter interpreter = runner.getInterpreter((String)runner.getParameter("LEAGUE"));
 
         if (!interpreter.hasData((Integer)runner.getParameter("YEAR"))) {
             System.err.println("ERROR: Data not found for league " + runner.getParameter("LEAGUE") + " and year "
                     + runner.getParameter("YEAR"));
+            return false;
         }
+        return true;
     }
 
-    protected static void validateArgsExist(CommandInput commandInput, int requiredArgs) {
+    protected static boolean validateArgsExist(CommandInput commandInput, int requiredArgs) {
         if (!commandInput.hasArgs(requiredArgs)) {
             System.err.println("ERROR: " + requiredArgs + " arguments required for " + commandInput.getCommand()
                     + ", " + commandInput.getArgs() + " found");
+            return false;
         }
+        return true;
     }
 }

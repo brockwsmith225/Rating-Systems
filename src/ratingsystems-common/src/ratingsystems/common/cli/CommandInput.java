@@ -19,7 +19,6 @@ public class CommandInput {
 
         boolean commandFound = false;
         for (String c : command) {
-            System.out.println(c);
             if (c.startsWith("-")) {
 
             } else {
