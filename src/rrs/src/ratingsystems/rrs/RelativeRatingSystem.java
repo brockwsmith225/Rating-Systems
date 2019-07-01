@@ -93,33 +93,39 @@ public class RelativeRatingSystem extends RatingSystem {
         indices.add(teamNameToIndex.get(team1));
         indices.add(teamNameToIndex.get(team2));
 
-        System.out.println(this.negMatrix);
         Matrix posMatrix = removeExtraneousConnections(this.posMatrix, indices);//this.posMatrix.copy();
         Matrix negMatrix = removeExtraneousConnections(this.negMatrix, indices);//this.negMatrix.copy();
-        Matrix partials = new Matrix(setupPartials());
-        System.out.println(negMatrix);
 
-        posMatrix = posMatrix.multiply(0.9).add(partials.multiply(0.1));
-        negMatrix = negMatrix.multiply(0.9).add(partials.multiply(0.1));
-        System.out.println(negMatrix);
+        double[] input = new double[teams.size()];
+        for (int i = 0; i < input.length; i++) {
+            input[i] = 0;
+        }
+        for (int i : indices) {
+            input[i] = 0.5;
+        }
+        Vector inputVector = new Vector(input);
 
-        Vector posVector = posMatrix.getEigenvector(1.0);
-        Vector negVector = negMatrix.getEigenvector(1.0);
+        Vector posVector = inputVector.copy();
+        Vector negVector = inputVector.copy();
+        for (int i = 0; i < 1; i++) {
+            posVector = posMatrix.multiply(posVector);
+            negVector = negMatrix.multiply(negVector);
+        }
 
-        System.out.println(posVector);
-        System.out.println(negVector);
+        double team1PosScore = posVector.get(indices.get(0));
+        double team1NegScore = negVector.get(indices.get(0));
+        double team2PosScore = posVector.get(indices.get(1));
+        double team2NegScore = negVector.get(indices.get(1));
 
-        System.out.println(posVector.get(indices.get(0)));
-        System.out.println(negVector.get(indices.get(0)));
-        System.out.println(posVector.get(indices.get(0)) - negVector.get(indices.get(0)));
-        System.out.println();
-        System.out.println(posVector.get(indices.get(1)));
-        System.out.println(negVector.get(indices.get(1)));
-        System.out.println(posVector.get(indices.get(1)) - negVector.get(indices.get(1)));
-        System.out.println();
-        double total = posVector.get(indices.get(0)) - negVector.get(indices.get(0)) + posVector.get(indices.get(1)) - negVector.get(indices.get(1));
+        double posDiff = team1PosScore - team2PosScore;
+        double negDiff = team2NegScore - team1NegScore;
+        double totalDiff = posDiff + negDiff;
 
-        return (posVector.get(indices.get(0)) - negVector.get(indices.get(0))) / total;
+        double a = 0.9;
+        double b = 1.8;
+        double odds = a * Math.tan(Math.atan(0.5 / a) * Math.tanh(b * totalDiff)) + 0.5;
+
+        return odds;
     }
 
 

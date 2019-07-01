@@ -60,6 +60,15 @@ public class Vector {
     }
 
     /**
+     * Returns a copy of the vector
+     *
+     * @return a copy of the vector
+     */
+    public Vector copy() {
+        return new Vector(vector);
+    }
+
+    /**
      * Returns the magnitude of the vector.
      *
      * @return Double representation of the magnitude.
