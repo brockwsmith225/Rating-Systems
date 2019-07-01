@@ -7,7 +7,6 @@ import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
-import java.io.FileNotFoundException;
 import java.util.HashMap;
 
 public abstract class Runner {
@@ -117,6 +116,12 @@ public abstract class Runner {
      */
     public abstract RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week);
 
+    /**
+     * Checks that the command is valid
+     *
+     * @param command the command to check
+     * @return true if the command exists, false otherwise
+     */
     public boolean hasCommand(String command) {
         return commands.containsKey(command);
     }
