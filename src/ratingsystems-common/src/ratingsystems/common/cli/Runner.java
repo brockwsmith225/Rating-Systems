@@ -40,7 +40,9 @@ public abstract class Runner {
     }
 
     public void run(CommandInput command) {
-        commands.get(command.getCommand()).run(this, command);
+        if (commands.get(command.getCommand()).validateInput(this, command)) {
+            commands.get(command.getCommand()).run(this, command);
+        }
     }
 
     public Object getParameter(String parameter) {
@@ -77,7 +79,7 @@ public abstract class Runner {
                 addWeek(weekFlag, league, year, week);
             }
         }
-        ratingSystems.get(league).get(year).get(week);
+        ratingSystems.get(league).get(year).get(week).setup();
         return ratingSystems.get(league).get(year).get(week);
     }
 

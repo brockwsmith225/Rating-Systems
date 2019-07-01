@@ -99,7 +99,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public boolean hasData(int year)  {
-        return new File("ratingsystems/src/collegefootball/data/cfb-" + year + ".csv").exists();
+        return new File("ratingsystems/src/data/cfb-" + year + ".csv").exists();
     }
 
     @Override
