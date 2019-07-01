@@ -53,7 +53,7 @@ public abstract class RatingSystem {
     }
 
     /**
-     * Setups the method for rating the teams as necessary
+     * Sets up the method for rating the teams as necessary
      */
     abstract public void setup();
 

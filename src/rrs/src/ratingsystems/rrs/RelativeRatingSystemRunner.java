@@ -2,20 +2,16 @@ package ratingsystems.rrs;
 
 import ratingsystems.common.cli.Runner;
 import ratingsystems.common.cli.Terminal;
-import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
+import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
+
+import java.io.FileNotFoundException;
 
 public class RelativeRatingSystemRunner extends Runner {
 
     public RelativeRatingSystemRunner() {
         super();
         prefix = " [RRS] ";
-        try {
-            ratingSystem = new RelativeRatingSystem(new CollegeFootballInterpreter(), 2018);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        ratingSystem.setup();
 
         //Add RRS specific parameters here
 
@@ -23,8 +19,25 @@ public class RelativeRatingSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadRatingSystem() {
-        return this.ratingSystem;
+    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year) {
+        try {
+            RatingSystem ratingSystem = new RelativeRatingSystem(interpreter, year);
+            ratingSystem.setup();
+            return ratingSystem;
+        } catch (FileNotFoundException e) {
+            return null;
+        }
+    }
+
+    @Override
+    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
+        try {
+            RatingSystem ratingSystem = new RelativeRatingSystem(interpreter, year, week);
+            ratingSystem.setup();
+            return ratingSystem;
+        } catch (FileNotFoundException e) {
+            return null;
+        }
     }
 
     public static void main(String[] args) {

@@ -9,18 +9,31 @@ public class CommandInput {
     private List<String> args;
 
     private HashMap<String, Boolean> options;
+    private HashMap<Character, String> optionLetterToName;
 
     public CommandInput(String[] command) {
         this.options = new HashMap<>();
         this.options.put("clean", false);
         this.options.put("pretty-print", false);
+        this.options.put("week", false);
+
+        this.optionLetterToName = new HashMap<>();
+        this.optionLetterToName.put('c', "clean");
+        this.optionLetterToName.put('p', "pretty-print");
+        this.optionLetterToName.put('w', "week");
 
         this.args = new ArrayList<>();
 
         boolean commandFound = false;
         for (String c : command) {
             if (c.startsWith("-")) {
-
+                for (char o : c.toCharArray()) {
+                    if (this.optionLetterToName.containsKey(o)) {
+                        this.options.put(this.optionLetterToName.get(o), true);
+                    } else if (o != '-') {
+                        System.err.println("WARNING: Option " + o + " not found, skipping");
+                    }
+                }
             } else {
                 if (!commandFound) {
                     this.command = c;

@@ -15,7 +15,7 @@ public class Parameter {
     }
 
     public Parameter(Comparable value, Comparable minimum, Comparable maximum) {
-        this.value = value;
+        this.comparableValue = value;
         this.minimum = minimum;
         this.maximum = maximum;
         this.validationMode = 1;
