@@ -1,6 +1,5 @@
 package ratingsystems.common.collegefootball;
 
-import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Time;
 
 public class Entry {

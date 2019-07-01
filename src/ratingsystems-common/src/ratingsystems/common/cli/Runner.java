@@ -58,11 +58,13 @@ public abstract class Runner {
         int year = (int) parameters.get("YEAR").getValue();
         int week = weekFlag ? (int) parameters.get("WEEK").getValue() : -1;
         if (cleanFlag) {
-            if (weekFlag) {
-                return this.loadNewRatingSystem(interpreters.get(league), year, week);
-            } else {
-                return this.loadNewRatingSystem(interpreters.get(league), year);
+            if (!ratingSystems.containsKey(league)) {
+                ratingSystems.put(league, new HashMap<>());
             }
+            if (!ratingSystems.get(league).containsKey(year)) {
+                ratingSystems.get(league).put(year, new HashMap<>());
+            }
+            addWeek(weekFlag, league, year, week);
         } else {
             if (ratingSystems.containsKey(league)) {
                 if (ratingSystems.get(league).containsKey(year)) {

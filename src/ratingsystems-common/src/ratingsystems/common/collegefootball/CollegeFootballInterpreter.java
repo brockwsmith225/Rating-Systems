@@ -133,7 +133,6 @@ public class CollegeFootballInterpreter extends Interpreter {
         int year = Integer.parseInt(line[0].split("-")[0]);
         Time startDate = new Time(1, 9, year);
         while (startDate.dayOfTheWeek() != 0) {
-            System.out.println(startDate);
             startDate.incrementByDays(-1);
         }
         return startDate;
