@@ -1,5 +1,6 @@
 package ratingsystems.common.ratingsystem;
 
+import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Team;
 
@@ -72,15 +73,41 @@ public abstract class RatingSystem {
 
     /**
      * Prints the teams in ranked order along with their ratings
+     *
+     * @param prettyPrint denotes whether or not to format the output
      */
-    public void printTeamRankings() {
+    public void printTeamRankings(boolean prettyPrint) {
         int rank = 1;
         for (int i = 0; i < rankedTeams.size(); i++) {
             if (i > 0 && rankedTeams.get(i).getRating() != rankedTeams.get(i - 1).getRating()) {
                 rank = i + 1;
             }
-            System.out.println(rank + ". " + rankedTeams.get(i).getName() + " " + rankedTeams.get(i).getRating());
+            if (prettyPrint) {
+                System.out.println(Terminal.rightJustify(Integer.toString(rank), 3) + ". " + prettyPrintTeam(rankedTeams.get(i).getName()));
+            } else {
+                System.out.println(rank + "\t" + printTeam(rankedTeams.get(i).getName()));
+            }
         }
+    }
+
+    /**
+     * Returns the team and stats to be printed when printing team rankings
+     *
+     * @param team the team to be printed
+     * @return a string formatted to print the given team
+     */
+    protected String printTeam(String team) {
+        return teams.get(team).getName() + "\t" + teams.get(team).getRating();
+    }
+
+    /**
+     * Returns a pretty print version of the team and stats to be printed when printing team rankings
+     *
+     * @param team the team to be printed
+     * @return a a pretty print string formatted to print the given team
+     */
+    protected String prettyPrintTeam(String team) {
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + " " + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10);
     }
 
     /**

@@ -1,5 +1,6 @@
 package ratingsystems.rrs;
 
+import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
@@ -128,6 +129,16 @@ public class RelativeRatingSystem extends RatingSystem {
         return odds;
     }
 
+    @Override
+    protected String printTeam(String team) {
+        return teams.get(team).getName() + "\t" + (int)teams.get(team).getRating();
+    }
+
+    @Override
+    protected String prettyPrintTeam(String team) {
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + " " + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10);
+    }
+
 
 
     //========== RelativeRatingSystem only methods ==========
@@ -226,7 +237,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setPositiveRatings(Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            teams.get(teamIndexToName.get(i)).setRating("Positive Rating", vector.get(i));
+            teams.get(teamIndexToName.get(i)).setRating("Positive Rating", (int)(vector.get(i) * 10000));
         }
     }
 
@@ -237,7 +248,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setNegativeRatings(Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            teams.get(teamIndexToName.get(i)).setRating("Negative Rating", vector.get(i));
+            teams.get(teamIndexToName.get(i)).setRating("Negative Rating", (int)(vector.get(i) * 10000));
         }
     }
 
