@@ -8,7 +8,7 @@ public class Predict extends Command {
     public void run(Runner runner, CommandInput commandInput) {
         String team1 = commandInput.getArgs().get(0);
         String team2 = commandInput.getArgs().get(1);
-        System.out.println(runner.loadRatingSystem(commandInput));
+        System.out.println(runner.loadRatingSystem(commandInput).predictGame(team1, team2));
     }
 
     @Override
