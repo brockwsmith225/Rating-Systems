@@ -7,7 +7,7 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 public class Rank extends Command {
     @Override
     public void run(Runner runner, CommandInput commandInput) {
-        RatingSystem ratingSystem = runner.loadRatingSystem(commandInput.getOption("clean"), commandInput.getOption("week"));
+        RatingSystem ratingSystem = runner.loadRatingSystem(commandInput);
 
         System.out.println();
         ratingSystem.printTeamRankings();

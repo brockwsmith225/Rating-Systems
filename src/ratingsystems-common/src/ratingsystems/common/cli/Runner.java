@@ -53,7 +53,10 @@ public abstract class Runner {
         return interpreters.get(interpreter);
     }
 
-    public RatingSystem loadRatingSystem(boolean cleanFlag, boolean weekFlag) {
+    public RatingSystem loadRatingSystem(CommandInput commandInput) {
+        boolean cleanFlag = commandInput.getOption("clean");
+        boolean weekFlag = commandInput.getOption("week");
+
         String league = (String) parameters.get("LEAGUE").getValue();
         int year = (int) parameters.get("YEAR").getValue();
         int week = weekFlag ? (int) parameters.get("WEEK").getValue() : -1;
