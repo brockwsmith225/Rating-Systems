@@ -8,6 +8,7 @@ import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.util.HashMap;
+import java.util.Set;
 
 public abstract class Runner {
     public String prefix;
@@ -27,14 +28,15 @@ public abstract class Runner {
 
         //Add general rating system parameters here
         parameters = new HashMap<>();
-        parameters.put("YEAR", new Parameter(2018, 1800, 2500));
-        parameters.put("WEEK", new Parameter(12, 0, 50));
-        parameters.put("LEAGUE", new Parameter("cfb", interpreters.keySet()));
+        parameters.put("YEAR", new Parameter(Integer.class, 2018, 1800, 2500));
+        parameters.put("WEEK", new Parameter(Integer.class, 12, 0, 50));
+        parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
 
         //Add general rating system commands here
         commands = new HashMap<>();
         commands.put("rank", new Rank());
         commands.put("predict", new Predict());
+        commands.put("set", new ratingsystems.common.cli.commands.Set());
 
         ratingSystems = new HashMap<>();
     }
@@ -45,8 +47,16 @@ public abstract class Runner {
         }
     }
 
-    public Object getParameter(String parameter) {
+    public Parameter getParameter(String parameter) {
+        return parameters.get(parameter);
+    }
+
+    public Object getParameterValue(String parameter) {
         return parameters.get(parameter).getValue();
+    }
+
+    public Set<String> parameterList() {
+        return parameters.keySet();
     }
 
     public Interpreter getInterpreter(String interpreter) {

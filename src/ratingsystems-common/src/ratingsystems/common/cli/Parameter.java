@@ -8,20 +8,24 @@ public class Parameter {
     private Comparable comparableValue, minimum, maximum;
     private Set<Object> possibleValues;
     private int validationMode;
+    private Class type;
 
-    public Parameter(Object value) {
+    public Parameter(Class type, Object value) {
+        this.type = type;
         this.value = value;
         this.validationMode = 0;
     }
 
-    public Parameter(Comparable value, Comparable minimum, Comparable maximum) {
+    public Parameter(Class type, Comparable value, Comparable minimum, Comparable maximum) {
+        this.type = type;
         this.comparableValue = value;
         this.minimum = minimum;
         this.maximum = maximum;
         this.validationMode = 1;
     }
 
-    public Parameter(Object value, Set<? extends Object> possibleValues) {
+    public Parameter(Class type, Object value, Set<? extends Object> possibleValues) {
+        this.type = type;
         this.value = value;
         this.possibleValues = new HashSet<>();
         for (Object possibleValue : possibleValues) {
@@ -48,8 +52,46 @@ public class Parameter {
     }
 
     public void setValue(Comparable value) {
-        if (value.compareTo(minimum) >= 0 && value.compareTo(maximum) <= 0) {
-            this.comparableValue = value;
+        if (validationMode == 0) {
+            this.value = value;
+        } else if (validationMode == 1) {
+            if (value.compareTo(minimum) >= 0 && value.compareTo(maximum) <= 0) {
+                this.comparableValue = value;
+            }
+        } else if (validationMode == 2) {
+            if (possibleValues.contains(value)) {
+                this.value = value;
+            }
         }
+    }
+
+    public boolean validateValue(Object value) {
+        if (validationMode == 0) {
+            return true;
+        } else if (validationMode == 2) {
+            if (possibleValues.contains(value)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public boolean validateValue(Comparable value) {
+        if (validationMode == 0) {
+            return true;
+        } else if (validationMode == 1) {
+            if (value.compareTo(minimum) >= 0 && value.compareTo(maximum) <= 0) {
+                return true;
+            }
+        } else if (validationMode == 2) {
+            if (possibleValues.contains(value)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public Class getType() {
+        return this.type;
     }
 }

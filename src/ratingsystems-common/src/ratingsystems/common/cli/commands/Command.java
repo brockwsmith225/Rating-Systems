@@ -34,9 +34,9 @@ public abstract class Command {
      * @return true if there is data for the current league for the current year, false otherwise
      */
     protected static boolean validateDataExists(Runner runner) {
-        Interpreter interpreter = runner.getInterpreter((String)runner.getParameter("LEAGUE"));
+        Interpreter interpreter = runner.getInterpreter((String)runner.getParameterValue("LEAGUE"));
 
-        if (!interpreter.hasData((Integer)runner.getParameter("YEAR"))) {
+        if (!interpreter.hasData((Integer)runner.getParameterValue("YEAR"))) {
             System.err.println("ERROR: Data not found for league " + runner.getParameter("LEAGUE") + " and year "
                     + runner.getParameter("YEAR"));
             return false;
