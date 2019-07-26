@@ -98,6 +98,39 @@ public abstract class Runner {
         return ratingSystems.get(league).get(year).get(week);
     }
 
+    public RatingSystem loadRatingSystem(CommandInput commandInput, int week) {
+        boolean cleanFlag = commandInput.getOption("clean");
+
+        String league = (String) parameters.get("LEAGUE").getValue();
+        int year = (int) parameters.get("YEAR").getValue();
+        if (cleanFlag) {
+            if (!ratingSystems.containsKey(league)) {
+                ratingSystems.put(league, new HashMap<>());
+            }
+            if (!ratingSystems.get(league).containsKey(year)) {
+                ratingSystems.get(league).put(year, new HashMap<>());
+            }
+            addWeek(true, league, year, week);
+        } else {
+            if (ratingSystems.containsKey(league)) {
+                if (ratingSystems.get(league).containsKey(year)) {
+                    if (!ratingSystems.get(league).get(year).containsKey(week)) {
+                        addWeek(true, league, year, week);
+                    }
+                } else {
+                    ratingSystems.get(league).put(year, new HashMap<>());
+                    addWeek(true, league, year, week);
+                }
+            } else{
+                ratingSystems.put(league, new HashMap<>());
+                ratingSystems.get(league).put(year, new HashMap<>());
+                addWeek(true, league, year, week);
+            }
+        }
+        ratingSystems.get(league).get(year).get(week).setup();
+        return ratingSystems.get(league).get(year).get(week);
+    }
+
     /**
      * Adds a week and a new rating system to the rating systems
      *

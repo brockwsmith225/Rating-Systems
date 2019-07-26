@@ -3,7 +3,7 @@ package ratingsystems.common.collegefootball;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
-import ratingsystems.common.interpreter.Time;
+import ratingsystems.common.interpreter.Date;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -43,7 +43,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         addedTeams = new HashSet<>();
         addedGroups = new HashSet<>();
 
-        Time startDate = getStartDate(data);
+        Date startDate = getStartDate(data);
 
         while (data.hasNext()) {
             Entry entry = new Entry(data.nextLine(), startDate);
@@ -128,10 +128,10 @@ public class CollegeFootballInterpreter extends Interpreter {
         return avgStats;
     }
 
-    private Time getStartDate(Scanner data) {
+    private Date getStartDate(Scanner data) {
         String[] line = split(data.nextLine(), ",");
         int year = Integer.parseInt(line[0].split("-")[0]);
-        Time startDate = new Time(1, 9, year);
+        Date startDate = new Date(1, 9, year);
         while (startDate.dayOfTheWeek() != 0) {
             startDate.incrementByDays(-1);
         }

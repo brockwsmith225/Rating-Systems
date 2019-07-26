@@ -1,6 +1,6 @@
 package ratingsystems.common.interpreter;
 
-public class Time implements Comparable<Time> {
+public class Date implements Comparable<Date> {
     private static final long YEAR_TO_MONTHS = 12;
     private static final long YEAR_TO_WEEKS = 52;
     private static final long YEAR_TO_DAYS = 365;
@@ -18,7 +18,7 @@ public class Time implements Comparable<Time> {
      *
      * @param milliseconds the time in milliseconds since 1970-01-01 0:00:00.000
      */
-    public Time(long milliseconds) {
+    public Date(long milliseconds) {
         this.milliseconds = milliseconds;
     }
 
@@ -29,7 +29,7 @@ public class Time implements Comparable<Time> {
      * @param month the month of the Time object
      * @param year the year of the Time object
      */
-    public Time(long date, long month, long year) {
+    public Date(long date, long month, long year) {
         long days = (year - 1970) * YEAR_TO_DAYS + numberOfLeapYears(1970, year) + daysInCurrentYear(date, month, year);
         this.milliseconds = days * DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS;
     }
@@ -44,7 +44,7 @@ public class Time implements Comparable<Time> {
      * @param month the month of the Time object
      * @param year the year of the Time object
      */
-    public Time(long second, long minute, long hour, long date, long month, long year) {
+    public Date(long second, long minute, long hour, long date, long month, long year) {
         this(date, month, year);
         this.milliseconds += (((hour * HOUR_TO_MINUTES) + minute) * MINUTE_TO_SECONDS + second) * SECOND_TO_MILLISECONDS;
     }
@@ -73,7 +73,7 @@ public class Time implements Comparable<Time> {
      * @param start the start time
      * @return the time since the start time
      */
-    public long timeSince(Time start) {
+    public long timeSince(Date start) {
         return this.milliseconds - start.milliseconds;
     }
 
@@ -83,7 +83,7 @@ public class Time implements Comparable<Time> {
      * @param start the start time
      * @return the days since the start time
      */
-    public long daysSince(Time start) {
+    public long daysSince(Date start) {
         long timeSince = timeSince(start);
         return timeSince / (DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS);
     }
@@ -94,7 +94,7 @@ public class Time implements Comparable<Time> {
      * @return the integer representing the day of the week (Monday = 0,..., Sunday = 6)
      */
     public int dayOfTheWeek() {
-        Time d = new Time(7, 1, 2019);
+        Date d = new Date(7, 1, 2019);
         int days = (int)this.daysSince(d);
         return (days % 7) < 0 ? (days % 7) + 7 : days % 7;
     }
@@ -149,8 +149,12 @@ public class Time implements Comparable<Time> {
         return year - 1;
     }
 
+    public Date copy() {
+        return new Date(milliseconds);
+    }
+
     @Override
-    public int compareTo(Time d) {
+    public int compareTo(Date d) {
         return (int)this.daysSince(d);
     }
 

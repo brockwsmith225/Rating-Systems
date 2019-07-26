@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class Game {
     private String opponent;
     private double score, opponentScore, weightedScoreDiff;
-    private Time time;
+    private Date date;
     private HashMap<String, Double> otherData;
 
     /**
@@ -18,14 +18,14 @@ public class Game {
      * @param score the score of the team the game belongs to
      * @param opponentScore the score of the opponent of the game
      * @param weightedScoreDiff the weighted difference of scores
-     * @param time the date at which the game occurred
+     * @param date the date at which the game occurred
      */
-    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, Time time) {
+    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, Date date) {
         this.opponent = opponent;
         this.score = score;
         this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
-        this.time = time;
+        this.date = date;
     }
 
     /**
@@ -69,8 +69,8 @@ public class Game {
      *
      * @return the time at which the game occurred
      */
-    public Time getTime() {
-        return time;
+    public Date getDate() {
+        return date;
     }
 
     /**
@@ -81,6 +81,6 @@ public class Game {
      * @return a copy of the game
      */
     static Game copyOf(Game game) {
-        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.time);
+        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.date);
     }
 }

@@ -1,8 +1,10 @@
 package ratingsystems.common.ratingsystem;
 
 import ratingsystems.common.cli.Terminal;
+import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.interpreter.Date;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -14,6 +16,7 @@ public abstract class RatingSystem {
     protected ArrayList<Team> rankedTeams;
     protected ArrayList<Team> rankedGroups;
     protected Interpreter interpreter;
+    protected int year;
 
     /**
      * Creates a new instance of a Rating System with no data
@@ -32,6 +35,7 @@ public abstract class RatingSystem {
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
     public RatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
+        this.year = year;
         teams = interpreter.parseData(year);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
@@ -47,6 +51,7 @@ public abstract class RatingSystem {
      * @throws FileNotFoundException if the file specified by the file path is not found
      */
     public RatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
+        this.year = year;
         teams = interpreter.parseData(year, week);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
@@ -88,6 +93,28 @@ public abstract class RatingSystem {
                 System.out.println(rank + "\t" + printTeam(rankedTeams.get(i).getName()));
             }
         }
+    }
+
+    public Date getStartOfWeek(int week) {
+        Date startDate = new Date(31, 12, year);
+        for (Team team : teams.values()) {
+            for (Game game : team.getGames()) {
+                if (game.getDate().compareTo(startDate) < 0) {
+                    startDate = game.getDate().copy();
+                }
+            }
+        }
+        while (startDate.dayOfTheWeek() != 0) {
+            startDate.incrementByDays(-1);
+        }
+        startDate.incrementByDays((week - 1) * 7);
+        return startDate;
+    }
+
+    public Date getEndOfWeek(int week) {
+        Date endDate = getStartOfWeek(week);
+        endDate.incrementByDays(6);
+        return endDate;
     }
 
     /**

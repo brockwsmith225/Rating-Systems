@@ -1,9 +1,9 @@
 package ratingsystems.common.collegefootball;
 
-import ratingsystems.common.interpreter.Time;
+import ratingsystems.common.interpreter.Date;
 
 public class Entry {
-    public Time date;
+    public Date date;
     public String team, opponent, conference, location, result;
     public int teamScore, opponentScore, scoreDifference, weightedScoreDifference, week;
 
@@ -16,7 +16,7 @@ public class Entry {
         String[] entry = CollegeFootballInterpreter.split(line, ",");
 
         String[] d = entry[0].split("-");
-        this.date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
+        this.date = new Date(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
         this.team = entry[1];
         this.conference = entry[2];
         this.location = entry[3];
@@ -35,11 +35,11 @@ public class Entry {
      * @param line the line to be parsed
      * @param startDate the starting date of the year to be used to calculate the week of the game
      */
-    public Entry(String line, Time startDate) {
+    public Entry(String line, Date startDate) {
         String[] entry = CollegeFootballInterpreter.split(line, ",");
 
         String[] d = entry[0].split("-");
-        this.date = new Time(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
+        this.date = new Date(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
         this.team = entry[1];
         this.conference = entry[2];
         this.location = entry[3];
