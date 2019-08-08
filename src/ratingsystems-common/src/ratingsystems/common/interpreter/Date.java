@@ -143,7 +143,7 @@ public class Date implements Comparable<Date> {
             if (isLeapYear(year)) {
                 days -= 366;
             } else {
-                days -= 265;
+                days -= 365;
             }
         }
         return year - 1;
