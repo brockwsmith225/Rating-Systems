@@ -2,8 +2,10 @@ package ratingsystems.common.collegefootball;
 
 import ratingsystems.common.interpreter.Date;
 
+import java.time.LocalDate;
+
 public class Entry {
-    public Date date;
+    public LocalDate date;
     public String team, opponent, conference, location, result;
     public int teamScore, opponentScore, scoreDifference, weightedScoreDifference, week;
 
@@ -16,7 +18,8 @@ public class Entry {
         String[] entry = CollegeFootballInterpreter.split(line, ",");
 
         String[] d = entry[0].split("-");
-        this.date = new Date(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
+        this.date = LocalDate.of(Integer.parseInt(d[2]), Integer.parseInt(d[0]), Integer.parseInt(d[1]));
+        //this.date = new Date(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
         this.team = entry[1];
         this.conference = entry[2];
         this.location = entry[3];
@@ -35,11 +38,12 @@ public class Entry {
      * @param line the line to be parsed
      * @param startDate the starting date of the year to be used to calculate the week of the game
      */
-    public Entry(String line, Date startDate) {
+    public Entry(String line, LocalDate startDate) {
         String[] entry = CollegeFootballInterpreter.split(line, ",");
 
         String[] d = entry[0].split("-");
-        this.date = new Date(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
+        this.date = LocalDate.of(Integer.parseInt(d[0]), Integer.parseInt(d[1]), Integer.parseInt(d[2]));
+        //this.date = new Date(Integer.parseInt(d[2]), Integer.parseInt(d[1]), Integer.parseInt(d[0]));
         this.team = entry[1];
         this.conference = entry[2];
         this.location = entry[3];
@@ -49,6 +53,6 @@ public class Entry {
         this.opponentScore = Integer.parseInt(entry[7]);
         this.scoreDifference = Math.abs(teamScore - opponentScore);
         this.weightedScoreDifference = ((teamScore - opponentScore) / scoreDifference) * (10 + scoreDifference);
-        this.week = ((int)date.daysSince(startDate) + 7) / 7;
+        this.week = (int)((this.date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
     }
 }

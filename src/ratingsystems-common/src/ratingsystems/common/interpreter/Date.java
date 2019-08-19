@@ -31,6 +31,8 @@ public class Date implements Comparable<Date> {
      */
     public Date(long date, long month, long year) {
         long days = (year - 1970) * YEAR_TO_DAYS + numberOfLeapYears(1970, year) + daysInCurrentYear(date, month, year);
+        System.out.println(days);
+        System.out.println(DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS);
         this.milliseconds = days * DAY_TO_HOURS * HOUR_TO_MINUTES * MINUTE_TO_SECONDS * SECOND_TO_MILLISECONDS;
     }
 
@@ -143,7 +145,7 @@ public class Date implements Comparable<Date> {
             if (isLeapYear(year)) {
                 days -= 366;
             } else {
-                days -= 265;
+                days -= 365;
             }
         }
         return year - 1;
@@ -160,7 +162,7 @@ public class Date implements Comparable<Date> {
 
     @Override
     public String toString() {
-        return "";
+        return "" + getYear() + "-" + getMonth() + "-" + getDate();
     }
 
     private long numberOfLeapYears(long startYear, long endYear) {
@@ -184,6 +186,9 @@ public class Date implements Comparable<Date> {
     }
 
     private static long daysInMonth(long month, long year) {
+        while (month < 0) month += 12;
+        month %= 12;
+        if (month == 0) month = 12;
         if (isLeapYear(year) && month == 2) {
             return 29;
         }

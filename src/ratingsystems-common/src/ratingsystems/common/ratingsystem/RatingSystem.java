@@ -7,9 +7,12 @@ import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.interpreter.Date;
 
 import java.io.FileNotFoundException;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
 
 public abstract class RatingSystem {
     protected HashMap<String, Team> teams;
@@ -95,25 +98,64 @@ public abstract class RatingSystem {
         }
     }
 
-    public Date getStartOfWeek(int week) {
-        Date startDate = new Date(31, 12, year);
+    /**
+     * Returns the week of the most recent game
+     *
+     * @return the week of the most recent game
+     */
+    public int getWeek() {
+        int week = 0;
         for (Team team : teams.values()) {
             for (Game game : team.getGames()) {
-                if (game.getDate().compareTo(startDate) < 0) {
-                    startDate = game.getDate().copy();
+                if (game.getWeek() > week) {
+                    week = game.getWeek();
                 }
             }
         }
-        while (startDate.dayOfTheWeek() != 0) {
-            startDate.incrementByDays(-1);
+        return week;
+    }
+
+    /**
+     * Returns a list of the games in a given week
+     *
+     * @param week a week of the season
+     * @return a list of the games in the given week
+     */
+    public List<Game> getGames(int week) {
+        List<Game> games = new ArrayList<>();
+        for (Team team : teams.values()) {
+            for (Game game : team.getGames()) {
+                if (game.getWeek() == week) {
+                    games.add(game);
+                }
+            }
         }
-        startDate.incrementByDays((week - 1) * 7);
+        return games;
+    }
+
+    public int checkPreditions(List<Game> games) {
+        return 0;
+    }
+
+    public LocalDate getStartOfWeek(int week) {
+        LocalDate startDate = LocalDate.of(year, 12, 31);
+        for (Team team : teams.values()) {
+            for (Game game : team.getGames()) {
+                if (game.getDate().compareTo(startDate) < 0) {
+                    startDate = game.getDate().plusDays(0);
+                }
+            }
+        }
+        while (startDate.getDayOfWeek() != DayOfWeek.MONDAY) {
+            startDate = startDate.minusDays(1);
+        }
+        startDate = startDate.plusDays((week - 1) * 7);
         return startDate;
     }
 
-    public Date getEndOfWeek(int week) {
-        Date endDate = getStartOfWeek(week);
-        endDate.incrementByDays(6);
+    public LocalDate getEndOfWeek(int week) {
+        LocalDate endDate = getStartOfWeek(week);
+        endDate = endDate.plusDays(6);
         return endDate;
     }
 

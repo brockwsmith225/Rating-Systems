@@ -1,5 +1,6 @@
 package ratingsystems.common.interpreter;
 
+import java.time.LocalDate;
 import java.util.HashMap;
 
 /**
@@ -8,7 +9,8 @@ import java.util.HashMap;
 public class Game {
     private String opponent;
     private double score, opponentScore, weightedScoreDiff;
-    private Date date;
+    private int week;
+    private LocalDate date;
     private HashMap<String, Double> otherData;
 
     /**
@@ -20,11 +22,12 @@ public class Game {
      * @param weightedScoreDiff the weighted difference of scores
      * @param date the date at which the game occurred
      */
-    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, Date date) {
+    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date) {
         this.opponent = opponent;
         this.score = score;
         this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
+        this.week = week;
         this.date = date;
     }
 
@@ -65,11 +68,20 @@ public class Game {
     }
 
     /**
+     * Returns the week during which the game occurred
+     *
+     * @return the week during which the game occurred
+     */
+    public int getWeek() {
+        return week;
+    }
+
+    /**
      * Returns the time at which the game occurred
      *
      * @return the time at which the game occurred
      */
-    public Date getDate() {
+    public LocalDate getDate() {
         return date;
     }
 
@@ -81,6 +93,6 @@ public class Game {
      * @return a copy of the game
      */
     static Game copyOf(Game game) {
-        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.date);
+        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date);
     }
 }
