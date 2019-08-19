@@ -90,7 +90,7 @@ public class RelativeRatingSystem extends RatingSystem {
 
     @Override
     public double predictGame(String team1, String team2) {
-        if (!rankedTeams.contains(team1) || !rankedTeams.contains(team2)) {
+        if (!teamNameToIndex.keySet().contains(team1) || !teamNameToIndex.keySet().contains(team2)) {
             return 0.5;
         }
 

@@ -134,7 +134,13 @@ public abstract class RatingSystem {
     }
 
     public int checkPreditions(List<Game> games) {
-        return 0;
+        int correct = 0;
+        for (Game game : games) {
+            double prediction = predictGame(game.getTeam(), game.getOpponent());
+            if (game.getScore() > game.getOpponentScore() && prediction > 0.5) correct++;
+            if (game.getScore() < game.getOpponentScore() && prediction < 0.5) correct++;
+        }
+        return correct;
     }
 
     public LocalDate getStartOfWeek(int week) {

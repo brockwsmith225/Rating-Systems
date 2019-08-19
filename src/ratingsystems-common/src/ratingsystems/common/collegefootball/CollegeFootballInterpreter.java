@@ -25,7 +25,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         addedTeams = new HashSet<>();
         addedGroups = new HashSet<>();
 
-        LocalDate startDate = getStartDate(data);
+        LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
             Entry entry = new Entry(data.nextLine(), startDate);
@@ -38,7 +38,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
             addTeam(entry.team, entry.conference);
 
-            teams.get(entry.team).addGame(new Game(entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
         }
 
         return teams;
@@ -53,7 +53,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         addedTeams = new HashSet<>();
         addedGroups = new HashSet<>();
 
-        LocalDate startDate = getStartDate(data);
+        LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
             Entry entry = new Entry(data.nextLine(), startDate);
@@ -67,7 +67,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
 
-                teams.get(entry.team).addGame(new Game(entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }
 
@@ -89,7 +89,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
                 addTeam(entry.team, entry.conference);
 
-                teams.get(entry.team).addGame(new Game(entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }
         return teams;
@@ -138,9 +138,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         return avgStats;
     }
 
-    private LocalDate getStartDate(Scanner data) {
-        String[] line = split(data.nextLine(), ",");
-        int year = Integer.parseInt(line[0].split("-")[0]);
+    private LocalDate getStartDate(int year) {
         LocalDate startDate = LocalDate.of(year, 9, 1);
         while (startDate.getDayOfWeek() != DayOfWeek.MONDAY) {
             startDate = startDate.minusDays(1);

@@ -7,7 +7,7 @@ import java.util.HashMap;
  * A representation of a game which compares two teams.
  */
 public class Game {
-    private String opponent;
+    private String team, opponent;
     private double score, opponentScore, weightedScoreDiff;
     private int week;
     private LocalDate date;
@@ -22,13 +22,23 @@ public class Game {
      * @param weightedScoreDiff the weighted difference of scores
      * @param date the date at which the game occurred
      */
-    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date) {
+    public Game(String team, String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date) {
+        this.team = team;
         this.opponent = opponent;
         this.score = score;
         this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
         this.week = week;
         this.date = date;
+    }
+
+    /**
+     * Returns the name of the team of the game
+     *
+     * @return the name of the team of the game
+     */
+    public String getTeam() {
+        return team;
     }
 
     /**
@@ -93,6 +103,6 @@ public class Game {
      * @return a copy of the game
      */
     static Game copyOf(Game game) {
-        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date);
+        return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date);
     }
 }

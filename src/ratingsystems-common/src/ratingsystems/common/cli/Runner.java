@@ -1,5 +1,6 @@
 package ratingsystems.common.cli;
 
+import ratingsystems.common.cli.commands.CheckPredictions;
 import ratingsystems.common.cli.commands.Command;
 import ratingsystems.common.cli.commands.Predict;
 import ratingsystems.common.cli.commands.Rank;
@@ -37,6 +38,7 @@ public abstract class Runner {
         commands.put("rank", new Rank());
         commands.put("predict", new Predict());
         commands.put("set", new ratingsystems.common.cli.commands.Set());
+        commands.put("check-predictions", new CheckPredictions());
 
         ratingSystems = new HashMap<>();
     }
