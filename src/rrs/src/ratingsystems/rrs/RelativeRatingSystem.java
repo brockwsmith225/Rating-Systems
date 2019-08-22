@@ -270,7 +270,7 @@ public class RelativeRatingSystem extends RatingSystem {
 
     private Matrix removeExtraneousConnections(Matrix matrix, List<Integer> indices) {
         Matrix matrixCopy = matrix.copy();
-        for (int c = 0; c < matrixCopy.rows(); c++) {
+        for (int c = 0; c < matrixCopy.columns(); c++) {
             if (!indices.contains(c)) {
                 double value = matrixCopy.get(c, c);
                 double count = 0.0;
@@ -286,8 +286,6 @@ public class RelativeRatingSystem extends RatingSystem {
                         matrixCopy.set(r, c, matrixCopy.get(r, c) + value);
                     }
                 }
-            } else {
-
             }
         }
         return matrixCopy;

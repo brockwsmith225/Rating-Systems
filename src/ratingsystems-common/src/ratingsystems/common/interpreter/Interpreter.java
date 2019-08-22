@@ -13,6 +13,18 @@ public abstract class Interpreter {
     protected ArrayList<String> groups;
     protected HashSet<String> addedGroups;
 
+
+    /**
+     * Handles the setup for the necessary instance variables which need to be created new each
+     * time the interpreter parses data, rather than when the interpreter is created
+     */
+    public void setup() {
+        teams = new HashMap<>();
+        groups = new ArrayList<>();
+        addedTeams = new HashSet<>();
+        addedGroups = new HashSet<>();
+    }
+
     /**
      * Interprets the data found in the data file specified by the file path
      *

@@ -18,26 +18,13 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
+        setup();
         Scanner data = getData(year);
-
-        teams = new HashMap<>();
-        groups = new ArrayList<>();
-        addedTeams = new HashSet<>();
-        addedGroups = new HashSet<>();
-
         LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
             Entry entry = new Entry(data.nextLine(), startDate);
-
-            if ((startDate.getYear() == 2013 || startDate.getYear() == 2014) && entry.week > 17) {
-                entry.week = 17;
-            } else if (entry.week > 16) {
-                entry.week = 16;
-            }
-
             addTeam(entry.team, entry.conference);
-
             teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
         }
 
@@ -46,24 +33,12 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
+        setup();
         Scanner data = getData(year);
-
-        teams = new HashMap<>();
-        groups = new ArrayList<>();
-        addedTeams = new HashSet<>();
-        addedGroups = new HashSet<>();
-
         LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
             Entry entry = new Entry(data.nextLine(), startDate);
-
-            if ((startDate.getYear() == 2013 || startDate.getYear() == 2014) && entry.week > 17) {
-                entry.week = 17;
-            } else if (entry.week > 16) {
-                entry.week = 16;
-            }
-
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
 
@@ -76,19 +51,15 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException {
-        teams = new HashMap<>();
-        groups = new ArrayList<>();
-        addedTeams = new HashSet<>();
-        addedGroups = new HashSet<>();
+        setup();
 
         for (int year : years) {
             Scanner data = getData(year);
+            LocalDate startDate = getStartDate(year);
 
             while (data.hasNext()) {
-                Entry entry = new Entry(data.nextLine());
-
+                Entry entry = new Entry(data.nextLine(), startDate);
                 addTeam(entry.team, entry.conference);
-
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }

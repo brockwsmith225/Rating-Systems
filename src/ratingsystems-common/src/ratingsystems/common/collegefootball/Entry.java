@@ -53,6 +53,16 @@ public class Entry {
         this.opponentScore = Integer.parseInt(entry[7]);
         this.scoreDifference = Math.abs(teamScore - opponentScore);
         this.weightedScoreDifference = ((teamScore - opponentScore) / scoreDifference) * (10 + scoreDifference);
-        this.week = (int)((this.date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
+        this.week = getWeek(date, startDate);
+    }
+
+    private static int getWeek(LocalDate date, LocalDate startDate) {
+        int week = (int)((date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
+        if ((date.getYear() == 2013 || date.getYear() == 2014) && week > 17) {
+            week = 17;
+        } else if (week > 16) {
+            week = 16;
+        }
+        return week;
     }
 }
