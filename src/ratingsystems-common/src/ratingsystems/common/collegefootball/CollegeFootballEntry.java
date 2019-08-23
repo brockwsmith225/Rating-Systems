@@ -1,7 +1,5 @@
 package ratingsystems.common.collegefootball;
 
-import ratingsystems.common.interpreter.Date;
-
 import java.time.LocalDate;
 
 public class CollegeFootballEntry {

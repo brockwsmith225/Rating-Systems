@@ -4,7 +4,6 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Team;
-import ratingsystems.common.interpreter.Date;
 
 import java.io.FileNotFoundException;
 import java.time.DayOfWeek;
