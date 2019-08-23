@@ -4,6 +4,7 @@ import ratingsystems.common.cli.commands.CheckPredictions;
 import ratingsystems.common.cli.commands.Command;
 import ratingsystems.common.cli.commands.Predict;
 import ratingsystems.common.cli.commands.Rank;
+import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
@@ -26,6 +27,7 @@ public abstract class Runner {
         //Add interpreters here
         interpreters = new HashMap<>();
         interpreters.put("cfb", new CollegeFootballInterpreter());
+        interpreters.put("cbb", new CollegeBasketballInterpreter());
 
         //Add general rating system parameters here
         parameters = new HashMap<>();
