@@ -45,6 +45,7 @@ public class RelativeRatingSystem extends RatingSystem {
 
     @Override
     public void setup() {
+        System.out.println("setup");
         double[][] posValues = setupPositiveValues();
         double[][] negValues = setupNegativeValues();
         double[][] partials = setupPartials();
