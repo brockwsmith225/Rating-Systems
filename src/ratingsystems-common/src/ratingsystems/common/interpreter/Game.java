@@ -69,6 +69,15 @@ public class Game {
     }
 
     /**
+     * Returns the signed, raw score of the game
+     *
+     * @return the signed, raw score of the game
+     */
+    public double getScoreDiff() {
+        return score - opponentScore;
+    }
+
+    /**
      * Returns the weighted difference of scores
      *
      * @return the weighted difference of scores

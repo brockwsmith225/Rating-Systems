@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class CollegeBasketballEntry {
     public LocalDate date;
     public String team, opponent, conference, location, result;
-    public int teamScore, opponentScore, scoreDifference, weightedScoreDifference, week;
+    public int teamScore, opponentScore, weightedScoreDifference, week;
 
     /**
      * Parses the inputted line for the information needed by the College Basketball interpreter
@@ -18,6 +18,7 @@ public class CollegeBasketballEntry {
 
         String[] d = entry[0].split("-");
         this.date = LocalDate.of(Integer.parseInt(d[0]), Integer.parseInt(d[1]), Integer.parseInt(d[2]));
+        this.week = getWeek(date, startDate);
         this.team = entry[1];
         this.conference = entry[2];
         this.location = entry[3];
@@ -25,9 +26,7 @@ public class CollegeBasketballEntry {
         this.result = entry[5];
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
-        this.scoreDifference = Math.abs(teamScore - opponentScore);
-        this.weightedScoreDifference = ((teamScore - opponentScore) / scoreDifference) * (10 + scoreDifference);
-        this.week = getWeek(date, startDate);
+        this.weightedScoreDifference = 10 + this.teamScore - this.opponentScore;
     }
 
     private static int getWeek(LocalDate date, LocalDate startDate) {

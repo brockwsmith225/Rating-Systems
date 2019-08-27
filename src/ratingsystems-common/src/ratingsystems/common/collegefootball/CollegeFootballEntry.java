@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class CollegeFootballEntry {
     public LocalDate date;
     public String team, opponent, conference, location, result;
-    public int teamScore, opponentScore, scoreDifference, weightedScoreDifference, week;
+    public int teamScore, opponentScore, weightedScoreDifference, week;
 
     /**
      * Parses the inputted line for the information needed by the College Football interpreter
@@ -26,8 +26,7 @@ public class CollegeFootballEntry {
         this.result = entry[5];
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
-        this.scoreDifference = Math.abs(teamScore - opponentScore);
-        this.weightedScoreDifference = ((teamScore - opponentScore) / scoreDifference) * (10 + scoreDifference);
+        this.weightedScoreDifference = 10 + Math.abs(this.teamScore - this.opponentScore);
     }
 
     private static int getWeek(LocalDate date, LocalDate startDate) {

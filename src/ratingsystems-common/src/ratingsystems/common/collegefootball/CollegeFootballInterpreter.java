@@ -38,6 +38,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
+                //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }

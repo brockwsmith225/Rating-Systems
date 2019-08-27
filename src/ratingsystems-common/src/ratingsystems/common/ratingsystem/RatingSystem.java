@@ -132,12 +132,13 @@ public abstract class RatingSystem {
         return games;
     }
 
-    public int checkPreditions(List<Game> games) {
-        int correct = 0;
+    public double checkPreditions(List<Game> games) {
+        double correct = 0;
         for (Game game : games) {
             double prediction = predictGame(game.getTeam(), game.getOpponent());
             if (game.getScore() > game.getOpponentScore() && prediction > 0.5) correct++;
             if (game.getScore() < game.getOpponentScore() && prediction < 0.5) correct++;
+            if (prediction == 0.5) correct += 0.5;
         }
         return correct;
     }

@@ -45,7 +45,6 @@ public class RelativeRatingSystem extends RatingSystem {
 
     @Override
     public void setup() {
-        System.out.println("setup");
         double[][] posValues = setupPositiveValues();
         double[][] negValues = setupNegativeValues();
         double[][] partials = setupPartials();
@@ -164,8 +163,8 @@ public class RelativeRatingSystem extends RatingSystem {
             ArrayList<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
-                if (game.getWeightedScoreDiff() > 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] = Math.abs(game.getWeightedScoreDiff());
+                if (game.getScoreDiff() > 0) {
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] += Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }
@@ -190,11 +189,11 @@ public class RelativeRatingSystem extends RatingSystem {
             ArrayList<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
-                if (game.getWeightedScoreDiff() < 0) {
+                if (game.getScoreDiff() < 0) {
                     if (!teamNameToIndex.containsKey(game.getOpponent())) {
                         System.out.println(game.getOpponent());
                     }
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] = Math.abs(game.getWeightedScoreDiff());
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] += Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }

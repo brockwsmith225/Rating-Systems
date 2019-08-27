@@ -16,7 +16,7 @@ public class CheckPredictions extends Command {
         double gamesCorrect = 0.0;
         double numOfGames = 0.0;
 
-        for (int week = 4; week < maxWeek; week++) {
+        for (int week = 1; week < maxWeek; week++) {
             List<Game> games = yearRatingSystem.getGames(week + 1);
             RatingSystem ratingSystem = runner.loadRatingSystem(commandInput, week);
             double correct = ratingSystem.checkPreditions(games);
