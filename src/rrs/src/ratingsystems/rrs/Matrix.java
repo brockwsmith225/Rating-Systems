@@ -191,7 +191,7 @@ public class Matrix {
                     if (r != p) {
                         for (int c = p; c < m.matrix.length; c++) {
                             m.matrix[r][c] -= m.matrix[p][c] * multiplier;
-                            if (Math.abs(m.matrix[r][c]) < 0.00000000001) {
+                            if (Math.abs(m.matrix[r][c]) < 0.00000000001 || Double.isNaN(m.matrix[r][c])) {
                                 m.matrix[r][c] = 0;
                             }
                         }

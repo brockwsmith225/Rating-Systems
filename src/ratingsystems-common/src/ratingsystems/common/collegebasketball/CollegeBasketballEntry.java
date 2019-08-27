@@ -26,10 +26,10 @@ public class CollegeBasketballEntry {
         this.result = entry[5];
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
-        this.weightedScoreDifference = 10 + this.teamScore - this.opponentScore;
+        this.weightedScoreDifference = 10 + Math.abs(this.teamScore - this.opponentScore);
     }
 
     private static int getWeek(LocalDate date, LocalDate startDate) {
-        return (int)((date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
+        return (int)((365 * (date.getYear() - startDate.getYear()) + date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
     }
 }

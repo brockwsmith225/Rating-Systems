@@ -107,7 +107,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
     }
 
     private LocalDate getStartDate(int year) {
-        LocalDate startDate = LocalDate.of(year, 11, 6);
+        LocalDate startDate = LocalDate.of(year-1, 11, 6);
         while (startDate.getDayOfWeek() != DayOfWeek.MONDAY) {
             startDate = startDate.minusDays(1);
         }

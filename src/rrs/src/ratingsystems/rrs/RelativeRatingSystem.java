@@ -230,8 +230,10 @@ public class RelativeRatingSystem extends RatingSystem {
             for (int r = 0; r < values.length; r++) {
                 colSum += values[r][c];
             }
-            for (int r = 0; r < values.length; r++) {
-                values[r][c] /= colSum;
+            if (colSum > 0.0) {
+                for (int r = 0; r < values.length; r++) {
+                    values[r][c] /= colSum;
+                }
             }
         }
         return new Matrix(values);

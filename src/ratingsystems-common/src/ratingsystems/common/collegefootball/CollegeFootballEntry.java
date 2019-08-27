@@ -30,7 +30,7 @@ public class CollegeFootballEntry {
     }
 
     private static int getWeek(LocalDate date, LocalDate startDate) {
-        int week = (int)((date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
+        int week = (int)((365 * (date.getYear() - startDate.getYear()) + date.getDayOfYear() - startDate.getDayOfYear() + 7) / 7.0);
         if ((date.getYear() == 2013 || date.getYear() == 2014) && week > 17) {
             week = 17;
         } else if (week > 16) {

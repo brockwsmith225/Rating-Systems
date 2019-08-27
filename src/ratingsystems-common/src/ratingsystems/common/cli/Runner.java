@@ -31,9 +31,9 @@ public abstract class Runner {
 
         //Add general rating system parameters here
         parameters = new HashMap<>();
-        parameters.put("YEAR", new Parameter(Integer.class, 2018, 1800, 2500));
-        parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
-        parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
+        parameters.put("YEAR", new Parameter(Integer.class, 2019, 1800, 2500));
+        parameters.put("WEEK", new Parameter(Integer.class, 1, 0, 50));
+        parameters.put("LEAGUE", new Parameter(String.class, "cbb", interpreters.keySet()));
 
         //Add general rating system commands here
         commands = new HashMap<>();
