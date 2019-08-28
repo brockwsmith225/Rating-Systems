@@ -98,11 +98,11 @@ public class Terminal {
         return result.toString();
     }
 
-    public static String round(double number, double places) {
+    public static String round(double number, int places) {
         double pow10 = Math.pow(10, places);
-        StringBuilder result = new StringBuilder(Double.toString((int)(number * pow10) / pow10));
+        StringBuilder result = new StringBuilder(Double.toString(Math.round(number * pow10) / pow10));
         if (!result.toString().contains(".")) result.append(".");
-        while (result.toString().split("\\.")[1].length() < 2) {
+        while (result.toString().split("\\.")[1].length() < places) {
             result.append("0");
         }
         return result.toString();

@@ -88,6 +88,7 @@ public abstract class RatingSystem {
     public void printTeamRankings(boolean prettyPrint) {
         if (prettyPrint) {
             System.out.println(prettyPrintRankingsHeader());
+            System.out.println(prettyPrintColumnHeaders());
         } else {
             System.out.println(printRankingsHeader());
         }
@@ -196,14 +197,24 @@ public abstract class RatingSystem {
      */
     protected String prettyPrintRankingsHeader() {
         StringBuilder header = new StringBuilder();
-        header.append("------------------------------------------------------------------------------------\n");
+        header.append("----------------------------------------------------------------------------------\n");
         if (week < 0) {
-            header.append(Terminal.centerJustify(Integer.toString(year), 84));
+            header.append(Terminal.centerJustify(Integer.toString(year), 82));
         } else {
-            header.append(Terminal.centerJustify(year + " Week " + week, 84));
+            header.append(Terminal.centerJustify(year + " Week " + week, 82));
         }
-        header.append("\n------------------------------------------------------------------------------------\n");
-        header.append("    |" + Terminal.centerJustify("Team", 50) + " | " + Terminal.centerJustify("Rating", 10) + " | " + Terminal.centerJustify("Record", 10) + " |");
+        header.append("\n----------------------------------------------------------------------------------");
+        return header.toString();
+    }
+
+    /**
+     * Returns a pretty print version of the column headers to be printed when printing team rankings
+     *
+     * @return a pretty print version of the column headers to be printed when printing team rankings
+     */
+    protected String prettyPrintColumnHeaders() {
+        StringBuilder header = new StringBuilder();
+        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Record", 10));
         return header.toString();
     }
 
@@ -215,7 +226,9 @@ public abstract class RatingSystem {
      * @return a string formatted to print the given team
      */
     protected String printTeam(String team) {
-        return teams.get(team).getName() + "\t" + teams.get(team).getRating();
+        return teams.get(team).getName() + "\t"
+                + teams.get(team).getRating() + "\t"
+                + teams.get(team).getRecord();
     }
 
     /**
@@ -225,7 +238,9 @@ public abstract class RatingSystem {
      * @return a a pretty print string formatted to print the given team
      */
     protected String prettyPrintTeam(String team) {
-        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   " + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   " + Terminal.rightJustify(teams.get(team).getRecord(), 10);
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
+                + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
     /**

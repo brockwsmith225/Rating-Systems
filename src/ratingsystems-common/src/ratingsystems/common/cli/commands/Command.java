@@ -47,7 +47,7 @@ public abstract class Command {
     protected static boolean validateArgsExist(CommandInput commandInput, int requiredArgs) {
         if (!commandInput.hasArgs(requiredArgs)) {
             System.err.println("ERROR: " + requiredArgs + " arguments required for " + commandInput.getCommand()
-                    + ", " + commandInput.getArgs() + " found");
+                    + ", " + commandInput.getArgs().size() + " found");
             return false;
         }
         return true;
