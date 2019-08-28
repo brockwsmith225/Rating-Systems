@@ -18,7 +18,7 @@ public abstract class RatingSystem {
     protected ArrayList<Team> rankedTeams;
     protected ArrayList<Team> rankedGroups;
     protected Interpreter interpreter;
-    protected int year;
+    protected int year, week;
 
     /**
      * Creates a new instance of a Rating System with no data
@@ -38,6 +38,7 @@ public abstract class RatingSystem {
      */
     public RatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         this.year = year;
+        this.week = -1;
         teams = interpreter.parseData(year);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
@@ -54,6 +55,7 @@ public abstract class RatingSystem {
      */
     public RatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
         this.year = year;
+        this.week = week;
         teams = interpreter.parseData(year, week);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
@@ -84,6 +86,11 @@ public abstract class RatingSystem {
      * @param prettyPrint denotes whether or not to format the output
      */
     public void printTeamRankings(boolean prettyPrint) {
+        if (prettyPrint) {
+            System.out.println(prettyPrintRankingsHeader());
+        } else {
+            System.out.println(printRankingsHeader());
+        }
         int rank = 1;
         for (int i = 0; i < rankedTeams.size(); i++) {
             if (i > 0 && rankedTeams.get(i).getRating() != rankedTeams.get(i - 1).getRating()) {
@@ -166,6 +173,42 @@ public abstract class RatingSystem {
     }
 
     /**
+     * Returns the header to be printed when printing team rankings
+     *
+     * @return the header to be printed when printing team rankings
+     */
+    protected String printRankingsHeader() {
+        StringBuilder header = new StringBuilder();
+        header.append("---------------\n");
+        if (week < 0) {
+            header.append(" " + year);
+        } else {
+            header.append(" " + year + " Week " + week);
+        }
+        header.append("\n---------------\n");
+        return header.toString();
+    }
+
+    /**
+     * Returns a pretty print version of the header to be printed when printing team rankings
+     *
+     * @return a pretty print version of the header to be printed when printing team rankings
+     */
+    protected String prettyPrintRankingsHeader() {
+        StringBuilder header = new StringBuilder();
+        header.append("------------------------------------------------------------------------------------\n");
+        if (week < 0) {
+            header.append(Terminal.centerJustify(Integer.toString(year), 84));
+        } else {
+            header.append(Terminal.centerJustify(year + " Week " + week, 84));
+        }
+        header.append("\n------------------------------------------------------------------------------------\n");
+        header.append("    |" + Terminal.centerJustify("Team", 50) + " | " + Terminal.centerJustify("Rating", 10) + " | " + Terminal.centerJustify("Record", 10) + " |");
+        return header.toString();
+    }
+
+
+    /**
      * Returns the team and stats to be printed when printing team rankings
      *
      * @param team the team to be printed
@@ -182,7 +225,7 @@ public abstract class RatingSystem {
      * @return a a pretty print string formatted to print the given team
      */
     protected String prettyPrintTeam(String team) {
-        return Terminal.leftJustify(teams.get(team).getName(), 50) + " " + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10);
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   " + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   " + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
     /**

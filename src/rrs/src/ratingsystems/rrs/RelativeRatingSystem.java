@@ -140,7 +140,7 @@ public class RelativeRatingSystem extends RatingSystem {
 
     @Override
     protected String prettyPrintTeam(String team) {
-        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   " + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 6) + "   " + Terminal.rightJustify(teams.get(team).getRecord(), 5);
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   " + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10) + "   " + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
 
