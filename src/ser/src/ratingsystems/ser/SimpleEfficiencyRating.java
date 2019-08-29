@@ -4,6 +4,7 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
@@ -53,9 +54,9 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    public double predictGame(String team1, String team2) {
+    public Prediction predictGame(String team1, String team2) {
         if (!teams.keySet().contains(team1) || !teams.keySet().contains(team2)) {
-            return 0.5;
+            return new Prediction(team1, team2, 0.5);
         }
 
         double team1Production = teams.get(team1).getRating("Offensive Rating") / teams.get(team2).getRating("Defensive Rating");
@@ -64,15 +65,13 @@ public class SimpleEfficiencyRating extends RatingSystem {
         double team1Score = team1Production * ppg;
         double team2Score = team2Production * ppg;
 
-        String team1ScoreFormatted = Double.toString((Math.round(team1Score * 2) / 2.0));
-        String team2ScoreFormatted = Double.toString((Math.round(team2Score * 2) / 2.0));
+        double odds = team1Production / (team1Production + team2Production);
 
-        if (!team1ScoreFormatted.contains(".")) team1ScoreFormatted += ".0";
-        if (!team2ScoreFormatted.contains(".")) team2ScoreFormatted += ".0";
-        System.out.println(team1 + ": " + team1ScoreFormatted);
-        System.out.println(team2 + ": " + team2ScoreFormatted);
+        System.out.println(team1Production / team2Production);
+        System.out.println(Math.log(team1Production / team2Production));
+        System.out.println(sigmoid(Math.log(team1Production / team2Production)));
 
-        return team1Production / (team1Production + team2Production);
+        return new Prediction(team1, team2, odds, team1Score, team2Score);
     }
 
     @Override
@@ -98,7 +97,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
     @Override
     protected String printTeam(String team) {
         return teams.get(team).getName() + "\t"
-                + (int)teams.get(team).getRating() + "\t"
+                + teams.get(team).getRating() + "\t"
                 + teams.get(team).getRecord();
     }
 
@@ -156,6 +155,10 @@ public class SimpleEfficiencyRating extends RatingSystem {
      */
     private double calculateDefensiveEfficiency(Game game) {
         return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
+    }
+
+    private double sigmoid(double x) {
+        return 1 / (1 + Math.exp(-1 * x));
     }
 
 }

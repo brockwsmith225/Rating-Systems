@@ -4,6 +4,7 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
@@ -89,9 +90,9 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     @Override
-    public double predictGame(String team1, String team2) {
+    public Prediction predictGame(String team1, String team2) {
         if (!teamNameToIndex.keySet().contains(team1) || !teamNameToIndex.keySet().contains(team2)) {
-            return 0.5;
+            return new Prediction(team1, team2, 0.5);
         }
 
         ArrayList<Integer> indices = new ArrayList<>();
@@ -130,7 +131,7 @@ public class RelativeRatingSystem extends RatingSystem {
         double b = 1.8;
         double odds = a * Math.tan(Math.atan(0.5 / a) * Math.tanh(b * totalDiff)) + 0.5;
 
-        return odds;
+        return new Prediction(team1, team2, odds);
     }
 
     @Override

@@ -143,7 +143,7 @@ public abstract class RatingSystem {
     public double checkPreditions(List<Game> games) {
         double correct = 0;
         for (Game game : games) {
-            double prediction = predictGame(game.getTeam(), game.getOpponent());
+            double prediction = predictGame(game.getTeam(), game.getOpponent()).getOdds();
             if (game.getScore() > game.getOpponentScore() && prediction > 0.5) correct++;
             if (game.getScore() < game.getOpponentScore() && prediction < 0.5) correct++;
             if (prediction == 0.5) correct += 0.5;
@@ -250,5 +250,5 @@ public abstract class RatingSystem {
      * @param team2 the second team in the game
      * @return the odds that team 1 wins
      */
-    abstract public double predictGame(String team1, String team2);
+    abstract public Prediction predictGame(String team1, String team2);
 }
