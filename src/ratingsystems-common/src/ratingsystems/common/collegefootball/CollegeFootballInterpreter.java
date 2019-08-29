@@ -22,7 +22,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
             addTeam(entry.team, entry.conference);
-            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
         }
 
         return teams;
@@ -39,7 +39,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
                 //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
 
@@ -57,7 +57,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             while (data.hasNext()) {
                 CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
                 addTeam(entry.team, entry.conference);
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
         return teams;
@@ -83,7 +83,7 @@ public class CollegeFootballInterpreter extends Interpreter {
     @Override
     public Scanner getData(int year) throws FileNotFoundException {
         Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
-        data.nextLine();
+        CollegeFootballEntry.setStatisticNames(data.nextLine());
         return data;
     }
 

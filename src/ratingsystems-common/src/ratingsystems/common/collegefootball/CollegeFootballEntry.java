@@ -1,11 +1,15 @@
 package ratingsystems.common.collegefootball;
 
 import java.time.LocalDate;
+import java.util.HashMap;
 
 public class CollegeFootballEntry {
+    public static String[] statisticNames;
+
     public LocalDate date;
     public String team, opponent, conference, location, result;
     public int teamScore, opponentScore, weightedScoreDifference, week;
+    public HashMap<String, Double> statistics;
 
     /**
      * Parses the inputted line for the information needed by the College Football interpreter
@@ -27,6 +31,13 @@ public class CollegeFootballEntry {
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
         this.weightedScoreDifference = 10 + Math.abs(this.teamScore - this.opponentScore);
+        for (int i = 8; i < entry.length; i++) {
+            statistics.put(statisticNames[i], Double.parseDouble(entry[i]));
+        }
+    }
+
+    public static void setStatisticNames(String header) {
+        String[] statisticsNames = CollegeFootballInterpreter.split(header, ",");
     }
 
     private static int getWeek(LocalDate date, LocalDate startDate) {

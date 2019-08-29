@@ -173,6 +173,14 @@ public class Team implements Comparable<Team> {
         return pointsAllowedPerGame / numberOfGames;
     }
 
+    public double getStatisticPerGame(String statistic) {
+        double statisticPerGame = 0.0;
+        for (Game game : games) {
+            statisticPerGame += game.getStatistic(statistic);
+        }
+        return statisticPerGame / numberOfGames;
+    }
+
     @Override
     public int compareTo(Team e) {
         if (rating < e.rating) {

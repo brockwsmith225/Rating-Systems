@@ -11,7 +11,7 @@ public class Game {
     private double score, opponentScore, weightedScoreDiff;
     private int week;
     private LocalDate date;
-    private HashMap<String, Double> otherData;
+    private HashMap<String, Double> statistics;
 
     /**
      *  Creates a new game.
@@ -30,6 +30,29 @@ public class Game {
         this.weightedScoreDiff = weightedScoreDiff;
         this.week = week;
         this.date = date;
+    }
+
+    /**
+     *  Creates a new game.
+     *
+     * @param opponent the name of the opponent of the game
+     * @param score the score of the team the game belongs to
+     * @param opponentScore the score of the opponent of the game
+     * @param weightedScoreDiff the weighted difference of scores
+     * @param date the date at which the game occurred
+     */
+    public Game(String team, String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date, HashMap<String, Double> statistics) {
+        this.team = team;
+        this.opponent = opponent;
+        this.score = score;
+        this.opponentScore = opponentScore;
+        this.weightedScoreDiff = weightedScoreDiff;
+        this.week = week;
+        this.date = date;
+        this.statistics = new HashMap<>();
+        for (String statistic : statistics.keySet()) {
+            this.statistics.put(statistic, statistics.get(statistic));
+        }
     }
 
     /**
@@ -102,6 +125,16 @@ public class Game {
      */
     public LocalDate getDate() {
         return date;
+    }
+
+    /**
+     * Returns the statistic of a specified name
+     *
+     * @param statistic the name of the statistic
+     * @return the value of the statistic
+     */
+    public double getStatistic(String statistic) {
+        return statistics.get(statistic);
     }
 
     /**
