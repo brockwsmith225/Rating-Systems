@@ -30,6 +30,7 @@ public class Game {
         this.weightedScoreDiff = weightedScoreDiff;
         this.week = week;
         this.date = date;
+        this.statistics= new HashMap<>();
     }
 
     /**
@@ -137,6 +138,18 @@ public class Game {
         return statistics.get(statistic);
     }
 
+    public void addDefensiveStatistics(Game opponentGame) {
+        for (String statistic : opponentGame.statistics.keySet()) {
+            this.statistics.put("Opponent" + statistic, opponentGame.statistics.get(statistic));
+        }
+    }
+
+    public boolean equalsReversed(Game game) {
+        return this.team.equals(game.opponent) &&
+                this.opponent.equals(game.team) &&
+                this.date.equals(game.date);
+    }
+
     /**
      * Returns a copy of the game
      *
@@ -145,6 +158,6 @@ public class Game {
      * @return a copy of the game
      */
     static Game copyOf(Game game) {
-        return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date);
+        return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date, game.statistics);
     }
 }

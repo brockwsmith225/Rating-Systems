@@ -6,6 +6,7 @@ import ratingsystems.common.interpreter.Team;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.lang.reflect.Array;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.HashMap;
@@ -25,6 +26,8 @@ public class CollegeFootballInterpreter extends Interpreter {
             teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
         }
 
+        addDefensiveStatistics();
+
         return teams;
     }
 
@@ -43,6 +46,8 @@ public class CollegeFootballInterpreter extends Interpreter {
             }
         }
 
+        addDefensiveStatistics();
+
         return teams;
     }
 
@@ -60,6 +65,9 @@ public class CollegeFootballInterpreter extends Interpreter {
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
+
+        addDefensiveStatistics();
+
         return teams;
     }
 

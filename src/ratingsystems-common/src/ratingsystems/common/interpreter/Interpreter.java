@@ -86,6 +86,15 @@ public abstract class Interpreter {
      */
     abstract public Scanner getData(int year) throws FileNotFoundException;
 
+    protected void addDefensiveStatistics() {
+        for (Team team : teams.values()) {
+            ArrayList<Game> games = team.getGames();
+            for (Game game : games) {
+                teams.get(game.getOpponent()).addDefensiveStats(game);
+            }
+        }
+    }
+
     /**
      * Splits the inputted string by the inputted delimiter. Ignores
      * portions of the inputted string that are within quotes

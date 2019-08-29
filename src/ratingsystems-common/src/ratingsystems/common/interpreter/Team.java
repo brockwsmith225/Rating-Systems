@@ -105,6 +105,14 @@ public class Team implements Comparable<Team> {
         numberOfGames++;
     }
 
+    public void addDefensiveStats(Game opponentGame) {
+        for (Game game : games) {
+            if (game.equalsReversed(opponentGame)) {
+                game.addDefensiveStatistics(opponentGame);
+            }
+        }
+    }
+
     /**
      * Returns the number of games the team played
      *

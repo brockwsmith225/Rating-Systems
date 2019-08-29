@@ -31,13 +31,14 @@ public class CollegeFootballEntry {
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
         this.weightedScoreDifference = 10 + Math.abs(this.teamScore - this.opponentScore);
+        this.statistics = new HashMap<>();
         for (int i = 8; i < entry.length; i++) {
-            statistics.put(statisticNames[i], Double.parseDouble(entry[i]));
+            this.statistics.put(statisticNames[i], Double.parseDouble(entry[i]));
         }
     }
 
     public static void setStatisticNames(String header) {
-        String[] statisticsNames = CollegeFootballInterpreter.split(header, ",");
+        statisticNames = CollegeFootballInterpreter.split(header, ",");
     }
 
     private static int getWeek(LocalDate date, LocalDate startDate) {
