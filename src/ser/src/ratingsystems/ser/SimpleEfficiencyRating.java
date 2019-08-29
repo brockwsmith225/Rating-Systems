@@ -67,10 +67,6 @@ public class SimpleEfficiencyRating extends RatingSystem {
 
         double odds = team1Production / (team1Production + team2Production);
 
-        System.out.println(team1Production / team2Production);
-        System.out.println(Math.log(team1Production / team2Production));
-        System.out.println(sigmoid(Math.log(team1Production / team2Production)));
-
         return new Prediction(team1, team2, odds, team1Score, team2Score);
     }
 
