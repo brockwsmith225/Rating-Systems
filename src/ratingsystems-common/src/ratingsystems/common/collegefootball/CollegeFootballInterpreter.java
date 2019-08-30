@@ -6,7 +6,6 @@ import ratingsystems.common.interpreter.Team;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.lang.reflect.Array;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.HashMap;

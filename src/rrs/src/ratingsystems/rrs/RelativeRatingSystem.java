@@ -4,6 +4,8 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.linalg.Matrix;
+import ratingsystems.common.linalg.Vector;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
@@ -57,8 +59,8 @@ public class RelativeRatingSystem extends RatingSystem {
         Matrix posMatrix = this.posMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
         Matrix negMatrix = this.negMatrix.multiply(0.9).add(partialsMatrix.multiply(0.1));
 
-        Vector posVector = posMatrix.getEigenvector(1.0);
-        Vector negVector = negMatrix.getEigenvector(1.0);
+        ratingsystems.common.linalg.Vector posVector = posMatrix.getEigenvector(1.0);
+        ratingsystems.common.linalg.Vector negVector = negMatrix.getEigenvector(1.0);
 
         setPositiveRatings(posVector);
         setNegativeRatings(negVector);
@@ -109,10 +111,10 @@ public class RelativeRatingSystem extends RatingSystem {
         for (int i : indices) {
             input[i] = 0.5;
         }
-        Vector inputVector = new Vector(input);
+        ratingsystems.common.linalg.Vector inputVector = new ratingsystems.common.linalg.Vector(input);
 
-        Vector posVector = inputVector.copy();
-        Vector negVector = inputVector.copy();
+        ratingsystems.common.linalg.Vector posVector = inputVector.copy();
+        ratingsystems.common.linalg.Vector negVector = inputVector.copy();
         for (int i = 0; i < 1; i++) {
             posVector = posMatrix.multiply(posVector);
             negVector = negMatrix.multiply(negVector);
@@ -249,7 +251,7 @@ public class RelativeRatingSystem extends RatingSystem {
      *
      * @param vector the eigenvector corresponding to the positive ratings
      */
-    private void setPositiveRatings(Vector vector) {
+    private void setPositiveRatings(ratingsystems.common.linalg.Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
             teams.get(teamIndexToName.get(i)).setRating("Positive Rating", (int)(vector.get(i) * 10000));
         }

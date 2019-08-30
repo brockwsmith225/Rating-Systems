@@ -1,4 +1,4 @@
-package ratingsystems.rrs;
+package ratingsystems.common.linalg;
 
 import java.util.Collection;
 
