@@ -144,6 +144,24 @@ public class Vector {
         return this.dotProduct(v) / (this.magnitude() * v.magnitude());
     }
 
+    public Vector normalize() {
+        double max = 0;
+        double min = Double.MAX_VALUE;
+        for (int i = 0; i < vector.length; i++) {
+            if (vector[i] > max) {
+                max = vector[i];
+            }
+            if (vector[i] < min){
+                min = vector[i];
+            }
+        }
+        double[] temp = new double[vector.length];
+        for (int i = 0; i < vector.length; i++) {
+            temp[i] = (vector[i] - min) / (max - min);
+        }
+        return new Vector(temp);
+    }
+
     @Override
     public String toString() {
         String res = "";

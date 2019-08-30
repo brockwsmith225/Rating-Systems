@@ -1,5 +1,7 @@
 package ratingsystems.common.interpreter;
 
+import ratingsystems.common.linalg.Vector;
+
 import java.time.LocalDate;
 import java.util.HashMap;
 
@@ -136,6 +138,17 @@ public class Game {
      */
     public double getStatistic(String statistic) {
         return statistics.get(statistic);
+    }
+
+    public Vector getStatisticsVector() {
+        double[] vector = new double[2 + statistics.size()];
+        vector[0] = score;
+        vector[1] = opponentScore;
+        int i = 0;
+        for (Double statistic : statistics.values()) {
+            vector[i++] = statistic;
+        }
+        return new Vector(vector);
     }
 
     public void addDefensiveStatistics(Game opponentGame) {

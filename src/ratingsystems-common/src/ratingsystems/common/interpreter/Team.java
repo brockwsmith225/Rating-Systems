@@ -1,5 +1,7 @@
 package ratingsystems.common.interpreter;
 
+import ratingsystems.common.linalg.Vector;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -187,6 +189,18 @@ public class Team implements Comparable<Team> {
             statisticPerGame += game.getStatistic(statistic);
         }
         return statisticPerGame / numberOfGames;
+    }
+
+    public Vector getStatisticsVector() {
+        if (games.size() == 0) {
+            return null;
+        }
+
+        Vector vector = games.get(0).getStatisticsVector();
+        for (int i = 1; i < games.size(); i++) {
+            vector = vector.add(games.get(0).getStatisticsVector());
+        }
+        return vector.multiply(1.0 / games.size());
     }
 
     @Override
