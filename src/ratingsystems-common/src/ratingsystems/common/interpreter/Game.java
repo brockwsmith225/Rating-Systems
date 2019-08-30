@@ -1,15 +1,17 @@
 package ratingsystems.common.interpreter;
 
+import java.time.LocalDate;
 import java.util.HashMap;
 
 /**
  * A representation of a game which compares two teams.
  */
 public class Game {
-    private String opponent;
+    private String team, opponent;
     private double score, opponentScore, weightedScoreDiff;
-    private Date date;
-    private HashMap<String, Double> otherData;
+    private int week;
+    private LocalDate date;
+    private HashMap<String, Double> statistics;
 
     /**
      *  Creates a new game.
@@ -20,12 +22,47 @@ public class Game {
      * @param weightedScoreDiff the weighted difference of scores
      * @param date the date at which the game occurred
      */
-    public Game(String opponent, double score, double opponentScore, double weightedScoreDiff, Date date) {
+    public Game(String team, String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date) {
+        this.team = team;
         this.opponent = opponent;
         this.score = score;
         this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
+        this.week = week;
         this.date = date;
+        this.statistics= new HashMap<>();
+    }
+
+    /**
+     *  Creates a new game.
+     *
+     * @param opponent the name of the opponent of the game
+     * @param score the score of the team the game belongs to
+     * @param opponentScore the score of the opponent of the game
+     * @param weightedScoreDiff the weighted difference of scores
+     * @param date the date at which the game occurred
+     */
+    public Game(String team, String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date, HashMap<String, Double> statistics) {
+        this.team = team;
+        this.opponent = opponent;
+        this.score = score;
+        this.opponentScore = opponentScore;
+        this.weightedScoreDiff = weightedScoreDiff;
+        this.week = week;
+        this.date = date;
+        this.statistics = new HashMap<>();
+        for (String statistic : statistics.keySet()) {
+            this.statistics.put(statistic, statistics.get(statistic));
+        }
+    }
+
+    /**
+     * Returns the name of the team of the game
+     *
+     * @return the name of the team of the game
+     */
+    public String getTeam() {
+        return team;
     }
 
     /**
@@ -56,6 +93,15 @@ public class Game {
     }
 
     /**
+     * Returns the signed, raw score of the game
+     *
+     * @return the signed, raw score of the game
+     */
+    public double getScoreDiff() {
+        return score - opponentScore;
+    }
+
+    /**
      * Returns the weighted difference of scores
      *
      * @return the weighted difference of scores
@@ -65,12 +111,43 @@ public class Game {
     }
 
     /**
+     * Returns the week during which the game occurred
+     *
+     * @return the week during which the game occurred
+     */
+    public int getWeek() {
+        return week;
+    }
+
+    /**
      * Returns the time at which the game occurred
      *
      * @return the time at which the game occurred
      */
-    public Date getDate() {
+    public LocalDate getDate() {
         return date;
+    }
+
+    /**
+     * Returns the statistic of a specified name
+     *
+     * @param statistic the name of the statistic
+     * @return the value of the statistic
+     */
+    public double getStatistic(String statistic) {
+        return statistics.get(statistic);
+    }
+
+    public void addDefensiveStatistics(Game opponentGame) {
+        for (String statistic : opponentGame.statistics.keySet()) {
+            this.statistics.put("Opponent" + statistic, opponentGame.statistics.get(statistic));
+        }
+    }
+
+    public boolean equalsReversed(Game game) {
+        return this.team.equals(game.opponent) &&
+                this.opponent.equals(game.team) &&
+                this.date.equals(game.date);
     }
 
     /**
@@ -81,6 +158,6 @@ public class Game {
      * @return a copy of the game
      */
     static Game copyOf(Game game) {
-        return new Game(game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.date);
+        return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date, game.statistics);
     }
 }

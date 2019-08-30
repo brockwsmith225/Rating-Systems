@@ -13,6 +13,18 @@ public abstract class Interpreter {
     protected ArrayList<String> groups;
     protected HashSet<String> addedGroups;
 
+
+    /**
+     * Handles the setup for the necessary instance variables which need to be created new each
+     * time the interpreter parses data, rather than when the interpreter is created
+     */
+    public void setup() {
+        teams = new HashMap<>();
+        groups = new ArrayList<>();
+        addedTeams = new HashSet<>();
+        addedGroups = new HashSet<>();
+    }
+
     /**
      * Interprets the data found in the data file specified by the file path
      *
@@ -73,6 +85,15 @@ public abstract class Interpreter {
      * @return a scanner with the data loaded
      */
     abstract public Scanner getData(int year) throws FileNotFoundException;
+
+    protected void addDefensiveStatistics() {
+        for (Team team : teams.values()) {
+            ArrayList<Game> games = team.getGames();
+            for (Game game : games) {
+                teams.get(game.getOpponent()).addDefensiveStats(game);
+            }
+        }
+    }
 
     /**
      * Splits the inputted string by the inputted delimiter. Ignores

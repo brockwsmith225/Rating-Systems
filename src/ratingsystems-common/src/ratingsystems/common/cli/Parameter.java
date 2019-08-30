@@ -91,6 +91,14 @@ public class Parameter {
         return false;
     }
 
+    @Override
+    public String toString() {
+        if (validationMode == 1) {
+            return comparableValue.toString();
+        }
+        return value.toString();
+    }
+
     public Class getType() {
         return this.type;
     }

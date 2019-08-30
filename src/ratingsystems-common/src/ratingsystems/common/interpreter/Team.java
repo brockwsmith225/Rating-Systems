@@ -105,6 +105,14 @@ public class Team implements Comparable<Team> {
         numberOfGames++;
     }
 
+    public void addDefensiveStats(Game opponentGame) {
+        for (Game game : games) {
+            if (game.equalsReversed(opponentGame)) {
+                game.addDefensiveStatistics(opponentGame);
+            }
+        }
+    }
+
     /**
      * Returns the number of games the team played
      *
@@ -121,10 +129,30 @@ public class Team implements Comparable<Team> {
      */
     public ArrayList<Game> getGames() {
         ArrayList<Game> dataCopy = new ArrayList<>();
-        for (Game dp : games) {
-            dataCopy.add(Game.copyOf(dp));
+        for (Game game : games) {
+            dataCopy.add(Game.copyOf(game));
         }
         return dataCopy;
+    }
+
+    public int getNumberOfWins() {
+        int wins = 0;
+        for (Game game : games) {
+            if (game.getScore() > game.getOpponentScore()) wins++;
+        }
+        return wins;
+    }
+
+    public int getNumberOfLosses() {
+        int losses = 0;
+        for (Game game : games) {
+            if (game.getScore() < game.getOpponentScore()) losses++;
+        }
+        return losses;
+    }
+
+    public String getRecord() {
+        return getNumberOfWins() + "-" + getNumberOfLosses();
     }
 
     /**
@@ -151,6 +179,14 @@ public class Team implements Comparable<Team> {
             pointsAllowedPerGame += game.getOpponentScore();
         }
         return pointsAllowedPerGame / numberOfGames;
+    }
+
+    public double getStatisticPerGame(String statistic) {
+        double statisticPerGame = 0.0;
+        for (Game game : games) {
+            statisticPerGame += game.getStatistic(statistic);
+        }
+        return statisticPerGame / numberOfGames;
     }
 
     @Override

@@ -1,8 +1,10 @@
 package ratingsystems.common.cli;
 
+import ratingsystems.common.cli.commands.CheckPredictions;
 import ratingsystems.common.cli.commands.Command;
 import ratingsystems.common.cli.commands.Predict;
 import ratingsystems.common.cli.commands.Rank;
+import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
@@ -25,11 +27,12 @@ public abstract class Runner {
         //Add interpreters here
         interpreters = new HashMap<>();
         interpreters.put("cfb", new CollegeFootballInterpreter());
+        interpreters.put("cbb", new CollegeBasketballInterpreter());
 
         //Add general rating system parameters here
         parameters = new HashMap<>();
         parameters.put("YEAR", new Parameter(Integer.class, 2018, 1800, 2500));
-        parameters.put("WEEK", new Parameter(Integer.class, 12, 0, 50));
+        parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
         parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
 
         //Add general rating system commands here
@@ -37,6 +40,7 @@ public abstract class Runner {
         commands.put("rank", new Rank());
         commands.put("predict", new Predict());
         commands.put("set", new ratingsystems.common.cli.commands.Set());
+        commands.put("check-predictions", new CheckPredictions());
 
         ratingSystems = new HashMap<>();
     }
@@ -94,7 +98,6 @@ public abstract class Runner {
                 addWeek(weekFlag, league, year, week);
             }
         }
-        ratingSystems.get(league).get(year).get(week).setup();
         return ratingSystems.get(league).get(year).get(week);
     }
 
@@ -127,7 +130,6 @@ public abstract class Runner {
                 addWeek(true, league, year, week);
             }
         }
-        ratingSystems.get(league).get(year).get(week).setup();
         return ratingSystems.get(league).get(year).get(week);
     }
 

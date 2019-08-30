@@ -1,18 +1,17 @@
-package ratingsystems.common.collegefootball;
+package ratingsystems.common.collegebasketball;
 
-import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
+import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Team;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.lang.reflect.Array;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class CollegeFootballInterpreter extends Interpreter {
+public class CollegeBasketballInterpreter extends Interpreter {
 
     @Override
     public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
@@ -21,12 +20,10 @@ public class CollegeFootballInterpreter extends Interpreter {
         LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
-            CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
+            CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
             addTeam(entry.team, entry.conference);
-            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
         }
-
-        addDefensiveStatistics();
 
         return teams;
     }
@@ -38,15 +35,13 @@ public class CollegeFootballInterpreter extends Interpreter {
         LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
-            CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
+            CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
                 //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }
-
-        addDefensiveStatistics();
 
         return teams;
     }
@@ -60,14 +55,11 @@ public class CollegeFootballInterpreter extends Interpreter {
             LocalDate startDate = getStartDate(year);
 
             while (data.hasNext()) {
-                CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
+                CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
                 addTeam(entry.team, entry.conference);
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }
-
-        addDefensiveStatistics();
-
         return teams;
     }
 
@@ -85,13 +77,13 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public boolean hasData(int year)  {
-        return new File("ratingsystems/src/data/cfb-" + year + ".csv").exists();
+        return new File("ratingsystems/src/data/cbb-" + year + ".csv").exists();
     }
 
     @Override
     public Scanner getData(int year) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
-        CollegeFootballEntry.setStatisticNames(data.nextLine());
+        Scanner data = new Scanner(new File("ratingsystems/src/data/cbb-" + year + ".csv"));
+        data.nextLine();
         return data;
     }
 
@@ -115,10 +107,11 @@ public class CollegeFootballInterpreter extends Interpreter {
     }
 
     private LocalDate getStartDate(int year) {
-        LocalDate startDate = LocalDate.of(year, 9, 1);
+        LocalDate startDate = LocalDate.of(year-1, 11, 6);
         while (startDate.getDayOfWeek() != DayOfWeek.MONDAY) {
             startDate = startDate.minusDays(1);
         }
         return startDate;
     }
+
 }

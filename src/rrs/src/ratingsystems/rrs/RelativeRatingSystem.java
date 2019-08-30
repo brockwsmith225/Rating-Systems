@@ -4,6 +4,7 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
@@ -89,7 +90,11 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     @Override
-    public double predictGame(String team1, String team2) {
+    public Prediction predictGame(String team1, String team2) {
+        if (!teamNameToIndex.keySet().contains(team1) || !teamNameToIndex.keySet().contains(team2)) {
+            return new Prediction(team1, team2, 0.5);
+        }
+
         ArrayList<Integer> indices = new ArrayList<>();
         indices.add(teamNameToIndex.get(team1));
         indices.add(teamNameToIndex.get(team2));
@@ -126,17 +131,21 @@ public class RelativeRatingSystem extends RatingSystem {
         double b = 1.8;
         double odds = a * Math.tan(Math.atan(0.5 / a) * Math.tanh(b * totalDiff)) + 0.5;
 
-        return odds;
+        return new Prediction(team1, team2, odds);
     }
 
     @Override
     protected String printTeam(String team) {
-        return teams.get(team).getName() + "\t" + (int)teams.get(team).getRating();
+        return teams.get(team).getName() + "\t"
+                + (int)teams.get(team).getRating() + "\t"
+                + teams.get(team).getRecord();
     }
 
     @Override
     protected String prettyPrintTeam(String team) {
-        return Terminal.leftJustify(teams.get(team).getName(), 50) + " " + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10);
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
+                + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10) + "   "
+                + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
 
@@ -159,8 +168,8 @@ public class RelativeRatingSystem extends RatingSystem {
             ArrayList<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
-                if (game.getWeightedScoreDiff() > 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] = Math.abs(game.getWeightedScoreDiff());
+                if (game.getScoreDiff() > 0) {
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] += Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }
@@ -185,8 +194,11 @@ public class RelativeRatingSystem extends RatingSystem {
             ArrayList<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
-                if (game.getWeightedScoreDiff() < 0) {
-                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] = Math.abs(game.getWeightedScoreDiff());
+                if (game.getScoreDiff() < 0) {
+                    if (!teamNameToIndex.containsKey(game.getOpponent())) {
+                        System.out.println(game.getOpponent());
+                    }
+                    values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] += Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
             }
@@ -223,8 +235,10 @@ public class RelativeRatingSystem extends RatingSystem {
             for (int r = 0; r < values.length; r++) {
                 colSum += values[r][c];
             }
-            for (int r = 0; r < values.length; r++) {
-                values[r][c] /= colSum;
+            if (colSum > 0.0) {
+                for (int r = 0; r < values.length; r++) {
+                    values[r][c] /= colSum;
+                }
             }
         }
         return new Matrix(values);
@@ -263,7 +277,7 @@ public class RelativeRatingSystem extends RatingSystem {
 
     private Matrix removeExtraneousConnections(Matrix matrix, List<Integer> indices) {
         Matrix matrixCopy = matrix.copy();
-        for (int c = 0; c < matrixCopy.rows(); c++) {
+        for (int c = 0; c < matrixCopy.columns(); c++) {
             if (!indices.contains(c)) {
                 double value = matrixCopy.get(c, c);
                 double count = 0.0;
@@ -279,8 +293,6 @@ public class RelativeRatingSystem extends RatingSystem {
                         matrixCopy.set(r, c, matrixCopy.get(r, c) + value);
                     }
                 }
-            } else {
-
             }
         }
         return matrixCopy;

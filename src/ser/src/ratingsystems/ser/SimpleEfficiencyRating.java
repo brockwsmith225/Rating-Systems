@@ -1,8 +1,10 @@
 package ratingsystems.ser;
 
+import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
@@ -12,6 +14,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 public class SimpleEfficiencyRating extends RatingSystem {
+    private double ppg;
 
     public SimpleEfficiencyRating() {
         super();
@@ -27,6 +30,8 @@ public class SimpleEfficiencyRating extends RatingSystem {
 
     @Override
     public void setup() {
+        ppg = 0.0;
+
         calculateEfficiencies();
 
         rankTeams();
@@ -49,8 +54,56 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    public double predictGame(String team1, String team2) {
-        return 0.0;
+    public Prediction predictGame(String team1, String team2) {
+        if (!teams.keySet().contains(team1) || !teams.keySet().contains(team2)) {
+            return new Prediction(team1, team2, 0.5);
+        }
+
+        double team1Production = teams.get(team1).getRating("Offensive Rating") / teams.get(team2).getRating("Defensive Rating");
+        double team2Production = teams.get(team2).getRating("Offensive Rating") / teams.get(team1).getRating("Defensive Rating");
+
+        double team1Score = team1Production * ppg;
+        double team2Score = team2Production * ppg;
+
+        double odds = team1Production / (team1Production + team2Production);
+
+        return new Prediction(team1, team2, odds, team1Score, team2Score);
+    }
+
+    @Override
+    protected String prettyPrintRankingsHeader() {
+        StringBuilder header = new StringBuilder();
+        header.append("------------------------------------------------------------------------------------------------------------\n");
+        if (week < 0) {
+            header.append(Terminal.centerJustify(Integer.toString(year), 108));
+        } else {
+            header.append(Terminal.centerJustify(year + " Week " + week, 108));
+        }
+        header.append("\n------------------------------------------------------------------------------------------------------------\n");
+        return header.toString();
+    }
+
+    @Override
+    protected String prettyPrintColumnHeaders() {
+        StringBuilder header = new StringBuilder();
+        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Offense", 10) + "   " + Terminal.leftJustify("Defense", 10) + "   " + Terminal.leftJustify("Record", 10));
+        return header.toString();
+    }
+
+    @Override
+    protected String printTeam(String team) {
+        return teams.get(team).getName() + "\t"
+                + teams.get(team).getRating() + "\t"
+                + teams.get(team).getRecord();
+    }
+
+    @Override
+    protected String prettyPrintTeam(String team) {
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
+                + Terminal.rightJustify(Terminal.round(teams.get(team).getRating(), 3), 10) + "   "
+                + Terminal.rightJustify(Terminal.round(teams.get(team).getRating("Offensive Rating"), 3), 10) + "   "
+                + Terminal.rightJustify(Terminal.round(teams.get(team).getRating("Defensive Rating"), 3), 10) + "   "
+                + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
 
@@ -61,6 +114,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
      * Calculates the season efficiencies of every team
      */
     private void calculateEfficiencies() {
+        int count = 0;
         for (Team team : teams.values()) {
             int games = 0;
             double offensiveEfficiency = 0.0;
@@ -69,11 +123,14 @@ public class SimpleEfficiencyRating extends RatingSystem {
                 games++;
                 offensiveEfficiency += calculateOffensiveEfficiency(game);
                 defensiveEfficiency += calculateDefensiveEfficiency(game);
+                ppg += game.getScore();
+                count++;
             }
             team.setRating("Offensive Rating", offensiveEfficiency / games);
             team.setRating("Defensive Rating", games / defensiveEfficiency);
             team.setRating(offensiveEfficiency / defensiveEfficiency);
         }
+        ppg /= count;
     }
 
     /**
@@ -94,6 +151,10 @@ public class SimpleEfficiencyRating extends RatingSystem {
      */
     private double calculateDefensiveEfficiency(Game game) {
         return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
+    }
+
+    private double sigmoid(double x) {
+        return 1 / (1 + Math.exp(-1 * x));
     }
 
 }
