@@ -153,7 +153,9 @@ public class Game {
 
     public void addDefensiveStatistics(Game opponentGame) {
         for (String statistic : opponentGame.statistics.keySet()) {
-            this.statistics.put("Opponent" + statistic, opponentGame.statistics.get(statistic));
+            if (!statistic.startsWith("Opponent")) {
+                this.statistics.put("Opponent" + statistic, opponentGame.statistics.get(statistic));
+            }
         }
     }
 

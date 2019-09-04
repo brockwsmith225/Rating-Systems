@@ -144,20 +144,55 @@ public class Vector {
         return this.dotProduct(v) / (this.magnitude() * v.magnitude());
     }
 
-    public Vector normalize() {
-        double max = 0;
-        double min = Double.MAX_VALUE;
+    public Vector softmax() {
+        double sum = 0.0;
         for (int i = 0; i < vector.length; i++) {
-            if (vector[i] > max) {
-                max = vector[i];
-            }
-            if (vector[i] < min){
-                min = vector[i];
-            }
+            sum += Math.exp(vector[i]);
         }
         double[] temp = new double[vector.length];
         for (int i = 0; i < vector.length; i++) {
-            temp[i] = (vector[i] - min) / (max - min);
+            temp[i] = Math.exp(vector[i]) / sum;
+        }
+        return new Vector(temp);
+    }
+
+    public Vector normalize() {
+        double sum = 0.0;
+        for (int i = 0; i < vector.length; i++) {
+            sum += vector[i];
+        }
+        double[] temp = new double[vector.length];
+        for (int i = 0; i < vector.length; i++) {
+            temp[i] = vector[i] / sum;
+        }
+        return new Vector(temp);
+    }
+
+    public Vector piecewiseMultiplication(Vector v) {
+        if (vector.length != v.vector.length) {
+            System.out.println(vector.length + "!=" + v.vector.length);
+            return null;
+        }
+
+        double[] temp = new double[vector.length];
+        for (int i = 0; i < vector.length; i++) {
+            temp[i] = vector[i] * v.vector[i];
+        }
+        return new Vector(temp);
+    }
+
+    public Vector multiplicativeInverse() {
+        double[] temp = new double[vector.length];
+        for (int i = 0; i < vector.length; i++) {
+            temp[i] = 1.0 / vector[i];
+        }
+        return new Vector(temp);
+    }
+
+    public Vector replaceZeroes(double replacement) {
+        double[] temp = new double[vector.length];
+        for (int i = 0; i < vector.length; i++) {
+            temp[i] = vector[i] == 0.0 ? replacement : vector[i];
         }
         return new Vector(temp);
     }
