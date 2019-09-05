@@ -13,9 +13,9 @@ public class HistoricalPredictionSystemRunner extends Runner {
         super();
         prefix = " [HPS] ";
 
-        //Add RRS specific parameters here
+        //Add HPS specific parameters here
 
-        //Add RRS specific commands here
+        //Add HPS specific commands here
     }
 
     @Override
