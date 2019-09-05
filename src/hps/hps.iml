@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ratingsystems-common" />
+    <orderEntry type="module" module-name="ser" />
   </component>
 </module>

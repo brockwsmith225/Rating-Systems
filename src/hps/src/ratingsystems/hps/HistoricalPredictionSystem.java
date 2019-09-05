@@ -6,6 +6,7 @@ import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 import ratingsystems.common.linalg.Vector;
+import ratingsystems.ser.SimpleEfficiencyRating;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -17,6 +18,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
     private HashMap<Integer, HashMap<String, Vector>> scaledTeamVectors;
     private HashMap<Integer, HashMap<String, Team>> allTeams;
     private int year;
+    private SimpleEfficiencyRating ser;
 
     public HistoricalPredictionSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
@@ -29,7 +31,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
             allTeams.get(year).put(team, teams.get(team));
             teamVectors.get(year).put(team, teams.get(team).getStatisticsVector());
         }
-        for (int y = 2014; y < year; y++) {
+        for (int y = 2012; y < year; y++) {
             if (interpreter.hasData(y)) {
                 HashMap<String, Team> temp = interpreter.parseData(y);
                 allTeams.put(y, new HashMap<>());
@@ -53,7 +55,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
             allTeams.get(year).put(team, teams.get(team));
             teamVectors.get(year).put(team, teams.get(team).getStatisticsVector());
         }
-        for (int y = 2014; y < year; y++) {
+        for (int y = 2012; y < year; y++) {
             if (interpreter.hasData(y)) {
                 HashMap<String, Team> temp = interpreter.parseData(y);
                 allTeams.put(y, new HashMap<>());
@@ -76,19 +78,26 @@ public class HistoricalPredictionSystem extends RatingSystem {
             }
         }
 
-//        HashMap<String, Double> ratings = new HashMap<>();
-//        for (String team : allTeams.get(this.year).keySet()) {
-//            ratings.put(team, 0.0);
-//            for (String opponent : allTeams.get(this.year).keySet()) {
-//                if (!team.equals(opponent)) {
-//                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine());
-//                }
-//            }
-//        }
-//
-//        for (String team : allTeams.get(year).keySet()) {
-//            allTeams.get(this.year).get(team).setRating(ratings.get(team));
-//        }
+        try {
+            this.ser = new SimpleEfficiencyRating(this.interpreter, this.year);
+            this.ser.setup();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+        HashMap<String, Double> ratings = new HashMap<>();
+        for (String team : allTeams.get(this.year).keySet()) {
+            ratings.put(team, 0.0);
+            for (String opponent : allTeams.get(this.year).keySet()) {
+                if (!team.equals(opponent)) {
+                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine() * -1);
+                }
+            }
+        }
+
+        for (String team : allTeams.get(year).keySet()) {
+            allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
+        }
 
         rankTeams();
         rankGroups();
@@ -119,28 +128,34 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
         ArrayList<Double> gameSimilarities = new ArrayList<>();
         ArrayList<Double> gameResults = new ArrayList<>();
-        double wins = 0.0;
+        ArrayList<Double> team1Scores = new ArrayList<>();
+        ArrayList<Double> team2Scores = new ArrayList<>();
         for (Integer year : allTeams.keySet()) {
             if (year != this.year) {
                 for (String historicalTeam : allTeams.get(year).keySet()) {
                     for (Game game : allTeams.get(year).get(historicalTeam).getGames()) {
-                        double gameSimilarity = Math.pow(team1Similarities.get(historicalTeam) * team2Similarities.get(game.getOpponent()), this.year - year);
+                        double gameSimilarity = team1Similarities.get(historicalTeam) * team2Similarities.get(game.getOpponent());
                         gameSimilarities.add(gameSimilarity);
                         gameResults.add(game.getWeightedScoreDiff() * (game.getScoreDiff() / Math.abs(game.getScoreDiff())));
-                        if (game.getScoreDiff() > 0) {
-                            wins++;
-                        }
+                        team1Scores.add(game.getScore());
+                        team2Scores.add(game.getOpponentScore());
                     }
                 }
             }
         }
 
         Vector gameSimilaritiesVector = new Vector(gameSimilarities).softmax();
-        Vector gameResultsVector = new Vector(gameResults);
+        Vector team1ScoresVector = new Vector(team1Scores);
+        Vector team2ScoresVector = new Vector(team2Scores);
 
-        double expectedResult = gameSimilaritiesVector.dotProduct(gameResultsVector);
+        Team team1SER = this.ser.getTeam(team1);
+        Team team2SER = this.ser.getTeam(team2);
+        double team1ExpectedScore = gameSimilaritiesVector.dotProduct(team1ScoresVector) * team1SER.getRating("Offensive Rating") / team2SER.getRating("Defensive Rating");
+        double team2ExpectedScore = gameSimilaritiesVector.dotProduct(team2ScoresVector) * team2SER.getRating("Offensive Rating") / team1SER.getRating("Defensive Rating");
 
-        return new Prediction(team1, team2, 0.5 + expectedResult, expectedResult);
+        double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
+
+        return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore);
     }
 
 }

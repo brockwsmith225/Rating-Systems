@@ -151,6 +151,24 @@ public abstract class RatingSystem {
         return correct;
     }
 
+    public double checkError(List<Game> games) {
+        double error = 0.0;
+        for (Game game : games) {
+            double prediction = predictGame(game.getTeam(), game.getOpponent()).getLine();
+            error += Math.abs(prediction) - Math.abs(game.getScoreDiff());
+        }
+        return error;
+    }
+
+    public double checkAbsoluteError(List<Game> games) {
+        double error = 0.0;
+        for (Game game : games) {
+            double prediction = -1 * predictGame(game.getTeam(), game.getOpponent()).getLine();
+            error += Math.abs(prediction - game.getScoreDiff());
+        }
+        return error;
+    }
+
     public LocalDate getStartOfWeek(int week) {
         LocalDate startDate = LocalDate.of(year, 12, 31);
         for (Team team : teams.values()) {
@@ -251,4 +269,11 @@ public abstract class RatingSystem {
      * @return the odds that team 1 wins
      */
     abstract public Prediction predictGame(String team1, String team2);
+
+    public Team getTeam(String team) {
+        if (teams.containsKey(team)) {
+            return teams.get(team);
+        }
+        return null;
+    }
 }

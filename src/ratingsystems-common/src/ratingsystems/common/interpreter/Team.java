@@ -226,4 +226,18 @@ public class Team implements Comparable<Team> {
         }
         return 0;
     }
+
+    public static Team copyOf(Team team) {
+        Team copy = new Team(team.name);
+        copy.group = team.group;
+        copy.rating = team.rating;
+        for (String rating : team.otherRatings.keySet()) {
+            copy.otherRatings.put(rating, team.otherRatings.get(rating));
+        }
+        copy.numberOfGames = team.numberOfGames;
+        for (Game game : team.games) {
+            copy.games.add(Game.copyOf(game));
+        }
+        return copy;
+    }
 }

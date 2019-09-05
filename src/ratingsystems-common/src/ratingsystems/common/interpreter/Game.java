@@ -172,7 +172,7 @@ public class Game {
      *
      * @return a copy of the game
      */
-    static Game copyOf(Game game) {
+    public static Game copyOf(Game game) {
         return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date, game.statistics);
     }
 }

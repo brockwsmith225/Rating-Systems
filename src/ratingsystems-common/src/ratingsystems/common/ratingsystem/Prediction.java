@@ -10,7 +10,7 @@ public class Prediction {
         this.team1 = team1;
         this.team2 = team2;
         this.odds = odds;
-        this.line = -1;
+        this.line = 0;
         this.overUnder = -1;
         this.team1Score = -1;
         this.team2Score = -1;
@@ -65,9 +65,7 @@ public class Prediction {
             output.append(Terminal.leftJustify(team1, 20));
             output.append(Terminal.rightJustify(Terminal.round(odds * 100, 2), 10));
             output.append("%");
-            if (line >= 0) {
-                output.append(Terminal.rightJustify(formatLine(line), 10));
-            }
+            output.append(Terminal.rightJustify(formatLine(line), 10));
         }
         if (overUnder >= 0) {
             output.append("\nO/U ");
