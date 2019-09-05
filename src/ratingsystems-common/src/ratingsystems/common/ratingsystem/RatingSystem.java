@@ -62,6 +62,23 @@ public abstract class RatingSystem {
         this.interpreter = interpreter;
     }
 
+    public RatingSystem(Interpreter interpreter, int[] years) throws FileNotFoundException {
+        this.year = years[years.length - 1];
+        teams = interpreter.parseData(years);
+        rankedTeams = new ArrayList<>();
+        rankedGroups = new ArrayList<>();
+        this.interpreter = interpreter;
+    }
+
+    public RatingSystem(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
+        this.year = years[years.length - 1];
+        this.week = week;
+        teams = interpreter.parseData(years, week);
+        rankedTeams = new ArrayList<>();
+        rankedGroups = new ArrayList<>();
+        this.interpreter = interpreter;
+    }
+
     /**
      * Sets up the method for rating the teams as necessary
      */
@@ -269,6 +286,10 @@ public abstract class RatingSystem {
      * @return the odds that team 1 wins
      */
     abstract public Prediction predictGame(String team1, String team2);
+
+    public boolean hasTeam(String team) {
+        return teams.containsKey(team);
+    }
 
     public Team getTeam(String team) {
         if (teams.containsKey(team)) {

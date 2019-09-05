@@ -218,13 +218,7 @@ public class Team implements Comparable<Team> {
 
     @Override
     public int compareTo(Team e) {
-        if (rating < e.rating) {
-            return 1;
-        }
-        if (rating > e.rating) {
-            return -1;
-        }
-        return 0;
+        return Double.compare(e.rating, rating);
     }
 
     public static Team copyOf(Team team) {

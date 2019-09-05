@@ -64,6 +64,12 @@ public class CollegeBasketballInterpreter extends Interpreter {
     }
 
     @Override
+    public HashMap<String, Team> parseData(int[] years, int week) throws FileNotFoundException {
+        setup();
+        return teams;
+    }
+
+    @Override
     public void addTeam(String team, String conference) {
         if (addedTeams.add(team)) {
             teams.put(team, new Team(team));

@@ -54,6 +54,16 @@ public abstract class Interpreter {
     abstract public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException;
 
     /**
+     * Interprets the data found in the data files specified by the file paths
+     *
+     * @param years the years of the data
+     * @param week the maximum week of the data to be included for the last year in years
+     * @return a collection of the teams found in the data file
+     * @throws FileNotFoundException if any of the data files specified by the file paths is not found
+     */
+    abstract public HashMap<String, Team> parseData(int[] years, int week) throws FileNotFoundException;
+
+    /**
      * Adds the team to the interpreter results if it has not already been added
      *
      * @param team the team to be added

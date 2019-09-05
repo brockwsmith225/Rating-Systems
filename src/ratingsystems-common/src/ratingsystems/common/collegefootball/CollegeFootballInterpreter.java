@@ -71,6 +71,35 @@ public class CollegeFootballInterpreter extends Interpreter {
     }
 
     @Override
+    public HashMap<String, Team> parseData(int[] years, int week) throws FileNotFoundException {
+        setup();
+
+        for (int year : years) {
+            Scanner data = getData(year);
+            LocalDate startDate = getStartDate(year);
+            if (year == years[years.length - 1]) {
+                while (data.hasNext()) {
+                    CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
+                    if (entry.week <= week) {
+                        addTeam(entry.team, entry.conference);
+                        teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                    }
+                }
+            } else {
+                while (data.hasNext()) {
+                    CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
+                    addTeam(entry.team, entry.conference);
+                    teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                }
+            }
+        }
+
+        addDefensiveStatistics();
+
+        return teams;
+    }
+
+    @Override
     public void addTeam(String team, String conference) {
         if (addedTeams.add(team)) {
             teams.put(team, new Team(team));

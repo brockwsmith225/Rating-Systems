@@ -28,6 +28,14 @@ public class SimpleEfficiencyRating extends RatingSystem {
         super(interpreter, year, week);
     }
 
+    public SimpleEfficiencyRating(Interpreter interpreter, int[] years) throws FileNotFoundException {
+        super(interpreter, years);
+    }
+
+    public SimpleEfficiencyRating(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
+        super(interpreter, years, week);
+    }
+
     @Override
     public void setup() {
         ppg = 0.0;
