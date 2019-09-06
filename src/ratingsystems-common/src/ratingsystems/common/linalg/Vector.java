@@ -15,6 +15,20 @@ public class Vector {
     }
 
     /**
+     * Constructs a new vector of size {@code size} with all values initialized to the value
+     * {@code value}.
+     *
+     * @param size Size of the new vector
+     * @param value Value to initialize each element
+     */
+    public Vector(int size, double value) {
+        vector = new double[size];
+        for (int i = 0; i < size; i++) {
+            vector[i] = value;
+        }
+    }
+
+    /**
      * Constructs a new vector from an array.
      *
      * @param values Array of values to use for the new vector
