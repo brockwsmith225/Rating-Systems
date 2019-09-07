@@ -135,8 +135,14 @@ public class SimpleEfficiencyRating extends RatingSystem {
                 count++;
             }
             team.setRating("Offensive Rating", offensiveEfficiency / games);
+            if (Double.isNaN(team.getRating("Offensive Rating"))) {
+                team.setRating("Offensive Rating", 1.0);
+            }
             team.setRating("Defensive Rating", games / defensiveEfficiency);
-            team.setRating(offensiveEfficiency / defensiveEfficiency);
+            if (Double.isNaN(team.getRating("Defensive Rating"))) {
+                team.setRating("Defensive Rating", 1.0);
+            }
+            team.setRating(team.getRating("Offensive Rating") * team.getRating("Defensive Rating"));
         }
         ppg /= count;
     }
