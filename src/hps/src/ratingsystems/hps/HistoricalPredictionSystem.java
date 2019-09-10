@@ -18,6 +18,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
     private HashMap<Integer, HashMap<String, Vector>> scaledTeamVectors;
     private HashMap<Integer, HashMap<String, Team>> allTeams;
     private SimpleEfficiencyRating[] ser;
+    private boolean hasRankedTeams, hasRankedGroups;
 
     public HistoricalPredictionSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
@@ -106,23 +107,24 @@ public class HistoricalPredictionSystem extends RatingSystem {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+    }
 
-//        HashMap<String, Double> ratings = new HashMap<>();
-//        for (String team : allTeams.get(this.year).keySet()) {
-//            ratings.put(team, 0.0);
-//            for (String opponent : allTeams.get(this.year).keySet()) {
-//                if (!team.equals(opponent)) {
-//                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine() * -1);
-//                }
-//            }
-//        }
-//
-//        for (String team : allTeams.get(year).keySet()) {
-//            allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
-//        }
+    @Override
+    public void rankTeams() {
+        HashMap<String, Double> ratings = new HashMap<>();
+        for (String team : allTeams.get(this.year).keySet()) {
+            ratings.put(team, 0.0);
+            for (String opponent : allTeams.get(this.year).keySet()) {
+                if (!team.equals(opponent)) {
+                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine() * -1);
+                }
+            }
+        }
 
-        rankTeams();
-        rankGroups();
+        for (String team : allTeams.get(year).keySet()) {
+            allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
+        }
+        super.rankTeams();
     }
 
     @Override
@@ -131,11 +133,15 @@ public class HistoricalPredictionSystem extends RatingSystem {
     }
 
     @Override
-    public Prediction predictGame(String team1, String team2) {
-//        if (!teams.keySet().contains(team1) || !teams.keySet().contains(team2)) {
-//            return new Prediction(team1, team2, 0.5);
-//        }
+    public void printTeamRankings(boolean prettyPrint) {
+        if (!hasRankedTeams) {
+            rankTeams();
+        }
+        super.printTeamRankings(prettyPrint);
+    }
 
+    @Override
+    public Prediction predictGame(String team1, String team2) {
         HashMap<String, Double> team1Similarities = new HashMap<>();
         HashMap<String, Double> team2Similarities = new HashMap<>();
 
