@@ -22,6 +22,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     public HistoricalPredictionSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
+        hasRankedTeams = false;
+        hasRankedGroups = false;
         teamVectors = new HashMap<>();
         allTeams = new HashMap<>();
         allTeams.put(year, new HashMap<>());
@@ -45,6 +47,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     public HistoricalPredictionSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
         super(interpreter, year, week);
+        hasRankedTeams = false;
+        hasRankedGroups = false;
         teamVectors = new HashMap<>();
         allTeams = new HashMap<>();
         allTeams.put(year, new HashMap<>());
@@ -111,6 +115,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     @Override
     public void rankTeams() {
+        hasRankedTeams = true;
         HashMap<String, Double> ratings = new HashMap<>();
         for (String team : allTeams.get(this.year).keySet()) {
             ratings.put(team, 0.0);
