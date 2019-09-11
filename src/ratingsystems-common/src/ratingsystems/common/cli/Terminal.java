@@ -17,15 +17,15 @@ public class Terminal {
         }
     }
 
-    private boolean run(String comm) {
-        CommandInput command = new CommandInput(split(comm, " "));
+    private boolean run(String command) {
+        CommandInput commandInput = new CommandInput(split(command, " "));
 
-        if (runner.hasCommand(command.getCommand())) {
-            runner.run(command);
-        } else if (command.getCommand().equals("exit")) {
+        if (runner.hasCommand(commandInput.getCommand())) {
+            runner.run(commandInput);
+        } else if (commandInput.getCommand().equals("exit")) {
             return false;
         } else {
-            System.out.println("ERROR: Command not found " + command.getCommand());
+            System.out.println("ERROR: Command not found " + commandInput.getCommand());
         }
         return true;
     }
