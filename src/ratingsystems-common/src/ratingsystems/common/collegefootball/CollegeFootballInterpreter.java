@@ -114,12 +114,12 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public boolean hasData(int year)  {
-        return new File("ratingsystems/src/data/cfb-" + year + ".csv").exists();
+        return new File("src/data/cfb-" + year + ".csv").exists();
     }
 
     @Override
     public Scanner getData(int year) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
+        Scanner data = new Scanner(new File("src/data/cfb-" + year + ".csv"));
         CollegeFootballEntry.setStatisticNames(data.nextLine());
         return data;
     }
