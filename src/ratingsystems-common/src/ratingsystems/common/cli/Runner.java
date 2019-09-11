@@ -1,9 +1,6 @@
 package ratingsystems.common.cli;
 
-import ratingsystems.common.cli.commands.CheckPredictions;
-import ratingsystems.common.cli.commands.Command;
-import ratingsystems.common.cli.commands.Predict;
-import ratingsystems.common.cli.commands.Rank;
+import ratingsystems.common.cli.commands.*;
 import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
@@ -31,16 +28,17 @@ public abstract class Runner {
 
         //Add general rating system parameters here
         parameters = new HashMap<>();
-        parameters.put("YEAR", new Parameter(Integer.class, 2018, 1800, 2500));
+        parameters.put("YEAR", new Parameter(Integer.class, 2019, 1800, 2500));
         parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
         parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
 
         //Add general rating system commands here
         commands = new HashMap<>();
-        commands.put("rank", new Rank());
-        commands.put("predict", new Predict());
-        commands.put("set", new ratingsystems.common.cli.commands.Set());
         commands.put("check-predictions", new CheckPredictions());
+        commands.put("fetch", new Fetch());
+        commands.put("predict", new Predict());
+        commands.put("rank", new Rank());
+        commands.put("set", new ratingsystems.common.cli.commands.Set());
 
         ratingSystems = new HashMap<>();
     }
