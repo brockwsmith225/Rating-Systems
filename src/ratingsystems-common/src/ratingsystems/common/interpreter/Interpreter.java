@@ -1,6 +1,7 @@
 package ratingsystems.common.interpreter;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.HashMap;
@@ -95,6 +96,8 @@ public abstract class Interpreter {
      * @return a scanner with the data loaded
      */
     abstract public Scanner getData(int year) throws FileNotFoundException;
+
+    abstract public void fetchData(int year) throws IOException;
 
     protected void addDefensiveStatistics() {
         for (Team team : teams.values()) {

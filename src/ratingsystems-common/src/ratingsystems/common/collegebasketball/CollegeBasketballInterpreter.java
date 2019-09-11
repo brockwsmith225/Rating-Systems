@@ -6,6 +6,7 @@ import ratingsystems.common.interpreter.Team;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.HashMap;
@@ -91,6 +92,11 @@ public class CollegeBasketballInterpreter extends Interpreter {
         Scanner data = new Scanner(new File("ratingsystems/src/data/cbb-" + year + ".csv"));
         data.nextLine();
         return data;
+    }
+
+    @Override
+    public void fetchData(int year) throws IOException {
+        new CollegeBasketballScraper().fetch(year);
     }
 
     //========== CFB only methods ==========

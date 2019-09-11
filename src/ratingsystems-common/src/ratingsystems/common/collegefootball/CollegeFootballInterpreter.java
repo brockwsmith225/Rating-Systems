@@ -6,6 +6,7 @@ import ratingsystems.common.interpreter.Team;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.HashMap;
@@ -121,6 +122,11 @@ public class CollegeFootballInterpreter extends Interpreter {
         Scanner data = new Scanner(new File("ratingsystems/src/data/cfb-" + year + ".csv"));
         CollegeFootballEntry.setStatisticNames(data.nextLine());
         return data;
+    }
+
+    @Override
+    public void fetchData(int year) throws IOException {
+        new CollegeFootballScraper().fetch(year);
     }
 
     //========== CFB only methods ==========
