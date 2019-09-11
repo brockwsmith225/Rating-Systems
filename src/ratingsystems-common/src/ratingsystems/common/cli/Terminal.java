@@ -12,21 +12,22 @@ public class Terminal {
     public void start() {
         System.out.print(runner.prefix + "> ");
         Scanner input = new Scanner(System.in);
-        run(input.nextLine());
+        while (run(input.nextLine())) {
+            System.out.print(runner.prefix + "> ");
+        }
     }
 
-    public void run(String comm) {
+    private boolean run(String comm) {
         CommandInput command = new CommandInput(split(comm, " "));
 
         if (runner.hasCommand(command.getCommand())) {
             runner.run(command);
         } else if (command.getCommand().equals("exit")) {
-            return;
+            return false;
         } else {
             System.out.println("ERROR: Command not found " + command.getCommand());
         }
-
-        start();
+        return true;
     }
 
     /**
