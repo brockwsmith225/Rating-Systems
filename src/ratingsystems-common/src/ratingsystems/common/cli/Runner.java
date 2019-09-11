@@ -15,9 +15,11 @@ public abstract class Runner {
     protected HashMap<String, Interpreter> interpreters;
     protected HashMap<String, Parameter> parameters;
     protected HashMap<String, Command> commands;
-    protected RatingSystem ratingSystem;
     protected HashMap<String, HashMap<Integer, HashMap<Integer, RatingSystem>>> ratingSystems; //league, year, week
 
+    /**
+     * Creates a new Runner object
+     */
     public Runner() {
         prefix = "";
 
@@ -43,28 +45,66 @@ public abstract class Runner {
         ratingSystems = new HashMap<>();
     }
 
+    /**
+     * Runs a given command based on the user's input
+     *
+     * @param command the command the user inputted into the terminal
+     */
     public void run(CommandInput command) {
         if (commands.get(command.getCommand()).validateInput(this, command)) {
             commands.get(command.getCommand()).run(this, command);
         }
     }
 
+    /**
+     * Returns the parameter specified by the parameter name
+     *
+     * @param parameter the name of the parameter to return
+     * @return the parameter specified by the parameter name
+     */
     public Parameter getParameter(String parameter) {
         return parameters.get(parameter);
     }
 
+    /**
+     * Returns the value of the paramater specified by the parameter name
+     *
+     * @param parameter the name of the parameter whose value to return
+     * @return the value of the parameter specified by the parameter name
+     */
     public Object getParameterValue(String parameter) {
         return parameters.get(parameter).getValue();
     }
 
-    public Set<String> parameterList() {
+    /**
+     * Returns a set of the parameter names
+     *
+     * @return a set containing the names of all of the parameters
+     */
+    public Set<String> parameterSet() {
         return parameters.keySet();
     }
 
+    /**
+     * Returns the interpreter specified by the league name
+     *
+     * @param interpreter the name of the league whose interpreter to return
+     * @return the interpreter specified by the league name
+     */
     public Interpreter getInterpreter(String interpreter) {
         return interpreters.get(interpreter);
     }
 
+    /**
+     * Returns a rating system based on the input of a specified command and a specified week
+     *
+     * Uses rating systems already created in the past to improve performance for multiple commands
+     * run on the same parameters
+     *
+     * @param commandInput the inputted command with arguments determining which rating system to
+     *                     return
+     * @return the rating system needed for the given command
+     */
     public RatingSystem loadRatingSystem(CommandInput commandInput) {
         boolean cleanFlag = commandInput.getOption("clean");
         boolean weekFlag = commandInput.getOption("week");
@@ -99,6 +139,17 @@ public abstract class Runner {
         return ratingSystems.get(league).get(year).get(week);
     }
 
+    /**
+     * Returns a rating system based on the input of a specified command and a specified week
+     *
+     * Uses rating systems already created in the past to improve performance for multiple commands
+     * run on the same parameters
+     *
+     * @param commandInput the inputted command with arguments determining which rating system to
+     *                     return
+     * @param week the week of the rating system to return
+     * @return the rating system needed for the given command
+     */
     public RatingSystem loadRatingSystem(CommandInput commandInput, int week) {
         boolean cleanFlag = commandInput.getOption("clean");
 

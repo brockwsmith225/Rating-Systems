@@ -27,7 +27,7 @@ public class Set extends Command {
         List<String> args = commandInput.getArgs();
         String parameter = args.get(0).toUpperCase();
         String value = args.get(1);
-        if (!runner.parameterList().contains(parameter)) {
+        if (!runner.parameterSet().contains(parameter)) {
             System.err.println("ERROR: No parameter found, " + parameter);
             return false;
         }
