@@ -56,10 +56,7 @@ public class Terminal {
         if (string.length() > columns) {
             return string.substring(0, columns - 3) + "...";
         }
-        StringBuilder result = new StringBuilder();
-        result.append(string);
-        result.append(spaces(columns - string.length()));
-        return result.toString();
+        return string + spaces(columns - string.length());
     }
 
     /**
@@ -73,10 +70,7 @@ public class Terminal {
         if (string.length() > columns) {
             return string.substring(0, columns - 3) + "...";
         }
-        StringBuilder result = new StringBuilder();
-        result.append(spaces(columns - string.length()));
-        result.append(string);
-        return result.toString();
+        return spaces(columns - string.length()) + string;
     }
 
     /**
@@ -90,13 +84,9 @@ public class Terminal {
         if (string.length() > columns) {
             return string.substring(0, columns - 3) + "...";
         }
-        StringBuilder result = new StringBuilder();
         int left = (int)Math.ceil((columns - string.length()) / 2.0);
         int right = (columns - string.length()) - left;
-        result.append(spaces(left));
-        result.append(string);
-        result.append(spaces(right));
-        return result.toString();
+        return spaces(left) + string + spaces(right);
     }
 
     public static String round(double number, int places) {
