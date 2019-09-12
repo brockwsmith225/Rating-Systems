@@ -6,17 +6,17 @@ import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Arrays;
 
 public abstract class Runner {
     public String prefix;
 
     protected HashMap<String, Interpreter> interpreters;
-    protected HashMap<String, Parameter> parameters;
+    protected ParameterMap parameters;
     protected HashMap<String, Command> commands;
-    protected HashMap<String, HashMap<Integer, HashMap<Integer, RatingSystem>>> ratingSystems; //league, year, week
+    protected HashMap<ParameterMap, RatingSystem> ratingSystems; //league, year, week
 
     /**
      * Creates a new Runner object
@@ -30,7 +30,7 @@ public abstract class Runner {
         interpreters.put("cbb", new CollegeBasketballInterpreter());
 
         //Add general rating system parameters here
-        parameters = new HashMap<>();
+        parameters = new ParameterMap();
         parameters.put("YEAR", new Parameter(Integer.class, 2019, 1800, 2500));
         parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
         parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
@@ -114,32 +114,21 @@ public abstract class Runner {
 
         String league = (String) parameters.get("LEAGUE").getValue();
         int year = (int) parameters.get("YEAR").getValue();
-        int week = weekFlag ? (int) parameters.get("WEEK").getValue() : -1;
-        if (cleanFlag) {
-            if (!ratingSystems.containsKey(league)) {
-                ratingSystems.put(league, new HashMap<>());
-            }
-            if (!ratingSystems.get(league).containsKey(year)) {
-                ratingSystems.get(league).put(year, new HashMap<>());
-            }
-            addWeek(weekFlag, league, year, week);
-        } else {
-            if (ratingSystems.containsKey(league)) {
-                if (ratingSystems.get(league).containsKey(year)) {
-                    if (!ratingSystems.get(league).get(year).containsKey(week)) {
-                        addWeek(weekFlag, league, year, week);
-                    }
-                } else {
-                    ratingSystems.get(league).put(year, new HashMap<>());
-                    addWeek(weekFlag, league, year, week);
-                }
-            } else{
-                ratingSystems.put(league, new HashMap<>());
-                ratingSystems.get(league).put(year, new HashMap<>());
-                addWeek(weekFlag, league, year, week);
+        int week = (int) parameters.get("WEEK").getValue();
+
+        ParameterMap parameters = this.parameters.copy();
+        if (!weekFlag) {
+            parameters.remove("WEEK");
+        }
+
+        if (cleanFlag || !ratingSystems.containsKey(parameters)) {
+            if (weekFlag) {
+                ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year, week));
+            } else {
+                ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year));
             }
         }
-        return ratingSystems.get(league).get(year).get(week);
+        return ratingSystems.get(parameters);
     }
 
     /**
@@ -158,47 +147,13 @@ public abstract class Runner {
 
         String league = (String) parameters.get("LEAGUE").getValue();
         int year = (int) parameters.get("YEAR").getValue();
-        if (cleanFlag) {
-            if (!ratingSystems.containsKey(league)) {
-                ratingSystems.put(league, new HashMap<>());
-            }
-            if (!ratingSystems.get(league).containsKey(year)) {
-                ratingSystems.get(league).put(year, new HashMap<>());
-            }
-            addWeek(true, league, year, week);
-        } else {
-            if (ratingSystems.containsKey(league)) {
-                if (ratingSystems.get(league).containsKey(year)) {
-                    if (!ratingSystems.get(league).get(year).containsKey(week)) {
-                        addWeek(true, league, year, week);
-                    }
-                } else {
-                    ratingSystems.get(league).put(year, new HashMap<>());
-                    addWeek(true, league, year, week);
-                }
-            } else{
-                ratingSystems.put(league, new HashMap<>());
-                ratingSystems.get(league).put(year, new HashMap<>());
-                addWeek(true, league, year, week);
-            }
-        }
-        return ratingSystems.get(league).get(year).get(week);
-    }
 
-    /**
-     * Adds a week and a new rating system to the rating systems
-     *
-     * @param weekFlag whether or not the week should be passed to the rating system
-     * @param league the league for the rating system
-     * @param year the year for the rating system
-     * @param week the week for the rating system
-     */
-    private void addWeek(boolean weekFlag, String league, int year, int week) {
-        if (weekFlag) {
-            ratingSystems.get(league).get(year).put(week, loadNewRatingSystem(interpreters.get(league), year, week));
-        } else {
-            ratingSystems.get(league).get(year).put(week, loadNewRatingSystem(interpreters.get(league), year));
+        ParameterMap parameters = this.parameters.copy();
+
+        if (cleanFlag || !ratingSystems.containsKey(parameters)) {
+            ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year, week));
         }
+        return ratingSystems.get(parameters);
     }
 
     /**
