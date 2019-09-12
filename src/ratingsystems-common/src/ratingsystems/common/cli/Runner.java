@@ -7,7 +7,8 @@ import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.util.HashMap;
-import java.util.Set;
+import java.util.HashSet;
+import java.util.Arrays;
 
 public abstract class Runner {
     public String prefix;
@@ -33,6 +34,8 @@ public abstract class Runner {
         parameters.put("YEAR", new Parameter(Integer.class, 2019, 1800, 2500));
         parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
         parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
+        parameters.put("START_YEAR", new Parameter(Integer.class, 2014, 1800, 2500));
+        parameters.put("CUMULATIVE", new Parameter(Boolean.class, false, new HashSet<>(Arrays.asList(false, true))));
 
         //Add general rating system commands here
         commands = new HashMap<>();
@@ -81,7 +84,7 @@ public abstract class Runner {
      *
      * @return a set containing the names of all of the parameters
      */
-    public Set<String> parameterSet() {
+    public java.util.Set<String> parameterSet() {
         return parameters.keySet();
     }
 

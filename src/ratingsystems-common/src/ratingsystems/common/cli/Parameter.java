@@ -24,7 +24,7 @@ public class Parameter {
         this.validationMode = 1;
     }
 
-    public Parameter(Class type, Object value, Set<? extends Object> possibleValues) {
+    public Parameter(Class type, Object value, Set<?> possibleValues) {
         this.type = type;
         this.value = value;
         this.possibleValues = new HashSet<>();
@@ -97,6 +97,10 @@ public class Parameter {
             return comparableValue.toString();
         }
         return value.toString();
+    }
+
+    public boolean equals(Parameter parameter) {
+        return this.getValue().equals(parameter.getValue());
     }
 
     public Class getType() {

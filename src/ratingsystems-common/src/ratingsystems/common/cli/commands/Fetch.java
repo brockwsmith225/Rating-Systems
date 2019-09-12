@@ -8,6 +8,7 @@ public class Fetch extends Command {
     public void run(Runner runner, CommandInput commandInput) {
         try {
             runner.getInterpreter(runner.getParameterValue("LEAGUE").toString()).fetchData((int) runner.getParameterValue("YEAR"));
+            System.out.println("Fetched data for " + runner.getParameterValue("YEAR"));
         } catch (Exception e) {
             e.printStackTrace();
         }
