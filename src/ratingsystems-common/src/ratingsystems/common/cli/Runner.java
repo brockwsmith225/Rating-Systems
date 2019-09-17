@@ -6,9 +6,7 @@ import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 
 public abstract class Runner {
     public String prefix;
@@ -35,7 +33,6 @@ public abstract class Runner {
         parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
         parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
         parameters.put("START_YEAR", new Parameter(Integer.class, 2014, 1800, 2500));
-        parameters.put("CUMULATIVE", new Parameter(Boolean.class, false, new HashSet<>(Arrays.asList(false, true))));
 
         //Add general rating system commands here
         commands = new HashMap<>();
@@ -155,6 +152,8 @@ public abstract class Runner {
         }
         return ratingSystems.get(parameters);
     }
+
+    public abstract RatingSystem loadNewRatingSystem(ParameterMap parameterMap);
 
     /**
      * Loads a new rating system with the given interpreter and year

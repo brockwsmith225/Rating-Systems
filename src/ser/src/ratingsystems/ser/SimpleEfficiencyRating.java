@@ -1,8 +1,8 @@
 package ratingsystems.ser;
 
 import ratingsystems.common.cli.Terminal;
-import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
+import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
@@ -134,14 +134,29 @@ public class SimpleEfficiencyRating extends RatingSystem {
                 ppg += game.getScore();
                 count++;
             }
+
             team.setRating("Offensive Rating", offensiveEfficiency / games);
             if (Double.isNaN(team.getRating("Offensive Rating"))) {
                 team.setRating("Offensive Rating", 1.0);
             }
+            if (team.getRating("Offensive Rating") > 10.0) {
+                team.setRating("Offensive Rating", 10.0);
+            }
+            if (team.getRating("Offensive Rating") < 0.1) {
+                team.setRating("Offensive Rating", 0.1);
+            }
+
             team.setRating("Defensive Rating", games / defensiveEfficiency);
             if (Double.isNaN(team.getRating("Defensive Rating"))) {
                 team.setRating("Defensive Rating", 1.0);
             }
+            if (team.getRating("Defensive Rating") > 10.0) {
+                team.setRating("Defensive Rating", 10.0);
+            }
+            if (team.getRating("Defensive Rating") < 0.1) {
+                team.setRating("Defensive Rating", 0.1);
+            }
+
             team.setRating(team.getRating("Offensive Rating") * team.getRating("Defensive Rating"));
         }
         ppg /= count;

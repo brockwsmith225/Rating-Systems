@@ -38,6 +38,10 @@ public class ParameterMap implements Map<String, Parameter> {
         return parameters.get(key);
     }
 
+    public Object getValue(Object key) {
+        return parameters.get(key).getValue();
+    }
+
     @Override
     public Parameter put(String key, Parameter value) {
         return parameters.put(key, value);
@@ -92,7 +96,11 @@ public class ParameterMap implements Map<String, Parameter> {
 
     @Override
     public int hashCode() {
-        return parameters.hashCode();
+        String hashCode = "";
+        for (String parameter : parameters.keySet()) {
+            hashCode += parameter + parameters.get(parameter);
+        }
+        return hashCode.hashCode();
     }
 
     public ParameterMap copy() {

@@ -1,5 +1,6 @@
 package ratingsystems.rrs;
 
+import ratingsystems.common.cli.ParameterMap;
 import ratingsystems.common.cli.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
@@ -16,6 +17,21 @@ public class RelativeRatingSystemRunner extends Runner {
         //Add RRS specific parameters here
 
         //Add RRS specific commands here
+    }
+
+    @Override
+    public RatingSystem loadNewRatingSystem(ParameterMap parameters) {
+        try {
+            if (parameters.containsKey("WEEK")) {
+                return new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                                                    (int) parameters.getValue("YEAR"),
+                                                    (int) parameters.getValue("WEEK"));
+            }
+            return new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                                                (int) parameters.getValue("YEAR"));
+        } catch (FileNotFoundException e) {
+            return null;
+        }
     }
 
     @Override
