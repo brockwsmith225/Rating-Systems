@@ -169,7 +169,9 @@ public class SimpleEfficiencyRating extends RatingSystem {
      * @return the offensive efficiency of the team from the game
      */
     private double calculateOffensiveEfficiency(Game game) {
-        return game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
+        double offensiveEfficiency = game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
+        if (Double.isNaN(offensiveEfficiency)) return 1.0;
+        return offensiveEfficiency;
     }
 
     /**
@@ -179,7 +181,9 @@ public class SimpleEfficiencyRating extends RatingSystem {
      * @return the defensive efficiency of the team from the game
      */
     private double calculateDefensiveEfficiency(Game game) {
-        return game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
+        double defensiveEfficiency = game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
+        if (Double.isNaN(defensiveEfficiency)) return 1.0;
+        return defensiveEfficiency;
     }
 
     private double sigmoid(double x) {
