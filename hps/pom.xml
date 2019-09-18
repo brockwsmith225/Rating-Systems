@@ -9,9 +9,7 @@
         <maven.compiler.target>1.10</maven.compiler.target>
     </properties>
 
-    <groupId>com.ratingsystems</groupId>
     <artifactId>hps</artifactId>
-    <version>1.0</version>
 
     <parent>
         <groupId>com.ratingsystems</groupId>

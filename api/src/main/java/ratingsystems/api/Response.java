@@ -1,4 +1,4 @@
-package ratingsystems.common.api;
+package ratingsystems.api;
 
 public class Response {
     private final String body;

@@ -20,6 +20,7 @@
         <module>rrs</module>
         <module>ser</module>
         <module>hps</module>
+        <module>api</module>
     </modules>
     
 </project>
