@@ -11,7 +11,13 @@
 
     <groupId>com.ratingsystems</groupId>
     <artifactId>common</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
+
+    <parent>
+        <groupId>com.ratingsystems</groupId>
+        <artifactId>parent-project</artifactId>
+        <version>1.0</version>
+    </parent>
 
     <dependencies>
         <dependency>
@@ -22,9 +28,10 @@
     </dependencies>
 
     <build>
+        <sourceDirectory>src/main/java</sourceDirectory>
         <resources>
             <resource>
-                <directory>${project.build.sourceDirectory}</directory>
+                <directory>src/main/resources</directory>
             </resource>
         </resources>
     </build>
