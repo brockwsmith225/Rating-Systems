@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rrs" />
+        <module name="api" />
         <module name="common" />
         <module name="ser" />
         <module name="hps" />
-        <module name="api" />
       </profile>
     </annotationProcessing>
   </component>

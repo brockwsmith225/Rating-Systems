@@ -7,15 +7,15 @@ import ratingsystems.common.ratingsystem.Prediction;
 
 public class Predict extends Command {
     @Override
-    public void run(Runner runner, CommandInput commandInput) {
+    public String run(Runner runner, CommandInput commandInput) {
         String team1 = commandInput.getArgs().get(0);
         String team2 = commandInput.getArgs().get(1);
         Prediction prediction = runner.loadRatingSystem(commandInput).predictGame(team1, team2);
 
         if (commandInput.getOption("pretty-print")) {
-            System.out.println(prediction);
+            return prediction.toString();
         } else {
-            System.out.println(prediction.getOdds());
+            return Double.toString(prediction.getOdds());
         }
     }
 

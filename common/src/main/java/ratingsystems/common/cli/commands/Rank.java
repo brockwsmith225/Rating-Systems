@@ -6,12 +6,10 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 
 public class Rank extends Command {
     @Override
-    public void run(Runner runner, CommandInput commandInput) {
+    public String run(Runner runner, CommandInput commandInput) {
         RatingSystem ratingSystem = runner.loadRatingSystem(commandInput);
 
-        System.out.println();
-        ratingSystem.printTeamRankings(commandInput.getOption("pretty-print"));
-        System.out.println();
+        return "\n" + ratingSystem.printTeamRankings(commandInput.getOption("pretty-print")) + "\n";
     }
 
     @Override

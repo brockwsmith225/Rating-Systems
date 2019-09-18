@@ -102,12 +102,15 @@ public abstract class RatingSystem {
      *
      * @param prettyPrint denotes whether or not to format the output
      */
-    public void printTeamRankings(boolean prettyPrint) {
+    public String printTeamRankings(boolean prettyPrint) {
+        StringBuilder rankings = new StringBuilder();
         if (prettyPrint) {
-            System.out.println(prettyPrintRankingsHeader());
-            System.out.println(prettyPrintColumnHeaders());
+            rankings.append(prettyPrintRankingsHeader());
+            rankings.append(prettyPrintColumnHeaders());
+            rankings.append("\n");
         } else {
-            System.out.println(printRankingsHeader());
+            rankings.append(printRankingsHeader());
+            rankings.append("\n");
         }
         int rank = 1;
         for (int i = 0; i < rankedTeams.size(); i++) {
@@ -115,11 +118,18 @@ public abstract class RatingSystem {
                 rank = i + 1;
             }
             if (prettyPrint) {
-                System.out.println(Terminal.rightJustify(Integer.toString(rank), 3) + ". " + prettyPrintTeam(rankedTeams.get(i).getName()));
+                rankings.append(Terminal.rightJustify(Integer.toString(rank), 3));
+                rankings.append(". ");
+                rankings.append(prettyPrintTeam(rankedTeams.get(i).getName()));
+                rankings.append("\n");
             } else {
-                System.out.println(rank + "\t" + printTeam(rankedTeams.get(i).getName()));
+                rankings.append(rank);
+                rankings.append("\t");
+                rankings.append(printTeam(rankedTeams.get(i).getName()));
+                rankings.append("\n");
             }
         }
+        return rankings.toString();
     }
 
     /**

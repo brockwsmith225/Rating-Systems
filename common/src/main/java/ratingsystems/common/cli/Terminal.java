@@ -17,11 +17,11 @@ public class Terminal {
         }
     }
 
-    private boolean run(String command) {
+    public boolean run(String command) {
         CommandInput commandInput = new CommandInput(split(command, " "));
 
         if (runner.hasCommand(commandInput.getCommand())) {
-            runner.run(commandInput);
+            System.out.println(runner.run(commandInput));
         } else if (commandInput.getCommand().equals("exit")) {
             return false;
         } else {

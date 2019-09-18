@@ -9,7 +9,8 @@ import java.util.List;
 
 public class CheckPredictions extends Command {
     @Override
-    public void run(Runner runner, CommandInput commandInput) {
+    public String run(Runner runner, CommandInput commandInput) {
+        StringBuilder result = new StringBuilder();
         RatingSystem yearRatingSystem = runner.loadRatingSystem(commandInput);
         int maxWeek = yearRatingSystem.getWeek();
 
@@ -28,15 +29,25 @@ public class CheckPredictions extends Command {
             totalError += error;
             totalAbsoluteError += absoluteError;
             numOfGames += games.size();
-            System.out.println("Week " + (week + 1));
-            System.out.println("Percent Correct: " + correct / games.size());
-            System.out.println("Error:           " + error / games.size());
-            System.out.println("Absolute Error:  " + absoluteError / games.size());
-            System.out.println();
+
+            result.append("Week ");
+            result.append(week + 1);
+            result.append("\nPercent Correct: ");
+            result.append(correct / games.size());
+            result.append("\nError:           ");
+            result.append(error / games.size());
+            result.append("\nAbsolute Error:  ");
+            result.append(absoluteError / games.size());
+            result.append("\n");
         }
-        System.out.println("Total Percent Correct: " + gamesCorrect / numOfGames);
-        System.out.println("Total Error:           " + totalError / numOfGames);
-        System.out.println("Total Absolute Error:  " + totalAbsoluteError / numOfGames);
+        result.append("Total Percent Correct: ");
+        result.append(gamesCorrect / numOfGames);
+        result.append("\nTotal Error:           ");
+        result.append(totalError / numOfGames);
+        result.append("Total Absolute Error:  ");
+        result.append(totalAbsoluteError / numOfGames);
+
+        return result.toString();
     }
 
     @Override

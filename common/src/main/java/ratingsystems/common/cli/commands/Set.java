@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Set extends Command {
     @Override
-    public void run(Runner runner, CommandInput commandInput) {
+    public String run(Runner runner, CommandInput commandInput) {
         List<String> args = commandInput.getArgs();
         String parameter = args.get(0).toUpperCase();
         String value = args.get(1);
@@ -17,7 +17,7 @@ public class Set extends Command {
             int integerValue = Integer.parseInt(value);
             runner.getParameter(parameter).setValue(integerValue);
         }
-        System.out.println("Set parameter " + parameter + " to " + value);
+        return "Set parameter " + parameter + " to " + value;
     }
 
     @Override

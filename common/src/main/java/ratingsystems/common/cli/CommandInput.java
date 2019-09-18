@@ -3,6 +3,7 @@ package ratingsystems.common.cli;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class CommandInput {
     private String command;
@@ -10,6 +11,76 @@ public class CommandInput {
 
     private HashMap<String, Boolean> options;
     private HashMap<Character, String> optionLetterToName;
+
+    public CommandInput(String command) {
+        this.options = new HashMap<>();
+        this.options.put("clean", false);
+        this.options.put("pretty-print", false);
+        this.options.put("week", false);
+
+        this.optionLetterToName = new HashMap<>();
+        this.optionLetterToName.put('c', "clean");
+        this.optionLetterToName.put('p', "pretty-print");
+        this.optionLetterToName.put('w', "week");
+
+        this.command = command;
+        this.args = new ArrayList<>();
+    }
+
+    public CommandInput(String command, List<String> args) {
+        this.options = new HashMap<>();
+        this.options.put("clean", false);
+        this.options.put("pretty-print", false);
+        this.options.put("week", false);
+
+        this.optionLetterToName = new HashMap<>();
+        this.optionLetterToName.put('c', "clean");
+        this.optionLetterToName.put('p', "pretty-print");
+        this.optionLetterToName.put('w', "week");
+
+        this.command = command;
+        this.args = new ArrayList<>(args);
+    }
+
+    public CommandInput(String command, Map<String, Boolean> options) {
+        this.options = new HashMap<>();
+        this.options.put("clean", false);
+        this.options.put("pretty-print", false);
+        this.options.put("week", false);
+
+        this.optionLetterToName = new HashMap<>();
+        this.optionLetterToName.put('c', "clean");
+        this.optionLetterToName.put('p', "pretty-print");
+        this.optionLetterToName.put('w', "week");
+
+        this.command = command;
+        this.args = new ArrayList<>();
+        for (String option : options.keySet()) {
+            if (this.options.containsKey(option)) {
+                this.options.put(option, options.get(option));
+            }
+        }
+    }
+
+    public CommandInput(String command, List<String> args, Map<String, Boolean> options) {
+        this.options = new HashMap<>();
+        this.options.put("clean", false);
+        this.options.put("pretty-print", false);
+        this.options.put("week", false);
+
+        this.optionLetterToName = new HashMap<>();
+        this.optionLetterToName.put('c', "clean");
+        this.optionLetterToName.put('p', "pretty-print");
+        this.optionLetterToName.put('w', "week");
+
+        this.command = command;
+        this.args = new ArrayList<>(args);
+        for (String option : options.keySet()) {
+            if (this.options.containsKey(option)) {
+                this.options.put(option, options.get(option));
+            }
+        }
+    }
 
     public CommandInput(String[] command) {
         this.options = new HashMap<>();

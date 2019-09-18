@@ -12,7 +12,7 @@ public abstract class Command {
      * @param runner the runner to get necessary parameters from
      * @param commandInput the command input from the user
      */
-    abstract public void run(Runner runner, CommandInput commandInput);
+    abstract public String run(Runner runner, CommandInput commandInput);
 
     /**
      * Validates that the input from the user will be enough to run the command
