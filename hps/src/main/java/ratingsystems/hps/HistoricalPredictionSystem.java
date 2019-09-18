@@ -138,11 +138,11 @@ public class HistoricalPredictionSystem extends RatingSystem {
     }
 
     @Override
-    public void printTeamRankings(boolean prettyPrint) {
+    public String printTeamRankings(boolean prettyPrint) {
         if (!hasRankedTeams) {
             rankTeams();
         }
-        super.printTeamRankings(prettyPrint);
+        return super.printTeamRankings(prettyPrint);
     }
 
     @Override

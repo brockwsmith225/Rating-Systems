@@ -23,7 +23,7 @@ public class CollegeFootballScraper extends WebScraper {
         for (String name : teams.keySet()) {
             linkToName.put(teams.get(name), name);
         }
-        PrintStream file = new PrintStream(new File("src/data/cfb-" + year + ".csv"));
+        PrintStream file = new PrintStream(new File("data/cfb-" + year + ".csv"));
         file.println("Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions");
         for (String name : teams.keySet()) {
             String team = teams.get(name);

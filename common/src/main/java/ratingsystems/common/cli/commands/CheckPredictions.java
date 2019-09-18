@@ -44,7 +44,7 @@ public class CheckPredictions extends Command {
         result.append(gamesCorrect / numOfGames);
         result.append("\nTotal Error:           ");
         result.append(totalError / numOfGames);
-        result.append("Total Absolute Error:  ");
+        result.append("\nTotal Absolute Error:  ");
         result.append(totalAbsoluteError / numOfGames);
 
         return result.toString();

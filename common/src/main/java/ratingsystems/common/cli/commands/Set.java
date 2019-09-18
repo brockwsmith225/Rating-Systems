@@ -8,16 +8,19 @@ import java.util.List;
 public class Set extends Command {
     @Override
     public Object run(Runner runner, CommandInput commandInput, CommandMode commandMode) {
-        List<String> args = commandInput.getArgs();
-        String parameter = args.get(0).toUpperCase();
-        String value = args.get(1);
-        if (runner.getParameter(parameter).getType().equals(String.class)) {
-            runner.getParameter(parameter).setValue(value);
-        } else if (runner.getParameter(parameter).getType().equals(Integer.class)) {
-            int integerValue = Integer.parseInt(value);
-            runner.getParameter(parameter).setValue(integerValue);
+        if (commandMode == CommandMode.TERMINAL) {
+            List<String> args = commandInput.getArgs();
+            String parameter = args.get(0).toUpperCase();
+            String value = args.get(1);
+            if (runner.getParameter(parameter).getType().equals(String.class)) {
+                runner.getParameter(parameter).setValue(value);
+            } else if (runner.getParameter(parameter).getType().equals(Integer.class)) {
+                int integerValue = Integer.parseInt(value);
+                runner.getParameter(parameter).setValue(integerValue);
+            }
+            return "Set parameter " + parameter + " to " + value;
         }
-        return "Set parameter " + parameter + " to " + value;
+        return null;
     }
 
     @Override

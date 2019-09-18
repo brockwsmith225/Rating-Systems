@@ -1,13 +1,17 @@
 package ratingsystems.api;
 
 public class Response {
-    private final String body;
+    private final Object body;
 
-    public Response(String body) {
+    public Response() {
+        this.body = "";
+    }
+
+    public Response(Object body) {
         this.body = body;
     }
 
-    public String getBody() {
+    public Object getBody() {
         return body;
     }
 }

@@ -76,13 +76,13 @@ public class RelativeRatingSystem extends RatingSystem {
         HashMap<String, Team> groups = new HashMap<>();
         HashMap<String, Integer> groupSizes = new HashMap<>();
         for (Team team : rankedTeams) {
-            if (addedGroups.add(team.getGroup())) {
-                groups.put(team.getGroup(), new Team(team.getGroup()));
-                groupSizes.put(team.getGroup(), 0);
+            if (addedGroups.add(team.getConference())) {
+                groups.put(team.getConference(), new Team(team.getConference()));
+                groupSizes.put(team.getConference(), 0);
             }
-            Team group = groups.get(team.getGroup());
+            Team group = groups.get(team.getConference());
             group.setRating(group.getRating() + team.getRating());
-            groupSizes.put(team.getGroup(), groupSizes.get(team.getGroup()) + 1);
+            groupSizes.put(team.getConference(), groupSizes.get(team.getConference()) + 1);
         }
         for (String group : groups.keySet()) {
             groups.get(group).setRating(groups.get(group).getRating() / groupSizes.get(group));

@@ -106,7 +106,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             teams.put(team, new Team(team));
         }
 
-        teams.get(team).setGroup(conference);
+        teams.get(team).setConference(conference);
         if (addedGroups.add(conference)) {
             groups.add(conference);
         }
@@ -114,12 +114,12 @@ public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
     public boolean hasData(int year)  {
-        return new File("src/data/cfb-" + year + ".csv").exists();
+        return new File("data/cfb-" + year + ".csv").exists();
     }
 
     @Override
     public Scanner getData(int year) throws FileNotFoundException {
-        Scanner data = new Scanner(new File("src/data/cfb-" + year + ".csv"));
+        Scanner data = new Scanner(new File("data/cfb-" + year + ".csv"));
         CollegeFootballEntry.setStatisticNames(data.nextLine());
         return data;
     }

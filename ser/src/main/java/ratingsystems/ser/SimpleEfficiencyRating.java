@@ -51,10 +51,10 @@ public class SimpleEfficiencyRating extends RatingSystem {
         HashSet<String> addedGroups = new HashSet<>();
         HashMap<String, Team> groups = new HashMap<>();
         for (Team team : rankedTeams) {
-            if (addedGroups.add(team.getGroup())) {
-                groups.put(team.getGroup(), new Team(team.getGroup()));
+            if (addedGroups.add(team.getConference())) {
+                groups.put(team.getConference(), new Team(team.getConference()));
             }
-            Team group = groups.get(team.getGroup());
+            Team group = groups.get(team.getConference());
             group.setRating(group.getRating() * team.getRating());
         }
         rankedGroups = new ArrayList<>(groups.values());

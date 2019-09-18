@@ -25,7 +25,7 @@ public class CollegeBasketballScraper extends WebScraper {
         for (String name : teams.keySet()) {
             linkToName.put(teams.get(name), name);
         }
-        PrintStream file = new PrintStream(new File("src/data/cbb-" + year + ".csv"));
+        PrintStream file = new PrintStream(new File("data/cbb-" + year + ".csv"));
         for (String name : teams.keySet()) {
             String team = teams.get(name);
             ArrayList<ArrayList<String>> schedule = new ArrayList<>();

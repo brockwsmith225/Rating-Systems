@@ -11,12 +11,16 @@ public class Predict extends Command {
         String team1 = commandInput.getArgs().get(0);
         String team2 = commandInput.getArgs().get(1);
         Prediction prediction = runner.loadRatingSystem(commandInput).predictGame(team1, team2);
-
-        if (commandInput.getOption("pretty-print")) {
-            return prediction.toString();
-        } else {
-            return Double.toString(prediction.getOdds());
+        if (commandMode == CommandMode.TERMINAL) {
+            if (commandInput.getOption("pretty-print")) {
+                return prediction.toString();
+            } else {
+                return Double.toString(prediction.getOdds());
+            }
+        } else if (commandMode == CommandMode.API) {
+            return prediction;
         }
+        return null;
     }
 
     @Override

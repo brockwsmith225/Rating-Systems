@@ -44,6 +44,18 @@ public class Prediction {
         return line;
     }
 
+    public double getOverUnder() {
+        return overUnder;
+    }
+
+    public double getTeam1Score() {
+        return team1Score;
+    }
+
+    public double getTeam2Score() {
+        return team2Score;
+    }
+
     @Override
     public String toString() {
         StringBuilder output = new StringBuilder();

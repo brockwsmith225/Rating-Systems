@@ -1,29 +1,31 @@
 package ratingsystems.common.interpreter;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import ratingsystems.common.linalg.Vector;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
  *
  */
-public class Team implements Comparable<Team> {
+public class Team implements Comparable<Team>, Serializable {
 
-    private String name, group;
+    private String name, conference;
     private double rating;
     private HashMap<String, Double> otherRatings;
     private int numberOfGames;
     private ArrayList<Game> games;
 
     /**
-     * Creates a new instance of an team.
+     * Creates a new instance of a team.
      *
      * @param name the name of the new team
      */
     public Team(String name) {
         this.name = name;
-        this.group = "";
+        this.conference = "";
         this.rating = 0.0;
         this.otherRatings = new HashMap<>();
         this.numberOfGames = 0;
@@ -40,21 +42,21 @@ public class Team implements Comparable<Team> {
     }
 
     /**
-     * Assigns the team to a particular group
+     * Assigns the team to a particular conference
      *
-     * @param group the name of the group to assign the team to
+     * @param conference the name of the conference to assign the team to
      */
-    public void setGroup(String group) {
-        this.group = group;
+    public void setConference(String conference) {
+        this.conference = conference;
     }
 
     /**
-     * Returns the group the team belongs to
+     * Returns the conference the team belongs to
      *
-     * @return the group the team belongs to
+     * @return the conference the team belongs to
      */
-    public String getGroup() {
-        return group;
+    public String getConference() {
+        return conference;
     }
 
     /**
@@ -129,6 +131,7 @@ public class Team implements Comparable<Team> {
      *
      * @return a copy of the games of the team
      */
+    @JsonIgnore
     public ArrayList<Game> getGames() {
         ArrayList<Game> dataCopy = new ArrayList<>();
         for (Game game : games) {
@@ -191,6 +194,7 @@ public class Team implements Comparable<Team> {
         return statisticPerGame / numberOfGames;
     }
 
+    @JsonIgnore
     public Vector getStatisticsVector() {
         if (games.size() == 0) {
             return null;
@@ -221,9 +225,14 @@ public class Team implements Comparable<Team> {
         return Double.compare(e.rating, rating);
     }
 
+    @Override
+    public String toString() {
+        return name;
+    }
+
     public static Team copyOf(Team team) {
         Team copy = new Team(team.name);
-        copy.group = team.group;
+        copy.conference = team.conference;
         copy.rating = team.rating;
         for (String rating : team.otherRatings.keySet()) {
             copy.otherRatings.put(rating, team.otherRatings.get(rating));

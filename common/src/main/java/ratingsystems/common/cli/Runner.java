@@ -50,9 +50,9 @@ public abstract class Runner {
      *
      * @param command the command the user inputted into the terminal
      */
-    public String run(CommandInput command, CommandMode commandMode) {
+    public Object run(CommandInput command, CommandMode commandMode) {
         if (commands.get(command.getCommand()).validateInput(this, command)) {
-            return commands.get(command.getCommand()).run(this, command, commandMode).toString();
+            return commands.get(command.getCommand()).run(this, command, commandMode);
         }
         return null;
     }

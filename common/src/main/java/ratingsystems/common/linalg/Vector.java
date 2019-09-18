@@ -1,8 +1,13 @@
 package ratingsystems.common.linalg;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
 import java.util.Collection;
 
-public class Vector {
+public class Vector implements Serializable {
     protected double[] vector;
 
     /**
@@ -209,6 +214,12 @@ public class Vector {
             temp[i] = vector[i] == 0.0 ? replacement : vector[i];
         }
         return new Vector(temp);
+    }
+
+    private void writeObject(ObjectOutputStream oos)
+            throws IOException {
+        oos.defaultWriteObject();
+        oos.writeObject(vector);
     }
 
     @Override
