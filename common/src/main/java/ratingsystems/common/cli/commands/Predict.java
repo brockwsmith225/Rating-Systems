@@ -7,7 +7,7 @@ import ratingsystems.common.ratingsystem.Prediction;
 
 public class Predict extends Command {
     @Override
-    public String run(Runner runner, CommandInput commandInput) {
+    public Object run(Runner runner, CommandInput commandInput, CommandMode commandMode) {
         String team1 = commandInput.getArgs().get(0);
         String team2 = commandInput.getArgs().get(1);
         Prediction prediction = runner.loadRatingSystem(commandInput).predictGame(team1, team2);

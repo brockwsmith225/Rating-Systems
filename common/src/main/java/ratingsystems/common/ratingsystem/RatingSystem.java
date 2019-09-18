@@ -106,6 +106,7 @@ public abstract class RatingSystem {
         StringBuilder rankings = new StringBuilder();
         if (prettyPrint) {
             rankings.append(prettyPrintRankingsHeader());
+            rankings.append("\n");
             rankings.append(prettyPrintColumnHeaders());
             rankings.append("\n");
         } else {
@@ -130,6 +131,10 @@ public abstract class RatingSystem {
             }
         }
         return rankings.toString();
+    }
+
+    public List<Team> getTeamRankings() {
+        return List.copyOf(rankedTeams);
     }
 
     /**

@@ -6,10 +6,14 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 
 public class Rank extends Command {
     @Override
-    public String run(Runner runner, CommandInput commandInput) {
+    public Object run(Runner runner, CommandInput commandInput, CommandMode commandMode) {
         RatingSystem ratingSystem = runner.loadRatingSystem(commandInput);
-
-        return "\n" + ratingSystem.printTeamRankings(commandInput.getOption("pretty-print")) + "\n";
+        if (commandMode == CommandMode.TERMINAL) {
+            return "\n" + ratingSystem.printTeamRankings(commandInput.getOption("pretty-print")) + "\n";
+        } else if (commandMode == CommandMode.API) {
+            return ratingSystem.getTeamRankings();
+        }
+        return null;
     }
 
     @Override

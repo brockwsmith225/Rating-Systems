@@ -5,7 +5,7 @@ import ratingsystems.common.cli.Runner;
 
 public class Fetch extends Command {
     @Override
-    public String run(Runner runner, CommandInput commandInput) {
+    public Object run(Runner runner, CommandInput commandInput, CommandMode commandMode) {
         try {
             runner.getInterpreter(runner.getParameterValue("LEAGUE").toString()).fetchData((int) runner.getParameterValue("YEAR"));
             return "Fetched data for " + runner.getParameterValue("YEAR");

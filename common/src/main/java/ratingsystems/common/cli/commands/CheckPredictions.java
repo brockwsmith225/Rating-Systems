@@ -9,7 +9,7 @@ import java.util.List;
 
 public class CheckPredictions extends Command {
     @Override
-    public String run(Runner runner, CommandInput commandInput) {
+    public Object run(Runner runner, CommandInput commandInput, CommandMode commandMode) {
         StringBuilder result = new StringBuilder();
         RatingSystem yearRatingSystem = runner.loadRatingSystem(commandInput);
         int maxWeek = yearRatingSystem.getWeek();

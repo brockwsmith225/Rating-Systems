@@ -1,5 +1,7 @@
 package ratingsystems.common.cli;
 
+import ratingsystems.common.cli.commands.CommandMode;
+
 import java.util.Scanner;
 
 public class Terminal {
@@ -21,7 +23,7 @@ public class Terminal {
         CommandInput commandInput = new CommandInput(split(command, " "));
 
         if (runner.hasCommand(commandInput.getCommand())) {
-            System.out.println(runner.run(commandInput));
+            System.out.println(runner.run(commandInput, CommandMode.TERMINAL));
         } else if (commandInput.getCommand().equals("exit")) {
             return false;
         } else {
