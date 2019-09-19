@@ -13,6 +13,18 @@ public class ParameterMap implements Map<String, Parameter> {
         parameters = new HashMap<>();
     }
 
+    public void setParameterValue(String parameter, Object value) {
+        if (parameters.containsKey(parameter)) {
+            parameters.get(parameter).setValue(value);
+        }
+    }
+
+    public void setParameterValue(String parameter, Comparable value) {
+        if (parameters.containsKey(parameter)) {
+            parameters.get(parameter).setValue(value);
+        }
+    }
+
     @Override
     public int size() {
         return parameters.size();
@@ -80,7 +92,7 @@ public class ParameterMap implements Map<String, Parameter> {
     @Override
     public boolean equals(Object object) {
         if (object.getClass().equals(ParameterMap.class)) {
-            ParameterMap map = (ParameterMap)object;
+            ParameterMap map = (ParameterMap) object;
             for (String key : parameters.keySet()) {
                 if (!map.containsKey(key)) {
                     return false;
@@ -98,7 +110,7 @@ public class ParameterMap implements Map<String, Parameter> {
     public int hashCode() {
         String hashCode = "";
         for (String parameter : parameters.keySet()) {
-            hashCode += parameter + parameters.get(parameter);
+            hashCode += parameter + parameters.get(parameter).getValue();
         }
         return hashCode.hashCode();
     }

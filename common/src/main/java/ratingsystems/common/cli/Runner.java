@@ -147,6 +147,7 @@ public abstract class Runner {
         int year = (int) parameters.get("YEAR").getValue();
 
         ParameterMap parameters = this.parameters.copy();
+        parameters.setParameterValue("WEEK", week);
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
             ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year, week));

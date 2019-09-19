@@ -30,7 +30,7 @@ public class CheckPredictions extends Command {
             totalAbsoluteError += absoluteError;
             numOfGames += games.size();
 
-            result.append("Week ");
+            result.append("\nWeek ");
             result.append(week + 1);
             result.append("\nPercent Correct: ");
             result.append(correct / games.size());
@@ -40,12 +40,13 @@ public class CheckPredictions extends Command {
             result.append(absoluteError / games.size());
             result.append("\n");
         }
-        result.append("Total Percent Correct: ");
+        result.append("\nTotal Percent Correct: ");
         result.append(gamesCorrect / numOfGames);
         result.append("\nTotal Error:           ");
         result.append(totalError / numOfGames);
         result.append("\nTotal Absolute Error:  ");
         result.append(totalAbsoluteError / numOfGames);
+        result.append("\n");
 
         return result.toString();
     }
