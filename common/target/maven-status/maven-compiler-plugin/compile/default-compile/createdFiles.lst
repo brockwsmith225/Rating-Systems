@@ -11,6 +11,7 @@ ratingsystems\common\cli\CommandInput.class
 ratingsystems\common\cli\commands\Fetch.class
 ratingsystems\common\interpreter\Interpreter.class
 ratingsystems\common\ratingsystem\Prediction.class
+ratingsystems\common\cli\commands\CommandMode.class
 ratingsystems\common\webscraper\WebScraper.class
 ratingsystems\common\linalg\Vector.class
 ratingsystems\common\cli\Runner.class

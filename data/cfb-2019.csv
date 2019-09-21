@@ -146,6 +146,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-09-14,New Mexico State,Ind,H,San Diego State,L,10,31,26,41,299,1,24,30,0,13,4,8,68,2,2
 2019-08-31,Louisiana Tech,CUSA,A,Texas,L,14,45,35,54,340,2,26,73,0,19,4,5,40,1,2
 2019-09-14,Louisiana Tech,CUSA,A,Bowling Green State,W,35,7,24,32,324,2,36,129,2,12,7,8,85,1,1
+2019-09-20,Louisiana Tech,CUSA,H,Florida International,W,43,31,27,41,290,0,43,275,3,14,16,5,38,0,1
 2019-09-07,Minnesota,Big Ten,A,Fresno State,W,38,35,16,23,234,2,52,146,3,12,10,7,65,3,0
 2019-09-14,Minnesota,Big Ten,H,Georgia Southern,W,35,32,19,31,289,3,48,93,2,11,9,4,45,1,1
 2019-08-31,Georgia Southern,Sun Belt,A,LSU,L,3,55,4,11,24,0,39,74,0,2,3,5,20,2,0
@@ -168,6 +169,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-09-14,UTSA,CUSA,H,Army,L,13,31,24,33,209,0,27,51,2,10,3,7,54,2,1
 2019-08-29,Utah,Pac-12,A,Brigham Young,W,30,12,13,16,106,0,48,262,2,2,16,7,64,0,0
 2019-09-07,Utah,Pac-12,H,Northern Illinois,W,35,17,14,19,214,1,37,193,4,8,10,1,10,0,0
+2019-09-20,Utah,Pac-12,A,USC,L,23,30,22,30,210,1,49,247,1,9,12,16,120,1,0
 2019-08-24,Arizona,Pac-12,A,Hawaii,L,38,45,22,39,361,3,32,178,2,19,7,10,88,0,2
 2019-09-14,Arizona,Pac-12,H,Texas Tech,W,28,14,14,23,185,1,61,314,3,9,13,5,37,1,2
 2019-09-07,Western Kentucky,CUSA,A,Florida International,W,20,14,19,33,241,1,35,98,1,10,6,7,60,0,2
@@ -208,6 +210,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-08-31,USC,Pac-12,H,Fresno State,W,31,23,31,42,272,1,36,175,2,12,11,4,35,2,2
 2019-09-07,USC,Pac-12,H,Stanford,W,45,20,28,33,377,3,28,115,3,15,7,8,93,1,0
 2019-09-14,USC,Pac-12,A,Brigham Young,L,27,30,24,34,281,2,45,171,1,13,9,5,44,0,3
+2019-09-20,USC,Pac-12,H,Utah,W,30,23,23,32,368,3,19,28,1,12,2,11,117,1,1
 2019-09-07,San Diego State,MWC,A,UCLA,W,23,14,23,31,293,1,47,80,1,15,3,5,50,0,0
 2019-09-14,San Diego State,MWC,A,New Mexico State,W,31,10,16,25,106,1,47,291,3,6,18,7,41,0,1
 2019-08-31,Eastern Michigan,MAC,A,Coastal Carolina,W,30,23,20,22,188,3,35,103,1,10,8,5,32,1,0
@@ -215,6 +218,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-09-14,Eastern Michigan,MAC,A,Illinois,W,34,31,23,36,316,3,40,164,1,12,10,2,20,1,0
 2019-08-29,Florida International,CUSA,A,Tulane,L,14,42,19,34,208,1,26,59,1,10,4,4,35,1,1
 2019-09-07,Florida International,CUSA,H,Western Kentucky,L,14,20,5,18,66,0,46,151,1,2,10,4,47,0,0
+2019-09-20,Florida International,CUSA,A,Louisiana Tech,L,31,43,29,41,394,2,26,132,2,19,8,4,50,1,1
 2019-09-14,Temple,American,H,Maryland,W,20,17,20,37,277,3,39,150,0,10,7,7,65,2,1
 2019-08-31,Louisiana,Sun Belt,N,Mississippi State,L,28,38,24,40,267,1,38,163,3,16,10,6,45,3,1
 2019-09-07,Louisiana,Sun Belt,H,Liberty,W,35,14,16,25,186,2,46,407,3,9,15,4,35,1,1
@@ -223,6 +227,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-08-31,Toledo,MAC,A,Kentucky,L,24,38,11,25,166,0,39,181,3,7,6,11,80,1,1
 2019-08-31,Boise State,MWC,A,Florida State,W,36,31,30,51,407,1,57,214,2,22,15,6,35,2,1
 2019-09-06,Boise State,MWC,H,Marshall,W,14,7,22,34,282,1,47,155,1,11,10,3,36,1,1
+2019-09-20,Boise State,MWC,H,Air Force,W,30,19,20,28,260,2,29,93,2,12,5,3,25,0,0
 2019-09-07,North Texas,CUSA,A,SMU,L,27,49,22,38,185,2,42,211,1,11,8,9,90,0,1
 2019-09-14,North Texas,CUSA,A,California,L,17,23,21,40,210,2,31,119,0,8,8,9,105,1,1
 2019-08-29,Brigham Young,Ind,H,Utah,L,12,30,21,33,208,0,22,92,1,9,5,7,63,1,2
@@ -250,6 +255,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-09-07,Tulsa,American,A,San Jose State,W,34,16,21,28,283,1,54,256,3,10,17,12,105,0,0
 2019-09-14,Tulsa,American,H,Oklahoma State,L,21,40,19,35,238,1,53,158,2,7,13,17,156,0,0
 2019-09-14,Air Force,MWC,A,Colorado,W,30,23,7,12,155,2,52,289,2,6,16,4,30,2,1
+2019-09-20,Air Force,MWC,A,Boise State,L,19,30,8,13,113,1,51,242,1,5,14,2,10,0,1
 2019-08-31,Oregon,Pac-12,N,Auburn,L,21,27,28,37,242,1,33,90,2,10,6,7,58,1,0
 2019-09-07,Oregon,Pac-12,H,Nevada,W,77,6,27,35,402,7,39,221,3,16,11,6,34,1,0
 2019-08-31,Tennessee,SEC,H,Georgia State,L,30,38,26,40,311,2,31,93,1,12,8,3,24,2,1
@@ -275,5 +281,7 @@ Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompleti
 2019-09-14,Texas Tech,Big 12,A,Arizona,L,14,28,30,55,311,1,25,104,1,15,7,7,60,0,2
 2019-08-29,Tulane,American,H,Florida International,W,42,14,15,19,195,2,49,350,4,8,18,12,103,1,0
 2019-09-07,Tulane,American,A,Auburn,L,6,24,10,34,103,0,30,120,0,4,6,11,80,0,1
+2019-09-19,Tulane,American,H,Houston,W,38,31,7,20,186,3,50,325,2,5,18,12,82,1,0
 2019-09-01,Houston,American,A,Oklahoma,L,31,49,14,27,167,2,42,241,2,8,14,6,48,0,0
 2019-09-13,Houston,American,N,Washington State,L,24,31,13,24,128,1,39,239,2,7,10,8,77,2,0
+2019-09-19,Houston,American,A,Tulane,L,31,38,16,33,229,2,46,304,2,11,16,3,25,0,1

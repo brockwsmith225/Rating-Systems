@@ -43,6 +43,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
                 }
             }
         }
+        week = getWeek();
     }
 
     public HistoricalPredictionSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
