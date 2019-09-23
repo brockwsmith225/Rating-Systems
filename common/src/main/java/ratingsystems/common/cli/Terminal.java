@@ -9,6 +9,7 @@ public class Terminal {
 
     public Terminal(Runner runner) {
         this.runner = runner;
+        CommandInput.runner = runner;
     }
 
     public void start() {
@@ -23,7 +24,7 @@ public class Terminal {
         CommandInput commandInput = new CommandInput(split(command, " "));
 
         if (runner.hasCommand(commandInput.getCommand())) {
-            System.out.println(runner.run(commandInput, CommandMode.TERMINAL));
+            runner.run(commandInput.getCommand(), commandInput.getArgs(), commandInput.getOptions(), commandInput.getParameters(), CommandMode.TERMINAL);
         } else if (commandInput.getCommand().equals("exit")) {
             return false;
         } else {

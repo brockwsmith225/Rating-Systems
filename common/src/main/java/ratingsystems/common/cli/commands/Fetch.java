@@ -2,21 +2,27 @@ package ratingsystems.common.cli.commands;
 
 import ratingsystems.common.cli.CommandInput;
 import ratingsystems.common.cli.Runner;
+import ratingsystems.common.cli.parameters.ParameterMap;
+
+import java.util.List;
+import java.util.Map;
 
 public class Fetch extends Command {
     @Override
-    public Object run(Runner runner, CommandInput commandInput, CommandMode commandMode) {
-        try {
-            runner.getInterpreter(runner.getParameterValue("LEAGUE").toString()).fetchData((int) runner.getParameterValue("YEAR"));
-            return "Fetched data for " + runner.getParameterValue("YEAR");
-        } catch (Exception e) {
-            e.printStackTrace();
+    public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters, CommandMode commandMode) {
+        if (commandMode == CommandMode.TERMINAL) {
+            try {
+                runner.getInterpreter(parameters.getValue("LEAGUE").toString()).fetchData((int) parameters.getValue("YEAR"));
+                System.out.println("Fetched data for " + parameters.getValue("YEAR"));
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
-        return "";
+        return null;
     }
 
     @Override
-    public boolean validateInput(Runner runner, CommandInput commandInput) {
+    public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters) {
         try {
             Process process = Runtime.getRuntime().exec("ping www.google.com");
             int res = process.waitFor();

@@ -1,6 +1,6 @@
 package ratingsystems.rrs;
 
-import ratingsystems.common.cli.ParameterMap;
+import ratingsystems.common.cli.parameters.ParameterMap;
 import ratingsystems.common.cli.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;

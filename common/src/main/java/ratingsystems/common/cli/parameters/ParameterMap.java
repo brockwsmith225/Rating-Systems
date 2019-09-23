@@ -1,4 +1,4 @@
-package ratingsystems.common.cli;
+package ratingsystems.common.cli.parameters;
 
 import java.util.Collection;
 import java.util.HashMap;
@@ -19,7 +19,7 @@ public class ParameterMap implements Map<String, Parameter> {
         }
     }
 
-    public void setParameterValue(String parameter, Comparable value) {
+    public void setParameterValue(String parameter, String value) {
         if (parameters.containsKey(parameter)) {
             parameters.get(parameter).setValue(value);
         }
@@ -47,7 +47,7 @@ public class ParameterMap implements Map<String, Parameter> {
 
     @Override
     public Parameter get(Object key) {
-        return parameters.get(key);
+        return parameters.get(key).copy();
     }
 
     public Object getValue(Object key) {
@@ -115,7 +115,7 @@ public class ParameterMap implements Map<String, Parameter> {
         return hashCode.hashCode();
     }
 
-    public ParameterMap copy() {
+    public static ParameterMap copyOf(ParameterMap parameters) {
         ParameterMap copy = new ParameterMap();
         for (String key : parameters.keySet()) {
             copy.put(key, parameters.get(key));

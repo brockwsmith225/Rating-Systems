@@ -1,18 +1,20 @@
 package ratingsystems.common.cli;
 
 import ratingsystems.common.cli.commands.*;
+import ratingsystems.common.cli.parameters.ParameterMap;
 import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public abstract class Runner {
     public String prefix;
 
     protected HashMap<String, Interpreter> interpreters;
-    protected ParameterMap parameters;
     protected HashMap<String, Command> commands;
     protected HashMap<ParameterMap, RatingSystem> ratingSystems; //league, year, week
 
@@ -27,20 +29,13 @@ public abstract class Runner {
         interpreters.put("cfb", new CollegeFootballInterpreter());
         interpreters.put("cbb", new CollegeBasketballInterpreter());
 
-        //Add general rating system parameters here
-        parameters = new ParameterMap();
-        parameters.put("YEAR", new Parameter(Integer.class, 2019, 1800, 2500));
-        parameters.put("WEEK", new Parameter(Integer.class, 16, 0, 50));
-        parameters.put("LEAGUE", new Parameter(String.class, "cfb", interpreters.keySet()));
-        parameters.put("START_YEAR", new Parameter(Integer.class, 2014, 1800, 2500));
-
         //Add general rating system commands here
         commands = new HashMap<>();
         commands.put("check-predictions", new CheckPredictions());
         commands.put("fetch", new Fetch());
         commands.put("predict", new Predict());
         commands.put("rank", new Rank());
-        commands.put("set", new ratingsystems.common.cli.commands.Set());
+//        commands.put("set", new ratingsystems.common.cli.commands.Set());
 
         ratingSystems = new HashMap<>();
     }
@@ -50,40 +45,11 @@ public abstract class Runner {
      *
      * @param command the command the user inputted into the terminal
      */
-    public Object run(CommandInput command, CommandMode commandMode) {
-        if (commands.get(command.getCommand()).validateInput(this, command)) {
-            return commands.get(command.getCommand()).run(this, command, commandMode);
+    public Object run(String command, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters, CommandMode commandMode) {
+        if (commands.get(command).validateInput(this, arguments, options, parameters)) {
+            return commands.get(command).run(this, arguments, options, parameters, commandMode);
         }
         return null;
-    }
-
-    /**
-     * Returns the parameter specified by the parameter name
-     *
-     * @param parameter the name of the parameter to return
-     * @return the parameter specified by the parameter name
-     */
-    public Parameter getParameter(String parameter) {
-        return parameters.get(parameter);
-    }
-
-    /**
-     * Returns the value of the paramater specified by the parameter name
-     *
-     * @param parameter the name of the parameter whose value to return
-     * @return the value of the parameter specified by the parameter name
-     */
-    public Object getParameterValue(String parameter) {
-        return parameters.get(parameter).getValue();
-    }
-
-    /**
-     * Returns a set of the parameter names
-     *
-     * @return a set containing the names of all of the parameters
-     */
-    public java.util.Set<String> parameterSet() {
-        return parameters.keySet();
     }
 
     /**
@@ -102,29 +68,13 @@ public abstract class Runner {
      * Uses rating systems already created in the past to improve performance for multiple commands
      * run on the same parameters
      *
-     * @param commandInput the inputted command with arguments determining which rating system to
-     *                     return
      * @return the rating system needed for the given command
      */
-    public RatingSystem loadRatingSystem(CommandInput commandInput) {
-        boolean cleanFlag = commandInput.getOption("clean");
-        boolean weekFlag = commandInput.getOption("week");
-
-        String league = (String) parameters.get("LEAGUE").getValue();
-        int year = (int) parameters.get("YEAR").getValue();
-        int week = (int) parameters.get("WEEK").getValue();
-
-        ParameterMap parameters = this.parameters.copy();
-        if (!weekFlag) {
-            parameters.remove("WEEK");
-        }
+    public RatingSystem loadRatingSystem(Map<String, Boolean> options, ParameterMap parameters) {
+        boolean cleanFlag = options.get("clean");
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
-            if (weekFlag) {
-                ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year, week));
-            } else {
-                ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year));
-            }
+            ratingSystems.put(parameters, loadNewRatingSystem(parameters));
         }
         return ratingSystems.get(parameters);
     }
@@ -135,22 +85,16 @@ public abstract class Runner {
      * Uses rating systems already created in the past to improve performance for multiple commands
      * run on the same parameters
      *
-     * @param commandInput the inputted command with arguments determining which rating system to
-     *                     return
      * @param week the week of the rating system to return
      * @return the rating system needed for the given command
      */
-    public RatingSystem loadRatingSystem(CommandInput commandInput, int week) {
-        boolean cleanFlag = commandInput.getOption("clean");
+    public RatingSystem loadRatingSystem(Map<String, Boolean> options, ParameterMap parameters, int week) {
+        boolean cleanFlag = options.get("clean");
 
-        String league = (String) parameters.get("LEAGUE").getValue();
-        int year = (int) parameters.get("YEAR").getValue();
-
-        ParameterMap parameters = this.parameters.copy();
         parameters.setParameterValue("WEEK", week);
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
-            ratingSystems.put(parameters, loadNewRatingSystem(interpreters.get(league), year, week));
+            ratingSystems.put(parameters, loadNewRatingSystem(parameters));
         }
         return ratingSystems.get(parameters);
     }
@@ -175,6 +119,10 @@ public abstract class Runner {
      * @return a new rating system
      */
     public abstract RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week);
+
+    public java.util.Set<String> getLeagues() {
+        return interpreters.keySet();
+    }
 
     /**
      * Checks that the command is valid
