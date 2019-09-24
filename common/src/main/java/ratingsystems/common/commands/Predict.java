@@ -1,7 +1,7 @@
-package ratingsystems.common.cli.commands;
+package ratingsystems.common.commands;
 
-import ratingsystems.common.cli.Runner;
-import ratingsystems.common.cli.parameters.Parameters;
+import ratingsystems.common.Runner;
+import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.ratingsystem.Prediction;
 
 import java.util.List;

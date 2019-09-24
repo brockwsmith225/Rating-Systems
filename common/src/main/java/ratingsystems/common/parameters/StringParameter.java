@@ -1,4 +1,4 @@
-package ratingsystems.common.cli.parameters;
+package ratingsystems.common.parameters;
 
 import java.util.HashSet;
 import java.util.Set;

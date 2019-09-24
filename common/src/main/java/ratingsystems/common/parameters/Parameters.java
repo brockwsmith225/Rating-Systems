@@ -1,4 +1,4 @@
-package ratingsystems.common.cli.parameters;
+package ratingsystems.common.parameters;
 
 import java.util.*;
 
@@ -47,6 +47,13 @@ public class Parameters implements Map<String, Parameter> {
         return false;
     }
 
+    public static boolean setDefaultParameterValue(String parameter, Object value) {
+        if (defaultParameters.containsKey(parameter)) {
+            return defaultParameters.get(parameter).setValue(value);
+        }
+        return false;
+    }
+
     public static boolean setDefaultParameterValue(String parameter, String value) {
         if (defaultParameters.containsKey(parameter)) {
             return defaultParameters.get(parameter).setValue(value);
@@ -56,6 +63,20 @@ public class Parameters implements Map<String, Parameter> {
 
     public static boolean isValidParameter(String parameter) {
         return defaultParameters.containsKey(parameter);
+    }
+
+    public static boolean isValidParameterValue(String parameter, Object value) {
+        if (defaultParameters.containsKey(parameter)) {
+            return defaultParameters.get(parameter).validateValue(value);
+        }
+        return false;
+    }
+
+    public static boolean isValidParameterValue(String parameter, String value) {
+        if (defaultParameters.containsKey(parameter)) {
+            return defaultParameters.get(parameter).validateValue(value);
+        }
+        return false;
     }
 
     @Override

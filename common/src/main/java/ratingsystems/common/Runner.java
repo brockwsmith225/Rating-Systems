@@ -1,7 +1,7 @@
-package ratingsystems.common.cli;
+package ratingsystems.common;
 
-import ratingsystems.common.cli.commands.*;
-import ratingsystems.common.cli.parameters.Parameters;
+import ratingsystems.common.commands.*;
+import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
@@ -35,7 +35,7 @@ public abstract class Runner {
         commands.put("fetch", new Fetch());
         commands.put("predict", new Predict());
         commands.put("rank", new Rank());
-//        commands.put("set", new ratingsystems.common.cli.commands.Set());
+//        commands.put("set", new ratingsystems.common.commands.Set());
 
         ratingSystems = new HashMap<>();
     }

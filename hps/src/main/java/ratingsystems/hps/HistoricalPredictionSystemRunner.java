@@ -1,7 +1,7 @@
 package ratingsystems.hps;
 
-import ratingsystems.common.cli.parameters.Parameters;
-import ratingsystems.common.cli.Runner;
+import ratingsystems.common.parameters.Parameters;
+import ratingsystems.common.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;

@@ -1,4 +1,4 @@
-package ratingsystems.common.cli.parameters;
+package ratingsystems.common.parameters;
 
 public interface Parameter<T> {
 

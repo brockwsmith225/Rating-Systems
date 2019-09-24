@@ -1,7 +1,8 @@
 package ratingsystems.common.cli;
 
-import ratingsystems.common.cli.commands.CommandMode;
-import ratingsystems.common.cli.parameters.Parameters;
+import ratingsystems.common.Runner;
+import ratingsystems.common.commands.CommandMode;
+import ratingsystems.common.parameters.Parameters;
 
 import java.util.Scanner;
 

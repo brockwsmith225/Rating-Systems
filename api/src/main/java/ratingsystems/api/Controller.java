@@ -2,8 +2,8 @@ package ratingsystems.api;
 
 import org.springframework.web.bind.annotation.*;
 import ratingsystems.common.cli.CommandInput;
-import ratingsystems.common.cli.Runner;
-import ratingsystems.common.cli.commands.CommandMode;
+import ratingsystems.common.Runner;
+import ratingsystems.common.commands.CommandMode;
 import ratingsystems.hps.HistoricalPredictionSystemRunner;
 import ratingsystems.rrs.RelativeRatingSystemRunner;
 
@@ -49,18 +49,8 @@ public class Controller {
             }
         }
 
-        CommandInput commandInput;
-        if (args == null && options == null) {
-            commandInput = new CommandInput(command);
-        } else if (args == null) {
-            commandInput = new CommandInput(command, options);
-        } else if (options == null) {
-            commandInput = new CommandInput(command, args);
-        } else {
-            commandInput = new CommandInput(command, args, options);
-        }
-
-        return new Response(ratingSystems.get(system).run(commandInput, CommandMode.API));
+        return null;
+        //return new Response(ratingSystems.get(system).run(args, parameters, options, CommandMode.API));
     }
 
 }

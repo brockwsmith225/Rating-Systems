@@ -1,6 +1,6 @@
 package ratingsystems.common.cli;
 
-import ratingsystems.common.cli.parameters.Parameters;
+import ratingsystems.common.parameters.Parameters;
 
 import java.util.*;
 

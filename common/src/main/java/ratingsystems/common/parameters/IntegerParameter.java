@@ -1,4 +1,4 @@
-package ratingsystems.common.cli.parameters;
+package ratingsystems.common.parameters;
 
 public class IntegerParameter implements Parameter<Integer> {
     private int value, minimum, maximum;
