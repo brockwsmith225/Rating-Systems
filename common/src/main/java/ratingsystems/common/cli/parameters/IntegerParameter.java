@@ -38,12 +38,11 @@ public class IntegerParameter implements Parameter<Integer> {
 
     public Integer parseValue(String value) {
         try {
-            Integer.valueOf(value);
+            return Integer.valueOf(value);
         } catch (NumberFormatException e) {
             System.err.println("ERROR: Invalid value " + value + " for type Integer");
             return null;
         }
-        return null;
     }
 
     @Override

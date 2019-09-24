@@ -140,6 +140,7 @@ public class CommandInput {
                     Parameter p = this.availableParameters.get(parameter).copy();
                     if (p.validateValue(c)) {
                         p.setValue(c);
+                        this.parameters.put(parameter, p);
                     }
                 } else {
                     this.args.add(c);
