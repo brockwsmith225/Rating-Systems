@@ -13,16 +13,19 @@ public class IntegerParameter implements Parameter<Integer> {
         return value;
     }
 
-    public void setValue(Integer value) {
+    public boolean setValue(Integer value) {
         if (validateValue(value)) {
             this.value = value;
+            return true;
         }
+        return false;
     }
 
-    public void setValue(String value) {
+    public boolean setValue(String value) {
         if (parseValue(value) != null) {
-            setValue(parseValue(value));
+            return setValue(parseValue(value));
         }
+        return false;
     }
 
     public boolean validateValue(Integer value) {

@@ -1,8 +1,7 @@
 package ratingsystems.common.cli.commands;
 
-import ratingsystems.common.cli.CommandInput;
 import ratingsystems.common.cli.Runner;
-import ratingsystems.common.cli.parameters.ParameterMap;
+import ratingsystems.common.cli.parameters.Parameters;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
@@ -11,7 +10,7 @@ import java.util.Map;
 
 public class CheckPredictions extends Command {
     @Override
-    public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters, CommandMode commandMode) {
+    public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         if (commandMode == CommandMode.TERMINAL) {
             RatingSystem yearRatingSystem = runner.loadRatingSystem(options, parameters);
             int maxWeek = yearRatingSystem.getWeek();
@@ -46,7 +45,7 @@ public class CheckPredictions extends Command {
     }
 
     @Override
-    public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters) {
+    public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters) {
         if (!Command.validateDataExists(runner, parameters)) return false;
         return true;
     }

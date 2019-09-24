@@ -1,6 +1,6 @@
 package ratingsystems.hps;
 
-import ratingsystems.common.cli.parameters.ParameterMap;
+import ratingsystems.common.cli.parameters.Parameters;
 import ratingsystems.common.cli.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
@@ -20,7 +20,7 @@ public class HistoricalPredictionSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(ParameterMap parameters) {
+    public RatingSystem loadNewRatingSystem(Parameters parameters) {
         try {
             RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {

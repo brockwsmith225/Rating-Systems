@@ -1,6 +1,7 @@
 package ratingsystems.common.cli;
 
 import ratingsystems.common.cli.commands.CommandMode;
+import ratingsystems.common.cli.parameters.Parameters;
 
 import java.util.Scanner;
 
@@ -9,7 +10,7 @@ public class Terminal {
 
     public Terminal(Runner runner) {
         this.runner = runner;
-        CommandInput.runner = runner;
+        Parameters.leagues = runner.getLeagues();
     }
 
     public void start() {
@@ -21,7 +22,7 @@ public class Terminal {
     }
 
     public boolean run(String command) {
-        CommandInput commandInput = new CommandInput(split(command, " "));
+        CommandInput commandInput = new CommandInput(command);
 
         if (runner.hasCommand(commandInput.getCommand())) {
             runner.run(commandInput.getCommand(), commandInput.getArgs(), commandInput.getOptions(), commandInput.getParameters(), CommandMode.TERMINAL);
@@ -31,21 +32,6 @@ public class Terminal {
             System.out.println("ERROR: Command not found " + commandInput.getCommand());
         }
         return true;
-    }
-
-    /**
-     * Splits the inputted string by the inputted delimiter. Ignores
-     * portions of the inputted string that are within quotes
-     *
-     * @param input the input to be split
-     * @return the split input
-     */
-    public static String[] split(String input, String delimiter) {
-        String[] res = input.split(delimiter + "(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1);
-        for (int i = 0; i < res.length; i++) {
-            res[i] = res[i].replace("\"", "");
-        }
-        return res;
     }
 
     /**

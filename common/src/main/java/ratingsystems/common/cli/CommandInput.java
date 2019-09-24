@@ -1,21 +1,15 @@
 package ratingsystems.common.cli;
 
-import ratingsystems.common.cli.parameters.IntegerParameter;
-import ratingsystems.common.cli.parameters.Parameter;
-import ratingsystems.common.cli.parameters.ParameterMap;
-import ratingsystems.common.cli.parameters.StringParameter;
+import ratingsystems.common.cli.parameters.Parameters;
 
 import java.util.*;
 
 public class CommandInput {
-    public static Runner runner;
-
     private String command;
     private List<String> args;
     private HashMap<Character, String> optionLetterToName;
     private HashMap<String, Boolean> flags;
-    private ParameterMap availableParameters;
-    private ParameterMap parameters;
+    private Parameters parameters;
 
     public CommandInput() {
         this.optionLetterToName = new HashMap<>();
@@ -26,91 +20,17 @@ public class CommandInput {
         this.optionLetterToName.put('l', "LEAGUE");
         this.optionLetterToName.put('s', "START_YEAR");
 
-        this.availableParameters = new ParameterMap();
-        this.availableParameters.put("YEAR", new IntegerParameter(2019, 1800, 2500));
-        this.availableParameters.put("WEEK", new IntegerParameter(16, 0, 50));
-        this.availableParameters.put("LEAGUE", new StringParameter("cfb", runner.getLeagues()));
-        this.availableParameters.put("START_YEAR", new IntegerParameter(2014, 1800, 2500));
-
         this.flags = new HashMap<>();
         this.flags.put("CLEAN", false);
         this.flags.put("PRETTY_PRINT", false);
 
-        this.parameters = new ParameterMap();
-        this.parameters.put("YEAR", availableParameters.get("YEAR"));
-        this.parameters.put("LEAGUE", availableParameters.get("LEAGUE"));
+        this.parameters = new Parameters();
 
         this.args = new ArrayList<>();
     }
 
     public CommandInput(String command) {
-        this.flags = new HashMap<>();
-        this.flags.put("clean", false);
-        this.flags.put("pretty-print", false);
-        this.flags.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>();
-    }
-
-    public CommandInput(String command, List<String> args) {
-        this.flags = new HashMap<>();
-        this.flags.put("clean", false);
-        this.flags.put("pretty-print", false);
-        this.flags.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>(args);
-    }
-
-    public CommandInput(String command, Map<String, Boolean> options) {
-        this.flags = new HashMap<>();
-        this.flags.put("clean", false);
-        this.flags.put("pretty-print", false);
-        this.flags.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>();
-        for (String option : options.keySet()) {
-            if (this.flags.containsKey(option)) {
-                this.flags.put(option, options.get(option));
-            }
-        }
-    }
-
-    public CommandInput(String command, List<String> args, Map<String, Boolean> options) {
-        this.flags = new HashMap<>();
-        this.flags.put("clean", false);
-        this.flags.put("pretty-print", false);
-        this.flags.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>(args);
-        for (String option : options.keySet()) {
-            if (this.flags.containsKey(option)) {
-                this.flags.put(option, options.get(option));
-            }
-        }
+        this(split(command, " "));
     }
 
     public CommandInput(String[] command) {
@@ -127,7 +47,7 @@ public class CommandInput {
                         if (this.flags.containsKey(option)) {
                             this.flags.put(option, true);
                             parameter = "";
-                        } else if (this.availableParameters.containsKey(option)) {
+                        } else if (Parameters.isValidParameter(option)) {
                             parameter = option;
                         }
                     } else if (o != '-') {
@@ -137,11 +57,7 @@ public class CommandInput {
                 }
             } else {
                 if (!parameter.isEmpty()) {
-                    Parameter p = this.availableParameters.get(parameter).copy();
-                    if (p.validateValue(c)) {
-                        p.setValue(c);
-                        this.parameters.put(parameter, p);
-                    }
+                    parameters.setParameterValue(parameter, c);
                 } else {
                     this.args.add(c);
                 }
@@ -166,7 +82,22 @@ public class CommandInput {
         return flags;
     }
 
-    public ParameterMap getParameters() {
+    public Parameters getParameters() {
         return parameters;
+    }
+
+    /**
+     * Splits the inputted string by the inputted delimiter. Ignores
+     * portions of the inputted string that are within quotes
+     *
+     * @param input the input to be split
+     * @return the split input
+     */
+    private static String[] split(String input, String delimiter) {
+        String[] res = input.split(delimiter + "(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1);
+        for (int i = 0; i < res.length; i++) {
+            res[i] = res[i].replace("\"", "");
+        }
+        return res;
     }
 }

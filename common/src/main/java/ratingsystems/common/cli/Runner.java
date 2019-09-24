@@ -1,7 +1,7 @@
 package ratingsystems.common.cli;
 
 import ratingsystems.common.cli.commands.*;
-import ratingsystems.common.cli.parameters.ParameterMap;
+import ratingsystems.common.cli.parameters.Parameters;
 import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballInterpreter;
 import ratingsystems.common.interpreter.Interpreter;
@@ -16,7 +16,7 @@ public abstract class Runner {
 
     protected HashMap<String, Interpreter> interpreters;
     protected HashMap<String, Command> commands;
-    protected HashMap<ParameterMap, RatingSystem> ratingSystems; //league, year, week
+    protected HashMap<Parameters, RatingSystem> ratingSystems;
 
     /**
      * Creates a new Runner object
@@ -45,7 +45,7 @@ public abstract class Runner {
      *
      * @param command the command the user inputted into the terminal
      */
-    public Object run(String command, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters, CommandMode commandMode) {
+    public Object run(String command, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         if (commands.get(command).validateInput(this, arguments, options, parameters)) {
             return commands.get(command).run(this, arguments, options, parameters, commandMode);
         }
@@ -70,7 +70,7 @@ public abstract class Runner {
      *
      * @return the rating system needed for the given command
      */
-    public RatingSystem loadRatingSystem(Map<String, Boolean> options, ParameterMap parameters) {
+    public RatingSystem loadRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         boolean cleanFlag = options.get("CLEAN");
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
@@ -88,7 +88,7 @@ public abstract class Runner {
      * @param week the week of the rating system to return
      * @return the rating system needed for the given command
      */
-    public RatingSystem loadRatingSystem(Map<String, Boolean> options, ParameterMap parameters, int week) {
+    public RatingSystem loadRatingSystem(Map<String, Boolean> options, Parameters parameters, int week) {
         boolean cleanFlag = options.get("CLEAN");
 
         parameters.setParameterValue("WEEK", week);
@@ -99,7 +99,7 @@ public abstract class Runner {
         return ratingSystems.get(parameters);
     }
 
-    public abstract RatingSystem loadNewRatingSystem(ParameterMap parameterMap);
+    public abstract RatingSystem loadNewRatingSystem(Parameters parameters);
 
     /**
      * Loads a new rating system with the given interpreter and year

@@ -32,7 +32,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
             allTeams.get(year).put(team, teams.get(team));
             teamVectors.get(year).put(team, teams.get(team).getStatisticsVector());
         }
-        for (int y = 2012; y < year; y++) {
+        for (int y = 1950; y < year; y++) {
             if (interpreter.hasData(y)) {
                 HashMap<String, Team> temp = interpreter.parseData(y);
                 allTeams.put(y, new HashMap<>());
@@ -57,7 +57,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
             allTeams.get(year).put(team, teams.get(team));
             teamVectors.get(year).put(team, teams.get(team).getStatisticsVector());
         }
-        for (int y = 2012; y < year; y++) {
+        for (int y = 1950; y < year; y++) {
             if (interpreter.hasData(y)) {
                 HashMap<String, Team> temp = interpreter.parseData(y);
                 allTeams.put(y, new HashMap<>());

@@ -1,7 +1,7 @@
 package ratingsystems.common.cli.commands;
 
 import ratingsystems.common.cli.Runner;
-import ratingsystems.common.cli.parameters.ParameterMap;
+import ratingsystems.common.cli.parameters.Parameters;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Rank extends Command {
     @Override
-    public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters, CommandMode commandMode) {
+    public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         RatingSystem ratingSystem = runner.loadRatingSystem(options, parameters);
         if (commandMode == CommandMode.TERMINAL) {
             System.out.println();
@@ -22,7 +22,7 @@ public class Rank extends Command {
     }
 
     @Override
-    public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters) {
+    public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters) {
         if (!Command.validateDataExists(runner, parameters)) return false;
         return true;
     }

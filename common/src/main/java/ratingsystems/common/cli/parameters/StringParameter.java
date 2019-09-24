@@ -18,10 +18,12 @@ public class StringParameter implements Parameter<String> {
         return this.value;
     }
 
-    public void setValue(String value) {
+    public boolean setValue(String value) {
         if (validateValue(value)) {
             this.value = value;
+            return true;
         }
+        return false;
     }
 
     public boolean validateValue(String value) {

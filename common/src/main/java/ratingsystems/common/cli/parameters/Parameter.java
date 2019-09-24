@@ -4,9 +4,9 @@ public interface Parameter<T> {
 
     public T getValue();
 
-    public void setValue(T value);
+    public boolean setValue(T value);
 
-    public void setValue(String value);
+    public boolean setValue(String value);
 
     public T parseValue(String value);
 

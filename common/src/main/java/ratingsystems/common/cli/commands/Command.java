@@ -1,10 +1,9 @@
 package ratingsystems.common.cli.commands;
 
 import ratingsystems.common.cli.Runner;
-import ratingsystems.common.cli.parameters.ParameterMap;
+import ratingsystems.common.cli.parameters.Parameters;
 import ratingsystems.common.interpreter.Interpreter;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -15,7 +14,7 @@ public abstract class Command {
      *
      * @param runner the runner to get necessary parameters from
      */
-    abstract public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters, CommandMode commandMode);
+    abstract public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode);
 
     /**
      * Validates that the input from the user will be enough to run the command
@@ -23,7 +22,7 @@ public abstract class Command {
      * @param runner the runner to get necessary parameters from
      * @return true if the input from the user is enough to run the command, false otherwise
      */
-    abstract public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, ParameterMap parameters);
+    abstract public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters);
 
 
 
@@ -35,7 +34,7 @@ public abstract class Command {
      * @param runner
      * @return true if there is data for the current league for the current year, false otherwise
      */
-    protected static boolean validateDataExists(Runner runner, ParameterMap parameters) {
+    protected static boolean validateDataExists(Runner runner, Parameters parameters) {
         Interpreter interpreter = runner.getInterpreter((String)parameters.getValue("LEAGUE"));
 
         if (!interpreter.hasData((Integer)parameters.getValue("YEAR"))) {
