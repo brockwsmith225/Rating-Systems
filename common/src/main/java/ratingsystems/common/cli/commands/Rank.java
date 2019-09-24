@@ -13,7 +13,7 @@ public class Rank extends Command {
         RatingSystem ratingSystem = runner.loadRatingSystem(options, parameters);
         if (commandMode == CommandMode.TERMINAL) {
             System.out.println();
-            System.out.println(ratingSystem.printTeamRankings(options.get("pretty-print")));
+            System.out.println(ratingSystem.printTeamRankings(options.get("PRETTY_PRINT")));
             System.out.println();
         } else if (commandMode == CommandMode.API) {
             return ratingSystem.getTeamRankings();

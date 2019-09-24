@@ -22,13 +22,17 @@ public class SimpleEfficiencyRatingRunner extends Runner {
     @Override
     public RatingSystem loadNewRatingSystem(ParameterMap parameters) {
         try {
+            RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
-                return new SimpleEfficiencyRating(interpreters.get((String) parameters.getValue("LEAGUE")),
-                                                    (int) parameters.getValue("YEAR"),
-                                                    (int) parameters.getValue("WEEK"));
+                ratingSystem = new SimpleEfficiencyRating(interpreters.get((String) parameters.getValue("LEAGUE")),
+                        (int) parameters.getValue("YEAR"),
+                        (int) parameters.getValue("WEEK"));
+            } else {
+                ratingSystem = new SimpleEfficiencyRating(interpreters.get((String) parameters.getValue("LEAGUE")),
+                        (int) parameters.getValue("YEAR"));
             }
-            return new SimpleEfficiencyRating(interpreters.get((String) parameters.getValue("LEAGUE")),
-                                                (int) parameters.getValue("YEAR"));
+            ratingSystem.setup();
+            return ratingSystem;
         } catch (FileNotFoundException e) {
             return null;
         }

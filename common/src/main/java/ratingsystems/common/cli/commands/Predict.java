@@ -14,7 +14,7 @@ public class Predict extends Command {
         String team2 = arguments.get(1);
         Prediction prediction = runner.loadRatingSystem(options, parameters).predictGame(team1, team2);
         if (commandMode == CommandMode.TERMINAL) {
-            if (options.get("pretty-print")) {
+            if (options.get("PRETTY_PRINT")) {
                 System.out.println();
                 System.out.println(prediction.toString());
                 System.out.println();

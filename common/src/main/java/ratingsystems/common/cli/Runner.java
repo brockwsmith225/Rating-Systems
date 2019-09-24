@@ -71,7 +71,7 @@ public abstract class Runner {
      * @return the rating system needed for the given command
      */
     public RatingSystem loadRatingSystem(Map<String, Boolean> options, ParameterMap parameters) {
-        boolean cleanFlag = options.get("clean");
+        boolean cleanFlag = options.get("CLEAN");
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
             ratingSystems.put(parameters, loadNewRatingSystem(parameters));
@@ -89,7 +89,7 @@ public abstract class Runner {
      * @return the rating system needed for the given command
      */
     public RatingSystem loadRatingSystem(Map<String, Boolean> options, ParameterMap parameters, int week) {
-        boolean cleanFlag = options.get("clean");
+        boolean cleanFlag = options.get("CLEAN");
 
         parameters.setParameterValue("WEEK", week);
 
@@ -108,6 +108,7 @@ public abstract class Runner {
      * @param year the year for which to create the rating system
      * @return a new rating system
      */
+    @Deprecated
     public abstract RatingSystem loadNewRatingSystem(Interpreter interpreter, int year);
 
     /**
@@ -118,6 +119,7 @@ public abstract class Runner {
      * @param week the week for which to create the rating system
      * @return a new rating system
      */
+    @Deprecated
     public abstract RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week);
 
     public java.util.Set<String> getLeagues() {

@@ -22,13 +22,17 @@ public class RelativeRatingSystemRunner extends Runner {
     @Override
     public RatingSystem loadNewRatingSystem(ParameterMap parameters) {
         try {
+            RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
-                return new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                                                     (int) parameters.getValue("YEAR"),
                                                     (int) parameters.getValue("WEEK"));
+            } else {
+                ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                        (int) parameters.getValue("YEAR"));
             }
-            return new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
-                                                (int) parameters.getValue("YEAR"));
+            ratingSystem.setup();
+            return ratingSystem;
         } catch (FileNotFoundException e) {
             return null;
         }
