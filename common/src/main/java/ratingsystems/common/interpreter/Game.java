@@ -175,4 +175,30 @@ public class Game {
     public static Game copyOf(Game game) {
         return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date, game.statistics);
     }
+
+    public String save() {
+        StringBuilder res = new StringBuilder();
+
+        res.append(team);
+        res.append("::");
+        res.append(opponent);
+        res.append("\n");
+
+        res.append(score);
+        res.append("::");
+        res.append(opponentScore);
+        res.append("::");
+        res.append(weightedScoreDiff);
+        res.append("\n");
+
+        res.append(week);
+        res.append("::");
+        res.append(date.getYear());
+        res.append("-");
+        res.append(date.getMonthValue());
+        res.append("-");
+        res.append(date.getDayOfMonth());
+
+        return res.toString();
+    }
 }

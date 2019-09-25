@@ -15,7 +15,6 @@ public class Team implements Comparable<Team>, Serializable {
     private String name, conference;
     private double rating;
     private HashMap<String, Double> otherRatings;
-    private int numberOfGames;
     private ArrayList<Game> games;
 
     /**
@@ -28,7 +27,6 @@ public class Team implements Comparable<Team>, Serializable {
         this.conference = "";
         this.rating = 0.0;
         this.otherRatings = new HashMap<>();
-        this.numberOfGames = 0;
         this.games = new ArrayList<>();
     }
 
@@ -106,7 +104,6 @@ public class Team implements Comparable<Team>, Serializable {
      */
     public void addGame(Game game) {
         games.add(game);
-        numberOfGames++;
     }
 
     public void addDefensiveStats(Game opponentGame) {
@@ -123,7 +120,7 @@ public class Team implements Comparable<Team>, Serializable {
      * @return the number of games the team played
      */
     public int getNumberOfGames() {
-        return numberOfGames;
+        return games.size();
     }
 
     /**
@@ -170,7 +167,7 @@ public class Team implements Comparable<Team>, Serializable {
         for (Game game : games) {
             pointsPerGame += game.getScore();
         }
-        return pointsPerGame / numberOfGames;
+        return pointsPerGame / games.size();
     }
 
     /**
@@ -183,7 +180,7 @@ public class Team implements Comparable<Team>, Serializable {
         for (Game game : games) {
             pointsAllowedPerGame += game.getOpponentScore();
         }
-        return pointsAllowedPerGame / numberOfGames;
+        return pointsAllowedPerGame / games.size();
     }
 
     public double getStatisticPerGame(String statistic) {
@@ -191,7 +188,7 @@ public class Team implements Comparable<Team>, Serializable {
         for (Game game : games) {
             statisticPerGame += game.getStatistic(statistic);
         }
-        return statisticPerGame / numberOfGames;
+        return statisticPerGame / games.size();
     }
 
     @JsonIgnore
@@ -237,10 +234,39 @@ public class Team implements Comparable<Team>, Serializable {
         for (String rating : team.otherRatings.keySet()) {
             copy.otherRatings.put(rating, team.otherRatings.get(rating));
         }
-        copy.numberOfGames = team.numberOfGames;
         for (Game game : team.games) {
             copy.games.add(Game.copyOf(game));
         }
         return copy;
+    }
+
+    public String save() {
+        StringBuilder res = new StringBuilder();
+
+        res.append(name);
+        res.append("::");
+        res.append(conference);
+        res.append("\n");
+
+        res.append(games.size());
+        res.append("\n");
+        for (Game game : games) {
+            res.append(game.save());
+            res.append("\n");
+        }
+
+        res.append(rating);
+        res.append("\n");
+        res.append(otherRatings.size());
+        res.append("\n");
+        for (String rating : otherRatings.keySet()) {
+            res.append(rating);
+            res.append("::");
+            res.append(otherRatings.get(rating));
+            res.append("\n");
+        }
+        res.deleteCharAt(res.lastIndexOf("\n"));
+
+        return res.toString();
     }
 }

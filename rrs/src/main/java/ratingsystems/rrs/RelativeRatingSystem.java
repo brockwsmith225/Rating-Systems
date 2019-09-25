@@ -9,7 +9,7 @@ import ratingsystems.common.linalg.Vector;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
-import java.io.FileNotFoundException;
+import java.io.*;
 import java.util.*;
 
 public class RelativeRatingSystem extends RatingSystem {
@@ -148,6 +148,40 @@ public class RelativeRatingSystem extends RatingSystem {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10) + "   "
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
+    }
+
+    @Override
+    public String save() {
+        StringBuilder res = new StringBuilder();
+
+        res.append("rrs::");
+        res.append(year);
+        res.append("::");
+        res.append(week);
+        res.append("\n");
+
+        res.append(rankedTeams.size());
+        res.append("\n");
+        for (Team team : rankedTeams) {
+            res.append(teamNameToIndex.get(team.getName()));
+            res.append("\n");
+            res.append(team.save());
+            res.append("\n");
+        }
+
+        res.append(rankedGroups.size());
+        res.append("\n");
+        for (Team group : rankedGroups) {
+            res.append(group.save());
+            res.append("\n");
+        }
+
+        res.append(posMatrix.save());
+        res.append("\n");
+        res.append(negMatrix.save());
+
+
+        return res.toString();
     }
 
 

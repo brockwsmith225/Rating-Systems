@@ -189,5 +189,9 @@ public class Date implements Comparable<Date> {
         }
         return MONTH_TO_DAYS[(int)month-1];
     }
+
+    public String save() {
+        return Long.toString(milliseconds);
+    }
 }
 

@@ -12,6 +12,7 @@ import ratingsystems.rrs.RelativeRatingSystemRunner;
 import java.util.*;
 
 @RestController
+@RequestMapping("/api")
 public class Controller {
     private HashMap<String, Runner> ratingSystems;
     private HashSet<String> allowedCommands;
@@ -31,7 +32,7 @@ public class Controller {
         allowedCommands.add("predict");
     }
 
-    @RequestMapping("/api/{system}/{command}")
+    @RequestMapping("/{system}/{command}")
     public @ResponseBody Response request(@PathVariable String system, @PathVariable String command, @RequestParam(required=false) List<String> args, @RequestParam(required=false) Map<String, String> params) {
         system = system.toLowerCase();
         command = command.toLowerCase();

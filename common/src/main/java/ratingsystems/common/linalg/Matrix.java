@@ -260,4 +260,24 @@ public class Matrix {
         }
         return identity;
     }
+
+    public String save() {
+        StringBuilder res = new StringBuilder();
+
+        res.append(matrix.length);
+        res.append("::");
+        res.append(matrix[0].length);
+        res.append("\n");
+        for (int r = 0; r < matrix.length - 1; r++) {
+            for (int c = 0; c < matrix[0].length - 1; c++) {
+                res.append(matrix[r][c]);
+                res.append("::");
+            }
+            res.append(matrix[r][matrix[0].length - 1]);
+            res.append("\n");
+        }
+        res.append(matrix[matrix.length - 1][matrix[0].length]);
+
+        return res.toString();
+    }
 }

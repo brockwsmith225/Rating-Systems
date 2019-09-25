@@ -32,6 +32,7 @@ public class RelativeRatingSystemRunner extends Runner {
                         (int) parameters.getValue("YEAR"));
             }
             ratingSystem.setup();
+            System.out.println(ratingSystem.save());
             return ratingSystem;
         } catch (FileNotFoundException e) {
             return null;

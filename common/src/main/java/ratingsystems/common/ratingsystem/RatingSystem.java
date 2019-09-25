@@ -5,6 +5,7 @@ import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Team;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -27,6 +28,15 @@ public abstract class RatingSystem {
         teams = new HashMap<>();
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
+    }
+
+    /**
+     * Loads an instance of a Rating System
+     *
+     * @param saveFile
+     */
+    public RatingSystem(File saveFile) {
+
     }
 
     /**
@@ -312,4 +322,6 @@ public abstract class RatingSystem {
         }
         return null;
     }
+
+    abstract public String save();
 }
