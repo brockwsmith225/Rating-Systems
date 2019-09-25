@@ -1,7 +1,7 @@
 package ratingsystems.hps;
 
-import ratingsystems.common.cli.ParameterMap;
-import ratingsystems.common.cli.Runner;
+import ratingsystems.common.parameters.Parameters;
+import ratingsystems.common.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
@@ -20,15 +20,19 @@ public class HistoricalPredictionSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(ParameterMap parameters) {
+    public RatingSystem loadNewRatingSystem(Parameters parameters) {
         try {
+            RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
-                return new HistoricalPredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
-                                                        (int) parameters.getValue("YEAR"),
-                                                        (int) parameters.getValue("WEEK"));
+                ratingSystem = new HistoricalPredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                        (int) parameters.getValue("YEAR"),
+                        (int) parameters.getValue("WEEK"));
+            } else {
+                ratingSystem = new HistoricalPredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                        (int) parameters.getValue("YEAR"));
             }
-            return new HistoricalPredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
-                                                    (int) parameters.getValue("YEAR"));
+            ratingSystem.setup();
+            return ratingSystem;
         } catch (FileNotFoundException e) {
             return null;
         }

@@ -2,15 +2,14 @@ package ratingsystems.api;
 
 import org.springframework.web.bind.annotation.*;
 import ratingsystems.common.cli.CommandInput;
-import ratingsystems.common.cli.Runner;
-import ratingsystems.common.cli.commands.CommandMode;
+import ratingsystems.common.Runner;
+import ratingsystems.common.commands.CommandMode;
+import ratingsystems.common.parameters.Parameters;
+import ratingsystems.common.ratingsystem.RatingSystem;
 import ratingsystems.hps.HistoricalPredictionSystemRunner;
 import ratingsystems.rrs.RelativeRatingSystemRunner;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 @RestController
 public class Controller {
@@ -22,14 +21,20 @@ public class Controller {
         ratingSystems.put("rrs", new RelativeRatingSystemRunner());
         ratingSystems.put("hps", new HistoricalPredictionSystemRunner());
 
+        Parameters.leagues = new HashSet<>();
+        for (Runner ratingSystem : ratingSystems.values()) {
+            Parameters.leagues.addAll(ratingSystem.getLeagues());
+        }
+
         allowedCommands = new HashSet<>();
         allowedCommands.add("rank");
         allowedCommands.add("predict");
     }
 
     @RequestMapping("/api/{system}/{command}")
-    public @ResponseBody Response request(@PathVariable String system, @PathVariable String command, @RequestParam(required=false) List<String> args, @RequestParam(required=false) Map<String, String> parameters) {
+    public @ResponseBody Response request(@PathVariable String system, @PathVariable String command, @RequestParam(required=false) List<String> args, @RequestParam(required=false) Map<String, String> params) {
         system = system.toLowerCase();
+        command = command.toLowerCase();
         if (!ratingSystems.containsKey(system)) {
             return new Error("Rating system " + system + " does not exist");
         }
@@ -37,30 +42,27 @@ public class Controller {
             return new Error("Command " + command + " does not exist");
         }
 
-        HashMap<String, Boolean> options = null;
-        if (parameters != null) {
-            options = new HashMap<>();
-            for (String option : parameters.keySet()) {
-                if (parameters.get(option).toLowerCase().equals("true")) {
-                    options.put(option, true);
-                } else if (parameters.get(option).toLowerCase().equals("false")) {
-                    options.put(option, false);
+        if (args == null) {
+            args = new ArrayList<>();
+        }
+
+        HashMap<String, Boolean> options = new HashMap<>();
+        Parameters parameters = new Parameters();
+        if (params != null) {
+            for (String param : params.keySet()) {
+                if (params.get(param).toLowerCase().equals("true")) {
+                    options.put(param.toUpperCase(), true);
+                } else if (params.get(param).toLowerCase().equals("false")) {
+                    options.put(param.toUpperCase(), false);
+                } else {
+                    parameters.setParameterValue(param.toUpperCase(), params.get(param));
                 }
             }
         }
+        options.put("CLEAN", false);
+        options.put("PRETTY_PRINT", false);
 
-        CommandInput commandInput;
-        if (args == null && options == null) {
-            commandInput = new CommandInput(command);
-        } else if (args == null) {
-            commandInput = new CommandInput(command, options);
-        } else if (options == null) {
-            commandInput = new CommandInput(command, args);
-        } else {
-            commandInput = new CommandInput(command, args, options);
-        }
-
-        return new Response(ratingSystems.get(system).run(commandInput, CommandMode.API));
+        return new Response(ratingSystems.get(system).run(command, args, options, parameters, CommandMode.API));
     }
 
 }

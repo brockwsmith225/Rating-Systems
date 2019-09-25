@@ -36,6 +36,14 @@ public class Prediction {
         this.overUnder = this.team1Score + this.team2Score;
     }
 
+    public String getTeam1() {
+        return team1;
+    }
+
+    public String getTeam2() {
+        return team2;
+    }
+
     public double getOdds() {
         return odds;
     }

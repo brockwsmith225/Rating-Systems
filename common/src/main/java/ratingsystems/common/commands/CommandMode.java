@@ -1,4 +1,4 @@
-package ratingsystems.common.cli.commands;
+package ratingsystems.common.commands;
 
 public enum CommandMode {
     TERMINAL, API

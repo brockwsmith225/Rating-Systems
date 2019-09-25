@@ -1,117 +1,67 @@
 package ratingsystems.common.cli;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import ratingsystems.common.parameters.Parameters;
+
+import java.util.*;
 
 public class CommandInput {
     private String command;
     private List<String> args;
-
-    private HashMap<String, Boolean> options;
     private HashMap<Character, String> optionLetterToName;
+    private HashMap<String, Boolean> flags;
+    private Parameters parameters;
+
+    public CommandInput() {
+        this.optionLetterToName = new HashMap<>();
+        this.optionLetterToName.put('c', "CLEAN");
+        this.optionLetterToName.put('p', "PRETTY_PRINT");
+        this.optionLetterToName.put('w', "WEEK");
+        this.optionLetterToName.put('y', "YEAR");
+        this.optionLetterToName.put('l', "LEAGUE");
+        this.optionLetterToName.put('s', "START_YEAR");
+
+        this.flags = new HashMap<>();
+        this.flags.put("CLEAN", false);
+        this.flags.put("PRETTY_PRINT", false);
+
+        this.parameters = new Parameters();
+
+        this.args = new ArrayList<>();
+    }
 
     public CommandInput(String command) {
-        this.options = new HashMap<>();
-        this.options.put("clean", false);
-        this.options.put("pretty-print", false);
-        this.options.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>();
-    }
-
-    public CommandInput(String command, List<String> args) {
-        this.options = new HashMap<>();
-        this.options.put("clean", false);
-        this.options.put("pretty-print", false);
-        this.options.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>(args);
-    }
-
-    public CommandInput(String command, Map<String, Boolean> options) {
-        this.options = new HashMap<>();
-        this.options.put("clean", false);
-        this.options.put("pretty-print", false);
-        this.options.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>();
-        for (String option : options.keySet()) {
-            if (this.options.containsKey(option)) {
-                this.options.put(option, options.get(option));
-            }
-        }
-    }
-
-    public CommandInput(String command, List<String> args, Map<String, Boolean> options) {
-        this.options = new HashMap<>();
-        this.options.put("clean", false);
-        this.options.put("pretty-print", false);
-        this.options.put("week", false);
-
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.command = command;
-        this.args = new ArrayList<>(args);
-        for (String option : options.keySet()) {
-            if (this.options.containsKey(option)) {
-                this.options.put(option, options.get(option));
-            }
-        }
+        this(split(command, " "));
     }
 
     public CommandInput(String[] command) {
-        this.options = new HashMap<>();
-        this.options.put("clean", false);
-        this.options.put("pretty-print", false);
-        this.options.put("week", false);
+        this();
 
-        this.optionLetterToName = new HashMap<>();
-        this.optionLetterToName.put('c', "clean");
-        this.optionLetterToName.put('p', "pretty-print");
-        this.optionLetterToName.put('w', "week");
-
-        this.args = new ArrayList<>();
-
-        boolean commandFound = false;
-        for (String c : command) {
+        this.command = command[0];
+        String parameter = "";
+        for (int i = 1; i < command.length; i++) {
+            String c = command[i];
             if (c.startsWith("-")) {
                 for (char o : c.toCharArray()) {
                     if (this.optionLetterToName.containsKey(o)) {
-                        this.options.put(this.optionLetterToName.get(o), true);
+                        String option = this.optionLetterToName.get(o);
+                        if (this.flags.containsKey(option)) {
+                            this.flags.put(option, true);
+                            parameter = "";
+                        } else if (Parameters.isValidParameter(option)) {
+                            parameter = option;
+                        }
                     } else if (o != '-') {
+                        parameter = "";
                         System.err.println("WARNING: Option " + o + " not found, skipping");
                     }
                 }
             } else {
-                if (!commandFound) {
-                    this.command = c;
-                    commandFound = true;
+                if (!parameter.isEmpty()) {
+                    parameters.setParameterValue(parameter, c);
                 } else {
                     this.args.add(c);
                 }
+                parameter = "";
             }
         }
     }
@@ -128,7 +78,26 @@ public class CommandInput {
         return args.size() >= n;
     }
 
-    public boolean getOption(String option) {
-        return options.get(option);
+    public HashMap<String, Boolean> getOptions() {
+        return flags;
+    }
+
+    public Parameters getParameters() {
+        return parameters;
+    }
+
+    /**
+     * Splits the inputted string by the inputted delimiter. Ignores
+     * portions of the inputted string that are within quotes
+     *
+     * @param input the input to be split
+     * @return the split input
+     */
+    private static String[] split(String input, String delimiter) {
+        String[] res = input.split(delimiter + "(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1);
+        for (int i = 0; i < res.length; i++) {
+            res[i] = res[i].replace("\"", "");
+        }
+        return res;
     }
 }
