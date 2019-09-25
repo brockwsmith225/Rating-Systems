@@ -11,6 +11,7 @@ import ratingsystems.ser.SimpleEfficiencyRating;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 public class HistoricalPredictionSystem extends RatingSystem {
 
@@ -115,21 +116,14 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     @Override
     public void rankTeams() {
-        hasRankedTeams = true;
-        HashMap<String, Double> ratings = new HashMap<>();
-        for (String team : allTeams.get(this.year).keySet()) {
-            ratings.put(team, 0.0);
-            for (String opponent : allTeams.get(this.year).keySet()) {
-                if (!team.equals(opponent)) {
-                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine() * -1);
-                }
-            }
-        }
-
-        for (String team : allTeams.get(year).keySet()) {
-            allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
-        }
+        calculateTeamRankings();
         super.rankTeams();
+    }
+
+    @Override
+    public List<Team> getTeamRankings() {
+        calculateTeamRankings();
+        return List.copyOf(rankedTeams);
     }
 
     @Override
@@ -249,6 +243,26 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
 
         return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore);
+    }
+
+
+    //========== HistoricalPredictionSystem only methods ==========
+
+    private void calculateTeamRankings() {
+        hasRankedTeams = true;
+        HashMap<String, Double> ratings = new HashMap<>();
+        for (String team : allTeams.get(this.year).keySet()) {
+            ratings.put(team, 0.0);
+            for (String opponent : allTeams.get(this.year).keySet()) {
+                if (!team.equals(opponent)) {
+                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine() * -1);
+                }
+            }
+        }
+
+        for (String team : allTeams.get(year).keySet()) {
+            allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
+        }
     }
 
 }
