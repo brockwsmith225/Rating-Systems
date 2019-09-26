@@ -24,9 +24,26 @@ public class RelativeRatingSystemRunner extends Runner {
         try {
             RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
+                if (parameters.containsKey("START_YEAR") && (int) parameters.getValue("START_YEAR") < (int) parameters.getValue("YEAR")) {
+                    int[] years = new int[(int) parameters.getValue("YEAR") - (int) parameters.getValue("START_YEAR") + 1];
+                    for (int i = 0; i < years.length; i++) {
+                        years[i] = i + (int) parameters.getValue("START_YEAR");
+                    }
+                    ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                            years,
+                            (int) parameters.getValue("WEEK"));
+                } else {
+                    ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                            (int) parameters.getValue("YEAR"),
+                            (int) parameters.getValue("WEEK"));
+                }
+            } else if (parameters.containsKey("START_YEAR") && (int) parameters.getValue("START_YEAR") < (int) parameters.getValue("YEAR")) {
+                int[] years = new int[(int) parameters.getValue("YEAR") - (int) parameters.getValue("START_YEAR") + 1];
+                for (int i = 0; i < years.length; i++) {
+                    years[i] = i + (int) parameters.getValue("START_YEAR");
+                }
                 ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
-                                                    (int) parameters.getValue("YEAR"),
-                                                    (int) parameters.getValue("WEEK"));
+                        years);
             } else {
                 ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                         (int) parameters.getValue("YEAR"));
