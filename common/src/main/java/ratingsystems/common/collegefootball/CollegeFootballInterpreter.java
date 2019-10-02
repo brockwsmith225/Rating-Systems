@@ -23,7 +23,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
             addTeam(entry.team, entry.conference);
-            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
         }
 
         addDefensiveStatistics();
@@ -42,7 +42,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
                 //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
 
@@ -62,7 +62,7 @@ public class CollegeFootballInterpreter extends Interpreter {
             while (data.hasNext()) {
                 CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
                 addTeam(entry.team, entry.conference);
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
 
@@ -83,14 +83,14 @@ public class CollegeFootballInterpreter extends Interpreter {
                     CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
                     if (entry.week <= week) {
                         addTeam(entry.team, entry.conference);
-                        teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                        teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
                     }
                 }
             } else {
                 while (data.hasNext()) {
                     CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
                     addTeam(entry.team, entry.conference);
-                    teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                    teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
                 }
             }
         }

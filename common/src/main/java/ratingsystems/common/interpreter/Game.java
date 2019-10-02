@@ -10,6 +10,7 @@ import java.util.HashMap;
  */
 public class Game {
     private String team, opponent;
+    private Location location;
     private double score, opponentScore, weightedScoreDiff;
     private int week;
     private LocalDate date;
@@ -24,9 +25,10 @@ public class Game {
      * @param weightedScoreDiff the weighted difference of scores
      * @param date the date at which the game occurred
      */
-    public Game(String team, String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date) {
+    public Game(String team, String opponent, Location location, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date) {
         this.team = team;
         this.opponent = opponent;
+        this.location = location;
         this.score = score;
         this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
@@ -44,9 +46,10 @@ public class Game {
      * @param weightedScoreDiff the weighted difference of scores
      * @param date the date at which the game occurred
      */
-    public Game(String team, String opponent, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date, HashMap<String, Double> statistics) {
+    public Game(String team, String opponent, Location location, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date, HashMap<String, Double> statistics) {
         this.team = team;
         this.opponent = opponent;
+        this.location = location;
         this.score = score;
         this.opponentScore = opponentScore;
         this.weightedScoreDiff = weightedScoreDiff;
@@ -74,6 +77,15 @@ public class Game {
      */
     public String getOpponent() {
         return opponent;
+    }
+
+    /**
+     * Returns the location of the game
+     *
+     * @return the location of the game
+     */
+    public Location getLocation() {
+        return location;
     }
 
     /**
@@ -173,6 +185,6 @@ public class Game {
      * @return a copy of the game
      */
     public static Game copyOf(Game game) {
-        return new Game(game.team, game.opponent, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date, game.statistics);
+        return new Game(game.team, game.opponent, game.location, game.score, game.opponentScore, game.weightedScoreDiff, game.week, game.date, game.statistics);
     }
 }

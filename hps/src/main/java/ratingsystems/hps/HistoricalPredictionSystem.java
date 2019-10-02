@@ -2,6 +2,7 @@ package ratingsystems.hps;
 
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
+import ratingsystems.common.interpreter.Location;
 import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
@@ -141,7 +142,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
     }
 
     @Override
-    public Prediction predictGame(String team1, String team2) {
+    public Prediction predictGame(String team1, String team2, Location location) {
         HashMap<String, Double> team1Similarities = new HashMap<>();
         HashMap<String, Double> team2Similarities = new HashMap<>();
 
@@ -181,8 +182,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
         for (Integer year : allTeams.keySet()) {
             if (year != this.year) {
                 for (String historicalTeam : allTeams.get(year).keySet()) {
-                    team1Similarities.put(historicalTeam, team1Vector.cosineSimilarity(scaledTeamVectors.get(year).get(historicalTeam)));
-                    team2Similarities.put(historicalTeam, team2Vector.cosineSimilarity(scaledTeamVectors.get(year).get(historicalTeam)));
+                    team1Similarities.put(historicalTeam, team1Vector.similarity(scaledTeamVectors.get(year).get(historicalTeam)));
+                    team2Similarities.put(historicalTeam, team2Vector.similarity(scaledTeamVectors.get(year).get(historicalTeam)));
                 }
             }
         }
@@ -190,11 +191,18 @@ public class HistoricalPredictionSystem extends RatingSystem {
         ArrayList<Double> gameSimilarities = new ArrayList<>();
         ArrayList<Double> team1Scores = new ArrayList<>();
         ArrayList<Double> team2Scores = new ArrayList<>();
+        double maxGameSimilarity = 0.0;
+        recencyBias = 0.9;
         for (Integer year : allTeams.keySet()) {
             if (year != this.year) {
+                double recencyModifier = Math.pow(recencyBias, Math.abs(this.year - year));
                 for (String historicalTeam : allTeams.get(year).keySet()) {
                     for (Game game : allTeams.get(year).get(historicalTeam).getGames()) {
-                        double gameSimilarity = team1Similarities.get(historicalTeam) * team2Similarities.get(game.getOpponent());
+                        double locationModifier = location == game.getLocation() ? 1.0 : location == Location.NEUTRAL || game.getLocation() == Location.NEUTRAL ? 0.75 : 0.5;
+                        double gameSimilarity = team1Similarities.get(historicalTeam) * team2Similarities.get(game.getOpponent()) * recencyModifier * locationModifier;
+                        if (gameSimilarity > maxGameSimilarity) {
+                            maxGameSimilarity = gameSimilarity;
+                        }
                         gameSimilarities.add(gameSimilarity);
                         team1Scores.add(game.getScore());
                         team2Scores.add(game.getOpponentScore());
@@ -203,7 +211,13 @@ public class HistoricalPredictionSystem extends RatingSystem {
             }
         }
 
-        Vector gameSimilaritiesVector = new Vector(gameSimilarities).softmax();
+        for (int i = 0; i < gameSimilarities.size(); i++) {
+            if (gameSimilarities.get(i) < 0.5 * maxGameSimilarity) {
+                gameSimilarities.set(i, 0.0);
+            }
+        }
+
+        Vector gameSimilaritiesVector = new Vector(gameSimilarities).modifiedSoftmax();
         Vector team1ScoresVector = new Vector(team1Scores);
         Vector team2ScoresVector = new Vector(team2Scores);
 
@@ -243,7 +257,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
         double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
 
-        return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore);
+        return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore, location);
     }
 
 
@@ -256,7 +270,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
             ratings.put(team, 0.0);
             for (String opponent : allTeams.get(this.year).keySet()) {
                 if (!team.equals(opponent)) {
-                    ratings.put(team, ratings.get(team) + predictGame(team, opponent).getLine() * -1);
+                    ratings.put(team, ratings.get(team) + predictGame(team, opponent, Location.NEUTRAL).getLine() * -1);
                 }
             }
         }

@@ -3,6 +3,7 @@ package ratingsystems.ser;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
+import ratingsystems.common.interpreter.Location;
 import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
@@ -62,7 +63,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    public Prediction predictGame(String team1, String team2) {
+    public Prediction predictGame(String team1, String team2, Location location) {
         if (!teams.keySet().contains(team1) || !teams.keySet().contains(team2)) {
             return new Prediction(team1, team2, 0.5);
         }

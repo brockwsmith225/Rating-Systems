@@ -1,5 +1,7 @@
 package ratingsystems.common.collegefootball;
 
+import ratingsystems.common.interpreter.Location;
+
 import java.time.LocalDate;
 import java.util.HashMap;
 
@@ -7,7 +9,9 @@ public class CollegeFootballEntry {
     public static String[] statisticNames;
 
     public LocalDate date;
-    public String team, opponent, conference, location, result;
+    public String team, opponent, conference;
+    public Location location;
+    public char result;
     public int teamScore, opponentScore, weightedScoreDifference, week;
     public HashMap<String, Double> statistics;
 
@@ -25,9 +29,10 @@ public class CollegeFootballEntry {
         this.week = getWeek(date, startDate);
         this.team = entry[1];
         this.conference = entry[2];
-        this.location = entry[3];
+        char loc = entry[3].charAt(0);
+        this.location = loc == 'H' ? Location.HOME : loc == 'A' ? Location.AWAY : Location.NEUTRAL;
         this.opponent = entry[4];
-        this.result = entry[5];
+        this.result = entry[5].charAt(0);
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);
         this.weightedScoreDifference = 10 + Math.abs(this.teamScore - this.opponentScore);

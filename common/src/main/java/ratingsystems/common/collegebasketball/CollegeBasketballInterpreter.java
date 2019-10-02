@@ -23,7 +23,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
         while (data.hasNext()) {
             CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
             addTeam(entry.team, entry.conference);
-            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
         }
 
         return teams;
@@ -40,7 +40,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
             if (entry.week <= week) {
                 addTeam(entry.team, entry.conference);
                 //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }
 
@@ -58,7 +58,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
             while (data.hasNext()) {
                 CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
                 addTeam(entry.team, entry.conference);
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }
         return teams;

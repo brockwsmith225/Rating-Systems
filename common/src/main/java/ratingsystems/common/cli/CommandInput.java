@@ -19,6 +19,7 @@ public class CommandInput {
         this.optionLetterToName.put('y', "YEAR");
         this.optionLetterToName.put('l', "LEAGUE");
         this.optionLetterToName.put('s', "START_YEAR");
+        this.optionLetterToName.put('o', "LOCATION");
 
         this.flags = new HashMap<>();
         this.flags.put("CLEAN", false);

@@ -1,6 +1,7 @@
 package ratingsystems.common.commands;
 
 import ratingsystems.common.Runner;
+import ratingsystems.common.interpreter.Location;
 import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.ratingsystem.Prediction;
 
@@ -12,7 +13,8 @@ public class Predict extends Command {
     public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         String team1 = arguments.get(0);
         String team2 = arguments.get(1);
-        Prediction prediction = runner.loadRatingSystem(options, parameters).predictGame(team1, team2);
+        Location location = parameters.containsKey("LOCATION") ? (Location) parameters.getValue("LOCATION") : Location.NEUTRAL;
+        Prediction prediction = runner.loadRatingSystem(options, parameters).predictGame(team1, team2, location);
         if (commandMode == CommandMode.TERMINAL) {
             if (options.get("PRETTY_PRINT")) {
                 System.out.println();

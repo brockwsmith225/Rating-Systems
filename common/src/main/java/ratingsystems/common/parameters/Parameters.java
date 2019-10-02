@@ -1,5 +1,7 @@
 package ratingsystems.common.parameters;
 
+import ratingsystems.common.interpreter.Location;
+
 import java.util.*;
 
 public class Parameters implements Map<String, Parameter> {
@@ -15,6 +17,7 @@ public class Parameters implements Map<String, Parameter> {
         defaultParameters.put("WEEK", new IntegerParameter(0, 0, 50));
         defaultParameters.put("LEAGUE", new StringParameter("cfb", leagues));
         defaultParameters.put("START_YEAR", new IntegerParameter(2014, 1800, 2500));
+        defaultParameters.put("LOCATION", new LocationParameter(Location.NEUTRAL));
 
         parameters = new HashMap<>();
         parameters.put("YEAR", defaultParameters.get("YEAR"));

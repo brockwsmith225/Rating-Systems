@@ -23,7 +23,7 @@ public class Fetch extends Command {
     @Override
     public boolean validateInput(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters) {
         try {
-            Process process = Runtime.getRuntime().exec("ping www.google.com");
+            Process process = Runtime.getRuntime().exec("ping 8.8.8.8");
             int res = process.waitFor();
             if (res != 0) {
                 System.err.println("ERROR: Not connected to the internet");

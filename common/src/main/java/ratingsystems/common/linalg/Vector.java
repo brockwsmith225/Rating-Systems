@@ -163,6 +163,22 @@ public class Vector implements Serializable {
         return this.dotProduct(v) / (this.magnitude() * v.magnitude());
     }
 
+    public double similarity(Vector v) {
+        if (vector.length != v.vector.length) {
+            return 0.0;
+        }
+        double similarity = 0.0;
+        for (int i = 0; i < vector.length; i++) {
+            double s = vector[i] / v.vector[i];
+            if (!Double.isNaN(s) && !Double.isInfinite(s)) {
+                similarity += s;
+            }
+        }
+        similarity /= vector.length;
+        if (similarity > 1.0) similarity = 1.0 / similarity;
+        return similarity;
+    }
+
     public Vector softmax() {
         double sum = 0.0;
         for (int i = 0; i < vector.length; i++) {
@@ -171,6 +187,18 @@ public class Vector implements Serializable {
         double[] temp = new double[vector.length];
         for (int i = 0; i < vector.length; i++) {
             temp[i] = Math.exp(vector[i]) / sum;
+        }
+        return new Vector(temp);
+    }
+
+    public Vector modifiedSoftmax() {
+        double sum = 0.0;
+        for (int i = 0; i < vector.length; i++) {
+            sum += Math.exp(vector[i]) - 1;
+        }
+        double[] temp = new double[vector.length];
+        for (int i = 0; i < vector.length; i++) {
+            temp[i] = (Math.exp(vector[i]) - 1) / sum;
         }
         return new Vector(temp);
     }
@@ -228,7 +256,9 @@ public class Vector implements Serializable {
         for (int i = 0; i < vector.length; i++) {
             res += vector[i] + ", ";
         }
-        res = res.substring(0, res.length() - 2);
+        if (res.length() >= 2) {
+            res = res.substring(0, res.length() - 2);
+        }
         return res;
     }
 }

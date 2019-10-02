@@ -3,6 +3,7 @@ package ratingsystems.common.ratingsystem;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
+import ratingsystems.common.interpreter.Location;
 import ratingsystems.common.interpreter.Team;
 
 import java.io.FileNotFoundException;
@@ -175,7 +176,7 @@ public abstract class RatingSystem {
     public double checkPreditions(List<Game> games) {
         double correct = 0;
         for (Game game : games) {
-            double prediction = predictGame(game.getTeam(), game.getOpponent()).getOdds();
+            double prediction = predictGame(game.getTeam(), game.getOpponent(), game.getLocation()).getOdds();
             if (game.getScore() > game.getOpponentScore() && prediction > 0.5) correct++;
             if (game.getScore() < game.getOpponentScore() && prediction < 0.5) correct++;
             if (prediction == 0.5) correct += 0.5;
@@ -186,7 +187,7 @@ public abstract class RatingSystem {
     public double checkError(List<Game> games) {
         double error = 0.0;
         for (Game game : games) {
-            double prediction = predictGame(game.getTeam(), game.getOpponent()).getLine();
+            double prediction = predictGame(game.getTeam(), game.getOpponent(), game.getLocation()).getLine();
             error += Math.abs(prediction) - Math.abs(game.getScoreDiff());
         }
         return error;
@@ -195,7 +196,7 @@ public abstract class RatingSystem {
     public double checkAbsoluteError(List<Game> games) {
         double error = 0.0;
         for (Game game : games) {
-            double prediction = -1 * predictGame(game.getTeam(), game.getOpponent()).getLine();
+            double prediction = -1 * predictGame(game.getTeam(), game.getOpponent(), game.getLocation()).getLine();
             error += Math.abs(prediction - game.getScoreDiff());
         }
         return error;
@@ -298,9 +299,10 @@ public abstract class RatingSystem {
      *
      * @param team1 the first team in the game
      * @param team2 the second team in the game
+     * @param location the location of the game ('H', 'A', 'N')
      * @return the odds that team 1 wins
      */
-    abstract public Prediction predictGame(String team1, String team2);
+    abstract public Prediction predictGame(String team1, String team2, Location location);
 
     public boolean hasTeam(String team) {
         return teams.containsKey(team);

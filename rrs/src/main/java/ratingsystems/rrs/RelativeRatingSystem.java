@@ -3,6 +3,7 @@ package ratingsystems.rrs;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
+import ratingsystems.common.interpreter.Location;
 import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.linalg.Matrix;
 import ratingsystems.common.linalg.Vector;
@@ -116,7 +117,7 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     @Override
-    public Prediction predictGame(String team1, String team2) {
+    public Prediction predictGame(String team1, String team2, Location location) {
         if (!teamNameToIndex.keySet().contains(team1) || !teamNameToIndex.keySet().contains(team2)) {
             return new Prediction(team1, team2, 0.5);
         }
