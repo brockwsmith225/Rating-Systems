@@ -1,14 +1,12 @@
 package ratingsystems.common.linalg;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.Collection;
 
 public class Vector implements Serializable {
-    protected double[] vector;
+    double[] vector;
 
     /**
      * Constructs a new vector of size {@code size}.
@@ -76,6 +74,18 @@ public class Vector implements Serializable {
      */
     public double get(int i) {
         return vector[i];
+    }
+
+    /**
+     * Sets the value at a particular index in a vector
+     *
+     * @param i the index in the vector
+     * @param value the value to which to set the given index
+     */
+    public void set(int i, double value) {
+        if (i >= 0 && i < vector.length) {
+            vector[i] = value;
+        }
     }
 
     /**
@@ -161,6 +171,95 @@ public class Vector implements Serializable {
             return 0.0;
         }
         return this.dotProduct(v) / (this.magnitude() * v.magnitude());
+    }
+
+    public double minimum() {
+        double minimum = Double.MAX_VALUE;
+        for (int i = 0; i < vector.length; i++) {
+            if (vector[i] < minimum) {
+                minimum = vector[i];
+            }
+        }
+        return minimum;
+    }
+
+    public double maximum() {
+        double maximum = Integer.MIN_VALUE;
+        for (int i = 0; i < vector.length; i++) {
+            if (vector[i] > maximum) {
+                maximum = vector[i];
+            }
+        }
+        return maximum;
+    }
+
+    public double mean() {
+        double mean = 0.0;
+        for (int i = 0; i < vector.length; i++) {
+            mean += vector[i];
+        }
+        return mean / vector.length;
+    }
+
+    public double median() {
+        return quickselect(vector, vector.length / 2);
+    }
+
+    public double percentile(double percentile) {
+        if (percentile >= 0 && percentile <= 1) {
+            return quickselect(vector, (int) (vector.length * percentile));
+        }
+        return 0.0;
+    }
+
+    private double quickselect(double[] array, int index) {
+        if (array.length == 0 || index >= array.length) {
+            return 0.0;
+        } else if (array.length == 1) {
+            return array[0];
+        } else if (array.length == 2) {
+            if (index == 0) {
+                return Math.min(array[0], array[1]);
+            } else {
+                return Math.max(array[0], array[1]);
+            }
+        }
+
+        int pivot = (int) (Math.random() * array.length);
+        double[] splitArray = new double[array.length];
+        int start = 0;
+        int end = array.length - 1;
+        for (int i = 0; i < array.length; i++) {
+            if (i != pivot) {
+                if (array[i] < array[pivot]) {
+                    splitArray[start++] = array[i];
+                } else if (array[i] > array[pivot]) {
+                    splitArray[end--] = array[i];
+                } else {
+                    if (Math.random() < 0.5) {
+                        splitArray[start++] = array[i];
+                    } else {
+                        splitArray[end--] = array[i];
+                    }
+                }
+            }
+        }
+
+        if (index == start) {
+            return splitArray[index];
+        } else if (index < start) {
+            double[] newArray = new double[start];
+            for (int i = 0; i < start; i++) {
+                newArray[i] = splitArray[i];
+            }
+            return quickselect(newArray, index);
+        } else {
+            double[] newArray = new double[splitArray.length - end - 1];
+            for (int i = 0; i < splitArray.length - end - 1; i++) {
+                newArray[i] = splitArray[i + end + 1];
+            }
+            return quickselect(newArray, index - end - 1);
+        }
     }
 
     public double similarity(Vector v) {

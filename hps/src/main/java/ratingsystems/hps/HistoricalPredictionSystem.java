@@ -85,31 +85,18 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
         int prevYears = 4;
         try {
-            ser = new SimpleEfficiencyRating[prevYears];
-            if (this.week < 0) {
-                for (int i = 0; i < prevYears; i++) {
-                    if (week == 0) {
-                        this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
-                    } else {
-                        this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - 1 - i));
-                    }
+            if (this.interpreter.hasData(this.year) && week > 0) {
+                ser = new SimpleEfficiencyRating[prevYears + 1];
+                for (int i = 0; i < ser.length; i++) {
+                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
                     this.ser[i].setup();
                 }
             } else {
-                for (int i = 0; i < prevYears - 1; i++) {
-                    if (week == 0 || week == 1) {
-                        this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i), this.week);
-                    } else {
-                        this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - 1 - i), this.week);
-                    }
+                ser = new SimpleEfficiencyRating[prevYears];
+                for (int i = 0; i < ser.length; i++) {
+                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - 1 - i));
                     this.ser[i].setup();
                 }
-                if (week == 0 || week == 1) {
-                    this.ser[prevYears - 1] = new SimpleEfficiencyRating(this.interpreter, this.year - 1);
-                } else {
-                    this.ser[prevYears - 1] = new SimpleEfficiencyRating(this.interpreter, this.year, this.week);
-                }
-                this.ser[prevYears - 1].setup();
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -143,6 +130,19 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     @Override
     public Prediction predictGame(String team1, String team2, Location location) {
+        // VARIABLES
+        int statNumRecentYears = 1;
+        double statRecencyBias = 0.5;
+
+        double locationBias = 0.0;
+
+        double historicalResultsRecencyBias = 0.99;
+
+        double serRecencyBias = 0.5;
+        double serPow = 1.0;
+
+
+
         HashMap<String, Double> team1Similarities = new HashMap<>();
         HashMap<String, Double> team2Similarities = new HashMap<>();
 
@@ -150,22 +150,17 @@ public class HistoricalPredictionSystem extends RatingSystem {
         Vector team2Vector = new Vector(28, 0.0);
         double team1ModifiedCount = 0.0;
         double team2ModifiedCount = 0.0;
-        double recencyBias = 0.9;
-        for (int i = 0; i < 2; i++) {
-            int year;
-            if (week == 0 || week == 1) {
-                year = this.year - i - 1;
-            } else {
-                year = this.year - i;
-            }
-            double recencyModifier = Math.pow(recencyBias, (this.year - year) * this.week);
-            if (scaledTeamVectors.get(year).containsKey(team1)) {
-                team1Vector = team1Vector.add(scaledTeamVectors.get(year).get(team1).multiply(recencyModifier));
-                team1ModifiedCount += recencyModifier;
-            }
-            if (scaledTeamVectors.get(year).containsKey(team2)) {
-                team2Vector = team2Vector.add(scaledTeamVectors.get(year).get(team2).multiply(recencyModifier));
-                team2ModifiedCount += recencyModifier;
+        for (int year = this.year; year >= this.year - statNumRecentYears; year--) {
+            if (scaledTeamVectors.containsKey(year)) {
+                double recencyModifier = Math.pow(statRecencyBias, (this.year - year) * this.week);
+                if (scaledTeamVectors.get(year).containsKey(team1)) {
+                    team1Vector = team1Vector.add(scaledTeamVectors.get(year).get(team1).multiply(recencyModifier));
+                    team1ModifiedCount += recencyModifier;
+                }
+                if (scaledTeamVectors.get(year).containsKey(team2)) {
+                    team2Vector = team2Vector.add(scaledTeamVectors.get(year).get(team2).multiply(recencyModifier));
+                    team2ModifiedCount += recencyModifier;
+                }
             }
         }
 
@@ -191,18 +186,13 @@ public class HistoricalPredictionSystem extends RatingSystem {
         ArrayList<Double> gameSimilarities = new ArrayList<>();
         ArrayList<Double> team1Scores = new ArrayList<>();
         ArrayList<Double> team2Scores = new ArrayList<>();
-        double maxGameSimilarity = 0.0;
-        recencyBias = 0.9;
         for (Integer year : allTeams.keySet()) {
             if (year != this.year) {
-                double recencyModifier = Math.pow(recencyBias, Math.abs(this.year - year));
+                double recencyModifier = Math.pow(historicalResultsRecencyBias, Math.abs(this.year - year));
                 for (String historicalTeam : allTeams.get(year).keySet()) {
                     for (Game game : allTeams.get(year).get(historicalTeam).getGames()) {
-                        double locationModifier = location == game.getLocation() ? 1.0 : location == Location.NEUTRAL || game.getLocation() == Location.NEUTRAL ? 0.75 : 0.5;
+                        double locationModifier = location == game.getLocation() ? 1.0 : location == Location.NEUTRAL || game.getLocation() == Location.NEUTRAL ? locationBias : locationBias * locationBias;
                         double gameSimilarity = team1Similarities.get(historicalTeam) * team2Similarities.get(game.getOpponent()) * recencyModifier * locationModifier;
-                        if (gameSimilarity > maxGameSimilarity) {
-                            maxGameSimilarity = gameSimilarity;
-                        }
                         gameSimilarities.add(gameSimilarity);
                         team1Scores.add(game.getScore());
                         team2Scores.add(game.getOpponentScore());
@@ -211,13 +201,15 @@ public class HistoricalPredictionSystem extends RatingSystem {
             }
         }
 
-        for (int i = 0; i < gameSimilarities.size(); i++) {
-            if (gameSimilarities.get(i) < 0.5 * maxGameSimilarity) {
-                gameSimilarities.set(i, 0.0);
+        Vector gameSimilaritiesVector = new Vector(gameSimilarities);
+        double cutoff = gameSimilaritiesVector.percentile(0.9);
+        for (int i = 0; i < gameSimilaritiesVector.size(); i++) {
+            if (gameSimilaritiesVector.get(i) < cutoff) {
+                gameSimilaritiesVector.set(i, 0.0);
             }
         }
+        gameSimilaritiesVector = gameSimilaritiesVector.modifiedSoftmax();
 
-        Vector gameSimilaritiesVector = new Vector(gameSimilarities).modifiedSoftmax();
         Vector team1ScoresVector = new Vector(team1Scores);
         Vector team2ScoresVector = new Vector(team2Scores);
 
@@ -227,9 +219,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team2Def = 0.0;
         team1ModifiedCount = 0.0;
         team2ModifiedCount = 0.0;
-        recencyBias = 0.9;
         for (int i = 0; i < ser.length; i++) {
-            double recencyModifier = Math.pow(recencyBias, (ser.length - i - 1) * this.week);
+            double recencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * this.week);
             if (ser[i].hasTeam(team1)) {
                 team1Off += ser[i].getTeam(team1).getRating("Offensive Rating") * recencyModifier;
                 team1Def += ser[i].getTeam(team1).getRating("Defensive Rating") * recencyModifier;
@@ -252,8 +243,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
         if (team2Off == 0.0) team2Off = 1.0;
         if (team2Def == 0.0) team2Def = 1.0;
 
-        double team1ExpectedScore = gameSimilaritiesVector.dotProduct(team1ScoresVector) * team1Off / team2Def;
-        double team2ExpectedScore = gameSimilaritiesVector.dotProduct(team2ScoresVector) * team2Off / team1Def;
+        double team1ExpectedScore = gameSimilaritiesVector.dotProduct(team1ScoresVector) * Math.pow(team1Off / team2Def, serPow);
+        double team2ExpectedScore = gameSimilaritiesVector.dotProduct(team2ScoresVector) * Math.pow(team2Off / team1Def, serPow);
 
         double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
 

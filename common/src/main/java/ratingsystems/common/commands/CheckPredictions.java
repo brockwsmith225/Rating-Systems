@@ -31,15 +31,23 @@ public class CheckPredictions extends Command {
                 totalAbsoluteError += absoluteError;
                 numOfGames += games.size();
 
-                System.out.println("Week " + (week + 1));
-                System.out.println("Percent Correct: " + correct / games.size());
-                System.out.println("Error:           " + error / games.size());
-                System.out.println("Absolute Error:  " + absoluteError / games.size());
-                System.out.println();
+                if (options.get("PRETTY_PRINT")) {
+                    System.out.println("Week " + (week + 1));
+                    System.out.println("Percent Correct: " + correct / games.size());
+                    System.out.println("Error:           " + error / games.size());
+                    System.out.println("Absolute Error:  " + absoluteError / games.size());
+                    System.out.println();
+                } else {
+                    System.out.print(correct / games.size() + "\t");
+                }
             }
-            System.out.println("Total Percent Correct: " + gamesCorrect / numOfGames);
-            System.out.println("Total Error:           " + totalError / numOfGames);
-            System.out.println("Total Absolute Error:  " + totalAbsoluteError / numOfGames);
+            if (options.get("PRETTY_PRINT")) {
+                System.out.println("Total Percent Correct: " + gamesCorrect / numOfGames);
+                System.out.println("Total Error:           " + totalError / numOfGames);
+                System.out.println("Total Absolute Error:  " + totalAbsoluteError / numOfGames);
+            } else {
+                System.out.println(gamesCorrect / numOfGames);
+            }
         }
         return null;
     }
