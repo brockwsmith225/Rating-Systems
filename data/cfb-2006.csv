@@ -1,0 +1,1429 @@
+Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions
+2006-09-02,Indiana,Big Ten,H,Western Michigan,W,39,20,20,35,252,2,28,71,1,10,5,8,90,1,1
+2006-09-09,Indiana,Big Ten,A,Ball State,W,24,23,16,33,226,1,29,147,1,9,8,9,74,0,0
+2006-09-23,Indiana,Big Ten,H,Connecticut,L,7,14,20,43,192,0,27,0,0,7,3,4,15,1,3
+2006-09-30,Indiana,Big Ten,H,Wisconsin,L,17,52,13,30,113,0,33,167,1,5,8,4,37,2,0
+2006-10-07,Indiana,Big Ten,A,Illinois,W,34,32,20,41,240,0,33,149,3,13,7,4,35,1,0
+2006-10-14,Indiana,Big Ten,H,Iowa,W,31,28,19,25,255,3,42,158,1,13,7,6,55,2,0
+2006-10-21,Indiana,Big Ten,A,Ohio State,L,3,44,20,35,158,0,28,7,0,8,6,5,30,0,2
+2006-10-28,Indiana,Big Ten,H,Michigan State,W,46,21,15,26,261,5,51,185,1,14,9,4,45,2,1
+2006-11-04,Indiana,Big Ten,A,Minnesota,L,26,63,27,47,335,3,37,165,1,14,10,4,35,0,3
+2006-11-11,Indiana,Big Ten,H,Michigan,L,3,34,16,33,105,0,20,26,0,6,4,2,15,0,1
+2006-11-18,Indiana,Big Ten,A,Purdue,L,19,28,26,42,290,1,31,215,1,12,8,6,46,4,0
+2006-09-04,Florida State,ACC,A,Miami (FL),W,13,10,16,32,175,0,25,1,1,7,0,6,38,0,1
+2006-09-09,Florida State,ACC,H,Troy,W,24,17,30,43,336,2,28,45,1,15,6,6,51,3,1
+2006-09-16,Florida State,ACC,H,Clemson,L,20,27,11,20,102,0,38,102,1,4,6,5,38,2,0
+2006-09-23,Florida State,ACC,H,Rice,W,55,7,13,23,213,2,38,287,5,9,12,8,58,1,0
+2006-10-05,Florida State,ACC,A,North Carolina State,L,20,24,16,29,249,2,32,96,0,12,3,10,81,0,1
+2006-10-14,Florida State,ACC,A,Duke,W,51,24,23,40,321,5,21,157,1,16,4,11,101,1,3
+2006-10-21,Florida State,ACC,H,Boston College,L,19,24,32,48,326,1,21,28,1,17,2,5,35,1,2
+2006-10-28,Florida State,ACC,A,Maryland,L,24,27,22,36,286,2,34,172,1,12,9,13,100,1,0
+2006-11-04,Florida State,ACC,H,Virginia,W,33,0,14,31,226,1,27,117,2,9,4,4,35,0,0
+2006-11-11,Florida State,ACC,H,Wake Forest,L,0,30,9,28,113,0,23,26,0,6,2,9,69,0,4
+2006-11-18,Florida State,ACC,H,Western Michigan,W,28,20,14,23,178,2,28,73,1,7,4,3,20,2,0
+2006-11-25,Florida State,ACC,H,Florida,L,14,21,18,43,189,1,18,46,1,7,3,4,27,0,3
+2006-12-27,Florida State,ACC,N,UCLA,W,44,27,21,43,325,1,30,105,2,13,6,5,44,0,1
+2006-08-31,Iowa State,Big 12,H,Toledo,W,45,43,17,26,234,2,41,159,4,10,12,3,18,1,0
+2006-09-09,Iowa State,Big 12,H,Nevada-Las Vegas,W,16,10,14,21,203,0,37,137,2,8,9,6,55,0,1
+2006-09-16,Iowa State,Big 12,A,Iowa,L,17,27,15,31,152,1,36,171,1,7,10,5,35,0,0
+2006-09-23,Iowa State,Big 12,A,Texas,L,14,37,25,45,302,2,27,21,0,13,5,7,50,0,2
+2006-10-07,Iowa State,Big 12,H,Nebraska,L,14,28,18,39,262,1,24,53,1,13,2,6,45,0,1
+2006-10-14,Iowa State,Big 12,A,Oklahoma,L,9,34,14,25,149,1,29,89,0,6,6,4,30,0,2
+2006-10-21,Iowa State,Big 12,H,Texas Tech,L,26,42,14,34,146,1,36,75,2,8,5,4,35,0,2
+2006-10-28,Iowa State,Big 12,A,Kansas State,L,10,31,23,41,280,0,35,104,1,11,8,2,15,2,1
+2006-11-04,Iowa State,Big 12,H,Kansas,L,10,41,16,31,180,0,30,33,1,8,3,4,30,3,1
+2006-11-11,Iowa State,Big 12,A,Colorado,L,16,33,18,29,209,1,30,102,1,11,6,7,46,0,0
+2006-11-18,Iowa State,Big 12,H,Missouri,W,21,16,15,27,153,1,48,196,2,8,14,5,40,0,1
+2006-09-08,Cincinnati,Big East,H,Pitt,L,15,33,25,40,221,1,30,35,1,12,3,6,38,1,2
+2006-09-16,Cincinnati,Big East,A,Ohio State,L,7,37,20,25,216,1,22,-4,0,10,1,6,28,0,3
+2006-09-23,Cincinnati,Big East,A,Virginia Tech,L,13,29,14,20,159,0,38,121,1,5,6,9,75,1,2
+2006-09-30,Cincinnati,Big East,H,Miami (OH),W,24,10,5,11,43,1,42,253,2,2,10,6,41,2,1
+2006-10-07,Cincinnati,Big East,H,Akron,W,20,14,16,24,230,1,53,194,1,11,11,7,75,2,1
+2006-10-14,Cincinnati,Big East,A,Louisville,L,17,23,10,28,129,2,52,212,0,8,10,7,65,1,0
+2006-10-22,Cincinnati,Big East,H,South Florida,W,23,6,11,18,105,0,46,191,2,6,11,5,55,0,0
+2006-10-28,Cincinnati,Big East,H,Syracuse,W,17,3,13,18,205,1,42,147,1,8,8,4,36,0,2
+2006-11-11,Cincinnati,Big East,A,West Virginia,L,24,42,23,41,310,3,31,57,0,13,5,11,75,1,3
+2006-11-18,Cincinnati,Big East,H,Rutgers,W,30,11,11,15,277,1,46,125,1,9,6,7,70,3,0
+2006-11-25,Cincinnati,Big East,A,Connecticut,W,26,23,20,34,291,2,41,151,0,10,8,8,71,0,1
+2007-01-06,Cincinnati,Big East,N,Western Michigan,W,27,24,20,37,221,2,34,126,0,15,6,2,20,1,2
+2006-09-09,Arizona State,Pac-10,H,Nevada,W,52,21,19,30,337,5,31,149,1,15,6,5,29,1,1
+2006-09-16,Arizona State,Pac-10,A,Colorado,W,21,3,21,37,248,2,37,182,1,14,8,11,73,2,2
+2006-09-23,Arizona State,Pac-10,A,California,L,21,49,16,36,177,2,46,237,1,6,18,9,70,1,4
+2006-09-30,Arizona State,Pac-10,H,Oregon,L,13,48,6,19,33,0,34,142,0,0,8,6,44,1,1
+2006-10-14,Arizona State,Pac-10,A,USC,L,21,28,12,21,124,1,33,121,1,7,5,12,97,1,0
+2006-10-21,Arizona State,Pac-10,H,Stanford,W,38,3,17,19,175,1,47,206,4,9,11,10,95,0,0
+2006-10-28,Arizona State,Pac-10,A,Washington,W,26,23,16,23,170,2,34,190,2,10,5,16,127,0,0
+2006-11-04,Arizona State,Pac-10,A,Oregon State,L,10,44,9,29,124,0,34,99,1,6,6,6,45,0,2
+2006-11-11,Arizona State,Pac-10,H,Washington State,W,47,14,16,29,366,3,49,196,2,14,11,4,44,1,1
+2006-11-18,Arizona State,Pac-10,H,UCLA,L,12,24,11,30,149,0,37,115,0,6,7,4,33,0,1
+2006-11-25,Arizona State,Pac-10,A,Arizona,W,28,14,17,26,214,3,45,215,1,10,12,8,76,1,1
+2006-12-24,Arizona State,Pac-10,A,Hawaii,L,24,41,13,26,191,2,36,200,1,8,9,5,32,2,0
+2006-09-02,Syracuse,Big East,A,Wake Forest,L,10,20,6,19,45,1,30,91,0,4,6,1,5,1,0
+2006-09-09,Syracuse,Big East,H,Iowa,L,13,20,21,38,210,1,44,70,0,11,5,7,58,0,0
+2006-09-16,Syracuse,Big East,A,Illinois,W,31,21,9,18,167,2,44,202,1,8,8,7,61,0,1
+2006-09-23,Syracuse,Big East,H,Miami (OH),W,34,14,14,20,163,2,34,152,1,6,8,7,68,0,0
+2006-09-30,Syracuse,Big East,H,Wyoming,W,40,34,11,25,121,1,32,154,4,5,10,7,60,2,1
+2006-10-07,Syracuse,Big East,H,Pitt,L,11,21,20,29,225,1,33,92,0,11,7,8,60,3,0
+2006-10-14,Syracuse,Big East,A,West Virginia,L,17,41,9,22,146,1,35,81,1,5,7,8,45,1,0
+2006-10-21,Syracuse,Big East,H,Louisville,L,13,28,24,41,303,1,28,19,0,15,3,9,65,1,1
+2006-10-28,Syracuse,Big East,A,Cincinnati,L,3,17,13,29,119,0,31,61,0,6,5,5,41,0,0
+2006-11-11,Syracuse,Big East,A,South Florida,L,10,27,15,32,174,1,39,76,0,11,4,3,15,2,1
+2006-11-18,Syracuse,Big East,H,Connecticut,W,20,14,9,19,143,1,39,163,1,7,7,4,35,1,0
+2006-11-25,Syracuse,Big East,A,Rutgers,L,7,38,10,19,69,1,31,122,0,2,8,5,49,1,1
+2006-09-02,Penn State,Big Ten,H,Akron,W,34,16,16,32,206,3,27,76,1,8,4,5,33,2,0
+2006-09-09,Penn State,Big Ten,A,Notre Dame,L,17,41,24,41,225,1,33,158,1,12,10,4,25,2,1
+2006-09-23,Penn State,Big Ten,A,Ohio State,L,6,28,16,25,106,0,40,142,0,7,6,3,20,0,3
+2006-09-30,Penn State,Big Ten,H,Northwestern,W,33,7,20,35,295,0,48,233,3,10,15,6,52,1,1
+2006-10-07,Penn State,Big Ten,A,Minnesota,W,28,27,20,35,281,2,40,150,2,13,7,4,20,0,1
+2006-10-14,Penn State,Big Ten,H,Michigan,L,10,17,17,31,200,1,25,-14,0,8,1,1,8,1,0
+2006-10-21,Penn State,Big Ten,H,Illinois,W,26,12,18,34,144,1,24,40,0,6,3,3,15,1,1
+2006-10-28,Penn State,Big Ten,A,Purdue,W,12,0,14,31,182,0,50,240,1,9,14,9,80,1,0
+2006-11-04,Penn State,Big Ten,A,Wisconsin,L,3,13,19,36,165,0,19,36,0,9,3,6,44,2,1
+2006-11-11,Penn State,Big Ten,H,Temple,W,47,0,17,30,199,1,33,212,4,8,10,3,30,0,1
+2006-11-18,Penn State,Big Ten,H,Michigan State,W,17,13,17,37,220,2,39,105,0,12,8,3,25,4,0
+2007-01-01,Penn State,Big Ten,N,Tennessee,W,20,10,14,25,197,1,40,183,0,9,9,6,45,0,0
+2006-09-02,California,Pac-10,A,Tennessee,L,18,35,20,42,272,1,23,64,1,9,4,6,40,0,2
+2006-09-09,California,Pac-10,H,Minnesota,W,42,17,22,31,300,4,48,231,2,13,15,6,61,1,0
+2006-09-23,California,Pac-10,H,Arizona State,W,49,21,18,26,270,4,27,139,0,11,5,5,70,1,1
+2006-09-30,California,Pac-10,A,Oregon State,W,41,13,22,31,341,4,33,142,1,15,8,4,25,0,1
+2006-10-07,California,Pac-10,H,Oregon,W,45,24,14,26,189,3,42,235,2,9,10,7,63,0,1
+2006-10-14,California,Pac-10,A,Washington State,W,21,3,17,31,176,0,40,177,3,8,9,6,36,1,2
+2006-10-21,California,Pac-10,H,Washington,W,31,24,21,36,291,0,35,195,3,14,8,6,50,0,0
+2006-11-04,California,Pac-10,H,UCLA,W,38,24,20,24,266,3,34,167,1,12,11,5,37,1,0
+2006-11-11,California,Pac-10,A,Arizona,L,20,24,17,36,250,1,23,106,0,10,4,7,57,0,3
+2006-11-18,California,Pac-10,A,USC,L,9,23,17,38,176,1,26,99,0,8,5,3,22,1,2
+2006-12-02,California,Pac-10,H,Stanford,W,26,17,14,31,217,1,33,127,0,10,7,3,21,1,0
+2006-12-28,California,Pac-10,N,Texas A&M,W,45,10,19,24,235,1,32,241,5,11,11,4,35,0,1
+2006-09-02,Stanford,Pac-10,A,Oregon,L,10,48,20,34,224,1,35,100,0,10,6,5,29,1,0
+2006-09-09,Stanford,Pac-10,A,San Jose State,L,34,35,18,28,233,4,43,185,1,11,10,4,35,2,1
+2006-09-16,Stanford,Pac-10,H,Navy,L,9,37,26,41,270,0,25,74,1,16,6,3,15,2,1
+2006-09-23,Stanford,Pac-10,H,Washington State,L,10,36,15,25,167,1,31,28,0,6,5,1,10,1,1
+2006-09-30,Stanford,Pac-10,A,UCLA,L,0,31,12,25,117,0,34,49,0,7,4,3,26,2,3
+2006-10-07,Stanford,Pac-10,A,Notre Dame,L,10,31,10,18,154,1,31,72,0,6,5,7,47,0,1
+2006-10-14,Stanford,Pac-10,H,Arizona,L,7,20,8,13,58,0,19,-6,0,3,1,7,45,1,0
+2006-10-21,Stanford,Pac-10,A,Arizona State,L,3,38,7,25,66,0,30,79,0,3,5,10,81,2,1
+2006-11-04,Stanford,Pac-10,H,USC,L,0,42,16,30,178,0,30,30,0,8,3,4,20,1,2
+2006-11-11,Stanford,Pac-10,A,Washington,W,20,3,11,20,206,1,35,20,0,5,1,7,50,0,0
+2006-11-18,Stanford,Pac-10,H,Oregon State,L,7,30,9,26,125,0,21,85,1,5,6,3,25,1,1
+2006-12-02,Stanford,Pac-10,A,California,L,17,26,15,31,204,2,33,65,0,9,6,6,45,2,0
+2006-09-02,Washington State,Pac-10,A,Auburn,L,14,40,17,33,150,2,28,124,0,10,5,2,20,0,1
+2006-09-09,Washington State,Pac-10,H,Idaho,W,56,10,18,24,293,4,43,344,4,11,12,10,108,1,0
+2006-09-16,Washington State,Pac-10,H,Baylor,W,17,15,25,38,285,2,34,51,0,14,4,3,25,2,2
+2006-09-23,Washington State,Pac-10,A,Stanford,W,36,10,21,33,228,2,49,240,2,12,16,4,35,3,0
+2006-09-30,Washington State,Pac-10,H,USC,L,22,28,26,47,287,2,28,131,0,12,10,8,60,0,1
+2006-10-07,Washington State,Pac-10,A,Oregon State,W,13,6,19,34,270,1,37,85,0,10,5,6,60,1,1
+2006-10-14,Washington State,Pac-10,H,California,L,3,21,21,41,262,0,19,88,0,12,2,5,39,0,2
+2006-10-21,Washington State,Pac-10,H,Oregon,W,34,23,20,23,179,2,41,193,2,9,10,4,35,2,1
+2006-10-28,Washington State,Pac-10,A,UCLA,W,37,15,28,38,405,3,36,110,2,16,5,10,83,0,2
+2006-11-04,Washington State,Pac-10,H,Arizona,L,17,27,18,33,265,1,27,45,1,9,2,5,38,2,0
+2006-11-11,Washington State,Pac-10,A,Arizona State,L,14,47,15,32,165,2,19,27,0,7,3,6,55,0,2
+2006-11-18,Washington State,Pac-10,H,Washington,L,32,35,32,54,328,2,31,102,1,18,7,2,10,1,0
+2006-09-09,Illinois,Big Ten,A,Rutgers,L,0,33,7,21,60,0,29,66,0,3,4,9,65,1,2
+2006-09-16,Illinois,Big Ten,H,Syracuse,L,21,31,17,33,288,2,31,110,1,9,7,12,106,1,1
+2006-09-23,Illinois,Big Ten,H,Iowa,L,7,24,12,39,194,1,35,121,0,9,10,2,10,0,4
+2006-09-30,Illinois,Big Ten,A,Michigan State,W,23,20,10,17,138,2,44,252,0,6,13,4,34,0,1
+2006-10-07,Illinois,Big Ten,H,Indiana,L,32,34,11,22,217,3,38,209,1,7,8,2,20,1,0
+2006-10-14,Illinois,Big Ten,H,Ohio,L,17,20,16,34,186,2,36,211,0,8,12,3,25,4,1
+2006-10-21,Illinois,Big Ten,A,Penn State,L,12,26,13,33,156,0,42,202,0,10,8,6,37,2,2
+2006-10-28,Illinois,Big Ten,A,Wisconsin,L,24,30,13,30,171,1,41,121,1,7,7,2,8,1,1
+2006-11-04,Illinois,Big Ten,H,Ohio State,L,10,17,14,35,134,0,22,99,1,9,3,1,15,1,1
+2006-11-11,Illinois,Big Ten,H,Purdue,L,31,42,8,29,95,0,42,316,3,4,14,6,56,4,1
+2006-11-18,Illinois,Big Ten,A,Northwestern,L,16,27,4,18,65,0,26,214,2,2,5,7,56,3,0
+2006-09-09,Georgia,SEC,A,South Carolina,W,18,0,10,22,189,0,39,198,1,10,9,6,46,0,3
+2006-09-16,Georgia,SEC,H,UAB,W,34,0,11,19,125,0,38,146,3,7,10,9,70,0,0
+2006-09-23,Georgia,SEC,H,Colorado,W,14,13,18,29,230,2,27,54,0,11,4,5,45,2,0
+2006-09-30,Georgia,SEC,A,Ole Miss,W,14,9,11,28,115,0,33,133,2,4,9,7,69,0,0
+2006-10-07,Georgia,SEC,H,Tennessee,L,33,51,14,25,175,1,27,145,1,8,5,5,28,1,3
+2006-10-14,Georgia,SEC,H,Vanderbilt,L,22,24,20,30,237,1,35,136,0,12,8,7,50,1,0
+2006-10-21,Georgia,SEC,H,Mississippi State,W,27,24,20,32,267,2,28,103,2,11,6,9,63,2,3
+2006-10-28,Georgia,SEC,N,Florida,L,14,21,13,33,151,0,26,64,2,7,7,6,50,3,2
+2006-11-04,Georgia,SEC,A,Kentucky,L,20,24,16,29,230,1,32,159,2,12,9,5,33,1,3
+2006-11-11,Georgia,SEC,A,Auburn,W,37,15,14,20,219,1,46,227,3,9,10,8,49,3,0
+2006-11-25,Georgia,SEC,H,Georgia Tech,W,15,12,16,29,171,1,37,84,0,12,6,5,60,1,0
+2006-12-30,Georgia,SEC,N,Virginia Tech,W,31,24,9,21,129,1,31,71,2,6,2,4,31,0,1
+2006-09-09,Maryland,ACC,H,Middle Tennessee State,W,24,10,11,16,139,0,34,135,3,8,8,3,25,1,0
+2006-09-14,Maryland,ACC,A,West Virginia,L,24,45,24,45,211,2,33,122,1,11,9,3,40,3,2
+2006-09-23,Maryland,ACC,H,Florida International,W,14,10,17,30,158,2,40,117,0,9,8,6,74,0,1
+2006-10-07,Maryland,ACC,A,Georgia Tech,L,23,27,16,24,190,1,35,92,0,10,4,4,49,1,1
+2006-10-14,Maryland,ACC,A,Virginia,W,28,26,17,28,171,0,34,174,3,10,7,2,20,0,1
+2006-10-21,Maryland,ACC,H,North Carolina State,W,26,20,7,9,115,1,41,165,1,4,7,5,54,1,0
+2006-10-28,Maryland,ACC,H,Florida State,W,27,24,12,20,131,3,32,92,0,6,7,10,75,0,0
+2006-11-04,Maryland,ACC,A,Clemson,W,13,12,23,35,247,1,28,54,0,13,5,6,31,0,1
+2006-11-11,Maryland,ACC,H,Miami (FL),W,14,13,11,16,202,2,21,56,0,3,3,1,10,0,0
+2006-11-18,Maryland,ACC,A,Boston College,L,16,38,28,43,258,1,29,73,0,12,6,4,34,2,2
+2006-11-25,Maryland,ACC,H,Wake Forest,L,24,38,14,26,182,1,33,194,2,10,9,5,30,0,3
+2006-12-29,Maryland,ACC,N,Purdue,W,24,7,15,24,223,2,50,206,1,9,10,5,31,0,0
+2006-09-02,Idaho,WAC,A,Michigan State,L,17,27,17,31,155,1,36,113,1,7,8,3,25,0,1
+2006-09-09,Idaho,WAC,A,Washington State,L,10,56,14,36,220,0,32,83,1,10,5,7,73,1,1
+2006-09-23,Idaho,WAC,A,Oregon State,L,0,38,8,23,128,0,24,57,0,3,4,8,87,2,4
+2006-09-30,Idaho,WAC,A,Utah State,W,41,21,10,20,188,1,35,128,2,8,9,7,68,1,0
+2006-10-07,Idaho,WAC,H,New Mexico State,W,28,20,19,27,298,2,42,151,2,14,6,6,76,0,1
+2006-10-14,Idaho,WAC,A,Louisiana Tech,W,24,14,14,27,238,0,44,144,3,8,9,12,100,2,1
+2006-10-21,Idaho,WAC,H,Boise State,L,26,42,24,45,328,3,28,69,0,15,4,8,67,0,2
+2006-10-28,Idaho,WAC,A,Hawaii,L,10,68,14,37,193,1,31,141,0,10,7,5,55,1,1
+2006-11-04,Idaho,WAC,H,Nevada,L,7,45,12,21,116,0,24,93,1,7,3,7,72,3,1
+2006-11-18,Idaho,WAC,A,Fresno State,L,0,34,10,30,92,0,30,107,0,4,7,9,79,0,1
+2006-11-25,Idaho,WAC,H,San Jose State,L,13,28,7,20,131,0,33,123,1,4,7,9,127,0,2
+2006-09-02,Oklahoma,Big 12,H,UAB,W,24,17,14,24,227,2,29,143,1,9,5,5,40,2,2
+2006-09-09,Oklahoma,Big 12,H,Washington,W,37,20,21,33,272,2,35,181,2,12,10,7,38,1,1
+2006-09-16,Oklahoma,Big 12,A,Oregon,L,33,34,13,24,174,1,43,207,2,9,7,8,69,1,0
+2006-09-23,Oklahoma,Big 12,H,Middle Tennessee State,W,59,0,14,20,272,3,44,190,3,12,9,2,10,2,0
+2006-10-07,Oklahoma,Big 12,N,Texas,L,10,28,15,27,209,0,36,124,1,9,4,11,72,3,2
+2006-10-14,Oklahoma,Big 12,H,Iowa State,W,34,9,16,27,195,2,34,185,2,12,5,3,35,0,0
+2006-10-21,Oklahoma,Big 12,H,Colorado,W,24,3,17,26,105,1,49,166,2,7,10,5,35,1,0
+2006-10-28,Oklahoma,Big 12,A,Missouri,W,26,10,11,19,127,2,52,231,1,8,10,5,39,2,0
+2006-11-04,Oklahoma,Big 12,A,Texas A&M,W,17,16,3,12,39,0,45,224,2,3,12,5,42,2,0
+2006-11-11,Oklahoma,Big 12,H,Texas Tech,W,34,24,24,31,309,2,36,139,2,16,5,2,25,3,1
+2006-11-18,Oklahoma,Big 12,A,Baylor,W,36,10,12,19,178,2,41,236,1,6,11,5,45,4,1
+2006-11-25,Oklahoma,Big 12,A,Oklahoma State,W,27,21,7,11,77,1,47,238,3,7,11,2,11,0,0
+2006-12-02,Oklahoma,Big 12,N,Nebraska,W,21,7,19,35,265,2,28,42,1,11,2,3,25,0,1
+2007-01-01,Oklahoma,Big 12,N,Boise State,L,42,43,19,32,233,2,38,174,2,10,9,6,35,1,3
+2006-09-03,Louisville,Big East,H,Kentucky,W,59,28,20,32,268,1,55,363,6,12,18,3,40,1,0
+2006-09-09,Louisville,Big East,A,Temple,W,62,0,21,35,359,1,43,312,7,13,16,6,53,0,1
+2006-09-16,Louisville,Big East,H,Miami (FL),W,31,7,13,18,294,2,31,95,2,9,4,8,76,1,0
+2006-09-23,Louisville,Big East,A,Kansas State,W,24,6,18,26,173,1,42,228,2,8,11,4,39,2,1
+2006-10-06,Louisville,Big East,A,Middle Tennessee State,W,44,17,17,32,340,3,31,186,2,16,9,3,30,1,1
+2006-10-14,Louisville,Big East,H,Cincinnati,W,23,17,20,36,324,1,26,105,1,13,6,7,60,2,1
+2006-10-21,Louisville,Big East,A,Syracuse,W,28,13,18,26,203,0,36,223,4,10,14,4,30,2,1
+2006-11-02,Louisville,Big East,H,West Virginia,W,44,34,19,26,354,1,32,114,2,15,6,4,40,1,0
+2006-11-09,Louisville,Big East,A,Rutgers,L,25,28,13,27,163,1,39,103,1,5,7,8,49,0,1
+2006-11-18,Louisville,Big East,H,South Florida,W,31,8,19,33,274,2,36,172,2,9,9,9,80,1,0
+2006-11-25,Louisville,Big East,A,Pitt,W,48,24,21,29,337,4,31,162,2,12,6,5,50,1,0
+2006-12-02,Louisville,Big East,H,Connecticut,W,48,17,21,29,349,4,44,221,2,13,11,3,30,2,1
+2007-01-02,Louisville,Big East,N,Wake Forest,W,24,13,25,35,332,1,37,125,2,15,8,1,5,2,0
+2006-09-02,Arkansas,SEC,H,USC,L,14,50,16,32,157,0,27,130,2,7,7,4,40,2,3
+2006-09-09,Arkansas,SEC,H,Utah State,W,20,0,11,22,178,1,38,279,2,6,12,8,90,1,0
+2006-09-16,Arkansas,SEC,A,Vanderbilt,W,21,19,13,20,224,3,39,170,0,7,10,5,41,0,1
+2006-09-23,Arkansas,SEC,H,Alabama,W,24,23,7,22,97,1,31,172,1,5,8,5,50,0,3
+2006-10-07,Arkansas,SEC,A,Auburn,W,27,10,7,10,87,1,45,279,2,4,12,4,30,0,0
+2006-10-21,Arkansas,SEC,H,Ole Miss,W,38,3,14,18,205,2,37,141,2,7,7,5,45,0,0
+2006-10-28,Arkansas,SEC,H,Louisiana-Monroe,W,44,10,10,23,97,3,40,331,3,6,16,6,49,1,2
+2006-11-04,Arkansas,SEC,A,South Carolina,W,26,20,11,20,228,1,50,267,2,9,11,8,65,0,2
+2006-11-11,Arkansas,SEC,H,Tennessee,W,31,14,11,16,166,2,45,259,2,7,10,5,65,1,0
+2006-11-18,Arkansas,SEC,A,Mississippi State,W,28,14,9,18,128,2,38,128,0,7,6,4,33,0,1
+2006-11-24,Arkansas,SEC,H,LSU,L,26,31,5,20,62,1,39,298,3,2,13,8,55,0,1
+2006-12-02,Arkansas,SEC,N,Florida,L,28,38,12,26,179,3,35,132,0,8,7,5,25,1,3
+2007-01-01,Arkansas,SEC,N,Wisconsin,L,14,17,15,32,136,0,34,232,2,9,7,12,123,0,2
+2006-09-02,Washington,Pac-10,H,San Jose State,W,35,29,16,25,168,1,41,300,4,7,15,4,40,2,1
+2006-09-09,Washington,Pac-10,A,Oklahoma,L,20,37,14,30,180,1,40,204,1,9,8,6,50,1,0
+2006-09-16,Washington,Pac-10,H,Fresno State,W,21,20,15,26,151,2,35,128,1,7,9,4,47,0,0
+2006-09-23,Washington,Pac-10,H,UCLA,W,29,19,18,29,200,3,27,49,0,9,4,3,15,3,1
+2006-09-30,Washington,Pac-10,A,Arizona,W,21,10,14,26,293,2,40,154,1,11,4,5,55,0,1
+2006-10-07,Washington,Pac-10,A,USC,L,20,26,17,39,212,2,31,167,0,11,7,4,25,0,0
+2006-10-14,Washington,Pac-10,H,Oregon State,L,17,27,14,30,172,0,37,84,2,5,7,7,49,0,0
+2006-10-21,Washington,Pac-10,A,California,L,24,31,17,31,284,2,36,162,1,11,7,2,9,0,5
+2006-10-28,Washington,Pac-10,H,Arizona State,L,23,26,14,32,148,2,35,126,0,5,7,7,50,0,2
+2006-11-04,Washington,Pac-10,A,Oregon,L,14,34,15,34,125,2,21,13,0,6,4,7,72,0,1
+2006-11-11,Washington,Pac-10,H,Stanford,L,3,20,11,44,122,0,28,39,0,5,5,5,51,0,3
+2006-11-18,Washington,Pac-10,A,Washington State,W,35,32,14,27,271,2,31,109,2,10,4,6,45,0,2
+2006-09-02,Southern Mississippi,CUSA,A,Florida,L,7,34,17,37,176,1,25,119,0,9,7,8,64,0,3
+2006-09-16,Southern Mississippi,CUSA,H,North Carolina State,W,37,17,13,19,181,0,52,261,4,9,14,7,74,1,0
+2006-09-26,Southern Mississippi,CUSA,A,UCF,W,19,14,15,31,184,1,29,89,0,8,5,4,21,0,0
+2006-10-03,Southern Mississippi,CUSA,A,Tulsa,L,6,20,14,39,123,0,31,120,0,8,8,1,10,0,1
+2006-10-14,Southern Mississippi,CUSA,H,Houston,W,31,27,17,26,180,2,39,145,2,10,8,5,40,1,0
+2006-10-21,Southern Mississippi,CUSA,A,Virginia Tech,L,6,36,13,24,134,0,37,82,0,5,5,7,45,2,0
+2006-10-28,Southern Mississippi,CUSA,H,East Carolina,L,17,20,13,20,79,1,28,101,0,4,5,4,36,0,1
+2006-11-05,Southern Mississippi,CUSA,A,Memphis,W,42,21,15,25,232,4,40,254,2,9,11,10,76,0,0
+2006-11-11,Southern Mississippi,CUSA,A,Tulane,W,31,3,17,25,167,0,50,226,3,8,15,7,49,1,0
+2006-11-18,Southern Mississippi,CUSA,H,UAB,W,25,20,8,18,128,1,44,212,1,4,14,6,55,3,1
+2006-11-25,Southern Mississippi,CUSA,H,Marshall,W,42,7,14,19,135,2,44,226,3,6,13,1,15,0,0
+2006-12-01,Southern Mississippi,CUSA,A,Houston,L,20,34,17,32,186,1,33,163,1,10,6,4,35,1,0
+2007-01-07,Southern Mississippi,CUSA,N,Ohio,W,28,7,14,22,160,0,39,124,3,9,7,6,50,0,1
+2006-09-02,Utah State,WAC,A,Wyoming,L,7,38,10,22,74,0,26,55,0,1,4,9,79,0,1
+2006-09-09,Utah State,WAC,A,Arkansas,L,0,20,11,28,114,0,39,135,0,7,7,3,25,0,0
+2006-09-16,Utah State,WAC,H,Utah,L,0,48,6,20,64,0,29,34,0,3,4,4,24,4,2
+2006-09-23,Utah State,WAC,A,Brigham Young,L,0,38,17,28,122,0,42,120,0,5,10,6,46,1,1
+2006-09-30,Utah State,WAC,H,Idaho,L,21,41,19,27,186,1,35,119,2,11,8,2,20,1,2
+2006-10-07,Utah State,WAC,H,Fresno State,W,13,12,9,19,120,2,36,147,0,4,7,6,75,0,0
+2006-10-14,Utah State,WAC,A,San Jose State,L,14,21,21,24,145,2,44,156,0,7,7,4,38,1,0
+2006-10-21,Utah State,WAC,A,Louisiana Tech,L,35,48,12,28,249,2,36,124,2,10,7,3,27,0,2
+2006-11-04,Utah State,WAC,H,Hawaii,L,10,63,17,31,225,0,42,137,1,10,7,11,93,3,1
+2006-11-11,Utah State,WAC,A,Nevada,L,0,42,9,21,82,0,38,125,0,4,7,8,69,0,3
+2006-11-18,Utah State,WAC,A,Boise State,L,10,49,9,19,98,0,30,90,0,4,2,6,44,0,1
+2006-11-25,Utah State,WAC,H,New Mexico State,L,20,42,15,31,197,2,33,135,1,9,7,3,25,1,1
+2006-09-09,Missouri,Big 12,H,Ole Miss,W,34,7,25,41,253,1,42,218,3,14,11,3,15,1,0
+2006-09-16,Missouri,Big 12,A,New Mexico,W,27,17,25,36,199,1,40,197,2,11,10,2,11,1,1
+2006-09-23,Missouri,Big 12,H,Ohio,W,31,6,18,34,258,2,39,170,2,9,9,9,77,2,1
+2006-09-30,Missouri,Big 12,H,Colorado,W,28,13,23,37,253,4,40,100,0,16,5,4,26,0,2
+2006-10-07,Missouri,Big 12,A,Texas Tech,W,38,21,15,22,173,1,40,133,2,11,6,7,60,0,1
+2006-10-14,Missouri,Big 12,A,Texas A&M,L,19,25,22,31,306,1,26,74,1,13,5,3,20,3,0
+2006-10-21,Missouri,Big 12,H,Kansas State,W,41,21,24,31,262,4,37,171,0,14,9,7,54,2,0
+2006-10-28,Missouri,Big 12,H,Oklahoma,L,10,26,23,46,284,0,27,76,1,12,6,8,75,1,3
+2006-11-04,Missouri,Big 12,A,Nebraska,L,20,34,20,38,244,2,32,119,0,13,8,2,15,1,2
+2006-11-18,Missouri,Big 12,A,Iowa State,L,16,21,29,44,310,1,24,90,1,16,4,5,41,1,0
+2006-11-25,Missouri,Big 12,H,Kansas,W,42,17,26,38,356,4,37,137,1,14,10,1,15,0,0
+2006-12-29,Missouri,Big 12,N,Oregon State,L,38,39,17,32,359,3,33,202,2,13,7,1,15,2,0
+2006-09-02,Wisconsin,Big Ten,A,Bowling Green State,W,35,14,9,15,124,1,41,197,3,7,12,2,15,0,1
+2006-09-16,Wisconsin,Big Ten,H,San Diego State,W,14,0,12,23,85,1,45,287,1,5,9,4,45,1,0
+2006-09-23,Wisconsin,Big Ten,A,Michigan,L,13,27,22,43,236,1,27,12,0,12,1,6,40,1,0
+2006-09-30,Wisconsin,Big Ten,A,Indiana,W,52,17,18,23,330,3,46,209,4,12,13,10,93,1,1
+2006-10-07,Wisconsin,Big Ten,H,Northwestern,W,41,9,16,21,220,1,48,307,3,10,15,4,26,2,1
+2006-10-14,Wisconsin,Big Ten,H,Minnesota,W,48,12,12,19,193,4,44,208,2,7,12,3,10,2,0
+2006-10-21,Wisconsin,Big Ten,A,Purdue,W,24,3,13,22,201,0,46,241,3,9,10,4,25,0,1
+2006-10-28,Wisconsin,Big Ten,H,Illinois,W,30,24,15,26,217,2,41,99,1,10,6,1,10,1,1
+2006-11-04,Wisconsin,Big Ten,H,Penn State,W,13,3,16,26,174,1,45,167,0,9,10,7,50,2,0
+2006-11-11,Wisconsin,Big Ten,A,Iowa,W,24,21,17,24,228,2,44,143,1,9,7,6,45,2,0
+2006-11-18,Wisconsin,Big Ten,H,Buffalo,W,35,3,16,27,308,2,42,128,3,11,8,2,25,2,1
+2007-01-01,Wisconsin,Big Ten,N,Arkansas,W,17,14,14,34,206,2,28,-5,0,9,1,4,35,1,2
+2006-09-01,Nevada,WAC,A,Fresno State,L,19,28,18,34,183,2,34,168,1,10,11,3,25,1,0
+2006-09-09,Nevada,WAC,A,Arizona State,L,21,52,18,31,170,2,37,135,0,9,10,5,39,1,3
+2006-09-16,Nevada,WAC,H,Colorado State,W,28,10,19,22,210,2,41,171,2,8,12,5,35,0,1
+2006-09-22,Nevada,WAC,H,Northwestern,W,31,21,17,26,197,2,45,156,1,12,11,5,40,0,1
+2006-09-30,Nevada,WAC,A,Nevada-Las Vegas,W,31,3,9,15,131,1,37,180,3,5,8,2,20,0,0
+2006-10-07,Nevada,WAC,A,Hawaii,L,34,41,26,36,364,4,25,108,1,18,4,4,25,2,0
+2006-10-21,Nevada,WAC,H,San Jose State,W,23,7,20,28,178,1,56,225,2,10,13,6,50,1,1
+2006-10-28,Nevada,WAC,H,New Mexico State,W,48,21,20,33,230,3,41,236,3,14,8,4,35,1,3
+2006-11-04,Nevada,WAC,A,Idaho,W,45,7,17,27,195,3,49,222,3,11,15,6,49,0,1
+2006-11-11,Nevada,WAC,H,Utah State,W,42,0,12,20,140,1,44,202,5,4,14,4,34,2,0
+2006-11-18,Nevada,WAC,A,Louisiana Tech,W,42,0,13,23,196,1,42,213,5,7,10,3,20,1,1
+2006-11-25,Nevada,WAC,H,Boise State,L,7,38,6,15,35,0,22,106,0,1,3,7,55,4,0
+2006-12-31,Nevada,WAC,N,Miami (FL),L,20,21,21,32,207,1,38,90,0,10,10,1,10,0,1
+2006-09-09,North Carolina State,ACC,H,Akron,L,17,20,16,32,209,2,32,81,0,10,4,9,82,2,1
+2006-09-16,North Carolina State,ACC,A,Southern Mississippi,L,17,37,18,35,197,2,21,77,0,12,3,10,84,0,3
+2006-09-23,North Carolina State,ACC,H,Boston College,W,17,15,15,32,179,1,23,141,1,7,6,6,49,0,1
+2006-10-05,North Carolina State,ACC,H,Florida State,W,24,20,13,22,190,3,37,150,0,8,7,7,49,0,0
+2006-10-14,North Carolina State,ACC,H,Wake Forest,L,23,25,21,37,200,0,28,134,3,12,7,5,35,0,1
+2006-10-21,North Carolina State,ACC,A,Maryland,L,20,26,15,26,145,0,38,154,2,9,7,9,80,1,2
+2006-10-28,North Carolina State,ACC,A,Virginia,L,7,14,21,35,220,1,29,70,0,11,1,9,53,0,1
+2006-11-04,North Carolina State,ACC,H,Georgia Tech,L,23,31,21,53,270,0,21,58,0,16,1,9,93,0,0
+2006-11-11,North Carolina State,ACC,A,Clemson,L,14,20,10,25,95,0,45,178,1,5,10,2,10,0,2
+2006-11-18,North Carolina State,ACC,A,North Carolina,L,9,23,22,41,261,0,27,80,0,14,6,9,82,1,3
+2006-11-25,North Carolina State,ACC,H,East Carolina,L,16,21,17,28,186,0,29,107,2,10,3,8,59,0,1
+2006-09-02,Hawaii,WAC,A,Alabama,L,17,25,30,44,350,2,15,22,0,17,1,11,82,2,1
+2006-09-16,Hawaii,WAC,H,Nevada-Las Vegas,W,42,13,33,45,369,2,31,214,3,18,12,11,92,2,2
+2006-09-23,Hawaii,WAC,A,Boise State,L,34,41,25,37,388,5,18,88,0,18,5,4,23,2,1
+2006-10-07,Hawaii,WAC,H,Nevada,W,41,34,36,47,419,4,24,160,1,21,7,12,109,2,0
+2006-10-14,Hawaii,WAC,A,Fresno State,W,68,37,37,44,470,6,18,100,3,19,7,4,31,0,0
+2006-10-21,Hawaii,WAC,A,New Mexico State,W,49,30,23,34,353,5,33,155,1,16,9,9,82,1,0
+2006-10-28,Hawaii,WAC,H,Idaho,W,68,10,40,51,497,6,15,78,2,25,2,5,38,1,0
+2006-11-04,Hawaii,WAC,A,Utah State,W,63,10,23,38,486,7,13,86,2,18,3,6,50,0,1
+2006-11-11,Hawaii,WAC,H,Louisiana Tech,W,61,17,30,44,506,5,12,112,3,19,5,7,57,1,1
+2006-11-18,Hawaii,WAC,H,San Jose State,W,54,17,29,40,417,5,26,151,2,20,6,12,140,1,1
+2006-11-25,Hawaii,WAC,H,Purdue,W,42,35,33,48,434,3,20,219,2,23,10,4,37,2,1
+2006-12-02,Hawaii,WAC,H,Oregon State,L,32,35,37,50,401,2,29,103,2,20,8,3,25,0,2
+2006-12-24,Hawaii,WAC,H,Arizona State,W,41,24,33,42,559,5,27,121,0,26,5,10,103,1,1
+2006-09-02,Rutgers,Big East,A,North Carolina,W,21,16,14,20,145,0,41,217,3,9,11,7,41,1,0
+2006-09-09,Rutgers,Big East,H,Illinois,W,33,0,14,25,145,1,40,166,1,7,9,5,30,2,1
+2006-09-16,Rutgers,Big East,H,Ohio,W,24,7,6,16,83,0,38,217,2,3,10,2,30,0,3
+2006-09-29,Rutgers,Big East,A,South Florida,W,22,20,11,20,100,0,45,226,2,7,9,11,91,0,1
+2006-10-14,Rutgers,Big East,A,Navy,W,34,0,15,26,215,3,33,124,1,7,7,2,25,2,1
+2006-10-21,Rutgers,Big East,A,Pitt,W,20,10,10,18,72,1,48,268,1,2,14,2,15,0,0
+2006-10-29,Rutgers,Big East,H,Connecticut,W,24,13,11,24,123,0,29,114,1,7,4,3,25,1,1
+2006-11-09,Rutgers,Big East,H,Louisville,W,28,25,8,21,189,1,30,143,2,6,7,4,35,0,1
+2006-11-18,Rutgers,Big East,A,Cincinnati,L,11,30,21,42,238,0,21,50,1,9,2,6,45,0,4
+2006-11-25,Rutgers,Big East,H,Syracuse,W,38,7,10,15,146,2,44,217,3,6,10,4,45,0,0
+2006-12-02,Rutgers,Big East,A,West Virginia,L,39,41,19,26,278,1,37,174,3,10,8,2,10,0,0
+2006-12-28,Rutgers,Big East,N,Kansas State,W,37,10,16,28,268,2,37,211,1,12,9,5,30,0,0
+2006-08-31,Central Michigan,MAC,H,Boston College,L,24,31,24,42,243,1,27,123,2,11,5,5,49,1,1
+2006-09-09,Central Michigan,MAC,A,Michigan,L,17,41,18,39,188,2,21,16,0,8,3,8,43,2,1
+2006-09-16,Central Michigan,MAC,H,Akron,W,24,21,16,23,162,1,36,129,1,7,7,9,56,1,1
+2006-09-23,Central Michigan,MAC,A,Eastern Michigan,W,24,17,27,42,276,1,33,176,2,12,8,9,73,0,1
+2006-09-30,Central Michigan,MAC,A,Kentucky,L,36,45,26,47,411,4,34,147,0,18,9,6,45,3,1
+2006-10-07,Central Michigan,MAC,A,Toledo,W,42,20,21,29,295,3,30,92,1,13,5,5,44,0,0
+2006-10-14,Central Michigan,MAC,H,Ball State,W,18,7,18,30,171,0,45,173,3,10,10,10,84,1,1
+2006-10-19,Central Michigan,MAC,H,Bowling Green State,W,31,14,15,25,212,2,25,154,1,7,5,4,30,2,0
+2006-11-04,Central Michigan,MAC,A,Temple,W,42,26,19,25,283,4,32,216,2,12,10,7,80,0,1
+2006-11-10,Central Michigan,MAC,H,Western Michigan,W,31,7,17,27,163,1,35,142,3,6,8,2,20,0,1
+2006-11-17,Central Michigan,MAC,A,Northern Illinois,L,10,31,25,42,217,1,22,104,0,10,5,6,49,1,2
+2006-11-24,Central Michigan,MAC,A,Buffalo,W,55,28,16,20,346,4,29,47,3,10,4,6,55,0,0
+2006-11-30,Central Michigan,MAC,N,Ohio,W,31,10,22,30,314,3,21,143,1,12,4,2,20,0,1
+2006-12-26,Central Michigan,MAC,N,Middle Tennessee State,W,31,14,16,26,162,1,32,149,2,8,10,4,55,0,0
+2006-09-02,Michigan,Big Ten,H,Vanderbilt,W,27,7,10,22,135,2,51,246,1,7,13,6,54,1,0
+2006-09-09,Michigan,Big Ten,H,Central Michigan,W,41,17,13,21,134,0,50,252,4,8,14,9,73,0,0
+2006-09-16,Michigan,Big Ten,A,Notre Dame,W,47,21,13,22,220,3,41,120,1,7,8,5,70,0,1
+2006-09-23,Michigan,Big Ten,H,Wisconsin,W,27,13,18,25,211,2,39,111,1,10,5,3,30,0,3
+2006-09-30,Michigan,Big Ten,A,Minnesota,W,28,14,17,24,284,3,45,234,1,11,12,3,30,0,0
+2006-10-07,Michigan,Big Ten,H,Michigan State,W,31,13,11,17,140,3,42,211,1,6,11,3,25,0,0
+2006-10-14,Michigan,Big Ten,A,Penn State,W,17,10,15,30,196,1,33,116,1,10,6,6,50,0,0
+2006-10-21,Michigan,Big Ten,H,Iowa,W,20,6,23,33,203,0,39,88,2,12,6,4,35,0,1
+2006-10-28,Michigan,Big Ten,H,Northwestern,W,17,3,10,20,116,1,46,202,1,5,10,6,47,2,0
+2006-11-04,Michigan,Big Ten,H,Ball State,W,34,26,17,25,155,1,46,352,3,9,15,8,71,0,1
+2006-11-11,Michigan,Big Ten,A,Indiana,W,34,3,12,16,168,2,46,208,2,7,14,2,20,0,1
+2006-11-18,Michigan,Big Ten,A,Ohio State,L,39,42,21,35,267,2,30,130,3,11,3,5,45,0,0
+2007-01-01,Michigan,Big Ten,A,USC,L,18,32,26,41,309,2,27,12,0,15,3,2,20,1,1
+2006-09-09,New Mexico,MWC,A,New Mexico State,W,34,28,12,28,317,4,26,109,0,11,4,4,40,0,0
+2006-09-16,New Mexico,MWC,H,Missouri,L,17,27,16,31,168,1,27,33,0,9,4,1,5,2,1
+2006-09-23,New Mexico,MWC,H,UTEP,W,26,13,11,19,96,2,45,193,1,7,12,3,25,0,1
+2006-09-30,New Mexico,MWC,A,Air Force,L,7,24,16,30,232,1,31,41,0,8,5,4,24,2,1
+2006-10-07,New Mexico,MWC,H,Wyoming,L,10,14,11,32,112,0,35,78,1,6,5,7,69,1,0
+2006-10-14,New Mexico,MWC,A,Nevada-Las Vegas,W,39,36,13,27,168,1,39,112,2,8,5,5,40,0,1
+2006-10-19,New Mexico,MWC,H,Utah,W,34,31,19,33,350,3,34,117,1,13,7,4,34,0,1
+2006-10-28,New Mexico,MWC,A,Colorado State,W,20,19,15,25,195,1,31,79,1,8,5,6,57,1,0
+2006-11-11,New Mexico,MWC,H,Texas Christian,L,21,27,15,25,183,1,40,102,2,9,6,7,60,2,1
+2006-11-18,New Mexico,MWC,A,Brigham Young,L,17,42,22,39,245,1,31,173,0,14,9,2,15,1,2
+2006-11-25,New Mexico,MWC,H,San Diego State,W,41,14,9,20,87,2,32,214,2,5,8,6,38,0,0
+2006-12-23,New Mexico,MWC,H,San Jose State,L,12,20,24,45,249,1,31,128,0,11,8,5,44,4,0
+2006-09-02,Notre Dame,Ind,A,Georgia Tech,W,14,10,23,38,246,0,40,138,2,11,9,11,80,0,0
+2006-09-09,Notre Dame,Ind,H,Penn State,W,41,17,25,36,287,3,36,110,1,15,7,6,64,0,0
+2006-09-16,Notre Dame,Ind,H,Michigan,L,21,47,25,49,241,3,17,4,0,10,1,11,84,2,3
+2006-09-23,Notre Dame,Ind,A,Michigan State,W,40,37,20,36,319,5,17,47,0,10,3,8,58,1,1
+2006-09-30,Notre Dame,Ind,H,Purdue,W,35,21,29,38,316,2,43,138,3,20,10,5,36,0,0
+2006-10-07,Notre Dame,Ind,H,Stanford,W,31,10,27,38,232,3,39,204,1,14,13,4,37,0,0
+2006-10-21,Notre Dame,Ind,H,UCLA,W,20,17,27,45,304,2,35,41,0,13,7,6,50,1,0
+2006-10-28,Notre Dame,Ind,A,Navy,W,38,14,18,25,295,3,37,176,2,14,9,4,35,0,0
+2006-11-04,Notre Dame,Ind,H,North Carolina,W,45,26,23,37,346,4,35,106,1,12,9,5,35,1,0
+2006-11-11,Notre Dame,Ind,A,Air Force,W,39,17,14,19,207,4,27,176,1,8,10,6,60,0,0
+2006-11-18,Notre Dame,Ind,H,Army,W,41,9,22,30,218,3,35,221,3,13,12,9,77,1,1
+2006-11-25,Notre Dame,Ind,A,USC,L,24,44,22,45,274,3,31,130,0,10,6,8,39,1,0
+2007-01-03,Notre Dame,Ind,N,LSU,L,14,41,15,35,148,2,31,143,0,7,7,4,40,0,2
+2006-09-02,East Carolina,CUSA,A,Navy,L,23,28,24,35,283,2,25,76,1,13,6,3,28,1,0
+2006-09-09,East Carolina,CUSA,A,UAB,L,12,17,20,38,280,1,27,96,0,11,4,7,76,2,1
+2006-09-16,East Carolina,CUSA,H,Memphis,W,35,20,18,27,236,1,39,177,2,10,8,5,55,1,2
+2006-09-23,East Carolina,CUSA,H,West Virginia,L,10,27,22,47,276,1,24,41,0,13,4,7,85,1,2
+2006-10-07,East Carolina,CUSA,H,Virginia,W,31,21,17,30,224,0,48,208,4,11,12,2,20,0,0
+2006-10-14,East Carolina,CUSA,H,Tulsa,L,10,31,14,28,115,0,26,126,1,8,6,2,20,3,0
+2006-10-21,East Carolina,CUSA,H,SMU,W,38,21,32,41,402,2,29,36,3,17,5,5,45,0,0
+2006-10-28,East Carolina,CUSA,A,Southern Mississippi,W,20,17,20,33,197,0,41,102,1,12,8,4,20,0,2
+2006-11-04,East Carolina,CUSA,A,UCF,W,23,10,16,30,135,0,46,170,1,7,14,5,47,0,2
+2006-11-11,East Carolina,CUSA,H,Marshall,W,33,20,23,31,310,2,40,74,1,14,6,6,45,2,0
+2006-11-18,East Carolina,CUSA,A,Rice,L,17,18,10,17,83,1,35,218,1,3,14,5,21,0,2
+2006-11-25,East Carolina,CUSA,A,North Carolina State,W,21,16,14,29,220,2,38,124,1,8,9,5,24,0,0
+2006-12-23,East Carolina,CUSA,N,South Florida,L,7,24,18,44,263,1,32,54,0,12,8,3,25,2,0
+2006-09-02,Pitt,Big East,H,Virginia,W,38,13,17,22,283,3,33,107,0,7,6,8,75,0,1
+2006-09-08,Pitt,Big East,A,Cincinnati,W,33,15,11,21,267,3,35,90,0,8,4,5,41,3,0
+2006-09-16,Pitt,Big East,H,Michigan State,L,23,38,28,47,277,2,20,81,1,16,4,3,18,1,2
+2006-09-30,Pitt,Big East,H,Toledo,W,45,3,14,17,189,2,43,185,3,10,7,2,10,1,0
+2006-10-07,Pitt,Big East,A,Syracuse,W,21,11,20,24,177,1,35,236,2,9,7,8,55,1,0
+2006-10-13,Pitt,Big East,A,UCF,W,52,7,13,17,206,3,45,261,3,11,14,2,14,0,0
+2006-10-21,Pitt,Big East,H,Rutgers,L,10,20,16,26,169,1,26,67,0,6,6,8,53,1,0
+2006-11-04,Pitt,Big East,A,South Florida,L,12,22,11,23,159,1,23,55,0,6,2,11,96,0,3
+2006-11-11,Pitt,Big East,A,Connecticut,L,45,46,20,25,234,3,41,180,3,13,7,6,40,0,0
+2006-11-16,Pitt,Big East,H,West Virginia,L,27,45,28,37,341,2,19,-1,0,13,2,4,40,0,0
+2006-11-25,Pitt,Big East,H,Louisville,L,24,48,32,51,328,2,24,70,1,16,5,4,30,1,3
+2006-09-02,Akron,MAC,A,Penn State,L,16,34,23,43,192,1,34,33,1,11,5,8,57,1,2
+2006-09-09,Akron,MAC,A,North Carolina State,W,20,17,13,32,267,0,42,114,3,8,8,11,91,0,0
+2006-09-16,Akron,MAC,A,Central Michigan,L,21,24,25,46,375,3,31,61,0,18,5,5,34,0,3
+2006-09-23,Akron,MAC,H,North Texas,W,33,13,14,20,173,3,31,105,2,7,10,6,61,0,0
+2006-09-30,Akron,MAC,A,Kent State,L,15,37,19,38,261,2,23,73,0,8,7,10,90,2,0
+2006-10-07,Akron,MAC,A,Cincinnati,L,14,20,16,33,183,1,19,36,1,6,3,11,59,0,0
+2006-10-21,Akron,MAC,H,Miami (OH),W,24,13,14,24,197,1,34,127,2,8,7,10,93,2,0
+2006-10-28,Akron,MAC,A,Toledo,L,20,35,13,29,191,0,34,107,1,8,5,12,102,0,2
+2006-11-04,Akron,MAC,H,Bowling Green State,W,35,28,17,25,248,2,39,222,3,11,14,9,89,1,1
+2006-11-09,Akron,MAC,H,Buffalo,W,31,16,14,21,274,4,37,144,0,8,6,9,71,1,0
+2006-11-16,Akron,MAC,A,Ohio,L,7,17,21,46,227,1,21,-4,0,10,2,9,64,1,2
+2006-11-24,Akron,MAC,H,Western Michigan,L,0,17,13,27,132,0,20,-13,0,5,1,11,77,1,1
+2006-09-02,Wyoming,MWC,H,Utah State,W,38,7,18,27,239,3,51,221,1,10,16,7,55,2,1
+2006-09-09,Wyoming,MWC,A,Virginia,L,12,13,23,32,145,1,38,168,0,8,7,9,66,1,1
+2006-09-16,Wyoming,MWC,H,Boise State,L,10,17,14,30,178,0,29,73,1,9,4,8,45,0,2
+2006-09-23,Wyoming,MWC,H,Air Force,L,24,31,13,21,169,2,21,77,0,7,6,5,39,2,0
+2006-09-30,Wyoming,MWC,A,Syracuse,L,34,40,33,50,326,3,40,186,1,16,10,10,97,2,2
+2006-10-07,Wyoming,MWC,A,New Mexico,W,14,10,19,32,204,2,37,114,0,10,7,4,27,1,2
+2006-10-14,Wyoming,MWC,H,Utah,W,31,15,17,24,202,1,44,100,2,12,5,4,33,2,0
+2006-10-21,Wyoming,MWC,H,Colorado State,W,24,0,10,22,152,2,39,166,1,6,9,7,59,0,0
+2006-10-28,Wyoming,MWC,A,Texas Christian,L,3,26,15,28,137,0,26,28,0,7,4,4,30,1,1
+2006-11-04,Wyoming,MWC,H,San Diego State,W,27,24,15,25,97,1,54,222,2,4,18,3,30,1,0
+2006-11-09,Wyoming,MWC,A,Brigham Young,L,7,55,14,28,102,0,23,144,1,5,5,2,15,0,2
+2006-11-18,Wyoming,MWC,A,Nevada-Las Vegas,W,34,26,19,27,197,2,39,89,3,11,6,5,54,0,2
+2006-09-02,Georgia Tech,ACC,H,Notre Dame,L,10,14,12,24,140,1,28,119,0,5,9,5,28,0,0
+2006-09-16,Georgia Tech,ACC,H,Troy,W,35,20,15,32,180,2,41,320,3,9,14,9,67,0,2
+2006-09-21,Georgia Tech,ACC,H,Virginia,W,24,7,12,21,230,2,38,105,1,8,6,7,65,1,0
+2006-09-30,Georgia Tech,ACC,A,Virginia Tech,W,38,27,9,17,176,2,36,149,2,4,7,8,83,0,2
+2006-10-07,Georgia Tech,ACC,H,Maryland,W,27,23,13,26,161,1,43,229,3,10,8,6,47,1,0
+2006-10-21,Georgia Tech,ACC,A,Clemson,L,7,31,12,25,117,1,37,88,0,6,5,7,65,0,1
+2006-10-28,Georgia Tech,ACC,H,Miami (FL),W,30,23,12,28,195,2,33,87,1,8,6,5,49,1,0
+2006-11-04,Georgia Tech,ACC,A,North Carolina State,W,31,23,13,35,215,4,43,194,0,10,10,5,35,0,2
+2006-11-11,Georgia Tech,ACC,A,North Carolina,W,7,0,10,24,78,0,44,143,1,6,6,6,57,1,1
+2006-11-18,Georgia Tech,ACC,H,Duke,W,49,21,13,25,248,5,42,214,2,9,9,8,69,0,2
+2006-11-25,Georgia Tech,ACC,A,Georgia,L,12,15,6,22,42,0,35,146,1,1,10,3,15,1,2
+2006-12-02,Georgia Tech,ACC,N,Wake Forest,L,6,9,9,29,129,0,38,143,0,7,7,6,45,0,2
+2007-01-01,Georgia Tech,ACC,N,West Virginia,L,35,38,19,29,326,3,32,160,2,12,8,5,37,1,1
+2006-09-02,Wake Forest,ACC,H,Syracuse,W,20,10,15,23,118,1,49,245,1,6,15,2,25,1,1
+2006-09-09,Wake Forest,ACC,H,Duke,W,14,13,22,29,235,1,24,57,1,10,2,9,90,2,0
+2006-09-16,Wake Forest,ACC,A,Connecticut,W,24,13,7,16,110,0,38,99,2,5,6,6,50,1,0
+2006-09-23,Wake Forest,ACC,A,Ole Miss,W,27,3,4,5,43,0,53,240,3,3,15,5,34,1,0
+2006-10-07,Wake Forest,ACC,H,Clemson,L,17,27,19,24,188,2,31,31,0,8,5,4,45,3,1
+2006-10-14,Wake Forest,ACC,A,North Carolina State,W,25,23,9,14,124,1,37,142,1,5,7,7,60,0,0
+2006-10-28,Wake Forest,ACC,A,North Carolina,W,24,17,7,8,89,1,40,200,1,5,10,5,35,0,0
+2006-11-04,Wake Forest,ACC,H,Boston College,W,21,14,15,24,120,1,27,160,2,5,8,3,20,0,2
+2006-11-11,Wake Forest,ACC,A,Florida State,W,30,0,13,20,138,1,46,169,1,8,9,4,40,0,0
+2006-11-18,Wake Forest,ACC,H,Virginia Tech,L,6,27,17,30,195,0,32,62,0,5,6,3,27,1,0
+2006-11-25,Wake Forest,ACC,A,Maryland,W,38,24,10,13,125,1,57,296,4,5,17,4,34,0,1
+2006-12-02,Wake Forest,ACC,N,Georgia Tech,W,9,6,14,25,201,0,43,91,0,6,6,7,85,0,0
+2007-01-02,Wake Forest,ACC,N,Louisville,L,13,24,21,33,271,1,29,111,0,13,5,3,30,2,1
+2006-09-02,Arkansas State,Sun Belt,H,Army,W,14,6,11,16,97,0,45,222,2,3,14,6,50,3,0
+2006-09-09,Arkansas State,Sun Belt,H,Oklahoma State,L,7,35,7,19,78,0,39,110,0,5,6,9,58,2,1
+2006-09-23,Arkansas State,Sun Belt,A,SMU,L,9,55,13,28,193,1,41,69,0,8,6,5,33,4,1
+2006-09-30,Arkansas State,Sun Belt,A,Florida International,W,31,6,10,22,108,0,47,222,4,5,12,8,90,0,1
+2006-10-07,Arkansas State,Sun Belt,H,Louisiana-Monroe,W,10,6,19,36,200,0,38,172,1,11,8,5,44,2,3
+2006-10-14,Arkansas State,Sun Belt,A,Memphis,W,26,23,12,23,219,2,51,216,1,8,15,5,51,1,2
+2006-10-21,Arkansas State,Sun Belt,H,North Texas,W,29,10,11,19,187,1,51,279,3,8,15,3,15,0,0
+2006-10-28,Arkansas State,Sun Belt,A,Florida Atlantic,L,0,29,9,24,98,0,26,6,0,3,3,7,42,1,5
+2006-11-04,Arkansas State,Sun Belt,A,Auburn,L,0,27,12,22,89,0,35,88,0,7,5,4,36,1,1
+2006-11-11,Arkansas State,Sun Belt,H,Middle Tennessee State,L,10,38,14,35,146,1,45,162,0,9,11,5,40,0,1
+2006-11-18,Arkansas State,Sun Belt,A,Troy,W,33,26,13,26,188,2,51,233,1,8,15,8,100,0,0
+2006-11-25,Arkansas State,Sun Belt,A,Louisiana,L,13,28,13,30,132,1,38,233,0,7,11,4,50,1,0
+2006-08-31,Mississippi State,SEC,H,South Carolina,L,0,15,8,23,82,0,33,79,0,5,6,1,10,0,2
+2006-09-09,Mississippi State,SEC,H,Auburn,L,0,34,12,25,82,0,33,79,0,4,7,4,48,2,1
+2006-09-16,Mississippi State,SEC,H,Tulane,L,29,32,18,35,252,0,32,98,3,12,4,5,44,1,1
+2006-09-23,Mississippi State,SEC,A,UAB,W,16,10,14,23,115,0,44,166,2,6,11,8,75,2,0
+2006-09-30,Mississippi State,SEC,A,LSU,L,17,48,15,29,212,1,21,14,0,8,2,9,79,0,1
+2006-10-07,Mississippi State,SEC,H,West Virginia,L,14,42,17,35,250,1,37,56,1,12,6,4,45,0,2
+2006-10-21,Mississippi State,SEC,A,Georgia,L,24,27,14,31,234,0,33,64,3,10,5,7,56,1,2
+2006-10-28,Mississippi State,SEC,H,Kentucky,L,31,34,22,41,384,3,24,24,1,13,2,4,45,1,2
+2006-11-04,Mississippi State,SEC,A,Alabama,W,24,16,9,23,143,2,38,131,0,7,6,5,58,1,1
+2006-11-18,Mississippi State,SEC,H,Arkansas,L,14,28,15,36,201,1,30,154,1,10,5,7,63,0,2
+2006-11-25,Mississippi State,SEC,A,Ole Miss,L,17,20,16,34,162,1,35,152,1,7,10,4,25,0,1
+2006-09-09,Nevada-Las Vegas,MWC,A,Iowa State,L,10,16,24,35,218,1,31,74,0,12,4,3,15,0,1
+2006-09-16,Nevada-Las Vegas,MWC,A,Hawaii,L,13,42,18,47,232,1,28,39,1,11,5,1,15,0,1
+2006-09-30,Nevada-Las Vegas,MWC,H,Nevada,L,3,31,18,32,153,0,31,74,0,7,5,8,73,2,2
+2006-10-07,Nevada-Las Vegas,MWC,A,Colorado State,L,7,28,19,38,198,0,22,52,1,10,2,4,30,0,1
+2006-10-14,Nevada-Las Vegas,MWC,H,New Mexico,L,36,39,18,33,295,5,29,84,0,12,5,6,63,2,2
+2006-10-21,Nevada-Las Vegas,MWC,A,Brigham Young,L,7,52,19,38,216,1,26,92,0,9,5,7,51,2,4
+2006-10-28,Nevada-Las Vegas,MWC,A,Utah,L,23,45,25,35,232,2,29,65,0,10,6,7,58,1,2
+2006-11-04,Nevada-Las Vegas,MWC,H,Texas Christian,L,10,25,10,27,128,0,24,118,1,5,4,5,55,0,1
+2006-11-11,Nevada-Las Vegas,MWC,A,San Diego State,L,7,21,20,39,211,1,26,39,0,11,4,7,82,0,2
+2006-11-18,Nevada-Las Vegas,MWC,H,Wyoming,L,26,34,19,37,162,2,23,59,0,7,4,10,75,2,1
+2006-11-24,Nevada-Las Vegas,MWC,H,Air Force,W,42,39,26,34,351,2,43,204,4,16,11,9,120,3,0
+2006-09-09,South Florida,Big East,H,Florida International,W,21,20,15,28,174,1,34,123,1,9,7,8,92,1,2
+2006-09-16,South Florida,Big East,A,UCF,W,24,17,22,32,333,3,38,100,0,14,5,5,48,0,1
+2006-09-23,South Florida,Big East,A,Kansas,L,7,13,17,34,196,0,29,113,1,13,4,8,82,1,2
+2006-09-29,South Florida,Big East,H,Rutgers,L,20,22,17,26,255,1,25,92,2,10,6,7,56,1,2
+2006-10-07,South Florida,Big East,H,Connecticut,W,38,16,13,16,153,1,41,205,4,4,13,15,113,0,0
+2006-10-14,South Florida,Big East,A,North Carolina,W,37,20,15,22,183,1,47,234,4,8,13,4,36,2,0
+2006-10-22,South Florida,Big East,A,Cincinnati,L,6,23,19,36,127,1,29,92,0,6,6,6,35,2,1
+2006-11-04,South Florida,Big East,H,Pitt,W,22,12,20,26,187,1,48,190,2,6,10,10,105,2,2
+2006-11-11,South Florida,Big East,H,Syracuse,W,27,10,25,35,364,2,40,150,1,13,10,11,100,2,1
+2006-11-18,South Florida,Big East,A,Louisville,L,8,31,15,32,237,1,30,49,0,9,3,6,47,0,1
+2006-11-25,South Florida,Big East,A,West Virginia,W,24,19,22,30,279,1,39,84,1,16,5,8,60,0,2
+2006-12-23,South Florida,Big East,N,East Carolina,W,24,7,12,18,130,1,43,156,2,5,7,6,60,1,0
+2006-08-31,Buffalo,MAC,H,Temple,W,9,3,13,24,188,0,41,168,1,7,12,6,40,1,0
+2006-09-09,Buffalo,MAC,A,Bowling Green State,L,40,48,21,32,138,0,47,105,3,6,11,7,78,1,0
+2006-09-16,Buffalo,MAC,A,Northern Illinois,L,13,31,25,41,250,1,32,99,1,14,7,3,14,0,0
+2006-09-23,Buffalo,MAC,A,Auburn,L,7,38,12,24,111,1,39,87,0,6,8,3,15,0,0
+2006-10-07,Buffalo,MAC,H,Ball State,L,25,55,30,44,364,2,30,42,0,15,5,7,49,1,2
+2006-10-15,Buffalo,MAC,H,Miami (OH),L,31,38,13,24,174,2,29,104,1,8,6,13,117,0,4
+2006-10-21,Buffalo,MAC,A,Ohio,L,7,42,15,27,132,0,23,39,1,6,3,13,102,0,0
+2006-10-28,Buffalo,MAC,A,Boston College,L,0,41,15,30,104,0,14,-12,0,6,0,2,30,2,3
+2006-11-04,Buffalo,MAC,H,Kent State,W,41,14,14,20,193,1,34,176,4,8,6,6,41,1,1
+2006-11-09,Buffalo,MAC,A,Akron,L,16,31,15,24,150,0,36,98,2,6,5,6,39,1,1
+2006-11-18,Buffalo,MAC,A,Wisconsin,L,3,35,6,23,107,0,28,52,0,3,2,2,15,3,1
+2006-11-24,Buffalo,MAC,H,Central Michigan,L,28,55,21,41,225,2,27,124,2,11,7,2,15,1,1
+2006-09-09,Kansas State,Big 12,H,Florida Atlantic,W,45,0,10,24,125,2,30,221,3,6,8,5,54,0,1
+2006-09-16,Kansas State,Big 12,H,Marshall,W,23,7,19,35,256,1,27,99,1,10,6,14,116,1,1
+2006-09-23,Kansas State,Big 12,H,Louisville,L,6,24,17,45,139,0,19,108,1,9,3,7,57,0,2
+2006-09-30,Kansas State,Big 12,A,Baylor,L,3,17,22,55,296,0,21,45,0,8,4,11,84,2,3
+2006-10-07,Kansas State,Big 12,H,Oklahoma State,W,31,27,10,15,177,0,36,180,2,7,7,5,33,0,0
+2006-10-14,Kansas State,Big 12,H,Nebraska,L,3,21,23,47,272,0,18,22,0,14,3,5,50,0,2
+2006-10-21,Kansas State,Big 12,A,Missouri,L,21,41,5,20,63,0,47,262,2,3,13,5,45,2,2
+2006-10-28,Kansas State,Big 12,H,Iowa State,W,31,10,14,20,161,1,32,156,2,8,7,4,38,0,1
+2006-11-04,Kansas State,Big 12,A,Colorado,W,34,21,22,26,251,2,38,188,2,9,9,5,35,0,0
+2006-11-11,Kansas State,Big 12,H,Texas,W,45,42,22,34,323,4,25,23,2,12,4,8,52,1,1
+2006-11-18,Kansas State,Big 12,A,Kansas,L,20,39,23,44,244,0,30,118,1,11,8,6,75,3,3
+2006-12-28,Kansas State,Big 12,N,Rutgers,L,10,37,12,24,131,0,21,31,0,4,2,9,59,1,2
+2006-09-09,Louisiana-Monroe,Sun Belt,A,Kansas,L,19,21,24,41,377,2,23,51,1,12,5,5,25,0,0
+2006-09-16,Louisiana-Monroe,Sun Belt,A,Alabama,L,7,41,10,21,73,0,30,123,1,2,8,9,56,1,1
+2006-09-30,Louisiana-Monroe,Sun Belt,H,Florida Atlantic,L,19,21,23,38,285,1,28,122,1,15,4,6,57,0,2
+2006-10-07,Louisiana-Monroe,Sun Belt,A,Arkansas State,L,6,10,15,25,93,0,35,130,1,4,9,5,41,0,2
+2006-10-14,Louisiana-Monroe,Sun Belt,A,Troy,L,19,24,19,40,249,0,32,141,2,8,9,6,46,2,2
+2006-10-21,Louisiana-Monroe,Sun Belt,H,Middle Tennessee State,L,21,35,15,28,184,1,29,102,2,9,5,7,65,0,0
+2006-10-28,Louisiana-Monroe,Sun Belt,A,Arkansas,L,10,44,14,26,147,1,38,114,0,7,10,6,36,1,5
+2006-11-11,Louisiana-Monroe,Sun Belt,A,Florida International,W,35,0,15,18,184,2,47,162,2,7,9,5,38,2,0
+2006-11-18,Louisiana-Monroe,Sun Belt,A,Kentucky,L,40,42,10,19,150,0,57,351,4,8,19,11,102,0,1
+2006-11-25,Louisiana-Monroe,Sun Belt,H,North Texas,W,23,3,12,19,193,0,47,216,2,6,14,8,56,0,0
+2006-12-02,Louisiana-Monroe,Sun Belt,A,Louisiana,W,39,20,11,18,244,2,33,173,2,6,7,8,51,1,0
+2006-09-02,UCLA,Pac-10,H,Utah,W,31,10,25,34,318,3,41,107,0,20,3,5,50,0,0
+2006-09-09,UCLA,Pac-10,H,Rice,W,26,16,13,20,124,2,52,277,0,7,16,8,70,3,1
+2006-09-23,UCLA,Pac-10,A,Washington,L,19,29,18,31,135,0,34,143,1,9,4,6,33,0,2
+2006-09-30,UCLA,Pac-10,H,Stanford,W,31,0,21,38,223,0,34,166,2,12,6,5,55,1,2
+2006-10-07,UCLA,Pac-10,H,Arizona,W,27,7,23,33,227,2,22,65,0,12,3,9,79,0,0
+2006-10-14,UCLA,Pac-10,A,Oregon,L,20,30,16,31,112,0,30,104,2,7,6,8,91,0,1
+2006-10-21,UCLA,Pac-10,A,Notre Dame,L,17,20,16,32,217,2,28,26,0,9,2,8,55,1,1
+2006-10-28,UCLA,Pac-10,H,Washington State,L,15,37,17,37,252,1,24,74,0,12,3,6,70,1,2
+2006-11-04,UCLA,Pac-10,A,California,L,24,38,22,40,329,0,34,187,3,15,5,6,55,0,2
+2006-11-11,UCLA,Pac-10,H,Oregon State,W,25,7,12,23,126,2,36,136,0,4,8,13,155,1,1
+2006-11-18,UCLA,Pac-10,A,Arizona State,W,24,12,14,24,187,2,30,87,1,9,4,2,13,0,0
+2006-12-02,UCLA,Pac-10,H,USC,W,13,9,12,21,114,0,36,121,1,7,6,3,21,1,0
+2006-12-27,UCLA,Pac-10,N,Florida State,L,27,44,15,36,240,2,35,194,1,8,9,4,34,1,2
+2006-08-31,Northwestern,Big Ten,A,Miami (OH),W,21,3,13,17,106,1,39,193,1,6,10,5,42,0,0
+2006-09-16,Northwestern,Big Ten,H,Eastern Michigan,W,14,6,16,26,110,0,44,156,2,3,11,3,25,1,1
+2006-09-22,Northwestern,Big Ten,A,Nevada,L,21,31,9,21,122,0,37,246,3,5,11,6,38,2,3
+2006-09-30,Northwestern,Big Ten,A,Penn State,L,7,33,14,30,157,0,28,81,1,7,3,3,20,0,1
+2006-10-07,Northwestern,Big Ten,A,Wisconsin,L,9,41,10,24,94,0,28,122,1,5,6,3,14,0,1
+2006-10-14,Northwestern,Big Ten,H,Purdue,L,10,31,9,15,83,0,42,168,1,4,8,4,30,0,1
+2006-10-21,Northwestern,Big Ten,H,Michigan State,L,38,41,16,30,263,4,35,177,1,10,6,3,35,0,2
+2006-10-28,Northwestern,Big Ten,A,Michigan,L,3,17,20,42,204,0,17,-13,0,8,0,5,55,2,3
+2006-11-04,Northwestern,Big Ten,A,Iowa,W,21,7,19,29,218,1,41,225,2,10,11,3,35,0,2
+2006-11-11,Northwestern,Big Ten,H,Ohio State,L,10,54,21,36,229,1,24,68,0,13,4,2,17,3,2
+2006-11-18,Northwestern,Big Ten,H,Illinois,W,27,16,22,30,269,1,52,95,2,13,9,2,25,2,0
+2006-09-09,Kansas,Big 12,H,Louisiana-Monroe,W,21,19,17,28,190,2,40,161,1,5,11,4,40,0,2
+2006-09-15,Kansas,Big 12,A,Toledo,L,31,37,23,41,243,2,40,148,2,11,8,8,82,1,4
+2006-09-23,Kansas,Big 12,H,South Florida,W,13,7,25,35,273,0,35,118,1,13,5,10,70,2,0
+2006-09-30,Kansas,Big 12,A,Nebraska,L,32,39,27,54,405,2,40,169,2,17,8,5,25,1,3
+2006-10-07,Kansas,Big 12,H,Texas A&M,L,18,21,14,32,175,1,27,113,0,6,4,5,45,1,0
+2006-10-14,Kansas,Big 12,H,Oklahoma State,L,32,42,15,27,187,3,35,178,1,8,10,1,5,1,1
+2006-10-21,Kansas,Big 12,A,Baylor,L,35,36,11,24,98,1,46,284,3,4,17,7,55,0,1
+2006-10-28,Kansas,Big 12,H,Colorado,W,20,15,18,29,180,2,33,161,1,8,4,7,65,1,3
+2006-11-04,Kansas,Big 12,A,Iowa State,W,41,10,20,27,234,3,46,169,3,8,10,5,50,3,1
+2006-11-18,Kansas,Big 12,H,Kansas State,W,39,20,11,23,108,0,36,247,2,6,12,6,38,2,2
+2006-11-25,Kansas,Big 12,A,Missouri,L,17,42,12,23,162,1,29,160,1,6,8,7,70,1,1
+2006-09-02,Western Michigan,MAC,A,Indiana,L,20,39,25,34,217,1,32,72,1,10,7,8,91,1,2
+2006-09-09,Western Michigan,MAC,H,Toledo,W,31,10,11,15,98,2,32,163,1,6,5,6,40,0,0
+2006-09-16,Western Michigan,MAC,A,Virginia,W,17,10,7,11,40,0,40,139,1,3,6,3,20,0,0
+2006-09-23,Western Michigan,MAC,H,Temple,W,41,7,15,26,143,2,34,151,2,7,7,7,58,1,0
+2006-10-07,Western Michigan,MAC,A,Ohio,L,20,27,24,40,243,2,35,103,0,9,8,4,44,1,2
+2006-10-14,Western Michigan,MAC,H,Northern Illinois,W,16,14,29,44,251,1,40,129,0,15,6,7,59,0,1
+2006-10-21,Western Michigan,MAC,A,Ball State,W,41,27,20,24,291,3,38,166,1,11,9,12,85,2,0
+2006-10-28,Western Michigan,MAC,H,Eastern Michigan,W,18,15,18,32,150,1,35,178,1,7,10,6,67,2,0
+2006-11-04,Western Michigan,MAC,H,Miami (OH),W,27,24,23,35,205,2,46,224,1,13,14,8,60,0,2
+2006-11-10,Western Michigan,MAC,A,Central Michigan,L,7,31,12,23,59,1,38,175,0,3,10,4,41,2,1
+2006-11-18,Western Michigan,MAC,A,Florida State,L,20,28,27,50,229,2,30,33,0,12,5,7,62,0,2
+2006-11-24,Western Michigan,MAC,A,Akron,W,17,0,17,29,217,1,42,110,1,11,5,9,78,0,1
+2007-01-06,Western Michigan,MAC,N,Cincinnati,L,24,27,24,45,260,2,29,108,1,13,5,3,19,0,2
+2006-09-09,Iowa,Big Ten,A,Syracuse,W,20,13,16,32,202,1,37,149,1,10,9,7,40,0,4
+2006-09-16,Iowa,Big Ten,H,Iowa State,W,27,17,26,38,274,3,30,136,0,13,7,5,57,0,1
+2006-09-23,Iowa,Big Ten,A,Illinois,W,24,7,17,27,190,1,42,154,2,9,11,8,62,0,1
+2006-09-30,Iowa,Big Ten,H,Ohio State,L,17,38,19,41,249,1,20,87,1,12,5,0,0,1,3
+2006-10-07,Iowa,Big Ten,H,Purdue,W,47,17,17,23,253,2,40,286,3,11,13,3,25,3,0
+2006-10-14,Iowa,Big Ten,A,Indiana,L,28,31,23,40,292,1,37,175,3,17,7,7,80,1,1
+2006-10-21,Iowa,Big Ten,A,Michigan,L,6,20,21,36,197,0,24,41,0,12,2,3,18,1,0
+2006-10-28,Iowa,Big Ten,H,Northern Illinois,W,24,14,19,30,256,2,43,149,1,11,9,6,64,2,1
+2006-11-04,Iowa,Big Ten,H,Northwestern,L,7,21,18,27,147,0,32,117,1,6,10,2,25,1,2
+2006-11-11,Iowa,Big Ten,H,Wisconsin,L,21,24,10,31,170,3,19,134,0,6,5,5,45,0,1
+2006-11-18,Iowa,Big Ten,A,Minnesota,L,24,34,27,38,364,2,36,182,1,16,10,3,33,1,4
+2006-12-30,Iowa,Big Ten,N,Texas,L,24,26,15,25,274,2,34,89,1,11,5,8,53,1,1
+2006-09-02,Texas,Big 12,H,North Texas,W,56,7,15,26,198,3,44,212,4,7,15,4,28,1,1
+2006-09-09,Texas,Big 12,H,Ohio State,L,7,24,19,32,154,1,31,172,0,6,12,4,39,1,1
+2006-09-16,Texas,Big 12,A,Rice,W,52,7,10,11,163,2,43,330,3,7,13,19,148,2,0
+2006-09-23,Texas,Big 12,H,Iowa State,W,37,14,19,24,246,2,40,193,3,11,11,4,57,1,1
+2006-10-07,Texas,Big 12,N,Oklahoma,W,28,10,11,18,108,2,32,124,1,4,9,3,30,0,0
+2006-10-14,Texas,Big 12,H,Baylor,W,63,31,21,32,275,6,37,162,1,9,11,9,98,0,1
+2006-10-21,Texas,Big 12,A,Nebraska,W,22,20,25,40,220,2,34,128,0,12,7,5,42,1,0
+2006-10-28,Texas,Big 12,A,Texas Tech,W,35,31,21,31,256,4,44,227,1,12,13,5,40,3,1
+2006-11-04,Texas,Big 12,H,Oklahoma State,W,36,10,23,29,346,3,45,164,1,12,10,4,33,2,0
+2006-11-11,Texas,Big 12,A,Kansas State,L,42,45,17,35,241,1,45,143,5,11,10,4,40,2,0
+2006-11-24,Texas,Big 12,H,Texas A&M,L,7,12,17,29,160,0,25,70,1,10,4,3,26,0,4
+2006-12-30,Texas,Big 12,N,Iowa,W,26,24,26,40,308,2,21,70,1,11,4,6,60,1,0
+2006-09-03,Texas Christian,MWC,A,Baylor,W,17,7,18,27,233,2,35,98,0,8,6,8,69,0,1
+2006-09-16,Texas Christian,MWC,H,Texas Tech,W,12,3,13,23,101,0,44,180,0,5,8,12,105,0,0
+2006-09-28,Texas Christian,MWC,H,Brigham Young,L,17,31,26,50,296,1,32,141,1,16,11,8,43,1,1
+2006-10-05,Texas Christian,MWC,A,Utah,L,7,20,14,29,228,0,31,81,1,11,3,5,43,2,1
+2006-10-21,Texas Christian,MWC,A,Army,W,31,17,13,23,169,1,44,190,2,6,12,7,67,3,1
+2006-10-28,Texas Christian,MWC,H,Wyoming,W,26,3,11,18,244,0,41,188,3,7,11,3,25,1,2
+2006-11-04,Texas Christian,MWC,A,Nevada-Las Vegas,W,25,10,15,28,195,1,55,250,1,10,17,8,69,2,0
+2006-11-11,Texas Christian,MWC,A,New Mexico,W,27,21,6,16,25,0,35,167,2,0,11,5,32,1,0
+2006-11-18,Texas Christian,MWC,H,San Diego State,W,52,0,22,26,349,5,49,275,2,13,16,5,35,1,0
+2006-11-25,Texas Christian,MWC,A,Colorado State,W,45,14,18,28,256,1,50,350,5,13,17,7,84,1,0
+2006-12-02,Texas Christian,MWC,H,Air Force,W,38,14,23,32,236,1,42,141,3,11,10,8,54,1,0
+2006-12-19,Texas Christian,MWC,N,Northern Illinois,W,37,7,19,29,258,1,46,198,4,13,10,7,80,0,0
+2006-09-04,Miami (FL),ACC,H,Florida State,L,10,13,18,27,132,0,26,2,1,6,1,9,75,0,1
+2006-09-16,Miami (FL),ACC,A,Louisville,L,7,31,20,34,278,0,29,64,1,12,6,4,27,2,0
+2006-09-30,Miami (FL),ACC,H,Houston,W,14,13,16,27,190,1,42,230,1,6,14,10,90,0,2
+2006-10-07,Miami (FL),ACC,H,North Carolina,W,27,7,15,26,180,1,31,144,2,7,5,6,72,0,0
+2006-10-14,Miami (FL),ACC,H,Florida International,W,35,0,17,26,189,4,29,90,1,9,5,5,64,1,0
+2006-10-21,Miami (FL),ACC,A,Duke,W,20,15,24,41,299,2,26,30,0,12,4,15,120,0,1
+2006-10-28,Miami (FL),ACC,A,Georgia Tech,L,23,30,20,31,246,1,34,71,0,9,5,8,72,3,1
+2006-11-04,Miami (FL),ACC,H,Virginia Tech,L,10,17,14,30,84,0,27,153,1,4,6,8,62,0,3
+2006-11-11,Miami (FL),ACC,A,Maryland,L,13,14,14,27,140,1,46,180,0,8,10,2,10,1,1
+2006-11-18,Miami (FL),ACC,A,Virginia,L,7,17,11,18,152,1,29,111,0,4,7,3,35,1,1
+2006-11-23,Miami (FL),ACC,H,Boston College,W,17,14,13,26,181,1,34,66,1,6,4,5,37,1,3
+2006-12-31,Miami (FL),ACC,N,Nevada,W,21,20,11,19,272,2,31,28,1,9,4,6,76,0,1
+2006-09-07,Oregon State,Pac-10,A,Boise State,L,14,42,20,29,205,1,32,58,0,9,5,7,73,2,1
+2006-09-23,Oregon State,Pac-10,H,Idaho,W,38,0,20,35,206,1,38,174,3,10,11,6,69,1,1
+2006-09-30,Oregon State,Pac-10,H,California,L,13,41,23,34,244,0,24,56,1,10,5,7,48,1,0
+2006-10-07,Oregon State,Pac-10,H,Washington State,L,6,13,18,34,223,0,28,64,0,9,4,8,80,3,1
+2006-10-14,Oregon State,Pac-10,A,Washington,W,27,17,14,21,308,1,39,180,2,8,10,6,70,1,2
+2006-10-21,Oregon State,Pac-10,A,Arizona,W,17,10,16,22,181,1,38,151,1,7,11,3,25,1,2
+2006-10-28,Oregon State,Pac-10,H,USC,W,33,31,21,32,262,1,35,89,1,12,3,11,82,0,0
+2006-11-04,Oregon State,Pac-10,H,Arizona State,W,44,10,17,36,282,1,36,121,4,10,6,4,50,0,0
+2006-11-11,Oregon State,Pac-10,A,UCLA,L,7,25,17,29,175,0,34,85,1,11,4,8,70,4,0
+2006-11-18,Oregon State,Pac-10,A,Stanford,W,30,7,16,25,177,2,47,208,1,11,12,7,65,0,0
+2006-11-24,Oregon State,Pac-10,H,Oregon,W,30,28,16,27,255,1,30,88,1,9,6,6,56,1,0
+2006-12-02,Oregon State,Pac-10,A,Hawaii,W,35,32,11,17,245,3,26,71,1,10,7,4,38,0,0
+2006-12-29,Oregon State,Pac-10,N,Missouri,W,39,38,31,54,356,4,29,101,1,24,6,2,15,1,1
+2006-09-02,Alabama,SEC,H,Hawaii,W,25,17,16,29,253,1,36,125,1,12,7,5,34,0,0
+2006-09-09,Alabama,SEC,H,Vanderbilt,W,13,10,18,29,207,1,40,134,0,10,11,3,28,2,1
+2006-09-16,Alabama,SEC,H,Louisiana-Monroe,W,41,7,15,23,225,2,43,219,3,10,11,3,15,1,0
+2006-09-23,Alabama,SEC,A,Arkansas,L,23,24,16,20,243,3,52,118,0,7,11,11,65,1,0
+2006-09-30,Alabama,SEC,A,Florida,L,13,28,21,40,240,0,30,83,0,9,10,5,26,0,3
+2006-10-07,Alabama,SEC,H,Duke,W,30,14,18,30,220,2,34,134,1,10,7,10,68,0,1
+2006-10-14,Alabama,SEC,H,Ole Miss,W,26,23,16,28,206,2,42,228,1,9,11,8,69,0,0
+2006-10-21,Alabama,SEC,A,Tennessee,L,13,16,13,29,158,0,30,53,1,8,3,4,37,0,0
+2006-10-28,Alabama,SEC,H,Florida International,W,38,3,14,24,117,2,30,107,1,6,4,5,40,0,0
+2006-11-04,Alabama,SEC,H,Mississippi State,L,16,24,19,39,187,0,26,101,0,12,3,6,45,0,2
+2006-11-11,Alabama,SEC,A,LSU,L,14,28,22,36,291,2,28,78,0,13,6,5,45,1,1
+2006-11-18,Alabama,SEC,H,Auburn,L,15,22,18,33,252,2,30,112,0,11,7,5,40,3,1
+2006-12-28,Alabama,SEC,N,Oklahoma State,L,31,34,18,33,168,1,34,108,2,11,6,8,45,2,1
+2006-09-09,Purdue,Big Ten,H,Miami (OH),W,38,31,18,32,220,1,28,171,4,12,8,8,51,0,3
+2006-09-16,Purdue,Big Ten,H,Ball State,W,38,28,30,39,416,3,28,117,2,17,6,8,75,1,2
+2006-09-23,Purdue,Big Ten,H,Minnesota,W,27,21,18,27,243,2,32,178,1,11,8,8,38,0,0
+2006-09-30,Purdue,Big Ten,A,Notre Dame,L,21,35,23,46,398,2,18,92,1,15,6,8,74,1,0
+2006-10-07,Purdue,Big Ten,A,Iowa,L,17,47,23,48,254,1,36,202,1,13,11,3,27,0,3
+2006-10-14,Purdue,Big Ten,A,Northwestern,W,31,10,36,52,448,2,28,62,2,23,3,4,35,0,1
+2006-10-21,Purdue,Big Ten,H,Wisconsin,L,3,24,20,40,187,0,24,99,0,12,4,4,39,0,1
+2006-10-28,Purdue,Big Ten,H,Penn State,L,0,12,22,39,184,0,24,62,0,7,6,1,5,1,2
+2006-11-04,Purdue,Big Ten,A,Michigan State,W,17,15,21,30,286,2,27,77,0,14,4,5,39,2,0
+2006-11-11,Purdue,Big Ten,A,Illinois,W,42,31,20,42,229,1,38,202,4,13,9,8,47,1,1
+2006-11-18,Purdue,Big Ten,H,Indiana,W,28,19,18,32,260,1,39,175,3,12,9,1,9,1,4
+2006-11-25,Purdue,Big Ten,A,Hawaii,L,35,42,30,43,382,5,27,90,0,22,4,6,35,1,2
+2006-12-29,Purdue,Big Ten,N,Maryland,L,7,24,23,36,264,1,13,21,0,12,0,4,33,1,1
+2006-09-02,Nebraska,Big 12,H,Louisiana Tech,W,49,10,24,36,332,4,48,252,3,14,16,5,45,1,1
+2006-09-16,Nebraska,Big 12,A,USC,L,10,28,9,17,143,0,36,68,1,7,3,5,51,1,0
+2006-09-23,Nebraska,Big 12,H,Troy,W,56,0,16,23,281,2,46,316,6,11,12,8,65,0,1
+2006-09-30,Nebraska,Big 12,H,Kansas,W,39,32,15,33,395,4,32,116,1,11,5,5,35,3,0
+2006-10-07,Nebraska,Big 12,A,Iowa State,W,28,14,17,21,131,1,45,251,3,5,11,7,70,1,0
+2006-10-14,Nebraska,Big 12,A,Kansas State,W,21,3,13,22,166,2,43,190,1,9,7,2,20,0,0
+2006-10-21,Nebraska,Big 12,H,Texas,L,20,22,16,29,302,3,24,38,0,10,3,7,67,2,1
+2006-10-28,Nebraska,Big 12,A,Oklahoma State,L,29,41,21,39,241,2,40,211,2,12,14,5,40,1,0
+2006-11-04,Nebraska,Big 12,H,Missouri,W,34,20,14,22,236,3,47,183,1,11,8,3,19,2,0
+2006-11-11,Nebraska,Big 12,A,Texas A&M,W,28,27,21,36,267,2,38,123,2,12,6,5,43,0,1
+2006-11-24,Nebraska,Big 12,H,Colorado,W,37,14,20,30,278,3,46,190,2,11,11,10,70,2,0
+2006-12-02,Nebraska,Big 12,N,Oklahoma,L,7,21,23,50,282,1,21,84,0,11,6,5,24,2,3
+2007-01-01,Nebraska,Big 12,N,Auburn,L,14,17,14,27,126,1,38,104,1,8,6,4,45,1,1
+2006-09-02,West Virginia,Big East,H,Marshall,W,42,10,11,15,173,2,52,312,4,10,16,8,75,0,0
+2006-09-14,West Virginia,Big East,H,Maryland,W,45,24,6,9,43,1,43,340,4,3,12,10,95,1,0
+2006-09-23,West Virginia,Big East,A,East Carolina,W,27,10,17,24,216,2,42,153,1,9,10,5,45,0,3
+2006-10-07,West Virginia,Big East,A,Mississippi State,W,42,14,6,10,92,0,44,314,5,3,16,11,132,0,0
+2006-10-14,West Virginia,Big East,H,Syracuse,W,41,17,13,20,105,0,45,457,5,7,16,6,70,2,1
+2006-10-20,West Virginia,Big East,A,Connecticut,W,37,11,9,14,156,1,42,263,3,6,11,7,75,1,1
+2006-11-02,West Virginia,Big East,A,Louisville,L,34,44,13,21,222,0,50,318,5,9,14,7,68,3,0
+2006-11-11,West Virginia,Big East,H,Cincinnati,W,42,24,8,14,98,1,38,313,5,3,10,12,102,0,0
+2006-11-16,West Virginia,Big East,A,Pitt,W,45,27,11,16,204,2,47,437,4,8,15,4,40,0,0
+2006-11-25,West Virginia,Big East,H,South Florida,L,19,24,14,22,178,2,37,132,0,6,7,3,25,2,2
+2006-12-02,West Virginia,Big East,H,Rutgers,W,41,39,14,30,244,1,47,195,3,10,8,6,40,0,1
+2007-01-01,West Virginia,Big East,N,Georgia Tech,W,38,35,9,15,131,2,45,311,3,5,15,3,30,0,0
+2006-09-09,Oklahoma State,Big 12,A,Arkansas State,W,35,7,11,18,167,2,41,171,3,5,9,7,74,0,3
+2006-09-16,Oklahoma State,Big 12,H,Florida Atlantic,W,48,8,9,19,186,1,43,246,4,7,11,3,35,0,0
+2006-09-23,Oklahoma State,Big 12,A,Houston,L,25,34,13,22,281,3,27,165,0,11,5,3,20,2,0
+2006-10-07,Oklahoma State,Big 12,A,Kansas State,L,27,31,14,22,138,2,41,193,1,7,10,3,15,0,1
+2006-10-14,Oklahoma State,Big 12,A,Kansas,W,42,32,23,35,411,5,43,192,1,17,10,5,41,3,1
+2006-10-21,Oklahoma State,Big 12,H,Texas A&M,L,33,34,10,22,133,3,37,226,2,8,12,3,16,0,1
+2006-10-28,Oklahoma State,Big 12,H,Nebraska,W,41,29,13,21,229,2,41,267,3,11,14,5,42,1,1
+2006-11-04,Oklahoma State,Big 12,A,Texas,L,10,36,11,28,123,0,21,80,0,7,5,10,78,1,2
+2006-11-11,Oklahoma State,Big 12,H,Baylor,W,66,24,13,15,123,2,54,387,5,5,20,11,124,0,0
+2006-11-18,Oklahoma State,Big 12,A,Texas Tech,L,24,30,13,34,164,1,50,221,2,10,14,5,25,0,1
+2006-11-25,Oklahoma State,Big 12,H,Oklahoma,L,21,27,17,31,243,1,39,119,2,14,6,5,37,1,0
+2006-12-28,Oklahoma State,Big 12,N,Alabama,W,34,31,15,30,212,1,41,207,3,9,13,9,77,1,1
+2006-09-09,Colorado,Big 12,N,Colorado State,L,10,14,9,15,71,0,33,75,1,3,5,6,50,0,0
+2006-09-16,Colorado,Big 12,H,Arizona State,L,3,21,8,18,86,0,44,133,0,5,8,4,38,2,1
+2006-09-23,Colorado,Big 12,A,Georgia,L,13,14,14,27,140,0,39,173,1,9,8,9,81,1,1
+2006-09-30,Colorado,Big 12,A,Missouri,L,13,28,13,27,190,0,36,183,1,7,10,6,56,0,0
+2006-10-07,Colorado,Big 12,H,Baylor,L,31,34,9,25,75,1,49,276,3,5,15,4,28,0,3
+2006-10-14,Colorado,Big 12,H,Texas Tech,W,30,6,12,19,152,2,46,228,1,9,10,0,0,2,0
+2006-10-21,Colorado,Big 12,A,Oklahoma,L,3,24,3,14,39,0,30,74,0,3,2,3,20,1,1
+2006-10-28,Colorado,Big 12,A,Kansas,L,15,20,9,27,83,0,43,173,0,5,11,5,56,0,2
+2006-11-04,Colorado,Big 12,H,Kansas State,L,21,34,10,18,145,1,40,225,2,6,9,3,19,1,0
+2006-11-11,Colorado,Big 12,H,Iowa State,W,33,16,13,19,200,2,38,263,1,9,9,10,93,0,0
+2006-11-24,Colorado,Big 12,A,Nebraska,L,14,37,11,23,131,1,31,166,1,9,5,8,74,0,0
+2006-09-02,Rice,CUSA,H,Houston,L,30,31,12,26,152,2,31,131,2,6,6,1,5,1,1
+2006-09-09,Rice,CUSA,A,UCLA,L,16,26,13,21,131,1,31,53,1,6,4,10,90,1,0
+2006-09-16,Rice,CUSA,H,Texas,L,7,52,18,29,180,1,20,-12,0,7,1,13,91,1,0
+2006-09-23,Rice,CUSA,A,Florida State,L,7,55,9,27,128,1,37,113,0,7,7,7,45,2,1
+2006-09-30,Rice,CUSA,A,Army,W,48,14,30,40,329,5,28,128,0,15,7,6,52,0,0
+2006-10-07,Rice,CUSA,A,Tulane,L,24,38,25,47,271,2,39,129,1,10,12,7,59,0,1
+2006-10-14,Rice,CUSA,H,UAB,W,34,33,21,33,191,3,36,230,2,8,13,4,25,0,2
+2006-10-21,Rice,CUSA,A,UCF,W,40,29,16,29,170,2,35,250,3,10,10,1,15,0,0
+2006-11-04,Rice,CUSA,A,UTEP,W,37,31,19,26,233,3,48,238,2,13,13,6,43,1,0
+2006-11-11,Rice,CUSA,A,Tulsa,W,41,38,14,37,209,3,33,147,2,10,6,7,53,0,0
+2006-11-18,Rice,CUSA,H,East Carolina,W,18,17,23,45,279,1,37,179,1,13,10,2,10,0,2
+2006-11-25,Rice,CUSA,H,SMU,W,31,27,13,21,205,3,42,78,1,7,7,4,20,1,2
+2006-12-22,Rice,CUSA,N,Troy,L,17,41,35,54,305,2,21,39,0,13,3,7,49,0,5
+2006-09-09,Texas A&M,Big 12,H,Louisiana,W,51,7,23,32,271,2,40,225,5,12,14,2,24,0,0
+2006-09-16,Texas A&M,Big 12,H,Army,W,28,24,7,11,102,1,44,262,3,2,14,7,59,1,0
+2006-09-23,Texas A&M,Big 12,H,Louisiana Tech,W,45,14,21,33,336,3,34,153,3,10,9,12,85,1,0
+2006-09-30,Texas A&M,Big 12,H,Texas Tech,L,27,31,9,20,103,0,47,250,2,4,16,4,55,0,1
+2006-10-07,Texas A&M,Big 12,A,Kansas,W,21,18,25,45,240,0,31,146,3,10,9,8,41,1,0
+2006-10-14,Texas A&M,Big 12,H,Missouri,W,25,19,20,24,223,1,51,180,2,12,10,7,64,0,0
+2006-10-21,Texas A&M,Big 12,A,Oklahoma State,W,34,33,17,27,192,2,48,231,2,12,11,3,27,1,1
+2006-10-28,Texas A&M,Big 12,A,Baylor,W,31,21,12,21,215,2,48,292,2,6,16,4,23,0,0
+2006-11-04,Texas A&M,Big 12,H,Oklahoma,L,16,17,8,18,63,0,40,204,1,2,10,6,48,0,1
+2006-11-11,Texas A&M,Big 12,H,Nebraska,L,27,28,19,32,288,0,27,155,3,9,4,4,38,0,0
+2006-11-24,Texas A&M,Big 12,A,Texas,W,12,7,7,13,58,0,51,244,2,3,14,10,91,1,0
+2006-12-28,Texas A&M,Big 12,N,California,L,10,45,18,29,186,1,38,163,0,11,9,5,33,0,1
+2006-09-09,New Mexico State,WAC,H,New Mexico,L,28,34,37,57,472,4,30,60,0,23,5,4,20,4,1
+2006-09-30,New Mexico State,WAC,A,UTEP,L,38,44,48,73,506,4,23,67,1,26,4,6,50,1,1
+2006-10-07,New Mexico State,WAC,A,Idaho,L,20,28,24,41,307,3,17,31,0,9,3,9,110,0,2
+2006-10-15,New Mexico State,WAC,H,Boise State,L,28,40,50,66,529,2,19,5,2,25,0,7,64,1,2
+2006-10-21,New Mexico State,WAC,H,Hawaii,L,30,49,32,46,330,3,30,118,1,18,7,4,40,2,1
+2006-10-28,New Mexico State,WAC,A,Nevada,L,21,48,29,47,278,1,23,17,1,10,3,5,55,2,3
+2006-11-04,New Mexico State,WAC,H,San Jose State,L,21,31,34,49,364,3,25,65,0,17,4,11,124,1,0
+2006-11-11,New Mexico State,WAC,A,Fresno State,L,18,23,39,51,367,2,22,9,1,17,1,4,39,4,0
+2006-11-25,New Mexico State,WAC,A,Utah State,W,42,20,22,29,331,4,39,160,1,13,8,7,70,1,1
+2006-12-02,New Mexico State,WAC,H,Louisiana Tech,W,50,23,44,58,518,3,25,133,4,24,6,7,73,1,0
+2006-09-02,Louisiana Tech,WAC,A,Nebraska,L,10,49,13,32,238,1,21,67,0,10,3,5,25,2,1
+2006-09-23,Louisiana Tech,WAC,A,Texas A&M,L,14,45,13,32,229,1,24,73,1,8,2,7,77,1,0
+2006-09-30,Louisiana Tech,WAC,A,Clemson,L,0,51,23,46,226,0,29,33,0,12,3,7,55,1,4
+2006-10-07,Louisiana Tech,WAC,A,Boise State,L,14,55,17,35,163,0,35,141,2,8,10,9,80,1,1
+2006-10-14,Louisiana Tech,WAC,H,Idaho,L,14,24,11,26,137,0,27,74,2,6,8,3,30,4,4
+2006-10-21,Louisiana Tech,WAC,H,Utah State,W,48,35,13,18,226,4,47,344,2,7,14,5,55,1,0
+2006-10-28,Louisiana Tech,WAC,A,San Jose State,L,10,44,16,34,181,0,22,41,1,8,3,4,20,0,0
+2006-11-04,Louisiana Tech,WAC,A,North Texas,W,34,31,23,32,306,4,29,142,0,13,10,3,30,2,0
+2006-11-11,Louisiana Tech,WAC,A,Hawaii,L,17,61,17,38,225,2,41,135,0,11,9,6,65,0,2
+2006-11-18,Louisiana Tech,WAC,H,Nevada,L,0,42,14,27,168,0,33,163,0,8,8,7,65,2,2
+2006-11-24,Louisiana Tech,WAC,H,Fresno State,L,27,34,18,31,189,1,36,166,2,11,7,3,30,0,2
+2006-12-02,Louisiana Tech,WAC,A,New Mexico State,L,23,50,23,40,296,2,29,135,1,13,6,6,55,1,3
+2006-08-31,Minnesota,Big Ten,A,Kent State,W,44,0,8,15,146,1,55,322,5,7,18,5,44,0,1
+2006-09-09,Minnesota,Big Ten,A,California,L,17,42,21,33,243,0,32,109,1,10,8,9,100,0,2
+2006-09-16,Minnesota,Big Ten,H,Temple,W,62,0,9,17,166,4,45,282,4,7,12,4,30,0,1
+2006-09-23,Minnesota,Big Ten,A,Purdue,L,21,27,21,35,227,2,45,194,1,11,12,8,74,1,1
+2006-09-30,Minnesota,Big Ten,H,Michigan,L,14,28,17,34,215,2,24,108,0,11,6,4,29,0,0
+2006-10-07,Minnesota,Big Ten,H,Penn State,L,27,28,25,36,347,2,34,68,2,14,7,4,36,1,0
+2006-10-14,Minnesota,Big Ten,A,Wisconsin,L,12,48,13,28,94,0,29,106,1,5,6,3,29,1,1
+2006-10-28,Minnesota,Big Ten,A,Ohio State,L,0,44,15,28,135,0,26,47,0,6,4,4,20,0,3
+2006-11-04,Minnesota,Big Ten,H,Indiana,W,63,26,22,33,378,4,25,163,4,15,8,3,25,0,0
+2006-11-11,Minnesota,Big Ten,A,Michigan State,W,31,18,16,29,243,2,33,122,1,8,6,9,65,0,0
+2006-11-18,Minnesota,Big Ten,H,Iowa,W,34,24,18,30,267,2,42,192,3,11,11,6,50,0,1
+2006-12-29,Minnesota,Big Ten,N,Texas Tech,L,41,44,19,31,263,3,47,195,2,13,11,5,23,0,1
+2006-08-31,Middle Tennessee State,Sun Belt,H,Florida International,W,7,6,11,18,83,0,35,92,1,3,7,6,51,0,1
+2006-09-09,Middle Tennessee State,Sun Belt,A,Maryland,L,10,24,22,41,216,0,33,105,1,13,7,5,33,2,1
+2006-09-23,Middle Tennessee State,Sun Belt,A,Oklahoma,L,0,59,6,20,73,0,28,22,0,4,3,2,10,3,2
+2006-09-30,Middle Tennessee State,Sun Belt,A,North Texas,W,35,0,13,18,154,1,57,212,4,6,15,3,15,0,0
+2006-10-06,Middle Tennessee State,Sun Belt,H,Louisville,L,17,44,17,34,167,1,35,83,0,9,6,5,55,0,1
+2006-10-21,Middle Tennessee State,Sun Belt,A,Louisiana-Monroe,W,35,21,19,24,234,2,46,215,3,10,12,5,33,3,1
+2006-10-28,Middle Tennessee State,Sun Belt,A,Louisiana,W,34,20,19,27,244,1,37,101,2,11,4,5,40,0,1
+2006-11-04,Middle Tennessee State,Sun Belt,H,Florida Atlantic,W,35,14,5,11,71,0,36,271,3,4,9,6,39,1,1
+2006-11-11,Middle Tennessee State,Sun Belt,A,Arkansas State,W,38,10,11,14,134,0,37,211,4,6,9,6,35,0,0
+2006-11-18,Middle Tennessee State,Sun Belt,A,South Carolina,L,7,52,6,19,119,1,32,81,0,3,7,10,73,0,0
+2006-11-25,Middle Tennessee State,Sun Belt,H,Troy,L,20,21,13,22,126,1,39,77,1,6,6,2,10,1,0
+2006-12-26,Middle Tennessee State,Sun Belt,N,Central Michigan,L,14,31,27,41,259,0,30,61,2,11,5,10,103,0,2
+2006-09-02,Northern Illinois,MAC,A,Ohio State,L,12,35,16,30,192,1,33,151,0,5,9,4,35,0,1
+2006-09-09,Northern Illinois,MAC,H,Ohio,L,23,35,19,42,261,1,26,201,2,14,6,3,34,0,0
+2006-09-16,Northern Illinois,MAC,H,Buffalo,W,31,13,12,19,156,1,36,344,3,8,11,7,45,0,1
+2006-09-30,Northern Illinois,MAC,A,Ball State,W,40,28,20,27,252,2,41,358,3,12,12,9,70,1,0
+2006-10-08,Northern Illinois,MAC,A,Miami (OH),W,28,25,15,25,186,1,37,154,2,7,7,7,74,0,1
+2006-10-14,Northern Illinois,MAC,A,Western Michigan,L,14,16,14,25,157,1,22,0,0,8,1,3,21,0,3
+2006-10-21,Northern Illinois,MAC,H,Temple,W,43,21,27,42,377,4,35,89,0,19,7,2,15,0,1
+2006-10-28,Northern Illinois,MAC,A,Iowa,L,14,24,15,30,123,1,26,73,1,5,4,4,30,1,2
+2006-11-07,Northern Illinois,MAC,H,Toledo,L,13,17,20,47,244,1,22,23,0,10,2,6,38,1,1
+2006-11-17,Northern Illinois,MAC,H,Central Michigan,W,31,10,17,27,185,1,39,215,3,9,12,4,31,0,1
+2006-11-24,Northern Illinois,MAC,A,Eastern Michigan,W,27,0,24,37,261,2,45,240,1,14,15,5,38,1,3
+2006-12-19,Northern Illinois,MAC,N,Texas Christian,L,7,37,6,19,80,0,29,-20,0,2,0,0,0,0,1
+2006-09-02,Ohio State,Big Ten,H,Northern Illinois,W,35,12,20,27,315,3,36,173,2,11,11,3,40,2,0
+2006-09-09,Ohio State,Big Ten,A,Texas,W,24,7,17,26,269,2,29,79,1,13,3,8,55,0,0
+2006-09-16,Ohio State,Big Ten,H,Cincinnati,W,37,7,25,35,278,2,32,166,2,12,9,8,75,0,0
+2006-09-23,Ohio State,Big Ten,H,Penn State,W,28,6,12,22,115,1,29,138,1,6,8,6,51,0,2
+2006-09-30,Ohio State,Big Ten,A,Iowa,W,38,17,16,25,186,4,50,214,1,13,10,3,18,0,0
+2006-10-07,Ohio State,Big Ten,H,Bowling Green State,W,35,7,21,29,248,3,32,139,2,12,5,5,36,0,0
+2006-10-14,Ohio State,Big Ten,A,Michigan State,W,38,7,16,24,239,2,44,182,2,10,10,5,40,1,0
+2006-10-21,Ohio State,Big Ten,H,Indiana,W,44,3,17,25,270,5,39,270,1,12,12,4,40,1,0
+2006-10-28,Ohio State,Big Ten,H,Minnesota,W,44,0,17,25,218,1,46,266,5,14,15,3,40,3,0
+2006-11-04,Ohio State,Big Ten,A,Illinois,W,17,10,13,23,108,0,47,116,2,6,10,5,39,1,1
+2006-11-11,Ohio State,Big Ten,A,Northwestern,W,54,10,14,24,194,4,44,231,3,9,12,3,30,1,1
+2006-11-18,Ohio State,Big Ten,H,Michigan,W,42,39,29,41,316,4,29,187,2,16,7,4,50,2,1
+2007-01-08,Ohio State,Big Ten,N,Florida,L,14,41,4,14,35,0,23,47,1,1,5,5,50,1,1
+2006-09-09,Ohio,MAC,A,Northern Illinois,W,35,23,25,34,332,3,37,177,2,15,8,6,65,2,0
+2006-09-16,Ohio,MAC,A,Rutgers,L,7,24,14,29,125,1,26,-6,0,5,1,9,55,2,2
+2006-09-23,Ohio,MAC,A,Missouri,L,6,31,17,33,145,1,30,43,0,6,5,10,88,1,1
+2006-09-30,Ohio,MAC,H,Bowling Green State,L,9,21,20,34,188,1,32,54,0,9,7,3,27,1,2
+2006-10-07,Ohio,MAC,H,Western Michigan,W,27,20,8,16,79,0,36,257,2,3,7,7,109,1,2
+2006-10-14,Ohio,MAC,A,Illinois,W,20,17,9,20,114,0,36,124,2,3,7,6,40,0,1
+2006-10-21,Ohio,MAC,H,Buffalo,W,42,7,14,20,147,2,43,223,4,5,10,6,41,1,0
+2006-10-28,Ohio,MAC,A,Kent State,W,17,7,7,15,52,0,43,209,2,4,10,11,73,0,1
+2006-11-04,Ohio,MAC,A,Eastern Michigan,W,16,10,7,12,46,0,51,278,2,3,12,6,65,0,0
+2006-11-16,Ohio,MAC,H,Akron,W,17,7,6,15,49,0,50,208,1,3,11,7,64,3,0
+2006-11-24,Ohio,MAC,A,Miami (OH),W,34,24,10,17,133,0,44,304,4,6,8,4,38,2,1
+2006-11-30,Ohio,MAC,N,Central Michigan,L,10,31,17,27,137,0,39,87,1,7,9,4,35,1,2
+2007-01-07,Ohio,MAC,N,Southern Mississippi,L,7,28,15,37,177,1,22,47,0,8,3,6,39,0,2
+2006-09-02,North Carolina,ACC,H,Rutgers,L,16,21,24,36,234,1,32,169,1,12,10,8,60,1,2
+2006-09-09,North Carolina,ACC,H,Virginia Tech,L,10,35,19,38,179,1,31,89,0,12,4,1,10,1,4
+2006-09-23,North Carolina,ACC,A,Clemson,L,7,52,7,23,96,0,22,54,1,5,3,9,65,1,1
+2006-10-07,North Carolina,ACC,A,Miami (FL),L,7,27,13,36,186,0,28,58,1,10,4,5,45,1,2
+2006-10-14,North Carolina,ACC,H,South Florida,L,20,37,9,26,117,1,39,168,1,6,10,10,87,0,2
+2006-10-19,North Carolina,ACC,A,Virginia,L,0,23,9,20,84,0,33,98,0,4,7,8,64,2,1
+2006-10-28,North Carolina,ACC,H,Wake Forest,L,17,24,19,30,236,1,40,134,1,11,7,3,15,1,2
+2006-11-04,North Carolina,ACC,A,Notre Dame,L,26,45,14,24,213,3,25,31,0,7,3,5,56,0,0
+2006-11-11,North Carolina,ACC,H,Georgia Tech,L,0,7,13,34,156,0,23,55,0,8,4,7,54,0,2
+2006-11-18,North Carolina,ACC,H,North Carolina State,W,23,9,8,15,137,0,41,123,1,7,7,5,60,1,0
+2006-11-25,North Carolina,ACC,A,Duke,W,45,44,20,31,253,2,32,200,2,10,8,6,75,2,1
+2006-08-31,Miami (OH),MAC,H,Northwestern,L,3,21,16,26,175,0,29,72,0,9,3,4,50,0,0
+2006-09-09,Miami (OH),MAC,A,Purdue,L,31,38,31,46,386,4,37,97,0,17,6,6,66,0,2
+2006-09-16,Miami (OH),MAC,H,Kent State,L,14,16,20,35,167,0,41,130,2,10,9,10,86,1,1
+2006-09-23,Miami (OH),MAC,A,Syracuse,L,14,34,25,39,241,2,29,31,0,12,4,3,21,0,1
+2006-09-30,Miami (OH),MAC,A,Cincinnati,L,10,24,21,48,190,0,25,36,0,10,3,4,32,1,2
+2006-10-08,Miami (OH),MAC,H,Northern Illinois,L,25,28,22,30,372,1,26,97,2,12,5,7,80,1,1
+2006-10-15,Miami (OH),MAC,A,Buffalo,W,38,31,17,28,167,1,41,93,4,8,7,10,100,2,1
+2006-10-21,Miami (OH),MAC,A,Akron,L,13,24,21,47,263,1,30,57,0,15,3,8,64,0,0
+2006-10-28,Miami (OH),MAC,H,Ball State,L,17,20,20,35,226,1,36,133,1,9,9,8,79,1,1
+2006-11-04,Miami (OH),MAC,A,Western Michigan,L,24,27,16,26,282,2,29,93,1,13,1,2,20,2,1
+2006-11-15,Miami (OH),MAC,A,Bowling Green State,W,9,7,12,24,130,1,37,73,0,6,6,4,31,1,0
+2006-11-24,Miami (OH),MAC,H,Ohio,L,24,34,20,36,180,2,26,128,1,10,6,3,27,2,1
+2006-09-02,Utah,MWC,A,UCLA,L,10,31,14,34,175,1,23,112,0,7,7,7,70,1,2
+2006-09-16,Utah,MWC,A,Utah State,W,48,0,20,30,240,4,37,161,0,10,9,7,71,1,0
+2006-09-23,Utah,MWC,A,San Diego State,W,38,7,13,28,167,1,41,192,2,10,13,4,40,1,1
+2006-09-30,Utah,MWC,H,Boise State,L,3,36,8,27,51,0,29,127,0,3,5,5,34,0,4
+2006-10-05,Utah,MWC,H,Texas Christian,W,20,7,19,32,223,2,36,131,0,6,6,8,89,0,1
+2006-10-14,Utah,MWC,A,Wyoming,L,15,31,16,31,111,1,29,33,0,4,4,3,19,2,2
+2006-10-19,Utah,MWC,A,New Mexico,L,31,34,18,31,234,2,41,160,2,11,8,4,24,0,0
+2006-10-28,Utah,MWC,H,Nevada-Las Vegas,W,45,23,20,24,290,4,34,110,1,10,6,5,50,2,0
+2006-11-11,Utah,MWC,H,Colorado State,W,35,22,21,34,321,2,42,205,3,14,12,10,105,0,1
+2006-11-18,Utah,MWC,A,Air Force,W,17,14,24,38,236,0,35,119,2,9,12,7,60,0,0
+2006-11-25,Utah,MWC,H,Brigham Young,L,31,33,25,41,376,4,33,98,0,17,7,6,56,0,0
+2006-12-23,Utah,MWC,N,Tulsa,W,25,13,23,34,240,1,33,165,1,11,10,6,41,1,1
+2006-09-02,Arizona,Pac-10,H,Brigham Young,W,16,13,19,39,186,1,24,67,0,11,2,8,61,0,1
+2006-09-09,Arizona,Pac-10,A,LSU,L,3,45,16,36,117,0,21,35,0,7,5,3,14,1,3
+2006-09-23,Arizona,Pac-10,H,USC,L,3,20,14,25,170,0,19,-16,0,6,2,4,30,1,1
+2006-09-30,Arizona,Pac-10,H,Washington,L,10,21,24,41,308,1,24,-7,0,14,2,8,78,0,1
+2006-10-07,Arizona,Pac-10,A,UCLA,L,7,27,21,42,235,1,26,-13,0,12,1,7,65,0,1
+2006-10-14,Arizona,Pac-10,A,Stanford,W,20,7,10,13,74,0,51,220,2,4,11,6,45,0,1
+2006-10-21,Arizona,Pac-10,H,Oregon State,L,10,17,17,30,161,0,28,22,0,8,5,3,30,1,2
+2006-11-04,Arizona,Pac-10,A,Washington State,W,27,17,10,17,159,1,44,116,2,5,6,5,30,1,1
+2006-11-11,Arizona,Pac-10,H,California,W,24,20,17,34,202,0,33,60,2,8,3,6,54,0,0
+2006-11-18,Arizona,Pac-10,A,Oregon,W,37,10,9,14,133,2,45,230,2,6,9,9,85,0,0
+2006-11-25,Arizona,Pac-10,H,Arizona State,L,14,28,17,40,135,2,23,33,0,7,4,5,52,0,2
+2006-09-02,Vanderbilt,SEC,A,Michigan,L,7,27,12,26,129,1,26,42,0,6,1,2,20,2,0
+2006-09-09,Vanderbilt,SEC,A,Alabama,L,10,13,16,24,155,1,23,80,0,7,4,2,30,1,3
+2006-09-16,Vanderbilt,SEC,H,Arkansas,L,19,21,12,26,124,1,37,240,2,6,9,7,56,0,0
+2006-09-30,Vanderbilt,SEC,H,Temple,W,43,14,11,23,169,2,31,279,4,4,15,9,89,1,0
+2006-10-07,Vanderbilt,SEC,A,Ole Miss,L,10,17,21,33,271,1,41,129,0,12,10,2,20,4,1
+2006-10-14,Vanderbilt,SEC,A,Georgia,W,24,22,15,29,190,2,29,101,1,12,5,3,15,0,2
+2006-10-21,Vanderbilt,SEC,H,South Carolina,L,13,31,11,25,120,0,36,133,1,5,8,7,41,1,2
+2006-10-28,Vanderbilt,SEC,A,Duke,W,45,28,16,29,277,2,38,235,4,9,12,7,56,2,0
+2006-11-04,Vanderbilt,SEC,H,Florida,L,19,25,27,44,298,2,23,93,1,12,5,3,33,0,1
+2006-11-11,Vanderbilt,SEC,A,Kentucky,L,26,38,23,37,446,1,30,175,3,18,7,1,5,2,2
+2006-11-18,Vanderbilt,SEC,H,Tennessee,L,10,39,11,24,109,1,34,109,0,4,7,4,29,0,2
+2006-09-03,Kentucky,SEC,A,Louisville,L,28,59,10,26,238,3,19,22,0,5,1,5,35,1,0
+2006-09-16,Kentucky,SEC,H,Ole Miss,W,31,14,22,34,293,3,33,87,1,11,9,5,45,1,0
+2006-09-23,Kentucky,SEC,A,Florida,L,7,26,26,38,210,1,22,39,0,9,6,10,66,0,0
+2006-09-30,Kentucky,SEC,H,Central Michigan,W,45,36,20,32,266,4,31,107,2,11,6,2,15,1,1
+2006-10-07,Kentucky,SEC,H,South Carolina,L,17,24,18,32,289,1,27,62,1,9,6,7,50,0,1
+2006-10-14,Kentucky,SEC,A,LSU,L,0,49,16,41,166,0,23,61,0,9,4,9,84,0,1
+2006-10-28,Kentucky,SEC,A,Mississippi State,W,34,31,19,29,284,3,38,106,1,12,8,8,51,1,1
+2006-11-04,Kentucky,SEC,H,Georgia,W,24,20,23,32,204,2,42,147,1,8,12,3,25,1,2
+2006-11-11,Kentucky,SEC,H,Vanderbilt,W,38,26,29,43,450,4,37,147,1,17,8,6,58,1,0
+2006-11-18,Kentucky,SEC,H,Louisiana-Monroe,W,42,40,25,35,359,3,29,98,1,14,9,5,45,1,0
+2006-11-25,Kentucky,SEC,A,Tennessee,L,12,17,26,39,282,1,30,128,0,14,8,3,28,0,0
+2006-12-29,Kentucky,SEC,N,Clemson,W,28,20,21,29,309,3,40,100,1,12,7,8,84,2,0
+2006-09-02,Florida,SEC,H,Southern Mississippi,W,34,7,21,30,248,3,29,143,2,11,8,7,44,0,1
+2006-09-09,Florida,SEC,H,UCF,W,42,0,25,38,433,4,36,204,2,19,8,10,71,2,2
+2006-09-16,Florida,SEC,A,Tennessee,W,21,20,15,25,199,3,41,121,0,10,11,9,65,0,1
+2006-09-23,Florida,SEC,H,Kentucky,W,26,7,16,28,279,2,38,235,2,12,11,10,71,1,1
+2006-09-30,Florida,SEC,H,Alabama,W,28,13,15,21,197,2,33,133,1,11,5,9,53,2,0
+2006-10-07,Florida,SEC,H,LSU,W,23,10,19,28,191,2,32,97,1,9,5,14,102,1,1
+2006-10-14,Florida,SEC,A,Auburn,L,17,27,9,17,108,1,28,171,1,6,9,5,33,2,1
+2006-10-28,Florida,SEC,N,Georgia,W,21,14,14,28,163,1,35,156,1,7,6,10,75,1,1
+2006-11-04,Florida,SEC,A,Vanderbilt,W,25,19,19,28,242,1,33,88,2,12,5,6,53,0,3
+2006-11-11,Florida,SEC,H,South Carolina,W,17,16,19,29,254,1,32,147,1,14,11,4,49,0,1
+2006-11-25,Florida,SEC,A,Florida State,W,21,14,21,35,283,2,32,105,1,9,6,7,65,1,0
+2006-12-02,Florida,SEC,N,Arkansas,W,38,28,17,31,194,2,30,202,2,6,11,8,67,0,2
+2007-01-08,Florida,SEC,N,Ohio State,W,41,14,26,37,214,2,43,156,3,14,6,6,50,0,0
+2006-09-09,Troy,Sun Belt,A,Florida State,L,17,24,31,48,271,1,14,24,1,11,0,8,71,0,3
+2006-09-16,Troy,Sun Belt,A,Georgia Tech,L,20,35,18,33,182,1,38,101,2,9,5,8,71,1,2
+2006-09-23,Troy,Sun Belt,A,Nebraska,L,0,56,15,24,92,0,27,48,0,4,6,10,80,2,1
+2006-09-30,Troy,Sun Belt,A,UAB,L,3,21,18,32,144,0,32,58,0,8,6,7,86,1,1
+2006-10-14,Troy,Sun Belt,H,Louisiana-Monroe,W,24,19,27,40,246,1,37,161,2,12,11,8,73,2,3
+2006-10-28,Troy,Sun Belt,H,North Texas,W,14,6,13,22,101,1,39,142,1,4,7,5,35,1,1
+2006-11-04,Troy,Sun Belt,H,Louisiana,W,42,28,12,19,153,1,39,208,5,7,11,5,40,1,1
+2006-11-11,Troy,Sun Belt,A,Florida Atlantic,W,24,17,20,29,325,3,39,129,0,10,7,3,25,1,1
+2006-11-18,Troy,Sun Belt,H,Arkansas State,L,26,33,19,30,267,1,26,88,2,10,5,6,74,1,2
+2006-11-25,Troy,Sun Belt,A,Middle Tennessee State,W,21,20,30,40,235,2,31,81,1,13,6,4,40,0,1
+2006-12-02,Troy,Sun Belt,A,Florida International,W,26,13,9,23,53,2,43,245,0,3,12,4,50,1,0
+2006-12-22,Troy,Sun Belt,N,Rice,W,41,17,15,29,228,4,33,148,1,7,8,7,70,0,1
+2006-09-16,Connecticut,Big East,H,Wake Forest,L,13,24,19,32,197,1,47,127,1,11,10,4,25,1,2
+2006-09-23,Connecticut,Big East,A,Indiana,W,14,7,5,13,27,0,53,257,1,2,7,2,15,1,2
+2006-09-30,Connecticut,Big East,H,Navy,L,17,41,15,37,176,2,28,167,0,8,6,7,56,3,0
+2006-10-07,Connecticut,Big East,A,South Florida,L,16,38,20,40,201,1,26,60,1,11,3,6,50,0,1
+2006-10-14,Connecticut,Big East,H,Army,W,21,7,10,22,139,0,40,226,2,5,7,5,60,0,0
+2006-10-20,Connecticut,Big East,H,West Virginia,L,11,37,15,34,115,0,33,95,1,6,10,5,50,0,2
+2006-10-29,Connecticut,Big East,A,Rutgers,L,13,24,8,17,67,0,44,188,2,4,8,8,52,2,1
+2006-11-11,Connecticut,Big East,H,Pitt,W,46,45,20,29,164,4,62,317,2,12,17,5,30,1,0
+2006-11-18,Connecticut,Big East,A,Syracuse,L,14,20,21,33,196,2,39,70,0,11,6,2,10,0,3
+2006-11-25,Connecticut,Big East,H,Cincinnati,L,23,26,13,24,172,2,31,123,1,6,7,9,62,0,0
+2006-12-02,Connecticut,Big East,A,Louisville,L,17,48,7,19,89,0,31,147,2,3,5,9,76,1,1
+2006-09-02,UAB,CUSA,A,Oklahoma,L,17,24,11,17,169,1,40,135,1,6,8,11,77,1,0
+2006-09-09,UAB,CUSA,H,East Carolina,W,17,12,17,23,199,2,42,124,0,9,11,6,48,3,0
+2006-09-16,UAB,CUSA,A,Georgia,L,0,34,12,21,94,0,36,69,0,5,5,8,49,1,0
+2006-09-23,UAB,CUSA,H,Mississippi State,L,10,16,12,26,116,0,32,94,1,5,7,9,85,0,2
+2006-09-30,UAB,CUSA,H,Troy,W,21,3,11,16,145,1,42,140,2,5,9,4,20,1,1
+2006-10-07,UAB,CUSA,H,Memphis,W,35,29,12,20,134,1,50,279,4,7,14,5,45,0,2
+2006-10-14,UAB,CUSA,A,Rice,L,33,34,16,29,309,4,32,175,1,12,6,9,74,2,0
+2006-10-21,UAB,CUSA,H,Marshall,L,24,31,18,30,205,1,28,137,2,11,7,7,57,0,2
+2006-10-31,UAB,CUSA,A,SMU,L,9,22,18,36,133,0,34,89,0,6,9,8,36,0,1
+2006-11-10,UAB,CUSA,H,UTEP,L,17,36,16,27,266,1,31,94,1,9,6,9,75,1,2
+2006-11-18,UAB,CUSA,A,Southern Mississippi,L,20,25,9,18,155,1,38,82,1,6,5,11,91,0,2
+2006-11-25,UAB,CUSA,A,UCF,L,22,31,25,41,289,0,27,89,1,13,12,7,45,0,0
+2006-09-03,Baylor,Big 12,H,Texas Christian,L,7,17,31,47,286,1,20,47,0,18,3,7,55,1,1
+2006-09-16,Baylor,Big 12,A,Washington State,L,15,17,31,49,256,1,14,-10,0,13,2,9,75,2,2
+2006-09-23,Baylor,Big 12,H,Army,L,20,27,26,35,241,1,28,62,1,10,5,11,107,0,0
+2006-09-30,Baylor,Big 12,H,Kansas State,W,17,3,26,47,294,2,19,18,0,11,1,5,66,3,1
+2006-10-07,Baylor,Big 12,A,Colorado,W,34,31,31,44,272,2,26,110,2,14,5,8,87,1,2
+2006-10-14,Baylor,Big 12,A,Texas,L,31,63,26,48,320,3,11,27,1,12,2,5,37,4,1
+2006-10-21,Baylor,Big 12,H,Kansas,W,36,35,33,55,394,5,15,66,0,16,4,4,36,1,2
+2006-10-28,Baylor,Big 12,H,Texas A&M,L,21,31,14,23,260,1,24,77,2,6,6,5,41,0,1
+2006-11-04,Baylor,Big 12,A,Texas Tech,L,21,55,16,30,197,1,29,20,2,8,6,7,49,2,1
+2006-11-11,Baylor,Big 12,A,Oklahoma State,L,24,66,24,41,262,2,21,93,1,13,6,3,30,3,3
+2006-11-18,Baylor,Big 12,H,Oklahoma,L,10,36,22,45,188,0,20,-48,0,9,1,3,15,0,2
+2006-09-02,SMU,CUSA,A,Texas Tech,L,3,35,10,19,71,0,34,118,0,3,6,8,67,1,0
+2006-09-09,SMU,CUSA,A,North Texas,L,6,24,20,29,159,1,32,111,0,7,6,8,77,1,2
+2006-09-23,SMU,CUSA,H,Arkansas State,W,55,9,17,28,231,5,31,226,1,8,11,5,45,1,1
+2006-09-30,SMU,CUSA,A,Tulane,W,33,28,23,40,261,2,38,98,1,11,7,8,70,0,1
+2006-10-07,SMU,CUSA,A,UTEP,L,21,24,10,20,132,2,23,58,0,3,4,7,43,1,3
+2006-10-14,SMU,CUSA,H,Marshall,W,31,21,23,29,231,4,45,135,0,12,12,2,20,1,0
+2006-10-21,SMU,CUSA,A,East Carolina,L,21,38,22,33,224,3,34,89,0,11,8,8,65,1,0
+2006-10-31,SMU,CUSA,H,UAB,W,22,9,18,23,148,1,26,110,1,9,3,6,47,1,1
+2006-11-11,SMU,CUSA,H,Houston,L,27,37,23,36,299,3,35,44,0,13,5,4,29,2,0
+2006-11-18,SMU,CUSA,H,Tulsa,W,34,24,11,19,190,2,34,179,2,8,11,7,57,0,0
+2006-11-25,SMU,CUSA,A,Rice,L,27,31,8,19,137,1,38,140,1,5,5,8,72,2,2
+2006-09-02,Virginia,ACC,A,Pitt,L,13,38,19,38,159,0,21,52,1,9,2,3,15,0,2
+2006-09-09,Virginia,ACC,H,Wyoming,W,13,12,20,34,174,1,22,32,0,7,2,4,26,0,1
+2006-09-16,Virginia,ACC,H,Western Michigan,L,10,17,24,32,189,0,26,69,1,7,6,8,50,0,2
+2006-09-21,Virginia,ACC,A,Georgia Tech,L,7,24,15,31,115,1,23,51,0,5,3,8,60,1,2
+2006-09-30,Virginia,ACC,A,Duke,W,37,0,16,23,147,2,38,106,2,4,9,6,45,1,0
+2006-10-07,Virginia,ACC,A,East Carolina,L,21,31,16,32,145,2,27,153,1,7,8,4,50,0,0
+2006-10-14,Virginia,ACC,H,Maryland,L,26,28,13,21,243,2,35,181,1,8,10,2,10,1,1
+2006-10-19,Virginia,ACC,H,North Carolina,W,23,0,18,26,176,0,38,194,2,10,9,8,69,0,0
+2006-10-28,Virginia,ACC,H,North Carolina State,W,14,7,12,22,131,0,37,125,2,6,9,3,15,0,0
+2006-11-04,Virginia,ACC,A,Florida State,L,0,33,17,32,125,0,32,58,0,6,6,2,6,0,2
+2006-11-18,Virginia,ACC,H,Miami (FL),W,17,7,23,33,217,0,42,132,2,12,9,0,0,0,0
+2006-11-25,Virginia,ACC,A,Virginia Tech,L,0,17,10,21,66,0,23,46,0,2,2,6,45,1,1
+2006-09-09,Virginia Tech,ACC,A,North Carolina,W,35,10,11,18,107,1,30,117,3,3,6,7,55,3,0
+2006-09-16,Virginia Tech,ACC,H,Duke,W,36,0,16,27,316,2,33,102,2,14,5,9,85,0,1
+2006-09-23,Virginia Tech,ACC,H,Cincinnati,W,29,13,11,23,188,1,33,145,1,6,7,7,52,1,1
+2006-09-30,Virginia Tech,ACC,H,Georgia Tech,L,27,38,27,54,339,1,27,42,2,15,5,5,28,2,0
+2006-10-12,Virginia Tech,ACC,A,Boston College,L,3,22,23,34,148,0,28,33,0,9,4,9,88,2,2
+2006-10-21,Virginia Tech,ACC,H,Southern Mississippi,W,36,6,6,16,114,1,39,284,3,5,11,5,41,0,1
+2006-10-26,Virginia Tech,ACC,H,Clemson,W,24,7,9,15,108,0,58,224,3,3,12,3,22,1,0
+2006-11-04,Virginia Tech,ACC,A,Miami (FL),W,17,10,5,19,86,0,40,53,2,3,5,3,15,0,1
+2006-11-11,Virginia Tech,ACC,H,Kent State,W,23,0,12,22,141,0,36,73,1,9,3,5,50,1,0
+2006-11-18,Virginia Tech,ACC,A,Wake Forest,W,27,6,14,22,252,2,33,92,0,9,5,6,65,0,1
+2006-11-25,Virginia Tech,ACC,H,Virginia,W,17,0,12,18,146,1,45,156,1,6,7,3,29,0,1
+2006-12-30,Virginia Tech,ACC,N,Georgia,L,24,31,14,27,147,1,26,42,2,4,3,8,78,1,3
+2006-09-02,Clemson,ACC,H,Florida Atlantic,W,54,6,14,23,173,3,39,199,2,8,12,6,50,3,1
+2006-09-09,Clemson,ACC,A,Boston College,L,33,34,25,40,343,2,41,136,2,11,9,5,55,1,0
+2006-09-16,Clemson,ACC,A,Florida State,W,27,20,16,30,194,1,28,151,3,8,5,3,25,0,0
+2006-09-23,Clemson,ACC,H,North Carolina,W,52,7,14,21,180,0,58,324,7,7,19,5,40,0,1
+2006-09-30,Clemson,ACC,H,Louisiana Tech,W,51,0,10,17,133,2,41,393,3,5,16,7,70,3,0
+2006-10-07,Clemson,ACC,A,Wake Forest,W,27,17,20,30,214,1,39,214,1,12,10,6,47,1,3
+2006-10-12,Clemson,ACC,H,Temple,W,63,9,12,13,222,3,45,337,6,8,16,1,5,2,0
+2006-10-21,Clemson,ACC,H,Georgia Tech,W,31,7,7,16,105,1,38,321,3,4,9,6,48,1,1
+2006-10-26,Clemson,ACC,A,Virginia Tech,L,7,24,11,28,86,0,28,80,1,3,5,1,5,1,1
+2006-11-04,Clemson,ACC,H,Maryland,L,12,13,18,27,251,0,41,143,0,8,7,1,5,0,0
+2006-11-11,Clemson,ACC,H,North Carolina State,W,20,14,15,24,146,1,39,223,1,9,9,5,41,1,2
+2006-11-25,Clemson,ACC,H,South Carolina,L,28,31,13,19,191,1,33,181,2,6,8,3,30,1,1
+2006-12-29,Clemson,ACC,N,Kentucky,L,20,28,23,39,272,3,25,130,0,11,7,5,50,3,1
+2006-08-31,South Carolina,SEC,A,Mississippi State,W,15,0,15,27,193,1,29,81,0,4,5,8,60,0,1
+2006-09-09,South Carolina,SEC,H,Georgia,L,0,18,23,33,220,0,22,35,0,10,3,4,18,3,0
+2006-09-23,South Carolina,SEC,H,Florida Atlantic,W,45,6,19,34,292,5,38,200,1,14,9,7,50,0,0
+2006-09-28,South Carolina,SEC,H,Auburn,L,17,24,21,35,240,2,34,109,0,12,11,5,31,1,1
+2006-10-07,South Carolina,SEC,A,Kentucky,W,24,17,15,23,193,1,39,190,2,8,12,10,68,0,1
+2006-10-21,South Carolina,SEC,A,Vanderbilt,W,31,13,11,18,133,2,39,194,2,6,9,8,65,3,1
+2006-10-28,South Carolina,SEC,H,Tennessee,L,24,31,16,30,230,2,35,165,1,11,10,4,18,0,3
+2006-11-04,South Carolina,SEC,H,Arkansas,L,20,26,22,40,289,2,15,51,0,14,4,7,69,0,1
+2006-11-11,South Carolina,SEC,A,Florida,L,16,17,24,34,275,0,28,135,2,12,10,10,85,0,0
+2006-11-18,South Carolina,SEC,H,Middle Tennessee State,W,52,7,22,29,391,5,28,154,2,15,7,5,46,1,0
+2006-11-25,South Carolina,SEC,A,Clemson,W,31,28,24,37,284,0,35,208,4,14,14,5,35,1,3
+2006-12-29,South Carolina,SEC,N,Houston,W,44,36,19,29,323,4,41,189,2,15,10,9,93,0,1
+2006-08-31,Ball State,MAC,H,Eastern Michigan,W,38,20,17,28,230,4,36,159,1,12,8,3,20,0,0
+2006-09-09,Ball State,MAC,H,Indiana,L,23,24,21,33,289,3,22,41,0,8,3,7,80,0,1
+2006-09-16,Ball State,MAC,A,Purdue,L,28,38,24,37,291,2,29,61,1,13,5,6,33,1,1
+2006-09-30,Ball State,MAC,H,Northern Illinois,L,28,40,29,40,307,4,26,78,0,16,5,5,50,1,0
+2006-10-07,Ball State,MAC,A,Buffalo,W,55,25,12,15,262,3,42,232,3,9,10,5,46,0,1
+2006-10-14,Ball State,MAC,A,Central Michigan,L,7,18,23,30,160,0,25,53,1,8,3,7,80,3,2
+2006-10-21,Ball State,MAC,H,Western Michigan,L,27,41,28,38,360,3,29,9,0,14,3,7,55,0,3
+2006-10-28,Ball State,MAC,A,Miami (OH),W,20,17,11,24,98,2,38,128,0,5,6,5,39,1,1
+2006-11-04,Ball State,MAC,A,Michigan,L,26,34,18,34,250,1,22,47,1,9,2,3,25,0,1
+2006-11-14,Ball State,MAC,A,Toledo,W,20,17,15,31,212,2,34,144,0,8,6,3,41,0,0
+2006-11-24,Ball State,MAC,H,Kent State,W,30,6,16,31,268,1,39,137,2,11,4,4,45,0,1
+2006-09-02,San Jose State,WAC,A,Washington,L,29,35,28,37,323,3,29,50,0,15,2,5,30,0,0
+2006-09-09,San Jose State,WAC,H,Stanford,W,35,34,15,17,115,1,49,342,4,9,15,4,40,1,1
+2006-09-30,San Jose State,WAC,H,San Diego State,W,31,10,19,23,282,3,36,136,1,9,8,5,45,2,0
+2006-10-14,San Jose State,WAC,H,Utah State,W,21,14,15,28,252,2,30,123,1,11,7,1,15,2,2
+2006-10-21,San Jose State,WAC,A,Nevada,L,7,23,10,22,77,1,27,162,0,4,7,8,47,2,1
+2006-10-28,San Jose State,WAC,H,Louisiana Tech,W,44,10,11,17,168,2,58,476,4,6,18,4,27,0,0
+2006-11-04,San Jose State,WAC,A,New Mexico State,W,31,21,9,16,105,1,50,256,2,7,12,2,29,1,0
+2006-11-11,San Jose State,WAC,H,Boise State,L,20,23,17,23,173,3,27,75,0,9,4,5,32,0,0
+2006-11-18,San Jose State,WAC,A,Hawaii,L,17,54,7,17,110,0,38,82,2,4,3,3,35,2,1
+2006-11-25,San Jose State,WAC,A,Idaho,W,28,13,10,17,179,1,42,156,3,5,7,8,67,1,1
+2006-12-02,San Jose State,WAC,H,Fresno State,W,24,14,15,27,216,3,36,187,0,8,9,4,20,1,1
+2006-12-23,San Jose State,WAC,A,New Mexico,W,20,12,11,18,209,3,28,71,0,7,1,7,50,0,0
+2006-09-02,Bowling Green State,MAC,H,Wisconsin,L,14,35,12,19,82,0,46,219,2,4,13,5,47,0,0
+2006-09-09,Bowling Green State,MAC,H,Buffalo,W,48,40,18,26,214,3,58,356,4,9,20,8,51,1,1
+2006-09-16,Bowling Green State,MAC,A,Florida International,W,33,28,18,34,242,2,45,161,1,11,9,6,52,0,2
+2006-09-23,Bowling Green State,MAC,H,Kent State,L,3,38,15,31,125,0,45,157,0,6,9,5,45,3,3
+2006-09-30,Bowling Green State,MAC,A,Ohio,W,21,9,10,19,108,0,44,148,3,4,9,5,45,1,0
+2006-10-07,Bowling Green State,MAC,A,Ohio State,L,7,35,16,26,179,1,35,160,0,11,4,5,43,0,1
+2006-10-14,Bowling Green State,MAC,H,Eastern Michigan,W,24,21,14,24,165,1,42,159,2,6,11,3,35,1,0
+2006-10-19,Bowling Green State,MAC,A,Central Michigan,L,14,31,16,30,187,1,42,130,1,8,7,6,50,0,1
+2006-10-28,Bowling Green State,MAC,A,Temple,L,14,28,19,36,158,0,46,249,2,9,14,7,80,1,2
+2006-11-04,Bowling Green State,MAC,A,Akron,L,28,35,20,36,192,1,38,176,3,10,9,10,83,0,0
+2006-11-15,Bowling Green State,MAC,H,Miami (OH),L,7,9,13,24,131,0,33,129,1,4,8,2,20,0,0
+2006-11-21,Bowling Green State,MAC,A,Toledo,L,21,31,24,42,246,3,31,76,0,14,4,4,27,0,1
+2006-09-02,USC,Pac-10,A,Arkansas,W,50,14,25,38,280,3,42,192,3,13,12,7,50,0,0
+2006-09-16,USC,Pac-10,H,Nebraska,W,28,10,25,37,257,3,31,142,1,15,8,7,46,0,0
+2006-09-23,USC,Pac-10,A,Arizona,W,20,3,24,39,179,1,42,202,1,10,12,3,23,1,1
+2006-09-30,USC,Pac-10,A,Washington State,W,28,22,23,32,269,3,32,135,1,13,6,7,90,1,1
+2006-10-07,USC,Pac-10,H,Washington,W,26,20,24,41,263,2,32,148,0,11,10,8,70,0,1
+2006-10-14,USC,Pac-10,H,Arizona State,W,28,21,12,25,148,2,36,159,2,7,9,6,61,1,1
+2006-10-28,USC,Pac-10,A,Oregon State,L,31,33,24,39,406,3,27,86,1,15,6,6,42,3,1
+2006-11-04,USC,Pac-10,A,Stanford,W,42,0,14,25,247,3,32,108,2,12,6,2,15,0,0
+2006-11-11,USC,Pac-10,H,Oregon,W,35,10,17,28,213,1,27,130,4,10,7,7,60,0,3
+2006-11-18,USC,Pac-10,H,California,W,23,9,18,31,238,2,31,120,0,13,5,10,71,0,0
+2006-11-25,USC,Pac-10,H,Notre Dame,W,44,24,17,28,265,3,32,139,2,13,7,6,42,0,2
+2006-12-02,USC,Pac-10,A,UCLA,L,9,13,23,39,274,0,29,55,1,10,4,9,55,0,1
+2007-01-01,USC,Pac-10,H,Michigan,W,32,18,27,45,391,4,23,48,0,17,4,3,27,1,0
+2006-08-31,San Diego State,MWC,H,UTEP,L,27,34,24,30,275,0,46,109,3,10,12,5,39,1,2
+2006-09-16,San Diego State,MWC,A,Wisconsin,L,0,14,15,27,102,0,26,13,0,3,2,3,26,1,0
+2006-09-23,San Diego State,MWC,H,Utah,L,7,38,9,20,83,1,45,204,0,4,10,8,49,0,5
+2006-09-30,San Diego State,MWC,A,San Jose State,L,10,31,10,16,76,0,39,163,1,1,8,11,103,1,2
+2006-10-07,San Diego State,MWC,A,Brigham Young,L,17,47,20,32,216,0,38,141,2,12,7,10,110,1,1
+2006-10-21,San Diego State,MWC,H,Air Force,W,19,12,12,19,133,1,30,151,0,5,9,5,36,0,0
+2006-11-04,San Diego State,MWC,A,Wyoming,L,24,27,10,21,192,2,20,40,0,5,4,11,98,0,1
+2006-11-11,San Diego State,MWC,H,Nevada-Las Vegas,W,21,7,16,21,136,0,47,141,2,7,8,3,38,1,1
+2006-11-18,San Diego State,MWC,A,Texas Christian,L,0,52,11,25,56,0,24,31,0,3,2,2,10,0,2
+2006-11-25,San Diego State,MWC,A,New Mexico,L,14,41,27,49,327,2,34,104,0,16,8,1,15,1,3
+2006-12-02,San Diego State,MWC,H,Colorado State,W,17,6,7,19,51,0,32,184,2,2,6,7,56,1,0
+2006-08-31,Eastern Michigan,MAC,A,Ball State,L,20,38,18,28,209,1,38,226,1,10,11,8,60,0,1
+2006-09-09,Eastern Michigan,MAC,A,Michigan State,L,20,52,19,31,230,2,28,42,0,9,3,6,42,1,0
+2006-09-16,Eastern Michigan,MAC,A,Northwestern,L,6,14,9,25,47,0,28,87,0,1,4,7,55,0,2
+2006-09-23,Eastern Michigan,MAC,H,Central Michigan,L,17,24,22,32,157,1,47,188,1,10,13,8,65,0,0
+2006-09-30,Eastern Michigan,MAC,A,Louisiana,L,14,33,23,35,171,0,24,75,2,8,5,9,67,1,0
+2006-10-14,Eastern Michigan,MAC,A,Bowling Green State,L,21,24,25,39,248,2,26,82,1,11,6,5,56,0,3
+2006-10-21,Eastern Michigan,MAC,H,Toledo,W,17,13,17,27,196,0,37,133,1,9,8,9,62,0,1
+2006-10-28,Eastern Michigan,MAC,A,Western Michigan,L,15,18,22,39,220,1,32,65,0,10,4,12,105,0,2
+2006-11-04,Eastern Michigan,MAC,H,Ohio,L,10,16,13,25,107,0,33,120,1,6,5,7,60,0,1
+2006-11-11,Eastern Michigan,MAC,H,Navy,L,21,49,24,37,220,0,29,138,3,11,9,6,55,1,2
+2006-11-17,Eastern Michigan,MAC,A,Kent State,L,6,14,15,34,174,0,28,68,0,9,3,3,22,1,4
+2006-11-24,Eastern Michigan,MAC,H,Northern Illinois,L,0,27,10,18,67,0,24,45,0,4,2,8,60,1,0
+2006-08-31,Florida International,Sun Belt,A,Middle Tennessee State,L,6,7,22,39,150,0,25,97,1,10,3,4,40,1,0
+2006-09-09,Florida International,Sun Belt,A,South Florida,L,20,21,20,33,238,1,31,24,0,10,1,8,60,1,1
+2006-09-16,Florida International,Sun Belt,H,Bowling Green State,L,28,33,14,23,145,0,28,187,3,5,8,11,69,1,3
+2006-09-23,Florida International,Sun Belt,A,Maryland,L,10,14,15,34,221,1,19,89,0,7,3,6,50,0,1
+2006-09-30,Florida International,Sun Belt,H,Arkansas State,L,6,31,18,35,177,0,19,9,1,8,2,12,121,1,3
+2006-10-07,Florida International,Sun Belt,A,North Texas,L,22,25,29,43,248,1,35,75,0,10,3,9,85,2,0
+2006-10-14,Florida International,Sun Belt,A,Miami (FL),L,0,35,12,25,86,0,31,28,0,7,2,9,65,1,2
+2006-10-28,Florida International,Sun Belt,A,Alabama,L,3,38,9,26,135,0,27,40,0,5,1,6,59,1,1
+2006-11-11,Florida International,Sun Belt,H,Louisiana-Monroe,L,0,35,19,36,200,0,21,10,0,7,1,5,54,2,1
+2006-11-18,Florida International,Sun Belt,H,Louisiana,L,7,17,17,32,137,1,19,53,0,6,2,6,45,0,1
+2006-11-25,Florida International,Sun Belt,N,Florida Atlantic,L,0,31,15,31,153,0,19,50,0,7,5,6,73,0,1
+2006-12-02,Florida International,Sun Belt,H,Troy,L,13,26,30,51,225,1,25,20,0,12,6,5,48,1,1
+2006-08-31,Temple,Ind,A,Buffalo,L,3,9,20,25,103,0,27,80,0,6,6,7,43,0,1
+2006-09-09,Temple,Ind,H,Louisville,L,0,62,14,29,214,0,27,16,0,7,3,4,45,1,1
+2006-09-16,Temple,Ind,A,Minnesota,L,0,62,17,30,96,0,29,61,0,5,2,5,30,1,2
+2006-09-23,Temple,Ind,A,Western Michigan,L,7,41,12,26,140,0,29,9,1,7,4,5,40,1,3
+2006-09-30,Temple,Ind,A,Vanderbilt,L,14,43,11,17,148,1,40,122,1,6,4,4,41,1,2
+2006-10-07,Temple,Ind,H,Kent State,L,17,28,14,26,144,1,25,50,1,8,3,10,64,1,0
+2006-10-12,Temple,Ind,A,Clemson,L,9,63,13,25,110,1,29,111,0,6,5,10,65,1,0
+2006-10-21,Temple,Ind,A,Northern Illinois,L,21,43,20,29,322,3,22,-6,0,10,2,4,25,2,1
+2006-10-28,Temple,Ind,H,Bowling Green State,W,28,14,10,13,162,2,28,94,1,5,5,9,81,0,2
+2006-11-04,Temple,Ind,H,Central Michigan,L,26,42,25,36,231,4,33,78,0,13,8,2,10,1,0
+2006-11-11,Temple,Ind,A,Penn State,L,0,47,8,19,58,0,29,16,0,2,0,8,60,2,1
+2006-11-18,Temple,Ind,A,Navy,L,6,42,20,33,216,1,27,13,0,9,2,7,55,0,2
+2006-09-02,Louisiana,Sun Belt,A,LSU,L,3,45,7,17,63,0,35,113,0,4,4,9,78,0,2
+2006-09-09,Louisiana,Sun Belt,A,Texas A&M,L,7,51,2,12,17,0,38,154,1,1,8,4,35,2,0
+2006-09-30,Louisiana,Sun Belt,H,Eastern Michigan,W,33,14,17,23,202,2,41,179,2,9,8,4,34,0,0
+2006-10-07,Louisiana,Sun Belt,A,Houston,W,31,28,15,29,146,1,44,269,2,8,14,6,52,0,1
+2006-10-18,Louisiana,Sun Belt,A,Florida Atlantic,W,6,0,11,21,84,0,37,144,0,3,6,9,61,1,1
+2006-10-28,Louisiana,Sun Belt,H,Middle Tennessee State,L,20,34,12,24,182,1,30,154,0,8,8,4,29,2,4
+2006-11-04,Louisiana,Sun Belt,A,Troy,L,28,42,16,30,230,2,38,170,2,9,9,8,68,0,1
+2006-11-11,Louisiana,Sun Belt,H,North Texas,L,7,16,17,29,168,1,32,40,0,8,5,2,20,1,0
+2006-11-18,Louisiana,Sun Belt,A,Florida International,W,17,7,8,20,84,0,55,270,2,5,13,4,20,1,1
+2006-11-25,Louisiana,Sun Belt,H,Arkansas State,W,28,13,10,18,107,0,41,265,4,7,8,4,32,1,1
+2006-12-02,Louisiana,Sun Belt,H,Louisiana-Monroe,L,20,39,22,42,189,1,41,173,2,11,12,8,52,0,3
+2006-09-09,UCF,CUSA,A,Florida,L,0,42,17,36,132,0,24,21,0,8,1,6,30,0,0
+2006-09-16,UCF,CUSA,H,South Florida,L,17,24,19,44,219,1,34,140,0,9,10,7,60,0,2
+2006-09-26,UCF,CUSA,H,Southern Mississippi,L,14,19,18,31,191,1,39,134,1,8,8,3,25,1,1
+2006-10-04,UCF,CUSA,A,Marshall,W,23,22,16,26,213,1,43,275,1,10,12,4,40,0,0
+2006-10-13,UCF,CUSA,H,Pitt,L,7,52,18,29,210,0,42,110,1,11,7,5,60,3,1
+2006-10-21,UCF,CUSA,H,Rice,L,29,40,27,42,327,3,35,155,0,16,7,5,53,1,1
+2006-10-28,UCF,CUSA,A,Houston,L,31,51,18,31,282,1,47,248,3,11,13,8,70,2,2
+2006-11-04,UCF,CUSA,H,East Carolina,L,10,23,18,34,205,0,26,58,1,11,3,5,57,0,2
+2006-11-11,UCF,CUSA,A,Memphis,W,26,24,19,28,319,2,44,148,0,13,10,2,20,0,0
+2006-11-18,UCF,CUSA,A,Tulane,L,9,10,22,35,230,0,32,74,0,12,2,5,39,1,0
+2006-11-25,UCF,CUSA,H,UAB,W,31,22,20,25,278,2,38,205,2,14,9,3,20,1,1
+2006-08-31,Toledo,MAC,A,Iowa State,L,43,45,39,49,367,3,27,45,3,17,5,6,58,1,1
+2006-09-09,Toledo,MAC,A,Western Michigan,L,10,31,18,31,218,0,32,88,1,10,6,8,50,1,3
+2006-09-15,Toledo,MAC,H,Kansas,W,37,31,15,47,136,1,30,101,3,8,4,11,113,0,0
+2006-09-30,Toledo,MAC,A,Pitt,L,3,45,18,36,106,0,35,124,0,7,8,7,68,2,2
+2006-10-07,Toledo,MAC,H,Central Michigan,L,20,42,32,53,313,3,41,174,0,13,13,10,113,2,2
+2006-10-14,Toledo,MAC,A,Kent State,L,14,40,17,31,132,2,38,102,0,5,8,3,30,2,2
+2006-10-21,Toledo,MAC,A,Eastern Michigan,L,13,17,18,31,143,1,37,175,1,7,11,8,77,0,0
+2006-10-28,Toledo,MAC,H,Akron,W,35,20,9,17,139,0,50,175,4,6,10,9,100,1,0
+2006-11-07,Toledo,MAC,A,Northern Illinois,W,17,13,8,21,49,1,49,238,1,2,14,7,73,0,1
+2006-11-14,Toledo,MAC,H,Ball State,L,17,20,14,27,152,1,40,226,1,9,8,3,24,1,0
+2006-11-21,Toledo,MAC,H,Bowling Green State,W,31,21,10,13,107,0,47,208,3,5,10,6,60,0,0
+2006-09-07,Boise State,WAC,H,Oregon State,W,42,14,8,14,105,1,42,302,5,4,14,7,50,1,0
+2006-09-16,Boise State,WAC,A,Wyoming,W,17,10,12,21,116,0,41,130,1,6,10,7,55,0,0
+2006-09-23,Boise State,WAC,H,Hawaii,W,41,34,17,29,273,3,44,242,2,11,14,9,90,0,1
+2006-09-30,Boise State,WAC,A,Utah,W,36,3,15,22,210,1,42,188,2,9,9,5,35,1,2
+2006-10-07,Boise State,WAC,H,Louisiana Tech,W,55,14,15,23,224,2,42,265,4,10,11,6,62,3,0
+2006-10-15,Boise State,WAC,A,New Mexico State,W,40,28,14,21,215,2,42,255,4,9,13,6,55,1,1
+2006-10-21,Boise State,WAC,A,Idaho,W,42,26,10,23,145,2,37,208,4,5,11,5,50,0,1
+2006-11-01,Boise State,WAC,H,Fresno State,W,45,21,19,25,180,3,47,300,3,8,14,5,31,0,1
+2006-11-11,Boise State,WAC,A,San Jose State,W,23,20,14,20,181,0,44,160,2,8,12,3,24,0,1
+2006-11-18,Boise State,WAC,H,Utah State,W,49,10,25,27,257,4,41,231,3,12,11,6,66,2,0
+2006-11-25,Boise State,WAC,A,Nevada,W,38,7,20,27,299,1,52,178,4,11,14,5,41,0,1
+2007-01-01,Boise State,WAC,N,Oklahoma,W,43,42,20,30,267,4,35,110,1,10,6,8,63,2,1
+2006-09-02,North Texas,Sun Belt,A,Texas,L,7,56,9,19,87,1,28,8,0,3,2,11,58,2,0
+2006-09-09,North Texas,Sun Belt,H,SMU,W,24,6,12,17,145,0,38,168,2,7,7,5,50,1,0
+2006-09-16,North Texas,Sun Belt,A,Tulsa,L,3,28,6,11,62,0,31,27,0,3,2,6,45,1,2
+2006-09-23,North Texas,Sun Belt,A,Akron,L,13,33,17,36,112,1,36,175,1,8,9,7,66,1,2
+2006-09-30,North Texas,Sun Belt,H,Middle Tennessee State,L,0,35,7,16,63,0,24,40,0,4,4,4,28,1,2
+2006-10-07,North Texas,Sun Belt,H,Florida International,W,25,22,19,32,161,1,55,108,0,8,6,10,93,0,3
+2006-10-21,North Texas,Sun Belt,A,Arkansas State,L,10,29,11,16,103,1,31,160,0,3,10,6,35,1,1
+2006-10-28,North Texas,Sun Belt,A,Troy,L,6,14,11,25,147,0,35,83,0,6,4,8,65,0,0
+2006-11-04,North Texas,Sun Belt,H,Louisiana Tech,L,31,34,13,26,227,3,45,188,1,9,8,5,45,2,3
+2006-11-11,North Texas,Sun Belt,A,Louisiana,W,16,7,9,16,128,2,49,119,0,7,6,3,30,0,1
+2006-11-18,North Texas,Sun Belt,H,Florida Atlantic,L,16,17,11,18,84,0,40,254,1,4,12,4,43,1,3
+2006-11-25,North Texas,Sun Belt,A,Louisiana-Monroe,L,3,23,11,21,63,0,25,74,0,2,5,7,61,0,2
+2006-09-02,Brigham Young,MWC,A,Arizona,L,13,16,28,37,289,1,24,24,0,12,3,10,76,2,0
+2006-09-09,Brigham Young,MWC,H,Tulsa,W,49,24,17,24,247,4,41,220,3,9,11,11,90,0,0
+2006-09-16,Brigham Young,MWC,A,Boston College,L,23,30,38,60,436,1,30,111,1,22,5,10,67,1,2
+2006-09-23,Brigham Young,MWC,H,Utah State,W,38,0,20,28,305,1,34,136,3,18,4,4,55,0,1
+2006-09-28,Brigham Young,MWC,A,Texas Christian,W,31,17,23,37,321,3,34,72,1,16,4,6,57,0,0
+2006-10-07,Brigham Young,MWC,H,San Diego State,W,47,17,16,21,267,4,32,152,2,11,8,5,17,1,0
+2006-10-21,Brigham Young,MWC,H,Nevada-Las Vegas,W,52,7,20,25,266,4,41,308,3,11,15,12,114,0,1
+2006-10-28,Brigham Young,MWC,A,Air Force,W,33,14,23,31,258,3,34,153,1,16,6,8,50,0,0
+2006-11-04,Brigham Young,MWC,A,Colorado State,W,24,3,22,30,290,0,37,112,3,15,6,6,40,0,1
+2006-11-09,Brigham Young,MWC,H,Wyoming,W,55,7,20,26,313,2,43,141,4,12,6,5,35,0,0
+2006-11-18,Brigham Young,MWC,H,New Mexico,W,42,17,28,42,464,4,32,189,2,20,9,4,45,0,2
+2006-11-25,Brigham Young,MWC,A,Utah,W,33,31,28,44,375,4,24,54,1,19,5,6,53,0,0
+2006-12-21,Brigham Young,MWC,N,Oregon,W,38,8,28,47,375,2,31,173,3,18,8,7,70,0,2
+2006-09-02,Florida Atlantic,Sun Belt,A,Clemson,L,6,54,20,43,216,0,34,47,0,12,5,4,35,3,1
+2006-09-09,Florida Atlantic,Sun Belt,A,Kansas State,L,0,45,12,25,141,0,42,59,0,7,4,12,110,0,1
+2006-09-16,Florida Atlantic,Sun Belt,A,Oklahoma State,L,8,48,16,28,166,0,35,49,1,8,4,4,25,1,2
+2006-09-23,Florida Atlantic,Sun Belt,A,South Carolina,L,6,45,8,25,105,1,35,138,0,7,5,9,77,1,1
+2006-09-30,Florida Atlantic,Sun Belt,A,Louisiana-Monroe,W,21,19,13,19,185,1,38,151,2,8,10,5,31,0,0
+2006-10-18,Florida Atlantic,Sun Belt,H,Louisiana,L,0,6,18,34,150,0,26,87,0,6,3,6,55,2,2
+2006-10-28,Florida Atlantic,Sun Belt,H,Arkansas State,W,29,0,9,20,91,1,46,178,1,6,10,6,91,0,1
+2006-11-04,Florida Atlantic,Sun Belt,A,Middle Tennessee State,L,14,35,21,39,267,1,45,103,1,16,7,4,21,2,2
+2006-11-11,Florida Atlantic,Sun Belt,H,Troy,L,17,24,24,37,312,2,27,35,0,12,5,7,50,0,2
+2006-11-18,Florida Atlantic,Sun Belt,A,North Texas,W,17,16,12,25,107,0,38,132,1,5,11,4,46,0,0
+2006-11-25,Florida Atlantic,Sun Belt,N,Florida International,W,31,0,15,22,219,2,45,142,2,12,8,4,35,0,0
+2006-09-03,Memphis,CUSA,A,Ole Miss,L,25,28,23,31,225,3,37,149,0,15,6,2,15,1,0
+2006-09-16,Memphis,CUSA,A,East Carolina,L,20,35,25,46,296,3,30,95,0,15,7,1,8,1,5
+2006-09-30,Memphis,CUSA,H,Tennessee,L,7,41,11,17,79,1,20,42,0,3,1,4,22,0,1
+2006-10-07,Memphis,CUSA,A,UAB,L,29,35,22,30,303,3,27,77,0,11,6,4,40,1,1
+2006-10-14,Memphis,CUSA,H,Arkansas State,L,23,26,13,28,215,2,31,127,0,9,8,9,80,0,0
+2006-10-21,Memphis,CUSA,H,Tulsa,L,14,35,24,38,157,1,29,75,1,8,10,2,23,0,1
+2006-10-28,Memphis,CUSA,A,Marshall,L,27,41,26,42,322,2,37,147,1,13,8,7,53,1,3
+2006-11-05,Memphis,CUSA,H,Southern Mississippi,L,21,42,12,34,151,1,32,158,2,6,9,6,60,0,0
+2006-11-11,Memphis,CUSA,H,UCF,L,24,26,28,43,287,3,19,78,0,13,4,2,20,0,0
+2006-11-18,Memphis,CUSA,H,Houston,L,20,23,13,27,114,0,35,135,1,5,7,6,51,1,2
+2006-11-25,Memphis,CUSA,A,UTEP,W,38,19,16,26,218,0,43,158,5,5,9,5,41,0,0
+2006-09-02,Army,Ind,A,Arkansas State,L,6,14,12,23,95,0,27,69,0,5,4,7,56,1,2
+2006-09-09,Army,Ind,H,Kent State,W,17,14,14,28,104,0,47,171,2,8,9,6,50,0,2
+2006-09-16,Army,Ind,A,Texas A&M,L,24,28,17,32,136,0,39,186,3,9,10,5,48,0,3
+2006-09-23,Army,Ind,A,Baylor,W,27,20,15,22,138,1,38,140,1,7,9,6,64,1,0
+2006-09-30,Army,Ind,H,Rice,L,14,48,14,30,162,1,31,140,1,10,7,5,51,3,1
+2006-10-14,Army,Ind,A,Connecticut,L,7,21,16,30,155,1,32,97,0,8,4,3,30,1,3
+2006-10-21,Army,Ind,H,Texas Christian,L,17,31,12,24,110,0,29,86,2,5,3,0,0,2,3
+2006-10-28,Army,Ind,A,Tulane,L,28,42,16,24,194,3,23,73,0,8,6,1,5,0,2
+2006-11-03,Army,Ind,H,Air Force,L,7,43,12,21,116,1,27,131,0,6,6,2,20,2,4
+2006-11-18,Army,Ind,A,Notre Dame,L,9,41,8,21,92,1,36,58,0,5,5,4,35,1,2
+2006-12-02,Army,Ind,N,Navy,L,14,26,16,23,151,1,36,102,1,8,7,6,39,0,2
+2006-09-02,Auburn,SEC,H,Washington State,W,40,14,11,19,191,1,44,293,3,8,12,3,40,0,0
+2006-09-09,Auburn,SEC,A,Mississippi State,W,34,0,22,32,277,2,36,111,2,13,7,4,30,2,0
+2006-09-16,Auburn,SEC,H,LSU,W,7,3,11,20,110,0,38,72,1,5,7,4,35,0,1
+2006-09-23,Auburn,SEC,H,Buffalo,W,38,7,10,14,153,0,36,261,5,5,14,7,52,0,1
+2006-09-28,Auburn,SEC,A,South Carolina,W,24,17,13,19,180,1,35,127,2,9,7,8,50,1,0
+2006-10-07,Auburn,SEC,H,Arkansas,L,10,27,17,29,153,1,31,60,0,8,8,5,45,0,0
+2006-10-14,Auburn,SEC,H,Florida,W,27,17,18,27,182,0,40,133,0,9,9,4,40,1,0
+2006-10-21,Auburn,SEC,H,Tulane,W,38,13,16,19,212,3,41,220,2,8,10,4,35,1,0
+2006-10-28,Auburn,SEC,A,Ole Miss,W,23,17,21,34,253,1,41,175,1,14,11,9,84,1,1
+2006-11-04,Auburn,SEC,H,Arkansas State,W,27,0,12,22,251,2,28,148,1,8,7,7,57,1,3
+2006-11-11,Auburn,SEC,H,Georgia,L,15,37,4,12,35,1,25,136,1,2,6,4,35,0,4
+2006-11-18,Auburn,SEC,A,Alabama,W,22,15,6,14,137,1,40,124,2,5,8,7,47,1,0
+2007-01-01,Auburn,SEC,N,Nebraska,W,17,14,10,21,111,1,35,67,1,6,5,6,45,2,0
+2006-09-02,Marshall,CUSA,A,West Virginia,L,10,42,12,22,168,1,34,154,0,8,6,11,120,0,1
+2006-09-16,Marshall,CUSA,A,Kansas State,L,7,23,16,28,92,0,22,50,0,3,3,9,72,1,2
+2006-09-23,Marshall,CUSA,A,Tennessee,L,7,33,8,14,110,0,48,126,1,3,11,4,21,1,1
+2006-10-04,Marshall,CUSA,H,UCF,L,22,23,14,22,136,1,35,230,1,9,11,5,44,0,1
+2006-10-14,Marshall,CUSA,A,SMU,L,21,31,19,32,192,1,27,107,2,11,5,7,52,1,3
+2006-10-21,Marshall,CUSA,A,UAB,W,31,24,9,12,156,1,46,317,3,6,15,5,31,0,2
+2006-10-28,Marshall,CUSA,H,Memphis,W,41,27,15,24,278,3,31,130,2,10,6,5,39,2,0
+2006-11-04,Marshall,CUSA,H,Tulane,W,42,21,25,33,340,4,32,134,1,16,7,3,20,1,2
+2006-11-11,Marshall,CUSA,A,East Carolina,L,20,33,25,46,305,1,14,35,2,15,0,2,21,2,1
+2006-11-18,Marshall,CUSA,H,UTEP,W,49,21,5,15,135,1,48,259,6,5,12,7,74,1,1
+2006-11-25,Marshall,CUSA,A,Southern Mississippi,L,7,42,7,14,129,0,31,150,1,5,7,9,75,2,2
+2006-08-31,UTEP,CUSA,A,San Diego State,W,34,27,20,29,213,3,19,30,1,9,1,0,0,0,4
+2006-09-09,UTEP,CUSA,H,Texas Tech,L,35,38,35,52,375,4,26,120,1,22,3,8,84,0,2
+2006-09-23,UTEP,CUSA,A,New Mexico,L,13,26,26,37,211,1,23,30,0,11,4,5,26,1,0
+2006-09-30,UTEP,CUSA,H,New Mexico State,W,44,38,18,26,414,3,27,123,1,13,5,9,82,1,2
+2006-10-07,UTEP,CUSA,H,SMU,W,24,21,26,37,298,2,39,89,0,15,5,6,55,1,1
+2006-10-14,UTEP,CUSA,H,Tulane,W,34,20,24,33,230,3,36,135,0,8,7,10,80,0,0
+2006-10-21,UTEP,CUSA,A,Houston,L,17,34,19,30,206,0,23,30,2,10,2,5,35,0,1
+2006-10-27,UTEP,CUSA,A,Tulsa,L,20,30,21,37,253,1,18,40,1,9,2,6,62,0,1
+2006-11-04,UTEP,CUSA,H,Rice,L,31,37,16,34,315,4,18,73,0,13,3,9,87,0,1
+2006-11-10,UTEP,CUSA,A,UAB,W,36,17,25,40,455,5,22,1,0,15,1,4,30,1,0
+2006-11-18,UTEP,CUSA,A,Marshall,L,21,49,34,48,386,1,21,15,2,14,4,7,70,2,3
+2006-11-25,UTEP,CUSA,H,Memphis,L,19,38,26,44,398,2,16,5,0,13,1,4,40,2,2
+2006-09-02,LSU,SEC,H,Louisiana,W,45,3,17,23,299,3,36,170,2,12,9,6,55,2,0
+2006-09-09,LSU,SEC,H,Arizona,W,45,3,16,23,230,2,38,231,3,10,11,5,32,2,1
+2006-09-16,LSU,SEC,A,Auburn,L,3,7,20,37,269,0,23,42,0,12,3,7,50,0,0
+2006-09-23,LSU,SEC,H,Tulane,W,49,7,18,28,201,2,32,172,5,12,9,12,90,0,0
+2006-09-30,LSU,SEC,H,Mississippi State,W,48,17,19,23,338,3,38,108,4,12,7,3,37,1,1
+2006-10-07,LSU,SEC,A,Florida,L,10,23,24,41,228,1,25,90,0,11,8,5,30,2,3
+2006-10-14,LSU,SEC,H,Kentucky,W,49,0,19,25,278,4,43,268,3,13,13,8,41,0,0
+2006-10-21,LSU,SEC,H,Fresno State,W,38,6,15,19,210,2,32,184,2,7,10,4,23,0,0
+2006-11-04,LSU,SEC,A,Tennessee,W,28,24,24,36,247,3,45,231,1,12,16,9,58,1,3
+2006-11-11,LSU,SEC,H,Alabama,W,28,14,18,21,207,3,34,211,1,7,13,7,61,0,0
+2006-11-18,LSU,SEC,H,Ole Miss,W,23,20,20,36,223,3,31,85,0,8,8,6,60,1,0
+2006-11-24,LSU,SEC,A,Arkansas,W,31,26,14,22,210,2,36,118,1,8,6,2,25,2,0
+2007-01-03,LSU,SEC,N,Notre Dame,W,41,14,21,34,332,2,37,245,3,14,16,9,95,1,1
+2006-09-09,Tulsa,CUSA,A,Brigham Young,L,24,49,21,35,221,1,31,82,2,14,3,3,28,0,1
+2006-09-16,Tulsa,CUSA,H,North Texas,W,28,3,23,35,275,2,30,126,2,10,8,7,55,0,2
+2006-09-23,Tulsa,CUSA,A,Navy,W,24,23,24,36,285,3,30,159,0,11,8,3,25,0,0
+2006-10-03,Tulsa,CUSA,H,Southern Mississippi,W,20,6,16,25,201,0,38,252,3,10,11,12,109,2,0
+2006-10-14,Tulsa,CUSA,A,East Carolina,W,31,10,15,21,124,1,54,234,3,7,14,4,25,1,1
+2006-10-21,Tulsa,CUSA,A,Memphis,W,35,14,17,20,217,1,33,139,4,9,9,5,55,0,1
+2006-10-27,Tulsa,CUSA,H,UTEP,W,30,20,16,23,176,1,46,154,1,7,9,5,59,1,1
+2006-11-04,Tulsa,CUSA,A,Houston,L,10,27,16,34,136,0,24,113,1,9,5,2,15,1,1
+2006-11-11,Tulsa,CUSA,H,Rice,L,38,41,17,29,308,1,52,260,4,12,13,8,64,3,1
+2006-11-18,Tulsa,CUSA,A,SMU,L,24,34,22,30,230,1,36,126,2,15,4,4,26,1,0
+2006-11-24,Tulsa,CUSA,H,Tulane,W,38,3,16,22,267,1,38,191,4,11,10,6,45,0,0
+2006-12-23,Tulsa,CUSA,N,Utah,L,13,25,20,27,158,0,29,96,2,7,6,4,36,1,1
+2006-09-09,Air Force,MWC,A,Tennessee,L,30,31,7,9,127,0,51,281,4,7,15,3,25,0,0
+2006-09-23,Air Force,MWC,A,Wyoming,W,31,24,3,7,40,1,70,327,3,3,19,5,45,1,0
+2006-09-30,Air Force,MWC,H,New Mexico,W,24,7,3,6,19,0,62,262,3,1,15,4,35,0,1
+2006-10-07,Air Force,MWC,H,Navy,L,17,24,9,19,119,1,46,193,1,7,11,5,50,1,0
+2006-10-12,Air Force,MWC,H,Colorado State,W,24,21,8,13,102,2,64,318,1,6,17,2,20,2,0
+2006-10-21,Air Force,MWC,A,San Diego State,L,12,19,4,7,47,0,65,297,1,1,21,6,55,1,1
+2006-10-28,Air Force,MWC,H,Brigham Young,L,14,33,4,10,39,0,49,190,2,2,13,1,10,1,1
+2006-11-03,Air Force,MWC,A,Army,W,43,7,2,5,44,1,63,267,4,1,17,1,5,1,0
+2006-11-11,Air Force,MWC,H,Notre Dame,L,17,39,14,19,205,2,60,200,0,10,11,5,50,0,0
+2006-11-18,Air Force,MWC,H,Utah,L,14,17,16,22,218,1,41,116,1,8,8,4,20,0,0
+2006-11-24,Air Force,MWC,A,Nevada-Las Vegas,L,39,42,10,18,211,4,45,204,1,7,12,6,63,0,0
+2006-12-02,Air Force,MWC,A,Texas Christian,L,14,38,4,11,44,0,44,98,1,2,8,5,30,3,1
+2006-09-02,Oregon,Pac-10,H,Stanford,W,48,10,21,30,236,1,41,298,4,12,15,9,120,1,0
+2006-09-09,Oregon,Pac-10,A,Fresno State,W,31,24,23,36,240,0,34,139,4,13,7,7,70,1,0
+2006-09-16,Oregon,Pac-10,H,Oklahoma,W,34,33,27,42,343,2,32,158,2,14,11,6,49,2,2
+2006-09-30,Oregon,Pac-10,A,Arizona State,W,48,13,23,37,259,4,40,315,2,13,12,10,71,1,0
+2006-10-07,Oregon,Pac-10,A,California,L,24,45,21,36,288,2,29,70,1,14,6,6,44,1,3
+2006-10-14,Oregon,Pac-10,H,UCLA,W,30,20,11,22,148,3,43,256,1,7,11,8,56,1,1
+2006-10-21,Oregon,Pac-10,A,Washington State,L,23,34,28,47,367,2,31,104,0,16,8,8,45,2,2
+2006-11-04,Oregon,Pac-10,H,Washington,W,34,14,18,30,138,0,54,316,3,9,20,3,17,1,2
+2006-11-11,Oregon,Pac-10,A,USC,L,10,35,30,48,256,1,40,102,0,15,8,12,87,1,1
+2006-11-18,Oregon,Pac-10,H,Arizona,L,10,37,25,45,183,0,26,163,1,10,7,2,20,2,4
+2006-11-24,Oregon,Pac-10,A,Oregon State,L,28,30,25,43,274,1,33,153,3,12,9,7,46,1,1
+2006-12-21,Oregon,Pac-10,N,Brigham Young,L,8,38,16,34,166,1,30,94,0,6,8,8,75,0,2
+2006-09-02,Tennessee,SEC,H,California,W,35,18,13,20,298,4,41,216,1,10,9,6,47,1,1
+2006-09-09,Tennessee,SEC,H,Air Force,W,31,30,24,29,333,3,32,79,1,16,7,5,25,1,1
+2006-09-16,Tennessee,SEC,H,Florida,L,20,21,18,33,231,1,23,-11,1,11,1,4,34,0,2
+2006-09-23,Tennessee,SEC,H,Marshall,W,33,7,18,27,258,1,24,176,3,11,8,4,37,0,1
+2006-09-30,Tennessee,SEC,A,Memphis,W,41,7,25,29,361,4,52,205,1,13,12,3,30,2,0
+2006-10-07,Tennessee,SEC,A,Georgia,W,51,33,25,38,268,2,34,115,4,17,8,5,32,0,0
+2006-10-21,Tennessee,SEC,H,Alabama,W,16,13,28,46,302,0,21,57,1,13,3,5,30,0,3
+2006-10-28,Tennessee,SEC,A,South Carolina,W,31,24,21,29,254,2,23,71,1,13,4,8,70,1,0
+2006-11-04,Tennessee,SEC,H,LSU,L,24,28,12,30,186,2,20,62,0,6,4,1,15,0,1
+2006-11-11,Tennessee,SEC,A,Arkansas,L,14,31,16,34,174,2,29,92,0,10,6,5,16,0,1
+2006-11-18,Tennessee,SEC,A,Vanderbilt,W,39,10,21,30,266,2,26,163,2,11,7,7,64,1,0
+2006-11-25,Tennessee,SEC,H,Kentucky,W,17,12,19,33,240,1,34,96,1,13,9,4,35,1,0
+2007-01-01,Tennessee,SEC,N,Penn State,L,10,20,25,37,267,0,23,83,1,11,6,7,55,2,1
+2006-09-09,Colorado State,MWC,N,Colorado,W,14,10,20,23,233,1,34,15,1,12,3,5,35,1,0
+2006-09-16,Colorado State,MWC,A,Nevada,L,10,28,14,26,113,0,24,64,0,5,5,7,59,0,2
+2006-09-30,Colorado State,MWC,A,Fresno State,W,35,23,15,23,248,3,44,54,1,10,6,5,63,2,0
+2006-10-07,Colorado State,MWC,H,Nevada-Las Vegas,W,28,7,23,28,257,1,43,130,2,11,12,7,70,1,0
+2006-10-12,Colorado State,MWC,A,Air Force,L,21,24,14,23,282,2,27,106,1,8,7,7,55,0,2
+2006-10-21,Colorado State,MWC,A,Wyoming,L,0,24,23,45,217,0,22,42,0,8,2,7,40,1,2
+2006-10-28,Colorado State,MWC,H,New Mexico,L,19,20,25,40,254,2,26,37,0,11,6,4,40,0,1
+2006-11-04,Colorado State,MWC,H,Brigham Young,L,3,24,13,23,125,0,23,26,0,5,2,5,33,0,0
+2006-11-11,Colorado State,MWC,A,Utah,L,22,35,15,33,235,2,34,148,1,8,7,1,5,0,2
+2006-11-25,Colorado State,MWC,H,Texas Christian,L,14,45,23,36,266,2,18,34,0,10,5,4,29,0,2
+2006-12-02,Colorado State,MWC,A,San Diego State,L,6,17,21,41,175,0,38,113,0,10,7,3,18,0,1
+2006-09-02,Michigan State,Big Ten,H,Idaho,W,27,17,16,25,225,1,36,175,2,9,9,2,21,0,0
+2006-09-09,Michigan State,Big Ten,H,Eastern Michigan,W,52,20,29,37,322,5,40,264,2,13,15,6,40,1,1
+2006-09-16,Michigan State,Big Ten,A,Pitt,W,38,23,16,25,198,2,48,335,3,6,17,9,75,1,1
+2006-09-23,Michigan State,Big Ten,H,Notre Dame,L,37,40,11,23,140,3,43,248,1,6,12,9,75,1,2
+2006-09-30,Michigan State,Big Ten,H,Illinois,L,20,23,17,27,177,0,32,82,1,8,6,3,25,1,0
+2006-10-07,Michigan State,Big Ten,A,Michigan,L,13,31,20,35,252,0,26,60,2,9,5,11,87,0,2
+2006-10-14,Michigan State,Big Ten,H,Ohio State,L,7,38,19,30,135,0,30,63,1,6,6,4,45,0,1
+2006-10-21,Michigan State,Big Ten,A,Northwestern,W,41,38,32,43,340,2,28,96,2,18,6,9,81,1,2
+2006-10-28,Michigan State,Big Ten,A,Indiana,L,21,46,14,28,149,2,26,66,1,6,2,12,110,1,1
+2006-11-04,Michigan State,Big Ten,H,Purdue,L,15,17,16,29,161,1,35,144,0,7,10,5,25,1,1
+2006-11-11,Michigan State,Big Ten,H,Minnesota,L,18,31,28,53,341,1,28,3,0,16,4,4,28,1,2
+2006-11-18,Michigan State,Big Ten,A,Penn State,L,13,17,30,62,291,1,15,14,0,13,4,7,60,0,0
+2006-08-31,Boston College,ACC,A,Central Michigan,W,31,24,32,47,323,3,33,66,1,19,3,7,68,2,0
+2006-09-09,Boston College,ACC,H,Clemson,W,34,33,22,38,212,1,37,110,2,15,6,7,54,1,0
+2006-09-16,Boston College,ACC,H,Brigham Young,W,30,23,29,48,356,2,26,115,2,16,5,2,10,2,2
+2006-09-23,Boston College,ACC,A,North Carolina State,L,15,17,13,25,149,1,42,172,1,7,8,7,55,0,1
+2006-10-12,Boston College,ACC,H,Virginia Tech,W,22,3,16,29,174,2,34,90,0,9,3,9,60,0,0
+2006-10-21,Boston College,ACC,A,Florida State,W,24,19,16,26,262,0,32,60,2,8,7,6,26,1,1
+2006-10-28,Boston College,ACC,H,Buffalo,W,41,0,17,26,142,1,48,207,4,8,11,1,15,0,1
+2006-11-04,Boston College,ACC,A,Wake Forest,L,14,21,40,57,402,1,25,28,1,19,4,10,70,1,2
+2006-11-11,Boston College,ACC,H,Duke,W,28,7,25,40,260,2,42,241,2,15,15,5,34,1,1
+2006-11-18,Boston College,ACC,H,Maryland,W,38,16,19,29,249,2,30,124,0,13,8,11,85,0,0
+2006-11-23,Boston College,ACC,A,Miami (FL),L,14,17,17,34,169,0,25,24,1,7,2,6,45,1,1
+2006-12-30,Boston College,ACC,N,Navy,W,25,24,20,30,242,1,31,73,2,14,4,5,25,0,2
+2006-09-03,Ole Miss,SEC,H,Memphis,W,28,25,7,16,97,0,45,240,4,7,13,4,40,0,0
+2006-09-09,Ole Miss,SEC,A,Missouri,L,7,34,13,29,90,1,28,72,0,4,5,3,32,0,3
+2006-09-16,Ole Miss,SEC,A,Kentucky,L,14,31,13,26,190,2,39,205,0,8,8,12,79,4,1
+2006-09-23,Ole Miss,SEC,H,Wake Forest,L,3,27,21,40,211,0,31,26,0,12,5,5,28,0,1
+2006-09-30,Ole Miss,SEC,H,Georgia,L,9,14,6,15,87,1,42,156,0,2,12,2,20,0,1
+2006-10-07,Ole Miss,SEC,H,Vanderbilt,W,17,10,3,9,31,0,38,148,2,1,6,4,31,0,2
+2006-10-14,Ole Miss,SEC,A,Alabama,L,23,26,14,21,168,1,35,119,1,6,9,5,45,0,0
+2006-10-21,Ole Miss,SEC,A,Arkansas,L,3,38,13,36,143,0,31,102,0,6,7,5,29,0,0
+2006-10-28,Ole Miss,SEC,H,Auburn,L,17,23,9,17,170,1,28,86,1,6,5,2,30,0,2
+2006-11-18,Ole Miss,SEC,A,LSU,L,20,23,9,20,95,1,44,100,1,5,7,8,55,1,0
+2006-11-25,Ole Miss,SEC,H,Mississippi State,W,20,17,10,23,142,1,27,58,0,7,2,7,60,0,0
+2006-09-09,Duke,ACC,A,Wake Forest,L,13,14,21,32,305,1,39,62,0,13,6,10,52,2,0
+2006-09-16,Duke,ACC,A,Virginia Tech,L,0,36,8,14,81,0,41,58,0,4,4,7,43,1,0
+2006-09-30,Duke,ACC,H,Virginia,L,0,37,11,25,121,0,36,-21,0,7,1,5,35,2,3
+2006-10-07,Duke,ACC,A,Alabama,L,14,30,7,18,74,1,41,201,1,3,10,10,84,1,2
+2006-10-14,Duke,ACC,H,Florida State,L,24,51,19,41,255,1,40,52,1,10,6,8,60,2,0
+2006-10-21,Duke,ACC,H,Miami (FL),L,15,20,21,41,284,1,29,96,1,14,3,6,55,1,4
+2006-10-28,Duke,ACC,H,Vanderbilt,L,28,45,10,25,103,0,39,253,4,5,15,6,55,0,2
+2006-11-04,Duke,ACC,H,Navy,L,13,38,15,22,181,1,33,113,1,7,6,6,52,1,0
+2006-11-11,Duke,ACC,A,Boston College,L,7,28,20,40,131,0,31,170,1,6,9,2,16,0,2
+2006-11-18,Duke,ACC,A,Georgia Tech,L,21,49,19,33,237,2,26,41,1,10,2,6,57,2,2
+2006-11-25,Duke,ACC,H,North Carolina,L,44,45,21,36,291,5,27,103,0,9,6,3,20,0,2
+2006-08-31,Kent State,MAC,H,Minnesota,L,0,44,7,13,150,0,37,132,0,3,10,4,28,3,3
+2006-09-09,Kent State,MAC,A,Army,L,14,17,9,23,92,1,41,198,1,8,8,5,45,1,1
+2006-09-16,Kent State,MAC,A,Miami (OH),W,16,14,14,22,244,1,33,142,1,10,5,8,65,1,1
+2006-09-23,Kent State,MAC,A,Bowling Green State,W,38,3,14,22,141,1,38,216,3,7,9,9,75,0,0
+2006-09-30,Kent State,MAC,H,Akron,W,37,15,17,21,305,2,55,156,3,12,8,6,53,1,0
+2006-10-07,Kent State,MAC,A,Temple,W,28,17,15,28,207,1,49,208,3,9,13,11,75,1,1
+2006-10-14,Kent State,MAC,H,Toledo,W,40,14,8,15,78,1,47,270,4,4,14,9,85,1,1
+2006-10-28,Kent State,MAC,H,Ohio,L,7,17,7,20,79,1,45,179,0,4,9,3,20,0,0
+2006-11-04,Kent State,MAC,A,Buffalo,L,14,41,18,34,195,0,34,103,2,9,6,5,40,3,2
+2006-11-11,Kent State,MAC,A,Virginia Tech,L,0,23,6,16,98,0,34,84,0,3,4,9,71,2,1
+2006-11-17,Kent State,MAC,H,Eastern Michigan,W,14,6,9,18,188,1,41,129,0,7,3,6,57,0,1
+2006-11-24,Kent State,MAC,A,Ball State,L,6,30,19,35,181,1,32,84,0,7,6,7,82,0,1
+2006-09-02,Navy,Ind,H,East Carolina,W,28,23,2,6,6,0,70,403,4,1,26,2,10,2,0
+2006-09-16,Navy,Ind,A,Stanford,W,37,9,9,12,78,0,69,368,4,2,27,4,34,1,0
+2006-09-23,Navy,Ind,H,Tulsa,L,23,24,6,11,73,1,51,283,2,3,15,5,49,0,1
+2006-09-30,Navy,Ind,A,Connecticut,W,41,17,5,11,141,1,56,464,4,4,16,12,110,0,0
+2006-10-07,Navy,Ind,A,Air Force,W,24,17,1,6,8,0,66,317,2,0,22,1,12,2,1
+2006-10-14,Navy,Ind,H,Rutgers,L,0,34,4,16,48,0,50,113,0,3,6,6,50,1,0
+2006-10-28,Navy,Ind,H,Notre Dame,L,14,38,4,7,43,0,56,271,2,2,16,4,43,1,0
+2006-11-04,Navy,Ind,A,Duke,W,38,13,2,5,32,1,70,435,4,2,21,3,25,3,0
+2006-11-11,Navy,Ind,A,Eastern Michigan,W,49,21,7,9,151,2,56,323,5,5,17,4,23,2,0
+2006-11-18,Navy,Ind,H,Temple,W,42,6,3,8,35,0,56,420,6,2,20,3,25,1,1
+2006-12-02,Navy,Ind,N,Army,W,26,14,1,6,11,0,54,264,2,1,14,4,20,1,0
+2006-12-30,Navy,Ind,N,Boston College,L,24,25,6,8,81,2,59,322,1,4,16,3,30,2,0
+2006-09-01,Fresno State,WAC,H,Nevada,W,28,19,16,24,124,1,38,212,3,7,11,2,37,1,0
+2006-09-09,Fresno State,WAC,H,Oregon,L,24,31,16,33,150,1,41,206,2,8,10,7,45,0,2
+2006-09-16,Fresno State,WAC,A,Washington,L,20,21,11,21,140,1,37,157,2,6,11,3,15,0,1
+2006-09-30,Fresno State,WAC,H,Colorado State,L,23,35,19,42,205,1,23,115,1,9,5,5,17,0,3
+2006-10-07,Fresno State,WAC,A,Utah State,L,12,13,13,27,155,1,34,164,0,7,5,6,49,0,0
+2006-10-14,Fresno State,WAC,H,Hawaii,L,37,68,18,29,304,4,41,183,1,9,12,6,53,2,1
+2006-10-21,Fresno State,WAC,A,LSU,L,6,38,13,20,134,0,33,77,0,6,5,5,44,0,0
+2006-11-01,Fresno State,WAC,A,Boise State,L,21,45,12,24,121,1,26,102,0,5,5,5,42,0,1
+2006-11-11,Fresno State,WAC,H,New Mexico State,W,23,18,11,19,99,1,41,164,2,5,9,9,65,0,0
+2006-11-18,Fresno State,WAC,H,Idaho,W,34,0,14,23,109,2,42,290,2,6,14,1,6,0,2
+2006-11-24,Fresno State,WAC,A,Louisiana Tech,W,34,27,14,23,142,3,38,336,1,7,11,6,46,2,1
+2006-12-02,Fresno State,WAC,A,San Jose State,L,14,24,21,37,215,0,36,154,1,13,10,6,55,0,4
+2006-09-02,Texas Tech,Big 12,H,SMU,W,35,3,38,54,363,5,23,138,0,18,9,9,70,0,1
+2006-09-09,Texas Tech,Big 12,A,UTEP,W,38,35,40,53,376,2,18,103,2,19,4,9,80,0,1
+2006-09-16,Texas Tech,Big 12,A,Texas Christian,L,3,12,23,47,204,0,15,38,0,9,3,3,37,1,0
+2006-09-30,Texas Tech,Big 12,A,Texas A&M,W,31,27,32,45,392,4,11,41,0,19,2,6,50,1,0
+2006-10-07,Texas Tech,Big 12,H,Missouri,L,21,38,44,61,378,3,16,78,0,20,6,8,64,3,2
+2006-10-14,Texas Tech,Big 12,A,Colorado,L,6,30,29,45,245,1,15,31,0,10,4,7,52,2,3
+2006-10-21,Texas Tech,Big 12,A,Iowa State,W,42,26,31,40,368,6,20,107,0,16,7,14,129,2,0
+2006-10-28,Texas Tech,Big 12,H,Texas,L,31,35,42,61,519,3,14,-13,0,25,0,12,115,1,1
+2006-11-04,Texas Tech,Big 12,H,Baylor,W,55,21,38,58,507,4,19,175,3,24,7,6,60,0,1
+2006-11-11,Texas Tech,Big 12,A,Oklahoma,L,24,34,26,48,250,2,11,31,0,12,3,7,51,0,1
+2006-11-18,Texas Tech,Big 12,H,Oklahoma State,W,30,24,28,44,353,2,17,81,1,13,5,7,67,1,0
+2006-12-29,Texas Tech,Big 12,N,Minnesota,W,44,41,36,55,445,2,24,103,4,22,5,4,30,2,1
+2006-09-09,Tulane,CUSA,A,Houston,L,7,45,16,29,169,1,23,55,0,5,3,5,32,1,1
+2006-09-16,Tulane,CUSA,A,Mississippi State,W,32,29,16,24,298,4,36,129,1,9,8,4,41,1,0
+2006-09-23,Tulane,CUSA,A,LSU,L,7,49,12,32,119,0,35,112,1,6,7,3,20,1,2
+2006-09-30,Tulane,CUSA,H,SMU,L,28,33,30,50,398,3,21,-33,0,19,2,9,95,1,0
+2006-10-07,Tulane,CUSA,H,Rice,W,38,24,21,40,344,4,28,143,1,15,8,9,68,1,1
+2006-10-14,Tulane,CUSA,A,UTEP,L,20,34,31,54,289,0,26,192,2,14,13,8,82,3,2
+2006-10-21,Tulane,CUSA,A,Auburn,L,13,38,20,39,283,1,27,106,0,11,6,6,45,2,1
+2006-10-28,Tulane,CUSA,H,Army,W,42,28,33,46,409,3,40,177,3,25,10,7,55,1,0
+2006-11-04,Tulane,CUSA,A,Marshall,L,21,42,26,46,262,1,27,80,2,12,5,2,10,1,2
+2006-11-11,Tulane,CUSA,H,Southern Mississippi,L,3,31,4,16,42,0,32,43,0,3,4,11,76,1,1
+2006-11-18,Tulane,CUSA,H,UCF,W,10,9,26,43,267,1,26,28,0,11,6,4,25,0,2
+2006-11-24,Tulane,CUSA,A,Tulsa,L,3,38,10,21,78,0,32,74,0,3,8,4,25,0,0
+2006-09-02,Houston,CUSA,A,Rice,W,31,30,22,35,233,3,28,96,1,11,6,10,88,0,0
+2006-09-09,Houston,CUSA,H,Tulane,W,45,7,27,45,377,3,35,244,3,16,10,5,34,1,1
+2006-09-23,Houston,CUSA,H,Oklahoma State,W,34,25,21,28,313,4,46,196,0,13,13,2,18,1,0
+2006-09-30,Houston,CUSA,A,Miami (FL),L,13,14,18,28,196,0,25,80,1,6,6,7,35,1,0
+2006-10-07,Houston,CUSA,H,Louisiana,L,28,31,24,32,367,2,22,38,2,13,5,7,74,1,0
+2006-10-14,Houston,CUSA,A,Southern Mississippi,L,27,31,22,39,339,2,27,38,2,12,5,6,67,1,0
+2006-10-21,Houston,CUSA,H,UTEP,W,34,17,20,30,208,2,42,204,2,11,13,4,30,0,1
+2006-10-28,Houston,CUSA,H,UCF,W,51,31,22,34,305,3,33,211,4,12,10,5,50,0,1
+2006-11-04,Houston,CUSA,H,Tulsa,W,27,10,16,21,244,1,38,227,2,7,11,10,90,1,0
+2006-11-11,Houston,CUSA,A,SMU,W,37,27,12,21,147,1,48,357,4,6,16,10,87,1,0
+2006-11-18,Houston,CUSA,A,Memphis,W,23,20,19,24,166,2,49,205,0,11,11,13,105,2,0
+2006-12-01,Houston,CUSA,H,Southern Mississippi,W,34,20,20,32,276,2,33,167,3,14,9,8,55,0,0
+2006-12-29,Houston,CUSA,N,South Carolina,L,36,44,27,40,392,3,33,135,2,16,9,4,40,1,1

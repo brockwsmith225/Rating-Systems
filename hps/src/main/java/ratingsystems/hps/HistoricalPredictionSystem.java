@@ -83,18 +83,20 @@ public class HistoricalPredictionSystem extends RatingSystem {
             }
         }
 
-        int prevYears = 4;
+        int prevYears = 3;
         try {
             if (this.interpreter.hasData(this.year) && week > 0) {
                 ser = new SimpleEfficiencyRating[prevYears + 1];
-                for (int i = 0; i < ser.length; i++) {
+                for (int i = 0; i < ser.length - 1; i++) {
                     this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
                     this.ser[i].setup();
                 }
+                this.ser[ser.length - 1] = new SimpleEfficiencyRating(this.interpreter, this.year, this.week);
+                this.ser[ser.length - 1].setup();
             } else {
                 ser = new SimpleEfficiencyRating[prevYears];
                 for (int i = 0; i < ser.length; i++) {
-                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - 1 - i));
+                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
                     this.ser[i].setup();
                 }
             }
