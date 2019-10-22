@@ -1,0 +1,1437 @@
+Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions
+2010-09-18,Indiana,Big Ten,A,Western Kentucky,W,38,21,32,42,366,3,31,100,2,19,7,3,35,1,0
+2010-09-25,Indiana,Big Ten,H,Akron,W,35,20,23,33,342,4,29,84,1,15,4,5,50,0,0
+2010-10-02,Indiana,Big Ten,H,Michigan,L,35,42,45,64,480,3,34,88,2,22,9,3,11,0,1
+2010-10-09,Indiana,Big Ten,A,Ohio State,L,10,38,19,35,141,0,29,69,1,7,4,3,25,0,3
+2010-10-16,Indiana,Big Ten,H,Arkansas State,W,36,34,26,42,382,4,35,113,0,15,6,8,80,2,0
+2010-10-23,Indiana,Big Ten,A,Illinois,L,13,43,26,49,279,1,34,109,0,15,5,4,30,1,4
+2010-10-30,Indiana,Big Ten,H,Northwestern,L,17,20,30,54,308,1,21,65,1,18,2,5,38,0,1
+2010-11-06,Indiana,Big Ten,H,Iowa,L,13,18,27,46,222,0,24,91,1,10,8,6,72,0,1
+2010-11-13,Indiana,Big Ten,A,Wisconsin,L,20,83,11,24,149,2,34,167,0,6,7,7,80,2,1
+2010-11-20,Indiana,Big Ten,N,Penn State,L,24,41,23,42,242,2,21,90,1,12,6,0,0,0,1
+2010-11-27,Indiana,Big Ten,A,Purdue,W,34,31,31,52,330,3,30,73,1,17,5,5,30,2,0
+2010-09-11,Florida State,ACC,A,Oklahoma,L,17,47,15,36,222,1,32,123,1,8,5,12,95,1,2
+2010-09-18,Florida State,ACC,H,Brigham Young,W,34,10,14,21,149,1,44,278,3,7,11,8,65,1,0
+2010-09-25,Florida State,ACC,H,Wake Forest,W,31,0,26,39,284,3,39,201,1,13,14,8,85,2,0
+2010-10-02,Florida State,ACC,A,Virginia,W,34,14,17,29,172,1,42,256,3,8,14,4,42,1,0
+2010-10-09,Florida State,ACC,A,Miami (FL),W,45,17,13,22,173,2,40,298,4,8,10,8,79,0,1
+2010-10-16,Florida State,ACC,H,Boston College,W,24,19,19,31,170,2,37,141,1,9,9,2,20,1,3
+2010-10-28,Florida State,ACC,A,North Carolina State,L,24,28,17,28,196,1,33,177,2,8,7,10,81,2,0
+2010-11-06,Florida State,ACC,H,North Carolina,L,35,37,24,35,264,3,33,110,2,10,7,7,74,0,0
+2010-11-13,Florida State,ACC,H,Clemson,W,16,13,15,25,210,0,30,97,1,6,8,8,81,1,1
+2010-11-20,Florida State,ACC,A,Maryland,W,30,16,17,27,203,1,30,151,1,8,6,6,45,1,1
+2010-11-27,Florida State,ACC,H,Florida,W,31,7,16,24,221,3,41,112,1,12,6,5,51,0,0
+2010-12-04,Florida State,ACC,N,Virginia Tech,L,33,44,23,32,288,1,28,53,3,15,2,0,0,0,2
+2010-12-31,Florida State,ACC,N,South Carolina,W,26,17,12,21,90,1,45,218,1,5,12,6,50,0,1
+2010-09-02,Iowa State,Big 12,H,Northern Illinois,W,27,10,27,36,265,0,37,138,3,13,8,5,60,1,2
+2010-09-11,Iowa State,Big 12,A,Iowa,L,7,35,20,44,197,1,25,78,0,9,5,5,40,0,3
+2010-09-18,Iowa State,Big 12,A,Kansas State,L,20,27,15,28,122,1,40,171,0,8,10,8,64,1,0
+2010-10-02,Iowa State,Big 12,H,Texas Tech,W,52,38,20,28,190,4,50,251,2,11,9,6,55,0,0
+2010-10-09,Iowa State,Big 12,H,Utah,L,27,68,13,31,178,2,32,170,2,7,10,3,25,0,2
+2010-10-16,Iowa State,Big 12,A,Oklahoma,L,0,52,15,27,124,0,33,59,0,6,3,4,23,0,0
+2010-10-23,Iowa State,Big 12,A,Texas,W,28,21,11,23,136,2,45,199,2,7,9,7,53,0,1
+2010-10-30,Iowa State,Big 12,H,Kansas,W,28,16,16,26,168,0,40,232,3,9,11,8,90,1,0
+2010-11-06,Iowa State,Big 12,H,Nebraska,L,30,31,21,32,203,3,48,157,1,12,10,3,40,1,2
+2010-11-13,Iowa State,Big 12,A,Colorado,L,14,34,27,42,235,1,26,-6,1,10,3,9,70,2,0
+2010-11-20,Iowa State,Big 12,H,Missouri,L,0,14,14,32,180,0,44,152,0,9,8,5,36,1,0
+2010-09-04,Cincinnati,Big East,A,Fresno State,L,14,28,24,41,219,1,32,15,1,9,5,5,34,1,0
+2010-09-16,Cincinnati,Big East,A,North Carolina State,L,19,30,19,31,310,3,31,75,0,11,6,8,71,1,0
+2010-09-25,Cincinnati,Big East,H,Oklahoma,L,29,31,23,38,305,3,32,156,0,11,7,7,72,3,1
+2010-10-09,Cincinnati,Big East,H,Miami (OH),W,45,3,15,21,225,3,46,384,3,10,15,9,85,0,0
+2010-10-15,Cincinnati,Big East,A,Louisville,W,35,27,18,28,275,5,33,178,0,11,9,5,51,1,2
+2010-10-22,Cincinnati,Big East,H,South Florida,L,30,38,34,61,512,3,29,78,0,21,6,12,115,0,1
+2010-10-30,Cincinnati,Big East,H,Syracuse,L,7,31,21,39,168,1,29,109,0,7,7,5,50,2,1
+2010-11-13,Cincinnati,Big East,A,West Virginia,L,10,37,25,45,221,0,16,60,1,11,2,10,96,2,2
+2010-11-20,Cincinnati,Big East,H,Rutgers,W,69,38,23,40,366,4,46,295,6,15,14,8,65,0,1
+2010-11-27,Cincinnati,Big East,A,Connecticut,L,17,38,26,50,288,1,27,111,1,15,8,5,39,1,4
+2010-12-04,Cincinnati,Big East,H,Pitt,L,10,28,12,24,109,1,36,156,0,4,12,4,43,1,3
+2010-09-18,Arizona State,Pac-10,A,Wisconsin,L,19,20,21,33,211,0,28,169,1,12,8,8,61,0,0
+2010-09-25,Arizona State,Pac-10,H,Oregon,L,31,42,30,53,387,3,46,210,1,19,7,9,90,3,4
+2010-10-02,Arizona State,Pac-10,A,Oregon State,L,28,31,14,29,203,1,51,161,2,12,10,5,51,0,3
+2010-10-09,Arizona State,Pac-10,A,Washington,W,24,14,21,34,288,2,37,99,1,14,6,4,31,0,1
+2010-10-23,Arizona State,Pac-10,A,California,L,17,50,16,33,177,0,27,57,0,7,4,9,72,0,3
+2010-10-30,Arizona State,Pac-10,H,Washington State,W,42,0,32,43,375,3,34,118,3,17,9,5,35,1,0
+2010-11-06,Arizona State,Pac-10,A,USC,L,33,34,25,42,282,3,28,116,0,10,11,4,35,0,2
+2010-11-13,Arizona State,Pac-10,H,Stanford,L,13,17,16,26,158,1,23,110,1,7,4,8,67,1,1
+2010-11-26,Arizona State,Pac-10,H,UCLA,W,55,34,28,39,384,4,32,211,2,14,7,12,114,1,0
+2010-12-02,Arizona State,Pac-10,A,Arizona,W,30,29,22,49,267,1,43,122,1,12,6,8,55,0,0
+2010-09-04,Syracuse,Big East,A,Akron,W,29,3,17,27,229,2,45,202,1,10,8,5,43,2,1
+2010-09-11,Syracuse,Big East,A,Washington,L,20,41,19,37,224,1,31,112,1,10,5,10,80,1,1
+2010-10-09,Syracuse,Big East,A,South Florida,W,13,9,12,22,129,1,43,178,0,5,12,12,87,1,0
+2010-10-16,Syracuse,Big East,H,Pitt,L,14,45,25,46,231,1,25,77,1,12,6,4,30,2,2
+2010-10-23,Syracuse,Big East,A,West Virginia,W,19,14,5,15,63,1,38,183,0,2,9,5,58,1,0
+2010-10-30,Syracuse,Big East,A,Cincinnati,W,31,7,16,26,125,2,44,137,2,7,7,5,44,1,1
+2010-11-06,Syracuse,Big East,H,Louisville,L,20,28,19,32,155,1,31,101,1,8,7,8,57,1,0
+2010-11-13,Syracuse,Big East,A,Rutgers,W,13,10,16,31,214,1,37,91,0,8,7,5,35,2,1
+2010-11-20,Syracuse,Big East,H,Connecticut,L,6,23,20,36,171,0,29,64,0,11,4,9,66,1,1
+2010-11-27,Syracuse,Big East,H,Boston College,L,7,16,15,24,147,0,27,91,1,7,6,7,68,0,1
+2010-12-30,Syracuse,Big East,N,Kansas State,W,36,34,13,22,239,3,43,259,2,9,14,4,45,0,0
+2010-09-11,Penn State,Big Ten,A,Alabama,L,3,24,14,31,156,0,31,127,0,8,9,1,5,1,3
+2010-09-18,Penn State,Big Ten,H,Kent State,W,24,0,18,30,220,1,40,162,2,9,11,3,20,1,2
+2010-09-25,Penn State,Big Ten,H,Temple,W,22,13,18,28,223,0,46,216,1,10,10,4,25,1,0
+2010-10-02,Penn State,Big Ten,A,Iowa,L,3,24,22,42,247,0,23,54,0,10,4,4,20,0,1
+2010-10-09,Penn State,Big Ten,H,Illinois,L,13,33,10,26,170,1,26,65,0,5,2,5,41,0,1
+2010-10-23,Penn State,Big Ten,A,Minnesota,W,33,21,17,26,206,3,30,145,1,10,5,5,45,0,1
+2010-10-30,Penn State,Big Ten,H,Michigan,W,41,31,17,28,250,1,46,185,4,14,11,1,15,0,0
+2010-11-06,Penn State,Big Ten,H,Northwestern,W,35,21,21,34,268,4,46,260,1,12,14,6,59,1,0
+2010-11-13,Penn State,Big Ten,A,Ohio State,L,14,38,15,33,159,2,32,113,0,8,6,3,21,0,2
+2010-11-20,Penn State,Big Ten,N,Indiana,W,41,24,24,33,325,2,42,171,2,16,8,5,35,0,0
+2010-11-27,Penn State,Big Ten,H,Michigan State,L,22,28,23,44,312,2,21,84,1,15,4,8,67,0,1
+2011-01-01,Penn State,Big Ten,N,Florida,L,24,37,17,41,211,1,36,139,2,9,8,5,29,0,5
+2010-09-11,California,Pac-10,H,Colorado,W,52,7,15,24,197,4,36,159,1,6,10,6,54,0,0
+2010-09-17,California,Pac-10,A,Nevada,L,31,52,23,37,277,1,30,225,3,11,10,7,40,0,3
+2010-09-25,California,Pac-10,A,Arizona,L,9,10,13,27,116,0,36,146,0,4,9,8,68,0,1
+2010-10-09,California,Pac-10,H,UCLA,W,35,7,9,16,83,1,55,304,4,4,16,7,71,1,0
+2010-10-16,California,Pac-10,A,USC,L,14,48,15,29,193,2,19,53,0,7,4,9,67,0,2
+2010-10-23,California,Pac-10,H,Arizona State,W,50,17,19,29,240,2,43,131,3,10,7,2,20,1,0
+2010-10-30,California,Pac-10,A,Oregon State,L,7,35,17,29,186,1,25,23,0,7,2,12,103,1,0
+2010-11-06,California,Pac-10,A,Washington State,W,20,13,12,24,171,0,42,212,3,6,13,5,38,0,2
+2010-11-13,California,Pac-10,H,Oregon,L,13,15,10,28,69,0,31,124,1,5,5,4,25,1,0
+2010-11-20,California,Pac-10,H,Stanford,L,14,48,20,38,190,2,28,109,0,12,7,9,95,1,2
+2010-11-27,California,Pac-10,H,Washington,L,13,16,12,23,92,0,36,191,0,3,11,7,74,0,1
+2010-09-11,Stanford,Pac-10,A,UCLA,W,35,0,11,24,151,2,49,211,1,8,13,5,60,0,0
+2010-09-18,Stanford,Pac-10,H,Wake Forest,W,68,24,20,28,232,4,38,303,6,13,15,6,55,0,0
+2010-09-25,Stanford,Pac-10,A,Notre Dame,W,37,14,19,32,238,1,44,166,1,12,11,5,30,1,2
+2010-10-02,Stanford,Pac-10,A,Oregon,L,31,52,29,46,341,2,31,177,2,15,9,9,76,1,2
+2010-10-09,Stanford,Pac-10,H,USC,W,37,35,20,24,285,3,36,193,2,13,10,3,10,3,0
+2010-10-23,Stanford,Pac-10,H,Washington State,W,38,28,20,28,190,3,47,249,2,9,16,8,80,0,1
+2010-10-30,Stanford,Pac-10,A,Washington,W,41,0,19,26,192,1,47,278,4,10,12,1,15,0,1
+2010-11-06,Stanford,Pac-10,H,Arizona,W,42,17,23,32,299,2,45,217,4,14,11,7,53,0,0
+2010-11-13,Stanford,Pac-10,A,Arizona State,W,17,13,33,41,292,0,42,128,2,19,5,2,20,1,1
+2010-11-20,Stanford,Pac-10,A,California,W,48,14,16,21,235,2,48,232,4,10,14,2,30,0,0
+2010-11-27,Stanford,Pac-10,H,Oregon State,W,38,0,21,30,305,4,39,165,1,11,9,4,45,0,0
+2011-01-03,Stanford,Pac-10,N,Virginia Tech,W,40,12,18,23,287,4,31,247,2,12,7,6,49,1,1
+2010-09-04,Washington State,Pac-10,A,Oklahoma State,L,17,65,14,30,212,1,41,112,1,6,6,4,40,2,0
+2010-09-18,Washington State,Pac-10,A,SMU,L,21,35,18,33,284,2,28,66,0,10,3,8,72,0,0
+2010-09-25,Washington State,Pac-10,H,USC,L,16,50,26,41,256,2,26,67,0,13,5,2,15,0,3
+2010-10-02,Washington State,Pac-10,A,UCLA,L,28,42,20,37,311,2,31,73,2,11,4,8,90,1,0
+2010-10-09,Washington State,Pac-10,H,Oregon,L,23,43,25,40,245,1,36,91,2,14,6,5,31,0,1
+2010-10-16,Washington State,Pac-10,H,Arizona,L,7,24,18,32,257,1,34,40,0,10,4,4,30,2,2
+2010-10-23,Washington State,Pac-10,A,Stanford,L,28,38,21,28,298,4,23,90,0,12,4,7,58,1,2
+2010-10-30,Washington State,Pac-10,A,Arizona State,L,0,42,23,38,256,0,33,8,0,10,5,8,105,1,2
+2010-11-06,Washington State,Pac-10,H,California,L,13,20,9,25,92,0,34,102,1,6,4,8,60,0,0
+2010-11-13,Washington State,Pac-10,A,Oregon State,W,31,14,10,15,157,1,61,221,3,7,14,9,99,2,0
+2010-12-04,Washington State,Pac-10,H,Washington,L,28,35,25,36,298,3,34,110,1,11,10,7,55,0,1
+2010-09-04,Illinois,Big Ten,N,Missouri,L,13,23,9,23,81,1,41,200,0,5,9,7,44,1,3
+2010-09-18,Illinois,Big Ten,H,Northern Illinois,W,28,22,8,16,70,0,49,319,3,5,16,8,85,0,0
+2010-10-02,Illinois,Big Ten,H,Ohio State,L,13,24,13,23,132,0,36,119,1,6,5,9,74,0,1
+2010-10-09,Illinois,Big Ten,A,Penn State,W,33,13,16,20,155,2,54,282,0,7,15,3,25,2,0
+2010-10-16,Illinois,Big Ten,A,Michigan State,L,6,26,15,27,141,0,42,114,0,8,6,6,60,1,3
+2010-10-23,Illinois,Big Ten,H,Indiana,W,43,13,13,21,123,2,32,166,1,5,7,7,66,1,0
+2010-10-30,Illinois,Big Ten,H,Purdue,W,44,10,18,24,204,4,48,187,2,12,11,5,38,0,0
+2010-11-06,Illinois,Big Ten,A,Michigan,L,65,67,16,27,246,3,61,315,5,10,14,10,83,1,0
+2010-11-13,Illinois,Big Ten,H,Minnesota,L,34,38,11,24,209,2,43,201,3,9,9,5,50,0,1
+2010-11-20,Illinois,Big Ten,A,Northwestern,W,48,27,6,14,40,1,70,519,5,2,24,2,20,0,2
+2010-12-03,Illinois,Big Ten,A,Fresno State,L,23,25,7,20,81,1,50,318,2,5,16,7,62,0,0
+2010-12-29,Illinois,Big Ten,N,Baylor,W,38,14,18,23,242,0,50,291,4,11,13,6,51,0,0
+2010-09-04,Georgia,SEC,H,Louisiana,W,55,7,19,31,193,4,37,184,2,10,7,5,30,0,1
+2010-09-11,Georgia,SEC,A,South Carolina,L,6,17,14,21,192,0,26,61,0,9,2,4,25,1,0
+2010-09-18,Georgia,SEC,H,Arkansas,L,24,31,15,27,253,1,41,139,2,9,10,9,53,0,1
+2010-09-25,Georgia,SEC,A,Mississippi State,L,12,24,18,31,274,1,34,113,0,11,9,9,63,2,0
+2010-10-02,Georgia,SEC,A,Colorado,L,27,29,16,27,221,3,32,188,0,9,10,5,48,1,1
+2010-10-09,Georgia,SEC,H,Tennessee,W,41,14,17,25,266,2,36,136,3,12,7,5,50,0,0
+2010-10-16,Georgia,SEC,H,Vanderbilt,W,43,0,19,28,315,2,45,232,3,8,14,3,39,0,0
+2010-10-23,Georgia,SEC,A,Kentucky,W,44,31,9,12,113,0,39,177,5,4,9,4,28,1,0
+2010-10-30,Georgia,SEC,N,Florida,L,31,34,18,37,313,3,34,126,1,14,7,2,25,1,3
+2010-11-13,Georgia,SEC,A,Auburn,L,31,49,15,28,273,3,24,81,1,10,5,10,89,0,0
+2010-11-27,Georgia,SEC,H,Georgia Tech,W,42,34,15,19,271,3,29,154,2,10,7,2,10,2,0
+2010-12-31,Georgia,SEC,N,UCF,L,6,10,21,38,198,0,32,82,0,12,6,5,35,0,2
+2010-09-06,Maryland,ACC,N,Navy,W,17,14,2,5,11,0,34,261,2,1,9,4,30,1,1
+2010-09-18,Maryland,ACC,A,West Virginia,L,17,31,13,24,227,2,27,-10,0,5,3,10,77,1,0
+2010-09-25,Maryland,ACC,H,Florida International,W,42,28,18,27,250,2,28,169,3,10,2,8,68,0,0
+2010-10-02,Maryland,ACC,H,Duke,W,21,16,9,26,170,1,39,124,1,6,6,7,53,0,0
+2010-10-16,Maryland,ACC,A,Clemson,L,7,31,25,47,306,1,21,44,0,13,4,10,93,0,3
+2010-10-23,Maryland,ACC,A,Boston College,W,24,21,26,39,179,3,33,43,0,9,3,7,61,0,0
+2010-10-30,Maryland,ACC,H,Wake Forest,W,62,14,16,24,185,4,54,261,2,10,17,6,47,0,0
+2010-11-06,Maryland,ACC,A,Miami (FL),L,20,26,11,30,158,1,25,96,0,9,4,7,56,0,1
+2010-11-13,Maryland,ACC,A,Virginia,W,42,23,17,28,289,2,36,136,4,10,6,8,60,0,0
+2010-11-20,Maryland,ACC,H,Florida State,L,16,30,25,45,269,1,34,163,0,11,10,5,45,2,2
+2010-11-27,Maryland,ACC,H,North Carolina State,W,38,31,33,47,417,4,20,-9,1,16,1,9,92,0,0
+2010-12-29,Maryland,ACC,H,East Carolina,W,51,20,13,22,181,1,38,297,6,7,10,11,98,0,2
+2010-09-11,Idaho,WAC,A,Nebraska,L,17,38,21,39,219,2,38,60,0,11,9,3,15,1,5
+2010-09-18,Idaho,WAC,H,Nevada-Las Vegas,W,30,7,15,27,210,1,39,122,2,10,7,6,70,0,1
+2010-09-25,Idaho,WAC,A,Colorado State,L,34,36,25,30,347,3,33,112,1,14,8,7,58,1,0
+2010-10-02,Idaho,WAC,A,Western Michigan,W,33,13,30,50,380,3,33,97,0,18,3,8,69,2,2
+2010-10-16,Idaho,WAC,A,Louisiana Tech,L,35,48,32,60,513,5,18,20,0,20,2,5,35,0,1
+2010-10-23,Idaho,WAC,H,New Mexico State,W,37,14,27,51,304,3,27,88,1,14,5,8,103,1,0
+2010-10-30,Idaho,WAC,A,Hawaii,L,10,45,30,52,312,1,20,56,0,17,3,14,152,2,2
+2010-11-06,Idaho,WAC,H,Nevada,L,17,63,19,41,271,1,19,68,1,10,3,4,31,4,0
+2010-11-12,Idaho,WAC,H,Boise State,L,14,52,28,54,215,1,25,101,0,10,4,7,80,0,3
+2010-11-20,Idaho,WAC,A,Utah State,W,28,6,20,32,243,3,37,112,1,8,6,4,53,0,1
+2010-11-27,Idaho,WAC,A,Fresno State,L,20,23,20,35,197,0,21,13,1,11,1,5,40,0,1
+2010-12-04,Idaho,WAC,H,San Jose State,W,26,23,16,30,250,1,37,171,2,11,8,5,60,0,0
+2010-09-04,Oklahoma,Big 12,H,Utah State,W,31,24,17,36,217,2,45,195,2,10,9,7,70,0,2
+2010-09-11,Oklahoma,Big 12,H,Florida State,W,47,17,32,42,394,4,41,93,2,17,8,6,49,1,0
+2010-09-18,Oklahoma,Big 12,H,Air Force,W,27,24,26,42,254,1,34,113,2,14,9,6,25,0,0
+2010-09-25,Oklahoma,Big 12,A,Cincinnati,W,31,29,36,51,370,2,43,82,2,19,6,13,113,0,1
+2010-10-02,Oklahoma,Big 12,N,Texas,W,28,20,24,39,236,2,52,124,2,12,11,5,29,0,0
+2010-10-16,Oklahoma,Big 12,H,Iowa State,W,52,0,32,38,347,3,56,325,4,17,18,3,31,1,0
+2010-10-23,Oklahoma,Big 12,A,Missouri,L,27,36,32,50,303,3,25,99,1,13,7,7,50,1,2
+2010-10-30,Oklahoma,Big 12,H,Colorado,W,43,10,34,49,488,4,44,147,1,20,11,2,15,0,0
+2010-11-06,Oklahoma,Big 12,A,Texas A&M,L,19,33,36,60,290,1,44,72,1,18,10,4,29,0,1
+2010-11-13,Oklahoma,Big 12,H,Texas Tech,W,45,7,23,31,316,5,44,246,1,12,12,5,63,1,0
+2010-11-20,Oklahoma,Big 12,A,Baylor,W,53,24,28,42,353,3,37,109,2,16,7,3,35,1,1
+2010-11-27,Oklahoma,Big 12,A,Oklahoma State,W,47,41,37,62,468,4,45,120,1,16,10,4,33,0,3
+2010-12-04,Oklahoma,Big 12,N,Nebraska,W,23,20,23,41,342,1,38,112,1,15,4,6,47,0,1
+2011-01-01,Oklahoma,Big 12,N,Connecticut,W,48,20,34,50,429,3,30,95,1,18,8,1,3,1,1
+2010-09-04,Louisville,Big East,H,Kentucky,L,16,23,14,29,127,0,32,190,1,6,8,4,30,1,1
+2010-09-18,Louisville,Big East,A,Oregon State,L,28,35,22,38,288,1,39,165,3,14,9,8,65,1,1
+2010-10-02,Louisville,Big East,A,Arkansas State,W,34,24,20,33,308,3,50,267,1,11,15,13,90,1,1
+2010-10-09,Louisville,Big East,H,Memphis,W,56,0,17,22,275,5,34,299,3,12,10,4,26,0,0
+2010-10-15,Louisville,Big East,H,Cincinnati,L,27,35,19,28,206,1,34,228,2,13,6,8,73,0,0
+2010-10-23,Louisville,Big East,H,Connecticut,W,26,0,18,30,195,1,38,160,0,7,11,7,70,0,0
+2010-10-30,Louisville,Big East,A,Pitt,L,3,20,13,23,82,0,32,103,0,5,7,6,46,1,1
+2010-11-06,Louisville,Big East,A,Syracuse,W,28,20,13,25,143,2,39,160,2,8,10,10,67,1,0
+2010-11-13,Louisville,Big East,H,South Florida,L,21,24,16,31,146,3,49,182,0,8,10,8,63,0,2
+2010-11-20,Louisville,Big East,H,West Virginia,L,10,17,12,24,145,0,30,26,0,6,2,7,70,0,1
+2010-11-26,Louisville,Big East,A,Rutgers,W,40,13,18,25,210,3,31,217,2,12,8,8,75,0,0
+2010-12-21,Louisville,Big East,N,Southern Mississippi,W,31,28,20,32,178,2,29,109,1,7,7,9,54,1,0
+2010-09-11,Arkansas,SEC,N,Louisiana-Monroe,W,31,7,28,43,400,3,31,99,1,19,6,6,46,2,1
+2010-09-18,Arkansas,SEC,A,Georgia,W,31,24,21,33,380,3,23,53,1,13,4,10,75,0,0
+2010-09-25,Arkansas,SEC,H,Alabama,L,20,24,25,38,357,1,20,64,1,14,4,6,45,0,3
+2010-10-09,Arkansas,SEC,N,Texas A&M,W,24,17,27,38,310,3,36,132,0,11,7,13,108,1,1
+2010-10-16,Arkansas,SEC,A,Auburn,L,43,65,35,49,428,5,28,138,1,19,9,6,70,1,2
+2010-10-23,Arkansas,SEC,H,Ole Miss,W,38,24,16,29,267,1,27,197,3,8,7,8,55,1,1
+2010-10-30,Arkansas,SEC,H,Vanderbilt,W,49,14,28,48,417,3,36,138,2,16,8,13,130,0,0
+2010-11-06,Arkansas,SEC,A,South Carolina,W,41,20,21,30,303,1,38,140,4,13,9,11,90,1,1
+2010-11-13,Arkansas,SEC,H,UTEP,W,58,21,23,31,251,5,41,326,3,14,15,5,34,0,0
+2010-11-20,Arkansas,SEC,A,Mississippi State,W,38,31,17,26,305,3,35,183,2,12,8,8,49,2,1
+2010-11-27,Arkansas,SEC,H,LSU,W,31,23,13,23,320,3,47,144,1,9,9,2,17,0,2
+2011-01-04,Arkansas,SEC,N,Ohio State,L,26,31,24,47,277,2,31,125,0,14,9,6,48,0,1
+2010-09-04,Washington,Pac-10,A,Brigham Young,L,17,23,20,39,266,1,31,128,1,12,6,5,66,0,0
+2010-09-11,Washington,Pac-10,H,Syracuse,W,41,20,23,34,292,4,33,175,1,14,5,7,65,1,0
+2010-09-18,Washington,Pac-10,H,Nebraska,L,21,56,4,20,71,1,39,175,2,2,10,2,15,0,2
+2010-10-02,Washington,Pac-10,A,USC,W,32,31,25,41,311,2,34,225,1,16,11,5,36,1,0
+2010-10-09,Washington,Pac-10,H,Arizona State,L,14,24,23,39,209,1,35,145,1,12,7,5,55,0,1
+2010-10-16,Washington,Pac-10,H,Oregon State,W,35,34,21,35,286,5,43,189,0,12,11,10,70,2,1
+2010-10-23,Washington,Pac-10,A,Arizona,L,14,44,18,33,192,1,33,98,1,10,8,9,94,1,0
+2010-10-30,Washington,Pac-10,H,Stanford,L,0,41,9,17,88,0,25,19,0,3,3,2,20,0,2
+2010-11-06,Washington,Pac-10,A,Oregon,L,16,53,14,28,127,1,37,136,0,6,6,12,84,0,0
+2010-11-18,Washington,Pac-10,H,UCLA,W,24,7,10,21,68,0,41,253,2,4,10,7,66,0,1
+2010-11-27,Washington,Pac-10,A,California,W,16,13,17,27,237,1,36,112,1,7,7,4,30,2,1
+2010-12-04,Washington,Pac-10,A,Washington State,W,35,28,15,23,256,2,42,315,3,6,13,12,100,1,1
+2010-12-30,Washington,Pac-10,N,Nebraska,W,19,7,6,19,72,0,52,268,2,4,14,3,30,0,0
+2010-09-02,Southern Mississippi,CUSA,A,South Carolina,L,13,41,38,57,337,1,27,67,0,17,6,8,60,1,1
+2010-09-17,Southern Mississippi,CUSA,H,Kansas,W,31,16,20,26,156,1,35,202,2,9,9,8,70,0,1
+2010-09-25,Southern Mississippi,CUSA,A,Louisiana Tech,W,13,12,22,38,233,1,54,192,0,10,12,8,90,1,1
+2010-10-02,Southern Mississippi,CUSA,H,Marshall,W,41,16,16,29,164,1,47,205,4,11,12,12,130,0,0
+2010-10-09,Southern Mississippi,CUSA,H,East Carolina,L,43,44,20,39,237,1,45,167,2,11,8,15,153,0,0
+2010-10-16,Southern Mississippi,CUSA,A,Memphis,W,41,19,19,30,275,3,48,240,2,12,12,5,41,0,0
+2010-10-30,Southern Mississippi,CUSA,H,UAB,L,49,50,30,49,388,2,41,194,4,16,11,4,40,2,2
+2010-11-06,Southern Mississippi,CUSA,A,Tulane,W,46,30,19,36,128,2,41,230,2,8,8,9,92,1,0
+2010-11-13,Southern Mississippi,CUSA,A,UCF,W,31,21,21,35,264,4,37,150,0,13,8,6,65,0,1
+2010-11-20,Southern Mississippi,CUSA,H,Houston,W,59,41,24,31,293,2,52,349,6,12,17,4,40,0,0
+2010-11-26,Southern Mississippi,CUSA,A,Tulsa,L,50,56,28,41,371,2,45,192,2,18,11,4,29,2,1
+2010-12-21,Southern Mississippi,CUSA,N,Louisville,L,28,31,21,34,226,3,40,170,1,10,10,6,45,1,0
+2010-09-04,Utah State,WAC,A,Oklahoma,L,24,31,17,37,341,2,38,80,1,12,6,6,48,1,3
+2010-09-18,Utah State,WAC,H,Fresno State,L,24,41,11,23,106,1,45,205,2,7,10,2,19,0,0
+2010-09-25,Utah State,WAC,A,San Diego State,L,7,41,14,31,130,0,40,115,1,6,6,8,80,0,1
+2010-10-01,Utah State,WAC,H,Brigham Young,W,31,16,10,13,192,1,59,242,3,7,10,12,105,1,0
+2010-10-09,Utah State,WAC,A,Louisiana Tech,L,6,24,14,23,73,0,35,122,0,4,6,6,46,0,0
+2010-10-23,Utah State,WAC,H,Hawaii,L,7,45,10,26,123,0,35,58,1,7,4,6,59,1,2
+2010-10-30,Utah State,WAC,A,Nevada,L,42,56,24,39,399,2,37,91,3,17,7,7,69,1,0
+2010-11-06,Utah State,WAC,H,New Mexico State,W,27,22,11,22,110,0,42,186,3,4,10,8,76,0,1
+2010-11-13,Utah State,WAC,A,San Jose State,W,38,34,20,29,259,1,63,261,4,13,16,4,24,1,2
+2010-11-20,Utah State,WAC,H,Idaho,L,6,28,14,35,103,0,37,139,0,4,11,4,27,0,2
+2010-12-04,Utah State,WAC,A,Boise State,L,14,50,4,16,41,0,51,250,2,2,15,6,47,0,2
+2010-09-04,Missouri,Big 12,N,Illinois,W,23,13,34,48,281,2,29,98,0,15,8,7,80,1,0
+2010-09-18,Missouri,Big 12,H,San Diego State,W,27,24,28,51,351,1,27,89,2,17,6,2,30,1,2
+2010-09-25,Missouri,Big 12,H,Miami (OH),W,51,13,17,23,233,1,38,236,5,10,12,9,91,0,1
+2010-10-09,Missouri,Big 12,H,Colorado,W,26,0,20,33,226,3,32,119,0,14,4,2,17,1,1
+2010-10-16,Missouri,Big 12,A,Texas A&M,W,30,9,31,47,361,3,25,56,1,17,5,4,20,0,0
+2010-10-23,Missouri,Big 12,H,Oklahoma,W,36,27,30,42,308,1,39,178,2,12,12,9,77,2,0
+2010-10-30,Missouri,Big 12,A,Nebraska,L,17,31,18,42,199,1,34,142,1,10,8,7,40,0,1
+2010-11-06,Missouri,Big 12,A,Texas Tech,L,17,24,12,30,95,0,31,260,2,7,5,6,57,1,0
+2010-11-13,Missouri,Big 12,H,Kansas State,W,38,28,17,26,208,2,38,232,2,9,11,8,60,0,1
+2010-11-20,Missouri,Big 12,A,Iowa State,W,14,0,16,26,172,1,41,134,1,7,9,3,25,0,0
+2010-11-27,Missouri,Big 12,N,Kansas,W,35,7,16,26,179,0,46,218,5,9,12,9,117,0,2
+2010-12-28,Missouri,Big 12,N,Iowa,L,24,27,41,57,434,1,29,78,2,20,10,5,48,0,2
+2010-09-04,Wisconsin,Big Ten,A,Nevada-Las Vegas,W,41,21,15,20,197,0,50,278,4,8,14,5,35,1,1
+2010-09-11,Wisconsin,Big Ten,H,San Jose State,W,27,14,15,22,191,1,46,212,2,10,11,2,25,1,1
+2010-09-18,Wisconsin,Big Ten,H,Arizona State,W,20,19,19,25,246,1,42,194,1,13,10,3,25,0,0
+2010-10-02,Wisconsin,Big Ten,A,Michigan State,L,24,34,11,25,127,1,31,165,2,6,9,5,40,0,0
+2010-10-09,Wisconsin,Big Ten,H,Minnesota,W,41,23,17,23,223,1,46,250,5,13,14,4,45,0,0
+2010-10-16,Wisconsin,Big Ten,H,Ohio State,W,31,18,13,16,152,0,43,184,3,8,13,3,35,0,1
+2010-10-23,Wisconsin,Big Ten,A,Iowa,W,31,30,20,26,205,1,38,142,3,12,11,4,45,0,1
+2010-11-06,Wisconsin,Big Ten,A,Purdue,W,34,13,13,19,130,1,39,173,2,6,9,2,18,0,1
+2010-11-13,Wisconsin,Big Ten,H,Indiana,W,83,20,17,21,260,4,47,338,6,10,15,2,25,0,0
+2010-11-20,Wisconsin,Big Ten,A,Michigan,W,48,28,14,15,201,0,58,357,6,9,17,2,25,1,1
+2010-11-27,Wisconsin,Big Ten,H,Northwestern,W,70,23,15,19,230,4,54,329,5,10,18,2,25,0,0
+2011-01-01,Wisconsin,Big Ten,N,Texas Christian,L,19,21,12,21,159,0,46,226,2,9,11,6,41,0,0
+2010-09-11,Nevada,WAC,H,Colorado State,W,51,6,23,33,255,2,46,376,4,13,20,4,30,0,0
+2010-09-17,Nevada,WAC,H,California,W,52,31,10,15,181,2,49,316,4,10,15,5,45,1,0
+2010-09-25,Nevada,WAC,A,Brigham Young,W,27,13,16,26,196,1,53,239,2,7,16,6,65,1,1
+2010-10-02,Nevada,WAC,A,Nevada-Las Vegas,W,44,26,14,19,142,1,50,374,5,8,21,5,61,2,1
+2010-10-09,Nevada,WAC,H,San Jose State,W,35,13,20,28,273,0,41,367,5,13,17,8,89,0,2
+2010-10-16,Nevada,WAC,A,Hawaii,L,21,27,14,26,159,2,43,134,1,10,6,3,22,2,2
+2010-10-30,Nevada,WAC,H,Utah State,W,56,42,12,18,209,2,55,387,6,7,19,9,74,0,0
+2010-11-06,Nevada,WAC,A,Idaho,W,63,17,22,34,391,6,57,453,3,16,21,2,20,0,0
+2010-11-13,Nevada,WAC,A,Fresno State,W,35,34,16,26,171,0,38,245,5,9,8,5,43,0,1
+2010-11-20,Nevada,WAC,H,New Mexico State,W,52,6,15,27,251,2,40,243,4,11,12,3,31,1,0
+2010-11-26,Nevada,WAC,H,Boise State,W,34,31,19,35,259,1,52,269,3,13,14,4,29,0,1
+2010-12-04,Nevada,WAC,A,Louisiana Tech,W,35,17,13,17,159,0,61,360,5,10,20,4,39,0,0
+2011-01-09,Nevada,WAC,N,Boston College,W,20,13,20,33,192,1,40,114,0,10,5,6,75,2,1
+2010-09-11,North Carolina State,ACC,A,UCF,W,28,21,10,30,105,1,40,134,2,5,10,7,36,0,0
+2010-09-16,North Carolina State,ACC,H,Cincinnati,W,30,19,26,40,333,3,36,158,1,17,8,6,47,2,0
+2010-09-25,North Carolina State,ACC,A,Georgia Tech,W,45,28,28,41,368,3,40,159,2,18,8,4,35,1,1
+2010-10-02,North Carolina State,ACC,H,Virginia Tech,L,30,41,21,49,362,3,33,145,0,14,7,9,61,0,3
+2010-10-09,North Carolina State,ACC,H,Boston College,W,44,17,41,56,347,3,28,75,0,16,7,2,12,0,2
+2010-10-16,North Carolina State,ACC,A,East Carolina,L,27,33,26,52,322,1,39,154,2,14,11,6,49,1,3
+2010-10-28,North Carolina State,ACC,H,Florida State,W,28,24,18,28,178,1,53,189,3,9,12,9,60,1,1
+2010-11-06,North Carolina State,ACC,A,Clemson,L,13,14,22,36,212,1,29,63,0,11,2,4,25,1,1
+2010-11-13,North Carolina State,ACC,H,Wake Forest,W,38,3,28,39,328,2,22,59,3,15,5,3,23,0,1
+2010-11-20,North Carolina State,ACC,A,North Carolina,W,29,25,15,29,163,2,33,112,0,7,8,6,51,0,1
+2010-11-27,North Carolina State,ACC,A,Maryland,L,31,38,31,62,311,2,36,123,2,20,8,2,20,1,1
+2010-12-28,North Carolina State,ACC,N,West Virginia,W,23,7,28,45,275,2,36,103,0,14,6,4,39,1,0
+2010-09-02,Hawaii,WAC,H,USC,L,36,49,27,49,459,3,29,129,1,17,10,5,42,0,0
+2010-09-11,Hawaii,WAC,A,Army,W,31,28,25,37,343,3,11,10,1,15,3,10,68,2,0
+2010-09-18,Hawaii,WAC,A,Colorado,L,13,31,27,42,330,1,13,7,0,13,0,6,37,1,1
+2010-10-02,Hawaii,WAC,H,Louisiana Tech,W,41,21,42,58,532,4,22,115,1,21,8,8,80,2,0
+2010-10-09,Hawaii,WAC,A,Fresno State,W,49,27,29,49,376,3,18,96,3,19,5,6,45,0,1
+2010-10-16,Hawaii,WAC,H,Nevada,W,27,21,26,36,287,3,21,59,0,14,3,8,66,1,0
+2010-10-23,Hawaii,WAC,A,Utah State,W,45,7,25,43,389,1,29,216,4,17,8,6,54,0,2
+2010-10-30,Hawaii,WAC,H,Idaho,W,45,10,29,44,353,3,26,141,2,15,9,8,89,0,1
+2010-11-06,Hawaii,WAC,A,Boise State,L,7,42,21,35,151,0,22,45,1,7,4,4,15,0,0
+2010-11-20,Hawaii,WAC,H,San Jose State,W,41,7,35,50,593,3,16,33,1,26,1,4,30,1,2
+2010-11-27,Hawaii,WAC,A,New Mexico State,W,59,24,21,31,315,4,23,291,3,15,8,4,42,0,1
+2010-12-04,Hawaii,WAC,H,Nevada-Las Vegas,W,59,21,31,46,423,4,28,183,4,16,9,7,85,0,1
+2010-12-24,Hawaii,WAC,H,Tulsa,L,35,62,30,56,479,3,27,71,2,21,6,6,42,1,5
+2010-09-11,Rutgers,Big East,A,Florida International,W,19,14,8,16,96,1,38,76,1,4,4,3,15,2,1
+2010-09-25,Rutgers,Big East,H,North Carolina,L,13,17,17,32,157,0,37,87,1,8,6,11,72,0,2
+2010-10-02,Rutgers,Big East,H,Tulane,L,14,17,15,34,205,1,33,148,1,11,3,9,75,0,1
+2010-10-08,Rutgers,Big East,H,Connecticut,W,27,24,19,32,365,2,38,88,1,13,5,11,57,0,0
+2010-10-16,Rutgers,Big East,H,Army,W,23,20,18,31,251,2,35,-1,1,10,2,12,63,0,1
+2010-10-23,Rutgers,Big East,A,Pitt,L,21,41,10,22,108,1,36,95,1,6,6,4,50,1,1
+2010-11-03,Rutgers,Big East,A,South Florida,L,27,28,20,23,160,1,30,78,1,7,4,7,42,0,0
+2010-11-13,Rutgers,Big East,H,Syracuse,L,10,13,10,25,111,0,48,169,1,6,11,6,45,1,0
+2010-11-20,Rutgers,Big East,A,Cincinnati,L,38,69,21,33,400,5,27,-9,0,14,1,5,45,0,2
+2010-11-26,Rutgers,Big East,H,Louisville,L,13,40,15,34,181,0,43,149,2,10,11,5,44,0,2
+2010-12-04,Rutgers,Big East,A,West Virginia,L,14,35,12,21,140,2,30,63,0,7,4,3,35,1,0
+2010-09-09,Central Michigan,MAC,A,Temple,L,10,13,25,35,299,0,33,43,1,11,5,8,74,1,2
+2010-09-18,Central Michigan,MAC,A,Eastern Michigan,W,52,14,15,23,254,2,46,269,4,12,13,9,67,1,0
+2010-09-25,Central Michigan,MAC,A,Northwestern,L,25,30,29,43,347,2,23,76,2,16,5,9,90,1,2
+2010-10-02,Central Michigan,MAC,H,Ball State,L,17,31,25,48,295,2,26,76,0,11,7,5,60,1,3
+2010-10-09,Central Michigan,MAC,A,Virginia Tech,L,21,45,21,48,266,3,36,135,0,12,7,5,45,0,1
+2010-10-16,Central Michigan,MAC,H,Miami (OH),L,20,27,29,52,329,0,24,72,2,16,3,3,20,1,3
+2010-10-23,Central Michigan,MAC,A,Northern Illinois,L,7,33,21,33,211,1,27,94,0,7,8,4,35,1,4
+2010-10-30,Central Michigan,MAC,H,Bowling Green State,L,14,17,14,25,132,1,34,99,0,5,9,4,30,2,1
+2010-11-05,Central Michigan,MAC,H,Western Michigan,W,26,22,23,36,300,2,34,73,1,13,8,7,50,1,1
+2010-11-13,Central Michigan,MAC,A,Navy,L,37,38,36,59,394,3,32,101,2,22,6,4,40,0,0
+2010-11-26,Central Michigan,MAC,A,Toledo,L,31,42,28,39,322,0,26,63,3,17,1,5,63,2,1
+2010-09-04,Michigan,Big Ten,H,Connecticut,W,30,10,19,22,186,1,61,287,3,9,19,1,13,0,0
+2010-09-11,Michigan,Big Ten,A,Notre Dame,W,28,24,24,40,244,1,41,288,3,13,9,8,99,0,0
+2010-09-25,Michigan,Big Ten,H,Bowling Green State,W,65,21,23,26,255,2,56,466,7,11,18,7,58,2,0
+2010-10-02,Michigan,Big Ten,A,Indiana,W,42,35,11,17,277,3,28,297,3,7,8,5,70,1,0
+2010-10-09,Michigan,Big Ten,H,Michigan State,L,17,34,17,29,215,1,34,162,1,10,9,3,35,0,3
+2010-10-16,Michigan,Big Ten,H,Iowa,L,28,38,30,44,335,2,42,187,2,16,12,8,66,1,3
+2010-10-30,Michigan,Big Ten,A,Penn State,L,31,41,11,25,190,1,42,233,3,7,12,5,55,0,0
+2010-11-06,Michigan,Big Ten,H,Illinois,W,67,65,22,39,419,5,53,257,4,16,13,4,40,2,3
+2010-11-13,Michigan,Big Ten,A,Purdue,W,27,16,14,25,193,1,55,202,2,10,11,6,60,3,2
+2010-11-20,Michigan,Big Ten,H,Wisconsin,L,28,48,19,30,274,2,36,168,2,11,12,1,10,1,1
+2010-11-27,Michigan,Big Ten,A,Ohio State,L,7,37,16,33,169,0,41,182,1,11,8,4,35,2,1
+2011-01-01,Michigan,Big Ten,N,Mississippi State,L,14,52,27,41,254,2,25,88,0,9,6,5,40,1,1
+2010-09-04,New Mexico,MWC,A,Oregon,L,0,72,13,29,82,0,32,25,0,5,3,3,25,3,2
+2010-09-11,New Mexico,MWC,H,Texas Tech,L,17,52,32,52,336,1,27,97,1,16,6,16,145,1,2
+2010-09-18,New Mexico,MWC,H,Utah,L,14,56,18,35,161,1,37,69,0,7,7,5,54,0,1
+2010-09-25,New Mexico,MWC,A,Nevada-Las Vegas,L,10,45,17,40,177,1,38,114,0,10,6,9,69,1,2
+2010-10-02,New Mexico,MWC,H,UTEP,L,20,38,18,32,139,0,31,98,1,7,7,6,32,1,2
+2010-10-09,New Mexico,MWC,A,New Mexico State,L,14,16,12,23,160,1,42,114,1,6,8,8,115,4,1
+2010-10-23,New Mexico,MWC,H,San Diego State,L,20,30,15,36,193,2,31,109,0,6,5,10,87,1,1
+2010-10-30,New Mexico,MWC,A,Colorado State,L,14,38,12,22,141,1,34,96,1,5,6,4,30,0,0
+2010-11-06,New Mexico,MWC,H,Wyoming,W,34,31,16,20,211,2,58,219,2,7,15,3,25,0,0
+2010-11-13,New Mexico,MWC,A,Air Force,L,23,48,15,25,99,1,39,159,2,7,8,6,45,2,0
+2010-11-20,New Mexico,MWC,A,Brigham Young,L,7,40,15,30,159,1,31,100,0,5,8,5,25,1,3
+2010-11-27,New Mexico,MWC,H,Texas Christian,L,17,66,9,21,34,0,40,96,2,0,7,4,49,2,1
+2010-09-04,Notre Dame,Ind,H,Purdue,W,23,12,19,26,205,1,36,153,1,10,10,2,15,1,0
+2010-09-11,Notre Dame,Ind,H,Michigan,L,24,28,21,44,381,2,32,154,1,12,8,4,29,0,3
+2010-09-18,Notre Dame,Ind,A,Michigan State,L,31,34,32,55,369,4,26,92,0,20,5,7,72,2,1
+2010-09-25,Notre Dame,Ind,H,Stanford,L,14,37,26,45,307,1,23,44,0,15,4,6,62,1,1
+2010-10-02,Notre Dame,Ind,A,Boston College,W,31,13,24,45,203,2,31,112,2,12,4,2,22,2,1
+2010-10-09,Notre Dame,Ind,H,Pitt,W,23,17,24,39,242,1,31,87,1,12,9,6,60,0,0
+2010-10-16,Notre Dame,Ind,H,Western Michigan,W,44,20,20,30,299,4,34,149,2,10,6,9,80,0,1
+2010-10-23,Notre Dame,Ind,N,Navy,L,17,35,25,38,257,1,30,106,1,15,7,1,15,0,2
+2010-10-30,Notre Dame,Ind,H,Tulsa,L,27,28,33,56,334,4,24,124,0,15,7,7,46,1,3
+2010-11-13,Notre Dame,Ind,H,Utah,W,28,3,13,20,129,3,29,127,0,7,4,5,45,0,0
+2010-11-20,Notre Dame,Ind,A,Army,W,27,3,13,20,214,1,38,155,1,8,7,5,55,0,1
+2010-11-27,Notre Dame,Ind,A,USC,W,20,16,20,34,149,2,32,147,1,7,8,1,10,1,3
+2010-12-31,Notre Dame,Ind,N,Miami (FL),W,33,17,15,29,201,2,48,196,1,9,10,3,20,0,0
+2010-09-05,East Carolina,CUSA,H,Tulsa,W,51,49,27,47,383,5,34,155,2,17,9,5,50,0,1
+2010-09-11,East Carolina,CUSA,H,Memphis,W,49,27,29,41,264,3,36,161,3,12,12,7,41,0,0
+2010-09-18,East Carolina,CUSA,A,Virginia Tech,L,27,49,30,44,251,1,30,110,2,12,7,11,100,0,2
+2010-10-02,East Carolina,CUSA,A,North Carolina,L,17,42,34,52,283,2,16,64,0,16,3,13,120,0,3
+2010-10-09,East Carolina,CUSA,A,Southern Mississippi,W,44,43,18,36,305,4,24,33,1,13,2,9,76,1,3
+2010-10-16,East Carolina,CUSA,H,North Carolina State,W,33,27,37,53,376,2,33,120,2,18,5,10,90,4,0
+2010-10-23,East Carolina,CUSA,H,Marshall,W,37,10,28,47,261,2,26,194,2,12,10,9,94,0,1
+2010-10-30,East Carolina,CUSA,A,UCF,L,35,49,39,54,310,3,26,111,2,14,6,2,15,0,1
+2010-11-06,East Carolina,CUSA,H,Navy,L,35,76,43,65,413,5,24,154,0,20,8,5,50,4,0
+2010-11-11,East Carolina,CUSA,A,UAB,W,54,42,30,47,364,5,29,128,2,14,8,10,74,0,0
+2010-11-20,East Carolina,CUSA,A,Rice,L,38,62,21,39,308,3,26,146,2,14,6,1,5,1,2
+2010-11-26,East Carolina,CUSA,H,SMU,L,38,45,33,45,314,2,33,138,3,13,11,6,44,1,1
+2010-12-29,East Carolina,CUSA,A,Maryland,L,20,51,39,62,311,2,21,32,0,15,1,15,120,2,2
+2010-09-02,Pitt,Big East,A,Utah,L,24,27,16,28,184,1,36,82,1,9,6,12,75,1,1
+2010-09-23,Pitt,Big East,H,Miami (FL),L,3,31,13,24,104,0,36,128,0,4,6,9,53,1,2
+2010-10-02,Pitt,Big East,H,Florida International,W,44,17,15,25,169,1,36,300,4,9,11,10,64,1,0
+2010-10-09,Pitt,Big East,A,Notre Dame,L,17,23,27,39,272,1,31,110,1,10,7,3,23,1,1
+2010-10-16,Pitt,Big East,A,Syracuse,W,45,14,17,24,281,4,34,123,1,8,6,10,99,0,0
+2010-10-23,Pitt,Big East,H,Rutgers,W,41,21,22,28,307,3,39,206,2,13,10,4,20,1,1
+2010-10-30,Pitt,Big East,H,Louisville,W,20,3,13,24,123,0,37,132,2,8,6,4,35,0,0
+2010-11-11,Pitt,Big East,A,Connecticut,L,28,30,20,28,220,1,34,143,3,10,8,3,35,1,2
+2010-11-20,Pitt,Big East,A,South Florida,W,17,10,11,16,142,1,38,150,1,7,9,11,116,1,0
+2010-11-26,Pitt,Big East,H,West Virginia,L,10,35,28,46,284,1,27,78,0,14,4,4,24,3,1
+2010-12-04,Pitt,Big East,A,Cincinnati,W,28,10,14,23,158,0,47,272,4,8,11,7,72,1,1
+2011-01-08,Pitt,Big East,N,Kentucky,W,27,10,9,19,96,1,46,261,2,8,11,3,30,0,1
+2010-09-04,Akron,MAC,H,Syracuse,L,3,29,12,35,111,0,24,55,0,5,2,10,82,0,0
+2010-09-18,Akron,MAC,A,Kentucky,L,10,47,6,24,105,1,37,67,0,5,5,6,50,0,0
+2010-09-25,Akron,MAC,A,Indiana,L,20,35,15,27,175,2,30,160,0,10,7,5,46,0,0
+2010-10-02,Akron,MAC,H,Northern Illinois,L,14,50,14,27,128,0,27,129,2,7,4,5,67,0,2
+2010-10-09,Akron,MAC,A,Kent State,L,17,28,16,33,133,0,35,62,2,8,6,10,65,2,3
+2010-10-16,Akron,MAC,A,Ohio,L,10,38,21,34,206,1,24,72,0,9,4,6,40,0,2
+2010-10-23,Akron,MAC,H,Western Michigan,L,10,56,12,24,120,0,41,154,0,6,5,2,25,2,1
+2010-10-30,Akron,MAC,A,Temple,L,0,30,15,27,134,0,28,20,0,7,1,3,25,0,1
+2010-11-06,Akron,MAC,A,Ball State,L,30,37,18,39,178,4,36,180,0,11,6,3,25,0,3
+2010-11-17,Akron,MAC,H,Miami (OH),L,14,19,18,34,213,0,23,105,2,10,2,7,56,1,1
+2010-11-26,Akron,MAC,H,Buffalo,W,22,14,13,24,193,3,44,133,0,6,9,4,30,2,0
+2010-09-11,Wyoming,MWC,A,Texas,L,7,34,20,31,199,0,30,58,1,7,2,6,53,0,0
+2010-09-18,Wyoming,MWC,H,Boise State,L,6,51,12,21,156,1,28,-21,0,4,3,5,35,1,2
+2010-09-25,Wyoming,MWC,H,Air Force,L,14,20,6,11,66,0,34,174,2,2,10,2,14,1,1
+2010-10-02,Wyoming,MWC,A,Toledo,W,20,15,13,24,173,1,44,93,1,4,7,4,45,1,1
+2010-10-09,Wyoming,MWC,A,Texas Christian,L,0,45,11,17,116,0,28,75,0,5,2,5,30,0,1
+2010-10-16,Wyoming,MWC,H,Utah,L,6,30,10,17,116,1,38,67,0,4,5,2,20,0,0
+2010-10-23,Wyoming,MWC,A,Brigham Young,L,20,25,13,29,110,1,27,63,0,7,4,7,65,1,0
+2010-10-30,Wyoming,MWC,H,San Diego State,L,38,48,20,40,186,3,34,152,2,12,7,10,72,0,1
+2010-11-06,Wyoming,MWC,A,New Mexico,L,31,34,6,12,144,1,45,392,3,6,13,3,35,3,1
+2010-11-13,Wyoming,MWC,A,Nevada-Las Vegas,L,16,42,14,23,140,1,30,133,1,3,8,9,64,1,1
+2010-11-20,Wyoming,MWC,H,Colorado State,W,44,0,23,32,267,0,39,212,6,11,10,7,77,0,0
+2010-09-11,Georgia Tech,ACC,A,Kansas,L,25,28,5,15,116,1,52,291,2,3,13,9,91,1,0
+2010-09-18,Georgia Tech,ACC,A,North Carolina,W,30,24,3,4,76,1,63,372,2,3,17,7,50,1,0
+2010-09-25,Georgia Tech,ACC,H,North Carolina State,L,28,45,5,18,116,1,48,247,2,4,11,4,35,2,0
+2010-10-02,Georgia Tech,ACC,A,Wake Forest,W,24,20,11,21,130,2,48,209,0,6,9,8,79,2,0
+2010-10-09,Georgia Tech,ACC,H,Virginia,W,33,21,3,6,59,0,74,477,4,2,23,6,55,1,1
+2010-10-16,Georgia Tech,ACC,H,Middle Tennessee State,W,42,14,5,14,86,1,57,329,5,4,14,5,45,2,0
+2010-10-23,Georgia Tech,ACC,A,Clemson,L,13,27,6,19,83,1,49,242,0,5,13,5,55,0,1
+2010-11-04,Georgia Tech,ACC,A,Virginia Tech,L,21,28,2,10,80,0,51,346,3,2,13,9,52,0,2
+2010-11-13,Georgia Tech,ACC,H,Miami (FL),L,10,35,7,17,101,1,59,308,0,4,15,7,59,2,0
+2010-11-20,Georgia Tech,ACC,H,Duke,W,30,20,2,7,90,1,62,320,1,2,16,8,69,2,0
+2010-11-27,Georgia Tech,ACC,A,Georgia,L,34,42,8,15,101,0,77,411,5,5,26,4,31,3,1
+2010-12-27,Georgia Tech,ACC,N,Air Force,L,7,14,5,14,41,0,57,279,1,2,16,3,22,3,1
+2010-09-11,Wake Forest,ACC,H,Duke,W,54,48,13,24,271,4,53,229,3,8,15,5,55,0,2
+2010-09-18,Wake Forest,ACC,A,Stanford,L,24,68,8,20,76,0,53,207,3,4,15,2,5,1,1
+2010-09-25,Wake Forest,ACC,A,Florida State,L,0,31,11,17,82,0,43,103,0,0,10,5,42,1,1
+2010-10-02,Wake Forest,ACC,H,Georgia Tech,L,20,24,10,23,107,0,43,161,2,6,4,7,54,0,0
+2010-10-09,Wake Forest,ACC,H,Navy,L,27,28,37,53,326,2,24,77,1,16,8,6,47,2,0
+2010-10-16,Wake Forest,ACC,A,Virginia Tech,L,21,52,4,17,92,1,25,254,2,1,8,8,75,0,0
+2010-10-30,Wake Forest,ACC,A,Maryland,L,14,62,17,34,158,1,21,-3,1,7,1,2,30,0,2
+2010-11-06,Wake Forest,ACC,H,Boston College,L,13,23,19,31,218,1,31,69,0,9,5,6,51,1,4
+2010-11-13,Wake Forest,ACC,A,North Carolina State,L,3,38,10,13,78,0,45,110,0,1,10,5,50,1,0
+2010-11-20,Wake Forest,ACC,H,Clemson,L,10,30,17,32,151,0,29,54,1,5,5,5,50,0,0
+2010-11-27,Wake Forest,ACC,A,Vanderbilt,W,34,13,10,14,73,0,43,226,4,3,12,2,20,0,0
+2010-09-04,Arkansas State,Sun Belt,A,Auburn,L,26,52,33,49,323,1,35,43,2,17,4,5,28,0,0
+2010-09-11,Arkansas State,Sun Belt,A,Louisiana,L,24,31,25,46,438,2,19,18,1,14,1,5,38,2,1
+2010-09-18,Arkansas State,Sun Belt,H,Louisiana-Monroe,W,34,20,21,33,240,1,48,234,3,10,14,12,104,1,0
+2010-09-25,Arkansas State,Sun Belt,A,Troy,L,28,35,16,33,237,2,47,213,2,9,11,6,60,1,2
+2010-10-02,Arkansas State,Sun Belt,H,Louisville,L,24,34,12,25,209,3,36,200,0,7,10,6,30,2,2
+2010-10-09,Arkansas State,Sun Belt,A,North Texas,W,24,19,14,27,169,1,39,158,2,9,6,8,72,1,0
+2010-10-16,Arkansas State,Sun Belt,A,Indiana,L,34,36,35,46,276,2,22,61,3,13,4,10,92,1,2
+2010-10-23,Arkansas State,Sun Belt,H,Florida Atlantic,W,37,16,29,47,234,1,44,174,3,11,13,9,50,0,1
+2010-11-02,Arkansas State,Sun Belt,H,Middle Tennessee State,W,51,24,18,29,288,3,38,205,4,12,13,3,25,0,1
+2010-11-13,Arkansas State,Sun Belt,H,Western Kentucky,L,35,36,27,39,306,3,27,142,2,14,8,8,90,3,2
+2010-11-20,Arkansas State,Sun Belt,A,Navy,L,19,35,22,30,178,1,38,187,1,8,14,6,65,1,1
+2010-11-27,Arkansas State,Sun Belt,A,Florida International,L,24,31,12,32,154,3,27,154,0,7,10,6,60,0,0
+2010-09-04,Mississippi State,SEC,H,Memphis,W,49,7,20,25,372,5,41,197,2,16,9,3,30,0,1
+2010-09-09,Mississippi State,SEC,H,Auburn,L,14,17,16,35,129,0,33,117,2,8,7,2,25,1,1
+2010-09-18,Mississippi State,SEC,A,LSU,L,7,29,10,18,116,0,44,152,1,6,10,5,40,0,5
+2010-09-25,Mississippi State,SEC,H,Georgia,W,24,12,9,15,148,2,43,166,1,9,8,4,30,0,1
+2010-10-09,Mississippi State,SEC,A,Houston,W,47,24,12,23,129,0,57,409,5,8,20,8,60,0,0
+2010-10-16,Mississippi State,SEC,A,Florida,W,10,7,4,9,33,0,49,212,1,1,14,6,45,0,0
+2010-10-23,Mississippi State,SEC,H,UAB,W,29,24,8,19,107,1,53,271,1,5,12,11,78,0,0
+2010-10-30,Mississippi State,SEC,H,Kentucky,W,24,17,7,19,111,1,39,214,2,4,10,4,50,1,0
+2010-11-13,Mississippi State,SEC,A,Alabama,L,10,30,12,23,150,1,49,149,0,7,10,7,49,0,2
+2010-11-20,Mississippi State,SEC,H,Arkansas,L,31,38,20,30,224,0,70,262,4,11,19,3,29,3,0
+2010-11-27,Mississippi State,SEC,A,Ole Miss,W,31,23,13,20,288,3,50,210,1,9,8,3,25,2,1
+2011-01-01,Mississippi State,SEC,N,Michigan,W,52,14,18,23,281,3,58,204,4,13,12,3,23,0,1
+2010-09-04,Nevada-Las Vegas,MWC,H,Wisconsin,L,21,41,10,26,105,2,27,112,0,3,6,4,30,1,0
+2010-09-11,Nevada-Las Vegas,MWC,A,Utah,L,10,38,18,37,217,0,42,102,0,10,6,7,41,1,0
+2010-09-18,Nevada-Las Vegas,MWC,A,Idaho,L,7,30,7,15,128,1,36,59,0,6,3,7,56,1,1
+2010-09-25,Nevada-Las Vegas,MWC,H,New Mexico,W,45,10,17,25,230,3,39,185,2,9,9,5,50,0,0
+2010-10-02,Nevada-Las Vegas,MWC,H,Nevada,L,26,44,14,23,214,1,33,80,2,9,4,10,132,1,1
+2010-10-09,Nevada-Las Vegas,MWC,A,West Virginia,L,10,49,20,32,180,1,40,96,0,7,5,4,43,0,2
+2010-10-16,Nevada-Las Vegas,MWC,A,Colorado State,L,10,43,16,24,125,0,45,149,1,6,11,6,72,2,0
+2010-10-30,Nevada-Las Vegas,MWC,H,Texas Christian,L,6,48,15,32,128,1,24,69,0,5,5,9,88,0,2
+2010-11-06,Nevada-Las Vegas,MWC,A,Brigham Young,L,7,55,11,29,122,1,28,22,0,6,4,6,70,0,2
+2010-11-13,Nevada-Las Vegas,MWC,H,Wyoming,W,42,16,14,19,179,3,44,197,3,8,12,8,89,1,0
+2010-11-18,Nevada-Las Vegas,MWC,H,Air Force,L,20,35,18,31,224,1,36,113,1,12,5,3,33,0,1
+2010-11-27,Nevada-Las Vegas,MWC,A,San Diego State,L,14,48,14,30,167,1,28,67,0,9,5,3,31,0,0
+2010-12-04,Nevada-Las Vegas,MWC,A,Hawaii,L,21,59,17,29,203,3,31,92,0,7,7,5,32,0,3
+2010-09-11,South Florida,Big East,A,Florida,L,14,38,6,23,86,1,39,244,1,2,13,7,45,1,4
+2010-09-25,South Florida,Big East,H,Western Kentucky,W,24,12,7,11,57,0,44,226,3,2,12,6,45,0,1
+2010-10-02,South Florida,Big East,H,Florida Atlantic,W,31,3,14,20,155,1,39,136,2,7,11,7,58,0,0
+2010-10-09,South Florida,Big East,H,Syracuse,L,9,13,9,23,124,0,37,95,0,7,4,4,20,0,2
+2010-10-14,South Florida,Big East,A,West Virginia,L,6,20,22,33,137,0,29,65,0,6,6,3,25,0,3
+2010-10-22,South Florida,Big East,A,Cincinnati,W,38,30,13,16,286,2,36,92,3,8,5,3,40,0,0
+2010-11-03,South Florida,Big East,H,Rutgers,W,28,27,10,17,149,2,41,157,1,6,8,6,55,0,1
+2010-11-13,South Florida,Big East,A,Louisville,W,24,21,11,19,87,1,39,172,0,3,6,5,55,1,0
+2010-11-20,South Florida,Big East,H,Pitt,L,10,17,15,29,132,0,37,153,1,3,9,6,53,0,1
+2010-11-27,South Florida,Big East,A,Miami (FL),W,23,20,12,27,159,0,46,135,3,8,7,10,58,1,0
+2010-12-04,South Florida,Big East,H,Connecticut,L,16,19,22,41,195,1,31,138,0,9,6,7,55,0,3
+2010-12-31,South Florida,Big East,N,Clemson,W,31,26,20,28,189,2,37,90,2,12,4,3,40,1,1
+2010-09-11,Buffalo,MAC,A,Baylor,L,6,34,18,47,163,0,35,162,0,9,8,5,43,1,1
+2010-09-18,Buffalo,MAC,H,UCF,L,10,24,15,32,190,1,49,136,0,12,8,2,22,0,2
+2010-09-25,Buffalo,MAC,A,Connecticut,L,21,45,18,46,227,3,44,141,0,9,8,4,30,0,4
+2010-10-02,Buffalo,MAC,A,Bowling Green State,W,28,26,19,34,241,3,58,200,1,13,11,9,104,2,4
+2010-10-16,Buffalo,MAC,A,Northern Illinois,L,14,45,9,26,120,1,33,130,0,5,5,7,59,1,1
+2010-10-23,Buffalo,MAC,H,Temple,L,0,42,11,32,98,0,33,63,0,5,4,2,29,1,3
+2010-10-30,Buffalo,MAC,H,Miami (OH),L,9,21,16,34,210,0,34,55,1,9,3,3,25,1,0
+2010-11-04,Buffalo,MAC,A,Ohio,L,17,34,8,27,84,1,35,124,1,5,10,5,58,1,2
+2010-11-12,Buffalo,MAC,H,Ball State,L,3,20,7,22,56,0,31,88,0,4,3,7,73,1,3
+2010-11-20,Buffalo,MAC,H,Eastern Michigan,L,17,21,20,33,222,2,25,75,0,12,2,6,50,0,0
+2010-11-26,Buffalo,MAC,A,Akron,L,14,22,19,35,268,2,35,96,0,12,7,7,72,1,2
+2010-09-04,Kansas State,Big 12,H,UCLA,W,31,22,12,17,64,1,54,313,3,3,13,6,52,2,0
+2010-09-18,Kansas State,Big 12,H,Iowa State,W,27,20,6,12,104,0,50,262,3,5,19,4,37,0,1
+2010-09-25,Kansas State,Big 12,H,UCF,W,17,13,11,22,189,1,32,83,1,4,6,3,26,1,1
+2010-10-07,Kansas State,Big 12,H,Nebraska,L,13,48,19,27,135,1,44,180,0,10,8,4,30,0,1
+2010-10-14,Kansas State,Big 12,A,Kansas,W,59,7,15,17,184,2,41,286,5,8,12,4,47,1,0
+2010-10-23,Kansas State,Big 12,A,Baylor,L,42,47,21,31,298,1,34,109,4,13,5,8,45,1,1
+2010-10-30,Kansas State,Big 12,H,Oklahoma State,L,14,24,25,38,178,0,37,111,2,7,7,7,40,0,3
+2010-11-06,Kansas State,Big 12,H,Texas,W,39,14,2,4,9,0,50,261,5,0,11,2,14,0,0
+2010-11-13,Kansas State,Big 12,A,Missouri,L,28,38,15,26,235,2,44,187,2,11,10,6,54,3,1
+2010-11-20,Kansas State,Big 12,A,Colorado,L,36,44,17,26,310,2,38,101,3,12,6,7,57,1,0
+2010-11-27,Kansas State,Big 12,A,North Texas,W,49,41,9,21,77,1,59,373,5,5,16,3,15,1,0
+2010-12-30,Kansas State,Big 12,N,Syracuse,L,34,36,18,25,258,2,36,121,3,10,6,4,99,0,0
+2010-09-11,Louisiana-Monroe,Sun Belt,N,Arkansas,L,7,31,8,19,72,1,37,116,0,4,6,8,70,1,1
+2010-09-18,Louisiana-Monroe,Sun Belt,A,Arkansas State,L,20,34,19,32,267,2,30,124,1,10,8,7,51,0,2
+2010-10-02,Louisiana-Monroe,Sun Belt,A,Auburn,L,3,52,29,41,232,0,33,38,0,14,5,7,55,3,1
+2010-10-09,Louisiana-Monroe,Sun Belt,H,Florida Atlantic,W,20,17,26,42,338,1,40,80,1,15,5,5,25,1,1
+2010-10-16,Louisiana-Monroe,Sun Belt,A,Western Kentucky,W,35,30,20,35,208,1,32,131,3,11,5,13,98,0,0
+2010-10-23,Louisiana-Monroe,Sun Belt,A,Middle Tennessee State,L,10,38,27,45,273,1,28,-4,0,10,2,9,77,0,2
+2010-10-30,Louisiana-Monroe,Sun Belt,H,Troy,W,28,14,21,31,237,1,49,191,3,13,9,8,70,1,0
+2010-11-06,Louisiana-Monroe,Sun Belt,A,Florida International,L,35,42,29,40,366,3,39,116,1,16,7,5,45,0,1
+2010-11-13,Louisiana-Monroe,Sun Belt,A,LSU,L,0,51,10,22,67,0,38,123,0,4,6,5,45,2,3
+2010-11-20,Louisiana-Monroe,Sun Belt,H,North Texas,W,49,37,18,23,247,5,51,233,2,9,13,6,55,0,1
+2010-11-27,Louisiana-Monroe,Sun Belt,H,Louisiana,L,22,23,17,37,164,1,44,182,1,10,9,8,78,1,1
+2010-09-04,UCLA,Pac-10,A,Kansas State,L,22,31,9,26,120,1,37,193,1,6,10,8,55,1,2
+2010-09-11,UCLA,Pac-10,H,Stanford,L,0,35,11,21,81,0,33,152,0,4,9,5,40,2,2
+2010-09-18,UCLA,Pac-10,H,Houston,W,31,13,9,17,99,0,51,266,4,5,16,6,75,2,1
+2010-09-25,UCLA,Pac-10,A,Texas,W,34,12,5,9,27,1,56,264,3,2,13,8,75,2,0
+2010-10-02,UCLA,Pac-10,H,Washington State,W,42,28,12,23,128,0,56,437,5,8,17,10,103,2,0
+2010-10-09,UCLA,Pac-10,A,California,L,7,35,15,37,118,1,26,26,0,8,1,7,55,1,1
+2010-10-21,UCLA,Pac-10,A,Oregon,L,13,60,16,23,159,0,47,131,1,7,9,4,47,2,1
+2010-10-30,UCLA,Pac-10,H,Arizona,L,21,29,13,27,228,2,28,71,1,10,5,5,44,1,1
+2010-11-06,UCLA,Pac-10,H,Oregon State,W,17,14,13,19,127,0,55,210,2,6,14,6,43,0,1
+2010-11-18,UCLA,Pac-10,A,Washington,L,7,24,6,25,55,0,36,108,1,2,7,8,99,0,3
+2010-11-26,UCLA,Pac-10,A,Arizona State,L,34,55,33,56,321,3,30,121,1,17,8,6,36,0,1
+2010-12-04,UCLA,Pac-10,H,USC,L,14,28,20,35,230,1,29,128,1,10,6,7,53,2,1
+2010-09-04,Northwestern,Big Ten,A,Vanderbilt,W,23,21,19,21,222,3,46,143,0,7,10,5,40,1,0
+2010-09-18,Northwestern,Big Ten,A,Rice,W,30,13,24,33,307,1,45,144,1,12,10,6,60,1,0
+2010-09-25,Northwestern,Big Ten,H,Central Michigan,W,30,25,23,30,280,2,47,149,2,16,8,11,106,1,1
+2010-10-02,Northwestern,Big Ten,A,Minnesota,W,29,28,23,30,309,2,43,177,2,13,11,10,79,2,1
+2010-10-09,Northwestern,Big Ten,H,Purdue,L,17,20,30,41,305,0,42,84,2,14,8,8,60,1,0
+2010-10-23,Northwestern,Big Ten,H,Michigan State,L,27,35,19,30,215,0,47,170,3,9,13,6,66,1,1
+2010-10-30,Northwestern,Big Ten,A,Indiana,W,20,17,19,30,225,2,42,155,0,10,9,8,69,0,0
+2010-11-06,Northwestern,Big Ten,A,Penn State,L,21,35,16,25,201,1,43,168,2,12,7,4,40,0,0
+2010-11-13,Northwestern,Big Ten,H,Iowa,W,21,17,32,43,318,2,39,101,1,12,12,6,62,0,1
+2010-11-20,Northwestern,Big Ten,H,Illinois,L,27,48,10,20,135,0,28,183,2,7,5,3,35,2,1
+2010-11-27,Northwestern,Big Ten,A,Wisconsin,L,23,70,13,25,123,1,35,161,1,6,11,2,17,3,4
+2011-01-01,Northwestern,Big Ten,N,Texas Tech,L,38,45,14,30,146,1,50,229,3,7,16,7,52,0,1
+2010-09-11,Kansas,Big 12,H,Georgia Tech,W,28,25,18,30,179,3,41,141,1,10,6,5,60,0,1
+2010-09-17,Kansas,Big 12,A,Southern Mississippi,L,16,31,16,26,138,1,44,136,1,7,10,3,19,0,0
+2010-09-25,Kansas,Big 12,H,New Mexico State,W,42,16,18,29,264,1,44,237,4,11,12,9,67,0,0
+2010-10-02,Kansas,Big 12,A,Baylor,L,7,55,16,28,171,1,37,99,0,9,6,6,44,2,2
+2010-10-14,Kansas,Big 12,H,Kansas State,L,7,59,26,46,228,0,36,103,1,12,7,7,76,2,1
+2010-10-23,Kansas,Big 12,H,Texas A&M,L,10,45,16,31,130,1,46,201,0,6,12,5,56,0,2
+2010-10-30,Kansas,Big 12,A,Iowa State,L,16,28,22,33,149,1,42,119,0,8,8,6,50,0,1
+2010-11-06,Kansas,Big 12,H,Colorado,W,52,45,23,28,252,2,44,201,4,12,13,11,124,0,2
+2010-11-13,Kansas,Big 12,A,Nebraska,L,3,20,3,13,15,0,34,72,0,1,3,1,9,0,1
+2010-11-20,Kansas,Big 12,H,Oklahoma State,L,14,48,19,32,174,1,34,114,1,9,5,9,91,0,0
+2010-11-27,Kansas,Big 12,N,Missouri,L,7,35,7,24,45,0,36,96,1,3,7,2,15,0,3
+2010-09-04,Western Michigan,MAC,A,Michigan State,L,14,38,30,53,238,2,32,85,0,10,5,5,25,2,1
+2010-09-18,Western Michigan,MAC,H,Toledo,L,24,37,43,64,403,1,26,13,2,19,3,8,80,2,4
+2010-10-02,Western Michigan,MAC,H,Idaho,L,13,33,14,35,104,1,30,80,0,4,5,8,95,2,1
+2010-10-09,Western Michigan,MAC,A,Ball State,W,45,16,18,30,271,1,45,209,4,10,11,5,50,0,0
+2010-10-16,Western Michigan,MAC,A,Notre Dame,L,20,44,28,43,277,0,26,37,2,9,4,2,23,2,2
+2010-10-23,Western Michigan,MAC,A,Akron,W,56,10,18,27,382,5,35,137,1,15,6,5,50,1,0
+2010-10-30,Western Michigan,MAC,H,Northern Illinois,L,21,28,31,53,360,3,21,44,0,18,4,8,70,0,2
+2010-11-05,Western Michigan,MAC,A,Central Michigan,L,22,26,27,44,272,3,37,158,0,12,12,10,94,4,0
+2010-11-13,Western Michigan,MAC,H,Eastern Michigan,W,45,30,17,21,349,4,27,169,2,12,9,4,60,2,0
+2010-11-20,Western Michigan,MAC,H,Kent State,W,38,3,22,33,167,1,32,259,4,12,8,4,29,0,1
+2010-11-26,Western Michigan,MAC,A,Bowling Green State,W,41,7,23,36,251,4,31,191,1,13,8,2,10,0,0
+2010-09-11,Iowa,Big Ten,H,Iowa State,W,35,7,11,20,204,2,50,275,3,6,13,4,25,0,0
+2010-09-18,Iowa,Big Ten,A,Arizona,L,27,34,18,33,278,3,26,29,0,13,3,6,60,0,1
+2010-09-25,Iowa,Big Ten,H,Ball State,W,45,0,21,29,306,4,44,256,2,13,13,9,86,1,0
+2010-10-02,Iowa,Big Ten,H,Penn State,W,24,3,16,22,227,1,36,122,1,10,7,5,29,0,1
+2010-10-16,Iowa,Big Ten,A,Michigan,W,38,28,17,24,248,3,36,135,2,12,7,5,36,0,0
+2010-10-23,Iowa,Big Ten,H,Wisconsin,L,30,31,25,37,258,3,30,118,1,12,9,6,41,0,0
+2010-10-30,Iowa,Big Ten,H,Michigan State,W,37,6,11,16,190,3,42,162,1,9,8,3,35,0,0
+2010-11-06,Iowa,Big Ten,A,Indiana,W,18,13,22,33,290,1,29,155,0,12,10,9,65,0,1
+2010-11-13,Iowa,Big Ten,A,Northwestern,L,17,21,23,43,270,2,28,101,0,9,7,6,39,0,1
+2010-11-20,Iowa,Big Ten,H,Ohio State,L,17,20,20,31,195,1,25,81,1,8,6,4,25,0,0
+2010-11-27,Iowa,Big Ten,A,Minnesota,L,24,27,10,22,127,2,27,91,0,9,5,3,21,2,0
+2010-12-28,Iowa,Big Ten,N,Missouri,W,27,24,11,21,200,0,37,225,2,8,9,3,19,0,2
+2010-09-04,Texas,Big 12,A,Rice,W,34,17,14,24,172,0,46,197,3,8,11,4,30,1,0
+2010-09-11,Texas,Big 12,H,Wyoming,W,34,7,22,35,222,1,29,167,3,9,10,9,80,0,0
+2010-09-18,Texas,Big 12,A,Texas Tech,W,24,14,21,36,227,2,43,93,1,8,6,11,95,1,3
+2010-09-25,Texas,Big 12,H,UCLA,L,12,34,30,45,264,1,23,85,0,11,5,8,57,4,1
+2010-10-02,Texas,Big 12,N,Oklahoma,L,20,28,27,42,266,0,22,107,2,8,6,9,81,1,1
+2010-10-16,Texas,Big 12,A,Nebraska,W,20,13,4,16,62,0,46,209,2,3,7,4,53,0,0
+2010-10-23,Texas,Big 12,H,Iowa State,L,21,28,34,57,344,2,29,96,0,14,11,3,25,1,3
+2010-10-30,Texas,Big 12,H,Baylor,L,22,30,23,40,257,0,37,171,1,13,9,11,103,1,1
+2010-11-06,Texas,Big 12,A,Kansas State,L,14,39,32,59,272,1,26,140,1,14,9,4,55,0,5
+2010-11-13,Texas,Big 12,H,Oklahoma State,L,16,33,20,33,216,0,37,142,2,10,7,2,10,1,1
+2010-11-20,Texas,Big 12,H,Florida Atlantic,W,51,17,15,21,263,2,57,259,3,10,16,6,50,1,0
+2010-11-25,Texas,Big 12,H,Texas A&M,L,17,24,20,37,219,1,38,140,1,10,6,4,25,2,2
+2010-09-04,Texas Christian,MWC,H,Oregon State,W,30,21,17,27,175,1,54,278,3,5,22,6,45,0,2
+2010-09-18,Texas Christian,MWC,H,Baylor,W,45,10,21,23,267,2,48,291,4,13,14,3,25,0,0
+2010-09-24,Texas Christian,MWC,A,SMU,W,41,24,15,27,185,1,46,190,4,10,10,3,35,0,2
+2010-10-02,Texas Christian,MWC,A,Colorado State,W,27,0,12,25,128,1,49,346,2,4,20,4,30,0,0
+2010-10-09,Texas Christian,MWC,H,Wyoming,W,45,0,15,18,281,3,46,305,3,11,16,11,84,0,0
+2010-10-16,Texas Christian,MWC,H,Brigham Young,W,31,3,24,36,273,4,38,108,0,16,7,4,20,0,0
+2010-10-23,Texas Christian,MWC,H,Air Force,W,38,7,11,20,185,1,51,377,4,8,22,3,25,0,1
+2010-10-30,Texas Christian,MWC,A,Nevada-Las Vegas,W,48,6,17,25,257,2,52,273,4,13,16,3,35,2,0
+2010-11-06,Texas Christian,MWC,A,Utah,W,47,7,22,27,381,4,45,177,2,14,9,3,30,1,0
+2010-11-13,Texas Christian,MWC,H,San Diego State,W,40,35,21,36,240,4,54,226,1,12,13,6,45,1,1
+2010-11-27,Texas Christian,MWC,A,New Mexico,W,66,17,13,23,210,4,50,293,5,7,14,10,73,2,0
+2011-01-01,Texas Christian,MWC,N,Wisconsin,W,21,19,15,23,219,1,26,82,2,10,6,4,20,0,0
+2010-09-11,Miami (FL),ACC,A,Ohio State,L,24,36,22,39,232,1,28,120,0,13,6,8,59,0,4
+2010-09-23,Miami (FL),ACC,A,Pitt,W,31,3,21,32,248,2,35,100,2,14,6,8,78,0,2
+2010-10-02,Miami (FL),ACC,A,Clemson,W,30,21,13,33,205,4,43,171,0,9,8,12,105,0,2
+2010-10-09,Miami (FL),ACC,H,Florida State,L,17,45,20,49,235,0,36,189,2,13,10,8,56,1,1
+2010-10-16,Miami (FL),ACC,A,Duke,W,28,13,17,34,224,1,42,224,2,11,11,12,90,2,0
+2010-10-23,Miami (FL),ACC,H,North Carolina,W,33,10,21,32,217,3,44,225,1,11,13,6,51,0,1
+2010-10-30,Miami (FL),ACC,A,Virginia,L,19,24,18,42,269,2,29,179,1,12,8,12,95,0,5
+2010-11-06,Miami (FL),ACC,H,Maryland,W,26,20,18,30,286,1,49,218,2,13,11,10,100,0,2
+2010-11-13,Miami (FL),ACC,A,Georgia Tech,W,35,10,10,18,230,1,46,277,4,8,13,4,31,2,0
+2010-11-20,Miami (FL),ACC,H,Virginia Tech,L,17,31,15,33,202,1,42,262,1,10,12,5,55,3,3
+2010-11-27,Miami (FL),ACC,H,South Florida,L,20,23,20,35,188,0,39,165,2,8,8,5,38,1,2
+2010-12-31,Miami (FL),ACC,N,Notre Dame,L,17,33,26,40,319,2,25,87,0,15,5,10,90,0,4
+2010-09-04,Oregon State,Pac-10,A,Texas Christian,L,21,30,10,26,182,2,25,73,1,8,4,4,30,0,0
+2010-09-18,Oregon State,Pac-10,H,Louisville,W,35,28,15,27,142,2,34,177,3,8,9,7,65,0,0
+2010-09-25,Oregon State,Pac-10,A,Boise State,L,24,37,12,26,159,1,33,78,1,7,6,4,38,0,0
+2010-10-02,Oregon State,Pac-10,H,Arizona State,W,31,28,19,29,260,2,31,156,2,13,3,8,62,0,0
+2010-10-09,Oregon State,Pac-10,A,Arizona,W,29,27,30,42,393,2,35,93,2,17,8,8,52,0,1
+2010-10-16,Oregon State,Pac-10,A,Washington,L,34,35,17,31,206,1,44,147,4,12,8,10,80,0,3
+2010-10-30,Oregon State,Pac-10,H,California,W,35,7,23,32,213,2,37,179,3,12,9,3,47,0,0
+2010-11-06,Oregon State,Pac-10,A,UCLA,L,14,17,18,26,164,1,26,103,1,8,6,5,52,0,0
+2010-11-13,Oregon State,Pac-10,H,Washington State,L,14,31,13,23,164,2,25,97,0,7,5,6,60,2,1
+2010-11-20,Oregon State,Pac-10,H,USC,W,36,7,17,24,154,2,41,174,1,7,10,8,85,0,0
+2010-11-27,Oregon State,Pac-10,A,Stanford,L,0,38,23,46,217,0,24,68,0,14,3,5,52,2,3
+2010-12-04,Oregon State,Pac-10,H,Oregon,L,20,37,24,43,229,2,29,90,0,13,5,5,53,0,4
+2010-09-04,Alabama,SEC,H,San Jose State,W,48,3,22,30,334,2,41,257,4,14,16,4,40,1,0
+2010-09-11,Alabama,SEC,H,Penn State,W,24,3,16,24,229,2,34,180,1,9,10,5,33,1,0
+2010-09-18,Alabama,SEC,A,Duke,W,62,13,17,26,311,3,35,315,4,15,11,6,55,1,1
+2010-09-25,Alabama,SEC,A,Arkansas,W,24,20,18,26,194,1,40,227,2,11,11,8,47,0,2
+2010-10-02,Alabama,SEC,H,Florida,W,31,6,12,18,103,1,34,170,2,7,10,5,47,0,0
+2010-10-09,Alabama,SEC,A,South Carolina,L,21,35,27,35,315,2,29,36,0,13,7,5,31,1,0
+2010-10-16,Alabama,SEC,H,Ole Miss,W,23,10,17,25,219,2,34,100,0,6,7,8,52,1,0
+2010-10-23,Alabama,SEC,A,Tennessee,W,41,10,24,35,326,1,34,210,4,14,9,5,52,0,0
+2010-11-06,Alabama,SEC,A,LSU,L,21,24,21,34,223,2,31,102,1,13,5,3,25,1,1
+2010-11-13,Alabama,SEC,H,Mississippi State,W,30,10,14,23,277,2,36,175,1,10,9,4,24,1,1
+2010-11-26,Alabama,SEC,H,Auburn,L,27,28,27,41,377,2,30,69,1,14,8,7,40,2,0
+2011-01-01,Alabama,SEC,N,Michigan State,W,49,7,19,23,271,1,44,275,6,13,11,3,25,0,0
+2010-09-04,Purdue,Big Ten,A,Notre Dame,L,12,23,31,42,220,0,32,102,1,12,8,5,33,0,2
+2010-09-18,Purdue,Big Ten,H,Ball State,W,24,13,15,26,200,3,46,203,0,10,10,6,68,0,1
+2010-09-25,Purdue,Big Ten,H,Toledo,L,20,31,18,34,150,1,43,220,1,9,12,7,56,2,1
+2010-10-09,Purdue,Big Ten,A,Northwestern,W,20,17,6,18,47,0,42,232,2,2,10,6,44,0,1
+2010-10-16,Purdue,Big Ten,H,Minnesota,W,28,17,13,20,163,1,46,230,3,6,9,9,90,1,1
+2010-10-23,Purdue,Big Ten,A,Ohio State,L,0,49,15,28,88,0,27,30,0,4,4,7,64,1,2
+2010-10-30,Purdue,Big Ten,A,Illinois,L,10,44,7,20,52,1,34,153,0,2,6,4,40,2,0
+2010-11-06,Purdue,Big Ten,H,Wisconsin,L,13,34,19,38,141,1,37,162,0,8,9,3,30,1,3
+2010-11-13,Purdue,Big Ten,H,Michigan,L,16,27,17,33,132,0,36,124,0,5,6,3,25,3,2
+2010-11-20,Purdue,Big Ten,A,Michigan State,L,31,35,16,27,189,2,34,189,1,7,7,9,53,0,2
+2010-11-27,Purdue,Big Ten,H,Indiana,L,31,34,16,30,252,3,30,58,1,8,3,11,106,0,1
+2010-09-04,Nebraska,Big 12,H,Western Kentucky,W,49,10,17,25,247,1,33,289,6,11,12,6,75,2,0
+2010-09-11,Nebraska,Big 12,H,Idaho,W,38,17,13,18,111,0,41,360,3,5,13,10,123,3,1
+2010-09-18,Nebraska,Big 12,A,Washington,W,56,21,7,11,150,1,54,383,6,6,15,7,49,1,0
+2010-10-07,Nebraska,Big 12,A,Kansas State,W,48,13,6,10,136,1,42,451,5,4,16,6,48,0,0
+2010-10-16,Nebraska,Big 12,H,Texas,L,13,20,8,21,77,0,44,125,0,3,7,10,94,1,0
+2010-10-23,Nebraska,Big 12,A,Oklahoma State,W,51,41,23,35,323,5,44,217,0,12,11,7,55,1,0
+2010-10-30,Nebraska,Big 12,H,Missouri,W,31,17,7,12,126,1,47,328,3,6,11,6,53,0,0
+2010-11-06,Nebraska,Big 12,A,Iowa State,W,31,30,7,12,79,0,52,235,3,6,9,6,54,2,0
+2010-11-13,Nebraska,Big 12,H,Kansas,W,20,3,14,26,167,0,49,230,2,9,11,6,54,1,1
+2010-11-20,Nebraska,Big 12,A,Texas A&M,L,6,9,17,28,164,0,37,142,0,6,9,16,145,0,2
+2010-11-26,Nebraska,Big 12,H,Colorado,W,45,17,15,19,142,4,59,265,2,9,14,8,79,0,0
+2010-12-04,Nebraska,Big 12,N,Oklahoma,L,20,23,13,28,148,1,43,145,1,7,6,3,15,3,1
+2010-12-30,Nebraska,Big 12,N,Washington,L,7,19,10,21,98,1,41,91,0,7,6,12,102,1,1
+2010-09-10,West Virginia,Big East,A,Marshall,W,24,21,32,45,316,1,42,153,1,16,10,8,65,2,0
+2010-09-18,West Virginia,Big East,H,Maryland,W,31,17,19,30,268,4,55,201,0,11,10,9,66,2,1
+2010-09-25,West Virginia,Big East,A,LSU,L,14,20,14,29,119,2,27,58,0,6,4,3,39,1,1
+2010-10-09,West Virginia,Big East,H,Nevada-Las Vegas,W,49,10,13,20,226,3,33,219,4,6,9,8,68,0,0
+2010-10-14,West Virginia,Big East,H,South Florida,W,20,6,24,31,219,2,33,79,0,8,7,2,19,0,0
+2010-10-23,West Virginia,Big East,H,Syracuse,L,14,19,20,37,178,1,35,106,1,8,8,9,64,0,3
+2010-10-29,West Virginia,Big East,A,Connecticut,L,13,16,22,34,160,0,47,254,1,7,16,4,35,4,0
+2010-11-13,West Virginia,Big East,H,Cincinnati,W,37,10,15,25,174,4,59,245,1,6,19,2,20,1,1
+2010-11-20,West Virginia,Big East,A,Louisville,W,17,10,9,20,133,0,47,128,2,5,9,4,28,1,0
+2010-11-26,West Virginia,Big East,A,Pitt,W,35,10,9,12,212,3,39,148,2,7,6,5,50,0,0
+2010-12-04,West Virginia,Big East,H,Rutgers,W,35,14,23,28,352,1,45,171,4,14,9,2,20,3,0
+2010-12-28,West Virginia,Big East,N,North Carolina State,L,7,23,22,39,196,1,25,130,0,8,10,3,29,4,1
+2010-09-04,Oklahoma State,Big 12,H,Washington State,W,65,17,27,37,253,3,44,291,5,11,14,4,40,0,0
+2010-09-11,Oklahoma State,Big 12,H,Troy,W,41,38,29,39,348,2,37,174,2,13,10,12,139,3,2
+2010-09-18,Oklahoma State,Big 12,H,Tulsa,W,65,28,31,43,574,8,34,148,0,22,6,7,55,0,1
+2010-09-30,Oklahoma State,Big 12,H,Texas A&M,W,38,35,28,42,284,2,26,67,2,13,6,8,55,1,2
+2010-10-08,Oklahoma State,Big 12,A,Louisiana,W,54,28,29,47,351,5,36,141,1,18,8,4,39,0,2
+2010-10-16,Oklahoma State,Big 12,A,Texas Tech,W,34,17,24,35,356,1,48,225,3,15,13,5,53,0,2
+2010-10-23,Oklahoma State,Big 12,H,Nebraska,L,41,51,18,35,283,2,36,212,3,12,9,8,84,0,1
+2010-10-30,Oklahoma State,Big 12,A,Kansas State,W,24,14,22,39,298,2,37,213,0,15,9,10,100,2,0
+2010-11-06,Oklahoma State,Big 12,H,Baylor,W,55,28,34,43,435,3,39,290,3,21,14,5,30,1,0
+2010-11-13,Oklahoma State,Big 12,A,Texas,W,33,16,29,43,409,1,32,123,3,18,7,4,41,1,1
+2010-11-20,Oklahoma State,Big 12,A,Kansas,W,48,14,33,45,408,3,38,189,2,19,13,8,95,0,0
+2010-11-27,Oklahoma State,Big 12,H,Oklahoma,L,41,47,28,43,257,2,23,122,1,13,5,7,47,0,3
+2010-12-29,Oklahoma State,Big 12,N,Arizona,W,36,10,25,41,240,2,20,72,1,10,5,6,66,0,0
+2010-09-04,Colorado,Big 12,N,Colorado State,W,24,3,17,25,192,2,35,115,1,10,7,10,101,0,1
+2010-09-11,Colorado,Big 12,A,California,L,7,52,18,34,166,0,42,75,1,8,7,9,75,2,3
+2010-09-18,Colorado,Big 12,H,Hawaii,W,31,13,19,26,200,2,52,252,2,12,13,9,48,2,0
+2010-10-02,Colorado,Big 12,H,Georgia,W,29,27,13,20,158,1,47,235,3,6,10,3,21,0,1
+2010-10-09,Colorado,Big 12,A,Missouri,L,0,26,31,46,250,0,26,61,0,13,4,8,46,0,1
+2010-10-16,Colorado,Big 12,H,Baylor,L,25,31,21,28,207,1,49,192,2,13,11,4,28,1,1
+2010-10-23,Colorado,Big 12,H,Texas Tech,L,24,27,31,53,336,2,32,28,1,15,5,7,44,0,0
+2010-10-30,Colorado,Big 12,A,Oklahoma,L,10,43,17,44,187,1,24,76,0,7,5,5,36,0,0
+2010-11-06,Colorado,Big 12,A,Kansas,L,45,52,29,44,322,3,31,142,3,15,9,6,50,1,2
+2010-11-13,Colorado,Big 12,H,Iowa State,W,34,14,16,24,266,3,45,118,0,10,6,10,94,1,0
+2010-11-20,Colorado,Big 12,H,Kansas State,W,44,36,15,26,225,4,44,251,2,9,11,2,5,0,0
+2010-11-26,Colorado,Big 12,A,Nebraska,L,17,45,10,27,163,2,23,99,0,5,4,6,55,1,2
+2010-09-04,Rice,CUSA,H,Texas,L,17,34,12,18,131,1,42,88,1,5,8,4,40,1,1
+2010-09-11,Rice,CUSA,A,North Texas,W,32,31,15,33,245,2,39,106,1,9,3,6,54,1,1
+2010-09-18,Rice,CUSA,H,Northwestern,L,13,30,30,52,291,0,23,86,1,14,5,5,32,2,2
+2010-09-25,Rice,CUSA,H,Baylor,L,13,30,27,38,204,0,32,92,1,10,10,7,63,0,2
+2010-10-02,Rice,CUSA,H,SMU,L,31,42,27,43,276,0,43,120,3,12,11,3,25,0,2
+2010-10-09,Rice,CUSA,A,UTEP,L,24,44,23,38,201,3,38,141,0,10,8,9,94,0,0
+2010-10-16,Rice,CUSA,H,Houston,W,34,31,14,21,206,3,51,138,2,8,9,5,23,0,0
+2010-10-23,Rice,CUSA,A,UCF,L,14,41,14,20,141,1,35,88,1,7,5,5,42,1,0
+2010-11-06,Rice,CUSA,A,Tulsa,L,27,64,8,18,221,2,39,194,2,6,9,2,10,2,0
+2010-11-13,Rice,CUSA,A,Tulane,L,49,54,21,36,290,4,41,252,3,13,14,7,73,1,3
+2010-11-20,Rice,CUSA,H,East Carolina,W,62,38,12,17,229,3,60,410,6,9,16,4,28,1,0
+2010-11-27,Rice,CUSA,H,UAB,W,28,23,15,26,156,1,51,198,3,10,11,5,45,0,1
+2010-09-11,Texas A&M,Big 12,H,Louisiana Tech,W,48,16,25,38,349,4,41,216,1,15,10,8,76,4,0
+2010-09-18,Texas A&M,Big 12,H,Florida International,W,27,20,11,31,194,1,45,206,2,8,9,5,30,1,4
+2010-09-30,Texas A&M,Big 12,A,Oklahoma State,L,35,38,40,62,409,5,44,126,0,20,9,8,65,1,4
+2010-10-09,Texas A&M,Big 12,N,Arkansas,L,17,24,15,41,212,1,33,112,1,6,9,10,65,3,1
+2010-10-16,Texas A&M,Big 12,H,Missouri,L,9,30,27,48,322,1,33,57,0,13,8,8,46,0,0
+2010-10-23,Texas A&M,Big 12,A,Kansas,W,45,10,24,36,294,3,46,227,3,12,14,12,130,0,0
+2010-10-30,Texas A&M,Big 12,H,Texas Tech,W,45,27,36,50,449,4,43,174,2,20,9,9,75,2,1
+2010-11-06,Texas A&M,Big 12,H,Oklahoma,W,33,19,19,32,225,2,38,157,1,10,6,13,83,0,2
+2010-11-13,Texas A&M,Big 12,A,Baylor,W,42,30,27,38,280,1,35,147,4,13,9,11,106,1,0
+2010-11-20,Texas A&M,Big 12,H,Nebraska,W,9,6,19,29,172,0,41,138,0,7,9,2,10,0,0
+2010-11-25,Texas A&M,Big 12,A,Texas,W,24,17,14,30,128,1,36,238,2,8,7,8,74,2,0
+2011-01-07,Texas A&M,Big 12,N,LSU,L,24,41,23,36,218,3,29,155,0,12,10,4,40,1,3
+2010-09-11,New Mexico State,WAC,H,San Diego State,L,21,41,17,34,223,2,26,105,1,8,5,9,86,1,0
+2010-09-18,New Mexico State,WAC,A,UTEP,L,10,42,21,40,200,0,24,96,1,10,6,6,55,0,1
+2010-09-25,New Mexico State,WAC,A,Kansas,L,16,42,12,20,147,1,35,128,1,6,7,6,55,0,0
+2010-10-02,New Mexico State,WAC,H,Boise State,L,0,59,8,22,90,0,41,118,0,5,6,5,61,2,1
+2010-10-09,New Mexico State,WAC,H,New Mexico,W,16,14,7,12,38,0,49,168,0,3,6,8,75,1,1
+2010-10-16,New Mexico State,WAC,A,Fresno State,L,10,33,13,27,156,0,36,111,1,4,8,4,40,1,0
+2010-10-23,New Mexico State,WAC,A,Idaho,L,14,37,8,29,134,2,43,170,0,7,7,12,99,1,0
+2010-10-30,New Mexico State,WAC,H,San Jose State,W,29,27,23,44,259,2,37,180,1,14,9,7,74,1,0
+2010-11-06,New Mexico State,WAC,A,Utah State,L,22,27,17,34,191,1,41,155,1,9,11,5,62,0,0
+2010-11-13,New Mexico State,WAC,H,Louisiana Tech,L,20,41,20,40,216,1,35,150,0,11,10,3,35,1,2
+2010-11-20,New Mexico State,WAC,A,Nevada,L,6,52,19,39,220,0,40,89,0,9,7,5,54,1,2
+2010-11-27,New Mexico State,WAC,H,Hawaii,L,24,59,20,35,135,0,42,79,2,9,7,4,45,0,2
+2010-09-11,Louisiana Tech,WAC,A,Texas A&M,L,16,48,21,41,208,1,40,61,1,10,3,3,27,2,2
+2010-09-18,Louisiana Tech,WAC,H,Navy,L,23,37,31,43,251,1,32,154,1,13,8,4,25,1,2
+2010-09-25,Louisiana Tech,WAC,H,Southern Mississippi,L,12,13,22,39,262,1,25,47,0,10,4,4,30,1,3
+2010-10-02,Louisiana Tech,WAC,A,Hawaii,L,21,41,24,39,223,2,28,127,1,11,7,4,40,0,3
+2010-10-09,Louisiana Tech,WAC,H,Utah State,W,24,6,21,33,147,1,46,280,2,11,13,8,93,0,1
+2010-10-16,Louisiana Tech,WAC,H,Idaho,W,48,35,31,44,422,3,53,261,3,19,12,6,60,4,0
+2010-10-26,Louisiana Tech,WAC,A,Boise State,L,20,49,24,40,222,1,49,172,2,11,13,5,45,2,0
+2010-11-06,Louisiana Tech,WAC,H,Fresno State,L,34,40,17,31,219,4,24,89,0,6,6,5,42,0,1
+2010-11-13,Louisiana Tech,WAC,A,New Mexico State,W,41,20,19,31,184,1,37,242,4,7,12,4,30,1,1
+2010-11-27,Louisiana Tech,WAC,A,San Jose State,W,45,38,13,29,105,0,61,374,5,6,18,2,15,1,2
+2010-12-04,Louisiana Tech,WAC,H,Nevada,L,17,35,14,24,188,1,32,104,1,8,8,5,50,0,0
+2010-09-02,Minnesota,Big Ten,A,Middle Tennessee State,W,24,17,10,17,150,0,67,281,3,6,18,4,29,0,0
+2010-09-18,Minnesota,Big Ten,H,USC,L,21,32,15,29,224,2,37,83,1,9,6,4,30,1,2
+2010-09-25,Minnesota,Big Ten,H,Northern Illinois,L,23,34,31,46,373,2,32,97,0,18,3,9,59,0,1
+2010-10-02,Minnesota,Big Ten,H,Northwestern,L,28,29,15,24,202,3,37,165,1,5,10,6,70,0,1
+2010-10-09,Minnesota,Big Ten,A,Wisconsin,L,23,41,11,25,249,3,32,96,0,9,5,7,54,0,0
+2010-10-16,Minnesota,Big Ten,A,Purdue,L,17,28,20,45,214,2,25,65,0,11,5,6,39,1,2
+2010-10-23,Minnesota,Big Ten,H,Penn State,L,21,33,26,49,299,3,35,134,0,17,7,6,49,0,1
+2010-10-30,Minnesota,Big Ten,H,Ohio State,L,10,52,9,20,162,0,31,70,1,5,3,3,20,2,1
+2010-11-06,Minnesota,Big Ten,A,Michigan State,L,8,31,17,28,191,1,31,76,0,8,6,7,60,0,1
+2010-11-13,Minnesota,Big Ten,A,Illinois,W,38,34,20,37,225,2,36,136,3,13,5,3,25,1,0
+2010-11-27,Minnesota,Big Ten,H,Iowa,W,27,24,14,27,166,0,46,216,3,6,14,7,45,1,0
+2010-09-02,Middle Tennessee State,Sun Belt,H,Minnesota,L,17,24,13,18,172,1,22,146,1,7,5,4,27,1,1
+2010-09-18,Middle Tennessee State,Sun Belt,A,Memphis,L,17,24,22,39,248,1,34,67,1,8,6,7,74,1,3
+2010-09-25,Middle Tennessee State,Sun Belt,A,Louisiana,W,34,14,21,36,207,1,34,217,3,7,11,9,76,0,1
+2010-10-05,Middle Tennessee State,Sun Belt,H,Troy,L,13,42,24,41,179,0,28,28,2,11,1,8,65,1,1
+2010-10-16,Middle Tennessee State,Sun Belt,A,Georgia Tech,L,14,42,20,35,173,0,39,143,2,9,10,5,29,2,4
+2010-10-23,Middle Tennessee State,Sun Belt,H,Louisiana-Monroe,W,38,10,11,19,219,2,55,244,2,5,13,7,65,1,1
+2010-11-02,Middle Tennessee State,Sun Belt,A,Arkansas State,L,24,51,19,37,146,1,60,236,2,8,17,6,59,3,4
+2010-11-13,Middle Tennessee State,Sun Belt,H,North Texas,L,17,23,17,30,197,0,35,167,2,9,8,3,30,1,2
+2010-11-20,Middle Tennessee State,Sun Belt,A,Western Kentucky,W,27,26,13,26,79,0,35,129,1,4,7,4,41,0,0
+2010-11-27,Middle Tennessee State,Sun Belt,H,Florida Atlantic,W,38,14,11,15,158,2,55,287,3,5,17,6,51,0,1
+2010-12-04,Middle Tennessee State,Sun Belt,A,Florida International,W,28,27,14,23,244,1,35,125,3,8,5,7,56,0,1
+2011-01-06,Middle Tennessee State,Sun Belt,N,Miami (OH),L,21,35,18,29,162,0,32,208,3,8,7,6,58,1,4
+2010-09-02,Northern Illinois,MAC,A,Iowa State,L,10,27,14,29,93,0,36,156,1,3,11,4,51,0,3
+2010-09-18,Northern Illinois,MAC,A,Illinois,L,22,28,20,26,227,1,33,163,2,12,5,3,30,1,0
+2010-09-25,Northern Illinois,MAC,A,Minnesota,W,34,23,11,17,81,2,28,297,2,5,7,5,45,1,0
+2010-10-02,Northern Illinois,MAC,A,Akron,W,50,14,17,22,292,3,47,228,2,12,12,2,20,1,0
+2010-10-09,Northern Illinois,MAC,H,Temple,W,31,17,20,25,211,2,50,209,2,15,9,3,27,1,0
+2010-10-16,Northern Illinois,MAC,H,Buffalo,W,45,14,13,26,160,2,50,281,4,9,12,2,20,0,2
+2010-10-23,Northern Illinois,MAC,H,Central Michigan,W,33,7,12,19,138,0,56,282,3,6,19,5,55,0,0
+2010-10-30,Northern Illinois,MAC,A,Western Michigan,W,28,21,18,30,214,2,43,210,2,13,9,8,72,0,1
+2010-11-09,Northern Illinois,MAC,H,Toledo,W,65,30,11,16,162,1,54,422,7,8,18,5,37,0,0
+2010-11-20,Northern Illinois,MAC,A,Ball State,W,59,21,17,24,248,3,40,194,3,10,10,8,60,1,1
+2010-11-26,Northern Illinois,MAC,A,Eastern Michigan,W,71,3,9,14,102,2,35,544,8,6,15,4,40,0,0
+2010-12-03,Northern Illinois,MAC,N,Miami (OH),L,21,26,15,29,281,3,32,92,0,12,6,3,15,1,0
+2010-12-18,Northern Illinois,MAC,N,Fresno State,W,40,17,17,27,300,1,28,203,4,14,7,6,65,0,0
+2010-09-02,Ohio State,Big Ten,H,Marshall,W,45,7,18,27,249,3,41,280,2,10,12,7,47,0,0
+2010-09-11,Ohio State,Big Ten,H,Miami (FL),W,36,24,12,28,233,1,49,181,2,9,11,2,25,0,0
+2010-09-18,Ohio State,Big Ten,H,Ohio,W,43,7,26,36,281,2,41,158,3,14,8,0,0,0,2
+2010-09-25,Ohio State,Big Ten,H,Eastern Michigan,W,73,20,26,33,303,6,41,342,4,14,14,4,45,1,0
+2010-10-02,Ohio State,Big Ten,A,Illinois,W,24,13,10,18,77,2,42,213,1,2,10,4,26,0,2
+2010-10-09,Ohio State,Big Ten,H,Indiana,W,38,10,25,32,348,3,32,130,2,17,6,9,105,1,1
+2010-10-16,Ohio State,Big Ten,A,Wisconsin,L,18,31,14,28,156,0,41,155,2,10,12,2,14,0,1
+2010-10-23,Ohio State,Big Ten,H,Purdue,W,49,0,19,25,305,4,48,184,3,14,11,4,35,0,2
+2010-10-30,Ohio State,Big Ten,A,Minnesota,W,52,10,20,24,244,2,43,263,3,8,16,5,52,0,1
+2010-11-13,Ohio State,Big Ten,H,Penn State,W,38,14,8,13,139,2,43,314,1,3,17,8,62,0,1
+2010-11-20,Ohio State,Big Ten,A,Iowa,W,20,17,18,33,195,1,36,158,1,9,11,8,73,0,2
+2010-11-27,Ohio State,Big Ten,H,Michigan,W,37,7,18,27,220,2,45,258,1,9,9,7,81,0,1
+2011-01-04,Ohio State,Big Ten,N,Arkansas,W,31,26,14,25,221,2,45,225,2,11,9,2,15,0,0
+2010-09-11,Ohio,MAC,H,Toledo,L,13,20,17,28,137,1,28,46,0,5,5,7,45,1,3
+2010-09-18,Ohio,MAC,A,Ohio State,L,7,43,9,17,82,1,31,80,0,2,5,6,46,3,2
+2010-09-25,Ohio,MAC,A,Marshall,L,23,24,12,22,201,2,35,130,1,8,7,5,50,0,1
+2010-10-02,Ohio,MAC,A,Eastern Michigan,W,30,17,15,25,218,1,42,194,3,9,10,6,50,1,1
+2010-10-09,Ohio,MAC,H,Bowling Green State,W,49,25,10,16,123,3,36,257,3,6,12,3,16,1,0
+2010-10-16,Ohio,MAC,H,Akron,W,38,10,16,23,238,2,44,258,3,11,13,5,38,0,1
+2010-10-23,Ohio,MAC,A,Miami (OH),W,34,13,10,19,149,0,45,222,5,7,9,10,105,1,1
+2010-10-30,Ohio,MAC,H,Louisiana,W,38,31,16,22,240,3,32,174,2,10,12,1,15,0,4
+2010-11-04,Ohio,MAC,H,Buffalo,W,34,17,14,21,201,3,46,185,2,12,10,11,91,1,1
+2010-11-16,Ohio,MAC,A,Temple,W,31,23,4,13,78,1,43,204,3,3,11,4,30,1,1
+2010-11-26,Ohio,MAC,A,Kent State,L,6,28,14,27,133,0,37,50,0,5,5,4,25,2,2
+2010-12-18,Ohio,MAC,N,Troy,L,21,48,14,22,209,3,30,99,0,6,7,6,57,0,2
+2010-09-04,North Carolina,ACC,N,LSU,L,24,30,28,46,412,3,33,24,0,13,5,7,43,3,0
+2010-09-18,North Carolina,ACC,H,Georgia Tech,L,24,30,18,25,209,1,32,143,2,10,7,3,33,2,0
+2010-09-25,North Carolina,ACC,A,Rutgers,W,17,13,22,30,204,1,30,91,1,9,5,6,55,2,1
+2010-10-02,North Carolina,ACC,H,East Carolina,W,42,17,18,26,181,2,46,263,3,9,14,10,80,0,0
+2010-10-09,North Carolina,ACC,H,Clemson,W,21,16,18,34,164,1,32,91,2,6,7,6,49,0,0
+2010-10-16,North Carolina,ACC,A,Virginia,W,44,10,18,23,339,3,35,140,1,9,9,9,84,1,0
+2010-10-23,North Carolina,ACC,A,Miami (FL),L,10,33,12,21,140,0,29,149,1,5,5,5,47,1,2
+2010-11-06,North Carolina,ACC,A,Florida State,W,37,35,24,35,439,3,33,34,1,14,5,9,56,0,0
+2010-11-13,North Carolina,ACC,H,Virginia Tech,L,10,26,18,33,197,0,32,117,1,11,9,8,34,2,4
+2010-11-20,North Carolina,ACC,H,North Carolina State,L,25,29,33,44,411,2,26,-7,0,13,4,6,36,1,0
+2010-11-27,North Carolina,ACC,A,Duke,W,24,19,28,35,264,1,46,255,2,12,13,10,74,0,0
+2010-12-30,North Carolina,ACC,N,Tennessee,W,30,27,23,40,234,1,29,151,2,8,8,12,80,1,1
+2010-09-04,Miami (OH),MAC,A,Florida,L,12,34,26,46,208,0,22,4,0,10,3,9,51,0,4
+2010-09-11,Miami (OH),MAC,H,Eastern Michigan,W,28,21,16,25,164,1,37,181,3,8,14,5,45,0,1
+2010-09-18,Miami (OH),MAC,H,Colorado State,W,31,10,18,22,231,3,39,68,0,8,9,3,20,0,0
+2010-09-25,Miami (OH),MAC,A,Missouri,L,13,51,25,34,246,1,34,70,0,12,5,7,67,2,1
+2010-10-02,Miami (OH),MAC,H,Kent State,W,27,21,31,47,294,1,29,52,1,18,4,2,19,1,0
+2010-10-09,Miami (OH),MAC,A,Cincinnati,L,3,45,28,42,227,0,25,42,0,13,3,6,57,0,0
+2010-10-16,Miami (OH),MAC,A,Central Michigan,W,27,20,29,47,399,3,25,71,0,14,8,9,79,1,0
+2010-10-23,Miami (OH),MAC,H,Ohio,L,13,34,21,36,332,2,21,11,0,12,3,8,70,2,4
+2010-10-30,Miami (OH),MAC,A,Buffalo,W,21,9,21,36,231,2,30,66,1,11,4,2,21,0,2
+2010-11-10,Miami (OH),MAC,A,Bowling Green State,W,24,21,19,25,221,1,37,156,2,8,12,10,72,3,0
+2010-11-17,Miami (OH),MAC,A,Akron,W,19,14,22,32,213,0,35,185,1,12,7,7,67,0,0
+2010-11-23,Miami (OH),MAC,H,Temple,W,23,3,15,28,155,2,38,253,1,8,7,3,15,0,1
+2010-12-03,Miami (OH),MAC,N,Northern Illinois,W,26,21,29,46,333,1,26,99,3,13,6,1,5,0,0
+2011-01-06,Miami (OH),MAC,N,Middle Tennessee State,W,35,21,23,37,298,2,40,118,2,12,8,6,53,0,2
+2010-09-02,Utah,MWC,H,Pitt,W,27,24,21,36,283,3,27,122,0,11,7,11,99,2,1
+2010-09-11,Utah,MWC,H,Nevada-Las Vegas,W,38,10,13,20,207,2,28,131,2,9,5,7,70,1,0
+2010-09-18,Utah,MWC,A,New Mexico,W,56,14,20,23,248,3,35,180,3,8,10,6,65,3,0
+2010-09-25,Utah,MWC,H,San Jose State,W,56,3,18,24,155,2,40,272,5,8,14,1,5,0,0
+2010-10-09,Utah,MWC,A,Iowa State,W,68,27,26,36,354,3,43,239,4,15,12,4,35,1,1
+2010-10-16,Utah,MWC,A,Wyoming,W,30,6,17,26,243,2,37,188,2,12,10,3,30,0,3
+2010-10-23,Utah,MWC,H,Colorado State,W,59,6,32,40,427,4,29,221,4,14,9,6,50,1,0
+2010-10-30,Utah,MWC,A,Air Force,W,28,23,15,23,148,1,51,179,3,7,12,3,21,0,1
+2010-11-06,Utah,MWC,H,Texas Christian,L,7,47,16,35,148,1,17,51,0,5,5,3,22,2,2
+2010-11-13,Utah,MWC,A,Notre Dame,L,3,28,24,40,194,0,29,71,0,10,5,11,70,1,1
+2010-11-20,Utah,MWC,A,San Diego State,W,38,34,21,34,362,2,35,138,3,15,6,8,75,0,0
+2010-11-27,Utah,MWC,H,Brigham Young,W,17,16,15,37,207,1,28,89,1,8,5,3,40,0,3
+2010-12-22,Utah,MWC,N,Boise State,L,3,26,10,24,93,0,29,107,0,3,4,10,83,3,0
+2010-09-03,Arizona,Pac-10,A,Toledo,W,41,2,37,44,413,3,25,105,3,20,4,8,48,0,1
+2010-09-18,Arizona,Pac-10,H,Iowa,W,34,27,28,39,303,2,30,63,0,13,4,12,103,2,1
+2010-09-25,Arizona,Pac-10,H,California,W,10,9,25,39,212,1,26,99,0,8,7,10,99,1,1
+2010-10-09,Arizona,Pac-10,H,Oregon State,L,27,29,35,46,440,3,19,101,1,18,6,8,45,0,1
+2010-10-16,Arizona,Pac-10,A,Washington State,W,24,7,20,27,210,0,47,142,3,13,9,2,20,0,1
+2010-10-23,Arizona,Pac-10,H,Washington,W,44,14,18,22,233,2,43,234,4,11,8,5,28,1,0
+2010-10-30,Arizona,Pac-10,A,UCLA,W,29,21,24,36,319,1,52,264,2,16,14,6,49,1,1
+2010-11-06,Arizona,Pac-10,A,Stanford,L,17,42,28,48,248,1,31,166,1,13,11,8,41,0,1
+2010-11-13,Arizona,Pac-10,H,USC,L,21,24,32,48,353,3,18,51,0,20,3,6,40,2,0
+2010-11-26,Arizona,Pac-10,A,Oregon,L,29,48,29,54,448,3,27,58,0,19,6,10,80,1,1
+2010-12-02,Arizona,Pac-10,H,Arizona State,L,29,30,24,38,266,3,43,125,1,12,7,6,34,1,0
+2010-12-29,Arizona,Pac-10,N,Oklahoma State,L,10,36,32,50,280,1,38,90,0,15,6,8,65,1,3
+2010-09-04,Western Kentucky,Sun Belt,A,Nebraska,L,10,49,12,22,120,0,40,179,1,6,5,7,51,1,1
+2010-09-11,Western Kentucky,Sun Belt,A,Kentucky,L,28,63,8,15,97,1,33,187,2,6,8,7,50,1,1
+2010-09-18,Western Kentucky,Sun Belt,H,Indiana,L,21,38,13,20,144,1,31,144,2,9,6,6,56,1,0
+2010-09-25,Western Kentucky,Sun Belt,A,South Florida,L,12,24,20,38,226,2,31,88,0,12,6,5,39,0,1
+2010-10-09,Western Kentucky,Sun Belt,A,Florida International,L,21,28,14,31,193,2,41,106,1,9,7,8,55,1,0
+2010-10-16,Western Kentucky,Sun Belt,H,Louisiana-Monroe,L,30,35,13,23,164,2,44,180,2,10,10,6,48,0,1
+2010-10-23,Western Kentucky,Sun Belt,A,Louisiana,W,54,21,18,23,262,1,37,147,4,14,5,4,28,0,0
+2010-10-30,Western Kentucky,Sun Belt,H,North Texas,L,6,33,15,27,116,0,34,156,0,6,10,7,57,2,0
+2010-11-06,Western Kentucky,Sun Belt,H,Florida Atlantic,L,16,17,8,24,70,0,45,198,2,3,11,9,78,0,1
+2010-11-13,Western Kentucky,Sun Belt,A,Arkansas State,W,36,35,11,27,151,2,66,237,3,6,16,6,35,1,0
+2010-11-20,Western Kentucky,Sun Belt,H,Middle Tennessee State,L,26,27,9,22,98,0,58,298,2,5,13,6,34,1,0
+2010-11-27,Western Kentucky,Sun Belt,A,Troy,L,14,28,10,23,81,0,40,186,2,5,10,4,35,0,1
+2010-09-04,Vanderbilt,SEC,H,Northwestern,L,21,23,19,33,240,1,38,192,2,9,11,9,91,0,1
+2010-09-11,Vanderbilt,SEC,H,LSU,L,3,27,8,16,70,0,32,65,0,3,4,7,52,1,0
+2010-09-18,Vanderbilt,SEC,A,Ole Miss,W,28,14,9,19,73,0,41,227,3,4,7,6,55,0,0
+2010-10-02,Vanderbilt,SEC,A,Connecticut,L,21,40,15,25,157,2,31,169,1,5,5,6,52,1,2
+2010-10-09,Vanderbilt,SEC,H,Eastern Michigan,W,52,6,19,31,353,3,39,205,4,13,11,6,39,2,0
+2010-10-16,Vanderbilt,SEC,A,Georgia,L,0,43,6,20,82,0,27,58,0,3,4,3,17,1,1
+2010-10-23,Vanderbilt,SEC,H,South Carolina,L,7,21,13,31,142,0,30,108,1,7,4,4,40,0,0
+2010-10-30,Vanderbilt,SEC,A,Arkansas,L,14,49,6,17,36,1,31,117,1,1,6,7,54,0,2
+2010-11-06,Vanderbilt,SEC,H,Florida,L,14,55,10,27,63,1,38,46,0,2,4,1,5,2,1
+2010-11-13,Vanderbilt,SEC,A,Kentucky,L,20,38,17,39,198,1,42,202,1,9,9,8,61,1,0
+2010-11-20,Vanderbilt,SEC,H,Tennessee,L,10,24,20,41,222,1,36,111,0,10,11,6,35,0,2
+2010-11-27,Vanderbilt,SEC,H,Wake Forest,L,13,34,27,61,277,1,36,166,0,15,12,4,35,0,2
+2010-09-04,Kentucky,SEC,A,Louisville,W,23,16,18,27,236,0,37,230,3,10,9,11,90,0,0
+2010-09-11,Kentucky,SEC,H,Western Kentucky,W,63,28,19,23,276,4,44,206,4,10,12,2,6,0,0
+2010-09-18,Kentucky,SEC,H,Akron,W,47,10,22,30,254,2,38,290,4,12,14,6,60,0,0
+2010-09-25,Kentucky,SEC,A,Florida,L,14,48,22,41,253,2,28,99,0,13,7,7,44,0,2
+2010-10-02,Kentucky,SEC,A,Ole Miss,L,35,42,27,47,300,2,30,124,2,14,6,7,68,2,1
+2010-10-09,Kentucky,SEC,H,Auburn,L,34,37,24,29,226,2,30,110,2,12,8,2,20,1,0
+2010-10-16,Kentucky,SEC,H,South Carolina,W,31,28,32,42,349,4,33,52,0,16,4,7,59,0,0
+2010-10-23,Kentucky,SEC,H,Georgia,L,31,44,27,43,353,4,31,70,0,16,4,3,21,3,1
+2010-10-30,Kentucky,SEC,A,Mississippi State,L,17,24,23,42,258,2,43,89,0,13,8,3,15,1,3
+2010-11-13,Kentucky,SEC,H,Vanderbilt,W,38,20,16,24,239,1,43,341,4,9,9,8,85,0,0
+2010-11-27,Kentucky,SEC,A,Tennessee,L,14,24,31,46,272,1,36,118,1,17,8,6,39,2,1
+2011-01-08,Kentucky,SEC,N,Pitt,L,10,27,21,36,211,0,32,104,1,11,7,5,55,1,0
+2010-09-04,Florida,SEC,H,Miami (OH),W,34,12,17,25,113,2,31,99,2,7,4,6,51,3,0
+2010-09-11,Florida,SEC,H,South Florida,W,38,14,18,31,172,2,37,251,2,10,10,8,56,0,0
+2010-09-18,Florida,SEC,A,Tennessee,W,31,17,14,23,167,1,49,150,3,11,6,5,25,2,0
+2010-09-25,Florida,SEC,H,Kentucky,W,48,14,25,36,290,1,33,176,5,14,11,9,65,0,1
+2010-10-02,Florida,SEC,A,Alabama,L,6,31,16,32,202,0,31,79,0,10,4,7,49,1,3
+2010-10-09,Florida,SEC,H,LSU,L,29,33,16,24,154,0,32,89,3,5,4,11,69,1,1
+2010-10-16,Florida,SEC,H,Mississippi State,L,7,10,24,39,210,0,35,151,1,10,9,6,60,1,1
+2010-10-30,Florida,SEC,N,Georgia,W,34,31,18,27,219,0,50,231,4,12,10,9,54,0,1
+2010-11-06,Florida,SEC,A,Vanderbilt,W,55,14,22,37,277,3,51,203,3,12,12,11,68,1,1
+2010-11-13,Florida,SEC,H,South Carolina,L,14,36,20,39,191,1,20,35,0,9,2,6,55,1,1
+2010-11-27,Florida,SEC,A,Florida State,L,7,31,8,16,64,1,47,212,0,3,12,11,79,3,1
+2011-01-01,Florida,SEC,N,Penn State,W,37,24,14,27,101,0,45,178,2,6,9,5,35,1,1
+2010-09-04,Troy,Sun Belt,H,Bowling Green State,W,30,27,28,41,268,1,43,207,2,16,11,13,129,0,2
+2010-09-11,Troy,Sun Belt,A,Oklahoma State,L,38,41,29,40,270,3,36,101,0,12,7,9,67,4,0
+2010-09-18,Troy,Sun Belt,A,UAB,L,33,34,28,46,416,2,34,150,2,18,9,15,131,2,0
+2010-09-25,Troy,Sun Belt,H,Arkansas State,W,35,28,19,39,319,3,41,186,1,12,8,6,47,1,1
+2010-10-05,Troy,Sun Belt,A,Middle Tennessee State,W,42,13,29,40,281,4,40,238,2,13,8,12,106,0,0
+2010-10-16,Troy,Sun Belt,H,Louisiana,W,31,24,25,35,271,2,35,109,1,12,5,6,77,2,3
+2010-10-30,Troy,Sun Belt,A,Louisiana-Monroe,L,14,28,16,39,167,1,30,118,1,8,6,6,45,0,2
+2010-11-06,Troy,Sun Belt,A,North Texas,W,41,35,29,42,371,4,41,172,1,12,10,9,96,0,2
+2010-11-13,Troy,Sun Belt,H,Florida International,L,35,52,30,50,303,2,28,108,3,13,8,7,50,2,2
+2010-11-20,Troy,Sun Belt,A,South Carolina,L,24,69,23,39,183,2,29,81,1,8,7,2,14,3,2
+2010-11-27,Troy,Sun Belt,H,Western Kentucky,W,28,14,26,40,304,2,36,187,2,11,14,12,99,1,1
+2010-12-04,Troy,Sun Belt,A,Florida Atlantic,W,44,7,25,34,324,3,43,159,3,10,10,8,61,0,0
+2010-12-18,Troy,Sun Belt,N,Ohio,W,48,21,33,43,382,4,33,220,2,19,10,5,35,0,0
+2010-09-04,Connecticut,Big East,A,Michigan,L,10,30,18,38,205,0,30,138,1,9,7,2,10,1,0
+2010-09-18,Connecticut,Big East,A,Temple,L,16,30,16,33,150,0,42,240,1,7,9,8,44,1,0
+2010-09-25,Connecticut,Big East,H,Buffalo,W,45,21,14,25,233,2,35,166,2,10,7,8,66,2,1
+2010-10-02,Connecticut,Big East,H,Vanderbilt,W,40,21,21,30,179,2,45,196,2,9,8,3,15,1,1
+2010-10-08,Connecticut,Big East,A,Rutgers,L,24,27,17,34,153,1,26,131,1,8,2,7,28,0,1
+2010-10-23,Connecticut,Big East,A,Louisville,L,0,26,10,20,87,0,25,108,0,4,5,4,41,2,1
+2010-10-29,Connecticut,Big East,H,West Virginia,W,16,13,18,29,166,0,41,112,1,9,7,4,59,0,0
+2010-11-11,Connecticut,Big East,H,Pitt,W,30,28,9,20,100,2,46,249,0,5,12,2,15,0,1
+2010-11-20,Connecticut,Big East,A,Syracuse,W,23,6,13,21,98,0,38,156,2,5,8,6,60,1,0
+2010-11-27,Connecticut,Big East,H,Cincinnati,W,38,17,11,24,121,1,52,236,4,7,14,9,94,0,1
+2010-12-04,Connecticut,Big East,A,South Florida,W,19,16,13,29,112,0,38,120,0,6,7,3,35,1,1
+2011-01-01,Connecticut,Big East,N,Oklahoma,L,20,48,19,39,223,0,41,112,0,11,8,3,25,0,2
+2010-09-02,UAB,CUSA,H,Florida Atlantic,L,31,32,9,19,79,1,47,345,3,4,12,4,39,0,1
+2010-09-11,UAB,CUSA,A,SMU,L,7,28,13,26,153,1,32,108,0,4,7,5,55,1,1
+2010-09-18,UAB,CUSA,H,Troy,W,34,33,25,45,376,3,30,159,2,17,5,3,38,2,2
+2010-09-25,UAB,CUSA,A,Tennessee,L,29,32,33,60,429,2,32,115,1,16,7,7,55,0,1
+2010-10-06,UAB,CUSA,A,UCF,L,7,42,15,34,153,1,35,116,0,7,8,4,25,1,2
+2010-10-16,UAB,CUSA,H,UTEP,W,21,6,20,28,272,3,42,228,0,11,13,7,63,2,0
+2010-10-23,UAB,CUSA,A,Mississippi State,L,24,29,23,45,236,1,33,118,2,13,7,6,65,3,0
+2010-10-30,UAB,CUSA,A,Southern Mississippi,W,50,49,22,34,241,3,50,223,4,15,14,4,45,0,3
+2010-11-06,UAB,CUSA,H,Marshall,L,17,31,21,47,238,2,27,80,0,10,6,5,40,0,1
+2010-11-11,UAB,CUSA,H,East Carolina,L,42,54,31,50,418,5,29,127,1,18,9,5,50,1,1
+2010-11-20,UAB,CUSA,H,Memphis,W,31,15,21,38,361,3,39,149,1,13,7,4,40,0,2
+2010-11-27,UAB,CUSA,A,Rice,L,23,28,21,39,248,3,21,102,0,13,3,9,95,0,0
+2010-09-11,Baylor,Big 12,H,Buffalo,W,34,6,22,37,320,2,38,173,2,10,11,13,120,1,1
+2010-09-18,Baylor,Big 12,A,Texas Christian,L,10,45,16,30,164,1,26,99,0,8,7,6,41,0,0
+2010-09-25,Baylor,Big 12,A,Rice,W,30,13,20,28,268,3,37,188,0,10,12,7,65,1,1
+2010-10-02,Baylor,Big 12,H,Kansas,W,55,7,28,38,434,4,46,244,2,14,17,10,100,0,0
+2010-10-09,Baylor,Big 12,N,Texas Tech,L,38,45,33,45,427,2,30,80,2,18,4,9,65,0,0
+2010-10-16,Baylor,Big 12,A,Colorado,W,31,25,22,27,234,1,35,309,2,13,14,9,71,2,1
+2010-10-23,Baylor,Big 12,H,Kansas State,W,47,42,26,38,404,4,38,279,2,19,9,6,66,1,1
+2010-10-30,Baylor,Big 12,A,Texas,W,30,22,16,24,219,2,38,109,2,7,8,5,55,1,1
+2010-11-06,Baylor,Big 12,A,Oklahoma State,L,28,55,30,48,267,0,36,197,4,15,11,7,70,2,1
+2010-11-13,Baylor,Big 12,H,Texas A&M,L,30,42,28,38,212,0,52,291,4,12,12,8,78,0,0
+2010-11-20,Baylor,Big 12,H,Oklahoma,L,24,53,20,33,124,1,38,237,2,6,12,11,99,1,2
+2010-12-29,Baylor,Big 12,N,Illinois,L,14,38,31,43,313,1,29,124,1,16,6,7,74,2,0
+2010-09-05,SMU,CUSA,A,Texas Tech,L,27,35,21,38,218,2,27,109,1,11,6,4,40,1,3
+2010-09-11,SMU,CUSA,H,UAB,W,28,7,19,34,174,2,37,247,2,10,12,3,33,1,0
+2010-09-18,SMU,CUSA,H,Washington State,W,35,21,19,34,280,4,28,140,1,13,7,8,46,1,0
+2010-09-24,SMU,CUSA,H,Texas Christian,L,24,41,14,35,169,2,29,192,1,5,12,5,55,0,1
+2010-10-02,SMU,CUSA,A,Rice,W,42,31,24,32,371,3,21,101,1,13,4,6,39,1,0
+2010-10-09,SMU,CUSA,H,Tulsa,W,21,18,27,40,381,3,25,106,0,17,6,5,49,1,1
+2010-10-16,SMU,CUSA,A,Navy,L,21,28,28,42,254,3,24,121,0,15,6,8,76,2,1
+2010-10-23,SMU,CUSA,H,Houston,L,20,45,26,46,318,2,28,127,0,16,6,6,65,1,2
+2010-10-30,SMU,CUSA,A,Tulane,W,31,17,19,35,358,1,30,184,3,14,6,5,49,3,0
+2010-11-06,SMU,CUSA,A,UTEP,L,14,28,28,45,255,1,24,104,1,14,5,10,118,0,0
+2010-11-20,SMU,CUSA,H,Marshall,W,31,17,17,32,230,2,36,185,2,11,9,4,25,0,2
+2010-11-26,SMU,CUSA,A,East Carolina,W,45,38,21,34,331,3,39,119,2,16,5,5,54,1,0
+2010-12-04,SMU,CUSA,A,UCF,L,7,17,18,35,220,1,30,97,0,13,6,3,30,0,2
+2010-12-30,SMU,CUSA,N,Army,L,14,16,23,34,302,2,26,111,0,14,7,3,35,1,2
+2010-09-11,Virginia,ACC,A,USC,L,14,17,17,36,190,1,36,150,1,9,10,9,101,0,1
+2010-10-02,Virginia,ACC,H,Florida State,L,14,34,21,39,279,2,26,25,0,12,3,9,86,0,2
+2010-10-09,Virginia,ACC,A,Georgia Tech,L,21,33,18,31,239,0,28,137,3,7,7,7,51,1,0
+2010-10-16,Virginia,ACC,H,North Carolina,L,10,44,18,34,184,0,42,151,1,9,9,8,63,0,5
+2010-10-23,Virginia,ACC,H,Eastern Michigan,W,48,21,20,34,270,3,36,181,2,12,8,3,20,1,0
+2010-10-30,Virginia,ACC,H,Miami (FL),W,24,19,19,27,176,1,46,185,2,8,8,11,105,1,1
+2010-11-06,Virginia,ACC,A,Duke,L,48,55,24,46,417,4,42,226,3,17,15,11,103,0,3
+2010-11-13,Virginia,ACC,H,Maryland,L,23,42,27,48,290,2,27,92,0,14,7,16,145,0,2
+2010-11-20,Virginia,ACC,A,Boston College,L,13,17,34,53,296,0,31,125,1,17,7,9,59,0,1
+2010-11-27,Virginia,ACC,A,Virginia Tech,L,7,37,16,26,221,1,34,70,0,9,3,5,45,0,1
+2010-09-06,Virginia Tech,ACC,H,Boise State,L,30,33,15,22,186,2,44,128,2,10,8,7,55,1,0
+2010-09-18,Virginia Tech,ACC,H,East Carolina,W,49,27,8,16,199,2,41,249,4,6,14,4,47,1,0
+2010-09-25,Virginia Tech,ACC,A,Boston College,W,19,0,16,21,237,0,40,106,1,9,6,8,64,0,1
+2010-10-02,Virginia Tech,ACC,A,North Carolina State,W,41,30,12,24,123,3,37,317,2,6,12,4,50,0,1
+2010-10-09,Virginia Tech,ACC,H,Central Michigan,W,45,21,14,25,164,1,28,230,4,8,7,5,45,1,0
+2010-10-16,Virginia Tech,ACC,H,Wake Forest,W,52,21,22,35,314,3,54,291,4,14,18,4,35,0,0
+2010-10-23,Virginia Tech,ACC,H,Duke,W,44,7,19,31,332,3,39,159,2,10,8,3,19,1,0
+2010-11-04,Virginia Tech,ACC,H,Georgia Tech,W,28,21,15,25,137,1,40,198,2,9,13,2,17,1,1
+2010-11-13,Virginia Tech,ACC,A,North Carolina,W,26,10,13,28,249,2,38,169,0,10,9,9,56,0,0
+2010-11-20,Virginia Tech,ACC,A,Miami (FL),W,31,17,8,15,118,1,48,251,3,6,11,4,50,1,0
+2010-11-27,Virginia Tech,ACC,H,Virginia,W,37,7,14,24,182,1,40,201,4,10,9,5,32,0,0
+2010-12-04,Virginia Tech,ACC,N,Florida State,W,44,33,18,28,263,3,43,179,2,12,9,4,36,0,0
+2011-01-03,Virginia Tech,ACC,N,Stanford,L,12,40,16,33,222,1,34,66,0,10,4,4,28,0,1
+2010-09-04,Clemson,ACC,H,North Texas,W,35,10,10,21,176,2,25,246,3,4,10,5,48,0,1
+2010-09-18,Clemson,ACC,A,Auburn,L,24,27,20,34,220,2,47,187,1,12,11,5,50,0,0
+2010-10-02,Clemson,ACC,H,Miami (FL),L,21,30,14,33,149,0,40,162,3,8,5,6,56,3,3
+2010-10-09,Clemson,ACC,A,North Carolina,L,16,21,21,39,214,1,27,91,1,9,6,9,81,0,0
+2010-10-16,Clemson,ACC,H,Maryland,W,31,7,8,21,119,0,44,94,2,5,5,3,30,0,0
+2010-10-23,Clemson,ACC,H,Georgia Tech,W,27,13,17,27,167,1,38,236,2,8,11,7,62,0,0
+2010-10-30,Clemson,ACC,A,Boston College,L,10,16,21,39,176,0,24,88,0,12,5,3,35,1,2
+2010-11-06,Clemson,ACC,H,North Carolina State,W,14,13,20,30,214,1,41,46,1,13,3,7,77,2,1
+2010-11-13,Clemson,ACC,A,Florida State,L,13,16,28,44,239,0,35,152,1,11,9,10,74,0,2
+2010-11-20,Clemson,ACC,A,Wake Forest,W,30,10,19,25,231,2,43,182,1,10,10,4,35,1,1
+2010-11-27,Clemson,ACC,H,South Carolina,L,7,29,17,35,190,1,27,61,0,8,3,7,65,2,1
+2010-12-31,Clemson,ACC,N,South Florida,L,26,31,24,41,246,2,27,50,1,12,3,6,46,0,2
+2010-09-02,South Carolina,SEC,H,Southern Mississippi,W,41,13,20,30,225,1,35,224,4,11,11,5,30,0,1
+2010-09-11,South Carolina,SEC,H,Georgia,W,17,6,12,17,165,0,52,189,2,8,14,5,35,1,0
+2010-09-25,South Carolina,SEC,A,Auburn,L,27,35,19,29,305,3,28,79,1,14,5,5,37,2,2
+2010-10-09,South Carolina,SEC,H,Alabama,W,35,21,17,20,201,3,37,110,2,9,10,4,34,0,1
+2010-10-16,South Carolina,SEC,A,Kentucky,L,28,31,20,32,382,2,23,90,2,12,5,8,58,2,2
+2010-10-23,South Carolina,SEC,A,Vanderbilt,W,21,7,31,39,355,2,45,129,1,14,11,9,60,0,1
+2010-10-30,South Carolina,SEC,H,Tennessee,W,38,24,13,22,223,1,43,212,3,9,10,6,49,0,1
+2010-11-06,South Carolina,SEC,H,Arkansas,L,20,41,18,33,190,1,27,105,0,9,8,4,37,1,2
+2010-11-13,South Carolina,SEC,A,Florida,W,36,14,15,22,156,0,54,239,4,11,12,3,20,0,0
+2010-11-20,South Carolina,SEC,H,Troy,W,69,24,15,21,249,3,40,212,4,9,11,5,40,1,0
+2010-11-27,South Carolina,SEC,A,Clemson,W,29,7,14,30,227,2,36,95,0,7,5,6,60,0,0
+2010-12-04,South Carolina,SEC,N,Auburn,L,17,56,20,33,193,2,30,156,0,9,9,4,31,0,2
+2010-12-31,South Carolina,SEC,N,Florida State,L,17,26,21,36,275,1,32,139,1,11,9,5,58,2,3
+2010-09-18,Ball State,MAC,A,Purdue,L,13,24,13,23,106,1,37,150,1,6,9,4,34,0,2
+2010-09-25,Ball State,MAC,A,Iowa,L,0,45,8,19,56,0,31,56,0,3,3,8,73,1,1
+2010-10-02,Ball State,MAC,A,Central Michigan,W,31,17,12,18,130,2,43,306,2,5,8,4,45,1,0
+2010-10-09,Ball State,MAC,H,Western Michigan,L,16,45,10,24,109,1,38,239,1,5,11,3,25,3,2
+2010-10-16,Ball State,MAC,H,Eastern Michigan,L,38,41,16,29,145,3,32,98,1,8,5,4,26,1,0
+2010-10-23,Ball State,MAC,A,Toledo,L,24,31,19,39,224,3,28,133,0,13,6,5,37,2,3
+2010-10-30,Ball State,MAC,A,Kent State,L,14,33,15,32,200,1,31,72,1,10,5,5,38,1,3
+2010-11-06,Ball State,MAC,H,Akron,W,37,30,15,29,266,4,40,123,0,9,5,4,34,2,3
+2010-11-12,Ball State,MAC,A,Buffalo,W,20,3,18,26,174,1,43,149,0,8,11,9,95,0,0
+2010-11-20,Ball State,MAC,H,Northern Illinois,L,21,59,12,22,155,1,33,113,2,5,5,7,59,2,1
+2010-09-04,San Jose State,WAC,A,Alabama,L,3,48,8,19,86,0,29,89,0,2,3,5,35,0,1
+2010-09-11,San Jose State,WAC,A,Wisconsin,L,14,27,22,30,252,2,20,55,0,11,1,7,52,0,2
+2010-09-25,San Jose State,WAC,A,Utah,L,3,56,9,13,78,0,32,94,0,3,4,4,40,0,0
+2010-10-09,San Jose State,WAC,A,Nevada,L,13,35,16,37,194,0,36,178,1,9,9,8,55,1,2
+2010-10-16,San Jose State,WAC,H,Boise State,L,0,48,10,23,92,0,29,-12,0,4,0,4,26,0,1
+2010-10-23,San Jose State,WAC,H,Fresno State,L,18,33,24,37,327,2,21,12,0,13,2,2,10,1,2
+2010-10-30,San Jose State,WAC,A,New Mexico State,L,27,29,22,38,361,3,21,70,0,15,2,5,40,0,0
+2010-11-13,San Jose State,WAC,H,Utah State,L,34,38,19,37,331,2,21,118,2,12,8,8,60,1,1
+2010-11-20,San Jose State,WAC,A,Hawaii,L,7,41,19,37,130,1,29,34,0,9,3,6,44,0,2
+2010-11-27,San Jose State,WAC,H,Louisiana Tech,L,38,45,35,65,496,5,23,26,0,23,2,7,60,1,3
+2010-12-04,San Jose State,WAC,A,Idaho,L,23,26,30,41,310,1,28,186,2,17,6,9,57,0,2
+2010-09-04,Bowling Green State,MAC,A,Troy,L,27,30,22,43,221,1,25,108,1,12,5,13,80,2,1
+2010-09-11,Bowling Green State,MAC,A,Tulsa,L,20,33,29,40,262,0,25,41,3,12,5,9,96,0,3
+2010-09-18,Bowling Green State,MAC,H,Marshall,W,44,28,24,33,292,2,44,101,2,11,9,6,54,1,1
+2010-09-25,Bowling Green State,MAC,A,Michigan,L,21,65,19,31,251,1,27,32,2,8,4,5,55,0,2
+2010-10-02,Bowling Green State,MAC,H,Buffalo,L,26,28,12,37,167,2,25,9,1,7,0,6,37,2,3
+2010-10-09,Bowling Green State,MAC,A,Ohio,L,25,49,23,37,277,2,37,137,1,12,10,6,52,1,1
+2010-10-16,Bowling Green State,MAC,A,Temple,L,27,28,30,52,287,1,36,36,2,12,7,9,80,1,0
+2010-10-23,Bowling Green State,MAC,H,Kent State,L,6,30,20,39,145,0,24,-10,0,7,2,1,15,1,2
+2010-10-30,Bowling Green State,MAC,A,Central Michigan,W,17,14,22,39,200,0,33,107,2,11,7,7,80,0,2
+2010-11-10,Bowling Green State,MAC,H,Miami (OH),L,21,24,17,29,176,1,27,44,2,6,4,5,45,1,2
+2010-11-17,Bowling Green State,MAC,A,Toledo,L,14,33,29,47,219,1,23,35,0,10,6,2,15,2,2
+2010-11-26,Bowling Green State,MAC,H,Western Michigan,L,7,41,19,32,282,1,35,114,0,15,7,3,30,1,1
+2010-09-02,USC,Pac-10,A,Hawaii,W,49,36,20,27,278,5,35,246,1,11,13,11,100,1,0
+2010-09-11,USC,Pac-10,H,Virginia,W,17,14,20,35,202,2,33,127,0,10,5,13,150,1,0
+2010-09-18,USC,Pac-10,A,Minnesota,W,32,21,17,26,192,2,38,216,2,7,13,7,71,1,2
+2010-09-25,USC,Pac-10,A,Washington State,W,50,16,20,30,328,4,39,285,2,14,14,5,39,1,2
+2010-10-02,USC,Pac-10,H,Washington,L,31,32,14,20,186,0,39,298,4,11,14,5,49,1,0
+2010-10-09,USC,Pac-10,A,Stanford,L,35,37,28,46,390,3,28,108,2,17,7,8,53,1,0
+2010-10-16,USC,Pac-10,H,California,W,48,14,30,44,391,5,36,211,1,19,13,8,54,1,0
+2010-10-30,USC,Pac-10,H,Oregon,L,32,53,26,49,264,1,36,113,3,15,7,3,22,1,2
+2010-11-06,USC,Pac-10,H,Arizona State,W,34,33,26,37,215,3,43,187,0,12,10,5,46,0,2
+2010-11-13,USC,Pac-10,A,Arizona,W,24,21,22,36,177,1,46,205,2,11,12,8,60,0,1
+2010-11-20,USC,Pac-10,A,Oregon State,L,7,36,18,36,135,0,35,120,1,4,9,5,46,1,1
+2010-11-27,USC,Pac-10,H,Notre Dame,L,16,20,22,39,187,0,29,74,1,8,4,8,47,0,1
+2010-12-04,USC,Pac-10,A,UCLA,W,28,14,16,28,203,2,40,271,1,10,10,6,55,0,2
+2010-09-11,San Diego State,MWC,A,New Mexico State,W,41,21,20,43,319,1,40,244,4,13,8,10,106,0,0
+2010-09-18,San Diego State,MWC,A,Missouri,L,24,27,20,44,190,0,33,250,3,10,5,10,56,0,1
+2010-09-25,San Diego State,MWC,H,Utah State,W,41,7,17,24,362,3,38,142,2,9,9,7,70,1,1
+2010-10-09,San Diego State,MWC,A,Brigham Young,L,21,24,20,36,220,3,12,53,0,9,3,4,37,0,1
+2010-10-16,San Diego State,MWC,H,Air Force,W,27,25,14,27,247,1,31,205,2,8,8,5,50,0,1
+2010-10-23,San Diego State,MWC,A,New Mexico,W,30,20,18,37,249,2,41,135,1,12,8,5,66,1,1
+2010-10-30,San Diego State,MWC,A,Wyoming,W,48,38,16,32,365,3,37,76,3,15,2,5,40,1,2
+2010-11-06,San Diego State,MWC,H,Colorado State,W,24,19,14,23,171,1,39,148,2,10,8,2,15,3,2
+2010-11-13,San Diego State,MWC,A,Texas Christian,L,35,40,11,26,262,2,21,38,2,6,1,6,46,0,2
+2010-11-20,San Diego State,MWC,H,Utah,L,34,38,36,54,528,4,21,59,1,25,2,8,64,0,3
+2010-11-27,San Diego State,MWC,H,Nevada-Las Vegas,W,48,14,22,30,338,4,51,250,2,13,14,7,50,1,0
+2010-12-23,San Diego State,MWC,H,Navy,W,35,14,18,23,276,2,41,279,3,12,14,3,18,0,0
+2010-09-04,Eastern Michigan,MAC,H,Army,L,27,31,4,9,31,1,51,285,3,2,16,0,0,2,1
+2010-09-11,Eastern Michigan,MAC,A,Miami (OH),L,21,28,20,34,256,3,32,66,0,11,6,2,20,0,3
+2010-09-18,Eastern Michigan,MAC,H,Central Michigan,L,14,52,25,44,282,1,32,76,1,12,3,5,45,2,0
+2010-09-25,Eastern Michigan,MAC,A,Ohio State,L,20,73,14,28,208,2,29,40,1,10,1,3,45,1,0
+2010-10-02,Eastern Michigan,MAC,H,Ohio,L,17,30,15,30,208,1,35,166,1,7,6,10,94,0,1
+2010-10-09,Eastern Michigan,MAC,A,Vanderbilt,L,6,52,11,25,104,0,37,105,0,5,5,2,20,1,1
+2010-10-16,Eastern Michigan,MAC,A,Ball State,W,41,38,10,18,225,3,55,265,3,8,16,9,85,1,1
+2010-10-23,Eastern Michigan,MAC,A,Virginia,L,21,48,7,13,64,0,41,290,3,2,12,10,86,0,1
+2010-10-30,Eastern Michigan,MAC,H,Toledo,L,7,42,21,39,226,0,33,100,1,10,4,9,86,0,2
+2010-11-13,Eastern Michigan,MAC,A,Western Michigan,L,30,45,13,24,214,3,56,277,1,9,13,6,48,1,2
+2010-11-20,Eastern Michigan,MAC,A,Buffalo,W,21,17,6,9,92,0,55,261,3,5,11,6,60,0,2
+2010-11-26,Eastern Michigan,MAC,H,Northern Illinois,L,3,71,4,9,11,0,55,149,0,1,9,5,50,2,0
+2010-09-11,Florida International,Sun Belt,H,Rutgers,L,14,19,17,32,204,2,36,167,0,6,9,14,126,3,2
+2010-09-18,Florida International,Sun Belt,A,Texas A&M,L,20,27,14,33,117,0,39,115,1,5,8,7,50,0,1
+2010-09-25,Florida International,Sun Belt,A,Maryland,L,28,42,35,58,355,2,40,117,2,19,6,10,91,0,2
+2010-10-02,Florida International,Sun Belt,A,Pitt,L,17,44,23,38,223,0,32,93,2,12,8,3,24,1,0
+2010-10-09,Florida International,Sun Belt,H,Western Kentucky,W,28,21,12,19,108,0,34,235,4,5,11,16,135,0,1
+2010-10-16,Florida International,Sun Belt,A,North Texas,W,34,10,17,31,288,2,44,191,2,11,9,9,75,0,0
+2010-10-30,Florida International,Sun Belt,A,Florida Atlantic,L,9,21,20,34,210,0,37,150,0,9,7,5,64,1,3
+2010-11-06,Florida International,Sun Belt,H,Louisiana-Monroe,W,42,35,17,27,227,3,43,242,2,11,13,6,33,0,2
+2010-11-13,Florida International,Sun Belt,A,Troy,W,52,35,8,15,220,3,54,448,4,5,13,9,85,0,1
+2010-11-20,Florida International,Sun Belt,A,Louisiana,W,38,17,16,19,162,1,40,155,3,5,9,5,54,0,0
+2010-11-27,Florida International,Sun Belt,H,Arkansas State,W,31,24,21,28,266,1,42,121,2,10,9,10,95,0,1
+2010-12-04,Florida International,Sun Belt,H,Middle Tennessee State,L,27,28,18,22,178,1,44,236,2,8,11,9,77,2,0
+2010-12-26,Florida International,Sun Belt,N,Toledo,W,34,32,16,28,140,1,37,168,2,5,9,4,44,0,1
+2010-09-09,Temple,MAC,H,Central Michigan,W,13,10,16,22,151,0,36,114,1,4,9,5,50,2,0
+2010-09-18,Temple,MAC,H,Connecticut,W,30,16,12,22,162,1,36,194,2,6,7,7,50,1,0
+2010-09-25,Temple,MAC,A,Penn State,L,13,22,8,19,46,0,32,156,2,2,6,1,4,1,3
+2010-10-02,Temple,MAC,A,Army,W,42,35,8,17,151,2,36,256,4,6,12,6,53,1,0
+2010-10-09,Temple,MAC,A,Northern Illinois,L,17,31,13,27,148,1,27,124,1,6,8,6,35,0,1
+2010-10-16,Temple,MAC,H,Bowling Green State,W,28,27,10,18,174,2,27,133,1,3,8,6,65,1,1
+2010-10-23,Temple,MAC,A,Buffalo,W,42,0,9,15,131,3,62,266,3,7,15,5,36,1,2
+2010-10-30,Temple,MAC,H,Akron,W,30,0,15,22,209,1,40,190,2,9,11,6,40,1,0
+2010-11-06,Temple,MAC,A,Kent State,W,28,10,21,30,368,2,46,97,2,11,6,12,85,1,2
+2010-11-16,Temple,MAC,H,Ohio,L,23,31,29,49,321,2,23,81,1,16,4,8,68,1,2
+2010-11-23,Temple,MAC,A,Miami (OH),L,3,23,12,29,145,0,28,70,0,7,5,4,22,2,2
+2010-09-04,Louisiana,Sun Belt,A,Georgia,L,7,55,8,24,114,1,29,14,0,3,1,2,8,0,3
+2010-09-11,Louisiana,Sun Belt,H,Arkansas State,W,31,24,17,28,214,2,43,224,2,11,8,4,29,0,0
+2010-09-25,Louisiana,Sun Belt,H,Middle Tennessee State,L,14,34,19,37,214,1,47,126,1,9,9,4,30,2,0
+2010-10-02,Louisiana,Sun Belt,A,North Texas,W,28,27,18,32,310,2,25,41,1,9,1,7,40,0,0
+2010-10-08,Louisiana,Sun Belt,H,Oklahoma State,L,28,54,36,62,334,2,25,34,1,15,7,6,24,1,1
+2010-10-16,Louisiana,Sun Belt,A,Troy,L,24,31,25,44,252,1,38,98,2,11,6,8,43,3,1
+2010-10-23,Louisiana,Sun Belt,H,Western Kentucky,L,21,54,17,35,255,1,32,96,2,9,6,7,42,1,2
+2010-10-30,Louisiana,Sun Belt,A,Ohio,L,31,38,27,43,398,2,39,73,2,17,6,3,29,0,1
+2010-11-06,Louisiana,Sun Belt,A,Ole Miss,L,21,43,7,21,139,1,24,76,1,6,4,6,55,1,2
+2010-11-13,Louisiana,Sun Belt,A,Florida Atlantic,L,23,24,21,37,254,2,45,173,1,11,11,7,55,1,1
+2010-11-20,Louisiana,Sun Belt,H,Florida International,L,17,38,13,30,186,1,43,204,1,10,11,9,90,0,3
+2010-11-27,Louisiana,Sun Belt,A,Louisiana-Monroe,W,23,22,21,43,330,2,24,48,0,9,4,5,46,1,1
+2010-09-11,UCF,CUSA,H,North Carolina State,L,21,28,17,29,213,0,34,95,2,9,7,5,30,2,3
+2010-09-18,UCF,CUSA,A,Buffalo,W,24,10,15,27,130,0,41,158,2,4,12,7,57,0,0
+2010-09-25,UCF,CUSA,A,Kansas State,L,13,17,8,18,92,0,51,252,1,3,16,7,44,0,2
+2010-10-06,UCF,CUSA,H,UAB,W,42,7,12,15,171,1,48,228,3,9,13,3,25,2,0
+2010-10-13,UCF,CUSA,A,Marshall,W,35,14,11,21,138,0,53,248,4,10,11,1,2,0,1
+2010-10-23,UCF,CUSA,H,Rice,W,41,14,18,24,269,2,40,122,4,12,8,3,12,1,1
+2010-10-30,UCF,CUSA,H,East Carolina,W,49,35,8,12,159,2,48,265,5,7,14,3,24,1,0
+2010-11-05,UCF,CUSA,A,Houston,W,40,33,15,21,294,2,53,228,2,12,12,5,55,1,0
+2010-11-13,UCF,CUSA,H,Southern Mississippi,L,21,31,16,26,190,2,33,145,1,11,5,9,65,0,2
+2010-11-20,UCF,CUSA,A,Tulane,W,61,14,8,15,177,2,43,282,4,7,14,12,109,0,0
+2010-11-27,UCF,CUSA,A,Memphis,W,37,17,14,17,252,2,38,104,3,10,7,6,42,1,0
+2010-12-04,UCF,CUSA,H,SMU,W,17,7,15,19,167,1,44,144,1,9,11,4,45,0,0
+2010-12-31,UCF,CUSA,N,Georgia,W,10,6,16,30,117,0,30,124,1,7,9,3,30,0,2
+2010-09-03,Toledo,MAC,H,Arizona,L,2,41,14,23,103,0,28,80,0,5,4,6,40,1,1
+2010-09-11,Toledo,MAC,A,Ohio,W,20,13,13,20,110,1,48,102,2,6,7,8,60,0,2
+2010-09-18,Toledo,MAC,A,Western Michigan,W,37,24,11,19,173,2,40,95,1,4,6,8,72,0,2
+2010-09-25,Toledo,MAC,A,Purdue,W,31,20,24,31,209,2,38,169,2,9,9,12,91,2,0
+2010-10-02,Toledo,MAC,H,Wyoming,L,15,20,14,35,184,0,37,190,2,5,10,9,71,1,0
+2010-10-09,Toledo,MAC,A,Boise State,L,14,57,21,29,222,1,31,65,1,12,3,5,44,3,2
+2010-10-16,Toledo,MAC,H,Kent State,W,34,21,30,47,229,1,36,167,3,12,9,11,85,0,0
+2010-10-23,Toledo,MAC,H,Ball State,W,31,24,14,18,197,1,50,249,3,8,10,9,82,0,2
+2010-10-30,Toledo,MAC,A,Eastern Michigan,W,42,7,12,19,237,5,38,200,1,4,8,4,35,1,0
+2010-11-09,Toledo,MAC,A,Northern Illinois,L,30,65,18,38,186,2,26,194,2,11,8,8,92,0,1
+2010-11-17,Toledo,MAC,H,Bowling Green State,W,33,14,17,26,260,3,47,277,2,10,13,7,75,0,1
+2010-11-26,Toledo,MAC,H,Central Michigan,W,42,31,25,33,332,4,33,84,0,15,3,6,30,0,0
+2010-12-26,Toledo,MAC,N,Florida International,L,32,34,15,27,132,1,43,304,3,8,14,9,57,1,3
+2010-09-06,Boise State,WAC,A,Virginia Tech,W,33,30,23,38,215,3,24,168,1,12,4,11,105,2,0
+2010-09-18,Boise State,WAC,A,Wyoming,W,51,6,21,31,373,2,55,275,3,15,16,8,70,1,1
+2010-09-25,Boise State,WAC,H,Oregon State,W,37,24,20,28,294,4,36,175,0,13,6,8,58,1,0
+2010-10-02,Boise State,WAC,A,New Mexico State,W,59,0,18,24,309,4,39,299,4,12,12,7,65,0,0
+2010-10-09,Boise State,WAC,H,Toledo,W,57,14,17,23,293,3,40,207,4,11,14,5,66,0,0
+2010-10-16,Boise State,WAC,A,San Jose State,W,48,0,23,32,322,2,39,213,4,17,10,5,51,2,0
+2010-10-26,Boise State,WAC,H,Louisiana Tech,W,49,20,21,29,305,3,36,163,4,11,8,3,21,1,1
+2010-11-06,Boise State,WAC,H,Hawaii,W,42,7,30,37,507,3,41,230,3,19,11,7,65,1,2
+2010-11-12,Boise State,WAC,A,Idaho,W,52,14,22,33,225,3,36,199,3,10,9,4,46,1,0
+2010-11-19,Boise State,WAC,H,Fresno State,W,51,0,30,42,391,4,40,125,2,18,9,4,35,1,1
+2010-11-26,Boise State,WAC,A,Nevada,L,31,34,20,31,348,2,30,145,2,13,8,5,70,0,0
+2010-12-04,Boise State,WAC,H,Utah State,W,50,14,25,36,251,3,33,202,3,13,12,4,30,0,0
+2010-12-22,Boise State,WAC,N,Utah,W,26,3,29,40,341,2,37,202,1,15,6,3,29,3,1
+2010-09-04,North Texas,Sun Belt,A,Clemson,L,10,35,22,34,269,1,49,193,0,11,13,7,70,0,2
+2010-09-11,North Texas,Sun Belt,H,Rice,L,31,32,22,41,296,3,31,124,1,11,4,7,58,2,1
+2010-09-18,North Texas,Sun Belt,A,Army,L,0,24,14,29,106,0,29,95,0,2,8,8,59,1,1
+2010-09-25,North Texas,Sun Belt,A,Florida Atlantic,W,21,17,10,15,146,2,54,257,1,7,14,3,15,1,1
+2010-10-02,North Texas,Sun Belt,H,Louisiana,L,27,28,22,31,191,2,44,187,2,10,11,15,102,1,1
+2010-10-09,North Texas,Sun Belt,H,Arkansas State,L,19,24,9,18,77,0,46,215,1,3,12,9,53,1,0
+2010-10-16,North Texas,Sun Belt,H,Florida International,L,10,34,13,28,142,0,38,143,1,6,6,6,64,0,0
+2010-10-30,North Texas,Sun Belt,A,Western Kentucky,W,33,6,11,20,89,0,41,311,4,6,14,6,39,0,0
+2010-11-06,North Texas,Sun Belt,H,Troy,L,35,41,17,29,269,3,37,163,2,9,11,6,50,0,0
+2010-11-13,North Texas,Sun Belt,A,Middle Tennessee State,W,23,17,16,25,167,1,57,279,1,7,14,11,76,1,1
+2010-11-20,North Texas,Sun Belt,A,Louisiana-Monroe,L,37,49,14,26,164,2,30,161,1,10,6,3,14,1,1
+2010-11-27,North Texas,Sun Belt,H,Kansas State,L,41,49,12,20,161,2,33,298,3,7,9,4,18,1,1
+2010-09-04,Brigham Young,MWC,H,Washington,W,23,17,24,40,262,2,33,146,0,9,11,6,60,0,0
+2010-09-11,Brigham Young,MWC,A,Air Force,L,14,35,10,25,88,0,34,221,2,5,6,7,45,2,1
+2010-09-18,Brigham Young,MWC,A,Florida State,L,10,34,16,35,115,1,35,76,0,8,7,5,45,1,1
+2010-09-25,Brigham Young,MWC,H,Nevada,L,13,27,24,45,229,0,25,91,1,16,3,1,5,0,0
+2010-10-01,Brigham Young,MWC,A,Utah State,L,16,31,27,54,270,0,25,65,2,15,3,6,45,0,2
+2010-10-09,Brigham Young,MWC,H,San Diego State,W,24,21,16,23,142,0,62,271,3,7,15,5,25,1,1
+2010-10-16,Brigham Young,MWC,A,Texas Christian,L,3,31,14,30,91,0,27,56,0,5,4,4,20,0,2
+2010-10-23,Brigham Young,MWC,H,Wyoming,W,25,20,10,18,81,1,51,217,2,4,13,8,70,1,1
+2010-11-06,Brigham Young,MWC,H,Nevada-Las Vegas,W,55,7,20,32,300,2,51,216,5,15,12,4,30,0,0
+2010-11-13,Brigham Young,MWC,A,Colorado State,W,49,10,15,20,242,4,44,284,2,10,14,2,23,2,0
+2010-11-20,Brigham Young,MWC,H,New Mexico,W,40,7,19,33,236,2,44,258,3,12,17,14,141,0,0
+2010-11-27,Brigham Young,MWC,A,Utah,L,16,17,22,37,228,1,37,65,0,12,5,2,20,3,1
+2010-12-18,Brigham Young,MWC,N,UTEP,W,52,24,26,36,295,4,50,219,3,18,8,6,54,0,2
+2010-09-02,Florida Atlantic,Sun Belt,A,UAB,W,32,31,15,25,257,3,27,90,1,7,5,3,15,0,1
+2010-09-11,Florida Atlantic,Sun Belt,A,Michigan State,L,17,30,24,37,256,1,34,45,1,10,7,11,85,1,0
+2010-09-25,Florida Atlantic,Sun Belt,H,North Texas,L,17,21,20,31,273,1,24,84,1,13,4,8,40,1,1
+2010-10-02,Florida Atlantic,Sun Belt,A,South Florida,L,3,31,17,25,136,0,39,72,0,9,5,7,89,1,2
+2010-10-09,Florida Atlantic,Sun Belt,A,Louisiana-Monroe,L,17,20,13,26,141,0,37,140,2,9,7,6,55,1,1
+2010-10-23,Florida Atlantic,Sun Belt,A,Arkansas State,L,16,37,13,28,227,2,30,92,0,6,6,14,105,1,2
+2010-10-30,Florida Atlantic,Sun Belt,H,Florida International,W,21,9,19,27,174,1,34,182,2,7,9,5,60,2,0
+2010-11-06,Florida Atlantic,Sun Belt,A,Western Kentucky,W,17,16,9,22,140,1,37,75,1,6,2,7,29,1,1
+2010-11-13,Florida Atlantic,Sun Belt,H,Louisiana,W,24,23,11,18,183,3,37,139,0,7,9,6,55,1,0
+2010-11-20,Florida Atlantic,Sun Belt,A,Texas,L,17,51,11,27,210,2,35,88,0,6,8,6,51,1,2
+2010-11-27,Florida Atlantic,Sun Belt,A,Middle Tennessee State,L,14,38,20,35,201,2,33,55,0,11,4,5,25,0,3
+2010-12-04,Florida Atlantic,Sun Belt,H,Troy,L,7,44,21,41,302,1,32,69,0,12,5,9,86,2,1
+2010-09-04,Memphis,CUSA,A,Mississippi State,L,7,49,20,32,196,1,21,41,0,5,3,8,88,0,2
+2010-09-11,Memphis,CUSA,A,East Carolina,L,27,49,21,31,312,3,37,101,0,12,7,9,66,2,1
+2010-09-18,Memphis,CUSA,H,Middle Tennessee State,W,24,17,15,28,129,1,44,158,2,5,8,9,40,0,0
+2010-09-25,Memphis,CUSA,A,UTEP,L,13,16,20,30,144,1,40,144,0,10,10,5,31,0,2
+2010-10-02,Memphis,CUSA,H,Tulsa,L,7,48,9,19,82,0,36,125,1,4,8,6,55,3,1
+2010-10-09,Memphis,CUSA,A,Louisville,L,0,56,16,30,184,0,34,39,0,9,3,6,38,0,1
+2010-10-16,Memphis,CUSA,H,Southern Mississippi,L,19,41,11,24,237,2,26,32,0,8,1,6,44,2,0
+2010-10-30,Memphis,CUSA,H,Houston,L,17,56,4,12,92,0,42,229,2,2,13,3,21,0,1
+2010-11-06,Memphis,CUSA,H,Tennessee,L,14,50,20,32,244,2,31,64,0,11,5,4,31,2,3
+2010-11-13,Memphis,CUSA,A,Marshall,L,13,28,14,32,201,1,26,40,0,10,2,11,95,1,0
+2010-11-20,Memphis,CUSA,A,UAB,L,15,31,16,31,228,1,25,103,0,9,3,4,40,2,1
+2010-11-27,Memphis,CUSA,H,UCF,L,17,37,21,34,272,2,21,23,0,9,3,5,35,1,1
+2010-09-04,Army,Ind,A,Eastern Michigan,W,31,27,5,11,65,0,55,309,4,4,17,7,70,1,0
+2010-09-11,Army,Ind,H,Hawaii,L,28,31,4,6,58,0,64,250,4,4,15,5,45,2,0
+2010-09-18,Army,Ind,H,North Texas,W,24,0,5,10,45,0,57,292,3,3,18,2,15,0,0
+2010-09-25,Army,Ind,A,Duke,W,35,21,4,6,85,2,66,248,3,3,14,1,10,0,0
+2010-10-02,Army,Ind,H,Temple,L,35,42,9,17,124,1,57,235,4,6,15,7,74,0,0
+2010-10-09,Army,Ind,A,Tulane,W,41,23,3,5,31,1,62,312,4,1,18,4,35,1,0
+2010-10-16,Army,Ind,A,Rutgers,L,20,23,8,14,115,0,59,289,2,5,16,8,94,2,0
+2010-11-06,Army,Ind,H,Air Force,L,22,42,6,13,81,1,50,244,1,6,12,4,45,1,1
+2010-11-13,Army,Ind,A,Kent State,W,45,28,9,10,149,0,62,233,6,6,12,2,10,0,0
+2010-11-20,Army,Ind,H,Notre Dame,L,3,27,2,8,39,0,43,135,0,2,6,3,28,0,2
+2010-12-11,Army,Ind,N,Navy,L,17,31,11,20,128,2,54,209,0,7,13,8,71,2,0
+2010-12-30,Army,Ind,N,SMU,W,16,14,2,7,30,0,50,199,1,2,13,0,0,0,0
+2010-09-04,Auburn,SEC,H,Arkansas State,W,52,26,11,16,241,3,49,367,4,7,16,7,60,2,0
+2010-09-09,Auburn,SEC,A,Mississippi State,W,17,14,12,21,158,2,46,190,0,7,14,4,35,1,1
+2010-09-18,Auburn,SEC,H,Clemson,W,27,24,7,14,203,2,47,221,1,7,9,10,97,0,2
+2010-09-25,Auburn,SEC,H,South Carolina,W,35,27,16,21,158,2,57,334,3,8,20,6,41,2,0
+2010-10-02,Auburn,SEC,H,Louisiana-Monroe,W,52,3,17,24,272,3,33,233,4,11,11,2,15,0,1
+2010-10-09,Auburn,SEC,A,Kentucky,W,37,34,13,21,210,0,52,311,4,9,16,8,87,0,1
+2010-10-16,Auburn,SEC,H,Arkansas,W,65,43,10,15,140,1,49,330,6,7,15,8,68,0,0
+2010-10-23,Auburn,SEC,H,LSU,W,24,17,10,16,86,0,52,440,3,6,18,7,45,1,0
+2010-10-30,Auburn,SEC,A,Ole Miss,W,51,31,19,25,229,3,46,343,2,11,17,4,36,1,0
+2010-11-13,Auburn,SEC,H,Georgia,W,49,31,12,16,148,2,57,315,5,7,17,6,73,0,1
+2010-11-26,Auburn,SEC,A,Alabama,W,28,27,13,20,216,3,41,108,1,10,7,2,30,1,0
+2010-12-04,Auburn,SEC,N,South Carolina,W,56,17,18,29,351,4,42,238,3,12,14,4,44,1,0
+2011-01-10,Auburn,SEC,N,Oregon,W,22,19,20,35,265,2,50,254,0,13,14,5,47,1,1
+2010-09-02,Marshall,CUSA,A,Ohio State,L,7,45,18,35,155,0,21,44,0,6,3,8,60,2,1
+2010-09-10,Marshall,CUSA,H,West Virginia,L,21,24,20,29,229,3,27,135,0,9,5,7,66,1,0
+2010-09-18,Marshall,CUSA,A,Bowling Green State,L,28,44,20,47,191,1,26,185,3,9,9,3,28,1,4
+2010-09-25,Marshall,CUSA,H,Ohio,W,24,23,21,30,295,3,35,96,0,12,5,8,35,0,0
+2010-10-02,Marshall,CUSA,A,Southern Mississippi,L,16,41,17,28,125,1,23,45,0,5,2,12,112,1,0
+2010-10-13,Marshall,CUSA,H,UCF,L,14,35,17,37,226,2,20,37,0,9,3,4,55,0,1
+2010-10-23,Marshall,CUSA,A,East Carolina,L,10,37,30,54,234,1,28,94,0,14,5,8,65,1,3
+2010-10-30,Marshall,CUSA,H,UTEP,W,16,12,13,26,138,1,34,175,1,5,9,8,67,0,0
+2010-11-06,Marshall,CUSA,A,UAB,W,31,17,25,41,304,3,36,96,1,12,4,9,71,0,1
+2010-11-13,Marshall,CUSA,H,Memphis,W,28,13,20,28,251,3,38,118,1,9,9,6,52,1,1
+2010-11-20,Marshall,CUSA,A,SMU,L,17,31,24,42,277,1,25,50,1,12,5,2,20,0,3
+2010-11-27,Marshall,CUSA,H,Tulane,W,38,23,10,24,180,3,32,91,0,8,3,4,26,1,1
+2010-09-10,UTEP,CUSA,A,Houston,L,24,54,30,55,340,3,21,100,0,17,4,11,93,1,0
+2010-09-18,UTEP,CUSA,H,New Mexico State,W,42,10,19,32,246,5,35,249,1,10,13,4,35,0,0
+2010-09-25,UTEP,CUSA,H,Memphis,W,16,13,16,33,171,0,30,117,1,8,7,4,42,0,1
+2010-10-02,UTEP,CUSA,A,New Mexico,W,38,20,21,39,266,3,40,169,2,12,11,5,40,2,0
+2010-10-09,UTEP,CUSA,H,Rice,W,44,24,19,33,327,3,35,136,3,13,6,6,50,0,0
+2010-10-16,UTEP,CUSA,A,UAB,L,6,21,15,33,169,0,23,60,0,9,4,8,50,0,3
+2010-10-23,UTEP,CUSA,H,Tulane,L,24,34,10,24,102,1,31,184,2,5,11,4,38,1,2
+2010-10-30,UTEP,CUSA,A,Marshall,L,12,16,22,42,229,1,36,87,0,15,5,9,71,1,1
+2010-11-06,UTEP,CUSA,H,SMU,W,28,14,18,29,201,3,34,118,1,13,5,5,52,0,0
+2010-11-13,UTEP,CUSA,A,Arkansas,L,21,58,18,28,238,1,25,117,1,10,5,7,73,1,2
+2010-11-20,UTEP,CUSA,A,Tulsa,L,28,31,9,23,140,0,40,223,3,6,11,3,30,0,1
+2010-12-18,UTEP,CUSA,N,Brigham Young,L,24,52,14,33,245,3,22,-12,0,9,2,7,52,0,3
+2010-09-04,LSU,SEC,N,North Carolina,W,30,24,15,21,151,2,36,162,1,6,5,8,65,4,1
+2010-09-11,LSU,SEC,A,Vanderbilt,W,27,3,9,21,112,0,50,280,3,7,14,3,15,0,1
+2010-09-18,LSU,SEC,H,Mississippi State,W,29,7,10,16,97,0,39,167,2,5,10,5,35,1,0
+2010-09-25,LSU,SEC,H,West Virginia,W,20,14,11,23,80,0,36,150,1,3,8,12,120,0,2
+2010-10-02,LSU,SEC,H,Tennessee,W,16,14,19,33,215,0,36,219,2,10,9,9,54,1,3
+2010-10-09,LSU,SEC,A,Florida,W,33,29,16,24,224,2,47,161,2,9,9,6,61,1,1
+2010-10-23,LSU,SEC,A,Auburn,L,17,24,16,30,128,1,37,115,1,3,13,4,24,0,1
+2010-11-06,LSU,SEC,H,Alabama,W,24,21,14,20,208,1,45,225,1,6,9,5,45,0,0
+2010-11-13,LSU,SEC,H,Louisiana-Monroe,W,51,0,8,22,95,0,39,156,4,6,10,3,15,0,0
+2010-11-20,LSU,SEC,H,Ole Miss,W,43,36,14,21,258,1,38,212,4,10,10,7,68,1,1
+2010-11-27,LSU,SEC,A,Arkansas,L,23,31,17,29,194,0,39,100,2,6,8,7,51,3,0
+2011-01-07,LSU,SEC,N,Texas A&M,W,41,24,10,19,158,3,55,288,2,8,14,3,25,0,1
+2010-09-05,Tulsa,CUSA,A,East Carolina,L,49,51,28,43,399,5,41,180,2,15,11,5,30,1,1
+2010-09-11,Tulsa,CUSA,H,Bowling Green State,W,33,20,27,48,356,2,40,190,1,18,11,4,45,1,1
+2010-09-18,Tulsa,CUSA,A,Oklahoma State,L,28,65,23,35,229,1,44,199,2,12,11,5,45,0,3
+2010-10-02,Tulsa,CUSA,A,Memphis,W,48,7,18,31,214,2,47,233,4,11,12,2,15,0,0
+2010-10-09,Tulsa,CUSA,A,SMU,L,18,21,20,41,229,0,32,135,2,14,5,3,30,0,0
+2010-10-16,Tulsa,CUSA,H,Tulane,W,52,24,15,25,206,2,43,332,5,10,16,6,40,0,0
+2010-10-30,Tulsa,CUSA,A,Notre Dame,W,28,27,18,34,196,1,39,203,0,9,8,12,133,2,0
+2010-11-06,Tulsa,CUSA,H,Rice,W,64,27,28,41,439,5,44,173,3,20,11,3,20,0,0
+2010-11-13,Tulsa,CUSA,A,Houston,W,28,25,20,31,154,2,50,259,2,9,18,4,41,0,2
+2010-11-20,Tulsa,CUSA,H,UTEP,W,31,28,19,34,325,2,50,218,2,15,12,4,45,1,0
+2010-11-26,Tulsa,CUSA,H,Southern Mississippi,W,56,50,23,37,406,4,34,228,4,16,8,0,0,1,2
+2010-12-24,Tulsa,CUSA,A,Hawaii,W,62,35,17,32,343,3,31,188,3,12,6,4,45,2,0
+2010-09-11,Air Force,MWC,H,Brigham Young,W,35,14,5,13,68,1,65,409,4,3,18,10,125,0,1
+2010-09-18,Air Force,MWC,A,Oklahoma,L,24,27,8,14,107,0,63,351,3,5,20,4,35,1,0
+2010-09-25,Air Force,MWC,A,Wyoming,W,20,14,5,13,66,0,71,379,3,3,23,7,54,0,1
+2010-10-02,Air Force,MWC,H,Navy,W,14,6,5,7,83,0,53,292,2,4,9,5,52,2,0
+2010-10-09,Air Force,MWC,H,Colorado State,W,49,27,6,10,185,3,47,248,3,6,15,1,5,1,1
+2010-10-16,Air Force,MWC,A,San Diego State,L,25,27,13,30,175,1,62,312,2,9,20,5,30,0,1
+2010-10-23,Air Force,MWC,A,Texas Christian,L,7,38,3,7,47,0,41,184,1,2,10,4,30,0,0
+2010-10-30,Air Force,MWC,H,Utah,L,23,28,8,13,201,1,41,210,2,5,7,1,15,3,2
+2010-11-06,Air Force,MWC,A,Army,W,42,22,3,7,124,2,53,277,3,2,15,3,35,0,0
+2010-11-13,Air Force,MWC,H,New Mexico,W,48,23,7,10,88,1,80,373,6,4,25,6,55,1,0
+2010-11-18,Air Force,MWC,A,Nevada-Las Vegas,W,35,20,7,9,111,1,62,343,4,5,20,5,35,2,0
+2010-12-27,Air Force,MWC,N,Georgia Tech,W,14,7,11,23,117,0,49,170,1,7,9,1,5,0,0
+2010-09-04,Oregon,Pac-10,H,New Mexico,W,72,0,23,37,351,2,58,369,5,15,19,7,70,0,1
+2010-09-11,Oregon,Pac-10,A,Tennessee,W,48,13,17,32,202,2,44,245,2,9,15,6,38,1,0
+2010-09-25,Oregon,Pac-10,A,Arizona State,W,42,31,19,33,260,2,36,125,2,11,5,8,82,1,1
+2010-10-02,Oregon,Pac-10,H,Stanford,W,52,31,20,29,238,3,51,388,4,9,22,5,45,1,2
+2010-10-09,Oregon,Pac-10,A,Washington State,W,43,23,22,28,322,2,39,234,3,11,8,9,80,3,0
+2010-10-21,Oregon,Pac-10,H,UCLA,W,60,13,24,33,312,3,40,270,5,17,14,5,50,0,0
+2010-10-30,Oregon,Pac-10,A,USC,W,53,32,19,32,288,4,50,311,3,13,15,8,85,1,1
+2010-11-06,Oregon,Pac-10,H,Washington,W,53,16,24,33,243,1,55,279,6,9,19,10,107,2,0
+2010-11-13,Oregon,Pac-10,A,California,W,15,13,15,29,155,1,55,162,0,7,12,8,62,1,0
+2010-11-26,Oregon,Pac-10,H,Arizona,W,48,29,14,24,148,3,57,389,4,5,18,4,31,1,1
+2010-12-04,Oregon,Pac-10,A,Oregon State,W,37,20,14,24,145,2,49,346,3,8,15,10,61,2,0
+2011-01-10,Oregon,Pac-10,N,Auburn,L,19,22,28,41,374,2,32,75,0,16,5,6,37,0,2
+2010-09-11,Tennessee,SEC,H,Oregon,L,13,48,15,29,151,0,36,182,1,6,8,7,60,0,1
+2010-09-18,Tennessee,SEC,H,Florida,L,17,31,19,31,259,2,23,29,0,8,3,9,54,1,2
+2010-09-25,Tennessee,SEC,H,UAB,W,32,29,19,34,245,3,27,42,0,7,8,4,20,0,0
+2010-10-02,Tennessee,SEC,A,LSU,L,14,16,12,23,121,0,37,96,2,6,5,3,10,0,0
+2010-10-09,Tennessee,SEC,A,Georgia,L,14,41,17,25,260,1,26,9,1,9,2,5,38,2,1
+2010-10-23,Tennessee,SEC,H,Alabama,L,10,41,17,36,156,0,30,159,1,8,7,5,48,0,2
+2010-10-30,Tennessee,SEC,A,South Carolina,L,24,38,19,28,312,3,37,92,0,12,7,7,57,3,1
+2010-11-06,Tennessee,SEC,A,Memphis,W,50,14,22,38,379,5,32,130,1,16,4,5,29,1,0
+2010-11-13,Tennessee,SEC,H,Ole Miss,W,52,14,18,35,323,3,28,118,2,11,5,6,45,0,0
+2010-11-20,Tennessee,SEC,A,Vanderbilt,W,24,10,16,27,232,2,34,128,1,11,7,9,75,1,2
+2010-11-27,Tennessee,SEC,H,Kentucky,W,24,14,20,38,354,2,26,76,1,15,6,3,37,0,2
+2010-12-30,Tennessee,SEC,N,North Carolina,L,27,30,27,45,312,4,29,27,0,14,3,8,75,0,3
+2010-09-04,Colorado State,MWC,N,Colorado,L,3,24,24,33,196,0,25,49,0,10,3,2,29,0,3
+2010-09-11,Colorado State,MWC,A,Nevada,L,6,51,23,36,194,0,31,78,0,11,6,1,10,0,1
+2010-09-18,Colorado State,MWC,A,Miami (OH),L,10,31,26,40,305,1,21,1,0,12,3,7,60,2,2
+2010-09-25,Colorado State,MWC,H,Idaho,W,36,34,29,36,386,3,32,108,1,14,9,11,87,0,1
+2010-10-02,Colorado State,MWC,H,Texas Christian,L,0,27,17,29,116,0,26,45,0,6,2,4,30,2,0
+2010-10-09,Colorado State,MWC,A,Air Force,L,27,49,22,35,136,1,50,285,3,8,15,3,23,1,1
+2010-10-16,Colorado State,MWC,H,Nevada-Las Vegas,W,43,10,10,14,233,3,42,259,2,5,12,4,35,0,0
+2010-10-23,Colorado State,MWC,A,Utah,L,6,59,19,28,185,0,24,28,0,10,2,6,47,1,1
+2010-10-30,Colorado State,MWC,H,New Mexico,W,38,14,17,26,256,1,50,328,4,14,15,2,15,0,0
+2010-11-06,Colorado State,MWC,A,San Diego State,L,19,24,22,41,266,1,34,27,0,13,5,4,35,0,1
+2010-11-13,Colorado State,MWC,H,Brigham Young,L,10,49,28,42,292,1,24,83,0,13,6,5,60,2,2
+2010-11-20,Colorado State,MWC,A,Wyoming,L,0,44,16,33,97,0,33,65,0,5,6,5,55,1,1
+2010-09-04,Michigan State,Big Ten,H,Western Michigan,W,38,14,13,22,186,1,37,297,4,9,10,11,69,2,0
+2010-09-11,Michigan State,Big Ten,H,Florida Atlantic,W,30,17,9,17,142,1,30,225,2,6,10,4,43,1,1
+2010-09-18,Michigan State,Big Ten,H,Notre Dame,W,34,31,24,34,274,3,43,203,2,14,10,11,79,0,1
+2010-10-02,Michigan State,Big Ten,H,Wisconsin,W,34,24,20,29,269,3,45,175,0,10,9,4,50,1,2
+2010-10-09,Michigan State,Big Ten,A,Michigan,W,34,17,19,26,287,1,42,249,3,10,11,6,65,0,0
+2010-10-16,Michigan State,Big Ten,H,Illinois,W,26,6,13,24,201,1,31,93,1,11,3,8,84,1,0
+2010-10-23,Michigan State,Big Ten,A,Northwestern,W,35,27,30,44,352,3,26,105,2,19,4,4,30,1,0
+2010-10-30,Michigan State,Big Ten,A,Iowa,L,6,37,25,39,227,1,20,31,0,12,1,7,63,0,3
+2010-11-06,Michigan State,Big Ten,H,Minnesota,W,31,8,9,20,131,0,41,189,4,7,9,4,31,0,1
+2010-11-20,Michigan State,Big Ten,H,Purdue,W,35,31,30,40,286,3,25,95,2,16,6,6,50,0,1
+2010-11-27,Michigan State,Big Ten,A,Penn State,W,28,22,19,24,168,3,39,163,1,10,8,3,24,2,0
+2011-01-01,Michigan State,Big Ten,N,Alabama,L,7,49,14,29,219,1,28,-48,0,8,3,8,45,0,1
+2010-09-11,Boston College,ACC,H,Kent State,W,26,13,19,30,218,2,40,87,0,12,6,6,35,1,1
+2010-09-25,Boston College,ACC,H,Virginia Tech,L,0,19,16,32,180,0,28,70,0,8,5,5,47,1,2
+2010-10-02,Boston College,ACC,H,Notre Dame,L,13,31,27,47,265,1,23,5,0,9,2,12,120,0,2
+2010-10-09,Boston College,ACC,A,North Carolina State,L,17,44,11,32,173,2,29,99,0,7,5,5,65,0,3
+2010-10-16,Boston College,ACC,A,Florida State,L,19,24,9,24,95,0,33,171,0,5,3,4,34,0,0
+2010-10-23,Boston College,ACC,H,Maryland,L,21,24,18,33,189,1,34,96,2,6,6,6,39,1,2
+2010-10-30,Boston College,ACC,H,Clemson,W,16,10,9,17,136,1,46,169,0,6,8,7,70,0,1
+2010-11-06,Boston College,ACC,A,Wake Forest,W,23,13,12,16,133,0,43,165,3,5,8,7,63,0,2
+2010-11-13,Boston College,ACC,A,Duke,W,21,16,12,24,230,2,37,126,1,8,5,7,50,2,0
+2010-11-20,Boston College,ACC,H,Virginia,W,17,13,10,19,152,1,42,218,1,8,10,4,39,0,1
+2010-11-27,Boston College,ACC,A,Syracuse,W,16,7,11,20,110,0,51,205,1,6,11,1,5,0,1
+2011-01-09,Boston College,ACC,N,Nevada,L,13,20,14,34,121,0,25,64,1,6,3,6,51,0,2
+2010-09-11,Ole Miss,SEC,A,Tulane,W,27,13,16,22,282,1,37,92,2,12,4,8,75,0,1
+2010-09-18,Ole Miss,SEC,H,Vanderbilt,L,14,28,19,35,190,0,44,195,2,7,11,4,40,1,2
+2010-09-25,Ole Miss,SEC,H,Fresno State,W,55,38,8,12,153,2,47,425,4,6,13,3,20,1,1
+2010-10-02,Ole Miss,SEC,H,Kentucky,W,42,35,9,17,90,3,51,211,3,3,13,6,46,0,0
+2010-10-16,Ole Miss,SEC,A,Alabama,L,10,23,18,40,110,1,26,133,0,7,6,12,106,0,1
+2010-10-23,Ole Miss,SEC,A,Arkansas,L,24,38,21,36,327,3,42,185,0,14,6,8,55,2,0
+2010-10-30,Ole Miss,SEC,H,Auburn,L,31,51,20,33,189,1,31,218,3,8,7,1,5,0,1
+2010-11-06,Ole Miss,SEC,H,Louisiana,W,43,21,11,22,180,1,50,298,3,9,13,8,64,1,0
+2010-11-13,Ole Miss,SEC,A,Tennessee,L,14,52,10,24,99,0,39,196,2,5,8,6,72,1,4
+2010-11-20,Ole Miss,SEC,A,LSU,L,36,43,16,25,184,1,42,236,4,7,11,7,85,1,2
+2010-11-27,Ole Miss,SEC,H,Mississippi State,L,23,31,24,44,261,1,35,65,2,14,5,5,45,1,1
+2010-09-11,Duke,ACC,A,Wake Forest,L,48,54,28,44,358,4,29,129,2,14,7,3,28,1,3
+2010-09-18,Duke,ACC,H,Alabama,L,13,62,19,42,156,1,36,146,0,9,7,6,54,0,1
+2010-09-25,Duke,ACC,H,Army,L,21,35,17,30,261,2,24,111,1,9,7,4,30,2,3
+2010-10-02,Duke,ACC,A,Maryland,L,16,21,28,56,351,1,23,48,0,18,3,5,50,0,2
+2010-10-16,Duke,ACC,H,Miami (FL),L,13,28,22,44,187,0,41,105,1,12,9,4,25,2,5
+2010-10-23,Duke,ACC,A,Virginia Tech,L,7,44,12,36,116,0,30,92,1,6,4,4,40,0,2
+2010-10-30,Duke,ACC,A,Navy,W,34,31,28,30,314,1,45,142,3,15,6,8,75,0,0
+2010-11-06,Duke,ACC,H,Virginia,W,55,48,18,31,259,1,45,230,6,11,12,3,20,1,0
+2010-11-13,Duke,ACC,H,Boston College,L,16,21,37,54,307,0,24,4,0,14,3,5,42,2,0
+2010-11-20,Duke,ACC,A,Georgia Tech,L,20,30,30,43,334,1,25,109,1,16,5,6,50,1,1
+2010-11-27,Duke,ACC,H,North Carolina,L,19,24,25,40,263,1,16,12,1,9,2,2,10,0,2
+2010-09-11,Kent State,MAC,A,Boston College,L,13,26,23,37,201,1,17,4,0,7,3,3,30,2,3
+2010-09-18,Kent State,MAC,A,Penn State,L,0,24,20,36,170,0,25,58,0,9,3,4,43,0,2
+2010-10-02,Kent State,MAC,A,Miami (OH),L,21,27,11,26,152,0,35,132,3,5,9,5,40,0,2
+2010-10-09,Kent State,MAC,H,Akron,W,28,17,17,34,186,1,32,75,1,7,6,13,125,0,0
+2010-10-16,Kent State,MAC,A,Toledo,L,21,34,16,28,145,0,31,130,3,9,7,4,43,2,1
+2010-10-23,Kent State,MAC,A,Bowling Green State,W,30,6,26,32,223,2,38,128,1,10,8,6,58,2,0
+2010-10-30,Kent State,MAC,H,Ball State,W,33,14,19,39,276,2,37,176,1,9,13,7,65,1,0
+2010-11-06,Kent State,MAC,H,Temple,L,10,28,22,39,207,0,21,16,0,11,3,5,42,3,0
+2010-11-13,Kent State,MAC,H,Army,L,28,45,13,25,225,2,30,185,2,10,8,6,41,1,3
+2010-11-20,Kent State,MAC,A,Western Michigan,L,3,38,26,40,249,0,42,182,0,14,7,11,104,1,2
+2010-11-26,Kent State,MAC,H,Ohio,W,28,6,11,19,100,0,36,140,3,4,8,3,19,0,0
+2010-09-06,Navy,Ind,N,Maryland,L,14,17,6,10,73,0,72,412,2,2,22,5,35,2,0
+2010-09-18,Navy,Ind,A,Louisiana Tech,W,37,23,8,14,219,1,61,297,4,7,17,2,15,0,1
+2010-10-02,Navy,Ind,A,Air Force,L,6,14,6,18,103,0,50,209,0,6,9,3,20,0,2
+2010-10-09,Navy,Ind,A,Wake Forest,W,28,27,8,19,94,2,51,274,2,4,13,6,51,0,1
+2010-10-16,Navy,Ind,H,SMU,W,28,21,6,9,84,1,55,253,3,4,13,5,54,0,0
+2010-10-23,Navy,Ind,N,Notre Dame,W,35,17,2,2,71,1,60,367,4,2,18,0,0,0,0
+2010-10-30,Navy,Ind,H,Duke,L,31,34,13,28,227,2,37,148,2,11,9,2,15,1,0
+2010-11-06,Navy,Ind,A,East Carolina,W,76,35,6,9,75,2,62,521,8,2,23,1,2,1,0
+2010-11-13,Navy,Ind,H,Central Michigan,W,38,37,2,5,33,0,52,437,5,1,21,5,52,1,0
+2010-11-20,Navy,Ind,H,Arkansas State,W,35,19,8,9,164,1,60,301,4,5,19,4,25,2,0
+2010-12-11,Navy,Ind,N,Army,W,31,17,6,11,186,2,38,139,1,6,6,2,10,3,1
+2010-12-23,Navy,Ind,A,San Diego State,L,14,35,8,15,147,1,51,235,1,7,14,3,29,0,1
+2010-09-04,Fresno State,WAC,H,Cincinnati,W,28,14,18,24,247,4,30,49,0,10,3,5,35,0,1
+2010-09-18,Fresno State,WAC,A,Utah State,W,41,24,15,23,149,1,44,230,4,8,10,6,35,1,1
+2010-09-25,Fresno State,WAC,A,Ole Miss,L,38,55,32,43,390,4,33,30,1,16,6,5,35,1,0
+2010-10-09,Fresno State,WAC,H,Hawaii,L,27,49,19,37,258,1,32,104,2,10,7,7,60,0,3
+2010-10-16,Fresno State,WAC,H,New Mexico State,W,33,10,12,20,132,1,37,222,3,5,9,3,35,1,0
+2010-10-23,Fresno State,WAC,A,San Jose State,W,33,18,11,19,168,1,47,185,2,6,10,6,67,0,0
+2010-11-06,Fresno State,WAC,A,Louisiana Tech,W,40,34,20,33,229,3,56,300,2,11,11,7,60,1,1
+2010-11-13,Fresno State,WAC,H,Nevada,L,34,35,16,26,194,2,41,250,2,11,11,3,14,2,0
+2010-11-19,Fresno State,WAC,A,Boise State,L,0,51,6,24,76,0,27,49,0,4,4,5,51,1,2
+2010-11-27,Fresno State,WAC,H,Idaho,W,23,20,21,34,219,0,41,152,1,11,8,5,53,4,0
+2010-12-03,Fresno State,WAC,H,Illinois,W,25,23,18,26,304,3,30,60,0,13,4,6,55,1,0
+2010-12-18,Fresno State,WAC,N,Northern Illinois,L,17,40,28,38,288,2,35,74,0,17,5,4,43,1,0
+2010-09-05,Texas Tech,Big 12,H,SMU,W,35,27,34,53,359,4,31,72,1,15,7,5,39,1,0
+2010-09-11,Texas Tech,Big 12,A,New Mexico,W,52,17,24,41,310,3,36,152,4,12,8,6,69,2,0
+2010-09-18,Texas Tech,Big 12,H,Texas,L,14,24,21,36,158,1,18,-14,0,8,1,8,98,1,2
+2010-10-02,Texas Tech,Big 12,A,Iowa State,L,38,52,42,62,377,5,25,131,0,21,7,7,66,2,1
+2010-10-09,Texas Tech,Big 12,N,Baylor,W,45,38,42,59,462,4,36,173,2,23,10,6,42,0,1
+2010-10-16,Texas Tech,Big 12,H,Oklahoma State,L,17,34,28,43,226,1,38,175,1,9,11,5,51,2,0
+2010-10-23,Texas Tech,Big 12,A,Colorado,W,27,24,24,38,286,2,37,144,1,14,7,5,42,1,1
+2010-10-30,Texas Tech,Big 12,A,Texas A&M,L,27,45,34,51,356,3,26,96,1,15,7,8,81,2,1
+2010-11-06,Texas Tech,Big 12,H,Missouri,W,24,17,30,50,287,3,51,198,0,15,12,6,57,1,1
+2010-11-13,Texas Tech,Big 12,A,Oklahoma,L,7,45,20,41,144,1,38,182,0,5,10,9,115,0,2
+2010-11-27,Texas Tech,Big 12,H,Houston,W,35,20,32,46,373,4,32,115,1,17,5,4,29,2,1
+2011-01-01,Texas Tech,Big 12,N,Northwestern,W,45,38,43,56,369,4,29,183,2,22,10,3,34,1,1
+2010-09-11,Tulane,CUSA,H,Ole Miss,L,13,27,22,31,218,0,29,94,1,11,6,4,25,2,0
+2010-09-25,Tulane,CUSA,A,Houston,L,23,42,18,36,226,2,32,105,1,10,5,5,30,0,3
+2010-10-02,Tulane,CUSA,A,Rutgers,W,17,14,20,33,208,1,28,37,1,11,3,3,15,0,0
+2010-10-09,Tulane,CUSA,H,Army,L,23,41,23,41,235,3,23,63,0,13,4,7,60,3,0
+2010-10-16,Tulane,CUSA,A,Tulsa,L,24,52,38,56,446,2,35,81,1,21,7,5,30,1,1
+2010-10-23,Tulane,CUSA,A,UTEP,W,34,24,19,35,201,2,51,260,2,9,15,4,30,0,1
+2010-10-30,Tulane,CUSA,H,SMU,L,17,31,11,24,121,1,53,270,0,4,16,4,25,1,1
+2010-11-06,Tulane,CUSA,H,Southern Mississippi,L,30,46,22,39,246,2,36,156,2,12,9,7,41,2,0
+2010-11-13,Tulane,CUSA,H,Rice,W,54,49,23,38,357,5,39,155,2,15,10,4,19,0,0
+2010-11-20,Tulane,CUSA,H,UCF,L,14,61,19,41,192,0,34,146,2,7,10,4,49,2,2
+2010-11-27,Tulane,CUSA,A,Marshall,L,23,38,36,65,370,1,33,40,2,17,6,5,35,1,3
+2010-09-10,Houston,CUSA,H,UTEP,W,54,24,24,34,348,1,42,308,6,13,15,6,54,1,1
+2010-09-18,Houston,CUSA,A,UCLA,L,13,31,23,38,252,1,30,108,0,11,5,7,55,1,2
+2010-09-25,Houston,CUSA,H,Tulane,W,42,23,19,28,174,0,45,175,5,9,11,6,60,2,1
+2010-10-09,Houston,CUSA,H,Mississippi State,L,24,47,32,59,356,3,16,47,0,22,2,7,41,1,2
+2010-10-16,Houston,CUSA,A,Rice,L,31,34,23,45,282,3,39,154,1,17,10,4,23,0,1
+2010-10-23,Houston,CUSA,A,SMU,W,45,20,19,32,233,1,44,164,4,12,11,6,51,1,0
+2010-10-30,Houston,CUSA,A,Memphis,W,56,17,24,27,403,6,51,248,1,20,15,7,45,1,0
+2010-11-05,Houston,CUSA,H,UCF,L,33,40,27,44,334,4,34,198,0,16,9,6,55,0,2
+2010-11-13,Houston,CUSA,H,Tulsa,L,25,28,22,36,291,3,32,118,0,13,6,4,32,0,5
+2010-11-20,Houston,CUSA,A,Southern Mississippi,L,41,59,28,47,467,4,19,24,0,15,4,2,20,0,1
+2010-11-27,Houston,CUSA,A,Texas Tech,L,20,35,32,61,441,2,36,144,0,19,9,2,20,0,3

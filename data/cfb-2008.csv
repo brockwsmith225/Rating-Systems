@@ -1,0 +1,1435 @@
+Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions
+2008-08-30,Indiana,Big Ten,H,Western Kentucky,W,31,13,18,30,153,2,41,297,2,8,12,7,63,0,1
+2008-09-20,Indiana,Big Ten,H,Ball State,L,20,42,11,25,159,0,48,256,1,7,13,7,77,0,2
+2008-09-27,Indiana,Big Ten,H,Michigan State,L,29,42,23,44,284,2,28,189,2,9,7,9,89,1,2
+2008-10-04,Indiana,Big Ten,A,Minnesota,L,7,16,16,24,244,1,24,49,0,8,2,6,64,2,1
+2008-10-11,Indiana,Big Ten,H,Iowa,L,9,45,22,36,191,1,28,95,0,10,4,6,50,1,1
+2008-10-18,Indiana,Big Ten,A,Illinois,L,13,55,12,29,172,0,44,141,1,6,10,3,25,2,0
+2008-10-25,Indiana,Big Ten,H,Northwestern,W,21,19,22,35,247,2,36,72,1,10,5,8,73,0,0
+2008-11-01,Indiana,Big Ten,H,Central Michigan,L,34,37,13,25,213,1,43,272,4,8,11,3,25,1,1
+2008-11-08,Indiana,Big Ten,H,Wisconsin,L,20,55,13,34,141,1,38,133,1,6,6,4,30,1,0
+2008-11-15,Indiana,Big Ten,A,Penn State,L,7,34,9,23,57,0,30,123,1,1,5,4,41,0,1
+2008-11-22,Indiana,Big Ten,A,Purdue,L,10,62,13,25,92,1,32,122,0,4,8,7,54,1,2
+2008-09-20,Florida State,ACC,H,Wake Forest,L,3,12,12,36,118,0,28,102,0,7,4,12,139,2,5
+2008-09-27,Florida State,ACC,H,Colorado,W,39,21,10,22,119,0,46,259,3,7,13,12,110,1,1
+2008-10-04,Florida State,ACC,A,Miami (FL),W,41,39,14,31,159,1,53,310,4,8,15,12,98,2,2
+2008-10-16,Florida State,ACC,A,North Carolina State,W,26,17,23,35,254,1,45,138,1,11,14,6,55,0,0
+2008-10-25,Florida State,ACC,H,Virginia Tech,W,30,20,11,19,159,1,38,89,2,6,5,8,73,0,0
+2008-11-01,Florida State,ACC,A,Georgia Tech,L,28,31,17,29,188,2,36,196,1,8,9,4,22,2,1
+2008-11-08,Florida State,ACC,H,Clemson,W,41,27,16,27,153,1,36,266,3,8,14,9,96,1,1
+2008-11-15,Florida State,ACC,H,Boston College,L,17,27,16,32,212,1,24,73,1,9,6,7,61,0,3
+2008-11-22,Florida State,ACC,A,Maryland,W,37,3,20,26,160,1,42,172,2,7,12,5,40,0,0
+2008-11-29,Florida State,ACC,H,Florida,L,15,45,10,32,140,0,33,102,1,7,8,7,55,1,3
+2008-12-27,Florida State,ACC,N,Wisconsin,W,42,13,23,37,276,2,38,134,2,12,9,7,85,0,0
+2008-09-06,Iowa State,Big 12,H,Kent State,W,48,28,15,21,214,2,45,160,4,8,6,6,65,1,0
+2008-09-13,Iowa State,Big 12,A,Iowa,L,5,17,24,40,252,0,27,73,0,14,3,6,60,0,3
+2008-09-20,Iowa State,Big 12,A,Nevada-Las Vegas,L,31,34,13,28,155,2,35,151,2,6,6,8,91,0,0
+2008-10-04,Iowa State,Big 12,H,Kansas,L,33,35,27,46,268,3,31,97,1,10,8,4,25,1,1
+2008-10-11,Iowa State,Big 12,A,Baylor,L,10,38,21,41,176,1,18,81,0,8,5,10,70,0,1
+2008-10-18,Iowa State,Big 12,H,Nebraska,L,7,35,16,29,113,0,25,105,1,5,5,6,42,2,0
+2008-10-25,Iowa State,Big 12,H,Texas A&M,L,35,49,28,46,401,1,39,173,3,23,9,4,25,2,0
+2008-11-01,Iowa State,Big 12,A,Oklahoma State,L,17,59,20,35,240,1,38,122,1,9,7,10,94,1,2
+2008-11-08,Iowa State,Big 12,A,Colorado,L,24,28,16,29,215,0,44,188,3,8,10,5,50,0,0
+2008-11-15,Iowa State,Big 12,H,Missouri,L,20,52,36,54,326,2,23,118,0,15,8,7,60,0,2
+2008-11-22,Iowa State,Big 12,A,Kansas State,L,30,38,32,50,462,3,36,164,1,21,9,5,43,1,2
+2008-09-06,Cincinnati,Big East,A,Oklahoma,L,26,52,22,42,239,1,29,87,2,9,7,8,64,0,2
+2008-09-20,Cincinnati,Big East,H,Miami (OH),W,45,20,20,24,241,3,31,152,2,11,9,6,70,2,0
+2008-09-27,Cincinnati,Big East,A,Akron,W,17,15,24,38,322,2,31,104,0,11,7,9,75,2,0
+2008-10-03,Cincinnati,Big East,A,Marshall,W,33,10,16,26,158,2,46,203,2,9,13,2,25,1,1
+2008-10-11,Cincinnati,Big East,H,Rutgers,W,13,10,21,29,239,0,31,97,1,10,5,12,115,0,0
+2008-10-25,Cincinnati,Big East,A,Connecticut,L,16,40,19,47,259,1,19,30,0,9,4,5,38,3,3
+2008-10-30,Cincinnati,Big East,H,South Florida,W,24,10,20,28,281,2,37,115,1,13,8,6,36,2,1
+2008-11-08,Cincinnati,Big East,A,West Virginia,W,26,23,16,30,178,1,33,82,1,7,4,10,91,0,0
+2008-11-14,Cincinnati,Big East,A,Louisville,W,28,20,20,36,274,2,31,131,2,13,4,6,42,1,1
+2008-11-22,Cincinnati,Big East,H,Pitt,W,28,21,26,32,309,3,38,87,1,16,5,5,46,1,0
+2008-11-29,Cincinnati,Big East,H,Syracuse,W,30,10,28,44,272,2,31,140,1,13,12,10,107,1,1
+2008-12-06,Cincinnati,Big East,A,Hawaii,W,29,24,16,28,183,2,33,139,0,7,6,6,58,1,2
+2009-01-01,Cincinnati,Big East,N,Virginia Tech,L,7,20,16,33,239,1,21,71,0,11,3,3,30,0,4
+2008-09-06,Arizona State,Pac-10,H,Stanford,W,41,17,27,36,345,3,36,127,2,17,8,10,107,1,1
+2008-09-13,Arizona State,Pac-10,H,Nevada-Las Vegas,L,20,23,13,23,242,2,36,131,0,8,9,4,35,0,1
+2008-09-20,Arizona State,Pac-10,H,Georgia,L,10,27,23,36,208,1,19,4,0,10,1,6,50,1,0
+2008-10-04,Arizona State,Pac-10,A,California,L,14,24,20,35,165,1,32,71,1,9,5,7,45,1,2
+2008-10-11,Arizona State,Pac-10,A,USC,L,0,28,15,37,154,0,36,75,0,7,5,9,58,1,3
+2008-10-25,Arizona State,Pac-10,H,Oregon,L,20,54,24,45,226,2,32,107,1,10,7,5,62,1,2
+2008-11-01,Arizona State,Pac-10,A,Oregon State,L,25,27,15,28,217,1,32,78,0,8,6,10,80,0,0
+2008-11-08,Arizona State,Pac-10,A,Washington,W,39,19,22,31,218,2,40,182,1,9,10,12,92,1,0
+2008-11-15,Arizona State,Pac-10,H,Washington State,W,31,0,20,31,257,3,36,141,0,11,8,10,104,0,0
+2008-11-28,Arizona State,Pac-10,H,UCLA,W,34,9,13,26,101,0,24,21,0,4,3,7,56,0,1
+2008-12-06,Arizona State,Pac-10,A,Arizona,L,10,31,13,31,124,1,23,38,0,6,4,8,61,0,1
+2008-08-30,Syracuse,Big East,A,Northwestern,L,10,30,14,28,103,0,30,122,1,4,5,5,36,0,1
+2008-09-06,Syracuse,Big East,H,Akron,L,28,42,13,20,135,3,43,218,1,7,13,1,5,1,1
+2008-09-13,Syracuse,Big East,H,Penn State,L,13,55,13,35,110,1,25,49,0,5,2,1,15,1,1
+2008-09-27,Syracuse,Big East,H,Pitt,L,24,34,9,17,137,2,27,126,0,5,6,4,40,1,0
+2008-10-11,Syracuse,Big East,A,West Virginia,L,6,17,25,42,207,0,35,139,0,11,9,6,50,0,1
+2008-10-18,Syracuse,Big East,A,South Florida,L,13,45,11,27,129,0,27,101,1,6,3,6,52,1,0
+2008-11-01,Syracuse,Big East,H,Louisville,W,28,21,11,22,178,2,38,207,2,8,9,3,34,1,0
+2008-11-08,Syracuse,Big East,A,Rutgers,L,17,35,5,19,35,0,26,133,1,0,5,6,41,1,0
+2008-11-15,Syracuse,Big East,H,Connecticut,L,14,39,6,23,51,0,36,96,1,1,6,5,37,0,3
+2008-11-22,Syracuse,Big East,A,Notre Dame,W,24,23,14,26,147,1,36,170,2,8,9,7,50,2,0
+2008-11-29,Syracuse,Big East,A,Cincinnati,L,10,30,6,23,59,1,27,152,0,2,6,5,45,0,1
+2008-09-06,Penn State,Big Ten,H,Oregon State,W,45,14,14,27,215,2,38,239,4,11,10,2,15,1,0
+2008-09-13,Penn State,Big Ten,A,Syracuse,W,55,13,20,39,344,5,43,216,2,16,10,7,56,2,0
+2008-09-20,Penn State,Big Ten,H,Temple,W,45,3,18,31,238,2,45,308,4,11,13,4,50,1,1
+2008-09-27,Penn State,Big Ten,H,Illinois,W,38,24,14,20,181,2,44,241,2,10,13,1,10,1,0
+2008-10-04,Penn State,Big Ten,A,Purdue,W,20,6,18,26,220,0,40,202,2,13,11,4,30,0,0
+2008-10-11,Penn State,Big Ten,A,Wisconsin,W,48,7,18,30,271,1,35,106,4,14,5,1,7,0,1
+2008-10-18,Penn State,Big Ten,H,Michigan,W,46,17,19,33,251,2,38,231,3,8,13,3,20,1,0
+2008-10-25,Penn State,Big Ten,A,Ohio State,W,13,6,12,20,121,0,37,160,1,4,11,0,0,0,0
+2008-11-08,Penn State,Big Ten,A,Iowa,L,23,24,10,24,109,0,46,180,2,6,15,3,35,1,1
+2008-11-15,Penn State,Big Ten,H,Indiana,W,34,7,22,39,258,2,38,184,2,13,9,3,25,2,1
+2008-11-22,Penn State,Big Ten,H,Michigan State,W,49,18,19,31,419,5,35,138,2,14,4,5,38,0,0
+2009-01-01,Penn State,Big Ten,A,USC,L,24,38,21,37,273,2,29,137,1,10,6,9,72,1,2
+2008-08-30,California,Pac-10,H,Michigan State,W,38,31,20,30,264,2,36,203,2,12,7,8,67,0,2
+2008-09-06,California,Pac-10,A,Washington State,W,66,3,14,24,114,1,40,391,7,7,11,8,66,1,0
+2008-09-13,California,Pac-10,A,Maryland,L,27,35,33,60,423,3,23,38,0,21,3,8,75,0,1
+2008-09-27,California,Pac-10,H,Colorado State,W,42,7,15,26,159,3,30,189,0,9,10,4,25,2,0
+2008-10-04,California,Pac-10,H,Arizona State,W,24,14,17,28,198,3,33,79,0,10,6,4,33,0,1
+2008-10-18,California,Pac-10,A,Arizona,L,27,42,25,56,315,2,23,110,1,12,6,6,49,0,2
+2008-10-25,California,Pac-10,H,UCLA,W,41,20,11,22,153,2,42,232,1,7,9,8,65,0,0
+2008-11-01,California,Pac-10,H,Oregon,W,26,16,20,39,216,2,40,132,1,9,4,9,85,4,1
+2008-11-08,California,Pac-10,A,USC,L,3,17,15,31,138,0,26,27,0,8,1,8,50,0,1
+2008-11-15,California,Pac-10,A,Oregon State,L,21,34,12,27,147,2,30,85,1,5,6,5,49,1,1
+2008-11-22,California,Pac-10,H,Stanford,W,37,16,7,11,101,3,38,287,2,4,10,3,25,0,1
+2008-12-06,California,Pac-10,H,Washington,W,48,7,10,22,118,1,44,431,5,4,15,4,50,0,0
+2008-12-27,California,Pac-10,H,Miami (FL),W,24,17,10,21,121,1,30,217,2,2,9,2,10,1,0
+2008-08-28,Stanford,Pac-10,H,Oregon State,W,36,28,10,17,91,1,48,210,2,4,10,8,82,0,0
+2008-09-06,Stanford,Pac-10,A,Arizona State,L,17,41,14,31,120,0,30,113,2,4,7,7,63,0,3
+2008-09-13,Stanford,Pac-10,A,Texas Christian,L,14,31,11,21,122,0,29,71,1,6,2,5,27,2,1
+2008-09-20,Stanford,Pac-10,H,San Jose State,W,23,10,13,28,159,0,36,204,2,6,11,5,53,1,1
+2008-09-27,Stanford,Pac-10,A,Washington,W,35,28,16,24,222,3,36,244,2,11,10,12,115,1,0
+2008-10-04,Stanford,Pac-10,A,Notre Dame,L,21,28,18,28,182,2,37,161,1,10,10,9,56,1,3
+2008-10-11,Stanford,Pac-10,H,Arizona,W,24,23,16,24,152,1,48,286,2,8,12,4,45,1,2
+2008-10-18,Stanford,Pac-10,A,UCLA,L,20,23,5,13,51,0,44,250,2,3,12,10,103,2,1
+2008-11-01,Stanford,Pac-10,H,Washington State,W,58,0,7,13,112,1,55,344,7,4,16,5,40,0,0
+2008-11-08,Stanford,Pac-10,A,Oregon,L,28,35,15,22,138,1,49,187,2,6,11,8,80,1,0
+2008-11-15,Stanford,Pac-10,H,USC,L,23,45,14,27,165,1,41,202,2,10,10,3,25,0,1
+2008-11-22,Stanford,Pac-10,A,California,L,16,37,23,39,312,1,37,123,1,14,7,7,54,1,3
+2008-08-30,Washington State,Pac-10,H,Oklahoma State,L,13,39,12,25,82,1,34,114,1,5,9,7,51,0,1
+2008-09-06,Washington State,Pac-10,H,California,L,3,66,13,30,110,0,35,57,0,4,3,6,55,0,4
+2008-09-12,Washington State,Pac-10,A,Baylor,L,17,45,23,38,263,0,39,77,2,12,5,9,55,3,2
+2008-09-27,Washington State,Pac-10,H,Oregon,L,14,63,22,41,192,2,32,79,0,10,6,9,93,2,2
+2008-10-04,Washington State,Pac-10,A,UCLA,L,3,28,15,31,151,0,25,26,0,7,2,8,69,0,1
+2008-10-11,Washington State,Pac-10,A,Oregon State,L,13,66,7,17,79,0,42,53,1,3,3,12,145,2,0
+2008-10-18,Washington State,Pac-10,H,USC,L,0,69,6,9,28,0,37,88,0,1,3,4,45,2,1
+2008-11-01,Washington State,Pac-10,A,Stanford,L,0,58,18,32,152,0,28,73,0,8,5,8,75,3,2
+2008-11-08,Washington State,Pac-10,H,Arizona,L,28,59,10,20,114,0,29,94,4,4,6,7,65,1,3
+2008-11-15,Washington State,Pac-10,A,Arizona State,L,0,31,18,30,123,0,24,7,0,5,3,7,67,1,1
+2008-11-22,Washington State,Pac-10,H,Washington,W,16,13,17,30,167,0,37,171,1,7,8,3,20,0,1
+2008-11-29,Washington State,Pac-10,A,Hawaii,L,10,24,8,17,76,0,37,120,1,3,9,4,42,2,0
+2008-08-30,Illinois,Big Ten,N,Missouri,L,42,52,26,42,451,5,35,81,0,17,7,8,80,0,2
+2008-09-13,Illinois,Big Ten,H,Louisiana,W,20,17,13,25,147,1,44,194,0,7,9,9,96,0,1
+2008-09-27,Illinois,Big Ten,A,Penn State,L,24,38,13,24,183,2,42,189,1,9,10,5,40,1,1
+2008-10-04,Illinois,Big Ten,A,Michigan,W,45,20,13,26,310,2,47,191,4,8,8,4,45,0,0
+2008-10-11,Illinois,Big Ten,H,Minnesota,L,20,27,26,42,462,2,33,88,0,20,4,5,46,2,1
+2008-10-18,Illinois,Big Ten,H,Indiana,W,55,13,16,22,271,3,44,292,4,11,15,9,75,1,0
+2008-10-25,Illinois,Big Ten,A,Wisconsin,L,17,27,17,32,221,2,30,88,0,10,4,8,47,0,3
+2008-11-01,Illinois,Big Ten,H,Iowa,W,27,24,22,37,272,1,28,60,1,13,1,4,35,1,2
+2008-11-08,Illinois,Big Ten,A,Western Michigan,L,17,23,20,45,328,1,30,115,1,15,6,3,30,0,2
+2008-11-15,Illinois,Big Ten,H,Ohio State,L,20,30,20,34,241,2,35,214,0,12,13,4,40,1,1
+2008-11-22,Illinois,Big Ten,A,Northwestern,L,10,27,20,37,212,0,39,123,1,11,9,4,48,1,1
+2008-09-06,Georgia,SEC,H,Central Michigan,W,56,17,23,33,289,2,36,263,5,13,11,9,70,1,0
+2008-09-13,Georgia,SEC,A,South Carolina,W,14,7,15,25,146,0,35,106,1,7,8,11,112,0,0
+2008-09-20,Georgia,SEC,A,Arizona State,W,27,10,16,28,285,1,39,176,2,14,8,12,104,0,0
+2008-09-27,Georgia,SEC,H,Alabama,L,30,41,24,43,274,2,16,50,1,15,2,10,81,1,1
+2008-10-11,Georgia,SEC,H,Tennessee,W,26,14,25,36,310,1,45,148,1,15,10,11,76,0,2
+2008-10-18,Georgia,SEC,H,Vanderbilt,W,24,14,13,23,194,2,40,231,1,9,14,5,47,0,2
+2008-10-25,Georgia,SEC,A,LSU,W,52,38,17,26,249,2,36,194,3,9,7,7,59,0,0
+2008-11-01,Georgia,SEC,N,Florida,L,10,49,20,37,292,1,29,106,0,14,5,8,49,1,3
+2008-11-08,Georgia,SEC,A,Kentucky,W,42,38,17,27,376,3,30,144,3,10,7,5,58,2,0
+2008-11-15,Georgia,SEC,A,Auburn,W,17,13,15,24,215,2,33,136,0,12,7,9,95,1,0
+2008-11-29,Georgia,SEC,H,Georgia Tech,L,42,45,24,40,407,5,22,81,1,19,3,7,64,1,1
+2009-01-01,Georgia,SEC,N,Michigan State,W,24,12,20,31,250,3,33,81,0,15,4,7,53,1,1
+2008-09-06,Maryland,ACC,A,Middle Tennessee State,L,14,24,14,29,211,1,25,146,1,10,4,5,42,0,3
+2008-09-13,Maryland,ACC,H,California,W,35,27,15,20,156,2,47,141,3,9,8,3,25,2,0
+2008-09-20,Maryland,ACC,H,Eastern Michigan,W,51,24,16,25,255,3,34,231,3,10,8,3,43,0,2
+2008-09-27,Maryland,ACC,A,Clemson,W,20,17,16,30,172,1,29,123,1,8,3,9,70,0,0
+2008-10-04,Maryland,ACC,A,Virginia,L,0,31,20,34,223,0,21,79,0,8,3,6,49,1,1
+2008-10-18,Maryland,ACC,H,Wake Forest,W,26,0,29,42,330,2,33,140,0,14,8,3,30,2,0
+2008-10-25,Maryland,ACC,H,North Carolina State,W,27,24,9,20,126,1,36,203,2,7,11,5,40,1,0
+2008-11-06,Maryland,ACC,A,Virginia Tech,L,13,23,19,31,240,1,18,-12,0,11,0,3,19,1,0
+2008-11-15,Maryland,ACC,H,North Carolina,W,17,15,16,32,141,0,53,195,2,10,15,6,50,1,0
+2008-11-22,Maryland,ACC,H,Florida State,L,3,37,16,31,149,0,29,103,0,9,6,1,5,2,2
+2008-11-29,Maryland,ACC,A,Boston College,L,21,28,33,57,360,2,26,-6,1,19,1,7,73,0,2
+2008-12-30,Maryland,ACC,N,Nevada,W,42,35,13,27,198,2,39,258,3,8,10,6,50,2,1
+2008-08-30,Idaho,WAC,A,Arizona,L,0,70,10,27,48,0,25,64,0,2,3,4,40,1,4
+2008-09-13,Idaho,WAC,H,Western Michigan,L,28,51,25,39,334,3,42,121,1,17,9,9,95,1,1
+2008-09-20,Idaho,WAC,A,Utah State,L,17,42,23,39,187,2,31,84,0,9,6,7,70,1,1
+2008-09-27,Idaho,WAC,A,San Diego State,L,17,45,16,34,169,0,40,182,2,7,11,2,25,1,3
+2008-10-04,Idaho,WAC,H,Nevada,L,14,49,22,47,292,2,28,24,0,13,3,8,65,0,1
+2008-10-11,Idaho,WAC,A,Fresno State,L,32,45,22,39,237,3,39,215,1,12,13,3,45,2,0
+2008-10-18,Idaho,WAC,A,Louisiana Tech,L,14,46,22,40,224,2,19,15,0,10,1,8,98,1,2
+2008-10-25,Idaho,WAC,H,New Mexico State,W,20,14,7,18,59,1,48,271,1,3,12,6,35,1,2
+2008-11-01,Idaho,WAC,H,San Jose State,L,24,30,10,21,138,2,33,220,1,5,12,10,95,1,1
+2008-11-15,Idaho,WAC,H,Boise State,L,10,45,15,29,225,1,37,104,0,10,5,7,50,1,2
+2008-11-22,Idaho,WAC,A,Hawaii,L,17,49,20,33,170,2,40,49,0,9,3,7,55,1,3
+2008-09-06,Oklahoma,Big 12,H,Cincinnati,W,52,26,29,38,395,5,44,197,2,18,11,8,92,0,2
+2008-09-13,Oklahoma,Big 12,A,Washington,W,55,14,19,24,317,5,47,274,3,10,18,11,110,0,0
+2008-09-27,Oklahoma,Big 12,H,Texas Christian,W,35,10,19,34,411,4,36,25,1,13,1,4,40,0,0
+2008-10-04,Oklahoma,Big 12,A,Baylor,W,49,17,24,34,377,2,58,217,5,17,15,6,56,0,1
+2008-10-11,Oklahoma,Big 12,N,Texas,L,35,45,28,41,387,5,26,48,0,14,3,10,73,0,2
+2008-10-18,Oklahoma,Big 12,H,Kansas,W,45,31,36,53,468,3,44,206,3,21,12,6,50,0,0
+2008-10-25,Oklahoma,Big 12,A,Kansas State,W,58,35,13,32,255,3,45,273,4,9,13,8,51,1,0
+2008-11-01,Oklahoma,Big 12,H,Nebraska,W,62,28,21,30,315,5,40,193,3,11,8,7,69,0,1
+2008-11-08,Oklahoma,Big 12,A,Texas A&M,W,66,28,23,36,325,4,38,328,4,14,12,9,60,0,0
+2008-11-22,Oklahoma,Big 12,H,Texas Tech,W,65,21,17,23,326,4,55,299,5,13,18,11,96,1,0
+2008-11-29,Oklahoma,Big 12,A,Oklahoma State,W,61,41,30,44,370,4,38,187,4,16,11,7,63,0,0
+2008-12-06,Oklahoma,Big 12,N,Missouri,W,62,21,34,49,384,2,43,243,6,24,14,6,72,0,0
+2009-01-08,Oklahoma,Big 12,N,Florida,L,14,24,26,41,256,2,29,107,0,15,8,4,31,0,2
+2008-08-31,Louisville,Big East,H,Kentucky,L,2,27,20,43,152,0,29,53,0,9,4,6,61,2,3
+2008-09-17,Louisville,Big East,H,Kansas State,W,38,29,22,33,274,2,55,303,3,17,12,5,43,0,0
+2008-09-26,Louisville,Big East,H,Connecticut,L,21,26,17,30,247,1,41,261,2,10,12,7,60,1,2
+2008-10-10,Louisville,Big East,A,Memphis,W,35,28,13,25,133,2,30,166,0,3,9,6,65,0,1
+2008-10-18,Louisville,Big East,H,Middle Tennessee State,W,42,23,14,23,144,1,45,247,4,5,11,5,40,0,2
+2008-10-25,Louisville,Big East,H,South Florida,W,24,20,12,21,212,2,41,111,1,8,8,7,55,0,1
+2008-11-01,Louisville,Big East,A,Syracuse,L,21,28,23,36,214,2,34,137,1,11,8,8,81,1,1
+2008-11-08,Louisville,Big East,A,Pitt,L,7,41,19,38,203,1,30,96,0,10,6,5,45,3,2
+2008-11-14,Louisville,Big East,H,Cincinnati,L,20,28,19,35,204,1,37,120,1,9,5,6,46,1,1
+2008-11-22,Louisville,Big East,H,West Virginia,L,21,35,27,47,276,1,38,198,2,12,12,7,64,2,3
+2008-12-04,Louisville,Big East,A,Rutgers,L,14,63,24,34,270,1,31,48,1,11,2,5,41,1,1
+2008-09-06,Arkansas,SEC,H,Louisiana-Monroe,W,28,27,22,34,323,2,36,183,2,10,10,8,44,0,0
+2008-09-20,Arkansas,SEC,H,Alabama,L,14,49,24,46,217,2,31,92,0,12,7,5,30,0,4
+2008-09-27,Arkansas,SEC,A,Texas,L,10,52,14,28,180,0,26,11,0,6,3,6,38,1,1
+2008-10-04,Arkansas,SEC,H,Florida,L,7,38,24,38,220,0,25,141,1,12,7,9,75,1,1
+2008-10-11,Arkansas,SEC,A,Auburn,W,25,22,18,33,228,1,44,188,2,9,10,6,47,1,2
+2008-10-18,Arkansas,SEC,A,Kentucky,L,20,21,11,29,94,1,51,236,1,5,13,13,102,2,2
+2008-10-25,Arkansas,SEC,H,Ole Miss,L,21,23,20,38,282,2,25,104,1,10,6,7,52,0,1
+2008-11-01,Arkansas,SEC,H,Tulsa,W,30,23,25,38,385,1,31,50,1,16,3,4,36,0,1
+2008-11-08,Arkansas,SEC,A,South Carolina,L,21,34,20,34,255,2,31,54,1,11,5,5,36,0,3
+2008-11-22,Arkansas,SEC,A,Mississippi State,L,28,31,25,44,333,3,26,109,1,14,6,5,33,0,1
+2008-11-28,Arkansas,SEC,H,LSU,W,31,30,25,40,280,3,31,118,1,12,7,7,66,0,1
+2008-08-30,Washington,Pac-10,A,Oregon,L,10,44,17,35,147,0,43,95,1,9,5,4,44,1,0
+2008-09-06,Washington,Pac-10,H,Brigham Young,L,27,28,17,32,204,1,35,133,3,10,11,4,25,0,0
+2008-09-13,Washington,Pac-10,H,Oklahoma,L,14,55,23,38,249,1,34,87,1,9,9,3,8,3,0
+2008-09-27,Washington,Pac-10,H,Stanford,L,28,35,18,36,237,1,38,140,3,15,7,5,45,1,0
+2008-10-04,Washington,Pac-10,A,Arizona,L,14,48,12,28,181,1,28,63,1,8,4,3,31,1,1
+2008-10-18,Washington,Pac-10,H,Oregon State,L,13,34,17,32,276,0,28,101,1,10,4,7,42,1,3
+2008-10-25,Washington,Pac-10,H,Notre Dame,L,7,33,11,25,98,1,23,26,0,6,3,5,50,0,0
+2008-11-01,Washington,Pac-10,A,USC,L,0,56,14,33,113,0,30,71,0,6,6,5,43,0,3
+2008-11-08,Washington,Pac-10,H,Arizona State,L,19,39,15,42,227,1,28,52,0,8,4,4,31,1,2
+2008-11-15,Washington,Pac-10,H,UCLA,L,7,27,7,24,39,0,30,96,1,2,8,6,55,2,3
+2008-11-22,Washington,Pac-10,A,Washington State,L,13,16,11,16,99,0,58,224,1,6,14,4,53,0,1
+2008-12-06,Washington,Pac-10,A,California,L,7,48,11,25,96,0,44,104,1,4,7,6,51,2,2
+2008-08-30,Southern Mississippi,CUSA,H,Louisiana,W,51,21,14,22,206,2,61,427,5,8,22,8,70,0,2
+2008-09-06,Southern Mississippi,CUSA,A,Auburn,L,13,27,33,50,268,2,27,37,0,14,4,8,76,1,2
+2008-09-13,Southern Mississippi,CUSA,A,Arkansas State,W,27,24,18,31,219,2,41,129,1,12,7,7,45,1,0
+2008-09-20,Southern Mississippi,CUSA,H,Marshall,L,27,34,27,49,308,1,31,123,2,13,9,11,124,0,1
+2008-10-04,Southern Mississippi,CUSA,H,UTEP,L,37,40,21,37,264,2,45,277,2,13,13,8,95,0,1
+2008-10-11,Southern Mississippi,CUSA,H,Boise State,L,7,24,15,34,160,0,33,118,1,7,8,9,81,1,1
+2008-10-18,Southern Mississippi,CUSA,A,Rice,L,40,45,32,62,461,4,33,112,2,22,7,9,85,2,0
+2008-10-25,Southern Mississippi,CUSA,A,Memphis,L,30,36,21,40,186,2,28,230,2,9,10,4,40,0,1
+2008-11-01,Southern Mississippi,CUSA,H,UAB,W,70,14,7,8,147,1,62,463,9,4,17,6,65,0,0
+2008-11-08,Southern Mississippi,CUSA,A,UCF,W,17,6,21,34,188,1,54,150,1,9,13,7,52,0,0
+2008-11-15,Southern Mississippi,CUSA,H,East Carolina,W,21,3,18,30,239,2,40,145,1,8,6,7,68,1,0
+2008-11-29,Southern Mississippi,CUSA,A,SMU,W,28,12,15,26,212,2,39,145,2,8,8,8,96,0,1
+2008-12-21,Southern Mississippi,CUSA,N,Troy,W,30,27,20,34,276,2,37,146,1,10,9,7,75,1,0
+2008-08-30,Utah State,WAC,A,Nevada-Las Vegas,L,17,27,18,33,203,1,37,111,1,8,7,7,49,1,1
+2008-09-06,Utah State,WAC,A,Oregon,L,24,66,23,35,218,2,31,88,0,10,6,8,60,0,0
+2008-09-13,Utah State,WAC,H,Utah,L,10,58,9,23,89,1,25,27,0,4,2,7,82,2,1
+2008-09-20,Utah State,WAC,H,Idaho,W,42,17,14,23,224,2,44,356,3,8,16,7,57,1,1
+2008-10-03,Utah State,WAC,H,Brigham Young,L,14,34,16,27,193,1,43,129,1,9,9,8,72,3,1
+2008-10-11,Utah State,WAC,A,San Jose State,L,7,30,13,30,119,1,34,71,0,6,4,8,59,0,2
+2008-10-18,Utah State,WAC,A,Nevada,L,17,44,19,39,262,2,37,71,0,10,4,11,85,1,1
+2008-10-25,Utah State,WAC,H,Fresno State,L,28,30,15,24,193,1,39,206,2,8,11,5,63,0,0
+2008-11-01,Utah State,WAC,H,Hawaii,W,30,14,14,20,223,2,40,145,1,10,5,2,30,0,1
+2008-11-08,Utah State,WAC,A,Boise State,L,14,49,22,41,261,2,21,44,0,11,2,13,122,3,3
+2008-11-15,Utah State,WAC,A,Louisiana Tech,L,38,45,12,18,204,0,39,164,5,9,7,3,24,0,3
+2008-11-29,Utah State,WAC,H,New Mexico State,W,47,2,18,29,169,1,47,241,5,6,15,9,99,0,0
+2008-08-30,Missouri,Big 12,N,Illinois,W,52,42,26,45,323,3,37,226,2,14,11,3,20,1,1
+2008-09-13,Missouri,Big 12,H,Nevada,W,69,17,27,36,519,5,29,132,3,20,2,5,50,0,0
+2008-09-20,Missouri,Big 12,H,Buffalo,W,42,21,36,45,439,2,29,151,3,23,6,2,20,3,0
+2008-10-04,Missouri,Big 12,A,Nebraska,W,52,17,19,24,261,3,34,201,3,13,8,1,15,0,0
+2008-10-11,Missouri,Big 12,H,Oklahoma State,L,23,28,39,52,390,1,18,64,2,20,5,8,68,0,3
+2008-10-18,Missouri,Big 12,A,Texas,L,31,56,31,41,318,2,19,30,2,19,3,6,61,0,1
+2008-10-25,Missouri,Big 12,H,Colorado,W,58,0,31,40,302,5,33,189,2,17,7,2,10,0,1
+2008-11-01,Missouri,Big 12,A,Baylor,W,31,28,31,39,337,3,34,153,1,19,9,3,45,1,2
+2008-11-08,Missouri,Big 12,H,Kansas State,W,41,24,26,40,290,3,39,221,2,15,10,7,60,0,2
+2008-11-15,Missouri,Big 12,A,Iowa State,W,52,20,32,40,328,2,25,169,4,14,8,3,40,1,1
+2008-11-29,Missouri,Big 12,N,Kansas,L,37,40,25,42,288,4,26,190,1,17,6,3,9,1,2
+2008-12-06,Missouri,Big 12,N,Oklahoma,L,21,62,28,44,294,3,28,60,0,16,3,5,48,1,2
+2008-12-29,Missouri,Big 12,N,Northwestern,W,30,23,27,44,200,2,30,111,0,12,8,6,32,0,3
+2008-08-30,Wisconsin,Big Ten,H,Akron,W,38,17,7,10,75,1,63,404,4,5,22,3,24,2,1
+2008-09-06,Wisconsin,Big Ten,H,Marshall,W,51,14,18,27,329,1,40,158,6,13,11,6,40,1,0
+2008-09-13,Wisconsin,Big Ten,A,Fresno State,W,13,10,13,26,150,1,39,154,0,6,10,7,53,0,0
+2008-09-27,Wisconsin,Big Ten,A,Michigan,L,25,27,20,37,226,1,44,158,1,11,6,5,45,2,2
+2008-10-04,Wisconsin,Big Ten,H,Ohio State,L,17,20,13,25,147,1,39,179,1,8,11,3,19,1,1
+2008-10-11,Wisconsin,Big Ten,H,Penn State,L,7,48,11,27,165,0,40,148,1,7,7,8,72,1,2
+2008-10-18,Wisconsin,Big Ten,A,Iowa,L,16,38,21,41,251,0,34,158,1,13,6,7,75,0,3
+2008-10-25,Wisconsin,Big Ten,H,Illinois,W,27,17,12,22,174,2,45,163,1,6,8,6,59,1,0
+2008-11-01,Wisconsin,Big Ten,A,Michigan State,L,24,25,14,29,149,1,47,281,2,9,11,12,121,1,0
+2008-11-08,Wisconsin,Big Ten,A,Indiana,W,55,20,11,20,160,0,61,441,7,11,20,3,35,3,1
+2008-11-15,Wisconsin,Big Ten,H,Minnesota,W,35,32,18,31,242,1,45,116,3,11,4,5,38,3,0
+2008-12-27,Wisconsin,Big Ten,N,Florida State,L,13,42,9,16,132,1,38,201,0,6,7,2,25,3,0
+2008-09-06,Nevada,WAC,H,Texas Tech,L,19,35,23,34,264,1,47,224,0,13,12,4,40,1,1
+2008-09-13,Nevada,WAC,A,Missouri,L,17,69,21,40,180,1,44,182,1,11,11,7,55,0,1
+2008-09-27,Nevada,WAC,A,Nevada-Las Vegas,W,49,27,11,16,176,2,58,444,5,6,20,9,66,1,0
+2008-10-04,Nevada,WAC,A,Idaho,W,49,14,19,24,243,2,47,264,5,8,18,8,66,2,0
+2008-10-11,Nevada,WAC,H,New Mexico State,L,45,48,15,26,194,3,42,313,3,10,16,7,64,2,1
+2008-10-18,Nevada,WAC,H,Utah State,W,44,17,14,28,239,1,42,284,4,8,14,9,79,2,2
+2008-10-25,Nevada,WAC,A,Hawaii,L,31,38,14,28,173,2,40,308,2,8,12,7,41,3,0
+2008-11-07,Nevada,WAC,A,Fresno State,W,41,28,7,17,128,1,61,472,4,6,22,8,79,0,0
+2008-11-15,Nevada,WAC,H,San Jose State,W,41,17,15,31,192,1,49,333,4,7,14,9,85,0,0
+2008-11-22,Nevada,WAC,H,Boise State,L,34,41,19,51,241,1,35,144,1,9,7,4,25,0,0
+2008-11-29,Nevada,WAC,A,Louisiana Tech,W,35,31,24,42,397,4,42,103,1,19,5,6,45,1,1
+2008-12-30,Nevada,WAC,N,Maryland,L,35,42,24,49,370,3,33,114,2,18,5,4,35,1,2
+2008-08-28,North Carolina State,ACC,A,South Carolina,L,0,34,5,20,49,0,37,89,0,3,6,4,35,2,2
+2008-09-13,North Carolina State,ACC,A,Clemson,L,9,27,15,29,152,0,39,136,0,9,8,7,40,0,2
+2008-09-20,North Carolina State,ACC,H,East Carolina,W,30,24,24,39,257,3,34,127,1,10,8,4,29,1,1
+2008-09-27,North Carolina State,ACC,H,South Florida,L,10,41,9,32,239,0,27,26,1,6,4,11,69,0,3
+2008-10-04,North Carolina State,ACC,H,Boston College,L,31,38,19,33,218,1,22,35,2,8,5,1,11,0,0
+2008-10-16,North Carolina State,ACC,H,Florida State,L,17,26,13,25,181,2,22,157,0,5,9,7,70,0,0
+2008-10-25,North Carolina State,ACC,A,Maryland,L,24,27,18,29,187,2,42,155,1,10,11,8,78,1,0
+2008-11-08,North Carolina State,ACC,A,Duke,W,27,17,13,25,218,2,34,159,0,11,4,6,42,0,0
+2008-11-15,North Carolina State,ACC,H,Wake Forest,W,21,17,16,33,152,2,39,149,1,9,11,5,35,1,0
+2008-11-22,North Carolina State,ACC,A,North Carolina,W,41,10,17,28,279,2,45,187,3,10,8,7,55,0,0
+2008-11-29,North Carolina State,ACC,H,Miami (FL),W,38,28,11,24,220,2,44,219,2,8,15,2,25,0,1
+2008-12-29,North Carolina State,ACC,N,Rutgers,L,23,29,16,39,268,2,27,95,1,13,6,2,3,1,3
+2008-08-30,Hawaii,WAC,A,Florida,L,10,56,21,39,181,1,24,60,0,8,4,7,60,2,4
+2008-09-13,Hawaii,WAC,A,Oregon State,L,7,45,16,35,154,0,20,57,1,10,3,8,76,0,3
+2008-09-27,Hawaii,WAC,H,San Jose State,L,17,20,21,36,225,0,29,131,2,10,6,11,115,2,4
+2008-10-04,Hawaii,WAC,A,Fresno State,W,32,29,17,25,170,2,33,172,0,7,7,10,82,1,0
+2008-10-11,Hawaii,WAC,H,Louisiana Tech,W,24,14,14,26,224,2,40,177,1,8,11,13,127,0,1
+2008-10-17,Hawaii,WAC,A,Boise State,L,7,27,20,38,232,0,35,56,1,12,6,4,30,0,5
+2008-10-25,Hawaii,WAC,H,Nevada,W,38,31,23,36,289,3,28,42,1,12,3,7,50,0,2
+2008-11-01,Hawaii,WAC,A,Utah State,L,14,30,19,37,233,1,27,141,1,11,9,9,66,2,0
+2008-11-08,Hawaii,WAC,A,New Mexico State,W,42,30,27,35,303,2,37,144,3,14,10,11,95,3,0
+2008-11-22,Hawaii,WAC,H,Idaho,W,49,17,17,29,286,3,28,70,4,11,5,8,83,1,0
+2008-11-29,Hawaii,WAC,H,Washington State,W,24,10,19,34,315,2,34,63,1,11,7,6,60,0,1
+2008-12-06,Hawaii,WAC,H,Cincinnati,L,24,29,28,42,275,2,24,45,1,13,3,11,109,1,1
+2008-12-24,Hawaii,WAC,H,Notre Dame,L,21,49,28,44,326,3,19,32,0,17,4,8,69,1,1
+2008-09-01,Rutgers,Big East,H,Fresno State,L,7,24,20,39,263,0,34,106,1,15,4,2,15,0,2
+2008-09-11,Rutgers,Big East,H,North Carolina,L,12,44,25,43,243,1,29,140,0,14,8,5,35,0,4
+2008-09-20,Rutgers,Big East,A,Navy,L,21,23,13,20,131,0,33,206,3,3,14,4,40,1,1
+2008-10-04,Rutgers,Big East,A,West Virginia,L,17,24,15,33,198,1,26,72,1,10,3,4,25,0,0
+2008-10-11,Rutgers,Big East,A,Cincinnati,L,10,13,20,36,192,1,29,62,0,9,2,8,62,0,0
+2008-10-18,Rutgers,Big East,H,Connecticut,W,12,10,19,35,218,0,34,76,1,11,3,1,9,0,0
+2008-10-25,Rutgers,Big East,A,Pitt,W,54,34,15,24,371,6,30,71,2,14,4,8,60,0,1
+2008-11-08,Rutgers,Big East,H,Syracuse,W,35,17,26,36,276,3,38,207,2,15,11,4,45,1,2
+2008-11-15,Rutgers,Big East,A,South Florida,W,49,16,19,30,294,3,35,127,3,12,6,5,50,0,2
+2008-11-22,Rutgers,Big East,H,Army,W,30,3,23,34,359,1,30,162,1,17,7,6,59,2,0
+2008-12-04,Rutgers,Big East,H,Louisville,W,63,14,21,26,447,7,33,224,2,14,10,4,50,0,0
+2008-12-29,Rutgers,Big East,N,North Carolina State,W,29,23,22,38,319,2,33,118,1,13,8,2,15,0,1
+2008-09-06,Central Michigan,MAC,A,Georgia,L,17,56,23,44,250,2,22,59,0,13,4,4,31,0,1
+2008-09-13,Central Michigan,MAC,A,Ohio,W,31,28,28,42,361,0,33,70,3,18,3,5,52,0,0
+2008-09-20,Central Michigan,MAC,A,Purdue,L,25,32,25,44,291,2,38,149,1,13,12,7,72,0,2
+2008-09-27,Central Michigan,MAC,H,Buffalo,W,27,25,21,26,152,0,39,208,3,8,12,5,56,1,0
+2008-10-11,Central Michigan,MAC,H,Temple,W,24,14,17,25,242,3,40,55,0,11,3,4,50,1,0
+2008-10-18,Central Michigan,MAC,H,Western Michigan,W,38,28,21,29,348,2,41,176,3,13,8,10,95,0,1
+2008-10-25,Central Michigan,MAC,A,Toledo,W,24,23,27,37,256,2,45,146,1,17,9,3,25,0,0
+2008-11-01,Central Michigan,MAC,A,Indiana,W,37,34,35,53,485,4,31,37,1,20,6,9,84,0,1
+2008-11-12,Central Michigan,MAC,A,Northern Illinois,W,33,30,19,26,189,2,49,241,2,10,16,4,40,1,0
+2008-11-19,Central Michigan,MAC,H,Ball State,L,24,31,30,45,345,2,40,121,1,16,10,5,57,0,1
+2008-11-28,Central Michigan,MAC,A,Eastern Michigan,L,52,56,22,38,378,4,31,177,3,13,9,8,70,1,1
+2008-12-26,Central Michigan,MAC,N,Florida Atlantic,L,21,24,28,40,253,2,31,127,0,13,7,5,45,0,1
+2008-08-30,Michigan,Big Ten,H,Utah,L,23,25,19,38,167,2,25,36,1,5,2,8,53,2,1
+2008-09-06,Michigan,Big Ten,H,Miami (OH),W,16,6,10,18,103,0,35,178,2,2,12,2,15,0,0
+2008-09-13,Michigan,Big Ten,A,Notre Dame,L,17,35,19,28,229,1,42,159,1,8,10,7,79,4,2
+2008-09-27,Michigan,Big Ten,H,Wisconsin,W,27,25,12,31,96,1,34,172,2,6,7,4,30,3,2
+2008-10-04,Michigan,Big Ten,H,Illinois,L,20,45,18,35,250,2,35,69,1,11,6,6,49,2,0
+2008-10-11,Michigan,Big Ten,H,Toledo,L,10,13,15,27,120,1,39,170,0,7,10,5,60,0,3
+2008-10-18,Michigan,Big Ten,A,Penn State,L,17,46,12,22,89,0,46,202,2,4,11,3,27,1,0
+2008-10-25,Michigan,Big Ten,H,Michigan State,L,21,35,13,27,168,1,31,84,2,7,3,7,70,1,3
+2008-11-01,Michigan,Big Ten,A,Purdue,L,42,48,9,21,123,2,37,177,3,4,9,5,40,1,0
+2008-11-08,Michigan,Big Ten,A,Minnesota,W,29,6,18,30,203,1,42,232,1,10,9,2,10,1,0
+2008-11-15,Michigan,Big Ten,H,Northwestern,L,14,21,12,36,83,0,46,181,1,3,12,5,52,1,1
+2008-11-22,Michigan,Big Ten,A,Ohio State,L,7,42,8,25,87,0,41,111,1,3,7,3,15,2,0
+2008-08-30,New Mexico,MWC,H,Texas Christian,L,3,26,7,24,130,0,32,56,0,3,5,3,35,1,2
+2008-09-06,New Mexico,MWC,H,Texas A&M,L,22,28,22,38,154,0,38,216,3,8,10,9,75,2,2
+2008-09-13,New Mexico,MWC,H,Arizona,W,36,28,14,18,114,1,47,221,2,6,12,9,76,0,1
+2008-09-20,New Mexico,MWC,A,Tulsa,L,14,56,18,25,190,1,37,126,1,9,5,8,65,0,4
+2008-09-27,New Mexico,MWC,A,New Mexico State,W,35,24,7,16,55,1,63,297,3,4,16,9,80,0,1
+2008-10-04,New Mexico,MWC,H,Wyoming,W,24,0,8,21,33,0,48,317,2,2,15,9,75,0,0
+2008-10-11,New Mexico,MWC,A,Brigham Young,L,3,21,13,22,146,0,51,139,0,9,9,3,26,1,1
+2008-10-18,New Mexico,MWC,H,San Diego State,W,70,7,10,15,146,1,63,419,8,8,19,8,47,1,0
+2008-10-23,New Mexico,MWC,A,Air Force,L,10,23,9,18,91,0,47,212,1,2,12,2,9,3,1
+2008-11-01,New Mexico,MWC,H,Utah,L,10,13,16,26,165,0,37,119,1,7,7,6,41,0,0
+2008-11-08,New Mexico,MWC,A,Nevada-Las Vegas,L,20,27,12,27,148,0,47,222,2,10,10,9,80,0,2
+2008-11-15,New Mexico,MWC,A,Colorado State,L,6,20,23,39,204,0,30,155,0,9,8,7,85,0,0
+2008-09-06,Notre Dame,Ind,H,San Diego State,W,21,13,21,34,237,3,34,105,0,11,6,7,58,2,2
+2008-09-13,Notre Dame,Ind,H,Michigan,W,35,17,10,21,147,2,34,113,2,4,5,3,38,0,2
+2008-09-20,Notre Dame,Ind,A,Michigan State,L,7,23,24,41,242,1,22,16,0,13,2,5,24,1,2
+2008-09-27,Notre Dame,Ind,H,Purdue,W,38,21,20,35,275,3,40,201,1,10,13,6,44,0,0
+2008-10-04,Notre Dame,Ind,H,Stanford,W,28,21,29,40,347,3,27,83,1,16,3,8,75,0,0
+2008-10-11,Notre Dame,Ind,A,North Carolina,L,24,29,31,48,383,2,30,89,1,15,10,4,33,3,2
+2008-10-25,Notre Dame,Ind,A,Washington,W,33,7,15,28,207,1,49,252,3,9,14,7,55,0,1
+2008-11-01,Notre Dame,Ind,H,Pitt,L,33,36,23,44,271,3,39,115,0,11,6,6,60,0,0
+2008-11-08,Notre Dame,Ind,A,Boston College,L,0,17,26,46,226,0,21,66,0,10,3,6,58,1,4
+2008-11-15,Notre Dame,Ind,A,Navy,W,27,21,15,19,110,0,51,230,2,8,15,6,72,3,2
+2008-11-22,Notre Dame,Ind,H,Syracuse,L,23,24,22,41,291,2,28,41,0,11,5,5,50,0,0
+2008-11-29,Notre Dame,Ind,A,USC,L,3,38,11,22,41,0,27,50,0,1,2,2,22,1,2
+2008-12-24,Notre Dame,Ind,A,Hawaii,W,49,21,24,28,413,5,34,65,1,14,7,5,60,0,0
+2008-08-30,East Carolina,CUSA,N,Virginia Tech,W,27,22,19,25,211,1,41,158,2,10,9,6,60,2,0
+2008-09-06,East Carolina,CUSA,H,West Virginia,W,24,3,23,29,243,1,42,143,2,10,8,9,60,0,0
+2008-09-13,East Carolina,CUSA,A,Tulane,W,28,24,22,32,260,2,30,56,1,13,6,7,60,3,1
+2008-09-20,East Carolina,CUSA,A,North Carolina State,L,24,30,19,32,210,1,30,173,1,8,10,3,25,1,1
+2008-09-27,East Carolina,CUSA,H,Houston,L,24,41,15,28,149,1,36,126,1,7,6,7,69,1,2
+2008-10-11,East Carolina,CUSA,A,Virginia,L,20,35,12,28,196,1,41,89,1,6,8,8,70,2,0
+2008-10-18,East Carolina,CUSA,H,Memphis,W,30,10,12,24,201,2,37,180,2,9,8,3,26,2,0
+2008-11-02,East Carolina,CUSA,A,UCF,W,13,10,13,34,149,0,44,134,1,7,9,5,55,1,1
+2008-11-08,East Carolina,CUSA,H,Marshall,W,19,16,26,37,287,1,38,100,0,14,4,6,64,1,0
+2008-11-15,East Carolina,CUSA,A,Southern Mississippi,L,3,21,20,34,189,0,21,66,0,5,4,8,87,0,2
+2008-11-22,East Carolina,CUSA,A,UAB,W,17,13,20,27,239,1,39,56,1,9,5,4,36,3,2
+2008-11-28,East Carolina,CUSA,H,UTEP,W,53,21,19,28,244,2,53,231,3,11,15,4,41,1,0
+2008-12-06,East Carolina,CUSA,A,Tulsa,W,27,24,10,24,122,1,35,156,1,7,7,8,72,1,0
+2009-01-02,East Carolina,CUSA,N,Kentucky,L,19,25,18,36,296,1,31,101,1,10,5,4,17,1,0
+2008-08-30,Pitt,Big East,H,Bowling Green State,L,17,27,29,51,264,1,35,129,1,16,9,2,10,3,1
+2008-09-06,Pitt,Big East,H,Buffalo,W,27,16,22,34,241,0,31,111,3,15,6,3,25,0,1
+2008-09-20,Pitt,Big East,H,Iowa,W,21,20,11,25,129,0,37,130,3,6,6,2,17,1,1
+2008-09-27,Pitt,Big East,A,Syracuse,W,34,24,17,29,166,1,46,241,2,9,12,4,31,0,0
+2008-10-02,Pitt,Big East,A,South Florida,W,26,21,17,28,228,1,45,146,2,10,8,5,26,2,0
+2008-10-18,Pitt,Big East,A,Navy,W,42,21,15,23,255,1,42,244,5,9,13,4,30,1,2
+2008-10-25,Pitt,Big East,H,Rutgers,L,34,54,22,34,348,0,34,138,4,12,5,4,46,1,1
+2008-11-01,Pitt,Big East,A,Notre Dame,W,36,33,15,30,168,1,47,178,2,7,9,8,53,0,3
+2008-11-08,Pitt,Big East,H,Louisville,W,41,7,16,28,230,1,34,90,2,9,4,6,58,0,0
+2008-11-22,Pitt,Big East,A,Cincinnati,L,21,28,18,29,229,1,26,35,2,8,6,7,50,1,1
+2008-11-28,Pitt,Big East,H,West Virginia,W,19,15,12,23,156,1,44,190,2,9,12,5,40,1,2
+2008-12-06,Pitt,Big East,A,Connecticut,W,34,10,10,19,141,2,34,87,1,4,5,5,39,2,1
+2008-12-31,Pitt,Big East,N,Oregon State,L,0,3,9,28,89,0,37,89,0,4,6,2,15,1,1
+2008-08-30,Akron,MAC,A,Wisconsin,L,17,38,22,37,227,2,22,70,0,13,4,7,48,1,0
+2008-09-06,Akron,MAC,A,Syracuse,W,42,28,20,26,260,3,46,218,3,15,14,5,30,0,1
+2008-09-13,Akron,MAC,H,Ball State,L,24,41,22,45,299,1,28,119,2,16,6,7,58,1,4
+2008-09-20,Akron,MAC,A,Army,W,22,3,14,25,204,1,37,153,1,8,9,9,70,1,0
+2008-09-27,Akron,MAC,H,Cincinnati,L,15,17,26,42,254,1,33,104,1,13,8,6,68,0,1
+2008-10-04,Akron,MAC,A,Kent State,W,30,27,21,39,243,2,29,58,1,9,5,4,33,0,3
+2008-10-11,Akron,MAC,H,Bowling Green State,L,33,37,19,34,161,2,42,206,2,10,9,3,29,0,1
+2008-10-18,Akron,MAC,A,Eastern Michigan,W,42,35,11,19,208,2,42,339,3,10,11,3,15,1,0
+2008-11-05,Akron,MAC,H,Toledo,W,47,30,16,23,226,3,44,232,2,13,12,8,82,0,1
+2008-11-13,Akron,MAC,H,Buffalo,L,40,43,20,38,295,2,34,179,3,11,9,7,70,2,0
+2008-11-22,Akron,MAC,A,Ohio,L,42,49,21,37,235,1,47,139,5,11,11,2,15,0,0
+2008-11-28,Akron,MAC,A,Temple,L,6,27,20,39,166,0,31,165,0,6,8,5,40,0,3
+2008-08-30,Wyoming,MWC,H,Ohio,W,21,20,14,22,111,2,40,160,1,3,12,5,48,0,2
+2008-09-06,Wyoming,MWC,H,Air Force,L,3,23,8,22,76,0,33,140,0,3,7,3,26,4,1
+2008-09-20,Wyoming,MWC,A,Brigham Young,L,0,44,17,36,136,0,35,140,0,7,7,9,100,3,3
+2008-09-27,Wyoming,MWC,H,Bowling Green State,L,16,45,16,32,124,0,37,192,2,6,10,4,50,1,4
+2008-10-04,Wyoming,MWC,A,New Mexico,L,0,24,9,19,71,0,44,130,0,2,9,8,71,2,1
+2008-10-11,Wyoming,MWC,H,Utah,L,7,40,10,23,68,1,44,184,0,3,10,5,28,2,3
+2008-10-25,Wyoming,MWC,A,Texas Christian,L,7,54,9,15,108,0,43,113,1,6,5,10,90,1,1
+2008-11-01,Wyoming,MWC,H,San Diego State,W,35,10,6,10,166,1,59,378,4,5,16,7,56,0,0
+2008-11-08,Wyoming,MWC,A,Tennessee,W,13,7,9,17,99,1,48,167,0,5,10,1,15,1,0
+2008-11-13,Wyoming,MWC,A,Nevada-Las Vegas,L,14,22,12,21,143,2,33,151,0,6,9,7,65,1,2
+2008-11-22,Wyoming,MWC,H,Colorado State,L,20,31,22,43,220,1,45,209,0,11,12,6,43,3,0
+2008-09-06,Georgia Tech,ACC,A,Boston College,W,19,16,6,13,73,0,40,162,2,4,8,4,45,3,0
+2008-09-13,Georgia Tech,ACC,A,Virginia Tech,L,17,20,5,9,109,1,50,278,1,4,15,8,61,2,1
+2008-09-20,Georgia Tech,ACC,H,Mississippi State,W,38,7,4,9,62,1,54,438,4,2,19,6,69,0,0
+2008-10-04,Georgia Tech,ACC,H,Duke,W,27,0,9,14,230,1,59,224,2,8,10,5,40,1,0
+2008-10-18,Georgia Tech,ACC,A,Clemson,W,21,17,5,12,91,1,52,207,1,3,8,6,45,2,0
+2008-10-25,Georgia Tech,ACC,H,Virginia,L,17,24,7,15,103,0,41,156,2,4,13,2,15,2,1
+2008-11-01,Georgia Tech,ACC,H,Florida State,W,31,28,4,6,55,0,45,288,4,3,11,4,22,1,1
+2008-11-08,Georgia Tech,ACC,A,North Carolina,L,7,28,10,23,97,0,54,326,1,7,13,4,40,2,1
+2008-11-20,Georgia Tech,ACC,H,Miami (FL),W,41,23,4,7,46,0,56,472,4,2,16,3,40,1,0
+2008-11-29,Georgia Tech,ACC,A,Georgia,W,45,42,1,6,19,0,56,409,5,1,13,5,35,0,1
+2008-12-31,Georgia Tech,ACC,H,LSU,L,3,38,8,25,150,0,40,164,0,7,7,4,40,2,1
+2008-08-28,Wake Forest,ACC,A,Baylor,W,41,13,27,36,220,3,44,156,2,11,9,5,65,2,0
+2008-09-06,Wake Forest,ACC,H,Ole Miss,W,30,28,32,43,267,2,31,81,1,13,6,4,35,1,0
+2008-09-20,Wake Forest,ACC,A,Florida State,W,12,3,17,30,217,0,38,59,0,8,4,8,70,2,0
+2008-09-27,Wake Forest,ACC,H,Navy,L,17,24,26,40,270,1,31,43,1,14,2,5,45,2,4
+2008-10-09,Wake Forest,ACC,H,Clemson,W,12,7,22,36,186,1,46,156,0,9,10,2,17,0,0
+2008-10-18,Wake Forest,ACC,A,Maryland,L,0,26,15,32,146,0,33,73,0,9,5,2,25,0,0
+2008-10-25,Wake Forest,ACC,A,Miami (FL),L,10,16,3,8,57,0,52,195,1,1,10,3,30,1,0
+2008-11-01,Wake Forest,ACC,H,Duke,W,33,30,18,31,232,1,43,112,2,12,4,6,73,1,0
+2008-11-08,Wake Forest,ACC,H,Virginia,W,28,17,14,20,130,2,49,143,1,4,11,8,80,1,0
+2008-11-15,Wake Forest,ACC,A,North Carolina State,L,17,21,22,34,240,2,30,98,0,9,8,2,20,0,1
+2008-11-22,Wake Forest,ACC,H,Boston College,L,21,24,14,28,126,1,28,65,0,5,4,7,66,0,2
+2008-11-29,Wake Forest,ACC,H,Vanderbilt,W,23,10,13,21,173,0,42,158,3,9,7,3,45,2,0
+2008-12-20,Wake Forest,ACC,N,Navy,W,29,19,11,11,166,1,48,239,3,6,12,6,55,1,0
+2008-08-30,Arkansas State,Sun Belt,A,Texas A&M,W,18,14,15,28,160,1,45,255,0,8,15,6,70,1,0
+2008-09-13,Arkansas State,Sun Belt,H,Southern Mississippi,L,24,27,17,35,256,2,35,191,1,14,11,6,59,1,1
+2008-09-20,Arkansas State,Sun Belt,H,Middle Tennessee State,W,31,14,17,31,292,3,34,148,1,12,8,8,48,0,0
+2008-09-27,Arkansas State,Sun Belt,A,Memphis,L,17,29,11,23,173,0,40,179,2,5,9,10,103,1,1
+2008-10-11,Arkansas State,Sun Belt,H,Louisiana-Monroe,W,37,29,7,16,129,0,44,262,3,4,11,5,50,0,0
+2008-10-18,Arkansas State,Sun Belt,A,Louisiana,L,23,28,21,40,235,1,28,100,0,11,4,10,75,1,1
+2008-11-01,Arkansas State,Sun Belt,A,Alabama,L,0,35,8,17,67,0,37,91,0,3,6,7,73,0,1
+2008-11-08,Arkansas State,Sun Belt,A,Florida International,L,21,22,13,26,149,1,49,222,2,6,12,8,96,0,1
+2008-11-22,Arkansas State,Sun Belt,H,Florida Atlantic,W,28,14,20,28,279,3,42,203,1,10,11,6,50,0,1
+2008-11-29,Arkansas State,Sun Belt,A,North Texas,W,33,28,12,22,205,1,45,188,3,8,12,5,38,1,0
+2008-12-06,Arkansas State,Sun Belt,A,Troy,L,9,35,17,32,172,0,45,160,1,10,8,4,35,1,2
+2008-08-30,Mississippi State,SEC,A,Louisiana Tech,L,14,22,22,40,257,1,31,91,1,14,7,10,64,2,3
+2008-09-13,Mississippi State,SEC,H,Auburn,L,2,3,10,25,78,0,30,38,0,4,1,4,23,0,1
+2008-09-20,Mississippi State,SEC,A,Georgia Tech,L,7,38,31,50,299,0,30,108,1,16,7,7,64,2,2
+2008-09-27,Mississippi State,SEC,A,LSU,L,24,34,17,26,175,1,31,110,2,8,4,10,90,0,0
+2008-10-11,Mississippi State,SEC,H,Vanderbilt,W,17,14,12,22,81,1,50,166,1,4,12,7,45,0,0
+2008-10-18,Mississippi State,SEC,A,Tennessee,L,3,34,13,30,120,0,30,69,0,9,3,3,24,0,3
+2008-10-25,Mississippi State,SEC,H,Middle Tennessee State,W,31,22,17,25,197,0,39,169,4,8,8,5,44,0,0
+2008-11-01,Mississippi State,SEC,H,Kentucky,L,13,14,26,42,261,2,27,43,0,13,3,5,66,0,1
+2008-11-15,Mississippi State,SEC,A,Alabama,L,7,32,11,28,132,1,22,35,0,6,1,5,25,1,0
+2008-11-22,Mississippi State,SEC,H,Arkansas,W,31,28,23,40,219,2,35,226,2,12,9,2,15,1,0
+2008-11-28,Mississippi State,SEC,A,Ole Miss,L,0,45,10,29,88,0,27,-64,0,4,4,6,39,0,2
+2008-08-30,Nevada-Las Vegas,MWC,H,Utah State,W,27,17,19,32,221,3,30,132,0,12,7,4,30,0,0
+2008-09-06,Nevada-Las Vegas,MWC,A,Utah,L,21,42,19,30,159,1,35,129,2,5,7,12,73,0,0
+2008-09-13,Nevada-Las Vegas,MWC,A,Arizona State,W,23,20,22,36,210,2,37,135,0,12,7,5,32,0,0
+2008-09-20,Nevada-Las Vegas,MWC,H,Iowa State,W,34,31,16,22,245,3,42,209,2,11,12,5,55,1,0
+2008-09-27,Nevada-Las Vegas,MWC,H,Nevada,L,27,49,18,38,327,3,23,54,0,11,5,9,58,1,1
+2008-10-04,Nevada-Las Vegas,MWC,A,Colorado State,L,28,41,14,26,173,2,33,174,2,8,9,6,56,1,1
+2008-10-18,Nevada-Las Vegas,MWC,H,Air Force,L,28,29,19,30,251,2,35,153,2,13,8,4,40,0,0
+2008-10-25,Nevada-Las Vegas,MWC,A,Brigham Young,L,35,42,28,44,351,1,31,112,4,20,5,5,31,0,1
+2008-11-01,Nevada-Las Vegas,MWC,H,Texas Christian,L,14,44,8,22,67,1,33,108,1,3,4,4,47,2,1
+2008-11-08,Nevada-Las Vegas,MWC,H,New Mexico,W,27,20,17,34,203,2,32,55,0,8,5,5,39,1,0
+2008-11-13,Nevada-Las Vegas,MWC,H,Wyoming,W,22,14,17,31,157,1,50,166,1,10,6,4,37,0,0
+2008-11-22,Nevada-Las Vegas,MWC,A,San Diego State,L,21,42,26,40,316,2,23,33,1,15,1,3,18,1,2
+2008-09-06,South Florida,Big East,A,UCF,W,31,24,23,41,346,3,44,158,1,13,10,7,58,0,2
+2008-09-12,South Florida,Big East,H,Kansas,W,37,34,32,45,338,2,29,120,2,17,6,8,50,0,0
+2008-09-20,South Florida,Big East,A,Florida International,W,17,9,14,22,136,0,49,184,2,6,12,8,53,1,0
+2008-09-27,South Florida,Big East,A,North Carolina State,W,41,10,21,33,275,1,48,245,3,15,13,10,100,0,0
+2008-10-02,South Florida,Big East,H,Pitt,L,21,26,11,21,129,1,35,116,1,5,8,11,84,0,1
+2008-10-18,South Florida,Big East,H,Syracuse,W,45,13,19,26,248,3,46,239,3,10,15,6,35,1,0
+2008-10-25,South Florida,Big East,A,Louisville,L,20,24,30,40,344,2,24,8,0,18,2,14,109,0,2
+2008-10-30,South Florida,Big East,A,Cincinnati,L,10,24,13,31,174,0,39,182,1,9,9,8,40,0,3
+2008-11-15,South Florida,Big East,H,Rutgers,L,16,49,31,48,328,1,28,76,1,18,5,10,100,3,3
+2008-11-23,South Florida,Big East,H,Connecticut,W,17,13,9,18,124,0,37,123,2,5,6,10,78,0,1
+2008-12-06,South Florida,Big East,A,West Virginia,L,7,13,18,33,189,0,38,167,1,13,8,7,80,1,2
+2008-12-20,South Florida,Big East,H,Memphis,W,41,14,20,30,264,3,49,232,2,14,14,7,70,1,0
+2008-08-28,Buffalo,MAC,H,UTEP,W,42,17,10,16,221,4,50,263,2,5,17,6,60,2,0
+2008-09-06,Buffalo,MAC,A,Pitt,L,16,27,21,34,223,1,32,125,1,11,9,6,60,0,1
+2008-09-13,Buffalo,MAC,H,Temple,W,30,28,29,42,348,3,31,101,1,14,9,5,56,1,1
+2008-09-20,Buffalo,MAC,A,Missouri,L,21,42,22,40,237,2,35,49,0,12,4,4,30,1,1
+2008-09-27,Buffalo,MAC,A,Central Michigan,L,25,27,23,33,270,2,30,66,1,12,4,4,34,0,0
+2008-10-11,Buffalo,MAC,H,Western Michigan,L,28,34,18,35,164,0,38,158,4,11,5,5,49,0,1
+2008-10-18,Buffalo,MAC,H,Army,W,27,24,25,35,279,2,30,41,1,10,4,3,35,0,0
+2008-10-28,Buffalo,MAC,A,Ohio,W,32,19,14,23,116,1,46,277,3,9,10,4,35,1,0
+2008-11-04,Buffalo,MAC,H,Miami (OH),W,37,17,19,31,260,2,34,216,3,11,8,11,117,0,0
+2008-11-13,Buffalo,MAC,A,Akron,W,43,40,27,39,252,1,57,224,4,12,13,2,30,0,0
+2008-11-21,Buffalo,MAC,A,Bowling Green State,W,40,34,29,41,297,3,25,74,3,17,4,4,35,0,1
+2008-11-28,Buffalo,MAC,H,Kent State,L,21,24,21,31,240,1,33,145,2,11,9,2,23,1,0
+2008-12-05,Buffalo,MAC,N,Ball State,W,42,24,19,29,206,3,26,95,1,10,6,5,40,2,0
+2009-01-03,Buffalo,MAC,N,Connecticut,L,20,38,29,43,213,0,19,24,1,10,0,5,25,0,1
+2008-08-30,Kansas State,Big 12,H,North Texas,W,45,6,27,42,306,3,36,165,3,16,10,4,30,1,1
+2008-09-17,Kansas State,Big 12,A,Louisville,L,29,38,22,42,313,3,12,30,0,10,2,7,55,1,2
+2008-09-27,Kansas State,Big 12,H,Louisiana,W,45,37,21,28,272,3,45,198,3,15,10,5,29,1,0
+2008-10-04,Kansas State,Big 12,H,Texas Tech,L,28,58,15,31,183,1,36,113,2,12,6,2,10,2,0
+2008-10-11,Kansas State,Big 12,A,Texas A&M,W,44,30,21,26,234,0,47,215,5,15,13,2,25,1,0
+2008-10-18,Kansas State,Big 12,A,Colorado,L,13,14,20,41,237,0,23,112,1,7,8,9,84,2,0
+2008-10-25,Kansas State,Big 12,H,Oklahoma,L,35,58,30,52,486,4,32,64,1,19,4,4,26,2,3
+2008-11-01,Kansas State,Big 12,A,Kansas,L,21,52,26,41,264,0,32,91,3,12,6,9,98,2,3
+2008-11-08,Kansas State,Big 12,A,Missouri,L,24,41,22,42,169,1,33,194,2,5,9,10,77,1,1
+2008-11-15,Kansas State,Big 12,H,Nebraska,L,28,56,12,26,188,1,32,59,1,5,6,5,25,1,0
+2008-11-22,Kansas State,Big 12,H,Iowa State,W,38,30,17,31,279,4,37,172,1,11,11,1,5,0,0
+2008-08-30,Louisiana-Monroe,Sun Belt,A,Auburn,L,0,34,20,38,136,0,30,84,0,8,3,4,20,2,0
+2008-09-06,Louisiana-Monroe,Sun Belt,A,Arkansas,L,27,28,23,40,270,2,26,71,1,13,2,5,25,0,0
+2008-09-20,Louisiana-Monroe,Sun Belt,A,Tulane,L,10,24,13,18,118,0,28,64,1,4,2,5,45,0,1
+2008-10-04,Louisiana-Monroe,Sun Belt,H,Louisiana,L,35,44,12,25,142,0,40,241,3,6,8,7,52,0,0
+2008-10-11,Louisiana-Monroe,Sun Belt,A,Arkansas State,L,29,37,23,42,309,3,26,87,0,14,4,7,77,2,1
+2008-10-18,Louisiana-Monroe,Sun Belt,H,North Texas,W,35,23,13,22,217,2,33,244,3,6,9,14,140,0,0
+2008-10-25,Louisiana-Monroe,Sun Belt,H,Florida Atlantic,L,28,29,22,29,216,3,36,155,1,7,8,8,76,1,1
+2008-11-01,Louisiana-Monroe,Sun Belt,H,Troy,W,31,30,20,32,169,3,47,161,1,11,8,5,38,0,1
+2008-11-08,Louisiana-Monroe,Sun Belt,A,Middle Tennessee State,L,21,24,19,31,212,2,43,236,1,13,10,5,40,0,1
+2008-11-15,Louisiana-Monroe,Sun Belt,A,Ole Miss,L,0,59,7,18,59,0,34,72,0,1,5,7,65,0,2
+2008-11-22,Louisiana-Monroe,Sun Belt,A,Florida International,W,31,27,14,25,156,2,41,173,2,9,9,6,50,0,2
+2008-09-01,UCLA,Pac-10,H,Tennessee,W,27,24,25,43,259,1,31,29,1,15,4,2,25,0,4
+2008-09-13,UCLA,Pac-10,A,Brigham Young,L,0,59,23,39,230,0,16,9,0,11,0,4,35,3,1
+2008-09-20,UCLA,Pac-10,H,Arizona,L,10,31,15,31,81,0,28,115,0,2,7,6,32,1,0
+2008-09-27,UCLA,Pac-10,H,Fresno State,L,31,36,11,20,150,1,38,234,2,6,10,5,61,1,0
+2008-10-04,UCLA,Pac-10,H,Washington State,W,28,3,23,37,225,2,37,100,2,13,4,4,45,0,0
+2008-10-11,UCLA,Pac-10,A,Oregon,L,24,31,27,43,288,1,37,63,2,16,1,8,51,0,1
+2008-10-18,UCLA,Pac-10,H,Stanford,W,23,20,23,41,285,2,37,86,0,11,8,7,59,1,1
+2008-10-25,UCLA,Pac-10,A,California,L,20,41,19,41,237,1,22,16,0,10,1,10,74,0,4
+2008-11-08,UCLA,Pac-10,H,Oregon State,L,6,34,20,43,189,0,27,48,0,10,3,9,63,1,3
+2008-11-15,UCLA,Pac-10,A,Washington,W,27,7,13,22,135,0,50,157,3,7,11,4,35,0,3
+2008-11-28,UCLA,Pac-10,A,Arizona State,L,9,34,26,44,217,0,35,89,0,11,5,9,81,1,3
+2008-12-06,UCLA,Pac-10,H,USC,L,7,28,12,29,110,1,21,47,0,4,1,11,117,0,1
+2008-08-30,Northwestern,Big Ten,H,Syracuse,W,30,10,23,35,215,3,42,269,0,11,13,6,65,1,1
+2008-09-06,Northwestern,Big Ten,A,Duke,W,24,20,15,33,251,0,27,77,3,10,3,4,33,0,0
+2008-09-20,Northwestern,Big Ten,H,Ohio,W,16,8,18,36,133,0,37,147,1,7,7,4,31,1,4
+2008-09-27,Northwestern,Big Ten,A,Iowa,W,22,17,28,45,284,3,34,106,0,14,6,7,70,0,1
+2008-10-11,Northwestern,Big Ten,H,Michigan State,L,20,37,34,61,283,1,32,176,1,16,8,4,40,1,2
+2008-10-18,Northwestern,Big Ten,H,Purdue,W,48,26,21,34,250,4,43,191,2,11,10,8,47,2,1
+2008-10-25,Northwestern,Big Ten,A,Indiana,L,19,21,22,35,164,0,47,152,2,10,10,2,30,3,2
+2008-11-01,Northwestern,Big Ten,A,Minnesota,W,24,17,12,16,143,2,41,220,0,7,9,2,20,0,2
+2008-11-08,Northwestern,Big Ten,H,Ohio State,L,10,45,18,27,177,0,43,117,1,10,7,7,85,2,1
+2008-11-15,Northwestern,Big Ten,A,Michigan,W,21,14,17,29,198,2,37,59,1,8,4,2,10,0,2
+2008-11-22,Northwestern,Big Ten,H,Illinois,W,27,10,22,33,230,2,34,109,1,13,5,2,28,0,1
+2008-12-29,Northwestern,Big Ten,N,Missouri,L,23,30,27,43,304,3,40,72,0,15,5,7,47,0,1
+2008-08-30,Kansas,Big 12,H,Florida International,W,40,10,37,52,256,3,36,128,1,16,8,6,53,1,1
+2008-09-06,Kansas,Big 12,H,Louisiana Tech,W,29,0,32,38,412,3,33,126,0,20,2,4,37,0,0
+2008-09-12,Kansas,Big 12,A,South Florida,L,34,37,34,51,381,3,21,61,1,17,4,7,69,0,1
+2008-10-04,Kansas,Big 12,A,Iowa State,W,35,33,18,26,319,3,39,117,2,12,6,3,26,3,1
+2008-10-11,Kansas,Big 12,H,Colorado,W,30,14,27,34,256,1,40,151,3,11,9,4,35,0,0
+2008-10-18,Kansas,Big 12,A,Oklahoma,L,31,45,25,42,357,2,30,134,2,14,12,7,62,0,2
+2008-10-25,Kansas,Big 12,H,Texas Tech,L,21,63,16,26,154,2,33,161,1,7,12,6,60,2,3
+2008-11-01,Kansas,Big 12,H,Kansas State,W,52,21,15,25,189,1,41,280,6,8,14,4,40,0,1
+2008-11-08,Kansas,Big 12,A,Nebraska,L,35,45,15,30,304,3,39,118,2,13,8,5,31,0,1
+2008-11-15,Kansas,Big 12,H,Texas,L,7,35,25,50,258,1,24,47,0,10,5,6,66,2,0
+2008-11-29,Kansas,Big 12,N,Missouri,W,40,37,37,51,375,4,32,63,1,17,7,3,29,0,2
+2008-12-31,Kansas,Big 12,N,Minnesota,W,42,21,28,36,345,5,29,101,1,15,8,4,33,0,1
+2008-08-30,Western Michigan,MAC,A,Nebraska,L,24,47,30,49,342,2,25,8,1,16,0,5,45,1,1
+2008-09-06,Western Michigan,MAC,H,Northern Illinois,W,29,26,21,30,186,3,32,198,1,8,9,5,45,2,0
+2008-09-13,Western Michigan,MAC,A,Idaho,W,51,28,23,31,241,4,25,175,2,10,10,6,44,0,0
+2008-09-27,Western Michigan,MAC,A,Temple,W,7,3,26,42,252,1,26,36,0,13,1,8,57,1,1
+2008-10-04,Western Michigan,MAC,H,Ohio,W,41,20,24,38,347,4,28,156,1,13,7,3,25,2,1
+2008-10-11,Western Michigan,MAC,A,Buffalo,W,34,28,42,63,345,4,17,52,0,16,5,9,63,2,1
+2008-10-18,Western Michigan,MAC,A,Central Michigan,L,28,38,38,53,471,2,23,49,2,19,5,7,57,0,0
+2008-11-01,Western Michigan,MAC,H,Eastern Michigan,W,31,10,24,36,339,3,35,163,1,13,11,11,74,3,0
+2008-11-08,Western Michigan,MAC,H,Illinois,W,23,17,28,40,301,2,28,64,0,13,5,4,30,1,0
+2008-11-15,Western Michigan,MAC,H,Toledo,W,27,17,22,36,225,3,33,146,0,9,8,2,10,1,1
+2008-11-25,Western Michigan,MAC,A,Ball State,L,22,45,17,36,206,2,28,137,1,8,9,6,48,0,2
+2008-12-30,Western Michigan,MAC,A,Rice,L,14,38,20,43,217,2,19,61,0,11,3,5,53,0,2
+2008-09-06,Iowa,Big Ten,H,Florida International,W,42,0,17,25,271,4,41,241,2,10,15,2,15,1,1
+2008-09-13,Iowa,Big Ten,H,Iowa State,W,17,5,9,19,122,0,33,118,1,5,5,7,53,0,2
+2008-09-20,Iowa,Big Ten,A,Pitt,L,20,21,19,34,203,0,39,158,2,5,12,2,14,1,0
+2008-09-27,Iowa,Big Ten,H,Northwestern,L,17,22,21,30,238,1,31,169,1,10,12,5,37,4,1
+2008-10-04,Iowa,Big Ten,A,Michigan State,L,13,16,15,22,158,1,39,151,0,8,10,2,30,2,1
+2008-10-11,Iowa,Big Ten,A,Indiana,W,45,9,13,22,195,2,51,227,4,10,17,4,40,0,0
+2008-10-18,Iowa,Big Ten,H,Wisconsin,W,38,16,12,20,121,1,34,254,4,7,8,7,55,0,0
+2008-11-01,Iowa,Big Ten,A,Illinois,L,24,27,11,29,191,1,40,138,1,10,10,3,19,1,2
+2008-11-08,Iowa,Big Ten,H,Penn State,W,24,23,15,25,171,1,32,101,2,13,5,5,47,1,1
+2008-11-15,Iowa,Big Ten,H,Purdue,W,22,17,8,15,72,0,38,248,3,3,11,3,21,2,0
+2008-11-22,Iowa,Big Ten,A,Minnesota,W,55,0,16,31,261,3,46,222,3,9,14,3,15,0,0
+2009-01-01,Iowa,Big Ten,N,South Carolina,W,31,10,13,19,147,1,47,181,3,7,12,6,50,1,2
+2008-08-30,Texas,Big 12,H,Florida Atlantic,W,52,10,28,35,271,4,46,232,3,11,16,11,110,0,0
+2008-09-06,Texas,Big 12,A,UTEP,W,42,13,20,29,282,4,31,122,1,13,8,5,45,0,1
+2008-09-20,Texas,Big 12,H,Rice,W,52,10,20,24,341,4,44,259,3,13,14,8,48,2,0
+2008-09-27,Texas,Big 12,H,Arkansas,W,52,10,21,23,213,3,50,208,3,12,12,7,79,1,0
+2008-10-04,Texas,Big 12,A,Colorado,W,38,14,23,30,262,2,46,169,3,12,12,2,20,0,2
+2008-10-11,Texas,Big 12,N,Oklahoma,W,45,35,28,35,277,1,35,161,3,13,5,6,55,0,0
+2008-10-18,Texas,Big 12,H,Missouri,W,56,31,30,33,388,3,40,203,5,18,11,8,80,0,0
+2008-10-25,Texas,Big 12,H,Oklahoma State,W,28,24,38,45,391,2,32,113,2,22,8,1,10,1,1
+2008-11-01,Texas,Big 12,A,Texas Tech,L,33,39,20,34,294,2,28,80,1,10,7,8,56,1,1
+2008-11-08,Texas,Big 12,H,Baylor,W,45,21,26,37,300,5,47,194,0,15,14,9,95,0,2
+2008-11-15,Texas,Big 12,A,Kansas,W,35,7,24,34,255,2,37,166,3,14,8,7,60,1,0
+2008-11-27,Texas,Big 12,H,Texas A&M,W,49,9,24,30,320,2,43,216,5,13,10,3,15,0,0
+2009-01-05,Texas,Big 12,N,Ohio State,W,24,21,41,58,414,2,29,54,1,23,7,8,65,0,1
+2008-08-30,Texas Christian,MWC,A,New Mexico,W,26,3,16,26,120,0,48,171,3,7,10,8,74,0,1
+2008-09-13,Texas Christian,MWC,H,Stanford,W,31,14,20,36,145,0,53,233,4,9,14,7,46,0,0
+2008-09-20,Texas Christian,MWC,A,SMU,W,48,7,19,29,227,1,47,271,4,12,10,9,44,0,0
+2008-09-27,Texas Christian,MWC,A,Oklahoma,L,10,35,16,41,212,0,35,102,1,10,6,12,66,2,2
+2008-10-04,Texas Christian,MWC,H,San Diego State,W,41,7,10,19,115,1,71,383,4,5,23,9,105,1,0
+2008-10-11,Texas Christian,MWC,A,Colorado State,W,13,7,16,26,166,0,46,151,2,8,6,11,115,1,1
+2008-10-16,Texas Christian,MWC,H,Brigham Young,W,32,7,12,19,170,2,51,240,2,10,14,10,87,1,0
+2008-10-25,Texas Christian,MWC,H,Wyoming,W,54,7,16,22,334,4,39,110,2,11,4,6,65,0,0
+2008-11-01,Texas Christian,MWC,A,Nevada-Las Vegas,W,44,14,16,29,151,3,52,259,3,12,13,10,95,2,0
+2008-11-06,Texas Christian,MWC,A,Utah,L,10,13,16,37,251,0,39,165,1,10,10,11,70,0,2
+2008-11-22,Texas Christian,MWC,H,Air Force,W,44,10,21,27,321,2,52,183,4,18,11,5,30,0,0
+2008-12-23,Texas Christian,MWC,N,Boise State,W,17,16,22,36,197,0,51,275,2,12,16,6,63,0,2
+2008-09-06,Miami (FL),ACC,A,Florida,L,3,26,12,22,79,0,37,61,0,5,6,4,33,0,0
+2008-09-20,Miami (FL),ACC,A,Texas A&M,W,41,23,20,29,239,2,28,159,2,12,6,6,50,0,1
+2008-09-27,Miami (FL),ACC,H,North Carolina,L,24,28,22,33,174,3,33,135,0,8,8,6,54,0,2
+2008-10-04,Miami (FL),ACC,H,Florida State,L,39,41,21,49,205,1,14,51,2,8,4,10,85,0,3
+2008-10-11,Miami (FL),ACC,H,UCF,W,20,14,12,25,88,1,43,128,1,4,6,6,53,0,3
+2008-10-18,Miami (FL),ACC,A,Duke,W,49,31,23,36,266,5,29,154,2,15,7,6,30,0,3
+2008-10-25,Miami (FL),ACC,H,Wake Forest,W,16,10,15,28,194,0,33,102,1,7,4,5,60,0,0
+2008-11-01,Miami (FL),ACC,A,Virginia,W,24,17,18,33,251,2,40,197,1,11,11,12,81,2,1
+2008-11-13,Miami (FL),ACC,H,Virginia Tech,W,16,14,8,18,124,0,42,123,1,5,7,1,10,1,0
+2008-11-20,Miami (FL),ACC,A,Georgia Tech,L,23,41,23,38,283,3,25,105,0,13,6,3,20,0,2
+2008-11-29,Miami (FL),ACC,A,North Carolina State,L,28,38,21,32,269,2,32,122,2,10,8,6,58,0,4
+2008-12-27,Miami (FL),ACC,A,California,L,17,24,25,41,194,2,32,119,0,11,5,3,30,1,1
+2008-08-28,Oregon State,Pac-10,A,Stanford,L,28,36,34,54,404,3,28,86,0,21,5,12,100,1,2
+2008-09-06,Oregon State,Pac-10,A,Penn State,L,14,45,25,41,250,0,32,92,2,12,7,7,76,0,2
+2008-09-13,Oregon State,Pac-10,H,Hawaii,W,45,7,20,36,268,3,50,217,3,14,12,4,40,0,0
+2008-09-25,Oregon State,Pac-10,H,USC,W,27,21,18,28,167,2,45,176,2,8,12,5,27,0,0
+2008-10-02,Oregon State,Pac-10,A,Utah,L,28,31,21,31,313,2,32,92,1,12,5,7,37,1,0
+2008-10-11,Oregon State,Pac-10,H,Washington State,W,66,13,13,26,225,3,43,323,5,9,17,5,49,0,4
+2008-10-18,Oregon State,Pac-10,A,Washington,W,34,13,18,22,191,1,35,230,3,7,11,9,80,0,0
+2008-11-01,Oregon State,Pac-10,H,Arizona State,W,27,25,23,34,261,3,38,109,0,12,8,2,15,0,1
+2008-11-08,Oregon State,Pac-10,A,UCLA,W,34,6,16,22,222,2,48,201,2,6,11,10,99,1,1
+2008-11-15,Oregon State,Pac-10,H,California,W,34,21,14,28,145,0,42,194,2,6,12,7,60,0,1
+2008-11-22,Oregon State,Pac-10,A,Arizona,W,19,17,20,32,224,1,33,166,1,8,9,6,32,0,0
+2008-11-29,Oregon State,Pac-10,H,Oregon,L,38,65,27,51,374,5,31,89,0,18,5,6,75,2,2
+2008-12-31,Oregon State,Pac-10,N,Pitt,W,3,0,21,43,193,0,30,80,0,9,6,7,48,1,2
+2008-08-30,Alabama,SEC,N,Clemson,W,34,10,22,30,180,2,50,239,1,10,13,6,40,0,0
+2008-09-06,Alabama,SEC,H,Tulane,W,20,6,11,23,73,0,26,99,1,6,4,6,43,1,0
+2008-09-13,Alabama,SEC,H,Western Kentucky,W,41,7,21,33,276,2,49,281,3,14,16,3,25,1,1
+2008-09-20,Alabama,SEC,A,Arkansas,W,49,14,6,15,74,1,35,328,4,3,11,1,10,0,1
+2008-09-27,Alabama,SEC,A,Georgia,W,41,30,13,16,205,1,45,129,4,11,6,2,9,1,0
+2008-10-04,Alabama,SEC,H,Kentucky,W,17,14,7,17,106,0,49,282,1,5,9,10,92,2,1
+2008-10-18,Alabama,SEC,H,Ole Miss,W,24,20,16,25,219,2,34,107,1,7,7,6,55,1,1
+2008-10-25,Alabama,SEC,A,Tennessee,W,29,9,17,24,188,0,43,178,3,10,11,3,35,1,0
+2008-11-01,Alabama,SEC,H,Arkansas State,W,35,0,15,28,152,0,36,205,4,8,12,3,33,0,1
+2008-11-08,Alabama,SEC,A,LSU,W,27,21,15,31,215,0,37,138,3,8,7,2,24,2,1
+2008-11-15,Alabama,SEC,H,Mississippi State,W,32,7,12,19,166,0,48,198,2,9,8,5,52,0,0
+2008-11-29,Alabama,SEC,H,Auburn,W,36,0,10,18,178,2,50,234,3,6,13,1,4,0,0
+2008-12-06,Alabama,SEC,N,Florida,L,20,31,12,25,187,0,33,136,2,7,11,2,31,0,1
+2009-01-02,Alabama,SEC,N,Utah,L,17,31,18,30,177,1,33,31,0,8,5,7,67,1,2
+2008-09-13,Purdue,Big Ten,H,Oregon,L,26,32,26,50,207,0,45,201,2,13,9,6,58,1,2
+2008-09-20,Purdue,Big Ten,H,Central Michigan,W,32,25,27,36,261,1,29,83,2,9,4,3,30,1,1
+2008-09-27,Purdue,Big Ten,A,Notre Dame,L,21,38,29,55,359,2,17,103,1,17,4,5,43,0,1
+2008-10-04,Purdue,Big Ten,H,Penn State,L,6,20,16,27,158,0,33,83,1,7,7,0,0,0,1
+2008-10-11,Purdue,Big Ten,A,Ohio State,L,3,16,23,51,228,0,26,70,0,10,8,4,34,1,1
+2008-10-18,Purdue,Big Ten,A,Northwestern,L,26,48,31,51,308,1,25,158,2,13,9,9,69,2,3
+2008-10-25,Purdue,Big Ten,H,Minnesota,L,6,17,16,30,109,0,40,117,0,7,7,5,44,2,2
+2008-11-01,Purdue,Big Ten,H,Michigan,W,48,42,21,34,266,3,46,256,4,13,11,6,48,1,0
+2008-11-08,Purdue,Big Ten,A,Michigan State,L,7,21,13,30,83,0,40,108,1,2,10,5,30,0,1
+2008-11-15,Purdue,Big Ten,A,Iowa,L,17,22,37,52,251,2,32,86,0,15,7,4,29,1,1
+2008-11-22,Purdue,Big Ten,H,Indiana,W,62,10,41,58,479,5,33,117,3,22,10,5,45,0,0
+2008-08-30,Nebraska,Big 12,H,Western Michigan,W,47,24,20,36,345,4,31,138,1,14,7,6,60,0,2
+2008-09-06,Nebraska,Big 12,H,San Jose State,W,35,12,18,27,216,0,30,99,3,11,6,12,103,1,1
+2008-09-13,Nebraska,Big 12,H,New Mexico State,W,38,7,18,24,223,2,44,330,3,12,15,7,41,1,0
+2008-09-27,Nebraska,Big 12,H,Virginia Tech,L,30,35,17,26,278,2,25,55,1,10,3,7,69,1,1
+2008-10-04,Nebraska,Big 12,H,Missouri,L,17,52,27,39,293,2,34,76,0,16,4,14,101,1,1
+2008-10-11,Nebraska,Big 12,A,Texas Tech,L,31,37,37,45,357,2,35,114,2,17,11,8,55,0,1
+2008-10-18,Nebraska,Big 12,A,Iowa State,W,35,7,27,37,328,1,41,220,4,18,9,4,45,3,0
+2008-10-25,Nebraska,Big 12,H,Baylor,W,32,20,32,46,336,3,37,161,1,17,9,6,70,1,0
+2008-11-01,Nebraska,Big 12,A,Oklahoma,L,28,62,16,28,214,1,35,204,3,6,9,8,74,2,2
+2008-11-08,Nebraska,Big 12,H,Kansas,W,45,35,29,38,328,4,35,167,2,16,8,4,30,2,1
+2008-11-15,Nebraska,Big 12,A,Kansas State,W,56,28,16,25,270,2,53,340,6,11,18,7,56,1,1
+2008-11-28,Nebraska,Big 12,H,Colorado,W,40,31,19,26,229,2,51,178,1,12,11,3,15,2,0
+2009-01-01,Nebraska,Big 12,N,Clemson,W,26,21,19,36,236,2,35,125,0,11,3,8,81,2,1
+2008-09-06,West Virginia,Big East,A,East Carolina,L,3,24,11,18,72,0,36,179,0,3,9,4,36,2,0
+2008-09-18,West Virginia,Big East,A,Colorado,L,14,17,10,15,43,0,52,311,2,2,13,7,91,1,0
+2008-09-27,West Virginia,Big East,H,Marshall,W,27,3,22,28,174,2,42,319,1,9,16,7,54,1,1
+2008-10-04,West Virginia,Big East,H,Rutgers,W,24,17,14,19,158,2,50,175,1,8,9,3,30,0,0
+2008-10-11,West Virginia,Big East,H,Syracuse,W,17,6,14,20,52,1,32,216,1,2,10,8,69,0,0
+2008-10-23,West Virginia,Big East,H,Auburn,W,34,17,13,21,174,3,35,271,1,8,14,1,7,0,2
+2008-11-01,West Virginia,Big East,A,Connecticut,W,35,13,11,18,121,1,51,216,4,6,11,5,29,0,0
+2008-11-08,West Virginia,Big East,H,Cincinnati,L,23,26,20,38,219,2,42,98,0,9,7,5,43,1,1
+2008-11-22,West Virginia,Big East,A,Louisville,W,35,21,6,11,122,2,41,376,3,4,11,5,45,1,0
+2008-11-28,West Virginia,Big East,A,Pitt,L,15,19,15,28,143,0,32,157,1,5,6,5,56,0,2
+2008-12-06,West Virginia,Big East,H,South Florida,W,13,7,14,23,141,1,40,139,0,6,11,3,25,1,0
+2008-12-27,West Virginia,Big East,N,North Carolina,W,31,30,26,32,332,3,42,123,1,13,7,1,10,1,1
+2008-08-30,Oklahoma State,Big 12,A,Washington State,W,39,13,20,27,193,0,42,174,3,9,11,7,52,0,1
+2008-09-06,Oklahoma State,Big 12,H,Houston,W,56,37,14,21,320,3,51,379,4,12,16,6,65,1,2
+2008-09-27,Oklahoma State,Big 12,H,Troy,W,55,24,16,21,254,3,62,358,4,12,22,9,70,0,0
+2008-10-04,Oklahoma State,Big 12,H,Texas A&M,W,56,28,10,14,186,3,46,215,2,7,12,10,85,1,0
+2008-10-11,Oklahoma State,Big 12,A,Missouri,W,28,23,19,28,215,2,44,187,2,12,9,7,43,2,1
+2008-10-18,Oklahoma State,Big 12,H,Baylor,W,34,6,13,20,238,2,58,219,2,9,14,6,55,1,0
+2008-10-25,Oklahoma State,Big 12,A,Texas,L,24,28,17,27,199,1,37,217,2,11,11,5,45,1,0
+2008-11-01,Oklahoma State,Big 12,H,Iowa State,W,59,17,20,29,419,5,36,263,3,12,14,5,34,1,1
+2008-11-08,Oklahoma State,Big 12,A,Texas Tech,L,20,56,16,29,182,0,34,186,3,8,10,4,40,1,1
+2008-11-15,Oklahoma State,Big 12,A,Colorado,W,30,17,15,23,217,1,40,226,2,10,13,5,31,0,1
+2008-11-29,Oklahoma State,Big 12,H,Oklahoma,L,41,61,17,26,254,3,39,198,1,12,11,2,15,1,1
+2008-12-30,Oklahoma State,Big 12,N,Oregon,L,31,42,28,51,350,1,37,119,3,17,8,5,41,0,2
+2008-08-31,Colorado,Big 12,N,Colorado State,W,38,17,20,29,214,1,36,153,3,12,6,8,58,1,1
+2008-09-18,Colorado,Big 12,H,West Virginia,W,17,14,22,33,179,2,45,187,0,11,11,7,55,1,1
+2008-09-27,Colorado,Big 12,A,Florida State,L,21,39,17,36,154,3,37,124,0,8,9,5,24,1,1
+2008-10-04,Colorado,Big 12,H,Texas,L,14,38,17,38,217,2,28,49,0,9,5,3,27,2,0
+2008-10-11,Colorado,Big 12,A,Kansas,L,14,30,13,31,147,1,36,86,1,8,7,2,30,0,2
+2008-10-18,Colorado,Big 12,H,Kansas State,W,14,13,13,25,106,1,57,247,1,8,14,6,54,1,1
+2008-10-25,Colorado,Big 12,A,Missouri,L,0,58,21,34,158,0,35,41,0,9,5,4,28,1,0
+2008-11-01,Colorado,Big 12,A,Texas A&M,L,17,24,18,34,198,0,43,194,2,8,12,7,61,0,3
+2008-11-08,Colorado,Big 12,H,Iowa State,W,28,24,24,41,274,4,32,148,0,13,8,6,50,0,1
+2008-11-15,Colorado,Big 12,H,Oklahoma State,L,17,30,19,38,171,1,35,133,1,9,10,5,45,1,0
+2008-11-28,Colorado,Big 12,A,Nebraska,L,31,40,14,26,249,1,22,42,2,9,4,2,14,1,3
+2008-08-29,Rice,CUSA,H,SMU,W,56,27,24,37,258,6,44,208,1,15,13,2,15,2,0
+2008-09-06,Rice,CUSA,A,Memphis,W,42,35,26,44,318,1,27,112,3,14,9,3,20,0,2
+2008-09-13,Rice,CUSA,A,Vanderbilt,L,21,38,25,40,299,1,34,108,2,15,8,3,15,1,1
+2008-09-20,Rice,CUSA,A,Texas,L,10,52,30,48,301,1,24,17,0,14,2,7,37,0,0
+2008-09-27,Rice,CUSA,H,North Texas,W,77,20,23,30,328,6,39,174,3,16,9,4,45,0,0
+2008-10-04,Rice,CUSA,A,Tulsa,L,28,63,25,46,350,3,35,103,1,17,10,4,46,3,1
+2008-10-18,Rice,CUSA,H,Southern Mississippi,W,45,40,30,44,444,6,32,142,0,20,5,7,78,0,1
+2008-10-25,Rice,CUSA,A,Tulane,W,42,17,20,25,168,2,34,230,3,11,9,2,15,0,1
+2008-11-01,Rice,CUSA,A,UTEP,W,49,44,29,43,376,5,41,167,2,17,11,10,93,0,0
+2008-11-08,Rice,CUSA,H,Army,W,38,31,21,28,384,3,29,133,2,13,6,5,45,2,0
+2008-11-22,Rice,CUSA,H,Marshall,W,35,10,25,41,315,4,35,141,1,14,11,4,35,1,1
+2008-11-29,Rice,CUSA,H,Houston,W,56,42,30,43,393,6,38,198,2,16,14,5,44,0,0
+2008-12-30,Rice,CUSA,H,Western Michigan,W,38,14,31,47,320,4,37,135,1,16,9,8,64,0,0
+2008-08-30,Texas A&M,Big 12,H,Arkansas State,L,14,18,19,27,170,0,36,133,2,8,8,1,15,2,2
+2008-09-06,Texas A&M,Big 12,A,New Mexico,W,28,22,13,24,144,3,39,92,0,8,6,10,62,1,0
+2008-09-20,Texas A&M,Big 12,H,Miami (FL),L,23,41,19,32,275,3,35,87,0,11,6,7,71,1,1
+2008-09-27,Texas A&M,Big 12,H,Army,W,21,17,13,19,157,2,29,133,0,6,8,5,59,0,1
+2008-10-04,Texas A&M,Big 12,A,Oklahoma State,L,28,56,24,43,218,2,30,184,2,11,6,9,63,3,2
+2008-10-11,Texas A&M,Big 12,H,Kansas State,L,30,44,29,41,419,2,33,125,2,17,7,9,65,1,0
+2008-10-18,Texas A&M,Big 12,H,Texas Tech,L,25,43,27,40,286,1,23,20,1,11,5,5,45,1,0
+2008-10-25,Texas A&M,Big 12,A,Iowa State,W,49,35,31,39,381,4,35,128,3,19,8,7,61,1,0
+2008-11-01,Texas A&M,Big 12,H,Colorado,W,24,17,15,31,214,3,33,94,0,8,9,7,59,1,0
+2008-11-08,Texas A&M,Big 12,H,Oklahoma,L,28,66,22,51,252,1,29,26,2,14,4,12,70,2,2
+2008-11-15,Texas A&M,Big 12,A,Baylor,L,21,41,19,30,244,1,21,64,2,8,4,5,40,1,4
+2008-11-27,Texas A&M,Big 12,A,Texas,L,9,49,20,35,269,1,22,-24,0,10,2,10,71,1,0
+2008-09-13,New Mexico State,WAC,A,Nebraska,L,7,38,19,39,225,0,32,114,1,9,7,7,50,0,2
+2008-09-20,New Mexico State,WAC,A,UTEP,W,34,33,29,39,329,5,25,37,0,14,6,6,50,2,2
+2008-09-27,New Mexico State,WAC,H,New Mexico,L,24,35,24,38,382,3,18,48,0,12,2,6,59,0,1
+2008-10-11,New Mexico State,WAC,A,Nevada,W,48,45,28,47,409,3,36,104,2,20,6,6,39,0,1
+2008-10-18,New Mexico State,WAC,H,San Jose State,L,14,31,28,45,249,1,29,35,1,12,2,7,50,1,3
+2008-10-25,New Mexico State,WAC,A,Idaho,L,14,20,37,47,324,2,26,35,0,14,4,4,45,2,2
+2008-11-01,New Mexico State,WAC,H,Boise State,L,0,49,18,31,112,0,39,38,0,5,4,4,51,1,1
+2008-11-08,New Mexico State,WAC,H,Hawaii,L,30,42,24,38,394,4,21,6,0,12,3,2,10,1,2
+2008-11-15,New Mexico State,WAC,A,Fresno State,L,17,24,27,38,192,1,15,-9,0,8,2,8,65,1,0
+2008-11-22,New Mexico State,WAC,H,Louisiana Tech,L,31,35,45,59,486,4,25,30,0,23,1,5,25,1,0
+2008-11-29,New Mexico State,WAC,A,Utah State,L,2,47,25,37,163,0,19,-7,0,7,3,2,20,1,1
+2008-08-30,Louisiana Tech,WAC,H,Mississippi State,W,22,14,14,41,175,1,32,94,1,8,6,6,35,1,2
+2008-09-06,Louisiana Tech,WAC,A,Kansas,L,0,29,12,33,119,0,27,148,0,5,7,8,75,0,1
+2008-10-01,Louisiana Tech,WAC,A,Boise State,L,3,38,9,30,202,0,36,118,0,6,6,4,34,0,1
+2008-10-11,Louisiana Tech,WAC,A,Hawaii,L,14,24,15,38,167,0,37,191,2,6,14,7,64,2,2
+2008-10-18,Louisiana Tech,WAC,H,Idaho,W,46,14,13,22,192,0,59,364,5,5,21,3,45,0,0
+2008-10-25,Louisiana Tech,WAC,A,Army,L,7,14,8,19,84,0,38,68,1,4,5,6,45,1,0
+2008-11-01,Louisiana Tech,WAC,H,Fresno State,W,38,35,12,21,117,1,42,280,3,4,14,5,36,1,1
+2008-11-08,Louisiana Tech,WAC,A,San Jose State,W,21,0,7,16,97,1,47,217,1,2,10,8,73,0,0
+2008-11-15,Louisiana Tech,WAC,H,Utah State,W,45,38,12,18,145,2,52,200,2,6,14,4,38,1,2
+2008-11-22,Louisiana Tech,WAC,A,New Mexico State,W,35,31,12,20,132,1,35,226,3,4,11,7,66,0,0
+2008-11-29,Louisiana Tech,WAC,H,Nevada,L,31,35,17,31,258,2,37,185,2,13,12,6,65,1,0
+2008-12-28,Louisiana Tech,WAC,N,Northern Illinois,W,17,10,12,27,144,0,31,92,1,6,4,6,40,1,0
+2008-08-30,Minnesota,Big Ten,H,Northern Illinois,W,31,27,24,37,298,2,31,127,2,12,6,3,20,1,0
+2008-09-06,Minnesota,Big Ten,A,Bowling Green State,W,42,17,21,25,233,3,45,164,3,13,9,2,20,0,0
+2008-09-20,Minnesota,Big Ten,H,Florida Atlantic,W,37,3,19,24,235,1,40,206,3,9,14,9,75,0,1
+2008-09-27,Minnesota,Big Ten,A,Ohio State,L,21,34,23,36,187,1,28,81,1,11,4,8,54,2,1
+2008-10-04,Minnesota,Big Ten,H,Indiana,W,16,7,22,37,274,0,44,59,1,15,6,1,10,2,0
+2008-10-11,Minnesota,Big Ten,A,Illinois,W,27,20,19,27,196,1,34,116,2,10,5,6,59,1,0
+2008-10-25,Minnesota,Big Ten,A,Purdue,W,17,6,21,34,212,1,34,109,1,8,6,13,114,0,1
+2008-11-01,Minnesota,Big Ten,H,Northwestern,L,17,24,32,52,327,1,25,68,0,11,8,5,40,1,1
+2008-11-08,Minnesota,Big Ten,H,Michigan,L,6,29,13,24,105,0,28,83,0,4,4,7,51,0,1
+2008-11-15,Minnesota,Big Ten,A,Wisconsin,L,32,35,15,30,202,3,29,99,1,8,5,10,89,2,1
+2008-11-22,Minnesota,Big Ten,H,Iowa,L,0,55,14,30,127,0,21,7,0,5,1,4,35,1,2
+2008-12-31,Minnesota,Big Ten,N,Kansas,L,21,42,20,35,251,1,38,80,2,12,6,7,41,1,0
+2008-08-28,Middle Tennessee State,Sun Belt,H,Troy,L,17,31,20,34,200,1,50,84,1,11,8,5,53,1,1
+2008-09-06,Middle Tennessee State,Sun Belt,H,Maryland,W,24,14,29,41,284,2,41,118,1,13,7,8,62,1,0
+2008-09-13,Middle Tennessee State,Sun Belt,A,Kentucky,L,14,20,21,37,352,2,23,31,0,10,2,6,51,1,1
+2008-09-20,Middle Tennessee State,Sun Belt,A,Arkansas State,L,14,31,26,37,271,1,25,44,1,11,3,6,43,0,2
+2008-09-30,Middle Tennessee State,Sun Belt,H,Florida Atlantic,W,14,13,24,36,268,2,29,55,0,9,4,6,59,1,0
+2008-10-11,Middle Tennessee State,Sun Belt,A,Florida International,L,21,31,14,27,72,0,41,171,2,1,13,4,31,0,3
+2008-10-18,Middle Tennessee State,Sun Belt,A,Louisville,L,23,42,20,38,201,2,30,105,0,10,9,10,87,0,0
+2008-10-25,Middle Tennessee State,Sun Belt,A,Mississippi State,L,22,31,25,43,268,1,29,80,1,12,4,4,46,0,0
+2008-11-08,Middle Tennessee State,Sun Belt,H,Louisiana-Monroe,W,24,21,16,26,278,2,35,90,1,15,6,5,45,1,0
+2008-11-15,Middle Tennessee State,Sun Belt,A,Western Kentucky,W,21,10,19,30,212,2,41,101,1,11,6,3,35,1,1
+2008-11-22,Middle Tennessee State,Sun Belt,H,North Texas,W,52,13,20,36,252,1,28,237,5,13,8,5,46,1,2
+2008-12-03,Middle Tennessee State,Sun Belt,A,Louisiana,L,28,42,22,29,242,2,40,167,2,11,14,6,49,2,1
+2008-08-30,Northern Illinois,MAC,A,Minnesota,L,27,31,17,30,326,2,31,72,1,10,5,2,14,1,0
+2008-09-06,Northern Illinois,MAC,A,Western Michigan,L,26,29,18,33,297,1,44,142,2,14,8,7,60,1,1
+2008-09-27,Northern Illinois,MAC,A,Eastern Michigan,W,37,0,13,17,104,1,43,235,4,5,13,5,50,0,0
+2008-10-04,Northern Illinois,MAC,A,Tennessee,L,9,13,14,26,118,0,34,72,0,6,3,7,40,0,1
+2008-10-11,Northern Illinois,MAC,H,Miami (OH),W,17,13,11,21,111,1,37,215,1,5,9,3,26,0,0
+2008-10-18,Northern Illinois,MAC,H,Toledo,W,38,7,12,16,173,3,45,220,2,10,12,5,44,0,0
+2008-10-25,Northern Illinois,MAC,H,Bowling Green State,W,16,13,5,12,45,0,57,233,1,4,14,2,21,0,2
+2008-11-05,Northern Illinois,MAC,A,Ball State,L,14,45,14,22,115,0,29,160,2,6,6,5,54,1,1
+2008-11-12,Northern Illinois,MAC,H,Central Michigan,L,30,33,18,38,288,0,35,80,3,12,6,5,45,0,2
+2008-11-18,Northern Illinois,MAC,A,Kent State,W,42,14,12,19,173,2,45,224,3,8,11,4,32,0,0
+2008-11-25,Northern Illinois,MAC,H,Navy,L,0,16,14,24,116,0,33,135,0,6,10,4,45,0,2
+2008-12-28,Northern Illinois,MAC,N,Louisiana Tech,L,10,17,20,41,186,1,31,153,0,9,8,7,70,1,2
+2008-09-06,Ohio State,Big Ten,H,Ohio,W,26,14,16,28,110,0,40,162,2,7,10,1,5,1,0
+2008-09-13,Ohio State,Big Ten,A,USC,L,3,35,21,30,136,0,34,71,0,7,6,10,78,1,2
+2008-09-20,Ohio State,Big Ten,H,Troy,W,28,10,10,17,139,4,42,170,0,5,10,6,46,0,1
+2008-09-27,Ohio State,Big Ten,H,Minnesota,W,34,21,13,22,135,2,37,279,2,6,14,10,90,1,0
+2008-10-04,Ohio State,Big Ten,A,Wisconsin,W,20,17,13,19,144,0,40,183,2,7,10,5,30,1,1
+2008-10-11,Ohio State,Big Ten,H,Purdue,W,16,3,10,14,97,0,42,125,0,5,7,2,10,0,0
+2008-10-18,Ohio State,Big Ten,A,Michigan State,W,45,7,7,11,116,1,52,216,3,3,14,5,45,0,0
+2008-10-25,Ohio State,Big Ten,H,Penn State,L,6,13,16,28,226,0,31,61,0,11,3,4,48,1,1
+2008-11-08,Ohio State,Big Ten,A,Northwestern,W,45,10,9,16,197,3,45,244,3,7,12,6,62,0,0
+2008-11-15,Ohio State,Big Ten,A,Illinois,W,30,20,6,10,49,1,52,305,3,2,13,4,18,1,0
+2008-11-22,Ohio State,Big Ten,H,Michigan,W,42,7,8,16,184,3,43,232,3,6,7,2,20,0,1
+2009-01-05,Ohio State,Big Ten,N,Texas,L,21,24,10,25,176,1,39,203,1,8,11,7,67,0,0
+2008-08-30,Ohio,MAC,A,Wyoming,L,20,21,29,41,248,1,21,39,0,13,3,12,115,1,1
+2008-09-06,Ohio,MAC,A,Ohio State,L,14,26,12,34,109,0,31,145,1,5,10,2,9,1,4
+2008-09-13,Ohio,MAC,H,Central Michigan,L,28,31,17,33,365,3,35,148,1,11,7,6,55,2,0
+2008-09-20,Ohio,MAC,A,Northwestern,L,8,16,27,44,228,1,28,4,0,7,4,5,50,2,2
+2008-10-04,Ohio,MAC,A,Western Michigan,L,20,41,19,37,208,3,37,148,0,10,7,9,98,1,2
+2008-10-11,Ohio,MAC,A,Kent State,W,26,19,16,26,203,0,46,176,2,9,12,12,102,1,1
+2008-10-21,Ohio,MAC,A,Temple,L,10,14,23,40,220,0,29,47,1,14,2,7,51,2,0
+2008-10-28,Ohio,MAC,H,Buffalo,L,19,32,20,29,290,2,29,127,1,9,7,7,42,3,1
+2008-11-08,Ohio,MAC,H,Bowling Green State,L,3,28,13,30,188,0,28,40,0,9,4,6,45,0,2
+2008-11-22,Ohio,MAC,H,Akron,W,49,42,20,28,222,5,23,91,0,10,6,4,35,2,0
+2008-11-28,Ohio,MAC,A,Miami (OH),W,41,26,15,20,190,3,39,326,2,9,14,4,50,1,1
+2008-09-11,North Carolina,ACC,A,Rutgers,W,44,12,14,23,221,3,38,157,1,8,10,3,24,0,0
+2008-09-20,North Carolina,ACC,H,Virginia Tech,L,17,20,14,26,204,1,32,103,1,10,4,14,121,2,2
+2008-09-27,North Carolina,ACC,A,Miami (FL),W,28,24,13,24,264,2,33,35,2,10,5,6,55,0,0
+2008-10-04,North Carolina,ACC,H,Connecticut,W,38,12,9,16,117,1,33,146,2,4,7,6,57,0,1
+2008-10-11,North Carolina,ACC,H,Notre Dame,W,29,24,18,32,201,0,32,121,2,12,7,7,55,0,0
+2008-10-18,North Carolina,ACC,A,Virginia,L,13,16,16,26,166,0,48,166,1,10,8,1,5,1,2
+2008-10-25,North Carolina,ACC,H,Boston College,W,45,24,19,30,238,3,36,114,2,11,8,8,63,1,0
+2008-11-08,North Carolina,ACC,H,Georgia Tech,W,28,7,8,19,128,2,42,186,2,3,10,3,15,0,0
+2008-11-15,North Carolina,ACC,A,Maryland,L,15,17,11,25,210,1,26,75,0,7,4,2,18,1,1
+2008-11-22,North Carolina,ACC,H,North Carolina State,L,10,41,14,28,147,0,26,56,1,8,4,2,20,3,3
+2008-11-29,North Carolina,ACC,A,Duke,W,28,20,15,19,190,3,47,179,1,12,8,2,29,1,1
+2008-12-27,North Carolina,ACC,N,West Virginia,L,30,31,16,26,277,3,29,93,1,8,7,4,37,1,1
+2008-08-28,Miami (OH),MAC,H,Vanderbilt,L,13,34,19,42,244,1,25,96,0,10,6,7,45,0,3
+2008-09-06,Miami (OH),MAC,A,Michigan,L,6,16,23,40,205,0,32,47,0,10,5,4,30,1,0
+2008-09-20,Miami (OH),MAC,A,Cincinnati,L,20,45,28,44,235,2,30,66,0,15,2,5,36,0,1
+2008-10-04,Miami (OH),MAC,H,Temple,L,10,28,22,40,212,0,39,91,1,10,9,5,46,3,1
+2008-10-11,Miami (OH),MAC,A,Northern Illinois,L,13,17,19,35,149,0,30,145,0,7,7,12,79,0,0
+2008-10-18,Miami (OH),MAC,A,Bowling Green State,W,27,20,11,24,129,1,43,218,2,5,9,4,45,0,0
+2008-10-25,Miami (OH),MAC,H,Kent State,L,21,54,18,31,171,1,33,147,2,9,9,4,56,4,2
+2008-11-04,Miami (OH),MAC,A,Buffalo,L,17,37,25,44,241,0,29,142,2,13,7,6,45,2,0
+2008-11-11,Miami (OH),MAC,H,Ball State,L,16,31,25,42,254,1,26,76,0,13,7,2,10,1,0
+2008-11-21,Miami (OH),MAC,A,Toledo,L,14,42,29,46,196,2,23,75,0,12,3,4,30,2,2
+2008-11-28,Miami (OH),MAC,H,Ohio,L,26,41,27,43,274,1,28,92,0,14,7,6,39,0,2
+2008-08-30,Utah,MWC,A,Michigan,W,25,23,21,34,305,1,43,36,1,11,4,15,137,2,1
+2008-09-06,Utah,MWC,H,Nevada-Las Vegas,W,42,21,16,25,215,3,36,225,3,13,7,8,67,0,1
+2008-09-13,Utah,MWC,A,Utah State,W,58,10,23,32,213,2,50,248,4,11,15,7,80,2,1
+2008-09-20,Utah,MWC,A,Air Force,W,30,23,16,24,243,1,53,197,3,13,11,7,40,2,1
+2008-10-02,Utah,MWC,H,Oregon State,W,31,28,17,31,201,2,38,136,1,10,8,4,37,1,1
+2008-10-11,Utah,MWC,A,Wyoming,W,40,7,11,20,119,1,44,123,1,3,8,3,30,0,0
+2008-10-18,Utah,MWC,H,Colorado State,W,49,16,19,27,222,2,37,327,5,9,15,8,80,0,1
+2008-11-01,Utah,MWC,A,New Mexico,W,13,10,23,33,195,1,35,198,0,9,8,9,79,1,1
+2008-11-06,Utah,MWC,H,Texas Christian,W,13,10,24,41,230,1,25,45,0,13,1,2,10,0,0
+2008-11-15,Utah,MWC,A,San Diego State,W,63,14,28,40,322,5,40,198,2,16,13,6,55,0,1
+2008-11-22,Utah,MWC,H,Brigham Young,W,48,24,31,37,307,5,35,108,1,17,8,5,51,0,0
+2009-01-02,Utah,MWC,N,Alabama,W,31,17,27,41,336,3,24,13,1,17,3,10,91,1,0
+2008-08-30,Arizona,Pac-10,H,Idaho,W,70,0,23,31,256,4,49,265,5,15,10,6,60,0,0
+2008-09-06,Arizona,Pac-10,H,Toledo,W,41,16,26,34,299,2,33,153,3,17,8,5,36,1,0
+2008-09-13,Arizona,Pac-10,A,New Mexico,L,28,36,27,50,321,3,24,67,1,16,4,2,20,3,2
+2008-09-20,Arizona,Pac-10,A,UCLA,W,31,10,16,29,222,2,35,111,2,10,5,4,24,1,0
+2008-10-04,Arizona,Pac-10,H,Washington,W,48,14,17,21,193,3,51,256,2,8,18,1,10,0,0
+2008-10-11,Arizona,Pac-10,A,Stanford,L,23,24,22,34,259,0,23,77,1,11,5,6,42,0,0
+2008-10-18,Arizona,Pac-10,H,California,W,42,27,16,27,225,2,41,179,3,9,8,0,0,1,1
+2008-10-25,Arizona,Pac-10,H,USC,L,10,17,14,31,88,0,30,100,1,6,6,1,15,0,1
+2008-11-08,Arizona,Pac-10,A,Washington State,W,59,28,11,15,214,1,57,317,7,9,16,7,70,1,1
+2008-11-15,Arizona,Pac-10,A,Oregon,L,45,55,29,46,328,2,52,199,4,16,12,2,20,1,2
+2008-11-22,Arizona,Pac-10,H,Oregon State,L,17,19,16,22,158,1,41,139,1,8,10,4,30,0,0
+2008-12-06,Arizona,Pac-10,H,Arizona State,W,31,10,25,37,284,2,40,105,1,19,5,8,76,0,1
+2008-12-20,Arizona,Pac-10,N,Brigham Young,W,31,21,24,35,325,2,28,91,2,12,6,7,54,3,0
+2008-08-30,Western Kentucky,Ind,A,Indiana,L,13,31,19,31,219,1,31,63,0,9,3,2,29,1,0
+2008-09-13,Western Kentucky,Ind,A,Alabama,L,7,41,14,26,116,1,22,42,0,6,2,5,27,1,1
+2008-09-27,Western Kentucky,Ind,A,Kentucky,L,3,41,6,14,15,0,37,142,0,0,8,1,15,1,0
+2008-10-04,Western Kentucky,Ind,A,Virginia Tech,L,13,27,8,20,95,1,32,148,0,3,5,13,113,0,1
+2008-10-11,Western Kentucky,Ind,H,Ball State,L,7,24,19,31,169,1,34,183,0,11,8,6,66,2,1
+2008-10-18,Western Kentucky,Ind,H,Florida Atlantic,L,20,24,9,17,77,0,41,240,2,3,9,4,40,0,1
+2008-11-01,Western Kentucky,Ind,H,North Texas,L,40,51,13,27,190,2,42,314,4,8,13,8,67,1,3
+2008-11-08,Western Kentucky,Ind,A,Troy,L,7,17,15,33,95,0,35,121,1,4,8,2,14,0,1
+2008-11-15,Western Kentucky,Ind,H,Middle Tennessee State,L,10,21,18,30,213,1,33,68,0,9,6,4,34,1,1
+2008-12-06,Western Kentucky,Ind,A,Florida International,L,3,27,13,37,138,0,23,42,0,8,1,8,90,0,2
+2008-08-28,Vanderbilt,SEC,A,Miami (OH),W,34,13,9,16,91,1,50,269,3,5,12,2,25,2,0
+2008-09-04,Vanderbilt,SEC,H,South Carolina,W,24,17,8,13,90,1,41,135,2,4,9,4,35,1,0
+2008-09-13,Vanderbilt,SEC,H,Rice,W,38,21,7,16,71,0,43,273,5,4,18,3,35,0,0
+2008-09-20,Vanderbilt,SEC,A,Ole Miss,W,23,17,9,12,71,1,41,131,0,3,7,2,20,2,0
+2008-10-04,Vanderbilt,SEC,H,Auburn,W,14,13,16,31,157,2,32,106,0,7,4,5,37,0,1
+2008-10-11,Vanderbilt,SEC,A,Mississippi State,L,14,17,8,20,62,0,26,45,2,3,2,10,65,0,2
+2008-10-18,Vanderbilt,SEC,A,Georgia,L,14,24,16,32,131,2,26,114,0,6,4,3,31,0,2
+2008-10-25,Vanderbilt,SEC,H,Duke,L,7,10,14,31,210,1,32,81,0,7,6,3,33,1,2
+2008-11-08,Vanderbilt,SEC,H,Florida,L,14,42,12,22,114,2,39,150,0,5,8,9,80,0,1
+2008-11-15,Vanderbilt,SEC,A,Kentucky,W,31,24,15,27,155,3,43,213,1,6,11,4,41,1,0
+2008-11-22,Vanderbilt,SEC,H,Tennessee,L,10,20,19,44,188,0,28,25,0,11,3,5,42,1,2
+2008-11-29,Vanderbilt,SEC,A,Wake Forest,L,10,23,14,35,133,1,34,116,0,7,7,6,29,1,2
+2008-12-31,Vanderbilt,SEC,H,Boston College,W,16,14,10,20,121,0,36,79,0,4,2,0,0,0,0
+2008-08-31,Kentucky,SEC,A,Louisville,W,27,2,16,31,147,0,33,63,1,5,3,9,67,1,0
+2008-09-13,Kentucky,SEC,H,Middle Tennessee State,W,20,14,28,48,254,2,35,102,0,14,7,6,31,1,0
+2008-09-27,Kentucky,SEC,H,Western Kentucky,W,41,3,21,32,182,1,38,216,3,9,13,5,35,0,1
+2008-10-04,Kentucky,SEC,A,Alabama,L,14,17,20,42,241,2,20,35,0,9,1,9,58,1,1
+2008-10-11,Kentucky,SEC,H,South Carolina,L,17,24,24,44,156,0,22,62,1,9,1,2,20,0,2
+2008-10-18,Kentucky,SEC,H,Arkansas,W,21,20,19,35,284,3,28,88,0,10,5,5,53,2,2
+2008-10-25,Kentucky,SEC,A,Florida,L,5,63,17,36,127,0,33,141,0,5,11,3,30,0,1
+2008-11-01,Kentucky,SEC,A,Mississippi State,W,14,13,16,30,146,1,36,128,1,5,9,7,64,1,1
+2008-11-08,Kentucky,SEC,H,Georgia,L,38,42,12,20,105,0,56,226,5,5,13,3,40,1,1
+2008-11-15,Kentucky,SEC,H,Vanderbilt,L,24,31,11,26,144,0,24,97,2,7,5,5,57,0,2
+2008-11-29,Kentucky,SEC,A,Tennessee,L,10,28,9,14,97,0,38,96,1,3,8,8,52,0,0
+2009-01-02,Kentucky,SEC,N,East Carolina,W,25,19,19,31,204,1,37,106,0,9,7,4,35,0,1
+2008-08-30,Florida,SEC,H,Hawaii,W,56,10,10,17,151,1,38,255,4,7,11,13,90,0,0
+2008-09-06,Florida,SEC,H,Miami (FL),W,26,3,21,35,256,2,27,89,1,10,5,5,35,0,0
+2008-09-20,Florida,SEC,A,Tennessee,W,30,6,8,15,96,2,39,147,0,4,9,9,57,0,0
+2008-09-27,Florida,SEC,H,Ole Miss,L,30,31,24,38,319,1,35,124,3,13,10,5,35,3,0
+2008-10-04,Florida,SEC,A,Arkansas,W,38,7,19,29,236,2,38,278,3,11,12,12,110,0,1
+2008-10-11,Florida,SEC,H,LSU,W,51,21,14,21,210,2,41,265,3,7,14,6,53,1,0
+2008-10-25,Florida,SEC,H,Kentucky,W,63,5,13,18,232,3,41,214,5,7,15,7,62,0,1
+2008-11-01,Florida,SEC,N,Georgia,W,49,10,13,17,188,3,38,185,4,9,10,8,60,0,0
+2008-11-08,Florida,SEC,A,Vanderbilt,W,42,14,15,21,191,3,38,231,3,10,12,7,70,1,1
+2008-11-15,Florida,SEC,H,South Carolina,W,56,6,13,22,173,2,41,346,5,8,11,5,45,2,0
+2008-11-29,Florida,SEC,A,Florida State,W,45,15,12,22,185,3,46,317,3,9,11,8,71,1,0
+2008-12-06,Florida,SEC,N,Alabama,W,31,20,14,22,216,3,42,142,1,8,9,6,45,0,0
+2009-01-08,Florida,SEC,N,Oklahoma,W,24,14,18,30,231,2,44,249,1,12,11,8,81,0,2
+2008-08-28,Troy,Sun Belt,A,Middle Tennessee State,W,31,17,17,28,136,1,36,164,3,5,10,4,29,3,1
+2008-09-20,Troy,Sun Belt,A,Ohio State,L,10,28,30,43,218,1,23,97,0,8,6,8,80,0,2
+2008-09-27,Troy,Sun Belt,A,Oklahoma State,L,24,55,27,49,272,3,23,144,0,16,7,5,55,1,2
+2008-10-07,Troy,Sun Belt,A,Florida Atlantic,W,30,17,11,25,126,0,50,234,3,6,12,4,25,0,1
+2008-10-18,Troy,Sun Belt,H,Florida International,W,33,23,19,29,255,3,40,137,1,11,7,11,72,0,0
+2008-10-25,Troy,Sun Belt,A,North Texas,W,45,17,41,51,439,2,28,108,3,20,9,9,94,0,0
+2008-11-01,Troy,Sun Belt,A,Louisiana-Monroe,L,30,31,23,36,221,3,28,165,1,12,8,5,45,1,1
+2008-11-08,Troy,Sun Belt,H,Western Kentucky,W,17,7,30,46,298,2,33,131,0,13,11,7,66,1,1
+2008-11-15,Troy,Sun Belt,A,LSU,L,31,40,34,72,316,2,17,64,1,15,3,8,80,2,1
+2008-11-22,Troy,Sun Belt,H,Louisiana,W,48,3,9,20,68,1,55,391,4,4,18,7,52,1,0
+2008-12-06,Troy,Sun Belt,H,Arkansas State,W,35,9,15,24,181,3,30,156,2,9,7,6,40,0,0
+2008-12-21,Troy,Sun Belt,N,Southern Mississippi,L,27,30,26,44,255,1,35,73,1,11,8,3,28,1,0
+2008-09-06,Connecticut,Big East,A,Temple,W,12,9,10,22,86,0,55,293,1,4,16,3,37,1,1
+2008-09-13,Connecticut,Big East,H,Virginia,W,45,10,13,15,124,1,53,382,5,7,16,2,10,0,0
+2008-09-19,Connecticut,Big East,H,Baylor,W,31,28,13,23,125,0,46,225,4,6,14,2,20,0,2
+2008-09-26,Connecticut,Big East,A,Louisville,W,26,21,10,20,122,1,42,157,1,7,10,6,40,1,0
+2008-10-04,Connecticut,Big East,A,North Carolina,L,12,38,24,44,210,0,40,168,1,10,10,11,97,0,3
+2008-10-18,Connecticut,Big East,A,Rutgers,L,10,12,14,20,236,1,36,117,0,9,4,6,57,0,0
+2008-10-25,Connecticut,Big East,H,Cincinnati,W,40,16,18,42,196,0,36,153,3,8,6,8,73,0,0
+2008-11-01,Connecticut,Big East,H,West Virginia,L,13,35,17,37,166,0,25,119,1,6,9,1,5,2,3
+2008-11-15,Connecticut,Big East,A,Syracuse,W,39,14,7,15,70,0,44,259,2,3,12,4,35,0,0
+2008-11-23,Connecticut,Big East,A,South Florida,L,13,17,10,24,119,1,43,139,0,5,7,10,78,1,0
+2008-12-06,Connecticut,Big East,H,Pitt,L,10,34,6,31,80,0,44,225,1,2,11,3,20,0,5
+2009-01-03,Connecticut,Big East,N,Buffalo,W,38,20,4,6,49,1,49,358,3,2,17,3,29,5,0
+2008-08-30,UAB,CUSA,H,Tulsa,L,22,45,17,31,169,2,36,245,0,9,11,5,35,2,1
+2008-09-06,UAB,CUSA,A,Florida Atlantic,L,34,49,26,48,326,2,35,156,2,15,9,4,34,0,0
+2008-09-13,UAB,CUSA,A,Tennessee,L,3,35,19,34,167,0,26,108,0,7,5,9,79,0,3
+2008-09-27,UAB,CUSA,A,South Carolina,L,13,26,17,28,140,0,25,67,1,7,3,9,75,1,2
+2008-10-02,UAB,CUSA,H,Memphis,L,30,33,14,25,235,1,36,220,3,7,8,11,127,2,0
+2008-10-09,UAB,CUSA,A,Houston,L,20,45,24,40,234,1,38,118,1,11,7,7,85,0,3
+2008-10-18,UAB,CUSA,H,Marshall,W,23,21,15,28,217,0,47,215,3,10,13,4,34,1,2
+2008-11-01,UAB,CUSA,A,Southern Mississippi,L,14,70,16,23,127,2,27,96,0,4,7,8,70,2,4
+2008-11-15,UAB,CUSA,A,Tulane,W,41,24,15,21,154,0,46,272,4,6,16,6,49,1,0
+2008-11-22,UAB,CUSA,H,East Carolina,L,13,17,11,25,116,0,35,142,1,5,6,7,69,0,1
+2008-11-29,UAB,CUSA,A,UCF,W,15,0,20,28,244,0,47,140,0,14,4,7,60,0,0
+2008-08-28,Baylor,Big 12,H,Wake Forest,L,13,41,15,30,156,0,34,94,2,8,5,7,59,3,2
+2008-09-12,Baylor,Big 12,H,Washington State,W,45,17,7,16,129,1,42,426,5,4,16,10,75,0,0
+2008-09-19,Baylor,Big 12,A,Connecticut,L,28,31,14,25,208,3,43,169,1,12,11,8,77,0,0
+2008-10-04,Baylor,Big 12,H,Oklahoma,L,17,49,11,26,75,0,41,194,2,5,10,3,14,0,0
+2008-10-11,Baylor,Big 12,H,Iowa State,W,38,10,22,26,288,2,50,147,2,10,16,7,39,0,0
+2008-10-18,Baylor,Big 12,A,Oklahoma State,L,6,34,15,27,162,0,31,42,1,11,2,6,60,1,0
+2008-10-25,Baylor,Big 12,A,Nebraska,L,20,32,9,20,134,0,33,216,3,5,8,6,39,0,0
+2008-11-01,Baylor,Big 12,H,Missouri,L,28,31,26,35,283,2,44,155,2,12,12,8,85,1,1
+2008-11-08,Baylor,Big 12,A,Texas,L,21,45,6,20,71,1,29,201,2,1,5,8,72,0,1
+2008-11-15,Baylor,Big 12,H,Texas A&M,W,41,21,13,23,241,2,52,269,3,8,16,5,50,0,0
+2008-11-29,Baylor,Big 12,A,Texas Tech,L,28,35,12,16,91,1,43,229,3,4,14,6,40,0,1
+2008-08-29,SMU,CUSA,A,Rice,L,27,56,30,49,326,4,14,11,0,18,1,7,55,2,3
+2008-09-13,SMU,CUSA,A,Texas Tech,L,7,43,18,37,213,1,23,61,0,10,6,6,38,0,5
+2008-09-20,SMU,CUSA,H,Texas Christian,L,7,48,20,39,218,1,12,-8,0,7,1,5,47,1,2
+2008-09-25,SMU,CUSA,A,Tulane,L,27,34,21,44,256,3,13,55,0,10,3,7,70,0,2
+2008-10-04,SMU,CUSA,A,UCF,L,17,31,29,45,351,1,21,25,1,12,3,5,24,1,3
+2008-10-11,SMU,CUSA,H,Tulsa,L,31,37,19,34,318,4,28,151,0,15,6,4,40,0,1
+2008-10-18,SMU,CUSA,H,Houston,L,38,44,29,40,365,4,23,48,1,15,6,11,90,1,2
+2008-10-25,SMU,CUSA,A,Navy,L,7,34,16,28,157,1,11,-13,0,6,2,3,9,0,1
+2008-11-08,SMU,CUSA,H,Memphis,L,26,31,24,38,311,3,16,38,0,14,4,3,32,0,0
+2008-11-15,SMU,CUSA,A,UTEP,L,10,36,13,36,137,1,20,64,0,6,5,6,48,2,4
+2008-11-29,SMU,CUSA,H,Southern Mississippi,L,12,28,26,49,253,1,19,4,0,14,2,11,85,0,2
+2008-08-30,Virginia,ACC,H,USC,L,7,52,18,35,155,0,21,32,1,9,3,4,21,3,1
+2008-09-13,Virginia,ACC,A,Connecticut,L,10,45,25,38,188,0,14,31,1,10,3,4,42,0,2
+2008-09-27,Virginia,ACC,A,Duke,L,3,31,19,42,194,0,33,110,0,11,5,6,41,2,4
+2008-10-04,Virginia,ACC,H,Maryland,W,31,0,25,34,226,2,41,201,2,12,13,4,45,0,0
+2008-10-11,Virginia,ACC,H,East Carolina,W,35,20,26,34,228,2,33,202,3,13,5,3,20,0,2
+2008-10-18,Virginia,ACC,H,North Carolina,W,16,13,24,38,217,0,27,58,2,11,4,5,45,0,0
+2008-10-25,Virginia,ACC,A,Georgia Tech,W,24,17,29,39,270,2,36,126,1,15,8,6,40,1,2
+2008-11-01,Virginia,ACC,H,Miami (FL),L,17,24,27,41,240,1,24,78,1,9,6,1,5,2,0
+2008-11-08,Virginia,ACC,A,Wake Forest,L,17,28,23,45,279,2,17,28,0,13,3,9,58,1,3
+2008-11-22,Virginia,ACC,H,Clemson,L,3,13,24,39,160,0,24,30,0,10,2,4,40,1,3
+2008-11-29,Virginia,ACC,A,Virginia Tech,L,14,17,8,15,77,0,31,172,2,4,7,4,40,0,1
+2008-08-30,Virginia Tech,ACC,N,East Carolina,L,22,27,14,23,139,0,35,104,2,6,5,1,1,0,2
+2008-09-13,Virginia Tech,ACC,H,Georgia Tech,W,20,17,9,15,48,0,46,199,2,2,13,3,15,0,0
+2008-09-20,Virginia Tech,ACC,A,North Carolina,W,20,17,12,22,141,0,42,127,2,6,6,4,21,0,2
+2008-09-27,Virginia Tech,ACC,A,Nebraska,W,35,30,9,15,171,0,55,206,3,7,12,4,30,0,0
+2008-10-04,Virginia Tech,ACC,H,Western Kentucky,W,27,13,13,18,142,1,51,151,2,6,9,6,40,1,0
+2008-10-18,Virginia Tech,ACC,A,Boston College,L,23,28,12,27,90,0,38,150,0,3,9,10,76,0,1
+2008-10-25,Virginia Tech,ACC,A,Florida State,L,20,30,12,22,161,1,34,82,1,6,6,7,49,2,0
+2008-11-06,Virginia Tech,ACC,H,Maryland,W,23,13,14,21,127,1,51,273,1,8,12,8,55,1,0
+2008-11-13,Virginia Tech,ACC,A,Miami (FL),L,14,16,12,20,173,0,38,77,2,7,7,3,35,0,0
+2008-11-22,Virginia Tech,ACC,H,Duke,W,14,3,14,25,147,1,47,187,0,7,11,5,29,2,3
+2008-11-29,Virginia Tech,ACC,H,Virginia,W,17,14,15,28,176,1,52,216,1,11,11,4,32,0,1
+2008-12-06,Virginia Tech,ACC,N,Boston College,W,30,12,11,19,84,0,53,150,3,5,9,3,26,2,1
+2009-01-01,Virginia Tech,ACC,N,Cincinnati,W,20,7,13,23,140,0,55,258,2,7,14,3,17,0,1
+2008-08-30,Clemson,ACC,N,Alabama,L,10,34,20,34,188,0,14,0,0,8,2,6,43,1,1
+2008-09-13,Clemson,ACC,H,North Carolina State,W,27,9,20,28,262,2,29,166,1,13,8,7,75,1,1
+2008-09-27,Clemson,ACC,H,Maryland,L,17,20,15,22,151,0,41,221,2,8,10,6,50,2,1
+2008-10-09,Clemson,ACC,A,Wake Forest,L,7,12,15,35,177,1,23,21,0,7,2,6,59,0,1
+2008-10-18,Clemson,ACC,H,Georgia Tech,L,17,21,19,32,198,2,24,51,0,9,2,4,36,2,4
+2008-11-01,Clemson,ACC,A,Boston College,W,27,21,21,33,252,1,31,87,2,12,3,5,35,1,3
+2008-11-08,Clemson,ACC,A,Florida State,L,27,41,20,35,237,2,36,79,1,9,7,5,29,1,1
+2008-11-15,Clemson,ACC,H,Duke,W,31,7,27,38,326,1,41,140,3,14,9,6,65,0,0
+2008-11-22,Clemson,ACC,A,Virginia,W,13,3,19,29,136,1,39,56,0,6,6,3,35,1,0
+2008-11-29,Clemson,ACC,H,South Carolina,W,31,14,12,17,199,1,47,184,3,10,8,5,41,2,0
+2009-01-01,Clemson,ACC,N,Nebraska,L,21,26,17,37,206,2,26,4,0,7,2,7,50,0,2
+2008-08-28,South Carolina,SEC,H,North Carolina State,W,34,0,17,27,198,2,42,171,2,12,7,7,58,0,4
+2008-09-04,South Carolina,SEC,A,Vanderbilt,L,17,24,23,39,233,2,29,92,0,9,9,8,51,1,2
+2008-09-13,South Carolina,SEC,H,Georgia,L,7,14,23,40,271,1,16,18,0,10,3,6,60,1,1
+2008-09-27,South Carolina,SEC,H,UAB,W,26,13,18,33,195,1,45,158,1,10,10,6,55,1,2
+2008-10-04,South Carolina,SEC,A,Ole Miss,W,31,24,22,32,327,3,35,78,0,10,10,7,54,0,1
+2008-10-11,South Carolina,SEC,A,Kentucky,W,24,17,19,37,274,2,34,74,0,12,4,5,47,2,2
+2008-10-18,South Carolina,SEC,H,LSU,L,17,24,14,26,215,1,31,39,1,9,5,3,20,2,1
+2008-11-01,South Carolina,SEC,H,Tennessee,W,27,6,10,20,154,2,44,101,0,7,4,3,35,0,1
+2008-11-08,South Carolina,SEC,H,Arkansas,W,34,21,13,30,219,2,34,132,2,8,10,4,45,0,1
+2008-11-15,South Carolina,SEC,A,Florida,L,6,56,19,37,120,0,25,53,0,6,4,9,54,1,3
+2008-11-29,South Carolina,SEC,A,Clemson,L,14,31,22,47,212,2,26,92,0,13,6,3,26,0,4
+2009-01-01,South Carolina,SEC,N,Iowa,L,10,31,26,50,270,1,14,43,0,12,3,10,100,2,3
+2008-09-05,Ball State,MAC,H,Navy,W,35,23,21,28,326,4,29,162,1,13,12,3,33,0,2
+2008-09-13,Ball State,MAC,A,Akron,W,41,24,24,36,300,2,44,191,2,13,14,4,40,1,1
+2008-09-20,Ball State,MAC,A,Indiana,W,42,20,16,25,239,1,42,224,4,9,12,2,15,2,0
+2008-09-27,Ball State,MAC,H,Kent State,W,41,20,23,35,265,1,37,158,4,17,8,1,10,0,0
+2008-10-04,Ball State,MAC,A,Toledo,W,31,0,18,30,242,0,44,240,4,13,11,5,50,0,0
+2008-10-11,Ball State,MAC,A,Western Kentucky,W,24,7,14,22,155,2,40,200,1,9,9,7,71,0,1
+2008-10-25,Ball State,MAC,H,Eastern Michigan,W,38,16,18,32,245,3,24,163,1,11,8,0,0,0,1
+2008-11-05,Ball State,MAC,H,Northern Illinois,W,45,14,19,23,310,4,40,219,2,14,7,0,0,0,0
+2008-11-11,Ball State,MAC,A,Miami (OH),W,31,16,17,24,289,1,38,195,3,12,9,0,0,1,1
+2008-11-19,Ball State,MAC,A,Central Michigan,W,31,24,12,22,175,4,39,232,0,8,13,3,35,0,0
+2008-11-25,Ball State,MAC,H,Western Michigan,W,45,22,17,25,273,1,43,179,4,11,8,1,5,0,0
+2008-12-05,Ball State,MAC,N,Buffalo,L,24,42,31,48,351,1,41,152,2,19,10,6,45,4,1
+2009-01-06,Ball State,MAC,N,Tulsa,L,13,45,9,29,145,0,28,78,1,6,3,3,25,2,1
+2008-09-06,San Jose State,WAC,A,Nebraska,L,12,35,21,35,242,0,32,111,1,8,9,7,47,0,2
+2008-09-13,San Jose State,WAC,H,San Diego State,W,35,10,21,27,183,0,55,293,5,9,12,5,26,0,1
+2008-09-20,San Jose State,WAC,A,Stanford,L,10,23,23,26,165,0,35,54,1,7,7,2,10,2,0
+2008-09-27,San Jose State,WAC,A,Hawaii,W,20,17,14,28,152,2,39,85,0,4,4,11,79,0,0
+2008-10-11,San Jose State,WAC,H,Utah State,W,30,7,31,47,314,3,29,87,0,13,4,6,36,0,1
+2008-10-18,San Jose State,WAC,A,New Mexico State,W,31,14,8,18,50,0,37,151,2,3,7,6,57,0,3
+2008-10-24,San Jose State,WAC,H,Boise State,L,16,33,17,31,98,0,21,109,1,4,3,11,101,1,1
+2008-11-01,San Jose State,WAC,A,Idaho,W,30,24,23,31,295,2,39,106,1,12,6,4,46,0,1
+2008-11-08,San Jose State,WAC,H,Louisiana Tech,L,0,21,11,28,118,0,28,30,0,5,1,5,37,0,2
+2008-11-15,San Jose State,WAC,A,Nevada,L,17,41,20,41,301,2,16,-23,0,10,0,6,45,1,0
+2008-11-21,San Jose State,WAC,H,Fresno State,L,10,24,21,37,205,1,31,-5,0,10,3,10,88,1,0
+2008-08-30,Bowling Green State,MAC,A,Pitt,W,27,17,26,42,190,2,28,64,2,9,6,7,54,0,1
+2008-09-06,Bowling Green State,MAC,H,Minnesota,L,17,42,29,45,261,1,26,128,1,13,9,0,0,4,1
+2008-09-13,Bowling Green State,MAC,A,Boise State,L,7,20,22,36,204,1,36,103,0,9,9,7,55,2,1
+2008-09-27,Bowling Green State,MAC,A,Wyoming,W,45,16,22,36,287,2,40,101,3,14,6,8,60,1,0
+2008-10-04,Bowling Green State,MAC,H,Eastern Michigan,L,21,24,27,34,297,2,29,94,1,12,5,10,80,0,0
+2008-10-11,Bowling Green State,MAC,A,Akron,W,37,33,27,42,244,4,27,175,1,14,9,6,51,1,1
+2008-10-18,Bowling Green State,MAC,H,Miami (OH),L,20,27,21,34,224,2,26,80,0,8,4,9,101,0,1
+2008-10-25,Bowling Green State,MAC,A,Northern Illinois,L,13,16,15,21,92,1,22,76,0,4,6,2,15,1,0
+2008-11-01,Bowling Green State,MAC,H,Kent State,W,45,30,17,24,201,2,46,261,4,9,14,6,61,0,2
+2008-11-08,Bowling Green State,MAC,A,Ohio,W,28,3,23,30,229,3,34,93,1,11,6,7,56,0,0
+2008-11-21,Bowling Green State,MAC,H,Buffalo,L,34,40,24,33,240,1,47,139,4,12,9,6,37,1,1
+2008-11-28,Bowling Green State,MAC,A,Toledo,W,38,10,21,34,240,3,46,294,2,15,13,7,71,2,1
+2008-08-30,USC,Pac-10,A,Virginia,W,52,7,28,38,350,4,40,208,3,19,8,7,70,1,1
+2008-09-13,USC,Pac-10,H,Ohio State,W,35,3,18,30,184,4,32,164,0,10,8,8,76,0,1
+2008-09-25,USC,Pac-10,A,Oregon State,L,21,27,18,29,227,3,22,86,0,11,5,7,84,1,1
+2008-10-04,USC,Pac-10,H,Oregon,W,44,10,24,36,443,4,39,155,1,18,7,13,114,1,1
+2008-10-11,USC,Pac-10,H,Arizona State,W,28,0,15,29,177,1,40,210,2,8,8,10,86,2,3
+2008-10-18,USC,Pac-10,A,Washington State,W,69,0,16,21,263,5,49,362,5,13,15,2,15,0,0
+2008-10-25,USC,Pac-10,A,Arizona,W,17,10,21,36,216,1,41,151,1,9,10,10,68,1,1
+2008-11-01,USC,Pac-10,H,Washington,W,56,0,16,20,188,2,46,297,6,8,14,10,90,0,0
+2008-11-08,USC,Pac-10,H,California,W,17,3,18,30,238,2,36,173,0,12,10,10,105,1,0
+2008-11-15,USC,Pac-10,A,Stanford,W,45,23,11,18,136,2,43,282,3,4,16,6,45,1,0
+2008-11-29,USC,Pac-10,H,Notre Dame,W,38,3,23,33,274,2,33,175,3,12,9,8,80,0,3
+2008-12-06,USC,Pac-10,A,UCLA,W,28,7,18,33,269,2,47,209,2,14,12,6,55,1,1
+2009-01-01,USC,Pac-10,H,Penn State,W,38,24,28,35,413,4,35,61,1,15,10,6,60,1,0
+2008-09-06,San Diego State,MWC,A,Notre Dame,L,13,21,29,59,274,1,15,71,1,12,4,11,100,1,1
+2008-09-13,San Diego State,MWC,A,San Jose State,L,10,35,10,29,140,0,17,6,0,5,2,8,62,1,0
+2008-09-27,San Diego State,MWC,H,Idaho,W,45,17,26,40,445,4,35,158,2,15,8,8,62,1,1
+2008-10-04,San Diego State,MWC,A,Texas Christian,L,7,41,10,26,98,0,15,-13,1,3,0,3,30,1,0
+2008-10-11,San Diego State,MWC,H,Air Force,L,10,35,19,38,130,0,27,35,1,8,3,6,55,0,2
+2008-10-18,San Diego State,MWC,A,New Mexico,L,7,70,19,39,161,1,22,66,0,8,3,6,45,2,1
+2008-10-25,San Diego State,MWC,H,Colorado State,L,34,38,24,33,166,1,34,226,2,8,13,4,47,0,1
+2008-11-01,San Diego State,MWC,A,Wyoming,L,10,35,28,52,311,1,19,17,0,14,2,9,68,1,0
+2008-11-08,San Diego State,MWC,A,Brigham Young,L,12,41,21,37,160,1,28,120,0,8,8,2,20,3,1
+2008-11-15,San Diego State,MWC,H,Utah,L,14,63,23,41,247,2,19,73,0,12,4,10,72,1,2
+2008-11-22,San Diego State,MWC,H,Nevada-Las Vegas,W,42,21,35,50,387,2,30,92,3,20,6,4,41,0,0
+2008-09-06,Eastern Michigan,MAC,A,Michigan State,L,10,42,14,31,215,0,28,127,1,7,3,6,45,0,0
+2008-09-13,Eastern Michigan,MAC,H,Toledo,L,17,41,13,23,131,0,47,134,2,5,9,8,77,3,2
+2008-09-20,Eastern Michigan,MAC,A,Maryland,L,24,51,26,40,282,2,39,171,1,13,11,4,45,0,3
+2008-09-27,Eastern Michigan,MAC,H,Northern Illinois,L,0,37,21,39,140,0,33,119,0,11,6,3,28,0,2
+2008-10-04,Eastern Michigan,MAC,A,Bowling Green State,W,24,21,22,30,263,1,38,147,2,13,8,6,61,0,0
+2008-10-11,Eastern Michigan,MAC,A,Army,L,13,17,12,30,138,0,29,117,1,8,5,7,55,0,0
+2008-10-18,Eastern Michigan,MAC,H,Akron,L,35,42,22,34,258,3,41,182,2,14,7,1,15,1,1
+2008-10-25,Eastern Michigan,MAC,A,Ball State,L,16,38,28,50,309,2,29,67,0,16,6,5,38,0,2
+2008-11-01,Eastern Michigan,MAC,A,Western Michigan,L,10,31,21,37,272,0,37,133,1,13,7,4,35,0,2
+2008-11-22,Eastern Michigan,MAC,A,Temple,L,52,55,50,76,484,3,19,68,4,25,4,5,50,0,0
+2008-11-28,Eastern Michigan,MAC,H,Central Michigan,W,56,52,58,80,516,5,25,100,3,27,6,9,97,0,1
+2008-08-30,Florida International,Sun Belt,A,Kansas,L,10,40,10,29,73,0,26,66,0,4,4,6,30,1,2
+2008-09-06,Florida International,Sun Belt,A,Iowa,L,0,42,19,36,162,0,27,56,0,9,3,4,25,1,2
+2008-09-20,Florida International,Sun Belt,H,South Florida,L,9,17,11,21,117,0,34,72,1,2,6,10,65,0,1
+2008-09-27,Florida International,Sun Belt,A,Toledo,W,35,16,6,13,98,1,45,141,4,3,8,8,50,0,0
+2008-10-04,Florida International,Sun Belt,A,North Texas,W,42,10,12,20,237,4,39,110,1,6,6,9,78,0,0
+2008-10-11,Florida International,Sun Belt,H,Middle Tennessee State,W,31,21,13,29,223,1,42,112,2,9,8,9,68,2,1
+2008-10-18,Florida International,Sun Belt,A,Troy,L,23,33,22,34,266,2,36,83,1,11,3,10,72,2,1
+2008-11-01,Florida International,Sun Belt,A,Louisiana,L,20,49,12,24,153,1,31,117,1,5,5,13,112,2,1
+2008-11-08,Florida International,Sun Belt,H,Arkansas State,W,22,21,16,34,359,1,22,48,0,11,2,10,75,0,0
+2008-11-22,Florida International,Sun Belt,H,Louisiana-Monroe,L,27,31,18,31,239,2,32,124,1,11,6,10,75,1,0
+2008-11-29,Florida International,Sun Belt,N,Florida Atlantic,L,50,57,27,48,400,4,37,112,3,14,9,7,51,1,1
+2008-12-06,Florida International,Sun Belt,H,Western Kentucky,W,27,3,20,34,292,1,47,143,1,13,7,9,98,0,0
+2008-08-29,Temple,MAC,A,Army,W,35,7,16,23,166,2,30,84,1,8,6,8,74,1,1
+2008-09-06,Temple,MAC,H,Connecticut,L,9,12,11,28,170,0,34,128,0,5,3,8,85,0,2
+2008-09-13,Temple,MAC,A,Buffalo,L,28,30,24,33,285,3,27,104,1,12,7,7,51,1,0
+2008-09-20,Temple,MAC,A,Penn State,L,3,45,17,32,122,0,28,16,0,5,4,8,61,0,3
+2008-09-27,Temple,MAC,H,Western Michigan,L,3,7,10,22,60,0,38,136,0,4,6,10,76,1,0
+2008-10-04,Temple,MAC,A,Miami (OH),W,28,10,11,23,178,3,40,116,1,6,4,9,81,1,1
+2008-10-11,Temple,MAC,A,Central Michigan,L,14,24,15,32,163,1,34,138,1,4,8,5,31,1,3
+2008-10-21,Temple,MAC,H,Ohio,W,14,10,9,22,79,1,37,64,1,3,6,7,61,0,0
+2008-11-01,Temple,MAC,A,Navy,L,27,33,21,28,340,3,37,69,1,14,6,4,33,2,0
+2008-11-12,Temple,MAC,A,Kent State,L,38,41,17,29,282,3,30,72,1,10,5,4,31,3,1
+2008-11-22,Temple,MAC,H,Eastern Michigan,W,55,52,21,37,370,6,34,67,1,15,4,5,37,1,0
+2008-11-28,Temple,MAC,H,Akron,W,27,6,15,30,220,0,44,148,4,10,8,6,43,1,2
+2008-08-30,Louisiana,Sun Belt,A,Southern Mississippi,L,21,51,11,24,131,1,43,263,2,8,12,8,53,2,2
+2008-09-13,Louisiana,Sun Belt,A,Illinois,L,17,20,25,35,200,1,34,87,1,11,6,4,45,2,0
+2008-09-20,Louisiana,Sun Belt,H,Kent State,W,44,27,15,22,253,1,52,414,5,9,13,8,84,2,0
+2008-09-27,Louisiana,Sun Belt,A,Kansas State,L,37,45,16,29,174,1,51,335,4,10,17,10,86,0,0
+2008-10-04,Louisiana,Sun Belt,A,Louisiana-Monroe,W,44,35,15,23,172,1,37,556,5,7,12,10,93,1,2
+2008-10-11,Louisiana,Sun Belt,A,North Texas,W,59,30,15,21,252,3,47,338,4,8,17,2,5,1,1
+2008-10-18,Louisiana,Sun Belt,H,Arkansas State,W,28,23,10,17,124,1,51,189,3,7,8,4,33,0,2
+2008-11-01,Louisiana,Sun Belt,H,Florida International,W,49,20,13,19,216,2,57,228,4,7,12,7,69,0,0
+2008-11-08,Louisiana,Sun Belt,H,UTEP,L,24,37,14,25,185,1,35,199,1,8,10,4,23,1,3
+2008-11-15,Louisiana,Sun Belt,A,Florida Atlantic,L,29,40,24,33,204,2,47,228,1,11,12,8,63,1,3
+2008-11-22,Louisiana,Sun Belt,A,Troy,L,3,48,7,15,72,0,36,175,0,3,7,15,96,0,2
+2008-12-03,Louisiana,Sun Belt,H,Middle Tennessee State,W,42,28,18,25,243,4,43,152,2,11,9,5,44,0,0
+2008-09-06,UCF,CUSA,H,South Florida,L,24,31,17,32,150,2,28,76,0,9,2,12,148,0,0
+2008-09-20,UCF,CUSA,A,Boston College,L,7,34,16,32,129,0,34,123,1,7,4,5,45,0,4
+2008-09-27,UCF,CUSA,A,UTEP,L,13,58,14,34,161,1,39,175,1,8,9,5,66,4,2
+2008-10-04,UCF,CUSA,H,SMU,W,31,17,9,17,126,2,38,154,2,6,5,5,42,1,0
+2008-10-11,UCF,CUSA,A,Miami (FL),L,14,20,11,37,74,0,27,4,0,4,3,7,63,1,0
+2008-10-26,UCF,CUSA,A,Tulsa,L,19,49,8,16,124,2,48,63,0,7,5,6,54,3,0
+2008-11-02,UCF,CUSA,H,East Carolina,L,10,13,9,21,142,1,37,82,0,6,5,4,22,2,1
+2008-11-08,UCF,CUSA,H,Southern Mississippi,L,6,17,13,33,144,1,16,64,0,8,2,1,5,0,2
+2008-11-15,UCF,CUSA,A,Marshall,W,30,14,4,17,29,1,65,213,1,2,12,8,46,1,0
+2008-11-22,UCF,CUSA,A,Memphis,W,28,21,8,19,121,2,40,73,1,5,5,6,70,1,0
+2008-11-29,UCF,CUSA,H,UAB,L,0,15,14,34,105,0,22,104,0,7,6,5,41,0,2
+2008-09-06,Toledo,MAC,A,Arizona,L,16,41,21,31,170,1,24,74,0,7,4,7,46,0,0
+2008-09-13,Toledo,MAC,A,Eastern Michigan,W,41,17,8,18,114,3,36,233,3,4,13,7,50,2,1
+2008-09-20,Toledo,MAC,H,Fresno State,L,54,55,24,43,301,3,46,297,4,13,13,7,53,1,0
+2008-09-27,Toledo,MAC,H,Florida International,L,16,35,27,46,208,1,31,94,0,11,9,4,34,3,1
+2008-10-04,Toledo,MAC,H,Ball State,L,0,31,21,31,143,0,19,14,0,7,2,6,42,0,1
+2008-10-11,Toledo,MAC,A,Michigan,W,13,10,33,50,257,0,22,70,0,12,4,7,74,1,0
+2008-10-18,Toledo,MAC,A,Northern Illinois,L,7,38,17,24,149,0,22,80,1,7,5,10,85,2,1
+2008-10-25,Toledo,MAC,H,Central Michigan,L,23,24,16,26,216,1,32,149,1,11,7,6,40,0,0
+2008-11-05,Toledo,MAC,A,Akron,L,30,47,23,35,277,3,25,93,1,12,7,5,37,0,1
+2008-11-15,Toledo,MAC,A,Western Michigan,L,17,27,18,31,213,1,35,145,1,12,4,6,60,1,1
+2008-11-21,Toledo,MAC,H,Miami (OH),W,42,14,14,26,139,0,46,377,6,5,17,6,33,1,0
+2008-11-28,Toledo,MAC,H,Bowling Green State,L,10,38,7,20,67,0,37,129,1,4,7,4,40,1,2
+2008-09-13,Boise State,WAC,H,Bowling Green State,W,20,7,18,23,180,0,33,160,3,4,11,8,73,1,0
+2008-09-20,Boise State,WAC,A,Oregon,W,37,32,25,37,386,3,35,38,1,13,1,9,69,1,1
+2008-10-01,Boise State,WAC,H,Louisiana Tech,W,38,3,21,31,332,2,44,132,3,16,9,2,20,0,1
+2008-10-11,Boise State,WAC,A,Southern Mississippi,W,24,7,21,30,170,3,34,180,0,8,10,9,89,1,1
+2008-10-17,Boise State,WAC,H,Hawaii,W,27,7,25,34,256,3,31,111,0,11,6,7,64,2,0
+2008-10-24,Boise State,WAC,A,San Jose State,W,33,16,26,41,244,2,48,149,2,14,10,11,100,1,1
+2008-11-01,Boise State,WAC,A,New Mexico State,W,49,0,19,29,279,3,33,216,3,13,12,11,90,2,1
+2008-11-08,Boise State,WAC,H,Utah State,W,49,14,32,42,458,5,36,105,1,18,5,12,115,2,1
+2008-11-15,Boise State,WAC,A,Idaho,W,45,10,23,34,210,0,38,315,4,15,13,4,26,1,0
+2008-11-22,Boise State,WAC,A,Nevada,W,41,34,29,48,414,3,26,70,2,19,3,5,50,1,3
+2008-11-28,Boise State,WAC,H,Fresno State,W,61,10,18,25,248,3,34,246,4,11,8,5,49,0,1
+2008-12-23,Boise State,WAC,N,Texas Christian,L,16,17,22,35,222,0,20,28,1,8,2,4,25,1,1
+2008-08-30,North Texas,Sun Belt,A,Kansas State,L,6,45,16,29,100,1,26,105,0,6,6,6,29,0,0
+2008-09-06,North Texas,Sun Belt,H,Tulsa,L,26,56,30,45,247,2,34,203,1,12,12,8,60,2,0
+2008-09-13,North Texas,Sun Belt,A,LSU,L,3,41,23,43,155,0,18,44,0,7,2,9,81,0,1
+2008-09-27,North Texas,Sun Belt,A,Rice,L,20,77,26,45,257,1,30,155,2,13,11,6,41,3,3
+2008-10-04,North Texas,Sun Belt,H,Florida International,L,10,42,35,50,309,0,33,119,1,12,8,7,70,1,3
+2008-10-11,North Texas,Sun Belt,H,Louisiana,L,30,59,29,45,361,2,34,167,1,15,8,5,64,2,1
+2008-10-18,North Texas,Sun Belt,A,Louisiana-Monroe,L,23,35,37,62,362,2,30,101,0,22,5,9,82,1,0
+2008-10-25,North Texas,Sun Belt,H,Troy,L,17,45,31,52,246,1,33,92,1,9,9,6,47,1,3
+2008-11-01,North Texas,Sun Belt,A,Western Kentucky,W,51,40,23,37,214,4,29,173,2,10,10,7,56,1,1
+2008-11-08,North Texas,Sun Belt,A,Florida Atlantic,L,13,46,15,25,139,0,36,116,2,7,7,6,44,2,2
+2008-11-22,North Texas,Sun Belt,A,Middle Tennessee State,L,13,52,25,39,221,1,36,143,1,8,9,8,60,3,0
+2008-11-29,North Texas,Sun Belt,H,Arkansas State,L,28,33,28,42,217,1,31,110,3,10,9,2,25,0,3
+2008-09-06,Brigham Young,MWC,A,Washington,W,28,27,30,41,338,3,28,137,1,19,6,7,60,1,1
+2008-09-13,Brigham Young,MWC,H,UCLA,W,59,0,31,40,337,7,45,184,1,19,11,8,71,0,1
+2008-09-20,Brigham Young,MWC,H,Wyoming,W,44,0,20,37,201,3,34,163,1,11,9,9,76,0,0
+2008-10-03,Brigham Young,MWC,A,Utah State,W,34,14,23,37,303,2,30,103,1,12,6,12,123,0,2
+2008-10-11,Brigham Young,MWC,H,New Mexico,W,21,3,22,34,258,3,28,124,0,13,6,4,48,0,0
+2008-10-16,Brigham Young,MWC,A,Texas Christian,L,7,32,22,42,274,0,28,23,1,10,4,7,84,2,2
+2008-10-25,Brigham Young,MWC,H,Nevada-Las Vegas,W,42,35,24,32,245,4,34,209,1,12,9,7,39,0,0
+2008-11-01,Brigham Young,MWC,A,Colorado State,W,45,42,28,35,389,5,35,162,1,21,8,6,67,2,1
+2008-11-08,Brigham Young,MWC,H,San Diego State,W,41,12,25,30,317,3,37,104,2,12,6,5,50,1,0
+2008-11-15,Brigham Young,MWC,A,Air Force,W,38,24,28,37,354,2,36,126,3,21,7,9,68,1,1
+2008-11-22,Brigham Young,MWC,A,Utah,L,24,48,21,41,205,0,30,214,3,10,13,9,85,1,5
+2008-12-20,Brigham Young,MWC,N,Arizona,L,21,31,30,46,328,1,32,116,2,16,5,10,76,2,1
+2008-08-30,Florida Atlantic,Sun Belt,A,Texas,L,10,52,17,39,255,1,23,37,0,9,3,7,60,1,1
+2008-09-06,Florida Atlantic,Sun Belt,H,UAB,W,49,34,22,35,358,4,25,196,3,16,8,5,65,1,0
+2008-09-13,Florida Atlantic,Sun Belt,A,Michigan State,L,0,17,8,34,143,0,27,82,0,3,5,7,53,2,0
+2008-09-20,Florida Atlantic,Sun Belt,A,Minnesota,L,3,37,20,39,175,0,25,101,0,11,5,6,34,0,4
+2008-09-30,Florida Atlantic,Sun Belt,A,Middle Tennessee State,L,13,14,16,27,208,0,42,155,1,9,7,8,62,2,2
+2008-10-07,Florida Atlantic,Sun Belt,H,Troy,L,17,30,21,41,283,1,31,75,1,14,6,7,47,1,2
+2008-10-18,Florida Atlantic,Sun Belt,A,Western Kentucky,W,24,20,15,23,174,1,44,225,2,9,12,11,100,1,0
+2008-10-25,Florida Atlantic,Sun Belt,A,Louisiana-Monroe,W,29,28,28,39,267,2,30,151,1,15,6,10,136,1,2
+2008-11-08,Florida Atlantic,Sun Belt,H,North Texas,W,46,13,17,28,251,4,41,256,2,11,12,11,94,1,2
+2008-11-15,Florida Atlantic,Sun Belt,H,Louisiana,W,40,29,18,28,307,4,33,216,2,13,10,8,95,1,0
+2008-11-22,Florida Atlantic,Sun Belt,A,Arkansas State,L,14,28,16,38,196,1,23,63,1,11,3,4,39,1,1
+2008-11-29,Florida Atlantic,Sun Belt,N,Florida International,W,57,50,25,50,389,5,36,135,2,18,8,10,105,1,1
+2008-12-26,Florida Atlantic,Sun Belt,N,Central Michigan,W,24,21,20,36,306,2,36,112,1,15,11,2,25,1,0
+2008-08-30,Memphis,CUSA,A,Ole Miss,L,24,41,24,44,265,2,40,188,1,11,13,8,50,0,2
+2008-09-06,Memphis,CUSA,H,Rice,L,35,42,29,39,373,3,37,150,2,14,8,6,48,0,2
+2008-09-13,Memphis,CUSA,A,Marshall,L,16,17,29,54,368,1,29,94,0,15,9,6,60,1,0
+2008-09-27,Memphis,CUSA,H,Arkansas State,W,29,17,12,29,210,0,41,243,3,10,12,5,40,0,1
+2008-10-02,Memphis,CUSA,A,UAB,W,33,30,19,30,244,4,36,192,0,11,9,7,76,0,2
+2008-10-10,Memphis,CUSA,H,Louisville,L,28,35,34,56,351,3,30,130,1,15,10,5,46,2,1
+2008-10-18,Memphis,CUSA,A,East Carolina,L,10,30,14,23,82,0,34,102,1,4,6,2,20,0,1
+2008-10-25,Memphis,CUSA,H,Southern Mississippi,W,36,30,18,28,231,2,51,285,3,12,17,3,22,1,1
+2008-11-08,Memphis,CUSA,A,SMU,W,31,26,9,19,130,2,55,306,2,6,15,6,62,0,1
+2008-11-22,Memphis,CUSA,H,UCF,L,21,28,15,37,183,1,37,122,2,8,5,4,30,1,1
+2008-11-29,Memphis,CUSA,H,Tulane,W,45,6,10,12,109,0,66,379,6,6,22,2,20,0,0
+2008-12-20,Memphis,CUSA,A,South Florida,L,14,41,18,35,172,1,30,66,1,9,3,3,25,0,0
+2008-08-29,Army,Ind,H,Temple,L,7,35,6,15,74,0,58,210,1,4,11,3,45,2,1
+2008-09-20,Army,Ind,H,Akron,L,3,22,7,13,63,0,48,160,0,5,9,3,40,4,1
+2008-09-27,Army,Ind,A,Texas A&M,L,17,21,1,5,4,0,65,280,2,0,18,5,38,1,0
+2008-10-04,Army,Ind,A,Tulane,W,44,13,4,5,43,0,44,291,4,3,7,2,20,0,0
+2008-10-11,Army,Ind,H,Eastern Michigan,W,17,13,0,3,0,0,59,341,2,0,16,3,28,2,0
+2008-10-18,Army,Ind,A,Buffalo,L,24,27,4,6,52,0,54,320,3,2,14,7,53,1,0
+2008-10-25,Army,Ind,H,Louisiana Tech,W,14,7,3,9,32,1,56,203,1,2,10,1,10,3,1
+2008-11-01,Army,Ind,H,Air Force,L,7,16,8,26,107,1,48,143,0,5,9,4,45,1,2
+2008-11-08,Army,Ind,A,Rice,L,31,38,6,15,31,0,65,461,4,3,20,5,60,3,0
+2008-11-22,Army,Ind,A,Rutgers,L,3,30,2,4,2,0,47,217,0,0,8,7,43,2,0
+2008-12-06,Army,Ind,N,Navy,L,0,34,9,16,52,0,36,102,0,4,3,2,15,1,1
+2008-08-30,Auburn,SEC,H,Louisiana-Monroe,W,34,0,13,27,85,1,46,321,1,3,16,7,55,0,1
+2008-09-06,Auburn,SEC,H,Southern Mississippi,W,27,13,21,34,248,0,41,132,3,15,5,6,53,3,1
+2008-09-13,Auburn,SEC,A,Mississippi State,W,3,2,14,26,154,0,45,161,0,5,9,12,94,3,0
+2008-09-20,Auburn,SEC,H,LSU,L,21,26,17,32,250,1,36,70,1,7,6,2,10,0,2
+2008-09-27,Auburn,SEC,H,Tennessee,W,14,12,18,29,129,1,38,97,0,8,5,9,59,0,1
+2008-10-04,Auburn,SEC,A,Vanderbilt,L,13,14,10,22,98,2,44,110,0,3,11,11,81,0,1
+2008-10-11,Auburn,SEC,H,Arkansas,L,22,25,10,28,137,0,33,56,1,5,5,2,5,0,3
+2008-10-23,Auburn,SEC,A,West Virginia,L,17,34,13,21,111,1,45,149,1,6,10,5,49,0,1
+2008-11-01,Auburn,SEC,A,Ole Miss,L,7,17,27,43,319,0,25,75,1,11,5,9,67,0,3
+2008-11-15,Auburn,SEC,H,Georgia,L,13,17,16,31,179,1,36,124,1,7,8,6,45,1,0
+2008-11-29,Auburn,SEC,A,Alabama,L,0,36,9,23,113,0,30,57,0,4,4,4,45,3,0
+2008-09-06,Marshall,CUSA,A,Wisconsin,L,14,51,24,46,239,0,29,75,2,12,5,5,50,0,3
+2008-09-13,Marshall,CUSA,H,Memphis,W,17,16,14,29,224,1,33,179,1,10,5,8,71,0,0
+2008-09-20,Marshall,CUSA,A,Southern Mississippi,W,34,27,16,25,228,2,42,205,2,9,10,6,49,1,0
+2008-09-27,Marshall,CUSA,A,West Virginia,L,3,27,15,37,119,0,25,39,0,5,6,5,46,2,1
+2008-10-03,Marshall,CUSA,H,Cincinnati,L,10,33,17,37,178,1,31,90,0,10,5,3,20,0,3
+2008-10-18,Marshall,CUSA,A,UAB,L,21,23,17,28,285,2,30,82,0,8,9,5,43,1,1
+2008-10-28,Marshall,CUSA,H,Houston,W,37,23,15,25,157,2,54,249,2,5,16,10,67,0,0
+2008-11-08,Marshall,CUSA,A,East Carolina,L,16,19,13,30,137,2,36,155,0,5,9,3,20,0,2
+2008-11-15,Marshall,CUSA,H,UCF,L,14,30,7,29,84,1,29,145,1,3,5,8,65,2,2
+2008-11-22,Marshall,CUSA,A,Rice,L,10,35,13,24,83,1,46,185,0,8,9,5,40,1,1
+2008-11-29,Marshall,CUSA,H,Tulsa,L,35,38,14,19,177,3,36,260,2,7,10,5,63,0,0
+2008-08-28,UTEP,CUSA,A,Buffalo,L,17,42,20,37,199,1,26,67,1,9,6,2,14,0,3
+2008-09-06,UTEP,CUSA,H,Texas,L,13,42,25,46,267,1,31,145,0,15,6,11,97,1,0
+2008-09-20,UTEP,CUSA,H,New Mexico State,L,33,34,11,26,95,0,48,277,2,4,16,5,45,3,0
+2008-09-27,UTEP,CUSA,H,UCF,W,58,13,20,35,284,3,31,119,2,10,2,7,75,0,1
+2008-10-04,UTEP,CUSA,A,Southern Mississippi,W,40,37,25,44,266,4,32,116,1,17,4,3,30,0,0
+2008-10-11,UTEP,CUSA,H,Tulane,W,24,21,21,32,296,3,34,156,0,13,6,7,100,1,0
+2008-10-18,UTEP,CUSA,A,Tulsa,L,35,77,21,37,306,4,21,32,1,10,2,2,20,0,0
+2008-11-01,UTEP,CUSA,H,Rice,L,44,49,20,38,318,4,23,149,1,10,8,7,67,0,1
+2008-11-08,UTEP,CUSA,A,Louisiana,W,37,24,24,33,294,5,33,114,0,17,8,6,40,1,1
+2008-11-15,UTEP,CUSA,H,SMU,W,36,10,21,34,410,3,44,134,0,15,8,8,80,0,0
+2008-11-22,UTEP,CUSA,A,Houston,L,37,42,27,45,362,4,33,102,1,14,10,5,41,0,0
+2008-11-28,UTEP,CUSA,A,East Carolina,L,21,53,23,41,313,2,15,57,1,13,2,10,79,0,3
+2008-09-13,LSU,SEC,H,North Texas,W,41,3,20,36,209,0,28,216,4,13,7,6,45,0,1
+2008-09-20,LSU,SEC,A,Auburn,W,26,21,14,29,220,3,38,178,0,9,11,5,55,0,1
+2008-09-27,LSU,SEC,H,Mississippi State,W,34,24,18,27,261,2,37,166,2,11,10,5,55,1,1
+2008-10-11,LSU,SEC,A,Florida,L,21,51,25,41,241,2,26,80,1,9,7,6,40,1,2
+2008-10-18,LSU,SEC,A,South Carolina,W,24,17,18,29,199,1,46,164,2,10,12,9,65,0,1
+2008-10-25,LSU,SEC,H,Georgia,L,38,52,16,30,309,3,41,188,2,9,11,5,35,0,3
+2008-11-01,LSU,SEC,H,Tulane,W,35,10,8,20,99,1,46,231,3,6,15,6,57,0,1
+2008-11-08,LSU,SEC,H,Alabama,L,21,27,13,34,181,1,46,201,2,9,8,5,32,0,4
+2008-11-15,LSU,SEC,H,Troy,W,40,31,21,41,221,1,39,119,4,10,5,7,37,0,1
+2008-11-22,LSU,SEC,H,Ole Miss,L,13,31,14,32,178,1,29,37,0,8,4,6,32,0,2
+2008-11-28,LSU,SEC,A,Arkansas,L,30,31,9,21,143,2,44,161,1,6,10,8,77,0,0
+2008-12-31,LSU,SEC,A,Georgia Tech,W,38,3,17,27,163,1,35,161,4,7,10,6,60,0,0
+2008-08-30,Tulsa,CUSA,A,UAB,W,45,22,21,25,361,3,38,240,3,11,8,3,29,0,0
+2008-09-06,Tulsa,CUSA,A,North Texas,W,56,26,27,35,420,6,35,135,2,18,8,4,30,0,0
+2008-09-20,Tulsa,CUSA,H,New Mexico,W,56,14,24,39,469,6,37,137,1,18,10,3,45,1,2
+2008-10-04,Tulsa,CUSA,H,Rice,W,63,28,14,26,191,4,53,386,4,11,18,5,45,0,1
+2008-10-11,Tulsa,CUSA,A,SMU,W,37,31,17,31,281,3,50,321,1,12,19,7,45,1,2
+2008-10-18,Tulsa,CUSA,H,UTEP,W,77,35,23,30,470,5,54,321,5,16,18,5,40,0,1
+2008-10-26,Tulsa,CUSA,H,UCF,W,49,19,17,28,264,1,39,172,6,11,9,7,59,2,1
+2008-11-01,Tulsa,CUSA,A,Arkansas,L,23,30,18,33,344,2,47,184,1,12,12,6,57,1,2
+2008-11-15,Tulsa,CUSA,A,Houston,L,30,70,21,35,309,4,46,192,0,12,12,7,56,2,3
+2008-11-22,Tulsa,CUSA,H,Tulane,W,56,7,9,13,104,3,59,489,5,6,20,3,25,0,2
+2008-11-29,Tulsa,CUSA,A,Marshall,W,38,35,21,33,313,2,55,203,3,15,11,3,15,0,0
+2008-12-06,Tulsa,CUSA,H,East Carolina,L,24,27,23,42,195,1,55,204,2,16,9,3,15,2,5
+2009-01-06,Tulsa,CUSA,N,Ball State,W,45,13,15,26,193,3,64,439,3,11,19,0,0,0,0
+2008-09-06,Air Force,MWC,A,Wyoming,W,23,3,3,4,15,0,63,261,2,0,11,7,42,0,1
+2008-09-13,Air Force,MWC,A,Houston,W,31,28,0,7,0,0,71,380,4,0,17,10,73,0,0
+2008-09-20,Air Force,MWC,H,Utah,L,23,30,7,13,138,1,42,53,1,4,4,3,25,0,2
+2008-10-04,Air Force,MWC,H,Navy,L,27,33,12,21,184,1,56,227,2,7,13,10,75,2,0
+2008-10-11,Air Force,MWC,A,San Diego State,W,35,10,5,7,72,1,77,401,3,3,27,4,43,2,0
+2008-10-18,Air Force,MWC,A,Nevada-Las Vegas,W,29,28,6,7,162,2,68,346,1,4,21,8,67,0,0
+2008-10-23,Air Force,MWC,H,New Mexico,W,23,10,1,3,1,1,69,227,0,0,17,0,0,2,1
+2008-11-01,Air Force,MWC,A,Army,W,16,7,3,8,32,0,49,142,1,1,8,8,95,0,1
+2008-11-08,Air Force,MWC,H,Colorado State,W,38,17,6,8,171,2,51,284,3,3,16,4,25,0,0
+2008-11-15,Air Force,MWC,H,Brigham Young,L,24,38,12,20,98,0,51,323,3,4,16,8,73,1,1
+2008-11-22,Air Force,MWC,A,Texas Christian,L,10,44,3,10,11,0,37,150,1,1,5,2,23,0,0
+2008-12-31,Air Force,MWC,N,Houston,L,28,34,8,18,109,0,67,243,3,6,15,3,11,2,0
+2008-08-30,Oregon,Pac-10,H,Washington,W,44,10,16,28,240,3,44,256,3,9,13,8,85,0,1
+2008-09-06,Oregon,Pac-10,H,Utah State,W,66,24,24,35,280,2,53,408,7,13,19,6,65,1,1
+2008-09-13,Oregon,Pac-10,A,Purdue,W,32,26,20,47,197,0,43,306,2,10,13,7,68,2,2
+2008-09-20,Oregon,Pac-10,H,Boise State,L,32,37,16,32,237,3,52,227,2,12,13,6,50,1,3
+2008-09-27,Oregon,Pac-10,A,Washington State,W,63,14,9,19,161,2,53,346,7,7,15,11,69,0,0
+2008-10-04,Oregon,Pac-10,A,USC,L,10,44,20,33,179,0,39,60,1,9,5,10,85,1,1
+2008-10-11,Oregon,Pac-10,H,UCLA,W,31,24,5,19,42,1,46,323,3,2,15,2,17,0,0
+2008-10-25,Oregon,Pac-10,A,Arizona State,W,54,20,21,30,233,2,43,304,5,9,13,3,30,2,1
+2008-11-01,Oregon,Pac-10,A,California,L,16,26,11,32,84,0,50,206,2,3,16,4,36,1,2
+2008-11-08,Oregon,Pac-10,H,Stanford,W,35,28,11,21,144,1,41,307,3,8,9,9,80,4,0
+2008-11-15,Oregon,Pac-10,H,Arizona,W,55,45,21,27,298,2,30,206,4,11,6,8,58,1,0
+2008-11-29,Oregon,Pac-10,A,Oregon State,W,65,38,12,18,309,3,51,385,3,9,12,15,129,0,0
+2008-12-30,Oregon,Pac-10,N,Oklahoma State,W,42,31,18,32,258,1,40,307,5,11,11,3,35,1,1
+2008-09-01,Tennessee,SEC,A,UCLA,L,24,27,19,42,189,0,34,177,2,10,9,9,55,1,1
+2008-09-13,Tennessee,SEC,H,UAB,W,35,3,20,33,282,2,41,266,3,12,12,8,65,0,2
+2008-09-20,Tennessee,SEC,H,Florida,L,6,30,18,28,162,0,31,96,1,8,5,9,95,2,1
+2008-09-27,Tennessee,SEC,A,Auburn,L,12,14,8,24,67,0,33,124,1,2,6,3,35,1,0
+2008-10-04,Tennessee,SEC,H,Northern Illinois,W,13,9,10,18,156,1,32,69,0,4,5,6,45,2,0
+2008-10-11,Tennessee,SEC,A,Georgia,L,14,26,13,30,208,2,15,1,0,8,1,10,97,0,0
+2008-10-18,Tennessee,SEC,H,Mississippi State,W,34,3,10,21,136,0,39,139,2,7,8,1,8,0,0
+2008-10-25,Tennessee,SEC,H,Alabama,L,9,29,16,28,137,1,21,36,0,4,4,7,60,0,0
+2008-11-01,Tennessee,SEC,A,South Carolina,L,6,27,15,32,173,0,28,34,1,5,4,3,15,2,1
+2008-11-08,Tennessee,SEC,H,Wyoming,L,7,13,14,36,118,1,31,101,0,7,7,2,15,0,2
+2008-11-22,Tennessee,SEC,A,Vanderbilt,W,20,10,4,9,21,0,51,222,1,1,13,6,29,1,2
+2008-11-29,Tennessee,SEC,H,Kentucky,W,28,10,6,8,101,1,53,210,3,2,12,2,20,0,0
+2008-08-31,Colorado State,MWC,N,Colorado,L,17,38,27,38,187,1,26,71,0,9,8,4,18,0,2
+2008-09-20,Colorado State,MWC,H,Houston,W,28,25,24,34,276,2,40,146,2,13,10,5,51,0,0
+2008-09-27,Colorado State,MWC,A,California,L,7,42,18,36,226,0,46,125,1,8,11,4,30,0,3
+2008-10-04,Colorado State,MWC,H,Nevada-Las Vegas,W,41,28,15,21,294,1,44,216,3,11,12,7,73,1,0
+2008-10-11,Colorado State,MWC,H,Texas Christian,L,7,13,17,35,188,0,28,11,1,9,3,3,30,1,2
+2008-10-18,Colorado State,MWC,A,Utah,L,16,49,22,38,188,1,31,110,0,10,6,3,13,0,1
+2008-10-25,Colorado State,MWC,A,San Diego State,W,38,34,25,34,296,3,33,211,2,14,10,3,40,0,0
+2008-11-01,Colorado State,MWC,H,Brigham Young,L,42,45,19,36,270,3,29,131,2,12,6,8,90,1,0
+2008-11-08,Colorado State,MWC,A,Air Force,L,17,38,19,36,251,1,30,103,1,13,5,5,35,0,2
+2008-11-15,Colorado State,MWC,H,New Mexico,W,20,6,16,27,237,1,43,152,1,12,9,4,30,0,2
+2008-11-22,Colorado State,MWC,A,Wyoming,W,31,20,16,29,236,3,38,186,1,9,8,5,55,1,2
+2008-12-20,Colorado State,MWC,N,Fresno State,W,40,35,17,30,257,2,39,362,3,9,12,6,60,0,1
+2008-08-30,Michigan State,Big Ten,A,California,L,31,38,20,48,321,1,31,81,2,16,2,8,82,0,1
+2008-09-06,Michigan State,Big Ten,H,Eastern Michigan,W,42,10,11,16,180,0,52,238,6,9,11,3,25,1,0
+2008-09-13,Michigan State,Big Ten,H,Florida Atlantic,W,17,0,5,15,88,0,58,259,2,3,14,5,50,1,1
+2008-09-20,Michigan State,Big Ten,H,Notre Dame,W,23,7,12,26,143,0,43,203,2,6,9,6,65,1,0
+2008-09-27,Michigan State,Big Ten,A,Indiana,W,42,29,14,26,261,2,52,236,2,10,12,5,51,0,0
+2008-10-04,Michigan State,Big Ten,H,Iowa,W,16,13,13,24,184,1,34,91,0,8,5,4,29,0,1
+2008-10-11,Michigan State,Big Ten,A,Northwestern,W,37,20,14,20,169,2,43,128,2,9,8,5,45,0,0
+2008-10-18,Michigan State,Big Ten,H,Ohio State,L,7,45,23,39,188,1,21,52,0,9,4,2,15,3,2
+2008-10-25,Michigan State,Big Ten,A,Michigan,W,35,21,18,30,306,3,48,167,2,10,10,7,52,3,0
+2008-11-01,Michigan State,Big Ten,H,Wisconsin,W,25,24,20,45,287,0,29,25,2,12,2,2,30,1,0
+2008-11-08,Michigan State,Big Ten,H,Purdue,W,21,7,10,22,154,0,42,146,2,7,7,7,55,2,2
+2008-11-22,Michigan State,Big Ten,A,Penn State,L,18,49,32,49,287,1,24,35,1,17,4,7,51,0,2
+2009-01-01,Michigan State,Big Ten,N,Georgia,L,12,24,22,39,205,0,34,31,1,10,4,5,50,0,1
+2008-08-30,Boston College,ACC,A,Kent State,W,21,0,12,18,106,0,47,230,3,6,11,0,0,0,0
+2008-09-06,Boston College,ACC,H,Georgia Tech,L,16,19,18,36,142,1,41,120,0,7,9,2,16,1,2
+2008-09-20,Boston College,ACC,H,UCF,W,34,7,20,41,237,2,37,168,2,11,10,2,15,0,3
+2008-10-04,Boston College,ACC,A,North Carolina State,W,38,31,34,51,428,2,30,150,3,18,9,6,62,2,1
+2008-10-18,Boston College,ACC,H,Virginia Tech,W,28,23,16,32,218,1,37,82,2,10,9,3,19,2,3
+2008-10-25,Boston College,ACC,A,North Carolina,L,24,45,28,42,204,2,21,40,0,10,4,5,40,0,3
+2008-11-01,Boston College,ACC,H,Clemson,L,21,27,18,39,116,1,30,120,1,5,6,3,30,2,0
+2008-11-08,Boston College,ACC,H,Notre Dame,W,17,0,9,22,79,1,41,167,0,4,9,9,90,0,0
+2008-11-15,Boston College,ACC,A,Florida State,W,27,17,14,27,181,1,47,176,1,8,10,7,51,2,1
+2008-11-22,Boston College,ACC,A,Wake Forest,W,24,21,16,27,137,0,44,97,1,6,8,3,25,3,0
+2008-11-29,Boston College,ACC,H,Maryland,W,28,21,13,25,143,3,41,175,0,9,9,5,42,0,0
+2008-12-06,Boston College,ACC,N,Virginia Tech,L,12,30,17,43,263,1,24,45,0,10,3,4,38,2,2
+2008-12-31,Boston College,ACC,A,Vanderbilt,L,14,16,15,36,190,2,38,141,0,8,9,3,34,1,2
+2008-08-30,Ole Miss,SEC,H,Memphis,W,41,24,11,23,222,2,36,216,3,9,10,4,45,0,0
+2008-09-06,Ole Miss,SEC,A,Wake Forest,L,28,30,20,33,253,4,29,107,0,12,7,7,68,1,2
+2008-09-20,Ole Miss,SEC,H,Vanderbilt,L,17,23,12,25,184,0,40,201,0,8,8,7,82,2,4
+2008-09-27,Ole Miss,SEC,A,Florida,W,31,30,9,21,185,2,38,140,2,5,5,10,69,0,1
+2008-10-04,Ole Miss,SEC,H,South Carolina,L,24,31,21,32,243,1,33,118,2,11,8,2,20,2,1
+2008-10-18,Ole Miss,SEC,A,Alabama,L,20,24,17,33,201,2,34,158,0,8,5,4,27,1,2
+2008-10-25,Ole Miss,SEC,A,Arkansas,W,23,21,14,27,209,2,45,160,0,10,11,6,45,0,1
+2008-11-01,Ole Miss,SEC,H,Auburn,W,17,7,15,30,140,2,41,233,0,8,10,6,70,0,0
+2008-11-15,Ole Miss,SEC,H,Louisiana-Monroe,W,59,0,6,12,170,3,53,350,5,5,16,4,50,0,0
+2008-11-22,Ole Miss,SEC,A,LSU,W,31,13,17,26,307,2,45,102,2,13,8,7,51,1,0
+2008-11-28,Ole Miss,SEC,H,Mississippi State,W,45,0,16,24,241,4,44,220,2,11,11,3,40,1,1
+2009-01-02,Ole Miss,SEC,N,Texas Tech,W,47,34,18,29,292,3,45,223,2,14,11,2,15,2,1
+2008-09-06,Duke,ACC,H,Northwestern,L,20,24,29,47,294,0,44,178,2,14,14,5,39,1,0
+2008-09-13,Duke,ACC,H,Navy,W,41,31,25,36,317,3,34,79,1,16,4,3,12,1,0
+2008-09-27,Duke,ACC,H,Virginia,W,31,3,19,33,174,2,37,84,1,10,5,3,35,0,2
+2008-10-04,Duke,ACC,A,Georgia Tech,L,0,27,15,29,97,0,20,35,0,6,3,3,45,0,1
+2008-10-18,Duke,ACC,H,Miami (FL),L,31,49,16,34,191,2,44,142,2,8,9,8,53,1,0
+2008-10-25,Duke,ACC,A,Vanderbilt,W,10,7,21,36,222,1,36,28,0,9,6,7,68,1,0
+2008-11-01,Duke,ACC,A,Wake Forest,L,30,33,19,27,231,3,37,145,1,10,9,3,43,2,2
+2008-11-08,Duke,ACC,H,North Carolina State,L,17,27,37,52,317,2,28,94,0,18,5,5,48,0,0
+2008-11-15,Duke,ACC,A,Clemson,L,7,31,13,27,85,1,29,83,0,5,4,4,20,0,2
+2008-11-22,Duke,ACC,A,Virginia Tech,L,3,14,2,9,20,0,40,116,0,0,6,6,58,0,4
+2008-11-29,Duke,ACC,H,North Carolina,L,20,28,34,49,278,1,22,72,0,12,5,6,65,1,1
+2008-08-30,Kent State,MAC,H,Boston College,L,0,21,13,21,134,0,36,126,0,4,8,4,30,1,2
+2008-09-06,Kent State,MAC,A,Iowa State,L,28,48,11,24,167,3,43,243,1,6,12,5,34,4,0
+2008-09-20,Kent State,MAC,A,Louisiana,L,27,44,13,28,169,2,41,227,2,4,12,3,20,0,1
+2008-09-27,Kent State,MAC,A,Ball State,L,20,41,13,24,177,1,35,176,2,7,11,5,33,0,1
+2008-10-04,Kent State,MAC,H,Akron,L,27,30,17,31,157,2,58,256,1,6,17,6,56,2,0
+2008-10-11,Kent State,MAC,H,Ohio,L,19,26,15,25,200,1,37,192,2,7,12,7,60,1,2
+2008-10-25,Kent State,MAC,A,Miami (OH),W,54,21,12,20,163,1,54,305,6,9,12,6,40,0,0
+2008-11-01,Kent State,MAC,A,Bowling Green State,L,30,45,16,32,219,2,42,259,2,12,11,7,41,0,2
+2008-11-12,Kent State,MAC,H,Temple,W,41,38,18,26,232,1,59,329,4,9,18,7,71,2,1
+2008-11-18,Kent State,MAC,H,Northern Illinois,L,14,42,11,21,126,0,34,127,2,6,9,3,15,3,0
+2008-11-28,Kent State,MAC,A,Buffalo,W,24,21,13,23,114,1,44,312,2,8,16,5,40,0,0
+2008-09-05,Navy,Ind,A,Ball State,L,23,35,6,11,67,0,59,346,2,3,18,1,6,0,1
+2008-09-13,Navy,Ind,A,Duke,L,31,41,8,10,150,2,46,207,2,3,10,1,15,1,1
+2008-09-20,Navy,Ind,H,Rutgers,W,23,21,5,8,89,1,51,272,1,3,12,3,25,0,0
+2008-09-27,Navy,Ind,A,Wake Forest,W,24,17,3,4,51,0,59,292,3,2,12,6,43,2,0
+2008-10-04,Navy,Ind,A,Air Force,W,33,27,1,2,38,0,56,206,1,1,10,3,20,2,0
+2008-10-18,Navy,Ind,H,Pitt,L,21,42,4,8,57,0,47,194,3,1,10,4,37,1,1
+2008-10-25,Navy,Ind,H,SMU,W,34,7,0,0,0,0,77,404,5,0,23,1,5,1,0
+2008-11-01,Navy,Ind,H,Temple,W,33,27,8,12,106,1,57,293,3,5,17,3,45,0,1
+2008-11-15,Navy,Ind,H,Notre Dame,L,21,27,3,14,64,0,45,178,3,3,6,5,44,1,0
+2008-11-25,Navy,Ind,A,Northern Illinois,W,16,0,1,2,32,0,55,262,2,1,16,4,37,0,0
+2008-12-06,Navy,Ind,N,Army,W,34,0,3,10,62,1,57,368,2,3,17,1,1,0,0
+2008-12-20,Navy,Ind,N,Wake Forest,L,19,29,2,7,32,0,48,221,1,1,11,3,20,1,1
+2008-09-01,Fresno State,WAC,A,Rutgers,W,24,7,11,24,216,0,39,206,3,5,11,6,46,0,0
+2008-09-13,Fresno State,WAC,H,Wisconsin,L,10,13,15,27,225,1,33,118,0,10,5,2,15,1,1
+2008-09-20,Fresno State,WAC,A,Toledo,W,55,54,22,28,231,4,38,189,2,12,11,4,33,1,0
+2008-09-27,Fresno State,WAC,A,UCLA,W,36,31,21,31,236,3,40,207,1,16,7,10,77,0,1
+2008-10-04,Fresno State,WAC,H,Hawaii,L,29,32,12,24,204,0,49,318,3,9,14,0,0,3,3
+2008-10-11,Fresno State,WAC,H,Idaho,W,45,32,14,23,125,2,38,318,4,7,15,6,49,1,0
+2008-10-25,Fresno State,WAC,A,Utah State,W,30,28,25,36,257,1,33,154,2,14,8,7,53,0,0
+2008-11-01,Fresno State,WAC,A,Louisiana Tech,L,35,38,23,38,296,4,26,63,0,15,3,4,25,1,1
+2008-11-07,Fresno State,WAC,H,Nevada,L,28,41,23,43,260,2,16,106,1,11,6,8,57,2,2
+2008-11-15,Fresno State,WAC,H,New Mexico State,W,24,17,14,20,146,0,50,189,2,7,10,4,40,1,0
+2008-11-21,Fresno State,WAC,A,San Jose State,W,24,10,5,18,71,0,43,171,2,3,12,6,75,2,1
+2008-11-28,Fresno State,WAC,A,Boise State,L,10,61,23,37,211,0,35,83,0,11,6,4,48,0,2
+2008-12-20,Fresno State,WAC,N,Colorado State,L,35,40,13,23,186,1,39,248,4,7,12,3,25,0,1
+2008-09-06,Texas Tech,Big 12,A,Nevada,W,35,19,19,46,297,1,22,124,3,9,10,9,81,0,2
+2008-09-13,Texas Tech,Big 12,H,SMU,W,43,7,37,55,513,5,27,180,1,20,12,8,61,1,0
+2008-10-04,Texas Tech,Big 12,A,Kansas State,W,58,28,42,60,490,6,30,136,2,23,9,6,38,0,1
+2008-10-11,Texas Tech,Big 12,H,Nebraska,W,37,31,20,25,284,2,23,137,3,9,6,2,20,0,0
+2008-10-18,Texas Tech,Big 12,A,Texas A&M,W,43,25,44,56,450,3,23,111,3,25,7,10,68,1,2
+2008-10-25,Texas Tech,Big 12,A,Kansas,W,63,21,38,48,418,6,29,138,3,17,10,5,45,1,0
+2008-11-01,Texas Tech,Big 12,H,Texas,W,39,33,36,53,474,2,28,105,1,22,9,8,78,1,0
+2008-11-08,Texas Tech,Big 12,H,Oklahoma State,W,56,20,45,55,516,7,25,113,1,30,8,3,19,2,0
+2008-11-22,Texas Tech,Big 12,A,Oklahoma,L,21,65,33,55,361,3,22,45,0,15,3,8,47,2,1
+2008-11-29,Texas Tech,Big 12,H,Baylor,W,35,28,41,50,309,2,24,56,3,13,9,2,25,1,1
+2009-01-02,Texas Tech,Big 12,N,Ole Miss,L,34,47,36,58,364,4,14,105,0,18,6,8,62,0,2
+2008-09-06,Tulane,CUSA,A,Alabama,L,6,20,29,50,232,0,32,86,0,11,6,4,29,0,0
+2008-09-13,Tulane,CUSA,H,East Carolina,L,24,28,21,37,236,1,37,76,2,11,3,5,35,0,2
+2008-09-20,Tulane,CUSA,H,Louisiana-Monroe,W,24,10,19,34,272,1,45,182,2,12,11,7,70,0,1
+2008-09-25,Tulane,CUSA,H,SMU,W,34,27,19,24,254,3,42,220,1,10,10,10,105,1,1
+2008-10-04,Tulane,CUSA,H,Army,L,13,44,26,42,330,1,38,156,1,16,8,10,89,1,3
+2008-10-11,Tulane,CUSA,A,UTEP,L,21,24,11,22,94,1,39,318,2,6,11,5,74,0,0
+2008-10-25,Tulane,CUSA,H,Rice,L,17,42,24,43,340,2,27,34,0,14,6,3,28,1,2
+2008-11-01,Tulane,CUSA,A,LSU,L,10,35,12,24,91,0,30,72,0,4,4,6,33,1,0
+2008-11-08,Tulane,CUSA,A,Houston,L,14,42,20,44,207,0,27,61,2,9,4,7,42,0,0
+2008-11-15,Tulane,CUSA,H,UAB,L,24,41,17,34,263,1,26,98,2,13,5,5,39,0,4
+2008-11-22,Tulane,CUSA,A,Tulsa,L,7,56,16,31,159,0,35,73,1,7,6,5,55,2,0
+2008-11-29,Tulane,CUSA,A,Memphis,L,6,45,14,24,177,0,21,45,1,7,3,5,31,1,2
+2008-09-06,Houston,CUSA,A,Oklahoma State,L,37,56,35,62,387,4,22,96,1,21,7,5,35,1,0
+2008-09-13,Houston,CUSA,H,Air Force,L,28,31,34,57,362,4,28,172,0,20,7,10,87,1,1
+2008-09-20,Houston,CUSA,A,Colorado State,L,25,28,38,55,385,3,22,88,0,20,5,4,35,1,3
+2008-09-27,Houston,CUSA,A,East Carolina,W,41,24,37,45,401,3,39,220,2,16,8,5,35,3,1
+2008-10-09,Houston,CUSA,H,UAB,W,45,20,26,40,417,2,31,132,3,14,3,3,23,1,0
+2008-10-18,Houston,CUSA,A,SMU,W,44,38,28,37,404,2,38,131,4,19,8,8,89,1,1
+2008-10-28,Houston,CUSA,A,Marshall,L,23,37,22,42,317,2,30,106,1,14,7,6,40,1,2
+2008-11-08,Houston,CUSA,H,Tulane,W,42,14,30,43,394,4,37,299,2,18,12,12,143,2,1
+2008-11-15,Houston,CUSA,H,Tulsa,W,70,30,29,42,461,6,35,180,2,15,15,7,90,1,0
+2008-11-22,Houston,CUSA,H,UTEP,W,42,37,41,51,480,3,32,220,3,20,10,8,62,1,0
+2008-11-29,Houston,CUSA,A,Rice,L,42,56,30,54,494,5,27,140,1,17,8,3,28,1,1
+2008-12-31,Houston,CUSA,N,Air Force,W,34,28,22,33,252,1,32,163,3,10,9,4,25,2,1

@@ -1,0 +1,1431 @@
+Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions
+2011-09-03,Indiana,Big Ten,N,Ball State,L,20,27,20,32,272,1,32,103,1,11,6,3,44,0,0
+2011-09-10,Indiana,Big Ten,H,Virginia,L,31,34,16,31,171,1,41,148,2,11,8,6,39,2,1
+2011-09-24,Indiana,Big Ten,A,North Texas,L,21,24,30,52,354,2,27,50,0,14,6,7,50,1,1
+2011-10-01,Indiana,Big Ten,H,Penn State,L,10,16,22,45,184,1,31,72,0,8,5,6,79,1,1
+2011-10-08,Indiana,Big Ten,H,Illinois,L,20,41,17,36,219,0,42,83,1,10,8,1,5,1,1
+2011-10-15,Indiana,Big Ten,A,Wisconsin,L,7,59,8,20,64,0,45,223,1,4,8,6,55,1,2
+2011-10-22,Indiana,Big Ten,A,Iowa,L,24,45,16,24,197,1,47,217,2,10,11,12,114,0,0
+2011-10-29,Indiana,Big Ten,H,Northwestern,L,38,59,14,26,169,1,49,319,4,10,18,7,79,0,1
+2011-11-05,Indiana,Big Ten,A,Ohio State,L,20,34,11,21,174,1,49,159,1,10,9,6,62,0,1
+2011-11-19,Indiana,Big Ten,A,Michigan State,L,3,55,15,32,142,0,37,94,0,8,3,8,75,0,2
+2011-11-26,Indiana,Big Ten,H,Purdue,L,25,33,17,26,147,0,34,207,3,7,10,2,30,0,1
+2011-09-03,Florida State,ACC,H,Louisiana-Monroe,W,34,0,23,35,280,3,28,92,1,13,6,5,32,0,1
+2011-09-17,Florida State,ACC,H,Oklahoma,L,13,23,20,34,219,1,26,27,0,9,4,6,57,0,3
+2011-09-24,Florida State,ACC,A,Clemson,L,30,35,24,38,336,3,15,29,0,14,3,11,124,0,1
+2011-10-08,Florida State,ACC,A,Wake Forest,L,30,35,25,46,315,2,27,110,2,12,9,13,109,1,4
+2011-10-15,Florida State,ACC,A,Duke,W,41,16,9,14,239,2,45,242,3,5,14,5,59,2,0
+2011-10-22,Florida State,ACC,H,Maryland,W,41,16,18,26,264,1,44,218,4,12,11,8,54,0,1
+2011-10-29,Florida State,ACC,H,North Carolina State,W,34,0,25,34,321,2,37,123,2,16,7,5,42,0,1
+2011-11-03,Florida State,ACC,A,Boston College,W,38,7,12,16,180,1,41,127,4,9,9,3,15,1,0
+2011-11-12,Florida State,ACC,H,Miami (FL),W,23,19,17,23,196,1,29,63,0,8,4,10,76,0,0
+2011-11-19,Florida State,ACC,H,Virginia,L,13,14,18,31,200,1,33,186,0,8,8,11,94,1,0
+2011-11-26,Florida State,ACC,A,Florida,W,21,7,6,13,65,0,46,30,2,3,3,9,85,1,0
+2011-12-29,Florida State,ACC,N,Notre Dame,W,18,14,20,31,249,2,29,41,0,8,4,5,44,1,0
+2011-09-10,Iowa State,Big 12,H,Iowa,W,44,41,25,38,279,4,52,194,2,13,12,11,84,3,0
+2011-09-16,Iowa State,Big 12,A,Connecticut,W,24,20,19,30,240,2,34,101,1,8,4,11,91,0,3
+2011-10-01,Iowa State,Big 12,H,Texas,L,14,37,28,51,251,1,38,129,1,15,7,8,90,2,1
+2011-10-08,Iowa State,Big 12,A,Baylor,L,26,49,17,35,244,3,33,181,1,8,8,7,31,1,1
+2011-10-15,Iowa State,Big 12,A,Missouri,L,17,52,20,40,186,0,36,157,1,8,9,5,34,2,1
+2011-10-22,Iowa State,Big 12,H,Texas A&M,L,17,33,16,40,180,0,33,125,2,8,6,8,50,0,1
+2011-10-29,Iowa State,Big 12,A,Texas Tech,W,41,7,14,26,144,1,67,368,4,8,15,4,30,1,0
+2011-11-05,Iowa State,Big 12,H,Kansas,W,13,10,16,30,175,0,49,251,1,9,14,3,35,2,1
+2011-11-18,Iowa State,Big 12,H,Oklahoma State,W,37,31,31,60,376,3,41,192,2,20,10,8,65,1,2
+2011-11-26,Iowa State,Big 12,A,Oklahoma,L,6,26,13,28,125,1,36,120,0,5,8,7,34,3,1
+2011-12-03,Iowa State,Big 12,A,Kansas State,L,23,30,15,27,153,1,51,215,2,9,14,4,30,1,1
+2011-12-30,Iowa State,Big 12,N,Rutgers,L,13,27,17,39,220,0,29,91,1,10,7,4,25,1,2
+2011-09-10,Cincinnati,Big East,A,Tennessee,L,23,45,21,34,230,2,26,166,1,10,5,4,40,0,0
+2011-09-17,Cincinnati,Big East,H,Akron,W,59,14,13,21,178,1,45,164,4,8,10,4,45,1,0
+2011-09-22,Cincinnati,Big East,H,North Carolina State,W,44,14,25,34,263,2,46,240,3,11,11,3,35,0,1
+2011-10-01,Cincinnati,Big East,A,Miami (OH),W,27,0,16,30,251,1,40,147,2,8,9,5,40,2,2
+2011-10-15,Cincinnati,Big East,H,Louisville,W,25,16,18,26,152,1,36,178,2,5,11,4,37,0,1
+2011-10-22,Cincinnati,Big East,A,South Florida,W,37,34,26,41,383,3,34,118,2,16,6,10,73,1,2
+2011-11-05,Cincinnati,Big East,A,Pitt,W,26,23,19,32,214,0,37,152,2,11,6,2,20,0,2
+2011-11-12,Cincinnati,Big East,H,West Virginia,L,21,24,17,32,214,0,33,190,3,10,5,5,45,1,1
+2011-11-19,Cincinnati,Big East,A,Rutgers,L,3,20,12,31,158,0,28,67,0,5,5,5,42,1,1
+2011-11-26,Cincinnati,Big East,A,Syracuse,W,30,13,15,25,179,2,42,189,1,6,9,8,60,0,0
+2011-12-03,Cincinnati,Big East,H,Connecticut,W,35,27,15,35,217,3,40,102,0,10,7,9,92,1,2
+2011-12-31,Cincinnati,Big East,N,Vanderbilt,W,31,24,12,29,80,1,44,221,2,4,13,5,55,0,2
+2011-09-09,Arizona State,Pac-12,H,Missouri,W,37,30,25,33,388,4,31,104,1,13,9,12,110,1,0
+2011-09-17,Arizona State,Pac-12,A,Illinois,L,14,17,25,45,256,1,34,106,1,10,9,8,91,1,2
+2011-09-24,Arizona State,Pac-12,H,USC,W,43,22,25,32,223,2,36,169,3,13,6,5,48,0,0
+2011-10-01,Arizona State,Pac-12,H,Oregon State,W,35,20,24,37,258,2,34,108,2,12,6,6,74,1,3
+2011-10-08,Arizona State,Pac-12,A,Utah,W,35,14,25,41,325,3,38,74,1,16,5,10,77,0,0
+2011-10-15,Arizona State,Pac-12,A,Oregon,L,27,41,29,46,291,2,35,169,1,14,6,8,95,0,2
+2011-10-29,Arizona State,Pac-12,H,Colorado,W,48,14,19,29,315,2,36,207,4,14,11,11,106,1,0
+2011-11-05,Arizona State,Pac-12,A,UCLA,L,28,29,22,39,264,2,38,201,2,13,14,5,50,0,0
+2011-11-12,Arizona State,Pac-12,A,Washington State,L,27,37,28,44,351,1,25,60,1,16,3,6,41,1,0
+2011-11-19,Arizona State,Pac-12,H,Arizona,L,27,31,36,65,487,1,23,61,2,21,4,8,92,1,2
+2011-11-25,Arizona State,Pac-12,H,California,L,38,47,21,37,264,3,32,213,2,12,8,11,121,2,2
+2011-12-22,Arizona State,Pac-12,N,Boise State,L,24,56,30,47,395,2,21,-11,0,17,1,10,92,1,1
+2011-09-01,Syracuse,Big East,H,Wake Forest,W,36,29,20,28,178,3,30,121,2,6,7,8,76,1,0
+2011-09-17,Syracuse,Big East,A,USC,L,17,38,26,38,258,2,21,73,0,14,3,6,65,1,0
+2011-09-24,Syracuse,Big East,H,Toledo,W,33,30,16,25,213,2,41,153,1,9,9,4,29,1,0
+2011-10-01,Syracuse,Big East,H,Rutgers,L,16,19,15,32,169,0,32,126,1,8,5,8,70,2,3
+2011-10-08,Syracuse,Big East,A,Tulane,W,37,34,19,34,186,2,40,170,2,10,8,4,40,0,0
+2011-10-21,Syracuse,Big East,H,West Virginia,W,49,23,25,33,249,4,41,194,2,15,6,3,25,0,0
+2011-10-29,Syracuse,Big East,A,Louisville,L,10,27,22,36,162,1,24,84,0,6,7,12,99,0,0
+2011-11-05,Syracuse,Big East,A,Connecticut,L,21,28,24,39,275,2,34,90,1,15,6,5,35,1,2
+2011-11-11,Syracuse,Big East,H,South Florida,L,17,37,23,46,297,2,33,108,0,13,7,7,86,0,0
+2011-11-26,Syracuse,Big East,H,Cincinnati,L,13,30,19,38,203,1,40,170,0,12,9,6,55,0,1
+2011-12-03,Syracuse,Big East,A,Pitt,L,20,33,23,32,225,1,35,120,1,12,6,10,95,4,2
+2011-09-10,Penn State,Big Ten,H,Alabama,L,11,27,12,39,144,0,30,107,1,8,6,3,25,2,1
+2011-09-17,Penn State,Big Ten,A,Temple,W,14,10,22,37,216,0,36,92,2,12,5,7,69,0,1
+2011-09-24,Penn State,Big Ten,H,Eastern Michigan,W,34,6,23,35,364,4,25,104,0,17,3,4,20,2,1
+2011-10-01,Penn State,Big Ten,A,Indiana,W,16,10,16,36,271,1,50,193,0,12,9,5,60,2,1
+2011-10-08,Penn State,Big Ten,H,Iowa,W,13,3,15,26,164,1,46,231,0,9,12,5,50,0,1
+2011-10-15,Penn State,Big Ten,H,Purdue,W,23,18,10,23,185,0,48,182,2,9,11,5,43,0,1
+2011-10-22,Penn State,Big Ten,A,Northwestern,W,34,24,17,27,192,2,38,197,2,8,12,4,38,1,0
+2011-10-29,Penn State,Big Ten,H,Illinois,W,10,7,9,28,98,0,41,111,1,6,7,4,30,2,1
+2011-11-12,Penn State,Big Ten,H,Nebraska,L,14,17,17,35,209,0,43,166,2,9,10,3,32,1,0
+2011-11-19,Penn State,Big Ten,A,Ohio State,W,20,14,10,18,88,0,39,239,2,5,9,5,40,0,1
+2011-11-26,Penn State,Big Ten,A,Wisconsin,L,7,45,11,25,119,1,27,114,0,4,6,7,58,3,1
+2012-01-02,Penn State,Big Ten,N,Houston,L,14,30,7,27,137,1,44,169,1,3,10,6,55,0,3
+2011-09-03,California,Pac-12,N,Fresno State,W,36,21,16,35,266,2,35,151,2,9,6,11,90,1,1
+2011-09-10,California,Pac-12,A,Colorado,W,36,33,19,36,270,4,31,100,1,11,6,5,50,0,1
+2011-09-24,California,Pac-12,A,Washington,L,23,31,23,43,349,1,33,108,1,16,6,7,62,0,0
+2011-10-06,California,Pac-12,A,Oregon,L,15,43,28,60,321,1,27,144,0,14,7,7,60,0,0
+2011-10-13,California,Pac-12,H,USC,L,9,30,25,43,294,0,26,35,1,16,2,7,68,2,3
+2011-10-22,California,Pac-12,H,Utah,W,34,10,19,29,255,1,42,129,2,15,6,8,90,0,0
+2011-10-29,California,Pac-12,A,UCLA,L,14,31,14,30,199,0,33,134,2,8,7,5,60,1,4
+2011-11-05,California,Pac-12,H,Washington State,W,30,7,11,20,123,1,49,292,3,6,14,6,54,1,0
+2011-11-12,California,Pac-12,H,Oregon State,W,23,6,13,19,128,1,46,296,2,7,14,15,130,0,1
+2011-11-19,California,Pac-12,A,Stanford,L,28,31,20,29,280,2,34,85,1,12,7,7,73,2,0
+2011-11-25,California,Pac-12,A,Arizona State,W,47,38,19,26,237,1,40,247,4,7,14,5,60,1,0
+2011-12-28,California,Pac-12,N,Texas,L,10,21,19,33,188,0,36,7,1,11,2,5,50,4,1
+2011-09-03,Stanford,Pac-12,H,San Jose State,W,57,3,22,31,232,3,40,141,4,11,8,3,30,0,0
+2011-09-10,Stanford,Pac-12,A,Duke,W,44,14,21,30,299,4,30,205,2,13,10,3,25,0,1
+2011-09-17,Stanford,Pac-12,A,Arizona,W,37,10,20,31,325,2,39,242,2,15,7,5,45,0,0
+2011-10-01,Stanford,Pac-12,H,UCLA,W,45,19,24,28,240,3,41,202,3,10,13,7,80,0,0
+2011-10-08,Stanford,Pac-12,H,Colorado,W,48,7,27,35,392,3,35,161,3,19,8,5,65,1,1
+2011-10-15,Stanford,Pac-12,A,Washington State,W,44,14,23,36,336,4,30,139,1,15,6,3,14,1,1
+2011-10-22,Stanford,Pac-12,H,Washington,W,65,21,16,22,169,2,44,446,5,8,16,9,58,0,0
+2011-10-29,Stanford,Pac-12,A,USC,W,56,48,29,40,330,3,48,186,4,16,11,11,91,0,1
+2011-11-05,Stanford,Pac-12,A,Oregon State,W,38,13,21,31,207,3,48,300,2,13,15,6,55,0,1
+2011-11-12,Stanford,Pac-12,H,Oregon,L,30,53,27,41,256,3,35,129,1,13,8,5,40,3,2
+2011-11-19,Stanford,Pac-12,H,California,W,31,28,20,30,257,2,36,148,2,11,9,7,66,0,1
+2011-11-26,Stanford,Pac-12,H,Notre Dame,W,28,14,20,31,233,4,42,196,0,11,11,11,113,1,1
+2012-01-02,Stanford,Pac-12,N,Oklahoma State,L,38,41,27,31,347,2,50,243,3,17,9,6,35,1,1
+2011-09-10,Washington State,Pac-12,H,Nevada-Las Vegas,W,59,7,29,38,471,7,39,139,1,20,9,6,55,1,0
+2011-09-17,Washington State,Pac-12,A,San Diego State,L,24,42,20,42,368,3,28,51,0,12,4,7,69,2,2
+2011-10-01,Washington State,Pac-12,A,Colorado,W,31,27,32,49,376,3,27,79,1,18,7,10,125,0,1
+2011-10-08,Washington State,Pac-12,A,UCLA,L,25,28,28,40,235,2,40,154,0,16,8,3,15,0,1
+2011-10-15,Washington State,Pac-12,H,Stanford,L,14,44,24,39,209,0,28,48,2,10,5,4,42,1,0
+2011-10-22,Washington State,Pac-12,H,Oregon State,L,21,44,21,33,232,1,29,83,2,9,6,4,55,2,1
+2011-10-29,Washington State,Pac-12,A,Oregon,L,28,43,28,48,337,1,39,125,1,17,10,10,95,0,2
+2011-11-05,Washington State,Pac-12,A,California,L,7,30,15,37,155,0,35,69,1,7,5,7,61,0,0
+2011-11-12,Washington State,Pac-12,H,Arizona State,W,37,27,28,39,503,4,38,80,1,19,4,8,73,1,0
+2011-11-19,Washington State,Pac-12,H,Utah,L,27,30,22,50,336,3,24,47,0,15,3,6,50,1,4
+2011-11-26,Washington State,Pac-12,A,Washington,L,21,38,29,42,344,3,29,38,0,15,4,7,42,1,1
+2011-09-03,Illinois,Big Ten,H,Arkansas State,W,33,15,17,25,271,2,50,202,2,10,13,0,0,1,0
+2011-09-17,Illinois,Big Ten,H,Arizona State,W,17,14,11,15,135,1,45,105,1,7,7,5,33,2,1
+2011-09-24,Illinois,Big Ten,H,Western Michigan,W,23,20,17,26,167,1,52,296,1,8,12,5,55,1,1
+2011-10-01,Illinois,Big Ten,H,Northwestern,W,38,35,21,32,391,3,38,82,2,16,3,8,70,2,1
+2011-10-08,Illinois,Big Ten,A,Indiana,W,41,20,12,22,210,3,55,308,2,4,19,3,24,2,0
+2011-10-15,Illinois,Big Ten,H,Ohio State,L,7,17,20,34,169,1,35,116,0,8,8,3,41,1,2
+2011-10-22,Illinois,Big Ten,A,Purdue,L,14,21,26,41,245,0,33,121,2,13,6,8,50,0,1
+2011-10-29,Illinois,Big Ten,A,Penn State,L,7,10,13,24,94,1,50,192,0,9,6,6,50,2,2
+2011-11-12,Illinois,Big Ten,H,Michigan,L,14,31,17,34,177,0,33,37,2,8,6,4,25,2,1
+2011-11-19,Illinois,Big Ten,H,Wisconsin,L,17,28,22,31,152,0,34,149,2,9,8,6,63,1,3
+2011-11-26,Illinois,Big Ten,A,Minnesota,L,7,27,15,27,78,0,32,82,1,4,6,5,50,1,0
+2011-12-31,Illinois,Big Ten,N,UCLA,W,20,14,19,33,148,1,43,178,0,7,10,6,51,0,1
+2011-09-03,Georgia,SEC,H,Boise State,L,21,35,16,29,236,2,31,137,1,9,4,7,50,0,1
+2011-09-10,Georgia,SEC,H,South Carolina,L,42,45,19,29,248,4,38,188,1,12,10,5,35,2,1
+2011-09-24,Georgia,SEC,A,Ole Miss,W,27,13,17,26,268,2,56,207,1,11,11,4,30,0,1
+2011-10-01,Georgia,SEC,H,Mississippi State,W,24,10,13,25,160,2,49,155,1,10,8,8,57,0,3
+2011-10-08,Georgia,SEC,A,Tennessee,W,20,12,15,25,227,0,38,139,2,10,8,8,75,0,0
+2011-10-15,Georgia,SEC,A,Vanderbilt,W,33,28,22,38,326,3,34,117,0,15,6,11,90,0,1
+2011-10-29,Georgia,SEC,N,Florida,W,24,20,15,34,169,2,49,185,1,11,9,4,22,0,1
+2011-11-05,Georgia,SEC,H,New Mexico State,W,63,16,26,33,369,6,37,258,3,16,12,1,5,1,0
+2011-11-12,Georgia,SEC,H,Auburn,W,45,7,14,18,224,4,56,304,1,9,21,8,60,2,0
+2011-11-19,Georgia,SEC,H,Kentucky,W,19,10,16,29,162,1,46,155,0,7,9,5,41,3,1
+2011-11-26,Georgia,SEC,A,Georgia Tech,W,31,17,19,29,252,4,28,128,0,10,7,6,45,0,1
+2011-12-03,Georgia,SEC,N,LSU,L,10,42,20,51,218,1,34,78,0,11,5,9,87,1,2
+2012-01-02,Georgia,SEC,N,Michigan State,L,30,33,20,32,288,2,39,51,0,9,4,5,15,1,2
+2011-09-05,Maryland,ACC,H,Miami (FL),W,32,24,31,44,348,1,34,151,0,19,9,4,35,0,1
+2011-09-17,Maryland,ACC,H,West Virginia,L,31,37,34,52,289,1,35,188,3,15,11,7,75,0,3
+2011-09-24,Maryland,ACC,H,Temple,L,7,38,21,37,195,1,23,45,0,9,5,4,40,0,1
+2011-10-08,Maryland,ACC,A,Georgia Tech,L,16,21,6,24,87,0,41,246,2,4,12,1,5,0,2
+2011-10-15,Maryland,ACC,H,Clemson,L,45,56,17,35,177,3,48,291,2,8,15,4,40,0,1
+2011-10-22,Maryland,ACC,A,Florida State,L,16,41,20,38,272,1,37,59,1,10,7,7,59,0,0
+2011-10-29,Maryland,ACC,H,Boston College,L,17,28,16,41,179,1,36,197,1,9,9,3,23,0,2
+2011-11-05,Maryland,ACC,H,Virginia,L,13,31,20,43,269,1,22,84,0,12,3,4,25,2,3
+2011-11-12,Maryland,ACC,H,Notre Dame,L,21,45,20,31,219,1,35,145,2,12,6,5,36,0,1
+2011-11-19,Maryland,ACC,A,Wake Forest,L,10,31,20,42,186,1,34,229,0,8,12,3,20,1,0
+2011-11-26,Maryland,ACC,A,North Carolina State,L,41,56,12,23,166,1,39,199,3,7,8,5,65,3,2
+2011-09-01,Idaho,WAC,H,Bowling Green State,L,15,32,20,44,228,2,21,52,0,12,4,5,45,2,1
+2011-09-17,Idaho,WAC,A,Texas A&M,L,7,37,17,29,131,0,29,56,1,6,3,9,66,0,0
+2011-09-24,Idaho,WAC,H,Fresno State,L,24,48,23,43,239,2,24,44,1,11,4,7,85,1,0
+2011-10-01,Idaho,WAC,A,Virginia,L,20,21,17,41,193,1,31,103,0,6,4,5,46,0,2
+2011-10-08,Idaho,WAC,H,Louisiana Tech,L,11,24,19,47,244,0,22,47,0,10,4,5,46,1,3
+2011-10-15,Idaho,WAC,A,New Mexico State,L,24,31,22,35,167,0,29,114,1,8,5,2,17,3,1
+2011-10-29,Idaho,WAC,H,Hawaii,L,14,16,11,24,85,0,38,149,1,3,9,4,55,0,2
+2011-11-05,Idaho,WAC,A,San Jose State,W,32,29,13,20,162,1,46,183,3,7,8,3,14,2,1
+2011-11-12,Idaho,WAC,A,Brigham Young,L,7,42,11,21,50,0,33,191,1,2,6,11,105,0,2
+2011-11-19,Idaho,WAC,H,Utah State,L,42,49,27,39,275,1,53,175,3,13,9,10,87,1,1
+2011-12-03,Idaho,WAC,A,Nevada,L,3,56,13,36,178,0,27,128,0,10,3,9,78,0,3
+2011-09-03,Oklahoma,Big 12,H,Tulsa,W,47,14,39,54,417,1,46,246,5,21,12,2,20,1,0
+2011-09-17,Oklahoma,Big 12,A,Florida State,W,23,13,18,27,199,1,39,111,1,10,8,7,60,0,2
+2011-09-24,Oklahoma,Big 12,H,Missouri,W,38,28,35,48,448,3,39,144,2,20,10,4,15,0,2
+2011-10-01,Oklahoma,Big 12,H,Ball State,W,62,6,27,39,447,5,38,208,2,16,12,4,49,1,1
+2011-10-08,Oklahoma,Big 12,N,Texas,W,55,17,31,52,367,3,19,86,1,17,2,7,68,1,0
+2011-10-15,Oklahoma,Big 12,A,Kansas,W,47,17,29,48,363,3,40,247,2,16,12,3,15,2,1
+2011-10-22,Oklahoma,Big 12,H,Texas Tech,L,38,41,30,55,412,5,25,124,0,17,6,5,61,1,1
+2011-10-29,Oklahoma,Big 12,A,Kansas State,W,58,17,37,50,520,5,25,170,3,25,8,5,45,0,2
+2011-11-05,Oklahoma,Big 12,H,Texas A&M,W,41,25,18,39,255,2,47,149,3,7,12,3,25,1,0
+2011-11-19,Oklahoma,Big 12,A,Baylor,L,38,45,36,51,447,0,36,158,5,18,11,9,90,2,1
+2011-11-26,Oklahoma,Big 12,H,Iowa State,W,26,6,22,45,256,0,45,253,2,13,12,4,45,1,3
+2011-12-03,Oklahoma,Big 12,A,Oklahoma State,L,10,44,27,50,250,0,33,108,1,17,7,5,54,3,2
+2011-12-30,Oklahoma,Big 12,N,Iowa,W,31,14,16,25,161,1,37,114,3,9,5,6,45,0,1
+2011-09-09,Louisville,Big East,H,Florida International,L,17,24,32,45,363,2,41,83,0,16,7,4,25,1,1
+2011-09-17,Louisville,Big East,A,Kentucky,W,24,17,12,22,146,3,40,181,0,5,13,9,83,0,0
+2011-10-01,Louisville,Big East,H,Marshall,L,13,17,20,29,221,1,29,60,1,9,7,11,91,0,2
+2011-10-08,Louisville,Big East,A,North Carolina,L,7,14,19,31,173,1,38,100,0,10,8,9,78,0,1
+2011-10-15,Louisville,Big East,A,Cincinnati,L,16,25,19,32,201,0,33,70,0,9,4,6,44,0,1
+2011-10-21,Louisville,Big East,H,Rutgers,W,16,14,10,18,122,1,34,187,1,6,8,10,72,0,1
+2011-10-29,Louisville,Big East,H,Syracuse,W,27,10,17,24,198,2,33,145,1,7,7,9,69,1,0
+2011-11-05,Louisville,Big East,A,West Virginia,W,38,35,21,27,246,1,33,105,3,8,7,3,25,0,1
+2011-11-12,Louisville,Big East,H,Pitt,L,14,21,18,26,165,1,29,115,1,11,4,5,56,1,1
+2011-11-19,Louisville,Big East,A,Connecticut,W,34,20,15,23,173,0,43,126,3,6,8,7,50,2,1
+2011-11-25,Louisville,Big East,A,South Florida,W,34,24,19,28,241,3,41,132,1,10,6,3,25,1,0
+2011-12-27,Louisville,Big East,N,North Carolina State,L,24,31,24,43,274,2,35,117,1,9,8,4,52,0,3
+2011-09-10,Arkansas,SEC,H,New Mexico,W,52,3,26,39,373,2,42,259,4,18,14,7,45,1,1
+2011-09-17,Arkansas,SEC,H,Troy,W,38,28,23,36,303,2,40,151,3,13,10,4,27,2,1
+2011-09-24,Arkansas,SEC,A,Alabama,L,14,38,24,40,209,2,19,17,0,10,2,3,17,0,2
+2011-10-01,Arkansas,SEC,N,Texas A&M,W,42,38,30,51,510,3,30,71,2,19,6,14,112,0,0
+2011-10-08,Arkansas,SEC,H,Auburn,W,38,14,24,36,262,2,31,176,3,12,5,4,26,1,0
+2011-10-22,Arkansas,SEC,A,Ole Miss,W,29,24,13,28,232,0,29,206,3,8,9,2,4,1,0
+2011-10-29,Arkansas,SEC,A,Vanderbilt,W,31,28,27,43,316,1,26,72,1,16,5,7,59,2,0
+2011-11-05,Arkansas,SEC,H,South Carolina,W,44,28,20,38,299,2,35,136,2,12,6,9,60,0,1
+2011-11-12,Arkansas,SEC,H,Tennessee,W,49,7,17,27,245,3,30,254,3,10,10,7,58,1,1
+2011-11-19,Arkansas,SEC,H,Mississippi State,W,44,17,33,45,373,3,39,166,2,19,9,4,30,1,0
+2011-11-25,Arkansas,SEC,A,LSU,L,17,41,14,22,207,1,28,47,0,7,3,5,36,2,1
+2012-01-06,Arkansas,SEC,N,Kansas State,W,29,16,20,31,216,2,30,129,0,5,7,6,43,1,0
+2011-09-10,Washington,Pac-12,H,Hawaii,W,40,32,18,26,315,4,34,151,1,13,7,3,30,0,1
+2011-09-17,Washington,Pac-12,A,Nebraska,L,38,51,21,37,274,4,31,146,1,10,8,9,90,1,2
+2011-09-24,Washington,Pac-12,H,California,W,31,23,19,25,292,3,34,117,1,10,8,7,75,2,0
+2011-10-01,Washington,Pac-12,A,Utah,W,31,14,22,30,226,3,42,185,0,12,8,6,59,0,1
+2011-10-15,Washington,Pac-12,H,Colorado,W,52,24,23,30,267,4,40,295,3,14,16,6,65,1,0
+2011-10-22,Washington,Pac-12,A,Stanford,L,21,65,24,38,258,1,26,172,2,12,5,7,84,1,2
+2011-10-29,Washington,Pac-12,H,Arizona,W,42,31,17,31,310,1,43,179,5,12,9,8,73,0,3
+2011-11-05,Washington,Pac-12,H,Oregon,L,17,34,25,36,196,2,36,82,0,12,4,3,20,1,2
+2011-11-12,Washington,Pac-12,A,USC,L,17,40,21,31,198,1,24,46,1,8,4,12,91,0,0
+2011-11-19,Washington,Pac-12,A,Oregon State,L,21,38,16,30,155,3,38,160,0,10,10,3,21,1,2
+2011-11-26,Washington,Pac-12,H,Washington State,W,38,21,21,30,291,3,29,143,1,15,5,7,90,0,0
+2011-12-29,Washington,Pac-12,N,Baylor,L,56,67,23,37,438,4,37,182,4,15,10,1,15,2,0
+2011-09-03,Southern Mississippi,CUSA,H,Louisiana Tech,W,19,17,21,38,226,0,38,153,1,10,6,11,84,1,1
+2011-09-10,Southern Mississippi,CUSA,A,Marshall,L,20,26,25,49,309,2,28,75,0,14,4,5,20,3,3
+2011-09-24,Southern Mississippi,CUSA,A,Virginia,W,30,24,27,42,313,3,35,61,0,12,4,8,80,1,0
+2011-10-01,Southern Mississippi,CUSA,H,Rice,W,48,24,21,34,284,3,51,370,3,11,20,4,30,2,2
+2011-10-08,Southern Mississippi,CUSA,A,Navy,W,63,35,22,25,301,4,50,283,4,11,14,10,85,1,0
+2011-10-22,Southern Mississippi,CUSA,H,SMU,W,27,3,27,37,266,1,42,187,1,14,12,5,54,1,1
+2011-10-29,Southern Mississippi,CUSA,A,UTEP,W,31,13,17,31,190,3,42,260,1,10,11,5,65,0,1
+2011-11-05,Southern Mississippi,CUSA,A,East Carolina,W,48,28,17,26,162,1,30,137,1,9,5,8,65,1,0
+2011-11-12,Southern Mississippi,CUSA,H,UCF,W,30,29,27,49,392,2,23,127,0,12,8,13,103,1,0
+2011-11-17,Southern Mississippi,CUSA,A,UAB,L,31,34,22,31,272,3,35,251,1,12,15,5,41,1,1
+2011-11-26,Southern Mississippi,CUSA,H,Memphis,W,44,7,15,28,285,2,47,255,1,9,15,6,65,2,1
+2011-12-03,Southern Mississippi,CUSA,A,Houston,W,49,28,17,34,279,4,39,207,1,11,10,12,85,1,2
+2011-12-24,Southern Mississippi,CUSA,N,Nevada,W,24,17,18,42,165,2,40,171,0,8,9,8,35,2,0
+2011-09-03,Utah State,WAC,A,Auburn,L,38,42,22,31,221,0,53,227,5,12,14,6,38,0,0
+2011-09-24,Utah State,WAC,H,Colorado State,L,34,35,9,15,86,0,52,279,5,4,13,3,31,4,0
+2011-09-30,Utah State,WAC,A,Brigham Young,L,24,27,13,26,122,2,37,284,1,7,10,7,45,0,0
+2011-10-08,Utah State,WAC,H,Wyoming,W,63,19,18,24,245,5,52,303,4,11,16,8,80,1,0
+2011-10-15,Utah State,WAC,A,Fresno State,L,21,31,16,32,204,1,41,250,2,8,9,11,118,1,0
+2011-10-22,Utah State,WAC,H,Louisiana Tech,L,17,24,16,24,128,0,46,166,2,7,8,7,70,0,1
+2011-11-05,Utah State,WAC,A,Hawaii,W,35,31,14,25,239,3,31,194,2,8,6,10,113,1,1
+2011-11-12,Utah State,WAC,H,San Jose State,W,34,33,21,27,255,2,46,286,3,9,13,5,43,4,1
+2011-11-19,Utah State,WAC,A,Idaho,W,49,42,13,18,182,2,52,310,5,9,10,7,75,3,1
+2011-11-26,Utah State,WAC,H,Nevada,W,21,17,8,15,174,2,43,199,1,5,12,2,20,0,1
+2011-12-03,Utah State,WAC,A,New Mexico State,W,24,21,12,17,123,3,73,392,0,5,23,4,40,1,1
+2011-12-17,Utah State,WAC,N,Ohio,L,23,24,12,19,96,1,50,345,2,5,12,4,40,1,0
+2011-09-03,Missouri,Big 12,H,Miami (OH),W,17,6,17,26,129,1,37,162,1,4,11,9,81,0,1
+2011-09-09,Missouri,Big 12,A,Arizona State,L,30,37,26,42,319,2,37,182,1,10,9,11,114,0,0
+2011-09-24,Missouri,Big 12,A,Oklahoma,L,28,38,16,33,291,1,42,241,3,12,12,7,45,0,0
+2011-10-08,Missouri,Big 12,A,Kansas State,L,17,24,19,35,214,0,31,112,2,9,10,7,49,0,1
+2011-10-15,Missouri,Big 12,H,Iowa State,W,52,17,20,29,289,3,58,294,4,12,20,0,0,1,2
+2011-10-22,Missouri,Big 12,H,Oklahoma State,L,24,45,15,28,215,1,52,248,2,11,15,1,11,1,3
+2011-10-29,Missouri,Big 12,A,Texas A&M,W,38,31,16,24,198,2,50,284,3,8,17,5,45,1,0
+2011-11-05,Missouri,Big 12,A,Baylor,L,39,42,33,46,325,3,40,243,2,17,13,6,57,1,0
+2011-11-12,Missouri,Big 12,H,Texas,W,17,5,18,26,186,0,45,152,2,9,8,3,20,1,0
+2011-11-19,Missouri,Big 12,H,Texas Tech,W,31,27,13,20,172,2,49,318,2,8,14,4,30,1,0
+2011-11-26,Missouri,Big 12,N,Kansas,W,24,10,13,21,180,2,48,171,1,6,11,2,25,0,3
+2011-12-26,Missouri,Big 12,N,North Carolina,W,41,24,17,26,176,2,46,337,3,8,18,6,49,0,1
+2011-09-01,Wisconsin,Big Ten,H,Nevada-Las Vegas,W,51,17,11,15,258,2,38,241,5,7,13,6,50,0,0
+2011-09-10,Wisconsin,Big Ten,H,Oregon State,W,35,0,17,22,189,3,43,208,2,11,8,6,53,0,0
+2011-09-17,Wisconsin,Big Ten,N,Northern Illinois,W,49,7,24,34,355,3,47,266,4,15,18,6,45,0,1
+2011-10-01,Wisconsin,Big Ten,H,Nebraska,W,48,17,14,20,255,2,50,231,5,11,13,4,39,1,0
+2011-10-15,Wisconsin,Big Ten,H,Indiana,W,59,7,14,23,192,2,42,332,4,6,15,5,51,0,0
+2011-10-22,Wisconsin,Big Ten,A,Michigan State,L,31,37,14,21,223,2,41,220,2,12,11,6,40,0,2
+2011-10-29,Wisconsin,Big Ten,A,Ohio State,L,29,33,20,32,253,3,29,89,1,11,3,3,9,0,0
+2011-11-05,Wisconsin,Big Ten,H,Purdue,W,62,17,18,24,241,2,54,364,6,10,16,4,17,1,0
+2011-11-12,Wisconsin,Big Ten,A,Minnesota,W,42,13,16,17,178,4,45,283,2,10,19,3,30,0,0
+2011-11-19,Wisconsin,Big Ten,A,Illinois,W,28,17,10,13,90,1,45,195,3,5,10,6,52,1,0
+2011-11-26,Wisconsin,Big Ten,H,Penn State,W,45,7,19,29,186,2,49,264,4,13,13,4,35,1,0
+2011-12-03,Wisconsin,Big Ten,N,Michigan State,W,42,39,18,25,219,3,37,126,3,9,4,5,30,0,0
+2012-01-02,Wisconsin,Big Ten,N,Oregon,L,38,45,19,26,296,2,46,212,2,12,9,3,20,1,1
+2011-09-10,Nevada,WAC,A,Oregon,L,20,69,23,39,233,1,51,283,2,12,14,8,55,0,3
+2011-09-17,Nevada,WAC,A,San Jose State,W,17,14,11,21,112,0,60,261,2,7,14,4,40,2,2
+2011-09-24,Nevada,WAC,A,Texas Tech,L,34,35,15,24,250,2,46,312,2,12,13,6,40,0,0
+2011-10-01,Nevada,WAC,A,Boise State,L,10,30,9,20,123,1,35,59,0,4,3,10,101,1,1
+2011-10-08,Nevada,WAC,H,Nevada-Las Vegas,W,37,0,29,44,459,3,48,240,1,18,12,5,35,2,3
+2011-10-15,Nevada,WAC,H,New Mexico,W,49,7,24,31,260,0,52,338,6,11,23,9,75,2,1
+2011-10-22,Nevada,WAC,H,Fresno State,W,45,38,19,27,313,1,48,268,2,14,12,8,89,0,0
+2011-10-29,Nevada,WAC,A,New Mexico State,W,48,34,22,32,309,0,48,374,7,16,11,7,58,1,0
+2011-11-12,Nevada,WAC,H,Hawaii,W,42,28,26,37,305,4,54,223,2,17,16,5,39,2,0
+2011-11-19,Nevada,WAC,H,Louisiana Tech,L,20,24,23,34,212,1,57,253,1,10,15,8,61,1,1
+2011-11-26,Nevada,WAC,A,Utah State,L,17,21,27,35,315,1,39,185,1,14,10,9,64,1,0
+2011-12-03,Nevada,WAC,H,Idaho,W,56,3,29,37,361,6,45,226,1,15,17,6,45,0,0
+2011-12-24,Nevada,WAC,N,Southern Mississippi,L,17,24,13,28,117,0,45,196,2,6,9,5,33,1,1
+2011-09-10,North Carolina State,ACC,A,Wake Forest,L,27,34,24,41,315,3,26,109,0,12,5,4,33,0,1
+2011-09-22,North Carolina State,ACC,A,Cincinnati,L,14,44,28,40,348,2,22,-26,0,11,1,6,40,1,2
+2011-10-01,North Carolina State,ACC,H,Georgia Tech,L,35,45,23,36,192,3,38,195,1,13,8,7,35,0,1
+2011-10-08,North Carolina State,ACC,H,Central Michigan,W,38,24,20,36,244,4,45,162,1,12,11,5,40,1,0
+2011-10-22,North Carolina State,ACC,A,Virginia,W,28,14,20,36,231,3,38,114,0,8,5,3,30,0,2
+2011-10-29,North Carolina State,ACC,A,Florida State,L,0,34,19,34,130,0,28,36,0,8,3,3,20,1,2
+2011-11-05,North Carolina State,ACC,H,North Carolina,W,13,0,16,33,164,1,41,126,0,8,6,3,23,0,1
+2011-11-12,North Carolina State,ACC,A,Boston College,L,10,14,28,40,220,0,24,47,1,10,2,8,56,0,1
+2011-11-19,North Carolina State,ACC,H,Clemson,W,37,13,19,29,253,3,45,145,1,11,9,2,30,0,0
+2011-11-26,North Carolina State,ACC,H,Maryland,W,56,41,36,55,306,5,41,133,2,14,10,4,20,3,1
+2011-12-27,North Carolina State,ACC,N,Louisville,W,31,24,21,33,264,3,28,65,0,12,4,8,47,2,1
+2011-09-03,Hawaii,WAC,H,Colorado,W,34,17,20,33,178,1,32,165,3,10,7,5,50,1,0
+2011-09-10,Hawaii,WAC,A,Washington,L,32,40,31,45,333,1,22,55,3,15,4,7,52,1,1
+2011-09-17,Hawaii,WAC,A,Nevada-Las Vegas,L,20,40,25,41,284,2,16,6,1,13,2,5,54,4,0
+2011-10-01,Hawaii,WAC,A,Louisiana Tech,W,44,26,34,55,410,4,25,84,0,19,5,3,10,0,0
+2011-10-14,Hawaii,WAC,A,San Jose State,L,27,28,27,46,303,2,17,142,2,14,5,4,17,3,3
+2011-10-22,Hawaii,WAC,H,New Mexico State,W,45,34,26,41,276,2,37,227,4,14,14,2,10,1,0
+2011-10-29,Hawaii,WAC,A,Idaho,W,16,14,32,53,338,1,21,15,0,17,2,9,81,2,1
+2011-11-05,Hawaii,WAC,H,Utah State,L,31,35,27,44,227,2,32,180,2,14,8,10,72,1,0
+2011-11-12,Hawaii,WAC,A,Nevada,L,28,42,20,45,269,1,16,38,1,16,1,7,60,1,3
+2011-11-19,Hawaii,WAC,H,Fresno State,L,21,24,19,40,244,2,19,62,1,13,3,4,30,0,0
+2011-11-26,Hawaii,WAC,H,Tulane,W,35,23,30,48,358,2,24,124,3,17,8,4,20,0,2
+2011-12-03,Hawaii,WAC,H,Brigham Young,L,20,41,25,47,282,2,16,17,1,12,1,8,65,1,0
+2011-09-10,Rutgers,Big East,A,North Carolina,L,22,24,25,47,243,2,25,1,0,13,2,8,50,0,0
+2011-09-24,Rutgers,Big East,H,Ohio,W,38,26,22,35,251,3,43,159,1,13,8,6,45,1,1
+2011-10-01,Rutgers,Big East,A,Syracuse,W,19,16,29,57,297,1,38,5,0,14,4,13,73,3,1
+2011-10-08,Rutgers,Big East,H,Pitt,W,34,10,11,24,174,2,42,97,1,8,4,6,35,1,0
+2011-10-15,Rutgers,Big East,H,Navy,W,21,20,23,31,271,2,36,152,1,14,8,4,30,1,2
+2011-10-21,Rutgers,Big East,A,Louisville,L,14,16,18,33,207,1,30,91,1,12,4,8,40,0,3
+2011-10-29,Rutgers,Big East,H,West Virginia,L,31,41,18,47,235,2,39,151,2,11,9,5,35,2,2
+2011-11-05,Rutgers,Big East,H,South Florida,W,20,17,22,41,235,1,28,-7,0,11,3,8,55,1,1
+2011-11-12,Rutgers,Big East,N,Army,W,27,12,17,27,196,2,26,118,1,11,6,4,25,0,2
+2011-11-19,Rutgers,Big East,H,Cincinnati,W,20,3,21,35,182,0,45,203,2,9,12,9,70,0,0
+2011-11-26,Rutgers,Big East,A,Connecticut,L,22,40,22,40,439,2,26,-9,1,14,3,5,33,3,3
+2011-12-30,Rutgers,Big East,N,Iowa State,W,27,13,13,24,196,1,42,173,2,8,9,5,35,0,0
+2011-09-10,Central Michigan,MAC,A,Kentucky,L,13,27,24,45,295,1,32,88,0,15,5,3,34,0,2
+2011-09-17,Central Michigan,MAC,A,Western Michigan,L,14,44,20,36,215,0,29,147,1,12,8,0,0,2,0
+2011-09-24,Central Michigan,MAC,A,Michigan State,L,7,45,12,33,91,1,18,21,0,5,3,3,26,0,4
+2011-10-01,Central Michigan,MAC,H,Northern Illinois,W,48,41,17,28,387,4,32,176,2,10,8,6,65,0,0
+2011-10-08,Central Michigan,MAC,A,North Carolina State,L,24,38,19,32,245,2,25,182,1,9,7,5,52,1,4
+2011-10-15,Central Michigan,MAC,H,Eastern Michigan,L,28,35,33,50,351,3,32,98,0,20,9,5,45,0,1
+2011-10-22,Central Michigan,MAC,A,Ball State,L,27,31,30,45,436,3,29,133,0,19,6,8,85,2,1
+2011-10-29,Central Michigan,MAC,A,Akron,W,23,22,17,31,191,1,32,192,1,11,6,2,20,0,0
+2011-11-04,Central Michigan,MAC,A,Kent State,L,21,24,26,42,316,3,27,86,0,14,6,1,5,0,2
+2011-11-10,Central Michigan,MAC,H,Ohio,L,28,43,26,52,362,3,18,65,1,16,5,10,89,0,1
+2011-11-18,Central Michigan,MAC,H,Toledo,L,17,44,20,37,233,2,24,113,0,11,6,5,53,0,1
+2011-09-03,Michigan,Big Ten,H,Western Michigan,W,34,10,9,13,98,0,26,190,3,5,9,1,5,0,0
+2011-09-10,Michigan,Big Ten,H,Notre Dame,W,35,31,11,24,338,4,26,114,1,10,5,9,82,0,3
+2011-09-17,Michigan,Big Ten,H,Eastern Michigan,W,31,3,7,18,95,2,50,376,2,5,19,2,17,0,1
+2011-09-24,Michigan,Big Ten,H,San Diego State,W,28,7,8,17,93,0,45,320,4,3,14,4,25,2,2
+2011-10-01,Michigan,Big Ten,H,Minnesota,W,58,0,18,25,217,3,48,363,3,10,19,3,24,0,0
+2011-10-08,Michigan,Big Ten,A,Northwestern,W,42,24,19,28,362,2,50,179,4,14,8,5,65,0,3
+2011-10-15,Michigan,Big Ten,A,Michigan State,L,14,28,12,31,168,1,36,82,1,6,8,5,40,0,1
+2011-10-29,Michigan,Big Ten,H,Purdue,W,36,14,10,17,196,0,53,339,4,7,17,5,51,0,2
+2011-11-05,Michigan,Big Ten,A,Iowa,L,16,24,18,38,196,2,37,127,0,10,10,3,20,1,1
+2011-11-12,Michigan,Big Ten,A,Illinois,W,31,14,8,15,139,1,48,223,3,6,8,4,29,2,1
+2011-11-19,Michigan,Big Ten,H,Nebraska,W,45,17,11,19,180,2,61,238,4,6,14,5,45,0,1
+2011-11-26,Michigan,Big Ten,H,Ohio State,W,40,34,14,17,167,3,50,277,2,8,14,3,29,1,0
+2012-01-03,Michigan,Big Ten,N,Virginia Tech,W,23,20,10,22,128,2,30,56,0,7,3,4,26,0,1
+2011-09-03,New Mexico,MWC,H,Colorado State,L,10,14,20,31,179,1,48,150,0,7,12,9,65,3,0
+2011-09-10,New Mexico,MWC,A,Arkansas,L,3,52,22,38,202,0,28,95,0,11,4,3,33,0,0
+2011-09-17,New Mexico,MWC,H,Texas Tech,L,13,59,10,29,228,0,37,109,1,7,7,8,45,2,1
+2011-10-01,New Mexico,MWC,H,New Mexico State,L,28,42,22,36,265,1,35,163,3,14,8,1,15,0,1
+2011-10-15,New Mexico,MWC,A,Nevada,L,7,49,11,29,89,0,35,168,1,2,11,7,56,1,1
+2011-10-22,New Mexico,MWC,A,Texas Christian,L,0,69,8,11,21,0,37,64,0,0,3,7,50,3,0
+2011-10-29,New Mexico,MWC,H,Air Force,L,0,42,17,28,109,0,27,114,0,5,9,10,67,1,2
+2011-11-05,New Mexico,MWC,A,San Diego State,L,7,35,10,20,88,0,29,74,1,5,3,9,67,0,2
+2011-11-12,New Mexico,MWC,H,Nevada-Las Vegas,W,21,14,15,24,274,1,41,141,2,11,7,4,20,1,0
+2011-11-19,New Mexico,MWC,A,Wyoming,L,10,31,18,28,162,0,34,134,1,8,7,9,54,1,1
+2011-12-03,New Mexico,MWC,A,Boise State,L,0,45,16,28,145,0,28,52,0,2,6,5,43,0,0
+2011-09-03,Notre Dame,Ind,H,South Florida,L,20,23,31,49,391,2,29,117,1,18,5,8,73,2,3
+2011-09-10,Notre Dame,Ind,A,Michigan,L,31,35,27,39,315,3,33,198,1,15,9,9,75,3,2
+2011-09-17,Notre Dame,Ind,H,Michigan State,W,31,13,18,26,161,1,32,114,2,8,6,6,53,2,1
+2011-09-24,Notre Dame,Ind,A,Pitt,W,15,12,24,41,216,1,32,182,1,11,10,8,85,1,1
+2011-10-01,Notre Dame,Ind,A,Purdue,W,38,10,25,41,264,3,40,287,2,17,15,8,85,0,0
+2011-10-08,Notre Dame,Ind,H,Air Force,W,59,33,27,36,294,4,29,266,4,16,10,6,54,0,0
+2011-10-22,Notre Dame,Ind,H,USC,L,17,31,27,43,226,0,14,41,1,12,5,5,48,2,1
+2011-10-29,Notre Dame,Ind,H,Navy,W,56,14,19,25,260,1,35,182,7,9,11,6,51,1,1
+2011-11-05,Notre Dame,Ind,A,Wake Forest,W,24,17,14,24,166,2,38,175,1,9,10,3,37,0,2
+2011-11-12,Notre Dame,Ind,A,Maryland,W,45,21,30,38,296,2,46,212,3,14,15,3,35,0,0
+2011-11-19,Notre Dame,Ind,H,Boston College,W,16,14,24,39,256,0,39,161,1,13,6,6,65,0,1
+2011-11-26,Notre Dame,Ind,A,Stanford,L,14,28,17,37,252,1,31,57,1,11,5,10,68,1,2
+2011-12-29,Notre Dame,Ind,N,Florida State,L,14,18,19,35,187,1,35,93,0,9,9,5,39,0,3
+2011-09-03,East Carolina,CUSA,N,South Carolina,L,37,56,37,56,260,4,28,85,1,13,8,3,30,4,1
+2011-09-10,East Carolina,CUSA,H,Virginia Tech,L,10,17,20,38,127,0,16,-15,1,6,2,0,0,0,1
+2011-09-24,East Carolina,CUSA,H,UAB,W,28,23,35,42,361,3,32,181,1,21,10,4,60,4,3
+2011-10-01,East Carolina,CUSA,H,North Carolina,L,20,35,41,58,417,2,21,73,0,21,5,6,22,2,2
+2011-10-08,East Carolina,CUSA,A,Houston,L,3,56,26,44,263,0,30,21,0,14,6,7,70,0,4
+2011-10-15,East Carolina,CUSA,A,Memphis,W,35,17,30,39,367,3,36,157,2,17,5,9,92,2,0
+2011-10-22,East Carolina,CUSA,A,Navy,W,38,35,40,45,372,2,44,132,3,20,12,2,20,0,0
+2011-10-29,East Carolina,CUSA,H,Tulane,W,34,13,30,47,336,1,34,125,3,17,6,10,83,1,1
+2011-11-05,East Carolina,CUSA,H,Southern Mississippi,L,28,48,27,42,309,2,47,111,2,16,7,3,35,0,2
+2011-11-12,East Carolina,CUSA,A,UTEP,L,17,22,18,34,133,1,34,121,1,9,6,5,40,0,2
+2011-11-19,East Carolina,CUSA,H,UCF,W,38,31,19,31,203,4,35,186,1,6,9,5,43,1,1
+2011-11-26,East Carolina,CUSA,A,Marshall,L,27,34,32,48,285,3,40,132,0,19,6,5,55,1,3
+2011-09-03,Pitt,Big East,H,Buffalo,W,35,16,16,28,179,1,38,231,4,11,9,5,53,1,0
+2011-09-17,Pitt,Big East,A,Iowa,L,27,31,24,34,285,3,37,137,0,11,8,4,37,1,2
+2011-09-24,Pitt,Big East,H,Notre Dame,L,12,15,22,32,165,1,38,103,0,8,9,9,55,0,0
+2011-09-29,Pitt,Big East,H,South Florida,W,44,17,22,33,216,1,58,307,4,15,16,3,25,1,0
+2011-10-08,Pitt,Big East,A,Rutgers,L,10,34,16,33,137,0,35,134,1,7,5,9,54,0,4
+2011-10-15,Pitt,Big East,H,Utah,L,14,26,9,30,50,0,31,70,0,2,7,8,75,1,2
+2011-10-26,Pitt,Big East,H,Connecticut,W,35,20,30,43,433,3,28,96,2,20,6,8,70,0,0
+2011-11-05,Pitt,Big East,H,Cincinnati,L,23,26,24,38,218,1,37,179,1,11,8,4,20,1,1
+2011-11-12,Pitt,Big East,A,Louisville,W,21,14,16,23,196,1,45,200,2,9,12,0,0,2,0
+2011-11-25,Pitt,Big East,A,West Virginia,L,20,21,12,23,137,0,58,159,2,9,7,9,60,0,1
+2011-12-03,Pitt,Big East,H,Syracuse,W,33,20,25,35,259,1,35,74,1,12,4,2,20,0,1
+2012-01-07,Pitt,Big East,N,SMU,L,6,28,21,32,195,0,30,10,0,10,1,5,24,1,1
+2011-09-03,Akron,MAC,A,Ohio State,L,0,42,7,19,55,0,27,35,0,2,3,4,35,0,1
+2011-09-10,Akron,MAC,H,Temple,L,3,41,16,34,227,0,28,42,0,9,3,8,60,1,1
+2011-09-17,Akron,MAC,A,Cincinnati,L,14,59,17,36,220,2,34,129,0,9,7,9,78,2,4
+2011-10-01,Akron,MAC,A,Eastern Michigan,L,23,31,15,29,163,2,34,139,1,8,9,6,47,1,0
+2011-10-08,Akron,MAC,H,Florida International,L,17,27,11,23,157,0,31,105,2,7,4,5,35,1,1
+2011-10-22,Akron,MAC,H,Ohio,L,20,37,17,33,168,2,35,81,0,8,5,6,56,1,0
+2011-10-29,Akron,MAC,H,Central Michigan,L,22,23,26,41,269,2,33,138,1,13,9,3,35,0,1
+2011-11-03,Akron,MAC,A,Miami (OH),L,3,35,7,32,90,0,35,111,0,5,6,3,23,1,1
+2011-11-12,Akron,MAC,H,Kent State,L,3,35,19,40,165,0,27,58,0,9,4,3,39,1,0
+2011-11-19,Akron,MAC,A,Buffalo,L,10,51,17,35,171,1,29,68,0,8,5,2,30,1,1
+2011-11-25,Akron,MAC,A,Western Michigan,L,19,68,5,25,35,0,48,173,1,1,12,5,34,4,1
+2011-09-17,Wyoming,MWC,A,Bowling Green State,W,28,27,25,39,267,1,34,129,2,11,6,4,29,1,0
+2011-09-24,Wyoming,MWC,H,Nebraska,L,14,38,18,34,168,2,31,137,0,11,5,7,59,0,1
+2011-10-08,Wyoming,MWC,A,Utah State,L,19,63,28,46,265,0,28,108,2,14,6,4,40,1,1
+2011-10-15,Wyoming,MWC,H,Nevada-Las Vegas,W,41,14,11,20,124,3,45,231,1,5,12,1,5,1,0
+2011-10-29,Wyoming,MWC,A,San Diego State,W,30,27,25,36,341,2,44,159,2,10,10,8,61,0,0
+2011-11-05,Wyoming,MWC,H,Texas Christian,L,20,31,22,36,247,2,28,106,0,10,4,1,15,0,0
+2011-11-12,Wyoming,MWC,A,Air Force,W,25,17,17,30,139,1,43,212,2,11,10,6,74,2,0
+2011-11-19,Wyoming,MWC,H,New Mexico,W,31,10,23,38,212,1,40,250,3,13,11,1,15,1,0
+2011-11-26,Wyoming,MWC,A,Boise State,L,14,36,17,25,78,1,30,113,0,3,7,4,30,1,1
+2011-12-03,Wyoming,MWC,A,Colorado State,W,22,19,11,23,191,2,41,225,1,6,11,8,98,1,2
+2011-12-17,Wyoming,MWC,N,Temple,L,15,37,20,30,127,2,33,140,0,7,10,5,56,0,3
+2011-09-10,Georgia Tech,ACC,A,Middle Tennessee State,W,49,21,6,10,214,2,65,382,5,5,24,3,23,1,0
+2011-09-17,Georgia Tech,ACC,H,Kansas,W,66,24,4,7,164,2,50,604,7,3,21,5,40,0,0
+2011-09-24,Georgia Tech,ACC,H,North Carolina,W,35,28,10,14,184,1,58,312,3,5,15,3,23,1,1
+2011-10-01,Georgia Tech,ACC,A,North Carolina State,W,45,35,4,12,117,2,52,296,3,3,13,4,45,1,0
+2011-10-08,Georgia Tech,ACC,H,Maryland,W,21,16,6,21,114,0,60,272,3,5,16,8,63,0,1
+2011-10-15,Georgia Tech,ACC,A,Virginia,L,21,24,2,8,24,0,53,272,2,1,16,5,40,0,2
+2011-10-22,Georgia Tech,ACC,A,Miami (FL),L,7,24,7,14,77,0,48,134,1,5,9,2,10,2,1
+2011-10-29,Georgia Tech,ACC,H,Clemson,W,31,17,4,9,60,0,67,383,4,1,20,4,23,1,1
+2011-11-10,Georgia Tech,ACC,H,Virginia Tech,L,26,37,5,11,97,0,49,243,3,3,10,3,35,0,0
+2011-11-19,Georgia Tech,ACC,A,Duke,W,38,31,6,13,185,0,58,364,5,5,17,7,59,2,0
+2011-11-26,Georgia Tech,ACC,H,Georgia,L,17,31,6,17,112,0,53,243,2,5,14,5,36,0,2
+2011-12-31,Georgia Tech,ACC,N,Utah,L,27,30,11,15,137,1,57,312,1,4,14,4,30,1,0
+2011-09-01,Wake Forest,ACC,A,Syracuse,L,29,36,24,41,326,3,43,80,0,14,7,10,94,0,1
+2011-09-10,Wake Forest,ACC,H,North Carolina State,W,34,27,23,36,337,2,34,101,2,15,7,4,42,0,1
+2011-10-01,Wake Forest,ACC,A,Boston College,W,27,19,20,30,288,1,33,104,2,11,5,2,10,0,1
+2011-10-08,Wake Forest,ACC,H,Florida State,W,35,30,22,36,263,4,38,128,0,11,5,10,87,0,0
+2011-10-15,Wake Forest,ACC,H,Virginia Tech,L,17,38,20,36,261,2,31,59,0,9,8,2,15,0,1
+2011-10-22,Wake Forest,ACC,A,Duke,W,24,23,15,25,215,2,26,90,1,8,5,5,47,0,0
+2011-10-29,Wake Forest,ACC,A,North Carolina,L,24,49,22,37,210,0,26,121,3,9,9,4,30,1,4
+2011-11-05,Wake Forest,ACC,H,Notre Dame,L,17,24,17,24,187,1,37,110,1,13,7,6,55,1,0
+2011-11-12,Wake Forest,ACC,A,Clemson,L,28,31,24,37,172,1,35,145,2,10,9,1,10,0,0
+2011-11-19,Wake Forest,ACC,H,Maryland,W,31,10,20,32,320,3,48,194,1,11,12,5,50,0,0
+2011-11-26,Wake Forest,ACC,H,Vanderbilt,L,7,41,19,38,183,1,32,146,0,6,11,4,37,1,0
+2011-12-30,Wake Forest,ACC,N,Mississippi State,L,17,23,26,48,224,0,38,63,2,12,7,5,39,0,0
+2011-09-03,Arkansas State,Sun Belt,A,Illinois,L,15,33,20,32,290,0,32,60,1,12,3,2,8,2,1
+2011-09-10,Arkansas State,Sun Belt,H,Memphis,W,47,3,29,33,375,4,46,236,2,17,11,8,104,1,1
+2011-09-17,Arkansas State,Sun Belt,A,Virginia Tech,L,7,26,16,36,205,0,31,64,1,8,5,6,40,0,2
+2011-10-01,Arkansas State,Sun Belt,A,Western Kentucky,W,26,22,38,50,419,2,28,25,1,21,3,9,91,0,0
+2011-10-08,Arkansas State,Sun Belt,A,Louisiana-Monroe,W,24,19,27,43,261,1,25,84,1,10,6,13,130,1,3
+2011-10-18,Arkansas State,Sun Belt,H,Florida International,W,34,16,14,24,147,1,45,238,3,7,12,7,66,0,1
+2011-10-29,Arkansas State,Sun Belt,H,North Texas,W,37,14,28,42,322,3,38,218,2,15,13,5,31,1,1
+2011-11-05,Arkansas State,Sun Belt,A,Florida Atlantic,W,39,21,26,39,257,1,49,172,4,14,12,4,35,0,1
+2011-11-12,Arkansas State,Sun Belt,H,Louisiana,W,30,21,21,33,228,2,45,169,1,8,10,12,83,1,0
+2011-11-19,Arkansas State,Sun Belt,A,Middle Tennessee State,W,45,19,29,41,333,2,51,203,4,15,11,4,28,2,1
+2011-12-03,Arkansas State,Sun Belt,H,Troy,W,45,14,25,37,356,3,41,133,1,15,10,6,61,0,1
+2012-01-08,Arkansas State,Sun Belt,N,Northern Illinois,L,20,38,30,58,353,1,29,28,1,16,3,7,58,2,3
+2011-09-01,Mississippi State,SEC,A,Memphis,W,59,14,19,31,336,3,38,309,5,12,11,6,30,1,0
+2011-09-10,Mississippi State,SEC,A,Auburn,L,34,41,21,34,198,1,63,333,2,11,19,10,75,0,1
+2011-09-15,Mississippi State,SEC,H,LSU,L,6,19,15,25,141,0,34,52,0,7,4,6,46,0,2
+2011-09-24,Mississippi State,SEC,H,Louisiana Tech,W,26,20,14,29,164,1,44,176,1,8,11,4,45,0,1
+2011-10-01,Mississippi State,SEC,A,Georgia,L,10,24,19,33,157,0,34,56,0,6,7,8,50,1,2
+2011-10-08,Mississippi State,SEC,A,UAB,W,21,3,17,23,212,3,43,204,0,8,12,2,25,0,0
+2011-10-15,Mississippi State,SEC,H,South Carolina,L,12,14,11,30,165,1,37,131,0,9,7,1,7,0,2
+2011-10-29,Mississippi State,SEC,A,Kentucky,W,28,16,15,21,264,2,32,134,2,11,9,3,24,2,1
+2011-11-12,Mississippi State,SEC,H,Alabama,L,7,24,15,30,119,1,29,12,0,4,3,6,49,0,0
+2011-11-19,Mississippi State,SEC,A,Arkansas,L,17,44,15,31,127,1,32,84,1,9,4,3,28,1,0
+2011-11-26,Mississippi State,SEC,H,Ole Miss,W,31,3,8,13,70,2,48,247,2,3,12,8,80,0,1
+2011-12-30,Mississippi State,SEC,N,Wake Forest,W,23,17,12,20,129,1,39,253,2,4,9,6,48,2,2
+2011-09-01,Nevada-Las Vegas,MWC,A,Wisconsin,L,17,51,18,27,146,2,38,146,0,8,9,7,65,0,0
+2011-09-10,Nevada-Las Vegas,MWC,A,Washington State,L,7,59,11,20,60,0,34,98,0,2,6,10,85,1,0
+2011-09-17,Nevada-Las Vegas,MWC,H,Hawaii,W,40,20,18,30,179,2,42,186,3,9,9,5,40,0,1
+2011-10-08,Nevada-Las Vegas,MWC,A,Nevada,L,0,37,1,14,8,0,39,102,0,0,6,5,38,1,1
+2011-10-15,Nevada-Las Vegas,MWC,A,Wyoming,L,14,41,9,21,104,0,48,153,2,3,9,9,73,1,1
+2011-10-29,Nevada-Las Vegas,MWC,H,Colorado State,W,38,35,11,16,117,2,46,244,2,8,10,5,60,0,1
+2011-11-05,Nevada-Las Vegas,MWC,H,Boise State,L,21,48,14,24,137,2,35,182,1,6,9,9,84,0,0
+2011-11-12,Nevada-Las Vegas,MWC,A,New Mexico,L,14,21,8,14,61,0,46,268,2,3,12,9,73,1,0
+2011-11-19,Nevada-Las Vegas,MWC,A,Air Force,L,17,45,6,14,41,0,58,227,2,2,14,6,52,1,1
+2011-11-26,Nevada-Las Vegas,MWC,H,San Diego State,L,14,31,15,28,120,0,34,141,2,7,7,1,5,0,1
+2011-12-03,Nevada-Las Vegas,MWC,A,Texas Christian,L,9,56,4,12,48,0,42,116,0,2,4,6,64,0,1
+2011-09-03,South Florida,Big East,A,Notre Dame,W,23,20,18,30,128,1,42,126,0,8,7,9,43,0,0
+2011-09-10,South Florida,Big East,H,Ball State,W,37,7,31,50,372,1,38,147,2,21,12,3,38,0,2
+2011-09-24,South Florida,Big East,H,UTEP,W,52,24,15,24,202,2,45,373,4,8,16,8,67,0,0
+2011-09-29,South Florida,Big East,A,Pitt,L,17,44,18,36,223,0,38,202,2,10,12,6,50,2,0
+2011-10-15,South Florida,Big East,A,Connecticut,L,10,16,15,27,164,0,36,175,1,8,10,9,89,2,2
+2011-10-22,South Florida,Big East,H,Cincinnati,L,34,37,31,48,409,3,35,99,1,19,7,10,109,3,1
+2011-11-05,South Florida,Big East,A,Rutgers,L,17,20,14,34,160,1,52,221,1,6,15,5,46,1,1
+2011-11-11,South Florida,Big East,A,Syracuse,W,37,17,23,35,254,0,43,236,4,11,12,10,84,1,0
+2011-11-19,South Florida,Big East,H,Miami (FL),L,3,6,16,27,133,0,30,116,0,8,7,4,40,0,1
+2011-11-25,South Florida,Big East,H,Louisville,L,24,34,21,36,247,2,31,64,1,12,3,3,18,2,1
+2011-12-01,South Florida,Big East,H,West Virginia,L,27,30,21,44,226,1,39,171,1,11,10,9,65,1,1
+2011-09-03,Buffalo,MAC,A,Pitt,L,16,35,32,49,276,0,44,127,2,18,7,6,83,0,1
+2011-09-17,Buffalo,MAC,A,Ball State,L,25,28,14,24,176,2,37,177,2,6,10,6,55,0,0
+2011-09-24,Buffalo,MAC,H,Connecticut,L,3,17,18,40,193,0,31,126,0,7,7,4,48,0,1
+2011-10-01,Buffalo,MAC,A,Tennessee,L,10,41,10,25,116,0,28,148,1,5,5,3,15,1,0
+2011-10-08,Buffalo,MAC,H,Ohio,W,38,37,23,39,343,2,41,167,3,15,8,6,41,0,0
+2011-10-15,Buffalo,MAC,A,Temple,L,0,34,9,26,84,0,28,71,0,6,4,1,15,0,1
+2011-10-22,Buffalo,MAC,H,Northern Illinois,L,30,31,35,54,404,3,38,168,1,21,10,7,70,3,2
+2011-10-29,Buffalo,MAC,A,Miami (OH),L,13,41,24,41,281,1,34,77,1,13,4,7,68,1,2
+2011-11-12,Buffalo,MAC,A,Eastern Michigan,L,17,30,18,32,149,0,32,115,2,7,7,6,58,0,0
+2011-11-19,Buffalo,MAC,H,Akron,W,51,10,20,29,166,2,50,331,4,9,17,6,50,1,0
+2011-11-25,Buffalo,MAC,H,Bowling Green State,L,28,42,16,39,157,0,49,188,2,7,12,10,90,0,1
+2011-09-17,Kansas State,Big 12,H,Kent State,W,37,0,13,24,116,1,42,219,2,7,12,9,70,0,0
+2011-09-24,Kansas State,Big 12,A,Miami (FL),W,28,24,12,18,133,2,44,265,2,5,11,6,51,0,0
+2011-10-01,Kansas State,Big 12,H,Baylor,W,36,35,13,28,146,2,51,210,2,8,13,4,35,0,1
+2011-10-08,Kansas State,Big 12,H,Missouri,W,24,17,11,16,112,0,54,174,3,5,11,3,13,0,1
+2011-10-15,Kansas State,Big 12,A,Texas Tech,W,41,34,12,18,146,1,47,193,3,6,9,10,78,0,0
+2011-10-22,Kansas State,Big 12,A,Kansas,W,59,21,14,21,205,1,42,261,6,9,15,2,25,0,0
+2011-10-29,Kansas State,Big 12,H,Oklahoma,L,17,58,8,16,58,0,43,182,2,3,10,5,35,1,0
+2011-11-05,Kansas State,Big 12,A,Oklahoma State,L,45,52,22,39,231,1,51,276,4,12,13,5,40,1,1
+2011-11-12,Kansas State,Big 12,H,Texas A&M,W,53,50,17,27,281,1,52,130,6,8,9,1,5,2,1
+2011-11-19,Kansas State,Big 12,A,Texas,W,17,13,9,17,83,1,39,38,1,4,3,2,10,0,0
+2011-12-03,Kansas State,Big 12,H,Iowa State,W,30,23,7,15,158,1,45,201,2,6,13,2,20,0,0
+2012-01-06,Kansas State,Big 12,N,Arkansas,L,16,29,16,30,173,1,40,87,1,11,7,5,38,1,1
+2011-09-03,Louisiana-Monroe,Sun Belt,A,Florida State,L,0,34,12,22,92,0,39,99,0,5,6,6,58,0,1
+2011-09-17,Louisiana-Monroe,Sun Belt,A,Texas Christian,L,17,38,29,42,232,2,26,82,0,12,5,4,45,1,0
+2011-09-24,Louisiana-Monroe,Sun Belt,A,Iowa,L,17,45,29,44,293,0,30,59,2,19,4,8,79,0,0
+2011-10-08,Louisiana-Monroe,Sun Belt,H,Arkansas State,L,19,24,26,55,298,2,37,69,0,13,4,5,25,1,3
+2011-10-15,Louisiana-Monroe,Sun Belt,A,Troy,W,38,10,23,33,275,3,44,248,2,11,9,5,46,2,0
+2011-10-22,Louisiana-Monroe,Sun Belt,A,North Texas,L,21,38,16,35,201,0,35,142,2,9,8,1,5,1,1
+2011-10-29,Louisiana-Monroe,Sun Belt,H,Western Kentucky,L,28,31,29,59,365,2,30,91,2,18,8,11,76,0,1
+2011-11-05,Louisiana-Monroe,Sun Belt,A,Louisiana,L,35,36,33,43,258,1,39,198,4,17,8,7,53,0,0
+2011-11-12,Louisiana-Monroe,Sun Belt,H,Middle Tennessee State,W,42,14,15,19,193,2,54,260,4,10,13,3,30,1,0
+2011-11-19,Louisiana-Monroe,Sun Belt,H,Florida International,L,17,28,26,59,246,0,32,110,1,15,6,7,70,0,2
+2011-12-03,Louisiana-Monroe,Sun Belt,A,Florida Atlantic,W,26,0,17,25,193,2,52,231,2,8,12,6,79,0,1
+2011-09-03,UCLA,Pac-12,A,Houston,L,34,38,20,29,322,2,42,232,3,13,12,10,80,1,0
+2011-09-10,UCLA,Pac-12,H,San Jose State,W,27,17,12,23,145,1,42,272,2,7,12,6,54,2,0
+2011-09-17,UCLA,Pac-12,H,Texas,L,20,49,11,26,176,0,34,141,2,6,5,6,50,1,3
+2011-09-24,UCLA,Pac-12,A,Oregon State,W,27,19,7,12,146,1,49,211,3,5,12,4,40,0,0
+2011-10-01,UCLA,Pac-12,A,Stanford,L,19,45,18,33,202,2,29,141,1,11,6,3,25,2,0
+2011-10-08,UCLA,Pac-12,H,Washington State,W,28,25,12,20,201,2,35,170,2,7,8,6,63,0,1
+2011-10-20,UCLA,Pac-12,A,Arizona,L,12,48,17,35,286,1,25,37,0,10,2,11,105,2,0
+2011-10-29,UCLA,Pac-12,H,California,W,31,14,9,18,92,0,52,294,4,3,17,4,31,2,0
+2011-11-05,UCLA,Pac-12,H,Arizona State,W,29,28,11,17,196,1,48,220,3,7,10,8,75,2,0
+2011-11-12,UCLA,Pac-12,A,Utah,L,6,31,12,24,146,0,43,149,0,7,5,12,91,0,2
+2011-11-19,UCLA,Pac-12,H,Colorado,W,45,6,15,19,225,4,44,328,2,11,13,9,102,1,0
+2011-11-26,UCLA,Pac-12,A,USC,L,0,50,21,33,261,0,36,124,0,15,5,7,75,0,1
+2011-12-02,UCLA,Pac-12,A,Oregon,L,31,49,14,28,177,2,43,160,1,7,10,3,20,3,1
+2011-12-31,UCLA,Pac-12,N,Illinois,L,14,20,14,29,201,2,30,18,0,10,2,3,15,1,1
+2011-09-03,Northwestern,Big Ten,A,Boston College,W,24,17,17,24,197,0,54,227,3,10,11,4,26,0,1
+2011-09-17,Northwestern,Big Ten,A,Army,L,14,21,17,30,194,2,27,115,0,6,8,7,60,0,0
+2011-10-01,Northwestern,Big Ten,A,Illinois,L,35,38,12,16,160,4,51,169,1,8,10,4,48,1,0
+2011-10-08,Northwestern,Big Ten,H,Michigan,L,24,42,32,45,331,0,25,107,3,17,6,5,51,1,1
+2011-10-15,Northwestern,Big Ten,A,Iowa,L,31,41,37,51,342,3,41,153,1,19,9,5,31,1,1
+2011-10-22,Northwestern,Big Ten,H,Penn State,L,24,34,28,39,312,1,37,94,2,14,8,3,20,0,1
+2011-10-29,Northwestern,Big Ten,A,Indiana,W,59,38,18,23,299,5,56,317,3,11,17,4,29,1,0
+2011-11-05,Northwestern,Big Ten,A,Nebraska,W,28,25,16,24,261,1,54,207,3,9,15,2,20,1,2
+2011-11-12,Northwestern,Big Ten,H,Rice,W,28,6,27,34,397,4,39,136,0,15,7,3,30,1,2
+2011-11-19,Northwestern,Big Ten,H,Minnesota,W,28,13,22,31,216,2,47,152,2,12,9,0,0,1,1
+2011-11-26,Northwestern,Big Ten,H,Michigan State,L,17,31,24,34,253,2,41,117,0,8,10,6,70,1,0
+2011-12-31,Northwestern,Big Ten,N,Texas A&M,L,22,33,27,40,226,1,38,52,2,14,7,8,67,0,0
+2011-09-10,Kansas,Big 12,H,Northern Illinois,W,45,42,21,30,281,3,60,253,3,12,17,9,75,1,0
+2011-09-17,Kansas,Big 12,A,Georgia Tech,L,24,66,17,27,211,1,42,151,2,11,7,1,5,0,0
+2011-10-01,Kansas,Big 12,H,Texas Tech,L,34,45,16,22,239,3,51,239,2,10,12,8,67,1,3
+2011-10-08,Kansas,Big 12,A,Oklahoma State,L,28,70,26,37,325,2,44,153,2,15,9,5,25,2,2
+2011-10-15,Kansas,Big 12,H,Oklahoma,L,17,47,13,25,108,0,38,144,2,3,6,7,38,0,0
+2011-10-22,Kansas,Big 12,H,Kansas State,L,21,59,25,36,211,2,37,75,1,12,5,9,105,2,0
+2011-10-29,Kansas,Big 12,A,Texas,L,0,43,7,16,48,0,20,-2,0,1,1,4,27,1,1
+2011-11-05,Kansas,Big 12,A,Iowa State,L,10,13,13,22,127,0,39,174,1,6,9,4,30,1,0
+2011-11-12,Kansas,Big 12,H,Baylor,L,30,31,17,27,108,1,64,296,3,8,15,6,55,0,3
+2011-11-19,Kansas,Big 12,A,Texas A&M,L,7,61,19,28,133,0,55,64,1,7,11,6,40,2,1
+2011-11-26,Kansas,Big 12,N,Missouri,L,10,24,10,21,72,0,38,65,0,4,6,6,49,1,2
+2011-09-03,Western Michigan,MAC,A,Michigan,L,10,34,22,31,183,0,25,96,1,9,8,8,50,2,1
+2011-09-17,Western Michigan,MAC,H,Central Michigan,W,44,14,28,38,355,3,33,87,2,17,4,7,54,1,1
+2011-09-24,Western Michigan,MAC,A,Illinois,L,20,23,30,48,306,2,21,35,0,14,2,8,59,0,1
+2011-10-01,Western Michigan,MAC,A,Connecticut,W,38,31,37,51,479,5,22,11,0,21,3,15,119,2,0
+2011-10-08,Western Michigan,MAC,H,Bowling Green State,W,45,21,21,29,227,3,47,351,3,15,15,3,25,0,1
+2011-10-15,Western Michigan,MAC,A,Northern Illinois,L,22,51,29,48,233,2,31,91,0,12,6,6,48,0,2
+2011-10-22,Western Michigan,MAC,A,Eastern Michigan,L,10,14,25,35,198,0,30,131,1,12,3,4,20,0,0
+2011-10-29,Western Michigan,MAC,H,Ball State,W,45,35,30,42,465,3,39,145,3,19,8,11,106,1,3
+2011-11-08,Western Michigan,MAC,A,Toledo,L,63,66,38,59,548,7,23,87,1,23,5,8,70,4,0
+2011-11-16,Western Michigan,MAC,A,Miami (OH),W,24,21,36,57,429,3,23,42,0,19,3,4,32,0,1
+2011-11-25,Western Michigan,MAC,H,Akron,W,68,19,25,33,337,7,35,240,2,15,12,8,86,3,0
+2011-12-27,Western Michigan,MAC,N,Purdue,L,32,37,31,58,439,3,23,46,1,20,5,3,29,3,4
+2011-09-10,Iowa,Big Ten,A,Iowa State,L,41,44,16,29,207,2,43,158,2,8,9,6,35,1,0
+2011-09-17,Iowa,Big Ten,H,Pitt,W,31,27,31,48,399,3,33,76,1,19,5,8,85,0,1
+2011-09-24,Iowa,Big Ten,H,Louisiana-Monroe,W,45,17,22,33,273,3,34,180,3,14,11,1,10,1,0
+2011-10-08,Iowa,Big Ten,A,Penn State,L,3,13,17,34,169,0,30,84,0,9,6,3,15,1,2
+2011-10-15,Iowa,Big Ten,H,Northwestern,W,41,31,14,22,224,2,28,155,2,8,9,4,40,0,1
+2011-10-22,Iowa,Big Ten,H,Indiana,W,45,24,12,16,253,4,42,203,2,9,11,7,57,0,0
+2011-10-29,Iowa,Big Ten,A,Minnesota,L,21,22,16,24,177,1,42,269,2,6,14,3,12,1,0
+2011-11-05,Iowa,Big Ten,H,Michigan,W,24,16,14,21,171,1,35,131,2,8,6,5,29,0,0
+2011-11-12,Iowa,Big Ten,H,Michigan State,L,21,37,22,47,262,2,30,87,1,13,3,6,39,2,1
+2011-11-19,Iowa,Big Ten,A,Purdue,W,31,21,22,32,273,3,43,135,1,13,8,5,40,2,0
+2011-11-25,Iowa,Big Ten,A,Nebraska,L,7,20,16,35,182,0,24,88,1,7,7,5,50,1,1
+2011-12-30,Iowa,Big Ten,N,Oklahoma,L,14,31,23,45,216,2,37,76,0,14,5,6,36,0,2
+2011-09-03,Texas,Big 12,H,Rice,W,34,9,15,27,277,2,48,229,2,10,12,6,69,1,0
+2011-09-10,Texas,Big 12,H,Brigham Young,W,17,16,12,20,123,0,43,166,2,5,9,8,46,0,2
+2011-09-17,Texas,Big 12,A,UCLA,W,49,20,16,20,204,3,50,284,4,7,15,3,25,2,0
+2011-10-01,Texas,Big 12,A,Iowa State,W,37,14,14,24,255,2,40,145,1,10,7,10,74,0,0
+2011-10-08,Texas,Big 12,N,Oklahoma,L,17,55,20,36,223,1,45,36,0,12,7,5,60,3,2
+2011-10-15,Texas,Big 12,H,Oklahoma State,L,26,38,22,40,139,0,49,231,2,9,14,3,30,1,2
+2011-10-29,Texas,Big 12,H,Kansas,W,43,0,16,21,149,0,72,441,5,8,25,6,65,1,1
+2011-11-05,Texas,Big 12,H,Texas Tech,W,52,20,5,9,156,1,54,439,6,5,22,6,55,0,0
+2011-11-12,Texas,Big 12,A,Missouri,L,5,17,16,36,171,0,29,76,0,7,6,4,38,0,1
+2011-11-19,Texas,Big 12,H,Kansas State,L,13,17,15,32,119,1,42,191,0,7,8,3,35,0,2
+2011-11-24,Texas,Big 12,A,Texas A&M,W,27,25,17,29,151,1,37,86,1,5,5,10,70,1,1
+2011-12-03,Texas,Big 12,A,Baylor,L,24,48,24,40,356,3,45,201,0,11,9,12,105,2,4
+2011-12-28,Texas,Big 12,N,California,W,21,10,15,23,146,2,35,109,1,5,7,8,50,0,0
+2011-09-02,Texas Christian,MWC,A,Baylor,L,48,50,25,40,251,4,38,215,2,13,8,6,47,0,1
+2011-09-10,Texas Christian,MWC,A,Air Force,W,35,19,20,25,206,2,44,204,3,11,12,6,50,1,0
+2011-09-17,Texas Christian,MWC,H,Louisiana-Monroe,W,38,17,15,23,204,1,45,207,3,9,12,3,35,2,0
+2011-10-01,Texas Christian,MWC,H,SMU,L,33,40,30,43,304,3,31,150,1,13,6,9,115,1,0
+2011-10-08,Texas Christian,MWC,A,San Diego State,W,27,14,14,22,212,2,52,234,1,8,13,3,25,2,2
+2011-10-22,Texas Christian,MWC,H,New Mexico,W,69,0,15,21,251,2,44,264,7,11,11,6,41,0,0
+2011-10-28,Texas Christian,MWC,H,Brigham Young,W,38,28,13,23,147,2,39,136,3,5,7,6,58,0,0
+2011-11-05,Texas Christian,MWC,A,Wyoming,W,31,20,17,24,227,0,47,390,4,12,15,5,58,4,1
+2011-11-12,Texas Christian,MWC,A,Boise State,W,36,35,24,37,473,5,26,33,0,16,4,11,114,1,1
+2011-11-19,Texas Christian,MWC,H,Colorado State,W,34,10,13,20,117,0,43,255,3,6,13,3,20,1,0
+2011-12-03,Texas Christian,MWC,H,Nevada-Las Vegas,W,56,9,16,23,199,0,39,186,6,8,9,0,0,1,0
+2011-12-21,Texas Christian,MWC,N,Louisiana Tech,W,31,24,15,29,206,1,51,190,3,8,12,7,66,1,1
+2011-09-05,Miami (FL),ACC,A,Maryland,L,24,32,19,28,195,0,40,172,3,8,8,10,65,2,2
+2011-09-17,Miami (FL),ACC,H,Ohio State,W,24,6,16,23,123,2,42,240,1,7,9,5,31,0,2
+2011-09-24,Miami (FL),ACC,H,Kansas State,L,24,28,21,31,272,2,27,139,1,11,6,4,30,0,1
+2011-10-08,Miami (FL),ACC,A,Virginia Tech,L,35,38,14,22,283,4,38,236,1,9,11,9,84,0,0
+2011-10-15,Miami (FL),ACC,A,North Carolina,W,30,24,20,30,267,3,27,44,0,12,2,3,19,1,0
+2011-10-22,Miami (FL),ACC,H,Georgia Tech,W,24,7,8,23,140,0,41,122,2,6,8,1,5,0,1
+2011-10-27,Miami (FL),ACC,H,Virginia,L,21,28,23,32,347,3,28,85,0,13,6,5,51,1,0
+2011-11-05,Miami (FL),ACC,H,Duke,W,49,14,14,21,202,3,39,265,4,10,12,5,36,0,0
+2011-11-12,Miami (FL),ACC,A,Florida State,L,19,23,22,34,243,1,36,140,2,12,8,9,55,2,1
+2011-11-19,Miami (FL),ACC,A,South Florida,W,6,3,27,35,259,0,40,57,0,14,5,6,45,1,0
+2011-11-25,Miami (FL),ACC,H,Boston College,L,17,24,23,40,245,1,16,122,1,9,4,6,46,0,4
+2011-09-10,Oregon State,Pac-12,A,Wisconsin,L,0,35,27,41,261,0,24,23,0,14,1,6,51,1,0
+2011-09-24,Oregon State,Pac-12,H,UCLA,L,19,27,24,40,287,1,29,88,0,15,6,3,30,1,1
+2011-10-01,Oregon State,Pac-12,A,Arizona State,L,20,35,40,66,341,1,14,47,1,17,2,13,139,1,4
+2011-10-08,Oregon State,Pac-12,H,Arizona,W,37,27,33,43,280,2,35,128,1,15,6,6,75,0,2
+2011-10-15,Oregon State,Pac-12,H,Brigham Young,L,28,38,27,43,306,1,23,59,2,13,5,8,55,2,2
+2011-10-22,Oregon State,Pac-12,A,Washington State,W,44,21,26,34,376,4,34,175,1,17,8,14,120,0,1
+2011-10-29,Oregon State,Pac-12,A,Utah,L,8,27,27,49,231,1,26,32,0,11,3,6,35,1,3
+2011-11-05,Oregon State,Pac-12,H,Stanford,L,13,38,18,30,252,1,17,33,1,11,2,5,55,1,0
+2011-11-12,Oregon State,Pac-12,A,California,L,6,23,26,40,239,0,21,31,0,12,3,6,59,1,2
+2011-11-19,Oregon State,Pac-12,H,Washington,W,38,21,26,37,339,2,31,145,3,14,5,7,70,2,1
+2011-11-26,Oregon State,Pac-12,A,Oregon,L,21,49,27,44,299,3,21,16,0,12,1,8,60,1,2
+2011-09-03,Alabama,SEC,H,Kent State,W,48,7,21,37,299,1,35,183,5,14,10,2,10,1,4
+2011-09-10,Alabama,SEC,A,Penn State,W,27,11,19,31,163,1,41,196,2,9,10,3,35,0,0
+2011-09-17,Alabama,SEC,H,North Texas,W,41,0,21,29,239,0,33,347,5,14,9,2,19,2,0
+2011-09-24,Alabama,SEC,H,Arkansas,W,38,14,15,20,200,2,39,197,1,9,7,5,55,0,0
+2011-10-01,Alabama,SEC,A,Florida,W,38,10,12,25,140,0,43,226,4,6,14,3,29,0,0
+2011-10-08,Alabama,SEC,H,Vanderbilt,W,34,0,26,33,266,4,43,153,1,14,9,2,15,0,0
+2011-10-15,Alabama,SEC,A,Ole Miss,W,52,7,20,25,226,1,42,389,6,10,17,5,35,0,0
+2011-10-22,Alabama,SEC,H,Tennessee,W,37,6,18,28,294,1,38,143,3,13,6,5,38,0,1
+2011-11-05,Alabama,SEC,H,LSU,L,6,9,16,29,199,0,31,96,0,7,8,6,73,0,2
+2011-11-12,Alabama,SEC,A,Mississippi State,W,24,7,14,24,163,0,44,223,3,7,12,6,40,0,1
+2011-11-26,Alabama,SEC,A,Auburn,W,42,14,18,23,184,3,35,213,1,9,8,3,20,1,0
+2012-01-09,Alabama,SEC,N,LSU,W,21,0,23,34,234,0,35,150,1,12,9,1,5,0,0
+2011-09-03,Purdue,Big Ten,H,Middle Tennessee State,W,27,24,19,35,220,2,46,200,1,10,13,11,95,1,1
+2011-09-10,Purdue,Big Ten,A,Rice,L,22,24,18,32,183,1,40,183,1,6,11,7,50,0,0
+2011-10-01,Purdue,Big Ten,H,Notre Dame,L,10,38,19,38,192,1,27,84,0,10,5,13,118,0,1
+2011-10-08,Purdue,Big Ten,H,Minnesota,W,45,17,18,27,155,2,47,217,3,9,11,7,62,0,0
+2011-10-15,Purdue,Big Ten,A,Penn State,L,18,23,14,30,182,1,33,162,1,9,6,6,33,0,3
+2011-10-22,Purdue,Big Ten,H,Illinois,W,21,14,16,25,178,2,42,126,1,8,5,6,30,1,0
+2011-10-29,Purdue,Big Ten,A,Michigan,L,14,36,17,27,222,2,29,89,0,9,5,8,86,0,1
+2011-11-05,Purdue,Big Ten,A,Wisconsin,L,17,62,15,29,164,1,29,120,1,7,6,8,65,0,2
+2011-11-12,Purdue,Big Ten,H,Ohio State,W,26,23,25,37,234,0,42,129,3,12,9,6,47,0,1
+2011-11-19,Purdue,Big Ten,H,Iowa,L,21,31,17,34,181,1,36,101,1,11,7,1,7,2,2
+2011-11-26,Purdue,Big Ten,A,Indiana,W,33,25,19,31,216,1,55,292,2,10,17,9,90,0,0
+2011-12-27,Purdue,Big Ten,N,Western Michigan,W,37,32,15,21,177,2,56,265,1,7,14,9,54,4,0
+2011-09-10,Nebraska,Big Ten,H,Fresno State,W,42,29,10,21,219,1,35,219,4,7,7,3,25,0,2
+2011-09-17,Nebraska,Big Ten,H,Washington,W,51,38,10,21,155,2,55,309,4,6,16,7,60,1,0
+2011-09-24,Nebraska,Big Ten,A,Wyoming,W,38,14,12,21,157,1,49,333,4,7,15,5,48,1,0
+2011-10-01,Nebraska,Big Ten,A,Wisconsin,L,17,48,11,22,176,0,43,159,2,8,12,9,80,0,3
+2011-10-08,Nebraska,Big Ten,H,Ohio State,W,34,27,16,22,191,2,51,232,2,9,13,6,50,0,1
+2011-10-22,Nebraska,Big Ten,A,Minnesota,W,41,14,14,23,169,1,56,346,3,7,20,5,43,0,0
+2011-10-29,Nebraska,Big Ten,H,Michigan State,W,24,3,7,13,80,1,58,190,2,5,8,9,58,0,1
+2011-11-05,Nebraska,Big Ten,H,Northwestern,L,25,28,28,37,289,2,35,122,1,14,6,6,41,2,0
+2011-11-12,Nebraska,Big Ten,A,Penn State,W,17,14,13,27,143,0,48,188,2,10,10,6,45,1,0
+2011-11-19,Nebraska,Big Ten,A,Michigan,L,17,45,9,23,122,1,31,138,1,4,7,8,73,3,0
+2011-11-25,Nebraska,Big Ten,H,Iowa,W,20,7,12,22,163,1,61,222,1,9,13,9,74,0,0
+2012-01-02,Nebraska,Big Ten,N,South Carolina,L,13,30,10,16,116,1,46,137,1,7,8,10,58,1,1
+2011-09-04,West Virginia,Big East,H,Marshall,W,34,13,26,35,249,2,26,42,1,11,4,2,15,0,0
+2011-09-17,West Virginia,Big East,A,Maryland,W,37,31,36,49,388,1,31,92,2,17,6,6,68,2,1
+2011-09-24,West Virginia,Big East,H,LSU,L,21,47,38,65,463,2,22,70,1,23,3,10,73,2,2
+2011-10-01,West Virginia,Big East,H,Bowling Green State,W,55,10,19,33,283,3,46,360,4,14,15,1,10,0,0
+2011-10-08,West Virginia,Big East,H,Connecticut,W,43,16,28,48,469,4,29,72,1,16,6,8,80,1,1
+2011-10-21,West Virginia,Big East,A,Syracuse,L,23,49,24,41,338,2,24,70,1,13,7,5,37,0,2
+2011-10-29,West Virginia,Big East,A,Rutgers,W,41,31,20,31,218,2,37,210,4,9,8,6,65,1,0
+2011-11-05,West Virginia,Big East,H,Louisville,L,35,38,31,44,410,3,34,123,2,18,10,5,30,2,0
+2011-11-12,West Virginia,Big East,A,Cincinnati,W,24,21,29,43,372,1,32,32,1,15,3,14,95,1,0
+2011-11-25,West Virginia,Big East,H,Pitt,W,21,20,22,31,244,1,30,113,2,9,6,4,20,3,0
+2011-12-01,West Virginia,Big East,A,South Florida,W,30,27,23,36,237,0,30,127,1,11,5,8,79,1,2
+2012-01-04,West Virginia,Big East,N,Clemson,W,70,33,32,46,407,6,43,182,3,16,13,4,40,0,1
+2011-09-03,Oklahoma State,Big 12,H,Louisiana,W,61,34,28,43,458,4,44,208,3,21,10,7,80,0,3
+2011-09-08,Oklahoma State,Big 12,H,Arizona,W,37,14,42,53,397,2,31,197,3,17,8,10,90,0,1
+2011-09-17,Oklahoma State,Big 12,A,Tulsa,W,59,33,29,40,369,3,48,174,4,18,13,5,50,0,2
+2011-09-24,Oklahoma State,Big 12,A,Texas A&M,W,30,29,47,60,438,2,35,46,1,22,8,11,95,1,0
+2011-10-08,Oklahoma State,Big 12,H,Kansas,W,70,28,38,49,494,7,27,106,3,19,6,5,35,0,0
+2011-10-15,Oklahoma State,Big 12,A,Texas,W,38,26,23,41,218,1,27,202,3,12,8,2,20,1,0
+2011-10-22,Oklahoma State,Big 12,A,Missouri,W,45,24,33,50,338,3,31,195,3,18,8,3,15,0,1
+2011-10-29,Oklahoma State,Big 12,H,Baylor,W,59,24,24,36,274,3,27,327,5,12,10,7,80,1,0
+2011-11-05,Oklahoma State,Big 12,H,Kansas State,W,52,45,36,46,502,4,17,73,2,20,6,3,35,2,2
+2011-11-12,Oklahoma State,Big 12,A,Texas Tech,W,66,6,33,41,454,5,39,183,3,18,9,3,24,2,0
+2011-11-18,Oklahoma State,Big 12,A,Iowa State,L,31,37,42,58,476,3,18,60,0,21,2,10,87,2,3
+2011-12-03,Oklahoma State,Big 12,H,Oklahoma,W,44,10,24,36,217,0,33,278,4,10,10,5,40,1,0
+2012-01-02,Oklahoma State,Big 12,N,Stanford,W,41,38,29,42,399,3,15,13,2,14,1,1,5,0,1
+2011-09-03,Colorado,Pac-12,A,Hawaii,L,17,34,16,30,223,2,28,17,0,11,4,7,58,0,1
+2011-09-10,Colorado,Pac-12,H,California,L,33,36,28,50,474,3,32,108,0,18,6,12,98,0,0
+2011-09-17,Colorado,Pac-12,N,Colorado State,W,28,14,17,32,215,2,34,145,2,10,11,10,114,0,0
+2011-09-24,Colorado,Pac-12,A,Ohio State,L,17,37,22,39,238,2,16,76,0,9,3,9,83,2,0
+2011-10-01,Colorado,Pac-12,H,Washington State,L,27,31,15,24,175,2,38,161,1,10,6,10,90,1,1
+2011-10-08,Colorado,Pac-12,A,Stanford,L,7,48,16,30,204,1,27,60,0,7,3,6,47,0,1
+2011-10-15,Colorado,Pac-12,A,Washington,L,24,52,22,38,207,1,27,62,2,10,5,3,30,0,0
+2011-10-22,Colorado,Pac-12,H,Oregon,L,2,45,15,33,133,0,39,98,0,7,5,10,86,0,1
+2011-10-29,Colorado,Pac-12,A,Arizona State,L,14,48,26,42,337,1,32,83,0,13,5,6,35,3,2
+2011-11-04,Colorado,Pac-12,H,USC,L,17,42,17,37,250,2,25,134,0,13,6,7,68,0,0
+2011-11-12,Colorado,Pac-12,H,Arizona,W,48,29,17,27,227,3,45,273,4,11,14,7,53,1,1
+2011-11-19,Colorado,Pac-12,A,UCLA,L,6,45,17,32,142,1,28,87,0,8,5,6,39,0,3
+2011-11-25,Colorado,Pac-12,A,Utah,W,17,14,22,36,264,1,30,109,1,8,8,10,65,1,1
+2011-09-03,Rice,CUSA,A,Texas,L,9,34,15,30,94,0,30,130,0,4,9,5,45,2,0
+2011-09-10,Rice,CUSA,H,Purdue,W,24,22,20,32,242,2,48,110,1,11,8,5,57,1,0
+2011-09-24,Rice,CUSA,A,Baylor,L,31,56,23,39,260,3,38,156,1,12,8,9,75,1,1
+2011-10-01,Rice,CUSA,A,Southern Mississippi,L,24,48,21,41,196,1,30,33,0,11,3,6,55,2,0
+2011-10-08,Rice,CUSA,H,Memphis,W,28,6,15,22,170,1,45,180,2,5,9,4,25,1,2
+2011-10-15,Rice,CUSA,A,Marshall,L,20,24,12,21,167,1,41,194,1,6,14,5,35,2,0
+2011-10-22,Rice,CUSA,H,Tulsa,L,20,38,22,42,250,1,35,103,1,11,8,4,35,2,2
+2011-10-27,Rice,CUSA,A,Houston,L,34,73,7,19,116,1,60,359,2,2,16,7,64,1,0
+2011-11-05,Rice,CUSA,H,UTEP,W,41,37,33,46,449,3,47,222,2,16,14,5,30,0,0
+2011-11-12,Rice,CUSA,A,Northwestern,L,6,28,14,26,135,0,30,119,1,4,9,2,5,0,1
+2011-11-19,Rice,CUSA,H,Tulane,W,19,7,17,26,119,0,35,118,2,5,8,2,15,0,0
+2011-11-26,Rice,CUSA,A,SMU,L,24,27,23,40,163,2,28,87,0,7,3,3,20,0,1
+2011-09-04,Texas A&M,Big 12,H,SMU,W,46,14,21,26,246,2,39,212,4,12,12,6,50,0,0
+2011-09-17,Texas A&M,Big 12,H,Idaho,W,37,7,30,43,377,2,38,140,2,19,9,3,25,1,1
+2011-09-24,Texas A&M,Big 12,H,Oklahoma State,L,29,30,28,47,309,2,27,162,1,17,7,10,82,1,3
+2011-10-01,Texas A&M,Big 12,N,Arkansas,L,38,42,25,35,247,0,54,381,5,11,16,7,72,1,1
+2011-10-08,Texas A&M,Big 12,A,Texas Tech,W,45,40,16,26,188,1,46,205,4,7,14,9,100,0,0
+2011-10-15,Texas A&M,Big 12,H,Baylor,W,55,28,25,38,415,6,45,266,1,17,14,7,56,0,1
+2011-10-22,Texas A&M,Big 12,A,Iowa State,W,33,17,24,43,263,2,47,247,1,15,14,7,70,1,0
+2011-10-29,Texas A&M,Big 12,H,Missouri,L,31,38,35,53,317,3,46,183,1,20,8,7,50,2,1
+2011-11-05,Texas A&M,Big 12,A,Oklahoma,L,25,41,32,64,379,2,29,148,1,20,7,7,55,1,3
+2011-11-12,Texas A&M,Big 12,A,Kansas State,L,50,53,27,46,210,3,43,272,3,12,10,10,96,0,1
+2011-11-19,Texas A&M,Big 12,H,Kansas,W,61,7,21,27,280,3,33,189,4,12,11,1,15,1,0
+2011-11-24,Texas A&M,Big 12,H,Texas,L,25,27,20,49,224,2,33,104,0,12,7,10,117,1,3
+2011-12-31,Texas A&M,Big 12,N,Northwestern,W,33,22,27,40,329,1,27,80,2,15,5,7,67,0,1
+2011-09-03,New Mexico State,WAC,H,Ohio,L,24,44,22,41,362,2,23,6,0,13,1,5,30,0,1
+2011-09-10,New Mexico State,WAC,A,Minnesota,W,28,21,20,31,288,3,37,133,1,15,7,9,57,0,2
+2011-09-17,New Mexico State,WAC,H,UTEP,L,10,16,20,37,242,1,29,16,0,14,3,7,50,2,0
+2011-09-24,New Mexico State,WAC,A,San Jose State,L,24,34,17,30,238,1,32,185,2,11,7,8,76,0,1
+2011-10-01,New Mexico State,WAC,A,New Mexico,W,42,28,16,27,296,4,48,242,2,14,13,7,68,1,0
+2011-10-15,New Mexico State,WAC,H,Idaho,W,31,24,15,23,202,2,41,192,1,7,9,7,45,1,0
+2011-10-22,New Mexico State,WAC,A,Hawaii,L,34,45,20,37,284,3,32,148,2,11,8,8,63,1,0
+2011-10-29,New Mexico State,WAC,H,Nevada,L,34,48,22,46,466,3,29,48,2,16,4,11,85,0,3
+2011-11-05,New Mexico State,WAC,A,Georgia,L,16,63,20,36,276,1,31,126,1,13,6,8,52,2,1
+2011-11-12,New Mexico State,WAC,H,Fresno State,W,48,45,26,44,367,2,38,133,3,17,12,4,37,0,1
+2011-11-19,New Mexico State,WAC,A,Brigham Young,L,7,42,19,34,159,1,37,90,0,8,9,8,58,2,0
+2011-11-26,New Mexico State,WAC,A,Louisiana Tech,L,0,44,15,25,118,0,45,161,0,6,9,5,40,1,3
+2011-12-03,New Mexico State,WAC,H,Utah State,L,21,24,17,40,252,1,24,145,2,9,6,3,20,1,2
+2011-09-03,Louisiana Tech,WAC,A,Southern Mississippi,L,17,19,20,36,176,0,33,68,1,7,6,9,101,0,0
+2011-09-17,Louisiana Tech,WAC,H,Houston,L,34,35,21,32,211,1,66,233,3,10,14,6,68,1,2
+2011-09-24,Louisiana Tech,WAC,A,Mississippi State,L,20,26,30,41,252,1,37,107,1,13,5,4,40,1,2
+2011-10-01,Louisiana Tech,WAC,H,Hawaii,L,26,44,29,51,305,3,26,63,1,14,8,10,80,1,2
+2011-10-08,Louisiana Tech,WAC,A,Idaho,W,24,11,25,39,163,1,48,190,1,7,14,5,40,0,0
+2011-10-22,Louisiana Tech,WAC,A,Utah State,W,24,17,15,29,146,0,40,86,2,6,7,7,67,0,0
+2011-10-29,Louisiana Tech,WAC,H,San Jose State,W,38,28,17,27,237,2,61,260,2,9,12,8,71,2,0
+2011-11-05,Louisiana Tech,WAC,A,Fresno State,W,41,21,20,34,402,4,28,148,1,13,6,4,36,0,0
+2011-11-12,Louisiana Tech,WAC,A,Ole Miss,W,27,7,13,27,180,1,40,170,0,7,7,7,50,1,1
+2011-11-19,Louisiana Tech,WAC,A,Nevada,W,24,20,25,45,355,3,16,57,0,14,2,10,72,0,0
+2011-11-26,Louisiana Tech,WAC,H,New Mexico State,W,44,0,19,36,217,1,43,202,3,9,14,3,25,1,2
+2011-12-21,Louisiana Tech,WAC,N,Texas Christian,L,24,31,21,43,264,2,27,96,1,13,4,6,31,1,1
+2011-09-03,Minnesota,Big Ten,A,USC,L,17,19,14,26,192,1,34,110,1,12,6,8,44,0,1
+2011-09-10,Minnesota,Big Ten,H,New Mexico State,L,21,28,18,40,238,2,35,181,1,10,10,6,58,0,2
+2011-09-17,Minnesota,Big Ten,H,Miami (OH),W,29,23,11,21,163,1,47,236,1,5,13,4,25,0,0
+2011-10-01,Minnesota,Big Ten,A,Michigan,L,0,58,11,22,104,0,25,73,0,5,2,9,74,2,0
+2011-10-08,Minnesota,Big Ten,A,Purdue,L,17,45,10,23,113,0,33,100,1,4,6,6,74,2,1
+2011-10-22,Minnesota,Big Ten,H,Nebraska,L,14,41,9,18,122,0,39,132,2,4,7,5,55,1,0
+2011-10-29,Minnesota,Big Ten,H,Iowa,W,22,21,11,17,193,1,40,178,2,6,9,4,40,1,0
+2011-11-05,Minnesota,Big Ten,A,Michigan State,L,24,31,19,34,295,3,40,120,0,16,5,8,73,0,2
+2011-11-12,Minnesota,Big Ten,H,Wisconsin,L,13,42,6,16,51,0,32,105,1,2,6,3,20,0,1
+2011-11-19,Minnesota,Big Ten,A,Northwestern,L,13,28,9,22,124,0,51,269,1,5,17,5,43,1,1
+2011-11-26,Minnesota,Big Ten,H,Illinois,W,27,7,7,15,85,1,53,248,2,6,12,2,30,0,0
+2011-09-03,Middle Tennessee State,Sun Belt,A,Purdue,L,24,27,27,47,330,2,33,130,1,16,7,7,65,0,1
+2011-09-10,Middle Tennessee State,Sun Belt,H,Georgia Tech,L,21,49,23,36,198,1,28,144,2,7,14,2,13,2,1
+2011-09-24,Middle Tennessee State,Sun Belt,A,Troy,L,35,38,28,48,415,5,42,167,0,14,10,6,50,1,1
+2011-10-01,Middle Tennessee State,Sun Belt,H,Memphis,W,38,31,27,42,277,3,33,200,2,12,10,4,35,0,1
+2011-10-06,Middle Tennessee State,Sun Belt,H,Western Kentucky,L,33,36,25,50,276,2,39,206,2,15,10,4,32,1,2
+2011-10-22,Middle Tennessee State,Sun Belt,A,Florida Atlantic,W,38,14,31,42,292,3,48,187,2,14,11,7,59,1,2
+2011-10-29,Middle Tennessee State,Sun Belt,H,Louisiana,L,20,45,22,40,239,1,37,176,2,11,8,6,55,1,2
+2011-11-05,Middle Tennessee State,Sun Belt,A,Tennessee,L,0,24,18,31,133,0,21,97,0,8,5,1,10,1,2
+2011-11-12,Middle Tennessee State,Sun Belt,A,Louisiana-Monroe,L,14,42,32,52,291,2,38,132,0,14,11,2,25,2,1
+2011-11-19,Middle Tennessee State,Sun Belt,H,Arkansas State,L,19,45,28,48,219,1,35,80,1,11,4,8,78,1,0
+2011-11-26,Middle Tennessee State,Sun Belt,H,Florida International,L,18,31,28,45,291,0,37,102,2,13,6,6,45,0,2
+2011-12-03,Middle Tennessee State,Sun Belt,A,North Texas,L,7,59,10,28,91,1,38,140,0,5,8,5,44,3,0
+2011-09-03,Northern Illinois,MAC,H,Army,W,49,26,15,24,220,5,47,289,1,12,12,5,40,1,1
+2011-09-10,Northern Illinois,MAC,A,Kansas,L,42,45,27,33,315,2,29,147,4,17,8,3,35,0,0
+2011-09-17,Northern Illinois,MAC,N,Wisconsin,L,7,49,17,27,173,0,25,64,1,8,3,4,35,0,0
+2011-10-01,Northern Illinois,MAC,A,Central Michigan,L,41,48,27,51,370,2,44,217,2,17,10,4,32,0,2
+2011-10-08,Northern Illinois,MAC,H,Kent State,W,40,10,15,19,135,1,43,209,2,4,11,8,85,3,0
+2011-10-15,Northern Illinois,MAC,H,Western Michigan,W,51,22,14,28,203,0,54,494,6,10,18,5,46,1,1
+2011-10-22,Northern Illinois,MAC,A,Buffalo,W,31,30,11,26,150,0,47,178,4,9,6,7,67,0,0
+2011-11-01,Northern Illinois,MAC,A,Toledo,W,63,60,17,26,265,6,36,267,1,10,13,5,46,1,0
+2011-11-08,Northern Illinois,MAC,A,Bowling Green State,W,45,14,18,28,340,3,52,283,3,12,13,5,55,0,0
+2011-11-15,Northern Illinois,MAC,H,Ball State,W,41,38,26,37,338,2,58,372,3,19,20,9,107,2,0
+2011-11-25,Northern Illinois,MAC,H,Eastern Michigan,W,18,12,9,20,98,1,37,188,1,3,8,6,50,0,0
+2011-12-02,Northern Illinois,MAC,N,Ohio,W,23,20,16,26,250,3,36,155,0,9,9,4,30,3,1
+2012-01-08,Northern Illinois,MAC,N,Arkansas State,W,38,20,23,42,342,2,35,59,2,12,4,5,50,0,1
+2011-09-03,Ohio State,Big Ten,H,Akron,W,42,0,20,28,293,4,51,224,2,16,11,3,29,1,0
+2011-09-10,Ohio State,Big Ten,H,Toledo,W,27,22,16,30,189,1,34,112,2,8,5,2,13,1,0
+2011-09-17,Ohio State,Big Ten,A,Miami (FL),L,6,24,4,18,35,0,37,174,0,2,12,4,25,1,1
+2011-09-24,Ohio State,Big Ten,H,Colorado,W,37,17,7,15,110,2,47,226,2,7,12,7,65,0,0
+2011-10-01,Ohio State,Big Ten,H,Michigan State,L,7,10,12,25,143,1,39,35,0,6,4,9,82,0,1
+2011-10-08,Ohio State,Big Ten,A,Nebraska,L,27,34,6,18,108,1,41,243,2,5,9,9,75,1,1
+2011-10-15,Ohio State,Big Ten,A,Illinois,W,17,7,1,4,17,1,51,211,1,1,12,7,64,0,0
+2011-10-29,Ohio State,Big Ten,H,Wisconsin,W,33,29,7,12,89,1,58,268,3,3,13,4,37,1,0
+2011-11-05,Ohio State,Big Ten,H,Indiana,W,34,20,5,11,55,0,46,346,4,2,12,3,25,1,1
+2011-11-12,Ohio State,Big Ten,A,Purdue,L,23,26,8,18,132,2,48,166,1,6,9,7,53,0,0
+2011-11-19,Ohio State,Big Ten,H,Penn State,L,14,20,7,17,83,1,43,206,1,4,10,6,32,2,0
+2011-11-26,Ohio State,Big Ten,A,Michigan,L,34,40,14,26,235,2,31,137,2,8,9,5,47,0,1
+2012-01-02,Ohio State,Big Ten,N,Florida,L,17,24,18,23,162,2,37,137,0,8,9,4,25,2,0
+2011-09-03,Ohio,MAC,A,New Mexico State,W,44,24,17,30,211,2,47,241,3,7,15,6,61,1,1
+2011-09-17,Ohio,MAC,H,Marshall,W,44,7,21,30,288,3,55,271,2,13,15,7,45,2,0
+2011-09-24,Ohio,MAC,A,Rutgers,L,26,38,23,36,339,3,23,100,0,15,6,9,74,4,0
+2011-10-01,Ohio,MAC,H,Kent State,W,17,10,28,42,276,2,39,115,0,14,7,5,69,1,0
+2011-10-08,Ohio,MAC,A,Buffalo,L,37,38,23,37,203,1,35,239,3,9,11,6,67,0,1
+2011-10-15,Ohio,MAC,H,Ball State,L,20,23,19,31,283,3,30,130,0,11,7,5,34,1,2
+2011-10-22,Ohio,MAC,A,Akron,W,37,20,23,31,344,2,49,212,2,16,13,8,100,2,1
+2011-11-02,Ohio,MAC,H,Temple,W,35,31,16,25,281,3,42,240,2,10,11,4,58,1,0
+2011-11-10,Ohio,MAC,A,Central Michigan,W,43,28,13,24,230,2,61,297,3,10,14,9,86,0,1
+2011-11-16,Ohio,MAC,A,Bowling Green State,W,29,28,18,27,194,1,50,253,1,9,16,5,62,2,0
+2011-11-22,Ohio,MAC,H,Miami (OH),W,21,14,18,26,203,3,43,232,0,10,10,4,40,0,1
+2011-12-02,Ohio,MAC,N,Northern Illinois,L,20,23,19,32,242,1,39,130,1,11,8,5,45,0,3
+2011-12-17,Ohio,MAC,N,Utah State,W,24,23,19,26,220,2,42,125,1,9,10,6,45,0,0
+2011-09-10,North Carolina,ACC,H,Rutgers,W,24,22,20,26,273,1,29,132,2,10,4,9,94,2,3
+2011-09-17,North Carolina,ACC,H,Virginia,W,28,17,16,23,179,2,41,222,2,10,10,3,40,1,0
+2011-09-24,North Carolina,ACC,A,Georgia Tech,L,28,35,17,25,204,2,27,128,2,8,6,6,50,0,2
+2011-10-01,North Carolina,ACC,A,East Carolina,W,35,20,13,20,230,4,40,226,1,9,10,1,15,0,0
+2011-10-08,North Carolina,ACC,H,Louisville,W,14,7,12,19,178,1,32,86,1,5,5,7,51,1,0
+2011-10-15,North Carolina,ACC,H,Miami (FL),L,24,30,29,38,288,2,42,141,1,14,11,2,25,2,0
+2011-10-22,North Carolina,ACC,A,Clemson,L,38,59,20,35,316,2,28,102,2,12,6,9,62,3,3
+2011-10-29,North Carolina,ACC,H,Wake Forest,W,49,24,21,28,338,3,47,224,4,11,10,4,46,1,0
+2011-11-05,North Carolina,ACC,A,North Carolina State,L,0,13,16,30,162,0,28,3,0,10,2,7,51,0,3
+2011-11-17,North Carolina,ACC,A,Virginia Tech,L,21,24,14,27,224,1,34,134,2,8,9,6,59,1,0
+2011-11-26,North Carolina,ACC,H,Duke,W,37,21,22,35,321,3,40,187,1,14,10,9,75,0,1
+2011-12-26,North Carolina,ACC,N,Missouri,L,24,41,27,42,317,3,19,36,0,16,2,2,20,1,1
+2011-09-03,Miami (OH),MAC,A,Missouri,L,6,17,26,39,194,0,36,76,1,9,7,6,33,1,1
+2011-09-17,Miami (OH),MAC,A,Minnesota,L,23,29,27,48,325,2,21,80,1,14,3,0,0,0,1
+2011-09-24,Miami (OH),MAC,H,Bowling Green State,L,23,37,25,40,265,0,31,43,2,12,5,6,41,1,2
+2011-10-01,Miami (OH),MAC,H,Cincinnati,L,0,27,21,35,267,0,38,-3,0,10,4,8,105,1,1
+2011-10-08,Miami (OH),MAC,H,Army,W,35,28,24,37,342,4,33,161,1,16,10,4,24,1,0
+2011-10-15,Miami (OH),MAC,A,Kent State,W,9,3,13,27,125,1,34,41,0,7,4,5,35,2,0
+2011-10-22,Miami (OH),MAC,A,Toledo,L,28,49,28,43,394,3,21,14,1,15,2,11,80,1,2
+2011-10-29,Miami (OH),MAC,H,Buffalo,W,41,13,20,26,313,5,31,128,1,12,6,7,45,1,1
+2011-11-03,Miami (OH),MAC,H,Akron,W,35,3,12,20,215,2,48,168,3,9,8,6,52,0,0
+2011-11-09,Miami (OH),MAC,A,Temple,L,21,24,28,37,364,3,32,64,0,16,6,5,40,1,2
+2011-11-16,Miami (OH),MAC,H,Western Michigan,L,21,24,42,54,413,3,22,53,0,22,3,6,55,1,1
+2011-11-22,Miami (OH),MAC,A,Ohio,L,14,21,35,53,372,1,28,61,1,19,9,6,41,0,0
+2011-09-10,Utah,Pac-12,A,USC,L,14,23,23,46,238,1,25,81,1,12,6,8,43,1,0
+2011-09-17,Utah,Pac-12,A,Brigham Young,W,54,10,16,31,239,2,38,242,3,9,8,3,26,1,1
+2011-10-01,Utah,Pac-12,H,Washington,L,14,31,22,33,305,2,23,17,0,13,3,4,41,3,2
+2011-10-08,Utah,Pac-12,H,Arizona State,L,14,35,18,30,199,1,30,121,1,9,4,7,71,2,3
+2011-10-15,Utah,Pac-12,A,Pitt,W,26,14,14,23,127,1,52,124,0,8,8,10,97,0,0
+2011-10-22,Utah,Pac-12,A,California,L,10,34,12,24,165,0,26,13,1,4,4,3,25,1,3
+2011-10-29,Utah,Pac-12,H,Oregon State,W,27,8,6,14,62,2,44,225,1,1,12,4,40,1,0
+2011-11-05,Utah,Pac-12,A,Arizona,W,34,21,12,21,199,2,40,133,2,8,7,5,54,0,0
+2011-11-12,Utah,Pac-12,H,UCLA,W,31,6,5,13,67,1,41,224,2,2,13,4,35,1,0
+2011-11-19,Utah,Pac-12,A,Washington State,W,30,27,12,19,172,1,50,185,2,7,7,11,105,2,0
+2011-11-25,Utah,Pac-12,H,Colorado,L,14,17,18,25,185,1,33,89,1,9,5,4,50,1,0
+2011-12-31,Utah,Pac-12,N,Georgia Tech,W,30,27,15,32,193,3,32,144,1,8,6,4,20,0,1
+2011-09-08,Arizona,Pac-12,A,Oklahoma State,L,14,37,37,51,398,1,21,41,1,19,2,11,67,1,0
+2011-09-17,Arizona,Pac-12,H,Stanford,L,10,37,28,39,282,1,23,51,0,12,6,3,25,0,0
+2011-09-24,Arizona,Pac-12,H,Oregon,L,31,56,34,57,398,3,35,82,1,16,9,9,91,0,0
+2011-10-01,Arizona,Pac-12,A,USC,L,41,48,41,53,425,4,33,129,2,25,10,9,68,0,2
+2011-10-08,Arizona,Pac-12,A,Oregon State,L,27,37,31,45,378,1,19,53,2,15,5,6,45,2,2
+2011-10-20,Arizona,Pac-12,H,UCLA,W,48,12,28,44,319,3,46,254,3,16,12,8,73,0,1
+2011-10-29,Arizona,Pac-12,A,Washington,L,31,42,32,50,388,2,19,36,0,19,4,6,56,1,3
+2011-11-05,Arizona,Pac-12,H,Utah,L,21,34,25,43,326,2,32,131,1,16,8,11,96,1,2
+2011-11-12,Arizona,Pac-12,A,Colorado,L,29,48,35,53,352,1,23,60,2,17,4,7,77,1,3
+2011-11-19,Arizona,Pac-12,A,Arizona State,W,31,27,36,52,393,3,28,101,1,16,6,11,89,0,0
+2011-11-26,Arizona,Pac-12,H,Louisiana,W,45,37,37,48,373,3,32,121,3,15,6,3,20,0,2
+2011-09-01,Western Kentucky,Sun Belt,N,Kentucky,L,3,14,9,27,93,0,42,141,0,4,8,12,120,0,4
+2011-09-10,Western Kentucky,Sun Belt,H,Navy,L,14,40,19,33,153,0,32,124,2,7,6,3,36,3,2
+2011-10-01,Western Kentucky,Sun Belt,H,Arkansas State,L,22,26,14,24,159,2,37,152,1,7,7,11,64,0,2
+2011-10-06,Western Kentucky,Sun Belt,A,Middle Tennessee State,W,36,33,17,35,222,1,51,168,3,10,8,11,86,1,0
+2011-10-15,Western Kentucky,Sun Belt,A,Florida Atlantic,W,20,0,8,15,85,0,50,204,3,3,10,5,35,0,0
+2011-10-22,Western Kentucky,Sun Belt,H,Louisiana,W,42,23,16,19,273,1,44,234,5,9,12,8,59,0,1
+2011-10-29,Western Kentucky,Sun Belt,A,Louisiana-Monroe,W,31,28,13,22,155,2,47,128,2,10,8,8,66,1,1
+2011-11-05,Western Kentucky,Sun Belt,H,Florida International,W,10,9,8,24,143,0,47,181,1,7,11,7,55,1,1
+2011-11-12,Western Kentucky,Sun Belt,A,LSU,L,9,42,11,24,97,0,45,129,1,7,7,6,50,0,1
+2011-11-19,Western Kentucky,Sun Belt,A,North Texas,W,31,21,19,29,231,3,49,252,1,10,11,10,95,0,0
+2011-11-26,Western Kentucky,Sun Belt,H,Troy,W,41,18,11,18,156,0,64,338,6,7,14,5,45,1,0
+2011-09-10,Vanderbilt,SEC,H,Connecticut,W,24,21,13,27,141,1,32,118,1,5,5,11,81,1,2
+2011-09-17,Vanderbilt,SEC,H,Ole Miss,W,30,7,14,22,106,0,49,281,3,4,13,7,40,2,1
+2011-09-24,Vanderbilt,SEC,A,South Carolina,L,3,21,16,23,73,0,25,4,0,1,3,7,79,2,1
+2011-10-08,Vanderbilt,SEC,A,Alabama,L,0,34,15,24,149,0,19,41,0,8,0,6,46,0,2
+2011-10-15,Vanderbilt,SEC,H,Georgia,L,28,33,11,31,149,1,36,199,2,4,12,7,51,1,3
+2011-10-22,Vanderbilt,SEC,H,Army,W,44,21,10,27,186,1,54,344,5,5,18,7,70,0,2
+2011-10-29,Vanderbilt,SEC,H,Arkansas,L,28,31,15,28,240,1,42,222,3,10,9,3,35,2,1
+2011-11-05,Vanderbilt,SEC,A,Florida,L,21,26,19,28,297,2,33,80,1,12,6,12,106,0,0
+2011-11-12,Vanderbilt,SEC,H,Kentucky,W,38,8,13,23,207,2,56,203,3,9,15,3,25,0,1
+2011-11-19,Vanderbilt,SEC,A,Tennessee,L,21,27,17,32,193,1,36,90,1,8,8,7,46,1,3
+2011-11-26,Vanderbilt,SEC,A,Wake Forest,W,41,7,8,16,184,2,55,297,3,3,19,1,5,0,0
+2011-12-31,Vanderbilt,SEC,N,Cincinnati,L,24,31,12,34,168,1,36,127,2,5,6,6,39,1,2
+2011-09-01,Kentucky,SEC,N,Western Kentucky,W,14,3,7,18,97,1,33,93,1,3,4,7,60,0,3
+2011-09-10,Kentucky,SEC,H,Central Michigan,W,27,13,9,18,114,1,37,230,2,3,9,1,15,1,1
+2011-09-17,Kentucky,SEC,H,Louisville,L,17,24,27,42,255,2,32,35,0,14,3,4,25,1,0
+2011-09-24,Kentucky,SEC,H,Florida,L,10,48,22,44,165,1,36,134,0,6,9,2,12,2,2
+2011-10-01,Kentucky,SEC,A,LSU,L,7,35,7,25,66,1,39,89,0,5,6,6,23,1,0
+2011-10-08,Kentucky,SEC,A,South Carolina,L,3,54,4,26,17,0,27,79,0,1,5,3,25,2,4
+2011-10-29,Kentucky,SEC,H,Mississippi State,L,16,28,29,38,189,0,39,118,1,9,8,5,45,0,0
+2011-11-05,Kentucky,SEC,H,Ole Miss,W,30,13,19,36,283,2,31,115,2,10,8,5,42,0,0
+2011-11-12,Kentucky,SEC,A,Vanderbilt,L,8,38,15,31,179,1,22,32,0,5,4,10,105,1,0
+2011-11-19,Kentucky,SEC,A,Georgia,L,10,19,18,36,142,1,21,23,0,5,2,2,10,2,2
+2011-11-26,Kentucky,SEC,H,Tennessee,W,10,7,4,6,15,0,56,202,1,1,9,11,85,0,0
+2011-09-03,Florida,SEC,H,Florida Atlantic,W,41,3,25,36,271,1,33,197,3,16,12,9,65,0,3
+2011-09-10,Florida,SEC,H,UAB,W,39,0,13,20,212,0,55,300,4,10,18,9,55,0,0
+2011-09-17,Florida,SEC,H,Tennessee,W,33,23,14,23,213,2,40,134,1,7,7,16,150,1,0
+2011-09-24,Florida,SEC,A,Kentucky,W,48,10,8,18,115,1,46,405,4,5,12,5,45,2,1
+2011-10-01,Florida,SEC,H,Alabama,L,10,38,14,23,207,1,29,15,0,7,1,4,16,1,1
+2011-10-08,Florida,SEC,A,LSU,L,11,41,9,16,100,1,32,113,0,3,5,12,90,0,2
+2011-10-15,Florida,SEC,A,Auburn,L,6,17,15,29,128,0,30,66,0,7,3,6,40,2,1
+2011-10-29,Florida,SEC,N,Georgia,L,20,24,12,34,245,1,22,-19,0,11,0,14,106,2,0
+2011-11-05,Florida,SEC,H,Vanderbilt,W,26,21,17,25,213,0,46,197,3,11,11,3,17,1,0
+2011-11-12,Florida,SEC,A,South Carolina,L,12,17,13,23,119,0,34,142,1,7,8,5,30,2,0
+2011-11-26,Florida,SEC,H,Florida State,L,7,21,14,29,130,1,33,54,0,5,4,4,25,0,4
+2012-01-02,Florida,SEC,N,Ohio State,W,24,17,12,16,132,1,38,131,0,7,7,7,74,2,1
+2011-09-03,Troy,Sun Belt,A,Clemson,L,19,43,24,42,258,1,36,165,1,14,5,8,61,2,1
+2011-09-17,Troy,Sun Belt,A,Arkansas,L,28,38,36,63,373,3,20,84,0,14,6,7,75,0,1
+2011-09-24,Troy,Sun Belt,H,Middle Tennessee State,W,38,35,27,42,347,3,36,132,1,12,10,7,51,1,1
+2011-10-01,Troy,Sun Belt,H,UAB,W,24,23,30,50,349,0,37,172,3,17,6,10,72,2,1
+2011-10-08,Troy,Sun Belt,A,Louisiana,L,17,31,39,55,325,2,27,77,0,21,4,11,81,1,1
+2011-10-15,Troy,Sun Belt,H,Louisiana-Monroe,L,10,38,20,36,140,0,21,-14,1,5,2,4,20,1,2
+2011-10-25,Troy,Sun Belt,A,Florida International,L,20,23,20,34,215,0,25,84,2,7,5,9,46,0,2
+2011-11-05,Troy,Sun Belt,A,Navy,L,14,42,27,37,212,1,34,118,1,12,9,4,40,2,0
+2011-11-12,Troy,Sun Belt,H,North Texas,L,33,38,27,39,267,4,33,116,1,14,7,2,25,2,1
+2011-11-19,Troy,Sun Belt,H,Florida Atlantic,W,34,7,32,48,396,3,25,41,1,13,4,5,29,2,1
+2011-11-26,Troy,Sun Belt,A,Western Kentucky,L,18,41,18,33,303,2,17,27,1,13,1,10,103,1,2
+2011-12-03,Troy,Sun Belt,A,Arkansas State,L,14,45,32,52,311,2,25,62,0,15,5,3,33,2,2
+2011-09-10,Connecticut,Big East,A,Vanderbilt,L,21,24,11,29,104,0,36,89,0,5,7,5,40,1,3
+2011-09-16,Connecticut,Big East,H,Iowa State,L,20,24,15,36,231,1,42,112,1,10,6,1,5,2,1
+2011-09-24,Connecticut,Big East,A,Buffalo,W,17,3,12,22,213,2,42,80,0,9,4,5,45,0,0
+2011-10-01,Connecticut,Big East,H,Western Michigan,L,31,38,22,39,300,4,33,151,0,14,3,10,95,1,0
+2011-10-08,Connecticut,Big East,A,West Virginia,L,16,43,21,37,193,0,35,82,0,10,5,7,51,1,0
+2011-10-15,Connecticut,Big East,H,South Florida,W,16,10,14,25,135,0,48,118,0,8,9,3,25,2,0
+2011-10-26,Connecticut,Big East,A,Pitt,L,20,35,18,34,202,2,37,114,0,8,10,4,25,0,0
+2011-11-05,Connecticut,Big East,H,Syracuse,W,28,21,8,14,113,1,47,198,3,7,10,4,55,3,2
+2011-11-19,Connecticut,Big East,H,Louisville,L,20,34,18,45,253,1,23,76,1,11,4,7,45,1,1
+2011-11-26,Connecticut,Big East,H,Rutgers,W,40,22,11,17,112,0,47,178,4,6,8,6,33,1,0
+2011-12-03,Connecticut,Big East,A,Cincinnati,L,27,35,20,40,252,2,34,18,0,10,4,8,65,2,1
+2011-09-10,UAB,CUSA,A,Florida,L,0,39,15,29,141,0,23,71,0,5,5,9,55,1,0
+2011-09-17,UAB,CUSA,H,Tulane,L,10,49,10,28,145,0,17,48,0,6,3,3,25,0,3
+2011-09-24,UAB,CUSA,A,East Carolina,L,23,28,31,48,283,0,33,117,2,13,8,0,0,2,1
+2011-10-01,UAB,CUSA,A,Troy,L,23,24,19,39,196,0,39,160,1,9,7,5,42,0,1
+2011-10-08,UAB,CUSA,H,Mississippi State,L,3,21,18,36,195,0,35,145,0,9,10,7,79,1,1
+2011-10-15,UAB,CUSA,A,Tulsa,L,20,37,21,44,298,2,27,81,0,12,3,8,65,0,2
+2011-10-20,UAB,CUSA,H,UCF,W,26,24,31,42,327,2,36,174,1,17,8,5,45,0,2
+2011-10-29,UAB,CUSA,A,Marshall,L,14,59,21,43,240,0,34,70,2,15,4,4,40,2,3
+2011-11-05,UAB,CUSA,H,Houston,L,13,56,17,31,154,1,33,115,0,8,7,6,62,0,1
+2011-11-12,UAB,CUSA,A,Memphis,W,41,35,29,48,410,4,33,191,1,19,10,5,42,2,0
+2011-11-17,UAB,CUSA,H,Southern Mississippi,W,34,31,17,26,236,1,52,189,3,11,11,4,40,2,0
+2011-11-26,UAB,CUSA,A,Florida Atlantic,L,35,38,17,26,190,2,40,192,3,12,10,4,28,1,1
+2011-09-02,Baylor,Big 12,H,Texas Christian,W,50,48,23,29,414,6,36,150,1,16,9,11,116,1,0
+2011-09-24,Baylor,Big 12,H,Rice,W,56,31,31,35,367,5,50,306,2,14,16,6,73,2,0
+2011-10-01,Baylor,Big 12,A,Kansas State,L,35,36,23,32,346,5,30,83,0,11,9,8,103,2,1
+2011-10-08,Baylor,Big 12,H,Iowa State,W,49,26,22,30,212,1,67,395,5,11,24,2,20,2,0
+2011-10-15,Baylor,Big 12,A,Texas A&M,L,28,55,28,40,430,3,31,50,1,17,6,10,83,0,1
+2011-10-29,Baylor,Big 12,A,Oklahoma State,L,24,59,34,51,446,1,54,176,2,19,13,3,28,3,2
+2011-11-05,Baylor,Big 12,H,Missouri,W,42,39,27,41,406,3,42,280,3,16,13,8,74,1,0
+2011-11-12,Baylor,Big 12,A,Kansas,W,31,30,22,30,312,3,28,193,1,10,11,6,39,3,1
+2011-11-19,Baylor,Big 12,H,Oklahoma,W,45,38,22,35,485,4,38,131,2,14,10,8,55,0,0
+2011-11-26,Baylor,Big 12,N,Texas Tech,W,66,42,16,23,257,3,79,360,5,9,24,11,110,2,0
+2011-12-03,Baylor,Big 12,H,Texas,W,48,24,15,22,320,2,38,191,4,14,9,6,45,0,1
+2011-12-29,Baylor,Big 12,N,Washington,W,67,56,24,33,295,1,52,482,8,14,18,8,58,1,0
+2011-09-04,SMU,CUSA,A,Texas A&M,L,14,46,23,38,268,1,32,79,1,15,4,3,18,0,2
+2011-09-10,SMU,CUSA,H,UTEP,W,28,17,18,31,244,0,27,146,3,9,6,9,79,2,1
+2011-09-24,SMU,CUSA,A,Memphis,W,42,0,28,44,357,3,30,162,3,21,4,6,50,3,1
+2011-10-01,SMU,CUSA,A,Texas Christian,W,40,33,23,45,349,4,24,112,0,12,7,11,76,0,1
+2011-10-15,SMU,CUSA,H,UCF,W,38,17,20,31,358,2,16,82,2,12,4,5,50,0,1
+2011-10-22,SMU,CUSA,A,Southern Mississippi,L,3,27,16,32,173,0,24,157,0,7,5,9,55,0,2
+2011-10-29,SMU,CUSA,A,Tulsa,L,7,38,17,37,180,0,27,85,1,8,5,6,72,1,4
+2011-11-05,SMU,CUSA,H,Tulane,W,45,24,29,40,322,3,28,131,3,17,5,6,50,1,0
+2011-11-12,SMU,CUSA,H,Navy,L,17,24,26,36,249,1,29,137,1,11,8,6,60,0,2
+2011-11-19,SMU,CUSA,A,Houston,L,7,37,23,40,239,1,26,24,0,13,2,7,30,1,1
+2011-11-26,SMU,CUSA,H,Rice,W,27,24,16,25,179,1,35,189,3,9,4,5,48,3,2
+2012-01-07,SMU,CUSA,N,Pitt,W,28,6,16,26,239,1,31,61,3,11,2,3,24,1,0
+2011-09-10,Virginia,ACC,A,Indiana,W,34,31,16,30,198,0,40,162,3,8,10,6,51,2,2
+2011-09-17,Virginia,ACC,A,North Carolina,L,17,28,23,41,298,1,34,170,1,15,7,6,58,1,2
+2011-09-24,Virginia,ACC,H,Southern Mississippi,L,24,30,26,44,221,1,40,153,2,16,6,4,40,0,3
+2011-10-01,Virginia,ACC,H,Idaho,W,21,20,30,50,335,2,41,161,1,16,10,7,60,2,1
+2011-10-15,Virginia,ACC,H,Georgia Tech,W,24,21,9,19,135,1,47,274,2,6,15,4,25,0,1
+2011-10-22,Virginia,ACC,H,North Carolina State,L,14,28,11,35,125,2,33,124,0,4,8,4,30,1,3
+2011-10-27,Virginia,ACC,A,Miami (FL),W,28,21,12,21,263,3,42,207,0,9,10,3,18,0,0
+2011-11-05,Virginia,ACC,A,Maryland,W,31,13,23,36,307,2,45,220,2,14,9,5,40,2,1
+2011-11-12,Virginia,ACC,H,Duke,W,31,21,15,29,191,2,42,165,1,9,10,6,43,1,0
+2011-11-19,Virginia,ACC,A,Florida State,W,14,13,22,31,238,1,29,78,1,12,3,7,50,0,0
+2011-11-26,Virginia,ACC,H,Virginia Tech,L,0,38,16,30,211,0,26,30,0,11,2,6,54,2,2
+2011-12-31,Virginia,ACC,N,Auburn,L,24,43,26,41,312,2,30,123,1,16,7,3,25,1,1
+2011-09-10,Virginia Tech,ACC,A,East Carolina,W,17,10,8,20,91,0,50,241,2,6,14,12,92,1,1
+2011-09-17,Virginia Tech,ACC,H,Arkansas State,W,26,7,21,33,292,2,40,135,1,10,11,5,51,0,2
+2011-09-24,Virginia Tech,ACC,A,Marshall,W,30,10,22,33,229,0,41,215,4,11,9,5,41,1,1
+2011-10-01,Virginia Tech,ACC,H,Clemson,L,3,23,15,27,125,0,40,133,0,4,10,6,60,1,1
+2011-10-08,Virginia Tech,ACC,H,Miami (FL),W,38,35,23,25,310,3,38,172,2,14,11,5,35,1,0
+2011-10-15,Virginia Tech,ACC,A,Wake Forest,W,38,17,17,32,280,2,40,193,3,11,8,4,28,0,0
+2011-10-22,Virginia Tech,ACC,H,Boston College,W,30,14,22,36,268,1,40,214,2,12,11,3,13,0,0
+2011-10-29,Virginia Tech,ACC,A,Duke,W,14,10,17,28,190,1,42,243,1,10,10,9,94,0,2
+2011-11-10,Virginia Tech,ACC,A,Georgia Tech,W,37,26,7,13,209,3,52,267,2,6,13,6,56,1,0
+2011-11-17,Virginia Tech,ACC,H,North Carolina,W,24,21,19,33,195,2,40,145,1,7,13,2,25,1,0
+2011-11-26,Virginia Tech,ACC,A,Virginia,W,38,0,16,25,227,2,45,183,3,10,9,5,60,0,0
+2011-12-03,Virginia Tech,ACC,N,Clemson,L,10,38,22,44,274,1,29,56,0,14,3,9,91,1,2
+2012-01-03,Virginia Tech,ACC,N,Michigan,L,20,23,19,28,214,0,48,163,1,9,12,7,68,1,1
+2011-09-03,Clemson,ACC,H,Troy,W,43,19,21,31,271,3,38,197,2,10,6,2,10,0,1
+2011-09-17,Clemson,ACC,H,Auburn,W,38,24,30,42,386,4,50,238,1,19,12,6,50,1,0
+2011-09-24,Clemson,ACC,H,Florida State,W,35,30,22,35,344,3,50,99,2,11,8,5,50,1,0
+2011-10-01,Clemson,ACC,A,Virginia Tech,W,23,3,13,32,204,1,35,119,2,11,5,5,61,0,1
+2011-10-08,Clemson,ACC,H,Boston College,W,36,14,22,37,320,1,41,180,2,14,10,2,20,0,0
+2011-10-15,Clemson,ACC,A,Maryland,W,56,45,26,38,270,4,42,306,2,14,14,4,40,1,1
+2011-10-22,Clemson,ACC,H,North Carolina,W,59,38,28,48,373,5,36,77,1,17,7,3,32,1,0
+2011-10-29,Clemson,ACC,A,Georgia Tech,L,17,31,24,41,304,1,24,95,1,14,4,5,30,2,2
+2011-11-12,Clemson,ACC,H,Wake Forest,W,31,28,27,44,343,2,42,179,2,19,8,6,58,1,2
+2011-11-19,Clemson,ACC,A,North Carolina State,L,13,37,25,41,303,0,28,34,1,13,4,5,42,2,2
+2011-11-26,Clemson,ACC,A,South Carolina,L,13,34,11,30,83,1,30,70,0,5,7,5,25,0,1
+2011-12-03,Clemson,ACC,N,Virginia Tech,W,38,10,20,30,240,3,45,217,2,12,12,5,35,0,0
+2012-01-04,Clemson,ACC,N,West Virginia,L,33,70,24,47,250,2,27,193,2,14,8,6,65,2,2
+2011-09-03,South Carolina,SEC,N,East Carolina,W,56,37,10,25,131,1,40,220,5,6,10,8,55,4,0
+2011-09-10,South Carolina,SEC,A,Georgia,W,45,42,11,26,142,1,41,253,3,5,9,5,47,0,2
+2011-09-17,South Carolina,SEC,H,Navy,W,24,21,18,25,204,0,44,254,3,11,16,5,33,0,1
+2011-09-24,South Carolina,SEC,H,Vanderbilt,W,21,3,17,32,236,1,40,131,1,8,7,10,72,0,4
+2011-10-01,South Carolina,SEC,H,Auburn,L,13,16,9,23,160,1,29,129,1,5,7,7,55,2,2
+2011-10-08,South Carolina,SEC,H,Kentucky,W,54,3,30,43,351,5,48,288,2,14,17,7,45,1,0
+2011-10-15,South Carolina,SEC,A,Mississippi State,W,14,12,22,32,179,1,43,110,1,7,11,4,34,0,2
+2011-10-29,South Carolina,SEC,A,Tennessee,W,14,3,10,18,87,1,53,231,1,4,15,4,35,2,1
+2011-11-05,South Carolina,SEC,A,Arkansas,L,28,44,16,25,128,0,33,79,3,6,8,9,45,3,1
+2011-11-12,South Carolina,SEC,H,Florida,W,17,12,7,13,84,0,52,215,2,1,13,9,65,0,1
+2011-11-26,South Carolina,SEC,H,Clemson,W,34,13,14,20,210,3,53,210,1,7,12,3,41,0,0
+2012-01-02,South Carolina,SEC,N,Nebraska,W,30,13,11,17,230,2,40,121,2,8,7,6,66,0,0
+2011-09-03,Ball State,MAC,N,Indiana,W,27,20,23,29,173,2,46,210,1,13,10,5,54,0,0
+2011-09-10,Ball State,MAC,A,South Florida,L,7,37,24,35,148,0,33,77,1,5,6,1,5,3,0
+2011-09-17,Ball State,MAC,H,Buffalo,W,28,25,24,36,226,2,39,174,2,12,7,3,25,0,0
+2011-09-24,Ball State,MAC,H,Army,W,48,21,26,33,383,3,42,162,3,14,11,5,45,0,0
+2011-10-01,Ball State,MAC,A,Oklahoma,L,6,62,14,36,95,0,35,119,0,5,4,4,20,1,3
+2011-10-08,Ball State,MAC,H,Temple,L,0,42,19,34,155,0,25,81,0,9,7,6,39,1,2
+2011-10-15,Ball State,MAC,A,Ohio,W,23,20,21,37,206,0,41,166,2,10,9,5,40,0,0
+2011-10-22,Ball State,MAC,H,Central Michigan,W,31,27,27,38,325,3,31,130,1,13,10,7,55,0,1
+2011-10-29,Ball State,MAC,A,Western Michigan,L,35,45,35,50,335,3,37,220,2,18,12,9,63,0,2
+2011-11-05,Ball State,MAC,A,Eastern Michigan,W,33,31,20,36,284,2,22,91,1,13,3,3,30,0,1
+2011-11-15,Ball State,MAC,A,Northern Illinois,L,38,41,23,43,245,2,26,153,2,11,5,4,40,1,0
+2011-11-25,Ball State,MAC,H,Toledo,L,28,45,37,53,317,2,22,78,2,17,5,2,10,1,2
+2011-09-03,San Jose State,WAC,A,Stanford,L,3,57,17,33,210,0,32,27,0,10,1,7,70,3,0
+2011-09-10,San Jose State,WAC,A,UCLA,L,17,27,16,34,115,0,29,202,2,7,7,8,87,0,2
+2011-09-17,San Jose State,WAC,H,Nevada,L,14,17,13,33,152,0,30,138,2,8,6,3,35,3,1
+2011-09-24,San Jose State,WAC,H,New Mexico State,W,34,24,24,38,236,2,39,230,2,13,8,1,5,1,0
+2011-10-01,San Jose State,WAC,A,Colorado State,W,38,31,25,38,313,2,39,137,2,15,8,3,46,2,1
+2011-10-08,San Jose State,WAC,A,Brigham Young,L,16,29,25,35,255,0,26,70,1,12,4,0,0,0,2
+2011-10-14,San Jose State,WAC,H,Hawaii,W,28,27,27,41,366,1,40,103,1,16,5,6,45,3,3
+2011-10-29,San Jose State,WAC,A,Louisiana Tech,L,28,38,34,50,338,3,17,12,1,14,1,3,25,1,4
+2011-11-05,San Jose State,WAC,H,Idaho,L,29,32,29,42,289,1,25,68,2,14,3,3,25,1,0
+2011-11-12,San Jose State,WAC,A,Utah State,L,33,34,27,49,340,1,30,54,1,17,3,1,5,1,0
+2011-11-19,San Jose State,WAC,H,Navy,W,27,24,33,44,345,1,32,120,2,21,6,2,15,1,1
+2011-11-26,San Jose State,WAC,A,Fresno State,W,27,24,27,42,363,2,24,61,1,16,2,3,20,1,1
+2011-09-01,Bowling Green State,MAC,A,Idaho,W,32,15,19,31,291,2,48,187,2,12,7,9,87,0,0
+2011-09-17,Bowling Green State,MAC,H,Wyoming,L,27,28,34,55,437,4,33,77,0,24,4,4,35,4,2
+2011-09-24,Bowling Green State,MAC,A,Miami (OH),W,37,23,19,24,183,3,38,127,2,10,5,3,32,1,1
+2011-10-01,Bowling Green State,MAC,A,West Virginia,L,10,55,13,26,114,1,36,103,0,6,8,2,20,2,3
+2011-10-08,Bowling Green State,MAC,A,Western Michigan,L,21,45,21,35,263,1,26,118,2,11,8,7,67,0,1
+2011-10-15,Bowling Green State,MAC,H,Toledo,L,21,28,21,42,220,1,33,123,1,9,10,6,47,0,1
+2011-10-22,Bowling Green State,MAC,H,Temple,W,13,10,20,34,204,1,34,114,0,8,5,2,20,0,0
+2011-10-29,Bowling Green State,MAC,A,Kent State,L,15,27,29,49,400,1,28,45,0,18,3,2,10,2,2
+2011-11-08,Bowling Green State,MAC,H,Northern Illinois,L,14,45,22,40,255,2,17,79,0,10,4,8,57,1,0
+2011-11-16,Bowling Green State,MAC,H,Ohio,L,28,29,23,34,232,3,25,115,1,13,6,3,16,2,1
+2011-11-25,Bowling Green State,MAC,A,Buffalo,W,42,28,14,31,236,4,35,119,2,9,7,3,35,0,2
+2011-09-03,USC,Pac-12,H,Minnesota,W,19,17,34,45,304,3,28,67,0,14,8,8,75,1,0
+2011-09-10,USC,Pac-12,H,Utah,W,23,14,20,32,264,1,39,152,1,13,8,6,54,2,1
+2011-09-17,USC,Pac-12,H,Syracuse,W,38,17,27,40,326,5,33,175,0,13,12,7,70,1,0
+2011-09-24,USC,Pac-12,A,Arizona State,L,22,43,21,33,227,1,33,175,1,12,8,10,87,2,2
+2011-10-01,USC,Pac-12,H,Arizona,W,48,41,32,39,468,4,25,114,2,19,5,3,26,0,1
+2011-10-13,USC,Pac-12,A,California,W,30,9,19,35,195,2,37,118,1,9,6,5,30,2,0
+2011-10-22,USC,Pac-12,A,Notre Dame,W,31,17,24,35,224,3,44,219,0,11,16,2,25,0,0
+2011-10-29,USC,Pac-12,H,Stanford,L,48,56,28,45,284,3,23,148,2,15,7,3,35,1,1
+2011-11-04,USC,Pac-12,A,Colorado,W,42,17,25,39,318,6,33,243,0,15,13,5,43,0,1
+2011-11-12,USC,Pac-12,H,Washington,W,40,17,18,28,174,1,40,252,3,7,10,11,78,0,0
+2011-11-19,USC,Pac-12,A,Oregon,W,38,35,26,34,323,4,38,139,1,13,10,6,25,2,1
+2011-11-26,USC,Pac-12,H,UCLA,W,50,0,35,42,423,6,19,149,1,14,8,5,52,0,0
+2011-09-10,San Diego State,MWC,A,Army,W,23,20,8,18,146,1,25,146,2,4,10,3,10,0,0
+2011-09-17,San Diego State,MWC,H,Washington State,W,42,24,21,37,273,2,44,227,4,16,8,5,51,1,1
+2011-09-24,San Diego State,MWC,A,Michigan,L,7,28,23,48,253,1,29,123,0,15,5,6,55,3,0
+2011-10-08,San Diego State,MWC,H,Texas Christian,L,14,27,16,42,206,2,30,90,0,9,5,2,25,1,3
+2011-10-13,San Diego State,MWC,A,Air Force,W,41,27,15,21,209,2,35,201,2,9,11,5,47,1,0
+2011-10-29,San Diego State,MWC,H,Wyoming,L,27,30,13,27,247,2,37,292,2,8,12,8,70,0,1
+2011-11-05,San Diego State,MWC,H,New Mexico,W,35,7,16,24,271,0,48,215,5,11,11,3,33,0,0
+2011-11-12,San Diego State,MWC,A,Colorado State,W,18,15,19,35,154,1,52,173,1,9,11,4,47,0,1
+2011-11-19,San Diego State,MWC,H,Boise State,L,35,52,30,51,350,3,21,120,2,18,2,7,65,2,1
+2011-11-26,San Diego State,MWC,A,Nevada-Las Vegas,W,31,14,13,29,152,2,47,239,2,7,14,5,35,0,1
+2011-12-03,San Diego State,MWC,H,Fresno State,W,35,28,21,40,281,0,38,215,5,13,9,3,26,0,0
+2011-12-17,San Diego State,MWC,N,Louisiana,L,30,32,28,49,413,3,31,68,1,21,4,4,30,0,0
+2011-09-17,Eastern Michigan,MAC,A,Michigan,L,3,31,3,6,29,0,46,207,0,1,10,5,45,1,1
+2011-09-24,Eastern Michigan,MAC,A,Penn State,L,6,34,18,31,202,0,43,68,0,10,6,5,42,2,1
+2011-10-01,Eastern Michigan,MAC,H,Akron,W,31,23,4,9,94,0,56,228,4,3,13,6,47,1,0
+2011-10-08,Eastern Michigan,MAC,A,Toledo,L,16,54,13,24,138,1,32,89,1,5,4,12,85,1,2
+2011-10-15,Eastern Michigan,MAC,A,Central Michigan,W,35,28,6,8,76,0,50,350,5,4,13,5,40,0,0
+2011-10-22,Eastern Michigan,MAC,H,Western Michigan,W,14,10,6,9,144,1,50,205,1,3,13,7,61,1,0
+2011-11-05,Eastern Michigan,MAC,H,Ball State,L,31,33,12,19,196,4,63,305,0,10,18,12,108,0,0
+2011-11-12,Eastern Michigan,MAC,H,Buffalo,W,30,17,10,15,234,4,54,179,0,6,11,6,55,0,0
+2011-11-19,Eastern Michigan,MAC,A,Kent State,L,22,28,8,16,84,0,43,194,1,3,10,9,51,2,2
+2011-11-25,Eastern Michigan,MAC,A,Northern Illinois,L,12,18,11,25,147,1,48,133,0,7,10,2,10,0,0
+2011-09-01,Florida International,Sun Belt,H,North Texas,W,41,16,16,23,193,1,40,208,4,10,11,6,62,2,0
+2011-09-09,Florida International,Sun Belt,A,Louisville,W,24,17,14,21,248,2,26,45,0,5,4,5,45,0,0
+2011-09-17,Florida International,Sun Belt,H,UCF,W,17,10,15,29,127,0,30,111,1,7,7,3,15,0,0
+2011-09-24,Florida International,Sun Belt,H,Louisiana,L,31,36,18,30,224,0,44,190,4,9,10,7,61,0,1
+2011-10-01,Florida International,Sun Belt,H,Duke,L,27,31,26,41,392,3,41,176,0,14,12,8,85,1,0
+2011-10-08,Florida International,Sun Belt,A,Akron,W,27,17,26,38,308,0,46,206,3,16,10,10,80,1,1
+2011-10-18,Florida International,Sun Belt,A,Arkansas State,L,16,34,23,37,223,1,29,66,0,9,5,11,95,1,1
+2011-10-25,Florida International,Sun Belt,H,Troy,W,23,20,20,37,285,2,52,236,0,13,12,7,50,3,1
+2011-11-05,Florida International,Sun Belt,A,Western Kentucky,L,9,10,10,20,128,0,27,52,0,3,3,8,70,0,1
+2011-11-12,Florida International,Sun Belt,H,Florida Atlantic,W,41,7,18,24,135,1,37,219,3,5,12,10,97,1,0
+2011-11-19,Florida International,Sun Belt,A,Louisiana-Monroe,W,28,17,17,35,225,3,37,115,0,10,6,12,93,0,0
+2011-11-26,Florida International,Sun Belt,A,Middle Tennessee State,W,31,18,15,23,143,2,41,181,2,4,12,10,77,0,0
+2011-12-20,Florida International,Sun Belt,N,Marshall,L,10,20,20,32,163,0,27,88,1,9,3,5,25,1,0
+2011-09-10,Temple,MAC,A,Akron,W,41,3,8,19,111,1,49,305,4,6,16,4,34,1,0
+2011-09-17,Temple,MAC,H,Penn State,L,10,14,12,28,123,0,30,74,1,7,3,4,30,1,2
+2011-09-24,Temple,MAC,A,Maryland,W,38,7,9,9,140,0,62,285,5,7,12,3,25,1,0
+2011-10-01,Temple,MAC,H,Toledo,L,13,36,10,20,173,1,46,145,0,7,9,1,15,2,2
+2011-10-08,Temple,MAC,A,Ball State,W,42,0,10,13,160,1,62,350,5,6,16,6,72,0,0
+2011-10-15,Temple,MAC,H,Buffalo,W,34,0,7,11,58,0,65,400,4,4,15,4,30,0,0
+2011-10-22,Temple,MAC,A,Bowling Green State,L,10,13,7,13,66,0,49,218,1,4,8,12,97,0,0
+2011-11-02,Temple,MAC,A,Ohio,L,31,35,9,17,129,3,45,308,1,5,11,6,53,1,0
+2011-11-09,Temple,MAC,H,Miami (OH),W,24,21,10,19,92,1,42,218,2,6,11,7,54,0,0
+2011-11-19,Temple,MAC,H,Army,W,42,14,4,5,79,1,42,335,5,3,16,4,20,0,0
+2011-11-25,Temple,MAC,H,Kent State,W,34,16,8,12,113,0,48,202,3,6,8,4,40,2,0
+2011-12-17,Temple,MAC,N,Wyoming,W,37,15,8,12,169,1,51,255,3,4,16,7,55,0,0
+2011-09-03,Louisiana,Sun Belt,A,Oklahoma State,L,34,61,20,37,212,0,37,108,2,10,6,7,42,1,1
+2011-09-10,Louisiana,Sun Belt,A,Kent State,W,20,12,7,15,46,0,51,113,1,2,5,6,65,2,1
+2011-09-24,Louisiana,Sun Belt,A,Florida International,W,36,31,15,30,232,3,33,187,1,9,7,11,106,0,0
+2011-10-01,Louisiana,Sun Belt,H,Florida Atlantic,W,37,34,26,34,329,2,43,130,2,10,9,10,101,2,0
+2011-10-08,Louisiana,Sun Belt,H,Troy,W,31,17,23,32,265,2,40,117,1,13,6,5,55,1,0
+2011-10-15,Louisiana,Sun Belt,H,North Texas,W,30,10,15,22,250,4,36,95,0,10,5,3,25,2,0
+2011-10-22,Louisiana,Sun Belt,A,Western Kentucky,L,23,42,32,52,419,2,21,121,1,18,4,7,66,1,1
+2011-10-29,Louisiana,Sun Belt,A,Middle Tennessee State,W,45,20,16,23,188,1,54,338,4,8,16,6,40,1,0
+2011-11-05,Louisiana,Sun Belt,H,Louisiana-Monroe,W,36,35,31,51,356,4,17,54,1,15,3,5,25,0,1
+2011-11-12,Louisiana,Sun Belt,A,Arkansas State,L,21,30,24,45,248,2,28,66,1,9,6,10,67,1,4
+2011-11-26,Louisiana,Sun Belt,A,Arizona,L,37,45,25,37,328,1,25,80,3,14,4,10,106,1,0
+2011-12-17,Louisiana,Sun Belt,N,San Diego State,W,32,30,25,44,492,3,30,76,0,19,5,9,76,0,1
+2011-09-10,UCF,CUSA,H,Boston College,W,30,3,20,25,187,0,45,235,3,7,11,5,51,0,0
+2011-09-17,UCF,CUSA,A,Florida International,L,10,17,17,27,181,0,40,119,1,8,10,10,71,2,0
+2011-09-23,UCF,CUSA,A,Brigham Young,L,17,24,21,31,318,0,34,81,2,13,5,2,12,2,1
+2011-10-08,UCF,CUSA,H,Marshall,W,16,6,13,22,147,1,51,240,1,6,12,5,45,2,1
+2011-10-15,UCF,CUSA,A,SMU,L,17,38,32,44,349,2,36,110,0,14,9,5,40,0,0
+2011-10-20,UCF,CUSA,A,UAB,L,24,26,19,32,235,0,24,96,3,12,6,5,45,0,2
+2011-10-29,UCF,CUSA,H,Memphis,W,41,0,20,27,244,1,49,261,4,13,14,5,45,0,0
+2011-11-03,UCF,CUSA,H,Tulsa,L,17,24,16,24,226,1,37,155,1,10,8,6,64,0,0
+2011-11-12,UCF,CUSA,A,Southern Mississippi,L,29,30,31,44,316,2,24,48,0,16,5,11,84,2,1
+2011-11-19,UCF,CUSA,A,East Carolina,L,31,38,18,32,198,3,42,115,1,9,7,9,96,0,2
+2011-11-25,UCF,CUSA,H,UTEP,W,31,14,14,18,211,1,36,249,3,10,12,1,5,1,1
+2011-09-10,Toledo,MAC,A,Ohio State,L,22,27,21,42,292,2,30,46,1,11,4,14,102,0,1
+2011-09-16,Toledo,MAC,H,Boise State,L,15,40,20,40,251,1,30,98,1,12,8,9,72,1,1
+2011-09-24,Toledo,MAC,A,Syracuse,L,30,33,28,42,300,1,37,138,2,13,10,4,35,0,1
+2011-10-01,Toledo,MAC,A,Temple,W,36,13,13,15,148,2,39,157,3,4,7,4,40,1,0
+2011-10-08,Toledo,MAC,H,Eastern Michigan,W,54,16,27,31,302,4,43,240,2,16,8,5,43,1,0
+2011-10-15,Toledo,MAC,A,Bowling Green State,W,28,21,14,22,188,0,47,268,4,5,15,8,58,0,0
+2011-10-22,Toledo,MAC,H,Miami (OH),W,49,28,18,28,228,2,45,269,4,10,10,5,41,0,0
+2011-11-01,Toledo,MAC,H,Northern Illinois,L,60,63,21,35,324,5,54,265,3,16,15,9,89,0,0
+2011-11-08,Toledo,MAC,H,Western Michigan,W,66,63,30,41,385,3,60,419,5,15,20,8,73,3,3
+2011-11-18,Toledo,MAC,A,Central Michigan,W,44,17,24,33,275,2,41,236,3,12,11,6,65,0,0
+2011-11-25,Toledo,MAC,A,Ball State,W,45,28,27,33,267,4,50,240,1,14,13,12,115,0,0
+2011-12-28,Toledo,MAC,N,Air Force,W,42,41,21,27,216,3,32,123,1,9,8,5,46,1,1
+2011-09-03,Boise State,MWC,A,Georgia,W,35,21,28,34,261,3,37,129,2,16,6,4,20,0,1
+2011-09-16,Boise State,MWC,A,Toledo,W,40,15,33,43,465,5,38,145,1,20,9,9,60,0,1
+2011-09-24,Boise State,MWC,H,Tulsa,W,41,21,28,37,327,5,45,131,1,15,8,5,48,1,0
+2011-10-01,Boise State,MWC,H,Nevada,W,30,10,21,35,160,2,36,169,2,11,6,10,98,0,2
+2011-10-07,Boise State,MWC,A,Fresno State,W,57,7,26,37,281,3,38,183,5,14,6,2,15,0,0
+2011-10-15,Boise State,MWC,A,Colorado State,W,63,13,28,33,359,4,50,383,5,15,17,5,55,1,0
+2011-10-22,Boise State,MWC,H,Air Force,W,37,26,23,29,281,3,26,142,1,14,9,4,32,1,1
+2011-11-05,Boise State,MWC,A,Nevada-Las Vegas,W,48,21,21,34,231,5,34,185,2,11,8,4,53,0,0
+2011-11-12,Boise State,MWC,H,Texas Christian,L,35,36,28,38,320,2,32,126,2,16,4,6,67,2,0
+2011-11-19,Boise State,MWC,A,San Diego State,W,52,35,28,40,366,4,43,131,3,16,8,6,41,1,1
+2011-11-26,Boise State,MWC,H,Wyoming,W,36,14,24,36,279,3,41,200,2,17,9,4,46,1,1
+2011-12-03,Boise State,MWC,H,New Mexico,W,45,0,37,45,394,3,37,149,3,21,8,4,24,0,1
+2011-12-22,Boise State,MWC,N,Arizona State,W,56,24,27,36,298,3,35,162,2,16,10,6,55,1,2
+2011-09-01,North Texas,Sun Belt,A,Florida International,L,16,41,19,35,204,0,38,97,0,9,5,5,45,1,0
+2011-09-10,North Texas,Sun Belt,H,Houston,L,23,48,21,34,172,1,34,118,2,10,7,6,40,2,1
+2011-09-17,North Texas,Sun Belt,A,Alabama,L,0,41,13,31,101,0,32,68,0,6,4,8,68,0,0
+2011-09-24,North Texas,Sun Belt,H,Indiana,W,24,21,10,20,201,3,48,226,0,7,12,8,55,2,1
+2011-10-01,North Texas,Sun Belt,A,Tulsa,L,24,41,18,26,261,2,56,130,1,9,11,9,75,0,2
+2011-10-08,North Texas,Sun Belt,H,Florida Atlantic,W,31,17,13,27,108,0,43,129,2,6,9,3,15,1,0
+2011-10-15,North Texas,Sun Belt,A,Louisiana,L,10,30,14,26,144,0,38,88,1,7,5,5,65,1,1
+2011-10-22,North Texas,Sun Belt,H,Louisiana-Monroe,W,38,21,23,39,332,3,33,127,1,15,5,3,35,0,0
+2011-10-29,North Texas,Sun Belt,A,Arkansas State,L,14,37,15,28,141,1,33,142,1,6,8,4,33,0,1
+2011-11-12,North Texas,Sun Belt,A,Troy,W,38,33,31,38,331,2,36,172,3,16,7,2,20,0,1
+2011-11-19,North Texas,Sun Belt,H,Western Kentucky,L,21,31,20,36,254,2,20,68,1,13,4,4,21,0,2
+2011-12-03,North Texas,Sun Belt,H,Middle Tennessee State,W,59,7,2,7,23,0,69,464,7,1,17,3,25,1,0
+2011-09-03,Brigham Young,Ind,A,Ole Miss,W,14,13,24,38,225,1,31,91,0,15,4,6,40,0,1
+2011-09-10,Brigham Young,Ind,A,Texas,L,16,17,22,38,192,1,23,43,0,9,3,3,25,0,2
+2011-09-17,Brigham Young,Ind,H,Utah,L,10,54,30,56,343,1,22,11,0,18,1,8,70,6,1
+2011-09-23,Brigham Young,Ind,H,UCF,W,24,17,16,35,133,0,32,127,2,7,8,3,35,0,1
+2011-09-30,Brigham Young,Ind,H,Utah State,W,27,24,21,39,251,2,46,200,1,13,14,3,25,1,0
+2011-10-08,Brigham Young,Ind,H,San Jose State,W,29,16,14,24,219,3,44,224,0,10,15,4,29,1,2
+2011-10-15,Brigham Young,Ind,A,Oregon State,W,38,28,17,29,217,3,48,282,2,10,12,10,79,1,1
+2011-10-28,Brigham Young,Ind,A,Texas Christian,L,28,38,15,31,215,1,50,139,1,10,12,5,39,1,2
+2011-11-12,Brigham Young,Ind,H,Idaho,W,42,7,21,33,262,3,42,243,3,13,13,7,45,0,1
+2011-11-19,Brigham Young,Ind,H,New Mexico State,W,42,7,21,36,238,4,34,173,2,12,9,7,61,0,1
+2011-12-03,Brigham Young,Ind,A,Hawaii,W,41,20,25,38,363,3,38,167,1,18,8,5,55,0,0
+2011-12-30,Brigham Young,Ind,N,Tulsa,W,24,21,17,40,250,3,40,94,0,11,7,5,60,0,2
+2011-09-03,Florida Atlantic,Sun Belt,A,Florida,L,3,41,14,27,107,0,30,30,0,6,3,5,45,0,0
+2011-09-10,Florida Atlantic,Sun Belt,A,Michigan State,L,0,44,6,13,26,0,20,22,0,1,0,5,55,1,0
+2011-09-24,Florida Atlantic,Sun Belt,A,Auburn,L,14,30,21,32,199,1,34,108,0,11,8,6,51,0,3
+2011-10-01,Florida Atlantic,Sun Belt,A,Louisiana,L,34,37,20,38,219,3,27,105,1,9,5,11,100,0,1
+2011-10-08,Florida Atlantic,Sun Belt,A,North Texas,L,17,31,16,39,165,1,35,169,1,10,8,6,43,1,3
+2011-10-15,Florida Atlantic,Sun Belt,H,Western Kentucky,L,0,20,12,24,96,0,25,25,0,4,2,8,71,0,0
+2011-10-22,Florida Atlantic,Sun Belt,H,Middle Tennessee State,L,14,38,14,29,135,1,35,141,1,8,5,6,55,5,1
+2011-11-05,Florida Atlantic,Sun Belt,H,Arkansas State,L,21,39,16,25,147,1,29,134,2,7,6,10,74,2,2
+2011-11-12,Florida Atlantic,Sun Belt,A,Florida International,L,7,41,21,38,206,1,37,96,0,10,7,14,142,0,3
+2011-11-19,Florida Atlantic,Sun Belt,A,Troy,L,7,34,16,33,157,0,38,134,1,8,9,9,75,1,1
+2011-11-26,Florida Atlantic,Sun Belt,H,UAB,W,38,35,16,25,181,0,46,235,4,11,13,7,70,1,0
+2011-12-03,Florida Atlantic,Sun Belt,H,Louisiana-Monroe,L,0,26,11,28,79,0,31,69,0,5,3,5,37,0,2
+2011-09-01,Memphis,CUSA,H,Mississippi State,L,14,59,26,40,174,1,47,164,1,10,9,8,55,2,1
+2011-09-10,Memphis,CUSA,A,Arkansas State,L,3,47,13,29,87,0,38,82,0,4,7,4,35,1,0
+2011-09-24,Memphis,CUSA,H,SMU,L,0,42,17,32,153,0,24,-14,0,5,1,6,70,1,0
+2011-10-01,Memphis,CUSA,A,Middle Tennessee State,L,31,38,25,32,230,1,43,165,3,16,6,3,33,2,0
+2011-10-08,Memphis,CUSA,A,Rice,L,6,28,24,43,237,0,29,70,0,9,6,3,17,1,2
+2011-10-15,Memphis,CUSA,H,East Carolina,L,17,35,15,30,177,1,29,56,0,8,2,5,55,0,2
+2011-10-22,Memphis,CUSA,A,Tulane,W,33,17,14,26,213,2,33,76,2,10,5,3,18,0,1
+2011-10-29,Memphis,CUSA,A,UCF,L,0,41,10,25,101,0,21,33,0,4,2,3,25,1,0
+2011-11-12,Memphis,CUSA,H,UAB,L,35,41,16,29,167,2,33,217,3,7,11,5,55,0,0
+2011-11-17,Memphis,CUSA,H,Marshall,L,22,23,23,47,238,0,26,39,1,13,2,5,50,0,0
+2011-11-26,Memphis,CUSA,A,Southern Mississippi,L,7,44,21,45,174,0,22,7,0,12,1,3,25,1,2
+2011-09-03,Army,Ind,A,Northern Illinois,L,26,49,7,16,106,1,63,303,3,4,19,6,51,2,1
+2011-09-10,Army,Ind,H,San Diego State,L,20,23,2,7,43,0,77,403,3,2,23,4,40,3,0
+2011-09-17,Army,Ind,H,Northwestern,W,21,14,1,7,6,0,75,381,3,0,23,2,10,1,0
+2011-09-24,Army,Ind,A,Ball State,L,21,48,0,4,0,0,59,402,3,0,19,5,55,0,1
+2011-10-01,Army,Ind,H,Tulane,W,45,6,3,3,70,1,62,353,5,2,19,3,36,2,0
+2011-10-08,Army,Ind,A,Miami (OH),L,28,35,8,9,124,1,65,326,3,6,20,4,27,2,0
+2011-10-22,Army,Ind,A,Vanderbilt,L,21,44,1,6,18,0,51,270,2,1,11,4,36,3,0
+2011-11-05,Army,Ind,A,Air Force,L,14,24,2,10,26,0,64,340,2,2,17,5,36,4,1
+2011-11-12,Army,Ind,N,Rutgers,L,12,27,6,15,77,0,54,228,1,3,8,6,59,0,0
+2011-11-19,Army,Ind,A,Temple,L,14,42,2,12,28,0,60,340,2,2,18,3,21,0,1
+2011-12-10,Army,Ind,A,Navy,L,21,27,4,6,77,1,50,298,2,4,15,5,45,3,0
+2011-09-03,Auburn,SEC,H,Utah State,W,42,38,18,24,286,3,30,78,2,11,6,7,60,0,0
+2011-09-10,Auburn,SEC,H,Mississippi State,W,41,34,16,23,146,2,36,235,2,6,12,7,85,0,1
+2011-09-17,Auburn,SEC,A,Clemson,L,24,38,12,25,198,1,38,237,2,8,9,5,40,0,1
+2011-09-24,Auburn,SEC,H,Florida Atlantic,W,30,14,16,29,178,2,33,137,0,8,7,4,25,0,1
+2011-10-01,Auburn,SEC,A,South Carolina,W,16,13,12,25,112,1,67,246,1,7,15,5,55,0,4
+2011-10-08,Auburn,SEC,A,Arkansas,L,14,38,9,25,104,0,52,291,2,4,13,11,105,0,3
+2011-10-15,Auburn,SEC,H,Florida,W,17,6,7,16,123,1,43,155,1,4,8,7,79,0,0
+2011-10-22,Auburn,SEC,A,LSU,L,10,45,14,24,161,0,34,87,1,9,6,7,51,1,1
+2011-10-29,Auburn,SEC,H,Ole Miss,W,41,23,12,15,160,4,50,254,1,8,12,4,20,2,0
+2011-11-12,Auburn,SEC,A,Georgia,L,7,45,12,23,144,1,25,51,0,6,3,3,14,2,1
+2011-11-26,Auburn,SEC,H,Alabama,L,14,42,11,20,62,0,35,78,0,2,7,4,40,1,1
+2011-12-31,Auburn,SEC,N,Virginia,W,43,24,12,23,181,1,44,273,4,6,15,6,65,0,0
+2011-09-04,Marshall,CUSA,A,West Virginia,L,13,34,15,21,115,0,23,72,0,6,3,7,35,0,0
+2011-09-10,Marshall,CUSA,H,Southern Mississippi,W,26,20,27,42,275,3,37,103,0,13,7,9,80,0,2
+2011-09-17,Marshall,CUSA,A,Ohio,L,7,44,11,29,159,1,34,172,0,5,9,10,82,2,4
+2011-09-24,Marshall,CUSA,H,Virginia Tech,L,10,30,17,33,245,1,24,6,0,8,2,4,33,1,1
+2011-10-01,Marshall,CUSA,A,Louisville,W,17,13,18,30,236,2,45,117,0,12,6,3,25,0,0
+2011-10-08,Marshall,CUSA,A,UCF,L,6,16,11,29,87,0,21,43,0,4,1,4,28,1,0
+2011-10-15,Marshall,CUSA,H,Rice,W,24,20,14,27,111,0,43,217,3,6,13,3,20,0,1
+2011-10-22,Marshall,CUSA,A,Houston,L,28,63,29,39,309,3,47,197,1,13,14,3,30,0,2
+2011-10-29,Marshall,CUSA,H,UAB,W,59,14,21,30,291,6,36,138,0,12,8,8,60,0,1
+2011-11-12,Marshall,CUSA,A,Tulsa,L,17,59,20,36,228,1,38,165,1,10,5,2,15,2,1
+2011-11-17,Marshall,CUSA,A,Memphis,W,23,22,13,23,150,1,39,143,2,6,9,8,54,4,2
+2011-11-26,Marshall,CUSA,H,East Carolina,W,34,27,23,29,341,2,29,104,2,11,3,3,22,2,0
+2011-12-20,Marshall,CUSA,N,Florida International,W,20,10,27,39,226,2,30,84,0,12,2,8,60,0,1
+2011-09-10,UTEP,CUSA,A,SMU,L,17,28,24,47,276,0,26,30,2,13,3,3,29,1,1
+2011-09-17,UTEP,CUSA,A,New Mexico State,W,16,10,9,28,124,0,42,185,1,5,10,10,97,1,1
+2011-09-24,UTEP,CUSA,A,South Florida,L,24,52,27,42,244,2,32,95,1,12,6,6,51,0,3
+2011-09-29,UTEP,CUSA,H,Houston,L,42,49,19,29,267,3,41,271,3,11,16,2,15,1,1
+2011-10-15,UTEP,CUSA,A,Tulane,W,44,7,7,17,124,1,43,266,3,3,13,1,10,1,2
+2011-10-22,UTEP,CUSA,H,Colorado State,W,31,17,8,15,116,1,36,340,3,6,10,7,89,1,1
+2011-10-29,UTEP,CUSA,H,Southern Mississippi,L,13,31,21,35,194,0,27,68,1,9,3,5,37,1,1
+2011-11-05,UTEP,CUSA,A,Rice,L,37,41,16,29,294,3,21,98,2,10,4,4,25,0,2
+2011-11-12,UTEP,CUSA,H,East Carolina,W,22,17,20,29,188,0,44,241,2,10,12,4,34,2,0
+2011-11-19,UTEP,CUSA,H,Tulsa,L,28,57,26,46,266,0,42,163,4,12,13,6,66,0,2
+2011-11-25,UTEP,CUSA,A,UCF,L,14,31,24,44,249,1,33,66,1,15,4,2,10,0,1
+2011-09-03,LSU,SEC,N,Oregon,W,40,27,10,22,98,1,48,175,3,5,11,5,31,1,0
+2011-09-15,LSU,SEC,A,Mississippi State,W,19,6,21,27,213,1,38,148,0,11,8,9,83,0,1
+2011-09-24,LSU,SEC,A,West Virginia,W,47,21,16,28,180,3,41,186,3,8,9,5,45,0,0
+2011-10-01,LSU,SEC,H,Kentucky,W,35,7,8,21,169,1,46,179,3,7,10,4,32,0,0
+2011-10-08,LSU,SEC,H,Florida,W,41,11,10,14,215,2,49,238,3,7,10,9,65,0,0
+2011-10-15,LSU,SEC,A,Tennessee,W,38,7,14,20,146,3,49,237,2,6,14,8,61,0,0
+2011-10-22,LSU,SEC,H,Auburn,W,45,10,16,23,219,3,36,174,2,9,10,5,60,0,0
+2011-11-05,LSU,SEC,A,Alabama,W,9,6,9,17,91,0,41,148,0,4,9,7,56,0,2
+2011-11-12,LSU,SEC,H,Western Kentucky,W,42,9,10,19,183,2,40,291,4,9,12,5,44,1,0
+2011-11-19,LSU,SEC,A,Ole Miss,W,52,3,8,8,105,1,50,353,4,8,13,3,35,0,0
+2011-11-25,LSU,SEC,H,Arkansas,W,41,17,18,29,208,1,46,286,3,10,14,6,34,1,1
+2011-12-03,LSU,SEC,N,Georgia,W,42,10,5,13,30,1,35,207,3,1,11,8,54,0,0
+2012-01-09,LSU,SEC,N,Alabama,L,0,21,11,17,53,0,27,39,0,1,4,5,35,1,1
+2011-09-03,Tulsa,CUSA,A,Oklahoma,L,14,47,18,33,271,2,31,129,0,6,8,5,44,2,1
+2011-09-10,Tulsa,CUSA,A,Tulane,W,31,3,22,32,246,3,37,166,1,11,7,5,55,1,1
+2011-09-17,Tulsa,CUSA,H,Oklahoma State,L,33,59,8,26,117,2,59,365,2,5,21,3,25,2,4
+2011-09-24,Tulsa,CUSA,A,Boise State,L,21,41,15,26,136,2,30,155,1,5,7,5,35,0,4
+2011-10-01,Tulsa,CUSA,H,North Texas,W,41,24,20,32,314,3,24,98,1,14,4,7,53,1,1
+2011-10-15,Tulsa,CUSA,H,UAB,W,37,20,31,43,341,3,44,218,1,16,12,5,42,3,1
+2011-10-22,Tulsa,CUSA,A,Rice,W,38,20,21,34,318,3,42,155,2,14,6,5,46,1,0
+2011-10-29,Tulsa,CUSA,H,SMU,W,38,7,24,36,274,1,56,177,4,13,11,8,73,1,1
+2011-11-03,Tulsa,CUSA,A,UCF,W,24,17,15,28,203,1,44,251,1,12,15,0,0,1,0
+2011-11-12,Tulsa,CUSA,H,Marshall,W,59,17,24,34,302,4,52,380,4,18,13,2,19,1,1
+2011-11-19,Tulsa,CUSA,A,UTEP,W,57,28,21,27,300,3,33,200,3,13,10,4,60,1,1
+2011-11-25,Tulsa,CUSA,H,Houston,L,16,48,19,38,176,1,42,161,0,9,8,2,9,1,2
+2011-12-30,Tulsa,CUSA,N,Brigham Young,L,21,24,18,32,235,3,27,37,0,10,2,1,5,2,0
+2011-09-10,Air Force,MWC,H,Texas Christian,L,19,35,12,21,167,1,43,249,1,7,9,6,55,2,0
+2011-10-01,Air Force,MWC,A,Navy,W,35,34,9,10,136,1,41,223,4,6,11,4,38,1,0
+2011-10-08,Air Force,MWC,A,Notre Dame,L,33,59,16,28,202,2,60,363,2,13,17,6,70,1,1
+2011-10-13,Air Force,MWC,H,San Diego State,L,27,41,22,37,224,2,47,195,1,10,14,3,30,1,2
+2011-10-22,Air Force,MWC,A,Boise State,L,26,37,8,17,144,0,65,264,3,6,16,4,26,1,1
+2011-10-29,Air Force,MWC,A,New Mexico,W,42,0,2,3,26,0,61,335,6,0,21,5,66,1,0
+2011-11-05,Air Force,MWC,H,Army,W,24,14,6,12,122,0,54,179,2,4,11,6,44,2,0
+2011-11-12,Air Force,MWC,H,Wyoming,L,17,25,2,5,-1,0,63,312,2,0,15,6,54,3,1
+2011-11-19,Air Force,MWC,H,Nevada-Las Vegas,W,45,17,7,13,128,1,58,394,5,7,17,4,35,1,0
+2011-11-26,Air Force,MWC,A,Colorado State,W,45,21,9,12,221,3,49,344,3,6,18,3,15,1,0
+2011-12-28,Air Force,MWC,N,Toledo,L,41,42,13,22,159,2,55,248,4,7,11,3,15,1,1
+2011-09-03,Oregon,Pac-12,N,LSU,L,27,40,31,54,240,1,28,95,2,12,5,12,95,3,1
+2011-09-10,Oregon,Pac-12,H,Nevada,W,69,20,15,26,331,6,43,272,2,12,11,3,25,0,0
+2011-09-24,Oregon,Pac-12,A,Arizona,W,56,31,11,20,101,2,47,415,6,7,18,5,42,0,0
+2011-10-06,Oregon,Pac-12,H,California,W,43,15,13,25,198,3,51,365,3,7,17,11,91,0,1
+2011-10-15,Oregon,Pac-12,H,Arizona State,W,41,27,15,22,209,2,49,327,3,12,11,7,75,1,1
+2011-10-22,Oregon,Pac-12,A,Colorado,W,45,2,11,21,156,2,48,371,3,4,19,4,50,0,0
+2011-10-29,Oregon,Pac-12,H,Washington State,W,43,28,12,20,241,3,36,213,1,7,12,10,62,0,2
+2011-11-05,Oregon,Pac-12,A,Washington,W,34,17,13,25,169,1,39,212,3,8,12,9,78,1,0
+2011-11-12,Oregon,Pac-12,A,Stanford,W,53,30,11,17,155,3,46,232,3,5,10,5,50,2,0
+2011-11-19,Oregon,Pac-12,H,USC,L,35,38,23,35,265,1,47,209,3,14,12,3,25,2,0
+2011-11-26,Oregon,Pac-12,H,Oregon State,W,49,21,27,40,305,4,62,365,3,16,20,6,60,2,0
+2011-12-02,Oregon,Pac-12,H,UCLA,W,49,31,20,36,219,3,50,352,4,9,12,10,120,1,1
+2012-01-02,Oregon,Pac-12,N,Wisconsin,W,45,38,18,24,276,3,40,345,3,10,12,7,56,1,1
+2011-09-10,Tennessee,SEC,H,Cincinnati,W,45,23,34,41,405,4,35,126,2,21,11,7,63,2,0
+2011-09-17,Tennessee,SEC,A,Florida,L,23,33,26,48,288,3,21,-9,0,12,3,10,94,0,2
+2011-10-01,Tennessee,SEC,H,Buffalo,W,41,10,21,31,342,4,44,199,1,16,11,2,15,2,0
+2011-10-08,Tennessee,SEC,H,Georgia,L,12,20,22,40,290,0,23,-21,1,14,3,8,40,0,0
+2011-10-15,Tennessee,SEC,H,LSU,L,7,38,6,20,128,0,29,111,1,5,5,6,68,0,2
+2011-10-22,Tennessee,SEC,A,Alabama,L,6,37,9,18,63,0,32,92,0,4,1,4,25,1,1
+2011-10-29,Tennessee,SEC,H,South Carolina,L,3,14,15,38,151,0,21,35,0,6,4,7,43,0,2
+2011-11-05,Tennessee,SEC,H,Middle Tennessee State,W,24,0,23,33,291,1,45,120,2,13,9,4,45,0,0
+2011-11-12,Tennessee,SEC,A,Arkansas,L,7,49,18,35,238,0,42,138,1,9,6,5,36,0,1
+2011-11-19,Tennessee,SEC,H,Vanderbilt,W,27,21,16,33,189,2,30,101,1,10,6,5,60,0,2
+2011-11-26,Tennessee,SEC,A,Kentucky,L,7,10,15,38,215,1,24,61,0,7,6,5,32,1,2
+2011-09-03,Colorado State,MWC,A,New Mexico,W,14,10,22,26,178,1,28,92,1,6,5,4,50,1,0
+2011-09-17,Colorado State,MWC,N,Colorado,L,14,28,20,30,176,1,25,67,1,6,6,9,75,1,0
+2011-09-24,Colorado State,MWC,A,Utah State,W,35,34,16,28,108,1,47,124,2,7,8,7,60,1,0
+2011-10-01,Colorado State,MWC,H,San Jose State,L,31,38,28,43,387,3,26,71,1,13,4,3,31,1,2
+2011-10-15,Colorado State,MWC,H,Boise State,L,13,63,12,26,147,2,27,84,0,4,5,1,5,1,1
+2011-10-22,Colorado State,MWC,A,UTEP,L,17,31,19,33,162,0,43,93,1,7,9,5,40,1,1
+2011-10-29,Colorado State,MWC,A,Nevada-Las Vegas,L,35,38,17,30,230,1,47,250,2,10,14,8,60,2,1
+2011-11-12,Colorado State,MWC,H,San Diego State,L,15,18,9,22,52,0,30,235,2,2,8,7,65,1,1
+2011-11-19,Colorado State,MWC,A,Texas Christian,L,10,34,14,25,248,1,38,160,0,9,8,11,98,1,1
+2011-11-26,Colorado State,MWC,H,Air Force,L,21,45,8,13,125,1,49,321,2,4,14,10,83,2,1
+2011-12-03,Colorado State,MWC,H,Wyoming,L,19,22,15,26,143,0,51,263,2,7,16,9,71,0,3
+2011-09-10,Michigan State,Big Ten,H,Florida Atlantic,W,44,0,22,32,246,2,51,188,2,13,12,3,20,0,0
+2011-09-17,Michigan State,Big Ten,A,Notre Dame,L,13,31,34,54,329,1,23,29,0,18,1,12,86,1,1
+2011-09-24,Michigan State,Big Ten,H,Central Michigan,W,45,7,20,30,284,2,47,197,3,12,9,4,20,0,1
+2011-10-01,Michigan State,Big Ten,A,Ohio State,W,10,7,20,32,250,1,31,71,0,12,2,6,54,1,2
+2011-10-15,Michigan State,Big Ten,H,Michigan,W,28,14,13,24,120,2,39,213,1,7,9,13,124,2,0
+2011-10-22,Michigan State,Big Ten,H,Wisconsin,W,37,31,22,31,290,3,32,109,1,13,5,0,0,1,0
+2011-10-29,Michigan State,Big Ten,A,Nebraska,L,3,24,11,27,86,0,30,101,0,3,7,9,90,0,1
+2011-11-05,Michigan State,Big Ten,H,Minnesota,W,31,24,23,34,296,2,28,106,2,12,5,5,40,1,0
+2011-11-12,Michigan State,Big Ten,A,Iowa,W,37,21,19,32,288,3,40,155,1,11,8,7,75,0,0
+2011-11-19,Michigan State,Big Ten,H,Indiana,W,55,3,21,31,296,3,34,174,3,12,10,5,45,0,0
+2011-11-26,Michigan State,Big Ten,A,Northwestern,W,31,17,14,20,214,2,36,166,1,9,9,8,66,0,1
+2011-12-03,Michigan State,Big Ten,N,Wisconsin,L,39,42,22,30,281,3,34,190,2,14,9,7,50,1,1
+2012-01-02,Michigan State,Big Ten,N,Georgia,W,33,30,28,51,318,1,29,73,2,13,2,8,50,0,3
+2011-09-03,Boston College,ACC,H,Northwestern,L,17,24,24,44,351,0,30,104,2,17,3,5,35,0,1
+2011-09-10,Boston College,ACC,A,UCF,L,3,30,11,24,84,0,23,57,0,4,3,6,38,0,2
+2011-09-17,Boston College,ACC,H,Duke,L,19,20,17,34,247,1,25,81,1,11,3,3,40,0,0
+2011-10-01,Boston College,ACC,H,Wake Forest,L,19,27,23,48,188,1,34,148,0,12,8,7,56,1,1
+2011-10-08,Boston College,ACC,A,Clemson,L,14,36,14,22,132,1,35,126,1,8,5,7,50,1,1
+2011-10-22,Boston College,ACC,A,Virginia Tech,L,14,30,13,30,181,1,29,91,1,8,6,1,15,1,1
+2011-10-29,Boston College,ACC,A,Maryland,W,28,17,5,12,32,0,62,372,4,3,18,1,10,3,1
+2011-11-03,Boston College,ACC,H,Florida State,L,7,38,12,20,113,1,39,94,0,4,6,5,40,2,2
+2011-11-12,Boston College,ACC,H,North Carolina State,W,14,10,9,13,118,1,36,72,1,5,5,3,32,0,1
+2011-11-19,Boston College,ACC,A,Notre Dame,L,14,16,18,38,176,1,25,80,1,10,2,6,55,0,0
+2011-11-25,Boston College,ACC,A,Miami (FL),W,24,17,13,17,196,2,50,153,0,11,7,4,23,1,0
+2011-09-03,Ole Miss,SEC,H,Brigham Young,L,13,14,16,29,145,0,28,69,0,9,3,4,40,2,0
+2011-09-17,Ole Miss,SEC,A,Vanderbilt,L,7,30,15,30,149,1,32,85,0,6,7,6,51,0,5
+2011-09-24,Ole Miss,SEC,H,Georgia,L,13,27,12,30,149,1,26,34,0,6,2,8,69,0,2
+2011-10-01,Ole Miss,SEC,A,Fresno State,W,38,28,8,18,214,1,44,216,4,7,10,10,107,0,0
+2011-10-15,Ole Miss,SEC,H,Alabama,L,7,52,10,21,113,0,31,28,1,3,6,0,0,1,1
+2011-10-22,Ole Miss,SEC,H,Arkansas,L,24,29,18,30,219,2,46,151,1,12,10,12,85,0,1
+2011-10-29,Ole Miss,SEC,A,Auburn,L,23,41,16,28,162,1,44,220,2,8,13,6,29,2,1
+2011-11-05,Ole Miss,SEC,A,Kentucky,L,13,30,14,30,197,1,42,205,0,9,9,11,93,0,1
+2011-11-12,Ole Miss,SEC,H,Louisiana Tech,L,7,27,14,37,179,1,43,128,0,7,10,7,59,2,1
+2011-11-19,Ole Miss,SEC,H,LSU,L,3,52,8,19,47,0,42,148,0,2,10,4,29,2,1
+2011-11-26,Ole Miss,SEC,A,Mississippi State,L,3,31,12,22,110,0,42,92,0,3,7,4,45,2,0
+2011-09-10,Duke,ACC,H,Stanford,L,14,44,28,39,305,0,33,30,1,15,2,4,38,1,0
+2011-09-17,Duke,ACC,A,Boston College,W,20,19,43,55,384,2,26,81,1,17,7,9,79,0,1
+2011-09-24,Duke,ACC,H,Tulane,W,48,27,24,36,333,1,43,151,5,15,10,4,37,1,1
+2011-10-01,Duke,ACC,A,Florida International,W,31,27,28,43,335,2,22,49,2,12,4,2,25,0,0
+2011-10-15,Duke,ACC,H,Florida State,L,16,41,26,43,226,1,27,63,1,11,3,3,24,1,1
+2011-10-22,Duke,ACC,H,Wake Forest,L,23,24,29,47,224,0,44,148,2,9,11,6,50,0,1
+2011-10-29,Duke,ACC,H,Virginia Tech,L,10,14,19,40,226,0,28,100,1,9,4,3,15,1,3
+2011-11-05,Duke,ACC,A,Miami (FL),L,14,49,22,32,194,1,33,148,1,10,7,6,30,1,1
+2011-11-12,Duke,ACC,A,Virginia,L,21,31,21,39,303,1,29,34,2,11,1,2,30,0,1
+2011-11-19,Duke,ACC,H,Georgia Tech,L,31,38,26,44,250,4,24,101,0,14,5,5,46,0,1
+2011-11-26,Duke,ACC,A,North Carolina,L,21,37,26,41,285,3,21,46,0,9,4,9,79,2,2
+2011-09-03,Kent State,MAC,A,Alabama,L,7,48,20,47,99,1,23,-9,0,5,1,4,36,0,1
+2011-09-10,Kent State,MAC,H,Louisiana,L,12,20,15,33,114,1,34,72,0,4,4,9,90,3,1
+2011-09-17,Kent State,MAC,A,Kansas State,L,0,37,11,23,81,0,36,118,0,3,7,11,136,0,2
+2011-10-01,Kent State,MAC,A,Ohio,L,10,17,15,36,117,0,32,83,1,6,6,6,44,1,3
+2011-10-08,Kent State,MAC,A,Northern Illinois,L,10,40,6,24,63,0,38,1,0,4,4,4,34,2,1
+2011-10-15,Kent State,MAC,H,Miami (OH),L,3,9,16,31,169,0,36,75,0,8,4,9,107,0,1
+2011-10-29,Kent State,MAC,H,Bowling Green State,W,27,15,16,23,179,1,36,140,1,10,6,7,57,2,0
+2011-11-04,Kent State,MAC,H,Central Michigan,W,24,21,17,31,281,3,29,141,0,14,4,7,75,0,0
+2011-11-12,Kent State,MAC,A,Akron,W,35,3,11,16,115,2,49,265,3,5,10,4,58,0,0
+2011-11-19,Kent State,MAC,H,Eastern Michigan,W,28,22,11,25,173,1,42,121,2,6,4,3,25,1,0
+2011-11-25,Kent State,MAC,A,Temple,L,16,34,24,40,260,1,27,103,1,14,4,6,55,0,0
+2011-09-10,Navy,Ind,A,Western Kentucky,W,40,14,3,7,100,2,57,410,3,3,17,2,20,3,0
+2011-09-17,Navy,Ind,A,South Carolina,L,21,24,5,9,61,0,47,274,3,3,12,3,15,0,1
+2011-10-01,Navy,Ind,H,Air Force,L,34,35,14,25,132,1,80,334,3,9,20,6,67,0,1
+2011-10-08,Navy,Ind,H,Southern Mississippi,L,35,63,7,12,148,2,61,421,3,4,20,3,35,0,0
+2011-10-15,Navy,Ind,A,Rutgers,L,20,21,6,13,143,0,46,162,1,5,9,0,0,0,2
+2011-10-22,Navy,Ind,H,East Carolina,L,35,38,7,16,136,2,51,284,2,2,19,2,8,1,0
+2011-10-29,Navy,Ind,A,Notre Dame,L,14,56,5,13,33,1,50,196,1,3,11,3,30,1,0
+2011-11-05,Navy,Ind,H,Troy,W,42,14,4,8,127,1,64,390,5,4,21,4,25,0,0
+2011-11-12,Navy,Ind,A,SMU,W,24,17,0,2,0,0,64,335,3,0,20,1,10,1,1
+2011-11-19,Navy,Ind,A,San Jose State,L,24,27,9,20,90,0,49,254,3,4,14,2,20,1,0
+2011-12-10,Navy,Ind,H,Army,W,27,21,1,3,13,0,66,296,3,1,19,2,10,2,0
+2011-09-03,Fresno State,WAC,N,California,L,21,36,21,33,150,1,25,68,1,3,7,9,75,1,1
+2011-09-10,Fresno State,WAC,A,Nebraska,L,29,42,20,41,254,1,40,190,1,11,13,5,50,1,0
+2011-09-24,Fresno State,WAC,A,Idaho,W,48,24,24,37,371,5,34,142,0,14,5,7,75,0,2
+2011-10-01,Fresno State,WAC,H,Ole Miss,L,28,38,25,38,281,1,36,163,3,14,8,4,40,1,1
+2011-10-07,Fresno State,WAC,H,Boise State,L,7,57,17,31,126,0,26,144,0,3,6,9,85,2,2
+2011-10-15,Fresno State,WAC,H,Utah State,W,31,21,23,39,248,2,36,155,2,12,13,7,62,2,0
+2011-10-22,Fresno State,WAC,A,Nevada,L,38,45,20,37,315,3,33,207,2,13,10,3,35,2,0
+2011-11-05,Fresno State,WAC,H,Louisiana Tech,L,21,41,39,49,290,3,31,115,0,15,10,4,30,1,2
+2011-11-12,Fresno State,WAC,A,New Mexico State,L,45,48,22,34,391,3,29,104,3,13,8,8,60,1,0
+2011-11-19,Fresno State,WAC,A,Hawaii,W,24,21,19,29,271,2,47,217,1,12,10,9,78,0,0
+2011-11-26,Fresno State,WAC,H,San Jose State,L,24,27,19,28,276,1,39,173,2,13,10,8,94,2,1
+2011-12-03,Fresno State,WAC,A,San Diego State,L,28,35,19,35,336,2,28,48,1,8,4,10,75,0,1
+2011-09-17,Texas Tech,Big 12,A,New Mexico,W,59,13,45,50,446,6,35,178,2,22,12,5,35,1,0
+2011-09-24,Texas Tech,Big 12,H,Nevada,W,35,34,26,38,222,3,38,219,2,12,11,7,50,0,0
+2011-10-01,Texas Tech,Big 12,A,Kansas,W,45,34,29,46,366,3,40,164,3,15,12,17,154,0,1
+2011-10-08,Texas Tech,Big 12,H,Texas A&M,L,40,45,44,66,391,3,39,132,1,17,12,9,70,0,0
+2011-10-15,Texas Tech,Big 12,H,Kansas State,L,34,41,43,63,461,1,33,119,3,23,7,7,62,1,3
+2011-10-22,Texas Tech,Big 12,A,Oklahoma,W,41,38,34,53,452,4,43,120,1,18,7,9,50,0,0
+2011-10-29,Texas Tech,Big 12,H,Iowa State,L,7,41,18,38,191,0,26,99,1,8,7,4,45,1,2
+2011-11-05,Texas Tech,Big 12,A,Texas,L,20,52,40,55,381,2,27,30,0,18,7,8,75,0,0
+2011-11-12,Texas Tech,Big 12,H,Oklahoma State,L,6,66,25,44,169,0,30,101,0,9,7,5,42,2,1
+2011-11-19,Texas Tech,Big 12,A,Missouri,L,27,31,37,53,315,1,31,142,2,15,11,10,80,0,1
+2011-11-26,Texas Tech,Big 12,N,Baylor,L,42,66,42,56,398,4,17,46,2,18,4,9,85,2,2
+2011-09-10,Tulane,CUSA,H,Tulsa,L,3,31,19,42,176,0,35,59,0,7,6,5,35,2,1
+2011-09-17,Tulane,CUSA,A,UAB,W,49,10,23,27,278,3,49,262,2,11,15,4,47,0,0
+2011-09-24,Tulane,CUSA,A,Duke,L,27,48,18,37,263,1,22,55,1,10,5,3,45,0,1
+2011-10-01,Tulane,CUSA,A,Army,L,6,45,10,20,74,0,28,125,1,5,4,10,92,2,2
+2011-10-08,Tulane,CUSA,H,Syracuse,L,34,37,25,31,355,2,27,116,2,12,6,7,75,2,0
+2011-10-15,Tulane,CUSA,H,UTEP,L,7,44,21,48,237,0,24,128,1,9,7,4,33,0,4
+2011-10-22,Tulane,CUSA,H,Memphis,L,17,33,31,50,377,1,31,82,1,19,5,3,10,1,2
+2011-10-29,Tulane,CUSA,A,East Carolina,L,13,34,16,31,132,0,35,134,1,6,8,5,45,1,1
+2011-11-05,Tulane,CUSA,A,SMU,L,24,45,20,36,214,2,30,57,0,10,4,9,56,2,0
+2011-11-10,Tulane,CUSA,H,Houston,L,17,73,20,46,144,0,37,187,2,9,5,6,59,0,1
+2011-11-19,Tulane,CUSA,A,Rice,L,7,19,19,39,163,1,33,126,0,8,9,4,32,1,1
+2011-11-26,Tulane,CUSA,A,Hawaii,L,23,35,12,29,102,0,41,185,3,7,9,5,41,0,2
+2011-09-03,Houston,CUSA,H,UCLA,W,38,34,30,40,310,2,31,159,3,19,8,7,45,1,0
+2011-09-10,Houston,CUSA,A,North Texas,W,48,23,39,59,563,5,31,127,1,22,9,6,44,1,1
+2011-09-17,Houston,CUSA,A,Louisiana Tech,W,35,34,25,40,351,3,35,98,2,11,9,6,42,1,2
+2011-09-29,Houston,CUSA,A,UTEP,W,49,42,30,46,471,2,31,239,3,15,11,8,85,0,0
+2011-10-08,Houston,CUSA,H,East Carolina,W,56,3,36,48,357,3,37,215,5,19,14,2,15,0,0
+2011-10-22,Houston,CUSA,H,Marshall,W,63,28,29,37,479,7,20,142,1,18,6,7,58,0,0
+2011-10-27,Houston,CUSA,H,Rice,W,73,34,24,40,534,9,26,122,0,18,6,1,10,2,1
+2011-11-05,Houston,CUSA,A,UAB,W,56,13,43,51,488,3,32,166,4,22,9,8,77,1,0
+2011-11-10,Houston,CUSA,A,Tulane,W,73,17,30,40,443,4,27,292,4,16,11,10,67,0,0
+2011-11-19,Houston,CUSA,H,SMU,W,37,7,32,47,365,2,31,148,2,18,7,2,11,0,0
+2011-11-25,Houston,CUSA,A,Tulsa,W,48,16,35,48,474,6,33,84,1,22,2,7,50,1,0
+2011-12-03,Houston,CUSA,H,Southern Mississippi,L,28,49,41,67,373,2,31,55,2,18,7,5,45,0,2
+2012-01-02,Houston,CUSA,N,Penn State,W,30,14,45,69,532,3,16,68,0,19,5,6,55,0,0
