@@ -17,20 +17,19 @@ public class CollegeFootballScraper extends WebScraper {
 
     @Override
     public void fetch(int year) throws IOException {
-        WebScraper scraper = new TeamsScraper();
-        HashMap<String, String> teams = scraper.fetch("https://www.sports-reference.com/cfb/schools/");
+        HashMap<String, String[]> teams = new TeamsScraper().fetch("https://www.sports-reference.com/cfb/schools/", year);
         HashMap<String, String> linkToName = new HashMap<>();
         for (String name : teams.keySet()) {
-            linkToName.put(teams.get(name), name);
+            linkToName.put(teams.get(name)[0], name);
         }
         PrintStream file = new PrintStream(new File("data/cfb-" + year + ".csv"));
-        file.println("Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions");
+        file.println("Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints,PassCompletions,PassAttempts,PassYards,PassTDs,RushAttempts,RushYards,RushTDs,FirstDownPass,FirstDownRush,Penalties,PenaltyYards,Fumbles,Interceptions");
         for (String name : teams.keySet()) {
-            String team = teams.get(name);
+            String team = teams.get(name)[0];
+            String conference = teams.get(name)[1];
+            String coach = teams.get(name)[2];
             ArrayList<ArrayList<String>> schedule = new ArrayList<>();
             Document d = Jsoup.connect("https://www.sports-reference.com/cfb/schools/" + team + "/" + year + "/gamelog/").get();
-            Matcher c = Pattern.compile("conferences\\/.*\\/" + year + "\\.html\">(.*)<\\/a>").matcher((d.select("#meta").html()));
-            String conference = c.find() ? c.group(1) : "";
             Elements offense = d.select("#offense td");
             HashMap<String, Pattern> data = new HashMap<>();
             data.put("date_game", Pattern.compile("\\.html\">(.*)<\\/a>"));
@@ -66,9 +65,8 @@ public class CollegeFootballScraper extends WebScraper {
                 }
             }
             if (!conference.equals("")) {
-                String res = "";
-                for (int g = 0; g < schedule.size(); g++) {
-                    ArrayList<String> game = schedule.get(g);
+                StringBuilder res = new StringBuilder();
+                for (ArrayList<String> game : schedule) {
                     if (game.size() == data.size()) {
                         game.add(1, name);
                         game.set(2, game.get(2).equals("") ? "H" : game.get(2).equals("N") ? "N" : "A");
@@ -79,13 +77,18 @@ public class CollegeFootballScraper extends WebScraper {
                         game.add(5, scores[0]);
                         game.add(6, scores[1]);
                         game.add(2, conference);
-                        for (int i = 0; i < game.size(); i++) {
-                            res += game.get(i) + ",";
+                        game.add(3, coach);
+                        game.add(6, teams.get(game.get(5))[1]);
+                        game.add(7, teams.get(game.get(5))[2]);
+                        for (String entry : game) {
+                            res.append(entry);
+                            res.append(",");
                         }
-                        res = res.substring(0, res.length() - 1) + "\n";
+                        res = res.replace(res.length() - 1, res.length(), "\n");
                     }
                 }
-                file.println(res.substring(0, res.length() - 1));
+                res.deleteCharAt(res.length() - 1);
+                file.println(res.toString());
             }
         }
     }
