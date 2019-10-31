@@ -29,7 +29,7 @@ public class CollegeFootballEntry {
         this.week = getWeek(date, startDate);
         this.team = entry[1];
         this.conference = entry[2];
-        char loc = entry[3].charAt(0);
+        char loc = entry[4].charAt(0);
         this.location = loc == 'H' ? Location.HOME : loc == 'A' ? Location.AWAY : Location.NEUTRAL;
         this.opponent = entry[5];
         this.result = entry[8].charAt(0);
