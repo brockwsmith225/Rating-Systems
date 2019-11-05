@@ -103,12 +103,12 @@ public abstract class RatingSystem {
      *
      * @param prettyPrint denotes whether or not to format the output
      */
-    public String printTeamRankings(boolean prettyPrint) {
+    public String printTeamRankings(boolean prettyPrint, boolean allStats) {
         StringBuilder rankings = new StringBuilder();
         if (prettyPrint) {
-            rankings.append(prettyPrintRankingsHeader());
+            rankings.append(prettyPrintRankingsHeader(allStats));
             rankings.append("\n");
-            rankings.append(prettyPrintColumnHeaders());
+            rankings.append(prettyPrintColumnHeaders(allStats));
             rankings.append("\n");
         } else {
             rankings.append(printRankingsHeader());
@@ -122,12 +122,12 @@ public abstract class RatingSystem {
             if (prettyPrint) {
                 rankings.append(Terminal.rightJustify(Integer.toString(rank), 3));
                 rankings.append(". ");
-                rankings.append(prettyPrintTeam(rankedTeams.get(i).getName()));
+                rankings.append(prettyPrintTeam(rankedTeams.get(i).getName(), allStats));
                 rankings.append("\n");
             } else {
                 rankings.append(rank);
                 rankings.append("\t");
-                rankings.append(printTeam(rankedTeams.get(i).getName()));
+                rankings.append(printTeam(rankedTeams.get(i).getName(), allStats));
                 rankings.append("\n");
             }
         }
@@ -246,7 +246,7 @@ public abstract class RatingSystem {
      *
      * @return a pretty print version of the header to be printed when printing team rankings
      */
-    protected String prettyPrintRankingsHeader() {
+    protected String prettyPrintRankingsHeader(boolean allStats) {
         StringBuilder header = new StringBuilder();
         header.append("----------------------------------------------------------------------------------\n");
         if (week < 0) {
@@ -263,7 +263,7 @@ public abstract class RatingSystem {
      *
      * @return a pretty print version of the column headers to be printed when printing team rankings
      */
-    protected String prettyPrintColumnHeaders() {
+    protected String prettyPrintColumnHeaders(boolean allStats) {
         StringBuilder header = new StringBuilder();
         header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Record", 10));
         return header.toString();
@@ -276,7 +276,7 @@ public abstract class RatingSystem {
      * @param team the team to be printed
      * @return a string formatted to print the given team
      */
-    protected String printTeam(String team) {
+    protected String printTeam(String team, boolean allStats) {
         return teams.get(team).getName() + "\t"
                 + teams.get(team).getRating() + "\t"
                 + teams.get(team).getRecord();
@@ -288,7 +288,7 @@ public abstract class RatingSystem {
      * @param team the team to be printed
      * @return a a pretty print string formatted to print the given team
      */
-    protected String prettyPrintTeam(String team) {
+    protected String prettyPrintTeam(String team, boolean allStats) {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);

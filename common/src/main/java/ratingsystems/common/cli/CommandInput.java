@@ -15,6 +15,7 @@ public class CommandInput {
         this.optionLetterToName = new HashMap<>();
         this.optionLetterToName.put('c', "CLEAN");
         this.optionLetterToName.put('p', "PRETTY_PRINT");
+        this.optionLetterToName.put('a', "ALL_STATS");
         this.optionLetterToName.put('w', "WEEK");
         this.optionLetterToName.put('y', "YEAR");
         this.optionLetterToName.put('l', "LEAGUE");
