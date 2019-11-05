@@ -25,6 +25,7 @@ public class CommandInput {
         this.flags = new HashMap<>();
         this.flags.put("CLEAN", false);
         this.flags.put("PRETTY_PRINT", false);
+        this.flags.put("ALL_STATS", false);
 
         this.parameters = new Parameters();
 
