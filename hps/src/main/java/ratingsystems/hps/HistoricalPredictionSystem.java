@@ -248,7 +248,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team1ExpectedScore = gameSimilaritiesVector.dotProduct(team1ScoresVector) * Math.pow(team1Off / team2Def, serPow);
         double team2ExpectedScore = gameSimilaritiesVector.dotProduct(team2ScoresVector) * Math.pow(team2Off / team1Def, serPow);
 
-        double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
+        //double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
+        double odds = 1.0 / (1.0 + Math.exp((team2ExpectedScore - team1ExpectedScore) / 10.0));
 
         return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore, location);
     }
