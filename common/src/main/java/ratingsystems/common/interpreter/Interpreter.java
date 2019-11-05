@@ -52,7 +52,7 @@ public abstract class Interpreter {
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if any of the data files specified by the file paths is not found
      */
-    abstract public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException;
+    abstract public HashMap<String, Team> parseData(int[] years, boolean cumulative) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data files specified by the file paths
@@ -62,7 +62,7 @@ public abstract class Interpreter {
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if any of the data files specified by the file paths is not found
      */
-    abstract public HashMap<String, Team> parseData(int[] years, int week) throws FileNotFoundException;
+    abstract public HashMap<String, Team> parseData(int[] years, int week, boolean cumulative) throws FileNotFoundException;
 
     /**
      * Adds the team to the interpreter results if it has not already been added
@@ -70,7 +70,17 @@ public abstract class Interpreter {
      * @param team the team to be added
      * @param conference the conference of the team
      */
-    abstract public void addTeam(String team, String conference);
+    protected void addTeam(String team, String conference, int year) {
+        if (addedTeams.add(team)) {
+            teams.put(team, new Team(team));
+            teams.get(team).setConference(conference);
+            teams.get(team).setYear(year);
+        }
+
+        if (addedGroups.add(conference)) {
+            groups.add(conference);
+        }
+    }
 
     /**
      * Returns the groups of the teams

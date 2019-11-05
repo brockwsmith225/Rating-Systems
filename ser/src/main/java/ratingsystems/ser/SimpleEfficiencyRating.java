@@ -105,6 +105,8 @@ public class SimpleEfficiencyRating extends RatingSystem {
     protected String printTeam(String team, boolean allStats) {
         return teams.get(team).getName() + "\t"
                 + teams.get(team).getRating() + "\t"
+                + (allStats ? teams.get(team).getRating("Offensive Rating") + "\t"
+                +  teams.get(team).getRating("Defensive Rating") + "\t" : "")
                 + teams.get(team).getRecord();
     }
 

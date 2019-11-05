@@ -13,6 +13,7 @@ import java.util.HashMap;
 public class Team implements Comparable<Team>, Serializable {
 
     private String name, conference;
+    private int year;
     private double rating;
     private HashMap<String, Double> otherRatings;
     private int numberOfGames;
@@ -26,6 +27,7 @@ public class Team implements Comparable<Team>, Serializable {
     public Team(String name) {
         this.name = name;
         this.conference = "";
+        this.year = 0;
         this.rating = 0.0;
         this.otherRatings = new HashMap<>();
         this.numberOfGames = 0;
@@ -57,6 +59,14 @@ public class Team implements Comparable<Team>, Serializable {
      */
     public String getConference() {
         return conference;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+
+    public int getYear() {
+        return year;
     }
 
     /**

@@ -22,7 +22,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-            addTeam(entry.team, entry.conference);
+            addTeam(entry.team, entry.conference, year);
             teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
         }
 
@@ -40,7 +40,7 @@ public class CollegeFootballInterpreter extends Interpreter {
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
             if (entry.week <= week) {
-                addTeam(entry.team, entry.conference);
+                addTeam(entry.team, entry.conference, year);
                 //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
@@ -52,7 +52,7 @@ public class CollegeFootballInterpreter extends Interpreter {
     }
 
     @Override
-    public HashMap<String, Team> parseData(int[] years) throws FileNotFoundException {
+    public HashMap<String, Team> parseData(int[] years, boolean cumulative) throws FileNotFoundException {
         setup();
 
         for (int year : years) {
@@ -61,7 +61,7 @@ public class CollegeFootballInterpreter extends Interpreter {
 
             while (data.hasNext()) {
                 CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-                addTeam(entry.team, entry.conference);
+                addTeam(entry.team, entry.conference, year);
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
@@ -72,7 +72,7 @@ public class CollegeFootballInterpreter extends Interpreter {
     }
 
     @Override
-    public HashMap<String, Team> parseData(int[] years, int week) throws FileNotFoundException {
+    public HashMap<String, Team> parseData(int[] years, int week, boolean cumulative) throws FileNotFoundException {
         setup();
 
         for (int year : years) {
@@ -82,14 +82,14 @@ public class CollegeFootballInterpreter extends Interpreter {
                 while (data.hasNext()) {
                     CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
                     if (entry.week <= week) {
-                        addTeam(entry.team, entry.conference);
+                        addTeam(entry.team, entry.conference, year);
                         teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
                     }
                 }
             } else {
                 while (data.hasNext()) {
                     CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-                    addTeam(entry.team, entry.conference);
+                    addTeam(entry.team, entry.conference, year);
                     teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
                 }
             }
@@ -98,18 +98,6 @@ public class CollegeFootballInterpreter extends Interpreter {
         addDefensiveStatistics();
 
         return teams;
-    }
-
-    @Override
-    public void addTeam(String team, String conference) {
-        if (addedTeams.add(team)) {
-            teams.put(team, new Team(team));
-        }
-
-        teams.get(team).setConference(conference);
-        if (addedGroups.add(conference)) {
-            groups.add(conference);
-        }
     }
 
     @Override

@@ -63,18 +63,18 @@ public abstract class RatingSystem {
         this.interpreter = interpreter;
     }
 
-    public RatingSystem(Interpreter interpreter, int[] years) throws FileNotFoundException {
+    public RatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
         this.year = years[years.length - 1];
-        teams = interpreter.parseData(years);
+        teams = interpreter.parseData(years, cumulative);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
 
-    public RatingSystem(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
+    public RatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
         this.year = years[years.length - 1];
         this.week = week;
-        teams = interpreter.parseData(years, week);
+        teams = interpreter.parseData(years, week, cumulative);
         rankedTeams = new ArrayList<>();
         rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;

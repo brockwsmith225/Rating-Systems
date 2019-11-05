@@ -47,8 +47,8 @@ public class RelativeRatingSystem extends RatingSystem {
         }
     }
 
-    public RelativeRatingSystem(Interpreter interpreter, int[] years) throws FileNotFoundException {
-        super(interpreter, years);
+    public RelativeRatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
+        super(interpreter, years, cumulative);
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
@@ -59,8 +59,8 @@ public class RelativeRatingSystem extends RatingSystem {
         }
     }
 
-    public RelativeRatingSystem(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
-        super(interpreter, years, week);
+    public RelativeRatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
+        super(interpreter, years, week, cumulative);
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;

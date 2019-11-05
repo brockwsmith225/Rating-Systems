@@ -7,6 +7,7 @@ import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
+import java.util.Map;
 
 public class RelativeRatingSystemRunner extends Runner {
 
@@ -20,7 +21,7 @@ public class RelativeRatingSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Parameters parameters) {
+    public RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         try {
             RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
@@ -31,7 +32,7 @@ public class RelativeRatingSystemRunner extends Runner {
                     }
                     ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                             years,
-                            (int) parameters.getValue("WEEK"));
+                            (int) parameters.getValue("WEEK"), options.get("CUMULATIVE"));
                 } else {
                     ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                             (int) parameters.getValue("YEAR"),
@@ -43,7 +44,7 @@ public class RelativeRatingSystemRunner extends Runner {
                     years[i] = i + (int) parameters.getValue("START_YEAR");
                 }
                 ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
-                        years);
+                        years, options.get("CUMULATIVE"));
             } else {
                 ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                         (int) parameters.getValue("YEAR"));
