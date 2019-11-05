@@ -5,31 +5,41 @@ import ratingsystems.common.linalg.Vector;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  *
  */
 public class Team implements Comparable<Team>, Serializable {
 
-    private String name, conference;
-    private int year;
-    private double rating;
-    private HashMap<String, Double> otherRatings;
-    private int numberOfGames;
-    private ArrayList<Game> games;
+    protected String name, conference, coach;
+    protected int year;
+    protected double rating;
+    protected int numberOfGames;
+    protected List<Game> games;
+
+    public Team() {
+        this.name = "";
+        this.conference = "";
+        this.coach = "";
+        this.year = 0;
+        this.rating = 0.0;
+        this.numberOfGames = 0;
+        this.games = new ArrayList<>();
+    }
 
     /**
      * Creates a new instance of a team.
      *
      * @param name the name of the new team
      */
-    public Team(String name) {
+    public Team(String name, String conference, String coach, int year) {
         this.name = name;
-        this.conference = "";
-        this.year = 0;
+        this.conference = conference;
+        this.coach = coach;
+        this.year = year;
         this.rating = 0.0;
-        this.otherRatings = new HashMap<>();
         this.numberOfGames = 0;
         this.games = new ArrayList<>();
     }
@@ -44,15 +54,6 @@ public class Team implements Comparable<Team>, Serializable {
     }
 
     /**
-     * Assigns the team to a particular conference
-     *
-     * @param conference the name of the conference to assign the team to
-     */
-    public void setConference(String conference) {
-        this.conference = conference;
-    }
-
-    /**
      * Returns the conference the team belongs to
      *
      * @return the conference the team belongs to
@@ -61,8 +62,8 @@ public class Team implements Comparable<Team>, Serializable {
         return conference;
     }
 
-    public void setYear(int year) {
-        this.year = year;
+    public String getCoach() {
+        return coach;
     }
 
     public int getYear() {
@@ -85,28 +86,6 @@ public class Team implements Comparable<Team>, Serializable {
      */
     public double getRating() {
         return rating;
-    }
-
-    /**
-     * Sets the rating of the team
-     *
-     * @param rating the new rating of the team
-     */
-    public void setRating(String ratingName, double rating) {
-        otherRatings.put(ratingName, rating);
-    }
-
-    /**
-     * Returns the rating of the team
-     *
-     * @return the rating of the team
-     * @throws NullPointerException if the rating requested does not exist
-     */
-    public double getRating(String ratingName) throws NullPointerException {
-        if (!otherRatings.containsKey(ratingName)) {
-            throw new NullPointerException("Rating " + ratingName + " not found.");
-        }
-        return otherRatings.get(ratingName);
     }
 
     /**
@@ -142,8 +121,8 @@ public class Team implements Comparable<Team>, Serializable {
      * @return a copy of the games of the team
      */
     @JsonIgnore
-    public ArrayList<Game> getGames() {
-        ArrayList<Game> dataCopy = new ArrayList<>();
+    public List<Game> getGames() {
+        List<Game> dataCopy = new ArrayList<>();
         for (Game game : games) {
             dataCopy.add(Game.copyOf(game));
         }
@@ -218,7 +197,7 @@ public class Team implements Comparable<Team>, Serializable {
         return vector.multiply(1.0 / games.size());
     }
 
-    public Vector getStatisticsVector(HashMap<String, Vector> teamVectors) {
+    public Vector getStatisticsVector(Map<String, Vector> teamVectors) {
         if (games.size() == 0) {
             return null;
         }
@@ -232,7 +211,7 @@ public class Team implements Comparable<Team>, Serializable {
 
     @Override
     public int compareTo(Team e) {
-        return Double.compare(e.rating, rating);
+        return Double.compare(e.getRating(), rating);
     }
 
     @Override
@@ -241,12 +220,8 @@ public class Team implements Comparable<Team>, Serializable {
     }
 
     public static Team copyOf(Team team) {
-        Team copy = new Team(team.name);
-        copy.conference = team.conference;
+        Team copy = new Team(team.name, team.conference, team.coach, team.year);
         copy.rating = team.rating;
-        for (String rating : team.otherRatings.keySet()) {
-            copy.otherRatings.put(rating, team.otherRatings.get(rating));
-        }
         copy.numberOfGames = team.numberOfGames;
         for (Game game : team.games) {
             copy.games.add(Game.copyOf(game));

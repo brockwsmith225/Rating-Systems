@@ -17,7 +17,6 @@ import java.util.List;
 public abstract class RatingSystem {
     protected HashMap<String, Team> teams;
     protected ArrayList<Team> rankedTeams;
-    protected ArrayList<Team> rankedGroups;
     protected Interpreter interpreter;
     protected int year, week;
 
@@ -27,7 +26,6 @@ public abstract class RatingSystem {
     public RatingSystem() {
         teams = new HashMap<>();
         rankedTeams = new ArrayList<>();
-        rankedGroups = new ArrayList<>();
     }
 
     /**
@@ -42,7 +40,6 @@ public abstract class RatingSystem {
         this.week = -1;
         teams = interpreter.parseData(year);
         rankedTeams = new ArrayList<>();
-        rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
 
@@ -59,7 +56,6 @@ public abstract class RatingSystem {
         this.week = week;
         teams = interpreter.parseData(year, week);
         rankedTeams = new ArrayList<>();
-        rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
 
@@ -67,7 +63,6 @@ public abstract class RatingSystem {
         this.year = years[years.length - 1];
         teams = interpreter.parseData(years, cumulative);
         rankedTeams = new ArrayList<>();
-        rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
 
@@ -76,7 +71,6 @@ public abstract class RatingSystem {
         this.week = week;
         teams = interpreter.parseData(years, week, cumulative);
         rankedTeams = new ArrayList<>();
-        rankedGroups = new ArrayList<>();
         this.interpreter = interpreter;
     }
 
@@ -92,11 +86,6 @@ public abstract class RatingSystem {
         rankedTeams = new ArrayList<>(teams.values());
         Collections.sort(rankedTeams);
     }
-
-    /**
-     * Ranks the groups of teams
-     */
-    abstract public void rankGroups();
 
     /**
      * Prints the teams in ranked order along with their ratings

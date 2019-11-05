@@ -22,7 +22,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
 
         while (data.hasNext()) {
             CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
-            addTeam(entry.team, entry.conference, year);
+            addTeam(entry.team, entry.conference, entry.coach, year);
             teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
         }
 
@@ -38,7 +38,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
         while (data.hasNext()) {
             CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
             if (entry.week <= week) {
-                addTeam(entry.team, entry.conference, year);
+                addTeam(entry.team, entry.conference, entry.coach, year);
                 //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
@@ -57,7 +57,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
 
             while (data.hasNext()) {
                 CollegeBasketballEntry entry = new CollegeBasketballEntry(data.nextLine(), startDate);
-                addTeam(entry.team, entry.conference, year);
+                addTeam(entry.team, entry.conference, entry.coach, year);
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
             }
         }

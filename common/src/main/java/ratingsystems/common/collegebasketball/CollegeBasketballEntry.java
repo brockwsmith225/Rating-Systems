@@ -6,7 +6,7 @@ import java.time.LocalDate;
 
 public class CollegeBasketballEntry {
     public LocalDate date;
-    public String team, opponent, conference;
+    public String team, conference, coach, opponent, opponentConference, opponentCoach;
     public Location location;
     public char result;
     public int teamScore, opponentScore, weightedScoreDifference, week;
@@ -25,9 +25,12 @@ public class CollegeBasketballEntry {
         this.week = getWeek(date, startDate);
         this.team = entry[1];
         this.conference = entry[2];
+        this.coach = "";
         char loc = entry[3].charAt(0);
         this.location = loc == 'H' ? Location.HOME : loc == 'A' ? Location.AWAY : Location.NEUTRAL;
         this.opponent = entry[4];
+        this.opponentConference = "";
+        this.opponentCoach = "";
         this.result = entry[5].charAt(0);
         this.teamScore = Integer.parseInt(entry[6]);
         this.opponentScore = Integer.parseInt(entry[7]);

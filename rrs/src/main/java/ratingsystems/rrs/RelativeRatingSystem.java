@@ -4,7 +4,6 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Location;
-import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.linalg.Matrix;
 import ratingsystems.common.linalg.Vector;
 import ratingsystems.common.ratingsystem.Prediction;
@@ -15,6 +14,7 @@ import java.util.*;
 
 public class RelativeRatingSystem extends RatingSystem {
 
+    private HashMap<String, RRSTeam> teams;
     private Matrix posMatrix, negMatrix;
     private HashMap<String, Integer> teamNameToIndex;
     private HashMap<Integer, String> teamIndexToName;
@@ -25,10 +25,12 @@ public class RelativeRatingSystem extends RatingSystem {
 
     public RelativeRatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
+        this.teams = new HashMap<>();
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
-        for (String team : teams.keySet()) {
+        for (String team : super.teams.keySet()) {
+            this.teams.put(team, new RRSTeam(super.teams.get(team)));
             teamNameToIndex.put(team, i);
             teamIndexToName.put(i, team);
             i++;
@@ -37,10 +39,12 @@ public class RelativeRatingSystem extends RatingSystem {
 
     public RelativeRatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
         super(interpreter, year, week);
+        this.teams = new HashMap<>();
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
-        for (String team : teams.keySet()) {
+        for (String team : super.teams.keySet()) {
+            this.teams.put(team, new RRSTeam(super.teams.get(team)));
             teamNameToIndex.put(team, i);
             teamIndexToName.put(i, team);
             i++;
@@ -49,10 +53,12 @@ public class RelativeRatingSystem extends RatingSystem {
 
     public RelativeRatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
         super(interpreter, years, cumulative);
+        this.teams = new HashMap<>();
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
-        for (String team : teams.keySet()) {
+        for (String team : super.teams.keySet()) {
+            this.teams.put(team, new RRSTeam(super.teams.get(team)));
             teamNameToIndex.put(team, i);
             teamIndexToName.put(i, team);
             i++;
@@ -61,10 +67,12 @@ public class RelativeRatingSystem extends RatingSystem {
 
     public RelativeRatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
         super(interpreter, years, week, cumulative);
+        this.teams = new HashMap<>();
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
-        for (String team : teams.keySet()) {
+        for (String team : super.teams.keySet()) {
+            this.teams.put(team, new RRSTeam(super.teams.get(team)));
             teamNameToIndex.put(team, i);
             teamIndexToName.put(i, team);
             i++;
@@ -92,28 +100,6 @@ public class RelativeRatingSystem extends RatingSystem {
         setRatings();
 
         rankTeams();
-        rankGroups();
-    }
-
-    @Override
-    public void rankGroups() {
-        HashSet<String> addedGroups = new HashSet<>();
-        HashMap<String, Team> groups = new HashMap<>();
-        HashMap<String, Integer> groupSizes = new HashMap<>();
-        for (Team team : rankedTeams) {
-            if (addedGroups.add(team.getConference())) {
-                groups.put(team.getConference(), new Team(team.getConference()));
-                groupSizes.put(team.getConference(), 0);
-            }
-            Team group = groups.get(team.getConference());
-            group.setRating(group.getRating() + team.getRating());
-            groupSizes.put(team.getConference(), groupSizes.get(team.getConference()) + 1);
-        }
-        for (String group : groups.keySet()) {
-            groups.get(group).setRating(groups.get(group).getRating() / groupSizes.get(group));
-        }
-        rankedGroups = new ArrayList<>(groups.values());
-        Collections.sort(rankedGroups);
     }
 
     @Override
@@ -192,7 +178,7 @@ public class RelativeRatingSystem extends RatingSystem {
             }
         }
         for (String team : teams.keySet()) {
-            ArrayList<Game> games = teams.get(team).getGames();
+            List<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getScoreDiff() > 0) {
@@ -218,7 +204,7 @@ public class RelativeRatingSystem extends RatingSystem {
             }
         }
         for (String team : teams.keySet()) {
-            ArrayList<Game> games = teams.get(team).getGames();
+            List<Game> games = teams.get(team).getGames();
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getScoreDiff() < 0) {
@@ -278,7 +264,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setPositiveRatings(ratingsystems.common.linalg.Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            teams.get(teamIndexToName.get(i)).setRating("Positive Rating", (int)(vector.get(i) * 10000));
+            teams.get(teamIndexToName.get(i)).setPositiveRating((int)(vector.get(i) * 10000));
         }
     }
 
@@ -289,7 +275,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setNegativeRatings(Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            teams.get(teamIndexToName.get(i)).setRating("Negative Rating", (int)(vector.get(i) * 10000));
+            teams.get(teamIndexToName.get(i)).setNegativeRating((int)(vector.get(i) * 10000));
         }
     }
 
@@ -298,7 +284,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setRatings() {
         for (String team : teams.keySet()) {
-            teams.get(team).setRating(teams.get(team).getRating("Positive Rating") - teams.get(team).getRating("Negative Rating"));
+            teams.get(team).calculateRating();
         }
     }
 

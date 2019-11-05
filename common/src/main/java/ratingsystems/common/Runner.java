@@ -1,7 +1,7 @@
 package ratingsystems.common;
 
-import ratingsystems.common.collegefootball.coaches.CollegeFootballCoachesInterpreter;
-import ratingsystems.common.collegefootball.conferences.CollegeFootballConferencesInterpreter;
+import ratingsystems.common.collegefootball.CollegeFootballCoachesInterpreter;
+import ratingsystems.common.collegefootball.CollegeFootballConferencesInterpreter;
 import ratingsystems.common.commands.*;
 import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.collegebasketball.CollegeBasketballInterpreter;

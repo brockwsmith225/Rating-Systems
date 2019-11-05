@@ -2,10 +2,7 @@ package ratingsystems.common.interpreter;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.HashMap;
-import java.util.Scanner;
+import java.util.*;
 
 public abstract class Interpreter {
 
@@ -70,11 +67,9 @@ public abstract class Interpreter {
      * @param team the team to be added
      * @param conference the conference of the team
      */
-    protected void addTeam(String team, String conference, int year) {
+    protected void addTeam(String team, String conference, String coach, int year) {
         if (addedTeams.add(team)) {
-            teams.put(team, new Team(team));
-            teams.get(team).setConference(conference);
-            teams.get(team).setYear(year);
+            teams.put(team, new Team(team, conference, coach, year));
         }
 
         if (addedGroups.add(conference)) {
@@ -111,7 +106,7 @@ public abstract class Interpreter {
 
     protected void addDefensiveStatistics() {
         for (Team team : teams.values()) {
-            ArrayList<Game> games = team.getGames();
+            List<Game> games = team.getGames();
             for (Game game : games) {
                 teams.get(game.getOpponent()).addDefensiveStats(game);
             }
