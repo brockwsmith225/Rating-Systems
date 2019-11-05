@@ -10,92 +10,49 @@ import java.io.IOException;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class CollegeFootballInterpreter extends Interpreter {
 
     @Override
-    public HashMap<String, Team> parseData(int year) throws FileNotFoundException {
-        setup();
+    public Map<String, Team> parseData(int year) throws FileNotFoundException {
+        Map<String, Team> teams = new HashMap<>();
+
         Scanner data = getData(year);
         LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-            addTeam(entry.team, entry.conference, entry.coach, year);
+            if (!teams.containsKey(entry.team)) {
+                teams.put(entry.team, new Team(entry.team, entry.conference, entry.coach, year));
+            }
             teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
         }
 
-        addDefensiveStatistics();
+        addDefensiveStatistics(teams);
 
         return teams;
     }
 
     @Override
-    public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException {
-        setup();
+    public Map<String, Team> parseData(int year, int week) throws FileNotFoundException {
+        Map<String, Team> teams = new HashMap<>();
+
         Scanner data = getData(year);
         LocalDate startDate = getStartDate(year);
 
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
             if (entry.week <= week) {
-                addTeam(entry.team, entry.conference, entry.coach, year);
-                //entry.weightedScoreDifference = (int)(entry.weightedScoreDifference * Math.pow(0.975, week - entry.week));
+                if (!teams.containsKey(entry.team)) {
+                    teams.put(entry.team, new Team(entry.team, entry.conference, entry.coach, year));
+                }
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
 
-        addDefensiveStatistics();
-
-        return teams;
-    }
-
-    @Override
-    public HashMap<String, Team> parseData(int[] years, boolean cumulative) throws FileNotFoundException {
-        setup();
-
-        for (int year : years) {
-            Scanner data = getData(year);
-            LocalDate startDate = getStartDate(year);
-
-            while (data.hasNext()) {
-                CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-                addTeam(entry.team, entry.conference, entry.coach, year);
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
-            }
-        }
-
-        addDefensiveStatistics();
-
-        return teams;
-    }
-
-    @Override
-    public HashMap<String, Team> parseData(int[] years, int week, boolean cumulative) throws FileNotFoundException {
-        setup();
-
-        for (int year : years) {
-            Scanner data = getData(year);
-            LocalDate startDate = getStartDate(year);
-            if (year == years[years.length - 1]) {
-                while (data.hasNext()) {
-                    CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-                    if (entry.week <= week) {
-                        addTeam(entry.team, entry.conference, entry.coach, year);
-                        teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
-                    }
-                }
-            } else {
-                while (data.hasNext()) {
-                    CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
-                    addTeam(entry.team, entry.conference, entry.coach, year);
-                    teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
-                }
-            }
-        }
-
-        addDefensiveStatistics();
+        addDefensiveStatistics(teams);
 
         return teams;
     }

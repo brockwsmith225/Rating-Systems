@@ -6,23 +6,6 @@ import java.util.*;
 
 public abstract class Interpreter {
 
-    protected HashMap<String, Team> teams;
-    protected HashSet<String> addedTeams;
-    protected ArrayList<String> groups;
-    protected HashSet<String> addedGroups;
-
-
-    /**
-     * Handles the setup for the necessary instance variables which need to be created new each
-     * time the interpreter parses data, rather than when the interpreter is created
-     */
-    public void setup() {
-        teams = new HashMap<>();
-        groups = new ArrayList<>();
-        addedTeams = new HashSet<>();
-        addedGroups = new HashSet<>();
-    }
-
     /**
      * Interprets the data found in the data file specified by the file path
      *
@@ -30,7 +13,7 @@ public abstract class Interpreter {
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Team> parseData(int year) throws FileNotFoundException;
+    abstract public Map<String, Team> parseData(int year) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data file specified by the file path
@@ -40,7 +23,7 @@ public abstract class Interpreter {
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if the data file specified by the file path is not found
      */
-    abstract public HashMap<String, Team> parseData(int year, int week) throws FileNotFoundException;
+    abstract public Map<String, Team> parseData(int year, int week) throws FileNotFoundException;
 
     /**
      * Interprets the data found in the data files specified by the file paths
@@ -49,7 +32,33 @@ public abstract class Interpreter {
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if any of the data files specified by the file paths is not found
      */
-    abstract public HashMap<String, Team> parseData(int[] years, boolean cumulative) throws FileNotFoundException;
+    public Map<String, Team> parseData(int[] years, boolean cumulative) throws FileNotFoundException {
+        Map<String, Team> teams = new HashMap<>();
+
+        for (int year : years) {
+            if (cumulative) {
+                Map<String, Team> partialTeams = parseData(year);
+                for (String team : partialTeams.keySet()) {
+                    if (!teams.containsKey(team)) {
+                        teams.put(team, partialTeams.get(team));
+                    } else {
+                        for (Game game : partialTeams.get(team).getGames()) {
+                            teams.get(team).addGame(game);
+                        }
+                    }
+                }
+            } else {
+                Map<String, Team> partialTeams = parseData(year);
+                for (String team : partialTeams.keySet()) {
+                    teams.put(team + year, partialTeams.get(team));
+                }
+            }
+        }
+
+        addDefensiveStatistics(teams);
+
+        return teams;
+    }
 
     /**
      * Interprets the data found in the data files specified by the file paths
@@ -59,31 +68,37 @@ public abstract class Interpreter {
      * @return a collection of the teams found in the data file
      * @throws FileNotFoundException if any of the data files specified by the file paths is not found
      */
-    abstract public HashMap<String, Team> parseData(int[] years, int week, boolean cumulative) throws FileNotFoundException;
+    public Map<String, Team> parseData(int[] years, int week, boolean cumulative) throws FileNotFoundException {
+        Map<String, Team> teams = new HashMap<>();
 
-    /**
-     * Adds the team to the interpreter results if it has not already been added
-     *
-     * @param team the team to be added
-     * @param conference the conference of the team
-     */
-    protected void addTeam(String team, String conference, String coach, int year) {
-        if (addedTeams.add(team)) {
-            teams.put(team, new Team(team, conference, coach, year));
+        for (int year : years) {
+            if (cumulative) {
+                Map<String, Team> partialTeams;
+                if (year == years[years.length - 1]) {
+                    partialTeams = parseData(year, week);
+                } else {
+                    partialTeams = parseData(year);
+                }
+                for (String team : partialTeams.keySet()) {
+                    if (!teams.containsKey(team)) {
+                        teams.put(team, partialTeams.get(team));
+                    } else {
+                        for (Game game : partialTeams.get(team).getGames()) {
+                            teams.get(team).addGame(game);
+                        }
+                    }
+                }
+            } else {
+                Map<String, Team> partialTeams = parseData(year, week);
+                for (String team : partialTeams.keySet()) {
+                    teams.put(team + year, partialTeams.get(team));
+                }
+            }
         }
 
-        if (addedGroups.add(conference)) {
-            groups.add(conference);
-        }
-    }
+        addDefensiveStatistics(teams);
 
-    /**
-     * Returns the groups of the teams
-     *
-     * @return the groups
-     */
-    public ArrayList<String> groups() {
-        return new ArrayList<>(groups);
+        return teams;
     }
 
     /**
@@ -104,7 +119,7 @@ public abstract class Interpreter {
 
     abstract public void fetchData(int year) throws IOException;
 
-    protected void addDefensiveStatistics() {
+    protected void addDefensiveStatistics(Map<String, Team> teams) {
         for (Team team : teams.values()) {
             List<Game> games = team.getGames();
             for (Game game : games) {
