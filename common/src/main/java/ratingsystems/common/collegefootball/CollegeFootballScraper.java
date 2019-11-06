@@ -102,10 +102,10 @@ public class CollegeFootballScraper extends WebScraper {
                 Document d = Jsoup.connect("https://www.sports-reference.com/cfb/schools/" + team + "/" + year + "-schedule.html").get();
                 Elements offense = d.select("#schedule td");
                 HashMap<String, Pattern> data = new HashMap<>();
-                data.put("date_game", Pattern.compile("/cfb/boxscores/(.*)-.+\\.html"));
+                data.put("date_game", Pattern.compile("/cfb/boxscores/([0-9]{4}-[0-9]{2}-[0-9]{2})-.+\\.html"));
                 data.put("game_location", Pattern.compile("game_location\">(.*)<\\/td>"));
                 data.put("opp_name", Pattern.compile("schools\\/(.*)/" + year + ".html\">"));
-                data.put("game_result", Pattern.compile("game_result\">([0-9\\-]*)<\\/td>"));
+                data.put("game_result", Pattern.compile("game_result\">(.*)<\\/td>"));
                 data.put("points", Pattern.compile("points\">(.*)<\\/td>"));
                 data.put("opp_points", Pattern.compile("opp_points\">(.*)<\\/td>"));
                 schedule.add(new ArrayList<>());
