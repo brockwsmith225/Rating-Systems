@@ -91,7 +91,6 @@ public abstract class Interpreter {
                     }
                 }
             } else {
-                System.out.println("Not Cumulative");
                 Map<String, Team> partialTeams = parseData(year, week);
                 for (String team : partialTeams.keySet()) {
                     for (Game oldGame : partialTeams.get(team).getGames()) {
