@@ -151,7 +151,6 @@ public class RelativeRatingSystem extends RatingSystem {
     @Override
     protected String printTeam(Team team, boolean allStats) {
         return team.getName() + "\t"
-                + (!cumulative ? team.getYear() + "\t" : "")
                 + (int)team.getRating() + "\t"
                 + team.getRecord();
     }
@@ -159,7 +158,6 @@ public class RelativeRatingSystem extends RatingSystem {
     @Override
     protected String prettyPrintTeam(Team team, boolean allStats) {
         return Terminal.leftJustify(team.getName(), 50) + "   "
-                + (!cumulative ? team.getYear() + "   " : "")
                 + Terminal.rightJustify(Integer.toString((int)team.getRating()), 10) + "   "
                 + Terminal.rightJustify(team.getRecord(), 10);
     }
