@@ -32,7 +32,7 @@ public class RelativeRatingSystemRunner extends Runner {
                     }
                     ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                             years,
-                            (int) parameters.getValue("WEEK"), options.get("CUMULATIVE"));
+                            (int) parameters.getValue("WEEK"));
                 } else {
                     ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                             (int) parameters.getValue("YEAR"),
@@ -44,7 +44,7 @@ public class RelativeRatingSystemRunner extends Runner {
                     years[i] = i + (int) parameters.getValue("START_YEAR");
                 }
                 ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
-                        years, options.get("CUMULATIVE"));
+                        years);
             } else {
                 ratingSystem = new RelativeRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                         (int) parameters.getValue("YEAR"));
