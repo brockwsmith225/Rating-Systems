@@ -73,10 +73,14 @@ public abstract class RatingSystem {
                     maxGames = team.getNumberOfGames();
                 }
             }
+            Set<String> teamsToRemove = new HashSet<>();
             for (String team : teams.keySet()) {
                 if (teams.get(team).getNumberOfGames() < 0.1 * maxGames && !team.equals(teams.get(team).getCoach())) {
-                    teams.remove(team);
+                    teamsToRemove.add(team);
                 }
+            }
+            for (String team : teamsToRemove) {
+                teams.remove(team);
             }
         }
     }
@@ -95,10 +99,14 @@ public abstract class RatingSystem {
                     maxGames = team.getNumberOfGames();
                 }
             }
+            Set<String> teamsToRemove = new HashSet<>();
             for (String team : teams.keySet()) {
                 if (teams.get(team).getNumberOfGames() < 0.1 * maxGames && !team.equals(teams.get(team).getCoach())) {
-                    teams.remove(team);
+                    teamsToRemove.add(team);
                 }
+            }
+            for (String team : teamsToRemove) {
+                teams.remove(team);
             }
         }
     }
