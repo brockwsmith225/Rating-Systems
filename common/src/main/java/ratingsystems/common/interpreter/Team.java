@@ -153,8 +153,16 @@ public class Team implements Comparable<Team>, Serializable {
         return losses;
     }
 
+    public int getNumberOfDraws() {
+        int draws = 0;
+        for (Game game : games) {
+            if (game.getScore() == game.getOpponentScore()) draws++;
+        }
+        return draws;
+    }
+
     public String getRecord() {
-        return getNumberOfWins() + "-" + getNumberOfLosses();
+        return getNumberOfWins() + "-" + getNumberOfLosses() + (getNumberOfDraws() > 0 ? "-" + getNumberOfDraws() : "");
     }
 
     /**
