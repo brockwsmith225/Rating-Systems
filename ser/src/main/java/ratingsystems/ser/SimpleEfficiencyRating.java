@@ -29,12 +29,12 @@ public class SimpleEfficiencyRating extends RatingSystem {
         super(interpreter, year, week);
     }
 
-    public SimpleEfficiencyRating(Interpreter interpreter, int[] years) throws FileNotFoundException {
-        super(interpreter, years);
+    public SimpleEfficiencyRating(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
+        super(interpreter, years, cumulative);
     }
 
-    public SimpleEfficiencyRating(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
-        super(interpreter, years, week);
+    public SimpleEfficiencyRating(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
+        super(interpreter, years, week, cumulative);
     }
 
     @Override

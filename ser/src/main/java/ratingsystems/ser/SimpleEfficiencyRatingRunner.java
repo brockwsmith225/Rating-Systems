@@ -7,6 +7,7 @@ import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
 
 import java.io.FileNotFoundException;
+import java.util.Map;
 
 public class SimpleEfficiencyRatingRunner extends Runner {
 
@@ -20,7 +21,7 @@ public class SimpleEfficiencyRatingRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Parameters parameters) {
+    public RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         try {
             RatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {

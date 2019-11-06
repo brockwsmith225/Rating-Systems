@@ -132,14 +132,14 @@ public class HistoricalPredictionSystem extends RatingSystem {
     }
 
     @Override
-    protected String prettyPrintColumnHeaders() {
+    protected String prettyPrintColumnHeaders(boolean allStats) {
         StringBuilder header = new StringBuilder();
         header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Offense", 10) + "   " + Terminal.leftJustify("Defense", 10) + "   " + Terminal.leftJustify("Record", 10));
         return header.toString();
     }
 
     @Override
-    protected String prettyPrintTeam(String team) {
+    protected String prettyPrintTeam(String team, boolean allStats) {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
                 + Terminal.rightJustify(Double.toString(teams.get(team).getRating("Offensive Rating")), 10) + "   "
