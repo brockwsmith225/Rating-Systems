@@ -265,7 +265,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setPositiveRatings(ratingsystems.common.linalg.Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            teams.get(teamIndexToName.get(i)).setPositiveRating((int)(vector.get(i) * 10000));
+            teams.get(teamIndexToName.get(i)).setPositiveRating((vector.get(i) * 10000));
         }
     }
 
@@ -276,7 +276,7 @@ public class RelativeRatingSystem extends RatingSystem {
      */
     private void setNegativeRatings(Vector vector) {
         for (int i = 0; i < vector.size(); i++) {
-            teams.get(teamIndexToName.get(i)).setNegativeRating((int)(vector.get(i) * 10000));
+            teams.get(teamIndexToName.get(i)).setNegativeRating((vector.get(i) * 10000));
         }
     }
 

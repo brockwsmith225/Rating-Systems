@@ -74,7 +74,7 @@ public abstract class RatingSystem {
                 }
             }
             for (String team : teams.keySet()) {
-                if (teams.get(team).getNumberOfGames() < 0.1 * maxGames) {
+                if (teams.get(team).getNumberOfGames() < 0.1 * maxGames && !team.equals(teams.get(team).getCoach())) {
                     teams.remove(team);
                 }
             }
@@ -96,7 +96,7 @@ public abstract class RatingSystem {
                 }
             }
             for (String team : teams.keySet()) {
-                if (teams.get(team).getNumberOfGames() < 0.1 * maxGames) {
+                if (teams.get(team).getNumberOfGames() < 0.1 * maxGames && !team.equals(teams.get(team).getCoach())) {
                     teams.remove(team);
                 }
             }
