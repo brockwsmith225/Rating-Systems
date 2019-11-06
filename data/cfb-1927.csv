@@ -1,0 +1,629 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1927-09-24,North Carolina,Southern,Chuck Collins,H,Wake Forest,Ind,James Baldwin,L,8,9
+1927-10-01,North Carolina,Southern,Chuck Collins,H,Tennessee,Southern,Bob Neyland,L,0,26
+1927-10-08,North Carolina,Southern,Chuck Collins,H,Maryland,Southern,Curley Byrd,W,7,6
+1927-10-15,North Carolina,Southern,Chuck Collins,A,South Carolina,Southern,Harry Lightsey,L,6,14
+1927-10-22,North Carolina,Southern,Chuck Collins,A,Georgia Tech,Southern,William Alexander,L,0,13
+1927-10-29,North Carolina,Southern,Chuck Collins,A,North Carolina State,Southern,Gus Tebell,L,6,19
+1927-11-05,North Carolina,Southern,Chuck Collins,A,Virginia Military Institute,Southern,,L,0,7
+1927-11-12,North Carolina,Southern,Chuck Collins,H,Davidson,Ind,Monk Younger,W,27,0
+1927-11-19,North Carolina,Southern,Chuck Collins,A,Duke,Ind,Jimmy DeHart,W,18,0
+1927-11-24,North Carolina,Southern,Chuck Collins,H,Virginia,Southern,Greasy Neale,W,14,13
+1927-10-01,Indiana,Western,Pat Page,A,Kentucky,Southern,Harry Gamage,W,21,0
+1927-10-08,Indiana,Western,Pat Page,A,Chicago,Western,Amos Alonzo Stagg,L,0,13
+1927-10-15,Indiana,Western,Pat Page,H,Minnesota,Western,Clarence Spears,T,14,14
+1927-10-22,Indiana,Western,Pat Page,H,Notre Dame,Ind,Knute Rockne,L,6,19
+1927-10-29,Indiana,Western,Pat Page,A,Harvard,Ind,,L,6,26
+1927-11-05,Indiana,Western,Pat Page,H,Michigan State,Ind,Ralph Young,W,33,7
+1927-11-12,Indiana,Western,Pat Page,A,Northwestern,Western,Dick Hanley,W,18,7
+1927-11-19,Indiana,Western,Pat Page,H,Purdue,Western,James Phelan,L,6,21
+1927-10-01,Iowa State,MVIAA,,A,Nebraska,MVIAA,Ernest Bearg,L,0,6
+1927-10-15,Iowa State,MVIAA,,A,Illinois,Western,Robert Zuppke,T,12,12
+1927-10-29,Iowa State,MVIAA,,H,Kansas State,MVIAA,Charlie Bachman,W,12,7
+1927-11-05,Iowa State,MVIAA,,A,Drake,MVIAA,Ossie Solem,W,7,0
+1927-11-11,Iowa State,MVIAA,,H,Missouri,MVIAA,Gwinn Henry,L,6,13
+1927-11-19,Iowa State,MVIAA,,H,Grinnell,MVIAA,Lester Watt,W,14,0
+1927-11-24,Iowa State,MVIAA,,A,Marquette,Ind,Frank Murray,L,0,34
+1927-09-23,Furman,Ind,,A,Duke,Ind,Jimmy DeHart,W,13,7
+1927-09-30,Furman,Ind,,H,North Carolina State,Southern,Gus Tebell,W,20,0
+1927-10-15,Furman,Ind,,A,Georgia,Southern,George Woodruff,L,0,32
+1927-11-05,Furman,Ind,,A,Wake Forest,Ind,James Baldwin,W,53,0
+1927-11-12,Furman,Ind,,H,South Carolina,Southern,Harry Lightsey,W,33,0
+1927-11-24,Furman,Ind,,H,Clemson,Southern,Josh Cody,W,28,0
+1927-10-01,Utah,RMC,Ike Armstrong,H,Colorado Mines,RMC,George Allen,W,40,6
+1927-10-08,Utah,RMC,Ike Armstrong,A,Northwestern,Western,Dick Hanley,L,6,13
+1927-10-22,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Myron Witham,W,20,13
+1927-10-29,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,L,0,12
+1927-11-05,Utah,RMC,Ike Armstrong,H,Creighton,Ind,,L,7,16
+1927-11-12,Utah,RMC,Ike Armstrong,A,Brigham Young,RMC,C.J. Hart,W,20,0
+1927-11-24,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,T,0,0
+1927-10-01,Northern Colorado,RMC,George Cooper,H,Colorado State,RMC,Harry Hughes,L,0,33
+1927-10-15,Northern Colorado,RMC,George Cooper,A,Colorado,RMC,Myron Witham,L,0,43
+1927-10-22,Northern Colorado,RMC,George Cooper,A,Brigham Young,RMC,C.J. Hart,W,21,7
+1927-10-29,Northern Colorado,RMC,George Cooper,A,Western State,RMC,John Van Liew,L,2,6
+1927-11-05,Northern Colorado,RMC,George Cooper,H,Colorado Mines,RMC,George Allen,L,12,37
+1927-11-19,Northern Colorado,RMC,George Cooper,A,Colorado College,RMC,W.T. VandeGraaff,L,0,20
+1927-11-24,Northern Colorado,RMC,George Cooper,H,Wyoming,RMC,George McLaren,L,6,27
+1927-10-01,Washington & Lee,Southern,Pat Herron,N,West Virginia,Ind,Rat Rogers,T,6,6
+1927-10-08,Washington & Lee,Southern,Pat Herron,H,Duke,Ind,Jimmy DeHart,W,12,7
+1927-10-15,Washington & Lee,Southern,Pat Herron,A,Princeton,Ind,,L,0,13
+1927-10-22,Washington & Lee,Southern,Pat Herron,A,Kentucky,Southern,Harry Gamage,W,25,0
+1927-10-29,Washington & Lee,Southern,Pat Herron,A,Maryland,Southern,Curley Byrd,W,13,6
+1927-11-05,Washington & Lee,Southern,Pat Herron,H,Virginia,Southern,Greasy Neale,L,7,13
+1927-11-12,Washington & Lee,Southern,Pat Herron,A,Virginia Tech,Southern,Andy Gustafson,L,0,21
+1927-11-24,Washington & Lee,Southern,Pat Herron,A,Florida,Southern,Tom Sebring,L,7,20
+1927-10-15,Syracuse,Ind,Lew Andreas,H,Georgetown,Ind,Lou Little,W,19,6
+1927-10-22,Syracuse,Ind,Lew Andreas,H,Penn State,Ind,Hugo Bezdek,L,6,9
+1927-10-29,Syracuse,Ind,Lew Andreas,A,Nebraska,MVIAA,Ernest Bearg,L,0,21
+1927-11-12,Syracuse,Ind,Lew Andreas,H,Colgate,Ind,George Hauser,T,13,13
+1927-11-24,Syracuse,Ind,Lew Andreas,A,Columbia,Ind,Charles Crowley,L,7,14
+1927-10-15,Georgetown,Ind,Lou Little,A,Syracuse,Ind,Lew Andreas,L,6,19
+1927-10-22,Georgetown,Ind,Lou Little,H,West Virginia,Ind,Rat Rogers,W,25,0
+1927-11-05,Georgetown,Ind,Lou Little,H,Lafayette,Ind,Herb McCracken,W,27,2
+1927-10-08,Montana,PCC,Frank Millburn,A,Washington State,PCC,O.E. Hollingbery,L,0,35
+1927-10-15,Montana,PCC,Frank Millburn,H,Washington,PCC,Enoch Bagshaw,L,0,32
+1927-10-22,Montana,PCC,Frank Millburn,A,Idaho,PCC,Charlie Erb,L,6,42
+1927-11-05,Montana,PCC,Frank Millburn,A,California,PCC,Nibs Price,L,13,33
+1927-11-19,Montana,PCC,Frank Millburn,A,Montana State,RMC,Ott Romney,W,6,0
+1927-10-15,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,Lou Young,W,20,0
+1927-10-22,Penn State,Ind,Hugo Bezdek,A,Syracuse,Ind,Lew Andreas,W,9,6
+1927-10-29,Penn State,Ind,Hugo Bezdek,H,Lafayette,Ind,Herb McCracken,W,40,6
+1927-11-12,Penn State,Ind,Hugo Bezdek,H,New York University,Ind,,T,13,13
+1927-11-24,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Jock Sutherland,L,0,30
+1927-10-15,Princeton,Ind,,H,Washington & Lee,Southern,Pat Herron,W,13,0
+1927-10-22,Princeton,Ind,,A,Cornell,Ind,Gilmour Dobie,W,21,10
+1927-11-05,Princeton,Ind,,H,Ohio State,Western,John Wilce,W,20,0
+1927-11-12,Princeton,Ind,,A,Yale,Ind,Tad Jones,L,6,14
+1927-10-15,Vanderbilt,Southern,Dan McGugin,A,Texas,SWC,Clyde Littlefield,L,6,13
+1927-10-22,Vanderbilt,Southern,Dan McGugin,H,Tulane,Southern,Bernie Bierman,W,32,0
+1927-10-29,Vanderbilt,Southern,Dan McGugin,H,Kentucky,Southern,Harry Gamage,W,34,6
+1927-11-06,Vanderbilt,Southern,Dan McGugin,H,Georgia Tech,Southern,William Alexander,T,0,0
+1927-11-12,Vanderbilt,Southern,Dan McGugin,A,Tennessee,Southern,Bob Neyland,T,7,7
+1927-11-19,Vanderbilt,Southern,Dan McGugin,H,Maryland,Southern,Curley Byrd,W,39,20
+1927-11-26,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,M.S. Bennett,W,26,6
+1927-12-03,Vanderbilt,Southern,Dan McGugin,A,Alabama,Southern,Wallace Wade,W,14,7
+1927-10-01,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Fred Dawson,W,36,7
+1927-10-22,Colorado College,RMC,W.T. VandeGraaff,H,Montana State,RMC,Ott Romney,W,28,7
+1927-10-29,Colorado College,RMC,W.T. VandeGraaff,A,Wyoming,RMC,George McLaren,W,12,8
+1927-11-05,Colorado College,RMC,W.T. VandeGraaff,A,Colorado,RMC,Myron Witham,L,6,7
+1927-11-12,Colorado College,RMC,W.T. VandeGraaff,A,Western State,RMC,John Van Liew,W,33,6
+1927-11-19,Colorado College,RMC,W.T. VandeGraaff,H,Northern Colorado,RMC,George Cooper,W,20,0
+1927-11-26,Colorado College,RMC,W.T. VandeGraaff,H,Colorado State,RMC,Harry Hughes,L,7,20
+1927-10-01,Kentucky,Southern,Harry Gamage,H,Indiana,Western,Pat Page,L,0,21
+1927-10-15,Kentucky,Southern,Harry Gamage,A,Florida,Southern,Tom Sebring,L,6,27
+1927-10-22,Kentucky,Southern,Harry Gamage,H,Washington & Lee,Southern,Pat Herron,L,0,25
+1927-10-29,Kentucky,Southern,Harry Gamage,A,Vanderbilt,Southern,Dan McGugin,L,6,34
+1927-11-05,Kentucky,Southern,Harry Gamage,A,Alabama,Southern,Wallace Wade,L,6,21
+1927-11-12,Kentucky,Southern,Harry Gamage,N,Virginia Military Institute,Southern,,W,25,0
+1927-11-24,Kentucky,Southern,Harry Gamage,H,Tennessee,Southern,Bob Neyland,L,0,20
+1927-10-15,California,PCC,Nibs Price,A,Oregon,PCC,John McEwan,W,16,0
+1927-10-29,California,PCC,Nibs Price,A,USC,PCC,Howard Jones,L,0,13
+1927-11-05,California,PCC,Nibs Price,H,Montana,PCC,Frank Millburn,W,33,13
+1927-11-12,California,PCC,Nibs Price,H,Washington,PCC,Enoch Bagshaw,L,0,6
+1927-11-19,California,PCC,Nibs Price,A,Stanford,PCC,Pop Warner,L,6,13
+1927-12-31,California,PCC,Nibs Price,H,Pennsylvania,Ind,Lou Young,W,27,13
+1927-10-01,Florida,Southern,Tom Sebring,H,Davidson,Ind,Monk Younger,L,0,12
+1927-10-08,Florida,Southern,Tom Sebring,A,Auburn,Southern,Boozer Pitts,W,33,6
+1927-10-15,Florida,Southern,Tom Sebring,H,Kentucky,Southern,Harry Gamage,W,27,6
+1927-10-22,Florida,Southern,Tom Sebring,H,North Carolina State,Southern,Gus Tebell,L,6,12
+1927-11-05,Florida,Southern,Tom Sebring,H,Georgia,Southern,George Woodruff,L,0,28
+1927-11-12,Florida,Southern,Tom Sebring,A,Alabama,Southern,Wallace Wade,W,13,6
+1927-11-24,Florida,Southern,Tom Sebring,H,Washington & Lee,Southern,Pat Herron,W,20,7
+1927-12-03,Florida,Southern,Tom Sebring,H,Maryland,Southern,Curley Byrd,W,7,6
+1927-10-15,Stanford,PCC,Pop Warner,H,USC,PCC,Howard Jones,T,13,13
+1927-10-22,Stanford,PCC,Pop Warner,A,Oregon State,PCC,Paul Schissler,W,20,6
+1927-10-29,Stanford,PCC,Pop Warner,H,Oregon,PCC,John McEwan,W,19,0
+1927-11-05,Stanford,PCC,Pop Warner,A,Washington,PCC,Enoch Bagshaw,W,13,7
+1927-11-19,Stanford,PCC,Pop Warner,H,California,PCC,Nibs Price,W,13,6
+1928-01-02,Stanford,PCC,Pop Warner,N,Pitt,Ind,Jock Sutherland,W,7,6
+1927-10-01,Creighton,Ind,,H,Wyoming,RMC,George McLaren,W,13,0
+1927-10-15,Creighton,Ind,,A,Oklahoma,MVIAA,Adrian Lindsey,T,13,13
+1927-10-22,Creighton,Ind,,H,Marquette,Ind,Frank Murray,W,14,0
+1927-10-29,Creighton,Ind,,A,Oklahoma State,MVIAA,John Maulbetsch,L,6,18
+1927-11-05,Creighton,Ind,,A,Utah,RMC,Ike Armstrong,W,16,7
+1927-10-08,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Frank Millburn,W,35,0
+1927-10-22,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,Enoch Bagshaw,L,0,14
+1927-10-29,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Paul Schissler,L,6,13
+1927-11-11,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Charlie Erb,T,7,7
+1927-11-19,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,L,0,27
+1927-10-01,Western State,RMC,John Van Liew,A,Colorado,RMC,Myron Witham,L,6,25
+1927-10-08,Western State,RMC,John Van Liew,A,Utah State,RMC,,L,0,39
+1927-10-15,Western State,RMC,John Van Liew,A,Colorado Mines,RMC,George Allen,L,6,51
+1927-10-29,Western State,RMC,John Van Liew,H,Northern Colorado,RMC,George Cooper,W,6,2
+1927-11-05,Western State,RMC,John Van Liew,A,Brigham Young,RMC,C.J. Hart,L,7,60
+1927-11-12,Western State,RMC,John Van Liew,H,Colorado College,RMC,W.T. VandeGraaff,L,6,33
+1927-10-15,Illinois,Western,Robert Zuppke,H,Iowa State,MVIAA,,T,12,12
+1927-10-22,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Dick Hanley,W,7,6
+1927-10-29,Illinois,Western,Robert Zuppke,H,Michigan,Western,Tad Wieman,W,14,0
+1927-11-05,Illinois,Western,Robert Zuppke,A,Iowa,Western,Burton Ingwersen,W,14,0
+1927-11-12,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,W,15,6
+1927-11-19,Illinois,Western,Robert Zuppke,A,Ohio State,Western,John Wilce,W,13,0
+1927-10-08,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Francis Schmidt,L,6,13
+1927-10-29,Baylor,SWC,Morley Jennings,H,Texas Christian,SWC,Madison Bell,L,0,14
+1927-11-05,Baylor,SWC,Morley Jennings,A,Texas,SWC,Clyde Littlefield,L,12,13
+1927-11-12,Baylor,SWC,Morley Jennings,A,SMU,SWC,Ray Morrison,L,0,34
+1927-11-24,Baylor,SWC,Morley Jennings,A,Rice,SWC,John Heisman,L,12,19
+1927-10-14,SMU,SWC,Ray Morrison,H,Rice,SWC,John Heisman,W,34,6
+1927-10-22,SMU,SWC,Ray Morrison,H,Missouri,MVIAA,Gwinn Henry,W,32,9
+1927-10-28,SMU,SWC,Ray Morrison,H,Texas,SWC,Clyde Littlefield,W,14,0
+1927-11-05,SMU,SWC,Ray Morrison,H,Texas A&M,SWC,Dana Bible,L,13,39
+1927-11-12,SMU,SWC,Ray Morrison,H,Baylor,SWC,Morley Jennings,W,34,0
+1927-11-19,SMU,SWC,Ray Morrison,A,Texas Christian,SWC,Madison Bell,W,28,6
+1927-10-01,Georgia,Southern,George Woodruff,H,Virginia,Southern,Greasy Neale,W,32,0
+1927-10-08,Georgia,Southern,George Woodruff,A,Yale,Ind,Tad Jones,W,14,10
+1927-10-15,Georgia,Southern,George Woodruff,H,Furman,Ind,,W,32,0
+1927-10-22,Georgia,Southern,George Woodruff,N,Auburn,Southern,Boozer Pitts,W,33,3
+1927-10-29,Georgia,Southern,George Woodruff,A,Tulane,Southern,Bernie Bierman,W,31,0
+1927-11-05,Georgia,Southern,George Woodruff,A,Florida,Southern,Tom Sebring,W,28,0
+1927-11-12,Georgia,Southern,George Woodruff,H,Clemson,Southern,Josh Cody,W,32,0
+1927-11-27,Georgia,Southern,George Woodruff,A,Alabama,Southern,Wallace Wade,W,20,6
+1927-12-03,Georgia,Southern,George Woodruff,A,Georgia Tech,Southern,William Alexander,L,0,12
+1927-10-01,Maryland,Southern,Curley Byrd,H,South Carolina,Southern,Harry Lightsey,W,26,0
+1927-10-08,Maryland,Southern,Curley Byrd,A,North Carolina,Southern,Chuck Collins,L,6,7
+1927-10-15,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,Andy Gustafson,W,13,7
+1927-10-22,Maryland,Southern,Curley Byrd,N,Virginia Military Institute,Southern,,W,10,6
+1927-10-29,Maryland,Southern,Curley Byrd,H,Washington & Lee,Southern,Pat Herron,L,6,13
+1927-11-05,Maryland,Southern,Curley Byrd,A,Yale,Ind,Tad Jones,L,6,30
+1927-11-12,Maryland,Southern,Curley Byrd,A,Virginia,Southern,Greasy Neale,L,0,21
+1927-11-19,Maryland,Southern,Curley Byrd,A,Vanderbilt,Southern,Dan McGugin,L,20,39
+1927-12-03,Maryland,Southern,Curley Byrd,A,Florida,Southern,Tom Sebring,L,6,7
+1927-10-01,Virginia,Southern,Greasy Neale,A,Georgia,Southern,George Woodruff,L,0,32
+1927-10-08,Virginia,Southern,Greasy Neale,H,South Carolina,Southern,Harry Lightsey,L,12,13
+1927-10-15,Virginia,Southern,Greasy Neale,H,Virginia Military Institute,Southern,,W,13,8
+1927-10-22,Virginia,Southern,Greasy Neale,H,Virginia Tech,Southern,Andy Gustafson,W,7,0
+1927-10-29,Virginia,Southern,Greasy Neale,A,Tennessee,Southern,Bob Neyland,L,0,42
+1927-11-05,Virginia,Southern,Greasy Neale,A,Washington & Lee,Southern,Pat Herron,W,13,7
+1927-11-12,Virginia,Southern,Greasy Neale,H,Maryland,Southern,Curley Byrd,W,21,0
+1927-11-24,Virginia,Southern,Greasy Neale,A,North Carolina,Southern,Chuck Collins,L,13,14
+1927-10-01,Idaho,PCC,Charlie Erb,A,Montana State,RMC,Ott Romney,W,19,12
+1927-10-08,Idaho,PCC,Charlie Erb,A,Oregon,PCC,John McEwan,T,0,0
+1927-10-22,Idaho,PCC,Charlie Erb,H,Montana,PCC,Frank Millburn,W,42,6
+1927-11-11,Idaho,PCC,Charlie Erb,A,Washington State,PCC,O.E. Hollingbery,T,7,7
+1927-11-19,Idaho,PCC,Charlie Erb,A,Oregon State,PCC,Paul Schissler,W,12,7
+1927-10-01,Oklahoma,MVIAA,Adrian Lindsey,A,Chicago,Western,Amos Alonzo Stagg,W,13,7
+1927-10-15,Oklahoma,MVIAA,Adrian Lindsey,H,Creighton,Ind,,T,13,13
+1927-10-22,Oklahoma,MVIAA,Adrian Lindsey,A,Kansas State,MVIAA,Charlie Bachman,L,14,20
+1927-11-05,Oklahoma,MVIAA,Adrian Lindsey,H,Washington (MO),MVIAA,Bob Higgins,W,23,7
+1927-11-12,Oklahoma,MVIAA,Adrian Lindsey,H,Kansas,MVIAA,Cappy Cappon,W,26,7
+1927-11-19,Oklahoma,MVIAA,Adrian Lindsey,H,Oklahoma State,MVIAA,John Maulbetsch,L,7,13
+1927-11-24,Oklahoma,MVIAA,Adrian Lindsey,A,Missouri,MVIAA,Gwinn Henry,L,7,20
+1927-10-08,Virginia Tech,Southern,Andy Gustafson,A,Colgate,Ind,George Hauser,W,6,0
+1927-10-15,Virginia Tech,Southern,Andy Gustafson,N,Maryland,Southern,Curley Byrd,L,7,13
+1927-10-22,Virginia Tech,Southern,Andy Gustafson,A,Virginia,Southern,Greasy Neale,L,0,7
+1927-11-05,Virginia Tech,Southern,Andy Gustafson,H,South Carolina,Southern,Harry Lightsey,W,35,0
+1927-11-12,Virginia Tech,Southern,Andy Gustafson,H,Washington & Lee,Southern,Pat Herron,W,21,0
+1927-11-24,Virginia Tech,Southern,Andy Gustafson,N,Virginia Military Institute,Southern,,L,9,12
+1927-10-08,Arkansas,SWC,Francis Schmidt,H,Baylor,SWC,Morley Jennings,W,13,6
+1927-10-15,Arkansas,SWC,Francis Schmidt,A,Texas A&M,SWC,Dana Bible,L,6,40
+1927-10-29,Arkansas,SWC,Francis Schmidt,N,LSU,Southern,Mike Donahue,W,28,0
+1927-11-05,Arkansas,SWC,Francis Schmidt,A,Texas Christian,SWC,Madison Bell,W,10,3
+1927-11-12,Arkansas,SWC,Francis Schmidt,H,Oklahoma State,MVIAA,John Maulbetsch,W,33,20
+1927-10-01,Clemson,Southern,Josh Cody,H,Auburn,Southern,Boozer Pitts,W,3,0
+1927-10-08,Clemson,Southern,Josh Cody,A,North Carolina State,Southern,Gus Tebell,L,6,18
+1927-10-20,Clemson,Southern,Josh Cody,A,South Carolina,Southern,Harry Lightsey,W,20,0
+1927-11-12,Clemson,Southern,Josh Cody,A,Georgia,Southern,George Woodruff,L,0,32
+1927-11-24,Clemson,Southern,Josh Cody,A,Furman,Ind,,L,0,28
+1927-10-01,South Carolina,Southern,Harry Lightsey,A,Maryland,Southern,Curley Byrd,L,0,26
+1927-10-08,South Carolina,Southern,Harry Lightsey,A,Virginia,Southern,Greasy Neale,W,13,12
+1927-10-15,South Carolina,Southern,Harry Lightsey,H,North Carolina,Southern,Chuck Collins,W,14,6
+1927-10-20,South Carolina,Southern,Harry Lightsey,H,Clemson,Southern,Josh Cody,L,0,20
+1927-11-05,South Carolina,Southern,Harry Lightsey,A,Virginia Tech,Southern,Andy Gustafson,L,0,35
+1927-11-12,South Carolina,Southern,Harry Lightsey,A,Furman,Ind,,L,0,33
+1927-11-24,South Carolina,Southern,Harry Lightsey,H,North Carolina State,Southern,Gus Tebell,L,0,34
+1927-10-15,Washington,PCC,Enoch Bagshaw,A,Montana,PCC,Frank Millburn,W,32,0
+1927-10-22,Washington,PCC,Enoch Bagshaw,H,Washington State,PCC,O.E. Hollingbery,W,14,0
+1927-11-05,Washington,PCC,Enoch Bagshaw,H,Stanford,PCC,Pop Warner,L,7,13
+1927-11-12,Washington,PCC,Enoch Bagshaw,A,California,PCC,Nibs Price,W,6,0
+1927-11-24,Washington,PCC,Enoch Bagshaw,H,Oregon,PCC,John McEwan,W,7,0
+1927-12-03,Washington,PCC,Enoch Bagshaw,A,USC,PCC,Howard Jones,L,13,33
+1927-10-08,Utah State,RMC,,H,Western State,RMC,John Van Liew,W,39,0
+1927-10-15,Utah State,RMC,,H,Montana State,RMC,Ott Romney,L,6,13
+1927-10-22,Utah State,RMC,,H,Wyoming,RMC,George McLaren,W,42,0
+1927-10-29,Utah State,RMC,,H,Brigham Young,RMC,C.J. Hart,W,22,0
+1927-11-05,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,6
+1927-11-11,Utah State,RMC,,A,Denver,RMC,Fred Dawson,L,0,13
+1927-11-24,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,T,0,0
+1927-10-01,Missouri,MVIAA,Gwinn Henry,H,Kansas State,MVIAA,Charlie Bachman,W,13,6
+1927-10-08,Missouri,MVIAA,Gwinn Henry,H,Nebraska,MVIAA,Ernest Bearg,W,7,6
+1927-10-15,Missouri,MVIAA,Gwinn Henry,A,Washington (MO),MVIAA,Bob Higgins,W,13,0
+1927-10-22,Missouri,MVIAA,Gwinn Henry,A,SMU,SWC,Ray Morrison,L,9,32
+1927-10-29,Missouri,MVIAA,Gwinn Henry,A,Northwestern,Western,Dick Hanley,W,34,19
+1927-11-05,Missouri,MVIAA,Gwinn Henry,H,West Virginia,Ind,Rat Rogers,W,13,0
+1927-11-11,Missouri,MVIAA,Gwinn Henry,A,Iowa State,MVIAA,,W,13,6
+1927-11-19,Missouri,MVIAA,Gwinn Henry,A,Kansas,MVIAA,Cappy Cappon,L,7,14
+1927-11-24,Missouri,MVIAA,Gwinn Henry,H,Oklahoma,MVIAA,Adrian Lindsey,W,20,7
+1927-10-01,Montana State,RMC,Ott Romney,H,Idaho,PCC,Charlie Erb,L,12,19
+1927-10-08,Montana State,RMC,Ott Romney,H,Colorado,RMC,Myron Witham,W,12,6
+1927-10-15,Montana State,RMC,Ott Romney,A,Utah State,RMC,,W,13,6
+1927-10-22,Montana State,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,L,7,28
+1927-10-29,Montana State,RMC,Ott Romney,A,Purdue,Western,James Phelan,L,7,39
+1927-11-11,Montana State,RMC,Ott Romney,N,Wyoming,RMC,George McLaren,W,6,0
+1927-11-19,Montana State,RMC,Ott Romney,H,Montana,PCC,Frank Millburn,L,0,6
+1927-10-01,Denver,RMC,Fred Dawson,H,Colorado College,RMC,W.T. VandeGraaff,L,7,36
+1927-10-08,Denver,RMC,Fred Dawson,H,Wyoming,RMC,George McLaren,W,7,0
+1927-10-15,Denver,RMC,Fred Dawson,H,Colorado State,RMC,Harry Hughes,W,6,0
+1927-10-22,Denver,RMC,Fred Dawson,H,Colorado Mines,RMC,George Allen,W,39,0
+1927-10-29,Denver,RMC,Fred Dawson,A,Iowa,Western,Burton Ingwersen,L,0,15
+1927-11-11,Denver,RMC,Fred Dawson,H,Utah State,RMC,,W,13,0
+1927-11-24,Denver,RMC,Fred Dawson,H,Colorado,RMC,Myron Witham,W,48,0
+1927-10-15,Washington & Jefferson,Ind,Andrew Kerr,A,Carnegie Mellon,Ind,Walter Steffen,W,20,6
+1927-10-22,Washington & Jefferson,Ind,Andrew Kerr,A,Lafayette,Ind,Herb McCracken,W,14,0
+1927-11-05,Washington & Jefferson,Ind,Andrew Kerr,A,Pitt,Ind,Jock Sutherland,T,0,0
+1927-11-24,Washington & Jefferson,Ind,Andrew Kerr,A,West Virginia,Ind,Rat Rogers,T,6,6
+1927-10-08,Wisconsin,Western,Glenn Thistlethwaite,A,Kansas,MVIAA,Cappy Cappon,W,26,6
+1927-10-15,Wisconsin,Western,Glenn Thistlethwaite,H,Michigan,Western,Tad Wieman,L,0,14
+1927-10-22,Wisconsin,Western,Glenn Thistlethwaite,H,Purdue,Western,James Phelan,W,12,6
+1927-10-29,Wisconsin,Western,Glenn Thistlethwaite,A,Minnesota,Western,Clarence Spears,L,7,13
+1927-11-05,Wisconsin,Western,Glenn Thistlethwaite,H,Grinnell,MVIAA,Lester Watt,W,20,2
+1927-11-12,Wisconsin,Western,Glenn Thistlethwaite,H,Iowa,Western,Burton Ingwersen,L,0,16
+1927-11-19,Wisconsin,Western,Glenn Thistlethwaite,A,Chicago,Western,Amos Alonzo Stagg,L,0,12
+1927-10-08,USC,PCC,Howard Jones,H,Oregon State,PCC,Paul Schissler,W,13,12
+1927-10-15,USC,PCC,Howard Jones,A,Stanford,PCC,Pop Warner,T,13,13
+1927-10-29,USC,PCC,Howard Jones,H,California,PCC,Nibs Price,W,13,0
+1927-11-12,USC,PCC,Howard Jones,H,Colorado,RMC,Myron Witham,W,46,7
+1927-11-19,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,W,27,0
+1927-11-26,USC,PCC,Howard Jones,A,Notre Dame,Ind,Knute Rockne,L,6,7
+1927-12-03,USC,PCC,Howard Jones,H,Washington,PCC,Enoch Bagshaw,W,33,13
+1927-10-01,Colorado Mines,RMC,George Allen,A,Utah,RMC,Ike Armstrong,L,6,40
+1927-10-15,Colorado Mines,RMC,George Allen,H,Western State,RMC,John Van Liew,W,51,6
+1927-10-22,Colorado Mines,RMC,George Allen,A,Denver,RMC,Fred Dawson,L,0,39
+1927-10-29,Colorado Mines,RMC,George Allen,A,Colorado,RMC,Myron Witham,L,18,28
+1927-11-05,Colorado Mines,RMC,George Allen,A,Northern Colorado,RMC,George Cooper,W,37,12
+1927-11-12,Colorado Mines,RMC,George Allen,H,Colorado State,RMC,Harry Hughes,L,6,37
+1927-11-19,Colorado Mines,RMC,George Allen,A,Brigham Young,RMC,C.J. Hart,L,19,38
+1927-09-30,North Carolina State,Southern,Gus Tebell,A,Furman,Ind,,L,0,20
+1927-10-08,North Carolina State,Southern,Gus Tebell,H,Clemson,Southern,Josh Cody,W,18,6
+1927-10-13,North Carolina State,Southern,Gus Tebell,H,Wake Forest,Ind,James Baldwin,W,30,7
+1927-10-22,North Carolina State,Southern,Gus Tebell,A,Florida,Southern,Tom Sebring,W,12,6
+1927-10-29,North Carolina State,Southern,Gus Tebell,H,North Carolina,Southern,Chuck Collins,W,19,6
+1927-11-05,North Carolina State,Southern,Gus Tebell,N,Davidson,Ind,Monk Younger,W,25,6
+1927-11-12,North Carolina State,Southern,Gus Tebell,A,Duke,Ind,Jimmy DeHart,W,20,18
+1927-11-24,North Carolina State,Southern,Gus Tebell,A,South Carolina,Southern,Harry Lightsey,W,34,0
+1927-12-03,North Carolina State,Southern,Gus Tebell,H,Michigan State,Ind,Ralph Young,W,19,0
+1927-10-08,Michigan,Western,Tad Wieman,H,Michigan State,Ind,Ralph Young,W,21,0
+1927-10-15,Michigan,Western,Tad Wieman,A,Wisconsin,Western,Glenn Thistlethwaite,W,14,0
+1927-10-22,Michigan,Western,Tad Wieman,H,Ohio State,Western,John Wilce,W,21,0
+1927-10-29,Michigan,Western,Tad Wieman,A,Illinois,Western,Robert Zuppke,L,0,14
+1927-11-05,Michigan,Western,Tad Wieman,A,Chicago,Western,Amos Alonzo Stagg,W,14,0
+1927-11-12,Michigan,Western,Tad Wieman,H,Navy,Ind,William Ingram,W,27,12
+1927-11-19,Michigan,Western,Tad Wieman,H,Minnesota,Western,Clarence Spears,L,7,13
+1927-10-01,Detroit Mercy,Ind,Gus Dorais,A,Army,Ind,Biff Jones,L,0,6
+1927-10-08,Detroit Mercy,Ind,Gus Dorais,H,Notre Dame,Ind,Knute Rockne,L,0,20
+1927-10-29,Detroit Mercy,Ind,Gus Dorais,A,Michigan State,Ind,Ralph Young,W,24,7
+1927-11-19,Detroit Mercy,Ind,Gus Dorais,A,Carnegie Mellon,Ind,Walter Steffen,W,12,7
+1927-10-08,Notre Dame,Ind,Knute Rockne,A,Detroit Mercy,Ind,Gus Dorais,W,20,0
+1927-10-15,Notre Dame,Ind,Knute Rockne,A,Navy,Ind,William Ingram,W,19,6
+1927-10-22,Notre Dame,Ind,Knute Rockne,A,Indiana,Western,Pat Page,W,19,6
+1927-10-29,Notre Dame,Ind,Knute Rockne,H,Georgia Tech,Southern,William Alexander,W,26,7
+1927-11-05,Notre Dame,Ind,Knute Rockne,H,Minnesota,Western,Clarence Spears,T,7,7
+1927-11-12,Notre Dame,Ind,Knute Rockne,A,Army,Ind,Biff Jones,L,0,18
+1927-11-19,Notre Dame,Ind,Knute Rockne,A,Drake,MVIAA,Ossie Solem,W,32,0
+1927-11-26,Notre Dame,Ind,Knute Rockne,H,USC,PCC,Howard Jones,W,7,6
+1927-10-08,Pitt,Ind,Jock Sutherland,H,West Virginia,Ind,Rat Rogers,W,40,0
+1927-10-15,Pitt,Ind,Jock Sutherland,A,Drake,MVIAA,Ossie Solem,W,32,0
+1927-10-22,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Walter Steffen,W,23,7
+1927-11-05,Pitt,Ind,Jock Sutherland,H,Washington & Jefferson,Ind,Andrew Kerr,T,0,0
+1927-11-12,Pitt,Ind,Jock Sutherland,H,Nebraska,MVIAA,Ernest Bearg,W,21,13
+1927-11-24,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Hugo Bezdek,W,30,0
+1928-01-02,Pitt,Ind,Jock Sutherland,N,Stanford,PCC,Pop Warner,L,6,7
+1927-10-15,Carnegie Mellon,Ind,Walter Steffen,H,Washington & Jefferson,Ind,Andrew Kerr,L,6,20
+1927-10-22,Carnegie Mellon,Ind,Walter Steffen,A,Pitt,Ind,Jock Sutherland,L,7,23
+1927-10-29,Carnegie Mellon,Ind,Walter Steffen,A,West Virginia,Ind,Rat Rogers,W,13,7
+1927-11-05,Carnegie Mellon,Ind,Walter Steffen,A,New York University,Ind,,L,6,20
+1927-11-19,Carnegie Mellon,Ind,Walter Steffen,H,Detroit Mercy,Ind,Gus Dorais,L,7,12
+1927-11-26,Carnegie Mellon,Ind,Walter Steffen,A,Oregon State,PCC,Paul Schissler,T,14,14
+1927-10-01,Wyoming,RMC,George McLaren,A,Creighton,Ind,,L,0,13
+1927-10-08,Wyoming,RMC,George McLaren,A,Denver,RMC,Fred Dawson,L,0,7
+1927-10-22,Wyoming,RMC,George McLaren,A,Utah State,RMC,,L,0,42
+1927-10-29,Wyoming,RMC,George McLaren,H,Colorado College,RMC,W.T. VandeGraaff,L,8,12
+1927-11-11,Wyoming,RMC,George McLaren,N,Montana State,RMC,Ott Romney,L,0,6
+1927-11-24,Wyoming,RMC,George McLaren,A,Northern Colorado,RMC,George Cooper,W,27,6
+1927-10-08,Brigham Young,RMC,C.J. Hart,A,Colorado State,RMC,Harry Hughes,L,0,29
+1927-10-22,Brigham Young,RMC,C.J. Hart,H,Northern Colorado,RMC,George Cooper,L,7,21
+1927-10-29,Brigham Young,RMC,C.J. Hart,A,Utah State,RMC,,L,0,22
+1927-11-05,Brigham Young,RMC,C.J. Hart,H,Western State,RMC,John Van Liew,W,60,7
+1927-11-12,Brigham Young,RMC,C.J. Hart,H,Utah,RMC,Ike Armstrong,L,0,20
+1927-11-19,Brigham Young,RMC,C.J. Hart,H,Colorado Mines,RMC,George Allen,W,38,19
+1927-10-08,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,L,10,14
+1927-10-15,Yale,Ind,Tad Jones,H,Brown,Ind,DeOrmond McLaughry,W,19,0
+1927-10-22,Yale,Ind,Tad Jones,H,Army,Ind,Biff Jones,W,10,6
+1927-10-29,Yale,Ind,Tad Jones,H,Dartmouth,Ind,Jesse Hawley,W,19,0
+1927-11-05,Yale,Ind,Tad Jones,H,Maryland,Southern,Curley Byrd,W,30,6
+1927-11-12,Yale,Ind,Tad Jones,H,Princeton,Ind,,W,14,6
+1927-11-19,Yale,Ind,Tad Jones,A,Harvard,Ind,,W,14,0
+1927-10-01,Grinnell,MVIAA,Lester Watt,H,Kansas,MVIAA,Cappy Cappon,L,0,19
+1927-10-15,Grinnell,MVIAA,Lester Watt,A,Nebraska,MVIAA,Ernest Bearg,L,0,58
+1927-10-22,Grinnell,MVIAA,Lester Watt,H,Drake,MVIAA,Ossie Solem,L,6,26
+1927-10-29,Grinnell,MVIAA,Lester Watt,H,Marquette,Ind,Frank Murray,L,0,31
+1927-11-05,Grinnell,MVIAA,Lester Watt,A,Wisconsin,Western,Glenn Thistlethwaite,L,2,20
+1927-11-12,Grinnell,MVIAA,Lester Watt,H,Washington (MO),MVIAA,Bob Higgins,L,7,18
+1927-11-19,Grinnell,MVIAA,Lester Watt,A,Iowa State,MVIAA,,L,0,14
+1927-10-01,Georgia Tech,Southern,William Alexander,H,Virginia Military Institute,Southern,,W,7,0
+1927-10-08,Georgia Tech,Southern,William Alexander,H,Tulane,Southern,Bernie Bierman,W,13,6
+1927-10-15,Georgia Tech,Southern,William Alexander,H,Alabama,Southern,Wallace Wade,W,13,0
+1927-10-22,Georgia Tech,Southern,William Alexander,H,North Carolina,Southern,Chuck Collins,W,13,0
+1927-10-29,Georgia Tech,Southern,William Alexander,A,Notre Dame,Ind,Knute Rockne,L,7,26
+1927-11-06,Georgia Tech,Southern,William Alexander,A,Vanderbilt,Southern,Dan McGugin,T,0,0
+1927-11-12,Georgia Tech,Southern,William Alexander,H,LSU,Southern,Mike Donahue,W,23,0
+1927-11-24,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Boozer Pitts,W,18,0
+1927-12-03,Georgia Tech,Southern,William Alexander,H,Georgia,Southern,George Woodruff,W,12,0
+1927-09-24,Wake Forest,Ind,James Baldwin,A,North Carolina,Southern,Chuck Collins,W,9,8
+1927-10-13,Wake Forest,Ind,James Baldwin,A,North Carolina State,Southern,Gus Tebell,L,7,30
+1927-10-22,Wake Forest,Ind,James Baldwin,H,Davidson,Ind,Monk Younger,T,13,13
+1927-10-29,Wake Forest,Ind,James Baldwin,H,Duke,Ind,Jimmy DeHart,L,6,32
+1927-11-05,Wake Forest,Ind,James Baldwin,H,Furman,Ind,,L,0,53
+1927-10-15,Mississippi State,Southern,J.W. Hancock,A,Tulane,Southern,Bernie Bierman,W,13,6
+1927-10-22,Mississippi State,Southern,J.W. Hancock,H,LSU,Southern,Mike Donahue,L,7,9
+1927-10-29,Mississippi State,Southern,J.W. Hancock,A,Alabama,Southern,Wallace Wade,L,7,13
+1927-11-12,Mississippi State,Southern,J.W. Hancock,A,Auburn,Southern,Boozer Pitts,W,7,6
+1927-11-24,Mississippi State,Southern,J.W. Hancock,A,Ole Miss,Southern,Homer Hazel,L,12,20
+1927-10-01,Virginia Military Institute,Southern,,A,Georgia Tech,Southern,William Alexander,L,0,7
+1927-10-15,Virginia Military Institute,Southern,,A,Virginia,Southern,Greasy Neale,L,8,13
+1927-10-22,Virginia Military Institute,Southern,,N,Maryland,Southern,Curley Byrd,L,6,10
+1927-10-29,Virginia Military Institute,Southern,,A,Davidson,Ind,Monk Younger,W,20,0
+1927-11-05,Virginia Military Institute,Southern,,H,North Carolina,Southern,Chuck Collins,W,7,0
+1927-11-12,Virginia Military Institute,Southern,,N,Kentucky,Southern,Harry Gamage,L,0,25
+1927-11-24,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Andy Gustafson,W,12,9
+1927-10-01,Kansas State,MVIAA,Charlie Bachman,A,Missouri,MVIAA,Gwinn Henry,L,6,13
+1927-10-15,Kansas State,MVIAA,Charlie Bachman,A,Kansas,MVIAA,Cappy Cappon,W,13,2
+1927-10-22,Kansas State,MVIAA,Charlie Bachman,H,Oklahoma,MVIAA,Adrian Lindsey,W,20,14
+1927-10-29,Kansas State,MVIAA,Charlie Bachman,A,Iowa State,MVIAA,,L,7,12
+1927-11-12,Kansas State,MVIAA,Charlie Bachman,A,Texas,SWC,Clyde Littlefield,L,7,41
+1927-11-19,Kansas State,MVIAA,Charlie Bachman,H,Nebraska,MVIAA,Ernest Bearg,L,0,33
+1927-11-24,Kansas State,MVIAA,Charlie Bachman,H,Oklahoma State,MVIAA,John Maulbetsch,L,18,25
+1927-10-01,Army,Ind,Biff Jones,H,Detroit Mercy,Ind,Gus Dorais,W,6,0
+1927-10-08,Army,Ind,Biff Jones,H,Marquette,Ind,Frank Murray,W,21,12
+1927-10-22,Army,Ind,Biff Jones,A,Yale,Ind,Tad Jones,L,6,10
+1927-11-12,Army,Ind,Biff Jones,H,Notre Dame,Ind,Knute Rockne,W,18,0
+1927-11-26,Army,Ind,Biff Jones,H,Navy,Ind,William Ingram,W,14,9
+1927-10-08,Marquette,Ind,Frank Murray,A,Army,Ind,Biff Jones,L,12,21
+1927-10-15,Marquette,Ind,Frank Murray,A,Oklahoma State,MVIAA,John Maulbetsch,L,0,8
+1927-10-22,Marquette,Ind,Frank Murray,A,Creighton,Ind,,L,0,14
+1927-10-29,Marquette,Ind,Frank Murray,A,Grinnell,MVIAA,Lester Watt,W,31,0
+1927-11-24,Marquette,Ind,Frank Murray,H,Iowa State,MVIAA,,W,34,0
+1927-10-22,Dartmouth,Ind,Jesse Hawley,A,Harvard,Ind,,W,30,6
+1927-10-29,Dartmouth,Ind,Jesse Hawley,A,Yale,Ind,Tad Jones,L,0,19
+1927-11-05,Dartmouth,Ind,Jesse Hawley,A,Brown,Ind,DeOrmond McLaughry,W,19,7
+1927-11-12,Dartmouth,Ind,Jesse Hawley,H,Cornell,Ind,Gilmour Dobie,W,53,7
+1927-10-01,Auburn,Southern,Boozer Pitts,A,Clemson,Southern,Josh Cody,L,0,3
+1927-10-08,Auburn,Southern,Boozer Pitts,H,Florida,Southern,Tom Sebring,L,6,33
+1927-10-15,Auburn,Southern,Boozer Pitts,H,LSU,Southern,Mike Donahue,L,0,9
+1927-10-22,Auburn,Southern,Boozer Pitts,N,Georgia,Southern,George Woodruff,L,3,33
+1927-11-05,Auburn,Southern,Boozer Pitts,A,Tulane,Southern,Bernie Bierman,T,6,6
+1927-11-12,Auburn,Southern,Boozer Pitts,H,Mississippi State,Southern,J.W. Hancock,L,6,7
+1927-11-24,Auburn,Southern,Boozer Pitts,A,Georgia Tech,Southern,William Alexander,L,0,18
+1927-10-08,Northwestern,Western,Dick Hanley,H,Utah,RMC,Ike Armstrong,W,13,6
+1927-10-15,Northwestern,Western,Dick Hanley,A,Ohio State,Western,John Wilce,W,19,13
+1927-10-22,Northwestern,Western,Dick Hanley,H,Illinois,Western,Robert Zuppke,L,6,7
+1927-10-29,Northwestern,Western,Dick Hanley,H,Missouri,MVIAA,Gwinn Henry,L,19,34
+1927-11-05,Northwestern,Western,Dick Hanley,A,Purdue,Western,James Phelan,L,6,18
+1927-11-12,Northwestern,Western,Dick Hanley,H,Indiana,Western,Pat Page,L,7,18
+1927-11-19,Northwestern,Western,Dick Hanley,H,Iowa,Western,Burton Ingwersen,W,12,0
+1927-10-01,Kansas,MVIAA,Cappy Cappon,A,Grinnell,MVIAA,Lester Watt,W,19,0
+1927-10-08,Kansas,MVIAA,Cappy Cappon,H,Wisconsin,Western,Glenn Thistlethwaite,L,6,26
+1927-10-15,Kansas,MVIAA,Cappy Cappon,H,Kansas State,MVIAA,Charlie Bachman,L,2,13
+1927-10-22,Kansas,MVIAA,Cappy Cappon,H,Washington (MO),MVIAA,Bob Higgins,T,21,21
+1927-10-29,Kansas,MVIAA,Cappy Cappon,H,Drake,MVIAA,Ossie Solem,W,7,6
+1927-11-05,Kansas,MVIAA,Cappy Cappon,A,Nebraska,MVIAA,Ernest Bearg,L,13,47
+1927-11-12,Kansas,MVIAA,Cappy Cappon,A,Oklahoma,MVIAA,Adrian Lindsey,L,7,26
+1927-11-19,Kansas,MVIAA,Cappy Cappon,H,Missouri,MVIAA,Gwinn Henry,W,14,7
+1927-10-08,LSU,Southern,Mike Donahue,A,Alabama,Southern,Wallace Wade,T,0,0
+1927-10-15,LSU,Southern,Mike Donahue,A,Auburn,Southern,Boozer Pitts,W,9,0
+1927-10-22,LSU,Southern,Mike Donahue,A,Mississippi State,Southern,J.W. Hancock,W,9,7
+1927-10-29,LSU,Southern,Mike Donahue,N,Arkansas,SWC,Francis Schmidt,L,0,28
+1927-11-05,LSU,Southern,Mike Donahue,A,Ole Miss,Southern,Homer Hazel,L,7,12
+1927-11-12,LSU,Southern,Mike Donahue,A,Georgia Tech,Southern,William Alexander,L,0,23
+1927-11-24,LSU,Southern,Mike Donahue,H,Tulane,Southern,Bernie Bierman,L,6,13
+1927-10-08,Pennsylvania,Ind,Lou Young,H,Brown,Ind,DeOrmond McLaughry,W,14,6
+1927-10-15,Pennsylvania,Ind,Lou Young,H,Penn State,Ind,Hugo Bezdek,L,0,20
+1927-10-22,Pennsylvania,Ind,Lou Young,A,Chicago,Western,Amos Alonzo Stagg,L,7,13
+1927-10-29,Pennsylvania,Ind,Lou Young,H,Navy,Ind,William Ingram,L,6,12
+1927-11-05,Pennsylvania,Ind,Lou Young,H,Harvard,Ind,,W,24,0
+1927-11-12,Pennsylvania,Ind,Lou Young,H,Columbia,Ind,Charles Crowley,W,27,0
+1927-11-24,Pennsylvania,Ind,Lou Young,H,Cornell,Ind,Gilmour Dobie,W,35,0
+1927-12-31,Pennsylvania,Ind,Lou Young,A,California,PCC,Nibs Price,L,13,27
+1927-10-08,Iowa,Western,Burton Ingwersen,H,Ohio State,Western,John Wilce,L,6,13
+1927-10-22,Iowa,Western,Burton Ingwersen,A,Minnesota,Western,Clarence Spears,L,0,38
+1927-10-29,Iowa,Western,Burton Ingwersen,H,Denver,RMC,Fred Dawson,W,15,0
+1927-11-05,Iowa,Western,Burton Ingwersen,H,Illinois,Western,Robert Zuppke,L,0,14
+1927-11-12,Iowa,Western,Burton Ingwersen,A,Wisconsin,Western,Glenn Thistlethwaite,W,16,0
+1927-11-19,Iowa,Western,Burton Ingwersen,A,Northwestern,Western,Dick Hanley,L,0,12
+1927-10-15,Columbia,Ind,Charles Crowley,H,Colgate,Ind,George Hauser,L,7,13
+1927-10-29,Columbia,Ind,Charles Crowley,A,Cornell,Ind,Gilmour Dobie,T,0,0
+1927-11-12,Columbia,Ind,Charles Crowley,A,Pennsylvania,Ind,Lou Young,L,0,27
+1927-11-24,Columbia,Ind,Charles Crowley,H,Syracuse,Ind,Lew Andreas,W,14,7
+1927-10-01,Texas,SWC,Clyde Littlefield,H,Texas Christian,SWC,Madison Bell,T,0,0
+1927-10-15,Texas,SWC,Clyde Littlefield,H,Vanderbilt,Southern,Dan McGugin,W,13,6
+1927-10-22,Texas,SWC,Clyde Littlefield,H,Rice,SWC,John Heisman,W,27,0
+1927-10-28,Texas,SWC,Clyde Littlefield,A,SMU,SWC,Ray Morrison,L,0,14
+1927-11-05,Texas,SWC,Clyde Littlefield,H,Baylor,SWC,Morley Jennings,W,13,12
+1927-11-12,Texas,SWC,Clyde Littlefield,H,Kansas State,MVIAA,Charlie Bachman,W,41,7
+1927-11-24,Texas,SWC,Clyde Littlefield,A,Texas A&M,SWC,Dana Bible,L,7,28
+1927-10-01,Texas Christian,SWC,Madison Bell,A,Texas,SWC,Clyde Littlefield,T,0,0
+1927-10-22,Texas Christian,SWC,Madison Bell,H,Texas A&M,SWC,Dana Bible,T,0,0
+1927-10-29,Texas Christian,SWC,Madison Bell,A,Baylor,SWC,Morley Jennings,W,14,0
+1927-11-05,Texas Christian,SWC,Madison Bell,H,Arkansas,SWC,Francis Schmidt,L,3,10
+1927-11-19,Texas Christian,SWC,Madison Bell,H,SMU,SWC,Ray Morrison,L,6,28
+1927-10-29,New York University,Ind,,H,Colgate,Ind,George Hauser,T,0,0
+1927-11-05,New York University,Ind,,H,Carnegie Mellon,Ind,Walter Steffen,W,20,6
+1927-11-12,New York University,Ind,,A,Penn State,Ind,Hugo Bezdek,T,13,13
+1927-11-24,New York University,Ind,,A,Nebraska,MVIAA,Ernest Bearg,L,18,27
+1927-10-08,Oregon,PCC,John McEwan,H,Idaho,PCC,Charlie Erb,T,0,0
+1927-10-15,Oregon,PCC,John McEwan,H,California,PCC,Nibs Price,L,0,16
+1927-10-29,Oregon,PCC,John McEwan,A,Stanford,PCC,Pop Warner,L,0,19
+1927-11-12,Oregon,PCC,John McEwan,H,Oregon State,PCC,Paul Schissler,L,7,21
+1927-11-24,Oregon,PCC,John McEwan,A,Washington,PCC,Enoch Bagshaw,L,0,7
+1927-10-08,Brown,Ind,DeOrmond McLaughry,A,Pennsylvania,Ind,Lou Young,L,6,14
+1927-10-15,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Tad Jones,L,0,19
+1927-11-05,Brown,Ind,DeOrmond McLaughry,H,Dartmouth,Ind,Jesse Hawley,L,7,19
+1927-11-12,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,,L,6,18
+1927-11-26,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,George Hauser,T,0,0
+1927-10-01,Tennessee,Southern,Bob Neyland,A,North Carolina,Southern,Chuck Collins,W,26,0
+1927-10-15,Tennessee,Southern,Bob Neyland,H,Ole Miss,Southern,Homer Hazel,W,21,7
+1927-10-29,Tennessee,Southern,Bob Neyland,H,Virginia,Southern,Greasy Neale,W,42,0
+1927-11-05,Tennessee,Southern,Bob Neyland,H,Sewanee,Southern,M.S. Bennett,W,32,12
+1927-11-12,Tennessee,Southern,Bob Neyland,H,Vanderbilt,Southern,Dan McGugin,T,7,7
+1927-11-24,Tennessee,Southern,Bob Neyland,A,Kentucky,Southern,Harry Gamage,W,20,0
+1927-10-08,Oregon State,PCC,Paul Schissler,A,USC,PCC,Howard Jones,L,12,13
+1927-10-22,Oregon State,PCC,Paul Schissler,H,Stanford,PCC,Pop Warner,L,6,20
+1927-10-29,Oregon State,PCC,Paul Schissler,H,Washington State,PCC,O.E. Hollingbery,W,13,6
+1927-11-12,Oregon State,PCC,Paul Schissler,A,Oregon,PCC,John McEwan,W,21,7
+1927-11-19,Oregon State,PCC,Paul Schissler,H,Idaho,PCC,Charlie Erb,L,7,12
+1927-11-26,Oregon State,PCC,Paul Schissler,H,Carnegie Mellon,Ind,Walter Steffen,T,14,14
+1927-10-08,Alabama,Southern,Wallace Wade,H,LSU,Southern,Mike Donahue,T,0,0
+1927-10-15,Alabama,Southern,Wallace Wade,A,Georgia Tech,Southern,William Alexander,L,0,13
+1927-10-22,Alabama,Southern,Wallace Wade,H,Sewanee,Southern,M.S. Bennett,W,24,0
+1927-10-29,Alabama,Southern,Wallace Wade,H,Mississippi State,Southern,J.W. Hancock,W,13,7
+1927-11-05,Alabama,Southern,Wallace Wade,H,Kentucky,Southern,Harry Gamage,W,21,6
+1927-11-12,Alabama,Southern,Wallace Wade,H,Florida,Southern,Tom Sebring,L,6,13
+1927-11-27,Alabama,Southern,Wallace Wade,H,Georgia,Southern,George Woodruff,L,6,20
+1927-12-03,Alabama,Southern,Wallace Wade,H,Vanderbilt,Southern,Dan McGugin,L,7,14
+1927-10-08,Purdue,Western,James Phelan,A,Harvard,Ind,,W,19,0
+1927-10-15,Purdue,Western,James Phelan,A,Chicago,Western,Amos Alonzo Stagg,L,6,7
+1927-10-22,Purdue,Western,James Phelan,A,Wisconsin,Western,Glenn Thistlethwaite,L,6,12
+1927-10-29,Purdue,Western,James Phelan,H,Montana State,RMC,Ott Romney,W,39,7
+1927-11-05,Purdue,Western,James Phelan,H,Northwestern,Western,Dick Hanley,W,18,6
+1927-11-19,Purdue,Western,James Phelan,A,Indiana,Western,Pat Page,W,21,6
+1927-10-01,Nebraska,MVIAA,Ernest Bearg,H,Iowa State,MVIAA,,W,6,0
+1927-10-08,Nebraska,MVIAA,Ernest Bearg,A,Missouri,MVIAA,Gwinn Henry,L,6,7
+1927-10-15,Nebraska,MVIAA,Ernest Bearg,H,Grinnell,MVIAA,Lester Watt,W,58,0
+1927-10-29,Nebraska,MVIAA,Ernest Bearg,H,Syracuse,Ind,Lew Andreas,W,21,0
+1927-11-05,Nebraska,MVIAA,Ernest Bearg,H,Kansas,MVIAA,Cappy Cappon,W,47,13
+1927-11-12,Nebraska,MVIAA,Ernest Bearg,A,Pitt,Ind,Jock Sutherland,L,13,21
+1927-11-19,Nebraska,MVIAA,Ernest Bearg,A,Kansas State,MVIAA,Charlie Bachman,W,33,0
+1927-11-24,Nebraska,MVIAA,Ernest Bearg,H,New York University,Ind,,W,27,18
+1927-10-01,West Virginia,Ind,Rat Rogers,N,Washington & Lee,Southern,Pat Herron,T,6,6
+1927-10-08,West Virginia,Ind,Rat Rogers,A,Pitt,Ind,Jock Sutherland,L,0,40
+1927-10-15,West Virginia,Ind,Rat Rogers,H,Lafayette,Ind,Herb McCracken,T,7,7
+1927-10-22,West Virginia,Ind,Rat Rogers,A,Georgetown,Ind,Lou Little,L,0,25
+1927-10-29,West Virginia,Ind,Rat Rogers,H,Carnegie Mellon,Ind,Walter Steffen,L,7,13
+1927-11-05,West Virginia,Ind,Rat Rogers,A,Missouri,MVIAA,Gwinn Henry,L,0,13
+1927-11-24,West Virginia,Ind,Rat Rogers,H,Washington & Jefferson,Ind,Andrew Kerr,T,6,6
+1927-10-08,Harvard,Ind,,H,Purdue,Western,James Phelan,L,0,19
+1927-10-22,Harvard,Ind,,H,Dartmouth,Ind,Jesse Hawley,L,6,30
+1927-10-29,Harvard,Ind,,H,Indiana,Western,Pat Page,W,26,6
+1927-11-05,Harvard,Ind,,A,Pennsylvania,Ind,Lou Young,L,0,24
+1927-11-12,Harvard,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,18,6
+1927-11-19,Harvard,Ind,,H,Yale,Ind,Tad Jones,L,0,14
+1927-10-01,Oklahoma State,MVIAA,John Maulbetsch,A,Washington (MO),MVIAA,Bob Higgins,L,0,6
+1927-10-08,Oklahoma State,MVIAA,John Maulbetsch,A,Minnesota,Western,Clarence Spears,L,0,40
+1927-10-15,Oklahoma State,MVIAA,John Maulbetsch,H,Marquette,Ind,Frank Murray,W,8,0
+1927-10-29,Oklahoma State,MVIAA,John Maulbetsch,H,Creighton,Ind,,W,18,6
+1927-11-12,Oklahoma State,MVIAA,John Maulbetsch,A,Arkansas,SWC,Francis Schmidt,L,20,33
+1927-11-19,Oklahoma State,MVIAA,John Maulbetsch,A,Oklahoma,MVIAA,Adrian Lindsey,W,13,7
+1927-11-24,Oklahoma State,MVIAA,John Maulbetsch,A,Kansas State,MVIAA,Charlie Bachman,W,25,18
+1927-10-01,Colorado,RMC,Myron Witham,H,Western State,RMC,John Van Liew,W,25,6
+1927-10-08,Colorado,RMC,Myron Witham,A,Montana State,RMC,Ott Romney,L,6,12
+1927-10-15,Colorado,RMC,Myron Witham,H,Northern Colorado,RMC,George Cooper,W,43,0
+1927-10-22,Colorado,RMC,Myron Witham,A,Utah,RMC,Ike Armstrong,L,13,20
+1927-10-29,Colorado,RMC,Myron Witham,H,Colorado Mines,RMC,George Allen,W,28,18
+1927-11-05,Colorado,RMC,Myron Witham,H,Colorado College,RMC,W.T. VandeGraaff,W,7,6
+1927-11-12,Colorado,RMC,Myron Witham,A,USC,PCC,Howard Jones,L,7,46
+1927-11-19,Colorado,RMC,Myron Witham,A,Colorado State,RMC,Harry Hughes,L,7,39
+1927-11-24,Colorado,RMC,Myron Witham,A,Denver,RMC,Fred Dawson,L,0,48
+1927-10-01,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,George Cooper,W,33,0
+1927-10-08,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,C.J. Hart,W,29,0
+1927-10-15,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Fred Dawson,L,0,6
+1927-10-29,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,W,12,0
+1927-11-05,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,6,0
+1927-11-12,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,George Allen,W,37,6
+1927-11-19,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Myron Witham,W,39,7
+1927-11-26,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,W.T. VandeGraaff,W,20,7
+1927-10-14,Rice,SWC,John Heisman,A,SMU,SWC,Ray Morrison,L,6,34
+1927-10-22,Rice,SWC,John Heisman,A,Texas,SWC,Clyde Littlefield,L,0,27
+1927-11-11,Rice,SWC,John Heisman,H,Texas A&M,SWC,Dana Bible,L,0,14
+1927-11-24,Rice,SWC,John Heisman,H,Baylor,SWC,Morley Jennings,W,19,12
+1927-10-08,Texas A&M,SWC,Dana Bible,H,Sewanee,Southern,M.S. Bennett,W,18,0
+1927-10-15,Texas A&M,SWC,Dana Bible,H,Arkansas,SWC,Francis Schmidt,W,40,6
+1927-10-22,Texas A&M,SWC,Dana Bible,A,Texas Christian,SWC,Madison Bell,T,0,0
+1927-11-05,Texas A&M,SWC,Dana Bible,A,SMU,SWC,Ray Morrison,W,39,13
+1927-11-11,Texas A&M,SWC,Dana Bible,A,Rice,SWC,John Heisman,W,14,0
+1927-11-24,Texas A&M,SWC,Dana Bible,H,Texas,SWC,Clyde Littlefield,W,28,7
+1927-10-01,Davidson,Ind,Monk Younger,A,Florida,Southern,Tom Sebring,W,12,0
+1927-10-22,Davidson,Ind,Monk Younger,A,Wake Forest,Ind,James Baldwin,T,13,13
+1927-10-29,Davidson,Ind,Monk Younger,H,Virginia Military Institute,Southern,,L,0,20
+1927-11-05,Davidson,Ind,Monk Younger,N,North Carolina State,Southern,Gus Tebell,L,6,25
+1927-11-12,Davidson,Ind,Monk Younger,A,North Carolina,Southern,Chuck Collins,L,0,27
+1927-11-26,Davidson,Ind,Monk Younger,H,Duke,Ind,Jimmy DeHart,L,7,48
+1927-10-01,Washington (MO),MVIAA,Bob Higgins,H,Oklahoma State,MVIAA,John Maulbetsch,W,6,0
+1927-10-15,Washington (MO),MVIAA,Bob Higgins,H,Missouri,MVIAA,Gwinn Henry,L,0,13
+1927-10-22,Washington (MO),MVIAA,Bob Higgins,A,Kansas,MVIAA,Cappy Cappon,T,21,21
+1927-11-05,Washington (MO),MVIAA,Bob Higgins,A,Oklahoma,MVIAA,Adrian Lindsey,L,7,23
+1927-11-12,Washington (MO),MVIAA,Bob Higgins,A,Grinnell,MVIAA,Lester Watt,W,18,7
+1927-10-08,Michigan State,Ind,Ralph Young,A,Michigan,Western,Tad Wieman,L,0,21
+1927-10-29,Michigan State,Ind,Ralph Young,H,Detroit Mercy,Ind,Gus Dorais,L,7,24
+1927-11-05,Michigan State,Ind,Ralph Young,A,Indiana,Western,Pat Page,L,7,33
+1927-12-03,Michigan State,Ind,Ralph Young,A,North Carolina State,Southern,Gus Tebell,L,0,19
+1927-10-01,Chicago,Western,Amos Alonzo Stagg,H,Oklahoma,MVIAA,Adrian Lindsey,L,7,13
+1927-10-08,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,Pat Page,W,13,0
+1927-10-15,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,James Phelan,W,7,6
+1927-10-22,Chicago,Western,Amos Alonzo Stagg,H,Pennsylvania,Ind,Lou Young,W,13,7
+1927-10-29,Chicago,Western,Amos Alonzo Stagg,A,Ohio State,Western,John Wilce,L,7,13
+1927-11-05,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Tad Wieman,L,0,14
+1927-11-12,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,L,6,15
+1927-11-19,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Glenn Thistlethwaite,W,12,0
+1927-10-08,Colgate,Ind,George Hauser,H,Virginia Tech,Southern,Andy Gustafson,L,0,6
+1927-10-15,Colgate,Ind,George Hauser,A,Columbia,Ind,Charles Crowley,W,13,7
+1927-10-29,Colgate,Ind,George Hauser,A,New York University,Ind,,T,0,0
+1927-11-12,Colgate,Ind,George Hauser,A,Syracuse,Ind,Lew Andreas,T,13,13
+1927-11-26,Colgate,Ind,George Hauser,A,Brown,Ind,DeOrmond McLaughry,T,0,0
+1927-10-08,Minnesota,Western,Clarence Spears,H,Oklahoma State,MVIAA,John Maulbetsch,W,40,0
+1927-10-15,Minnesota,Western,Clarence Spears,A,Indiana,Western,Pat Page,T,14,14
+1927-10-22,Minnesota,Western,Clarence Spears,H,Iowa,Western,Burton Ingwersen,W,38,0
+1927-10-29,Minnesota,Western,Clarence Spears,H,Wisconsin,Western,Glenn Thistlethwaite,W,13,7
+1927-11-05,Minnesota,Western,Clarence Spears,A,Notre Dame,Ind,Knute Rockne,T,7,7
+1927-11-12,Minnesota,Western,Clarence Spears,H,Drake,MVIAA,Ossie Solem,W,27,6
+1927-11-19,Minnesota,Western,Clarence Spears,A,Michigan,Western,Tad Wieman,W,13,7
+1927-10-01,Ole Miss,Southern,Homer Hazel,A,Tulane,Southern,Bernie Bierman,L,7,19
+1927-10-15,Ole Miss,Southern,Homer Hazel,A,Tennessee,Southern,Bob Neyland,L,7,21
+1927-10-29,Ole Miss,Southern,Homer Hazel,A,Sewanee,Southern,M.S. Bennett,W,28,14
+1927-11-05,Ole Miss,Southern,Homer Hazel,H,LSU,Southern,Mike Donahue,W,12,7
+1927-11-24,Ole Miss,Southern,Homer Hazel,H,Mississippi State,Southern,J.W. Hancock,W,20,12
+1927-09-23,Duke,Ind,Jimmy DeHart,H,Furman,Ind,,L,7,13
+1927-10-08,Duke,Ind,Jimmy DeHart,A,Washington & Lee,Southern,Pat Herron,L,7,12
+1927-10-22,Duke,Ind,Jimmy DeHart,A,Navy,Ind,William Ingram,L,6,32
+1927-10-29,Duke,Ind,Jimmy DeHart,A,Wake Forest,Ind,James Baldwin,W,32,6
+1927-11-12,Duke,Ind,Jimmy DeHart,H,North Carolina State,Southern,Gus Tebell,L,18,20
+1927-11-19,Duke,Ind,Jimmy DeHart,H,North Carolina,Southern,Chuck Collins,L,0,18
+1927-11-26,Duke,Ind,Jimmy DeHart,A,Davidson,Ind,Monk Younger,W,48,7
+1927-10-08,Sewanee,Southern,M.S. Bennett,A,Texas A&M,SWC,Dana Bible,L,0,18
+1927-10-22,Sewanee,Southern,M.S. Bennett,A,Alabama,Southern,Wallace Wade,L,0,24
+1927-10-29,Sewanee,Southern,M.S. Bennett,H,Ole Miss,Southern,Homer Hazel,L,14,28
+1927-11-05,Sewanee,Southern,M.S. Bennett,A,Tennessee,Southern,Bob Neyland,L,12,32
+1927-11-12,Sewanee,Southern,M.S. Bennett,A,Tulane,Southern,Bernie Bierman,W,12,6
+1927-11-26,Sewanee,Southern,M.S. Bennett,A,Vanderbilt,Southern,Dan McGugin,L,6,26
+1927-10-08,Navy,Ind,William Ingram,H,Drake,MVIAA,Ossie Solem,W,35,6
+1927-10-15,Navy,Ind,William Ingram,H,Notre Dame,Ind,Knute Rockne,L,6,19
+1927-10-22,Navy,Ind,William Ingram,H,Duke,Ind,Jimmy DeHart,W,32,6
+1927-10-29,Navy,Ind,William Ingram,A,Pennsylvania,Ind,Lou Young,W,12,6
+1927-11-12,Navy,Ind,William Ingram,A,Michigan,Western,Tad Wieman,L,12,27
+1927-11-26,Navy,Ind,William Ingram,A,Army,Ind,Biff Jones,L,9,14
+1927-10-15,Lafayette,Ind,Herb McCracken,A,West Virginia,Ind,Rat Rogers,T,7,7
+1927-10-22,Lafayette,Ind,Herb McCracken,H,Washington & Jefferson,Ind,Andrew Kerr,L,0,14
+1927-10-29,Lafayette,Ind,Herb McCracken,A,Penn State,Ind,Hugo Bezdek,L,6,40
+1927-11-05,Lafayette,Ind,Herb McCracken,A,Georgetown,Ind,Lou Little,L,2,27
+1927-10-01,Tulane,Southern,Bernie Bierman,H,Ole Miss,Southern,Homer Hazel,W,19,7
+1927-10-08,Tulane,Southern,Bernie Bierman,A,Georgia Tech,Southern,William Alexander,L,6,13
+1927-10-15,Tulane,Southern,Bernie Bierman,H,Mississippi State,Southern,J.W. Hancock,L,6,13
+1927-10-22,Tulane,Southern,Bernie Bierman,A,Vanderbilt,Southern,Dan McGugin,L,0,32
+1927-10-29,Tulane,Southern,Bernie Bierman,H,Georgia,Southern,George Woodruff,L,0,31
+1927-11-05,Tulane,Southern,Bernie Bierman,H,Auburn,Southern,Boozer Pitts,T,6,6
+1927-11-12,Tulane,Southern,Bernie Bierman,H,Sewanee,Southern,M.S. Bennett,L,6,12
+1927-11-24,Tulane,Southern,Bernie Bierman,A,LSU,Southern,Mike Donahue,W,13,6
+1927-10-22,Cornell,Ind,Gilmour Dobie,H,Princeton,Ind,,L,10,21
+1927-10-29,Cornell,Ind,Gilmour Dobie,H,Columbia,Ind,Charles Crowley,T,0,0
+1927-11-12,Cornell,Ind,Gilmour Dobie,A,Dartmouth,Ind,Jesse Hawley,L,7,53
+1927-11-24,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Lou Young,L,0,35
+1927-10-08,Ohio State,Western,John Wilce,A,Iowa,Western,Burton Ingwersen,W,13,6
+1927-10-15,Ohio State,Western,John Wilce,H,Northwestern,Western,Dick Hanley,L,13,19
+1927-10-22,Ohio State,Western,John Wilce,A,Michigan,Western,Tad Wieman,L,0,21
+1927-10-29,Ohio State,Western,John Wilce,H,Chicago,Western,Amos Alonzo Stagg,W,13,7
+1927-11-05,Ohio State,Western,John Wilce,A,Princeton,Ind,,L,0,20
+1927-11-19,Ohio State,Western,John Wilce,H,Illinois,Western,Robert Zuppke,L,0,13
+1927-10-08,Drake,MVIAA,Ossie Solem,A,Navy,Ind,William Ingram,L,6,35
+1927-10-15,Drake,MVIAA,Ossie Solem,H,Pitt,Ind,Jock Sutherland,L,0,32
+1927-10-22,Drake,MVIAA,Ossie Solem,A,Grinnell,MVIAA,Lester Watt,W,26,6
+1927-10-29,Drake,MVIAA,Ossie Solem,A,Kansas,MVIAA,Cappy Cappon,L,6,7
+1927-11-05,Drake,MVIAA,Ossie Solem,H,Iowa State,MVIAA,,L,0,7
+1927-11-12,Drake,MVIAA,Ossie Solem,A,Minnesota,Western,Clarence Spears,L,6,27
+1927-11-19,Drake,MVIAA,Ossie Solem,H,Notre Dame,Ind,Knute Rockne,L,0,32

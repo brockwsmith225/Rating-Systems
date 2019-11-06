@@ -1,0 +1,1165 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1983-09-03,North Carolina,ACC,Dick Crum,A,South Carolina,Ind,Joe Morrison,W,24,8
+1983-09-10,North Carolina,ACC,Dick Crum,H,Memphis,Ind,Rex Dockery,W,24,10
+1983-09-17,North Carolina,ACC,Dick Crum,H,Miami (OH),MAC,Tim Rose,W,48,17
+1983-09-24,North Carolina,ACC,Dick Crum,H,William & Mary,Ind,Jimmye Laycock,W,51,20
+1983-10-01,North Carolina,ACC,Dick Crum,A,Georgia Tech,ACC,Bill Curry,W,38,21
+1983-10-08,North Carolina,ACC,Dick Crum,H,Wake Forest,ACC,Al Groh,W,30,10
+1983-10-15,North Carolina,ACC,Dick Crum,A,North Carolina State,ACC,Tom Reed,W,42,14
+1983-10-29,North Carolina,ACC,Dick Crum,A,Maryland,ACC,Bobby Ross,L,26,28
+1983-11-05,North Carolina,ACC,Dick Crum,H,Clemson,ACC,Danny Ford,L,3,16
+1983-11-12,North Carolina,ACC,Dick Crum,A,Virginia,ACC,George Welsh,L,14,17
+1983-11-19,North Carolina,ACC,Dick Crum,H,Duke,ACC,Steve Sloan,W,34,27
+1983-12-30,North Carolina,ACC,Dick Crum,N,Florida State,Ind,Bobby Bowden,L,3,28
+1983-09-10,Miami (OH),MAC,Tim Rose,A,South Carolina,Ind,Joe Morrison,L,3,24
+1983-09-17,Miami (OH),MAC,Tim Rose,A,North Carolina,ACC,Dick Crum,L,17,48
+1983-09-24,Miami (OH),MAC,Tim Rose,A,Bowling Green State,MAC,Dennis Stolz,L,14,17
+1983-10-01,Miami (OH),MAC,Tim Rose,H,Western Michigan,MAC,Jack Harbaugh,L,18,20
+1983-10-08,Miami (OH),MAC,Tim Rose,H,Kent State,MAC,Dick Scesniak,W,27,7
+1983-10-15,Miami (OH),MAC,Tim Rose,A,Toledo,MAC,Dan Simrell,L,9,10
+1983-10-22,Miami (OH),MAC,Tim Rose,A,Central Michigan,MAC,Herb Deromedi,W,12,7
+1983-10-29,Miami (OH),MAC,Tim Rose,H,Northern Illinois,MAC,Bill Mallory,L,0,17
+1983-11-05,Miami (OH),MAC,Tim Rose,H,Ohio,MAC,Brian Burke,L,14,17
+1983-11-12,Miami (OH),MAC,Tim Rose,A,Eastern Michigan,MAC,Jim Harkema,W,24,12
+1983-11-19,Miami (OH),MAC,Tim Rose,H,Cincinnati,Ind,Watson Brown,W,14,10
+1983-09-10,Indiana,Big Ten,Sam Wyche,H,Duke,ACC,Steve Sloan,W,15,10
+1983-09-17,Indiana,Big Ten,Sam Wyche,A,Kentucky,SEC,Jerry Claiborne,L,13,24
+1983-09-24,Indiana,Big Ten,Sam Wyche,H,Northwestern,Big Ten,Dennis Green,L,8,10
+1983-10-01,Indiana,Big Ten,Sam Wyche,A,Michigan,Big Ten,Bo Schembechler,L,18,43
+1983-10-08,Indiana,Big Ten,Sam Wyche,H,Minnesota,Big Ten,Joe Salem,W,38,31
+1983-10-15,Indiana,Big Ten,Sam Wyche,H,Michigan State,Big Ten,George Perles,W,24,12
+1983-10-22,Indiana,Big Ten,Sam Wyche,A,Wisconsin,Big Ten,Dave McClain,L,14,45
+1983-10-29,Indiana,Big Ten,Sam Wyche,A,Iowa,Big Ten,Hayden Fry,L,3,49
+1983-11-05,Indiana,Big Ten,Sam Wyche,H,Ohio State,Big Ten,Earle Bruce,L,17,56
+1983-11-12,Indiana,Big Ten,Sam Wyche,A,Illinois,Big Ten,Mike White,L,21,49
+1983-11-19,Indiana,Big Ten,Sam Wyche,H,Purdue,Big Ten,Leon Burtnett,L,30,31
+1983-09-03,Florida State,Ind,Bobby Bowden,H,East Carolina,Ind,Ed Emory,W,47,46
+1983-09-10,Florida State,Ind,Bobby Bowden,A,LSU,SEC,Jerry Stovall,W,40,35
+1983-09-17,Florida State,Ind,Bobby Bowden,A,Tulane,Ind,Wally English,L,28,34
+1983-10-01,Florida State,Ind,Bobby Bowden,A,Auburn,SEC,Pat Dye,L,24,27
+1983-10-08,Florida State,Ind,Bobby Bowden,A,Pitt,Ind,Foge Fazio,L,16,17
+1983-10-15,Florida State,Ind,Bobby Bowden,H,Cincinnati,Ind,Watson Brown,W,43,17
+1983-10-20,Florida State,Ind,Bobby Bowden,H,Louisville,Ind,Bob Weber,W,51,7
+1983-10-29,Florida State,Ind,Bobby Bowden,A,Arizona State,Pac-10,Darryl Rogers,W,29,26
+1983-11-05,Florida State,Ind,Bobby Bowden,H,South Carolina,Ind,Joe Morrison,W,45,30
+1983-11-12,Florida State,Ind,Bobby Bowden,H,Miami (FL),Ind,Howard Schnellenberger,L,16,17
+1983-12-03,Florida State,Ind,Bobby Bowden,A,Florida,SEC,Charley Pell,L,14,53
+1983-12-30,Florida State,Ind,Bobby Bowden,N,North Carolina,ACC,Dick Crum,W,28,3
+1983-09-10,Iowa State,Big 8,Jim Criner,H,Iowa,Big Ten,Hayden Fry,L,10,51
+1983-09-17,Iowa State,Big 8,Jim Criner,A,Vanderbilt,SEC,George MacIntyre,L,26,29
+1983-09-24,Iowa State,Big 8,Jim Criner,H,Colorado State,WAC,Leon Fuller,W,21,17
+1983-10-01,Iowa State,Big 8,Jim Criner,H,New Mexico State,MVC,Fred Zechman,L,17,24
+1983-10-08,Iowa State,Big 8,Jim Criner,H,Kansas,Big 8,Mike Gottfried,W,38,35
+1983-10-15,Iowa State,Big 8,Jim Criner,H,Colorado,Big 8,Bill McCartney,W,22,10
+1983-10-22,Iowa State,Big 8,Jim Criner,A,Oklahoma,Big 8,Barry Switzer,L,11,49
+1983-10-29,Iowa State,Big 8,Jim Criner,H,Missouri,Big 8,Warren Powers,L,18,41
+1983-11-05,Iowa State,Big 8,Jim Criner,A,Nebraska,Big 8,Tom Osborne,L,29,72
+1983-11-12,Iowa State,Big 8,Jim Criner,A,Kansas State,Big 8,Jim Dickey,W,49,27
+1983-11-19,Iowa State,Big 8,Jim Criner,H,Oklahoma State,Big 8,Jimmy Johnson,L,7,30
+1983-09-10,Cincinnati,Ind,Watson Brown,A,Penn State,Ind,Joe Paterno,W,14,3
+1983-09-17,Cincinnati,Ind,Watson Brown,H,Oklahoma State,Big 8,Jimmy Johnson,L,17,27
+1983-09-24,Cincinnati,Ind,Watson Brown,A,Louisville,Ind,Bob Weber,L,23,31
+1983-10-08,Cincinnati,Ind,Watson Brown,H,Temple,Ind,Bruce Arians,W,31,16
+1983-10-15,Cincinnati,Ind,Watson Brown,A,Florida State,Ind,Bobby Bowden,L,17,43
+1983-10-22,Cincinnati,Ind,Watson Brown,H,Miami (FL),Ind,Howard Schnellenberger,L,7,17
+1983-10-29,Cincinnati,Ind,Watson Brown,A,Kentucky,SEC,Jerry Claiborne,T,13,13
+1983-11-05,Cincinnati,Ind,Watson Brown,H,Rutgers,Ind,Frank Burns,W,18,7
+1983-11-12,Cincinnati,Ind,Watson Brown,H,Memphis,Ind,Rex Dockery,L,10,43
+1983-11-19,Cincinnati,Ind,Watson Brown,A,Miami (OH),MAC,Tim Rose,L,10,14
+1983-09-10,Arizona State,Pac-10,Darryl Rogers,H,Utah State,PCAA,Chris Pella,W,39,12
+1983-09-17,Arizona State,Pac-10,Darryl Rogers,A,UCLA,Pac-10,Terry Donahue,T,26,26
+1983-09-24,Arizona State,Pac-10,Darryl Rogers,H,Wichita State,MVC,Willie Jeffries,W,44,14
+1983-10-01,Arizona State,Pac-10,Darryl Rogers,H,Stanford,Pac-10,Paul Wiggin,W,29,11
+1983-10-15,Arizona State,Pac-10,Darryl Rogers,A,USC,Pac-10,Ted Tollner,W,34,14
+1983-10-22,Arizona State,Pac-10,Darryl Rogers,H,Washington State,Pac-10,Jim Walden,L,21,31
+1983-10-29,Arizona State,Pac-10,Darryl Rogers,H,Florida State,Ind,Bobby Bowden,L,26,29
+1983-11-05,Arizona State,Pac-10,Darryl Rogers,A,California,Pac-10,Joe Kapp,L,24,26
+1983-11-12,Arizona State,Pac-10,Darryl Rogers,H,Oregon State,Pac-10,Joe Avezzano,W,38,3
+1983-11-19,Arizona State,Pac-10,Darryl Rogers,H,San Jose State,PCAA,Jack Elway,W,24,17
+1983-11-26,Arizona State,Pac-10,Darryl Rogers,H,Arizona,Pac-10,Larry Smith,L,15,17
+1983-09-03,Utah,WAC,Chuck Stobart,A,New Mexico,WAC,Joe Lee Dunn,L,7,17
+1983-09-10,Utah,WAC,Chuck Stobart,A,Arizona,Pac-10,Larry Smith,L,0,38
+1983-09-17,Utah,WAC,Chuck Stobart,H,San Diego State,WAC,Doug Scovil,W,27,24
+1983-09-24,Utah,WAC,Chuck Stobart,H,Hawaii,WAC,Dick Tomey,W,28,25
+1983-10-01,Utah,WAC,Chuck Stobart,A,Colorado State,WAC,Leon Fuller,L,28,31
+1983-10-08,Utah,WAC,Chuck Stobart,H,UTEP,WAC,Bill Yung,W,35,11
+1983-10-15,Utah,WAC,Chuck Stobart,H,Wyoming,WAC,Al Kincaid,W,69,14
+1983-10-22,Utah,WAC,Chuck Stobart,A,Air Force,WAC,Ken Hatfield,L,31,33
+1983-11-05,Utah,WAC,Chuck Stobart,H,Cal State Fullerton,PCAA,Gene Murphy,W,47,20
+1983-11-12,Utah,WAC,Chuck Stobart,A,Utah State,PCAA,Chris Pella,L,17,21
+1983-11-19,Utah,WAC,Chuck Stobart,A,Brigham Young,WAC,LaVell Edwards,L,7,55
+1983-09-10,Cal State Fullerton,PCAA,Gene Murphy,A,Long Beach State,PCAA,Dave Currey,W,25,19
+1983-09-17,Cal State Fullerton,PCAA,Gene Murphy,A,Utah State,PCAA,Chris Pella,W,25,24
+1983-09-24,Cal State Fullerton,PCAA,Gene Murphy,A,Arizona,Pac-10,Larry Smith,L,10,27
+1983-10-01,Cal State Fullerton,PCAA,Gene Murphy,A,Pacific,PCAA,Bob Cope,W,31,14
+1983-10-15,Cal State Fullerton,PCAA,Gene Murphy,A,San Jose State,PCAA,Jack Elway,W,20,11
+1983-10-22,Cal State Fullerton,PCAA,Gene Murphy,H,Fresno State,PCAA,Jim Sweeney,W,18,17
+1983-11-05,Cal State Fullerton,PCAA,Gene Murphy,A,Utah,WAC,Chuck Stobart,L,20,47
+1983-11-12,Cal State Fullerton,PCAA,Gene Murphy,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,0,13
+1983-12-17,Cal State Fullerton,PCAA,Gene Murphy,N,Northern Illinois,MAC,Bill Mallory,L,13,20
+1983-09-10,Wichita State,MVC,Willie Jeffries,A,Ball State,MAC,Dwight Wallace,L,21,25
+1983-09-17,Wichita State,MVC,Willie Jeffries,A,Kansas,Big 8,Mike Gottfried,L,6,57
+1983-09-24,Wichita State,MVC,Willie Jeffries,A,Arizona State,Pac-10,Darryl Rogers,L,14,44
+1983-10-01,Wichita State,MVC,Willie Jeffries,H,Drake,MVC,,W,43,0
+1983-10-15,Wichita State,MVC,Willie Jeffries,A,Indiana State,MVC,,L,22,24
+1983-10-22,Wichita State,MVC,Willie Jeffries,H,West Texas A&M,MVC,,W,31,30
+1983-10-29,Wichita State,MVC,Willie Jeffries,A,Tulsa,MVC,John Cooper,L,19,30
+1983-11-05,Wichita State,MVC,Willie Jeffries,A,New Mexico State,MVC,Fred Zechman,L,28,62
+1983-11-12,Wichita State,MVC,Willie Jeffries,H,Southern Illinois,MVC,Rey Dempsey,W,28,6
+1983-09-17,Illinois State,MVC,,H,Western Michigan,MAC,Jack Harbaugh,L,13,14
+1983-09-24,Illinois State,MVC,,A,Drake,MVC,,W,36,17
+1983-10-01,Illinois State,MVC,,H,Indiana State,MVC,,W,37,20
+1983-10-08,Illinois State,MVC,,A,West Texas A&M,MVC,,T,24,24
+1983-10-15,Illinois State,MVC,,A,Tulsa,MVC,John Cooper,L,25,39
+1983-11-05,Illinois State,MVC,,A,Southern Illinois,MVC,Rey Dempsey,L,26,28
+1983-09-02,Syracuse,Ind,Dick MacPherson,A,Temple,Ind,Bruce Arians,L,6,17
+1983-09-10,Syracuse,Ind,Dick MacPherson,H,Kent State,MAC,Dick Scesniak,W,22,10
+1983-09-17,Syracuse,Ind,Dick MacPherson,H,Northwestern,Big Ten,Dennis Green,W,35,0
+1983-09-24,Syracuse,Ind,Dick MacPherson,H,Rutgers,Ind,Frank Burns,W,17,13
+1983-10-01,Syracuse,Ind,Dick MacPherson,A,Nebraska,Big 8,Tom Osborne,L,7,63
+1983-10-08,Syracuse,Ind,Dick MacPherson,A,Maryland,ACC,Bobby Ross,L,13,34
+1983-10-15,Syracuse,Ind,Dick MacPherson,H,Penn State,Ind,Joe Paterno,L,6,17
+1983-10-29,Syracuse,Ind,Dick MacPherson,A,Pitt,Ind,Foge Fazio,L,10,13
+1983-11-05,Syracuse,Ind,Dick MacPherson,A,Navy,Ind,Gary Tranquill,W,14,7
+1983-11-12,Syracuse,Ind,Dick MacPherson,H,Boston College,Ind,Jack Bicknell,W,21,10
+1983-11-19,Syracuse,Ind,Dick MacPherson,H,West Virginia,Ind,Don Nehlen,W,27,16
+1983-09-03,Arizona,Pac-10,Larry Smith,H,Oregon State,Pac-10,Joe Avezzano,W,50,6
+1983-09-10,Arizona,Pac-10,Larry Smith,H,Utah,WAC,Chuck Stobart,W,38,0
+1983-09-17,Arizona,Pac-10,Larry Smith,A,Washington State,Pac-10,Jim Walden,W,45,6
+1983-09-24,Arizona,Pac-10,Larry Smith,H,Cal State Fullerton,PCAA,Gene Murphy,W,27,10
+1983-10-01,Arizona,Pac-10,Larry Smith,A,California,Pac-10,Joe Kapp,T,33,33
+1983-10-08,Arizona,Pac-10,Larry Smith,H,Colorado State,WAC,Leon Fuller,W,52,21
+1983-10-15,Arizona,Pac-10,Larry Smith,H,Oregon,Pac-10,Rich Brooks,L,10,19
+1983-10-22,Arizona,Pac-10,Larry Smith,A,Stanford,Pac-10,Paul Wiggin,L,22,31
+1983-11-05,Arizona,Pac-10,Larry Smith,H,Washington,Pac-10,Don James,L,22,23
+1983-11-12,Arizona,Pac-10,Larry Smith,H,UCLA,Pac-10,Terry Donahue,W,27,24
+1983-11-26,Arizona,Pac-10,Larry Smith,A,Arizona State,Pac-10,Darryl Rogers,W,17,15
+1983-08-29,Penn State,Ind,Joe Paterno,N,Nebraska,Big 8,Tom Osborne,L,6,44
+1983-09-10,Penn State,Ind,Joe Paterno,H,Cincinnati,Ind,Watson Brown,L,3,14
+1983-09-17,Penn State,Ind,Joe Paterno,H,Iowa,Big Ten,Hayden Fry,L,34,42
+1983-09-24,Penn State,Ind,Joe Paterno,A,Temple,Ind,Bruce Arians,W,23,18
+1983-10-01,Penn State,Ind,Joe Paterno,A,Rutgers,Ind,Frank Burns,W,36,25
+1983-10-08,Penn State,Ind,Joe Paterno,H,Alabama,SEC,Ray Perkins,W,34,28
+1983-10-15,Penn State,Ind,Joe Paterno,A,Syracuse,Ind,Dick MacPherson,W,17,6
+1983-10-22,Penn State,Ind,Joe Paterno,H,West Virginia,Ind,Don Nehlen,W,41,23
+1983-10-29,Penn State,Ind,Joe Paterno,A,Boston College,Ind,Jack Bicknell,L,17,27
+1983-11-12,Penn State,Ind,Joe Paterno,H,Notre Dame,Ind,Gerry Faust,W,34,30
+1983-11-19,Penn State,Ind,Joe Paterno,A,Pitt,Ind,Foge Fazio,T,24,24
+1983-12-26,Penn State,Ind,Joe Paterno,N,Washington,Pac-10,Don James,W,13,10
+1983-09-10,Vanderbilt,SEC,George MacIntyre,H,Maryland,ACC,Bobby Ross,L,14,21
+1983-09-17,Vanderbilt,SEC,George MacIntyre,H,Iowa State,Big 8,Jim Criner,W,29,26
+1983-09-24,Vanderbilt,SEC,George MacIntyre,H,Alabama,SEC,Ray Perkins,L,24,44
+1983-10-01,Vanderbilt,SEC,George MacIntyre,A,Tulane,Ind,Wally English,W,30,17
+1983-10-08,Vanderbilt,SEC,George MacIntyre,A,Florida,SEC,Charley Pell,L,10,29
+1983-10-15,Vanderbilt,SEC,George MacIntyre,H,Georgia,SEC,Vince Dooley,L,13,20
+1983-10-22,Vanderbilt,SEC,George MacIntyre,A,Ole Miss,SEC,Billy Brewer,L,14,21
+1983-10-29,Vanderbilt,SEC,George MacIntyre,H,Memphis,Ind,Rex Dockery,L,7,24
+1983-11-05,Vanderbilt,SEC,George MacIntyre,H,Kentucky,SEC,Jerry Claiborne,L,8,17
+1983-11-12,Vanderbilt,SEC,George MacIntyre,A,Virginia Tech,Ind,Bill Dooley,L,10,21
+1983-11-26,Vanderbilt,SEC,George MacIntyre,A,Tennessee,SEC,Johnny Majors,L,24,34
+1983-09-03,Kentucky,SEC,Jerry Claiborne,H,Central Michigan,MAC,Herb Deromedi,W,31,14
+1983-09-10,Kentucky,SEC,Jerry Claiborne,H,Kansas State,Big 8,Jim Dickey,W,31,12
+1983-09-17,Kentucky,SEC,Jerry Claiborne,H,Indiana,Big Ten,Sam Wyche,W,24,13
+1983-09-24,Kentucky,SEC,Jerry Claiborne,H,Tulane,Ind,Wally English,W,26,14
+1983-10-08,Kentucky,SEC,Jerry Claiborne,H,Auburn,SEC,Pat Dye,L,21,49
+1983-10-15,Kentucky,SEC,Jerry Claiborne,A,LSU,SEC,Jerry Stovall,W,21,13
+1983-10-22,Kentucky,SEC,Jerry Claiborne,A,Georgia,SEC,Vince Dooley,L,21,47
+1983-10-29,Kentucky,SEC,Jerry Claiborne,H,Cincinnati,Ind,Watson Brown,T,13,13
+1983-11-05,Kentucky,SEC,Jerry Claiborne,A,Vanderbilt,SEC,George MacIntyre,W,17,8
+1983-11-12,Kentucky,SEC,Jerry Claiborne,A,Florida,SEC,Charley Pell,L,7,24
+1983-11-19,Kentucky,SEC,Jerry Claiborne,H,Tennessee,SEC,Johnny Majors,L,0,10
+1983-12-22,Kentucky,SEC,Jerry Claiborne,N,West Virginia,Ind,Don Nehlen,L,16,20
+1983-09-03,California,Pac-10,Joe Kapp,A,Texas A&M,SWC,Jackie Sherrill,W,19,17
+1983-09-10,California,Pac-10,Joe Kapp,A,San Diego State,WAC,Doug Scovil,L,14,28
+1983-09-17,California,Pac-10,Joe Kapp,H,San Jose State,PCAA,Jack Elway,W,30,9
+1983-10-01,California,Pac-10,Joe Kapp,H,Arizona,Pac-10,Larry Smith,T,33,33
+1983-10-08,California,Pac-10,Joe Kapp,A,Oregon,Pac-10,Rich Brooks,L,17,24
+1983-10-15,California,Pac-10,Joe Kapp,H,Oregon State,Pac-10,Joe Avezzano,W,45,19
+1983-10-22,California,Pac-10,Joe Kapp,A,UCLA,Pac-10,Terry Donahue,L,16,20
+1983-10-29,California,Pac-10,Joe Kapp,H,USC,Pac-10,Ted Tollner,L,9,19
+1983-11-05,California,Pac-10,Joe Kapp,H,Arizona State,Pac-10,Darryl Rogers,W,26,24
+1983-11-12,California,Pac-10,Joe Kapp,A,Washington State,Pac-10,Jim Walden,L,6,16
+1983-11-27,California,Pac-10,Joe Kapp,A,Stanford,Pac-10,Paul Wiggin,W,27,18
+1983-09-03,Florida,SEC,Charley Pell,H,Miami (FL),Ind,Howard Schnellenberger,W,28,3
+1983-09-10,Florida,SEC,Charley Pell,A,USC,Pac-10,Ted Tollner,T,19,19
+1983-09-17,Florida,SEC,Charley Pell,H,Indiana State,MVC,,W,17,13
+1983-09-24,Florida,SEC,Charley Pell,A,Mississippi State,SEC,Emory Bellard,W,35,12
+1983-10-01,Florida,SEC,Charley Pell,A,LSU,SEC,Jerry Stovall,W,31,17
+1983-10-08,Florida,SEC,Charley Pell,H,Vanderbilt,SEC,George MacIntyre,W,29,10
+1983-10-22,Florida,SEC,Charley Pell,H,East Carolina,Ind,Ed Emory,W,24,17
+1983-10-29,Florida,SEC,Charley Pell,A,Auburn,SEC,Pat Dye,L,21,28
+1983-11-05,Florida,SEC,Charley Pell,N,Georgia,SEC,Vince Dooley,L,9,10
+1983-11-12,Florida,SEC,Charley Pell,H,Kentucky,SEC,Jerry Claiborne,W,24,7
+1983-12-03,Florida,SEC,Charley Pell,H,Florida State,Ind,Bobby Bowden,W,53,14
+1983-12-30,Florida,SEC,Charley Pell,N,Iowa,Big Ten,Hayden Fry,W,14,6
+1983-09-10,Stanford,Pac-10,Paul Wiggin,H,Oklahoma,Big 8,Barry Switzer,L,14,27
+1983-09-17,Stanford,Pac-10,Paul Wiggin,A,Illinois,Big Ten,Mike White,L,7,17
+1983-09-24,Stanford,Pac-10,Paul Wiggin,H,San Jose State,PCAA,Jack Elway,L,10,23
+1983-10-01,Stanford,Pac-10,Paul Wiggin,A,Arizona State,Pac-10,Darryl Rogers,L,11,29
+1983-10-08,Stanford,Pac-10,Paul Wiggin,H,UCLA,Pac-10,Terry Donahue,L,21,39
+1983-10-15,Stanford,Pac-10,Paul Wiggin,A,Washington,Pac-10,Don James,L,15,32
+1983-10-22,Stanford,Pac-10,Paul Wiggin,H,Arizona,Pac-10,Larry Smith,W,31,22
+1983-10-29,Stanford,Pac-10,Paul Wiggin,A,Oregon State,Pac-10,Joe Avezzano,L,18,31
+1983-11-05,Stanford,Pac-10,Paul Wiggin,A,USC,Pac-10,Ted Tollner,L,7,30
+1983-11-12,Stanford,Pac-10,Paul Wiggin,H,Oregon,Pac-10,Rich Brooks,L,7,16
+1983-11-27,Stanford,Pac-10,Paul Wiggin,H,California,Pac-10,Joe Kapp,L,18,27
+1983-09-10,Washington State,Pac-10,Jim Walden,A,Michigan,Big Ten,Bo Schembechler,L,17,20
+1983-09-17,Washington State,Pac-10,Jim Walden,H,Arizona,Pac-10,Larry Smith,L,6,45
+1983-09-24,Washington State,Pac-10,Jim Walden,H,Nevada-Las Vegas,PCAA,Harvey Hyde,W,41,28
+1983-10-08,Washington State,Pac-10,Jim Walden,A,USC,Pac-10,Ted Tollner,L,17,38
+1983-10-15,Washington State,Pac-10,Jim Walden,H,UCLA,Pac-10,Terry Donahue,L,14,24
+1983-10-22,Washington State,Pac-10,Jim Walden,A,Arizona State,Pac-10,Darryl Rogers,W,31,21
+1983-10-29,Washington State,Pac-10,Jim Walden,H,Oregon,Pac-10,Rich Brooks,W,24,7
+1983-11-05,Washington State,Pac-10,Jim Walden,A,Oregon State,Pac-10,Joe Avezzano,W,27,9
+1983-11-12,Washington State,Pac-10,Jim Walden,H,California,Pac-10,Joe Kapp,W,16,6
+1983-11-19,Washington State,Pac-10,Jim Walden,A,Washington,Pac-10,Don James,W,17,6
+1983-09-10,Illinois,Big Ten,Mike White,A,Missouri,Big 8,Warren Powers,L,18,28
+1983-09-17,Illinois,Big Ten,Mike White,H,Stanford,Pac-10,Paul Wiggin,W,17,7
+1983-09-24,Illinois,Big Ten,Mike White,A,Michigan State,Big Ten,George Perles,W,20,10
+1983-10-01,Illinois,Big Ten,Mike White,H,Iowa,Big Ten,Hayden Fry,W,33,0
+1983-10-08,Illinois,Big Ten,Mike White,A,Wisconsin,Big Ten,Dave McClain,W,27,15
+1983-10-15,Illinois,Big Ten,Mike White,H,Ohio State,Big Ten,Earle Bruce,W,17,13
+1983-10-22,Illinois,Big Ten,Mike White,A,Purdue,Big Ten,Leon Burtnett,W,35,21
+1983-10-29,Illinois,Big Ten,Mike White,H,Michigan,Big Ten,Bo Schembechler,W,16,6
+1983-11-05,Illinois,Big Ten,Mike White,A,Minnesota,Big Ten,Joe Salem,W,50,23
+1983-11-12,Illinois,Big Ten,Mike White,H,Indiana,Big Ten,Sam Wyche,W,49,21
+1983-11-19,Illinois,Big Ten,Mike White,A,Northwestern,Big Ten,Dennis Green,W,56,24
+1984-01-02,Illinois,Big Ten,Mike White,A,UCLA,Pac-10,Terry Donahue,L,9,45
+1983-09-10,Baylor,SWC,Grant Teaff,H,Brigham Young,WAC,LaVell Edwards,W,40,36
+1983-09-17,Baylor,SWC,Grant Teaff,A,UTEP,WAC,Bill Yung,W,20,6
+1983-09-24,Baylor,SWC,Grant Teaff,H,Texas Tech,SWC,Jerry Moore,L,11,26
+1983-10-01,Baylor,SWC,Grant Teaff,A,Houston,SWC,Bill Yeoman,W,42,21
+1983-10-08,Baylor,SWC,Grant Teaff,A,SMU,SWC,Bobby Collins,L,26,42
+1983-10-15,Baylor,SWC,Grant Teaff,H,Texas A&M,SWC,Jackie Sherrill,T,13,13
+1983-10-22,Baylor,SWC,Grant Teaff,H,Texas Christian,SWC,Jim Wacker,W,56,21
+1983-10-29,Baylor,SWC,Grant Teaff,H,Tulane,Ind,Wally English,W,24,18
+1983-11-05,Baylor,SWC,Grant Teaff,A,Arkansas,SWC,Lou Holtz,W,24,21
+1983-11-12,Baylor,SWC,Grant Teaff,H,Rice,SWC,Ray Alborn,W,48,14
+1983-11-19,Baylor,SWC,Grant Teaff,A,Texas,SWC,Fred Akers,L,21,24
+1983-12-31,Baylor,SWC,Grant Teaff,N,Oklahoma State,Big 8,Jimmy Johnson,L,14,24
+1983-09-03,SMU,SWC,Bobby Collins,H,Louisville,Ind,Bob Weber,W,24,6
+1983-09-24,SMU,SWC,Bobby Collins,A,Texas Christian,SWC,Jim Wacker,W,21,17
+1983-10-08,SMU,SWC,Bobby Collins,H,Baylor,SWC,Grant Teaff,W,42,26
+1983-10-22,SMU,SWC,Bobby Collins,H,Texas,SWC,Fred Akers,L,12,15
+1983-10-29,SMU,SWC,Bobby Collins,A,Texas A&M,SWC,Jackie Sherrill,W,10,7
+1983-11-05,SMU,SWC,Bobby Collins,H,Rice,SWC,Ray Alborn,W,20,6
+1983-11-12,SMU,SWC,Bobby Collins,H,Texas Tech,SWC,Jerry Moore,W,33,7
+1983-11-19,SMU,SWC,Bobby Collins,A,Arkansas,SWC,Lou Holtz,W,17,0
+1983-11-26,SMU,SWC,Bobby Collins,N,Houston,SWC,Bill Yeoman,W,34,12
+1983-12-24,SMU,SWC,Bobby Collins,N,Alabama,SEC,Ray Perkins,L,7,28
+1983-09-03,Georgia,SEC,Vince Dooley,H,UCLA,Pac-10,Terry Donahue,W,19,8
+1983-09-17,Georgia,SEC,Vince Dooley,A,Clemson,ACC,Danny Ford,T,16,16
+1983-09-24,Georgia,SEC,Vince Dooley,H,South Carolina,Ind,Joe Morrison,W,31,13
+1983-10-01,Georgia,SEC,Vince Dooley,H,Mississippi State,SEC,Emory Bellard,W,20,7
+1983-10-08,Georgia,SEC,Vince Dooley,A,Ole Miss,SEC,Billy Brewer,W,36,11
+1983-10-15,Georgia,SEC,Vince Dooley,A,Vanderbilt,SEC,George MacIntyre,W,20,13
+1983-10-22,Georgia,SEC,Vince Dooley,H,Kentucky,SEC,Jerry Claiborne,W,47,21
+1983-10-29,Georgia,SEC,Vince Dooley,H,Temple,Ind,Bruce Arians,W,31,14
+1983-11-05,Georgia,SEC,Vince Dooley,N,Florida,SEC,Charley Pell,W,10,9
+1983-11-12,Georgia,SEC,Vince Dooley,H,Auburn,SEC,Pat Dye,L,7,13
+1983-11-26,Georgia,SEC,Vince Dooley,A,Georgia Tech,ACC,Bill Curry,W,27,24
+1984-01-02,Georgia,SEC,Vince Dooley,N,Texas,SWC,Fred Akers,W,10,9
+1983-09-10,Maryland,ACC,Bobby Ross,A,Vanderbilt,SEC,George MacIntyre,W,21,14
+1983-09-17,Maryland,ACC,Bobby Ross,H,West Virginia,Ind,Don Nehlen,L,21,31
+1983-09-24,Maryland,ACC,Bobby Ross,H,Pitt,Ind,Foge Fazio,W,13,7
+1983-10-01,Maryland,ACC,Bobby Ross,H,Virginia,ACC,George Welsh,W,23,3
+1983-10-08,Maryland,ACC,Bobby Ross,H,Syracuse,Ind,Dick MacPherson,W,34,13
+1983-10-15,Maryland,ACC,Bobby Ross,A,Wake Forest,ACC,Al Groh,W,36,33
+1983-10-22,Maryland,ACC,Bobby Ross,H,Duke,ACC,Steve Sloan,W,38,3
+1983-10-29,Maryland,ACC,Bobby Ross,H,North Carolina,ACC,Dick Crum,W,28,26
+1983-11-05,Maryland,ACC,Bobby Ross,A,Auburn,SEC,Pat Dye,L,23,35
+1983-11-12,Maryland,ACC,Bobby Ross,A,Clemson,ACC,Danny Ford,L,27,52
+1983-11-19,Maryland,ACC,Bobby Ross,A,North Carolina State,ACC,Tom Reed,W,29,6
+1983-12-17,Maryland,ACC,Bobby Ross,N,Tennessee,SEC,Johnny Majors,L,23,30
+1983-09-03,Virginia,ACC,George Welsh,H,Duke,ACC,Steve Sloan,W,38,30
+1983-09-10,Virginia,ACC,George Welsh,H,Navy,Ind,Gary Tranquill,W,27,16
+1983-09-24,Virginia,ACC,George Welsh,A,North Carolina State,ACC,Tom Reed,W,26,14
+1983-10-01,Virginia,ACC,George Welsh,A,Maryland,ACC,Bobby Ross,L,3,23
+1983-10-08,Virginia,ACC,George Welsh,A,Clemson,ACC,Danny Ford,L,21,42
+1983-10-22,Virginia,ACC,George Welsh,A,Wake Forest,ACC,Al Groh,L,34,38
+1983-11-03,Virginia,ACC,George Welsh,A,Georgia Tech,ACC,Bill Curry,L,27,31
+1983-11-12,Virginia,ACC,George Welsh,H,North Carolina,ACC,Dick Crum,W,17,14
+1983-11-19,Virginia,ACC,George Welsh,H,Virginia Tech,Ind,Bill Dooley,L,0,48
+1983-09-10,Oklahoma,Big 8,Barry Switzer,A,Stanford,Pac-10,Paul Wiggin,W,27,14
+1983-09-17,Oklahoma,Big 8,Barry Switzer,H,Ohio State,Big Ten,Earle Bruce,L,14,24
+1983-09-24,Oklahoma,Big 8,Barry Switzer,H,Tulsa,MVC,John Cooper,W,28,18
+1983-10-01,Oklahoma,Big 8,Barry Switzer,A,Kansas State,Big 8,Jim Dickey,W,29,10
+1983-10-08,Oklahoma,Big 8,Barry Switzer,N,Texas,SWC,Fred Akers,L,16,28
+1983-10-15,Oklahoma,Big 8,Barry Switzer,A,Oklahoma State,Big 8,Jimmy Johnson,W,21,20
+1983-10-22,Oklahoma,Big 8,Barry Switzer,H,Iowa State,Big 8,Jim Criner,W,49,11
+1983-10-29,Oklahoma,Big 8,Barry Switzer,H,Kansas,Big 8,Mike Gottfried,W,45,14
+1983-11-05,Oklahoma,Big 8,Barry Switzer,A,Missouri,Big 8,Warren Powers,L,0,10
+1983-11-12,Oklahoma,Big 8,Barry Switzer,H,Colorado,Big 8,Bill McCartney,W,41,28
+1983-11-26,Oklahoma,Big 8,Barry Switzer,H,Nebraska,Big 8,Tom Osborne,L,21,28
+1983-12-03,Oklahoma,Big 8,Barry Switzer,A,Hawaii,WAC,Dick Tomey,W,21,17
+1983-09-10,Virginia Tech,Ind,Bill Dooley,H,Wake Forest,ACC,Al Groh,L,6,13
+1983-09-17,Virginia Tech,Ind,Bill Dooley,A,Memphis,Ind,Rex Dockery,W,17,10
+1983-10-01,Virginia Tech,Ind,Bill Dooley,H,Louisville,Ind,Bob Weber,W,31,0
+1983-10-08,Virginia Tech,Ind,Bill Dooley,H,Duke,ACC,Steve Sloan,W,27,14
+1983-10-15,Virginia Tech,Ind,Bill Dooley,A,West Virginia,Ind,Don Nehlen,L,0,13
+1983-10-22,Virginia Tech,Ind,Bill Dooley,H,Richmond,Ind,,W,38,0
+1983-10-29,Virginia Tech,Ind,Bill Dooley,H,William & Mary,Ind,Jimmye Laycock,W,59,21
+1983-11-05,Virginia Tech,Ind,Bill Dooley,A,Tulane,Ind,Wally English,W,26,10
+1983-11-12,Virginia Tech,Ind,Bill Dooley,H,Vanderbilt,SEC,George MacIntyre,W,21,10
+1983-11-19,Virginia Tech,Ind,Bill Dooley,A,Virginia,ACC,George Welsh,W,48,0
+1983-09-03,Louisville,Ind,Bob Weber,A,SMU,SWC,Bobby Collins,L,6,24
+1983-09-17,Louisville,Ind,Bob Weber,H,Army,Ind,Jim Young,W,31,7
+1983-09-24,Louisville,Ind,Bob Weber,H,Cincinnati,Ind,Watson Brown,W,31,23
+1983-10-01,Louisville,Ind,Bob Weber,A,Virginia Tech,Ind,Bill Dooley,L,0,31
+1983-10-08,Louisville,Ind,Bob Weber,A,Miami (FL),Ind,Howard Schnellenberger,L,14,42
+1983-10-15,Louisville,Ind,Bob Weber,H,Pitt,Ind,Foge Fazio,L,10,55
+1983-10-20,Louisville,Ind,Bob Weber,A,Florida State,Ind,Bobby Bowden,L,7,51
+1983-11-05,Louisville,Ind,Bob Weber,H,Southern Mississippi,Ind,Jim Carmody,L,3,27
+1983-11-12,Louisville,Ind,Bob Weber,A,Temple,Ind,Bruce Arians,L,7,24
+1983-11-24,Louisville,Ind,Bob Weber,H,Memphis,Ind,Rex Dockery,L,7,45
+1983-10-08,Southern Illinois,MVC,Rey Dempsey,H,Drake,MVC,,W,28,9
+1983-10-22,Southern Illinois,MVC,Rey Dempsey,A,Indiana State,MVC,,W,34,21
+1983-10-29,Southern Illinois,MVC,Rey Dempsey,H,New Mexico State,MVC,Fred Zechman,W,41,3
+1983-11-05,Southern Illinois,MVC,Rey Dempsey,H,Illinois State,MVC,,W,28,26
+1983-11-12,Southern Illinois,MVC,Rey Dempsey,A,Wichita State,MVC,Willie Jeffries,L,6,28
+1983-12-03,Southern Illinois,MVC,Rey Dempsey,H,Indiana State,MVC,,W,23,7
+1983-09-10,Arkansas,SWC,Lou Holtz,H,Tulsa,MVC,John Cooper,W,17,14
+1983-09-17,Arkansas,SWC,Lou Holtz,H,New Mexico,WAC,Joe Lee Dunn,W,17,0
+1983-09-24,Arkansas,SWC,Lou Holtz,A,Ole Miss,SEC,Billy Brewer,L,10,13
+1983-10-01,Arkansas,SWC,Lou Holtz,A,Texas Christian,SWC,Jim Wacker,W,38,21
+1983-10-15,Arkansas,SWC,Lou Holtz,H,Texas,SWC,Fred Akers,L,3,31
+1983-10-22,Arkansas,SWC,Lou Holtz,H,Houston,SWC,Bill Yeoman,W,24,3
+1983-10-29,Arkansas,SWC,Lou Holtz,H,Rice,SWC,Ray Alborn,W,35,0
+1983-11-05,Arkansas,SWC,Lou Holtz,H,Baylor,SWC,Grant Teaff,L,21,24
+1983-11-12,Arkansas,SWC,Lou Holtz,A,Texas A&M,SWC,Jackie Sherrill,L,23,36
+1983-11-19,Arkansas,SWC,Lou Holtz,H,SMU,SWC,Bobby Collins,L,0,17
+1983-11-26,Arkansas,SWC,Lou Holtz,A,Texas Tech,SWC,Jerry Moore,W,16,13
+1983-09-10,Clemson,ACC,Danny Ford,A,Boston College,Ind,Jack Bicknell,L,16,31
+1983-09-17,Clemson,ACC,Danny Ford,H,Georgia,SEC,Vince Dooley,T,16,16
+1983-09-24,Clemson,ACC,Danny Ford,H,Georgia Tech,ACC,Bill Curry,W,41,14
+1983-10-08,Clemson,ACC,Danny Ford,H,Virginia,ACC,George Welsh,W,42,21
+1983-10-15,Clemson,ACC,Danny Ford,A,Duke,ACC,Steve Sloan,W,38,31
+1983-10-22,Clemson,ACC,Danny Ford,H,North Carolina State,ACC,Tom Reed,W,27,17
+1983-10-29,Clemson,ACC,Danny Ford,H,Wake Forest,ACC,Al Groh,W,24,17
+1983-11-05,Clemson,ACC,Danny Ford,A,North Carolina,ACC,Dick Crum,W,16,3
+1983-11-12,Clemson,ACC,Danny Ford,H,Maryland,ACC,Bobby Ross,W,52,27
+1983-11-19,Clemson,ACC,Danny Ford,A,South Carolina,Ind,Joe Morrison,W,22,13
+1983-09-03,South Carolina,Ind,Joe Morrison,H,North Carolina,ACC,Dick Crum,L,8,24
+1983-09-10,South Carolina,Ind,Joe Morrison,H,Miami (OH),MAC,Tim Rose,W,24,3
+1983-09-17,South Carolina,Ind,Joe Morrison,A,Duke,ACC,Steve Sloan,W,31,24
+1983-09-24,South Carolina,Ind,Joe Morrison,A,Georgia,SEC,Vince Dooley,L,13,31
+1983-10-01,South Carolina,Ind,Joe Morrison,H,USC,Pac-10,Ted Tollner,W,38,14
+1983-10-08,South Carolina,Ind,Joe Morrison,H,Notre Dame,Ind,Gerry Faust,L,6,30
+1983-10-22,South Carolina,Ind,Joe Morrison,A,LSU,SEC,Jerry Stovall,L,6,20
+1983-10-29,South Carolina,Ind,Joe Morrison,H,North Carolina State,ACC,Tom Reed,W,31,17
+1983-11-05,South Carolina,Ind,Joe Morrison,A,Florida State,Ind,Bobby Bowden,L,30,45
+1983-11-12,South Carolina,Ind,Joe Morrison,H,Navy,Ind,Gary Tranquill,W,31,7
+1983-11-19,South Carolina,Ind,Joe Morrison,H,Clemson,ACC,Danny Ford,L,13,22
+1983-09-10,Washington,Pac-10,Don James,A,Northwestern,Big Ten,Dennis Green,W,34,0
+1983-09-17,Washington,Pac-10,Don James,H,Michigan,Big Ten,Bo Schembechler,W,25,24
+1983-09-24,Washington,Pac-10,Don James,A,LSU,SEC,Jerry Stovall,L,14,40
+1983-10-01,Washington,Pac-10,Don James,H,Navy,Ind,Gary Tranquill,W,27,10
+1983-10-08,Washington,Pac-10,Don James,H,Oregon State,Pac-10,Joe Avezzano,W,34,7
+1983-10-15,Washington,Pac-10,Don James,H,Stanford,Pac-10,Paul Wiggin,W,32,15
+1983-10-22,Washington,Pac-10,Don James,A,Oregon,Pac-10,Rich Brooks,W,32,3
+1983-10-29,Washington,Pac-10,Don James,A,UCLA,Pac-10,Terry Donahue,L,24,27
+1983-11-05,Washington,Pac-10,Don James,A,Arizona,Pac-10,Larry Smith,W,23,22
+1983-11-12,Washington,Pac-10,Don James,H,USC,Pac-10,Ted Tollner,W,24,0
+1983-11-19,Washington,Pac-10,Don James,H,Washington State,Pac-10,Jim Walden,L,6,17
+1983-12-26,Washington,Pac-10,Don James,N,Penn State,Ind,Joe Paterno,L,10,13
+1983-09-10,Ball State,MAC,Dwight Wallace,H,Wichita State,MVC,Willie Jeffries,W,25,21
+1983-09-17,Ball State,MAC,Dwight Wallace,A,Ohio,MAC,Brian Burke,W,31,14
+1983-09-24,Ball State,MAC,Dwight Wallace,A,Toledo,MAC,Dan Simrell,L,7,43
+1983-10-01,Ball State,MAC,Dwight Wallace,H,Northern Illinois,MAC,Bill Mallory,L,14,27
+1983-10-08,Ball State,MAC,Dwight Wallace,A,Indiana State,MVC,,L,14,35
+1983-10-15,Ball State,MAC,Dwight Wallace,A,Kent State,MAC,Dick Scesniak,W,17,13
+1983-10-22,Ball State,MAC,Dwight Wallace,A,Western Michigan,MAC,Jack Harbaugh,W,24,20
+1983-10-29,Ball State,MAC,Dwight Wallace,H,Eastern Michigan,MAC,Jim Harkema,W,33,20
+1983-11-05,Ball State,MAC,Dwight Wallace,A,Bowling Green State,MAC,Dennis Stolz,L,30,45
+1983-11-12,Ball State,MAC,Dwight Wallace,H,Central Michigan,MAC,Herb Deromedi,L,10,38
+1983-09-03,Southern Mississippi,Ind,Jim Carmody,H,Richmond,Ind,,W,32,3
+1983-09-10,Southern Mississippi,Ind,Jim Carmody,A,Auburn,SEC,Pat Dye,L,3,24
+1983-10-01,Southern Mississippi,Ind,Jim Carmody,A,Ole Miss,SEC,Billy Brewer,W,27,7
+1983-10-08,Southern Mississippi,Ind,Jim Carmody,N,Mississippi State,SEC,Emory Bellard,W,31,6
+1983-10-15,Southern Mississippi,Ind,Jim Carmody,A,Memphis,Ind,Rex Dockery,W,27,20
+1983-10-22,Southern Mississippi,Ind,Jim Carmody,H,Tulane,Ind,Wally English,L,7,14
+1983-10-29,Southern Mississippi,Ind,Jim Carmody,H,Louisiana,Ind,Sam Robertson,W,31,3
+1983-11-05,Southern Mississippi,Ind,Jim Carmody,A,Louisville,Ind,Bob Weber,W,27,3
+1983-11-12,Southern Mississippi,Ind,Jim Carmody,A,Alabama,SEC,Ray Perkins,L,16,28
+1983-11-19,Southern Mississippi,Ind,Jim Carmody,H,East Carolina,Ind,Ed Emory,L,6,10
+1983-09-03,Long Beach State,PCAA,Dave Currey,A,Kansas State,Big 8,Jim Dickey,W,28,20
+1983-09-10,Long Beach State,PCAA,Dave Currey,H,Cal State Fullerton,PCAA,Gene Murphy,L,19,25
+1983-09-17,Long Beach State,PCAA,Dave Currey,A,Hawaii,WAC,Dick Tomey,W,23,21
+1983-10-08,Long Beach State,PCAA,Dave Currey,H,San Diego State,WAC,Doug Scovil,W,20,13
+1983-10-15,Long Beach State,PCAA,Dave Currey,A,Pacific,PCAA,Bob Cope,W,28,16
+1983-10-22,Long Beach State,PCAA,Dave Currey,H,San Jose State,PCAA,Jack Elway,L,9,18
+1983-11-12,Long Beach State,PCAA,Dave Currey,H,Fresno State,PCAA,Jim Sweeney,L,3,7
+1983-11-19,Long Beach State,PCAA,Dave Currey,A,Nevada-Las Vegas,PCAA,Harvey Hyde,W,24,21
+1983-11-25,Long Beach State,PCAA,Dave Currey,H,Utah State,PCAA,Chris Pella,W,6,3
+1983-09-10,Utah State,PCAA,Chris Pella,A,Arizona State,Pac-10,Darryl Rogers,L,12,39
+1983-09-17,Utah State,PCAA,Chris Pella,H,Cal State Fullerton,PCAA,Gene Murphy,L,24,25
+1983-09-24,Utah State,PCAA,Chris Pella,A,Missouri,Big 8,Warren Powers,L,10,17
+1983-10-01,Utah State,PCAA,Chris Pella,H,Fresno State,PCAA,Jim Sweeney,W,20,12
+1983-10-08,Utah State,PCAA,Chris Pella,A,Pacific,PCAA,Bob Cope,W,27,10
+1983-10-22,Utah State,PCAA,Chris Pella,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,10,28
+1983-10-29,Utah State,PCAA,Chris Pella,A,Brigham Young,WAC,LaVell Edwards,L,34,38
+1983-11-05,Utah State,PCAA,Chris Pella,H,San Jose State,PCAA,Jack Elway,W,22,15
+1983-11-12,Utah State,PCAA,Chris Pella,H,Utah,WAC,Chuck Stobart,W,21,17
+1983-11-25,Utah State,PCAA,Chris Pella,A,Long Beach State,PCAA,Dave Currey,L,3,6
+1983-09-10,Missouri,Big 8,Warren Powers,H,Illinois,Big Ten,Mike White,W,28,18
+1983-09-17,Missouri,Big 8,Warren Powers,A,Wisconsin,Big Ten,Dave McClain,L,20,21
+1983-09-24,Missouri,Big 8,Warren Powers,H,Utah State,PCAA,Chris Pella,W,17,10
+1983-10-01,Missouri,Big 8,Warren Powers,H,East Carolina,Ind,Ed Emory,L,6,13
+1983-10-08,Missouri,Big 8,Warren Powers,A,Colorado,Big 8,Bill McCartney,W,59,20
+1983-10-15,Missouri,Big 8,Warren Powers,H,Nebraska,Big 8,Tom Osborne,L,13,34
+1983-10-22,Missouri,Big 8,Warren Powers,H,Kansas State,Big 8,Jim Dickey,W,38,0
+1983-10-29,Missouri,Big 8,Warren Powers,A,Iowa State,Big 8,Jim Criner,W,41,18
+1983-11-05,Missouri,Big 8,Warren Powers,H,Oklahoma,Big 8,Barry Switzer,W,10,0
+1983-11-12,Missouri,Big 8,Warren Powers,H,Oklahoma State,Big 8,Jimmy Johnson,W,16,10
+1983-11-19,Missouri,Big 8,Warren Powers,A,Kansas,Big 8,Mike Gottfried,L,27,37
+1983-12-23,Missouri,Big 8,Warren Powers,N,Brigham Young,WAC,LaVell Edwards,L,17,21
+1983-09-10,San Jose State,PCAA,Jack Elway,H,Nevada-Las Vegas,PCAA,Harvey Hyde,W,31,26
+1983-09-17,San Jose State,PCAA,Jack Elway,A,California,Pac-10,Joe Kapp,L,9,30
+1983-09-24,San Jose State,PCAA,Jack Elway,A,Stanford,Pac-10,Paul Wiggin,W,23,10
+1983-10-01,San Jose State,PCAA,Jack Elway,H,Oregon,Pac-10,Rich Brooks,W,44,34
+1983-10-08,San Jose State,PCAA,Jack Elway,A,Fresno State,PCAA,Jim Sweeney,W,41,23
+1983-10-15,San Jose State,PCAA,Jack Elway,H,Cal State Fullerton,PCAA,Gene Murphy,L,11,20
+1983-10-22,San Jose State,PCAA,Jack Elway,A,Long Beach State,PCAA,Dave Currey,W,18,9
+1983-11-05,San Jose State,PCAA,Jack Elway,A,Utah State,PCAA,Chris Pella,L,15,22
+1983-11-12,San Jose State,PCAA,Jack Elway,H,Pacific,PCAA,Bob Cope,L,26,30
+1983-11-19,San Jose State,PCAA,Jack Elway,A,Arizona State,Pac-10,Darryl Rogers,L,17,24
+1983-11-26,San Jose State,PCAA,Jack Elway,H,Louisiana,Ind,Sam Robertson,L,21,25
+1983-09-10,Bowling Green State,MAC,Dennis Stolz,A,Fresno State,PCAA,Jim Sweeney,W,35,27
+1983-09-17,Bowling Green State,MAC,Dennis Stolz,A,Brigham Young,WAC,LaVell Edwards,L,28,63
+1983-09-24,Bowling Green State,MAC,Dennis Stolz,H,Miami (OH),MAC,Tim Rose,W,17,14
+1983-10-01,Bowling Green State,MAC,Dennis Stolz,A,Eastern Michigan,MAC,Jim Harkema,W,26,21
+1983-10-08,Bowling Green State,MAC,Dennis Stolz,H,Toledo,MAC,Dan Simrell,L,3,6
+1983-10-15,Bowling Green State,MAC,Dennis Stolz,A,Western Michigan,MAC,Jack Harbaugh,W,23,20
+1983-10-22,Bowling Green State,MAC,Dennis Stolz,A,Northern Illinois,MAC,Bill Mallory,L,23,24
+1983-10-29,Bowling Green State,MAC,Dennis Stolz,H,Central Michigan,MAC,Herb Deromedi,W,15,14
+1983-11-05,Bowling Green State,MAC,Dennis Stolz,H,Ball State,MAC,Dwight Wallace,W,45,30
+1983-11-12,Bowling Green State,MAC,Dennis Stolz,A,Ohio,MAC,Brian Burke,W,24,20
+1983-11-19,Bowling Green State,MAC,Dennis Stolz,H,Kent State,MAC,Dick Scesniak,W,38,3
+1983-09-10,Wisconsin,Big Ten,Dave McClain,H,Northern Illinois,MAC,Bill Mallory,W,37,9
+1983-09-17,Wisconsin,Big Ten,Dave McClain,H,Missouri,Big 8,Warren Powers,W,21,20
+1983-09-24,Wisconsin,Big Ten,Dave McClain,H,Michigan,Big Ten,Bo Schembechler,L,21,38
+1983-10-01,Wisconsin,Big Ten,Dave McClain,A,Northwestern,Big Ten,Dennis Green,W,49,0
+1983-10-08,Wisconsin,Big Ten,Dave McClain,H,Illinois,Big Ten,Mike White,L,15,27
+1983-10-15,Wisconsin,Big Ten,Dave McClain,A,Minnesota,Big Ten,Joe Salem,W,56,17
+1983-10-22,Wisconsin,Big Ten,Dave McClain,H,Indiana,Big Ten,Sam Wyche,W,45,14
+1983-10-29,Wisconsin,Big Ten,Dave McClain,A,Ohio State,Big Ten,Earle Bruce,L,27,45
+1983-11-05,Wisconsin,Big Ten,Dave McClain,H,Iowa,Big Ten,Hayden Fry,L,14,34
+1983-11-12,Wisconsin,Big Ten,Dave McClain,A,Purdue,Big Ten,Leon Burtnett,W,42,38
+1983-11-19,Wisconsin,Big Ten,Dave McClain,H,Michigan State,Big Ten,George Perles,W,32,0
+1983-09-10,USC,Pac-10,Ted Tollner,H,Florida,SEC,Charley Pell,T,19,19
+1983-09-17,USC,Pac-10,Ted Tollner,A,Oregon State,Pac-10,Joe Avezzano,W,33,10
+1983-09-24,USC,Pac-10,Ted Tollner,H,Kansas,Big 8,Mike Gottfried,L,20,26
+1983-10-01,USC,Pac-10,Ted Tollner,A,South Carolina,Ind,Joe Morrison,L,14,38
+1983-10-08,USC,Pac-10,Ted Tollner,H,Washington State,Pac-10,Jim Walden,W,38,17
+1983-10-15,USC,Pac-10,Ted Tollner,H,Arizona State,Pac-10,Darryl Rogers,L,14,34
+1983-10-22,USC,Pac-10,Ted Tollner,A,Notre Dame,Ind,Gerry Faust,L,6,27
+1983-10-29,USC,Pac-10,Ted Tollner,A,California,Pac-10,Joe Kapp,W,19,9
+1983-11-05,USC,Pac-10,Ted Tollner,H,Stanford,Pac-10,Paul Wiggin,W,30,7
+1983-11-12,USC,Pac-10,Ted Tollner,A,Washington,Pac-10,Don James,L,0,24
+1983-11-19,USC,Pac-10,Ted Tollner,H,UCLA,Pac-10,Terry Donahue,L,17,27
+1983-09-10,North Carolina State,ACC,Tom Reed,A,East Carolina,Ind,Ed Emory,L,16,22
+1983-09-24,North Carolina State,ACC,Tom Reed,H,Virginia,ACC,George Welsh,L,14,26
+1983-10-01,North Carolina State,ACC,Tom Reed,A,Wake Forest,ACC,Al Groh,W,38,15
+1983-10-08,North Carolina State,ACC,Tom Reed,H,Georgia Tech,ACC,Bill Curry,L,10,20
+1983-10-15,North Carolina State,ACC,Tom Reed,H,North Carolina,ACC,Dick Crum,L,14,42
+1983-10-22,North Carolina State,ACC,Tom Reed,A,Clemson,ACC,Danny Ford,L,17,27
+1983-10-29,North Carolina State,ACC,Tom Reed,A,South Carolina,Ind,Joe Morrison,L,17,31
+1983-11-10,North Carolina State,ACC,Tom Reed,A,Duke,ACC,Steve Sloan,L,26,27
+1983-11-19,North Carolina State,ACC,Tom Reed,H,Maryland,ACC,Bobby Ross,L,6,29
+1983-09-03,San Diego State,WAC,Doug Scovil,A,Tulsa,MVC,John Cooper,L,9,34
+1983-09-10,San Diego State,WAC,Doug Scovil,H,California,Pac-10,Joe Kapp,W,28,14
+1983-09-17,San Diego State,WAC,Doug Scovil,A,Utah,WAC,Chuck Stobart,L,24,27
+1983-09-24,San Diego State,WAC,Doug Scovil,A,UTEP,WAC,Bill Yung,W,41,33
+1983-10-01,San Diego State,WAC,Doug Scovil,A,Hawaii,WAC,Dick Tomey,T,27,27
+1983-10-08,San Diego State,WAC,Doug Scovil,A,Long Beach State,PCAA,Dave Currey,L,13,20
+1983-10-15,San Diego State,WAC,Doug Scovil,A,Colorado State,WAC,Leon Fuller,L,15,17
+1983-10-22,San Diego State,WAC,Doug Scovil,H,Brigham Young,WAC,LaVell Edwards,L,12,47
+1983-10-29,San Diego State,WAC,Doug Scovil,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,10,28
+1983-11-12,San Diego State,WAC,Doug Scovil,H,Wyoming,WAC,Al Kincaid,L,21,33
+1983-11-19,San Diego State,WAC,Doug Scovil,A,New Mexico,WAC,Joe Lee Dunn,L,14,34
+1983-11-26,San Diego State,WAC,Doug Scovil,H,Air Force,WAC,Ken Hatfield,L,7,38
+1983-09-10,Hawaii,WAC,Dick Tomey,H,Colorado State,WAC,Leon Fuller,W,34,0
+1983-09-17,Hawaii,WAC,Dick Tomey,H,Long Beach State,PCAA,Dave Currey,L,21,23
+1983-09-24,Hawaii,WAC,Dick Tomey,A,Utah,WAC,Chuck Stobart,L,25,28
+1983-10-01,Hawaii,WAC,Dick Tomey,H,San Diego State,WAC,Doug Scovil,T,27,27
+1983-10-15,Hawaii,WAC,Dick Tomey,A,Nevada-Las Vegas,PCAA,Harvey Hyde,W,23,0
+1983-10-22,Hawaii,WAC,Dick Tomey,H,New Mexico,WAC,Joe Lee Dunn,W,25,16
+1983-10-29,Hawaii,WAC,Dick Tomey,H,UTEP,WAC,Bill Yung,W,25,24
+1983-11-05,Hawaii,WAC,Dick Tomey,A,Air Force,WAC,Ken Hatfield,L,10,45
+1983-11-19,Hawaii,WAC,Dick Tomey,H,Pacific,PCAA,Bob Cope,W,31,21
+1983-11-26,Hawaii,WAC,Dick Tomey,H,Wyoming,WAC,Al Kincaid,L,13,31
+1983-12-03,Hawaii,WAC,Dick Tomey,H,Oklahoma,Big 8,Barry Switzer,L,17,21
+1983-09-17,Rutgers,Ind,Frank Burns,H,Boston College,Ind,Jack Bicknell,L,22,42
+1983-09-24,Rutgers,Ind,Frank Burns,A,Syracuse,Ind,Dick MacPherson,L,13,17
+1983-10-01,Rutgers,Ind,Frank Burns,H,Penn State,Ind,Joe Paterno,L,25,36
+1983-10-08,Rutgers,Ind,Frank Burns,A,Army,Ind,Jim Young,L,12,20
+1983-10-22,Rutgers,Ind,Frank Burns,A,William & Mary,Ind,Jimmye Laycock,W,35,28
+1983-10-29,Rutgers,Ind,Frank Burns,H,Tennessee,SEC,Johnny Majors,L,0,7
+1983-11-05,Rutgers,Ind,Frank Burns,A,Cincinnati,Ind,Watson Brown,L,7,18
+1983-11-12,Rutgers,Ind,Frank Burns,A,West Virginia,Ind,Don Nehlen,L,7,35
+1983-11-19,Rutgers,Ind,Frank Burns,H,Temple,Ind,Bruce Arians,L,23,24
+1983-09-24,Eastern Michigan,MAC,Jim Harkema,A,Ohio,MAC,Brian Burke,L,14,31
+1983-10-01,Eastern Michigan,MAC,Jim Harkema,H,Bowling Green State,MAC,Dennis Stolz,L,21,26
+1983-10-08,Eastern Michigan,MAC,Jim Harkema,A,Central Michigan,MAC,Herb Deromedi,L,3,24
+1983-10-15,Eastern Michigan,MAC,Jim Harkema,H,Northern Illinois,MAC,Bill Mallory,L,15,34
+1983-10-22,Eastern Michigan,MAC,Jim Harkema,H,Toledo,MAC,Dan Simrell,L,9,37
+1983-10-29,Eastern Michigan,MAC,Jim Harkema,A,Ball State,MAC,Dwight Wallace,L,20,33
+1983-11-05,Eastern Michigan,MAC,Jim Harkema,A,Kent State,MAC,Dick Scesniak,L,13,37
+1983-11-12,Eastern Michigan,MAC,Jim Harkema,H,Miami (OH),MAC,Tim Rose,L,12,24
+1983-11-19,Eastern Michigan,MAC,Jim Harkema,A,Western Michigan,MAC,Jack Harbaugh,L,10,14
+1983-09-03,Central Michigan,MAC,Herb Deromedi,A,Kentucky,SEC,Jerry Claiborne,L,14,31
+1983-09-24,Central Michigan,MAC,Herb Deromedi,A,Western Michigan,MAC,Jack Harbaugh,W,32,14
+1983-10-01,Central Michigan,MAC,Herb Deromedi,H,Kent State,MAC,Dick Scesniak,W,13,7
+1983-10-08,Central Michigan,MAC,Herb Deromedi,H,Eastern Michigan,MAC,Jim Harkema,W,24,3
+1983-10-15,Central Michigan,MAC,Herb Deromedi,A,Ohio,MAC,Brian Burke,W,14,9
+1983-10-22,Central Michigan,MAC,Herb Deromedi,H,Miami (OH),MAC,Tim Rose,L,7,12
+1983-10-29,Central Michigan,MAC,Herb Deromedi,A,Bowling Green State,MAC,Dennis Stolz,L,14,15
+1983-11-05,Central Michigan,MAC,Herb Deromedi,H,Northern Illinois,MAC,Bill Mallory,W,30,14
+1983-11-12,Central Michigan,MAC,Herb Deromedi,A,Ball State,MAC,Dwight Wallace,W,38,10
+1983-11-19,Central Michigan,MAC,Herb Deromedi,A,Toledo,MAC,Dan Simrell,W,34,6
+1983-09-10,Michigan,Big Ten,Bo Schembechler,H,Washington State,Pac-10,Jim Walden,W,20,17
+1983-09-17,Michigan,Big Ten,Bo Schembechler,A,Washington,Pac-10,Don James,L,24,25
+1983-09-24,Michigan,Big Ten,Bo Schembechler,A,Wisconsin,Big Ten,Dave McClain,W,38,21
+1983-10-01,Michigan,Big Ten,Bo Schembechler,H,Indiana,Big Ten,Sam Wyche,W,43,18
+1983-10-08,Michigan,Big Ten,Bo Schembechler,A,Michigan State,Big Ten,George Perles,W,42,0
+1983-10-15,Michigan,Big Ten,Bo Schembechler,H,Northwestern,Big Ten,Dennis Green,W,35,0
+1983-10-22,Michigan,Big Ten,Bo Schembechler,H,Iowa,Big Ten,Hayden Fry,W,16,13
+1983-10-29,Michigan,Big Ten,Bo Schembechler,A,Illinois,Big Ten,Mike White,L,6,16
+1983-11-05,Michigan,Big Ten,Bo Schembechler,H,Purdue,Big Ten,Leon Burtnett,W,42,10
+1983-11-12,Michigan,Big Ten,Bo Schembechler,A,Minnesota,Big Ten,Joe Salem,W,58,10
+1983-11-19,Michigan,Big Ten,Bo Schembechler,H,Ohio State,Big Ten,Earle Bruce,W,24,21
+1984-01-02,Michigan,Big Ten,Bo Schembechler,N,Auburn,SEC,Pat Dye,L,7,9
+1983-09-02,Temple,Ind,Bruce Arians,H,Syracuse,Ind,Dick MacPherson,W,17,6
+1983-09-10,Temple,Ind,Bruce Arians,A,Pitt,Ind,Foge Fazio,L,0,35
+1983-09-24,Temple,Ind,Bruce Arians,H,Penn State,Ind,Joe Paterno,L,18,23
+1983-10-01,Temple,Ind,Bruce Arians,H,Boston College,Ind,Jack Bicknell,L,15,18
+1983-10-08,Temple,Ind,Bruce Arians,A,Cincinnati,Ind,Watson Brown,L,16,31
+1983-10-15,Temple,Ind,Bruce Arians,A,East Carolina,Ind,Ed Emory,L,10,24
+1983-10-29,Temple,Ind,Bruce Arians,A,Georgia,SEC,Vince Dooley,L,14,31
+1983-11-05,Temple,Ind,Bruce Arians,A,West Virginia,Ind,Don Nehlen,L,9,27
+1983-11-12,Temple,Ind,Bruce Arians,H,Louisville,Ind,Bob Weber,W,24,7
+1983-11-19,Temple,Ind,Bruce Arians,A,Rutgers,Ind,Frank Burns,W,24,23
+1983-09-03,New Mexico,WAC,Joe Lee Dunn,H,Utah,WAC,Chuck Stobart,W,17,7
+1983-09-10,New Mexico,WAC,Joe Lee Dunn,A,Tennessee,SEC,Johnny Majors,L,6,31
+1983-09-17,New Mexico,WAC,Joe Lee Dunn,A,Arkansas,SWC,Lou Holtz,L,0,17
+1983-09-24,New Mexico,WAC,Joe Lee Dunn,A,New Mexico State,MVC,Fred Zechman,W,31,10
+1983-10-08,New Mexico,WAC,Joe Lee Dunn,A,Texas Tech,SWC,Jerry Moore,W,30,10
+1983-10-15,New Mexico,WAC,Joe Lee Dunn,A,Brigham Young,WAC,LaVell Edwards,L,21,66
+1983-10-22,New Mexico,WAC,Joe Lee Dunn,A,Hawaii,WAC,Dick Tomey,L,16,25
+1983-10-29,New Mexico,WAC,Joe Lee Dunn,A,Colorado State,WAC,Leon Fuller,L,24,25
+1983-11-05,New Mexico,WAC,Joe Lee Dunn,H,Wyoming,WAC,Al Kincaid,W,17,10
+1983-11-12,New Mexico,WAC,Joe Lee Dunn,H,UTEP,WAC,Bill Yung,W,35,0
+1983-11-19,New Mexico,WAC,Joe Lee Dunn,H,San Diego State,WAC,Doug Scovil,W,34,14
+1983-09-03,Pacific,PCAA,Bob Cope,A,Oregon,Pac-10,Rich Brooks,W,21,15
+1983-09-10,Pacific,PCAA,Bob Cope,A,West Virginia,Ind,Don Nehlen,L,7,48
+1983-09-17,Pacific,PCAA,Bob Cope,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,7,28
+1983-09-24,Pacific,PCAA,Bob Cope,H,Fresno State,PCAA,Jim Sweeney,L,14,34
+1983-10-01,Pacific,PCAA,Bob Cope,H,Cal State Fullerton,PCAA,Gene Murphy,L,14,31
+1983-10-08,Pacific,PCAA,Bob Cope,H,Utah State,PCAA,Chris Pella,L,10,27
+1983-10-15,Pacific,PCAA,Bob Cope,H,Long Beach State,PCAA,Dave Currey,L,16,28
+1983-11-12,Pacific,PCAA,Bob Cope,A,San Jose State,PCAA,Jack Elway,W,30,26
+1983-11-19,Pacific,PCAA,Bob Cope,A,Hawaii,WAC,Dick Tomey,L,21,31
+1983-09-10,Notre Dame,Ind,Gerry Faust,A,Purdue,Big Ten,Leon Burtnett,W,52,6
+1983-09-17,Notre Dame,Ind,Gerry Faust,H,Michigan State,Big Ten,George Perles,L,23,28
+1983-09-24,Notre Dame,Ind,Gerry Faust,A,Miami (FL),Ind,Howard Schnellenberger,L,0,20
+1983-10-01,Notre Dame,Ind,Gerry Faust,A,Colorado,Big 8,Bill McCartney,W,27,3
+1983-10-08,Notre Dame,Ind,Gerry Faust,A,South Carolina,Ind,Joe Morrison,W,30,6
+1983-10-15,Notre Dame,Ind,Gerry Faust,A,Army,Ind,Jim Young,W,42,0
+1983-10-22,Notre Dame,Ind,Gerry Faust,H,USC,Pac-10,Ted Tollner,W,27,6
+1983-10-29,Notre Dame,Ind,Gerry Faust,H,Navy,Ind,Gary Tranquill,W,28,12
+1983-11-05,Notre Dame,Ind,Gerry Faust,H,Pitt,Ind,Foge Fazio,L,16,21
+1983-11-12,Notre Dame,Ind,Gerry Faust,A,Penn State,Ind,Joe Paterno,L,30,34
+1983-11-19,Notre Dame,Ind,Gerry Faust,H,Air Force,WAC,Ken Hatfield,L,22,23
+1983-12-29,Notre Dame,Ind,Gerry Faust,N,Boston College,Ind,Jack Bicknell,W,19,18
+1983-09-24,Louisiana,Ind,Sam Robertson,A,Rice,SWC,Ray Alborn,L,21,22
+1983-10-08,Louisiana,Ind,Sam Robertson,H,East Carolina,Ind,Ed Emory,L,18,21
+1983-10-15,Louisiana,Ind,Sam Robertson,A,Tulane,Ind,Wally English,L,15,17
+1983-10-29,Louisiana,Ind,Sam Robertson,A,Southern Mississippi,Ind,Jim Carmody,L,3,31
+1983-11-26,Louisiana,Ind,Sam Robertson,A,San Jose State,PCAA,Jack Elway,W,25,21
+1983-09-03,East Carolina,Ind,Ed Emory,A,Florida State,Ind,Bobby Bowden,L,46,47
+1983-09-10,East Carolina,Ind,Ed Emory,H,North Carolina State,ACC,Tom Reed,W,22,16
+1983-10-01,East Carolina,Ind,Ed Emory,A,Missouri,Big 8,Warren Powers,W,13,6
+1983-10-08,East Carolina,Ind,Ed Emory,A,Louisiana,Ind,Sam Robertson,W,21,18
+1983-10-15,East Carolina,Ind,Ed Emory,H,Temple,Ind,Bruce Arians,W,24,10
+1983-10-22,East Carolina,Ind,Ed Emory,A,Florida,SEC,Charley Pell,L,17,24
+1983-11-05,East Carolina,Ind,Ed Emory,A,Miami (FL),Ind,Howard Schnellenberger,L,7,12
+1983-11-12,East Carolina,Ind,Ed Emory,H,William & Mary,Ind,Jimmye Laycock,W,40,6
+1983-11-19,East Carolina,Ind,Ed Emory,A,Southern Mississippi,Ind,Jim Carmody,W,10,6
+1983-09-17,Toledo,MAC,Dan Simrell,A,Richmond,Ind,,W,31,6
+1983-09-24,Toledo,MAC,Dan Simrell,H,Ball State,MAC,Dwight Wallace,W,43,7
+1983-10-01,Toledo,MAC,Dan Simrell,H,Ohio,MAC,Brian Burke,W,31,0
+1983-10-08,Toledo,MAC,Dan Simrell,A,Bowling Green State,MAC,Dennis Stolz,W,6,3
+1983-10-15,Toledo,MAC,Dan Simrell,H,Miami (OH),MAC,Tim Rose,W,10,9
+1983-10-22,Toledo,MAC,Dan Simrell,A,Eastern Michigan,MAC,Jim Harkema,W,37,9
+1983-10-29,Toledo,MAC,Dan Simrell,H,Kent State,MAC,Dick Scesniak,W,37,34
+1983-11-05,Toledo,MAC,Dan Simrell,A,Western Michigan,MAC,Jack Harbaugh,W,20,16
+1983-11-12,Toledo,MAC,Dan Simrell,A,Northern Illinois,MAC,Bill Mallory,L,10,26
+1983-11-19,Toledo,MAC,Dan Simrell,H,Central Michigan,MAC,Herb Deromedi,L,6,34
+1983-09-03,Pitt,Ind,Foge Fazio,A,Tennessee,SEC,Johnny Majors,W,13,3
+1983-09-10,Pitt,Ind,Foge Fazio,H,Temple,Ind,Bruce Arians,W,35,0
+1983-09-24,Pitt,Ind,Foge Fazio,A,Maryland,ACC,Bobby Ross,L,7,13
+1983-10-01,Pitt,Ind,Foge Fazio,A,West Virginia,Ind,Don Nehlen,L,21,24
+1983-10-08,Pitt,Ind,Foge Fazio,H,Florida State,Ind,Bobby Bowden,W,17,16
+1983-10-15,Pitt,Ind,Foge Fazio,A,Louisville,Ind,Bob Weber,W,55,10
+1983-10-22,Pitt,Ind,Foge Fazio,A,Navy,Ind,Gary Tranquill,W,21,14
+1983-10-29,Pitt,Ind,Foge Fazio,H,Syracuse,Ind,Dick MacPherson,W,13,10
+1983-11-05,Pitt,Ind,Foge Fazio,A,Notre Dame,Ind,Gerry Faust,W,21,16
+1983-11-12,Pitt,Ind,Foge Fazio,H,Army,Ind,Jim Young,W,38,7
+1983-11-19,Pitt,Ind,Foge Fazio,H,Penn State,Ind,Joe Paterno,T,24,24
+1984-01-02,Pitt,Ind,Foge Fazio,N,Ohio State,Big Ten,Earle Bruce,L,23,28
+1983-10-08,West Texas A&M,MVC,,H,Illinois State,MVC,,T,24,24
+1983-10-22,West Texas A&M,MVC,,A,Wichita State,MVC,Willie Jeffries,L,30,31
+1983-10-29,West Texas A&M,MVC,,A,Drake,MVC,,L,26,36
+1983-11-05,West Texas A&M,MVC,,H,Indiana State,MVC,,L,20,31
+1983-11-12,West Texas A&M,MVC,,A,Tulsa,MVC,John Cooper,L,16,31
+1983-11-19,West Texas A&M,MVC,,A,New Mexico State,MVC,Fred Zechman,L,24,26
+1983-09-10,Wyoming,WAC,Al Kincaid,A,Nebraska,Big 8,Tom Osborne,L,20,56
+1983-09-17,Wyoming,WAC,Al Kincaid,H,Air Force,WAC,Ken Hatfield,W,14,7
+1983-09-24,Wyoming,WAC,Al Kincaid,A,Kansas State,Big 8,Jim Dickey,L,25,27
+1983-10-01,Wyoming,WAC,Al Kincaid,H,UTEP,WAC,Bill Yung,W,49,17
+1983-10-08,Wyoming,WAC,Al Kincaid,H,Brigham Young,WAC,LaVell Edwards,L,10,41
+1983-10-15,Wyoming,WAC,Al Kincaid,A,Utah,WAC,Chuck Stobart,L,14,69
+1983-11-05,Wyoming,WAC,Al Kincaid,A,New Mexico,WAC,Joe Lee Dunn,L,10,17
+1983-11-12,Wyoming,WAC,Al Kincaid,A,San Diego State,WAC,Doug Scovil,W,33,21
+1983-11-19,Wyoming,WAC,Al Kincaid,H,Colorado State,WAC,Leon Fuller,W,42,17
+1983-11-26,Wyoming,WAC,Al Kincaid,A,Hawaii,WAC,Dick Tomey,W,31,13
+1983-09-10,Brigham Young,WAC,LaVell Edwards,A,Baylor,SWC,Grant Teaff,L,36,40
+1983-09-17,Brigham Young,WAC,LaVell Edwards,H,Bowling Green State,MAC,Dennis Stolz,W,63,28
+1983-09-24,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Ken Hatfield,W,46,28
+1983-10-01,Brigham Young,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,W,37,35
+1983-10-08,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Al Kincaid,W,41,10
+1983-10-15,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Lee Dunn,W,66,21
+1983-10-22,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Doug Scovil,W,47,12
+1983-10-29,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Chris Pella,W,38,34
+1983-11-05,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,W,31,9
+1983-11-12,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,24,6
+1983-11-19,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Chuck Stobart,W,55,7
+1983-12-23,Brigham Young,WAC,LaVell Edwards,N,Missouri,Big 8,Warren Powers,W,21,17
+1983-09-10,Georgia Tech,ACC,Bill Curry,A,Alabama,SEC,Ray Perkins,L,7,20
+1983-09-24,Georgia Tech,ACC,Bill Curry,A,Clemson,ACC,Danny Ford,L,14,41
+1983-10-01,Georgia Tech,ACC,Bill Curry,H,North Carolina,ACC,Dick Crum,L,21,38
+1983-10-08,Georgia Tech,ACC,Bill Curry,A,North Carolina State,ACC,Tom Reed,W,20,10
+1983-10-15,Georgia Tech,ACC,Bill Curry,H,Auburn,SEC,Pat Dye,L,13,31
+1983-10-22,Georgia Tech,ACC,Bill Curry,A,Tennessee,SEC,Johnny Majors,L,3,37
+1983-10-29,Georgia Tech,ACC,Bill Curry,A,Duke,ACC,Steve Sloan,L,26,32
+1983-11-03,Georgia Tech,ACC,Bill Curry,H,Virginia,ACC,George Welsh,W,31,27
+1983-11-19,Georgia Tech,ACC,Bill Curry,H,Wake Forest,ACC,Al Groh,W,49,33
+1983-11-26,Georgia Tech,ACC,Bill Curry,H,Georgia,SEC,Vince Dooley,L,24,27
+1983-09-10,Wake Forest,ACC,Al Groh,A,Virginia Tech,Ind,Bill Dooley,W,13,6
+1983-09-24,Wake Forest,ACC,Al Groh,A,Richmond,Ind,,W,31,6
+1983-10-01,Wake Forest,ACC,Al Groh,H,North Carolina State,ACC,Tom Reed,L,15,38
+1983-10-08,Wake Forest,ACC,Al Groh,A,North Carolina,ACC,Dick Crum,L,10,30
+1983-10-15,Wake Forest,ACC,Al Groh,H,Maryland,ACC,Bobby Ross,L,33,36
+1983-10-22,Wake Forest,ACC,Al Groh,H,Virginia,ACC,George Welsh,W,38,34
+1983-10-29,Wake Forest,ACC,Al Groh,A,Clemson,ACC,Danny Ford,L,17,24
+1983-11-05,Wake Forest,ACC,Al Groh,H,Duke,ACC,Steve Sloan,L,21,31
+1983-11-19,Wake Forest,ACC,Al Groh,A,Georgia Tech,ACC,Bill Curry,L,33,49
+1983-09-03,Mississippi State,SEC,Emory Bellard,H,Tulane,Ind,Wally English,W,14,9
+1983-09-17,Mississippi State,SEC,Emory Bellard,H,Navy,Ind,Gary Tranquill,W,38,10
+1983-09-24,Mississippi State,SEC,Emory Bellard,H,Florida,SEC,Charley Pell,L,12,35
+1983-10-01,Mississippi State,SEC,Emory Bellard,A,Georgia,SEC,Vince Dooley,L,7,20
+1983-10-08,Mississippi State,SEC,Emory Bellard,N,Southern Mississippi,Ind,Jim Carmody,L,6,31
+1983-10-15,Mississippi State,SEC,Emory Bellard,H,Miami (FL),Ind,Howard Schnellenberger,L,7,31
+1983-10-22,Mississippi State,SEC,Emory Bellard,A,Auburn,SEC,Pat Dye,L,13,28
+1983-10-29,Mississippi State,SEC,Emory Bellard,A,Alabama,SEC,Ray Perkins,L,18,35
+1983-11-05,Mississippi State,SEC,Emory Bellard,H,Memphis,Ind,Rex Dockery,L,13,30
+1983-11-12,Mississippi State,SEC,Emory Bellard,A,LSU,SEC,Jerry Stovall,W,45,26
+1983-11-19,Mississippi State,SEC,Emory Bellard,N,Ole Miss,SEC,Billy Brewer,L,23,24
+1983-09-10,Nevada-Las Vegas,PCAA,Harvey Hyde,A,San Jose State,PCAA,Jack Elway,L,26,31
+1983-09-17,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Pacific,PCAA,Bob Cope,W,28,7
+1983-09-24,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Washington State,Pac-10,Jim Walden,L,28,41
+1983-10-01,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Oregon State,Pac-10,Joe Avezzano,W,35,21
+1983-10-15,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Hawaii,WAC,Dick Tomey,L,0,23
+1983-10-22,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Utah State,PCAA,Chris Pella,W,28,10
+1983-10-29,Nevada-Las Vegas,PCAA,Harvey Hyde,H,San Diego State,WAC,Doug Scovil,W,28,10
+1983-11-05,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Fresno State,PCAA,Jim Sweeney,W,20,7
+1983-11-12,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Cal State Fullerton,PCAA,Gene Murphy,W,13,0
+1983-11-19,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Long Beach State,PCAA,Dave Currey,L,21,24
+1983-09-03,Memphis,Ind,Rex Dockery,H,Ole Miss,SEC,Billy Brewer,W,37,17
+1983-09-10,Memphis,Ind,Rex Dockery,A,North Carolina,ACC,Dick Crum,L,10,24
+1983-09-17,Memphis,Ind,Rex Dockery,H,Virginia Tech,Ind,Bill Dooley,L,10,17
+1983-10-01,Memphis,Ind,Rex Dockery,A,Alabama,SEC,Ray Perkins,L,13,44
+1983-10-08,Memphis,Ind,Rex Dockery,H,Tulane,Ind,Wally English,W,28,25
+1983-10-15,Memphis,Ind,Rex Dockery,H,Southern Mississippi,Ind,Jim Carmody,L,20,27
+1983-10-29,Memphis,Ind,Rex Dockery,A,Vanderbilt,SEC,George MacIntyre,W,24,7
+1983-11-05,Memphis,Ind,Rex Dockery,A,Mississippi State,SEC,Emory Bellard,W,30,13
+1983-11-12,Memphis,Ind,Rex Dockery,A,Cincinnati,Ind,Watson Brown,W,43,10
+1983-11-24,Memphis,Ind,Rex Dockery,A,Louisville,Ind,Bob Weber,W,45,7
+1983-09-03,Kansas State,Big 8,Jim Dickey,H,Long Beach State,PCAA,Dave Currey,L,20,28
+1983-09-10,Kansas State,Big 8,Jim Dickey,A,Kentucky,SEC,Jerry Claiborne,L,12,31
+1983-09-17,Kansas State,Big 8,Jim Dickey,H,Texas Christian,SWC,Jim Wacker,W,20,3
+1983-09-24,Kansas State,Big 8,Jim Dickey,H,Wyoming,WAC,Al Kincaid,W,27,25
+1983-10-01,Kansas State,Big 8,Jim Dickey,H,Oklahoma,Big 8,Barry Switzer,L,10,29
+1983-10-15,Kansas State,Big 8,Jim Dickey,A,Kansas,Big 8,Mike Gottfried,L,3,31
+1983-10-22,Kansas State,Big 8,Jim Dickey,A,Missouri,Big 8,Warren Powers,L,0,38
+1983-10-29,Kansas State,Big 8,Jim Dickey,H,Nebraska,Big 8,Tom Osborne,L,25,51
+1983-11-05,Kansas State,Big 8,Jim Dickey,A,Oklahoma State,Big 8,Jimmy Johnson,W,21,20
+1983-11-12,Kansas State,Big 8,Jim Dickey,H,Iowa State,Big 8,Jim Criner,L,27,49
+1983-11-19,Kansas State,Big 8,Jim Dickey,A,Colorado,Big 8,Bill McCartney,L,21,38
+1983-09-17,Army,Ind,Jim Young,A,Louisville,Ind,Bob Weber,L,7,31
+1983-10-08,Army,Ind,Jim Young,H,Rutgers,Ind,Frank Burns,W,20,12
+1983-10-15,Army,Ind,Jim Young,H,Notre Dame,Ind,Gerry Faust,L,0,42
+1983-10-29,Army,Ind,Jim Young,A,Air Force,WAC,Ken Hatfield,L,20,41
+1983-11-05,Army,Ind,Jim Young,H,Boston College,Ind,Jack Bicknell,L,14,34
+1983-11-12,Army,Ind,Jim Young,A,Pitt,Ind,Foge Fazio,L,7,38
+1983-11-25,Army,Ind,Jim Young,N,Navy,Ind,Gary Tranquill,L,13,42
+1983-09-03,UCLA,Pac-10,Terry Donahue,A,Georgia,SEC,Vince Dooley,L,8,19
+1983-09-17,UCLA,Pac-10,Terry Donahue,H,Arizona State,Pac-10,Darryl Rogers,T,26,26
+1983-09-24,UCLA,Pac-10,Terry Donahue,A,Nebraska,Big 8,Tom Osborne,L,10,42
+1983-10-01,UCLA,Pac-10,Terry Donahue,H,Brigham Young,WAC,LaVell Edwards,L,35,37
+1983-10-08,UCLA,Pac-10,Terry Donahue,A,Stanford,Pac-10,Paul Wiggin,W,39,21
+1983-10-15,UCLA,Pac-10,Terry Donahue,A,Washington State,Pac-10,Jim Walden,W,24,14
+1983-10-22,UCLA,Pac-10,Terry Donahue,H,California,Pac-10,Joe Kapp,W,20,16
+1983-10-29,UCLA,Pac-10,Terry Donahue,H,Washington,Pac-10,Don James,W,27,24
+1983-11-05,UCLA,Pac-10,Terry Donahue,A,Oregon,Pac-10,Rich Brooks,W,24,13
+1983-11-12,UCLA,Pac-10,Terry Donahue,A,Arizona,Pac-10,Larry Smith,L,24,27
+1983-11-19,UCLA,Pac-10,Terry Donahue,A,USC,Pac-10,Ted Tollner,W,27,17
+1984-01-02,UCLA,Pac-10,Terry Donahue,H,Illinois,Big Ten,Mike White,W,45,9
+1983-09-10,Auburn,SEC,Pat Dye,H,Southern Mississippi,Ind,Jim Carmody,W,24,3
+1983-09-17,Auburn,SEC,Pat Dye,H,Texas,SWC,Fred Akers,L,7,20
+1983-09-24,Auburn,SEC,Pat Dye,A,Tennessee,SEC,Johnny Majors,W,37,14
+1983-10-01,Auburn,SEC,Pat Dye,H,Florida State,Ind,Bobby Bowden,W,27,24
+1983-10-08,Auburn,SEC,Pat Dye,A,Kentucky,SEC,Jerry Claiborne,W,49,21
+1983-10-15,Auburn,SEC,Pat Dye,A,Georgia Tech,ACC,Bill Curry,W,31,13
+1983-10-22,Auburn,SEC,Pat Dye,H,Mississippi State,SEC,Emory Bellard,W,28,13
+1983-10-29,Auburn,SEC,Pat Dye,H,Florida,SEC,Charley Pell,W,28,21
+1983-11-05,Auburn,SEC,Pat Dye,H,Maryland,ACC,Bobby Ross,W,35,23
+1983-11-12,Auburn,SEC,Pat Dye,A,Georgia,SEC,Vince Dooley,W,13,7
+1983-12-03,Auburn,SEC,Pat Dye,N,Alabama,SEC,Ray Perkins,W,23,20
+1984-01-02,Auburn,SEC,Pat Dye,N,Michigan,Big Ten,Bo Schembechler,W,9,7
+1983-09-10,Northwestern,Big Ten,Dennis Green,H,Washington,Pac-10,Don James,L,0,34
+1983-09-17,Northwestern,Big Ten,Dennis Green,A,Syracuse,Ind,Dick MacPherson,L,0,35
+1983-09-24,Northwestern,Big Ten,Dennis Green,A,Indiana,Big Ten,Sam Wyche,W,10,8
+1983-10-01,Northwestern,Big Ten,Dennis Green,H,Wisconsin,Big Ten,Dave McClain,L,0,49
+1983-10-08,Northwestern,Big Ten,Dennis Green,A,Iowa,Big Ten,Hayden Fry,L,21,61
+1983-10-15,Northwestern,Big Ten,Dennis Green,A,Michigan,Big Ten,Bo Schembechler,L,0,35
+1983-10-22,Northwestern,Big Ten,Dennis Green,H,Minnesota,Big Ten,Joe Salem,W,19,8
+1983-10-29,Northwestern,Big Ten,Dennis Green,A,Purdue,Big Ten,Leon Burtnett,L,17,48
+1983-11-05,Northwestern,Big Ten,Dennis Green,H,Michigan State,Big Ten,George Perles,L,3,9
+1983-11-12,Northwestern,Big Ten,Dennis Green,A,Ohio State,Big Ten,Earle Bruce,L,7,55
+1983-11-19,Northwestern,Big Ten,Dennis Green,H,Illinois,Big Ten,Mike White,L,24,56
+1983-09-03,Kansas,Big 8,Mike Gottfried,H,Northern Illinois,MAC,Bill Mallory,L,34,37
+1983-09-10,Kansas,Big 8,Mike Gottfried,A,Texas Christian,SWC,Jim Wacker,T,16,16
+1983-09-17,Kansas,Big 8,Mike Gottfried,H,Wichita State,MVC,Willie Jeffries,W,57,6
+1983-09-24,Kansas,Big 8,Mike Gottfried,A,USC,Pac-10,Ted Tollner,W,26,20
+1983-10-08,Kansas,Big 8,Mike Gottfried,A,Iowa State,Big 8,Jim Criner,L,35,38
+1983-10-15,Kansas,Big 8,Mike Gottfried,H,Kansas State,Big 8,Jim Dickey,W,31,3
+1983-10-22,Kansas,Big 8,Mike Gottfried,H,Oklahoma State,Big 8,Jimmy Johnson,L,10,27
+1983-10-29,Kansas,Big 8,Mike Gottfried,A,Oklahoma,Big 8,Barry Switzer,L,14,45
+1983-11-05,Kansas,Big 8,Mike Gottfried,H,Colorado,Big 8,Bill McCartney,L,23,34
+1983-11-12,Kansas,Big 8,Mike Gottfried,A,Nebraska,Big 8,Tom Osborne,L,13,67
+1983-11-19,Kansas,Big 8,Mike Gottfried,H,Missouri,Big 8,Warren Powers,W,37,27
+1983-09-17,Western Michigan,MAC,Jack Harbaugh,A,Illinois State,MVC,,W,14,13
+1983-09-24,Western Michigan,MAC,Jack Harbaugh,H,Central Michigan,MAC,Herb Deromedi,L,14,32
+1983-10-01,Western Michigan,MAC,Jack Harbaugh,A,Miami (OH),MAC,Tim Rose,W,20,18
+1983-10-08,Western Michigan,MAC,Jack Harbaugh,A,Northern Illinois,MAC,Bill Mallory,L,3,27
+1983-10-15,Western Michigan,MAC,Jack Harbaugh,H,Bowling Green State,MAC,Dennis Stolz,L,20,23
+1983-10-22,Western Michigan,MAC,Jack Harbaugh,H,Ball State,MAC,Dwight Wallace,L,20,24
+1983-10-29,Western Michigan,MAC,Jack Harbaugh,A,Ohio,MAC,Brian Burke,W,16,14
+1983-11-05,Western Michigan,MAC,Jack Harbaugh,H,Toledo,MAC,Dan Simrell,L,16,20
+1983-11-12,Western Michigan,MAC,Jack Harbaugh,A,Kent State,MAC,Dick Scesniak,W,21,13
+1983-11-19,Western Michigan,MAC,Jack Harbaugh,H,Eastern Michigan,MAC,Jim Harkema,W,14,10
+1983-09-24,William & Mary,Ind,Jimmye Laycock,A,North Carolina,ACC,Dick Crum,L,20,51
+1983-10-22,William & Mary,Ind,Jimmye Laycock,H,Rutgers,Ind,Frank Burns,L,28,35
+1983-10-29,William & Mary,Ind,Jimmye Laycock,A,Virginia Tech,Ind,Bill Dooley,L,21,59
+1983-11-12,William & Mary,Ind,Jimmye Laycock,A,East Carolina,Ind,Ed Emory,L,6,40
+1983-11-19,William & Mary,Ind,Jimmye Laycock,H,Richmond,Ind,,W,24,15
+1983-09-03,UTEP,WAC,Bill Yung,H,New Mexico State,MVC,Fred Zechman,W,20,9
+1983-09-17,UTEP,WAC,Bill Yung,H,Baylor,SWC,Grant Teaff,L,6,20
+1983-09-24,UTEP,WAC,Bill Yung,H,San Diego State,WAC,Doug Scovil,L,33,41
+1983-10-01,UTEP,WAC,Bill Yung,A,Wyoming,WAC,Al Kincaid,L,17,49
+1983-10-08,UTEP,WAC,Bill Yung,A,Utah,WAC,Chuck Stobart,L,11,35
+1983-10-15,UTEP,WAC,Bill Yung,A,Air Force,WAC,Ken Hatfield,L,25,37
+1983-10-22,UTEP,WAC,Bill Yung,H,Colorado State,WAC,Leon Fuller,L,15,31
+1983-10-29,UTEP,WAC,Bill Yung,A,Hawaii,WAC,Dick Tomey,L,24,25
+1983-11-05,UTEP,WAC,Bill Yung,H,Brigham Young,WAC,LaVell Edwards,L,9,31
+1983-11-12,UTEP,WAC,Bill Yung,A,New Mexico,WAC,Joe Lee Dunn,L,0,35
+1983-09-17,Indiana State,MVC,,A,Florida,SEC,Charley Pell,L,13,17
+1983-10-01,Indiana State,MVC,,A,Illinois State,MVC,,L,20,37
+1983-10-08,Indiana State,MVC,,H,Ball State,MAC,Dwight Wallace,W,35,14
+1983-10-15,Indiana State,MVC,,H,Wichita State,MVC,Willie Jeffries,W,24,22
+1983-10-22,Indiana State,MVC,,H,Southern Illinois,MVC,Rey Dempsey,L,21,34
+1983-11-05,Indiana State,MVC,,A,West Texas A&M,MVC,,W,31,20
+1983-11-12,Indiana State,MVC,,A,Drake,MVC,,W,38,0
+1983-12-03,Indiana State,MVC,,A,Southern Illinois,MVC,Rey Dempsey,L,7,23
+1983-09-10,LSU,SEC,Jerry Stovall,H,Florida State,Ind,Bobby Bowden,L,35,40
+1983-09-17,LSU,SEC,Jerry Stovall,A,Rice,SWC,Ray Alborn,W,24,10
+1983-09-24,LSU,SEC,Jerry Stovall,H,Washington,Pac-10,Don James,W,40,14
+1983-10-01,LSU,SEC,Jerry Stovall,H,Florida,SEC,Charley Pell,L,17,31
+1983-10-08,LSU,SEC,Jerry Stovall,A,Tennessee,SEC,Johnny Majors,L,6,20
+1983-10-15,LSU,SEC,Jerry Stovall,H,Kentucky,SEC,Jerry Claiborne,L,13,21
+1983-10-22,LSU,SEC,Jerry Stovall,H,South Carolina,Ind,Joe Morrison,W,20,6
+1983-10-29,LSU,SEC,Jerry Stovall,A,Ole Miss,SEC,Billy Brewer,L,24,27
+1983-11-05,LSU,SEC,Jerry Stovall,H,Alabama,SEC,Ray Perkins,L,26,32
+1983-11-12,LSU,SEC,Jerry Stovall,H,Mississippi State,SEC,Emory Bellard,L,26,45
+1983-11-19,LSU,SEC,Jerry Stovall,A,Tulane,Ind,Wally English,W,20,7
+1983-09-03,Tulsa,MVC,John Cooper,H,San Diego State,WAC,Doug Scovil,W,34,9
+1983-09-10,Tulsa,MVC,John Cooper,A,Arkansas,SWC,Lou Holtz,L,14,17
+1983-09-24,Tulsa,MVC,John Cooper,A,Oklahoma,Big 8,Barry Switzer,L,18,28
+1983-10-01,Tulsa,MVC,John Cooper,A,Oklahoma State,Big 8,Jimmy Johnson,L,0,9
+1983-10-08,Tulsa,MVC,John Cooper,H,New Mexico State,MVC,Fred Zechman,W,24,10
+1983-10-15,Tulsa,MVC,John Cooper,H,Illinois State,MVC,,W,39,25
+1983-10-22,Tulsa,MVC,John Cooper,A,Texas Tech,SWC,Jerry Moore,W,59,20
+1983-10-29,Tulsa,MVC,John Cooper,H,Wichita State,MVC,Willie Jeffries,W,30,19
+1983-11-05,Tulsa,MVC,John Cooper,A,Drake,MVC,,W,22,13
+1983-11-12,Tulsa,MVC,John Cooper,H,West Texas A&M,MVC,,W,31,16
+1983-09-10,Iowa,Big Ten,Hayden Fry,A,Iowa State,Big 8,Jim Criner,W,51,10
+1983-09-17,Iowa,Big Ten,Hayden Fry,A,Penn State,Ind,Joe Paterno,W,42,34
+1983-09-24,Iowa,Big Ten,Hayden Fry,H,Ohio State,Big Ten,Earle Bruce,W,20,14
+1983-10-01,Iowa,Big Ten,Hayden Fry,A,Illinois,Big Ten,Mike White,L,0,33
+1983-10-08,Iowa,Big Ten,Hayden Fry,H,Northwestern,Big Ten,Dennis Green,W,61,21
+1983-10-15,Iowa,Big Ten,Hayden Fry,H,Purdue,Big Ten,Leon Burtnett,W,31,14
+1983-10-22,Iowa,Big Ten,Hayden Fry,A,Michigan,Big Ten,Bo Schembechler,L,13,16
+1983-10-29,Iowa,Big Ten,Hayden Fry,H,Indiana,Big Ten,Sam Wyche,W,49,3
+1983-11-05,Iowa,Big Ten,Hayden Fry,A,Wisconsin,Big Ten,Dave McClain,W,34,14
+1983-11-12,Iowa,Big Ten,Hayden Fry,A,Michigan State,Big Ten,George Perles,W,12,6
+1983-11-19,Iowa,Big Ten,Hayden Fry,H,Minnesota,Big Ten,Joe Salem,W,61,10
+1983-12-30,Iowa,Big Ten,Hayden Fry,N,Florida,SEC,Charley Pell,L,6,14
+1983-09-17,Texas,SWC,Fred Akers,A,Auburn,SEC,Pat Dye,W,20,7
+1983-10-01,Texas,SWC,Fred Akers,H,Rice,SWC,Ray Alborn,W,42,6
+1983-10-08,Texas,SWC,Fred Akers,N,Oklahoma,Big 8,Barry Switzer,W,28,16
+1983-10-15,Texas,SWC,Fred Akers,A,Arkansas,SWC,Lou Holtz,W,31,3
+1983-10-22,Texas,SWC,Fred Akers,A,SMU,SWC,Bobby Collins,W,15,12
+1983-10-29,Texas,SWC,Fred Akers,H,Texas Tech,SWC,Jerry Moore,W,20,3
+1983-11-05,Texas,SWC,Fred Akers,A,Houston,SWC,Bill Yeoman,W,9,3
+1983-11-12,Texas,SWC,Fred Akers,H,Texas Christian,SWC,Jim Wacker,W,20,14
+1983-11-19,Texas,SWC,Fred Akers,H,Baylor,SWC,Grant Teaff,W,24,21
+1983-11-26,Texas,SWC,Fred Akers,A,Texas A&M,SWC,Jackie Sherrill,W,45,13
+1984-01-02,Texas,SWC,Fred Akers,N,Georgia,SEC,Vince Dooley,L,9,10
+1983-09-10,Texas Christian,SWC,Jim Wacker,H,Kansas,Big 8,Mike Gottfried,T,16,16
+1983-09-17,Texas Christian,SWC,Jim Wacker,A,Kansas State,Big 8,Jim Dickey,L,3,20
+1983-09-24,Texas Christian,SWC,Jim Wacker,H,SMU,SWC,Bobby Collins,L,17,21
+1983-10-01,Texas Christian,SWC,Jim Wacker,H,Arkansas,SWC,Lou Holtz,L,21,38
+1983-10-08,Texas Christian,SWC,Jim Wacker,A,Rice,SWC,Ray Alborn,W,34,3
+1983-10-15,Texas Christian,SWC,Jim Wacker,H,Ole Miss,SEC,Billy Brewer,L,7,20
+1983-10-22,Texas Christian,SWC,Jim Wacker,A,Baylor,SWC,Grant Teaff,L,21,56
+1983-10-29,Texas Christian,SWC,Jim Wacker,H,Houston,SWC,Bill Yeoman,L,21,28
+1983-11-05,Texas Christian,SWC,Jim Wacker,A,Texas Tech,SWC,Jerry Moore,T,10,10
+1983-11-12,Texas Christian,SWC,Jim Wacker,A,Texas,SWC,Fred Akers,L,14,20
+1983-11-19,Texas Christian,SWC,Jim Wacker,H,Texas A&M,SWC,Jackie Sherrill,L,10,20
+1983-09-03,Air Force,WAC,Ken Hatfield,A,Colorado State,WAC,Leon Fuller,W,34,13
+1983-09-10,Air Force,WAC,Ken Hatfield,H,Texas Tech,SWC,Jerry Moore,W,28,13
+1983-09-17,Air Force,WAC,Ken Hatfield,A,Wyoming,WAC,Al Kincaid,L,7,14
+1983-09-24,Air Force,WAC,Ken Hatfield,H,Brigham Young,WAC,LaVell Edwards,L,28,46
+1983-10-08,Air Force,WAC,Ken Hatfield,A,Navy,Ind,Gary Tranquill,W,44,17
+1983-10-15,Air Force,WAC,Ken Hatfield,H,UTEP,WAC,Bill Yung,W,37,25
+1983-10-22,Air Force,WAC,Ken Hatfield,H,Utah,WAC,Chuck Stobart,W,33,31
+1983-10-29,Air Force,WAC,Ken Hatfield,H,Army,Ind,Jim Young,W,41,20
+1983-11-05,Air Force,WAC,Ken Hatfield,H,Hawaii,WAC,Dick Tomey,W,45,10
+1983-11-19,Air Force,WAC,Ken Hatfield,A,Notre Dame,Ind,Gerry Faust,W,23,22
+1983-11-26,Air Force,WAC,Ken Hatfield,A,San Diego State,WAC,Doug Scovil,W,38,7
+1983-12-10,Air Force,WAC,Ken Hatfield,N,Ole Miss,SEC,Billy Brewer,W,9,3
+1983-09-03,Miami (FL),Ind,Howard Schnellenberger,A,Florida,SEC,Charley Pell,L,3,28
+1983-09-10,Miami (FL),Ind,Howard Schnellenberger,A,Houston,SWC,Bill Yeoman,W,29,7
+1983-09-17,Miami (FL),Ind,Howard Schnellenberger,H,Purdue,Big Ten,Leon Burtnett,W,35,0
+1983-09-24,Miami (FL),Ind,Howard Schnellenberger,H,Notre Dame,Ind,Gerry Faust,W,20,0
+1983-10-01,Miami (FL),Ind,Howard Schnellenberger,A,Duke,ACC,Steve Sloan,W,56,17
+1983-10-08,Miami (FL),Ind,Howard Schnellenberger,H,Louisville,Ind,Bob Weber,W,42,14
+1983-10-15,Miami (FL),Ind,Howard Schnellenberger,A,Mississippi State,SEC,Emory Bellard,W,31,7
+1983-10-22,Miami (FL),Ind,Howard Schnellenberger,A,Cincinnati,Ind,Watson Brown,W,17,7
+1983-10-29,Miami (FL),Ind,Howard Schnellenberger,H,West Virginia,Ind,Don Nehlen,W,20,3
+1983-11-05,Miami (FL),Ind,Howard Schnellenberger,H,East Carolina,Ind,Ed Emory,W,12,7
+1983-11-12,Miami (FL),Ind,Howard Schnellenberger,A,Florida State,Ind,Bobby Bowden,W,17,16
+1984-01-02,Miami (FL),Ind,Howard Schnellenberger,H,Nebraska,Big 8,Tom Osborne,W,31,30
+1983-09-03,Richmond,Ind,,A,Southern Mississippi,Ind,Jim Carmody,L,3,32
+1983-09-10,Richmond,Ind,,H,Ohio,MAC,Brian Burke,L,10,17
+1983-09-17,Richmond,Ind,,H,Toledo,MAC,Dan Simrell,L,6,31
+1983-09-24,Richmond,Ind,,H,Wake Forest,ACC,Al Groh,L,6,31
+1983-10-22,Richmond,Ind,,A,Virginia Tech,Ind,Bill Dooley,L,0,38
+1983-11-19,Richmond,Ind,,A,William & Mary,Ind,Jimmye Laycock,L,15,24
+1983-09-03,Oregon,Pac-10,Rich Brooks,H,Pacific,PCAA,Bob Cope,L,15,21
+1983-09-10,Oregon,Pac-10,Rich Brooks,A,Ohio State,Big Ten,Earle Bruce,L,6,31
+1983-09-24,Oregon,Pac-10,Rich Brooks,H,Houston,SWC,Bill Yeoman,W,15,14
+1983-10-01,Oregon,Pac-10,Rich Brooks,A,San Jose State,PCAA,Jack Elway,L,34,44
+1983-10-08,Oregon,Pac-10,Rich Brooks,H,California,Pac-10,Joe Kapp,W,24,17
+1983-10-15,Oregon,Pac-10,Rich Brooks,A,Arizona,Pac-10,Larry Smith,W,19,10
+1983-10-22,Oregon,Pac-10,Rich Brooks,H,Washington,Pac-10,Don James,L,3,32
+1983-10-29,Oregon,Pac-10,Rich Brooks,A,Washington State,Pac-10,Jim Walden,L,7,24
+1983-11-05,Oregon,Pac-10,Rich Brooks,H,UCLA,Pac-10,Terry Donahue,L,13,24
+1983-11-12,Oregon,Pac-10,Rich Brooks,A,Stanford,Pac-10,Paul Wiggin,W,16,7
+1983-11-19,Oregon,Pac-10,Rich Brooks,H,Oregon State,Pac-10,Joe Avezzano,T,0,0
+1983-09-03,Tennessee,SEC,Johnny Majors,H,Pitt,Ind,Foge Fazio,L,3,13
+1983-09-10,Tennessee,SEC,Johnny Majors,H,New Mexico,WAC,Joe Lee Dunn,W,31,6
+1983-09-24,Tennessee,SEC,Johnny Majors,H,Auburn,SEC,Pat Dye,L,14,37
+1983-10-08,Tennessee,SEC,Johnny Majors,H,LSU,SEC,Jerry Stovall,W,20,6
+1983-10-15,Tennessee,SEC,Johnny Majors,A,Alabama,SEC,Ray Perkins,W,41,34
+1983-10-22,Tennessee,SEC,Johnny Majors,H,Georgia Tech,ACC,Bill Curry,W,37,3
+1983-10-29,Tennessee,SEC,Johnny Majors,A,Rutgers,Ind,Frank Burns,W,7,0
+1983-11-12,Tennessee,SEC,Johnny Majors,H,Ole Miss,SEC,Billy Brewer,L,10,13
+1983-11-19,Tennessee,SEC,Johnny Majors,A,Kentucky,SEC,Jerry Claiborne,W,10,0
+1983-11-26,Tennessee,SEC,Johnny Majors,H,Vanderbilt,SEC,George MacIntyre,W,34,24
+1983-12-17,Tennessee,SEC,Johnny Majors,N,Maryland,ACC,Bobby Ross,W,30,23
+1983-09-03,Oregon State,Pac-10,Joe Avezzano,A,Arizona,Pac-10,Larry Smith,L,6,50
+1983-09-17,Oregon State,Pac-10,Joe Avezzano,H,USC,Pac-10,Ted Tollner,L,10,33
+1983-09-24,Oregon State,Pac-10,Joe Avezzano,A,Colorado,Big 8,Bill McCartney,L,14,38
+1983-10-01,Oregon State,Pac-10,Joe Avezzano,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,21,35
+1983-10-08,Oregon State,Pac-10,Joe Avezzano,A,Washington,Pac-10,Don James,L,7,34
+1983-10-15,Oregon State,Pac-10,Joe Avezzano,A,California,Pac-10,Joe Kapp,L,19,45
+1983-10-29,Oregon State,Pac-10,Joe Avezzano,H,Stanford,Pac-10,Paul Wiggin,W,31,18
+1983-11-05,Oregon State,Pac-10,Joe Avezzano,H,Washington State,Pac-10,Jim Walden,L,9,27
+1983-11-12,Oregon State,Pac-10,Joe Avezzano,A,Arizona State,Pac-10,Darryl Rogers,L,3,38
+1983-11-19,Oregon State,Pac-10,Joe Avezzano,A,Oregon,Pac-10,Rich Brooks,T,0,0
+1983-09-10,Alabama,SEC,Ray Perkins,H,Georgia Tech,ACC,Bill Curry,W,20,7
+1983-09-17,Alabama,SEC,Ray Perkins,H,Ole Miss,SEC,Billy Brewer,W,40,0
+1983-09-24,Alabama,SEC,Ray Perkins,A,Vanderbilt,SEC,George MacIntyre,W,44,24
+1983-10-01,Alabama,SEC,Ray Perkins,H,Memphis,Ind,Rex Dockery,W,44,13
+1983-10-08,Alabama,SEC,Ray Perkins,A,Penn State,Ind,Joe Paterno,L,28,34
+1983-10-15,Alabama,SEC,Ray Perkins,H,Tennessee,SEC,Johnny Majors,L,34,41
+1983-10-29,Alabama,SEC,Ray Perkins,H,Mississippi State,SEC,Emory Bellard,W,35,18
+1983-11-05,Alabama,SEC,Ray Perkins,A,LSU,SEC,Jerry Stovall,W,32,26
+1983-11-12,Alabama,SEC,Ray Perkins,H,Southern Mississippi,Ind,Jim Carmody,W,28,16
+1983-11-25,Alabama,SEC,Ray Perkins,A,Boston College,Ind,Jack Bicknell,L,13,20
+1983-12-03,Alabama,SEC,Ray Perkins,N,Auburn,SEC,Pat Dye,L,20,23
+1983-12-24,Alabama,SEC,Ray Perkins,N,SMU,SWC,Bobby Collins,W,28,7
+1983-09-10,Purdue,Big Ten,Leon Burtnett,H,Notre Dame,Ind,Gerry Faust,L,6,52
+1983-09-17,Purdue,Big Ten,Leon Burtnett,A,Miami (FL),Ind,Howard Schnellenberger,L,0,35
+1983-09-24,Purdue,Big Ten,Leon Burtnett,A,Minnesota,Big Ten,Joe Salem,W,32,20
+1983-10-01,Purdue,Big Ten,Leon Burtnett,H,Michigan State,Big Ten,George Perles,T,29,29
+1983-10-08,Purdue,Big Ten,Leon Burtnett,A,Ohio State,Big Ten,Earle Bruce,L,22,33
+1983-10-15,Purdue,Big Ten,Leon Burtnett,A,Iowa,Big Ten,Hayden Fry,L,14,31
+1983-10-22,Purdue,Big Ten,Leon Burtnett,H,Illinois,Big Ten,Mike White,L,21,35
+1983-10-29,Purdue,Big Ten,Leon Burtnett,H,Northwestern,Big Ten,Dennis Green,W,48,17
+1983-11-05,Purdue,Big Ten,Leon Burtnett,A,Michigan,Big Ten,Bo Schembechler,L,10,42
+1983-11-12,Purdue,Big Ten,Leon Burtnett,H,Wisconsin,Big Ten,Dave McClain,L,38,42
+1983-11-19,Purdue,Big Ten,Leon Burtnett,A,Indiana,Big Ten,Sam Wyche,W,31,30
+1983-08-29,Nebraska,Big 8,Tom Osborne,N,Penn State,Ind,Joe Paterno,W,44,6
+1983-09-10,Nebraska,Big 8,Tom Osborne,H,Wyoming,WAC,Al Kincaid,W,56,20
+1983-09-17,Nebraska,Big 8,Tom Osborne,A,Minnesota,Big Ten,Joe Salem,W,84,13
+1983-09-24,Nebraska,Big 8,Tom Osborne,H,UCLA,Pac-10,Terry Donahue,W,42,10
+1983-10-01,Nebraska,Big 8,Tom Osborne,H,Syracuse,Ind,Dick MacPherson,W,63,7
+1983-10-08,Nebraska,Big 8,Tom Osborne,A,Oklahoma State,Big 8,Jimmy Johnson,W,14,10
+1983-10-15,Nebraska,Big 8,Tom Osborne,A,Missouri,Big 8,Warren Powers,W,34,13
+1983-10-22,Nebraska,Big 8,Tom Osborne,H,Colorado,Big 8,Bill McCartney,W,69,19
+1983-10-29,Nebraska,Big 8,Tom Osborne,A,Kansas State,Big 8,Jim Dickey,W,51,25
+1983-11-05,Nebraska,Big 8,Tom Osborne,H,Iowa State,Big 8,Jim Criner,W,72,29
+1983-11-12,Nebraska,Big 8,Tom Osborne,H,Kansas,Big 8,Mike Gottfried,W,67,13
+1983-11-26,Nebraska,Big 8,Tom Osborne,A,Oklahoma,Big 8,Barry Switzer,W,28,21
+1984-01-02,Nebraska,Big 8,Tom Osborne,A,Miami (FL),Ind,Howard Schnellenberger,L,30,31
+1983-09-03,West Virginia,Ind,Don Nehlen,H,Ohio,MAC,Brian Burke,W,55,3
+1983-09-10,West Virginia,Ind,Don Nehlen,H,Pacific,PCAA,Bob Cope,W,48,7
+1983-09-17,West Virginia,Ind,Don Nehlen,A,Maryland,ACC,Bobby Ross,W,31,21
+1983-09-24,West Virginia,Ind,Don Nehlen,A,Boston College,Ind,Jack Bicknell,W,27,17
+1983-10-01,West Virginia,Ind,Don Nehlen,H,Pitt,Ind,Foge Fazio,W,24,21
+1983-10-15,West Virginia,Ind,Don Nehlen,H,Virginia Tech,Ind,Bill Dooley,W,13,0
+1983-10-22,West Virginia,Ind,Don Nehlen,A,Penn State,Ind,Joe Paterno,L,23,41
+1983-10-29,West Virginia,Ind,Don Nehlen,A,Miami (FL),Ind,Howard Schnellenberger,L,3,20
+1983-11-05,West Virginia,Ind,Don Nehlen,H,Temple,Ind,Bruce Arians,W,27,9
+1983-11-12,West Virginia,Ind,Don Nehlen,H,Rutgers,Ind,Frank Burns,W,35,7
+1983-11-19,West Virginia,Ind,Don Nehlen,A,Syracuse,Ind,Dick MacPherson,L,16,27
+1983-12-22,West Virginia,Ind,Don Nehlen,N,Kentucky,SEC,Jerry Claiborne,W,20,16
+1983-09-17,Oklahoma State,Big 8,Jimmy Johnson,A,Cincinnati,Ind,Watson Brown,W,27,17
+1983-09-23,Oklahoma State,Big 8,Jimmy Johnson,A,Texas A&M,SWC,Jackie Sherrill,W,34,15
+1983-10-01,Oklahoma State,Big 8,Jimmy Johnson,H,Tulsa,MVC,John Cooper,W,9,0
+1983-10-08,Oklahoma State,Big 8,Jimmy Johnson,H,Nebraska,Big 8,Tom Osborne,L,10,14
+1983-10-15,Oklahoma State,Big 8,Jimmy Johnson,H,Oklahoma,Big 8,Barry Switzer,L,20,21
+1983-10-22,Oklahoma State,Big 8,Jimmy Johnson,A,Kansas,Big 8,Mike Gottfried,W,27,10
+1983-10-29,Oklahoma State,Big 8,Jimmy Johnson,A,Colorado,Big 8,Bill McCartney,W,40,14
+1983-11-05,Oklahoma State,Big 8,Jimmy Johnson,H,Kansas State,Big 8,Jim Dickey,L,20,21
+1983-11-12,Oklahoma State,Big 8,Jimmy Johnson,A,Missouri,Big 8,Warren Powers,L,10,16
+1983-11-19,Oklahoma State,Big 8,Jimmy Johnson,A,Iowa State,Big 8,Jim Criner,W,30,7
+1983-12-31,Oklahoma State,Big 8,Jimmy Johnson,N,Baylor,SWC,Grant Teaff,W,24,14
+1983-09-10,Colorado,Big 8,Bill McCartney,A,Michigan State,Big Ten,George Perles,L,17,23
+1983-09-17,Colorado,Big 8,Bill McCartney,H,Colorado State,WAC,Leon Fuller,W,31,3
+1983-09-24,Colorado,Big 8,Bill McCartney,H,Oregon State,Pac-10,Joe Avezzano,W,38,14
+1983-10-01,Colorado,Big 8,Bill McCartney,H,Notre Dame,Ind,Gerry Faust,L,3,27
+1983-10-08,Colorado,Big 8,Bill McCartney,H,Missouri,Big 8,Warren Powers,L,20,59
+1983-10-15,Colorado,Big 8,Bill McCartney,A,Iowa State,Big 8,Jim Criner,L,10,22
+1983-10-22,Colorado,Big 8,Bill McCartney,A,Nebraska,Big 8,Tom Osborne,L,19,69
+1983-10-29,Colorado,Big 8,Bill McCartney,H,Oklahoma State,Big 8,Jimmy Johnson,L,14,40
+1983-11-05,Colorado,Big 8,Bill McCartney,A,Kansas,Big 8,Mike Gottfried,W,34,23
+1983-11-12,Colorado,Big 8,Bill McCartney,A,Oklahoma,Big 8,Barry Switzer,L,28,41
+1983-11-19,Colorado,Big 8,Bill McCartney,H,Kansas State,Big 8,Jim Dickey,W,38,21
+1983-09-03,Colorado State,WAC,Leon Fuller,H,Air Force,WAC,Ken Hatfield,L,13,34
+1983-09-10,Colorado State,WAC,Leon Fuller,A,Hawaii,WAC,Dick Tomey,L,0,34
+1983-09-17,Colorado State,WAC,Leon Fuller,A,Colorado,Big 8,Bill McCartney,L,3,31
+1983-09-24,Colorado State,WAC,Leon Fuller,A,Iowa State,Big 8,Jim Criner,L,17,21
+1983-10-01,Colorado State,WAC,Leon Fuller,H,Utah,WAC,Chuck Stobart,W,31,28
+1983-10-08,Colorado State,WAC,Leon Fuller,A,Arizona,Pac-10,Larry Smith,L,21,52
+1983-10-15,Colorado State,WAC,Leon Fuller,H,San Diego State,WAC,Doug Scovil,W,17,15
+1983-10-22,Colorado State,WAC,Leon Fuller,A,UTEP,WAC,Bill Yung,W,31,15
+1983-10-29,Colorado State,WAC,Leon Fuller,H,New Mexico,WAC,Joe Lee Dunn,W,25,24
+1983-11-12,Colorado State,WAC,Leon Fuller,A,Brigham Young,WAC,LaVell Edwards,L,6,24
+1983-11-19,Colorado State,WAC,Leon Fuller,A,Wyoming,WAC,Al Kincaid,L,17,42
+1983-09-01,Rice,SWC,Ray Alborn,H,Houston,SWC,Bill Yeoman,L,14,45
+1983-09-10,Rice,SWC,Ray Alborn,H,Minnesota,Big Ten,Joe Salem,L,17,21
+1983-09-17,Rice,SWC,Ray Alborn,H,LSU,SEC,Jerry Stovall,L,10,24
+1983-09-24,Rice,SWC,Ray Alborn,H,Louisiana,Ind,Sam Robertson,W,22,21
+1983-10-01,Rice,SWC,Ray Alborn,A,Texas,SWC,Fred Akers,L,6,42
+1983-10-08,Rice,SWC,Ray Alborn,H,Texas Christian,SWC,Jim Wacker,L,3,34
+1983-10-15,Rice,SWC,Ray Alborn,A,Texas Tech,SWC,Jerry Moore,L,3,14
+1983-10-22,Rice,SWC,Ray Alborn,H,Texas A&M,SWC,Jackie Sherrill,L,10,29
+1983-10-29,Rice,SWC,Ray Alborn,A,Arkansas,SWC,Lou Holtz,L,0,35
+1983-11-05,Rice,SWC,Ray Alborn,A,SMU,SWC,Bobby Collins,L,6,20
+1983-11-12,Rice,SWC,Ray Alborn,A,Baylor,SWC,Grant Teaff,L,14,48
+1983-09-03,Texas A&M,SWC,Jackie Sherrill,H,California,Pac-10,Joe Kapp,L,17,19
+1983-09-23,Texas A&M,SWC,Jackie Sherrill,H,Oklahoma State,Big 8,Jimmy Johnson,L,15,34
+1983-10-01,Texas A&M,SWC,Jackie Sherrill,A,Texas Tech,SWC,Jerry Moore,L,0,3
+1983-10-08,Texas A&M,SWC,Jackie Sherrill,H,Houston,SWC,Bill Yeoman,W,30,7
+1983-10-15,Texas A&M,SWC,Jackie Sherrill,A,Baylor,SWC,Grant Teaff,T,13,13
+1983-10-22,Texas A&M,SWC,Jackie Sherrill,A,Rice,SWC,Ray Alborn,W,29,10
+1983-10-29,Texas A&M,SWC,Jackie Sherrill,H,SMU,SWC,Bobby Collins,L,7,10
+1983-11-12,Texas A&M,SWC,Jackie Sherrill,H,Arkansas,SWC,Lou Holtz,W,36,23
+1983-11-19,Texas A&M,SWC,Jackie Sherrill,A,Texas Christian,SWC,Jim Wacker,W,20,10
+1983-11-26,Texas A&M,SWC,Jackie Sherrill,H,Texas,SWC,Fred Akers,L,13,45
+1983-09-10,Michigan State,Big Ten,George Perles,H,Colorado,Big 8,Bill McCartney,W,23,17
+1983-09-17,Michigan State,Big Ten,George Perles,A,Notre Dame,Ind,Gerry Faust,W,28,23
+1983-09-24,Michigan State,Big Ten,George Perles,H,Illinois,Big Ten,Mike White,L,10,20
+1983-10-01,Michigan State,Big Ten,George Perles,A,Purdue,Big Ten,Leon Burtnett,T,29,29
+1983-10-08,Michigan State,Big Ten,George Perles,H,Michigan,Big Ten,Bo Schembechler,L,0,42
+1983-10-15,Michigan State,Big Ten,George Perles,A,Indiana,Big Ten,Sam Wyche,L,12,24
+1983-10-22,Michigan State,Big Ten,George Perles,A,Ohio State,Big Ten,Earle Bruce,L,11,21
+1983-10-29,Michigan State,Big Ten,George Perles,H,Minnesota,Big Ten,Joe Salem,W,34,10
+1983-11-05,Michigan State,Big Ten,George Perles,A,Northwestern,Big Ten,Dennis Green,W,9,3
+1983-11-12,Michigan State,Big Ten,George Perles,H,Iowa,Big Ten,Hayden Fry,L,6,12
+1983-11-19,Michigan State,Big Ten,George Perles,A,Wisconsin,Big Ten,Dave McClain,L,0,32
+1983-09-10,Boston College,Ind,Jack Bicknell,H,Clemson,ACC,Danny Ford,W,31,16
+1983-09-17,Boston College,Ind,Jack Bicknell,A,Rutgers,Ind,Frank Burns,W,42,22
+1983-09-24,Boston College,Ind,Jack Bicknell,H,West Virginia,Ind,Don Nehlen,L,17,27
+1983-10-01,Boston College,Ind,Jack Bicknell,A,Temple,Ind,Bruce Arians,W,18,15
+1983-10-29,Boston College,Ind,Jack Bicknell,H,Penn State,Ind,Joe Paterno,W,27,17
+1983-11-05,Boston College,Ind,Jack Bicknell,A,Army,Ind,Jim Young,W,34,14
+1983-11-12,Boston College,Ind,Jack Bicknell,A,Syracuse,Ind,Dick MacPherson,L,10,21
+1983-11-25,Boston College,Ind,Jack Bicknell,H,Alabama,SEC,Ray Perkins,W,20,13
+1983-12-29,Boston College,Ind,Jack Bicknell,N,Notre Dame,Ind,Gerry Faust,L,18,19
+1983-09-03,New Mexico State,MVC,Fred Zechman,A,UTEP,WAC,Bill Yung,L,9,20
+1983-09-24,New Mexico State,MVC,Fred Zechman,H,New Mexico,WAC,Joe Lee Dunn,L,10,31
+1983-10-01,New Mexico State,MVC,Fred Zechman,A,Iowa State,Big 8,Jim Criner,W,24,17
+1983-10-08,New Mexico State,MVC,Fred Zechman,A,Tulsa,MVC,John Cooper,L,10,24
+1983-10-15,New Mexico State,MVC,Fred Zechman,H,Drake,MVC,,W,42,23
+1983-10-29,New Mexico State,MVC,Fred Zechman,A,Southern Illinois,MVC,Rey Dempsey,L,3,41
+1983-11-05,New Mexico State,MVC,Fred Zechman,H,Wichita State,MVC,Willie Jeffries,W,62,28
+1983-11-19,New Mexico State,MVC,Fred Zechman,H,West Texas A&M,MVC,,W,26,24
+1983-09-10,Minnesota,Big Ten,Joe Salem,A,Rice,SWC,Ray Alborn,W,21,17
+1983-09-17,Minnesota,Big Ten,Joe Salem,H,Nebraska,Big 8,Tom Osborne,L,13,84
+1983-09-24,Minnesota,Big Ten,Joe Salem,H,Purdue,Big Ten,Leon Burtnett,L,20,32
+1983-10-01,Minnesota,Big Ten,Joe Salem,A,Ohio State,Big Ten,Earle Bruce,L,18,69
+1983-10-08,Minnesota,Big Ten,Joe Salem,A,Indiana,Big Ten,Sam Wyche,L,31,38
+1983-10-15,Minnesota,Big Ten,Joe Salem,H,Wisconsin,Big Ten,Dave McClain,L,17,56
+1983-10-22,Minnesota,Big Ten,Joe Salem,A,Northwestern,Big Ten,Dennis Green,L,8,19
+1983-10-29,Minnesota,Big Ten,Joe Salem,A,Michigan State,Big Ten,George Perles,L,10,34
+1983-11-05,Minnesota,Big Ten,Joe Salem,H,Illinois,Big Ten,Mike White,L,23,50
+1983-11-12,Minnesota,Big Ten,Joe Salem,H,Michigan,Big Ten,Bo Schembechler,L,10,58
+1983-11-19,Minnesota,Big Ten,Joe Salem,A,Iowa,Big Ten,Hayden Fry,L,10,61
+1983-09-03,Ole Miss,SEC,Billy Brewer,A,Memphis,Ind,Rex Dockery,L,17,37
+1983-09-10,Ole Miss,SEC,Billy Brewer,A,Tulane,Ind,Wally English,L,23,27
+1983-09-17,Ole Miss,SEC,Billy Brewer,A,Alabama,SEC,Ray Perkins,L,0,40
+1983-09-24,Ole Miss,SEC,Billy Brewer,H,Arkansas,SWC,Lou Holtz,W,13,10
+1983-10-01,Ole Miss,SEC,Billy Brewer,H,Southern Mississippi,Ind,Jim Carmody,L,7,27
+1983-10-08,Ole Miss,SEC,Billy Brewer,H,Georgia,SEC,Vince Dooley,L,11,36
+1983-10-15,Ole Miss,SEC,Billy Brewer,A,Texas Christian,SWC,Jim Wacker,W,20,7
+1983-10-22,Ole Miss,SEC,Billy Brewer,H,Vanderbilt,SEC,George MacIntyre,W,21,14
+1983-10-29,Ole Miss,SEC,Billy Brewer,H,LSU,SEC,Jerry Stovall,W,27,24
+1983-11-12,Ole Miss,SEC,Billy Brewer,A,Tennessee,SEC,Johnny Majors,W,13,10
+1983-11-19,Ole Miss,SEC,Billy Brewer,N,Mississippi State,SEC,Emory Bellard,W,24,23
+1983-12-10,Ole Miss,SEC,Billy Brewer,N,Air Force,WAC,Ken Hatfield,L,3,9
+1983-09-03,Duke,ACC,Steve Sloan,A,Virginia,ACC,George Welsh,L,30,38
+1983-09-10,Duke,ACC,Steve Sloan,A,Indiana,Big Ten,Sam Wyche,L,10,15
+1983-09-17,Duke,ACC,Steve Sloan,H,South Carolina,Ind,Joe Morrison,L,24,31
+1983-10-01,Duke,ACC,Steve Sloan,H,Miami (FL),Ind,Howard Schnellenberger,L,17,56
+1983-10-08,Duke,ACC,Steve Sloan,A,Virginia Tech,Ind,Bill Dooley,L,14,27
+1983-10-15,Duke,ACC,Steve Sloan,H,Clemson,ACC,Danny Ford,L,31,38
+1983-10-22,Duke,ACC,Steve Sloan,A,Maryland,ACC,Bobby Ross,L,3,38
+1983-10-29,Duke,ACC,Steve Sloan,H,Georgia Tech,ACC,Bill Curry,W,32,26
+1983-11-05,Duke,ACC,Steve Sloan,A,Wake Forest,ACC,Al Groh,W,31,21
+1983-11-10,Duke,ACC,Steve Sloan,H,North Carolina State,ACC,Tom Reed,W,27,26
+1983-11-19,Duke,ACC,Steve Sloan,A,North Carolina,ACC,Dick Crum,L,27,34
+1983-09-10,Kent State,MAC,Dick Scesniak,A,Syracuse,Ind,Dick MacPherson,L,10,22
+1983-09-24,Kent State,MAC,Dick Scesniak,H,Northern Illinois,MAC,Bill Mallory,L,7,38
+1983-10-01,Kent State,MAC,Dick Scesniak,A,Central Michigan,MAC,Herb Deromedi,L,7,13
+1983-10-08,Kent State,MAC,Dick Scesniak,A,Miami (OH),MAC,Tim Rose,L,7,27
+1983-10-15,Kent State,MAC,Dick Scesniak,H,Ball State,MAC,Dwight Wallace,L,13,17
+1983-10-22,Kent State,MAC,Dick Scesniak,H,Ohio,MAC,Brian Burke,L,20,21
+1983-10-29,Kent State,MAC,Dick Scesniak,A,Toledo,MAC,Dan Simrell,L,34,37
+1983-11-05,Kent State,MAC,Dick Scesniak,H,Eastern Michigan,MAC,Jim Harkema,W,37,13
+1983-11-12,Kent State,MAC,Dick Scesniak,H,Western Michigan,MAC,Jack Harbaugh,L,13,21
+1983-11-19,Kent State,MAC,Dick Scesniak,A,Bowling Green State,MAC,Dennis Stolz,L,3,38
+1983-09-10,Navy,Ind,Gary Tranquill,A,Virginia,ACC,George Welsh,L,16,27
+1983-09-17,Navy,Ind,Gary Tranquill,A,Mississippi State,SEC,Emory Bellard,L,10,38
+1983-10-01,Navy,Ind,Gary Tranquill,A,Washington,Pac-10,Don James,L,10,27
+1983-10-08,Navy,Ind,Gary Tranquill,H,Air Force,WAC,Ken Hatfield,L,17,44
+1983-10-22,Navy,Ind,Gary Tranquill,H,Pitt,Ind,Foge Fazio,L,14,21
+1983-10-29,Navy,Ind,Gary Tranquill,A,Notre Dame,Ind,Gerry Faust,L,12,28
+1983-11-05,Navy,Ind,Gary Tranquill,H,Syracuse,Ind,Dick MacPherson,L,7,14
+1983-11-12,Navy,Ind,Gary Tranquill,A,South Carolina,Ind,Joe Morrison,L,7,31
+1983-11-25,Navy,Ind,Gary Tranquill,N,Army,Ind,Jim Young,W,42,13
+1983-09-10,Fresno State,PCAA,Jim Sweeney,H,Bowling Green State,MAC,Dennis Stolz,L,27,35
+1983-09-24,Fresno State,PCAA,Jim Sweeney,A,Pacific,PCAA,Bob Cope,W,34,14
+1983-10-01,Fresno State,PCAA,Jim Sweeney,A,Utah State,PCAA,Chris Pella,L,12,20
+1983-10-08,Fresno State,PCAA,Jim Sweeney,H,San Jose State,PCAA,Jack Elway,L,23,41
+1983-10-22,Fresno State,PCAA,Jim Sweeney,A,Cal State Fullerton,PCAA,Gene Murphy,L,17,18
+1983-11-05,Fresno State,PCAA,Jim Sweeney,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,7,20
+1983-11-12,Fresno State,PCAA,Jim Sweeney,A,Long Beach State,PCAA,Dave Currey,W,7,3
+1983-09-10,Texas Tech,SWC,Jerry Moore,A,Air Force,WAC,Ken Hatfield,L,13,28
+1983-09-24,Texas Tech,SWC,Jerry Moore,A,Baylor,SWC,Grant Teaff,W,26,11
+1983-10-01,Texas Tech,SWC,Jerry Moore,H,Texas A&M,SWC,Jackie Sherrill,W,3,0
+1983-10-08,Texas Tech,SWC,Jerry Moore,H,New Mexico,WAC,Joe Lee Dunn,L,10,30
+1983-10-15,Texas Tech,SWC,Jerry Moore,H,Rice,SWC,Ray Alborn,W,14,3
+1983-10-22,Texas Tech,SWC,Jerry Moore,H,Tulsa,MVC,John Cooper,L,20,59
+1983-10-29,Texas Tech,SWC,Jerry Moore,A,Texas,SWC,Fred Akers,L,3,20
+1983-11-05,Texas Tech,SWC,Jerry Moore,H,Texas Christian,SWC,Jim Wacker,T,10,10
+1983-11-12,Texas Tech,SWC,Jerry Moore,A,SMU,SWC,Bobby Collins,L,7,33
+1983-11-19,Texas Tech,SWC,Jerry Moore,A,Houston,SWC,Bill Yeoman,L,41,43
+1983-11-26,Texas Tech,SWC,Jerry Moore,H,Arkansas,SWC,Lou Holtz,L,13,16
+1983-09-03,Tulane,Ind,Wally English,A,Mississippi State,SEC,Emory Bellard,L,9,14
+1983-09-10,Tulane,Ind,Wally English,H,Ole Miss,SEC,Billy Brewer,W,27,23
+1983-09-17,Tulane,Ind,Wally English,H,Florida State,Ind,Bobby Bowden,W,34,28
+1983-09-24,Tulane,Ind,Wally English,A,Kentucky,SEC,Jerry Claiborne,L,14,26
+1983-10-01,Tulane,Ind,Wally English,H,Vanderbilt,SEC,George MacIntyre,L,17,30
+1983-10-08,Tulane,Ind,Wally English,A,Memphis,Ind,Rex Dockery,L,25,28
+1983-10-15,Tulane,Ind,Wally English,H,Louisiana,Ind,Sam Robertson,W,17,15
+1983-10-22,Tulane,Ind,Wally English,A,Southern Mississippi,Ind,Jim Carmody,W,14,7
+1983-10-29,Tulane,Ind,Wally English,A,Baylor,SWC,Grant Teaff,L,18,24
+1983-11-05,Tulane,Ind,Wally English,H,Virginia Tech,Ind,Bill Dooley,L,10,26
+1983-11-19,Tulane,Ind,Wally English,H,LSU,SEC,Jerry Stovall,L,7,20
+1983-09-03,Northern Illinois,MAC,Bill Mallory,A,Kansas,Big 8,Mike Gottfried,W,37,34
+1983-09-10,Northern Illinois,MAC,Bill Mallory,A,Wisconsin,Big Ten,Dave McClain,L,9,37
+1983-09-24,Northern Illinois,MAC,Bill Mallory,A,Kent State,MAC,Dick Scesniak,W,38,7
+1983-10-01,Northern Illinois,MAC,Bill Mallory,A,Ball State,MAC,Dwight Wallace,W,27,14
+1983-10-08,Northern Illinois,MAC,Bill Mallory,H,Western Michigan,MAC,Jack Harbaugh,W,27,3
+1983-10-15,Northern Illinois,MAC,Bill Mallory,A,Eastern Michigan,MAC,Jim Harkema,W,34,15
+1983-10-22,Northern Illinois,MAC,Bill Mallory,H,Bowling Green State,MAC,Dennis Stolz,W,24,23
+1983-10-29,Northern Illinois,MAC,Bill Mallory,A,Miami (OH),MAC,Tim Rose,W,17,0
+1983-11-05,Northern Illinois,MAC,Bill Mallory,A,Central Michigan,MAC,Herb Deromedi,L,14,30
+1983-11-12,Northern Illinois,MAC,Bill Mallory,H,Toledo,MAC,Dan Simrell,W,26,10
+1983-11-19,Northern Illinois,MAC,Bill Mallory,H,Ohio,MAC,Brian Burke,W,41,17
+1983-12-17,Northern Illinois,MAC,Bill Mallory,N,Cal State Fullerton,PCAA,Gene Murphy,W,20,13
+1983-09-10,Ohio State,Big Ten,Earle Bruce,H,Oregon,Pac-10,Rich Brooks,W,31,6
+1983-09-17,Ohio State,Big Ten,Earle Bruce,A,Oklahoma,Big 8,Barry Switzer,W,24,14
+1983-09-24,Ohio State,Big Ten,Earle Bruce,A,Iowa,Big Ten,Hayden Fry,L,14,20
+1983-10-01,Ohio State,Big Ten,Earle Bruce,H,Minnesota,Big Ten,Joe Salem,W,69,18
+1983-10-08,Ohio State,Big Ten,Earle Bruce,H,Purdue,Big Ten,Leon Burtnett,W,33,22
+1983-10-15,Ohio State,Big Ten,Earle Bruce,A,Illinois,Big Ten,Mike White,L,13,17
+1983-10-22,Ohio State,Big Ten,Earle Bruce,H,Michigan State,Big Ten,George Perles,W,21,11
+1983-10-29,Ohio State,Big Ten,Earle Bruce,H,Wisconsin,Big Ten,Dave McClain,W,45,27
+1983-11-05,Ohio State,Big Ten,Earle Bruce,A,Indiana,Big Ten,Sam Wyche,W,56,17
+1983-11-12,Ohio State,Big Ten,Earle Bruce,H,Northwestern,Big Ten,Dennis Green,W,55,7
+1983-11-19,Ohio State,Big Ten,Earle Bruce,A,Michigan,Big Ten,Bo Schembechler,L,21,24
+1984-01-02,Ohio State,Big Ten,Earle Bruce,N,Pitt,Ind,Foge Fazio,W,28,23
+1983-09-03,Ohio,MAC,Brian Burke,A,West Virginia,Ind,Don Nehlen,L,3,55
+1983-09-10,Ohio,MAC,Brian Burke,A,Richmond,Ind,,W,17,10
+1983-09-17,Ohio,MAC,Brian Burke,H,Ball State,MAC,Dwight Wallace,L,14,31
+1983-09-24,Ohio,MAC,Brian Burke,H,Eastern Michigan,MAC,Jim Harkema,W,31,14
+1983-10-01,Ohio,MAC,Brian Burke,A,Toledo,MAC,Dan Simrell,L,0,31
+1983-10-15,Ohio,MAC,Brian Burke,H,Central Michigan,MAC,Herb Deromedi,L,9,14
+1983-10-22,Ohio,MAC,Brian Burke,A,Kent State,MAC,Dick Scesniak,W,21,20
+1983-10-29,Ohio,MAC,Brian Burke,H,Western Michigan,MAC,Jack Harbaugh,L,14,16
+1983-11-05,Ohio,MAC,Brian Burke,A,Miami (OH),MAC,Tim Rose,W,17,14
+1983-11-12,Ohio,MAC,Brian Burke,H,Bowling Green State,MAC,Dennis Stolz,L,20,24
+1983-11-19,Ohio,MAC,Brian Burke,A,Northern Illinois,MAC,Bill Mallory,L,17,41
+1983-09-24,Drake,MVC,,H,Illinois State,MVC,,L,17,36
+1983-10-01,Drake,MVC,,A,Wichita State,MVC,Willie Jeffries,L,0,43
+1983-10-08,Drake,MVC,,A,Southern Illinois,MVC,Rey Dempsey,L,9,28
+1983-10-15,Drake,MVC,,A,New Mexico State,MVC,Fred Zechman,L,23,42
+1983-10-29,Drake,MVC,,H,West Texas A&M,MVC,,W,36,26
+1983-11-05,Drake,MVC,,H,Tulsa,MVC,John Cooper,L,13,22
+1983-11-12,Drake,MVC,,H,Indiana State,MVC,,L,0,38
+1983-09-01,Houston,SWC,Bill Yeoman,A,Rice,SWC,Ray Alborn,W,45,14
+1983-09-10,Houston,SWC,Bill Yeoman,H,Miami (FL),Ind,Howard Schnellenberger,L,7,29
+1983-09-24,Houston,SWC,Bill Yeoman,A,Oregon,Pac-10,Rich Brooks,L,14,15
+1983-10-01,Houston,SWC,Bill Yeoman,H,Baylor,SWC,Grant Teaff,L,21,42
+1983-10-08,Houston,SWC,Bill Yeoman,A,Texas A&M,SWC,Jackie Sherrill,L,7,30
+1983-10-22,Houston,SWC,Bill Yeoman,A,Arkansas,SWC,Lou Holtz,L,3,24
+1983-10-29,Houston,SWC,Bill Yeoman,A,Texas Christian,SWC,Jim Wacker,W,28,21
+1983-11-05,Houston,SWC,Bill Yeoman,H,Texas,SWC,Fred Akers,L,3,9
+1983-11-19,Houston,SWC,Bill Yeoman,H,Texas Tech,SWC,Jerry Moore,W,43,41
+1983-11-26,Houston,SWC,Bill Yeoman,N,SMU,SWC,Bobby Collins,L,12,34

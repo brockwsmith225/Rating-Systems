@@ -1,0 +1,809 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1932-09-24,North Carolina,Southern,Chuck Collins,H,Wake Forest,Ind,F.S. Miller,T,0,0
+1932-10-01,North Carolina,Southern,Chuck Collins,H,Vanderbilt,Southern,Dan McGugin,L,7,39
+1932-10-08,North Carolina,Southern,Chuck Collins,A,Tennessee,Southern,Bob Neyland,L,7,20
+1932-10-15,North Carolina,Southern,Chuck Collins,A,Georgia,Southern,Harry Mehre,T,6,6
+1932-10-22,North Carolina,Southern,Chuck Collins,H,Georgia Tech,Southern,William Alexander,L,14,43
+1932-10-29,North Carolina,Southern,Chuck Collins,H,North Carolina State,Southern,,W,13,0
+1932-11-04,North Carolina,Southern,Chuck Collins,H,Florida,Southern,Charlie Bachman,W,18,13
+1932-11-12,North Carolina,Southern,Chuck Collins,A,Davidson,Ind,,W,12,0
+1932-11-19,North Carolina,Southern,Chuck Collins,H,Duke,Southern,Wallace Wade,L,0,7
+1932-11-24,North Carolina,Southern,Chuck Collins,A,Virginia,Southern,Fred Dawson,L,7,14
+1932-10-08,Indiana,Western,Billy Hayes,A,Ohio State,Western,Sam Willaman,T,7,7
+1932-10-16,Indiana,Western,Billy Hayes,H,Iowa,Western,Ossie Solem,W,12,0
+1932-10-22,Indiana,Western,Billy Hayes,A,Chicago,Western,Amos Alonzo Stagg,L,7,13
+1932-10-27,Indiana,Western,Billy Hayes,H,Mississippi State,Southern,Ray Dauber,W,19,0
+1932-11-05,Indiana,Western,Billy Hayes,H,Michigan,Western,Harry Kipke,L,0,7
+1932-11-12,Indiana,Western,Billy Hayes,A,Illinois,Western,Robert Zuppke,L,6,18
+1932-11-19,Indiana,Western,Billy Hayes,A,Purdue,Western,Noble Kizer,L,7,25
+1932-10-08,Iowa State,Big 6,George Veenker,A,Nebraska,Big 6,Dana Bible,L,6,12
+1932-10-15,Iowa State,Big 6,George Veenker,H,Kansas,Big 6,Bill Hargiss,L,0,26
+1932-10-22,Iowa State,Big 6,George Veenker,A,Missouri,Big 6,Frank Carideo,T,0,0
+1932-11-05,Iowa State,Big 6,George Veenker,A,Kansas State,Big 6,Bo McMillin,L,0,31
+1932-11-12,Iowa State,Big 6,George Veenker,H,Oklahoma,Big 6,Lewie Hardage,L,12,19
+1932-11-19,Iowa State,Big 6,George Veenker,H,Drake,MVC,,W,34,13
+1932-10-08,Fordham,Ind,Frank Cavanaugh,H,Bucknell,Ind,Carl Snavely,W,30,0
+1932-10-22,Fordham,Ind,Frank Cavanaugh,H,Michigan State,Ind,Jimmy Crowley,L,13,19
+1932-11-05,Fordham,Ind,Frank Cavanaugh,H,Saint Mary's (CA),Ind,Slip Madigan,W,14,0
+1932-11-12,Fordham,Ind,Frank Cavanaugh,N,New York University,Ind,Howard Cann,W,7,0
+1932-11-19,Fordham,Ind,Frank Cavanaugh,H,Oregon State,PCC,Paul Schissler,W,8,6
+1932-10-15,Arizona State,BIAA,Ted Shipkey,A,Northern Arizona,BIAA,Rudy Lavik,T,6,6
+1932-10-22,Arizona State,BIAA,Ted Shipkey,A,Arizona,BIAA,Gus Farwick,L,6,20
+1932-11-05,Arizona State,BIAA,Ted Shipkey,A,New Mexico State,BIAA,Gerald Hines,W,7,6
+1932-11-19,Arizona State,BIAA,Ted Shipkey,H,Northern Arizona,BIAA,Rudy Lavik,L,6,20
+1932-12-03,Arizona State,BIAA,Ted Shipkey,H,New Mexico,BIAA,,W,43,0
+1932-09-24,Utah,RMC,Ike Armstrong,A,USC,PCC,Howard Jones,L,0,35
+1932-10-01,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,54,6
+1932-10-15,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,29,0
+1932-10-29,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,16,0
+1932-11-05,Utah,RMC,Ike Armstrong,A,Colorado,RMC,William Saunders,W,14,0
+1932-11-12,Utah,RMC,Ike Armstrong,H,Denver,RMC,Percy Locey,W,27,0
+1932-11-19,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,16,0
+1932-10-01,Northern Colorado,RMC,J.W. Hancock,H,Colorado State,RMC,Harry Hughes,L,0,12
+1932-10-15,Northern Colorado,RMC,J.W. Hancock,H,New Mexico,BIAA,,W,30,6
+1932-10-22,Northern Colorado,RMC,J.W. Hancock,A,Brigham Young,RMC,Ott Romney,L,2,20
+1932-11-11,Northern Colorado,RMC,J.W. Hancock,A,Wyoming,RMC,John Rhodes,T,0,0
+1932-11-19,Northern Colorado,RMC,J.W. Hancock,H,Colorado Mines,RMC,George Allen,W,14,6
+1932-11-26,Northern Colorado,RMC,J.W. Hancock,A,Western State,RMC,Tefler Meade,W,19,6
+1932-10-01,Villanova,Ind,Harry Stuhldreher,H,South Carolina,Southern,Billy Laval,L,6,7
+1932-10-29,Villanova,Ind,Harry Stuhldreher,N,Bucknell,Ind,Carl Snavely,W,13,0
+1932-11-12,Villanova,Ind,Harry Stuhldreher,H,Detroit Mercy,Ind,Gus Dorais,L,12,28
+1932-11-19,Villanova,Ind,Harry Stuhldreher,A,Temple,Ind,Henry Miller,W,7,0
+1932-09-24,Washington & Lee,Southern,Jimmy DeHart,H,George Washington,Ind,James Pixlee,L,0,18
+1932-10-01,Washington & Lee,Southern,Jimmy DeHart,A,Davidson,Ind,,L,0,7
+1932-10-08,Washington & Lee,Southern,Jimmy DeHart,A,Navy,Ind,Rip Miller,L,0,33
+1932-10-15,Washington & Lee,Southern,Jimmy DeHart,A,Kentucky,Southern,Harry Gamage,L,7,53
+1932-10-22,Washington & Lee,Southern,Jimmy DeHart,A,William & Mary,Ind,John Kellison,L,0,7
+1932-10-29,Washington & Lee,Southern,Jimmy DeHart,H,Virginia Tech,Southern,Henry Redd,L,6,32
+1932-11-05,Washington & Lee,Southern,Jimmy DeHart,A,Virginia,Southern,Fred Dawson,W,7,0
+1932-11-12,Washington & Lee,Southern,Jimmy DeHart,N,West Virginia,Ind,Greasy Neale,L,0,19
+1932-11-19,Washington & Lee,Southern,Jimmy DeHart,A,Maryland,Southern,Curley Byrd,L,0,6
+1932-11-25,Washington & Lee,Southern,Jimmy DeHart,A,Duke,Southern,Wallace Wade,L,0,13
+1932-10-15,Syracuse,Ind,Vic Hanson,H,SMU,SWC,Ray Morrison,L,6,16
+1932-10-22,Syracuse,Ind,Vic Hanson,A,Penn State,Ind,Bob Higgins,W,12,6
+1932-10-29,Syracuse,Ind,Vic Hanson,H,Michigan State,Ind,Jimmy Crowley,L,13,27
+1932-11-12,Syracuse,Ind,Vic Hanson,H,Colgate,Ind,Andrew Kerr,L,0,16
+1932-11-19,Syracuse,Ind,Vic Hanson,A,Columbia,Ind,Lou Little,T,0,0
+1932-10-08,Arizona,BIAA,Gus Farwick,H,New Mexico State,BIAA,Gerald Hines,W,12,7
+1932-10-14,Arizona,BIAA,Gus Farwick,A,Texas Tech,BIAA,Pete Cawthon,L,0,21
+1932-10-22,Arizona,BIAA,Gus Farwick,H,Arizona State,BIAA,Ted Shipkey,W,20,6
+1932-10-29,Arizona,BIAA,Gus Farwick,N,Northern Arizona,BIAA,Rudy Lavik,L,6,7
+1932-11-11,Arizona,BIAA,Gus Farwick,H,New Mexico,BIAA,,W,13,6
+1932-11-26,Arizona,BIAA,Gus Farwick,H,Oklahoma State,MVC,Pappy Waldorf,L,6,13
+1932-10-15,Georgetown,Ind,Tommy Mills,A,New York University,Ind,Howard Cann,L,0,39
+1932-10-28,Georgetown,Ind,Tommy Mills,A,Detroit Mercy,Ind,Gus Dorais,L,0,13
+1932-11-05,Georgetown,Ind,Tommy Mills,A,West Virginia,Ind,Greasy Neale,L,0,19
+1932-11-19,Georgetown,Ind,Tommy Mills,H,Bucknell,Ind,Carl Snavely,T,6,6
+1932-12-03,Georgetown,Ind,Tommy Mills,A,Carnegie Mellon,Ind,Walter Steffen,L,0,51
+1932-10-01,Montana,PCC,Bunny Oakes,A,Washington,PCC,James Phelan,L,13,26
+1932-10-15,Montana,PCC,Bunny Oakes,H,Idaho,PCC,Leo Calland,L,6,19
+1932-10-22,Montana,PCC,Bunny Oakes,A,Gonzaga,Ind,Mike Pecarovich,L,13,56
+1932-10-29,Montana,PCC,Bunny Oakes,A,Washington State,PCC,O.E. Hollingbery,L,0,31
+1932-11-05,Montana,PCC,Bunny Oakes,N,Montana State,RMC,Schubert Dyche,L,7,19
+1932-11-12,Montana,PCC,Bunny Oakes,H,Oregon State,PCC,Paul Schissler,L,6,35
+1932-11-19,Montana,PCC,Bunny Oakes,A,UCLA,PCC,William Spaulding,L,0,32
+1932-10-15,Penn State,Ind,Bob Higgins,A,Harvard,Ind,,L,13,46
+1932-10-22,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Vic Hanson,L,6,12
+1932-10-29,Penn State,Ind,Bob Higgins,A,Colgate,Ind,Andrew Kerr,L,0,31
+1932-11-03,Penn State,Ind,Bob Higgins,H,Sewanee,Southern,Heck Clark,W,18,6
+1932-11-12,Penn State,Ind,Bob Higgins,A,Temple,Ind,Henry Miller,L,12,13
+1932-10-08,Princeton,Ind,Fritz Crisler,A,Columbia,Ind,Lou Little,L,7,20
+1932-10-15,Princeton,Ind,Fritz Crisler,H,Cornell,Ind,Gilmour Dobie,T,0,0
+1932-10-22,Princeton,Ind,Fritz Crisler,H,Navy,Ind,Rip Miller,T,0,0
+1932-10-29,Princeton,Ind,Fritz Crisler,A,Michigan,Western,Harry Kipke,L,7,14
+1932-11-12,Princeton,Ind,Fritz Crisler,H,Yale,Ind,Mal Stevens,T,7,7
+1932-10-01,Vanderbilt,Southern,Dan McGugin,A,North Carolina,Southern,Chuck Collins,W,39,7
+1932-10-15,Vanderbilt,Southern,Dan McGugin,A,Tulane,Southern,Ted Cox,T,6,6
+1932-10-22,Vanderbilt,Southern,Dan McGugin,H,Georgia,Southern,Harry Mehre,W,12,6
+1932-10-29,Vanderbilt,Southern,Dan McGugin,H,Georgia Tech,Southern,William Alexander,W,12,0
+1932-11-05,Vanderbilt,Southern,Dan McGugin,A,Maryland,Southern,Curley Byrd,W,13,0
+1932-11-12,Vanderbilt,Southern,Dan McGugin,H,Tennessee,Southern,Bob Neyland,T,0,0
+1932-11-24,Vanderbilt,Southern,Dan McGugin,A,Alabama,Southern,Frank Thomas,L,0,20
+1932-10-01,Colorado College,RMC,W.T. VandeGraaff,A,Utah,RMC,Ike Armstrong,L,6,54
+1932-10-07,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Percy Locey,L,6,15
+1932-10-22,Colorado College,RMC,W.T. VandeGraaff,A,Wyoming,RMC,John Rhodes,W,15,6
+1932-10-29,Colorado College,RMC,W.T. VandeGraaff,A,Colorado State,RMC,Harry Hughes,W,3,0
+1932-11-05,Colorado College,RMC,W.T. VandeGraaff,H,Western State,RMC,Tefler Meade,W,31,0
+1932-11-12,Colorado College,RMC,W.T. VandeGraaff,H,Colorado,RMC,William Saunders,W,12,0
+1932-11-26,Colorado College,RMC,W.T. VandeGraaff,H,Colorado Mines,RMC,George Allen,W,20,7
+1932-09-24,Kentucky,Southern,Harry Gamage,H,Virginia Military Institute,Southern,,W,23,0
+1932-10-01,Kentucky,Southern,Harry Gamage,H,Sewanee,Southern,Heck Clark,W,18,0
+1932-10-08,Kentucky,Southern,Harry Gamage,A,Georgia Tech,Southern,William Alexander,W,12,6
+1932-10-15,Kentucky,Southern,Harry Gamage,H,Washington & Lee,Southern,Jimmy DeHart,W,53,7
+1932-10-22,Kentucky,Southern,Harry Gamage,A,Virginia Tech,Southern,Henry Redd,L,0,7
+1932-10-29,Kentucky,Southern,Harry Gamage,H,Alabama,Southern,Frank Thomas,L,7,12
+1932-11-05,Kentucky,Southern,Harry Gamage,A,Duke,Southern,Wallace Wade,L,0,13
+1932-11-12,Kentucky,Southern,Harry Gamage,H,Tulane,Southern,Ted Cox,L,3,6
+1932-11-24,Kentucky,Southern,Harry Gamage,A,Tennessee,Southern,Bob Neyland,L,0,26
+1932-09-24,California,PCC,William Ingram,H,Santa Clara,Ind,,L,0,12
+1932-10-08,California,PCC,William Ingram,H,Saint Mary's (CA),Ind,Slip Madigan,T,12,12
+1932-10-15,California,PCC,William Ingram,H,Washington State,PCC,O.E. Hollingbery,L,2,7
+1932-10-22,California,PCC,William Ingram,A,Washington,PCC,James Phelan,W,7,6
+1932-11-05,California,PCC,William Ingram,A,USC,PCC,Howard Jones,L,7,27
+1932-11-12,California,PCC,William Ingram,H,Idaho,PCC,Leo Calland,W,21,6
+1932-11-19,California,PCC,William Ingram,H,Stanford,PCC,Pop Warner,T,0,0
+1932-12-17,California,PCC,William Ingram,H,Georgia Tech,Southern,William Alexander,W,27,7
+1932-10-08,Florida,Southern,Charlie Bachman,H,Sewanee,Southern,Heck Clark,W,19,0
+1932-10-15,Florida,Southern,Charlie Bachman,H,Citadel,Ind,Tatum Gressette,W,27,7
+1932-10-22,Florida,Southern,Charlie Bachman,H,North Carolina State,Southern,,L,6,17
+1932-10-29,Florida,Southern,Charlie Bachman,A,Georgia,Southern,Harry Mehre,L,12,33
+1932-11-04,Florida,Southern,Charlie Bachman,A,North Carolina,Southern,Chuck Collins,L,13,18
+1932-11-12,Florida,Southern,Charlie Bachman,A,Auburn,Southern,Chet Wynne,L,6,21
+1932-11-19,Florida,Southern,Charlie Bachman,H,Georgia Tech,Southern,William Alexander,L,0,6
+1932-12-03,Florida,Southern,Charlie Bachman,H,Tennessee,Southern,Bob Neyland,L,13,32
+1932-12-17,Florida,Southern,Charlie Bachman,H,UCLA,PCC,William Spaulding,W,12,2
+1932-09-17,Gonzaga,Ind,Mike Pecarovich,H,Oregon State,PCC,Paul Schissler,L,16,19
+1932-09-24,Gonzaga,Ind,Mike Pecarovich,A,Washington,PCC,James Phelan,L,7,19
+1932-10-08,Gonzaga,Ind,Mike Pecarovich,A,Idaho,PCC,Leo Calland,W,20,7
+1932-10-15,Gonzaga,Ind,Mike Pecarovich,H,San Francisco,Ind,Lawrence Lewis,W,6,0
+1932-10-22,Gonzaga,Ind,Mike Pecarovich,H,Montana,PCC,Bunny Oakes,W,56,13
+1932-10-29,Gonzaga,Ind,Mike Pecarovich,A,Oregon,PCC,Prink Callison,L,0,13
+1932-09-24,Stanford,PCC,Pop Warner,A,San Francisco,Ind,Lawrence Lewis,W,20,7
+1932-10-01,Stanford,PCC,Pop Warner,A,Oregon State,PCC,Paul Schissler,W,27,0
+1932-10-08,Stanford,PCC,Pop Warner,H,Santa Clara,Ind,,W,14,0
+1932-10-22,Stanford,PCC,Pop Warner,H,USC,PCC,Howard Jones,L,0,13
+1932-10-29,Stanford,PCC,Pop Warner,A,UCLA,PCC,William Spaulding,L,6,13
+1932-11-05,Stanford,PCC,Pop Warner,H,Washington,PCC,James Phelan,L,13,18
+1932-11-19,Stanford,PCC,Pop Warner,A,California,PCC,William Ingram,T,0,0
+1932-11-26,Stanford,PCC,Pop Warner,A,Pitt,Ind,Jock Sutherland,L,0,7
+1932-10-08,Creighton,MVC,,H,Marquette,Ind,Frank Murray,T,0,0
+1932-10-14,Creighton,MVC,,A,Oklahoma State,MVC,Pappy Waldorf,L,7,18
+1932-10-22,Creighton,MVC,,H,Drake,MVC,,W,12,0
+1932-10-29,Creighton,MVC,,A,Rice,SWC,Jack Meagher,L,7,41
+1932-11-05,Creighton,MVC,,H,Washington (MO),MVC,Jimmy Conzelman,W,40,0
+1932-11-11,Creighton,MVC,,A,Grinnell,MVC,Lester Watt,W,9,6
+1932-11-19,Creighton,MVC,,H,Wyoming,RMC,John Rhodes,W,34,0
+1932-10-01,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,L,0,20
+1932-10-15,Washington State,PCC,O.E. Hollingbery,A,California,PCC,William Ingram,W,7,2
+1932-10-22,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Paul Schissler,W,7,6
+1932-10-29,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Bunny Oakes,W,31,0
+1932-11-05,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Leo Calland,W,12,0
+1932-11-12,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,T,0,0
+1932-11-24,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,William Spaulding,W,3,0
+1932-10-01,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,6,28
+1932-10-15,Western State,RMC,Tefler Meade,A,Utah State,RMC,,L,0,39
+1932-11-05,Western State,RMC,Tefler Meade,A,Colorado College,RMC,W.T. VandeGraaff,L,0,31
+1932-11-12,Western State,RMC,Tefler Meade,A,Colorado Mines,RMC,George Allen,L,0,13
+1932-11-26,Western State,RMC,Tefler Meade,H,Northern Colorado,RMC,J.W. Hancock,L,6,19
+1932-10-15,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Dick Hanley,L,0,26
+1932-10-22,Illinois,Western,Robert Zuppke,A,Michigan,Western,Harry Kipke,L,0,32
+1932-10-29,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,W,13,7
+1932-11-05,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,Clarence Spears,L,12,20
+1932-11-12,Illinois,Western,Robert Zuppke,H,Indiana,Western,Billy Hayes,W,18,6
+1932-11-19,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Sam Willaman,L,0,3
+1932-10-15,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Fred Thomsen,L,6,20
+1932-10-22,Baylor,SWC,Morley Jennings,H,Texas A&M,SWC,Madison Bell,T,0,0
+1932-10-29,Baylor,SWC,Morley Jennings,A,Texas Christian,SWC,Francis Schmidt,L,0,27
+1932-11-05,Baylor,SWC,Morley Jennings,H,Texas,SWC,Clyde Littlefield,L,0,19
+1932-11-11,Baylor,SWC,Morley Jennings,A,Texas Tech,BIAA,Pete Cawthon,L,2,14
+1932-11-19,Baylor,SWC,Morley Jennings,H,SMU,SWC,Ray Morrison,W,19,0
+1932-11-26,Baylor,SWC,Morley Jennings,H,Rice,SWC,Jack Meagher,L,0,12
+1932-10-01,SMU,SWC,Ray Morrison,A,Texas Tech,BIAA,Pete Cawthon,L,0,6
+1932-10-08,SMU,SWC,Ray Morrison,H,Rice,SWC,Jack Meagher,L,0,13
+1932-10-15,SMU,SWC,Ray Morrison,A,Syracuse,Ind,Vic Hanson,W,16,6
+1932-10-22,SMU,SWC,Ray Morrison,H,Centenary (LA),Ind,Homer Norton,L,7,18
+1932-10-29,SMU,SWC,Ray Morrison,A,Texas,SWC,Clyde Littlefield,L,6,14
+1932-11-05,SMU,SWC,Ray Morrison,H,Texas A&M,SWC,Madison Bell,T,0,0
+1932-11-12,SMU,SWC,Ray Morrison,H,Arkansas,SWC,Fred Thomsen,W,13,7
+1932-11-19,SMU,SWC,Ray Morrison,A,Baylor,SWC,Morley Jennings,L,0,19
+1932-11-26,SMU,SWC,Ray Morrison,H,Texas Christian,SWC,Francis Schmidt,L,0,8
+1932-12-03,SMU,SWC,Ray Morrison,H,Nebraska,Big 6,Dana Bible,L,14,21
+1932-10-01,Georgia,Southern,Harry Mehre,H,Virginia Tech,Southern,Henry Redd,L,6,7
+1932-10-08,Georgia,Southern,Harry Mehre,A,Tulane,Southern,Ted Cox,L,25,34
+1932-10-15,Georgia,Southern,Harry Mehre,H,North Carolina,Southern,Chuck Collins,T,6,6
+1932-10-22,Georgia,Southern,Harry Mehre,A,Vanderbilt,Southern,Dan McGugin,L,6,12
+1932-10-29,Georgia,Southern,Harry Mehre,H,Florida,Southern,Charlie Bachman,W,33,12
+1932-11-05,Georgia,Southern,Harry Mehre,A,New York University,Ind,Howard Cann,L,7,13
+1932-11-11,Georgia,Southern,Harry Mehre,A,Clemson,Southern,Jess Neely,W,32,18
+1932-11-19,Georgia,Southern,Harry Mehre,N,Auburn,Southern,Chet Wynne,L,7,14
+1932-11-26,Georgia,Southern,Harry Mehre,A,Georgia Tech,Southern,William Alexander,T,0,0
+1932-10-01,Maryland,Southern,Curley Byrd,A,Virginia,Southern,Fred Dawson,L,6,7
+1932-10-08,Maryland,Southern,Curley Byrd,H,Virginia Tech,Southern,Henry Redd,L,0,23
+1932-10-15,Maryland,Southern,Curley Byrd,A,Duke,Southern,Wallace Wade,L,0,34
+1932-10-29,Maryland,Southern,Curley Byrd,N,Virginia Military Institute,Southern,,W,12,7
+1932-11-05,Maryland,Southern,Curley Byrd,H,Vanderbilt,Southern,Dan McGugin,L,0,13
+1932-11-12,Maryland,Southern,Curley Byrd,N,Navy,Ind,Rip Miller,L,7,28
+1932-11-19,Maryland,Southern,Curley Byrd,H,Washington & Lee,Southern,Jimmy DeHart,W,6,0
+1932-10-01,Virginia,Southern,Fred Dawson,H,Maryland,Southern,Curley Byrd,W,7,6
+1932-10-15,Virginia,Southern,Fred Dawson,A,Columbia,Ind,Lou Little,L,6,22
+1932-10-22,Virginia,Southern,Fred Dawson,A,Virginia Military Institute,Southern,,L,4,6
+1932-11-05,Virginia,Southern,Fred Dawson,H,Washington & Lee,Southern,Jimmy DeHart,L,0,7
+1932-11-12,Virginia,Southern,Fred Dawson,A,Virginia Tech,Southern,Henry Redd,L,0,13
+1932-11-24,Virginia,Southern,Fred Dawson,H,North Carolina,Southern,Chuck Collins,W,14,7
+1932-09-30,Idaho,PCC,Leo Calland,A,UCLA,PCC,William Spaulding,L,0,6
+1932-10-08,Idaho,PCC,Leo Calland,H,Gonzaga,Ind,Mike Pecarovich,L,7,20
+1932-10-15,Idaho,PCC,Leo Calland,A,Montana,PCC,Bunny Oakes,W,19,6
+1932-10-22,Idaho,PCC,Leo Calland,H,Oregon,PCC,Prink Callison,L,0,32
+1932-11-05,Idaho,PCC,Leo Calland,A,Washington State,PCC,O.E. Hollingbery,L,0,12
+1932-11-12,Idaho,PCC,Leo Calland,A,California,PCC,William Ingram,L,6,21
+1932-11-26,Idaho,PCC,Leo Calland,H,Utah State,RMC,,W,33,0
+1932-10-08,Northern Arizona,BIAA,Rudy Lavik,A,New Mexico,BIAA,,L,0,6
+1932-10-15,Northern Arizona,BIAA,Rudy Lavik,H,Arizona State,BIAA,Ted Shipkey,T,6,6
+1932-10-29,Northern Arizona,BIAA,Rudy Lavik,N,Arizona,BIAA,Gus Farwick,W,7,6
+1932-11-12,Northern Arizona,BIAA,Rudy Lavik,A,New Mexico State,BIAA,Gerald Hines,L,0,7
+1932-11-19,Northern Arizona,BIAA,Rudy Lavik,A,Arizona State,BIAA,Ted Shipkey,W,20,6
+1932-10-08,Citadel,Ind,Tatum Gressette,H,Virginia Military Institute,Southern,,W,12,6
+1932-10-15,Citadel,Ind,Tatum Gressette,A,Florida,Southern,Charlie Bachman,L,7,27
+1932-10-22,Citadel,Ind,Tatum Gressette,H,Davidson,Ind,,W,7,6
+1932-11-05,Citadel,Ind,Tatum Gressette,H,Clemson,Southern,Jess Neely,L,6,18
+1932-11-19,Citadel,Ind,Tatum Gressette,A,South Carolina,Southern,Billy Laval,L,0,19
+1932-10-08,Oklahoma,Big 6,Lewie Hardage,A,Kansas,Big 6,Bill Hargiss,W,21,6
+1932-10-15,Oklahoma,Big 6,Lewie Hardage,N,Texas,SWC,Clyde Littlefield,L,10,17
+1932-10-22,Oklahoma,Big 6,Lewie Hardage,H,Kansas State,Big 6,Bo McMillin,W,20,13
+1932-10-29,Oklahoma,Big 6,Lewie Hardage,A,Oklahoma State,MVC,Pappy Waldorf,L,0,7
+1932-11-05,Oklahoma,Big 6,Lewie Hardage,H,Missouri,Big 6,Frank Carideo,L,6,14
+1932-11-12,Oklahoma,Big 6,Lewie Hardage,A,Iowa State,Big 6,George Veenker,W,19,12
+1932-11-19,Oklahoma,Big 6,Lewie Hardage,H,Nebraska,Big 6,Dana Bible,L,0,5
+1932-11-24,Oklahoma,Big 6,Lewie Hardage,A,George Washington,Ind,James Pixlee,T,7,7
+1932-10-01,Virginia Tech,Southern,Henry Redd,A,Georgia,Southern,Harry Mehre,W,7,6
+1932-10-08,Virginia Tech,Southern,Henry Redd,A,Maryland,Southern,Curley Byrd,W,23,0
+1932-10-15,Virginia Tech,Southern,Henry Redd,N,William & Mary,Ind,John Kellison,W,7,0
+1932-10-22,Virginia Tech,Southern,Henry Redd,H,Kentucky,Southern,Harry Gamage,W,7,0
+1932-10-29,Virginia Tech,Southern,Henry Redd,A,Washington & Lee,Southern,Jimmy DeHart,W,32,6
+1932-11-05,Virginia Tech,Southern,Henry Redd,A,Alabama,Southern,Frank Thomas,L,6,9
+1932-11-12,Virginia Tech,Southern,Henry Redd,H,Virginia,Southern,Fred Dawson,W,13,0
+1932-11-24,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,,W,26,0
+1932-10-08,Arkansas,SWC,Fred Thomsen,A,Texas Christian,SWC,Francis Schmidt,L,12,34
+1932-10-15,Arkansas,SWC,Fred Thomsen,H,Baylor,SWC,Morley Jennings,W,20,6
+1932-10-22,Arkansas,SWC,Fred Thomsen,N,LSU,Southern,Biff Jones,L,0,14
+1932-11-05,Arkansas,SWC,Fred Thomsen,H,Rice,SWC,Jack Meagher,L,7,12
+1932-11-12,Arkansas,SWC,Fred Thomsen,A,SMU,SWC,Ray Morrison,L,7,13
+1932-11-18,Arkansas,SWC,Fred Thomsen,H,Texas,SWC,Clyde Littlefield,L,0,34
+1932-11-26,Arkansas,SWC,Fred Thomsen,A,Centenary (LA),Ind,Homer Norton,T,0,0
+1932-10-01,Clemson,Southern,Jess Neely,A,Georgia Tech,Southern,William Alexander,L,14,32
+1932-10-08,Clemson,Southern,Jess Neely,A,North Carolina State,Southern,,L,0,13
+1932-10-20,Clemson,Southern,Jess Neely,A,South Carolina,Southern,Billy Laval,L,0,14
+1932-10-29,Clemson,Southern,Jess Neely,A,Davidson,Ind,,T,7,7
+1932-11-05,Clemson,Southern,Jess Neely,A,Citadel,Ind,Tatum Gressette,W,18,6
+1932-11-11,Clemson,Southern,Jess Neely,H,Georgia,Southern,Harry Mehre,L,18,32
+1932-09-24,South Carolina,Southern,Billy Laval,H,Sewanee,Southern,Heck Clark,W,7,3
+1932-10-01,South Carolina,Southern,Billy Laval,A,Villanova,Ind,Harry Stuhldreher,W,7,6
+1932-10-08,South Carolina,Southern,Billy Laval,N,Wake Forest,Ind,F.S. Miller,L,0,6
+1932-10-20,South Carolina,Southern,Billy Laval,H,Clemson,Southern,Jess Neely,W,14,0
+1932-10-29,South Carolina,Southern,Billy Laval,A,Tulane,Southern,Ted Cox,L,0,6
+1932-11-05,South Carolina,Southern,Billy Laval,H,LSU,Southern,Biff Jones,L,0,6
+1932-11-19,South Carolina,Southern,Billy Laval,H,Citadel,Ind,Tatum Gressette,W,19,0
+1932-11-24,South Carolina,Southern,Billy Laval,A,North Carolina State,Southern,,T,7,7
+1932-12-03,South Carolina,Southern,Billy Laval,A,Auburn,Southern,Chet Wynne,T,20,20
+1932-09-24,Washington,PCC,James Phelan,H,Gonzaga,Ind,Mike Pecarovich,W,19,7
+1932-10-01,Washington,PCC,James Phelan,H,Montana,PCC,Bunny Oakes,W,26,13
+1932-10-08,Washington,PCC,James Phelan,A,Oregon,PCC,Prink Callison,T,0,0
+1932-10-22,Washington,PCC,James Phelan,H,California,PCC,William Ingram,L,6,7
+1932-11-05,Washington,PCC,James Phelan,A,Stanford,PCC,Pop Warner,W,18,13
+1932-11-12,Washington,PCC,James Phelan,H,Washington State,PCC,O.E. Hollingbery,T,0,0
+1932-11-24,Washington,PCC,James Phelan,H,USC,PCC,Howard Jones,L,6,9
+1932-12-03,Washington,PCC,James Phelan,A,UCLA,PCC,William Spaulding,W,19,0
+1932-09-24,Santa Clara,Ind,,A,California,PCC,William Ingram,W,12,0
+1932-10-01,Santa Clara,Ind,,A,Oregon,PCC,Prink Callison,L,0,7
+1932-10-08,Santa Clara,Ind,,A,Stanford,PCC,Pop Warner,L,0,14
+1932-10-22,Santa Clara,Ind,,A,Saint Mary's (CA),Ind,Slip Madigan,L,13,14
+1932-11-12,Santa Clara,Ind,,H,San Francisco,Ind,Lawrence Lewis,W,7,0
+1932-10-01,Utah State,RMC,,H,Montana State,RMC,Schubert Dyche,W,26,0
+1932-10-08,Utah State,RMC,,A,Colorado,RMC,William Saunders,L,7,26
+1932-10-15,Utah State,RMC,,H,Western State,RMC,Tefler Meade,W,39,0
+1932-10-29,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,16
+1932-11-05,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,W,13,12
+1932-11-19,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,L,6,18
+1932-11-26,Utah State,RMC,,A,Idaho,PCC,Leo Calland,L,0,33
+1932-10-01,Missouri,Big 6,Frank Carideo,A,Northwestern,Western,Dick Hanley,L,0,27
+1932-10-08,Missouri,Big 6,Frank Carideo,H,Texas,SWC,Clyde Littlefield,L,0,65
+1932-10-15,Missouri,Big 6,Frank Carideo,A,Kansas State,Big 6,Bo McMillin,L,0,25
+1932-10-22,Missouri,Big 6,Frank Carideo,H,Iowa State,Big 6,George Veenker,T,0,0
+1932-10-29,Missouri,Big 6,Frank Carideo,H,Washington (MO),MVC,Jimmy Conzelman,L,6,14
+1932-11-05,Missouri,Big 6,Frank Carideo,A,Oklahoma,Big 6,Lewie Hardage,W,14,6
+1932-11-12,Missouri,Big 6,Frank Carideo,H,Kansas,Big 6,Bill Hargiss,L,0,7
+1932-11-24,Missouri,Big 6,Frank Carideo,A,Nebraska,Big 6,Dana Bible,L,6,21
+1932-12-03,Missouri,Big 6,Frank Carideo,A,Saint Louis,Ind,,L,6,19
+1932-09-23,Montana State,RMC,Schubert Dyche,N,Brigham Young,RMC,Ott Romney,L,0,6
+1932-10-01,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,0,26
+1932-10-15,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,John Rhodes,L,7,13
+1932-11-05,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Bunny Oakes,W,19,7
+1932-09-24,Denver,RMC,Percy Locey,H,Colorado Mines,RMC,George Allen,W,13,7
+1932-09-30,Denver,RMC,Percy Locey,H,Kansas,Big 6,Bill Hargiss,L,12,13
+1932-10-07,Denver,RMC,Percy Locey,H,Colorado College,RMC,W.T. VandeGraaff,W,15,6
+1932-10-15,Denver,RMC,Percy Locey,H,Colorado State,RMC,Harry Hughes,T,7,7
+1932-10-22,Denver,RMC,Percy Locey,H,Temple,Ind,Henry Miller,L,0,14
+1932-11-05,Denver,RMC,Percy Locey,H,Wyoming,RMC,John Rhodes,W,7,0
+1932-11-12,Denver,RMC,Percy Locey,A,Utah,RMC,Ike Armstrong,L,0,27
+1932-11-24,Denver,RMC,Percy Locey,H,Colorado,RMC,William Saunders,W,6,0
+1932-10-07,Washington & Jefferson,Ind,Leroy Day,A,Detroit Mercy,Ind,Gus Dorais,L,0,7
+1932-10-15,Washington & Jefferson,Ind,Leroy Day,A,Carnegie Mellon,Ind,Walter Steffen,T,6,6
+1932-10-29,Washington & Jefferson,Ind,Leroy Day,A,Lafayette,Ind,Herb McCracken,W,7,0
+1932-11-12,Washington & Jefferson,Ind,Leroy Day,H,Bucknell,Ind,Carl Snavely,W,14,0
+1932-11-19,Washington & Jefferson,Ind,Leroy Day,H,Marquette,Ind,Frank Murray,L,0,6
+1932-11-26,Washington & Jefferson,Ind,Leroy Day,N,West Virginia,Ind,Greasy Neale,W,13,0
+1932-11-05,Butler,MVC,Fred Mackey,H,Drake,MVC,,T,0,0
+1932-10-01,Wisconsin,Western,Clarence Spears,H,Marquette,Ind,Frank Murray,W,7,2
+1932-10-08,Wisconsin,Western,Clarence Spears,H,Iowa,Western,Ossie Solem,W,34,0
+1932-10-15,Wisconsin,Western,Clarence Spears,A,Purdue,Western,Noble Kizer,L,6,7
+1932-10-29,Wisconsin,Western,Clarence Spears,A,Ohio State,Western,Sam Willaman,T,7,7
+1932-11-05,Wisconsin,Western,Clarence Spears,H,Illinois,Western,Robert Zuppke,W,20,12
+1932-11-12,Wisconsin,Western,Clarence Spears,H,Minnesota,Western,Bernie Bierman,W,20,13
+1932-11-19,Wisconsin,Western,Clarence Spears,A,Chicago,Western,Amos Alonzo Stagg,W,18,7
+1932-10-08,Bucknell,Ind,Carl Snavely,A,Fordham,Ind,Frank Cavanaugh,L,0,30
+1932-10-15,Bucknell,Ind,Carl Snavely,A,Temple,Ind,Henry Miller,L,0,12
+1932-10-22,Bucknell,Ind,Carl Snavely,H,Lafayette,Ind,Herb McCracken,W,14,6
+1932-10-29,Bucknell,Ind,Carl Snavely,N,Villanova,Ind,Harry Stuhldreher,L,0,13
+1932-11-12,Bucknell,Ind,Carl Snavely,A,Washington & Jefferson,Ind,Leroy Day,L,0,14
+1932-11-19,Bucknell,Ind,Carl Snavely,A,Georgetown,Ind,Tommy Mills,T,6,6
+1932-09-24,USC,PCC,Howard Jones,H,Utah,RMC,Ike Armstrong,W,35,0
+1932-10-01,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,W,20,0
+1932-10-08,USC,PCC,Howard Jones,H,Oregon State,PCC,Paul Schissler,W,10,0
+1932-10-22,USC,PCC,Howard Jones,A,Stanford,PCC,Pop Warner,W,13,0
+1932-11-05,USC,PCC,Howard Jones,H,California,PCC,William Ingram,W,27,7
+1932-11-12,USC,PCC,Howard Jones,H,Oregon,PCC,Prink Callison,W,33,0
+1932-11-24,USC,PCC,Howard Jones,A,Washington,PCC,James Phelan,W,9,6
+1932-12-10,USC,PCC,Howard Jones,H,Notre Dame,Ind,Hunk Anderson,W,13,0
+1933-01-02,USC,PCC,Howard Jones,H,Pitt,Ind,Jock Sutherland,W,35,0
+1932-09-24,Colorado Mines,RMC,George Allen,A,Denver,RMC,Percy Locey,L,7,13
+1932-10-01,Colorado Mines,RMC,George Allen,H,Colorado,RMC,William Saunders,L,0,31
+1932-10-08,Colorado Mines,RMC,George Allen,A,Colorado State,RMC,Harry Hughes,L,0,39
+1932-10-22,Colorado Mines,RMC,George Allen,H,Texas Tech,BIAA,Pete Cawthon,L,0,21
+1932-11-12,Colorado Mines,RMC,George Allen,H,Western State,RMC,Tefler Meade,W,13,0
+1932-11-19,Colorado Mines,RMC,George Allen,A,Northern Colorado,RMC,J.W. Hancock,L,6,14
+1932-11-26,Colorado Mines,RMC,George Allen,A,Colorado College,RMC,W.T. VandeGraaff,L,7,20
+1932-10-01,North Carolina State,Southern,,A,Richmond,Ind,Frank Dobson,W,9,0
+1932-10-08,North Carolina State,Southern,,H,Clemson,Southern,Jess Neely,W,13,0
+1932-10-15,North Carolina State,Southern,,H,Wake Forest,Ind,F.S. Miller,T,0,0
+1932-10-22,North Carolina State,Southern,,A,Florida,Southern,Charlie Bachman,W,17,6
+1932-10-29,North Carolina State,Southern,,A,North Carolina,Southern,Chuck Collins,L,0,13
+1932-11-05,North Carolina State,Southern,,N,Davidson,Ind,,W,7,3
+1932-11-12,North Carolina State,Southern,,H,Duke,Southern,Wallace Wade,W,6,0
+1932-11-24,North Carolina State,Southern,,H,South Carolina,Southern,Billy Laval,T,7,7
+1932-10-01,Centenary (LA),Ind,Homer Norton,A,Texas,SWC,Clyde Littlefield,W,13,6
+1932-10-15,Centenary (LA),Ind,Homer Norton,H,Ole Miss,Southern,,W,13,6
+1932-10-22,Centenary (LA),Ind,Homer Norton,A,SMU,SWC,Ray Morrison,W,18,7
+1932-10-29,Centenary (LA),Ind,Homer Norton,H,Texas A&M,SWC,Madison Bell,W,7,0
+1932-11-12,Centenary (LA),Ind,Homer Norton,H,LSU,Southern,Biff Jones,W,6,0
+1932-11-26,Centenary (LA),Ind,Homer Norton,H,Arkansas,SWC,Fred Thomsen,T,0,0
+1932-10-01,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Jimmy Crowley,W,26,0
+1932-10-08,Michigan,Western,Harry Kipke,H,Northwestern,Western,Dick Hanley,W,15,6
+1932-10-15,Michigan,Western,Harry Kipke,A,Ohio State,Western,Sam Willaman,W,14,0
+1932-10-22,Michigan,Western,Harry Kipke,H,Illinois,Western,Robert Zuppke,W,32,0
+1932-10-29,Michigan,Western,Harry Kipke,H,Princeton,Ind,Fritz Crisler,W,14,7
+1932-11-05,Michigan,Western,Harry Kipke,A,Indiana,Western,Billy Hayes,W,7,0
+1932-11-12,Michigan,Western,Harry Kipke,H,Chicago,Western,Amos Alonzo Stagg,W,12,0
+1932-11-19,Michigan,Western,Harry Kipke,A,Minnesota,Western,Bernie Bierman,W,3,0
+1932-10-07,Detroit Mercy,Ind,Gus Dorais,H,Washington & Jefferson,Ind,Leroy Day,W,7,0
+1932-10-21,Detroit Mercy,Ind,Gus Dorais,H,West Virginia,Ind,Greasy Neale,W,26,13
+1932-10-28,Detroit Mercy,Ind,Gus Dorais,H,Georgetown,Ind,Tommy Mills,W,13,0
+1932-11-05,Detroit Mercy,Ind,Gus Dorais,H,Marquette,Ind,Frank Murray,W,7,0
+1932-11-12,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,Harry Stuhldreher,W,28,12
+1932-11-19,Detroit Mercy,Ind,Gus Dorais,A,Michigan State,Ind,Jimmy Crowley,L,0,7
+1932-11-24,Detroit Mercy,Ind,Gus Dorais,H,Oregon State,PCC,Paul Schissler,W,14,6
+1932-10-07,Temple,Ind,Henry Miller,H,West Virginia,Ind,Greasy Neale,W,14,13
+1932-10-15,Temple,Ind,Henry Miller,H,Bucknell,Ind,Carl Snavely,W,12,0
+1932-10-22,Temple,Ind,Henry Miller,A,Denver,RMC,Percy Locey,W,14,0
+1932-10-29,Temple,Ind,Henry Miller,A,Carnegie Mellon,Ind,Walter Steffen,T,7,7
+1932-11-12,Temple,Ind,Henry Miller,H,Penn State,Ind,Bob Higgins,W,13,12
+1932-11-19,Temple,Ind,Henry Miller,H,Villanova,Ind,Harry Stuhldreher,L,0,7
+1932-10-08,New Mexico,BIAA,,H,Northern Arizona,BIAA,Rudy Lavik,W,6,0
+1932-10-15,New Mexico,BIAA,,A,Northern Colorado,RMC,J.W. Hancock,L,6,30
+1932-10-22,New Mexico,BIAA,,H,New Mexico State,BIAA,Gerald Hines,T,7,7
+1932-11-11,New Mexico,BIAA,,A,Arizona,BIAA,Gus Farwick,L,6,13
+1932-11-19,New Mexico,BIAA,,H,Texas Tech,BIAA,Pete Cawthon,L,6,39
+1932-12-03,New Mexico,BIAA,,A,Arizona State,BIAA,Ted Shipkey,L,0,43
+1932-10-15,Notre Dame,Ind,Hunk Anderson,H,Drake,MVC,,W,62,0
+1932-10-22,Notre Dame,Ind,Hunk Anderson,H,Carnegie Mellon,Ind,Walter Steffen,W,42,0
+1932-10-29,Notre Dame,Ind,Hunk Anderson,A,Pitt,Ind,Jock Sutherland,L,0,12
+1932-11-05,Notre Dame,Ind,Hunk Anderson,A,Kansas,Big 6,Bill Hargiss,W,24,6
+1932-11-12,Notre Dame,Ind,Hunk Anderson,A,Northwestern,Western,Dick Hanley,W,21,0
+1932-11-19,Notre Dame,Ind,Hunk Anderson,N,Navy,Ind,Rip Miller,W,12,0
+1932-11-26,Notre Dame,Ind,Hunk Anderson,A,Army,Ind,Arthur Parmalee,W,21,0
+1932-12-10,Notre Dame,Ind,Hunk Anderson,A,USC,PCC,Howard Jones,L,0,13
+1932-10-01,Pitt,Ind,Jock Sutherland,A,West Virginia,Ind,Greasy Neale,W,40,0
+1932-10-15,Pitt,Ind,Jock Sutherland,A,Army,Ind,Arthur Parmalee,W,18,13
+1932-10-22,Pitt,Ind,Jock Sutherland,H,Ohio State,Western,Sam Willaman,T,0,0
+1932-10-29,Pitt,Ind,Jock Sutherland,H,Notre Dame,Ind,Hunk Anderson,W,12,0
+1932-11-05,Pitt,Ind,Jock Sutherland,A,Pennsylvania,Ind,Harvey Harman,W,19,12
+1932-11-12,Pitt,Ind,Jock Sutherland,A,Nebraska,Big 6,Dana Bible,T,0,0
+1932-11-19,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Walter Steffen,W,6,0
+1932-11-26,Pitt,Ind,Jock Sutherland,H,Stanford,PCC,Pop Warner,W,7,0
+1933-01-02,Pitt,Ind,Jock Sutherland,A,USC,PCC,Howard Jones,L,0,35
+1932-10-15,Carnegie Mellon,Ind,Walter Steffen,H,Washington & Jefferson,Ind,Leroy Day,T,6,6
+1932-10-22,Carnegie Mellon,Ind,Walter Steffen,A,Notre Dame,Ind,Hunk Anderson,L,0,42
+1932-10-29,Carnegie Mellon,Ind,Walter Steffen,H,Temple,Ind,Henry Miller,T,7,7
+1932-11-19,Carnegie Mellon,Ind,Walter Steffen,A,Pitt,Ind,Jock Sutherland,L,0,6
+1932-11-24,Carnegie Mellon,Ind,Walter Steffen,A,New York University,Ind,Howard Cann,L,6,13
+1932-12-03,Carnegie Mellon,Ind,Walter Steffen,H,Georgetown,Ind,Tommy Mills,W,51,0
+1932-10-08,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,William Ingram,T,12,12
+1932-10-22,Saint Mary's (CA),Ind,Slip Madigan,H,Santa Clara,Ind,,W,14,13
+1932-10-29,Saint Mary's (CA),Ind,Slip Madigan,H,San Francisco,Ind,Lawrence Lewis,W,16,7
+1932-11-05,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Frank Cavanaugh,L,0,14
+1932-11-11,Saint Mary's (CA),Ind,Slip Madigan,A,UCLA,PCC,William Spaulding,W,14,7
+1932-11-24,Saint Mary's (CA),Ind,Slip Madigan,H,Oregon,PCC,Prink Callison,W,7,0
+1932-12-05,Saint Mary's (CA),Ind,Slip Madigan,H,Alabama,Southern,Frank Thomas,L,0,6
+1932-09-24,George Washington,Ind,James Pixlee,A,Washington & Lee,Southern,Jimmy DeHart,W,18,0
+1932-10-08,George Washington,Ind,James Pixlee,H,Alabama,Southern,Frank Thomas,L,6,28
+1932-10-28,George Washington,Ind,James Pixlee,H,Iowa,Western,Ossie Solem,W,21,6
+1932-11-12,George Washington,Ind,James Pixlee,H,William & Mary,Ind,John Kellison,W,12,6
+1932-11-24,George Washington,Ind,James Pixlee,H,Oklahoma,Big 6,Lewie Hardage,T,7,7
+1932-10-07,Wyoming,RMC,John Rhodes,A,Saint Louis,Ind,,L,6,20
+1932-10-15,Wyoming,RMC,John Rhodes,H,Montana State,RMC,Schubert Dyche,W,13,7
+1932-10-22,Wyoming,RMC,John Rhodes,H,Colorado College,RMC,W.T. VandeGraaff,L,6,15
+1932-10-29,Wyoming,RMC,John Rhodes,H,Brigham Young,RMC,Ott Romney,L,0,25
+1932-11-05,Wyoming,RMC,John Rhodes,A,Denver,RMC,Percy Locey,L,0,7
+1932-11-11,Wyoming,RMC,John Rhodes,H,Northern Colorado,RMC,J.W. Hancock,T,0,0
+1932-11-19,Wyoming,RMC,John Rhodes,A,Creighton,MVC,,L,0,34
+1932-11-24,Wyoming,RMC,John Rhodes,A,Colorado State,RMC,Harry Hughes,L,0,23
+1932-09-23,Brigham Young,RMC,Ott Romney,N,Montana State,RMC,Schubert Dyche,W,6,0
+1932-10-01,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,28,6
+1932-10-15,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,29
+1932-10-22,Brigham Young,RMC,Ott Romney,H,Northern Colorado,RMC,J.W. Hancock,W,20,2
+1932-10-29,Brigham Young,RMC,Ott Romney,A,Wyoming,RMC,John Rhodes,W,25,0
+1932-11-19,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,W,18,6
+1932-10-08,Yale,Ind,Mal Stevens,H,Chicago,Western,Amos Alonzo Stagg,T,7,7
+1932-10-15,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,L,2,7
+1932-10-22,Yale,Ind,Mal Stevens,H,Army,Ind,Arthur Parmalee,L,0,20
+1932-10-26,Yale,Ind,Mal Stevens,H,Dartmouth,Ind,Jack Cannell,W,6,0
+1932-11-12,Yale,Ind,Mal Stevens,A,Princeton,Ind,Fritz Crisler,T,7,7
+1932-11-19,Yale,Ind,Mal Stevens,H,Harvard,Ind,,W,19,0
+1932-10-08,Grinnell,MVC,Lester Watt,A,Michigan State,Ind,Jimmy Crowley,L,6,27
+1932-10-22,Grinnell,MVC,Lester Watt,A,Washington (MO),MVC,Jimmy Conzelman,L,7,14
+1932-10-29,Grinnell,MVC,Lester Watt,A,Drake,MVC,,W,7,0
+1932-11-11,Grinnell,MVC,Lester Watt,H,Creighton,MVC,,L,6,9
+1932-11-19,Grinnell,MVC,Lester Watt,A,Oklahoma State,MVC,Pappy Waldorf,L,0,27
+1932-10-01,Georgia Tech,Southern,William Alexander,H,Clemson,Southern,Jess Neely,W,32,14
+1932-10-08,Georgia Tech,Southern,William Alexander,H,Kentucky,Southern,Harry Gamage,L,6,12
+1932-10-15,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Chet Wynne,L,0,6
+1932-10-22,Georgia Tech,Southern,William Alexander,A,North Carolina,Southern,Chuck Collins,W,43,14
+1932-10-29,Georgia Tech,Southern,William Alexander,A,Vanderbilt,Southern,Dan McGugin,L,0,12
+1932-11-05,Georgia Tech,Southern,William Alexander,H,Tulane,Southern,Ted Cox,L,14,20
+1932-11-12,Georgia Tech,Southern,William Alexander,H,Alabama,Southern,Frank Thomas,W,6,0
+1932-11-19,Georgia Tech,Southern,William Alexander,A,Florida,Southern,Charlie Bachman,W,6,0
+1932-11-26,Georgia Tech,Southern,William Alexander,H,Georgia,Southern,Harry Mehre,T,0,0
+1932-12-17,Georgia Tech,Southern,William Alexander,A,California,PCC,William Ingram,L,7,27
+1932-09-24,Wake Forest,Ind,F.S. Miller,A,North Carolina,Southern,Chuck Collins,T,0,0
+1932-10-08,Wake Forest,Ind,F.S. Miller,N,South Carolina,Southern,Billy Laval,W,6,0
+1932-10-15,Wake Forest,Ind,F.S. Miller,A,North Carolina State,Southern,,T,0,0
+1932-10-21,Wake Forest,Ind,F.S. Miller,A,Duke,Southern,Wallace Wade,L,0,9
+1932-11-24,Wake Forest,Ind,F.S. Miller,A,Davidson,Ind,,L,0,7
+1932-10-01,Mississippi State,Southern,Ray Dauber,A,Alabama,Southern,Frank Thomas,L,0,53
+1932-10-15,Mississippi State,Southern,Ray Dauber,A,LSU,Southern,Biff Jones,L,0,24
+1932-10-27,Mississippi State,Southern,Ray Dauber,A,Indiana,Western,Billy Hayes,L,0,19
+1932-11-05,Mississippi State,Southern,Ray Dauber,A,Tennessee,Southern,Bob Neyland,L,0,31
+1932-11-24,Mississippi State,Southern,Ray Dauber,H,Ole Miss,Southern,,L,0,13
+1932-09-24,Virginia Military Institute,Southern,,A,Kentucky,Southern,Harry Gamage,L,0,23
+1932-10-01,Virginia Military Institute,Southern,,H,Duke,Southern,Wallace Wade,L,0,44
+1932-10-08,Virginia Military Institute,Southern,,A,Citadel,Ind,Tatum Gressette,L,6,12
+1932-10-15,Virginia Military Institute,Southern,,H,Davidson,Ind,,L,0,12
+1932-10-22,Virginia Military Institute,Southern,,H,Virginia,Southern,Fred Dawson,W,6,4
+1932-10-29,Virginia Military Institute,Southern,,N,Maryland,Southern,Curley Byrd,L,7,12
+1932-11-05,Virginia Military Institute,Southern,,N,William & Mary,Ind,John Kellison,L,7,20
+1932-11-12,Virginia Military Institute,Southern,,A,Richmond,Ind,Frank Dobson,L,0,7
+1932-11-24,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry Redd,L,0,26
+1932-10-01,Kansas State,Big 6,Bo McMillin,A,Purdue,Western,Noble Kizer,L,13,29
+1932-10-15,Kansas State,Big 6,Bo McMillin,H,Missouri,Big 6,Frank Carideo,W,25,0
+1932-10-22,Kansas State,Big 6,Bo McMillin,A,Oklahoma,Big 6,Lewie Hardage,L,13,20
+1932-10-29,Kansas State,Big 6,Bo McMillin,A,Nebraska,Big 6,Dana Bible,L,0,6
+1932-11-05,Kansas State,Big 6,Bo McMillin,H,Iowa State,Big 6,George Veenker,W,31,0
+1932-11-19,Kansas State,Big 6,Bo McMillin,H,Kansas,Big 6,Bill Hargiss,L,0,19
+1932-10-07,Saint Louis,Ind,,H,Wyoming,RMC,John Rhodes,W,20,6
+1932-10-28,Saint Louis,Ind,,H,Kansas,Big 6,Bill Hargiss,L,0,6
+1932-11-26,Saint Louis,Ind,,A,Washington (MO),MVC,Jimmy Conzelman,W,19,6
+1932-12-03,Saint Louis,Ind,,H,Missouri,Big 6,Frank Carideo,W,19,6
+1932-10-15,Army,Ind,Arthur Parmalee,H,Pitt,Ind,Jock Sutherland,L,13,18
+1932-10-22,Army,Ind,Arthur Parmalee,A,Yale,Ind,Mal Stevens,W,20,0
+1932-10-29,Army,Ind,Arthur Parmalee,H,William & Mary,Ind,John Kellison,W,33,0
+1932-11-05,Army,Ind,Arthur Parmalee,A,Harvard,Ind,,W,46,0
+1932-11-26,Army,Ind,Arthur Parmalee,H,Notre Dame,Ind,Hunk Anderson,L,0,21
+1932-12-03,Army,Ind,Arthur Parmalee,N,Navy,Ind,Rip Miller,W,20,0
+1932-10-01,Marquette,Ind,Frank Murray,A,Wisconsin,Western,Clarence Spears,L,2,7
+1932-10-08,Marquette,Ind,Frank Murray,A,Creighton,MVC,,T,0,0
+1932-10-29,Marquette,Ind,Frank Murray,H,West Virginia,Ind,Greasy Neale,L,7,34
+1932-11-05,Marquette,Ind,Frank Murray,A,Detroit Mercy,Ind,Gus Dorais,L,0,7
+1932-11-19,Marquette,Ind,Frank Murray,A,Washington & Jefferson,Ind,Leroy Day,W,6,0
+1932-11-26,Marquette,Ind,Frank Murray,H,Drake,MVC,,W,45,0
+1932-10-08,Dartmouth,Ind,Jack Cannell,H,Lafayette,Ind,Herb McCracken,W,6,0
+1932-10-15,Dartmouth,Ind,Jack Cannell,A,Pennsylvania,Ind,Harvey Harman,L,7,14
+1932-10-22,Dartmouth,Ind,Jack Cannell,A,Harvard,Ind,,L,7,10
+1932-10-26,Dartmouth,Ind,Jack Cannell,A,Yale,Ind,Mal Stevens,L,0,6
+1932-11-12,Dartmouth,Ind,Jack Cannell,A,Cornell,Ind,Gilmour Dobie,L,6,21
+1932-09-30,UCLA,PCC,William Spaulding,H,Idaho,PCC,Leo Calland,W,6,0
+1932-10-15,UCLA,PCC,William Spaulding,A,Oregon,PCC,Prink Callison,W,12,7
+1932-10-29,UCLA,PCC,William Spaulding,H,Stanford,PCC,Pop Warner,W,13,6
+1932-11-11,UCLA,PCC,William Spaulding,H,Saint Mary's (CA),Ind,Slip Madigan,L,7,14
+1932-11-19,UCLA,PCC,William Spaulding,H,Montana,PCC,Bunny Oakes,W,32,0
+1932-11-24,UCLA,PCC,William Spaulding,H,Washington State,PCC,O.E. Hollingbery,L,0,3
+1932-12-03,UCLA,PCC,William Spaulding,H,Washington,PCC,James Phelan,L,0,19
+1932-12-17,UCLA,PCC,William Spaulding,A,Florida,Southern,Charlie Bachman,L,2,12
+1932-10-08,Auburn,Southern,Chet Wynne,H,Duke,Southern,Wallace Wade,W,18,7
+1932-10-15,Auburn,Southern,Chet Wynne,A,Georgia Tech,Southern,William Alexander,W,6,0
+1932-10-22,Auburn,Southern,Chet Wynne,A,Tulane,Southern,Ted Cox,W,19,7
+1932-10-29,Auburn,Southern,Chet Wynne,H,Ole Miss,Southern,,W,14,7
+1932-11-12,Auburn,Southern,Chet Wynne,H,Florida,Southern,Charlie Bachman,W,21,6
+1932-11-19,Auburn,Southern,Chet Wynne,N,Georgia,Southern,Harry Mehre,W,14,7
+1932-12-03,Auburn,Southern,Chet Wynne,H,South Carolina,Southern,Billy Laval,T,20,20
+1932-10-01,Northwestern,Western,Dick Hanley,H,Missouri,Big 6,Frank Carideo,W,27,0
+1932-10-08,Northwestern,Western,Dick Hanley,A,Michigan,Western,Harry Kipke,L,6,15
+1932-10-15,Northwestern,Western,Dick Hanley,A,Illinois,Western,Robert Zuppke,W,26,0
+1932-10-22,Northwestern,Western,Dick Hanley,H,Purdue,Western,Noble Kizer,T,7,7
+1932-10-29,Northwestern,Western,Dick Hanley,A,Minnesota,Western,Bernie Bierman,L,0,7
+1932-11-05,Northwestern,Western,Dick Hanley,H,Ohio State,Western,Sam Willaman,L,6,20
+1932-11-12,Northwestern,Western,Dick Hanley,H,Notre Dame,Ind,Hunk Anderson,L,0,21
+1932-11-19,Northwestern,Western,Dick Hanley,H,Iowa,Western,Ossie Solem,W,44,6
+1932-09-30,Kansas,Big 6,Bill Hargiss,A,Denver,RMC,Percy Locey,W,13,12
+1932-10-08,Kansas,Big 6,Bill Hargiss,H,Oklahoma,Big 6,Lewie Hardage,L,6,21
+1932-10-15,Kansas,Big 6,Bill Hargiss,A,Iowa State,Big 6,George Veenker,W,26,0
+1932-10-22,Kansas,Big 6,Bill Hargiss,H,Nebraska,Big 6,Dana Bible,L,6,20
+1932-10-28,Kansas,Big 6,Bill Hargiss,A,Saint Louis,Ind,,W,6,0
+1932-11-05,Kansas,Big 6,Bill Hargiss,H,Notre Dame,Ind,Hunk Anderson,L,6,24
+1932-11-12,Kansas,Big 6,Bill Hargiss,A,Missouri,Big 6,Frank Carideo,W,7,0
+1932-11-19,Kansas,Big 6,Bill Hargiss,A,Kansas State,Big 6,Bo McMillin,W,19,0
+1932-10-01,William & Mary,Ind,John Kellison,A,Navy,Ind,Rip Miller,W,6,0
+1932-10-15,William & Mary,Ind,John Kellison,N,Virginia Tech,Southern,Henry Redd,L,0,7
+1932-10-22,William & Mary,Ind,John Kellison,H,Washington & Lee,Southern,Jimmy DeHart,W,7,0
+1932-10-29,William & Mary,Ind,John Kellison,A,Army,Ind,Arthur Parmalee,L,0,33
+1932-11-05,William & Mary,Ind,John Kellison,N,Virginia Military Institute,Southern,,W,20,7
+1932-11-12,William & Mary,Ind,John Kellison,A,George Washington,Ind,James Pixlee,L,6,12
+1932-11-24,William & Mary,Ind,John Kellison,A,Richmond,Ind,Frank Dobson,L,7,18
+1932-09-24,LSU,Southern,Biff Jones,H,Texas Christian,SWC,Francis Schmidt,T,3,3
+1932-10-01,LSU,Southern,Biff Jones,A,Rice,SWC,Jack Meagher,L,8,10
+1932-10-15,LSU,Southern,Biff Jones,H,Mississippi State,Southern,Ray Dauber,W,24,0
+1932-10-22,LSU,Southern,Biff Jones,N,Arkansas,SWC,Fred Thomsen,W,14,0
+1932-10-29,LSU,Southern,Biff Jones,H,Sewanee,Southern,Heck Clark,W,38,0
+1932-11-05,LSU,Southern,Biff Jones,A,South Carolina,Southern,Billy Laval,W,6,0
+1932-11-12,LSU,Southern,Biff Jones,A,Centenary (LA),Ind,Homer Norton,L,0,6
+1932-11-26,LSU,Southern,Biff Jones,H,Tulane,Southern,Ted Cox,W,14,0
+1932-12-17,LSU,Southern,Biff Jones,H,Oregon,PCC,Prink Callison,L,0,12
+1932-10-15,Pennsylvania,Ind,Harvey Harman,H,Dartmouth,Ind,Jack Cannell,W,14,7
+1932-10-29,Pennsylvania,Ind,Harvey Harman,H,Navy,Ind,Rip Miller,W,14,0
+1932-11-05,Pennsylvania,Ind,Harvey Harman,H,Pitt,Ind,Jock Sutherland,L,12,19
+1932-11-12,Pennsylvania,Ind,Harvey Harman,A,Ohio State,Western,Sam Willaman,L,0,19
+1932-11-24,Pennsylvania,Ind,Harvey Harman,H,Cornell,Ind,Gilmour Dobie,W,13,7
+1932-10-08,Iowa,Western,Ossie Solem,A,Wisconsin,Western,Clarence Spears,L,0,34
+1932-10-16,Iowa,Western,Ossie Solem,A,Indiana,Western,Billy Hayes,L,0,12
+1932-10-22,Iowa,Western,Ossie Solem,H,Minnesota,Western,Bernie Bierman,L,6,21
+1932-10-28,Iowa,Western,Ossie Solem,A,George Washington,Ind,James Pixlee,L,6,21
+1932-11-05,Iowa,Western,Ossie Solem,H,Nebraska,Big 6,Dana Bible,L,13,14
+1932-11-12,Iowa,Western,Ossie Solem,H,Purdue,Western,Noble Kizer,L,0,18
+1932-11-19,Iowa,Western,Ossie Solem,A,Northwestern,Western,Dick Hanley,L,6,44
+1932-10-08,Columbia,Ind,Lou Little,H,Princeton,Ind,Fritz Crisler,W,20,7
+1932-10-15,Columbia,Ind,Lou Little,H,Virginia,Southern,Fred Dawson,W,22,6
+1932-10-29,Columbia,Ind,Lou Little,H,Cornell,Ind,Gilmour Dobie,W,6,0
+1932-11-05,Columbia,Ind,Lou Little,A,Navy,Ind,Rip Miller,W,7,6
+1932-11-12,Columbia,Ind,Lou Little,H,Brown,Ind,DeOrmond McLaughry,L,6,7
+1932-11-19,Columbia,Ind,Lou Little,H,Syracuse,Ind,Vic Hanson,T,0,0
+1932-10-01,Texas,SWC,Clyde Littlefield,H,Centenary (LA),Ind,Homer Norton,L,6,13
+1932-10-08,Texas,SWC,Clyde Littlefield,A,Missouri,Big 6,Frank Carideo,W,65,0
+1932-10-15,Texas,SWC,Clyde Littlefield,N,Oklahoma,Big 6,Lewie Hardage,W,17,10
+1932-10-22,Texas,SWC,Clyde Littlefield,A,Rice,SWC,Jack Meagher,W,18,6
+1932-10-29,Texas,SWC,Clyde Littlefield,H,SMU,SWC,Ray Morrison,W,14,6
+1932-11-05,Texas,SWC,Clyde Littlefield,A,Baylor,SWC,Morley Jennings,W,19,0
+1932-11-11,Texas,SWC,Clyde Littlefield,A,Texas Christian,SWC,Francis Schmidt,L,0,14
+1932-11-18,Texas,SWC,Clyde Littlefield,A,Arkansas,SWC,Fred Thomsen,W,34,0
+1932-11-24,Texas,SWC,Clyde Littlefield,H,Texas A&M,SWC,Madison Bell,W,21,0
+1932-09-24,Texas Christian,SWC,Francis Schmidt,A,LSU,Southern,Biff Jones,T,3,3
+1932-10-08,Texas Christian,SWC,Francis Schmidt,H,Arkansas,SWC,Fred Thomsen,W,34,12
+1932-10-15,Texas Christian,SWC,Francis Schmidt,A,Texas A&M,SWC,Madison Bell,W,17,0
+1932-10-29,Texas Christian,SWC,Francis Schmidt,H,Baylor,SWC,Morley Jennings,W,27,0
+1932-11-11,Texas Christian,SWC,Francis Schmidt,H,Texas,SWC,Clyde Littlefield,W,14,0
+1932-11-19,Texas Christian,SWC,Francis Schmidt,A,Rice,SWC,Jack Meagher,W,16,6
+1932-11-26,Texas Christian,SWC,Francis Schmidt,A,SMU,SWC,Ray Morrison,W,8,0
+1932-10-15,New York University,Ind,Howard Cann,H,Georgetown,Ind,Tommy Mills,W,39,0
+1932-10-22,New York University,Ind,Howard Cann,H,Colgate,Ind,Andrew Kerr,L,0,14
+1932-10-29,New York University,Ind,Howard Cann,H,Purdue,Western,Noble Kizer,L,9,34
+1932-11-05,New York University,Ind,Howard Cann,H,Georgia,Southern,Harry Mehre,W,13,7
+1932-11-12,New York University,Ind,Howard Cann,N,Fordham,Ind,Frank Cavanaugh,L,0,7
+1932-11-24,New York University,Ind,Howard Cann,H,Carnegie Mellon,Ind,Walter Steffen,W,13,6
+1932-10-01,Richmond,Ind,Frank Dobson,H,North Carolina State,Southern,,L,0,9
+1932-10-08,Richmond,Ind,Frank Dobson,A,Cornell,Ind,Gilmour Dobie,L,0,27
+1932-11-12,Richmond,Ind,Frank Dobson,H,Virginia Military Institute,Southern,,W,7,0
+1932-11-24,Richmond,Ind,Frank Dobson,H,William & Mary,Ind,John Kellison,W,18,7
+1932-10-01,Oregon,PCC,Prink Callison,H,Santa Clara,Ind,,W,7,0
+1932-10-08,Oregon,PCC,Prink Callison,H,Washington,PCC,James Phelan,T,0,0
+1932-10-15,Oregon,PCC,Prink Callison,H,UCLA,PCC,William Spaulding,L,7,12
+1932-10-22,Oregon,PCC,Prink Callison,A,Idaho,PCC,Leo Calland,W,32,0
+1932-10-29,Oregon,PCC,Prink Callison,H,Gonzaga,Ind,Mike Pecarovich,W,13,0
+1932-11-05,Oregon,PCC,Prink Callison,A,Oregon State,PCC,Paul Schissler,W,12,6
+1932-11-12,Oregon,PCC,Prink Callison,A,USC,PCC,Howard Jones,L,0,33
+1932-11-24,Oregon,PCC,Prink Callison,A,Saint Mary's (CA),Ind,Slip Madigan,L,0,7
+1932-12-17,Oregon,PCC,Prink Callison,A,LSU,Southern,Biff Jones,W,12,0
+1932-10-15,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Mal Stevens,W,7,2
+1932-10-29,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,,W,14,0
+1932-11-12,Brown,Ind,DeOrmond McLaughry,A,Columbia,Ind,Lou Little,W,7,6
+1932-11-19,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,0,21
+1932-10-01,Tennessee,Southern,Bob Neyland,H,Ole Miss,Southern,,W,33,0
+1932-10-08,Tennessee,Southern,Bob Neyland,H,North Carolina,Southern,Chuck Collins,W,20,7
+1932-10-15,Tennessee,Southern,Bob Neyland,A,Alabama,Southern,Frank Thomas,W,7,3
+1932-10-29,Tennessee,Southern,Bob Neyland,H,Duke,Southern,Wallace Wade,W,16,13
+1932-11-05,Tennessee,Southern,Bob Neyland,H,Mississippi State,Southern,Ray Dauber,W,31,0
+1932-11-12,Tennessee,Southern,Bob Neyland,A,Vanderbilt,Southern,Dan McGugin,T,0,0
+1932-11-24,Tennessee,Southern,Bob Neyland,H,Kentucky,Southern,Harry Gamage,W,26,0
+1932-12-03,Tennessee,Southern,Bob Neyland,A,Florida,Southern,Charlie Bachman,W,32,13
+1932-09-17,Oregon State,PCC,Paul Schissler,A,Gonzaga,Ind,Mike Pecarovich,W,19,16
+1932-10-01,Oregon State,PCC,Paul Schissler,H,Stanford,PCC,Pop Warner,L,0,27
+1932-10-08,Oregon State,PCC,Paul Schissler,A,USC,PCC,Howard Jones,L,0,10
+1932-10-22,Oregon State,PCC,Paul Schissler,H,Washington State,PCC,O.E. Hollingbery,L,6,7
+1932-11-05,Oregon State,PCC,Paul Schissler,H,Oregon,PCC,Prink Callison,L,6,12
+1932-11-12,Oregon State,PCC,Paul Schissler,A,Montana,PCC,Bunny Oakes,W,35,6
+1932-11-19,Oregon State,PCC,Paul Schissler,A,Fordham,Ind,Frank Cavanaugh,L,6,8
+1932-11-24,Oregon State,PCC,Paul Schissler,A,Detroit Mercy,Ind,Gus Dorais,L,6,14
+1932-10-01,Alabama,Southern,Frank Thomas,H,Mississippi State,Southern,Ray Dauber,W,53,0
+1932-10-08,Alabama,Southern,Frank Thomas,A,George Washington,Ind,James Pixlee,W,28,6
+1932-10-15,Alabama,Southern,Frank Thomas,H,Tennessee,Southern,Bob Neyland,L,3,7
+1932-10-22,Alabama,Southern,Frank Thomas,H,Ole Miss,Southern,,W,24,13
+1932-10-29,Alabama,Southern,Frank Thomas,A,Kentucky,Southern,Harry Gamage,W,12,7
+1932-11-05,Alabama,Southern,Frank Thomas,H,Virginia Tech,Southern,Henry Redd,W,9,6
+1932-11-12,Alabama,Southern,Frank Thomas,A,Georgia Tech,Southern,William Alexander,L,0,6
+1932-11-24,Alabama,Southern,Frank Thomas,H,Vanderbilt,Southern,Dan McGugin,W,20,0
+1932-12-05,Alabama,Southern,Frank Thomas,A,Saint Mary's (CA),Ind,Slip Madigan,W,6,0
+1932-10-01,Purdue,Western,Noble Kizer,H,Kansas State,Big 6,Bo McMillin,W,29,13
+1932-10-08,Purdue,Western,Noble Kizer,A,Minnesota,Western,Bernie Bierman,W,7,0
+1932-10-15,Purdue,Western,Noble Kizer,H,Wisconsin,Western,Clarence Spears,W,7,6
+1932-10-22,Purdue,Western,Noble Kizer,A,Northwestern,Western,Dick Hanley,T,7,7
+1932-10-29,Purdue,Western,Noble Kizer,A,New York University,Ind,Howard Cann,W,34,9
+1932-11-05,Purdue,Western,Noble Kizer,A,Chicago,Western,Amos Alonzo Stagg,W,37,0
+1932-11-12,Purdue,Western,Noble Kizer,A,Iowa,Western,Ossie Solem,W,18,0
+1932-11-19,Purdue,Western,Noble Kizer,H,Indiana,Western,Billy Hayes,W,25,7
+1932-10-08,Nebraska,Big 6,Dana Bible,H,Iowa State,Big 6,George Veenker,W,12,6
+1932-10-15,Nebraska,Big 6,Dana Bible,A,Minnesota,Western,Bernie Bierman,L,6,7
+1932-10-22,Nebraska,Big 6,Dana Bible,A,Kansas,Big 6,Bill Hargiss,W,20,6
+1932-10-29,Nebraska,Big 6,Dana Bible,H,Kansas State,Big 6,Bo McMillin,W,6,0
+1932-11-05,Nebraska,Big 6,Dana Bible,A,Iowa,Western,Ossie Solem,W,14,13
+1932-11-12,Nebraska,Big 6,Dana Bible,H,Pitt,Ind,Jock Sutherland,T,0,0
+1932-11-19,Nebraska,Big 6,Dana Bible,A,Oklahoma,Big 6,Lewie Hardage,W,5,0
+1932-11-24,Nebraska,Big 6,Dana Bible,H,Missouri,Big 6,Frank Carideo,W,21,6
+1932-12-03,Nebraska,Big 6,Dana Bible,A,SMU,SWC,Ray Morrison,W,21,14
+1932-10-01,West Virginia,Ind,Greasy Neale,H,Pitt,Ind,Jock Sutherland,L,0,40
+1932-10-07,West Virginia,Ind,Greasy Neale,A,Temple,Ind,Henry Miller,L,13,14
+1932-10-21,West Virginia,Ind,Greasy Neale,A,Detroit Mercy,Ind,Gus Dorais,L,13,26
+1932-10-29,West Virginia,Ind,Greasy Neale,A,Marquette,Ind,Frank Murray,W,34,7
+1932-11-05,West Virginia,Ind,Greasy Neale,H,Georgetown,Ind,Tommy Mills,W,19,0
+1932-11-12,West Virginia,Ind,Greasy Neale,N,Washington & Lee,Southern,Jimmy DeHart,W,19,0
+1932-11-26,West Virginia,Ind,Greasy Neale,N,Washington & Jefferson,Ind,Leroy Day,L,0,13
+1932-10-15,Harvard,Ind,,H,Penn State,Ind,Bob Higgins,W,46,13
+1932-10-22,Harvard,Ind,,H,Dartmouth,Ind,Jack Cannell,W,10,7
+1932-10-29,Harvard,Ind,,H,Brown,Ind,DeOrmond McLaughry,L,0,14
+1932-11-05,Harvard,Ind,,H,Army,Ind,Arthur Parmalee,L,0,46
+1932-11-19,Harvard,Ind,,A,Yale,Ind,Mal Stevens,L,0,19
+1932-10-08,Oklahoma State,MVC,Pappy Waldorf,A,Drake,MVC,,W,27,7
+1932-10-14,Oklahoma State,MVC,Pappy Waldorf,H,Creighton,MVC,,W,18,7
+1932-10-29,Oklahoma State,MVC,Pappy Waldorf,H,Oklahoma,Big 6,Lewie Hardage,W,7,0
+1932-11-19,Oklahoma State,MVC,Pappy Waldorf,H,Grinnell,MVC,Lester Watt,W,27,0
+1932-11-26,Oklahoma State,MVC,Pappy Waldorf,A,Arizona,BIAA,Gus Farwick,W,13,6
+1932-10-01,Colorado,RMC,William Saunders,A,Colorado Mines,RMC,George Allen,W,31,0
+1932-10-08,Colorado,RMC,William Saunders,H,Utah State,RMC,,W,26,7
+1932-10-22,Colorado,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,L,6,7
+1932-11-05,Colorado,RMC,William Saunders,H,Utah,RMC,Ike Armstrong,L,0,14
+1932-11-12,Colorado,RMC,William Saunders,A,Colorado College,RMC,W.T. VandeGraaff,L,0,12
+1932-11-24,Colorado,RMC,William Saunders,A,Denver,RMC,Percy Locey,L,0,6
+1932-10-01,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,J.W. Hancock,W,12,0
+1932-10-08,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,George Allen,W,39,0
+1932-10-15,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Percy Locey,T,7,7
+1932-10-22,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,William Saunders,W,7,6
+1932-10-29,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,W.T. VandeGraaff,L,0,3
+1932-11-05,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,L,12,13
+1932-11-19,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,L,0,16
+1932-11-24,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Rhodes,W,23,0
+1932-10-01,Rice,SWC,Jack Meagher,H,LSU,Southern,Biff Jones,W,10,8
+1932-10-08,Rice,SWC,Jack Meagher,A,SMU,SWC,Ray Morrison,W,13,0
+1932-10-22,Rice,SWC,Jack Meagher,H,Texas,SWC,Clyde Littlefield,L,6,18
+1932-10-29,Rice,SWC,Jack Meagher,H,Creighton,MVC,,W,41,7
+1932-11-05,Rice,SWC,Jack Meagher,A,Arkansas,SWC,Fred Thomsen,W,12,7
+1932-11-11,Rice,SWC,Jack Meagher,A,Texas A&M,SWC,Madison Bell,L,7,14
+1932-11-19,Rice,SWC,Jack Meagher,H,Texas Christian,SWC,Francis Schmidt,L,6,16
+1932-11-26,Rice,SWC,Jack Meagher,A,Baylor,SWC,Morley Jennings,W,12,0
+1932-09-24,Texas A&M,SWC,Madison Bell,N,Texas Tech,BIAA,Pete Cawthon,W,7,0
+1932-10-01,Texas A&M,SWC,Madison Bell,A,Tulane,Southern,Ted Cox,L,14,26
+1932-10-15,Texas A&M,SWC,Madison Bell,H,Texas Christian,SWC,Francis Schmidt,L,0,17
+1932-10-22,Texas A&M,SWC,Madison Bell,A,Baylor,SWC,Morley Jennings,T,0,0
+1932-10-29,Texas A&M,SWC,Madison Bell,A,Centenary (LA),Ind,Homer Norton,L,0,7
+1932-11-05,Texas A&M,SWC,Madison Bell,A,SMU,SWC,Ray Morrison,T,0,0
+1932-11-11,Texas A&M,SWC,Madison Bell,H,Rice,SWC,Jack Meagher,W,14,7
+1932-11-24,Texas A&M,SWC,Madison Bell,A,Texas,SWC,Clyde Littlefield,L,0,21
+1932-09-24,Davidson,Ind,,A,Duke,Southern,Wallace Wade,L,0,13
+1932-10-01,Davidson,Ind,,H,Washington & Lee,Southern,Jimmy DeHart,W,7,0
+1932-10-15,Davidson,Ind,,A,Virginia Military Institute,Southern,,W,12,0
+1932-10-22,Davidson,Ind,,A,Citadel,Ind,Tatum Gressette,L,6,7
+1932-10-29,Davidson,Ind,,H,Clemson,Southern,Jess Neely,T,7,7
+1932-11-05,Davidson,Ind,,N,North Carolina State,Southern,,L,3,7
+1932-11-12,Davidson,Ind,,H,North Carolina,Southern,Chuck Collins,L,0,12
+1932-11-24,Davidson,Ind,,H,Wake Forest,Ind,F.S. Miller,W,7,0
+1932-10-22,Washington (MO),MVC,Jimmy Conzelman,H,Grinnell,MVC,Lester Watt,W,14,7
+1932-10-29,Washington (MO),MVC,Jimmy Conzelman,A,Missouri,Big 6,Frank Carideo,W,14,6
+1932-11-05,Washington (MO),MVC,Jimmy Conzelman,A,Creighton,MVC,,L,0,40
+1932-11-12,Washington (MO),MVC,Jimmy Conzelman,A,Drake,MVC,,L,0,6
+1932-11-26,Washington (MO),MVC,Jimmy Conzelman,H,Saint Louis,Ind,,L,6,19
+1932-10-01,Michigan State,Ind,Jimmy Crowley,A,Michigan,Western,Harry Kipke,L,0,26
+1932-10-08,Michigan State,Ind,Jimmy Crowley,H,Grinnell,MVC,Lester Watt,W,27,6
+1932-10-22,Michigan State,Ind,Jimmy Crowley,A,Fordham,Ind,Frank Cavanaugh,W,19,13
+1932-10-29,Michigan State,Ind,Jimmy Crowley,A,Syracuse,Ind,Vic Hanson,W,27,13
+1932-11-19,Michigan State,Ind,Jimmy Crowley,H,Detroit Mercy,Ind,Gus Dorais,W,7,0
+1932-10-08,Chicago,Western,Amos Alonzo Stagg,A,Yale,Ind,Mal Stevens,T,7,7
+1932-10-22,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,Billy Hayes,W,13,7
+1932-10-29,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,L,7,13
+1932-11-05,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Noble Kizer,L,0,37
+1932-11-12,Chicago,Western,Amos Alonzo Stagg,A,Michigan,Western,Harry Kipke,L,0,12
+1932-11-19,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Clarence Spears,L,7,18
+1932-10-15,Colgate,Ind,Andrew Kerr,A,Lafayette,Ind,Herb McCracken,W,35,0
+1932-10-22,Colgate,Ind,Andrew Kerr,A,New York University,Ind,Howard Cann,W,14,0
+1932-10-29,Colgate,Ind,Andrew Kerr,H,Penn State,Ind,Bob Higgins,W,31,0
+1932-11-12,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Vic Hanson,W,16,0
+1932-11-19,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,21,0
+1932-10-08,New Mexico State,BIAA,Gerald Hines,A,Arizona,BIAA,Gus Farwick,L,7,12
+1932-10-22,New Mexico State,BIAA,Gerald Hines,A,New Mexico,BIAA,,T,7,7
+1932-11-05,New Mexico State,BIAA,Gerald Hines,H,Arizona State,BIAA,Ted Shipkey,L,6,7
+1932-11-12,New Mexico State,BIAA,Gerald Hines,H,Northern Arizona,BIAA,Rudy Lavik,W,7,0
+1932-10-08,Minnesota,Western,Bernie Bierman,H,Purdue,Western,Noble Kizer,L,0,7
+1932-10-15,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Dana Bible,W,7,6
+1932-10-22,Minnesota,Western,Bernie Bierman,A,Iowa,Western,Ossie Solem,W,21,6
+1932-10-29,Minnesota,Western,Bernie Bierman,H,Northwestern,Western,Dick Hanley,W,7,0
+1932-11-05,Minnesota,Western,Bernie Bierman,H,Ole Miss,Southern,,W,26,0
+1932-11-12,Minnesota,Western,Bernie Bierman,A,Wisconsin,Western,Clarence Spears,L,13,20
+1932-11-19,Minnesota,Western,Bernie Bierman,H,Michigan,Western,Harry Kipke,L,0,3
+1932-10-01,Ole Miss,Southern,,A,Tennessee,Southern,Bob Neyland,L,0,33
+1932-10-15,Ole Miss,Southern,,A,Centenary (LA),Ind,Homer Norton,L,6,13
+1932-10-22,Ole Miss,Southern,,A,Alabama,Southern,Frank Thomas,L,13,24
+1932-10-29,Ole Miss,Southern,,A,Auburn,Southern,Chet Wynne,L,7,14
+1932-11-05,Ole Miss,Southern,,A,Minnesota,Western,Bernie Bierman,L,0,26
+1932-11-12,Ole Miss,Southern,,H,Sewanee,Southern,Heck Clark,W,27,6
+1932-11-24,Ole Miss,Southern,,A,Mississippi State,Southern,Ray Dauber,W,13,0
+1932-09-24,Duke,Southern,Wallace Wade,H,Davidson,Ind,,W,13,0
+1932-10-01,Duke,Southern,Wallace Wade,A,Virginia Military Institute,Southern,,W,44,0
+1932-10-08,Duke,Southern,Wallace Wade,A,Auburn,Southern,Chet Wynne,L,7,18
+1932-10-15,Duke,Southern,Wallace Wade,H,Maryland,Southern,Curley Byrd,W,34,0
+1932-10-21,Duke,Southern,Wallace Wade,H,Wake Forest,Ind,F.S. Miller,W,9,0
+1932-10-29,Duke,Southern,Wallace Wade,A,Tennessee,Southern,Bob Neyland,L,13,16
+1932-11-05,Duke,Southern,Wallace Wade,H,Kentucky,Southern,Harry Gamage,W,13,0
+1932-11-12,Duke,Southern,Wallace Wade,A,North Carolina State,Southern,,L,0,6
+1932-11-19,Duke,Southern,Wallace Wade,A,North Carolina,Southern,Chuck Collins,W,7,0
+1932-11-25,Duke,Southern,Wallace Wade,H,Washington & Lee,Southern,Jimmy DeHart,W,13,0
+1932-09-24,Sewanee,Southern,Heck Clark,A,South Carolina,Southern,Billy Laval,L,3,7
+1932-10-01,Sewanee,Southern,Heck Clark,A,Kentucky,Southern,Harry Gamage,L,0,18
+1932-10-08,Sewanee,Southern,Heck Clark,A,Florida,Southern,Charlie Bachman,L,0,19
+1932-10-29,Sewanee,Southern,Heck Clark,A,LSU,Southern,Biff Jones,L,0,38
+1932-11-03,Sewanee,Southern,Heck Clark,A,Penn State,Ind,Bob Higgins,L,6,18
+1932-11-12,Sewanee,Southern,Heck Clark,A,Ole Miss,Southern,,L,6,27
+1932-11-19,Sewanee,Southern,Heck Clark,A,Tulane,Southern,Ted Cox,L,0,26
+1932-09-24,San Francisco,Ind,Lawrence Lewis,H,Stanford,PCC,Pop Warner,L,7,20
+1932-10-15,San Francisco,Ind,Lawrence Lewis,A,Gonzaga,Ind,Mike Pecarovich,L,0,6
+1932-10-29,San Francisco,Ind,Lawrence Lewis,A,Saint Mary's (CA),Ind,Slip Madigan,L,7,16
+1932-11-12,San Francisco,Ind,Lawrence Lewis,A,Santa Clara,Ind,,L,0,7
+1932-10-01,Navy,Ind,Rip Miller,H,William & Mary,Ind,John Kellison,L,0,6
+1932-10-08,Navy,Ind,Rip Miller,H,Washington & Lee,Southern,Jimmy DeHart,W,33,0
+1932-10-22,Navy,Ind,Rip Miller,A,Princeton,Ind,Fritz Crisler,T,0,0
+1932-10-29,Navy,Ind,Rip Miller,A,Pennsylvania,Ind,Harvey Harman,L,0,14
+1932-11-05,Navy,Ind,Rip Miller,H,Columbia,Ind,Lou Little,L,6,7
+1932-11-12,Navy,Ind,Rip Miller,N,Maryland,Southern,Curley Byrd,W,28,7
+1932-11-19,Navy,Ind,Rip Miller,N,Notre Dame,Ind,Hunk Anderson,L,0,12
+1932-12-03,Navy,Ind,Rip Miller,N,Army,Ind,Arthur Parmalee,L,0,20
+1932-10-08,Lafayette,Ind,Herb McCracken,A,Dartmouth,Ind,Jack Cannell,L,0,6
+1932-10-15,Lafayette,Ind,Herb McCracken,H,Colgate,Ind,Andrew Kerr,L,0,35
+1932-10-22,Lafayette,Ind,Herb McCracken,A,Bucknell,Ind,Carl Snavely,L,6,14
+1932-10-29,Lafayette,Ind,Herb McCracken,H,Washington & Jefferson,Ind,Leroy Day,L,0,7
+1932-09-24,Texas Tech,BIAA,Pete Cawthon,N,Texas A&M,SWC,Madison Bell,L,0,7
+1932-10-01,Texas Tech,BIAA,Pete Cawthon,H,SMU,SWC,Ray Morrison,W,6,0
+1932-10-14,Texas Tech,BIAA,Pete Cawthon,H,Arizona,BIAA,Gus Farwick,W,21,0
+1932-10-22,Texas Tech,BIAA,Pete Cawthon,A,Colorado Mines,RMC,George Allen,W,21,0
+1932-11-11,Texas Tech,BIAA,Pete Cawthon,H,Baylor,SWC,Morley Jennings,W,14,2
+1932-11-19,Texas Tech,BIAA,Pete Cawthon,A,New Mexico,BIAA,,W,39,6
+1932-10-01,Tulane,Southern,Ted Cox,H,Texas A&M,SWC,Madison Bell,W,26,14
+1932-10-08,Tulane,Southern,Ted Cox,H,Georgia,Southern,Harry Mehre,W,34,25
+1932-10-15,Tulane,Southern,Ted Cox,H,Vanderbilt,Southern,Dan McGugin,T,6,6
+1932-10-22,Tulane,Southern,Ted Cox,H,Auburn,Southern,Chet Wynne,L,7,19
+1932-10-29,Tulane,Southern,Ted Cox,H,South Carolina,Southern,Billy Laval,W,6,0
+1932-11-05,Tulane,Southern,Ted Cox,A,Georgia Tech,Southern,William Alexander,W,20,14
+1932-11-12,Tulane,Southern,Ted Cox,A,Kentucky,Southern,Harry Gamage,W,6,3
+1932-11-19,Tulane,Southern,Ted Cox,H,Sewanee,Southern,Heck Clark,W,26,0
+1932-11-26,Tulane,Southern,Ted Cox,A,LSU,Southern,Biff Jones,L,0,14
+1932-10-08,Cornell,Ind,Gilmour Dobie,H,Richmond,Ind,Frank Dobson,W,27,0
+1932-10-15,Cornell,Ind,Gilmour Dobie,A,Princeton,Ind,Fritz Crisler,T,0,0
+1932-10-29,Cornell,Ind,Gilmour Dobie,A,Columbia,Ind,Lou Little,L,0,6
+1932-11-12,Cornell,Ind,Gilmour Dobie,H,Dartmouth,Ind,Jack Cannell,W,21,6
+1932-11-24,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Harvey Harman,L,7,13
+1932-10-08,Ohio State,Western,Sam Willaman,H,Indiana,Western,Billy Hayes,T,7,7
+1932-10-15,Ohio State,Western,Sam Willaman,H,Michigan,Western,Harry Kipke,L,0,14
+1932-10-22,Ohio State,Western,Sam Willaman,A,Pitt,Ind,Jock Sutherland,T,0,0
+1932-10-29,Ohio State,Western,Sam Willaman,H,Wisconsin,Western,Clarence Spears,T,7,7
+1932-11-05,Ohio State,Western,Sam Willaman,A,Northwestern,Western,Dick Hanley,W,20,6
+1932-11-12,Ohio State,Western,Sam Willaman,H,Pennsylvania,Ind,Harvey Harman,W,19,0
+1932-11-19,Ohio State,Western,Sam Willaman,A,Illinois,Western,Robert Zuppke,W,3,0
+1932-10-08,Drake,MVC,,H,Oklahoma State,MVC,Pappy Waldorf,L,7,27
+1932-10-15,Drake,MVC,,A,Notre Dame,Ind,Hunk Anderson,L,0,62
+1932-10-22,Drake,MVC,,A,Creighton,MVC,,L,0,12
+1932-10-29,Drake,MVC,,H,Grinnell,MVC,Lester Watt,L,0,7
+1932-11-05,Drake,MVC,,A,Butler,MVC,Fred Mackey,T,0,0
+1932-11-12,Drake,MVC,,H,Washington (MO),MVC,Jimmy Conzelman,W,6,0
+1932-11-19,Drake,MVC,,A,Iowa State,Big 6,George Veenker,L,13,34
+1932-11-26,Drake,MVC,,A,Marquette,Ind,Frank Murray,L,0,45

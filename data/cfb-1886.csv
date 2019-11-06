@@ -1,0 +1,105 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1886-10-06,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,75
+1886-10-09,Wesleyan (CT),Ind,,H,Yale,Ind,,L,0,62
+1886-10-16,Wesleyan (CT),Ind,,H,Amherst,Ind,,W,47,0
+1886-10-27,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,Frank Dole,L,0,14
+1886-10-30,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,136
+1886-11-06,Wesleyan (CT),Ind,,A,Harvard,Ind,Frank Mason,L,0,34
+1886-11-13,Wesleyan (CT),Ind,,H,Lafayette,Ind,,W,26,0
+1886-11-20,Wesleyan (CT),Ind,,H,Princeton,Ind,,L,6,76
+1886-10-23,Dartmouth,Ind,,H,MIT,Ind,,W,11,6
+1886-10-30,Dartmouth,Ind,,N,Harvard,Ind,Frank Mason,L,0,70
+1886-10-09,Princeton,Ind,,H,Stevens,Ind,,W,58,0
+1886-10-13,Princeton,Ind,,A,Stevens,Ind,,W,61,6
+1886-10-16,Princeton,Ind,,A,Pennsylvania,Ind,Frank Dole,W,30,0
+1886-10-23,Princeton,Ind,,H,Pennsylvania,Ind,Frank Dole,W,55,9
+1886-11-06,Princeton,Ind,,A,Pennsylvania,Ind,Frank Dole,W,28,6
+1886-11-13,Princeton,Ind,,H,Harvard,Ind,Frank Mason,W,12,0
+1886-11-20,Princeton,Ind,,A,Wesleyan (CT),Ind,,W,76,6
+1886-11-25,Princeton,Ind,,H,Yale,Ind,,T,0,0
+1886-10-09,Stevens,Ind,,A,Princeton,Ind,,L,0,58
+1886-10-13,Stevens,Ind,,H,Princeton,Ind,,L,6,61
+1886-10-16,Stevens,Ind,,A,Harvard,Ind,Frank Mason,L,0,44
+1886-10-20,Stevens,Ind,,H,Yale,Ind,,L,0,54
+1886-10-23,Stevens,Ind,,H,Lafayette,Ind,,L,0,5
+1886-10-30,Stevens,Ind,,H,Lehigh,Ind,,T,0,0
+1886-11-13,Stevens,Ind,,A,Lehigh,Ind,,L,0,14
+1886-11-20,Stevens,Ind,,A,Lafayette,Ind,,L,0,58
+1886-10-16,Rutgers,Ind,,A,Lafayette,Ind,,L,2,28
+1886-11-10,Rutgers,Ind,,A,Pennsylvania,Ind,Frank Dole,L,0,65
+1886-11-17,Rutgers,Ind,,H,Lafayette,Ind,,L,10,26
+1886-10-06,Yale,Ind,,H,Wesleyan (CT),Ind,,W,75,0
+1886-10-09,Yale,Ind,,A,Wesleyan (CT),Ind,,W,62,0
+1886-10-16,Yale,Ind,,H,MIT,Ind,,W,96,0
+1886-10-20,Yale,Ind,,A,Stevens,Ind,,W,54,0
+1886-10-23,Yale,Ind,,A,Williams,Ind,,W,76,0
+1886-10-30,Yale,Ind,,H,Wesleyan (CT),Ind,,W,136,0
+1886-11-13,Yale,Ind,,H,Pennsylvania,Ind,Frank Dole,W,75,0
+1886-11-20,Yale,Ind,,A,Harvard,Ind,Frank Mason,W,29,4
+1886-11-25,Yale,Ind,,A,Princeton,Ind,,T,0,0
+1886-10-09,Lehigh,Ind,,A,Pennsylvania,Ind,Frank Dole,L,4,26
+1886-10-30,Lehigh,Ind,,A,Stevens,Ind,,T,0,0
+1886-11-06,Lehigh,Ind,,A,Lafayette,Ind,,L,0,12
+1886-11-13,Lehigh,Ind,,H,Stevens,Ind,,W,14,0
+1886-11-18,Lehigh,Ind,,H,Pennsylvania,Ind,Frank Dole,W,28,0
+1886-11-24,Lehigh,Ind,,H,Lafayette,Ind,,L,0,4
+1886-10-09,Pennsylvania,Ind,Frank Dole,H,Lehigh,Ind,,W,26,4
+1886-10-16,Pennsylvania,Ind,Frank Dole,H,Princeton,Ind,,L,0,30
+1886-10-20,Pennsylvania,Ind,Frank Dole,A,Lafayette,Ind,,L,0,12
+1886-10-23,Pennsylvania,Ind,Frank Dole,A,Princeton,Ind,,L,9,55
+1886-10-27,Pennsylvania,Ind,Frank Dole,N,Wesleyan (CT),Ind,,W,14,0
+1886-10-30,Pennsylvania,Ind,Frank Dole,H,Lafayette,Ind,,W,20,10
+1886-11-06,Pennsylvania,Ind,Frank Dole,H,Princeton,Ind,,L,6,28
+1886-11-10,Pennsylvania,Ind,Frank Dole,H,Rutgers,Ind,,W,65,0
+1886-11-13,Pennsylvania,Ind,Frank Dole,A,Yale,Ind,,L,0,75
+1886-11-18,Pennsylvania,Ind,Frank Dole,A,Lehigh,Ind,,L,0,28
+1886-11-25,Pennsylvania,Ind,Frank Dole,H,Harvard,Ind,Frank Mason,L,0,28
+1886-10-02,Harvard,Ind,Frank Mason,A,Tufts,Ind,James Gallety,W,82,0
+1886-10-06,Harvard,Ind,Frank Mason,A,MIT,Ind,,W,54,0
+1886-10-09,Harvard,Ind,Frank Mason,H,Tufts,Ind,James Gallety,W,46,0
+1886-10-16,Harvard,Ind,Frank Mason,H,Stevens,Ind,,W,44,0
+1886-10-20,Harvard,Ind,Frank Mason,H,MIT,Ind,,W,59,0
+1886-10-30,Harvard,Ind,Frank Mason,N,Dartmouth,Ind,,W,70,0
+1886-11-06,Harvard,Ind,Frank Mason,H,Wesleyan (CT),Ind,,W,34,0
+1886-11-13,Harvard,Ind,Frank Mason,A,Princeton,Ind,,L,0,12
+1886-11-17,Harvard,Ind,Frank Mason,A,MIT,Ind,,W,62,0
+1886-11-20,Harvard,Ind,Frank Mason,H,Yale,Ind,,L,4,29
+1886-11-25,Harvard,Ind,Frank Mason,A,Pennsylvania,Ind,Frank Dole,W,28,0
+1886-09-29,Tufts,Ind,James Gallety,A,Williams,Ind,,L,0,61
+1886-10-02,Tufts,Ind,James Gallety,H,Harvard,Ind,Frank Mason,L,0,82
+1886-10-06,Tufts,Ind,James Gallety,H,Williams,Ind,,L,4,33
+1886-10-09,Tufts,Ind,James Gallety,A,Harvard,Ind,Frank Mason,L,0,46
+1886-10-13,Tufts,Ind,James Gallety,H,Amherst,Ind,,L,4,18
+1886-10-20,Tufts,Ind,James Gallety,A,Amherst,Ind,,L,4,22
+1886-11-06,Tufts,Ind,James Gallety,A,MIT,Ind,,L,8,26
+1886-09-29,Williams,Ind,,H,Tufts,Ind,James Gallety,W,61,0
+1886-10-02,Williams,Ind,,A,MIT,Ind,,T,14,14
+1886-10-06,Williams,Ind,,A,Tufts,Ind,James Gallety,W,33,4
+1886-10-09,Williams,Ind,,H,MIT,Ind,,W,21,0
+1886-10-23,Williams,Ind,,H,Yale,Ind,,L,0,76
+1886-11-06,Williams,Ind,,A,Amherst,Ind,,W,15,2
+1886-11-13,Williams,Ind,,H,Amherst,Ind,,W,11,0
+1886-10-13,Amherst,Ind,,A,Tufts,Ind,James Gallety,W,18,4
+1886-10-16,Amherst,Ind,,A,Wesleyan (CT),Ind,,L,0,47
+1886-10-20,Amherst,Ind,,H,Tufts,Ind,James Gallety,W,22,4
+1886-10-30,Amherst,Ind,,A,MIT,Ind,,L,0,22
+1886-11-06,Amherst,Ind,,H,Williams,Ind,,L,2,15
+1886-11-13,Amherst,Ind,,A,Williams,Ind,,L,0,11
+1886-10-16,Lafayette,Ind,,H,Rutgers,Ind,,W,28,2
+1886-10-20,Lafayette,Ind,,H,Pennsylvania,Ind,Frank Dole,W,12,0
+1886-10-23,Lafayette,Ind,,A,Stevens,Ind,,W,5,0
+1886-10-30,Lafayette,Ind,,A,Pennsylvania,Ind,Frank Dole,L,10,20
+1886-11-06,Lafayette,Ind,,H,Lehigh,Ind,,W,12,0
+1886-11-13,Lafayette,Ind,,A,Wesleyan (CT),Ind,,L,0,26
+1886-11-17,Lafayette,Ind,,A,Rutgers,Ind,,W,26,10
+1886-11-20,Lafayette,Ind,,H,Stevens,Ind,,W,58,0
+1886-11-24,Lafayette,Ind,,A,Lehigh,Ind,,W,4,0
+1886-10-02,MIT,Ind,,H,Williams,Ind,,T,14,14
+1886-10-06,MIT,Ind,,H,Harvard,Ind,Frank Mason,L,0,54
+1886-10-09,MIT,Ind,,A,Williams,Ind,,L,0,21
+1886-10-16,MIT,Ind,,A,Yale,Ind,,L,0,96
+1886-10-20,MIT,Ind,,A,Harvard,Ind,Frank Mason,L,0,59
+1886-10-23,MIT,Ind,,A,Dartmouth,Ind,,L,6,11
+1886-10-30,MIT,Ind,,H,Amherst,Ind,,W,22,0
+1886-11-06,MIT,Ind,,H,Tufts,Ind,James Gallety,W,26,8
+1886-11-17,MIT,Ind,,H,Harvard,Ind,Frank Mason,L,0,62

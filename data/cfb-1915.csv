@@ -1,0 +1,471 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1915-10-02,North Carolina,Ind,T.C. Trenchard,H,Citadel,Ind,George Rogers,W,14,7
+1915-10-09,North Carolina,Ind,T.C. Trenchard,H,Wake Forest,Ind,W.C. Smith,W,35,0
+1915-10-16,North Carolina,Ind,T.C. Trenchard,A,Georgetown,Ind,,L,0,38
+1915-10-23,North Carolina,Ind,T.C. Trenchard,H,Virginia Military Institute,Ind,Frank Gorton,T,3,3
+1915-10-30,North Carolina,Ind,T.C. Trenchard,A,Georgia Tech,Ind,John Heisman,L,3,23
+1915-11-06,North Carolina,Ind,T.C. Trenchard,A,Clemson,Ind,Bob Williams,W,9,7
+1915-11-13,North Carolina,Ind,T.C. Trenchard,N,Davidson,Ind,William Fetzer,W,41,6
+1915-11-25,North Carolina,Ind,T.C. Trenchard,A,Virginia,Ind,Harry Varner,L,0,14
+1915-10-16,Indiana,Western,Clarence Childs,A,Chicago,Western,Amos Alonzo Stagg,L,7,13
+1915-10-30,Indiana,Western,Clarence Childs,H,Washington & Lee,Ind,Jogger Elcock,T,7,7
+1915-11-06,Indiana,Western,Clarence Childs,A,Ohio State,Western,John Wilce,L,9,10
+1915-11-13,Indiana,Western,Clarence Childs,A,Northwestern,Western,Fred Murphy,W,14,6
+1915-11-20,Indiana,Western,Clarence Childs,H,Purdue,Western,Andy Smith,L,0,7
+1915-10-09,Iowa State,MVIAA,,A,Minnesota,Western,Henry Williams,L,6,34
+1915-10-23,Iowa State,MVIAA,,H,Missouri,MVIAA,Henry Schulte,W,14,6
+1915-10-30,Iowa State,MVIAA,,H,Nebraska,MVIAA,Jumbo Stiehm,L,0,21
+1915-11-13,Iowa State,MVIAA,,A,Iowa,Western,Jesse Hawley,W,16,0
+1915-11-25,Iowa State,MVIAA,,A,Drake,MVIAA,John Griffith,W,28,14
+1915-09-25,Furman,Ind,W.B. Bible,H,Clemson,Ind,Bob Williams,L,0,99
+1915-10-15,Furman,Ind,W.B. Bible,H,Presbyterian,Ind,Walter Johnson,L,12,20
+1915-11-03,Furman,Ind,W.B. Bible,H,Presbyterian,Ind,Walter Johnson,W,38,7
+1915-11-06,Furman,Ind,W.B. Bible,A,Davidson,Ind,William Fetzer,L,13,58
+1915-11-13,Furman,Ind,W.B. Bible,H,Newberry,Ind,William Shaw,W,7,0
+1915-11-25,Furman,Ind,W.B. Bible,H,Wofford,Ind,Harvey Hester,W,25,0
+1915-10-09,Utah,RMC,Nelson Norgren,H,Wyoming,RMC,John Corbett,W,70,7
+1915-10-16,Utah,RMC,Nelson Norgren,H,Colorado State,RMC,Harry Hughes,L,9,21
+1915-10-23,Utah,RMC,Nelson Norgren,H,Colorado Mines,RMC,William Hanley,W,7,0
+1915-10-30,Utah,RMC,Nelson Norgren,H,Colorado,RMC,Fred Folsom,W,35,3
+1915-11-06,Utah,RMC,Nelson Norgren,A,Colorado College,RMC,C.J. Rothget,L,7,27
+1915-11-25,Utah,RMC,Nelson Norgren,H,Utah State,RMC,,W,14,0
+1915-09-25,Washington & Lee,Ind,Jogger Elcock,H,Davidson,Ind,William Fetzer,W,14,0
+1915-10-02,Washington & Lee,Ind,Jogger Elcock,H,West Virginia Wesleyan,Ind,,W,20,0
+1915-10-16,Washington & Lee,Ind,Jogger Elcock,N,Virginia Tech,Ind,Branch Bocock,W,13,0
+1915-10-30,Washington & Lee,Ind,Jogger Elcock,A,Indiana,Western,Clarence Childs,T,7,7
+1915-11-13,Washington & Lee,Ind,Jogger Elcock,A,Cornell,Ind,,L,21,40
+1915-11-25,Washington & Lee,Ind,Jogger Elcock,N,North Carolina State,Ind,Jack Hegarty,W,48,13
+1915-10-02,Syracuse,Ind,,H,Bucknell,Ind,George Johnson,W,6,0
+1915-10-09,Syracuse,Ind,,A,Princeton,Ind,John Rush,L,0,3
+1915-10-23,Syracuse,Ind,,A,Brown,Ind,Edward Robinson,W,6,0
+1915-10-30,Syracuse,Ind,,A,Michigan,Ind,Fielding Yost,W,14,7
+1915-11-13,Syracuse,Ind,,H,Colgate,Ind,Laurence Bankart,W,38,0
+1915-11-20,Syracuse,Ind,,H,Dartmouth,Ind,Frank Cavanaugh,T,0,0
+1915-10-02,Haskell,Ind,,A,Illinois,Western,Robert Zuppke,L,0,36
+1915-10-09,Haskell,Ind,,A,Notre Dame,Ind,Jesse Harper,L,0,34
+1915-10-30,Haskell,Ind,,A,Texas A&M,SWC,E.H. Harlan,L,7,21
+1915-11-06,Haskell,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,0,35
+1915-11-20,Haskell,Ind,,H,Oklahoma State,SWC,John Griffith,W,21,7
+1915-09-25,Georgetown,Ind,,A,Princeton,Ind,John Rush,L,0,13
+1915-10-02,Georgetown,Ind,,A,Navy,Ind,Jonas Ingram,W,9,0
+1915-10-16,Georgetown,Ind,,H,North Carolina,Ind,T.C. Trenchard,W,38,0
+1915-10-23,Georgetown,Ind,,A,Army,Ind,Charles Daly,L,0,10
+1915-11-06,Georgetown,Ind,,A,North Carolina State,Ind,Jack Hegarty,W,28,0
+1915-11-20,Georgetown,Ind,,H,South Carolina,Ind,N.B. Edgerton,W,61,0
+1915-10-09,Penn State,Ind,Dick Harlow,A,Pennsylvania,Ind,George Brooke,W,13,3
+1915-10-23,Penn State,Ind,Dick Harlow,H,West Virginia Wesleyan,Ind,,W,28,0
+1915-10-30,Penn State,Ind,Dick Harlow,A,Harvard,Ind,Percy Haughton,L,0,13
+1915-11-05,Penn State,Ind,Dick Harlow,H,Lehigh,Ind,Tom Keady,W,7,0
+1915-11-13,Penn State,Ind,Dick Harlow,A,Lafayette,Ind,Wilmer Crowell,W,33,3
+1915-11-25,Penn State,Ind,Dick Harlow,A,Pitt,Ind,Pop Warner,L,0,20
+1915-09-25,Princeton,Ind,John Rush,H,Georgetown,Ind,,W,13,0
+1915-10-09,Princeton,Ind,John Rush,H,Syracuse,Ind,,W,3,0
+1915-10-16,Princeton,Ind,John Rush,H,Lafayette,Ind,Wilmer Crowell,W,40,3
+1915-10-23,Princeton,Ind,John Rush,H,Dartmouth,Ind,Frank Cavanaugh,W,30,7
+1915-11-06,Princeton,Ind,John Rush,H,Harvard,Ind,Percy Haughton,L,6,10
+1915-11-13,Princeton,Ind,John Rush,A,Yale,Ind,Frank Hinkey,L,7,13
+1915-10-23,Vanderbilt,Ind,Dan McGugin,N,Ole Miss,Ind,Fred Robbins,W,91,0
+1915-10-30,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,Zora Clevenger,W,35,0
+1915-11-06,Vanderbilt,Ind,Dan McGugin,A,Virginia,Ind,Harry Varner,L,10,35
+1915-11-13,Vanderbilt,Ind,Dan McGugin,A,Auburn,Ind,Mike Donahue,W,17,0
+1915-11-20,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,W,27,3
+1915-10-23,Colorado College,RMC,C.J. Rothget,A,Colorado,RMC,Fred Folsom,W,44,0
+1915-10-30,Colorado College,RMC,C.J. Rothget,A,Denver,RMC,John Fike,W,21,0
+1915-11-06,Colorado College,RMC,C.J. Rothget,H,Utah,RMC,Nelson Norgren,W,27,7
+1915-11-13,Colorado College,RMC,C.J. Rothget,H,Colorado State,RMC,Harry Hughes,L,13,24
+1915-11-26,Colorado College,RMC,C.J. Rothget,N,Colorado Mines,RMC,William Hanley,L,3,6
+1915-10-16,Kentucky,Ind,J.J. Tigert,A,Mississippi State,Ind,E.C. Hayes,L,0,12
+1915-10-23,Kentucky,Ind,J.J. Tigert,H,Sewanee,Ind,Harris Cope,T,7,7
+1915-11-13,Kentucky,Ind,J.J. Tigert,H,Purdue,Western,Andy Smith,W,7,0
+1915-11-25,Kentucky,Ind,J.J. Tigert,H,Tennessee,Ind,Zora Clevenger,W,6,0
+1915-10-09,Florida,Ind,,A,Auburn,Ind,Mike Donahue,L,0,7
+1915-10-16,Florida,Ind,,H,Sewanee,Ind,Harris Cope,L,0,7
+1915-11-06,Florida,Ind,,N,Georgia,Ind,W.A. Cunningham,L,0,37
+1915-11-13,Florida,Ind,,H,Citadel,Ind,George Rogers,W,6,0
+1915-11-18,Florida,Ind,,H,Tulane,Ind,Clark Shaughnessy,W,14,7
+1915-10-02,Presbyterian,Ind,Walter Johnson,H,Wofford,Ind,Harvey Hester,W,16,6
+1915-10-09,Presbyterian,Ind,Walter Johnson,A,South Carolina,Ind,N.B. Edgerton,L,0,41
+1915-10-15,Presbyterian,Ind,Walter Johnson,A,Furman,Ind,W.B. Bible,W,20,12
+1915-10-23,Presbyterian,Ind,Walter Johnson,A,Citadel,Ind,George Rogers,L,0,14
+1915-11-03,Presbyterian,Ind,Walter Johnson,A,Furman,Ind,W.B. Bible,L,7,38
+1915-11-20,Presbyterian,Ind,Walter Johnson,A,Newberry,Ind,William Shaw,L,13,20
+1915-10-23,Southwestern (TX),SWC,,H,Baylor,SWC,Bubs Mosley,L,0,10
+1915-10-30,Southwestern (TX),SWC,,A,Texas,SWC,Dave Allerdice,L,0,45
+1915-11-13,Southwestern (TX),SWC,,A,Texas Christian,Ind,Ewing Freeland,L,0,21
+1915-10-02,Illinois,Western,Robert Zuppke,H,Haskell,Ind,,W,36,0
+1915-10-16,Illinois,Western,Robert Zuppke,A,Ohio State,Western,John Wilce,T,3,3
+1915-10-23,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Fred Murphy,W,36,6
+1915-11-06,Illinois,Western,Robert Zuppke,H,Minnesota,Western,Henry Williams,T,6,6
+1915-11-13,Illinois,Western,Robert Zuppke,H,Wisconsin,Western,William Juneau,W,17,3
+1915-11-20,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,W,10,0
+1915-10-08,Baylor,SWC,Bubs Mosley,A,Rice,SWC,Phillip Arbuckle,W,26,0
+1915-10-23,Baylor,SWC,Bubs Mosley,A,Southwestern (TX),SWC,,W,10,0
+1915-11-08,Baylor,SWC,Bubs Mosley,H,Sewanee,Ind,Harris Cope,L,3,16
+1915-11-13,Baylor,SWC,Bubs Mosley,H,Oklahoma State,SWC,John Griffith,W,12,6
+1915-11-25,Baylor,SWC,Bubs Mosley,H,Texas Christian,Ind,Ewing Freeland,W,51,0
+1915-09-28,Georgia,Ind,W.A. Cunningham,H,Newberry,Ind,William Shaw,W,79,0
+1915-10-16,Georgia,Ind,W.A. Cunningham,A,Citadel,Ind,George Rogers,W,39,0
+1915-10-23,Georgia,Ind,W.A. Cunningham,H,Virginia,Ind,Harry Varner,L,7,9
+1915-10-30,Georgia,Ind,W.A. Cunningham,H,Auburn,Ind,Mike Donahue,L,0,12
+1915-11-06,Georgia,Ind,W.A. Cunningham,N,Florida,Ind,,W,37,0
+1915-11-13,Georgia,Ind,W.A. Cunningham,A,Georgia Tech,Ind,John Heisman,T,0,0
+1915-11-25,Georgia,Ind,W.A. Cunningham,H,Clemson,Ind,Bob Williams,W,13,0
+1915-10-02,Virginia,Ind,Harry Varner,A,Yale,Ind,Frank Hinkey,W,10,0
+1915-10-16,Virginia,Ind,Harry Varner,A,Harvard,Ind,Percy Haughton,L,0,9
+1915-10-23,Virginia,Ind,Harry Varner,A,Georgia,Ind,W.A. Cunningham,W,9,7
+1915-10-30,Virginia,Ind,Harry Varner,H,Virginia Military Institute,Ind,Frank Gorton,W,44,0
+1915-11-06,Virginia,Ind,Harry Varner,H,Vanderbilt,Ind,Dan McGugin,W,35,10
+1915-11-13,Virginia,Ind,Harry Varner,A,South Carolina,Ind,N.B. Edgerton,W,13,0
+1915-11-25,Virginia,Ind,Harry Varner,H,North Carolina,Ind,T.C. Trenchard,W,14,0
+1915-10-02,Citadel,Ind,George Rogers,A,North Carolina,Ind,T.C. Trenchard,L,7,14
+1915-10-16,Citadel,Ind,George Rogers,H,Georgia,Ind,W.A. Cunningham,L,0,39
+1915-10-23,Citadel,Ind,George Rogers,H,Presbyterian,Ind,Walter Johnson,W,14,0
+1915-11-06,Citadel,Ind,George Rogers,H,Newberry,Ind,William Shaw,W,48,3
+1915-11-13,Citadel,Ind,George Rogers,A,Florida,Ind,,L,0,6
+1915-11-25,Citadel,Ind,George Rogers,A,South Carolina,Ind,N.B. Edgerton,W,3,0
+1915-10-16,Oklahoma,SWC,Bennie Owen,A,Missouri,MVIAA,Henry Schulte,W,24,0
+1915-10-23,Oklahoma,SWC,Bennie Owen,N,Texas,SWC,Dave Allerdice,W,14,13
+1915-10-30,Oklahoma,SWC,Bennie Owen,H,Kansas,MVIAA,Herman Olcott,W,23,14
+1915-11-14,Oklahoma,SWC,Bennie Owen,A,Arkansas,SWC,T.T. McConnell,W,24,0
+1915-11-19,Oklahoma,SWC,Bennie Owen,A,Kansas State,MVIAA,John Bender,W,21,7
+1915-11-25,Oklahoma,SWC,Bennie Owen,N,Oklahoma State,SWC,John Griffith,W,26,7
+1915-10-16,Virginia Tech,Ind,Branch Bocock,N,Washington & Lee,Ind,Jogger Elcock,L,0,13
+1915-10-23,Virginia Tech,Ind,Branch Bocock,A,Navy,Ind,Jonas Ingram,L,0,20
+1915-10-30,Virginia Tech,Ind,Branch Bocock,A,Cornell,Ind,,L,0,45
+1915-11-13,Virginia Tech,Ind,Branch Bocock,A,West Virginia,Ind,Sol Metzger,L,0,19
+1915-11-25,Virginia Tech,Ind,Branch Bocock,N,Virginia Military Institute,Ind,Frank Gorton,W,27,9
+1915-10-23,Arkansas,SWC,T.T. McConnell,H,Oklahoma State,SWC,John Griffith,W,14,9
+1915-11-05,Arkansas,SWC,T.T. McConnell,N,LSU,Ind,E.T. McDonald,L,7,13
+1915-11-14,Arkansas,SWC,T.T. McConnell,H,Oklahoma,SWC,Bennie Owen,L,0,24
+1915-09-25,Clemson,Ind,Bob Williams,A,Furman,Ind,W.B. Bible,W,99,0
+1915-10-02,Clemson,Ind,Bob Williams,H,Davidson,Ind,William Fetzer,T,6,6
+1915-10-09,Clemson,Ind,Bob Williams,A,Tennessee,Ind,Zora Clevenger,W,3,0
+1915-10-16,Clemson,Ind,Bob Williams,H,Auburn,Ind,Mike Donahue,L,0,14
+1915-10-28,Clemson,Ind,Bob Williams,A,South Carolina,Ind,N.B. Edgerton,T,0,0
+1915-11-06,Clemson,Ind,Bob Williams,H,North Carolina,Ind,T.C. Trenchard,L,7,9
+1915-11-13,Clemson,Ind,Bob Williams,A,Virginia Military Institute,Ind,Frank Gorton,L,3,6
+1915-11-25,Clemson,Ind,Bob Williams,A,Georgia,Ind,W.A. Cunningham,L,0,13
+1915-10-02,South Carolina,Ind,N.B. Edgerton,H,Newberry,Ind,William Shaw,W,29,0
+1915-10-09,South Carolina,Ind,N.B. Edgerton,H,Presbyterian,Ind,Walter Johnson,W,41,0
+1915-10-21,South Carolina,Ind,N.B. Edgerton,A,North Carolina State,Ind,Jack Hegarty,W,19,10
+1915-10-28,South Carolina,Ind,N.B. Edgerton,H,Clemson,Ind,Bob Williams,T,0,0
+1915-11-04,South Carolina,Ind,N.B. Edgerton,A,Wofford,Ind,Harvey Hester,W,33,6
+1915-11-13,South Carolina,Ind,N.B. Edgerton,H,Virginia,Ind,Harry Varner,L,0,13
+1915-11-20,South Carolina,Ind,N.B. Edgerton,A,Georgetown,Ind,,L,0,61
+1915-11-25,South Carolina,Ind,N.B. Edgerton,H,Citadel,Ind,George Rogers,L,0,3
+1915-10-02,West Virginia Wesleyan,Ind,,A,Washington & Lee,Ind,Jogger Elcock,L,0,20
+1915-10-23,West Virginia Wesleyan,Ind,,A,Penn State,Ind,Dick Harlow,L,0,28
+1915-10-30,West Virginia Wesleyan,Ind,,A,Carlisle,Ind,Choc Kelly,W,14,0
+1915-11-13,West Virginia Wesleyan,Ind,,A,Washington & Jefferson,Ind,Bob Folwell,L,3,7
+1915-11-25,West Virginia Wesleyan,Ind,,N,West Virginia,Ind,Sol Metzger,L,0,30
+1915-10-23,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,0,59
+1915-10-27,Utah State,RMC,,A,Wyoming,RMC,John Corbett,L,7,13
+1915-11-25,Utah State,RMC,,A,Utah,RMC,Nelson Norgren,L,0,14
+1915-10-02,Missouri,MVIAA,Henry Schulte,H,Oklahoma State,SWC,John Griffith,W,13,6
+1915-10-09,Missouri,MVIAA,Henry Schulte,A,Washington (MO),MVIAA,W.P. Edmunds,L,0,13
+1915-10-16,Missouri,MVIAA,Henry Schulte,H,Oklahoma,SWC,Bennie Owen,L,0,24
+1915-10-23,Missouri,MVIAA,Henry Schulte,A,Iowa State,MVIAA,,L,6,14
+1915-10-29,Missouri,MVIAA,Henry Schulte,H,Kansas State,MVIAA,John Bender,T,0,0
+1915-11-06,Missouri,MVIAA,Henry Schulte,A,Northwestern,Western,Fred Murphy,L,6,24
+1915-11-13,Missouri,MVIAA,Henry Schulte,H,Drake,MVIAA,John Griffith,W,41,13
+1915-11-25,Missouri,MVIAA,Henry Schulte,H,Kansas,MVIAA,Herman Olcott,L,6,8
+1915-10-23,Denver,RMC,John Fike,A,Wyoming,RMC,John Corbett,W,19,7
+1915-10-30,Denver,RMC,John Fike,H,Colorado College,RMC,C.J. Rothget,L,0,21
+1915-11-06,Denver,RMC,John Fike,A,Colorado Mines,RMC,William Hanley,L,0,18
+1915-11-20,Denver,RMC,John Fike,H,Colorado,RMC,Fred Folsom,W,7,0
+1915-11-25,Denver,RMC,John Fike,A,Colorado State,RMC,Harry Hughes,L,3,34
+1915-10-02,Washington & Jefferson,Ind,Bob Folwell,A,West Virginia,Ind,Sol Metzger,T,6,6
+1915-10-09,Washington & Jefferson,Ind,Bob Folwell,H,Lafayette,Ind,Wilmer Crowell,W,17,0
+1915-10-23,Washington & Jefferson,Ind,Bob Folwell,A,Yale,Ind,Frank Hinkey,W,16,7
+1915-11-06,Washington & Jefferson,Ind,Bob Folwell,A,Pitt,Ind,Pop Warner,L,0,19
+1915-11-13,Washington & Jefferson,Ind,Bob Folwell,H,West Virginia Wesleyan,Ind,,W,7,3
+1915-11-25,Washington & Jefferson,Ind,Bob Folwell,H,Lehigh,Ind,Tom Keady,W,27,3
+1915-10-02,Wofford,Ind,Harvey Hester,A,Presbyterian,Ind,Walter Johnson,L,6,16
+1915-10-16,Wofford,Ind,Harvey Hester,A,Davidson,Ind,William Fetzer,L,0,45
+1915-10-30,Wofford,Ind,Harvey Hester,H,Newberry,Ind,William Shaw,W,10,7
+1915-11-04,Wofford,Ind,Harvey Hester,H,South Carolina,Ind,N.B. Edgerton,L,6,33
+1915-11-25,Wofford,Ind,Harvey Hester,A,Furman,Ind,W.B. Bible,L,0,25
+1915-10-02,Mississippi College,Ind,Dana Bible,N,Mississippi State,Ind,E.C. Hayes,L,0,12
+1915-10-08,Mississippi College,Ind,Dana Bible,A,LSU,Ind,E.T. McDonald,L,0,14
+1915-10-16,Mississippi College,Ind,Dana Bible,A,Alabama,Ind,Thomas Kelley,L,0,40
+1915-10-30,Mississippi College,Ind,Dana Bible,A,Tulane,Ind,Clark Shaughnessy,W,20,6
+1915-11-13,Mississippi College,Ind,Dana Bible,N,Ole Miss,Ind,Fred Robbins,W,74,6
+1915-10-16,Wisconsin,Western,William Juneau,A,Purdue,Western,Andy Smith,W,28,3
+1915-10-23,Wisconsin,Western,William Juneau,H,Ohio State,Western,John Wilce,W,21,0
+1915-10-30,Wisconsin,Western,William Juneau,A,Chicago,Western,Amos Alonzo Stagg,L,13,14
+1915-11-13,Wisconsin,Western,William Juneau,A,Illinois,Western,Robert Zuppke,L,3,17
+1915-11-20,Wisconsin,Western,William Juneau,H,Minnesota,Western,Henry Williams,L,3,20
+1915-10-02,Bucknell,Ind,George Johnson,A,Syracuse,Ind,,L,0,6
+1915-10-16,Bucknell,Ind,George Johnson,A,Cornell,Ind,,L,0,41
+1915-10-23,Bucknell,Ind,George Johnson,A,Carlisle,Ind,Choc Kelly,T,0,0
+1915-11-06,Bucknell,Ind,George Johnson,A,Navy,Ind,Jonas Ingram,L,3,13
+1915-10-16,Colorado Mines,RMC,William Hanley,H,Wyoming,RMC,John Corbett,W,19,0
+1915-10-23,Colorado Mines,RMC,William Hanley,A,Utah,RMC,Nelson Norgren,L,0,7
+1915-10-30,Colorado Mines,RMC,William Hanley,A,Colorado State,RMC,Harry Hughes,L,0,35
+1915-11-06,Colorado Mines,RMC,William Hanley,H,Denver,RMC,John Fike,W,18,0
+1915-11-13,Colorado Mines,RMC,William Hanley,H,Colorado,RMC,Fred Folsom,W,13,6
+1915-11-26,Colorado Mines,RMC,William Hanley,N,Colorado College,RMC,C.J. Rothget,W,6,3
+1915-10-16,North Carolina State,Ind,Jack Hegarty,A,Wake Forest,Ind,W.C. Smith,W,7,0
+1915-10-21,North Carolina State,Ind,Jack Hegarty,H,South Carolina,Ind,N.B. Edgerton,L,10,19
+1915-10-30,North Carolina State,Ind,Jack Hegarty,A,Navy,Ind,Jonas Ingram,W,14,12
+1915-11-06,North Carolina State,Ind,Jack Hegarty,H,Georgetown,Ind,,L,0,28
+1915-11-25,North Carolina State,Ind,Jack Hegarty,N,Washington & Lee,Ind,Jogger Elcock,L,13,48
+1915-10-30,Michigan,Ind,Fielding Yost,H,Syracuse,Ind,,L,7,14
+1915-11-06,Michigan,Ind,Fielding Yost,H,Cornell,Ind,,L,7,34
+1915-11-13,Michigan,Ind,Fielding Yost,A,Pennsylvania,Ind,George Brooke,T,0,0
+1915-10-09,Notre Dame,Ind,Jesse Harper,H,Haskell,Ind,,W,34,0
+1915-10-23,Notre Dame,Ind,Jesse Harper,A,Nebraska,MVIAA,Jumbo Stiehm,L,19,20
+1915-11-06,Notre Dame,Ind,Jesse Harper,A,Army,Ind,Charles Daly,W,7,0
+1915-11-25,Notre Dame,Ind,Jesse Harper,A,Texas,SWC,Dave Allerdice,W,36,7
+1915-11-27,Notre Dame,Ind,Jesse Harper,A,Rice,SWC,Phillip Arbuckle,W,55,2
+1915-10-09,Pitt,Ind,Pop Warner,A,Navy,Ind,Jonas Ingram,W,47,12
+1915-10-16,Pitt,Ind,Pop Warner,H,Carlisle,Ind,Choc Kelly,W,45,0
+1915-10-23,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,George Brooke,W,14,7
+1915-11-06,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,Bob Folwell,W,19,0
+1915-11-25,Pitt,Ind,Pop Warner,H,Penn State,Ind,Dick Harlow,W,20,0
+1915-09-28,Newberry,Ind,William Shaw,A,Georgia,Ind,W.A. Cunningham,L,0,79
+1915-10-02,Newberry,Ind,William Shaw,A,South Carolina,Ind,N.B. Edgerton,L,0,29
+1915-10-30,Newberry,Ind,William Shaw,A,Wofford,Ind,Harvey Hester,L,7,10
+1915-11-06,Newberry,Ind,William Shaw,A,Citadel,Ind,George Rogers,L,3,48
+1915-11-13,Newberry,Ind,William Shaw,A,Furman,Ind,W.B. Bible,L,0,7
+1915-11-20,Newberry,Ind,William Shaw,H,Presbyterian,Ind,Walter Johnson,W,20,13
+1915-10-02,Wyoming,RMC,John Corbett,A,Colorado,RMC,Fred Folsom,L,0,30
+1915-10-09,Wyoming,RMC,John Corbett,A,Utah,RMC,Nelson Norgren,L,7,70
+1915-10-16,Wyoming,RMC,John Corbett,A,Colorado Mines,RMC,William Hanley,L,0,19
+1915-10-23,Wyoming,RMC,John Corbett,H,Denver,RMC,John Fike,L,7,19
+1915-10-27,Wyoming,RMC,John Corbett,H,Utah State,RMC,,W,13,7
+1915-11-06,Wyoming,RMC,John Corbett,H,Colorado State,RMC,Harry Hughes,L,0,48
+1915-10-02,Yale,Ind,Frank Hinkey,H,Virginia,Ind,Harry Varner,L,0,10
+1915-10-09,Yale,Ind,Frank Hinkey,H,Lehigh,Ind,Tom Keady,W,7,6
+1915-10-23,Yale,Ind,Frank Hinkey,H,Washington & Jefferson,Ind,Bob Folwell,L,7,16
+1915-10-30,Yale,Ind,Frank Hinkey,H,Colgate,Ind,Laurence Bankart,L,0,15
+1915-11-06,Yale,Ind,Frank Hinkey,H,Brown,Ind,Edward Robinson,L,0,3
+1915-11-13,Yale,Ind,Frank Hinkey,H,Princeton,Ind,John Rush,W,13,7
+1915-11-20,Yale,Ind,Frank Hinkey,A,Harvard,Ind,Percy Haughton,L,0,41
+1915-10-02,Carlisle,Ind,Choc Kelly,A,Lehigh,Ind,Tom Keady,L,0,14
+1915-10-09,Carlisle,Ind,Choc Kelly,A,Harvard,Ind,Percy Haughton,L,7,29
+1915-10-16,Carlisle,Ind,Choc Kelly,A,Pitt,Ind,Pop Warner,L,0,45
+1915-10-23,Carlisle,Ind,Choc Kelly,H,Bucknell,Ind,George Johnson,T,0,0
+1915-10-30,Carlisle,Ind,Choc Kelly,H,West Virginia Wesleyan,Ind,,L,0,14
+1915-11-27,Carlisle,Ind,Choc Kelly,A,Brown,Ind,Edward Robinson,L,3,39
+1915-10-09,Georgia Tech,Ind,John Heisman,H,Davidson,Ind,William Fetzer,W,27,7
+1915-10-22,Georgia Tech,Ind,John Heisman,A,LSU,Ind,E.T. McDonald,W,36,7
+1915-10-30,Georgia Tech,Ind,John Heisman,H,North Carolina,Ind,T.C. Trenchard,W,23,3
+1915-11-06,Georgia Tech,Ind,John Heisman,H,Alabama,Ind,Thomas Kelley,W,21,7
+1915-11-13,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,W.A. Cunningham,T,0,0
+1915-11-25,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,W,7,0
+1915-10-09,Wake Forest,Ind,W.C. Smith,A,North Carolina,Ind,T.C. Trenchard,L,0,35
+1915-10-16,Wake Forest,Ind,W.C. Smith,H,North Carolina State,Ind,Jack Hegarty,L,0,7
+1915-11-06,Wake Forest,Ind,W.C. Smith,A,Virginia Military Institute,Ind,Frank Gorton,L,6,21
+1915-11-25,Wake Forest,Ind,W.C. Smith,N,Davidson,Ind,William Fetzer,L,7,21
+1915-10-02,Mississippi State,Ind,E.C. Hayes,N,Mississippi College,Ind,Dana Bible,W,12,0
+1915-10-16,Mississippi State,Ind,E.C. Hayes,H,Kentucky,Ind,J.J. Tigert,W,12,0
+1915-10-23,Mississippi State,Ind,E.C. Hayes,A,Auburn,Ind,Mike Donahue,L,0,26
+1915-10-30,Mississippi State,Ind,E.C. Hayes,A,LSU,Ind,E.T. McDonald,L,0,10
+1915-11-06,Mississippi State,Ind,E.C. Hayes,N,Ole Miss,Ind,Fred Robbins,W,65,0
+1915-11-13,Mississippi State,Ind,E.C. Hayes,H,Tennessee,Ind,Zora Clevenger,W,14,0
+1915-11-25,Mississippi State,Ind,E.C. Hayes,A,Texas A&M,SWC,E.H. Harlan,W,7,0
+1915-10-23,Virginia Military Institute,Ind,Frank Gorton,A,North Carolina,Ind,T.C. Trenchard,T,3,3
+1915-10-30,Virginia Military Institute,Ind,Frank Gorton,A,Virginia,Ind,Harry Varner,L,0,44
+1915-11-06,Virginia Military Institute,Ind,Frank Gorton,H,Wake Forest,Ind,W.C. Smith,W,21,6
+1915-11-13,Virginia Military Institute,Ind,Frank Gorton,H,Clemson,Ind,Bob Williams,W,6,3
+1915-11-25,Virginia Military Institute,Ind,Frank Gorton,N,Virginia Tech,Ind,Branch Bocock,L,9,27
+1915-10-09,Kansas State,MVIAA,John Bender,A,Nebraska,MVIAA,Jumbo Stiehm,L,0,31
+1915-10-23,Kansas State,MVIAA,John Bender,H,Kansas,MVIAA,Herman Olcott,L,7,19
+1915-10-29,Kansas State,MVIAA,John Bender,A,Missouri,MVIAA,Henry Schulte,T,0,0
+1915-11-19,Kansas State,MVIAA,John Bender,H,Oklahoma,SWC,Bennie Owen,L,7,21
+1915-10-16,Army,Ind,Charles Daly,H,Colgate,Ind,Laurence Bankart,L,0,13
+1915-10-23,Army,Ind,Charles Daly,H,Georgetown,Ind,,W,10,0
+1915-11-06,Army,Ind,Charles Daly,H,Notre Dame,Ind,Jesse Harper,L,0,7
+1915-11-27,Army,Ind,Charles Daly,H,Navy,Ind,Jonas Ingram,W,14,0
+1915-10-23,Dartmouth,Ind,Frank Cavanaugh,A,Princeton,Ind,John Rush,L,7,30
+1915-11-06,Dartmouth,Ind,Frank Cavanaugh,N,Pennsylvania,Ind,George Brooke,W,7,3
+1915-11-20,Dartmouth,Ind,Frank Cavanaugh,A,Syracuse,Ind,,T,0,0
+1915-10-09,Auburn,Ind,Mike Donahue,H,Florida,Ind,,W,7,0
+1915-10-16,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Bob Williams,W,14,0
+1915-10-23,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,E.C. Hayes,W,26,0
+1915-10-30,Auburn,Ind,Mike Donahue,A,Georgia,Ind,W.A. Cunningham,W,12,0
+1915-11-13,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Dan McGugin,L,0,17
+1915-11-25,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,L,0,7
+1915-10-09,Northwestern,Western,Fred Murphy,H,Chicago,Western,Amos Alonzo Stagg,L,0,7
+1915-10-16,Northwestern,Western,Fred Murphy,A,Iowa,Western,Jesse Hawley,L,6,9
+1915-10-23,Northwestern,Western,Fred Murphy,A,Illinois,Western,Robert Zuppke,L,6,36
+1915-11-06,Northwestern,Western,Fred Murphy,H,Missouri,MVIAA,Henry Schulte,W,24,6
+1915-11-13,Northwestern,Western,Fred Murphy,H,Indiana,Western,Clarence Childs,L,6,14
+1915-11-20,Northwestern,Western,Fred Murphy,H,Ohio State,Western,John Wilce,L,0,34
+1915-10-16,Kansas,MVIAA,Herman Olcott,H,Drake,MVIAA,John Griffith,W,30,7
+1915-10-23,Kansas,MVIAA,Herman Olcott,A,Kansas State,MVIAA,John Bender,W,19,7
+1915-10-30,Kansas,MVIAA,Herman Olcott,A,Oklahoma,SWC,Bennie Owen,L,14,23
+1915-11-13,Kansas,MVIAA,Herman Olcott,H,Nebraska,MVIAA,Jumbo Stiehm,L,0,33
+1915-11-25,Kansas,MVIAA,Herman Olcott,A,Missouri,MVIAA,Henry Schulte,W,8,6
+1915-10-08,LSU,Ind,E.T. McDonald,H,Mississippi College,Ind,Dana Bible,W,14,0
+1915-10-15,LSU,Ind,E.T. McDonald,A,Ole Miss,Ind,Fred Robbins,W,28,0
+1915-10-22,LSU,Ind,E.T. McDonald,H,Georgia Tech,Ind,John Heisman,L,7,36
+1915-10-30,LSU,Ind,E.T. McDonald,H,Mississippi State,Ind,E.C. Hayes,W,10,0
+1915-11-05,LSU,Ind,E.T. McDonald,N,Arkansas,SWC,T.T. McConnell,W,13,7
+1915-11-17,LSU,Ind,E.T. McDonald,A,Rice,SWC,Phillip Arbuckle,L,0,6
+1915-11-25,LSU,Ind,E.T. McDonald,H,Tulane,Ind,Clark Shaughnessy,W,12,0
+1915-09-25,Pennsylvania,Ind,George Brooke,H,West Virginia,Ind,Sol Metzger,W,7,0
+1915-10-09,Pennsylvania,Ind,George Brooke,H,Penn State,Ind,Dick Harlow,L,3,13
+1915-10-16,Pennsylvania,Ind,George Brooke,A,Navy,Ind,Jonas Ingram,T,7,7
+1915-10-23,Pennsylvania,Ind,George Brooke,H,Pitt,Ind,Pop Warner,L,7,14
+1915-10-30,Pennsylvania,Ind,George Brooke,H,Lafayette,Ind,Wilmer Crowell,L,0,17
+1915-11-06,Pennsylvania,Ind,George Brooke,N,Dartmouth,Ind,Frank Cavanaugh,L,3,7
+1915-11-13,Pennsylvania,Ind,George Brooke,H,Michigan,Ind,Fielding Yost,T,0,0
+1915-11-25,Pennsylvania,Ind,George Brooke,H,Cornell,Ind,,L,9,24
+1915-10-16,Iowa,Western,Jesse Hawley,H,Northwestern,Western,Fred Murphy,W,9,6
+1915-10-23,Iowa,Western,Jesse Hawley,A,Minnesota,Western,Henry Williams,L,13,51
+1915-11-06,Iowa,Western,Jesse Hawley,A,Purdue,Western,Andy Smith,L,13,19
+1915-11-13,Iowa,Western,Jesse Hawley,H,Iowa State,MVIAA,,L,0,16
+1915-11-20,Iowa,Western,Jesse Hawley,A,Nebraska,MVIAA,Jumbo Stiehm,L,7,52
+1915-10-02,Texas,SWC,Dave Allerdice,H,Texas Christian,Ind,Ewing Freeland,W,72,0
+1915-10-16,Texas,SWC,Dave Allerdice,H,Rice,SWC,Phillip Arbuckle,W,59,0
+1915-10-23,Texas,SWC,Dave Allerdice,N,Oklahoma,SWC,Bennie Owen,L,13,14
+1915-10-30,Texas,SWC,Dave Allerdice,H,Southwestern (TX),SWC,,W,45,0
+1915-11-06,Texas,SWC,Dave Allerdice,H,Sewanee,Ind,Harris Cope,W,27,6
+1915-11-13,Texas,SWC,Dave Allerdice,H,Alabama,Ind,Thomas Kelley,W,20,0
+1915-11-19,Texas,SWC,Dave Allerdice,A,Texas A&M,SWC,E.H. Harlan,L,0,13
+1915-11-25,Texas,SWC,Dave Allerdice,H,Notre Dame,Ind,Jesse Harper,L,7,36
+1915-10-02,Texas Christian,Ind,Ewing Freeland,A,Texas,SWC,Dave Allerdice,L,0,72
+1915-10-16,Texas Christian,Ind,Ewing Freeland,H,Texas A&M,SWC,E.H. Harlan,L,10,13
+1915-10-30,Texas Christian,Ind,Ewing Freeland,A,Rice,SWC,Phillip Arbuckle,L,3,33
+1915-11-13,Texas Christian,Ind,Ewing Freeland,H,Southwestern (TX),SWC,,W,21,0
+1915-11-16,Texas Christian,Ind,Ewing Freeland,H,Oklahoma State,SWC,John Griffith,L,0,13
+1915-11-25,Texas Christian,Ind,Ewing Freeland,A,Baylor,SWC,Bubs Mosley,L,0,51
+1915-10-23,Brown,Ind,Edward Robinson,H,Syracuse,Ind,,L,0,6
+1915-11-06,Brown,Ind,Edward Robinson,A,Yale,Ind,Frank Hinkey,W,3,0
+1915-11-13,Brown,Ind,Edward Robinson,A,Harvard,Ind,Percy Haughton,L,7,16
+1915-11-27,Brown,Ind,Edward Robinson,H,Carlisle,Ind,Choc Kelly,W,39,3
+1915-10-09,Tennessee,Ind,Zora Clevenger,H,Clemson,Ind,Bob Williams,L,0,3
+1915-10-30,Tennessee,Ind,Zora Clevenger,A,Vanderbilt,Ind,Dan McGugin,L,0,35
+1915-11-13,Tennessee,Ind,Zora Clevenger,A,Mississippi State,Ind,E.C. Hayes,L,0,14
+1915-11-25,Tennessee,Ind,Zora Clevenger,A,Kentucky,Ind,J.J. Tigert,L,0,6
+1915-10-02,Lehigh,Ind,Tom Keady,H,Carlisle,Ind,Choc Kelly,W,14,0
+1915-10-09,Lehigh,Ind,Tom Keady,A,Yale,Ind,Frank Hinkey,L,6,7
+1915-11-05,Lehigh,Ind,Tom Keady,A,Penn State,Ind,Dick Harlow,L,0,7
+1915-11-20,Lehigh,Ind,Tom Keady,H,Lafayette,Ind,Wilmer Crowell,L,6,35
+1915-11-25,Lehigh,Ind,Tom Keady,A,Washington & Jefferson,Ind,Bob Folwell,L,3,27
+1915-10-16,Alabama,Ind,Thomas Kelley,H,Mississippi College,Ind,Dana Bible,W,40,0
+1915-10-23,Alabama,Ind,Thomas Kelley,H,Tulane,Ind,Clark Shaughnessy,W,16,0
+1915-10-30,Alabama,Ind,Thomas Kelley,H,Sewanee,Ind,Harris Cope,W,23,10
+1915-11-06,Alabama,Ind,Thomas Kelley,A,Georgia Tech,Ind,John Heisman,L,7,21
+1915-11-13,Alabama,Ind,Thomas Kelley,A,Texas,SWC,Dave Allerdice,L,0,20
+1915-11-25,Alabama,Ind,Thomas Kelley,H,Ole Miss,Ind,Fred Robbins,W,53,0
+1915-10-16,Purdue,Western,Andy Smith,H,Wisconsin,Western,William Juneau,L,3,28
+1915-10-23,Purdue,Western,Andy Smith,A,Chicago,Western,Amos Alonzo Stagg,L,0,7
+1915-11-06,Purdue,Western,Andy Smith,H,Iowa,Western,Jesse Hawley,W,19,13
+1915-11-13,Purdue,Western,Andy Smith,A,Kentucky,Ind,J.J. Tigert,L,0,7
+1915-11-20,Purdue,Western,Andy Smith,A,Indiana,Western,Clarence Childs,W,7,0
+1915-10-02,Nebraska,MVIAA,Jumbo Stiehm,H,Drake,MVIAA,John Griffith,W,48,13
+1915-10-09,Nebraska,MVIAA,Jumbo Stiehm,H,Kansas State,MVIAA,John Bender,W,31,0
+1915-10-23,Nebraska,MVIAA,Jumbo Stiehm,H,Notre Dame,Ind,Jesse Harper,W,20,19
+1915-10-30,Nebraska,MVIAA,Jumbo Stiehm,A,Iowa State,MVIAA,,W,21,0
+1915-11-13,Nebraska,MVIAA,Jumbo Stiehm,A,Kansas,MVIAA,Herman Olcott,W,33,0
+1915-11-20,Nebraska,MVIAA,Jumbo Stiehm,H,Iowa,Western,Jesse Hawley,W,52,7
+1915-09-25,West Virginia,Ind,Sol Metzger,A,Pennsylvania,Ind,George Brooke,L,0,7
+1915-10-02,West Virginia,Ind,Sol Metzger,H,Washington & Jefferson,Ind,Bob Folwell,T,6,6
+1915-11-13,West Virginia,Ind,Sol Metzger,H,Virginia Tech,Ind,Branch Bocock,W,19,0
+1915-11-25,West Virginia,Ind,Sol Metzger,N,West Virginia Wesleyan,Ind,,W,30,0
+1915-10-09,Harvard,Ind,Percy Haughton,H,Carlisle,Ind,Choc Kelly,W,29,7
+1915-10-16,Harvard,Ind,Percy Haughton,H,Virginia,Ind,Harry Varner,W,9,0
+1915-10-23,Harvard,Ind,Percy Haughton,H,Cornell,Ind,,L,0,10
+1915-10-30,Harvard,Ind,Percy Haughton,H,Penn State,Ind,Dick Harlow,W,13,0
+1915-11-06,Harvard,Ind,Percy Haughton,A,Princeton,Ind,John Rush,W,10,6
+1915-11-13,Harvard,Ind,Percy Haughton,H,Brown,Ind,Edward Robinson,W,16,7
+1915-11-20,Harvard,Ind,Percy Haughton,H,Yale,Ind,Frank Hinkey,W,41,0
+1915-10-02,Oklahoma State,SWC,John Griffith,A,Missouri,MVIAA,Henry Schulte,L,6,13
+1915-10-23,Oklahoma State,SWC,John Griffith,A,Arkansas,SWC,T.T. McConnell,L,9,14
+1915-11-13,Oklahoma State,SWC,John Griffith,A,Baylor,SWC,Bubs Mosley,L,6,12
+1915-11-16,Oklahoma State,SWC,John Griffith,A,Texas Christian,Ind,Ewing Freeland,W,13,0
+1915-11-20,Oklahoma State,SWC,John Griffith,A,Haskell,Ind,,L,7,21
+1915-11-25,Oklahoma State,SWC,John Griffith,N,Oklahoma,SWC,Bennie Owen,L,7,26
+1915-10-02,Colorado,RMC,Fred Folsom,H,Wyoming,RMC,John Corbett,W,30,0
+1915-10-09,Colorado,RMC,Fred Folsom,H,Colorado State,RMC,Harry Hughes,L,6,23
+1915-10-23,Colorado,RMC,Fred Folsom,H,Colorado College,RMC,C.J. Rothget,L,0,44
+1915-10-30,Colorado,RMC,Fred Folsom,A,Utah,RMC,Nelson Norgren,L,3,35
+1915-11-13,Colorado,RMC,Fred Folsom,A,Colorado Mines,RMC,William Hanley,L,6,13
+1915-11-20,Colorado,RMC,Fred Folsom,A,Denver,RMC,John Fike,L,0,7
+1915-10-09,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Fred Folsom,W,23,6
+1915-10-16,Colorado State,RMC,Harry Hughes,A,Utah,RMC,Nelson Norgren,W,21,9
+1915-10-23,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,W,59,0
+1915-10-30,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,William Hanley,W,35,0
+1915-11-06,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,John Corbett,W,48,0
+1915-11-13,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,C.J. Rothget,W,24,13
+1915-11-25,Colorado State,RMC,Harry Hughes,H,Denver,RMC,John Fike,W,34,3
+1915-10-08,Rice,SWC,Phillip Arbuckle,H,Baylor,SWC,Bubs Mosley,L,0,26
+1915-10-16,Rice,SWC,Phillip Arbuckle,A,Texas,SWC,Dave Allerdice,L,0,59
+1915-10-30,Rice,SWC,Phillip Arbuckle,H,Texas Christian,Ind,Ewing Freeland,W,33,3
+1915-11-08,Rice,SWC,Phillip Arbuckle,H,Texas A&M,SWC,E.H. Harlan,W,7,0
+1915-11-17,Rice,SWC,Phillip Arbuckle,H,LSU,Ind,E.T. McDonald,W,6,0
+1915-11-27,Rice,SWC,Phillip Arbuckle,H,Notre Dame,Ind,Jesse Harper,L,2,55
+1915-10-16,Texas A&M,SWC,E.H. Harlan,A,Texas Christian,Ind,Ewing Freeland,W,13,10
+1915-10-30,Texas A&M,SWC,E.H. Harlan,H,Haskell,Ind,,W,21,7
+1915-11-08,Texas A&M,SWC,E.H. Harlan,A,Rice,SWC,Phillip Arbuckle,L,0,7
+1915-11-19,Texas A&M,SWC,E.H. Harlan,H,Texas,SWC,Dave Allerdice,W,13,0
+1915-11-25,Texas A&M,SWC,E.H. Harlan,H,Mississippi State,Ind,E.C. Hayes,L,0,7
+1915-09-25,Davidson,Ind,William Fetzer,A,Washington & Lee,Ind,Jogger Elcock,L,0,14
+1915-10-02,Davidson,Ind,William Fetzer,A,Clemson,Ind,Bob Williams,T,6,6
+1915-10-09,Davidson,Ind,William Fetzer,A,Georgia Tech,Ind,John Heisman,L,7,27
+1915-10-16,Davidson,Ind,William Fetzer,H,Wofford,Ind,Harvey Hester,W,45,0
+1915-11-06,Davidson,Ind,William Fetzer,H,Furman,Ind,W.B. Bible,W,58,13
+1915-11-13,Davidson,Ind,William Fetzer,N,North Carolina,Ind,T.C. Trenchard,L,6,41
+1915-11-25,Davidson,Ind,William Fetzer,N,Wake Forest,Ind,W.C. Smith,W,21,7
+1915-10-09,Washington (MO),MVIAA,W.P. Edmunds,H,Missouri,MVIAA,Henry Schulte,W,13,0
+1915-10-30,Washington (MO),MVIAA,W.P. Edmunds,A,Drake,MVIAA,John Griffith,L,16,26
+1915-10-09,Chicago,Western,Amos Alonzo Stagg,A,Northwestern,Western,Fred Murphy,W,7,0
+1915-10-16,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,Clarence Childs,W,13,7
+1915-10-23,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Andy Smith,W,7,0
+1915-10-30,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,William Juneau,W,14,13
+1915-11-06,Chicago,Western,Amos Alonzo Stagg,H,Haskell,Ind,,W,35,0
+1915-11-13,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,L,7,20
+1915-11-20,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,L,0,10
+1915-10-16,Colgate,Ind,Laurence Bankart,A,Army,Ind,Charles Daly,W,13,0
+1915-10-30,Colgate,Ind,Laurence Bankart,A,Yale,Ind,Frank Hinkey,W,15,0
+1915-11-13,Colgate,Ind,Laurence Bankart,A,Syracuse,Ind,,L,0,38
+1915-10-09,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,,W,34,6
+1915-10-23,Minnesota,Western,Henry Williams,H,Iowa,Western,Jesse Hawley,W,51,13
+1915-11-06,Minnesota,Western,Henry Williams,A,Illinois,Western,Robert Zuppke,T,6,6
+1915-11-13,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,W,20,7
+1915-11-20,Minnesota,Western,Henry Williams,A,Wisconsin,Western,William Juneau,W,20,3
+1915-10-15,Ole Miss,Ind,Fred Robbins,H,LSU,Ind,E.T. McDonald,L,0,28
+1915-10-23,Ole Miss,Ind,Fred Robbins,N,Vanderbilt,Ind,Dan McGugin,L,0,91
+1915-11-06,Ole Miss,Ind,Fred Robbins,N,Mississippi State,Ind,E.C. Hayes,L,0,65
+1915-11-13,Ole Miss,Ind,Fred Robbins,N,Mississippi College,Ind,Dana Bible,L,6,74
+1915-11-25,Ole Miss,Ind,Fred Robbins,A,Alabama,Ind,Thomas Kelley,L,0,53
+1915-10-16,Sewanee,Ind,Harris Cope,A,Florida,Ind,,W,7,0
+1915-10-23,Sewanee,Ind,Harris Cope,A,Kentucky,Ind,J.J. Tigert,T,7,7
+1915-10-30,Sewanee,Ind,Harris Cope,A,Alabama,Ind,Thomas Kelley,L,10,23
+1915-11-06,Sewanee,Ind,Harris Cope,A,Texas,SWC,Dave Allerdice,L,6,27
+1915-11-08,Sewanee,Ind,Harris Cope,A,Baylor,SWC,Bubs Mosley,W,16,3
+1915-11-20,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,L,3,27
+1915-10-02,Navy,Ind,Jonas Ingram,H,Georgetown,Ind,,L,0,9
+1915-10-09,Navy,Ind,Jonas Ingram,H,Pitt,Ind,Pop Warner,L,12,47
+1915-10-16,Navy,Ind,Jonas Ingram,H,Pennsylvania,Ind,George Brooke,T,7,7
+1915-10-23,Navy,Ind,Jonas Ingram,H,Virginia Tech,Ind,Branch Bocock,W,20,0
+1915-10-30,Navy,Ind,Jonas Ingram,H,North Carolina State,Ind,Jack Hegarty,L,12,14
+1915-11-06,Navy,Ind,Jonas Ingram,H,Bucknell,Ind,George Johnson,W,13,3
+1915-11-27,Navy,Ind,Jonas Ingram,A,Army,Ind,Charles Daly,L,0,14
+1915-10-09,Lafayette,Ind,Wilmer Crowell,A,Washington & Jefferson,Ind,Bob Folwell,L,0,17
+1915-10-16,Lafayette,Ind,Wilmer Crowell,A,Princeton,Ind,John Rush,L,3,40
+1915-10-30,Lafayette,Ind,Wilmer Crowell,A,Pennsylvania,Ind,George Brooke,W,17,0
+1915-11-13,Lafayette,Ind,Wilmer Crowell,H,Penn State,Ind,Dick Harlow,L,3,33
+1915-11-20,Lafayette,Ind,Wilmer Crowell,A,Lehigh,Ind,Tom Keady,W,35,6
+1915-10-23,Tulane,Ind,Clark Shaughnessy,A,Alabama,Ind,Thomas Kelley,L,0,16
+1915-10-30,Tulane,Ind,Clark Shaughnessy,H,Mississippi College,Ind,Dana Bible,L,6,20
+1915-11-18,Tulane,Ind,Clark Shaughnessy,A,Florida,Ind,,L,7,14
+1915-11-25,Tulane,Ind,Clark Shaughnessy,A,LSU,Ind,E.T. McDonald,L,0,12
+1915-10-16,Cornell,Ind,,H,Bucknell,Ind,George Johnson,W,41,0
+1915-10-23,Cornell,Ind,,A,Harvard,Ind,Percy Haughton,W,10,0
+1915-10-30,Cornell,Ind,,H,Virginia Tech,Ind,Branch Bocock,W,45,0
+1915-11-06,Cornell,Ind,,A,Michigan,Ind,Fielding Yost,W,34,7
+1915-11-13,Cornell,Ind,,H,Washington & Lee,Ind,Jogger Elcock,W,40,21
+1915-11-25,Cornell,Ind,,A,Pennsylvania,Ind,George Brooke,W,24,9
+1915-10-16,Ohio State,Western,John Wilce,H,Illinois,Western,Robert Zuppke,T,3,3
+1915-10-23,Ohio State,Western,John Wilce,A,Wisconsin,Western,William Juneau,L,0,21
+1915-11-06,Ohio State,Western,John Wilce,H,Indiana,Western,Clarence Childs,W,10,9
+1915-11-20,Ohio State,Western,John Wilce,A,Northwestern,Western,Fred Murphy,W,34,0
+1915-10-02,Drake,MVIAA,John Griffith,A,Nebraska,MVIAA,Jumbo Stiehm,L,13,48
+1915-10-16,Drake,MVIAA,John Griffith,A,Kansas,MVIAA,Herman Olcott,L,7,30
+1915-10-30,Drake,MVIAA,John Griffith,H,Washington (MO),MVIAA,W.P. Edmunds,W,26,16
+1915-11-13,Drake,MVIAA,John Griffith,A,Missouri,MVIAA,Henry Schulte,L,13,41
+1915-11-25,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,,L,14,28

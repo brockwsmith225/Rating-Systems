@@ -1,0 +1,529 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1943-09-25,North Carolina,Southern,Tom Young,A,Georgia Tech,SEC,William Alexander,L,7,20
+1943-10-02,North Carolina,Southern,Tom Young,H,Penn State,Ind,Bob Higgins,W,19,0
+1943-10-16,North Carolina,Southern,Tom Young,A,Duke,Southern,,L,7,14
+1943-10-30,North Carolina,Southern,Tom Young,H,North Carolina State,Southern,,W,27,13
+1943-11-06,North Carolina,Southern,Tom Young,A,South Carolina,Southern,J.P. Moran,W,21,6
+1943-11-13,North Carolina,Southern,Tom Young,A,Pennsylvania,Ind,George Munger,W,9,6
+1943-11-20,North Carolina,Southern,Tom Young,H,Duke,Southern,,L,6,27
+1943-11-27,North Carolina,Southern,Tom Young,H,Virginia,Ind,Frank Murray,W,54,7
+1943-09-25,Indiana,Western,Bo McMillin,A,Northwestern,Western,Pappy Waldorf,L,6,14
+1943-10-09,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Adolph Lewandowski,W,54,13
+1943-10-16,Indiana,Western,Bo McMillin,A,Iowa,Western,Slip Madigan,T,7,7
+1943-10-23,Indiana,Western,Bo McMillin,H,Wisconsin,Western,Harry Stuhldreher,W,34,0
+1943-10-30,Indiana,Western,Bo McMillin,A,Ohio State,Western,Paul Brown,W,20,14
+1943-11-06,Indiana,Western,Bo McMillin,A,Michigan,Western,Fritz Crisler,L,6,23
+1943-11-13,Indiana,Western,Bo McMillin,H,Great Lakes Navy,Ind,,L,7,21
+1943-11-20,Indiana,Western,Bo McMillin,H,Purdue,Western,Elmer Burnham,L,0,7
+1943-10-02,Iowa State,Big 6,Mike Michalske,H,Iowa Pre-Flight,Ind,Don Faurot,L,13,33
+1943-10-09,Iowa State,Big 6,Mike Michalske,A,Kansas,Big 6,Henry Shenk,W,13,6
+1943-10-16,Iowa State,Big 6,Mike Michalske,H,Nebraska,Big 6,Adolph Lewandowski,W,27,6
+1943-10-30,Iowa State,Big 6,Mike Michalske,A,Oklahoma,Big 6,Snorter Luster,L,7,21
+1943-11-06,Iowa State,Big 6,Mike Michalske,H,Missouri,Big 6,Chauncey Simpson,L,7,25
+1943-11-20,Iowa State,Big 6,Mike Michalske,H,Kansas State,Big 6,Ward Haylett,W,48,0
+1943-10-09,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Jim Yeager,L,0,35
+1943-10-23,Utah,MSAC,Ike Armstrong,A,Tulsa,MVC,Henry Frnka,L,0,55
+1943-11-06,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Jim Yeager,L,19,22
+1943-11-13,Utah,MSAC,Ike Armstrong,A,Colorado College,Ind,Harold White,L,0,64
+1943-11-25,Utah,MSAC,Ike Armstrong,H,Saint Mary's (CA),Ind,James Phelan,L,0,34
+1943-09-25,Villanova,Ind,Jordan Olivar,A,Army,Ind,Red Blaik,L,0,27
+1943-10-30,Villanova,Ind,Jordan Olivar,A,Princeton,Ind,Harry Mahnken,W,45,22
+1943-11-13,Villanova,Ind,Jordan Olivar,A,Holy Cross,Ind,,L,7,12
+1943-11-20,Villanova,Ind,Jordan Olivar,A,Temple,Ind,Ray Morrison,W,34,7
+1943-10-09,Georgia Pre-Flight,Ind,,A,Georgia Tech,SEC,William Alexander,L,7,35
+1943-10-23,Georgia Pre-Flight,Ind,,A,North Carolina Pre-Flight,Ind,Frank Kimbrough,W,20,7
+1943-10-30,Georgia Pre-Flight,Ind,,A,Tulane,SEC,Claude Simons,W,14,13
+1943-11-13,Georgia Pre-Flight,Ind,,A,Clemson,Southern,Frank Howard,W,32,6
+1943-10-02,Penn State,Ind,Bob Higgins,A,North Carolina,Southern,Tom Young,L,0,19
+1943-10-09,Penn State,Ind,Bob Higgins,H,Colgate,Ind,Andrew Kerr,T,0,0
+1943-10-16,Penn State,Ind,Bob Higgins,A,Navy,Ind,John Whelchel,L,6,14
+1943-10-23,Penn State,Ind,Bob Higgins,A,Maryland,Southern,Clarence Spears,W,45,0
+1943-10-30,Penn State,Ind,Bob Higgins,H,West Virginia,Ind,Rat Rogers,W,32,7
+1943-11-06,Penn State,Ind,Bob Higgins,A,Cornell,Ind,,L,0,13
+1943-11-13,Penn State,Ind,Bob Higgins,H,Temple,Ind,Ray Morrison,W,13,0
+1943-11-20,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Clark Shaughnessy,W,14,0
+1943-09-25,Princeton,Ind,Harry Mahnken,A,Pennsylvania,Ind,George Munger,L,9,47
+1943-10-02,Princeton,Ind,Harry Mahnken,A,Columbia,Ind,Lou Little,W,26,7
+1943-10-09,Princeton,Ind,Harry Mahnken,H,Cornell,Ind,,L,0,30
+1943-10-16,Princeton,Ind,Harry Mahnken,H,Brown,Ind,Skip Stahley,L,20,28
+1943-10-30,Princeton,Ind,Harry Mahnken,H,Villanova,Ind,Jordan Olivar,L,22,45
+1943-11-13,Princeton,Ind,Harry Mahnken,A,Yale,Ind,Howard Odell,L,6,27
+1943-11-20,Princeton,Ind,Harry Mahnken,H,Dartmouth,Ind,,L,13,42
+1943-10-08,Colorado College,Ind,Harold White,H,Denver,MSAC,Mark Duncan,W,41,0
+1943-10-23,Colorado College,Ind,Harold White,A,Colorado,MSAC,Jim Yeager,W,16,6
+1943-11-13,Colorado College,Ind,Harold White,H,Utah,MSAC,Ike Armstrong,W,64,0
+1943-11-20,Colorado College,Ind,Harold White,H,Colorado,MSAC,Jim Yeager,W,6,0
+1943-09-25,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,James Phelan,W,27,12
+1943-10-02,California,PCC,Stub Allison,H,USC,PCC,Jeff Cravath,L,0,7
+1943-10-09,California,PCC,Stub Allison,H,Pacific,Ind,Amos Alonzo Stagg,L,6,12
+1943-10-16,California,PCC,Stub Allison,A,UCLA,PCC,Babe Horrell,W,13,0
+1943-10-23,California,PCC,Stub Allison,H,Saint Mary's (CA) Pre-Flight,Ind,,L,0,39
+1943-10-30,California,PCC,Stub Allison,A,USC,PCC,Jeff Cravath,L,0,13
+1943-11-06,California,PCC,Stub Allison,H,San Francisco,Ind,Al Tassi,W,32,0
+1943-11-13,California,PCC,Stub Allison,H,UCLA,PCC,Babe Horrell,W,13,6
+1943-11-20,California,PCC,Stub Allison,H,Alameda Coast Guard,Ind,Joe Verducci,L,0,7
+1943-11-27,California,PCC,Stub Allison,H,Del Monte Pre-Flight,Ind,,L,8,47
+1943-09-11,Illinois,Western,Ray Eliot,H,Camp Grant,Ind,,L,0,23
+1943-09-18,Illinois,Western,Ray Eliot,H,Iowa Pre-Flight,Ind,Don Faurot,L,18,32
+1943-10-02,Illinois,Western,Ray Eliot,A,Purdue,Western,Elmer Burnham,L,21,40
+1943-10-09,Illinois,Western,Ray Eliot,A,Wisconsin,Western,Harry Stuhldreher,W,25,7
+1943-10-16,Illinois,Western,Ray Eliot,H,Pitt,Ind,Clark Shaughnessy,W,33,25
+1943-10-23,Illinois,Western,Ray Eliot,A,Notre Dame,Ind,Frank Leahy,L,0,47
+1943-10-30,Illinois,Western,Ray Eliot,H,Michigan,Western,Fritz Crisler,L,6,42
+1943-11-06,Illinois,Western,Ray Eliot,A,Iowa,Western,Slip Madigan,W,19,10
+1943-11-13,Illinois,Western,Ray Eliot,A,Ohio State,Western,Paul Brown,L,26,29
+1943-11-20,Illinois,Western,Ray Eliot,A,Northwestern,Western,Pappy Waldorf,L,6,53
+1943-09-25,SMU,SWC,James Stewart,H,Tulsa,MVC,Henry Frnka,L,7,20
+1943-10-16,SMU,SWC,James Stewart,H,Rice,SWC,Jess Neely,W,12,0
+1943-10-23,SMU,SWC,James Stewart,A,Tulane,SEC,Claude Simons,L,6,12
+1943-10-30,SMU,SWC,James Stewart,H,Texas,SWC,Dana Bible,L,0,20
+1943-11-06,SMU,SWC,James Stewart,A,Texas A&M,SWC,Homer Norton,L,0,22
+1943-11-13,SMU,SWC,James Stewart,H,Arkansas,SWC,John Tomlin,L,12,14
+1943-11-20,SMU,SWC,James Stewart,H,Texas Tech,Ind,,L,6,7
+1943-11-27,SMU,SWC,James Stewart,A,Texas Christian,SWC,Dutch Meyer,W,20,0
+1943-09-25,Georgia,SEC,Wallace Butts,A,LSU,SEC,Bernie Moore,L,27,34
+1943-10-08,Georgia,SEC,Wallace Butts,H,Wake Forest,Southern,D.C. Walker,W,7,0
+1943-10-23,Georgia,SEC,Wallace Butts,H,LSU,SEC,Bernie Moore,L,6,27
+1943-11-13,Georgia,SEC,Wallace Butts,H,Virginia Military Institute,Southern,,W,46,7
+1943-11-27,Georgia,SEC,Wallace Butts,A,Georgia Tech,SEC,William Alexander,L,0,48
+1943-10-02,Maryland,Southern,Clarence Spears,H,Wake Forest,Southern,D.C. Walker,W,13,7
+1943-10-16,Maryland,Southern,Clarence Spears,A,West Virginia,Ind,Rat Rogers,L,2,6
+1943-10-23,Maryland,Southern,Clarence Spears,H,Penn State,Ind,Bob Higgins,L,0,45
+1943-11-06,Maryland,Southern,Clarence Spears,A,Virginia,Ind,Frank Murray,L,0,39
+1943-11-25,Maryland,Southern,Clarence Spears,A,Virginia Military Institute,Southern,,W,21,14
+1943-10-02,Virginia,Ind,Frank Murray,N,West Virginia,Ind,Rat Rogers,W,6,0
+1943-10-09,Virginia,Ind,Frank Murray,H,Richmond,Southern,Malcolm Pitt,L,7,16
+1943-10-30,Virginia,Ind,Frank Murray,A,Virginia Military Institute,Southern,,W,34,0
+1943-11-06,Virginia,Ind,Frank Murray,H,Maryland,Southern,Clarence Spears,W,39,0
+1943-11-13,Virginia,Ind,Frank Murray,A,Duke,Southern,,L,0,49
+1943-11-27,Virginia,Ind,Frank Murray,A,North Carolina,Southern,Tom Young,L,7,54
+1943-10-02,Oklahoma,Big 6,Snorter Luster,N,Oklahoma State,MVC,Jim Lookabaugh,W,22,13
+1943-10-09,Oklahoma,Big 6,Snorter Luster,N,Texas,SWC,Dana Bible,L,7,13
+1943-10-16,Oklahoma,Big 6,Snorter Luster,N,Tulsa,MVC,Henry Frnka,L,6,20
+1943-10-23,Oklahoma,Big 6,Snorter Luster,A,Kansas State,Big 6,Ward Haylett,W,37,0
+1943-10-30,Oklahoma,Big 6,Snorter Luster,H,Iowa State,Big 6,Mike Michalske,W,21,7
+1943-11-06,Oklahoma,Big 6,Snorter Luster,H,Kansas,Big 6,Henry Shenk,W,26,13
+1943-11-13,Oklahoma,Big 6,Snorter Luster,A,Missouri,Big 6,Chauncey Simpson,W,20,13
+1943-11-27,Oklahoma,Big 6,Snorter Luster,A,Nebraska,Big 6,Adolph Lewandowski,W,26,7
+1943-10-02,Arkansas,SWC,John Tomlin,H,Texas Christian,SWC,Dutch Meyer,L,0,13
+1943-10-16,Arkansas,SWC,John Tomlin,A,Texas,SWC,Dana Bible,L,0,34
+1943-10-30,Arkansas,SWC,John Tomlin,H,Texas A&M,SWC,Homer Norton,L,0,13
+1943-11-06,Arkansas,SWC,John Tomlin,A,Rice,SWC,Jess Neely,L,7,20
+1943-11-13,Arkansas,SWC,John Tomlin,A,SMU,SWC,James Stewart,W,14,12
+1943-11-19,Arkansas,SWC,John Tomlin,H,Oklahoma State,MVC,Jim Lookabaugh,L,13,19
+1943-11-25,Arkansas,SWC,John Tomlin,A,Tulsa,MVC,Henry Frnka,L,0,61
+1943-10-02,Clemson,Southern,Frank Howard,N,North Carolina State,Southern,,W,19,7
+1943-10-09,Clemson,Southern,Frank Howard,A,Virginia Military Institute,Southern,,L,7,12
+1943-10-21,Clemson,Southern,Frank Howard,A,South Carolina,Southern,J.P. Moran,L,6,33
+1943-10-30,Clemson,Southern,Frank Howard,H,Wake Forest,Southern,D.C. Walker,L,12,41
+1943-11-13,Clemson,Southern,Frank Howard,H,Georgia Pre-Flight,Ind,,L,6,32
+1943-11-20,Clemson,Southern,Frank Howard,A,Georgia Tech,SEC,William Alexander,L,6,41
+1943-10-21,South Carolina,Southern,J.P. Moran,H,Clemson,Southern,Frank Howard,W,33,6
+1943-11-06,South Carolina,Southern,J.P. Moran,H,North Carolina,Southern,Tom Young,L,6,21
+1943-11-25,South Carolina,Southern,J.P. Moran,N,Wake Forest,Southern,D.C. Walker,W,13,2
+1943-09-25,Holy Cross,Ind,,H,Dartmouth,Ind,,L,0,3
+1943-10-02,Holy Cross,Ind,,H,Brown,Ind,Skip Stahley,W,20,0
+1943-10-16,Holy Cross,Ind,,A,Cornell,Ind,,L,7,20
+1943-10-30,Holy Cross,Ind,,H,Colgate,Ind,Andrew Kerr,W,14,7
+1943-11-06,Holy Cross,Ind,,H,Temple,Ind,Ray Morrison,W,42,6
+1943-11-13,Holy Cross,Ind,,H,Villanova,Ind,Jordan Olivar,W,12,7
+1943-09-25,Missouri,Big 6,Chauncey Simpson,A,Minnesota,Western,George Hauser,L,13,26
+1943-10-02,Missouri,Big 6,Chauncey Simpson,A,Ohio State,Western,Paul Brown,L,6,27
+1943-10-09,Missouri,Big 6,Chauncey Simpson,H,Kansas State,Big 6,Ward Haylett,W,47,14
+1943-10-16,Missouri,Big 6,Chauncey Simpson,H,Iowa Pre-Flight,Ind,Don Faurot,L,6,21
+1943-10-30,Missouri,Big 6,Chauncey Simpson,H,Nebraska,Big 6,Adolph Lewandowski,W,54,20
+1943-11-06,Missouri,Big 6,Chauncey Simpson,A,Iowa State,Big 6,Mike Michalske,W,25,7
+1943-11-13,Missouri,Big 6,Chauncey Simpson,H,Oklahoma,Big 6,Snorter Luster,L,13,20
+1943-11-20,Missouri,Big 6,Chauncey Simpson,A,Kansas,Big 6,Henry Shenk,L,6,7
+1943-10-01,Denver,MSAC,Mark Duncan,H,Kansas,Big 6,Henry Shenk,W,19,6
+1943-10-08,Denver,MSAC,Mark Duncan,A,Colorado College,Ind,Harold White,L,0,41
+1943-10-16,Denver,MSAC,Mark Duncan,A,Fort Riley,Ind,,L,0,47
+1943-10-30,Denver,MSAC,Mark Duncan,H,Marquette,Ind,Tom Stidham,L,6,45
+1943-11-27,Denver,MSAC,Mark Duncan,H,Oklahoma State,MVC,Jim Lookabaugh,L,6,7
+1943-09-12,Great Lakes Navy,Ind,,H,Fort Riley,Ind,,W,20,19
+1943-09-18,Great Lakes Navy,Ind,,H,Purdue,Western,Elmer Burnham,L,13,23
+1943-09-25,Great Lakes Navy,Ind,,H,Iowa,Western,Slip Madigan,W,21,7
+1943-10-02,Great Lakes Navy,Ind,,H,Pitt,Ind,Clark Shaughnessy,W,40,0
+1943-10-09,Great Lakes Navy,Ind,,H,Ohio State,Western,Paul Brown,W,13,6
+1943-10-16,Great Lakes Navy,Ind,,A,Northwestern,Western,Pappy Waldorf,L,0,13
+1943-10-24,Great Lakes Navy,Ind,,A,Marquette,Ind,Tom Stidham,W,41,7
+1943-11-06,Great Lakes Navy,Ind,,H,Camp Grant,Ind,,W,12,0
+1943-11-13,Great Lakes Navy,Ind,,A,Indiana,Western,Bo McMillin,W,21,7
+1943-11-20,Great Lakes Navy,Ind,,H,Marquette,Ind,Tom Stidham,W,25,6
+1943-11-27,Great Lakes Navy,Ind,,H,Notre Dame,Ind,Frank Leahy,W,19,14
+1943-09-12,Fort Riley,Ind,,A,Great Lakes Navy,Ind,,L,19,20
+1943-10-16,Fort Riley,Ind,,H,Denver,MSAC,Mark Duncan,W,47,0
+1943-10-23,Fort Riley,Ind,,H,Camp Grant,Ind,,T,13,13
+1943-10-30,Fort Riley,Ind,,A,Iowa Pre-Flight,Ind,Don Faurot,L,2,19
+1943-11-20,Fort Riley,Ind,,A,Camp Grant,Ind,,W,10,6
+1943-11-25,Fort Riley,Ind,,H,Kansas,Big 6,Henry Shenk,W,22,7
+1943-09-18,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Tom Stidham,L,7,33
+1943-09-25,Wisconsin,Western,Harry Stuhldreher,A,Camp Grant,Ind,,L,7,10
+1943-10-02,Wisconsin,Western,Harry Stuhldreher,A,Iowa,Western,Slip Madigan,W,7,5
+1943-10-09,Wisconsin,Western,Harry Stuhldreher,H,Illinois,Western,Ray Eliot,L,7,25
+1943-10-16,Wisconsin,Western,Harry Stuhldreher,H,Notre Dame,Ind,Frank Leahy,L,0,50
+1943-10-23,Wisconsin,Western,Harry Stuhldreher,A,Indiana,Western,Bo McMillin,L,0,34
+1943-10-30,Wisconsin,Western,Harry Stuhldreher,H,Purdue,Western,Elmer Burnham,L,0,32
+1943-11-06,Wisconsin,Western,Harry Stuhldreher,H,Northwestern,Western,Pappy Waldorf,L,0,41
+1943-11-13,Wisconsin,Western,Harry Stuhldreher,A,Michigan,Western,Fritz Crisler,L,0,27
+1943-11-20,Wisconsin,Western,Harry Stuhldreher,A,Minnesota,Western,George Hauser,L,13,25
+1943-09-25,USC,PCC,Jeff Cravath,A,UCLA,PCC,Babe Horrell,W,20,0
+1943-10-02,USC,PCC,Jeff Cravath,A,California,PCC,Stub Allison,W,7,0
+1943-10-09,USC,PCC,Jeff Cravath,H,Saint Mary's (CA) Pre-Flight,Ind,,W,13,0
+1943-10-16,USC,PCC,Jeff Cravath,A,San Francisco,Ind,Al Tassi,W,34,0
+1943-10-23,USC,PCC,Jeff Cravath,H,Pacific,Ind,Amos Alonzo Stagg,W,6,0
+1943-10-30,USC,PCC,Jeff Cravath,H,California,PCC,Stub Allison,W,13,0
+1943-11-13,USC,PCC,Jeff Cravath,H,March Field,Ind,,L,0,35
+1943-11-27,USC,PCC,Jeff Cravath,H,UCLA,PCC,Babe Horrell,W,26,13
+1943-10-02,North Carolina State,Southern,,N,Clemson,Southern,Frank Howard,L,7,19
+1943-10-16,North Carolina State,Southern,,H,Wake Forest,Southern,D.C. Walker,L,6,54
+1943-10-30,North Carolina State,Southern,,A,North Carolina,Southern,Tom Young,L,13,27
+1943-11-06,North Carolina State,Southern,,H,Duke,Southern,,L,0,75
+1943-11-25,North Carolina State,Southern,,H,North Carolina Pre-Flight,Ind,Frank Kimbrough,L,7,21
+1943-09-18,Alameda Coast Guard,Ind,Joe Verducci,H,Pacific,Ind,Amos Alonzo Stagg,L,7,14
+1943-09-26,Alameda Coast Guard,Ind,Joe Verducci,H,Del Monte Pre-Flight,Ind,,L,7,34
+1943-10-10,Alameda Coast Guard,Ind,Joe Verducci,A,San Francisco,Ind,Al Tassi,W,26,0
+1943-10-17,Alameda Coast Guard,Ind,Joe Verducci,N,Saint Mary's (CA),Ind,James Phelan,W,21,7
+1943-11-07,Alameda Coast Guard,Ind,Joe Verducci,N,Saint Mary's (CA) Pre-Flight,Ind,,T,13,13
+1943-11-20,Alameda Coast Guard,Ind,Joe Verducci,A,California,PCC,Stub Allison,W,7,0
+1943-09-18,Michigan,Western,Fritz Crisler,A,Camp Grant,Ind,,W,26,0
+1943-10-02,Michigan,Western,Fritz Crisler,A,Northwestern,Western,Pappy Waldorf,W,21,7
+1943-10-09,Michigan,Western,Fritz Crisler,H,Notre Dame,Ind,Frank Leahy,L,12,35
+1943-10-23,Michigan,Western,Fritz Crisler,H,Minnesota,Western,George Hauser,W,49,6
+1943-10-30,Michigan,Western,Fritz Crisler,A,Illinois,Western,Ray Eliot,W,42,6
+1943-11-06,Michigan,Western,Fritz Crisler,H,Indiana,Western,Bo McMillin,W,23,6
+1943-11-13,Michigan,Western,Fritz Crisler,H,Wisconsin,Western,Harry Stuhldreher,W,27,0
+1943-11-20,Michigan,Western,Fritz Crisler,H,Ohio State,Western,Paul Brown,W,45,7
+1943-09-25,Temple,Ind,Ray Morrison,H,Virginia Military Institute,Southern,,W,27,0
+1943-10-09,Temple,Ind,Ray Morrison,A,Army,Ind,Red Blaik,L,0,51
+1943-11-06,Temple,Ind,Ray Morrison,A,Holy Cross,Ind,,L,6,42
+1943-11-13,Temple,Ind,Ray Morrison,A,Penn State,Ind,Bob Higgins,L,0,13
+1943-11-20,Temple,Ind,Ray Morrison,H,Villanova,Ind,Jordan Olivar,L,7,34
+1943-09-18,Pacific,Ind,Amos Alonzo Stagg,A,Alameda Coast Guard,Ind,Joe Verducci,W,14,7
+1943-09-25,Pacific,Ind,Amos Alonzo Stagg,H,Saint Mary's (CA) Pre-Flight,Ind,,W,13,7
+1943-10-02,Pacific,Ind,Amos Alonzo Stagg,A,UCLA,PCC,Babe Horrell,W,19,7
+1943-10-09,Pacific,Ind,Amos Alonzo Stagg,A,California,PCC,Stub Allison,W,12,6
+1943-10-16,Pacific,Ind,Amos Alonzo Stagg,H,Del Monte Pre-Flight,Ind,,W,16,7
+1943-10-23,Pacific,Ind,Amos Alonzo Stagg,A,USC,PCC,Jeff Cravath,L,0,6
+1943-11-06,Pacific,Ind,Amos Alonzo Stagg,H,Saint Mary's (CA),Ind,James Phelan,W,19,7
+1943-12-11,Pacific,Ind,Amos Alonzo Stagg,A,March Field,Ind,,L,10,19
+1943-09-18,Iowa Pre-Flight,Ind,Don Faurot,A,Illinois,Western,Ray Eliot,W,32,18
+1943-09-25,Iowa Pre-Flight,Ind,Don Faurot,A,Ohio State,Western,Paul Brown,W,28,13
+1943-10-02,Iowa Pre-Flight,Ind,Don Faurot,A,Iowa State,Big 6,Mike Michalske,W,33,13
+1943-10-09,Iowa Pre-Flight,Ind,Don Faurot,N,Iowa,Western,Slip Madigan,W,25,0
+1943-10-16,Iowa Pre-Flight,Ind,Don Faurot,A,Missouri,Big 6,Chauncey Simpson,W,21,6
+1943-10-30,Iowa Pre-Flight,Ind,Don Faurot,H,Fort Riley,Ind,,W,19,2
+1943-11-07,Iowa Pre-Flight,Ind,Don Faurot,A,Marquette,Ind,Tom Stidham,W,46,19
+1943-11-13,Iowa Pre-Flight,Ind,Don Faurot,H,Camp Grant,Ind,,W,28,13
+1943-11-20,Iowa Pre-Flight,Ind,Don Faurot,A,Notre Dame,Ind,Frank Leahy,L,13,14
+1943-11-27,Iowa Pre-Flight,Ind,Don Faurot,A,Minnesota,Western,George Hauser,W,32,0
+1943-09-25,Notre Dame,Ind,Frank Leahy,A,Pitt,Ind,Clark Shaughnessy,W,41,0
+1943-10-02,Notre Dame,Ind,Frank Leahy,H,Georgia Tech,SEC,William Alexander,W,55,13
+1943-10-09,Notre Dame,Ind,Frank Leahy,A,Michigan,Western,Fritz Crisler,W,35,12
+1943-10-16,Notre Dame,Ind,Frank Leahy,A,Wisconsin,Western,Harry Stuhldreher,W,50,0
+1943-10-23,Notre Dame,Ind,Frank Leahy,H,Illinois,Western,Ray Eliot,W,47,0
+1943-10-30,Notre Dame,Ind,Frank Leahy,N,Navy,Ind,John Whelchel,W,33,6
+1943-11-06,Notre Dame,Ind,Frank Leahy,A,Army,Ind,Red Blaik,W,26,0
+1943-11-13,Notre Dame,Ind,Frank Leahy,A,Northwestern,Western,Pappy Waldorf,W,25,6
+1943-11-20,Notre Dame,Ind,Frank Leahy,H,Iowa Pre-Flight,Ind,Don Faurot,W,14,13
+1943-11-27,Notre Dame,Ind,Frank Leahy,A,Great Lakes Navy,Ind,,L,14,19
+1943-09-25,Pitt,Ind,Clark Shaughnessy,H,Notre Dame,Ind,Frank Leahy,L,0,41
+1943-10-02,Pitt,Ind,Clark Shaughnessy,A,Great Lakes Navy,Ind,,L,0,40
+1943-10-09,Pitt,Ind,Clark Shaughnessy,H,West Virginia,Ind,Rat Rogers,W,20,0
+1943-10-16,Pitt,Ind,Clark Shaughnessy,A,Illinois,Western,Ray Eliot,L,25,33
+1943-11-06,Pitt,Ind,Clark Shaughnessy,H,Ohio State,Western,Paul Brown,L,6,46
+1943-11-20,Pitt,Ind,Clark Shaughnessy,H,Penn State,Ind,Bob Higgins,L,0,14
+1943-09-25,Saint Mary's (CA),Ind,James Phelan,A,California,PCC,Stub Allison,L,12,27
+1943-10-03,Saint Mary's (CA),Ind,James Phelan,H,Del Monte Pre-Flight,Ind,,L,7,33
+1943-10-17,Saint Mary's (CA),Ind,James Phelan,N,Alameda Coast Guard,Ind,Joe Verducci,L,7,21
+1943-10-30,Saint Mary's (CA),Ind,James Phelan,H,San Francisco,Ind,Al Tassi,W,19,7
+1943-11-06,Saint Mary's (CA),Ind,James Phelan,A,Pacific,Ind,Amos Alonzo Stagg,L,7,19
+1943-11-20,Saint Mary's (CA),Ind,James Phelan,A,UCLA,PCC,Babe Horrell,L,7,19
+1943-11-25,Saint Mary's (CA),Ind,James Phelan,A,Utah,MSAC,Ike Armstrong,W,34,0
+1943-10-02,Yale,Ind,Howard Odell,A,Pennsylvania,Ind,George Munger,L,7,41
+1943-10-09,Yale,Ind,Howard Odell,A,Columbia,Ind,Lou Little,W,20,7
+1943-10-23,Yale,Ind,Howard Odell,H,Army,Ind,Red Blaik,L,7,39
+1943-10-30,Yale,Ind,Howard Odell,H,Dartmouth,Ind,,L,6,20
+1943-11-06,Yale,Ind,Howard Odell,H,Brown,Ind,Skip Stahley,L,20,21
+1943-11-13,Yale,Ind,Howard Odell,H,Princeton,Ind,Harry Mahnken,W,27,6
+1943-09-25,Georgia Tech,SEC,William Alexander,H,North Carolina,Southern,Tom Young,W,20,7
+1943-10-02,Georgia Tech,SEC,William Alexander,A,Notre Dame,Ind,Frank Leahy,L,13,55
+1943-10-09,Georgia Tech,SEC,William Alexander,H,Georgia Pre-Flight,Ind,,W,35,7
+1943-10-23,Georgia Tech,SEC,William Alexander,A,Navy,Ind,John Whelchel,L,14,28
+1943-10-30,Georgia Tech,SEC,William Alexander,H,Duke,Southern,,L,7,14
+1943-11-06,Georgia Tech,SEC,William Alexander,H,LSU,SEC,Bernie Moore,W,42,7
+1943-11-13,Georgia Tech,SEC,William Alexander,A,Tulane,SEC,Claude Simons,W,33,0
+1943-11-20,Georgia Tech,SEC,William Alexander,H,Clemson,Southern,Frank Howard,W,41,6
+1943-11-27,Georgia Tech,SEC,William Alexander,H,Georgia,SEC,Wallace Butts,W,48,0
+1944-01-01,Georgia Tech,SEC,William Alexander,N,Tulsa,MVC,Henry Frnka,W,20,18
+1943-10-02,Wake Forest,Southern,D.C. Walker,A,Maryland,Southern,Clarence Spears,L,7,13
+1943-10-08,Wake Forest,Southern,D.C. Walker,A,Georgia,SEC,Wallace Butts,L,0,7
+1943-10-16,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,,W,54,6
+1943-10-23,Wake Forest,Southern,D.C. Walker,A,Virginia Military Institute,Southern,,W,21,0
+1943-10-30,Wake Forest,Southern,D.C. Walker,A,Clemson,Southern,Frank Howard,W,41,12
+1943-11-06,Wake Forest,Southern,D.C. Walker,H,North Carolina Pre-Flight,Ind,Frank Kimbrough,W,20,12
+1943-11-25,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,J.P. Moran,L,2,13
+1943-09-25,Virginia Military Institute,Southern,,A,Temple,Ind,Ray Morrison,L,0,27
+1943-10-09,Virginia Military Institute,Southern,,H,Clemson,Southern,Frank Howard,W,12,7
+1943-10-16,Virginia Military Institute,Southern,,A,Richmond,Southern,Malcolm Pitt,L,0,27
+1943-10-23,Virginia Military Institute,Southern,,H,Wake Forest,Southern,D.C. Walker,L,0,21
+1943-10-30,Virginia Military Institute,Southern,,H,Virginia,Ind,Frank Murray,L,0,34
+1943-11-13,Virginia Military Institute,Southern,,A,Georgia,SEC,Wallace Butts,L,7,46
+1943-11-25,Virginia Military Institute,Southern,,H,Maryland,Southern,Clarence Spears,L,14,21
+1943-10-09,Kansas State,Big 6,Ward Haylett,A,Missouri,Big 6,Chauncey Simpson,L,14,47
+1943-10-23,Kansas State,Big 6,Ward Haylett,H,Oklahoma,Big 6,Snorter Luster,L,0,37
+1943-10-30,Kansas State,Big 6,Ward Haylett,A,Kansas,Big 6,Henry Shenk,L,2,25
+1943-11-06,Kansas State,Big 6,Ward Haylett,H,Nebraska,Big 6,Adolph Lewandowski,L,7,13
+1943-11-20,Kansas State,Big 6,Ward Haylett,A,Iowa State,Big 6,Mike Michalske,L,0,48
+1943-09-25,Army,Ind,Red Blaik,H,Villanova,Ind,Jordan Olivar,W,27,0
+1943-10-02,Army,Ind,Red Blaik,H,Colgate,Ind,Andrew Kerr,W,42,0
+1943-10-09,Army,Ind,Red Blaik,H,Temple,Ind,Ray Morrison,W,51,0
+1943-10-16,Army,Ind,Red Blaik,A,Columbia,Ind,Lou Little,W,52,0
+1943-10-23,Army,Ind,Red Blaik,A,Yale,Ind,Howard Odell,W,39,7
+1943-10-30,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,T,13,13
+1943-11-06,Army,Ind,Red Blaik,H,Notre Dame,Ind,Frank Leahy,L,0,26
+1943-11-20,Army,Ind,Red Blaik,H,Brown,Ind,Skip Stahley,W,59,0
+1943-11-27,Army,Ind,Red Blaik,H,Navy,Ind,John Whelchel,L,0,13
+1943-09-18,Marquette,Ind,Tom Stidham,A,Wisconsin,Western,Harry Stuhldreher,W,33,7
+1943-09-25,Marquette,Ind,Tom Stidham,H,Purdue,Western,Elmer Burnham,L,0,21
+1943-10-03,Marquette,Ind,Tom Stidham,A,Camp Grant,Ind,,T,7,7
+1943-10-24,Marquette,Ind,Tom Stidham,H,Great Lakes Navy,Ind,,L,7,41
+1943-10-30,Marquette,Ind,Tom Stidham,A,Denver,MSAC,Mark Duncan,W,45,6
+1943-11-07,Marquette,Ind,Tom Stidham,H,Iowa Pre-Flight,Ind,Don Faurot,L,19,46
+1943-11-20,Marquette,Ind,Tom Stidham,A,Great Lakes Navy,Ind,,L,6,25
+1943-09-25,Dartmouth,Ind,,A,Holy Cross,Ind,,W,3,0
+1943-10-09,Dartmouth,Ind,,A,Pennsylvania,Ind,George Munger,L,6,7
+1943-10-30,Dartmouth,Ind,,A,Yale,Ind,Howard Odell,W,20,6
+1943-11-06,Dartmouth,Ind,,H,Columbia,Ind,Lou Little,W,47,13
+1943-11-13,Dartmouth,Ind,,N,Cornell,Ind,,W,20,0
+1943-11-20,Dartmouth,Ind,,A,Princeton,Ind,Harry Mahnken,W,42,13
+1943-09-25,UCLA,PCC,Babe Horrell,H,USC,PCC,Jeff Cravath,L,0,20
+1943-10-02,UCLA,PCC,Babe Horrell,H,Pacific,Ind,Amos Alonzo Stagg,L,7,19
+1943-10-09,UCLA,PCC,Babe Horrell,A,March Field,Ind,,L,7,47
+1943-10-16,UCLA,PCC,Babe Horrell,H,California,PCC,Stub Allison,L,0,13
+1943-11-06,UCLA,PCC,Babe Horrell,H,Del Monte Pre-Flight,Ind,,L,7,26
+1943-11-13,UCLA,PCC,Babe Horrell,A,California,PCC,Stub Allison,L,6,13
+1943-11-20,UCLA,PCC,Babe Horrell,H,Saint Mary's (CA),Ind,James Phelan,W,19,7
+1943-11-27,UCLA,PCC,Babe Horrell,A,USC,PCC,Jeff Cravath,L,13,26
+1943-09-25,Northwestern,Western,Pappy Waldorf,H,Indiana,Western,Bo McMillin,W,14,6
+1943-10-02,Northwestern,Western,Pappy Waldorf,H,Michigan,Western,Fritz Crisler,L,7,21
+1943-10-16,Northwestern,Western,Pappy Waldorf,H,Great Lakes Navy,Ind,,W,13,0
+1943-10-23,Northwestern,Western,Pappy Waldorf,A,Ohio State,Western,Paul Brown,W,13,0
+1943-10-30,Northwestern,Western,Pappy Waldorf,H,Minnesota,Western,George Hauser,W,42,6
+1943-11-06,Northwestern,Western,Pappy Waldorf,A,Wisconsin,Western,Harry Stuhldreher,W,41,0
+1943-11-13,Northwestern,Western,Pappy Waldorf,H,Notre Dame,Ind,Frank Leahy,L,6,25
+1943-11-20,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Ray Eliot,W,53,6
+1943-10-01,Kansas,Big 6,Henry Shenk,A,Denver,MSAC,Mark Duncan,L,6,19
+1943-10-09,Kansas,Big 6,Henry Shenk,H,Iowa State,Big 6,Mike Michalske,L,6,13
+1943-10-23,Kansas,Big 6,Henry Shenk,A,Nebraska,Big 6,Adolph Lewandowski,L,6,7
+1943-10-30,Kansas,Big 6,Henry Shenk,H,Kansas State,Big 6,Ward Haylett,W,25,2
+1943-11-06,Kansas,Big 6,Henry Shenk,A,Oklahoma,Big 6,Snorter Luster,L,13,26
+1943-11-20,Kansas,Big 6,Henry Shenk,H,Missouri,Big 6,Chauncey Simpson,W,7,6
+1943-11-25,Kansas,Big 6,Henry Shenk,A,Fort Riley,Ind,,L,7,22
+1943-09-25,LSU,SEC,Bernie Moore,H,Georgia,SEC,Wallace Butts,W,34,27
+1943-10-02,LSU,SEC,Bernie Moore,H,Rice,SWC,Jess Neely,W,20,7
+1943-10-09,LSU,SEC,Bernie Moore,H,Texas A&M,SWC,Homer Norton,L,13,28
+1943-10-23,LSU,SEC,Bernie Moore,A,Georgia,SEC,Wallace Butts,W,27,6
+1943-10-30,LSU,SEC,Bernie Moore,H,Texas Christian,SWC,Dutch Meyer,W,14,0
+1943-11-06,LSU,SEC,Bernie Moore,A,Georgia Tech,SEC,William Alexander,L,7,42
+1943-11-20,LSU,SEC,Bernie Moore,A,Tulane,SEC,Claude Simons,L,0,27
+1944-01-01,LSU,SEC,Bernie Moore,N,Texas A&M,SWC,Homer Norton,W,19,14
+1943-09-25,Pennsylvania,Ind,George Munger,H,Princeton,Ind,Harry Mahnken,W,47,9
+1943-10-02,Pennsylvania,Ind,George Munger,H,Yale,Ind,Howard Odell,W,41,7
+1943-10-09,Pennsylvania,Ind,George Munger,H,Dartmouth,Ind,,W,7,6
+1943-10-23,Pennsylvania,Ind,George Munger,A,Columbia,Ind,Lou Little,W,33,0
+1943-10-30,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,T,13,13
+1943-11-06,Pennsylvania,Ind,George Munger,H,Navy,Ind,John Whelchel,L,7,24
+1943-11-13,Pennsylvania,Ind,George Munger,H,North Carolina,Southern,Tom Young,L,6,9
+1943-11-25,Pennsylvania,Ind,George Munger,H,Cornell,Ind,,W,20,14
+1943-09-25,Tulsa,MVC,Henry Frnka,A,SMU,SWC,James Stewart,W,20,7
+1943-10-09,Tulsa,MVC,Henry Frnka,H,Texas Tech,Ind,,W,34,7
+1943-10-16,Tulsa,MVC,Henry Frnka,N,Oklahoma,Big 6,Snorter Luster,W,20,6
+1943-10-23,Tulsa,MVC,Henry Frnka,H,Utah,MSAC,Ike Armstrong,W,55,0
+1943-11-06,Tulsa,MVC,Henry Frnka,H,Oklahoma State,MVC,Jim Lookabaugh,W,55,6
+1943-11-25,Tulsa,MVC,Henry Frnka,H,Arkansas,SWC,John Tomlin,W,61,0
+1944-01-01,Tulsa,MVC,Henry Frnka,N,Georgia Tech,SEC,William Alexander,L,18,20
+1943-09-25,Iowa,Western,Slip Madigan,A,Great Lakes Navy,Ind,,L,7,21
+1943-10-02,Iowa,Western,Slip Madigan,H,Wisconsin,Western,Harry Stuhldreher,L,5,7
+1943-10-09,Iowa,Western,Slip Madigan,N,Iowa Pre-Flight,Ind,Don Faurot,L,0,25
+1943-10-16,Iowa,Western,Slip Madigan,H,Indiana,Western,Bo McMillin,T,7,7
+1943-10-23,Iowa,Western,Slip Madigan,A,Purdue,Western,Elmer Burnham,L,7,28
+1943-11-06,Iowa,Western,Slip Madigan,H,Illinois,Western,Ray Eliot,L,10,19
+1943-11-13,Iowa,Western,Slip Madigan,A,Minnesota,Western,George Hauser,L,14,33
+1943-11-20,Iowa,Western,Slip Madigan,A,Nebraska,Big 6,Adolph Lewandowski,W,33,13
+1943-10-02,Columbia,Ind,Lou Little,H,Princeton,Ind,Harry Mahnken,L,7,26
+1943-10-09,Columbia,Ind,Lou Little,H,Yale,Ind,Howard Odell,L,7,20
+1943-10-16,Columbia,Ind,Lou Little,H,Army,Ind,Red Blaik,L,0,52
+1943-10-23,Columbia,Ind,Lou Little,H,Pennsylvania,Ind,George Munger,L,0,33
+1943-10-30,Columbia,Ind,Lou Little,A,Cornell,Ind,,L,6,33
+1943-11-06,Columbia,Ind,Lou Little,A,Dartmouth,Ind,,L,13,47
+1943-11-13,Columbia,Ind,Lou Little,H,Navy,Ind,John Whelchel,L,0,61
+1943-11-20,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,L,0,41
+1943-09-25,Saint Mary's (CA) Pre-Flight,Ind,,A,Pacific,Ind,Amos Alonzo Stagg,L,7,13
+1943-10-09,Saint Mary's (CA) Pre-Flight,Ind,,A,USC,PCC,Jeff Cravath,L,0,13
+1943-10-23,Saint Mary's (CA) Pre-Flight,Ind,,A,California,PCC,Stub Allison,W,39,0
+1943-10-30,Saint Mary's (CA) Pre-Flight,Ind,,H,March Field,Ind,,L,6,7
+1943-11-07,Saint Mary's (CA) Pre-Flight,Ind,,N,Alameda Coast Guard,Ind,Joe Verducci,T,13,13
+1943-11-14,Saint Mary's (CA) Pre-Flight,Ind,,A,San Francisco,Ind,Al Tassi,W,41,0
+1943-11-21,Saint Mary's (CA) Pre-Flight,Ind,,H,Del Monte Pre-Flight,Ind,,L,14,37
+1943-09-25,North Carolina Pre-Flight,Ind,Frank Kimbrough,A,Navy,Ind,John Whelchel,L,0,31
+1943-10-02,North Carolina Pre-Flight,Ind,Frank Kimbrough,A,Duke,Southern,,L,0,42
+1943-10-23,North Carolina Pre-Flight,Ind,Frank Kimbrough,H,Georgia Pre-Flight,Ind,,L,7,20
+1943-11-06,North Carolina Pre-Flight,Ind,Frank Kimbrough,A,Wake Forest,Southern,D.C. Walker,L,12,20
+1943-11-25,North Carolina Pre-Flight,Ind,Frank Kimbrough,A,North Carolina State,Southern,,W,21,7
+1943-10-09,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Snorter Luster,W,13,7
+1943-10-16,Texas,SWC,Dana Bible,H,Arkansas,SWC,John Tomlin,W,34,0
+1943-10-23,Texas,SWC,Dana Bible,H,Rice,SWC,Jess Neely,W,58,0
+1943-10-30,Texas,SWC,Dana Bible,A,SMU,SWC,James Stewart,W,20,0
+1943-11-13,Texas,SWC,Dana Bible,H,Texas Christian,SWC,Dutch Meyer,W,46,7
+1943-11-25,Texas,SWC,Dana Bible,A,Texas A&M,SWC,Homer Norton,W,27,13
+1943-10-02,Texas Christian,SWC,Dutch Meyer,A,Arkansas,SWC,John Tomlin,W,13,0
+1943-10-16,Texas Christian,SWC,Dutch Meyer,H,Texas A&M,SWC,Homer Norton,L,0,13
+1943-10-23,Texas Christian,SWC,Dutch Meyer,A,Oklahoma State,MVC,Jim Lookabaugh,W,25,0
+1943-10-30,Texas Christian,SWC,Dutch Meyer,A,LSU,SEC,Bernie Moore,L,0,14
+1943-11-06,Texas Christian,SWC,Dutch Meyer,H,Texas Tech,Ind,,L,20,40
+1943-11-13,Texas Christian,SWC,Dutch Meyer,A,Texas,SWC,Dana Bible,L,7,46
+1943-11-20,Texas Christian,SWC,Dutch Meyer,H,Rice,SWC,Jess Neely,L,6,13
+1943-11-27,Texas Christian,SWC,Dutch Meyer,H,SMU,SWC,James Stewart,L,0,20
+1943-09-25,Richmond,Southern,Malcolm Pitt,A,Duke,Southern,,L,0,61
+1943-10-09,Richmond,Southern,Malcolm Pitt,A,Virginia,Ind,Frank Murray,W,16,7
+1943-10-16,Richmond,Southern,Malcolm Pitt,H,Virginia Military Institute,Southern,,W,27,0
+1943-10-02,Brown,Ind,Skip Stahley,A,Holy Cross,Ind,,L,0,20
+1943-10-16,Brown,Ind,Skip Stahley,A,Princeton,Ind,Harry Mahnken,W,28,20
+1943-11-06,Brown,Ind,Skip Stahley,A,Yale,Ind,Howard Odell,W,21,20
+1943-11-20,Brown,Ind,Skip Stahley,A,Army,Ind,Red Blaik,L,0,59
+1943-11-27,Brown,Ind,Skip Stahley,H,Colgate,Ind,Andrew Kerr,L,14,21
+1943-09-11,Camp Grant,Ind,,A,Illinois,Western,Ray Eliot,W,23,0
+1943-09-18,Camp Grant,Ind,,H,Michigan,Western,Fritz Crisler,L,0,26
+1943-09-25,Camp Grant,Ind,,H,Wisconsin,Western,Harry Stuhldreher,W,10,7
+1943-10-03,Camp Grant,Ind,,H,Marquette,Ind,Tom Stidham,T,7,7
+1943-10-09,Camp Grant,Ind,,A,Purdue,Western,Elmer Burnham,L,0,19
+1943-10-16,Camp Grant,Ind,,A,Minnesota,Western,George Hauser,L,7,13
+1943-10-23,Camp Grant,Ind,,A,Fort Riley,Ind,,T,13,13
+1943-11-06,Camp Grant,Ind,,A,Great Lakes Navy,Ind,,L,0,12
+1943-11-13,Camp Grant,Ind,,A,Iowa Pre-Flight,Ind,Don Faurot,L,13,28
+1943-11-20,Camp Grant,Ind,,H,Fort Riley,Ind,,L,6,10
+1943-10-09,March Field,Ind,,H,UCLA,PCC,Babe Horrell,W,47,7
+1943-10-30,March Field,Ind,,A,Saint Mary's (CA) Pre-Flight,Ind,,W,7,6
+1943-11-13,March Field,Ind,,A,USC,PCC,Jeff Cravath,W,35,0
+1943-12-11,March Field,Ind,,H,Pacific,Ind,Amos Alonzo Stagg,W,19,10
+1943-09-18,Purdue,Western,Elmer Burnham,A,Great Lakes Navy,Ind,,W,23,13
+1943-09-25,Purdue,Western,Elmer Burnham,A,Marquette,Ind,Tom Stidham,W,21,0
+1943-10-02,Purdue,Western,Elmer Burnham,H,Illinois,Western,Ray Eliot,W,40,21
+1943-10-09,Purdue,Western,Elmer Burnham,H,Camp Grant,Ind,,W,19,0
+1943-10-16,Purdue,Western,Elmer Burnham,A,Ohio State,Western,Paul Brown,W,30,7
+1943-10-23,Purdue,Western,Elmer Burnham,H,Iowa,Western,Slip Madigan,W,28,7
+1943-10-30,Purdue,Western,Elmer Burnham,A,Wisconsin,Western,Harry Stuhldreher,W,32,0
+1943-11-06,Purdue,Western,Elmer Burnham,A,Minnesota,Western,George Hauser,W,14,7
+1943-11-20,Purdue,Western,Elmer Burnham,A,Indiana,Western,Bo McMillin,W,7,0
+1943-10-02,Nebraska,Big 6,Adolph Lewandowski,A,Minnesota,Western,George Hauser,L,0,54
+1943-10-09,Nebraska,Big 6,Adolph Lewandowski,H,Indiana,Western,Bo McMillin,L,13,54
+1943-10-16,Nebraska,Big 6,Adolph Lewandowski,A,Iowa State,Big 6,Mike Michalske,L,6,27
+1943-10-23,Nebraska,Big 6,Adolph Lewandowski,H,Kansas,Big 6,Henry Shenk,W,7,6
+1943-10-30,Nebraska,Big 6,Adolph Lewandowski,A,Missouri,Big 6,Chauncey Simpson,L,20,54
+1943-11-06,Nebraska,Big 6,Adolph Lewandowski,A,Kansas State,Big 6,Ward Haylett,W,13,7
+1943-11-20,Nebraska,Big 6,Adolph Lewandowski,H,Iowa,Western,Slip Madigan,L,13,33
+1943-11-27,Nebraska,Big 6,Adolph Lewandowski,H,Oklahoma,Big 6,Snorter Luster,L,7,26
+1943-10-02,West Virginia,Ind,Rat Rogers,N,Virginia,Ind,Frank Murray,L,0,6
+1943-10-09,West Virginia,Ind,Rat Rogers,A,Pitt,Ind,Clark Shaughnessy,L,0,20
+1943-10-16,West Virginia,Ind,Rat Rogers,H,Maryland,Southern,Clarence Spears,W,6,2
+1943-10-30,West Virginia,Ind,Rat Rogers,A,Penn State,Ind,Bob Higgins,L,7,32
+1943-09-24,Oklahoma State,MVC,Jim Lookabaugh,H,Texas Tech,Ind,,W,21,13
+1943-10-02,Oklahoma State,MVC,Jim Lookabaugh,N,Oklahoma,Big 6,Snorter Luster,L,13,22
+1943-10-23,Oklahoma State,MVC,Jim Lookabaugh,H,Texas Christian,SWC,Dutch Meyer,L,0,25
+1943-11-06,Oklahoma State,MVC,Jim Lookabaugh,A,Tulsa,MVC,Henry Frnka,L,6,55
+1943-11-19,Oklahoma State,MVC,Jim Lookabaugh,A,Arkansas,SWC,John Tomlin,W,19,13
+1943-11-27,Oklahoma State,MVC,Jim Lookabaugh,A,Denver,MSAC,Mark Duncan,W,7,6
+1943-10-09,Colorado,MSAC,Jim Yeager,H,Utah,MSAC,Ike Armstrong,W,35,0
+1943-10-23,Colorado,MSAC,Jim Yeager,H,Colorado College,Ind,Harold White,L,6,16
+1943-11-06,Colorado,MSAC,Jim Yeager,A,Utah,MSAC,Ike Armstrong,W,22,19
+1943-11-20,Colorado,MSAC,Jim Yeager,A,Colorado College,Ind,Harold White,L,0,6
+1943-10-02,Rice,SWC,Jess Neely,A,LSU,SEC,Bernie Moore,L,7,20
+1943-10-09,Rice,SWC,Jess Neely,H,Tulane,SEC,Claude Simons,L,0,33
+1943-10-16,Rice,SWC,Jess Neely,A,SMU,SWC,James Stewart,L,0,12
+1943-10-23,Rice,SWC,Jess Neely,A,Texas,SWC,Dana Bible,L,0,58
+1943-10-30,Rice,SWC,Jess Neely,H,Texas Tech,Ind,,W,13,0
+1943-11-06,Rice,SWC,Jess Neely,H,Arkansas,SWC,John Tomlin,W,20,7
+1943-11-13,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Homer Norton,L,0,20
+1943-11-20,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Dutch Meyer,W,13,6
+1943-10-02,Texas A&M,SWC,Homer Norton,N,Texas Tech,Ind,,W,13,0
+1943-10-09,Texas A&M,SWC,Homer Norton,A,LSU,SEC,Bernie Moore,W,28,13
+1943-10-16,Texas A&M,SWC,Homer Norton,A,Texas Christian,SWC,Dutch Meyer,W,13,0
+1943-10-30,Texas A&M,SWC,Homer Norton,A,Arkansas,SWC,John Tomlin,W,13,0
+1943-11-06,Texas A&M,SWC,Homer Norton,H,SMU,SWC,James Stewart,W,22,0
+1943-11-13,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jess Neely,W,20,0
+1943-11-25,Texas A&M,SWC,Homer Norton,H,Texas,SWC,Dana Bible,L,13,27
+1944-01-01,Texas A&M,SWC,Homer Norton,N,LSU,SEC,Bernie Moore,L,14,19
+1943-10-02,Colgate,Ind,Andrew Kerr,A,Army,Ind,Red Blaik,L,0,42
+1943-10-09,Colgate,Ind,Andrew Kerr,A,Penn State,Ind,Bob Higgins,T,0,0
+1943-10-23,Colgate,Ind,Andrew Kerr,N,Cornell,Ind,,W,20,7
+1943-10-30,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,,L,7,14
+1943-11-20,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,W,41,0
+1943-11-27,Colgate,Ind,Andrew Kerr,A,Brown,Ind,Skip Stahley,W,21,14
+1943-09-25,Minnesota,Western,George Hauser,H,Missouri,Big 6,Chauncey Simpson,W,26,13
+1943-10-02,Minnesota,Western,George Hauser,H,Nebraska,Big 6,Adolph Lewandowski,W,54,0
+1943-10-16,Minnesota,Western,George Hauser,H,Camp Grant,Ind,,W,13,7
+1943-10-23,Minnesota,Western,George Hauser,A,Michigan,Western,Fritz Crisler,L,6,49
+1943-10-30,Minnesota,Western,George Hauser,A,Northwestern,Western,Pappy Waldorf,L,6,42
+1943-11-06,Minnesota,Western,George Hauser,H,Purdue,Western,Elmer Burnham,L,7,14
+1943-11-13,Minnesota,Western,George Hauser,H,Iowa,Western,Slip Madigan,W,33,14
+1943-11-20,Minnesota,Western,George Hauser,H,Wisconsin,Western,Harry Stuhldreher,W,25,13
+1943-11-27,Minnesota,Western,George Hauser,H,Iowa Pre-Flight,Ind,Don Faurot,L,0,32
+1943-09-25,Duke,Southern,,H,Richmond,Southern,Malcolm Pitt,W,61,0
+1943-10-02,Duke,Southern,,H,North Carolina Pre-Flight,Ind,Frank Kimbrough,W,42,0
+1943-10-09,Duke,Southern,,A,Navy,Ind,John Whelchel,L,13,14
+1943-10-16,Duke,Southern,,H,North Carolina,Southern,Tom Young,W,14,7
+1943-10-30,Duke,Southern,,A,Georgia Tech,SEC,William Alexander,W,14,7
+1943-11-06,Duke,Southern,,A,North Carolina State,Southern,,W,75,0
+1943-11-13,Duke,Southern,,H,Virginia,Ind,Frank Murray,W,49,0
+1943-11-20,Duke,Southern,,A,North Carolina,Southern,Tom Young,W,27,6
+1943-10-10,San Francisco,Ind,Al Tassi,H,Alameda Coast Guard,Ind,Joe Verducci,L,0,26
+1943-10-16,San Francisco,Ind,Al Tassi,H,USC,PCC,Jeff Cravath,L,0,34
+1943-10-24,San Francisco,Ind,Al Tassi,H,Del Monte Pre-Flight,Ind,,L,0,34
+1943-10-30,San Francisco,Ind,Al Tassi,A,Saint Mary's (CA),Ind,James Phelan,L,7,19
+1943-11-06,San Francisco,Ind,Al Tassi,A,California,PCC,Stub Allison,L,0,32
+1943-11-14,San Francisco,Ind,Al Tassi,H,Saint Mary's (CA) Pre-Flight,Ind,,L,0,41
+1943-09-25,Navy,Ind,John Whelchel,H,North Carolina Pre-Flight,Ind,Frank Kimbrough,W,31,0
+1943-10-02,Navy,Ind,John Whelchel,H,Cornell,Ind,,W,46,7
+1943-10-09,Navy,Ind,John Whelchel,H,Duke,Southern,,W,14,13
+1943-10-16,Navy,Ind,John Whelchel,H,Penn State,Ind,Bob Higgins,W,14,6
+1943-10-23,Navy,Ind,John Whelchel,H,Georgia Tech,SEC,William Alexander,W,28,14
+1943-10-30,Navy,Ind,John Whelchel,N,Notre Dame,Ind,Frank Leahy,L,6,33
+1943-11-06,Navy,Ind,John Whelchel,A,Pennsylvania,Ind,George Munger,W,24,7
+1943-11-13,Navy,Ind,John Whelchel,A,Columbia,Ind,Lou Little,W,61,0
+1943-11-27,Navy,Ind,John Whelchel,A,Army,Ind,Red Blaik,W,13,0
+1943-09-24,Texas Tech,Ind,,A,Oklahoma State,MVC,Jim Lookabaugh,L,13,21
+1943-10-02,Texas Tech,Ind,,N,Texas A&M,SWC,Homer Norton,L,0,13
+1943-10-09,Texas Tech,Ind,,A,Tulsa,MVC,Henry Frnka,L,7,34
+1943-10-30,Texas Tech,Ind,,A,Rice,SWC,Jess Neely,L,0,13
+1943-11-06,Texas Tech,Ind,,A,Texas Christian,SWC,Dutch Meyer,W,40,20
+1943-11-20,Texas Tech,Ind,,A,SMU,SWC,James Stewart,W,7,6
+1943-10-09,Tulane,SEC,Claude Simons,A,Rice,SWC,Jess Neely,W,33,0
+1943-10-23,Tulane,SEC,Claude Simons,H,SMU,SWC,James Stewart,W,12,6
+1943-10-30,Tulane,SEC,Claude Simons,H,Georgia Pre-Flight,Ind,,L,13,14
+1943-11-13,Tulane,SEC,Claude Simons,H,Georgia Tech,SEC,William Alexander,L,0,33
+1943-11-20,Tulane,SEC,Claude Simons,H,LSU,SEC,Bernie Moore,W,27,0
+1943-10-02,Cornell,Ind,,A,Navy,Ind,John Whelchel,L,7,46
+1943-10-09,Cornell,Ind,,A,Princeton,Ind,Harry Mahnken,W,30,0
+1943-10-16,Cornell,Ind,,H,Holy Cross,Ind,,W,20,7
+1943-10-23,Cornell,Ind,,N,Colgate,Ind,Andrew Kerr,L,7,20
+1943-10-30,Cornell,Ind,,H,Columbia,Ind,Lou Little,W,33,6
+1943-11-06,Cornell,Ind,,H,Penn State,Ind,Bob Higgins,W,13,0
+1943-11-13,Cornell,Ind,,N,Dartmouth,Ind,,L,0,20
+1943-11-25,Cornell,Ind,,A,Pennsylvania,Ind,George Munger,L,14,20
+1943-09-25,Ohio State,Western,Paul Brown,H,Iowa Pre-Flight,Ind,Don Faurot,L,13,28
+1943-10-02,Ohio State,Western,Paul Brown,H,Missouri,Big 6,Chauncey Simpson,W,27,6
+1943-10-09,Ohio State,Western,Paul Brown,A,Great Lakes Navy,Ind,,L,6,13
+1943-10-16,Ohio State,Western,Paul Brown,H,Purdue,Western,Elmer Burnham,L,7,30
+1943-10-23,Ohio State,Western,Paul Brown,H,Northwestern,Western,Pappy Waldorf,L,0,13
+1943-10-30,Ohio State,Western,Paul Brown,H,Indiana,Western,Bo McMillin,L,14,20
+1943-11-06,Ohio State,Western,Paul Brown,A,Pitt,Ind,Clark Shaughnessy,W,46,6
+1943-11-13,Ohio State,Western,Paul Brown,H,Illinois,Western,Ray Eliot,W,29,26
+1943-11-20,Ohio State,Western,Paul Brown,A,Michigan,Western,Fritz Crisler,L,7,45
+1943-09-26,Del Monte Pre-Flight,Ind,,A,Alameda Coast Guard,Ind,Joe Verducci,W,34,7
+1943-10-03,Del Monte Pre-Flight,Ind,,A,Saint Mary's (CA),Ind,James Phelan,W,33,7
+1943-10-16,Del Monte Pre-Flight,Ind,,A,Pacific,Ind,Amos Alonzo Stagg,L,7,16
+1943-10-24,Del Monte Pre-Flight,Ind,,A,San Francisco,Ind,Al Tassi,W,34,0
+1943-11-06,Del Monte Pre-Flight,Ind,,A,UCLA,PCC,Babe Horrell,W,26,7
+1943-11-21,Del Monte Pre-Flight,Ind,,A,Saint Mary's (CA) Pre-Flight,Ind,,W,37,14
+1943-11-27,Del Monte Pre-Flight,Ind,,A,California,PCC,Stub Allison,W,47,8

@@ -1,0 +1,1015 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1961-09-30,North Carolina,ACC,James Hickey,H,North Carolina State,ACC,Earle Edwards,W,27,22
+1961-10-07,North Carolina,ACC,James Hickey,H,Clemson,ACC,Frank Howard,L,0,27
+1961-10-14,North Carolina,ACC,James Hickey,A,Maryland,ACC,Thomas Nugent,W,14,8
+1961-10-21,North Carolina,ACC,James Hickey,A,South Carolina,ACC,Marvin Bass,W,17,0
+1961-10-27,North Carolina,ACC,James Hickey,A,Miami (FL),Ind,Andy Gustafson,L,0,10
+1961-11-04,North Carolina,ACC,James Hickey,H,Tennessee,SEC,Bowden Wyatt,W,22,21
+1961-11-11,North Carolina,ACC,James Hickey,H,LSU,SEC,Paul Dietzel,L,0,30
+1961-11-18,North Carolina,ACC,James Hickey,A,Duke,ACC,Bill Murray,L,3,6
+1961-11-25,North Carolina,ACC,James Hickey,A,Wake Forest,ACC,Billy Hildebrand,L,14,17
+1961-12-02,North Carolina,ACC,James Hickey,H,Virginia,ACC,William Elias,W,24,0
+1961-09-23,Indiana,Big Ten,Phil Dickens,A,Kansas State,Big 8,Doug Weaver,L,8,14
+1961-10-07,Indiana,Big Ten,Phil Dickens,H,Wisconsin,Big Ten,Milt Bruhn,L,3,6
+1961-10-14,Indiana,Big Ten,Phil Dickens,A,Iowa,Big Ten,Jerry Burns,L,8,27
+1961-10-21,Indiana,Big Ten,Phil Dickens,H,Washington State,Ind,Jim Sutherland,W,33,7
+1961-10-28,Indiana,Big Ten,Phil Dickens,A,Michigan State,Big Ten,Duffy Daugherty,L,0,35
+1961-11-04,Indiana,Big Ten,Phil Dickens,A,Northwestern,Big Ten,Ara Parseghian,L,8,14
+1961-11-11,Indiana,Big Ten,Phil Dickens,H,Ohio State,Big Ten,Woody Hayes,L,7,16
+1961-11-18,Indiana,Big Ten,Phil Dickens,A,West Virginia,Southern,Gene Corum,W,17,9
+1961-11-25,Indiana,Big Ten,Phil Dickens,H,Purdue,Big Ten,Jack Mollenkopf,L,12,34
+1961-09-16,Florida State,Ind,Bill Peterson,H,George Washington,Southern,Jim Camp,W,15,7
+1961-09-30,Florida State,Ind,Bill Peterson,A,Florida,SEC,Ray Graves,T,3,3
+1961-10-07,Florida State,Ind,Bill Peterson,A,Ole Miss,SEC,John Vaught,L,0,33
+1961-10-14,Florida State,Ind,Bill Peterson,H,Georgia,SEC,Johnny Griffith,W,3,0
+1961-10-21,Florida State,Ind,Bill Peterson,H,Richmond,Southern,Edwin Merrick,W,13,7
+1961-10-28,Florida State,Ind,Bill Peterson,A,Virginia Tech,Southern,Jerry Claiborne,L,7,10
+1961-11-04,Florida State,Ind,Bill Peterson,A,Kentucky,SEC,Blanton Collier,L,0,20
+1961-11-11,Florida State,Ind,Bill Peterson,H,Citadel,Southern,Eddie Teague,W,44,8
+1961-11-25,Florida State,Ind,Bill Peterson,A,Houston,Ind,Hal Lahar,L,8,28
+1961-09-23,Iowa State,Big 8,Clay Stapleton,H,Oklahoma State,Big 8,Cliff Speegle,W,14,7
+1961-10-07,Iowa State,Big 8,Clay Stapleton,A,Oklahoma,Big 8,Bud Wilkinson,W,21,15
+1961-10-14,Iowa State,Big 8,Clay Stapleton,A,Kansas,Big 8,Jack Mitchell,L,7,21
+1961-10-21,Iowa State,Big 8,Clay Stapleton,H,Missouri,Big 8,Dan Devine,L,7,13
+1961-10-28,Iowa State,Big 8,Clay Stapleton,H,Kansas State,Big 8,Doug Weaver,W,31,7
+1961-11-04,Iowa State,Big 8,Clay Stapleton,A,Boston College,Ind,Ernest Hefferle,L,10,14
+1961-11-11,Iowa State,Big 8,Clay Stapleton,H,Nebraska,Big 8,William Jennings,L,13,16
+1961-11-18,Iowa State,Big 8,Clay Stapleton,A,Tulsa,MVC,Glenn Dobbs,W,27,6
+1961-11-25,Iowa State,Big 8,Clay Stapleton,A,Colorado,Big 8,Everett Grandelius,L,0,34
+1961-09-16,Cincinnati,MVC,Charles Studley,H,Dayton,Ind,Stan Zajdel,W,16,12
+1961-09-23,Cincinnati,MVC,Charles Studley,A,Boston College,Ind,Ernest Hefferle,L,0,23
+1961-09-30,Cincinnati,MVC,Charles Studley,A,Wichita State,MVC,Hank Foldberg,L,13,21
+1961-10-07,Cincinnati,MVC,Charles Studley,H,Xavier,Ind,Edward Doherty,L,12,17
+1961-10-14,Cincinnati,MVC,Charles Studley,H,Air Force,Ind,Ben Martin,L,6,8
+1961-10-21,Cincinnati,MVC,Charles Studley,H,Houston,Ind,Hal Lahar,L,7,13
+1961-10-28,Cincinnati,MVC,Charles Studley,H,North Texas,MVC,Odus Mitchell,W,21,9
+1961-11-04,Cincinnati,MVC,Charles Studley,A,Tulsa,MVC,Glenn Dobbs,L,0,19
+1961-11-25,Cincinnati,MVC,Charles Studley,H,Detroit Mercy,Ind,Jim Miller,W,19,13
+1961-09-23,Arizona State,BIAA,Frank Kush,H,Wichita State,MVC,Hank Foldberg,W,21,7
+1961-09-30,Arizona State,BIAA,Frank Kush,A,Colorado State,Skyline,Tuffy Mullison,W,14,6
+1961-10-07,Arizona State,BIAA,Frank Kush,H,Utah,Skyline,Ray Nagel,L,26,28
+1961-10-14,Arizona State,BIAA,Frank Kush,A,West Texas A&M,BIAA,Joe Kerbel,W,28,11
+1961-10-21,Arizona State,BIAA,Frank Kush,H,Oregon State,Ind,Tommy Prothro,W,24,23
+1961-10-28,Arizona State,BIAA,Frank Kush,H,Hardin-Simmons,BIAA,Howard McChesney,W,47,0
+1961-11-04,Arizona State,BIAA,Frank Kush,A,San Jose State,Ind,Robert Titchenal,L,26,32
+1961-11-11,Arizona State,BIAA,Frank Kush,A,UTEP,BIAA,Ben Collins,W,48,28
+1961-11-18,Arizona State,BIAA,Frank Kush,H,Detroit Mercy,Ind,Jim Miller,W,40,6
+1961-11-25,Arizona State,BIAA,Frank Kush,H,Arizona,Ind,Jim LaRue,L,13,22
+1961-09-23,Furman,Southern,Robert King,H,Davidson,Southern,,W,45,19
+1961-09-30,Furman,Southern,Robert King,H,George Washington,Southern,Jim Camp,W,13,9
+1961-10-07,Furman,Southern,Robert King,A,William & Mary,Southern,Milt Drewer,L,6,19
+1961-10-21,Furman,Southern,Robert King,A,Citadel,Southern,Eddie Teague,L,8,9
+1961-11-04,Furman,Southern,Robert King,A,Memphis,Ind,Billy Murphy,W,7,6
+1961-11-18,Furman,Southern,Robert King,A,Clemson,ACC,Frank Howard,L,6,35
+1961-09-16,Utah,Skyline,Ray Nagel,H,Colorado State,Skyline,Tuffy Mullison,W,40,0
+1961-09-23,Utah,Skyline,Ray Nagel,A,Wisconsin,Big Ten,Milt Bruhn,L,0,7
+1961-09-30,Utah,Skyline,Ray Nagel,H,Oregon,Ind,Len Casanova,W,14,6
+1961-10-07,Utah,Skyline,Ray Nagel,A,Arizona State,BIAA,Frank Kush,W,28,26
+1961-10-14,Utah,Skyline,Ray Nagel,H,Brigham Young,Skyline,Hal Mitchell,W,21,20
+1961-10-21,Utah,Skyline,Ray Nagel,A,Montana,Skyline,Ray Jenkins,W,24,12
+1961-10-28,Utah,Skyline,Ray Nagel,H,Wyoming,Skyline,Bob Devaney,L,6,13
+1961-11-04,Utah,Skyline,Ray Nagel,A,New Mexico,Skyline,Bill Weeks,L,16,21
+1961-11-11,Utah,Skyline,Ray Nagel,A,Colorado,Big 8,Everett Grandelius,W,21,12
+1961-11-18,Utah,Skyline,Ray Nagel,H,Utah State,Skyline,John Ralston,L,6,17
+1961-09-23,Wichita State,MVC,Hank Foldberg,A,Arizona State,BIAA,Frank Kush,L,7,21
+1961-09-30,Wichita State,MVC,Hank Foldberg,H,Cincinnati,MVC,Charles Studley,W,21,13
+1961-10-07,Wichita State,MVC,Hank Foldberg,A,West Texas A&M,BIAA,Joe Kerbel,W,41,34
+1961-10-14,Wichita State,MVC,Hank Foldberg,A,North Texas,MVC,Odus Mitchell,W,26,14
+1961-10-21,Wichita State,MVC,Hank Foldberg,H,New Mexico State,BIAA,Warren Woodson,W,42,27
+1961-10-28,Wichita State,MVC,Hank Foldberg,H,Tulsa,MVC,Glenn Dobbs,W,9,7
+1961-11-04,Wichita State,MVC,Hank Foldberg,H,Oklahoma State,Big 8,Cliff Speegle,W,25,13
+1961-11-18,Wichita State,MVC,Hank Foldberg,A,Dayton,Ind,Stan Zajdel,L,12,23
+1961-12-30,Wichita State,MVC,Hank Foldberg,N,Villanova,Ind,Alex Bell,L,9,17
+1961-09-23,Villanova,Ind,Alex Bell,H,Virginia Military Institute,Southern,John McKenna,W,22,0
+1961-09-30,Villanova,Ind,Alex Bell,A,Holy Cross,Ind,Edward Anderson,W,20,6
+1961-10-21,Villanova,Ind,Alex Bell,A,Boston College,Ind,Ernest Hefferle,L,6,22
+1961-11-10,Villanova,Ind,Alex Bell,A,Detroit Mercy,Ind,Jim Miller,L,6,20
+1961-12-30,Villanova,Ind,Alex Bell,N,Wichita State,MVC,Hank Foldberg,W,17,9
+1961-09-23,Syracuse,Ind,Ben Schwartzwalder,A,Oregon State,Ind,Tommy Prothro,W,19,8
+1961-09-30,Syracuse,Ind,Ben Schwartzwalder,H,West Virginia,Southern,Gene Corum,W,29,14
+1961-10-07,Syracuse,Ind,Ben Schwartzwalder,A,Maryland,ACC,Thomas Nugent,L,21,22
+1961-10-14,Syracuse,Ind,Ben Schwartzwalder,A,Nebraska,Big 8,William Jennings,W,28,6
+1961-10-21,Syracuse,Ind,Ben Schwartzwalder,A,Penn State,Ind,Rip Engle,L,0,14
+1961-10-28,Syracuse,Ind,Ben Schwartzwalder,H,Holy Cross,Ind,Edward Anderson,W,34,6
+1961-11-04,Syracuse,Ind,Ben Schwartzwalder,H,Pitt,Ind,John Michelosen,W,28,9
+1961-11-11,Syracuse,Ind,Ben Schwartzwalder,H,Colgate,Ind,Alva Kelley,W,51,8
+1961-11-18,Syracuse,Ind,Ben Schwartzwalder,A,Notre Dame,Ind,Joe Kuharich,L,15,17
+1961-11-25,Syracuse,Ind,Ben Schwartzwalder,A,Boston College,Ind,Ernest Hefferle,W,28,13
+1961-12-16,Syracuse,Ind,Ben Schwartzwalder,N,Miami (FL),Ind,Andy Gustafson,W,15,14
+1961-09-23,Arizona,Ind,Jim LaRue,H,Colorado State,Skyline,Tuffy Mullison,W,28,6
+1961-09-30,Arizona,Ind,Jim LaRue,A,Nebraska,Big 8,William Jennings,T,14,14
+1961-10-07,Arizona,Ind,Jim LaRue,H,Hardin-Simmons,BIAA,Howard McChesney,W,53,7
+1961-10-14,Arizona,Ind,Jim LaRue,A,Oregon,Ind,Len Casanova,W,15,6
+1961-10-21,Arizona,Ind,Jim LaRue,H,New Mexico,Skyline,Bill Weeks,W,22,21
+1961-10-28,Arizona,Ind,Jim LaRue,A,West Texas A&M,BIAA,Joe Kerbel,L,23,27
+1961-11-04,Arizona,Ind,Jim LaRue,H,Wyoming,Skyline,Bob Devaney,W,20,15
+1961-11-11,Arizona,Ind,Jim LaRue,A,Idaho,Ind,Skip Stahley,W,43,7
+1961-11-18,Arizona,Ind,Jim LaRue,H,UTEP,BIAA,Ben Collins,W,48,15
+1961-11-25,Arizona,Ind,Jim LaRue,A,Arizona State,BIAA,Frank Kush,W,22,13
+1961-09-16,Montana,Skyline,Ray Jenkins,H,Wyoming,Skyline,Bob Devaney,L,0,29
+1961-09-23,Montana,Skyline,Ray Jenkins,A,Utah State,Skyline,John Ralston,L,6,54
+1961-09-30,Montana,Skyline,Ray Jenkins,H,New Mexico,Skyline,Bill Weeks,W,40,8
+1961-10-07,Montana,Skyline,Ray Jenkins,A,Brigham Young,Skyline,Hal Mitchell,L,6,7
+1961-10-21,Montana,Skyline,Ray Jenkins,H,Utah,Skyline,Ray Nagel,L,12,24
+1961-10-28,Montana,Skyline,Ray Jenkins,H,Colorado State,Skyline,Tuffy Mullison,W,22,19
+1961-11-18,Montana,Skyline,Ray Jenkins,H,Idaho,Ind,Skip Stahley,L,14,16
+1961-09-23,Penn State,Ind,Rip Engle,H,Navy,Ind,Wayne Hardin,W,20,10
+1961-09-29,Penn State,Ind,Rip Engle,A,Miami (FL),Ind,Andy Gustafson,L,8,25
+1961-10-06,Penn State,Ind,Rip Engle,A,Boston University,Ind,Steve Sinko,W,32,0
+1961-10-14,Penn State,Ind,Rip Engle,H,Army,Ind,Dale Hall,L,6,10
+1961-10-21,Penn State,Ind,Rip Engle,H,Syracuse,Ind,Ben Schwartzwalder,W,14,0
+1961-10-28,Penn State,Ind,Rip Engle,H,California,AAWU,Marv Levy,W,33,16
+1961-11-04,Penn State,Ind,Rip Engle,A,Maryland,ACC,Thomas Nugent,L,17,21
+1961-11-11,Penn State,Ind,Rip Engle,A,West Virginia,Southern,Gene Corum,W,20,6
+1961-11-18,Penn State,Ind,Rip Engle,H,Holy Cross,Ind,Edward Anderson,W,34,14
+1961-11-25,Penn State,Ind,Rip Engle,A,Pitt,Ind,John Michelosen,W,47,26
+1961-12-30,Penn State,Ind,Rip Engle,N,Georgia Tech,SEC,Bobby Dodd,W,30,15
+1961-09-30,Princeton,Ivy,Richard Colman,H,Rutgers,Ind,John Bateman,L,13,16
+1961-10-07,Princeton,Ivy,Richard Colman,A,Columbia,Ivy,Aldo Donelli,W,30,20
+1961-10-14,Princeton,Ivy,Richard Colman,H,Pennsylvania,Ivy,John Stiegman,W,9,3
+1961-10-21,Princeton,Ivy,Richard Colman,H,Colgate,Ind,Alva Kelley,L,0,15
+1961-10-28,Princeton,Ivy,Richard Colman,H,Cornell,Ivy,Tom Harp,W,30,25
+1961-11-04,Princeton,Ivy,Richard Colman,A,Brown,Ivy,John McLaughry,W,52,0
+1961-11-11,Princeton,Ivy,Richard Colman,A,Harvard,Ivy,John Yovicsin,L,7,9
+1961-11-18,Princeton,Ivy,Richard Colman,H,Yale,Ivy,Jordan Olivar,W,26,16
+1961-11-25,Princeton,Ivy,Richard Colman,H,Dartmouth,Ivy,Bob Blackman,L,6,24
+1961-09-23,Vanderbilt,SEC,Arthur Guepe,H,West Virginia,Southern,Gene Corum,W,16,6
+1961-09-30,Vanderbilt,SEC,Arthur Guepe,A,Georgia,SEC,Johnny Griffith,W,21,0
+1961-10-07,Vanderbilt,SEC,Arthur Guepe,H,Alabama,SEC,Bear Bryant,L,6,35
+1961-10-14,Vanderbilt,SEC,Arthur Guepe,A,UCLA,AAWU,Bill Barnes,L,21,28
+1961-10-21,Vanderbilt,SEC,Arthur Guepe,H,Florida,SEC,Ray Graves,L,0,7
+1961-10-28,Vanderbilt,SEC,Arthur Guepe,A,Ole Miss,SEC,John Vaught,L,0,47
+1961-11-11,Vanderbilt,SEC,Arthur Guepe,H,Kentucky,SEC,Blanton Collier,L,3,16
+1961-11-17,Vanderbilt,SEC,Arthur Guepe,A,Tulane,SEC,Andy Pilney,L,14,17
+1961-11-25,Vanderbilt,SEC,Arthur Guepe,H,South Carolina,ACC,Marvin Bass,L,7,23
+1961-12-02,Vanderbilt,SEC,Arthur Guepe,A,Tennessee,SEC,Bowden Wyatt,L,7,41
+1961-09-23,Kentucky,SEC,Blanton Collier,H,Miami (FL),Ind,Andy Gustafson,L,7,14
+1961-09-30,Kentucky,SEC,Blanton Collier,H,Ole Miss,SEC,John Vaught,L,6,20
+1961-10-07,Kentucky,SEC,Blanton Collier,A,Auburn,SEC,Ralph Jordan,W,14,12
+1961-10-14,Kentucky,SEC,Blanton Collier,H,Kansas State,Big 8,Doug Weaver,W,21,8
+1961-10-21,Kentucky,SEC,Blanton Collier,A,LSU,SEC,Paul Dietzel,L,14,24
+1961-10-28,Kentucky,SEC,Blanton Collier,A,Georgia,SEC,Johnny Griffith,L,15,16
+1961-11-04,Kentucky,SEC,Blanton Collier,H,Florida State,Ind,Bill Peterson,W,20,0
+1961-11-11,Kentucky,SEC,Blanton Collier,A,Vanderbilt,SEC,Arthur Guepe,W,16,3
+1961-11-18,Kentucky,SEC,Blanton Collier,H,Xavier,Ind,Edward Doherty,W,9,0
+1961-11-25,Kentucky,SEC,Blanton Collier,H,Tennessee,SEC,Bowden Wyatt,L,16,26
+1961-09-23,California,AAWU,Marv Levy,H,Texas,SWC,Darrell Royal,L,3,28
+1961-09-30,California,AAWU,Marv Levy,A,Iowa,Big Ten,Jerry Burns,L,7,28
+1961-10-07,California,AAWU,Marv Levy,A,Missouri,Big 8,Dan Devine,T,14,14
+1961-10-14,California,AAWU,Marv Levy,H,Washington,AAWU,Jim Owens,W,21,14
+1961-10-21,California,AAWU,Marv Levy,H,USC,AAWU,John McKay,L,14,28
+1961-10-28,California,AAWU,Marv Levy,A,Penn State,Ind,Rip Engle,L,16,33
+1961-11-04,California,AAWU,Marv Levy,A,UCLA,AAWU,Bill Barnes,L,15,35
+1961-11-11,California,AAWU,Marv Levy,H,Air Force,Ind,Ben Martin,L,14,15
+1961-11-18,California,AAWU,Marv Levy,H,Kansas,Big 8,Jack Mitchell,L,7,53
+1961-11-25,California,AAWU,Marv Levy,A,Stanford,AAWU,Jack Curtice,L,7,20
+1961-09-23,Florida,SEC,Ray Graves,H,Clemson,ACC,Frank Howard,W,21,17
+1961-09-30,Florida,SEC,Ray Graves,H,Florida State,Ind,Bill Peterson,T,3,3
+1961-10-06,Florida,SEC,Ray Graves,A,Tulane,SEC,Andy Pilney,W,14,3
+1961-10-14,Florida,SEC,Ray Graves,A,Rice,SWC,Jess Neely,L,10,19
+1961-10-21,Florida,SEC,Ray Graves,A,Vanderbilt,SEC,Arthur Guepe,W,7,0
+1961-10-28,Florida,SEC,Ray Graves,H,LSU,SEC,Paul Dietzel,L,0,23
+1961-11-04,Florida,SEC,Ray Graves,A,Georgia Tech,SEC,Bobby Dodd,L,0,20
+1961-11-11,Florida,SEC,Ray Graves,N,Georgia,SEC,Johnny Griffith,W,21,14
+1961-11-25,Florida,SEC,Ray Graves,A,Auburn,SEC,Ralph Jordan,L,15,32
+1961-12-02,Florida,SEC,Ray Graves,H,Miami (FL),Ind,Andy Gustafson,L,6,15
+1961-09-30,Boston University,Ind,Steve Sinko,A,Army,Ind,Dale Hall,L,7,31
+1961-10-06,Boston University,Ind,Steve Sinko,H,Penn State,Ind,Rip Engle,L,0,32
+1961-10-14,Boston University,Ind,Steve Sinko,H,Holy Cross,Ind,Edward Anderson,L,7,20
+1961-10-21,Boston University,Ind,Steve Sinko,H,West Virginia,Southern,Gene Corum,W,12,6
+1961-10-27,Boston University,Ind,Steve Sinko,A,George Washington,Southern,Jim Camp,W,20,6
+1961-11-18,Boston University,Ind,Steve Sinko,H,Boston College,Ind,Ernest Hefferle,L,7,10
+1961-09-23,Stanford,AAWU,Jack Curtice,H,Tulane,SEC,Andy Pilney,W,9,7
+1961-09-30,Stanford,AAWU,Jack Curtice,A,Oregon State,Ind,Tommy Prothro,W,34,0
+1961-10-07,Stanford,AAWU,Jack Curtice,A,Michigan State,Big Ten,Duffy Daugherty,L,3,31
+1961-10-14,Stanford,AAWU,Jack Curtice,H,San Jose State,Ind,Robert Titchenal,W,17,6
+1961-10-21,Stanford,AAWU,Jack Curtice,A,Washington,AAWU,Jim Owens,L,0,13
+1961-10-28,Stanford,AAWU,Jack Curtice,H,UCLA,AAWU,Bill Barnes,L,0,20
+1961-11-04,Stanford,AAWU,Jack Curtice,H,Oregon,Ind,Len Casanova,L,7,19
+1961-11-11,Stanford,AAWU,Jack Curtice,A,USC,AAWU,John McKay,L,15,30
+1961-11-18,Stanford,AAWU,Jack Curtice,H,Washington State,Ind,Jim Sutherland,L,0,30
+1961-11-25,Stanford,AAWU,Jack Curtice,H,California,AAWU,Marv Levy,W,20,7
+1961-09-23,Washington State,Ind,Jim Sutherland,A,Missouri,Big 8,Dan Devine,L,6,28
+1961-09-30,Washington State,Ind,Jim Sutherland,H,Utah State,Skyline,John Ralston,L,14,34
+1961-10-07,Washington State,Ind,Jim Sutherland,A,Texas,SWC,Darrell Royal,L,8,41
+1961-10-14,Washington State,Ind,Jim Sutherland,H,Idaho,Ind,Skip Stahley,W,34,0
+1961-10-21,Washington State,Ind,Jim Sutherland,A,Indiana,Big Ten,Phil Dickens,L,7,33
+1961-10-28,Washington State,Ind,Jim Sutherland,H,San Jose State,Ind,Robert Titchenal,L,19,21
+1961-11-04,Washington State,Ind,Jim Sutherland,A,Oregon State,Ind,Tommy Prothro,L,6,14
+1961-11-11,Washington State,Ind,Jim Sutherland,H,Oregon,Ind,Len Casanova,W,22,21
+1961-11-18,Washington State,Ind,Jim Sutherland,A,Stanford,AAWU,Jack Curtice,W,30,0
+1961-11-25,Washington State,Ind,Jim Sutherland,A,Washington,AAWU,Jim Owens,L,17,21
+1961-09-30,Illinois,Big Ten,Pete Elliott,H,Washington,AAWU,Jim Owens,L,7,20
+1961-10-07,Illinois,Big Ten,Pete Elliott,H,Northwestern,Big Ten,Ara Parseghian,L,7,28
+1961-10-14,Illinois,Big Ten,Pete Elliott,A,Ohio State,Big Ten,Woody Hayes,L,0,44
+1961-10-21,Illinois,Big Ten,Pete Elliott,H,Minnesota,Big Ten,Murray Warmath,L,0,33
+1961-10-28,Illinois,Big Ten,Pete Elliott,A,USC,AAWU,John McKay,L,10,14
+1961-11-04,Illinois,Big Ten,Pete Elliott,H,Purdue,Big Ten,Jack Mollenkopf,L,9,23
+1961-11-11,Illinois,Big Ten,Pete Elliott,H,Michigan,Big Ten,Bump Elliott,L,6,38
+1961-11-18,Illinois,Big Ten,Pete Elliott,A,Wisconsin,Big Ten,Milt Bruhn,L,7,55
+1961-11-25,Illinois,Big Ten,Pete Elliott,A,Michigan State,Big Ten,Duffy Daugherty,L,7,34
+1961-09-23,Baylor,SWC,John Bridgers,H,Wake Forest,ACC,Billy Hildebrand,W,31,0
+1961-09-30,Baylor,SWC,John Bridgers,A,Pitt,Ind,John Michelosen,W,16,13
+1961-10-14,Baylor,SWC,John Bridgers,H,Arkansas,SWC,Frank Broyles,L,13,23
+1961-10-21,Baylor,SWC,John Bridgers,A,Texas Tech,SWC,J.T. King,L,17,19
+1961-10-28,Baylor,SWC,John Bridgers,A,Texas A&M,SWC,Jim Myers,L,0,23
+1961-11-04,Baylor,SWC,John Bridgers,H,Texas Christian,SWC,Abe Martin,W,28,14
+1961-11-11,Baylor,SWC,John Bridgers,A,Texas,SWC,Darrell Royal,L,7,33
+1961-11-18,Baylor,SWC,John Bridgers,H,Air Force,Ind,Ben Martin,W,31,7
+1961-11-25,Baylor,SWC,John Bridgers,H,SMU,SWC,Bill Meek,W,31,6
+1961-12-02,Baylor,SWC,John Bridgers,A,Rice,SWC,Jess Neely,L,14,26
+1961-12-09,Baylor,SWC,John Bridgers,N,Utah State,Skyline,John Ralston,W,24,9
+1961-09-23,SMU,SWC,Bill Meek,H,Maryland,ACC,Thomas Nugent,L,6,14
+1961-09-29,SMU,SWC,Bill Meek,A,USC,AAWU,John McKay,L,16,21
+1961-10-07,SMU,SWC,Bill Meek,H,Air Force,Ind,Ben Martin,W,9,7
+1961-10-21,SMU,SWC,Bill Meek,A,Rice,SWC,Jess Neely,L,0,10
+1961-10-28,SMU,SWC,Bill Meek,H,Texas Tech,SWC,J.T. King,W,8,7
+1961-11-04,SMU,SWC,Bill Meek,H,Texas,SWC,Darrell Royal,L,0,27
+1961-11-11,SMU,SWC,Bill Meek,A,Texas A&M,SWC,Jim Myers,L,12,25
+1961-11-18,SMU,SWC,Bill Meek,H,Arkansas,SWC,Frank Broyles,L,7,21
+1961-11-25,SMU,SWC,Bill Meek,A,Baylor,SWC,John Bridgers,L,6,31
+1961-12-02,SMU,SWC,Bill Meek,A,Texas Christian,SWC,Abe Martin,T,28,28
+1961-09-23,Georgia,SEC,Johnny Griffith,H,Alabama,SEC,Bear Bryant,L,6,32
+1961-09-30,Georgia,SEC,Johnny Griffith,H,Vanderbilt,SEC,Arthur Guepe,L,0,21
+1961-10-07,Georgia,SEC,Johnny Griffith,H,South Carolina,ACC,Marvin Bass,W,17,14
+1961-10-14,Georgia,SEC,Johnny Griffith,A,Florida State,Ind,Bill Peterson,L,0,3
+1961-10-21,Georgia,SEC,Johnny Griffith,H,Mississippi State,SEC,Wade Walker,W,10,7
+1961-10-28,Georgia,SEC,Johnny Griffith,H,Kentucky,SEC,Blanton Collier,W,16,15
+1961-11-03,Georgia,SEC,Johnny Griffith,A,Miami (FL),Ind,Andy Gustafson,L,7,32
+1961-11-11,Georgia,SEC,Johnny Griffith,N,Florida,SEC,Ray Graves,L,14,21
+1961-11-18,Georgia,SEC,Johnny Griffith,H,Auburn,SEC,Ralph Jordan,L,7,10
+1961-12-02,Georgia,SEC,Johnny Griffith,A,Georgia Tech,SEC,Bobby Dodd,L,7,22
+1961-09-23,Maryland,ACC,Thomas Nugent,A,SMU,SWC,Bill Meek,W,14,6
+1961-09-30,Maryland,ACC,Thomas Nugent,A,Clemson,ACC,Frank Howard,W,24,21
+1961-10-07,Maryland,ACC,Thomas Nugent,H,Syracuse,Ind,Ben Schwartzwalder,W,22,21
+1961-10-14,Maryland,ACC,Thomas Nugent,H,North Carolina,ACC,James Hickey,L,8,14
+1961-10-21,Maryland,ACC,Thomas Nugent,A,Air Force,Ind,Ben Martin,W,21,0
+1961-10-28,Maryland,ACC,Thomas Nugent,A,South Carolina,ACC,Marvin Bass,L,10,20
+1961-11-04,Maryland,ACC,Thomas Nugent,H,Penn State,Ind,Rip Engle,W,21,17
+1961-11-11,Maryland,ACC,Thomas Nugent,H,North Carolina State,ACC,Earle Edwards,W,10,7
+1961-11-18,Maryland,ACC,Thomas Nugent,H,Wake Forest,ACC,Billy Hildebrand,W,10,7
+1961-11-25,Maryland,ACC,Thomas Nugent,A,Virginia,ACC,William Elias,L,16,28
+1961-09-23,Virginia,ACC,William Elias,H,William & Mary,Southern,Milt Drewer,W,21,6
+1961-09-30,Virginia,ACC,William Elias,H,Duke,ACC,Bill Murray,L,0,42
+1961-10-07,Virginia,ACC,William Elias,H,North Carolina State,ACC,Earle Edwards,L,14,21
+1961-10-14,Virginia,ACC,William Elias,N,Virginia Military Institute,Southern,John McKenna,W,14,7
+1961-10-21,Virginia,ACC,William Elias,N,Virginia Tech,Southern,Jerry Claiborne,L,0,20
+1961-10-28,Virginia,ACC,William Elias,A,Wake Forest,ACC,Billy Hildebrand,L,15,21
+1961-11-04,Virginia,ACC,William Elias,H,South Carolina,ACC,Marvin Bass,W,28,20
+1961-11-18,Virginia,ACC,William Elias,A,Navy,Ind,Wayne Hardin,L,3,13
+1961-11-25,Virginia,ACC,William Elias,H,Maryland,ACC,Thomas Nugent,W,28,16
+1961-12-02,Virginia,ACC,William Elias,A,North Carolina,ACC,James Hickey,L,0,24
+1961-09-23,Idaho,Ind,Skip Stahley,A,Oregon,Ind,Len Casanova,L,0,51
+1961-09-30,Idaho,Ind,Skip Stahley,H,San Jose State,Ind,Robert Titchenal,W,27,18
+1961-10-07,Idaho,Ind,Skip Stahley,A,Oregon State,Ind,Tommy Prothro,L,6,44
+1961-10-14,Idaho,Ind,Skip Stahley,A,Washington State,Ind,Jim Sutherland,L,0,34
+1961-10-21,Idaho,Ind,Skip Stahley,A,Army,Ind,Dale Hall,L,7,51
+1961-10-28,Idaho,Ind,Skip Stahley,A,Utah State,Skyline,John Ralston,L,0,69
+1961-11-04,Idaho,Ind,Skip Stahley,H,Pacific,Ind,John Rohde,L,2,27
+1961-11-11,Idaho,Ind,Skip Stahley,H,Arizona,Ind,Jim LaRue,L,7,43
+1961-11-18,Idaho,Ind,Skip Stahley,A,Montana,Skyline,Ray Jenkins,W,16,14
+1961-09-16,Citadel,Southern,Eddie Teague,A,Memphis,Ind,Billy Murphy,L,0,40
+1961-09-23,Citadel,Southern,Eddie Teague,H,George Washington,Southern,Jim Camp,L,13,17
+1961-09-30,Citadel,Southern,Eddie Teague,H,Davidson,Southern,,W,20,12
+1961-10-07,Citadel,Southern,Eddie Teague,H,Richmond,Southern,Edwin Merrick,W,24,6
+1961-10-14,Citadel,Southern,Eddie Teague,A,William & Mary,Southern,Milt Drewer,W,10,8
+1961-10-21,Citadel,Southern,Eddie Teague,H,Furman,Southern,Robert King,W,9,8
+1961-10-28,Citadel,Southern,Eddie Teague,A,Xavier,Ind,Edward Doherty,W,7,6
+1961-11-04,Citadel,Southern,Eddie Teague,A,Virginia Military Institute,Southern,John McKenna,W,14,8
+1961-11-11,Citadel,Southern,Eddie Teague,A,Florida State,Ind,Bill Peterson,L,8,44
+1961-09-30,Oklahoma,Big 8,Bud Wilkinson,A,Notre Dame,Ind,Joe Kuharich,L,6,19
+1961-10-07,Oklahoma,Big 8,Bud Wilkinson,H,Iowa State,Big 8,Clay Stapleton,L,15,21
+1961-10-14,Oklahoma,Big 8,Bud Wilkinson,N,Texas,SWC,Darrell Royal,L,7,28
+1961-10-21,Oklahoma,Big 8,Bud Wilkinson,H,Kansas,Big 8,Jack Mitchell,L,0,10
+1961-10-28,Oklahoma,Big 8,Bud Wilkinson,H,Colorado,Big 8,Everett Grandelius,L,14,22
+1961-11-04,Oklahoma,Big 8,Bud Wilkinson,A,Kansas State,Big 8,Doug Weaver,W,17,6
+1961-11-11,Oklahoma,Big 8,Bud Wilkinson,A,Missouri,Big 8,Dan Devine,W,7,0
+1961-11-18,Oklahoma,Big 8,Bud Wilkinson,A,Army,Ind,Dale Hall,W,14,8
+1961-11-25,Oklahoma,Big 8,Bud Wilkinson,A,Nebraska,Big 8,William Jennings,W,21,14
+1961-12-02,Oklahoma,Big 8,Bud Wilkinson,H,Oklahoma State,Big 8,Cliff Speegle,W,21,13
+1961-09-16,Virginia Tech,Southern,Jerry Claiborne,N,William & Mary,Southern,Milt Drewer,W,20,6
+1961-10-07,Virginia Tech,Southern,Jerry Claiborne,A,West Virginia,Southern,Gene Corum,L,0,28
+1961-10-14,Virginia Tech,Southern,Jerry Claiborne,A,Tulane,SEC,Andy Pilney,L,14,27
+1961-10-21,Virginia Tech,Southern,Jerry Claiborne,N,Virginia,ACC,William Elias,W,20,0
+1961-10-28,Virginia Tech,Southern,Jerry Claiborne,H,Florida State,Ind,Bill Peterson,W,10,7
+1961-11-04,Virginia Tech,Southern,Jerry Claiborne,A,Richmond,Southern,Edwin Merrick,L,0,11
+1961-11-11,Virginia Tech,Southern,Jerry Claiborne,A,Wake Forest,ACC,Billy Hildebrand,L,15,24
+1961-11-17,Virginia Tech,Southern,Jerry Claiborne,H,George Washington,Southern,Jim Camp,W,14,3
+1961-11-23,Virginia Tech,Southern,Jerry Claiborne,N,Virginia Military Institute,Southern,John McKenna,L,0,6
+1961-09-23,Arkansas,SWC,Frank Broyles,A,Ole Miss,SEC,John Vaught,L,0,16
+1961-09-30,Arkansas,SWC,Frank Broyles,H,Tulsa,MVC,Glenn Dobbs,W,6,0
+1961-10-07,Arkansas,SWC,Frank Broyles,H,Texas Christian,SWC,Abe Martin,W,28,3
+1961-10-14,Arkansas,SWC,Frank Broyles,A,Baylor,SWC,John Bridgers,W,23,13
+1961-10-21,Arkansas,SWC,Frank Broyles,H,Texas,SWC,Darrell Royal,L,7,33
+1961-11-04,Arkansas,SWC,Frank Broyles,H,Texas A&M,SWC,Jim Myers,W,15,8
+1961-11-11,Arkansas,SWC,Frank Broyles,A,Rice,SWC,Jess Neely,W,10,0
+1961-11-18,Arkansas,SWC,Frank Broyles,A,SMU,SWC,Bill Meek,W,21,7
+1961-11-25,Arkansas,SWC,Frank Broyles,H,Texas Tech,SWC,J.T. King,W,28,0
+1962-01-01,Arkansas,SWC,Frank Broyles,N,Alabama,SEC,Bear Bryant,L,3,10
+1961-09-23,Clemson,ACC,Frank Howard,A,Florida,SEC,Ray Graves,L,17,21
+1961-09-30,Clemson,ACC,Frank Howard,H,Maryland,ACC,Thomas Nugent,L,21,24
+1961-10-07,Clemson,ACC,Frank Howard,A,North Carolina,ACC,James Hickey,W,27,0
+1961-10-14,Clemson,ACC,Frank Howard,H,Wake Forest,ACC,Billy Hildebrand,L,13,17
+1961-10-21,Clemson,ACC,Frank Howard,A,Duke,ACC,Bill Murray,W,17,7
+1961-10-28,Clemson,ACC,Frank Howard,A,Auburn,SEC,Ralph Jordan,L,14,24
+1961-11-04,Clemson,ACC,Frank Howard,H,Tulane,SEC,Andy Pilney,W,21,6
+1961-11-11,Clemson,ACC,Frank Howard,A,South Carolina,ACC,Marvin Bass,L,14,21
+1961-11-18,Clemson,ACC,Frank Howard,H,Furman,Southern,Robert King,W,35,6
+1961-11-25,Clemson,ACC,Frank Howard,H,North Carolina State,ACC,Earle Edwards,W,20,0
+1961-09-23,South Carolina,ACC,Marvin Bass,H,Duke,ACC,Bill Murray,L,6,7
+1961-09-30,South Carolina,ACC,Marvin Bass,A,Wake Forest,ACC,Billy Hildebrand,W,10,7
+1961-10-07,South Carolina,ACC,Marvin Bass,A,Georgia,SEC,Johnny Griffith,L,14,17
+1961-10-14,South Carolina,ACC,Marvin Bass,H,LSU,SEC,Paul Dietzel,L,0,42
+1961-10-21,South Carolina,ACC,Marvin Bass,H,North Carolina,ACC,James Hickey,L,0,17
+1961-10-28,South Carolina,ACC,Marvin Bass,H,Maryland,ACC,Thomas Nugent,W,20,10
+1961-11-04,South Carolina,ACC,Marvin Bass,A,Virginia,ACC,William Elias,L,20,28
+1961-11-11,South Carolina,ACC,Marvin Bass,H,Clemson,ACC,Frank Howard,W,21,14
+1961-11-18,South Carolina,ACC,Marvin Bass,A,North Carolina State,ACC,Earle Edwards,L,14,38
+1961-11-25,South Carolina,ACC,Marvin Bass,A,Vanderbilt,SEC,Arthur Guepe,W,23,7
+1961-09-23,Washington,AAWU,Jim Owens,H,Purdue,Big Ten,Jack Mollenkopf,L,6,13
+1961-09-30,Washington,AAWU,Jim Owens,A,Illinois,Big Ten,Pete Elliott,W,20,7
+1961-10-07,Washington,AAWU,Jim Owens,H,Pitt,Ind,John Michelosen,W,22,17
+1961-10-14,Washington,AAWU,Jim Owens,A,California,AAWU,Marv Levy,L,14,21
+1961-10-21,Washington,AAWU,Jim Owens,H,Stanford,AAWU,Jack Curtice,W,13,0
+1961-10-28,Washington,AAWU,Jim Owens,A,Oregon,Ind,Len Casanova,L,6,7
+1961-11-04,Washington,AAWU,Jim Owens,H,USC,AAWU,John McKay,T,0,0
+1961-11-11,Washington,AAWU,Jim Owens,H,Oregon State,Ind,Tommy Prothro,L,0,3
+1961-11-18,Washington,AAWU,Jim Owens,A,UCLA,AAWU,Bill Barnes,W,17,13
+1961-11-25,Washington,AAWU,Jim Owens,H,Washington State,Ind,Jim Sutherland,W,21,17
+1961-09-30,Holy Cross,Ind,Edward Anderson,H,Villanova,Ind,Alex Bell,L,6,20
+1961-10-14,Holy Cross,Ind,Edward Anderson,A,Boston University,Ind,Steve Sinko,W,20,7
+1961-10-21,Holy Cross,Ind,Edward Anderson,H,Dartmouth,Ivy,Bob Blackman,W,17,13
+1961-10-28,Holy Cross,Ind,Edward Anderson,A,Syracuse,Ind,Ben Schwartzwalder,L,6,34
+1961-11-04,Holy Cross,Ind,Edward Anderson,H,Dayton,Ind,Stan Zajdel,W,28,0
+1961-11-18,Holy Cross,Ind,Edward Anderson,A,Penn State,Ind,Rip Engle,L,14,34
+1961-12-02,Holy Cross,Ind,Edward Anderson,H,Boston College,Ind,Ernest Hefferle,W,38,26
+1961-09-16,Utah State,Skyline,John Ralston,H,UTEP,BIAA,Ben Collins,W,21,6
+1961-09-23,Utah State,Skyline,John Ralston,H,Montana,Skyline,Ray Jenkins,W,54,6
+1961-09-30,Utah State,Skyline,John Ralston,A,Washington State,Ind,Jim Sutherland,W,34,14
+1961-10-07,Utah State,Skyline,John Ralston,A,Wyoming,Skyline,Bob Devaney,T,6,6
+1961-10-14,Utah State,Skyline,John Ralston,H,New Mexico,Skyline,Bill Weeks,W,41,7
+1961-10-21,Utah State,Skyline,John Ralston,A,Colorado State,Skyline,Tuffy Mullison,W,49,3
+1961-10-28,Utah State,Skyline,John Ralston,H,Idaho,Ind,Skip Stahley,W,69,0
+1961-11-04,Utah State,Skyline,John Ralston,A,Brigham Young,Skyline,Hal Mitchell,W,31,8
+1961-11-18,Utah State,Skyline,John Ralston,A,Utah,Skyline,Ray Nagel,W,17,6
+1961-12-09,Utah State,Skyline,John Ralston,N,Baylor,SWC,John Bridgers,L,9,24
+1961-09-23,Missouri,Big 8,Dan Devine,H,Washington State,Ind,Jim Sutherland,W,28,6
+1961-09-30,Missouri,Big 8,Dan Devine,A,Minnesota,Big Ten,Murray Warmath,W,6,0
+1961-10-07,Missouri,Big 8,Dan Devine,H,California,AAWU,Marv Levy,T,14,14
+1961-10-14,Missouri,Big 8,Dan Devine,A,Oklahoma State,Big 8,Cliff Speegle,W,10,0
+1961-10-21,Missouri,Big 8,Dan Devine,A,Iowa State,Big 8,Clay Stapleton,W,13,7
+1961-10-28,Missouri,Big 8,Dan Devine,H,Nebraska,Big 8,William Jennings,W,10,0
+1961-11-04,Missouri,Big 8,Dan Devine,A,Colorado,Big 8,Everett Grandelius,L,6,7
+1961-11-11,Missouri,Big 8,Dan Devine,H,Oklahoma,Big 8,Bud Wilkinson,L,0,7
+1961-11-18,Missouri,Big 8,Dan Devine,H,Kansas State,Big 8,Doug Weaver,W,27,9
+1961-11-25,Missouri,Big 8,Dan Devine,A,Kansas,Big 8,Jack Mitchell,W,10,7
+1961-09-16,San Jose State,Ind,Robert Titchenal,A,Brigham Young,Skyline,Hal Mitchell,W,14,13
+1961-09-22,San Jose State,Ind,Robert Titchenal,H,Pacific,Ind,John Rohde,W,16,0
+1961-09-30,San Jose State,Ind,Robert Titchenal,A,Idaho,Ind,Skip Stahley,L,18,27
+1961-10-07,San Jose State,Ind,Robert Titchenal,H,Colorado State,Skyline,Tuffy Mullison,W,14,0
+1961-10-14,San Jose State,Ind,Robert Titchenal,A,Stanford,AAWU,Jack Curtice,L,6,17
+1961-10-21,San Jose State,Ind,Robert Titchenal,A,Oregon,Ind,Len Casanova,L,6,21
+1961-10-28,San Jose State,Ind,Robert Titchenal,A,Washington State,Ind,Jim Sutherland,W,21,19
+1961-11-04,San Jose State,Ind,Robert Titchenal,H,Arizona State,BIAA,Frank Kush,W,32,26
+1961-11-11,San Jose State,Ind,Robert Titchenal,A,Pacific,Ind,John Rohde,W,29,26
+1961-09-16,Hardin-Simmons,BIAA,Howard McChesney,A,Tulsa,MVC,Glenn Dobbs,L,0,27
+1961-09-23,Hardin-Simmons,BIAA,Howard McChesney,H,North Texas,MVC,Odus Mitchell,L,7,9
+1961-09-30,Hardin-Simmons,BIAA,Howard McChesney,A,Memphis,Ind,Billy Murphy,L,0,56
+1961-10-07,Hardin-Simmons,BIAA,Howard McChesney,A,Arizona,Ind,Jim LaRue,L,7,53
+1961-10-21,Hardin-Simmons,BIAA,Howard McChesney,A,West Texas A&M,BIAA,Joe Kerbel,L,0,42
+1961-10-28,Hardin-Simmons,BIAA,Howard McChesney,A,Arizona State,BIAA,Frank Kush,L,0,47
+1961-11-04,Hardin-Simmons,BIAA,Howard McChesney,H,UTEP,BIAA,Ben Collins,L,7,35
+1961-11-25,Hardin-Simmons,BIAA,Howard McChesney,A,New Mexico State,BIAA,Warren Woodson,L,8,54
+1961-09-23,Wisconsin,Big Ten,Milt Bruhn,H,Utah,Skyline,Ray Nagel,W,7,0
+1961-09-30,Wisconsin,Big Ten,Milt Bruhn,H,Michigan State,Big Ten,Duffy Daugherty,L,0,20
+1961-10-07,Wisconsin,Big Ten,Milt Bruhn,A,Indiana,Big Ten,Phil Dickens,W,6,3
+1961-10-14,Wisconsin,Big Ten,Milt Bruhn,H,Oregon State,Ind,Tommy Prothro,W,23,20
+1961-10-21,Wisconsin,Big Ten,Milt Bruhn,A,Iowa,Big Ten,Jerry Burns,L,15,47
+1961-10-28,Wisconsin,Big Ten,Milt Bruhn,H,Ohio State,Big Ten,Woody Hayes,L,21,30
+1961-11-11,Wisconsin,Big Ten,Milt Bruhn,A,Northwestern,Big Ten,Ara Parseghian,W,29,10
+1961-11-18,Wisconsin,Big Ten,Milt Bruhn,H,Illinois,Big Ten,Pete Elliott,W,55,7
+1961-11-25,Wisconsin,Big Ten,Milt Bruhn,A,Minnesota,Big Ten,Murray Warmath,W,23,21
+1961-09-22,USC,AAWU,John McKay,H,Georgia Tech,SEC,Bobby Dodd,L,7,27
+1961-09-29,USC,AAWU,John McKay,H,SMU,SWC,Bill Meek,W,21,16
+1961-10-07,USC,AAWU,John McKay,H,Iowa,Big Ten,Jerry Burns,L,34,35
+1961-10-14,USC,AAWU,John McKay,A,Notre Dame,Ind,Joe Kuharich,L,0,30
+1961-10-21,USC,AAWU,John McKay,A,California,AAWU,Marv Levy,W,28,14
+1961-10-28,USC,AAWU,John McKay,H,Illinois,Big Ten,Pete Elliott,W,14,10
+1961-11-04,USC,AAWU,John McKay,A,Washington,AAWU,Jim Owens,T,0,0
+1961-11-11,USC,AAWU,John McKay,H,Stanford,AAWU,Jack Curtice,W,30,15
+1961-11-18,USC,AAWU,John McKay,A,Pitt,Ind,John Michelosen,L,9,10
+1961-11-25,USC,AAWU,John McKay,H,UCLA,AAWU,Bill Barnes,L,7,10
+1961-09-23,North Carolina State,ACC,Earle Edwards,A,Wyoming,Skyline,Bob Devaney,L,14,15
+1961-09-30,North Carolina State,ACC,Earle Edwards,A,North Carolina,ACC,James Hickey,L,22,27
+1961-10-07,North Carolina State,ACC,Earle Edwards,A,Virginia,ACC,William Elias,W,21,14
+1961-10-14,North Carolina State,ACC,Earle Edwards,A,Alabama,SEC,Bear Bryant,L,7,26
+1961-10-21,North Carolina State,ACC,Earle Edwards,H,Wake Forest,ACC,Billy Hildebrand,W,7,0
+1961-10-28,North Carolina State,ACC,Earle Edwards,H,Duke,ACC,Bill Murray,L,6,17
+1961-11-11,North Carolina State,ACC,Earle Edwards,A,Maryland,ACC,Thomas Nugent,L,7,10
+1961-11-18,North Carolina State,ACC,Earle Edwards,H,South Carolina,ACC,Marvin Bass,W,38,14
+1961-11-25,North Carolina State,ACC,Earle Edwards,A,Clemson,ACC,Frank Howard,L,0,20
+1961-09-30,Rutgers,Ind,John Bateman,A,Princeton,Ivy,Richard Colman,W,16,13
+1961-10-28,Rutgers,Ind,John Bateman,A,Pennsylvania,Ivy,John Stiegman,W,20,6
+1961-11-18,Rutgers,Ind,John Bateman,A,Colgate,Ind,Alva Kelley,W,26,6
+1961-11-25,Rutgers,Ind,John Bateman,H,Columbia,Ivy,Aldo Donelli,W,32,19
+1961-09-30,Michigan,Big Ten,Bump Elliott,H,UCLA,AAWU,Bill Barnes,W,29,6
+1961-10-07,Michigan,Big Ten,Bump Elliott,H,Army,Ind,Dale Hall,W,38,8
+1961-10-14,Michigan,Big Ten,Bump Elliott,H,Michigan State,Big Ten,Duffy Daugherty,L,0,28
+1961-10-21,Michigan,Big Ten,Bump Elliott,H,Purdue,Big Ten,Jack Mollenkopf,W,16,14
+1961-10-28,Michigan,Big Ten,Bump Elliott,A,Minnesota,Big Ten,Murray Warmath,L,20,23
+1961-11-04,Michigan,Big Ten,Bump Elliott,H,Duke,ACC,Bill Murray,W,28,14
+1961-11-11,Michigan,Big Ten,Bump Elliott,A,Illinois,Big Ten,Pete Elliott,W,38,6
+1961-11-18,Michigan,Big Ten,Bump Elliott,H,Iowa,Big Ten,Jerry Burns,W,23,14
+1961-11-25,Michigan,Big Ten,Bump Elliott,H,Ohio State,Big Ten,Woody Hayes,L,20,50
+1961-09-29,Detroit Mercy,Ind,Jim Miller,H,Xavier,Ind,Edward Doherty,W,34,8
+1961-10-13,Detroit Mercy,Ind,Jim Miller,H,Boston College,Ind,Ernest Hefferle,W,20,3
+1961-10-20,Detroit Mercy,Ind,Jim Miller,H,Navy,Ind,Wayne Hardin,L,19,37
+1961-10-28,Detroit Mercy,Ind,Jim Miller,A,Dayton,Ind,Stan Zajdel,W,41,12
+1961-11-04,Detroit Mercy,Ind,Jim Miller,A,Army,Ind,Dale Hall,L,7,34
+1961-11-10,Detroit Mercy,Ind,Jim Miller,H,Villanova,Ind,Alex Bell,W,20,6
+1961-11-18,Detroit Mercy,Ind,Jim Miller,A,Arizona State,BIAA,Frank Kush,L,6,40
+1961-11-25,Detroit Mercy,Ind,Jim Miller,A,Cincinnati,MVC,Charles Studley,L,13,19
+1961-09-23,New Mexico,Skyline,Bill Weeks,H,New Mexico State,BIAA,Warren Woodson,W,41,7
+1961-09-30,New Mexico,Skyline,Bill Weeks,A,Montana,Skyline,Ray Jenkins,L,8,40
+1961-10-07,New Mexico,Skyline,Bill Weeks,H,UTEP,BIAA,Ben Collins,W,7,6
+1961-10-14,New Mexico,Skyline,Bill Weeks,A,Utah State,Skyline,John Ralston,L,7,41
+1961-10-21,New Mexico,Skyline,Bill Weeks,A,Arizona,Ind,Jim LaRue,L,21,22
+1961-10-28,New Mexico,Skyline,Bill Weeks,H,Air Force,Ind,Ben Martin,W,21,6
+1961-11-04,New Mexico,Skyline,Bill Weeks,H,Utah,Skyline,Ray Nagel,W,21,16
+1961-11-11,New Mexico,Skyline,Bill Weeks,H,Wyoming,Skyline,Bob Devaney,L,7,33
+1961-11-18,New Mexico,Skyline,Bill Weeks,A,Colorado State,Skyline,Tuffy Mullison,W,20,8
+1961-11-25,New Mexico,Skyline,Bill Weeks,H,Brigham Young,Skyline,Hal Mitchell,W,34,6
+1961-09-22,Pacific,Ind,John Rohde,A,San Jose State,Ind,Robert Titchenal,L,0,16
+1961-10-14,Pacific,Ind,John Rohde,A,New Mexico State,BIAA,Warren Woodson,L,19,70
+1961-11-04,Pacific,Ind,John Rohde,A,Idaho,Ind,Skip Stahley,W,27,2
+1961-11-11,Pacific,Ind,John Rohde,H,San Jose State,Ind,Robert Titchenal,L,26,29
+1961-09-30,Notre Dame,Ind,Joe Kuharich,H,Oklahoma,Big 8,Bud Wilkinson,W,19,6
+1961-10-07,Notre Dame,Ind,Joe Kuharich,A,Purdue,Big Ten,Jack Mollenkopf,W,22,20
+1961-10-14,Notre Dame,Ind,Joe Kuharich,H,USC,AAWU,John McKay,W,30,0
+1961-10-21,Notre Dame,Ind,Joe Kuharich,A,Michigan State,Big Ten,Duffy Daugherty,L,7,17
+1961-10-28,Notre Dame,Ind,Joe Kuharich,H,Northwestern,Big Ten,Ara Parseghian,L,10,12
+1961-11-04,Notre Dame,Ind,Joe Kuharich,H,Navy,Ind,Wayne Hardin,L,10,13
+1961-11-11,Notre Dame,Ind,Joe Kuharich,A,Pitt,Ind,John Michelosen,W,26,20
+1961-11-18,Notre Dame,Ind,Joe Kuharich,H,Syracuse,Ind,Ben Schwartzwalder,W,17,15
+1961-11-25,Notre Dame,Ind,Joe Kuharich,A,Iowa,Big Ten,Jerry Burns,L,21,42
+1961-12-02,Notre Dame,Ind,Joe Kuharich,A,Duke,ACC,Bill Murray,L,13,37
+1961-09-16,Pitt,Ind,John Michelosen,A,Miami (FL),Ind,Andy Gustafson,W,10,7
+1961-09-30,Pitt,Ind,John Michelosen,H,Baylor,SWC,John Bridgers,L,13,16
+1961-10-07,Pitt,Ind,John Michelosen,A,Washington,AAWU,Jim Owens,L,17,22
+1961-10-14,Pitt,Ind,John Michelosen,H,West Virginia,Southern,Gene Corum,L,6,20
+1961-10-21,Pitt,Ind,John Michelosen,A,UCLA,AAWU,Bill Barnes,L,6,20
+1961-10-28,Pitt,Ind,John Michelosen,H,Navy,Ind,Wayne Hardin,W,28,14
+1961-11-04,Pitt,Ind,John Michelosen,A,Syracuse,Ind,Ben Schwartzwalder,L,9,28
+1961-11-11,Pitt,Ind,John Michelosen,H,Notre Dame,Ind,Joe Kuharich,L,20,26
+1961-11-18,Pitt,Ind,John Michelosen,H,USC,AAWU,John McKay,W,10,9
+1961-11-25,Pitt,Ind,John Michelosen,H,Penn State,Ind,Rip Engle,L,26,47
+1961-09-23,West Texas A&M,BIAA,Joe Kerbel,H,Brigham Young,Skyline,Hal Mitchell,W,55,8
+1961-09-30,West Texas A&M,BIAA,Joe Kerbel,A,UTEP,BIAA,Ben Collins,W,56,27
+1961-10-07,West Texas A&M,BIAA,Joe Kerbel,H,Wichita State,MVC,Hank Foldberg,L,34,41
+1961-10-14,West Texas A&M,BIAA,Joe Kerbel,H,Arizona State,BIAA,Frank Kush,L,11,28
+1961-10-21,West Texas A&M,BIAA,Joe Kerbel,H,Hardin-Simmons,BIAA,Howard McChesney,W,42,0
+1961-10-28,West Texas A&M,BIAA,Joe Kerbel,H,Arizona,Ind,Jim LaRue,W,27,23
+1961-11-18,West Texas A&M,BIAA,Joe Kerbel,A,New Mexico State,BIAA,Warren Woodson,W,35,22
+1961-12-02,West Texas A&M,BIAA,Joe Kerbel,A,Texas Tech,SWC,J.T. King,L,14,16
+1961-09-16,George Washington,Southern,Jim Camp,A,Florida State,Ind,Bill Peterson,L,7,15
+1961-09-23,George Washington,Southern,Jim Camp,A,Citadel,Southern,Eddie Teague,W,17,13
+1961-09-30,George Washington,Southern,Jim Camp,A,Furman,Southern,Robert King,L,9,13
+1961-10-07,George Washington,Southern,Jim Camp,H,Virginia Military Institute,Southern,John McKenna,W,30,6
+1961-10-14,George Washington,Southern,Jim Camp,A,Richmond,Southern,Edwin Merrick,L,15,16
+1961-10-20,George Washington,Southern,Jim Camp,H,William & Mary,Southern,Milt Drewer,W,49,12
+1961-10-27,George Washington,Southern,Jim Camp,H,Boston University,Ind,Steve Sinko,L,6,20
+1961-11-04,George Washington,Southern,Jim Camp,H,West Virginia,Southern,Gene Corum,L,7,12
+1961-11-17,George Washington,Southern,Jim Camp,A,Virginia Tech,Southern,Jerry Claiborne,L,3,14
+1961-09-23,North Texas,MVC,Odus Mitchell,A,Hardin-Simmons,BIAA,Howard McChesney,W,9,7
+1961-09-30,North Texas,MVC,Odus Mitchell,H,Brigham Young,Skyline,Hal Mitchell,W,41,30
+1961-10-07,North Texas,MVC,Odus Mitchell,H,New Mexico State,BIAA,Warren Woodson,T,14,14
+1961-10-14,North Texas,MVC,Odus Mitchell,H,Wichita State,MVC,Hank Foldberg,L,14,26
+1961-10-21,North Texas,MVC,Odus Mitchell,H,Tulsa,MVC,Glenn Dobbs,W,23,12
+1961-10-28,North Texas,MVC,Odus Mitchell,A,Cincinnati,MVC,Charles Studley,L,9,21
+1961-11-11,North Texas,MVC,Odus Mitchell,A,Memphis,Ind,Billy Murphy,L,0,41
+1961-11-25,North Texas,MVC,Odus Mitchell,A,UTEP,BIAA,Ben Collins,W,24,14
+1961-09-16,Wyoming,Skyline,Bob Devaney,A,Montana,Skyline,Ray Jenkins,W,29,0
+1961-09-23,Wyoming,Skyline,Bob Devaney,H,North Carolina State,ACC,Earle Edwards,W,15,14
+1961-09-30,Wyoming,Skyline,Bob Devaney,A,Kansas,Big 8,Jack Mitchell,T,6,6
+1961-10-07,Wyoming,Skyline,Bob Devaney,H,Utah State,Skyline,John Ralston,T,6,6
+1961-10-14,Wyoming,Skyline,Bob Devaney,H,Colorado State,Skyline,Tuffy Mullison,W,18,7
+1961-10-21,Wyoming,Skyline,Bob Devaney,H,Brigham Young,Skyline,Hal Mitchell,W,36,8
+1961-10-28,Wyoming,Skyline,Bob Devaney,A,Utah,Skyline,Ray Nagel,W,13,6
+1961-11-04,Wyoming,Skyline,Bob Devaney,A,Arizona,Ind,Jim LaRue,L,15,20
+1961-11-11,Wyoming,Skyline,Bob Devaney,A,New Mexico,Skyline,Bill Weeks,W,33,7
+1961-09-16,Brigham Young,Skyline,Hal Mitchell,H,San Jose State,Ind,Robert Titchenal,L,13,14
+1961-09-23,Brigham Young,Skyline,Hal Mitchell,A,West Texas A&M,BIAA,Joe Kerbel,L,8,55
+1961-09-30,Brigham Young,Skyline,Hal Mitchell,A,North Texas,MVC,Odus Mitchell,L,30,41
+1961-10-07,Brigham Young,Skyline,Hal Mitchell,H,Montana,Skyline,Ray Jenkins,W,7,6
+1961-10-14,Brigham Young,Skyline,Hal Mitchell,A,Utah,Skyline,Ray Nagel,L,20,21
+1961-10-21,Brigham Young,Skyline,Hal Mitchell,A,Wyoming,Skyline,Bob Devaney,L,8,36
+1961-11-04,Brigham Young,Skyline,Hal Mitchell,H,Utah State,Skyline,John Ralston,L,8,31
+1961-11-11,Brigham Young,Skyline,Hal Mitchell,H,Colorado State,Skyline,Tuffy Mullison,W,30,16
+1961-11-18,Brigham Young,Skyline,Hal Mitchell,A,Oregon State,Ind,Tommy Prothro,L,0,35
+1961-11-25,Brigham Young,Skyline,Hal Mitchell,A,New Mexico,Skyline,Bill Weeks,L,6,34
+1961-10-07,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,John McLaughry,W,14,3
+1961-10-14,Yale,Ivy,Jordan Olivar,H,Columbia,Ivy,Aldo Donelli,L,0,11
+1961-10-21,Yale,Ivy,Jordan Olivar,A,Cornell,Ivy,Tom Harp,W,12,0
+1961-10-28,Yale,Ivy,Jordan Olivar,H,Colgate,Ind,Alva Kelley,L,8,14
+1961-11-04,Yale,Ivy,Jordan Olivar,H,Dartmouth,Ivy,Bob Blackman,L,8,24
+1961-11-11,Yale,Ivy,Jordan Olivar,A,Pennsylvania,Ivy,John Stiegman,W,23,0
+1961-11-18,Yale,Ivy,Jordan Olivar,A,Princeton,Ivy,Richard Colman,L,16,26
+1961-11-25,Yale,Ivy,Jordan Olivar,H,Harvard,Ivy,John Yovicsin,L,0,27
+1961-09-22,Georgia Tech,SEC,Bobby Dodd,A,USC,AAWU,John McKay,W,27,7
+1961-09-30,Georgia Tech,SEC,Bobby Dodd,H,Rice,SWC,Jess Neely,W,24,0
+1961-10-07,Georgia Tech,SEC,Bobby Dodd,A,LSU,SEC,Paul Dietzel,L,0,10
+1961-10-14,Georgia Tech,SEC,Bobby Dodd,H,Duke,ACC,Bill Murray,W,21,0
+1961-10-21,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Ralph Jordan,W,7,6
+1961-10-28,Georgia Tech,SEC,Bobby Dodd,A,Tulane,SEC,Andy Pilney,W,35,0
+1961-11-04,Georgia Tech,SEC,Bobby Dodd,H,Florida,SEC,Ray Graves,W,20,0
+1961-11-11,Georgia Tech,SEC,Bobby Dodd,A,Tennessee,SEC,Bowden Wyatt,L,6,10
+1961-11-18,Georgia Tech,SEC,Bobby Dodd,A,Alabama,SEC,Bear Bryant,L,0,10
+1961-12-02,Georgia Tech,SEC,Bobby Dodd,H,Georgia,SEC,Johnny Griffith,W,22,7
+1961-12-30,Georgia Tech,SEC,Bobby Dodd,N,Penn State,Ind,Rip Engle,L,15,30
+1961-09-23,Wake Forest,ACC,Billy Hildebrand,A,Baylor,SWC,John Bridgers,L,0,31
+1961-09-30,Wake Forest,ACC,Billy Hildebrand,H,South Carolina,ACC,Marvin Bass,L,7,10
+1961-10-07,Wake Forest,ACC,Billy Hildebrand,A,Duke,ACC,Bill Murray,L,3,23
+1961-10-14,Wake Forest,ACC,Billy Hildebrand,A,Clemson,ACC,Frank Howard,W,17,13
+1961-10-21,Wake Forest,ACC,Billy Hildebrand,A,North Carolina State,ACC,Earle Edwards,L,0,7
+1961-10-28,Wake Forest,ACC,Billy Hildebrand,H,Virginia,ACC,William Elias,W,21,15
+1961-11-04,Wake Forest,ACC,Billy Hildebrand,A,Auburn,SEC,Ralph Jordan,L,7,21
+1961-11-11,Wake Forest,ACC,Billy Hildebrand,H,Virginia Tech,Southern,Jerry Claiborne,W,24,15
+1961-11-18,Wake Forest,ACC,Billy Hildebrand,A,Maryland,ACC,Thomas Nugent,L,7,10
+1961-11-25,Wake Forest,ACC,Billy Hildebrand,H,North Carolina,ACC,James Hickey,W,17,14
+1961-09-29,Xavier,Ind,Edward Doherty,A,Detroit Mercy,Ind,Jim Miller,L,8,34
+1961-10-07,Xavier,Ind,Edward Doherty,A,Cincinnati,MVC,Charles Studley,W,17,12
+1961-10-21,Xavier,Ind,Edward Doherty,A,Dayton,Ind,Stan Zajdel,W,14,0
+1961-10-28,Xavier,Ind,Edward Doherty,H,Citadel,Southern,Eddie Teague,L,6,7
+1961-11-18,Xavier,Ind,Edward Doherty,A,Kentucky,SEC,Blanton Collier,L,0,9
+1961-09-23,Mississippi State,SEC,Wade Walker,H,Texas Tech,SWC,J.T. King,W,6,0
+1961-09-30,Mississippi State,SEC,Wade Walker,A,Houston,Ind,Hal Lahar,W,10,7
+1961-10-07,Mississippi State,SEC,Wade Walker,A,Tennessee,SEC,Bowden Wyatt,L,3,17
+1961-10-21,Mississippi State,SEC,Wade Walker,A,Georgia,SEC,Johnny Griffith,L,7,10
+1961-10-28,Mississippi State,SEC,Wade Walker,A,Memphis,Ind,Billy Murphy,W,23,16
+1961-11-04,Mississippi State,SEC,Wade Walker,A,Alabama,SEC,Bear Bryant,L,0,24
+1961-11-11,Mississippi State,SEC,Wade Walker,A,Auburn,SEC,Ralph Jordan,W,11,10
+1961-11-18,Mississippi State,SEC,Wade Walker,A,LSU,SEC,Paul Dietzel,L,6,14
+1961-12-02,Mississippi State,SEC,Wade Walker,H,Ole Miss,SEC,John Vaught,L,7,37
+1961-09-23,Virginia Military Institute,Southern,John McKenna,A,Villanova,Ind,Alex Bell,L,0,22
+1961-09-29,Virginia Military Institute,Southern,John McKenna,A,Richmond,Southern,Edwin Merrick,W,8,6
+1961-10-07,Virginia Military Institute,Southern,John McKenna,A,George Washington,Southern,Jim Camp,L,6,30
+1961-10-14,Virginia Military Institute,Southern,John McKenna,N,Virginia,ACC,William Elias,L,7,14
+1961-10-21,Virginia Military Institute,Southern,John McKenna,A,Davidson,Southern,,W,13,0
+1961-10-28,Virginia Military Institute,Southern,John McKenna,A,William & Mary,Southern,Milt Drewer,W,14,7
+1961-11-04,Virginia Military Institute,Southern,John McKenna,H,Citadel,Southern,Eddie Teague,L,8,14
+1961-11-23,Virginia Military Institute,Southern,John McKenna,N,Virginia Tech,Southern,Jerry Claiborne,W,6,0
+1961-09-16,Memphis,Ind,Billy Murphy,H,Citadel,Southern,Eddie Teague,W,40,0
+1961-09-23,Memphis,Ind,Billy Murphy,A,Tulsa,MVC,Glenn Dobbs,W,48,12
+1961-09-30,Memphis,Ind,Billy Murphy,H,Hardin-Simmons,BIAA,Howard McChesney,W,56,0
+1961-10-28,Memphis,Ind,Billy Murphy,H,Mississippi State,SEC,Wade Walker,L,16,23
+1961-11-04,Memphis,Ind,Billy Murphy,H,Furman,Southern,Robert King,L,6,7
+1961-11-11,Memphis,Ind,Billy Murphy,H,North Texas,MVC,Odus Mitchell,W,41,0
+1961-09-23,Kansas State,Big 8,Doug Weaver,H,Indiana,Big Ten,Phil Dickens,W,14,8
+1961-09-30,Kansas State,Big 8,Doug Weaver,A,Air Force,Ind,Ben Martin,W,14,12
+1961-10-07,Kansas State,Big 8,Doug Weaver,H,Nebraska,Big 8,William Jennings,L,0,24
+1961-10-14,Kansas State,Big 8,Doug Weaver,A,Kentucky,SEC,Blanton Collier,L,8,21
+1961-10-21,Kansas State,Big 8,Doug Weaver,H,Colorado,Big 8,Everett Grandelius,L,0,13
+1961-10-28,Kansas State,Big 8,Doug Weaver,A,Iowa State,Big 8,Clay Stapleton,L,7,31
+1961-11-04,Kansas State,Big 8,Doug Weaver,H,Oklahoma,Big 8,Bud Wilkinson,L,6,17
+1961-11-11,Kansas State,Big 8,Doug Weaver,A,Kansas,Big 8,Jack Mitchell,L,0,34
+1961-11-18,Kansas State,Big 8,Doug Weaver,A,Missouri,Big 8,Dan Devine,L,9,27
+1961-11-25,Kansas State,Big 8,Doug Weaver,A,Oklahoma State,Big 8,Cliff Speegle,L,0,45
+1961-09-23,Army,Ind,Dale Hall,H,Richmond,Southern,Edwin Merrick,W,24,6
+1961-09-30,Army,Ind,Dale Hall,H,Boston University,Ind,Steve Sinko,W,31,7
+1961-10-07,Army,Ind,Dale Hall,A,Michigan,Big Ten,Bump Elliott,L,8,38
+1961-10-14,Army,Ind,Dale Hall,A,Penn State,Ind,Rip Engle,W,10,6
+1961-10-21,Army,Ind,Dale Hall,H,Idaho,Ind,Skip Stahley,W,51,7
+1961-10-28,Army,Ind,Dale Hall,H,West Virginia,Southern,Gene Corum,L,3,7
+1961-11-04,Army,Ind,Dale Hall,H,Detroit Mercy,Ind,Jim Miller,W,34,7
+1961-11-11,Army,Ind,Dale Hall,H,William & Mary,Southern,Milt Drewer,W,48,13
+1961-11-18,Army,Ind,Dale Hall,H,Oklahoma,Big 8,Bud Wilkinson,L,8,14
+1961-12-02,Army,Ind,Dale Hall,N,Navy,Ind,Wayne Hardin,L,7,13
+1961-10-07,Dartmouth,Ivy,Bob Blackman,A,Pennsylvania,Ivy,John Stiegman,W,30,0
+1961-10-14,Dartmouth,Ivy,Bob Blackman,H,Brown,Ivy,John McLaughry,W,34,0
+1961-10-21,Dartmouth,Ivy,Bob Blackman,A,Holy Cross,Ind,Edward Anderson,L,13,17
+1961-10-28,Dartmouth,Ivy,Bob Blackman,A,Harvard,Ivy,John Yovicsin,L,15,21
+1961-11-04,Dartmouth,Ivy,Bob Blackman,A,Yale,Ivy,Jordan Olivar,W,24,8
+1961-11-11,Dartmouth,Ivy,Bob Blackman,A,Columbia,Ivy,Aldo Donelli,L,14,35
+1961-11-18,Dartmouth,Ivy,Bob Blackman,H,Cornell,Ivy,Tom Harp,W,15,14
+1961-11-25,Dartmouth,Ivy,Bob Blackman,A,Princeton,Ivy,Richard Colman,W,24,6
+1961-09-23,UCLA,AAWU,Bill Barnes,A,Air Force,Ind,Ben Martin,W,19,6
+1961-09-30,UCLA,AAWU,Bill Barnes,A,Michigan,Big Ten,Bump Elliott,L,6,29
+1961-10-07,UCLA,AAWU,Bill Barnes,A,Ohio State,Big Ten,Woody Hayes,L,3,13
+1961-10-14,UCLA,AAWU,Bill Barnes,H,Vanderbilt,SEC,Arthur Guepe,W,28,21
+1961-10-21,UCLA,AAWU,Bill Barnes,H,Pitt,Ind,John Michelosen,W,20,6
+1961-10-28,UCLA,AAWU,Bill Barnes,A,Stanford,AAWU,Jack Curtice,W,20,0
+1961-11-04,UCLA,AAWU,Bill Barnes,H,California,AAWU,Marv Levy,W,35,15
+1961-11-10,UCLA,AAWU,Bill Barnes,H,Texas Christian,SWC,Abe Martin,W,28,7
+1961-11-18,UCLA,AAWU,Bill Barnes,H,Washington,AAWU,Jim Owens,L,13,17
+1961-11-25,UCLA,AAWU,Bill Barnes,A,USC,AAWU,John McKay,W,10,7
+1962-01-01,UCLA,AAWU,Bill Barnes,H,Minnesota,Big Ten,Murray Warmath,L,3,21
+1961-09-30,Auburn,SEC,Ralph Jordan,A,Tennessee,SEC,Bowden Wyatt,W,24,21
+1961-10-07,Auburn,SEC,Ralph Jordan,H,Kentucky,SEC,Blanton Collier,L,12,14
+1961-10-21,Auburn,SEC,Ralph Jordan,A,Georgia Tech,SEC,Bobby Dodd,L,6,7
+1961-10-28,Auburn,SEC,Ralph Jordan,H,Clemson,ACC,Frank Howard,W,24,14
+1961-11-04,Auburn,SEC,Ralph Jordan,H,Wake Forest,ACC,Billy Hildebrand,W,21,7
+1961-11-11,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Wade Walker,L,10,11
+1961-11-18,Auburn,SEC,Ralph Jordan,A,Georgia,SEC,Johnny Griffith,W,10,7
+1961-11-25,Auburn,SEC,Ralph Jordan,H,Florida,SEC,Ray Graves,W,32,15
+1961-12-02,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Bear Bryant,L,0,34
+1961-09-30,Northwestern,Big Ten,Ara Parseghian,H,Boston College,Ind,Ernest Hefferle,W,45,0
+1961-10-07,Northwestern,Big Ten,Ara Parseghian,A,Illinois,Big Ten,Pete Elliott,W,28,7
+1961-10-14,Northwestern,Big Ten,Ara Parseghian,H,Minnesota,Big Ten,Murray Warmath,L,3,10
+1961-10-21,Northwestern,Big Ten,Ara Parseghian,H,Ohio State,Big Ten,Woody Hayes,L,0,10
+1961-10-28,Northwestern,Big Ten,Ara Parseghian,A,Notre Dame,Ind,Joe Kuharich,W,12,10
+1961-11-04,Northwestern,Big Ten,Ara Parseghian,H,Indiana,Big Ten,Phil Dickens,W,14,8
+1961-11-11,Northwestern,Big Ten,Ara Parseghian,H,Wisconsin,Big Ten,Milt Bruhn,L,10,29
+1961-11-18,Northwestern,Big Ten,Ara Parseghian,A,Michigan State,Big Ten,Duffy Daugherty,L,13,21
+1961-11-24,Northwestern,Big Ten,Ara Parseghian,A,Miami (FL),Ind,Andy Gustafson,L,6,10
+1961-09-23,Kansas,Big 8,Jack Mitchell,A,Texas Christian,SWC,Abe Martin,L,16,17
+1961-09-30,Kansas,Big 8,Jack Mitchell,H,Wyoming,Skyline,Bob Devaney,T,6,6
+1961-10-07,Kansas,Big 8,Jack Mitchell,A,Colorado,Big 8,Everett Grandelius,L,19,20
+1961-10-14,Kansas,Big 8,Jack Mitchell,H,Iowa State,Big 8,Clay Stapleton,W,21,7
+1961-10-21,Kansas,Big 8,Jack Mitchell,A,Oklahoma,Big 8,Bud Wilkinson,W,10,0
+1961-10-28,Kansas,Big 8,Jack Mitchell,H,Oklahoma State,Big 8,Cliff Speegle,W,42,8
+1961-11-04,Kansas,Big 8,Jack Mitchell,A,Nebraska,Big 8,William Jennings,W,28,6
+1961-11-11,Kansas,Big 8,Jack Mitchell,H,Kansas State,Big 8,Doug Weaver,W,34,0
+1961-11-18,Kansas,Big 8,Jack Mitchell,A,California,AAWU,Marv Levy,W,53,7
+1961-11-25,Kansas,Big 8,Jack Mitchell,H,Missouri,Big 8,Dan Devine,L,7,10
+1961-12-16,Kansas,Big 8,Jack Mitchell,A,Rice,SWC,Jess Neely,W,33,7
+1961-09-16,William & Mary,Southern,Milt Drewer,N,Virginia Tech,Southern,Jerry Claiborne,L,6,20
+1961-09-23,William & Mary,Southern,Milt Drewer,A,Virginia,ACC,William Elias,L,6,21
+1961-09-30,William & Mary,Southern,Milt Drewer,A,Navy,Ind,Wayne Hardin,L,6,44
+1961-10-07,William & Mary,Southern,Milt Drewer,H,Furman,Southern,Robert King,W,19,6
+1961-10-14,William & Mary,Southern,Milt Drewer,H,Citadel,Southern,Eddie Teague,L,8,10
+1961-10-20,William & Mary,Southern,Milt Drewer,A,George Washington,Southern,Jim Camp,L,12,49
+1961-10-28,William & Mary,Southern,Milt Drewer,H,Virginia Military Institute,Southern,John McKenna,L,7,14
+1961-11-04,William & Mary,Southern,Milt Drewer,H,Davidson,Southern,,L,30,31
+1961-11-11,William & Mary,Southern,Milt Drewer,A,Army,Ind,Dale Hall,L,13,48
+1961-11-23,William & Mary,Southern,Milt Drewer,A,Richmond,Southern,Edwin Merrick,L,18,36
+1961-09-16,UTEP,BIAA,Ben Collins,A,Utah State,Skyline,John Ralston,L,6,21
+1961-09-30,UTEP,BIAA,Ben Collins,H,West Texas A&M,BIAA,Joe Kerbel,L,27,56
+1961-10-07,UTEP,BIAA,Ben Collins,A,New Mexico,Skyline,Bill Weeks,L,6,7
+1961-10-28,UTEP,BIAA,Ben Collins,H,New Mexico State,BIAA,Warren Woodson,L,6,42
+1961-11-04,UTEP,BIAA,Ben Collins,A,Hardin-Simmons,BIAA,Howard McChesney,W,35,7
+1961-11-11,UTEP,BIAA,Ben Collins,H,Arizona State,BIAA,Frank Kush,L,28,48
+1961-11-18,UTEP,BIAA,Ben Collins,A,Arizona,Ind,Jim LaRue,L,15,48
+1961-11-25,UTEP,BIAA,Ben Collins,H,North Texas,MVC,Odus Mitchell,L,14,24
+1961-09-23,LSU,SEC,Paul Dietzel,A,Rice,SWC,Jess Neely,L,3,16
+1961-09-30,LSU,SEC,Paul Dietzel,H,Texas A&M,SWC,Jim Myers,W,16,7
+1961-10-07,LSU,SEC,Paul Dietzel,H,Georgia Tech,SEC,Bobby Dodd,W,10,0
+1961-10-14,LSU,SEC,Paul Dietzel,A,South Carolina,ACC,Marvin Bass,W,42,0
+1961-10-21,LSU,SEC,Paul Dietzel,H,Kentucky,SEC,Blanton Collier,W,24,14
+1961-10-28,LSU,SEC,Paul Dietzel,A,Florida,SEC,Ray Graves,W,23,0
+1961-11-04,LSU,SEC,Paul Dietzel,H,Ole Miss,SEC,John Vaught,W,10,7
+1961-11-11,LSU,SEC,Paul Dietzel,A,North Carolina,ACC,James Hickey,W,30,0
+1961-11-18,LSU,SEC,Paul Dietzel,H,Mississippi State,SEC,Wade Walker,W,14,6
+1961-11-25,LSU,SEC,Paul Dietzel,H,Tulane,SEC,Andy Pilney,W,62,0
+1962-01-01,LSU,SEC,Paul Dietzel,N,Colorado,Big 8,Everett Grandelius,W,25,7
+1961-10-07,Pennsylvania,Ivy,John Stiegman,H,Dartmouth,Ivy,Bob Blackman,L,0,30
+1961-10-14,Pennsylvania,Ivy,John Stiegman,A,Princeton,Ivy,Richard Colman,L,3,9
+1961-10-21,Pennsylvania,Ivy,John Stiegman,H,Brown,Ivy,John McLaughry,W,7,0
+1961-10-28,Pennsylvania,Ivy,John Stiegman,H,Rutgers,Ind,John Bateman,L,6,20
+1961-11-04,Pennsylvania,Ivy,John Stiegman,H,Harvard,Ivy,John Yovicsin,L,6,37
+1961-11-11,Pennsylvania,Ivy,John Stiegman,H,Yale,Ivy,Jordan Olivar,L,0,23
+1961-11-18,Pennsylvania,Ivy,John Stiegman,A,Columbia,Ivy,Aldo Donelli,L,6,37
+1961-11-25,Pennsylvania,Ivy,John Stiegman,H,Cornell,Ivy,Tom Harp,L,0,31
+1961-09-16,Tulsa,MVC,Glenn Dobbs,H,Hardin-Simmons,BIAA,Howard McChesney,W,27,0
+1961-09-23,Tulsa,MVC,Glenn Dobbs,H,Memphis,Ind,Billy Murphy,L,12,48
+1961-09-30,Tulsa,MVC,Glenn Dobbs,A,Arkansas,SWC,Frank Broyles,L,0,6
+1961-10-07,Tulsa,MVC,Glenn Dobbs,A,Oklahoma State,Big 8,Cliff Speegle,L,0,26
+1961-10-14,Tulsa,MVC,Glenn Dobbs,A,Tennessee,SEC,Bowden Wyatt,L,6,52
+1961-10-21,Tulsa,MVC,Glenn Dobbs,A,North Texas,MVC,Odus Mitchell,L,12,23
+1961-10-28,Tulsa,MVC,Glenn Dobbs,A,Wichita State,MVC,Hank Foldberg,L,7,9
+1961-11-04,Tulsa,MVC,Glenn Dobbs,H,Cincinnati,MVC,Charles Studley,W,19,0
+1961-11-11,Tulsa,MVC,Glenn Dobbs,H,Houston,Ind,Hal Lahar,L,2,14
+1961-11-18,Tulsa,MVC,Glenn Dobbs,H,Iowa State,Big 8,Clay Stapleton,L,6,27
+1961-09-30,Iowa,Big Ten,Jerry Burns,H,California,AAWU,Marv Levy,W,28,7
+1961-10-07,Iowa,Big Ten,Jerry Burns,A,USC,AAWU,John McKay,W,35,34
+1961-10-14,Iowa,Big Ten,Jerry Burns,H,Indiana,Big Ten,Phil Dickens,W,27,8
+1961-10-21,Iowa,Big Ten,Jerry Burns,H,Wisconsin,Big Ten,Milt Bruhn,W,47,15
+1961-10-28,Iowa,Big Ten,Jerry Burns,A,Purdue,Big Ten,Jack Mollenkopf,L,0,9
+1961-11-04,Iowa,Big Ten,Jerry Burns,A,Ohio State,Big Ten,Woody Hayes,L,13,29
+1961-11-11,Iowa,Big Ten,Jerry Burns,H,Minnesota,Big Ten,Murray Warmath,L,9,16
+1961-11-18,Iowa,Big Ten,Jerry Burns,A,Michigan,Big Ten,Bump Elliott,L,14,23
+1961-11-25,Iowa,Big Ten,Jerry Burns,H,Notre Dame,Ind,Joe Kuharich,W,42,21
+1961-09-30,Columbia,Ivy,Aldo Donelli,A,Brown,Ivy,John McLaughry,W,50,0
+1961-10-07,Columbia,Ivy,Aldo Donelli,H,Princeton,Ivy,Richard Colman,L,20,30
+1961-10-14,Columbia,Ivy,Aldo Donelli,A,Yale,Ivy,Jordan Olivar,W,11,0
+1961-10-21,Columbia,Ivy,Aldo Donelli,A,Harvard,Ivy,John Yovicsin,W,26,14
+1961-11-04,Columbia,Ivy,Aldo Donelli,A,Cornell,Ivy,Tom Harp,W,35,7
+1961-11-11,Columbia,Ivy,Aldo Donelli,H,Dartmouth,Ivy,Bob Blackman,W,35,14
+1961-11-18,Columbia,Ivy,Aldo Donelli,H,Pennsylvania,Ivy,John Stiegman,W,37,6
+1961-11-25,Columbia,Ivy,Aldo Donelli,A,Rutgers,Ind,John Bateman,L,19,32
+1961-09-23,Texas,SWC,Darrell Royal,A,California,AAWU,Marv Levy,W,28,3
+1961-09-30,Texas,SWC,Darrell Royal,H,Texas Tech,SWC,J.T. King,W,42,14
+1961-10-07,Texas,SWC,Darrell Royal,H,Washington State,Ind,Jim Sutherland,W,41,8
+1961-10-14,Texas,SWC,Darrell Royal,N,Oklahoma,Big 8,Bud Wilkinson,W,28,7
+1961-10-21,Texas,SWC,Darrell Royal,A,Arkansas,SWC,Frank Broyles,W,33,7
+1961-10-28,Texas,SWC,Darrell Royal,H,Rice,SWC,Jess Neely,W,34,7
+1961-11-04,Texas,SWC,Darrell Royal,A,SMU,SWC,Bill Meek,W,27,0
+1961-11-11,Texas,SWC,Darrell Royal,H,Baylor,SWC,John Bridgers,W,33,7
+1961-11-18,Texas,SWC,Darrell Royal,H,Texas Christian,SWC,Abe Martin,L,0,6
+1961-11-23,Texas,SWC,Darrell Royal,A,Texas A&M,SWC,Jim Myers,W,25,0
+1962-01-01,Texas,SWC,Darrell Royal,N,Ole Miss,SEC,John Vaught,W,12,7
+1961-09-23,Texas Christian,SWC,Abe Martin,H,Kansas,Big 8,Jack Mitchell,W,17,16
+1961-09-30,Texas Christian,SWC,Abe Martin,A,Ohio State,Big Ten,Woody Hayes,T,7,7
+1961-10-07,Texas Christian,SWC,Abe Martin,A,Arkansas,SWC,Frank Broyles,L,3,28
+1961-10-14,Texas Christian,SWC,Abe Martin,A,Texas Tech,SWC,J.T. King,L,0,10
+1961-10-21,Texas Christian,SWC,Abe Martin,H,Texas A&M,SWC,Jim Myers,W,15,14
+1961-11-04,Texas Christian,SWC,Abe Martin,A,Baylor,SWC,John Bridgers,L,14,28
+1961-11-10,Texas Christian,SWC,Abe Martin,A,UCLA,AAWU,Bill Barnes,L,7,28
+1961-11-18,Texas Christian,SWC,Abe Martin,A,Texas,SWC,Darrell Royal,W,6,0
+1961-11-25,Texas Christian,SWC,Abe Martin,H,Rice,SWC,Jess Neely,L,16,35
+1961-12-02,Texas Christian,SWC,Abe Martin,H,SMU,SWC,Bill Meek,T,28,28
+1961-09-23,Air Force,Ind,Ben Martin,H,UCLA,AAWU,Bill Barnes,L,6,19
+1961-09-30,Air Force,Ind,Ben Martin,H,Kansas State,Big 8,Doug Weaver,L,12,14
+1961-10-07,Air Force,Ind,Ben Martin,A,SMU,SWC,Bill Meek,L,7,9
+1961-10-14,Air Force,Ind,Ben Martin,A,Cincinnati,MVC,Charles Studley,W,8,6
+1961-10-21,Air Force,Ind,Ben Martin,H,Maryland,ACC,Thomas Nugent,L,0,21
+1961-10-28,Air Force,Ind,Ben Martin,A,New Mexico,Skyline,Bill Weeks,L,6,21
+1961-11-04,Air Force,Ind,Ben Martin,H,Colorado State,Skyline,Tuffy Mullison,W,14,9
+1961-11-11,Air Force,Ind,Ben Martin,A,California,AAWU,Marv Levy,W,15,14
+1961-11-18,Air Force,Ind,Ben Martin,A,Baylor,SWC,John Bridgers,L,7,31
+1961-12-02,Air Force,Ind,Ben Martin,A,Colorado,Big 8,Everett Grandelius,L,12,29
+1961-09-16,Miami (FL),Ind,Andy Gustafson,H,Pitt,Ind,John Michelosen,L,7,10
+1961-09-23,Miami (FL),Ind,Andy Gustafson,A,Kentucky,SEC,Blanton Collier,W,14,7
+1961-09-29,Miami (FL),Ind,Andy Gustafson,H,Penn State,Ind,Rip Engle,W,25,8
+1961-10-06,Miami (FL),Ind,Andy Gustafson,H,Navy,Ind,Wayne Hardin,L,6,17
+1961-10-13,Miami (FL),Ind,Andy Gustafson,H,Colorado,Big 8,Everett Grandelius,L,7,9
+1961-10-27,Miami (FL),Ind,Andy Gustafson,H,North Carolina,ACC,James Hickey,W,10,0
+1961-11-03,Miami (FL),Ind,Andy Gustafson,H,Georgia,SEC,Johnny Griffith,W,32,7
+1961-11-11,Miami (FL),Ind,Andy Gustafson,A,Tulane,SEC,Andy Pilney,W,6,0
+1961-11-24,Miami (FL),Ind,Andy Gustafson,H,Northwestern,Big Ten,Ara Parseghian,W,10,6
+1961-12-02,Miami (FL),Ind,Andy Gustafson,A,Florida,SEC,Ray Graves,W,15,6
+1961-12-16,Miami (FL),Ind,Andy Gustafson,N,Syracuse,Ind,Ben Schwartzwalder,L,14,15
+1961-09-16,Richmond,Southern,Edwin Merrick,A,West Virginia,Southern,Gene Corum,W,35,26
+1961-09-23,Richmond,Southern,Edwin Merrick,A,Army,Ind,Dale Hall,L,6,24
+1961-09-29,Richmond,Southern,Edwin Merrick,H,Virginia Military Institute,Southern,John McKenna,L,6,8
+1961-10-07,Richmond,Southern,Edwin Merrick,A,Citadel,Southern,Eddie Teague,L,6,24
+1961-10-14,Richmond,Southern,Edwin Merrick,H,George Washington,Southern,Jim Camp,W,16,15
+1961-10-21,Richmond,Southern,Edwin Merrick,A,Florida State,Ind,Bill Peterson,L,7,13
+1961-10-28,Richmond,Southern,Edwin Merrick,H,Davidson,Southern,,W,20,0
+1961-11-04,Richmond,Southern,Edwin Merrick,H,Virginia Tech,Southern,Jerry Claiborne,W,11,0
+1961-11-11,Richmond,Southern,Edwin Merrick,A,Alabama,SEC,Bear Bryant,L,0,66
+1961-11-23,Richmond,Southern,Edwin Merrick,H,William & Mary,Southern,Milt Drewer,W,36,18
+1961-09-23,Oregon,Ind,Len Casanova,H,Idaho,Ind,Skip Stahley,W,51,0
+1961-09-30,Oregon,Ind,Len Casanova,A,Utah,Skyline,Ray Nagel,L,6,14
+1961-10-07,Oregon,Ind,Len Casanova,A,Minnesota,Big Ten,Murray Warmath,L,7,14
+1961-10-14,Oregon,Ind,Len Casanova,H,Arizona,Ind,Jim LaRue,L,6,15
+1961-10-21,Oregon,Ind,Len Casanova,H,San Jose State,Ind,Robert Titchenal,W,21,6
+1961-10-28,Oregon,Ind,Len Casanova,H,Washington,AAWU,Jim Owens,W,7,6
+1961-11-04,Oregon,Ind,Len Casanova,A,Stanford,AAWU,Jack Curtice,W,19,7
+1961-11-11,Oregon,Ind,Len Casanova,A,Washington State,Ind,Jim Sutherland,L,21,22
+1961-11-18,Oregon,Ind,Len Casanova,A,Ohio State,Big Ten,Woody Hayes,L,12,22
+1961-11-25,Oregon,Ind,Len Casanova,H,Oregon State,Ind,Tommy Prothro,L,2,6
+1961-09-30,Brown,Ivy,John McLaughry,H,Columbia,Ivy,Aldo Donelli,L,0,50
+1961-10-07,Brown,Ivy,John McLaughry,A,Yale,Ivy,Jordan Olivar,L,3,14
+1961-10-14,Brown,Ivy,John McLaughry,A,Dartmouth,Ivy,Bob Blackman,L,0,34
+1961-10-21,Brown,Ivy,John McLaughry,A,Pennsylvania,Ivy,John Stiegman,L,0,7
+1961-11-04,Brown,Ivy,John McLaughry,H,Princeton,Ivy,Richard Colman,L,0,52
+1961-11-11,Brown,Ivy,John McLaughry,A,Cornell,Ivy,Tom Harp,L,0,25
+1961-11-18,Brown,Ivy,John McLaughry,A,Harvard,Ivy,John Yovicsin,L,6,21
+1961-11-23,Brown,Ivy,John McLaughry,H,Colgate,Ind,Alva Kelley,L,6,30
+1961-09-30,Tennessee,SEC,Bowden Wyatt,H,Auburn,SEC,Ralph Jordan,L,21,24
+1961-10-07,Tennessee,SEC,Bowden Wyatt,H,Mississippi State,SEC,Wade Walker,W,17,3
+1961-10-14,Tennessee,SEC,Bowden Wyatt,H,Tulsa,MVC,Glenn Dobbs,W,52,6
+1961-10-21,Tennessee,SEC,Bowden Wyatt,A,Alabama,SEC,Bear Bryant,L,3,34
+1961-11-04,Tennessee,SEC,Bowden Wyatt,A,North Carolina,ACC,James Hickey,L,21,22
+1961-11-11,Tennessee,SEC,Bowden Wyatt,H,Georgia Tech,SEC,Bobby Dodd,W,10,6
+1961-11-18,Tennessee,SEC,Bowden Wyatt,N,Ole Miss,SEC,John Vaught,L,10,24
+1961-11-25,Tennessee,SEC,Bowden Wyatt,A,Kentucky,SEC,Blanton Collier,W,26,16
+1961-12-02,Tennessee,SEC,Bowden Wyatt,H,Vanderbilt,SEC,Arthur Guepe,W,41,7
+1961-09-23,Oregon State,Ind,Tommy Prothro,H,Syracuse,Ind,Ben Schwartzwalder,L,8,19
+1961-09-30,Oregon State,Ind,Tommy Prothro,H,Stanford,AAWU,Jack Curtice,L,0,34
+1961-10-07,Oregon State,Ind,Tommy Prothro,H,Idaho,Ind,Skip Stahley,W,44,6
+1961-10-14,Oregon State,Ind,Tommy Prothro,A,Wisconsin,Big Ten,Milt Bruhn,L,20,23
+1961-10-21,Oregon State,Ind,Tommy Prothro,A,Arizona State,BIAA,Frank Kush,L,23,24
+1961-11-04,Oregon State,Ind,Tommy Prothro,H,Washington State,Ind,Jim Sutherland,W,14,6
+1961-11-11,Oregon State,Ind,Tommy Prothro,A,Washington,AAWU,Jim Owens,W,3,0
+1961-11-18,Oregon State,Ind,Tommy Prothro,H,Brigham Young,Skyline,Hal Mitchell,W,35,0
+1961-11-25,Oregon State,Ind,Tommy Prothro,A,Oregon,Ind,Len Casanova,W,6,2
+1961-12-02,Oregon State,Ind,Tommy Prothro,A,Houston,Ind,Hal Lahar,L,12,23
+1961-09-23,Alabama,SEC,Bear Bryant,A,Georgia,SEC,Johnny Griffith,W,32,6
+1961-09-30,Alabama,SEC,Bear Bryant,H,Tulane,SEC,Andy Pilney,W,9,0
+1961-10-07,Alabama,SEC,Bear Bryant,A,Vanderbilt,SEC,Arthur Guepe,W,35,6
+1961-10-14,Alabama,SEC,Bear Bryant,H,North Carolina State,ACC,Earle Edwards,W,26,7
+1961-10-21,Alabama,SEC,Bear Bryant,H,Tennessee,SEC,Bowden Wyatt,W,34,3
+1961-10-28,Alabama,SEC,Bear Bryant,A,Houston,Ind,Hal Lahar,W,17,0
+1961-11-04,Alabama,SEC,Bear Bryant,H,Mississippi State,SEC,Wade Walker,W,24,0
+1961-11-11,Alabama,SEC,Bear Bryant,H,Richmond,Southern,Edwin Merrick,W,66,0
+1961-11-18,Alabama,SEC,Bear Bryant,H,Georgia Tech,SEC,Bobby Dodd,W,10,0
+1961-12-02,Alabama,SEC,Bear Bryant,N,Auburn,SEC,Ralph Jordan,W,34,0
+1962-01-01,Alabama,SEC,Bear Bryant,N,Arkansas,SWC,Frank Broyles,W,10,3
+1961-09-16,Dayton,Ind,Stan Zajdel,A,Cincinnati,MVC,Charles Studley,L,12,16
+1961-10-21,Dayton,Ind,Stan Zajdel,H,Xavier,Ind,Edward Doherty,L,0,14
+1961-10-28,Dayton,Ind,Stan Zajdel,H,Detroit Mercy,Ind,Jim Miller,L,12,41
+1961-11-04,Dayton,Ind,Stan Zajdel,A,Holy Cross,Ind,Edward Anderson,L,0,28
+1961-11-18,Dayton,Ind,Stan Zajdel,H,Wichita State,MVC,Hank Foldberg,W,23,12
+1961-09-23,Purdue,Big Ten,Jack Mollenkopf,A,Washington,AAWU,Jim Owens,W,13,6
+1961-10-07,Purdue,Big Ten,Jack Mollenkopf,H,Notre Dame,Ind,Joe Kuharich,L,20,22
+1961-10-21,Purdue,Big Ten,Jack Mollenkopf,A,Michigan,Big Ten,Bump Elliott,L,14,16
+1961-10-28,Purdue,Big Ten,Jack Mollenkopf,H,Iowa,Big Ten,Jerry Burns,W,9,0
+1961-11-04,Purdue,Big Ten,Jack Mollenkopf,A,Illinois,Big Ten,Pete Elliott,W,23,9
+1961-11-11,Purdue,Big Ten,Jack Mollenkopf,H,Michigan State,Big Ten,Duffy Daugherty,W,7,6
+1961-11-18,Purdue,Big Ten,Jack Mollenkopf,A,Minnesota,Big Ten,Murray Warmath,L,7,10
+1961-11-25,Purdue,Big Ten,Jack Mollenkopf,A,Indiana,Big Ten,Phil Dickens,W,34,12
+1961-09-30,Nebraska,Big 8,William Jennings,H,Arizona,Ind,Jim LaRue,T,14,14
+1961-10-07,Nebraska,Big 8,William Jennings,A,Kansas State,Big 8,Doug Weaver,W,24,0
+1961-10-14,Nebraska,Big 8,William Jennings,H,Syracuse,Ind,Ben Schwartzwalder,L,6,28
+1961-10-21,Nebraska,Big 8,William Jennings,A,Oklahoma State,Big 8,Cliff Speegle,L,6,14
+1961-10-28,Nebraska,Big 8,William Jennings,A,Missouri,Big 8,Dan Devine,L,0,10
+1961-11-04,Nebraska,Big 8,William Jennings,H,Kansas,Big 8,Jack Mitchell,L,6,28
+1961-11-11,Nebraska,Big 8,William Jennings,A,Iowa State,Big 8,Clay Stapleton,W,16,13
+1961-11-18,Nebraska,Big 8,William Jennings,H,Colorado,Big 8,Everett Grandelius,L,0,7
+1961-11-25,Nebraska,Big 8,William Jennings,H,Oklahoma,Big 8,Bud Wilkinson,L,14,21
+1961-09-16,West Virginia,Southern,Gene Corum,H,Richmond,Southern,Edwin Merrick,L,26,35
+1961-09-23,West Virginia,Southern,Gene Corum,A,Vanderbilt,SEC,Arthur Guepe,L,6,16
+1961-09-30,West Virginia,Southern,Gene Corum,A,Syracuse,Ind,Ben Schwartzwalder,L,14,29
+1961-10-07,West Virginia,Southern,Gene Corum,H,Virginia Tech,Southern,Jerry Claiborne,W,28,0
+1961-10-14,West Virginia,Southern,Gene Corum,A,Pitt,Ind,John Michelosen,W,20,6
+1961-10-21,West Virginia,Southern,Gene Corum,A,Boston University,Ind,Steve Sinko,L,6,12
+1961-10-28,West Virginia,Southern,Gene Corum,A,Army,Ind,Dale Hall,W,7,3
+1961-11-04,West Virginia,Southern,Gene Corum,A,George Washington,Southern,Jim Camp,W,12,7
+1961-11-11,West Virginia,Southern,Gene Corum,H,Penn State,Ind,Rip Engle,L,6,20
+1961-11-18,West Virginia,Southern,Gene Corum,H,Indiana,Big Ten,Phil Dickens,L,9,17
+1961-10-07,Harvard,Ivy,John Yovicsin,H,Cornell,Ivy,Tom Harp,W,14,0
+1961-10-14,Harvard,Ivy,John Yovicsin,H,Colgate,Ind,Alva Kelley,L,0,15
+1961-10-21,Harvard,Ivy,John Yovicsin,H,Columbia,Ivy,Aldo Donelli,L,14,26
+1961-10-28,Harvard,Ivy,John Yovicsin,H,Dartmouth,Ivy,Bob Blackman,W,21,15
+1961-11-04,Harvard,Ivy,John Yovicsin,A,Pennsylvania,Ivy,John Stiegman,W,37,6
+1961-11-11,Harvard,Ivy,John Yovicsin,H,Princeton,Ivy,Richard Colman,W,9,7
+1961-11-18,Harvard,Ivy,John Yovicsin,H,Brown,Ivy,John McLaughry,W,21,6
+1961-11-25,Harvard,Ivy,John Yovicsin,A,Yale,Ivy,Jordan Olivar,W,27,0
+1961-09-23,Oklahoma State,Big 8,Cliff Speegle,A,Iowa State,Big 8,Clay Stapleton,L,7,14
+1961-09-30,Oklahoma State,Big 8,Cliff Speegle,A,Colorado,Big 8,Everett Grandelius,L,0,24
+1961-10-07,Oklahoma State,Big 8,Cliff Speegle,H,Tulsa,MVC,Glenn Dobbs,W,26,0
+1961-10-14,Oklahoma State,Big 8,Cliff Speegle,H,Missouri,Big 8,Dan Devine,L,0,10
+1961-10-21,Oklahoma State,Big 8,Cliff Speegle,H,Nebraska,Big 8,William Jennings,W,14,6
+1961-10-28,Oklahoma State,Big 8,Cliff Speegle,A,Kansas,Big 8,Jack Mitchell,L,8,42
+1961-11-04,Oklahoma State,Big 8,Cliff Speegle,A,Wichita State,MVC,Hank Foldberg,L,13,25
+1961-11-18,Oklahoma State,Big 8,Cliff Speegle,H,Houston,Ind,Hal Lahar,W,28,24
+1961-11-25,Oklahoma State,Big 8,Cliff Speegle,H,Kansas State,Big 8,Doug Weaver,W,45,0
+1961-12-02,Oklahoma State,Big 8,Cliff Speegle,A,Oklahoma,Big 8,Bud Wilkinson,L,13,21
+1961-09-30,Colorado,Big 8,Everett Grandelius,H,Oklahoma State,Big 8,Cliff Speegle,W,24,0
+1961-10-07,Colorado,Big 8,Everett Grandelius,H,Kansas,Big 8,Jack Mitchell,W,20,19
+1961-10-13,Colorado,Big 8,Everett Grandelius,A,Miami (FL),Ind,Andy Gustafson,W,9,7
+1961-10-21,Colorado,Big 8,Everett Grandelius,A,Kansas State,Big 8,Doug Weaver,W,13,0
+1961-10-28,Colorado,Big 8,Everett Grandelius,A,Oklahoma,Big 8,Bud Wilkinson,W,22,14
+1961-11-04,Colorado,Big 8,Everett Grandelius,H,Missouri,Big 8,Dan Devine,W,7,6
+1961-11-11,Colorado,Big 8,Everett Grandelius,H,Utah,Skyline,Ray Nagel,L,12,21
+1961-11-18,Colorado,Big 8,Everett Grandelius,A,Nebraska,Big 8,William Jennings,W,7,0
+1961-11-25,Colorado,Big 8,Everett Grandelius,H,Iowa State,Big 8,Clay Stapleton,W,34,0
+1961-12-02,Colorado,Big 8,Everett Grandelius,H,Air Force,Ind,Ben Martin,W,29,12
+1962-01-01,Colorado,Big 8,Everett Grandelius,N,LSU,SEC,Paul Dietzel,L,7,25
+1961-09-16,Colorado State,Skyline,Tuffy Mullison,A,Utah,Skyline,Ray Nagel,L,0,40
+1961-09-23,Colorado State,Skyline,Tuffy Mullison,A,Arizona,Ind,Jim LaRue,L,6,28
+1961-09-30,Colorado State,Skyline,Tuffy Mullison,H,Arizona State,BIAA,Frank Kush,L,6,14
+1961-10-07,Colorado State,Skyline,Tuffy Mullison,A,San Jose State,Ind,Robert Titchenal,L,0,14
+1961-10-14,Colorado State,Skyline,Tuffy Mullison,A,Wyoming,Skyline,Bob Devaney,L,7,18
+1961-10-21,Colorado State,Skyline,Tuffy Mullison,H,Utah State,Skyline,John Ralston,L,3,49
+1961-10-28,Colorado State,Skyline,Tuffy Mullison,A,Montana,Skyline,Ray Jenkins,L,19,22
+1961-11-04,Colorado State,Skyline,Tuffy Mullison,A,Air Force,Ind,Ben Martin,L,9,14
+1961-11-11,Colorado State,Skyline,Tuffy Mullison,A,Brigham Young,Skyline,Hal Mitchell,L,16,30
+1961-11-18,Colorado State,Skyline,Tuffy Mullison,H,New Mexico,Skyline,Bill Weeks,L,8,20
+1961-09-23,Rice,SWC,Jess Neely,H,LSU,SEC,Paul Dietzel,W,16,3
+1961-09-30,Rice,SWC,Jess Neely,A,Georgia Tech,SEC,Bobby Dodd,L,0,24
+1961-10-14,Rice,SWC,Jess Neely,H,Florida,SEC,Ray Graves,W,19,10
+1961-10-21,Rice,SWC,Jess Neely,H,SMU,SWC,Bill Meek,W,10,0
+1961-10-28,Rice,SWC,Jess Neely,A,Texas,SWC,Darrell Royal,L,7,34
+1961-11-04,Rice,SWC,Jess Neely,A,Texas Tech,SWC,J.T. King,W,42,7
+1961-11-11,Rice,SWC,Jess Neely,H,Arkansas,SWC,Frank Broyles,L,0,10
+1961-11-18,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Jim Myers,W,21,7
+1961-11-25,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Abe Martin,W,35,16
+1961-12-02,Rice,SWC,Jess Neely,H,Baylor,SWC,John Bridgers,W,26,14
+1961-12-16,Rice,SWC,Jess Neely,H,Kansas,Big 8,Jack Mitchell,L,7,33
+1961-09-23,Texas A&M,SWC,Jim Myers,H,Houston,Ind,Hal Lahar,T,7,7
+1961-09-30,Texas A&M,SWC,Jim Myers,A,LSU,SEC,Paul Dietzel,L,7,16
+1961-10-07,Texas A&M,SWC,Jim Myers,A,Texas Tech,SWC,J.T. King,W,38,7
+1961-10-21,Texas A&M,SWC,Jim Myers,A,Texas Christian,SWC,Abe Martin,L,14,15
+1961-10-28,Texas A&M,SWC,Jim Myers,H,Baylor,SWC,John Bridgers,W,23,0
+1961-11-04,Texas A&M,SWC,Jim Myers,A,Arkansas,SWC,Frank Broyles,L,8,15
+1961-11-11,Texas A&M,SWC,Jim Myers,H,SMU,SWC,Bill Meek,W,25,12
+1961-11-18,Texas A&M,SWC,Jim Myers,A,Rice,SWC,Jess Neely,L,7,21
+1961-11-23,Texas A&M,SWC,Jim Myers,H,Texas,SWC,Darrell Royal,L,0,25
+1961-09-23,Davidson,Southern,,A,Furman,Southern,Robert King,L,19,45
+1961-09-30,Davidson,Southern,,A,Citadel,Southern,Eddie Teague,L,12,20
+1961-10-21,Davidson,Southern,,H,Virginia Military Institute,Southern,John McKenna,L,0,13
+1961-10-28,Davidson,Southern,,A,Richmond,Southern,Edwin Merrick,L,0,20
+1961-11-04,Davidson,Southern,,A,William & Mary,Southern,Milt Drewer,W,31,30
+1961-09-30,Michigan State,Big Ten,Duffy Daugherty,A,Wisconsin,Big Ten,Milt Bruhn,W,20,0
+1961-10-07,Michigan State,Big Ten,Duffy Daugherty,H,Stanford,AAWU,Jack Curtice,W,31,3
+1961-10-14,Michigan State,Big Ten,Duffy Daugherty,A,Michigan,Big Ten,Bump Elliott,W,28,0
+1961-10-21,Michigan State,Big Ten,Duffy Daugherty,H,Notre Dame,Ind,Joe Kuharich,W,17,7
+1961-10-28,Michigan State,Big Ten,Duffy Daugherty,H,Indiana,Big Ten,Phil Dickens,W,35,0
+1961-11-04,Michigan State,Big Ten,Duffy Daugherty,A,Minnesota,Big Ten,Murray Warmath,L,0,13
+1961-11-11,Michigan State,Big Ten,Duffy Daugherty,A,Purdue,Big Ten,Jack Mollenkopf,L,6,7
+1961-11-18,Michigan State,Big Ten,Duffy Daugherty,H,Northwestern,Big Ten,Ara Parseghian,W,21,13
+1961-11-25,Michigan State,Big Ten,Duffy Daugherty,H,Illinois,Big Ten,Pete Elliott,W,34,7
+1961-09-23,Boston College,Ind,Ernest Hefferle,H,Cincinnati,MVC,Charles Studley,W,23,0
+1961-09-30,Boston College,Ind,Ernest Hefferle,A,Northwestern,Big Ten,Ara Parseghian,L,0,45
+1961-10-07,Boston College,Ind,Ernest Hefferle,A,Houston,Ind,Hal Lahar,L,0,21
+1961-10-13,Boston College,Ind,Ernest Hefferle,A,Detroit Mercy,Ind,Jim Miller,L,3,20
+1961-10-21,Boston College,Ind,Ernest Hefferle,H,Villanova,Ind,Alex Bell,W,22,6
+1961-11-04,Boston College,Ind,Ernest Hefferle,H,Iowa State,Big 8,Clay Stapleton,W,14,10
+1961-11-11,Boston College,Ind,Ernest Hefferle,A,Texas Tech,SWC,J.T. King,L,6,14
+1961-11-18,Boston College,Ind,Ernest Hefferle,A,Boston University,Ind,Steve Sinko,W,10,7
+1961-11-25,Boston College,Ind,Ernest Hefferle,H,Syracuse,Ind,Ben Schwartzwalder,L,13,28
+1961-12-02,Boston College,Ind,Ernest Hefferle,A,Holy Cross,Ind,Edward Anderson,L,26,38
+1961-09-30,Colgate,Ind,Alva Kelley,A,Cornell,Ivy,Tom Harp,L,0,34
+1961-10-14,Colgate,Ind,Alva Kelley,A,Harvard,Ivy,John Yovicsin,W,15,0
+1961-10-21,Colgate,Ind,Alva Kelley,A,Princeton,Ivy,Richard Colman,W,15,0
+1961-10-28,Colgate,Ind,Alva Kelley,A,Yale,Ivy,Jordan Olivar,W,14,8
+1961-11-11,Colgate,Ind,Alva Kelley,A,Syracuse,Ind,Ben Schwartzwalder,L,8,51
+1961-11-18,Colgate,Ind,Alva Kelley,H,Rutgers,Ind,John Bateman,L,6,26
+1961-11-23,Colgate,Ind,Alva Kelley,A,Brown,Ivy,John McLaughry,W,30,6
+1961-09-23,New Mexico State,BIAA,Warren Woodson,A,New Mexico,Skyline,Bill Weeks,L,7,41
+1961-10-07,New Mexico State,BIAA,Warren Woodson,A,North Texas,MVC,Odus Mitchell,T,14,14
+1961-10-14,New Mexico State,BIAA,Warren Woodson,H,Pacific,Ind,John Rohde,W,70,19
+1961-10-21,New Mexico State,BIAA,Warren Woodson,A,Wichita State,MVC,Hank Foldberg,L,27,42
+1961-10-28,New Mexico State,BIAA,Warren Woodson,A,UTEP,BIAA,Ben Collins,W,42,6
+1961-11-18,New Mexico State,BIAA,Warren Woodson,H,West Texas A&M,BIAA,Joe Kerbel,L,22,35
+1961-11-25,New Mexico State,BIAA,Warren Woodson,H,Hardin-Simmons,BIAA,Howard McChesney,W,54,8
+1961-09-30,Minnesota,Big Ten,Murray Warmath,H,Missouri,Big 8,Dan Devine,L,0,6
+1961-10-07,Minnesota,Big Ten,Murray Warmath,H,Oregon,Ind,Len Casanova,W,14,7
+1961-10-14,Minnesota,Big Ten,Murray Warmath,A,Northwestern,Big Ten,Ara Parseghian,W,10,3
+1961-10-21,Minnesota,Big Ten,Murray Warmath,A,Illinois,Big Ten,Pete Elliott,W,33,0
+1961-10-28,Minnesota,Big Ten,Murray Warmath,H,Michigan,Big Ten,Bump Elliott,W,23,20
+1961-11-04,Minnesota,Big Ten,Murray Warmath,H,Michigan State,Big Ten,Duffy Daugherty,W,13,0
+1961-11-11,Minnesota,Big Ten,Murray Warmath,A,Iowa,Big Ten,Jerry Burns,W,16,9
+1961-11-18,Minnesota,Big Ten,Murray Warmath,H,Purdue,Big Ten,Jack Mollenkopf,W,10,7
+1961-11-25,Minnesota,Big Ten,Murray Warmath,H,Wisconsin,Big Ten,Milt Bruhn,L,21,23
+1962-01-01,Minnesota,Big Ten,Murray Warmath,A,UCLA,AAWU,Bill Barnes,W,21,3
+1961-09-23,Ole Miss,SEC,John Vaught,H,Arkansas,SWC,Frank Broyles,W,16,0
+1961-09-30,Ole Miss,SEC,John Vaught,A,Kentucky,SEC,Blanton Collier,W,20,6
+1961-10-07,Ole Miss,SEC,John Vaught,H,Florida State,Ind,Bill Peterson,W,33,0
+1961-10-14,Ole Miss,SEC,John Vaught,H,Houston,Ind,Hal Lahar,W,47,7
+1961-10-21,Ole Miss,SEC,John Vaught,H,Tulane,SEC,Andy Pilney,W,41,0
+1961-10-28,Ole Miss,SEC,John Vaught,H,Vanderbilt,SEC,Arthur Guepe,W,47,0
+1961-11-04,Ole Miss,SEC,John Vaught,A,LSU,SEC,Paul Dietzel,L,7,10
+1961-11-18,Ole Miss,SEC,John Vaught,N,Tennessee,SEC,Bowden Wyatt,W,24,10
+1961-12-02,Ole Miss,SEC,John Vaught,A,Mississippi State,SEC,Wade Walker,W,37,7
+1962-01-01,Ole Miss,SEC,John Vaught,N,Texas,SWC,Darrell Royal,L,7,12
+1961-09-23,Duke,ACC,Bill Murray,A,South Carolina,ACC,Marvin Bass,W,7,6
+1961-09-30,Duke,ACC,Bill Murray,A,Virginia,ACC,William Elias,W,42,0
+1961-10-07,Duke,ACC,Bill Murray,H,Wake Forest,ACC,Billy Hildebrand,W,23,3
+1961-10-14,Duke,ACC,Bill Murray,A,Georgia Tech,SEC,Bobby Dodd,L,0,21
+1961-10-21,Duke,ACC,Bill Murray,H,Clemson,ACC,Frank Howard,L,7,17
+1961-10-28,Duke,ACC,Bill Murray,A,North Carolina State,ACC,Earle Edwards,W,17,6
+1961-11-04,Duke,ACC,Bill Murray,A,Michigan,Big Ten,Bump Elliott,L,14,28
+1961-11-11,Duke,ACC,Bill Murray,N,Navy,Ind,Wayne Hardin,W,30,9
+1961-11-18,Duke,ACC,Bill Murray,H,North Carolina,ACC,James Hickey,W,6,3
+1961-12-02,Duke,ACC,Bill Murray,H,Notre Dame,Ind,Joe Kuharich,W,37,13
+1961-09-23,Navy,Ind,Wayne Hardin,A,Penn State,Ind,Rip Engle,L,10,20
+1961-09-30,Navy,Ind,Wayne Hardin,H,William & Mary,Southern,Milt Drewer,W,44,6
+1961-10-06,Navy,Ind,Wayne Hardin,A,Miami (FL),Ind,Andy Gustafson,W,17,6
+1961-10-14,Navy,Ind,Wayne Hardin,A,Cornell,Ivy,Tom Harp,W,31,7
+1961-10-20,Navy,Ind,Wayne Hardin,A,Detroit Mercy,Ind,Jim Miller,W,37,19
+1961-10-28,Navy,Ind,Wayne Hardin,A,Pitt,Ind,John Michelosen,L,14,28
+1961-11-04,Navy,Ind,Wayne Hardin,A,Notre Dame,Ind,Joe Kuharich,W,13,10
+1961-11-11,Navy,Ind,Wayne Hardin,N,Duke,ACC,Bill Murray,L,9,30
+1961-11-18,Navy,Ind,Wayne Hardin,H,Virginia,ACC,William Elias,W,13,3
+1961-12-02,Navy,Ind,Wayne Hardin,N,Army,Ind,Dale Hall,W,13,7
+1961-09-23,Texas Tech,SWC,J.T. King,A,Mississippi State,SEC,Wade Walker,L,0,6
+1961-09-30,Texas Tech,SWC,J.T. King,A,Texas,SWC,Darrell Royal,L,14,42
+1961-10-07,Texas Tech,SWC,J.T. King,H,Texas A&M,SWC,Jim Myers,L,7,38
+1961-10-14,Texas Tech,SWC,J.T. King,H,Texas Christian,SWC,Abe Martin,W,10,0
+1961-10-21,Texas Tech,SWC,J.T. King,H,Baylor,SWC,John Bridgers,W,19,17
+1961-10-28,Texas Tech,SWC,J.T. King,A,SMU,SWC,Bill Meek,L,7,8
+1961-11-04,Texas Tech,SWC,J.T. King,H,Rice,SWC,Jess Neely,L,7,42
+1961-11-11,Texas Tech,SWC,J.T. King,H,Boston College,Ind,Ernest Hefferle,W,14,6
+1961-11-25,Texas Tech,SWC,J.T. King,A,Arkansas,SWC,Frank Broyles,L,0,28
+1961-12-02,Texas Tech,SWC,J.T. King,H,West Texas A&M,BIAA,Joe Kerbel,W,16,14
+1961-09-23,Tulane,SEC,Andy Pilney,A,Stanford,AAWU,Jack Curtice,L,7,9
+1961-09-30,Tulane,SEC,Andy Pilney,A,Alabama,SEC,Bear Bryant,L,0,9
+1961-10-06,Tulane,SEC,Andy Pilney,H,Florida,SEC,Ray Graves,L,3,14
+1961-10-14,Tulane,SEC,Andy Pilney,H,Virginia Tech,Southern,Jerry Claiborne,W,27,14
+1961-10-21,Tulane,SEC,Andy Pilney,A,Ole Miss,SEC,John Vaught,L,0,41
+1961-10-28,Tulane,SEC,Andy Pilney,H,Georgia Tech,SEC,Bobby Dodd,L,0,35
+1961-11-04,Tulane,SEC,Andy Pilney,A,Clemson,ACC,Frank Howard,L,6,21
+1961-11-11,Tulane,SEC,Andy Pilney,H,Miami (FL),Ind,Andy Gustafson,L,0,6
+1961-11-17,Tulane,SEC,Andy Pilney,H,Vanderbilt,SEC,Arthur Guepe,W,17,14
+1961-11-25,Tulane,SEC,Andy Pilney,A,LSU,SEC,Paul Dietzel,L,0,62
+1961-09-30,Cornell,Ivy,Tom Harp,H,Colgate,Ind,Alva Kelley,W,34,0
+1961-10-07,Cornell,Ivy,Tom Harp,A,Harvard,Ivy,John Yovicsin,L,0,14
+1961-10-14,Cornell,Ivy,Tom Harp,H,Navy,Ind,Wayne Hardin,L,7,31
+1961-10-21,Cornell,Ivy,Tom Harp,H,Yale,Ivy,Jordan Olivar,L,0,12
+1961-10-28,Cornell,Ivy,Tom Harp,A,Princeton,Ivy,Richard Colman,L,25,30
+1961-11-04,Cornell,Ivy,Tom Harp,H,Columbia,Ivy,Aldo Donelli,L,7,35
+1961-11-11,Cornell,Ivy,Tom Harp,H,Brown,Ivy,John McLaughry,W,25,0
+1961-11-18,Cornell,Ivy,Tom Harp,A,Dartmouth,Ivy,Bob Blackman,L,14,15
+1961-11-25,Cornell,Ivy,Tom Harp,A,Pennsylvania,Ivy,John Stiegman,W,31,0
+1961-09-30,Ohio State,Big Ten,Woody Hayes,H,Texas Christian,SWC,Abe Martin,T,7,7
+1961-10-07,Ohio State,Big Ten,Woody Hayes,H,UCLA,AAWU,Bill Barnes,W,13,3
+1961-10-14,Ohio State,Big Ten,Woody Hayes,H,Illinois,Big Ten,Pete Elliott,W,44,0
+1961-10-21,Ohio State,Big Ten,Woody Hayes,A,Northwestern,Big Ten,Ara Parseghian,W,10,0
+1961-10-28,Ohio State,Big Ten,Woody Hayes,A,Wisconsin,Big Ten,Milt Bruhn,W,30,21
+1961-11-04,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Jerry Burns,W,29,13
+1961-11-11,Ohio State,Big Ten,Woody Hayes,A,Indiana,Big Ten,Phil Dickens,W,16,7
+1961-11-18,Ohio State,Big Ten,Woody Hayes,H,Oregon,Ind,Len Casanova,W,22,12
+1961-11-25,Ohio State,Big Ten,Woody Hayes,A,Michigan,Big Ten,Bump Elliott,W,50,20
+1961-09-23,Houston,Ind,Hal Lahar,A,Texas A&M,SWC,Jim Myers,T,7,7
+1961-09-30,Houston,Ind,Hal Lahar,H,Mississippi State,SEC,Wade Walker,L,7,10
+1961-10-07,Houston,Ind,Hal Lahar,H,Boston College,Ind,Ernest Hefferle,W,21,0
+1961-10-14,Houston,Ind,Hal Lahar,A,Ole Miss,SEC,John Vaught,L,7,47
+1961-10-21,Houston,Ind,Hal Lahar,A,Cincinnati,MVC,Charles Studley,W,13,7
+1961-10-28,Houston,Ind,Hal Lahar,H,Alabama,SEC,Bear Bryant,L,0,17
+1961-11-11,Houston,Ind,Hal Lahar,A,Tulsa,MVC,Glenn Dobbs,W,14,2
+1961-11-18,Houston,Ind,Hal Lahar,A,Oklahoma State,Big 8,Cliff Speegle,L,24,28
+1961-11-25,Houston,Ind,Hal Lahar,H,Florida State,Ind,Bill Peterson,W,28,8
+1961-12-02,Houston,Ind,Hal Lahar,H,Oregon State,Ind,Tommy Prothro,W,23,12

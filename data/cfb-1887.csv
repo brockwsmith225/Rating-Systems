@@ -1,0 +1,101 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1887-10-12,Trinity (CT),Ind,,A,Wesleyan (CT),Ind,,L,0,58
+1887-10-29,Trinity (CT),Ind,,A,MIT,Ind,,L,0,72
+1887-11-05,Trinity (CT),Ind,,A,Amherst,Ind,,W,22,6
+1887-11-12,Trinity (CT),Ind,,H,Stevens,Ind,,W,26,0
+1887-11-19,Trinity (CT),Ind,,H,Dartmouth,Ind,,L,0,66
+1887-10-01,Wesleyan (CT),Ind,,H,Amherst,Ind,,W,34,0
+1887-10-05,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,38
+1887-10-12,Wesleyan (CT),Ind,,H,Trinity (CT),Ind,,W,58,0
+1887-10-15,Wesleyan (CT),Ind,,H,Yale,Ind,,L,0,106
+1887-10-26,Wesleyan (CT),Ind,,H,Williams,Ind,,W,18,6
+1887-10-29,Wesleyan (CT),Ind,,A,Princeton,Ind,,L,0,69
+1887-11-05,Wesleyan (CT),Ind,,A,Harvard,Ind,,L,0,110
+1887-11-12,Wesleyan (CT),Ind,,A,Yale,Ind,,L,4,76
+1887-11-24,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,Frank Dole,W,10,4
+1887-10-15,Dartmouth,Ind,,A,Tufts,Ind, Durkee,W,52,0
+1887-10-22,Dartmouth,Ind,,A,Stevens,Ind,,T,4,4
+1887-10-26,Dartmouth,Ind,,H,Amherst,Ind,,W,52,0
+1887-11-05,Dartmouth,Ind,,A,MIT,Ind,,L,15,24
+1887-11-19,Dartmouth,Ind,,A,Trinity (CT),Ind,,W,66,0
+1887-10-08,Princeton,Ind,,H,Lafayette,Ind,,W,47,0
+1887-10-12,Princeton,Ind,,A,Rutgers,Ind,,W,30,0
+1887-10-15,Princeton,Ind,,H,Lehigh,Ind,,W,80,0
+1887-10-19,Princeton,Ind,,A,Pennsylvania,Ind,Frank Dole,W,57,0
+1887-10-22,Princeton,Ind,,H,Pennsylvania,Ind,Frank Dole,W,42,0
+1887-10-29,Princeton,Ind,,H,Wesleyan (CT),Ind,,W,69,0
+1887-11-05,Princeton,Ind,,A,Pennsylvania,Ind,Frank Dole,W,95,0
+1887-11-12,Princeton,Ind,,A,Harvard,Ind,,L,0,12
+1887-11-19,Princeton,Ind,,N,Yale,Ind,,L,0,12
+1887-10-08,Stevens,Ind,,A,Rutgers,Ind,,L,0,26
+1887-10-19,Stevens,Ind,,H,Rutgers,Ind,,L,2,5
+1887-10-22,Stevens,Ind,,H,Dartmouth,Ind,,T,4,4
+1887-11-12,Stevens,Ind,,A,Trinity (CT),Ind,,L,0,26
+1887-11-19,Stevens,Ind,,H,MIT,Ind,,L,0,20
+1887-11-24,Stevens,Ind,,A,Amherst,Ind,,L,6,16
+1887-10-08,Rutgers,Ind,,H,Stevens,Ind,,W,26,0
+1887-10-12,Rutgers,Ind,,H,Princeton,Ind,,L,0,30
+1887-10-15,Rutgers,Ind,,A,Lafayette,Ind,,L,0,20
+1887-10-19,Rutgers,Ind,,A,Stevens,Ind,,W,5,2
+1887-10-29,Rutgers,Ind,,A,Williams,Ind,,L,6,12
+1887-11-02,Rutgers,Ind,,A,Pennsylvania,Ind,Frank Dole,L,10,13
+1887-11-05,Rutgers,Ind,,A,Yale,Ind,,L,0,74
+1887-11-12,Rutgers,Ind,,H,Lafayette,Ind,,L,0,36
+1887-10-05,Yale,Ind,,H,Wesleyan (CT),Ind,,W,38,0
+1887-10-15,Yale,Ind,,A,Wesleyan (CT),Ind,,W,106,0
+1887-10-22,Yale,Ind,,A,Williams,Ind,,W,74,0
+1887-10-29,Yale,Ind,,A,Pennsylvania,Ind,Frank Dole,W,50,0
+1887-11-05,Yale,Ind,,H,Rutgers,Ind,,W,74,0
+1887-11-12,Yale,Ind,,H,Wesleyan (CT),Ind,,W,76,4
+1887-11-19,Yale,Ind,,N,Princeton,Ind,,W,12,0
+1887-11-24,Yale,Ind,,N,Harvard,Ind,,W,17,8
+1887-10-15,Lehigh,Ind,,A,Princeton,Ind,,L,0,80
+1887-10-29,Lehigh,Ind,,H,Lafayette,Ind,,W,10,4
+1887-11-12,Lehigh,Ind,,A,Pennsylvania,Ind,Frank Dole,L,4,6
+1887-11-23,Lehigh,Ind,,A,Lafayette,Ind,,L,0,6
+1887-10-19,Pennsylvania,Ind,Frank Dole,H,Princeton,Ind,,L,0,57
+1887-10-22,Pennsylvania,Ind,Frank Dole,A,Princeton,Ind,,L,0,42
+1887-10-29,Pennsylvania,Ind,Frank Dole,H,Yale,Ind,,L,0,50
+1887-11-02,Pennsylvania,Ind,Frank Dole,H,Rutgers,Ind,,W,13,10
+1887-11-05,Pennsylvania,Ind,Frank Dole,H,Princeton,Ind,,L,0,95
+1887-11-12,Pennsylvania,Ind,Frank Dole,H,Lehigh,Ind,,W,6,4
+1887-11-16,Pennsylvania,Ind,Frank Dole,H,Lafayette,Ind,,L,0,20
+1887-11-19,Pennsylvania,Ind,Frank Dole,A,Harvard,Ind,,L,0,42
+1887-11-24,Pennsylvania,Ind,Frank Dole,N,Wesleyan (CT),Ind,,L,4,10
+1887-10-01,Harvard,Ind,,A,Tufts,Ind, Durkee,W,86,0
+1887-10-08,Harvard,Ind,,H,MIT,Ind,,W,62,0
+1887-10-15,Harvard,Ind,,H,Williams,Ind,,W,52,6
+1887-10-22,Harvard,Ind,,H,Amherst,Ind,,W,98,0
+1887-10-29,Harvard,Ind,,H,Tufts,Ind, Durkee,W,68,0
+1887-11-05,Harvard,Ind,,H,Wesleyan (CT),Ind,,W,110,0
+1887-11-12,Harvard,Ind,,H,Princeton,Ind,,W,12,0
+1887-11-19,Harvard,Ind,,H,Pennsylvania,Ind,Frank Dole,W,42,0
+1887-11-24,Harvard,Ind,,N,Yale,Ind,,L,8,17
+1887-10-01,Tufts,Ind, Durkee,H,Harvard,Ind,,L,0,86
+1887-10-15,Tufts,Ind, Durkee,H,Dartmouth,Ind,,L,0,52
+1887-10-29,Tufts,Ind, Durkee,A,Harvard,Ind,,L,0,68
+1887-11-24,Tufts,Ind, Durkee,H,MIT,Ind,,L,0,36
+1887-10-08,Williams,Ind,,A,Amherst,Ind,,W,54,0
+1887-10-15,Williams,Ind,,A,Harvard,Ind,,L,6,52
+1887-10-22,Williams,Ind,,H,Yale,Ind,,L,0,74
+1887-10-26,Williams,Ind,,A,Wesleyan (CT),Ind,,L,6,18
+1887-10-29,Williams,Ind,,H,Rutgers,Ind,,W,12,6
+1887-10-01,Amherst,Ind,,A,Wesleyan (CT),Ind,,L,0,34
+1887-10-08,Amherst,Ind,,H,Williams,Ind,,L,0,54
+1887-10-22,Amherst,Ind,,A,Harvard,Ind,,L,0,98
+1887-10-26,Amherst,Ind,,A,Dartmouth,Ind,,L,0,52
+1887-11-05,Amherst,Ind,,H,Trinity (CT),Ind,,L,6,22
+1887-11-12,Amherst,Ind,,A,MIT,Ind,,L,0,54
+1887-11-24,Amherst,Ind,,H,Stevens,Ind,,W,16,6
+1887-10-08,Lafayette,Ind,,A,Princeton,Ind,,L,0,47
+1887-10-15,Lafayette,Ind,,H,Rutgers,Ind,,W,20,0
+1887-10-29,Lafayette,Ind,,A,Lehigh,Ind,,L,4,10
+1887-11-12,Lafayette,Ind,,A,Rutgers,Ind,,W,36,0
+1887-11-16,Lafayette,Ind,,A,Pennsylvania,Ind,Frank Dole,W,20,0
+1887-11-23,Lafayette,Ind,,H,Lehigh,Ind,,W,6,0
+1887-10-08,MIT,Ind,,A,Harvard,Ind,,L,0,62
+1887-10-29,MIT,Ind,,H,Trinity (CT),Ind,,W,72,0
+1887-11-05,MIT,Ind,,H,Dartmouth,Ind,,W,24,15
+1887-11-12,MIT,Ind,,H,Amherst,Ind,,W,54,0
+1887-11-19,MIT,Ind,,A,Stevens,Ind,,W,20,0
+1887-11-24,MIT,Ind,,A,Tufts,Ind, Durkee,W,36,0

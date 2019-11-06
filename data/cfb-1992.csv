@@ -1,0 +1,1177 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1992-09-05,North Carolina,ACC,Mack Brown,A,Wake Forest,ACC,Bill Dooley,W,35,17
+1992-09-19,North Carolina,ACC,Mack Brown,H,Army,Ind,Bob Sutton,W,22,9
+1992-09-26,North Carolina,ACC,Mack Brown,H,North Carolina State,ACC,Dick Sheridan,L,20,27
+1992-10-03,North Carolina,ACC,Mack Brown,H,Navy,Ind,George Chaump,W,28,14
+1992-10-10,North Carolina,ACC,Mack Brown,A,Florida State,ACC,Bobby Bowden,L,13,36
+1992-10-17,North Carolina,ACC,Mack Brown,H,Virginia,ACC,George Welsh,W,27,7
+1992-10-24,North Carolina,ACC,Mack Brown,H,Georgia Tech,ACC,Bill Lewis,W,26,14
+1992-10-31,North Carolina,ACC,Mack Brown,A,Maryland,ACC,Mark Duffner,W,31,24
+1992-11-07,North Carolina,ACC,Mack Brown,A,Clemson,ACC,Ken Hatfield,L,7,40
+1992-11-21,North Carolina,ACC,Mack Brown,A,Duke,ACC,Barry Wilson,W,31,28
+1993-01-02,North Carolina,ACC,Mack Brown,N,Mississippi State,SEC,Jackie Sherrill,W,21,17
+1992-09-05,Miami (OH),MAC,Randy Walker,A,West Virginia,Big East,Don Nehlen,T,29,29
+1992-09-12,Miami (OH),MAC,Randy Walker,A,Indiana,Big Ten,Bill Mallory,L,0,16
+1992-09-19,Miami (OH),MAC,Randy Walker,H,Cincinnati,Ind,Tim Murphy,W,17,14
+1992-09-26,Miami (OH),MAC,Randy Walker,A,Ball State,MAC,Paul Schudel,L,9,19
+1992-10-03,Miami (OH),MAC,Randy Walker,A,Eastern Michigan,MAC,Jan Quarless,W,24,7
+1992-10-10,Miami (OH),MAC,Randy Walker,H,Central Michigan,MAC,Herb Deromedi,W,16,13
+1992-10-17,Miami (OH),MAC,Randy Walker,A,Ohio,MAC,Tom Lichtenberg,W,23,21
+1992-10-24,Miami (OH),MAC,Randy Walker,H,Toledo,MAC,Gary Pinkel,L,17,20
+1992-10-31,Miami (OH),MAC,Randy Walker,A,Bowling Green State,MAC,Gary Blackney,L,24,44
+1992-11-07,Miami (OH),MAC,Randy Walker,H,Western Michigan,MAC,Al Molde,W,20,7
+1992-11-14,Miami (OH),MAC,Randy Walker,H,Kent State,MAC,Pete Cordelli,W,31,14
+1992-09-12,Indiana,Big Ten,Bill Mallory,H,Miami (OH),MAC,Randy Walker,W,16,0
+1992-09-19,Indiana,Big Ten,Bill Mallory,A,Kentucky,SEC,Bill Curry,L,25,37
+1992-09-26,Indiana,Big Ten,Bill Mallory,H,Missouri,Big 8,Bob Stull,W,20,10
+1992-10-03,Indiana,Big Ten,Bill Mallory,A,Michigan State,Big Ten,George Perles,L,31,42
+1992-10-10,Indiana,Big Ten,Bill Mallory,A,Northwestern,Big Ten,Gary Barnett,W,28,3
+1992-10-17,Indiana,Big Ten,Bill Mallory,H,Michigan,Big Ten,Gary Moeller,L,3,31
+1992-10-24,Indiana,Big Ten,Bill Mallory,H,Wisconsin,Big Ten,Barry Alvarez,W,10,3
+1992-10-31,Indiana,Big Ten,Bill Mallory,A,Minnesota,Big Ten,Jim Wacker,W,24,17
+1992-11-07,Indiana,Big Ten,Bill Mallory,H,Iowa,Big Ten,Hayden Fry,L,0,14
+1992-11-14,Indiana,Big Ten,Bill Mallory,H,Ohio State,Big Ten,John Cooper,L,10,27
+1992-11-21,Indiana,Big Ten,Bill Mallory,A,Purdue,Big Ten,Jim Colletto,L,10,13
+1992-09-05,Florida State,ACC,Bobby Bowden,H,Duke,ACC,Barry Wilson,W,48,21
+1992-09-12,Florida State,ACC,Bobby Bowden,A,Clemson,ACC,Ken Hatfield,W,24,20
+1992-09-19,Florida State,ACC,Bobby Bowden,A,North Carolina State,ACC,Dick Sheridan,W,34,13
+1992-09-26,Florida State,ACC,Bobby Bowden,H,Wake Forest,ACC,Bill Dooley,W,35,7
+1992-10-03,Florida State,ACC,Bobby Bowden,A,Miami (FL),Big East,Dennis Erickson,L,16,19
+1992-10-10,Florida State,ACC,Bobby Bowden,H,North Carolina,ACC,Mack Brown,W,36,13
+1992-10-17,Florida State,ACC,Bobby Bowden,A,Georgia Tech,ACC,Bill Lewis,W,29,24
+1992-10-31,Florida State,ACC,Bobby Bowden,A,Virginia,ACC,George Welsh,W,13,3
+1992-11-07,Florida State,ACC,Bobby Bowden,H,Maryland,ACC,Mark Duffner,W,69,21
+1992-11-14,Florida State,ACC,Bobby Bowden,H,Tulane,Ind,Buddy Teevens,W,70,7
+1992-11-28,Florida State,ACC,Bobby Bowden,H,Florida,SEC,Steve Spurrier,W,45,24
+1993-01-01,Florida State,ACC,Bobby Bowden,N,Nebraska,Big 8,Tom Osborne,W,27,14
+1992-09-05,Iowa State,Big 8,Jim Walden,H,Ohio,MAC,Tom Lichtenberg,W,35,9
+1992-09-12,Iowa State,Big 8,Jim Walden,A,Iowa,Big Ten,Hayden Fry,L,7,21
+1992-09-19,Iowa State,Big 8,Jim Walden,H,Tulane,Ind,Buddy Teevens,W,38,14
+1992-10-03,Iowa State,Big 8,Jim Walden,A,Oklahoma,Big 8,Gary Gibbs,L,3,17
+1992-10-17,Iowa State,Big 8,Jim Walden,H,Kansas,Big 8,Glen Mason,L,47,50
+1992-10-24,Iowa State,Big 8,Jim Walden,A,Oklahoma State,Big 8,Pat Jones,L,21,27
+1992-10-31,Iowa State,Big 8,Jim Walden,H,Missouri,Big 8,Bob Stull,W,28,14
+1992-11-05,Iowa State,Big 8,Jim Walden,A,Kansas State,Big 8,Bill Snyder,L,13,22
+1992-11-14,Iowa State,Big 8,Jim Walden,H,Nebraska,Big 8,Tom Osborne,W,19,10
+1992-11-21,Iowa State,Big 8,Jim Walden,A,Colorado,Big 8,Bill McCartney,L,10,31
+1992-09-05,Cincinnati,Ind,Tim Murphy,H,Penn State,Ind,Joe Paterno,L,20,24
+1992-09-19,Cincinnati,Ind,Tim Murphy,A,Miami (OH),MAC,Randy Walker,L,14,17
+1992-09-26,Cincinnati,Ind,Tim Murphy,A,Tennessee,SEC,Phillip Fulmer,L,0,40
+1992-10-03,Cincinnati,Ind,Tim Murphy,H,Kent State,MAC,Pete Cordelli,W,31,0
+1992-10-10,Cincinnati,Ind,Tim Murphy,A,Memphis,Ind,Chuck Stobart,L,14,34
+1992-10-17,Cincinnati,Ind,Tim Murphy,A,East Carolina,Ind,Steve Logan,L,21,42
+1992-10-24,Cincinnati,Ind,Tim Murphy,A,Southern Mississippi,Ind,Jeff Bower,L,17,31
+1992-10-31,Cincinnati,Ind,Tim Murphy,H,Louisville,Ind,Howard Schnellenberger,L,17,27
+1992-11-07,Cincinnati,Ind,Tim Murphy,H,Rutgers,Big East,Doug Graber,W,26,24
+1992-11-14,Cincinnati,Ind,Tim Murphy,H,Kentucky,SEC,Bill Curry,W,17,13
+1992-11-21,Cincinnati,Ind,Tim Murphy,H,Akron,MAC,Gerry Faust,L,22,24
+1992-09-05,Arizona State,Pac-10,Bruce Snyder,H,Washington,Pac-10,Don James,L,7,31
+1992-09-19,Arizona State,Pac-10,Bruce Snyder,H,Louisville,Ind,Howard Schnellenberger,W,19,0
+1992-09-26,Arizona State,Pac-10,Bruce Snyder,A,Nebraska,Big 8,Tom Osborne,L,24,45
+1992-10-03,Arizona State,Pac-10,Bruce Snyder,A,Oregon,Pac-10,Rich Brooks,L,20,30
+1992-10-10,Arizona State,Pac-10,Bruce Snyder,H,Pacific,Big West,Chuck Shelton,W,39,5
+1992-10-17,Arizona State,Pac-10,Bruce Snyder,H,Oregon State,Pac-10,Jerry Pettibone,W,40,13
+1992-10-24,Arizona State,Pac-10,Bruce Snyder,A,UCLA,Pac-10,Terry Donahue,W,20,0
+1992-10-31,Arizona State,Pac-10,Bruce Snyder,H,USC,Pac-10,Larry Smith,L,13,23
+1992-11-07,Arizona State,Pac-10,Bruce Snyder,A,Washington State,Pac-10,Mike Price,L,18,20
+1992-11-14,Arizona State,Pac-10,Bruce Snyder,H,California,Pac-10,Keith Gilbertson,W,28,12
+1992-11-21,Arizona State,Pac-10,Bruce Snyder,A,Arizona,Pac-10,Dick Tomey,W,7,6
+1992-09-05,Utah,WAC,Ron McBride,A,Nebraska,Big 8,Tom Osborne,L,22,49
+1992-09-12,Utah,WAC,Ron McBride,A,Utah State,Big West,Charlie Weatherbie,W,42,18
+1992-09-26,Utah,WAC,Ron McBride,H,Oregon State,Pac-10,Jerry Pettibone,W,42,9
+1992-10-03,Utah,WAC,Ron McBride,A,Colorado State,WAC,Earle Bruce,W,33,29
+1992-10-10,Utah,WAC,Ron McBride,H,Hawaii,WAC,Bob Wagner,W,38,17
+1992-10-17,Utah,WAC,Ron McBride,A,New Mexico,WAC,Dennis Franchione,L,7,24
+1992-10-24,Utah,WAC,Ron McBride,H,UTEP,WAC,David Lee,L,13,20
+1992-10-31,Utah,WAC,Ron McBride,A,Air Force,WAC,Fisher DeBerry,W,20,13
+1992-11-07,Utah,WAC,Ron McBride,A,Fresno State,WAC,Jim Sweeney,L,15,41
+1992-11-14,Utah,WAC,Ron McBride,H,Wyoming,WAC,Joe Tiller,W,38,7
+1992-11-21,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,L,22,31
+1992-12-29,Utah,WAC,Ron McBride,N,Washington State,Pac-10,Mike Price,L,28,31
+1992-09-12,Cal State Fullerton,Big West,Gene Murphy,A,UCLA,Pac-10,Terry Donahue,L,14,37
+1992-09-19,Cal State Fullerton,Big West,Gene Murphy,A,Georgia,SEC,Ray Goff,L,0,56
+1992-10-03,Cal State Fullerton,Big West,Gene Murphy,H,Nevada,Big West,Chris Ault,L,0,19
+1992-10-10,Cal State Fullerton,Big West,Gene Murphy,A,San Jose State,Big West,Ron Turner,L,3,49
+1992-10-17,Cal State Fullerton,Big West,Gene Murphy,A,Louisiana,Ind,Nelson Stokley,W,14,10
+1992-10-31,Cal State Fullerton,Big West,Gene Murphy,H,Utah State,Big West,Charlie Weatherbie,L,7,26
+1992-11-07,Cal State Fullerton,Big West,Gene Murphy,A,Pacific,Big West,Chuck Shelton,L,20,23
+1992-11-14,Cal State Fullerton,Big West,Gene Murphy,A,New Mexico State,Big West,Jim Hess,L,31,44
+1992-11-28,Cal State Fullerton,Big West,Gene Murphy,A,Nevada-Las Vegas,Big West,Jim Strong,L,16,33
+1992-09-05,Syracuse,Big East,Paul Pasqualoni,A,East Carolina,Ind,Steve Logan,W,42,21
+1992-09-12,Syracuse,Big East,Paul Pasqualoni,H,Texas,SWC,John Mackovic,W,31,21
+1992-09-19,Syracuse,Big East,Paul Pasqualoni,H,Ohio State,Big Ten,John Cooper,L,12,35
+1992-10-03,Syracuse,Big East,Paul Pasqualoni,A,Louisville,Ind,Howard Schnellenberger,W,15,9
+1992-10-10,Syracuse,Big East,Paul Pasqualoni,H,Rutgers,Big East,Doug Graber,W,50,28
+1992-10-17,Syracuse,Big East,Paul Pasqualoni,A,West Virginia,Big East,Don Nehlen,W,20,17
+1992-10-24,Syracuse,Big East,Paul Pasqualoni,A,Temple,Big East,Jerry Berndt,W,38,7
+1992-10-31,Syracuse,Big East,Paul Pasqualoni,H,Pitt,Big East,Sal Sunseri,W,41,10
+1992-11-07,Syracuse,Big East,Paul Pasqualoni,H,Virginia Tech,Big East,Frank Beamer,W,28,9
+1992-11-14,Syracuse,Big East,Paul Pasqualoni,A,Boston College,Big East,Tom Coughlin,W,27,10
+1992-11-21,Syracuse,Big East,Paul Pasqualoni,H,Miami (FL),Big East,Dennis Erickson,L,10,16
+1993-01-01,Syracuse,Big East,Paul Pasqualoni,N,Colorado,Big 8,Bill McCartney,W,26,22
+1992-09-05,Arizona,Pac-10,Dick Tomey,H,Utah State,Big West,Charlie Weatherbie,W,49,3
+1992-09-12,Arizona,Pac-10,Dick Tomey,H,Washington State,Pac-10,Mike Price,L,20,23
+1992-09-19,Arizona,Pac-10,Dick Tomey,A,Oregon State,Pac-10,Jerry Pettibone,T,14,14
+1992-09-26,Arizona,Pac-10,Dick Tomey,A,Miami (FL),Big East,Dennis Erickson,L,7,8
+1992-10-03,Arizona,Pac-10,Dick Tomey,H,UCLA,Pac-10,Terry Donahue,W,23,3
+1992-10-17,Arizona,Pac-10,Dick Tomey,A,Stanford,Pac-10,Bill Walsh,W,21,6
+1992-10-24,Arizona,Pac-10,Dick Tomey,A,California,Pac-10,Keith Gilbertson,W,24,17
+1992-10-31,Arizona,Pac-10,Dick Tomey,H,New Mexico State,Big West,Jim Hess,W,30,0
+1992-11-07,Arizona,Pac-10,Dick Tomey,H,Washington,Pac-10,Don James,W,16,3
+1992-11-14,Arizona,Pac-10,Dick Tomey,A,USC,Pac-10,Larry Smith,L,7,14
+1992-11-21,Arizona,Pac-10,Dick Tomey,H,Arizona State,Pac-10,Bruce Snyder,L,6,7
+1992-12-31,Arizona,Pac-10,Dick Tomey,N,Baylor,SWC,Grant Teaff,L,15,20
+1992-09-05,Penn State,Ind,Joe Paterno,A,Cincinnati,Ind,Tim Murphy,W,24,20
+1992-09-12,Penn State,Ind,Joe Paterno,H,Temple,Big East,Jerry Berndt,W,49,8
+1992-09-19,Penn State,Ind,Joe Paterno,H,Eastern Michigan,MAC,Jan Quarless,W,52,7
+1992-09-26,Penn State,Ind,Joe Paterno,H,Maryland,ACC,Mark Duffner,W,49,13
+1992-10-03,Penn State,Ind,Joe Paterno,A,Rutgers,Big East,Doug Graber,W,38,24
+1992-10-10,Penn State,Ind,Joe Paterno,H,Miami (FL),Big East,Dennis Erickson,L,14,17
+1992-10-17,Penn State,Ind,Joe Paterno,H,Boston College,Big East,Tom Coughlin,L,32,35
+1992-10-24,Penn State,Ind,Joe Paterno,A,West Virginia,Big East,Don Nehlen,W,40,26
+1992-10-31,Penn State,Ind,Joe Paterno,A,Brigham Young,WAC,LaVell Edwards,L,17,30
+1992-11-14,Penn State,Ind,Joe Paterno,A,Notre Dame,Ind,Lou Holtz,L,16,17
+1992-11-21,Penn State,Ind,Joe Paterno,H,Pitt,Big East,Sal Sunseri,W,57,13
+1993-01-01,Penn State,Ind,Joe Paterno,N,Stanford,Pac-10,Bill Walsh,L,3,24
+1992-09-05,Vanderbilt,SEC,Gerry DiNardo,A,Alabama,SEC,Gene Stallings,L,8,25
+1992-09-12,Vanderbilt,SEC,Gerry DiNardo,H,Duke,ACC,Barry Wilson,W,42,37
+1992-09-19,Vanderbilt,SEC,Gerry DiNardo,H,Ole Miss,SEC,Billy Brewer,W,31,9
+1992-10-03,Vanderbilt,SEC,Gerry DiNardo,A,Auburn,SEC,Pat Dye,L,7,31
+1992-10-10,Vanderbilt,SEC,Gerry DiNardo,H,Wake Forest,ACC,Bill Dooley,L,6,40
+1992-10-17,Vanderbilt,SEC,Gerry DiNardo,A,Georgia,SEC,Ray Goff,L,20,30
+1992-10-24,Vanderbilt,SEC,Gerry DiNardo,H,South Carolina,SEC,Sparky Woods,L,17,21
+1992-11-07,Vanderbilt,SEC,Gerry DiNardo,A,Kentucky,SEC,Bill Curry,W,20,7
+1992-11-14,Vanderbilt,SEC,Gerry DiNardo,A,Navy,Ind,George Chaump,W,27,7
+1992-11-21,Vanderbilt,SEC,Gerry DiNardo,H,Florida,SEC,Steve Spurrier,L,21,41
+1992-11-28,Vanderbilt,SEC,Gerry DiNardo,H,Tennessee,SEC,Phillip Fulmer,L,25,29
+1992-09-05,Kentucky,SEC,Bill Curry,H,Central Michigan,MAC,Herb Deromedi,W,21,14
+1992-09-12,Kentucky,SEC,Bill Curry,A,Florida,SEC,Steve Spurrier,L,19,35
+1992-09-19,Kentucky,SEC,Bill Curry,H,Indiana,Big Ten,Bill Mallory,W,37,25
+1992-09-26,Kentucky,SEC,Bill Curry,H,South Carolina,SEC,Sparky Woods,W,13,9
+1992-10-03,Kentucky,SEC,Bill Curry,A,Ole Miss,SEC,Billy Brewer,L,14,24
+1992-10-17,Kentucky,SEC,Bill Curry,A,LSU,SEC,Curley Hallman,W,27,25
+1992-10-24,Kentucky,SEC,Bill Curry,H,Georgia,SEC,Ray Goff,L,7,40
+1992-10-31,Kentucky,SEC,Bill Curry,H,Mississippi State,SEC,Jackie Sherrill,L,36,37
+1992-11-07,Kentucky,SEC,Bill Curry,H,Vanderbilt,SEC,Gerry DiNardo,L,7,20
+1992-11-14,Kentucky,SEC,Bill Curry,A,Cincinnati,Ind,Tim Murphy,L,13,17
+1992-11-21,Kentucky,SEC,Bill Curry,A,Tennessee,SEC,Phillip Fulmer,L,13,34
+1992-09-05,California,Pac-10,Keith Gilbertson,H,San Jose State,Big West,Ron Turner,W,46,16
+1992-09-12,California,Pac-10,Keith Gilbertson,A,Purdue,Big Ten,Jim Colletto,L,14,41
+1992-09-24,California,Pac-10,Keith Gilbertson,A,Kansas,Big 8,Glen Mason,W,27,23
+1992-10-03,California,Pac-10,Keith Gilbertson,H,Oregon State,Pac-10,Jerry Pettibone,W,42,0
+1992-10-10,California,Pac-10,Keith Gilbertson,A,Washington,Pac-10,Don James,L,16,35
+1992-10-17,California,Pac-10,Keith Gilbertson,A,USC,Pac-10,Larry Smith,L,24,27
+1992-10-24,California,Pac-10,Keith Gilbertson,H,Arizona,Pac-10,Dick Tomey,L,17,24
+1992-10-31,California,Pac-10,Keith Gilbertson,H,UCLA,Pac-10,Terry Donahue,W,48,12
+1992-11-07,California,Pac-10,Keith Gilbertson,A,Oregon,Pac-10,Rich Brooks,L,17,37
+1992-11-14,California,Pac-10,Keith Gilbertson,A,Arizona State,Pac-10,Bruce Snyder,L,12,28
+1992-11-21,California,Pac-10,Keith Gilbertson,H,Stanford,Pac-10,Bill Walsh,L,21,41
+1992-09-12,Florida,SEC,Steve Spurrier,H,Kentucky,SEC,Bill Curry,W,35,19
+1992-09-19,Florida,SEC,Steve Spurrier,A,Tennessee,SEC,Phillip Fulmer,L,14,31
+1992-10-01,Florida,SEC,Steve Spurrier,A,Mississippi State,SEC,Jackie Sherrill,L,6,30
+1992-10-10,Florida,SEC,Steve Spurrier,H,LSU,SEC,Curley Hallman,W,28,21
+1992-10-17,Florida,SEC,Steve Spurrier,H,Auburn,SEC,Pat Dye,W,24,9
+1992-10-24,Florida,SEC,Steve Spurrier,H,Louisville,Ind,Howard Schnellenberger,W,31,17
+1992-10-31,Florida,SEC,Steve Spurrier,N,Georgia,SEC,Ray Goff,W,26,24
+1992-11-07,Florida,SEC,Steve Spurrier,H,Southern Mississippi,Ind,Jeff Bower,W,24,20
+1992-11-14,Florida,SEC,Steve Spurrier,H,South Carolina,SEC,Sparky Woods,W,14,9
+1992-11-21,Florida,SEC,Steve Spurrier,A,Vanderbilt,SEC,Gerry DiNardo,W,41,21
+1992-11-28,Florida,SEC,Steve Spurrier,A,Florida State,ACC,Bobby Bowden,L,24,45
+1992-12-05,Florida,SEC,Steve Spurrier,A,Alabama,SEC,Gene Stallings,L,21,28
+1992-12-31,Florida,SEC,Steve Spurrier,N,North Carolina State,ACC,Dick Sheridan,W,27,10
+1992-08-26,Stanford,Pac-10,Bill Walsh,N,Texas A&M,SWC,R.C. Slocum,L,7,10
+1992-09-12,Stanford,Pac-10,Bill Walsh,H,Oregon,Pac-10,Rich Brooks,W,21,7
+1992-09-19,Stanford,Pac-10,Bill Walsh,H,Northwestern,Big Ten,Gary Barnett,W,35,24
+1992-09-26,Stanford,Pac-10,Bill Walsh,H,San Jose State,Big West,Ron Turner,W,37,13
+1992-10-03,Stanford,Pac-10,Bill Walsh,A,Notre Dame,Ind,Lou Holtz,W,33,16
+1992-10-10,Stanford,Pac-10,Bill Walsh,A,UCLA,Pac-10,Terry Donahue,W,19,7
+1992-10-17,Stanford,Pac-10,Bill Walsh,H,Arizona,Pac-10,Dick Tomey,L,6,21
+1992-10-24,Stanford,Pac-10,Bill Walsh,A,Oregon State,Pac-10,Jerry Pettibone,W,27,21
+1992-10-31,Stanford,Pac-10,Bill Walsh,A,Washington,Pac-10,Don James,L,7,41
+1992-11-07,Stanford,Pac-10,Bill Walsh,H,USC,Pac-10,Larry Smith,W,23,9
+1992-11-14,Stanford,Pac-10,Bill Walsh,H,Washington State,Pac-10,Mike Price,W,40,3
+1992-11-21,Stanford,Pac-10,Bill Walsh,A,California,Pac-10,Keith Gilbertson,W,41,21
+1993-01-01,Stanford,Pac-10,Bill Walsh,N,Penn State,Ind,Joe Paterno,W,24,3
+1992-09-12,Washington State,Pac-10,Mike Price,A,Arizona,Pac-10,Dick Tomey,W,23,20
+1992-09-26,Washington State,Pac-10,Mike Price,A,Fresno State,WAC,Jim Sweeney,W,39,37
+1992-10-03,Washington State,Pac-10,Mike Price,H,Temple,Big East,Jerry Berndt,W,51,10
+1992-10-10,Washington State,Pac-10,Mike Price,A,Oregon State,Pac-10,Jerry Pettibone,W,35,10
+1992-10-17,Washington State,Pac-10,Mike Price,H,UCLA,Pac-10,Terry Donahue,W,30,17
+1992-10-24,Washington State,Pac-10,Mike Price,A,USC,Pac-10,Larry Smith,L,21,31
+1992-10-31,Washington State,Pac-10,Mike Price,H,Oregon,Pac-10,Rich Brooks,L,17,34
+1992-11-07,Washington State,Pac-10,Mike Price,H,Arizona State,Pac-10,Bruce Snyder,W,20,18
+1992-11-14,Washington State,Pac-10,Mike Price,A,Stanford,Pac-10,Bill Walsh,L,3,40
+1992-11-21,Washington State,Pac-10,Mike Price,H,Washington,Pac-10,Don James,W,42,23
+1992-12-29,Washington State,Pac-10,Mike Price,N,Utah,WAC,Ron McBride,W,31,28
+1992-09-05,Illinois,Big Ten,Lou Tepper,H,Northern Illinois,Ind,Charlie Sadler,W,30,14
+1992-09-12,Illinois,Big Ten,Lou Tepper,H,Missouri,Big 8,Bob Stull,W,24,17
+1992-09-19,Illinois,Big Ten,Lou Tepper,A,Houston,SWC,John Jenkins,L,13,31
+1992-10-03,Illinois,Big Ten,Lou Tepper,A,Minnesota,Big Ten,Jim Wacker,L,17,18
+1992-10-10,Illinois,Big Ten,Lou Tepper,A,Ohio State,Big Ten,John Cooper,W,18,16
+1992-10-17,Illinois,Big Ten,Lou Tepper,H,Iowa,Big Ten,Hayden Fry,L,14,24
+1992-10-24,Illinois,Big Ten,Lou Tepper,H,Northwestern,Big Ten,Gary Barnett,L,26,27
+1992-10-31,Illinois,Big Ten,Lou Tepper,A,Wisconsin,Big Ten,Barry Alvarez,W,13,12
+1992-11-07,Illinois,Big Ten,Lou Tepper,H,Purdue,Big Ten,Jim Colletto,W,20,17
+1992-11-14,Illinois,Big Ten,Lou Tepper,A,Michigan,Big Ten,Gary Moeller,T,22,22
+1992-11-21,Illinois,Big Ten,Lou Tepper,H,Michigan State,Big Ten,George Perles,W,14,10
+1992-12-30,Illinois,Big Ten,Lou Tepper,N,Hawaii,WAC,Bob Wagner,L,17,27
+1992-09-05,Baylor,SWC,Grant Teaff,H,Louisiana Tech,Ind,Joe Peace,L,9,10
+1992-09-12,Baylor,SWC,Grant Teaff,H,Colorado,Big 8,Bill McCartney,L,38,57
+1992-09-19,Baylor,SWC,Grant Teaff,H,Utah State,Big West,Charlie Weatherbie,W,45,10
+1992-09-26,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Spike Dykes,L,17,36
+1992-10-03,Baylor,SWC,Grant Teaff,H,SMU,SWC,Tom Rossley,W,49,7
+1992-10-10,Baylor,SWC,Grant Teaff,A,Texas Christian,SWC,Pat Sullivan,W,41,20
+1992-10-17,Baylor,SWC,Grant Teaff,H,Houston,SWC,John Jenkins,W,29,23
+1992-10-24,Baylor,SWC,Grant Teaff,A,Texas A&M,SWC,R.C. Slocum,L,13,19
+1992-11-07,Baylor,SWC,Grant Teaff,H,Georgia Tech,ACC,Bill Lewis,W,31,27
+1992-11-14,Baylor,SWC,Grant Teaff,A,Rice,SWC,Fred Goldsmith,L,31,34
+1992-11-21,Baylor,SWC,Grant Teaff,H,Texas,SWC,John Mackovic,W,21,20
+1992-12-31,Baylor,SWC,Grant Teaff,N,Arizona,Pac-10,Dick Tomey,W,20,15
+1992-09-05,SMU,SWC,Tom Rossley,H,Tulane,Ind,Buddy Teevens,L,12,13
+1992-09-19,SMU,SWC,Tom Rossley,A,New Mexico,WAC,Dennis Franchione,W,20,13
+1992-09-26,SMU,SWC,Tom Rossley,H,Texas Christian,SWC,Pat Sullivan,W,21,9
+1992-10-03,SMU,SWC,Tom Rossley,A,Baylor,SWC,Grant Teaff,L,7,49
+1992-10-10,SMU,SWC,Tom Rossley,A,Rice,SWC,Fred Goldsmith,L,13,28
+1992-10-24,SMU,SWC,Tom Rossley,A,Texas Tech,SWC,Spike Dykes,L,25,39
+1992-10-31,SMU,SWC,Tom Rossley,H,Texas A&M,SWC,R.C. Slocum,L,7,41
+1992-11-07,SMU,SWC,Tom Rossley,H,Houston,SWC,John Jenkins,W,41,16
+1992-11-14,SMU,SWC,Tom Rossley,A,Texas,SWC,John Mackovic,L,14,35
+1992-11-21,SMU,SWC,Tom Rossley,A,Arkansas,SEC,Joe Kines,W,24,19
+1992-09-05,Georgia,SEC,Ray Goff,A,South Carolina,SEC,Sparky Woods,W,28,6
+1992-09-12,Georgia,SEC,Ray Goff,H,Tennessee,SEC,Phillip Fulmer,L,31,34
+1992-09-19,Georgia,SEC,Ray Goff,H,Cal State Fullerton,Big West,Gene Murphy,W,56,0
+1992-09-26,Georgia,SEC,Ray Goff,H,Ole Miss,SEC,Billy Brewer,W,37,11
+1992-10-03,Georgia,SEC,Ray Goff,A,Arkansas,SEC,Joe Kines,W,27,3
+1992-10-17,Georgia,SEC,Ray Goff,H,Vanderbilt,SEC,Gerry DiNardo,W,30,20
+1992-10-24,Georgia,SEC,Ray Goff,A,Kentucky,SEC,Bill Curry,W,40,7
+1992-10-31,Georgia,SEC,Ray Goff,N,Florida,SEC,Steve Spurrier,L,24,26
+1992-11-14,Georgia,SEC,Ray Goff,A,Auburn,SEC,Pat Dye,W,14,10
+1992-11-28,Georgia,SEC,Ray Goff,H,Georgia Tech,ACC,Bill Lewis,W,31,17
+1993-01-01,Georgia,SEC,Ray Goff,N,Ohio State,Big Ten,John Cooper,W,21,14
+1992-09-05,Maryland,ACC,Mark Duffner,A,Virginia,ACC,George Welsh,L,15,28
+1992-09-12,Maryland,ACC,Mark Duffner,H,North Carolina State,ACC,Dick Sheridan,L,10,14
+1992-09-19,Maryland,ACC,Mark Duffner,A,West Virginia,Big East,Don Nehlen,L,33,34
+1992-09-26,Maryland,ACC,Mark Duffner,A,Penn State,Ind,Joe Paterno,L,13,49
+1992-10-03,Maryland,ACC,Mark Duffner,H,Pitt,Big East,Sal Sunseri,W,47,34
+1992-10-10,Maryland,ACC,Mark Duffner,H,Georgia Tech,ACC,Bill Lewis,L,26,28
+1992-10-17,Maryland,ACC,Mark Duffner,H,Wake Forest,ACC,Bill Dooley,L,23,30
+1992-10-24,Maryland,ACC,Mark Duffner,A,Duke,ACC,Barry Wilson,W,27,25
+1992-10-31,Maryland,ACC,Mark Duffner,H,North Carolina,ACC,Mack Brown,L,24,31
+1992-11-07,Maryland,ACC,Mark Duffner,A,Florida State,ACC,Bobby Bowden,L,21,69
+1992-11-14,Maryland,ACC,Mark Duffner,H,Clemson,ACC,Ken Hatfield,W,53,23
+1992-09-05,Virginia,ACC,George Welsh,H,Maryland,ACC,Mark Duffner,W,28,15
+1992-09-12,Virginia,ACC,George Welsh,A,Navy,Ind,George Chaump,W,53,0
+1992-09-19,Virginia,ACC,George Welsh,H,Georgia Tech,ACC,Bill Lewis,W,55,24
+1992-09-26,Virginia,ACC,George Welsh,A,Duke,ACC,Barry Wilson,W,55,28
+1992-10-03,Virginia,ACC,George Welsh,A,Wake Forest,ACC,Bill Dooley,W,31,17
+1992-10-10,Virginia,ACC,George Welsh,H,Clemson,ACC,Ken Hatfield,L,28,29
+1992-10-17,Virginia,ACC,George Welsh,A,North Carolina,ACC,Mack Brown,L,7,27
+1992-10-31,Virginia,ACC,George Welsh,H,Florida State,ACC,Bobby Bowden,L,3,13
+1992-11-07,Virginia,ACC,George Welsh,H,North Carolina State,ACC,Dick Sheridan,L,7,31
+1992-11-21,Virginia,ACC,George Welsh,A,Virginia Tech,Big East,Frank Beamer,W,41,38
+1992-09-03,Oklahoma,Big 8,Gary Gibbs,A,Texas Tech,SWC,Spike Dykes,W,34,9
+1992-09-12,Oklahoma,Big 8,Gary Gibbs,H,Arkansas State,Ind,Ray Perkins,W,61,0
+1992-09-19,Oklahoma,Big 8,Gary Gibbs,H,USC,Pac-10,Larry Smith,L,10,20
+1992-10-03,Oklahoma,Big 8,Gary Gibbs,H,Iowa State,Big 8,Jim Walden,W,17,3
+1992-10-10,Oklahoma,Big 8,Gary Gibbs,N,Texas,SWC,John Mackovic,L,24,34
+1992-10-17,Oklahoma,Big 8,Gary Gibbs,A,Colorado,Big 8,Bill McCartney,T,24,24
+1992-10-24,Oklahoma,Big 8,Gary Gibbs,A,Kansas,Big 8,Glen Mason,L,10,27
+1992-10-31,Oklahoma,Big 8,Gary Gibbs,H,Kansas State,Big 8,Bill Snyder,W,16,14
+1992-11-07,Oklahoma,Big 8,Gary Gibbs,H,Missouri,Big 8,Bob Stull,W,51,17
+1992-11-14,Oklahoma,Big 8,Gary Gibbs,A,Oklahoma State,Big 8,Pat Jones,T,15,15
+1992-11-27,Oklahoma,Big 8,Gary Gibbs,H,Nebraska,Big 8,Tom Osborne,L,9,33
+1992-09-12,Virginia Tech,Big East,Frank Beamer,A,East Carolina,Ind,Steve Logan,L,27,30
+1992-09-19,Virginia Tech,Big East,Frank Beamer,A,Temple,Big East,Jerry Berndt,W,26,7
+1992-09-26,Virginia Tech,Big East,Frank Beamer,H,West Virginia,Big East,Don Nehlen,L,7,16
+1992-10-10,Virginia Tech,Big East,Frank Beamer,A,Louisville,Ind,Howard Schnellenberger,L,17,21
+1992-10-17,Virginia Tech,Big East,Frank Beamer,H,North Carolina State,ACC,Dick Sheridan,T,13,13
+1992-10-24,Virginia Tech,Big East,Frank Beamer,H,Miami (FL),Big East,Dennis Erickson,L,23,43
+1992-10-31,Virginia Tech,Big East,Frank Beamer,A,Rutgers,Big East,Doug Graber,L,49,50
+1992-11-07,Virginia Tech,Big East,Frank Beamer,A,Syracuse,Big East,Paul Pasqualoni,L,9,28
+1992-11-14,Virginia Tech,Big East,Frank Beamer,H,Southern Mississippi,Ind,Jeff Bower,L,12,13
+1992-11-21,Virginia Tech,Big East,Frank Beamer,H,Virginia,ACC,George Welsh,L,38,41
+1992-09-05,Louisville,Ind,Howard Schnellenberger,A,Ohio State,Big Ten,John Cooper,L,19,20
+1992-09-12,Louisville,Ind,Howard Schnellenberger,H,Memphis,Ind,Chuck Stobart,W,16,15
+1992-09-19,Louisville,Ind,Howard Schnellenberger,A,Arizona State,Pac-10,Bruce Snyder,L,0,19
+1992-09-26,Louisville,Ind,Howard Schnellenberger,H,Wyoming,WAC,Joe Tiller,L,24,26
+1992-10-03,Louisville,Ind,Howard Schnellenberger,H,Syracuse,Big East,Paul Pasqualoni,L,9,15
+1992-10-10,Louisville,Ind,Howard Schnellenberger,H,Virginia Tech,Big East,Frank Beamer,W,21,17
+1992-10-17,Louisville,Ind,Howard Schnellenberger,H,Tulsa,Ind,David Rader,W,32,27
+1992-10-24,Louisville,Ind,Howard Schnellenberger,A,Florida,SEC,Steve Spurrier,L,17,31
+1992-10-31,Louisville,Ind,Howard Schnellenberger,A,Cincinnati,Ind,Tim Murphy,W,27,17
+1992-11-07,Louisville,Ind,Howard Schnellenberger,A,Texas A&M,SWC,R.C. Slocum,L,18,40
+1992-11-14,Louisville,Ind,Howard Schnellenberger,A,Pitt,Big East,Sal Sunseri,W,31,16
+1992-09-12,Arkansas,SEC,Joe Kines,A,South Carolina,SEC,Sparky Woods,W,45,7
+1992-09-19,Arkansas,SEC,Joe Kines,H,Alabama,SEC,Gene Stallings,L,11,38
+1992-09-26,Arkansas,SEC,Joe Kines,A,Memphis,Ind,Chuck Stobart,L,6,22
+1992-10-03,Arkansas,SEC,Joe Kines,H,Georgia,SEC,Ray Goff,L,3,27
+1992-10-10,Arkansas,SEC,Joe Kines,A,Tennessee,SEC,Phillip Fulmer,W,25,24
+1992-10-17,Arkansas,SEC,Joe Kines,H,Ole Miss,SEC,Billy Brewer,L,3,17
+1992-10-31,Arkansas,SEC,Joe Kines,A,Auburn,SEC,Pat Dye,T,24,24
+1992-11-07,Arkansas,SEC,Joe Kines,A,Mississippi State,SEC,Jackie Sherrill,L,3,10
+1992-11-21,Arkansas,SEC,Joe Kines,H,SMU,SWC,Tom Rossley,L,19,24
+1992-11-27,Arkansas,SEC,Joe Kines,H,LSU,SEC,Curley Hallman,W,30,6
+1992-09-05,Clemson,ACC,Ken Hatfield,H,Ball State,MAC,Paul Schudel,W,24,10
+1992-09-12,Clemson,ACC,Ken Hatfield,H,Florida State,ACC,Bobby Bowden,L,20,24
+1992-09-26,Clemson,ACC,Ken Hatfield,A,Georgia Tech,ACC,Bill Lewis,L,16,20
+1992-10-10,Clemson,ACC,Ken Hatfield,A,Virginia,ACC,George Welsh,W,29,28
+1992-10-17,Clemson,ACC,Ken Hatfield,H,Duke,ACC,Barry Wilson,W,21,6
+1992-10-24,Clemson,ACC,Ken Hatfield,A,North Carolina State,ACC,Dick Sheridan,L,6,20
+1992-10-31,Clemson,ACC,Ken Hatfield,A,Wake Forest,ACC,Bill Dooley,L,15,18
+1992-11-07,Clemson,ACC,Ken Hatfield,H,North Carolina,ACC,Mack Brown,W,40,7
+1992-11-14,Clemson,ACC,Ken Hatfield,A,Maryland,ACC,Mark Duffner,L,23,53
+1992-11-21,Clemson,ACC,Ken Hatfield,H,South Carolina,SEC,Sparky Woods,L,13,24
+1992-09-05,South Carolina,SEC,Sparky Woods,H,Georgia,SEC,Ray Goff,L,6,28
+1992-09-12,South Carolina,SEC,Sparky Woods,H,Arkansas,SEC,Joe Kines,L,7,45
+1992-09-19,South Carolina,SEC,Sparky Woods,H,East Carolina,Ind,Steve Logan,L,18,20
+1992-09-26,South Carolina,SEC,Sparky Woods,A,Kentucky,SEC,Bill Curry,L,9,13
+1992-10-03,South Carolina,SEC,Sparky Woods,A,Alabama,SEC,Gene Stallings,L,7,48
+1992-10-17,South Carolina,SEC,Sparky Woods,H,Mississippi State,SEC,Jackie Sherrill,W,21,6
+1992-10-24,South Carolina,SEC,Sparky Woods,A,Vanderbilt,SEC,Gerry DiNardo,W,21,17
+1992-10-31,South Carolina,SEC,Sparky Woods,H,Tennessee,SEC,Phillip Fulmer,W,24,23
+1992-11-07,South Carolina,SEC,Sparky Woods,H,Louisiana Tech,Ind,Joe Peace,W,14,13
+1992-11-14,South Carolina,SEC,Sparky Woods,A,Florida,SEC,Steve Spurrier,L,9,14
+1992-11-21,South Carolina,SEC,Sparky Woods,A,Clemson,ACC,Ken Hatfield,W,24,13
+1992-09-05,Washington,Pac-10,Don James,A,Arizona State,Pac-10,Bruce Snyder,W,31,7
+1992-09-12,Washington,Pac-10,Don James,H,Wisconsin,Big Ten,Barry Alvarez,W,27,10
+1992-09-19,Washington,Pac-10,Don James,H,Nebraska,Big 8,Tom Osborne,W,29,14
+1992-10-03,Washington,Pac-10,Don James,H,USC,Pac-10,Larry Smith,W,17,10
+1992-10-10,Washington,Pac-10,Don James,H,California,Pac-10,Keith Gilbertson,W,35,16
+1992-10-17,Washington,Pac-10,Don James,A,Oregon,Pac-10,Rich Brooks,W,24,3
+1992-10-24,Washington,Pac-10,Don James,H,Pacific,Big West,Chuck Shelton,W,31,7
+1992-10-31,Washington,Pac-10,Don James,H,Stanford,Pac-10,Bill Walsh,W,41,7
+1992-11-07,Washington,Pac-10,Don James,A,Arizona,Pac-10,Dick Tomey,L,3,16
+1992-11-14,Washington,Pac-10,Don James,H,Oregon State,Pac-10,Jerry Pettibone,W,45,16
+1992-11-21,Washington,Pac-10,Don James,A,Washington State,Pac-10,Mike Price,L,23,42
+1993-01-01,Washington,Pac-10,Don James,N,Michigan,Big Ten,Gary Moeller,L,31,38
+1992-09-05,Ball State,MAC,Paul Schudel,A,Clemson,ACC,Ken Hatfield,L,10,24
+1992-09-12,Ball State,MAC,Paul Schudel,A,Kansas,Big 8,Glen Mason,L,10,62
+1992-09-19,Ball State,MAC,Paul Schudel,A,Kent State,MAC,Pete Cordelli,W,10,6
+1992-09-26,Ball State,MAC,Paul Schudel,H,Miami (OH),MAC,Randy Walker,W,19,9
+1992-10-03,Ball State,MAC,Paul Schudel,A,Western Michigan,MAC,Al Molde,L,14,21
+1992-10-10,Ball State,MAC,Paul Schudel,H,Eastern Michigan,MAC,Jan Quarless,W,31,7
+1992-10-17,Ball State,MAC,Paul Schudel,H,Akron,MAC,Gerry Faust,L,14,22
+1992-10-24,Ball State,MAC,Paul Schudel,H,Central Michigan,MAC,Herb Deromedi,W,24,23
+1992-10-31,Ball State,MAC,Paul Schudel,A,Ohio,MAC,Tom Lichtenberg,W,24,21
+1992-11-07,Ball State,MAC,Paul Schudel,H,Toledo,MAC,Gary Pinkel,L,9,10
+1992-11-14,Ball State,MAC,Paul Schudel,A,Bowling Green State,MAC,Gary Blackney,L,6,38
+1992-09-05,Southern Mississippi,Ind,Jeff Bower,H,Memphis,Ind,Chuck Stobart,W,23,21
+1992-09-12,Southern Mississippi,Ind,Jeff Bower,A,Alabama,SEC,Gene Stallings,L,10,17
+1992-09-19,Southern Mississippi,Ind,Jeff Bower,H,Louisiana Tech,Ind,Joe Peace,W,16,13
+1992-09-26,Southern Mississippi,Ind,Jeff Bower,A,Auburn,SEC,Pat Dye,L,8,16
+1992-10-03,Southern Mississippi,Ind,Jeff Bower,H,Tulsa,Ind,David Rader,W,33,24
+1992-10-10,Southern Mississippi,Ind,Jeff Bower,A,Northern Illinois,Ind,Charlie Sadler,L,10,23
+1992-10-15,Southern Mississippi,Ind,Jeff Bower,A,Tulane,Ind,Buddy Teevens,W,17,7
+1992-10-24,Southern Mississippi,Ind,Jeff Bower,H,Cincinnati,Ind,Tim Murphy,W,31,17
+1992-10-29,Southern Mississippi,Ind,Jeff Bower,A,East Carolina,Ind,Steve Logan,W,38,21
+1992-11-07,Southern Mississippi,Ind,Jeff Bower,A,Florida,SEC,Steve Spurrier,L,20,24
+1992-11-14,Southern Mississippi,Ind,Jeff Bower,A,Virginia Tech,Big East,Frank Beamer,W,13,12
+1992-09-05,Utah State,Big West,Charlie Weatherbie,A,Arizona,Pac-10,Dick Tomey,L,3,49
+1992-09-12,Utah State,Big West,Charlie Weatherbie,H,Utah,WAC,Ron McBride,L,18,42
+1992-09-19,Utah State,Big West,Charlie Weatherbie,A,Baylor,SWC,Grant Teaff,L,10,45
+1992-09-26,Utah State,Big West,Charlie Weatherbie,H,New Mexico State,Big West,Jim Hess,W,48,21
+1992-10-02,Utah State,Big West,Charlie Weatherbie,A,Brigham Young,WAC,LaVell Edwards,L,9,30
+1992-10-17,Utah State,Big West,Charlie Weatherbie,H,Kansas State,Big 8,Bill Snyder,W,28,16
+1992-10-24,Utah State,Big West,Charlie Weatherbie,H,San Jose State,Big West,Ron Turner,L,25,27
+1992-10-31,Utah State,Big West,Charlie Weatherbie,A,Cal State Fullerton,Big West,Gene Murphy,W,26,7
+1992-11-07,Utah State,Big West,Charlie Weatherbie,H,Nevada-Las Vegas,Big West,Jim Strong,W,48,8
+1992-11-14,Utah State,Big West,Charlie Weatherbie,A,Nevada,Big West,Chris Ault,L,47,48
+1992-11-21,Utah State,Big West,Charlie Weatherbie,A,Pacific,Big West,Chuck Shelton,W,38,35
+1992-09-12,Missouri,Big 8,Bob Stull,A,Illinois,Big Ten,Lou Tepper,L,17,24
+1992-09-19,Missouri,Big 8,Bob Stull,H,Texas A&M,SWC,R.C. Slocum,L,13,26
+1992-09-26,Missouri,Big 8,Bob Stull,A,Indiana,Big Ten,Bill Mallory,L,10,20
+1992-10-08,Missouri,Big 8,Bob Stull,H,Colorado,Big 8,Bill McCartney,L,0,6
+1992-10-17,Missouri,Big 8,Bob Stull,A,Oklahoma State,Big 8,Pat Jones,L,26,28
+1992-10-24,Missouri,Big 8,Bob Stull,H,Nebraska,Big 8,Tom Osborne,L,24,34
+1992-10-31,Missouri,Big 8,Bob Stull,A,Iowa State,Big 8,Jim Walden,L,14,28
+1992-11-07,Missouri,Big 8,Bob Stull,A,Oklahoma,Big 8,Gary Gibbs,L,17,51
+1992-11-14,Missouri,Big 8,Bob Stull,H,Kansas State,Big 8,Bill Snyder,W,27,14
+1992-11-21,Missouri,Big 8,Bob Stull,H,Kansas,Big 8,Glen Mason,W,22,17
+1992-09-05,San Jose State,Big West,Ron Turner,A,California,Pac-10,Keith Gilbertson,L,16,46
+1992-09-12,San Jose State,Big West,Ron Turner,A,Minnesota,Big Ten,Jim Wacker,W,39,30
+1992-09-19,San Jose State,Big West,Ron Turner,H,Louisiana,Ind,Nelson Stokley,W,38,13
+1992-09-26,San Jose State,Big West,Ron Turner,A,Stanford,Pac-10,Bill Walsh,L,13,37
+1992-10-03,San Jose State,Big West,Ron Turner,A,Wyoming,WAC,Joe Tiller,W,26,24
+1992-10-10,San Jose State,Big West,Ron Turner,H,Cal State Fullerton,Big West,Gene Murphy,W,49,3
+1992-10-24,San Jose State,Big West,Ron Turner,A,Utah State,Big West,Charlie Weatherbie,W,27,25
+1992-10-31,San Jose State,Big West,Ron Turner,A,Nevada-Las Vegas,Big West,Jim Strong,L,31,35
+1992-11-07,San Jose State,Big West,Ron Turner,H,Nevada,Big West,Chris Ault,W,39,35
+1992-11-14,San Jose State,Big West,Ron Turner,A,Pacific,Big West,Chuck Shelton,W,28,27
+1992-11-21,San Jose State,Big West,Ron Turner,H,New Mexico State,Big West,Jim Hess,L,24,34
+1992-09-03,Bowling Green State,MAC,Gary Blackney,H,Western Michigan,MAC,Al Molde,W,29,19
+1992-09-12,Bowling Green State,MAC,Gary Blackney,A,Ohio State,Big Ten,John Cooper,L,6,17
+1992-09-19,Bowling Green State,MAC,Gary Blackney,A,Wisconsin,Big Ten,Barry Alvarez,L,18,39
+1992-09-26,Bowling Green State,MAC,Gary Blackney,H,East Carolina,Ind,Steve Logan,W,44,34
+1992-10-03,Bowling Green State,MAC,Gary Blackney,A,Central Michigan,MAC,Herb Deromedi,W,17,14
+1992-10-10,Bowling Green State,MAC,Gary Blackney,H,Ohio,MAC,Tom Lichtenberg,W,31,14
+1992-10-17,Bowling Green State,MAC,Gary Blackney,A,Toledo,MAC,Gary Pinkel,W,10,9
+1992-10-24,Bowling Green State,MAC,Gary Blackney,A,Akron,MAC,Gerry Faust,W,24,3
+1992-10-31,Bowling Green State,MAC,Gary Blackney,H,Miami (OH),MAC,Randy Walker,W,44,24
+1992-11-07,Bowling Green State,MAC,Gary Blackney,A,Kent State,MAC,Pete Cordelli,W,28,22
+1992-11-14,Bowling Green State,MAC,Gary Blackney,H,Ball State,MAC,Paul Schudel,W,38,6
+1992-12-18,Bowling Green State,MAC,Gary Blackney,N,Nevada,Big West,Chris Ault,W,35,34
+1992-09-12,Wisconsin,Big Ten,Barry Alvarez,A,Washington,Pac-10,Don James,L,10,27
+1992-09-19,Wisconsin,Big Ten,Barry Alvarez,H,Bowling Green State,MAC,Gary Blackney,W,39,18
+1992-09-26,Wisconsin,Big Ten,Barry Alvarez,H,Northern Illinois,Ind,Charlie Sadler,W,18,17
+1992-10-03,Wisconsin,Big Ten,Barry Alvarez,H,Ohio State,Big Ten,John Cooper,W,20,16
+1992-10-10,Wisconsin,Big Ten,Barry Alvarez,A,Iowa,Big Ten,Hayden Fry,L,22,23
+1992-10-17,Wisconsin,Big Ten,Barry Alvarez,H,Purdue,Big Ten,Jim Colletto,W,19,16
+1992-10-24,Wisconsin,Big Ten,Barry Alvarez,A,Indiana,Big Ten,Bill Mallory,L,3,10
+1992-10-31,Wisconsin,Big Ten,Barry Alvarez,H,Illinois,Big Ten,Lou Tepper,L,12,13
+1992-11-07,Wisconsin,Big Ten,Barry Alvarez,A,Michigan State,Big Ten,George Perles,L,10,26
+1992-11-14,Wisconsin,Big Ten,Barry Alvarez,H,Minnesota,Big Ten,Jim Wacker,W,34,6
+1992-11-21,Wisconsin,Big Ten,Barry Alvarez,A,Northwestern,Big Ten,Gary Barnett,L,25,27
+1992-09-05,Nevada,Big West,Chris Ault,A,Wyoming,WAC,Joe Tiller,L,6,25
+1992-09-12,Nevada,Big West,Chris Ault,H,Pacific,Big West,Chuck Shelton,W,20,14
+1992-09-26,Nevada,Big West,Chris Ault,A,Tulane,Ind,Buddy Teevens,L,17,34
+1992-10-03,Nevada,Big West,Chris Ault,A,Cal State Fullerton,Big West,Gene Murphy,W,19,0
+1992-10-17,Nevada,Big West,Chris Ault,A,Nevada-Las Vegas,Big West,Jim Strong,W,14,10
+1992-10-24,Nevada,Big West,Chris Ault,H,New Mexico State,Big West,Jim Hess,W,35,21
+1992-11-07,Nevada,Big West,Chris Ault,A,San Jose State,Big West,Ron Turner,L,35,39
+1992-11-14,Nevada,Big West,Chris Ault,H,Utah State,Big West,Charlie Weatherbie,W,48,47
+1992-12-18,Nevada,Big West,Chris Ault,N,Bowling Green State,MAC,Gary Blackney,L,34,35
+1992-09-05,USC,Pac-10,Larry Smith,A,San Diego State,WAC,Al Luginbill,T,31,31
+1992-09-19,USC,Pac-10,Larry Smith,A,Oklahoma,Big 8,Gary Gibbs,W,20,10
+1992-10-03,USC,Pac-10,Larry Smith,A,Washington,Pac-10,Don James,L,10,17
+1992-10-10,USC,Pac-10,Larry Smith,H,Oregon,Pac-10,Rich Brooks,W,32,10
+1992-10-17,USC,Pac-10,Larry Smith,H,California,Pac-10,Keith Gilbertson,W,27,24
+1992-10-24,USC,Pac-10,Larry Smith,H,Washington State,Pac-10,Mike Price,W,31,21
+1992-10-31,USC,Pac-10,Larry Smith,A,Arizona State,Pac-10,Bruce Snyder,W,23,13
+1992-11-07,USC,Pac-10,Larry Smith,A,Stanford,Pac-10,Bill Walsh,L,9,23
+1992-11-14,USC,Pac-10,Larry Smith,H,Arizona,Pac-10,Dick Tomey,W,14,7
+1992-11-21,USC,Pac-10,Larry Smith,A,UCLA,Pac-10,Terry Donahue,L,37,38
+1992-11-28,USC,Pac-10,Larry Smith,H,Notre Dame,Ind,Lou Holtz,L,23,31
+1992-12-29,USC,Pac-10,Larry Smith,H,Fresno State,WAC,Jim Sweeney,L,7,24
+1992-08-29,North Carolina State,ACC,Dick Sheridan,N,Iowa,Big Ten,Hayden Fry,W,24,14
+1992-09-12,North Carolina State,ACC,Dick Sheridan,A,Maryland,ACC,Mark Duffner,W,14,10
+1992-09-19,North Carolina State,ACC,Dick Sheridan,H,Florida State,ACC,Bobby Bowden,L,13,34
+1992-09-26,North Carolina State,ACC,Dick Sheridan,A,North Carolina,ACC,Mack Brown,W,27,20
+1992-10-03,North Carolina State,ACC,Dick Sheridan,A,Georgia Tech,ACC,Bill Lewis,L,13,16
+1992-10-10,North Carolina State,ACC,Dick Sheridan,H,Texas Tech,SWC,Spike Dykes,W,48,13
+1992-10-17,North Carolina State,ACC,Dick Sheridan,A,Virginia Tech,Big East,Frank Beamer,T,13,13
+1992-10-24,North Carolina State,ACC,Dick Sheridan,H,Clemson,ACC,Ken Hatfield,W,20,6
+1992-11-07,North Carolina State,ACC,Dick Sheridan,A,Virginia,ACC,George Welsh,W,31,7
+1992-11-14,North Carolina State,ACC,Dick Sheridan,H,Duke,ACC,Barry Wilson,W,45,27
+1992-11-21,North Carolina State,ACC,Dick Sheridan,H,Wake Forest,ACC,Bill Dooley,W,42,14
+1992-12-31,North Carolina State,ACC,Dick Sheridan,N,Florida,SEC,Steve Spurrier,L,10,27
+1992-09-05,San Diego State,WAC,Al Luginbill,H,USC,Pac-10,Larry Smith,T,31,31
+1992-09-10,San Diego State,WAC,Al Luginbill,A,Brigham Young,WAC,LaVell Edwards,W,45,38
+1992-09-26,San Diego State,WAC,Al Luginbill,A,UCLA,Pac-10,Terry Donahue,L,7,35
+1992-10-03,San Diego State,WAC,Al Luginbill,A,New Mexico,WAC,Dennis Franchione,W,49,21
+1992-10-17,San Diego State,WAC,Al Luginbill,H,UTEP,WAC,David Lee,W,49,27
+1992-10-24,San Diego State,WAC,Al Luginbill,H,Air Force,WAC,Fisher DeBerry,L,17,20
+1992-10-31,San Diego State,WAC,Al Luginbill,A,Colorado State,WAC,Earle Bruce,W,20,13
+1992-11-07,San Diego State,WAC,Al Luginbill,A,Wyoming,WAC,Joe Tiller,L,6,17
+1992-11-14,San Diego State,WAC,Al Luginbill,H,Hawaii,WAC,Bob Wagner,W,52,28
+1992-11-21,San Diego State,WAC,Al Luginbill,H,Fresno State,WAC,Jim Sweeney,L,41,45
+1992-11-28,San Diego State,WAC,Al Luginbill,H,Miami (FL),Big East,Dennis Erickson,L,17,63
+1992-09-05,Hawaii,WAC,Bob Wagner,A,Oregon,Pac-10,Rich Brooks,W,24,21
+1992-09-12,Hawaii,WAC,Bob Wagner,A,Air Force,WAC,Fisher DeBerry,W,6,3
+1992-09-26,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,W,36,32
+1992-10-10,Hawaii,WAC,Bob Wagner,A,Utah,WAC,Ron McBride,L,17,38
+1992-10-17,Hawaii,WAC,Bob Wagner,H,Fresno State,WAC,Jim Sweeney,W,47,45
+1992-10-24,Hawaii,WAC,Bob Wagner,H,Nevada-Las Vegas,Big West,Jim Strong,W,55,25
+1992-10-31,Hawaii,WAC,Bob Wagner,A,UTEP,WAC,David Lee,W,41,21
+1992-11-07,Hawaii,WAC,Bob Wagner,H,Colorado State,WAC,Earle Bruce,W,24,13
+1992-11-14,Hawaii,WAC,Bob Wagner,A,San Diego State,WAC,Al Luginbill,L,28,52
+1992-11-21,Hawaii,WAC,Bob Wagner,H,Wyoming,WAC,Joe Tiller,W,42,18
+1992-11-28,Hawaii,WAC,Bob Wagner,H,Tulsa,Ind,David Rader,W,38,9
+1992-12-05,Hawaii,WAC,Bob Wagner,H,Pitt,Big East,Sal Sunseri,W,36,23
+1992-12-30,Hawaii,WAC,Bob Wagner,N,Illinois,Big Ten,Lou Tepper,W,27,17
+1992-09-05,Rutgers,Big East,Doug Graber,A,Boston College,Big East,Tom Coughlin,L,20,37
+1992-09-17,Rutgers,Big East,Doug Graber,H,Pitt,Big East,Sal Sunseri,W,21,16
+1992-09-26,Rutgers,Big East,Doug Graber,A,Navy,Ind,George Chaump,W,40,0
+1992-10-03,Rutgers,Big East,Doug Graber,H,Penn State,Ind,Joe Paterno,L,24,38
+1992-10-10,Rutgers,Big East,Doug Graber,A,Syracuse,Big East,Paul Pasqualoni,L,28,50
+1992-10-17,Rutgers,Big East,Doug Graber,N,Army,Ind,Bob Sutton,W,45,10
+1992-10-31,Rutgers,Big East,Doug Graber,H,Virginia Tech,Big East,Frank Beamer,W,50,49
+1992-11-07,Rutgers,Big East,Doug Graber,A,Cincinnati,Ind,Tim Murphy,L,24,26
+1992-11-14,Rutgers,Big East,Doug Graber,H,West Virginia,Big East,Don Nehlen,W,13,9
+1992-11-21,Rutgers,Big East,Doug Graber,A,Temple,Big East,Jerry Berndt,W,35,10
+1992-09-05,Eastern Michigan,MAC,Jan Quarless,H,Akron,MAC,Gerry Faust,L,9,27
+1992-09-12,Eastern Michigan,MAC,Jan Quarless,A,Louisiana Tech,Ind,Joe Peace,L,17,31
+1992-09-19,Eastern Michigan,MAC,Jan Quarless,A,Penn State,Ind,Joe Paterno,L,7,52
+1992-09-26,Eastern Michigan,MAC,Jan Quarless,H,Kent State,MAC,Pete Cordelli,L,14,17
+1992-10-03,Eastern Michigan,MAC,Jan Quarless,H,Miami (OH),MAC,Randy Walker,L,7,24
+1992-10-10,Eastern Michigan,MAC,Jan Quarless,A,Ball State,MAC,Paul Schudel,L,7,31
+1992-10-17,Eastern Michigan,MAC,Jan Quarless,A,Western Michigan,MAC,Al Molde,L,19,20
+1992-10-24,Eastern Michigan,MAC,Jan Quarless,H,Ohio,MAC,Tom Lichtenberg,W,7,6
+1992-10-31,Eastern Michigan,MAC,Jan Quarless,A,Army,Ind,Bob Sutton,L,17,57
+1992-11-07,Eastern Michigan,MAC,Jan Quarless,A,Central Michigan,MAC,Herb Deromedi,L,13,30
+1992-11-14,Eastern Michigan,MAC,Jan Quarless,A,Toledo,MAC,Gary Pinkel,L,0,41
+1992-09-05,Central Michigan,MAC,Herb Deromedi,A,Kentucky,SEC,Bill Curry,L,14,21
+1992-09-12,Central Michigan,MAC,Herb Deromedi,A,Michigan State,Big Ten,George Perles,W,24,20
+1992-09-19,Central Michigan,MAC,Herb Deromedi,H,Ohio,MAC,Tom Lichtenberg,W,24,0
+1992-09-26,Central Michigan,MAC,Herb Deromedi,H,Toledo,MAC,Gary Pinkel,W,28,9
+1992-10-03,Central Michigan,MAC,Herb Deromedi,H,Bowling Green State,MAC,Gary Blackney,L,14,17
+1992-10-10,Central Michigan,MAC,Herb Deromedi,A,Miami (OH),MAC,Randy Walker,L,13,16
+1992-10-17,Central Michigan,MAC,Herb Deromedi,H,Kent State,MAC,Pete Cordelli,W,35,0
+1992-10-24,Central Michigan,MAC,Herb Deromedi,A,Ball State,MAC,Paul Schudel,L,23,24
+1992-10-31,Central Michigan,MAC,Herb Deromedi,A,Akron,MAC,Gerry Faust,L,28,31
+1992-11-07,Central Michigan,MAC,Herb Deromedi,H,Eastern Michigan,MAC,Jan Quarless,W,30,13
+1992-11-14,Central Michigan,MAC,Herb Deromedi,A,Western Michigan,MAC,Al Molde,L,14,19
+1992-09-12,Michigan,Big Ten,Gary Moeller,A,Notre Dame,Ind,Lou Holtz,T,17,17
+1992-09-19,Michigan,Big Ten,Gary Moeller,H,Oklahoma State,Big 8,Pat Jones,W,35,3
+1992-09-26,Michigan,Big Ten,Gary Moeller,H,Houston,SWC,John Jenkins,W,61,7
+1992-10-03,Michigan,Big Ten,Gary Moeller,H,Iowa,Big Ten,Hayden Fry,W,52,28
+1992-10-10,Michigan,Big Ten,Gary Moeller,H,Michigan State,Big Ten,George Perles,W,35,10
+1992-10-17,Michigan,Big Ten,Gary Moeller,A,Indiana,Big Ten,Bill Mallory,W,31,3
+1992-10-24,Michigan,Big Ten,Gary Moeller,H,Minnesota,Big Ten,Jim Wacker,W,63,13
+1992-10-31,Michigan,Big Ten,Gary Moeller,A,Purdue,Big Ten,Jim Colletto,W,24,17
+1992-11-07,Michigan,Big Ten,Gary Moeller,A,Northwestern,Big Ten,Gary Barnett,W,40,7
+1992-11-14,Michigan,Big Ten,Gary Moeller,H,Illinois,Big Ten,Lou Tepper,T,22,22
+1992-11-21,Michigan,Big Ten,Gary Moeller,A,Ohio State,Big Ten,John Cooper,T,13,13
+1993-01-01,Michigan,Big Ten,Gary Moeller,N,Washington,Pac-10,Don James,W,38,31
+1992-09-12,Temple,Big East,Jerry Berndt,A,Penn State,Ind,Joe Paterno,L,8,49
+1992-09-19,Temple,Big East,Jerry Berndt,H,Virginia Tech,Big East,Frank Beamer,L,7,26
+1992-09-26,Temple,Big East,Jerry Berndt,A,Kansas State,Big 8,Bill Snyder,L,14,35
+1992-10-03,Temple,Big East,Jerry Berndt,A,Washington State,Pac-10,Mike Price,L,10,51
+1992-10-17,Temple,Big East,Jerry Berndt,H,Pitt,Big East,Sal Sunseri,L,20,27
+1992-10-24,Temple,Big East,Jerry Berndt,H,Syracuse,Big East,Paul Pasqualoni,L,7,38
+1992-10-31,Temple,Big East,Jerry Berndt,A,Boston College,Big East,Tom Coughlin,L,6,45
+1992-11-07,Temple,Big East,Jerry Berndt,A,Akron,MAC,Gerry Faust,L,15,29
+1992-11-14,Temple,Big East,Jerry Berndt,A,Miami (FL),Big East,Dennis Erickson,L,0,48
+1992-11-21,Temple,Big East,Jerry Berndt,H,Rutgers,Big East,Doug Graber,L,10,35
+1992-09-05,New Mexico,WAC,Dennis Franchione,H,Texas Christian,SWC,Pat Sullivan,W,24,7
+1992-09-12,New Mexico,WAC,Dennis Franchione,A,New Mexico State,Big West,Jim Hess,L,39,42
+1992-09-19,New Mexico,WAC,Dennis Franchione,H,SMU,SWC,Tom Rossley,L,13,20
+1992-09-26,New Mexico,WAC,Dennis Franchione,A,Air Force,WAC,Fisher DeBerry,L,32,33
+1992-10-03,New Mexico,WAC,Dennis Franchione,H,San Diego State,WAC,Al Luginbill,L,21,49
+1992-10-10,New Mexico,WAC,Dennis Franchione,A,Wyoming,WAC,Joe Tiller,L,21,35
+1992-10-17,New Mexico,WAC,Dennis Franchione,H,Utah,WAC,Ron McBride,W,24,7
+1992-10-24,New Mexico,WAC,Dennis Franchione,A,Fresno State,WAC,Jim Sweeney,L,28,31
+1992-11-07,New Mexico,WAC,Dennis Franchione,A,Brigham Young,WAC,LaVell Edwards,L,0,35
+1992-11-14,New Mexico,WAC,Dennis Franchione,H,UTEP,WAC,David Lee,W,35,14
+1992-11-21,New Mexico,WAC,Dennis Franchione,H,Colorado State,WAC,Earle Bruce,L,10,14
+1992-09-05,Pacific,Big West,Chuck Shelton,H,Fresno State,WAC,Jim Sweeney,L,21,42
+1992-09-12,Pacific,Big West,Chuck Shelton,A,Nevada,Big West,Chris Ault,L,14,20
+1992-10-03,Pacific,Big West,Chuck Shelton,H,Nevada-Las Vegas,Big West,Jim Strong,L,17,21
+1992-10-10,Pacific,Big West,Chuck Shelton,A,Arizona State,Pac-10,Bruce Snyder,L,5,39
+1992-10-17,Pacific,Big West,Chuck Shelton,A,New Mexico State,Big West,Jim Hess,W,49,17
+1992-10-24,Pacific,Big West,Chuck Shelton,A,Washington,Pac-10,Don James,L,7,31
+1992-11-07,Pacific,Big West,Chuck Shelton,H,Cal State Fullerton,Big West,Gene Murphy,W,23,20
+1992-11-14,Pacific,Big West,Chuck Shelton,H,San Jose State,Big West,Ron Turner,L,27,28
+1992-11-21,Pacific,Big West,Chuck Shelton,H,Utah State,Big West,Charlie Weatherbie,L,35,38
+1992-09-05,Notre Dame,Ind,Lou Holtz,A,Northwestern,Big Ten,Gary Barnett,W,42,7
+1992-09-12,Notre Dame,Ind,Lou Holtz,H,Michigan,Big Ten,Gary Moeller,T,17,17
+1992-09-19,Notre Dame,Ind,Lou Holtz,A,Michigan State,Big Ten,George Perles,W,52,31
+1992-09-26,Notre Dame,Ind,Lou Holtz,H,Purdue,Big Ten,Jim Colletto,W,48,0
+1992-10-03,Notre Dame,Ind,Lou Holtz,H,Stanford,Pac-10,Bill Walsh,L,16,33
+1992-10-10,Notre Dame,Ind,Lou Holtz,A,Pitt,Big East,Sal Sunseri,W,52,21
+1992-10-24,Notre Dame,Ind,Lou Holtz,H,Brigham Young,WAC,LaVell Edwards,W,42,16
+1992-10-31,Notre Dame,Ind,Lou Holtz,N,Navy,Ind,George Chaump,W,38,7
+1992-11-07,Notre Dame,Ind,Lou Holtz,H,Boston College,Big East,Tom Coughlin,W,54,7
+1992-11-14,Notre Dame,Ind,Lou Holtz,H,Penn State,Ind,Joe Paterno,W,17,16
+1992-11-28,Notre Dame,Ind,Lou Holtz,A,USC,Pac-10,Larry Smith,W,31,23
+1993-01-01,Notre Dame,Ind,Lou Holtz,N,Texas A&M,SWC,R.C. Slocum,W,28,3
+1992-09-05,Louisiana,Ind,Nelson Stokley,A,Tennessee,SEC,Phillip Fulmer,L,3,38
+1992-09-19,Louisiana,Ind,Nelson Stokley,A,San Jose State,Big West,Ron Turner,L,13,38
+1992-10-03,Louisiana,Ind,Nelson Stokley,A,Houston,SWC,John Jenkins,L,7,63
+1992-10-10,Louisiana,Ind,Nelson Stokley,A,Louisiana Tech,Ind,Joe Peace,L,7,21
+1992-10-17,Louisiana,Ind,Nelson Stokley,H,Cal State Fullerton,Big West,Gene Murphy,L,10,14
+1992-10-24,Louisiana,Ind,Nelson Stokley,A,Auburn,SEC,Pat Dye,L,24,25
+1992-10-31,Louisiana,Ind,Nelson Stokley,A,Tulsa,Ind,David Rader,L,9,27
+1992-11-07,Louisiana,Ind,Nelson Stokley,H,Northern Illinois,Ind,Charlie Sadler,L,15,23
+1992-11-21,Louisiana,Ind,Nelson Stokley,H,Arkansas State,Ind,Ray Perkins,L,7,20
+1992-09-05,East Carolina,Ind,Steve Logan,H,Syracuse,Big East,Paul Pasqualoni,L,21,42
+1992-09-12,East Carolina,Ind,Steve Logan,H,Virginia Tech,Big East,Frank Beamer,W,30,27
+1992-09-19,East Carolina,Ind,Steve Logan,A,South Carolina,SEC,Sparky Woods,W,20,18
+1992-09-26,East Carolina,Ind,Steve Logan,A,Bowling Green State,MAC,Gary Blackney,L,34,44
+1992-10-10,East Carolina,Ind,Steve Logan,A,Duke,ACC,Barry Wilson,L,14,45
+1992-10-17,East Carolina,Ind,Steve Logan,H,Cincinnati,Ind,Tim Murphy,W,42,21
+1992-10-24,East Carolina,Ind,Steve Logan,A,Pitt,Big East,Sal Sunseri,W,37,31
+1992-10-29,East Carolina,Ind,Steve Logan,H,Southern Mississippi,Ind,Jeff Bower,L,21,38
+1992-11-07,East Carolina,Ind,Steve Logan,A,West Virginia,Big East,Don Nehlen,L,28,41
+1992-11-14,East Carolina,Ind,Steve Logan,H,Arkansas State,Ind,Ray Perkins,W,35,18
+1992-11-21,East Carolina,Ind,Steve Logan,A,Memphis,Ind,Chuck Stobart,L,7,42
+1992-09-05,Toledo,MAC,Gary Pinkel,H,Arkansas State,Ind,Ray Perkins,W,49,0
+1992-09-12,Toledo,MAC,Gary Pinkel,A,Akron,MAC,Gerry Faust,L,20,23
+1992-09-19,Toledo,MAC,Gary Pinkel,A,Purdue,Big Ten,Jim Colletto,W,33,29
+1992-09-26,Toledo,MAC,Gary Pinkel,A,Central Michigan,MAC,Herb Deromedi,L,9,28
+1992-10-10,Toledo,MAC,Gary Pinkel,H,Western Michigan,MAC,Al Molde,W,21,12
+1992-10-17,Toledo,MAC,Gary Pinkel,H,Bowling Green State,MAC,Gary Blackney,L,9,10
+1992-10-24,Toledo,MAC,Gary Pinkel,A,Miami (OH),MAC,Randy Walker,W,20,17
+1992-10-31,Toledo,MAC,Gary Pinkel,H,Kent State,MAC,Pete Cordelli,W,32,17
+1992-11-07,Toledo,MAC,Gary Pinkel,A,Ball State,MAC,Paul Schudel,W,10,9
+1992-11-14,Toledo,MAC,Gary Pinkel,H,Eastern Michigan,MAC,Jan Quarless,W,41,0
+1992-11-21,Toledo,MAC,Gary Pinkel,A,Northern Illinois,Ind,Charlie Sadler,W,25,8
+1992-09-05,Pitt,Big East,Sal Sunseri,H,Kent State,MAC,Pete Cordelli,W,51,10
+1992-09-12,Pitt,Big East,Sal Sunseri,H,West Virginia,Big East,Don Nehlen,L,6,44
+1992-09-17,Pitt,Big East,Sal Sunseri,A,Rutgers,Big East,Doug Graber,L,16,21
+1992-09-26,Pitt,Big East,Sal Sunseri,H,Minnesota,Big Ten,Jim Wacker,W,41,33
+1992-10-03,Pitt,Big East,Sal Sunseri,A,Maryland,ACC,Mark Duffner,L,34,47
+1992-10-10,Pitt,Big East,Sal Sunseri,H,Notre Dame,Ind,Lou Holtz,L,21,52
+1992-10-17,Pitt,Big East,Sal Sunseri,A,Temple,Big East,Jerry Berndt,W,27,20
+1992-10-24,Pitt,Big East,Sal Sunseri,H,East Carolina,Ind,Steve Logan,L,31,37
+1992-10-31,Pitt,Big East,Sal Sunseri,A,Syracuse,Big East,Paul Pasqualoni,L,10,41
+1992-11-14,Pitt,Big East,Sal Sunseri,H,Louisville,Ind,Howard Schnellenberger,L,16,31
+1992-11-21,Pitt,Big East,Sal Sunseri,A,Penn State,Ind,Joe Paterno,L,13,57
+1992-12-05,Pitt,Big East,Sal Sunseri,A,Hawaii,WAC,Bob Wagner,L,23,36
+1992-09-05,Akron,MAC,Gerry Faust,A,Eastern Michigan,MAC,Jan Quarless,W,27,9
+1992-09-12,Akron,MAC,Gerry Faust,H,Toledo,MAC,Gary Pinkel,W,23,20
+1992-09-19,Akron,MAC,Gerry Faust,A,Western Michigan,MAC,Al Molde,L,20,24
+1992-10-03,Akron,MAC,Gerry Faust,A,Ohio,MAC,Tom Lichtenberg,W,13,0
+1992-10-10,Akron,MAC,Gerry Faust,A,Kent State,MAC,Pete Cordelli,L,16,20
+1992-10-17,Akron,MAC,Gerry Faust,A,Ball State,MAC,Paul Schudel,W,22,14
+1992-10-24,Akron,MAC,Gerry Faust,H,Bowling Green State,MAC,Gary Blackney,L,3,24
+1992-10-31,Akron,MAC,Gerry Faust,H,Central Michigan,MAC,Herb Deromedi,W,31,28
+1992-11-07,Akron,MAC,Gerry Faust,H,Temple,Big East,Jerry Berndt,W,29,15
+1992-11-21,Akron,MAC,Gerry Faust,A,Cincinnati,Ind,Tim Murphy,W,24,22
+1992-09-05,Wyoming,WAC,Joe Tiller,H,Nevada,Big West,Chris Ault,W,25,6
+1992-09-12,Wyoming,WAC,Joe Tiller,A,Texas Tech,SWC,Spike Dykes,L,32,49
+1992-09-19,Wyoming,WAC,Joe Tiller,H,Air Force,WAC,Fisher DeBerry,L,28,42
+1992-09-26,Wyoming,WAC,Joe Tiller,A,Louisville,Ind,Howard Schnellenberger,W,26,24
+1992-10-03,Wyoming,WAC,Joe Tiller,H,San Jose State,Big West,Ron Turner,L,24,26
+1992-10-10,Wyoming,WAC,Joe Tiller,H,New Mexico,WAC,Dennis Franchione,W,35,21
+1992-10-17,Wyoming,WAC,Joe Tiller,H,Brigham Young,WAC,LaVell Edwards,L,28,31
+1992-10-24,Wyoming,WAC,Joe Tiller,A,Colorado State,WAC,Earle Bruce,W,31,14
+1992-10-31,Wyoming,WAC,Joe Tiller,A,Fresno State,WAC,Jim Sweeney,L,31,42
+1992-11-07,Wyoming,WAC,Joe Tiller,H,San Diego State,WAC,Al Luginbill,W,17,6
+1992-11-14,Wyoming,WAC,Joe Tiller,A,Utah,WAC,Ron McBride,L,7,38
+1992-11-21,Wyoming,WAC,Joe Tiller,A,Hawaii,WAC,Bob Wagner,L,18,42
+1992-09-05,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,David Lee,W,38,28
+1992-09-10,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Al Luginbill,L,38,45
+1992-09-19,Brigham Young,WAC,LaVell Edwards,H,UCLA,Pac-10,Terry Donahue,L,10,17
+1992-09-26,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,32,36
+1992-10-02,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Charlie Weatherbie,W,30,9
+1992-10-10,Brigham Young,WAC,LaVell Edwards,H,Fresno State,WAC,Jim Sweeney,W,36,24
+1992-10-17,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Joe Tiller,W,31,28
+1992-10-24,Brigham Young,WAC,LaVell Edwards,A,Notre Dame,Ind,Lou Holtz,L,16,42
+1992-10-31,Brigham Young,WAC,LaVell Edwards,H,Penn State,Ind,Joe Paterno,W,30,17
+1992-11-07,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,35,0
+1992-11-14,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,28,7
+1992-11-21,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,31,22
+1992-12-25,Brigham Young,WAC,LaVell Edwards,N,Kansas,Big 8,Glen Mason,L,20,23
+1992-09-19,Georgia Tech,ACC,Bill Lewis,A,Virginia,ACC,George Welsh,L,24,55
+1992-09-26,Georgia Tech,ACC,Bill Lewis,H,Clemson,ACC,Ken Hatfield,W,20,16
+1992-10-03,Georgia Tech,ACC,Bill Lewis,H,North Carolina State,ACC,Dick Sheridan,W,16,13
+1992-10-10,Georgia Tech,ACC,Bill Lewis,A,Maryland,ACC,Mark Duffner,W,28,26
+1992-10-17,Georgia Tech,ACC,Bill Lewis,H,Florida State,ACC,Bobby Bowden,L,24,29
+1992-10-24,Georgia Tech,ACC,Bill Lewis,A,North Carolina,ACC,Mack Brown,L,14,26
+1992-10-31,Georgia Tech,ACC,Bill Lewis,H,Duke,ACC,Barry Wilson,W,20,17
+1992-11-07,Georgia Tech,ACC,Bill Lewis,A,Baylor,SWC,Grant Teaff,L,27,31
+1992-11-14,Georgia Tech,ACC,Bill Lewis,H,Wake Forest,ACC,Bill Dooley,L,10,23
+1992-11-28,Georgia Tech,ACC,Bill Lewis,A,Georgia,SEC,Ray Goff,L,17,31
+1992-09-05,Wake Forest,ACC,Bill Dooley,H,North Carolina,ACC,Mack Brown,L,17,35
+1992-09-26,Wake Forest,ACC,Bill Dooley,A,Florida State,ACC,Bobby Bowden,L,7,35
+1992-10-03,Wake Forest,ACC,Bill Dooley,H,Virginia,ACC,George Welsh,L,17,31
+1992-10-10,Wake Forest,ACC,Bill Dooley,A,Vanderbilt,SEC,Gerry DiNardo,W,40,6
+1992-10-17,Wake Forest,ACC,Bill Dooley,A,Maryland,ACC,Mark Duffner,W,30,23
+1992-10-24,Wake Forest,ACC,Bill Dooley,H,Army,Ind,Bob Sutton,W,23,7
+1992-10-31,Wake Forest,ACC,Bill Dooley,H,Clemson,ACC,Ken Hatfield,W,18,15
+1992-11-07,Wake Forest,ACC,Bill Dooley,A,Duke,ACC,Barry Wilson,W,28,14
+1992-11-14,Wake Forest,ACC,Bill Dooley,A,Georgia Tech,ACC,Bill Lewis,W,23,10
+1992-11-21,Wake Forest,ACC,Bill Dooley,A,North Carolina State,ACC,Dick Sheridan,L,14,42
+1992-12-31,Wake Forest,ACC,Bill Dooley,N,Oregon,Pac-10,Rich Brooks,W,39,35
+1992-09-05,Arkansas State,Ind,Ray Perkins,A,Toledo,MAC,Gary Pinkel,L,0,49
+1992-09-12,Arkansas State,Ind,Ray Perkins,A,Oklahoma,Big 8,Gary Gibbs,L,0,61
+1992-09-19,Arkansas State,Ind,Ray Perkins,H,Northern Illinois,Ind,Charlie Sadler,L,0,31
+1992-10-17,Arkansas State,Ind,Ray Perkins,A,Memphis,Ind,Chuck Stobart,L,7,37
+1992-10-24,Arkansas State,Ind,Ray Perkins,A,Mississippi State,SEC,Jackie Sherrill,L,6,56
+1992-10-31,Arkansas State,Ind,Ray Perkins,A,Louisiana Tech,Ind,Joe Peace,L,0,23
+1992-11-14,Arkansas State,Ind,Ray Perkins,A,East Carolina,Ind,Steve Logan,L,18,35
+1992-11-21,Arkansas State,Ind,Ray Perkins,A,Louisiana,Ind,Nelson Stokley,W,20,7
+1992-09-05,Mississippi State,SEC,Jackie Sherrill,A,Texas,SWC,John Mackovic,W,28,10
+1992-09-12,Mississippi State,SEC,Jackie Sherrill,A,LSU,SEC,Curley Hallman,L,3,24
+1992-09-19,Mississippi State,SEC,Jackie Sherrill,A,Memphis,Ind,Chuck Stobart,W,20,16
+1992-10-01,Mississippi State,SEC,Jackie Sherrill,H,Florida,SEC,Steve Spurrier,W,30,6
+1992-10-10,Mississippi State,SEC,Jackie Sherrill,H,Auburn,SEC,Pat Dye,W,14,7
+1992-10-17,Mississippi State,SEC,Jackie Sherrill,A,South Carolina,SEC,Sparky Woods,L,6,21
+1992-10-24,Mississippi State,SEC,Jackie Sherrill,H,Arkansas State,Ind,Ray Perkins,W,56,6
+1992-10-31,Mississippi State,SEC,Jackie Sherrill,A,Kentucky,SEC,Bill Curry,W,37,36
+1992-11-07,Mississippi State,SEC,Jackie Sherrill,H,Arkansas,SEC,Joe Kines,W,10,3
+1992-11-14,Mississippi State,SEC,Jackie Sherrill,H,Alabama,SEC,Gene Stallings,L,21,30
+1992-11-28,Mississippi State,SEC,Jackie Sherrill,A,Ole Miss,SEC,Billy Brewer,L,10,17
+1993-01-02,Mississippi State,SEC,Jackie Sherrill,N,North Carolina,ACC,Mack Brown,L,17,21
+1992-09-12,Nevada-Las Vegas,Big West,Jim Strong,H,UTEP,WAC,David Lee,W,19,17
+1992-09-26,Nevada-Las Vegas,Big West,Jim Strong,A,Oregon,Pac-10,Rich Brooks,L,6,59
+1992-10-03,Nevada-Las Vegas,Big West,Jim Strong,A,Pacific,Big West,Chuck Shelton,W,21,17
+1992-10-10,Nevada-Las Vegas,Big West,Jim Strong,A,New Mexico State,Big West,Jim Hess,L,10,40
+1992-10-17,Nevada-Las Vegas,Big West,Jim Strong,H,Nevada,Big West,Chris Ault,L,10,14
+1992-10-24,Nevada-Las Vegas,Big West,Jim Strong,A,Hawaii,WAC,Bob Wagner,L,25,55
+1992-10-31,Nevada-Las Vegas,Big West,Jim Strong,H,San Jose State,Big West,Ron Turner,W,35,31
+1992-11-07,Nevada-Las Vegas,Big West,Jim Strong,A,Utah State,Big West,Charlie Weatherbie,L,8,48
+1992-11-28,Nevada-Las Vegas,Big West,Jim Strong,H,Cal State Fullerton,Big West,Gene Murphy,W,33,16
+1992-09-05,Memphis,Ind,Chuck Stobart,A,Southern Mississippi,Ind,Jeff Bower,L,21,23
+1992-09-12,Memphis,Ind,Chuck Stobart,A,Louisville,Ind,Howard Schnellenberger,L,15,16
+1992-09-19,Memphis,Ind,Chuck Stobart,H,Mississippi State,SEC,Jackie Sherrill,L,16,20
+1992-09-26,Memphis,Ind,Chuck Stobart,H,Arkansas,SEC,Joe Kines,W,22,6
+1992-10-10,Memphis,Ind,Chuck Stobart,H,Cincinnati,Ind,Tim Murphy,W,34,14
+1992-10-17,Memphis,Ind,Chuck Stobart,H,Arkansas State,Ind,Ray Perkins,W,37,7
+1992-10-24,Memphis,Ind,Chuck Stobart,A,Tulsa,Ind,David Rader,W,30,25
+1992-10-31,Memphis,Ind,Chuck Stobart,A,Tulane,Ind,Buddy Teevens,W,62,20
+1992-11-07,Memphis,Ind,Chuck Stobart,A,Ole Miss,SEC,Billy Brewer,L,12,17
+1992-11-14,Memphis,Ind,Chuck Stobart,H,Tennessee,SEC,Phillip Fulmer,L,21,26
+1992-11-21,Memphis,Ind,Chuck Stobart,H,East Carolina,Ind,Steve Logan,W,42,7
+1992-09-26,Kansas State,Big 8,Bill Snyder,H,Temple,Big East,Jerry Berndt,W,35,14
+1992-10-03,Kansas State,Big 8,Bill Snyder,H,New Mexico State,Big West,Jim Hess,W,19,0
+1992-10-10,Kansas State,Big 8,Bill Snyder,A,Kansas,Big 8,Glen Mason,L,7,31
+1992-10-17,Kansas State,Big 8,Bill Snyder,A,Utah State,Big West,Charlie Weatherbie,L,16,28
+1992-10-24,Kansas State,Big 8,Bill Snyder,A,Colorado,Big 8,Bill McCartney,L,7,54
+1992-10-31,Kansas State,Big 8,Bill Snyder,A,Oklahoma,Big 8,Gary Gibbs,L,14,16
+1992-11-05,Kansas State,Big 8,Bill Snyder,H,Iowa State,Big 8,Jim Walden,W,22,13
+1992-11-14,Kansas State,Big 8,Bill Snyder,A,Missouri,Big 8,Bob Stull,L,14,27
+1992-11-21,Kansas State,Big 8,Bill Snyder,H,Oklahoma State,Big 8,Pat Jones,W,10,0
+1992-12-06,Kansas State,Big 8,Bill Snyder,N,Nebraska,Big 8,Tom Osborne,L,24,38
+1992-09-19,Army,Ind,Bob Sutton,A,North Carolina,ACC,Mack Brown,L,9,22
+1992-10-17,Army,Ind,Bob Sutton,N,Rutgers,Big East,Doug Graber,L,10,45
+1992-10-24,Army,Ind,Bob Sutton,A,Wake Forest,ACC,Bill Dooley,L,7,23
+1992-10-31,Army,Ind,Bob Sutton,H,Eastern Michigan,MAC,Jan Quarless,W,57,17
+1992-11-07,Army,Ind,Bob Sutton,H,Air Force,WAC,Fisher DeBerry,L,3,7
+1992-11-14,Army,Ind,Bob Sutton,H,Northern Illinois,Ind,Charlie Sadler,W,21,14
+1992-11-21,Army,Ind,Bob Sutton,H,Boston College,Big East,Tom Coughlin,L,24,41
+1992-12-05,Army,Ind,Bob Sutton,N,Navy,Ind,George Chaump,W,25,24
+1992-09-12,UCLA,Pac-10,Terry Donahue,H,Cal State Fullerton,Big West,Gene Murphy,W,37,14
+1992-09-19,UCLA,Pac-10,Terry Donahue,A,Brigham Young,WAC,LaVell Edwards,W,17,10
+1992-09-26,UCLA,Pac-10,Terry Donahue,H,San Diego State,WAC,Al Luginbill,W,35,7
+1992-10-03,UCLA,Pac-10,Terry Donahue,A,Arizona,Pac-10,Dick Tomey,L,3,23
+1992-10-10,UCLA,Pac-10,Terry Donahue,H,Stanford,Pac-10,Bill Walsh,L,7,19
+1992-10-17,UCLA,Pac-10,Terry Donahue,A,Washington State,Pac-10,Mike Price,L,17,30
+1992-10-24,UCLA,Pac-10,Terry Donahue,H,Arizona State,Pac-10,Bruce Snyder,L,0,20
+1992-10-31,UCLA,Pac-10,Terry Donahue,A,California,Pac-10,Keith Gilbertson,L,12,48
+1992-11-07,UCLA,Pac-10,Terry Donahue,H,Oregon State,Pac-10,Jerry Pettibone,W,26,14
+1992-11-14,UCLA,Pac-10,Terry Donahue,A,Oregon,Pac-10,Rich Brooks,W,9,6
+1992-11-21,UCLA,Pac-10,Terry Donahue,H,USC,Pac-10,Larry Smith,W,38,37
+1992-09-05,Auburn,SEC,Pat Dye,A,Ole Miss,SEC,Billy Brewer,L,21,45
+1992-09-19,Auburn,SEC,Pat Dye,H,LSU,SEC,Curley Hallman,W,30,28
+1992-09-26,Auburn,SEC,Pat Dye,H,Southern Mississippi,Ind,Jeff Bower,W,16,8
+1992-10-03,Auburn,SEC,Pat Dye,H,Vanderbilt,SEC,Gerry DiNardo,W,31,7
+1992-10-10,Auburn,SEC,Pat Dye,A,Mississippi State,SEC,Jackie Sherrill,L,7,14
+1992-10-17,Auburn,SEC,Pat Dye,A,Florida,SEC,Steve Spurrier,L,9,24
+1992-10-24,Auburn,SEC,Pat Dye,H,Louisiana,Ind,Nelson Stokley,W,25,24
+1992-10-31,Auburn,SEC,Pat Dye,H,Arkansas,SEC,Joe Kines,T,24,24
+1992-11-14,Auburn,SEC,Pat Dye,H,Georgia,SEC,Ray Goff,L,10,14
+1992-11-26,Auburn,SEC,Pat Dye,N,Alabama,SEC,Gene Stallings,L,0,17
+1992-09-05,Northwestern,Big Ten,Gary Barnett,H,Notre Dame,Ind,Lou Holtz,L,7,42
+1992-09-12,Northwestern,Big Ten,Gary Barnett,A,Boston College,Big East,Tom Coughlin,L,0,49
+1992-09-19,Northwestern,Big Ten,Gary Barnett,A,Stanford,Pac-10,Bill Walsh,L,24,35
+1992-10-03,Northwestern,Big Ten,Gary Barnett,A,Purdue,Big Ten,Jim Colletto,W,28,14
+1992-10-10,Northwestern,Big Ten,Gary Barnett,H,Indiana,Big Ten,Bill Mallory,L,3,28
+1992-10-17,Northwestern,Big Ten,Gary Barnett,A,Ohio State,Big Ten,John Cooper,L,7,31
+1992-10-24,Northwestern,Big Ten,Gary Barnett,A,Illinois,Big Ten,Lou Tepper,W,27,26
+1992-10-31,Northwestern,Big Ten,Gary Barnett,H,Michigan State,Big Ten,George Perles,L,26,27
+1992-11-07,Northwestern,Big Ten,Gary Barnett,H,Michigan,Big Ten,Gary Moeller,L,7,40
+1992-11-14,Northwestern,Big Ten,Gary Barnett,A,Iowa,Big Ten,Hayden Fry,L,14,56
+1992-11-21,Northwestern,Big Ten,Gary Barnett,H,Wisconsin,Big Ten,Barry Alvarez,W,27,25
+1992-09-05,Kansas,Big 8,Glen Mason,A,Oregon State,Pac-10,Jerry Pettibone,W,49,20
+1992-09-12,Kansas,Big 8,Glen Mason,H,Ball State,MAC,Paul Schudel,W,62,10
+1992-09-19,Kansas,Big 8,Glen Mason,A,Tulsa,Ind,David Rader,W,40,7
+1992-09-24,Kansas,Big 8,Glen Mason,H,California,Pac-10,Keith Gilbertson,L,23,27
+1992-10-10,Kansas,Big 8,Glen Mason,H,Kansas State,Big 8,Bill Snyder,W,31,7
+1992-10-17,Kansas,Big 8,Glen Mason,A,Iowa State,Big 8,Jim Walden,W,50,47
+1992-10-24,Kansas,Big 8,Glen Mason,H,Oklahoma,Big 8,Gary Gibbs,W,27,10
+1992-10-31,Kansas,Big 8,Glen Mason,H,Oklahoma State,Big 8,Pat Jones,W,26,18
+1992-11-07,Kansas,Big 8,Glen Mason,A,Nebraska,Big 8,Tom Osborne,L,7,49
+1992-11-14,Kansas,Big 8,Glen Mason,H,Colorado,Big 8,Bill McCartney,L,18,25
+1992-11-21,Kansas,Big 8,Glen Mason,A,Missouri,Big 8,Bob Stull,L,17,22
+1992-12-25,Kansas,Big 8,Glen Mason,N,Brigham Young,WAC,LaVell Edwards,W,23,20
+1992-09-03,Western Michigan,MAC,Al Molde,A,Bowling Green State,MAC,Gary Blackney,L,19,29
+1992-09-12,Western Michigan,MAC,Al Molde,A,Texas Christian,SWC,Pat Sullivan,T,17,17
+1992-09-19,Western Michigan,MAC,Al Molde,H,Akron,MAC,Gerry Faust,W,24,20
+1992-09-26,Western Michigan,MAC,Al Molde,A,Ohio,MAC,Tom Lichtenberg,W,19,3
+1992-10-03,Western Michigan,MAC,Al Molde,H,Ball State,MAC,Paul Schudel,W,21,14
+1992-10-10,Western Michigan,MAC,Al Molde,A,Toledo,MAC,Gary Pinkel,L,12,21
+1992-10-17,Western Michigan,MAC,Al Molde,H,Eastern Michigan,MAC,Jan Quarless,W,20,19
+1992-10-24,Western Michigan,MAC,Al Molde,A,Kent State,MAC,Pete Cordelli,W,26,13
+1992-10-31,Western Michigan,MAC,Al Molde,H,Northern Illinois,Ind,Charlie Sadler,W,13,7
+1992-11-07,Western Michigan,MAC,Al Molde,A,Miami (OH),MAC,Randy Walker,L,7,20
+1992-11-14,Western Michigan,MAC,Al Molde,H,Central Michigan,MAC,Herb Deromedi,W,19,14
+1992-09-05,UTEP,WAC,David Lee,H,Brigham Young,WAC,LaVell Edwards,L,28,38
+1992-09-12,UTEP,WAC,David Lee,A,Nevada-Las Vegas,Big West,Jim Strong,L,17,19
+1992-09-19,UTEP,WAC,David Lee,H,New Mexico State,Big West,Jim Hess,L,24,30
+1992-10-03,UTEP,WAC,David Lee,H,Air Force,WAC,Fisher DeBerry,L,22,28
+1992-10-10,UTEP,WAC,David Lee,A,Colorado State,WAC,Earle Bruce,L,24,42
+1992-10-17,UTEP,WAC,David Lee,A,San Diego State,WAC,Al Luginbill,L,27,49
+1992-10-24,UTEP,WAC,David Lee,A,Utah,WAC,Ron McBride,W,20,13
+1992-10-31,UTEP,WAC,David Lee,H,Hawaii,WAC,Bob Wagner,L,21,41
+1992-11-07,UTEP,WAC,David Lee,A,Tulsa,Ind,David Rader,L,39,48
+1992-11-14,UTEP,WAC,David Lee,A,New Mexico,WAC,Dennis Franchione,L,14,35
+1992-11-28,UTEP,WAC,David Lee,H,Fresno State,WAC,Jim Sweeney,L,18,43
+1992-09-05,LSU,SEC,Curley Hallman,H,Texas A&M,SWC,R.C. Slocum,L,22,31
+1992-09-12,LSU,SEC,Curley Hallman,H,Mississippi State,SEC,Jackie Sherrill,W,24,3
+1992-09-19,LSU,SEC,Curley Hallman,A,Auburn,SEC,Pat Dye,L,28,30
+1992-09-26,LSU,SEC,Curley Hallman,H,Colorado State,WAC,Earle Bruce,L,14,17
+1992-10-03,LSU,SEC,Curley Hallman,H,Tennessee,SEC,Phillip Fulmer,L,0,20
+1992-10-10,LSU,SEC,Curley Hallman,A,Florida,SEC,Steve Spurrier,L,21,28
+1992-10-17,LSU,SEC,Curley Hallman,H,Kentucky,SEC,Bill Curry,L,25,27
+1992-10-31,LSU,SEC,Curley Hallman,A,Ole Miss,SEC,Billy Brewer,L,0,32
+1992-11-07,LSU,SEC,Curley Hallman,H,Alabama,SEC,Gene Stallings,L,11,31
+1992-11-21,LSU,SEC,Curley Hallman,H,Tulane,Ind,Buddy Teevens,W,24,12
+1992-11-27,LSU,SEC,Curley Hallman,A,Arkansas,SEC,Joe Kines,L,6,30
+1992-09-05,Tulsa,Ind,David Rader,H,Houston,SWC,John Jenkins,W,28,25
+1992-09-12,Tulsa,Ind,David Rader,A,Texas A&M,SWC,R.C. Slocum,L,9,19
+1992-09-19,Tulsa,Ind,David Rader,H,Kansas,Big 8,Glen Mason,L,7,40
+1992-09-26,Tulsa,Ind,David Rader,A,Oklahoma State,Big 8,Pat Jones,L,19,24
+1992-10-03,Tulsa,Ind,David Rader,A,Southern Mississippi,Ind,Jeff Bower,L,24,33
+1992-10-17,Tulsa,Ind,David Rader,A,Louisville,Ind,Howard Schnellenberger,L,27,32
+1992-10-24,Tulsa,Ind,David Rader,H,Memphis,Ind,Chuck Stobart,L,25,30
+1992-10-31,Tulsa,Ind,David Rader,H,Louisiana,Ind,Nelson Stokley,W,27,9
+1992-11-07,Tulsa,Ind,David Rader,H,UTEP,WAC,David Lee,W,48,39
+1992-11-28,Tulsa,Ind,David Rader,A,Hawaii,WAC,Bob Wagner,L,9,38
+1992-08-29,Iowa,Big Ten,Hayden Fry,N,North Carolina State,ACC,Dick Sheridan,L,14,24
+1992-09-05,Iowa,Big Ten,Hayden Fry,H,Miami (FL),Big East,Dennis Erickson,L,7,24
+1992-09-12,Iowa,Big Ten,Hayden Fry,H,Iowa State,Big 8,Jim Walden,W,21,7
+1992-09-26,Iowa,Big Ten,Hayden Fry,A,Colorado,Big 8,Bill McCartney,L,12,28
+1992-10-03,Iowa,Big Ten,Hayden Fry,A,Michigan,Big Ten,Gary Moeller,L,28,52
+1992-10-10,Iowa,Big Ten,Hayden Fry,H,Wisconsin,Big Ten,Barry Alvarez,W,23,22
+1992-10-17,Iowa,Big Ten,Hayden Fry,A,Illinois,Big Ten,Lou Tepper,W,24,14
+1992-10-24,Iowa,Big Ten,Hayden Fry,H,Purdue,Big Ten,Jim Colletto,L,16,27
+1992-10-31,Iowa,Big Ten,Hayden Fry,H,Ohio State,Big Ten,John Cooper,L,15,38
+1992-11-07,Iowa,Big Ten,Hayden Fry,A,Indiana,Big Ten,Bill Mallory,W,14,0
+1992-11-14,Iowa,Big Ten,Hayden Fry,H,Northwestern,Big Ten,Gary Barnett,W,56,14
+1992-11-21,Iowa,Big Ten,Hayden Fry,A,Minnesota,Big Ten,Jim Wacker,L,13,28
+1992-09-05,Texas,SWC,John Mackovic,H,Mississippi State,SEC,Jackie Sherrill,L,10,28
+1992-09-12,Texas,SWC,John Mackovic,A,Syracuse,Big East,Paul Pasqualoni,L,21,31
+1992-10-03,Texas,SWC,John Mackovic,A,Rice,SWC,Fred Goldsmith,W,23,21
+1992-10-10,Texas,SWC,John Mackovic,N,Oklahoma,Big 8,Gary Gibbs,W,34,24
+1992-10-24,Texas,SWC,John Mackovic,H,Houston,SWC,John Jenkins,W,45,38
+1992-10-31,Texas,SWC,John Mackovic,A,Texas Tech,SWC,Spike Dykes,W,44,33
+1992-11-07,Texas,SWC,John Mackovic,A,Texas Christian,SWC,Pat Sullivan,L,14,23
+1992-11-14,Texas,SWC,John Mackovic,H,SMU,SWC,Tom Rossley,W,35,14
+1992-11-21,Texas,SWC,John Mackovic,A,Baylor,SWC,Grant Teaff,L,20,21
+1992-11-26,Texas,SWC,John Mackovic,H,Texas A&M,SWC,R.C. Slocum,L,13,34
+1992-09-05,Texas Christian,SWC,Pat Sullivan,A,New Mexico,WAC,Dennis Franchione,L,7,24
+1992-09-12,Texas Christian,SWC,Pat Sullivan,H,Western Michigan,MAC,Al Molde,T,17,17
+1992-09-26,Texas Christian,SWC,Pat Sullivan,A,SMU,SWC,Tom Rossley,L,9,21
+1992-10-03,Texas Christian,SWC,Pat Sullivan,H,Oklahoma State,Big 8,Pat Jones,W,13,11
+1992-10-10,Texas Christian,SWC,Pat Sullivan,H,Baylor,SWC,Grant Teaff,L,20,41
+1992-10-17,Texas Christian,SWC,Pat Sullivan,A,Miami (FL),Big East,Dennis Erickson,L,10,45
+1992-10-24,Texas Christian,SWC,Pat Sullivan,H,Rice,SWC,Fred Goldsmith,L,12,29
+1992-10-31,Texas Christian,SWC,Pat Sullivan,A,Houston,SWC,John Jenkins,L,46,49
+1992-11-07,Texas Christian,SWC,Pat Sullivan,H,Texas,SWC,John Mackovic,W,23,14
+1992-11-14,Texas Christian,SWC,Pat Sullivan,H,Texas Tech,SWC,Spike Dykes,L,28,31
+1992-11-21,Texas Christian,SWC,Pat Sullivan,A,Texas A&M,SWC,R.C. Slocum,L,10,37
+1992-09-05,Air Force,WAC,Fisher DeBerry,H,Rice,SWC,Fred Goldsmith,W,30,21
+1992-09-12,Air Force,WAC,Fisher DeBerry,H,Hawaii,WAC,Bob Wagner,L,3,6
+1992-09-19,Air Force,WAC,Fisher DeBerry,A,Wyoming,WAC,Joe Tiller,W,42,28
+1992-09-26,Air Force,WAC,Fisher DeBerry,H,New Mexico,WAC,Dennis Franchione,W,33,32
+1992-10-03,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,David Lee,W,28,22
+1992-10-10,Air Force,WAC,Fisher DeBerry,H,Navy,Ind,George Chaump,W,18,16
+1992-10-17,Air Force,WAC,Fisher DeBerry,H,Colorado State,WAC,Earle Bruce,L,28,32
+1992-10-24,Air Force,WAC,Fisher DeBerry,A,San Diego State,WAC,Al Luginbill,W,20,17
+1992-10-31,Air Force,WAC,Fisher DeBerry,H,Utah,WAC,Ron McBride,L,13,20
+1992-11-07,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Bob Sutton,W,7,3
+1992-11-14,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,7,28
+1992-12-31,Air Force,WAC,Fisher DeBerry,N,Ole Miss,SEC,Billy Brewer,L,0,13
+1992-09-05,Miami (FL),Big East,Dennis Erickson,A,Iowa,Big Ten,Hayden Fry,W,24,7
+1992-09-26,Miami (FL),Big East,Dennis Erickson,H,Arizona,Pac-10,Dick Tomey,W,8,7
+1992-10-03,Miami (FL),Big East,Dennis Erickson,H,Florida State,ACC,Bobby Bowden,W,19,16
+1992-10-10,Miami (FL),Big East,Dennis Erickson,A,Penn State,Ind,Joe Paterno,W,17,14
+1992-10-17,Miami (FL),Big East,Dennis Erickson,H,Texas Christian,SWC,Pat Sullivan,W,45,10
+1992-10-24,Miami (FL),Big East,Dennis Erickson,A,Virginia Tech,Big East,Frank Beamer,W,43,23
+1992-10-31,Miami (FL),Big East,Dennis Erickson,H,West Virginia,Big East,Don Nehlen,W,35,23
+1992-11-14,Miami (FL),Big East,Dennis Erickson,H,Temple,Big East,Jerry Berndt,W,48,0
+1992-11-21,Miami (FL),Big East,Dennis Erickson,A,Syracuse,Big East,Paul Pasqualoni,W,16,10
+1992-11-28,Miami (FL),Big East,Dennis Erickson,A,San Diego State,WAC,Al Luginbill,W,63,17
+1993-01-01,Miami (FL),Big East,Dennis Erickson,N,Alabama,SEC,Gene Stallings,L,13,34
+1992-09-05,Oregon,Pac-10,Rich Brooks,H,Hawaii,WAC,Bob Wagner,L,21,24
+1992-09-12,Oregon,Pac-10,Rich Brooks,A,Stanford,Pac-10,Bill Walsh,L,7,21
+1992-09-19,Oregon,Pac-10,Rich Brooks,H,Texas Tech,SWC,Spike Dykes,W,16,13
+1992-09-26,Oregon,Pac-10,Rich Brooks,H,Nevada-Las Vegas,Big West,Jim Strong,W,59,6
+1992-10-03,Oregon,Pac-10,Rich Brooks,H,Arizona State,Pac-10,Bruce Snyder,W,30,20
+1992-10-10,Oregon,Pac-10,Rich Brooks,A,USC,Pac-10,Larry Smith,L,10,32
+1992-10-17,Oregon,Pac-10,Rich Brooks,H,Washington,Pac-10,Don James,L,3,24
+1992-10-31,Oregon,Pac-10,Rich Brooks,A,Washington State,Pac-10,Mike Price,W,34,17
+1992-11-07,Oregon,Pac-10,Rich Brooks,H,California,Pac-10,Keith Gilbertson,W,37,17
+1992-11-14,Oregon,Pac-10,Rich Brooks,H,UCLA,Pac-10,Terry Donahue,L,6,9
+1992-11-21,Oregon,Pac-10,Rich Brooks,A,Oregon State,Pac-10,Jerry Pettibone,W,7,0
+1992-12-31,Oregon,Pac-10,Rich Brooks,N,Wake Forest,ACC,Bill Dooley,L,35,39
+1992-09-05,Tennessee,SEC,Phillip Fulmer,H,Louisiana,Ind,Nelson Stokley,W,38,3
+1992-09-12,Tennessee,SEC,Phillip Fulmer,A,Georgia,SEC,Ray Goff,W,34,31
+1992-09-19,Tennessee,SEC,Phillip Fulmer,H,Florida,SEC,Steve Spurrier,W,31,14
+1992-09-26,Tennessee,SEC,Phillip Fulmer,H,Cincinnati,Ind,Tim Murphy,W,40,0
+1992-10-03,Tennessee,SEC,Phillip Fulmer,A,LSU,SEC,Curley Hallman,W,20,0
+1992-10-10,Tennessee,SEC,Phillip Fulmer,H,Arkansas,SEC,Joe Kines,L,24,25
+1992-10-17,Tennessee,SEC,Phillip Fulmer,H,Alabama,SEC,Gene Stallings,L,10,17
+1992-10-31,Tennessee,SEC,Phillip Fulmer,A,South Carolina,SEC,Sparky Woods,L,23,24
+1992-11-14,Tennessee,SEC,Phillip Fulmer,A,Memphis,Ind,Chuck Stobart,W,26,21
+1992-11-21,Tennessee,SEC,Phillip Fulmer,H,Kentucky,SEC,Bill Curry,W,34,13
+1992-11-28,Tennessee,SEC,Phillip Fulmer,A,Vanderbilt,SEC,Gerry DiNardo,W,29,25
+1993-01-01,Tennessee,SEC,Phillip Fulmer,N,Boston College,Big East,Tom Coughlin,W,38,23
+1992-09-05,Oregon State,Pac-10,Jerry Pettibone,H,Kansas,Big 8,Glen Mason,L,20,49
+1992-09-12,Oregon State,Pac-10,Jerry Pettibone,H,Fresno State,WAC,Jim Sweeney,W,46,36
+1992-09-19,Oregon State,Pac-10,Jerry Pettibone,H,Arizona,Pac-10,Dick Tomey,T,14,14
+1992-09-26,Oregon State,Pac-10,Jerry Pettibone,A,Utah,WAC,Ron McBride,L,9,42
+1992-10-03,Oregon State,Pac-10,Jerry Pettibone,A,California,Pac-10,Keith Gilbertson,L,0,42
+1992-10-10,Oregon State,Pac-10,Jerry Pettibone,H,Washington State,Pac-10,Mike Price,L,10,35
+1992-10-17,Oregon State,Pac-10,Jerry Pettibone,A,Arizona State,Pac-10,Bruce Snyder,L,13,40
+1992-10-24,Oregon State,Pac-10,Jerry Pettibone,H,Stanford,Pac-10,Bill Walsh,L,21,27
+1992-11-07,Oregon State,Pac-10,Jerry Pettibone,A,UCLA,Pac-10,Terry Donahue,L,14,26
+1992-11-14,Oregon State,Pac-10,Jerry Pettibone,A,Washington,Pac-10,Don James,L,16,45
+1992-11-21,Oregon State,Pac-10,Jerry Pettibone,H,Oregon,Pac-10,Rich Brooks,L,0,7
+1992-09-05,Alabama,SEC,Gene Stallings,H,Vanderbilt,SEC,Gerry DiNardo,W,25,8
+1992-09-12,Alabama,SEC,Gene Stallings,H,Southern Mississippi,Ind,Jeff Bower,W,17,10
+1992-09-19,Alabama,SEC,Gene Stallings,A,Arkansas,SEC,Joe Kines,W,38,11
+1992-09-26,Alabama,SEC,Gene Stallings,H,Louisiana Tech,Ind,Joe Peace,W,13,0
+1992-10-03,Alabama,SEC,Gene Stallings,H,South Carolina,SEC,Sparky Woods,W,48,7
+1992-10-10,Alabama,SEC,Gene Stallings,A,Tulane,Ind,Buddy Teevens,W,37,0
+1992-10-17,Alabama,SEC,Gene Stallings,A,Tennessee,SEC,Phillip Fulmer,W,17,10
+1992-10-24,Alabama,SEC,Gene Stallings,H,Ole Miss,SEC,Billy Brewer,W,31,10
+1992-11-07,Alabama,SEC,Gene Stallings,A,LSU,SEC,Curley Hallman,W,31,11
+1992-11-14,Alabama,SEC,Gene Stallings,A,Mississippi State,SEC,Jackie Sherrill,W,30,21
+1992-11-26,Alabama,SEC,Gene Stallings,N,Auburn,SEC,Pat Dye,W,17,0
+1992-12-05,Alabama,SEC,Gene Stallings,H,Florida,SEC,Steve Spurrier,W,28,21
+1993-01-01,Alabama,SEC,Gene Stallings,N,Miami (FL),Big East,Dennis Erickson,W,34,13
+1992-09-12,Purdue,Big Ten,Jim Colletto,H,California,Pac-10,Keith Gilbertson,W,41,14
+1992-09-19,Purdue,Big Ten,Jim Colletto,H,Toledo,MAC,Gary Pinkel,L,29,33
+1992-09-26,Purdue,Big Ten,Jim Colletto,A,Notre Dame,Ind,Lou Holtz,L,0,48
+1992-10-03,Purdue,Big Ten,Jim Colletto,H,Northwestern,Big Ten,Gary Barnett,L,14,28
+1992-10-10,Purdue,Big Ten,Jim Colletto,H,Minnesota,Big Ten,Jim Wacker,W,24,20
+1992-10-17,Purdue,Big Ten,Jim Colletto,A,Wisconsin,Big Ten,Barry Alvarez,L,16,19
+1992-10-24,Purdue,Big Ten,Jim Colletto,A,Iowa,Big Ten,Hayden Fry,W,27,16
+1992-10-31,Purdue,Big Ten,Jim Colletto,H,Michigan,Big Ten,Gary Moeller,L,17,24
+1992-11-07,Purdue,Big Ten,Jim Colletto,A,Illinois,Big Ten,Lou Tepper,L,17,20
+1992-11-14,Purdue,Big Ten,Jim Colletto,A,Michigan State,Big Ten,George Perles,L,13,35
+1992-11-21,Purdue,Big Ten,Jim Colletto,H,Indiana,Big Ten,Bill Mallory,W,13,10
+1992-09-05,Nebraska,Big 8,Tom Osborne,H,Utah,WAC,Ron McBride,W,49,22
+1992-09-19,Nebraska,Big 8,Tom Osborne,A,Washington,Pac-10,Don James,L,14,29
+1992-09-26,Nebraska,Big 8,Tom Osborne,H,Arizona State,Pac-10,Bruce Snyder,W,45,24
+1992-10-10,Nebraska,Big 8,Tom Osborne,H,Oklahoma State,Big 8,Pat Jones,W,55,0
+1992-10-24,Nebraska,Big 8,Tom Osborne,A,Missouri,Big 8,Bob Stull,W,34,24
+1992-10-31,Nebraska,Big 8,Tom Osborne,H,Colorado,Big 8,Bill McCartney,W,52,7
+1992-11-07,Nebraska,Big 8,Tom Osborne,H,Kansas,Big 8,Glen Mason,W,49,7
+1992-11-14,Nebraska,Big 8,Tom Osborne,A,Iowa State,Big 8,Jim Walden,L,10,19
+1992-11-27,Nebraska,Big 8,Tom Osborne,A,Oklahoma,Big 8,Gary Gibbs,W,33,9
+1992-12-06,Nebraska,Big 8,Tom Osborne,N,Kansas State,Big 8,Bill Snyder,W,38,24
+1993-01-01,Nebraska,Big 8,Tom Osborne,N,Florida State,ACC,Bobby Bowden,L,14,27
+1992-09-05,West Virginia,Big East,Don Nehlen,H,Miami (OH),MAC,Randy Walker,T,29,29
+1992-09-12,West Virginia,Big East,Don Nehlen,A,Pitt,Big East,Sal Sunseri,W,44,6
+1992-09-19,West Virginia,Big East,Don Nehlen,H,Maryland,ACC,Mark Duffner,W,34,33
+1992-09-26,West Virginia,Big East,Don Nehlen,A,Virginia Tech,Big East,Frank Beamer,W,16,7
+1992-10-03,West Virginia,Big East,Don Nehlen,H,Boston College,Big East,Tom Coughlin,T,24,24
+1992-10-17,West Virginia,Big East,Don Nehlen,H,Syracuse,Big East,Paul Pasqualoni,L,17,20
+1992-10-24,West Virginia,Big East,Don Nehlen,H,Penn State,Ind,Joe Paterno,L,26,40
+1992-10-31,West Virginia,Big East,Don Nehlen,A,Miami (FL),Big East,Dennis Erickson,L,23,35
+1992-11-07,West Virginia,Big East,Don Nehlen,H,East Carolina,Ind,Steve Logan,W,41,28
+1992-11-14,West Virginia,Big East,Don Nehlen,A,Rutgers,Big East,Doug Graber,L,9,13
+1992-11-21,West Virginia,Big East,Don Nehlen,H,Louisiana Tech,Ind,Joe Peace,W,23,3
+1992-09-19,Oklahoma State,Big 8,Pat Jones,A,Michigan,Big Ten,Gary Moeller,L,3,35
+1992-09-26,Oklahoma State,Big 8,Pat Jones,H,Tulsa,Ind,David Rader,W,24,19
+1992-10-03,Oklahoma State,Big 8,Pat Jones,A,Texas Christian,SWC,Pat Sullivan,L,11,13
+1992-10-10,Oklahoma State,Big 8,Pat Jones,A,Nebraska,Big 8,Tom Osborne,L,0,55
+1992-10-17,Oklahoma State,Big 8,Pat Jones,H,Missouri,Big 8,Bob Stull,W,28,26
+1992-10-24,Oklahoma State,Big 8,Pat Jones,H,Iowa State,Big 8,Jim Walden,W,27,21
+1992-10-31,Oklahoma State,Big 8,Pat Jones,A,Kansas,Big 8,Glen Mason,L,18,26
+1992-11-07,Oklahoma State,Big 8,Pat Jones,A,Colorado,Big 8,Bill McCartney,L,0,28
+1992-11-14,Oklahoma State,Big 8,Pat Jones,H,Oklahoma,Big 8,Gary Gibbs,T,15,15
+1992-11-21,Oklahoma State,Big 8,Pat Jones,A,Kansas State,Big 8,Bill Snyder,L,0,10
+1992-09-05,Colorado,Big 8,Bill McCartney,H,Colorado State,WAC,Earle Bruce,W,37,17
+1992-09-12,Colorado,Big 8,Bill McCartney,A,Baylor,SWC,Grant Teaff,W,57,38
+1992-09-19,Colorado,Big 8,Bill McCartney,A,Minnesota,Big Ten,Jim Wacker,W,21,20
+1992-09-26,Colorado,Big 8,Bill McCartney,H,Iowa,Big Ten,Hayden Fry,W,28,12
+1992-10-08,Colorado,Big 8,Bill McCartney,A,Missouri,Big 8,Bob Stull,W,6,0
+1992-10-17,Colorado,Big 8,Bill McCartney,H,Oklahoma,Big 8,Gary Gibbs,T,24,24
+1992-10-24,Colorado,Big 8,Bill McCartney,H,Kansas State,Big 8,Bill Snyder,W,54,7
+1992-10-31,Colorado,Big 8,Bill McCartney,A,Nebraska,Big 8,Tom Osborne,L,7,52
+1992-11-07,Colorado,Big 8,Bill McCartney,H,Oklahoma State,Big 8,Pat Jones,W,28,0
+1992-11-14,Colorado,Big 8,Bill McCartney,A,Kansas,Big 8,Glen Mason,W,25,18
+1992-11-21,Colorado,Big 8,Bill McCartney,H,Iowa State,Big 8,Jim Walden,W,31,10
+1993-01-01,Colorado,Big 8,Bill McCartney,N,Syracuse,Big East,Paul Pasqualoni,L,22,26
+1992-09-05,Colorado State,WAC,Earle Bruce,A,Colorado,Big 8,Bill McCartney,L,17,37
+1992-09-19,Colorado State,WAC,Earle Bruce,A,Fresno State,WAC,Jim Sweeney,L,21,52
+1992-09-26,Colorado State,WAC,Earle Bruce,A,LSU,SEC,Curley Hallman,W,17,14
+1992-10-03,Colorado State,WAC,Earle Bruce,H,Utah,WAC,Ron McBride,L,29,33
+1992-10-10,Colorado State,WAC,Earle Bruce,H,UTEP,WAC,David Lee,W,42,24
+1992-10-17,Colorado State,WAC,Earle Bruce,A,Air Force,WAC,Fisher DeBerry,W,32,28
+1992-10-24,Colorado State,WAC,Earle Bruce,H,Wyoming,WAC,Joe Tiller,L,14,31
+1992-10-31,Colorado State,WAC,Earle Bruce,H,San Diego State,WAC,Al Luginbill,L,13,20
+1992-11-07,Colorado State,WAC,Earle Bruce,A,Hawaii,WAC,Bob Wagner,L,13,24
+1992-11-14,Colorado State,WAC,Earle Bruce,H,Ohio,MAC,Tom Lichtenberg,W,35,24
+1992-11-21,Colorado State,WAC,Earle Bruce,A,New Mexico,WAC,Dennis Franchione,W,14,10
+1992-09-05,Rice,SWC,Fred Goldsmith,A,Air Force,WAC,Fisher DeBerry,L,21,30
+1992-09-19,Rice,SWC,Fred Goldsmith,A,Duke,ACC,Barry Wilson,L,12,17
+1992-10-03,Rice,SWC,Fred Goldsmith,H,Texas,SWC,John Mackovic,L,21,23
+1992-10-10,Rice,SWC,Fred Goldsmith,H,SMU,SWC,Tom Rossley,W,28,13
+1992-10-17,Rice,SWC,Fred Goldsmith,A,Texas A&M,SWC,R.C. Slocum,L,9,35
+1992-10-24,Rice,SWC,Fred Goldsmith,A,Texas Christian,SWC,Pat Sullivan,W,29,12
+1992-11-07,Rice,SWC,Fred Goldsmith,H,Texas Tech,SWC,Spike Dykes,W,34,3
+1992-11-14,Rice,SWC,Fred Goldsmith,H,Baylor,SWC,Grant Teaff,W,34,31
+1992-11-21,Rice,SWC,Fred Goldsmith,H,Navy,Ind,George Chaump,W,27,22
+1992-11-28,Rice,SWC,Fred Goldsmith,A,Houston,SWC,John Jenkins,L,34,61
+1992-08-26,Texas A&M,SWC,R.C. Slocum,N,Stanford,Pac-10,Bill Walsh,W,10,7
+1992-09-05,Texas A&M,SWC,R.C. Slocum,A,LSU,SEC,Curley Hallman,W,31,22
+1992-09-12,Texas A&M,SWC,R.C. Slocum,H,Tulsa,Ind,David Rader,W,19,9
+1992-09-19,Texas A&M,SWC,R.C. Slocum,A,Missouri,Big 8,Bob Stull,W,26,13
+1992-10-03,Texas A&M,SWC,R.C. Slocum,H,Texas Tech,SWC,Spike Dykes,W,19,17
+1992-10-17,Texas A&M,SWC,R.C. Slocum,H,Rice,SWC,Fred Goldsmith,W,35,9
+1992-10-24,Texas A&M,SWC,R.C. Slocum,H,Baylor,SWC,Grant Teaff,W,19,13
+1992-10-31,Texas A&M,SWC,R.C. Slocum,A,SMU,SWC,Tom Rossley,W,41,7
+1992-11-07,Texas A&M,SWC,R.C. Slocum,H,Louisville,Ind,Howard Schnellenberger,W,40,18
+1992-11-12,Texas A&M,SWC,R.C. Slocum,A,Houston,SWC,John Jenkins,W,38,30
+1992-11-21,Texas A&M,SWC,R.C. Slocum,H,Texas Christian,SWC,Pat Sullivan,W,37,10
+1992-11-26,Texas A&M,SWC,R.C. Slocum,A,Texas,SWC,John Mackovic,W,34,13
+1993-01-01,Texas A&M,SWC,R.C. Slocum,N,Notre Dame,Ind,Lou Holtz,L,3,28
+1992-09-12,Michigan State,Big Ten,George Perles,H,Central Michigan,MAC,Herb Deromedi,L,20,24
+1992-09-19,Michigan State,Big Ten,George Perles,H,Notre Dame,Ind,Lou Holtz,L,31,52
+1992-09-26,Michigan State,Big Ten,George Perles,A,Boston College,Big East,Tom Coughlin,L,0,14
+1992-10-03,Michigan State,Big Ten,George Perles,H,Indiana,Big Ten,Bill Mallory,W,42,31
+1992-10-10,Michigan State,Big Ten,George Perles,A,Michigan,Big Ten,Gary Moeller,L,10,35
+1992-10-17,Michigan State,Big Ten,George Perles,A,Minnesota,Big Ten,Jim Wacker,W,20,15
+1992-10-24,Michigan State,Big Ten,George Perles,H,Ohio State,Big Ten,John Cooper,L,17,27
+1992-10-31,Michigan State,Big Ten,George Perles,A,Northwestern,Big Ten,Gary Barnett,W,27,26
+1992-11-07,Michigan State,Big Ten,George Perles,H,Wisconsin,Big Ten,Barry Alvarez,W,26,10
+1992-11-14,Michigan State,Big Ten,George Perles,H,Purdue,Big Ten,Jim Colletto,W,35,13
+1992-11-21,Michigan State,Big Ten,George Perles,A,Illinois,Big Ten,Lou Tepper,L,10,14
+1992-09-05,Boston College,Big East,Tom Coughlin,H,Rutgers,Big East,Doug Graber,W,37,20
+1992-09-12,Boston College,Big East,Tom Coughlin,H,Northwestern,Big Ten,Gary Barnett,W,49,0
+1992-09-19,Boston College,Big East,Tom Coughlin,H,Navy,Ind,George Chaump,W,28,0
+1992-09-26,Boston College,Big East,Tom Coughlin,H,Michigan State,Big Ten,George Perles,W,14,0
+1992-10-03,Boston College,Big East,Tom Coughlin,A,West Virginia,Big East,Don Nehlen,T,24,24
+1992-10-17,Boston College,Big East,Tom Coughlin,A,Penn State,Ind,Joe Paterno,W,35,32
+1992-10-24,Boston College,Big East,Tom Coughlin,A,Tulane,Ind,Buddy Teevens,W,17,13
+1992-10-31,Boston College,Big East,Tom Coughlin,H,Temple,Big East,Jerry Berndt,W,45,6
+1992-11-07,Boston College,Big East,Tom Coughlin,A,Notre Dame,Ind,Lou Holtz,L,7,54
+1992-11-14,Boston College,Big East,Tom Coughlin,H,Syracuse,Big East,Paul Pasqualoni,L,10,27
+1992-11-21,Boston College,Big East,Tom Coughlin,A,Army,Ind,Bob Sutton,W,41,24
+1993-01-01,Boston College,Big East,Tom Coughlin,N,Tennessee,SEC,Phillip Fulmer,L,23,38
+1992-09-12,New Mexico State,Big West,Jim Hess,H,New Mexico,WAC,Dennis Franchione,W,42,39
+1992-09-19,New Mexico State,Big West,Jim Hess,A,UTEP,WAC,David Lee,W,30,24
+1992-09-26,New Mexico State,Big West,Jim Hess,A,Utah State,Big West,Charlie Weatherbie,L,21,48
+1992-10-03,New Mexico State,Big West,Jim Hess,A,Kansas State,Big 8,Bill Snyder,L,0,19
+1992-10-10,New Mexico State,Big West,Jim Hess,H,Nevada-Las Vegas,Big West,Jim Strong,W,40,10
+1992-10-17,New Mexico State,Big West,Jim Hess,H,Pacific,Big West,Chuck Shelton,L,17,49
+1992-10-24,New Mexico State,Big West,Jim Hess,A,Nevada,Big West,Chris Ault,L,21,35
+1992-10-31,New Mexico State,Big West,Jim Hess,A,Arizona,Pac-10,Dick Tomey,L,0,30
+1992-11-14,New Mexico State,Big West,Jim Hess,H,Cal State Fullerton,Big West,Gene Murphy,W,44,31
+1992-11-21,New Mexico State,Big West,Jim Hess,A,San Jose State,Big West,Ron Turner,W,34,24
+1992-09-05,Louisiana Tech,Ind,Joe Peace,A,Baylor,SWC,Grant Teaff,W,10,9
+1992-09-12,Louisiana Tech,Ind,Joe Peace,H,Eastern Michigan,MAC,Jan Quarless,W,31,17
+1992-09-19,Louisiana Tech,Ind,Joe Peace,A,Southern Mississippi,Ind,Jeff Bower,L,13,16
+1992-09-26,Louisiana Tech,Ind,Joe Peace,A,Alabama,SEC,Gene Stallings,L,0,13
+1992-10-03,Louisiana Tech,Ind,Joe Peace,A,Fresno State,WAC,Jim Sweeney,L,14,48
+1992-10-10,Louisiana Tech,Ind,Joe Peace,H,Louisiana,Ind,Nelson Stokley,W,21,7
+1992-10-31,Louisiana Tech,Ind,Joe Peace,H,Arkansas State,Ind,Ray Perkins,W,23,0
+1992-11-07,Louisiana Tech,Ind,Joe Peace,A,South Carolina,SEC,Sparky Woods,L,13,14
+1992-11-14,Louisiana Tech,Ind,Joe Peace,A,Ole Miss,SEC,Billy Brewer,L,6,13
+1992-11-21,Louisiana Tech,Ind,Joe Peace,A,West Virginia,Big East,Don Nehlen,L,3,23
+1992-09-12,Minnesota,Big Ten,Jim Wacker,H,San Jose State,Big West,Ron Turner,L,30,39
+1992-09-19,Minnesota,Big Ten,Jim Wacker,H,Colorado,Big 8,Bill McCartney,L,20,21
+1992-09-26,Minnesota,Big Ten,Jim Wacker,A,Pitt,Big East,Sal Sunseri,L,33,41
+1992-10-03,Minnesota,Big Ten,Jim Wacker,H,Illinois,Big Ten,Lou Tepper,W,18,17
+1992-10-10,Minnesota,Big Ten,Jim Wacker,A,Purdue,Big Ten,Jim Colletto,L,20,24
+1992-10-17,Minnesota,Big Ten,Jim Wacker,H,Michigan State,Big Ten,George Perles,L,15,20
+1992-10-24,Minnesota,Big Ten,Jim Wacker,A,Michigan,Big Ten,Gary Moeller,L,13,63
+1992-10-31,Minnesota,Big Ten,Jim Wacker,H,Indiana,Big Ten,Bill Mallory,L,17,24
+1992-11-07,Minnesota,Big Ten,Jim Wacker,A,Ohio State,Big Ten,John Cooper,L,0,17
+1992-11-14,Minnesota,Big Ten,Jim Wacker,A,Wisconsin,Big Ten,Barry Alvarez,L,6,34
+1992-11-21,Minnesota,Big Ten,Jim Wacker,H,Iowa,Big Ten,Hayden Fry,W,28,13
+1992-09-05,Ole Miss,SEC,Billy Brewer,H,Auburn,SEC,Pat Dye,W,45,21
+1992-09-12,Ole Miss,SEC,Billy Brewer,H,Tulane,Ind,Buddy Teevens,W,35,9
+1992-09-19,Ole Miss,SEC,Billy Brewer,A,Vanderbilt,SEC,Gerry DiNardo,L,9,31
+1992-09-26,Ole Miss,SEC,Billy Brewer,A,Georgia,SEC,Ray Goff,L,11,37
+1992-10-03,Ole Miss,SEC,Billy Brewer,H,Kentucky,SEC,Bill Curry,W,24,14
+1992-10-17,Ole Miss,SEC,Billy Brewer,A,Arkansas,SEC,Joe Kines,W,17,3
+1992-10-24,Ole Miss,SEC,Billy Brewer,A,Alabama,SEC,Gene Stallings,L,10,31
+1992-10-31,Ole Miss,SEC,Billy Brewer,H,LSU,SEC,Curley Hallman,W,32,0
+1992-11-07,Ole Miss,SEC,Billy Brewer,H,Memphis,Ind,Chuck Stobart,W,17,12
+1992-11-14,Ole Miss,SEC,Billy Brewer,H,Louisiana Tech,Ind,Joe Peace,W,13,6
+1992-11-28,Ole Miss,SEC,Billy Brewer,H,Mississippi State,SEC,Jackie Sherrill,W,17,10
+1992-12-31,Ole Miss,SEC,Billy Brewer,N,Air Force,WAC,Fisher DeBerry,W,13,0
+1992-09-05,Duke,ACC,Barry Wilson,A,Florida State,ACC,Bobby Bowden,L,21,48
+1992-09-12,Duke,ACC,Barry Wilson,A,Vanderbilt,SEC,Gerry DiNardo,L,37,42
+1992-09-19,Duke,ACC,Barry Wilson,H,Rice,SWC,Fred Goldsmith,W,17,12
+1992-09-26,Duke,ACC,Barry Wilson,H,Virginia,ACC,George Welsh,L,28,55
+1992-10-10,Duke,ACC,Barry Wilson,H,East Carolina,Ind,Steve Logan,W,45,14
+1992-10-17,Duke,ACC,Barry Wilson,A,Clemson,ACC,Ken Hatfield,L,6,21
+1992-10-24,Duke,ACC,Barry Wilson,H,Maryland,ACC,Mark Duffner,L,25,27
+1992-10-31,Duke,ACC,Barry Wilson,A,Georgia Tech,ACC,Bill Lewis,L,17,20
+1992-11-07,Duke,ACC,Barry Wilson,H,Wake Forest,ACC,Bill Dooley,L,14,28
+1992-11-14,Duke,ACC,Barry Wilson,A,North Carolina State,ACC,Dick Sheridan,L,27,45
+1992-11-21,Duke,ACC,Barry Wilson,H,North Carolina,ACC,Mack Brown,L,28,31
+1992-09-05,Kent State,MAC,Pete Cordelli,A,Pitt,Big East,Sal Sunseri,L,10,51
+1992-09-12,Kent State,MAC,Pete Cordelli,H,Ohio,MAC,Tom Lichtenberg,L,14,27
+1992-09-19,Kent State,MAC,Pete Cordelli,H,Ball State,MAC,Paul Schudel,L,6,10
+1992-09-26,Kent State,MAC,Pete Cordelli,A,Eastern Michigan,MAC,Jan Quarless,W,17,14
+1992-10-03,Kent State,MAC,Pete Cordelli,A,Cincinnati,Ind,Tim Murphy,L,0,31
+1992-10-10,Kent State,MAC,Pete Cordelli,H,Akron,MAC,Gerry Faust,W,20,16
+1992-10-17,Kent State,MAC,Pete Cordelli,A,Central Michigan,MAC,Herb Deromedi,L,0,35
+1992-10-24,Kent State,MAC,Pete Cordelli,H,Western Michigan,MAC,Al Molde,L,13,26
+1992-10-31,Kent State,MAC,Pete Cordelli,A,Toledo,MAC,Gary Pinkel,L,17,32
+1992-11-07,Kent State,MAC,Pete Cordelli,H,Bowling Green State,MAC,Gary Blackney,L,22,28
+1992-11-14,Kent State,MAC,Pete Cordelli,A,Miami (OH),MAC,Randy Walker,L,14,31
+1992-09-12,Navy,Ind,George Chaump,H,Virginia,ACC,George Welsh,L,0,53
+1992-09-19,Navy,Ind,George Chaump,A,Boston College,Big East,Tom Coughlin,L,0,28
+1992-09-26,Navy,Ind,George Chaump,H,Rutgers,Big East,Doug Graber,L,0,40
+1992-10-03,Navy,Ind,George Chaump,A,North Carolina,ACC,Mack Brown,L,14,28
+1992-10-10,Navy,Ind,George Chaump,A,Air Force,WAC,Fisher DeBerry,L,16,18
+1992-10-31,Navy,Ind,George Chaump,N,Notre Dame,Ind,Lou Holtz,L,7,38
+1992-11-07,Navy,Ind,George Chaump,H,Tulane,Ind,Buddy Teevens,W,20,17
+1992-11-14,Navy,Ind,George Chaump,H,Vanderbilt,SEC,Gerry DiNardo,L,7,27
+1992-11-21,Navy,Ind,George Chaump,A,Rice,SWC,Fred Goldsmith,L,22,27
+1992-12-05,Navy,Ind,George Chaump,N,Army,Ind,Bob Sutton,L,24,25
+1992-09-05,Fresno State,WAC,Jim Sweeney,A,Pacific,Big West,Chuck Shelton,W,42,21
+1992-09-12,Fresno State,WAC,Jim Sweeney,A,Oregon State,Pac-10,Jerry Pettibone,L,36,46
+1992-09-19,Fresno State,WAC,Jim Sweeney,H,Colorado State,WAC,Earle Bruce,W,52,21
+1992-09-26,Fresno State,WAC,Jim Sweeney,H,Washington State,Pac-10,Mike Price,L,37,39
+1992-10-03,Fresno State,WAC,Jim Sweeney,H,Louisiana Tech,Ind,Joe Peace,W,48,14
+1992-10-10,Fresno State,WAC,Jim Sweeney,A,Brigham Young,WAC,LaVell Edwards,L,24,36
+1992-10-17,Fresno State,WAC,Jim Sweeney,A,Hawaii,WAC,Bob Wagner,L,45,47
+1992-10-24,Fresno State,WAC,Jim Sweeney,H,New Mexico,WAC,Dennis Franchione,W,31,28
+1992-10-31,Fresno State,WAC,Jim Sweeney,H,Wyoming,WAC,Joe Tiller,W,42,31
+1992-11-07,Fresno State,WAC,Jim Sweeney,H,Utah,WAC,Ron McBride,W,41,15
+1992-11-21,Fresno State,WAC,Jim Sweeney,A,San Diego State,WAC,Al Luginbill,W,45,41
+1992-11-28,Fresno State,WAC,Jim Sweeney,A,UTEP,WAC,David Lee,W,43,18
+1992-12-29,Fresno State,WAC,Jim Sweeney,A,USC,Pac-10,Larry Smith,W,24,7
+1992-09-03,Texas Tech,SWC,Spike Dykes,H,Oklahoma,Big 8,Gary Gibbs,L,9,34
+1992-09-12,Texas Tech,SWC,Spike Dykes,H,Wyoming,WAC,Joe Tiller,W,49,32
+1992-09-19,Texas Tech,SWC,Spike Dykes,A,Oregon,Pac-10,Rich Brooks,L,13,16
+1992-09-26,Texas Tech,SWC,Spike Dykes,H,Baylor,SWC,Grant Teaff,W,36,17
+1992-10-03,Texas Tech,SWC,Spike Dykes,A,Texas A&M,SWC,R.C. Slocum,L,17,19
+1992-10-10,Texas Tech,SWC,Spike Dykes,A,North Carolina State,ACC,Dick Sheridan,L,13,48
+1992-10-24,Texas Tech,SWC,Spike Dykes,H,SMU,SWC,Tom Rossley,W,39,25
+1992-10-31,Texas Tech,SWC,Spike Dykes,H,Texas,SWC,John Mackovic,L,33,44
+1992-11-07,Texas Tech,SWC,Spike Dykes,A,Rice,SWC,Fred Goldsmith,L,3,34
+1992-11-14,Texas Tech,SWC,Spike Dykes,A,Texas Christian,SWC,Pat Sullivan,W,31,28
+1992-11-21,Texas Tech,SWC,Spike Dykes,H,Houston,SWC,John Jenkins,W,44,35
+1992-09-05,Tulane,Ind,Buddy Teevens,A,SMU,SWC,Tom Rossley,W,13,12
+1992-09-12,Tulane,Ind,Buddy Teevens,A,Ole Miss,SEC,Billy Brewer,L,9,35
+1992-09-19,Tulane,Ind,Buddy Teevens,A,Iowa State,Big 8,Jim Walden,L,14,38
+1992-09-26,Tulane,Ind,Buddy Teevens,H,Nevada,Big West,Chris Ault,W,34,17
+1992-10-10,Tulane,Ind,Buddy Teevens,H,Alabama,SEC,Gene Stallings,L,0,37
+1992-10-15,Tulane,Ind,Buddy Teevens,H,Southern Mississippi,Ind,Jeff Bower,L,7,17
+1992-10-24,Tulane,Ind,Buddy Teevens,H,Boston College,Big East,Tom Coughlin,L,13,17
+1992-10-31,Tulane,Ind,Buddy Teevens,H,Memphis,Ind,Chuck Stobart,L,20,62
+1992-11-07,Tulane,Ind,Buddy Teevens,A,Navy,Ind,George Chaump,L,17,20
+1992-11-14,Tulane,Ind,Buddy Teevens,A,Florida State,ACC,Bobby Bowden,L,7,70
+1992-11-21,Tulane,Ind,Buddy Teevens,A,LSU,SEC,Curley Hallman,L,12,24
+1992-09-05,Northern Illinois,Ind,Charlie Sadler,A,Illinois,Big Ten,Lou Tepper,L,14,30
+1992-09-19,Northern Illinois,Ind,Charlie Sadler,A,Arkansas State,Ind,Ray Perkins,W,31,0
+1992-09-26,Northern Illinois,Ind,Charlie Sadler,A,Wisconsin,Big Ten,Barry Alvarez,L,17,18
+1992-10-10,Northern Illinois,Ind,Charlie Sadler,H,Southern Mississippi,Ind,Jeff Bower,W,23,10
+1992-10-31,Northern Illinois,Ind,Charlie Sadler,A,Western Michigan,MAC,Al Molde,L,7,13
+1992-11-07,Northern Illinois,Ind,Charlie Sadler,A,Louisiana,Ind,Nelson Stokley,W,23,15
+1992-11-14,Northern Illinois,Ind,Charlie Sadler,A,Army,Ind,Bob Sutton,L,14,21
+1992-11-21,Northern Illinois,Ind,Charlie Sadler,H,Toledo,MAC,Gary Pinkel,L,8,25
+1992-09-05,Ohio State,Big Ten,John Cooper,H,Louisville,Ind,Howard Schnellenberger,W,20,19
+1992-09-12,Ohio State,Big Ten,John Cooper,H,Bowling Green State,MAC,Gary Blackney,W,17,6
+1992-09-19,Ohio State,Big Ten,John Cooper,A,Syracuse,Big East,Paul Pasqualoni,W,35,12
+1992-10-03,Ohio State,Big Ten,John Cooper,A,Wisconsin,Big Ten,Barry Alvarez,L,16,20
+1992-10-10,Ohio State,Big Ten,John Cooper,H,Illinois,Big Ten,Lou Tepper,L,16,18
+1992-10-17,Ohio State,Big Ten,John Cooper,H,Northwestern,Big Ten,Gary Barnett,W,31,7
+1992-10-24,Ohio State,Big Ten,John Cooper,A,Michigan State,Big Ten,George Perles,W,27,17
+1992-10-31,Ohio State,Big Ten,John Cooper,A,Iowa,Big Ten,Hayden Fry,W,38,15
+1992-11-07,Ohio State,Big Ten,John Cooper,H,Minnesota,Big Ten,Jim Wacker,W,17,0
+1992-11-14,Ohio State,Big Ten,John Cooper,A,Indiana,Big Ten,Bill Mallory,W,27,10
+1992-11-21,Ohio State,Big Ten,John Cooper,H,Michigan,Big Ten,Gary Moeller,T,13,13
+1993-01-01,Ohio State,Big Ten,John Cooper,N,Georgia,SEC,Ray Goff,L,14,21
+1992-09-05,Ohio,MAC,Tom Lichtenberg,A,Iowa State,Big 8,Jim Walden,L,9,35
+1992-09-12,Ohio,MAC,Tom Lichtenberg,A,Kent State,MAC,Pete Cordelli,W,27,14
+1992-09-19,Ohio,MAC,Tom Lichtenberg,A,Central Michigan,MAC,Herb Deromedi,L,0,24
+1992-09-26,Ohio,MAC,Tom Lichtenberg,H,Western Michigan,MAC,Al Molde,L,3,19
+1992-10-03,Ohio,MAC,Tom Lichtenberg,H,Akron,MAC,Gerry Faust,L,0,13
+1992-10-10,Ohio,MAC,Tom Lichtenberg,A,Bowling Green State,MAC,Gary Blackney,L,14,31
+1992-10-17,Ohio,MAC,Tom Lichtenberg,H,Miami (OH),MAC,Randy Walker,L,21,23
+1992-10-24,Ohio,MAC,Tom Lichtenberg,A,Eastern Michigan,MAC,Jan Quarless,L,6,7
+1992-10-31,Ohio,MAC,Tom Lichtenberg,H,Ball State,MAC,Paul Schudel,L,21,24
+1992-11-14,Ohio,MAC,Tom Lichtenberg,A,Colorado State,WAC,Earle Bruce,L,24,35
+1992-09-05,Houston,SWC,John Jenkins,A,Tulsa,Ind,David Rader,L,25,28
+1992-09-19,Houston,SWC,John Jenkins,H,Illinois,Big Ten,Lou Tepper,W,31,13
+1992-09-26,Houston,SWC,John Jenkins,A,Michigan,Big Ten,Gary Moeller,L,7,61
+1992-10-03,Houston,SWC,John Jenkins,H,Louisiana,Ind,Nelson Stokley,W,63,7
+1992-10-17,Houston,SWC,John Jenkins,A,Baylor,SWC,Grant Teaff,L,23,29
+1992-10-24,Houston,SWC,John Jenkins,A,Texas,SWC,John Mackovic,L,38,45
+1992-10-31,Houston,SWC,John Jenkins,H,Texas Christian,SWC,Pat Sullivan,W,49,46
+1992-11-07,Houston,SWC,John Jenkins,A,SMU,SWC,Tom Rossley,L,16,41
+1992-11-12,Houston,SWC,John Jenkins,H,Texas A&M,SWC,R.C. Slocum,L,30,38
+1992-11-21,Houston,SWC,John Jenkins,A,Texas Tech,SWC,Spike Dykes,L,35,44
+1992-11-28,Houston,SWC,John Jenkins,H,Rice,SWC,Fred Goldsmith,W,61,34

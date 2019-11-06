@@ -1,0 +1,161 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1889-09-28,Trinity (CT),Ind,Lucius Robinson,A,Stevens,Ind,,L,0,5
+1889-10-05,Trinity (CT),Ind,Lucius Robinson,H,Wesleyan (CT),Ind,,W,4,2
+1889-10-12,Trinity (CT),Ind,Lucius Robinson,H,Columbia,Ind,,W,24,4
+1889-10-24,Trinity (CT),Ind,Lucius Robinson,H,Yale,Ind,Walter Camp,L,0,64
+1889-11-13,Trinity (CT),Ind,Lucius Robinson,A,Wesleyan (CT),Ind,,L,0,6
+1889-11-16,Trinity (CT),Ind,Lucius Robinson,H,Stevens,Ind,,W,12,0
+1889-10-11,Dickinson,Ind,,H,Bucknell,Ind,,W,20,4
+1889-10-19,Dickinson,Ind,,A,Swarthmore,Ind,Jacob Shell,W,17,16
+1889-10-30,Dickinson,Ind,,H,Franklin & Marshall,Ind,W.M. Irvin,W,10,0
+1889-11-28,Dickinson,Ind,,A,Franklin & Marshall,Ind,W.M. Irvin,L,0,22
+1889-09-28,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,38,0
+1889-10-02,Yale,Ind,Walter Camp,H,Williams,Ind,,W,36,0
+1889-10-09,Yale,Ind,Walter Camp,A,Wesleyan (CT),Ind,,W,63,5
+1889-10-15,Yale,Ind,Walter Camp,H,Cornell,Ind,,W,56,6
+1889-10-19,Yale,Ind,Walter Camp,H,Amherst,Ind,,W,42,0
+1889-10-24,Yale,Ind,Walter Camp,A,Trinity (CT),Ind,Lucius Robinson,W,64,0
+1889-10-26,Yale,Ind,Walter Camp,A,Columbia,Ind,,W,62,0
+1889-10-30,Yale,Ind,Walter Camp,A,Pennsylvania,Ind,E.O. Wagenhurst,W,20,10
+1889-10-31,Yale,Ind,Walter Camp,N,Stevens,Ind,,W,30,0
+1889-11-09,Yale,Ind,Walter Camp,A,Cornell,Ind,,W,70,0
+1889-11-12,Yale,Ind,Walter Camp,A,Amherst,Ind,,W,32,0
+1889-11-13,Yale,Ind,Walter Camp,A,Williams,Ind,,W,70,0
+1889-11-16,Yale,Ind,Walter Camp,N,Wesleyan (CT),Ind,,W,52,0
+1889-11-23,Yale,Ind,Walter Camp,N,Harvard,Ind,,W,6,0
+1889-11-28,Yale,Ind,Walter Camp,N,Princeton,Ind,,L,0,10
+1889-10-19,Franklin & Marshall,Ind,W.M. Irvin,H,Bucknell,Ind,,T,12,12
+1889-10-26,Franklin & Marshall,Ind,W.M. Irvin,A,Bucknell,Ind,,W,16,0
+1889-10-30,Franklin & Marshall,Ind,W.M. Irvin,A,Dickinson,Ind,,L,0,10
+1889-11-09,Franklin & Marshall,Ind,W.M. Irvin,A,Swarthmore,Ind,Jacob Shell,W,22,4
+1889-11-28,Franklin & Marshall,Ind,W.M. Irvin,H,Dickinson,Ind,,W,22,0
+1889-10-05,Lehigh,Ind,,A,Princeton,Ind,,L,0,16
+1889-10-12,Lehigh,Ind,,H,Princeton,Ind,,L,4,16
+1889-10-19,Lehigh,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,L,4,6
+1889-10-30,Lehigh,Ind,,H,Lafayette,Ind,,W,16,10
+1889-11-02,Lehigh,Ind,,H,Columbia,Ind,,W,51,6
+1889-11-11,Lehigh,Ind,,H,Penn State,Ind,,W,106,0
+1889-11-16,Lehigh,Ind,,A,Lafayette,Ind,,T,6,6
+1889-11-20,Lehigh,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,W,8,0
+1889-11-23,Lehigh,Ind,,A,Wesleyan (CT),Ind,,T,11,11
+1889-10-05,Harvard,Ind,,H,Stevens,Ind,,W,28,4
+1889-10-09,Harvard,Ind,,H,Dartmouth,Ind,,W,38,0
+1889-10-12,Harvard,Ind,,H,MIT,Ind,,W,62,0
+1889-10-16,Harvard,Ind,,H,Williams,Ind,,W,41,0
+1889-10-26,Harvard,Ind,,H,Wesleyan (CT),Ind,,W,64,0
+1889-11-02,Harvard,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,W,35,0
+1889-11-09,Harvard,Ind,,A,Wesleyan (CT),Ind,,W,67,2
+1889-11-16,Harvard,Ind,,H,Princeton,Ind,,L,15,41
+1889-11-23,Harvard,Ind,,N,Yale,Ind,Walter Camp,L,0,6
+1889-10-02,Williams,Ind,,A,Yale,Ind,Walter Camp,L,0,36
+1889-10-05,Williams,Ind,,A,Amherst,Ind,,T,10,10
+1889-10-16,Williams,Ind,,A,Harvard,Ind,,L,0,41
+1889-10-30,Williams,Ind,,H,Wesleyan (CT),Ind,,L,17,20
+1889-11-09,Williams,Ind,,H,Dartmouth,Ind,,L,9,20
+1889-11-13,Williams,Ind,,H,Yale,Ind,Walter Camp,L,0,70
+1889-11-23,Williams,Ind,,A,MIT,Ind,,W,18,6
+1889-10-05,Bucknell,Ind,,A,Cornell,Ind,,L,0,66
+1889-10-11,Bucknell,Ind,,A,Dickinson,Ind,,L,4,20
+1889-10-19,Bucknell,Ind,,A,Franklin & Marshall,Ind,W.M. Irvin,T,12,12
+1889-10-26,Bucknell,Ind,,H,Franklin & Marshall,Ind,W.M. Irvin,L,0,16
+1889-11-02,Bucknell,Ind,,A,Swarthmore,Ind,Jacob Shell,W,8,0
+1889-11-25,Bucknell,Ind,,A,Penn State,Ind,,L,0,12
+1889-10-26,Penn State,Ind,,H,Swarthmore,Ind,Jacob Shell,W,20,6
+1889-11-09,Penn State,Ind,,A,Lafayette,Ind,,L,0,26
+1889-11-11,Penn State,Ind,,A,Lehigh,Ind,,L,0,106
+1889-11-25,Penn State,Ind,,H,Bucknell,Ind,,W,12,0
+1889-09-28,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,38
+1889-10-05,Wesleyan (CT),Ind,,A,Trinity (CT),Ind,Lucius Robinson,L,2,4
+1889-10-09,Wesleyan (CT),Ind,,H,Yale,Ind,Walter Camp,L,5,63
+1889-10-16,Wesleyan (CT),Ind,,H,Amherst,Ind,,W,39,0
+1889-10-19,Wesleyan (CT),Ind,,H,Rutgers,Ind,,W,58,4
+1889-10-26,Wesleyan (CT),Ind,,A,Harvard,Ind,,L,0,64
+1889-10-30,Wesleyan (CT),Ind,,A,Williams,Ind,,W,20,17
+1889-11-02,Wesleyan (CT),Ind,,H,Princeton,Ind,,L,0,98
+1889-11-09,Wesleyan (CT),Ind,,H,Harvard,Ind,,L,2,67
+1889-11-13,Wesleyan (CT),Ind,,H,Trinity (CT),Ind,Lucius Robinson,W,6,0
+1889-11-16,Wesleyan (CT),Ind,,N,Yale,Ind,Walter Camp,L,0,52
+1889-11-23,Wesleyan (CT),Ind,,H,Lehigh,Ind,,T,11,11
+1889-11-28,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,E.O. Wagenhurst,W,10,2
+1889-10-09,Dartmouth,Ind,,A,Harvard,Ind,,L,0,38
+1889-11-02,Dartmouth,Ind,,H,Amherst,Ind,,W,60,6
+1889-11-09,Dartmouth,Ind,,A,Williams,Ind,,W,20,9
+1889-11-16,Dartmouth,Ind,,H,MIT,Ind,,W,42,6
+1889-11-28,Dartmouth,Ind,,A,Stevens,Ind,,W,18,5
+1889-10-05,Princeton,Ind,,H,Lehigh,Ind,,W,16,0
+1889-10-12,Princeton,Ind,,A,Lehigh,Ind,,W,16,4
+1889-10-19,Princeton,Ind,,H,Stevens,Ind,,W,49,0
+1889-10-26,Princeton,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,W,72,4
+1889-11-02,Princeton,Ind,,A,Wesleyan (CT),Ind,,W,98,0
+1889-11-06,Princeton,Ind,,A,Columbia,Ind,,W,71,0
+1889-11-16,Princeton,Ind,,A,Harvard,Ind,,W,41,15
+1889-11-28,Princeton,Ind,,N,Yale,Ind,Walter Camp,W,10,0
+1889-09-28,Stevens,Ind,,H,Trinity (CT),Ind,Lucius Robinson,W,5,0
+1889-10-05,Stevens,Ind,,A,Harvard,Ind,,L,4,28
+1889-10-19,Stevens,Ind,,A,Princeton,Ind,,L,0,49
+1889-10-31,Stevens,Ind,,N,Yale,Ind,Walter Camp,L,0,30
+1889-11-02,Stevens,Ind,,A,Cornell,Ind,,L,4,39
+1889-11-09,Stevens,Ind,,A,MIT,Ind,,L,10,16
+1889-11-14,Stevens,Ind,,H,Columbia,Ind,,L,6,12
+1889-11-16,Stevens,Ind,,A,Trinity (CT),Ind,Lucius Robinson,L,0,12
+1889-11-20,Stevens,Ind,,H,Amherst,Ind,,L,5,12
+1889-11-28,Stevens,Ind,,H,Dartmouth,Ind,,L,5,18
+1889-10-12,Rutgers,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,L,0,4
+1889-10-16,Rutgers,Ind,,H,Lafayette,Ind,,L,0,16
+1889-10-19,Rutgers,Ind,,A,Wesleyan (CT),Ind,,L,4,58
+1889-11-16,Rutgers,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,L,0,14
+1889-10-05,Swarthmore,Ind,Jacob Shell,A,Pennsylvania,Ind,E.O. Wagenhurst,L,0,82
+1889-10-19,Swarthmore,Ind,Jacob Shell,H,Dickinson,Ind,,L,16,17
+1889-10-26,Swarthmore,Ind,Jacob Shell,A,Penn State,Ind,,L,6,20
+1889-11-02,Swarthmore,Ind,Jacob Shell,H,Bucknell,Ind,,L,0,8
+1889-11-09,Swarthmore,Ind,Jacob Shell,H,Franklin & Marshall,Ind,W.M. Irvin,L,4,22
+1889-10-05,Pennsylvania,Ind,E.O. Wagenhurst,H,Swarthmore,Ind,Jacob Shell,W,82,0
+1889-10-12,Pennsylvania,Ind,E.O. Wagenhurst,A,Rutgers,Ind,,W,4,0
+1889-10-19,Pennsylvania,Ind,E.O. Wagenhurst,H,Lehigh,Ind,,W,6,4
+1889-10-26,Pennsylvania,Ind,E.O. Wagenhurst,H,Princeton,Ind,,L,4,72
+1889-10-30,Pennsylvania,Ind,E.O. Wagenhurst,H,Yale,Ind,Walter Camp,L,10,20
+1889-11-02,Pennsylvania,Ind,E.O. Wagenhurst,A,Harvard,Ind,,L,0,35
+1889-11-06,Pennsylvania,Ind,E.O. Wagenhurst,A,Lafayette,Ind,,L,8,10
+1889-11-09,Pennsylvania,Ind,E.O. Wagenhurst,A,Columbia,Ind,,W,24,0
+1889-11-16,Pennsylvania,Ind,E.O. Wagenhurst,H,Rutgers,Ind,,W,14,0
+1889-11-20,Pennsylvania,Ind,E.O. Wagenhurst,A,Lehigh,Ind,,L,0,8
+1889-11-23,Pennsylvania,Ind,E.O. Wagenhurst,H,Lafayette,Ind,,W,14,0
+1889-11-28,Pennsylvania,Ind,E.O. Wagenhurst,N,Wesleyan (CT),Ind,,L,2,10
+1889-10-09,Columbia,Ind,,H,Lafayette,Ind,,T,10,10
+1889-10-12,Columbia,Ind,,A,Trinity (CT),Ind,Lucius Robinson,L,4,24
+1889-10-26,Columbia,Ind,,H,Yale,Ind,Walter Camp,L,0,62
+1889-11-02,Columbia,Ind,,A,Lehigh,Ind,,L,6,51
+1889-11-06,Columbia,Ind,,H,Princeton,Ind,,L,0,71
+1889-11-09,Columbia,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,L,0,24
+1889-11-14,Columbia,Ind,,A,Stevens,Ind,,W,12,6
+1889-11-23,Columbia,Ind,,A,Amherst,Ind,,T,0,0
+1889-11-26,Columbia,Ind,,H,Cornell,Ind,,L,0,20
+1889-10-05,Amherst,Ind,,H,Williams,Ind,,T,10,10
+1889-10-16,Amherst,Ind,,A,Wesleyan (CT),Ind,,L,0,39
+1889-10-19,Amherst,Ind,,A,Yale,Ind,Walter Camp,L,0,42
+1889-10-26,Amherst,Ind,,H,MIT,Ind,,L,9,10
+1889-11-02,Amherst,Ind,,A,Dartmouth,Ind,,L,6,60
+1889-11-12,Amherst,Ind,,H,Yale,Ind,Walter Camp,L,0,32
+1889-11-20,Amherst,Ind,,A,Stevens,Ind,,W,12,5
+1889-11-23,Amherst,Ind,,H,Columbia,Ind,,T,0,0
+1889-10-09,Lafayette,Ind,,A,Columbia,Ind,,T,10,10
+1889-10-12,Lafayette,Ind,,A,Cornell,Ind,,L,0,10
+1889-10-16,Lafayette,Ind,,A,Rutgers,Ind,,W,16,0
+1889-10-30,Lafayette,Ind,,A,Lehigh,Ind,,L,10,16
+1889-11-06,Lafayette,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,W,10,8
+1889-11-09,Lafayette,Ind,,H,Penn State,Ind,,W,26,0
+1889-11-16,Lafayette,Ind,,H,Lehigh,Ind,,T,6,6
+1889-11-23,Lafayette,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,L,0,14
+1889-11-28,Lafayette,Ind,,A,Cornell,Ind,,L,0,24
+1889-10-05,Cornell,Ind,,H,Bucknell,Ind,,W,66,0
+1889-10-12,Cornell,Ind,,H,Lafayette,Ind,,W,10,0
+1889-10-15,Cornell,Ind,,A,Yale,Ind,Walter Camp,L,6,56
+1889-11-02,Cornell,Ind,,H,Stevens,Ind,,W,39,4
+1889-11-09,Cornell,Ind,,H,Yale,Ind,Walter Camp,L,0,70
+1889-11-26,Cornell,Ind,,A,Columbia,Ind,,W,20,0
+1889-11-28,Cornell,Ind,,H,Lafayette,Ind,,W,24,0
+1889-10-12,MIT,Ind,,A,Harvard,Ind,,L,0,62
+1889-10-26,MIT,Ind,,A,Amherst,Ind,,W,10,9
+1889-11-09,MIT,Ind,,H,Stevens,Ind,,W,16,10
+1889-11-16,MIT,Ind,,A,Dartmouth,Ind,,L,6,42
+1889-11-23,MIT,Ind,,H,Williams,Ind,,L,6,18

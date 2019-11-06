@@ -1,0 +1,395 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1913-09-27,North Carolina,Ind,T.C. Trenchard,H,Wake Forest,Ind,Frank Thompson,W,7,0
+1913-10-11,North Carolina,Ind,T.C. Trenchard,N,Davidson,Ind,W.T. Cook,W,7,0
+1913-10-18,North Carolina,Ind,T.C. Trenchard,A,South Carolina,Ind,N.B. Edgerton,W,13,3
+1913-10-25,North Carolina,Ind,T.C. Trenchard,H,Virginia Tech,Ind,Branch Bocock,L,7,14
+1913-11-01,North Carolina,Ind,T.C. Trenchard,A,Georgia,Ind,W.A. Cunningham,L,6,19
+1913-11-08,North Carolina,Ind,T.C. Trenchard,A,Washington & Lee,Ind,H.L. Dowd,L,0,14
+1913-11-15,North Carolina,Ind,T.C. Trenchard,N,Wake Forest,Ind,Frank Thompson,W,29,0
+1913-11-27,North Carolina,Ind,T.C. Trenchard,A,Virginia,Ind,W. Warren,L,7,26
+1913-10-04,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,7,21
+1913-10-25,Indiana,Western,James Sheldon,H,Illinois,Western,Robert Zuppke,L,0,10
+1913-11-01,Indiana,Western,James Sheldon,A,Ohio State,Western,John Wilce,W,7,6
+1913-11-08,Indiana,Western,James Sheldon,A,Iowa,Western,Jesse Hawley,L,0,60
+1913-11-15,Indiana,Western,James Sheldon,A,Northwestern,Western,Dennis Grady,W,21,20
+1913-11-23,Indiana,Western,James Sheldon,H,Purdue,Western,Andy Smith,L,7,42
+1913-10-04,Wyoming,RMC,Ralph Thacker,H,Colorado,RMC,Fred Folsom,L,0,7
+1913-10-11,Wyoming,RMC,Ralph Thacker,A,Colorado College,RMC,C.J. Rothget,L,0,49
+1913-10-18,Wyoming,RMC,Ralph Thacker,H,Colorado Mines,RMC,Harry Buckingham,L,0,40
+1913-11-08,Wyoming,RMC,Ralph Thacker,H,Denver,RMC,,L,0,26
+1913-11-27,Wyoming,RMC,Ralph Thacker,A,Colorado State,RMC,Harry Hughes,L,0,61
+1913-10-11,Yale,Ind,Howard Jones,H,Lafayette,Ind,George McCaa,W,27,0
+1913-10-18,Yale,Ind,Howard Jones,H,Lehigh,Ind,Tom Keady,W,37,0
+1913-10-25,Yale,Ind,Howard Jones,H,Washington & Jefferson,Ind,Bob Folwell,T,0,0
+1913-11-01,Yale,Ind,Howard Jones,H,Colgate,Ind,Laurence Bankart,L,6,16
+1913-11-08,Yale,Ind,Howard Jones,H,Brown,Ind,Edward Robinson,W,17,0
+1913-11-15,Yale,Ind,Howard Jones,H,Princeton,Ind,W. Gresham Andrews,T,3,3
+1913-11-22,Yale,Ind,Howard Jones,A,Harvard,Ind,Percy Haughton,L,5,15
+1913-10-04,Iowa State,MVIAA,Homer Hubbard,A,Minnesota,Western,Henry Williams,L,0,25
+1913-10-18,Iowa State,MVIAA,Homer Hubbard,A,Washington (MO),MVIAA,W.P. Edmunds,W,37,7
+1913-10-25,Iowa State,MVIAA,Homer Hubbard,H,Missouri,MVIAA,,L,13,21
+1913-11-01,Iowa State,MVIAA,Homer Hubbard,H,Nebraska,MVIAA,Jumbo Stiehm,L,9,18
+1913-11-15,Iowa State,MVIAA,Homer Hubbard,A,Iowa,Western,Jesse Hawley,L,7,45
+1913-11-22,Iowa State,MVIAA,Homer Hubbard,A,Drake,MVIAA,John Griffith,W,26,3
+1913-09-27,Carlisle,Ind,Pop Warner,H,West Virginia Wesleyan,Ind, McIntyre,W,25,0
+1913-10-04,Carlisle,Ind,Pop Warner,A,Lehigh,Ind,Tom Keady,W,21,7
+1913-10-11,Carlisle,Ind,Pop Warner,A,Cornell,Ind,,W,7,0
+1913-10-18,Carlisle,Ind,Pop Warner,A,Pitt,Ind,Joseph Duff,L,6,12
+1913-10-25,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,George Brooke,T,7,7
+1913-11-01,Carlisle,Ind,Pop Warner,A,Georgetown,Ind,Frank Gargan,W,34,0
+1913-11-15,Carlisle,Ind,Pop Warner,N,Dartmouth,Ind,Frank Cavanaugh,W,35,10
+1913-11-22,Carlisle,Ind,Pop Warner,A,Syracuse,Ind,,W,35,27
+1913-11-27,Carlisle,Ind,Pop Warner,A,Brown,Ind,Edward Robinson,W,13,0
+1913-10-18,Utah,RMC,Fred Bennion,A,Colorado College,RMC,C.J. Rothget,W,7,6
+1913-10-25,Utah,RMC,Fred Bennion,H,Colorado Mines,RMC,Harry Buckingham,L,0,7
+1913-11-08,Utah,RMC,Fred Bennion,H,Colorado,RMC,Fred Folsom,L,12,30
+1913-10-04,Georgia Tech,Ind,John Heisman,A,Citadel,Ind,George Rogers,W,47,0
+1913-10-18,Georgia Tech,Ind,John Heisman,H,Mercer,Ind,,W,33,0
+1913-10-25,Georgia Tech,Ind,John Heisman,N,Florida,Ind,G.E. Pyle,W,13,3
+1913-11-01,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,Harris Cope,W,33,0
+1913-11-08,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,0,20
+1913-11-15,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,W.A. Cunningham,L,0,14
+1913-11-27,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Bob Williams,W,34,0
+1913-09-27,Wake Forest,Ind,Frank Thompson,A,North Carolina,Ind,T.C. Trenchard,L,0,7
+1913-10-11,Wake Forest,Ind,Frank Thompson,A,South Carolina,Ind,N.B. Edgerton,L,10,27
+1913-10-25,Wake Forest,Ind,Frank Thompson,H,Washington & Lee,Ind,H.L. Dowd,L,0,33
+1913-11-01,Wake Forest,Ind,Frank Thompson,H,North Carolina State,Ind,,L,0,37
+1913-11-15,Wake Forest,Ind,Frank Thompson,N,North Carolina,Ind,T.C. Trenchard,L,0,29
+1913-11-27,Wake Forest,Ind,Frank Thompson,N,Davidson,Ind,W.T. Cook,L,0,6
+1913-10-25,Mississippi State,Ind,William Chadwick,A,Auburn,Ind,Mike Donahue,L,0,34
+1913-11-01,Mississippi State,Ind,William Chadwick,A,Texas A&M,Ind,Charley Moran,W,6,0
+1913-11-08,Mississippi State,Ind,William Chadwick,H,Tulane,Ind,A.C. Hoffman,W,32,0
+1913-11-15,Mississippi State,Ind,William Chadwick,H,LSU,Ind,Pat Dwyer,T,0,0
+1913-11-27,Mississippi State,Ind,William Chadwick,A,Alabama,Ind,Tubby Graves,W,7,0
+1913-10-08,Virginia Military Institute,Ind,Henry Poaque,H,Ole Miss,Ind,,W,14,0
+1913-10-18,Virginia Military Institute,Ind,Henry Poaque,A,Virginia,Ind,W. Warren,L,7,38
+1913-11-08,Virginia Military Institute,Ind,Henry Poaque,H,North Carolina State,Ind,,W,14,7
+1913-11-27,Virginia Military Institute,Ind,Henry Poaque,N,Virginia Tech,Ind,Branch Bocock,T,6,6
+1913-10-25,Washington & Lee,Ind,H.L. Dowd,A,Wake Forest,Ind,Frank Thompson,W,33,0
+1913-11-01,Washington & Lee,Ind,H.L. Dowd,N,Virginia Tech,Ind,Branch Bocock,W,21,0
+1913-11-08,Washington & Lee,Ind,H.L. Dowd,H,North Carolina,Ind,T.C. Trenchard,W,14,0
+1913-11-15,Washington & Lee,Ind,H.L. Dowd,N,West Virginia,Ind,,W,28,0
+1913-11-27,Washington & Lee,Ind,H.L. Dowd,N,North Carolina State,Ind,,L,0,6
+1913-10-18,Syracuse,Ind,,A,Princeton,Ind,W. Gresham Andrews,L,0,13
+1913-11-01,Syracuse,Ind,,A,Michigan,Ind,Fielding Yost,L,7,43
+1913-11-15,Syracuse,Ind,,H,Colgate,Ind,Laurence Bankart,L,13,35
+1913-11-22,Syracuse,Ind,,H,Carlisle,Ind,Pop Warner,L,27,35
+1913-10-11,Georgetown,Ind,Frank Gargan,A,Navy,Ind,,L,0,23
+1913-10-25,Georgetown,Ind,Frank Gargan,H,North Carolina State,Ind,,L,0,12
+1913-11-01,Georgetown,Ind,Frank Gargan,H,Carlisle,Ind,Pop Warner,L,0,34
+1913-11-08,Georgetown,Ind,Frank Gargan,A,West Virginia Wesleyan,Ind, McIntyre,L,6,16
+1913-11-15,Georgetown,Ind,Frank Gargan,H,Virginia,Ind,W. Warren,W,8,7
+1913-10-11,Kansas State,MVIAA,Guy Lowman,A,Nebraska,MVIAA,Jumbo Stiehm,L,6,24
+1913-10-25,Kansas State,MVIAA,Guy Lowman,H,Kansas,MVIAA,Arthur Mosse,L,0,26
+1913-11-08,Kansas State,MVIAA,Guy Lowman,H,Texas A&M,Ind,Charley Moran,W,12,0
+1913-11-18,Kansas State,MVIAA,Guy Lowman,A,Texas,Ind,Dave Allerdice,L,0,46
+1913-10-18,Army,Ind,Charles Daly,H,Colgate,Ind,Laurence Bankart,W,7,6
+1913-11-01,Army,Ind,Charles Daly,H,Notre Dame,Ind,Jesse Harper,L,13,35
+1913-11-29,Army,Ind,Charles Daly,H,Navy,Ind,,W,22,9
+1913-10-18,Penn State,Ind,Bill Hollenback,A,Washington & Jefferson,Ind,Bob Folwell,L,0,17
+1913-10-25,Penn State,Ind,Bill Hollenback,A,Harvard,Ind,Percy Haughton,L,0,29
+1913-11-01,Penn State,Ind,Bill Hollenback,A,Pennsylvania,Ind,George Brooke,L,0,17
+1913-11-08,Penn State,Ind,Bill Hollenback,H,Notre Dame,Ind,Jesse Harper,L,7,14
+1913-11-15,Penn State,Ind,Bill Hollenback,A,Navy,Ind,,L,0,10
+1913-11-27,Penn State,Ind,Bill Hollenback,A,Pitt,Ind,Joseph Duff,L,6,7
+1913-10-25,Dartmouth,Ind,Frank Cavanaugh,A,Princeton,Ind,W. Gresham Andrews,W,6,0
+1913-11-08,Dartmouth,Ind,Frank Cavanaugh,A,Pennsylvania,Ind,George Brooke,W,34,21
+1913-11-15,Dartmouth,Ind,Frank Cavanaugh,N,Carlisle,Ind,Pop Warner,L,10,35
+1913-10-11,Princeton,Ind,W. Gresham Andrews,H,Bucknell,Ind,By Dickson,W,28,6
+1913-10-18,Princeton,Ind,W. Gresham Andrews,H,Syracuse,Ind,,W,13,0
+1913-10-25,Princeton,Ind,W. Gresham Andrews,H,Dartmouth,Ind,Frank Cavanaugh,L,0,6
+1913-11-08,Princeton,Ind,W. Gresham Andrews,H,Harvard,Ind,Percy Haughton,L,0,3
+1913-11-15,Princeton,Ind,W. Gresham Andrews,A,Yale,Ind,Howard Jones,T,3,3
+1913-10-25,Vanderbilt,Ind,Dan McGugin,H,Michigan,Ind,Fielding Yost,L,2,33
+1913-11-01,Vanderbilt,Ind,Dan McGugin,A,Virginia,Ind,W. Warren,L,0,34
+1913-11-08,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,Zora Clevenger,W,7,6
+1913-11-15,Vanderbilt,Ind,Dan McGugin,A,Auburn,Ind,Mike Donahue,L,6,14
+1913-11-22,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,W,63,13
+1913-10-11,Colorado College,RMC,C.J. Rothget,H,Wyoming,RMC,Ralph Thacker,W,49,0
+1913-10-18,Colorado College,RMC,C.J. Rothget,H,Utah,RMC,Fred Bennion,L,6,7
+1913-11-01,Colorado College,RMC,C.J. Rothget,A,Colorado,RMC,Fred Folsom,T,0,0
+1913-11-08,Colorado College,RMC,C.J. Rothget,N,Colorado Mines,RMC,Harry Buckingham,L,13,17
+1913-11-15,Colorado College,RMC,C.J. Rothget,A,Denver,RMC,,W,21,2
+1913-10-04,Auburn,Ind,Mike Donahue,H,Mercer,Ind,,W,53,0
+1913-10-11,Auburn,Ind,Mike Donahue,H,Florida,Ind,G.E. Pyle,W,55,0
+1913-10-18,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Bob Williams,W,20,0
+1913-10-25,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,William Chadwick,W,34,0
+1913-11-01,Auburn,Ind,Mike Donahue,H,LSU,Ind,Pat Dwyer,W,7,0
+1913-11-08,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,20,0
+1913-11-15,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Dan McGugin,W,14,6
+1913-11-22,Auburn,Ind,Mike Donahue,A,Georgia,Ind,W.A. Cunningham,W,21,7
+1913-10-11,Northwestern,Western,Dennis Grady,A,Purdue,Western,Andy Smith,L,0,34
+1913-10-18,Northwestern,Western,Dennis Grady,A,Illinois,Western,Robert Zuppke,L,0,37
+1913-10-25,Northwestern,Western,Dennis Grady,H,Iowa,Western,Jesse Hawley,L,6,78
+1913-11-08,Northwestern,Western,Dennis Grady,H,Chicago,Western,Amos Alonzo Stagg,L,0,14
+1913-11-15,Northwestern,Western,Dennis Grady,H,Indiana,Western,James Sheldon,L,20,21
+1913-11-22,Northwestern,Western,Dennis Grady,A,Ohio State,Western,John Wilce,L,0,58
+1913-10-11,Kansas,MVIAA,Arthur Mosse,H,Washington (MO),MVIAA,W.P. Edmunds,W,55,7
+1913-10-18,Kansas,MVIAA,Arthur Mosse,H,Drake,MVIAA,John Griffith,W,11,0
+1913-10-25,Kansas,MVIAA,Arthur Mosse,A,Kansas State,MVIAA,Guy Lowman,W,26,0
+1913-11-01,Kansas,MVIAA,Arthur Mosse,A,Oklahoma,Ind,Bennie Owen,L,7,21
+1913-11-15,Kansas,MVIAA,Arthur Mosse,H,Nebraska,MVIAA,Jumbo Stiehm,L,0,9
+1913-11-22,Kansas,MVIAA,Arthur Mosse,A,Missouri,MVIAA,,L,0,3
+1913-10-11,Florida,Ind,G.E. Pyle,A,Auburn,Ind,Mike Donahue,L,0,55
+1913-10-25,Florida,Ind,G.E. Pyle,N,Georgia Tech,Ind,John Heisman,L,3,13
+1913-11-08,Florida,Ind,G.E. Pyle,A,South Carolina,Ind,N.B. Edgerton,L,0,13
+1913-11-15,Florida,Ind,G.E. Pyle,H,Citadel,Ind,George Rogers,W,18,13
+1913-11-27,Florida,Ind,G.E. Pyle,H,Mercer,Ind,,W,24,0
+1913-10-23,LSU,Ind,Pat Dwyer,H,Baylor,Ind,Norman Payne,W,50,0
+1913-11-01,LSU,Ind,Pat Dwyer,A,Auburn,Ind,Mike Donahue,L,0,7
+1913-11-08,LSU,Ind,Pat Dwyer,N,Arkansas,Ind,E.T. Pickering,W,12,7
+1913-11-15,LSU,Ind,Pat Dwyer,A,Mississippi State,Ind,William Chadwick,T,0,0
+1913-11-22,LSU,Ind,Pat Dwyer,H,Tulane,Ind,A.C. Hoffman,W,40,0
+1913-11-27,LSU,Ind,Pat Dwyer,N,Texas A&M,Ind,Charley Moran,T,7,7
+1913-10-04,Pennsylvania,Ind,George Brooke,H,Lafayette,Ind,George McCaa,W,10,0
+1913-10-18,Pennsylvania,Ind,George Brooke,H,Brown,Ind,Edward Robinson,W,28,0
+1913-10-25,Pennsylvania,Ind,George Brooke,H,Carlisle,Ind,Pop Warner,T,7,7
+1913-11-01,Pennsylvania,Ind,George Brooke,H,Penn State,Ind,Bill Hollenback,W,17,0
+1913-11-08,Pennsylvania,Ind,George Brooke,H,Dartmouth,Ind,Frank Cavanaugh,L,21,34
+1913-11-15,Pennsylvania,Ind,George Brooke,A,Michigan,Ind,Fielding Yost,L,0,13
+1913-11-27,Pennsylvania,Ind,George Brooke,H,Cornell,Ind,,L,0,21
+1913-10-18,Iowa,Western,Jesse Hawley,A,Chicago,Western,Amos Alonzo Stagg,L,6,23
+1913-10-25,Iowa,Western,Jesse Hawley,A,Northwestern,Western,Dennis Grady,W,78,6
+1913-11-08,Iowa,Western,Jesse Hawley,H,Indiana,Western,James Sheldon,W,60,0
+1913-11-15,Iowa,Western,Jesse Hawley,H,Iowa State,MVIAA,Homer Hubbard,W,45,7
+1913-11-22,Iowa,Western,Jesse Hawley,A,Nebraska,MVIAA,Jumbo Stiehm,L,0,12
+1913-11-03,Southwestern (TX),Ind,,A,Texas,Ind,Dave Allerdice,L,0,52
+1913-11-15,Southwestern (TX),Ind,,A,Tulane,Ind,A.C. Hoffman,L,9,31
+1913-11-27,Southwestern (TX),Ind,,A,Baylor,Ind,Norman Payne,W,14,7
+1913-10-11,Illinois,Western,Robert Zuppke,H,Missouri,MVIAA,,W,24,7
+1913-10-18,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Dennis Grady,W,37,0
+1913-10-25,Illinois,Western,Robert Zuppke,A,Indiana,Western,James Sheldon,W,10,0
+1913-11-01,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,L,7,28
+1913-11-15,Illinois,Western,Robert Zuppke,H,Purdue,Western,Andy Smith,T,0,0
+1913-11-22,Illinois,Western,Robert Zuppke,H,Minnesota,Western,Henry Williams,L,9,19
+1913-10-16,Texas,Ind,Dave Allerdice,H,Baylor,Ind,Norman Payne,W,77,0
+1913-10-25,Texas,Ind,Dave Allerdice,H,Sewanee,Ind,Harris Cope,W,13,7
+1913-11-03,Texas,Ind,Dave Allerdice,H,Southwestern (TX),Ind,,W,52,0
+1913-11-10,Texas,Ind,Dave Allerdice,N,Oklahoma,Ind,Bennie Owen,W,14,6
+1913-11-18,Texas,Ind,Dave Allerdice,H,Kansas State,MVIAA,Guy Lowman,W,46,0
+1913-11-27,Texas,Ind,Dave Allerdice,H,Notre Dame,Ind,Jesse Harper,L,7,30
+1913-10-16,Baylor,Ind,Norman Payne,A,Texas,Ind,Dave Allerdice,L,0,77
+1913-10-23,Baylor,Ind,Norman Payne,A,LSU,Ind,Pat Dwyer,L,0,50
+1913-10-25,Baylor,Ind,Norman Payne,A,Arkansas,Ind,E.T. Pickering,L,0,34
+1913-11-22,Baylor,Ind,Norman Payne,A,Texas A&M,Ind,Charley Moran,T,14,14
+1913-11-27,Baylor,Ind,Norman Payne,H,Southwestern (TX),Ind,,L,7,14
+1913-10-18,Georgia,Ind,W.A. Cunningham,A,Alabama,Ind,Tubby Graves,W,20,0
+1913-10-25,Georgia,Ind,W.A. Cunningham,H,Virginia,Ind,W. Warren,L,6,13
+1913-11-01,Georgia,Ind,W.A. Cunningham,H,North Carolina,Ind,T.C. Trenchard,W,19,6
+1913-11-06,Georgia,Ind,W.A. Cunningham,N,Clemson,Ind,Bob Williams,W,18,15
+1913-11-15,Georgia,Ind,W.A. Cunningham,A,Georgia Tech,Ind,John Heisman,W,14,0
+1913-11-22,Georgia,Ind,W.A. Cunningham,H,Auburn,Ind,Mike Donahue,L,7,21
+1913-10-04,Virginia,Ind,W. Warren,H,South Carolina,Ind,N.B. Edgerton,W,54,0
+1913-10-18,Virginia,Ind,W. Warren,H,Virginia Military Institute,Ind,Henry Poaque,W,38,7
+1913-10-25,Virginia,Ind,W. Warren,A,Georgia,Ind,W.A. Cunningham,W,13,6
+1913-11-01,Virginia,Ind,W. Warren,H,Vanderbilt,Ind,Dan McGugin,W,34,0
+1913-11-15,Virginia,Ind,W. Warren,A,Georgetown,Ind,Frank Gargan,L,7,8
+1913-11-27,Virginia,Ind,W. Warren,H,North Carolina,Ind,T.C. Trenchard,W,26,7
+1913-10-18,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,George Brooke,L,0,28
+1913-11-08,Brown,Ind,Edward Robinson,A,Yale,Ind,Howard Jones,L,0,17
+1913-11-15,Brown,Ind,Edward Robinson,A,Harvard,Ind,Percy Haughton,L,0,37
+1913-11-27,Brown,Ind,Edward Robinson,H,Carlisle,Ind,Pop Warner,L,0,13
+1913-10-04,Citadel,Ind,George Rogers,H,Georgia Tech,Ind,John Heisman,L,0,47
+1913-10-25,Citadel,Ind,George Rogers,H,Mercer,Ind,,T,7,7
+1913-11-08,Citadel,Ind,George Rogers,H,Clemson,Ind,Bob Williams,L,3,7
+1913-11-15,Citadel,Ind,George Rogers,A,Florida,Ind,G.E. Pyle,L,13,18
+1913-11-26,Citadel,Ind,George Rogers,A,South Carolina,Ind,N.B. Edgerton,L,13,42
+1913-10-18,Oklahoma,Ind,Bennie Owen,A,Missouri,MVIAA,,L,17,20
+1913-11-01,Oklahoma,Ind,Bennie Owen,H,Kansas,MVIAA,Arthur Mosse,W,21,7
+1913-11-10,Oklahoma,Ind,Bennie Owen,N,Texas,Ind,Dave Allerdice,L,6,14
+1913-11-27,Oklahoma,Ind,Bennie Owen,H,Colorado,RMC,Fred Folsom,W,14,3
+1913-10-18,Tennessee,Ind,Zora Clevenger,N,Sewanee,Ind,Harris Cope,L,6,17
+1913-10-26,Tennessee,Ind,Zora Clevenger,H,Davidson,Ind,W.T. Cook,W,9,0
+1913-11-08,Tennessee,Ind,Zora Clevenger,A,Vanderbilt,Ind,Dan McGugin,L,6,7
+1913-11-14,Tennessee,Ind,Zora Clevenger,A,Alabama,Ind,Tubby Graves,L,0,6
+1913-10-11,Virginia Tech,Ind,Branch Bocock,H,Ole Miss,Ind,,W,34,14
+1913-10-25,Virginia Tech,Ind,Branch Bocock,A,North Carolina,Ind,T.C. Trenchard,W,14,7
+1913-11-01,Virginia Tech,Ind,Branch Bocock,N,Washington & Lee,Ind,H.L. Dowd,L,0,21
+1913-11-27,Virginia Tech,Ind,Branch Bocock,N,Virginia Military Institute,Ind,Henry Poaque,T,6,6
+1913-10-04,Lehigh,Ind,Tom Keady,H,Carlisle,Ind,Pop Warner,L,7,21
+1913-10-18,Lehigh,Ind,Tom Keady,A,Yale,Ind,Howard Jones,L,0,37
+1913-11-01,Lehigh,Ind,Tom Keady,A,Navy,Ind,,L,0,39
+1913-11-22,Lehigh,Ind,Tom Keady,H,Lafayette,Ind,George McCaa,W,7,0
+1913-10-11,Alabama,Ind,Tubby Graves,H,Clemson,Ind,Bob Williams,W,20,0
+1913-10-18,Alabama,Ind,Tubby Graves,H,Georgia,Ind,W.A. Cunningham,L,0,20
+1913-10-25,Alabama,Ind,Tubby Graves,A,Tulane,Ind,A.C. Hoffman,W,26,0
+1913-11-09,Alabama,Ind,Tubby Graves,H,Sewanee,Ind,Harris Cope,L,7,10
+1913-11-14,Alabama,Ind,Tubby Graves,H,Tennessee,Ind,Zora Clevenger,W,6,0
+1913-11-27,Alabama,Ind,Tubby Graves,H,Mississippi State,Ind,William Chadwick,L,0,7
+1913-10-25,Arkansas,Ind,E.T. Pickering,H,Baylor,Ind,Norman Payne,W,34,0
+1913-11-08,Arkansas,Ind,E.T. Pickering,N,LSU,Ind,Pat Dwyer,L,7,12
+1913-11-15,Arkansas,Ind,E.T. Pickering,H,Ole Miss,Ind,,L,10,21
+1913-11-27,Arkansas,Ind,E.T. Pickering,A,Tulane,Ind,A.C. Hoffman,W,14,0
+1913-10-04,Clemson,Ind,Bob Williams,H,Davidson,Ind,W.T. Cook,W,6,3
+1913-10-11,Clemson,Ind,Bob Williams,A,Alabama,Ind,Tubby Graves,L,0,20
+1913-10-18,Clemson,Ind,Bob Williams,H,Auburn,Ind,Mike Donahue,L,0,20
+1913-10-30,Clemson,Ind,Bob Williams,A,South Carolina,Ind,N.B. Edgerton,W,32,0
+1913-11-06,Clemson,Ind,Bob Williams,N,Georgia,Ind,W.A. Cunningham,L,15,18
+1913-11-08,Clemson,Ind,Bob Williams,A,Citadel,Ind,George Rogers,W,7,3
+1913-11-17,Clemson,Ind,Bob Williams,A,Mercer,Ind,,W,52,0
+1913-11-27,Clemson,Ind,Bob Williams,A,Georgia Tech,Ind,John Heisman,L,0,34
+1913-10-11,Purdue,Western,Andy Smith,H,Northwestern,Western,Dennis Grady,W,34,0
+1913-10-18,Purdue,Western,Andy Smith,H,Wisconsin,Western,William Juneau,T,7,7
+1913-10-25,Purdue,Western,Andy Smith,A,Chicago,Western,Amos Alonzo Stagg,L,0,6
+1913-11-15,Purdue,Western,Andy Smith,A,Illinois,Western,Robert Zuppke,T,0,0
+1913-11-23,Purdue,Western,Andy Smith,A,Indiana,Western,James Sheldon,W,42,7
+1913-10-04,South Carolina,Ind,N.B. Edgerton,A,Virginia,Ind,W. Warren,L,0,54
+1913-10-11,South Carolina,Ind,N.B. Edgerton,H,Wake Forest,Ind,Frank Thompson,W,27,10
+1913-10-18,South Carolina,Ind,N.B. Edgerton,H,North Carolina,Ind,T.C. Trenchard,L,3,13
+1913-10-30,South Carolina,Ind,N.B. Edgerton,H,Clemson,Ind,Bob Williams,L,0,32
+1913-11-08,South Carolina,Ind,N.B. Edgerton,H,Florida,Ind,G.E. Pyle,W,13,0
+1913-11-15,South Carolina,Ind,N.B. Edgerton,A,Davidson,Ind,W.T. Cook,W,10,0
+1913-11-26,South Carolina,Ind,N.B. Edgerton,H,Citadel,Ind,George Rogers,W,42,13
+1913-10-11,Nebraska,MVIAA,Jumbo Stiehm,H,Kansas State,MVIAA,Guy Lowman,W,24,6
+1913-10-18,Nebraska,MVIAA,Jumbo Stiehm,H,Minnesota,Western,Henry Williams,W,7,0
+1913-11-01,Nebraska,MVIAA,Jumbo Stiehm,A,Iowa State,MVIAA,Homer Hubbard,W,18,9
+1913-11-15,Nebraska,MVIAA,Jumbo Stiehm,A,Kansas,MVIAA,Arthur Mosse,W,9,0
+1913-11-22,Nebraska,MVIAA,Jumbo Stiehm,H,Iowa,Western,Jesse Hawley,W,12,0
+1913-10-11,West Virginia,Ind,,A,Pitt,Ind,Joseph Duff,L,0,40
+1913-10-18,West Virginia,Ind,,N,West Virginia Wesleyan,Ind, McIntyre,L,0,21
+1913-11-08,West Virginia,Ind,,H,Washington & Jefferson,Ind,Bob Folwell,L,0,34
+1913-11-15,West Virginia,Ind,,N,Washington & Lee,Ind,H.L. Dowd,L,0,28
+1913-10-25,Harvard,Ind,Percy Haughton,H,Penn State,Ind,Bill Hollenback,W,29,0
+1913-11-01,Harvard,Ind,Percy Haughton,H,Cornell,Ind,,W,23,6
+1913-11-08,Harvard,Ind,Percy Haughton,A,Princeton,Ind,W. Gresham Andrews,W,3,0
+1913-11-15,Harvard,Ind,Percy Haughton,H,Brown,Ind,Edward Robinson,W,37,0
+1913-11-22,Harvard,Ind,Percy Haughton,H,Yale,Ind,Howard Jones,W,15,5
+1913-09-27,West Virginia Wesleyan,Ind, McIntyre,A,Carlisle,Ind,Pop Warner,L,0,25
+1913-10-18,West Virginia Wesleyan,Ind, McIntyre,N,West Virginia,Ind,,W,21,0
+1913-11-08,West Virginia Wesleyan,Ind, McIntyre,H,Georgetown,Ind,Frank Gargan,W,16,6
+1913-11-22,West Virginia Wesleyan,Ind, McIntyre,A,Washington & Jefferson,Ind,Bob Folwell,L,0,35
+1913-10-04,Colorado,RMC,Fred Folsom,A,Wyoming,RMC,Ralph Thacker,W,7,0
+1913-10-25,Colorado,RMC,Fred Folsom,H,Colorado State,RMC,Harry Hughes,W,16,7
+1913-11-01,Colorado,RMC,Fred Folsom,H,Colorado College,RMC,C.J. Rothget,T,0,0
+1913-11-08,Colorado,RMC,Fred Folsom,A,Utah,RMC,Fred Bennion,W,30,12
+1913-11-15,Colorado,RMC,Fred Folsom,A,Colorado Mines,RMC,Harry Buckingham,W,20,0
+1913-11-27,Colorado,RMC,Fred Folsom,A,Oklahoma,Ind,Bennie Owen,L,3,14
+1913-10-11,Missouri,MVIAA,,A,Illinois,Western,Robert Zuppke,L,7,24
+1913-10-18,Missouri,MVIAA,,H,Oklahoma,Ind,Bennie Owen,W,20,17
+1913-10-25,Missouri,MVIAA,,A,Iowa State,MVIAA,Homer Hubbard,W,21,13
+1913-11-08,Missouri,MVIAA,,H,Drake,MVIAA,John Griffith,W,10,0
+1913-11-15,Missouri,MVIAA,,A,Washington (MO),MVIAA,W.P. Edmunds,W,19,0
+1913-11-22,Missouri,MVIAA,,H,Kansas,MVIAA,Arthur Mosse,W,3,0
+1913-10-18,Denver,RMC,,H,Colorado State,RMC,Harry Hughes,L,6,20
+1913-11-08,Denver,RMC,,A,Wyoming,RMC,Ralph Thacker,W,26,0
+1913-11-15,Denver,RMC,,H,Colorado College,RMC,C.J. Rothget,L,2,21
+1913-11-27,Denver,RMC,,A,Colorado Mines,RMC,Harry Buckingham,L,7,49
+1913-10-18,Washington & Jefferson,Ind,Bob Folwell,H,Penn State,Ind,Bill Hollenback,W,17,0
+1913-10-25,Washington & Jefferson,Ind,Bob Folwell,A,Yale,Ind,Howard Jones,T,0,0
+1913-11-08,Washington & Jefferson,Ind,Bob Folwell,A,West Virginia,Ind,,W,34,0
+1913-11-15,Washington & Jefferson,Ind,Bob Folwell,A,Pitt,Ind,Joseph Duff,W,18,6
+1913-11-22,Washington & Jefferson,Ind,Bob Folwell,H,West Virginia Wesleyan,Ind, McIntyre,W,35,0
+1913-11-27,Washington & Jefferson,Ind,Bob Folwell,H,Bucknell,Ind,By Dickson,W,52,0
+1913-10-18,Wisconsin,Western,William Juneau,A,Purdue,Western,Andy Smith,T,7,7
+1913-11-01,Wisconsin,Western,William Juneau,H,Minnesota,Western,Henry Williams,L,3,21
+1913-11-08,Wisconsin,Western,William Juneau,H,Ohio State,Western,John Wilce,W,12,0
+1913-11-22,Wisconsin,Western,William Juneau,A,Chicago,Western,Amos Alonzo Stagg,L,0,19
+1913-10-11,Bucknell,Ind,By Dickson,A,Princeton,Ind,W. Gresham Andrews,L,6,28
+1913-10-18,Bucknell,Ind,By Dickson,A,Cornell,Ind,,L,7,10
+1913-11-01,Bucknell,Ind,By Dickson,A,Pitt,Ind,Joseph Duff,W,9,0
+1913-11-08,Bucknell,Ind,By Dickson,A,Navy,Ind,,L,7,70
+1913-11-27,Bucknell,Ind,By Dickson,A,Washington & Jefferson,Ind,Bob Folwell,L,0,52
+1913-10-18,Colorado State,RMC,Harry Hughes,A,Denver,RMC,,W,20,6
+1913-10-25,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Fred Folsom,L,7,16
+1913-11-01,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,Harry Buckingham,L,7,14
+1913-11-27,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,Ralph Thacker,W,61,0
+1913-11-01,Texas A&M,Ind,Charley Moran,H,Mississippi State,Ind,William Chadwick,L,0,6
+1913-11-08,Texas A&M,Ind,Charley Moran,A,Kansas State,MVIAA,Guy Lowman,L,0,12
+1913-11-22,Texas A&M,Ind,Charley Moran,H,Baylor,Ind,Norman Payne,T,14,14
+1913-11-27,Texas A&M,Ind,Charley Moran,N,LSU,Ind,Pat Dwyer,T,7,7
+1913-10-04,Davidson,Ind,W.T. Cook,A,Clemson,Ind,Bob Williams,L,3,6
+1913-10-11,Davidson,Ind,W.T. Cook,N,North Carolina,Ind,T.C. Trenchard,L,0,7
+1913-10-18,Davidson,Ind,W.T. Cook,H,North Carolina State,Ind,,L,6,26
+1913-10-26,Davidson,Ind,W.T. Cook,A,Tennessee,Ind,Zora Clevenger,L,0,9
+1913-11-15,Davidson,Ind,W.T. Cook,H,South Carolina,Ind,N.B. Edgerton,L,0,10
+1913-11-27,Davidson,Ind,W.T. Cook,N,Wake Forest,Ind,Frank Thompson,W,6,0
+1913-10-11,Washington (MO),MVIAA,W.P. Edmunds,A,Kansas,MVIAA,Arthur Mosse,L,7,55
+1913-10-18,Washington (MO),MVIAA,W.P. Edmunds,H,Iowa State,MVIAA,Homer Hubbard,L,7,37
+1913-11-01,Washington (MO),MVIAA,W.P. Edmunds,A,Drake,MVIAA,John Griffith,L,17,32
+1913-11-15,Washington (MO),MVIAA,W.P. Edmunds,H,Missouri,MVIAA,,L,0,19
+1913-10-04,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,21,7
+1913-10-18,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,Jesse Hawley,W,23,6
+1913-10-25,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Andy Smith,W,6,0
+1913-11-01,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,W,28,7
+1913-11-08,Chicago,Western,Amos Alonzo Stagg,A,Northwestern,Western,Dennis Grady,W,14,0
+1913-11-15,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,W,13,7
+1913-11-22,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,William Juneau,W,19,0
+1913-10-18,Colorado Mines,RMC,Harry Buckingham,A,Wyoming,RMC,Ralph Thacker,W,40,0
+1913-10-25,Colorado Mines,RMC,Harry Buckingham,A,Utah,RMC,Fred Bennion,W,7,0
+1913-11-01,Colorado Mines,RMC,Harry Buckingham,A,Colorado State,RMC,Harry Hughes,W,14,7
+1913-11-08,Colorado Mines,RMC,Harry Buckingham,N,Colorado College,RMC,C.J. Rothget,W,17,13
+1913-11-15,Colorado Mines,RMC,Harry Buckingham,H,Colorado,RMC,Fred Folsom,L,0,20
+1913-11-27,Colorado Mines,RMC,Harry Buckingham,H,Denver,RMC,,W,49,7
+1913-10-18,North Carolina State,Ind,,A,Davidson,Ind,W.T. Cook,W,26,6
+1913-10-25,North Carolina State,Ind,,A,Georgetown,Ind,Frank Gargan,W,12,0
+1913-11-01,North Carolina State,Ind,,A,Wake Forest,Ind,Frank Thompson,W,37,0
+1913-11-08,North Carolina State,Ind,,A,Virginia Military Institute,Ind,Henry Poaque,L,7,14
+1913-11-27,North Carolina State,Ind,,N,Washington & Lee,Ind,H.L. Dowd,W,6,0
+1913-10-01,Colgate,Ind,Laurence Bankart,A,Cornell,Ind,,T,0,0
+1913-10-18,Colgate,Ind,Laurence Bankart,A,Army,Ind,Charles Daly,L,6,7
+1913-11-01,Colgate,Ind,Laurence Bankart,A,Yale,Ind,Howard Jones,W,16,6
+1913-11-15,Colgate,Ind,Laurence Bankart,A,Syracuse,Ind,,W,35,13
+1913-10-04,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,Homer Hubbard,W,25,0
+1913-10-18,Minnesota,Western,Henry Williams,A,Nebraska,MVIAA,Jumbo Stiehm,L,0,7
+1913-11-01,Minnesota,Western,Henry Williams,A,Wisconsin,Western,William Juneau,W,21,3
+1913-11-15,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,L,7,13
+1913-11-22,Minnesota,Western,Henry Williams,A,Illinois,Western,Robert Zuppke,W,19,9
+1913-10-08,Ole Miss,Ind,,A,Virginia Military Institute,Ind,Henry Poaque,L,0,14
+1913-10-11,Ole Miss,Ind,,A,Virginia Tech,Ind,Branch Bocock,L,14,34
+1913-11-15,Ole Miss,Ind,,A,Arkansas,Ind,E.T. Pickering,W,21,10
+1913-10-18,Sewanee,Ind,Harris Cope,N,Tennessee,Ind,Zora Clevenger,W,17,6
+1913-10-25,Sewanee,Ind,Harris Cope,A,Texas,Ind,Dave Allerdice,L,7,13
+1913-11-01,Sewanee,Ind,Harris Cope,A,Georgia Tech,Ind,John Heisman,L,0,33
+1913-11-09,Sewanee,Ind,Harris Cope,A,Alabama,Ind,Tubby Graves,W,10,7
+1913-11-22,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,L,13,63
+1913-10-25,Michigan,Ind,Fielding Yost,A,Vanderbilt,Ind,Dan McGugin,W,33,2
+1913-11-01,Michigan,Ind,Fielding Yost,H,Syracuse,Ind,,W,43,7
+1913-11-08,Michigan,Ind,Fielding Yost,A,Cornell,Ind,,W,17,0
+1913-11-15,Michigan,Ind,Fielding Yost,H,Pennsylvania,Ind,George Brooke,W,13,0
+1913-10-04,Navy,Ind,,H,Pitt,Ind,Joseph Duff,T,0,0
+1913-10-11,Navy,Ind,,H,Georgetown,Ind,Frank Gargan,W,23,0
+1913-11-01,Navy,Ind,,H,Lehigh,Ind,Tom Keady,W,39,0
+1913-11-08,Navy,Ind,,H,Bucknell,Ind,By Dickson,W,70,7
+1913-11-15,Navy,Ind,,H,Penn State,Ind,Bill Hollenback,W,10,0
+1913-11-29,Navy,Ind,,A,Army,Ind,Charles Daly,L,9,22
+1913-10-04,Lafayette,Ind,George McCaa,A,Pennsylvania,Ind,George Brooke,L,0,10
+1913-10-11,Lafayette,Ind,George McCaa,A,Yale,Ind,Howard Jones,L,0,27
+1913-11-08,Lafayette,Ind,George McCaa,A,Pitt,Ind,Joseph Duff,L,0,13
+1913-11-15,Lafayette,Ind,George McCaa,A,Cornell,Ind,,L,3,10
+1913-11-22,Lafayette,Ind,George McCaa,A,Lehigh,Ind,Tom Keady,L,0,7
+1913-11-01,Notre Dame,Ind,Jesse Harper,A,Army,Ind,Charles Daly,W,35,13
+1913-11-08,Notre Dame,Ind,Jesse Harper,A,Penn State,Ind,Bill Hollenback,W,14,7
+1913-11-27,Notre Dame,Ind,Jesse Harper,A,Texas,Ind,Dave Allerdice,W,30,7
+1913-10-25,Tulane,Ind,A.C. Hoffman,H,Alabama,Ind,Tubby Graves,L,0,26
+1913-11-08,Tulane,Ind,A.C. Hoffman,A,Mississippi State,Ind,William Chadwick,L,0,32
+1913-11-15,Tulane,Ind,A.C. Hoffman,H,Southwestern (TX),Ind,,W,31,9
+1913-11-22,Tulane,Ind,A.C. Hoffman,A,LSU,Ind,Pat Dwyer,L,0,40
+1913-11-27,Tulane,Ind,A.C. Hoffman,H,Arkansas,Ind,E.T. Pickering,L,0,14
+1913-10-01,Cornell,Ind,,H,Colgate,Ind,Laurence Bankart,T,0,0
+1913-10-11,Cornell,Ind,,H,Carlisle,Ind,Pop Warner,L,0,7
+1913-10-18,Cornell,Ind,,H,Bucknell,Ind,By Dickson,W,10,7
+1913-10-25,Cornell,Ind,,H,Pitt,Ind,Joseph Duff,L,7,20
+1913-11-01,Cornell,Ind,,A,Harvard,Ind,Percy Haughton,L,6,23
+1913-11-08,Cornell,Ind,,H,Michigan,Ind,Fielding Yost,L,0,17
+1913-11-15,Cornell,Ind,,H,Lafayette,Ind,George McCaa,W,10,3
+1913-11-27,Cornell,Ind,,A,Pennsylvania,Ind,George Brooke,W,21,0
+1913-11-01,Ohio State,Western,John Wilce,H,Indiana,Western,James Sheldon,L,6,7
+1913-11-08,Ohio State,Western,John Wilce,A,Wisconsin,Western,William Juneau,L,0,12
+1913-11-22,Ohio State,Western,John Wilce,H,Northwestern,Western,Dennis Grady,W,58,0
+1913-10-04,Pitt,Ind,Joseph Duff,A,Navy,Ind,,T,0,0
+1913-10-11,Pitt,Ind,Joseph Duff,H,West Virginia,Ind,,W,40,0
+1913-10-18,Pitt,Ind,Joseph Duff,H,Carlisle,Ind,Pop Warner,W,12,6
+1913-10-25,Pitt,Ind,Joseph Duff,A,Cornell,Ind,,W,20,7
+1913-11-01,Pitt,Ind,Joseph Duff,H,Bucknell,Ind,By Dickson,L,0,9
+1913-11-08,Pitt,Ind,Joseph Duff,H,Lafayette,Ind,George McCaa,W,13,0
+1913-11-15,Pitt,Ind,Joseph Duff,H,Washington & Jefferson,Ind,Bob Folwell,L,6,18
+1913-11-27,Pitt,Ind,Joseph Duff,H,Penn State,Ind,Bill Hollenback,W,7,6
+1913-10-18,Drake,MVIAA,John Griffith,A,Kansas,MVIAA,Arthur Mosse,L,0,11
+1913-11-01,Drake,MVIAA,John Griffith,H,Washington (MO),MVIAA,W.P. Edmunds,W,32,17
+1913-11-08,Drake,MVIAA,John Griffith,A,Missouri,MVIAA,,L,0,10
+1913-11-22,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,Homer Hubbard,L,3,26
+1913-10-04,Mercer,Ind,,A,Auburn,Ind,Mike Donahue,L,0,53
+1913-10-18,Mercer,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,33
+1913-10-25,Mercer,Ind,,A,Citadel,Ind,George Rogers,T,7,7
+1913-11-17,Mercer,Ind,,H,Clemson,Ind,Bob Williams,L,0,52
+1913-11-27,Mercer,Ind,,A,Florida,Ind,G.E. Pyle,L,0,24

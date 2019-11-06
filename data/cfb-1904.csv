@@ -1,0 +1,487 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1904-10-29,North Carolina,Ind,Robert Brown,A,Virginia Tech,Ind,John O'Connor,W,6,0
+1904-11-05,North Carolina,Ind,Robert Brown,N,Georgetown,Ind,Joe Reilly,L,0,16
+1904-11-16,North Carolina,Ind,Robert Brown,H,North Carolina State,Ind,W.S. Keinholz,T,6,6
+1904-11-24,North Carolina,Ind,Robert Brown,A,Virginia,Ind,Foster Sanford,L,11,12
+1904-09-28,Dickinson,Ind,Cap Craver,A,Princeton,Ind,,L,0,12
+1904-10-08,Dickinson,Ind,Cap Craver,A,Army,Ind,Robert Boyers,L,0,18
+1904-10-15,Dickinson,Ind,Cap Craver,A,Franklin & Marshall,Ind,W.P. Bates,W,57,0
+1904-10-22,Dickinson,Ind,Cap Craver,A,Navy,Ind,Paul Dashiell,T,0,0
+1904-10-29,Dickinson,Ind,Cap Craver,A,Lehigh,Ind,Samuel Newton,W,6,0
+1904-11-12,Dickinson,Ind,Cap Craver,N,Penn State,Ind,Tom Fennell,L,0,11
+1904-10-01,Indiana,Western,James Horne,A,Chicago,Western,Amos Alonzo Stagg,L,0,56
+1904-10-15,Indiana,Western,James Horne,A,Illinois,Western,,L,0,10
+1904-10-22,Indiana,Western,James Horne,A,Washington (MO),Ind,L.W. Boynton,W,22,6
+1904-10-29,Indiana,Western,James Horne,H,Ohio State,Ind,Edwin Sweetland,W,8,0
+1904-11-05,Indiana,Western,James Horne,A,Wabash,Ind,Francis Cayou,W,4,0
+1904-11-12,Indiana,Western,James Horne,N,Purdue,Western,Oliver Cutts,L,0,27
+1904-09-28,Yale,Ind,,H,Wesleyan (CT),Ind,Howard Reiter,W,22,0
+1904-10-05,Yale,Ind,,H,Holy Cross,Ind,Frank Cavanaugh,W,23,0
+1904-10-08,Yale,Ind,,H,Penn State,Ind,Tom Fennell,W,24,0
+1904-10-22,Yale,Ind,,A,Army,Ind,Robert Boyers,L,6,11
+1904-10-29,Yale,Ind,,A,Columbia,Ind,William Morley,W,34,0
+1904-11-05,Yale,Ind,,H,Brown,Ind,Edward Robinson,W,22,0
+1904-11-12,Yale,Ind,,A,Princeton,Ind,,W,12,0
+1904-11-19,Yale,Ind,,H,Harvard,Ind,,W,12,0
+1904-10-15,Iowa State,Ind,,A,Minnesota,Western,Henry Williams,L,0,32
+1904-10-29,Iowa State,Ind,,A,Iowa,Western,John Chalmers,L,6,10
+1904-11-05,Iowa State,Ind,,H,Grinnell,Ind,C.E. Harris,W,40,0
+1904-11-24,Iowa State,Ind,,A,Drake,Ind,W.J. Monilaw,W,19,0
+1904-10-08,Carlisle,Ind,Edward Rogers,N,Bucknell,Ind,George Hoskins,W,10,4
+1904-10-22,Carlisle,Ind,Edward Rogers,A,Harvard,Ind,,L,0,12
+1904-11-09,Carlisle,Ind,Edward Rogers,A,Virginia,Ind,Foster Sanford,W,14,6
+1904-11-12,Carlisle,Ind,Edward Rogers,A,Pennsylvania,Ind,,L,0,18
+1904-11-19,Carlisle,Ind,Edward Rogers,A,Ohio State,Ind,Edwin Sweetland,W,23,0
+1904-11-26,Carlisle,Ind,Edward Rogers,A,Haskell,Ind,,W,38,4
+1904-10-01,Grinnell,Ind,C.E. Harris,A,Nebraska,Ind,Walter Booth,L,0,46
+1904-10-22,Grinnell,Ind,C.E. Harris,A,Minnesota,Western,Henry Williams,L,0,146
+1904-10-29,Grinnell,Ind,C.E. Harris,A,Drake,Ind,W.J. Monilaw,L,0,67
+1904-11-05,Grinnell,Ind,C.E. Harris,A,Iowa State,Ind,,L,0,40
+1904-11-12,Grinnell,Ind,C.E. Harris,A,Iowa,Western,John Chalmers,L,0,69
+1904-10-17,Georgia Tech,Ind,John Heisman,H,Florida,Ind,,W,77,0
+1904-10-22,Georgia Tech,Ind,John Heisman,H,Tennessee,Ind,S.D. Crawford,W,2,0
+1904-10-29,Georgia Tech,Ind,John Heisman,A,Auburn,Ind,Mike Donahue,L,0,12
+1904-11-05,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Shack Shealy,T,11,11
+1904-11-12,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,Charles Barnard,W,23,6
+1904-11-16,Georgia Tech,Ind,John Heisman,H,Tennessee Medical College,Ind,,W,59,0
+1904-10-01,Mississippi State,Ind,Dan Martin,H,Vanderbilt,Ind,Dan McGugin,L,0,61
+1904-10-15,Mississippi State,Ind,Dan Martin,H,Alabama,Ind,W.B. Blount,L,0,6
+1904-10-22,Mississippi State,Ind,Dan Martin,N,Ole Miss,Ind,M.H. Harvey,L,5,17
+1904-10-29,Mississippi State,Ind,Dan Martin,A,Tulane,Ind,T. Berry,L,0,10
+1904-11-11,Mississippi State,Ind,Dan Martin,H,Tennessee Medical College,Ind,,W,59,0
+1904-10-01,Virginia Military Institute,Ind,,H,North Carolina State,Ind,W.S. Keinholz,L,0,6
+1904-10-08,Virginia Military Institute,Ind,,A,Navy,Ind,Paul Dashiell,L,0,12
+1904-10-15,Virginia Military Institute,Ind,,A,Virginia,Ind,Foster Sanford,L,0,17
+1904-11-24,Virginia Military Institute,Ind,,N,Virginia Tech,Ind,John O'Connor,L,5,17
+1904-10-06,Haskell,Ind,,A,Kansas,Ind,Doc Kennedy,W,23,6
+1904-10-15,Haskell,Ind,,N,Missouri,Ind,John McLean,W,39,0
+1904-10-21,Haskell,Ind,,A,Texas,Ind,Ralph Hutchinson,W,4,0
+1904-11-12,Haskell,Ind,,N,Nebraska,Ind,Walter Booth,W,14,6
+1904-11-24,Haskell,Ind,,A,Washington (MO),Ind,L.W. Boynton,W,47,0
+1904-11-26,Haskell,Ind,,H,Carlisle,Ind,Edward Rogers,L,4,38
+1904-09-28,Bowdoin,Ind,Roscoe McClave,A,Amherst,Ind,Harry Smith,L,0,23
+1904-10-05,Bowdoin,Ind,Roscoe McClave,A,Harvard,Ind,,L,0,17
+1904-10-08,Bowdoin,Ind,Roscoe McClave,H,Colby,Ind,,W,52,0
+1904-10-22,Bowdoin,Ind,Roscoe McClave,A,Brown,Ind,Edward Robinson,L,0,22
+1904-11-05,Bowdoin,Ind,Roscoe McClave,H,Maine,Ind,S. King,W,22,5
+1904-11-12,Bowdoin,Ind,Roscoe McClave,H,Bates,Ind, Purinton,W,12,6
+1904-10-01,Georgetown,Ind,Joe Reilly,A,Princeton,Ind,,L,0,10
+1904-10-29,Georgetown,Ind,Joe Reilly,H,Holy Cross,Ind,Frank Cavanaugh,W,17,4
+1904-11-05,Georgetown,Ind,Joe Reilly,N,North Carolina,Ind,Robert Brown,W,16,0
+1904-11-12,Georgetown,Ind,Joe Reilly,H,Bucknell,Ind,George Hoskins,W,12,0
+1904-10-01,Army,Ind,Robert Boyers,H,Tufts,Ind,Charles Whelan,W,12,0
+1904-10-08,Army,Ind,Robert Boyers,H,Dickinson,Ind,Cap Craver,W,18,0
+1904-10-15,Army,Ind,Robert Boyers,H,Harvard,Ind,,L,0,4
+1904-10-22,Army,Ind,Robert Boyers,H,Yale,Ind,,W,11,6
+1904-10-29,Army,Ind,Robert Boyers,H,Williams,Ind,,W,16,0
+1904-11-05,Army,Ind,Robert Boyers,H,Princeton,Ind,,L,6,12
+1904-11-26,Army,Ind,Robert Boyers,N,Navy,Ind,Paul Dashiell,W,11,0
+1904-09-24,Penn State,Ind,Tom Fennell,A,Pennsylvania,Ind,,L,0,6
+1904-10-08,Penn State,Ind,Tom Fennell,A,Yale,Ind,,L,0,24
+1904-11-05,Penn State,Ind,Tom Fennell,A,Navy,Ind,Paul Dashiell,L,9,20
+1904-11-12,Penn State,Ind,Tom Fennell,N,Dickinson,Ind,Cap Craver,W,11,0
+1904-09-28,Wesleyan (CT),Ind,Howard Reiter,A,Yale,Ind,,L,0,22
+1904-10-01,Wesleyan (CT),Ind,Howard Reiter,A,Columbia,Ind,William Morley,L,0,16
+1904-10-05,Wesleyan (CT),Ind,Howard Reiter,A,Princeton,Ind,,L,0,39
+1904-10-12,Wesleyan (CT),Ind,Howard Reiter,A,Brown,Ind,Edward Robinson,L,0,12
+1904-10-15,Wesleyan (CT),Ind,Howard Reiter,A,Massachusetts,Ind,Matthew Bullock,L,6,24
+1904-10-29,Wesleyan (CT),Ind,Howard Reiter,H,Dartmouth,Ind,Fred Folsom,L,0,33
+1904-11-05,Wesleyan (CT),Ind,Howard Reiter,H,Vermont,Ind,,W,23,0
+1904-11-19,Wesleyan (CT),Ind,Howard Reiter,H,Williams,Ind,,L,0,23
+1904-09-28,Dartmouth,Ind,Fred Folsom,H,Massachusetts,Ind,Matthew Bullock,W,17,0
+1904-10-08,Dartmouth,Ind,Fred Folsom,H,Vermont,Ind,,W,37,0
+1904-10-15,Dartmouth,Ind,Fred Folsom,A,Williams,Ind,,W,11,0
+1904-10-22,Dartmouth,Ind,Fred Folsom,A,Holy Cross,Ind,Frank Cavanaugh,W,18,4
+1904-10-29,Dartmouth,Ind,Fred Folsom,A,Wesleyan (CT),Ind,Howard Reiter,W,33,0
+1904-11-05,Dartmouth,Ind,Fred Folsom,A,Harvard,Ind,,T,0,0
+1904-11-12,Dartmouth,Ind,Fred Folsom,H,Amherst,Ind,Harry Smith,W,15,4
+1904-11-19,Dartmouth,Ind,Fred Folsom,N,Brown,Ind,Edward Robinson,W,12,5
+1904-09-28,Princeton,Ind,,H,Dickinson,Ind,Cap Craver,W,12,0
+1904-10-01,Princeton,Ind,,H,Georgetown,Ind,Joe Reilly,W,10,0
+1904-10-05,Princeton,Ind,,H,Wesleyan (CT),Ind,Howard Reiter,W,39,0
+1904-10-12,Princeton,Ind,,H,Lafayette,Ind,,W,5,0
+1904-10-15,Princeton,Ind,,A,Navy,Ind,Paul Dashiell,L,9,10
+1904-10-26,Princeton,Ind,,H,Lehigh,Ind,Samuel Newton,W,60,0
+1904-10-29,Princeton,Ind,,A,Cornell,Ind,Pop Warner,W,18,6
+1904-11-05,Princeton,Ind,,A,Army,Ind,Robert Boyers,W,12,6
+1904-11-12,Princeton,Ind,,H,Yale,Ind,,L,0,12
+1904-10-01,Vanderbilt,Ind,Dan McGugin,A,Mississippi State,Ind,Dan Martin,W,61,0
+1904-10-15,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,M.H. Harvey,W,69,0
+1904-11-05,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,S.D. Crawford,W,22,0
+1904-11-12,Vanderbilt,Ind,Dan McGugin,H,Nashville,Ind,,W,81,0
+1904-11-24,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,George Whitney,W,27,0
+1904-10-08,Colorado College,Ind,William Juneau,H,Denver,Ind,Ora Fowler,W,5,0
+1904-10-29,Colorado College,Ind,William Juneau,H,Colorado,Ind,David Cropp,L,0,23
+1904-11-05,Colorado College,Ind,William Juneau,A,Denver,Ind,Ora Fowler,L,8,14
+1904-11-12,Colorado College,Ind,William Juneau,A,Colorado State,Ind,John McIntosh,W,4,0
+1904-11-19,Colorado College,Ind,William Juneau,A,Colorado Mines,Ind,,T,4,4
+1904-10-04,Auburn,Ind,Mike Donahue,H,Florida,Ind,,W,44,0
+1904-10-15,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Shack Shealy,W,5,0
+1904-10-22,Auburn,Ind,Mike Donahue,H,Nashville,Ind,,W,10,0
+1904-10-29,Auburn,Ind,Mike Donahue,H,Georgia Tech,Ind,John Heisman,W,12,0
+1904-11-12,Auburn,Ind,Mike Donahue,N,Alabama,Ind,W.B. Blount,W,29,5
+1904-11-24,Auburn,Ind,Mike Donahue,A,Georgia,Ind,Charles Barnard,W,17,6
+1904-10-15,Northwestern,Western,Walter McCornack,H,Beloit,Ind,Harrison Weeks,W,34,0
+1904-10-22,Northwestern,Western,Walter McCornack,A,Chicago,Western,Amos Alonzo Stagg,L,0,32
+1904-11-12,Northwestern,Western,Walter McCornack,H,Illinois,Western,,W,12,6
+1904-11-19,Northwestern,Western,Walter McCornack,H,Minnesota,Western,Henry Williams,L,0,17
+1904-10-08,Nashville,Ind,,H,Tennessee Medical College,Ind,,L,0,21
+1904-10-12,Nashville,Ind,,A,Virginia Tech,Ind,John O'Connor,L,0,32
+1904-10-15,Nashville,Ind,,A,Tennessee,Ind,S.D. Crawford,T,0,0
+1904-10-22,Nashville,Ind,,A,Auburn,Ind,Mike Donahue,L,0,10
+1904-10-24,Nashville,Ind,,A,Alabama,Ind,W.B. Blount,L,0,17
+1904-11-10,Nashville,Ind,,A,LSU,Ind,,L,0,16
+1904-11-12,Nashville,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,0,81
+1904-11-19,Nashville,Ind,,N,Ole Miss,Ind,M.H. Harvey,L,5,12
+1904-10-06,Kansas,Ind,Doc Kennedy,H,Haskell,Ind,,L,6,23
+1904-10-15,Kansas,Ind,Doc Kennedy,H,Colorado,Ind,David Cropp,T,6,6
+1904-11-05,Kansas,Ind,Doc Kennedy,H,Notre Dame,Ind,Louis Salmon,W,24,5
+1904-11-12,Kansas,Ind,Doc Kennedy,A,Washington (MO),Ind,L.W. Boynton,W,12,0
+1904-11-24,Kansas,Ind,Doc Kennedy,N,Missouri,Ind,John McLean,W,29,0
+1904-10-01,Bates,Ind, Purinton,H,Holy Cross,Ind,Frank Cavanaugh,T,0,0
+1904-10-05,Bates,Ind, Purinton,A,New Hampshire,Ind,G.B. Ward,W,6,0
+1904-10-12,Bates,Ind, Purinton,A,Harvard,Ind,,L,0,11
+1904-10-15,Bates,Ind, Purinton,A,Maine,Ind,S. King,W,6,0
+1904-11-05,Bates,Ind, Purinton,H,Colby,Ind,,W,23,0
+1904-11-12,Bates,Ind, Purinton,A,Bowdoin,Ind,Roscoe McClave,L,6,12
+1904-10-03,Florida,Ind,,A,Alabama,Ind,W.B. Blount,L,0,29
+1904-10-04,Florida,Ind,,A,Auburn,Ind,Mike Donahue,L,0,44
+1904-10-08,Florida,Ind,,A,Georgia,Ind,Charles Barnard,L,0,52
+1904-10-17,Florida,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,77
+1904-11-05,LSU,Ind,,H,Ole Miss,Ind,M.H. Harvey,W,5,0
+1904-11-10,LSU,Ind,,H,Nashville,Ind,,W,16,0
+1904-11-19,LSU,Ind,,A,Tulane,Ind,T. Berry,L,0,5
+1904-12-02,LSU,Ind,,H,Alabama,Ind,W.B. Blount,L,0,11
+1904-09-24,Pennsylvania,Ind,,H,Penn State,Ind,Tom Fennell,W,6,0
+1904-09-28,Pennsylvania,Ind,,H,Swarthmore,Ind,George Brooke,W,6,4
+1904-10-01,Pennsylvania,Ind,,H,Virginia,Ind,Foster Sanford,W,24,0
+1904-10-05,Pennsylvania,Ind,,H,Franklin & Marshall,Ind,W.P. Bates,W,34,0
+1904-10-08,Pennsylvania,Ind,,H,Lehigh,Ind,Samuel Newton,W,24,0
+1904-10-15,Pennsylvania,Ind,,H,Brown,Ind,Edward Robinson,W,6,0
+1904-10-21,Pennsylvania,Ind,,H,Columbia,Ind,William Morley,W,16,0
+1904-10-29,Pennsylvania,Ind,,A,Harvard,Ind,,W,11,0
+1904-11-05,Pennsylvania,Ind,,H,Lafayette,Ind,,W,22,0
+1904-11-12,Pennsylvania,Ind,,H,Carlisle,Ind,Edward Rogers,W,18,0
+1904-11-24,Pennsylvania,Ind,,H,Cornell,Ind,Pop Warner,W,34,0
+1904-09-28,Beloit,Ind,Harrison Weeks,A,Purdue,Western,Oliver Cutts,L,0,11
+1904-10-15,Beloit,Ind,Harrison Weeks,A,Northwestern,Western,Walter McCornack,L,0,34
+1904-11-05,Beloit,Ind,Harrison Weeks,A,Wisconsin,Western,Arthur Curtis,L,0,36
+1904-10-06,Iowa,Western,John Chalmers,A,Drake,Ind,W.J. Monilaw,W,17,0
+1904-10-15,Iowa,Western,John Chalmers,A,Chicago,Western,Amos Alonzo Stagg,L,0,39
+1904-10-29,Iowa,Western,John Chalmers,H,Iowa State,Ind,,W,10,6
+1904-11-05,Iowa,Western,John Chalmers,A,Nebraska,Ind,Walter Booth,L,6,17
+1904-11-12,Iowa,Western,John Chalmers,H,Grinnell,Ind,C.E. Harris,W,69,0
+1904-11-19,Iowa,Western,John Chalmers,A,Illinois,Western,,L,0,29
+1904-11-24,Iowa,Western,John Chalmers,H,Minnesota,Western,Henry Williams,L,0,11
+1904-09-28,Columbia,Ind,William Morley,H,Franklin & Marshall,Ind,W.P. Bates,W,28,0
+1904-10-01,Columbia,Ind,William Morley,H,Wesleyan (CT),Ind,Howard Reiter,W,16,0
+1904-10-04,Columbia,Ind,William Morley,H,Tufts,Ind,Charles Whelan,W,31,0
+1904-10-08,Columbia,Ind,William Morley,H,Williams,Ind,,W,11,0
+1904-10-12,Columbia,Ind,William Morley,H,Swarthmore,Ind,George Brooke,W,12,0
+1904-10-15,Columbia,Ind,William Morley,H,Amherst,Ind,Harry Smith,L,0,12
+1904-10-21,Columbia,Ind,William Morley,A,Pennsylvania,Ind,,L,0,16
+1904-10-29,Columbia,Ind,William Morley,H,Yale,Ind,,L,0,34
+1904-11-12,Columbia,Ind,William Morley,H,Cornell,Ind,Pop Warner,W,12,6
+1904-09-28,Amherst,Ind,Harry Smith,H,Bowdoin,Ind,Roscoe McClave,W,23,0
+1904-10-15,Amherst,Ind,Harry Smith,A,Columbia,Ind,William Morley,W,12,0
+1904-10-19,Amherst,Ind,Harry Smith,A,Brown,Ind,Edward Robinson,W,5,0
+1904-10-26,Amherst,Ind,Harry Smith,A,Williams,Ind,,W,22,6
+1904-10-29,Amherst,Ind,Harry Smith,A,Colby,Ind,,W,5,0
+1904-11-05,Amherst,Ind,Harry Smith,H,Holy Cross,Ind,Frank Cavanaugh,W,40,6
+1904-11-12,Amherst,Ind,Harry Smith,A,Dartmouth,Ind,Fred Folsom,L,4,15
+1904-09-28,Illinois,Western,,H,Wabash,Ind,Francis Cayou,W,23,2
+1904-10-08,Illinois,Western,,A,Washington (MO),Ind,L.W. Boynton,W,31,0
+1904-10-15,Illinois,Western,,H,Indiana,Western,James Horne,W,10,0
+1904-10-22,Illinois,Western,,A,Purdue,Western,Oliver Cutts,W,24,6
+1904-10-29,Illinois,Western,,A,Chicago,Western,Amos Alonzo Stagg,T,6,6
+1904-11-05,Illinois,Western,,A,Ohio State,Ind,Edwin Sweetland,W,46,0
+1904-11-12,Illinois,Western,,A,Northwestern,Western,Walter McCornack,L,6,12
+1904-11-19,Illinois,Western,,H,Iowa,Western,John Chalmers,W,29,0
+1904-11-24,Illinois,Western,,A,Nebraska,Ind,Walter Booth,L,10,16
+1904-10-08,Texas,Ind,Ralph Hutchinson,H,Texas Christian,Ind,C.E. Cronk,W,40,0
+1904-10-21,Texas,Ind,Ralph Hutchinson,H,Haskell,Ind,,L,0,4
+1904-10-29,Texas,Ind,Ralph Hutchinson,A,Washington (MO),Ind,L.W. Boynton,W,23,0
+1904-11-05,Texas,Ind,Ralph Hutchinson,A,Chicago,Western,Amos Alonzo Stagg,L,0,68
+1904-11-19,Texas,Ind,Ralph Hutchinson,H,Baylor,Ind,Sol Metzger,W,58,0
+1904-11-24,Texas,Ind,Ralph Hutchinson,H,Texas A&M,Ind,J.E. Platt,W,34,6
+1904-10-01,Texas Christian,Ind,C.E. Cronk,N,Baylor,Ind,Sol Metzger,T,0,0
+1904-10-08,Texas Christian,Ind,C.E. Cronk,A,Texas,Ind,Ralph Hutchinson,L,0,40
+1904-10-22,Texas Christian,Ind,C.E. Cronk,A,Texas A&M,Ind,J.E. Platt,L,0,29
+1904-10-29,Texas Christian,Ind,C.E. Cronk,N,Baylor,Ind,Sol Metzger,L,0,17
+1904-11-24,Texas Christian,Ind,C.E. Cronk,A,Baylor,Ind,Sol Metzger,W,5,0
+1904-10-01,Baylor,Ind,Sol Metzger,N,Texas Christian,Ind,C.E. Cronk,T,0,0
+1904-10-15,Baylor,Ind,Sol Metzger,H,Texas A&M,Ind,J.E. Platt,L,0,5
+1904-10-29,Baylor,Ind,Sol Metzger,N,Texas Christian,Ind,C.E. Cronk,W,17,0
+1904-11-12,Baylor,Ind,Sol Metzger,A,Texas A&M,Ind,J.E. Platt,L,0,10
+1904-11-19,Baylor,Ind,Sol Metzger,A,Texas,Ind,Ralph Hutchinson,L,0,58
+1904-11-24,Baylor,Ind,Sol Metzger,H,Texas Christian,Ind,C.E. Cronk,L,0,5
+1904-10-08,Georgia,Ind,Charles Barnard,H,Florida,Ind,,W,52,0
+1904-10-22,Georgia,Ind,Charles Barnard,A,Clemson,Ind,Shack Shealy,L,0,10
+1904-11-05,Georgia,Ind,Charles Barnard,A,Alabama,Ind,W.B. Blount,L,5,16
+1904-11-12,Georgia,Ind,Charles Barnard,A,Georgia Tech,Ind,John Heisman,L,6,23
+1904-11-24,Georgia,Ind,Charles Barnard,H,Auburn,Ind,Mike Donahue,L,6,17
+1904-10-01,Virginia,Ind,Foster Sanford,A,Pennsylvania,Ind,,L,0,24
+1904-10-15,Virginia,Ind,Foster Sanford,H,Virginia Military Institute,Ind,,W,17,0
+1904-10-22,Virginia,Ind,Foster Sanford,H,North Carolina State,Ind,W.S. Keinholz,W,5,0
+1904-11-05,Virginia,Ind,Foster Sanford,N,Virginia Tech,Ind,John O'Connor,W,5,0
+1904-11-09,Virginia,Ind,Foster Sanford,H,Carlisle,Ind,Edward Rogers,L,6,14
+1904-11-12,Virginia,Ind,Foster Sanford,H,Navy,Ind,Paul Dashiell,L,0,5
+1904-11-24,Virginia,Ind,Foster Sanford,H,North Carolina,Ind,Robert Brown,W,12,11
+1904-10-08,Vermont,Ind,,A,Dartmouth,Ind,Fred Folsom,L,0,37
+1904-10-22,Vermont,Ind,,H,Tufts,Ind,Charles Whelan,T,6,6
+1904-10-29,Vermont,Ind,,A,Brown,Ind,Edward Robinson,L,0,33
+1904-11-05,Vermont,Ind,,A,Wesleyan (CT),Ind,Howard Reiter,L,0,23
+1904-11-12,Vermont,Ind,,A,Williams,Ind,,L,11,72
+1904-10-01,Brown,Ind,Edward Robinson,H,Maine,Ind,S. King,L,0,6
+1904-10-08,Brown,Ind,Edward Robinson,H,Massachusetts,Ind,Matthew Bullock,W,27,0
+1904-10-12,Brown,Ind,Edward Robinson,H,Wesleyan (CT),Ind,Howard Reiter,W,12,0
+1904-10-15,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,,L,0,6
+1904-10-19,Brown,Ind,Edward Robinson,H,Amherst,Ind,Harry Smith,L,0,5
+1904-10-22,Brown,Ind,Edward Robinson,H,Bowdoin,Ind,Roscoe McClave,W,22,0
+1904-10-29,Brown,Ind,Edward Robinson,H,Vermont,Ind,,W,33,0
+1904-11-02,Brown,Ind,Edward Robinson,H,Tufts,Ind,Charles Whelan,W,41,0
+1904-11-05,Brown,Ind,Edward Robinson,A,Yale,Ind,,L,0,22
+1904-11-12,Brown,Ind,Edward Robinson,H,Colby,Ind,,W,41,0
+1904-11-19,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,Fred Folsom,L,5,12
+1904-09-28,Wabash,Ind,Francis Cayou,A,Illinois,Western,,L,2,23
+1904-10-01,Wabash,Ind,Francis Cayou,A,Notre Dame,Ind,Louis Salmon,L,4,12
+1904-10-15,Wabash,Ind,Francis Cayou,A,Purdue,Western,Oliver Cutts,L,0,6
+1904-11-05,Wabash,Ind,Francis Cayou,H,Indiana,Western,James Horne,L,0,4
+1904-10-01,Maine,Ind,S. King,A,Brown,Ind,Edward Robinson,W,6,0
+1904-10-08,Maine,Ind,S. King,A,Harvard,Ind,,L,0,23
+1904-10-12,Maine,Ind,S. King,H,New Hampshire,Ind,G.B. Ward,W,6,0
+1904-10-15,Maine,Ind,S. King,H,Bates,Ind, Purinton,L,0,6
+1904-10-19,Maine,Ind,S. King,A,Tufts,Ind,Charles Whelan,W,6,0
+1904-11-05,Maine,Ind,S. King,A,Bowdoin,Ind,Roscoe McClave,L,5,22
+1904-11-12,Maine,Ind,S. King,H,Tufts,Ind,Charles Whelan,W,28,0
+1904-11-19,Maine,Ind,S. King,H,Colby,Ind,,L,11,12
+1904-10-15,Tennessee,Ind,S.D. Crawford,H,Nashville,Ind,,T,0,0
+1904-10-22,Tennessee,Ind,S.D. Crawford,A,Georgia Tech,Ind,John Heisman,L,0,2
+1904-10-29,Tennessee,Ind,S.D. Crawford,H,Sewanee,Ind,George Whitney,L,0,12
+1904-11-05,Tennessee,Ind,S.D. Crawford,A,Vanderbilt,Ind,Dan McGugin,L,0,22
+1904-11-12,Tennessee,Ind,S.D. Crawford,H,Clemson,Ind,Shack Shealy,L,0,6
+1904-11-24,Tennessee,Ind,S.D. Crawford,A,Alabama,Ind,W.B. Blount,W,5,0
+1904-10-12,Virginia Tech,Ind,John O'Connor,H,Nashville,Ind,,W,32,0
+1904-10-29,Virginia Tech,Ind,John O'Connor,H,North Carolina,Ind,Robert Brown,L,0,6
+1904-11-05,Virginia Tech,Ind,John O'Connor,N,Virginia,Ind,Foster Sanford,L,0,5
+1904-11-19,Virginia Tech,Ind,John O'Connor,A,Navy,Ind,Paul Dashiell,L,0,11
+1904-11-24,Virginia Tech,Ind,John O'Connor,N,Virginia Military Institute,Ind,,W,17,5
+1904-09-28,Franklin & Marshall,Ind,W.P. Bates,A,Columbia,Ind,William Morley,L,0,28
+1904-10-05,Franklin & Marshall,Ind,W.P. Bates,A,Pennsylvania,Ind,,L,0,34
+1904-10-15,Franklin & Marshall,Ind,W.P. Bates,H,Dickinson,Ind,Cap Craver,L,0,57
+1904-10-22,Franklin & Marshall,Ind,W.P. Bates,A,Cornell,Ind,Pop Warner,L,5,36
+1904-11-12,Franklin & Marshall,Ind,W.P. Bates,A,Swarthmore,Ind,George Brooke,L,0,69
+1904-10-01,Lehigh,Ind,Samuel Newton,H,Swarthmore,Ind,George Brooke,L,0,20
+1904-10-08,Lehigh,Ind,Samuel Newton,A,Pennsylvania,Ind,,L,0,24
+1904-10-26,Lehigh,Ind,Samuel Newton,A,Princeton,Ind,,L,0,60
+1904-10-29,Lehigh,Ind,Samuel Newton,H,Dickinson,Ind,Cap Craver,L,0,6
+1904-11-05,Lehigh,Ind,Samuel Newton,A,Cornell,Ind,Pop Warner,L,5,50
+1904-11-24,Lehigh,Ind,Samuel Newton,A,Lafayette,Ind,,L,6,40
+1904-10-03,Alabama,Ind,W.B. Blount,H,Florida,Ind,,W,29,0
+1904-10-08,Alabama,Ind,W.B. Blount,H,Clemson,Ind,Shack Shealy,L,0,18
+1904-10-15,Alabama,Ind,W.B. Blount,A,Mississippi State,Ind,Dan Martin,W,6,0
+1904-10-24,Alabama,Ind,W.B. Blount,H,Nashville,Ind,,W,17,0
+1904-11-05,Alabama,Ind,W.B. Blount,H,Georgia,Ind,Charles Barnard,W,16,5
+1904-11-12,Alabama,Ind,W.B. Blount,N,Auburn,Ind,Mike Donahue,L,5,29
+1904-11-24,Alabama,Ind,W.B. Blount,H,Tennessee,Ind,S.D. Crawford,L,0,5
+1904-12-02,Alabama,Ind,W.B. Blount,A,LSU,Ind,,W,11,0
+1904-12-03,Alabama,Ind,W.B. Blount,A,Tulane,Ind,T. Berry,W,6,0
+1904-10-08,Clemson,Ind,Shack Shealy,A,Alabama,Ind,W.B. Blount,W,18,0
+1904-10-15,Clemson,Ind,Shack Shealy,H,Auburn,Ind,Mike Donahue,L,0,5
+1904-10-22,Clemson,Ind,Shack Shealy,H,Georgia,Ind,Charles Barnard,W,10,0
+1904-10-27,Clemson,Ind,Shack Shealy,H,Sewanee,Ind,George Whitney,L,5,11
+1904-11-05,Clemson,Ind,Shack Shealy,A,Georgia Tech,Ind,John Heisman,T,11,11
+1904-11-12,Clemson,Ind,Shack Shealy,A,Tennessee,Ind,S.D. Crawford,W,6,0
+1904-11-24,Clemson,Ind,Shack Shealy,A,North Carolina State,Ind,W.S. Keinholz,L,0,18
+1904-09-28,Purdue,Western,Oliver Cutts,H,Beloit,Ind,Harrison Weeks,W,11,0
+1904-10-08,Purdue,Western,Oliver Cutts,A,Chicago,Western,Amos Alonzo Stagg,L,0,20
+1904-10-15,Purdue,Western,Oliver Cutts,H,Wabash,Ind,Francis Cayou,W,6,0
+1904-10-22,Purdue,Western,Oliver Cutts,H,Illinois,Western,,L,6,24
+1904-10-28,Purdue,Western,Oliver Cutts,A,Missouri,Ind,John McLean,W,11,0
+1904-11-12,Purdue,Western,Oliver Cutts,N,Indiana,Western,James Horne,W,27,0
+1904-11-24,Purdue,Western,Oliver Cutts,H,Notre Dame,Ind,Louis Salmon,W,36,0
+1904-10-01,Nebraska,Ind,Walter Booth,H,Grinnell,Ind,C.E. Harris,W,46,0
+1904-10-08,Nebraska,Ind,Walter Booth,A,Colorado,Ind,David Cropp,L,0,6
+1904-10-29,Nebraska,Ind,Walter Booth,A,Minnesota,Western,Henry Williams,L,12,16
+1904-11-05,Nebraska,Ind,Walter Booth,H,Iowa,Western,John Chalmers,W,17,6
+1904-11-12,Nebraska,Ind,Walter Booth,N,Haskell,Ind,,L,6,14
+1904-11-24,Nebraska,Ind,Walter Booth,H,Illinois,Western,,W,16,10
+1904-09-24,Holy Cross,Ind,Frank Cavanaugh,H,Massachusetts,Ind,Matthew Bullock,T,0,0
+1904-10-01,Holy Cross,Ind,Frank Cavanaugh,A,Bates,Ind, Purinton,T,0,0
+1904-10-05,Holy Cross,Ind,Frank Cavanaugh,A,Yale,Ind,,L,0,23
+1904-10-15,Holy Cross,Ind,Frank Cavanaugh,H,Tufts,Ind,Charles Whelan,W,34,0
+1904-10-22,Holy Cross,Ind,Frank Cavanaugh,H,Dartmouth,Ind,Fred Folsom,L,4,18
+1904-10-29,Holy Cross,Ind,Frank Cavanaugh,A,Georgetown,Ind,Joe Reilly,L,4,17
+1904-11-05,Holy Cross,Ind,Frank Cavanaugh,A,Amherst,Ind,Harry Smith,L,6,40
+1904-11-12,Holy Cross,Ind,Frank Cavanaugh,A,Harvard,Ind,,L,5,28
+1904-09-28,Harvard,Ind,,H,Williams,Ind,,W,24,0
+1904-10-05,Harvard,Ind,,H,Bowdoin,Ind,Roscoe McClave,W,17,0
+1904-10-08,Harvard,Ind,,H,Maine,Ind,S. King,W,23,0
+1904-10-12,Harvard,Ind,,H,Bates,Ind, Purinton,W,11,0
+1904-10-15,Harvard,Ind,,A,Army,Ind,Robert Boyers,W,4,0
+1904-10-22,Harvard,Ind,,H,Carlisle,Ind,Edward Rogers,W,12,0
+1904-10-29,Harvard,Ind,,H,Pennsylvania,Ind,,L,0,11
+1904-11-05,Harvard,Ind,,H,Dartmouth,Ind,Fred Folsom,T,0,0
+1904-11-12,Harvard,Ind,,H,Holy Cross,Ind,Frank Cavanaugh,W,28,5
+1904-11-19,Harvard,Ind,,A,Yale,Ind,,L,0,12
+1904-10-01,Colby,Ind,,H,New Hampshire,Ind,G.B. Ward,W,23,0
+1904-10-08,Colby,Ind,,A,Bowdoin,Ind,Roscoe McClave,L,0,52
+1904-10-29,Colby,Ind,,H,Amherst,Ind,Harry Smith,L,0,5
+1904-11-05,Colby,Ind,,A,Bates,Ind, Purinton,L,0,23
+1904-11-12,Colby,Ind,,A,Brown,Ind,Edward Robinson,L,0,41
+1904-11-19,Colby,Ind,,A,Maine,Ind,S. King,W,12,11
+1904-09-28,Williams,Ind,,A,Harvard,Ind,,L,0,24
+1904-10-01,Williams,Ind,,A,Massachusetts,Ind,Matthew Bullock,L,0,12
+1904-10-08,Williams,Ind,,A,Columbia,Ind,William Morley,L,0,11
+1904-10-15,Williams,Ind,,H,Dartmouth,Ind,Fred Folsom,L,0,11
+1904-10-26,Williams,Ind,,H,Amherst,Ind,Harry Smith,L,6,22
+1904-10-29,Williams,Ind,,A,Army,Ind,Robert Boyers,L,0,16
+1904-11-12,Williams,Ind,,H,Vermont,Ind,,W,72,11
+1904-11-19,Williams,Ind,,A,Wesleyan (CT),Ind,Howard Reiter,W,23,0
+1904-10-08,Colorado,Ind,David Cropp,H,Nebraska,Ind,Walter Booth,W,6,0
+1904-10-15,Colorado,Ind,David Cropp,A,Kansas,Ind,Doc Kennedy,T,6,6
+1904-10-29,Colorado,Ind,David Cropp,A,Colorado College,Ind,William Juneau,W,23,0
+1904-11-05,Colorado,Ind,David Cropp,A,Colorado Mines,Ind,,L,10,13
+1904-11-12,Colorado,Ind,David Cropp,A,Denver,Ind,Ora Fowler,W,57,0
+1904-11-19,Colorado,Ind,David Cropp,H,Colorado State,Ind,John McIntosh,W,46,0
+1904-09-24,Massachusetts,Ind,Matthew Bullock,A,Holy Cross,Ind,Frank Cavanaugh,T,0,0
+1904-09-28,Massachusetts,Ind,Matthew Bullock,A,Dartmouth,Ind,Fred Folsom,L,0,17
+1904-10-01,Massachusetts,Ind,Matthew Bullock,H,Williams,Ind,,W,12,0
+1904-10-08,Massachusetts,Ind,Matthew Bullock,A,Brown,Ind,Edward Robinson,L,0,27
+1904-10-15,Massachusetts,Ind,Matthew Bullock,H,Wesleyan (CT),Ind,Howard Reiter,W,24,6
+1904-11-16,Massachusetts,Ind,Matthew Bullock,A,Tufts,Ind,Charles Whelan,W,11,0
+1904-10-15,Missouri,Ind,John McLean,N,Haskell,Ind,,L,0,39
+1904-10-28,Missouri,Ind,John McLean,H,Purdue,Western,Oliver Cutts,L,0,11
+1904-11-05,Missouri,Ind,John McLean,A,Washington (MO),Ind,L.W. Boynton,L,0,10
+1904-11-24,Missouri,Ind,John McLean,N,Kansas,Ind,Doc Kennedy,L,0,29
+1904-10-01,Tennessee Medical College,Ind,,A,Sewanee,Ind,George Whitney,L,0,58
+1904-10-08,Tennessee Medical College,Ind,,A,Nashville,Ind,,W,21,0
+1904-11-11,Tennessee Medical College,Ind,,A,Mississippi State,Ind,Dan Martin,L,0,59
+1904-11-12,Tennessee Medical College,Ind,,A,Ole Miss,Ind,M.H. Harvey,L,0,42
+1904-11-16,Tennessee Medical College,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,59
+1904-10-01,Denver,Ind,Ora Fowler,A,Colorado State,Ind,John McIntosh,W,18,0
+1904-10-08,Denver,Ind,Ora Fowler,A,Colorado College,Ind,William Juneau,L,0,5
+1904-10-15,Denver,Ind,Ora Fowler,A,Colorado Mines,Ind,,L,6,13
+1904-10-22,Denver,Ind,Ora Fowler,H,Colorado Mines,Ind,,L,6,10
+1904-11-05,Denver,Ind,Ora Fowler,H,Colorado College,Ind,William Juneau,W,14,8
+1904-11-12,Denver,Ind,Ora Fowler,H,Colorado,Ind,David Cropp,L,0,57
+1904-10-15,Wisconsin,Western,Arthur Curtis,H,Notre Dame,Ind,Louis Salmon,W,58,0
+1904-10-22,Wisconsin,Western,Arthur Curtis,H,Drake,Ind,W.J. Monilaw,W,82,0
+1904-10-29,Wisconsin,Western,Arthur Curtis,H,Michigan,Western,Fielding Yost,L,0,28
+1904-11-05,Wisconsin,Western,Arthur Curtis,H,Beloit,Ind,Harrison Weeks,W,36,0
+1904-11-12,Wisconsin,Western,Arthur Curtis,A,Minnesota,Western,Henry Williams,L,0,28
+1904-11-24,Wisconsin,Western,Arthur Curtis,A,Chicago,Western,Amos Alonzo Stagg,L,11,18
+1904-10-08,Bucknell,Ind,George Hoskins,N,Carlisle,Ind,Edward Rogers,L,4,10
+1904-10-15,Bucknell,Ind,George Hoskins,A,Cornell,Ind,Pop Warner,L,12,24
+1904-11-12,Bucknell,Ind,George Hoskins,A,Georgetown,Ind,Joe Reilly,L,0,12
+1904-10-01,Colorado State,Ind,John McIntosh,H,Denver,Ind,Ora Fowler,L,0,18
+1904-10-08,Colorado State,Ind,John McIntosh,A,Colorado Mines,Ind,,L,0,51
+1904-11-12,Colorado State,Ind,John McIntosh,H,Colorado College,Ind,William Juneau,L,0,4
+1904-11-19,Colorado State,Ind,John McIntosh,A,Colorado,Ind,David Cropp,L,0,46
+1904-10-15,Texas A&M,Ind,J.E. Platt,A,Baylor,Ind,Sol Metzger,W,5,0
+1904-10-22,Texas A&M,Ind,J.E. Platt,H,Texas Christian,Ind,C.E. Cronk,W,29,0
+1904-11-05,Texas A&M,Ind,J.E. Platt,H,Sewanee,Ind,George Whitney,L,5,17
+1904-11-12,Texas A&M,Ind,J.E. Platt,H,Baylor,Ind,Sol Metzger,W,10,0
+1904-11-24,Texas A&M,Ind,J.E. Platt,A,Texas,Ind,Ralph Hutchinson,L,6,34
+1904-10-08,Washington (MO),Ind,L.W. Boynton,H,Illinois,Western,,L,0,31
+1904-10-15,Washington (MO),Ind,L.W. Boynton,H,Sewanee,Ind,George Whitney,L,0,17
+1904-10-22,Washington (MO),Ind,L.W. Boynton,H,Indiana,Western,James Horne,L,6,22
+1904-10-29,Washington (MO),Ind,L.W. Boynton,H,Texas,Ind,Ralph Hutchinson,L,0,23
+1904-11-05,Washington (MO),Ind,L.W. Boynton,H,Missouri,Ind,John McLean,W,10,0
+1904-11-12,Washington (MO),Ind,L.W. Boynton,H,Kansas,Ind,Doc Kennedy,L,0,12
+1904-11-24,Washington (MO),Ind,L.W. Boynton,H,Haskell,Ind,,L,0,47
+1904-10-01,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Horne,W,56,0
+1904-10-08,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Oliver Cutts,W,20,0
+1904-10-15,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,John Chalmers,W,39,0
+1904-10-22,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Walter McCornack,W,32,0
+1904-10-29,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,,T,6,6
+1904-11-05,Chicago,Western,Amos Alonzo Stagg,H,Texas,Ind,Ralph Hutchinson,W,68,0
+1904-11-12,Chicago,Western,Amos Alonzo Stagg,A,Michigan,Western,Fielding Yost,L,12,22
+1904-11-24,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Arthur Curtis,W,18,11
+1904-10-08,Colorado Mines,Ind,,H,Colorado State,Ind,John McIntosh,W,51,0
+1904-10-15,Colorado Mines,Ind,,H,Denver,Ind,Ora Fowler,W,13,6
+1904-10-22,Colorado Mines,Ind,,A,Denver,Ind,Ora Fowler,W,10,6
+1904-11-05,Colorado Mines,Ind,,H,Colorado,Ind,David Cropp,W,13,10
+1904-11-19,Colorado Mines,Ind,,H,Colorado College,Ind,William Juneau,T,4,4
+1904-10-01,North Carolina State,Ind,W.S. Keinholz,A,Virginia Military Institute,Ind,,W,6,0
+1904-10-22,North Carolina State,Ind,W.S. Keinholz,A,Virginia,Ind,Foster Sanford,L,0,5
+1904-11-16,North Carolina State,Ind,W.S. Keinholz,A,North Carolina,Ind,Robert Brown,T,6,6
+1904-11-24,North Carolina State,Ind,W.S. Keinholz,H,Clemson,Ind,Shack Shealy,W,18,0
+1904-09-28,Swarthmore,Ind,George Brooke,A,Pennsylvania,Ind,,L,4,6
+1904-10-01,Swarthmore,Ind,George Brooke,A,Lehigh,Ind,Samuel Newton,W,20,0
+1904-10-12,Swarthmore,Ind,George Brooke,A,Columbia,Ind,William Morley,L,0,12
+1904-10-22,Swarthmore,Ind,George Brooke,A,Lafayette,Ind,,L,0,4
+1904-10-29,Swarthmore,Ind,George Brooke,A,Navy,Ind,Paul Dashiell,W,9,0
+1904-11-12,Swarthmore,Ind,George Brooke,H,Franklin & Marshall,Ind,W.P. Bates,W,69,0
+1904-10-15,Minnesota,Western,Henry Williams,H,Iowa State,Ind,,W,32,0
+1904-10-22,Minnesota,Western,Henry Williams,H,Grinnell,Ind,C.E. Harris,W,146,0
+1904-10-29,Minnesota,Western,Henry Williams,H,Nebraska,Ind,Walter Booth,W,16,12
+1904-11-12,Minnesota,Western,Henry Williams,H,Wisconsin,Western,Arthur Curtis,W,28,0
+1904-11-19,Minnesota,Western,Henry Williams,A,Northwestern,Western,Walter McCornack,W,17,0
+1904-11-24,Minnesota,Western,Henry Williams,A,Iowa,Western,John Chalmers,W,11,0
+1904-10-15,Ole Miss,Ind,M.H. Harvey,A,Vanderbilt,Ind,Dan McGugin,L,0,69
+1904-10-22,Ole Miss,Ind,M.H. Harvey,N,Mississippi State,Ind,Dan Martin,W,17,5
+1904-11-05,Ole Miss,Ind,M.H. Harvey,A,LSU,Ind,,L,0,5
+1904-11-12,Ole Miss,Ind,M.H. Harvey,H,Tennessee Medical College,Ind,,W,42,0
+1904-11-19,Ole Miss,Ind,M.H. Harvey,N,Nashville,Ind,,W,12,5
+1904-11-24,Ole Miss,Ind,M.H. Harvey,A,Tulane,Ind,T. Berry,L,0,22
+1904-10-01,Sewanee,Ind,George Whitney,H,Tennessee Medical College,Ind,,W,58,0
+1904-10-15,Sewanee,Ind,George Whitney,A,Washington (MO),Ind,L.W. Boynton,W,17,0
+1904-10-27,Sewanee,Ind,George Whitney,A,Clemson,Ind,Shack Shealy,W,11,5
+1904-10-29,Sewanee,Ind,George Whitney,A,Tennessee,Ind,S.D. Crawford,W,12,0
+1904-11-05,Sewanee,Ind,George Whitney,A,Texas A&M,Ind,J.E. Platt,W,17,5
+1904-11-12,Sewanee,Ind,George Whitney,A,Tulane,Ind,T. Berry,W,18,0
+1904-11-24,Sewanee,Ind,George Whitney,A,Vanderbilt,Ind,Dan McGugin,L,0,27
+1904-10-15,Michigan,Western,Fielding Yost,A,Ohio State,Ind,Edwin Sweetland,W,31,6
+1904-10-29,Michigan,Western,Fielding Yost,A,Wisconsin,Western,Arthur Curtis,W,28,0
+1904-11-05,Michigan,Western,Fielding Yost,H,Drake,Ind,W.J. Monilaw,W,36,4
+1904-11-12,Michigan,Western,Fielding Yost,H,Chicago,Western,Amos Alonzo Stagg,W,22,12
+1904-10-08,Navy,Ind,Paul Dashiell,H,Virginia Military Institute,Ind,,W,12,0
+1904-10-15,Navy,Ind,Paul Dashiell,H,Princeton,Ind,,W,10,9
+1904-10-22,Navy,Ind,Paul Dashiell,H,Dickinson,Ind,Cap Craver,T,0,0
+1904-10-29,Navy,Ind,Paul Dashiell,H,Swarthmore,Ind,George Brooke,L,0,9
+1904-11-05,Navy,Ind,Paul Dashiell,H,Penn State,Ind,Tom Fennell,W,20,9
+1904-11-12,Navy,Ind,Paul Dashiell,A,Virginia,Ind,Foster Sanford,W,5,0
+1904-11-19,Navy,Ind,Paul Dashiell,H,Virginia Tech,Ind,John O'Connor,W,11,0
+1904-11-26,Navy,Ind,Paul Dashiell,N,Army,Ind,Robert Boyers,L,0,11
+1904-09-24,Tufts,Ind,Charles Whelan,H,New Hampshire,Ind,G.B. Ward,L,0,4
+1904-10-01,Tufts,Ind,Charles Whelan,A,Army,Ind,Robert Boyers,L,0,12
+1904-10-04,Tufts,Ind,Charles Whelan,A,Columbia,Ind,William Morley,L,0,31
+1904-10-15,Tufts,Ind,Charles Whelan,A,Holy Cross,Ind,Frank Cavanaugh,L,0,34
+1904-10-19,Tufts,Ind,Charles Whelan,H,Maine,Ind,S. King,L,0,6
+1904-10-22,Tufts,Ind,Charles Whelan,A,Vermont,Ind,,T,6,6
+1904-11-02,Tufts,Ind,Charles Whelan,A,Brown,Ind,Edward Robinson,L,0,41
+1904-11-12,Tufts,Ind,Charles Whelan,A,Maine,Ind,S. King,L,0,28
+1904-11-16,Tufts,Ind,Charles Whelan,H,Massachusetts,Ind,Matthew Bullock,L,0,11
+1904-10-12,Lafayette,Ind,,A,Princeton,Ind,,L,0,5
+1904-10-22,Lafayette,Ind,,H,Swarthmore,Ind,George Brooke,W,4,0
+1904-11-05,Lafayette,Ind,,A,Pennsylvania,Ind,,L,0,22
+1904-11-24,Lafayette,Ind,,H,Lehigh,Ind,Samuel Newton,W,40,6
+1904-09-24,New Hampshire,Ind,G.B. Ward,A,Tufts,Ind,Charles Whelan,W,4,0
+1904-10-01,New Hampshire,Ind,G.B. Ward,A,Colby,Ind,,L,0,23
+1904-10-05,New Hampshire,Ind,G.B. Ward,H,Bates,Ind, Purinton,L,0,6
+1904-10-12,New Hampshire,Ind,G.B. Ward,A,Maine,Ind,S. King,L,0,6
+1904-10-01,Notre Dame,Ind,Louis Salmon,H,Wabash,Ind,Francis Cayou,W,12,4
+1904-10-15,Notre Dame,Ind,Louis Salmon,A,Wisconsin,Western,Arthur Curtis,L,0,58
+1904-11-05,Notre Dame,Ind,Louis Salmon,A,Kansas,Ind,Doc Kennedy,L,5,24
+1904-11-24,Notre Dame,Ind,Louis Salmon,A,Purdue,Western,Oliver Cutts,L,0,36
+1904-10-29,Tulane,Ind,T. Berry,H,Mississippi State,Ind,Dan Martin,W,10,0
+1904-11-12,Tulane,Ind,T. Berry,H,Sewanee,Ind,George Whitney,L,0,18
+1904-11-19,Tulane,Ind,T. Berry,H,LSU,Ind,,W,5,0
+1904-11-24,Tulane,Ind,T. Berry,H,Ole Miss,Ind,M.H. Harvey,W,22,0
+1904-12-03,Tulane,Ind,T. Berry,H,Alabama,Ind,W.B. Blount,L,0,6
+1904-10-15,Cornell,Ind,Pop Warner,H,Bucknell,Ind,George Hoskins,W,24,12
+1904-10-22,Cornell,Ind,Pop Warner,H,Franklin & Marshall,Ind,W.P. Bates,W,36,5
+1904-10-29,Cornell,Ind,Pop Warner,H,Princeton,Ind,,L,6,18
+1904-11-05,Cornell,Ind,Pop Warner,H,Lehigh,Ind,Samuel Newton,W,50,5
+1904-11-12,Cornell,Ind,Pop Warner,A,Columbia,Ind,William Morley,L,6,12
+1904-11-24,Cornell,Ind,Pop Warner,A,Pennsylvania,Ind,,L,0,34
+1904-10-15,Ohio State,Ind,Edwin Sweetland,H,Michigan,Western,Fielding Yost,L,6,31
+1904-10-29,Ohio State,Ind,Edwin Sweetland,A,Indiana,Western,James Horne,L,0,8
+1904-11-05,Ohio State,Ind,Edwin Sweetland,H,Illinois,Western,,L,0,46
+1904-11-19,Ohio State,Ind,Edwin Sweetland,H,Carlisle,Ind,Edward Rogers,L,0,23
+1904-10-06,Drake,Ind,W.J. Monilaw,H,Iowa,Western,John Chalmers,L,0,17
+1904-10-22,Drake,Ind,W.J. Monilaw,A,Wisconsin,Western,Arthur Curtis,L,0,82
+1904-10-29,Drake,Ind,W.J. Monilaw,H,Grinnell,Ind,C.E. Harris,W,67,0
+1904-11-05,Drake,Ind,W.J. Monilaw,A,Michigan,Western,Fielding Yost,L,4,36
+1904-11-24,Drake,Ind,W.J. Monilaw,H,Iowa State,Ind,,L,0,19

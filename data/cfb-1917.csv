@@ -1,0 +1,455 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1917-10-27,Indiana,Western,Jumbo Stiehm,A,Minnesota,Western,Henry Williams,L,9,33
+1917-11-03,Indiana,Western,Jumbo Stiehm,H,Ohio State,Western,John Wilce,L,3,26
+1917-11-24,Indiana,Western,Jumbo Stiehm,A,Purdue,Western,Cleo O'Donnell,W,37,0
+1917-10-20,Iowa State,MVIAA,,H,Missouri,MVIAA,Henry Schulte,W,15,0
+1917-10-27,Iowa State,MVIAA,,A,Kansas,MVIAA,Herman Olcott,L,0,7
+1917-11-10,Iowa State,MVIAA,,H,Kansas State,MVIAA,Zora Clevenger,W,10,7
+1917-11-24,Iowa State,MVIAA,,A,Iowa,Western,Howard Jones,L,3,6
+1917-11-29,Iowa State,MVIAA,,A,Drake,MVIAA,Ralph Glaze,W,47,0
+1917-09-28,Furman,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,25
+1917-10-06,Furman,Ind,,H,Wake Forest,Ind,E.T. MacDonnell,W,7,6
+1917-10-13,Furman,Ind,,H,Clemson,Ind,Edward Donahue,L,0,38
+1917-10-20,Furman,Ind,,H,Newberry,Ind,Robert Pfohl,W,20,7
+1917-11-03,Furman,Ind,,H,Davidson,Ind,William Fetzer,L,7,28
+1917-11-08,Furman,Ind,,N,South Carolina,Ind,Dixon Foster,L,0,26
+1917-11-17,Furman,Ind,,H,Presbyterian,Ind,Walter Johnson,L,7,14
+1917-11-29,Furman,Ind,,H,Wofford,Ind,Leslie Moser,W,18,3
+1917-10-20,Utah,RMC,Nelson Norgren,H,Wyoming,RMC,John Corbett,W,14,0
+1917-10-27,Utah,RMC,Nelson Norgren,A,Colorado College,RMC,C.J. Rothget,L,0,21
+1917-11-03,Utah,RMC,Nelson Norgren,H,Colorado State,RMC,Harry Hughes,W,25,12
+1917-11-10,Utah,RMC,Nelson Norgren,A,Colorado,RMC,Bob Evans,L,9,18
+1917-11-29,Utah,RMC,Nelson Norgren,H,Utah State,RMC,Jack Watson,L,0,14
+1917-10-20,Washington & Lee,Ind,Bill Raftery,A,Georgia Tech,Ind,John Heisman,L,0,63
+1917-10-27,Washington & Lee,Ind,Bill Raftery,H,North Carolina State,Ind,Harry Hartsell,W,28,7
+1917-11-17,Washington & Lee,Ind,Bill Raftery,H,Georgetown,Ind,,L,12,20
+1917-11-29,Washington & Lee,Ind,Bill Raftery,H,Washington & Jefferson,Ind,Sol Metzger,L,0,12
+1917-10-13,Syracuse,Ind,,H,Rutgers,Ind,George Sanford,W,14,10
+1917-10-20,Syracuse,Ind,,A,Pitt,Ind,Pop Warner,L,0,28
+1917-11-03,Syracuse,Ind,,A,Brown,Ind,Edward Robinson,W,6,0
+1917-11-10,Syracuse,Ind,,H,Bucknell,Ind,George Johnson,W,42,0
+1917-11-17,Syracuse,Ind,,H,Colgate,Ind,Harry McDevitt,W,27,7
+1917-11-29,Syracuse,Ind,,A,Nebraska,MVIAA,Edward Stewart,W,10,9
+1917-10-20,Georgetown,Ind,,A,Lehigh,Ind,Tom Keady,W,17,6
+1917-10-27,Georgetown,Ind,,H,Virginia Tech,Ind,Charles Bernier,W,28,0
+1917-11-10,Georgetown,Ind,,A,Navy,Ind,Gilmour Dobie,L,7,28
+1917-11-17,Georgetown,Ind,,A,Washington & Lee,Ind,Bill Raftery,W,20,12
+1917-10-20,Montana,Ind,Jerry Nissen,H,Utah State,RMC,Jack Watson,L,6,21
+1917-11-17,Montana,Ind,Jerry Nissen,A,Washington State,PCC,William Dietz,L,0,28
+1917-11-24,Montana,Ind,Jerry Nissen,A,Idaho,Ind,W.C. Bleamaster,L,3,14
+1917-10-20,Penn State,Ind,Dick Harlow,A,Washington & Jefferson,Ind,Sol Metzger,L,0,7
+1917-11-03,Penn State,Ind,Dick Harlow,A,Dartmouth,Ind,,L,7,10
+1917-11-10,Penn State,Ind,Dick Harlow,H,Lehigh,Ind,Tom Keady,L,0,9
+1917-11-17,Penn State,Ind,Dick Harlow,H,Maryland,Ind,Curley Byrd,W,57,0
+1917-11-29,Penn State,Ind,Dick Harlow,A,Pitt,Ind,Pop Warner,L,6,28
+1917-10-13,Vanderbilt,Ind,Dan McGugin,A,Chicago,Western,Amos Alonzo Stagg,L,0,48
+1917-10-20,Vanderbilt,Ind,Dan McGugin,A,Kentucky,Ind,Daddy Boles,W,5,0
+1917-11-03,Vanderbilt,Ind,Dan McGugin,A,Georgia Tech,Ind,John Heisman,L,0,83
+1917-11-10,Vanderbilt,Ind,Dan McGugin,A,Alabama,Ind,Thomas Kelley,W,7,2
+1917-11-17,Vanderbilt,Ind,Dan McGugin,H,Auburn,Ind,Mike Donahue,L,7,31
+1917-11-29,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,,W,13,6
+1917-10-27,Colorado College,RMC,C.J. Rothget,H,Utah,RMC,Nelson Norgren,W,21,0
+1917-11-03,Colorado College,RMC,C.J. Rothget,A,Colorado,RMC,Bob Evans,L,17,18
+1917-11-10,Colorado College,RMC,C.J. Rothget,N,Colorado Mines,RMC,Poss Parsons,L,7,16
+1917-11-17,Colorado College,RMC,C.J. Rothget,H,Colorado State,RMC,Harry Hughes,W,7,0
+1917-11-29,Colorado College,RMC,C.J. Rothget,A,Denver,RMC,John Fike,L,7,28
+1917-10-20,Kentucky,Ind,Daddy Boles,H,Vanderbilt,Ind,Dan McGugin,L,0,5
+1917-10-27,Kentucky,Ind,Daddy Boles,A,Sewanee,Ind,,L,0,7
+1917-11-10,Kentucky,Ind,Daddy Boles,A,Mississippi State,Ind,Sid Robinson,L,0,14
+1917-11-17,Kentucky,Ind,Daddy Boles,H,Alabama,Ind,Thomas Kelley,L,0,27
+1917-11-29,Kentucky,Ind,Daddy Boles,H,Florida,Ind,,W,52,0
+1917-09-15,California,PCC,Andy Smith,H,Mare Island Marines,Ind,,L,0,27
+1917-09-29,California,PCC,Andy Smith,H,Mare Island Marines,Ind,,L,0,26
+1917-10-27,California,PCC,Andy Smith,H,Oregon State,PCC,Joseph Pipal,W,14,3
+1917-11-03,California,PCC,Andy Smith,H,Washington,PCC,Claude Hunt,W,27,0
+1917-11-17,California,PCC,Andy Smith,A,Oregon,PCC,Hugo Bezdek,L,0,21
+1917-10-13,Florida,Ind,,H,South Carolina,Ind,Dixon Foster,W,21,13
+1917-10-20,Florida,Ind,,H,Tulane,Ind,Clark Shaughnessy,L,0,52
+1917-11-03,Florida,Ind,,A,Auburn,Ind,Mike Donahue,L,0,68
+1917-11-17,Florida,Ind,,H,Clemson,Ind,Edward Donahue,L,7,55
+1917-11-29,Florida,Ind,,A,Kentucky,Ind,Daddy Boles,L,0,52
+1917-09-28,Presbyterian,Ind,Walter Johnson,A,Clemson,Ind,Edward Donahue,L,0,13
+1917-10-13,Presbyterian,Ind,Walter Johnson,H,Citadel,Ind,Harry O'Brien,W,7,0
+1917-10-20,Presbyterian,Ind,Walter Johnson,H,Wofford,Ind,Leslie Moser,W,7,6
+1917-11-17,Presbyterian,Ind,Walter Johnson,A,Furman,Ind,,W,14,7
+1917-11-24,Presbyterian,Ind,Walter Johnson,A,South Carolina,Ind,Dixon Foster,W,20,14
+1917-11-29,Presbyterian,Ind,Walter Johnson,A,Newberry,Ind,Robert Pfohl,W,20,0
+1917-10-13,Southwestern (TX),Ind,,A,Texas,SWC,William Juneau,L,0,35
+1917-10-20,Southwestern (TX),Ind,,A,Texas A&M,SWC,Dana Bible,L,0,20
+1917-11-03,Southwestern (TX),Ind,,A,Texas Christian,Ind,Milton Daniel,L,6,20
+1917-11-10,Southwestern (TX),Ind,,A,Rice,SWC,Phillip Arbuckle,L,13,34
+1917-11-24,Southwestern (TX),Ind,,A,Baylor,SWC,Bubs Mosley,L,0,26
+1917-11-29,Southwestern (TX),Ind,,A,SMU,Ind,J. Rix,T,0,0
+1917-10-20,Washington State,PCC,William Dietz,H,Oregon,PCC,Hugo Bezdek,W,26,3
+1917-11-03,Washington State,PCC,William Dietz,A,Idaho,Ind,W.C. Bleamaster,W,19,0
+1917-11-10,Washington State,PCC,William Dietz,A,Oregon State,PCC,Joseph Pipal,W,6,0
+1917-11-17,Washington State,PCC,William Dietz,H,Montana,Ind,Jerry Nissen,W,28,0
+1917-11-29,Washington State,PCC,William Dietz,A,Washington,PCC,Claude Hunt,W,14,0
+1917-10-06,Illinois,Western,Robert Zuppke,H,Kansas,MVIAA,Herman Olcott,W,22,0
+1917-10-13,Illinois,Western,Robert Zuppke,H,Oklahoma,SWC,Bennie Owen,W,44,0
+1917-10-20,Illinois,Western,Robert Zuppke,H,Wisconsin,Western,J.R. Richards,W,7,0
+1917-10-27,Illinois,Western,Robert Zuppke,H,Purdue,Western,Cleo O'Donnell,W,27,0
+1917-11-03,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1917-11-17,Illinois,Western,Robert Zuppke,A,Ohio State,Western,John Wilce,L,0,13
+1917-11-24,Illinois,Western,Robert Zuppke,H,Minnesota,Western,Henry Williams,L,6,27
+1917-10-20,Baylor,SWC,Bubs Mosley,H,Oklahoma State,SWC,Earl Pritchard,W,17,0
+1917-11-03,Baylor,SWC,Bubs Mosley,H,Texas,SWC,William Juneau,W,3,0
+1917-11-10,Baylor,SWC,Bubs Mosley,H,Texas A&M,SWC,Dana Bible,L,0,7
+1917-11-17,Baylor,SWC,Bubs Mosley,A,SMU,Ind,J. Rix,T,0,0
+1917-11-24,Baylor,SWC,Bubs Mosley,H,Southwestern (TX),Ind,,W,26,0
+1917-11-29,Baylor,SWC,Bubs Mosley,A,Texas Christian,Ind,Milton Daniel,L,0,34
+1917-10-20,SMU,Ind,J. Rix,A,Texas Christian,Ind,Milton Daniel,L,0,21
+1917-11-17,SMU,Ind,J. Rix,H,Baylor,SWC,Bubs Mosley,T,0,0
+1917-11-29,SMU,Ind,J. Rix,H,Southwestern (TX),Ind,,T,0,0
+1917-10-13,Maryland,Ind,Curley Byrd,A,Navy,Ind,Gilmour Dobie,L,0,62
+1917-10-20,Maryland,Ind,Curley Byrd,A,Virginia Military Institute,Ind,,T,14,14
+1917-10-27,Maryland,Ind,Curley Byrd,H,Wake Forest,Ind,E.T. MacDonnell,W,29,13
+1917-11-03,Maryland,Ind,Curley Byrd,H,North Carolina State,Ind,Harry Hartsell,L,6,10
+1917-11-17,Maryland,Ind,Curley Byrd,A,Penn State,Ind,Dick Harlow,L,0,57
+1917-10-20,Idaho,Ind,W.C. Bleamaster,N,Oregon State,PCC,Joseph Pipal,L,6,26
+1917-10-27,Idaho,Ind,W.C. Bleamaster,A,Oregon,PCC,Hugo Bezdek,L,0,14
+1917-11-03,Idaho,Ind,W.C. Bleamaster,H,Washington State,PCC,William Dietz,L,0,19
+1917-11-24,Idaho,Ind,W.C. Bleamaster,H,Montana,Ind,Jerry Nissen,W,14,3
+1917-10-13,Citadel,Ind,Harry O'Brien,A,Presbyterian,Ind,Walter Johnson,L,0,7
+1917-11-03,Citadel,Ind,Harry O'Brien,H,Newberry,Ind,Robert Pfohl,W,32,7
+1917-11-08,Citadel,Ind,Harry O'Brien,N,Clemson,Ind,Edward Donahue,L,0,20
+1917-11-29,Citadel,Ind,Harry O'Brien,A,South Carolina,Ind,Dixon Foster,L,0,20
+1917-10-13,Oklahoma,SWC,Bennie Owen,A,Illinois,Western,Robert Zuppke,L,0,44
+1917-10-20,Oklahoma,SWC,Bennie Owen,N,Texas,SWC,William Juneau,W,14,0
+1917-11-03,Oklahoma,SWC,Bennie Owen,A,Missouri,MVIAA,Henry Schulte,W,14,7
+1917-11-10,Oklahoma,SWC,Bennie Owen,H,Kansas,MVIAA,Herman Olcott,L,6,13
+1917-11-17,Oklahoma,SWC,Bennie Owen,A,Arkansas,SWC,Norman Paine,T,0,0
+1917-11-24,Oklahoma,SWC,Bennie Owen,H,Tulsa,Ind,Hal Medford,W,80,0
+1917-11-29,Oklahoma,SWC,Bennie Owen,N,Oklahoma State,SWC,Earl Pritchard,L,0,9
+1917-10-20,Virginia Tech,Ind,Charles Bernier,H,Davidson,Ind,William Fetzer,W,13,7
+1917-10-27,Virginia Tech,Ind,Charles Bernier,A,Georgetown,Ind,,L,0,28
+1917-11-03,Virginia Tech,Ind,Charles Bernier,H,Wake Forest,Ind,E.T. MacDonnell,W,50,0
+1917-11-10,Virginia Tech,Ind,Charles Bernier,N,West Virginia,Ind,Mont McIntire,L,3,27
+1917-11-17,Virginia Tech,Ind,Charles Bernier,N,North Carolina State,Ind,Harry Hartsell,T,7,7
+1917-11-29,Virginia Tech,Ind,Charles Bernier,N,Virginia Military Institute,Ind,,W,6,0
+1917-10-27,Arkansas,SWC,Norman Paine,H,Tulsa,Ind,Hal Medford,W,19,7
+1917-11-03,Arkansas,SWC,Norman Paine,N,LSU,Ind,Wayne Sutton,W,14,0
+1917-11-17,Arkansas,SWC,Norman Paine,H,Oklahoma,SWC,Bennie Owen,T,0,0
+1917-11-29,Arkansas,SWC,Norman Paine,A,Texas,SWC,William Juneau,L,0,20
+1917-09-28,Clemson,Ind,Edward Donahue,H,Presbyterian,Ind,Walter Johnson,W,13,0
+1917-10-13,Clemson,Ind,Edward Donahue,A,Furman,Ind,,W,38,0
+1917-10-19,Clemson,Ind,Edward Donahue,H,Auburn,Ind,Mike Donahue,L,0,7
+1917-10-25,Clemson,Ind,Edward Donahue,A,South Carolina,Ind,Dixon Foster,W,21,13
+1917-11-01,Clemson,Ind,Edward Donahue,A,Wofford,Ind,Leslie Moser,W,27,16
+1917-11-08,Clemson,Ind,Edward Donahue,N,Citadel,Ind,Harry O'Brien,W,20,0
+1917-11-17,Clemson,Ind,Edward Donahue,A,Florida,Ind,,W,55,7
+1917-11-29,Clemson,Ind,Edward Donahue,N,Davidson,Ind,William Fetzer,L,9,21
+1917-10-06,South Carolina,Ind,Dixon Foster,H,Newberry,Ind,Robert Pfohl,W,38,0
+1917-10-13,South Carolina,Ind,Dixon Foster,A,Florida,Ind,,L,13,21
+1917-10-25,South Carolina,Ind,Dixon Foster,H,Clemson,Ind,Edward Donahue,L,13,21
+1917-11-08,South Carolina,Ind,Dixon Foster,N,Furman,Ind,,W,26,0
+1917-11-17,South Carolina,Ind,Dixon Foster,A,Wofford,Ind,Leslie Moser,L,0,20
+1917-11-24,South Carolina,Ind,Dixon Foster,H,Presbyterian,Ind,Walter Johnson,L,14,20
+1917-11-29,South Carolina,Ind,Dixon Foster,H,Citadel,Ind,Harry O'Brien,W,20,0
+1917-11-03,Washington,PCC,Claude Hunt,A,California,PCC,Andy Smith,L,0,27
+1917-11-17,Washington,PCC,Claude Hunt,H,Oregon State,PCC,Joseph Pipal,T,0,0
+1917-11-29,Washington,PCC,Claude Hunt,H,Washington State,PCC,William Dietz,L,0,14
+1917-10-20,Utah State,RMC,Jack Watson,A,Montana,Ind,Jerry Nissen,W,21,6
+1917-10-24,Utah State,RMC,Jack Watson,H,Wyoming,RMC,John Corbett,W,57,0
+1917-11-10,Utah State,RMC,Jack Watson,H,Colorado State,RMC,Harry Hughes,W,47,7
+1917-11-17,Utah State,RMC,Jack Watson,H,Colorado,RMC,Bob Evans,W,23,0
+1917-11-29,Utah State,RMC,Jack Watson,A,Utah,RMC,Nelson Norgren,W,14,0
+1917-10-13,Missouri,MVIAA,Henry Schulte,H,Kansas State,MVIAA,Zora Clevenger,L,6,7
+1917-10-20,Missouri,MVIAA,Henry Schulte,A,Iowa State,MVIAA,,L,0,15
+1917-10-27,Missouri,MVIAA,Henry Schulte,H,Drake,MVIAA,Ralph Glaze,W,49,0
+1917-11-03,Missouri,MVIAA,Henry Schulte,H,Oklahoma,SWC,Bennie Owen,L,7,14
+1917-11-10,Missouri,MVIAA,Henry Schulte,A,Nebraska,MVIAA,Edward Stewart,L,0,52
+1917-11-17,Missouri,MVIAA,Henry Schulte,A,Washington (MO),MVIAA,R.B. Rutherford,W,19,3
+1917-11-29,Missouri,MVIAA,Henry Schulte,H,Kansas,MVIAA,Herman Olcott,L,3,27
+1917-10-20,Denver,RMC,John Fike,H,Colorado,RMC,Bob Evans,W,7,0
+1917-10-27,Denver,RMC,John Fike,A,Colorado State,RMC,Harry Hughes,W,10,6
+1917-11-03,Denver,RMC,John Fike,A,Wyoming,RMC,John Corbett,W,18,0
+1917-11-10,Denver,RMC,John Fike,A,Tulsa,Ind,Hal Medford,W,20,19
+1917-11-17,Denver,RMC,John Fike,A,Colorado Mines,RMC,Poss Parsons,W,51,0
+1917-11-29,Denver,RMC,John Fike,H,Colorado College,RMC,C.J. Rothget,W,28,7
+1917-10-20,Washington & Jefferson,Ind,Sol Metzger,H,Penn State,Ind,Dick Harlow,W,7,0
+1917-11-10,Washington & Jefferson,Ind,Sol Metzger,A,Pitt,Ind,Pop Warner,L,10,13
+1917-11-17,Washington & Jefferson,Ind,Sol Metzger,N,West Virginia,Ind,Mont McIntire,L,0,7
+1917-11-24,Washington & Jefferson,Ind,Sol Metzger,H,Notre Dame,Ind,Jesse Harper,L,0,3
+1917-11-29,Washington & Jefferson,Ind,Sol Metzger,A,Washington & Lee,Ind,Bill Raftery,W,12,0
+1917-10-20,Wofford,Ind,Leslie Moser,A,Presbyterian,Ind,Walter Johnson,L,6,7
+1917-11-01,Wofford,Ind,Leslie Moser,H,Clemson,Ind,Edward Donahue,L,16,27
+1917-11-10,Wofford,Ind,Leslie Moser,H,Newberry,Ind,Robert Pfohl,W,45,0
+1917-11-17,Wofford,Ind,Leslie Moser,H,South Carolina,Ind,Dixon Foster,W,20,0
+1917-11-24,Wofford,Ind,Leslie Moser,A,Davidson,Ind,William Fetzer,L,0,62
+1917-11-29,Wofford,Ind,Leslie Moser,A,Furman,Ind,,L,3,18
+1917-10-13,Wisconsin,Western,J.R. Richards,H,Notre Dame,Ind,Jesse Harper,T,0,0
+1917-10-20,Wisconsin,Western,J.R. Richards,A,Illinois,Western,Robert Zuppke,L,0,7
+1917-10-27,Wisconsin,Western,J.R. Richards,H,Iowa,Western,Howard Jones,W,20,0
+1917-11-03,Wisconsin,Western,J.R. Richards,H,Minnesota,Western,Henry Williams,W,10,7
+1917-11-10,Wisconsin,Western,J.R. Richards,H,Ohio State,Western,John Wilce,L,3,16
+1917-11-24,Wisconsin,Western,J.R. Richards,A,Chicago,Western,Amos Alonzo Stagg,W,18,0
+1917-10-13,Bucknell,Ind,George Johnson,A,Colgate,Ind,Harry McDevitt,L,0,24
+1917-10-20,Bucknell,Ind,George Johnson,A,Pennsylvania,Ind,,L,6,20
+1917-10-27,Bucknell,Ind,George Johnson,A,Cornell,Ind,,L,0,20
+1917-11-03,Bucknell,Ind,George Johnson,H,Carlisle,Ind,Deed Harris,W,10,0
+1917-11-10,Bucknell,Ind,George Johnson,A,Syracuse,Ind,,L,0,42
+1917-10-13,Colorado Mines,RMC,Poss Parsons,A,Wyoming,RMC,John Corbett,W,51,3
+1917-10-27,Colorado Mines,RMC,Poss Parsons,H,Colorado,RMC,Bob Evans,L,0,12
+1917-11-10,Colorado Mines,RMC,Poss Parsons,N,Colorado College,RMC,C.J. Rothget,W,16,7
+1917-11-17,Colorado Mines,RMC,Poss Parsons,H,Denver,RMC,John Fike,L,0,51
+1917-11-29,Colorado Mines,RMC,Poss Parsons,H,Colorado State,RMC,Harry Hughes,W,27,6
+1917-10-06,North Carolina State,Ind,Harry Hartsell,H,Davidson,Ind,William Fetzer,W,7,3
+1917-10-18,North Carolina State,Ind,Harry Hartsell,H,Wake Forest,Ind,E.T. MacDonnell,W,17,6
+1917-10-27,North Carolina State,Ind,Harry Hartsell,A,Washington & Lee,Ind,Bill Raftery,L,7,28
+1917-11-03,North Carolina State,Ind,Harry Hartsell,A,Maryland,Ind,Curley Byrd,W,10,6
+1917-11-10,North Carolina State,Ind,Harry Hartsell,A,Virginia Military Institute,Ind,,W,17,0
+1917-11-17,North Carolina State,Ind,Harry Hartsell,N,Virginia Tech,Ind,Charles Bernier,T,7,7
+1917-11-29,North Carolina State,Ind,Harry Hartsell,A,West Virginia,Ind,Mont McIntire,L,0,21
+1917-10-13,Rutgers,Ind,George Sanford,A,Syracuse,Ind,,L,10,14
+1917-10-20,Rutgers,Ind,George Sanford,A,Lafayette,Ind,Punk Berryman,W,33,7
+1917-11-03,Rutgers,Ind,George Sanford,H,West Virginia,Ind,Mont McIntire,T,7,7
+1917-10-27,Michigan,Western,Fielding Yost,H,Nebraska,MVIAA,Edward Stewart,W,20,0
+1917-11-10,Michigan,Western,Fielding Yost,H,Cornell,Ind,,W,42,0
+1917-11-17,Michigan,Western,Fielding Yost,A,Pennsylvania,Ind,,L,0,16
+1917-11-24,Michigan,Western,Fielding Yost,A,Northwestern,Western,Fred Murphy,L,12,21
+1917-10-13,Notre Dame,Ind,Jesse Harper,A,Wisconsin,Western,J.R. Richards,T,0,0
+1917-10-20,Notre Dame,Ind,Jesse Harper,A,Nebraska,MVIAA,Edward Stewart,L,0,7
+1917-11-03,Notre Dame,Ind,Jesse Harper,A,Army,Ind,Geoffrey Keyes,W,7,2
+1917-11-24,Notre Dame,Ind,Jesse Harper,A,Washington & Jefferson,Ind,Sol Metzger,W,3,0
+1917-09-29,Pitt,Ind,Pop Warner,A,West Virginia,Ind,Mont McIntire,W,14,9
+1917-10-13,Pitt,Ind,Pop Warner,H,Lehigh,Ind,Tom Keady,W,41,0
+1917-10-20,Pitt,Ind,Pop Warner,H,Syracuse,Ind,,W,28,0
+1917-10-27,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,,W,14,6
+1917-11-10,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,Sol Metzger,W,13,10
+1917-11-29,Pitt,Ind,Pop Warner,H,Penn State,Ind,Dick Harlow,W,28,6
+1917-10-06,Newberry,Ind,Robert Pfohl,A,South Carolina,Ind,Dixon Foster,L,0,38
+1917-10-20,Newberry,Ind,Robert Pfohl,A,Furman,Ind,,L,7,20
+1917-11-03,Newberry,Ind,Robert Pfohl,A,Citadel,Ind,Harry O'Brien,L,7,32
+1917-11-10,Newberry,Ind,Robert Pfohl,A,Wofford,Ind,Leslie Moser,L,0,45
+1917-11-29,Newberry,Ind,Robert Pfohl,H,Presbyterian,Ind,Walter Johnson,L,0,20
+1917-10-06,Wyoming,RMC,John Corbett,H,Colorado State,RMC,Harry Hughes,W,6,0
+1917-10-13,Wyoming,RMC,John Corbett,H,Colorado Mines,RMC,Poss Parsons,L,3,51
+1917-10-20,Wyoming,RMC,John Corbett,A,Utah,RMC,Nelson Norgren,L,0,14
+1917-10-24,Wyoming,RMC,John Corbett,A,Utah State,RMC,Jack Watson,L,0,57
+1917-11-03,Wyoming,RMC,John Corbett,H,Denver,RMC,John Fike,L,0,18
+1917-10-13,Carlisle,Ind,Deed Harris,A,West Virginia,Ind,Mont McIntire,L,0,21
+1917-10-20,Carlisle,Ind,Deed Harris,A,Navy,Ind,Gilmour Dobie,L,0,62
+1917-11-03,Carlisle,Ind,Deed Harris,A,Bucknell,Ind,George Johnson,L,0,10
+1917-11-10,Carlisle,Ind,Deed Harris,A,Army,Ind,Geoffrey Keyes,L,0,28
+1917-11-17,Carlisle,Ind,Deed Harris,A,Georgia Tech,Ind,John Heisman,L,0,98
+1917-11-24,Carlisle,Ind,Deed Harris,A,Pennsylvania,Ind,,L,0,26
+1917-09-28,Georgia Tech,Ind,John Heisman,H,Furman,Ind,,W,25,0
+1917-09-29,Georgia Tech,Ind,John Heisman,H,Wake Forest,Ind,E.T. MacDonnell,W,33,0
+1917-10-06,Georgia Tech,Ind,John Heisman,H,Pennsylvania,Ind,,W,41,0
+1917-10-13,Georgia Tech,Ind,John Heisman,H,Davidson,Ind,William Fetzer,W,32,10
+1917-10-20,Georgia Tech,Ind,John Heisman,H,Washington & Lee,Ind,Bill Raftery,W,63,0
+1917-11-03,Georgia Tech,Ind,John Heisman,H,Vanderbilt,Ind,Dan McGugin,W,83,0
+1917-11-10,Georgia Tech,Ind,John Heisman,A,Tulane,Ind,Clark Shaughnessy,W,48,0
+1917-11-17,Georgia Tech,Ind,John Heisman,H,Carlisle,Ind,Deed Harris,W,98,0
+1917-11-29,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,W,68,7
+1917-09-29,Wake Forest,Ind,E.T. MacDonnell,A,Georgia Tech,Ind,John Heisman,L,0,33
+1917-10-06,Wake Forest,Ind,E.T. MacDonnell,A,Furman,Ind,,L,6,7
+1917-10-18,Wake Forest,Ind,E.T. MacDonnell,A,North Carolina State,Ind,Harry Hartsell,L,6,17
+1917-10-27,Wake Forest,Ind,E.T. MacDonnell,A,Maryland,Ind,Curley Byrd,L,13,29
+1917-11-03,Wake Forest,Ind,E.T. MacDonnell,A,Virginia Tech,Ind,Charles Bernier,L,0,50
+1917-11-17,Wake Forest,Ind,E.T. MacDonnell,A,Davidson,Ind,William Fetzer,L,7,72
+1917-10-27,Mississippi State,Ind,Sid Robinson,A,Auburn,Ind,Mike Donahue,L,6,13
+1917-11-03,Mississippi State,Ind,Sid Robinson,N,Ole Miss,Ind,,W,41,14
+1917-11-10,Mississippi State,Ind,Sid Robinson,H,Kentucky,Ind,Daddy Boles,W,14,0
+1917-11-17,Mississippi State,Ind,Sid Robinson,A,LSU,Ind,Wayne Sutton,W,9,0
+1917-10-13,Virginia Military Institute,Ind,,A,Army,Ind,Geoffrey Keyes,L,0,34
+1917-10-20,Virginia Military Institute,Ind,,H,Maryland,Ind,Curley Byrd,T,14,14
+1917-10-27,Virginia Military Institute,Ind,,N,Davidson,Ind,William Fetzer,L,7,23
+1917-11-10,Virginia Military Institute,Ind,,H,North Carolina State,Ind,Harry Hartsell,L,0,17
+1917-11-29,Virginia Military Institute,Ind,,N,Virginia Tech,Ind,Charles Bernier,L,0,6
+1917-10-06,Kansas State,MVIAA,Zora Clevenger,H,Oklahoma State,SWC,Earl Pritchard,W,23,0
+1917-10-13,Kansas State,MVIAA,Zora Clevenger,A,Missouri,MVIAA,Henry Schulte,W,7,6
+1917-10-20,Kansas State,MVIAA,Zora Clevenger,H,Washington (MO),MVIAA,R.B. Rutherford,W,61,0
+1917-11-03,Kansas State,MVIAA,Zora Clevenger,H,Kansas,MVIAA,Herman Olcott,L,0,9
+1917-11-10,Kansas State,MVIAA,Zora Clevenger,A,Iowa State,MVIAA,,L,7,10
+1917-10-13,Army,Ind,Geoffrey Keyes,H,Virginia Military Institute,Ind,,W,34,0
+1917-11-03,Army,Ind,Geoffrey Keyes,H,Notre Dame,Ind,Jesse Harper,L,2,7
+1917-11-10,Army,Ind,Geoffrey Keyes,H,Carlisle,Ind,Deed Harris,W,28,0
+1917-10-20,Dartmouth,Ind,,H,West Virginia,Ind,Mont McIntire,W,6,2
+1917-11-03,Dartmouth,Ind,,H,Penn State,Ind,Dick Harlow,W,10,7
+1917-11-10,Dartmouth,Ind,,N,Pennsylvania,Ind,,L,0,7
+1917-11-29,Dartmouth,Ind,,N,Brown,Ind,Edward Robinson,L,0,13
+1917-10-19,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Edward Donahue,W,7,0
+1917-10-27,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,Sid Robinson,W,13,6
+1917-11-03,Auburn,Ind,Mike Donahue,H,Florida,Ind,,W,68,0
+1917-11-10,Auburn,Ind,Mike Donahue,N,Davidson,Ind,William Fetzer,L,7,21
+1917-11-17,Auburn,Ind,Mike Donahue,A,Vanderbilt,Ind,Dan McGugin,W,31,7
+1917-11-24,Auburn,Ind,Mike Donahue,H,Ohio State,Western,John Wilce,T,0,0
+1917-11-29,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,L,7,68
+1917-10-13,Northwestern,Western,Fred Murphy,A,Ohio State,Western,John Wilce,L,0,40
+1917-10-27,Northwestern,Western,Fred Murphy,A,Chicago,Western,Amos Alonzo Stagg,L,0,7
+1917-11-03,Northwestern,Western,Fred Murphy,A,Purdue,Western,Cleo O'Donnell,W,12,6
+1917-11-17,Northwestern,Western,Fred Murphy,H,Iowa,Western,Howard Jones,W,25,14
+1917-11-24,Northwestern,Western,Fred Murphy,H,Michigan,Western,Fielding Yost,W,21,12
+1917-10-06,Kansas,MVIAA,Herman Olcott,A,Illinois,Western,Robert Zuppke,L,0,22
+1917-10-27,Kansas,MVIAA,Herman Olcott,H,Iowa State,MVIAA,,W,7,0
+1917-11-03,Kansas,MVIAA,Herman Olcott,A,Kansas State,MVIAA,Zora Clevenger,W,9,0
+1917-11-10,Kansas,MVIAA,Herman Olcott,A,Oklahoma,SWC,Bennie Owen,W,13,6
+1917-11-17,Kansas,MVIAA,Herman Olcott,H,Nebraska,MVIAA,Edward Stewart,L,3,13
+1917-11-29,Kansas,MVIAA,Herman Olcott,A,Missouri,MVIAA,Henry Schulte,W,27,3
+1917-10-13,LSU,Ind,Wayne Sutton,A,Ole Miss,Ind,,W,52,7
+1917-10-20,LSU,Ind,Wayne Sutton,H,Sewanee,Ind,,L,0,3
+1917-10-27,LSU,Ind,Wayne Sutton,A,Texas A&M,SWC,Dana Bible,L,0,27
+1917-11-03,LSU,Ind,Wayne Sutton,N,Arkansas,SWC,Norman Paine,L,0,14
+1917-11-17,LSU,Ind,Wayne Sutton,H,Mississippi State,Ind,Sid Robinson,L,0,9
+1917-11-29,LSU,Ind,Wayne Sutton,H,Tulane,Ind,Clark Shaughnessy,L,6,28
+1917-10-06,Pennsylvania,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,41
+1917-10-20,Pennsylvania,Ind,,H,Bucknell,Ind,George Johnson,W,20,6
+1917-10-27,Pennsylvania,Ind,,H,Pitt,Ind,Pop Warner,L,6,14
+1917-11-03,Pennsylvania,Ind,,H,Lafayette,Ind,Punk Berryman,W,27,0
+1917-11-10,Pennsylvania,Ind,,N,Dartmouth,Ind,,W,7,0
+1917-11-17,Pennsylvania,Ind,,H,Michigan,Western,Fielding Yost,W,16,0
+1917-11-24,Pennsylvania,Ind,,H,Carlisle,Ind,Deed Harris,W,26,0
+1917-11-29,Pennsylvania,Ind,,H,Cornell,Ind,,W,37,0
+1917-10-27,Tulsa,Ind,Hal Medford,A,Arkansas,SWC,Norman Paine,L,7,19
+1917-11-10,Tulsa,Ind,Hal Medford,H,Denver,RMC,John Fike,L,19,20
+1917-11-17,Tulsa,Ind,Hal Medford,A,Oklahoma State,SWC,Earl Pritchard,L,2,41
+1917-11-24,Tulsa,Ind,Hal Medford,A,Oklahoma,SWC,Bennie Owen,L,0,80
+1917-10-13,Iowa,Western,Howard Jones,A,Nebraska,MVIAA,Edward Stewart,L,0,47
+1917-10-27,Iowa,Western,Howard Jones,A,Wisconsin,Western,J.R. Richards,L,0,20
+1917-11-17,Iowa,Western,Howard Jones,A,Northwestern,Western,Fred Murphy,L,14,25
+1917-11-24,Iowa,Western,Howard Jones,H,Iowa State,MVIAA,,W,6,3
+1917-10-13,Texas,SWC,William Juneau,H,Southwestern (TX),Ind,,W,35,0
+1917-10-20,Texas,SWC,William Juneau,N,Oklahoma,SWC,Bennie Owen,L,0,14
+1917-10-27,Texas,SWC,William Juneau,H,Rice,SWC,Phillip Arbuckle,L,0,13
+1917-11-03,Texas,SWC,William Juneau,A,Baylor,SWC,Bubs Mosley,L,0,3
+1917-11-10,Texas,SWC,William Juneau,H,Oklahoma State,SWC,Earl Pritchard,W,7,3
+1917-11-20,Texas,SWC,William Juneau,A,Texas A&M,SWC,Dana Bible,L,0,7
+1917-11-29,Texas,SWC,William Juneau,H,Arkansas,SWC,Norman Paine,W,20,0
+1917-10-13,Texas Christian,Ind,Milton Daniel,A,Rice,SWC,Phillip Arbuckle,L,0,26
+1917-10-20,Texas Christian,Ind,Milton Daniel,H,SMU,Ind,J. Rix,W,21,0
+1917-11-03,Texas Christian,Ind,Milton Daniel,H,Southwestern (TX),Ind,,W,20,6
+1917-11-29,Texas Christian,Ind,Milton Daniel,H,Baylor,SWC,Bubs Mosley,W,34,0
+1917-09-15,Mare Island Marines,Ind,,A,California,PCC,Andy Smith,W,27,0
+1917-09-29,Mare Island Marines,Ind,,A,California,PCC,Andy Smith,W,26,0
+1917-11-10,Mare Island Marines,Ind,,H,Oregon,PCC,Hugo Bezdek,W,27,0
+1917-10-20,Oregon,PCC,Hugo Bezdek,A,Washington State,PCC,William Dietz,L,3,26
+1917-10-27,Oregon,PCC,Hugo Bezdek,H,Idaho,Ind,W.C. Bleamaster,W,14,0
+1917-11-10,Oregon,PCC,Hugo Bezdek,A,Mare Island Marines,Ind,,L,0,27
+1917-11-17,Oregon,PCC,Hugo Bezdek,H,California,PCC,Andy Smith,W,21,0
+1917-11-29,Oregon,PCC,Hugo Bezdek,N,Oregon State,PCC,Joseph Pipal,L,7,14
+1917-10-27,Brown,Ind,Edward Robinson,H,Colgate,Ind,Harry McDevitt,W,7,6
+1917-11-03,Brown,Ind,Edward Robinson,H,Syracuse,Ind,,L,0,6
+1917-11-29,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,,W,13,0
+1917-10-13,Lehigh,Ind,Tom Keady,A,Pitt,Ind,Pop Warner,L,0,41
+1917-10-20,Lehigh,Ind,Tom Keady,H,Georgetown,Ind,,L,6,17
+1917-11-10,Lehigh,Ind,Tom Keady,A,Penn State,Ind,Dick Harlow,W,9,0
+1917-11-24,Lehigh,Ind,Tom Keady,H,Lafayette,Ind,Punk Berryman,W,78,0
+1917-10-20,Oregon State,PCC,Joseph Pipal,N,Idaho,Ind,W.C. Bleamaster,W,26,6
+1917-10-27,Oregon State,PCC,Joseph Pipal,A,California,PCC,Andy Smith,L,3,14
+1917-11-10,Oregon State,PCC,Joseph Pipal,H,Washington State,PCC,William Dietz,L,0,6
+1917-11-17,Oregon State,PCC,Joseph Pipal,A,Washington,PCC,Claude Hunt,T,0,0
+1917-11-29,Oregon State,PCC,Joseph Pipal,N,Oregon,PCC,Hugo Bezdek,W,14,7
+1917-10-27,Alabama,Ind,Thomas Kelley,H,Ole Miss,Ind,,W,64,0
+1917-11-03,Alabama,Ind,Thomas Kelley,H,Sewanee,Ind,,T,3,3
+1917-11-10,Alabama,Ind,Thomas Kelley,H,Vanderbilt,Ind,Dan McGugin,L,2,7
+1917-11-17,Alabama,Ind,Thomas Kelley,A,Kentucky,Ind,Daddy Boles,W,27,0
+1917-10-20,Purdue,Western,Cleo O'Donnell,A,Chicago,Western,Amos Alonzo Stagg,L,0,27
+1917-10-27,Purdue,Western,Cleo O'Donnell,A,Illinois,Western,Robert Zuppke,L,0,27
+1917-11-03,Purdue,Western,Cleo O'Donnell,H,Northwestern,Western,Fred Murphy,L,6,12
+1917-11-24,Purdue,Western,Cleo O'Donnell,H,Indiana,Western,Jumbo Stiehm,L,0,37
+1917-10-13,Nebraska,MVIAA,Edward Stewart,H,Iowa,Western,Howard Jones,W,47,0
+1917-10-20,Nebraska,MVIAA,Edward Stewart,H,Notre Dame,Ind,Jesse Harper,W,7,0
+1917-10-27,Nebraska,MVIAA,Edward Stewart,A,Michigan,Western,Fielding Yost,L,0,20
+1917-11-10,Nebraska,MVIAA,Edward Stewart,H,Missouri,MVIAA,Henry Schulte,W,52,0
+1917-11-17,Nebraska,MVIAA,Edward Stewart,A,Kansas,MVIAA,Herman Olcott,W,13,3
+1917-11-29,Nebraska,MVIAA,Edward Stewart,H,Syracuse,Ind,,L,9,10
+1917-09-29,West Virginia,Ind,Mont McIntire,H,Pitt,Ind,Pop Warner,L,9,14
+1917-10-06,West Virginia,Ind,Mont McIntire,A,Navy,Ind,Gilmour Dobie,W,7,0
+1917-10-13,West Virginia,Ind,Mont McIntire,H,Carlisle,Ind,Deed Harris,W,21,0
+1917-10-20,West Virginia,Ind,Mont McIntire,A,Dartmouth,Ind,,L,2,6
+1917-11-03,West Virginia,Ind,Mont McIntire,A,Rutgers,Ind,George Sanford,T,7,7
+1917-11-10,West Virginia,Ind,Mont McIntire,N,Virginia Tech,Ind,Charles Bernier,W,27,3
+1917-11-17,West Virginia,Ind,Mont McIntire,N,Washington & Jefferson,Ind,Sol Metzger,W,7,0
+1917-11-29,West Virginia,Ind,Mont McIntire,H,North Carolina State,Ind,Harry Hartsell,W,21,0
+1917-10-06,Oklahoma State,SWC,Earl Pritchard,A,Kansas State,MVIAA,Zora Clevenger,L,0,23
+1917-10-20,Oklahoma State,SWC,Earl Pritchard,A,Baylor,SWC,Bubs Mosley,L,0,17
+1917-11-10,Oklahoma State,SWC,Earl Pritchard,A,Texas,SWC,William Juneau,L,3,7
+1917-11-17,Oklahoma State,SWC,Earl Pritchard,H,Tulsa,Ind,Hal Medford,W,41,2
+1917-11-29,Oklahoma State,SWC,Earl Pritchard,N,Oklahoma,SWC,Bennie Owen,W,9,0
+1917-10-13,Colorado,RMC,Bob Evans,A,Colorado State,RMC,Harry Hughes,W,6,0
+1917-10-20,Colorado,RMC,Bob Evans,A,Denver,RMC,John Fike,L,0,7
+1917-10-27,Colorado,RMC,Bob Evans,A,Colorado Mines,RMC,Poss Parsons,W,12,0
+1917-11-03,Colorado,RMC,Bob Evans,H,Colorado College,RMC,C.J. Rothget,W,18,17
+1917-11-10,Colorado,RMC,Bob Evans,H,Utah,RMC,Nelson Norgren,W,18,9
+1917-11-17,Colorado,RMC,Bob Evans,A,Utah State,RMC,Jack Watson,L,0,23
+1917-10-06,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,John Corbett,L,0,6
+1917-10-13,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Bob Evans,L,0,6
+1917-10-27,Colorado State,RMC,Harry Hughes,H,Denver,RMC,John Fike,L,6,10
+1917-11-03,Colorado State,RMC,Harry Hughes,A,Utah,RMC,Nelson Norgren,L,12,25
+1917-11-10,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,Jack Watson,L,7,47
+1917-11-17,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,C.J. Rothget,L,0,7
+1917-11-29,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,Poss Parsons,L,6,27
+1917-10-13,Rice,SWC,Phillip Arbuckle,H,Texas Christian,Ind,Milton Daniel,W,26,0
+1917-10-27,Rice,SWC,Phillip Arbuckle,A,Texas,SWC,William Juneau,W,13,0
+1917-11-10,Rice,SWC,Phillip Arbuckle,H,Southwestern (TX),Ind,,W,34,13
+1917-11-17,Rice,SWC,Phillip Arbuckle,A,Tulane,Ind,Clark Shaughnessy,W,16,0
+1917-11-29,Rice,SWC,Phillip Arbuckle,H,Texas A&M,SWC,Dana Bible,L,0,10
+1917-10-20,Texas A&M,SWC,Dana Bible,H,Southwestern (TX),Ind,,W,20,0
+1917-10-27,Texas A&M,SWC,Dana Bible,H,LSU,Ind,Wayne Sutton,W,27,0
+1917-11-02,Texas A&M,SWC,Dana Bible,H,Tulane,Ind,Clark Shaughnessy,W,35,0
+1917-11-10,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Bubs Mosley,W,7,0
+1917-11-20,Texas A&M,SWC,Dana Bible,H,Texas,SWC,William Juneau,W,7,0
+1917-11-29,Texas A&M,SWC,Dana Bible,A,Rice,SWC,Phillip Arbuckle,W,10,0
+1917-09-29,Davidson,Ind,William Fetzer,A,Navy,Ind,Gilmour Dobie,L,6,27
+1917-10-06,Davidson,Ind,William Fetzer,A,North Carolina State,Ind,Harry Hartsell,L,3,7
+1917-10-13,Davidson,Ind,William Fetzer,A,Georgia Tech,Ind,John Heisman,L,10,32
+1917-10-20,Davidson,Ind,William Fetzer,A,Virginia Tech,Ind,Charles Bernier,L,7,13
+1917-10-27,Davidson,Ind,William Fetzer,N,Virginia Military Institute,Ind,,W,23,7
+1917-11-03,Davidson,Ind,William Fetzer,A,Furman,Ind,,W,28,7
+1917-11-10,Davidson,Ind,William Fetzer,N,Auburn,Ind,Mike Donahue,W,21,7
+1917-11-17,Davidson,Ind,William Fetzer,H,Wake Forest,Ind,E.T. MacDonnell,W,72,7
+1917-11-24,Davidson,Ind,William Fetzer,H,Wofford,Ind,Leslie Moser,W,62,0
+1917-11-29,Davidson,Ind,William Fetzer,N,Clemson,Ind,Edward Donahue,W,21,9
+1917-10-20,Washington (MO),MVIAA,R.B. Rutherford,A,Kansas State,MVIAA,Zora Clevenger,L,0,61
+1917-11-17,Washington (MO),MVIAA,R.B. Rutherford,H,Missouri,MVIAA,Henry Schulte,L,3,19
+1917-11-24,Washington (MO),MVIAA,R.B. Rutherford,A,Drake,MVIAA,Ralph Glaze,W,20,0
+1917-10-13,Chicago,Western,Amos Alonzo Stagg,H,Vanderbilt,Ind,Dan McGugin,W,48,0
+1917-10-20,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Cleo O'Donnell,W,27,0
+1917-10-27,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Fred Murphy,W,7,0
+1917-11-03,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,T,0,0
+1917-11-17,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,L,0,33
+1917-11-24,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,J.R. Richards,L,0,18
+1917-10-13,Colgate,Ind,Harry McDevitt,H,Bucknell,Ind,George Johnson,W,24,0
+1917-10-20,Colgate,Ind,Harry McDevitt,A,Cornell,Ind,,W,20,0
+1917-10-27,Colgate,Ind,Harry McDevitt,A,Brown,Ind,Edward Robinson,L,6,7
+1917-11-17,Colgate,Ind,Harry McDevitt,A,Syracuse,Ind,,L,7,27
+1917-10-27,Minnesota,Western,Henry Williams,H,Indiana,Western,Jumbo Stiehm,W,33,9
+1917-11-03,Minnesota,Western,Henry Williams,A,Wisconsin,Western,J.R. Richards,L,7,10
+1917-11-17,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,W,33,0
+1917-11-24,Minnesota,Western,Henry Williams,A,Illinois,Western,Robert Zuppke,W,27,6
+1917-10-13,Ole Miss,Ind,,H,LSU,Ind,Wayne Sutton,L,7,52
+1917-10-27,Ole Miss,Ind,,A,Alabama,Ind,Thomas Kelley,L,0,64
+1917-11-03,Ole Miss,Ind,,N,Mississippi State,Ind,Sid Robinson,L,14,41
+1917-11-10,Ole Miss,Ind,,A,Sewanee,Ind,,L,7,69
+1917-10-20,Sewanee,Ind,,A,LSU,Ind,Wayne Sutton,W,3,0
+1917-10-27,Sewanee,Ind,,H,Kentucky,Ind,Daddy Boles,W,7,0
+1917-11-03,Sewanee,Ind,,A,Alabama,Ind,Thomas Kelley,T,3,3
+1917-11-10,Sewanee,Ind,,H,Ole Miss,Ind,,W,69,7
+1917-11-29,Sewanee,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,6,13
+1917-09-29,Navy,Ind,Gilmour Dobie,H,Davidson,Ind,William Fetzer,W,27,6
+1917-10-06,Navy,Ind,Gilmour Dobie,H,West Virginia,Ind,Mont McIntire,L,0,7
+1917-10-13,Navy,Ind,Gilmour Dobie,H,Maryland,Ind,Curley Byrd,W,62,0
+1917-10-20,Navy,Ind,Gilmour Dobie,H,Carlisle,Ind,Deed Harris,W,62,0
+1917-11-10,Navy,Ind,Gilmour Dobie,H,Georgetown,Ind,,W,28,7
+1917-10-20,Lafayette,Ind,Punk Berryman,H,Rutgers,Ind,George Sanford,L,7,33
+1917-11-03,Lafayette,Ind,Punk Berryman,A,Pennsylvania,Ind,,L,0,27
+1917-11-24,Lafayette,Ind,Punk Berryman,A,Lehigh,Ind,Tom Keady,L,0,78
+1917-10-20,Tulane,Ind,Clark Shaughnessy,A,Florida,Ind,,W,52,0
+1917-11-02,Tulane,Ind,Clark Shaughnessy,A,Texas A&M,SWC,Dana Bible,L,0,35
+1917-11-10,Tulane,Ind,Clark Shaughnessy,H,Georgia Tech,Ind,John Heisman,L,0,48
+1917-11-17,Tulane,Ind,Clark Shaughnessy,H,Rice,SWC,Phillip Arbuckle,L,0,16
+1917-11-29,Tulane,Ind,Clark Shaughnessy,A,LSU,Ind,Wayne Sutton,W,28,6
+1917-10-20,Cornell,Ind,,H,Colgate,Ind,Harry McDevitt,L,0,20
+1917-10-27,Cornell,Ind,,H,Bucknell,Ind,George Johnson,W,20,0
+1917-11-10,Cornell,Ind,,A,Michigan,Western,Fielding Yost,L,0,42
+1917-11-29,Cornell,Ind,,A,Pennsylvania,Ind,,L,0,37
+1917-10-13,Ohio State,Western,John Wilce,H,Northwestern,Western,Fred Murphy,W,40,0
+1917-11-03,Ohio State,Western,John Wilce,A,Indiana,Western,Jumbo Stiehm,W,26,3
+1917-11-10,Ohio State,Western,John Wilce,A,Wisconsin,Western,J.R. Richards,W,16,3
+1917-11-17,Ohio State,Western,John Wilce,H,Illinois,Western,Robert Zuppke,W,13,0
+1917-11-24,Ohio State,Western,John Wilce,A,Auburn,Ind,Mike Donahue,T,0,0
+1917-10-27,Drake,MVIAA,Ralph Glaze,A,Missouri,MVIAA,Henry Schulte,L,0,49
+1917-11-24,Drake,MVIAA,Ralph Glaze,H,Washington (MO),MVIAA,R.B. Rutherford,L,0,20
+1917-11-29,Drake,MVIAA,Ralph Glaze,H,Iowa State,MVIAA,,L,0,47

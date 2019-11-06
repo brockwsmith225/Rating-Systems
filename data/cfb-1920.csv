@@ -1,0 +1,559 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1920-10-02,North Carolina,Ind,Myron Fuller,H,Wake Forest,Ind,J.L. White,W,6,0
+1920-10-09,North Carolina,Ind,Myron Fuller,A,Yale,Ind,Tad Jones,L,0,21
+1920-10-16,North Carolina,Ind,Myron Fuller,H,South Carolina,Ind,Sol Metzger,W,7,0
+1920-10-21,North Carolina,Ind,Myron Fuller,A,North Carolina State,Ind,William Fetzer,L,3,13
+1920-10-30,North Carolina,Ind,Myron Fuller,H,Maryland,Ind,Curley Byrd,L,0,13
+1920-11-06,North Carolina,Ind,Myron Fuller,H,Virginia Military Institute,Ind,,L,0,23
+1920-11-13,North Carolina,Ind,Myron Fuller,N,Davidson,Ind,Wooly Grey,L,0,7
+1920-11-25,North Carolina,Ind,Myron Fuller,A,Virginia,Ind,W. Warren,L,0,14
+1920-10-02,Indiana,Western,Jumbo Stiehm,H,Iowa,Western,Howard Jones,L,7,14
+1920-10-09,Indiana,Western,Jumbo Stiehm,H,Mississippi State,Ind,Fred Holtkamp,W,24,0
+1920-10-23,Indiana,Western,Jumbo Stiehm,A,Minnesota,Western,Henry Williams,W,21,7
+1920-10-30,Indiana,Western,Jumbo Stiehm,H,Northwestern,Western,Elmer McDevitt,W,10,7
+1920-11-13,Indiana,Western,Jumbo Stiehm,N,Notre Dame,Ind,Knute Rockne,L,10,13
+1920-11-20,Indiana,Western,Jumbo Stiehm,A,Purdue,Western,Butch Scanlon,W,10,7
+1920-10-09,Iowa State,MVIAA,Norman Paine,A,Grinnell,MVIAA,William Saunders,W,28,0
+1920-10-16,Iowa State,MVIAA,Norman Paine,H,Missouri,MVIAA,James Phelan,L,2,14
+1920-10-23,Iowa State,MVIAA,Norman Paine,A,Kansas,MVIAA,Phog Allen,L,0,7
+1920-10-30,Iowa State,MVIAA,Norman Paine,H,Washington (MO),MVIAA,George Rider,W,24,7
+1920-11-13,Iowa State,MVIAA,Norman Paine,A,Kansas State,MVIAA,Charlie Bachman,W,17,0
+1920-11-20,Iowa State,MVIAA,Norman Paine,H,Iowa,Western,Howard Jones,L,10,14
+1920-10-09,Furman,Ind,,A,Citadel,Ind,Harry O'Brien,W,21,6
+1920-10-13,Furman,Ind,,H,Georgia,Ind,Herman Stegeman,L,0,7
+1920-10-23,Furman,Ind,,H,Wake Forest,Ind,J.L. White,W,17,0
+1920-10-29,Furman,Ind,,A,Newberry,Ind,L.C. Sullivan,W,42,0
+1920-11-06,Furman,Ind,,H,Oglethorpe,Ind,Frank Anderson,W,42,3
+1920-11-13,Furman,Ind,,A,Wofford,Ind,John Gorsuch,W,69,0
+1920-11-20,Furman,Ind,,H,Clemson,Ind,Edward Donahue,W,14,0
+1920-11-25,Furman,Ind,,H,Davidson,Ind,Wooly Grey,W,7,0
+1920-10-16,Utah,RMC,Thomas Fitzpatrick,A,Colorado College,RMC,Poss Parsons,L,2,20
+1920-10-23,Utah,RMC,Thomas Fitzpatrick,A,California,PCC,Andy Smith,L,0,63
+1920-11-06,Utah,RMC,Thomas Fitzpatrick,A,Colorado,RMC,Myron Witham,W,7,0
+1920-11-20,Utah,RMC,Thomas Fitzpatrick,H,Wyoming,RMC,John Corbett,T,0,0
+1920-11-25,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,L,3,9
+1920-10-02,Washington & Lee,Ind,Bill Raftery,H,Davidson,Ind,Wooly Grey,W,6,0
+1920-10-09,Washington & Lee,Ind,Bill Raftery,H,Wake Forest,Ind,J.L. White,W,27,0
+1920-10-16,Washington & Lee,Ind,Bill Raftery,A,Princeton,Ind,,L,0,34
+1920-10-30,Washington & Lee,Ind,Bill Raftery,N,Virginia Tech,Ind,Stanley Sutton,W,13,0
+1920-11-06,Washington & Lee,Ind,Bill Raftery,N,West Virginia,Ind,Mont McIntire,L,10,14
+1920-11-13,Washington & Lee,Ind,Bill Raftery,A,Auburn,Ind,Mike Donahue,L,0,77
+1920-10-16,Syracuse,Ind,Chick Meehan,H,Pitt,Ind,Pop Warner,T,7,7
+1920-10-23,Syracuse,Ind,Chick Meehan,A,Dartmouth,Ind,,W,10,0
+1920-11-06,Syracuse,Ind,Chick Meehan,H,Washington & Jefferson,Ind,D.C. Morrow,W,14,0
+1920-11-13,Syracuse,Ind,Chick Meehan,H,Maryland,Ind,Curley Byrd,L,7,10
+1920-11-20,Syracuse,Ind,Chick Meehan,H,Colgate,Ind,Ellery Huntington,W,14,0
+1920-10-09,Penn State,Ind,Hugo Bezdek,H,Dartmouth,Ind,,W,14,7
+1920-10-16,Penn State,Ind,Hugo Bezdek,H,North Carolina State,Ind,William Fetzer,W,41,0
+1920-10-30,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,John Heisman,W,28,7
+1920-11-06,Penn State,Ind,Hugo Bezdek,H,Nebraska,Ind,Henry Schulte,W,20,0
+1920-11-13,Penn State,Ind,Hugo Bezdek,A,Lehigh,Ind,Tom Keady,T,7,7
+1920-11-25,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Pop Warner,T,0,0
+1920-10-09,Princeton,Ind,,H,Maryland,Ind,Curley Byrd,W,35,0
+1920-10-16,Princeton,Ind,,H,Washington & Lee,Ind,Bill Raftery,W,34,0
+1920-10-23,Princeton,Ind,,H,Navy,Ind,,W,14,0
+1920-10-30,Princeton,Ind,,H,West Virginia,Ind,Mont McIntire,W,10,3
+1920-11-06,Princeton,Ind,,A,Harvard,Ind,Robert Fisher,T,14,14
+1920-11-13,Princeton,Ind,,H,Yale,Ind,Tad Jones,W,20,0
+1920-10-02,Vanderbilt,Ind,Dan McGugin,H,Birmingham-Southern,Ind,Charles Brown,W,54,0
+1920-10-09,Vanderbilt,Ind,Dan McGugin,A,Tennessee,Ind,John Bender,W,20,0
+1920-10-16,Vanderbilt,Ind,Dan McGugin,H,Georgia Tech,Ind,William Alexander,L,0,44
+1920-10-23,Vanderbilt,Ind,Dan McGugin,A,Auburn,Ind,Mike Donahue,L,6,56
+1920-10-30,Vanderbilt,Ind,Dan McGugin,H,Kentucky,Ind,William Juneau,W,20,0
+1920-11-06,Vanderbilt,Ind,Dan McGugin,A,Alabama,Ind,Xen Scott,L,7,14
+1920-11-20,Vanderbilt,Ind,Dan McGugin,H,Virginia,Ind,W. Warren,T,7,7
+1920-11-27,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,,W,21,3
+1920-10-16,Colorado College,RMC,Poss Parsons,H,Utah,RMC,Thomas Fitzpatrick,W,20,2
+1920-10-23,Colorado College,RMC,Poss Parsons,A,Denver,RMC,Fred Murphy,W,21,0
+1920-10-31,Colorado College,RMC,Poss Parsons,A,Colorado,RMC,Myron Witham,T,7,7
+1920-11-07,Colorado College,RMC,Poss Parsons,H,Wyoming,RMC,John Corbett,W,20,17
+1920-11-11,Colorado College,RMC,Poss Parsons,A,Colorado State,RMC,Harry Hughes,L,0,28
+1920-11-25,Colorado College,RMC,Poss Parsons,H,Colorado Mines,RMC,Ralph Glaze,W,13,7
+1920-10-23,Kentucky,Ind,William Juneau,H,Sewanee,Ind,,T,6,6
+1920-10-30,Kentucky,Ind,William Juneau,A,Vanderbilt,Ind,Dan McGugin,L,0,20
+1920-11-13,Kentucky,Ind,William Juneau,H,Centre,Ind,Charley Moran,L,0,49
+1920-11-25,Kentucky,Ind,William Juneau,A,Tennessee,Ind,John Bender,L,7,14
+1920-10-23,California,PCC,Andy Smith,H,Utah,RMC,Thomas Fitzpatrick,W,63,0
+1920-10-30,California,PCC,Andy Smith,A,Oregon State,PCC,R.B. Rutherford,W,17,7
+1920-11-06,California,PCC,Andy Smith,H,Washington State,PCC,Gus Welch,W,49,0
+1920-11-20,California,PCC,Andy Smith,H,Stanford,PCC,Walter Powell,W,38,0
+1921-01-01,California,PCC,Andy Smith,N,Ohio State,Western,John Wilce,W,28,0
+1920-10-09,Florida,Ind,William Kline,H,Newberry,Ind,L.C. Sullivan,W,21,0
+1920-10-29,Florida,Ind,William Kline,N,Mercer,Ind,,W,30,0
+1920-11-06,Florida,Ind,William Kline,H,Tulane,Ind,Clark Shaughnessy,L,0,14
+1920-11-13,Florida,Ind,William Kline,A,Georgia,Ind,Herman Stegeman,L,0,56
+1920-11-25,Florida,Ind,William Kline,A,Oglethorpe,Ind,Frank Anderson,L,0,21
+1920-10-30,Stanford,PCC,Walter Powell,H,Oregon,PCC,Shy Huntington,W,10,0
+1920-11-06,Stanford,PCC,Walter Powell,A,Washington,PCC,Stub Allison,W,3,0
+1920-11-20,Stanford,PCC,Walter Powell,A,California,PCC,Andy Smith,L,0,38
+1920-10-01,Presbyterian,Ind,Walter Johnson,A,Clemson,Ind,Edward Donahue,T,7,7
+1920-10-21,Presbyterian,Ind,Walter Johnson,N,South Carolina,Ind,Sol Metzger,L,0,14
+1920-11-06,Presbyterian,Ind,Walter Johnson,H,Wofford,Ind,John Gorsuch,W,13,0
+1920-11-13,Presbyterian,Ind,Walter Johnson,H,Newberry,Ind,L.C. Sullivan,W,28,0
+1920-11-20,Presbyterian,Ind,Walter Johnson,H,Davidson,Ind,Wooly Grey,W,7,0
+1920-10-02,Southwestern (TX),Ind,,A,Texas,SWC,Berry Whitaker,L,0,27
+1920-10-23,Southwestern (TX),Ind,,A,Rice,SWC,Phillip Arbuckle,L,0,19
+1920-10-30,Southwestern (TX),Ind,,A,Baylor,SWC,Frank Bridges,W,7,0
+1920-11-20,Southwestern (TX),Ind,,A,Texas Christian,Ind,Bill Driver,L,16,21
+1920-11-06,Washington State,PCC,Gus Welch,A,California,PCC,Andy Smith,L,0,49
+1920-11-13,Washington State,PCC,Gus Welch,H,Oregon State,PCC,R.B. Rutherford,W,28,0
+1920-11-25,Washington State,PCC,Gus Welch,A,Nebraska,Ind,Henry Schulte,W,21,20
+1920-10-09,Illinois,Western,Robert Zuppke,H,Drake,MVIAA,Mark Banks,W,41,0
+1920-10-16,Illinois,Western,Robert Zuppke,H,Iowa,Western,Howard Jones,W,20,3
+1920-10-23,Illinois,Western,Robert Zuppke,A,Michigan,Western,Fielding Yost,W,7,6
+1920-10-30,Illinois,Western,Robert Zuppke,H,Minnesota,Western,Henry Williams,W,17,7
+1920-11-06,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,W,3,0
+1920-11-13,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,J.R. Richards,L,9,14
+1920-11-20,Illinois,Western,Robert Zuppke,H,Ohio State,Western,John Wilce,L,0,7
+1920-10-02,Baylor,SWC,Frank Bridges,H,Oklahoma State,SWC,James Pixlee,W,7,0
+1920-10-09,Baylor,SWC,Frank Bridges,A,Rice,SWC,Phillip Arbuckle,L,0,28
+1920-10-30,Baylor,SWC,Frank Bridges,H,Southwestern (TX),Ind,,L,0,7
+1920-11-06,Baylor,SWC,Frank Bridges,H,Texas A&M,SWC,Dana Bible,L,0,24
+1920-11-13,Baylor,SWC,Frank Bridges,H,Texas Christian,Ind,Bill Driver,L,9,21
+1920-11-27,Baylor,SWC,Frank Bridges,A,SMU,SWC,J. Rix,T,0,0
+1920-10-09,SMU,SWC,J. Rix,H,Texas A&M,SWC,Dana Bible,L,0,3
+1920-10-22,SMU,SWC,J. Rix,H,Arkansas,SWC,George McLaren,L,0,6
+1920-11-06,SMU,SWC,J. Rix,H,Rice,SWC,Phillip Arbuckle,L,0,10
+1920-11-13,SMU,SWC,J. Rix,H,Texas,SWC,Berry Whitaker,L,3,21
+1920-11-27,SMU,SWC,J. Rix,H,Baylor,SWC,Frank Bridges,T,0,0
+1920-10-02,Georgia,Ind,Herman Stegeman,H,Citadel,Ind,Harry O'Brien,W,40,0
+1920-10-09,Georgia,Ind,Herman Stegeman,A,South Carolina,Ind,Sol Metzger,W,37,0
+1920-10-13,Georgia,Ind,Herman Stegeman,A,Furman,Ind,,W,7,0
+1920-10-23,Georgia,Ind,Herman Stegeman,A,Oglethorpe,Ind,Frank Anderson,W,27,3
+1920-10-30,Georgia,Ind,Herman Stegeman,N,Auburn,Ind,Mike Donahue,W,7,0
+1920-11-06,Georgia,Ind,Herman Stegeman,A,Virginia,Ind,W. Warren,T,0,0
+1920-11-13,Georgia,Ind,Herman Stegeman,H,Florida,Ind,William Kline,W,56,0
+1920-11-20,Georgia,Ind,Herman Stegeman,H,Alabama,Ind,Xen Scott,W,21,14
+1920-11-25,Georgia,Ind,Herman Stegeman,H,Clemson,Ind,Edward Donahue,W,55,0
+1920-10-02,Maryland,Ind,Curley Byrd,A,Rutgers,Ind,George Sanford,L,0,6
+1920-10-09,Maryland,Ind,Curley Byrd,A,Princeton,Ind,,L,0,35
+1920-10-23,Maryland,Ind,Curley Byrd,A,Virginia Tech,Ind,Stanley Sutton,W,7,0
+1920-10-30,Maryland,Ind,Curley Byrd,A,North Carolina,Ind,Myron Fuller,W,13,0
+1920-11-13,Maryland,Ind,Curley Byrd,A,Syracuse,Ind,Chick Meehan,W,10,7
+1920-10-09,Virginia,Ind,W. Warren,H,Virginia Military Institute,Ind,,L,6,22
+1920-10-23,Virginia,Ind,W. Warren,A,Rutgers,Ind,George Sanford,W,7,0
+1920-10-30,Virginia,Ind,W. Warren,A,Harvard,Ind,Robert Fisher,L,0,24
+1920-11-06,Virginia,Ind,W. Warren,H,Georgia,Ind,Herman Stegeman,T,0,0
+1920-11-20,Virginia,Ind,W. Warren,A,Vanderbilt,Ind,Dan McGugin,T,7,7
+1920-11-25,Virginia,Ind,W. Warren,H,North Carolina,Ind,Myron Fuller,W,14,0
+1920-10-02,Citadel,Ind,Harry O'Brien,A,Georgia,Ind,Herman Stegeman,L,0,40
+1920-10-09,Citadel,Ind,Harry O'Brien,H,Furman,Ind,,L,6,21
+1920-10-16,Citadel,Ind,Harry O'Brien,A,Virginia Military Institute,Ind,,L,0,35
+1920-10-23,Citadel,Ind,Harry O'Brien,H,Wofford,Ind,John Gorsuch,W,19,0
+1920-10-30,Citadel,Ind,Harry O'Brien,N,Davidson,Ind,Wooly Grey,L,13,27
+1920-11-06,Citadel,Ind,Harry O'Brien,H,Newberry,Ind,L.C. Sullivan,W,35,10
+1920-11-11,Citadel,Ind,Harry O'Brien,N,Clemson,Ind,Edward Donahue,L,0,26
+1920-11-25,Citadel,Ind,Harry O'Brien,H,South Carolina,Ind,Sol Metzger,L,6,7
+1920-10-23,Oklahoma,MVIAA,Bennie Owen,H,Washington (MO),MVIAA,George Rider,W,24,14
+1920-10-30,Oklahoma,MVIAA,Bennie Owen,A,Missouri,MVIAA,James Phelan,W,28,7
+1920-11-06,Oklahoma,MVIAA,Bennie Owen,H,Kansas,MVIAA,Phog Allen,W,21,9
+1920-11-13,Oklahoma,MVIAA,Bennie Owen,A,Oklahoma State,SWC,James Pixlee,W,36,0
+1920-11-19,Oklahoma,MVIAA,Bennie Owen,A,Kansas State,MVIAA,Charlie Bachman,T,7,7
+1920-11-25,Oklahoma,MVIAA,Bennie Owen,H,Drake,MVIAA,Mark Banks,W,44,7
+1920-10-16,Virginia Tech,Ind,Stanley Sutton,A,Rutgers,Ind,George Sanford,L,6,19
+1920-10-23,Virginia Tech,Ind,Stanley Sutton,H,Maryland,Ind,Curley Byrd,L,0,7
+1920-10-30,Virginia Tech,Ind,Stanley Sutton,N,Washington & Lee,Ind,Bill Raftery,L,0,13
+1920-11-11,Virginia Tech,Ind,Stanley Sutton,N,North Carolina State,Ind,William Fetzer,L,6,14
+1920-11-20,Virginia Tech,Ind,Stanley Sutton,A,Centre,Ind,Charley Moran,L,0,28
+1920-11-25,Virginia Tech,Ind,Stanley Sutton,N,Virginia Military Institute,Ind,,L,7,24
+1920-10-16,Arkansas,SWC,George McLaren,H,Texas Christian,Ind,Bill Driver,L,2,19
+1920-10-22,Arkansas,SWC,George McLaren,A,SMU,SWC,J. Rix,W,6,0
+1920-11-06,Arkansas,SWC,George McLaren,N,LSU,Ind,,L,0,3
+1920-11-13,Arkansas,SWC,George McLaren,A,Phillips,SWC,John Maulbetsch,W,20,0
+1920-11-25,Arkansas,SWC,George McLaren,A,Rice,SWC,Phillip Arbuckle,T,0,0
+1920-10-01,Clemson,Ind,Edward Donahue,H,Presbyterian,Ind,Walter Johnson,T,7,7
+1920-10-02,Clemson,Ind,Edward Donahue,H,Newberry,Ind,L.C. Sullivan,W,26,6
+1920-10-09,Clemson,Ind,Edward Donahue,H,Wofford,Ind,John Gorsuch,W,13,7
+1920-10-15,Clemson,Ind,Edward Donahue,H,Auburn,Ind,Mike Donahue,L,0,21
+1920-10-23,Clemson,Ind,Edward Donahue,A,Tennessee,Ind,John Bender,L,0,26
+1920-10-28,Clemson,Ind,Edward Donahue,A,South Carolina,Ind,Sol Metzger,L,0,3
+1920-11-06,Clemson,Ind,Edward Donahue,A,Georgia Tech,Ind,William Alexander,L,0,7
+1920-11-11,Clemson,Ind,Edward Donahue,N,Citadel,Ind,Harry O'Brien,W,26,0
+1920-11-20,Clemson,Ind,Edward Donahue,A,Furman,Ind,,L,0,14
+1920-11-25,Clemson,Ind,Edward Donahue,A,Georgia,Ind,Herman Stegeman,L,0,55
+1920-10-02,South Carolina,Ind,Sol Metzger,H,Wofford,Ind,John Gorsuch,W,10,0
+1920-10-09,South Carolina,Ind,Sol Metzger,H,Georgia,Ind,Herman Stegeman,L,0,37
+1920-10-16,South Carolina,Ind,Sol Metzger,A,North Carolina,Ind,Myron Fuller,L,0,7
+1920-10-21,South Carolina,Ind,Sol Metzger,N,Presbyterian,Ind,Walter Johnson,W,14,0
+1920-10-28,South Carolina,Ind,Sol Metzger,H,Clemson,Ind,Edward Donahue,W,3,0
+1920-11-06,South Carolina,Ind,Sol Metzger,A,Davidson,Ind,Wooly Grey,L,0,27
+1920-11-13,South Carolina,Ind,Sol Metzger,A,Navy,Ind,,L,0,63
+1920-11-20,South Carolina,Ind,Sol Metzger,H,Newberry,Ind,L.C. Sullivan,W,48,0
+1920-11-25,South Carolina,Ind,Sol Metzger,A,Citadel,Ind,Harry O'Brien,W,7,6
+1920-10-23,Washington,PCC,Stub Allison,H,Oregon State,PCC,R.B. Rutherford,L,0,3
+1920-11-06,Washington,PCC,Stub Allison,H,Stanford,PCC,Walter Powell,L,0,3
+1920-11-13,Washington,PCC,Stub Allison,A,Oregon,PCC,Shy Huntington,L,0,17
+1920-11-27,Washington,PCC,Stub Allison,H,Dartmouth,Ind,,L,7,28
+1920-10-16,Utah State,RMC,,H,Colorado Mines,RMC,Ralph Glaze,W,27,3
+1920-10-30,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,21
+1920-11-25,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,W,9,3
+1920-10-16,Missouri,MVIAA,James Phelan,A,Iowa State,MVIAA,Norman Paine,W,14,2
+1920-10-23,Missouri,MVIAA,James Phelan,A,Drake,MVIAA,Mark Banks,W,10,7
+1920-10-30,Missouri,MVIAA,James Phelan,H,Oklahoma,MVIAA,Bennie Owen,L,7,28
+1920-11-06,Missouri,MVIAA,James Phelan,H,Kansas State,MVIAA,Charlie Bachman,W,10,7
+1920-11-13,Missouri,MVIAA,James Phelan,H,Washington (MO),MVIAA,George Rider,W,14,10
+1920-11-25,Missouri,MVIAA,James Phelan,H,Kansas,MVIAA,Phog Allen,W,16,7
+1920-10-09,Denver,RMC,Fred Murphy,H,Wyoming,RMC,John Corbett,L,7,10
+1920-10-16,Denver,RMC,Fred Murphy,H,Colorado,RMC,Myron Witham,L,0,31
+1920-10-23,Denver,RMC,Fred Murphy,H,Colorado College,RMC,Poss Parsons,L,0,21
+1920-11-06,Denver,RMC,Fred Murphy,A,Colorado Mines,RMC,Ralph Glaze,W,16,6
+1920-11-13,Denver,RMC,Fred Murphy,A,Wyoming,RMC,John Corbett,W,3,0
+1920-11-27,Denver,RMC,Fred Murphy,H,Colorado State,RMC,Harry Hughes,L,0,14
+1920-10-23,Washington & Jefferson,Ind,D.C. Morrow,H,Lehigh,Ind,Tom Keady,W,7,0
+1920-11-06,Washington & Jefferson,Ind,D.C. Morrow,A,Syracuse,Ind,Chick Meehan,L,0,14
+1920-11-13,Washington & Jefferson,Ind,D.C. Morrow,A,Pitt,Ind,Pop Warner,L,0,7
+1920-11-25,Washington & Jefferson,Ind,D.C. Morrow,H,West Virginia,Ind,Mont McIntire,W,28,0
+1920-10-02,Wofford,Ind,John Gorsuch,A,South Carolina,Ind,Sol Metzger,L,0,10
+1920-10-09,Wofford,Ind,John Gorsuch,A,Clemson,Ind,Edward Donahue,L,7,13
+1920-10-15,Wofford,Ind,John Gorsuch,A,Newberry,Ind,L.C. Sullivan,L,7,9
+1920-10-23,Wofford,Ind,John Gorsuch,A,Citadel,Ind,Harry O'Brien,L,0,19
+1920-10-29,Wofford,Ind,John Gorsuch,A,Oglethorpe,Ind,Frank Anderson,L,0,14
+1920-11-06,Wofford,Ind,John Gorsuch,A,Presbyterian,Ind,Walter Johnson,L,0,13
+1920-11-13,Wofford,Ind,John Gorsuch,H,Furman,Ind,,L,0,69
+1920-11-20,Wofford,Ind,John Gorsuch,A,North Carolina State,Ind,William Fetzer,L,7,90
+1920-10-02,Mississippi College,Ind,Stanley Robinson,A,Mississippi State,Ind,Fred Holtkamp,L,0,27
+1920-10-09,Mississippi College,Ind,Stanley Robinson,A,Tulane,Ind,Clark Shaughnessy,L,0,29
+1920-10-16,Mississippi College,Ind,Stanley Robinson,A,Alabama,Ind,Xen Scott,L,0,57
+1920-10-30,Mississippi College,Ind,Stanley Robinson,A,LSU,Ind,,L,9,41
+1920-11-06,Mississippi College,Ind,Stanley Robinson,H,Samford,Ind,Robert Marshall,W,21,7
+1920-10-16,Wisconsin,Western,J.R. Richards,H,Northwestern,Western,Elmer McDevitt,W,27,7
+1920-10-23,Wisconsin,Western,J.R. Richards,A,Ohio State,Western,John Wilce,L,7,13
+1920-11-06,Wisconsin,Western,J.R. Richards,A,Minnesota,Western,Henry Williams,W,3,0
+1920-11-13,Wisconsin,Western,J.R. Richards,H,Illinois,Western,Robert Zuppke,W,14,9
+1920-11-20,Wisconsin,Western,J.R. Richards,A,Chicago,Western,Amos Alonzo Stagg,W,3,0
+1920-10-16,Colorado Mines,RMC,Ralph Glaze,A,Utah State,RMC,,L,3,27
+1920-10-23,Colorado Mines,RMC,Ralph Glaze,A,Colorado State,RMC,Harry Hughes,L,0,27
+1920-10-30,Colorado Mines,RMC,Ralph Glaze,H,Wyoming,RMC,John Corbett,L,7,14
+1920-11-06,Colorado Mines,RMC,Ralph Glaze,H,Denver,RMC,Fred Murphy,L,6,16
+1920-11-13,Colorado Mines,RMC,Ralph Glaze,H,Colorado,RMC,Myron Witham,L,0,7
+1920-11-25,Colorado Mines,RMC,Ralph Glaze,A,Colorado College,RMC,Poss Parsons,L,7,13
+1920-09-25,North Carolina State,Ind,William Fetzer,H,Davidson,Ind,Wooly Grey,W,23,0
+1920-10-02,North Carolina State,Ind,William Fetzer,A,Navy,Ind,,W,14,7
+1920-10-16,North Carolina State,Ind,William Fetzer,A,Penn State,Ind,Hugo Bezdek,L,0,41
+1920-10-21,North Carolina State,Ind,William Fetzer,H,North Carolina,Ind,Myron Fuller,W,13,3
+1920-10-30,North Carolina State,Ind,William Fetzer,A,Virginia Military Institute,Ind,,L,0,14
+1920-11-11,North Carolina State,Ind,William Fetzer,N,Virginia Tech,Ind,Stanley Sutton,W,14,6
+1920-11-20,North Carolina State,Ind,William Fetzer,H,Wofford,Ind,John Gorsuch,W,90,7
+1920-11-25,North Carolina State,Ind,William Fetzer,A,Wake Forest,Ind,J.L. White,W,49,7
+1920-10-02,Rutgers,Ind,George Sanford,H,Maryland,Ind,Curley Byrd,W,6,0
+1920-10-09,Rutgers,Ind,George Sanford,A,Lehigh,Ind,Tom Keady,L,0,9
+1920-10-16,Rutgers,Ind,George Sanford,H,Virginia Tech,Ind,Stanley Sutton,W,19,6
+1920-10-23,Rutgers,Ind,George Sanford,H,Virginia,Ind,W. Warren,L,0,7
+1920-10-30,Rutgers,Ind,George Sanford,A,Cornell,Ind,Gilmour Dobie,L,0,24
+1920-11-02,Rutgers,Ind,George Sanford,H,Nebraska,Ind,Henry Schulte,L,0,28
+1920-11-13,Rutgers,Ind,George Sanford,A,West Virginia,Ind,Mont McIntire,L,0,17
+1920-10-23,Michigan,Western,Fielding Yost,H,Illinois,Western,Robert Zuppke,L,6,7
+1920-10-30,Michigan,Western,Fielding Yost,H,Tulane,Ind,Clark Shaughnessy,W,21,0
+1920-11-06,Michigan,Western,Fielding Yost,A,Ohio State,Western,John Wilce,L,7,14
+1920-11-13,Michigan,Western,Fielding Yost,H,Chicago,Western,Amos Alonzo Stagg,W,14,0
+1920-11-20,Michigan,Western,Fielding Yost,A,Minnesota,Western,Henry Williams,W,3,0
+1920-10-16,Notre Dame,Ind,Knute Rockne,A,Nebraska,Ind,Henry Schulte,W,16,7
+1920-11-06,Notre Dame,Ind,Knute Rockne,H,Purdue,Western,Butch Scanlon,W,28,0
+1920-11-13,Notre Dame,Ind,Knute Rockne,N,Indiana,Western,Jumbo Stiehm,W,13,10
+1920-11-20,Notre Dame,Ind,Knute Rockne,A,Northwestern,Western,Elmer McDevitt,W,33,7
+1920-10-09,Pitt,Ind,Pop Warner,H,West Virginia,Ind,Mont McIntire,W,34,13
+1920-10-16,Pitt,Ind,Pop Warner,A,Syracuse,Ind,Chick Meehan,T,7,7
+1920-10-23,Pitt,Ind,Pop Warner,H,Georgia Tech,Ind,William Alexander,W,10,3
+1920-10-30,Pitt,Ind,Pop Warner,H,Lafayette,Ind,Jock Sutherland,W,14,0
+1920-11-06,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,John Heisman,W,27,21
+1920-11-13,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,D.C. Morrow,W,7,0
+1920-11-25,Pitt,Ind,Pop Warner,H,Penn State,Ind,Hugo Bezdek,T,0,0
+1920-10-16,Mercer,Ind,,A,Samford,Ind,Robert Marshall,L,13,33
+1920-10-23,Mercer,Ind,,A,Chattanooga,Ind,Silas Williams,L,0,20
+1920-10-29,Mercer,Ind,,N,Florida,Ind,William Kline,L,0,30
+1920-11-13,Mercer,Ind,,H,Oglethorpe,Ind,Frank Anderson,L,0,42
+1920-10-02,Newberry,Ind,L.C. Sullivan,A,Clemson,Ind,Edward Donahue,L,6,26
+1920-10-09,Newberry,Ind,L.C. Sullivan,A,Florida,Ind,William Kline,L,0,21
+1920-10-15,Newberry,Ind,L.C. Sullivan,H,Wofford,Ind,John Gorsuch,W,9,7
+1920-10-29,Newberry,Ind,L.C. Sullivan,H,Furman,Ind,,L,0,42
+1920-11-06,Newberry,Ind,L.C. Sullivan,A,Citadel,Ind,Harry O'Brien,L,10,35
+1920-11-13,Newberry,Ind,L.C. Sullivan,A,Presbyterian,Ind,Walter Johnson,L,0,28
+1920-11-20,Newberry,Ind,L.C. Sullivan,A,South Carolina,Ind,Sol Metzger,L,0,48
+1920-10-02,Wyoming,RMC,John Corbett,H,Colorado State,RMC,Harry Hughes,L,0,13
+1920-10-09,Wyoming,RMC,John Corbett,A,Denver,RMC,Fred Murphy,W,10,7
+1920-10-16,Wyoming,RMC,John Corbett,A,Colorado State,RMC,Harry Hughes,L,0,42
+1920-10-23,Wyoming,RMC,John Corbett,H,Colorado,RMC,Myron Witham,L,0,7
+1920-10-30,Wyoming,RMC,John Corbett,A,Colorado Mines,RMC,Ralph Glaze,W,14,7
+1920-11-07,Wyoming,RMC,John Corbett,A,Colorado College,RMC,Poss Parsons,L,17,20
+1920-11-13,Wyoming,RMC,John Corbett,H,Denver,RMC,Fred Murphy,L,0,3
+1920-11-20,Wyoming,RMC,John Corbett,A,Utah,RMC,Thomas Fitzpatrick,T,0,0
+1920-10-09,Yale,Ind,Tad Jones,H,North Carolina,Ind,Myron Fuller,W,21,0
+1920-10-23,Yale,Ind,Tad Jones,H,West Virginia,Ind,Mont McIntire,W,24,0
+1920-10-30,Yale,Ind,Tad Jones,H,Colgate,Ind,Ellery Huntington,W,21,7
+1920-11-06,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,W,14,10
+1920-11-13,Yale,Ind,Tad Jones,A,Princeton,Ind,,L,0,20
+1920-11-20,Yale,Ind,Tad Jones,H,Harvard,Ind,Robert Fisher,L,0,9
+1920-10-09,Grinnell,MVIAA,William Saunders,H,Iowa State,MVIAA,Norman Paine,L,0,28
+1920-10-16,Grinnell,MVIAA,William Saunders,A,Washington (MO),MVIAA,George Rider,L,14,23
+1920-10-30,Grinnell,MVIAA,William Saunders,H,Drake,MVIAA,Mark Banks,T,6,6
+1920-09-25,Georgia Tech,Ind,William Alexander,H,Wake Forest,Ind,J.L. White,W,44,0
+1920-10-02,Georgia Tech,Ind,William Alexander,H,Oglethorpe,Ind,Frank Anderson,W,55,0
+1920-10-09,Georgia Tech,Ind,William Alexander,H,Davidson,Ind,Wooly Grey,W,66,0
+1920-10-16,Georgia Tech,Ind,William Alexander,A,Vanderbilt,Ind,Dan McGugin,W,44,0
+1920-10-23,Georgia Tech,Ind,William Alexander,A,Pitt,Ind,Pop Warner,L,3,10
+1920-10-30,Georgia Tech,Ind,William Alexander,H,Centre,Ind,Charley Moran,W,24,0
+1920-11-06,Georgia Tech,Ind,William Alexander,H,Clemson,Ind,Edward Donahue,W,7,0
+1920-11-25,Georgia Tech,Ind,William Alexander,H,Auburn,Ind,Mike Donahue,W,34,0
+1920-09-25,Wake Forest,Ind,J.L. White,A,Georgia Tech,Ind,William Alexander,L,0,44
+1920-10-02,Wake Forest,Ind,J.L. White,A,North Carolina,Ind,Myron Fuller,L,0,6
+1920-10-09,Wake Forest,Ind,J.L. White,A,Washington & Lee,Ind,Bill Raftery,L,0,27
+1920-10-16,Wake Forest,Ind,J.L. White,N,Davidson,Ind,Wooly Grey,L,7,27
+1920-10-23,Wake Forest,Ind,J.L. White,A,Furman,Ind,,L,0,17
+1920-11-25,Wake Forest,Ind,J.L. White,H,North Carolina State,Ind,William Fetzer,L,7,49
+1920-10-02,Mississippi State,Ind,Fred Holtkamp,H,Mississippi College,Ind,Stanley Robinson,W,27,0
+1920-10-09,Mississippi State,Ind,Fred Holtkamp,A,Indiana,Western,Jumbo Stiehm,L,0,24
+1920-10-23,Mississippi State,Ind,Fred Holtkamp,A,LSU,Ind,,W,12,7
+1920-10-30,Mississippi State,Ind,Fred Holtkamp,H,Tennessee,Ind,John Bender,W,13,7
+1920-11-13,Mississippi State,Ind,Fred Holtkamp,A,Tulane,Ind,Clark Shaughnessy,L,0,6
+1920-11-25,Mississippi State,Ind,Fred Holtkamp,A,Alabama,Ind,Xen Scott,L,7,24
+1920-10-09,Virginia Military Institute,Ind,,A,Virginia,Ind,W. Warren,W,22,6
+1920-10-16,Virginia Military Institute,Ind,,H,Citadel,Ind,Harry O'Brien,W,35,0
+1920-10-23,Virginia Military Institute,Ind,,A,Pennsylvania,Ind,John Heisman,W,27,7
+1920-10-30,Virginia Military Institute,Ind,,H,North Carolina State,Ind,William Fetzer,W,14,0
+1920-11-06,Virginia Military Institute,Ind,,A,North Carolina,Ind,Myron Fuller,W,23,0
+1920-11-25,Virginia Military Institute,Ind,,N,Virginia Tech,Ind,Stanley Sutton,W,24,7
+1920-10-30,Kansas State,MVIAA,Charlie Bachman,H,Kansas,MVIAA,Phog Allen,L,0,14
+1920-11-06,Kansas State,MVIAA,Charlie Bachman,A,Missouri,MVIAA,James Phelan,L,7,10
+1920-11-13,Kansas State,MVIAA,Charlie Bachman,H,Iowa State,MVIAA,Norman Paine,L,0,17
+1920-11-19,Kansas State,MVIAA,Charlie Bachman,H,Oklahoma,MVIAA,Bennie Owen,T,7,7
+1920-10-09,Chattanooga,Ind,Silas Williams,H,Oglethorpe,Ind,Frank Anderson,T,14,14
+1920-10-16,Chattanooga,Ind,Silas Williams,H,Tennessee,Ind,John Bender,L,0,35
+1920-10-23,Chattanooga,Ind,Silas Williams,H,Mercer,Ind,,W,20,0
+1920-11-06,Chattanooga,Ind,Silas Williams,A,Sewanee,Ind,,L,0,33
+1920-11-12,Chattanooga,Ind,Silas Williams,A,Birmingham-Southern,Ind,Charles Brown,L,0,27
+1920-10-02,Samford,Ind,Robert Marshall,A,Auburn,Ind,Mike Donahue,L,0,88
+1920-10-09,Samford,Ind,Robert Marshall,A,Centre,Ind,Charley Moran,L,0,120
+1920-10-16,Samford,Ind,Robert Marshall,H,Mercer,Ind,,W,33,13
+1920-10-23,Samford,Ind,Robert Marshall,A,Alabama,Ind,Xen Scott,L,0,33
+1920-11-06,Samford,Ind,Robert Marshall,A,Mississippi College,Ind,Stanley Robinson,L,7,21
+1920-11-20,Samford,Ind,Robert Marshall,H,Birmingham-Southern,Ind,Charles Brown,L,7,14
+1920-10-09,Dartmouth,Ind,,A,Penn State,Ind,Hugo Bezdek,L,7,14
+1920-10-23,Dartmouth,Ind,,H,Syracuse,Ind,Chick Meehan,L,0,10
+1920-11-06,Dartmouth,Ind,,N,Cornell,Ind,Gilmour Dobie,W,14,3
+1920-11-13,Dartmouth,Ind,,A,Pennsylvania,Ind,John Heisman,W,44,7
+1920-11-20,Dartmouth,Ind,,N,Brown,Ind,Edward Robinson,W,14,6
+1920-11-27,Dartmouth,Ind,,A,Washington,PCC,Stub Allison,W,28,7
+1920-10-02,Auburn,Ind,Mike Donahue,H,Samford,Ind,Robert Marshall,W,88,0
+1920-10-15,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Edward Donahue,W,21,0
+1920-10-23,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Dan McGugin,W,56,6
+1920-10-30,Auburn,Ind,Mike Donahue,N,Georgia,Ind,Herman Stegeman,L,0,7
+1920-11-06,Auburn,Ind,Mike Donahue,N,Birmingham-Southern,Ind,Charles Brown,W,49,0
+1920-11-13,Auburn,Ind,Mike Donahue,H,Washington & Lee,Ind,Bill Raftery,W,77,0
+1920-11-25,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,William Alexander,L,0,34
+1920-10-09,Northwestern,Western,Elmer McDevitt,H,Minnesota,Western,Henry Williams,W,17,0
+1920-10-16,Northwestern,Western,Elmer McDevitt,A,Wisconsin,Western,J.R. Richards,L,7,27
+1920-10-30,Northwestern,Western,Elmer McDevitt,A,Indiana,Western,Jumbo Stiehm,L,7,10
+1920-11-06,Northwestern,Western,Elmer McDevitt,A,Iowa,Western,Howard Jones,L,0,20
+1920-11-13,Northwestern,Western,Elmer McDevitt,H,Purdue,Western,Butch Scanlon,W,14,0
+1920-11-20,Northwestern,Western,Elmer McDevitt,H,Notre Dame,Ind,Knute Rockne,L,7,33
+1920-10-16,Kansas,MVIAA,Phog Allen,H,Drake,MVIAA,Mark Banks,W,7,3
+1920-10-23,Kansas,MVIAA,Phog Allen,H,Iowa State,MVIAA,Norman Paine,W,7,0
+1920-10-30,Kansas,MVIAA,Phog Allen,A,Kansas State,MVIAA,Charlie Bachman,W,14,0
+1920-11-06,Kansas,MVIAA,Phog Allen,A,Oklahoma,MVIAA,Bennie Owen,L,9,21
+1920-11-13,Kansas,MVIAA,Phog Allen,H,Nebraska,Ind,Henry Schulte,T,20,20
+1920-11-25,Kansas,MVIAA,Phog Allen,A,Missouri,MVIAA,James Phelan,L,7,16
+1920-10-16,LSU,Ind,,A,Texas A&M,SWC,Dana Bible,T,0,0
+1920-10-23,LSU,Ind,,H,Mississippi State,Ind,Fred Holtkamp,L,7,12
+1920-10-30,LSU,Ind,,H,Mississippi College,Ind,Stanley Robinson,W,41,9
+1920-11-06,LSU,Ind,,N,Arkansas,SWC,George McLaren,W,3,0
+1920-11-13,LSU,Ind,,A,Alabama,Ind,Xen Scott,L,0,21
+1920-11-25,LSU,Ind,,H,Tulane,Ind,Clark Shaughnessy,L,0,21
+1920-10-16,Pennsylvania,Ind,John Heisman,H,Lafayette,Ind,Jock Sutherland,W,7,0
+1920-10-23,Pennsylvania,Ind,John Heisman,H,Virginia Military Institute,Ind,,L,7,27
+1920-10-30,Pennsylvania,Ind,John Heisman,H,Penn State,Ind,Hugo Bezdek,L,7,28
+1920-11-06,Pennsylvania,Ind,John Heisman,H,Pitt,Ind,Pop Warner,L,21,27
+1920-11-13,Pennsylvania,Ind,John Heisman,H,Dartmouth,Ind,,L,7,44
+1920-11-25,Pennsylvania,Ind,John Heisman,H,Cornell,Ind,Gilmour Dobie,W,28,0
+1920-10-02,Iowa,Western,Howard Jones,A,Indiana,Western,Jumbo Stiehm,W,14,7
+1920-10-16,Iowa,Western,Howard Jones,A,Illinois,Western,Robert Zuppke,L,3,20
+1920-10-23,Iowa,Western,Howard Jones,A,Chicago,Western,Amos Alonzo Stagg,L,0,10
+1920-11-06,Iowa,Western,Howard Jones,H,Northwestern,Western,Elmer McDevitt,W,20,0
+1920-11-13,Iowa,Western,Howard Jones,H,Minnesota,Western,Henry Williams,W,28,7
+1920-11-20,Iowa,Western,Howard Jones,A,Iowa State,MVIAA,Norman Paine,W,14,10
+1920-10-02,Texas,SWC,Berry Whitaker,H,Southwestern (TX),Ind,,W,27,0
+1920-10-16,Texas,SWC,Berry Whitaker,H,Oklahoma State,SWC,James Pixlee,W,21,0
+1920-10-30,Texas,SWC,Berry Whitaker,A,Rice,SWC,Phillip Arbuckle,W,21,0
+1920-11-05,Texas,SWC,Berry Whitaker,H,Phillips,SWC,John Maulbetsch,W,27,0
+1920-11-13,Texas,SWC,Berry Whitaker,A,SMU,SWC,J. Rix,W,21,3
+1920-11-25,Texas,SWC,Berry Whitaker,H,Texas A&M,SWC,Dana Bible,W,7,3
+1920-10-16,Texas Christian,Ind,Bill Driver,A,Arkansas,SWC,George McLaren,W,19,2
+1920-10-30,Texas Christian,Ind,Bill Driver,H,Phillips,SWC,John Maulbetsch,W,3,0
+1920-11-13,Texas Christian,Ind,Bill Driver,A,Baylor,SWC,Frank Bridges,W,21,9
+1920-11-20,Texas Christian,Ind,Bill Driver,H,Southwestern (TX),Ind,,W,21,16
+1921-01-01,Texas Christian,Ind,Bill Driver,H,Centre,Ind,Charley Moran,L,7,63
+1920-10-30,Oregon,PCC,Shy Huntington,A,Stanford,PCC,Walter Powell,L,0,10
+1920-11-13,Oregon,PCC,Shy Huntington,H,Washington,PCC,Stub Allison,W,17,0
+1920-11-20,Oregon,PCC,Shy Huntington,A,Oregon State,PCC,R.B. Rutherford,T,0,0
+1920-10-16,Brown,Ind,Edward Robinson,H,Colgate,Ind,Ellery Huntington,W,14,0
+1920-11-06,Brown,Ind,Edward Robinson,A,Yale,Ind,Tad Jones,L,10,14
+1920-11-13,Brown,Ind,Edward Robinson,A,Harvard,Ind,Robert Fisher,L,0,27
+1920-11-20,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,,L,6,14
+1920-10-09,Tennessee,Ind,John Bender,H,Vanderbilt,Ind,Dan McGugin,L,0,20
+1920-10-16,Tennessee,Ind,John Bender,A,Chattanooga,Ind,Silas Williams,W,35,0
+1920-10-23,Tennessee,Ind,John Bender,H,Clemson,Ind,Edward Donahue,W,26,0
+1920-10-30,Tennessee,Ind,John Bender,A,Mississippi State,Ind,Fred Holtkamp,L,7,13
+1920-11-13,Tennessee,Ind,John Bender,A,Sewanee,Ind,,W,20,0
+1920-11-25,Tennessee,Ind,John Bender,H,Kentucky,Ind,William Juneau,W,14,7
+1920-10-02,Lehigh,Ind,Tom Keady,A,West Virginia,Ind,Mont McIntire,T,7,7
+1920-10-09,Lehigh,Ind,Tom Keady,H,Rutgers,Ind,George Sanford,W,9,0
+1920-10-23,Lehigh,Ind,Tom Keady,A,Washington & Jefferson,Ind,D.C. Morrow,L,0,7
+1920-11-13,Lehigh,Ind,Tom Keady,H,Penn State,Ind,Hugo Bezdek,T,7,7
+1920-11-20,Lehigh,Ind,Tom Keady,A,Lafayette,Ind,Jock Sutherland,L,7,27
+1920-10-23,Oregon State,PCC,R.B. Rutherford,A,Washington,PCC,Stub Allison,W,3,0
+1920-10-30,Oregon State,PCC,R.B. Rutherford,H,California,PCC,Andy Smith,L,7,17
+1920-11-13,Oregon State,PCC,R.B. Rutherford,A,Washington State,PCC,Gus Welch,L,0,28
+1920-11-20,Oregon State,PCC,R.B. Rutherford,H,Oregon,PCC,Shy Huntington,T,0,0
+1920-10-09,Alabama,Ind,Xen Scott,H,Birmingham-Southern,Ind,Charles Brown,W,45,0
+1920-10-16,Alabama,Ind,Xen Scott,H,Mississippi College,Ind,Stanley Robinson,W,57,0
+1920-10-23,Alabama,Ind,Xen Scott,H,Samford,Ind,Robert Marshall,W,33,0
+1920-10-30,Alabama,Ind,Xen Scott,H,Sewanee,Ind,,W,21,0
+1920-11-06,Alabama,Ind,Xen Scott,H,Vanderbilt,Ind,Dan McGugin,W,14,7
+1920-11-13,Alabama,Ind,Xen Scott,H,LSU,Ind,,W,21,0
+1920-11-20,Alabama,Ind,Xen Scott,A,Georgia,Ind,Herman Stegeman,L,14,21
+1920-11-25,Alabama,Ind,Xen Scott,H,Mississippi State,Ind,Fred Holtkamp,W,24,7
+1920-10-23,Phillips,SWC,John Maulbetsch,A,Texas A&M,SWC,Dana Bible,L,0,47
+1920-10-30,Phillips,SWC,John Maulbetsch,A,Texas Christian,Ind,Bill Driver,L,0,3
+1920-11-05,Phillips,SWC,John Maulbetsch,A,Texas,SWC,Berry Whitaker,L,0,27
+1920-11-13,Phillips,SWC,John Maulbetsch,H,Arkansas,SWC,George McLaren,L,0,20
+1920-10-09,Purdue,Western,Butch Scanlon,A,Chicago,Western,Amos Alonzo Stagg,L,0,20
+1920-10-16,Purdue,Western,Butch Scanlon,A,Ohio State,Western,John Wilce,L,0,17
+1920-11-06,Purdue,Western,Butch Scanlon,A,Notre Dame,Ind,Knute Rockne,L,0,28
+1920-11-13,Purdue,Western,Butch Scanlon,A,Northwestern,Western,Elmer McDevitt,L,0,14
+1920-11-20,Purdue,Western,Butch Scanlon,H,Indiana,Western,Jumbo Stiehm,L,7,10
+1920-10-09,Nebraska,Ind,Henry Schulte,H,Colorado State,RMC,Harry Hughes,W,7,0
+1920-10-16,Nebraska,Ind,Henry Schulte,H,Notre Dame,Ind,Knute Rockne,L,7,16
+1920-11-02,Nebraska,Ind,Henry Schulte,A,Rutgers,Ind,George Sanford,W,28,0
+1920-11-06,Nebraska,Ind,Henry Schulte,A,Penn State,Ind,Hugo Bezdek,L,0,20
+1920-11-13,Nebraska,Ind,Henry Schulte,A,Kansas,MVIAA,Phog Allen,T,20,20
+1920-11-25,Nebraska,Ind,Henry Schulte,H,Washington State,PCC,Gus Welch,L,20,21
+1920-10-02,West Virginia,Ind,Mont McIntire,H,Lehigh,Ind,Tom Keady,T,7,7
+1920-10-09,West Virginia,Ind,Mont McIntire,A,Pitt,Ind,Pop Warner,L,13,34
+1920-10-23,West Virginia,Ind,Mont McIntire,A,Yale,Ind,Tad Jones,L,0,24
+1920-10-30,West Virginia,Ind,Mont McIntire,A,Princeton,Ind,,L,3,10
+1920-11-06,West Virginia,Ind,Mont McIntire,N,Washington & Lee,Ind,Bill Raftery,W,14,10
+1920-11-13,West Virginia,Ind,Mont McIntire,H,Rutgers,Ind,George Sanford,W,17,0
+1920-11-25,West Virginia,Ind,Mont McIntire,A,Washington & Jefferson,Ind,D.C. Morrow,L,0,28
+1920-10-23,Harvard,Ind,Robert Fisher,H,Centre,Ind,Charley Moran,W,31,14
+1920-10-30,Harvard,Ind,Robert Fisher,H,Virginia,Ind,W. Warren,W,24,0
+1920-11-06,Harvard,Ind,Robert Fisher,H,Princeton,Ind,,T,14,14
+1920-11-13,Harvard,Ind,Robert Fisher,H,Brown,Ind,Edward Robinson,W,27,0
+1920-11-20,Harvard,Ind,Robert Fisher,A,Yale,Ind,Tad Jones,W,9,0
+1920-10-02,Oklahoma State,SWC,James Pixlee,A,Baylor,SWC,Frank Bridges,L,0,7
+1920-10-16,Oklahoma State,SWC,James Pixlee,A,Texas,SWC,Berry Whitaker,L,0,21
+1920-10-30,Oklahoma State,SWC,James Pixlee,H,Texas A&M,SWC,Dana Bible,L,0,35
+1920-11-13,Oklahoma State,SWC,James Pixlee,H,Oklahoma,MVIAA,Bennie Owen,L,0,36
+1920-11-25,Oklahoma State,SWC,James Pixlee,H,Colorado,RMC,Myron Witham,L,7,40
+1920-10-16,Colorado,RMC,Myron Witham,A,Denver,RMC,Fred Murphy,W,31,0
+1920-10-23,Colorado,RMC,Myron Witham,A,Wyoming,RMC,John Corbett,W,7,0
+1920-10-31,Colorado,RMC,Myron Witham,H,Colorado College,RMC,Poss Parsons,T,7,7
+1920-11-06,Colorado,RMC,Myron Witham,H,Utah,RMC,Thomas Fitzpatrick,L,0,7
+1920-11-13,Colorado,RMC,Myron Witham,A,Colorado Mines,RMC,Ralph Glaze,W,7,0
+1920-11-20,Colorado,RMC,Myron Witham,H,Colorado State,RMC,Harry Hughes,T,7,7
+1920-11-25,Colorado,RMC,Myron Witham,A,Oklahoma State,SWC,James Pixlee,W,40,7
+1920-10-02,Birmingham-Southern,Ind,Charles Brown,A,Vanderbilt,Ind,Dan McGugin,L,0,54
+1920-10-09,Birmingham-Southern,Ind,Charles Brown,A,Alabama,Ind,Xen Scott,L,0,45
+1920-11-06,Birmingham-Southern,Ind,Charles Brown,N,Auburn,Ind,Mike Donahue,L,0,49
+1920-11-12,Birmingham-Southern,Ind,Charles Brown,H,Chattanooga,Ind,Silas Williams,W,27,0
+1920-11-20,Birmingham-Southern,Ind,Charles Brown,A,Samford,Ind,Robert Marshall,W,14,7
+1920-10-02,Oglethorpe,Ind,Frank Anderson,A,Georgia Tech,Ind,William Alexander,L,0,55
+1920-10-09,Oglethorpe,Ind,Frank Anderson,A,Chattanooga,Ind,Silas Williams,T,14,14
+1920-10-16,Oglethorpe,Ind,Frank Anderson,H,Sewanee,Ind,,L,13,21
+1920-10-23,Oglethorpe,Ind,Frank Anderson,H,Georgia,Ind,Herman Stegeman,L,3,27
+1920-10-29,Oglethorpe,Ind,Frank Anderson,H,Wofford,Ind,John Gorsuch,W,14,0
+1920-11-06,Oglethorpe,Ind,Frank Anderson,A,Furman,Ind,,L,3,42
+1920-11-13,Oglethorpe,Ind,Frank Anderson,A,Mercer,Ind,,W,42,0
+1920-11-25,Oglethorpe,Ind,Frank Anderson,H,Florida,Ind,William Kline,W,21,0
+1920-10-02,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,John Corbett,W,13,0
+1920-10-09,Colorado State,RMC,Harry Hughes,A,Nebraska,Ind,Henry Schulte,L,0,7
+1920-10-16,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Corbett,W,42,0
+1920-10-23,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,Ralph Glaze,W,27,0
+1920-10-30,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,21,0
+1920-11-11,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,Poss Parsons,W,28,0
+1920-11-20,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,T,7,7
+1920-11-27,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Fred Murphy,W,14,0
+1920-10-09,Rice,SWC,Phillip Arbuckle,H,Baylor,SWC,Frank Bridges,W,28,0
+1920-10-16,Rice,SWC,Phillip Arbuckle,A,Tulane,Ind,Clark Shaughnessy,T,0,0
+1920-10-23,Rice,SWC,Phillip Arbuckle,H,Southwestern (TX),Ind,,W,19,0
+1920-10-30,Rice,SWC,Phillip Arbuckle,H,Texas,SWC,Berry Whitaker,L,0,21
+1920-11-06,Rice,SWC,Phillip Arbuckle,A,SMU,SWC,J. Rix,W,10,0
+1920-11-15,Rice,SWC,Phillip Arbuckle,A,Texas A&M,SWC,Dana Bible,L,0,7
+1920-11-25,Rice,SWC,Phillip Arbuckle,H,Arkansas,SWC,George McLaren,T,0,0
+1920-10-09,Texas A&M,SWC,Dana Bible,A,SMU,SWC,J. Rix,W,3,0
+1920-10-16,Texas A&M,SWC,Dana Bible,H,LSU,Ind,,T,0,0
+1920-10-23,Texas A&M,SWC,Dana Bible,H,Phillips,SWC,John Maulbetsch,W,47,0
+1920-10-30,Texas A&M,SWC,Dana Bible,A,Oklahoma State,SWC,James Pixlee,W,35,0
+1920-11-06,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Frank Bridges,W,24,0
+1920-11-15,Texas A&M,SWC,Dana Bible,H,Rice,SWC,Phillip Arbuckle,W,7,0
+1920-11-25,Texas A&M,SWC,Dana Bible,A,Texas,SWC,Berry Whitaker,L,3,7
+1920-09-25,Davidson,Ind,Wooly Grey,A,North Carolina State,Ind,William Fetzer,L,0,23
+1920-10-02,Davidson,Ind,Wooly Grey,A,Washington & Lee,Ind,Bill Raftery,L,0,6
+1920-10-09,Davidson,Ind,Wooly Grey,A,Georgia Tech,Ind,William Alexander,L,0,66
+1920-10-16,Davidson,Ind,Wooly Grey,N,Wake Forest,Ind,J.L. White,W,27,7
+1920-10-30,Davidson,Ind,Wooly Grey,N,Citadel,Ind,Harry O'Brien,W,27,13
+1920-11-06,Davidson,Ind,Wooly Grey,H,South Carolina,Ind,Sol Metzger,W,27,0
+1920-11-13,Davidson,Ind,Wooly Grey,N,North Carolina,Ind,Myron Fuller,W,7,0
+1920-11-20,Davidson,Ind,Wooly Grey,A,Presbyterian,Ind,Walter Johnson,L,0,7
+1920-11-25,Davidson,Ind,Wooly Grey,A,Furman,Ind,,L,0,7
+1920-10-16,Washington (MO),MVIAA,George Rider,H,Grinnell,MVIAA,William Saunders,W,23,14
+1920-10-23,Washington (MO),MVIAA,George Rider,A,Oklahoma,MVIAA,Bennie Owen,L,14,24
+1920-10-30,Washington (MO),MVIAA,George Rider,A,Iowa State,MVIAA,Norman Paine,L,7,24
+1920-11-06,Washington (MO),MVIAA,George Rider,H,Drake,MVIAA,Mark Banks,L,6,14
+1920-11-13,Washington (MO),MVIAA,George Rider,A,Missouri,MVIAA,James Phelan,L,10,14
+1920-10-09,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Butch Scanlon,W,20,0
+1920-10-23,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,Howard Jones,W,10,0
+1920-10-30,Chicago,Western,Amos Alonzo Stagg,H,Ohio State,Western,John Wilce,L,6,7
+1920-11-06,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,L,0,3
+1920-11-13,Chicago,Western,Amos Alonzo Stagg,A,Michigan,Western,Fielding Yost,L,0,14
+1920-11-20,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,J.R. Richards,L,0,3
+1920-10-16,Colgate,Ind,Ellery Huntington,A,Brown,Ind,Edward Robinson,L,0,14
+1920-10-23,Colgate,Ind,Ellery Huntington,A,Cornell,Ind,Gilmour Dobie,L,6,42
+1920-10-30,Colgate,Ind,Ellery Huntington,A,Yale,Ind,Tad Jones,L,7,21
+1920-11-20,Colgate,Ind,Ellery Huntington,A,Syracuse,Ind,Chick Meehan,L,0,14
+1920-10-09,Minnesota,Western,Henry Williams,A,Northwestern,Western,Elmer McDevitt,L,0,17
+1920-10-23,Minnesota,Western,Henry Williams,H,Indiana,Western,Jumbo Stiehm,L,7,21
+1920-10-30,Minnesota,Western,Henry Williams,A,Illinois,Western,Robert Zuppke,L,7,17
+1920-11-06,Minnesota,Western,Henry Williams,H,Wisconsin,Western,J.R. Richards,L,0,3
+1920-11-13,Minnesota,Western,Henry Williams,A,Iowa,Western,Howard Jones,L,7,28
+1920-11-20,Minnesota,Western,Henry Williams,H,Michigan,Western,Fielding Yost,L,0,3
+1920-10-16,Sewanee,Ind,,A,Oglethorpe,Ind,Frank Anderson,W,21,13
+1920-10-23,Sewanee,Ind,,A,Kentucky,Ind,William Juneau,T,6,6
+1920-10-30,Sewanee,Ind,,A,Alabama,Ind,Xen Scott,L,0,21
+1920-11-06,Sewanee,Ind,,H,Chattanooga,Ind,Silas Williams,W,33,0
+1920-11-13,Sewanee,Ind,,H,Tennessee,Ind,John Bender,L,0,20
+1920-11-27,Sewanee,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,3,21
+1920-10-09,Centre,Ind,Charley Moran,H,Samford,Ind,Robert Marshall,W,120,0
+1920-10-23,Centre,Ind,Charley Moran,A,Harvard,Ind,Robert Fisher,L,14,31
+1920-10-30,Centre,Ind,Charley Moran,A,Georgia Tech,Ind,William Alexander,L,0,24
+1920-11-13,Centre,Ind,Charley Moran,A,Kentucky,Ind,William Juneau,W,49,0
+1920-11-20,Centre,Ind,Charley Moran,H,Virginia Tech,Ind,Stanley Sutton,W,28,0
+1921-01-01,Centre,Ind,Charley Moran,A,Texas Christian,Ind,Bill Driver,W,63,7
+1920-10-02,Navy,Ind,,H,North Carolina State,Ind,William Fetzer,L,7,14
+1920-10-09,Navy,Ind,,H,Lafayette,Ind,Jock Sutherland,W,12,7
+1920-10-23,Navy,Ind,,A,Princeton,Ind,,L,0,14
+1920-11-13,Navy,Ind,,H,South Carolina,Ind,Sol Metzger,W,63,0
+1920-10-09,Lafayette,Ind,Jock Sutherland,A,Navy,Ind,,L,7,12
+1920-10-16,Lafayette,Ind,Jock Sutherland,A,Pennsylvania,Ind,John Heisman,L,0,7
+1920-10-30,Lafayette,Ind,Jock Sutherland,A,Pitt,Ind,Pop Warner,L,0,14
+1920-11-20,Lafayette,Ind,Jock Sutherland,H,Lehigh,Ind,Tom Keady,W,27,7
+1920-10-09,Tulane,Ind,Clark Shaughnessy,H,Mississippi College,Ind,Stanley Robinson,W,29,0
+1920-10-16,Tulane,Ind,Clark Shaughnessy,H,Rice,SWC,Phillip Arbuckle,T,0,0
+1920-10-30,Tulane,Ind,Clark Shaughnessy,A,Michigan,Western,Fielding Yost,L,0,21
+1920-11-06,Tulane,Ind,Clark Shaughnessy,A,Florida,Ind,William Kline,W,14,0
+1920-11-13,Tulane,Ind,Clark Shaughnessy,H,Mississippi State,Ind,Fred Holtkamp,W,6,0
+1920-11-25,Tulane,Ind,Clark Shaughnessy,A,LSU,Ind,,W,21,0
+1920-10-23,Cornell,Ind,Gilmour Dobie,H,Colgate,Ind,Ellery Huntington,W,42,6
+1920-10-30,Cornell,Ind,Gilmour Dobie,H,Rutgers,Ind,George Sanford,W,24,0
+1920-11-06,Cornell,Ind,Gilmour Dobie,N,Dartmouth,Ind,,L,3,14
+1920-11-25,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,John Heisman,L,0,28
+1920-10-16,Ohio State,Western,John Wilce,H,Purdue,Western,Butch Scanlon,W,17,0
+1920-10-23,Ohio State,Western,John Wilce,H,Wisconsin,Western,J.R. Richards,W,13,7
+1920-10-30,Ohio State,Western,John Wilce,A,Chicago,Western,Amos Alonzo Stagg,W,7,6
+1920-11-06,Ohio State,Western,John Wilce,H,Michigan,Western,Fielding Yost,W,14,7
+1920-11-20,Ohio State,Western,John Wilce,A,Illinois,Western,Robert Zuppke,W,7,0
+1921-01-01,Ohio State,Western,John Wilce,N,California,PCC,Andy Smith,L,0,28
+1920-10-09,Drake,MVIAA,Mark Banks,A,Illinois,Western,Robert Zuppke,L,0,41
+1920-10-16,Drake,MVIAA,Mark Banks,A,Kansas,MVIAA,Phog Allen,L,3,7
+1920-10-23,Drake,MVIAA,Mark Banks,H,Missouri,MVIAA,James Phelan,L,7,10
+1920-10-30,Drake,MVIAA,Mark Banks,A,Grinnell,MVIAA,William Saunders,T,6,6
+1920-11-06,Drake,MVIAA,Mark Banks,A,Washington (MO),MVIAA,George Rider,W,14,6
+1920-11-25,Drake,MVIAA,Mark Banks,A,Oklahoma,MVIAA,Bennie Owen,L,7,44

@@ -1,0 +1,657 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1923-09-29,North Carolina,Southern,William Fetzer,H,Wake Forest,Ind,Hank Garrity,W,22,0
+1923-10-06,North Carolina,Southern,William Fetzer,A,Yale,Ind,Tad Jones,L,0,53
+1923-10-12,North Carolina,Southern,William Fetzer,A,Duke,Ind,S.M. Alexander,W,14,6
+1923-10-18,North Carolina,Southern,William Fetzer,A,North Carolina State,Southern,Harry Hartsell,W,14,0
+1923-10-27,North Carolina,Southern,William Fetzer,A,Maryland,Southern,Curley Byrd,L,0,14
+1923-11-03,North Carolina,Southern,William Fetzer,A,South Carolina,Southern,Sol Metzger,W,13,0
+1923-11-10,North Carolina,Southern,William Fetzer,A,Virginia Military Institute,Ind,,L,0,9
+1923-11-17,North Carolina,Southern,William Fetzer,H,Davidson,Ind,Monk Younger,W,14,3
+1923-11-29,North Carolina,Southern,William Fetzer,H,Virginia,Southern,Greasy Neale,T,0,0
+1923-10-13,Indiana,Western,William Ingram,H,Northwestern,Western,Glenn Thistlethwaite,W,7,6
+1923-10-20,Indiana,Western,William Ingram,H,Wisconsin,Western,Jack Ryan,L,0,52
+1923-11-10,Indiana,Western,William Ingram,A,Chicago,Western,Amos Alonzo Stagg,L,0,27
+1923-11-24,Indiana,Western,William Ingram,H,Purdue,Western,James Phelan,W,3,0
+1923-10-06,Iowa State,MVIAA,Sam Willaman,A,Minnesota,Western,William Spaulding,L,17,20
+1923-10-13,Iowa State,MVIAA,Sam Willaman,A,Missouri,MVIAA,Gwinn Henry,W,2,0
+1923-10-20,Iowa State,MVIAA,Sam Willaman,H,Kansas State,MVIAA,Charlie Bachman,T,7,7
+1923-10-27,Iowa State,MVIAA,Sam Willaman,A,Washington (MO),MVIAA,Byron Wimberly,W,54,7
+1923-11-03,Iowa State,MVIAA,Sam Willaman,A,Drake,MVIAA,Ossie Solem,L,0,21
+1923-11-17,Iowa State,MVIAA,Sam Willaman,H,Nebraska,MVIAA,Fred Dawson,L,14,26
+1923-11-24,Iowa State,MVIAA,Sam Willaman,H,Grinnell,MVIAA,Mal Elward,W,13,6
+1923-09-29,Furman,Ind,,A,Virginia,Southern,Greasy Neale,W,13,10
+1923-10-06,Furman,Ind,,A,Mercer,Ind,,W,13,6
+1923-10-13,Furman,Ind,,H,Presbyterian,Ind,Walter Johnson,W,20,0
+1923-10-20,Furman,Ind,,H,Citadel,Ind,Carl Prause,W,30,14
+1923-10-24,Furman,Ind,,N,Davidson,Ind,Monk Younger,W,30,0
+1923-10-27,Furman,Ind,,A,Richmond,Ind,Frank Dobson,W,22,7
+1923-11-03,Furman,Ind,,H,Oglethorpe,Ind,Jim Robertson,W,29,0
+1923-11-10,Furman,Ind,,H,South Carolina,Southern,Sol Metzger,W,23,3
+1923-11-16,Furman,Ind,,H,Newberry,Ind,Dutch McLean,W,35,0
+1923-11-29,Furman,Ind,,H,Clemson,Southern,Bud Saunders,L,6,7
+1923-10-06,Utah,RMC,Thomas Fitzpatrick,A,Whitman,Ind,,W,16,0
+1923-10-13,Utah,RMC,Thomas Fitzpatrick,H,Wyoming,RMC,John Corbett,W,79,0
+1923-10-27,Utah,RMC,Thomas Fitzpatrick,A,Brigham Young,RMC,Alvin Twitchell,W,15,0
+1923-11-10,Utah,RMC,Thomas Fitzpatrick,A,Colorado College,RMC,Tefler Meade,L,6,7
+1923-11-17,Utah,RMC,Thomas Fitzpatrick,H,Colorado,RMC,Myron Witham,L,7,17
+1923-11-29,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,L,13,21
+1923-10-21,Northern Colorado,RMC,George Cooper,A,Colorado,RMC,Myron Witham,L,0,60
+1923-11-24,Northern Colorado,RMC,George Cooper,A,Montana State,RMC,Ott Romney,L,12,48
+1923-10-13,Washington & Lee,Southern,Jimmy DeHart,A,Kentucky,Southern,J.J. Winn,T,6,6
+1923-10-27,Washington & Lee,Southern,Jimmy DeHart,N,Virginia Tech,Southern,B.C. Cubbage,W,12,0
+1923-11-03,Washington & Lee,Southern,Jimmy DeHart,H,Virginia,Southern,Greasy Neale,W,7,0
+1923-11-10,Washington & Lee,Southern,Jimmy DeHart,N,West Virginia,Ind,,L,0,63
+1923-11-17,Washington & Lee,Southern,Jimmy DeHart,A,South Carolina,Southern,Sol Metzger,W,13,7
+1923-11-24,Washington & Lee,Southern,Jimmy DeHart,A,Centre,Ind,Charley Moran,L,0,19
+1923-11-29,Washington & Lee,Southern,Jimmy DeHart,N,North Carolina State,Southern,Harry Hartsell,W,20,12
+1923-10-06,Syracuse,Ind,Chick Meehan,H,William & Mary,Ind,J. Wilder Tasker,W,61,3
+1923-10-13,Syracuse,Ind,Chick Meehan,H,Alabama,Southern,Wallace Wade,W,23,0
+1923-10-20,Syracuse,Ind,Chick Meehan,N,Pitt,Ind,Pop Warner,W,3,0
+1923-11-03,Syracuse,Ind,Chick Meehan,H,Penn State,Ind,Hugo Bezdek,W,10,0
+1923-11-10,Syracuse,Ind,Chick Meehan,H,Boston University,Ind,Charles Whelan,W,49,0
+1923-11-17,Syracuse,Ind,Chick Meehan,H,Colgate,Ind,Dick Harlow,L,7,16
+1923-11-24,Syracuse,Ind,Chick Meehan,A,Nebraska,MVIAA,Fred Dawson,W,7,0
+1923-10-13,Montana,Ind,John Stewart,H,Idaho,PCC,Robert Mathews,L,0,40
+1923-10-27,Montana,Ind,John Stewart,A,Gonzaga,Ind,Gus Dorais,L,2,25
+1923-11-03,Montana,Ind,John Stewart,A,Whitman,Ind,,W,16,7
+1923-11-10,Montana,Ind,John Stewart,A,Washington,PCC,Enoch Bagshaw,L,14,26
+1923-11-17,Montana,Ind,John Stewart,A,Montana State,RMC,Ott Romney,W,24,13
+1923-10-06,Penn State,Ind,Hugo Bezdek,H,North Carolina State,Southern,Harry Hartsell,W,16,0
+1923-10-20,Penn State,Ind,Hugo Bezdek,H,Navy,Ind,,W,21,3
+1923-10-27,Penn State,Ind,Hugo Bezdek,N,West Virginia,Ind,,T,13,13
+1923-11-03,Penn State,Ind,Hugo Bezdek,A,Syracuse,Ind,Chick Meehan,L,0,10
+1923-11-10,Penn State,Ind,Hugo Bezdek,H,Georgia Tech,Southern,William Alexander,W,7,0
+1923-11-17,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,Lou Young,W,21,0
+1923-11-29,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Pop Warner,L,3,20
+1923-10-20,Princeton,Ind,,H,Notre Dame,Ind,Knute Rockne,L,2,25
+1923-10-27,Princeton,Ind,,A,Navy,Ind,,T,3,3
+1923-11-10,Princeton,Ind,,H,Harvard,Ind,Robert Fisher,L,0,5
+1923-11-17,Princeton,Ind,,A,Yale,Ind,Tad Jones,L,0,27
+1923-10-06,Vanderbilt,Southern,Dan McGugin,H,Samford,Ind,Harris Cope,W,27,0
+1923-10-13,Vanderbilt,Southern,Dan McGugin,A,Michigan,Western,Fielding Yost,L,0,3
+1923-10-20,Vanderbilt,Southern,Dan McGugin,A,Texas,SWC,Edward Stewart,L,0,16
+1923-10-27,Vanderbilt,Southern,Dan McGugin,H,Tulane,Southern,Clark Shaughnessy,W,17,0
+1923-11-03,Vanderbilt,Southern,Dan McGugin,H,Mississippi State,Southern,Earl Able,T,0,0
+1923-11-10,Vanderbilt,Southern,Dan McGugin,H,Tennessee,Southern,Mark Banks,W,51,7
+1923-11-17,Vanderbilt,Southern,Dan McGugin,H,Georgia,Southern,George Woodruff,W,35,7
+1923-11-24,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,M.S. Bennett,W,7,0
+1923-10-06,Colorado College,RMC,Tefler Meade,A,Wyoming,RMC,John Corbett,W,34,7
+1923-10-13,Colorado College,RMC,Tefler Meade,N,Colorado Mines,RMC,Tim Callahan,W,18,0
+1923-10-20,Colorado College,RMC,Tefler Meade,H,Colorado State,RMC,Harry Hughes,T,6,6
+1923-11-03,Colorado College,RMC,Tefler Meade,A,Colorado,RMC,Myron Witham,L,7,17
+1923-11-10,Colorado College,RMC,Tefler Meade,H,Utah,RMC,Thomas Fitzpatrick,W,7,6
+1923-11-17,Colorado College,RMC,Tefler Meade,H,Denver,RMC,,W,20,0
+1923-11-24,Colorado College,RMC,Tefler Meade,H,Brigham Young,RMC,Alvin Twitchell,W,31,6
+1923-10-13,Kentucky,Southern,J.J. Winn,H,Washington & Lee,Southern,Jimmy DeHart,T,6,6
+1923-11-03,Kentucky,Southern,J.J. Winn,A,Centre,Ind,Charley Moran,L,0,10
+1923-11-10,Kentucky,Southern,J.J. Winn,A,Alabama,Southern,Wallace Wade,L,8,16
+1923-11-17,Kentucky,Southern,J.J. Winn,N,Georgia Tech,Southern,William Alexander,T,3,3
+1923-11-29,Kentucky,Southern,J.J. Winn,H,Tennessee,Southern,Mark Banks,L,0,18
+1923-10-20,California,PCC,Andy Smith,H,Oregon State,PCC,R.B. Rutherford,W,26,0
+1923-10-27,California,PCC,Andy Smith,N,Washington State,PCC,Albert Exendine,W,9,0
+1923-11-10,California,PCC,Andy Smith,A,USC,PCC,Gus Henderson,W,13,7
+1923-11-17,California,PCC,Andy Smith,H,Washington,PCC,Enoch Bagshaw,W,9,0
+1923-11-24,California,PCC,Andy Smith,H,Stanford,PCC,Andrew Kerr,W,9,0
+1923-10-06,Florida,Southern,J.A. Van Fleet,A,Army,Ind,John McEwan,L,0,20
+1923-10-13,Florida,Southern,J.A. Van Fleet,A,Georgia Tech,Southern,William Alexander,T,7,7
+1923-10-27,Florida,Southern,J.A. Van Fleet,H,Wake Forest,Ind,Hank Garrity,W,16,7
+1923-11-03,Florida,Southern,J.A. Van Fleet,H,Mercer,Ind,,W,19,7
+1923-11-24,Florida,Southern,J.A. Van Fleet,H,Mississippi State,Southern,Earl Able,T,13,13
+1923-11-29,Florida,Southern,J.A. Van Fleet,A,Alabama,Southern,Wallace Wade,W,16,6
+1923-10-13,Gonzaga,Ind,Gus Dorais,H,Washington State,PCC,Albert Exendine,W,27,14
+1923-10-27,Gonzaga,Ind,Gus Dorais,H,Montana,Ind,John Stewart,W,25,2
+1923-11-03,Gonzaga,Ind,Gus Dorais,A,Idaho,PCC,Robert Mathews,L,0,13
+1923-11-10,Gonzaga,Ind,Gus Dorais,H,Whitman,Ind,,W,53,6
+1923-10-13,Boston University,Ind,Charles Whelan,A,Dartmouth,Ind,Jesse Hawley,L,0,24
+1923-10-20,Boston University,Ind,Charles Whelan,A,Brown,Ind,Edward Robinson,L,3,20
+1923-11-10,Boston University,Ind,Charles Whelan,A,Syracuse,Ind,Chick Meehan,L,0,49
+1923-11-17,Boston University,Ind,Charles Whelan,A,Rutgers,Ind,George Sanford,L,0,61
+1923-10-27,Stanford,PCC,Andrew Kerr,H,USC,PCC,Gus Henderson,L,7,14
+1923-11-10,Stanford,PCC,Andrew Kerr,A,Oregon,PCC,Shy Huntington,W,14,3
+1923-11-17,Stanford,PCC,Andrew Kerr,H,Idaho,PCC,Robert Mathews,W,17,7
+1923-11-24,Stanford,PCC,Andrew Kerr,A,California,PCC,Andy Smith,L,0,9
+1923-09-29,Presbyterian,Ind,Walter Johnson,H,Davidson,Ind,Monk Younger,L,0,3
+1923-10-06,Presbyterian,Ind,Walter Johnson,A,South Carolina,Southern,Sol Metzger,W,7,3
+1923-10-13,Presbyterian,Ind,Walter Johnson,A,Furman,Ind,,L,0,20
+1923-10-27,Presbyterian,Ind,Walter Johnson,H,Citadel,Ind,Carl Prause,T,0,0
+1923-11-03,Presbyterian,Ind,Walter Johnson,H,Wofford,Ind,Rip Major,W,26,0
+1923-11-17,Presbyterian,Ind,Walter Johnson,A,Clemson,Southern,Bud Saunders,L,0,20
+1923-12-01,Presbyterian,Ind,Walter Johnson,A,Newberry,Ind,Dutch McLean,W,7,0
+1923-10-13,Washington State,PCC,Albert Exendine,A,Gonzaga,Ind,Gus Dorais,L,14,27
+1923-10-19,Washington State,PCC,Albert Exendine,H,Idaho,PCC,Robert Mathews,L,0,14
+1923-10-27,Washington State,PCC,Albert Exendine,N,California,PCC,Andy Smith,L,0,9
+1923-11-03,Washington State,PCC,Albert Exendine,H,Oregon,PCC,Shy Huntington,W,13,7
+1923-11-17,Washington State,PCC,Albert Exendine,H,Oregon State,PCC,R.B. Rutherford,T,3,3
+1923-11-24,Washington State,PCC,Albert Exendine,A,Washington,PCC,Enoch Bagshaw,L,7,24
+1923-10-06,Illinois,Western,Robert Zuppke,H,Nebraska,MVIAA,Fred Dawson,W,24,7
+1923-10-20,Illinois,Western,Robert Zuppke,A,Iowa,Western,Howard Jones,W,9,6
+1923-10-27,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Glenn Thistlethwaite,W,29,0
+1923-11-03,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,W,7,0
+1923-11-10,Illinois,Western,Robert Zuppke,H,Wisconsin,Western,Jack Ryan,W,10,0
+1923-11-17,Illinois,Western,Robert Zuppke,H,Mississippi State,Southern,Earl Able,W,27,0
+1923-11-24,Illinois,Western,Robert Zuppke,A,Ohio State,Western,John Wilce,W,9,0
+1923-10-20,Baylor,SWC,Frank Bridges,A,Arkansas,SWC,Francis Schmidt,W,14,0
+1923-11-03,Baylor,SWC,Frank Bridges,H,Texas A&M,SWC,Dana Bible,T,0,0
+1923-11-10,Baylor,SWC,Frank Bridges,H,Texas,SWC,Edward Stewart,T,7,7
+1923-11-29,Baylor,SWC,Frank Bridges,A,SMU,SWC,Ray Morrison,L,0,16
+1923-10-26,SMU,SWC,Ray Morrison,A,Texas A&M,SWC,Dana Bible,W,10,0
+1923-11-04,SMU,SWC,Ray Morrison,H,Texas Christian,SWC,Madison Bell,W,40,0
+1923-11-10,SMU,SWC,Ray Morrison,H,Arkansas,SWC,Francis Schmidt,W,13,6
+1923-11-17,SMU,SWC,Ray Morrison,H,Oklahoma State,SWC,John Maulbetsch,W,9,0
+1923-11-29,SMU,SWC,Ray Morrison,H,Baylor,SWC,Frank Bridges,W,16,0
+1923-09-29,Georgia,Southern,George Woodruff,H,Mercer,Ind,,W,7,0
+1923-10-06,Georgia,Southern,George Woodruff,H,Oglethorpe,Ind,Jim Robertson,W,20,6
+1923-10-13,Georgia,Southern,George Woodruff,A,Yale,Ind,Tad Jones,L,0,40
+1923-10-20,Georgia,Southern,George Woodruff,A,Tennessee,Southern,Mark Banks,W,17,0
+1923-11-03,Georgia,Southern,George Woodruff,N,Auburn,Southern,Boozer Pitts,W,7,0
+1923-11-10,Georgia,Southern,George Woodruff,H,Virginia,Southern,Greasy Neale,W,13,0
+1923-11-17,Georgia,Southern,George Woodruff,A,Vanderbilt,Southern,Dan McGugin,L,7,35
+1923-11-24,Georgia,Southern,George Woodruff,A,Alabama,Southern,Wallace Wade,L,0,36
+1923-12-01,Georgia,Southern,George Woodruff,H,Centre,Ind,Charley Moran,T,3,3
+1923-10-06,Maryland,Southern,Curley Byrd,A,Pennsylvania,Ind,Lou Young,W,3,0
+1923-10-13,Maryland,Southern,Curley Byrd,N,Richmond,Ind,Frank Dobson,W,23,0
+1923-10-20,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,B.C. Cubbage,L,7,16
+1923-10-27,Maryland,Southern,Curley Byrd,H,North Carolina,Southern,William Fetzer,W,14,0
+1923-11-10,Maryland,Southern,Curley Byrd,A,Yale,Ind,Tad Jones,L,14,16
+1923-11-17,Maryland,Southern,Curley Byrd,A,North Carolina State,Southern,Harry Hartsell,W,26,12
+1923-09-29,Virginia,Southern,Greasy Neale,H,Furman,Ind,,L,10,13
+1923-10-06,Virginia,Southern,Greasy Neale,H,Richmond,Ind,Frank Dobson,W,9,0
+1923-10-20,Virginia,Southern,Greasy Neale,H,Virginia Military Institute,Ind,,L,0,35
+1923-10-27,Virginia,Southern,Greasy Neale,H,Duke,Ind,S.M. Alexander,W,33,0
+1923-11-03,Virginia,Southern,Greasy Neale,A,Washington & Lee,Southern,Jimmy DeHart,L,0,7
+1923-11-10,Virginia,Southern,Greasy Neale,A,Georgia,Southern,George Woodruff,L,0,13
+1923-11-17,Virginia,Southern,Greasy Neale,H,Virginia Tech,Southern,B.C. Cubbage,L,3,6
+1923-11-29,Virginia,Southern,Greasy Neale,A,North Carolina,Southern,William Fetzer,T,0,0
+1923-10-13,Idaho,PCC,Robert Mathews,A,Montana,Ind,John Stewart,W,40,0
+1923-10-19,Idaho,PCC,Robert Mathews,A,Washington State,PCC,Albert Exendine,W,14,0
+1923-10-27,Idaho,PCC,Robert Mathews,H,Oregon,PCC,Shy Huntington,T,0,0
+1923-11-03,Idaho,PCC,Robert Mathews,H,Gonzaga,Ind,Gus Dorais,W,13,0
+1923-11-10,Idaho,PCC,Robert Mathews,H,Oregon State,PCC,R.B. Rutherford,W,7,0
+1923-11-17,Idaho,PCC,Robert Mathews,A,Stanford,PCC,Andrew Kerr,L,7,17
+1923-11-24,Idaho,PCC,Robert Mathews,A,USC,PCC,Gus Henderson,L,0,9
+1923-10-13,Citadel,Ind,Carl Prause,A,Davidson,Ind,Monk Younger,L,0,7
+1923-10-20,Citadel,Ind,Carl Prause,A,Furman,Ind,,L,14,30
+1923-10-27,Citadel,Ind,Carl Prause,A,Presbyterian,Ind,Walter Johnson,T,0,0
+1923-11-03,Citadel,Ind,Carl Prause,H,Newberry,Ind,Dutch McLean,W,21,7
+1923-11-15,Citadel,Ind,Carl Prause,N,South Carolina,Southern,Sol Metzger,L,0,12
+1923-11-29,Citadel,Ind,Carl Prause,A,Wofford,Ind,Rip Major,W,9,0
+1923-10-13,Oklahoma,MVIAA,Bennie Owen,A,Nebraska,MVIAA,Fred Dawson,L,0,24
+1923-10-20,Oklahoma,MVIAA,Bennie Owen,H,Washington (MO),MVIAA,Byron Wimberly,W,62,7
+1923-10-27,Oklahoma,MVIAA,Bennie Owen,H,Oklahoma State,SWC,John Maulbetsch,W,12,0
+1923-11-03,Oklahoma,MVIAA,Bennie Owen,H,Kansas,MVIAA,Potsy Clark,L,3,7
+1923-11-10,Oklahoma,MVIAA,Bennie Owen,A,Missouri,MVIAA,Gwinn Henry,W,13,0
+1923-11-17,Oklahoma,MVIAA,Bennie Owen,A,Texas,SWC,Edward Stewart,L,14,26
+1923-11-23,Oklahoma,MVIAA,Bennie Owen,A,Kansas State,MVIAA,Charlie Bachman,L,20,21
+1923-11-29,Oklahoma,MVIAA,Bennie Owen,H,Drake,MVIAA,Ossie Solem,L,20,26
+1923-10-06,Virginia Tech,Southern,B.C. Cubbage,H,Davidson,Ind,Monk Younger,W,7,0
+1923-10-20,Virginia Tech,Southern,B.C. Cubbage,N,Maryland,Southern,Curley Byrd,W,16,7
+1923-10-27,Virginia Tech,Southern,B.C. Cubbage,N,Washington & Lee,Southern,Jimmy DeHart,L,0,12
+1923-11-03,Virginia Tech,Southern,B.C. Cubbage,H,Clemson,Southern,Bud Saunders,W,25,6
+1923-11-10,Virginia Tech,Southern,B.C. Cubbage,N,North Carolina State,Southern,Harry Hartsell,W,16,0
+1923-11-17,Virginia Tech,Southern,B.C. Cubbage,A,Virginia,Southern,Greasy Neale,W,6,3
+1923-11-29,Virginia Tech,Southern,B.C. Cubbage,N,Virginia Military Institute,Ind,,L,0,6
+1923-10-06,Whitman,Ind,,H,Utah,RMC,Thomas Fitzpatrick,L,0,16
+1923-10-13,Whitman,Ind,,A,Washington,PCC,Enoch Bagshaw,L,0,19
+1923-10-18,Whitman,Ind,,H,Oregon,PCC,Shy Huntington,L,0,21
+1923-11-03,Whitman,Ind,,H,Montana,Ind,John Stewart,L,7,16
+1923-11-10,Whitman,Ind,,A,Gonzaga,Ind,Gus Dorais,L,6,53
+1923-10-13,Arkansas,SWC,Francis Schmidt,H,Rice,SWC,Phillip Arbuckle,W,23,0
+1923-10-20,Arkansas,SWC,Francis Schmidt,H,Baylor,SWC,Frank Bridges,L,0,14
+1923-10-27,Arkansas,SWC,Francis Schmidt,N,LSU,Southern,Mike Donahue,W,26,13
+1923-11-10,Arkansas,SWC,Francis Schmidt,A,SMU,SWC,Ray Morrison,L,6,13
+1923-12-01,Arkansas,SWC,Francis Schmidt,H,Oklahoma State,SWC,John Maulbetsch,W,13,0
+1923-09-29,Clemson,Southern,Bud Saunders,H,Auburn,Southern,Boozer Pitts,T,0,0
+1923-10-06,Clemson,Southern,Bud Saunders,H,Newberry,Ind,Dutch McLean,W,32,0
+1923-10-13,Clemson,Southern,Bud Saunders,A,Centre,Ind,Charley Moran,L,7,28
+1923-10-25,Clemson,Southern,Bud Saunders,A,South Carolina,Southern,Sol Metzger,W,7,6
+1923-11-03,Clemson,Southern,Bud Saunders,A,Virginia Tech,Southern,B.C. Cubbage,L,6,25
+1923-11-09,Clemson,Southern,Bud Saunders,H,Davidson,Ind,Monk Younger,W,12,0
+1923-11-17,Clemson,Southern,Bud Saunders,H,Presbyterian,Ind,Walter Johnson,W,20,0
+1923-11-29,Clemson,Southern,Bud Saunders,A,Furman,Ind,,W,7,6
+1923-10-06,South Carolina,Southern,Sol Metzger,H,Presbyterian,Ind,Walter Johnson,L,3,7
+1923-10-13,South Carolina,Southern,Sol Metzger,A,North Carolina State,Southern,Harry Hartsell,L,0,7
+1923-10-19,South Carolina,Southern,Sol Metzger,H,Newberry,Ind,Dutch McLean,W,24,0
+1923-10-25,South Carolina,Southern,Sol Metzger,H,Clemson,Southern,Bud Saunders,L,6,7
+1923-11-03,South Carolina,Southern,Sol Metzger,H,North Carolina,Southern,William Fetzer,L,0,13
+1923-11-10,South Carolina,Southern,Sol Metzger,A,Furman,Ind,,L,3,23
+1923-11-15,South Carolina,Southern,Sol Metzger,N,Citadel,Ind,Carl Prause,W,12,0
+1923-11-17,South Carolina,Southern,Sol Metzger,H,Washington & Lee,Southern,Jimmy DeHart,L,7,13
+1923-11-29,South Carolina,Southern,Sol Metzger,H,Wake Forest,Ind,Hank Garrity,W,14,7
+1923-10-13,Washington,PCC,Enoch Bagshaw,H,Whitman,Ind,,W,19,0
+1923-10-20,Washington,PCC,Enoch Bagshaw,H,USC,PCC,Gus Henderson,W,22,0
+1923-11-03,Washington,PCC,Enoch Bagshaw,A,Oregon State,PCC,R.B. Rutherford,W,14,0
+1923-11-10,Washington,PCC,Enoch Bagshaw,H,Montana,Ind,John Stewart,W,26,14
+1923-11-17,Washington,PCC,Enoch Bagshaw,A,California,PCC,Andy Smith,L,0,9
+1923-11-24,Washington,PCC,Enoch Bagshaw,H,Washington State,PCC,Albert Exendine,W,24,7
+1923-12-01,Washington,PCC,Enoch Bagshaw,H,Oregon,PCC,Shy Huntington,W,26,7
+1924-01-01,Washington,PCC,Enoch Bagshaw,N,Navy,Ind,,T,14,14
+1923-10-13,Utah State,RMC,,H,Denver,RMC,,L,7,14
+1923-10-20,Utah State,RMC,,A,Colorado Mines,RMC,Tim Callahan,W,26,0
+1923-10-27,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,7,26
+1923-11-12,Utah State,RMC,,H,Brigham Young,RMC,Alvin Twitchell,W,40,0
+1923-11-16,Utah State,RMC,,A,Wyoming,RMC,John Corbett,W,20,6
+1923-11-29,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,W,21,13
+1923-10-13,Missouri,MVIAA,Gwinn Henry,H,Iowa State,MVIAA,Sam Willaman,L,0,2
+1923-10-27,Missouri,MVIAA,Gwinn Henry,H,Nebraska,MVIAA,Fred Dawson,T,7,7
+1923-11-03,Missouri,MVIAA,Gwinn Henry,A,Kansas State,MVIAA,Charlie Bachman,W,4,2
+1923-11-10,Missouri,MVIAA,Gwinn Henry,H,Oklahoma,MVIAA,Bennie Owen,L,0,13
+1923-11-17,Missouri,MVIAA,Gwinn Henry,A,Washington (MO),MVIAA,Byron Wimberly,L,7,13
+1923-11-29,Missouri,MVIAA,Gwinn Henry,A,Kansas,MVIAA,Potsy Clark,T,3,3
+1923-09-29,Montana State,RMC,Ott Romney,A,Brigham Young,RMC,Alvin Twitchell,L,15,16
+1923-10-20,Montana State,RMC,Ott Romney,H,Denver,RMC,,L,6,7
+1923-11-17,Montana State,RMC,Ott Romney,H,Montana,Ind,John Stewart,L,13,24
+1923-11-24,Montana State,RMC,Ott Romney,H,Northern Colorado,RMC,George Cooper,W,48,12
+1923-10-13,Denver,RMC,,A,Utah State,RMC,,W,14,7
+1923-10-20,Denver,RMC,,A,Montana State,RMC,Ott Romney,W,7,6
+1923-10-27,Denver,RMC,,H,Colorado,RMC,Myron Witham,L,7,21
+1923-11-03,Denver,RMC,,H,Wyoming,RMC,John Corbett,W,45,0
+1923-11-10,Denver,RMC,,A,Colorado State,RMC,Harry Hughes,L,0,25
+1923-11-17,Denver,RMC,,A,Colorado College,RMC,Tefler Meade,L,0,20
+1923-11-24,Denver,RMC,,H,Colorado Mines,RMC,Tim Callahan,W,21,13
+1923-10-13,Washington & Jefferson,Ind,John Heisman,H,Brown,Ind,Edward Robinson,W,12,7
+1923-10-20,Washington & Jefferson,Ind,John Heisman,H,Carnegie Mellon,Ind,Walter Steffen,W,9,7
+1923-11-03,Washington & Jefferson,Ind,John Heisman,N,Lafayette,Ind,Jock Sutherland,T,6,6
+1923-11-17,Washington & Jefferson,Ind,John Heisman,A,Pitt,Ind,Pop Warner,L,6,13
+1923-11-29,Washington & Jefferson,Ind,John Heisman,A,West Virginia,Ind,,W,7,2
+1923-10-13,Wofford,Ind,Rip Major,A,Newberry,Ind,Dutch McLean,W,19,13
+1923-11-01,Wofford,Ind,Rip Major,H,Oglethorpe,Ind,Jim Robertson,L,0,32
+1923-11-03,Wofford,Ind,Rip Major,A,Presbyterian,Ind,Walter Johnson,L,0,26
+1923-11-29,Wofford,Ind,Rip Major,H,Citadel,Ind,Carl Prause,L,0,9
+1923-10-06,Mississippi College,Ind,Stanley Robinson,A,Tulane,Southern,Clark Shaughnessy,L,3,18
+1923-10-20,Mississippi College,Ind,Stanley Robinson,H,Samford,Ind,Harris Cope,W,7,3
+1923-11-02,Mississippi College,Ind,Stanley Robinson,H,LSU,Southern,Mike Donahue,T,0,0
+1923-11-10,Mississippi College,Ind,Stanley Robinson,N,Ole Miss,Southern,Roland Cowell,W,6,0
+1923-11-17,Mississippi College,Ind,Stanley Robinson,H,Mercer,Ind,,W,15,0
+1923-10-20,Wisconsin,Western,Jack Ryan,A,Indiana,Western,William Ingram,W,52,0
+1923-10-27,Wisconsin,Western,Jack Ryan,H,Minnesota,Western,William Spaulding,T,0,0
+1923-11-10,Wisconsin,Western,Jack Ryan,A,Illinois,Western,Robert Zuppke,L,0,10
+1923-11-17,Wisconsin,Western,Jack Ryan,H,Michigan,Western,Fielding Yost,L,3,6
+1923-11-24,Wisconsin,Western,Jack Ryan,A,Chicago,Western,Amos Alonzo Stagg,L,6,13
+1923-10-20,USC,PCC,Gus Henderson,A,Washington,PCC,Enoch Bagshaw,L,0,22
+1923-10-27,USC,PCC,Gus Henderson,A,Stanford,PCC,Andrew Kerr,W,14,7
+1923-11-10,USC,PCC,Gus Henderson,H,California,PCC,Andy Smith,L,7,13
+1923-11-24,USC,PCC,Gus Henderson,H,Idaho,PCC,Robert Mathews,W,9,0
+1923-10-13,Colorado Mines,RMC,Tim Callahan,N,Colorado College,RMC,Tefler Meade,L,0,18
+1923-10-20,Colorado Mines,RMC,Tim Callahan,H,Utah State,RMC,,L,0,26
+1923-10-27,Colorado Mines,RMC,Tim Callahan,A,Wyoming,RMC,John Corbett,W,20,0
+1923-11-10,Colorado Mines,RMC,Tim Callahan,H,Colorado,RMC,Myron Witham,L,0,47
+1923-11-17,Colorado Mines,RMC,Tim Callahan,H,Colorado State,RMC,Harry Hughes,L,0,14
+1923-11-24,Colorado Mines,RMC,Tim Callahan,A,Denver,RMC,,L,13,21
+1923-10-06,North Carolina State,Southern,Harry Hartsell,A,Penn State,Ind,Hugo Bezdek,L,0,16
+1923-10-13,North Carolina State,Southern,Harry Hartsell,H,South Carolina,Southern,Sol Metzger,W,7,0
+1923-10-18,North Carolina State,Southern,Harry Hartsell,H,North Carolina,Southern,William Fetzer,L,0,14
+1923-10-27,North Carolina State,Southern,Harry Hartsell,A,Virginia Military Institute,Ind,,L,7,22
+1923-11-03,North Carolina State,Southern,Harry Hartsell,N,Davidson,Ind,Monk Younger,W,12,6
+1923-11-10,North Carolina State,Southern,Harry Hartsell,N,Virginia Tech,Southern,B.C. Cubbage,L,0,16
+1923-11-17,North Carolina State,Southern,Harry Hartsell,H,Maryland,Southern,Curley Byrd,L,12,26
+1923-11-24,North Carolina State,Southern,Harry Hartsell,A,Wake Forest,Ind,Hank Garrity,L,0,14
+1923-11-29,North Carolina State,Southern,Harry Hartsell,N,Washington & Lee,Southern,Jimmy DeHart,L,12,20
+1923-10-13,Rutgers,Ind,George Sanford,H,Lehigh,Ind,James Baldwin,W,10,0
+1923-10-27,Rutgers,Ind,George Sanford,A,Lafayette,Ind,Jock Sutherland,T,6,6
+1923-11-06,Rutgers,Ind,George Sanford,H,West Virginia,Ind,,L,7,27
+1923-11-10,Rutgers,Ind,George Sanford,H,Richmond,Ind,Frank Dobson,W,56,0
+1923-11-17,Rutgers,Ind,George Sanford,H,Boston University,Ind,Charles Whelan,W,61,0
+1923-10-13,Michigan,Western,Fielding Yost,H,Vanderbilt,Southern,Dan McGugin,W,3,0
+1923-10-20,Michigan,Western,Fielding Yost,H,Ohio State,Western,John Wilce,W,23,0
+1923-11-03,Michigan,Western,Fielding Yost,A,Iowa,Western,Howard Jones,W,9,3
+1923-11-17,Michigan,Western,Fielding Yost,A,Wisconsin,Western,Jack Ryan,W,6,3
+1923-11-24,Michigan,Western,Fielding Yost,H,Minnesota,Western,William Spaulding,W,10,0
+1923-10-13,Notre Dame,Ind,Knute Rockne,A,Army,Ind,John McEwan,W,13,0
+1923-10-20,Notre Dame,Ind,Knute Rockne,A,Princeton,Ind,,W,25,2
+1923-10-27,Notre Dame,Ind,Knute Rockne,H,Georgia Tech,Southern,William Alexander,W,35,7
+1923-11-03,Notre Dame,Ind,Knute Rockne,H,Purdue,Western,James Phelan,W,34,7
+1923-11-10,Notre Dame,Ind,Knute Rockne,A,Nebraska,MVIAA,Fred Dawson,L,7,14
+1923-11-24,Notre Dame,Ind,Knute Rockne,A,Carnegie Mellon,Ind,Walter Steffen,W,26,0
+1923-10-06,Pitt,Ind,Pop Warner,H,Lafayette,Ind,Jock Sutherland,W,7,0
+1923-10-13,Pitt,Ind,Pop Warner,H,West Virginia,Ind,,L,7,13
+1923-10-20,Pitt,Ind,Pop Warner,N,Syracuse,Ind,Chick Meehan,L,0,3
+1923-10-27,Pitt,Ind,Pop Warner,H,Carnegie Mellon,Ind,Walter Steffen,L,2,7
+1923-11-03,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,Lou Young,L,0,6
+1923-11-17,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,John Heisman,W,13,6
+1923-11-29,Pitt,Ind,Pop Warner,H,Penn State,Ind,Hugo Bezdek,W,20,3
+1923-10-20,Carnegie Mellon,Ind,Walter Steffen,A,Washington & Jefferson,Ind,John Heisman,L,7,9
+1923-10-27,Carnegie Mellon,Ind,Walter Steffen,A,Pitt,Ind,Pop Warner,W,7,2
+1923-11-17,Carnegie Mellon,Ind,Walter Steffen,A,Lehigh,Ind,James Baldwin,L,6,13
+1923-11-24,Carnegie Mellon,Ind,Walter Steffen,H,Notre Dame,Ind,Knute Rockne,L,0,26
+1923-09-29,Mercer,Ind,,A,Georgia,Southern,George Woodruff,L,0,7
+1923-10-06,Mercer,Ind,,H,Furman,Ind,,L,6,13
+1923-10-20,Mercer,Ind,,H,Chattanooga,Ind,Bill McAllester,W,18,3
+1923-11-03,Mercer,Ind,,A,Florida,Southern,J.A. Van Fleet,L,7,19
+1923-11-10,Mercer,Ind,,A,Oglethorpe,Ind,Jim Robertson,L,6,7
+1923-11-17,Mercer,Ind,,A,Mississippi College,Ind,Stanley Robinson,L,0,15
+1923-10-06,Newberry,Ind,Dutch McLean,A,Clemson,Southern,Bud Saunders,L,0,32
+1923-10-13,Newberry,Ind,Dutch McLean,H,Wofford,Ind,Rip Major,L,13,19
+1923-10-19,Newberry,Ind,Dutch McLean,A,South Carolina,Southern,Sol Metzger,L,0,24
+1923-11-03,Newberry,Ind,Dutch McLean,A,Citadel,Ind,Carl Prause,L,7,21
+1923-11-16,Newberry,Ind,Dutch McLean,A,Furman,Ind,,L,0,35
+1923-11-24,Newberry,Ind,Dutch McLean,H,Duke,Ind,S.M. Alexander,L,14,20
+1923-12-01,Newberry,Ind,Dutch McLean,H,Presbyterian,Ind,Walter Johnson,L,0,7
+1923-09-29,Wyoming,RMC,John Corbett,A,Colorado State,RMC,Harry Hughes,L,0,33
+1923-10-06,Wyoming,RMC,John Corbett,H,Colorado College,RMC,Tefler Meade,L,7,34
+1923-10-13,Wyoming,RMC,John Corbett,A,Utah,RMC,Thomas Fitzpatrick,L,0,79
+1923-10-27,Wyoming,RMC,John Corbett,H,Colorado Mines,RMC,Tim Callahan,L,0,20
+1923-11-03,Wyoming,RMC,John Corbett,A,Denver,RMC,,L,0,45
+1923-11-16,Wyoming,RMC,John Corbett,H,Utah State,RMC,,L,6,20
+1923-11-24,Wyoming,RMC,John Corbett,A,Colorado,RMC,Myron Witham,L,3,20
+1923-09-29,Brigham Young,RMC,Alvin Twitchell,H,Montana State,RMC,Ott Romney,W,16,15
+1923-10-07,Brigham Young,RMC,Alvin Twitchell,A,Colorado,RMC,Myron Witham,L,0,41
+1923-10-13,Brigham Young,RMC,Alvin Twitchell,A,Colorado State,RMC,Harry Hughes,L,6,14
+1923-10-27,Brigham Young,RMC,Alvin Twitchell,H,Utah,RMC,Thomas Fitzpatrick,L,0,15
+1923-11-12,Brigham Young,RMC,Alvin Twitchell,A,Utah State,RMC,,L,0,40
+1923-11-24,Brigham Young,RMC,Alvin Twitchell,A,Colorado College,RMC,Tefler Meade,L,6,31
+1923-10-06,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,53,0
+1923-10-13,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,W,40,0
+1923-10-27,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,W,21,0
+1923-11-03,Yale,Ind,Tad Jones,H,Army,Ind,John McEwan,W,31,10
+1923-11-10,Yale,Ind,Tad Jones,H,Maryland,Southern,Curley Byrd,W,16,14
+1923-11-17,Yale,Ind,Tad Jones,H,Princeton,Ind,,W,27,0
+1923-11-24,Yale,Ind,Tad Jones,A,Harvard,Ind,Robert Fisher,W,13,0
+1923-10-13,Grinnell,MVIAA,Mal Elward,H,Washington (MO),MVIAA,Byron Wimberly,W,16,2
+1923-10-27,Grinnell,MVIAA,Mal Elward,H,Drake,MVIAA,Ossie Solem,L,0,41
+1923-11-10,Grinnell,MVIAA,Mal Elward,H,Kansas State,MVIAA,Charlie Bachman,L,7,34
+1923-11-24,Grinnell,MVIAA,Mal Elward,A,Iowa State,MVIAA,Sam Willaman,L,6,13
+1923-09-29,Georgia Tech,Southern,William Alexander,H,Oglethorpe,Ind,Jim Robertson,W,28,13
+1923-10-06,Georgia Tech,Southern,William Alexander,H,Virginia Military Institute,Ind,,W,10,7
+1923-10-13,Georgia Tech,Southern,William Alexander,H,Florida,Southern,J.A. Van Fleet,T,7,7
+1923-10-27,Georgia Tech,Southern,William Alexander,A,Notre Dame,Ind,Knute Rockne,L,7,35
+1923-11-03,Georgia Tech,Southern,William Alexander,H,Alabama,Southern,Wallace Wade,T,0,0
+1923-11-10,Georgia Tech,Southern,William Alexander,A,Penn State,Ind,Hugo Bezdek,L,0,7
+1923-11-17,Georgia Tech,Southern,William Alexander,N,Kentucky,Southern,J.J. Winn,T,3,3
+1923-11-29,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Boozer Pitts,T,0,0
+1923-09-29,Wake Forest,Ind,Hank Garrity,A,North Carolina,Southern,William Fetzer,L,0,22
+1923-10-20,Wake Forest,Ind,Hank Garrity,N,Davidson,Ind,Monk Younger,W,6,0
+1923-10-27,Wake Forest,Ind,Hank Garrity,A,Florida,Southern,J.A. Van Fleet,L,7,16
+1923-11-10,Wake Forest,Ind,Hank Garrity,H,Duke,Ind,S.M. Alexander,W,16,6
+1923-11-24,Wake Forest,Ind,Hank Garrity,H,North Carolina State,Southern,Harry Hartsell,W,14,0
+1923-11-29,Wake Forest,Ind,Hank Garrity,A,South Carolina,Southern,Sol Metzger,L,7,14
+1923-10-20,Mississippi State,Southern,Earl Able,N,Ole Miss,Southern,Roland Cowell,W,13,6
+1923-10-27,Mississippi State,Southern,Earl Able,N,Tennessee,Southern,Mark Banks,L,3,7
+1923-11-03,Mississippi State,Southern,Earl Able,A,Vanderbilt,Southern,Dan McGugin,T,0,0
+1923-11-17,Mississippi State,Southern,Earl Able,A,Illinois,Western,Robert Zuppke,L,0,27
+1923-11-24,Mississippi State,Southern,Earl Able,A,Florida,Southern,J.A. Van Fleet,T,13,13
+1923-12-01,Mississippi State,Southern,Earl Able,H,LSU,Southern,Mike Donahue,W,14,7
+1923-10-06,Virginia Military Institute,Ind,,A,Georgia Tech,Southern,William Alexander,L,7,10
+1923-10-20,Virginia Military Institute,Ind,,A,Virginia,Southern,Greasy Neale,W,35,0
+1923-10-27,Virginia Military Institute,Ind,,H,North Carolina State,Southern,Harry Hartsell,W,22,7
+1923-11-10,Virginia Military Institute,Ind,,H,North Carolina,Southern,William Fetzer,W,9,0
+1923-11-17,Virginia Military Institute,Ind,,A,Tennessee,Southern,Mark Banks,W,33,0
+1923-11-29,Virginia Military Institute,Ind,,N,Virginia Tech,Southern,B.C. Cubbage,W,6,0
+1923-10-20,Kansas State,MVIAA,Charlie Bachman,A,Iowa State,MVIAA,Sam Willaman,T,7,7
+1923-10-27,Kansas State,MVIAA,Charlie Bachman,A,Kansas,MVIAA,Potsy Clark,T,0,0
+1923-11-03,Kansas State,MVIAA,Charlie Bachman,H,Missouri,MVIAA,Gwinn Henry,L,2,4
+1923-11-10,Kansas State,MVIAA,Charlie Bachman,A,Grinnell,MVIAA,Mal Elward,W,34,7
+1923-11-23,Kansas State,MVIAA,Charlie Bachman,H,Oklahoma,MVIAA,Bennie Owen,W,21,20
+1923-11-29,Kansas State,MVIAA,Charlie Bachman,A,Nebraska,MVIAA,Fred Dawson,L,12,34
+1923-10-20,Chattanooga,Ind,Bill McAllester,A,Mercer,Ind,,L,3,18
+1923-11-03,Chattanooga,Ind,Bill McAllester,H,Sewanee,Southern,M.S. Bennett,L,0,26
+1923-11-17,Chattanooga,Ind,Bill McAllester,H,Samford,Ind,Harris Cope,T,0,0
+1923-11-29,Chattanooga,Ind,Bill McAllester,H,Oglethorpe,Ind,Jim Robertson,L,0,12
+1923-09-29,Samford,Ind,Harris Cope,A,Sewanee,Southern,M.S. Bennett,L,2,3
+1923-10-06,Samford,Ind,Harris Cope,A,Vanderbilt,Southern,Dan McGugin,L,0,27
+1923-10-13,Samford,Ind,Harris Cope,A,Auburn,Southern,Boozer Pitts,L,0,30
+1923-10-20,Samford,Ind,Harris Cope,A,Mississippi College,Ind,Stanley Robinson,L,3,7
+1923-11-17,Samford,Ind,Harris Cope,A,Chattanooga,Ind,Bill McAllester,T,0,0
+1923-09-29,Army,Ind,John McEwan,H,Tennessee,Southern,Mark Banks,W,41,0
+1923-10-06,Army,Ind,John McEwan,H,Florida,Southern,J.A. Van Fleet,W,20,0
+1923-10-13,Army,Ind,John McEwan,H,Notre Dame,Ind,Knute Rockne,L,0,13
+1923-10-20,Army,Ind,John McEwan,H,Auburn,Southern,Boozer Pitts,W,28,6
+1923-11-03,Army,Ind,John McEwan,A,Yale,Ind,Tad Jones,L,10,31
+1923-11-24,Army,Ind,John McEwan,H,Navy,Ind,,T,0,0
+1923-10-13,Dartmouth,Ind,Jesse Hawley,H,Boston University,Ind,Charles Whelan,W,24,0
+1923-10-27,Dartmouth,Ind,Jesse Hawley,A,Harvard,Ind,Robert Fisher,W,16,0
+1923-11-03,Dartmouth,Ind,Jesse Hawley,H,Cornell,Ind,Gilmour Dobie,L,7,32
+1923-11-10,Dartmouth,Ind,Jesse Hawley,N,Brown,Ind,Edward Robinson,W,16,14
+1923-11-29,Dartmouth,Ind,Jesse Hawley,A,Columbia,Ind,Percy Haughton,W,31,6
+1923-09-29,Auburn,Southern,Boozer Pitts,A,Clemson,Southern,Bud Saunders,T,0,0
+1923-10-13,Auburn,Southern,Boozer Pitts,H,Samford,Ind,Harris Cope,W,30,0
+1923-10-20,Auburn,Southern,Boozer Pitts,A,Army,Ind,John McEwan,L,6,28
+1923-11-03,Auburn,Southern,Boozer Pitts,N,Georgia,Southern,George Woodruff,L,0,7
+1923-11-10,Auburn,Southern,Boozer Pitts,H,Tulane,Southern,Clark Shaughnessy,T,6,6
+1923-11-17,Auburn,Southern,Boozer Pitts,H,Centre,Ind,Charley Moran,L,0,17
+1923-11-29,Auburn,Southern,Boozer Pitts,A,Georgia Tech,Southern,William Alexander,T,0,0
+1923-10-13,Northwestern,Western,Glenn Thistlethwaite,A,Indiana,Western,William Ingram,L,6,7
+1923-10-20,Northwestern,Western,Glenn Thistlethwaite,A,Chicago,Western,Amos Alonzo Stagg,L,0,13
+1923-10-27,Northwestern,Western,Glenn Thistlethwaite,H,Illinois,Western,Robert Zuppke,L,0,29
+1923-11-03,Northwestern,Western,Glenn Thistlethwaite,A,Minnesota,Western,William Spaulding,L,14,34
+1923-11-17,Northwestern,Western,Glenn Thistlethwaite,A,Purdue,Western,James Phelan,L,3,6
+1923-11-24,Northwestern,Western,Glenn Thistlethwaite,H,Iowa,Western,Howard Jones,L,14,17
+1923-10-13,Kansas,MVIAA,Potsy Clark,H,Oklahoma State,SWC,John Maulbetsch,W,9,0
+1923-10-20,Kansas,MVIAA,Potsy Clark,A,Nebraska,MVIAA,Fred Dawson,T,0,0
+1923-10-27,Kansas,MVIAA,Potsy Clark,H,Kansas State,MVIAA,Charlie Bachman,T,0,0
+1923-11-03,Kansas,MVIAA,Potsy Clark,A,Oklahoma,MVIAA,Bennie Owen,W,7,3
+1923-11-10,Kansas,MVIAA,Potsy Clark,H,Washington (MO),MVIAA,Byron Wimberly,W,83,0
+1923-11-17,Kansas,MVIAA,Potsy Clark,H,Drake,MVIAA,Ossie Solem,W,17,0
+1923-11-29,Kansas,MVIAA,Potsy Clark,H,Missouri,MVIAA,Gwinn Henry,T,3,3
+1923-09-29,William & Mary,Ind,J. Wilder Tasker,A,Navy,Ind,,L,10,39
+1923-10-06,William & Mary,Ind,J. Wilder Tasker,A,Syracuse,Ind,Chick Meehan,L,3,61
+1923-10-20,William & Mary,Ind,J. Wilder Tasker,A,Duke,Ind,S.M. Alexander,W,21,0
+1923-11-29,William & Mary,Ind,J. Wilder Tasker,A,Richmond,Ind,Frank Dobson,W,27,6
+1923-10-20,LSU,Southern,Mike Donahue,H,Texas A&M,SWC,Dana Bible,L,0,28
+1923-10-27,LSU,Southern,Mike Donahue,N,Arkansas,SWC,Francis Schmidt,L,13,26
+1923-11-02,LSU,Southern,Mike Donahue,A,Mississippi College,Ind,Stanley Robinson,T,0,0
+1923-11-16,LSU,Southern,Mike Donahue,A,Alabama,Southern,Wallace Wade,L,3,30
+1923-11-24,LSU,Southern,Mike Donahue,A,Tulane,Southern,Clark Shaughnessy,L,0,20
+1923-12-01,LSU,Southern,Mike Donahue,A,Mississippi State,Southern,Earl Able,L,7,14
+1923-10-06,Pennsylvania,Ind,Lou Young,H,Maryland,Southern,Curley Byrd,L,0,3
+1923-10-20,Pennsylvania,Ind,Lou Young,H,Columbia,Ind,Percy Haughton,W,19,7
+1923-10-27,Pennsylvania,Ind,Lou Young,H,Centre,Ind,Charley Moran,W,24,0
+1923-11-03,Pennsylvania,Ind,Lou Young,H,Pitt,Ind,Pop Warner,W,6,0
+1923-11-10,Pennsylvania,Ind,Lou Young,H,Lafayette,Ind,Jock Sutherland,L,6,8
+1923-11-17,Pennsylvania,Ind,Lou Young,H,Penn State,Ind,Hugo Bezdek,L,0,21
+1923-11-29,Pennsylvania,Ind,Lou Young,H,Cornell,Ind,Gilmour Dobie,L,7,14
+1923-09-29,Iowa,Western,Howard Jones,H,Oklahoma State,SWC,John Maulbetsch,W,20,0
+1923-10-13,Iowa,Western,Howard Jones,H,Purdue,Western,James Phelan,W,7,0
+1923-10-20,Iowa,Western,Howard Jones,H,Illinois,Western,Robert Zuppke,L,6,9
+1923-10-27,Iowa,Western,Howard Jones,A,Ohio State,Western,John Wilce,W,20,0
+1923-11-03,Iowa,Western,Howard Jones,H,Michigan,Western,Fielding Yost,L,3,9
+1923-11-17,Iowa,Western,Howard Jones,A,Minnesota,Western,William Spaulding,L,7,20
+1923-11-24,Iowa,Western,Howard Jones,A,Northwestern,Western,Glenn Thistlethwaite,W,17,14
+1923-10-20,Columbia,Ind,Percy Haughton,A,Pennsylvania,Ind,Lou Young,L,7,19
+1923-11-10,Columbia,Ind,Percy Haughton,H,Cornell,Ind,Gilmour Dobie,L,0,35
+1923-11-29,Columbia,Ind,Percy Haughton,H,Dartmouth,Ind,Jesse Hawley,L,6,31
+1923-10-13,Texas,SWC,Edward Stewart,N,Tulane,Southern,Clark Shaughnessy,W,33,0
+1923-10-20,Texas,SWC,Edward Stewart,H,Vanderbilt,Southern,Dan McGugin,W,16,0
+1923-11-03,Texas,SWC,Edward Stewart,H,Rice,SWC,Phillip Arbuckle,W,27,0
+1923-11-10,Texas,SWC,Edward Stewart,A,Baylor,SWC,Frank Bridges,T,7,7
+1923-11-17,Texas,SWC,Edward Stewart,H,Oklahoma,MVIAA,Bennie Owen,W,26,14
+1923-11-29,Texas,SWC,Edward Stewart,A,Texas A&M,SWC,Dana Bible,W,6,0
+1923-10-06,Texas Christian,SWC,Madison Bell,A,Oklahoma State,SWC,John Maulbetsch,W,7,6
+1923-11-04,Texas Christian,SWC,Madison Bell,A,SMU,SWC,Ray Morrison,L,0,40
+1923-11-29,Texas Christian,SWC,Madison Bell,A,Rice,SWC,Phillip Arbuckle,W,6,0
+1923-10-06,Richmond,Ind,Frank Dobson,A,Virginia,Southern,Greasy Neale,L,0,9
+1923-10-13,Richmond,Ind,Frank Dobson,N,Maryland,Southern,Curley Byrd,L,0,23
+1923-10-27,Richmond,Ind,Frank Dobson,H,Furman,Ind,,L,7,22
+1923-11-10,Richmond,Ind,Frank Dobson,A,Rutgers,Ind,George Sanford,L,0,56
+1923-11-29,Richmond,Ind,Frank Dobson,H,William & Mary,Ind,J. Wilder Tasker,L,6,27
+1923-10-18,Oregon,PCC,Shy Huntington,A,Whitman,Ind,,W,21,0
+1923-10-27,Oregon,PCC,Shy Huntington,A,Idaho,PCC,Robert Mathews,T,0,0
+1923-11-03,Oregon,PCC,Shy Huntington,A,Washington State,PCC,Albert Exendine,L,7,13
+1923-11-10,Oregon,PCC,Shy Huntington,H,Stanford,PCC,Andrew Kerr,L,3,14
+1923-11-25,Oregon,PCC,Shy Huntington,H,Oregon State,PCC,R.B. Rutherford,L,0,6
+1923-12-01,Oregon,PCC,Shy Huntington,A,Washington,PCC,Enoch Bagshaw,L,7,26
+1923-10-13,Brown,Ind,Edward Robinson,A,Washington & Jefferson,Ind,John Heisman,L,7,12
+1923-10-20,Brown,Ind,Edward Robinson,H,Boston University,Ind,Charles Whelan,W,20,3
+1923-10-27,Brown,Ind,Edward Robinson,A,Yale,Ind,Tad Jones,L,0,21
+1923-11-10,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,Jesse Hawley,L,14,16
+1923-11-17,Brown,Ind,Edward Robinson,A,Harvard,Ind,Robert Fisher,W,20,7
+1923-12-01,Brown,Ind,Edward Robinson,H,Lehigh,Ind,James Baldwin,L,6,12
+1923-09-29,Tennessee,Southern,Mark Banks,A,Army,Ind,John McEwan,L,0,41
+1923-10-20,Tennessee,Southern,Mark Banks,H,Georgia,Southern,George Woodruff,L,0,17
+1923-10-27,Tennessee,Southern,Mark Banks,N,Mississippi State,Southern,Earl Able,W,7,3
+1923-11-03,Tennessee,Southern,Mark Banks,H,Tulane,Southern,Clark Shaughnessy,W,13,2
+1923-11-10,Tennessee,Southern,Mark Banks,A,Vanderbilt,Southern,Dan McGugin,L,7,51
+1923-11-17,Tennessee,Southern,Mark Banks,H,Virginia Military Institute,Ind,,L,0,33
+1923-11-24,Tennessee,Southern,Mark Banks,H,Ole Miss,Southern,Roland Cowell,W,10,0
+1923-11-29,Tennessee,Southern,Mark Banks,A,Kentucky,Southern,J.J. Winn,W,18,0
+1923-10-13,Lehigh,Ind,James Baldwin,A,Rutgers,Ind,George Sanford,L,0,10
+1923-11-17,Lehigh,Ind,James Baldwin,H,Carnegie Mellon,Ind,Walter Steffen,W,13,6
+1923-11-24,Lehigh,Ind,James Baldwin,H,Lafayette,Ind,Jock Sutherland,L,3,13
+1923-12-01,Lehigh,Ind,James Baldwin,A,Brown,Ind,Edward Robinson,W,12,6
+1923-10-20,Oregon State,PCC,R.B. Rutherford,A,California,PCC,Andy Smith,L,0,26
+1923-11-03,Oregon State,PCC,R.B. Rutherford,H,Washington,PCC,Enoch Bagshaw,L,0,14
+1923-11-10,Oregon State,PCC,R.B. Rutherford,A,Idaho,PCC,Robert Mathews,L,0,7
+1923-11-17,Oregon State,PCC,R.B. Rutherford,A,Washington State,PCC,Albert Exendine,T,3,3
+1923-11-25,Oregon State,PCC,R.B. Rutherford,A,Oregon,PCC,Shy Huntington,W,6,0
+1923-10-06,Alabama,Southern,Wallace Wade,H,Ole Miss,Southern,Roland Cowell,W,56,0
+1923-10-13,Alabama,Southern,Wallace Wade,A,Syracuse,Ind,Chick Meehan,L,0,23
+1923-10-20,Alabama,Southern,Wallace Wade,H,Sewanee,Southern,M.S. Bennett,W,7,0
+1923-11-03,Alabama,Southern,Wallace Wade,A,Georgia Tech,Southern,William Alexander,T,0,0
+1923-11-10,Alabama,Southern,Wallace Wade,H,Kentucky,Southern,J.J. Winn,W,16,8
+1923-11-16,Alabama,Southern,Wallace Wade,H,LSU,Southern,Mike Donahue,W,30,3
+1923-11-24,Alabama,Southern,Wallace Wade,H,Georgia,Southern,George Woodruff,W,36,0
+1923-11-29,Alabama,Southern,Wallace Wade,H,Florida,Southern,J.A. Van Fleet,L,6,16
+1923-10-13,Purdue,Western,James Phelan,A,Iowa,Western,Howard Jones,L,0,7
+1923-10-27,Purdue,Western,James Phelan,A,Chicago,Western,Amos Alonzo Stagg,L,6,20
+1923-11-03,Purdue,Western,James Phelan,A,Notre Dame,Ind,Knute Rockne,L,7,34
+1923-11-10,Purdue,Western,James Phelan,H,Ohio State,Western,John Wilce,L,0,32
+1923-11-17,Purdue,Western,James Phelan,H,Northwestern,Western,Glenn Thistlethwaite,W,6,3
+1923-11-24,Purdue,Western,James Phelan,A,Indiana,Western,William Ingram,L,0,3
+1923-10-06,Nebraska,MVIAA,Fred Dawson,A,Illinois,Western,Robert Zuppke,L,7,24
+1923-10-13,Nebraska,MVIAA,Fred Dawson,H,Oklahoma,MVIAA,Bennie Owen,W,24,0
+1923-10-20,Nebraska,MVIAA,Fred Dawson,H,Kansas,MVIAA,Potsy Clark,T,0,0
+1923-10-27,Nebraska,MVIAA,Fred Dawson,A,Missouri,MVIAA,Gwinn Henry,T,7,7
+1923-11-10,Nebraska,MVIAA,Fred Dawson,H,Notre Dame,Ind,Knute Rockne,W,14,7
+1923-11-17,Nebraska,MVIAA,Fred Dawson,A,Iowa State,MVIAA,Sam Willaman,W,26,14
+1923-11-24,Nebraska,MVIAA,Fred Dawson,H,Syracuse,Ind,Chick Meehan,L,0,7
+1923-11-29,Nebraska,MVIAA,Fred Dawson,H,Kansas State,MVIAA,Charlie Bachman,W,34,12
+1923-10-13,West Virginia,Ind,,A,Pitt,Ind,Pop Warner,W,13,7
+1923-10-27,West Virginia,Ind,,N,Penn State,Ind,Hugo Bezdek,T,13,13
+1923-11-06,West Virginia,Ind,,A,Rutgers,Ind,George Sanford,W,27,7
+1923-11-10,West Virginia,Ind,,N,Washington & Lee,Southern,Jimmy DeHart,W,63,0
+1923-11-29,West Virginia,Ind,,H,Washington & Jefferson,Ind,John Heisman,L,2,7
+1923-10-27,Harvard,Ind,Robert Fisher,H,Dartmouth,Ind,Jesse Hawley,L,0,16
+1923-11-10,Harvard,Ind,Robert Fisher,A,Princeton,Ind,,W,5,0
+1923-11-17,Harvard,Ind,Robert Fisher,H,Brown,Ind,Edward Robinson,L,7,20
+1923-11-24,Harvard,Ind,Robert Fisher,H,Yale,Ind,Tad Jones,L,0,13
+1923-09-29,Oklahoma State,SWC,John Maulbetsch,A,Iowa,Western,Howard Jones,L,0,20
+1923-10-06,Oklahoma State,SWC,John Maulbetsch,H,Texas Christian,SWC,Madison Bell,L,6,7
+1923-10-13,Oklahoma State,SWC,John Maulbetsch,A,Kansas,MVIAA,Potsy Clark,L,0,9
+1923-10-20,Oklahoma State,SWC,John Maulbetsch,A,Rice,SWC,Phillip Arbuckle,W,13,0
+1923-10-27,Oklahoma State,SWC,John Maulbetsch,A,Oklahoma,MVIAA,Bennie Owen,L,0,12
+1923-11-17,Oklahoma State,SWC,John Maulbetsch,A,SMU,SWC,Ray Morrison,L,0,9
+1923-12-01,Oklahoma State,SWC,John Maulbetsch,A,Arkansas,SWC,Francis Schmidt,L,0,13
+1923-10-07,Colorado,RMC,Myron Witham,H,Brigham Young,RMC,Alvin Twitchell,W,41,0
+1923-10-21,Colorado,RMC,Myron Witham,H,Northern Colorado,RMC,George Cooper,W,60,0
+1923-10-27,Colorado,RMC,Myron Witham,A,Denver,RMC,,W,21,7
+1923-11-03,Colorado,RMC,Myron Witham,H,Colorado College,RMC,Tefler Meade,W,17,7
+1923-11-10,Colorado,RMC,Myron Witham,A,Colorado Mines,RMC,Tim Callahan,W,47,0
+1923-11-17,Colorado,RMC,Myron Witham,A,Utah,RMC,Thomas Fitzpatrick,W,17,7
+1923-11-24,Colorado,RMC,Myron Witham,H,Wyoming,RMC,John Corbett,W,20,3
+1923-11-28,Colorado,RMC,Myron Witham,A,Colorado State,RMC,Harry Hughes,W,6,3
+1923-09-29,Oglethorpe,Ind,Jim Robertson,A,Georgia Tech,Southern,William Alexander,L,13,28
+1923-10-06,Oglethorpe,Ind,Jim Robertson,A,Georgia,Southern,George Woodruff,L,6,20
+1923-10-20,Oglethorpe,Ind,Jim Robertson,A,Centre,Ind,Charley Moran,L,0,29
+1923-10-27,Oglethorpe,Ind,Jim Robertson,H,Sewanee,Southern,M.S. Bennett,L,0,13
+1923-11-01,Oglethorpe,Ind,Jim Robertson,A,Wofford,Ind,Rip Major,W,32,0
+1923-11-03,Oglethorpe,Ind,Jim Robertson,A,Furman,Ind,,L,0,29
+1923-11-10,Oglethorpe,Ind,Jim Robertson,H,Mercer,Ind,,W,7,6
+1923-11-29,Oglethorpe,Ind,Jim Robertson,A,Chattanooga,Ind,Bill McAllester,W,12,0
+1923-09-29,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Corbett,W,33,0
+1923-10-06,Colorado State,RMC,Harry Hughes,A,Chicago,Western,Amos Alonzo Stagg,L,0,10
+1923-10-13,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,Alvin Twitchell,W,14,6
+1923-10-20,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,Tefler Meade,T,6,6
+1923-10-27,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,26,7
+1923-11-10,Colorado State,RMC,Harry Hughes,H,Denver,RMC,,W,25,0
+1923-11-17,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,Tim Callahan,W,14,0
+1923-11-28,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Myron Witham,L,3,6
+1923-10-13,Rice,SWC,Phillip Arbuckle,A,Arkansas,SWC,Francis Schmidt,L,0,23
+1923-10-20,Rice,SWC,Phillip Arbuckle,H,Oklahoma State,SWC,John Maulbetsch,L,0,13
+1923-11-03,Rice,SWC,Phillip Arbuckle,A,Texas,SWC,Edward Stewart,L,0,27
+1923-11-17,Rice,SWC,Phillip Arbuckle,H,Texas A&M,SWC,Dana Bible,W,7,6
+1923-11-29,Rice,SWC,Phillip Arbuckle,H,Texas Christian,SWC,Madison Bell,L,0,6
+1923-10-13,Texas A&M,SWC,Dana Bible,H,Sewanee,Southern,M.S. Bennett,W,14,0
+1923-10-20,Texas A&M,SWC,Dana Bible,A,LSU,Southern,Mike Donahue,W,28,0
+1923-10-26,Texas A&M,SWC,Dana Bible,H,SMU,SWC,Ray Morrison,L,0,10
+1923-11-03,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Frank Bridges,T,0,0
+1923-11-17,Texas A&M,SWC,Dana Bible,A,Rice,SWC,Phillip Arbuckle,L,6,7
+1923-11-29,Texas A&M,SWC,Dana Bible,H,Texas,SWC,Edward Stewart,L,0,6
+1923-09-29,Davidson,Ind,Monk Younger,A,Presbyterian,Ind,Walter Johnson,W,3,0
+1923-10-06,Davidson,Ind,Monk Younger,A,Virginia Tech,Southern,B.C. Cubbage,L,0,7
+1923-10-13,Davidson,Ind,Monk Younger,H,Citadel,Ind,Carl Prause,W,7,0
+1923-10-20,Davidson,Ind,Monk Younger,N,Wake Forest,Ind,Hank Garrity,L,0,6
+1923-10-24,Davidson,Ind,Monk Younger,N,Furman,Ind,,L,0,30
+1923-11-03,Davidson,Ind,Monk Younger,N,North Carolina State,Southern,Harry Hartsell,L,6,12
+1923-11-09,Davidson,Ind,Monk Younger,A,Clemson,Southern,Bud Saunders,L,0,12
+1923-11-17,Davidson,Ind,Monk Younger,A,North Carolina,Southern,William Fetzer,L,3,14
+1923-12-01,Davidson,Ind,Monk Younger,N,Duke,Ind,S.M. Alexander,L,6,18
+1923-10-13,Washington (MO),MVIAA,Byron Wimberly,A,Grinnell,MVIAA,Mal Elward,L,2,16
+1923-10-20,Washington (MO),MVIAA,Byron Wimberly,A,Oklahoma,MVIAA,Bennie Owen,L,7,62
+1923-10-27,Washington (MO),MVIAA,Byron Wimberly,H,Iowa State,MVIAA,Sam Willaman,L,7,54
+1923-11-10,Washington (MO),MVIAA,Byron Wimberly,A,Kansas,MVIAA,Potsy Clark,L,0,83
+1923-11-17,Washington (MO),MVIAA,Byron Wimberly,H,Missouri,MVIAA,Gwinn Henry,W,13,7
+1923-11-29,Washington (MO),MVIAA,Byron Wimberly,A,Tulane,Southern,Clark Shaughnessy,L,8,19
+1923-10-06,Chicago,Western,Amos Alonzo Stagg,H,Colorado State,RMC,Harry Hughes,W,10,0
+1923-10-20,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Glenn Thistlethwaite,W,13,0
+1923-10-27,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,James Phelan,W,20,6
+1923-11-03,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,L,0,7
+1923-11-10,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,William Ingram,W,27,0
+1923-11-17,Chicago,Western,Amos Alonzo Stagg,H,Ohio State,Western,John Wilce,W,17,3
+1923-11-24,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Jack Ryan,W,13,6
+1923-10-13,Colgate,Ind,Dick Harlow,A,Ohio State,Western,John Wilce,T,23,23
+1923-10-20,Colgate,Ind,Dick Harlow,A,Cornell,Ind,Gilmour Dobie,L,7,34
+1923-11-03,Colgate,Ind,Dick Harlow,A,Navy,Ind,,L,0,9
+1923-11-17,Colgate,Ind,Dick Harlow,A,Syracuse,Ind,Chick Meehan,W,16,7
+1923-10-06,Minnesota,Western,William Spaulding,H,Iowa State,MVIAA,Sam Willaman,W,20,17
+1923-10-27,Minnesota,Western,William Spaulding,A,Wisconsin,Western,Jack Ryan,T,0,0
+1923-11-03,Minnesota,Western,William Spaulding,H,Northwestern,Western,Glenn Thistlethwaite,W,34,14
+1923-11-17,Minnesota,Western,William Spaulding,H,Iowa,Western,Howard Jones,W,20,7
+1923-11-24,Minnesota,Western,William Spaulding,A,Michigan,Western,Fielding Yost,L,0,10
+1923-10-06,Ole Miss,Southern,Roland Cowell,A,Alabama,Southern,Wallace Wade,L,0,56
+1923-10-20,Ole Miss,Southern,Roland Cowell,N,Mississippi State,Southern,Earl Able,L,6,13
+1923-11-10,Ole Miss,Southern,Roland Cowell,N,Mississippi College,Ind,Stanley Robinson,L,0,6
+1923-11-17,Ole Miss,Southern,Roland Cowell,A,Tulane,Southern,Clark Shaughnessy,L,0,19
+1923-11-24,Ole Miss,Southern,Roland Cowell,A,Tennessee,Southern,Mark Banks,L,0,10
+1923-10-12,Duke,Ind,S.M. Alexander,H,North Carolina,Southern,William Fetzer,L,6,14
+1923-10-20,Duke,Ind,S.M. Alexander,H,William & Mary,Ind,J. Wilder Tasker,L,0,21
+1923-10-27,Duke,Ind,S.M. Alexander,A,Virginia,Southern,Greasy Neale,L,0,33
+1923-11-10,Duke,Ind,S.M. Alexander,A,Wake Forest,Ind,Hank Garrity,L,6,16
+1923-11-24,Duke,Ind,S.M. Alexander,A,Newberry,Ind,Dutch McLean,W,20,14
+1923-12-01,Duke,Ind,S.M. Alexander,N,Davidson,Ind,Monk Younger,W,18,6
+1923-09-29,Sewanee,Southern,M.S. Bennett,H,Samford,Ind,Harris Cope,W,3,2
+1923-10-13,Sewanee,Southern,M.S. Bennett,A,Texas A&M,SWC,Dana Bible,L,0,14
+1923-10-20,Sewanee,Southern,M.S. Bennett,A,Alabama,Southern,Wallace Wade,L,0,7
+1923-10-27,Sewanee,Southern,M.S. Bennett,A,Oglethorpe,Ind,Jim Robertson,W,13,0
+1923-11-03,Sewanee,Southern,M.S. Bennett,A,Chattanooga,Ind,Bill McAllester,W,26,0
+1923-11-10,Sewanee,Southern,M.S. Bennett,H,Centre,Ind,Charley Moran,L,6,20
+1923-11-24,Sewanee,Southern,M.S. Bennett,A,Vanderbilt,Southern,Dan McGugin,L,0,7
+1923-10-13,Centre,Ind,Charley Moran,H,Clemson,Southern,Bud Saunders,W,28,7
+1923-10-20,Centre,Ind,Charley Moran,H,Oglethorpe,Ind,Jim Robertson,W,29,0
+1923-10-27,Centre,Ind,Charley Moran,A,Pennsylvania,Ind,Lou Young,L,0,24
+1923-11-03,Centre,Ind,Charley Moran,H,Kentucky,Southern,J.J. Winn,W,10,0
+1923-11-10,Centre,Ind,Charley Moran,A,Sewanee,Southern,M.S. Bennett,W,20,6
+1923-11-17,Centre,Ind,Charley Moran,A,Auburn,Southern,Boozer Pitts,W,17,0
+1923-11-24,Centre,Ind,Charley Moran,H,Washington & Lee,Southern,Jimmy DeHart,W,19,0
+1923-12-01,Centre,Ind,Charley Moran,A,Georgia,Southern,George Woodruff,T,3,3
+1923-09-29,Navy,Ind,,H,William & Mary,Ind,J. Wilder Tasker,W,39,10
+1923-10-20,Navy,Ind,,A,Penn State,Ind,Hugo Bezdek,L,3,21
+1923-10-27,Navy,Ind,,H,Princeton,Ind,,T,3,3
+1923-11-03,Navy,Ind,,H,Colgate,Ind,Dick Harlow,W,9,0
+1923-11-24,Navy,Ind,,A,Army,Ind,John McEwan,T,0,0
+1924-01-01,Navy,Ind,,N,Washington,PCC,Enoch Bagshaw,T,14,14
+1923-10-06,Lafayette,Ind,Jock Sutherland,A,Pitt,Ind,Pop Warner,L,0,7
+1923-10-27,Lafayette,Ind,Jock Sutherland,H,Rutgers,Ind,George Sanford,T,6,6
+1923-11-03,Lafayette,Ind,Jock Sutherland,N,Washington & Jefferson,Ind,John Heisman,T,6,6
+1923-11-10,Lafayette,Ind,Jock Sutherland,A,Pennsylvania,Ind,Lou Young,W,8,6
+1923-11-24,Lafayette,Ind,Jock Sutherland,A,Lehigh,Ind,James Baldwin,W,13,3
+1923-10-06,Tulane,Southern,Clark Shaughnessy,H,Mississippi College,Ind,Stanley Robinson,W,18,3
+1923-10-13,Tulane,Southern,Clark Shaughnessy,N,Texas,SWC,Edward Stewart,L,0,33
+1923-10-27,Tulane,Southern,Clark Shaughnessy,A,Vanderbilt,Southern,Dan McGugin,L,0,17
+1923-11-03,Tulane,Southern,Clark Shaughnessy,A,Tennessee,Southern,Mark Banks,L,2,13
+1923-11-10,Tulane,Southern,Clark Shaughnessy,A,Auburn,Southern,Boozer Pitts,T,6,6
+1923-11-17,Tulane,Southern,Clark Shaughnessy,H,Ole Miss,Southern,Roland Cowell,W,19,0
+1923-11-24,Tulane,Southern,Clark Shaughnessy,H,LSU,Southern,Mike Donahue,W,20,0
+1923-11-29,Tulane,Southern,Clark Shaughnessy,H,Washington (MO),MVIAA,Byron Wimberly,W,19,8
+1923-10-20,Cornell,Ind,Gilmour Dobie,H,Colgate,Ind,Dick Harlow,W,34,7
+1923-11-03,Cornell,Ind,Gilmour Dobie,A,Dartmouth,Ind,Jesse Hawley,W,32,7
+1923-11-10,Cornell,Ind,Gilmour Dobie,A,Columbia,Ind,Percy Haughton,W,35,0
+1923-11-29,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Lou Young,W,14,7
+1923-10-13,Ohio State,Western,John Wilce,H,Colgate,Ind,Dick Harlow,T,23,23
+1923-10-20,Ohio State,Western,John Wilce,A,Michigan,Western,Fielding Yost,L,0,23
+1923-10-27,Ohio State,Western,John Wilce,H,Iowa,Western,Howard Jones,L,0,20
+1923-11-10,Ohio State,Western,John Wilce,A,Purdue,Western,James Phelan,W,32,0
+1923-11-17,Ohio State,Western,John Wilce,A,Chicago,Western,Amos Alonzo Stagg,L,3,17
+1923-11-24,Ohio State,Western,John Wilce,H,Illinois,Western,Robert Zuppke,L,0,9
+1923-10-27,Drake,MVIAA,Ossie Solem,A,Grinnell,MVIAA,Mal Elward,W,41,0
+1923-11-03,Drake,MVIAA,Ossie Solem,H,Iowa State,MVIAA,Sam Willaman,W,21,0
+1923-11-17,Drake,MVIAA,Ossie Solem,A,Kansas,MVIAA,Potsy Clark,L,0,17
+1923-11-29,Drake,MVIAA,Ossie Solem,A,Oklahoma,MVIAA,Bennie Owen,W,26,20

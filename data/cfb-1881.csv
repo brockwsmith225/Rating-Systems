@@ -1,0 +1,51 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1881-10-31,Harvard,Ind,Lucius Littauer,H,Michigan,Ind,,W,1,0
+1881-11-02,Harvard,Ind,Lucius Littauer,N,Pennsylvania,Ind,,W,2,0
+1881-11-05,Harvard,Ind,Lucius Littauer,H,Columbia,Ind,,W,1,0
+1881-11-12,Harvard,Ind,Lucius Littauer,A,Yale,Ind,,L,0,1
+1881-11-19,Harvard,Ind,Lucius Littauer,N,Princeton,Ind,,T,0,0
+1881-10-31,Columbia,Ind,,A,Stevens,Ind,,W,3,1
+1881-11-05,Columbia,Ind,,A,Harvard,Ind,Lucius Littauer,L,0,1
+1881-11-08,Columbia,Ind,,A,Rutgers,Ind,,T,0,0
+1881-11-12,Columbia,Ind,,A,Princeton,Ind,,L,0,1
+1881-11-16,Columbia,Ind,,H,Yale,Ind,,L,0,1
+1881-11-23,Columbia,Ind,,H,Rutgers,Ind,,W,1,0
+1881-11-26,Columbia,Ind,,A,Pennsylvania,Ind,,W,2,0
+1881-10-29,Amherst,Ind,,H,Yale,Ind,,L,0,2
+1881-11-05,Amherst,Ind,,A,Yale,Ind,,L,0,4
+1881-11-12,Amherst,Ind,,H,Dartmouth,Ind,,L,0,1
+1881-11-19,Amherst,Ind,,H,Dartmouth,Ind,,T,0,0
+1881-11-12,Dartmouth,Ind,,A,Amherst,Ind,,W,1,0
+1881-11-19,Dartmouth,Ind,,A,Amherst,Ind,,T,0,0
+1881-10-15,Princeton,Ind,,H,Rutgers,Ind,,W,3,0
+1881-10-22,Princeton,Ind,,H,Stevens,Ind,,W,7,0
+1881-10-29,Princeton,Ind,,A,Pennsylvania,Ind,,W,7,0
+1881-11-04,Princeton,Ind,,H,Michigan,Ind,,W,1,0
+1881-11-05,Princeton,Ind,,H,Pennsylvania,Ind,,W,4,0
+1881-11-10,Princeton,Ind,,A,Rutgers,Ind,,W,1,0
+1881-11-12,Princeton,Ind,,H,Columbia,Ind,,W,1,0
+1881-11-19,Princeton,Ind,,N,Harvard,Ind,Lucius Littauer,T,0,0
+1881-11-24,Princeton,Ind,,N,Yale,Ind,,T,0,0
+1881-10-22,Stevens,Ind,,A,Princeton,Ind,,L,0,7
+1881-10-31,Stevens,Ind,,H,Columbia,Ind,,L,1,3
+1881-11-03,Stevens,Ind,,H,Rutgers,Ind,,W,1,0
+1881-10-15,Rutgers,Ind,,A,Princeton,Ind,,L,0,3
+1881-11-03,Rutgers,Ind,,A,Stevens,Ind,,L,0,1
+1881-11-08,Rutgers,Ind,,H,Columbia,Ind,,T,0,0
+1881-11-10,Rutgers,Ind,,H,Princeton,Ind,,L,0,1
+1881-11-19,Rutgers,Ind,,A,Pennsylvania,Ind,,W,2,1
+1881-11-23,Rutgers,Ind,,A,Columbia,Ind,,L,0,1
+1881-10-29,Yale,Ind,,A,Amherst,Ind,,W,2,0
+1881-11-02,Yale,Ind,,H,Michigan,Ind,,W,2,0
+1881-11-05,Yale,Ind,,H,Amherst,Ind,,W,4,0
+1881-11-12,Yale,Ind,,H,Harvard,Ind,Lucius Littauer,W,1,0
+1881-11-16,Yale,Ind,,A,Columbia,Ind,,W,1,0
+1881-11-24,Yale,Ind,,N,Princeton,Ind,,T,0,0
+1881-10-31,Michigan,Ind,,A,Harvard,Ind,Lucius Littauer,L,0,1
+1881-11-02,Michigan,Ind,,A,Yale,Ind,,L,0,2
+1881-11-04,Michigan,Ind,,A,Princeton,Ind,,L,0,1
+1881-10-29,Pennsylvania,Ind,,H,Princeton,Ind,,L,0,7
+1881-11-02,Pennsylvania,Ind,,N,Harvard,Ind,Lucius Littauer,L,0,2
+1881-11-05,Pennsylvania,Ind,,A,Princeton,Ind,,L,0,4
+1881-11-19,Pennsylvania,Ind,,H,Rutgers,Ind,,L,1,2
+1881-11-26,Pennsylvania,Ind,,H,Columbia,Ind,,L,0,2

@@ -1,0 +1,373 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1911-10-07,North Carolina,Ind,Branch Bocock,H,Wake Forest,Ind,Frank Thompson,W,12,3
+1911-10-21,North Carolina,Ind,Branch Bocock,N,Davidson,Ind,E.W. Holladay,W,5,0
+1911-11-04,North Carolina,Ind,Branch Bocock,A,Virginia Tech,Ind,L.W. Reiss,T,0,0
+1911-11-11,North Carolina,Ind,Branch Bocock,H,South Carolina,Ind,John Neff,W,21,0
+1911-11-18,North Carolina,Ind,Branch Bocock,N,Washington & Lee,Ind,J.W.H. Pollard,W,4,0
+1911-11-30,North Carolina,Ind,Branch Bocock,A,Virginia,Ind,Kemper Yancey,L,0,28
+1911-10-07,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,6,23
+1911-10-21,Indiana,Western,James Sheldon,A,Northwestern,Western,Charles Hammett,L,0,5
+1911-10-28,Indiana,Western,James Sheldon,H,Washington (MO),MVIAA,Francis Cayou,W,12,0
+1911-11-11,Indiana,Western,James Sheldon,H,Illinois,Western,Arthur Hall,T,0,0
+1911-11-25,Indiana,Western,James Sheldon,H,Purdue,Western,M.H. Horr,L,5,12
+1911-10-07,Wyoming,RMC,H.I. Dean,A,Colorado College,RMC,C.J. Rothget,L,9,29
+1911-10-21,Wyoming,RMC,H.I. Dean,H,Colorado Mines,RMC, Stuart,W,5,0
+1911-10-28,Wyoming,RMC,H.I. Dean,A,Colorado,RMC,Fred Folsom,L,3,18
+1911-11-18,Wyoming,RMC,H.I. Dean,H,Denver,RMC,Tom Berry,L,0,6
+1911-11-30,Wyoming,RMC,H.I. Dean,A,Colorado State,RMC,Harry Hughes,W,27,0
+1911-10-07,Yale,Ind,John Field,H,Syracuse,Ind,,W,12,0
+1911-10-14,Yale,Ind,John Field,H,Virginia Tech,Ind,L.W. Reiss,W,33,0
+1911-10-21,Yale,Ind,John Field,A,Army,Ind,Joseph Beacham,L,0,6
+1911-10-28,Yale,Ind,John Field,H,Colgate,Ind,Jack Ingersoll,W,23,0
+1911-11-11,Yale,Ind,John Field,H,Brown,Ind,Edward Robinson,W,15,0
+1911-11-18,Yale,Ind,John Field,H,Princeton,Ind,,L,3,6
+1911-11-25,Yale,Ind,John Field,A,Harvard,Ind,Percy Haughton,T,0,0
+1911-09-30,Iowa State,MVIAA,,A,Minnesota,Western,Henry Williams,L,0,5
+1911-10-21,Iowa State,MVIAA,,H,Missouri,MVIAA,,W,6,3
+1911-11-04,Iowa State,MVIAA,,H,Nebraska,MVIAA,Jumbo Stiehm,T,6,6
+1911-11-18,Iowa State,MVIAA,,A,Iowa,Western,Jesse Hawley,W,9,0
+1911-11-25,Iowa State,MVIAA,,A,Drake,MVIAA,John Griffith,W,6,0
+1911-10-14,Carlisle,Ind,Pop Warner,A,Georgetown,Ind,Fred Neilson,W,28,5
+1911-10-21,Carlisle,Ind,Pop Warner,A,Pitt,Ind,Joseph Thompson,W,17,0
+1911-10-28,Carlisle,Ind,Pop Warner,A,Lafayette,Ind,Samuel Newton,W,19,0
+1911-11-04,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,,W,16,0
+1911-11-11,Carlisle,Ind,Pop Warner,A,Harvard,Ind,Percy Haughton,W,18,15
+1911-11-18,Carlisle,Ind,Pop Warner,A,Syracuse,Ind,,L,11,12
+1911-11-30,Carlisle,Ind,Pop Warner,A,Brown,Ind,Edward Robinson,W,12,6
+1911-10-07,Utah,RMC,Fred Bennion,H,Colorado State,RMC,Harry Hughes,W,51,0
+1911-10-14,Utah,RMC,Fred Bennion,A,Denver,RMC,Tom Berry,T,0,0
+1911-11-04,Utah,RMC,Fred Bennion,H,Colorado Mines,RMC, Stuart,W,15,0
+1911-11-11,Utah,RMC,Fred Bennion,A,Colorado College,RMC,C.J. Rothget,W,18,6
+1911-11-18,Utah,RMC,Fred Bennion,H,Colorado,RMC,Fred Folsom,L,0,9
+1911-10-07,Georgia Tech,Ind,John Heisman,A,Samford,Ind,John Longwell,W,28,0
+1911-10-14,Georgia Tech,Ind,John Heisman,H,Tennessee,Ind,Zora Clevenger,W,24,0
+1911-10-21,Georgia Tech,Ind,John Heisman,H,Mercer,Ind,,W,17,0
+1911-10-29,Georgia Tech,Ind,John Heisman,H,Alabama,Ind,Tubby Graves,T,0,0
+1911-11-04,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,6,11
+1911-11-11,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,Harris Cope,W,23,0
+1911-11-18,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,W.A. Cunningham,L,0,5
+1911-11-30,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Frank Dobson,W,32,0
+1911-10-07,Wake Forest,Ind,Frank Thompson,A,North Carolina,Ind,Branch Bocock,L,3,12
+1911-10-21,Wake Forest,Ind,Frank Thompson,A,Washington & Lee,Ind,J.W.H. Pollard,L,5,18
+1911-11-02,Wake Forest,Ind,Frank Thompson,A,Virginia,Ind,Kemper Yancey,L,6,29
+1911-11-11,Wake Forest,Ind,Frank Thompson,N,Davidson,Ind,E.W. Holladay,L,0,9
+1911-11-18,Wake Forest,Ind,Frank Thompson,H,North Carolina State,Ind,,L,5,13
+1911-09-29,Mississippi State,Ind,William Chadwick,H,Mississippi College,Ind,Dale Chadwick,W,27,6
+1911-10-14,Mississippi State,Ind,William Chadwick,H,Samford,Ind,John Longwell,W,48,0
+1911-10-21,Mississippi State,Ind,William Chadwick,H,Alabama,Ind,Tubby Graves,T,6,6
+1911-10-28,Mississippi State,Ind,William Chadwick,A,Auburn,Ind,Mike Donahue,L,5,11
+1911-11-12,Mississippi State,Ind,William Chadwick,H,LSU,Ind,Pat Dwyer,W,6,0
+1911-11-20,Mississippi State,Ind,William Chadwick,H,Tulane,Ind,A.A. Mason,L,4,5
+1911-11-30,Mississippi State,Ind,William Chadwick,N,Ole Miss,Ind,N.P. Stauffer,W,6,0
+1911-10-07,Villanova,Ind,Frederick Crolius,A,Princeton,Ind,,L,0,31
+1911-10-14,Villanova,Ind,Frederick Crolius,A,Pennsylvania,Ind,,L,0,22
+1911-10-21,Villanova,Ind,Frederick Crolius,A,Penn State,Ind,Bill Hollenback,L,0,18
+1911-11-11,Villanova,Ind,Frederick Crolius,A,Pitt,Ind,Joseph Thompson,L,0,12
+1911-11-25,Villanova,Ind,Frederick Crolius,A,Washington & Jefferson,Ind,D.C. Morrow,L,6,11
+1911-10-21,Washington & Lee,Ind,J.W.H. Pollard,H,Wake Forest,Ind,Frank Thompson,W,18,5
+1911-10-28,Washington & Lee,Ind,J.W.H. Pollard,N,Virginia Tech,Ind,L.W. Reiss,T,5,5
+1911-11-11,Washington & Lee,Ind,J.W.H. Pollard,A,North Carolina State,Ind,,L,3,15
+1911-11-18,Washington & Lee,Ind,J.W.H. Pollard,N,North Carolina,Ind,Branch Bocock,L,0,4
+1911-11-30,Washington & Lee,Ind,J.W.H. Pollard,A,Tulane,Ind,A.A. Mason,T,5,5
+1911-10-07,Syracuse,Ind,,A,Yale,Ind,John Field,L,0,12
+1911-10-21,Syracuse,Ind,,H,Lafayette,Ind,Samuel Newton,L,0,10
+1911-11-04,Syracuse,Ind,,A,Michigan,Ind,Fielding Yost,T,6,6
+1911-11-18,Syracuse,Ind,,H,Carlisle,Ind,Pop Warner,W,12,11
+1911-10-14,Georgetown,Ind,Fred Neilson,H,Carlisle,Ind,Pop Warner,L,5,28
+1911-11-04,Georgetown,Ind,Fred Neilson,A,Army,Ind,Joseph Beacham,T,0,0
+1911-11-18,Georgetown,Ind,Fred Neilson,H,Virginia,Ind,Kemper Yancey,W,9,0
+1911-11-30,Georgetown,Ind,Fred Neilson,H,Lehigh,Ind,Howard Reiter,W,28,3
+1911-09-30,Samford,Ind,John Longwell,A,Alabama,Ind,Tubby Graves,L,0,24
+1911-10-07,Samford,Ind,John Longwell,H,Georgia Tech,Ind,John Heisman,L,0,28
+1911-10-14,Samford,Ind,John Longwell,A,Mississippi State,Ind,William Chadwick,L,0,48
+1911-10-21,Samford,Ind,John Longwell,A,Clemson,Ind,Frank Dobson,L,0,15
+1911-10-28,Samford,Ind,John Longwell,A,Tulane,Ind,A.A. Mason,L,0,10
+1911-11-30,Samford,Ind,John Longwell,A,Mercer,Ind,,L,0,29
+1911-10-21,Army,Ind,Joseph Beacham,H,Yale,Ind,John Field,W,6,0
+1911-10-28,Army,Ind,Joseph Beacham,H,Lehigh,Ind,Howard Reiter,W,20,0
+1911-11-04,Army,Ind,Joseph Beacham,H,Georgetown,Ind,Fred Neilson,T,0,0
+1911-11-11,Army,Ind,Joseph Beacham,H,Bucknell,Ind,By Dickson,W,20,2
+1911-11-18,Army,Ind,Joseph Beacham,H,Colgate,Ind,Jack Ingersoll,W,12,6
+1911-11-24,Army,Ind,Joseph Beacham,N,Navy,Ind,,L,0,3
+1911-10-14,Penn State,Ind,Bill Hollenback,A,Cornell,Ind,,W,5,0
+1911-10-21,Penn State,Ind,Bill Hollenback,H,Villanova,Ind,Frederick Crolius,W,18,0
+1911-10-28,Penn State,Ind,Bill Hollenback,A,Pennsylvania,Ind,,W,22,6
+1911-11-11,Penn State,Ind,Bill Hollenback,H,Colgate,Ind,Jack Ingersoll,W,17,9
+1911-11-18,Penn State,Ind,Bill Hollenback,A,Navy,Ind,,T,0,0
+1911-11-30,Penn State,Ind,Bill Hollenback,A,Pitt,Ind,Joseph Thompson,W,3,0
+1911-10-07,Princeton,Ind,,H,Villanova,Ind,Frederick Crolius,W,31,0
+1911-10-11,Princeton,Ind,,H,Lehigh,Ind,Howard Reiter,T,6,6
+1911-10-14,Princeton,Ind,,H,Colgate,Ind,Jack Ingersoll,W,31,0
+1911-10-21,Princeton,Ind,,A,Navy,Ind,,T,0,0
+1911-11-04,Princeton,Ind,,H,Harvard,Ind,Percy Haughton,W,8,6
+1911-11-18,Princeton,Ind,,A,Yale,Ind,John Field,W,6,3
+1911-10-28,Vanderbilt,Ind,Dan McGugin,A,Michigan,Ind,Fielding Yost,L,8,9
+1911-11-04,Vanderbilt,Ind,Dan McGugin,H,Georgia,Ind,W.A. Cunningham,W,17,0
+1911-11-18,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,N.P. Stauffer,W,21,0
+1911-11-30,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,W,31,0
+1911-10-07,Colorado College,RMC,C.J. Rothget,H,Wyoming,RMC,H.I. Dean,W,29,9
+1911-10-21,Colorado College,RMC,C.J. Rothget,A,Wisconsin,Western,J.R. Richards,L,0,26
+1911-11-04,Colorado College,RMC,C.J. Rothget,A,Colorado,RMC,Fred Folsom,L,2,8
+1911-11-11,Colorado College,RMC,C.J. Rothget,H,Utah,RMC,Fred Bennion,L,6,18
+1911-11-18,Colorado College,RMC,C.J. Rothget,N,Colorado Mines,RMC, Stuart,W,11,0
+1911-11-30,Colorado College,RMC,C.J. Rothget,A,Denver,RMC,Tom Berry,W,12,0
+1911-10-07,Auburn,Ind,Mike Donahue,H,Mercer,Ind,,W,29,0
+1911-10-14,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Frank Dobson,W,20,0
+1911-10-21,Auburn,Ind,Mike Donahue,A,Texas A&M,Ind,Charley Moran,L,0,16
+1911-10-28,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,William Chadwick,W,11,5
+1911-11-04,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,11,6
+1911-11-17,Auburn,Ind,Mike Donahue,A,Texas,Ind,Dave Allerdice,L,5,18
+1911-11-29,Auburn,Ind,Mike Donahue,A,Georgia,Ind,W.A. Cunningham,T,0,0
+1911-10-21,Northwestern,Western,Charles Hammett,H,Indiana,Western,James Sheldon,W,5,0
+1911-10-28,Northwestern,Western,Charles Hammett,H,Wisconsin,Western,J.R. Richards,L,3,28
+1911-11-11,Northwestern,Western,Charles Hammett,H,Chicago,Western,Amos Alonzo Stagg,L,3,9
+1911-11-18,Northwestern,Western,Charles Hammett,A,Illinois,Western,Arthur Hall,L,13,27
+1911-11-25,Northwestern,Western,Charles Hammett,A,Iowa,Western,Jesse Hawley,L,0,6
+1911-10-28,Kansas,MVIAA,Ralph Sherwin,H,Drake,MVIAA,John Griffith,W,11,3
+1911-11-18,Kansas,MVIAA,Ralph Sherwin,H,Nebraska,MVIAA,Jumbo Stiehm,L,0,29
+1911-11-25,Kansas,MVIAA,Ralph Sherwin,A,Missouri,MVIAA,,T,3,3
+1911-10-07,Florida,Ind,G.E. Pyle,H,Citadel,Ind,L.S. LeTellier,W,15,3
+1911-10-21,Florida,Ind,G.E. Pyle,A,South Carolina,Ind,John Neff,T,6,6
+1911-10-25,Florida,Ind,G.E. Pyle,A,Clemson,Ind,Frank Dobson,W,6,5
+1911-10-20,LSU,Ind,Pat Dwyer,H,Mississippi College,Ind,Dale Chadwick,W,40,0
+1911-11-04,LSU,Ind,Pat Dwyer,A,Baylor,Ind,Ralph Glaze,W,6,0
+1911-11-12,LSU,Ind,Pat Dwyer,A,Mississippi State,Ind,William Chadwick,L,0,6
+1911-11-18,LSU,Ind,Pat Dwyer,N,Southwestern (TX),Ind,,L,6,17
+1911-11-30,LSU,Ind,Pat Dwyer,A,Arkansas,Ind,Hugo Bezdek,L,0,11
+1911-12-09,LSU,Ind,Pat Dwyer,H,Tulane,Ind,A.A. Mason,W,6,0
+1911-10-14,Pennsylvania,Ind,,H,Villanova,Ind,Frederick Crolius,W,22,0
+1911-10-21,Pennsylvania,Ind,,H,Brown,Ind,Edward Robinson,L,0,6
+1911-10-28,Pennsylvania,Ind,,H,Penn State,Ind,Bill Hollenback,L,6,22
+1911-11-04,Pennsylvania,Ind,,H,Carlisle,Ind,Pop Warner,L,0,16
+1911-11-11,Pennsylvania,Ind,,H,Lafayette,Ind,Samuel Newton,W,23,6
+1911-11-18,Pennsylvania,Ind,,A,Michigan,Ind,Fielding Yost,L,9,11
+1911-11-30,Pennsylvania,Ind,,H,Cornell,Ind,,W,21,9
+1911-10-28,Iowa,Western,Jesse Hawley,H,Minnesota,Western,Henry Williams,L,6,24
+1911-11-04,Iowa,Western,Jesse Hawley,A,Wisconsin,Western,J.R. Richards,L,0,12
+1911-11-11,Iowa,Western,Jesse Hawley,A,Purdue,Western,M.H. Horr,W,11,0
+1911-11-18,Iowa,Western,Jesse Hawley,H,Iowa State,MVIAA,,L,0,9
+1911-11-25,Iowa,Western,Jesse Hawley,H,Northwestern,Western,Charles Hammett,W,6,0
+1911-10-07,Southwestern (TX),Ind,,A,Texas A&M,Ind,Charley Moran,L,0,22
+1911-10-13,Southwestern (TX),Ind,,A,Texas,Ind,Dave Allerdice,L,2,11
+1911-11-04,Southwestern (TX),Ind,,H,Arkansas,Ind,Hugo Bezdek,T,0,0
+1911-11-11,Southwestern (TX),Ind,,H,Baylor,Ind,Ralph Glaze,T,5,5
+1911-11-18,Southwestern (TX),Ind,,N,LSU,Ind,Pat Dwyer,W,17,6
+1911-10-21,Illinois,Western,Arthur Hall,A,Chicago,Western,Amos Alonzo Stagg,L,0,24
+1911-11-04,Illinois,Western,Arthur Hall,H,Purdue,Western,M.H. Horr,W,12,3
+1911-11-11,Illinois,Western,Arthur Hall,A,Indiana,Western,James Sheldon,T,0,0
+1911-11-18,Illinois,Western,Arthur Hall,H,Northwestern,Western,Charles Hammett,W,27,13
+1911-11-25,Illinois,Western,Arthur Hall,H,Minnesota,Western,Henry Williams,L,0,11
+1911-10-13,Texas,Ind,Dave Allerdice,H,Southwestern (TX),Ind,,W,11,2
+1911-10-24,Texas,Ind,Dave Allerdice,H,Baylor,Ind,Ralph Glaze,W,11,0
+1911-10-28,Texas,Ind,Dave Allerdice,H,Arkansas,Ind,Hugo Bezdek,W,12,0
+1911-11-02,Texas,Ind,Dave Allerdice,H,Sewanee,Ind,Harris Cope,L,5,6
+1911-11-13,Texas,Ind,Dave Allerdice,N,Texas A&M,Ind,Charley Moran,W,6,0
+1911-11-17,Texas,Ind,Dave Allerdice,H,Auburn,Ind,Mike Donahue,W,18,5
+1911-10-24,Baylor,Ind,Ralph Glaze,A,Texas,Ind,Dave Allerdice,L,0,11
+1911-11-04,Baylor,Ind,Ralph Glaze,H,LSU,Ind,Pat Dwyer,L,0,6
+1911-11-11,Baylor,Ind,Ralph Glaze,A,Southwestern (TX),Ind,,T,5,5
+1911-11-18,Baylor,Ind,Ralph Glaze,A,Texas A&M,Ind,Charley Moran,L,11,22
+1911-10-07,Georgia,Ind,W.A. Cunningham,H,South Carolina,Ind,John Neff,W,38,0
+1911-10-14,Georgia,Ind,W.A. Cunningham,A,Alabama,Ind,Tubby Graves,W,11,3
+1911-10-21,Georgia,Ind,W.A. Cunningham,H,Sewanee,Ind,Harris Cope,W,12,3
+1911-10-28,Georgia,Ind,W.A. Cunningham,H,Mercer,Ind,,W,8,5
+1911-11-04,Georgia,Ind,W.A. Cunningham,A,Vanderbilt,Ind,Dan McGugin,L,0,17
+1911-11-09,Georgia,Ind,W.A. Cunningham,N,Clemson,Ind,Frank Dobson,W,22,0
+1911-11-18,Georgia,Ind,W.A. Cunningham,A,Georgia Tech,Ind,John Heisman,W,5,0
+1911-11-29,Georgia,Ind,W.A. Cunningham,H,Auburn,Ind,Mike Donahue,T,0,0
+1911-11-02,Virginia,Ind,Kemper Yancey,H,Wake Forest,Ind,Frank Thompson,W,29,6
+1911-11-18,Virginia,Ind,Kemper Yancey,A,Georgetown,Ind,Fred Neilson,L,0,9
+1911-11-30,Virginia,Ind,Kemper Yancey,H,North Carolina,Ind,Branch Bocock,W,28,0
+1911-10-21,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,,W,6,0
+1911-10-28,Brown,Ind,Edward Robinson,A,Harvard,Ind,Percy Haughton,L,6,20
+1911-11-11,Brown,Ind,Edward Robinson,A,Yale,Ind,John Field,L,0,15
+1911-11-30,Brown,Ind,Edward Robinson,H,Carlisle,Ind,Pop Warner,L,6,12
+1911-10-07,Citadel,Ind,L.S. LeTellier,A,Florida,Ind,G.E. Pyle,L,3,15
+1911-10-14,Citadel,Ind,L.S. LeTellier,H,Mercer,Ind,,W,5,0
+1911-11-04,Citadel,Ind,L.S. LeTellier,H,Clemson,Ind,Frank Dobson,L,0,18
+1911-11-30,Citadel,Ind,L.S. LeTellier,H,South Carolina,Ind,John Neff,T,0,0
+1911-10-14,Tennessee,Ind,Zora Clevenger,A,Georgia Tech,Ind,John Heisman,L,0,24
+1911-10-28,Tennessee,Ind,Zora Clevenger,A,North Carolina State,Ind,,L,0,16
+1911-11-11,Tennessee,Ind,Zora Clevenger,A,Virginia Tech,Ind,L.W. Reiss,L,11,36
+1911-10-14,Virginia Tech,Ind,L.W. Reiss,A,Yale,Ind,John Field,L,0,33
+1911-10-28,Virginia Tech,Ind,L.W. Reiss,N,Washington & Lee,Ind,J.W.H. Pollard,T,5,5
+1911-11-04,Virginia Tech,Ind,L.W. Reiss,H,North Carolina,Ind,Branch Bocock,T,0,0
+1911-11-11,Virginia Tech,Ind,L.W. Reiss,H,Tennessee,Ind,Zora Clevenger,W,36,11
+1911-11-30,Virginia Tech,Ind,L.W. Reiss,N,North Carolina State,Ind,,W,3,0
+1911-10-07,Lehigh,Ind,Howard Reiter,H,Bucknell,Ind,By Dickson,L,0,3
+1911-10-11,Lehigh,Ind,Howard Reiter,A,Princeton,Ind,,T,6,6
+1911-10-28,Lehigh,Ind,Howard Reiter,A,Army,Ind,Joseph Beacham,L,0,20
+1911-11-25,Lehigh,Ind,Howard Reiter,H,Lafayette,Ind,Samuel Newton,L,0,11
+1911-11-30,Lehigh,Ind,Howard Reiter,A,Georgetown,Ind,Fred Neilson,L,3,28
+1911-09-30,Alabama,Ind,Tubby Graves,H,Samford,Ind,John Longwell,W,24,0
+1911-10-14,Alabama,Ind,Tubby Graves,H,Georgia,Ind,W.A. Cunningham,L,3,11
+1911-10-21,Alabama,Ind,Tubby Graves,A,Mississippi State,Ind,William Chadwick,T,6,6
+1911-10-29,Alabama,Ind,Tubby Graves,A,Georgia Tech,Ind,John Heisman,T,0,0
+1911-11-18,Alabama,Ind,Tubby Graves,H,Tulane,Ind,A.A. Mason,W,22,0
+1911-11-25,Alabama,Ind,Tubby Graves,H,Sewanee,Ind,Harris Cope,L,0,3
+1911-11-30,Alabama,Ind,Tubby Graves,H,Davidson,Ind,E.W. Holladay,W,16,6
+1911-10-28,Arkansas,Ind,Hugo Bezdek,A,Texas,Ind,Dave Allerdice,L,0,12
+1911-11-04,Arkansas,Ind,Hugo Bezdek,A,Southwestern (TX),Ind,,T,0,0
+1911-11-25,Arkansas,Ind,Hugo Bezdek,A,Washington (MO),MVIAA,Francis Cayou,W,3,0
+1911-11-30,Arkansas,Ind,Hugo Bezdek,H,LSU,Ind,Pat Dwyer,W,11,0
+1911-10-14,Clemson,Ind,Frank Dobson,H,Auburn,Ind,Mike Donahue,L,0,20
+1911-10-21,Clemson,Ind,Frank Dobson,H,Samford,Ind,John Longwell,W,15,0
+1911-10-25,Clemson,Ind,Frank Dobson,H,Florida,Ind,G.E. Pyle,L,5,6
+1911-11-02,Clemson,Ind,Frank Dobson,A,South Carolina,Ind,John Neff,W,27,0
+1911-11-04,Clemson,Ind,Frank Dobson,A,Citadel,Ind,L.S. LeTellier,W,18,0
+1911-11-09,Clemson,Ind,Frank Dobson,N,Georgia,Ind,W.A. Cunningham,L,0,22
+1911-11-18,Clemson,Ind,Frank Dobson,A,Mercer,Ind,,L,6,20
+1911-11-30,Clemson,Ind,Frank Dobson,A,Georgia Tech,Ind,John Heisman,L,0,32
+1911-10-14,Purdue,Western,M.H. Horr,A,Chicago,Western,Amos Alonzo Stagg,L,3,11
+1911-11-04,Purdue,Western,M.H. Horr,A,Illinois,Western,Arthur Hall,L,3,12
+1911-11-11,Purdue,Western,M.H. Horr,H,Iowa,Western,Jesse Hawley,L,0,11
+1911-11-25,Purdue,Western,M.H. Horr,A,Indiana,Western,James Sheldon,W,12,5
+1911-10-07,South Carolina,Ind,John Neff,A,Georgia,Ind,W.A. Cunningham,L,0,38
+1911-10-21,South Carolina,Ind,John Neff,H,Florida,Ind,G.E. Pyle,T,6,6
+1911-11-02,South Carolina,Ind,John Neff,H,Clemson,Ind,Frank Dobson,L,0,27
+1911-11-11,South Carolina,Ind,John Neff,A,North Carolina,Ind,Branch Bocock,L,0,21
+1911-11-18,South Carolina,Ind,John Neff,H,Davidson,Ind,E.W. Holladay,L,0,10
+1911-11-30,South Carolina,Ind,John Neff,A,Citadel,Ind,L.S. LeTellier,T,0,0
+1911-10-21,Nebraska,MVIAA,Jumbo Stiehm,A,Minnesota,Western,Henry Williams,L,3,21
+1911-10-28,Nebraska,MVIAA,Jumbo Stiehm,H,Missouri,MVIAA,,W,34,0
+1911-11-04,Nebraska,MVIAA,Jumbo Stiehm,A,Iowa State,MVIAA,,T,6,6
+1911-11-18,Nebraska,MVIAA,Jumbo Stiehm,A,Kansas,MVIAA,Ralph Sherwin,W,29,0
+1911-11-25,Nebraska,MVIAA,Jumbo Stiehm,H,Michigan,Ind,Fielding Yost,T,6,6
+1911-10-28,Harvard,Ind,Percy Haughton,H,Brown,Ind,Edward Robinson,W,20,6
+1911-11-04,Harvard,Ind,Percy Haughton,A,Princeton,Ind,,L,6,8
+1911-11-11,Harvard,Ind,Percy Haughton,H,Carlisle,Ind,Pop Warner,L,15,18
+1911-11-25,Harvard,Ind,Percy Haughton,H,Yale,Ind,John Field,T,0,0
+1911-10-28,Colorado,RMC,Fred Folsom,H,Wyoming,RMC,H.I. Dean,W,18,3
+1911-11-04,Colorado,RMC,Fred Folsom,H,Colorado College,RMC,C.J. Rothget,W,8,2
+1911-11-11,Colorado,RMC,Fred Folsom,H,Colorado State,RMC,Harry Hughes,W,31,0
+1911-11-18,Colorado,RMC,Fred Folsom,A,Utah,RMC,Fred Bennion,W,9,0
+1911-11-30,Colorado,RMC,Fred Folsom,A,Colorado Mines,RMC, Stuart,W,11,0
+1911-10-21,Missouri,MVIAA,,A,Iowa State,MVIAA,,L,3,6
+1911-10-28,Missouri,MVIAA,,A,Nebraska,MVIAA,Jumbo Stiehm,L,0,34
+1911-11-11,Missouri,MVIAA,,A,Washington (MO),MVIAA,Francis Cayou,T,5,5
+1911-11-25,Missouri,MVIAA,,H,Kansas,MVIAA,Ralph Sherwin,T,3,3
+1911-10-14,Denver,RMC,Tom Berry,H,Utah,RMC,Fred Bennion,T,0,0
+1911-11-04,Denver,RMC,Tom Berry,H,Colorado State,RMC,Harry Hughes,W,49,0
+1911-11-11,Denver,RMC,Tom Berry,A,Colorado Mines,RMC, Stuart,W,9,0
+1911-11-18,Denver,RMC,Tom Berry,A,Wyoming,RMC,H.I. Dean,W,6,0
+1911-11-30,Denver,RMC,Tom Berry,H,Colorado College,RMC,C.J. Rothget,L,0,12
+1911-10-14,Washington & Jefferson,Ind,D.C. Morrow,A,Navy,Ind,,L,0,16
+1911-10-21,Washington & Jefferson,Ind,D.C. Morrow,A,Cornell,Ind,,L,0,6
+1911-11-18,Washington & Jefferson,Ind,D.C. Morrow,A,Pitt,Ind,Joseph Thompson,L,0,12
+1911-11-25,Washington & Jefferson,Ind,D.C. Morrow,H,Villanova,Ind,Frederick Crolius,W,11,6
+1911-09-29,Mississippi College,Ind,Dale Chadwick,A,Mississippi State,Ind,William Chadwick,L,6,27
+1911-10-12,Mississippi College,Ind,Dale Chadwick,A,Tulane,Ind,A.A. Mason,L,0,10
+1911-10-20,Mississippi College,Ind,Dale Chadwick,A,LSU,Ind,Pat Dwyer,L,0,40
+1911-10-30,Mississippi College,Ind,Dale Chadwick,N,Ole Miss,Ind,N.P. Stauffer,L,0,28
+1911-10-21,Wisconsin,Western,J.R. Richards,H,Colorado College,RMC,C.J. Rothget,W,26,0
+1911-10-28,Wisconsin,Western,J.R. Richards,A,Northwestern,Western,Charles Hammett,W,28,3
+1911-11-04,Wisconsin,Western,J.R. Richards,H,Iowa,Western,Jesse Hawley,W,12,0
+1911-11-18,Wisconsin,Western,J.R. Richards,H,Minnesota,Western,Henry Williams,T,6,6
+1911-11-25,Wisconsin,Western,J.R. Richards,A,Chicago,Western,Amos Alonzo Stagg,L,0,5
+1911-10-07,Bucknell,Ind,By Dickson,A,Lehigh,Ind,Howard Reiter,W,3,0
+1911-10-21,Bucknell,Ind,By Dickson,A,North Carolina State,Ind,,L,0,6
+1911-11-04,Bucknell,Ind,By Dickson,A,Lafayette,Ind,Samuel Newton,L,0,6
+1911-11-11,Bucknell,Ind,By Dickson,A,Army,Ind,Joseph Beacham,L,2,20
+1911-10-07,Colorado State,RMC,Harry Hughes,A,Utah,RMC,Fred Bennion,L,0,51
+1911-10-28,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC, Stuart,L,0,29
+1911-11-04,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Tom Berry,L,0,49
+1911-11-11,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Fred Folsom,L,0,31
+1911-11-30,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,H.I. Dean,L,0,27
+1911-10-07,Texas A&M,Ind,Charley Moran,H,Southwestern (TX),Ind,,W,22,0
+1911-10-21,Texas A&M,Ind,Charley Moran,H,Auburn,Ind,Mike Donahue,W,16,0
+1911-10-27,Texas A&M,Ind,Charley Moran,H,Ole Miss,Ind,N.P. Stauffer,W,17,0
+1911-11-13,Texas A&M,Ind,Charley Moran,N,Texas,Ind,Dave Allerdice,L,0,6
+1911-11-18,Texas A&M,Ind,Charley Moran,H,Baylor,Ind,Ralph Glaze,W,22,11
+1911-10-21,Davidson,Ind,E.W. Holladay,N,North Carolina,Ind,Branch Bocock,L,0,5
+1911-11-11,Davidson,Ind,E.W. Holladay,N,Wake Forest,Ind,Frank Thompson,W,9,0
+1911-11-18,Davidson,Ind,E.W. Holladay,A,South Carolina,Ind,John Neff,W,10,0
+1911-11-30,Davidson,Ind,E.W. Holladay,A,Alabama,Ind,Tubby Graves,L,6,16
+1911-10-28,Washington (MO),MVIAA,Francis Cayou,A,Indiana,Western,James Sheldon,L,0,12
+1911-11-11,Washington (MO),MVIAA,Francis Cayou,H,Missouri,MVIAA,,T,5,5
+1911-11-18,Washington (MO),MVIAA,Francis Cayou,A,Drake,MVIAA,John Griffith,T,6,6
+1911-11-25,Washington (MO),MVIAA,Francis Cayou,H,Arkansas,Ind,Hugo Bezdek,L,0,3
+1911-10-07,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,23,6
+1911-10-14,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,M.H. Horr,W,11,3
+1911-10-21,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Arthur Hall,W,24,0
+1911-11-04,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,L,0,30
+1911-11-11,Chicago,Western,Amos Alonzo Stagg,A,Northwestern,Western,Charles Hammett,W,9,3
+1911-11-18,Chicago,Western,Amos Alonzo Stagg,H,Cornell,Ind,,W,6,0
+1911-11-25,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,J.R. Richards,W,5,0
+1911-10-21,Colorado Mines,RMC, Stuart,A,Wyoming,RMC,H.I. Dean,L,0,5
+1911-10-28,Colorado Mines,RMC, Stuart,A,Colorado State,RMC,Harry Hughes,W,29,0
+1911-11-04,Colorado Mines,RMC, Stuart,A,Utah,RMC,Fred Bennion,L,0,15
+1911-11-11,Colorado Mines,RMC, Stuart,H,Denver,RMC,Tom Berry,L,0,9
+1911-11-18,Colorado Mines,RMC, Stuart,N,Colorado College,RMC,C.J. Rothget,L,0,11
+1911-11-30,Colorado Mines,RMC, Stuart,H,Colorado,RMC,Fred Folsom,L,0,11
+1911-10-21,North Carolina State,Ind,,H,Bucknell,Ind,By Dickson,W,6,0
+1911-10-28,North Carolina State,Ind,,H,Tennessee,Ind,Zora Clevenger,W,16,0
+1911-11-04,North Carolina State,Ind,,A,Navy,Ind,,L,6,17
+1911-11-11,North Carolina State,Ind,,H,Washington & Lee,Ind,J.W.H. Pollard,W,15,3
+1911-11-18,North Carolina State,Ind,,A,Wake Forest,Ind,Frank Thompson,W,13,5
+1911-11-30,North Carolina State,Ind,,N,Virginia Tech,Ind,L.W. Reiss,L,0,3
+1911-09-30,Colgate,Ind,Jack Ingersoll,A,Cornell,Ind,,L,0,6
+1911-10-14,Colgate,Ind,Jack Ingersoll,A,Princeton,Ind,,L,0,31
+1911-10-28,Colgate,Ind,Jack Ingersoll,A,Yale,Ind,John Field,L,0,23
+1911-11-11,Colgate,Ind,Jack Ingersoll,A,Penn State,Ind,Bill Hollenback,L,9,17
+1911-11-18,Colgate,Ind,Jack Ingersoll,A,Army,Ind,Joseph Beacham,L,6,12
+1911-09-30,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,,W,5,0
+1911-10-21,Minnesota,Western,Henry Williams,H,Nebraska,MVIAA,Jumbo Stiehm,W,21,3
+1911-10-28,Minnesota,Western,Henry Williams,A,Iowa,Western,Jesse Hawley,W,24,6
+1911-11-04,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,W,30,0
+1911-11-18,Minnesota,Western,Henry Williams,A,Wisconsin,Western,J.R. Richards,T,6,6
+1911-11-25,Minnesota,Western,Henry Williams,A,Illinois,Western,Arthur Hall,W,11,0
+1911-10-27,Ole Miss,Ind,N.P. Stauffer,A,Texas A&M,Ind,Charley Moran,L,0,17
+1911-10-30,Ole Miss,Ind,N.P. Stauffer,N,Mississippi College,Ind,Dale Chadwick,W,28,0
+1911-11-04,Ole Miss,Ind,N.P. Stauffer,A,Mercer,Ind,,W,34,0
+1911-11-18,Ole Miss,Ind,N.P. Stauffer,A,Vanderbilt,Ind,Dan McGugin,L,0,21
+1911-11-30,Ole Miss,Ind,N.P. Stauffer,N,Mississippi State,Ind,William Chadwick,L,0,6
+1911-10-21,Sewanee,Ind,Harris Cope,A,Georgia,Ind,W.A. Cunningham,L,3,12
+1911-11-02,Sewanee,Ind,Harris Cope,A,Texas,Ind,Dave Allerdice,W,6,5
+1911-11-04,Sewanee,Ind,Harris Cope,A,Tulane,Ind,A.A. Mason,W,9,3
+1911-11-11,Sewanee,Ind,Harris Cope,A,Georgia Tech,Ind,John Heisman,L,0,23
+1911-11-25,Sewanee,Ind,Harris Cope,A,Alabama,Ind,Tubby Graves,W,3,0
+1911-11-30,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,L,0,31
+1911-10-28,Michigan,Ind,Fielding Yost,H,Vanderbilt,Ind,Dan McGugin,W,9,8
+1911-11-04,Michigan,Ind,Fielding Yost,H,Syracuse,Ind,,T,6,6
+1911-11-11,Michigan,Ind,Fielding Yost,A,Cornell,Ind,,L,0,6
+1911-11-18,Michigan,Ind,Fielding Yost,H,Pennsylvania,Ind,,W,11,9
+1911-11-25,Michigan,Ind,Fielding Yost,A,Nebraska,MVIAA,Jumbo Stiehm,T,6,6
+1911-10-14,Navy,Ind,,H,Washington & Jefferson,Ind,D.C. Morrow,W,16,0
+1911-10-21,Navy,Ind,,H,Princeton,Ind,,T,0,0
+1911-11-04,Navy,Ind,,H,North Carolina State,Ind,,W,17,6
+1911-11-18,Navy,Ind,,H,Penn State,Ind,Bill Hollenback,T,0,0
+1911-11-24,Navy,Ind,,N,Army,Ind,Joseph Beacham,W,3,0
+1911-10-21,Lafayette,Ind,Samuel Newton,A,Syracuse,Ind,,W,10,0
+1911-10-28,Lafayette,Ind,Samuel Newton,H,Carlisle,Ind,Pop Warner,L,0,19
+1911-11-04,Lafayette,Ind,Samuel Newton,H,Bucknell,Ind,By Dickson,W,6,0
+1911-11-11,Lafayette,Ind,Samuel Newton,A,Pennsylvania,Ind,,L,6,23
+1911-11-25,Lafayette,Ind,Samuel Newton,A,Lehigh,Ind,Howard Reiter,W,11,0
+1911-10-12,Tulane,Ind,A.A. Mason,H,Mississippi College,Ind,Dale Chadwick,W,10,0
+1911-10-28,Tulane,Ind,A.A. Mason,H,Samford,Ind,John Longwell,W,10,0
+1911-11-04,Tulane,Ind,A.A. Mason,H,Sewanee,Ind,Harris Cope,L,3,9
+1911-11-18,Tulane,Ind,A.A. Mason,A,Alabama,Ind,Tubby Graves,L,0,22
+1911-11-20,Tulane,Ind,A.A. Mason,A,Mississippi State,Ind,William Chadwick,W,5,4
+1911-11-30,Tulane,Ind,A.A. Mason,H,Washington & Lee,Ind,J.W.H. Pollard,T,5,5
+1911-12-09,Tulane,Ind,A.A. Mason,A,LSU,Ind,Pat Dwyer,L,0,6
+1911-09-30,Cornell,Ind,,H,Colgate,Ind,Jack Ingersoll,W,6,0
+1911-10-14,Cornell,Ind,,H,Penn State,Ind,Bill Hollenback,L,0,5
+1911-10-21,Cornell,Ind,,H,Washington & Jefferson,Ind,D.C. Morrow,W,6,0
+1911-10-28,Cornell,Ind,,H,Pitt,Ind,Joseph Thompson,W,9,3
+1911-11-11,Cornell,Ind,,H,Michigan,Ind,Fielding Yost,W,6,0
+1911-11-18,Cornell,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,0,6
+1911-11-30,Cornell,Ind,,A,Pennsylvania,Ind,,L,9,21
+1911-10-21,Pitt,Ind,Joseph Thompson,H,Carlisle,Ind,Pop Warner,L,0,17
+1911-10-28,Pitt,Ind,Joseph Thompson,A,Cornell,Ind,,L,3,9
+1911-11-11,Pitt,Ind,Joseph Thompson,H,Villanova,Ind,Frederick Crolius,W,12,0
+1911-11-18,Pitt,Ind,Joseph Thompson,H,Washington & Jefferson,Ind,D.C. Morrow,W,12,0
+1911-11-30,Pitt,Ind,Joseph Thompson,H,Penn State,Ind,Bill Hollenback,L,0,3
+1911-10-28,Drake,MVIAA,John Griffith,A,Kansas,MVIAA,Ralph Sherwin,L,3,11
+1911-11-18,Drake,MVIAA,John Griffith,H,Washington (MO),MVIAA,Francis Cayou,T,6,6
+1911-11-25,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,,L,0,6
+1911-10-07,Mercer,Ind,,A,Auburn,Ind,Mike Donahue,L,0,29
+1911-10-14,Mercer,Ind,,A,Citadel,Ind,L.S. LeTellier,L,0,5
+1911-10-21,Mercer,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,17
+1911-10-28,Mercer,Ind,,A,Georgia,Ind,W.A. Cunningham,L,5,8
+1911-11-04,Mercer,Ind,,H,Ole Miss,Ind,N.P. Stauffer,L,0,34
+1911-11-18,Mercer,Ind,,H,Clemson,Ind,Frank Dobson,W,20,6
+1911-11-30,Mercer,Ind,,H,Samford,Ind,John Longwell,W,29,0

@@ -1,0 +1,1111 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1965-09-18,North Carolina,ACC,James Hickey,H,Michigan,Big Ten,Bump Elliott,L,24,31
+1965-09-25,North Carolina,ACC,James Hickey,A,Ohio State,Big Ten,Woody Hayes,W,14,3
+1965-10-02,North Carolina,ACC,James Hickey,H,Virginia,ACC,George Blackburn,L,17,21
+1965-10-09,North Carolina,ACC,James Hickey,A,North Carolina State,ACC,Earle Edwards,W,10,7
+1965-10-16,North Carolina,ACC,James Hickey,H,Maryland,ACC,Thomas Nugent,W,12,10
+1965-10-23,North Carolina,ACC,James Hickey,A,Wake Forest,ACC,William Tate,L,10,12
+1965-10-30,North Carolina,ACC,James Hickey,H,Georgia,SEC,Vince Dooley,L,35,47
+1965-11-06,North Carolina,ACC,James Hickey,H,Clemson,ACC,Frank Howard,W,17,13
+1965-11-13,North Carolina,ACC,James Hickey,A,Notre Dame,Ind,Ara Parseghian,L,0,17
+1965-11-20,North Carolina,ACC,James Hickey,A,Duke,ACC,Bill Murray,L,7,34
+1965-09-18,Miami (OH),MAC,Bo Schembechler,A,Purdue,Big Ten,Jack Mollenkopf,L,0,38
+1965-09-25,Miami (OH),MAC,Bo Schembechler,H,Xavier,Ind,Edward Biles,L,28,29
+1965-10-02,Miami (OH),MAC,Bo Schembechler,A,Western Michigan,MAC,Bill Doolittle,W,36,9
+1965-10-09,Miami (OH),MAC,Bo Schembechler,A,Kent State,MAC,Leo Strang,L,13,24
+1965-10-16,Miami (OH),MAC,Bo Schembechler,H,Marshall,MAC,Charlie Snyder,W,28,7
+1965-10-23,Miami (OH),MAC,Bo Schembechler,H,Ohio,MAC,Bill Hess,W,34,0
+1965-10-30,Miami (OH),MAC,Bo Schembechler,A,Bowling Green State,MAC,Bob Gibson,W,23,7
+1965-11-06,Miami (OH),MAC,Bo Schembechler,H,Toledo,MAC,Frank Lauterbur,W,20,16
+1965-11-13,Miami (OH),MAC,Bo Schembechler,A,Dayton,Ind,John McVay,W,28,0
+1965-11-20,Miami (OH),MAC,Bo Schembechler,A,Cincinnati,MVC,Charles Studley,W,37,7
+1965-09-18,Indiana,Big Ten,John Pont,H,Kansas State,Big 8,Doug Weaver,W,19,7
+1965-09-25,Indiana,Big Ten,John Pont,H,Northwestern,Big Ten,Alex Agase,L,0,20
+1965-10-02,Indiana,Big Ten,John Pont,A,Texas,SWC,Darrell Royal,L,12,27
+1965-10-09,Indiana,Big Ten,John Pont,A,Minnesota,Big Ten,Murray Warmath,L,18,42
+1965-10-16,Indiana,Big Ten,John Pont,A,Illinois,Big Ten,Pete Elliott,L,13,34
+1965-10-23,Indiana,Big Ten,John Pont,H,Washington State,AAWU,Bert Clark,L,7,8
+1965-10-30,Indiana,Big Ten,John Pont,H,Iowa,Big Ten,Jerry Burns,W,21,17
+1965-11-06,Indiana,Big Ten,John Pont,A,Ohio State,Big Ten,Woody Hayes,L,10,17
+1965-11-13,Indiana,Big Ten,John Pont,A,Michigan State,Big Ten,Duffy Daugherty,L,13,27
+1965-11-20,Indiana,Big Ten,John Pont,H,Purdue,Big Ten,Jack Mollenkopf,L,21,26
+1965-09-25,Florida State,Ind,Bill Peterson,A,Texas Christian,SWC,Abe Martin,L,3,7
+1965-10-02,Florida State,Ind,Bill Peterson,H,Baylor,SWC,John Bridgers,W,9,7
+1965-10-09,Florida State,Ind,Bill Peterson,A,Kentucky,SEC,Charley Bradshaw,L,24,26
+1965-10-16,Florida State,Ind,Bill Peterson,H,Georgia,SEC,Vince Dooley,W,10,3
+1965-10-23,Florida State,Ind,Bill Peterson,A,Alabama,SEC,Bear Bryant,L,0,21
+1965-10-30,Florida State,Ind,Bill Peterson,H,Virginia Tech,Ind,Jerry Claiborne,W,7,6
+1965-11-06,Florida State,Ind,Bill Peterson,H,Wake Forest,ACC,William Tate,W,35,0
+1965-11-13,Florida State,Ind,Bill Peterson,A,North Carolina State,ACC,Earle Edwards,L,0,3
+1965-11-20,Florida State,Ind,Bill Peterson,H,Houston,Ind,Bill Yeoman,T,16,16
+1965-11-27,Florida State,Ind,Bill Peterson,A,Florida,SEC,Ray Graves,L,17,30
+1965-09-25,Iowa State,Big 8,Clay Stapleton,H,Pacific,Ind,Don Campora,W,38,13
+1965-10-02,Iowa State,Big 8,Clay Stapleton,A,Nebraska,Big 8,Bob Devaney,L,0,44
+1965-10-09,Iowa State,Big 8,Clay Stapleton,A,Kansas,Big 8,Jack Mitchell,W,21,7
+1965-10-16,Iowa State,Big 8,Clay Stapleton,A,Colorado,Big 8,Eddie Crowder,T,10,10
+1965-10-23,Iowa State,Big 8,Clay Stapleton,H,Missouri,Big 8,Dan Devine,L,7,23
+1965-10-30,Iowa State,Big 8,Clay Stapleton,H,Oklahoma State,Big 8,Phil Cutchin,W,14,10
+1965-11-06,Iowa State,Big 8,Clay Stapleton,A,Oklahoma,Big 8,Gomer Jones,L,20,24
+1965-11-13,Iowa State,Big 8,Clay Stapleton,H,Kansas State,Big 8,Doug Weaver,W,38,6
+1965-11-20,Iowa State,Big 8,Clay Stapleton,A,New Mexico,WAC,Bill Weeks,L,9,10
+1965-09-18,Cincinnati,MVC,Charles Studley,H,Dayton,Ind,John McVay,W,28,0
+1965-09-24,Cincinnati,MVC,Charles Studley,A,Houston,Ind,Bill Yeoman,L,6,21
+1965-10-02,Cincinnati,MVC,Charles Studley,H,Wichita State,MVC,George Karras,W,14,6
+1965-10-09,Cincinnati,MVC,Charles Studley,H,Xavier,Ind,Edward Biles,L,3,14
+1965-10-15,Cincinnati,MVC,Charles Studley,A,George Washington,Southern,Jim Camp,W,13,3
+1965-10-23,Cincinnati,MVC,Charles Studley,A,Tulsa,MVC,Glenn Dobbs,L,6,49
+1965-10-30,Cincinnati,MVC,Charles Studley,H,North Texas,MVC,Odus Mitchell,L,24,28
+1965-11-06,Cincinnati,MVC,Charles Studley,A,Kansas State,Big 8,Doug Weaver,W,21,14
+1965-11-20,Cincinnati,MVC,Charles Studley,H,Miami (OH),MAC,Bo Schembechler,L,7,37
+1965-09-18,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,Tommy Hudspeth,L,6,24
+1965-09-25,Arizona State,WAC,Frank Kush,H,Utah State,Ind,Tony Knap,L,0,13
+1965-10-02,Arizona State,WAC,Frank Kush,A,West Texas A&M,Ind,Joe Kerbel,L,14,22
+1965-10-09,Arizona State,WAC,Frank Kush,H,Wichita State,MVC,George Karras,W,8,6
+1965-10-16,Arizona State,WAC,Frank Kush,A,San Jose State,Ind,Harry Anderson,L,14,21
+1965-10-23,Arizona State,WAC,Frank Kush,H,New Mexico,WAC,Bill Weeks,W,27,14
+1965-10-30,Arizona State,WAC,Frank Kush,A,UTEP,Ind,Robert Dobbs,W,28,20
+1965-11-13,Arizona State,WAC,Frank Kush,H,Washington State,AAWU,Bert Clark,W,7,6
+1965-11-20,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Lloyd Eaton,W,14,10
+1965-11-27,Arizona State,WAC,Frank Kush,H,Arizona,WAC,Jim LaRue,W,14,6
+1965-09-25,Furman,Southern,Robert King,H,Davidson,Southern,Homer Smith,L,0,24
+1965-10-02,Furman,Southern,Robert King,H,East Carolina,Southern,Clarence Stasavich,W,14,7
+1965-10-30,Furman,Southern,Robert King,A,Lehigh,Ind,Frederick Dunlap,W,27,15
+1965-11-06,Furman,Southern,Robert King,H,George Washington,Southern,Jim Camp,L,7,24
+1965-11-13,Furman,Southern,Robert King,H,Richmond,Southern,Edwin Merrick,W,14,0
+1965-11-20,Furman,Southern,Robert King,A,Citadel,Southern,Eddie Teague,L,0,28
+1965-09-18,Utah,WAC,Ray Nagel,H,Arizona,WAC,Jim LaRue,L,9,16
+1965-09-25,Utah,WAC,Ray Nagel,H,Oregon,AAWU,Len Casanova,L,14,31
+1965-10-09,Utah,WAC,Ray Nagel,H,Wyoming,WAC,Lloyd Eaton,W,42,3
+1965-10-16,Utah,WAC,Ray Nagel,A,New Mexico,WAC,Bill Weeks,L,10,13
+1965-10-23,Utah,WAC,Ray Nagel,A,Oregon State,AAWU,Dee Andros,L,6,10
+1965-10-30,Utah,WAC,Ray Nagel,H,Colorado State,Ind,Milo Lude,W,22,19
+1965-11-06,Utah,WAC,Ray Nagel,A,Brigham Young,WAC,Tommy Hudspeth,L,20,25
+1965-11-13,Utah,WAC,Ray Nagel,H,UTEP,Ind,Robert Dobbs,L,19,20
+1965-11-20,Utah,WAC,Ray Nagel,H,Utah State,Ind,Tony Knap,L,7,14
+1965-10-02,Wichita State,MVC,George Karras,A,Cincinnati,MVC,Charles Studley,L,6,14
+1965-10-09,Wichita State,MVC,George Karras,A,Arizona State,WAC,Frank Kush,L,6,8
+1965-10-16,Wichita State,MVC,George Karras,H,New Mexico State,Ind,Warren Woodson,L,20,45
+1965-10-30,Wichita State,MVC,George Karras,A,Louisville,MVC,Frank Camp,L,10,30
+1965-11-06,Wichita State,MVC,George Karras,A,North Texas,MVC,Odus Mitchell,L,21,24
+1965-11-13,Wichita State,MVC,George Karras,H,Utah State,Ind,Tony Knap,W,21,19
+1965-11-20,Wichita State,MVC,George Karras,H,Tulsa,MVC,Glenn Dobbs,L,3,13
+1965-09-18,Villanova,Ind,Alex Bell,H,Toledo,MAC,Frank Lauterbur,L,7,9
+1965-09-25,Villanova,Ind,Alex Bell,A,Boston College,Ind,Jim Miller,L,0,28
+1965-10-09,Villanova,Ind,Alex Bell,A,Washington State,AAWU,Bert Clark,L,14,24
+1965-10-30,Villanova,Ind,Alex Bell,A,Xavier,Ind,Edward Biles,L,0,35
+1965-11-06,Villanova,Ind,Alex Bell,H,Quantico Marines,Ind,,L,6,32
+1965-11-13,Villanova,Ind,Alex Bell,A,Virginia Tech,Ind,Jerry Claiborne,L,19,21
+1965-11-20,Villanova,Ind,Alex Bell,H,Buffalo,Ind,Dick Offenhamer,L,7,20
+1965-09-18,Syracuse,Ind,Ben Schwartzwalder,A,Navy,Ind,William Elias,W,14,6
+1965-09-25,Syracuse,Ind,Ben Schwartzwalder,H,Miami (FL),Ind,Charlie Tate,L,0,24
+1965-10-02,Syracuse,Ind,Ben Schwartzwalder,A,Maryland,ACC,Thomas Nugent,W,24,7
+1965-10-09,Syracuse,Ind,Ben Schwartzwalder,A,UCLA,AAWU,Tommy Prothro,L,14,24
+1965-10-16,Syracuse,Ind,Ben Schwartzwalder,H,Penn State,Ind,Rip Engle,W,28,21
+1965-10-23,Syracuse,Ind,Ben Schwartzwalder,H,Holy Cross,Ind,Melvin Massucco,W,32,6
+1965-10-30,Syracuse,Ind,Ben Schwartzwalder,N,Pitt,Ind,John Michelosen,W,51,13
+1965-11-06,Syracuse,Ind,Ben Schwartzwalder,H,Oregon State,AAWU,Dee Andros,L,12,13
+1965-11-13,Syracuse,Ind,Ben Schwartzwalder,A,West Virginia,Southern,Gene Corum,W,41,19
+1965-11-20,Syracuse,Ind,Ben Schwartzwalder,H,Boston College,Ind,Jim Miller,W,21,13
+1965-09-18,Arizona,WAC,Jim LaRue,A,Utah,WAC,Ray Nagel,W,16,9
+1965-09-25,Arizona,WAC,Jim LaRue,A,Kansas,Big 8,Jack Mitchell,W,23,15
+1965-10-02,Arizona,WAC,Jim LaRue,A,Wyoming,WAC,Lloyd Eaton,L,0,19
+1965-10-09,Arizona,WAC,Jim LaRue,H,New Mexico,WAC,Bill Weeks,L,2,24
+1965-10-16,Arizona,WAC,Jim LaRue,A,Washington State,AAWU,Bert Clark,L,3,21
+1965-10-23,Arizona,WAC,Jim LaRue,H,San Jose State,Ind,Harry Anderson,L,7,13
+1965-11-06,Arizona,WAC,Jim LaRue,H,UTEP,Ind,Robert Dobbs,W,10,3
+1965-11-13,Arizona,WAC,Jim LaRue,H,Air Force,Ind,Ben Martin,L,7,34
+1965-11-20,Arizona,WAC,Jim LaRue,H,Brigham Young,WAC,Tommy Hudspeth,L,3,20
+1965-11-27,Arizona,WAC,Jim LaRue,A,Arizona State,WAC,Frank Kush,L,6,14
+1965-09-25,Penn State,Ind,Rip Engle,H,Michigan State,Big Ten,Duffy Daugherty,L,0,23
+1965-10-02,Penn State,Ind,Rip Engle,H,UCLA,AAWU,Tommy Prothro,L,22,24
+1965-10-09,Penn State,Ind,Rip Engle,A,Boston College,Ind,Jim Miller,W,17,0
+1965-10-16,Penn State,Ind,Rip Engle,A,Syracuse,Ind,Ben Schwartzwalder,L,21,28
+1965-10-23,Penn State,Ind,Rip Engle,H,West Virginia,Southern,Gene Corum,W,44,6
+1965-10-30,Penn State,Ind,Rip Engle,A,California,AAWU,Ray Willsey,L,17,21
+1965-11-06,Penn State,Ind,Rip Engle,H,Kent State,MAC,Leo Strang,W,21,6
+1965-11-13,Penn State,Ind,Rip Engle,H,Navy,Ind,William Elias,W,14,6
+1965-11-20,Penn State,Ind,Rip Engle,A,Pitt,Ind,John Michelosen,L,27,30
+1965-12-04,Penn State,Ind,Rip Engle,A,Maryland,ACC,Thomas Nugent,W,19,7
+1965-09-25,Princeton,Ivy,Richard Colman,H,Rutgers,Ind,John Bateman,W,32,6
+1965-10-02,Princeton,Ivy,Richard Colman,A,Columbia,Ivy,Aldo Donelli,W,31,0
+1965-10-09,Princeton,Ivy,Richard Colman,A,Cornell,Ivy,Tom Harp,W,36,27
+1965-10-16,Princeton,Ivy,Richard Colman,H,Colgate,Ind,Hal Lahar,W,27,0
+1965-10-23,Princeton,Ivy,Richard Colman,H,Pennsylvania,Ivy,Robert Odell,W,51,0
+1965-10-30,Princeton,Ivy,Richard Colman,H,Brown,Ivy,John McLaughry,W,45,27
+1965-11-06,Princeton,Ivy,Richard Colman,A,Harvard,Ivy,John Yovicsin,W,14,6
+1965-11-13,Princeton,Ivy,Richard Colman,H,Yale,Ivy,Carmen Cozza,W,31,6
+1965-11-20,Princeton,Ivy,Richard Colman,H,Dartmouth,Ivy,Bob Blackman,L,14,28
+1965-09-18,Vanderbilt,SEC,Jack Green,H,Georgia Tech,Ind,Bobby Dodd,T,10,10
+1965-09-25,Vanderbilt,SEC,Jack Green,A,Georgia,SEC,Vince Dooley,L,10,24
+1965-10-02,Vanderbilt,SEC,Jack Green,A,Wake Forest,ACC,William Tate,L,0,7
+1965-10-09,Vanderbilt,SEC,Jack Green,H,Alabama,SEC,Bear Bryant,L,7,22
+1965-10-16,Vanderbilt,SEC,Jack Green,H,Virginia Tech,Ind,Jerry Claiborne,W,21,10
+1965-10-23,Vanderbilt,SEC,Jack Green,A,Ole Miss,SEC,John Vaught,L,7,24
+1965-10-30,Vanderbilt,SEC,Jack Green,A,Tulane,SEC,Tommy O'Boyle,W,13,0
+1965-11-06,Vanderbilt,SEC,Jack Green,H,Kentucky,SEC,Charley Bradshaw,L,0,34
+1965-11-13,Vanderbilt,SEC,Jack Green,H,Miami (FL),Ind,Charlie Tate,L,14,28
+1965-11-27,Vanderbilt,SEC,Jack Green,A,Tennessee,SEC,Doug Dickey,L,3,21
+1965-09-18,Kentucky,SEC,Charley Bradshaw,A,Missouri,Big 8,Dan Devine,W,7,0
+1965-09-25,Kentucky,SEC,Charley Bradshaw,H,Ole Miss,SEC,John Vaught,W,16,7
+1965-10-02,Kentucky,SEC,Charley Bradshaw,A,Auburn,SEC,Ralph Jordan,L,18,23
+1965-10-09,Kentucky,SEC,Charley Bradshaw,H,Florida State,Ind,Bill Peterson,W,26,24
+1965-10-16,Kentucky,SEC,Charley Bradshaw,A,LSU,SEC,Charles McClendon,L,21,31
+1965-10-23,Kentucky,SEC,Charley Bradshaw,H,Georgia,SEC,Vince Dooley,W,28,10
+1965-10-30,Kentucky,SEC,Charley Bradshaw,H,West Virginia,Southern,Gene Corum,W,28,8
+1965-11-06,Kentucky,SEC,Charley Bradshaw,A,Vanderbilt,SEC,Jack Green,W,34,0
+1965-11-13,Kentucky,SEC,Charley Bradshaw,A,Houston,Ind,Bill Yeoman,L,21,38
+1965-11-20,Kentucky,SEC,Charley Bradshaw,H,Tennessee,SEC,Doug Dickey,L,3,19
+1965-09-18,California,AAWU,Ray Willsey,H,Notre Dame,Ind,Ara Parseghian,L,6,48
+1965-09-25,California,AAWU,Ray Willsey,A,Michigan,Big Ten,Bump Elliott,L,7,10
+1965-10-02,California,AAWU,Ray Willsey,H,Kansas,Big 8,Jack Mitchell,W,17,0
+1965-10-09,California,AAWU,Ray Willsey,A,Air Force,Ind,Ben Martin,W,24,7
+1965-10-16,California,AAWU,Ray Willsey,H,Washington,AAWU,Jim Owens,W,16,12
+1965-10-23,California,AAWU,Ray Willsey,A,UCLA,AAWU,Tommy Prothro,L,3,56
+1965-10-30,California,AAWU,Ray Willsey,H,Penn State,Ind,Rip Engle,W,21,17
+1965-11-06,California,AAWU,Ray Willsey,H,USC,AAWU,John McKay,L,0,35
+1965-11-13,California,AAWU,Ray Willsey,A,Oregon,AAWU,Len Casanova,W,24,0
+1965-11-20,California,AAWU,Ray Willsey,A,Stanford,AAWU,John Ralston,L,7,9
+1965-09-18,Florida,SEC,Ray Graves,A,Northwestern,Big Ten,Alex Agase,W,24,14
+1965-09-25,Florida,SEC,Ray Graves,H,Mississippi State,SEC,Paul Davis,L,13,18
+1965-10-02,Florida,SEC,Ray Graves,H,LSU,SEC,Charles McClendon,W,14,7
+1965-10-09,Florida,SEC,Ray Graves,A,Ole Miss,SEC,John Vaught,W,17,0
+1965-10-16,Florida,SEC,Ray Graves,H,North Carolina State,ACC,Earle Edwards,W,28,6
+1965-10-30,Florida,SEC,Ray Graves,A,Auburn,SEC,Ralph Jordan,L,17,28
+1965-11-06,Florida,SEC,Ray Graves,N,Georgia,SEC,Vince Dooley,W,14,10
+1965-11-13,Florida,SEC,Ray Graves,H,Tulane,SEC,Tommy O'Boyle,W,51,13
+1965-11-20,Florida,SEC,Ray Graves,A,Miami (FL),Ind,Charlie Tate,L,13,16
+1965-11-27,Florida,SEC,Ray Graves,H,Florida State,Ind,Bill Peterson,W,30,17
+1966-01-01,Florida,SEC,Ray Graves,N,Missouri,Big 8,Dan Devine,L,18,20
+1965-09-17,Stanford,AAWU,John Ralston,H,San Jose State,Ind,Harry Anderson,W,26,6
+1965-09-25,Stanford,AAWU,John Ralston,H,Navy,Ind,William Elias,T,7,7
+1965-10-02,Stanford,AAWU,John Ralston,A,Air Force,Ind,Ben Martin,W,17,16
+1965-10-09,Stanford,AAWU,John Ralston,H,Oregon,AAWU,Len Casanova,W,17,14
+1965-10-16,Stanford,AAWU,John Ralston,A,USC,AAWU,John McKay,L,0,14
+1965-10-23,Stanford,AAWU,John Ralston,H,Army,Ind,Paul Dietzel,W,31,14
+1965-10-30,Stanford,AAWU,John Ralston,A,Washington,AAWU,Jim Owens,L,8,41
+1965-11-06,Stanford,AAWU,John Ralston,A,Tulane,SEC,Tommy O'Boyle,W,16,0
+1965-11-13,Stanford,AAWU,John Ralston,H,UCLA,AAWU,Tommy Prothro,L,13,30
+1965-11-20,Stanford,AAWU,John Ralston,H,California,AAWU,Ray Willsey,W,9,7
+1965-09-18,Washington State,AAWU,Bert Clark,A,Iowa,Big Ten,Jerry Burns,W,7,0
+1965-09-25,Washington State,AAWU,Bert Clark,A,Minnesota,Big Ten,Murray Warmath,W,14,13
+1965-10-02,Washington State,AAWU,Bert Clark,H,Idaho,Ind,Steve Musseau,L,13,17
+1965-10-09,Washington State,AAWU,Bert Clark,H,Villanova,Ind,Alex Bell,W,24,14
+1965-10-16,Washington State,AAWU,Bert Clark,H,Arizona,WAC,Jim LaRue,W,21,3
+1965-10-23,Washington State,AAWU,Bert Clark,A,Indiana,Big Ten,John Pont,W,8,7
+1965-10-30,Washington State,AAWU,Bert Clark,A,Oregon State,AAWU,Dee Andros,W,10,8
+1965-11-06,Washington State,AAWU,Bert Clark,H,Oregon,AAWU,Len Casanova,W,27,7
+1965-11-13,Washington State,AAWU,Bert Clark,A,Arizona State,WAC,Frank Kush,L,6,7
+1965-11-20,Washington State,AAWU,Bert Clark,A,Washington,AAWU,Jim Owens,L,9,27
+1965-09-18,Illinois,Big Ten,Pete Elliott,H,Oregon State,AAWU,Dee Andros,L,10,12
+1965-09-25,Illinois,Big Ten,Pete Elliott,H,SMU,SWC,Hayden Fry,W,42,0
+1965-10-02,Illinois,Big Ten,Pete Elliott,A,Michigan State,Big Ten,Duffy Daugherty,L,12,22
+1965-10-09,Illinois,Big Ten,Pete Elliott,A,Ohio State,Big Ten,Woody Hayes,L,14,28
+1965-10-16,Illinois,Big Ten,Pete Elliott,H,Indiana,Big Ten,John Pont,W,34,13
+1965-10-23,Illinois,Big Ten,Pete Elliott,H,Duke,ACC,Bill Murray,W,28,14
+1965-10-30,Illinois,Big Ten,Pete Elliott,H,Purdue,Big Ten,Jack Mollenkopf,W,21,0
+1965-11-06,Illinois,Big Ten,Pete Elliott,H,Michigan,Big Ten,Bump Elliott,L,3,23
+1965-11-13,Illinois,Big Ten,Pete Elliott,A,Wisconsin,Big Ten,Milt Bruhn,W,51,0
+1965-11-20,Illinois,Big Ten,Pete Elliott,A,Northwestern,Big Ten,Alex Agase,W,20,6
+1965-09-18,Baylor,SWC,John Bridgers,A,Auburn,SEC,Ralph Jordan,W,14,8
+1965-09-25,Baylor,SWC,John Bridgers,H,Washington,AAWU,Jim Owens,W,17,14
+1965-10-02,Baylor,SWC,John Bridgers,A,Florida State,Ind,Bill Peterson,L,7,9
+1965-10-09,Baylor,SWC,John Bridgers,H,Arkansas,SWC,Frank Broyles,L,7,38
+1965-10-23,Baylor,SWC,John Bridgers,A,Texas A&M,SWC,Gene Stallings,W,31,0
+1965-10-30,Baylor,SWC,John Bridgers,H,Texas Christian,SWC,Abe Martin,L,7,10
+1965-11-06,Baylor,SWC,John Bridgers,A,Texas,SWC,Darrell Royal,L,14,35
+1965-11-13,Baylor,SWC,John Bridgers,A,Texas Tech,SWC,J.T. King,L,22,34
+1965-11-20,Baylor,SWC,John Bridgers,H,SMU,SWC,Hayden Fry,W,20,10
+1965-11-27,Baylor,SWC,John Bridgers,A,Rice,SWC,Jess Neely,W,17,13
+1965-09-18,SMU,SWC,Hayden Fry,A,Miami (FL),Ind,Charlie Tate,W,7,3
+1965-09-25,SMU,SWC,Hayden Fry,A,Illinois,Big Ten,Pete Elliott,L,0,42
+1965-10-02,SMU,SWC,Hayden Fry,H,Purdue,Big Ten,Jack Mollenkopf,T,14,14
+1965-10-16,SMU,SWC,Hayden Fry,A,Rice,SWC,Jess Neely,W,17,14
+1965-10-23,SMU,SWC,Hayden Fry,H,Texas Tech,SWC,J.T. King,L,24,26
+1965-10-30,SMU,SWC,Hayden Fry,H,Texas,SWC,Darrell Royal,W,31,14
+1965-11-06,SMU,SWC,Hayden Fry,A,Texas A&M,SWC,Gene Stallings,W,10,0
+1965-11-13,SMU,SWC,Hayden Fry,H,Arkansas,SWC,Frank Broyles,L,3,24
+1965-11-20,SMU,SWC,Hayden Fry,A,Baylor,SWC,John Bridgers,L,10,20
+1965-11-27,SMU,SWC,Hayden Fry,H,Texas Christian,SWC,Abe Martin,L,7,10
+1965-09-18,Georgia,SEC,Vince Dooley,H,Alabama,SEC,Bear Bryant,W,18,17
+1965-09-25,Georgia,SEC,Vince Dooley,H,Vanderbilt,SEC,Jack Green,W,24,10
+1965-10-02,Georgia,SEC,Vince Dooley,A,Michigan,Big Ten,Bump Elliott,W,15,7
+1965-10-09,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Frank Howard,W,23,9
+1965-10-16,Georgia,SEC,Vince Dooley,A,Florida State,Ind,Bill Peterson,L,3,10
+1965-10-23,Georgia,SEC,Vince Dooley,A,Kentucky,SEC,Charley Bradshaw,L,10,28
+1965-10-30,Georgia,SEC,Vince Dooley,A,North Carolina,ACC,James Hickey,W,47,35
+1965-11-06,Georgia,SEC,Vince Dooley,N,Florida,SEC,Ray Graves,L,10,14
+1965-11-13,Georgia,SEC,Vince Dooley,H,Auburn,SEC,Ralph Jordan,L,19,21
+1965-11-27,Georgia,SEC,Vince Dooley,A,Georgia Tech,Ind,Bobby Dodd,W,17,7
+1965-09-25,Maryland,ACC,Thomas Nugent,H,Ohio,MAC,Bill Hess,W,24,7
+1965-10-02,Maryland,ACC,Thomas Nugent,H,Syracuse,Ind,Ben Schwartzwalder,L,7,24
+1965-10-09,Maryland,ACC,Thomas Nugent,A,Wake Forest,ACC,William Tate,W,10,7
+1965-10-16,Maryland,ACC,Thomas Nugent,A,North Carolina,ACC,James Hickey,L,10,12
+1965-10-23,Maryland,ACC,Thomas Nugent,H,North Carolina State,ACC,Earle Edwards,L,7,29
+1965-10-30,Maryland,ACC,Thomas Nugent,A,South Carolina,ACC,Marvin Bass,W,27,14
+1965-11-06,Maryland,ACC,Thomas Nugent,A,Navy,Ind,William Elias,L,7,19
+1965-11-13,Maryland,ACC,Thomas Nugent,A,Clemson,ACC,Frank Howard,W,6,0
+1965-11-20,Maryland,ACC,Thomas Nugent,H,Virginia,ACC,George Blackburn,L,27,33
+1965-12-04,Maryland,ACC,Thomas Nugent,H,Penn State,Ind,Rip Engle,L,7,19
+1965-09-18,Virginia,ACC,George Blackburn,H,Duke,ACC,Bill Murray,L,7,21
+1965-09-25,Virginia,ACC,George Blackburn,H,Clemson,ACC,Frank Howard,L,14,20
+1965-10-02,Virginia,ACC,George Blackburn,A,North Carolina,ACC,James Hickey,W,21,17
+1965-10-09,Virginia,ACC,George Blackburn,H,Virginia Military Institute,Southern,John McKenna,W,14,10
+1965-10-16,Virginia,ACC,George Blackburn,H,West Virginia,Southern,Gene Corum,W,41,0
+1965-10-23,Virginia,ACC,George Blackburn,A,Virginia Tech,Ind,Jerry Claiborne,L,14,22
+1965-10-30,Virginia,ACC,George Blackburn,H,North Carolina State,ACC,Earle Edwards,L,0,13
+1965-11-06,Virginia,ACC,George Blackburn,H,South Carolina,ACC,Marvin Bass,L,7,17
+1965-11-13,Virginia,ACC,George Blackburn,A,Georgia Tech,Ind,Bobby Dodd,L,19,42
+1965-11-20,Virginia,ACC,George Blackburn,A,Maryland,ACC,Thomas Nugent,W,33,27
+1965-09-18,Idaho,Ind,Steve Musseau,A,Washington,AAWU,Jim Owens,L,9,14
+1965-09-25,Idaho,Ind,Steve Musseau,H,San Jose State,Ind,Harry Anderson,W,17,7
+1965-10-02,Idaho,Ind,Steve Musseau,A,Washington State,AAWU,Bert Clark,W,17,13
+1965-10-09,Idaho,Ind,Steve Musseau,A,Utah State,Ind,Tony Knap,L,19,30
+1965-10-16,Idaho,Ind,Steve Musseau,H,Oregon State,AAWU,Dee Andros,L,14,16
+1965-10-30,Idaho,Ind,Steve Musseau,A,Oregon,AAWU,Len Casanova,L,14,17
+1965-09-18,Citadel,Southern,Eddie Teague,H,South Carolina,ACC,Marvin Bass,L,3,13
+1965-09-25,Citadel,Southern,Eddie Teague,A,George Washington,Southern,Jim Camp,L,7,30
+1965-10-02,Citadel,Southern,Eddie Teague,H,Davidson,Southern,Homer Smith,L,0,14
+1965-10-09,Citadel,Southern,Eddie Teague,H,West Virginia,Southern,Gene Corum,L,2,25
+1965-10-23,Citadel,Southern,Eddie Teague,A,East Carolina,Southern,Clarence Stasavich,L,0,21
+1965-10-30,Citadel,Southern,Eddie Teague,A,Richmond,Southern,Edwin Merrick,W,24,0
+1965-11-06,Citadel,Southern,Eddie Teague,H,William & Mary,Southern,Marv Levy,L,6,20
+1965-11-13,Citadel,Southern,Eddie Teague,A,Virginia Military Institute,Southern,John McKenna,L,7,21
+1965-11-20,Citadel,Southern,Eddie Teague,H,Furman,Southern,Robert King,W,28,0
+1965-09-25,Oklahoma,Big 8,Gomer Jones,A,Pitt,Ind,John Michelosen,L,9,13
+1965-10-02,Oklahoma,Big 8,Gomer Jones,H,Navy,Ind,William Elias,L,0,10
+1965-10-09,Oklahoma,Big 8,Gomer Jones,N,Texas,SWC,Darrell Royal,L,0,19
+1965-10-16,Oklahoma,Big 8,Gomer Jones,H,Kansas,Big 8,Jack Mitchell,W,21,7
+1965-10-23,Oklahoma,Big 8,Gomer Jones,A,Kansas State,Big 8,Doug Weaver,W,27,0
+1965-10-30,Oklahoma,Big 8,Gomer Jones,H,Colorado,Big 8,Eddie Crowder,L,0,13
+1965-11-06,Oklahoma,Big 8,Gomer Jones,H,Iowa State,Big 8,Clay Stapleton,W,24,20
+1965-11-13,Oklahoma,Big 8,Gomer Jones,A,Missouri,Big 8,Dan Devine,L,0,30
+1965-11-25,Oklahoma,Big 8,Gomer Jones,A,Nebraska,Big 8,Bob Devaney,L,9,21
+1965-12-04,Oklahoma,Big 8,Gomer Jones,H,Oklahoma State,Big 8,Phil Cutchin,L,16,17
+1965-09-18,Virginia Tech,Ind,Jerry Claiborne,H,Wake Forest,ACC,William Tate,W,12,3
+1965-09-25,Virginia Tech,Ind,Jerry Claiborne,A,Richmond,Southern,Edwin Merrick,W,25,7
+1965-10-02,Virginia Tech,Ind,Jerry Claiborne,H,William & Mary,Southern,Marv Levy,W,9,7
+1965-10-09,Virginia Tech,Ind,Jerry Claiborne,A,George Washington,Southern,Jim Camp,W,17,12
+1965-10-16,Virginia Tech,Ind,Jerry Claiborne,A,Vanderbilt,SEC,Jack Green,L,10,21
+1965-10-23,Virginia Tech,Ind,Jerry Claiborne,H,Virginia,ACC,George Blackburn,W,22,14
+1965-10-30,Virginia Tech,Ind,Jerry Claiborne,A,Florida State,Ind,Bill Peterson,L,6,7
+1965-11-06,Virginia Tech,Ind,Jerry Claiborne,A,West Virginia,Southern,Gene Corum,L,22,31
+1965-11-13,Virginia Tech,Ind,Jerry Claiborne,H,Villanova,Ind,Alex Bell,W,21,19
+1965-11-25,Virginia Tech,Ind,Jerry Claiborne,N,Virginia Military Institute,Southern,John McKenna,W,44,13
+1965-09-18,Louisville,MVC,Frank Camp,A,Western Michigan,MAC,Bill Doolittle,L,13,17
+1965-10-02,Louisville,MVC,Frank Camp,A,North Texas,MVC,Odus Mitchell,W,29,21
+1965-10-09,Louisville,MVC,Frank Camp,H,Dayton,Ind,John McVay,W,34,0
+1965-10-16,Louisville,MVC,Frank Camp,H,East Carolina,Southern,Clarence Stasavich,L,20,34
+1965-10-23,Louisville,MVC,Frank Camp,H,Marshall,MAC,Charlie Snyder,W,23,7
+1965-10-30,Louisville,MVC,Frank Camp,H,Wichita State,MVC,George Karras,W,30,10
+1965-11-06,Louisville,MVC,Frank Camp,A,Tulsa,MVC,Glenn Dobbs,L,18,51
+1965-11-20,Louisville,MVC,Frank Camp,A,Kent State,MAC,Leo Strang,L,6,7
+1965-09-18,Arkansas,SWC,Frank Broyles,H,Oklahoma State,Big 8,Phil Cutchin,W,28,14
+1965-09-25,Arkansas,SWC,Frank Broyles,H,Tulsa,MVC,Glenn Dobbs,W,20,12
+1965-10-02,Arkansas,SWC,Frank Broyles,H,Texas Christian,SWC,Abe Martin,W,28,0
+1965-10-09,Arkansas,SWC,Frank Broyles,A,Baylor,SWC,John Bridgers,W,38,7
+1965-10-16,Arkansas,SWC,Frank Broyles,H,Texas,SWC,Darrell Royal,W,27,24
+1965-10-23,Arkansas,SWC,Frank Broyles,H,North Texas,MVC,Odus Mitchell,W,55,20
+1965-10-30,Arkansas,SWC,Frank Broyles,H,Texas A&M,SWC,Gene Stallings,W,31,0
+1965-11-06,Arkansas,SWC,Frank Broyles,A,Rice,SWC,Jess Neely,W,31,0
+1965-11-13,Arkansas,SWC,Frank Broyles,A,SMU,SWC,Hayden Fry,W,24,3
+1965-11-20,Arkansas,SWC,Frank Broyles,H,Texas Tech,SWC,J.T. King,W,42,24
+1966-01-01,Arkansas,SWC,Frank Broyles,N,LSU,SEC,Charles McClendon,L,7,14
+1965-09-18,Clemson,ACC,Frank Howard,H,North Carolina State,ACC,Earle Edwards,W,21,7
+1965-09-25,Clemson,ACC,Frank Howard,A,Virginia,ACC,George Blackburn,W,20,14
+1965-10-02,Clemson,ACC,Frank Howard,A,Georgia Tech,Ind,Bobby Dodd,L,6,38
+1965-10-09,Clemson,ACC,Frank Howard,A,Georgia,SEC,Vince Dooley,L,9,23
+1965-10-16,Clemson,ACC,Frank Howard,A,Duke,ACC,Bill Murray,W,3,2
+1965-10-23,Clemson,ACC,Frank Howard,H,Texas Christian,SWC,Abe Martin,W,3,0
+1965-10-30,Clemson,ACC,Frank Howard,H,Wake Forest,ACC,William Tate,W,26,13
+1965-11-06,Clemson,ACC,Frank Howard,A,North Carolina,ACC,James Hickey,L,13,17
+1965-11-13,Clemson,ACC,Frank Howard,H,Maryland,ACC,Thomas Nugent,L,0,6
+1965-11-20,Clemson,ACC,Frank Howard,A,South Carolina,ACC,Marvin Bass,L,16,17
+1965-09-18,South Carolina,ACC,Marvin Bass,A,Citadel,Southern,Eddie Teague,W,13,3
+1965-09-25,South Carolina,ACC,Marvin Bass,H,Duke,ACC,Bill Murray,L,15,20
+1965-10-02,South Carolina,ACC,Marvin Bass,H,North Carolina State,ACC,Earle Edwards,W,13,7
+1965-10-09,South Carolina,ACC,Marvin Bass,A,Tennessee,SEC,Doug Dickey,L,3,24
+1965-10-16,South Carolina,ACC,Marvin Bass,H,Wake Forest,ACC,William Tate,W,38,7
+1965-10-23,South Carolina,ACC,Marvin Bass,A,LSU,SEC,Charles McClendon,L,7,21
+1965-10-30,South Carolina,ACC,Marvin Bass,H,Maryland,ACC,Thomas Nugent,L,14,27
+1965-11-06,South Carolina,ACC,Marvin Bass,A,Virginia,ACC,George Blackburn,W,17,7
+1965-11-13,South Carolina,ACC,Marvin Bass,A,Alabama,SEC,Bear Bryant,L,14,35
+1965-11-20,South Carolina,ACC,Marvin Bass,H,Clemson,ACC,Frank Howard,W,17,16
+1965-09-18,Washington,AAWU,Jim Owens,H,Idaho,Ind,Steve Musseau,W,14,9
+1965-09-25,Washington,AAWU,Jim Owens,A,Baylor,SWC,John Bridgers,L,14,17
+1965-10-02,Washington,AAWU,Jim Owens,H,Ohio State,Big Ten,Woody Hayes,L,21,23
+1965-10-09,Washington,AAWU,Jim Owens,H,USC,AAWU,John McKay,L,0,34
+1965-10-16,Washington,AAWU,Jim Owens,A,California,AAWU,Ray Willsey,L,12,16
+1965-10-23,Washington,AAWU,Jim Owens,A,Oregon,AAWU,Len Casanova,W,24,20
+1965-10-30,Washington,AAWU,Jim Owens,H,Stanford,AAWU,John Ralston,W,41,8
+1965-11-06,Washington,AAWU,Jim Owens,A,UCLA,AAWU,Tommy Prothro,L,24,28
+1965-11-13,Washington,AAWU,Jim Owens,H,Oregon State,AAWU,Dee Andros,W,28,21
+1965-11-20,Washington,AAWU,Jim Owens,H,Washington State,AAWU,Bert Clark,W,27,9
+1965-09-25,Holy Cross,Ind,Melvin Massucco,A,Harvard,Ivy,John Yovicsin,L,7,17
+1965-10-02,Holy Cross,Ind,Melvin Massucco,H,Dartmouth,Ivy,Bob Blackman,L,6,27
+1965-10-09,Holy Cross,Ind,Melvin Massucco,A,Colgate,Ind,Hal Lahar,L,3,7
+1965-10-23,Holy Cross,Ind,Melvin Massucco,A,Syracuse,Ind,Ben Schwartzwalder,L,6,32
+1965-10-30,Holy Cross,Ind,Melvin Massucco,H,Buffalo,Ind,Dick Offenhamer,W,20,7
+1965-11-13,Holy Cross,Ind,Melvin Massucco,A,Rutgers,Ind,John Bateman,L,0,14
+1965-11-27,Holy Cross,Ind,Melvin Massucco,H,Boston College,Ind,Jim Miller,L,0,35
+1965-09-25,Southern Mississippi,Ind,Pie Vann,H,Memphis,Ind,Billy Murphy,W,21,16
+1965-10-02,Southern Mississippi,Ind,Pie Vann,H,Richmond,Southern,Edwin Merrick,W,28,7
+1965-10-09,Southern Mississippi,Ind,Pie Vann,A,Mississippi State,SEC,Paul Davis,L,9,27
+1965-10-16,Southern Mississippi,Ind,Pie Vann,H,Virginia Military Institute,Southern,John McKenna,W,3,0
+1965-10-23,Southern Mississippi,Ind,Pie Vann,A,Auburn,SEC,Ralph Jordan,W,3,0
+1965-10-30,Southern Mississippi,Ind,Pie Vann,A,William & Mary,Southern,Marv Levy,L,0,3
+1965-09-25,Utah State,Ind,Tony Knap,A,Arizona State,WAC,Frank Kush,W,13,0
+1965-10-02,Utah State,Ind,Tony Knap,A,San Jose State,Ind,Harry Anderson,W,35,8
+1965-10-09,Utah State,Ind,Tony Knap,H,Idaho,Ind,Steve Musseau,W,30,19
+1965-10-23,Utah State,Ind,Tony Knap,A,Colorado State,Ind,Milo Lude,W,41,20
+1965-10-30,Utah State,Ind,Tony Knap,H,Brigham Young,WAC,Tommy Hudspeth,W,34,21
+1965-11-06,Utah State,Ind,Tony Knap,A,Memphis,Ind,Billy Murphy,L,0,7
+1965-11-13,Utah State,Ind,Tony Knap,A,Wichita State,MVC,George Karras,L,19,21
+1965-11-20,Utah State,Ind,Tony Knap,A,Utah,WAC,Ray Nagel,W,14,7
+1965-09-18,Missouri,Big 8,Dan Devine,H,Kentucky,SEC,Charley Bradshaw,L,0,7
+1965-09-25,Missouri,Big 8,Dan Devine,A,Oklahoma State,Big 8,Phil Cutchin,W,13,0
+1965-10-02,Missouri,Big 8,Dan Devine,A,Minnesota,Big Ten,Murray Warmath,W,17,6
+1965-10-09,Missouri,Big 8,Dan Devine,H,Kansas State,Big 8,Doug Weaver,W,28,6
+1965-10-16,Missouri,Big 8,Dan Devine,H,UCLA,AAWU,Tommy Prothro,T,14,14
+1965-10-23,Missouri,Big 8,Dan Devine,A,Iowa State,Big 8,Clay Stapleton,W,23,7
+1965-10-30,Missouri,Big 8,Dan Devine,H,Nebraska,Big 8,Bob Devaney,L,14,16
+1965-11-06,Missouri,Big 8,Dan Devine,A,Colorado,Big 8,Eddie Crowder,W,20,7
+1965-11-13,Missouri,Big 8,Dan Devine,H,Oklahoma,Big 8,Gomer Jones,W,30,0
+1965-11-20,Missouri,Big 8,Dan Devine,A,Kansas,Big 8,Jack Mitchell,W,44,20
+1966-01-01,Missouri,Big 8,Dan Devine,N,Florida,SEC,Ray Graves,W,20,18
+1965-09-17,San Jose State,Ind,Harry Anderson,A,Stanford,AAWU,John Ralston,L,6,26
+1965-09-25,San Jose State,Ind,Harry Anderson,A,Idaho,Ind,Steve Musseau,L,7,17
+1965-10-02,San Jose State,Ind,Harry Anderson,H,Utah State,Ind,Tony Knap,L,8,35
+1965-10-08,San Jose State,Ind,Harry Anderson,A,Brigham Young,WAC,Tommy Hudspeth,L,7,34
+1965-10-16,San Jose State,Ind,Harry Anderson,H,Arizona State,WAC,Frank Kush,W,21,14
+1965-10-23,San Jose State,Ind,Harry Anderson,A,Arizona,WAC,Jim LaRue,W,13,7
+1965-10-30,San Jose State,Ind,Harry Anderson,A,New Mexico,WAC,Bill Weeks,W,27,7
+1965-11-06,San Jose State,Ind,Harry Anderson,H,Pacific,Ind,Don Campora,W,52,21
+1965-09-25,Bowling Green State,MAC,Bob Gibson,A,West Texas A&M,Ind,Joe Kerbel,L,0,34
+1965-10-02,Bowling Green State,MAC,Bob Gibson,A,Dayton,Ind,John McVay,W,9,0
+1965-10-09,Bowling Green State,MAC,Bob Gibson,H,Western Michigan,MAC,Bill Doolittle,W,21,17
+1965-10-16,Bowling Green State,MAC,Bob Gibson,H,Toledo,MAC,Frank Lauterbur,W,21,14
+1965-10-23,Bowling Green State,MAC,Bob Gibson,A,Kent State,MAC,Leo Strang,W,7,6
+1965-10-30,Bowling Green State,MAC,Bob Gibson,H,Miami (OH),MAC,Bo Schembechler,L,7,23
+1965-11-06,Bowling Green State,MAC,Bob Gibson,A,Marshall,MAC,Charlie Snyder,W,20,6
+1965-11-13,Bowling Green State,MAC,Bob Gibson,A,Ohio,MAC,Bill Hess,W,17,7
+1965-09-18,Wisconsin,Big Ten,Milt Bruhn,H,Colorado,Big 8,Eddie Crowder,T,0,0
+1965-09-25,Wisconsin,Big Ten,Milt Bruhn,H,USC,AAWU,John McKay,L,6,26
+1965-10-02,Wisconsin,Big Ten,Milt Bruhn,H,Iowa,Big Ten,Jerry Burns,W,16,13
+1965-10-09,Wisconsin,Big Ten,Milt Bruhn,A,Nebraska,Big 8,Bob Devaney,L,0,37
+1965-10-16,Wisconsin,Big Ten,Milt Bruhn,A,Northwestern,Big Ten,Alex Agase,W,21,7
+1965-10-23,Wisconsin,Big Ten,Milt Bruhn,H,Ohio State,Big Ten,Woody Hayes,L,10,20
+1965-10-30,Wisconsin,Big Ten,Milt Bruhn,A,Michigan,Big Ten,Bump Elliott,L,14,50
+1965-11-06,Wisconsin,Big Ten,Milt Bruhn,A,Purdue,Big Ten,Jack Mollenkopf,L,7,45
+1965-11-13,Wisconsin,Big Ten,Milt Bruhn,H,Illinois,Big Ten,Pete Elliott,L,0,51
+1965-11-20,Wisconsin,Big Ten,Milt Bruhn,A,Minnesota,Big Ten,Murray Warmath,L,7,42
+1965-09-17,USC,AAWU,John McKay,H,Minnesota,Big Ten,Murray Warmath,T,20,20
+1965-09-25,USC,AAWU,John McKay,A,Wisconsin,Big Ten,Milt Bruhn,W,26,6
+1965-10-01,USC,AAWU,John McKay,H,Oregon State,AAWU,Dee Andros,W,26,12
+1965-10-09,USC,AAWU,John McKay,A,Washington,AAWU,Jim Owens,W,34,0
+1965-10-16,USC,AAWU,John McKay,H,Stanford,AAWU,John Ralston,W,14,0
+1965-10-23,USC,AAWU,John McKay,A,Notre Dame,Ind,Ara Parseghian,L,7,28
+1965-11-06,USC,AAWU,John McKay,A,California,AAWU,Ray Willsey,W,35,0
+1965-11-13,USC,AAWU,John McKay,H,Pitt,Ind,John Michelosen,W,28,0
+1965-11-20,USC,AAWU,John McKay,H,UCLA,AAWU,Tommy Prothro,L,16,20
+1965-11-27,USC,AAWU,John McKay,H,Wyoming,WAC,Lloyd Eaton,W,56,6
+1965-09-18,North Carolina State,ACC,Earle Edwards,A,Clemson,ACC,Frank Howard,L,7,21
+1965-09-25,North Carolina State,ACC,Earle Edwards,H,Wake Forest,ACC,William Tate,W,13,11
+1965-10-02,North Carolina State,ACC,Earle Edwards,A,South Carolina,ACC,Marvin Bass,L,7,13
+1965-10-09,North Carolina State,ACC,Earle Edwards,H,North Carolina,ACC,James Hickey,L,7,10
+1965-10-16,North Carolina State,ACC,Earle Edwards,A,Florida,SEC,Ray Graves,L,6,28
+1965-10-23,North Carolina State,ACC,Earle Edwards,A,Maryland,ACC,Thomas Nugent,W,29,7
+1965-10-30,North Carolina State,ACC,Earle Edwards,A,Virginia,ACC,George Blackburn,W,13,0
+1965-11-06,North Carolina State,ACC,Earle Edwards,H,Duke,ACC,Bill Murray,W,21,0
+1965-11-13,North Carolina State,ACC,Earle Edwards,H,Florida State,Ind,Bill Peterson,W,3,0
+1965-11-20,North Carolina State,ACC,Earle Edwards,A,Iowa,Big Ten,Jerry Burns,W,28,20
+1965-09-25,Rutgers,Ind,John Bateman,A,Princeton,Ivy,Richard Colman,L,6,32
+1965-10-09,Rutgers,Ind,John Bateman,H,Lehigh,Ind,Frederick Dunlap,W,6,0
+1965-10-16,Rutgers,Ind,John Bateman,A,Army,Ind,Paul Dietzel,L,6,23
+1965-10-23,Rutgers,Ind,John Bateman,H,Columbia,Ivy,Aldo Donelli,L,7,12
+1965-11-13,Rutgers,Ind,John Bateman,H,Holy Cross,Ind,Melvin Massucco,W,14,0
+1965-11-20,Rutgers,Ind,John Bateman,H,Colgate,Ind,Hal Lahar,L,10,24
+1965-09-18,Michigan,Big Ten,Bump Elliott,A,North Carolina,ACC,James Hickey,W,31,24
+1965-09-25,Michigan,Big Ten,Bump Elliott,H,California,AAWU,Ray Willsey,W,10,7
+1965-10-02,Michigan,Big Ten,Bump Elliott,H,Georgia,SEC,Vince Dooley,L,7,15
+1965-10-09,Michigan,Big Ten,Bump Elliott,H,Michigan State,Big Ten,Duffy Daugherty,L,7,24
+1965-10-16,Michigan,Big Ten,Bump Elliott,H,Purdue,Big Ten,Jack Mollenkopf,L,15,17
+1965-10-23,Michigan,Big Ten,Bump Elliott,A,Minnesota,Big Ten,Murray Warmath,L,13,14
+1965-10-30,Michigan,Big Ten,Bump Elliott,H,Wisconsin,Big Ten,Milt Bruhn,W,50,14
+1965-11-06,Michigan,Big Ten,Bump Elliott,A,Illinois,Big Ten,Pete Elliott,W,23,3
+1965-11-13,Michigan,Big Ten,Bump Elliott,A,Northwestern,Big Ten,Alex Agase,L,22,34
+1965-11-20,Michigan,Big Ten,Bump Elliott,H,Ohio State,Big Ten,Woody Hayes,L,7,9
+1965-09-25,New Mexico,WAC,Bill Weeks,H,UTEP,Ind,Robert Dobbs,L,14,35
+1965-10-02,New Mexico,WAC,Bill Weeks,A,Colorado State,Ind,Milo Lude,L,22,27
+1965-10-09,New Mexico,WAC,Bill Weeks,A,Arizona,WAC,Jim LaRue,W,24,2
+1965-10-16,New Mexico,WAC,Bill Weeks,H,Utah,WAC,Ray Nagel,W,13,10
+1965-10-23,New Mexico,WAC,Bill Weeks,A,Arizona State,WAC,Frank Kush,L,14,27
+1965-10-30,New Mexico,WAC,Bill Weeks,H,San Jose State,Ind,Harry Anderson,L,7,27
+1965-11-06,New Mexico,WAC,Bill Weeks,H,Wyoming,WAC,Lloyd Eaton,L,9,27
+1965-11-13,New Mexico,WAC,Bill Weeks,A,New Mexico State,Ind,Warren Woodson,L,6,20
+1965-11-20,New Mexico,WAC,Bill Weeks,H,Iowa State,Big 8,Clay Stapleton,W,10,9
+1965-11-27,New Mexico,WAC,Bill Weeks,H,Brigham Young,WAC,Tommy Hudspeth,L,8,42
+1965-09-25,Pacific,Ind,Don Campora,A,Iowa State,Big 8,Clay Stapleton,L,13,38
+1965-10-09,Pacific,Ind,Don Campora,H,New Mexico State,Ind,Warren Woodson,L,6,14
+1965-10-23,Pacific,Ind,Don Campora,H,Air Force,Ind,Ben Martin,L,0,40
+1965-11-06,Pacific,Ind,Don Campora,A,San Jose State,Ind,Harry Anderson,L,21,52
+1965-09-18,Notre Dame,Ind,Ara Parseghian,A,California,AAWU,Ray Willsey,W,48,6
+1965-09-25,Notre Dame,Ind,Ara Parseghian,A,Purdue,Big Ten,Jack Mollenkopf,L,21,25
+1965-10-02,Notre Dame,Ind,Ara Parseghian,H,Northwestern,Big Ten,Alex Agase,W,38,7
+1965-10-09,Notre Dame,Ind,Ara Parseghian,A,Army,Ind,Paul Dietzel,W,17,0
+1965-10-23,Notre Dame,Ind,Ara Parseghian,H,USC,AAWU,John McKay,W,28,7
+1965-10-30,Notre Dame,Ind,Ara Parseghian,H,Navy,Ind,William Elias,W,29,3
+1965-11-06,Notre Dame,Ind,Ara Parseghian,A,Pitt,Ind,John Michelosen,W,69,13
+1965-11-13,Notre Dame,Ind,Ara Parseghian,H,North Carolina,ACC,James Hickey,W,17,0
+1965-11-20,Notre Dame,Ind,Ara Parseghian,H,Michigan State,Big Ten,Duffy Daugherty,L,3,12
+1965-11-27,Notre Dame,Ind,Ara Parseghian,A,Miami (FL),Ind,Charlie Tate,T,0,0
+1965-10-02,East Carolina,Southern,Clarence Stasavich,A,Furman,Southern,Robert King,L,7,14
+1965-10-09,East Carolina,Southern,Clarence Stasavich,A,Richmond,Southern,Edwin Merrick,W,34,13
+1965-10-16,East Carolina,Southern,Clarence Stasavich,A,Louisville,MVC,Frank Camp,W,34,20
+1965-10-23,East Carolina,Southern,Clarence Stasavich,H,Citadel,Southern,Eddie Teague,W,21,0
+1965-11-13,East Carolina,Southern,Clarence Stasavich,H,George Washington,Southern,Jim Camp,W,21,20
+1965-09-18,Toledo,MAC,Frank Lauterbur,A,Villanova,Ind,Alex Bell,W,9,7
+1965-09-25,Toledo,MAC,Frank Lauterbur,H,Quantico Marines,Ind,,W,9,0
+1965-10-02,Toledo,MAC,Frank Lauterbur,A,Marshall,MAC,Charlie Snyder,L,0,14
+1965-10-09,Toledo,MAC,Frank Lauterbur,H,Ohio,MAC,Bill Hess,W,21,7
+1965-10-16,Toledo,MAC,Frank Lauterbur,A,Bowling Green State,MAC,Bob Gibson,L,14,21
+1965-10-23,Toledo,MAC,Frank Lauterbur,H,Western Michigan,MAC,Bill Doolittle,L,0,3
+1965-10-30,Toledo,MAC,Frank Lauterbur,H,Kent State,MAC,Leo Strang,W,7,3
+1965-11-06,Toledo,MAC,Frank Lauterbur,A,Miami (OH),MAC,Bo Schembechler,L,16,20
+1965-11-13,Toledo,MAC,Frank Lauterbur,A,Xavier,Ind,Edward Biles,L,7,14
+1965-11-20,Toledo,MAC,Frank Lauterbur,H,Dayton,Ind,John McVay,W,21,7
+1965-09-18,Pitt,Ind,John Michelosen,H,Oregon,AAWU,Len Casanova,L,15,17
+1965-09-25,Pitt,Ind,John Michelosen,H,Oklahoma,Big 8,Gomer Jones,W,13,9
+1965-10-02,Pitt,Ind,John Michelosen,A,West Virginia,Southern,Gene Corum,L,48,63
+1965-10-09,Pitt,Ind,John Michelosen,A,Duke,ACC,Bill Murray,L,13,21
+1965-10-16,Pitt,Ind,John Michelosen,A,Navy,Ind,William Elias,L,0,12
+1965-10-23,Pitt,Ind,John Michelosen,H,Miami (FL),Ind,Charlie Tate,W,28,14
+1965-10-30,Pitt,Ind,John Michelosen,N,Syracuse,Ind,Ben Schwartzwalder,L,13,51
+1965-11-06,Pitt,Ind,John Michelosen,H,Notre Dame,Ind,Ara Parseghian,L,13,69
+1965-11-13,Pitt,Ind,John Michelosen,A,USC,AAWU,John McKay,L,0,28
+1965-11-20,Pitt,Ind,John Michelosen,H,Penn State,Ind,Rip Engle,W,30,27
+1965-09-18,West Texas A&M,Ind,Joe Kerbel,A,Ohio,MAC,Bill Hess,W,7,0
+1965-09-25,West Texas A&M,Ind,Joe Kerbel,H,Bowling Green State,MAC,Bob Gibson,W,34,0
+1965-10-02,West Texas A&M,Ind,Joe Kerbel,H,Arizona State,WAC,Frank Kush,W,22,14
+1965-10-16,West Texas A&M,Ind,Joe Kerbel,H,Colorado State,Ind,Milo Lude,W,15,12
+1965-10-23,West Texas A&M,Ind,Joe Kerbel,H,New Mexico State,Ind,Warren Woodson,L,2,10
+1965-10-30,West Texas A&M,Ind,Joe Kerbel,A,Memphis,Ind,Billy Murphy,L,12,27
+1965-11-27,West Texas A&M,Ind,Joe Kerbel,A,UTEP,Ind,Robert Dobbs,L,21,38
+1965-09-25,George Washington,Southern,Jim Camp,H,Citadel,Southern,Eddie Teague,W,30,7
+1965-10-02,George Washington,Southern,Jim Camp,H,Virginia Military Institute,Southern,John McKenna,W,14,0
+1965-10-09,George Washington,Southern,Jim Camp,H,Virginia Tech,Ind,Jerry Claiborne,L,12,17
+1965-10-15,George Washington,Southern,Jim Camp,H,Cincinnati,MVC,Charles Studley,L,3,13
+1965-10-23,George Washington,Southern,Jim Camp,A,William & Mary,Southern,Marv Levy,L,14,28
+1965-10-30,George Washington,Southern,Jim Camp,H,Davidson,Southern,Homer Smith,W,23,7
+1965-11-06,George Washington,Southern,Jim Camp,A,Furman,Southern,Robert King,W,24,7
+1965-11-13,George Washington,Southern,Jim Camp,A,East Carolina,Southern,Clarence Stasavich,L,20,21
+1965-11-20,George Washington,Southern,Jim Camp,A,West Virginia,Southern,Gene Corum,L,24,37
+1965-09-18,North Texas,MVC,Odus Mitchell,A,UTEP,Ind,Robert Dobbs,L,15,61
+1965-10-02,North Texas,MVC,Odus Mitchell,H,Louisville,MVC,Frank Camp,L,21,29
+1965-10-16,North Texas,MVC,Odus Mitchell,H,Tulsa,MVC,Glenn Dobbs,L,20,27
+1965-10-23,North Texas,MVC,Odus Mitchell,A,Arkansas,SWC,Frank Broyles,L,20,55
+1965-10-30,North Texas,MVC,Odus Mitchell,A,Cincinnati,MVC,Charles Studley,W,28,24
+1965-11-06,North Texas,MVC,Odus Mitchell,H,Wichita State,MVC,George Karras,W,24,21
+1965-11-13,North Texas,MVC,Odus Mitchell,H,Memphis,Ind,Billy Murphy,L,0,28
+1965-11-20,North Texas,MVC,Odus Mitchell,A,New Mexico State,Ind,Warren Woodson,L,13,43
+1965-09-18,Wyoming,WAC,Lloyd Eaton,H,Air Force,Ind,Ben Martin,W,31,14
+1965-09-25,Wyoming,WAC,Lloyd Eaton,A,Colorado State,Ind,Milo Lude,W,33,14
+1965-10-02,Wyoming,WAC,Lloyd Eaton,H,Arizona,WAC,Jim LaRue,W,19,0
+1965-10-09,Wyoming,WAC,Lloyd Eaton,A,Utah,WAC,Ray Nagel,L,3,42
+1965-10-16,Wyoming,WAC,Lloyd Eaton,H,UTEP,Ind,Robert Dobbs,W,38,14
+1965-10-23,Wyoming,WAC,Lloyd Eaton,H,Brigham Young,WAC,Tommy Hudspeth,W,34,6
+1965-11-06,Wyoming,WAC,Lloyd Eaton,A,New Mexico,WAC,Bill Weeks,W,27,9
+1965-11-13,Wyoming,WAC,Lloyd Eaton,A,Army,Ind,Paul Dietzel,L,0,13
+1965-11-20,Wyoming,WAC,Lloyd Eaton,A,Arizona State,WAC,Frank Kush,L,10,14
+1965-11-27,Wyoming,WAC,Lloyd Eaton,A,USC,AAWU,John McKay,L,6,56
+1965-09-18,Brigham Young,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,W,24,6
+1965-09-24,Brigham Young,WAC,Tommy Hudspeth,H,Kansas State,Big 8,Doug Weaver,W,21,3
+1965-10-02,Brigham Young,WAC,Tommy Hudspeth,A,Oregon,AAWU,Len Casanova,L,14,27
+1965-10-08,Brigham Young,WAC,Tommy Hudspeth,H,San Jose State,Ind,Harry Anderson,W,34,7
+1965-10-23,Brigham Young,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,6,34
+1965-10-30,Brigham Young,WAC,Tommy Hudspeth,A,Utah State,Ind,Tony Knap,L,21,34
+1965-11-06,Brigham Young,WAC,Tommy Hudspeth,H,Utah,WAC,Ray Nagel,W,25,20
+1965-11-13,Brigham Young,WAC,Tommy Hudspeth,H,Colorado State,Ind,Milo Lude,L,22,36
+1965-11-20,Brigham Young,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,W,20,3
+1965-11-27,Brigham Young,WAC,Tommy Hudspeth,A,New Mexico,WAC,Bill Weeks,W,42,8
+1965-10-02,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Hal Lahar,L,0,7
+1965-10-09,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John McLaughry,W,3,0
+1965-10-16,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Aldo Donelli,L,7,21
+1965-10-23,Yale,Ivy,Carmen Cozza,H,Cornell,Ivy,Tom Harp,W,24,14
+1965-10-30,Yale,Ivy,Carmen Cozza,H,Dartmouth,Ivy,Bob Blackman,L,17,20
+1965-11-06,Yale,Ivy,Carmen Cozza,H,Pennsylvania,Ivy,Robert Odell,W,21,19
+1965-11-13,Yale,Ivy,Carmen Cozza,A,Princeton,Ivy,Richard Colman,L,6,31
+1965-11-20,Yale,Ivy,Carmen Cozza,H,Harvard,Ivy,John Yovicsin,L,0,13
+1965-09-18,Georgia Tech,Ind,Bobby Dodd,A,Vanderbilt,SEC,Jack Green,T,10,10
+1965-09-25,Georgia Tech,Ind,Bobby Dodd,H,Texas A&M,SWC,Gene Stallings,L,10,14
+1965-10-02,Georgia Tech,Ind,Bobby Dodd,H,Clemson,ACC,Frank Howard,W,38,6
+1965-10-09,Georgia Tech,Ind,Bobby Dodd,A,Tulane,SEC,Tommy O'Boyle,W,13,10
+1965-10-16,Georgia Tech,Ind,Bobby Dodd,H,Auburn,SEC,Ralph Jordan,W,23,14
+1965-10-23,Georgia Tech,Ind,Bobby Dodd,H,Navy,Ind,William Elias,W,37,16
+1965-10-30,Georgia Tech,Ind,Bobby Dodd,H,Duke,ACC,Bill Murray,W,35,23
+1965-11-06,Georgia Tech,Ind,Bobby Dodd,A,Tennessee,SEC,Doug Dickey,L,7,21
+1965-11-13,Georgia Tech,Ind,Bobby Dodd,H,Virginia,ACC,George Blackburn,W,42,19
+1965-11-27,Georgia Tech,Ind,Bobby Dodd,H,Georgia,SEC,Vince Dooley,L,7,17
+1965-12-31,Georgia Tech,Ind,Bobby Dodd,N,Texas Tech,SWC,J.T. King,W,31,21
+1965-09-18,Wake Forest,ACC,William Tate,A,Virginia Tech,Ind,Jerry Claiborne,L,3,12
+1965-09-25,Wake Forest,ACC,William Tate,A,North Carolina State,ACC,Earle Edwards,L,11,13
+1965-10-02,Wake Forest,ACC,William Tate,H,Vanderbilt,SEC,Jack Green,W,7,0
+1965-10-09,Wake Forest,ACC,William Tate,H,Maryland,ACC,Thomas Nugent,L,7,10
+1965-10-16,Wake Forest,ACC,William Tate,A,South Carolina,ACC,Marvin Bass,L,7,38
+1965-10-23,Wake Forest,ACC,William Tate,H,North Carolina,ACC,James Hickey,W,12,10
+1965-10-30,Wake Forest,ACC,William Tate,A,Clemson,ACC,Frank Howard,L,13,26
+1965-11-06,Wake Forest,ACC,William Tate,A,Florida State,Ind,Bill Peterson,L,0,35
+1965-11-13,Wake Forest,ACC,William Tate,A,Duke,ACC,Bill Murray,L,7,40
+1965-11-20,Wake Forest,ACC,William Tate,A,Memphis,Ind,Billy Murphy,W,21,20
+1965-09-18,Xavier,Ind,Edward Biles,H,Kent State,MAC,Leo Strang,W,21,14
+1965-09-25,Xavier,Ind,Edward Biles,A,Miami (OH),MAC,Bo Schembechler,W,29,28
+1965-10-02,Xavier,Ind,Edward Biles,A,Quantico Marines,Ind,,W,26,12
+1965-10-09,Xavier,Ind,Edward Biles,A,Cincinnati,MVC,Charles Studley,W,14,3
+1965-10-16,Xavier,Ind,Edward Biles,A,Ohio,MAC,Bill Hess,W,21,19
+1965-10-30,Xavier,Ind,Edward Biles,H,Villanova,Ind,Alex Bell,W,35,0
+1965-11-06,Xavier,Ind,Edward Biles,H,Dayton,Ind,John McVay,W,10,0
+1965-11-13,Xavier,Ind,Edward Biles,H,Toledo,MAC,Frank Lauterbur,W,14,7
+1965-11-20,Xavier,Ind,Edward Biles,A,UTEP,Ind,Robert Dobbs,L,33,57
+1965-09-18,Mississippi State,SEC,Paul Davis,A,Houston,Ind,Bill Yeoman,W,36,0
+1965-09-25,Mississippi State,SEC,Paul Davis,A,Florida,SEC,Ray Graves,W,18,13
+1965-10-09,Mississippi State,SEC,Paul Davis,H,Southern Mississippi,Ind,Pie Vann,W,27,9
+1965-10-16,Mississippi State,SEC,Paul Davis,A,Memphis,Ind,Billy Murphy,L,13,33
+1965-10-22,Mississippi State,SEC,Paul Davis,A,Tulane,SEC,Tommy O'Boyle,L,15,17
+1965-10-30,Mississippi State,SEC,Paul Davis,H,Alabama,SEC,Bear Bryant,L,7,10
+1965-11-06,Mississippi State,SEC,Paul Davis,A,Auburn,SEC,Ralph Jordan,L,18,25
+1965-11-13,Mississippi State,SEC,Paul Davis,A,LSU,SEC,Charles McClendon,L,20,37
+1965-11-27,Mississippi State,SEC,Paul Davis,H,Ole Miss,SEC,John Vaught,L,0,21
+1965-09-18,Virginia Military Institute,Southern,John McKenna,A,William & Mary,Southern,Marv Levy,L,21,32
+1965-09-25,Virginia Military Institute,Southern,John McKenna,A,Army,Ind,Paul Dietzel,L,7,21
+1965-10-02,Virginia Military Institute,Southern,John McKenna,A,George Washington,Southern,Jim Camp,L,0,14
+1965-10-09,Virginia Military Institute,Southern,John McKenna,A,Virginia,ACC,George Blackburn,L,10,14
+1965-10-16,Virginia Military Institute,Southern,John McKenna,A,Southern Mississippi,Ind,Pie Vann,L,0,3
+1965-10-23,Virginia Military Institute,Southern,John McKenna,A,Davidson,Southern,Homer Smith,W,16,10
+1965-10-30,Virginia Military Institute,Southern,John McKenna,A,Boston College,Ind,Jim Miller,L,12,41
+1965-11-06,Virginia Military Institute,Southern,John McKenna,H,Richmond,Southern,Edwin Merrick,W,21,14
+1965-11-13,Virginia Military Institute,Southern,John McKenna,H,Citadel,Southern,Eddie Teague,W,21,7
+1965-11-25,Virginia Military Institute,Southern,John McKenna,N,Virginia Tech,Ind,Jerry Claiborne,L,13,44
+1965-09-18,Memphis,Ind,Billy Murphy,H,Ole Miss,SEC,John Vaught,L,14,34
+1965-09-25,Memphis,Ind,Billy Murphy,A,Southern Mississippi,Ind,Pie Vann,L,16,21
+1965-10-09,Memphis,Ind,Billy Murphy,A,Tulsa,MVC,Glenn Dobbs,L,28,32
+1965-10-16,Memphis,Ind,Billy Murphy,H,Mississippi State,SEC,Paul Davis,W,33,13
+1965-10-30,Memphis,Ind,Billy Murphy,H,West Texas A&M,Ind,Joe Kerbel,W,27,12
+1965-11-06,Memphis,Ind,Billy Murphy,H,Utah State,Ind,Tony Knap,W,7,0
+1965-11-13,Memphis,Ind,Billy Murphy,A,North Texas,MVC,Odus Mitchell,W,28,0
+1965-11-20,Memphis,Ind,Billy Murphy,H,Wake Forest,ACC,William Tate,L,20,21
+1965-11-27,Memphis,Ind,Billy Murphy,A,Quantico Marines,Ind,,L,14,20
+1965-09-18,Buffalo,Ind,Dick Offenhamer,A,Boston College,Ind,Jim Miller,L,6,18
+1965-10-16,Buffalo,Ind,Dick Offenhamer,H,Richmond,Southern,Edwin Merrick,W,24,0
+1965-10-23,Buffalo,Ind,Dick Offenhamer,H,Dayton,Ind,John McVay,T,0,0
+1965-10-30,Buffalo,Ind,Dick Offenhamer,A,Holy Cross,Ind,Melvin Massucco,L,7,20
+1965-11-13,Buffalo,Ind,Dick Offenhamer,H,Colgate,Ind,Hal Lahar,W,28,0
+1965-11-20,Buffalo,Ind,Dick Offenhamer,A,Villanova,Ind,Alex Bell,W,20,7
+1965-09-18,Kansas State,Big 8,Doug Weaver,A,Indiana,Big Ten,John Pont,L,7,19
+1965-09-24,Kansas State,Big 8,Doug Weaver,A,Brigham Young,WAC,Tommy Hudspeth,L,3,21
+1965-10-02,Kansas State,Big 8,Doug Weaver,H,Colorado,Big 8,Eddie Crowder,L,0,36
+1965-10-09,Kansas State,Big 8,Doug Weaver,A,Missouri,Big 8,Dan Devine,L,6,28
+1965-10-16,Kansas State,Big 8,Doug Weaver,H,Nebraska,Big 8,Bob Devaney,L,0,41
+1965-10-23,Kansas State,Big 8,Doug Weaver,H,Oklahoma,Big 8,Gomer Jones,L,0,27
+1965-10-30,Kansas State,Big 8,Doug Weaver,A,Kansas,Big 8,Jack Mitchell,L,0,34
+1965-11-06,Kansas State,Big 8,Doug Weaver,H,Cincinnati,MVC,Charles Studley,L,14,21
+1965-11-13,Kansas State,Big 8,Doug Weaver,A,Iowa State,Big 8,Clay Stapleton,L,6,38
+1965-11-20,Kansas State,Big 8,Doug Weaver,A,Oklahoma State,Big 8,Phil Cutchin,L,7,31
+1965-09-18,Army,Ind,Paul Dietzel,A,Tennessee,SEC,Doug Dickey,L,0,21
+1965-09-25,Army,Ind,Paul Dietzel,H,Virginia Military Institute,Southern,John McKenna,W,21,7
+1965-10-02,Army,Ind,Paul Dietzel,H,Boston College,Ind,Jim Miller,W,10,0
+1965-10-09,Army,Ind,Paul Dietzel,H,Notre Dame,Ind,Ara Parseghian,L,0,17
+1965-10-16,Army,Ind,Paul Dietzel,H,Rutgers,Ind,John Bateman,W,23,6
+1965-10-23,Army,Ind,Paul Dietzel,A,Stanford,AAWU,John Ralston,L,14,31
+1965-10-30,Army,Ind,Paul Dietzel,H,Colgate,Ind,Hal Lahar,L,28,29
+1965-11-06,Army,Ind,Paul Dietzel,N,Air Force,Ind,Ben Martin,L,3,14
+1965-11-13,Army,Ind,Paul Dietzel,H,Wyoming,WAC,Lloyd Eaton,W,13,0
+1965-11-27,Army,Ind,Paul Dietzel,N,Navy,Ind,William Elias,T,7,7
+1965-10-02,Dartmouth,Ivy,Bob Blackman,A,Holy Cross,Ind,Melvin Massucco,W,27,6
+1965-10-09,Dartmouth,Ivy,Bob Blackman,H,Pennsylvania,Ivy,Robert Odell,W,24,19
+1965-10-16,Dartmouth,Ivy,Bob Blackman,A,Brown,Ivy,John McLaughry,W,35,9
+1965-10-23,Dartmouth,Ivy,Bob Blackman,A,Harvard,Ivy,John Yovicsin,W,14,0
+1965-10-30,Dartmouth,Ivy,Bob Blackman,A,Yale,Ivy,Carmen Cozza,W,20,17
+1965-11-06,Dartmouth,Ivy,Bob Blackman,A,Columbia,Ivy,Aldo Donelli,W,47,0
+1965-11-13,Dartmouth,Ivy,Bob Blackman,H,Cornell,Ivy,Tom Harp,W,20,0
+1965-11-20,Dartmouth,Ivy,Bob Blackman,A,Princeton,Ivy,Richard Colman,W,28,14
+1965-09-18,UCLA,AAWU,Tommy Prothro,A,Michigan State,Big Ten,Duffy Daugherty,L,3,13
+1965-10-02,UCLA,AAWU,Tommy Prothro,A,Penn State,Ind,Rip Engle,W,24,22
+1965-10-09,UCLA,AAWU,Tommy Prothro,H,Syracuse,Ind,Ben Schwartzwalder,W,24,14
+1965-10-16,UCLA,AAWU,Tommy Prothro,A,Missouri,Big 8,Dan Devine,T,14,14
+1965-10-23,UCLA,AAWU,Tommy Prothro,H,California,AAWU,Ray Willsey,W,56,3
+1965-10-30,UCLA,AAWU,Tommy Prothro,A,Air Force,Ind,Ben Martin,W,10,0
+1965-11-06,UCLA,AAWU,Tommy Prothro,H,Washington,AAWU,Jim Owens,W,28,24
+1965-11-13,UCLA,AAWU,Tommy Prothro,A,Stanford,AAWU,John Ralston,W,30,13
+1965-11-20,UCLA,AAWU,Tommy Prothro,A,USC,AAWU,John McKay,W,20,16
+1965-12-04,UCLA,AAWU,Tommy Prothro,A,Tennessee,SEC,Doug Dickey,L,34,37
+1966-01-01,UCLA,AAWU,Tommy Prothro,H,Michigan State,Big Ten,Duffy Daugherty,W,14,12
+1965-09-18,Auburn,SEC,Ralph Jordan,H,Baylor,SWC,John Bridgers,L,8,14
+1965-09-25,Auburn,SEC,Ralph Jordan,A,Tennessee,SEC,Doug Dickey,T,13,13
+1965-10-02,Auburn,SEC,Ralph Jordan,H,Kentucky,SEC,Charley Bradshaw,W,23,18
+1965-10-16,Auburn,SEC,Ralph Jordan,A,Georgia Tech,Ind,Bobby Dodd,L,14,23
+1965-10-23,Auburn,SEC,Ralph Jordan,H,Southern Mississippi,Ind,Pie Vann,L,0,3
+1965-10-30,Auburn,SEC,Ralph Jordan,H,Florida,SEC,Ray Graves,W,28,17
+1965-11-06,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Paul Davis,W,25,18
+1965-11-13,Auburn,SEC,Ralph Jordan,A,Georgia,SEC,Vince Dooley,W,21,19
+1965-11-27,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Bear Bryant,L,3,30
+1965-12-18,Auburn,SEC,Ralph Jordan,N,Ole Miss,SEC,John Vaught,L,7,13
+1965-09-18,Northwestern,Big Ten,Alex Agase,H,Florida,SEC,Ray Graves,L,14,24
+1965-09-25,Northwestern,Big Ten,Alex Agase,A,Indiana,Big Ten,John Pont,W,20,0
+1965-10-02,Northwestern,Big Ten,Alex Agase,A,Notre Dame,Ind,Ara Parseghian,L,7,38
+1965-10-09,Northwestern,Big Ten,Alex Agase,H,Oregon State,AAWU,Dee Andros,W,15,7
+1965-10-16,Northwestern,Big Ten,Alex Agase,H,Wisconsin,Big Ten,Milt Bruhn,L,7,21
+1965-10-23,Northwestern,Big Ten,Alex Agase,H,Iowa,Big Ten,Jerry Burns,W,9,0
+1965-10-30,Northwestern,Big Ten,Alex Agase,A,Michigan State,Big Ten,Duffy Daugherty,L,7,49
+1965-11-06,Northwestern,Big Ten,Alex Agase,A,Minnesota,Big Ten,Murray Warmath,L,22,27
+1965-11-13,Northwestern,Big Ten,Alex Agase,H,Michigan,Big Ten,Bump Elliott,W,34,22
+1965-11-20,Northwestern,Big Ten,Alex Agase,H,Illinois,Big Ten,Pete Elliott,L,6,20
+1965-10-02,Marshall,MAC,Charlie Snyder,H,Toledo,MAC,Frank Lauterbur,W,14,0
+1965-10-09,Marshall,MAC,Charlie Snyder,H,Quantico Marines,Ind,,W,10,9
+1965-10-16,Marshall,MAC,Charlie Snyder,A,Miami (OH),MAC,Bo Schembechler,L,7,28
+1965-10-23,Marshall,MAC,Charlie Snyder,A,Louisville,MVC,Frank Camp,L,7,23
+1965-10-30,Marshall,MAC,Charlie Snyder,A,Western Michigan,MAC,Bill Doolittle,L,14,17
+1965-11-06,Marshall,MAC,Charlie Snyder,H,Bowling Green State,MAC,Bob Gibson,L,6,20
+1965-11-13,Marshall,MAC,Charlie Snyder,A,Kent State,MAC,Leo Strang,L,13,33
+1965-11-20,Marshall,MAC,Charlie Snyder,H,Ohio,MAC,Bill Hess,W,29,14
+1965-09-18,Kansas,Big 8,Jack Mitchell,A,Texas Tech,SWC,J.T. King,L,7,26
+1965-09-25,Kansas,Big 8,Jack Mitchell,H,Arizona,WAC,Jim LaRue,L,15,23
+1965-10-02,Kansas,Big 8,Jack Mitchell,A,California,AAWU,Ray Willsey,L,0,17
+1965-10-09,Kansas,Big 8,Jack Mitchell,H,Iowa State,Big 8,Clay Stapleton,L,7,21
+1965-10-16,Kansas,Big 8,Jack Mitchell,A,Oklahoma,Big 8,Gomer Jones,L,7,21
+1965-10-23,Kansas,Big 8,Jack Mitchell,H,Oklahoma State,Big 8,Phil Cutchin,W,9,0
+1965-10-30,Kansas,Big 8,Jack Mitchell,H,Kansas State,Big 8,Doug Weaver,W,34,0
+1965-11-06,Kansas,Big 8,Jack Mitchell,A,Nebraska,Big 8,Bob Devaney,L,6,42
+1965-11-13,Kansas,Big 8,Jack Mitchell,A,Colorado,Big 8,Eddie Crowder,L,14,21
+1965-11-20,Kansas,Big 8,Jack Mitchell,H,Missouri,Big 8,Dan Devine,L,20,44
+1965-09-18,Western Michigan,MAC,Bill Doolittle,H,Louisville,MVC,Frank Camp,W,17,13
+1965-10-02,Western Michigan,MAC,Bill Doolittle,H,Miami (OH),MAC,Bo Schembechler,L,9,36
+1965-10-09,Western Michigan,MAC,Bill Doolittle,A,Bowling Green State,MAC,Bob Gibson,L,17,21
+1965-10-16,Western Michigan,MAC,Bill Doolittle,H,Kent State,MAC,Leo Strang,T,10,10
+1965-10-23,Western Michigan,MAC,Bill Doolittle,A,Toledo,MAC,Frank Lauterbur,W,3,0
+1965-10-30,Western Michigan,MAC,Bill Doolittle,H,Marshall,MAC,Charlie Snyder,W,17,14
+1965-11-06,Western Michigan,MAC,Bill Doolittle,A,Ohio,MAC,Bill Hess,W,17,6
+1965-09-18,William & Mary,Southern,Marv Levy,H,Virginia Military Institute,Southern,John McKenna,W,32,21
+1965-09-25,William & Mary,Southern,Marv Levy,H,West Virginia,Southern,Gene Corum,L,14,34
+1965-10-02,William & Mary,Southern,Marv Levy,A,Virginia Tech,Ind,Jerry Claiborne,L,7,9
+1965-10-09,William & Mary,Southern,Marv Levy,A,Navy,Ind,William Elias,L,14,42
+1965-10-16,William & Mary,Southern,Marv Levy,A,Davidson,Southern,Homer Smith,W,41,7
+1965-10-23,William & Mary,Southern,Marv Levy,H,George Washington,Southern,Jim Camp,W,28,14
+1965-10-30,William & Mary,Southern,Marv Levy,H,Southern Mississippi,Ind,Pie Vann,W,3,0
+1965-11-06,William & Mary,Southern,Marv Levy,A,Citadel,Southern,Eddie Teague,W,20,6
+1965-11-13,William & Mary,Southern,Marv Levy,A,Boston College,Ind,Jim Miller,L,17,30
+1965-11-20,William & Mary,Southern,Marv Levy,H,Richmond,Southern,Edwin Merrick,W,21,0
+1965-09-18,UTEP,Ind,Robert Dobbs,H,North Texas,MVC,Odus Mitchell,W,61,15
+1965-09-25,UTEP,Ind,Robert Dobbs,A,New Mexico,WAC,Bill Weeks,W,35,14
+1965-10-02,UTEP,Ind,Robert Dobbs,H,New Mexico State,Ind,Warren Woodson,W,21,6
+1965-10-09,UTEP,Ind,Robert Dobbs,H,Colorado State,Ind,Milo Lude,W,35,10
+1965-10-16,UTEP,Ind,Robert Dobbs,A,Wyoming,WAC,Lloyd Eaton,L,14,38
+1965-10-30,UTEP,Ind,Robert Dobbs,H,Arizona State,WAC,Frank Kush,L,20,28
+1965-11-06,UTEP,Ind,Robert Dobbs,A,Arizona,WAC,Jim LaRue,L,3,10
+1965-11-13,UTEP,Ind,Robert Dobbs,A,Utah,WAC,Ray Nagel,W,20,19
+1965-11-20,UTEP,Ind,Robert Dobbs,H,Xavier,Ind,Edward Biles,W,57,33
+1965-11-27,UTEP,Ind,Robert Dobbs,H,West Texas A&M,Ind,Joe Kerbel,W,38,21
+1965-12-31,UTEP,Ind,Robert Dobbs,H,Texas Christian,SWC,Abe Martin,W,13,12
+1965-09-18,LSU,SEC,Charles McClendon,H,Texas A&M,SWC,Gene Stallings,W,10,0
+1965-09-25,LSU,SEC,Charles McClendon,H,Rice,SWC,Jess Neely,W,42,14
+1965-10-02,LSU,SEC,Charles McClendon,A,Florida,SEC,Ray Graves,L,7,14
+1965-10-09,LSU,SEC,Charles McClendon,A,Miami (FL),Ind,Charlie Tate,W,34,27
+1965-10-16,LSU,SEC,Charles McClendon,H,Kentucky,SEC,Charley Bradshaw,W,31,21
+1965-10-23,LSU,SEC,Charles McClendon,H,South Carolina,ACC,Marvin Bass,W,21,7
+1965-10-30,LSU,SEC,Charles McClendon,A,Ole Miss,SEC,John Vaught,L,0,23
+1965-11-06,LSU,SEC,Charles McClendon,H,Alabama,SEC,Bear Bryant,L,7,31
+1965-11-13,LSU,SEC,Charles McClendon,H,Mississippi State,SEC,Paul Davis,W,37,20
+1965-11-20,LSU,SEC,Charles McClendon,H,Tulane,SEC,Tommy O'Boyle,W,62,0
+1966-01-01,LSU,SEC,Charles McClendon,N,Arkansas,SWC,Frank Broyles,W,14,7
+1965-09-25,Pennsylvania,Ivy,Robert Odell,H,Lehigh,Ind,Frederick Dunlap,W,20,14
+1965-10-02,Pennsylvania,Ivy,Robert Odell,H,Brown,Ivy,John McLaughry,W,7,0
+1965-10-09,Pennsylvania,Ivy,Robert Odell,A,Dartmouth,Ivy,Bob Blackman,L,19,24
+1965-10-23,Pennsylvania,Ivy,Robert Odell,A,Princeton,Ivy,Richard Colman,L,0,51
+1965-10-30,Pennsylvania,Ivy,Robert Odell,H,Harvard,Ivy,John Yovicsin,T,10,10
+1965-11-06,Pennsylvania,Ivy,Robert Odell,A,Yale,Ivy,Carmen Cozza,L,19,21
+1965-11-13,Pennsylvania,Ivy,Robert Odell,H,Columbia,Ivy,Aldo Donelli,W,31,21
+1965-11-25,Pennsylvania,Ivy,Robert Odell,H,Cornell,Ivy,Tom Harp,L,14,38
+1965-09-11,Tulsa,MVC,Glenn Dobbs,A,Houston,Ind,Bill Yeoman,W,14,0
+1965-09-25,Tulsa,MVC,Glenn Dobbs,A,Arkansas,SWC,Frank Broyles,L,12,20
+1965-10-02,Tulsa,MVC,Glenn Dobbs,A,Oklahoma State,Big 8,Phil Cutchin,L,14,17
+1965-10-09,Tulsa,MVC,Glenn Dobbs,H,Memphis,Ind,Billy Murphy,W,32,28
+1965-10-16,Tulsa,MVC,Glenn Dobbs,A,North Texas,MVC,Odus Mitchell,W,27,20
+1965-10-23,Tulsa,MVC,Glenn Dobbs,H,Cincinnati,MVC,Charles Studley,W,49,6
+1965-11-06,Tulsa,MVC,Glenn Dobbs,H,Louisville,MVC,Frank Camp,W,51,18
+1965-11-20,Tulsa,MVC,Glenn Dobbs,A,Wichita State,MVC,George Karras,W,13,3
+1965-11-25,Tulsa,MVC,Glenn Dobbs,H,Colorado State,Ind,Milo Lude,W,48,20
+1965-12-18,Tulsa,MVC,Glenn Dobbs,N,Tennessee,SEC,Doug Dickey,L,6,27
+1965-09-18,Iowa,Big Ten,Jerry Burns,H,Washington State,AAWU,Bert Clark,L,0,7
+1965-09-25,Iowa,Big Ten,Jerry Burns,A,Oregon State,AAWU,Dee Andros,W,27,7
+1965-10-02,Iowa,Big Ten,Jerry Burns,A,Wisconsin,Big Ten,Milt Bruhn,L,13,16
+1965-10-09,Iowa,Big Ten,Jerry Burns,H,Purdue,Big Ten,Jack Mollenkopf,L,14,17
+1965-10-16,Iowa,Big Ten,Jerry Burns,H,Minnesota,Big Ten,Murray Warmath,L,3,14
+1965-10-23,Iowa,Big Ten,Jerry Burns,A,Northwestern,Big Ten,Alex Agase,L,0,9
+1965-10-30,Iowa,Big Ten,Jerry Burns,A,Indiana,Big Ten,John Pont,L,17,21
+1965-11-06,Iowa,Big Ten,Jerry Burns,H,Michigan State,Big Ten,Duffy Daugherty,L,0,35
+1965-11-13,Iowa,Big Ten,Jerry Burns,A,Ohio State,Big Ten,Woody Hayes,L,0,38
+1965-11-20,Iowa,Big Ten,Jerry Burns,H,North Carolina State,ACC,Earle Edwards,L,20,28
+1965-10-02,Columbia,Ivy,Aldo Donelli,H,Princeton,Ivy,Richard Colman,L,0,31
+1965-10-09,Columbia,Ivy,Aldo Donelli,A,Harvard,Ivy,John Yovicsin,L,6,21
+1965-10-16,Columbia,Ivy,Aldo Donelli,H,Yale,Ivy,Carmen Cozza,W,21,7
+1965-10-23,Columbia,Ivy,Aldo Donelli,A,Rutgers,Ind,John Bateman,W,12,7
+1965-10-30,Columbia,Ivy,Aldo Donelli,A,Cornell,Ivy,Tom Harp,L,6,20
+1965-11-06,Columbia,Ivy,Aldo Donelli,H,Dartmouth,Ivy,Bob Blackman,L,0,47
+1965-11-13,Columbia,Ivy,Aldo Donelli,A,Pennsylvania,Ivy,Robert Odell,L,21,31
+1965-11-20,Columbia,Ivy,Aldo Donelli,H,Brown,Ivy,John McLaughry,L,7,51
+1965-09-18,Texas,SWC,Darrell Royal,H,Tulane,SEC,Tommy O'Boyle,W,31,0
+1965-09-25,Texas,SWC,Darrell Royal,H,Texas Tech,SWC,J.T. King,W,33,7
+1965-10-02,Texas,SWC,Darrell Royal,H,Indiana,Big Ten,John Pont,W,27,12
+1965-10-09,Texas,SWC,Darrell Royal,N,Oklahoma,Big 8,Gomer Jones,W,19,0
+1965-10-16,Texas,SWC,Darrell Royal,A,Arkansas,SWC,Frank Broyles,L,24,27
+1965-10-23,Texas,SWC,Darrell Royal,H,Rice,SWC,Jess Neely,L,17,20
+1965-10-30,Texas,SWC,Darrell Royal,A,SMU,SWC,Hayden Fry,L,14,31
+1965-11-06,Texas,SWC,Darrell Royal,H,Baylor,SWC,John Bridgers,W,35,14
+1965-11-13,Texas,SWC,Darrell Royal,H,Texas Christian,SWC,Abe Martin,L,10,25
+1965-11-25,Texas,SWC,Darrell Royal,A,Texas A&M,SWC,Gene Stallings,W,21,17
+1965-09-18,Texas Christian,SWC,Abe Martin,A,Nebraska,Big 8,Bob Devaney,L,14,34
+1965-09-25,Texas Christian,SWC,Abe Martin,H,Florida State,Ind,Bill Peterson,W,7,3
+1965-10-02,Texas Christian,SWC,Abe Martin,A,Arkansas,SWC,Frank Broyles,L,0,28
+1965-10-09,Texas Christian,SWC,Abe Martin,A,Texas Tech,SWC,J.T. King,L,24,28
+1965-10-16,Texas Christian,SWC,Abe Martin,H,Texas A&M,SWC,Gene Stallings,W,17,9
+1965-10-23,Texas Christian,SWC,Abe Martin,A,Clemson,ACC,Frank Howard,L,0,3
+1965-10-30,Texas Christian,SWC,Abe Martin,A,Baylor,SWC,John Bridgers,W,10,7
+1965-11-13,Texas Christian,SWC,Abe Martin,A,Texas,SWC,Darrell Royal,W,25,10
+1965-11-20,Texas Christian,SWC,Abe Martin,H,Rice,SWC,Jess Neely,W,42,14
+1965-11-27,Texas Christian,SWC,Abe Martin,A,SMU,SWC,Hayden Fry,W,10,7
+1965-12-31,Texas Christian,SWC,Abe Martin,A,UTEP,Ind,Robert Dobbs,L,12,13
+1965-09-18,Air Force,Ind,Ben Martin,A,Wyoming,WAC,Lloyd Eaton,L,14,31
+1965-09-25,Air Force,Ind,Ben Martin,H,Nebraska,Big 8,Bob Devaney,L,17,27
+1965-10-02,Air Force,Ind,Ben Martin,H,Stanford,AAWU,John Ralston,L,16,17
+1965-10-09,Air Force,Ind,Ben Martin,H,California,AAWU,Ray Willsey,L,7,24
+1965-10-16,Air Force,Ind,Ben Martin,A,Oregon,AAWU,Len Casanova,T,18,18
+1965-10-23,Air Force,Ind,Ben Martin,A,Pacific,Ind,Don Campora,W,40,0
+1965-10-30,Air Force,Ind,Ben Martin,H,UCLA,AAWU,Tommy Prothro,L,0,10
+1965-11-06,Air Force,Ind,Ben Martin,N,Army,Ind,Paul Dietzel,W,14,3
+1965-11-13,Air Force,Ind,Ben Martin,A,Arizona,WAC,Jim LaRue,W,34,7
+1965-11-20,Air Force,Ind,Ben Martin,H,Colorado,Big 8,Eddie Crowder,L,6,19
+1965-09-18,Miami (FL),Ind,Charlie Tate,H,SMU,SWC,Hayden Fry,L,3,7
+1965-09-25,Miami (FL),Ind,Charlie Tate,A,Syracuse,Ind,Ben Schwartzwalder,W,24,0
+1965-10-02,Miami (FL),Ind,Charlie Tate,A,Tulane,SEC,Tommy O'Boyle,L,16,24
+1965-10-09,Miami (FL),Ind,Charlie Tate,H,LSU,SEC,Charles McClendon,L,27,34
+1965-10-16,Miami (FL),Ind,Charlie Tate,H,Houston,Ind,Bill Yeoman,W,44,12
+1965-10-23,Miami (FL),Ind,Charlie Tate,A,Pitt,Ind,John Michelosen,L,14,28
+1965-11-05,Miami (FL),Ind,Charlie Tate,H,Boston College,Ind,Jim Miller,W,27,6
+1965-11-13,Miami (FL),Ind,Charlie Tate,A,Vanderbilt,SEC,Jack Green,W,28,14
+1965-11-20,Miami (FL),Ind,Charlie Tate,H,Florida,SEC,Ray Graves,W,16,13
+1965-11-27,Miami (FL),Ind,Charlie Tate,H,Notre Dame,Ind,Ara Parseghian,T,0,0
+1965-09-19,Richmond,Southern,Edwin Merrick,A,West Virginia,Southern,Gene Corum,L,0,56
+1965-09-25,Richmond,Southern,Edwin Merrick,H,Virginia Tech,Ind,Jerry Claiborne,L,7,25
+1965-10-02,Richmond,Southern,Edwin Merrick,A,Southern Mississippi,Ind,Pie Vann,L,7,28
+1965-10-09,Richmond,Southern,Edwin Merrick,H,East Carolina,Southern,Clarence Stasavich,L,13,34
+1965-10-16,Richmond,Southern,Edwin Merrick,A,Buffalo,Ind,Dick Offenhamer,L,0,24
+1965-10-23,Richmond,Southern,Edwin Merrick,A,Boston College,Ind,Jim Miller,L,7,38
+1965-10-30,Richmond,Southern,Edwin Merrick,H,Citadel,Southern,Eddie Teague,L,0,24
+1965-11-06,Richmond,Southern,Edwin Merrick,A,Virginia Military Institute,Southern,John McKenna,L,14,21
+1965-11-13,Richmond,Southern,Edwin Merrick,A,Furman,Southern,Robert King,L,0,14
+1965-11-20,Richmond,Southern,Edwin Merrick,A,William & Mary,Southern,Marv Levy,L,0,21
+1965-09-18,Oregon,AAWU,Len Casanova,A,Pitt,Ind,John Michelosen,W,17,15
+1965-09-25,Oregon,AAWU,Len Casanova,A,Utah,WAC,Ray Nagel,W,31,14
+1965-10-02,Oregon,AAWU,Len Casanova,H,Brigham Young,WAC,Tommy Hudspeth,W,27,14
+1965-10-09,Oregon,AAWU,Len Casanova,A,Stanford,AAWU,John Ralston,L,14,17
+1965-10-16,Oregon,AAWU,Len Casanova,H,Air Force,Ind,Ben Martin,T,18,18
+1965-10-23,Oregon,AAWU,Len Casanova,H,Washington,AAWU,Jim Owens,L,20,24
+1965-10-30,Oregon,AAWU,Len Casanova,H,Idaho,Ind,Steve Musseau,W,17,14
+1965-11-06,Oregon,AAWU,Len Casanova,A,Washington State,AAWU,Bert Clark,L,7,27
+1965-11-13,Oregon,AAWU,Len Casanova,H,California,AAWU,Ray Willsey,L,0,24
+1965-11-20,Oregon,AAWU,Len Casanova,H,Oregon State,AAWU,Dee Andros,L,14,19
+1965-10-02,Brown,Ivy,John McLaughry,A,Pennsylvania,Ivy,Robert Odell,L,0,7
+1965-10-09,Brown,Ivy,John McLaughry,H,Yale,Ivy,Carmen Cozza,L,0,3
+1965-10-16,Brown,Ivy,John McLaughry,H,Dartmouth,Ivy,Bob Blackman,L,9,35
+1965-10-23,Brown,Ivy,John McLaughry,H,Colgate,Ind,Hal Lahar,W,6,0
+1965-10-30,Brown,Ivy,John McLaughry,A,Princeton,Ivy,Richard Colman,L,27,45
+1965-11-06,Brown,Ivy,John McLaughry,A,Cornell,Ivy,Tom Harp,L,21,41
+1965-11-13,Brown,Ivy,John McLaughry,H,Harvard,Ivy,John Yovicsin,L,8,17
+1965-11-20,Brown,Ivy,John McLaughry,A,Columbia,Ivy,Aldo Donelli,W,51,7
+1965-09-25,Quantico Marines,Ind,,A,Toledo,MAC,Frank Lauterbur,L,0,9
+1965-10-02,Quantico Marines,Ind,,H,Xavier,Ind,Edward Biles,L,12,26
+1965-10-09,Quantico Marines,Ind,,A,Marshall,MAC,Charlie Snyder,L,9,10
+1965-10-16,Quantico Marines,Ind,,A,Dayton,Ind,John McVay,W,10,0
+1965-11-06,Quantico Marines,Ind,,A,Villanova,Ind,Alex Bell,W,32,6
+1965-11-27,Quantico Marines,Ind,,H,Memphis,Ind,Billy Murphy,W,20,14
+1965-09-18,Tennessee,SEC,Doug Dickey,H,Army,Ind,Paul Dietzel,W,21,0
+1965-09-25,Tennessee,SEC,Doug Dickey,H,Auburn,SEC,Ralph Jordan,T,13,13
+1965-10-09,Tennessee,SEC,Doug Dickey,H,South Carolina,ACC,Marvin Bass,W,24,3
+1965-10-16,Tennessee,SEC,Doug Dickey,A,Alabama,SEC,Bear Bryant,T,7,7
+1965-10-23,Tennessee,SEC,Doug Dickey,H,Houston,Ind,Bill Yeoman,W,17,8
+1965-11-06,Tennessee,SEC,Doug Dickey,H,Georgia Tech,Ind,Bobby Dodd,W,21,7
+1965-11-13,Tennessee,SEC,Doug Dickey,N,Ole Miss,SEC,John Vaught,L,13,14
+1965-11-20,Tennessee,SEC,Doug Dickey,A,Kentucky,SEC,Charley Bradshaw,W,19,3
+1965-11-27,Tennessee,SEC,Doug Dickey,H,Vanderbilt,SEC,Jack Green,W,21,3
+1965-12-04,Tennessee,SEC,Doug Dickey,H,UCLA,AAWU,Tommy Prothro,W,37,34
+1965-12-18,Tennessee,SEC,Doug Dickey,N,Tulsa,MVC,Glenn Dobbs,W,27,6
+1965-09-25,Lehigh,Ind,Frederick Dunlap,A,Pennsylvania,Ivy,Robert Odell,L,14,20
+1965-10-02,Lehigh,Ind,Frederick Dunlap,H,Cornell,Ivy,Tom Harp,L,13,49
+1965-10-09,Lehigh,Ind,Frederick Dunlap,A,Rutgers,Ind,John Bateman,L,0,6
+1965-10-30,Lehigh,Ind,Frederick Dunlap,H,Furman,Southern,Robert King,L,15,27
+1965-11-06,Lehigh,Ind,Frederick Dunlap,A,Davidson,Southern,Homer Smith,L,23,37
+1965-09-18,Oregon State,AAWU,Dee Andros,A,Illinois,Big Ten,Pete Elliott,W,12,10
+1965-09-25,Oregon State,AAWU,Dee Andros,H,Iowa,Big Ten,Jerry Burns,L,7,27
+1965-10-01,Oregon State,AAWU,Dee Andros,A,USC,AAWU,John McKay,L,12,26
+1965-10-09,Oregon State,AAWU,Dee Andros,A,Northwestern,Big Ten,Alex Agase,L,7,15
+1965-10-16,Oregon State,AAWU,Dee Andros,A,Idaho,Ind,Steve Musseau,W,16,14
+1965-10-23,Oregon State,AAWU,Dee Andros,H,Utah,WAC,Ray Nagel,W,10,6
+1965-10-30,Oregon State,AAWU,Dee Andros,H,Washington State,AAWU,Bert Clark,L,8,10
+1965-11-06,Oregon State,AAWU,Dee Andros,A,Syracuse,Ind,Ben Schwartzwalder,W,13,12
+1965-11-13,Oregon State,AAWU,Dee Andros,A,Washington,AAWU,Jim Owens,L,21,28
+1965-11-20,Oregon State,AAWU,Dee Andros,A,Oregon,AAWU,Len Casanova,W,19,14
+1965-09-18,Alabama,SEC,Bear Bryant,A,Georgia,SEC,Vince Dooley,L,17,18
+1965-09-25,Alabama,SEC,Bear Bryant,H,Tulane,SEC,Tommy O'Boyle,W,27,0
+1965-10-02,Alabama,SEC,Bear Bryant,H,Ole Miss,SEC,John Vaught,W,17,16
+1965-10-09,Alabama,SEC,Bear Bryant,A,Vanderbilt,SEC,Jack Green,W,22,7
+1965-10-16,Alabama,SEC,Bear Bryant,H,Tennessee,SEC,Doug Dickey,T,7,7
+1965-10-23,Alabama,SEC,Bear Bryant,H,Florida State,Ind,Bill Peterson,W,21,0
+1965-10-30,Alabama,SEC,Bear Bryant,A,Mississippi State,SEC,Paul Davis,W,10,7
+1965-11-06,Alabama,SEC,Bear Bryant,A,LSU,SEC,Charles McClendon,W,31,7
+1965-11-13,Alabama,SEC,Bear Bryant,H,South Carolina,ACC,Marvin Bass,W,35,14
+1965-11-27,Alabama,SEC,Bear Bryant,N,Auburn,SEC,Ralph Jordan,W,30,3
+1966-01-01,Alabama,SEC,Bear Bryant,N,Nebraska,Big 8,Bob Devaney,W,39,28
+1965-09-18,Dayton,Ind,John McVay,A,Cincinnati,MVC,Charles Studley,L,0,28
+1965-09-25,Dayton,Ind,John McVay,A,Kent State,MAC,Leo Strang,L,6,14
+1965-10-02,Dayton,Ind,John McVay,H,Bowling Green State,MAC,Bob Gibson,L,0,9
+1965-10-09,Dayton,Ind,John McVay,A,Louisville,MVC,Frank Camp,L,0,34
+1965-10-16,Dayton,Ind,John McVay,H,Quantico Marines,Ind,,L,0,10
+1965-10-23,Dayton,Ind,John McVay,A,Buffalo,Ind,Dick Offenhamer,T,0,0
+1965-10-30,Dayton,Ind,John McVay,H,Ohio,MAC,Bill Hess,W,13,7
+1965-11-06,Dayton,Ind,John McVay,A,Xavier,Ind,Edward Biles,L,0,10
+1965-11-13,Dayton,Ind,John McVay,H,Miami (OH),MAC,Bo Schembechler,L,0,28
+1965-11-20,Dayton,Ind,John McVay,A,Toledo,MAC,Frank Lauterbur,L,7,21
+1965-09-18,Purdue,Big Ten,Jack Mollenkopf,H,Miami (OH),MAC,Bo Schembechler,W,38,0
+1965-09-25,Purdue,Big Ten,Jack Mollenkopf,H,Notre Dame,Ind,Ara Parseghian,W,25,21
+1965-10-02,Purdue,Big Ten,Jack Mollenkopf,A,SMU,SWC,Hayden Fry,T,14,14
+1965-10-09,Purdue,Big Ten,Jack Mollenkopf,A,Iowa,Big Ten,Jerry Burns,W,17,14
+1965-10-16,Purdue,Big Ten,Jack Mollenkopf,A,Michigan,Big Ten,Bump Elliott,W,17,15
+1965-10-23,Purdue,Big Ten,Jack Mollenkopf,H,Michigan State,Big Ten,Duffy Daugherty,L,10,14
+1965-10-30,Purdue,Big Ten,Jack Mollenkopf,A,Illinois,Big Ten,Pete Elliott,L,0,21
+1965-11-06,Purdue,Big Ten,Jack Mollenkopf,H,Wisconsin,Big Ten,Milt Bruhn,W,45,7
+1965-11-13,Purdue,Big Ten,Jack Mollenkopf,H,Minnesota,Big Ten,Murray Warmath,W,35,0
+1965-11-20,Purdue,Big Ten,Jack Mollenkopf,A,Indiana,Big Ten,John Pont,W,26,21
+1965-09-18,Nebraska,Big 8,Bob Devaney,H,Texas Christian,SWC,Abe Martin,W,34,14
+1965-09-25,Nebraska,Big 8,Bob Devaney,A,Air Force,Ind,Ben Martin,W,27,17
+1965-10-02,Nebraska,Big 8,Bob Devaney,H,Iowa State,Big 8,Clay Stapleton,W,44,0
+1965-10-09,Nebraska,Big 8,Bob Devaney,H,Wisconsin,Big Ten,Milt Bruhn,W,37,0
+1965-10-16,Nebraska,Big 8,Bob Devaney,A,Kansas State,Big 8,Doug Weaver,W,41,0
+1965-10-23,Nebraska,Big 8,Bob Devaney,H,Colorado,Big 8,Eddie Crowder,W,38,13
+1965-10-30,Nebraska,Big 8,Bob Devaney,A,Missouri,Big 8,Dan Devine,W,16,14
+1965-11-06,Nebraska,Big 8,Bob Devaney,H,Kansas,Big 8,Jack Mitchell,W,42,6
+1965-11-13,Nebraska,Big 8,Bob Devaney,A,Oklahoma State,Big 8,Phil Cutchin,W,21,17
+1965-11-25,Nebraska,Big 8,Bob Devaney,H,Oklahoma,Big 8,Gomer Jones,W,21,9
+1966-01-01,Nebraska,Big 8,Bob Devaney,N,Alabama,SEC,Bear Bryant,L,28,39
+1965-09-19,West Virginia,Southern,Gene Corum,H,Richmond,Southern,Edwin Merrick,W,56,0
+1965-09-25,West Virginia,Southern,Gene Corum,A,William & Mary,Southern,Marv Levy,W,34,14
+1965-10-02,West Virginia,Southern,Gene Corum,H,Pitt,Ind,John Michelosen,W,63,48
+1965-10-09,West Virginia,Southern,Gene Corum,A,Citadel,Southern,Eddie Teague,W,25,2
+1965-10-16,West Virginia,Southern,Gene Corum,A,Virginia,ACC,George Blackburn,L,0,41
+1965-10-23,West Virginia,Southern,Gene Corum,A,Penn State,Ind,Rip Engle,L,6,44
+1965-10-30,West Virginia,Southern,Gene Corum,A,Kentucky,SEC,Charley Bradshaw,L,8,28
+1965-11-06,West Virginia,Southern,Gene Corum,H,Virginia Tech,Ind,Jerry Claiborne,W,31,22
+1965-11-13,West Virginia,Southern,Gene Corum,H,Syracuse,Ind,Ben Schwartzwalder,L,19,41
+1965-11-20,West Virginia,Southern,Gene Corum,H,George Washington,Southern,Jim Camp,W,37,24
+1965-09-25,Harvard,Ivy,John Yovicsin,H,Holy Cross,Ind,Melvin Massucco,W,17,7
+1965-10-09,Harvard,Ivy,John Yovicsin,H,Columbia,Ivy,Aldo Donelli,W,21,6
+1965-10-16,Harvard,Ivy,John Yovicsin,A,Cornell,Ivy,Tom Harp,T,3,3
+1965-10-23,Harvard,Ivy,John Yovicsin,H,Dartmouth,Ivy,Bob Blackman,L,0,14
+1965-10-30,Harvard,Ivy,John Yovicsin,A,Pennsylvania,Ivy,Robert Odell,T,10,10
+1965-11-06,Harvard,Ivy,John Yovicsin,H,Princeton,Ivy,Richard Colman,L,6,14
+1965-11-13,Harvard,Ivy,John Yovicsin,A,Brown,Ivy,John McLaughry,W,17,8
+1965-11-20,Harvard,Ivy,John Yovicsin,A,Yale,Ivy,Carmen Cozza,W,13,0
+1965-09-18,Oklahoma State,Big 8,Phil Cutchin,A,Arkansas,SWC,Frank Broyles,L,14,28
+1965-09-25,Oklahoma State,Big 8,Phil Cutchin,H,Missouri,Big 8,Dan Devine,L,0,13
+1965-10-02,Oklahoma State,Big 8,Phil Cutchin,H,Tulsa,MVC,Glenn Dobbs,W,17,14
+1965-10-09,Oklahoma State,Big 8,Phil Cutchin,A,Colorado,Big 8,Eddie Crowder,L,11,34
+1965-10-16,Oklahoma State,Big 8,Phil Cutchin,A,Texas Tech,SWC,J.T. King,L,14,17
+1965-10-23,Oklahoma State,Big 8,Phil Cutchin,A,Kansas,Big 8,Jack Mitchell,L,0,9
+1965-10-30,Oklahoma State,Big 8,Phil Cutchin,A,Iowa State,Big 8,Clay Stapleton,L,10,14
+1965-11-13,Oklahoma State,Big 8,Phil Cutchin,H,Nebraska,Big 8,Bob Devaney,L,17,21
+1965-11-20,Oklahoma State,Big 8,Phil Cutchin,H,Kansas State,Big 8,Doug Weaver,W,31,7
+1965-12-04,Oklahoma State,Big 8,Phil Cutchin,A,Oklahoma,Big 8,Gomer Jones,W,17,16
+1965-09-18,Colorado,Big 8,Eddie Crowder,A,Wisconsin,Big Ten,Milt Bruhn,T,0,0
+1965-10-02,Colorado,Big 8,Eddie Crowder,A,Kansas State,Big 8,Doug Weaver,W,36,0
+1965-10-09,Colorado,Big 8,Eddie Crowder,H,Oklahoma State,Big 8,Phil Cutchin,W,34,11
+1965-10-16,Colorado,Big 8,Eddie Crowder,H,Iowa State,Big 8,Clay Stapleton,T,10,10
+1965-10-23,Colorado,Big 8,Eddie Crowder,A,Nebraska,Big 8,Bob Devaney,L,13,38
+1965-10-30,Colorado,Big 8,Eddie Crowder,A,Oklahoma,Big 8,Gomer Jones,W,13,0
+1965-11-06,Colorado,Big 8,Eddie Crowder,H,Missouri,Big 8,Dan Devine,L,7,20
+1965-11-13,Colorado,Big 8,Eddie Crowder,H,Kansas,Big 8,Jack Mitchell,W,21,14
+1965-11-20,Colorado,Big 8,Eddie Crowder,A,Air Force,Ind,Ben Martin,W,19,6
+1965-09-25,Colorado State,Ind,Milo Lude,H,Wyoming,WAC,Lloyd Eaton,L,14,33
+1965-10-02,Colorado State,Ind,Milo Lude,H,New Mexico,WAC,Bill Weeks,W,27,22
+1965-10-09,Colorado State,Ind,Milo Lude,A,UTEP,Ind,Robert Dobbs,L,10,35
+1965-10-16,Colorado State,Ind,Milo Lude,A,West Texas A&M,Ind,Joe Kerbel,L,12,15
+1965-10-23,Colorado State,Ind,Milo Lude,H,Utah State,Ind,Tony Knap,L,20,41
+1965-10-30,Colorado State,Ind,Milo Lude,A,Utah,WAC,Ray Nagel,L,19,22
+1965-11-13,Colorado State,Ind,Milo Lude,A,Brigham Young,WAC,Tommy Hudspeth,W,36,22
+1965-11-25,Colorado State,Ind,Milo Lude,A,Tulsa,MVC,Glenn Dobbs,L,20,48
+1965-09-25,Rice,SWC,Jess Neely,A,LSU,SEC,Charles McClendon,L,14,42
+1965-10-02,Rice,SWC,Jess Neely,H,Duke,ACC,Bill Murray,L,21,41
+1965-10-16,Rice,SWC,Jess Neely,H,SMU,SWC,Hayden Fry,L,14,17
+1965-10-23,Rice,SWC,Jess Neely,A,Texas,SWC,Darrell Royal,W,20,17
+1965-10-30,Rice,SWC,Jess Neely,A,Texas Tech,SWC,J.T. King,L,0,27
+1965-11-06,Rice,SWC,Jess Neely,H,Arkansas,SWC,Frank Broyles,L,0,31
+1965-11-13,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Gene Stallings,L,13,14
+1965-11-20,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Abe Martin,L,14,42
+1965-11-27,Rice,SWC,Jess Neely,H,Baylor,SWC,John Bridgers,L,13,17
+1965-09-18,Texas A&M,SWC,Gene Stallings,A,LSU,SEC,Charles McClendon,L,0,10
+1965-09-25,Texas A&M,SWC,Gene Stallings,A,Georgia Tech,Ind,Bobby Dodd,W,14,10
+1965-10-02,Texas A&M,SWC,Gene Stallings,A,Texas Tech,SWC,J.T. King,L,16,20
+1965-10-09,Texas A&M,SWC,Gene Stallings,H,Houston,Ind,Bill Yeoman,W,10,7
+1965-10-16,Texas A&M,SWC,Gene Stallings,A,Texas Christian,SWC,Abe Martin,L,9,17
+1965-10-23,Texas A&M,SWC,Gene Stallings,H,Baylor,SWC,John Bridgers,L,0,31
+1965-10-30,Texas A&M,SWC,Gene Stallings,A,Arkansas,SWC,Frank Broyles,L,0,31
+1965-11-06,Texas A&M,SWC,Gene Stallings,H,SMU,SWC,Hayden Fry,L,0,10
+1965-11-13,Texas A&M,SWC,Gene Stallings,A,Rice,SWC,Jess Neely,W,14,13
+1965-11-25,Texas A&M,SWC,Gene Stallings,H,Texas,SWC,Darrell Royal,L,17,21
+1965-09-25,Davidson,Southern,Homer Smith,A,Furman,Southern,Robert King,W,24,0
+1965-10-02,Davidson,Southern,Homer Smith,A,Citadel,Southern,Eddie Teague,W,14,0
+1965-10-16,Davidson,Southern,Homer Smith,H,William & Mary,Southern,Marv Levy,L,7,41
+1965-10-23,Davidson,Southern,Homer Smith,H,Virginia Military Institute,Southern,John McKenna,L,10,16
+1965-10-30,Davidson,Southern,Homer Smith,A,George Washington,Southern,Jim Camp,L,7,23
+1965-11-06,Davidson,Southern,Homer Smith,H,Lehigh,Ind,Frederick Dunlap,W,37,23
+1965-09-18,Michigan State,Big Ten,Duffy Daugherty,H,UCLA,AAWU,Tommy Prothro,W,13,3
+1965-09-25,Michigan State,Big Ten,Duffy Daugherty,A,Penn State,Ind,Rip Engle,W,23,0
+1965-10-02,Michigan State,Big Ten,Duffy Daugherty,H,Illinois,Big Ten,Pete Elliott,W,22,12
+1965-10-09,Michigan State,Big Ten,Duffy Daugherty,A,Michigan,Big Ten,Bump Elliott,W,24,7
+1965-10-16,Michigan State,Big Ten,Duffy Daugherty,H,Ohio State,Big Ten,Woody Hayes,W,32,7
+1965-10-23,Michigan State,Big Ten,Duffy Daugherty,A,Purdue,Big Ten,Jack Mollenkopf,W,14,10
+1965-10-30,Michigan State,Big Ten,Duffy Daugherty,H,Northwestern,Big Ten,Alex Agase,W,49,7
+1965-11-06,Michigan State,Big Ten,Duffy Daugherty,A,Iowa,Big Ten,Jerry Burns,W,35,0
+1965-11-13,Michigan State,Big Ten,Duffy Daugherty,H,Indiana,Big Ten,John Pont,W,27,13
+1965-11-20,Michigan State,Big Ten,Duffy Daugherty,A,Notre Dame,Ind,Ara Parseghian,W,12,3
+1966-01-01,Michigan State,Big Ten,Duffy Daugherty,A,UCLA,AAWU,Tommy Prothro,L,12,14
+1965-09-18,Boston College,Ind,Jim Miller,H,Buffalo,Ind,Dick Offenhamer,W,18,6
+1965-09-25,Boston College,Ind,Jim Miller,H,Villanova,Ind,Alex Bell,W,28,0
+1965-10-02,Boston College,Ind,Jim Miller,A,Army,Ind,Paul Dietzel,L,0,10
+1965-10-09,Boston College,Ind,Jim Miller,H,Penn State,Ind,Rip Engle,L,0,17
+1965-10-23,Boston College,Ind,Jim Miller,H,Richmond,Southern,Edwin Merrick,W,38,7
+1965-10-30,Boston College,Ind,Jim Miller,H,Virginia Military Institute,Southern,John McKenna,W,41,12
+1965-11-05,Boston College,Ind,Jim Miller,A,Miami (FL),Ind,Charlie Tate,L,6,27
+1965-11-13,Boston College,Ind,Jim Miller,H,William & Mary,Southern,Marv Levy,W,30,17
+1965-11-20,Boston College,Ind,Jim Miller,A,Syracuse,Ind,Ben Schwartzwalder,L,13,21
+1965-11-27,Boston College,Ind,Jim Miller,A,Holy Cross,Ind,Melvin Massucco,W,35,0
+1965-09-25,Colgate,Ind,Hal Lahar,A,Cornell,Ivy,Tom Harp,T,0,0
+1965-10-02,Colgate,Ind,Hal Lahar,A,Yale,Ivy,Carmen Cozza,W,7,0
+1965-10-09,Colgate,Ind,Hal Lahar,H,Holy Cross,Ind,Melvin Massucco,W,7,3
+1965-10-16,Colgate,Ind,Hal Lahar,A,Princeton,Ivy,Richard Colman,L,0,27
+1965-10-23,Colgate,Ind,Hal Lahar,A,Brown,Ivy,John McLaughry,L,0,6
+1965-10-30,Colgate,Ind,Hal Lahar,A,Army,Ind,Paul Dietzel,W,29,28
+1965-11-13,Colgate,Ind,Hal Lahar,A,Buffalo,Ind,Dick Offenhamer,L,0,28
+1965-11-20,Colgate,Ind,Hal Lahar,A,Rutgers,Ind,John Bateman,W,24,10
+1965-10-02,New Mexico State,Ind,Warren Woodson,A,UTEP,Ind,Robert Dobbs,L,6,21
+1965-10-09,New Mexico State,Ind,Warren Woodson,A,Pacific,Ind,Don Campora,W,14,6
+1965-10-16,New Mexico State,Ind,Warren Woodson,A,Wichita State,MVC,George Karras,W,45,20
+1965-10-23,New Mexico State,Ind,Warren Woodson,A,West Texas A&M,Ind,Joe Kerbel,W,10,2
+1965-11-06,New Mexico State,Ind,Warren Woodson,A,Texas Tech,SWC,J.T. King,L,9,48
+1965-11-13,New Mexico State,Ind,Warren Woodson,H,New Mexico,WAC,Bill Weeks,W,20,6
+1965-11-20,New Mexico State,Ind,Warren Woodson,H,North Texas,MVC,Odus Mitchell,W,43,13
+1965-09-17,Minnesota,Big Ten,Murray Warmath,A,USC,AAWU,John McKay,T,20,20
+1965-09-25,Minnesota,Big Ten,Murray Warmath,H,Washington State,AAWU,Bert Clark,L,13,14
+1965-10-02,Minnesota,Big Ten,Murray Warmath,H,Missouri,Big 8,Dan Devine,L,6,17
+1965-10-09,Minnesota,Big Ten,Murray Warmath,H,Indiana,Big Ten,John Pont,W,42,18
+1965-10-16,Minnesota,Big Ten,Murray Warmath,A,Iowa,Big Ten,Jerry Burns,W,14,3
+1965-10-23,Minnesota,Big Ten,Murray Warmath,H,Michigan,Big Ten,Bump Elliott,W,14,13
+1965-10-30,Minnesota,Big Ten,Murray Warmath,A,Ohio State,Big Ten,Woody Hayes,L,10,11
+1965-11-06,Minnesota,Big Ten,Murray Warmath,H,Northwestern,Big Ten,Alex Agase,W,27,22
+1965-11-13,Minnesota,Big Ten,Murray Warmath,A,Purdue,Big Ten,Jack Mollenkopf,L,0,35
+1965-11-20,Minnesota,Big Ten,Murray Warmath,H,Wisconsin,Big Ten,Milt Bruhn,W,42,7
+1965-09-18,Ole Miss,SEC,John Vaught,A,Memphis,Ind,Billy Murphy,W,34,14
+1965-09-25,Ole Miss,SEC,John Vaught,A,Kentucky,SEC,Charley Bradshaw,L,7,16
+1965-10-02,Ole Miss,SEC,John Vaught,A,Alabama,SEC,Bear Bryant,L,16,17
+1965-10-09,Ole Miss,SEC,John Vaught,H,Florida,SEC,Ray Graves,L,0,17
+1965-10-16,Ole Miss,SEC,John Vaught,H,Tulane,SEC,Tommy O'Boyle,W,24,7
+1965-10-23,Ole Miss,SEC,John Vaught,H,Vanderbilt,SEC,Jack Green,W,24,7
+1965-10-30,Ole Miss,SEC,John Vaught,H,LSU,SEC,Charles McClendon,W,23,0
+1965-11-06,Ole Miss,SEC,John Vaught,A,Houston,Ind,Bill Yeoman,L,3,17
+1965-11-13,Ole Miss,SEC,John Vaught,N,Tennessee,SEC,Doug Dickey,W,14,13
+1965-11-27,Ole Miss,SEC,John Vaught,A,Mississippi State,SEC,Paul Davis,W,21,0
+1965-12-18,Ole Miss,SEC,John Vaught,N,Auburn,SEC,Ralph Jordan,W,13,7
+1965-09-18,Duke,ACC,Bill Murray,A,Virginia,ACC,George Blackburn,W,21,7
+1965-09-25,Duke,ACC,Bill Murray,A,South Carolina,ACC,Marvin Bass,W,20,15
+1965-10-02,Duke,ACC,Bill Murray,A,Rice,SWC,Jess Neely,W,41,21
+1965-10-09,Duke,ACC,Bill Murray,H,Pitt,Ind,John Michelosen,W,21,13
+1965-10-16,Duke,ACC,Bill Murray,H,Clemson,ACC,Frank Howard,L,2,3
+1965-10-23,Duke,ACC,Bill Murray,A,Illinois,Big Ten,Pete Elliott,L,14,28
+1965-10-30,Duke,ACC,Bill Murray,A,Georgia Tech,Ind,Bobby Dodd,L,23,35
+1965-11-06,Duke,ACC,Bill Murray,A,North Carolina State,ACC,Earle Edwards,L,0,21
+1965-11-13,Duke,ACC,Bill Murray,H,Wake Forest,ACC,William Tate,W,40,7
+1965-11-20,Duke,ACC,Bill Murray,H,North Carolina,ACC,James Hickey,W,34,7
+1965-09-18,Kent State,MAC,Leo Strang,A,Xavier,Ind,Edward Biles,L,14,21
+1965-09-25,Kent State,MAC,Leo Strang,H,Dayton,Ind,John McVay,W,14,6
+1965-10-02,Kent State,MAC,Leo Strang,A,Ohio,MAC,Bill Hess,W,27,10
+1965-10-09,Kent State,MAC,Leo Strang,H,Miami (OH),MAC,Bo Schembechler,W,24,13
+1965-10-16,Kent State,MAC,Leo Strang,A,Western Michigan,MAC,Bill Doolittle,T,10,10
+1965-10-23,Kent State,MAC,Leo Strang,H,Bowling Green State,MAC,Bob Gibson,L,6,7
+1965-10-30,Kent State,MAC,Leo Strang,A,Toledo,MAC,Frank Lauterbur,L,3,7
+1965-11-06,Kent State,MAC,Leo Strang,A,Penn State,Ind,Rip Engle,L,6,21
+1965-11-13,Kent State,MAC,Leo Strang,H,Marshall,MAC,Charlie Snyder,W,33,13
+1965-11-20,Kent State,MAC,Leo Strang,H,Louisville,MVC,Frank Camp,W,7,6
+1965-09-18,Navy,Ind,William Elias,H,Syracuse,Ind,Ben Schwartzwalder,L,6,14
+1965-09-25,Navy,Ind,William Elias,A,Stanford,AAWU,John Ralston,T,7,7
+1965-10-02,Navy,Ind,William Elias,A,Oklahoma,Big 8,Gomer Jones,W,10,0
+1965-10-09,Navy,Ind,William Elias,H,William & Mary,Southern,Marv Levy,W,42,14
+1965-10-16,Navy,Ind,William Elias,H,Pitt,Ind,John Michelosen,W,12,0
+1965-10-23,Navy,Ind,William Elias,A,Georgia Tech,Ind,Bobby Dodd,L,16,37
+1965-10-30,Navy,Ind,William Elias,A,Notre Dame,Ind,Ara Parseghian,L,3,29
+1965-11-06,Navy,Ind,William Elias,H,Maryland,ACC,Thomas Nugent,W,19,7
+1965-11-13,Navy,Ind,William Elias,A,Penn State,Ind,Rip Engle,L,6,14
+1965-11-27,Navy,Ind,William Elias,N,Army,Ind,Paul Dietzel,T,7,7
+1965-09-18,Texas Tech,SWC,J.T. King,H,Kansas,Big 8,Jack Mitchell,W,26,7
+1965-09-25,Texas Tech,SWC,J.T. King,A,Texas,SWC,Darrell Royal,L,7,33
+1965-10-02,Texas Tech,SWC,J.T. King,H,Texas A&M,SWC,Gene Stallings,W,20,16
+1965-10-09,Texas Tech,SWC,J.T. King,H,Texas Christian,SWC,Abe Martin,W,28,24
+1965-10-16,Texas Tech,SWC,J.T. King,H,Oklahoma State,Big 8,Phil Cutchin,W,17,14
+1965-10-23,Texas Tech,SWC,J.T. King,A,SMU,SWC,Hayden Fry,W,26,24
+1965-10-30,Texas Tech,SWC,J.T. King,H,Rice,SWC,Jess Neely,W,27,0
+1965-11-06,Texas Tech,SWC,J.T. King,H,New Mexico State,Ind,Warren Woodson,W,48,9
+1965-11-13,Texas Tech,SWC,J.T. King,H,Baylor,SWC,John Bridgers,W,34,22
+1965-11-20,Texas Tech,SWC,J.T. King,A,Arkansas,SWC,Frank Broyles,L,24,42
+1965-12-31,Texas Tech,SWC,J.T. King,N,Georgia Tech,Ind,Bobby Dodd,L,21,31
+1965-09-18,Tulane,SEC,Tommy O'Boyle,A,Texas,SWC,Darrell Royal,L,0,31
+1965-09-25,Tulane,SEC,Tommy O'Boyle,A,Alabama,SEC,Bear Bryant,L,0,27
+1965-10-02,Tulane,SEC,Tommy O'Boyle,H,Miami (FL),Ind,Charlie Tate,W,24,16
+1965-10-09,Tulane,SEC,Tommy O'Boyle,H,Georgia Tech,Ind,Bobby Dodd,L,10,13
+1965-10-16,Tulane,SEC,Tommy O'Boyle,A,Ole Miss,SEC,John Vaught,L,7,24
+1965-10-22,Tulane,SEC,Tommy O'Boyle,H,Mississippi State,SEC,Paul Davis,W,17,15
+1965-10-30,Tulane,SEC,Tommy O'Boyle,H,Vanderbilt,SEC,Jack Green,L,0,13
+1965-11-06,Tulane,SEC,Tommy O'Boyle,H,Stanford,AAWU,John Ralston,L,0,16
+1965-11-13,Tulane,SEC,Tommy O'Boyle,A,Florida,SEC,Ray Graves,L,13,51
+1965-11-20,Tulane,SEC,Tommy O'Boyle,A,LSU,SEC,Charles McClendon,L,0,62
+1965-09-25,Cornell,Ivy,Tom Harp,H,Colgate,Ind,Hal Lahar,T,0,0
+1965-10-02,Cornell,Ivy,Tom Harp,A,Lehigh,Ind,Frederick Dunlap,W,49,13
+1965-10-09,Cornell,Ivy,Tom Harp,H,Princeton,Ivy,Richard Colman,L,27,36
+1965-10-16,Cornell,Ivy,Tom Harp,H,Harvard,Ivy,John Yovicsin,T,3,3
+1965-10-23,Cornell,Ivy,Tom Harp,A,Yale,Ivy,Carmen Cozza,L,14,24
+1965-10-30,Cornell,Ivy,Tom Harp,H,Columbia,Ivy,Aldo Donelli,W,20,6
+1965-11-06,Cornell,Ivy,Tom Harp,H,Brown,Ivy,John McLaughry,W,41,21
+1965-11-13,Cornell,Ivy,Tom Harp,A,Dartmouth,Ivy,Bob Blackman,L,0,20
+1965-11-25,Cornell,Ivy,Tom Harp,A,Pennsylvania,Ivy,Robert Odell,W,38,14
+1965-09-25,Ohio State,Big Ten,Woody Hayes,H,North Carolina,ACC,James Hickey,L,3,14
+1965-10-02,Ohio State,Big Ten,Woody Hayes,A,Washington,AAWU,Jim Owens,W,23,21
+1965-10-09,Ohio State,Big Ten,Woody Hayes,H,Illinois,Big Ten,Pete Elliott,W,28,14
+1965-10-16,Ohio State,Big Ten,Woody Hayes,A,Michigan State,Big Ten,Duffy Daugherty,L,7,32
+1965-10-23,Ohio State,Big Ten,Woody Hayes,A,Wisconsin,Big Ten,Milt Bruhn,W,20,10
+1965-10-30,Ohio State,Big Ten,Woody Hayes,H,Minnesota,Big Ten,Murray Warmath,W,11,10
+1965-11-06,Ohio State,Big Ten,Woody Hayes,H,Indiana,Big Ten,John Pont,W,17,10
+1965-11-13,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Jerry Burns,W,38,0
+1965-11-20,Ohio State,Big Ten,Woody Hayes,A,Michigan,Big Ten,Bump Elliott,W,9,7
+1965-09-18,Ohio,MAC,Bill Hess,H,West Texas A&M,Ind,Joe Kerbel,L,0,7
+1965-09-25,Ohio,MAC,Bill Hess,A,Maryland,ACC,Thomas Nugent,L,7,24
+1965-10-02,Ohio,MAC,Bill Hess,H,Kent State,MAC,Leo Strang,L,10,27
+1965-10-09,Ohio,MAC,Bill Hess,A,Toledo,MAC,Frank Lauterbur,L,7,21
+1965-10-16,Ohio,MAC,Bill Hess,H,Xavier,Ind,Edward Biles,L,19,21
+1965-10-23,Ohio,MAC,Bill Hess,A,Miami (OH),MAC,Bo Schembechler,L,0,34
+1965-10-30,Ohio,MAC,Bill Hess,A,Dayton,Ind,John McVay,L,7,13
+1965-11-06,Ohio,MAC,Bill Hess,H,Western Michigan,MAC,Bill Doolittle,L,6,17
+1965-11-13,Ohio,MAC,Bill Hess,H,Bowling Green State,MAC,Bob Gibson,L,7,17
+1965-11-20,Ohio,MAC,Bill Hess,A,Marshall,MAC,Charlie Snyder,L,14,29
+1965-09-11,Houston,Ind,Bill Yeoman,H,Tulsa,MVC,Glenn Dobbs,L,0,14
+1965-09-18,Houston,Ind,Bill Yeoman,H,Mississippi State,SEC,Paul Davis,L,0,36
+1965-09-24,Houston,Ind,Bill Yeoman,H,Cincinnati,MVC,Charles Studley,W,21,6
+1965-10-09,Houston,Ind,Bill Yeoman,A,Texas A&M,SWC,Gene Stallings,L,7,10
+1965-10-16,Houston,Ind,Bill Yeoman,A,Miami (FL),Ind,Charlie Tate,L,12,44
+1965-10-23,Houston,Ind,Bill Yeoman,A,Tennessee,SEC,Doug Dickey,L,8,17
+1965-11-06,Houston,Ind,Bill Yeoman,H,Ole Miss,SEC,John Vaught,W,17,3
+1965-11-13,Houston,Ind,Bill Yeoman,H,Kentucky,SEC,Charley Bradshaw,W,38,21
+1965-11-20,Houston,Ind,Bill Yeoman,A,Florida State,Ind,Bill Peterson,T,16,16

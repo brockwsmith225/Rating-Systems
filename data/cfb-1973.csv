@@ -1,0 +1,1295 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1973-09-15,North Carolina,ACC,Bill Dooley,H,William & Mary,Southern,James Root,W,34,27
+1973-09-22,North Carolina,ACC,Bill Dooley,H,Maryland,ACC,Jerry Claiborne,L,3,23
+1973-09-29,North Carolina,ACC,Bill Dooley,H,Missouri,Big 8,Al Onofrio,L,14,27
+1973-10-06,North Carolina,ACC,Bill Dooley,A,North Carolina State,ACC,Lou Holtz,L,26,28
+1973-10-13,North Carolina,ACC,Bill Dooley,A,Kentucky,SEC,Fran Curci,W,16,10
+1973-10-20,North Carolina,ACC,Bill Dooley,A,Tulane,Ind,Bennie Ellender,L,0,16
+1973-10-27,North Carolina,ACC,Bill Dooley,H,East Carolina,Southern,Sonny Randle,W,28,27
+1973-11-03,North Carolina,ACC,Bill Dooley,A,Virginia,ACC,Don Lawrence,L,40,44
+1973-11-10,North Carolina,ACC,Bill Dooley,H,Clemson,ACC,Red Parker,L,29,37
+1973-11-17,North Carolina,ACC,Bill Dooley,H,Wake Forest,ACC,Chuck Mills,W,42,0
+1973-11-24,North Carolina,ACC,Bill Dooley,A,Duke,ACC,Mike McGee,L,10,27
+1973-09-15,Miami (OH),MAC,Bill Mallory,A,Dayton,Ind,Ron Marciniak,W,32,0
+1973-09-22,Miami (OH),MAC,Bill Mallory,A,Purdue,Big Ten,Alex Agase,W,24,19
+1973-09-29,Miami (OH),MAC,Bill Mallory,A,South Carolina,Ind,Paul Dietzel,W,13,11
+1973-10-06,Miami (OH),MAC,Bill Mallory,H,Marshall,Ind,Jack Lengyel,W,31,6
+1973-10-13,Miami (OH),MAC,Bill Mallory,H,Ohio,MAC,Bill Hess,W,10,6
+1973-10-20,Miami (OH),MAC,Bill Mallory,A,Bowling Green State,MAC,Don Nehlen,W,31,8
+1973-10-27,Miami (OH),MAC,Bill Mallory,H,Toledo,MAC,Jack Murphy,W,16,0
+1973-11-03,Miami (OH),MAC,Bill Mallory,A,Western Michigan,MAC,Bill Doolittle,W,24,9
+1973-11-10,Miami (OH),MAC,Bill Mallory,A,Kent State,MAC,Don James,W,20,10
+1973-11-17,Miami (OH),MAC,Bill Mallory,H,Cincinnati,Ind,Tony Mason,W,6,0
+1973-12-22,Miami (OH),MAC,Bill Mallory,A,Florida,SEC,Doug Dickey,W,16,7
+1973-09-15,Indiana,Big Ten,Lee Corso,H,Illinois,Big Ten,Bob Blackman,L,14,28
+1973-09-22,Indiana,Big Ten,Lee Corso,A,Arizona,WAC,Jim Young,L,10,26
+1973-09-29,Indiana,Big Ten,Lee Corso,H,Kentucky,SEC,Fran Curci,W,17,3
+1973-10-06,Indiana,Big Ten,Lee Corso,A,West Virginia,Ind,Bobby Bowden,W,28,14
+1973-10-13,Indiana,Big Ten,Lee Corso,A,Minnesota,Big Ten,Cal Stoll,L,3,24
+1973-10-20,Indiana,Big Ten,Lee Corso,H,Ohio State,Big Ten,Woody Hayes,L,7,37
+1973-10-27,Indiana,Big Ten,Lee Corso,A,Wisconsin,Big Ten,John Jardine,L,7,31
+1973-11-03,Indiana,Big Ten,Lee Corso,A,Michigan,Big Ten,Bo Schembechler,L,13,49
+1973-11-10,Indiana,Big Ten,Lee Corso,H,Northwestern,Big Ten,John Pont,L,20,21
+1973-11-17,Indiana,Big Ten,Lee Corso,A,Michigan State,Big Ten,Dennis Stolz,L,9,10
+1973-11-24,Indiana,Big Ten,Lee Corso,H,Purdue,Big Ten,Alex Agase,L,23,28
+1973-09-15,Florida State,Ind,Larry Jones,A,Wake Forest,ACC,Chuck Mills,L,7,9
+1973-09-22,Florida State,Ind,Larry Jones,H,Kansas,Big 8,Don Fambrough,L,0,28
+1973-09-29,Florida State,Ind,Larry Jones,H,Miami (FL),Ind,Pete Elliott,L,10,14
+1973-10-06,Florida State,Ind,Larry Jones,A,Baylor,SWC,Grant Teaff,L,14,21
+1973-10-13,Florida State,Ind,Larry Jones,H,Mississippi State,SEC,Bob Tyler,L,12,37
+1973-10-20,Florida State,Ind,Larry Jones,H,Memphis,Ind,Fred Pancoast,L,10,13
+1973-10-27,Florida State,Ind,Larry Jones,A,San Diego State,PCAA,Claude Gilbert,L,17,38
+1973-11-03,Florida State,Ind,Larry Jones,A,Houston,Ind,Bill Yeoman,L,3,34
+1973-11-10,Florida State,Ind,Larry Jones,A,Virginia Tech,Ind,Charles Coffey,L,13,36
+1973-11-17,Florida State,Ind,Larry Jones,H,South Carolina,Ind,Paul Dietzel,L,12,52
+1973-12-01,Florida State,Ind,Larry Jones,A,Florida,SEC,Doug Dickey,L,0,49
+1973-09-22,Iowa State,Big 8,Earle Bruce,H,Idaho,Ind,Don Robbins,W,48,0
+1973-09-29,Iowa State,Big 8,Earle Bruce,A,Arkansas,SWC,Frank Broyles,L,19,21
+1973-10-06,Iowa State,Big 8,Earle Bruce,H,Colorado,Big 8,Eddie Crowder,L,16,23
+1973-10-13,Iowa State,Big 8,Earle Bruce,A,Brigham Young,WAC,LaVell Edwards,W,26,24
+1973-10-20,Iowa State,Big 8,Earle Bruce,A,Kansas State,Big 8,Vince Gibson,L,19,21
+1973-10-27,Iowa State,Big 8,Earle Bruce,H,Kansas,Big 8,Don Fambrough,L,20,22
+1973-11-03,Iowa State,Big 8,Earle Bruce,A,Oklahoma,Big 8,Barry Switzer,L,17,34
+1973-11-10,Iowa State,Big 8,Earle Bruce,A,Nebraska,Big 8,Tom Osborne,L,7,31
+1973-11-17,Iowa State,Big 8,Earle Bruce,H,Missouri,Big 8,Al Onofrio,W,17,7
+1973-11-24,Iowa State,Big 8,Earle Bruce,H,Oklahoma State,Big 8,Jim Stanley,W,28,12
+1973-12-01,Iowa State,Big 8,Earle Bruce,A,San Diego State,PCAA,Claude Gilbert,L,28,41
+1973-09-15,Cincinnati,Ind,Tony Mason,H,Xavier,Ind,Thomas Cecchini,W,40,7
+1973-09-22,Cincinnati,Ind,Tony Mason,A,Villanova,Ind,Lou Ferry,L,7,14
+1973-09-29,Cincinnati,Ind,Tony Mason,A,Tulsa,MVC,F. Dry,L,13,16
+1973-10-06,Cincinnati,Ind,Tony Mason,A,Temple,Ind,Wayne Hardin,L,15,16
+1973-10-13,Cincinnati,Ind,Tony Mason,H,Louisiana,Ind,Russ Faulkinberry,W,27,0
+1973-10-20,Cincinnati,Ind,Tony Mason,H,Wichita State,MVC,Bob Seaman,W,27,6
+1973-10-27,Cincinnati,Ind,Tony Mason,A,Louisville,MVC,Tom Alley,L,8,10
+1973-11-03,Cincinnati,Ind,Tony Mason,H,North Texas,MVC,Hayden Fry,W,52,3
+1973-11-10,Cincinnati,Ind,Tony Mason,A,Ohio,MAC,Bill Hess,L,8,14
+1973-11-17,Cincinnati,Ind,Tony Mason,A,Miami (OH),MAC,Bill Mallory,L,0,6
+1973-11-24,Cincinnati,Ind,Tony Mason,H,Memphis,Ind,Fred Pancoast,L,13,17
+1973-09-15,Arizona State,WAC,Frank Kush,A,Oregon,Pac-8,Dick Enright,W,26,20
+1973-09-22,Arizona State,WAC,Frank Kush,H,Washington State,Pac-8,Jim Sweeney,W,20,9
+1973-09-29,Arizona State,WAC,Frank Kush,H,Colorado State,WAC,Sarkis Arslanian,W,67,14
+1973-10-06,Arizona State,WAC,Frank Kush,A,New Mexico,WAC,Rudy Feldman,W,67,24
+1973-10-13,Arizona State,WAC,Frank Kush,H,San Jose State,PCAA,Darryl Rogers,W,28,3
+1973-10-20,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,52,12
+1973-10-27,Arizona State,WAC,Frank Kush,A,Oregon State,Pac-8,Dee Andros,W,44,14
+1973-11-03,Arizona State,WAC,Frank Kush,A,Utah,WAC,Bill Meek,L,31,36
+1973-11-10,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Fritz Shurmur,W,47,0
+1973-11-17,Arizona State,WAC,Frank Kush,A,UTEP,WAC,Tommy Hudspeth,W,54,13
+1973-11-25,Arizona State,WAC,Frank Kush,H,Arizona,WAC,Jim Young,W,55,19
+1973-12-21,Arizona State,WAC,Frank Kush,H,Pitt,Ind,Johnny Majors,W,28,7
+1973-09-15,Furman,Southern,Art Baker,H,Appalachian State,Southern,Jim Brakefield,W,17,0
+1973-09-29,Furman,Southern,Art Baker,A,East Carolina,Southern,Sonny Randle,L,3,14
+1973-10-06,Furman,Southern,Art Baker,H,Richmond,Southern,Frank Jones,L,17,20
+1973-10-13,Furman,Southern,Art Baker,H,Davidson,Southern,David Fagg,W,38,7
+1973-10-20,Furman,Southern,Art Baker,H,Virginia Military Institute,Southern,Bob Thalman,W,19,13
+1973-11-10,Furman,Southern,Art Baker,A,Citadel,Southern,Bobby Ross,L,21,26
+1973-11-17,Furman,Southern,Art Baker,A,Louisville,MVC,Tom Alley,L,14,35
+1973-09-15,Utah,WAC,Bill Meek,A,Texas Tech,SWC,Jim Carlen,L,22,29
+1973-09-22,Utah,WAC,Bill Meek,H,UTEP,WAC,Tommy Hudspeth,W,82,6
+1973-09-29,Utah,WAC,Bill Meek,A,Oregon,Pac-8,Dick Enright,W,35,17
+1973-10-06,Utah,WAC,Bill Meek,A,UCLA,Pac-8,Pepper Rodgers,L,16,66
+1973-10-13,Utah,WAC,Bill Meek,H,Wyoming,WAC,Fritz Shurmur,W,50,16
+1973-10-20,Utah,WAC,Bill Meek,A,San Jose State,PCAA,Darryl Rogers,W,28,21
+1973-10-27,Utah,WAC,Bill Meek,A,Arizona,WAC,Jim Young,L,21,42
+1973-11-03,Utah,WAC,Bill Meek,H,Arizona State,WAC,Frank Kush,W,36,31
+1973-11-10,Utah,WAC,Bill Meek,A,New Mexico,WAC,Rudy Feldman,W,36,35
+1973-11-17,Utah,WAC,Bill Meek,H,Utah State,Ind,Phil Krueger,W,31,28
+1973-11-24,Utah,WAC,Bill Meek,H,Brigham Young,WAC,LaVell Edwards,L,22,46
+1973-09-15,Wichita State,MVC,Bob Seaman,A,Texas A&M,SWC,Emory Bellard,L,0,48
+1973-09-29,Wichita State,MVC,Bob Seaman,A,New Mexico State,MVC,Jim Bradley,L,18,44
+1973-10-06,Wichita State,MVC,Bob Seaman,A,Louisville,MVC,Tom Alley,L,10,24
+1973-10-13,Wichita State,MVC,Bob Seaman,H,Fresno State,PCAA,J.R. Boone,W,18,13
+1973-10-20,Wichita State,MVC,Bob Seaman,A,Cincinnati,Ind,Tony Mason,L,6,27
+1973-10-27,Wichita State,MVC,Bob Seaman,H,West Texas A&M,MVC,Gene Mayfield,W,30,14
+1973-11-03,Wichita State,MVC,Bob Seaman,H,Drake,MVC,Jack Wallace,L,10,13
+1973-11-10,Wichita State,MVC,Bob Seaman,A,North Texas,MVC,Hayden Fry,L,21,31
+1973-11-17,Wichita State,MVC,Bob Seaman,H,Long Beach State,PCAA,Jim Strangeland,L,10,35
+1973-11-24,Wichita State,MVC,Bob Seaman,H,Tulsa,MVC,F. Dry,W,28,19
+1973-09-08,Villanova,Ind,Lou Ferry,A,Ole Miss,SEC,John Vaught,L,6,24
+1973-09-22,Villanova,Ind,Lou Ferry,H,Cincinnati,Ind,Tony Mason,W,14,7
+1973-09-29,Villanova,Ind,Lou Ferry,A,Maryland,ACC,Jerry Claiborne,L,3,31
+1973-10-06,Villanova,Ind,Lou Ferry,A,William & Mary,Southern,James Root,L,21,33
+1973-10-13,Villanova,Ind,Lou Ferry,A,Tampa,Ind,Dennis Fryzel,L,10,17
+1973-10-27,Villanova,Ind,Lou Ferry,A,Boston College,Ind,Joseph Yukica,L,7,11
+1973-11-17,Villanova,Ind,Lou Ferry,A,Xavier,Ind,Thomas Cecchini,L,6,13
+1973-11-24,Villanova,Ind,Lou Ferry,H,Temple,Ind,Wayne Hardin,L,0,34
+1973-09-15,Syracuse,Ind,Ben Schwartzwalder,H,Bowling Green State,MAC,Don Nehlen,L,14,41
+1973-09-22,Syracuse,Ind,Ben Schwartzwalder,H,Michigan State,Big Ten,Dennis Stolz,L,8,14
+1973-09-29,Syracuse,Ind,Ben Schwartzwalder,A,Washington,Pac-8,Jim Owens,L,7,21
+1973-10-06,Syracuse,Ind,Ben Schwartzwalder,A,Maryland,ACC,Jerry Claiborne,L,0,38
+1973-10-13,Syracuse,Ind,Ben Schwartzwalder,A,Navy,Ind,George Welsh,L,14,23
+1973-10-20,Syracuse,Ind,Ben Schwartzwalder,H,Penn State,Ind,Joe Paterno,L,6,49
+1973-10-27,Syracuse,Ind,Ben Schwartzwalder,H,Miami (FL),Ind,Pete Elliott,L,23,34
+1973-11-03,Syracuse,Ind,Ben Schwartzwalder,A,Pitt,Ind,Johnny Majors,L,14,28
+1973-11-10,Syracuse,Ind,Ben Schwartzwalder,A,Holy Cross,Ind,Edward Doherty,W,5,3
+1973-11-17,Syracuse,Ind,Ben Schwartzwalder,H,Boston College,Ind,Joseph Yukica,W,24,13
+1973-11-24,Syracuse,Ind,Ben Schwartzwalder,H,West Virginia,Ind,Bobby Bowden,L,14,24
+1973-09-08,Arizona,WAC,Jim Young,A,Colorado State,WAC,Sarkis Arslanian,W,31,0
+1973-09-15,Arizona,WAC,Jim Young,A,Wyoming,WAC,Fritz Shurmur,W,21,7
+1973-09-22,Arizona,WAC,Jim Young,H,Indiana,Big Ten,Lee Corso,W,26,10
+1973-10-06,Arizona,WAC,Jim Young,A,Iowa,Big Ten,Frank Lauterbur,W,23,20
+1973-10-13,Arizona,WAC,Jim Young,H,New Mexico,WAC,Rudy Feldman,W,22,14
+1973-10-20,Arizona,WAC,Jim Young,H,Texas Tech,SWC,Jim Carlen,L,17,31
+1973-10-27,Arizona,WAC,Jim Young,H,Utah,WAC,Bill Meek,W,42,21
+1973-11-03,Arizona,WAC,Jim Young,A,UTEP,WAC,Tommy Hudspeth,W,35,18
+1973-11-10,Arizona,WAC,Jim Young,A,Brigham Young,WAC,LaVell Edwards,W,24,10
+1973-11-17,Arizona,WAC,Jim Young,H,Air Force,Ind,Ben Martin,L,26,27
+1973-11-25,Arizona,WAC,Jim Young,A,Arizona State,WAC,Frank Kush,L,19,55
+1973-09-15,Penn State,Ind,Joe Paterno,A,Stanford,Pac-8,Jack Christiansen,W,20,6
+1973-09-22,Penn State,Ind,Joe Paterno,A,Navy,Ind,George Welsh,W,39,0
+1973-09-29,Penn State,Ind,Joe Paterno,H,Iowa,Big Ten,Frank Lauterbur,W,27,8
+1973-10-06,Penn State,Ind,Joe Paterno,A,Air Force,Ind,Ben Martin,W,19,9
+1973-10-13,Penn State,Ind,Joe Paterno,H,Army,Ind,Thomas Cahill,W,54,3
+1973-10-20,Penn State,Ind,Joe Paterno,A,Syracuse,Ind,Ben Schwartzwalder,W,49,6
+1973-10-27,Penn State,Ind,Joe Paterno,H,West Virginia,Ind,Bobby Bowden,W,62,14
+1973-11-03,Penn State,Ind,Joe Paterno,A,Maryland,ACC,Jerry Claiborne,W,42,22
+1973-11-10,Penn State,Ind,Joe Paterno,H,North Carolina State,ACC,Lou Holtz,W,35,29
+1973-11-17,Penn State,Ind,Joe Paterno,H,Ohio,MAC,Bill Hess,W,49,10
+1973-11-24,Penn State,Ind,Joe Paterno,H,Pitt,Ind,Johnny Majors,W,35,13
+1974-01-01,Penn State,Ind,Joe Paterno,N,LSU,SEC,Charles McClendon,W,16,9
+1973-09-29,Princeton,Ivy,Robert Casciola,H,Rutgers,Ind,Frank Burns,L,14,39
+1973-10-06,Princeton,Ivy,Robert Casciola,A,Columbia,Ivy,Frank Navarro,L,13,14
+1973-10-13,Princeton,Ivy,Robert Casciola,A,Cornell,Ivy,Jack Musick,L,6,37
+1973-10-20,Princeton,Ivy,Robert Casciola,H,Colgate,Ind,Neil Wheelwright,W,37,21
+1973-10-27,Princeton,Ivy,Robert Casciola,H,Pennsylvania,Ivy,Harry Gamble,L,0,24
+1973-11-03,Princeton,Ivy,Robert Casciola,H,Brown,Ivy,John Anderson,L,6,7
+1973-11-10,Princeton,Ivy,Robert Casciola,A,Harvard,Ivy,Joseph Restic,L,14,19
+1973-11-17,Princeton,Ivy,Robert Casciola,H,Yale,Ivy,Carmen Cozza,L,13,30
+1973-11-24,Princeton,Ivy,Robert Casciola,H,Dartmouth,Ivy,John Crouthamel,L,24,42
+1973-09-15,Vanderbilt,SEC,Steve Sloan,H,Chattanooga,Ind,Joe Morrison,W,14,12
+1973-09-22,Vanderbilt,SEC,Steve Sloan,A,Mississippi State,SEC,Bob Tyler,L,21,52
+1973-09-29,Vanderbilt,SEC,Steve Sloan,H,Alabama,SEC,Bear Bryant,L,0,44
+1973-10-06,Vanderbilt,SEC,Steve Sloan,A,Virginia,ACC,Don Lawrence,W,39,22
+1973-10-13,Vanderbilt,SEC,Steve Sloan,H,William & Mary,Southern,James Root,W,20,7
+1973-10-20,Vanderbilt,SEC,Steve Sloan,H,Georgia,SEC,Vince Dooley,W,18,14
+1973-10-27,Vanderbilt,SEC,Steve Sloan,A,Ole Miss,SEC,John Vaught,L,14,24
+1973-11-10,Vanderbilt,SEC,Steve Sloan,H,Kentucky,SEC,Fran Curci,L,17,27
+1973-11-17,Vanderbilt,SEC,Steve Sloan,A,Tulane,Ind,Bennie Ellender,L,3,24
+1973-11-24,Vanderbilt,SEC,Steve Sloan,H,Tampa,Ind,Dennis Fryzel,W,18,16
+1973-12-01,Vanderbilt,SEC,Steve Sloan,A,Tennessee,SEC,Bill Battle,L,17,20
+1973-09-15,Kentucky,SEC,Fran Curci,H,Virginia Tech,Ind,Charles Coffey,W,31,26
+1973-09-22,Kentucky,SEC,Fran Curci,H,Alabama,SEC,Bear Bryant,L,14,28
+1973-09-29,Kentucky,SEC,Fran Curci,A,Indiana,Big Ten,Lee Corso,L,3,17
+1973-10-06,Kentucky,SEC,Fran Curci,A,Mississippi State,SEC,Bob Tyler,W,42,14
+1973-10-13,Kentucky,SEC,Fran Curci,H,North Carolina,ACC,Bill Dooley,L,10,16
+1973-10-20,Kentucky,SEC,Fran Curci,A,LSU,SEC,Charles McClendon,L,21,28
+1973-10-27,Kentucky,SEC,Fran Curci,A,Georgia,SEC,Vince Dooley,W,12,7
+1973-11-03,Kentucky,SEC,Fran Curci,H,Tulane,Ind,Bennie Ellender,W,34,7
+1973-11-10,Kentucky,SEC,Fran Curci,A,Vanderbilt,SEC,Steve Sloan,W,27,17
+1973-11-17,Kentucky,SEC,Fran Curci,A,Florida,SEC,Doug Dickey,L,18,20
+1973-11-24,Kentucky,SEC,Fran Curci,H,Tennessee,SEC,Bill Battle,L,14,16
+1973-09-15,California,Pac-8,Mike White,A,Alabama,SEC,Bear Bryant,L,0,66
+1973-09-22,California,Pac-8,Mike White,H,Illinois,Big Ten,Bob Blackman,L,7,27
+1973-09-29,California,Pac-8,Mike White,A,Army,Ind,Thomas Cahill,W,51,6
+1973-10-06,California,Pac-8,Mike White,H,Washington,Pac-8,Jim Owens,W,54,49
+1973-10-13,California,Pac-8,Mike White,A,Oregon,Pac-8,Dick Enright,L,10,41
+1973-10-20,California,Pac-8,Mike White,H,Oregon State,Pac-8,Dee Andros,W,24,14
+1973-10-27,California,Pac-8,Mike White,A,UCLA,Pac-8,Pepper Rodgers,L,21,61
+1973-11-03,California,Pac-8,Mike White,H,USC,Pac-8,John McKay,L,14,50
+1973-11-10,California,Pac-8,Mike White,H,San Jose State,PCAA,Darryl Rogers,W,19,9
+1973-11-17,California,Pac-8,Mike White,A,Washington State,Pac-8,Jim Sweeney,L,28,31
+1973-11-24,California,Pac-8,Mike White,A,Stanford,Pac-8,Jack Christiansen,L,17,26
+1973-09-15,Florida,SEC,Doug Dickey,H,Kansas State,Big 8,Vince Gibson,W,21,10
+1973-09-22,Florida,SEC,Doug Dickey,H,Southern Mississippi,Ind,P.W. Underwood,W,14,13
+1973-09-29,Florida,SEC,Doug Dickey,A,Mississippi State,SEC,Bob Tyler,L,12,33
+1973-10-06,Florida,SEC,Doug Dickey,A,LSU,SEC,Charles McClendon,L,3,24
+1973-10-13,Florida,SEC,Doug Dickey,H,Alabama,SEC,Bear Bryant,L,14,35
+1973-10-20,Florida,SEC,Doug Dickey,H,Ole Miss,SEC,John Vaught,L,10,13
+1973-11-03,Florida,SEC,Doug Dickey,A,Auburn,SEC,Ralph Jordan,W,12,8
+1973-11-10,Florida,SEC,Doug Dickey,N,Georgia,SEC,Vince Dooley,W,11,10
+1973-11-17,Florida,SEC,Doug Dickey,H,Kentucky,SEC,Fran Curci,W,20,18
+1973-11-24,Florida,SEC,Doug Dickey,A,Miami (FL),Ind,Pete Elliott,W,14,7
+1973-12-01,Florida,SEC,Doug Dickey,H,Florida State,Ind,Larry Jones,W,49,0
+1973-12-22,Florida,SEC,Doug Dickey,H,Miami (OH),MAC,Bill Mallory,L,7,16
+1973-09-15,Stanford,Pac-8,Jack Christiansen,H,Penn State,Ind,Joe Paterno,L,6,20
+1973-09-22,Stanford,Pac-8,Jack Christiansen,A,Michigan,Big Ten,Bo Schembechler,L,10,47
+1973-09-29,Stanford,Pac-8,Jack Christiansen,H,San Jose State,PCAA,Darryl Rogers,W,23,12
+1973-10-06,Stanford,Pac-8,Jack Christiansen,A,Illinois,Big Ten,Bob Blackman,W,24,0
+1973-10-13,Stanford,Pac-8,Jack Christiansen,H,UCLA,Pac-8,Pepper Rodgers,L,13,59
+1973-10-20,Stanford,Pac-8,Jack Christiansen,A,Washington,Pac-8,Jim Owens,W,23,14
+1973-10-27,Stanford,Pac-8,Jack Christiansen,H,Washington State,Pac-8,Jim Sweeney,W,45,14
+1973-11-03,Stanford,Pac-8,Jack Christiansen,A,Oregon State,Pac-8,Dee Andros,W,24,23
+1973-11-10,Stanford,Pac-8,Jack Christiansen,A,USC,Pac-8,John McKay,L,26,27
+1973-11-17,Stanford,Pac-8,Jack Christiansen,H,Oregon,Pac-8,Dick Enright,W,24,7
+1973-11-24,Stanford,Pac-8,Jack Christiansen,H,California,Pac-8,Mike White,W,26,17
+1973-09-15,Washington State,Pac-8,Jim Sweeney,A,Kansas,Big 8,Don Fambrough,L,8,29
+1973-09-22,Washington State,Pac-8,Jim Sweeney,A,Arizona State,WAC,Frank Kush,L,9,20
+1973-09-29,Washington State,Pac-8,Jim Sweeney,H,Idaho,Ind,Don Robbins,W,51,24
+1973-10-06,Washington State,Pac-8,Jim Sweeney,A,Ohio State,Big Ten,Woody Hayes,L,3,27
+1973-10-13,Washington State,Pac-8,Jim Sweeney,A,USC,Pac-8,John McKay,L,35,46
+1973-10-20,Washington State,Pac-8,Jim Sweeney,H,UCLA,Pac-8,Pepper Rodgers,L,13,24
+1973-10-27,Washington State,Pac-8,Jim Sweeney,A,Stanford,Pac-8,Jack Christiansen,L,14,45
+1973-11-03,Washington State,Pac-8,Jim Sweeney,H,Oregon,Pac-8,Dick Enright,W,21,14
+1973-11-10,Washington State,Pac-8,Jim Sweeney,A,Oregon State,Pac-8,Dee Andros,W,13,7
+1973-11-17,Washington State,Pac-8,Jim Sweeney,H,California,Pac-8,Mike White,W,31,28
+1973-11-24,Washington State,Pac-8,Jim Sweeney,A,Washington,Pac-8,Jim Owens,W,52,26
+1973-09-15,Illinois,Big Ten,Bob Blackman,A,Indiana,Big Ten,Lee Corso,W,28,14
+1973-09-22,Illinois,Big Ten,Bob Blackman,A,California,Pac-8,Mike White,W,27,7
+1973-09-29,Illinois,Big Ten,Bob Blackman,H,West Virginia,Ind,Bobby Bowden,L,10,17
+1973-10-06,Illinois,Big Ten,Bob Blackman,H,Stanford,Pac-8,Jack Christiansen,L,0,24
+1973-10-13,Illinois,Big Ten,Bob Blackman,H,Purdue,Big Ten,Alex Agase,W,15,13
+1973-10-20,Illinois,Big Ten,Bob Blackman,A,Michigan State,Big Ten,Dennis Stolz,W,6,3
+1973-10-27,Illinois,Big Ten,Bob Blackman,H,Iowa,Big Ten,Frank Lauterbur,W,50,0
+1973-11-03,Illinois,Big Ten,Bob Blackman,H,Ohio State,Big Ten,Woody Hayes,L,0,30
+1973-11-10,Illinois,Big Ten,Bob Blackman,A,Michigan,Big Ten,Bo Schembechler,L,6,21
+1973-11-17,Illinois,Big Ten,Bob Blackman,H,Minnesota,Big Ten,Cal Stoll,L,16,19
+1973-11-24,Illinois,Big Ten,Bob Blackman,A,Northwestern,Big Ten,John Pont,L,6,9
+1973-09-15,Baylor,SWC,Grant Teaff,H,Oklahoma,Big 8,Barry Switzer,L,14,42
+1973-09-22,Baylor,SWC,Grant Teaff,A,Pitt,Ind,Johnny Majors,W,20,14
+1973-09-29,Baylor,SWC,Grant Teaff,A,Colorado,Big 8,Eddie Crowder,L,28,52
+1973-10-06,Baylor,SWC,Grant Teaff,H,Florida State,Ind,Larry Jones,W,21,14
+1973-10-13,Baylor,SWC,Grant Teaff,H,Arkansas,SWC,Frank Broyles,L,7,13
+1973-10-27,Baylor,SWC,Grant Teaff,A,Texas A&M,SWC,Emory Bellard,L,22,28
+1973-11-03,Baylor,SWC,Grant Teaff,H,Texas Christian,SWC,Billy Tohill,L,28,34
+1973-11-10,Baylor,SWC,Grant Teaff,A,Texas,SWC,Darrell Royal,L,6,42
+1973-11-17,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Jim Carlen,L,24,55
+1973-11-24,Baylor,SWC,Grant Teaff,H,SMU,SWC,Dave Smith,L,22,38
+1973-12-01,Baylor,SWC,Grant Teaff,A,Rice,SWC,Al Conover,L,0,27
+1973-09-22,SMU,SWC,Dave Smith,A,Oregon State,Pac-8,Dee Andros,W,35,16
+1973-09-29,SMU,SWC,Dave Smith,H,Virginia Tech,Ind,Charles Coffey,W,37,6
+1973-10-06,SMU,SWC,Dave Smith,H,Missouri,Big 8,Al Onofrio,L,7,17
+1973-10-20,SMU,SWC,Dave Smith,A,Rice,SWC,Al Conover,W,27,16
+1973-10-27,SMU,SWC,Dave Smith,A,Texas Tech,SWC,Jim Carlen,L,14,31
+1973-11-03,SMU,SWC,Dave Smith,H,Texas,SWC,Darrell Royal,L,14,42
+1973-11-10,SMU,SWC,Dave Smith,A,Texas A&M,SWC,Emory Bellard,L,10,45
+1973-11-17,SMU,SWC,Dave Smith,H,Arkansas,SWC,Frank Broyles,T,7,7
+1973-11-24,SMU,SWC,Dave Smith,A,Baylor,SWC,Grant Teaff,W,38,22
+1973-12-01,SMU,SWC,Dave Smith,H,Texas Christian,SWC,Billy Tohill,W,21,19
+1973-09-15,Georgia,SEC,Vince Dooley,H,Pitt,Ind,Johnny Majors,T,7,7
+1973-09-22,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Red Parker,W,31,14
+1973-09-29,Georgia,SEC,Vince Dooley,H,North Carolina State,ACC,Lou Holtz,W,31,12
+1973-10-06,Georgia,SEC,Vince Dooley,A,Alabama,SEC,Bear Bryant,L,14,28
+1973-10-13,Georgia,SEC,Vince Dooley,H,Ole Miss,SEC,John Vaught,W,20,0
+1973-10-20,Georgia,SEC,Vince Dooley,A,Vanderbilt,SEC,Steve Sloan,L,14,18
+1973-10-27,Georgia,SEC,Vince Dooley,H,Kentucky,SEC,Fran Curci,L,7,12
+1973-11-03,Georgia,SEC,Vince Dooley,A,Tennessee,SEC,Bill Battle,W,35,31
+1973-11-10,Georgia,SEC,Vince Dooley,N,Florida,SEC,Doug Dickey,L,10,11
+1973-11-17,Georgia,SEC,Vince Dooley,H,Auburn,SEC,Ralph Jordan,W,28,14
+1973-12-01,Georgia,SEC,Vince Dooley,A,Georgia Tech,Ind,Bill Fulcher,W,10,3
+1973-12-28,Georgia,SEC,Vince Dooley,N,Maryland,ACC,Jerry Claiborne,W,17,16
+1973-09-15,Maryland,ACC,Jerry Claiborne,H,West Virginia,Ind,Bobby Bowden,L,13,20
+1973-09-22,Maryland,ACC,Jerry Claiborne,A,North Carolina,ACC,Bill Dooley,W,23,3
+1973-09-29,Maryland,ACC,Jerry Claiborne,H,Villanova,Ind,Lou Ferry,W,31,3
+1973-10-06,Maryland,ACC,Jerry Claiborne,H,Syracuse,Ind,Ben Schwartzwalder,W,38,0
+1973-10-13,Maryland,ACC,Jerry Claiborne,A,North Carolina State,ACC,Lou Holtz,L,22,24
+1973-10-20,Maryland,ACC,Jerry Claiborne,A,Wake Forest,ACC,Chuck Mills,W,37,0
+1973-10-27,Maryland,ACC,Jerry Claiborne,N,Duke,ACC,Mike McGee,W,30,10
+1973-11-03,Maryland,ACC,Jerry Claiborne,H,Penn State,Ind,Joe Paterno,L,22,42
+1973-11-10,Maryland,ACC,Jerry Claiborne,H,Virginia,ACC,Don Lawrence,W,33,0
+1973-11-17,Maryland,ACC,Jerry Claiborne,A,Clemson,ACC,Red Parker,W,28,13
+1973-11-24,Maryland,ACC,Jerry Claiborne,H,Tulane,Ind,Bennie Ellender,W,42,9
+1973-12-28,Maryland,ACC,Jerry Claiborne,N,Georgia,SEC,Vince Dooley,L,16,17
+1973-09-08,Virginia,ACC,Don Lawrence,H,Virginia Military Institute,Southern,Bob Thalman,W,16,0
+1973-09-15,Virginia,ACC,Don Lawrence,A,North Carolina State,ACC,Lou Holtz,L,23,43
+1973-09-22,Virginia,ACC,Don Lawrence,A,Missouri,Big 8,Al Onofrio,L,7,31
+1973-09-29,Virginia,ACC,Don Lawrence,H,Duke,ACC,Mike McGee,W,7,3
+1973-10-06,Virginia,ACC,Don Lawrence,H,Vanderbilt,SEC,Steve Sloan,L,22,39
+1973-10-13,Virginia,ACC,Don Lawrence,A,Clemson,ACC,Red Parker,L,27,32
+1973-10-20,Virginia,ACC,Don Lawrence,A,Virginia Tech,Ind,Charles Coffey,L,15,27
+1973-10-27,Virginia,ACC,Don Lawrence,H,Wake Forest,ACC,Chuck Mills,W,21,10
+1973-11-03,Virginia,ACC,Don Lawrence,H,North Carolina,ACC,Bill Dooley,W,44,40
+1973-11-10,Virginia,ACC,Don Lawrence,A,Maryland,ACC,Jerry Claiborne,L,0,33
+1973-11-17,Virginia,ACC,Don Lawrence,A,West Virginia,Ind,Bobby Bowden,L,17,42
+1973-09-08,Idaho,Ind,Don Robbins,H,UTEP,WAC,Tommy Hudspeth,W,62,14
+1973-09-22,Idaho,Ind,Don Robbins,A,Iowa State,Big 8,Earle Bruce,L,0,48
+1973-09-29,Idaho,Ind,Don Robbins,A,Washington State,Pac-8,Jim Sweeney,L,24,51
+1973-10-06,Idaho,Ind,Don Robbins,H,Colorado State,WAC,Sarkis Arslanian,L,30,33
+1973-10-13,Idaho,Ind,Don Robbins,A,Texas Christian,SWC,Billy Tohill,L,14,30
+1973-11-10,Idaho,Ind,Don Robbins,A,Washington,Pac-8,Jim Owens,L,14,41
+1973-09-08,Citadel,Southern,Bobby Ross,A,Clemson,ACC,Red Parker,L,12,14
+1973-09-29,Citadel,Southern,Bobby Ross,H,William & Mary,Southern,James Root,L,12,24
+1973-10-06,Citadel,Southern,Bobby Ross,A,Virginia Military Institute,Southern,Bob Thalman,L,6,23
+1973-10-13,Citadel,Southern,Bobby Ross,H,Chattanooga,Ind,Joe Morrison,W,28,20
+1973-10-20,Citadel,Southern,Bobby Ross,H,East Carolina,Southern,Sonny Randle,L,0,34
+1973-10-27,Citadel,Southern,Bobby Ross,A,Appalachian State,Southern,Jim Brakefield,L,6,31
+1973-11-03,Citadel,Southern,Bobby Ross,A,Richmond,Southern,Frank Jones,L,0,27
+1973-11-10,Citadel,Southern,Bobby Ross,H,Furman,Southern,Art Baker,W,26,21
+1973-11-17,Citadel,Southern,Bobby Ross,H,Davidson,Southern,David Fagg,L,16,19
+1973-09-15,Oklahoma,Big 8,Barry Switzer,A,Baylor,SWC,Grant Teaff,W,42,14
+1973-09-29,Oklahoma,Big 8,Barry Switzer,A,USC,Pac-8,John McKay,T,7,7
+1973-10-06,Oklahoma,Big 8,Barry Switzer,H,Miami (FL),Ind,Pete Elliott,W,24,20
+1973-10-13,Oklahoma,Big 8,Barry Switzer,N,Texas,SWC,Darrell Royal,W,52,13
+1973-10-20,Oklahoma,Big 8,Barry Switzer,H,Colorado,Big 8,Eddie Crowder,W,34,7
+1973-10-27,Oklahoma,Big 8,Barry Switzer,A,Kansas State,Big 8,Vince Gibson,W,56,14
+1973-11-03,Oklahoma,Big 8,Barry Switzer,H,Iowa State,Big 8,Earle Bruce,W,34,17
+1973-11-10,Oklahoma,Big 8,Barry Switzer,A,Missouri,Big 8,Al Onofrio,W,31,3
+1973-11-17,Oklahoma,Big 8,Barry Switzer,H,Kansas,Big 8,Don Fambrough,W,48,20
+1973-11-23,Oklahoma,Big 8,Barry Switzer,H,Nebraska,Big 8,Tom Osborne,W,27,0
+1973-12-01,Oklahoma,Big 8,Barry Switzer,A,Oklahoma State,Big 8,Jim Stanley,W,45,18
+1973-09-08,Virginia Tech,Ind,Charles Coffey,H,William & Mary,Southern,James Root,L,24,31
+1973-09-15,Virginia Tech,Ind,Charles Coffey,A,Kentucky,SEC,Fran Curci,L,26,31
+1973-09-22,Virginia Tech,Ind,Charles Coffey,A,West Virginia,Ind,Bobby Bowden,L,10,24
+1973-09-29,Virginia Tech,Ind,Charles Coffey,A,SMU,SWC,Dave Smith,L,6,37
+1973-10-06,Virginia Tech,Ind,Charles Coffey,H,South Carolina,Ind,Paul Dietzel,L,24,27
+1973-10-12,Virginia Tech,Ind,Charles Coffey,A,Houston,Ind,Bill Yeoman,L,27,54
+1973-10-20,Virginia Tech,Ind,Charles Coffey,H,Virginia,ACC,Don Lawrence,W,27,15
+1973-10-27,Virginia Tech,Ind,Charles Coffey,A,Alabama,SEC,Bear Bryant,L,6,77
+1973-11-03,Virginia Tech,Ind,Charles Coffey,A,Memphis,Ind,Fred Pancoast,L,16,49
+1973-11-10,Virginia Tech,Ind,Charles Coffey,H,Florida State,Ind,Larry Jones,W,36,13
+1973-11-17,Virginia Tech,Ind,Charles Coffey,H,Virginia Military Institute,Southern,Bob Thalman,L,21,22
+1973-09-08,Louisville,MVC,Tom Alley,A,Memphis,Ind,Fred Pancoast,L,21,28
+1973-09-15,Louisville,MVC,Tom Alley,A,Kent State,MAC,Don James,L,3,10
+1973-09-22,Louisville,MVC,Tom Alley,A,Drake,MVC,Jack Wallace,W,27,17
+1973-10-06,Louisville,MVC,Tom Alley,H,Wichita State,MVC,Bob Seaman,W,24,10
+1973-10-13,Louisville,MVC,Tom Alley,A,North Texas,MVC,Hayden Fry,L,6,7
+1973-10-20,Louisville,MVC,Tom Alley,H,Mississippi State,SEC,Bob Tyler,L,7,18
+1973-10-27,Louisville,MVC,Tom Alley,H,Cincinnati,Ind,Tony Mason,W,10,8
+1973-11-03,Louisville,MVC,Tom Alley,A,Tulsa,MVC,F. Dry,L,9,17
+1973-11-10,Louisville,MVC,Tom Alley,H,Dayton,Ind,Ron Marciniak,L,9,10
+1973-11-17,Louisville,MVC,Tom Alley,H,Furman,Southern,Art Baker,W,35,14
+1973-11-24,Louisville,MVC,Tom Alley,A,West Texas A&M,MVC,Gene Mayfield,W,21,9
+1973-09-15,Southern Illinois,Ind,Dick Towers,A,Northern Illinois,Ind,Jerry Ippoliti,L,28,34
+1973-09-22,Southern Illinois,Ind,Dick Towers,H,East Carolina,Southern,Sonny Randle,L,25,42
+1973-09-29,Southern Illinois,Ind,Dick Towers,A,Oklahoma State,Big 8,Jim Stanley,L,7,70
+1973-10-06,Southern Illinois,Ind,Dick Towers,A,Dayton,Ind,Ron Marciniak,L,19,23
+1973-10-13,Southern Illinois,Ind,Dick Towers,H,Xavier,Ind,Thomas Cecchini,W,73,7
+1973-10-20,Southern Illinois,Ind,Dick Towers,H,Tampa,Ind,Dennis Fryzel,L,23,25
+1973-11-10,Southern Illinois,Ind,Dick Towers,H,Drake,MVC,Jack Wallace,W,37,20
+1973-09-15,Arkansas,SWC,Frank Broyles,A,USC,Pac-8,John McKay,L,0,17
+1973-09-22,Arkansas,SWC,Frank Broyles,H,Oklahoma State,Big 8,Jim Stanley,L,6,38
+1973-09-29,Arkansas,SWC,Frank Broyles,H,Iowa State,Big 8,Earle Bruce,W,21,19
+1973-10-06,Arkansas,SWC,Frank Broyles,H,Texas Christian,SWC,Billy Tohill,W,13,5
+1973-10-13,Arkansas,SWC,Frank Broyles,A,Baylor,SWC,Grant Teaff,W,13,7
+1973-10-20,Arkansas,SWC,Frank Broyles,H,Texas,SWC,Darrell Royal,L,6,34
+1973-10-27,Arkansas,SWC,Frank Broyles,H,Tulsa,MVC,F. Dry,W,20,6
+1973-11-03,Arkansas,SWC,Frank Broyles,H,Texas A&M,SWC,Emory Bellard,W,14,10
+1973-11-10,Arkansas,SWC,Frank Broyles,A,Rice,SWC,Al Conover,L,7,17
+1973-11-17,Arkansas,SWC,Frank Broyles,A,SMU,SWC,Dave Smith,T,7,7
+1973-11-24,Arkansas,SWC,Frank Broyles,H,Texas Tech,SWC,Jim Carlen,L,17,24
+1973-09-08,Clemson,ACC,Red Parker,H,Citadel,Southern,Bobby Ross,W,14,12
+1973-09-22,Clemson,ACC,Red Parker,A,Georgia,SEC,Vince Dooley,L,14,31
+1973-09-29,Clemson,ACC,Red Parker,A,Georgia Tech,Ind,Bill Fulcher,L,21,29
+1973-10-06,Clemson,ACC,Red Parker,H,Texas A&M,SWC,Emory Bellard,L,15,30
+1973-10-13,Clemson,ACC,Red Parker,H,Virginia,ACC,Don Lawrence,W,32,27
+1973-10-20,Clemson,ACC,Red Parker,A,Duke,ACC,Mike McGee,W,24,8
+1973-10-27,Clemson,ACC,Red Parker,H,North Carolina State,ACC,Lou Holtz,L,6,29
+1973-11-03,Clemson,ACC,Red Parker,H,Wake Forest,ACC,Chuck Mills,W,35,8
+1973-11-10,Clemson,ACC,Red Parker,A,North Carolina,ACC,Bill Dooley,W,37,29
+1973-11-17,Clemson,ACC,Red Parker,H,Maryland,ACC,Jerry Claiborne,L,13,28
+1973-11-24,Clemson,ACC,Red Parker,A,South Carolina,Ind,Paul Dietzel,L,20,32
+1973-09-15,South Carolina,Ind,Paul Dietzel,H,Georgia Tech,Ind,Bill Fulcher,W,41,28
+1973-09-21,South Carolina,Ind,Paul Dietzel,A,Houston,Ind,Bill Yeoman,L,19,27
+1973-09-29,South Carolina,Ind,Paul Dietzel,H,Miami (OH),MAC,Bill Mallory,L,11,13
+1973-10-06,South Carolina,Ind,Paul Dietzel,A,Virginia Tech,Ind,Charles Coffey,W,27,24
+1973-10-13,South Carolina,Ind,Paul Dietzel,A,Wake Forest,ACC,Chuck Mills,W,28,12
+1973-10-20,South Carolina,Ind,Paul Dietzel,H,Ohio,MAC,Bill Hess,W,38,22
+1973-10-27,South Carolina,Ind,Paul Dietzel,H,LSU,SEC,Charles McClendon,L,29,33
+1973-11-03,South Carolina,Ind,Paul Dietzel,H,North Carolina State,ACC,Lou Holtz,L,35,56
+1973-11-10,South Carolina,Ind,Paul Dietzel,H,Appalachian State,Southern,Jim Brakefield,W,35,14
+1973-11-17,South Carolina,Ind,Paul Dietzel,A,Florida State,Ind,Larry Jones,W,52,12
+1973-11-24,South Carolina,Ind,Paul Dietzel,H,Clemson,ACC,Red Parker,W,32,20
+1973-09-22,Washington,Pac-8,Jim Owens,A,Duke,ACC,Mike McGee,L,21,23
+1973-09-29,Washington,Pac-8,Jim Owens,H,Syracuse,Ind,Ben Schwartzwalder,W,21,7
+1973-10-06,Washington,Pac-8,Jim Owens,A,California,Pac-8,Mike White,L,49,54
+1973-10-13,Washington,Pac-8,Jim Owens,H,Oregon State,Pac-8,Dee Andros,L,7,31
+1973-10-20,Washington,Pac-8,Jim Owens,H,Stanford,Pac-8,Jack Christiansen,L,14,23
+1973-10-27,Washington,Pac-8,Jim Owens,A,Oregon,Pac-8,Dick Enright,L,0,58
+1973-11-03,Washington,Pac-8,Jim Owens,A,UCLA,Pac-8,Pepper Rodgers,L,13,62
+1973-11-10,Washington,Pac-8,Jim Owens,H,Idaho,Ind,Don Robbins,W,41,14
+1973-11-17,Washington,Pac-8,Jim Owens,H,USC,Pac-8,John McKay,L,19,42
+1973-11-24,Washington,Pac-8,Jim Owens,H,Washington State,Pac-8,Jim Sweeney,L,26,52
+1973-09-29,Holy Cross,Ind,Edward Doherty,H,Temple,Ind,Wayne Hardin,L,34,63
+1973-10-06,Holy Cross,Ind,Edward Doherty,A,Dartmouth,Ivy,John Crouthamel,W,10,0
+1973-10-13,Holy Cross,Ind,Edward Doherty,H,Colgate,Ind,Neil Wheelwright,L,21,22
+1973-10-27,Holy Cross,Ind,Edward Doherty,A,Army,Ind,Thomas Cahill,W,17,10
+1973-11-10,Holy Cross,Ind,Edward Doherty,H,Syracuse,Ind,Ben Schwartzwalder,L,3,5
+1973-11-17,Holy Cross,Ind,Edward Doherty,H,Rutgers,Ind,Frank Burns,L,7,27
+1973-12-01,Holy Cross,Ind,Edward Doherty,H,Boston College,Ind,Joseph Yukica,L,21,42
+1973-09-15,Southern Mississippi,Ind,P.W. Underwood,H,East Carolina,Southern,Sonny Randle,L,0,13
+1973-09-22,Southern Mississippi,Ind,P.W. Underwood,A,Florida,SEC,Doug Dickey,L,13,14
+1973-09-29,Southern Mississippi,Ind,P.W. Underwood,A,Ole Miss,SEC,John Vaught,L,0,41
+1973-10-06,Southern Mississippi,Ind,P.W. Underwood,A,Chattanooga,Ind,Joe Morrison,W,42,7
+1973-10-13,Southern Mississippi,Ind,P.W. Underwood,A,Richmond,Southern,Frank Jones,L,20,42
+1973-10-20,Southern Mississippi,Ind,P.W. Underwood,A,Texas-Arlington,Ind,John Symank,W,41,14
+1973-10-27,Southern Mississippi,Ind,P.W. Underwood,A,Mississippi State,SEC,Bob Tyler,T,10,10
+1973-11-10,Southern Mississippi,Ind,P.W. Underwood,A,Memphis,Ind,Fred Pancoast,W,13,10
+1973-11-17,Southern Mississippi,Ind,P.W. Underwood,A,West Texas A&M,MVC,Gene Mayfield,W,28,0
+1973-11-22,Southern Mississippi,Ind,P.W. Underwood,H,Utah State,Ind,Phil Krueger,W,32,8
+1973-09-15,Long Beach State,PCAA,Jim Strangeland,A,Western Michigan,MAC,Bill Doolittle,L,8,13
+1973-09-22,Long Beach State,PCAA,Jim Strangeland,H,San Jose State,PCAA,Darryl Rogers,L,6,24
+1973-09-29,Long Beach State,PCAA,Jim Strangeland,A,North Texas,MVC,Hayden Fry,T,0,0
+1973-10-13,Long Beach State,PCAA,Jim Strangeland,A,Pacific,PCAA,Chester Caddas,L,6,10
+1973-10-20,Long Beach State,PCAA,Jim Strangeland,H,Fresno State,PCAA,J.R. Boone,L,14,15
+1973-11-10,Long Beach State,PCAA,Jim Strangeland,A,San Diego State,PCAA,Claude Gilbert,L,2,17
+1973-11-17,Long Beach State,PCAA,Jim Strangeland,A,Wichita State,MVC,Bob Seaman,W,35,10
+1973-09-22,Utah State,Ind,Phil Krueger,H,San Diego State,PCAA,Claude Gilbert,L,7,35
+1973-10-06,Utah State,Ind,Phil Krueger,H,Brigham Young,WAC,LaVell Edwards,W,13,7
+1973-10-13,Utah State,Ind,Phil Krueger,A,Colorado State,WAC,Sarkis Arslanian,W,34,18
+1973-10-20,Utah State,Ind,Phil Krueger,A,West Texas A&M,MVC,Gene Mayfield,W,36,14
+1973-10-27,Utah State,Ind,Phil Krueger,H,Kent State,MAC,Don James,L,16,27
+1973-11-03,Utah State,Ind,Phil Krueger,H,Wyoming,WAC,Fritz Shurmur,W,31,20
+1973-11-10,Utah State,Ind,Phil Krueger,A,New Mexico State,MVC,Jim Bradley,W,40,12
+1973-11-17,Utah State,Ind,Phil Krueger,A,Utah,WAC,Bill Meek,L,28,31
+1973-11-22,Utah State,Ind,Phil Krueger,A,Southern Mississippi,Ind,P.W. Underwood,L,8,32
+1973-09-15,Missouri,Big 8,Al Onofrio,H,Ole Miss,SEC,John Vaught,W,17,0
+1973-09-22,Missouri,Big 8,Al Onofrio,H,Virginia,ACC,Don Lawrence,W,31,7
+1973-09-29,Missouri,Big 8,Al Onofrio,A,North Carolina,ACC,Bill Dooley,W,27,14
+1973-10-06,Missouri,Big 8,Al Onofrio,A,SMU,SWC,Dave Smith,W,17,7
+1973-10-13,Missouri,Big 8,Al Onofrio,H,Nebraska,Big 8,Tom Osborne,W,13,12
+1973-10-20,Missouri,Big 8,Al Onofrio,H,Oklahoma State,Big 8,Jim Stanley,W,13,9
+1973-10-27,Missouri,Big 8,Al Onofrio,A,Colorado,Big 8,Eddie Crowder,L,13,17
+1973-11-03,Missouri,Big 8,Al Onofrio,H,Kansas State,Big 8,Vince Gibson,W,31,7
+1973-11-10,Missouri,Big 8,Al Onofrio,H,Oklahoma,Big 8,Barry Switzer,L,3,31
+1973-11-17,Missouri,Big 8,Al Onofrio,A,Iowa State,Big 8,Earle Bruce,L,7,17
+1973-11-24,Missouri,Big 8,Al Onofrio,A,Kansas,Big 8,Don Fambrough,L,13,14
+1973-12-29,Missouri,Big 8,Al Onofrio,N,Auburn,SEC,Ralph Jordan,W,34,17
+1973-09-15,San Jose State,PCAA,Darryl Rogers,A,Fresno State,PCAA,J.R. Boone,W,24,6
+1973-09-22,San Jose State,PCAA,Darryl Rogers,A,Long Beach State,PCAA,Jim Strangeland,W,24,6
+1973-09-29,San Jose State,PCAA,Darryl Rogers,A,Stanford,Pac-8,Jack Christiansen,L,12,23
+1973-10-06,San Jose State,PCAA,Darryl Rogers,H,Pacific,PCAA,Chester Caddas,T,21,21
+1973-10-13,San Jose State,PCAA,Darryl Rogers,A,Arizona State,WAC,Frank Kush,L,3,28
+1973-10-20,San Jose State,PCAA,Darryl Rogers,H,Utah,WAC,Bill Meek,L,21,28
+1973-10-27,San Jose State,PCAA,Darryl Rogers,H,New Mexico,WAC,Rudy Feldman,W,15,0
+1973-11-03,San Jose State,PCAA,Darryl Rogers,H,San Diego State,PCAA,Claude Gilbert,T,27,27
+1973-11-10,San Jose State,PCAA,Darryl Rogers,A,California,Pac-8,Mike White,L,9,19
+1973-09-15,Bowling Green State,MAC,Don Nehlen,A,Syracuse,Ind,Ben Schwartzwalder,W,41,14
+1973-09-22,Bowling Green State,MAC,Don Nehlen,A,Dayton,Ind,Ron Marciniak,W,31,16
+1973-09-29,Bowling Green State,MAC,Don Nehlen,H,Western Michigan,MAC,Bill Doolittle,W,31,20
+1973-10-06,Bowling Green State,MAC,Don Nehlen,H,Toledo,MAC,Jack Murphy,W,49,35
+1973-10-13,Bowling Green State,MAC,Don Nehlen,A,Kent State,MAC,Don James,L,7,21
+1973-10-20,Bowling Green State,MAC,Don Nehlen,H,Miami (OH),MAC,Bill Mallory,L,8,31
+1973-10-27,Bowling Green State,MAC,Don Nehlen,A,Marshall,Ind,Jack Lengyel,W,24,21
+1973-11-03,Bowling Green State,MAC,Don Nehlen,A,Ohio,MAC,Bill Hess,L,23,24
+1973-11-17,Bowling Green State,MAC,Don Nehlen,H,Northern Illinois,Ind,Jerry Ippoliti,W,21,20
+1973-09-15,Wisconsin,Big Ten,John Jardine,H,Purdue,Big Ten,Alex Agase,L,13,14
+1973-09-22,Wisconsin,Big Ten,John Jardine,H,Colorado,Big 8,Eddie Crowder,L,25,28
+1973-09-29,Wisconsin,Big Ten,John Jardine,A,Nebraska,Big 8,Tom Osborne,L,16,20
+1973-10-06,Wisconsin,Big Ten,John Jardine,H,Wyoming,WAC,Fritz Shurmur,W,37,28
+1973-10-13,Wisconsin,Big Ten,John Jardine,H,Ohio State,Big Ten,Woody Hayes,L,0,24
+1973-10-20,Wisconsin,Big Ten,John Jardine,A,Michigan,Big Ten,Bo Schembechler,L,6,35
+1973-10-27,Wisconsin,Big Ten,John Jardine,H,Indiana,Big Ten,Lee Corso,W,31,7
+1973-11-03,Wisconsin,Big Ten,John Jardine,A,Michigan State,Big Ten,Dennis Stolz,L,0,21
+1973-11-10,Wisconsin,Big Ten,John Jardine,H,Iowa,Big Ten,Frank Lauterbur,W,35,7
+1973-11-17,Wisconsin,Big Ten,John Jardine,H,Northwestern,Big Ten,John Pont,W,36,34
+1973-11-24,Wisconsin,Big Ten,John Jardine,A,Minnesota,Big Ten,Cal Stoll,L,17,19
+1973-09-15,USC,Pac-8,John McKay,H,Arkansas,SWC,Frank Broyles,W,17,0
+1973-09-22,USC,Pac-8,John McKay,A,Georgia Tech,Ind,Bill Fulcher,W,23,6
+1973-09-29,USC,Pac-8,John McKay,H,Oklahoma,Big 8,Barry Switzer,T,7,7
+1973-10-06,USC,Pac-8,John McKay,A,Oregon State,Pac-8,Dee Andros,W,21,7
+1973-10-13,USC,Pac-8,John McKay,H,Washington State,Pac-8,Jim Sweeney,W,46,35
+1973-10-20,USC,Pac-8,John McKay,H,Oregon,Pac-8,Dick Enright,W,31,10
+1973-10-27,USC,Pac-8,John McKay,A,Notre Dame,Ind,Ara Parseghian,L,14,23
+1973-11-03,USC,Pac-8,John McKay,A,California,Pac-8,Mike White,W,50,14
+1973-11-10,USC,Pac-8,John McKay,H,Stanford,Pac-8,Jack Christiansen,W,27,26
+1973-11-17,USC,Pac-8,John McKay,A,Washington,Pac-8,Jim Owens,W,42,19
+1973-11-24,USC,Pac-8,John McKay,H,UCLA,Pac-8,Pepper Rodgers,W,23,13
+1974-01-01,USC,Pac-8,John McKay,H,Ohio State,Big Ten,Woody Hayes,L,21,42
+1973-09-08,North Carolina State,ACC,Lou Holtz,H,East Carolina,Southern,Sonny Randle,W,57,8
+1973-09-15,North Carolina State,ACC,Lou Holtz,H,Virginia,ACC,Don Lawrence,W,43,23
+1973-09-22,North Carolina State,ACC,Lou Holtz,A,Nebraska,Big 8,Tom Osborne,L,14,31
+1973-09-29,North Carolina State,ACC,Lou Holtz,A,Georgia,SEC,Vince Dooley,L,12,31
+1973-10-06,North Carolina State,ACC,Lou Holtz,H,North Carolina,ACC,Bill Dooley,W,28,26
+1973-10-13,North Carolina State,ACC,Lou Holtz,H,Maryland,ACC,Jerry Claiborne,W,24,22
+1973-10-27,North Carolina State,ACC,Lou Holtz,A,Clemson,ACC,Red Parker,W,29,6
+1973-11-03,North Carolina State,ACC,Lou Holtz,A,South Carolina,Ind,Paul Dietzel,W,56,35
+1973-11-10,North Carolina State,ACC,Lou Holtz,A,Penn State,Ind,Joe Paterno,L,29,35
+1973-11-17,North Carolina State,ACC,Lou Holtz,A,Duke,ACC,Mike McGee,W,21,3
+1973-11-24,North Carolina State,ACC,Lou Holtz,H,Wake Forest,ACC,Chuck Mills,W,52,13
+1973-12-17,North Carolina State,ACC,Lou Holtz,N,Kansas,Big 8,Don Fambrough,W,31,18
+1973-09-22,San Diego State,PCAA,Claude Gilbert,A,Utah State,Ind,Phil Krueger,W,35,7
+1973-09-29,San Diego State,PCAA,Claude Gilbert,H,Kent State,MAC,Don James,W,17,9
+1973-10-06,San Diego State,PCAA,Claude Gilbert,H,Houston,Ind,Bill Yeoman,L,9,14
+1973-10-13,San Diego State,PCAA,Claude Gilbert,H,New Mexico State,MVC,Jim Bradley,W,27,0
+1973-10-20,San Diego State,PCAA,Claude Gilbert,A,Pacific,PCAA,Chester Caddas,W,13,10
+1973-10-27,San Diego State,PCAA,Claude Gilbert,H,Florida State,Ind,Larry Jones,W,38,17
+1973-11-03,San Diego State,PCAA,Claude Gilbert,A,San Jose State,PCAA,Darryl Rogers,T,27,27
+1973-11-10,San Diego State,PCAA,Claude Gilbert,H,Long Beach State,PCAA,Jim Strangeland,W,17,2
+1973-11-17,San Diego State,PCAA,Claude Gilbert,A,Fresno State,PCAA,J.R. Boone,W,41,6
+1973-11-24,San Diego State,PCAA,Claude Gilbert,H,North Texas,MVC,Hayden Fry,W,56,9
+1973-12-01,San Diego State,PCAA,Claude Gilbert,H,Iowa State,Big 8,Earle Bruce,W,41,28
+1973-09-29,Rutgers,Ind,Frank Burns,A,Princeton,Ivy,Robert Casciola,W,39,14
+1973-10-27,Rutgers,Ind,Frank Burns,H,Columbia,Ivy,Frank Navarro,W,28,2
+1973-11-10,Rutgers,Ind,Frank Burns,A,Air Force,Ind,Ben Martin,L,14,31
+1973-11-17,Rutgers,Ind,Frank Burns,A,Holy Cross,Ind,Edward Doherty,W,27,7
+1973-11-24,Rutgers,Ind,Frank Burns,H,Colgate,Ind,Neil Wheelwright,L,0,42
+1973-12-01,Rutgers,Ind,Frank Burns,A,Tampa,Ind,Dennis Fryzel,L,6,34
+1973-09-15,Michigan,Big Ten,Bo Schembechler,A,Iowa,Big Ten,Frank Lauterbur,W,31,7
+1973-09-22,Michigan,Big Ten,Bo Schembechler,H,Stanford,Pac-8,Jack Christiansen,W,47,10
+1973-09-29,Michigan,Big Ten,Bo Schembechler,H,Navy,Ind,George Welsh,W,14,0
+1973-10-06,Michigan,Big Ten,Bo Schembechler,H,Oregon,Pac-8,Dick Enright,W,24,0
+1973-10-13,Michigan,Big Ten,Bo Schembechler,A,Michigan State,Big Ten,Dennis Stolz,W,31,0
+1973-10-20,Michigan,Big Ten,Bo Schembechler,H,Wisconsin,Big Ten,John Jardine,W,35,6
+1973-10-27,Michigan,Big Ten,Bo Schembechler,A,Minnesota,Big Ten,Cal Stoll,W,34,7
+1973-11-03,Michigan,Big Ten,Bo Schembechler,H,Indiana,Big Ten,Lee Corso,W,49,13
+1973-11-10,Michigan,Big Ten,Bo Schembechler,H,Illinois,Big Ten,Bob Blackman,W,21,6
+1973-11-17,Michigan,Big Ten,Bo Schembechler,A,Purdue,Big Ten,Alex Agase,W,34,9
+1973-11-24,Michigan,Big Ten,Bo Schembechler,H,Ohio State,Big Ten,Woody Hayes,T,10,10
+1973-09-08,Temple,Ind,Wayne Hardin,H,Xavier,Ind,Thomas Cecchini,W,49,7
+1973-09-15,Temple,Ind,Wayne Hardin,A,Boston College,Ind,Joseph Yukica,L,0,45
+1973-09-29,Temple,Ind,Wayne Hardin,A,Holy Cross,Ind,Edward Doherty,W,63,34
+1973-10-06,Temple,Ind,Wayne Hardin,H,Cincinnati,Ind,Tony Mason,W,16,15
+1973-11-17,Temple,Ind,Wayne Hardin,A,Drake,MVC,Jack Wallace,W,35,10
+1973-11-24,Temple,Ind,Wayne Hardin,A,Villanova,Ind,Lou Ferry,W,34,0
+1973-09-15,New Mexico,WAC,Rudy Feldman,H,New Mexico State,MVC,Jim Bradley,W,48,6
+1973-09-22,New Mexico,WAC,Rudy Feldman,A,Texas Tech,SWC,Jim Carlen,L,7,41
+1973-09-29,New Mexico,WAC,Rudy Feldman,A,Air Force,Ind,Ben Martin,L,6,10
+1973-10-06,New Mexico,WAC,Rudy Feldman,H,Arizona State,WAC,Frank Kush,L,24,67
+1973-10-13,New Mexico,WAC,Rudy Feldman,A,Arizona,WAC,Jim Young,L,14,22
+1973-10-20,New Mexico,WAC,Rudy Feldman,H,UTEP,WAC,Tommy Hudspeth,W,49,0
+1973-10-27,New Mexico,WAC,Rudy Feldman,A,San Jose State,PCAA,Darryl Rogers,L,0,15
+1973-11-03,New Mexico,WAC,Rudy Feldman,A,Brigham Young,WAC,LaVell Edwards,L,21,56
+1973-11-10,New Mexico,WAC,Rudy Feldman,H,Utah,WAC,Bill Meek,L,35,36
+1973-11-17,New Mexico,WAC,Rudy Feldman,H,Wyoming,WAC,Fritz Shurmur,W,23,21
+1973-11-24,New Mexico,WAC,Rudy Feldman,A,Colorado State,WAC,Sarkis Arslanian,W,30,13
+1973-09-15,Pacific,PCAA,Chester Caddas,A,UTEP,WAC,Tommy Hudspeth,W,34,9
+1973-09-22,Pacific,PCAA,Chester Caddas,A,Wyoming,WAC,Fritz Shurmur,L,14,49
+1973-10-06,Pacific,PCAA,Chester Caddas,A,San Jose State,PCAA,Darryl Rogers,T,21,21
+1973-10-13,Pacific,PCAA,Chester Caddas,H,Long Beach State,PCAA,Jim Strangeland,W,10,6
+1973-10-20,Pacific,PCAA,Chester Caddas,H,San Diego State,PCAA,Claude Gilbert,L,10,13
+1973-11-10,Pacific,PCAA,Chester Caddas,H,Fresno State,PCAA,J.R. Boone,W,42,0
+1973-09-22,Notre Dame,Ind,Ara Parseghian,H,Northwestern,Big Ten,John Pont,W,44,0
+1973-09-29,Notre Dame,Ind,Ara Parseghian,A,Purdue,Big Ten,Alex Agase,W,20,7
+1973-10-06,Notre Dame,Ind,Ara Parseghian,H,Michigan State,Big Ten,Dennis Stolz,W,14,10
+1973-10-13,Notre Dame,Ind,Ara Parseghian,A,Rice,SWC,Al Conover,W,28,0
+1973-10-20,Notre Dame,Ind,Ara Parseghian,A,Army,Ind,Thomas Cahill,W,62,3
+1973-10-27,Notre Dame,Ind,Ara Parseghian,H,USC,Pac-8,John McKay,W,23,14
+1973-11-03,Notre Dame,Ind,Ara Parseghian,H,Navy,Ind,George Welsh,W,44,7
+1973-11-10,Notre Dame,Ind,Ara Parseghian,A,Pitt,Ind,Johnny Majors,W,31,10
+1973-11-22,Notre Dame,Ind,Ara Parseghian,H,Air Force,Ind,Ben Martin,W,48,15
+1973-12-01,Notre Dame,Ind,Ara Parseghian,A,Miami (FL),Ind,Pete Elliott,W,44,0
+1973-12-31,Notre Dame,Ind,Ara Parseghian,N,Alabama,SEC,Bear Bryant,W,24,23
+1973-09-29,Louisiana,Ind,Russ Faulkinberry,H,Chattanooga,Ind,Joe Morrison,L,10,21
+1973-10-06,Louisiana,Ind,Russ Faulkinberry,A,Xavier,Ind,Thomas Cecchini,L,14,17
+1973-10-13,Louisiana,Ind,Russ Faulkinberry,A,Cincinnati,Ind,Tony Mason,L,0,27
+1973-10-20,Louisiana,Ind,Russ Faulkinberry,A,Lamar,Ind,,L,0,31
+1973-10-27,Louisiana,Ind,Russ Faulkinberry,H,Texas-Arlington,Ind,John Symank,L,22,31
+1973-11-17,Louisiana,Ind,Russ Faulkinberry,A,Memphis,Ind,Fred Pancoast,L,6,41
+1973-09-08,East Carolina,Southern,Sonny Randle,A,North Carolina State,ACC,Lou Holtz,L,8,57
+1973-09-15,East Carolina,Southern,Sonny Randle,A,Southern Mississippi,Ind,P.W. Underwood,W,13,0
+1973-09-22,East Carolina,Southern,Sonny Randle,A,Southern Illinois,Ind,Dick Towers,W,42,25
+1973-09-29,East Carolina,Southern,Sonny Randle,H,Furman,Southern,Art Baker,W,14,3
+1973-10-06,East Carolina,Southern,Sonny Randle,A,Davidson,Southern,David Fagg,W,45,0
+1973-10-13,East Carolina,Southern,Sonny Randle,H,Virginia Military Institute,Southern,Bob Thalman,W,42,7
+1973-10-20,East Carolina,Southern,Sonny Randle,A,Citadel,Southern,Bobby Ross,W,34,0
+1973-10-27,East Carolina,Southern,Sonny Randle,A,North Carolina,ACC,Bill Dooley,L,27,28
+1973-11-03,East Carolina,Southern,Sonny Randle,H,William & Mary,Southern,James Root,W,34,3
+1973-11-10,East Carolina,Southern,Sonny Randle,H,Richmond,Southern,Frank Jones,W,44,14
+1973-11-17,East Carolina,Southern,Sonny Randle,A,Appalachian State,Southern,Jim Brakefield,W,49,14
+1973-09-15,Toledo,MAC,Jack Murphy,A,Tampa,Ind,Dennis Fryzel,L,25,35
+1973-09-29,Toledo,MAC,Jack Murphy,H,Ohio,MAC,Bill Hess,W,35,8
+1973-10-06,Toledo,MAC,Jack Murphy,A,Bowling Green State,MAC,Don Nehlen,L,35,49
+1973-10-13,Toledo,MAC,Jack Murphy,H,Western Michigan,MAC,Bill Doolittle,L,22,24
+1973-10-20,Toledo,MAC,Jack Murphy,H,Dayton,Ind,Ron Marciniak,W,14,10
+1973-10-27,Toledo,MAC,Jack Murphy,A,Miami (OH),MAC,Bill Mallory,L,0,16
+1973-11-03,Toledo,MAC,Jack Murphy,A,Colorado State,WAC,Sarkis Arslanian,L,14,21
+1973-11-10,Toledo,MAC,Jack Murphy,A,Marshall,Ind,Jack Lengyel,L,14,17
+1973-11-17,Toledo,MAC,Jack Murphy,H,Kent State,MAC,Don James,L,16,52
+1973-11-24,Toledo,MAC,Jack Murphy,A,Xavier,Ind,Thomas Cecchini,L,31,35
+1973-09-15,Pitt,Ind,Johnny Majors,A,Georgia,SEC,Vince Dooley,T,7,7
+1973-09-22,Pitt,Ind,Johnny Majors,H,Baylor,SWC,Grant Teaff,L,14,20
+1973-09-29,Pitt,Ind,Johnny Majors,A,Northwestern,Big Ten,John Pont,W,21,14
+1973-10-06,Pitt,Ind,Johnny Majors,H,Tulane,Ind,Bennie Ellender,L,6,24
+1973-10-13,Pitt,Ind,Johnny Majors,A,West Virginia,Ind,Bobby Bowden,W,35,7
+1973-10-20,Pitt,Ind,Johnny Majors,A,Boston College,Ind,Joseph Yukica,W,28,14
+1973-10-27,Pitt,Ind,Johnny Majors,H,Navy,Ind,George Welsh,W,22,17
+1973-11-03,Pitt,Ind,Johnny Majors,H,Syracuse,Ind,Ben Schwartzwalder,W,28,14
+1973-11-10,Pitt,Ind,Johnny Majors,H,Notre Dame,Ind,Ara Parseghian,L,10,31
+1973-11-17,Pitt,Ind,Johnny Majors,A,Army,Ind,Thomas Cahill,W,34,0
+1973-11-24,Pitt,Ind,Johnny Majors,A,Penn State,Ind,Joe Paterno,L,13,35
+1973-12-21,Pitt,Ind,Johnny Majors,A,Arizona State,WAC,Frank Kush,L,7,28
+1973-09-08,West Texas A&M,MVC,Gene Mayfield,H,Drake,MVC,Jack Wallace,W,13,10
+1973-09-15,West Texas A&M,MVC,Gene Mayfield,A,Tulsa,MVC,F. Dry,L,3,48
+1973-09-22,West Texas A&M,MVC,Gene Mayfield,A,North Texas,MVC,Hayden Fry,L,15,32
+1973-09-29,West Texas A&M,MVC,Gene Mayfield,H,Northern Illinois,Ind,Jerry Ippoliti,L,14,21
+1973-10-06,West Texas A&M,MVC,Gene Mayfield,A,Lamar,Ind,,W,13,0
+1973-10-20,West Texas A&M,MVC,Gene Mayfield,H,Utah State,Ind,Phil Krueger,L,14,36
+1973-10-27,West Texas A&M,MVC,Gene Mayfield,A,Wichita State,MVC,Bob Seaman,L,14,30
+1973-11-03,West Texas A&M,MVC,Gene Mayfield,A,New Mexico State,MVC,Jim Bradley,L,14,56
+1973-11-10,West Texas A&M,MVC,Gene Mayfield,H,Tampa,Ind,Dennis Fryzel,L,6,28
+1973-11-17,West Texas A&M,MVC,Gene Mayfield,H,Southern Mississippi,Ind,P.W. Underwood,L,0,28
+1973-11-24,West Texas A&M,MVC,Gene Mayfield,H,Louisville,MVC,Tom Alley,L,9,21
+1973-09-08,North Texas,MVC,Hayden Fry,N,Texas-Arlington,Ind,John Symank,L,7,31
+1973-09-15,North Texas,MVC,Hayden Fry,A,Memphis,Ind,Fred Pancoast,L,3,24
+1973-09-22,North Texas,MVC,Hayden Fry,H,West Texas A&M,MVC,Gene Mayfield,W,32,15
+1973-09-29,North Texas,MVC,Hayden Fry,H,Long Beach State,PCAA,Jim Strangeland,T,0,0
+1973-10-13,North Texas,MVC,Hayden Fry,H,Louisville,MVC,Tom Alley,W,7,6
+1973-10-20,North Texas,MVC,Hayden Fry,H,Drake,MVC,Jack Wallace,W,19,7
+1973-10-27,North Texas,MVC,Hayden Fry,A,New Mexico State,MVC,Jim Bradley,W,27,7
+1973-11-03,North Texas,MVC,Hayden Fry,A,Cincinnati,Ind,Tony Mason,L,3,52
+1973-11-10,North Texas,MVC,Hayden Fry,H,Wichita State,MVC,Bob Seaman,W,31,21
+1973-11-17,North Texas,MVC,Hayden Fry,H,Tulsa,MVC,F. Dry,L,15,24
+1973-11-24,North Texas,MVC,Hayden Fry,A,San Diego State,PCAA,Claude Gilbert,L,9,56
+1973-09-15,Wyoming,WAC,Fritz Shurmur,H,Arizona,WAC,Jim Young,L,7,21
+1973-09-22,Wyoming,WAC,Fritz Shurmur,H,Pacific,PCAA,Chester Caddas,W,49,14
+1973-09-29,Wyoming,WAC,Fritz Shurmur,H,UTEP,WAC,Tommy Hudspeth,W,31,8
+1973-10-06,Wyoming,WAC,Fritz Shurmur,A,Wisconsin,Big Ten,John Jardine,L,28,37
+1973-10-13,Wyoming,WAC,Fritz Shurmur,A,Utah,WAC,Bill Meek,L,16,50
+1973-10-20,Wyoming,WAC,Fritz Shurmur,H,Colorado State,WAC,Sarkis Arslanian,W,35,3
+1973-10-27,Wyoming,WAC,Fritz Shurmur,H,Brigham Young,WAC,LaVell Edwards,W,41,21
+1973-11-03,Wyoming,WAC,Fritz Shurmur,A,Utah State,Ind,Phil Krueger,L,20,31
+1973-11-10,Wyoming,WAC,Fritz Shurmur,A,Arizona State,WAC,Frank Kush,L,0,47
+1973-11-17,Wyoming,WAC,Fritz Shurmur,A,New Mexico,WAC,Rudy Feldman,L,21,23
+1973-11-24,Wyoming,WAC,Fritz Shurmur,A,Houston,Ind,Bill Yeoman,L,0,35
+1973-09-15,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,L,13,21
+1973-09-29,Brigham Young,WAC,LaVell Edwards,H,Oregon State,Pac-8,Dee Andros,W,37,14
+1973-10-06,Brigham Young,WAC,LaVell Edwards,A,Utah State,Ind,Phil Krueger,L,7,13
+1973-10-13,Brigham Young,WAC,LaVell Edwards,H,Iowa State,Big 8,Earle Bruce,L,24,26
+1973-10-20,Brigham Young,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,12,52
+1973-10-27,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Fritz Shurmur,L,21,41
+1973-11-03,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Rudy Feldman,W,56,21
+1973-11-10,Brigham Young,WAC,LaVell Edwards,H,Arizona,WAC,Jim Young,L,10,24
+1973-11-24,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Bill Meek,W,46,22
+1973-12-01,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Tommy Hudspeth,W,63,0
+1973-10-06,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,24,18
+1973-10-13,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,L,25,34
+1973-10-20,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Frank Navarro,W,29,0
+1973-10-27,Yale,Ivy,Carmen Cozza,H,Cornell,Ivy,Jack Musick,W,20,3
+1973-11-03,Yale,Ivy,Carmen Cozza,A,Dartmouth,Ivy,John Crouthamel,L,13,24
+1973-11-10,Yale,Ivy,Carmen Cozza,H,Pennsylvania,Ivy,Harry Gamble,W,24,21
+1973-11-17,Yale,Ivy,Carmen Cozza,A,Princeton,Ivy,Robert Casciola,W,30,13
+1973-11-24,Yale,Ivy,Carmen Cozza,H,Harvard,Ivy,Joseph Restic,W,35,0
+1973-09-15,Georgia Tech,Ind,Bill Fulcher,A,South Carolina,Ind,Paul Dietzel,L,28,41
+1973-09-22,Georgia Tech,Ind,Bill Fulcher,H,USC,Pac-8,John McKay,L,6,23
+1973-09-29,Georgia Tech,Ind,Bill Fulcher,H,Clemson,ACC,Red Parker,W,29,21
+1973-10-06,Georgia Tech,Ind,Bill Fulcher,H,Army,Ind,Thomas Cahill,W,14,10
+1973-10-13,Georgia Tech,Ind,Bill Fulcher,A,Tennessee,SEC,Bill Battle,L,14,20
+1973-10-20,Georgia Tech,Ind,Bill Fulcher,H,Auburn,SEC,Ralph Jordan,L,10,24
+1973-10-27,Georgia Tech,Ind,Bill Fulcher,A,Tulane,Ind,Bennie Ellender,L,14,23
+1973-11-03,Georgia Tech,Ind,Bill Fulcher,H,Duke,ACC,Mike McGee,W,12,10
+1973-11-10,Georgia Tech,Ind,Bill Fulcher,H,Virginia Military Institute,Southern,Bob Thalman,W,36,7
+1973-11-17,Georgia Tech,Ind,Bill Fulcher,H,Navy,Ind,George Welsh,W,26,22
+1973-12-01,Georgia Tech,Ind,Bill Fulcher,H,Georgia,SEC,Vince Dooley,L,3,10
+1973-09-15,Wake Forest,ACC,Chuck Mills,H,Florida State,Ind,Larry Jones,W,9,7
+1973-09-22,Wake Forest,ACC,Chuck Mills,H,William & Mary,Southern,James Root,L,14,15
+1973-09-29,Wake Forest,ACC,Chuck Mills,A,Richmond,Southern,Frank Jones,L,0,41
+1973-10-06,Wake Forest,ACC,Chuck Mills,A,Texas,SWC,Darrell Royal,L,0,41
+1973-10-13,Wake Forest,ACC,Chuck Mills,H,South Carolina,Ind,Paul Dietzel,L,12,28
+1973-10-20,Wake Forest,ACC,Chuck Mills,H,Maryland,ACC,Jerry Claiborne,L,0,37
+1973-10-27,Wake Forest,ACC,Chuck Mills,A,Virginia,ACC,Don Lawrence,L,10,21
+1973-11-03,Wake Forest,ACC,Chuck Mills,A,Clemson,ACC,Red Parker,L,8,35
+1973-11-10,Wake Forest,ACC,Chuck Mills,H,Duke,ACC,Mike McGee,T,7,7
+1973-11-17,Wake Forest,ACC,Chuck Mills,A,North Carolina,ACC,Bill Dooley,L,0,42
+1973-11-24,Wake Forest,ACC,Chuck Mills,A,North Carolina State,ACC,Lou Holtz,L,13,52
+1973-09-08,Xavier,Ind,Thomas Cecchini,A,Temple,Ind,Wayne Hardin,L,7,49
+1973-09-15,Xavier,Ind,Thomas Cecchini,A,Cincinnati,Ind,Tony Mason,L,7,40
+1973-09-22,Xavier,Ind,Thomas Cecchini,A,Tampa,Ind,Dennis Fryzel,L,7,34
+1973-09-29,Xavier,Ind,Thomas Cecchini,A,Marshall,Ind,Jack Lengyel,W,30,28
+1973-10-06,Xavier,Ind,Thomas Cecchini,H,Louisiana,Ind,Russ Faulkinberry,W,17,14
+1973-10-13,Xavier,Ind,Thomas Cecchini,A,Southern Illinois,Ind,Dick Towers,L,7,73
+1973-11-03,Xavier,Ind,Thomas Cecchini,H,Dayton,Ind,Ron Marciniak,T,28,28
+1973-11-10,Xavier,Ind,Thomas Cecchini,H,Northern Illinois,Ind,Jerry Ippoliti,W,40,36
+1973-11-17,Xavier,Ind,Thomas Cecchini,H,Villanova,Ind,Lou Ferry,W,13,6
+1973-11-24,Xavier,Ind,Thomas Cecchini,H,Toledo,MAC,Jack Murphy,W,35,31
+1973-09-22,Mississippi State,SEC,Bob Tyler,H,Vanderbilt,SEC,Steve Sloan,W,52,21
+1973-09-29,Mississippi State,SEC,Bob Tyler,H,Florida,SEC,Doug Dickey,W,33,12
+1973-10-06,Mississippi State,SEC,Bob Tyler,H,Kentucky,SEC,Fran Curci,L,14,42
+1973-10-13,Mississippi State,SEC,Bob Tyler,A,Florida State,Ind,Larry Jones,W,37,12
+1973-10-20,Mississippi State,SEC,Bob Tyler,A,Louisville,MVC,Tom Alley,W,18,7
+1973-10-27,Mississippi State,SEC,Bob Tyler,H,Southern Mississippi,Ind,P.W. Underwood,T,10,10
+1973-11-03,Mississippi State,SEC,Bob Tyler,H,Alabama,SEC,Bear Bryant,L,0,35
+1973-11-10,Mississippi State,SEC,Bob Tyler,A,Auburn,SEC,Ralph Jordan,L,17,31
+1973-11-17,Mississippi State,SEC,Bob Tyler,A,LSU,SEC,Charles McClendon,L,7,26
+1973-11-24,Mississippi State,SEC,Bob Tyler,N,Ole Miss,SEC,John Vaught,L,10,38
+1973-09-08,Virginia Military Institute,Southern,Bob Thalman,A,Virginia,ACC,Don Lawrence,L,0,16
+1973-09-15,Virginia Military Institute,Southern,Bob Thalman,H,Navy,Ind,George Welsh,L,6,37
+1973-09-22,Virginia Military Institute,Southern,Bob Thalman,A,Richmond,Southern,Frank Jones,L,0,35
+1973-09-29,Virginia Military Institute,Southern,Bob Thalman,A,Tulane,Ind,Bennie Ellender,L,0,42
+1973-10-06,Virginia Military Institute,Southern,Bob Thalman,H,Citadel,Southern,Bobby Ross,W,23,6
+1973-10-13,Virginia Military Institute,Southern,Bob Thalman,A,East Carolina,Southern,Sonny Randle,L,7,42
+1973-10-20,Virginia Military Institute,Southern,Bob Thalman,A,Furman,Southern,Art Baker,L,13,19
+1973-10-27,Virginia Military Institute,Southern,Bob Thalman,A,William & Mary,Southern,James Root,L,14,45
+1973-11-03,Virginia Military Institute,Southern,Bob Thalman,H,Davidson,Southern,David Fagg,W,24,17
+1973-11-10,Virginia Military Institute,Southern,Bob Thalman,A,Georgia Tech,Ind,Bill Fulcher,L,7,36
+1973-11-17,Virginia Military Institute,Southern,Bob Thalman,A,Virginia Tech,Ind,Charles Coffey,W,22,21
+1973-09-08,Memphis,Ind,Fred Pancoast,H,Louisville,MVC,Tom Alley,W,28,21
+1973-09-15,Memphis,Ind,Fred Pancoast,H,North Texas,MVC,Hayden Fry,W,24,3
+1973-09-22,Memphis,Ind,Fred Pancoast,A,Ole Miss,SEC,John Vaught,W,17,13
+1973-09-29,Memphis,Ind,Fred Pancoast,H,Houston,Ind,Bill Yeoman,L,21,35
+1973-10-06,Memphis,Ind,Fred Pancoast,A,Kansas State,Big 8,Vince Gibson,L,16,21
+1973-10-13,Memphis,Ind,Fred Pancoast,H,Tulsa,MVC,F. Dry,W,28,16
+1973-10-20,Memphis,Ind,Fred Pancoast,A,Florida State,Ind,Larry Jones,W,13,10
+1973-11-03,Memphis,Ind,Fred Pancoast,H,Virginia Tech,Ind,Charles Coffey,W,49,16
+1973-11-10,Memphis,Ind,Fred Pancoast,H,Southern Mississippi,Ind,P.W. Underwood,L,10,13
+1973-11-17,Memphis,Ind,Fred Pancoast,H,Louisiana,Ind,Russ Faulkinberry,W,41,6
+1973-11-24,Memphis,Ind,Fred Pancoast,A,Cincinnati,Ind,Tony Mason,W,17,13
+1973-09-15,Kansas State,Big 8,Vince Gibson,A,Florida,SEC,Doug Dickey,L,10,21
+1973-09-22,Kansas State,Big 8,Vince Gibson,H,Tulsa,MVC,F. Dry,W,21,0
+1973-09-29,Kansas State,Big 8,Vince Gibson,A,Tampa,Ind,Dennis Fryzel,W,17,0
+1973-10-06,Kansas State,Big 8,Vince Gibson,H,Memphis,Ind,Fred Pancoast,W,21,16
+1973-10-13,Kansas State,Big 8,Vince Gibson,A,Kansas,Big 8,Don Fambrough,L,18,25
+1973-10-20,Kansas State,Big 8,Vince Gibson,H,Iowa State,Big 8,Earle Bruce,W,21,19
+1973-10-27,Kansas State,Big 8,Vince Gibson,H,Oklahoma,Big 8,Barry Switzer,L,14,56
+1973-11-03,Kansas State,Big 8,Vince Gibson,A,Missouri,Big 8,Al Onofrio,L,7,31
+1973-11-10,Kansas State,Big 8,Vince Gibson,A,Oklahoma State,Big 8,Jim Stanley,L,9,28
+1973-11-17,Kansas State,Big 8,Vince Gibson,H,Nebraska,Big 8,Tom Osborne,L,21,50
+1973-11-24,Kansas State,Big 8,Vince Gibson,A,Colorado,Big 8,Eddie Crowder,W,17,14
+1973-09-15,Chattanooga,Ind,Joe Morrison,A,Vanderbilt,SEC,Steve Sloan,L,12,14
+1973-09-22,Chattanooga,Ind,Joe Morrison,A,Auburn,SEC,Ralph Jordan,L,0,31
+1973-09-29,Chattanooga,Ind,Joe Morrison,A,Louisiana,Ind,Russ Faulkinberry,W,21,10
+1973-10-06,Chattanooga,Ind,Joe Morrison,H,Southern Mississippi,Ind,P.W. Underwood,L,7,42
+1973-10-13,Chattanooga,Ind,Joe Morrison,A,Citadel,Southern,Bobby Ross,L,20,28
+1973-11-17,Chattanooga,Ind,Joe Morrison,A,Tampa,Ind,Dennis Fryzel,W,25,24
+1973-09-22,Army,Ind,Thomas Cahill,H,Tennessee,SEC,Bill Battle,L,18,37
+1973-09-29,Army,Ind,Thomas Cahill,H,California,Pac-8,Mike White,L,6,51
+1973-10-06,Army,Ind,Thomas Cahill,A,Georgia Tech,Ind,Bill Fulcher,L,10,14
+1973-10-13,Army,Ind,Thomas Cahill,A,Penn State,Ind,Joe Paterno,L,3,54
+1973-10-20,Army,Ind,Thomas Cahill,H,Notre Dame,Ind,Ara Parseghian,L,3,62
+1973-10-27,Army,Ind,Thomas Cahill,H,Holy Cross,Ind,Edward Doherty,L,10,17
+1973-11-03,Army,Ind,Thomas Cahill,A,Air Force,Ind,Ben Martin,L,10,43
+1973-11-10,Army,Ind,Thomas Cahill,H,Miami (FL),Ind,Pete Elliott,L,7,19
+1973-11-17,Army,Ind,Thomas Cahill,H,Pitt,Ind,Johnny Majors,L,0,34
+1973-12-01,Army,Ind,Thomas Cahill,N,Navy,Ind,George Welsh,L,0,51
+1973-10-06,Dartmouth,Ivy,John Crouthamel,H,Holy Cross,Ind,Edward Doherty,L,0,10
+1973-10-13,Dartmouth,Ivy,John Crouthamel,H,Pennsylvania,Ivy,Harry Gamble,L,16,22
+1973-10-20,Dartmouth,Ivy,John Crouthamel,A,Brown,Ivy,John Anderson,W,28,16
+1973-10-27,Dartmouth,Ivy,John Crouthamel,A,Harvard,Ivy,Joseph Restic,W,24,18
+1973-11-03,Dartmouth,Ivy,John Crouthamel,H,Yale,Ivy,Carmen Cozza,W,24,13
+1973-11-10,Dartmouth,Ivy,John Crouthamel,A,Columbia,Ivy,Frank Navarro,W,24,6
+1973-11-17,Dartmouth,Ivy,John Crouthamel,H,Cornell,Ivy,Jack Musick,W,17,0
+1973-11-24,Dartmouth,Ivy,John Crouthamel,A,Princeton,Ivy,Robert Casciola,W,42,24
+1973-09-08,UCLA,Pac-8,Pepper Rodgers,A,Nebraska,Big 8,Tom Osborne,L,13,40
+1973-09-22,UCLA,Pac-8,Pepper Rodgers,H,Iowa,Big Ten,Frank Lauterbur,W,55,18
+1973-09-29,UCLA,Pac-8,Pepper Rodgers,A,Michigan State,Big Ten,Dennis Stolz,W,34,21
+1973-10-06,UCLA,Pac-8,Pepper Rodgers,H,Utah,WAC,Bill Meek,W,66,16
+1973-10-13,UCLA,Pac-8,Pepper Rodgers,A,Stanford,Pac-8,Jack Christiansen,W,59,13
+1973-10-20,UCLA,Pac-8,Pepper Rodgers,A,Washington State,Pac-8,Jim Sweeney,W,24,13
+1973-10-27,UCLA,Pac-8,Pepper Rodgers,H,California,Pac-8,Mike White,W,61,21
+1973-11-03,UCLA,Pac-8,Pepper Rodgers,H,Washington,Pac-8,Jim Owens,W,62,13
+1973-11-10,UCLA,Pac-8,Pepper Rodgers,A,Oregon,Pac-8,Dick Enright,W,27,7
+1973-11-17,UCLA,Pac-8,Pepper Rodgers,H,Oregon State,Pac-8,Dee Andros,W,56,14
+1973-11-24,UCLA,Pac-8,Pepper Rodgers,A,USC,Pac-8,John McKay,L,13,23
+1973-09-15,Auburn,SEC,Ralph Jordan,H,Oregon State,Pac-8,Dee Andros,W,18,9
+1973-09-22,Auburn,SEC,Ralph Jordan,H,Chattanooga,Ind,Joe Morrison,W,31,0
+1973-09-29,Auburn,SEC,Ralph Jordan,A,Tennessee,SEC,Bill Battle,L,0,21
+1973-10-06,Auburn,SEC,Ralph Jordan,H,Ole Miss,SEC,John Vaught,W,14,7
+1973-10-13,Auburn,SEC,Ralph Jordan,H,LSU,SEC,Charles McClendon,L,6,20
+1973-10-20,Auburn,SEC,Ralph Jordan,A,Georgia Tech,Ind,Bill Fulcher,W,24,10
+1973-10-27,Auburn,SEC,Ralph Jordan,H,Houston,Ind,Bill Yeoman,W,7,0
+1973-11-03,Auburn,SEC,Ralph Jordan,H,Florida,SEC,Doug Dickey,L,8,12
+1973-11-10,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Bob Tyler,W,31,17
+1973-11-17,Auburn,SEC,Ralph Jordan,A,Georgia,SEC,Vince Dooley,L,14,28
+1973-12-01,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Bear Bryant,L,0,35
+1973-12-29,Auburn,SEC,Ralph Jordan,N,Missouri,Big 8,Al Onofrio,L,17,34
+1973-09-15,Northwestern,Big Ten,John Pont,H,Michigan State,Big Ten,Dennis Stolz,W,14,10
+1973-09-22,Northwestern,Big Ten,John Pont,A,Notre Dame,Ind,Ara Parseghian,L,0,44
+1973-09-29,Northwestern,Big Ten,John Pont,H,Pitt,Ind,Johnny Majors,L,14,21
+1973-10-06,Northwestern,Big Ten,John Pont,H,Ohio,MAC,Bill Hess,L,12,14
+1973-10-13,Northwestern,Big Ten,John Pont,H,Iowa,Big Ten,Frank Lauterbur,W,31,15
+1973-10-20,Northwestern,Big Ten,John Pont,A,Purdue,Big Ten,Alex Agase,L,10,21
+1973-10-27,Northwestern,Big Ten,John Pont,A,Ohio State,Big Ten,Woody Hayes,L,0,60
+1973-11-03,Northwestern,Big Ten,John Pont,H,Minnesota,Big Ten,Cal Stoll,L,43,52
+1973-11-10,Northwestern,Big Ten,John Pont,A,Indiana,Big Ten,Lee Corso,W,21,20
+1973-11-17,Northwestern,Big Ten,John Pont,A,Wisconsin,Big Ten,John Jardine,L,34,36
+1973-11-24,Northwestern,Big Ten,John Pont,H,Illinois,Big Ten,Bob Blackman,W,9,6
+1973-09-29,Marshall,Ind,Jack Lengyel,H,Xavier,Ind,Thomas Cecchini,L,28,30
+1973-10-06,Marshall,Ind,Jack Lengyel,A,Miami (OH),MAC,Bill Mallory,L,6,31
+1973-10-13,Marshall,Ind,Jack Lengyel,A,Northern Illinois,Ind,Jerry Ippoliti,W,39,36
+1973-10-20,Marshall,Ind,Jack Lengyel,A,Western Michigan,MAC,Bill Doolittle,L,7,21
+1973-10-27,Marshall,Ind,Jack Lengyel,H,Bowling Green State,MAC,Don Nehlen,L,21,24
+1973-11-03,Marshall,Ind,Jack Lengyel,A,Kent State,MAC,Don James,L,3,35
+1973-11-10,Marshall,Ind,Jack Lengyel,H,Toledo,MAC,Jack Murphy,W,17,14
+1973-11-17,Marshall,Ind,Jack Lengyel,H,Dayton,Ind,Ron Marciniak,W,37,14
+1973-11-22,Marshall,Ind,Jack Lengyel,H,Ohio,MAC,Bill Hess,L,21,35
+1973-09-15,Kansas,Big 8,Don Fambrough,H,Washington State,Pac-8,Jim Sweeney,W,29,8
+1973-09-22,Kansas,Big 8,Don Fambrough,A,Florida State,Ind,Larry Jones,W,28,0
+1973-09-29,Kansas,Big 8,Don Fambrough,H,Minnesota,Big Ten,Cal Stoll,W,34,19
+1973-10-06,Kansas,Big 8,Don Fambrough,A,Tennessee,SEC,Bill Battle,L,27,28
+1973-10-13,Kansas,Big 8,Don Fambrough,H,Kansas State,Big 8,Vince Gibson,W,25,18
+1973-10-20,Kansas,Big 8,Don Fambrough,A,Nebraska,Big 8,Tom Osborne,L,9,10
+1973-10-27,Kansas,Big 8,Don Fambrough,A,Iowa State,Big 8,Earle Bruce,W,22,20
+1973-11-03,Kansas,Big 8,Don Fambrough,H,Oklahoma State,Big 8,Jim Stanley,T,10,10
+1973-11-10,Kansas,Big 8,Don Fambrough,H,Colorado,Big 8,Eddie Crowder,W,17,15
+1973-11-17,Kansas,Big 8,Don Fambrough,A,Oklahoma,Big 8,Barry Switzer,L,20,48
+1973-11-24,Kansas,Big 8,Don Fambrough,H,Missouri,Big 8,Al Onofrio,W,14,13
+1973-12-17,Kansas,Big 8,Don Fambrough,N,North Carolina State,ACC,Lou Holtz,L,18,31
+1973-09-15,Western Michigan,MAC,Bill Doolittle,H,Long Beach State,PCAA,Jim Strangeland,W,13,8
+1973-09-22,Western Michigan,MAC,Bill Doolittle,H,Northern Illinois,Ind,Jerry Ippoliti,W,28,14
+1973-09-29,Western Michigan,MAC,Bill Doolittle,A,Bowling Green State,MAC,Don Nehlen,L,20,31
+1973-10-06,Western Michigan,MAC,Bill Doolittle,H,Kent State,MAC,Don James,L,15,39
+1973-10-13,Western Michigan,MAC,Bill Doolittle,A,Toledo,MAC,Jack Murphy,W,24,22
+1973-10-20,Western Michigan,MAC,Bill Doolittle,H,Marshall,Ind,Jack Lengyel,W,21,7
+1973-10-27,Western Michigan,MAC,Bill Doolittle,A,Ohio,MAC,Bill Hess,L,0,16
+1973-11-03,Western Michigan,MAC,Bill Doolittle,H,Miami (OH),MAC,Bill Mallory,L,9,24
+1973-11-17,Western Michigan,MAC,Bill Doolittle,A,Texas-Arlington,Ind,John Symank,L,12,31
+1973-09-08,William & Mary,Southern,James Root,A,Virginia Tech,Ind,Charles Coffey,W,31,24
+1973-09-15,William & Mary,Southern,James Root,A,North Carolina,ACC,Bill Dooley,L,27,34
+1973-09-22,William & Mary,Southern,James Root,A,Wake Forest,ACC,Chuck Mills,W,15,14
+1973-09-29,William & Mary,Southern,James Root,A,Citadel,Southern,Bobby Ross,W,24,12
+1973-10-06,William & Mary,Southern,James Root,H,Villanova,Ind,Lou Ferry,W,33,21
+1973-10-13,William & Mary,Southern,James Root,A,Vanderbilt,SEC,Steve Sloan,L,7,20
+1973-10-20,William & Mary,Southern,James Root,H,Davidson,Southern,David Fagg,W,51,35
+1973-10-27,William & Mary,Southern,James Root,H,Virginia Military Institute,Southern,Bob Thalman,W,45,14
+1973-11-03,William & Mary,Southern,James Root,A,East Carolina,Southern,Sonny Randle,L,3,34
+1973-11-10,William & Mary,Southern,James Root,H,Colgate,Ind,Neil Wheelwright,L,42,49
+1973-11-17,William & Mary,Southern,James Root,H,Richmond,Southern,Frank Jones,L,0,31
+1973-09-08,UTEP,WAC,Tommy Hudspeth,A,Idaho,Ind,Don Robbins,L,14,62
+1973-09-15,UTEP,WAC,Tommy Hudspeth,H,Pacific,PCAA,Chester Caddas,L,9,34
+1973-09-22,UTEP,WAC,Tommy Hudspeth,A,Utah,WAC,Bill Meek,L,6,82
+1973-09-29,UTEP,WAC,Tommy Hudspeth,A,Wyoming,WAC,Fritz Shurmur,L,8,31
+1973-10-06,UTEP,WAC,Tommy Hudspeth,H,New Mexico State,MVC,Jim Bradley,L,23,27
+1973-10-13,UTEP,WAC,Tommy Hudspeth,H,Lamar,Ind,,L,27,31
+1973-10-20,UTEP,WAC,Tommy Hudspeth,A,New Mexico,WAC,Rudy Feldman,L,0,49
+1973-10-27,UTEP,WAC,Tommy Hudspeth,H,Colorado State,WAC,Sarkis Arslanian,L,24,76
+1973-11-03,UTEP,WAC,Tommy Hudspeth,H,Arizona,WAC,Jim Young,L,18,35
+1973-11-17,UTEP,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,13,54
+1973-12-01,UTEP,WAC,Tommy Hudspeth,H,Brigham Young,WAC,LaVell Edwards,L,0,63
+1973-09-15,LSU,SEC,Charles McClendon,H,Colorado,Big 8,Eddie Crowder,W,17,6
+1973-09-22,LSU,SEC,Charles McClendon,H,Texas A&M,SWC,Emory Bellard,W,28,23
+1973-09-29,LSU,SEC,Charles McClendon,H,Rice,SWC,Al Conover,W,24,9
+1973-10-06,LSU,SEC,Charles McClendon,H,Florida,SEC,Doug Dickey,W,24,3
+1973-10-13,LSU,SEC,Charles McClendon,A,Auburn,SEC,Ralph Jordan,W,20,6
+1973-10-20,LSU,SEC,Charles McClendon,H,Kentucky,SEC,Fran Curci,W,28,21
+1973-10-27,LSU,SEC,Charles McClendon,A,South Carolina,Ind,Paul Dietzel,W,33,29
+1973-11-03,LSU,SEC,Charles McClendon,A,Ole Miss,SEC,John Vaught,W,51,14
+1973-11-17,LSU,SEC,Charles McClendon,H,Mississippi State,SEC,Bob Tyler,W,26,7
+1973-11-22,LSU,SEC,Charles McClendon,H,Alabama,SEC,Bear Bryant,L,7,21
+1973-12-01,LSU,SEC,Charles McClendon,A,Tulane,Ind,Bennie Ellender,L,0,14
+1974-01-01,LSU,SEC,Charles McClendon,N,Penn State,Ind,Joe Paterno,L,9,16
+1973-10-06,Pennsylvania,Ivy,Harry Gamble,H,Brown,Ivy,John Anderson,W,28,20
+1973-10-13,Pennsylvania,Ivy,Harry Gamble,A,Dartmouth,Ivy,John Crouthamel,W,22,16
+1973-10-27,Pennsylvania,Ivy,Harry Gamble,A,Princeton,Ivy,Robert Casciola,W,24,0
+1973-11-03,Pennsylvania,Ivy,Harry Gamble,H,Harvard,Ivy,Joseph Restic,L,30,34
+1973-11-10,Pennsylvania,Ivy,Harry Gamble,A,Yale,Ivy,Carmen Cozza,L,21,24
+1973-11-17,Pennsylvania,Ivy,Harry Gamble,A,Columbia,Ivy,Frank Navarro,W,42,8
+1973-11-24,Pennsylvania,Ivy,Harry Gamble,H,Cornell,Ivy,Jack Musick,W,31,22
+1973-09-15,Tulsa,MVC,F. Dry,H,West Texas A&M,MVC,Gene Mayfield,W,48,3
+1973-09-22,Tulsa,MVC,F. Dry,A,Kansas State,Big 8,Vince Gibson,L,0,21
+1973-09-29,Tulsa,MVC,F. Dry,H,Cincinnati,Ind,Tony Mason,W,16,13
+1973-10-06,Tulsa,MVC,F. Dry,H,Drake,MVC,Jack Wallace,W,44,7
+1973-10-13,Tulsa,MVC,F. Dry,A,Memphis,Ind,Fred Pancoast,L,16,28
+1973-10-20,Tulsa,MVC,F. Dry,H,New Mexico State,MVC,Jim Bradley,W,52,14
+1973-10-27,Tulsa,MVC,F. Dry,A,Arkansas,SWC,Frank Broyles,L,6,20
+1973-11-03,Tulsa,MVC,F. Dry,H,Louisville,MVC,Tom Alley,W,17,9
+1973-11-17,Tulsa,MVC,F. Dry,A,North Texas,MVC,Hayden Fry,W,24,15
+1973-11-24,Tulsa,MVC,F. Dry,A,Wichita State,MVC,Bob Seaman,L,19,28
+1973-12-01,Tulsa,MVC,F. Dry,A,Houston,Ind,Bill Yeoman,L,16,35
+1973-09-15,Iowa,Big Ten,Frank Lauterbur,H,Michigan,Big Ten,Bo Schembechler,L,7,31
+1973-09-22,Iowa,Big Ten,Frank Lauterbur,A,UCLA,Pac-8,Pepper Rodgers,L,18,55
+1973-09-29,Iowa,Big Ten,Frank Lauterbur,A,Penn State,Ind,Joe Paterno,L,8,27
+1973-10-06,Iowa,Big Ten,Frank Lauterbur,H,Arizona,WAC,Jim Young,L,20,23
+1973-10-13,Iowa,Big Ten,Frank Lauterbur,A,Northwestern,Big Ten,John Pont,L,15,31
+1973-10-20,Iowa,Big Ten,Frank Lauterbur,H,Minnesota,Big Ten,Cal Stoll,L,23,31
+1973-10-27,Iowa,Big Ten,Frank Lauterbur,A,Illinois,Big Ten,Bob Blackman,L,0,50
+1973-11-03,Iowa,Big Ten,Frank Lauterbur,H,Purdue,Big Ten,Alex Agase,L,23,48
+1973-11-10,Iowa,Big Ten,Frank Lauterbur,A,Wisconsin,Big Ten,John Jardine,L,7,35
+1973-11-17,Iowa,Big Ten,Frank Lauterbur,A,Ohio State,Big Ten,Woody Hayes,L,13,55
+1973-11-24,Iowa,Big Ten,Frank Lauterbur,H,Michigan State,Big Ten,Dennis Stolz,L,6,15
+1973-10-06,Columbia,Ivy,Frank Navarro,H,Princeton,Ivy,Robert Casciola,W,14,13
+1973-10-13,Columbia,Ivy,Frank Navarro,A,Harvard,Ivy,Joseph Restic,L,0,57
+1973-10-20,Columbia,Ivy,Frank Navarro,H,Yale,Ivy,Carmen Cozza,L,0,29
+1973-10-27,Columbia,Ivy,Frank Navarro,A,Rutgers,Ind,Frank Burns,L,2,28
+1973-11-03,Columbia,Ivy,Frank Navarro,A,Cornell,Ivy,Jack Musick,L,14,44
+1973-11-10,Columbia,Ivy,Frank Navarro,H,Dartmouth,Ivy,John Crouthamel,L,6,24
+1973-11-17,Columbia,Ivy,Frank Navarro,H,Pennsylvania,Ivy,Harry Gamble,L,8,42
+1973-11-24,Columbia,Ivy,Frank Navarro,A,Brown,Ivy,John Anderson,L,14,37
+1973-09-21,Texas,SWC,Darrell Royal,A,Miami (FL),Ind,Pete Elliott,L,15,20
+1973-09-29,Texas,SWC,Darrell Royal,H,Texas Tech,SWC,Jim Carlen,W,28,12
+1973-10-06,Texas,SWC,Darrell Royal,H,Wake Forest,ACC,Chuck Mills,W,41,0
+1973-10-13,Texas,SWC,Darrell Royal,N,Oklahoma,Big 8,Barry Switzer,L,13,52
+1973-10-20,Texas,SWC,Darrell Royal,A,Arkansas,SWC,Frank Broyles,W,34,6
+1973-10-27,Texas,SWC,Darrell Royal,H,Rice,SWC,Al Conover,W,55,13
+1973-11-03,Texas,SWC,Darrell Royal,A,SMU,SWC,Dave Smith,W,42,14
+1973-11-10,Texas,SWC,Darrell Royal,H,Baylor,SWC,Grant Teaff,W,42,6
+1973-11-17,Texas,SWC,Darrell Royal,H,Texas Christian,SWC,Billy Tohill,W,52,7
+1973-11-22,Texas,SWC,Darrell Royal,A,Texas A&M,SWC,Emory Bellard,W,42,13
+1974-01-01,Texas,SWC,Darrell Royal,N,Nebraska,Big 8,Tom Osborne,L,3,19
+1973-09-22,Texas Christian,SWC,Billy Tohill,H,Texas-Arlington,Ind,John Symank,W,49,13
+1973-09-29,Texas Christian,SWC,Billy Tohill,A,Ohio State,Big Ten,Woody Hayes,L,3,37
+1973-10-06,Texas Christian,SWC,Billy Tohill,A,Arkansas,SWC,Frank Broyles,L,5,13
+1973-10-13,Texas Christian,SWC,Billy Tohill,H,Idaho,Ind,Don Robbins,W,30,14
+1973-10-20,Texas Christian,SWC,Billy Tohill,H,Texas A&M,SWC,Emory Bellard,L,16,35
+1973-10-27,Texas Christian,SWC,Billy Tohill,A,Tennessee,SEC,Bill Battle,L,7,39
+1973-11-03,Texas Christian,SWC,Billy Tohill,A,Baylor,SWC,Grant Teaff,W,34,28
+1973-11-10,Texas Christian,SWC,Billy Tohill,H,Texas Tech,SWC,Jim Carlen,L,10,24
+1973-11-17,Texas Christian,SWC,Billy Tohill,A,Texas,SWC,Darrell Royal,L,7,52
+1973-11-24,Texas Christian,SWC,Billy Tohill,H,Rice,SWC,Al Conover,L,9,14
+1973-12-01,Texas Christian,SWC,Billy Tohill,A,SMU,SWC,Dave Smith,L,19,21
+1973-09-15,Tampa,Ind,Dennis Fryzel,H,Toledo,MAC,Jack Murphy,W,35,25
+1973-09-22,Tampa,Ind,Dennis Fryzel,H,Xavier,Ind,Thomas Cecchini,W,34,7
+1973-09-29,Tampa,Ind,Dennis Fryzel,H,Kansas State,Big 8,Vince Gibson,L,0,17
+1973-10-13,Tampa,Ind,Dennis Fryzel,H,Villanova,Ind,Lou Ferry,W,17,10
+1973-10-20,Tampa,Ind,Dennis Fryzel,A,Southern Illinois,Ind,Dick Towers,W,25,23
+1973-11-10,Tampa,Ind,Dennis Fryzel,A,West Texas A&M,MVC,Gene Mayfield,W,28,6
+1973-11-17,Tampa,Ind,Dennis Fryzel,H,Chattanooga,Ind,Joe Morrison,L,24,25
+1973-11-24,Tampa,Ind,Dennis Fryzel,A,Vanderbilt,SEC,Steve Sloan,L,16,18
+1973-12-01,Tampa,Ind,Dennis Fryzel,H,Rutgers,Ind,Frank Burns,W,34,6
+1973-09-22,Air Force,Ind,Ben Martin,H,Oregon,Pac-8,Dick Enright,W,24,17
+1973-09-29,Air Force,Ind,Ben Martin,H,New Mexico,WAC,Rudy Feldman,W,10,6
+1973-10-06,Air Force,Ind,Ben Martin,H,Penn State,Ind,Joe Paterno,L,9,19
+1973-10-13,Air Force,Ind,Ben Martin,A,Colorado,Big 8,Eddie Crowder,L,17,38
+1973-10-20,Air Force,Ind,Ben Martin,A,Navy,Ind,George Welsh,L,6,42
+1973-10-27,Air Force,Ind,Ben Martin,H,Davidson,Southern,David Fagg,W,41,19
+1973-11-03,Air Force,Ind,Ben Martin,H,Army,Ind,Thomas Cahill,W,43,10
+1973-11-10,Air Force,Ind,Ben Martin,H,Rutgers,Ind,Frank Burns,W,31,14
+1973-11-17,Air Force,Ind,Ben Martin,A,Arizona,WAC,Jim Young,W,27,26
+1973-11-22,Air Force,Ind,Ben Martin,A,Notre Dame,Ind,Ara Parseghian,L,15,48
+1973-09-21,Miami (FL),Ind,Pete Elliott,H,Texas,SWC,Darrell Royal,W,20,15
+1973-09-29,Miami (FL),Ind,Pete Elliott,A,Florida State,Ind,Larry Jones,W,14,10
+1973-10-06,Miami (FL),Ind,Pete Elliott,A,Oklahoma,Big 8,Barry Switzer,L,20,24
+1973-10-12,Miami (FL),Ind,Pete Elliott,H,Boston College,Ind,Joseph Yukica,W,15,10
+1973-10-19,Miami (FL),Ind,Pete Elliott,H,Houston,Ind,Bill Yeoman,L,7,30
+1973-10-27,Miami (FL),Ind,Pete Elliott,A,Syracuse,Ind,Ben Schwartzwalder,W,34,23
+1973-11-02,Miami (FL),Ind,Pete Elliott,H,West Virginia,Ind,Bobby Bowden,L,14,20
+1973-11-10,Miami (FL),Ind,Pete Elliott,A,Army,Ind,Thomas Cahill,W,19,7
+1973-11-17,Miami (FL),Ind,Pete Elliott,A,Alabama,SEC,Bear Bryant,L,13,43
+1973-11-24,Miami (FL),Ind,Pete Elliott,H,Florida,SEC,Doug Dickey,L,7,14
+1973-12-01,Miami (FL),Ind,Pete Elliott,H,Notre Dame,Ind,Ara Parseghian,L,0,44
+1973-09-15,Richmond,Southern,Frank Jones,A,Davidson,Southern,David Fagg,W,42,0
+1973-09-22,Richmond,Southern,Frank Jones,H,Virginia Military Institute,Southern,Bob Thalman,W,35,0
+1973-09-29,Richmond,Southern,Frank Jones,H,Wake Forest,ACC,Chuck Mills,W,41,0
+1973-10-06,Richmond,Southern,Frank Jones,A,Furman,Southern,Art Baker,W,20,17
+1973-10-13,Richmond,Southern,Frank Jones,H,Southern Mississippi,Ind,P.W. Underwood,W,42,20
+1973-10-20,Richmond,Southern,Frank Jones,H,West Virginia,Ind,Bobby Bowden,W,38,17
+1973-11-03,Richmond,Southern,Frank Jones,H,Citadel,Southern,Bobby Ross,W,27,0
+1973-11-10,Richmond,Southern,Frank Jones,A,East Carolina,Southern,Sonny Randle,L,14,44
+1973-11-17,Richmond,Southern,Frank Jones,A,William & Mary,Southern,James Root,W,31,0
+1973-09-15,Oregon,Pac-8,Dick Enright,H,Arizona State,WAC,Frank Kush,L,20,26
+1973-09-22,Oregon,Pac-8,Dick Enright,A,Air Force,Ind,Ben Martin,L,17,24
+1973-09-29,Oregon,Pac-8,Dick Enright,H,Utah,WAC,Bill Meek,L,17,35
+1973-10-06,Oregon,Pac-8,Dick Enright,A,Michigan,Big Ten,Bo Schembechler,L,0,24
+1973-10-13,Oregon,Pac-8,Dick Enright,H,California,Pac-8,Mike White,W,41,10
+1973-10-20,Oregon,Pac-8,Dick Enright,A,USC,Pac-8,John McKay,L,10,31
+1973-10-27,Oregon,Pac-8,Dick Enright,H,Washington,Pac-8,Jim Owens,W,58,0
+1973-11-03,Oregon,Pac-8,Dick Enright,A,Washington State,Pac-8,Jim Sweeney,L,14,21
+1973-11-10,Oregon,Pac-8,Dick Enright,H,UCLA,Pac-8,Pepper Rodgers,L,7,27
+1973-11-17,Oregon,Pac-8,Dick Enright,A,Stanford,Pac-8,Jack Christiansen,L,7,24
+1973-11-24,Oregon,Pac-8,Dick Enright,H,Oregon State,Pac-8,Dee Andros,L,14,17
+1973-10-06,Brown,Ivy,John Anderson,A,Pennsylvania,Ivy,Harry Gamble,L,20,28
+1973-10-13,Brown,Ivy,John Anderson,H,Yale,Ivy,Carmen Cozza,W,34,25
+1973-10-20,Brown,Ivy,John Anderson,H,Dartmouth,Ivy,John Crouthamel,L,16,28
+1973-11-03,Brown,Ivy,John Anderson,A,Princeton,Ivy,Robert Casciola,W,7,6
+1973-11-10,Brown,Ivy,John Anderson,A,Cornell,Ivy,Jack Musick,W,17,7
+1973-11-17,Brown,Ivy,John Anderson,H,Harvard,Ivy,Joseph Restic,L,32,35
+1973-11-24,Brown,Ivy,John Anderson,H,Columbia,Ivy,Frank Navarro,W,37,14
+1973-09-15,Appalachian State,Southern,Jim Brakefield,A,Furman,Southern,Art Baker,L,0,17
+1973-09-29,Appalachian State,Southern,Jim Brakefield,H,Davidson,Southern,David Fagg,W,24,8
+1973-10-27,Appalachian State,Southern,Jim Brakefield,H,Citadel,Southern,Bobby Ross,W,31,6
+1973-11-10,Appalachian State,Southern,Jim Brakefield,A,South Carolina,Ind,Paul Dietzel,L,14,35
+1973-11-17,Appalachian State,Southern,Jim Brakefield,H,East Carolina,Southern,Sonny Randle,L,14,49
+1973-09-15,Tennessee,SEC,Bill Battle,H,Duke,ACC,Mike McGee,W,21,17
+1973-09-22,Tennessee,SEC,Bill Battle,A,Army,Ind,Thomas Cahill,W,37,18
+1973-09-29,Tennessee,SEC,Bill Battle,H,Auburn,SEC,Ralph Jordan,W,21,0
+1973-10-06,Tennessee,SEC,Bill Battle,H,Kansas,Big 8,Don Fambrough,W,28,27
+1973-10-13,Tennessee,SEC,Bill Battle,H,Georgia Tech,Ind,Bill Fulcher,W,20,14
+1973-10-20,Tennessee,SEC,Bill Battle,A,Alabama,SEC,Bear Bryant,L,21,42
+1973-10-27,Tennessee,SEC,Bill Battle,H,Texas Christian,SWC,Billy Tohill,W,39,7
+1973-11-03,Tennessee,SEC,Bill Battle,H,Georgia,SEC,Vince Dooley,L,31,35
+1973-11-17,Tennessee,SEC,Bill Battle,A,Ole Miss,SEC,John Vaught,L,18,28
+1973-11-24,Tennessee,SEC,Bill Battle,A,Kentucky,SEC,Fran Curci,W,16,14
+1973-12-01,Tennessee,SEC,Bill Battle,H,Vanderbilt,SEC,Steve Sloan,W,20,17
+1973-12-29,Tennessee,SEC,Bill Battle,N,Texas Tech,SWC,Jim Carlen,L,19,28
+1973-09-08,Texas-Arlington,Ind,John Symank,N,North Texas,MVC,Hayden Fry,W,31,7
+1973-09-15,Texas-Arlington,Ind,John Symank,A,Oklahoma State,Big 8,Jim Stanley,L,7,56
+1973-09-22,Texas-Arlington,Ind,John Symank,A,Texas Christian,SWC,Billy Tohill,L,13,49
+1973-10-20,Texas-Arlington,Ind,John Symank,H,Southern Mississippi,Ind,P.W. Underwood,L,14,41
+1973-10-27,Texas-Arlington,Ind,John Symank,A,Louisiana,Ind,Russ Faulkinberry,W,31,22
+1973-11-17,Texas-Arlington,Ind,John Symank,H,Western Michigan,MAC,Bill Doolittle,W,31,12
+1973-11-24,Texas-Arlington,Ind,John Symank,H,Lamar,Ind,,L,3,10
+1973-09-15,Oregon State,Pac-8,Dee Andros,A,Auburn,SEC,Ralph Jordan,L,9,18
+1973-09-22,Oregon State,Pac-8,Dee Andros,H,SMU,SWC,Dave Smith,L,16,35
+1973-09-29,Oregon State,Pac-8,Dee Andros,A,Brigham Young,WAC,LaVell Edwards,L,14,37
+1973-10-06,Oregon State,Pac-8,Dee Andros,H,USC,Pac-8,John McKay,L,7,21
+1973-10-13,Oregon State,Pac-8,Dee Andros,A,Washington,Pac-8,Jim Owens,W,31,7
+1973-10-20,Oregon State,Pac-8,Dee Andros,A,California,Pac-8,Mike White,L,14,24
+1973-10-27,Oregon State,Pac-8,Dee Andros,H,Arizona State,WAC,Frank Kush,L,14,44
+1973-11-03,Oregon State,Pac-8,Dee Andros,H,Stanford,Pac-8,Jack Christiansen,L,23,24
+1973-11-10,Oregon State,Pac-8,Dee Andros,H,Washington State,Pac-8,Jim Sweeney,L,7,13
+1973-11-17,Oregon State,Pac-8,Dee Andros,A,UCLA,Pac-8,Pepper Rodgers,L,14,56
+1973-11-24,Oregon State,Pac-8,Dee Andros,A,Oregon,Pac-8,Dick Enright,W,17,14
+1973-09-15,Alabama,SEC,Bear Bryant,H,California,Pac-8,Mike White,W,66,0
+1973-09-22,Alabama,SEC,Bear Bryant,A,Kentucky,SEC,Fran Curci,W,28,14
+1973-09-29,Alabama,SEC,Bear Bryant,A,Vanderbilt,SEC,Steve Sloan,W,44,0
+1973-10-06,Alabama,SEC,Bear Bryant,H,Georgia,SEC,Vince Dooley,W,28,14
+1973-10-13,Alabama,SEC,Bear Bryant,A,Florida,SEC,Doug Dickey,W,35,14
+1973-10-20,Alabama,SEC,Bear Bryant,H,Tennessee,SEC,Bill Battle,W,42,21
+1973-10-27,Alabama,SEC,Bear Bryant,H,Virginia Tech,Ind,Charles Coffey,W,77,6
+1973-11-03,Alabama,SEC,Bear Bryant,A,Mississippi State,SEC,Bob Tyler,W,35,0
+1973-11-17,Alabama,SEC,Bear Bryant,H,Miami (FL),Ind,Pete Elliott,W,43,13
+1973-11-22,Alabama,SEC,Bear Bryant,A,LSU,SEC,Charles McClendon,W,21,7
+1973-12-01,Alabama,SEC,Bear Bryant,N,Auburn,SEC,Ralph Jordan,W,35,0
+1973-12-31,Alabama,SEC,Bear Bryant,N,Notre Dame,Ind,Ara Parseghian,L,23,24
+1973-09-15,Dayton,Ind,Ron Marciniak,H,Miami (OH),MAC,Bill Mallory,L,0,32
+1973-09-22,Dayton,Ind,Ron Marciniak,H,Bowling Green State,MAC,Don Nehlen,L,16,31
+1973-10-06,Dayton,Ind,Ron Marciniak,H,Southern Illinois,Ind,Dick Towers,W,23,19
+1973-10-20,Dayton,Ind,Ron Marciniak,A,Toledo,MAC,Jack Murphy,L,10,14
+1973-10-27,Dayton,Ind,Ron Marciniak,H,Drake,MVC,Jack Wallace,W,16,9
+1973-11-03,Dayton,Ind,Ron Marciniak,A,Xavier,Ind,Thomas Cecchini,T,28,28
+1973-11-10,Dayton,Ind,Ron Marciniak,A,Louisville,MVC,Tom Alley,W,10,9
+1973-11-17,Dayton,Ind,Ron Marciniak,A,Marshall,Ind,Jack Lengyel,L,14,37
+1973-09-15,Purdue,Big Ten,Alex Agase,A,Wisconsin,Big Ten,John Jardine,W,14,13
+1973-09-22,Purdue,Big Ten,Alex Agase,H,Miami (OH),MAC,Bill Mallory,L,19,24
+1973-09-29,Purdue,Big Ten,Alex Agase,H,Notre Dame,Ind,Ara Parseghian,L,7,20
+1973-10-06,Purdue,Big Ten,Alex Agase,H,Duke,ACC,Mike McGee,W,27,7
+1973-10-13,Purdue,Big Ten,Alex Agase,A,Illinois,Big Ten,Bob Blackman,L,13,15
+1973-10-20,Purdue,Big Ten,Alex Agase,H,Northwestern,Big Ten,John Pont,W,21,10
+1973-10-27,Purdue,Big Ten,Alex Agase,H,Michigan State,Big Ten,Dennis Stolz,L,7,10
+1973-11-03,Purdue,Big Ten,Alex Agase,A,Iowa,Big Ten,Frank Lauterbur,W,48,23
+1973-11-10,Purdue,Big Ten,Alex Agase,A,Minnesota,Big Ten,Cal Stoll,L,7,34
+1973-11-17,Purdue,Big Ten,Alex Agase,H,Michigan,Big Ten,Bo Schembechler,L,9,34
+1973-11-24,Purdue,Big Ten,Alex Agase,A,Indiana,Big Ten,Lee Corso,W,28,23
+1973-09-08,Nebraska,Big 8,Tom Osborne,H,UCLA,Pac-8,Pepper Rodgers,W,40,13
+1973-09-22,Nebraska,Big 8,Tom Osborne,H,North Carolina State,ACC,Lou Holtz,W,31,14
+1973-09-29,Nebraska,Big 8,Tom Osborne,H,Wisconsin,Big Ten,John Jardine,W,20,16
+1973-10-06,Nebraska,Big 8,Tom Osborne,A,Minnesota,Big Ten,Cal Stoll,W,48,7
+1973-10-13,Nebraska,Big 8,Tom Osborne,A,Missouri,Big 8,Al Onofrio,L,12,13
+1973-10-20,Nebraska,Big 8,Tom Osborne,H,Kansas,Big 8,Don Fambrough,W,10,9
+1973-10-27,Nebraska,Big 8,Tom Osborne,A,Oklahoma State,Big 8,Jim Stanley,T,17,17
+1973-11-03,Nebraska,Big 8,Tom Osborne,H,Colorado,Big 8,Eddie Crowder,W,28,16
+1973-11-10,Nebraska,Big 8,Tom Osborne,H,Iowa State,Big 8,Earle Bruce,W,31,7
+1973-11-17,Nebraska,Big 8,Tom Osborne,A,Kansas State,Big 8,Vince Gibson,W,50,21
+1973-11-23,Nebraska,Big 8,Tom Osborne,A,Oklahoma,Big 8,Barry Switzer,L,0,27
+1974-01-01,Nebraska,Big 8,Tom Osborne,N,Texas,SWC,Darrell Royal,W,19,3
+1973-09-15,West Virginia,Ind,Bobby Bowden,A,Maryland,ACC,Jerry Claiborne,W,20,13
+1973-09-22,West Virginia,Ind,Bobby Bowden,H,Virginia Tech,Ind,Charles Coffey,W,24,10
+1973-09-29,West Virginia,Ind,Bobby Bowden,A,Illinois,Big Ten,Bob Blackman,W,17,10
+1973-10-06,West Virginia,Ind,Bobby Bowden,H,Indiana,Big Ten,Lee Corso,L,14,28
+1973-10-13,West Virginia,Ind,Bobby Bowden,H,Pitt,Ind,Johnny Majors,L,7,35
+1973-10-20,West Virginia,Ind,Bobby Bowden,A,Richmond,Southern,Frank Jones,L,17,38
+1973-10-27,West Virginia,Ind,Bobby Bowden,A,Penn State,Ind,Joe Paterno,L,14,62
+1973-11-02,West Virginia,Ind,Bobby Bowden,A,Miami (FL),Ind,Pete Elliott,W,20,14
+1973-11-10,West Virginia,Ind,Bobby Bowden,H,Boston College,Ind,Joseph Yukica,L,13,25
+1973-11-17,West Virginia,Ind,Bobby Bowden,H,Virginia,ACC,Don Lawrence,W,42,17
+1973-11-24,West Virginia,Ind,Bobby Bowden,A,Syracuse,Ind,Ben Schwartzwalder,W,24,14
+1973-10-13,Harvard,Ivy,Joseph Restic,H,Columbia,Ivy,Frank Navarro,W,57,0
+1973-10-20,Harvard,Ivy,Joseph Restic,A,Cornell,Ivy,Jack Musick,W,21,15
+1973-10-27,Harvard,Ivy,Joseph Restic,H,Dartmouth,Ivy,John Crouthamel,L,18,24
+1973-11-03,Harvard,Ivy,Joseph Restic,A,Pennsylvania,Ivy,Harry Gamble,W,34,30
+1973-11-10,Harvard,Ivy,Joseph Restic,H,Princeton,Ivy,Robert Casciola,W,19,14
+1973-11-17,Harvard,Ivy,Joseph Restic,A,Brown,Ivy,John Anderson,W,35,32
+1973-11-24,Harvard,Ivy,Joseph Restic,A,Yale,Ivy,Carmen Cozza,L,0,35
+1973-09-15,Oklahoma State,Big 8,Jim Stanley,H,Texas-Arlington,Ind,John Symank,W,56,7
+1973-09-22,Oklahoma State,Big 8,Jim Stanley,A,Arkansas,SWC,Frank Broyles,W,38,6
+1973-09-29,Oklahoma State,Big 8,Jim Stanley,H,Southern Illinois,Ind,Dick Towers,W,70,7
+1973-10-06,Oklahoma State,Big 8,Jim Stanley,H,Texas Tech,SWC,Jim Carlen,L,7,20
+1973-10-20,Oklahoma State,Big 8,Jim Stanley,A,Missouri,Big 8,Al Onofrio,L,9,13
+1973-10-27,Oklahoma State,Big 8,Jim Stanley,H,Nebraska,Big 8,Tom Osborne,T,17,17
+1973-11-03,Oklahoma State,Big 8,Jim Stanley,A,Kansas,Big 8,Don Fambrough,T,10,10
+1973-11-10,Oklahoma State,Big 8,Jim Stanley,H,Kansas State,Big 8,Vince Gibson,W,28,9
+1973-11-17,Oklahoma State,Big 8,Jim Stanley,A,Colorado,Big 8,Eddie Crowder,W,38,24
+1973-11-24,Oklahoma State,Big 8,Jim Stanley,A,Iowa State,Big 8,Earle Bruce,L,12,28
+1973-12-01,Oklahoma State,Big 8,Jim Stanley,H,Oklahoma,Big 8,Barry Switzer,L,18,45
+1973-09-15,Colorado,Big 8,Eddie Crowder,A,LSU,SEC,Charles McClendon,L,6,17
+1973-09-22,Colorado,Big 8,Eddie Crowder,A,Wisconsin,Big Ten,John Jardine,W,28,25
+1973-09-29,Colorado,Big 8,Eddie Crowder,H,Baylor,SWC,Grant Teaff,W,52,28
+1973-10-06,Colorado,Big 8,Eddie Crowder,A,Iowa State,Big 8,Earle Bruce,W,23,16
+1973-10-13,Colorado,Big 8,Eddie Crowder,H,Air Force,Ind,Ben Martin,W,38,17
+1973-10-20,Colorado,Big 8,Eddie Crowder,A,Oklahoma,Big 8,Barry Switzer,L,7,34
+1973-10-27,Colorado,Big 8,Eddie Crowder,H,Missouri,Big 8,Al Onofrio,W,17,13
+1973-11-03,Colorado,Big 8,Eddie Crowder,A,Nebraska,Big 8,Tom Osborne,L,16,28
+1973-11-10,Colorado,Big 8,Eddie Crowder,A,Kansas,Big 8,Don Fambrough,L,15,17
+1973-11-17,Colorado,Big 8,Eddie Crowder,H,Oklahoma State,Big 8,Jim Stanley,L,24,38
+1973-11-24,Colorado,Big 8,Eddie Crowder,H,Kansas State,Big 8,Vince Gibson,L,14,17
+1973-09-08,Colorado State,WAC,Sarkis Arslanian,H,Arizona,WAC,Jim Young,L,0,31
+1973-09-15,Colorado State,WAC,Sarkis Arslanian,A,Brigham Young,WAC,LaVell Edwards,W,21,13
+1973-09-22,Colorado State,WAC,Sarkis Arslanian,H,New Mexico State,MVC,Jim Bradley,W,31,27
+1973-09-29,Colorado State,WAC,Sarkis Arslanian,A,Arizona State,WAC,Frank Kush,L,14,67
+1973-10-06,Colorado State,WAC,Sarkis Arslanian,A,Idaho,Ind,Don Robbins,W,33,30
+1973-10-13,Colorado State,WAC,Sarkis Arslanian,H,Utah State,Ind,Phil Krueger,L,18,34
+1973-10-20,Colorado State,WAC,Sarkis Arslanian,A,Wyoming,WAC,Fritz Shurmur,L,3,35
+1973-10-27,Colorado State,WAC,Sarkis Arslanian,A,UTEP,WAC,Tommy Hudspeth,W,76,24
+1973-11-03,Colorado State,WAC,Sarkis Arslanian,H,Toledo,MAC,Jack Murphy,W,21,14
+1973-11-10,Colorado State,WAC,Sarkis Arslanian,H,Houston,Ind,Bill Yeoman,L,20,28
+1973-11-24,Colorado State,WAC,Sarkis Arslanian,H,New Mexico,WAC,Rudy Feldman,L,13,30
+1973-09-15,Rice,SWC,Al Conover,A,Houston,Ind,Bill Yeoman,L,6,24
+1973-09-29,Rice,SWC,Al Conover,A,LSU,SEC,Charles McClendon,L,9,24
+1973-10-13,Rice,SWC,Al Conover,H,Notre Dame,Ind,Ara Parseghian,L,0,28
+1973-10-20,Rice,SWC,Al Conover,H,SMU,SWC,Dave Smith,L,16,27
+1973-10-27,Rice,SWC,Al Conover,A,Texas,SWC,Darrell Royal,L,13,55
+1973-11-03,Rice,SWC,Al Conover,A,Texas Tech,SWC,Jim Carlen,L,6,19
+1973-11-10,Rice,SWC,Al Conover,H,Arkansas,SWC,Frank Broyles,W,17,7
+1973-11-17,Rice,SWC,Al Conover,H,Texas A&M,SWC,Emory Bellard,W,24,20
+1973-11-24,Rice,SWC,Al Conover,A,Texas Christian,SWC,Billy Tohill,W,14,9
+1973-12-01,Rice,SWC,Al Conover,H,Baylor,SWC,Grant Teaff,W,27,0
+1973-09-15,Texas A&M,SWC,Emory Bellard,H,Wichita State,MVC,Bob Seaman,W,48,0
+1973-09-22,Texas A&M,SWC,Emory Bellard,A,LSU,SEC,Charles McClendon,L,23,28
+1973-09-29,Texas A&M,SWC,Emory Bellard,H,Boston College,Ind,Joseph Yukica,L,24,32
+1973-10-06,Texas A&M,SWC,Emory Bellard,A,Clemson,ACC,Red Parker,W,30,15
+1973-10-13,Texas A&M,SWC,Emory Bellard,A,Texas Tech,SWC,Jim Carlen,L,16,28
+1973-10-20,Texas A&M,SWC,Emory Bellard,A,Texas Christian,SWC,Billy Tohill,W,35,16
+1973-10-27,Texas A&M,SWC,Emory Bellard,H,Baylor,SWC,Grant Teaff,W,28,22
+1973-11-03,Texas A&M,SWC,Emory Bellard,A,Arkansas,SWC,Frank Broyles,L,10,14
+1973-11-10,Texas A&M,SWC,Emory Bellard,H,SMU,SWC,Dave Smith,W,45,10
+1973-11-17,Texas A&M,SWC,Emory Bellard,A,Rice,SWC,Al Conover,L,20,24
+1973-11-22,Texas A&M,SWC,Emory Bellard,H,Texas,SWC,Darrell Royal,L,13,42
+1973-09-15,Davidson,Southern,David Fagg,H,Richmond,Southern,Frank Jones,L,0,42
+1973-09-29,Davidson,Southern,David Fagg,A,Appalachian State,Southern,Jim Brakefield,L,8,24
+1973-10-06,Davidson,Southern,David Fagg,H,East Carolina,Southern,Sonny Randle,L,0,45
+1973-10-13,Davidson,Southern,David Fagg,A,Furman,Southern,Art Baker,L,7,38
+1973-10-20,Davidson,Southern,David Fagg,A,William & Mary,Southern,James Root,L,35,51
+1973-10-27,Davidson,Southern,David Fagg,A,Air Force,Ind,Ben Martin,L,19,41
+1973-11-03,Davidson,Southern,David Fagg,A,Virginia Military Institute,Southern,Bob Thalman,L,17,24
+1973-11-17,Davidson,Southern,David Fagg,A,Citadel,Southern,Bobby Ross,W,19,16
+1973-09-15,Michigan State,Big Ten,Dennis Stolz,A,Northwestern,Big Ten,John Pont,L,10,14
+1973-09-22,Michigan State,Big Ten,Dennis Stolz,A,Syracuse,Ind,Ben Schwartzwalder,W,14,8
+1973-09-29,Michigan State,Big Ten,Dennis Stolz,H,UCLA,Pac-8,Pepper Rodgers,L,21,34
+1973-10-06,Michigan State,Big Ten,Dennis Stolz,A,Notre Dame,Ind,Ara Parseghian,L,10,14
+1973-10-13,Michigan State,Big Ten,Dennis Stolz,H,Michigan,Big Ten,Bo Schembechler,L,0,31
+1973-10-20,Michigan State,Big Ten,Dennis Stolz,H,Illinois,Big Ten,Bob Blackman,L,3,6
+1973-10-27,Michigan State,Big Ten,Dennis Stolz,A,Purdue,Big Ten,Alex Agase,W,10,7
+1973-11-03,Michigan State,Big Ten,Dennis Stolz,H,Wisconsin,Big Ten,John Jardine,W,21,0
+1973-11-10,Michigan State,Big Ten,Dennis Stolz,A,Ohio State,Big Ten,Woody Hayes,L,0,35
+1973-11-17,Michigan State,Big Ten,Dennis Stolz,H,Indiana,Big Ten,Lee Corso,W,10,9
+1973-11-24,Michigan State,Big Ten,Dennis Stolz,A,Iowa,Big Ten,Frank Lauterbur,W,15,6
+1973-09-15,Boston College,Ind,Joseph Yukica,H,Temple,Ind,Wayne Hardin,W,45,0
+1973-09-22,Boston College,Ind,Joseph Yukica,A,Tulane,Ind,Bennie Ellender,L,16,21
+1973-09-29,Boston College,Ind,Joseph Yukica,A,Texas A&M,SWC,Emory Bellard,W,32,24
+1973-10-06,Boston College,Ind,Joseph Yukica,H,Navy,Ind,George Welsh,W,44,7
+1973-10-12,Boston College,Ind,Joseph Yukica,A,Miami (FL),Ind,Pete Elliott,L,10,15
+1973-10-20,Boston College,Ind,Joseph Yukica,H,Pitt,Ind,Johnny Majors,L,14,28
+1973-10-27,Boston College,Ind,Joseph Yukica,H,Villanova,Ind,Lou Ferry,W,11,7
+1973-11-10,Boston College,Ind,Joseph Yukica,A,West Virginia,Ind,Bobby Bowden,W,25,13
+1973-11-17,Boston College,Ind,Joseph Yukica,A,Syracuse,Ind,Ben Schwartzwalder,L,13,24
+1973-12-01,Boston College,Ind,Joseph Yukica,A,Holy Cross,Ind,Edward Doherty,W,42,21
+1973-09-29,Colgate,Ind,Neil Wheelwright,H,Cornell,Ivy,Jack Musick,L,21,35
+1973-10-06,Colgate,Ind,Neil Wheelwright,A,Yale,Ivy,Carmen Cozza,L,18,24
+1973-10-13,Colgate,Ind,Neil Wheelwright,A,Holy Cross,Ind,Edward Doherty,W,22,21
+1973-10-20,Colgate,Ind,Neil Wheelwright,A,Princeton,Ivy,Robert Casciola,L,21,37
+1973-11-10,Colgate,Ind,Neil Wheelwright,A,William & Mary,Southern,James Root,W,49,42
+1973-11-24,Colgate,Ind,Neil Wheelwright,A,Rutgers,Ind,Frank Burns,W,42,0
+1973-09-01,New Mexico State,MVC,Jim Bradley,A,Drake,MVC,Jack Wallace,W,27,12
+1973-09-08,New Mexico State,MVC,Jim Bradley,H,Lamar,Ind,,W,24,7
+1973-09-15,New Mexico State,MVC,Jim Bradley,A,New Mexico,WAC,Rudy Feldman,L,6,48
+1973-09-22,New Mexico State,MVC,Jim Bradley,A,Colorado State,WAC,Sarkis Arslanian,L,27,31
+1973-09-29,New Mexico State,MVC,Jim Bradley,H,Wichita State,MVC,Bob Seaman,W,44,18
+1973-10-06,New Mexico State,MVC,Jim Bradley,A,UTEP,WAC,Tommy Hudspeth,W,27,23
+1973-10-13,New Mexico State,MVC,Jim Bradley,A,San Diego State,PCAA,Claude Gilbert,L,0,27
+1973-10-20,New Mexico State,MVC,Jim Bradley,A,Tulsa,MVC,F. Dry,L,14,52
+1973-10-27,New Mexico State,MVC,Jim Bradley,H,North Texas,MVC,Hayden Fry,L,7,27
+1973-11-03,New Mexico State,MVC,Jim Bradley,H,West Texas A&M,MVC,Gene Mayfield,W,56,14
+1973-11-10,New Mexico State,MVC,Jim Bradley,H,Utah State,Ind,Phil Krueger,L,12,40
+1973-09-15,Minnesota,Big Ten,Cal Stoll,A,Ohio State,Big Ten,Woody Hayes,L,7,56
+1973-09-29,Minnesota,Big Ten,Cal Stoll,A,Kansas,Big 8,Don Fambrough,L,19,34
+1973-10-06,Minnesota,Big Ten,Cal Stoll,H,Nebraska,Big 8,Tom Osborne,L,7,48
+1973-10-13,Minnesota,Big Ten,Cal Stoll,H,Indiana,Big Ten,Lee Corso,W,24,3
+1973-10-20,Minnesota,Big Ten,Cal Stoll,A,Iowa,Big Ten,Frank Lauterbur,W,31,23
+1973-10-27,Minnesota,Big Ten,Cal Stoll,H,Michigan,Big Ten,Bo Schembechler,L,7,34
+1973-11-03,Minnesota,Big Ten,Cal Stoll,A,Northwestern,Big Ten,John Pont,W,52,43
+1973-11-10,Minnesota,Big Ten,Cal Stoll,H,Purdue,Big Ten,Alex Agase,W,34,7
+1973-11-17,Minnesota,Big Ten,Cal Stoll,A,Illinois,Big Ten,Bob Blackman,W,19,16
+1973-11-24,Minnesota,Big Ten,Cal Stoll,H,Wisconsin,Big Ten,John Jardine,W,19,17
+1973-09-08,Ole Miss,SEC,John Vaught,H,Villanova,Ind,Lou Ferry,W,24,6
+1973-09-15,Ole Miss,SEC,John Vaught,A,Missouri,Big 8,Al Onofrio,L,0,17
+1973-09-22,Ole Miss,SEC,John Vaught,H,Memphis,Ind,Fred Pancoast,L,13,17
+1973-09-29,Ole Miss,SEC,John Vaught,H,Southern Mississippi,Ind,P.W. Underwood,W,41,0
+1973-10-06,Ole Miss,SEC,John Vaught,A,Auburn,SEC,Ralph Jordan,L,7,14
+1973-10-13,Ole Miss,SEC,John Vaught,A,Georgia,SEC,Vince Dooley,L,0,20
+1973-10-20,Ole Miss,SEC,John Vaught,A,Florida,SEC,Doug Dickey,W,13,10
+1973-10-27,Ole Miss,SEC,John Vaught,H,Vanderbilt,SEC,Steve Sloan,W,24,14
+1973-11-03,Ole Miss,SEC,John Vaught,H,LSU,SEC,Charles McClendon,L,14,51
+1973-11-17,Ole Miss,SEC,John Vaught,H,Tennessee,SEC,Bill Battle,W,28,18
+1973-11-24,Ole Miss,SEC,John Vaught,N,Mississippi State,SEC,Bob Tyler,W,38,10
+1973-09-15,Duke,ACC,Mike McGee,A,Tennessee,SEC,Bill Battle,L,17,21
+1973-09-22,Duke,ACC,Mike McGee,H,Washington,Pac-8,Jim Owens,W,23,21
+1973-09-29,Duke,ACC,Mike McGee,A,Virginia,ACC,Don Lawrence,L,3,7
+1973-10-06,Duke,ACC,Mike McGee,A,Purdue,Big Ten,Alex Agase,L,7,27
+1973-10-13,Duke,ACC,Mike McGee,H,Tulane,Ind,Bennie Ellender,L,17,24
+1973-10-20,Duke,ACC,Mike McGee,H,Clemson,ACC,Red Parker,L,8,24
+1973-10-27,Duke,ACC,Mike McGee,N,Maryland,ACC,Jerry Claiborne,L,10,30
+1973-11-03,Duke,ACC,Mike McGee,A,Georgia Tech,Ind,Bill Fulcher,L,10,12
+1973-11-10,Duke,ACC,Mike McGee,A,Wake Forest,ACC,Chuck Mills,T,7,7
+1973-11-17,Duke,ACC,Mike McGee,H,North Carolina State,ACC,Lou Holtz,L,3,21
+1973-11-24,Duke,ACC,Mike McGee,H,North Carolina,ACC,Bill Dooley,W,27,10
+1973-09-15,Kent State,MAC,Don James,H,Louisville,MVC,Tom Alley,W,10,3
+1973-09-22,Kent State,MAC,Don James,A,Ohio,MAC,Bill Hess,W,35,7
+1973-09-29,Kent State,MAC,Don James,A,San Diego State,PCAA,Claude Gilbert,L,9,17
+1973-10-06,Kent State,MAC,Don James,A,Western Michigan,MAC,Bill Doolittle,W,39,15
+1973-10-13,Kent State,MAC,Don James,H,Bowling Green State,MAC,Don Nehlen,W,21,7
+1973-10-27,Kent State,MAC,Don James,A,Utah State,Ind,Phil Krueger,W,27,16
+1973-11-03,Kent State,MAC,Don James,H,Marshall,Ind,Jack Lengyel,W,35,3
+1973-11-10,Kent State,MAC,Don James,H,Miami (OH),MAC,Bill Mallory,L,10,20
+1973-11-17,Kent State,MAC,Don James,A,Toledo,MAC,Jack Murphy,W,52,16
+1973-09-15,Navy,Ind,George Welsh,A,Virginia Military Institute,Southern,Bob Thalman,W,37,6
+1973-09-22,Navy,Ind,George Welsh,H,Penn State,Ind,Joe Paterno,L,0,39
+1973-09-29,Navy,Ind,George Welsh,A,Michigan,Big Ten,Bo Schembechler,L,0,14
+1973-10-06,Navy,Ind,George Welsh,A,Boston College,Ind,Joseph Yukica,L,7,44
+1973-10-13,Navy,Ind,George Welsh,H,Syracuse,Ind,Ben Schwartzwalder,W,23,14
+1973-10-20,Navy,Ind,George Welsh,H,Air Force,Ind,Ben Martin,W,42,6
+1973-10-27,Navy,Ind,George Welsh,A,Pitt,Ind,Johnny Majors,L,17,22
+1973-11-03,Navy,Ind,George Welsh,A,Notre Dame,Ind,Ara Parseghian,L,7,44
+1973-11-10,Navy,Ind,George Welsh,A,Tulane,Ind,Bennie Ellender,L,15,17
+1973-11-17,Navy,Ind,George Welsh,A,Georgia Tech,Ind,Bill Fulcher,L,22,26
+1973-12-01,Navy,Ind,George Welsh,N,Army,Ind,Thomas Cahill,W,51,0
+1973-09-08,Lamar,Ind,,A,New Mexico State,MVC,Jim Bradley,L,7,24
+1973-09-29,Lamar,Ind,,A,Drake,MVC,Jack Wallace,L,10,24
+1973-10-06,Lamar,Ind,,H,West Texas A&M,MVC,Gene Mayfield,L,0,13
+1973-10-13,Lamar,Ind,,A,UTEP,WAC,Tommy Hudspeth,W,31,27
+1973-10-20,Lamar,Ind,,H,Louisiana,Ind,Russ Faulkinberry,W,31,0
+1973-11-24,Lamar,Ind,,A,Texas-Arlington,Ind,John Symank,W,10,3
+1973-09-15,Fresno State,PCAA,J.R. Boone,H,San Jose State,PCAA,Darryl Rogers,L,6,24
+1973-10-06,Fresno State,PCAA,J.R. Boone,H,Northern Illinois,Ind,Jerry Ippoliti,L,15,24
+1973-10-13,Fresno State,PCAA,J.R. Boone,A,Wichita State,MVC,Bob Seaman,L,13,18
+1973-10-20,Fresno State,PCAA,J.R. Boone,A,Long Beach State,PCAA,Jim Strangeland,W,15,14
+1973-11-10,Fresno State,PCAA,J.R. Boone,A,Pacific,PCAA,Chester Caddas,L,0,42
+1973-11-17,Fresno State,PCAA,J.R. Boone,H,San Diego State,PCAA,Claude Gilbert,L,6,41
+1973-09-15,Texas Tech,SWC,Jim Carlen,H,Utah,WAC,Bill Meek,W,29,22
+1973-09-22,Texas Tech,SWC,Jim Carlen,H,New Mexico,WAC,Rudy Feldman,W,41,7
+1973-09-29,Texas Tech,SWC,Jim Carlen,A,Texas,SWC,Darrell Royal,L,12,28
+1973-10-06,Texas Tech,SWC,Jim Carlen,A,Oklahoma State,Big 8,Jim Stanley,W,20,7
+1973-10-13,Texas Tech,SWC,Jim Carlen,H,Texas A&M,SWC,Emory Bellard,W,28,16
+1973-10-20,Texas Tech,SWC,Jim Carlen,A,Arizona,WAC,Jim Young,W,31,17
+1973-10-27,Texas Tech,SWC,Jim Carlen,H,SMU,SWC,Dave Smith,W,31,14
+1973-11-03,Texas Tech,SWC,Jim Carlen,H,Rice,SWC,Al Conover,W,19,6
+1973-11-10,Texas Tech,SWC,Jim Carlen,A,Texas Christian,SWC,Billy Tohill,W,24,10
+1973-11-17,Texas Tech,SWC,Jim Carlen,H,Baylor,SWC,Grant Teaff,W,55,24
+1973-11-24,Texas Tech,SWC,Jim Carlen,A,Arkansas,SWC,Frank Broyles,W,24,17
+1973-12-29,Texas Tech,SWC,Jim Carlen,N,Tennessee,SEC,Bill Battle,W,28,19
+1973-09-22,Tulane,Ind,Bennie Ellender,H,Boston College,Ind,Joseph Yukica,W,21,16
+1973-09-29,Tulane,Ind,Bennie Ellender,H,Virginia Military Institute,Southern,Bob Thalman,W,42,0
+1973-10-06,Tulane,Ind,Bennie Ellender,A,Pitt,Ind,Johnny Majors,W,24,6
+1973-10-13,Tulane,Ind,Bennie Ellender,A,Duke,ACC,Mike McGee,W,24,17
+1973-10-20,Tulane,Ind,Bennie Ellender,H,North Carolina,ACC,Bill Dooley,W,16,0
+1973-10-27,Tulane,Ind,Bennie Ellender,H,Georgia Tech,Ind,Bill Fulcher,W,23,14
+1973-11-03,Tulane,Ind,Bennie Ellender,A,Kentucky,SEC,Fran Curci,L,7,34
+1973-11-10,Tulane,Ind,Bennie Ellender,H,Navy,Ind,George Welsh,W,17,15
+1973-11-17,Tulane,Ind,Bennie Ellender,H,Vanderbilt,SEC,Steve Sloan,W,24,3
+1973-11-24,Tulane,Ind,Bennie Ellender,A,Maryland,ACC,Jerry Claiborne,L,9,42
+1973-12-01,Tulane,Ind,Bennie Ellender,H,LSU,SEC,Charles McClendon,W,14,0
+1973-12-29,Tulane,Ind,Bennie Ellender,A,Houston,Ind,Bill Yeoman,L,7,47
+1973-09-29,Cornell,Ivy,Jack Musick,A,Colgate,Ind,Neil Wheelwright,W,35,21
+1973-10-13,Cornell,Ivy,Jack Musick,H,Princeton,Ivy,Robert Casciola,W,37,6
+1973-10-20,Cornell,Ivy,Jack Musick,H,Harvard,Ivy,Joseph Restic,L,15,21
+1973-10-27,Cornell,Ivy,Jack Musick,A,Yale,Ivy,Carmen Cozza,L,3,20
+1973-11-03,Cornell,Ivy,Jack Musick,H,Columbia,Ivy,Frank Navarro,W,44,14
+1973-11-10,Cornell,Ivy,Jack Musick,H,Brown,Ivy,John Anderson,L,7,17
+1973-11-17,Cornell,Ivy,Jack Musick,A,Dartmouth,Ivy,John Crouthamel,L,0,17
+1973-11-24,Cornell,Ivy,Jack Musick,A,Pennsylvania,Ivy,Harry Gamble,L,22,31
+1973-09-15,Northern Illinois,Ind,Jerry Ippoliti,H,Southern Illinois,Ind,Dick Towers,W,34,28
+1973-09-22,Northern Illinois,Ind,Jerry Ippoliti,A,Western Michigan,MAC,Bill Doolittle,L,14,28
+1973-09-29,Northern Illinois,Ind,Jerry Ippoliti,A,West Texas A&M,MVC,Gene Mayfield,W,21,14
+1973-10-06,Northern Illinois,Ind,Jerry Ippoliti,A,Fresno State,PCAA,J.R. Boone,W,24,15
+1973-10-13,Northern Illinois,Ind,Jerry Ippoliti,H,Marshall,Ind,Jack Lengyel,L,36,39
+1973-11-10,Northern Illinois,Ind,Jerry Ippoliti,A,Xavier,Ind,Thomas Cecchini,L,36,40
+1973-11-17,Northern Illinois,Ind,Jerry Ippoliti,A,Bowling Green State,MAC,Don Nehlen,L,20,21
+1973-09-15,Ohio State,Big Ten,Woody Hayes,H,Minnesota,Big Ten,Cal Stoll,W,56,7
+1973-09-29,Ohio State,Big Ten,Woody Hayes,H,Texas Christian,SWC,Billy Tohill,W,37,3
+1973-10-06,Ohio State,Big Ten,Woody Hayes,H,Washington State,Pac-8,Jim Sweeney,W,27,3
+1973-10-13,Ohio State,Big Ten,Woody Hayes,A,Wisconsin,Big Ten,John Jardine,W,24,0
+1973-10-20,Ohio State,Big Ten,Woody Hayes,A,Indiana,Big Ten,Lee Corso,W,37,7
+1973-10-27,Ohio State,Big Ten,Woody Hayes,H,Northwestern,Big Ten,John Pont,W,60,0
+1973-11-03,Ohio State,Big Ten,Woody Hayes,A,Illinois,Big Ten,Bob Blackman,W,30,0
+1973-11-10,Ohio State,Big Ten,Woody Hayes,H,Michigan State,Big Ten,Dennis Stolz,W,35,0
+1973-11-17,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Frank Lauterbur,W,55,13
+1973-11-24,Ohio State,Big Ten,Woody Hayes,A,Michigan,Big Ten,Bo Schembechler,T,10,10
+1974-01-01,Ohio State,Big Ten,Woody Hayes,A,USC,Pac-8,John McKay,W,42,21
+1973-09-22,Ohio,MAC,Bill Hess,H,Kent State,MAC,Don James,L,7,35
+1973-09-29,Ohio,MAC,Bill Hess,A,Toledo,MAC,Jack Murphy,L,8,35
+1973-10-06,Ohio,MAC,Bill Hess,A,Northwestern,Big Ten,John Pont,W,14,12
+1973-10-13,Ohio,MAC,Bill Hess,A,Miami (OH),MAC,Bill Mallory,L,6,10
+1973-10-20,Ohio,MAC,Bill Hess,A,South Carolina,Ind,Paul Dietzel,L,22,38
+1973-10-27,Ohio,MAC,Bill Hess,H,Western Michigan,MAC,Bill Doolittle,W,16,0
+1973-11-03,Ohio,MAC,Bill Hess,H,Bowling Green State,MAC,Don Nehlen,W,24,23
+1973-11-10,Ohio,MAC,Bill Hess,H,Cincinnati,Ind,Tony Mason,W,14,8
+1973-11-17,Ohio,MAC,Bill Hess,A,Penn State,Ind,Joe Paterno,L,10,49
+1973-11-22,Ohio,MAC,Bill Hess,A,Marshall,Ind,Jack Lengyel,W,35,21
+1973-09-01,Drake,MVC,Jack Wallace,H,New Mexico State,MVC,Jim Bradley,L,12,27
+1973-09-08,Drake,MVC,Jack Wallace,A,West Texas A&M,MVC,Gene Mayfield,L,10,13
+1973-09-22,Drake,MVC,Jack Wallace,H,Louisville,MVC,Tom Alley,L,17,27
+1973-09-29,Drake,MVC,Jack Wallace,H,Lamar,Ind,,W,24,10
+1973-10-06,Drake,MVC,Jack Wallace,A,Tulsa,MVC,F. Dry,L,7,44
+1973-10-20,Drake,MVC,Jack Wallace,A,North Texas,MVC,Hayden Fry,L,7,19
+1973-10-27,Drake,MVC,Jack Wallace,A,Dayton,Ind,Ron Marciniak,L,9,16
+1973-11-03,Drake,MVC,Jack Wallace,A,Wichita State,MVC,Bob Seaman,W,13,10
+1973-11-10,Drake,MVC,Jack Wallace,A,Southern Illinois,Ind,Dick Towers,L,20,37
+1973-11-17,Drake,MVC,Jack Wallace,H,Temple,Ind,Wayne Hardin,L,10,35
+1973-09-15,Houston,Ind,Bill Yeoman,H,Rice,SWC,Al Conover,W,24,6
+1973-09-21,Houston,Ind,Bill Yeoman,H,South Carolina,Ind,Paul Dietzel,W,27,19
+1973-09-29,Houston,Ind,Bill Yeoman,A,Memphis,Ind,Fred Pancoast,W,35,21
+1973-10-06,Houston,Ind,Bill Yeoman,A,San Diego State,PCAA,Claude Gilbert,W,14,9
+1973-10-12,Houston,Ind,Bill Yeoman,H,Virginia Tech,Ind,Charles Coffey,W,54,27
+1973-10-19,Houston,Ind,Bill Yeoman,A,Miami (FL),Ind,Pete Elliott,W,30,7
+1973-10-27,Houston,Ind,Bill Yeoman,A,Auburn,SEC,Ralph Jordan,L,0,7
+1973-11-03,Houston,Ind,Bill Yeoman,H,Florida State,Ind,Larry Jones,W,34,3
+1973-11-10,Houston,Ind,Bill Yeoman,A,Colorado State,WAC,Sarkis Arslanian,W,28,20
+1973-11-24,Houston,Ind,Bill Yeoman,H,Wyoming,WAC,Fritz Shurmur,W,35,0
+1973-12-01,Houston,Ind,Bill Yeoman,H,Tulsa,MVC,F. Dry,W,35,16
+1973-12-29,Houston,Ind,Bill Yeoman,H,Tulane,Ind,Bennie Ellender,W,47,7

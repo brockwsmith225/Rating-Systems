@@ -1,0 +1,1159 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1990-09-01,North Carolina,ACC,Mack Brown,H,Miami (OH),MAC,Randy Walker,W,34,0
+1990-09-08,North Carolina,ACC,Mack Brown,A,South Carolina,Ind,Sparky Woods,L,5,27
+1990-09-22,North Carolina,ACC,Mack Brown,H,Kentucky,SEC,Bill Curry,W,16,13
+1990-09-29,North Carolina,ACC,Mack Brown,H,North Carolina State,ACC,Dick Sheridan,L,9,12
+1990-10-06,North Carolina,ACC,Mack Brown,A,Wake Forest,ACC,Bill Dooley,W,31,24
+1990-10-20,North Carolina,ACC,Mack Brown,H,Georgia Tech,ACC,Bobby Ross,T,13,13
+1990-10-27,North Carolina,ACC,Mack Brown,H,Maryland,ACC,Joe Krivak,W,34,10
+1990-11-03,North Carolina,ACC,Mack Brown,A,Clemson,ACC,Ken Hatfield,L,3,20
+1990-11-10,North Carolina,ACC,Mack Brown,H,Virginia,ACC,George Welsh,L,10,24
+1990-11-17,North Carolina,ACC,Mack Brown,A,Duke,ACC,Barry Wilson,W,24,22
+1990-09-01,Miami (OH),MAC,Randy Walker,A,North Carolina,ACC,Mack Brown,L,0,34
+1990-09-08,Miami (OH),MAC,Randy Walker,H,Toledo,MAC,Nick Saban,L,14,20
+1990-09-15,Miami (OH),MAC,Randy Walker,A,LSU,SEC,Mike Archer,L,7,35
+1990-09-22,Miami (OH),MAC,Randy Walker,A,Cincinnati,Ind,Tim Murphy,W,16,12
+1990-09-29,Miami (OH),MAC,Randy Walker,A,Central Michigan,MAC,Herb Deromedi,L,7,31
+1990-10-06,Miami (OH),MAC,Randy Walker,H,Ball State,MAC,Paul Schudel,W,24,10
+1990-10-13,Miami (OH),MAC,Randy Walker,A,Ohio,MAC,Tom Lichtenberg,W,40,18
+1990-10-27,Miami (OH),MAC,Randy Walker,A,Bowling Green State,MAC,Moe Ankney,T,10,10
+1990-11-03,Miami (OH),MAC,Randy Walker,H,Eastern Michigan,MAC,Jim Harkema,W,34,14
+1990-11-10,Miami (OH),MAC,Randy Walker,H,Kent State,MAC,Dick Crum,W,31,10
+1990-11-17,Miami (OH),MAC,Randy Walker,A,Western Michigan,MAC,Al Molde,L,17,31
+1990-09-15,Indiana,Big Ten,Bill Mallory,A,Kentucky,SEC,Bill Curry,W,45,24
+1990-09-22,Indiana,Big Ten,Bill Mallory,H,Missouri,Big 8,Bob Stull,W,58,7
+1990-09-29,Indiana,Big Ten,Bill Mallory,H,Eastern Michigan,MAC,Jim Harkema,W,37,6
+1990-10-06,Indiana,Big Ten,Bill Mallory,A,Northwestern,Big Ten,Francis Peay,W,42,0
+1990-10-13,Indiana,Big Ten,Bill Mallory,H,Ohio State,Big Ten,John Cooper,T,27,27
+1990-10-20,Indiana,Big Ten,Bill Mallory,A,Minnesota,Big Ten,John Gutekunst,L,0,12
+1990-10-27,Indiana,Big Ten,Bill Mallory,H,Michigan,Big Ten,Gary Moeller,L,19,45
+1990-11-03,Indiana,Big Ten,Bill Mallory,A,Michigan State,Big Ten,George Perles,L,20,45
+1990-11-10,Indiana,Big Ten,Bill Mallory,H,Wisconsin,Big Ten,Barry Alvarez,W,20,7
+1990-11-17,Indiana,Big Ten,Bill Mallory,H,Illinois,Big Ten,John Mackovic,L,10,24
+1990-11-24,Indiana,Big Ten,Bill Mallory,A,Purdue,Big Ten,Fred Akers,W,28,14
+1990-12-29,Indiana,Big Ten,Bill Mallory,N,Auburn,SEC,Pat Dye,L,23,27
+1990-09-08,Florida State,Ind,Bobby Bowden,H,East Carolina,Ind,Bill Lewis,W,45,24
+1990-09-22,Florida State,Ind,Bobby Bowden,A,Tulane,Ind,Greg Davis,W,31,13
+1990-09-29,Florida State,Ind,Bobby Bowden,H,Virginia Tech,Ind,Frank Beamer,W,39,28
+1990-10-06,Florida State,Ind,Bobby Bowden,A,Miami (FL),Ind,Dennis Erickson,L,22,31
+1990-10-20,Florida State,Ind,Bobby Bowden,A,Auburn,SEC,Pat Dye,L,17,20
+1990-10-27,Florida State,Ind,Bobby Bowden,H,LSU,SEC,Mike Archer,W,42,3
+1990-11-03,Florida State,Ind,Bobby Bowden,A,South Carolina,Ind,Sparky Woods,W,41,10
+1990-11-10,Florida State,Ind,Bobby Bowden,H,Cincinnati,Ind,Tim Murphy,W,70,21
+1990-11-17,Florida State,Ind,Bobby Bowden,H,Memphis,Ind,Chuck Stobart,W,35,3
+1990-12-01,Florida State,Ind,Bobby Bowden,H,Florida,SEC,Steve Spurrier,W,45,30
+1990-12-28,Florida State,Ind,Bobby Bowden,N,Penn State,Ind,Joe Paterno,W,24,17
+1990-09-15,Iowa State,Big 8,Jim Walden,A,Minnesota,Big Ten,John Gutekunst,L,16,20
+1990-09-22,Iowa State,Big 8,Jim Walden,A,Iowa,Big Ten,Hayden Fry,L,35,45
+1990-09-29,Iowa State,Big 8,Jim Walden,H,Western Michigan,MAC,Al Molde,W,34,20
+1990-10-06,Iowa State,Big 8,Jim Walden,H,Kansas,Big 8,Glen Mason,T,34,34
+1990-10-13,Iowa State,Big 8,Jim Walden,A,Colorado,Big 8,Bill McCartney,L,12,28
+1990-10-20,Iowa State,Big 8,Jim Walden,A,Oklahoma,Big 8,Gary Gibbs,W,33,31
+1990-10-27,Iowa State,Big 8,Jim Walden,H,Nebraska,Big 8,Tom Osborne,L,13,45
+1990-11-03,Iowa State,Big 8,Jim Walden,A,Kansas State,Big 8,Bill Snyder,L,14,28
+1990-11-10,Iowa State,Big 8,Jim Walden,H,Missouri,Big 8,Bob Stull,W,27,25
+1990-11-17,Iowa State,Big 8,Jim Walden,H,Oklahoma State,Big 8,Pat Jones,L,17,25
+1990-09-02,Cincinnati,Ind,Tim Murphy,H,Bowling Green State,MAC,Moe Ankney,L,20,34
+1990-09-08,Cincinnati,Ind,Tim Murphy,A,Central Michigan,MAC,Herb Deromedi,L,0,34
+1990-09-15,Cincinnati,Ind,Tim Murphy,A,Iowa,Big Ten,Hayden Fry,L,10,63
+1990-09-22,Cincinnati,Ind,Tim Murphy,H,Miami (OH),MAC,Randy Walker,L,12,16
+1990-09-29,Cincinnati,Ind,Tim Murphy,A,Kent State,MAC,Dick Crum,W,27,24
+1990-10-13,Cincinnati,Ind,Tim Murphy,A,West Virginia,Ind,Don Nehlen,L,20,28
+1990-10-20,Cincinnati,Ind,Tim Murphy,A,East Carolina,Ind,Bill Lewis,L,32,56
+1990-10-27,Cincinnati,Ind,Tim Murphy,A,Tulane,Ind,Greg Davis,L,7,49
+1990-11-03,Cincinnati,Ind,Tim Murphy,H,Louisville,Ind,Howard Schnellenberger,L,16,41
+1990-11-10,Cincinnati,Ind,Tim Murphy,A,Florida State,Ind,Bobby Bowden,L,21,70
+1990-11-17,Cincinnati,Ind,Tim Murphy,A,Alabama,SEC,Gene Stallings,L,7,45
+1990-09-08,Arizona State,Pac-10,Larry Marmie,H,Baylor,SWC,Grant Teaff,W,34,13
+1990-09-15,Arizona State,Pac-10,Larry Marmie,H,Colorado State,WAC,Earle Bruce,W,31,20
+1990-09-29,Arizona State,Pac-10,Larry Marmie,A,Missouri,Big 8,Bob Stull,L,9,30
+1990-10-06,Arizona State,Pac-10,Larry Marmie,H,Washington,Pac-10,Don James,L,14,42
+1990-10-13,Arizona State,Pac-10,Larry Marmie,H,California,Pac-10,Bruce Snyder,L,24,31
+1990-10-20,Arizona State,Pac-10,Larry Marmie,A,Oregon,Pac-10,Rich Brooks,L,7,27
+1990-10-27,Arizona State,Pac-10,Larry Marmie,H,USC,Pac-10,Larry Smith,L,6,13
+1990-11-03,Arizona State,Pac-10,Larry Marmie,H,Oregon State,Pac-10,Dave Kragthorpe,W,34,9
+1990-11-10,Arizona State,Pac-10,Larry Marmie,A,Washington State,Pac-10,Mike Price,W,51,26
+1990-11-24,Arizona State,Pac-10,Larry Marmie,A,Arizona,Pac-10,Dick Tomey,L,17,21
+1990-12-02,Arizona State,Pac-10,Larry Marmie,N,Houston,SWC,John Jenkins,L,45,62
+1990-09-01,Utah,WAC,Ron McBride,A,Utah State,Big West,Chuck Shelton,W,19,0
+1990-09-08,Utah,WAC,Ron McBride,A,Minnesota,Big Ten,John Gutekunst,W,35,29
+1990-09-15,Utah,WAC,Ron McBride,H,Fresno State,Big West,Jim Sweeney,L,7,31
+1990-09-22,Utah,WAC,Ron McBride,H,Hawaii,WAC,Bob Wagner,L,7,19
+1990-09-29,Utah,WAC,Ron McBride,H,Wyoming,WAC,Paul Roach,L,10,28
+1990-10-06,Utah,WAC,Ron McBride,A,Colorado State,WAC,Earle Bruce,L,13,28
+1990-10-20,Utah,WAC,Ron McBride,H,UTEP,WAC,David Lee,W,37,23
+1990-10-27,Utah,WAC,Ron McBride,A,Air Force,WAC,Fisher DeBerry,L,21,52
+1990-11-03,Utah,WAC,Ron McBride,A,San Diego State,WAC,Al Luginbill,L,14,66
+1990-11-10,Utah,WAC,Ron McBride,A,New Mexico,WAC,Mike Sheppard,W,29,27
+1990-11-17,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,L,22,45
+1990-09-08,Cal State Fullerton,Big West,Gene Murphy,A,Auburn,SEC,Pat Dye,L,17,38
+1990-09-15,Cal State Fullerton,Big West,Gene Murphy,A,Mississippi State,SEC,Rockey Felker,L,13,27
+1990-09-22,Cal State Fullerton,Big West,Gene Murphy,A,Akron,Ind,Gerry Faust,L,17,48
+1990-09-29,Cal State Fullerton,Big West,Gene Murphy,H,Fresno State,Big West,Jim Sweeney,L,3,38
+1990-10-06,Cal State Fullerton,Big West,Gene Murphy,A,Nevada-Las Vegas,Big West,Jim Strong,L,10,29
+1990-10-13,Cal State Fullerton,Big West,Gene Murphy,H,Pacific,Big West,Walt Harris,L,37,67
+1990-10-20,Cal State Fullerton,Big West,Gene Murphy,A,Hawaii,WAC,Bob Wagner,L,21,45
+1990-10-27,Cal State Fullerton,Big West,Gene Murphy,A,Long Beach State,Big West,George Allen,L,35,37
+1990-11-03,Cal State Fullerton,Big West,Gene Murphy,H,San Jose State,Big West,Terry Shea,L,6,44
+1990-11-10,Cal State Fullerton,Big West,Gene Murphy,H,Utah State,Big West,Chuck Shelton,L,17,45
+1990-11-17,Cal State Fullerton,Big West,Gene Murphy,A,New Mexico State,Big West,Jim Hess,L,9,43
+1990-08-31,Syracuse,Ind,Dick MacPherson,N,USC,Pac-10,Larry Smith,L,16,34
+1990-09-08,Syracuse,Ind,Dick MacPherson,H,Temple,Ind,Jerry Berndt,W,19,9
+1990-09-15,Syracuse,Ind,Dick MacPherson,H,Michigan State,Big Ten,George Perles,T,23,23
+1990-09-22,Syracuse,Ind,Dick MacPherson,H,Pitt,Ind,Paul Hackett,T,20,20
+1990-10-06,Syracuse,Ind,Dick MacPherson,A,Vanderbilt,SEC,Watson Brown,W,49,14
+1990-10-13,Syracuse,Ind,Dick MacPherson,A,Penn State,Ind,Joe Paterno,L,21,27
+1990-10-20,Syracuse,Ind,Dick MacPherson,H,Rutgers,Ind,Doug Graber,W,42,0
+1990-10-27,Syracuse,Ind,Dick MacPherson,A,Army,Ind,Jim Young,W,26,14
+1990-11-03,Syracuse,Ind,Dick MacPherson,A,Boston College,Ind,Jack Bicknell,W,35,6
+1990-11-10,Syracuse,Ind,Dick MacPherson,H,Tulane,Ind,Greg Davis,L,24,26
+1990-11-17,Syracuse,Ind,Dick MacPherson,A,West Virginia,Ind,Don Nehlen,W,31,7
+1990-11-24,Syracuse,Ind,Dick MacPherson,A,Miami (FL),Ind,Dennis Erickson,L,7,33
+1990-12-25,Syracuse,Ind,Dick MacPherson,N,Arizona,Pac-10,Dick Tomey,W,28,0
+1990-09-08,Arizona,Pac-10,Dick Tomey,H,Illinois,Big Ten,John Mackovic,W,28,16
+1990-09-15,Arizona,Pac-10,Dick Tomey,A,New Mexico,WAC,Mike Sheppard,W,25,10
+1990-09-22,Arizona,Pac-10,Dick Tomey,H,Oregon,Pac-10,Rich Brooks,W,22,17
+1990-09-29,Arizona,Pac-10,Dick Tomey,H,California,Pac-10,Bruce Snyder,L,25,30
+1990-10-06,Arizona,Pac-10,Dick Tomey,A,UCLA,Pac-10,Terry Donahue,W,28,21
+1990-10-13,Arizona,Pac-10,Dick Tomey,A,Oregon State,Pac-10,Dave Kragthorpe,L,21,35
+1990-10-20,Arizona,Pac-10,Dick Tomey,A,USC,Pac-10,Larry Smith,W,35,26
+1990-10-27,Arizona,Pac-10,Dick Tomey,H,Washington State,Pac-10,Mike Price,W,42,34
+1990-11-03,Arizona,Pac-10,Dick Tomey,A,Washington,Pac-10,Don James,L,10,54
+1990-11-10,Arizona,Pac-10,Dick Tomey,H,Stanford,Pac-10,Dennis Green,L,10,23
+1990-11-24,Arizona,Pac-10,Dick Tomey,H,Arizona State,Pac-10,Larry Marmie,W,21,17
+1990-12-25,Arizona,Pac-10,Dick Tomey,N,Syracuse,Ind,Dick MacPherson,L,0,28
+1990-09-08,Penn State,Ind,Joe Paterno,H,Texas,SWC,David McWilliams,L,13,17
+1990-09-15,Penn State,Ind,Joe Paterno,A,USC,Pac-10,Larry Smith,L,14,19
+1990-09-22,Penn State,Ind,Joe Paterno,H,Rutgers,Ind,Doug Graber,W,28,0
+1990-10-06,Penn State,Ind,Joe Paterno,H,Temple,Ind,Jerry Berndt,W,48,10
+1990-10-13,Penn State,Ind,Joe Paterno,H,Syracuse,Ind,Dick MacPherson,W,27,21
+1990-10-20,Penn State,Ind,Joe Paterno,A,Boston College,Ind,Jack Bicknell,W,40,21
+1990-10-27,Penn State,Ind,Joe Paterno,A,Alabama,SEC,Gene Stallings,W,9,0
+1990-11-03,Penn State,Ind,Joe Paterno,A,West Virginia,Ind,Don Nehlen,W,31,19
+1990-11-10,Penn State,Ind,Joe Paterno,H,Maryland,ACC,Joe Krivak,W,24,10
+1990-11-17,Penn State,Ind,Joe Paterno,A,Notre Dame,Ind,Lou Holtz,W,24,21
+1990-11-24,Penn State,Ind,Joe Paterno,H,Pitt,Ind,Paul Hackett,W,22,17
+1990-12-28,Penn State,Ind,Joe Paterno,N,Florida State,Ind,Bobby Bowden,L,17,24
+1990-09-08,Vanderbilt,SEC,Watson Brown,A,SMU,SWC,Forrest Gregg,L,7,44
+1990-09-22,Vanderbilt,SEC,Watson Brown,H,LSU,SEC,Mike Archer,W,24,21
+1990-09-29,Vanderbilt,SEC,Watson Brown,A,Alabama,SEC,Gene Stallings,L,28,59
+1990-10-06,Vanderbilt,SEC,Watson Brown,H,Syracuse,Ind,Dick MacPherson,L,14,49
+1990-10-13,Vanderbilt,SEC,Watson Brown,A,Auburn,SEC,Pat Dye,L,6,56
+1990-10-20,Vanderbilt,SEC,Watson Brown,A,Georgia,SEC,Ray Goff,L,28,39
+1990-10-27,Vanderbilt,SEC,Watson Brown,H,Ole Miss,SEC,Billy Brewer,L,13,14
+1990-11-10,Vanderbilt,SEC,Watson Brown,A,Kentucky,SEC,Bill Curry,L,21,28
+1990-11-17,Vanderbilt,SEC,Watson Brown,H,Army,Ind,Jim Young,L,38,42
+1990-11-24,Vanderbilt,SEC,Watson Brown,H,Wake Forest,ACC,Bill Dooley,L,28,56
+1990-12-01,Vanderbilt,SEC,Watson Brown,H,Tennessee,SEC,Johnny Majors,L,20,49
+1990-09-01,Kentucky,SEC,Bill Curry,H,Central Michigan,MAC,Herb Deromedi,W,20,17
+1990-09-08,Kentucky,SEC,Bill Curry,A,Rutgers,Ind,Doug Graber,L,8,24
+1990-09-15,Kentucky,SEC,Bill Curry,H,Indiana,Big Ten,Bill Mallory,L,24,45
+1990-09-22,Kentucky,SEC,Bill Curry,A,North Carolina,ACC,Mack Brown,L,13,16
+1990-10-06,Kentucky,SEC,Bill Curry,A,Ole Miss,SEC,Billy Brewer,L,29,35
+1990-10-13,Kentucky,SEC,Bill Curry,H,Mississippi State,SEC,Rockey Felker,W,17,15
+1990-10-20,Kentucky,SEC,Bill Curry,A,LSU,SEC,Mike Archer,L,20,30
+1990-10-27,Kentucky,SEC,Bill Curry,H,Georgia,SEC,Ray Goff,W,26,24
+1990-11-10,Kentucky,SEC,Bill Curry,H,Vanderbilt,SEC,Watson Brown,W,28,21
+1990-11-17,Kentucky,SEC,Bill Curry,H,Florida,SEC,Steve Spurrier,L,15,47
+1990-11-24,Kentucky,SEC,Bill Curry,A,Tennessee,SEC,Johnny Majors,L,28,42
+1990-09-08,California,Pac-10,Bruce Snyder,A,Wisconsin,Big Ten,Barry Alvarez,W,28,12
+1990-09-15,California,Pac-10,Bruce Snyder,H,Miami (FL),Ind,Dennis Erickson,L,24,52
+1990-09-22,California,Pac-10,Bruce Snyder,A,Washington State,Pac-10,Mike Price,L,31,41
+1990-09-29,California,Pac-10,Bruce Snyder,A,Arizona,Pac-10,Dick Tomey,W,30,25
+1990-10-06,California,Pac-10,Bruce Snyder,H,San Jose State,Big West,Terry Shea,W,35,34
+1990-10-13,California,Pac-10,Bruce Snyder,A,Arizona State,Pac-10,Larry Marmie,W,31,24
+1990-10-20,California,Pac-10,Bruce Snyder,H,UCLA,Pac-10,Terry Donahue,W,38,31
+1990-10-27,California,Pac-10,Bruce Snyder,A,Washington,Pac-10,Don James,L,7,46
+1990-11-03,California,Pac-10,Bruce Snyder,A,USC,Pac-10,Larry Smith,T,31,31
+1990-11-10,California,Pac-10,Bruce Snyder,H,Oregon,Pac-10,Rich Brooks,W,28,3
+1990-11-17,California,Pac-10,Bruce Snyder,H,Stanford,Pac-10,Dennis Green,L,25,27
+1990-12-31,California,Pac-10,Bruce Snyder,N,Wyoming,WAC,Paul Roach,W,17,15
+1990-09-08,Florida,SEC,Steve Spurrier,H,Oklahoma State,Big 8,Pat Jones,W,50,7
+1990-09-15,Florida,SEC,Steve Spurrier,A,Alabama,SEC,Gene Stallings,W,17,13
+1990-09-29,Florida,SEC,Steve Spurrier,H,Mississippi State,SEC,Rockey Felker,W,34,21
+1990-10-06,Florida,SEC,Steve Spurrier,H,LSU,SEC,Mike Archer,W,34,8
+1990-10-13,Florida,SEC,Steve Spurrier,A,Tennessee,SEC,Johnny Majors,L,3,45
+1990-10-20,Florida,SEC,Steve Spurrier,H,Akron,Ind,Gerry Faust,W,59,0
+1990-11-03,Florida,SEC,Steve Spurrier,H,Auburn,SEC,Pat Dye,W,48,7
+1990-11-10,Florida,SEC,Steve Spurrier,N,Georgia,SEC,Ray Goff,W,38,7
+1990-11-17,Florida,SEC,Steve Spurrier,A,Kentucky,SEC,Bill Curry,W,47,15
+1990-12-01,Florida,SEC,Steve Spurrier,A,Florida State,Ind,Bobby Bowden,L,30,45
+1990-09-06,Stanford,Pac-10,Dennis Green,A,Colorado,Big 8,Bill McCartney,L,17,21
+1990-09-15,Stanford,Pac-10,Dennis Green,A,UCLA,Pac-10,Terry Donahue,L,31,32
+1990-09-22,Stanford,Pac-10,Dennis Green,H,Oregon State,Pac-10,Dave Kragthorpe,W,37,3
+1990-09-29,Stanford,Pac-10,Dennis Green,H,San Jose State,Big West,Terry Shea,L,23,29
+1990-10-06,Stanford,Pac-10,Dennis Green,A,Notre Dame,Ind,Lou Holtz,W,36,31
+1990-10-13,Stanford,Pac-10,Dennis Green,H,USC,Pac-10,Larry Smith,L,22,37
+1990-10-20,Stanford,Pac-10,Dennis Green,H,Washington,Pac-10,Don James,L,16,52
+1990-10-27,Stanford,Pac-10,Dennis Green,A,Oregon,Pac-10,Rich Brooks,L,0,31
+1990-11-03,Stanford,Pac-10,Dennis Green,H,Washington State,Pac-10,Mike Price,W,31,13
+1990-11-10,Stanford,Pac-10,Dennis Green,A,Arizona,Pac-10,Dick Tomey,W,23,10
+1990-11-17,Stanford,Pac-10,Dennis Green,A,California,Pac-10,Bruce Snyder,W,27,25
+1990-09-01,Washington State,Pac-10,Mike Price,A,Texas Christian,SWC,Jim Wacker,W,21,3
+1990-09-08,Washington State,Pac-10,Mike Price,H,Wyoming,WAC,Paul Roach,L,13,34
+1990-09-15,Washington State,Pac-10,Mike Price,A,Brigham Young,WAC,LaVell Edwards,L,36,50
+1990-09-22,Washington State,Pac-10,Mike Price,H,California,Pac-10,Bruce Snyder,W,41,31
+1990-09-29,Washington State,Pac-10,Mike Price,H,UCLA,Pac-10,Terry Donahue,L,20,30
+1990-10-06,Washington State,Pac-10,Mike Price,A,USC,Pac-10,Larry Smith,L,17,30
+1990-10-20,Washington State,Pac-10,Mike Price,A,Oregon State,Pac-10,Dave Kragthorpe,W,55,24
+1990-10-27,Washington State,Pac-10,Mike Price,A,Arizona,Pac-10,Dick Tomey,L,34,42
+1990-11-03,Washington State,Pac-10,Mike Price,A,Stanford,Pac-10,Dennis Green,L,13,31
+1990-11-10,Washington State,Pac-10,Mike Price,H,Arizona State,Pac-10,Larry Marmie,L,26,51
+1990-11-17,Washington State,Pac-10,Mike Price,H,Washington,Pac-10,Don James,L,10,55
+1990-09-08,Illinois,Big Ten,John Mackovic,A,Arizona,Pac-10,Dick Tomey,L,16,28
+1990-09-15,Illinois,Big Ten,John Mackovic,H,Colorado,Big 8,Bill McCartney,W,23,22
+1990-10-06,Illinois,Big Ten,John Mackovic,A,Ohio State,Big Ten,John Cooper,W,31,20
+1990-10-13,Illinois,Big Ten,John Mackovic,H,Purdue,Big Ten,Fred Akers,W,34,0
+1990-10-20,Illinois,Big Ten,John Mackovic,H,Michigan State,Big Ten,George Perles,W,15,13
+1990-10-27,Illinois,Big Ten,John Mackovic,A,Wisconsin,Big Ten,Barry Alvarez,W,21,3
+1990-11-03,Illinois,Big Ten,John Mackovic,H,Iowa,Big Ten,Hayden Fry,L,28,54
+1990-11-10,Illinois,Big Ten,John Mackovic,A,Michigan,Big Ten,Gary Moeller,L,17,22
+1990-11-17,Illinois,Big Ten,John Mackovic,A,Indiana,Big Ten,Bill Mallory,W,24,10
+1990-11-24,Illinois,Big Ten,John Mackovic,H,Northwestern,Big Ten,Francis Peay,W,28,23
+1991-01-01,Illinois,Big Ten,John Mackovic,N,Clemson,ACC,Ken Hatfield,L,0,30
+1990-09-01,Baylor,SWC,Grant Teaff,A,Nebraska,Big 8,Tom Osborne,L,0,13
+1990-09-08,Baylor,SWC,Grant Teaff,A,Arizona State,Pac-10,Larry Marmie,L,13,34
+1990-09-29,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Spike Dykes,W,21,15
+1990-10-06,Baylor,SWC,Grant Teaff,H,Houston,SWC,John Jenkins,L,15,31
+1990-10-13,Baylor,SWC,Grant Teaff,H,SMU,SWC,Forrest Gregg,W,52,17
+1990-10-20,Baylor,SWC,Grant Teaff,A,Texas A&M,SWC,R.C. Slocum,T,20,20
+1990-10-27,Baylor,SWC,Grant Teaff,A,Texas Christian,SWC,Jim Wacker,W,27,21
+1990-11-10,Baylor,SWC,Grant Teaff,H,Arkansas,SWC,Jack Crowe,W,34,3
+1990-11-17,Baylor,SWC,Grant Teaff,A,Rice,SWC,Fred Goldsmith,W,17,16
+1990-11-24,Baylor,SWC,Grant Teaff,H,Texas,SWC,David McWilliams,L,13,23
+1990-09-08,SMU,SWC,Forrest Gregg,H,Vanderbilt,SEC,Watson Brown,W,44,7
+1990-09-15,SMU,SWC,Forrest Gregg,A,Tulane,Ind,Greg Davis,L,7,43
+1990-09-29,SMU,SWC,Forrest Gregg,H,Texas Christian,SWC,Jim Wacker,L,21,42
+1990-10-13,SMU,SWC,Forrest Gregg,A,Baylor,SWC,Grant Teaff,L,17,52
+1990-10-20,SMU,SWC,Forrest Gregg,H,Houston,SWC,John Jenkins,L,17,44
+1990-10-27,SMU,SWC,Forrest Gregg,A,Texas,SWC,David McWilliams,L,3,52
+1990-11-03,SMU,SWC,Forrest Gregg,H,Texas A&M,SWC,R.C. Slocum,L,17,38
+1990-11-10,SMU,SWC,Forrest Gregg,A,Rice,SWC,Fred Goldsmith,L,28,30
+1990-11-17,SMU,SWC,Forrest Gregg,A,Texas Tech,SWC,Spike Dykes,L,7,62
+1990-11-24,SMU,SWC,Forrest Gregg,H,Arkansas,SWC,Jack Crowe,L,29,42
+1990-09-08,Georgia,SEC,Ray Goff,A,LSU,SEC,Mike Archer,L,13,18
+1990-09-15,Georgia,SEC,Ray Goff,H,Southern Mississippi,Ind,Jeff Bower,W,18,17
+1990-09-22,Georgia,SEC,Ray Goff,H,Alabama,SEC,Gene Stallings,W,17,16
+1990-09-29,Georgia,SEC,Ray Goff,H,East Carolina,Ind,Bill Lewis,W,19,15
+1990-10-06,Georgia,SEC,Ray Goff,A,Clemson,ACC,Ken Hatfield,L,3,34
+1990-10-13,Georgia,SEC,Ray Goff,H,Ole Miss,SEC,Billy Brewer,L,12,28
+1990-10-20,Georgia,SEC,Ray Goff,H,Vanderbilt,SEC,Watson Brown,W,39,28
+1990-10-27,Georgia,SEC,Ray Goff,A,Kentucky,SEC,Bill Curry,L,24,26
+1990-11-10,Georgia,SEC,Ray Goff,N,Florida,SEC,Steve Spurrier,L,7,38
+1990-11-17,Georgia,SEC,Ray Goff,A,Auburn,SEC,Pat Dye,L,10,33
+1990-12-01,Georgia,SEC,Ray Goff,H,Georgia Tech,ACC,Bobby Ross,L,23,40
+1990-09-01,Maryland,ACC,Joe Krivak,H,Virginia Tech,Ind,Frank Beamer,W,20,13
+1990-09-08,Maryland,ACC,Joe Krivak,A,West Virginia,Ind,Don Nehlen,W,14,10
+1990-09-15,Maryland,ACC,Joe Krivak,H,Clemson,ACC,Ken Hatfield,L,17,18
+1990-09-22,Maryland,ACC,Joe Krivak,H,North Carolina State,ACC,Dick Sheridan,W,13,12
+1990-09-29,Maryland,ACC,Joe Krivak,A,Michigan,Big Ten,Gary Moeller,L,17,45
+1990-10-06,Maryland,ACC,Joe Krivak,H,Georgia Tech,ACC,Bobby Ross,L,3,31
+1990-10-13,Maryland,ACC,Joe Krivak,H,Wake Forest,ACC,Bill Dooley,W,41,13
+1990-10-20,Maryland,ACC,Joe Krivak,A,Duke,ACC,Barry Wilson,W,23,20
+1990-10-27,Maryland,ACC,Joe Krivak,A,North Carolina,ACC,Mack Brown,L,10,34
+1990-11-10,Maryland,ACC,Joe Krivak,A,Penn State,Ind,Joe Paterno,L,10,24
+1990-11-17,Maryland,ACC,Joe Krivak,A,Virginia,ACC,George Welsh,W,35,30
+1990-12-15,Maryland,ACC,Joe Krivak,N,Louisiana Tech,Ind,Joe Peace,T,34,34
+1990-09-01,Virginia,ACC,George Welsh,A,Kansas,Big 8,Glen Mason,W,59,10
+1990-09-08,Virginia,ACC,George Welsh,H,Clemson,ACC,Ken Hatfield,W,20,7
+1990-09-15,Virginia,ACC,George Welsh,H,Navy,Ind,George Chaump,W,56,14
+1990-09-22,Virginia,ACC,George Welsh,A,Duke,ACC,Barry Wilson,W,59,0
+1990-10-13,Virginia,ACC,George Welsh,H,North Carolina State,ACC,Dick Sheridan,W,31,0
+1990-10-20,Virginia,ACC,George Welsh,A,Wake Forest,ACC,Bill Dooley,W,49,14
+1990-11-03,Virginia,ACC,George Welsh,H,Georgia Tech,ACC,Bobby Ross,L,38,41
+1990-11-10,Virginia,ACC,George Welsh,A,North Carolina,ACC,Mack Brown,W,24,10
+1990-11-17,Virginia,ACC,George Welsh,H,Maryland,ACC,Joe Krivak,L,30,35
+1990-11-24,Virginia,ACC,George Welsh,A,Virginia Tech,Ind,Frank Beamer,L,13,38
+1991-01-01,Virginia,ACC,George Welsh,N,Tennessee,SEC,Johnny Majors,L,22,23
+1990-09-08,Oklahoma,Big 8,Gary Gibbs,A,UCLA,Pac-10,Terry Donahue,W,34,14
+1990-09-15,Oklahoma,Big 8,Gary Gibbs,H,Pitt,Ind,Paul Hackett,W,52,10
+1990-09-22,Oklahoma,Big 8,Gary Gibbs,H,Tulsa,Ind,David Rader,W,52,10
+1990-09-29,Oklahoma,Big 8,Gary Gibbs,H,Kansas,Big 8,Glen Mason,W,31,17
+1990-10-06,Oklahoma,Big 8,Gary Gibbs,A,Oklahoma State,Big 8,Pat Jones,W,31,17
+1990-10-13,Oklahoma,Big 8,Gary Gibbs,N,Texas,SWC,David McWilliams,L,13,14
+1990-10-20,Oklahoma,Big 8,Gary Gibbs,H,Iowa State,Big 8,Jim Walden,L,31,33
+1990-10-27,Oklahoma,Big 8,Gary Gibbs,A,Colorado,Big 8,Bill McCartney,L,23,32
+1990-11-03,Oklahoma,Big 8,Gary Gibbs,A,Missouri,Big 8,Bob Stull,W,55,10
+1990-11-10,Oklahoma,Big 8,Gary Gibbs,H,Kansas State,Big 8,Bill Snyder,W,34,7
+1990-11-23,Oklahoma,Big 8,Gary Gibbs,H,Nebraska,Big 8,Tom Osborne,W,45,10
+1990-09-01,Virginia Tech,Ind,Frank Beamer,A,Maryland,ACC,Joe Krivak,L,13,20
+1990-09-08,Virginia Tech,Ind,Frank Beamer,H,Bowling Green State,MAC,Moe Ankney,W,21,7
+1990-09-15,Virginia Tech,Ind,Frank Beamer,A,East Carolina,Ind,Bill Lewis,W,24,23
+1990-09-22,Virginia Tech,Ind,Frank Beamer,H,South Carolina,Ind,Sparky Woods,L,24,35
+1990-09-29,Virginia Tech,Ind,Frank Beamer,A,Florida State,Ind,Bobby Bowden,L,28,39
+1990-10-06,Virginia Tech,Ind,Frank Beamer,H,West Virginia,Ind,Don Nehlen,W,26,21
+1990-10-20,Virginia Tech,Ind,Frank Beamer,A,Temple,Ind,Jerry Berndt,L,28,31
+1990-10-27,Virginia Tech,Ind,Frank Beamer,H,Southern Mississippi,Ind,Jeff Bower,W,20,16
+1990-11-03,Virginia Tech,Ind,Frank Beamer,H,North Carolina State,ACC,Dick Sheridan,W,20,16
+1990-11-10,Virginia Tech,Ind,Frank Beamer,A,Georgia Tech,ACC,Bobby Ross,L,3,6
+1990-11-24,Virginia Tech,Ind,Frank Beamer,H,Virginia,ACC,George Welsh,W,38,13
+1990-09-01,Louisville,Ind,Howard Schnellenberger,A,San Jose State,Big West,Terry Shea,T,10,10
+1990-09-15,Louisville,Ind,Howard Schnellenberger,H,Kansas,Big 8,Glen Mason,W,28,16
+1990-09-22,Louisville,Ind,Howard Schnellenberger,A,West Virginia,Ind,Don Nehlen,W,9,7
+1990-09-29,Louisville,Ind,Howard Schnellenberger,A,Southern Mississippi,Ind,Jeff Bower,L,13,25
+1990-10-06,Louisville,Ind,Howard Schnellenberger,H,Tulsa,Ind,David Rader,W,38,14
+1990-10-13,Louisville,Ind,Howard Schnellenberger,H,Memphis,Ind,Chuck Stobart,W,19,17
+1990-10-20,Louisville,Ind,Howard Schnellenberger,A,Pitt,Ind,Paul Hackett,W,27,20
+1990-11-03,Louisville,Ind,Howard Schnellenberger,A,Cincinnati,Ind,Tim Murphy,W,41,16
+1990-11-10,Louisville,Ind,Howard Schnellenberger,H,Boston College,Ind,Jack Bicknell,W,17,10
+1991-01-01,Louisville,Ind,Howard Schnellenberger,N,Alabama,SEC,Gene Stallings,W,34,7
+1990-09-15,Arkansas,SWC,Jack Crowe,H,Tulsa,Ind,David Rader,W,28,3
+1990-09-22,Arkansas,SWC,Jack Crowe,H,Ole Miss,SEC,Billy Brewer,L,17,21
+1990-09-29,Arkansas,SWC,Jack Crowe,H,Colorado State,WAC,Earle Bruce,W,31,20
+1990-10-06,Arkansas,SWC,Jack Crowe,H,Texas Christian,SWC,Jim Wacker,L,26,54
+1990-10-13,Arkansas,SWC,Jack Crowe,H,Texas Tech,SWC,Spike Dykes,L,44,49
+1990-10-20,Arkansas,SWC,Jack Crowe,A,Texas,SWC,David McWilliams,L,17,49
+1990-10-27,Arkansas,SWC,Jack Crowe,A,Houston,SWC,John Jenkins,L,28,62
+1990-11-03,Arkansas,SWC,Jack Crowe,H,Rice,SWC,Fred Goldsmith,L,11,19
+1990-11-10,Arkansas,SWC,Jack Crowe,A,Baylor,SWC,Grant Teaff,L,3,34
+1990-11-17,Arkansas,SWC,Jack Crowe,H,Texas A&M,SWC,R.C. Slocum,L,16,20
+1990-11-24,Arkansas,SWC,Jack Crowe,A,SMU,SWC,Forrest Gregg,W,42,29
+1990-09-01,Clemson,ACC,Ken Hatfield,H,Long Beach State,Big West,George Allen,W,59,0
+1990-09-08,Clemson,ACC,Ken Hatfield,A,Virginia,ACC,George Welsh,L,7,20
+1990-09-15,Clemson,ACC,Ken Hatfield,A,Maryland,ACC,Joe Krivak,W,18,17
+1990-09-29,Clemson,ACC,Ken Hatfield,H,Duke,ACC,Barry Wilson,W,26,7
+1990-10-06,Clemson,ACC,Ken Hatfield,H,Georgia,SEC,Ray Goff,W,34,3
+1990-10-13,Clemson,ACC,Ken Hatfield,A,Georgia Tech,ACC,Bobby Ross,L,19,21
+1990-10-20,Clemson,ACC,Ken Hatfield,A,North Carolina State,ACC,Dick Sheridan,W,24,17
+1990-10-27,Clemson,ACC,Ken Hatfield,A,Wake Forest,ACC,Bill Dooley,W,24,6
+1990-11-03,Clemson,ACC,Ken Hatfield,H,North Carolina,ACC,Mack Brown,W,20,3
+1990-11-17,Clemson,ACC,Ken Hatfield,H,South Carolina,Ind,Sparky Woods,W,24,15
+1991-01-01,Clemson,ACC,Ken Hatfield,N,Illinois,Big Ten,John Mackovic,W,30,0
+1990-09-01,South Carolina,Ind,Sparky Woods,H,Duke,ACC,Barry Wilson,W,21,10
+1990-09-08,South Carolina,Ind,Sparky Woods,H,North Carolina,ACC,Mack Brown,W,27,5
+1990-09-22,South Carolina,Ind,Sparky Woods,A,Virginia Tech,Ind,Frank Beamer,W,35,24
+1990-09-29,South Carolina,Ind,Sparky Woods,A,Georgia Tech,ACC,Bobby Ross,L,6,27
+1990-10-13,South Carolina,Ind,Sparky Woods,H,East Carolina,Ind,Bill Lewis,W,37,7
+1990-10-27,South Carolina,Ind,Sparky Woods,A,North Carolina State,ACC,Dick Sheridan,L,29,38
+1990-11-03,South Carolina,Ind,Sparky Woods,H,Florida State,Ind,Bobby Bowden,L,10,41
+1990-11-17,South Carolina,Ind,Sparky Woods,A,Clemson,ACC,Ken Hatfield,L,15,24
+1990-11-22,South Carolina,Ind,Sparky Woods,H,West Virginia,Ind,Don Nehlen,W,29,10
+1990-09-08,Washington,Pac-10,Don James,H,San Jose State,Big West,Terry Shea,W,20,17
+1990-09-15,Washington,Pac-10,Don James,A,Purdue,Big Ten,Fred Akers,W,20,14
+1990-09-22,Washington,Pac-10,Don James,H,USC,Pac-10,Larry Smith,W,31,0
+1990-09-29,Washington,Pac-10,Don James,A,Colorado,Big 8,Bill McCartney,L,14,20
+1990-10-06,Washington,Pac-10,Don James,A,Arizona State,Pac-10,Larry Marmie,W,42,14
+1990-10-13,Washington,Pac-10,Don James,H,Oregon,Pac-10,Rich Brooks,W,38,17
+1990-10-20,Washington,Pac-10,Don James,A,Stanford,Pac-10,Dennis Green,W,52,16
+1990-10-27,Washington,Pac-10,Don James,H,California,Pac-10,Bruce Snyder,W,46,7
+1990-11-03,Washington,Pac-10,Don James,H,Arizona,Pac-10,Dick Tomey,W,54,10
+1990-11-10,Washington,Pac-10,Don James,H,UCLA,Pac-10,Terry Donahue,L,22,25
+1990-11-17,Washington,Pac-10,Don James,A,Washington State,Pac-10,Mike Price,W,55,10
+1991-01-01,Washington,Pac-10,Don James,N,Iowa,Big Ten,Hayden Fry,W,46,34
+1990-09-15,Ball State,MAC,Paul Schudel,A,Wisconsin,Big Ten,Barry Alvarez,L,7,24
+1990-09-22,Ball State,MAC,Paul Schudel,H,Toledo,MAC,Nick Saban,L,16,28
+1990-09-29,Ball State,MAC,Paul Schudel,H,Bowling Green State,MAC,Moe Ankney,W,16,6
+1990-10-06,Ball State,MAC,Paul Schudel,A,Miami (OH),MAC,Randy Walker,L,10,24
+1990-10-13,Ball State,MAC,Paul Schudel,H,Kent State,MAC,Dick Crum,W,31,0
+1990-10-20,Ball State,MAC,Paul Schudel,A,Western Michigan,MAC,Al Molde,L,13,14
+1990-11-03,Ball State,MAC,Paul Schudel,A,Central Michigan,MAC,Herb Deromedi,W,13,3
+1990-11-10,Ball State,MAC,Paul Schudel,A,Eastern Michigan,MAC,Jim Harkema,W,20,13
+1990-11-17,Ball State,MAC,Paul Schudel,H,Ohio,MAC,Tom Lichtenberg,W,23,6
+1990-09-08,Southern Mississippi,Ind,Jeff Bower,A,Alabama,SEC,Gene Stallings,W,27,24
+1990-09-15,Southern Mississippi,Ind,Jeff Bower,A,Georgia,SEC,Ray Goff,L,17,18
+1990-09-22,Southern Mississippi,Ind,Jeff Bower,A,Mississippi State,SEC,Rockey Felker,L,10,13
+1990-09-29,Southern Mississippi,Ind,Jeff Bower,H,Louisville,Ind,Howard Schnellenberger,W,25,13
+1990-10-06,Southern Mississippi,Ind,Jeff Bower,A,East Carolina,Ind,Bill Lewis,W,16,7
+1990-10-13,Southern Mississippi,Ind,Jeff Bower,A,Tulane,Ind,Greg Davis,W,20,14
+1990-10-20,Southern Mississippi,Ind,Jeff Bower,H,Memphis,Ind,Chuck Stobart,W,23,7
+1990-10-27,Southern Mississippi,Ind,Jeff Bower,A,Virginia Tech,Ind,Frank Beamer,L,16,20
+1990-11-03,Southern Mississippi,Ind,Jeff Bower,A,Louisiana,Ind,Nelson Stokley,W,14,13
+1990-11-10,Southern Mississippi,Ind,Jeff Bower,A,Auburn,SEC,Pat Dye,W,13,12
+1990-12-28,Southern Mississippi,Ind,Jeff Bower,N,North Carolina State,ACC,Dick Sheridan,L,27,31
+1990-09-01,Long Beach State,Big West,George Allen,A,Clemson,ACC,Ken Hatfield,L,0,59
+1990-09-08,Long Beach State,Big West,George Allen,A,Utah State,Big West,Chuck Shelton,L,13,27
+1990-09-15,Long Beach State,Big West,George Allen,A,San Diego State,WAC,Al Luginbill,L,20,38
+1990-09-22,Long Beach State,Big West,George Allen,H,Pacific,Big West,Walt Harris,W,28,7
+1990-10-06,Long Beach State,Big West,George Allen,H,New Mexico State,Big West,Jim Hess,W,31,27
+1990-10-13,Long Beach State,Big West,George Allen,A,San Jose State,Big West,Terry Shea,L,29,46
+1990-10-20,Long Beach State,Big West,George Allen,A,Fresno State,Big West,Jim Sweeney,L,16,28
+1990-10-27,Long Beach State,Big West,George Allen,H,Cal State Fullerton,Big West,Gene Murphy,W,37,35
+1990-11-17,Long Beach State,Big West,George Allen,H,Nevada-Las Vegas,Big West,Jim Strong,W,29,20
+1990-09-01,Utah State,Big West,Chuck Shelton,H,Utah,WAC,Ron McBride,L,0,19
+1990-09-08,Utah State,Big West,Chuck Shelton,H,Long Beach State,Big West,George Allen,W,27,13
+1990-09-15,Utah State,Big West,Chuck Shelton,A,Missouri,Big 8,Bob Stull,L,10,45
+1990-10-06,Utah State,Big West,Chuck Shelton,A,Oregon,Pac-10,Rich Brooks,L,7,52
+1990-10-13,Utah State,Big West,Chuck Shelton,A,Fresno State,Big West,Jim Sweeney,T,24,24
+1990-10-20,Utah State,Big West,Chuck Shelton,A,San Jose State,Big West,Terry Shea,L,27,34
+1990-10-27,Utah State,Big West,Chuck Shelton,H,Nevada-Las Vegas,Big West,Jim Strong,W,31,6
+1990-11-03,Utah State,Big West,Chuck Shelton,H,New Mexico State,Big West,Jim Hess,W,55,10
+1990-11-10,Utah State,Big West,Chuck Shelton,A,Cal State Fullerton,Big West,Gene Murphy,W,45,17
+1990-11-17,Utah State,Big West,Chuck Shelton,H,Pacific,Big West,Walt Harris,W,51,45
+1990-11-24,Utah State,Big West,Chuck Shelton,A,Brigham Young,WAC,LaVell Edwards,L,10,45
+1990-09-08,Missouri,Big 8,Bob Stull,H,Texas Christian,SWC,Jim Wacker,L,19,20
+1990-09-15,Missouri,Big 8,Bob Stull,H,Utah State,Big West,Chuck Shelton,W,45,10
+1990-09-22,Missouri,Big 8,Bob Stull,A,Indiana,Big Ten,Bill Mallory,L,7,58
+1990-09-29,Missouri,Big 8,Bob Stull,H,Arizona State,Pac-10,Larry Marmie,W,30,9
+1990-10-06,Missouri,Big 8,Bob Stull,H,Colorado,Big 8,Bill McCartney,L,31,33
+1990-10-13,Missouri,Big 8,Bob Stull,A,Nebraska,Big 8,Tom Osborne,L,21,69
+1990-10-20,Missouri,Big 8,Bob Stull,H,Kansas State,Big 8,Bill Snyder,W,31,10
+1990-10-27,Missouri,Big 8,Bob Stull,A,Oklahoma State,Big 8,Pat Jones,L,28,48
+1990-11-03,Missouri,Big 8,Bob Stull,H,Oklahoma,Big 8,Gary Gibbs,L,10,55
+1990-11-10,Missouri,Big 8,Bob Stull,A,Iowa State,Big 8,Jim Walden,L,25,27
+1990-11-17,Missouri,Big 8,Bob Stull,A,Kansas,Big 8,Glen Mason,W,31,21
+1990-09-01,San Jose State,Big West,Terry Shea,H,Louisville,Ind,Howard Schnellenberger,T,10,10
+1990-09-08,San Jose State,Big West,Terry Shea,A,Washington,Pac-10,Don James,L,17,20
+1990-09-15,San Jose State,Big West,Terry Shea,A,Pacific,Big West,Walt Harris,W,28,14
+1990-09-22,San Jose State,Big West,Terry Shea,A,Nevada-Las Vegas,Big West,Jim Strong,W,47,13
+1990-09-29,San Jose State,Big West,Terry Shea,A,Stanford,Pac-10,Dennis Green,W,29,23
+1990-10-06,San Jose State,Big West,Terry Shea,A,California,Pac-10,Bruce Snyder,L,34,35
+1990-10-13,San Jose State,Big West,Terry Shea,H,Long Beach State,Big West,George Allen,W,46,29
+1990-10-20,San Jose State,Big West,Terry Shea,H,Utah State,Big West,Chuck Shelton,W,34,27
+1990-11-03,San Jose State,Big West,Terry Shea,A,Cal State Fullerton,Big West,Gene Murphy,W,44,6
+1990-11-10,San Jose State,Big West,Terry Shea,A,New Mexico State,Big West,Jim Hess,W,56,20
+1990-11-17,San Jose State,Big West,Terry Shea,H,Fresno State,Big West,Jim Sweeney,W,42,7
+1990-12-08,San Jose State,Big West,Terry Shea,N,Central Michigan,MAC,Herb Deromedi,W,48,24
+1990-09-02,Bowling Green State,MAC,Moe Ankney,A,Cincinnati,Ind,Tim Murphy,W,34,20
+1990-09-08,Bowling Green State,MAC,Moe Ankney,A,Virginia Tech,Ind,Frank Beamer,L,7,21
+1990-09-22,Bowling Green State,MAC,Moe Ankney,A,Central Michigan,MAC,Herb Deromedi,L,0,17
+1990-09-29,Bowling Green State,MAC,Moe Ankney,A,Ball State,MAC,Paul Schudel,L,6,16
+1990-10-06,Bowling Green State,MAC,Moe Ankney,H,Ohio,MAC,Tom Lichtenberg,T,10,10
+1990-10-13,Bowling Green State,MAC,Moe Ankney,A,Toledo,MAC,Nick Saban,L,13,19
+1990-10-20,Bowling Green State,MAC,Moe Ankney,H,Eastern Michigan,MAC,Jim Harkema,W,25,15
+1990-10-27,Bowling Green State,MAC,Moe Ankney,H,Miami (OH),MAC,Randy Walker,T,10,10
+1990-11-03,Bowling Green State,MAC,Moe Ankney,A,Kent State,MAC,Dick Crum,W,20,16
+1990-11-10,Bowling Green State,MAC,Moe Ankney,H,Western Michigan,MAC,Al Molde,L,13,19
+1990-09-08,Wisconsin,Big Ten,Barry Alvarez,H,California,Pac-10,Bruce Snyder,L,12,28
+1990-09-15,Wisconsin,Big Ten,Barry Alvarez,H,Ball State,MAC,Paul Schudel,W,24,7
+1990-09-22,Wisconsin,Big Ten,Barry Alvarez,H,Temple,Ind,Jerry Berndt,L,18,24
+1990-10-06,Wisconsin,Big Ten,Barry Alvarez,H,Michigan,Big Ten,Gary Moeller,L,3,41
+1990-10-13,Wisconsin,Big Ten,Barry Alvarez,A,Iowa,Big Ten,Hayden Fry,L,10,30
+1990-10-20,Wisconsin,Big Ten,Barry Alvarez,A,Northwestern,Big Ten,Francis Peay,L,34,44
+1990-10-27,Wisconsin,Big Ten,Barry Alvarez,H,Illinois,Big Ten,John Mackovic,L,3,21
+1990-11-03,Wisconsin,Big Ten,Barry Alvarez,H,Minnesota,Big Ten,John Gutekunst,L,3,21
+1990-11-10,Wisconsin,Big Ten,Barry Alvarez,A,Indiana,Big Ten,Bill Mallory,L,7,20
+1990-11-17,Wisconsin,Big Ten,Barry Alvarez,H,Ohio State,Big Ten,John Cooper,L,10,35
+1990-11-24,Wisconsin,Big Ten,Barry Alvarez,A,Michigan State,Big Ten,George Perles,L,9,14
+1990-08-31,USC,Pac-10,Larry Smith,N,Syracuse,Ind,Dick MacPherson,W,34,16
+1990-09-15,USC,Pac-10,Larry Smith,H,Penn State,Ind,Joe Paterno,W,19,14
+1990-09-22,USC,Pac-10,Larry Smith,A,Washington,Pac-10,Don James,L,0,31
+1990-09-29,USC,Pac-10,Larry Smith,A,Ohio State,Big Ten,John Cooper,W,35,26
+1990-10-06,USC,Pac-10,Larry Smith,H,Washington State,Pac-10,Mike Price,W,30,17
+1990-10-13,USC,Pac-10,Larry Smith,A,Stanford,Pac-10,Dennis Green,W,37,22
+1990-10-20,USC,Pac-10,Larry Smith,H,Arizona,Pac-10,Dick Tomey,L,26,35
+1990-10-27,USC,Pac-10,Larry Smith,A,Arizona State,Pac-10,Larry Marmie,W,13,6
+1990-11-03,USC,Pac-10,Larry Smith,H,California,Pac-10,Bruce Snyder,T,31,31
+1990-11-10,USC,Pac-10,Larry Smith,A,Oregon State,Pac-10,Dave Kragthorpe,W,56,7
+1990-11-17,USC,Pac-10,Larry Smith,A,UCLA,Pac-10,Terry Donahue,W,45,42
+1990-11-24,USC,Pac-10,Larry Smith,H,Notre Dame,Ind,Lou Holtz,L,6,10
+1990-12-31,USC,Pac-10,Larry Smith,N,Michigan State,Big Ten,George Perles,L,16,17
+1990-09-08,North Carolina State,ACC,Dick Sheridan,A,Georgia Tech,ACC,Bobby Ross,L,13,21
+1990-09-15,North Carolina State,ACC,Dick Sheridan,H,Wake Forest,ACC,Bill Dooley,W,20,15
+1990-09-22,North Carolina State,ACC,Dick Sheridan,A,Maryland,ACC,Joe Krivak,L,12,13
+1990-09-29,North Carolina State,ACC,Dick Sheridan,A,North Carolina,ACC,Mack Brown,W,12,9
+1990-10-13,North Carolina State,ACC,Dick Sheridan,A,Virginia,ACC,George Welsh,L,0,31
+1990-10-20,North Carolina State,ACC,Dick Sheridan,H,Clemson,ACC,Ken Hatfield,L,17,24
+1990-10-27,North Carolina State,ACC,Dick Sheridan,H,South Carolina,Ind,Sparky Woods,W,38,29
+1990-11-03,North Carolina State,ACC,Dick Sheridan,A,Virginia Tech,Ind,Frank Beamer,L,16,20
+1990-11-10,North Carolina State,ACC,Dick Sheridan,H,Duke,ACC,Barry Wilson,W,16,0
+1990-12-28,North Carolina State,ACC,Dick Sheridan,N,Southern Mississippi,Ind,Jeff Bower,W,31,27
+1990-09-08,San Diego State,WAC,Al Luginbill,A,Oregon,Pac-10,Rich Brooks,L,21,42
+1990-09-15,San Diego State,WAC,Al Luginbill,H,Long Beach State,Big West,George Allen,W,38,20
+1990-09-22,San Diego State,WAC,Al Luginbill,A,Brigham Young,WAC,LaVell Edwards,L,34,62
+1990-09-29,San Diego State,WAC,Al Luginbill,H,Air Force,WAC,Fisher DeBerry,W,48,18
+1990-10-06,San Diego State,WAC,Al Luginbill,A,Wyoming,WAC,Paul Roach,L,51,52
+1990-10-13,San Diego State,WAC,Al Luginbill,A,UCLA,Pac-10,Terry Donahue,L,31,45
+1990-11-03,San Diego State,WAC,Al Luginbill,H,Utah,WAC,Ron McBride,W,66,14
+1990-11-10,San Diego State,WAC,Al Luginbill,H,Hawaii,WAC,Bob Wagner,W,44,38
+1990-11-17,San Diego State,WAC,Al Luginbill,A,New Mexico,WAC,Mike Sheppard,W,40,34
+1990-11-24,San Diego State,WAC,Al Luginbill,H,UTEP,WAC,David Lee,W,58,31
+1990-12-01,San Diego State,WAC,Al Luginbill,H,Miami (FL),Ind,Dennis Erickson,L,28,30
+1990-09-01,Hawaii,WAC,Bob Wagner,H,Texas A&M,SWC,R.C. Slocum,L,13,28
+1990-09-08,Hawaii,WAC,Bob Wagner,A,Air Force,WAC,Fisher DeBerry,L,3,27
+1990-09-22,Hawaii,WAC,Bob Wagner,A,Utah,WAC,Ron McBride,W,19,7
+1990-10-13,Hawaii,WAC,Bob Wagner,A,UTEP,WAC,David Lee,L,10,12
+1990-10-20,Hawaii,WAC,Bob Wagner,H,Cal State Fullerton,Big West,Gene Murphy,W,45,21
+1990-10-27,Hawaii,WAC,Bob Wagner,H,Pacific,Big West,Walt Harris,W,35,24
+1990-11-03,Hawaii,WAC,Bob Wagner,H,New Mexico,WAC,Mike Sheppard,W,43,16
+1990-11-10,Hawaii,WAC,Bob Wagner,A,San Diego State,WAC,Al Luginbill,L,38,44
+1990-11-17,Hawaii,WAC,Bob Wagner,H,Wyoming,WAC,Paul Roach,W,38,17
+1990-11-24,Hawaii,WAC,Bob Wagner,H,Colorado State,WAC,Earle Bruce,L,27,30
+1990-12-01,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,W,59,28
+1990-09-08,Rutgers,Ind,Doug Graber,H,Kentucky,SEC,Bill Curry,W,24,8
+1990-09-22,Rutgers,Ind,Doug Graber,A,Penn State,Ind,Joe Paterno,L,0,28
+1990-09-29,Rutgers,Ind,Doug Graber,H,Michigan State,Big Ten,George Perles,L,10,34
+1990-10-06,Rutgers,Ind,Doug Graber,A,Boston College,Ind,Jack Bicknell,L,14,19
+1990-10-13,Rutgers,Ind,Doug Graber,A,Pitt,Ind,Paul Hackett,L,21,45
+1990-10-20,Rutgers,Ind,Doug Graber,A,Syracuse,Ind,Dick MacPherson,L,0,42
+1990-10-27,Rutgers,Ind,Doug Graber,H,Akron,Ind,Gerry Faust,W,20,17
+1990-11-03,Rutgers,Ind,Doug Graber,A,Army,Ind,Jim Young,L,31,35
+1990-11-10,Rutgers,Ind,Doug Graber,H,West Virginia,Ind,Don Nehlen,L,3,28
+1990-11-17,Rutgers,Ind,Doug Graber,A,Temple,Ind,Jerry Berndt,L,22,29
+1990-09-01,Eastern Michigan,MAC,Jim Harkema,A,Fresno State,Big West,Jim Sweeney,L,10,41
+1990-09-08,Eastern Michigan,MAC,Jim Harkema,H,Western Michigan,MAC,Al Molde,W,27,24
+1990-09-15,Eastern Michigan,MAC,Jim Harkema,H,Ohio,MAC,Tom Lichtenberg,W,21,18
+1990-09-29,Eastern Michigan,MAC,Jim Harkema,A,Indiana,Big Ten,Bill Mallory,L,6,37
+1990-10-06,Eastern Michigan,MAC,Jim Harkema,A,Toledo,MAC,Nick Saban,L,23,37
+1990-10-20,Eastern Michigan,MAC,Jim Harkema,A,Bowling Green State,MAC,Moe Ankney,L,15,25
+1990-10-27,Eastern Michigan,MAC,Jim Harkema,H,Central Michigan,MAC,Herb Deromedi,L,12,16
+1990-11-03,Eastern Michigan,MAC,Jim Harkema,A,Miami (OH),MAC,Randy Walker,L,14,34
+1990-11-10,Eastern Michigan,MAC,Jim Harkema,H,Ball State,MAC,Paul Schudel,L,13,20
+1990-11-17,Eastern Michigan,MAC,Jim Harkema,A,Kent State,MAC,Dick Crum,L,24,25
+1990-09-01,Central Michigan,MAC,Herb Deromedi,A,Kentucky,SEC,Bill Curry,L,17,20
+1990-09-08,Central Michigan,MAC,Herb Deromedi,H,Cincinnati,Ind,Tim Murphy,W,34,0
+1990-09-15,Central Michigan,MAC,Herb Deromedi,A,Akron,Ind,Gerry Faust,T,14,14
+1990-09-22,Central Michigan,MAC,Herb Deromedi,H,Bowling Green State,MAC,Moe Ankney,W,17,0
+1990-09-29,Central Michigan,MAC,Herb Deromedi,H,Miami (OH),MAC,Randy Walker,W,31,7
+1990-10-06,Central Michigan,MAC,Herb Deromedi,A,Kent State,MAC,Dick Crum,W,42,0
+1990-10-13,Central Michigan,MAC,Herb Deromedi,H,Western Michigan,MAC,Al Molde,W,20,13
+1990-10-20,Central Michigan,MAC,Herb Deromedi,H,Toledo,MAC,Nick Saban,W,13,12
+1990-10-27,Central Michigan,MAC,Herb Deromedi,A,Eastern Michigan,MAC,Jim Harkema,W,16,12
+1990-11-03,Central Michigan,MAC,Herb Deromedi,H,Ball State,MAC,Paul Schudel,L,3,13
+1990-11-10,Central Michigan,MAC,Herb Deromedi,A,Ohio,MAC,Tom Lichtenberg,W,52,7
+1990-12-08,Central Michigan,MAC,Herb Deromedi,N,San Jose State,Big West,Terry Shea,L,24,48
+1990-09-15,Michigan,Big Ten,Gary Moeller,A,Notre Dame,Ind,Lou Holtz,L,24,28
+1990-09-22,Michigan,Big Ten,Gary Moeller,H,UCLA,Pac-10,Terry Donahue,W,38,15
+1990-09-29,Michigan,Big Ten,Gary Moeller,H,Maryland,ACC,Joe Krivak,W,45,17
+1990-10-06,Michigan,Big Ten,Gary Moeller,A,Wisconsin,Big Ten,Barry Alvarez,W,41,3
+1990-10-13,Michigan,Big Ten,Gary Moeller,H,Michigan State,Big Ten,George Perles,L,27,28
+1990-10-20,Michigan,Big Ten,Gary Moeller,H,Iowa,Big Ten,Hayden Fry,L,23,24
+1990-10-27,Michigan,Big Ten,Gary Moeller,A,Indiana,Big Ten,Bill Mallory,W,45,19
+1990-11-03,Michigan,Big Ten,Gary Moeller,A,Purdue,Big Ten,Fred Akers,W,38,13
+1990-11-10,Michigan,Big Ten,Gary Moeller,H,Illinois,Big Ten,John Mackovic,W,22,17
+1990-11-17,Michigan,Big Ten,Gary Moeller,H,Minnesota,Big Ten,John Gutekunst,W,35,18
+1990-11-24,Michigan,Big Ten,Gary Moeller,A,Ohio State,Big Ten,John Cooper,W,16,13
+1991-01-01,Michigan,Big Ten,Gary Moeller,N,Ole Miss,SEC,Billy Brewer,W,35,3
+1990-09-01,Temple,Ind,Jerry Berndt,A,Wyoming,WAC,Paul Roach,L,23,38
+1990-09-08,Temple,Ind,Jerry Berndt,A,Syracuse,Ind,Dick MacPherson,L,9,19
+1990-09-22,Temple,Ind,Jerry Berndt,A,Wisconsin,Big Ten,Barry Alvarez,W,24,18
+1990-10-06,Temple,Ind,Jerry Berndt,A,Penn State,Ind,Joe Paterno,L,10,48
+1990-10-20,Temple,Ind,Jerry Berndt,H,Virginia Tech,Ind,Frank Beamer,W,31,28
+1990-10-27,Temple,Ind,Jerry Berndt,H,East Carolina,Ind,Bill Lewis,W,30,27
+1990-11-03,Temple,Ind,Jerry Berndt,A,Tennessee,SEC,Johnny Majors,L,20,41
+1990-11-10,Temple,Ind,Jerry Berndt,A,Pitt,Ind,Paul Hackett,W,28,18
+1990-11-17,Temple,Ind,Jerry Berndt,H,Rutgers,Ind,Doug Graber,W,29,22
+1990-11-24,Temple,Ind,Jerry Berndt,A,Boston College,Ind,Jack Bicknell,W,29,10
+1990-09-01,New Mexico,WAC,Mike Sheppard,A,New Mexico State,Big West,Jim Hess,W,29,12
+1990-09-08,New Mexico,WAC,Mike Sheppard,A,Fresno State,Big West,Jim Sweeney,L,17,24
+1990-09-15,New Mexico,WAC,Mike Sheppard,H,Arizona,Pac-10,Dick Tomey,L,10,25
+1990-09-22,New Mexico,WAC,Mike Sheppard,H,Texas Tech,SWC,Spike Dykes,L,32,34
+1990-09-29,New Mexico,WAC,Mike Sheppard,A,Kansas State,Big 8,Bill Snyder,L,6,38
+1990-10-06,New Mexico,WAC,Mike Sheppard,H,UTEP,WAC,David Lee,W,48,28
+1990-10-13,New Mexico,WAC,Mike Sheppard,A,Wyoming,WAC,Paul Roach,L,22,25
+1990-10-20,New Mexico,WAC,Mike Sheppard,A,Colorado State,WAC,Earle Bruce,L,7,47
+1990-10-29,New Mexico,WAC,Mike Sheppard,A,Brigham Young,WAC,LaVell Edwards,L,31,55
+1990-11-03,New Mexico,WAC,Mike Sheppard,A,Hawaii,WAC,Bob Wagner,L,16,43
+1990-11-10,New Mexico,WAC,Mike Sheppard,H,Utah,WAC,Ron McBride,L,27,29
+1990-11-17,New Mexico,WAC,Mike Sheppard,H,San Diego State,WAC,Al Luginbill,L,34,40
+1990-09-01,Pacific,Big West,Walt Harris,A,Tennessee,SEC,Johnny Majors,L,7,55
+1990-09-15,Pacific,Big West,Walt Harris,H,San Jose State,Big West,Terry Shea,L,14,28
+1990-09-22,Pacific,Big West,Walt Harris,A,Long Beach State,Big West,George Allen,L,7,28
+1990-09-29,Pacific,Big West,Walt Harris,H,Nevada-Las Vegas,Big West,Jim Strong,L,28,37
+1990-10-13,Pacific,Big West,Walt Harris,A,Cal State Fullerton,Big West,Gene Murphy,W,67,37
+1990-10-20,Pacific,Big West,Walt Harris,H,New Mexico State,Big West,Jim Hess,W,62,24
+1990-10-27,Pacific,Big West,Walt Harris,A,Hawaii,WAC,Bob Wagner,L,24,35
+1990-11-10,Pacific,Big West,Walt Harris,A,Fresno State,Big West,Jim Sweeney,L,17,48
+1990-11-17,Pacific,Big West,Walt Harris,A,Utah State,Big West,Chuck Shelton,L,45,51
+1990-09-15,Notre Dame,Ind,Lou Holtz,H,Michigan,Big Ten,Gary Moeller,W,28,24
+1990-09-22,Notre Dame,Ind,Lou Holtz,A,Michigan State,Big Ten,George Perles,W,20,19
+1990-09-29,Notre Dame,Ind,Lou Holtz,H,Purdue,Big Ten,Fred Akers,W,37,11
+1990-10-06,Notre Dame,Ind,Lou Holtz,H,Stanford,Pac-10,Dennis Green,L,31,36
+1990-10-13,Notre Dame,Ind,Lou Holtz,H,Air Force,WAC,Fisher DeBerry,W,57,27
+1990-10-20,Notre Dame,Ind,Lou Holtz,H,Miami (FL),Ind,Dennis Erickson,W,29,20
+1990-10-27,Notre Dame,Ind,Lou Holtz,A,Pitt,Ind,Paul Hackett,W,31,22
+1990-11-03,Notre Dame,Ind,Lou Holtz,N,Navy,Ind,George Chaump,W,52,31
+1990-11-10,Notre Dame,Ind,Lou Holtz,A,Tennessee,SEC,Johnny Majors,W,34,29
+1990-11-17,Notre Dame,Ind,Lou Holtz,H,Penn State,Ind,Joe Paterno,L,21,24
+1990-11-24,Notre Dame,Ind,Lou Holtz,A,USC,Pac-10,Larry Smith,W,10,6
+1991-01-01,Notre Dame,Ind,Lou Holtz,N,Colorado,Big 8,Bill McCartney,L,9,10
+1990-09-01,Louisiana,Ind,Nelson Stokley,A,Tulane,Ind,Greg Davis,W,48,6
+1990-09-15,Louisiana,Ind,Nelson Stokley,A,Texas A&M,SWC,R.C. Slocum,L,14,63
+1990-09-22,Louisiana,Ind,Nelson Stokley,H,East Carolina,Ind,Bill Lewis,L,10,20
+1990-09-29,Louisiana,Ind,Nelson Stokley,A,Louisiana Tech,Ind,Joe Peace,L,10,24
+1990-10-06,Louisiana,Ind,Nelson Stokley,H,Alabama,SEC,Gene Stallings,L,6,25
+1990-10-20,Louisiana,Ind,Nelson Stokley,A,Tulsa,Ind,David Rader,W,25,13
+1990-10-27,Louisiana,Ind,Nelson Stokley,A,Memphis,Ind,Chuck Stobart,L,6,20
+1990-11-03,Louisiana,Ind,Nelson Stokley,H,Southern Mississippi,Ind,Jeff Bower,L,13,14
+1990-11-10,Louisiana,Ind,Nelson Stokley,A,Arkansas State,Ind,Al Kincaid,W,17,16
+1990-11-17,Louisiana,Ind,Nelson Stokley,H,Northern Illinois,Ind,Jerry Pettibone,W,24,20
+1990-09-01,East Carolina,Ind,Bill Lewis,H,Louisiana Tech,Ind,Joe Peace,W,27,17
+1990-09-08,East Carolina,Ind,Bill Lewis,A,Florida State,Ind,Bobby Bowden,L,24,45
+1990-09-15,East Carolina,Ind,Bill Lewis,H,Virginia Tech,Ind,Frank Beamer,L,23,24
+1990-09-22,East Carolina,Ind,Bill Lewis,A,Louisiana,Ind,Nelson Stokley,W,20,10
+1990-09-29,East Carolina,Ind,Bill Lewis,A,Georgia,SEC,Ray Goff,L,15,19
+1990-10-06,East Carolina,Ind,Bill Lewis,H,Southern Mississippi,Ind,Jeff Bower,L,7,16
+1990-10-13,East Carolina,Ind,Bill Lewis,A,South Carolina,Ind,Sparky Woods,L,7,37
+1990-10-20,East Carolina,Ind,Bill Lewis,H,Cincinnati,Ind,Tim Murphy,W,56,32
+1990-10-27,East Carolina,Ind,Bill Lewis,A,Temple,Ind,Jerry Berndt,L,27,30
+1990-11-03,East Carolina,Ind,Bill Lewis,A,Memphis,Ind,Chuck Stobart,W,24,17
+1990-11-10,East Carolina,Ind,Bill Lewis,H,Northern Illinois,Ind,Jerry Pettibone,W,24,20
+1990-09-08,Toledo,MAC,Nick Saban,A,Miami (OH),MAC,Randy Walker,W,20,14
+1990-09-15,Toledo,MAC,Nick Saban,H,Northern Illinois,Ind,Jerry Pettibone,W,23,14
+1990-09-22,Toledo,MAC,Nick Saban,A,Ball State,MAC,Paul Schudel,W,28,16
+1990-09-29,Toledo,MAC,Nick Saban,A,Ohio,MAC,Tom Lichtenberg,W,27,20
+1990-10-06,Toledo,MAC,Nick Saban,H,Eastern Michigan,MAC,Jim Harkema,W,37,23
+1990-10-13,Toledo,MAC,Nick Saban,H,Bowling Green State,MAC,Moe Ankney,W,19,13
+1990-10-20,Toledo,MAC,Nick Saban,A,Central Michigan,MAC,Herb Deromedi,L,12,13
+1990-10-27,Toledo,MAC,Nick Saban,H,Kent State,MAC,Dick Crum,W,28,14
+1990-11-03,Toledo,MAC,Nick Saban,A,Western Michigan,MAC,Al Molde,W,37,9
+1990-11-10,Toledo,MAC,Nick Saban,H,Navy,Ind,George Chaump,L,10,14
+1990-11-17,Toledo,MAC,Nick Saban,H,Arkansas State,Ind,Al Kincaid,W,43,28
+1990-09-01,Pitt,Ind,Paul Hackett,H,Ohio,MAC,Tom Lichtenberg,W,35,3
+1990-09-08,Pitt,Ind,Paul Hackett,H,Boston College,Ind,Jack Bicknell,W,29,6
+1990-09-15,Pitt,Ind,Paul Hackett,A,Oklahoma,Big 8,Gary Gibbs,L,10,52
+1990-09-22,Pitt,Ind,Paul Hackett,A,Syracuse,Ind,Dick MacPherson,T,20,20
+1990-09-29,Pitt,Ind,Paul Hackett,H,West Virginia,Ind,Don Nehlen,L,24,38
+1990-10-13,Pitt,Ind,Paul Hackett,H,Rutgers,Ind,Doug Graber,W,45,21
+1990-10-20,Pitt,Ind,Paul Hackett,H,Louisville,Ind,Howard Schnellenberger,L,20,27
+1990-10-27,Pitt,Ind,Paul Hackett,H,Notre Dame,Ind,Lou Holtz,L,22,31
+1990-11-03,Pitt,Ind,Paul Hackett,A,Miami (FL),Ind,Dennis Erickson,L,0,45
+1990-11-10,Pitt,Ind,Paul Hackett,H,Temple,Ind,Jerry Berndt,L,18,28
+1990-11-24,Pitt,Ind,Paul Hackett,A,Penn State,Ind,Joe Paterno,L,17,22
+1990-09-08,Akron,Ind,Gerry Faust,A,Kent State,MAC,Dick Crum,W,38,10
+1990-09-15,Akron,Ind,Gerry Faust,H,Central Michigan,MAC,Herb Deromedi,T,14,14
+1990-09-22,Akron,Ind,Gerry Faust,H,Cal State Fullerton,Big West,Gene Murphy,W,48,17
+1990-10-06,Akron,Ind,Gerry Faust,H,Western Michigan,MAC,Al Molde,L,20,24
+1990-10-13,Akron,Ind,Gerry Faust,A,Navy,Ind,George Chaump,L,13,17
+1990-10-20,Akron,Ind,Gerry Faust,A,Florida,SEC,Steve Spurrier,L,0,59
+1990-10-27,Akron,Ind,Gerry Faust,A,Rutgers,Ind,Doug Graber,L,17,20
+1990-11-03,Akron,Ind,Gerry Faust,H,Northern Illinois,Ind,Jerry Pettibone,L,28,31
+1990-11-10,Akron,Ind,Gerry Faust,A,Louisiana Tech,Ind,Joe Peace,L,15,36
+1990-09-01,Wyoming,WAC,Paul Roach,H,Temple,Ind,Jerry Berndt,W,38,23
+1990-09-08,Wyoming,WAC,Paul Roach,A,Washington State,Pac-10,Mike Price,W,34,13
+1990-09-15,Wyoming,WAC,Paul Roach,H,Arkansas State,Ind,Al Kincaid,W,34,27
+1990-09-22,Wyoming,WAC,Paul Roach,H,Air Force,WAC,Fisher DeBerry,W,24,12
+1990-09-29,Wyoming,WAC,Paul Roach,A,Utah,WAC,Ron McBride,W,28,10
+1990-10-06,Wyoming,WAC,Paul Roach,H,San Diego State,WAC,Al Luginbill,W,52,51
+1990-10-13,Wyoming,WAC,Paul Roach,H,New Mexico,WAC,Mike Sheppard,W,25,22
+1990-10-27,Wyoming,WAC,Paul Roach,A,UTEP,WAC,David Lee,W,17,10
+1990-11-03,Wyoming,WAC,Paul Roach,A,Colorado State,WAC,Earle Bruce,L,8,17
+1990-11-10,Wyoming,WAC,Paul Roach,H,Brigham Young,WAC,LaVell Edwards,L,14,45
+1990-11-17,Wyoming,WAC,Paul Roach,A,Hawaii,WAC,Bob Wagner,L,17,38
+1990-12-31,Wyoming,WAC,Paul Roach,N,California,Pac-10,Bruce Snyder,L,15,17
+1990-09-01,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,David Lee,W,30,10
+1990-09-08,Brigham Young,WAC,LaVell Edwards,H,Miami (FL),Ind,Dennis Erickson,W,28,21
+1990-09-15,Brigham Young,WAC,LaVell Edwards,H,Washington State,Pac-10,Mike Price,W,50,36
+1990-09-22,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Al Luginbill,W,62,34
+1990-09-29,Brigham Young,WAC,LaVell Edwards,A,Oregon,Pac-10,Rich Brooks,L,16,32
+1990-10-13,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Earle Bruce,W,52,9
+1990-10-29,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Mike Sheppard,W,55,31
+1990-11-03,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,54,7
+1990-11-10,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Paul Roach,W,45,14
+1990-11-17,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,45,22
+1990-11-24,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,45,10
+1990-12-01,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,28,59
+1990-12-29,Brigham Young,WAC,LaVell Edwards,N,Texas A&M,SWC,R.C. Slocum,L,14,65
+1990-09-08,Georgia Tech,ACC,Bobby Ross,H,North Carolina State,ACC,Dick Sheridan,W,21,13
+1990-09-29,Georgia Tech,ACC,Bobby Ross,H,South Carolina,Ind,Sparky Woods,W,27,6
+1990-10-06,Georgia Tech,ACC,Bobby Ross,A,Maryland,ACC,Joe Krivak,W,31,3
+1990-10-13,Georgia Tech,ACC,Bobby Ross,H,Clemson,ACC,Ken Hatfield,W,21,19
+1990-10-20,Georgia Tech,ACC,Bobby Ross,A,North Carolina,ACC,Mack Brown,T,13,13
+1990-10-27,Georgia Tech,ACC,Bobby Ross,H,Duke,ACC,Barry Wilson,W,48,31
+1990-11-03,Georgia Tech,ACC,Bobby Ross,A,Virginia,ACC,George Welsh,W,41,38
+1990-11-10,Georgia Tech,ACC,Bobby Ross,H,Virginia Tech,Ind,Frank Beamer,W,6,3
+1990-11-17,Georgia Tech,ACC,Bobby Ross,A,Wake Forest,ACC,Bill Dooley,W,42,7
+1990-12-01,Georgia Tech,ACC,Bobby Ross,A,Georgia,SEC,Ray Goff,W,40,23
+1991-01-01,Georgia Tech,ACC,Bobby Ross,N,Nebraska,Big 8,Tom Osborne,W,45,21
+1990-09-01,Wake Forest,ACC,Bill Dooley,A,Rice,SWC,Fred Goldsmith,L,17,33
+1990-09-15,Wake Forest,ACC,Bill Dooley,A,North Carolina State,ACC,Dick Sheridan,L,15,20
+1990-09-29,Wake Forest,ACC,Bill Dooley,H,Army,Ind,Jim Young,W,52,14
+1990-10-06,Wake Forest,ACC,Bill Dooley,H,North Carolina,ACC,Mack Brown,L,24,31
+1990-10-13,Wake Forest,ACC,Bill Dooley,A,Maryland,ACC,Joe Krivak,L,13,41
+1990-10-20,Wake Forest,ACC,Bill Dooley,H,Virginia,ACC,George Welsh,L,14,49
+1990-10-27,Wake Forest,ACC,Bill Dooley,H,Clemson,ACC,Ken Hatfield,L,6,24
+1990-11-03,Wake Forest,ACC,Bill Dooley,A,Duke,ACC,Barry Wilson,L,20,57
+1990-11-17,Wake Forest,ACC,Bill Dooley,H,Georgia Tech,ACC,Bobby Ross,L,7,42
+1990-11-24,Wake Forest,ACC,Bill Dooley,A,Vanderbilt,SEC,Watson Brown,W,56,28
+1990-09-01,Arkansas State,Ind,Al Kincaid,A,Memphis,Ind,Chuck Stobart,T,24,24
+1990-09-15,Arkansas State,Ind,Al Kincaid,A,Wyoming,WAC,Paul Roach,L,27,34
+1990-09-22,Arkansas State,Ind,Al Kincaid,A,Louisiana Tech,Ind,Joe Peace,L,7,40
+1990-10-13,Arkansas State,Ind,Al Kincaid,A,Northern Illinois,Ind,Jerry Pettibone,L,0,35
+1990-10-20,Arkansas State,Ind,Al Kincaid,A,Ole Miss,SEC,Billy Brewer,L,13,42
+1990-11-10,Arkansas State,Ind,Al Kincaid,H,Louisiana,Ind,Nelson Stokley,L,16,17
+1990-11-17,Arkansas State,Ind,Al Kincaid,A,Toledo,MAC,Nick Saban,L,28,43
+1990-09-08,Mississippi State,SEC,Rockey Felker,H,Tennessee,SEC,Johnny Majors,L,7,40
+1990-09-15,Mississippi State,SEC,Rockey Felker,H,Cal State Fullerton,Big West,Gene Murphy,W,27,13
+1990-09-22,Mississippi State,SEC,Rockey Felker,H,Southern Mississippi,Ind,Jeff Bower,W,13,10
+1990-09-29,Mississippi State,SEC,Rockey Felker,A,Florida,SEC,Steve Spurrier,L,21,34
+1990-10-13,Mississippi State,SEC,Rockey Felker,A,Kentucky,SEC,Bill Curry,L,15,17
+1990-10-20,Mississippi State,SEC,Rockey Felker,A,Tulane,Ind,Greg Davis,W,38,17
+1990-10-27,Mississippi State,SEC,Rockey Felker,H,Auburn,SEC,Pat Dye,L,16,17
+1990-11-03,Mississippi State,SEC,Rockey Felker,H,Alabama,SEC,Gene Stallings,L,0,22
+1990-11-10,Mississippi State,SEC,Rockey Felker,A,Memphis,Ind,Chuck Stobart,W,27,23
+1990-11-17,Mississippi State,SEC,Rockey Felker,H,LSU,SEC,Mike Archer,W,34,22
+1990-11-24,Mississippi State,SEC,Rockey Felker,N,Ole Miss,SEC,Billy Brewer,L,9,21
+1990-09-08,Nevada-Las Vegas,Big West,Jim Strong,A,Houston,SWC,John Jenkins,L,9,37
+1990-09-15,Nevada-Las Vegas,Big West,Jim Strong,A,Oregon State,Pac-10,Dave Kragthorpe,W,45,20
+1990-09-22,Nevada-Las Vegas,Big West,Jim Strong,H,San Jose State,Big West,Terry Shea,L,13,47
+1990-09-29,Nevada-Las Vegas,Big West,Jim Strong,A,Pacific,Big West,Walt Harris,W,37,28
+1990-10-06,Nevada-Las Vegas,Big West,Jim Strong,H,Cal State Fullerton,Big West,Gene Murphy,W,29,10
+1990-10-13,Nevada-Las Vegas,Big West,Jim Strong,A,New Mexico State,Big West,Jim Hess,W,24,20
+1990-10-27,Nevada-Las Vegas,Big West,Jim Strong,A,Utah State,Big West,Chuck Shelton,L,6,31
+1990-11-03,Nevada-Las Vegas,Big West,Jim Strong,H,Fresno State,Big West,Jim Sweeney,L,18,45
+1990-11-17,Nevada-Las Vegas,Big West,Jim Strong,A,Long Beach State,Big West,George Allen,L,20,29
+1990-09-01,Memphis,Ind,Chuck Stobart,H,Arkansas State,Ind,Al Kincaid,T,24,24
+1990-09-08,Memphis,Ind,Chuck Stobart,A,Ole Miss,SEC,Billy Brewer,L,21,23
+1990-09-29,Memphis,Ind,Chuck Stobart,A,Tulsa,Ind,David Rader,W,22,10
+1990-10-06,Memphis,Ind,Chuck Stobart,H,Tulane,Ind,Greg Davis,W,21,14
+1990-10-13,Memphis,Ind,Chuck Stobart,A,Louisville,Ind,Howard Schnellenberger,L,17,19
+1990-10-20,Memphis,Ind,Chuck Stobart,A,Southern Mississippi,Ind,Jeff Bower,L,7,23
+1990-10-27,Memphis,Ind,Chuck Stobart,H,Louisiana,Ind,Nelson Stokley,W,20,6
+1990-11-03,Memphis,Ind,Chuck Stobart,H,East Carolina,Ind,Bill Lewis,L,17,24
+1990-11-10,Memphis,Ind,Chuck Stobart,H,Mississippi State,SEC,Rockey Felker,L,23,27
+1990-11-17,Memphis,Ind,Chuck Stobart,A,Florida State,Ind,Bobby Bowden,L,3,35
+1990-09-15,Kansas State,Big 8,Bill Snyder,H,New Mexico State,Big West,Jim Hess,W,52,7
+1990-09-22,Kansas State,Big 8,Bill Snyder,A,Northern Illinois,Ind,Jerry Pettibone,L,35,42
+1990-09-29,Kansas State,Big 8,Bill Snyder,H,New Mexico,WAC,Mike Sheppard,W,38,6
+1990-10-06,Kansas State,Big 8,Bill Snyder,H,Nebraska,Big 8,Tom Osborne,L,8,45
+1990-10-13,Kansas State,Big 8,Bill Snyder,H,Oklahoma State,Big 8,Pat Jones,W,23,17
+1990-10-20,Kansas State,Big 8,Bill Snyder,A,Missouri,Big 8,Bob Stull,L,10,31
+1990-10-27,Kansas State,Big 8,Bill Snyder,A,Kansas,Big 8,Glen Mason,L,24,27
+1990-11-03,Kansas State,Big 8,Bill Snyder,H,Iowa State,Big 8,Jim Walden,W,28,14
+1990-11-10,Kansas State,Big 8,Bill Snyder,A,Oklahoma,Big 8,Gary Gibbs,L,7,34
+1990-11-17,Kansas State,Big 8,Bill Snyder,A,Colorado,Big 8,Bill McCartney,L,3,64
+1990-09-29,Army,Ind,Jim Young,A,Wake Forest,ACC,Bill Dooley,L,14,52
+1990-10-06,Army,Ind,Jim Young,H,Duke,ACC,Barry Wilson,L,16,17
+1990-10-13,Army,Ind,Jim Young,A,Boston College,Ind,Jack Bicknell,L,20,41
+1990-10-27,Army,Ind,Jim Young,H,Syracuse,Ind,Dick MacPherson,L,14,26
+1990-11-03,Army,Ind,Jim Young,H,Rutgers,Ind,Doug Graber,W,35,31
+1990-11-10,Army,Ind,Jim Young,H,Air Force,WAC,Fisher DeBerry,L,3,15
+1990-11-17,Army,Ind,Jim Young,A,Vanderbilt,SEC,Watson Brown,W,42,38
+1990-12-08,Army,Ind,Jim Young,N,Navy,Ind,George Chaump,W,30,20
+1990-09-08,UCLA,Pac-10,Terry Donahue,H,Oklahoma,Big 8,Gary Gibbs,L,14,34
+1990-09-15,UCLA,Pac-10,Terry Donahue,H,Stanford,Pac-10,Dennis Green,W,32,31
+1990-09-22,UCLA,Pac-10,Terry Donahue,A,Michigan,Big Ten,Gary Moeller,L,15,38
+1990-09-29,UCLA,Pac-10,Terry Donahue,A,Washington State,Pac-10,Mike Price,W,30,20
+1990-10-06,UCLA,Pac-10,Terry Donahue,H,Arizona,Pac-10,Dick Tomey,L,21,28
+1990-10-13,UCLA,Pac-10,Terry Donahue,H,San Diego State,WAC,Al Luginbill,W,45,31
+1990-10-20,UCLA,Pac-10,Terry Donahue,A,California,Pac-10,Bruce Snyder,L,31,38
+1990-10-27,UCLA,Pac-10,Terry Donahue,H,Oregon State,Pac-10,Dave Kragthorpe,W,26,17
+1990-11-03,UCLA,Pac-10,Terry Donahue,A,Oregon,Pac-10,Rich Brooks,L,24,28
+1990-11-10,UCLA,Pac-10,Terry Donahue,A,Washington,Pac-10,Don James,W,25,22
+1990-11-17,UCLA,Pac-10,Terry Donahue,H,USC,Pac-10,Larry Smith,L,42,45
+1990-09-08,Auburn,SEC,Pat Dye,H,Cal State Fullerton,Big West,Gene Murphy,W,38,17
+1990-09-15,Auburn,SEC,Pat Dye,A,Ole Miss,SEC,Billy Brewer,W,24,10
+1990-09-29,Auburn,SEC,Pat Dye,H,Tennessee,SEC,Johnny Majors,T,26,26
+1990-10-06,Auburn,SEC,Pat Dye,H,Louisiana Tech,Ind,Joe Peace,W,16,14
+1990-10-13,Auburn,SEC,Pat Dye,H,Vanderbilt,SEC,Watson Brown,W,56,6
+1990-10-20,Auburn,SEC,Pat Dye,H,Florida State,Ind,Bobby Bowden,W,20,17
+1990-10-27,Auburn,SEC,Pat Dye,A,Mississippi State,SEC,Rockey Felker,W,17,16
+1990-11-03,Auburn,SEC,Pat Dye,A,Florida,SEC,Steve Spurrier,L,7,48
+1990-11-10,Auburn,SEC,Pat Dye,H,Southern Mississippi,Ind,Jeff Bower,L,12,13
+1990-11-17,Auburn,SEC,Pat Dye,H,Georgia,SEC,Ray Goff,W,33,10
+1990-12-01,Auburn,SEC,Pat Dye,N,Alabama,SEC,Gene Stallings,L,7,16
+1990-12-29,Auburn,SEC,Pat Dye,N,Indiana,Big Ten,Bill Mallory,W,27,23
+1990-09-08,Northwestern,Big Ten,Francis Peay,H,Duke,ACC,Barry Wilson,L,24,27
+1990-09-22,Northwestern,Big Ten,Francis Peay,A,Rice,SWC,Fred Goldsmith,L,14,31
+1990-09-29,Northwestern,Big Ten,Francis Peay,H,Northern Illinois,Ind,Jerry Pettibone,W,24,7
+1990-10-06,Northwestern,Big Ten,Francis Peay,H,Indiana,Big Ten,Bill Mallory,L,0,42
+1990-10-13,Northwestern,Big Ten,Francis Peay,A,Minnesota,Big Ten,John Gutekunst,L,25,35
+1990-10-20,Northwestern,Big Ten,Francis Peay,H,Wisconsin,Big Ten,Barry Alvarez,W,44,34
+1990-10-27,Northwestern,Big Ten,Francis Peay,A,Iowa,Big Ten,Hayden Fry,L,14,56
+1990-11-03,Northwestern,Big Ten,Francis Peay,A,Ohio State,Big Ten,John Cooper,L,7,48
+1990-11-10,Northwestern,Big Ten,Francis Peay,H,Purdue,Big Ten,Fred Akers,L,13,33
+1990-11-17,Northwestern,Big Ten,Francis Peay,H,Michigan State,Big Ten,George Perles,L,22,29
+1990-11-24,Northwestern,Big Ten,Francis Peay,A,Illinois,Big Ten,John Mackovic,L,23,28
+1990-09-01,Kansas,Big 8,Glen Mason,H,Virginia,ACC,George Welsh,L,10,59
+1990-09-08,Kansas,Big 8,Glen Mason,H,Oregon State,Pac-10,Dave Kragthorpe,W,38,12
+1990-09-15,Kansas,Big 8,Glen Mason,A,Louisville,Ind,Howard Schnellenberger,L,16,28
+1990-09-29,Kansas,Big 8,Glen Mason,A,Oklahoma,Big 8,Gary Gibbs,L,17,31
+1990-10-06,Kansas,Big 8,Glen Mason,A,Iowa State,Big 8,Jim Walden,T,34,34
+1990-10-13,Kansas,Big 8,Glen Mason,A,Miami (FL),Ind,Dennis Erickson,L,0,34
+1990-10-20,Kansas,Big 8,Glen Mason,H,Colorado,Big 8,Bill McCartney,L,10,41
+1990-10-27,Kansas,Big 8,Glen Mason,H,Kansas State,Big 8,Bill Snyder,W,27,24
+1990-11-03,Kansas,Big 8,Glen Mason,A,Oklahoma State,Big 8,Pat Jones,W,31,30
+1990-11-10,Kansas,Big 8,Glen Mason,H,Nebraska,Big 8,Tom Osborne,L,9,41
+1990-11-17,Kansas,Big 8,Glen Mason,H,Missouri,Big 8,Bob Stull,L,21,31
+1990-09-08,Western Michigan,MAC,Al Molde,A,Eastern Michigan,MAC,Jim Harkema,L,24,27
+1990-09-15,Western Michigan,MAC,Al Molde,H,Louisiana Tech,Ind,Joe Peace,W,27,21
+1990-09-22,Western Michigan,MAC,Al Molde,H,Kent State,MAC,Dick Crum,W,37,10
+1990-09-29,Western Michigan,MAC,Al Molde,A,Iowa State,Big 8,Jim Walden,L,20,34
+1990-10-06,Western Michigan,MAC,Al Molde,A,Akron,Ind,Gerry Faust,W,24,20
+1990-10-13,Western Michigan,MAC,Al Molde,A,Central Michigan,MAC,Herb Deromedi,L,13,20
+1990-10-20,Western Michigan,MAC,Al Molde,H,Ball State,MAC,Paul Schudel,W,14,13
+1990-10-27,Western Michigan,MAC,Al Molde,A,Ohio,MAC,Tom Lichtenberg,W,31,23
+1990-11-03,Western Michigan,MAC,Al Molde,H,Toledo,MAC,Nick Saban,L,9,37
+1990-11-10,Western Michigan,MAC,Al Molde,A,Bowling Green State,MAC,Moe Ankney,W,19,13
+1990-11-17,Western Michigan,MAC,Al Molde,H,Miami (OH),MAC,Randy Walker,W,31,17
+1990-09-01,UTEP,WAC,David Lee,H,Brigham Young,WAC,LaVell Edwards,L,10,30
+1990-09-08,UTEP,WAC,David Lee,H,New Mexico State,Big West,Jim Hess,W,27,24
+1990-09-15,UTEP,WAC,David Lee,A,Tennessee,SEC,Johnny Majors,L,0,56
+1990-09-22,UTEP,WAC,David Lee,A,Colorado State,WAC,Earle Bruce,L,20,38
+1990-10-06,UTEP,WAC,David Lee,A,New Mexico,WAC,Mike Sheppard,L,28,48
+1990-10-13,UTEP,WAC,David Lee,H,Hawaii,WAC,Bob Wagner,W,12,10
+1990-10-20,UTEP,WAC,David Lee,A,Utah,WAC,Ron McBride,L,23,37
+1990-10-27,UTEP,WAC,David Lee,H,Wyoming,WAC,Paul Roach,L,10,17
+1990-11-17,UTEP,WAC,David Lee,H,Air Force,WAC,Fisher DeBerry,L,13,14
+1990-11-24,UTEP,WAC,David Lee,A,San Diego State,WAC,Al Luginbill,L,31,58
+1990-09-08,LSU,SEC,Mike Archer,H,Georgia,SEC,Ray Goff,W,18,13
+1990-09-15,LSU,SEC,Mike Archer,H,Miami (OH),MAC,Randy Walker,W,35,7
+1990-09-22,LSU,SEC,Mike Archer,A,Vanderbilt,SEC,Watson Brown,L,21,24
+1990-09-29,LSU,SEC,Mike Archer,H,Texas A&M,SWC,R.C. Slocum,W,17,8
+1990-10-06,LSU,SEC,Mike Archer,A,Florida,SEC,Steve Spurrier,L,8,34
+1990-10-20,LSU,SEC,Mike Archer,H,Kentucky,SEC,Bill Curry,W,30,20
+1990-10-27,LSU,SEC,Mike Archer,A,Florida State,Ind,Bobby Bowden,L,3,42
+1990-11-03,LSU,SEC,Mike Archer,H,Ole Miss,SEC,Billy Brewer,L,10,19
+1990-11-10,LSU,SEC,Mike Archer,A,Alabama,SEC,Gene Stallings,L,3,24
+1990-11-17,LSU,SEC,Mike Archer,A,Mississippi State,SEC,Rockey Felker,L,22,34
+1990-11-24,LSU,SEC,Mike Archer,H,Tulane,Ind,Greg Davis,W,16,13
+1990-09-01,Tulsa,Ind,David Rader,A,Oklahoma State,Big 8,Pat Jones,L,3,10
+1990-09-15,Tulsa,Ind,David Rader,A,Arkansas,SWC,Jack Crowe,L,3,28
+1990-09-22,Tulsa,Ind,David Rader,A,Oklahoma,Big 8,Gary Gibbs,L,10,52
+1990-09-29,Tulsa,Ind,David Rader,H,Memphis,Ind,Chuck Stobart,L,10,22
+1990-10-06,Tulsa,Ind,David Rader,A,Louisville,Ind,Howard Schnellenberger,L,14,38
+1990-10-13,Tulsa,Ind,David Rader,H,Louisiana Tech,Ind,Joe Peace,L,21,35
+1990-10-20,Tulsa,Ind,David Rader,H,Louisiana,Ind,Nelson Stokley,L,13,25
+1990-10-27,Tulsa,Ind,David Rader,A,New Mexico State,Big West,Jim Hess,W,35,10
+1990-11-10,Tulsa,Ind,David Rader,A,Colorado State,WAC,Earle Bruce,L,13,31
+1990-09-15,Iowa,Big Ten,Hayden Fry,H,Cincinnati,Ind,Tim Murphy,W,63,10
+1990-09-22,Iowa,Big Ten,Hayden Fry,H,Iowa State,Big 8,Jim Walden,W,45,35
+1990-09-29,Iowa,Big Ten,Hayden Fry,A,Miami (FL),Ind,Dennis Erickson,L,21,48
+1990-10-06,Iowa,Big Ten,Hayden Fry,A,Michigan State,Big Ten,George Perles,W,12,7
+1990-10-13,Iowa,Big Ten,Hayden Fry,H,Wisconsin,Big Ten,Barry Alvarez,W,30,10
+1990-10-20,Iowa,Big Ten,Hayden Fry,A,Michigan,Big Ten,Gary Moeller,W,24,23
+1990-10-27,Iowa,Big Ten,Hayden Fry,H,Northwestern,Big Ten,Francis Peay,W,56,14
+1990-11-03,Iowa,Big Ten,Hayden Fry,A,Illinois,Big Ten,John Mackovic,W,54,28
+1990-11-10,Iowa,Big Ten,Hayden Fry,H,Ohio State,Big Ten,John Cooper,L,26,27
+1990-11-17,Iowa,Big Ten,Hayden Fry,H,Purdue,Big Ten,Fred Akers,W,38,9
+1990-11-24,Iowa,Big Ten,Hayden Fry,A,Minnesota,Big Ten,John Gutekunst,L,24,31
+1991-01-01,Iowa,Big Ten,Hayden Fry,N,Washington,Pac-10,Don James,L,34,46
+1990-09-08,Texas,SWC,David McWilliams,A,Penn State,Ind,Joe Paterno,W,17,13
+1990-09-22,Texas,SWC,David McWilliams,H,Colorado,Big 8,Bill McCartney,L,22,29
+1990-10-06,Texas,SWC,David McWilliams,A,Rice,SWC,Fred Goldsmith,W,26,10
+1990-10-13,Texas,SWC,David McWilliams,N,Oklahoma,Big 8,Gary Gibbs,W,14,13
+1990-10-20,Texas,SWC,David McWilliams,H,Arkansas,SWC,Jack Crowe,W,49,17
+1990-10-27,Texas,SWC,David McWilliams,H,SMU,SWC,Forrest Gregg,W,52,3
+1990-11-03,Texas,SWC,David McWilliams,A,Texas Tech,SWC,Spike Dykes,W,41,22
+1990-11-10,Texas,SWC,David McWilliams,H,Houston,SWC,John Jenkins,W,45,24
+1990-11-17,Texas,SWC,David McWilliams,A,Texas Christian,SWC,Jim Wacker,W,38,10
+1990-11-24,Texas,SWC,David McWilliams,A,Baylor,SWC,Grant Teaff,W,23,13
+1990-12-01,Texas,SWC,David McWilliams,H,Texas A&M,SWC,R.C. Slocum,W,28,27
+1991-01-01,Texas,SWC,David McWilliams,N,Miami (FL),Ind,Dennis Erickson,L,3,46
+1990-09-01,Texas Christian,SWC,Jim Wacker,H,Washington State,Pac-10,Mike Price,L,3,21
+1990-09-08,Texas Christian,SWC,Jim Wacker,A,Missouri,Big 8,Bob Stull,W,20,19
+1990-09-22,Texas Christian,SWC,Jim Wacker,H,Oklahoma State,Big 8,Pat Jones,W,31,21
+1990-09-29,Texas Christian,SWC,Jim Wacker,A,SMU,SWC,Forrest Gregg,W,42,21
+1990-10-06,Texas Christian,SWC,Jim Wacker,A,Arkansas,SWC,Jack Crowe,W,54,26
+1990-10-13,Texas Christian,SWC,Jim Wacker,H,Rice,SWC,Fred Goldsmith,W,38,28
+1990-10-27,Texas Christian,SWC,Jim Wacker,H,Baylor,SWC,Grant Teaff,L,21,27
+1990-11-03,Texas Christian,SWC,Jim Wacker,A,Houston,SWC,John Jenkins,L,35,56
+1990-11-10,Texas Christian,SWC,Jim Wacker,H,Texas Tech,SWC,Spike Dykes,L,28,40
+1990-11-17,Texas Christian,SWC,Jim Wacker,H,Texas,SWC,David McWilliams,L,10,38
+1990-11-24,Texas Christian,SWC,Jim Wacker,A,Texas A&M,SWC,R.C. Slocum,L,10,56
+1990-09-01,Air Force,WAC,Fisher DeBerry,H,Colorado State,WAC,Earle Bruce,L,33,35
+1990-09-08,Air Force,WAC,Fisher DeBerry,H,Hawaii,WAC,Bob Wagner,W,27,3
+1990-09-22,Air Force,WAC,Fisher DeBerry,A,Wyoming,WAC,Paul Roach,L,12,24
+1990-09-29,Air Force,WAC,Fisher DeBerry,A,San Diego State,WAC,Al Luginbill,L,18,48
+1990-10-06,Air Force,WAC,Fisher DeBerry,H,Navy,Ind,George Chaump,W,24,7
+1990-10-13,Air Force,WAC,Fisher DeBerry,A,Notre Dame,Ind,Lou Holtz,L,27,57
+1990-10-27,Air Force,WAC,Fisher DeBerry,H,Utah,WAC,Ron McBride,W,52,21
+1990-11-03,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,7,54
+1990-11-10,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Jim Young,W,15,3
+1990-11-17,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,David Lee,W,14,13
+1990-12-27,Air Force,WAC,Fisher DeBerry,N,Ohio State,Big Ten,John Cooper,W,23,11
+1990-09-08,Miami (FL),Ind,Dennis Erickson,A,Brigham Young,WAC,LaVell Edwards,L,21,28
+1990-09-15,Miami (FL),Ind,Dennis Erickson,A,California,Pac-10,Bruce Snyder,W,52,24
+1990-09-29,Miami (FL),Ind,Dennis Erickson,H,Iowa,Big Ten,Hayden Fry,W,48,21
+1990-10-06,Miami (FL),Ind,Dennis Erickson,H,Florida State,Ind,Bobby Bowden,W,31,22
+1990-10-13,Miami (FL),Ind,Dennis Erickson,H,Kansas,Big 8,Glen Mason,W,34,0
+1990-10-20,Miami (FL),Ind,Dennis Erickson,A,Notre Dame,Ind,Lou Holtz,L,20,29
+1990-10-27,Miami (FL),Ind,Dennis Erickson,A,Texas Tech,SWC,Spike Dykes,W,45,10
+1990-11-03,Miami (FL),Ind,Dennis Erickson,H,Pitt,Ind,Paul Hackett,W,45,0
+1990-11-17,Miami (FL),Ind,Dennis Erickson,H,Boston College,Ind,Jack Bicknell,W,42,12
+1990-11-24,Miami (FL),Ind,Dennis Erickson,H,Syracuse,Ind,Dick MacPherson,W,33,7
+1990-12-01,Miami (FL),Ind,Dennis Erickson,A,San Diego State,WAC,Al Luginbill,W,30,28
+1991-01-01,Miami (FL),Ind,Dennis Erickson,N,Texas,SWC,David McWilliams,W,46,3
+1990-09-08,Oregon,Pac-10,Rich Brooks,H,San Diego State,WAC,Al Luginbill,W,42,21
+1990-09-22,Oregon,Pac-10,Rich Brooks,A,Arizona,Pac-10,Dick Tomey,L,17,22
+1990-09-29,Oregon,Pac-10,Rich Brooks,H,Brigham Young,WAC,LaVell Edwards,W,32,16
+1990-10-06,Oregon,Pac-10,Rich Brooks,H,Utah State,Big West,Chuck Shelton,W,52,7
+1990-10-13,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,17,38
+1990-10-20,Oregon,Pac-10,Rich Brooks,H,Arizona State,Pac-10,Larry Marmie,W,27,7
+1990-10-27,Oregon,Pac-10,Rich Brooks,H,Stanford,Pac-10,Dennis Green,W,31,0
+1990-11-03,Oregon,Pac-10,Rich Brooks,H,UCLA,Pac-10,Terry Donahue,W,28,24
+1990-11-10,Oregon,Pac-10,Rich Brooks,A,California,Pac-10,Bruce Snyder,L,3,28
+1990-11-17,Oregon,Pac-10,Rich Brooks,A,Oregon State,Pac-10,Dave Kragthorpe,W,6,3
+1990-12-29,Oregon,Pac-10,Rich Brooks,N,Colorado State,WAC,Earle Bruce,L,31,32
+1990-08-26,Tennessee,SEC,Johnny Majors,N,Colorado,Big 8,Bill McCartney,T,31,31
+1990-09-01,Tennessee,SEC,Johnny Majors,H,Pacific,Big West,Walt Harris,W,55,7
+1990-09-08,Tennessee,SEC,Johnny Majors,A,Mississippi State,SEC,Rockey Felker,W,40,7
+1990-09-15,Tennessee,SEC,Johnny Majors,H,UTEP,WAC,David Lee,W,56,0
+1990-09-29,Tennessee,SEC,Johnny Majors,A,Auburn,SEC,Pat Dye,T,26,26
+1990-10-13,Tennessee,SEC,Johnny Majors,H,Florida,SEC,Steve Spurrier,W,45,3
+1990-10-20,Tennessee,SEC,Johnny Majors,H,Alabama,SEC,Gene Stallings,L,6,9
+1990-11-03,Tennessee,SEC,Johnny Majors,H,Temple,Ind,Jerry Berndt,W,41,20
+1990-11-10,Tennessee,SEC,Johnny Majors,H,Notre Dame,Ind,Lou Holtz,L,29,34
+1990-11-17,Tennessee,SEC,Johnny Majors,N,Ole Miss,SEC,Billy Brewer,W,22,13
+1990-11-24,Tennessee,SEC,Johnny Majors,H,Kentucky,SEC,Bill Curry,W,42,28
+1990-12-01,Tennessee,SEC,Johnny Majors,A,Vanderbilt,SEC,Watson Brown,W,49,20
+1991-01-01,Tennessee,SEC,Johnny Majors,N,Virginia,ACC,George Welsh,W,23,22
+1990-09-08,Oregon State,Pac-10,Dave Kragthorpe,A,Kansas,Big 8,Glen Mason,L,12,38
+1990-09-15,Oregon State,Pac-10,Dave Kragthorpe,H,Nevada-Las Vegas,Big West,Jim Strong,L,20,45
+1990-09-22,Oregon State,Pac-10,Dave Kragthorpe,A,Stanford,Pac-10,Dennis Green,L,3,37
+1990-09-29,Oregon State,Pac-10,Dave Kragthorpe,A,Nebraska,Big 8,Tom Osborne,L,7,31
+1990-10-13,Oregon State,Pac-10,Dave Kragthorpe,H,Arizona,Pac-10,Dick Tomey,W,35,21
+1990-10-20,Oregon State,Pac-10,Dave Kragthorpe,H,Washington State,Pac-10,Mike Price,L,24,55
+1990-10-27,Oregon State,Pac-10,Dave Kragthorpe,A,UCLA,Pac-10,Terry Donahue,L,17,26
+1990-11-03,Oregon State,Pac-10,Dave Kragthorpe,A,Arizona State,Pac-10,Larry Marmie,L,9,34
+1990-11-10,Oregon State,Pac-10,Dave Kragthorpe,H,USC,Pac-10,Larry Smith,L,7,56
+1990-11-17,Oregon State,Pac-10,Dave Kragthorpe,H,Oregon,Pac-10,Rich Brooks,L,3,6
+1990-09-08,Alabama,SEC,Gene Stallings,H,Southern Mississippi,Ind,Jeff Bower,L,24,27
+1990-09-15,Alabama,SEC,Gene Stallings,H,Florida,SEC,Steve Spurrier,L,13,17
+1990-09-22,Alabama,SEC,Gene Stallings,A,Georgia,SEC,Ray Goff,L,16,17
+1990-09-29,Alabama,SEC,Gene Stallings,H,Vanderbilt,SEC,Watson Brown,W,59,28
+1990-10-06,Alabama,SEC,Gene Stallings,A,Louisiana,Ind,Nelson Stokley,W,25,6
+1990-10-20,Alabama,SEC,Gene Stallings,A,Tennessee,SEC,Johnny Majors,W,9,6
+1990-10-27,Alabama,SEC,Gene Stallings,H,Penn State,Ind,Joe Paterno,L,0,9
+1990-11-03,Alabama,SEC,Gene Stallings,A,Mississippi State,SEC,Rockey Felker,W,22,0
+1990-11-10,Alabama,SEC,Gene Stallings,H,LSU,SEC,Mike Archer,W,24,3
+1990-11-17,Alabama,SEC,Gene Stallings,H,Cincinnati,Ind,Tim Murphy,W,45,7
+1990-12-01,Alabama,SEC,Gene Stallings,N,Auburn,SEC,Pat Dye,W,16,7
+1991-01-01,Alabama,SEC,Gene Stallings,N,Louisville,Ind,Howard Schnellenberger,L,7,34
+1990-09-15,Purdue,Big Ten,Fred Akers,H,Washington,Pac-10,Don James,L,14,20
+1990-09-29,Purdue,Big Ten,Fred Akers,A,Notre Dame,Ind,Lou Holtz,L,11,37
+1990-10-06,Purdue,Big Ten,Fred Akers,H,Minnesota,Big Ten,John Gutekunst,L,7,19
+1990-10-13,Purdue,Big Ten,Fred Akers,A,Illinois,Big Ten,John Mackovic,L,0,34
+1990-10-20,Purdue,Big Ten,Fred Akers,H,Ohio State,Big Ten,John Cooper,L,2,42
+1990-10-27,Purdue,Big Ten,Fred Akers,A,Michigan State,Big Ten,George Perles,L,33,55
+1990-11-03,Purdue,Big Ten,Fred Akers,H,Michigan,Big Ten,Gary Moeller,L,13,38
+1990-11-10,Purdue,Big Ten,Fred Akers,A,Northwestern,Big Ten,Francis Peay,W,33,13
+1990-11-17,Purdue,Big Ten,Fred Akers,A,Iowa,Big Ten,Hayden Fry,L,9,38
+1990-11-24,Purdue,Big Ten,Fred Akers,H,Indiana,Big Ten,Bill Mallory,L,14,28
+1990-09-01,Nebraska,Big 8,Tom Osborne,H,Baylor,SWC,Grant Teaff,W,13,0
+1990-09-08,Nebraska,Big 8,Tom Osborne,H,Northern Illinois,Ind,Jerry Pettibone,W,60,14
+1990-09-22,Nebraska,Big 8,Tom Osborne,H,Minnesota,Big Ten,John Gutekunst,W,56,0
+1990-09-29,Nebraska,Big 8,Tom Osborne,H,Oregon State,Pac-10,Dave Kragthorpe,W,31,7
+1990-10-06,Nebraska,Big 8,Tom Osborne,A,Kansas State,Big 8,Bill Snyder,W,45,8
+1990-10-13,Nebraska,Big 8,Tom Osborne,H,Missouri,Big 8,Bob Stull,W,69,21
+1990-10-20,Nebraska,Big 8,Tom Osborne,H,Oklahoma State,Big 8,Pat Jones,W,31,3
+1990-10-27,Nebraska,Big 8,Tom Osborne,A,Iowa State,Big 8,Jim Walden,W,45,13
+1990-11-03,Nebraska,Big 8,Tom Osborne,H,Colorado,Big 8,Bill McCartney,L,12,27
+1990-11-10,Nebraska,Big 8,Tom Osborne,A,Kansas,Big 8,Glen Mason,W,41,9
+1990-11-23,Nebraska,Big 8,Tom Osborne,A,Oklahoma,Big 8,Gary Gibbs,L,10,45
+1991-01-01,Nebraska,Big 8,Tom Osborne,N,Georgia Tech,ACC,Bobby Ross,L,21,45
+1990-09-01,West Virginia,Ind,Don Nehlen,H,Kent State,MAC,Dick Crum,W,35,24
+1990-09-08,West Virginia,Ind,Don Nehlen,H,Maryland,ACC,Joe Krivak,L,10,14
+1990-09-22,West Virginia,Ind,Don Nehlen,H,Louisville,Ind,Howard Schnellenberger,L,7,9
+1990-09-29,West Virginia,Ind,Don Nehlen,A,Pitt,Ind,Paul Hackett,W,38,24
+1990-10-06,West Virginia,Ind,Don Nehlen,A,Virginia Tech,Ind,Frank Beamer,L,21,26
+1990-10-13,West Virginia,Ind,Don Nehlen,H,Cincinnati,Ind,Tim Murphy,W,28,20
+1990-10-27,West Virginia,Ind,Don Nehlen,H,Boston College,Ind,Jack Bicknell,L,14,27
+1990-11-03,West Virginia,Ind,Don Nehlen,H,Penn State,Ind,Joe Paterno,L,19,31
+1990-11-10,West Virginia,Ind,Don Nehlen,A,Rutgers,Ind,Doug Graber,W,28,3
+1990-11-17,West Virginia,Ind,Don Nehlen,H,Syracuse,Ind,Dick MacPherson,L,7,31
+1990-11-22,West Virginia,Ind,Don Nehlen,A,South Carolina,Ind,Sparky Woods,L,10,29
+1990-09-01,Oklahoma State,Big 8,Pat Jones,H,Tulsa,Ind,David Rader,W,10,3
+1990-09-08,Oklahoma State,Big 8,Pat Jones,A,Florida,SEC,Steve Spurrier,L,7,50
+1990-09-22,Oklahoma State,Big 8,Pat Jones,A,Texas Christian,SWC,Jim Wacker,L,21,31
+1990-10-06,Oklahoma State,Big 8,Pat Jones,H,Oklahoma,Big 8,Gary Gibbs,L,17,31
+1990-10-13,Oklahoma State,Big 8,Pat Jones,A,Kansas State,Big 8,Bill Snyder,L,17,23
+1990-10-20,Oklahoma State,Big 8,Pat Jones,A,Nebraska,Big 8,Tom Osborne,L,3,31
+1990-10-27,Oklahoma State,Big 8,Pat Jones,H,Missouri,Big 8,Bob Stull,W,48,28
+1990-11-03,Oklahoma State,Big 8,Pat Jones,H,Kansas,Big 8,Glen Mason,L,30,31
+1990-11-10,Oklahoma State,Big 8,Pat Jones,A,Colorado,Big 8,Bill McCartney,L,22,41
+1990-11-17,Oklahoma State,Big 8,Pat Jones,A,Iowa State,Big 8,Jim Walden,W,25,17
+1990-08-26,Colorado,Big 8,Bill McCartney,N,Tennessee,SEC,Johnny Majors,T,31,31
+1990-09-06,Colorado,Big 8,Bill McCartney,H,Stanford,Pac-10,Dennis Green,W,21,17
+1990-09-15,Colorado,Big 8,Bill McCartney,A,Illinois,Big Ten,John Mackovic,L,22,23
+1990-09-22,Colorado,Big 8,Bill McCartney,A,Texas,SWC,David McWilliams,W,29,22
+1990-09-29,Colorado,Big 8,Bill McCartney,H,Washington,Pac-10,Don James,W,20,14
+1990-10-06,Colorado,Big 8,Bill McCartney,A,Missouri,Big 8,Bob Stull,W,33,31
+1990-10-13,Colorado,Big 8,Bill McCartney,H,Iowa State,Big 8,Jim Walden,W,28,12
+1990-10-20,Colorado,Big 8,Bill McCartney,A,Kansas,Big 8,Glen Mason,W,41,10
+1990-10-27,Colorado,Big 8,Bill McCartney,H,Oklahoma,Big 8,Gary Gibbs,W,32,23
+1990-11-03,Colorado,Big 8,Bill McCartney,A,Nebraska,Big 8,Tom Osborne,W,27,12
+1990-11-10,Colorado,Big 8,Bill McCartney,H,Oklahoma State,Big 8,Pat Jones,W,41,22
+1990-11-17,Colorado,Big 8,Bill McCartney,H,Kansas State,Big 8,Bill Snyder,W,64,3
+1991-01-01,Colorado,Big 8,Bill McCartney,N,Notre Dame,Ind,Lou Holtz,W,10,9
+1990-09-01,Colorado State,WAC,Earle Bruce,A,Air Force,WAC,Fisher DeBerry,W,35,33
+1990-09-15,Colorado State,WAC,Earle Bruce,A,Arizona State,Pac-10,Larry Marmie,L,20,31
+1990-09-22,Colorado State,WAC,Earle Bruce,H,UTEP,WAC,David Lee,W,38,20
+1990-09-29,Colorado State,WAC,Earle Bruce,A,Arkansas,SWC,Jack Crowe,L,20,31
+1990-10-06,Colorado State,WAC,Earle Bruce,H,Utah,WAC,Ron McBride,W,28,13
+1990-10-13,Colorado State,WAC,Earle Bruce,A,Brigham Young,WAC,LaVell Edwards,L,9,52
+1990-10-20,Colorado State,WAC,Earle Bruce,H,New Mexico,WAC,Mike Sheppard,W,47,7
+1990-11-03,Colorado State,WAC,Earle Bruce,H,Wyoming,WAC,Paul Roach,W,17,8
+1990-11-10,Colorado State,WAC,Earle Bruce,H,Tulsa,Ind,David Rader,W,31,13
+1990-11-17,Colorado State,WAC,Earle Bruce,A,Louisiana Tech,Ind,Joe Peace,L,30,31
+1990-11-24,Colorado State,WAC,Earle Bruce,A,Hawaii,WAC,Bob Wagner,W,30,27
+1990-12-29,Colorado State,WAC,Earle Bruce,N,Oregon,Pac-10,Rich Brooks,W,32,31
+1990-09-01,Rice,SWC,Fred Goldsmith,H,Wake Forest,ACC,Bill Dooley,W,33,17
+1990-09-08,Rice,SWC,Fred Goldsmith,H,Tulane,Ind,Greg Davis,L,10,21
+1990-09-22,Rice,SWC,Fred Goldsmith,H,Northwestern,Big Ten,Francis Peay,W,31,14
+1990-09-29,Rice,SWC,Fred Goldsmith,A,Houston,SWC,John Jenkins,L,22,24
+1990-10-06,Rice,SWC,Fred Goldsmith,H,Texas,SWC,David McWilliams,L,10,26
+1990-10-13,Rice,SWC,Fred Goldsmith,A,Texas Christian,SWC,Jim Wacker,L,28,38
+1990-10-20,Rice,SWC,Fred Goldsmith,H,Texas Tech,SWC,Spike Dykes,W,42,21
+1990-10-27,Rice,SWC,Fred Goldsmith,A,Texas A&M,SWC,R.C. Slocum,L,15,41
+1990-11-03,Rice,SWC,Fred Goldsmith,A,Arkansas,SWC,Jack Crowe,W,19,11
+1990-11-10,Rice,SWC,Fred Goldsmith,H,SMU,SWC,Forrest Gregg,W,30,28
+1990-11-17,Rice,SWC,Fred Goldsmith,H,Baylor,SWC,Grant Teaff,L,16,17
+1990-09-01,Texas A&M,SWC,R.C. Slocum,A,Hawaii,WAC,Bob Wagner,W,28,13
+1990-09-15,Texas A&M,SWC,R.C. Slocum,H,Louisiana,Ind,Nelson Stokley,W,63,14
+1990-09-29,Texas A&M,SWC,R.C. Slocum,A,LSU,SEC,Mike Archer,L,8,17
+1990-10-06,Texas A&M,SWC,R.C. Slocum,H,Texas Tech,SWC,Spike Dykes,W,28,24
+1990-10-13,Texas A&M,SWC,R.C. Slocum,A,Houston,SWC,John Jenkins,L,31,36
+1990-10-20,Texas A&M,SWC,R.C. Slocum,H,Baylor,SWC,Grant Teaff,T,20,20
+1990-10-27,Texas A&M,SWC,R.C. Slocum,H,Rice,SWC,Fred Goldsmith,W,41,15
+1990-11-03,Texas A&M,SWC,R.C. Slocum,A,SMU,SWC,Forrest Gregg,W,38,17
+1990-11-17,Texas A&M,SWC,R.C. Slocum,A,Arkansas,SWC,Jack Crowe,W,20,16
+1990-11-24,Texas A&M,SWC,R.C. Slocum,H,Texas Christian,SWC,Jim Wacker,W,56,10
+1990-12-01,Texas A&M,SWC,R.C. Slocum,A,Texas,SWC,David McWilliams,L,27,28
+1990-12-29,Texas A&M,SWC,R.C. Slocum,N,Brigham Young,WAC,LaVell Edwards,W,65,14
+1990-09-15,Michigan State,Big Ten,George Perles,A,Syracuse,Ind,Dick MacPherson,T,23,23
+1990-09-22,Michigan State,Big Ten,George Perles,H,Notre Dame,Ind,Lou Holtz,L,19,20
+1990-09-29,Michigan State,Big Ten,George Perles,A,Rutgers,Ind,Doug Graber,W,34,10
+1990-10-06,Michigan State,Big Ten,George Perles,H,Iowa,Big Ten,Hayden Fry,L,7,12
+1990-10-13,Michigan State,Big Ten,George Perles,A,Michigan,Big Ten,Gary Moeller,W,28,27
+1990-10-20,Michigan State,Big Ten,George Perles,A,Illinois,Big Ten,John Mackovic,L,13,15
+1990-10-27,Michigan State,Big Ten,George Perles,H,Purdue,Big Ten,Fred Akers,W,55,33
+1990-11-03,Michigan State,Big Ten,George Perles,H,Indiana,Big Ten,Bill Mallory,W,45,20
+1990-11-10,Michigan State,Big Ten,George Perles,A,Minnesota,Big Ten,John Gutekunst,W,28,16
+1990-11-17,Michigan State,Big Ten,George Perles,A,Northwestern,Big Ten,Francis Peay,W,29,22
+1990-11-24,Michigan State,Big Ten,George Perles,H,Wisconsin,Big Ten,Barry Alvarez,W,14,9
+1990-12-31,Michigan State,Big Ten,George Perles,N,USC,Pac-10,Larry Smith,W,17,16
+1990-09-08,Boston College,Ind,Jack Bicknell,A,Pitt,Ind,Paul Hackett,L,6,29
+1990-09-15,Boston College,Ind,Jack Bicknell,H,Ohio State,Big Ten,John Cooper,L,10,31
+1990-09-29,Boston College,Ind,Jack Bicknell,A,Navy,Ind,George Chaump,W,28,17
+1990-10-06,Boston College,Ind,Jack Bicknell,H,Rutgers,Ind,Doug Graber,W,19,14
+1990-10-13,Boston College,Ind,Jack Bicknell,H,Army,Ind,Jim Young,W,41,20
+1990-10-20,Boston College,Ind,Jack Bicknell,H,Penn State,Ind,Joe Paterno,L,21,40
+1990-10-27,Boston College,Ind,Jack Bicknell,A,West Virginia,Ind,Don Nehlen,W,27,14
+1990-11-03,Boston College,Ind,Jack Bicknell,H,Syracuse,Ind,Dick MacPherson,L,6,35
+1990-11-10,Boston College,Ind,Jack Bicknell,A,Louisville,Ind,Howard Schnellenberger,L,10,17
+1990-11-17,Boston College,Ind,Jack Bicknell,A,Miami (FL),Ind,Dennis Erickson,L,12,42
+1990-11-24,Boston College,Ind,Jack Bicknell,H,Temple,Ind,Jerry Berndt,L,10,29
+1990-09-01,New Mexico State,Big West,Jim Hess,H,New Mexico,WAC,Mike Sheppard,L,12,29
+1990-09-08,New Mexico State,Big West,Jim Hess,A,UTEP,WAC,David Lee,L,24,27
+1990-09-15,New Mexico State,Big West,Jim Hess,A,Kansas State,Big 8,Bill Snyder,L,7,52
+1990-09-22,New Mexico State,Big West,Jim Hess,A,Fresno State,Big West,Jim Sweeney,L,3,42
+1990-10-06,New Mexico State,Big West,Jim Hess,A,Long Beach State,Big West,George Allen,L,27,31
+1990-10-13,New Mexico State,Big West,Jim Hess,H,Nevada-Las Vegas,Big West,Jim Strong,L,20,24
+1990-10-20,New Mexico State,Big West,Jim Hess,A,Pacific,Big West,Walt Harris,L,24,62
+1990-10-27,New Mexico State,Big West,Jim Hess,H,Tulsa,Ind,David Rader,L,10,35
+1990-11-03,New Mexico State,Big West,Jim Hess,A,Utah State,Big West,Chuck Shelton,L,10,55
+1990-11-10,New Mexico State,Big West,Jim Hess,H,San Jose State,Big West,Terry Shea,L,20,56
+1990-11-17,New Mexico State,Big West,Jim Hess,H,Cal State Fullerton,Big West,Gene Murphy,W,43,9
+1990-09-01,Louisiana Tech,Ind,Joe Peace,A,East Carolina,Ind,Bill Lewis,L,17,27
+1990-09-15,Louisiana Tech,Ind,Joe Peace,A,Western Michigan,MAC,Al Molde,L,21,27
+1990-09-22,Louisiana Tech,Ind,Joe Peace,H,Arkansas State,Ind,Al Kincaid,W,40,7
+1990-09-29,Louisiana Tech,Ind,Joe Peace,H,Louisiana,Ind,Nelson Stokley,W,24,10
+1990-10-06,Louisiana Tech,Ind,Joe Peace,A,Auburn,SEC,Pat Dye,L,14,16
+1990-10-13,Louisiana Tech,Ind,Joe Peace,A,Tulsa,Ind,David Rader,W,35,21
+1990-11-10,Louisiana Tech,Ind,Joe Peace,H,Akron,Ind,Gerry Faust,W,36,15
+1990-11-17,Louisiana Tech,Ind,Joe Peace,H,Colorado State,WAC,Earle Bruce,W,31,30
+1990-12-15,Louisiana Tech,Ind,Joe Peace,N,Maryland,ACC,Joe Krivak,T,34,34
+1990-09-08,Minnesota,Big Ten,John Gutekunst,H,Utah,WAC,Ron McBride,L,29,35
+1990-09-15,Minnesota,Big Ten,John Gutekunst,H,Iowa State,Big 8,Jim Walden,W,20,16
+1990-09-22,Minnesota,Big Ten,John Gutekunst,A,Nebraska,Big 8,Tom Osborne,L,0,56
+1990-10-06,Minnesota,Big Ten,John Gutekunst,A,Purdue,Big Ten,Fred Akers,W,19,7
+1990-10-13,Minnesota,Big Ten,John Gutekunst,H,Northwestern,Big Ten,Francis Peay,W,35,25
+1990-10-20,Minnesota,Big Ten,John Gutekunst,H,Indiana,Big Ten,Bill Mallory,W,12,0
+1990-10-27,Minnesota,Big Ten,John Gutekunst,A,Ohio State,Big Ten,John Cooper,L,23,52
+1990-11-03,Minnesota,Big Ten,John Gutekunst,A,Wisconsin,Big Ten,Barry Alvarez,W,21,3
+1990-11-10,Minnesota,Big Ten,John Gutekunst,H,Michigan State,Big Ten,George Perles,L,16,28
+1990-11-17,Minnesota,Big Ten,John Gutekunst,A,Michigan,Big Ten,Gary Moeller,L,18,35
+1990-11-24,Minnesota,Big Ten,John Gutekunst,H,Iowa,Big Ten,Hayden Fry,W,31,24
+1990-09-08,Ole Miss,SEC,Billy Brewer,H,Memphis,Ind,Chuck Stobart,W,23,21
+1990-09-15,Ole Miss,SEC,Billy Brewer,H,Auburn,SEC,Pat Dye,L,10,24
+1990-09-22,Ole Miss,SEC,Billy Brewer,A,Arkansas,SWC,Jack Crowe,W,21,17
+1990-09-29,Ole Miss,SEC,Billy Brewer,H,Tulane,Ind,Greg Davis,W,31,21
+1990-10-06,Ole Miss,SEC,Billy Brewer,H,Kentucky,SEC,Bill Curry,W,35,29
+1990-10-13,Ole Miss,SEC,Billy Brewer,A,Georgia,SEC,Ray Goff,W,28,12
+1990-10-20,Ole Miss,SEC,Billy Brewer,H,Arkansas State,Ind,Al Kincaid,W,42,13
+1990-10-27,Ole Miss,SEC,Billy Brewer,A,Vanderbilt,SEC,Watson Brown,W,14,13
+1990-11-03,Ole Miss,SEC,Billy Brewer,A,LSU,SEC,Mike Archer,W,19,10
+1990-11-17,Ole Miss,SEC,Billy Brewer,N,Tennessee,SEC,Johnny Majors,L,13,22
+1990-11-24,Ole Miss,SEC,Billy Brewer,N,Mississippi State,SEC,Rockey Felker,W,21,9
+1991-01-01,Ole Miss,SEC,Billy Brewer,N,Michigan,Big Ten,Gary Moeller,L,3,35
+1990-09-01,Duke,ACC,Barry Wilson,A,South Carolina,Ind,Sparky Woods,L,10,21
+1990-09-08,Duke,ACC,Barry Wilson,A,Northwestern,Big Ten,Francis Peay,W,27,24
+1990-09-22,Duke,ACC,Barry Wilson,H,Virginia,ACC,George Welsh,L,0,59
+1990-09-29,Duke,ACC,Barry Wilson,A,Clemson,ACC,Ken Hatfield,L,7,26
+1990-10-06,Duke,ACC,Barry Wilson,A,Army,Ind,Jim Young,W,17,16
+1990-10-20,Duke,ACC,Barry Wilson,H,Maryland,ACC,Joe Krivak,L,20,23
+1990-10-27,Duke,ACC,Barry Wilson,A,Georgia Tech,ACC,Bobby Ross,L,31,48
+1990-11-03,Duke,ACC,Barry Wilson,H,Wake Forest,ACC,Bill Dooley,W,57,20
+1990-11-10,Duke,ACC,Barry Wilson,A,North Carolina State,ACC,Dick Sheridan,L,0,16
+1990-11-17,Duke,ACC,Barry Wilson,H,North Carolina,ACC,Mack Brown,L,22,24
+1990-09-01,Kent State,MAC,Dick Crum,A,West Virginia,Ind,Don Nehlen,L,24,35
+1990-09-08,Kent State,MAC,Dick Crum,H,Akron,Ind,Gerry Faust,L,10,38
+1990-09-22,Kent State,MAC,Dick Crum,A,Western Michigan,MAC,Al Molde,L,10,37
+1990-09-29,Kent State,MAC,Dick Crum,H,Cincinnati,Ind,Tim Murphy,L,24,27
+1990-10-06,Kent State,MAC,Dick Crum,H,Central Michigan,MAC,Herb Deromedi,L,0,42
+1990-10-13,Kent State,MAC,Dick Crum,A,Ball State,MAC,Paul Schudel,L,0,31
+1990-10-20,Kent State,MAC,Dick Crum,H,Ohio,MAC,Tom Lichtenberg,W,44,15
+1990-10-27,Kent State,MAC,Dick Crum,A,Toledo,MAC,Nick Saban,L,14,28
+1990-11-03,Kent State,MAC,Dick Crum,H,Bowling Green State,MAC,Moe Ankney,L,16,20
+1990-11-10,Kent State,MAC,Dick Crum,A,Miami (OH),MAC,Randy Walker,L,10,31
+1990-11-17,Kent State,MAC,Dick Crum,H,Eastern Michigan,MAC,Jim Harkema,W,25,24
+1990-09-15,Navy,Ind,George Chaump,A,Virginia,ACC,George Welsh,L,14,56
+1990-09-29,Navy,Ind,George Chaump,H,Boston College,Ind,Jack Bicknell,L,17,28
+1990-10-06,Navy,Ind,George Chaump,A,Air Force,WAC,Fisher DeBerry,L,7,24
+1990-10-13,Navy,Ind,George Chaump,H,Akron,Ind,Gerry Faust,W,17,13
+1990-11-03,Navy,Ind,George Chaump,N,Notre Dame,Ind,Lou Holtz,L,31,52
+1990-11-10,Navy,Ind,George Chaump,A,Toledo,MAC,Nick Saban,W,14,10
+1990-12-08,Navy,Ind,George Chaump,N,Army,Ind,Jim Young,L,20,30
+1990-09-01,Fresno State,Big West,Jim Sweeney,H,Eastern Michigan,MAC,Jim Harkema,W,41,10
+1990-09-08,Fresno State,Big West,Jim Sweeney,H,New Mexico,WAC,Mike Sheppard,W,24,17
+1990-09-15,Fresno State,Big West,Jim Sweeney,A,Utah,WAC,Ron McBride,W,31,7
+1990-09-22,Fresno State,Big West,Jim Sweeney,H,New Mexico State,Big West,Jim Hess,W,42,3
+1990-09-29,Fresno State,Big West,Jim Sweeney,A,Cal State Fullerton,Big West,Gene Murphy,W,38,3
+1990-10-06,Fresno State,Big West,Jim Sweeney,A,Northern Illinois,Ind,Jerry Pettibone,L,18,73
+1990-10-13,Fresno State,Big West,Jim Sweeney,H,Utah State,Big West,Chuck Shelton,T,24,24
+1990-10-20,Fresno State,Big West,Jim Sweeney,H,Long Beach State,Big West,George Allen,W,28,16
+1990-11-03,Fresno State,Big West,Jim Sweeney,A,Nevada-Las Vegas,Big West,Jim Strong,W,45,18
+1990-11-10,Fresno State,Big West,Jim Sweeney,H,Pacific,Big West,Walt Harris,W,48,17
+1990-11-17,Fresno State,Big West,Jim Sweeney,A,San Jose State,Big West,Terry Shea,L,7,42
+1990-09-08,Texas Tech,SWC,Spike Dykes,A,Ohio State,Big Ten,John Cooper,L,10,17
+1990-09-13,Texas Tech,SWC,Spike Dykes,H,Houston,SWC,John Jenkins,L,35,51
+1990-09-22,Texas Tech,SWC,Spike Dykes,A,New Mexico,WAC,Mike Sheppard,W,34,32
+1990-09-29,Texas Tech,SWC,Spike Dykes,H,Baylor,SWC,Grant Teaff,L,15,21
+1990-10-06,Texas Tech,SWC,Spike Dykes,A,Texas A&M,SWC,R.C. Slocum,L,24,28
+1990-10-13,Texas Tech,SWC,Spike Dykes,A,Arkansas,SWC,Jack Crowe,W,49,44
+1990-10-20,Texas Tech,SWC,Spike Dykes,A,Rice,SWC,Fred Goldsmith,L,21,42
+1990-10-27,Texas Tech,SWC,Spike Dykes,H,Miami (FL),Ind,Dennis Erickson,L,10,45
+1990-11-03,Texas Tech,SWC,Spike Dykes,H,Texas,SWC,David McWilliams,L,22,41
+1990-11-10,Texas Tech,SWC,Spike Dykes,A,Texas Christian,SWC,Jim Wacker,W,40,28
+1990-11-17,Texas Tech,SWC,Spike Dykes,H,SMU,SWC,Forrest Gregg,W,62,7
+1990-09-01,Tulane,Ind,Greg Davis,H,Louisiana,Ind,Nelson Stokley,L,6,48
+1990-09-08,Tulane,Ind,Greg Davis,A,Rice,SWC,Fred Goldsmith,W,21,10
+1990-09-15,Tulane,Ind,Greg Davis,H,SMU,SWC,Forrest Gregg,W,43,7
+1990-09-22,Tulane,Ind,Greg Davis,H,Florida State,Ind,Bobby Bowden,L,13,31
+1990-09-29,Tulane,Ind,Greg Davis,A,Ole Miss,SEC,Billy Brewer,L,21,31
+1990-10-06,Tulane,Ind,Greg Davis,A,Memphis,Ind,Chuck Stobart,L,14,21
+1990-10-13,Tulane,Ind,Greg Davis,H,Southern Mississippi,Ind,Jeff Bower,L,14,20
+1990-10-20,Tulane,Ind,Greg Davis,H,Mississippi State,SEC,Rockey Felker,L,17,38
+1990-10-27,Tulane,Ind,Greg Davis,H,Cincinnati,Ind,Tim Murphy,W,49,7
+1990-11-10,Tulane,Ind,Greg Davis,A,Syracuse,Ind,Dick MacPherson,W,26,24
+1990-11-24,Tulane,Ind,Greg Davis,A,LSU,SEC,Mike Archer,L,13,16
+1990-09-08,Northern Illinois,Ind,Jerry Pettibone,A,Nebraska,Big 8,Tom Osborne,L,14,60
+1990-09-15,Northern Illinois,Ind,Jerry Pettibone,A,Toledo,MAC,Nick Saban,L,14,23
+1990-09-22,Northern Illinois,Ind,Jerry Pettibone,H,Kansas State,Big 8,Bill Snyder,W,42,35
+1990-09-29,Northern Illinois,Ind,Jerry Pettibone,A,Northwestern,Big Ten,Francis Peay,L,7,24
+1990-10-06,Northern Illinois,Ind,Jerry Pettibone,H,Fresno State,Big West,Jim Sweeney,W,73,18
+1990-10-13,Northern Illinois,Ind,Jerry Pettibone,H,Arkansas State,Ind,Al Kincaid,W,35,0
+1990-11-03,Northern Illinois,Ind,Jerry Pettibone,A,Akron,Ind,Gerry Faust,W,31,28
+1990-11-10,Northern Illinois,Ind,Jerry Pettibone,A,East Carolina,Ind,Bill Lewis,L,20,24
+1990-11-17,Northern Illinois,Ind,Jerry Pettibone,A,Louisiana,Ind,Nelson Stokley,L,20,24
+1990-09-08,Ohio State,Big Ten,John Cooper,H,Texas Tech,SWC,Spike Dykes,W,17,10
+1990-09-15,Ohio State,Big Ten,John Cooper,A,Boston College,Ind,Jack Bicknell,W,31,10
+1990-09-29,Ohio State,Big Ten,John Cooper,H,USC,Pac-10,Larry Smith,L,26,35
+1990-10-06,Ohio State,Big Ten,John Cooper,H,Illinois,Big Ten,John Mackovic,L,20,31
+1990-10-13,Ohio State,Big Ten,John Cooper,A,Indiana,Big Ten,Bill Mallory,T,27,27
+1990-10-20,Ohio State,Big Ten,John Cooper,A,Purdue,Big Ten,Fred Akers,W,42,2
+1990-10-27,Ohio State,Big Ten,John Cooper,H,Minnesota,Big Ten,John Gutekunst,W,52,23
+1990-11-03,Ohio State,Big Ten,John Cooper,H,Northwestern,Big Ten,Francis Peay,W,48,7
+1990-11-10,Ohio State,Big Ten,John Cooper,A,Iowa,Big Ten,Hayden Fry,W,27,26
+1990-11-17,Ohio State,Big Ten,John Cooper,A,Wisconsin,Big Ten,Barry Alvarez,W,35,10
+1990-11-24,Ohio State,Big Ten,John Cooper,H,Michigan,Big Ten,Gary Moeller,L,13,16
+1990-12-27,Ohio State,Big Ten,John Cooper,N,Air Force,WAC,Fisher DeBerry,L,11,23
+1990-09-01,Ohio,MAC,Tom Lichtenberg,A,Pitt,Ind,Paul Hackett,L,3,35
+1990-09-15,Ohio,MAC,Tom Lichtenberg,A,Eastern Michigan,MAC,Jim Harkema,L,18,21
+1990-09-29,Ohio,MAC,Tom Lichtenberg,H,Toledo,MAC,Nick Saban,L,20,27
+1990-10-06,Ohio,MAC,Tom Lichtenberg,A,Bowling Green State,MAC,Moe Ankney,T,10,10
+1990-10-13,Ohio,MAC,Tom Lichtenberg,H,Miami (OH),MAC,Randy Walker,L,18,40
+1990-10-20,Ohio,MAC,Tom Lichtenberg,A,Kent State,MAC,Dick Crum,L,15,44
+1990-10-27,Ohio,MAC,Tom Lichtenberg,H,Western Michigan,MAC,Al Molde,L,23,31
+1990-11-10,Ohio,MAC,Tom Lichtenberg,H,Central Michigan,MAC,Herb Deromedi,L,7,52
+1990-11-17,Ohio,MAC,Tom Lichtenberg,A,Ball State,MAC,Paul Schudel,L,6,23
+1990-09-08,Houston,SWC,John Jenkins,H,Nevada-Las Vegas,Big West,Jim Strong,W,37,9
+1990-09-13,Houston,SWC,John Jenkins,A,Texas Tech,SWC,Spike Dykes,W,51,35
+1990-09-29,Houston,SWC,John Jenkins,H,Rice,SWC,Fred Goldsmith,W,24,22
+1990-10-06,Houston,SWC,John Jenkins,A,Baylor,SWC,Grant Teaff,W,31,15
+1990-10-13,Houston,SWC,John Jenkins,H,Texas A&M,SWC,R.C. Slocum,W,36,31
+1990-10-20,Houston,SWC,John Jenkins,A,SMU,SWC,Forrest Gregg,W,44,17
+1990-10-27,Houston,SWC,John Jenkins,H,Arkansas,SWC,Jack Crowe,W,62,28
+1990-11-03,Houston,SWC,John Jenkins,H,Texas Christian,SWC,Jim Wacker,W,56,35
+1990-11-10,Houston,SWC,John Jenkins,A,Texas,SWC,David McWilliams,L,24,45
+1990-12-02,Houston,SWC,John Jenkins,N,Arizona State,Pac-10,Larry Marmie,W,62,45

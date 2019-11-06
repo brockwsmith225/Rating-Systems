@@ -1,0 +1,189 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1891-09-30,Brown,Ind,,A,MIT,Ind,,W,6,4
+1891-10-03,Brown,Ind,,H,Trinity (CT),Ind,Russell Jones,L,0,8
+1891-10-31,Brown,Ind,,H,MIT,Ind,,L,6,14
+1891-11-14,Brown,Ind,,A,Williams,Ind,,L,0,58
+1891-09-30,Trinity (CT),Ind,Russell Jones,A,Springfield,Ind,Amos Alonzo Stagg,W,16,14
+1891-10-03,Trinity (CT),Ind,Russell Jones,A,Brown,Ind,,W,8,0
+1891-10-07,Trinity (CT),Ind,Russell Jones,H,Yale,Ind,Walter Camp,L,0,36
+1891-10-14,Trinity (CT),Ind,Russell Jones,H,Massachusetts,Ind,,W,16,0
+1891-10-17,Trinity (CT),Ind,Russell Jones,H,Wesleyan (CT),Ind,,W,4,0
+1891-10-21,Trinity (CT),Ind,Russell Jones,A,MIT,Ind,,W,22,0
+1891-10-24,Trinity (CT),Ind,Russell Jones,A,Columbia,Ind,,W,54,0
+1891-10-31,Trinity (CT),Ind,Russell Jones,A,Pennsylvania,Ind,E.O. Wagenhurst,L,5,28
+1891-11-11,Trinity (CT),Ind,Russell Jones,H,Harvard,Ind,George Stewart,L,0,38
+1891-10-31,Dickinson,Ind,,H,Haverford,Ind,,W,22,4
+1891-11-14,Dickinson,Ind,,A,Navy,Ind,,L,4,34
+1891-11-21,Dickinson,Ind,,H,Bucknell,Ind,,T,0,0
+1891-09-30,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,28,0
+1891-10-07,Yale,Ind,Walter Camp,A,Trinity (CT),Ind,Russell Jones,W,36,0
+1891-10-10,Yale,Ind,Walter Camp,N,Williams,Ind,,W,46,0
+1891-10-14,Yale,Ind,Walter Camp,H,Springfield,Ind,Amos Alonzo Stagg,W,28,0
+1891-10-31,Yale,Ind,Walter Camp,H,Lehigh,Ind,,W,38,0
+1891-11-07,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,76,0
+1891-11-11,Yale,Ind,Walter Camp,H,Amherst,Ind,,W,27,0
+1891-11-14,Yale,Ind,Walter Camp,N,Pennsylvania,Ind,E.O. Wagenhurst,W,48,0
+1891-11-21,Yale,Ind,Walter Camp,N,Harvard,Ind,George Stewart,W,10,0
+1891-11-26,Yale,Ind,Walter Camp,N,Princeton,Ind,,W,19,0
+1891-10-10,Franklin & Marshall,Ind,,A,Lehigh,Ind,,L,0,22
+1891-10-17,Franklin & Marshall,Ind,,H,Princeton,Ind,,L,0,44
+1891-10-24,Franklin & Marshall,Ind,,H,Penn State,Ind,,L,6,26
+1891-11-07,Franklin & Marshall,Ind,,A,Haverford,Ind,,W,23,4
+1891-11-26,Franklin & Marshall,Ind,,H,Bucknell,Ind,,W,12,6
+1891-09-29,Lehigh,Ind,,H,Bucknell,Ind,,W,62,4
+1891-10-03,Lehigh,Ind,,H,Penn State,Ind,,W,24,2
+1891-10-07,Lehigh,Ind,,H,Princeton,Ind,,L,0,18
+1891-10-10,Lehigh,Ind,,H,Franklin & Marshall,Ind,,W,22,0
+1891-10-14,Lehigh,Ind,,A,Princeton,Ind,,L,0,30
+1891-10-17,Lehigh,Ind,,H,Rutgers,Ind,William Reynolds,W,22,0
+1891-10-24,Lehigh,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,L,0,42
+1891-10-31,Lehigh,Ind,,A,Yale,Ind,Walter Camp,L,0,38
+1891-11-04,Lehigh,Ind,,H,Lafayette,Ind,Wallace Moyle,W,22,4
+1891-11-07,Lehigh,Ind,,A,Cornell,Ind,,L,0,24
+1891-11-11,Lehigh,Ind,,A,Lafayette,Ind,Wallace Moyle,W,6,2
+1891-11-21,Lehigh,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,L,0,32
+1891-11-25,Lehigh,Ind,,N,Lafayette,Ind,Wallace Moyle,W,16,2
+1891-10-03,Harvard,Ind,George Stewart,H,Dartmouth,Ind,,W,16,0
+1891-10-10,Harvard,Ind,George Stewart,H,Amherst,Ind,,W,18,0
+1891-10-14,Harvard,Ind,George Stewart,H,MIT,Ind,,W,26,0
+1891-10-17,Harvard,Ind,George Stewart,H,Williams,Ind,,W,26,0
+1891-10-24,Harvard,Ind,George Stewart,H,Amherst,Ind,,W,39,0
+1891-10-31,Harvard,Ind,George Stewart,H,Springfield,Ind,Amos Alonzo Stagg,W,34,0
+1891-11-04,Harvard,Ind,George Stewart,H,Wesleyan (CT),Ind,,W,124,0
+1891-11-07,Harvard,Ind,George Stewart,H,Springfield,Ind,Amos Alonzo Stagg,W,44,4
+1891-11-11,Harvard,Ind,George Stewart,A,Trinity (CT),Ind,Russell Jones,W,38,0
+1891-11-21,Harvard,Ind,George Stewart,N,Yale,Ind,Walter Camp,L,0,10
+1891-10-03,Williams,Ind,,A,Amherst,Ind,,T,0,0
+1891-10-10,Williams,Ind,,N,Yale,Ind,Walter Camp,L,0,46
+1891-10-17,Williams,Ind,,A,Harvard,Ind,George Stewart,L,0,26
+1891-10-24,Williams,Ind,,H,Dartmouth,Ind,,W,14,6
+1891-10-31,Williams,Ind,,H,Stevens,Ind,,W,60,0
+1891-11-14,Williams,Ind,,H,Brown,Ind,,W,58,0
+1891-11-18,Williams,Ind,,A,Springfield,Ind,Amos Alonzo Stagg,W,16,6
+1891-11-21,Williams,Ind,,H,MIT,Ind,,W,30,0
+1891-10-14,Massachusetts,Ind,,A,Trinity (CT),Ind,Russell Jones,L,0,16
+1891-10-21,Massachusetts,Ind,,A,Amherst,Ind,,L,0,44
+1891-10-24,Massachusetts,Ind,,H,Springfield,Ind,Amos Alonzo Stagg,L,0,30
+1891-10-31,Massachusetts,Ind,,A,Amherst,Ind,,L,4,20
+1891-11-21,Massachusetts,Ind,,H,Amherst,Ind,,L,0,16
+1891-09-25,Bucknell,Ind,,A,Lafayette,Ind,Wallace Moyle,W,16,10
+1891-09-29,Bucknell,Ind,,A,Lehigh,Ind,,L,4,62
+1891-10-10,Bucknell,Ind,,A,Cornell,Ind,,W,4,0
+1891-11-07,Bucknell,Ind,,H,Penn State,Ind,,W,12,10
+1891-11-14,Bucknell,Ind,,A,Haverford,Ind,,W,70,0
+1891-11-21,Bucknell,Ind,,A,Dickinson,Ind,,T,0,0
+1891-11-26,Bucknell,Ind,,A,Franklin & Marshall,Ind,,L,6,12
+1891-11-07,Army,Ind,Henry Williams,H,Stevens,Ind,,W,14,12
+1891-11-14,Army,Ind,Henry Williams,H,Rutgers,Ind,William Reynolds,L,6,27
+1891-11-28,Army,Ind,Henry Williams,A,Navy,Ind,,W,32,16
+1891-10-02,Penn State,Ind,,A,Lafayette,Ind,Wallace Moyle,W,14,4
+1891-10-03,Penn State,Ind,,A,Lehigh,Ind,,L,2,24
+1891-10-24,Penn State,Ind,,A,Franklin & Marshall,Ind,,W,26,6
+1891-11-07,Penn State,Ind,,A,Bucknell,Ind,,L,10,12
+1891-12-05,Penn State,Ind,,A,Haverford,Ind,,W,58,0
+1891-09-30,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,28
+1891-10-10,Wesleyan (CT),Ind,,H,Springfield,Ind,Amos Alonzo Stagg,W,12,8
+1891-10-17,Wesleyan (CT),Ind,,A,Trinity (CT),Ind,Russell Jones,L,0,4
+1891-10-31,Wesleyan (CT),Ind,,N,Princeton,Ind,,L,0,73
+1891-11-04,Wesleyan (CT),Ind,,A,Harvard,Ind,George Stewart,L,0,124
+1891-11-07,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,76
+1891-11-25,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,E.O. Wagenhurst,L,10,18
+1891-10-03,Dartmouth,Ind,,A,Harvard,Ind,George Stewart,L,0,16
+1891-10-14,Dartmouth,Ind,,H,Amherst,Ind,,T,14,14
+1891-10-24,Dartmouth,Ind,,A,Williams,Ind,,L,6,14
+1891-11-04,Dartmouth,Ind,,A,Stevens,Ind,,W,32,12
+1891-11-14,Dartmouth,Ind,,A,MIT,Ind,,W,8,6
+1891-10-03,Princeton,Ind,,H,Rutgers,Ind,William Reynolds,W,12,0
+1891-10-07,Princeton,Ind,,A,Lehigh,Ind,,W,18,0
+1891-10-14,Princeton,Ind,,H,Lehigh,Ind,,W,30,0
+1891-10-17,Princeton,Ind,,A,Franklin & Marshall,Ind,,W,44,0
+1891-10-20,Princeton,Ind,,A,Lafayette,Ind,Wallace Moyle,W,24,0
+1891-10-31,Princeton,Ind,,N,Wesleyan (CT),Ind,,W,73,0
+1891-11-07,Princeton,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,W,24,0
+1891-11-14,Princeton,Ind,,H,Cornell,Ind,,W,6,0
+1891-11-26,Princeton,Ind,,N,Yale,Ind,Walter Camp,L,0,19
+1891-10-10,Haverford,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,L,0,34
+1891-10-14,Haverford,Ind,,H,Lafayette,Ind,Wallace Moyle,L,0,38
+1891-10-31,Haverford,Ind,,A,Dickinson,Ind,,L,4,22
+1891-11-07,Haverford,Ind,,H,Franklin & Marshall,Ind,,L,4,23
+1891-11-14,Haverford,Ind,,H,Bucknell,Ind,,L,0,70
+1891-12-05,Haverford,Ind,,H,Penn State,Ind,,L,0,58
+1891-10-17,Stevens,Ind,,A,Cornell,Ind,,L,0,72
+1891-10-21,Stevens,Ind,,H,Columbia,Ind,,W,52,0
+1891-10-24,Stevens,Ind,,A,Rutgers,Ind,William Reynolds,L,10,12
+1891-10-31,Stevens,Ind,,A,Williams,Ind,,L,0,60
+1891-11-04,Stevens,Ind,,H,Dartmouth,Ind,,L,12,32
+1891-11-07,Stevens,Ind,,A,Army,Ind,Henry Williams,L,12,14
+1891-11-14,Stevens,Ind,,A,Amherst,Ind,,L,0,38
+1891-11-26,Stevens,Ind,,H,MIT,Ind,,L,0,16
+1891-10-03,Rutgers,Ind,William Reynolds,A,Princeton,Ind,,L,0,12
+1891-10-17,Rutgers,Ind,William Reynolds,A,Lehigh,Ind,,L,0,22
+1891-10-21,Rutgers,Ind,William Reynolds,A,Pennsylvania,Ind,E.O. Wagenhurst,L,6,32
+1891-10-24,Rutgers,Ind,William Reynolds,H,Stevens,Ind,,W,12,10
+1891-10-28,Rutgers,Ind,William Reynolds,H,Columbia,Ind,,W,44,0
+1891-10-31,Rutgers,Ind,William Reynolds,A,Navy,Ind,,L,12,21
+1891-11-14,Rutgers,Ind,William Reynolds,A,Army,Ind,Henry Williams,W,27,6
+1891-10-10,Pennsylvania,Ind,E.O. Wagenhurst,H,Haverford,Ind,,W,34,0
+1891-10-21,Pennsylvania,Ind,E.O. Wagenhurst,H,Rutgers,Ind,William Reynolds,W,32,6
+1891-10-24,Pennsylvania,Ind,E.O. Wagenhurst,A,Lehigh,Ind,,W,42,0
+1891-10-28,Pennsylvania,Ind,E.O. Wagenhurst,H,Lafayette,Ind,Wallace Moyle,W,15,6
+1891-10-31,Pennsylvania,Ind,E.O. Wagenhurst,H,Trinity (CT),Ind,Russell Jones,W,28,5
+1891-11-07,Pennsylvania,Ind,E.O. Wagenhurst,H,Princeton,Ind,,L,0,24
+1891-11-14,Pennsylvania,Ind,E.O. Wagenhurst,N,Yale,Ind,Walter Camp,L,0,48
+1891-11-18,Pennsylvania,Ind,E.O. Wagenhurst,A,Lafayette,Ind,Wallace Moyle,W,12,10
+1891-11-21,Pennsylvania,Ind,E.O. Wagenhurst,H,Lehigh,Ind,,W,32,0
+1891-11-25,Pennsylvania,Ind,E.O. Wagenhurst,N,Wesleyan (CT),Ind,,W,18,10
+1891-10-31,Navy,Ind,,H,Rutgers,Ind,William Reynolds,W,21,12
+1891-11-14,Navy,Ind,,H,Dickinson,Ind,,W,34,4
+1891-11-21,Navy,Ind,,H,Lafayette,Ind,Wallace Moyle,L,0,4
+1891-11-28,Navy,Ind,,H,Army,Ind,Henry Williams,L,16,32
+1891-10-21,Columbia,Ind,,A,Stevens,Ind,,L,0,52
+1891-10-24,Columbia,Ind,,H,Trinity (CT),Ind,Russell Jones,L,0,54
+1891-10-28,Columbia,Ind,,A,Rutgers,Ind,William Reynolds,L,0,44
+1891-10-03,Amherst,Ind,,H,Williams,Ind,,T,0,0
+1891-10-10,Amherst,Ind,,A,Harvard,Ind,George Stewart,L,0,18
+1891-10-14,Amherst,Ind,,A,Dartmouth,Ind,,T,14,14
+1891-10-17,Amherst,Ind,,A,Springfield,Ind,Amos Alonzo Stagg,L,4,18
+1891-10-21,Amherst,Ind,,H,Massachusetts,Ind,,W,44,0
+1891-10-24,Amherst,Ind,,A,Harvard,Ind,George Stewart,L,0,39
+1891-10-28,Amherst,Ind,,A,Springfield,Ind,Amos Alonzo Stagg,T,12,12
+1891-10-31,Amherst,Ind,,H,Massachusetts,Ind,,W,20,4
+1891-11-04,Amherst,Ind,,H,Springfield,Ind,Amos Alonzo Stagg,W,24,4
+1891-11-07,Amherst,Ind,,H,MIT,Ind,,W,24,14
+1891-11-11,Amherst,Ind,,A,Yale,Ind,Walter Camp,L,0,27
+1891-11-14,Amherst,Ind,,H,Stevens,Ind,,W,38,0
+1891-11-21,Amherst,Ind,,A,Massachusetts,Ind,,W,16,0
+1891-09-25,Lafayette,Ind,Wallace Moyle,H,Bucknell,Ind,,L,10,16
+1891-10-02,Lafayette,Ind,Wallace Moyle,H,Penn State,Ind,,L,4,14
+1891-10-14,Lafayette,Ind,Wallace Moyle,A,Haverford,Ind,,W,38,0
+1891-10-20,Lafayette,Ind,Wallace Moyle,H,Princeton,Ind,,L,0,24
+1891-10-24,Lafayette,Ind,Wallace Moyle,A,Cornell,Ind,,L,0,30
+1891-10-28,Lafayette,Ind,Wallace Moyle,A,Pennsylvania,Ind,E.O. Wagenhurst,L,6,15
+1891-11-04,Lafayette,Ind,Wallace Moyle,A,Lehigh,Ind,,L,4,22
+1891-11-11,Lafayette,Ind,Wallace Moyle,H,Lehigh,Ind,,L,2,6
+1891-11-18,Lafayette,Ind,Wallace Moyle,H,Pennsylvania,Ind,E.O. Wagenhurst,L,10,12
+1891-11-21,Lafayette,Ind,Wallace Moyle,A,Navy,Ind,,W,4,0
+1891-11-25,Lafayette,Ind,Wallace Moyle,N,Lehigh,Ind,,L,2,16
+1891-09-30,Springfield,Ind,Amos Alonzo Stagg,H,Trinity (CT),Ind,Russell Jones,L,14,16
+1891-10-10,Springfield,Ind,Amos Alonzo Stagg,A,Wesleyan (CT),Ind,,L,8,12
+1891-10-14,Springfield,Ind,Amos Alonzo Stagg,A,Yale,Ind,Walter Camp,L,0,28
+1891-10-17,Springfield,Ind,Amos Alonzo Stagg,H,Amherst,Ind,,W,18,4
+1891-10-24,Springfield,Ind,Amos Alonzo Stagg,A,Massachusetts,Ind,,W,30,0
+1891-10-28,Springfield,Ind,Amos Alonzo Stagg,H,Amherst,Ind,,T,12,12
+1891-10-31,Springfield,Ind,Amos Alonzo Stagg,A,Harvard,Ind,George Stewart,L,0,34
+1891-11-04,Springfield,Ind,Amos Alonzo Stagg,A,Amherst,Ind,,L,4,24
+1891-11-07,Springfield,Ind,Amos Alonzo Stagg,A,Harvard,Ind,George Stewart,L,4,44
+1891-11-18,Springfield,Ind,Amos Alonzo Stagg,H,Williams,Ind,,L,6,16
+1891-10-10,Cornell,Ind,,H,Bucknell,Ind,,L,0,4
+1891-10-17,Cornell,Ind,,H,Stevens,Ind,,W,72,0
+1891-10-24,Cornell,Ind,,H,Lafayette,Ind,Wallace Moyle,W,30,0
+1891-11-07,Cornell,Ind,,H,Lehigh,Ind,,W,24,0
+1891-11-14,Cornell,Ind,,A,Princeton,Ind,,L,0,6
+1891-09-30,MIT,Ind,,H,Brown,Ind,,L,4,6
+1891-10-14,MIT,Ind,,A,Harvard,Ind,George Stewart,L,0,26
+1891-10-21,MIT,Ind,,H,Trinity (CT),Ind,Russell Jones,L,0,22
+1891-10-31,MIT,Ind,,A,Brown,Ind,,W,14,6
+1891-11-07,MIT,Ind,,A,Amherst,Ind,,L,14,24
+1891-11-14,MIT,Ind,,H,Dartmouth,Ind,,L,6,8
+1891-11-21,MIT,Ind,,A,Williams,Ind,,L,0,30
+1891-11-26,MIT,Ind,,A,Stevens,Ind,,W,16,0

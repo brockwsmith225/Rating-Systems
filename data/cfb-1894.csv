@@ -1,0 +1,159 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1894-10-03,Brown,Ind,W.G. Norton,A,Yale,Ind,William Rhodes,L,0,28
+1894-10-10,Brown,Ind,W.G. Norton,A,Harvard,Ind,William Brooks,L,4,18
+1894-10-13,Brown,Ind,W.G. Norton,A,Army,Ind,Harmon Graves,W,10,0
+1894-10-24,Brown,Ind,W.G. Norton,H,Wesleyan (CT),Ind,,W,26,0
+1894-10-27,Brown,Ind,W.G. Norton,A,MIT,Ind,,L,4,8
+1894-10-31,Brown,Ind,W.G. Norton,H,Tufts,Ind, Hamlin,W,30,0
+1894-11-03,Brown,Ind,W.G. Norton,H,Yale,Ind,William Rhodes,L,0,12
+1894-11-17,Brown,Ind,W.G. Norton,A,Harvard,Ind,William Brooks,L,0,18
+1894-11-24,Brown,Ind,W.G. Norton,A,Dartmouth,Ind,Wallace Moyle,W,20,4
+1894-11-29,Brown,Ind,W.G. Norton,H,MIT,Ind,,W,16,4
+1894-09-29,Trinity (CT),Ind,,H,Yale,Ind,William Rhodes,L,0,42
+1894-10-06,Trinity (CT),Ind,,H,Tufts,Ind, Hamlin,L,4,8
+1894-10-13,Trinity (CT),Ind,,H,Massachusetts,Ind,,W,10,0
+1894-11-03,Trinity (CT),Ind,,A,MIT,Ind,,L,0,18
+1894-09-29,Yale,Ind,William Rhodes,A,Trinity (CT),Ind,,W,42,0
+1894-10-03,Yale,Ind,William Rhodes,H,Brown,Ind,W.G. Norton,W,28,0
+1894-10-10,Yale,Ind,William Rhodes,H,Williams,Ind,,W,23,4
+1894-10-13,Yale,Ind,William Rhodes,N,Lehigh,Ind,Pudge Heffelfinger,W,34,0
+1894-10-17,Yale,Ind,William Rhodes,N,Dartmouth,Ind,Wallace Moyle,W,34,0
+1894-10-27,Yale,Ind,William Rhodes,A,Army,Ind,Harmon Graves,W,12,5
+1894-11-03,Yale,Ind,William Rhodes,A,Brown,Ind,W.G. Norton,W,12,0
+1894-11-07,Yale,Ind,William Rhodes,H,Tufts,Ind, Hamlin,W,67,0
+1894-11-10,Yale,Ind,William Rhodes,N,Lehigh,Ind,Pudge Heffelfinger,W,50,0
+1894-11-24,Yale,Ind,William Rhodes,N,Harvard,Ind,William Brooks,W,12,4
+1894-12-01,Yale,Ind,William Rhodes,N,Princeton,Ind,,W,24,0
+1894-10-03,Lehigh,Ind,Pudge Heffelfinger,H,Princeton,Ind,,L,0,8
+1894-10-13,Lehigh,Ind,Pudge Heffelfinger,N,Yale,Ind,William Rhodes,L,0,34
+1894-10-17,Lehigh,Ind,Pudge Heffelfinger,A,Pennsylvania,Ind,George Woodruff,L,0,30
+1894-10-27,Lehigh,Ind,Pudge Heffelfinger,A,Princeton,Ind,,L,0,32
+1894-11-10,Lehigh,Ind,Pudge Heffelfinger,N,Yale,Ind,William Rhodes,L,0,50
+1894-11-14,Lehigh,Ind,Pudge Heffelfinger,A,Lafayette,Ind,Hugh Janeway,L,0,28
+1894-11-24,Lehigh,Ind,Pudge Heffelfinger,H,Lafayette,Ind,Hugh Janeway,W,11,8
+1894-11-29,Lehigh,Ind,Pudge Heffelfinger,A,Cornell,Ind,Marshall Newell,L,6,10
+1894-10-15,Purdue,Ind,D.M. Balliet,A,Wisconsin,Ind,H.O. Stickney,W,6,0
+1894-10-27,Purdue,Ind,D.M. Balliet,A,Minnesota,Ind,Tom Cochrane,L,0,24
+1894-11-03,Purdue,Ind,D.M. Balliet,A,Chicago,Ind,Amos Alonzo Stagg,W,10,6
+1894-11-17,Purdue,Ind,D.M. Balliet,A,Illinois,Ind,Louis Vail,W,22,2
+1894-09-29,Harvard,Ind,William Brooks,H,Dartmouth,Ind,Wallace Moyle,W,22,0
+1894-10-10,Harvard,Ind,William Brooks,H,Brown,Ind,W.G. Norton,W,18,4
+1894-10-20,Harvard,Ind,William Brooks,H,Amherst,Ind,Parke Davis,W,30,0
+1894-10-24,Harvard,Ind,William Brooks,H,Williams,Ind,,W,32,0
+1894-10-27,Harvard,Ind,William Brooks,N,Cornell,Ind,Marshall Newell,W,22,12
+1894-11-17,Harvard,Ind,William Brooks,H,Brown,Ind,W.G. Norton,W,18,0
+1894-11-24,Harvard,Ind,William Brooks,N,Yale,Ind,William Rhodes,L,4,12
+1894-11-29,Harvard,Ind,William Brooks,A,Pennsylvania,Ind,George Woodruff,L,4,18
+1894-10-10,Williams,Ind,,A,Yale,Ind,William Rhodes,L,4,23
+1894-10-24,Williams,Ind,,A,Harvard,Ind,William Brooks,L,0,32
+1894-10-27,Williams,Ind,,A,Union (NY),Ind,T. Thompson,W,4,0
+1894-10-31,Williams,Ind,,H,MIT,Ind,,W,12,0
+1894-11-07,Williams,Ind,,H,Amherst,Ind,Parke Davis,W,34,10
+1894-11-10,Williams,Ind,,A,Dartmouth,Ind,Wallace Moyle,L,0,10
+1894-11-14,Williams,Ind,,H,Cornell,Ind,Marshall Newell,T,0,0
+1894-11-17,Williams,Ind,,H,Union (NY),Ind,T. Thompson,W,20,0
+1894-09-29,Massachusetts,Ind,,A,Amherst,Ind,Parke Davis,L,0,6
+1894-10-13,Massachusetts,Ind,,A,Trinity (CT),Ind,,L,0,10
+1894-10-20,Massachusetts,Ind,,A,Wesleyan (CT),Ind,,W,12,0
+1894-10-15,Wisconsin,Ind,H.O. Stickney,H,Purdue,Ind,D.M. Balliet,L,0,6
+1894-10-20,Wisconsin,Ind,H.O. Stickney,A,Chicago,Ind,Amos Alonzo Stagg,W,30,0
+1894-11-03,Wisconsin,Ind,H.O. Stickney,A,Beloit,Ind,John Hollister,W,46,0
+1894-11-17,Wisconsin,Ind,H.O. Stickney,H,Minnesota,Ind,Tom Cochrane,W,6,0
+1894-10-06,Army,Ind,Harmon Graves,H,Amherst,Ind,Parke Davis,W,18,0
+1894-10-13,Army,Ind,Harmon Graves,H,Brown,Ind,W.G. Norton,L,0,10
+1894-10-20,Army,Ind,Harmon Graves,H,MIT,Ind,,W,42,0
+1894-10-27,Army,Ind,Harmon Graves,H,Yale,Ind,William Rhodes,L,5,12
+1894-11-03,Army,Ind,Harmon Graves,H,Union (NY),Ind,T. Thompson,W,30,0
+1894-10-06,Union (NY),Ind,T. Thompson,A,Cornell,Ind,Marshall Newell,L,0,37
+1894-10-17,Union (NY),Ind,T. Thompson,H,Amherst,Ind,Parke Davis,W,6,0
+1894-10-27,Union (NY),Ind,T. Thompson,H,Williams,Ind,,L,0,4
+1894-11-03,Union (NY),Ind,T. Thompson,A,Army,Ind,Harmon Graves,L,0,30
+1894-11-10,Union (NY),Ind,T. Thompson,A,Wesleyan (CT),Ind,,W,32,6
+1894-11-17,Union (NY),Ind,T. Thompson,A,Williams,Ind,,L,0,20
+1894-10-13,Wesleyan (CT),Ind,,A,Amherst,Ind,Parke Davis,L,0,28
+1894-10-20,Wesleyan (CT),Ind,,H,Massachusetts,Ind,,L,0,12
+1894-10-24,Wesleyan (CT),Ind,,A,Brown,Ind,W.G. Norton,L,0,26
+1894-10-27,Wesleyan (CT),Ind,,H,Amherst,Ind,Parke Davis,L,4,10
+1894-11-10,Wesleyan (CT),Ind,,H,Union (NY),Ind,T. Thompson,L,6,32
+1894-09-29,Dartmouth,Ind,Wallace Moyle,A,Harvard,Ind,William Brooks,L,0,22
+1894-10-17,Dartmouth,Ind,Wallace Moyle,N,Yale,Ind,William Rhodes,L,0,34
+1894-10-20,Dartmouth,Ind,Wallace Moyle,A,Tufts,Ind, Hamlin,W,12,0
+1894-11-10,Dartmouth,Ind,Wallace Moyle,H,Williams,Ind,,W,10,0
+1894-11-17,Dartmouth,Ind,Wallace Moyle,H,Amherst,Ind,Parke Davis,W,30,0
+1894-11-24,Dartmouth,Ind,Wallace Moyle,H,Brown,Ind,W.G. Norton,L,4,20
+1894-09-29,Princeton,Ind,,H,Lafayette,Ind,Hugh Janeway,W,40,0
+1894-10-03,Princeton,Ind,,A,Lehigh,Ind,Pudge Heffelfinger,W,8,0
+1894-10-20,Princeton,Ind,,N,Cornell,Ind,Marshall Newell,W,12,4
+1894-10-27,Princeton,Ind,,H,Lehigh,Ind,Pudge Heffelfinger,W,32,0
+1894-11-10,Princeton,Ind,,H,Pennsylvania,Ind,George Woodruff,L,0,12
+1894-12-01,Princeton,Ind,,N,Yale,Ind,William Rhodes,L,0,24
+1894-10-06,Chicago,Ind,Amos Alonzo Stagg,H,Northwestern,Ind,A.A. Ewing,W,46,0
+1894-10-13,Chicago,Ind,Amos Alonzo Stagg,H,Beloit,Ind,John Hollister,W,16,0
+1894-10-20,Chicago,Ind,Amos Alonzo Stagg,H,Wisconsin,Ind,H.O. Stickney,L,0,30
+1894-11-03,Chicago,Ind,Amos Alonzo Stagg,H,Purdue,Ind,D.M. Balliet,L,6,10
+1894-11-10,Chicago,Ind,Amos Alonzo Stagg,H,Lake Forest,Ind,,W,28,0
+1894-11-24,Chicago,Ind,Amos Alonzo Stagg,A,Northwestern,Ind,A.A. Ewing,W,36,0
+1894-11-29,Chicago,Ind,Amos Alonzo Stagg,H,Michigan,Ind,William McCauley,L,4,6
+1894-10-06,Northwestern,Ind,A.A. Ewing,A,Chicago,Ind,Amos Alonzo Stagg,L,0,46
+1894-10-13,Northwestern,Ind,A.A. Ewing,A,Lake Forest,Ind,,L,6,24
+1894-10-20,Northwestern,Ind,A.A. Ewing,N,Beloit,Ind,John Hollister,L,6,42
+1894-10-26,Northwestern,Ind,A.A. Ewing,H,Lake Forest,Ind,,W,12,8
+1894-11-03,Northwestern,Ind,A.A. Ewing,A,Illinois,Ind,Louis Vail,L,0,66
+1894-11-24,Northwestern,Ind,A.A. Ewing,H,Chicago,Ind,Amos Alonzo Stagg,L,0,36
+1894-10-27,Minnesota,Ind,Tom Cochrane,H,Purdue,Ind,D.M. Balliet,W,24,0
+1894-11-10,Minnesota,Ind,Tom Cochrane,H,Beloit,Ind,John Hollister,W,40,0
+1894-11-17,Minnesota,Ind,Tom Cochrane,A,Wisconsin,Ind,H.O. Stickney,L,0,6
+1894-11-03,Michigan,Ind,William McCauley,A,Cornell,Ind,Marshall Newell,L,0,22
+1894-11-24,Michigan,Ind,William McCauley,H,Cornell,Ind,Marshall Newell,W,12,4
+1894-11-29,Michigan,Ind,William McCauley,A,Chicago,Ind,Amos Alonzo Stagg,W,6,4
+1894-10-17,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,Pudge Heffelfinger,W,30,0
+1894-10-31,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Hugh Janeway,W,26,0
+1894-11-10,Pennsylvania,Ind,George Woodruff,A,Princeton,Ind,,W,12,0
+1894-11-17,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Marshall Newell,W,6,0
+1894-11-29,Pennsylvania,Ind,George Woodruff,H,Harvard,Ind,William Brooks,W,18,4
+1894-10-13,Beloit,Ind,John Hollister,A,Chicago,Ind,Amos Alonzo Stagg,L,0,16
+1894-10-20,Beloit,Ind,John Hollister,N,Northwestern,Ind,A.A. Ewing,W,42,6
+1894-11-03,Beloit,Ind,John Hollister,H,Wisconsin,Ind,H.O. Stickney,L,0,46
+1894-11-10,Beloit,Ind,John Hollister,A,Minnesota,Ind,Tom Cochrane,L,0,40
+1894-10-06,Tufts,Ind, Hamlin,A,Trinity (CT),Ind,,W,8,4
+1894-10-20,Tufts,Ind, Hamlin,H,Dartmouth,Ind,Wallace Moyle,L,0,12
+1894-10-31,Tufts,Ind, Hamlin,A,Brown,Ind,W.G. Norton,L,0,30
+1894-11-07,Tufts,Ind, Hamlin,A,Yale,Ind,William Rhodes,L,0,67
+1894-11-17,Tufts,Ind, Hamlin,H,MIT,Ind,,W,4,0
+1894-09-29,Amherst,Ind,Parke Davis,H,Massachusetts,Ind,,W,6,0
+1894-10-06,Amherst,Ind,Parke Davis,A,Army,Ind,Harmon Graves,L,0,18
+1894-10-13,Amherst,Ind,Parke Davis,H,Wesleyan (CT),Ind,,W,28,0
+1894-10-17,Amherst,Ind,Parke Davis,A,Union (NY),Ind,T. Thompson,L,0,6
+1894-10-20,Amherst,Ind,Parke Davis,A,Harvard,Ind,William Brooks,L,0,30
+1894-10-27,Amherst,Ind,Parke Davis,A,Wesleyan (CT),Ind,,W,10,4
+1894-11-07,Amherst,Ind,Parke Davis,A,Williams,Ind,,L,10,34
+1894-11-17,Amherst,Ind,Parke Davis,A,Dartmouth,Ind,Wallace Moyle,L,0,30
+1894-11-24,Amherst,Ind,Parke Davis,A,MIT,Ind,,W,6,4
+1894-09-29,Lafayette,Ind,Hugh Janeway,A,Princeton,Ind,,L,0,40
+1894-10-13,Lafayette,Ind,Hugh Janeway,A,Cornell,Ind,Marshall Newell,L,0,24
+1894-10-31,Lafayette,Ind,Hugh Janeway,A,Pennsylvania,Ind,George Woodruff,L,0,26
+1894-11-14,Lafayette,Ind,Hugh Janeway,H,Lehigh,Ind,Pudge Heffelfinger,W,28,0
+1894-11-24,Lafayette,Ind,Hugh Janeway,A,Lehigh,Ind,Pudge Heffelfinger,L,8,11
+1894-10-20,Illinois,Ind,Louis Vail,H,Lake Forest,Ind,,W,54,6
+1894-11-03,Illinois,Ind,Louis Vail,H,Northwestern,Ind,A.A. Ewing,W,66,0
+1894-11-17,Illinois,Ind,Louis Vail,H,Purdue,Ind,D.M. Balliet,L,2,22
+1894-10-06,Cornell,Ind,Marshall Newell,H,Union (NY),Ind,T. Thompson,W,37,0
+1894-10-13,Cornell,Ind,Marshall Newell,H,Lafayette,Ind,Hugh Janeway,W,24,0
+1894-10-20,Cornell,Ind,Marshall Newell,N,Princeton,Ind,,L,4,12
+1894-10-27,Cornell,Ind,Marshall Newell,N,Harvard,Ind,William Brooks,L,12,22
+1894-11-03,Cornell,Ind,Marshall Newell,H,Michigan,Ind,William McCauley,W,22,0
+1894-11-14,Cornell,Ind,Marshall Newell,A,Williams,Ind,,T,0,0
+1894-11-17,Cornell,Ind,Marshall Newell,A,Pennsylvania,Ind,George Woodruff,L,0,6
+1894-11-24,Cornell,Ind,Marshall Newell,A,Michigan,Ind,William McCauley,L,4,12
+1894-11-29,Cornell,Ind,Marshall Newell,H,Lehigh,Ind,Pudge Heffelfinger,W,10,6
+1894-10-13,Lake Forest,Ind,,H,Northwestern,Ind,A.A. Ewing,W,24,6
+1894-10-20,Lake Forest,Ind,,A,Illinois,Ind,Louis Vail,L,6,54
+1894-10-26,Lake Forest,Ind,,A,Northwestern,Ind,A.A. Ewing,L,8,12
+1894-11-10,Lake Forest,Ind,,A,Chicago,Ind,Amos Alonzo Stagg,L,0,28
+1894-10-20,MIT,Ind,,A,Army,Ind,Harmon Graves,L,0,42
+1894-10-27,MIT,Ind,,H,Brown,Ind,W.G. Norton,W,8,4
+1894-10-31,MIT,Ind,,A,Williams,Ind,,L,0,12
+1894-11-03,MIT,Ind,,H,Trinity (CT),Ind,,W,18,0
+1894-11-17,MIT,Ind,,A,Tufts,Ind, Hamlin,L,0,4
+1894-11-24,MIT,Ind,,H,Amherst,Ind,Parke Davis,L,4,6
+1894-11-29,MIT,Ind,,A,Brown,Ind,W.G. Norton,L,4,16

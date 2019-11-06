@@ -1,0 +1,957 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1937-09-25,North Carolina,Southern,Raymond Wolf,H,South Carolina,Southern,Don McCallister,T,13,13
+1937-10-02,North Carolina,Southern,Raymond Wolf,A,North Carolina State,Southern,,W,20,0
+1937-10-09,North Carolina,Southern,Raymond Wolf,A,New York University,Ind,Mal Stevens,W,19,6
+1937-10-16,North Carolina,Southern,Raymond Wolf,A,Wake Forest,Southern,D.C. Walker,W,28,0
+1937-10-23,North Carolina,Southern,Raymond Wolf,H,Tulane,SEC,Red Dawson,W,13,0
+1937-10-30,North Carolina,Southern,Raymond Wolf,H,Fordham,Ind,Jimmy Crowley,L,0,14
+1937-11-06,North Carolina,Southern,Raymond Wolf,A,Davidson,Southern,Gene McEver,W,26,0
+1937-11-13,North Carolina,Southern,Raymond Wolf,A,Duke,Southern,Wallace Wade,W,14,6
+1937-11-27,North Carolina,Southern,Raymond Wolf,H,Virginia,Ind,Frank Murray,W,40,0
+1937-10-09,Indiana,Western,Bo McMillin,A,Minnesota,Western,Bernie Bierman,L,0,6
+1937-10-16,Indiana,Western,Bo McMillin,H,Illinois,Western,Robert Zuppke,W,13,6
+1937-10-30,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Biff Jones,L,0,7
+1937-11-06,Indiana,Western,Bo McMillin,A,Ohio State,Western,Francis Schmidt,W,10,0
+1937-11-13,Indiana,Western,Bo McMillin,A,Iowa,Western,Irl Tubbs,W,3,0
+1937-11-20,Indiana,Western,Bo McMillin,H,Purdue,Western,Mal Elward,L,7,13
+1937-10-02,Iowa State,Big 6,Jim Yeager,A,Northwestern,Western,Pappy Waldorf,L,0,33
+1937-10-09,Iowa State,Big 6,Jim Yeager,H,Nebraska,Big 6,Biff Jones,L,7,20
+1937-10-16,Iowa State,Big 6,Jim Yeager,A,Kansas,Big 6,Adrian Lindsey,L,6,14
+1937-10-23,Iowa State,Big 6,Jim Yeager,A,Drake,MVC,Vee Green,L,0,30
+1937-10-30,Iowa State,Big 6,Jim Yeager,H,Missouri,Big 6,Don Faurot,L,0,12
+1937-11-06,Iowa State,Big 6,Jim Yeager,A,Oklahoma,Big 6,Tom Stidham,L,7,33
+1937-11-13,Iowa State,Big 6,Jim Yeager,A,Marquette,Ind,Paddy Driscoll,W,3,0
+1937-11-20,Iowa State,Big 6,Jim Yeager,H,Kansas State,Big 6,Wesley Fry,W,13,7
+1937-10-16,Fordham,Ind,Jimmy Crowley,H,Pitt,Ind,Jock Sutherland,T,0,0
+1937-10-23,Fordham,Ind,Jimmy Crowley,H,Texas Christian,SWC,Dutch Meyer,W,7,6
+1937-10-30,Fordham,Ind,Jimmy Crowley,A,North Carolina,Southern,Raymond Wolf,W,14,0
+1937-11-06,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Mal Elward,W,21,3
+1937-11-20,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Slip Madigan,W,6,0
+1937-11-27,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,W,20,7
+1937-10-02,Arizona State,BIAA,Rudy Lavik,A,Arizona,BIAA,Tex Oliver,L,6,20
+1937-10-23,Arizona State,BIAA,Rudy Lavik,H,Northern Arizona,BIAA,Garrett Arbelbide,L,0,7
+1937-10-30,Arizona State,BIAA,Rudy Lavik,A,New Mexico,BIAA,Ted Shipkey,L,7,15
+1937-11-11,Arizona State,BIAA,Rudy Lavik,H,UTEP,BIAA,Mack Saxon,L,0,19
+1937-11-25,Arizona State,BIAA,Rudy Lavik,A,New Mexico State,BIAA,Gerald Hines,L,0,14
+1937-10-09,Furman,Southern,,H,North Carolina State,Southern,,T,7,7
+1937-10-16,Furman,Southern,,A,Citadel,Southern,Tatum Gressette,L,0,8
+1937-10-30,Furman,Southern,,A,Davidson,Southern,Gene McEver,L,9,13
+1937-11-06,Furman,Southern,,H,Bucknell,Ind,Al Humphreys,L,7,20
+1937-11-13,Furman,Southern,,A,South Carolina,Southern,Don McCallister,W,12,0
+1937-11-25,Furman,Southern,,H,Clemson,Southern,Jess Neely,T,0,0
+1937-09-25,Utah,RMC,Ike Armstrong,A,Montana State,RMC,Jack Croft,W,19,7
+1937-10-02,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Edwin Kimball,W,14,0
+1937-10-09,Utah,RMC,Ike Armstrong,H,Idaho,PCC,Ted Bank,L,7,9
+1937-10-16,Utah,RMC,Ike Armstrong,A,Northern Colorado,RMC,J.W. Hancock,W,7,6
+1937-10-23,Utah,RMC,Ike Armstrong,H,Denver,RMC,William Saunders,L,7,13
+1937-11-06,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Bunny Oakes,L,7,17
+1937-11-13,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,45,0
+1937-11-25,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,27,0
+1937-09-25,Northern Colorado,RMC,J.W. Hancock,A,Brigham Young,RMC,Edwin Kimball,L,0,7
+1937-10-09,Northern Colorado,RMC,J.W. Hancock,H,Montana State,RMC,Jack Croft,W,33,26
+1937-10-16,Northern Colorado,RMC,J.W. Hancock,H,Utah,RMC,Ike Armstrong,L,6,7
+1937-10-23,Northern Colorado,RMC,J.W. Hancock,H,Western State,RMC,Paul Wright,L,0,7
+1937-10-30,Northern Colorado,RMC,J.W. Hancock,A,UTEP,BIAA,Mack Saxon,L,0,20
+1937-11-13,Northern Colorado,RMC,J.W. Hancock,A,Colorado Mines,RMC,John Mason,W,32,6
+1937-11-25,Northern Colorado,RMC,J.W. Hancock,A,Wyoming,RMC,Dutch Witte,L,0,33
+1937-10-09,Villanova,Ind,,H,Auburn,SEC,Jack Meagher,T,0,0
+1937-10-16,Villanova,Ind,,A,Manhattan,Ind,Chick Meehan,W,20,0
+1937-10-23,Villanova,Ind,,H,Bucknell,Ind,Al Humphreys,W,21,0
+1937-10-30,Villanova,Ind,,A,Detroit Mercy,Ind,Gus Dorais,W,7,0
+1937-11-06,Villanova,Ind,,H,Marquette,Ind,Paddy Driscoll,W,25,7
+1937-11-20,Villanova,Ind,,A,Temple,Ind,Pop Warner,W,33,0
+1937-11-27,Villanova,Ind,,A,Loyola Marymount,Ind,Tom Lieb,W,25,0
+1937-10-02,Washington & Lee,Southern,Tex Tilson,H,Richmond,Southern,Glenn Thistlethwaite,W,6,0
+1937-10-09,Washington & Lee,Southern,Tex Tilson,N,West Virginia,Ind,Marshall Glenn,L,0,6
+1937-10-16,Washington & Lee,Southern,Tex Tilson,A,Kentucky,SEC,C.A. Wynne,L,6,41
+1937-10-23,Washington & Lee,Southern,Tex Tilson,A,Virginia Tech,Southern,Henry Redd,L,7,19
+1937-10-30,Washington & Lee,Southern,Tex Tilson,H,Duke,Southern,Wallace Wade,L,0,43
+1937-11-06,Washington & Lee,Southern,Tex Tilson,H,Virginia,Ind,Frank Murray,W,13,6
+1937-11-13,Washington & Lee,Southern,Tex Tilson,A,William & Mary,Southern,,W,14,12
+1937-11-25,Washington & Lee,Southern,Tex Tilson,A,Maryland,Southern,Frank Dobson,L,0,8
+1937-10-16,Syracuse,Ind,Ossie Solem,A,Cornell,Ind,Carl Snavely,W,14,6
+1937-10-23,Syracuse,Ind,Ossie Solem,A,Maryland,Southern,Frank Dobson,L,0,13
+1937-10-30,Syracuse,Ind,Ossie Solem,H,Penn State,Ind,Bob Higgins,W,19,13
+1937-11-13,Syracuse,Ind,Ossie Solem,A,Columbia,Ind,Lou Little,T,6,6
+1937-11-20,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,L,0,7
+1937-10-02,Arizona,BIAA,Tex Oliver,H,Arizona State,BIAA,Rudy Lavik,W,20,6
+1937-10-09,Arizona,BIAA,Tex Oliver,H,Oklahoma State,MVC,Ted Cox,W,22,13
+1937-10-16,Arizona,BIAA,Tex Oliver,A,Texas Tech,BIAA,Pete Cawthon,L,0,20
+1937-10-23,Arizona,BIAA,Tex Oliver,H,Centenary (LA),Ind,Curtis Player,L,13,18
+1937-10-30,Arizona,BIAA,Tex Oliver,H,New Mexico State,BIAA,Gerald Hines,W,27,12
+1937-11-06,Arizona,BIAA,Tex Oliver,A,Loyola Marymount,Ind,Tom Lieb,W,13,6
+1937-11-13,Arizona,BIAA,Tex Oliver,A,New Mexico,BIAA,Ted Shipkey,W,23,0
+1937-11-20,Arizona,BIAA,Tex Oliver,H,Kansas,Big 6,Adrian Lindsey,W,9,7
+1937-11-27,Arizona,BIAA,Tex Oliver,H,Colorado State,RMC,Harry Hughes,W,47,0
+1937-12-04,Arizona,BIAA,Tex Oliver,H,Oregon,PCC,Prink Callison,W,20,6
+1937-10-09,Georgetown,Ind,Jack Hagerty,A,Holy Cross,Ind,,L,6,27
+1937-10-23,Georgetown,Ind,Jack Hagerty,A,Pennsylvania,Ind,Harvey Harman,T,0,0
+1937-10-30,Georgetown,Ind,Jack Hagerty,H,Manhattan,Ind,Chick Meehan,L,12,20
+1937-11-06,Georgetown,Ind,Jack Hagerty,H,West Virginia,Ind,Marshall Glenn,T,6,6
+1937-11-13,Georgetown,Ind,Jack Hagerty,A,New York University,Ind,Mal Stevens,W,6,0
+1937-11-20,Georgetown,Ind,Jack Hagerty,H,Maryland,Southern,Frank Dobson,L,2,12
+1937-10-02,Montana,PCC,Doug Fessenden,A,Texas Tech,BIAA,Pete Cawthon,W,13,6
+1937-10-16,Montana,PCC,Doug Fessenden,H,San Francisco,Ind,George Malley,W,13,7
+1937-10-23,Montana,PCC,Doug Fessenden,N,Montana State,RMC,Jack Croft,W,19,0
+1937-10-30,Montana,PCC,Doug Fessenden,H,Gonzaga,Ind,Mike Pecarovich,W,23,0
+1937-11-13,Montana,PCC,Doug Fessenden,A,Idaho,PCC,Ted Bank,L,0,6
+1937-09-25,Penn State,Ind,Bob Higgins,A,Cornell,Ind,Carl Snavely,L,19,26
+1937-10-09,Penn State,Ind,Bob Higgins,H,Bucknell,Ind,Al Humphreys,W,30,14
+1937-10-30,Penn State,Ind,Bob Higgins,A,Syracuse,Ind,Ossie Solem,L,13,19
+1937-11-06,Penn State,Ind,Bob Higgins,A,Pennsylvania,Ind,Harvey Harman,W,7,0
+1937-11-13,Penn State,Ind,Bob Higgins,H,Maryland,Southern,Frank Dobson,W,21,14
+1937-11-20,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Jock Sutherland,L,7,28
+1937-10-02,Princeton,Ind,Fritz Crisler,H,Virginia,Ind,Frank Murray,W,26,0
+1937-10-09,Princeton,Ind,Fritz Crisler,H,Cornell,Ind,Carl Snavely,L,7,20
+1937-10-16,Princeton,Ind,Fritz Crisler,A,Chicago,Western,Clark Shaughnessy,W,16,7
+1937-10-30,Princeton,Ind,Fritz Crisler,H,Harvard,Ind,Dick Harlow,L,6,34
+1937-11-06,Princeton,Ind,Fritz Crisler,H,Dartmouth,Ind,Red Blaik,L,9,33
+1937-11-13,Princeton,Ind,Fritz Crisler,A,Yale,Ind,Ducky Pond,L,0,26
+1937-11-20,Princeton,Ind,Fritz Crisler,H,Navy,Ind,Hank Hardwick,W,26,6
+1937-09-25,Vanderbilt,SEC,Ray Morrison,H,Kentucky,SEC,C.A. Wynne,W,12,0
+1937-10-02,Vanderbilt,SEC,Ray Morrison,H,Chicago,Western,Clark Shaughnessy,W,18,0
+1937-10-13,Vanderbilt,SEC,Ray Morrison,A,SMU,SWC,Madison Bell,W,6,0
+1937-10-23,Vanderbilt,SEC,Ray Morrison,H,LSU,SEC,Bernie Moore,W,7,6
+1937-10-30,Vanderbilt,SEC,Ray Morrison,A,Georgia Tech,SEC,William Alexander,L,0,14
+1937-11-06,Vanderbilt,SEC,Ray Morrison,H,Sewanee,SEC,Heck Clark,W,41,0
+1937-11-13,Vanderbilt,SEC,Ray Morrison,A,Tennessee,SEC,Bob Neyland,W,13,7
+1937-11-25,Vanderbilt,SEC,Ray Morrison,H,Alabama,SEC,Frank Thomas,L,7,9
+1937-10-02,Colorado College,RMC,W.T. VandeGraaff,H,Western State,RMC,Paul Wright,L,3,7
+1937-10-09,Colorado College,RMC,W.T. VandeGraaff,H,Wyoming,RMC,Dutch Witte,W,9,6
+1937-10-16,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,William Saunders,W,7,4
+1937-10-23,Colorado College,RMC,W.T. VandeGraaff,A,Colorado Mines,RMC,John Mason,W,13,6
+1937-10-29,Colorado College,RMC,W.T. VandeGraaff,A,Washburn,MVC,Elmer Holm,W,6,0
+1937-11-06,Colorado College,RMC,W.T. VandeGraaff,H,New Mexico,BIAA,Ted Shipkey,L,6,26
+1937-11-13,Colorado College,RMC,W.T. VandeGraaff,A,Colorado,RMC,Bunny Oakes,L,6,35
+1937-11-20,Colorado College,RMC,W.T. VandeGraaff,H,Colorado State,RMC,Harry Hughes,L,0,6
+1937-09-25,Kentucky,SEC,C.A. Wynne,A,Vanderbilt,SEC,Ray Morrison,L,0,12
+1937-10-09,Kentucky,SEC,C.A. Wynne,H,Georgia Tech,SEC,William Alexander,L,0,32
+1937-10-16,Kentucky,SEC,C.A. Wynne,H,Washington & Lee,Southern,Tex Tilson,W,41,6
+1937-10-23,Kentucky,SEC,C.A. Wynne,H,Manhattan,Ind,Chick Meehan,W,19,0
+1937-10-30,Kentucky,SEC,C.A. Wynne,A,Alabama,SEC,Frank Thomas,L,0,41
+1937-11-06,Kentucky,SEC,C.A. Wynne,H,South Carolina,Southern,Don McCallister,W,27,7
+1937-11-13,Kentucky,SEC,C.A. Wynne,A,Boston College,Ind,Gilmour Dobie,L,0,13
+1937-11-25,Kentucky,SEC,C.A. Wynne,H,Tennessee,SEC,Bob Neyland,L,0,13
+1937-12-04,Kentucky,SEC,C.A. Wynne,A,Florida,SEC,Josh Cody,L,0,6
+1937-09-25,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,Slip Madigan,W,30,7
+1937-10-02,California,PCC,Stub Allison,H,Oregon State,PCC,Lon Stiner,W,24,6
+1937-10-09,California,PCC,Stub Allison,H,Washington State,PCC,O.E. Hollingbery,W,27,0
+1937-10-23,California,PCC,Stub Allison,H,USC,PCC,Howard Jones,W,20,6
+1937-10-30,California,PCC,Stub Allison,A,UCLA,PCC,William Spaulding,W,27,14
+1937-11-06,California,PCC,Stub Allison,H,Washington,PCC,James Phelan,T,0,0
+1937-11-13,California,PCC,Stub Allison,A,Oregon,PCC,Prink Callison,W,26,0
+1937-11-20,California,PCC,Stub Allison,A,Stanford,PCC,Tiny Thornhill,W,13,0
+1938-01-01,California,PCC,Stub Allison,N,Alabama,SEC,Frank Thomas,W,13,0
+1937-09-25,Florida,SEC,Josh Cody,A,LSU,SEC,Bernie Moore,L,0,19
+1937-10-08,Florida,SEC,Josh Cody,A,Temple,Ind,Pop Warner,L,6,7
+1937-10-16,Florida,SEC,Josh Cody,H,Sewanee,SEC,Heck Clark,W,21,0
+1937-10-23,Florida,SEC,Josh Cody,A,Mississippi State,SEC,Ralph Sasse,L,13,14
+1937-10-30,Florida,SEC,Josh Cody,A,Maryland,Southern,Frank Dobson,L,7,13
+1937-11-06,Florida,SEC,Josh Cody,N,Georgia,SEC,Harry Mehre,W,6,0
+1937-11-13,Florida,SEC,Josh Cody,H,Clemson,Southern,Jess Neely,L,9,10
+1937-11-20,Florida,SEC,Josh Cody,H,Georgia Tech,SEC,William Alexander,L,0,12
+1937-11-27,Florida,SEC,Josh Cody,H,Auburn,SEC,Jack Meagher,L,0,14
+1937-12-04,Florida,SEC,Josh Cody,H,Kentucky,SEC,C.A. Wynne,W,6,0
+1937-09-25,Gonzaga,Ind,Mike Pecarovich,H,Washington State,PCC,O.E. Hollingbery,T,0,0
+1937-10-02,Gonzaga,Ind,Mike Pecarovich,A,Loyola Marymount,Ind,Tom Lieb,L,8,13
+1937-10-09,Gonzaga,Ind,Mike Pecarovich,H,Oregon,PCC,Prink Callison,L,6,40
+1937-10-24,Gonzaga,Ind,Mike Pecarovich,H,San Francisco,Ind,George Malley,L,0,7
+1937-10-30,Gonzaga,Ind,Mike Pecarovich,A,Montana,PCC,Doug Fessenden,L,0,23
+1937-11-06,Gonzaga,Ind,Mike Pecarovich,A,Idaho,PCC,Ted Bank,L,0,6
+1937-11-13,Gonzaga,Ind,Mike Pecarovich,A,Santa Clara,Ind,Buck Shaw,L,0,27
+1937-11-27,Gonzaga,Ind,Mike Pecarovich,H,Saint Mary's (CA),Ind,Slip Madigan,T,0,0
+1937-09-25,Stanford,PCC,Tiny Thornhill,H,Santa Clara,Ind,Buck Shaw,L,7,13
+1937-10-02,Stanford,PCC,Tiny Thornhill,A,Oregon,PCC,Prink Callison,L,6,7
+1937-10-09,Stanford,PCC,Tiny Thornhill,H,UCLA,PCC,William Spaulding,W,12,7
+1937-10-23,Stanford,PCC,Tiny Thornhill,A,Washington,PCC,James Phelan,W,13,7
+1937-10-30,Stanford,PCC,Tiny Thornhill,H,Oregon State,PCC,Lon Stiner,T,0,0
+1937-11-06,Stanford,PCC,Tiny Thornhill,A,USC,PCC,Howard Jones,W,7,6
+1937-11-13,Stanford,PCC,Tiny Thornhill,H,Washington State,PCC,O.E. Hollingbery,W,23,0
+1937-11-20,Stanford,PCC,Tiny Thornhill,H,California,PCC,Stub Allison,L,0,13
+1937-11-27,Stanford,PCC,Tiny Thornhill,A,Columbia,Ind,Lou Little,T,0,0
+1937-10-02,Creighton,MVC,Marchy Schwartz,A,Oklahoma State,MVC,Ted Cox,L,13,16
+1937-10-15,Creighton,MVC,Marchy Schwartz,H,Drake,MVC,Vee Green,L,0,9
+1937-10-23,Creighton,MVC,Marchy Schwartz,H,Kansas State,Big 6,Wesley Fry,L,7,15
+1937-11-13,Creighton,MVC,Marchy Schwartz,H,Saint Louis,MVC,,L,6,7
+1937-11-21,Creighton,MVC,Marchy Schwartz,H,Detroit Mercy,Ind,Gus Dorais,L,7,48
+1937-11-25,Creighton,MVC,Marchy Schwartz,A,Texas Tech,BIAA,Pete Cawthon,L,0,27
+1937-09-25,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Mike Pecarovich,T,0,0
+1937-10-02,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Ted Bank,W,13,0
+1937-10-09,Washington State,PCC,O.E. Hollingbery,A,California,PCC,Stub Allison,L,0,27
+1937-10-16,Washington State,PCC,O.E. Hollingbery,H,Washington,PCC,James Phelan,T,7,7
+1937-10-23,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,William Spaulding,W,3,0
+1937-10-30,Washington State,PCC,O.E. Hollingbery,H,USC,PCC,Howard Jones,T,0,0
+1937-11-06,Washington State,PCC,O.E. Hollingbery,A,Oregon,PCC,Prink Callison,L,6,10
+1937-11-13,Washington State,PCC,O.E. Hollingbery,A,Stanford,PCC,Tiny Thornhill,L,0,23
+1937-11-20,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Lon Stiner,W,7,0
+1937-10-02,Western State,RMC,Paul Wright,A,Colorado College,RMC,W.T. VandeGraaff,W,7,3
+1937-10-23,Western State,RMC,Paul Wright,A,Northern Colorado,RMC,J.W. Hancock,W,7,0
+1937-10-30,Western State,RMC,Paul Wright,A,Brigham Young,RMC,Edwin Kimball,L,0,21
+1937-11-06,Western State,RMC,Paul Wright,H,Colorado Mines,RMC,John Mason,W,26,0
+1937-11-13,Western State,RMC,Paul Wright,A,New Mexico State,BIAA,Gerald Hines,L,6,33
+1937-10-09,Illinois,Western,Robert Zuppke,H,Notre Dame,Ind,Elmer Layden,T,0,0
+1937-10-16,Illinois,Western,Robert Zuppke,A,Indiana,Western,Bo McMillin,L,6,13
+1937-10-30,Illinois,Western,Robert Zuppke,H,Michigan,Western,Harry Kipke,L,6,7
+1937-11-06,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Pappy Waldorf,W,6,0
+1937-11-13,Illinois,Western,Robert Zuppke,A,Ohio State,Western,Francis Schmidt,L,0,19
+1937-11-20,Illinois,Western,Robert Zuppke,H,Chicago,Western,Clark Shaughnessy,W,21,0
+1937-10-09,Baylor,SWC,Morley Jennings,H,Arkansas,SWC,Fred Thomsen,W,20,14
+1937-10-16,Baylor,SWC,Morley Jennings,A,Centenary (LA),Ind,Curtis Player,W,20,0
+1937-10-23,Baylor,SWC,Morley Jennings,A,Texas A&M,SWC,Homer Norton,W,13,0
+1937-10-30,Baylor,SWC,Morley Jennings,H,Texas Christian,SWC,Dutch Meyer,W,6,0
+1937-11-06,Baylor,SWC,Morley Jennings,H,Texas,SWC,Dana Bible,L,6,9
+1937-11-13,Baylor,SWC,Morley Jennings,A,SMU,SWC,Madison Bell,L,7,13
+1937-11-20,Baylor,SWC,Morley Jennings,H,Loyola Marymount,Ind,Tom Lieb,W,27,13
+1937-11-27,Baylor,SWC,Morley Jennings,A,Rice,SWC,Jimmy Kitts,L,7,13
+1937-10-02,Manhattan,Ind,Chick Meehan,H,Texas A&M,SWC,Homer Norton,L,7,14
+1937-10-09,Manhattan,Ind,Chick Meehan,H,Michigan State,Ind,Charlie Bachman,W,3,0
+1937-10-16,Manhattan,Ind,Chick Meehan,H,Villanova,Ind,,L,0,20
+1937-10-23,Manhattan,Ind,Chick Meehan,A,Kentucky,SEC,C.A. Wynne,L,0,19
+1937-10-30,Manhattan,Ind,Chick Meehan,A,Georgetown,Ind,Jack Hagerty,W,20,12
+1937-11-06,Manhattan,Ind,Chick Meehan,H,Detroit Mercy,Ind,Gus Dorais,W,7,0
+1937-11-13,Manhattan,Ind,Chick Meehan,H,North Carolina State,Southern,,W,15,0
+1937-12-04,Manhattan,Ind,Chick Meehan,A,Tulsa,MVC,Vic Hurt,T,0,0
+1937-10-02,SMU,SWC,Madison Bell,H,Centenary (LA),Ind,Curtis Player,L,6,7
+1937-10-09,SMU,SWC,Madison Bell,A,Washington (MO),MVC,Jimmy Conzelman,W,14,0
+1937-10-13,SMU,SWC,Madison Bell,H,Vanderbilt,SEC,Ray Morrison,L,0,6
+1937-10-23,SMU,SWC,Madison Bell,A,Arkansas,SWC,Fred Thomsen,L,0,13
+1937-10-30,SMU,SWC,Madison Bell,H,Texas,SWC,Dana Bible,W,13,2
+1937-11-06,SMU,SWC,Madison Bell,A,Texas A&M,SWC,Homer Norton,L,0,14
+1937-11-13,SMU,SWC,Madison Bell,H,Baylor,SWC,Morley Jennings,W,13,7
+1937-11-20,SMU,SWC,Madison Bell,A,UCLA,PCC,William Spaulding,W,26,13
+1937-11-27,SMU,SWC,Madison Bell,A,Texas Christian,SWC,Dutch Meyer,L,0,3
+1937-12-04,SMU,SWC,Madison Bell,H,Rice,SWC,Jimmy Kitts,L,7,15
+1937-10-02,Georgia,SEC,Harry Mehre,A,South Carolina,Southern,Don McCallister,W,13,7
+1937-10-09,Georgia,SEC,Harry Mehre,H,Clemson,Southern,Jess Neely,W,14,0
+1937-10-16,Georgia,SEC,Harry Mehre,A,Holy Cross,Ind,,L,6,7
+1937-10-30,Georgia,SEC,Harry Mehre,A,Tennessee,SEC,Bob Neyland,L,0,32
+1937-11-06,Georgia,SEC,Harry Mehre,N,Florida,SEC,Josh Cody,L,0,6
+1937-11-13,Georgia,SEC,Harry Mehre,H,Tulane,SEC,Red Dawson,W,7,6
+1937-11-20,Georgia,SEC,Harry Mehre,N,Auburn,SEC,Jack Meagher,T,0,0
+1937-11-27,Georgia,SEC,Harry Mehre,A,Georgia Tech,SEC,William Alexander,T,6,6
+1937-12-10,Georgia,SEC,Harry Mehre,A,Miami (FL),Ind,Jack Harding,W,26,0
+1937-10-02,Maryland,Southern,Frank Dobson,A,Pennsylvania,Ind,Harvey Harman,L,21,28
+1937-10-16,Maryland,Southern,Frank Dobson,A,Virginia,Ind,Frank Murray,W,3,0
+1937-10-23,Maryland,Southern,Frank Dobson,H,Syracuse,Ind,Ossie Solem,W,13,0
+1937-10-30,Maryland,Southern,Frank Dobson,H,Florida,SEC,Josh Cody,W,13,7
+1937-11-06,Maryland,Southern,Frank Dobson,A,Virginia Military Institute,Southern,,W,9,7
+1937-11-13,Maryland,Southern,Frank Dobson,A,Penn State,Ind,Bob Higgins,L,14,21
+1937-11-20,Maryland,Southern,Frank Dobson,A,Georgetown,Ind,Jack Hagerty,W,12,2
+1937-11-25,Maryland,Southern,Frank Dobson,H,Washington & Lee,Southern,Tex Tilson,W,8,0
+1937-10-02,Virginia,Ind,Frank Murray,A,Princeton,Ind,Fritz Crisler,L,0,26
+1937-10-09,Virginia,Ind,Frank Murray,A,Navy,Ind,Hank Hardwick,L,13,40
+1937-10-16,Virginia,Ind,Frank Murray,H,Maryland,Southern,Frank Dobson,L,0,3
+1937-10-23,Virginia,Ind,Frank Murray,H,Virginia Military Institute,Southern,,L,7,26
+1937-10-30,Virginia,Ind,Frank Murray,H,William & Mary,Southern,,W,6,0
+1937-11-06,Virginia,Ind,Frank Murray,A,Washington & Lee,Southern,Tex Tilson,L,6,13
+1937-11-13,Virginia,Ind,Frank Murray,H,Virginia Tech,Southern,Henry Redd,L,7,14
+1937-11-27,Virginia,Ind,Frank Murray,A,North Carolina,Southern,Raymond Wolf,L,0,40
+1937-09-25,Idaho,PCC,Ted Bank,H,Oregon State,PCC,Lon Stiner,W,7,6
+1937-10-02,Idaho,PCC,Ted Bank,A,Washington State,PCC,O.E. Hollingbery,L,0,13
+1937-10-09,Idaho,PCC,Ted Bank,A,Utah,RMC,Ike Armstrong,W,9,7
+1937-10-16,Idaho,PCC,Ted Bank,H,Utah State,RMC,,T,0,0
+1937-10-23,Idaho,PCC,Ted Bank,A,Saint Mary's (CA),Ind,Slip Madigan,L,0,6
+1937-10-30,Idaho,PCC,Ted Bank,A,Washington,PCC,James Phelan,L,7,21
+1937-11-06,Idaho,PCC,Ted Bank,H,Gonzaga,Ind,Mike Pecarovich,W,6,0
+1937-11-13,Idaho,PCC,Ted Bank,H,Montana,PCC,Doug Fessenden,W,6,0
+1937-09-18,Northern Arizona,BIAA,Garrett Arbelbide,A,Texas Tech,BIAA,Pete Cawthon,L,0,6
+1937-10-16,Northern Arizona,BIAA,Garrett Arbelbide,H,New Mexico State,BIAA,Gerald Hines,L,0,7
+1937-10-23,Northern Arizona,BIAA,Garrett Arbelbide,A,Arizona State,BIAA,Rudy Lavik,W,7,0
+1937-11-06,Northern Arizona,BIAA,Garrett Arbelbide,A,UTEP,BIAA,Mack Saxon,L,13,53
+1937-11-25,Northern Arizona,BIAA,Garrett Arbelbide,A,New Mexico,BIAA,Ted Shipkey,L,6,7
+1937-10-02,Citadel,Southern,Tatum Gressette,A,Navy,Ind,Hank Hardwick,L,0,32
+1937-10-16,Citadel,Southern,Tatum Gressette,H,Furman,Southern,,W,8,0
+1937-10-22,Citadel,Southern,Tatum Gressette,H,Richmond,Southern,Glenn Thistlethwaite,W,26,0
+1937-10-29,Citadel,Southern,Tatum Gressette,N,South Carolina,Southern,Don McCallister,L,6,21
+1937-11-06,Citadel,Southern,Tatum Gressette,A,North Carolina State,Southern,,L,14,26
+1937-11-13,Citadel,Southern,Tatum Gressette,A,Virginia Military Institute,Southern,,L,0,27
+1937-09-25,Oklahoma,Big 6,Tom Stidham,A,Tulsa,MVC,Vic Hurt,L,7,19
+1937-10-02,Oklahoma,Big 6,Tom Stidham,H,Rice,SWC,Jimmy Kitts,W,6,0
+1937-10-09,Oklahoma,Big 6,Tom Stidham,N,Texas,SWC,Dana Bible,T,7,7
+1937-10-16,Oklahoma,Big 6,Tom Stidham,A,Nebraska,Big 6,Biff Jones,T,0,0
+1937-10-23,Oklahoma,Big 6,Tom Stidham,H,Kansas,Big 6,Adrian Lindsey,L,3,6
+1937-10-30,Oklahoma,Big 6,Tom Stidham,A,Kansas State,Big 6,Wesley Fry,W,19,0
+1937-11-06,Oklahoma,Big 6,Tom Stidham,H,Iowa State,Big 6,Jim Yeager,W,33,7
+1937-11-13,Oklahoma,Big 6,Tom Stidham,A,Missouri,Big 6,Don Faurot,W,7,0
+1937-11-20,Oklahoma,Big 6,Tom Stidham,H,Oklahoma State,MVC,Ted Cox,W,16,0
+1937-09-25,Virginia Tech,Southern,Henry Redd,A,Duke,Southern,Wallace Wade,L,0,25
+1937-10-02,Virginia Tech,Southern,Henry Redd,A,Tennessee,SEC,Bob Neyland,L,0,27
+1937-10-09,Virginia Tech,Southern,Henry Redd,N,William & Mary,Southern,,L,0,12
+1937-10-16,Virginia Tech,Southern,Henry Redd,A,North Carolina State,Southern,,L,7,13
+1937-10-23,Virginia Tech,Southern,Henry Redd,H,Washington & Lee,Southern,Tex Tilson,W,19,7
+1937-11-06,Virginia Tech,Southern,Henry Redd,A,Richmond,Southern,Glenn Thistlethwaite,L,7,12
+1937-11-13,Virginia Tech,Southern,Henry Redd,A,Virginia,Ind,Frank Murray,W,14,7
+1937-11-25,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,,W,12,6
+1937-10-02,Arkansas,SWC,Fred Thomsen,H,Texas Christian,SWC,Dutch Meyer,T,7,7
+1937-10-09,Arkansas,SWC,Fred Thomsen,A,Baylor,SWC,Morley Jennings,L,14,20
+1937-10-16,Arkansas,SWC,Fred Thomsen,A,Texas,SWC,Dana Bible,W,21,10
+1937-10-23,Arkansas,SWC,Fred Thomsen,H,SMU,SWC,Madison Bell,W,13,0
+1937-10-30,Arkansas,SWC,Fred Thomsen,H,Texas A&M,SWC,Homer Norton,W,26,13
+1937-11-06,Arkansas,SWC,Fred Thomsen,A,Rice,SWC,Jimmy Kitts,L,20,26
+1937-11-13,Arkansas,SWC,Fred Thomsen,N,Ole Miss,SEC,Ed Walker,W,32,6
+1937-11-20,Arkansas,SWC,Fred Thomsen,H,George Washington,Ind,James Pixlee,T,0,0
+1937-11-25,Arkansas,SWC,Fred Thomsen,A,Tulsa,MVC,Vic Hurt,W,28,7
+1937-09-25,Clemson,Southern,Jess Neely,A,Tulane,SEC,Red Dawson,L,0,7
+1937-10-02,Clemson,Southern,Jess Neely,A,Army,Ind,Gar Davidson,L,6,21
+1937-10-09,Clemson,Southern,Jess Neely,A,Georgia,SEC,Harry Mehre,L,0,14
+1937-10-21,Clemson,Southern,Jess Neely,A,South Carolina,Southern,Don McCallister,W,34,6
+1937-10-30,Clemson,Southern,Jess Neely,H,Wake Forest,Southern,D.C. Walker,W,32,0
+1937-11-06,Clemson,Southern,Jess Neely,A,Georgia Tech,SEC,William Alexander,L,0,7
+1937-11-13,Clemson,Southern,Jess Neely,A,Florida,SEC,Josh Cody,W,10,9
+1937-11-25,Clemson,Southern,Jess Neely,A,Furman,Southern,,T,0,0
+1937-09-25,South Carolina,Southern,Don McCallister,A,North Carolina,Southern,Raymond Wolf,T,13,13
+1937-10-02,South Carolina,Southern,Don McCallister,H,Georgia,SEC,Harry Mehre,L,7,13
+1937-10-09,South Carolina,Southern,Don McCallister,A,Alabama,SEC,Frank Thomas,L,0,20
+1937-10-16,South Carolina,Southern,Don McCallister,H,Davidson,Southern,Gene McEver,W,12,7
+1937-10-21,South Carolina,Southern,Don McCallister,H,Clemson,Southern,Jess Neely,L,6,34
+1937-10-29,South Carolina,Southern,Don McCallister,N,Citadel,Southern,Tatum Gressette,W,21,6
+1937-11-06,South Carolina,Southern,Don McCallister,A,Kentucky,SEC,C.A. Wynne,L,7,27
+1937-11-13,South Carolina,Southern,Don McCallister,H,Furman,Southern,,L,0,12
+1937-12-03,South Carolina,Southern,Don McCallister,A,Miami (FL),Ind,Jack Harding,W,3,0
+1937-09-25,Washington,PCC,James Phelan,H,Iowa,Western,Irl Tubbs,W,14,0
+1937-10-02,Washington,PCC,James Phelan,A,USC,PCC,Howard Jones,W,7,0
+1937-10-09,Washington,PCC,James Phelan,H,Oregon State,PCC,Lon Stiner,L,3,6
+1937-10-16,Washington,PCC,James Phelan,A,Washington State,PCC,O.E. Hollingbery,T,7,7
+1937-10-23,Washington,PCC,James Phelan,H,Stanford,PCC,Tiny Thornhill,L,7,13
+1937-10-30,Washington,PCC,James Phelan,H,Idaho,PCC,Ted Bank,W,21,7
+1937-11-06,Washington,PCC,James Phelan,A,California,PCC,Stub Allison,T,0,0
+1937-11-13,Washington,PCC,James Phelan,H,UCLA,PCC,William Spaulding,W,26,0
+1937-11-20,Washington,PCC,James Phelan,H,Oregon,PCC,Prink Callison,W,14,0
+1937-09-25,Santa Clara,Ind,Buck Shaw,A,Stanford,PCC,Tiny Thornhill,W,13,7
+1937-10-02,Santa Clara,Ind,Buck Shaw,H,Saint Mary's (CA),Ind,Slip Madigan,W,7,0
+1937-10-10,Santa Clara,Ind,Buck Shaw,A,San Francisco,Ind,George Malley,W,13,0
+1937-10-30,Santa Clara,Ind,Buck Shaw,A,Marquette,Ind,Paddy Driscoll,W,38,0
+1937-11-13,Santa Clara,Ind,Buck Shaw,H,Gonzaga,Ind,Mike Pecarovich,W,27,0
+1937-12-04,Santa Clara,Ind,Buck Shaw,H,Loyola Marymount,Ind,Tom Lieb,W,7,0
+1938-01-01,Santa Clara,Ind,Buck Shaw,N,LSU,SEC,Bernie Moore,W,6,0
+1937-10-09,Holy Cross,Ind,,H,Georgetown,Ind,Jack Hagerty,W,27,6
+1937-10-16,Holy Cross,Ind,,H,Georgia,SEC,Harry Mehre,W,7,6
+1937-10-30,Holy Cross,Ind,,H,Temple,Ind,Pop Warner,T,0,0
+1937-11-06,Holy Cross,Ind,,H,Colgate,Ind,Andrew Kerr,W,12,7
+1937-11-13,Holy Cross,Ind,,A,Brown,Ind,DeOrmond McLaughry,W,7,0
+1937-11-20,Holy Cross,Ind,,H,Carnegie Mellon,Ind,William Kern,T,0,0
+1937-11-27,Holy Cross,Ind,,N,Boston College,Ind,Gilmour Dobie,W,20,0
+1937-10-02,Utah State,RMC,,H,Montana State,RMC,Jack Croft,T,6,6
+1937-10-09,Utah State,RMC,,A,Colorado,RMC,Bunny Oakes,L,0,33
+1937-10-16,Utah State,RMC,,A,Idaho,PCC,Ted Bank,T,0,0
+1937-10-23,Utah State,RMC,,H,Wyoming,RMC,Dutch Witte,W,34,7
+1937-10-30,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,W,7,0
+1937-11-06,Utah State,RMC,,A,Denver,RMC,William Saunders,L,0,25
+1937-11-13,Utah State,RMC,,H,Brigham Young,RMC,Edwin Kimball,L,0,54
+1937-11-25,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,27
+1937-10-02,Missouri,Big 6,Don Faurot,A,Colorado,RMC,Bunny Oakes,L,6,14
+1937-10-09,Missouri,Big 6,Don Faurot,H,Kansas State,Big 6,Wesley Fry,W,14,7
+1937-10-16,Missouri,Big 6,Don Faurot,H,Michigan State,Ind,Charlie Bachman,L,0,2
+1937-10-23,Missouri,Big 6,Don Faurot,H,Nebraska,Big 6,Biff Jones,L,0,7
+1937-10-30,Missouri,Big 6,Don Faurot,A,Iowa State,Big 6,Jim Yeager,W,12,0
+1937-11-06,Missouri,Big 6,Don Faurot,A,Saint Louis,MVC,,L,7,14
+1937-11-13,Missouri,Big 6,Don Faurot,H,Oklahoma,Big 6,Tom Stidham,L,0,7
+1937-11-20,Missouri,Big 6,Don Faurot,A,Washington (MO),MVC,Jimmy Conzelman,W,3,0
+1937-11-25,Missouri,Big 6,Don Faurot,A,Kansas,Big 6,Adrian Lindsey,T,0,0
+1937-11-27,Missouri,Big 6,Don Faurot,A,UCLA,PCC,William Spaulding,L,0,13
+1937-09-25,Montana State,RMC,Jack Croft,H,Utah,RMC,Ike Armstrong,L,7,19
+1937-10-02,Montana State,RMC,Jack Croft,A,Utah State,RMC,,T,6,6
+1937-10-09,Montana State,RMC,Jack Croft,A,Northern Colorado,RMC,J.W. Hancock,L,26,33
+1937-10-23,Montana State,RMC,Jack Croft,N,Montana,PCC,Doug Fessenden,L,0,19
+1937-11-20,Montana State,RMC,Jack Croft,A,Brigham Young,RMC,Edwin Kimball,L,0,19
+1937-09-25,Denver,RMC,William Saunders,A,Colorado Mines,RMC,John Mason,W,12,0
+1937-10-01,Denver,RMC,William Saunders,H,New Mexico,BIAA,Ted Shipkey,W,12,0
+1937-10-09,Denver,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,W,22,0
+1937-10-16,Denver,RMC,William Saunders,H,Colorado College,RMC,W.T. VandeGraaff,L,4,7
+1937-10-23,Denver,RMC,William Saunders,A,Utah,RMC,Ike Armstrong,W,13,7
+1937-11-06,Denver,RMC,William Saunders,H,Utah State,RMC,,W,25,0
+1937-11-13,Denver,RMC,William Saunders,H,Wyoming,RMC,Dutch Witte,W,21,6
+1937-11-25,Denver,RMC,William Saunders,H,Colorado,RMC,Bunny Oakes,L,7,34
+1937-10-02,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Paddy Driscoll,W,12,0
+1937-10-09,Wisconsin,Western,Harry Stuhldreher,A,Chicago,Western,Clark Shaughnessy,W,27,0
+1937-10-16,Wisconsin,Western,Harry Stuhldreher,H,Iowa,Western,Irl Tubbs,W,13,6
+1937-10-23,Wisconsin,Western,Harry Stuhldreher,A,Pitt,Ind,Jock Sutherland,L,0,21
+1937-10-30,Wisconsin,Western,Harry Stuhldreher,H,Northwestern,Western,Pappy Waldorf,L,6,14
+1937-11-13,Wisconsin,Western,Harry Stuhldreher,H,Purdue,Western,Mal Elward,T,7,7
+1937-11-20,Wisconsin,Western,Harry Stuhldreher,A,Minnesota,Western,Bernie Bierman,L,6,13
+1937-10-09,Bucknell,Ind,Al Humphreys,A,Penn State,Ind,Bob Higgins,L,14,30
+1937-10-15,Bucknell,Ind,Al Humphreys,H,Miami (FL),Ind,Jack Harding,T,6,6
+1937-10-23,Bucknell,Ind,Al Humphreys,A,Villanova,Ind,,L,0,21
+1937-11-06,Bucknell,Ind,Al Humphreys,A,Furman,Southern,,W,20,7
+1937-11-13,Bucknell,Ind,Al Humphreys,H,Temple,Ind,Pop Warner,T,0,0
+1937-10-02,USC,PCC,Howard Jones,H,Washington,PCC,James Phelan,L,0,7
+1937-10-09,USC,PCC,Howard Jones,H,Ohio State,Western,Francis Schmidt,W,13,12
+1937-10-16,USC,PCC,Howard Jones,H,Oregon,PCC,Prink Callison,W,34,14
+1937-10-23,USC,PCC,Howard Jones,A,California,PCC,Stub Allison,L,6,20
+1937-10-30,USC,PCC,Howard Jones,A,Washington State,PCC,O.E. Hollingbery,T,0,0
+1937-11-06,USC,PCC,Howard Jones,H,Stanford,PCC,Tiny Thornhill,L,6,7
+1937-11-13,USC,PCC,Howard Jones,H,Oregon State,PCC,Lon Stiner,T,12,12
+1937-11-27,USC,PCC,Howard Jones,A,Notre Dame,Ind,Elmer Layden,L,6,13
+1937-12-04,USC,PCC,Howard Jones,A,UCLA,PCC,William Spaulding,W,19,13
+1937-09-25,Colorado Mines,RMC,John Mason,H,Denver,RMC,William Saunders,L,0,12
+1937-10-02,Colorado Mines,RMC,John Mason,A,Colorado State,RMC,Harry Hughes,W,7,0
+1937-10-23,Colorado Mines,RMC,John Mason,H,Colorado College,RMC,W.T. VandeGraaff,L,6,13
+1937-10-30,Colorado Mines,RMC,John Mason,A,Colorado,RMC,Bunny Oakes,L,0,54
+1937-11-06,Colorado Mines,RMC,John Mason,A,Western State,RMC,Paul Wright,L,0,26
+1937-11-13,Colorado Mines,RMC,John Mason,H,Northern Colorado,RMC,J.W. Hancock,L,6,32
+1937-09-18,North Carolina State,Southern,,N,Davidson,Southern,Gene McEver,W,6,2
+1937-10-02,North Carolina State,Southern,,H,North Carolina,Southern,Raymond Wolf,L,0,20
+1937-10-09,North Carolina State,Southern,,A,Furman,Southern,,T,7,7
+1937-10-16,North Carolina State,Southern,,H,Virginia Tech,Southern,Henry Redd,W,13,7
+1937-10-23,North Carolina State,Southern,,A,Wake Forest,Southern,D.C. Walker,W,20,0
+1937-10-30,North Carolina State,Southern,,A,Boston College,Ind,Gilmour Dobie,W,12,7
+1937-11-06,North Carolina State,Southern,,H,Citadel,Southern,Tatum Gressette,W,26,14
+1937-11-13,North Carolina State,Southern,,A,Manhattan,Ind,Chick Meehan,L,0,15
+1937-11-20,North Carolina State,Southern,,H,Duke,Southern,Wallace Wade,L,7,20
+1937-10-02,Centenary (LA),Ind,Curtis Player,A,SMU,SWC,Madison Bell,W,7,6
+1937-10-16,Centenary (LA),Ind,Curtis Player,H,Baylor,SWC,Morley Jennings,L,0,20
+1937-10-23,Centenary (LA),Ind,Curtis Player,A,Arizona,BIAA,Tex Oliver,W,18,13
+1937-10-30,Centenary (LA),Ind,Curtis Player,H,Mississippi State,SEC,Ralph Sasse,T,0,0
+1937-11-06,Centenary (LA),Ind,Curtis Player,H,Texas Christian,SWC,Dutch Meyer,W,10,9
+1937-11-11,Centenary (LA),Ind,Curtis Player,A,Loyola Marymount,Ind,Tom Lieb,L,7,14
+1937-11-20,Centenary (LA),Ind,Curtis Player,H,Texas Tech,BIAA,Pete Cawthon,L,2,7
+1937-11-27,Centenary (LA),Ind,Curtis Player,A,Oklahoma State,MVC,Ted Cox,W,19,0
+1937-10-02,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Charlie Bachman,L,14,19
+1937-10-09,Michigan,Western,Harry Kipke,A,Northwestern,Western,Pappy Waldorf,L,0,7
+1937-10-16,Michigan,Western,Harry Kipke,H,Minnesota,Western,Bernie Bierman,L,6,39
+1937-10-23,Michigan,Western,Harry Kipke,A,Iowa,Western,Irl Tubbs,W,7,6
+1937-10-30,Michigan,Western,Harry Kipke,A,Illinois,Western,Robert Zuppke,W,7,6
+1937-11-06,Michigan,Western,Harry Kipke,H,Chicago,Western,Clark Shaughnessy,W,13,12
+1937-11-13,Michigan,Western,Harry Kipke,A,Pennsylvania,Ind,Harvey Harman,W,7,0
+1937-11-20,Michigan,Western,Harry Kipke,H,Ohio State,Western,Francis Schmidt,L,0,21
+1937-10-09,Detroit Mercy,Ind,Gus Dorais,H,Texas Tech,BIAA,Pete Cawthon,W,34,0
+1937-10-23,Detroit Mercy,Ind,Gus Dorais,A,Boston College,Ind,Gilmour Dobie,W,14,0
+1937-10-30,Detroit Mercy,Ind,Gus Dorais,H,Villanova,Ind,,L,0,7
+1937-11-06,Detroit Mercy,Ind,Gus Dorais,A,Manhattan,Ind,Chick Meehan,L,0,7
+1937-11-21,Detroit Mercy,Ind,Gus Dorais,A,Creighton,MVC,Marchy Schwartz,W,48,7
+1937-11-25,Detroit Mercy,Ind,Gus Dorais,A,Duquesne,Ind,Clipper Smith,L,7,14
+1937-09-25,Temple,Ind,Pop Warner,A,Virginia Military Institute,Southern,,W,18,7
+1937-10-01,Temple,Ind,Pop Warner,H,Ole Miss,SEC,Ed Walker,T,0,0
+1937-10-08,Temple,Ind,Pop Warner,H,Florida,SEC,Josh Cody,W,7,6
+1937-10-12,Temple,Ind,Pop Warner,A,Boston College,Ind,Gilmour Dobie,T,0,0
+1937-10-23,Temple,Ind,Pop Warner,A,Carnegie Mellon,Ind,William Kern,W,7,0
+1937-10-30,Temple,Ind,Pop Warner,A,Holy Cross,Ind,,T,0,0
+1937-11-06,Temple,Ind,Pop Warner,H,Michigan State,Ind,Charlie Bachman,L,6,13
+1937-11-13,Temple,Ind,Pop Warner,A,Bucknell,Ind,Al Humphreys,T,0,0
+1937-11-20,Temple,Ind,Pop Warner,H,Villanova,Ind,,L,0,33
+1937-10-02,Loyola Marymount,Ind,Tom Lieb,H,Gonzaga,Ind,Mike Pecarovich,W,13,8
+1937-10-16,Loyola Marymount,Ind,Tom Lieb,A,Saint Mary's (CA),Ind,Slip Madigan,L,7,13
+1937-10-31,Loyola Marymount,Ind,Tom Lieb,H,San Francisco,Ind,George Malley,L,0,6
+1937-11-06,Loyola Marymount,Ind,Tom Lieb,H,Arizona,BIAA,Tex Oliver,L,6,13
+1937-11-11,Loyola Marymount,Ind,Tom Lieb,H,Centenary (LA),Ind,Curtis Player,W,14,7
+1937-11-20,Loyola Marymount,Ind,Tom Lieb,A,Baylor,SWC,Morley Jennings,L,13,27
+1937-11-27,Loyola Marymount,Ind,Tom Lieb,H,Villanova,Ind,,L,0,25
+1937-12-04,Loyola Marymount,Ind,Tom Lieb,A,Santa Clara,Ind,Buck Shaw,L,0,7
+1937-10-01,New Mexico,BIAA,Ted Shipkey,A,Denver,RMC,William Saunders,L,0,12
+1937-10-08,New Mexico,BIAA,Ted Shipkey,A,New Mexico State,BIAA,Gerald Hines,L,0,5
+1937-10-16,New Mexico,BIAA,Ted Shipkey,H,UTEP,BIAA,Mack Saxon,T,7,7
+1937-10-23,New Mexico,BIAA,Ted Shipkey,A,Texas Tech,BIAA,Pete Cawthon,L,0,27
+1937-10-30,New Mexico,BIAA,Ted Shipkey,H,Arizona State,BIAA,Rudy Lavik,W,15,7
+1937-11-06,New Mexico,BIAA,Ted Shipkey,A,Colorado College,RMC,W.T. VandeGraaff,W,26,6
+1937-11-13,New Mexico,BIAA,Ted Shipkey,H,Arizona,BIAA,Tex Oliver,L,0,23
+1937-11-25,New Mexico,BIAA,Ted Shipkey,H,Northern Arizona,BIAA,Garrett Arbelbide,W,7,6
+1937-10-02,Notre Dame,Ind,Elmer Layden,H,Drake,MVC,Vee Green,W,21,0
+1937-10-09,Notre Dame,Ind,Elmer Layden,A,Illinois,Western,Robert Zuppke,T,0,0
+1937-10-16,Notre Dame,Ind,Elmer Layden,A,Carnegie Mellon,Ind,William Kern,L,7,9
+1937-10-23,Notre Dame,Ind,Elmer Layden,H,Navy,Ind,Hank Hardwick,W,9,7
+1937-10-30,Notre Dame,Ind,Elmer Layden,A,Minnesota,Western,Bernie Bierman,W,7,6
+1937-11-06,Notre Dame,Ind,Elmer Layden,H,Pitt,Ind,Jock Sutherland,L,6,21
+1937-11-13,Notre Dame,Ind,Elmer Layden,A,Army,Ind,Gar Davidson,W,7,0
+1937-11-20,Notre Dame,Ind,Elmer Layden,A,Northwestern,Western,Pappy Waldorf,W,7,0
+1937-11-27,Notre Dame,Ind,Elmer Layden,H,USC,PCC,Howard Jones,W,13,6
+1937-10-02,Pitt,Ind,Jock Sutherland,A,West Virginia,Ind,Marshall Glenn,W,20,0
+1937-10-09,Pitt,Ind,Jock Sutherland,H,Duquesne,Ind,Clipper Smith,W,6,0
+1937-10-16,Pitt,Ind,Jock Sutherland,A,Fordham,Ind,Jimmy Crowley,T,0,0
+1937-10-23,Pitt,Ind,Jock Sutherland,H,Wisconsin,Western,Harry Stuhldreher,W,21,0
+1937-10-30,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,William Kern,W,25,14
+1937-11-06,Pitt,Ind,Jock Sutherland,A,Notre Dame,Ind,Elmer Layden,W,21,6
+1937-11-13,Pitt,Ind,Jock Sutherland,H,Nebraska,Big 6,Biff Jones,W,13,7
+1937-11-20,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Bob Higgins,W,28,7
+1937-11-27,Pitt,Ind,Jock Sutherland,A,Duke,Southern,Wallace Wade,W,10,0
+1937-10-02,Carnegie Mellon,Ind,William Kern,H,New York University,Ind,Mal Stevens,L,14,18
+1937-10-09,Carnegie Mellon,Ind,William Kern,A,Purdue,Western,Mal Elward,L,0,7
+1937-10-16,Carnegie Mellon,Ind,William Kern,H,Notre Dame,Ind,Elmer Layden,W,9,7
+1937-10-23,Carnegie Mellon,Ind,William Kern,H,Temple,Ind,Pop Warner,L,0,7
+1937-10-30,Carnegie Mellon,Ind,William Kern,A,Pitt,Ind,Jock Sutherland,L,14,25
+1937-11-06,Carnegie Mellon,Ind,William Kern,A,Duquesne,Ind,Clipper Smith,W,6,0
+1937-11-13,Carnegie Mellon,Ind,William Kern,A,Michigan State,Ind,Charlie Bachman,L,6,13
+1937-11-20,Carnegie Mellon,Ind,William Kern,A,Holy Cross,Ind,,T,0,0
+1937-09-25,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,Stub Allison,L,7,30
+1937-10-02,Saint Mary's (CA),Ind,Slip Madigan,A,Santa Clara,Ind,Buck Shaw,L,0,7
+1937-10-16,Saint Mary's (CA),Ind,Slip Madigan,H,Loyola Marymount,Ind,Tom Lieb,W,13,7
+1937-10-23,Saint Mary's (CA),Ind,Slip Madigan,H,Idaho,PCC,Ted Bank,W,6,0
+1937-11-06,Saint Mary's (CA),Ind,Slip Madigan,A,San Francisco,Ind,George Malley,W,3,0
+1937-11-20,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Jimmy Crowley,L,0,6
+1937-11-27,Saint Mary's (CA),Ind,Slip Madigan,A,Gonzaga,Ind,Mike Pecarovich,T,0,0
+1937-10-01,George Washington,Ind,James Pixlee,H,Wake Forest,Southern,D.C. Walker,W,34,6
+1937-10-23,George Washington,Ind,James Pixlee,H,Alabama,SEC,Frank Thomas,L,0,19
+1937-10-29,George Washington,Ind,James Pixlee,H,Tulsa,MVC,Vic Hurt,L,13,14
+1937-11-05,George Washington,Ind,James Pixlee,H,Ole Miss,SEC,Ed Walker,L,6,27
+1937-11-20,George Washington,Ind,James Pixlee,A,Arkansas,SWC,Fred Thomsen,T,0,0
+1937-11-25,George Washington,Ind,James Pixlee,A,West Virginia,Ind,Marshall Glenn,L,0,26
+1937-10-09,Wyoming,RMC,Dutch Witte,A,Colorado College,RMC,W.T. VandeGraaff,L,6,9
+1937-10-16,Wyoming,RMC,Dutch Witte,A,Colorado State,RMC,Harry Hughes,W,7,0
+1937-10-23,Wyoming,RMC,Dutch Witte,A,Utah State,RMC,,L,7,34
+1937-11-06,Wyoming,RMC,Dutch Witte,H,Brigham Young,RMC,Edwin Kimball,L,0,19
+1937-11-13,Wyoming,RMC,Dutch Witte,A,Denver,RMC,William Saunders,L,6,21
+1937-11-25,Wyoming,RMC,Dutch Witte,H,Northern Colorado,RMC,J.W. Hancock,W,33,0
+1937-09-25,Brigham Young,RMC,Edwin Kimball,H,Northern Colorado,RMC,J.W. Hancock,W,7,0
+1937-10-02,Brigham Young,RMC,Edwin Kimball,A,Utah,RMC,Ike Armstrong,L,0,14
+1937-10-16,Brigham Young,RMC,Edwin Kimball,A,Colorado,RMC,Bunny Oakes,L,0,14
+1937-10-30,Brigham Young,RMC,Edwin Kimball,H,Western State,RMC,Paul Wright,W,21,0
+1937-11-06,Brigham Young,RMC,Edwin Kimball,A,Wyoming,RMC,Dutch Witte,W,19,0
+1937-11-13,Brigham Young,RMC,Edwin Kimball,A,Utah State,RMC,,W,54,0
+1937-11-20,Brigham Young,RMC,Edwin Kimball,H,Montana State,RMC,Jack Croft,W,19,0
+1937-10-09,Duquesne,Ind,Clipper Smith,A,Pitt,Ind,Jock Sutherland,L,0,6
+1937-10-29,Duquesne,Ind,Clipper Smith,H,Richmond,Southern,Glenn Thistlethwaite,W,24,0
+1937-11-06,Duquesne,Ind,Clipper Smith,H,Carnegie Mellon,Ind,William Kern,L,0,6
+1937-11-11,Duquesne,Ind,Clipper Smith,A,Texas Tech,BIAA,Pete Cawthon,L,0,13
+1937-11-20,Duquesne,Ind,Clipper Smith,A,Marquette,Ind,Paddy Driscoll,L,6,13
+1937-11-25,Duquesne,Ind,Clipper Smith,H,Detroit Mercy,Ind,Gus Dorais,W,14,7
+1937-12-04,Duquesne,Ind,Clipper Smith,A,Mississippi State,SEC,Ralph Sasse,W,9,0
+1937-10-09,Yale,Ind,Ducky Pond,H,Pennsylvania,Ind,Harvey Harman,W,27,7
+1937-10-16,Yale,Ind,Ducky Pond,H,Army,Ind,Gar Davidson,W,15,7
+1937-10-23,Yale,Ind,Ducky Pond,H,Cornell,Ind,Carl Snavely,W,9,0
+1937-10-30,Yale,Ind,Ducky Pond,H,Dartmouth,Ind,Red Blaik,T,9,9
+1937-11-06,Yale,Ind,Ducky Pond,H,Brown,Ind,DeOrmond McLaughry,W,19,0
+1937-11-13,Yale,Ind,Ducky Pond,H,Princeton,Ind,Fritz Crisler,W,26,0
+1937-11-20,Yale,Ind,Ducky Pond,A,Harvard,Ind,Dick Harlow,L,6,13
+1937-10-09,Georgia Tech,SEC,William Alexander,A,Kentucky,SEC,C.A. Wynne,W,32,0
+1937-10-16,Georgia Tech,SEC,William Alexander,H,Duke,Southern,Wallace Wade,L,19,20
+1937-10-23,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,L,0,21
+1937-10-30,Georgia Tech,SEC,William Alexander,H,Vanderbilt,SEC,Ray Morrison,W,14,0
+1937-11-06,Georgia Tech,SEC,William Alexander,H,Clemson,Southern,Jess Neely,W,7,0
+1937-11-13,Georgia Tech,SEC,William Alexander,A,Alabama,SEC,Frank Thomas,L,0,7
+1937-11-20,Georgia Tech,SEC,William Alexander,A,Florida,SEC,Josh Cody,W,12,0
+1937-11-27,Georgia Tech,SEC,William Alexander,H,Georgia,SEC,Harry Mehre,T,6,6
+1937-09-25,Wake Forest,Southern,D.C. Walker,A,Tennessee,SEC,Bob Neyland,L,0,32
+1937-10-01,Wake Forest,Southern,D.C. Walker,A,George Washington,Ind,James Pixlee,L,6,34
+1937-10-16,Wake Forest,Southern,D.C. Walker,H,North Carolina,Southern,Raymond Wolf,L,0,28
+1937-10-23,Wake Forest,Southern,D.C. Walker,H,North Carolina State,Southern,,L,0,20
+1937-10-30,Wake Forest,Southern,D.C. Walker,A,Clemson,Southern,Jess Neely,L,0,32
+1937-11-06,Wake Forest,Southern,D.C. Walker,A,Duke,Southern,Wallace Wade,L,0,67
+1937-11-25,Wake Forest,Southern,D.C. Walker,N,Davidson,Southern,Gene McEver,W,19,7
+1937-10-09,Mississippi State,SEC,Ralph Sasse,A,Texas A&M,SWC,Homer Norton,L,0,14
+1937-10-16,Mississippi State,SEC,Ralph Sasse,A,Auburn,SEC,Jack Meagher,L,7,33
+1937-10-23,Mississippi State,SEC,Ralph Sasse,H,Florida,SEC,Josh Cody,W,14,13
+1937-10-30,Mississippi State,SEC,Ralph Sasse,A,Centenary (LA),Ind,Curtis Player,T,0,0
+1937-11-06,Mississippi State,SEC,Ralph Sasse,A,LSU,SEC,Bernie Moore,L,0,41
+1937-11-12,Mississippi State,SEC,Ralph Sasse,H,Sewanee,SEC,Heck Clark,W,12,0
+1937-11-25,Mississippi State,SEC,Ralph Sasse,A,Ole Miss,SEC,Ed Walker,W,9,7
+1937-12-04,Mississippi State,SEC,Ralph Sasse,H,Duquesne,Ind,Clipper Smith,L,0,9
+1937-09-25,Virginia Military Institute,Southern,,H,Temple,Ind,Pop Warner,L,7,18
+1937-10-02,Virginia Military Institute,Southern,,N,William & Mary,Southern,,W,20,9
+1937-10-09,Virginia Military Institute,Southern,,H,Davidson,Southern,Gene McEver,W,7,0
+1937-10-16,Virginia Military Institute,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,W,21,7
+1937-10-23,Virginia Military Institute,Southern,,A,Virginia,Ind,Frank Murray,W,26,7
+1937-10-30,Virginia Military Institute,Southern,,A,Army,Ind,Gar Davidson,L,7,20
+1937-11-06,Virginia Military Institute,Southern,,H,Maryland,Southern,Frank Dobson,L,7,9
+1937-11-13,Virginia Military Institute,Southern,,H,Citadel,Southern,Tatum Gressette,W,27,0
+1937-11-25,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry Redd,L,6,12
+1937-10-02,Kansas State,Big 6,Wesley Fry,A,Boston College,Ind,Gilmour Dobie,L,7,21
+1937-10-09,Kansas State,Big 6,Wesley Fry,A,Missouri,Big 6,Don Faurot,L,7,14
+1937-10-16,Kansas State,Big 6,Wesley Fry,H,Marquette,Ind,Paddy Driscoll,W,13,0
+1937-10-23,Kansas State,Big 6,Wesley Fry,A,Creighton,MVC,Marchy Schwartz,W,15,7
+1937-10-30,Kansas State,Big 6,Wesley Fry,H,Oklahoma,Big 6,Tom Stidham,L,0,19
+1937-11-06,Kansas State,Big 6,Wesley Fry,H,Washburn,MVC,Elmer Holm,W,20,7
+1937-11-13,Kansas State,Big 6,Wesley Fry,A,Kansas,Big 6,Adrian Lindsey,W,7,0
+1937-11-20,Kansas State,Big 6,Wesley Fry,A,Iowa State,Big 6,Jim Yeager,L,7,13
+1937-11-27,Kansas State,Big 6,Wesley Fry,H,Nebraska,Big 6,Biff Jones,L,0,3
+1937-10-09,Saint Louis,MVC,,A,Ole Miss,SEC,Ed Walker,L,0,21
+1937-11-06,Saint Louis,MVC,,H,Missouri,Big 6,Don Faurot,W,14,7
+1937-11-13,Saint Louis,MVC,,A,Creighton,MVC,Marchy Schwartz,W,7,6
+1937-11-27,Saint Louis,MVC,,H,Washington (MO),MVC,Jimmy Conzelman,L,0,6
+1937-10-02,Army,Ind,Gar Davidson,H,Clemson,Southern,Jess Neely,W,21,6
+1937-10-09,Army,Ind,Gar Davidson,H,Columbia,Ind,Lou Little,W,21,18
+1937-10-16,Army,Ind,Gar Davidson,A,Yale,Ind,Ducky Pond,L,7,15
+1937-10-23,Army,Ind,Gar Davidson,H,Washington (MO),MVC,Jimmy Conzelman,W,47,7
+1937-10-30,Army,Ind,Gar Davidson,H,Virginia Military Institute,Southern,,W,20,7
+1937-11-06,Army,Ind,Gar Davidson,A,Harvard,Ind,Dick Harlow,W,7,6
+1937-11-13,Army,Ind,Gar Davidson,H,Notre Dame,Ind,Elmer Layden,L,0,7
+1937-11-27,Army,Ind,Gar Davidson,N,Navy,Ind,Hank Hardwick,W,6,0
+1937-10-02,Marquette,Ind,Paddy Driscoll,A,Wisconsin,Western,Harry Stuhldreher,L,0,12
+1937-10-16,Marquette,Ind,Paddy Driscoll,A,Kansas State,Big 6,Wesley Fry,L,0,13
+1937-10-23,Marquette,Ind,Paddy Driscoll,A,Michigan State,Ind,Charlie Bachman,L,7,21
+1937-10-30,Marquette,Ind,Paddy Driscoll,H,Santa Clara,Ind,Buck Shaw,L,0,38
+1937-11-06,Marquette,Ind,Paddy Driscoll,A,Villanova,Ind,,L,7,25
+1937-11-13,Marquette,Ind,Paddy Driscoll,H,Iowa State,Big 6,Jim Yeager,L,0,3
+1937-11-20,Marquette,Ind,Paddy Driscoll,H,Duquesne,Ind,Clipper Smith,W,13,6
+1937-10-16,Dartmouth,Ind,Red Blaik,A,Brown,Ind,DeOrmond McLaughry,W,41,0
+1937-10-23,Dartmouth,Ind,Red Blaik,A,Harvard,Ind,Dick Harlow,W,20,2
+1937-10-30,Dartmouth,Ind,Red Blaik,A,Yale,Ind,Ducky Pond,T,9,9
+1937-11-06,Dartmouth,Ind,Red Blaik,A,Princeton,Ind,Fritz Crisler,W,33,9
+1937-11-13,Dartmouth,Ind,Red Blaik,H,Cornell,Ind,Carl Snavely,T,6,6
+1937-11-20,Dartmouth,Ind,Red Blaik,A,Columbia,Ind,Lou Little,W,27,0
+1937-09-24,UCLA,PCC,William Spaulding,H,Oregon,PCC,Prink Callison,W,26,13
+1937-10-09,UCLA,PCC,William Spaulding,A,Stanford,PCC,Tiny Thornhill,L,7,12
+1937-10-16,UCLA,PCC,William Spaulding,A,Oregon State,PCC,Lon Stiner,T,7,7
+1937-10-23,UCLA,PCC,William Spaulding,H,Washington State,PCC,O.E. Hollingbery,L,0,3
+1937-10-30,UCLA,PCC,William Spaulding,H,California,PCC,Stub Allison,L,14,27
+1937-11-13,UCLA,PCC,William Spaulding,A,Washington,PCC,James Phelan,L,0,26
+1937-11-20,UCLA,PCC,William Spaulding,H,SMU,SWC,Madison Bell,L,13,26
+1937-11-27,UCLA,PCC,William Spaulding,H,Missouri,Big 6,Don Faurot,W,13,0
+1937-12-04,UCLA,PCC,William Spaulding,H,USC,PCC,Howard Jones,L,13,19
+1937-10-05,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Red Dawson,T,0,0
+1937-10-09,Auburn,SEC,Jack Meagher,A,Villanova,Ind,,T,0,0
+1937-10-16,Auburn,SEC,Jack Meagher,H,Mississippi State,SEC,Ralph Sasse,W,33,7
+1937-10-23,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,W,21,0
+1937-10-30,Auburn,SEC,Jack Meagher,A,Rice,SWC,Jimmy Kitts,L,7,13
+1937-11-06,Auburn,SEC,Jack Meagher,H,Tennessee,SEC,Bob Neyland,W,20,7
+1937-11-13,Auburn,SEC,Jack Meagher,A,LSU,SEC,Bernie Moore,L,7,9
+1937-11-20,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Harry Mehre,T,0,0
+1937-11-27,Auburn,SEC,Jack Meagher,A,Florida,SEC,Josh Cody,W,14,0
+1938-01-01,Auburn,SEC,Jack Meagher,N,Michigan State,Ind,Charlie Bachman,W,6,0
+1937-10-02,Northwestern,Western,Pappy Waldorf,H,Iowa State,Big 6,Jim Yeager,W,33,0
+1937-10-09,Northwestern,Western,Pappy Waldorf,H,Michigan,Western,Harry Kipke,W,7,0
+1937-10-16,Northwestern,Western,Pappy Waldorf,H,Purdue,Western,Mal Elward,W,14,7
+1937-10-23,Northwestern,Western,Pappy Waldorf,A,Ohio State,Western,Francis Schmidt,L,0,7
+1937-10-30,Northwestern,Western,Pappy Waldorf,A,Wisconsin,Western,Harry Stuhldreher,W,14,6
+1937-11-06,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Robert Zuppke,L,0,6
+1937-11-13,Northwestern,Western,Pappy Waldorf,A,Minnesota,Western,Bernie Bierman,L,0,7
+1937-11-20,Northwestern,Western,Pappy Waldorf,H,Notre Dame,Ind,Elmer Layden,L,0,7
+1937-10-01,Kansas,Big 6,Adrian Lindsey,A,Washburn,MVC,Elmer Holm,W,25,2
+1937-10-16,Kansas,Big 6,Adrian Lindsey,H,Iowa State,Big 6,Jim Yeager,W,14,6
+1937-10-23,Kansas,Big 6,Adrian Lindsey,A,Oklahoma,Big 6,Tom Stidham,W,6,3
+1937-10-30,Kansas,Big 6,Adrian Lindsey,A,Michigan State,Ind,Charlie Bachman,L,0,16
+1937-11-06,Kansas,Big 6,Adrian Lindsey,A,Nebraska,Big 6,Biff Jones,T,13,13
+1937-11-13,Kansas,Big 6,Adrian Lindsey,H,Kansas State,Big 6,Wesley Fry,L,0,7
+1937-11-20,Kansas,Big 6,Adrian Lindsey,A,Arizona,BIAA,Tex Oliver,L,7,9
+1937-11-25,Kansas,Big 6,Adrian Lindsey,H,Missouri,Big 6,Don Faurot,T,0,0
+1937-09-25,William & Mary,Southern,,A,Navy,Ind,Hank Hardwick,L,0,45
+1937-10-02,William & Mary,Southern,,N,Virginia Military Institute,Southern,,L,9,20
+1937-10-09,William & Mary,Southern,,N,Virginia Tech,Southern,Henry Redd,W,12,0
+1937-10-30,William & Mary,Southern,,A,Virginia,Ind,Frank Murray,L,0,6
+1937-11-13,William & Mary,Southern,,H,Washington & Lee,Southern,Tex Tilson,L,12,14
+1937-11-25,William & Mary,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,L,0,6
+1937-09-24,UTEP,BIAA,Mack Saxon,A,New Mexico State,BIAA,Gerald Hines,L,0,14
+1937-10-16,UTEP,BIAA,Mack Saxon,A,New Mexico,BIAA,Ted Shipkey,T,7,7
+1937-10-30,UTEP,BIAA,Mack Saxon,H,Northern Colorado,RMC,J.W. Hancock,W,20,0
+1937-11-06,UTEP,BIAA,Mack Saxon,H,Northern Arizona,BIAA,Garrett Arbelbide,W,53,13
+1937-11-11,UTEP,BIAA,Mack Saxon,A,Arizona State,BIAA,Rudy Lavik,W,19,0
+1937-09-25,LSU,SEC,Bernie Moore,H,Florida,SEC,Josh Cody,W,19,0
+1937-10-02,LSU,SEC,Bernie Moore,H,Texas,SWC,Dana Bible,W,9,0
+1937-10-09,LSU,SEC,Bernie Moore,A,Rice,SWC,Jimmy Kitts,W,13,0
+1937-10-16,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Ed Walker,W,13,0
+1937-10-23,LSU,SEC,Bernie Moore,A,Vanderbilt,SEC,Ray Morrison,L,6,7
+1937-11-06,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Ralph Sasse,W,41,0
+1937-11-13,LSU,SEC,Bernie Moore,H,Auburn,SEC,Jack Meagher,W,9,7
+1937-11-27,LSU,SEC,Bernie Moore,A,Tulane,SEC,Red Dawson,W,20,7
+1938-01-01,LSU,SEC,Bernie Moore,N,Santa Clara,Ind,Buck Shaw,L,0,6
+1937-10-02,Pennsylvania,Ind,Harvey Harman,H,Maryland,Southern,Frank Dobson,W,28,21
+1937-10-09,Pennsylvania,Ind,Harvey Harman,A,Yale,Ind,Ducky Pond,L,7,27
+1937-10-16,Pennsylvania,Ind,Harvey Harman,A,Columbia,Ind,Lou Little,L,6,26
+1937-10-23,Pennsylvania,Ind,Harvey Harman,H,Georgetown,Ind,Jack Hagerty,T,0,0
+1937-10-30,Pennsylvania,Ind,Harvey Harman,H,Navy,Ind,Hank Hardwick,W,14,7
+1937-11-06,Pennsylvania,Ind,Harvey Harman,H,Penn State,Ind,Bob Higgins,L,0,7
+1937-11-13,Pennsylvania,Ind,Harvey Harman,H,Michigan,Western,Harry Kipke,L,0,7
+1937-11-25,Pennsylvania,Ind,Harvey Harman,H,Cornell,Ind,Carl Snavely,L,20,34
+1937-09-25,Tulsa,MVC,Vic Hurt,H,Oklahoma,Big 6,Tom Stidham,W,19,7
+1937-10-09,Tulsa,MVC,Vic Hurt,A,Texas Christian,SWC,Dutch Meyer,L,13,20
+1937-10-16,Tulsa,MVC,Vic Hurt,A,Rice,SWC,Jimmy Kitts,T,0,0
+1937-10-23,Tulsa,MVC,Vic Hurt,H,Oklahoma State,MVC,Ted Cox,W,27,0
+1937-10-29,Tulsa,MVC,Vic Hurt,A,George Washington,Ind,James Pixlee,W,14,13
+1937-11-06,Tulsa,MVC,Vic Hurt,H,Drake,MVC,Vee Green,W,41,9
+1937-11-13,Tulsa,MVC,Vic Hurt,A,Washington (MO),MVC,Jimmy Conzelman,W,32,7
+1937-11-25,Tulsa,MVC,Vic Hurt,H,Arkansas,SWC,Fred Thomsen,L,7,28
+1937-12-04,Tulsa,MVC,Vic Hurt,H,Manhattan,Ind,Chick Meehan,T,0,0
+1937-09-25,Iowa,Western,Irl Tubbs,A,Washington,PCC,James Phelan,L,0,14
+1937-10-16,Iowa,Western,Irl Tubbs,A,Wisconsin,Western,Harry Stuhldreher,L,6,13
+1937-10-23,Iowa,Western,Irl Tubbs,H,Michigan,Western,Harry Kipke,L,6,7
+1937-10-30,Iowa,Western,Irl Tubbs,A,Purdue,Western,Mal Elward,L,0,13
+1937-11-06,Iowa,Western,Irl Tubbs,H,Minnesota,Western,Bernie Bierman,L,10,35
+1937-11-13,Iowa,Western,Irl Tubbs,H,Indiana,Western,Bo McMillin,L,0,3
+1937-11-20,Iowa,Western,Irl Tubbs,A,Nebraska,Big 6,Biff Jones,L,0,28
+1937-10-09,Columbia,Ind,Lou Little,A,Army,Ind,Gar Davidson,L,18,21
+1937-10-16,Columbia,Ind,Lou Little,H,Pennsylvania,Ind,Harvey Harman,W,26,6
+1937-10-23,Columbia,Ind,Lou Little,H,Brown,Ind,DeOrmond McLaughry,L,6,7
+1937-10-30,Columbia,Ind,Lou Little,A,Cornell,Ind,Carl Snavely,L,0,14
+1937-11-06,Columbia,Ind,Lou Little,A,Navy,Ind,Hank Hardwick,L,6,13
+1937-11-13,Columbia,Ind,Lou Little,H,Syracuse,Ind,Ossie Solem,T,6,6
+1937-11-20,Columbia,Ind,Lou Little,H,Dartmouth,Ind,Red Blaik,L,0,27
+1937-11-27,Columbia,Ind,Lou Little,H,Stanford,PCC,Tiny Thornhill,T,0,0
+1937-09-25,Texas,SWC,Dana Bible,H,Texas Tech,BIAA,Pete Cawthon,W,25,12
+1937-10-02,Texas,SWC,Dana Bible,A,LSU,SEC,Bernie Moore,L,0,9
+1937-10-09,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Tom Stidham,T,7,7
+1937-10-16,Texas,SWC,Dana Bible,H,Arkansas,SWC,Fred Thomsen,L,10,21
+1937-10-23,Texas,SWC,Dana Bible,H,Rice,SWC,Jimmy Kitts,L,7,14
+1937-10-30,Texas,SWC,Dana Bible,A,SMU,SWC,Madison Bell,L,2,13
+1937-11-06,Texas,SWC,Dana Bible,A,Baylor,SWC,Morley Jennings,W,9,6
+1937-11-13,Texas,SWC,Dana Bible,H,Texas Christian,SWC,Dutch Meyer,L,0,14
+1937-11-25,Texas,SWC,Dana Bible,A,Texas A&M,SWC,Homer Norton,L,0,7
+1937-09-25,Texas Christian,SWC,Dutch Meyer,A,Ohio State,Western,Francis Schmidt,L,0,14
+1937-10-02,Texas Christian,SWC,Dutch Meyer,A,Arkansas,SWC,Fred Thomsen,T,7,7
+1937-10-09,Texas Christian,SWC,Dutch Meyer,H,Tulsa,MVC,Vic Hurt,W,20,13
+1937-10-16,Texas Christian,SWC,Dutch Meyer,H,Texas A&M,SWC,Homer Norton,T,7,7
+1937-10-23,Texas Christian,SWC,Dutch Meyer,A,Fordham,Ind,Jimmy Crowley,L,6,7
+1937-10-30,Texas Christian,SWC,Dutch Meyer,A,Baylor,SWC,Morley Jennings,L,0,6
+1937-11-06,Texas Christian,SWC,Dutch Meyer,A,Centenary (LA),Ind,Curtis Player,L,9,10
+1937-11-13,Texas Christian,SWC,Dutch Meyer,A,Texas,SWC,Dana Bible,W,14,0
+1937-11-20,Texas Christian,SWC,Dutch Meyer,H,Rice,SWC,Jimmy Kitts,W,7,2
+1937-11-27,Texas Christian,SWC,Dutch Meyer,H,SMU,SWC,Madison Bell,W,3,0
+1937-10-02,New York University,Ind,Mal Stevens,A,Carnegie Mellon,Ind,William Kern,W,18,14
+1937-10-09,New York University,Ind,Mal Stevens,H,North Carolina,Southern,Raymond Wolf,L,6,19
+1937-10-30,New York University,Ind,Mal Stevens,H,Colgate,Ind,Andrew Kerr,W,14,7
+1937-11-13,New York University,Ind,Mal Stevens,H,Georgetown,Ind,Jack Hagerty,L,0,6
+1937-11-27,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,L,7,20
+1937-10-15,Miami (FL),Ind,Jack Harding,A,Bucknell,Ind,Al Humphreys,T,6,6
+1937-11-26,Miami (FL),Ind,Jack Harding,H,Drake,MVC,Vee Green,L,0,7
+1937-12-03,Miami (FL),Ind,Jack Harding,H,South Carolina,Southern,Don McCallister,L,0,3
+1937-12-10,Miami (FL),Ind,Jack Harding,H,Georgia,SEC,Harry Mehre,L,0,26
+1937-10-02,Richmond,Southern,Glenn Thistlethwaite,A,Washington & Lee,Southern,Tex Tilson,L,0,6
+1937-10-16,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Military Institute,Southern,,L,7,21
+1937-10-22,Richmond,Southern,Glenn Thistlethwaite,A,Citadel,Southern,Tatum Gressette,L,0,26
+1937-10-29,Richmond,Southern,Glenn Thistlethwaite,A,Duquesne,Ind,Clipper Smith,L,0,24
+1937-11-06,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Tech,Southern,Henry Redd,W,12,7
+1937-11-25,Richmond,Southern,Glenn Thistlethwaite,H,William & Mary,Southern,,W,6,0
+1937-09-24,Oregon,PCC,Prink Callison,A,UCLA,PCC,William Spaulding,L,13,26
+1937-10-02,Oregon,PCC,Prink Callison,H,Stanford,PCC,Tiny Thornhill,W,7,6
+1937-10-09,Oregon,PCC,Prink Callison,A,Gonzaga,Ind,Mike Pecarovich,W,40,6
+1937-10-16,Oregon,PCC,Prink Callison,A,USC,PCC,Howard Jones,L,14,34
+1937-10-23,Oregon,PCC,Prink Callison,H,Oregon State,PCC,Lon Stiner,L,0,14
+1937-11-06,Oregon,PCC,Prink Callison,H,Washington State,PCC,O.E. Hollingbery,W,10,6
+1937-11-13,Oregon,PCC,Prink Callison,H,California,PCC,Stub Allison,L,0,26
+1937-11-20,Oregon,PCC,Prink Callison,A,Washington,PCC,James Phelan,L,0,14
+1937-12-04,Oregon,PCC,Prink Callison,A,Arizona,BIAA,Tex Oliver,L,6,20
+1937-10-09,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,Dick Harlow,L,7,34
+1937-10-16,Brown,Ind,DeOrmond McLaughry,H,Dartmouth,Ind,Red Blaik,L,0,41
+1937-10-23,Brown,Ind,DeOrmond McLaughry,A,Columbia,Ind,Lou Little,W,7,6
+1937-11-06,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Ducky Pond,L,0,19
+1937-11-13,Brown,Ind,DeOrmond McLaughry,H,Holy Cross,Ind,,L,0,7
+1937-09-25,Tennessee,SEC,Bob Neyland,H,Wake Forest,Southern,D.C. Walker,W,32,0
+1937-10-02,Tennessee,SEC,Bob Neyland,H,Virginia Tech,Southern,Henry Redd,W,27,0
+1937-10-09,Tennessee,SEC,Bob Neyland,A,Duke,Southern,Wallace Wade,T,0,0
+1937-10-16,Tennessee,SEC,Bob Neyland,H,Alabama,SEC,Frank Thomas,L,7,14
+1937-10-23,Tennessee,SEC,Bob Neyland,H,Sewanee,SEC,Heck Clark,W,32,0
+1937-10-30,Tennessee,SEC,Bob Neyland,H,Georgia,SEC,Harry Mehre,W,32,0
+1937-11-06,Tennessee,SEC,Bob Neyland,A,Auburn,SEC,Jack Meagher,L,7,20
+1937-11-13,Tennessee,SEC,Bob Neyland,H,Vanderbilt,SEC,Ray Morrison,L,7,13
+1937-11-25,Tennessee,SEC,Bob Neyland,A,Kentucky,SEC,C.A. Wynne,W,13,0
+1937-12-04,Tennessee,SEC,Bob Neyland,N,Ole Miss,SEC,Ed Walker,W,32,0
+1937-09-25,Oregon State,PCC,Lon Stiner,A,Idaho,PCC,Ted Bank,L,6,7
+1937-10-02,Oregon State,PCC,Lon Stiner,A,California,PCC,Stub Allison,L,6,24
+1937-10-09,Oregon State,PCC,Lon Stiner,A,Washington,PCC,James Phelan,W,6,3
+1937-10-16,Oregon State,PCC,Lon Stiner,H,UCLA,PCC,William Spaulding,T,7,7
+1937-10-23,Oregon State,PCC,Lon Stiner,A,Oregon,PCC,Prink Callison,W,14,0
+1937-10-30,Oregon State,PCC,Lon Stiner,A,Stanford,PCC,Tiny Thornhill,T,0,0
+1937-11-13,Oregon State,PCC,Lon Stiner,A,USC,PCC,Howard Jones,T,12,12
+1937-11-20,Oregon State,PCC,Lon Stiner,H,Washington State,PCC,O.E. Hollingbery,L,0,7
+1937-10-02,Alabama,SEC,Frank Thomas,H,Sewanee,SEC,Heck Clark,W,65,0
+1937-10-09,Alabama,SEC,Frank Thomas,H,South Carolina,Southern,Don McCallister,W,20,0
+1937-10-16,Alabama,SEC,Frank Thomas,A,Tennessee,SEC,Bob Neyland,W,14,7
+1937-10-23,Alabama,SEC,Frank Thomas,A,George Washington,Ind,James Pixlee,W,19,0
+1937-10-30,Alabama,SEC,Frank Thomas,H,Kentucky,SEC,C.A. Wynne,W,41,0
+1937-11-06,Alabama,SEC,Frank Thomas,A,Tulane,SEC,Red Dawson,W,9,6
+1937-11-13,Alabama,SEC,Frank Thomas,H,Georgia Tech,SEC,William Alexander,W,7,0
+1937-11-25,Alabama,SEC,Frank Thomas,A,Vanderbilt,SEC,Ray Morrison,W,9,7
+1938-01-01,Alabama,SEC,Frank Thomas,N,California,PCC,Stub Allison,L,0,13
+1937-10-02,Purdue,Western,Mal Elward,A,Ohio State,Western,Francis Schmidt,L,0,13
+1937-10-09,Purdue,Western,Mal Elward,H,Carnegie Mellon,Ind,William Kern,W,7,0
+1937-10-16,Purdue,Western,Mal Elward,A,Northwestern,Western,Pappy Waldorf,L,7,14
+1937-10-30,Purdue,Western,Mal Elward,H,Iowa,Western,Irl Tubbs,W,13,0
+1937-11-06,Purdue,Western,Mal Elward,A,Fordham,Ind,Jimmy Crowley,L,3,21
+1937-11-13,Purdue,Western,Mal Elward,A,Wisconsin,Western,Harry Stuhldreher,T,7,7
+1937-11-20,Purdue,Western,Mal Elward,A,Indiana,Western,Bo McMillin,W,13,7
+1937-10-02,Nebraska,Big 6,Biff Jones,H,Minnesota,Western,Bernie Bierman,W,14,9
+1937-10-09,Nebraska,Big 6,Biff Jones,A,Iowa State,Big 6,Jim Yeager,W,20,7
+1937-10-16,Nebraska,Big 6,Biff Jones,H,Oklahoma,Big 6,Tom Stidham,T,0,0
+1937-10-23,Nebraska,Big 6,Biff Jones,A,Missouri,Big 6,Don Faurot,W,7,0
+1937-10-30,Nebraska,Big 6,Biff Jones,H,Indiana,Western,Bo McMillin,W,7,0
+1937-11-06,Nebraska,Big 6,Biff Jones,H,Kansas,Big 6,Adrian Lindsey,T,13,13
+1937-11-13,Nebraska,Big 6,Biff Jones,A,Pitt,Ind,Jock Sutherland,L,7,13
+1937-11-20,Nebraska,Big 6,Biff Jones,H,Iowa,Western,Irl Tubbs,W,28,0
+1937-11-27,Nebraska,Big 6,Biff Jones,A,Kansas State,Big 6,Wesley Fry,W,3,0
+1937-10-02,West Virginia,Ind,Marshall Glenn,H,Pitt,Ind,Jock Sutherland,L,0,20
+1937-10-09,West Virginia,Ind,Marshall Glenn,N,Washington & Lee,Southern,Tex Tilson,W,6,0
+1937-11-06,West Virginia,Ind,Marshall Glenn,A,Georgetown,Ind,Jack Hagerty,T,6,6
+1937-11-25,West Virginia,Ind,Marshall Glenn,H,George Washington,Ind,James Pixlee,W,26,0
+1938-01-01,West Virginia,Ind,Marshall Glenn,N,Texas Tech,BIAA,Pete Cawthon,W,7,6
+1937-10-09,Harvard,Ind,Dick Harlow,H,Brown,Ind,DeOrmond McLaughry,W,34,7
+1937-10-16,Harvard,Ind,Dick Harlow,A,Navy,Ind,Hank Hardwick,T,0,0
+1937-10-23,Harvard,Ind,Dick Harlow,H,Dartmouth,Ind,Red Blaik,L,2,20
+1937-10-30,Harvard,Ind,Dick Harlow,A,Princeton,Ind,Fritz Crisler,W,34,6
+1937-11-06,Harvard,Ind,Dick Harlow,H,Army,Ind,Gar Davidson,L,6,7
+1937-11-13,Harvard,Ind,Dick Harlow,H,Davidson,Southern,Gene McEver,W,15,0
+1937-11-20,Harvard,Ind,Dick Harlow,H,Yale,Ind,Ducky Pond,W,13,6
+1937-10-02,Oklahoma State,MVC,Ted Cox,H,Creighton,MVC,Marchy Schwartz,W,16,13
+1937-10-09,Oklahoma State,MVC,Ted Cox,A,Arizona,BIAA,Tex Oliver,L,13,22
+1937-10-16,Oklahoma State,MVC,Ted Cox,A,Washburn,MVC,Elmer Holm,W,25,3
+1937-10-23,Oklahoma State,MVC,Ted Cox,A,Tulsa,MVC,Vic Hurt,L,0,27
+1937-10-30,Oklahoma State,MVC,Ted Cox,H,Texas Tech,BIAA,Pete Cawthon,L,6,14
+1937-11-06,Oklahoma State,MVC,Ted Cox,A,Washington (MO),MVC,Jimmy Conzelman,L,0,12
+1937-11-20,Oklahoma State,MVC,Ted Cox,A,Oklahoma,Big 6,Tom Stidham,L,0,16
+1937-11-27,Oklahoma State,MVC,Ted Cox,H,Centenary (LA),Ind,Curtis Player,L,0,19
+1937-10-02,Colorado,RMC,Bunny Oakes,H,Missouri,Big 6,Don Faurot,W,14,6
+1937-10-09,Colorado,RMC,Bunny Oakes,H,Utah State,RMC,,W,33,0
+1937-10-16,Colorado,RMC,Bunny Oakes,H,Brigham Young,RMC,Edwin Kimball,W,14,0
+1937-10-23,Colorado,RMC,Bunny Oakes,H,Colorado State,RMC,Harry Hughes,W,47,0
+1937-10-30,Colorado,RMC,Bunny Oakes,H,Colorado Mines,RMC,John Mason,W,54,0
+1937-11-06,Colorado,RMC,Bunny Oakes,A,Utah,RMC,Ike Armstrong,W,17,7
+1937-11-13,Colorado,RMC,Bunny Oakes,H,Colorado College,RMC,W.T. VandeGraaff,W,35,6
+1937-11-25,Colorado,RMC,Bunny Oakes,A,Denver,RMC,William Saunders,W,34,7
+1938-01-01,Colorado,RMC,Bunny Oakes,N,Rice,SWC,Jimmy Kitts,L,14,28
+1937-10-02,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,John Mason,L,0,7
+1937-10-09,Colorado State,RMC,Harry Hughes,A,Denver,RMC,William Saunders,L,0,22
+1937-10-16,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,Dutch Witte,L,0,7
+1937-10-23,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Bunny Oakes,L,0,47
+1937-10-30,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,L,0,7
+1937-11-13,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,L,0,45
+1937-11-20,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,W.T. VandeGraaff,W,6,0
+1937-11-27,Colorado State,RMC,Harry Hughes,A,Arizona,BIAA,Tex Oliver,L,0,47
+1937-10-02,Rice,SWC,Jimmy Kitts,A,Oklahoma,Big 6,Tom Stidham,L,0,6
+1937-10-09,Rice,SWC,Jimmy Kitts,H,LSU,SEC,Bernie Moore,L,0,13
+1937-10-16,Rice,SWC,Jimmy Kitts,H,Tulsa,MVC,Vic Hurt,T,0,0
+1937-10-23,Rice,SWC,Jimmy Kitts,A,Texas,SWC,Dana Bible,W,14,7
+1937-10-30,Rice,SWC,Jimmy Kitts,H,Auburn,SEC,Jack Meagher,W,13,7
+1937-11-06,Rice,SWC,Jimmy Kitts,H,Arkansas,SWC,Fred Thomsen,W,26,20
+1937-11-13,Rice,SWC,Jimmy Kitts,H,Texas A&M,SWC,Homer Norton,T,6,6
+1937-11-20,Rice,SWC,Jimmy Kitts,A,Texas Christian,SWC,Dutch Meyer,L,2,7
+1937-11-27,Rice,SWC,Jimmy Kitts,H,Baylor,SWC,Morley Jennings,W,13,7
+1937-12-04,Rice,SWC,Jimmy Kitts,A,SMU,SWC,Madison Bell,W,15,7
+1938-01-01,Rice,SWC,Jimmy Kitts,N,Colorado,RMC,Bunny Oakes,W,28,14
+1937-10-02,Texas A&M,SWC,Homer Norton,A,Manhattan,Ind,Chick Meehan,W,14,7
+1937-10-09,Texas A&M,SWC,Homer Norton,H,Mississippi State,SEC,Ralph Sasse,W,14,0
+1937-10-16,Texas A&M,SWC,Homer Norton,A,Texas Christian,SWC,Dutch Meyer,T,7,7
+1937-10-23,Texas A&M,SWC,Homer Norton,H,Baylor,SWC,Morley Jennings,L,0,13
+1937-10-30,Texas A&M,SWC,Homer Norton,A,Arkansas,SWC,Fred Thomsen,L,13,26
+1937-11-06,Texas A&M,SWC,Homer Norton,H,SMU,SWC,Madison Bell,W,14,0
+1937-11-13,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jimmy Kitts,T,6,6
+1937-11-25,Texas A&M,SWC,Homer Norton,H,Texas,SWC,Dana Bible,W,7,0
+1937-12-04,Texas A&M,SWC,Homer Norton,A,San Francisco,Ind,George Malley,W,42,0
+1937-09-18,Davidson,Southern,Gene McEver,N,North Carolina State,Southern,,L,2,6
+1937-10-02,Davidson,Southern,Gene McEver,H,Duke,Southern,Wallace Wade,L,6,34
+1937-10-09,Davidson,Southern,Gene McEver,A,Virginia Military Institute,Southern,,L,0,7
+1937-10-16,Davidson,Southern,Gene McEver,A,South Carolina,Southern,Don McCallister,L,7,12
+1937-10-30,Davidson,Southern,Gene McEver,H,Furman,Southern,,W,13,9
+1937-11-06,Davidson,Southern,Gene McEver,H,North Carolina,Southern,Raymond Wolf,L,0,26
+1937-11-13,Davidson,Southern,Gene McEver,A,Harvard,Ind,Dick Harlow,L,0,15
+1937-11-25,Davidson,Southern,Gene McEver,N,Wake Forest,Southern,D.C. Walker,L,7,19
+1937-09-25,Washington (MO),MVC,Jimmy Conzelman,A,Drake,MVC,Vee Green,L,2,32
+1937-10-09,Washington (MO),MVC,Jimmy Conzelman,H,SMU,SWC,Madison Bell,L,0,14
+1937-10-23,Washington (MO),MVC,Jimmy Conzelman,A,Army,Ind,Gar Davidson,L,7,47
+1937-11-06,Washington (MO),MVC,Jimmy Conzelman,H,Oklahoma State,MVC,Ted Cox,W,12,0
+1937-11-13,Washington (MO),MVC,Jimmy Conzelman,H,Tulsa,MVC,Vic Hurt,L,7,32
+1937-11-20,Washington (MO),MVC,Jimmy Conzelman,H,Missouri,Big 6,Don Faurot,L,0,3
+1937-11-27,Washington (MO),MVC,Jimmy Conzelman,A,Saint Louis,MVC,,W,6,0
+1937-10-02,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Harry Kipke,W,19,14
+1937-10-09,Michigan State,Ind,Charlie Bachman,A,Manhattan,Ind,Chick Meehan,L,0,3
+1937-10-16,Michigan State,Ind,Charlie Bachman,A,Missouri,Big 6,Don Faurot,W,2,0
+1937-10-23,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Paddy Driscoll,W,21,7
+1937-10-30,Michigan State,Ind,Charlie Bachman,H,Kansas,Big 6,Adrian Lindsey,W,16,0
+1937-11-06,Michigan State,Ind,Charlie Bachman,A,Temple,Ind,Pop Warner,W,13,6
+1937-11-13,Michigan State,Ind,Charlie Bachman,H,Carnegie Mellon,Ind,William Kern,W,13,6
+1937-11-27,Michigan State,Ind,Charlie Bachman,A,San Francisco,Ind,George Malley,W,14,0
+1938-01-01,Michigan State,Ind,Charlie Bachman,N,Auburn,SEC,Jack Meagher,L,0,6
+1937-10-02,Boston College,Ind,Gilmour Dobie,H,Kansas State,Big 6,Wesley Fry,W,21,7
+1937-10-12,Boston College,Ind,Gilmour Dobie,H,Temple,Ind,Pop Warner,T,0,0
+1937-10-23,Boston College,Ind,Gilmour Dobie,H,Detroit Mercy,Ind,Gus Dorais,L,0,14
+1937-10-30,Boston College,Ind,Gilmour Dobie,H,North Carolina State,Southern,,L,7,12
+1937-11-13,Boston College,Ind,Gilmour Dobie,H,Kentucky,SEC,C.A. Wynne,W,13,0
+1937-11-27,Boston College,Ind,Gilmour Dobie,N,Holy Cross,Ind,,L,0,20
+1937-10-02,Chicago,Western,Clark Shaughnessy,A,Vanderbilt,SEC,Ray Morrison,L,0,18
+1937-10-09,Chicago,Western,Clark Shaughnessy,H,Wisconsin,Western,Harry Stuhldreher,L,0,27
+1937-10-16,Chicago,Western,Clark Shaughnessy,H,Princeton,Ind,Fritz Crisler,L,7,16
+1937-10-30,Chicago,Western,Clark Shaughnessy,H,Ohio State,Western,Francis Schmidt,L,0,39
+1937-11-06,Chicago,Western,Clark Shaughnessy,A,Michigan,Western,Harry Kipke,L,12,13
+1937-11-20,Chicago,Western,Clark Shaughnessy,A,Illinois,Western,Robert Zuppke,L,0,21
+1937-10-02,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,Carl Snavely,L,7,40
+1937-10-16,Colgate,Ind,Andrew Kerr,H,Tulane,SEC,Red Dawson,L,6,7
+1937-10-23,Colgate,Ind,Andrew Kerr,H,Duke,Southern,Wallace Wade,L,0,13
+1937-10-30,Colgate,Ind,Andrew Kerr,A,New York University,Ind,Mal Stevens,L,7,14
+1937-11-06,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,,L,7,12
+1937-11-20,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,W,7,0
+1937-09-24,New Mexico State,BIAA,Gerald Hines,H,UTEP,BIAA,Mack Saxon,W,14,0
+1937-10-08,New Mexico State,BIAA,Gerald Hines,H,New Mexico,BIAA,Ted Shipkey,W,5,0
+1937-10-16,New Mexico State,BIAA,Gerald Hines,A,Northern Arizona,BIAA,Garrett Arbelbide,W,7,0
+1937-10-30,New Mexico State,BIAA,Gerald Hines,A,Arizona,BIAA,Tex Oliver,L,12,27
+1937-11-13,New Mexico State,BIAA,Gerald Hines,H,Western State,RMC,Paul Wright,W,33,6
+1937-11-25,New Mexico State,BIAA,Gerald Hines,H,Arizona State,BIAA,Rudy Lavik,W,14,0
+1937-10-01,Washburn,MVC,Elmer Holm,H,Kansas,Big 6,Adrian Lindsey,L,2,25
+1937-10-09,Washburn,MVC,Elmer Holm,A,Drake,MVC,Vee Green,L,0,25
+1937-10-16,Washburn,MVC,Elmer Holm,H,Oklahoma State,MVC,Ted Cox,L,3,25
+1937-10-29,Washburn,MVC,Elmer Holm,H,Colorado College,RMC,W.T. VandeGraaff,L,0,6
+1937-11-06,Washburn,MVC,Elmer Holm,A,Kansas State,Big 6,Wesley Fry,L,7,20
+1937-10-02,Minnesota,Western,Bernie Bierman,A,Nebraska,Big 6,Biff Jones,L,9,14
+1937-10-09,Minnesota,Western,Bernie Bierman,H,Indiana,Western,Bo McMillin,W,6,0
+1937-10-16,Minnesota,Western,Bernie Bierman,A,Michigan,Western,Harry Kipke,W,39,6
+1937-10-30,Minnesota,Western,Bernie Bierman,H,Notre Dame,Ind,Elmer Layden,L,6,7
+1937-11-06,Minnesota,Western,Bernie Bierman,A,Iowa,Western,Irl Tubbs,W,35,10
+1937-11-13,Minnesota,Western,Bernie Bierman,H,Northwestern,Western,Pappy Waldorf,W,7,0
+1937-11-20,Minnesota,Western,Bernie Bierman,H,Wisconsin,Western,Harry Stuhldreher,W,13,6
+1937-10-01,Ole Miss,SEC,Ed Walker,A,Temple,Ind,Pop Warner,T,0,0
+1937-10-09,Ole Miss,SEC,Ed Walker,H,Saint Louis,MVC,,W,21,0
+1937-10-16,Ole Miss,SEC,Ed Walker,A,LSU,SEC,Bernie Moore,L,0,13
+1937-10-30,Ole Miss,SEC,Ed Walker,A,Tulane,SEC,Red Dawson,L,7,14
+1937-11-05,Ole Miss,SEC,Ed Walker,A,George Washington,Ind,James Pixlee,W,27,6
+1937-11-13,Ole Miss,SEC,Ed Walker,N,Arkansas,SWC,Fred Thomsen,L,6,32
+1937-11-25,Ole Miss,SEC,Ed Walker,H,Mississippi State,SEC,Ralph Sasse,L,7,9
+1937-12-04,Ole Miss,SEC,Ed Walker,N,Tennessee,SEC,Bob Neyland,L,0,32
+1937-09-25,Duke,Southern,Wallace Wade,H,Virginia Tech,Southern,Henry Redd,W,25,0
+1937-10-02,Duke,Southern,Wallace Wade,A,Davidson,Southern,Gene McEver,W,34,6
+1937-10-09,Duke,Southern,Wallace Wade,H,Tennessee,SEC,Bob Neyland,T,0,0
+1937-10-16,Duke,Southern,Wallace Wade,A,Georgia Tech,SEC,William Alexander,W,20,19
+1937-10-23,Duke,Southern,Wallace Wade,A,Colgate,Ind,Andrew Kerr,W,13,0
+1937-10-30,Duke,Southern,Wallace Wade,A,Washington & Lee,Southern,Tex Tilson,W,43,0
+1937-11-06,Duke,Southern,Wallace Wade,H,Wake Forest,Southern,D.C. Walker,W,67,0
+1937-11-13,Duke,Southern,Wallace Wade,H,North Carolina,Southern,Raymond Wolf,L,6,14
+1937-11-20,Duke,Southern,Wallace Wade,A,North Carolina State,Southern,,W,20,7
+1937-11-27,Duke,Southern,Wallace Wade,H,Pitt,Ind,Jock Sutherland,L,0,10
+1937-10-02,Sewanee,SEC,Heck Clark,A,Alabama,SEC,Frank Thomas,L,0,65
+1937-10-16,Sewanee,SEC,Heck Clark,A,Florida,SEC,Josh Cody,L,0,21
+1937-10-23,Sewanee,SEC,Heck Clark,A,Tennessee,SEC,Bob Neyland,L,0,32
+1937-11-06,Sewanee,SEC,Heck Clark,A,Vanderbilt,SEC,Ray Morrison,L,0,41
+1937-11-12,Sewanee,SEC,Heck Clark,A,Mississippi State,SEC,Ralph Sasse,L,0,12
+1937-11-20,Sewanee,SEC,Heck Clark,A,Tulane,SEC,Red Dawson,L,7,33
+1937-10-10,San Francisco,Ind,George Malley,H,Santa Clara,Ind,Buck Shaw,L,0,13
+1937-10-16,San Francisco,Ind,George Malley,A,Montana,PCC,Doug Fessenden,L,7,13
+1937-10-24,San Francisco,Ind,George Malley,A,Gonzaga,Ind,Mike Pecarovich,W,7,0
+1937-10-31,San Francisco,Ind,George Malley,A,Loyola Marymount,Ind,Tom Lieb,W,6,0
+1937-11-06,San Francisco,Ind,George Malley,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,3
+1937-11-27,San Francisco,Ind,George Malley,H,Michigan State,Ind,Charlie Bachman,L,0,14
+1937-12-04,San Francisco,Ind,George Malley,H,Texas A&M,SWC,Homer Norton,L,0,42
+1937-09-25,Navy,Ind,Hank Hardwick,H,William & Mary,Southern,,W,45,0
+1937-10-02,Navy,Ind,Hank Hardwick,H,Citadel,Southern,Tatum Gressette,W,32,0
+1937-10-09,Navy,Ind,Hank Hardwick,H,Virginia,Ind,Frank Murray,W,40,13
+1937-10-16,Navy,Ind,Hank Hardwick,H,Harvard,Ind,Dick Harlow,T,0,0
+1937-10-23,Navy,Ind,Hank Hardwick,A,Notre Dame,Ind,Elmer Layden,L,7,9
+1937-10-30,Navy,Ind,Hank Hardwick,A,Pennsylvania,Ind,Harvey Harman,L,7,14
+1937-11-06,Navy,Ind,Hank Hardwick,H,Columbia,Ind,Lou Little,W,13,6
+1937-11-20,Navy,Ind,Hank Hardwick,A,Princeton,Ind,Fritz Crisler,L,6,26
+1937-11-27,Navy,Ind,Hank Hardwick,N,Army,Ind,Gar Davidson,L,0,6
+1937-09-18,Texas Tech,BIAA,Pete Cawthon,H,Northern Arizona,BIAA,Garrett Arbelbide,W,6,0
+1937-09-25,Texas Tech,BIAA,Pete Cawthon,A,Texas,SWC,Dana Bible,L,12,25
+1937-10-02,Texas Tech,BIAA,Pete Cawthon,H,Montana,PCC,Doug Fessenden,L,6,13
+1937-10-09,Texas Tech,BIAA,Pete Cawthon,A,Detroit Mercy,Ind,Gus Dorais,L,0,34
+1937-10-16,Texas Tech,BIAA,Pete Cawthon,H,Arizona,BIAA,Tex Oliver,W,20,0
+1937-10-23,Texas Tech,BIAA,Pete Cawthon,H,New Mexico,BIAA,Ted Shipkey,W,27,0
+1937-10-30,Texas Tech,BIAA,Pete Cawthon,A,Oklahoma State,MVC,Ted Cox,W,14,6
+1937-11-11,Texas Tech,BIAA,Pete Cawthon,H,Duquesne,Ind,Clipper Smith,W,13,0
+1937-11-20,Texas Tech,BIAA,Pete Cawthon,A,Centenary (LA),Ind,Curtis Player,W,7,2
+1937-11-25,Texas Tech,BIAA,Pete Cawthon,H,Creighton,MVC,Marchy Schwartz,W,27,0
+1938-01-01,Texas Tech,BIAA,Pete Cawthon,N,West Virginia,Ind,Marshall Glenn,L,6,7
+1937-09-25,Tulane,SEC,Red Dawson,H,Clemson,Southern,Jess Neely,W,7,0
+1937-10-05,Tulane,SEC,Red Dawson,H,Auburn,SEC,Jack Meagher,T,0,0
+1937-10-16,Tulane,SEC,Red Dawson,A,Colgate,Ind,Andrew Kerr,W,7,6
+1937-10-23,Tulane,SEC,Red Dawson,A,North Carolina,Southern,Raymond Wolf,L,0,13
+1937-10-30,Tulane,SEC,Red Dawson,H,Ole Miss,SEC,Ed Walker,W,14,7
+1937-11-06,Tulane,SEC,Red Dawson,H,Alabama,SEC,Frank Thomas,L,6,9
+1937-11-13,Tulane,SEC,Red Dawson,A,Georgia,SEC,Harry Mehre,L,6,7
+1937-11-20,Tulane,SEC,Red Dawson,H,Sewanee,SEC,Heck Clark,W,33,7
+1937-11-27,Tulane,SEC,Red Dawson,H,LSU,SEC,Bernie Moore,L,7,20
+1937-09-25,Cornell,Ind,Carl Snavely,H,Penn State,Ind,Bob Higgins,W,26,19
+1937-10-02,Cornell,Ind,Carl Snavely,H,Colgate,Ind,Andrew Kerr,W,40,7
+1937-10-09,Cornell,Ind,Carl Snavely,A,Princeton,Ind,Fritz Crisler,W,20,7
+1937-10-16,Cornell,Ind,Carl Snavely,H,Syracuse,Ind,Ossie Solem,L,6,14
+1937-10-23,Cornell,Ind,Carl Snavely,A,Yale,Ind,Ducky Pond,L,0,9
+1937-10-30,Cornell,Ind,Carl Snavely,H,Columbia,Ind,Lou Little,W,14,0
+1937-11-13,Cornell,Ind,Carl Snavely,A,Dartmouth,Ind,Red Blaik,T,6,6
+1937-11-25,Cornell,Ind,Carl Snavely,A,Pennsylvania,Ind,Harvey Harman,W,34,20
+1937-09-25,Ohio State,Western,Francis Schmidt,H,Texas Christian,SWC,Dutch Meyer,W,14,0
+1937-10-02,Ohio State,Western,Francis Schmidt,H,Purdue,Western,Mal Elward,W,13,0
+1937-10-09,Ohio State,Western,Francis Schmidt,A,USC,PCC,Howard Jones,L,12,13
+1937-10-23,Ohio State,Western,Francis Schmidt,H,Northwestern,Western,Pappy Waldorf,W,7,0
+1937-10-30,Ohio State,Western,Francis Schmidt,A,Chicago,Western,Clark Shaughnessy,W,39,0
+1937-11-06,Ohio State,Western,Francis Schmidt,H,Indiana,Western,Bo McMillin,L,0,10
+1937-11-13,Ohio State,Western,Francis Schmidt,H,Illinois,Western,Robert Zuppke,W,19,0
+1937-11-20,Ohio State,Western,Francis Schmidt,A,Michigan,Western,Harry Kipke,W,21,0
+1937-09-25,Drake,MVC,Vee Green,H,Washington (MO),MVC,Jimmy Conzelman,W,32,2
+1937-10-02,Drake,MVC,Vee Green,A,Notre Dame,Ind,Elmer Layden,L,0,21
+1937-10-09,Drake,MVC,Vee Green,H,Washburn,MVC,Elmer Holm,W,25,0
+1937-10-15,Drake,MVC,Vee Green,A,Creighton,MVC,Marchy Schwartz,W,9,0
+1937-10-23,Drake,MVC,Vee Green,H,Iowa State,Big 6,Jim Yeager,W,30,0
+1937-11-06,Drake,MVC,Vee Green,A,Tulsa,MVC,Vic Hurt,L,9,41
+1937-11-26,Drake,MVC,Vee Green,A,Miami (FL),Ind,Jack Harding,W,7,0

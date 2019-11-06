@@ -1,0 +1,767 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1945-09-29,North Carolina,Southern,Carl Snavely,H,Georgia Tech,SEC,Bobby Dodd,L,14,20
+1945-10-06,North Carolina,Southern,Carl Snavely,A,Virginia Tech,Southern,Henry McEver,W,14,0
+1945-10-13,North Carolina,Southern,Carl Snavely,A,Pennsylvania,Ind,George Munger,L,0,49
+1945-11-03,North Carolina,Southern,Carl Snavely,A,Tennessee,SEC,John Barnhill,L,6,20
+1945-11-10,North Carolina,Southern,Carl Snavely,N,William & Mary,Southern,Rube McCray,W,6,0
+1945-11-17,North Carolina,Southern,Carl Snavely,H,Wake Forest,Southern,D.C. Walker,L,13,14
+1945-11-24,North Carolina,Southern,Carl Snavely,A,Duke,Southern,,L,7,14
+1945-12-01,North Carolina,Southern,Carl Snavely,H,Virginia,Ind,Frank Murray,W,27,18
+1945-09-22,Indiana,Western,Bo McMillin,A,Michigan,Western,Fritz Crisler,W,13,7
+1945-09-29,Indiana,Western,Bo McMillin,A,Northwestern,Western,Pappy Waldorf,T,7,7
+1945-10-06,Indiana,Western,Bo McMillin,A,Illinois,Western,Ray Eliot,W,6,0
+1945-10-13,Indiana,Western,Bo McMillin,H,Nebraska,Big 6,Potsy Clark,W,54,14
+1945-10-20,Indiana,Western,Bo McMillin,A,Iowa,Western,Clem Crowe,W,52,20
+1945-10-27,Indiana,Western,Bo McMillin,H,Tulsa,MVC,Henry Frnka,W,7,2
+1945-11-10,Indiana,Western,Bo McMillin,A,Minnesota,Western,Bernie Bierman,W,49,0
+1945-11-17,Indiana,Western,Bo McMillin,A,Pitt,Ind,Clark Shaughnessy,W,19,0
+1945-11-24,Indiana,Western,Bo McMillin,H,Purdue,Western,Cecil Isbell,W,26,0
+1945-09-22,Iowa State,Big 6,Mike Michalske,A,Northwestern,Western,Pappy Waldorf,L,6,18
+1945-10-06,Iowa State,Big 6,Mike Michalske,A,Kansas,Big 6,Henry Shenk,T,13,13
+1945-10-13,Iowa State,Big 6,Mike Michalske,H,Missouri,Big 6,Chauncey Simpson,L,7,13
+1945-10-20,Iowa State,Big 6,Mike Michalske,H,Nebraska,Big 6,Potsy Clark,W,27,7
+1945-11-03,Iowa State,Big 6,Mike Michalske,H,Kansas State,Big 6,Lud Fiser,W,40,13
+1945-11-10,Iowa State,Big 6,Mike Michalske,A,Oklahoma,Big 6,Snorter Luster,L,7,14
+1945-11-17,Iowa State,Big 6,Mike Michalske,A,Drake,MVC,Vee Green,W,8,6
+1945-10-06,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Frank Potts,L,13,18
+1945-10-12,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,L,7,21
+1945-10-20,Utah,MSAC,Ike Armstrong,H,Oklahoma State,MVC,Jim Lookabaugh,L,6,46
+1945-10-27,Utah,MSAC,Ike Armstrong,A,Colorado State,MSAC,Julius Wagner,W,28,0
+1945-11-03,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Cac Hubbard,W,33,21
+1945-11-10,Utah,MSAC,Ike Armstrong,A,New Mexico,BIAA,Willis Barnes,W,21,20
+1945-11-22,Utah,MSAC,Ike Armstrong,H,Utah State,MSAC,E. Lowell Romney,W,24,6
+1945-09-22,Wichita State,MVC,Mel Binford,A,Tulsa,MVC,Henry Frnka,L,0,61
+1945-09-29,Wichita State,MVC,Mel Binford,A,Kansas State,Big 6,Lud Fiser,L,6,13
+1945-10-27,Wichita State,MVC,Mel Binford,H,Kansas,Big 6,Henry Shenk,L,0,13
+1945-11-22,Wichita State,MVC,Mel Binford,H,Drake,MVC,Vee Green,W,19,13
+1945-09-22,Villanova,Ind,Jordan Olivar,A,Bucknell,Ind,Ellwood Ludwig,W,19,7
+1945-09-29,Villanova,Ind,Jordan Olivar,A,Navy,Ind,Oscar Hagberg,L,0,49
+1945-10-06,Villanova,Ind,Jordan Olivar,N,Marquette,Ind,Tom Stidham,W,6,0
+1945-10-13,Villanova,Ind,Jordan Olivar,A,Holy Cross,Ind,John DaGrosa,L,7,26
+1945-10-21,Villanova,Ind,Jordan Olivar,H,Detroit Mercy,Ind,Chuck Baer,W,14,0
+1945-10-27,Villanova,Ind,Jordan Olivar,A,Tennessee,SEC,John Barnhill,L,2,33
+1945-11-03,Villanova,Ind,Jordan Olivar,A,Army,Ind,Red Blaik,L,0,54
+1945-11-10,Villanova,Ind,Jordan Olivar,H,Boston College,Ind,Moody Sarno,W,41,0
+1945-09-24,Syracuse,Ind,Ossie Solem,H,Cornell,Ind,,L,14,26
+1945-09-28,Syracuse,Ind,Ossie Solem,A,Temple,Ind,Ray Morrison,L,6,7
+1945-10-06,Syracuse,Ind,Ossie Solem,A,Columbia,Ind,Lou Little,L,0,32
+1945-10-12,Syracuse,Ind,Ossie Solem,H,West Virginia,Ind,Rat Rogers,W,12,0
+1945-10-27,Syracuse,Ind,Ossie Solem,H,Dartmouth,Ind,,L,0,8
+1945-11-03,Syracuse,Ind,Ossie Solem,A,Penn State,Ind,Bob Higgins,L,0,26
+1945-11-17,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,L,6,7
+1945-10-06,Penn State,Ind,Bob Higgins,H,Colgate,Ind,Andrew Kerr,W,27,7
+1945-10-13,Penn State,Ind,Bob Higgins,A,Navy,Ind,Oscar Hagberg,L,0,28
+1945-10-20,Penn State,Ind,Bob Higgins,A,Bucknell,Ind,Ellwood Ludwig,W,46,7
+1945-11-03,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Ossie Solem,W,26,0
+1945-11-10,Penn State,Ind,Bob Higgins,H,Temple,Ind,Ray Morrison,W,27,0
+1945-11-17,Penn State,Ind,Bob Higgins,A,Michigan State,Ind,Charlie Bachman,L,0,33
+1945-11-24,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Clark Shaughnessy,L,0,7
+1945-10-06,Princeton,Ind,,H,Lafayette,Ind,,T,7,7
+1945-10-20,Princeton,Ind,,A,Cornell,Ind,,W,14,6
+1945-11-03,Princeton,Ind,,A,Pennsylvania,Ind,George Munger,L,0,28
+1945-11-10,Princeton,Ind,,H,Dartmouth,Ind,,T,13,13
+1945-11-17,Princeton,Ind,,H,Columbia,Ind,Lou Little,L,7,32
+1945-11-24,Princeton,Ind,,H,Yale,Ind,Howard Odell,L,14,20
+1945-10-06,Vanderbilt,SEC,Doby Bartling,H,Ole Miss,SEC,Harry Mehre,L,7,14
+1945-10-13,Vanderbilt,SEC,Doby Bartling,A,Florida,SEC,Tom Lieb,W,7,0
+1945-10-20,Vanderbilt,SEC,Doby Bartling,H,Kentucky,SEC,Bernie Shively,W,19,6
+1945-10-27,Vanderbilt,SEC,Doby Bartling,A,LSU,SEC,Bernie Moore,L,7,39
+1945-11-03,Vanderbilt,SEC,Doby Bartling,H,Virginia Military Institute,Southern,,L,13,27
+1945-11-10,Vanderbilt,SEC,Doby Bartling,H,Chattanooga,Ind,Andrew Moore,L,6,13
+1945-11-17,Vanderbilt,SEC,Doby Bartling,H,Alabama,SEC,Frank Thomas,L,0,71
+1945-12-01,Vanderbilt,SEC,Doby Bartling,A,Tennessee,SEC,John Barnhill,L,0,45
+1945-09-22,Colorado College,Ind,Harold White,H,Denver,MSAC,Cac Hubbard,W,12,0
+1945-09-29,Colorado College,Ind,Harold White,H,Colorado,MSAC,Frank Potts,L,0,13
+1945-10-13,Colorado College,Ind,Harold White,H,New Mexico,BIAA,Willis Barnes,L,4,6
+1945-10-20,Colorado College,Ind,Harold White,A,Colorado,MSAC,Frank Potts,L,0,31
+1945-11-17,Colorado College,Ind,Harold White,A,West Texas A&M,BIAA,Gus Miller,W,20,19
+1945-11-24,Colorado College,Ind,Harold White,H,Colorado State,MSAC,Julius Wagner,T,7,7
+1945-09-21,Kentucky,SEC,Bernie Shively,A,Ole Miss,SEC,Harry Mehre,L,7,21
+1945-10-06,Kentucky,SEC,Bernie Shively,A,Michigan State,Ind,Charlie Bachman,L,6,7
+1945-10-13,Kentucky,SEC,Bernie Shively,H,Georgia,SEC,Wallace Butts,L,6,48
+1945-10-20,Kentucky,SEC,Bernie Shively,A,Vanderbilt,SEC,Doby Bartling,L,6,19
+1945-11-03,Kentucky,SEC,Bernie Shively,H,Alabama,SEC,Frank Thomas,L,19,60
+1945-11-10,Kentucky,SEC,Bernie Shively,A,West Virginia,Ind,Rat Rogers,W,19,6
+1945-11-17,Kentucky,SEC,Bernie Shively,H,Marquette,Ind,Tom Stidham,L,13,19
+1945-11-24,Kentucky,SEC,Bernie Shively,H,Tennessee,SEC,John Barnhill,L,0,14
+1945-09-22,California,PCC,Buck Shaw,H,Saint Mary's (CA),Ind,James Phelan,L,13,20
+1945-09-29,California,PCC,Buck Shaw,H,USC,PCC,Jeff Cravath,L,2,13
+1945-10-06,California,PCC,Buck Shaw,H,Washington,PCC,Ralph Welch,W,27,14
+1945-10-13,California,PCC,Buck Shaw,A,UCLA,PCC,Bert LaBrucherie,L,0,13
+1945-11-03,California,PCC,Buck Shaw,H,Washington State,PCC,Phil Sarboe,T,7,7
+1945-11-10,California,PCC,Buck Shaw,A,USC,PCC,Jeff Cravath,L,0,14
+1945-11-17,California,PCC,Buck Shaw,H,Oregon,PCC,Tex Oliver,L,13,20
+1945-11-24,California,PCC,Buck Shaw,H,UCLA,PCC,Bert LaBrucherie,W,6,0
+1945-09-29,Florida,SEC,Tom Lieb,H,Ole Miss,SEC,Harry Mehre,W,26,13
+1945-10-06,Florida,SEC,Tom Lieb,A,Tulane,SEC,Claude Simons,T,6,6
+1945-10-13,Florida,SEC,Tom Lieb,H,Vanderbilt,SEC,Doby Bartling,L,0,7
+1945-10-19,Florida,SEC,Tom Lieb,A,Miami (FL),Ind,Jack Harding,L,6,7
+1945-11-03,Florida,SEC,Tom Lieb,A,Auburn,SEC,Carl Voyles,L,0,19
+1945-11-10,Florida,SEC,Tom Lieb,N,Georgia,SEC,Wallace Butts,L,0,34
+1945-11-17,Florida,SEC,Tom Lieb,H,Presbyterian,Ind,Lonnie McMillan,W,41,0
+1945-09-22,Presbyterian,Ind,Lonnie McMillan,A,Clemson,Southern,Frank Howard,L,0,76
+1945-09-29,Presbyterian,Ind,Lonnie McMillan,A,South Carolina,Southern,Johnnie McMillan,L,0,40
+1945-11-03,Presbyterian,Ind,Lonnie McMillan,A,Wake Forest,Southern,D.C. Walker,L,0,53
+1945-11-17,Presbyterian,Ind,Lonnie McMillan,A,Florida,SEC,Tom Lieb,L,0,41
+1945-09-29,Washington State,PCC,Phil Sarboe,A,Idaho,PCC,Babe Brown,W,43,12
+1945-10-06,Washington State,PCC,Phil Sarboe,H,Oregon State,PCC,Lon Stiner,W,33,0
+1945-10-13,Washington State,PCC,Phil Sarboe,A,Washington,PCC,Ralph Welch,L,0,6
+1945-10-20,Washington State,PCC,Phil Sarboe,A,Oregon,PCC,Tex Oliver,L,13,26
+1945-10-27,Washington State,PCC,Phil Sarboe,A,Idaho,PCC,Babe Brown,W,21,0
+1945-11-03,Washington State,PCC,Phil Sarboe,A,California,PCC,Buck Shaw,T,7,7
+1945-11-10,Washington State,PCC,Phil Sarboe,H,Oregon,PCC,Tex Oliver,W,20,13
+1945-11-17,Washington State,PCC,Phil Sarboe,A,Oregon State,PCC,Lon Stiner,W,13,6
+1945-11-24,Washington State,PCC,Phil Sarboe,H,Washington,PCC,Ralph Welch,W,7,0
+1945-09-22,Illinois,Western,Ray Eliot,H,Pitt,Ind,Clark Shaughnessy,W,23,6
+1945-09-29,Illinois,Western,Ray Eliot,A,Notre Dame,Ind,Hugh Devore,L,0,7
+1945-10-06,Illinois,Western,Ray Eliot,H,Indiana,Western,Bo McMillin,L,0,6
+1945-10-20,Illinois,Western,Ray Eliot,A,Wisconsin,Western,Harry Stuhldreher,T,7,7
+1945-10-27,Illinois,Western,Ray Eliot,H,Michigan,Western,Fritz Crisler,L,0,19
+1945-11-03,Illinois,Western,Ray Eliot,H,Great Lakes Navy,Ind,,L,6,12
+1945-11-10,Illinois,Western,Ray Eliot,H,Iowa,Western,Clem Crowe,W,48,7
+1945-11-17,Illinois,Western,Ray Eliot,A,Ohio State,Western,Carroll Widdoes,L,2,27
+1945-11-24,Illinois,Western,Ray Eliot,A,Northwestern,Western,Pappy Waldorf,L,7,13
+1945-09-22,Baylor,SWC,Frank Kimbrough,H,West Texas A&M,BIAA,Gus Miller,W,32,0
+1945-09-29,Baylor,SWC,Frank Kimbrough,H,Texas Christian,SWC,Dutch Meyer,L,6,7
+1945-10-13,Baylor,SWC,Frank Kimbrough,H,Arkansas,SWC,Glen Rose,W,23,13
+1945-10-20,Baylor,SWC,Frank Kimbrough,A,Texas Tech,BIAA,,T,7,7
+1945-10-27,Baylor,SWC,Frank Kimbrough,A,Texas A&M,SWC,Homer Norton,L,13,19
+1945-11-10,Baylor,SWC,Frank Kimbrough,A,Texas,SWC,Dana Bible,L,14,21
+1945-11-17,Baylor,SWC,Frank Kimbrough,H,Tulsa,MVC,Henry Frnka,L,7,26
+1945-11-24,Baylor,SWC,Frank Kimbrough,A,SMU,SWC,Madison Bell,L,0,34
+1945-12-01,Baylor,SWC,Frank Kimbrough,A,Rice,SWC,Jess Neely,W,17,14
+1945-10-06,SMU,SWC,Madison Bell,H,Missouri,Big 6,Chauncey Simpson,L,7,10
+1945-10-12,SMU,SWC,Madison Bell,A,Oklahoma State,MVC,Jim Lookabaugh,L,12,26
+1945-10-20,SMU,SWC,Madison Bell,H,Rice,SWC,Jess Neely,W,21,18
+1945-10-27,SMU,SWC,Madison Bell,A,Tulane,SEC,Claude Simons,L,7,19
+1945-11-03,SMU,SWC,Madison Bell,H,Texas,SWC,Dana Bible,L,7,12
+1945-11-10,SMU,SWC,Madison Bell,A,Texas A&M,SWC,Homer Norton,L,0,3
+1945-11-17,SMU,SWC,Madison Bell,H,Arkansas,SWC,Glen Rose,W,21,0
+1945-11-24,SMU,SWC,Madison Bell,H,Baylor,SWC,Frank Kimbrough,W,34,0
+1945-12-01,SMU,SWC,Madison Bell,A,Texas Christian,SWC,Dutch Meyer,W,34,0
+1945-09-29,Georgia,SEC,Wallace Butts,H,Clemson,Southern,Frank Howard,W,20,0
+1945-10-05,Georgia,SEC,Wallace Butts,A,Miami (FL),Ind,Jack Harding,W,27,21
+1945-10-13,Georgia,SEC,Wallace Butts,A,Kentucky,SEC,Bernie Shively,W,48,6
+1945-10-20,Georgia,SEC,Wallace Butts,H,LSU,SEC,Bernie Moore,L,0,32
+1945-10-27,Georgia,SEC,Wallace Butts,A,Alabama,SEC,Frank Thomas,L,14,28
+1945-11-04,Georgia,SEC,Wallace Butts,A,Chattanooga,Ind,Andrew Moore,W,34,7
+1945-11-10,Georgia,SEC,Wallace Butts,N,Florida,SEC,Tom Lieb,W,34,0
+1945-11-17,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Carl Voyles,W,35,0
+1945-12-01,Georgia,SEC,Wallace Butts,A,Georgia Tech,SEC,Bobby Dodd,W,33,0
+1946-01-01,Georgia,SEC,Wallace Butts,N,Tulsa,MVC,Henry Frnka,W,20,6
+1945-10-06,Maryland,Southern,Bear Bryant,A,Richmond,Southern,George Hope,W,21,0
+1945-10-13,Maryland,Southern,Bear Bryant,H,Merchant Marine,Ind,,W,22,6
+1945-10-20,Maryland,Southern,Bear Bryant,A,Virginia Tech,Southern,Henry McEver,L,13,21
+1945-10-27,Maryland,Southern,Bear Bryant,A,West Virginia,Ind,Rat Rogers,T,13,13
+1945-11-03,Maryland,Southern,Bear Bryant,H,William & Mary,Southern,Rube McCray,L,14,33
+1945-11-10,Maryland,Southern,Bear Bryant,H,Virginia Military Institute,Southern,,W,38,0
+1945-11-24,Maryland,Southern,Bear Bryant,N,Virginia,Ind,Frank Murray,W,19,13
+1945-12-01,Maryland,Southern,Bear Bryant,A,South Carolina,Southern,Johnnie McMillan,W,19,13
+1945-09-22,Virginia,Ind,Frank Murray,H,Coast Guard,Ind,Johnny Merriman,W,39,0
+1945-09-29,Virginia,Ind,Frank Murray,N,North Carolina State,Southern,Beattie Feathers,W,26,6
+1945-10-06,Virginia,Ind,Frank Murray,N,Virginia Military Institute,Southern,,W,40,7
+1945-10-27,Virginia,Ind,Frank Murray,N,Virginia Tech,Southern,Henry McEver,W,31,13
+1945-11-03,Virginia,Ind,Frank Murray,N,West Virginia,Ind,Rat Rogers,W,13,7
+1945-11-11,Virginia,Ind,Frank Murray,H,Richmond,Southern,George Hope,W,45,0
+1945-11-24,Virginia,Ind,Frank Murray,N,Maryland,Southern,Bear Bryant,L,13,19
+1945-12-01,Virginia,Ind,Frank Murray,A,North Carolina,Southern,Carl Snavely,L,18,27
+1945-09-29,Idaho,PCC,Babe Brown,H,Washington State,PCC,Phil Sarboe,L,12,43
+1945-10-06,Idaho,PCC,Babe Brown,A,Oregon,PCC,Tex Oliver,L,7,33
+1945-10-27,Idaho,PCC,Babe Brown,H,Washington State,PCC,Phil Sarboe,L,0,21
+1945-11-03,Idaho,PCC,Babe Brown,A,Oregon State,PCC,Lon Stiner,L,0,34
+1945-11-17,Idaho,PCC,Babe Brown,A,Washington,PCC,Ralph Welch,L,0,12
+1945-09-29,Oklahoma,Big 6,Snorter Luster,A,Nebraska,Big 6,Potsy Clark,W,20,0
+1945-10-06,Oklahoma,Big 6,Snorter Luster,H,Texas A&M,SWC,Homer Norton,L,14,19
+1945-10-13,Oklahoma,Big 6,Snorter Luster,N,Texas,SWC,Dana Bible,L,7,12
+1945-10-20,Oklahoma,Big 6,Snorter Luster,H,Kansas,Big 6,Henry Shenk,W,39,7
+1945-10-27,Oklahoma,Big 6,Snorter Luster,A,Kansas State,Big 6,Lud Fiser,W,41,13
+1945-11-03,Oklahoma,Big 6,Snorter Luster,H,Texas Christian,SWC,Dutch Meyer,L,7,13
+1945-11-10,Oklahoma,Big 6,Snorter Luster,H,Iowa State,Big 6,Mike Michalske,W,14,7
+1945-11-17,Oklahoma,Big 6,Snorter Luster,A,Missouri,Big 6,Chauncey Simpson,L,6,14
+1945-11-24,Oklahoma,Big 6,Snorter Luster,H,Oklahoma State,MVC,Jim Lookabaugh,L,0,47
+1945-10-06,Virginia Tech,Southern,Henry McEver,H,North Carolina,Southern,Carl Snavely,L,0,14
+1945-10-13,Virginia Tech,Southern,Henry McEver,N,William & Mary,Southern,Rube McCray,L,0,38
+1945-10-20,Virginia Tech,Southern,Henry McEver,H,Maryland,Southern,Bear Bryant,W,21,13
+1945-10-27,Virginia Tech,Southern,Henry McEver,N,Virginia,Ind,Frank Murray,L,13,31
+1945-11-03,Virginia Tech,Southern,Henry McEver,A,North Carolina State,Southern,Beattie Feathers,L,0,6
+1945-11-10,Virginia Tech,Southern,Henry McEver,A,Clemson,Southern,Frank Howard,L,0,35
+1945-11-17,Virginia Tech,Southern,Henry McEver,H,Richmond,Southern,George Hope,W,44,6
+1945-11-22,Virginia Tech,Southern,Henry McEver,N,Virginia Military Institute,Southern,,L,0,7
+1945-09-29,Arkansas,SWC,Glen Rose,H,Oklahoma State,MVC,Jim Lookabaugh,L,14,19
+1945-10-06,Arkansas,SWC,Glen Rose,H,Texas Christian,SWC,Dutch Meyer,W,27,14
+1945-10-13,Arkansas,SWC,Glen Rose,A,Baylor,SWC,Frank Kimbrough,L,13,23
+1945-10-20,Arkansas,SWC,Glen Rose,H,Texas,SWC,Dana Bible,L,7,34
+1945-10-27,Arkansas,SWC,Glen Rose,N,Ole Miss,SEC,Harry Mehre,W,19,0
+1945-11-03,Arkansas,SWC,Glen Rose,H,Texas A&M,SWC,Homer Norton,L,0,34
+1945-11-10,Arkansas,SWC,Glen Rose,A,Rice,SWC,Jess Neely,L,7,26
+1945-11-17,Arkansas,SWC,Glen Rose,A,SMU,SWC,Madison Bell,L,0,21
+1945-11-23,Arkansas,SWC,Glen Rose,A,Tulsa,MVC,Henry Frnka,L,13,45
+1945-09-22,Clemson,Southern,Frank Howard,H,Presbyterian,Ind,Lonnie McMillan,W,76,0
+1945-09-29,Clemson,Southern,Frank Howard,A,Georgia,SEC,Wallace Butts,L,0,20
+1945-10-06,Clemson,Southern,Frank Howard,A,North Carolina State,Southern,Beattie Feathers,W,13,0
+1945-10-25,Clemson,Southern,Frank Howard,A,South Carolina,Southern,Johnnie McMillan,T,0,0
+1945-11-02,Clemson,Southern,Frank Howard,A,Miami (FL),Ind,Jack Harding,L,6,7
+1945-11-10,Clemson,Southern,Frank Howard,H,Virginia Tech,Southern,Henry McEver,W,35,0
+1945-11-17,Clemson,Southern,Frank Howard,A,Tulane,SEC,Claude Simons,W,47,20
+1945-11-24,Clemson,Southern,Frank Howard,A,Georgia Tech,SEC,Bobby Dodd,W,21,7
+1945-12-01,Clemson,Southern,Frank Howard,H,Wake Forest,Southern,D.C. Walker,L,6,13
+1945-09-22,South Carolina,Southern,Johnnie McMillan,A,Duke,Southern,,L,0,60
+1945-09-29,South Carolina,Southern,Johnnie McMillan,H,Presbyterian,Ind,Lonnie McMillan,W,40,0
+1945-10-13,South Carolina,Southern,Johnnie McMillan,A,Alabama,SEC,Frank Thomas,L,0,55
+1945-10-25,South Carolina,Southern,Johnnie McMillan,H,Clemson,Southern,Frank Howard,T,0,0
+1945-11-09,South Carolina,Southern,Johnnie McMillan,A,Miami (FL),Ind,Jack Harding,T,13,13
+1945-11-22,South Carolina,Southern,Johnnie McMillan,N,Wake Forest,Southern,D.C. Walker,T,13,13
+1945-12-01,South Carolina,Southern,Johnnie McMillan,H,Maryland,Southern,Bear Bryant,L,13,19
+1946-01-01,South Carolina,Southern,Johnnie McMillan,N,Wake Forest,Southern,D.C. Walker,L,14,26
+1945-09-29,Washington,PCC,Ralph Welch,H,Oregon,PCC,Tex Oliver,W,20,6
+1945-10-06,Washington,PCC,Ralph Welch,A,California,PCC,Buck Shaw,L,14,27
+1945-10-13,Washington,PCC,Ralph Welch,H,Washington State,PCC,Phil Sarboe,W,6,0
+1945-10-20,Washington,PCC,Ralph Welch,A,Oregon State,PCC,Lon Stiner,W,13,0
+1945-10-27,Washington,PCC,Ralph Welch,H,USC,PCC,Jeff Cravath,W,13,7
+1945-11-03,Washington,PCC,Ralph Welch,A,Oregon,PCC,Tex Oliver,W,7,0
+1945-11-10,Washington,PCC,Ralph Welch,H,Oregon State,PCC,Lon Stiner,L,6,7
+1945-11-17,Washington,PCC,Ralph Welch,H,Idaho,PCC,Babe Brown,W,12,0
+1945-11-24,Washington,PCC,Ralph Welch,A,Washington State,PCC,Phil Sarboe,L,0,7
+1945-09-29,Holy Cross,Ind,John DaGrosa,A,Dartmouth,Ind,,W,13,6
+1945-10-06,Holy Cross,Ind,John DaGrosa,A,Yale,Ind,Howard Odell,W,21,0
+1945-10-13,Holy Cross,Ind,John DaGrosa,H,Villanova,Ind,Jordan Olivar,W,26,7
+1945-10-20,Holy Cross,Ind,John DaGrosa,A,Brown,Ind,Rip Engle,W,25,0
+1945-10-27,Holy Cross,Ind,John DaGrosa,H,Colgate,Ind,Andrew Kerr,W,21,0
+1945-11-11,Holy Cross,Ind,John DaGrosa,H,Coast Guard,Ind,Johnny Merriman,W,39,6
+1945-11-17,Holy Cross,Ind,John DaGrosa,H,Temple,Ind,Ray Morrison,L,6,14
+1945-11-25,Holy Cross,Ind,John DaGrosa,N,Boston College,Ind,Moody Sarno,W,46,0
+1946-01-01,Holy Cross,Ind,John DaGrosa,A,Miami (FL),Ind,Jack Harding,L,6,13
+1945-10-20,Utah State,MSAC,E. Lowell Romney,H,Colorado State,MSAC,Julius Wagner,W,13,0
+1945-10-27,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Cac Hubbard,L,6,41
+1945-11-10,Utah State,MSAC,E. Lowell Romney,A,Colorado,MSAC,Frank Potts,L,7,14
+1945-11-22,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,L,6,24
+1945-09-22,Missouri,Big 6,Chauncey Simpson,A,Minnesota,Western,Bernie Bierman,L,0,34
+1945-09-29,Missouri,Big 6,Chauncey Simpson,H,Ohio State,Western,Carroll Widdoes,L,6,47
+1945-10-06,Missouri,Big 6,Chauncey Simpson,A,SMU,SWC,Madison Bell,W,10,7
+1945-10-13,Missouri,Big 6,Chauncey Simpson,A,Iowa State,Big 6,Mike Michalske,W,13,7
+1945-10-20,Missouri,Big 6,Chauncey Simpson,H,Kansas State,Big 6,Lud Fiser,W,41,7
+1945-10-27,Missouri,Big 6,Chauncey Simpson,H,Nebraska,Big 6,Potsy Clark,W,19,0
+1945-11-03,Missouri,Big 6,Chauncey Simpson,A,Michigan State,Ind,Charlie Bachman,L,7,14
+1945-11-17,Missouri,Big 6,Chauncey Simpson,H,Oklahoma,Big 6,Snorter Luster,W,14,6
+1945-11-24,Missouri,Big 6,Chauncey Simpson,N,Kansas,Big 6,Henry Shenk,W,33,12
+1946-01-01,Missouri,Big 6,Chauncey Simpson,N,Texas,SWC,Dana Bible,L,27,40
+1945-09-22,Denver,MSAC,Cac Hubbard,A,Colorado College,Ind,Harold White,L,0,12
+1945-09-28,Denver,MSAC,Cac Hubbard,H,Kansas,Big 6,Henry Shenk,L,19,20
+1945-10-06,Denver,MSAC,Cac Hubbard,H,Oklahoma State,MVC,Jim Lookabaugh,L,7,31
+1945-10-12,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,W,21,7
+1945-10-20,Denver,MSAC,Cac Hubbard,A,Drake,MVC,Vee Green,T,19,19
+1945-10-27,Denver,MSAC,Cac Hubbard,H,Utah State,MSAC,E. Lowell Romney,W,41,6
+1945-11-03,Denver,MSAC,Cac Hubbard,A,Utah,MSAC,Ike Armstrong,L,21,33
+1945-11-10,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Julius Wagner,W,35,12
+1945-11-22,Denver,MSAC,Cac Hubbard,H,Colorado,MSAC,Frank Potts,W,14,8
+1946-01-01,Denver,MSAC,Cac Hubbard,N,New Mexico,BIAA,Willis Barnes,L,24,34
+1945-09-15,Great Lakes Navy,Ind,,A,Michigan,Western,Fritz Crisler,L,2,27
+1945-09-22,Great Lakes Navy,Ind,,H,Wisconsin,Western,Harry Stuhldreher,T,0,0
+1945-09-29,Great Lakes Navy,Ind,,H,Purdue,Western,Cecil Isbell,L,6,20
+1945-10-20,Great Lakes Navy,Ind,,A,Marquette,Ind,Tom Stidham,W,37,27
+1945-11-03,Great Lakes Navy,Ind,,A,Illinois,Western,Ray Eliot,W,12,6
+1945-11-10,Great Lakes Navy,Ind,,A,Michigan State,Ind,Charlie Bachman,W,27,7
+1945-12-01,Great Lakes Navy,Ind,,H,Notre Dame,Ind,Hugh Devore,W,39,7
+1945-09-22,Wisconsin,Western,Harry Stuhldreher,A,Great Lakes Navy,Ind,,T,0,0
+1945-09-29,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Tom Stidham,W,40,13
+1945-10-06,Wisconsin,Western,Harry Stuhldreher,H,Purdue,Western,Cecil Isbell,L,7,13
+1945-10-13,Wisconsin,Western,Harry Stuhldreher,A,Ohio State,Western,Carroll Widdoes,L,0,12
+1945-10-20,Wisconsin,Western,Harry Stuhldreher,H,Illinois,Western,Ray Eliot,T,7,7
+1945-11-03,Wisconsin,Western,Harry Stuhldreher,A,Iowa,Western,Clem Crowe,W,27,7
+1945-11-10,Wisconsin,Western,Harry Stuhldreher,H,Northwestern,Western,Pappy Waldorf,L,14,28
+1945-11-17,Wisconsin,Western,Harry Stuhldreher,A,Navy,Ind,Oscar Hagberg,L,7,36
+1945-11-24,Wisconsin,Western,Harry Stuhldreher,A,Minnesota,Western,Bernie Bierman,W,26,12
+1945-09-22,Bucknell,Ind,Ellwood Ludwig,H,Villanova,Ind,Jordan Olivar,L,7,19
+1945-09-29,Bucknell,Ind,Ellwood Ludwig,A,Cornell,Ind,,L,8,19
+1945-10-06,Bucknell,Ind,Ellwood Ludwig,A,Pitt,Ind,Clark Shaughnessy,L,0,38
+1945-10-13,Bucknell,Ind,Ellwood Ludwig,A,Temple,Ind,Ray Morrison,L,0,64
+1945-10-20,Bucknell,Ind,Ellwood Ludwig,H,Penn State,Ind,Bob Higgins,L,7,46
+1945-10-27,Bucknell,Ind,Ellwood Ludwig,A,Lafayette,Ind,,W,26,2
+1945-09-21,USC,PCC,Jeff Cravath,A,UCLA,PCC,Bert LaBrucherie,W,13,6
+1945-09-29,USC,PCC,Jeff Cravath,A,California,PCC,Buck Shaw,W,13,2
+1945-10-27,USC,PCC,Jeff Cravath,A,Washington,PCC,Ralph Welch,L,7,13
+1945-11-03,USC,PCC,Jeff Cravath,H,Saint Mary's (CA),Ind,James Phelan,L,0,26
+1945-11-10,USC,PCC,Jeff Cravath,H,California,PCC,Buck Shaw,W,14,0
+1945-11-24,USC,PCC,Jeff Cravath,H,Oregon State,PCC,Lon Stiner,W,34,7
+1945-12-01,USC,PCC,Jeff Cravath,H,UCLA,PCC,Bert LaBrucherie,W,26,15
+1946-01-01,USC,PCC,Jeff Cravath,H,Alabama,SEC,Frank Thomas,L,14,34
+1945-09-29,North Carolina State,Southern,Beattie Feathers,N,Virginia,Ind,Frank Murray,L,6,26
+1945-10-06,North Carolina State,Southern,Beattie Feathers,H,Clemson,Southern,Frank Howard,L,0,13
+1945-10-13,North Carolina State,Southern,Beattie Feathers,H,Virginia Military Institute,Southern,,L,14,21
+1945-10-20,North Carolina State,Southern,Beattie Feathers,H,Wake Forest,Southern,D.C. Walker,L,18,19
+1945-10-27,North Carolina State,Southern,Beattie Feathers,H,William & Mary,Southern,Rube McCray,W,20,6
+1945-11-03,North Carolina State,Southern,Beattie Feathers,H,Virginia Tech,Southern,Henry McEver,W,6,0
+1945-11-10,North Carolina State,Southern,Beattie Feathers,A,Duke,Southern,,L,13,26
+1945-11-16,North Carolina State,Southern,Beattie Feathers,A,Miami (FL),Ind,Jack Harding,L,7,21
+1945-10-13,Merchant Marine,Ind,,A,Maryland,Southern,Bear Bryant,L,6,22
+1945-10-20,Merchant Marine,Ind,,A,Lafayette,Ind,,W,26,7
+1945-10-27,Merchant Marine,Ind,,H,Boston College,Ind,Moody Sarno,W,33,20
+1945-11-10,Merchant Marine,Ind,,A,Harvard,Ind,,L,7,28
+1945-11-17,Merchant Marine,Ind,,A,William & Mary,Southern,Rube McCray,L,7,25
+1945-09-15,Michigan,Western,Fritz Crisler,H,Great Lakes Navy,Ind,,W,27,2
+1945-09-22,Michigan,Western,Fritz Crisler,H,Indiana,Western,Bo McMillin,L,7,13
+1945-09-29,Michigan,Western,Fritz Crisler,H,Michigan State,Ind,Charlie Bachman,W,40,0
+1945-10-06,Michigan,Western,Fritz Crisler,A,Northwestern,Western,Pappy Waldorf,W,20,7
+1945-10-13,Michigan,Western,Fritz Crisler,A,Army,Ind,Red Blaik,L,7,28
+1945-10-27,Michigan,Western,Fritz Crisler,A,Illinois,Western,Ray Eliot,W,19,0
+1945-11-03,Michigan,Western,Fritz Crisler,H,Minnesota,Western,Bernie Bierman,W,26,0
+1945-11-10,Michigan,Western,Fritz Crisler,A,Navy,Ind,Oscar Hagberg,L,7,33
+1945-11-17,Michigan,Western,Fritz Crisler,H,Purdue,Western,Cecil Isbell,W,27,13
+1945-11-24,Michigan,Western,Fritz Crisler,H,Ohio State,Western,Carroll Widdoes,W,7,3
+1945-10-13,Detroit Mercy,Ind,Chuck Baer,A,Mississippi State,SEC,Allyn McKeen,L,6,41
+1945-10-21,Detroit Mercy,Ind,Chuck Baer,A,Villanova,Ind,Jordan Olivar,L,0,14
+1945-10-26,Detroit Mercy,Ind,Chuck Baer,H,Drake,MVC,Vee Green,W,19,14
+1945-11-03,Detroit Mercy,Ind,Chuck Baer,A,Marquette,Ind,Tom Stidham,L,14,32
+1945-11-18,Detroit Mercy,Ind,Chuck Baer,H,Saint Louis,MVC,,W,27,0
+1945-09-28,Temple,Ind,Ray Morrison,H,Syracuse,Ind,Ossie Solem,W,7,6
+1945-10-05,Temple,Ind,Ray Morrison,A,New York University,Ind,John Weinheimer,W,59,0
+1945-10-13,Temple,Ind,Ray Morrison,H,Bucknell,Ind,Ellwood Ludwig,W,64,0
+1945-10-19,Temple,Ind,Ray Morrison,H,West Virginia,Ind,Rat Rogers,W,28,12
+1945-10-27,Temple,Ind,Ray Morrison,A,Pitt,Ind,Clark Shaughnessy,W,6,0
+1945-11-03,Temple,Ind,Ray Morrison,H,Lafayette,Ind,,W,20,0
+1945-11-10,Temple,Ind,Ray Morrison,A,Penn State,Ind,Bob Higgins,L,0,27
+1945-11-17,Temple,Ind,Ray Morrison,A,Holy Cross,Ind,John DaGrosa,W,14,6
+1945-10-06,New Mexico,BIAA,Willis Barnes,A,West Texas A&M,BIAA,Gus Miller,W,13,0
+1945-10-13,New Mexico,BIAA,Willis Barnes,A,Colorado College,Ind,Harold White,W,6,4
+1945-11-03,New Mexico,BIAA,Willis Barnes,H,Colorado,MSAC,Frank Potts,W,12,6
+1945-11-10,New Mexico,BIAA,Willis Barnes,H,Utah,MSAC,Ike Armstrong,L,20,21
+1945-11-24,New Mexico,BIAA,Willis Barnes,H,Texas Tech,BIAA,,T,6,6
+1946-01-01,New Mexico,BIAA,Willis Barnes,N,Denver,MSAC,Cac Hubbard,W,34,24
+1945-09-29,Notre Dame,Ind,Hugh Devore,H,Illinois,Western,Ray Eliot,W,7,0
+1945-10-06,Notre Dame,Ind,Hugh Devore,A,Georgia Tech,SEC,Bobby Dodd,W,40,7
+1945-10-13,Notre Dame,Ind,Hugh Devore,H,Dartmouth,Ind,,W,34,0
+1945-10-20,Notre Dame,Ind,Hugh Devore,A,Pitt,Ind,Clark Shaughnessy,W,39,9
+1945-10-27,Notre Dame,Ind,Hugh Devore,H,Iowa,Western,Clem Crowe,W,56,0
+1945-11-03,Notre Dame,Ind,Hugh Devore,N,Navy,Ind,Oscar Hagberg,T,6,6
+1945-11-10,Notre Dame,Ind,Hugh Devore,A,Army,Ind,Red Blaik,L,0,48
+1945-11-17,Notre Dame,Ind,Hugh Devore,A,Northwestern,Western,Pappy Waldorf,W,34,7
+1945-11-24,Notre Dame,Ind,Hugh Devore,A,Tulane,SEC,Claude Simons,W,32,6
+1945-12-01,Notre Dame,Ind,Hugh Devore,A,Great Lakes Navy,Ind,,L,7,39
+1945-09-22,Pitt,Ind,Clark Shaughnessy,A,Illinois,Western,Ray Eliot,L,6,23
+1945-09-29,Pitt,Ind,Clark Shaughnessy,H,West Virginia,Ind,Rat Rogers,W,20,0
+1945-10-06,Pitt,Ind,Clark Shaughnessy,H,Bucknell,Ind,Ellwood Ludwig,W,38,0
+1945-10-13,Pitt,Ind,Clark Shaughnessy,H,Michigan State,Ind,Charlie Bachman,L,7,12
+1945-10-20,Pitt,Ind,Clark Shaughnessy,H,Notre Dame,Ind,Hugh Devore,L,9,39
+1945-10-27,Pitt,Ind,Clark Shaughnessy,H,Temple,Ind,Ray Morrison,L,0,6
+1945-11-03,Pitt,Ind,Clark Shaughnessy,A,Purdue,Western,Cecil Isbell,L,0,28
+1945-11-10,Pitt,Ind,Clark Shaughnessy,H,Ohio State,Western,Carroll Widdoes,L,0,14
+1945-11-17,Pitt,Ind,Clark Shaughnessy,H,Indiana,Western,Bo McMillin,L,0,19
+1945-11-24,Pitt,Ind,Clark Shaughnessy,H,Penn State,Ind,Bob Higgins,W,7,0
+1945-09-22,West Texas A&M,BIAA,Gus Miller,A,Baylor,SWC,Frank Kimbrough,L,0,32
+1945-09-29,West Texas A&M,BIAA,Gus Miller,A,Tulsa,MVC,Henry Frnka,L,0,32
+1945-10-06,West Texas A&M,BIAA,Gus Miller,H,New Mexico,BIAA,Willis Barnes,L,0,13
+1945-10-27,West Texas A&M,BIAA,Gus Miller,A,Texas Tech,BIAA,,L,6,12
+1945-11-17,West Texas A&M,BIAA,Gus Miller,H,Colorado College,Ind,Harold White,L,19,20
+1945-09-22,Saint Mary's (CA),Ind,James Phelan,A,California,PCC,Buck Shaw,W,20,13
+1945-11-03,Saint Mary's (CA),Ind,James Phelan,A,USC,PCC,Jeff Cravath,W,26,0
+1945-11-17,Saint Mary's (CA),Ind,James Phelan,A,UCLA,PCC,Bert LaBrucherie,L,7,13
+1946-01-01,Saint Mary's (CA),Ind,James Phelan,N,Oklahoma State,MVC,Jim Lookabaugh,L,13,33
+1945-10-06,Yale,Ind,Howard Odell,H,Holy Cross,Ind,John DaGrosa,L,0,21
+1945-10-13,Yale,Ind,Howard Odell,A,Columbia,Ind,Lou Little,L,13,27
+1945-10-27,Yale,Ind,Howard Odell,H,Cornell,Ind,,W,18,7
+1945-11-03,Yale,Ind,Howard Odell,H,Dartmouth,Ind,,W,6,0
+1945-11-10,Yale,Ind,Howard Odell,H,Brown,Ind,Rip Engle,L,7,20
+1945-11-17,Yale,Ind,Howard Odell,H,Coast Guard,Ind,Johnny Merriman,W,41,6
+1945-11-24,Yale,Ind,Howard Odell,A,Princeton,Ind,,W,20,14
+1945-12-01,Yale,Ind,Howard Odell,H,Harvard,Ind,,W,28,0
+1945-09-22,Coast Guard,Ind,Johnny Merriman,A,Virginia,Ind,Frank Murray,L,0,39
+1945-10-27,Coast Guard,Ind,Johnny Merriman,A,Harvard,Ind,,L,0,25
+1945-11-03,Coast Guard,Ind,Johnny Merriman,A,Brown,Ind,Rip Engle,L,6,33
+1945-11-11,Coast Guard,Ind,Johnny Merriman,A,Holy Cross,Ind,John DaGrosa,L,6,39
+1945-11-17,Coast Guard,Ind,Johnny Merriman,A,Yale,Ind,Howard Odell,L,6,41
+1945-09-29,Georgia Tech,SEC,Bobby Dodd,A,North Carolina,Southern,Carl Snavely,W,20,14
+1945-10-06,Georgia Tech,SEC,Bobby Dodd,H,Notre Dame,Ind,Hugh Devore,L,7,40
+1945-10-20,Georgia Tech,SEC,Bobby Dodd,A,Navy,Ind,Oscar Hagberg,L,6,20
+1945-10-27,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Carl Voyles,W,20,7
+1945-11-03,Georgia Tech,SEC,Bobby Dodd,H,Duke,Southern,,L,6,14
+1945-11-10,Georgia Tech,SEC,Bobby Dodd,A,Tulane,SEC,Claude Simons,W,41,7
+1945-11-17,Georgia Tech,SEC,Bobby Dodd,H,LSU,SEC,Bernie Moore,L,7,9
+1945-11-24,Georgia Tech,SEC,Bobby Dodd,H,Clemson,Southern,Frank Howard,L,7,21
+1945-12-01,Georgia Tech,SEC,Bobby Dodd,H,Georgia,SEC,Wallace Butts,L,0,33
+1945-09-29,Wake Forest,Southern,D.C. Walker,A,Tennessee,SEC,John Barnhill,L,6,7
+1945-10-06,Wake Forest,Southern,D.C. Walker,A,Army,Ind,Red Blaik,L,0,54
+1945-10-13,Wake Forest,Southern,D.C. Walker,H,Duke,Southern,,L,19,26
+1945-10-20,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,Beattie Feathers,W,19,18
+1945-11-03,Wake Forest,Southern,D.C. Walker,H,Presbyterian,Ind,Lonnie McMillan,W,53,0
+1945-11-17,Wake Forest,Southern,D.C. Walker,A,North Carolina,Southern,Carl Snavely,W,14,13
+1945-11-22,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,Johnnie McMillan,T,13,13
+1945-12-01,Wake Forest,Southern,D.C. Walker,A,Clemson,Southern,Frank Howard,W,13,6
+1946-01-01,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,Johnnie McMillan,W,26,14
+1945-10-06,Mississippi State,SEC,Allyn McKeen,A,Auburn,SEC,Carl Voyles,W,20,0
+1945-10-13,Mississippi State,SEC,Allyn McKeen,H,Detroit Mercy,Ind,Chuck Baer,W,41,6
+1945-11-03,Mississippi State,SEC,Allyn McKeen,A,Tulane,SEC,Claude Simons,L,13,14
+1945-11-10,Mississippi State,SEC,Allyn McKeen,A,LSU,SEC,Bernie Moore,W,27,20
+1945-11-24,Mississippi State,SEC,Allyn McKeen,H,Ole Miss,SEC,Harry Mehre,L,6,7
+1945-12-01,Mississippi State,SEC,Allyn McKeen,A,Alabama,SEC,Frank Thomas,L,13,55
+1945-09-29,Virginia Military Institute,Southern,,A,Richmond,Southern,George Hope,W,40,6
+1945-10-06,Virginia Military Institute,Southern,,N,Virginia,Ind,Frank Murray,L,7,40
+1945-10-13,Virginia Military Institute,Southern,,A,North Carolina State,Southern,Beattie Feathers,W,21,14
+1945-10-20,Virginia Military Institute,Southern,,H,William & Mary,Southern,Rube McCray,L,9,13
+1945-11-03,Virginia Military Institute,Southern,,A,Vanderbilt,SEC,Doby Bartling,W,27,13
+1945-11-10,Virginia Military Institute,Southern,,A,Maryland,Southern,Bear Bryant,L,0,38
+1945-11-22,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry McEver,W,7,0
+1945-09-29,Kansas State,Big 6,Lud Fiser,H,Wichita State,MVC,Mel Binford,W,13,6
+1945-10-13,Kansas State,Big 6,Lud Fiser,A,Marquette,Ind,Tom Stidham,L,13,55
+1945-10-20,Kansas State,Big 6,Lud Fiser,A,Missouri,Big 6,Chauncey Simpson,L,7,41
+1945-10-27,Kansas State,Big 6,Lud Fiser,H,Oklahoma,Big 6,Snorter Luster,L,13,41
+1945-11-03,Kansas State,Big 6,Lud Fiser,A,Iowa State,Big 6,Mike Michalske,L,13,40
+1945-11-10,Kansas State,Big 6,Lud Fiser,H,Nebraska,Big 6,Potsy Clark,L,0,24
+1945-11-17,Kansas State,Big 6,Lud Fiser,A,Kansas,Big 6,Henry Shenk,L,0,27
+1945-10-12,Saint Louis,MVC,,A,Miami (FL),Ind,Jack Harding,L,0,21
+1945-11-03,Saint Louis,MVC,,H,Drake,MVC,Vee Green,L,0,25
+1945-11-18,Saint Louis,MVC,,A,Detroit Mercy,Ind,Chuck Baer,L,0,27
+1945-11-24,Saint Louis,MVC,,A,Marquette,Ind,Tom Stidham,L,6,40
+1945-09-29,Chattanooga,Ind,Andrew Moore,H,Miami (FL),Ind,Jack Harding,L,7,27
+1945-10-13,Chattanooga,Ind,Andrew Moore,A,Tennessee,SEC,John Barnhill,L,0,30
+1945-11-04,Chattanooga,Ind,Andrew Moore,H,Georgia,SEC,Wallace Butts,L,7,34
+1945-11-10,Chattanooga,Ind,Andrew Moore,A,Vanderbilt,SEC,Doby Bartling,W,13,6
+1945-11-29,Chattanooga,Ind,Andrew Moore,H,Ole Miss,SEC,Harry Mehre,W,31,6
+1945-10-06,Army,Ind,Red Blaik,H,Wake Forest,Southern,D.C. Walker,W,54,0
+1945-10-13,Army,Ind,Red Blaik,H,Michigan,Western,Fritz Crisler,W,28,7
+1945-10-27,Army,Ind,Red Blaik,H,Duke,Southern,,W,48,13
+1945-11-03,Army,Ind,Red Blaik,H,Villanova,Ind,Jordan Olivar,W,54,0
+1945-11-10,Army,Ind,Red Blaik,H,Notre Dame,Ind,Hugh Devore,W,48,0
+1945-11-17,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,W,61,0
+1945-12-01,Army,Ind,Red Blaik,N,Navy,Ind,Oscar Hagberg,W,32,13
+1945-09-22,Marquette,Ind,Tom Stidham,A,Purdue,Western,Cecil Isbell,L,13,14
+1945-09-29,Marquette,Ind,Tom Stidham,A,Wisconsin,Western,Harry Stuhldreher,L,13,40
+1945-10-06,Marquette,Ind,Tom Stidham,N,Villanova,Ind,Jordan Olivar,L,0,6
+1945-10-13,Marquette,Ind,Tom Stidham,H,Kansas State,Big 6,Lud Fiser,W,55,13
+1945-10-20,Marquette,Ind,Tom Stidham,H,Great Lakes Navy,Ind,,L,27,37
+1945-10-27,Marquette,Ind,Tom Stidham,A,Michigan State,Ind,Charlie Bachman,T,13,13
+1945-11-03,Marquette,Ind,Tom Stidham,H,Detroit Mercy,Ind,Chuck Baer,W,32,14
+1945-11-10,Marquette,Ind,Tom Stidham,H,Kansas,Big 6,Henry Shenk,W,26,0
+1945-11-17,Marquette,Ind,Tom Stidham,A,Kentucky,SEC,Bernie Shively,W,19,13
+1945-11-24,Marquette,Ind,Tom Stidham,H,Saint Louis,MVC,,W,40,6
+1945-09-29,Dartmouth,Ind,,H,Holy Cross,Ind,John DaGrosa,L,6,13
+1945-10-06,Dartmouth,Ind,,A,Pennsylvania,Ind,George Munger,L,0,12
+1945-10-13,Dartmouth,Ind,,A,Notre Dame,Ind,Hugh Devore,L,0,34
+1945-10-27,Dartmouth,Ind,,A,Syracuse,Ind,Ossie Solem,W,8,0
+1945-11-03,Dartmouth,Ind,,A,Yale,Ind,Howard Odell,L,0,6
+1945-11-10,Dartmouth,Ind,,A,Princeton,Ind,,T,13,13
+1945-11-17,Dartmouth,Ind,,H,Cornell,Ind,,L,13,20
+1945-11-24,Dartmouth,Ind,,A,Columbia,Ind,Lou Little,L,0,21
+1945-09-21,UCLA,PCC,Bert LaBrucherie,H,USC,PCC,Jeff Cravath,L,6,13
+1945-10-13,UCLA,PCC,Bert LaBrucherie,H,California,PCC,Buck Shaw,W,13,0
+1945-10-27,UCLA,PCC,Bert LaBrucherie,H,Oregon,PCC,Tex Oliver,W,12,0
+1945-11-17,UCLA,PCC,Bert LaBrucherie,H,Saint Mary's (CA),Ind,James Phelan,W,13,7
+1945-11-24,UCLA,PCC,Bert LaBrucherie,A,California,PCC,Buck Shaw,L,0,6
+1945-12-01,UCLA,PCC,Bert LaBrucherie,A,USC,PCC,Jeff Cravath,L,15,26
+1945-10-06,Auburn,SEC,Carl Voyles,H,Mississippi State,SEC,Allyn McKeen,L,0,20
+1945-10-20,Auburn,SEC,Carl Voyles,A,Tulane,SEC,Claude Simons,W,20,14
+1945-10-27,Auburn,SEC,Carl Voyles,A,Georgia Tech,SEC,Bobby Dodd,L,7,20
+1945-11-03,Auburn,SEC,Carl Voyles,H,Florida,SEC,Tom Lieb,W,19,0
+1945-11-17,Auburn,SEC,Carl Voyles,N,Georgia,SEC,Wallace Butts,L,0,35
+1945-11-30,Auburn,SEC,Carl Voyles,A,Miami (FL),Ind,Jack Harding,L,7,33
+1945-09-22,Northwestern,Western,Pappy Waldorf,H,Iowa State,Big 6,Mike Michalske,W,18,6
+1945-09-29,Northwestern,Western,Pappy Waldorf,H,Indiana,Western,Bo McMillin,T,7,7
+1945-10-06,Northwestern,Western,Pappy Waldorf,H,Michigan,Western,Fritz Crisler,L,7,20
+1945-10-20,Northwestern,Western,Pappy Waldorf,A,Minnesota,Western,Bernie Bierman,L,7,30
+1945-10-27,Northwestern,Western,Pappy Waldorf,H,Purdue,Western,Cecil Isbell,W,26,14
+1945-11-03,Northwestern,Western,Pappy Waldorf,A,Ohio State,Western,Carroll Widdoes,L,14,16
+1945-11-10,Northwestern,Western,Pappy Waldorf,A,Wisconsin,Western,Harry Stuhldreher,W,28,14
+1945-11-17,Northwestern,Western,Pappy Waldorf,H,Notre Dame,Ind,Hugh Devore,L,7,34
+1945-11-24,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Ray Eliot,W,13,7
+1945-09-22,Kansas,Big 6,Henry Shenk,H,Texas Christian,SWC,Dutch Meyer,L,0,18
+1945-09-28,Kansas,Big 6,Henry Shenk,A,Denver,MSAC,Cac Hubbard,W,20,19
+1945-10-06,Kansas,Big 6,Henry Shenk,H,Iowa State,Big 6,Mike Michalske,T,13,13
+1945-10-20,Kansas,Big 6,Henry Shenk,A,Oklahoma,Big 6,Snorter Luster,L,7,39
+1945-10-27,Kansas,Big 6,Henry Shenk,A,Wichita State,MVC,Mel Binford,W,13,0
+1945-11-03,Kansas,Big 6,Henry Shenk,A,Nebraska,Big 6,Potsy Clark,L,13,27
+1945-11-10,Kansas,Big 6,Henry Shenk,A,Marquette,Ind,Tom Stidham,L,0,26
+1945-11-17,Kansas,Big 6,Henry Shenk,H,Kansas State,Big 6,Lud Fiser,W,27,0
+1945-11-24,Kansas,Big 6,Henry Shenk,N,Missouri,Big 6,Chauncey Simpson,L,12,33
+1945-10-06,William & Mary,Southern,Rube McCray,A,Tennessee,SEC,John Barnhill,L,13,48
+1945-10-13,William & Mary,Southern,Rube McCray,N,Virginia Tech,Southern,Henry McEver,W,38,0
+1945-10-20,William & Mary,Southern,Rube McCray,A,Virginia Military Institute,Southern,,W,13,9
+1945-10-27,William & Mary,Southern,Rube McCray,A,North Carolina State,Southern,Beattie Feathers,L,6,20
+1945-11-03,William & Mary,Southern,Rube McCray,A,Maryland,Southern,Bear Bryant,W,33,14
+1945-11-10,William & Mary,Southern,Rube McCray,N,North Carolina,Southern,Carl Snavely,L,0,6
+1945-11-17,William & Mary,Southern,Rube McCray,H,Merchant Marine,Ind,,W,25,7
+1945-11-22,William & Mary,Southern,Rube McCray,A,Richmond,Southern,George Hope,W,33,0
+1945-09-29,LSU,SEC,Bernie Moore,H,Rice,SWC,Jess Neely,W,42,0
+1945-10-06,LSU,SEC,Bernie Moore,H,Alabama,SEC,Frank Thomas,L,7,26
+1945-10-13,LSU,SEC,Bernie Moore,H,Texas A&M,SWC,Homer Norton,W,31,12
+1945-10-20,LSU,SEC,Bernie Moore,A,Georgia,SEC,Wallace Butts,W,32,0
+1945-10-27,LSU,SEC,Bernie Moore,H,Vanderbilt,SEC,Doby Bartling,W,39,7
+1945-11-03,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Harry Mehre,W,32,13
+1945-11-10,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,L,20,27
+1945-11-17,LSU,SEC,Bernie Moore,A,Georgia Tech,SEC,Bobby Dodd,W,9,7
+1945-12-01,LSU,SEC,Bernie Moore,A,Tulane,SEC,Claude Simons,W,33,0
+1945-09-29,Pennsylvania,Ind,George Munger,H,Brown,Ind,Rip Engle,W,50,0
+1945-10-06,Pennsylvania,Ind,George Munger,H,Dartmouth,Ind,,W,12,0
+1945-10-13,Pennsylvania,Ind,George Munger,H,North Carolina,Southern,Carl Snavely,W,49,0
+1945-10-27,Pennsylvania,Ind,George Munger,H,Navy,Ind,Oscar Hagberg,L,7,14
+1945-11-03,Pennsylvania,Ind,George Munger,H,Princeton,Ind,,W,28,0
+1945-11-10,Pennsylvania,Ind,George Munger,H,Columbia,Ind,Lou Little,W,32,7
+1945-11-17,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,L,0,61
+1945-11-24,Pennsylvania,Ind,George Munger,H,Cornell,Ind,,W,59,6
+1945-09-22,Tulsa,MVC,Henry Frnka,H,Wichita State,MVC,Mel Binford,W,61,0
+1945-09-29,Tulsa,MVC,Henry Frnka,H,West Texas A&M,BIAA,Gus Miller,W,32,0
+1945-10-06,Tulsa,MVC,Henry Frnka,H,Drake,MVC,Vee Green,W,19,0
+1945-10-13,Tulsa,MVC,Henry Frnka,A,Texas Tech,BIAA,,W,18,7
+1945-10-27,Tulsa,MVC,Henry Frnka,A,Indiana,Western,Bo McMillin,L,2,7
+1945-11-10,Tulsa,MVC,Henry Frnka,A,Oklahoma State,MVC,Jim Lookabaugh,L,6,12
+1945-11-17,Tulsa,MVC,Henry Frnka,A,Baylor,SWC,Frank Kimbrough,W,26,7
+1945-11-23,Tulsa,MVC,Henry Frnka,H,Arkansas,SWC,Glen Rose,W,45,13
+1946-01-01,Tulsa,MVC,Henry Frnka,N,Georgia,SEC,Wallace Butts,L,6,20
+1945-10-06,Iowa,Western,Clem Crowe,A,Ohio State,Western,Carroll Widdoes,L,0,42
+1945-10-13,Iowa,Western,Clem Crowe,A,Purdue,Western,Cecil Isbell,L,0,40
+1945-10-20,Iowa,Western,Clem Crowe,H,Indiana,Western,Bo McMillin,L,20,52
+1945-10-27,Iowa,Western,Clem Crowe,A,Notre Dame,Ind,Hugh Devore,L,0,56
+1945-11-03,Iowa,Western,Clem Crowe,H,Wisconsin,Western,Harry Stuhldreher,L,7,27
+1945-11-10,Iowa,Western,Clem Crowe,A,Illinois,Western,Ray Eliot,L,7,48
+1945-11-17,Iowa,Western,Clem Crowe,H,Minnesota,Western,Bernie Bierman,W,20,19
+1945-11-24,Iowa,Western,Clem Crowe,A,Nebraska,Big 6,Potsy Clark,L,6,13
+1945-09-29,Columbia,Ind,Lou Little,H,Lafayette,Ind,,W,40,14
+1945-10-06,Columbia,Ind,Lou Little,H,Syracuse,Ind,Ossie Solem,W,32,0
+1945-10-13,Columbia,Ind,Lou Little,H,Yale,Ind,Howard Odell,W,27,13
+1945-10-20,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,W,31,7
+1945-10-27,Columbia,Ind,Lou Little,H,Brown,Ind,Rip Engle,W,27,6
+1945-11-03,Columbia,Ind,Lou Little,H,Cornell,Ind,,W,34,26
+1945-11-10,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,George Munger,L,7,32
+1945-11-17,Columbia,Ind,Lou Little,A,Princeton,Ind,,W,32,7
+1945-11-24,Columbia,Ind,Lou Little,H,Dartmouth,Ind,,W,21,0
+1945-10-06,Texas,SWC,Dana Bible,H,Texas Tech,BIAA,,W,33,0
+1945-10-13,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Snorter Luster,W,12,7
+1945-10-20,Texas,SWC,Dana Bible,A,Arkansas,SWC,Glen Rose,W,34,7
+1945-10-27,Texas,SWC,Dana Bible,H,Rice,SWC,Jess Neely,L,6,7
+1945-11-03,Texas,SWC,Dana Bible,A,SMU,SWC,Madison Bell,W,12,7
+1945-11-10,Texas,SWC,Dana Bible,H,Baylor,SWC,Frank Kimbrough,W,21,14
+1945-11-17,Texas,SWC,Dana Bible,H,Texas Christian,SWC,Dutch Meyer,W,20,0
+1945-11-29,Texas,SWC,Dana Bible,A,Texas A&M,SWC,Homer Norton,W,20,10
+1946-01-01,Texas,SWC,Dana Bible,N,Missouri,Big 6,Chauncey Simpson,W,40,27
+1945-09-22,Texas Christian,SWC,Dutch Meyer,A,Kansas,Big 6,Henry Shenk,W,18,0
+1945-09-29,Texas Christian,SWC,Dutch Meyer,A,Baylor,SWC,Frank Kimbrough,W,7,6
+1945-10-06,Texas Christian,SWC,Dutch Meyer,A,Arkansas,SWC,Glen Rose,L,14,27
+1945-10-20,Texas Christian,SWC,Dutch Meyer,H,Texas A&M,SWC,Homer Norton,W,13,12
+1945-10-27,Texas Christian,SWC,Dutch Meyer,H,Oklahoma State,MVC,Jim Lookabaugh,L,12,25
+1945-11-03,Texas Christian,SWC,Dutch Meyer,A,Oklahoma,Big 6,Snorter Luster,W,13,7
+1945-11-10,Texas Christian,SWC,Dutch Meyer,A,Texas Tech,BIAA,,L,0,12
+1945-11-17,Texas Christian,SWC,Dutch Meyer,A,Texas,SWC,Dana Bible,L,0,20
+1945-11-24,Texas Christian,SWC,Dutch Meyer,H,Rice,SWC,Jess Neely,W,14,13
+1945-12-01,Texas Christian,SWC,Dutch Meyer,H,SMU,SWC,Madison Bell,L,0,34
+1945-10-05,New York University,Ind,John Weinheimer,H,Temple,Ind,Ray Morrison,L,0,59
+1945-10-12,New York University,Ind,John Weinheimer,A,Boston College,Ind,Moody Sarno,L,0,28
+1945-09-29,Miami (FL),Ind,Jack Harding,A,Chattanooga,Ind,Andrew Moore,W,27,7
+1945-10-05,Miami (FL),Ind,Jack Harding,H,Georgia,SEC,Wallace Butts,L,21,27
+1945-10-12,Miami (FL),Ind,Jack Harding,H,Saint Louis,MVC,,W,21,0
+1945-10-19,Miami (FL),Ind,Jack Harding,H,Florida,SEC,Tom Lieb,W,7,6
+1945-11-02,Miami (FL),Ind,Jack Harding,H,Clemson,Southern,Frank Howard,W,7,6
+1945-11-09,Miami (FL),Ind,Jack Harding,H,South Carolina,Southern,Johnnie McMillan,T,13,13
+1945-11-16,Miami (FL),Ind,Jack Harding,H,North Carolina State,Southern,Beattie Feathers,W,21,7
+1945-11-23,Miami (FL),Ind,Jack Harding,H,Michigan State,Ind,Charlie Bachman,W,21,7
+1945-11-30,Miami (FL),Ind,Jack Harding,H,Auburn,SEC,Carl Voyles,W,33,7
+1946-01-01,Miami (FL),Ind,Jack Harding,H,Holy Cross,Ind,John DaGrosa,W,13,6
+1945-09-29,Richmond,Southern,George Hope,H,Virginia Military Institute,Southern,,L,6,40
+1945-10-06,Richmond,Southern,George Hope,H,Maryland,Southern,Bear Bryant,L,0,21
+1945-11-11,Richmond,Southern,George Hope,A,Virginia,Ind,Frank Murray,L,0,45
+1945-11-17,Richmond,Southern,George Hope,A,Virginia Tech,Southern,Henry McEver,L,6,44
+1945-11-22,Richmond,Southern,George Hope,H,William & Mary,Southern,Rube McCray,L,0,33
+1945-09-29,Oregon,PCC,Tex Oliver,A,Washington,PCC,Ralph Welch,L,6,20
+1945-10-06,Oregon,PCC,Tex Oliver,H,Idaho,PCC,Babe Brown,W,33,7
+1945-10-13,Oregon,PCC,Tex Oliver,A,Oregon State,PCC,Lon Stiner,L,6,19
+1945-10-20,Oregon,PCC,Tex Oliver,H,Washington State,PCC,Phil Sarboe,W,26,13
+1945-10-27,Oregon,PCC,Tex Oliver,A,UCLA,PCC,Bert LaBrucherie,L,0,12
+1945-11-03,Oregon,PCC,Tex Oliver,H,Washington,PCC,Ralph Welch,L,0,7
+1945-11-10,Oregon,PCC,Tex Oliver,A,Washington State,PCC,Phil Sarboe,L,13,20
+1945-11-17,Oregon,PCC,Tex Oliver,A,California,PCC,Buck Shaw,W,20,13
+1945-12-01,Oregon,PCC,Tex Oliver,H,Oregon State,PCC,Lon Stiner,L,12,13
+1945-09-29,Brown,Ind,Rip Engle,A,Pennsylvania,Ind,George Munger,L,0,50
+1945-10-06,Brown,Ind,Rip Engle,H,Boston College,Ind,Moody Sarno,W,51,6
+1945-10-20,Brown,Ind,Rip Engle,H,Holy Cross,Ind,John DaGrosa,L,0,25
+1945-10-27,Brown,Ind,Rip Engle,A,Columbia,Ind,Lou Little,L,6,27
+1945-11-03,Brown,Ind,Rip Engle,H,Coast Guard,Ind,Johnny Merriman,W,33,6
+1945-11-10,Brown,Ind,Rip Engle,A,Yale,Ind,Howard Odell,W,20,7
+1945-11-17,Brown,Ind,Rip Engle,A,Harvard,Ind,,L,7,14
+1945-11-24,Brown,Ind,Rip Engle,H,Colgate,Ind,Andrew Kerr,T,6,6
+1945-09-29,Tennessee,SEC,John Barnhill,H,Wake Forest,Southern,D.C. Walker,W,7,6
+1945-10-06,Tennessee,SEC,John Barnhill,H,William & Mary,Southern,Rube McCray,W,48,13
+1945-10-13,Tennessee,SEC,John Barnhill,H,Chattanooga,Ind,Andrew Moore,W,30,0
+1945-10-20,Tennessee,SEC,John Barnhill,A,Alabama,SEC,Frank Thomas,L,7,25
+1945-10-27,Tennessee,SEC,John Barnhill,H,Villanova,Ind,Jordan Olivar,W,33,2
+1945-11-03,Tennessee,SEC,John Barnhill,H,North Carolina,Southern,Carl Snavely,W,20,6
+1945-11-10,Tennessee,SEC,John Barnhill,N,Ole Miss,SEC,Harry Mehre,W,34,0
+1945-11-24,Tennessee,SEC,John Barnhill,A,Kentucky,SEC,Bernie Shively,W,14,0
+1945-12-01,Tennessee,SEC,John Barnhill,H,Vanderbilt,SEC,Doby Bartling,W,45,0
+1945-10-06,Oregon State,PCC,Lon Stiner,A,Washington State,PCC,Phil Sarboe,L,0,33
+1945-10-13,Oregon State,PCC,Lon Stiner,H,Oregon,PCC,Tex Oliver,W,19,6
+1945-10-20,Oregon State,PCC,Lon Stiner,H,Washington,PCC,Ralph Welch,L,0,13
+1945-11-03,Oregon State,PCC,Lon Stiner,H,Idaho,PCC,Babe Brown,W,34,0
+1945-11-10,Oregon State,PCC,Lon Stiner,A,Washington,PCC,Ralph Welch,W,7,6
+1945-11-17,Oregon State,PCC,Lon Stiner,H,Washington State,PCC,Phil Sarboe,L,6,13
+1945-11-24,Oregon State,PCC,Lon Stiner,A,USC,PCC,Jeff Cravath,L,7,34
+1945-12-01,Oregon State,PCC,Lon Stiner,A,Oregon,PCC,Tex Oliver,W,13,12
+1945-10-06,Alabama,SEC,Frank Thomas,A,LSU,SEC,Bernie Moore,W,26,7
+1945-10-13,Alabama,SEC,Frank Thomas,H,South Carolina,Southern,Johnnie McMillan,W,55,0
+1945-10-20,Alabama,SEC,Frank Thomas,H,Tennessee,SEC,John Barnhill,W,25,7
+1945-10-27,Alabama,SEC,Frank Thomas,H,Georgia,SEC,Wallace Butts,W,28,14
+1945-11-03,Alabama,SEC,Frank Thomas,A,Kentucky,SEC,Bernie Shively,W,60,19
+1945-11-17,Alabama,SEC,Frank Thomas,A,Vanderbilt,SEC,Doby Bartling,W,71,0
+1945-12-01,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Allyn McKeen,W,55,13
+1946-01-01,Alabama,SEC,Frank Thomas,A,USC,PCC,Jeff Cravath,W,34,14
+1945-09-22,Purdue,Western,Cecil Isbell,H,Marquette,Ind,Tom Stidham,W,14,13
+1945-09-29,Purdue,Western,Cecil Isbell,A,Great Lakes Navy,Ind,,W,20,6
+1945-10-06,Purdue,Western,Cecil Isbell,A,Wisconsin,Western,Harry Stuhldreher,W,13,7
+1945-10-13,Purdue,Western,Cecil Isbell,H,Iowa,Western,Clem Crowe,W,40,0
+1945-10-20,Purdue,Western,Cecil Isbell,A,Ohio State,Western,Carroll Widdoes,W,35,13
+1945-10-27,Purdue,Western,Cecil Isbell,A,Northwestern,Western,Pappy Waldorf,L,14,26
+1945-11-03,Purdue,Western,Cecil Isbell,H,Pitt,Ind,Clark Shaughnessy,W,28,0
+1945-11-17,Purdue,Western,Cecil Isbell,A,Michigan,Western,Fritz Crisler,L,13,27
+1945-11-24,Purdue,Western,Cecil Isbell,A,Indiana,Western,Bo McMillin,L,0,26
+1945-09-29,Nebraska,Big 6,Potsy Clark,H,Oklahoma,Big 6,Snorter Luster,L,0,20
+1945-10-06,Nebraska,Big 6,Potsy Clark,H,Minnesota,Western,Bernie Bierman,L,7,61
+1945-10-13,Nebraska,Big 6,Potsy Clark,A,Indiana,Western,Bo McMillin,L,14,54
+1945-10-20,Nebraska,Big 6,Potsy Clark,A,Iowa State,Big 6,Mike Michalske,L,7,27
+1945-10-27,Nebraska,Big 6,Potsy Clark,A,Missouri,Big 6,Chauncey Simpson,L,0,19
+1945-11-03,Nebraska,Big 6,Potsy Clark,H,Kansas,Big 6,Henry Shenk,W,27,13
+1945-11-10,Nebraska,Big 6,Potsy Clark,A,Kansas State,Big 6,Lud Fiser,W,24,0
+1945-11-24,Nebraska,Big 6,Potsy Clark,H,Iowa,Western,Clem Crowe,W,13,6
+1945-09-29,West Virginia,Ind,Rat Rogers,A,Pitt,Ind,Clark Shaughnessy,L,0,20
+1945-10-12,West Virginia,Ind,Rat Rogers,A,Syracuse,Ind,Ossie Solem,L,0,12
+1945-10-19,West Virginia,Ind,Rat Rogers,A,Temple,Ind,Ray Morrison,L,12,28
+1945-10-27,West Virginia,Ind,Rat Rogers,H,Maryland,Southern,Bear Bryant,T,13,13
+1945-11-03,West Virginia,Ind,Rat Rogers,N,Virginia,Ind,Frank Murray,L,7,13
+1945-11-10,West Virginia,Ind,Rat Rogers,H,Kentucky,SEC,Bernie Shively,L,6,19
+1945-10-27,Harvard,Ind,,H,Coast Guard,Ind,Johnny Merriman,W,25,0
+1945-11-10,Harvard,Ind,,H,Merchant Marine,Ind,,W,28,7
+1945-11-17,Harvard,Ind,,H,Brown,Ind,Rip Engle,W,14,7
+1945-12-01,Harvard,Ind,,A,Yale,Ind,Howard Odell,L,0,28
+1945-09-29,Oklahoma State,MVC,Jim Lookabaugh,A,Arkansas,SWC,Glen Rose,W,19,14
+1945-10-06,Oklahoma State,MVC,Jim Lookabaugh,A,Denver,MSAC,Cac Hubbard,W,31,7
+1945-10-12,Oklahoma State,MVC,Jim Lookabaugh,H,SMU,SWC,Madison Bell,W,26,12
+1945-10-20,Oklahoma State,MVC,Jim Lookabaugh,A,Utah,MSAC,Ike Armstrong,W,46,6
+1945-10-27,Oklahoma State,MVC,Jim Lookabaugh,A,Texas Christian,SWC,Dutch Meyer,W,25,12
+1945-11-10,Oklahoma State,MVC,Jim Lookabaugh,H,Tulsa,MVC,Henry Frnka,W,12,6
+1945-11-17,Oklahoma State,MVC,Jim Lookabaugh,H,Texas Tech,BIAA,,W,46,6
+1945-11-24,Oklahoma State,MVC,Jim Lookabaugh,A,Oklahoma,Big 6,Snorter Luster,W,47,0
+1946-01-01,Oklahoma State,MVC,Jim Lookabaugh,N,Saint Mary's (CA),Ind,James Phelan,W,33,13
+1945-09-29,Colorado,MSAC,Frank Potts,A,Colorado College,Ind,Harold White,W,13,0
+1945-10-06,Colorado,MSAC,Frank Potts,H,Utah,MSAC,Ike Armstrong,W,18,13
+1945-10-13,Colorado,MSAC,Frank Potts,A,Colorado State,MSAC,Julius Wagner,W,21,6
+1945-10-20,Colorado,MSAC,Frank Potts,H,Colorado College,Ind,Harold White,W,31,0
+1945-11-03,Colorado,MSAC,Frank Potts,A,New Mexico,BIAA,Willis Barnes,L,6,12
+1945-11-10,Colorado,MSAC,Frank Potts,H,Utah State,MSAC,E. Lowell Romney,W,14,7
+1945-11-22,Colorado,MSAC,Frank Potts,A,Denver,MSAC,Cac Hubbard,L,8,14
+1945-10-13,Colorado State,MSAC,Julius Wagner,H,Colorado,MSAC,Frank Potts,L,6,21
+1945-10-20,Colorado State,MSAC,Julius Wagner,A,Utah State,MSAC,E. Lowell Romney,L,0,13
+1945-10-27,Colorado State,MSAC,Julius Wagner,H,Utah,MSAC,Ike Armstrong,L,0,28
+1945-11-10,Colorado State,MSAC,Julius Wagner,A,Denver,MSAC,Cac Hubbard,L,12,35
+1945-11-24,Colorado State,MSAC,Julius Wagner,A,Colorado College,Ind,Harold White,T,7,7
+1945-09-29,Rice,SWC,Jess Neely,A,LSU,SEC,Bernie Moore,L,0,42
+1945-10-13,Rice,SWC,Jess Neely,H,Tulane,SEC,Claude Simons,W,13,7
+1945-10-20,Rice,SWC,Jess Neely,A,SMU,SWC,Madison Bell,L,18,21
+1945-10-27,Rice,SWC,Jess Neely,A,Texas,SWC,Dana Bible,W,7,6
+1945-11-03,Rice,SWC,Jess Neely,H,Texas Tech,BIAA,,W,13,0
+1945-11-10,Rice,SWC,Jess Neely,H,Arkansas,SWC,Glen Rose,W,26,7
+1945-11-17,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Homer Norton,W,6,0
+1945-11-24,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Dutch Meyer,L,13,14
+1945-12-01,Rice,SWC,Jess Neely,H,Baylor,SWC,Frank Kimbrough,L,14,17
+1945-09-29,Texas A&M,SWC,Homer Norton,N,Texas Tech,BIAA,,W,16,6
+1945-10-06,Texas A&M,SWC,Homer Norton,A,Oklahoma,Big 6,Snorter Luster,W,19,14
+1945-10-13,Texas A&M,SWC,Homer Norton,A,LSU,SEC,Bernie Moore,L,12,31
+1945-10-20,Texas A&M,SWC,Homer Norton,A,Texas Christian,SWC,Dutch Meyer,L,12,13
+1945-10-27,Texas A&M,SWC,Homer Norton,H,Baylor,SWC,Frank Kimbrough,W,19,13
+1945-11-03,Texas A&M,SWC,Homer Norton,A,Arkansas,SWC,Glen Rose,W,34,0
+1945-11-10,Texas A&M,SWC,Homer Norton,H,SMU,SWC,Madison Bell,W,3,0
+1945-11-17,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jess Neely,L,0,6
+1945-11-29,Texas A&M,SWC,Homer Norton,H,Texas,SWC,Dana Bible,L,10,20
+1945-09-29,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Fritz Crisler,L,0,40
+1945-10-06,Michigan State,Ind,Charlie Bachman,H,Kentucky,SEC,Bernie Shively,W,7,6
+1945-10-13,Michigan State,Ind,Charlie Bachman,A,Pitt,Ind,Clark Shaughnessy,W,12,7
+1945-10-27,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Tom Stidham,T,13,13
+1945-11-03,Michigan State,Ind,Charlie Bachman,H,Missouri,Big 6,Chauncey Simpson,W,14,7
+1945-11-10,Michigan State,Ind,Charlie Bachman,H,Great Lakes Navy,Ind,,L,7,27
+1945-11-17,Michigan State,Ind,Charlie Bachman,H,Penn State,Ind,Bob Higgins,W,33,0
+1945-11-23,Michigan State,Ind,Charlie Bachman,A,Miami (FL),Ind,Jack Harding,L,7,21
+1945-10-06,Boston College,Ind,Moody Sarno,A,Brown,Ind,Rip Engle,L,6,51
+1945-10-12,Boston College,Ind,Moody Sarno,H,New York University,Ind,John Weinheimer,W,28,0
+1945-10-27,Boston College,Ind,Moody Sarno,A,Merchant Marine,Ind,,L,20,33
+1945-11-10,Boston College,Ind,Moody Sarno,A,Villanova,Ind,Jordan Olivar,L,0,41
+1945-11-25,Boston College,Ind,Moody Sarno,N,Holy Cross,Ind,John DaGrosa,L,0,46
+1945-10-06,Colgate,Ind,Andrew Kerr,A,Penn State,Ind,Bob Higgins,L,7,27
+1945-10-13,Colgate,Ind,Andrew Kerr,H,Lafayette,Ind,,W,47,0
+1945-10-20,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,L,7,31
+1945-10-27,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,John DaGrosa,L,0,21
+1945-11-10,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,,L,6,20
+1945-11-17,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,W,7,6
+1945-11-24,Colgate,Ind,Andrew Kerr,A,Brown,Ind,Rip Engle,T,6,6
+1945-09-22,Minnesota,Western,Bernie Bierman,H,Missouri,Big 6,Chauncey Simpson,W,34,0
+1945-10-06,Minnesota,Western,Bernie Bierman,A,Nebraska,Big 6,Potsy Clark,W,61,7
+1945-10-20,Minnesota,Western,Bernie Bierman,H,Northwestern,Western,Pappy Waldorf,W,30,7
+1945-10-27,Minnesota,Western,Bernie Bierman,H,Ohio State,Western,Carroll Widdoes,L,7,20
+1945-11-03,Minnesota,Western,Bernie Bierman,A,Michigan,Western,Fritz Crisler,L,0,26
+1945-11-10,Minnesota,Western,Bernie Bierman,H,Indiana,Western,Bo McMillin,L,0,49
+1945-11-17,Minnesota,Western,Bernie Bierman,A,Iowa,Western,Clem Crowe,L,19,20
+1945-11-24,Minnesota,Western,Bernie Bierman,H,Wisconsin,Western,Harry Stuhldreher,L,12,26
+1945-09-21,Ole Miss,SEC,Harry Mehre,H,Kentucky,SEC,Bernie Shively,W,21,7
+1945-09-29,Ole Miss,SEC,Harry Mehre,A,Florida,SEC,Tom Lieb,L,13,26
+1945-10-06,Ole Miss,SEC,Harry Mehre,A,Vanderbilt,SEC,Doby Bartling,W,14,7
+1945-10-27,Ole Miss,SEC,Harry Mehre,N,Arkansas,SWC,Glen Rose,L,0,19
+1945-11-03,Ole Miss,SEC,Harry Mehre,A,LSU,SEC,Bernie Moore,L,13,32
+1945-11-10,Ole Miss,SEC,Harry Mehre,N,Tennessee,SEC,John Barnhill,L,0,34
+1945-11-24,Ole Miss,SEC,Harry Mehre,A,Mississippi State,SEC,Allyn McKeen,W,7,6
+1945-11-29,Ole Miss,SEC,Harry Mehre,A,Chattanooga,Ind,Andrew Moore,L,6,31
+1945-09-22,Duke,Southern,,H,South Carolina,Southern,Johnnie McMillan,W,60,0
+1945-10-06,Duke,Southern,,H,Navy,Ind,Oscar Hagberg,L,0,21
+1945-10-13,Duke,Southern,,A,Wake Forest,Southern,D.C. Walker,W,26,19
+1945-10-27,Duke,Southern,,A,Army,Ind,Red Blaik,L,13,48
+1945-11-03,Duke,Southern,,A,Georgia Tech,SEC,Bobby Dodd,W,14,6
+1945-11-10,Duke,Southern,,H,North Carolina State,Southern,Beattie Feathers,W,26,13
+1945-11-24,Duke,Southern,,H,North Carolina,Southern,Carl Snavely,W,14,7
+1945-09-29,Navy,Ind,Oscar Hagberg,H,Villanova,Ind,Jordan Olivar,W,49,0
+1945-10-06,Navy,Ind,Oscar Hagberg,A,Duke,Southern,,W,21,0
+1945-10-13,Navy,Ind,Oscar Hagberg,H,Penn State,Ind,Bob Higgins,W,28,0
+1945-10-20,Navy,Ind,Oscar Hagberg,H,Georgia Tech,SEC,Bobby Dodd,W,20,6
+1945-10-27,Navy,Ind,Oscar Hagberg,A,Pennsylvania,Ind,George Munger,W,14,7
+1945-11-03,Navy,Ind,Oscar Hagberg,N,Notre Dame,Ind,Hugh Devore,T,6,6
+1945-11-10,Navy,Ind,Oscar Hagberg,H,Michigan,Western,Fritz Crisler,W,33,7
+1945-11-17,Navy,Ind,Oscar Hagberg,H,Wisconsin,Western,Harry Stuhldreher,W,36,7
+1945-12-01,Navy,Ind,Oscar Hagberg,N,Army,Ind,Red Blaik,L,13,32
+1945-09-29,Lafayette,Ind,,A,Columbia,Ind,Lou Little,L,14,40
+1945-10-06,Lafayette,Ind,,A,Princeton,Ind,,T,7,7
+1945-10-13,Lafayette,Ind,,A,Colgate,Ind,Andrew Kerr,L,0,47
+1945-10-20,Lafayette,Ind,,H,Merchant Marine,Ind,,L,7,26
+1945-10-27,Lafayette,Ind,,H,Bucknell,Ind,Ellwood Ludwig,L,2,26
+1945-11-03,Lafayette,Ind,,A,Temple,Ind,Ray Morrison,L,0,20
+1945-09-29,Texas Tech,BIAA,,N,Texas A&M,SWC,Homer Norton,L,6,16
+1945-10-06,Texas Tech,BIAA,,A,Texas,SWC,Dana Bible,L,0,33
+1945-10-13,Texas Tech,BIAA,,H,Tulsa,MVC,Henry Frnka,L,7,18
+1945-10-20,Texas Tech,BIAA,,H,Baylor,SWC,Frank Kimbrough,T,7,7
+1945-10-27,Texas Tech,BIAA,,H,West Texas A&M,BIAA,Gus Miller,W,12,6
+1945-11-03,Texas Tech,BIAA,,A,Rice,SWC,Jess Neely,L,0,13
+1945-11-10,Texas Tech,BIAA,,H,Texas Christian,SWC,Dutch Meyer,W,12,0
+1945-11-17,Texas Tech,BIAA,,A,Oklahoma State,MVC,Jim Lookabaugh,L,6,46
+1945-11-24,Texas Tech,BIAA,,A,New Mexico,BIAA,Willis Barnes,T,6,6
+1945-10-06,Tulane,SEC,Claude Simons,H,Florida,SEC,Tom Lieb,T,6,6
+1945-10-13,Tulane,SEC,Claude Simons,A,Rice,SWC,Jess Neely,L,7,13
+1945-10-20,Tulane,SEC,Claude Simons,H,Auburn,SEC,Carl Voyles,L,14,20
+1945-10-27,Tulane,SEC,Claude Simons,H,SMU,SWC,Madison Bell,W,19,7
+1945-11-03,Tulane,SEC,Claude Simons,H,Mississippi State,SEC,Allyn McKeen,W,14,13
+1945-11-10,Tulane,SEC,Claude Simons,H,Georgia Tech,SEC,Bobby Dodd,L,7,41
+1945-11-17,Tulane,SEC,Claude Simons,H,Clemson,Southern,Frank Howard,L,20,47
+1945-11-24,Tulane,SEC,Claude Simons,H,Notre Dame,Ind,Hugh Devore,L,6,32
+1945-12-01,Tulane,SEC,Claude Simons,H,LSU,SEC,Bernie Moore,L,0,33
+1945-09-24,Cornell,Ind,,A,Syracuse,Ind,Ossie Solem,W,26,14
+1945-09-29,Cornell,Ind,,H,Bucknell,Ind,Ellwood Ludwig,W,19,8
+1945-10-20,Cornell,Ind,,H,Princeton,Ind,,L,6,14
+1945-10-27,Cornell,Ind,,A,Yale,Ind,Howard Odell,L,7,18
+1945-11-03,Cornell,Ind,,A,Columbia,Ind,Lou Little,L,26,34
+1945-11-10,Cornell,Ind,,H,Colgate,Ind,Andrew Kerr,W,20,6
+1945-11-17,Cornell,Ind,,A,Dartmouth,Ind,,W,20,13
+1945-11-24,Cornell,Ind,,A,Pennsylvania,Ind,George Munger,L,6,59
+1945-09-29,Ohio State,Western,Carroll Widdoes,A,Missouri,Big 6,Chauncey Simpson,W,47,6
+1945-10-06,Ohio State,Western,Carroll Widdoes,H,Iowa,Western,Clem Crowe,W,42,0
+1945-10-13,Ohio State,Western,Carroll Widdoes,H,Wisconsin,Western,Harry Stuhldreher,W,12,0
+1945-10-20,Ohio State,Western,Carroll Widdoes,H,Purdue,Western,Cecil Isbell,L,13,35
+1945-10-27,Ohio State,Western,Carroll Widdoes,A,Minnesota,Western,Bernie Bierman,W,20,7
+1945-11-03,Ohio State,Western,Carroll Widdoes,H,Northwestern,Western,Pappy Waldorf,W,16,14
+1945-11-10,Ohio State,Western,Carroll Widdoes,A,Pitt,Ind,Clark Shaughnessy,W,14,0
+1945-11-17,Ohio State,Western,Carroll Widdoes,H,Illinois,Western,Ray Eliot,W,27,2
+1945-11-24,Ohio State,Western,Carroll Widdoes,A,Michigan,Western,Fritz Crisler,L,3,7
+1945-10-06,Drake,MVC,Vee Green,A,Tulsa,MVC,Henry Frnka,L,0,19
+1945-10-20,Drake,MVC,Vee Green,H,Denver,MSAC,Cac Hubbard,T,19,19
+1945-10-26,Drake,MVC,Vee Green,A,Detroit Mercy,Ind,Chuck Baer,L,14,19
+1945-11-03,Drake,MVC,Vee Green,A,Saint Louis,MVC,,W,25,0
+1945-11-17,Drake,MVC,Vee Green,H,Iowa State,Big 6,Mike Michalske,L,6,8
+1945-11-22,Drake,MVC,Vee Green,A,Wichita State,MVC,Mel Binford,L,13,19

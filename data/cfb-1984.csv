@@ -1,0 +1,1163 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1984-09-15,North Carolina,ACC,Dick Crum,H,Navy,Ind,Gary Tranquill,L,30,33
+1984-09-22,North Carolina,ACC,Dick Crum,A,Boston College,Ind,Jack Bicknell,L,20,52
+1984-09-29,North Carolina,ACC,Dick Crum,H,Kansas,Big 8,Mike Gottfried,W,23,17
+1984-10-06,North Carolina,ACC,Dick Crum,A,Clemson,ACC,Danny Ford,L,12,20
+1984-10-13,North Carolina,ACC,Dick Crum,A,Wake Forest,ACC,Al Groh,L,3,14
+1984-10-20,North Carolina,ACC,Dick Crum,H,North Carolina State,ACC,Tom Reed,W,28,21
+1984-10-27,North Carolina,ACC,Dick Crum,A,Memphis,Ind,Rey Dempsey,W,30,27
+1984-11-03,North Carolina,ACC,Dick Crum,H,Maryland,ACC,Bobby Ross,L,23,34
+1984-11-10,North Carolina,ACC,Dick Crum,H,Georgia Tech,ACC,Bill Curry,W,24,17
+1984-11-17,North Carolina,ACC,Dick Crum,H,Virginia,ACC,George Welsh,T,24,24
+1984-11-24,North Carolina,ACC,Dick Crum,A,Duke,ACC,Steve Sloan,W,17,15
+1984-09-08,Miami (OH),MAC,Tim Rose,A,Western Michigan,MAC,Jack Harbaugh,L,13,17
+1984-09-15,Miami (OH),MAC,Tim Rose,A,Houston,SWC,Bill Yeoman,L,17,30
+1984-09-22,Miami (OH),MAC,Tim Rose,H,Bowling Green State,MAC,Dennis Stolz,L,10,41
+1984-09-29,Miami (OH),MAC,Tim Rose,A,Washington,Pac-10,Don James,L,7,53
+1984-10-06,Miami (OH),MAC,Tim Rose,A,Kent State,MAC,Dick Scesniak,W,19,3
+1984-10-13,Miami (OH),MAC,Tim Rose,H,Toledo,MAC,Dan Simrell,L,7,10
+1984-10-20,Miami (OH),MAC,Tim Rose,H,Central Michigan,MAC,Herb Deromedi,L,9,10
+1984-10-27,Miami (OH),MAC,Tim Rose,A,Northern Illinois,MAC,Lee Corso,W,20,7
+1984-11-03,Miami (OH),MAC,Tim Rose,A,Ohio,MAC,Brian Burke,L,19,24
+1984-11-10,Miami (OH),MAC,Tim Rose,H,Eastern Michigan,MAC,Jim Harkema,W,23,0
+1984-11-22,Miami (OH),MAC,Tim Rose,A,Cincinnati,Ind,Dave Currey,W,31,26
+1984-09-08,Indiana,Big Ten,Bill Mallory,A,Duke,ACC,Steve Sloan,L,24,31
+1984-09-15,Indiana,Big Ten,Bill Mallory,H,Kentucky,SEC,Jerry Claiborne,L,14,48
+1984-09-22,Indiana,Big Ten,Bill Mallory,A,Northwestern,Big Ten,Dennis Green,L,37,40
+1984-09-29,Indiana,Big Ten,Bill Mallory,H,Michigan,Big Ten,Bo Schembechler,L,6,14
+1984-10-06,Indiana,Big Ten,Bill Mallory,A,Minnesota,Big Ten,Lou Holtz,L,24,33
+1984-10-13,Indiana,Big Ten,Bill Mallory,A,Michigan State,Big Ten,George Perles,L,6,13
+1984-10-20,Indiana,Big Ten,Bill Mallory,H,Wisconsin,Big Ten,Dave McClain,L,16,20
+1984-10-27,Indiana,Big Ten,Bill Mallory,H,Iowa,Big Ten,Hayden Fry,L,20,24
+1984-11-03,Indiana,Big Ten,Bill Mallory,A,Ohio State,Big Ten,Earle Bruce,L,7,50
+1984-11-10,Indiana,Big Ten,Bill Mallory,H,Illinois,Big Ten,Mike White,L,7,34
+1984-11-17,Indiana,Big Ten,Bill Mallory,A,Purdue,Big Ten,Leon Burtnett,L,24,31
+1984-09-01,Florida State,Ind,Bobby Bowden,H,East Carolina,Ind,Ed Emory,W,48,17
+1984-09-15,Florida State,Ind,Bobby Bowden,A,Kansas,Big 8,Mike Gottfried,W,42,16
+1984-09-22,Florida State,Ind,Bobby Bowden,A,Miami (FL),Ind,Jimmy Johnson,W,38,3
+1984-09-29,Florida State,Ind,Bobby Bowden,H,Temple,Ind,Bruce Arians,W,44,27
+1984-10-06,Florida State,Ind,Bobby Bowden,A,Memphis,Ind,Rey Dempsey,T,17,17
+1984-10-13,Florida State,Ind,Bobby Bowden,H,Auburn,SEC,Pat Dye,L,41,42
+1984-10-20,Florida State,Ind,Bobby Bowden,H,Tulane,Ind,Wally English,W,27,6
+1984-11-03,Florida State,Ind,Bobby Bowden,A,Arizona State,Pac-10,Darryl Rogers,W,52,44
+1984-11-10,Florida State,Ind,Bobby Bowden,A,South Carolina,Ind,Joe Morrison,L,26,38
+1984-12-01,Florida State,Ind,Bobby Bowden,H,Florida,SEC,Galen Hall,L,17,27
+1984-12-22,Florida State,Ind,Bobby Bowden,N,Georgia,SEC,Vince Dooley,T,17,17
+1984-09-08,Iowa State,Big 8,Jim Criner,A,Iowa,Big Ten,Hayden Fry,L,21,59
+1984-09-15,Iowa State,Big 8,Jim Criner,H,Drake,MVC,,W,21,17
+1984-09-22,Iowa State,Big 8,Jim Criner,A,Texas A&M,SWC,Jackie Sherrill,L,17,38
+1984-09-29,Iowa State,Big 8,Jim Criner,H,West Texas A&M,MVC,,W,14,0
+1984-10-06,Iowa State,Big 8,Jim Criner,A,Kansas,Big 8,Mike Gottfried,L,14,33
+1984-10-13,Iowa State,Big 8,Jim Criner,A,Colorado,Big 8,Bill McCartney,L,21,23
+1984-10-20,Iowa State,Big 8,Jim Criner,H,Oklahoma,Big 8,Barry Switzer,L,10,12
+1984-10-27,Iowa State,Big 8,Jim Criner,A,Missouri,Big 8,Warren Powers,T,14,14
+1984-11-03,Iowa State,Big 8,Jim Criner,H,Nebraska,Big 8,Tom Osborne,L,0,44
+1984-11-10,Iowa State,Big 8,Jim Criner,H,Kansas State,Big 8,Jim Dickey,T,7,7
+1984-11-17,Iowa State,Big 8,Jim Criner,A,Oklahoma State,Big 8,Pat Jones,L,10,16
+1984-09-22,Cincinnati,Ind,Dave Currey,A,Memphis,Ind,Rey Dempsey,L,7,47
+1984-09-29,Cincinnati,Ind,Dave Currey,A,Rutgers,Ind,Dick Anderson,L,15,43
+1984-10-13,Cincinnati,Ind,Dave Currey,H,Miami (FL),Ind,Jimmy Johnson,L,25,49
+1984-10-20,Cincinnati,Ind,Dave Currey,A,Florida,SEC,Galen Hall,L,17,48
+1984-10-27,Cincinnati,Ind,Dave Currey,H,Louisville,Ind,Bob Weber,W,40,21
+1984-11-03,Cincinnati,Ind,Dave Currey,A,Temple,Ind,Bruce Arians,L,10,42
+1984-11-10,Cincinnati,Ind,Dave Currey,A,Auburn,SEC,Pat Dye,L,0,60
+1984-11-17,Cincinnati,Ind,Dave Currey,H,Alabama,SEC,Ray Perkins,L,7,29
+1984-11-22,Cincinnati,Ind,Dave Currey,H,Miami (OH),MAC,Tim Rose,L,26,31
+1984-09-08,Arizona State,Pac-10,Darryl Rogers,H,Oklahoma State,Big 8,Pat Jones,L,3,45
+1984-09-15,Arizona State,Pac-10,Darryl Rogers,H,San Jose State,PCAA,Claude Gilbert,W,48,0
+1984-09-22,Arizona State,Pac-10,Darryl Rogers,H,USC,Pac-10,Ted Tollner,L,3,6
+1984-09-29,Arizona State,Pac-10,Darryl Rogers,A,Stanford,Pac-10,Jack Elway,W,28,10
+1984-10-06,Arizona State,Pac-10,Darryl Rogers,H,California,Pac-10,Joe Kapp,L,14,19
+1984-10-20,Arizona State,Pac-10,Darryl Rogers,H,Oregon State,Pac-10,Joe Avezzano,W,45,10
+1984-10-27,Arizona State,Pac-10,Darryl Rogers,H,UCLA,Pac-10,Terry Donahue,L,13,21
+1984-11-03,Arizona State,Pac-10,Darryl Rogers,H,Florida State,Ind,Bobby Bowden,L,44,52
+1984-11-10,Arizona State,Pac-10,Darryl Rogers,A,Oregon,Pac-10,Rich Brooks,W,44,10
+1984-11-17,Arizona State,Pac-10,Darryl Rogers,H,Colorado State,WAC,Leon Fuller,W,45,14
+1984-11-24,Arizona State,Pac-10,Darryl Rogers,A,Arizona,Pac-10,Larry Smith,L,10,16
+1984-09-08,Utah,WAC,Chuck Stobart,A,Washington State,Pac-10,Jim Walden,L,40,42
+1984-09-15,Utah,WAC,Chuck Stobart,A,Tennessee,SEC,Johnny Majors,L,21,27
+1984-09-22,Utah,WAC,Chuck Stobart,H,Air Force,WAC,Fisher DeBerry,W,28,17
+1984-09-29,Utah,WAC,Chuck Stobart,A,Wyoming,WAC,Al Kincaid,L,14,21
+1984-10-05,Utah,WAC,Chuck Stobart,H,New Mexico,WAC,Joe Lee Dunn,W,38,14
+1984-10-13,Utah,WAC,Chuck Stobart,A,San Diego State,WAC,Doug Scovil,T,24,24
+1984-10-20,Utah,WAC,Chuck Stobart,A,Hawaii,WAC,Dick Tomey,L,17,20
+1984-10-27,Utah,WAC,Chuck Stobart,H,UTEP,WAC,Bill Yung,W,43,15
+1984-11-03,Utah,WAC,Chuck Stobart,H,Colorado State,WAC,Leon Fuller,W,35,23
+1984-11-10,Utah,WAC,Chuck Stobart,A,Utah State,PCAA,Chris Pella,W,21,10
+1984-11-17,Utah,WAC,Chuck Stobart,H,Brigham Young,WAC,LaVell Edwards,L,14,24
+1984-09-08,Cal State Fullerton,PCAA,Gene Murphy,A,Hawaii,WAC,Dick Tomey,W,21,13
+1984-09-22,Cal State Fullerton,PCAA,Gene Murphy,A,Colorado State,WAC,Leon Fuller,W,34,22
+1984-09-29,Cal State Fullerton,PCAA,Gene Murphy,H,Utah State,PCAA,Chris Pella,W,27,16
+1984-10-06,Cal State Fullerton,PCAA,Gene Murphy,A,Pacific,PCAA,Bob Cope,W,41,31
+1984-10-13,Cal State Fullerton,PCAA,Gene Murphy,H,San Jose State,PCAA,Claude Gilbert,W,21,12
+1984-10-27,Cal State Fullerton,PCAA,Gene Murphy,H,Long Beach State,PCAA,Mike Sheppard,W,42,28
+1984-11-03,Cal State Fullerton,PCAA,Gene Murphy,A,Fresno State,PCAA,Jim Sweeney,W,20,17
+1984-11-10,Cal State Fullerton,PCAA,Gene Murphy,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,20,26
+1984-11-17,Cal State Fullerton,PCAA,Gene Murphy,A,New Mexico State,PCAA,Fred Zechman,W,20,0
+1984-09-08,Wichita State,MVC,Ron Chismar,A,Kansas,Big 8,Mike Gottfried,L,7,31
+1984-09-15,Wichita State,MVC,Ron Chismar,A,LSU,SEC,Bill Arnsparger,L,7,47
+1984-09-22,Wichita State,MVC,Ron Chismar,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,21,38
+1984-10-06,Wichita State,MVC,Ron Chismar,A,Louisiana,Ind,Sam Robertson,L,3,31
+1984-10-20,Wichita State,MVC,Ron Chismar,A,Tulsa,MVC,John Cooper,L,20,55
+1984-10-27,Wichita State,MVC,Ron Chismar,A,Drake,MVC,,W,23,6
+1984-11-03,Wichita State,MVC,Ron Chismar,H,New Mexico State,PCAA,Fred Zechman,L,24,31
+1984-11-10,Wichita State,MVC,Ron Chismar,H,West Texas A&M,MVC,,W,17,14
+1984-11-17,Wichita State,MVC,Ron Chismar,H,Illinois State,MVC,,L,0,17
+1984-09-08,Illinois State,MVC,,H,Southern Illinois,MVC,Ray Door,W,35,7
+1984-09-15,Illinois State,MVC,,A,Western Michigan,MAC,Jack Harbaugh,L,14,41
+1984-09-22,Illinois State,MVC,,A,Indiana State,MVC,,L,7,19
+1984-09-29,Illinois State,MVC,,H,Drake,MVC,,W,28,0
+1984-11-03,Illinois State,MVC,,H,Tulsa,MVC,John Cooper,L,7,28
+1984-11-17,Illinois State,MVC,,A,Wichita State,MVC,Ron Chismar,W,17,0
+1984-09-08,Syracuse,Ind,Dick MacPherson,A,Maryland,ACC,Bobby Ross,W,23,7
+1984-09-15,Syracuse,Ind,Dick MacPherson,A,Northwestern,Big Ten,Dennis Green,W,13,12
+1984-09-22,Syracuse,Ind,Dick MacPherson,H,Rutgers,Ind,Dick Anderson,L,0,19
+1984-09-29,Syracuse,Ind,Dick MacPherson,H,Nebraska,Big 8,Tom Osborne,W,17,9
+1984-10-06,Syracuse,Ind,Dick MacPherson,A,Florida,SEC,Galen Hall,L,0,16
+1984-10-13,Syracuse,Ind,Dick MacPherson,A,West Virginia,Ind,Don Nehlen,L,10,20
+1984-10-20,Syracuse,Ind,Dick MacPherson,A,Penn State,Ind,Joe Paterno,L,3,21
+1984-10-27,Syracuse,Ind,Dick MacPherson,H,Army,Ind,Jim Young,W,27,16
+1984-11-03,Syracuse,Ind,Dick MacPherson,H,Pitt,Ind,Foge Fazio,W,13,7
+1984-11-10,Syracuse,Ind,Dick MacPherson,H,Navy,Ind,Gary Tranquill,W,29,0
+1984-11-17,Syracuse,Ind,Dick MacPherson,A,Boston College,Ind,Jack Bicknell,L,16,24
+1984-09-01,Arizona,Pac-10,Larry Smith,H,Fresno State,PCAA,Jim Sweeney,L,22,27
+1984-09-08,Arizona,Pac-10,Larry Smith,H,California,Pac-10,Joe Kapp,W,23,13
+1984-09-15,Arizona,Pac-10,Larry Smith,A,Oregon State,Pac-10,Joe Avezzano,W,27,8
+1984-09-22,Arizona,Pac-10,Larry Smith,A,LSU,SEC,Bill Arnsparger,L,26,27
+1984-09-29,Arizona,Pac-10,Larry Smith,H,Long Beach State,PCAA,Mike Sheppard,W,31,24
+1984-10-06,Arizona,Pac-10,Larry Smith,H,Oregon,Pac-10,Rich Brooks,W,28,14
+1984-10-20,Arizona,Pac-10,Larry Smith,A,USC,Pac-10,Ted Tollner,L,14,17
+1984-10-27,Arizona,Pac-10,Larry Smith,A,Washington,Pac-10,Don James,L,12,28
+1984-11-03,Arizona,Pac-10,Larry Smith,H,Utah State,PCAA,Chris Pella,W,45,10
+1984-11-10,Arizona,Pac-10,Larry Smith,H,Stanford,Pac-10,Jack Elway,W,28,14
+1984-11-24,Arizona,Pac-10,Larry Smith,H,Arizona State,Pac-10,Darryl Rogers,W,16,10
+1984-09-08,Penn State,Ind,Joe Paterno,H,Rutgers,Ind,Dick Anderson,W,15,12
+1984-09-15,Penn State,Ind,Joe Paterno,A,Iowa,Big Ten,Hayden Fry,W,20,17
+1984-09-29,Penn State,Ind,Joe Paterno,N,Texas,SWC,Fred Akers,L,3,28
+1984-10-06,Penn State,Ind,Joe Paterno,H,Maryland,ACC,Bobby Ross,W,25,24
+1984-10-13,Penn State,Ind,Joe Paterno,A,Alabama,SEC,Ray Perkins,L,0,6
+1984-10-20,Penn State,Ind,Joe Paterno,H,Syracuse,Ind,Dick MacPherson,W,21,3
+1984-10-27,Penn State,Ind,Joe Paterno,A,West Virginia,Ind,Don Nehlen,L,14,17
+1984-11-03,Penn State,Ind,Joe Paterno,H,Boston College,Ind,Jack Bicknell,W,37,30
+1984-11-17,Penn State,Ind,Joe Paterno,A,Notre Dame,Ind,Gerry Faust,L,7,44
+1984-11-24,Penn State,Ind,Joe Paterno,H,Pitt,Ind,Foge Fazio,L,11,31
+1984-09-08,Vanderbilt,SEC,George MacIntyre,H,Kansas State,Big 8,Jim Dickey,W,26,14
+1984-09-15,Vanderbilt,SEC,George MacIntyre,A,Maryland,ACC,Bobby Ross,W,23,14
+1984-09-22,Vanderbilt,SEC,George MacIntyre,H,Kansas,Big 8,Mike Gottfried,W,41,6
+1984-09-29,Vanderbilt,SEC,George MacIntyre,A,Alabama,SEC,Ray Perkins,W,30,21
+1984-10-06,Vanderbilt,SEC,George MacIntyre,H,Tulane,Ind,Wally English,L,23,27
+1984-10-13,Vanderbilt,SEC,George MacIntyre,A,LSU,SEC,Bill Arnsparger,L,27,34
+1984-10-20,Vanderbilt,SEC,George MacIntyre,A,Georgia,SEC,Vince Dooley,L,35,62
+1984-10-27,Vanderbilt,SEC,George MacIntyre,H,Ole Miss,SEC,Billy Brewer,W,37,20
+1984-11-10,Vanderbilt,SEC,George MacIntyre,A,Kentucky,SEC,Jerry Claiborne,L,18,27
+1984-11-17,Vanderbilt,SEC,George MacIntyre,H,Virginia Tech,Ind,Bill Dooley,L,3,23
+1984-12-01,Vanderbilt,SEC,George MacIntyre,H,Tennessee,SEC,Johnny Majors,L,13,29
+1984-09-08,Kentucky,SEC,Jerry Claiborne,H,Kent State,MAC,Dick Scesniak,W,42,0
+1984-09-15,Kentucky,SEC,Jerry Claiborne,A,Indiana,Big Ten,Bill Mallory,W,48,14
+1984-09-22,Kentucky,SEC,Jerry Claiborne,A,Tulane,Ind,Wally English,W,30,26
+1984-10-06,Kentucky,SEC,Jerry Claiborne,H,Rutgers,Ind,Dick Anderson,W,27,14
+1984-10-13,Kentucky,SEC,Jerry Claiborne,A,Mississippi State,SEC,Emory Bellard,W,17,13
+1984-10-20,Kentucky,SEC,Jerry Claiborne,H,LSU,SEC,Bill Arnsparger,L,10,36
+1984-10-27,Kentucky,SEC,Jerry Claiborne,H,Georgia,SEC,Vince Dooley,L,7,37
+1984-11-10,Kentucky,SEC,Jerry Claiborne,H,Vanderbilt,SEC,George MacIntyre,W,27,18
+1984-11-17,Kentucky,SEC,Jerry Claiborne,H,Florida,SEC,Galen Hall,L,17,25
+1984-11-24,Kentucky,SEC,Jerry Claiborne,A,Tennessee,SEC,Johnny Majors,W,17,12
+1984-12-29,Kentucky,SEC,Jerry Claiborne,N,Wisconsin,Big Ten,Dave McClain,W,20,19
+1984-09-08,California,Pac-10,Joe Kapp,A,Arizona,Pac-10,Larry Smith,L,13,23
+1984-09-15,California,Pac-10,Joe Kapp,H,Pacific,PCAA,Bob Cope,W,28,12
+1984-09-22,California,Pac-10,Joe Kapp,H,Oregon,Pac-10,Rich Brooks,L,14,21
+1984-09-29,California,Pac-10,Joe Kapp,H,San Jose State,PCAA,Claude Gilbert,L,18,33
+1984-10-06,California,Pac-10,Joe Kapp,A,Arizona State,Pac-10,Darryl Rogers,W,19,14
+1984-10-13,California,Pac-10,Joe Kapp,A,Oregon State,Pac-10,Joe Avezzano,L,6,9
+1984-10-20,California,Pac-10,Joe Kapp,H,UCLA,Pac-10,Terry Donahue,L,14,17
+1984-10-27,California,Pac-10,Joe Kapp,A,USC,Pac-10,Ted Tollner,L,7,31
+1984-11-03,California,Pac-10,Joe Kapp,A,Washington,Pac-10,Don James,L,14,44
+1984-11-10,California,Pac-10,Joe Kapp,H,Washington State,Pac-10,Jim Walden,L,7,33
+1984-11-17,California,Pac-10,Joe Kapp,H,Stanford,Pac-10,Jack Elway,L,10,27
+1984-09-01,Florida,SEC,Galen Hall,N,Miami (FL),Ind,Jimmy Johnson,L,20,32
+1984-09-08,Florida,SEC,Galen Hall,H,LSU,SEC,Bill Arnsparger,T,21,21
+1984-09-15,Florida,SEC,Galen Hall,H,Tulane,Ind,Wally English,W,63,21
+1984-09-29,Florida,SEC,Galen Hall,H,Mississippi State,SEC,Emory Bellard,W,27,12
+1984-10-06,Florida,SEC,Galen Hall,H,Syracuse,Ind,Dick MacPherson,W,16,0
+1984-10-13,Florida,SEC,Galen Hall,A,Tennessee,SEC,Johnny Majors,W,43,30
+1984-10-20,Florida,SEC,Galen Hall,H,Cincinnati,Ind,Dave Currey,W,48,17
+1984-11-03,Florida,SEC,Galen Hall,H,Auburn,SEC,Pat Dye,W,24,3
+1984-11-10,Florida,SEC,Galen Hall,N,Georgia,SEC,Vince Dooley,W,27,0
+1984-11-17,Florida,SEC,Galen Hall,A,Kentucky,SEC,Jerry Claiborne,W,25,17
+1984-12-01,Florida,SEC,Galen Hall,A,Florida State,Ind,Bobby Bowden,W,27,17
+1984-09-08,Stanford,Pac-10,Jack Elway,A,Oklahoma,Big 8,Barry Switzer,L,7,19
+1984-09-15,Stanford,Pac-10,Jack Elway,H,Illinois,Big Ten,Mike White,W,34,19
+1984-09-22,Stanford,Pac-10,Jack Elway,H,San Jose State,PCAA,Claude Gilbert,W,28,27
+1984-09-29,Stanford,Pac-10,Jack Elway,H,Arizona State,Pac-10,Darryl Rogers,L,10,28
+1984-10-06,Stanford,Pac-10,Jack Elway,A,UCLA,Pac-10,Terry Donahue,W,23,21
+1984-10-13,Stanford,Pac-10,Jack Elway,H,Washington,Pac-10,Don James,L,15,37
+1984-10-20,Stanford,Pac-10,Jack Elway,H,Washington State,Pac-10,Jim Walden,L,42,49
+1984-10-27,Stanford,Pac-10,Jack Elway,A,Oregon State,Pac-10,Joe Avezzano,W,28,21
+1984-11-03,Stanford,Pac-10,Jack Elway,H,USC,Pac-10,Ted Tollner,L,11,20
+1984-11-10,Stanford,Pac-10,Jack Elway,A,Arizona,Pac-10,Larry Smith,L,14,28
+1984-11-17,Stanford,Pac-10,Jack Elway,A,California,Pac-10,Joe Kapp,W,27,10
+1984-09-01,Washington State,Pac-10,Jim Walden,A,Tennessee,SEC,Johnny Majors,L,27,34
+1984-09-08,Washington State,Pac-10,Jim Walden,H,Utah,WAC,Chuck Stobart,W,42,40
+1984-09-15,Washington State,Pac-10,Jim Walden,A,Ohio State,Big Ten,Earle Bruce,L,0,44
+1984-09-22,Washington State,Pac-10,Jim Walden,H,Ball State,MAC,Dwight Wallace,W,16,14
+1984-10-06,Washington State,Pac-10,Jim Walden,H,USC,Pac-10,Ted Tollner,L,27,29
+1984-10-13,Washington State,Pac-10,Jim Walden,A,UCLA,Pac-10,Terry Donahue,L,24,27
+1984-10-20,Washington State,Pac-10,Jim Walden,A,Stanford,Pac-10,Jack Elway,W,49,42
+1984-10-27,Washington State,Pac-10,Jim Walden,A,Oregon,Pac-10,Rich Brooks,W,50,41
+1984-11-03,Washington State,Pac-10,Jim Walden,H,Oregon State,Pac-10,Joe Avezzano,W,20,3
+1984-11-10,Washington State,Pac-10,Jim Walden,A,California,Pac-10,Joe Kapp,W,33,7
+1984-11-17,Washington State,Pac-10,Jim Walden,H,Washington,Pac-10,Don James,L,29,38
+1984-09-01,Illinois,Big Ten,Mike White,H,Northwestern,Big Ten,Dennis Green,W,24,16
+1984-09-08,Illinois,Big Ten,Mike White,H,Missouri,Big 8,Warren Powers,W,30,24
+1984-09-15,Illinois,Big Ten,Mike White,A,Stanford,Pac-10,Jack Elway,L,19,34
+1984-09-22,Illinois,Big Ten,Mike White,H,Michigan State,Big Ten,George Perles,W,40,7
+1984-09-29,Illinois,Big Ten,Mike White,A,Iowa,Big Ten,Hayden Fry,L,16,21
+1984-10-06,Illinois,Big Ten,Mike White,H,Wisconsin,Big Ten,Dave McClain,W,22,6
+1984-10-13,Illinois,Big Ten,Mike White,A,Ohio State,Big Ten,Earle Bruce,L,38,45
+1984-10-20,Illinois,Big Ten,Mike White,H,Purdue,Big Ten,Leon Burtnett,W,34,20
+1984-10-27,Illinois,Big Ten,Mike White,A,Michigan,Big Ten,Bo Schembechler,L,18,26
+1984-11-03,Illinois,Big Ten,Mike White,H,Minnesota,Big Ten,Lou Holtz,W,48,3
+1984-11-10,Illinois,Big Ten,Mike White,A,Indiana,Big Ten,Bill Mallory,W,34,7
+1984-09-08,Baylor,SWC,Grant Teaff,A,Brigham Young,WAC,LaVell Edwards,L,13,47
+1984-09-22,Baylor,SWC,Grant Teaff,A,Oklahoma,Big 8,Barry Switzer,L,15,34
+1984-09-29,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Jerry Moore,W,18,9
+1984-10-06,Baylor,SWC,Grant Teaff,H,Houston,SWC,Bill Yeoman,L,17,27
+1984-10-13,Baylor,SWC,Grant Teaff,H,SMU,SWC,Bobby Collins,L,20,24
+1984-10-20,Baylor,SWC,Grant Teaff,A,Texas A&M,SWC,Jackie Sherrill,W,20,16
+1984-10-27,Baylor,SWC,Grant Teaff,A,Texas Christian,SWC,Jim Wacker,L,28,38
+1984-11-03,Baylor,SWC,Grant Teaff,H,New Mexico,WAC,Joe Lee Dunn,W,38,2
+1984-11-10,Baylor,SWC,Grant Teaff,H,Arkansas,SWC,Ken Hatfield,L,9,14
+1984-11-17,Baylor,SWC,Grant Teaff,A,Rice,SWC,Watson Brown,W,46,40
+1984-11-24,Baylor,SWC,Grant Teaff,H,Texas,SWC,Fred Akers,W,24,10
+1984-09-15,SMU,SWC,Bobby Collins,A,Louisville,Ind,Bob Weber,W,41,7
+1984-09-29,SMU,SWC,Bobby Collins,H,Texas Christian,SWC,Jim Wacker,W,26,17
+1984-10-13,SMU,SWC,Bobby Collins,A,Baylor,SWC,Grant Teaff,W,24,20
+1984-10-20,SMU,SWC,Bobby Collins,H,Houston,SWC,Bill Yeoman,L,20,29
+1984-10-27,SMU,SWC,Bobby Collins,A,Texas,SWC,Fred Akers,L,7,13
+1984-11-03,SMU,SWC,Bobby Collins,H,Texas A&M,SWC,Jackie Sherrill,W,28,20
+1984-11-10,SMU,SWC,Bobby Collins,A,Rice,SWC,Watson Brown,W,31,17
+1984-11-17,SMU,SWC,Bobby Collins,A,Texas Tech,SWC,Jerry Moore,W,31,0
+1984-11-24,SMU,SWC,Bobby Collins,H,Arkansas,SWC,Ken Hatfield,W,31,28
+1984-12-01,SMU,SWC,Bobby Collins,A,Nevada-Las Vegas,PCAA,Harvey Hyde,W,38,21
+1984-12-29,SMU,SWC,Bobby Collins,N,Notre Dame,Ind,Gerry Faust,W,27,20
+1984-09-08,Georgia,SEC,Vince Dooley,H,Southern Mississippi,Ind,Jim Carmody,W,26,19
+1984-09-22,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Danny Ford,W,26,23
+1984-09-29,Georgia,SEC,Vince Dooley,A,South Carolina,Ind,Joe Morrison,L,10,17
+1984-10-06,Georgia,SEC,Vince Dooley,A,Alabama,SEC,Ray Perkins,W,24,14
+1984-10-13,Georgia,SEC,Vince Dooley,H,Ole Miss,SEC,Billy Brewer,W,18,12
+1984-10-20,Georgia,SEC,Vince Dooley,H,Vanderbilt,SEC,George MacIntyre,W,62,35
+1984-10-27,Georgia,SEC,Vince Dooley,A,Kentucky,SEC,Jerry Claiborne,W,37,7
+1984-11-03,Georgia,SEC,Vince Dooley,H,Memphis,Ind,Rey Dempsey,W,13,3
+1984-11-10,Georgia,SEC,Vince Dooley,N,Florida,SEC,Galen Hall,L,0,27
+1984-11-17,Georgia,SEC,Vince Dooley,A,Auburn,SEC,Pat Dye,L,12,21
+1984-12-01,Georgia,SEC,Vince Dooley,H,Georgia Tech,ACC,Bill Curry,L,18,35
+1984-12-22,Georgia,SEC,Vince Dooley,N,Florida State,Ind,Bobby Bowden,T,17,17
+1984-09-08,Maryland,ACC,Bobby Ross,H,Syracuse,Ind,Dick MacPherson,L,7,23
+1984-09-15,Maryland,ACC,Bobby Ross,H,Vanderbilt,SEC,George MacIntyre,L,14,23
+1984-09-22,Maryland,ACC,Bobby Ross,A,West Virginia,Ind,Don Nehlen,W,20,17
+1984-09-29,Maryland,ACC,Bobby Ross,H,Wake Forest,ACC,Al Groh,W,38,17
+1984-10-06,Maryland,ACC,Bobby Ross,A,Penn State,Ind,Joe Paterno,L,24,25
+1984-10-13,Maryland,ACC,Bobby Ross,H,North Carolina State,ACC,Tom Reed,W,44,21
+1984-10-27,Maryland,ACC,Bobby Ross,A,Duke,ACC,Steve Sloan,W,43,7
+1984-11-03,Maryland,ACC,Bobby Ross,A,North Carolina,ACC,Dick Crum,W,34,23
+1984-11-10,Maryland,ACC,Bobby Ross,A,Miami (FL),Ind,Jimmy Johnson,W,42,40
+1984-11-17,Maryland,ACC,Bobby Ross,H,Clemson,ACC,Danny Ford,W,41,23
+1984-11-24,Maryland,ACC,Bobby Ross,A,Virginia,ACC,George Welsh,W,45,34
+1984-12-22,Maryland,ACC,Bobby Ross,N,Tennessee,SEC,Johnny Majors,W,28,27
+1984-09-08,Virginia,ACC,George Welsh,H,Clemson,ACC,Danny Ford,L,0,55
+1984-09-22,Virginia,ACC,George Welsh,A,Navy,Ind,Gary Tranquill,W,21,9
+1984-09-29,Virginia,ACC,George Welsh,A,Virginia Tech,Ind,Bill Dooley,W,26,23
+1984-10-06,Virginia,ACC,George Welsh,A,Duke,ACC,Steve Sloan,W,38,10
+1984-10-13,Virginia,ACC,George Welsh,H,Georgia Tech,ACC,Bill Curry,T,20,20
+1984-10-20,Virginia,ACC,George Welsh,H,Wake Forest,ACC,Al Groh,W,28,9
+1984-11-03,Virginia,ACC,George Welsh,A,West Virginia,Ind,Don Nehlen,W,27,7
+1984-11-10,Virginia,ACC,George Welsh,H,North Carolina State,ACC,Tom Reed,W,45,0
+1984-11-17,Virginia,ACC,George Welsh,A,North Carolina,ACC,Dick Crum,T,24,24
+1984-11-24,Virginia,ACC,George Welsh,H,Maryland,ACC,Bobby Ross,L,34,45
+1984-12-31,Virginia,ACC,George Welsh,N,Purdue,Big Ten,Leon Burtnett,W,27,24
+1984-09-08,Oklahoma,Big 8,Barry Switzer,H,Stanford,Pac-10,Jack Elway,W,19,7
+1984-09-15,Oklahoma,Big 8,Barry Switzer,A,Pitt,Ind,Foge Fazio,W,42,10
+1984-09-22,Oklahoma,Big 8,Barry Switzer,H,Baylor,SWC,Grant Teaff,W,34,15
+1984-09-29,Oklahoma,Big 8,Barry Switzer,H,Kansas State,Big 8,Jim Dickey,W,24,6
+1984-10-13,Oklahoma,Big 8,Barry Switzer,N,Texas,SWC,Fred Akers,T,15,15
+1984-10-20,Oklahoma,Big 8,Barry Switzer,A,Iowa State,Big 8,Jim Criner,W,12,10
+1984-10-27,Oklahoma,Big 8,Barry Switzer,A,Kansas,Big 8,Mike Gottfried,L,11,28
+1984-11-03,Oklahoma,Big 8,Barry Switzer,H,Missouri,Big 8,Warren Powers,W,49,7
+1984-11-10,Oklahoma,Big 8,Barry Switzer,A,Colorado,Big 8,Bill McCartney,W,42,17
+1984-11-17,Oklahoma,Big 8,Barry Switzer,A,Nebraska,Big 8,Tom Osborne,W,17,7
+1984-11-24,Oklahoma,Big 8,Barry Switzer,H,Oklahoma State,Big 8,Pat Jones,W,24,14
+1985-01-01,Oklahoma,Big 8,Barry Switzer,N,Washington,Pac-10,Don James,L,17,28
+1984-09-08,Virginia Tech,Ind,Bill Dooley,A,Wake Forest,ACC,Al Groh,W,21,20
+1984-09-15,Virginia Tech,Ind,Bill Dooley,H,West Virginia,Ind,Don Nehlen,L,7,14
+1984-09-29,Virginia Tech,Ind,Bill Dooley,H,Virginia,ACC,George Welsh,L,23,26
+1984-10-13,Virginia Tech,Ind,Bill Dooley,H,Duke,ACC,Steve Sloan,W,27,0
+1984-10-27,Virginia Tech,Ind,Bill Dooley,A,Temple,Ind,Bruce Arians,W,9,7
+1984-11-03,Virginia Tech,Ind,Bill Dooley,H,Tulane,Ind,Wally English,W,13,6
+1984-11-10,Virginia Tech,Ind,Bill Dooley,A,Clemson,ACC,Danny Ford,L,10,17
+1984-11-17,Virginia Tech,Ind,Bill Dooley,A,Vanderbilt,SEC,George MacIntyre,W,23,3
+1984-12-15,Virginia Tech,Ind,Bill Dooley,N,Air Force,WAC,Fisher DeBerry,L,7,23
+1984-09-08,Louisville,Ind,Bob Weber,A,West Virginia,Ind,Don Nehlen,L,6,30
+1984-09-15,Louisville,Ind,Bob Weber,H,SMU,SWC,Bobby Collins,L,7,41
+1984-09-29,Louisville,Ind,Bob Weber,A,Houston,SWC,Bill Yeoman,W,30,28
+1984-10-13,Louisville,Ind,Bob Weber,H,Indiana State,MVC,,L,21,44
+1984-10-20,Louisville,Ind,Bob Weber,A,Rutgers,Ind,Dick Anderson,L,21,38
+1984-10-27,Louisville,Ind,Bob Weber,A,Cincinnati,Ind,Dave Currey,L,21,40
+1984-11-03,Louisville,Ind,Bob Weber,H,Miami (FL),Ind,Jimmy Johnson,L,23,38
+1984-11-17,Louisville,Ind,Bob Weber,A,Southern Mississippi,Ind,Jim Carmody,L,25,34
+1984-09-01,Southern Illinois,MVC,Ray Door,A,Tulsa,MVC,John Cooper,L,10,23
+1984-09-08,Southern Illinois,MVC,Ray Door,A,Illinois State,MVC,,L,7,35
+1984-10-19,Southern Illinois,MVC,Ray Door,H,West Texas A&M,MVC,,L,17,24
+1984-10-27,Southern Illinois,MVC,Ray Door,H,Indiana State,MVC,,L,10,27
+1984-11-03,Southern Illinois,MVC,Ray Door,A,Drake,MVC,,L,17,20
+1984-09-15,Arkansas,SWC,Ken Hatfield,H,Ole Miss,SEC,Billy Brewer,T,14,14
+1984-09-22,Arkansas,SWC,Ken Hatfield,H,Tulsa,MVC,John Cooper,W,18,9
+1984-09-29,Arkansas,SWC,Ken Hatfield,H,Navy,Ind,Gary Tranquill,W,33,10
+1984-10-06,Arkansas,SWC,Ken Hatfield,H,Texas Christian,SWC,Jim Wacker,L,31,32
+1984-10-13,Arkansas,SWC,Ken Hatfield,H,Texas Tech,SWC,Jerry Moore,W,24,0
+1984-10-20,Arkansas,SWC,Ken Hatfield,A,Texas,SWC,Fred Akers,L,18,24
+1984-10-27,Arkansas,SWC,Ken Hatfield,A,Houston,SWC,Bill Yeoman,W,17,3
+1984-11-03,Arkansas,SWC,Ken Hatfield,H,Rice,SWC,Watson Brown,W,28,6
+1984-11-10,Arkansas,SWC,Ken Hatfield,A,Baylor,SWC,Grant Teaff,W,14,9
+1984-11-17,Arkansas,SWC,Ken Hatfield,H,Texas A&M,SWC,Jackie Sherrill,W,28,0
+1984-11-24,Arkansas,SWC,Ken Hatfield,A,SMU,SWC,Bobby Collins,L,28,31
+1984-12-27,Arkansas,SWC,Ken Hatfield,N,Auburn,SEC,Pat Dye,L,15,21
+1984-09-08,Clemson,ACC,Danny Ford,A,Virginia,ACC,George Welsh,W,55,0
+1984-09-22,Clemson,ACC,Danny Ford,A,Georgia,SEC,Vince Dooley,L,23,26
+1984-09-29,Clemson,ACC,Danny Ford,A,Georgia Tech,ACC,Bill Curry,L,21,28
+1984-10-06,Clemson,ACC,Danny Ford,H,North Carolina,ACC,Dick Crum,W,20,12
+1984-10-20,Clemson,ACC,Danny Ford,H,Duke,ACC,Steve Sloan,W,54,21
+1984-10-27,Clemson,ACC,Danny Ford,A,North Carolina State,ACC,Tom Reed,W,35,34
+1984-11-03,Clemson,ACC,Danny Ford,H,Wake Forest,ACC,Al Groh,W,37,14
+1984-11-10,Clemson,ACC,Danny Ford,H,Virginia Tech,Ind,Bill Dooley,W,17,10
+1984-11-17,Clemson,ACC,Danny Ford,A,Maryland,ACC,Bobby Ross,L,23,41
+1984-11-24,Clemson,ACC,Danny Ford,H,South Carolina,Ind,Joe Morrison,L,21,22
+1984-09-22,South Carolina,Ind,Joe Morrison,H,Duke,ACC,Steve Sloan,W,21,0
+1984-09-29,South Carolina,Ind,Joe Morrison,H,Georgia,SEC,Vince Dooley,W,17,10
+1984-10-06,South Carolina,Ind,Joe Morrison,H,Kansas State,Big 8,Jim Dickey,W,49,17
+1984-10-13,South Carolina,Ind,Joe Morrison,H,Pitt,Ind,Foge Fazio,W,45,21
+1984-10-20,South Carolina,Ind,Joe Morrison,A,Notre Dame,Ind,Gerry Faust,W,36,32
+1984-10-27,South Carolina,Ind,Joe Morrison,H,East Carolina,Ind,Ed Emory,W,42,20
+1984-11-03,South Carolina,Ind,Joe Morrison,A,North Carolina State,ACC,Tom Reed,W,35,28
+1984-11-10,South Carolina,Ind,Joe Morrison,H,Florida State,Ind,Bobby Bowden,W,38,26
+1984-11-17,South Carolina,Ind,Joe Morrison,A,Navy,Ind,Gary Tranquill,L,21,38
+1984-11-24,South Carolina,Ind,Joe Morrison,A,Clemson,ACC,Danny Ford,W,22,21
+1984-12-28,South Carolina,Ind,Joe Morrison,N,Oklahoma State,Big 8,Pat Jones,L,14,21
+1984-09-08,Washington,Pac-10,Don James,H,Northwestern,Big Ten,Dennis Green,W,26,0
+1984-09-15,Washington,Pac-10,Don James,A,Michigan,Big Ten,Bo Schembechler,W,20,11
+1984-09-22,Washington,Pac-10,Don James,H,Houston,SWC,Bill Yeoman,W,35,7
+1984-09-29,Washington,Pac-10,Don James,H,Miami (OH),MAC,Tim Rose,W,53,7
+1984-10-06,Washington,Pac-10,Don James,A,Oregon State,Pac-10,Joe Avezzano,W,19,7
+1984-10-13,Washington,Pac-10,Don James,A,Stanford,Pac-10,Jack Elway,W,37,15
+1984-10-20,Washington,Pac-10,Don James,H,Oregon,Pac-10,Rich Brooks,W,17,10
+1984-10-27,Washington,Pac-10,Don James,H,Arizona,Pac-10,Larry Smith,W,28,12
+1984-11-03,Washington,Pac-10,Don James,H,California,Pac-10,Joe Kapp,W,44,14
+1984-11-10,Washington,Pac-10,Don James,A,USC,Pac-10,Ted Tollner,L,7,16
+1984-11-17,Washington,Pac-10,Don James,A,Washington State,Pac-10,Jim Walden,W,38,29
+1985-01-01,Washington,Pac-10,Don James,N,Oklahoma,Big 8,Barry Switzer,W,28,17
+1984-09-08,Ball State,MAC,Dwight Wallace,H,Toledo,MAC,Dan Simrell,L,2,20
+1984-09-15,Ball State,MAC,Dwight Wallace,H,Ohio,MAC,Brian Burke,L,17,31
+1984-09-22,Ball State,MAC,Dwight Wallace,A,Washington State,Pac-10,Jim Walden,L,14,16
+1984-09-29,Ball State,MAC,Dwight Wallace,A,Northern Illinois,MAC,Lee Corso,W,15,14
+1984-10-06,Ball State,MAC,Dwight Wallace,N,Indiana State,MVC,,L,6,34
+1984-10-13,Ball State,MAC,Dwight Wallace,H,Kent State,MAC,Dick Scesniak,L,10,15
+1984-10-20,Ball State,MAC,Dwight Wallace,H,Western Michigan,MAC,Jack Harbaugh,W,23,20
+1984-10-27,Ball State,MAC,Dwight Wallace,A,Eastern Michigan,MAC,Jim Harkema,W,17,10
+1984-11-03,Ball State,MAC,Dwight Wallace,H,Bowling Green State,MAC,Dennis Stolz,L,13,38
+1984-11-10,Ball State,MAC,Dwight Wallace,A,Central Michigan,MAC,Herb Deromedi,L,7,51
+1984-09-08,Southern Mississippi,Ind,Jim Carmody,A,Georgia,SEC,Vince Dooley,L,19,26
+1984-09-22,Southern Mississippi,Ind,Jim Carmody,A,Auburn,SEC,Pat Dye,L,12,35
+1984-09-29,Southern Mississippi,Ind,Jim Carmody,A,Memphis,Ind,Rey Dempsey,L,13,23
+1984-10-06,Southern Mississippi,Ind,Jim Carmody,N,Mississippi State,SEC,Emory Bellard,L,18,27
+1984-10-13,Southern Mississippi,Ind,Jim Carmody,A,Tulane,Ind,Wally English,L,7,35
+1984-10-20,Southern Mississippi,Ind,Jim Carmody,N,Ole Miss,SEC,Billy Brewer,W,13,10
+1984-10-27,Southern Mississippi,Ind,Jim Carmody,A,Louisiana,Ind,Sam Robertson,L,7,13
+1984-11-10,Southern Mississippi,Ind,Jim Carmody,A,East Carolina,Ind,Ed Emory,W,31,27
+1984-11-17,Southern Mississippi,Ind,Jim Carmody,H,Louisville,Ind,Bob Weber,W,34,25
+1984-09-08,Long Beach State,PCAA,Mike Sheppard,A,Oregon,Pac-10,Rich Brooks,L,17,28
+1984-09-15,Long Beach State,PCAA,Mike Sheppard,A,UCLA,Pac-10,Terry Donahue,L,17,23
+1984-09-22,Long Beach State,PCAA,Mike Sheppard,A,Fresno State,PCAA,Jim Sweeney,L,17,20
+1984-09-29,Long Beach State,PCAA,Mike Sheppard,A,Arizona,Pac-10,Larry Smith,L,24,31
+1984-10-06,Long Beach State,PCAA,Mike Sheppard,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,23,41
+1984-10-13,Long Beach State,PCAA,Mike Sheppard,A,Utah State,PCAA,Chris Pella,W,24,22
+1984-10-20,Long Beach State,PCAA,Mike Sheppard,A,New Mexico State,PCAA,Fred Zechman,W,43,13
+1984-10-27,Long Beach State,PCAA,Mike Sheppard,A,Cal State Fullerton,PCAA,Gene Murphy,L,28,42
+1984-11-03,Long Beach State,PCAA,Mike Sheppard,H,Pacific,PCAA,Bob Cope,W,24,22
+1984-11-10,Long Beach State,PCAA,Mike Sheppard,A,San Jose State,PCAA,Claude Gilbert,L,7,42
+1984-11-24,Long Beach State,PCAA,Mike Sheppard,A,San Diego State,WAC,Doug Scovil,W,18,17
+1984-09-08,Utah State,PCAA,Chris Pella,A,USC,Pac-10,Ted Tollner,L,7,42
+1984-09-15,Utah State,PCAA,Chris Pella,H,Texas Christian,SWC,Jim Wacker,L,18,62
+1984-09-29,Utah State,PCAA,Chris Pella,A,Cal State Fullerton,PCAA,Gene Murphy,L,16,27
+1984-10-06,Utah State,PCAA,Chris Pella,A,San Jose State,PCAA,Claude Gilbert,L,21,38
+1984-10-13,Utah State,PCAA,Chris Pella,H,Long Beach State,PCAA,Mike Sheppard,L,22,24
+1984-10-20,Utah State,PCAA,Chris Pella,A,Fresno State,PCAA,Jim Sweeney,L,18,43
+1984-10-27,Utah State,PCAA,Chris Pella,H,Pacific,PCAA,Bob Cope,W,41,14
+1984-11-03,Utah State,PCAA,Chris Pella,A,Arizona,Pac-10,Larry Smith,L,10,45
+1984-11-10,Utah State,PCAA,Chris Pella,H,Utah,WAC,Chuck Stobart,L,10,21
+1984-11-17,Utah State,PCAA,Chris Pella,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,20,36
+1984-11-24,Utah State,PCAA,Chris Pella,A,Brigham Young,WAC,LaVell Edwards,L,13,38
+1984-09-08,Missouri,Big 8,Warren Powers,A,Illinois,Big Ten,Mike White,L,24,30
+1984-09-15,Missouri,Big 8,Warren Powers,H,Wisconsin,Big Ten,Dave McClain,L,34,35
+1984-09-22,Missouri,Big 8,Warren Powers,H,Mississippi State,SEC,Emory Bellard,W,47,30
+1984-09-29,Missouri,Big 8,Warren Powers,H,Notre Dame,Ind,Gerry Faust,L,14,16
+1984-10-06,Missouri,Big 8,Warren Powers,H,Colorado,Big 8,Bill McCartney,W,52,7
+1984-10-13,Missouri,Big 8,Warren Powers,A,Nebraska,Big 8,Tom Osborne,L,23,33
+1984-10-20,Missouri,Big 8,Warren Powers,A,Kansas State,Big 8,Jim Dickey,W,61,21
+1984-10-27,Missouri,Big 8,Warren Powers,H,Iowa State,Big 8,Jim Criner,T,14,14
+1984-11-03,Missouri,Big 8,Warren Powers,A,Oklahoma,Big 8,Barry Switzer,L,7,49
+1984-11-10,Missouri,Big 8,Warren Powers,A,Oklahoma State,Big 8,Pat Jones,L,13,31
+1984-11-17,Missouri,Big 8,Warren Powers,H,Kansas,Big 8,Mike Gottfried,L,21,35
+1984-09-01,San Jose State,PCAA,Claude Gilbert,H,New Mexico State,PCAA,Fred Zechman,W,14,0
+1984-09-08,San Jose State,PCAA,Claude Gilbert,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,15,30
+1984-09-15,San Jose State,PCAA,Claude Gilbert,A,Arizona State,Pac-10,Darryl Rogers,L,0,48
+1984-09-22,San Jose State,PCAA,Claude Gilbert,A,Stanford,Pac-10,Jack Elway,L,27,28
+1984-09-29,San Jose State,PCAA,Claude Gilbert,A,California,Pac-10,Joe Kapp,W,33,18
+1984-10-06,San Jose State,PCAA,Claude Gilbert,H,Utah State,PCAA,Chris Pella,W,38,21
+1984-10-13,San Jose State,PCAA,Claude Gilbert,A,Cal State Fullerton,PCAA,Gene Murphy,L,12,21
+1984-10-20,San Jose State,PCAA,Claude Gilbert,H,Louisiana,Ind,Sam Robertson,L,28,35
+1984-10-27,San Jose State,PCAA,Claude Gilbert,H,Fresno State,PCAA,Jim Sweeney,W,18,17
+1984-11-10,San Jose State,PCAA,Claude Gilbert,H,Long Beach State,PCAA,Mike Sheppard,W,42,7
+1984-11-17,San Jose State,PCAA,Claude Gilbert,A,Pacific,PCAA,Bob Cope,W,33,0
+1984-09-15,Bowling Green State,MAC,Dennis Stolz,A,Oklahoma State,Big 8,Pat Jones,L,14,31
+1984-09-22,Bowling Green State,MAC,Dennis Stolz,A,Miami (OH),MAC,Tim Rose,W,41,10
+1984-09-29,Bowling Green State,MAC,Dennis Stolz,H,Eastern Michigan,MAC,Jim Harkema,W,35,27
+1984-10-06,Bowling Green State,MAC,Dennis Stolz,A,Toledo,MAC,Dan Simrell,L,6,17
+1984-10-13,Bowling Green State,MAC,Dennis Stolz,H,Western Michigan,MAC,Jack Harbaugh,W,34,7
+1984-10-20,Bowling Green State,MAC,Dennis Stolz,H,Northern Illinois,MAC,Lee Corso,W,28,6
+1984-10-27,Bowling Green State,MAC,Dennis Stolz,A,Central Michigan,MAC,Herb Deromedi,L,21,42
+1984-11-03,Bowling Green State,MAC,Dennis Stolz,A,Ball State,MAC,Dwight Wallace,W,38,13
+1984-11-10,Bowling Green State,MAC,Dennis Stolz,H,Ohio,MAC,Brian Burke,W,28,7
+1984-11-17,Bowling Green State,MAC,Dennis Stolz,A,Kent State,MAC,Dick Scesniak,W,27,10
+1984-09-08,Wisconsin,Big Ten,Dave McClain,H,Northern Illinois,MAC,Lee Corso,W,27,14
+1984-09-15,Wisconsin,Big Ten,Dave McClain,A,Missouri,Big 8,Warren Powers,W,35,34
+1984-09-22,Wisconsin,Big Ten,Dave McClain,A,Michigan,Big Ten,Bo Schembechler,L,14,20
+1984-09-29,Wisconsin,Big Ten,Dave McClain,H,Northwestern,Big Ten,Dennis Green,W,31,16
+1984-10-06,Wisconsin,Big Ten,Dave McClain,A,Illinois,Big Ten,Mike White,L,6,22
+1984-10-13,Wisconsin,Big Ten,Dave McClain,H,Minnesota,Big Ten,Lou Holtz,L,14,17
+1984-10-20,Wisconsin,Big Ten,Dave McClain,A,Indiana,Big Ten,Bill Mallory,W,20,16
+1984-10-27,Wisconsin,Big Ten,Dave McClain,H,Ohio State,Big Ten,Earle Bruce,W,16,14
+1984-11-03,Wisconsin,Big Ten,Dave McClain,A,Iowa,Big Ten,Hayden Fry,T,10,10
+1984-11-10,Wisconsin,Big Ten,Dave McClain,H,Purdue,Big Ten,Leon Burtnett,W,30,13
+1984-11-17,Wisconsin,Big Ten,Dave McClain,A,Michigan State,Big Ten,George Perles,W,20,10
+1984-12-29,Wisconsin,Big Ten,Dave McClain,N,Kentucky,SEC,Jerry Claiborne,L,19,20
+1984-09-08,USC,Pac-10,Ted Tollner,H,Utah State,PCAA,Chris Pella,W,42,7
+1984-09-22,USC,Pac-10,Ted Tollner,A,Arizona State,Pac-10,Darryl Rogers,W,6,3
+1984-09-29,USC,Pac-10,Ted Tollner,H,LSU,SEC,Bill Arnsparger,L,3,23
+1984-10-06,USC,Pac-10,Ted Tollner,A,Washington State,Pac-10,Jim Walden,W,29,27
+1984-10-13,USC,Pac-10,Ted Tollner,A,Oregon,Pac-10,Rich Brooks,W,19,9
+1984-10-20,USC,Pac-10,Ted Tollner,H,Arizona,Pac-10,Larry Smith,W,17,14
+1984-10-27,USC,Pac-10,Ted Tollner,H,California,Pac-10,Joe Kapp,W,31,7
+1984-11-03,USC,Pac-10,Ted Tollner,A,Stanford,Pac-10,Jack Elway,W,20,11
+1984-11-10,USC,Pac-10,Ted Tollner,H,Washington,Pac-10,Don James,W,16,7
+1984-11-17,USC,Pac-10,Ted Tollner,A,UCLA,Pac-10,Terry Donahue,L,10,29
+1984-11-24,USC,Pac-10,Ted Tollner,H,Notre Dame,Ind,Gerry Faust,L,7,19
+1985-01-01,USC,Pac-10,Ted Tollner,H,Ohio State,Big Ten,Earle Bruce,W,20,17
+1984-09-08,North Carolina State,ACC,Tom Reed,H,Ohio,MAC,Brian Burke,W,43,6
+1984-09-22,North Carolina State,ACC,Tom Reed,H,Wake Forest,ACC,Al Groh,L,15,24
+1984-09-29,North Carolina State,ACC,Tom Reed,H,East Carolina,Ind,Ed Emory,W,31,22
+1984-10-06,North Carolina State,ACC,Tom Reed,A,Georgia Tech,ACC,Bill Curry,W,27,22
+1984-10-13,North Carolina State,ACC,Tom Reed,A,Maryland,ACC,Bobby Ross,L,21,44
+1984-10-20,North Carolina State,ACC,Tom Reed,A,North Carolina,ACC,Dick Crum,L,21,28
+1984-10-27,North Carolina State,ACC,Tom Reed,H,Clemson,ACC,Danny Ford,L,34,35
+1984-11-03,North Carolina State,ACC,Tom Reed,H,South Carolina,Ind,Joe Morrison,L,28,35
+1984-11-10,North Carolina State,ACC,Tom Reed,A,Virginia,ACC,George Welsh,L,0,45
+1984-11-17,North Carolina State,ACC,Tom Reed,H,Duke,ACC,Steve Sloan,L,13,16
+1984-09-01,San Diego State,WAC,Doug Scovil,A,Air Force,WAC,Fisher DeBerry,L,16,34
+1984-09-08,San Diego State,WAC,Doug Scovil,H,UCLA,Pac-10,Terry Donahue,L,15,18
+1984-09-15,San Diego State,WAC,Doug Scovil,H,UTEP,WAC,Bill Yung,W,51,2
+1984-09-22,San Diego State,WAC,Doug Scovil,A,Oklahoma State,Big 8,Pat Jones,L,16,19
+1984-10-06,San Diego State,WAC,Doug Scovil,A,Wyoming,WAC,Al Kincaid,W,21,0
+1984-10-13,San Diego State,WAC,Doug Scovil,H,Utah,WAC,Chuck Stobart,T,24,24
+1984-10-20,San Diego State,WAC,Doug Scovil,H,Colorado State,WAC,Leon Fuller,W,41,24
+1984-10-27,San Diego State,WAC,Doug Scovil,A,Hawaii,WAC,Dick Tomey,L,10,16
+1984-11-03,San Diego State,WAC,Doug Scovil,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,14,30
+1984-11-10,San Diego State,WAC,Doug Scovil,A,Brigham Young,WAC,LaVell Edwards,L,3,34
+1984-11-17,San Diego State,WAC,Doug Scovil,H,New Mexico,WAC,Joe Lee Dunn,W,37,31
+1984-11-24,San Diego State,WAC,Doug Scovil,H,Long Beach State,PCAA,Mike Sheppard,L,17,18
+1984-09-08,Hawaii,WAC,Dick Tomey,H,Cal State Fullerton,PCAA,Gene Murphy,L,13,21
+1984-09-15,Hawaii,WAC,Dick Tomey,A,Colorado State,WAC,Leon Fuller,L,3,10
+1984-09-22,Hawaii,WAC,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,13,18
+1984-09-29,Hawaii,WAC,Dick Tomey,H,Nevada-Las Vegas,PCAA,Harvey Hyde,W,16,12
+1984-10-06,Hawaii,WAC,Dick Tomey,H,Fresno State,PCAA,Jim Sweeney,W,27,15
+1984-10-13,Hawaii,WAC,Dick Tomey,A,UTEP,WAC,Bill Yung,W,24,20
+1984-10-20,Hawaii,WAC,Dick Tomey,H,Utah,WAC,Chuck Stobart,W,20,17
+1984-10-27,Hawaii,WAC,Dick Tomey,H,San Diego State,WAC,Doug Scovil,W,16,10
+1984-11-03,Hawaii,WAC,Dick Tomey,H,Wyoming,WAC,Al Kincaid,W,31,28
+1984-11-24,Hawaii,WAC,Dick Tomey,H,New Mexico,WAC,Joe Lee Dunn,W,48,13
+1984-12-01,Hawaii,WAC,Dick Tomey,H,Iowa,Big Ten,Hayden Fry,L,6,17
+1984-09-08,Rutgers,Ind,Dick Anderson,A,Penn State,Ind,Joe Paterno,L,12,15
+1984-09-15,Rutgers,Ind,Dick Anderson,H,Temple,Ind,Bruce Arians,W,10,9
+1984-09-22,Rutgers,Ind,Dick Anderson,A,Syracuse,Ind,Dick MacPherson,W,19,0
+1984-09-29,Rutgers,Ind,Dick Anderson,H,Cincinnati,Ind,Dave Currey,W,43,15
+1984-10-06,Rutgers,Ind,Dick Anderson,A,Kentucky,SEC,Jerry Claiborne,L,14,27
+1984-10-13,Rutgers,Ind,Dick Anderson,N,Army,Ind,Jim Young,W,14,7
+1984-10-20,Rutgers,Ind,Dick Anderson,H,Louisville,Ind,Bob Weber,W,38,21
+1984-10-27,Rutgers,Ind,Dick Anderson,A,Boston College,Ind,Jack Bicknell,L,23,35
+1984-11-10,Rutgers,Ind,Dick Anderson,H,West Virginia,Ind,Don Nehlen,W,23,19
+1984-09-22,Eastern Michigan,MAC,Jim Harkema,H,Ohio,MAC,Brian Burke,L,13,16
+1984-09-29,Eastern Michigan,MAC,Jim Harkema,A,Bowling Green State,MAC,Dennis Stolz,L,27,35
+1984-10-06,Eastern Michigan,MAC,Jim Harkema,H,Central Michigan,MAC,Herb Deromedi,T,16,16
+1984-10-13,Eastern Michigan,MAC,Jim Harkema,A,Northern Illinois,MAC,Lee Corso,T,10,10
+1984-10-20,Eastern Michigan,MAC,Jim Harkema,A,Toledo,MAC,Dan Simrell,L,7,17
+1984-10-27,Eastern Michigan,MAC,Jim Harkema,H,Ball State,MAC,Dwight Wallace,L,10,17
+1984-11-03,Eastern Michigan,MAC,Jim Harkema,H,Kent State,MAC,Dick Scesniak,W,20,18
+1984-11-10,Eastern Michigan,MAC,Jim Harkema,A,Miami (OH),MAC,Tim Rose,L,0,23
+1984-11-17,Eastern Michigan,MAC,Jim Harkema,H,Western Michigan,MAC,Jack Harbaugh,W,24,14
+1984-09-15,Central Michigan,MAC,Herb Deromedi,H,East Carolina,Ind,Ed Emory,W,17,12
+1984-09-22,Central Michigan,MAC,Herb Deromedi,H,Western Michigan,MAC,Jack Harbaugh,W,38,19
+1984-09-29,Central Michigan,MAC,Herb Deromedi,A,Kent State,MAC,Dick Scesniak,W,14,10
+1984-10-06,Central Michigan,MAC,Herb Deromedi,A,Eastern Michigan,MAC,Jim Harkema,T,16,16
+1984-10-13,Central Michigan,MAC,Herb Deromedi,H,Ohio,MAC,Brian Burke,W,35,3
+1984-10-20,Central Michigan,MAC,Herb Deromedi,A,Miami (OH),MAC,Tim Rose,W,10,9
+1984-10-27,Central Michigan,MAC,Herb Deromedi,H,Bowling Green State,MAC,Dennis Stolz,W,42,21
+1984-11-03,Central Michigan,MAC,Herb Deromedi,A,Northern Illinois,MAC,Lee Corso,L,7,8
+1984-11-10,Central Michigan,MAC,Herb Deromedi,H,Ball State,MAC,Dwight Wallace,W,51,7
+1984-11-17,Central Michigan,MAC,Herb Deromedi,H,Toledo,MAC,Dan Simrell,L,7,14
+1984-09-08,Michigan,Big Ten,Bo Schembechler,H,Miami (FL),Ind,Jimmy Johnson,W,22,14
+1984-09-15,Michigan,Big Ten,Bo Schembechler,H,Washington,Pac-10,Don James,L,11,20
+1984-09-22,Michigan,Big Ten,Bo Schembechler,H,Wisconsin,Big Ten,Dave McClain,W,20,14
+1984-09-29,Michigan,Big Ten,Bo Schembechler,A,Indiana,Big Ten,Bill Mallory,W,14,6
+1984-10-06,Michigan,Big Ten,Bo Schembechler,H,Michigan State,Big Ten,George Perles,L,7,19
+1984-10-13,Michigan,Big Ten,Bo Schembechler,H,Northwestern,Big Ten,Dennis Green,W,31,0
+1984-10-20,Michigan,Big Ten,Bo Schembechler,A,Iowa,Big Ten,Hayden Fry,L,0,26
+1984-10-27,Michigan,Big Ten,Bo Schembechler,H,Illinois,Big Ten,Mike White,W,26,18
+1984-11-03,Michigan,Big Ten,Bo Schembechler,A,Purdue,Big Ten,Leon Burtnett,L,29,31
+1984-11-10,Michigan,Big Ten,Bo Schembechler,H,Minnesota,Big Ten,Lou Holtz,W,31,7
+1984-11-17,Michigan,Big Ten,Bo Schembechler,A,Ohio State,Big Ten,Earle Bruce,L,6,21
+1984-12-21,Michigan,Big Ten,Bo Schembechler,N,Brigham Young,WAC,LaVell Edwards,L,17,24
+1984-09-08,Temple,Ind,Bruce Arians,H,East Carolina,Ind,Ed Emory,W,17,0
+1984-09-15,Temple,Ind,Bruce Arians,A,Rutgers,Ind,Dick Anderson,L,9,10
+1984-09-22,Temple,Ind,Bruce Arians,H,Pitt,Ind,Foge Fazio,W,13,12
+1984-09-29,Temple,Ind,Bruce Arians,A,Florida State,Ind,Bobby Bowden,L,27,44
+1984-10-13,Temple,Ind,Bruce Arians,A,Boston College,Ind,Jack Bicknell,L,10,24
+1984-10-27,Temple,Ind,Bruce Arians,H,Virginia Tech,Ind,Bill Dooley,L,7,9
+1984-11-03,Temple,Ind,Bruce Arians,H,Cincinnati,Ind,Dave Currey,W,42,10
+1984-11-17,Temple,Ind,Bruce Arians,H,West Virginia,Ind,Don Nehlen,W,19,17
+1984-11-30,Temple,Ind,Bruce Arians,H,Toledo,MAC,Dan Simrell,W,35,6
+1984-09-08,New Mexico,WAC,Joe Lee Dunn,H,New Mexico State,PCAA,Fred Zechman,W,61,21
+1984-09-15,New Mexico,WAC,Joe Lee Dunn,H,West Texas A&M,MVC,,W,27,0
+1984-09-22,New Mexico,WAC,Joe Lee Dunn,H,Texas Tech,SWC,Jerry Moore,W,29,24
+1984-09-29,New Mexico,WAC,Joe Lee Dunn,A,UTEP,WAC,Bill Yung,W,34,7
+1984-10-05,New Mexico,WAC,Joe Lee Dunn,A,Utah,WAC,Chuck Stobart,L,14,38
+1984-10-13,New Mexico,WAC,Joe Lee Dunn,H,Colorado State,WAC,Leon Fuller,L,10,16
+1984-10-20,New Mexico,WAC,Joe Lee Dunn,A,Wyoming,WAC,Al Kincaid,L,21,59
+1984-10-25,New Mexico,WAC,Joe Lee Dunn,H,Brigham Young,WAC,LaVell Edwards,L,0,48
+1984-11-03,New Mexico,WAC,Joe Lee Dunn,A,Baylor,SWC,Grant Teaff,L,2,38
+1984-11-10,New Mexico,WAC,Joe Lee Dunn,H,Air Force,WAC,Fisher DeBerry,L,9,23
+1984-11-17,New Mexico,WAC,Joe Lee Dunn,A,San Diego State,WAC,Doug Scovil,L,31,37
+1984-11-24,New Mexico,WAC,Joe Lee Dunn,A,Hawaii,WAC,Dick Tomey,L,13,48
+1984-09-15,Pacific,PCAA,Bob Cope,A,California,Pac-10,Joe Kapp,L,12,28
+1984-09-29,Pacific,PCAA,Bob Cope,A,Oregon,Pac-10,Rich Brooks,L,14,30
+1984-10-06,Pacific,PCAA,Bob Cope,H,Cal State Fullerton,PCAA,Gene Murphy,L,31,41
+1984-10-13,Pacific,PCAA,Bob Cope,H,New Mexico State,PCAA,Fred Zechman,W,21,7
+1984-10-20,Pacific,PCAA,Bob Cope,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,21,35
+1984-10-27,Pacific,PCAA,Bob Cope,A,Utah State,PCAA,Chris Pella,L,14,41
+1984-11-03,Pacific,PCAA,Bob Cope,A,Long Beach State,PCAA,Mike Sheppard,L,22,24
+1984-11-10,Pacific,PCAA,Bob Cope,A,Fresno State,PCAA,Jim Sweeney,W,24,6
+1984-11-17,Pacific,PCAA,Bob Cope,H,San Jose State,PCAA,Claude Gilbert,L,0,33
+1984-09-08,Notre Dame,Ind,Gerry Faust,N,Purdue,Big Ten,Leon Burtnett,L,21,23
+1984-09-15,Notre Dame,Ind,Gerry Faust,A,Michigan State,Big Ten,George Perles,W,24,20
+1984-09-22,Notre Dame,Ind,Gerry Faust,H,Colorado,Big 8,Bill McCartney,W,55,14
+1984-09-29,Notre Dame,Ind,Gerry Faust,A,Missouri,Big 8,Warren Powers,W,16,14
+1984-10-06,Notre Dame,Ind,Gerry Faust,H,Miami (FL),Ind,Jimmy Johnson,L,13,31
+1984-10-13,Notre Dame,Ind,Gerry Faust,H,Air Force,WAC,Fisher DeBerry,L,7,21
+1984-10-20,Notre Dame,Ind,Gerry Faust,H,South Carolina,Ind,Joe Morrison,L,32,36
+1984-10-27,Notre Dame,Ind,Gerry Faust,A,LSU,SEC,Bill Arnsparger,W,30,22
+1984-11-03,Notre Dame,Ind,Gerry Faust,N,Navy,Ind,Gary Tranquill,W,18,17
+1984-11-17,Notre Dame,Ind,Gerry Faust,H,Penn State,Ind,Joe Paterno,W,44,7
+1984-11-24,Notre Dame,Ind,Gerry Faust,A,USC,Pac-10,Ted Tollner,W,19,7
+1984-12-29,Notre Dame,Ind,Gerry Faust,N,SMU,SWC,Bobby Collins,L,20,27
+1984-09-22,Louisiana,Ind,Sam Robertson,A,Alabama,SEC,Ray Perkins,L,14,37
+1984-10-06,Louisiana,Ind,Sam Robertson,H,Wichita State,MVC,Ron Chismar,W,31,3
+1984-10-13,Louisiana,Ind,Sam Robertson,A,Memphis,Ind,Rey Dempsey,L,7,20
+1984-10-20,Louisiana,Ind,Sam Robertson,A,San Jose State,PCAA,Claude Gilbert,W,35,28
+1984-10-27,Louisiana,Ind,Sam Robertson,H,Southern Mississippi,Ind,Jim Carmody,W,13,7
+1984-11-03,Louisiana,Ind,Sam Robertson,A,East Carolina,Ind,Ed Emory,W,42,24
+1984-11-17,Louisiana,Ind,Sam Robertson,A,Tulsa,MVC,John Cooper,W,18,17
+1984-09-01,East Carolina,Ind,Ed Emory,A,Florida State,Ind,Bobby Bowden,L,17,48
+1984-09-08,East Carolina,Ind,Ed Emory,A,Temple,Ind,Bruce Arians,L,0,17
+1984-09-15,East Carolina,Ind,Ed Emory,A,Central Michigan,MAC,Herb Deromedi,L,12,17
+1984-09-29,East Carolina,Ind,Ed Emory,A,North Carolina State,ACC,Tom Reed,L,22,31
+1984-10-06,East Carolina,Ind,Ed Emory,A,Pitt,Ind,Foge Fazio,L,10,17
+1984-10-13,East Carolina,Ind,Ed Emory,A,Tulsa,MVC,John Cooper,L,20,31
+1984-10-27,East Carolina,Ind,Ed Emory,A,South Carolina,Ind,Joe Morrison,L,20,42
+1984-11-03,East Carolina,Ind,Ed Emory,H,Louisiana,Ind,Sam Robertson,L,24,42
+1984-11-10,East Carolina,Ind,Ed Emory,H,Southern Mississippi,Ind,Jim Carmody,L,27,31
+1984-09-08,Toledo,MAC,Dan Simrell,A,Ball State,MAC,Dwight Wallace,W,20,2
+1984-09-29,Toledo,MAC,Dan Simrell,A,Ohio,MAC,Brian Burke,T,16,16
+1984-10-06,Toledo,MAC,Dan Simrell,H,Bowling Green State,MAC,Dennis Stolz,W,17,6
+1984-10-13,Toledo,MAC,Dan Simrell,A,Miami (OH),MAC,Tim Rose,W,10,7
+1984-10-20,Toledo,MAC,Dan Simrell,H,Eastern Michigan,MAC,Jim Harkema,W,17,7
+1984-10-27,Toledo,MAC,Dan Simrell,A,Kent State,MAC,Dick Scesniak,L,6,17
+1984-11-03,Toledo,MAC,Dan Simrell,H,Western Michigan,MAC,Jack Harbaugh,W,17,13
+1984-11-10,Toledo,MAC,Dan Simrell,H,Northern Illinois,MAC,Lee Corso,W,13,7
+1984-11-17,Toledo,MAC,Dan Simrell,A,Central Michigan,MAC,Herb Deromedi,W,14,7
+1984-11-30,Toledo,MAC,Dan Simrell,A,Temple,Ind,Bruce Arians,L,6,35
+1984-12-15,Toledo,MAC,Dan Simrell,N,Nevada-Las Vegas,PCAA,Harvey Hyde,L,13,30
+1984-09-01,Pitt,Ind,Foge Fazio,H,Brigham Young,WAC,LaVell Edwards,L,14,20
+1984-09-15,Pitt,Ind,Foge Fazio,H,Oklahoma,Big 8,Barry Switzer,L,10,42
+1984-09-22,Pitt,Ind,Foge Fazio,A,Temple,Ind,Bruce Arians,L,12,13
+1984-09-29,Pitt,Ind,Foge Fazio,H,West Virginia,Ind,Don Nehlen,L,10,28
+1984-10-06,Pitt,Ind,Foge Fazio,H,East Carolina,Ind,Ed Emory,W,17,10
+1984-10-13,Pitt,Ind,Foge Fazio,A,South Carolina,Ind,Joe Morrison,L,21,45
+1984-10-20,Pitt,Ind,Foge Fazio,A,Miami (FL),Ind,Jimmy Johnson,L,7,27
+1984-10-27,Pitt,Ind,Foge Fazio,H,Navy,Ind,Gary Tranquill,T,28,28
+1984-11-03,Pitt,Ind,Foge Fazio,A,Syracuse,Ind,Dick MacPherson,L,7,13
+1984-11-10,Pitt,Ind,Foge Fazio,H,Tulane,Ind,Wally English,W,21,10
+1984-11-24,Pitt,Ind,Foge Fazio,A,Penn State,Ind,Joe Paterno,W,31,11
+1984-09-01,West Texas A&M,MVC,,A,Northern Illinois,MAC,Lee Corso,L,33,40
+1984-09-15,West Texas A&M,MVC,,A,New Mexico,WAC,Joe Lee Dunn,L,0,27
+1984-09-29,West Texas A&M,MVC,,A,Iowa State,Big 8,Jim Criner,L,0,14
+1984-10-05,West Texas A&M,MVC,,H,Tulsa,MVC,John Cooper,L,7,35
+1984-10-19,West Texas A&M,MVC,,A,Southern Illinois,MVC,Ray Door,W,24,17
+1984-10-26,West Texas A&M,MVC,,A,New Mexico State,PCAA,Fred Zechman,W,21,13
+1984-11-10,West Texas A&M,MVC,,A,Wichita State,MVC,Ron Chismar,L,14,17
+1984-11-17,West Texas A&M,MVC,,H,Drake,MVC,,L,22,25
+1984-09-08,Wyoming,WAC,Al Kincaid,A,Nebraska,Big 8,Tom Osborne,L,7,42
+1984-09-15,Wyoming,WAC,Al Kincaid,H,Air Force,WAC,Fisher DeBerry,W,26,20
+1984-09-22,Wyoming,WAC,Al Kincaid,A,Oregon State,Pac-10,Joe Avezzano,L,14,41
+1984-09-29,Wyoming,WAC,Al Kincaid,H,Utah,WAC,Chuck Stobart,W,21,14
+1984-10-06,Wyoming,WAC,Al Kincaid,H,San Diego State,WAC,Doug Scovil,L,0,21
+1984-10-13,Wyoming,WAC,Al Kincaid,A,Brigham Young,WAC,LaVell Edwards,L,38,41
+1984-10-20,Wyoming,WAC,Al Kincaid,H,New Mexico,WAC,Joe Lee Dunn,W,59,21
+1984-10-27,Wyoming,WAC,Al Kincaid,A,Colorado State,WAC,Leon Fuller,W,43,34
+1984-11-03,Wyoming,WAC,Al Kincaid,A,Hawaii,WAC,Dick Tomey,L,28,31
+1984-11-17,Wyoming,WAC,Al Kincaid,A,UTEP,WAC,Bill Yung,L,22,35
+1984-09-01,Brigham Young,WAC,LaVell Edwards,A,Pitt,Ind,Foge Fazio,W,20,14
+1984-09-08,Brigham Young,WAC,LaVell Edwards,H,Baylor,SWC,Grant Teaff,W,47,13
+1984-09-15,Brigham Young,WAC,LaVell Edwards,H,Tulsa,MVC,John Cooper,W,38,15
+1984-09-22,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,18,13
+1984-10-06,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Leon Fuller,W,52,9
+1984-10-13,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,41,38
+1984-10-20,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,30,25
+1984-10-25,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Lee Dunn,W,48,0
+1984-11-03,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bill Yung,W,42,9
+1984-11-10,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,34,3
+1984-11-17,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Chuck Stobart,W,24,14
+1984-11-24,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Chris Pella,W,38,13
+1984-12-21,Brigham Young,WAC,LaVell Edwards,N,Michigan,Big Ten,Bo Schembechler,W,24,17
+1984-09-15,Georgia Tech,ACC,Bill Curry,H,Alabama,SEC,Ray Perkins,W,16,6
+1984-09-29,Georgia Tech,ACC,Bill Curry,H,Clemson,ACC,Danny Ford,W,28,21
+1984-10-06,Georgia Tech,ACC,Bill Curry,H,North Carolina State,ACC,Tom Reed,L,22,27
+1984-10-13,Georgia Tech,ACC,Bill Curry,A,Virginia,ACC,George Welsh,T,20,20
+1984-10-20,Georgia Tech,ACC,Bill Curry,A,Auburn,SEC,Pat Dye,L,34,48
+1984-10-27,Georgia Tech,ACC,Bill Curry,H,Tennessee,SEC,Johnny Majors,L,21,24
+1984-11-03,Georgia Tech,ACC,Bill Curry,H,Duke,ACC,Steve Sloan,W,31,3
+1984-11-10,Georgia Tech,ACC,Bill Curry,A,North Carolina,ACC,Dick Crum,L,17,24
+1984-11-17,Georgia Tech,ACC,Bill Curry,A,Wake Forest,ACC,Al Groh,W,24,7
+1984-12-01,Georgia Tech,ACC,Bill Curry,A,Georgia,SEC,Vince Dooley,W,35,18
+1984-09-08,Wake Forest,ACC,Al Groh,H,Virginia Tech,Ind,Bill Dooley,L,20,21
+1984-09-22,Wake Forest,ACC,Al Groh,A,North Carolina State,ACC,Tom Reed,W,24,15
+1984-09-29,Wake Forest,ACC,Al Groh,A,Maryland,ACC,Bobby Ross,L,17,38
+1984-10-13,Wake Forest,ACC,Al Groh,H,North Carolina,ACC,Dick Crum,W,14,3
+1984-10-20,Wake Forest,ACC,Al Groh,A,Virginia,ACC,George Welsh,L,9,28
+1984-11-03,Wake Forest,ACC,Al Groh,A,Clemson,ACC,Danny Ford,L,14,37
+1984-11-10,Wake Forest,ACC,Al Groh,A,Duke,ACC,Steve Sloan,W,20,16
+1984-11-17,Wake Forest,ACC,Al Groh,H,Georgia Tech,ACC,Bill Curry,L,7,24
+1984-09-01,Mississippi State,SEC,Emory Bellard,A,Tulane,Ind,Wally English,W,30,3
+1984-09-08,Mississippi State,SEC,Emory Bellard,H,Colorado State,WAC,Leon Fuller,W,14,9
+1984-09-22,Mississippi State,SEC,Emory Bellard,A,Missouri,Big 8,Warren Powers,L,30,47
+1984-09-29,Mississippi State,SEC,Emory Bellard,A,Florida,SEC,Galen Hall,L,12,27
+1984-10-06,Mississippi State,SEC,Emory Bellard,N,Southern Mississippi,Ind,Jim Carmody,W,27,18
+1984-10-13,Mississippi State,SEC,Emory Bellard,H,Kentucky,SEC,Jerry Claiborne,L,13,17
+1984-10-20,Mississippi State,SEC,Emory Bellard,A,Memphis,Ind,Rey Dempsey,L,12,23
+1984-10-27,Mississippi State,SEC,Emory Bellard,H,Auburn,SEC,Pat Dye,L,21,24
+1984-11-03,Mississippi State,SEC,Emory Bellard,H,Alabama,SEC,Ray Perkins,L,20,24
+1984-11-17,Mississippi State,SEC,Emory Bellard,H,LSU,SEC,Bill Arnsparger,W,16,14
+1984-11-24,Mississippi State,SEC,Emory Bellard,N,Ole Miss,SEC,Billy Brewer,L,3,24
+1984-09-08,Nevada-Las Vegas,PCAA,Harvey Hyde,H,San Jose State,PCAA,Claude Gilbert,W,30,15
+1984-09-15,Nevada-Las Vegas,PCAA,Harvey Hyde,A,New Mexico State,PCAA,Fred Zechman,W,28,21
+1984-09-22,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Wichita State,MVC,Ron Chismar,W,38,21
+1984-09-29,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Hawaii,WAC,Dick Tomey,L,12,16
+1984-10-06,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Long Beach State,PCAA,Mike Sheppard,W,41,23
+1984-10-20,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Pacific,PCAA,Bob Cope,W,35,21
+1984-11-03,Nevada-Las Vegas,PCAA,Harvey Hyde,A,San Diego State,WAC,Doug Scovil,W,30,14
+1984-11-10,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Cal State Fullerton,PCAA,Gene Murphy,W,26,20
+1984-11-17,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Utah State,PCAA,Chris Pella,W,36,20
+1984-11-24,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Fresno State,PCAA,Jim Sweeney,W,27,13
+1984-12-01,Nevada-Las Vegas,PCAA,Harvey Hyde,H,SMU,SWC,Bobby Collins,L,21,38
+1984-12-15,Nevada-Las Vegas,PCAA,Harvey Hyde,N,Toledo,MAC,Dan Simrell,W,30,13
+1984-09-08,Memphis,Ind,Rey Dempsey,A,Ole Miss,SEC,Billy Brewer,L,6,22
+1984-09-22,Memphis,Ind,Rey Dempsey,H,Cincinnati,Ind,Dave Currey,W,47,7
+1984-09-29,Memphis,Ind,Rey Dempsey,H,Southern Mississippi,Ind,Jim Carmody,W,23,13
+1984-10-06,Memphis,Ind,Rey Dempsey,H,Florida State,Ind,Bobby Bowden,T,17,17
+1984-10-13,Memphis,Ind,Rey Dempsey,H,Louisiana,Ind,Sam Robertson,W,20,7
+1984-10-20,Memphis,Ind,Rey Dempsey,H,Mississippi State,SEC,Emory Bellard,W,23,12
+1984-10-27,Memphis,Ind,Rey Dempsey,H,North Carolina,ACC,Dick Crum,L,27,30
+1984-11-03,Memphis,Ind,Rey Dempsey,A,Georgia,SEC,Vince Dooley,L,3,13
+1984-11-10,Memphis,Ind,Rey Dempsey,A,Tennessee,SEC,Johnny Majors,L,9,41
+1984-11-17,Memphis,Ind,Rey Dempsey,A,Tulane,Ind,Wally English,L,9,14
+1984-09-08,Kansas State,Big 8,Jim Dickey,A,Vanderbilt,SEC,George MacIntyre,L,14,26
+1984-09-22,Kansas State,Big 8,Jim Dickey,A,Texas Christian,SWC,Jim Wacker,L,10,42
+1984-09-29,Kansas State,Big 8,Jim Dickey,A,Oklahoma,Big 8,Barry Switzer,L,6,24
+1984-10-06,Kansas State,Big 8,Jim Dickey,A,South Carolina,Ind,Joe Morrison,L,17,49
+1984-10-13,Kansas State,Big 8,Jim Dickey,H,Kansas,Big 8,Mike Gottfried,W,24,7
+1984-10-20,Kansas State,Big 8,Jim Dickey,H,Missouri,Big 8,Warren Powers,L,21,61
+1984-10-27,Kansas State,Big 8,Jim Dickey,A,Nebraska,Big 8,Tom Osborne,L,14,62
+1984-11-03,Kansas State,Big 8,Jim Dickey,H,Oklahoma State,Big 8,Pat Jones,L,6,34
+1984-11-10,Kansas State,Big 8,Jim Dickey,A,Iowa State,Big 8,Jim Criner,T,7,7
+1984-11-17,Kansas State,Big 8,Jim Dickey,H,Colorado,Big 8,Bill McCartney,W,38,6
+1984-09-22,Army,Ind,Jim Young,A,Tennessee,SEC,Johnny Majors,T,24,24
+1984-09-29,Army,Ind,Jim Young,H,Duke,ACC,Steve Sloan,W,13,9
+1984-10-13,Army,Ind,Jim Young,N,Rutgers,Ind,Dick Anderson,L,7,14
+1984-10-27,Army,Ind,Jim Young,A,Syracuse,Ind,Dick MacPherson,L,16,27
+1984-11-03,Army,Ind,Jim Young,H,Air Force,WAC,Fisher DeBerry,W,24,12
+1984-11-10,Army,Ind,Jim Young,A,Boston College,Ind,Jack Bicknell,L,31,45
+1984-12-01,Army,Ind,Jim Young,N,Navy,Ind,Gary Tranquill,W,28,11
+1984-12-22,Army,Ind,Jim Young,N,Michigan State,Big Ten,George Perles,W,10,6
+1984-09-08,UCLA,Pac-10,Terry Donahue,A,San Diego State,WAC,Doug Scovil,W,18,15
+1984-09-15,UCLA,Pac-10,Terry Donahue,H,Long Beach State,PCAA,Mike Sheppard,W,23,17
+1984-09-22,UCLA,Pac-10,Terry Donahue,H,Nebraska,Big 8,Tom Osborne,L,3,42
+1984-09-29,UCLA,Pac-10,Terry Donahue,A,Colorado,Big 8,Bill McCartney,W,33,16
+1984-10-06,UCLA,Pac-10,Terry Donahue,H,Stanford,Pac-10,Jack Elway,L,21,23
+1984-10-13,UCLA,Pac-10,Terry Donahue,H,Washington State,Pac-10,Jim Walden,W,27,24
+1984-10-20,UCLA,Pac-10,Terry Donahue,A,California,Pac-10,Joe Kapp,W,17,14
+1984-10-27,UCLA,Pac-10,Terry Donahue,A,Arizona State,Pac-10,Darryl Rogers,W,21,13
+1984-11-03,UCLA,Pac-10,Terry Donahue,H,Oregon,Pac-10,Rich Brooks,L,18,20
+1984-11-10,UCLA,Pac-10,Terry Donahue,H,Oregon State,Pac-10,Joe Avezzano,W,26,17
+1984-11-17,UCLA,Pac-10,Terry Donahue,H,USC,Pac-10,Ted Tollner,W,29,10
+1985-01-01,UCLA,Pac-10,Terry Donahue,N,Miami (FL),Ind,Jimmy Johnson,W,39,37
+1984-08-27,Auburn,SEC,Pat Dye,N,Miami (FL),Ind,Jimmy Johnson,L,18,20
+1984-09-15,Auburn,SEC,Pat Dye,A,Texas,SWC,Fred Akers,L,27,35
+1984-09-22,Auburn,SEC,Pat Dye,H,Southern Mississippi,Ind,Jim Carmody,W,35,12
+1984-09-29,Auburn,SEC,Pat Dye,H,Tennessee,SEC,Johnny Majors,W,29,10
+1984-10-06,Auburn,SEC,Pat Dye,A,Ole Miss,SEC,Billy Brewer,W,17,13
+1984-10-13,Auburn,SEC,Pat Dye,A,Florida State,Ind,Bobby Bowden,W,42,41
+1984-10-20,Auburn,SEC,Pat Dye,H,Georgia Tech,ACC,Bill Curry,W,48,34
+1984-10-27,Auburn,SEC,Pat Dye,A,Mississippi State,SEC,Emory Bellard,W,24,21
+1984-11-03,Auburn,SEC,Pat Dye,A,Florida,SEC,Galen Hall,L,3,24
+1984-11-10,Auburn,SEC,Pat Dye,H,Cincinnati,Ind,Dave Currey,W,60,0
+1984-11-17,Auburn,SEC,Pat Dye,H,Georgia,SEC,Vince Dooley,W,21,12
+1984-12-01,Auburn,SEC,Pat Dye,N,Alabama,SEC,Ray Perkins,L,15,17
+1984-12-27,Auburn,SEC,Pat Dye,N,Arkansas,SWC,Ken Hatfield,W,21,15
+1984-09-01,Northwestern,Big Ten,Dennis Green,A,Illinois,Big Ten,Mike White,L,16,24
+1984-09-08,Northwestern,Big Ten,Dennis Green,A,Washington,Pac-10,Don James,L,0,26
+1984-09-15,Northwestern,Big Ten,Dennis Green,H,Syracuse,Ind,Dick MacPherson,L,12,13
+1984-09-22,Northwestern,Big Ten,Dennis Green,H,Indiana,Big Ten,Bill Mallory,W,40,37
+1984-09-29,Northwestern,Big Ten,Dennis Green,A,Wisconsin,Big Ten,Dave McClain,L,16,31
+1984-10-06,Northwestern,Big Ten,Dennis Green,H,Iowa,Big Ten,Hayden Fry,L,3,31
+1984-10-13,Northwestern,Big Ten,Dennis Green,A,Michigan,Big Ten,Bo Schembechler,L,0,31
+1984-10-20,Northwestern,Big Ten,Dennis Green,A,Minnesota,Big Ten,Lou Holtz,W,31,28
+1984-10-27,Northwestern,Big Ten,Dennis Green,H,Purdue,Big Ten,Leon Burtnett,L,7,49
+1984-11-03,Northwestern,Big Ten,Dennis Green,A,Michigan State,Big Ten,George Perles,L,10,27
+1984-11-10,Northwestern,Big Ten,Dennis Green,H,Ohio State,Big Ten,Earle Bruce,L,3,52
+1984-09-08,Kansas,Big 8,Mike Gottfried,H,Wichita State,MVC,Ron Chismar,W,31,7
+1984-09-15,Kansas,Big 8,Mike Gottfried,H,Florida State,Ind,Bobby Bowden,L,16,42
+1984-09-22,Kansas,Big 8,Mike Gottfried,A,Vanderbilt,SEC,George MacIntyre,L,6,41
+1984-09-29,Kansas,Big 8,Mike Gottfried,A,North Carolina,ACC,Dick Crum,L,17,23
+1984-10-06,Kansas,Big 8,Mike Gottfried,H,Iowa State,Big 8,Jim Criner,W,33,14
+1984-10-13,Kansas,Big 8,Mike Gottfried,A,Kansas State,Big 8,Jim Dickey,L,7,24
+1984-10-20,Kansas,Big 8,Mike Gottfried,A,Oklahoma State,Big 8,Pat Jones,L,10,47
+1984-10-27,Kansas,Big 8,Mike Gottfried,H,Oklahoma,Big 8,Barry Switzer,W,28,11
+1984-11-03,Kansas,Big 8,Mike Gottfried,A,Colorado,Big 8,Bill McCartney,W,28,27
+1984-11-10,Kansas,Big 8,Mike Gottfried,H,Nebraska,Big 8,Tom Osborne,L,7,41
+1984-11-17,Kansas,Big 8,Mike Gottfried,A,Missouri,Big 8,Warren Powers,W,35,21
+1984-09-08,Western Michigan,MAC,Jack Harbaugh,H,Miami (OH),MAC,Tim Rose,W,17,13
+1984-09-15,Western Michigan,MAC,Jack Harbaugh,H,Illinois State,MVC,,W,41,14
+1984-09-22,Western Michigan,MAC,Jack Harbaugh,A,Central Michigan,MAC,Herb Deromedi,L,19,38
+1984-10-06,Western Michigan,MAC,Jack Harbaugh,H,Northern Illinois,MAC,Lee Corso,L,15,20
+1984-10-13,Western Michigan,MAC,Jack Harbaugh,A,Bowling Green State,MAC,Dennis Stolz,L,7,34
+1984-10-20,Western Michigan,MAC,Jack Harbaugh,A,Ball State,MAC,Dwight Wallace,L,20,23
+1984-10-27,Western Michigan,MAC,Jack Harbaugh,H,Ohio,MAC,Brian Burke,W,33,14
+1984-11-03,Western Michigan,MAC,Jack Harbaugh,A,Toledo,MAC,Dan Simrell,L,13,17
+1984-11-10,Western Michigan,MAC,Jack Harbaugh,H,Kent State,MAC,Dick Scesniak,W,13,9
+1984-11-17,Western Michigan,MAC,Jack Harbaugh,A,Eastern Michigan,MAC,Jim Harkema,L,14,24
+1984-09-01,UTEP,WAC,Bill Yung,A,Texas A&M,SWC,Jackie Sherrill,L,17,20
+1984-09-15,UTEP,WAC,Bill Yung,A,San Diego State,WAC,Doug Scovil,L,2,51
+1984-09-29,UTEP,WAC,Bill Yung,H,New Mexico,WAC,Joe Lee Dunn,L,7,34
+1984-10-06,UTEP,WAC,Bill Yung,A,New Mexico State,PCAA,Fred Zechman,L,16,27
+1984-10-13,UTEP,WAC,Bill Yung,H,Hawaii,WAC,Dick Tomey,L,20,24
+1984-10-27,UTEP,WAC,Bill Yung,A,Utah,WAC,Chuck Stobart,L,15,43
+1984-11-03,UTEP,WAC,Bill Yung,A,Brigham Young,WAC,LaVell Edwards,L,9,42
+1984-11-10,UTEP,WAC,Bill Yung,A,Colorado State,WAC,Leon Fuller,L,31,59
+1984-11-17,UTEP,WAC,Bill Yung,H,Wyoming,WAC,Al Kincaid,W,35,22
+1984-11-24,UTEP,WAC,Bill Yung,H,Air Force,WAC,Fisher DeBerry,L,12,38
+1984-09-22,Indiana State,MVC,,H,Illinois State,MVC,,W,19,7
+1984-10-06,Indiana State,MVC,,N,Ball State,MAC,Dwight Wallace,W,34,6
+1984-10-13,Indiana State,MVC,,A,Louisville,Ind,Bob Weber,W,44,21
+1984-10-20,Indiana State,MVC,,H,Drake,MVC,,W,17,3
+1984-10-27,Indiana State,MVC,,A,Southern Illinois,MVC,Ray Door,W,27,10
+1984-11-10,Indiana State,MVC,,H,Tulsa,MVC,John Cooper,L,17,24
+1984-09-08,LSU,SEC,Bill Arnsparger,A,Florida,SEC,Galen Hall,T,21,21
+1984-09-15,LSU,SEC,Bill Arnsparger,H,Wichita State,MVC,Ron Chismar,W,47,7
+1984-09-22,LSU,SEC,Bill Arnsparger,H,Arizona,Pac-10,Larry Smith,W,27,26
+1984-09-29,LSU,SEC,Bill Arnsparger,A,USC,Pac-10,Ted Tollner,W,23,3
+1984-10-13,LSU,SEC,Bill Arnsparger,H,Vanderbilt,SEC,George MacIntyre,W,34,27
+1984-10-20,LSU,SEC,Bill Arnsparger,A,Kentucky,SEC,Jerry Claiborne,W,36,10
+1984-10-27,LSU,SEC,Bill Arnsparger,H,Notre Dame,Ind,Gerry Faust,L,22,30
+1984-11-03,LSU,SEC,Bill Arnsparger,H,Ole Miss,SEC,Billy Brewer,W,32,29
+1984-11-10,LSU,SEC,Bill Arnsparger,A,Alabama,SEC,Ray Perkins,W,16,14
+1984-11-17,LSU,SEC,Bill Arnsparger,A,Mississippi State,SEC,Emory Bellard,L,14,16
+1984-11-24,LSU,SEC,Bill Arnsparger,H,Tulane,Ind,Wally English,W,33,15
+1985-01-01,LSU,SEC,Bill Arnsparger,N,Nebraska,Big 8,Tom Osborne,L,10,28
+1984-09-01,Tulsa,MVC,John Cooper,H,Southern Illinois,MVC,Ray Door,W,23,10
+1984-09-15,Tulsa,MVC,John Cooper,A,Brigham Young,WAC,LaVell Edwards,L,15,38
+1984-09-22,Tulsa,MVC,John Cooper,A,Arkansas,SWC,Ken Hatfield,L,9,18
+1984-09-29,Tulsa,MVC,John Cooper,H,Oklahoma State,Big 8,Pat Jones,L,7,31
+1984-10-05,Tulsa,MVC,John Cooper,A,West Texas A&M,MVC,,W,35,7
+1984-10-13,Tulsa,MVC,John Cooper,H,East Carolina,Ind,Ed Emory,W,31,20
+1984-10-20,Tulsa,MVC,John Cooper,H,Wichita State,MVC,Ron Chismar,W,55,20
+1984-10-27,Tulsa,MVC,John Cooper,A,Texas Tech,SWC,Jerry Moore,L,17,20
+1984-11-03,Tulsa,MVC,John Cooper,A,Illinois State,MVC,,W,28,7
+1984-11-10,Tulsa,MVC,John Cooper,A,Indiana State,MVC,,W,24,17
+1984-11-17,Tulsa,MVC,John Cooper,H,Louisiana,Ind,Sam Robertson,L,17,18
+1984-09-08,Iowa,Big Ten,Hayden Fry,H,Iowa State,Big 8,Jim Criner,W,59,21
+1984-09-15,Iowa,Big Ten,Hayden Fry,H,Penn State,Ind,Joe Paterno,L,17,20
+1984-09-22,Iowa,Big Ten,Hayden Fry,A,Ohio State,Big Ten,Earle Bruce,L,26,45
+1984-09-29,Iowa,Big Ten,Hayden Fry,H,Illinois,Big Ten,Mike White,W,21,16
+1984-10-06,Iowa,Big Ten,Hayden Fry,A,Northwestern,Big Ten,Dennis Green,W,31,3
+1984-10-13,Iowa,Big Ten,Hayden Fry,A,Purdue,Big Ten,Leon Burtnett,W,40,3
+1984-10-20,Iowa,Big Ten,Hayden Fry,H,Michigan,Big Ten,Bo Schembechler,W,26,0
+1984-10-27,Iowa,Big Ten,Hayden Fry,A,Indiana,Big Ten,Bill Mallory,W,24,20
+1984-11-03,Iowa,Big Ten,Hayden Fry,H,Wisconsin,Big Ten,Dave McClain,T,10,10
+1984-11-10,Iowa,Big Ten,Hayden Fry,H,Michigan State,Big Ten,George Perles,L,16,17
+1984-11-17,Iowa,Big Ten,Hayden Fry,A,Minnesota,Big Ten,Lou Holtz,L,17,23
+1984-12-01,Iowa,Big Ten,Hayden Fry,A,Hawaii,WAC,Dick Tomey,W,17,6
+1984-12-26,Iowa,Big Ten,Hayden Fry,N,Texas,SWC,Fred Akers,W,55,17
+1984-09-15,Texas,SWC,Fred Akers,H,Auburn,SEC,Pat Dye,W,35,27
+1984-09-29,Texas,SWC,Fred Akers,N,Penn State,Ind,Joe Paterno,W,28,3
+1984-10-06,Texas,SWC,Fred Akers,A,Rice,SWC,Watson Brown,W,38,13
+1984-10-13,Texas,SWC,Fred Akers,N,Oklahoma,Big 8,Barry Switzer,T,15,15
+1984-10-20,Texas,SWC,Fred Akers,H,Arkansas,SWC,Ken Hatfield,W,24,18
+1984-10-27,Texas,SWC,Fred Akers,H,SMU,SWC,Bobby Collins,W,13,7
+1984-11-03,Texas,SWC,Fred Akers,A,Texas Tech,SWC,Jerry Moore,W,13,10
+1984-11-10,Texas,SWC,Fred Akers,H,Houston,SWC,Bill Yeoman,L,15,29
+1984-11-17,Texas,SWC,Fred Akers,A,Texas Christian,SWC,Jim Wacker,W,44,23
+1984-11-24,Texas,SWC,Fred Akers,A,Baylor,SWC,Grant Teaff,L,10,24
+1984-12-01,Texas,SWC,Fred Akers,H,Texas A&M,SWC,Jackie Sherrill,L,12,37
+1984-12-26,Texas,SWC,Fred Akers,N,Iowa,Big Ten,Hayden Fry,L,17,55
+1984-09-15,Texas Christian,SWC,Jim Wacker,A,Utah State,PCAA,Chris Pella,W,62,18
+1984-09-22,Texas Christian,SWC,Jim Wacker,H,Kansas State,Big 8,Jim Dickey,W,42,10
+1984-09-29,Texas Christian,SWC,Jim Wacker,A,SMU,SWC,Bobby Collins,L,17,26
+1984-10-06,Texas Christian,SWC,Jim Wacker,A,Arkansas,SWC,Ken Hatfield,W,32,31
+1984-10-13,Texas Christian,SWC,Jim Wacker,H,Rice,SWC,Watson Brown,W,45,24
+1984-10-27,Texas Christian,SWC,Jim Wacker,H,Baylor,SWC,Grant Teaff,W,38,28
+1984-11-03,Texas Christian,SWC,Jim Wacker,A,Houston,SWC,Bill Yeoman,W,21,14
+1984-11-10,Texas Christian,SWC,Jim Wacker,H,Texas Tech,SWC,Jerry Moore,W,27,16
+1984-11-17,Texas Christian,SWC,Jim Wacker,H,Texas,SWC,Fred Akers,L,23,44
+1984-11-24,Texas Christian,SWC,Jim Wacker,A,Texas A&M,SWC,Jackie Sherrill,L,21,35
+1984-12-31,Texas Christian,SWC,Jim Wacker,N,West Virginia,Ind,Don Nehlen,L,14,31
+1984-09-01,Air Force,WAC,Fisher DeBerry,H,San Diego State,WAC,Doug Scovil,W,34,16
+1984-09-15,Air Force,WAC,Fisher DeBerry,A,Wyoming,WAC,Al Kincaid,L,20,26
+1984-09-22,Air Force,WAC,Fisher DeBerry,A,Utah,WAC,Chuck Stobart,L,17,28
+1984-09-29,Air Force,WAC,Fisher DeBerry,H,Colorado State,WAC,Leon Fuller,W,52,10
+1984-10-06,Air Force,WAC,Fisher DeBerry,H,Navy,Ind,Gary Tranquill,W,29,22
+1984-10-13,Air Force,WAC,Fisher DeBerry,A,Notre Dame,Ind,Gerry Faust,W,21,7
+1984-10-20,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,25,30
+1984-11-03,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Jim Young,L,12,24
+1984-11-10,Air Force,WAC,Fisher DeBerry,A,New Mexico,WAC,Joe Lee Dunn,W,23,9
+1984-11-24,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,Bill Yung,W,38,12
+1984-12-15,Air Force,WAC,Fisher DeBerry,N,Virginia Tech,Ind,Bill Dooley,W,23,7
+1984-08-27,Miami (FL),Ind,Jimmy Johnson,N,Auburn,SEC,Pat Dye,W,20,18
+1984-09-01,Miami (FL),Ind,Jimmy Johnson,N,Florida,SEC,Galen Hall,W,32,20
+1984-09-08,Miami (FL),Ind,Jimmy Johnson,A,Michigan,Big Ten,Bo Schembechler,L,14,22
+1984-09-15,Miami (FL),Ind,Jimmy Johnson,A,Purdue,Big Ten,Leon Burtnett,W,28,17
+1984-09-22,Miami (FL),Ind,Jimmy Johnson,H,Florida State,Ind,Bobby Bowden,L,3,38
+1984-09-29,Miami (FL),Ind,Jimmy Johnson,H,Rice,SWC,Watson Brown,W,38,3
+1984-10-06,Miami (FL),Ind,Jimmy Johnson,A,Notre Dame,Ind,Gerry Faust,W,31,13
+1984-10-13,Miami (FL),Ind,Jimmy Johnson,A,Cincinnati,Ind,Dave Currey,W,49,25
+1984-10-20,Miami (FL),Ind,Jimmy Johnson,H,Pitt,Ind,Foge Fazio,W,27,7
+1984-11-03,Miami (FL),Ind,Jimmy Johnson,A,Louisville,Ind,Bob Weber,W,38,23
+1984-11-10,Miami (FL),Ind,Jimmy Johnson,H,Maryland,ACC,Bobby Ross,L,40,42
+1984-11-23,Miami (FL),Ind,Jimmy Johnson,H,Boston College,Ind,Jack Bicknell,L,45,47
+1985-01-01,Miami (FL),Ind,Jimmy Johnson,N,UCLA,Pac-10,Terry Donahue,L,37,39
+1984-09-08,Oregon,Pac-10,Rich Brooks,H,Long Beach State,PCAA,Mike Sheppard,W,28,17
+1984-09-15,Oregon,Pac-10,Rich Brooks,H,Colorado,Big 8,Bill McCartney,W,27,20
+1984-09-22,Oregon,Pac-10,Rich Brooks,A,California,Pac-10,Joe Kapp,W,21,14
+1984-09-29,Oregon,Pac-10,Rich Brooks,H,Pacific,PCAA,Bob Cope,W,30,14
+1984-10-06,Oregon,Pac-10,Rich Brooks,A,Arizona,Pac-10,Larry Smith,L,14,28
+1984-10-13,Oregon,Pac-10,Rich Brooks,H,USC,Pac-10,Ted Tollner,L,9,19
+1984-10-20,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,10,17
+1984-10-27,Oregon,Pac-10,Rich Brooks,H,Washington State,Pac-10,Jim Walden,L,41,50
+1984-11-03,Oregon,Pac-10,Rich Brooks,A,UCLA,Pac-10,Terry Donahue,W,20,18
+1984-11-10,Oregon,Pac-10,Rich Brooks,H,Arizona State,Pac-10,Darryl Rogers,L,10,44
+1984-11-17,Oregon,Pac-10,Rich Brooks,A,Oregon State,Pac-10,Joe Avezzano,W,31,6
+1984-09-01,Tennessee,SEC,Johnny Majors,H,Washington State,Pac-10,Jim Walden,W,34,27
+1984-09-15,Tennessee,SEC,Johnny Majors,H,Utah,WAC,Chuck Stobart,W,27,21
+1984-09-22,Tennessee,SEC,Johnny Majors,H,Army,Ind,Jim Young,T,24,24
+1984-09-29,Tennessee,SEC,Johnny Majors,A,Auburn,SEC,Pat Dye,L,10,29
+1984-10-13,Tennessee,SEC,Johnny Majors,H,Florida,SEC,Galen Hall,L,30,43
+1984-10-20,Tennessee,SEC,Johnny Majors,H,Alabama,SEC,Ray Perkins,W,28,27
+1984-10-27,Tennessee,SEC,Johnny Majors,A,Georgia Tech,ACC,Bill Curry,W,24,21
+1984-11-10,Tennessee,SEC,Johnny Majors,H,Memphis,Ind,Rey Dempsey,W,41,9
+1984-11-17,Tennessee,SEC,Johnny Majors,A,Ole Miss,SEC,Billy Brewer,W,41,17
+1984-11-24,Tennessee,SEC,Johnny Majors,H,Kentucky,SEC,Jerry Claiborne,L,12,17
+1984-12-01,Tennessee,SEC,Johnny Majors,A,Vanderbilt,SEC,George MacIntyre,W,29,13
+1984-12-22,Tennessee,SEC,Johnny Majors,N,Maryland,ACC,Bobby Ross,L,27,28
+1984-09-08,Oregon State,Pac-10,Joe Avezzano,A,Ohio State,Big Ten,Earle Bruce,L,14,22
+1984-09-15,Oregon State,Pac-10,Joe Avezzano,H,Arizona,Pac-10,Larry Smith,L,8,27
+1984-09-22,Oregon State,Pac-10,Joe Avezzano,H,Wyoming,WAC,Al Kincaid,W,41,14
+1984-10-06,Oregon State,Pac-10,Joe Avezzano,H,Washington,Pac-10,Don James,L,7,19
+1984-10-13,Oregon State,Pac-10,Joe Avezzano,H,California,Pac-10,Joe Kapp,W,9,6
+1984-10-20,Oregon State,Pac-10,Joe Avezzano,A,Arizona State,Pac-10,Darryl Rogers,L,10,45
+1984-10-27,Oregon State,Pac-10,Joe Avezzano,H,Stanford,Pac-10,Jack Elway,L,21,28
+1984-11-03,Oregon State,Pac-10,Joe Avezzano,A,Washington State,Pac-10,Jim Walden,L,3,20
+1984-11-10,Oregon State,Pac-10,Joe Avezzano,A,UCLA,Pac-10,Terry Donahue,L,17,26
+1984-11-17,Oregon State,Pac-10,Joe Avezzano,H,Oregon,Pac-10,Rich Brooks,L,6,31
+1984-09-08,Alabama,SEC,Ray Perkins,H,Boston College,Ind,Jack Bicknell,L,31,38
+1984-09-15,Alabama,SEC,Ray Perkins,A,Georgia Tech,ACC,Bill Curry,L,6,16
+1984-09-22,Alabama,SEC,Ray Perkins,H,Louisiana,Ind,Sam Robertson,W,37,14
+1984-09-29,Alabama,SEC,Ray Perkins,H,Vanderbilt,SEC,George MacIntyre,L,21,30
+1984-10-06,Alabama,SEC,Ray Perkins,H,Georgia,SEC,Vince Dooley,L,14,24
+1984-10-13,Alabama,SEC,Ray Perkins,H,Penn State,Ind,Joe Paterno,W,6,0
+1984-10-20,Alabama,SEC,Ray Perkins,A,Tennessee,SEC,Johnny Majors,L,27,28
+1984-11-03,Alabama,SEC,Ray Perkins,A,Mississippi State,SEC,Emory Bellard,W,24,20
+1984-11-10,Alabama,SEC,Ray Perkins,H,LSU,SEC,Bill Arnsparger,L,14,16
+1984-11-17,Alabama,SEC,Ray Perkins,A,Cincinnati,Ind,Dave Currey,W,29,7
+1984-12-01,Alabama,SEC,Ray Perkins,N,Auburn,SEC,Pat Dye,W,17,15
+1984-09-08,Purdue,Big Ten,Leon Burtnett,N,Notre Dame,Ind,Gerry Faust,W,23,21
+1984-09-15,Purdue,Big Ten,Leon Burtnett,H,Miami (FL),Ind,Jimmy Johnson,L,17,28
+1984-09-22,Purdue,Big Ten,Leon Burtnett,H,Minnesota,Big Ten,Lou Holtz,W,34,10
+1984-09-29,Purdue,Big Ten,Leon Burtnett,A,Michigan State,Big Ten,George Perles,W,13,10
+1984-10-06,Purdue,Big Ten,Leon Burtnett,H,Ohio State,Big Ten,Earle Bruce,W,28,23
+1984-10-13,Purdue,Big Ten,Leon Burtnett,H,Iowa,Big Ten,Hayden Fry,L,3,40
+1984-10-20,Purdue,Big Ten,Leon Burtnett,A,Illinois,Big Ten,Mike White,L,20,34
+1984-10-27,Purdue,Big Ten,Leon Burtnett,A,Northwestern,Big Ten,Dennis Green,W,49,7
+1984-11-03,Purdue,Big Ten,Leon Burtnett,H,Michigan,Big Ten,Bo Schembechler,W,31,29
+1984-11-10,Purdue,Big Ten,Leon Burtnett,A,Wisconsin,Big Ten,Dave McClain,L,13,30
+1984-11-17,Purdue,Big Ten,Leon Burtnett,H,Indiana,Big Ten,Bill Mallory,W,31,24
+1984-12-31,Purdue,Big Ten,Leon Burtnett,N,Virginia,ACC,George Welsh,L,24,27
+1984-09-08,Nebraska,Big 8,Tom Osborne,H,Wyoming,WAC,Al Kincaid,W,42,7
+1984-09-15,Nebraska,Big 8,Tom Osborne,H,Minnesota,Big Ten,Lou Holtz,W,38,7
+1984-09-22,Nebraska,Big 8,Tom Osborne,A,UCLA,Pac-10,Terry Donahue,W,42,3
+1984-09-29,Nebraska,Big 8,Tom Osborne,A,Syracuse,Ind,Dick MacPherson,L,9,17
+1984-10-06,Nebraska,Big 8,Tom Osborne,H,Oklahoma State,Big 8,Pat Jones,W,17,3
+1984-10-13,Nebraska,Big 8,Tom Osborne,H,Missouri,Big 8,Warren Powers,W,33,23
+1984-10-20,Nebraska,Big 8,Tom Osborne,A,Colorado,Big 8,Bill McCartney,W,24,7
+1984-10-27,Nebraska,Big 8,Tom Osborne,H,Kansas State,Big 8,Jim Dickey,W,62,14
+1984-11-03,Nebraska,Big 8,Tom Osborne,A,Iowa State,Big 8,Jim Criner,W,44,0
+1984-11-10,Nebraska,Big 8,Tom Osborne,A,Kansas,Big 8,Mike Gottfried,W,41,7
+1984-11-17,Nebraska,Big 8,Tom Osborne,H,Oklahoma,Big 8,Barry Switzer,L,7,17
+1985-01-01,Nebraska,Big 8,Tom Osborne,N,LSU,SEC,Bill Arnsparger,W,28,10
+1984-09-01,West Virginia,Ind,Don Nehlen,H,Ohio,MAC,Brian Burke,W,38,0
+1984-09-08,West Virginia,Ind,Don Nehlen,H,Louisville,Ind,Bob Weber,W,30,6
+1984-09-15,West Virginia,Ind,Don Nehlen,A,Virginia Tech,Ind,Bill Dooley,W,14,7
+1984-09-22,West Virginia,Ind,Don Nehlen,H,Maryland,ACC,Bobby Ross,L,17,20
+1984-09-29,West Virginia,Ind,Don Nehlen,A,Pitt,Ind,Foge Fazio,W,28,10
+1984-10-13,West Virginia,Ind,Don Nehlen,H,Syracuse,Ind,Dick MacPherson,W,20,10
+1984-10-20,West Virginia,Ind,Don Nehlen,H,Boston College,Ind,Jack Bicknell,W,21,20
+1984-10-27,West Virginia,Ind,Don Nehlen,H,Penn State,Ind,Joe Paterno,W,17,14
+1984-11-03,West Virginia,Ind,Don Nehlen,H,Virginia,ACC,George Welsh,L,7,27
+1984-11-10,West Virginia,Ind,Don Nehlen,A,Rutgers,Ind,Dick Anderson,L,19,23
+1984-11-17,West Virginia,Ind,Don Nehlen,A,Temple,Ind,Bruce Arians,L,17,19
+1984-12-31,West Virginia,Ind,Don Nehlen,N,Texas Christian,SWC,Jim Wacker,W,31,14
+1984-09-08,Oklahoma State,Big 8,Pat Jones,A,Arizona State,Pac-10,Darryl Rogers,W,45,3
+1984-09-15,Oklahoma State,Big 8,Pat Jones,H,Bowling Green State,MAC,Dennis Stolz,W,31,14
+1984-09-22,Oklahoma State,Big 8,Pat Jones,H,San Diego State,WAC,Doug Scovil,W,19,16
+1984-09-29,Oklahoma State,Big 8,Pat Jones,A,Tulsa,MVC,John Cooper,W,31,7
+1984-10-06,Oklahoma State,Big 8,Pat Jones,A,Nebraska,Big 8,Tom Osborne,L,3,17
+1984-10-20,Oklahoma State,Big 8,Pat Jones,H,Kansas,Big 8,Mike Gottfried,W,47,10
+1984-10-27,Oklahoma State,Big 8,Pat Jones,H,Colorado,Big 8,Bill McCartney,W,20,14
+1984-11-03,Oklahoma State,Big 8,Pat Jones,A,Kansas State,Big 8,Jim Dickey,W,34,6
+1984-11-10,Oklahoma State,Big 8,Pat Jones,H,Missouri,Big 8,Warren Powers,W,31,13
+1984-11-17,Oklahoma State,Big 8,Pat Jones,H,Iowa State,Big 8,Jim Criner,W,16,10
+1984-11-24,Oklahoma State,Big 8,Pat Jones,A,Oklahoma,Big 8,Barry Switzer,L,14,24
+1984-12-28,Oklahoma State,Big 8,Pat Jones,N,South Carolina,Ind,Joe Morrison,W,21,14
+1984-09-08,Colorado,Big 8,Bill McCartney,H,Michigan State,Big Ten,George Perles,L,21,24
+1984-09-15,Colorado,Big 8,Bill McCartney,A,Oregon,Pac-10,Rich Brooks,L,20,27
+1984-09-22,Colorado,Big 8,Bill McCartney,A,Notre Dame,Ind,Gerry Faust,L,14,55
+1984-09-29,Colorado,Big 8,Bill McCartney,H,UCLA,Pac-10,Terry Donahue,L,16,33
+1984-10-06,Colorado,Big 8,Bill McCartney,A,Missouri,Big 8,Warren Powers,L,7,52
+1984-10-13,Colorado,Big 8,Bill McCartney,H,Iowa State,Big 8,Jim Criner,W,23,21
+1984-10-20,Colorado,Big 8,Bill McCartney,H,Nebraska,Big 8,Tom Osborne,L,7,24
+1984-10-27,Colorado,Big 8,Bill McCartney,A,Oklahoma State,Big 8,Pat Jones,L,14,20
+1984-11-03,Colorado,Big 8,Bill McCartney,H,Kansas,Big 8,Mike Gottfried,L,27,28
+1984-11-10,Colorado,Big 8,Bill McCartney,H,Oklahoma,Big 8,Barry Switzer,L,17,42
+1984-11-17,Colorado,Big 8,Bill McCartney,A,Kansas State,Big 8,Jim Dickey,L,6,38
+1984-09-08,Colorado State,WAC,Leon Fuller,A,Mississippi State,SEC,Emory Bellard,L,9,14
+1984-09-15,Colorado State,WAC,Leon Fuller,H,Hawaii,WAC,Dick Tomey,W,10,3
+1984-09-22,Colorado State,WAC,Leon Fuller,H,Cal State Fullerton,PCAA,Gene Murphy,L,22,34
+1984-09-29,Colorado State,WAC,Leon Fuller,A,Air Force,WAC,Fisher DeBerry,L,10,52
+1984-10-06,Colorado State,WAC,Leon Fuller,H,Brigham Young,WAC,LaVell Edwards,L,9,52
+1984-10-13,Colorado State,WAC,Leon Fuller,A,New Mexico,WAC,Joe Lee Dunn,W,16,10
+1984-10-20,Colorado State,WAC,Leon Fuller,A,San Diego State,WAC,Doug Scovil,L,24,41
+1984-10-27,Colorado State,WAC,Leon Fuller,H,Wyoming,WAC,Al Kincaid,L,34,43
+1984-11-03,Colorado State,WAC,Leon Fuller,A,Utah,WAC,Chuck Stobart,L,23,35
+1984-11-10,Colorado State,WAC,Leon Fuller,H,UTEP,WAC,Bill Yung,W,59,31
+1984-11-17,Colorado State,WAC,Leon Fuller,A,Arizona State,Pac-10,Darryl Rogers,L,14,45
+1984-09-08,Rice,SWC,Watson Brown,A,Minnesota,Big Ten,Lou Holtz,L,24,31
+1984-09-29,Rice,SWC,Watson Brown,A,Miami (FL),Ind,Jimmy Johnson,L,3,38
+1984-10-06,Rice,SWC,Watson Brown,H,Texas,SWC,Fred Akers,L,13,38
+1984-10-13,Rice,SWC,Watson Brown,A,Texas Christian,SWC,Jim Wacker,L,24,45
+1984-10-20,Rice,SWC,Watson Brown,H,Texas Tech,SWC,Jerry Moore,L,10,30
+1984-10-27,Rice,SWC,Watson Brown,A,Texas A&M,SWC,Jackie Sherrill,L,14,38
+1984-11-03,Rice,SWC,Watson Brown,A,Arkansas,SWC,Ken Hatfield,L,6,28
+1984-11-10,Rice,SWC,Watson Brown,H,SMU,SWC,Bobby Collins,L,17,31
+1984-11-17,Rice,SWC,Watson Brown,H,Baylor,SWC,Grant Teaff,L,40,46
+1984-12-01,Rice,SWC,Watson Brown,A,Houston,SWC,Bill Yeoman,L,26,38
+1984-09-01,Texas A&M,SWC,Jackie Sherrill,H,UTEP,WAC,Bill Yung,W,20,17
+1984-09-22,Texas A&M,SWC,Jackie Sherrill,H,Iowa State,Big 8,Jim Criner,W,38,17
+1984-10-06,Texas A&M,SWC,Jackie Sherrill,H,Texas Tech,SWC,Jerry Moore,L,12,30
+1984-10-13,Texas A&M,SWC,Jackie Sherrill,A,Houston,SWC,Bill Yeoman,L,7,9
+1984-10-20,Texas A&M,SWC,Jackie Sherrill,H,Baylor,SWC,Grant Teaff,L,16,20
+1984-10-27,Texas A&M,SWC,Jackie Sherrill,H,Rice,SWC,Watson Brown,W,38,14
+1984-11-03,Texas A&M,SWC,Jackie Sherrill,A,SMU,SWC,Bobby Collins,L,20,28
+1984-11-17,Texas A&M,SWC,Jackie Sherrill,A,Arkansas,SWC,Ken Hatfield,L,0,28
+1984-11-24,Texas A&M,SWC,Jackie Sherrill,H,Texas Christian,SWC,Jim Wacker,W,35,21
+1984-12-01,Texas A&M,SWC,Jackie Sherrill,A,Texas,SWC,Fred Akers,W,37,12
+1984-09-08,Michigan State,Big Ten,George Perles,A,Colorado,Big 8,Bill McCartney,W,24,21
+1984-09-15,Michigan State,Big Ten,George Perles,H,Notre Dame,Ind,Gerry Faust,L,20,24
+1984-09-22,Michigan State,Big Ten,George Perles,A,Illinois,Big Ten,Mike White,L,7,40
+1984-09-29,Michigan State,Big Ten,George Perles,H,Purdue,Big Ten,Leon Burtnett,L,10,13
+1984-10-06,Michigan State,Big Ten,George Perles,A,Michigan,Big Ten,Bo Schembechler,W,19,7
+1984-10-13,Michigan State,Big Ten,George Perles,H,Indiana,Big Ten,Bill Mallory,W,13,6
+1984-10-20,Michigan State,Big Ten,George Perles,H,Ohio State,Big Ten,Earle Bruce,L,20,23
+1984-10-27,Michigan State,Big Ten,George Perles,A,Minnesota,Big Ten,Lou Holtz,W,20,13
+1984-11-03,Michigan State,Big Ten,George Perles,H,Northwestern,Big Ten,Dennis Green,W,27,10
+1984-11-10,Michigan State,Big Ten,George Perles,A,Iowa,Big Ten,Hayden Fry,W,17,16
+1984-11-17,Michigan State,Big Ten,George Perles,H,Wisconsin,Big Ten,Dave McClain,L,10,20
+1984-12-22,Michigan State,Big Ten,George Perles,N,Army,Ind,Jim Young,L,6,10
+1984-09-08,Boston College,Ind,Jack Bicknell,A,Alabama,SEC,Ray Perkins,W,38,31
+1984-09-22,Boston College,Ind,Jack Bicknell,H,North Carolina,ACC,Dick Crum,W,52,20
+1984-10-13,Boston College,Ind,Jack Bicknell,H,Temple,Ind,Bruce Arians,W,24,10
+1984-10-20,Boston College,Ind,Jack Bicknell,A,West Virginia,Ind,Don Nehlen,L,20,21
+1984-10-27,Boston College,Ind,Jack Bicknell,H,Rutgers,Ind,Dick Anderson,W,35,23
+1984-11-03,Boston College,Ind,Jack Bicknell,A,Penn State,Ind,Joe Paterno,L,30,37
+1984-11-10,Boston College,Ind,Jack Bicknell,H,Army,Ind,Jim Young,W,45,31
+1984-11-17,Boston College,Ind,Jack Bicknell,H,Syracuse,Ind,Dick MacPherson,W,24,16
+1984-11-23,Boston College,Ind,Jack Bicknell,A,Miami (FL),Ind,Jimmy Johnson,W,47,45
+1985-01-01,Boston College,Ind,Jack Bicknell,N,Houston,SWC,Bill Yeoman,W,45,28
+1984-09-01,New Mexico State,PCAA,Fred Zechman,A,San Jose State,PCAA,Claude Gilbert,L,0,14
+1984-09-08,New Mexico State,PCAA,Fred Zechman,A,New Mexico,WAC,Joe Lee Dunn,L,21,61
+1984-09-15,New Mexico State,PCAA,Fred Zechman,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,21,28
+1984-09-22,New Mexico State,PCAA,Fred Zechman,A,Drake,MVC,,L,28,35
+1984-09-29,New Mexico State,PCAA,Fred Zechman,A,Fresno State,PCAA,Jim Sweeney,L,24,53
+1984-10-06,New Mexico State,PCAA,Fred Zechman,H,UTEP,WAC,Bill Yung,W,27,16
+1984-10-13,New Mexico State,PCAA,Fred Zechman,A,Pacific,PCAA,Bob Cope,L,7,21
+1984-10-20,New Mexico State,PCAA,Fred Zechman,H,Long Beach State,PCAA,Mike Sheppard,L,13,43
+1984-10-26,New Mexico State,PCAA,Fred Zechman,H,West Texas A&M,MVC,,L,13,21
+1984-11-03,New Mexico State,PCAA,Fred Zechman,A,Wichita State,MVC,Ron Chismar,W,31,24
+1984-11-17,New Mexico State,PCAA,Fred Zechman,H,Cal State Fullerton,PCAA,Gene Murphy,L,0,20
+1984-09-08,Minnesota,Big Ten,Lou Holtz,H,Rice,SWC,Watson Brown,W,31,24
+1984-09-15,Minnesota,Big Ten,Lou Holtz,A,Nebraska,Big 8,Tom Osborne,L,7,38
+1984-09-22,Minnesota,Big Ten,Lou Holtz,A,Purdue,Big Ten,Leon Burtnett,L,10,34
+1984-09-29,Minnesota,Big Ten,Lou Holtz,H,Ohio State,Big Ten,Earle Bruce,L,22,35
+1984-10-06,Minnesota,Big Ten,Lou Holtz,H,Indiana,Big Ten,Bill Mallory,W,33,24
+1984-10-13,Minnesota,Big Ten,Lou Holtz,A,Wisconsin,Big Ten,Dave McClain,W,17,14
+1984-10-20,Minnesota,Big Ten,Lou Holtz,H,Northwestern,Big Ten,Dennis Green,L,28,31
+1984-10-27,Minnesota,Big Ten,Lou Holtz,H,Michigan State,Big Ten,George Perles,L,13,20
+1984-11-03,Minnesota,Big Ten,Lou Holtz,A,Illinois,Big Ten,Mike White,L,3,48
+1984-11-10,Minnesota,Big Ten,Lou Holtz,A,Michigan,Big Ten,Bo Schembechler,L,7,31
+1984-11-17,Minnesota,Big Ten,Lou Holtz,H,Iowa,Big Ten,Hayden Fry,W,23,17
+1984-09-08,Ole Miss,SEC,Billy Brewer,H,Memphis,Ind,Rey Dempsey,W,22,6
+1984-09-15,Ole Miss,SEC,Billy Brewer,A,Arkansas,SWC,Ken Hatfield,T,14,14
+1984-09-29,Ole Miss,SEC,Billy Brewer,H,Tulane,Ind,Wally English,W,19,14
+1984-10-06,Ole Miss,SEC,Billy Brewer,H,Auburn,SEC,Pat Dye,L,13,17
+1984-10-13,Ole Miss,SEC,Billy Brewer,A,Georgia,SEC,Vince Dooley,L,12,18
+1984-10-20,Ole Miss,SEC,Billy Brewer,N,Southern Mississippi,Ind,Jim Carmody,L,10,13
+1984-10-27,Ole Miss,SEC,Billy Brewer,A,Vanderbilt,SEC,George MacIntyre,L,20,37
+1984-11-03,Ole Miss,SEC,Billy Brewer,A,LSU,SEC,Bill Arnsparger,L,29,32
+1984-11-17,Ole Miss,SEC,Billy Brewer,H,Tennessee,SEC,Johnny Majors,L,17,41
+1984-11-24,Ole Miss,SEC,Billy Brewer,N,Mississippi State,SEC,Emory Bellard,W,24,3
+1984-09-08,Duke,ACC,Steve Sloan,H,Indiana,Big Ten,Bill Mallory,W,31,24
+1984-09-22,Duke,ACC,Steve Sloan,A,South Carolina,Ind,Joe Morrison,L,0,21
+1984-09-29,Duke,ACC,Steve Sloan,A,Army,Ind,Jim Young,L,9,13
+1984-10-06,Duke,ACC,Steve Sloan,H,Virginia,ACC,George Welsh,L,10,38
+1984-10-13,Duke,ACC,Steve Sloan,A,Virginia Tech,Ind,Bill Dooley,L,0,27
+1984-10-20,Duke,ACC,Steve Sloan,A,Clemson,ACC,Danny Ford,L,21,54
+1984-10-27,Duke,ACC,Steve Sloan,H,Maryland,ACC,Bobby Ross,L,7,43
+1984-11-03,Duke,ACC,Steve Sloan,A,Georgia Tech,ACC,Bill Curry,L,3,31
+1984-11-10,Duke,ACC,Steve Sloan,H,Wake Forest,ACC,Al Groh,L,16,20
+1984-11-17,Duke,ACC,Steve Sloan,A,North Carolina State,ACC,Tom Reed,W,16,13
+1984-11-24,Duke,ACC,Steve Sloan,H,North Carolina,ACC,Dick Crum,L,15,17
+1984-09-08,Kent State,MAC,Dick Scesniak,A,Kentucky,SEC,Jerry Claiborne,L,0,42
+1984-09-22,Kent State,MAC,Dick Scesniak,A,Northern Illinois,MAC,Lee Corso,L,10,24
+1984-09-29,Kent State,MAC,Dick Scesniak,H,Central Michigan,MAC,Herb Deromedi,L,10,14
+1984-10-06,Kent State,MAC,Dick Scesniak,H,Miami (OH),MAC,Tim Rose,L,3,19
+1984-10-13,Kent State,MAC,Dick Scesniak,A,Ball State,MAC,Dwight Wallace,W,15,10
+1984-10-20,Kent State,MAC,Dick Scesniak,A,Ohio,MAC,Brian Burke,W,19,7
+1984-10-27,Kent State,MAC,Dick Scesniak,H,Toledo,MAC,Dan Simrell,W,17,6
+1984-11-03,Kent State,MAC,Dick Scesniak,A,Eastern Michigan,MAC,Jim Harkema,L,18,20
+1984-11-10,Kent State,MAC,Dick Scesniak,A,Western Michigan,MAC,Jack Harbaugh,L,9,13
+1984-11-17,Kent State,MAC,Dick Scesniak,H,Bowling Green State,MAC,Dennis Stolz,L,10,27
+1984-09-15,Navy,Ind,Gary Tranquill,A,North Carolina,ACC,Dick Crum,W,33,30
+1984-09-22,Navy,Ind,Gary Tranquill,H,Virginia,ACC,George Welsh,L,9,21
+1984-09-29,Navy,Ind,Gary Tranquill,A,Arkansas,SWC,Ken Hatfield,L,10,33
+1984-10-06,Navy,Ind,Gary Tranquill,A,Air Force,WAC,Fisher DeBerry,L,22,29
+1984-10-27,Navy,Ind,Gary Tranquill,A,Pitt,Ind,Foge Fazio,T,28,28
+1984-11-03,Navy,Ind,Gary Tranquill,N,Notre Dame,Ind,Gerry Faust,L,17,18
+1984-11-10,Navy,Ind,Gary Tranquill,A,Syracuse,Ind,Dick MacPherson,L,0,29
+1984-11-17,Navy,Ind,Gary Tranquill,H,South Carolina,Ind,Joe Morrison,W,38,21
+1984-12-01,Navy,Ind,Gary Tranquill,N,Army,Ind,Jim Young,L,11,28
+1984-09-01,Fresno State,PCAA,Jim Sweeney,A,Arizona,Pac-10,Larry Smith,W,27,22
+1984-09-22,Fresno State,PCAA,Jim Sweeney,H,Long Beach State,PCAA,Mike Sheppard,W,20,17
+1984-09-29,Fresno State,PCAA,Jim Sweeney,H,New Mexico State,PCAA,Fred Zechman,W,53,24
+1984-10-06,Fresno State,PCAA,Jim Sweeney,A,Hawaii,WAC,Dick Tomey,L,15,27
+1984-10-20,Fresno State,PCAA,Jim Sweeney,H,Utah State,PCAA,Chris Pella,W,43,18
+1984-10-27,Fresno State,PCAA,Jim Sweeney,A,San Jose State,PCAA,Claude Gilbert,L,17,18
+1984-11-03,Fresno State,PCAA,Jim Sweeney,H,Cal State Fullerton,PCAA,Gene Murphy,L,17,20
+1984-11-10,Fresno State,PCAA,Jim Sweeney,H,Pacific,PCAA,Bob Cope,L,6,24
+1984-11-24,Fresno State,PCAA,Jim Sweeney,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,13,27
+1984-09-22,Texas Tech,SWC,Jerry Moore,A,New Mexico,WAC,Joe Lee Dunn,L,24,29
+1984-09-29,Texas Tech,SWC,Jerry Moore,H,Baylor,SWC,Grant Teaff,L,9,18
+1984-10-06,Texas Tech,SWC,Jerry Moore,A,Texas A&M,SWC,Jackie Sherrill,W,30,12
+1984-10-13,Texas Tech,SWC,Jerry Moore,A,Arkansas,SWC,Ken Hatfield,L,0,24
+1984-10-20,Texas Tech,SWC,Jerry Moore,A,Rice,SWC,Watson Brown,W,30,10
+1984-10-27,Texas Tech,SWC,Jerry Moore,H,Tulsa,MVC,John Cooper,W,20,17
+1984-11-03,Texas Tech,SWC,Jerry Moore,H,Texas,SWC,Fred Akers,L,10,13
+1984-11-10,Texas Tech,SWC,Jerry Moore,A,Texas Christian,SWC,Jim Wacker,L,16,27
+1984-11-17,Texas Tech,SWC,Jerry Moore,H,SMU,SWC,Bobby Collins,L,0,31
+1984-11-24,Texas Tech,SWC,Jerry Moore,H,Houston,SWC,Bill Yeoman,L,17,24
+1984-09-01,Tulane,Ind,Wally English,H,Mississippi State,SEC,Emory Bellard,L,3,30
+1984-09-15,Tulane,Ind,Wally English,A,Florida,SEC,Galen Hall,L,21,63
+1984-09-22,Tulane,Ind,Wally English,H,Kentucky,SEC,Jerry Claiborne,L,26,30
+1984-09-29,Tulane,Ind,Wally English,A,Ole Miss,SEC,Billy Brewer,L,14,19
+1984-10-06,Tulane,Ind,Wally English,A,Vanderbilt,SEC,George MacIntyre,W,27,23
+1984-10-13,Tulane,Ind,Wally English,H,Southern Mississippi,Ind,Jim Carmody,W,35,7
+1984-10-20,Tulane,Ind,Wally English,A,Florida State,Ind,Bobby Bowden,L,6,27
+1984-11-03,Tulane,Ind,Wally English,A,Virginia Tech,Ind,Bill Dooley,L,6,13
+1984-11-10,Tulane,Ind,Wally English,A,Pitt,Ind,Foge Fazio,L,10,21
+1984-11-17,Tulane,Ind,Wally English,H,Memphis,Ind,Rey Dempsey,W,14,9
+1984-11-24,Tulane,Ind,Wally English,A,LSU,SEC,Bill Arnsparger,L,15,33
+1984-09-01,Northern Illinois,MAC,Lee Corso,H,West Texas A&M,MVC,,W,40,33
+1984-09-08,Northern Illinois,MAC,Lee Corso,A,Wisconsin,Big Ten,Dave McClain,L,14,27
+1984-09-22,Northern Illinois,MAC,Lee Corso,H,Kent State,MAC,Dick Scesniak,W,24,10
+1984-09-29,Northern Illinois,MAC,Lee Corso,H,Ball State,MAC,Dwight Wallace,L,14,15
+1984-10-06,Northern Illinois,MAC,Lee Corso,A,Western Michigan,MAC,Jack Harbaugh,W,20,15
+1984-10-13,Northern Illinois,MAC,Lee Corso,H,Eastern Michigan,MAC,Jim Harkema,T,10,10
+1984-10-20,Northern Illinois,MAC,Lee Corso,A,Bowling Green State,MAC,Dennis Stolz,L,6,28
+1984-10-27,Northern Illinois,MAC,Lee Corso,H,Miami (OH),MAC,Tim Rose,L,7,20
+1984-11-03,Northern Illinois,MAC,Lee Corso,H,Central Michigan,MAC,Herb Deromedi,W,8,7
+1984-11-10,Northern Illinois,MAC,Lee Corso,A,Toledo,MAC,Dan Simrell,L,7,13
+1984-11-17,Northern Illinois,MAC,Lee Corso,A,Ohio,MAC,Brian Burke,L,3,10
+1984-09-08,Ohio State,Big Ten,Earle Bruce,H,Oregon State,Pac-10,Joe Avezzano,W,22,14
+1984-09-15,Ohio State,Big Ten,Earle Bruce,H,Washington State,Pac-10,Jim Walden,W,44,0
+1984-09-22,Ohio State,Big Ten,Earle Bruce,H,Iowa,Big Ten,Hayden Fry,W,45,26
+1984-09-29,Ohio State,Big Ten,Earle Bruce,A,Minnesota,Big Ten,Lou Holtz,W,35,22
+1984-10-06,Ohio State,Big Ten,Earle Bruce,A,Purdue,Big Ten,Leon Burtnett,L,23,28
+1984-10-13,Ohio State,Big Ten,Earle Bruce,H,Illinois,Big Ten,Mike White,W,45,38
+1984-10-20,Ohio State,Big Ten,Earle Bruce,A,Michigan State,Big Ten,George Perles,W,23,20
+1984-10-27,Ohio State,Big Ten,Earle Bruce,A,Wisconsin,Big Ten,Dave McClain,L,14,16
+1984-11-03,Ohio State,Big Ten,Earle Bruce,H,Indiana,Big Ten,Bill Mallory,W,50,7
+1984-11-10,Ohio State,Big Ten,Earle Bruce,A,Northwestern,Big Ten,Dennis Green,W,52,3
+1984-11-17,Ohio State,Big Ten,Earle Bruce,H,Michigan,Big Ten,Bo Schembechler,W,21,6
+1985-01-01,Ohio State,Big Ten,Earle Bruce,A,USC,Pac-10,Ted Tollner,L,17,20
+1984-09-01,Ohio,MAC,Brian Burke,A,West Virginia,Ind,Don Nehlen,L,0,38
+1984-09-08,Ohio,MAC,Brian Burke,A,North Carolina State,ACC,Tom Reed,L,6,43
+1984-09-15,Ohio,MAC,Brian Burke,A,Ball State,MAC,Dwight Wallace,W,31,17
+1984-09-22,Ohio,MAC,Brian Burke,A,Eastern Michigan,MAC,Jim Harkema,W,16,13
+1984-09-29,Ohio,MAC,Brian Burke,H,Toledo,MAC,Dan Simrell,T,16,16
+1984-10-13,Ohio,MAC,Brian Burke,A,Central Michigan,MAC,Herb Deromedi,L,3,35
+1984-10-20,Ohio,MAC,Brian Burke,H,Kent State,MAC,Dick Scesniak,L,7,19
+1984-10-27,Ohio,MAC,Brian Burke,A,Western Michigan,MAC,Jack Harbaugh,L,14,33
+1984-11-03,Ohio,MAC,Brian Burke,H,Miami (OH),MAC,Tim Rose,W,24,19
+1984-11-10,Ohio,MAC,Brian Burke,A,Bowling Green State,MAC,Dennis Stolz,L,7,28
+1984-11-17,Ohio,MAC,Brian Burke,H,Northern Illinois,MAC,Lee Corso,W,10,3
+1984-09-15,Drake,MVC,,A,Iowa State,Big 8,Jim Criner,L,17,21
+1984-09-22,Drake,MVC,,H,New Mexico State,PCAA,Fred Zechman,W,35,28
+1984-09-29,Drake,MVC,,A,Illinois State,MVC,,L,0,28
+1984-10-20,Drake,MVC,,A,Indiana State,MVC,,L,3,17
+1984-10-27,Drake,MVC,,H,Wichita State,MVC,Ron Chismar,L,6,23
+1984-11-03,Drake,MVC,,H,Southern Illinois,MVC,Ray Door,W,20,17
+1984-11-17,Drake,MVC,,A,West Texas A&M,MVC,,W,25,22
+1984-09-15,Houston,SWC,Bill Yeoman,H,Miami (OH),MAC,Tim Rose,W,30,17
+1984-09-22,Houston,SWC,Bill Yeoman,A,Washington,Pac-10,Don James,L,7,35
+1984-09-29,Houston,SWC,Bill Yeoman,H,Louisville,Ind,Bob Weber,L,28,30
+1984-10-06,Houston,SWC,Bill Yeoman,A,Baylor,SWC,Grant Teaff,W,27,17
+1984-10-13,Houston,SWC,Bill Yeoman,H,Texas A&M,SWC,Jackie Sherrill,W,9,7
+1984-10-20,Houston,SWC,Bill Yeoman,A,SMU,SWC,Bobby Collins,W,29,20
+1984-10-27,Houston,SWC,Bill Yeoman,H,Arkansas,SWC,Ken Hatfield,L,3,17
+1984-11-03,Houston,SWC,Bill Yeoman,H,Texas Christian,SWC,Jim Wacker,L,14,21
+1984-11-10,Houston,SWC,Bill Yeoman,A,Texas,SWC,Fred Akers,W,29,15
+1984-11-24,Houston,SWC,Bill Yeoman,A,Texas Tech,SWC,Jerry Moore,W,24,17
+1984-12-01,Houston,SWC,Bill Yeoman,H,Rice,SWC,Watson Brown,W,38,26
+1985-01-01,Houston,SWC,Bill Yeoman,N,Boston College,Ind,Jack Bicknell,L,28,45

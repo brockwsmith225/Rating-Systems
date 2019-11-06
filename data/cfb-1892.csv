@@ -1,0 +1,169 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1892-10-15,Brown,Ind,M. Howland,H,MIT,Ind,,L,6,30
+1892-10-22,Brown,Ind,M. Howland,H,Tufts,Ind,A.G. Baillet,L,4,24
+1892-11-02,Brown,Ind,M. Howland,H,MIT,Ind,,L,6,12
+1892-11-05,Brown,Ind,M. Howland,H,Trinity (CT),Ind,,T,0,0
+1892-11-19,Brown,Ind,M. Howland,H,Wesleyan (CT),Ind,,W,6,0
+1892-10-01,Trinity (CT),Ind,,A,Massachusetts,Ind,,W,6,0
+1892-10-08,Trinity (CT),Ind,,A,MIT,Ind,,L,6,12
+1892-10-15,Trinity (CT),Ind,,A,Amherst,Ind,,L,0,26
+1892-10-29,Trinity (CT),Ind,,N,Army,Ind,Dennis Michie,L,0,24
+1892-11-05,Trinity (CT),Ind,,A,Brown,Ind,M. Howland,T,0,0
+1892-11-12,Trinity (CT),Ind,,H,Amherst,Ind,,L,8,21
+1892-10-05,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,6,0
+1892-10-12,Yale,Ind,Walter Camp,H,Williams,Ind,,W,32,0
+1892-10-19,Yale,Ind,Walter Camp,H,Amherst,Ind,,W,29,0
+1892-10-26,Yale,Ind,Walter Camp,A,Springfield,Ind,,W,50,0
+1892-10-29,Yale,Ind,Walter Camp,H,Tufts,Ind,A.G. Baillet,W,44,0
+1892-11-05,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,72,0
+1892-11-12,Yale,Ind,Walter Camp,N,Pennsylvania,Ind,George Woodruff,W,28,0
+1892-11-19,Yale,Ind,Walter Camp,N,Harvard,Ind,George Stewart,W,6,0
+1892-11-24,Yale,Ind,Walter Camp,N,Princeton,Ind,,W,12,0
+1892-10-05,Lehigh,Ind,J.A. Harwell,H,Princeton,Ind,,L,0,16
+1892-10-19,Lehigh,Ind,J.A. Harwell,A,Princeton,Ind,,L,0,50
+1892-10-22,Lehigh,Ind,J.A. Harwell,H,Cornell,Ind,,L,0,76
+1892-11-05,Lehigh,Ind,J.A. Harwell,A,Lafayette,Ind,Wallace Moyle,L,0,4
+1892-11-08,Lehigh,Ind,J.A. Harwell,A,Pennsylvania,Ind,George Woodruff,L,0,4
+1892-11-19,Lehigh,Ind,J.A. Harwell,H,Lafayette,Ind,Wallace Moyle,W,15,6
+1892-10-08,Purdue,Ind,Knowlton Ames,A,Illinois,Ind,E.K. Hall,W,12,6
+1892-10-19,Purdue,Ind,Knowlton Ames,H,Wisconsin,Ind,Frank Crawford,W,32,4
+1892-10-24,Purdue,Ind,Knowlton Ames,H,Michigan,Ind,Frank Barbour,W,24,0
+1892-11-19,Purdue,Ind,Knowlton Ames,H,Chicago,Ind,Amos Alonzo Stagg,W,38,0
+1892-10-01,Harvard,Ind,George Stewart,H,Dartmouth,Ind,,W,48,0
+1892-10-08,Harvard,Ind,George Stewart,H,Amherst,Ind,,W,26,0
+1892-10-15,Harvard,Ind,George Stewart,H,Williams,Ind,,W,55,0
+1892-10-29,Harvard,Ind,George Stewart,H,MIT,Ind,,W,34,0
+1892-11-02,Harvard,Ind,George Stewart,H,Amherst,Ind,,W,32,10
+1892-11-05,Harvard,Ind,George Stewart,N,Cornell,Ind,,W,20,14
+1892-11-19,Harvard,Ind,George Stewart,N,Yale,Ind,Walter Camp,L,0,6
+1892-10-05,Williams,Ind,,H,Amherst,Ind,,L,0,60
+1892-10-12,Williams,Ind,,A,Yale,Ind,Walter Camp,L,0,32
+1892-10-15,Williams,Ind,,A,Harvard,Ind,George Stewart,L,0,55
+1892-10-21,Williams,Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,50
+1892-10-29,Williams,Ind,,H,Cornell,Ind,,L,12,24
+1892-11-13,Williams,Ind,,H,Springfield,Ind,,L,10,12
+1892-11-19,Williams,Ind,,A,Dartmouth,Ind,,L,12,24
+1892-10-01,Massachusetts,Ind,,H,Trinity (CT),Ind,,L,0,6
+1892-10-12,Massachusetts,Ind,,A,Amherst,Ind,,L,10,58
+1892-10-22,Massachusetts,Ind,,H,Amherst,Ind,,L,0,4
+1892-11-05,Massachusetts,Ind,,A,Amherst,Ind,,L,4,22
+1892-11-19,Massachusetts,Ind,,A,Springfield,Ind,,L,16,18
+1892-10-15,Wisconsin,Ind,Frank Crawford,H,Michigan,Ind,Frank Barbour,L,6,10
+1892-10-19,Wisconsin,Ind,Frank Crawford,A,Purdue,Ind,Knowlton Ames,L,4,32
+1892-10-29,Wisconsin,Ind,Frank Crawford,H,Minnesota,Ind,,L,4,32
+1892-11-19,Wisconsin,Ind,Frank Crawford,A,Northwestern,Ind,Knowlton Ames,W,26,6
+1892-11-24,Wisconsin,Ind,Frank Crawford,N,Northwestern,Ind,Knowlton Ames,W,20,6
+1892-10-08,Army,Ind,Dennis Michie,H,Wesleyan (CT),Ind,,T,6,6
+1892-10-29,Army,Ind,Dennis Michie,N,Trinity (CT),Ind,,W,24,0
+1892-11-26,Army,Ind,Dennis Michie,H,Navy,Ind,,L,4,12
+1892-10-05,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,6
+1892-10-08,Wesleyan (CT),Ind,,A,Army,Ind,Dennis Michie,T,6,6
+1892-10-15,Wesleyan (CT),Ind,,H,Springfield,Ind,,W,6,0
+1892-10-19,Wesleyan (CT),Ind,,A,Tufts,Ind,A.G. Baillet,L,10,16
+1892-10-26,Wesleyan (CT),Ind,,H,Dartmouth,Ind,,L,8,20
+1892-10-29,Wesleyan (CT),Ind,,N,Princeton,Ind,,L,0,60
+1892-11-05,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,72
+1892-11-19,Wesleyan (CT),Ind,,A,Brown,Ind,M. Howland,L,0,6
+1892-11-24,Wesleyan (CT),Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,34
+1892-10-01,Dartmouth,Ind,,A,Harvard,Ind,George Stewart,L,0,48
+1892-10-08,Dartmouth,Ind,,H,Springfield,Ind,,W,10,8
+1892-10-26,Dartmouth,Ind,,A,Wesleyan (CT),Ind,,W,20,8
+1892-11-05,Dartmouth,Ind,,H,Tufts,Ind,A.G. Baillet,W,12,10
+1892-11-19,Dartmouth,Ind,,H,Williams,Ind,,W,24,12
+1892-11-24,Dartmouth,Ind,,A,Amherst,Ind,,L,2,30
+1892-10-01,Princeton,Ind,,H,Rutgers,Ind,,W,30,0
+1892-10-05,Princeton,Ind,,A,Lehigh,Ind,J.A. Harwell,W,16,0
+1892-10-08,Princeton,Ind,,H,Lafayette,Ind,Wallace Moyle,W,40,0
+1892-10-15,Princeton,Ind,,A,Navy,Ind,,W,28,0
+1892-10-19,Princeton,Ind,,H,Lehigh,Ind,J.A. Harwell,W,50,0
+1892-10-29,Princeton,Ind,,N,Wesleyan (CT),Ind,,W,60,0
+1892-11-05,Princeton,Ind,,A,Pennsylvania,Ind,George Woodruff,L,4,6
+1892-11-24,Princeton,Ind,,N,Yale,Ind,Walter Camp,L,0,12
+1892-10-22,Chicago,Ind,Amos Alonzo Stagg,H,Northwestern,Ind,Knowlton Ames,T,0,0
+1892-11-02,Chicago,Ind,Amos Alonzo Stagg,A,Northwestern,Ind,Knowlton Ames,L,4,6
+1892-11-12,Chicago,Ind,Amos Alonzo Stagg,N,Michigan,Ind,Frank Barbour,L,10,18
+1892-11-16,Chicago,Ind,Amos Alonzo Stagg,H,Illinois,Ind,E.K. Hall,W,10,4
+1892-11-19,Chicago,Ind,Amos Alonzo Stagg,A,Purdue,Ind,Knowlton Ames,L,0,38
+1892-11-24,Chicago,Ind,Amos Alonzo Stagg,A,Illinois,Ind,E.K. Hall,L,12,28
+1892-10-01,Rutgers,Ind,,A,Princeton,Ind,,L,0,30
+1892-10-15,Rutgers,Ind,,A,Lafayette,Ind,Wallace Moyle,W,16,8
+1892-10-29,Rutgers,Ind,,H,Lafayette,Ind,Wallace Moyle,L,10,24
+1892-11-05,Rutgers,Ind,,A,Navy,Ind,,L,12,48
+1892-10-12,Northwestern,Ind,Knowlton Ames,A,Illinois,Ind,E.K. Hall,T,16,16
+1892-10-22,Northwestern,Ind,Knowlton Ames,A,Chicago,Ind,Amos Alonzo Stagg,T,0,0
+1892-10-29,Northwestern,Ind,Knowlton Ames,H,Michigan,Ind,Frank Barbour,W,10,8
+1892-11-02,Northwestern,Ind,Knowlton Ames,H,Chicago,Ind,Amos Alonzo Stagg,W,6,4
+1892-11-08,Northwestern,Ind,Knowlton Ames,A,Minnesota,Ind,,L,12,18
+1892-11-19,Northwestern,Ind,Knowlton Ames,H,Wisconsin,Ind,Frank Crawford,L,6,26
+1892-11-24,Northwestern,Ind,Knowlton Ames,N,Wisconsin,Ind,Frank Crawford,L,6,20
+1892-10-17,Minnesota,Ind,,H,Michigan,Ind,Frank Barbour,W,14,6
+1892-10-29,Minnesota,Ind,,A,Wisconsin,Ind,Frank Crawford,W,32,4
+1892-11-08,Minnesota,Ind,,H,Northwestern,Ind,Knowlton Ames,W,18,12
+1892-10-15,Michigan,Ind,Frank Barbour,A,Wisconsin,Ind,Frank Crawford,W,10,6
+1892-10-17,Michigan,Ind,Frank Barbour,A,Minnesota,Ind,,L,6,14
+1892-10-24,Michigan,Ind,Frank Barbour,A,Purdue,Ind,Knowlton Ames,L,0,24
+1892-10-29,Michigan,Ind,Frank Barbour,A,Northwestern,Ind,Knowlton Ames,L,8,10
+1892-11-08,Michigan,Ind,Frank Barbour,A,Cornell,Ind,,L,0,44
+1892-11-12,Michigan,Ind,Frank Barbour,N,Chicago,Ind,Amos Alonzo Stagg,W,18,10
+1892-11-22,Michigan,Ind,Frank Barbour,H,Cornell,Ind,,L,10,30
+1892-10-12,Pennsylvania,Ind,George Woodruff,A,Navy,Ind,,W,16,0
+1892-10-21,Pennsylvania,Ind,George Woodruff,H,Williams,Ind,,W,50,0
+1892-10-26,Pennsylvania,Ind,George Woodruff,A,Lafayette,Ind,Wallace Moyle,W,8,6
+1892-11-05,Pennsylvania,Ind,George Woodruff,H,Princeton,Ind,,W,6,4
+1892-11-08,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,J.A. Harwell,W,4,0
+1892-11-12,Pennsylvania,Ind,George Woodruff,N,Yale,Ind,Walter Camp,L,0,28
+1892-11-16,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Wallace Moyle,W,10,4
+1892-11-24,Pennsylvania,Ind,George Woodruff,H,Wesleyan (CT),Ind,,W,34,0
+1892-10-12,Navy,Ind,,H,Pennsylvania,Ind,George Woodruff,L,0,16
+1892-10-15,Navy,Ind,,H,Princeton,Ind,,L,0,28
+1892-10-22,Navy,Ind,,H,Lafayette,Ind,Wallace Moyle,W,22,4
+1892-11-05,Navy,Ind,,H,Rutgers,Ind,,W,48,12
+1892-11-26,Navy,Ind,,A,Army,Ind,Dennis Michie,W,12,4
+1892-10-19,Tufts,Ind,A.G. Baillet,H,Wesleyan (CT),Ind,,W,16,10
+1892-10-22,Tufts,Ind,A.G. Baillet,A,Brown,Ind,M. Howland,W,24,4
+1892-10-26,Tufts,Ind,A.G. Baillet,A,Amherst,Ind,,W,18,15
+1892-10-29,Tufts,Ind,A.G. Baillet,A,Yale,Ind,Walter Camp,L,0,44
+1892-11-05,Tufts,Ind,A.G. Baillet,A,Dartmouth,Ind,,L,10,12
+1892-10-01,Amherst,Ind,,A,MIT,Ind,,L,4,6
+1892-10-05,Amherst,Ind,,A,Williams,Ind,,W,60,0
+1892-10-08,Amherst,Ind,,A,Harvard,Ind,George Stewart,L,0,26
+1892-10-12,Amherst,Ind,,H,Massachusetts,Ind,,W,58,10
+1892-10-15,Amherst,Ind,,H,Trinity (CT),Ind,,W,26,0
+1892-10-19,Amherst,Ind,,A,Yale,Ind,Walter Camp,L,0,29
+1892-10-22,Amherst,Ind,,A,Massachusetts,Ind,,W,4,0
+1892-10-26,Amherst,Ind,,H,Tufts,Ind,A.G. Baillet,L,15,18
+1892-11-02,Amherst,Ind,,A,Harvard,Ind,George Stewart,L,10,32
+1892-11-05,Amherst,Ind,,H,Massachusetts,Ind,,W,22,4
+1892-11-09,Amherst,Ind,,H,MIT,Ind,,W,14,0
+1892-11-12,Amherst,Ind,,A,Trinity (CT),Ind,,W,21,8
+1892-11-24,Amherst,Ind,,H,Dartmouth,Ind,,W,30,2
+1892-10-08,Lafayette,Ind,Wallace Moyle,A,Princeton,Ind,,L,0,40
+1892-10-15,Lafayette,Ind,Wallace Moyle,H,Rutgers,Ind,,L,8,16
+1892-10-22,Lafayette,Ind,Wallace Moyle,A,Navy,Ind,,L,4,22
+1892-10-26,Lafayette,Ind,Wallace Moyle,H,Pennsylvania,Ind,George Woodruff,L,6,8
+1892-10-29,Lafayette,Ind,Wallace Moyle,A,Rutgers,Ind,,W,24,10
+1892-11-05,Lafayette,Ind,Wallace Moyle,H,Lehigh,Ind,J.A. Harwell,W,4,0
+1892-11-16,Lafayette,Ind,Wallace Moyle,A,Pennsylvania,Ind,George Woodruff,L,4,10
+1892-11-19,Lafayette,Ind,Wallace Moyle,A,Lehigh,Ind,J.A. Harwell,L,6,15
+1892-10-08,Illinois,Ind,E.K. Hall,H,Purdue,Ind,Knowlton Ames,L,6,12
+1892-10-12,Illinois,Ind,E.K. Hall,H,Northwestern,Ind,Knowlton Ames,T,16,16
+1892-11-16,Illinois,Ind,E.K. Hall,A,Chicago,Ind,Amos Alonzo Stagg,L,4,10
+1892-11-24,Illinois,Ind,E.K. Hall,H,Chicago,Ind,Amos Alonzo Stagg,W,28,12
+1892-10-08,Springfield,Ind,,A,Dartmouth,Ind,,L,8,10
+1892-10-15,Springfield,Ind,,A,Wesleyan (CT),Ind,,L,0,6
+1892-10-26,Springfield,Ind,,H,Yale,Ind,Walter Camp,L,0,50
+1892-11-13,Springfield,Ind,,A,Williams,Ind,,W,12,10
+1892-11-19,Springfield,Ind,,H,Massachusetts,Ind,,W,18,16
+1892-10-22,Cornell,Ind,,A,Lehigh,Ind,J.A. Harwell,W,76,0
+1892-10-29,Cornell,Ind,,A,Williams,Ind,,W,24,12
+1892-11-05,Cornell,Ind,,N,Harvard,Ind,George Stewart,L,14,20
+1892-11-08,Cornell,Ind,,H,Michigan,Ind,Frank Barbour,W,44,0
+1892-11-12,Cornell,Ind,,H,MIT,Ind,,W,44,12
+1892-11-22,Cornell,Ind,,A,Michigan,Ind,Frank Barbour,W,30,10
+1892-10-01,MIT,Ind,,H,Amherst,Ind,,W,6,4
+1892-10-08,MIT,Ind,,H,Trinity (CT),Ind,,W,12,6
+1892-10-15,MIT,Ind,,A,Brown,Ind,M. Howland,W,30,6
+1892-10-29,MIT,Ind,,A,Harvard,Ind,George Stewart,L,0,34
+1892-11-02,MIT,Ind,,A,Brown,Ind,M. Howland,W,12,6
+1892-11-09,MIT,Ind,,A,Amherst,Ind,,L,0,14
+1892-11-12,MIT,Ind,,A,Cornell,Ind,,L,12,44

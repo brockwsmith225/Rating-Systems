@@ -1,0 +1,181 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1896-10-07,Brown,Ind,Wallace Moyle,A,Yale,Ind,Samuel Thorne,L,0,18
+1896-10-10,Brown,Ind,Wallace Moyle,H,Amherst,Ind,,W,44,6
+1896-10-17,Brown,Ind,Wallace Moyle,A,Harvard,Ind,,L,0,12
+1896-10-24,Brown,Ind,Wallace Moyle,H,Lehigh,Ind,L.N. Morris,W,16,0
+1896-10-28,Brown,Ind,Wallace Moyle,A,Pennsylvania,Ind,George Woodruff,L,0,16
+1896-10-31,Brown,Ind,Wallace Moyle,H,Dartmouth,Ind,,T,10,10
+1896-11-07,Brown,Ind,Wallace Moyle,H,Yale,Ind,Samuel Thorne,L,6,18
+1896-11-21,Brown,Ind,Wallace Moyle,A,Army,Ind,George Dyer,L,6,8
+1896-11-26,Brown,Ind,Wallace Moyle,A,Carlisle,Ind,William Hickok,W,24,12
+1896-09-26,Trinity (CT),Ind,,H,Yale,Ind,Samuel Thorne,L,0,6
+1896-10-03,Trinity (CT),Ind,,A,Harvard,Ind,,L,0,34
+1896-10-24,Trinity (CT),Ind,,H,Tufts,Ind, Newell,W,16,2
+1896-10-31,Trinity (CT),Ind,,H,Amherst,Ind,,W,12,0
+1896-11-11,Trinity (CT),Ind,,A,Wesleyan (CT),Ind,,L,12,24
+1896-09-26,Dickinson,Ind,N.P. Stauffer,N,Carlisle,Ind,William Hickok,L,6,28
+1896-10-10,Dickinson,Ind,N.P. Stauffer,A,Penn State,Ind,Samuel Newton,L,0,8
+1896-10-31,Dickinson,Ind,N.P. Stauffer,A,Lafayette,Ind,Parke Davis,L,0,18
+1896-11-03,Dickinson,Ind,N.P. Stauffer,A,Pennsylvania,Ind,George Woodruff,L,2,30
+1896-11-21,Dickinson,Ind,N.P. Stauffer,A,Bucknell,Ind,Bill Young,L,0,6
+1896-09-26,Yale,Ind,Samuel Thorne,A,Trinity (CT),Ind,,W,6,0
+1896-09-30,Yale,Ind,Samuel Thorne,H,Amherst,Ind,,W,12,0
+1896-10-07,Yale,Ind,Samuel Thorne,H,Brown,Ind,Wallace Moyle,W,18,0
+1896-10-14,Yale,Ind,Samuel Thorne,H,Williams,Ind,,W,22,0
+1896-10-17,Yale,Ind,Samuel Thorne,N,Dartmouth,Ind,,W,42,0
+1896-10-21,Yale,Ind,Samuel Thorne,H,Wesleyan (CT),Ind,,W,16,0
+1896-10-24,Yale,Ind,Samuel Thorne,N,Carlisle,Ind,William Hickok,W,12,6
+1896-10-31,Yale,Ind,Samuel Thorne,A,Army,Ind,George Dyer,W,16,2
+1896-11-07,Yale,Ind,Samuel Thorne,A,Brown,Ind,Wallace Moyle,W,18,6
+1896-11-21,Yale,Ind,Samuel Thorne,N,Princeton,Ind,,L,6,24
+1896-09-26,Franklin & Marshall,Ind,,H,Pennsylvania,Ind,George Woodruff,L,0,24
+1896-10-10,Franklin & Marshall,Ind,,A,Navy,Ind,Johnny Poe,L,0,49
+1896-11-14,Franklin & Marshall,Ind,,A,Lafayette,Ind,Parke Davis,L,0,38
+1896-11-26,Franklin & Marshall,Ind,,H,Bucknell,Ind,Bill Young,T,0,0
+1896-10-10,Lehigh,Ind,L.N. Morris,A,Princeton,Ind,,L,0,16
+1896-10-17,Lehigh,Ind,L.N. Morris,A,Pennsylvania,Ind,George Woodruff,L,0,34
+1896-10-24,Lehigh,Ind,L.N. Morris,A,Brown,Ind,Wallace Moyle,L,0,16
+1896-10-31,Lehigh,Ind,L.N. Morris,A,Michigan,Western,William Ward,L,0,40
+1896-11-07,Lehigh,Ind,L.N. Morris,A,Navy,Ind,Johnny Poe,L,10,24
+1896-09-26,Carlisle,Ind,William Hickok,N,Dickinson,Ind,N.P. Stauffer,W,28,6
+1896-10-14,Carlisle,Ind,William Hickok,A,Princeton,Ind,,L,6,22
+1896-10-24,Carlisle,Ind,William Hickok,N,Yale,Ind,Samuel Thorne,L,6,12
+1896-10-31,Carlisle,Ind,William Hickok,A,Harvard,Ind,,L,0,4
+1896-11-07,Carlisle,Ind,William Hickok,A,Pennsylvania,Ind,George Woodruff,L,0,21
+1896-11-21,Carlisle,Ind,William Hickok,H,Penn State,Ind,Samuel Newton,W,48,5
+1896-11-26,Carlisle,Ind,William Hickok,H,Brown,Ind,Wallace Moyle,L,12,24
+1896-12-19,Carlisle,Ind,William Hickok,A,Wisconsin,Western,Phil King,W,18,8
+1896-10-17,Purdue,Western,S.M. Hammond,A,Minnesota,Western,Alexander Jerrems,L,0,14
+1896-10-24,Purdue,Western,S.M. Hammond,H,Michigan,Western,William Ward,L,0,16
+1896-11-25,Purdue,Western,S.M. Hammond,H,Illinois,Western,George Huff,T,4,4
+1896-09-26,Harvard,Ind,,H,Williams,Ind,,W,6,0
+1896-10-03,Harvard,Ind,,H,Trinity (CT),Ind,,W,34,0
+1896-10-10,Harvard,Ind,,H,Wesleyan (CT),Ind,,W,28,0
+1896-10-17,Harvard,Ind,,H,Brown,Ind,Wallace Moyle,W,12,0
+1896-10-24,Harvard,Ind,,A,Cornell,Ind,Joseph Beacham,W,13,4
+1896-10-31,Harvard,Ind,,H,Carlisle,Ind,William Hickok,W,4,0
+1896-11-07,Harvard,Ind,,H,Princeton,Ind,,L,0,12
+1896-11-21,Harvard,Ind,,A,Pennsylvania,Ind,George Woodruff,L,6,8
+1896-09-26,Williams,Ind,,A,Harvard,Ind,,L,0,6
+1896-10-03,Williams,Ind,,H,Wesleyan (CT),Ind,,W,6,0
+1896-10-14,Williams,Ind,,A,Yale,Ind,Samuel Thorne,L,0,22
+1896-10-31,Williams,Ind,,A,Bowdoin,Ind,William Hoag,W,22,0
+1896-11-07,Williams,Ind,,H,Amherst,Ind,,L,4,6
+1896-11-14,Williams,Ind,,H,Cornell,Ind,Joseph Beacham,T,0,0
+1896-11-21,Williams,Ind,,A,Dartmouth,Ind,,L,0,10
+1896-09-26,Bowdoin,Ind,William Hoag,A,Tufts,Ind, Newell,W,4,0
+1896-10-03,Bowdoin,Ind,William Hoag,A,Amherst,Ind,,T,0,0
+1896-10-24,Bowdoin,Ind,William Hoag,A,Dartmouth,Ind,,L,10,28
+1896-10-31,Bowdoin,Ind,William Hoag,H,Williams,Ind,,L,0,22
+1896-10-10,Wisconsin,Western,Phil King,H,Lake Forest,Ind,,W,34,0
+1896-11-07,Wisconsin,Western,Phil King,H,Chicago,Western,Amos Alonzo Stagg,W,24,0
+1896-11-21,Wisconsin,Western,Phil King,H,Minnesota,Western,Alexander Jerrems,W,6,0
+1896-11-26,Wisconsin,Western,Phil King,A,Northwestern,Western,Alvin Culver,T,6,6
+1896-12-19,Wisconsin,Western,Phil King,H,Carlisle,Ind,William Hickok,L,8,18
+1896-10-03,Bucknell,Ind,Bill Young,A,Pennsylvania,Ind,George Woodruff,L,0,40
+1896-10-31,Bucknell,Ind,Bill Young,N,Penn State,Ind,Samuel Newton,W,10,0
+1896-11-07,Bucknell,Ind,Bill Young,A,Cornell,Ind,Joseph Beacham,L,0,54
+1896-11-21,Bucknell,Ind,Bill Young,H,Dickinson,Ind,N.P. Stauffer,W,6,0
+1896-11-26,Bucknell,Ind,Bill Young,A,Franklin & Marshall,Ind,,T,0,0
+1896-10-03,Army,Ind,George Dyer,H,Tufts,Ind, Newell,W,27,0
+1896-10-17,Army,Ind,George Dyer,H,Princeton,Ind,,L,0,11
+1896-10-31,Army,Ind,George Dyer,H,Yale,Ind,Samuel Thorne,L,2,16
+1896-11-07,Army,Ind,George Dyer,H,Wesleyan (CT),Ind,,T,12,12
+1896-11-21,Army,Ind,George Dyer,H,Brown,Ind,Wallace Moyle,W,8,6
+1896-10-10,Penn State,Ind,Samuel Newton,H,Dickinson,Ind,N.P. Stauffer,W,8,0
+1896-10-24,Penn State,Ind,Samuel Newton,A,Princeton,Ind,,L,0,39
+1896-10-31,Penn State,Ind,Samuel Newton,N,Bucknell,Ind,Bill Young,L,0,10
+1896-11-14,Penn State,Ind,Samuel Newton,A,Pennsylvania,Ind,George Woodruff,L,0,27
+1896-11-21,Penn State,Ind,Samuel Newton,A,Carlisle,Ind,William Hickok,L,5,48
+1896-10-03,Wesleyan (CT),Ind,,A,Williams,Ind,,L,0,6
+1896-10-10,Wesleyan (CT),Ind,,A,Harvard,Ind,,L,0,28
+1896-10-14,Wesleyan (CT),Ind,,H,Amherst,Ind,,W,6,0
+1896-10-21,Wesleyan (CT),Ind,,A,Yale,Ind,Samuel Thorne,L,0,16
+1896-10-24,Wesleyan (CT),Ind,,A,Amherst,Ind,,L,4,6
+1896-10-31,Wesleyan (CT),Ind,,A,Tufts,Ind, Newell,W,28,4
+1896-11-07,Wesleyan (CT),Ind,,A,Army,Ind,George Dyer,T,12,12
+1896-11-11,Wesleyan (CT),Ind,,H,Trinity (CT),Ind,,W,24,12
+1896-11-21,Wesleyan (CT),Ind,,A,Lafayette,Ind,Parke Davis,L,0,18
+1896-10-10,Dartmouth,Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,16
+1896-10-17,Dartmouth,Ind,,N,Yale,Ind,Samuel Thorne,L,0,42
+1896-10-24,Dartmouth,Ind,,H,Bowdoin,Ind,William Hoag,W,28,10
+1896-10-31,Dartmouth,Ind,,A,Brown,Ind,Wallace Moyle,T,10,10
+1896-11-14,Dartmouth,Ind,,A,Amherst,Ind,,W,32,0
+1896-11-21,Dartmouth,Ind,,H,Williams,Ind,,W,10,0
+1896-10-07,Princeton,Ind,,A,Lafayette,Ind,Parke Davis,T,0,0
+1896-10-10,Princeton,Ind,,H,Lehigh,Ind,L.N. Morris,W,16,0
+1896-10-14,Princeton,Ind,,H,Carlisle,Ind,William Hickok,W,22,6
+1896-10-17,Princeton,Ind,,A,Army,Ind,George Dyer,W,11,0
+1896-10-24,Princeton,Ind,,H,Penn State,Ind,Samuel Newton,W,39,0
+1896-10-31,Princeton,Ind,,H,Cornell,Ind,Joseph Beacham,W,37,0
+1896-11-07,Princeton,Ind,,A,Harvard,Ind,,W,12,0
+1896-11-21,Princeton,Ind,,N,Yale,Ind,Samuel Thorne,W,24,6
+1896-10-24,Chicago,Western,Amos Alonzo Stagg,N,Northwestern,Western,Alvin Culver,L,6,46
+1896-10-31,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,George Huff,W,12,0
+1896-11-07,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,Phil King,L,0,24
+1896-11-10,Chicago,Western,Amos Alonzo Stagg,H,Lake Forest,Ind,,T,0,0
+1896-11-14,Chicago,Western,Amos Alonzo Stagg,A,Northwestern,Western,Alvin Culver,W,18,6
+1896-11-26,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,William Ward,W,7,6
+1896-10-24,Northwestern,Western,Alvin Culver,N,Chicago,Western,Amos Alonzo Stagg,W,46,6
+1896-11-07,Northwestern,Western,Alvin Culver,A,Illinois,Western,George Huff,W,10,4
+1896-11-14,Northwestern,Western,Alvin Culver,H,Chicago,Western,Amos Alonzo Stagg,L,6,18
+1896-11-26,Northwestern,Western,Alvin Culver,H,Wisconsin,Western,Phil King,T,6,6
+1896-10-17,Minnesota,Western,Alexander Jerrems,H,Purdue,Western,S.M. Hammond,W,14,0
+1896-11-07,Minnesota,Western,Alexander Jerrems,H,Michigan,Western,William Ward,L,4,6
+1896-11-21,Minnesota,Western,Alexander Jerrems,A,Wisconsin,Western,Phil King,L,0,6
+1896-10-17,Michigan,Western,William Ward,H,Lake Forest,Ind,,W,66,0
+1896-10-24,Michigan,Western,William Ward,A,Purdue,Western,S.M. Hammond,W,16,0
+1896-10-31,Michigan,Western,William Ward,H,Lehigh,Ind,L.N. Morris,W,40,0
+1896-11-07,Michigan,Western,William Ward,A,Minnesota,Western,Alexander Jerrems,W,6,4
+1896-11-26,Michigan,Western,William Ward,A,Chicago,Western,Amos Alonzo Stagg,L,6,7
+1896-09-26,Pennsylvania,Ind,George Woodruff,A,Franklin & Marshall,Ind,,W,24,0
+1896-10-03,Pennsylvania,Ind,George Woodruff,H,Bucknell,Ind,Bill Young,W,40,0
+1896-10-07,Pennsylvania,Ind,George Woodruff,A,Navy,Ind,Johnny Poe,W,8,0
+1896-10-10,Pennsylvania,Ind,George Woodruff,H,Dartmouth,Ind,,W,16,0
+1896-10-17,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,L.N. Morris,W,34,0
+1896-10-21,Pennsylvania,Ind,George Woodruff,H,Amherst,Ind,,W,14,0
+1896-10-24,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Parke Davis,L,4,6
+1896-10-28,Pennsylvania,Ind,George Woodruff,H,Brown,Ind,Wallace Moyle,W,16,0
+1896-11-03,Pennsylvania,Ind,George Woodruff,H,Dickinson,Ind,N.P. Stauffer,W,30,2
+1896-11-07,Pennsylvania,Ind,George Woodruff,H,Carlisle,Ind,William Hickok,W,21,0
+1896-11-14,Pennsylvania,Ind,George Woodruff,H,Penn State,Ind,Samuel Newton,W,27,0
+1896-11-21,Pennsylvania,Ind,George Woodruff,H,Harvard,Ind,,W,8,6
+1896-11-26,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Joseph Beacham,W,32,10
+1896-10-07,Navy,Ind,Johnny Poe,H,Pennsylvania,Ind,George Woodruff,L,0,8
+1896-10-10,Navy,Ind,Johnny Poe,H,Franklin & Marshall,Ind,,W,49,0
+1896-11-07,Navy,Ind,Johnny Poe,H,Lehigh,Ind,L.N. Morris,W,24,10
+1896-11-26,Navy,Ind,Johnny Poe,H,Lafayette,Ind,Parke Davis,L,6,18
+1896-09-26,Tufts,Ind, Newell,H,Bowdoin,Ind,William Hoag,L,0,4
+1896-10-03,Tufts,Ind, Newell,A,Army,Ind,George Dyer,L,0,27
+1896-10-17,Tufts,Ind, Newell,A,Cornell,Ind,Joseph Beacham,L,0,18
+1896-10-24,Tufts,Ind, Newell,A,Trinity (CT),Ind,,L,2,16
+1896-10-31,Tufts,Ind, Newell,H,Wesleyan (CT),Ind,,L,4,28
+1896-09-30,Amherst,Ind,,A,Yale,Ind,Samuel Thorne,L,0,12
+1896-10-03,Amherst,Ind,,H,Bowdoin,Ind,William Hoag,T,0,0
+1896-10-10,Amherst,Ind,,A,Brown,Ind,Wallace Moyle,L,6,44
+1896-10-14,Amherst,Ind,,A,Wesleyan (CT),Ind,,L,0,6
+1896-10-21,Amherst,Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,14
+1896-10-24,Amherst,Ind,,H,Wesleyan (CT),Ind,,W,6,4
+1896-10-31,Amherst,Ind,,A,Trinity (CT),Ind,,L,0,12
+1896-11-07,Amherst,Ind,,A,Williams,Ind,,W,6,4
+1896-11-14,Amherst,Ind,,H,Dartmouth,Ind,,L,0,32
+1896-10-07,Lafayette,Ind,Parke Davis,H,Princeton,Ind,,T,0,0
+1896-10-24,Lafayette,Ind,Parke Davis,A,Pennsylvania,Ind,George Woodruff,W,6,4
+1896-10-31,Lafayette,Ind,Parke Davis,H,Dickinson,Ind,N.P. Stauffer,W,18,0
+1896-11-14,Lafayette,Ind,Parke Davis,H,Franklin & Marshall,Ind,,W,38,0
+1896-11-21,Lafayette,Ind,Parke Davis,H,Wesleyan (CT),Ind,,W,18,0
+1896-11-26,Lafayette,Ind,Parke Davis,A,Navy,Ind,Johnny Poe,W,18,6
+1896-10-03,Illinois,Western,George Huff,H,Lake Forest,Ind,,W,38,0
+1896-10-31,Illinois,Western,George Huff,A,Chicago,Western,Amos Alonzo Stagg,L,0,12
+1896-11-07,Illinois,Western,George Huff,H,Northwestern,Western,Alvin Culver,L,4,10
+1896-11-25,Illinois,Western,George Huff,A,Purdue,Western,S.M. Hammond,T,4,4
+1896-10-17,Cornell,Ind,Joseph Beacham,H,Tufts,Ind, Newell,W,18,0
+1896-10-24,Cornell,Ind,Joseph Beacham,H,Harvard,Ind,,L,4,13
+1896-10-31,Cornell,Ind,Joseph Beacham,A,Princeton,Ind,,L,0,37
+1896-11-07,Cornell,Ind,Joseph Beacham,H,Bucknell,Ind,Bill Young,W,54,0
+1896-11-14,Cornell,Ind,Joseph Beacham,A,Williams,Ind,,T,0,0
+1896-11-26,Cornell,Ind,Joseph Beacham,A,Pennsylvania,Ind,George Woodruff,L,10,32
+1896-10-03,Lake Forest,Ind,,A,Illinois,Western,George Huff,L,0,38
+1896-10-10,Lake Forest,Ind,,A,Wisconsin,Western,Phil King,L,0,34
+1896-10-17,Lake Forest,Ind,,A,Michigan,Western,William Ward,L,0,66
+1896-11-10,Lake Forest,Ind,,A,Chicago,Western,Amos Alonzo Stagg,T,0,0

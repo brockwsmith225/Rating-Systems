@@ -1,0 +1,705 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1924-09-27,North Carolina,Southern,William Fetzer,A,Wake Forest,Ind,Hank Garrity,L,6,7
+1924-10-04,North Carolina,Southern,William Fetzer,A,Yale,Ind,Tad Jones,L,0,27
+1924-10-11,North Carolina,Southern,William Fetzer,H,Duke,Ind,Howard Jones,W,6,0
+1924-10-16,North Carolina,Southern,William Fetzer,A,North Carolina State,Southern,,W,10,0
+1924-10-25,North Carolina,Southern,William Fetzer,H,Maryland,Southern,Curley Byrd,L,0,6
+1924-11-01,North Carolina,Southern,William Fetzer,H,South Carolina,Southern,Sol Metzger,L,7,10
+1924-11-08,North Carolina,Southern,William Fetzer,H,Virginia Military Institute,Southern,,W,3,0
+1924-11-15,North Carolina,Southern,William Fetzer,A,Davidson,Ind,Monk Younger,W,6,0
+1924-11-27,North Carolina,Southern,William Fetzer,A,Virginia,Southern,Greasy Neale,L,0,7
+1924-10-11,Indiana,Western,William Ingram,H,LSU,Southern,Mike Donahue,L,14,20
+1924-10-18,Indiana,Western,William Ingram,A,Chicago,Western,Amos Alonzo Stagg,L,0,23
+1924-11-01,Indiana,Western,William Ingram,A,Northwestern,Western,Glenn Thistlethwaite,L,7,17
+1924-11-08,Indiana,Western,William Ingram,A,Ohio State,Western,John Wilce,W,12,7
+1924-11-22,Indiana,Western,William Ingram,A,Purdue,Western,James Phelan,L,7,26
+1924-10-04,Iowa State,MVIAA,Sam Willaman,A,Wisconsin,Western,Jack Ryan,L,0,17
+1924-10-11,Iowa State,MVIAA,Sam Willaman,A,Kansas,MVIAA,Potsy Clark,W,13,10
+1924-10-18,Iowa State,MVIAA,Sam Willaman,H,Missouri,MVIAA,Gwinn Henry,L,0,7
+1924-11-01,Iowa State,MVIAA,Sam Willaman,A,Kansas State,MVIAA,Charlie Bachman,W,21,0
+1924-11-08,Iowa State,MVIAA,Sam Willaman,A,Minnesota,Western,William Spaulding,T,7,7
+1924-11-15,Iowa State,MVIAA,Sam Willaman,A,Grinnell,MVIAA,Mike Hyland,L,13,14
+1924-11-22,Iowa State,MVIAA,Sam Willaman,H,Drake,MVIAA,Ossie Solem,W,10,0
+1924-09-27,Furman,Ind,,H,Newberry,Ind,Dutch McLean,W,14,0
+1924-10-04,Furman,Ind,,H,Alabama,Southern,Wallace Wade,L,0,20
+1924-10-11,Furman,Ind,,H,Mercer,Ind,,L,0,23
+1924-10-18,Furman,Ind,,N,Georgia,Southern,George Woodruff,L,0,23
+1924-10-22,Furman,Ind,,N,Davidson,Ind,Monk Younger,W,6,0
+1924-10-25,Furman,Ind,,A,Citadel,Ind,Carl Prause,L,0,6
+1924-11-08,Furman,Ind,,A,South Carolina,Southern,Sol Metzger,W,10,0
+1924-11-15,Furman,Ind,,H,Ole Miss,Southern,,W,7,2
+1924-11-27,Furman,Ind,,A,Clemson,Southern,Bud Saunders,W,3,0
+1924-10-04,Utah,RMC,Thomas Fitzpatrick,H,Drake,MVIAA,Ossie Solem,L,14,33
+1924-10-11,Utah,RMC,Thomas Fitzpatrick,H,Colorado College,RMC,Tefler Meade,L,0,9
+1924-10-25,Utah,RMC,Thomas Fitzpatrick,H,Brigham Young,RMC,Alvin Twitchell,W,35,6
+1924-11-01,Utah,RMC,Thomas Fitzpatrick,A,Colorado,RMC,Myron Witham,L,0,3
+1924-11-08,Utah,RMC,Thomas Fitzpatrick,A,Stanford,PCC,Pop Warner,L,0,30
+1924-11-15,Utah,RMC,Thomas Fitzpatrick,H,Wyoming,RMC,William Dietz,W,28,0
+1924-11-27,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,T,7,7
+1924-10-18,Northern Colorado,RMC,George Cooper,A,Wyoming,RMC,William Dietz,L,8,33
+1924-10-25,Northern Colorado,RMC,George Cooper,H,Montana State,RMC,Ott Romney,L,0,59
+1924-11-01,Northern Colorado,RMC,George Cooper,H,Regis (CO),Ind,,W,20,7
+1924-11-08,Northern Colorado,RMC,George Cooper,A,Regis (CO),Ind,,L,7,27
+1924-11-15,Northern Colorado,RMC,George Cooper,H,Colorado State,RMC,Harry Hughes,L,7,22
+1924-11-22,Northern Colorado,RMC,George Cooper,A,Colorado Mines,RMC,William Courtright,L,7,14
+1924-10-04,Washington & Lee,Southern,Jimmy DeHart,N,Maryland,Southern,Curley Byrd,W,19,7
+1924-10-11,Washington & Lee,Southern,Jimmy DeHart,H,Wake Forest,Ind,Hank Garrity,L,8,10
+1924-10-18,Washington & Lee,Southern,Jimmy DeHart,A,Kentucky,Southern,Fred Murphy,W,10,7
+1924-10-25,Washington & Lee,Southern,Jimmy DeHart,N,Virginia Tech,Southern,B.C. Cubbage,T,0,0
+1924-11-01,Washington & Lee,Southern,Jimmy DeHart,A,Virginia,Southern,Greasy Neale,W,20,7
+1924-11-08,Washington & Lee,Southern,Jimmy DeHart,H,Citadel,Ind,Carl Prause,W,32,7
+1924-11-15,Washington & Lee,Southern,Jimmy DeHart,N,West Virginia,Ind,,L,0,6
+1924-11-27,Washington & Lee,Southern,Jimmy DeHart,A,North Carolina State,Southern,,W,34,0
+1924-12-06,Washington & Lee,Southern,Jimmy DeHart,A,Florida,Southern,J.A. Van Fleet,L,6,16
+1924-10-04,Syracuse,Ind,Chick Meehan,H,Mercer,Ind,,W,26,0
+1924-10-11,Syracuse,Ind,Chick Meehan,H,William & Mary,Ind,J. Wilder Tasker,W,24,7
+1924-10-25,Syracuse,Ind,Chick Meehan,A,Penn State,Ind,Hugo Bezdek,W,10,6
+1924-11-01,Syracuse,Ind,Chick Meehan,H,Pitt,Ind,Jock Sutherland,T,7,7
+1924-11-22,Syracuse,Ind,Chick Meehan,H,Colgate,Ind,Dick Harlow,W,7,3
+1924-11-27,Syracuse,Ind,Chick Meehan,A,Columbia,Ind,Percy Haughton,W,9,6
+1924-12-06,Syracuse,Ind,Chick Meehan,A,USC,PCC,Gus Henderson,L,0,16
+1924-10-11,Montana,PCC,Click Clark,A,Idaho,PCC,Robert Mathews,L,13,41
+1924-10-18,Montana,PCC,Click Clark,A,Washington,PCC,Enoch Bagshaw,L,7,52
+1924-11-01,Montana,PCC,Click Clark,H,Gonzaga,Ind,Gus Dorais,L,14,20
+1924-11-15,Montana,PCC,Click Clark,A,Stanford,PCC,Pop Warner,L,3,41
+1924-11-22,Montana,PCC,Click Clark,H,Whitman,Ind,,W,20,0
+1924-10-04,Penn State,Ind,Hugo Bezdek,H,North Carolina State,Southern,,W,51,6
+1924-10-18,Penn State,Ind,Hugo Bezdek,A,Georgia Tech,Southern,William Alexander,L,13,15
+1924-10-25,Penn State,Ind,Hugo Bezdek,H,Syracuse,Ind,Chick Meehan,L,6,10
+1924-11-01,Penn State,Ind,Hugo Bezdek,A,Navy,Ind,,W,6,0
+1924-11-08,Penn State,Ind,Hugo Bezdek,H,Carnegie Mellon,Ind,Walter Steffen,W,22,7
+1924-11-15,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,Lou Young,T,0,0
+1924-11-27,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Jock Sutherland,L,3,24
+1924-10-18,Princeton,Ind,,H,Navy,Ind,,W,17,14
+1924-10-25,Princeton,Ind,,H,Notre Dame,Ind,Knute Rockne,L,0,12
+1924-11-08,Princeton,Ind,,A,Harvard,Ind,Robert Fisher,W,34,0
+1924-11-15,Princeton,Ind,,H,Yale,Ind,Tad Jones,L,0,10
+1924-10-04,Vanderbilt,Southern,Dan McGugin,H,Birmingham-Southern,Ind,Red Drew,W,61,0
+1924-10-18,Vanderbilt,Southern,Dan McGugin,A,Tulane,Southern,Clark Shaughnessy,L,13,21
+1924-10-25,Vanderbilt,Southern,Dan McGugin,H,Georgia,Southern,George Woodruff,L,0,3
+1924-11-01,Vanderbilt,Southern,Dan McGugin,H,Auburn,Southern,Boozer Pitts,W,13,0
+1924-11-08,Vanderbilt,Southern,Dan McGugin,H,Mississippi State,Southern,Earl Able,W,18,0
+1924-11-15,Vanderbilt,Southern,Dan McGugin,A,Georgia Tech,Southern,William Alexander,W,3,0
+1924-11-22,Vanderbilt,Southern,Dan McGugin,A,Minnesota,Western,William Spaulding,W,16,0
+1924-11-29,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,M.S. Bennett,L,0,16
+1924-09-27,Colorado College,RMC,Tefler Meade,H,Western State,Ind,A.C. Kruse,W,20,0
+1924-10-04,Colorado College,RMC,Tefler Meade,H,Brigham Young,RMC,Alvin Twitchell,L,0,3
+1924-10-11,Colorado College,RMC,Tefler Meade,A,Utah,RMC,Thomas Fitzpatrick,W,9,0
+1924-10-18,Colorado College,RMC,Tefler Meade,H,Colorado,RMC,Myron Witham,L,0,26
+1924-11-01,Colorado College,RMC,Tefler Meade,A,Denver,RMC,,L,0,3
+1924-11-08,Colorado College,RMC,Tefler Meade,A,Colorado State,RMC,Harry Hughes,W,7,6
+1924-11-22,Colorado College,RMC,Tefler Meade,H,Wyoming,RMC,William Dietz,W,28,3
+1924-11-27,Colorado College,RMC,Tefler Meade,H,Colorado Mines,RMC,William Courtright,W,14,0
+1924-10-18,Kentucky,Southern,Fred Murphy,H,Washington & Lee,Southern,Jimmy DeHart,L,7,10
+1924-10-25,Kentucky,Southern,Fred Murphy,H,Sewanee,Southern,M.S. Bennett,W,7,0
+1924-11-01,Kentucky,Southern,Fred Murphy,H,Centre,Ind,Harold Ofstie,L,0,7
+1924-11-08,Kentucky,Southern,Fred Murphy,A,Alabama,Southern,Wallace Wade,L,7,42
+1924-11-15,Kentucky,Southern,Fred Murphy,H,Virginia Military Institute,Southern,,L,3,10
+1924-11-27,Kentucky,Southern,Fred Murphy,A,Tennessee,Southern,Mark Banks,W,27,6
+1924-10-25,California,PCC,Andy Smith,H,Washington State,PCC,Albert Exendine,W,20,7
+1924-11-01,California,PCC,Andy Smith,H,USC,PCC,Gus Henderson,W,7,0
+1924-11-08,California,PCC,Andy Smith,A,Washington,PCC,Enoch Bagshaw,T,7,7
+1924-11-22,California,PCC,Andy Smith,H,Stanford,PCC,Pop Warner,T,20,20
+1925-01-01,California,PCC,Andy Smith,H,Pennsylvania,Ind,Lou Young,W,14,0
+1924-10-11,Florida,Southern,J.A. Van Fleet,A,Georgia Tech,Southern,William Alexander,T,7,7
+1924-10-18,Florida,Southern,J.A. Van Fleet,H,Wake Forest,Ind,Hank Garrity,W,34,0
+1924-10-25,Florida,Southern,J.A. Van Fleet,A,Texas,SWC,Edward Stewart,T,7,7
+1924-11-08,Florida,Southern,J.A. Van Fleet,A,Army,Ind,John McEwan,L,7,14
+1924-11-14,Florida,Southern,J.A. Van Fleet,A,Mercer,Ind,,L,0,10
+1924-11-22,Florida,Southern,J.A. Van Fleet,N,Mississippi State,Southern,Earl Able,W,27,0
+1924-11-27,Florida,Southern,J.A. Van Fleet,H,Drake,MVIAA,Ossie Solem,W,10,0
+1924-12-06,Florida,Southern,J.A. Van Fleet,H,Washington & Lee,Southern,Jimmy DeHart,W,16,6
+1924-10-04,Gonzaga,Ind,Gus Dorais,H,Idaho,PCC,Robert Mathews,T,0,0
+1924-10-11,Gonzaga,Ind,Gus Dorais,A,Washington State,PCC,Albert Exendine,W,14,12
+1924-11-01,Gonzaga,Ind,Gus Dorais,A,Montana,PCC,Click Clark,W,20,14
+1924-11-15,Gonzaga,Ind,Gus Dorais,H,Whitman,Ind,,W,63,0
+1924-11-27,Gonzaga,Ind,Gus Dorais,H,Washington State,PCC,Albert Exendine,T,0,0
+1924-10-18,Boston University,Ind,Charles Whelan,A,Brown,Ind,Edward Robinson,L,0,35
+1924-10-25,Boston University,Ind,Charles Whelan,A,Army,Ind,John McEwan,L,0,20
+1924-11-01,Boston University,Ind,Charles Whelan,A,Harvard,Ind,Robert Fisher,L,0,13
+1924-11-08,Boston University,Ind,Charles Whelan,A,Dartmouth,Ind,Jesse Hawley,L,0,38
+1924-10-18,Stanford,PCC,Pop Warner,H,Oregon,PCC,Joseph Maddock,W,28,13
+1924-10-25,Stanford,PCC,Pop Warner,N,Idaho,PCC,Robert Mathews,W,3,0
+1924-11-08,Stanford,PCC,Pop Warner,H,Utah,RMC,Thomas Fitzpatrick,W,30,0
+1924-11-15,Stanford,PCC,Pop Warner,H,Montana,PCC,Click Clark,W,41,3
+1924-11-22,Stanford,PCC,Pop Warner,A,California,PCC,Andy Smith,T,20,20
+1925-01-01,Stanford,PCC,Pop Warner,N,Notre Dame,Ind,Knute Rockne,L,10,27
+1924-09-27,Presbyterian,Ind,Walter Johnson,H,Davidson,Ind,Monk Younger,L,3,15
+1924-10-11,Presbyterian,Ind,Walter Johnson,A,Clemson,Southern,Bud Saunders,L,0,14
+1924-10-17,Presbyterian,Ind,Walter Johnson,A,South Carolina,Southern,Sol Metzger,L,0,29
+1924-11-01,Presbyterian,Ind,Walter Johnson,H,Newberry,Ind,Dutch McLean,L,0,10
+1924-11-08,Presbyterian,Ind,Walter Johnson,A,Erskine,Ind,,W,7,0
+1924-11-15,Presbyterian,Ind,Walter Johnson,A,Wofford,Ind,Rip Major,L,7,19
+1924-11-29,Presbyterian,Ind,Walter Johnson,A,Citadel,Ind,Carl Prause,L,0,13
+1924-10-11,Washington State,PCC,Albert Exendine,H,Gonzaga,Ind,Gus Dorais,L,12,14
+1924-10-17,Washington State,PCC,Albert Exendine,A,Idaho,PCC,Robert Mathews,L,3,19
+1924-10-25,Washington State,PCC,Albert Exendine,A,California,PCC,Andy Smith,L,7,20
+1924-11-08,Washington State,PCC,Albert Exendine,A,Oregon State,PCC,Paul Schissler,L,13,14
+1924-11-15,Washington State,PCC,Albert Exendine,A,Oregon,PCC,Joseph Maddock,T,7,7
+1924-11-22,Washington State,PCC,Albert Exendine,A,Washington,PCC,Enoch Bagshaw,L,0,14
+1924-11-27,Washington State,PCC,Albert Exendine,A,Gonzaga,Ind,Gus Dorais,T,0,0
+1924-09-27,Western State,Ind,A.C. Kruse,A,Colorado College,RMC,Tefler Meade,L,0,20
+1924-10-04,Western State,Ind,A.C. Kruse,A,Colorado,RMC,Myron Witham,L,0,31
+1924-10-18,Western State,Ind,A.C. Kruse,H,Regis (CO),Ind,,W,20,0
+1924-11-11,Western State,Ind,A.C. Kruse,H,Brigham Young,RMC,Alvin Twitchell,L,0,26
+1924-11-22,Western State,Ind,A.C. Kruse,H,Regis (CO),Ind,,W,12,0
+1924-10-04,Illinois,Western,Robert Zuppke,A,Nebraska,MVIAA,Fred Dawson,W,9,6
+1924-10-18,Illinois,Western,Robert Zuppke,H,Michigan,Western,George Little,W,39,14
+1924-11-01,Illinois,Western,Robert Zuppke,H,Iowa,Western,Burton Ingwersen,W,36,0
+1924-11-08,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,T,21,21
+1924-11-15,Illinois,Western,Robert Zuppke,A,Minnesota,Western,William Spaulding,L,7,20
+1924-11-22,Illinois,Western,Robert Zuppke,H,Ohio State,Western,John Wilce,W,7,0
+1924-10-18,Baylor,SWC,Frank Bridges,H,Arkansas,SWC,Francis Schmidt,W,13,0
+1924-11-01,Baylor,SWC,Frank Bridges,H,Texas A&M,SWC,Dana Bible,W,15,7
+1924-11-08,Baylor,SWC,Frank Bridges,A,Texas,SWC,Edward Stewart,W,28,10
+1924-11-15,Baylor,SWC,Frank Bridges,A,SMU,SWC,Ray Morrison,T,7,7
+1924-11-27,Baylor,SWC,Frank Bridges,A,Rice,SWC,John Heisman,W,17,9
+1924-10-17,SMU,SWC,Ray Morrison,H,Texas,SWC,Edward Stewart,W,10,6
+1924-10-25,SMU,SWC,Ray Morrison,H,Texas A&M,SWC,Dana Bible,T,7,7
+1924-11-01,SMU,SWC,Ray Morrison,A,Texas Christian,SWC,Madison Bell,W,6,0
+1924-11-08,SMU,SWC,Ray Morrison,A,Arkansas,SWC,Francis Schmidt,T,14,14
+1924-11-15,SMU,SWC,Ray Morrison,H,Baylor,SWC,Frank Bridges,T,7,7
+1924-11-29,SMU,SWC,Ray Morrison,H,Oklahoma State,SWC,John Maulbetsch,T,13,13
+1924-09-27,Georgia,Southern,George Woodruff,H,Mercer,Ind,,W,26,7
+1924-10-04,Georgia,Southern,George Woodruff,H,South Carolina,Southern,Sol Metzger,W,18,0
+1924-10-11,Georgia,Southern,George Woodruff,A,Yale,Ind,Tad Jones,L,6,7
+1924-10-18,Georgia,Southern,George Woodruff,N,Furman,Ind,,W,23,0
+1924-10-25,Georgia,Southern,George Woodruff,A,Vanderbilt,Southern,Dan McGugin,W,3,0
+1924-11-01,Georgia,Southern,George Woodruff,H,Tennessee,Southern,Mark Banks,W,33,0
+1924-11-08,Georgia,Southern,George Woodruff,A,Virginia,Southern,Greasy Neale,W,7,0
+1924-11-15,Georgia,Southern,George Woodruff,N,Auburn,Southern,Boozer Pitts,W,6,0
+1924-11-27,Georgia,Southern,George Woodruff,A,Alabama,Southern,Wallace Wade,L,0,33
+1924-11-29,Georgia,Southern,George Woodruff,A,Centre,Ind,Harold Ofstie,L,7,14
+1924-10-04,Maryland,Southern,Curley Byrd,N,Washington & Lee,Southern,Jimmy DeHart,L,7,19
+1924-10-11,Maryland,Southern,Curley Byrd,H,Richmond,Ind,Frank Dobson,W,38,0
+1924-10-18,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,B.C. Cubbage,L,0,12
+1924-10-25,Maryland,Southern,Curley Byrd,A,North Carolina,Southern,William Fetzer,W,6,0
+1924-11-08,Maryland,Southern,Curley Byrd,A,Yale,Ind,Tad Jones,L,0,47
+1924-11-15,Maryland,Southern,Curley Byrd,H,North Carolina State,Southern,,T,0,0
+1924-10-04,Virginia,Southern,Greasy Neale,A,Harvard,Ind,Robert Fisher,L,0,14
+1924-10-18,Virginia,Southern,Greasy Neale,H,Virginia Military Institute,Southern,,W,13,0
+1924-10-25,Virginia,Southern,Greasy Neale,A,Pennsylvania,Ind,Lou Young,L,0,27
+1924-11-01,Virginia,Southern,Greasy Neale,H,Washington & Lee,Southern,Jimmy DeHart,L,7,20
+1924-11-08,Virginia,Southern,Greasy Neale,H,Georgia,Southern,George Woodruff,L,0,7
+1924-11-15,Virginia,Southern,Greasy Neale,A,Virginia Tech,Southern,B.C. Cubbage,W,6,0
+1924-11-27,Virginia,Southern,Greasy Neale,H,North Carolina,Southern,William Fetzer,W,7,0
+1924-10-04,Idaho,PCC,Robert Mathews,A,Gonzaga,Ind,Gus Dorais,T,0,0
+1924-10-11,Idaho,PCC,Robert Mathews,H,Montana,PCC,Click Clark,W,41,13
+1924-10-17,Idaho,PCC,Robert Mathews,H,Washington State,PCC,Albert Exendine,W,19,3
+1924-10-25,Idaho,PCC,Robert Mathews,N,Stanford,PCC,Pop Warner,L,0,3
+1924-11-01,Idaho,PCC,Robert Mathews,A,Oregon State,PCC,Paul Schissler,W,22,0
+1924-11-08,Idaho,PCC,Robert Mathews,H,Oregon,PCC,Joseph Maddock,W,13,0
+1924-11-22,Idaho,PCC,Robert Mathews,A,USC,PCC,Gus Henderson,L,0,13
+1924-10-04,Citadel,Ind,Carl Prause,H,Wofford,Ind,Rip Major,W,19,0
+1924-10-11,Citadel,Ind,Carl Prause,H,Oglethorpe,Ind,Jim Robertson,L,7,10
+1924-10-18,Citadel,Ind,Carl Prause,A,Newberry,Ind,Dutch McLean,L,0,14
+1924-10-25,Citadel,Ind,Carl Prause,H,Furman,Ind,,W,6,0
+1924-10-29,Citadel,Ind,Carl Prause,N,South Carolina,Southern,Sol Metzger,L,3,14
+1924-11-08,Citadel,Ind,Carl Prause,A,Washington & Lee,Southern,Jimmy DeHart,L,7,32
+1924-11-15,Citadel,Ind,Carl Prause,N,Clemson,Southern,Bud Saunders,W,20,0
+1924-11-22,Citadel,Ind,Carl Prause,A,Erskine,Ind,,W,7,0
+1924-11-29,Citadel,Ind,Carl Prause,H,Presbyterian,Ind,Walter Johnson,W,13,0
+1924-10-11,Oklahoma,MVIAA,Bennie Owen,H,Nebraska,MVIAA,Fred Dawson,W,14,7
+1924-10-25,Oklahoma,MVIAA,Bennie Owen,A,Drake,MVIAA,Ossie Solem,L,0,28
+1924-11-01,Oklahoma,MVIAA,Bennie Owen,A,Oklahoma State,SWC,John Maulbetsch,L,0,6
+1924-11-08,Oklahoma,MVIAA,Bennie Owen,H,Missouri,MVIAA,Gwinn Henry,L,0,10
+1924-11-15,Oklahoma,MVIAA,Bennie Owen,A,Kansas,MVIAA,Potsy Clark,L,0,20
+1924-11-22,Oklahoma,MVIAA,Bennie Owen,A,Washington (MO),MVIAA,Byron Wimberly,W,7,0
+1924-11-26,Oklahoma,MVIAA,Bennie Owen,H,Kansas State,MVIAA,Charlie Bachman,T,7,7
+1924-09-27,Virginia Tech,Southern,B.C. Cubbage,H,Richmond,Ind,Frank Dobson,W,28,0
+1924-10-11,Virginia Tech,Southern,B.C. Cubbage,H,Auburn,Southern,Boozer Pitts,T,0,0
+1924-10-18,Virginia Tech,Southern,B.C. Cubbage,N,Maryland,Southern,Curley Byrd,W,12,0
+1924-10-25,Virginia Tech,Southern,B.C. Cubbage,N,Washington & Lee,Southern,Jimmy DeHart,T,0,0
+1924-11-01,Virginia Tech,Southern,B.C. Cubbage,A,Clemson,Southern,Bud Saunders,W,50,6
+1924-11-08,Virginia Tech,Southern,B.C. Cubbage,A,North Carolina State,Southern,,L,3,6
+1924-11-15,Virginia Tech,Southern,B.C. Cubbage,H,Virginia,Southern,Greasy Neale,L,0,6
+1924-11-27,Virginia Tech,Southern,B.C. Cubbage,N,Virginia Military Institute,Southern,,T,0,0
+1924-10-04,Whitman,Ind,,H,Oregon State,PCC,Paul Schissler,L,0,41
+1924-10-11,Whitman,Ind,,A,Washington,PCC,Enoch Bagshaw,L,0,55
+1924-10-25,Whitman,Ind,,A,Oregon,PCC,Joseph Maddock,L,6,40
+1924-11-15,Whitman,Ind,,A,Gonzaga,Ind,Gus Dorais,L,0,63
+1924-11-22,Whitman,Ind,,A,Montana,PCC,Click Clark,L,0,20
+1924-10-18,Arkansas,SWC,Francis Schmidt,A,Baylor,SWC,Frank Bridges,L,0,13
+1924-10-25,Arkansas,SWC,Francis Schmidt,H,Ole Miss,Southern,,W,20,0
+1924-11-01,Arkansas,SWC,Francis Schmidt,N,LSU,Southern,Mike Donahue,W,10,7
+1924-11-08,Arkansas,SWC,Francis Schmidt,H,SMU,SWC,Ray Morrison,T,14,14
+1924-11-21,Arkansas,SWC,Francis Schmidt,A,Oklahoma State,SWC,John Maulbetsch,L,0,20
+1924-11-27,Arkansas,SWC,Francis Schmidt,H,Texas Christian,SWC,Madison Bell,W,20,0
+1924-10-04,Clemson,Southern,Bud Saunders,A,Auburn,Southern,Boozer Pitts,L,0,13
+1924-10-11,Clemson,Southern,Bud Saunders,H,Presbyterian,Ind,Walter Johnson,W,14,0
+1924-10-23,Clemson,Southern,Bud Saunders,A,South Carolina,Southern,Sol Metzger,L,0,3
+1924-11-01,Clemson,Southern,Bud Saunders,H,Virginia Tech,Southern,B.C. Cubbage,L,6,50
+1924-11-08,Clemson,Southern,Bud Saunders,N,Davidson,Ind,Monk Younger,L,0,7
+1924-11-15,Clemson,Southern,Bud Saunders,N,Citadel,Ind,Carl Prause,L,0,20
+1924-11-27,Clemson,Southern,Bud Saunders,H,Furman,Ind,,L,0,3
+1924-09-27,South Carolina,Southern,Sol Metzger,H,Erskine,Ind,,W,47,0
+1924-10-04,South Carolina,Southern,Sol Metzger,A,Georgia,Southern,George Woodruff,L,0,18
+1924-10-11,South Carolina,Southern,Sol Metzger,H,North Carolina State,Southern,,W,10,0
+1924-10-17,South Carolina,Southern,Sol Metzger,H,Presbyterian,Ind,Walter Johnson,W,29,0
+1924-10-23,South Carolina,Southern,Sol Metzger,H,Clemson,Southern,Bud Saunders,W,3,0
+1924-10-29,South Carolina,Southern,Sol Metzger,N,Citadel,Ind,Carl Prause,W,14,3
+1924-11-01,South Carolina,Southern,Sol Metzger,A,North Carolina,Southern,William Fetzer,W,10,7
+1924-11-08,South Carolina,Southern,Sol Metzger,H,Furman,Ind,,L,0,10
+1924-11-15,South Carolina,Southern,Sol Metzger,H,Sewanee,Southern,M.S. Bennett,L,0,10
+1924-11-27,South Carolina,Southern,Sol Metzger,H,Wake Forest,Ind,Hank Garrity,W,7,0
+1924-10-11,Washington,PCC,Enoch Bagshaw,H,Whitman,Ind,,W,55,0
+1924-10-18,Washington,PCC,Enoch Bagshaw,H,Montana,PCC,Click Clark,W,52,7
+1924-10-25,Washington,PCC,Enoch Bagshaw,H,Oregon State,PCC,Paul Schissler,W,6,3
+1924-11-01,Washington,PCC,Enoch Bagshaw,A,Oregon,PCC,Joseph Maddock,L,3,7
+1924-11-08,Washington,PCC,Enoch Bagshaw,H,California,PCC,Andy Smith,T,7,7
+1924-11-22,Washington,PCC,Enoch Bagshaw,H,Washington State,PCC,Albert Exendine,W,14,0
+1924-10-04,Utah State,RMC,,A,Colorado Mines,RMC,William Courtright,L,6,17
+1924-10-25,Utah State,RMC,,A,Denver,RMC,,W,16,0
+1924-11-01,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,13,17
+1924-11-07,Utah State,RMC,,A,Brigham Young,RMC,Alvin Twitchell,W,13,9
+1924-11-19,Utah State,RMC,,H,Wyoming,RMC,William Dietz,W,25,2
+1924-11-27,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,T,7,7
+1924-10-04,Missouri,MVIAA,Gwinn Henry,A,Chicago,Western,Amos Alonzo Stagg,W,3,0
+1924-10-18,Missouri,MVIAA,Gwinn Henry,A,Iowa State,MVIAA,Sam Willaman,W,7,0
+1924-10-25,Missouri,MVIAA,Gwinn Henry,H,Kansas State,MVIAA,Charlie Bachman,W,14,7
+1924-11-01,Missouri,MVIAA,Gwinn Henry,A,Nebraska,MVIAA,Fred Dawson,L,6,14
+1924-11-08,Missouri,MVIAA,Gwinn Henry,A,Oklahoma,MVIAA,Bennie Owen,W,10,0
+1924-11-15,Missouri,MVIAA,Gwinn Henry,H,Washington (MO),MVIAA,Byron Wimberly,W,35,0
+1924-11-27,Missouri,MVIAA,Gwinn Henry,H,Kansas,MVIAA,Potsy Clark,W,14,0
+1924-12-25,Missouri,MVIAA,Gwinn Henry,A,USC,PCC,Gus Henderson,L,7,20
+1924-10-11,Montana State,RMC,Ott Romney,H,Brigham Young,RMC,Alvin Twitchell,W,13,0
+1924-10-25,Montana State,RMC,Ott Romney,A,Northern Colorado,RMC,George Cooper,W,59,0
+1924-11-05,Montana State,RMC,Ott Romney,A,Wyoming,RMC,William Dietz,L,17,18
+1924-11-22,Montana State,RMC,Ott Romney,A,Denver,RMC,,T,0,0
+1924-10-04,Denver,RMC,,H,Regis (CO),Ind,,W,20,0
+1924-10-11,Denver,RMC,,H,Wyoming,RMC,William Dietz,W,7,0
+1924-10-18,Denver,RMC,,A,Colorado Mines,RMC,William Courtright,W,6,0
+1924-10-25,Denver,RMC,,H,Utah State,RMC,,L,0,16
+1924-11-01,Denver,RMC,,H,Colorado College,RMC,Tefler Meade,W,3,0
+1924-11-15,Denver,RMC,,H,Colorado,RMC,Myron Witham,T,0,0
+1924-11-22,Denver,RMC,,H,Montana State,RMC,Ott Romney,T,0,0
+1924-11-29,Denver,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,19
+1924-10-18,Washington & Jefferson,Ind,D.C. Morrow,A,Carnegie Mellon,Ind,Walter Steffen,W,10,0
+1924-11-15,Washington & Jefferson,Ind,D.C. Morrow,A,Pitt,Ind,Jock Sutherland,W,10,0
+1924-11-27,Washington & Jefferson,Ind,D.C. Morrow,A,West Virginia,Ind,,L,7,40
+1924-09-20,Wofford,Ind,Rip Major,A,Virginia Military Institute,Southern,,L,0,33
+1924-10-04,Wofford,Ind,Rip Major,A,Citadel,Ind,Carl Prause,L,0,19
+1924-10-17,Wofford,Ind,Rip Major,H,Oglethorpe,Ind,Jim Robertson,L,0,27
+1924-10-25,Wofford,Ind,Rip Major,H,Erskine,Ind,,W,3,0
+1924-11-08,Wofford,Ind,Rip Major,A,Mercer,Ind,,L,0,16
+1924-11-15,Wofford,Ind,Rip Major,H,Presbyterian,Ind,Walter Johnson,W,19,7
+1924-11-22,Wofford,Ind,Rip Major,A,Duke,Ind,Howard Jones,L,0,12
+1924-11-29,Wofford,Ind,Rip Major,H,Newberry,Ind,Dutch McLean,L,7,16
+1924-12-06,Wofford,Ind,Rip Major,A,Davidson,Ind,Monk Younger,L,0,7
+1924-10-04,Mississippi College,Ind,John King,A,Tulane,Southern,Clark Shaughnessy,L,7,32
+1924-10-11,Mississippi College,Ind,John King,A,Alabama,Southern,Wallace Wade,L,0,51
+1924-10-17,Mississippi College,Ind,John King,A,Millsaps,Ind,Zimmie Zimoski,W,14,0
+1924-10-25,Mississippi College,Ind,John King,H,Birmingham-Southern,Ind,Red Drew,L,6,13
+1924-11-15,Mississippi College,Ind,John King,A,Mississippi State,Southern,Earl Able,L,6,7
+1924-11-22,Mississippi College,Ind,John King,A,Ole Miss,Southern,,L,6,10
+1924-11-29,Mississippi College,Ind,John King,H,Mercer,Ind,,T,7,7
+1924-10-04,Wisconsin,Western,Jack Ryan,H,Iowa State,MVIAA,Sam Willaman,W,17,0
+1924-10-18,Wisconsin,Western,Jack Ryan,H,Minnesota,Western,William Spaulding,T,7,7
+1924-10-25,Wisconsin,Western,Jack Ryan,A,Michigan,Western,George Little,L,0,21
+1924-11-08,Wisconsin,Western,Jack Ryan,H,Notre Dame,Ind,Knute Rockne,L,3,38
+1924-11-15,Wisconsin,Western,Jack Ryan,H,Iowa,Western,Burton Ingwersen,L,7,21
+1924-11-22,Wisconsin,Western,Jack Ryan,A,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1924-10-18,USC,PCC,Gus Henderson,A,Oregon State,PCC,Paul Schissler,W,17,3
+1924-11-01,USC,PCC,Gus Henderson,A,California,PCC,Andy Smith,L,0,7
+1924-11-22,USC,PCC,Gus Henderson,H,Idaho,PCC,Robert Mathews,W,13,0
+1924-12-06,USC,PCC,Gus Henderson,H,Syracuse,Ind,Chick Meehan,W,16,0
+1924-12-25,USC,PCC,Gus Henderson,H,Missouri,MVIAA,Gwinn Henry,W,20,7
+1924-09-27,Colorado Mines,RMC,William Courtright,A,Regis (CO),Ind,,W,7,0
+1924-10-04,Colorado Mines,RMC,William Courtright,H,Utah State,RMC,,W,17,6
+1924-10-11,Colorado Mines,RMC,William Courtright,A,Colorado State,RMC,Harry Hughes,L,0,17
+1924-10-18,Colorado Mines,RMC,William Courtright,H,Denver,RMC,,L,0,6
+1924-11-01,Colorado Mines,RMC,William Courtright,H,Wyoming,RMC,William Dietz,W,6,3
+1924-11-08,Colorado Mines,RMC,William Courtright,A,Colorado,RMC,Myron Witham,L,0,38
+1924-11-15,Colorado Mines,RMC,William Courtright,H,Brigham Young,RMC,Alvin Twitchell,T,0,0
+1924-11-22,Colorado Mines,RMC,William Courtright,H,Northern Colorado,RMC,George Cooper,W,14,7
+1924-11-27,Colorado Mines,RMC,William Courtright,A,Colorado College,RMC,Tefler Meade,L,0,14
+1924-09-27,North Carolina State,Southern,,H,Duke,Ind,Howard Jones,W,14,0
+1924-10-04,North Carolina State,Southern,,A,Penn State,Ind,Hugo Bezdek,L,6,51
+1924-10-11,North Carolina State,Southern,,A,South Carolina,Southern,Sol Metzger,L,0,10
+1924-10-16,North Carolina State,Southern,,H,North Carolina,Southern,William Fetzer,L,0,10
+1924-10-25,North Carolina State,Southern,,A,Virginia Military Institute,Southern,,L,7,17
+1924-11-01,North Carolina State,Southern,,N,Davidson,Ind,Monk Younger,T,10,10
+1924-11-08,North Carolina State,Southern,,H,Virginia Tech,Southern,B.C. Cubbage,W,6,3
+1924-11-15,North Carolina State,Southern,,A,Maryland,Southern,Curley Byrd,T,0,0
+1924-11-22,North Carolina State,Southern,,H,Wake Forest,Ind,Hank Garrity,L,0,12
+1924-11-27,North Carolina State,Southern,,H,Washington & Lee,Southern,Jimmy DeHart,L,0,34
+1924-10-18,Michigan,Western,George Little,A,Illinois,Western,Robert Zuppke,L,14,39
+1924-10-25,Michigan,Western,George Little,H,Wisconsin,Western,Jack Ryan,W,21,0
+1924-11-01,Michigan,Western,George Little,A,Minnesota,Western,William Spaulding,W,13,0
+1924-11-08,Michigan,Western,George Little,H,Northwestern,Western,Glenn Thistlethwaite,W,27,0
+1924-11-15,Michigan,Western,George Little,A,Ohio State,Western,John Wilce,W,16,6
+1924-11-22,Michigan,Western,George Little,H,Iowa,Western,Burton Ingwersen,L,2,9
+1924-10-18,Notre Dame,Ind,Knute Rockne,A,Army,Ind,John McEwan,W,13,7
+1924-10-25,Notre Dame,Ind,Knute Rockne,A,Princeton,Ind,,W,12,0
+1924-11-01,Notre Dame,Ind,Knute Rockne,H,Georgia Tech,Southern,William Alexander,W,34,3
+1924-11-08,Notre Dame,Ind,Knute Rockne,A,Wisconsin,Western,Jack Ryan,W,38,3
+1924-11-15,Notre Dame,Ind,Knute Rockne,H,Nebraska,MVIAA,Fred Dawson,W,34,6
+1924-11-22,Notre Dame,Ind,Knute Rockne,A,Northwestern,Western,Glenn Thistlethwaite,W,13,6
+1924-11-29,Notre Dame,Ind,Knute Rockne,A,Carnegie Mellon,Ind,Walter Steffen,W,40,19
+1925-01-01,Notre Dame,Ind,Knute Rockne,N,Stanford,PCC,Pop Warner,W,27,10
+1924-10-11,Pitt,Ind,Jock Sutherland,H,West Virginia,Ind,,W,14,7
+1924-10-25,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Walter Steffen,L,0,6
+1924-11-01,Pitt,Ind,Jock Sutherland,A,Syracuse,Ind,Chick Meehan,T,7,7
+1924-11-15,Pitt,Ind,Jock Sutherland,H,Washington & Jefferson,Ind,D.C. Morrow,L,0,10
+1924-11-27,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Hugo Bezdek,W,24,3
+1924-10-18,Carnegie Mellon,Ind,Walter Steffen,H,Washington & Jefferson,Ind,D.C. Morrow,L,0,10
+1924-10-25,Carnegie Mellon,Ind,Walter Steffen,A,Pitt,Ind,Jock Sutherland,W,6,0
+1924-11-08,Carnegie Mellon,Ind,Walter Steffen,A,Penn State,Ind,Hugo Bezdek,L,7,22
+1924-11-29,Carnegie Mellon,Ind,Walter Steffen,H,Notre Dame,Ind,Knute Rockne,L,19,40
+1924-09-27,Mercer,Ind,,A,Georgia,Southern,George Woodruff,L,7,26
+1924-10-04,Mercer,Ind,,A,Syracuse,Ind,Chick Meehan,L,0,26
+1924-10-11,Mercer,Ind,,A,Furman,Ind,,W,23,0
+1924-10-18,Mercer,Ind,,H,Chattanooga,Ind,Bill McAllester,W,33,0
+1924-10-25,Mercer,Ind,,H,Samford,Ind,Jenks Gillem,W,14,5
+1924-11-08,Mercer,Ind,,H,Wofford,Ind,Rip Major,W,16,0
+1924-11-14,Mercer,Ind,,H,Florida,Southern,J.A. Van Fleet,W,10,0
+1924-11-22,Mercer,Ind,,A,Oglethorpe,Ind,Jim Robertson,L,0,25
+1924-11-29,Mercer,Ind,,A,Mississippi College,Ind,John King,T,7,7
+1924-09-27,Newberry,Ind,Dutch McLean,A,Furman,Ind,,L,0,14
+1924-10-11,Newberry,Ind,Dutch McLean,H,Erskine,Ind,,W,14,0
+1924-10-18,Newberry,Ind,Dutch McLean,H,Citadel,Ind,Carl Prause,W,14,0
+1924-11-01,Newberry,Ind,Dutch McLean,A,Presbyterian,Ind,Walter Johnson,W,10,0
+1924-11-29,Newberry,Ind,Dutch McLean,A,Wofford,Ind,Rip Major,W,16,7
+1924-10-11,Wyoming,RMC,William Dietz,A,Denver,RMC,,L,0,7
+1924-10-18,Wyoming,RMC,William Dietz,H,Northern Colorado,RMC,George Cooper,W,33,8
+1924-10-25,Wyoming,RMC,William Dietz,H,Colorado,RMC,Myron Witham,L,0,21
+1924-11-01,Wyoming,RMC,William Dietz,A,Colorado Mines,RMC,William Courtright,L,3,6
+1924-11-05,Wyoming,RMC,William Dietz,H,Montana State,RMC,Ott Romney,W,18,17
+1924-11-15,Wyoming,RMC,William Dietz,A,Utah,RMC,Thomas Fitzpatrick,L,0,28
+1924-11-19,Wyoming,RMC,William Dietz,A,Utah State,RMC,,L,2,25
+1924-11-22,Wyoming,RMC,William Dietz,A,Colorado College,RMC,Tefler Meade,L,3,28
+1924-10-04,Brigham Young,RMC,Alvin Twitchell,A,Colorado College,RMC,Tefler Meade,W,3,0
+1924-10-11,Brigham Young,RMC,Alvin Twitchell,A,Montana State,RMC,Ott Romney,L,0,13
+1924-10-25,Brigham Young,RMC,Alvin Twitchell,A,Utah,RMC,Thomas Fitzpatrick,L,6,35
+1924-11-07,Brigham Young,RMC,Alvin Twitchell,H,Utah State,RMC,,L,9,13
+1924-11-11,Brigham Young,RMC,Alvin Twitchell,A,Western State,Ind,A.C. Kruse,W,26,0
+1924-11-15,Brigham Young,RMC,Alvin Twitchell,A,Colorado Mines,RMC,William Courtright,T,0,0
+1924-10-04,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,27,0
+1924-10-11,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,W,7,6
+1924-10-18,Yale,Ind,Tad Jones,H,Dartmouth,Ind,Jesse Hawley,T,14,14
+1924-10-25,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,W,13,3
+1924-11-01,Yale,Ind,Tad Jones,H,Army,Ind,John McEwan,T,7,7
+1924-11-08,Yale,Ind,Tad Jones,H,Maryland,Southern,Curley Byrd,W,47,0
+1924-11-15,Yale,Ind,Tad Jones,A,Princeton,Ind,,W,10,0
+1924-11-22,Yale,Ind,Tad Jones,H,Harvard,Ind,Robert Fisher,W,19,6
+1924-10-11,Grinnell,MVIAA,Mike Hyland,A,Washington (MO),MVIAA,Byron Wimberly,W,14,0
+1924-10-18,Grinnell,MVIAA,Mike Hyland,A,Drake,MVIAA,Ossie Solem,L,0,13
+1924-11-15,Grinnell,MVIAA,Mike Hyland,H,Iowa State,MVIAA,Sam Willaman,W,14,13
+1924-09-27,Georgia Tech,Southern,William Alexander,H,Oglethorpe,Ind,Jim Robertson,W,19,0
+1924-10-04,Georgia Tech,Southern,William Alexander,H,Virginia Military Institute,Southern,,W,3,0
+1924-10-11,Georgia Tech,Southern,William Alexander,H,Florida,Southern,J.A. Van Fleet,T,7,7
+1924-10-18,Georgia Tech,Southern,William Alexander,H,Penn State,Ind,Hugo Bezdek,W,15,13
+1924-10-25,Georgia Tech,Southern,William Alexander,H,Alabama,Southern,Wallace Wade,L,0,14
+1924-11-01,Georgia Tech,Southern,William Alexander,A,Notre Dame,Ind,Knute Rockne,L,3,34
+1924-11-08,Georgia Tech,Southern,William Alexander,H,LSU,Southern,Mike Donahue,W,28,7
+1924-11-15,Georgia Tech,Southern,William Alexander,H,Vanderbilt,Southern,Dan McGugin,L,0,3
+1924-11-27,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Boozer Pitts,W,7,0
+1924-09-27,Wake Forest,Ind,Hank Garrity,H,North Carolina,Southern,William Fetzer,W,7,6
+1924-10-11,Wake Forest,Ind,Hank Garrity,A,Washington & Lee,Southern,Jimmy DeHart,W,10,8
+1924-10-18,Wake Forest,Ind,Hank Garrity,A,Florida,Southern,J.A. Van Fleet,L,0,34
+1924-11-11,Wake Forest,Ind,Hank Garrity,A,Duke,Ind,Howard Jones,W,32,0
+1924-11-22,Wake Forest,Ind,Hank Garrity,A,North Carolina State,Southern,,W,12,0
+1924-11-27,Wake Forest,Ind,Hank Garrity,A,South Carolina,Southern,Sol Metzger,L,0,7
+1924-10-04,Mississippi State,Southern,Earl Able,H,Millsaps,Ind,Zimmie Zimoski,W,28,7
+1924-10-18,Mississippi State,Southern,Earl Able,N,Ole Miss,Southern,,W,20,0
+1924-10-25,Mississippi State,Southern,Earl Able,N,Tennessee,Southern,Mark Banks,W,7,2
+1924-11-01,Mississippi State,Southern,Earl Able,A,Tulane,Southern,Clark Shaughnessy,W,14,6
+1924-11-08,Mississippi State,Southern,Earl Able,A,Vanderbilt,Southern,Dan McGugin,L,0,18
+1924-11-15,Mississippi State,Southern,Earl Able,H,Mississippi College,Ind,John King,W,7,6
+1924-11-22,Mississippi State,Southern,Earl Able,N,Florida,Southern,J.A. Van Fleet,L,0,27
+1924-11-27,Mississippi State,Southern,Earl Able,A,Washington (MO),MVIAA,Byron Wimberly,L,6,12
+1924-09-20,Virginia Military Institute,Southern,,H,Wofford,Ind,Rip Major,W,33,0
+1924-10-04,Virginia Military Institute,Southern,,A,Georgia Tech,Southern,William Alexander,L,0,3
+1924-10-18,Virginia Military Institute,Southern,,A,Virginia,Southern,Greasy Neale,L,0,13
+1924-10-25,Virginia Military Institute,Southern,,H,North Carolina State,Southern,,W,17,7
+1924-11-08,Virginia Military Institute,Southern,,A,North Carolina,Southern,William Fetzer,L,0,3
+1924-11-15,Virginia Military Institute,Southern,,A,Kentucky,Southern,Fred Murphy,W,10,3
+1924-11-27,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,B.C. Cubbage,T,0,0
+1924-10-04,Millsaps,Ind,Zimmie Zimoski,A,Mississippi State,Southern,Earl Able,L,7,28
+1924-10-11,Millsaps,Ind,Zimmie Zimoski,A,Birmingham-Southern,Ind,Red Drew,L,0,6
+1924-10-17,Millsaps,Ind,Zimmie Zimoski,H,Mississippi College,Ind,John King,L,0,14
+1924-11-14,Millsaps,Ind,Zimmie Zimoski,H,Samford,Ind,Jenks Gillem,W,14,0
+1924-11-27,Millsaps,Ind,Zimmie Zimoski,H,Ole Miss,Southern,,L,0,7
+1924-10-18,Kansas State,MVIAA,Charlie Bachman,H,Kansas,MVIAA,Potsy Clark,W,6,0
+1924-10-25,Kansas State,MVIAA,Charlie Bachman,A,Missouri,MVIAA,Gwinn Henry,L,7,14
+1924-11-01,Kansas State,MVIAA,Charlie Bachman,H,Iowa State,MVIAA,Sam Willaman,L,0,21
+1924-11-15,Kansas State,MVIAA,Charlie Bachman,H,Drake,MVIAA,Ossie Solem,L,6,7
+1924-11-22,Kansas State,MVIAA,Charlie Bachman,H,Nebraska,MVIAA,Fred Dawson,L,0,24
+1924-11-26,Kansas State,MVIAA,Charlie Bachman,A,Oklahoma,MVIAA,Bennie Owen,T,7,7
+1924-10-11,Chattanooga,Ind,Bill McAllester,H,Samford,Ind,Jenks Gillem,L,0,28
+1924-10-18,Chattanooga,Ind,Bill McAllester,A,Mercer,Ind,,L,0,33
+1924-11-08,Chattanooga,Ind,Bill McAllester,H,Birmingham-Southern,Ind,Red Drew,W,20,7
+1924-11-27,Chattanooga,Ind,Bill McAllester,H,Oglethorpe,Ind,Jim Robertson,L,2,20
+1924-10-11,Samford,Ind,Jenks Gillem,A,Chattanooga,Ind,Bill McAllester,W,28,0
+1924-10-18,Samford,Ind,Jenks Gillem,A,Auburn,Southern,Boozer Pitts,L,0,17
+1924-10-25,Samford,Ind,Jenks Gillem,A,Mercer,Ind,,L,5,14
+1924-11-08,Samford,Ind,Jenks Gillem,H,Oglethorpe,Ind,Jim Robertson,L,7,32
+1924-11-14,Samford,Ind,Jenks Gillem,A,Millsaps,Ind,Zimmie Zimoski,L,0,14
+1924-11-22,Samford,Ind,Jenks Gillem,H,Birmingham-Southern,Ind,Red Drew,T,0,0
+1924-10-18,Army,Ind,John McEwan,H,Notre Dame,Ind,Knute Rockne,L,7,13
+1924-10-25,Army,Ind,John McEwan,H,Boston University,Ind,Charles Whelan,W,20,0
+1924-11-01,Army,Ind,John McEwan,A,Yale,Ind,Tad Jones,T,7,7
+1924-11-08,Army,Ind,John McEwan,H,Florida,Southern,J.A. Van Fleet,W,14,7
+1924-11-15,Army,Ind,John McEwan,H,Columbia,Ind,Percy Haughton,T,14,14
+1924-11-29,Army,Ind,John McEwan,A,Navy,Ind,,W,12,0
+1924-10-18,Dartmouth,Ind,Jesse Hawley,A,Yale,Ind,Tad Jones,T,14,14
+1924-10-25,Dartmouth,Ind,Jesse Hawley,A,Harvard,Ind,Robert Fisher,W,6,0
+1924-11-01,Dartmouth,Ind,Jesse Hawley,H,Brown,Ind,Edward Robinson,W,10,3
+1924-11-08,Dartmouth,Ind,Jesse Hawley,H,Boston University,Ind,Charles Whelan,W,38,0
+1924-11-15,Dartmouth,Ind,Jesse Hawley,N,Cornell,Ind,Gilmour Dobie,W,27,14
+1924-09-27,Auburn,Southern,Boozer Pitts,A,Birmingham-Southern,Ind,Red Drew,W,7,0
+1924-10-04,Auburn,Southern,Boozer Pitts,H,Clemson,Southern,Bud Saunders,W,13,0
+1924-10-11,Auburn,Southern,Boozer Pitts,A,Virginia Tech,Southern,B.C. Cubbage,T,0,0
+1924-10-18,Auburn,Southern,Boozer Pitts,H,Samford,Ind,Jenks Gillem,W,17,0
+1924-10-25,Auburn,Southern,Boozer Pitts,H,LSU,Southern,Mike Donahue,W,3,0
+1924-11-01,Auburn,Southern,Boozer Pitts,A,Vanderbilt,Southern,Dan McGugin,L,0,13
+1924-11-08,Auburn,Southern,Boozer Pitts,H,Tulane,Southern,Clark Shaughnessy,L,6,14
+1924-11-15,Auburn,Southern,Boozer Pitts,N,Georgia,Southern,George Woodruff,L,0,6
+1924-11-27,Auburn,Southern,Boozer Pitts,A,Georgia Tech,Southern,William Alexander,L,0,7
+1924-10-18,Northwestern,Western,Glenn Thistlethwaite,H,Purdue,Western,James Phelan,L,3,7
+1924-11-01,Northwestern,Western,Glenn Thistlethwaite,H,Indiana,Western,William Ingram,W,17,7
+1924-11-08,Northwestern,Western,Glenn Thistlethwaite,A,Michigan,Western,George Little,L,0,27
+1924-11-15,Northwestern,Western,Glenn Thistlethwaite,A,Chicago,Western,Amos Alonzo Stagg,L,0,3
+1924-11-22,Northwestern,Western,Glenn Thistlethwaite,H,Notre Dame,Ind,Knute Rockne,L,6,13
+1924-10-04,Kansas,MVIAA,Potsy Clark,H,Oklahoma State,SWC,John Maulbetsch,L,0,3
+1924-10-11,Kansas,MVIAA,Potsy Clark,H,Iowa State,MVIAA,Sam Willaman,L,10,13
+1924-10-18,Kansas,MVIAA,Potsy Clark,A,Kansas State,MVIAA,Charlie Bachman,L,0,6
+1924-10-25,Kansas,MVIAA,Potsy Clark,H,Nebraska,MVIAA,Fred Dawson,L,7,14
+1924-11-01,Kansas,MVIAA,Potsy Clark,A,Washington (MO),MVIAA,Byron Wimberly,W,48,0
+1924-11-08,Kansas,MVIAA,Potsy Clark,A,Drake,MVIAA,Ossie Solem,T,6,6
+1924-11-15,Kansas,MVIAA,Potsy Clark,H,Oklahoma,MVIAA,Bennie Owen,W,20,0
+1924-11-27,Kansas,MVIAA,Potsy Clark,A,Missouri,MVIAA,Gwinn Henry,L,0,14
+1924-10-04,William & Mary,Ind,J. Wilder Tasker,A,Navy,Ind,,L,7,14
+1924-10-11,William & Mary,Ind,J. Wilder Tasker,A,Syracuse,Ind,Chick Meehan,L,7,24
+1924-11-01,William & Mary,Ind,J. Wilder Tasker,N,Duke,Ind,Howard Jones,W,21,3
+1924-11-27,William & Mary,Ind,J. Wilder Tasker,A,Richmond,Ind,Frank Dobson,W,20,6
+1924-10-11,LSU,Southern,Mike Donahue,A,Indiana,Western,William Ingram,W,20,14
+1924-10-18,LSU,Southern,Mike Donahue,A,Rice,SWC,John Heisman,W,12,0
+1924-10-25,LSU,Southern,Mike Donahue,A,Auburn,Southern,Boozer Pitts,L,0,3
+1924-11-01,LSU,Southern,Mike Donahue,N,Arkansas,SWC,Francis Schmidt,L,7,10
+1924-11-08,LSU,Southern,Mike Donahue,A,Georgia Tech,Southern,William Alexander,L,7,28
+1924-11-27,LSU,Southern,Mike Donahue,H,Tulane,Southern,Clark Shaughnessy,L,0,13
+1924-10-18,Pennsylvania,Ind,Lou Young,H,Columbia,Ind,Percy Haughton,W,10,7
+1924-10-25,Pennsylvania,Ind,Lou Young,H,Virginia,Southern,Greasy Neale,W,27,0
+1924-11-15,Pennsylvania,Ind,Lou Young,H,Penn State,Ind,Hugo Bezdek,T,0,0
+1924-11-27,Pennsylvania,Ind,Lou Young,H,Cornell,Ind,Gilmour Dobie,W,20,0
+1925-01-01,Pennsylvania,Ind,Lou Young,A,California,PCC,Andy Smith,L,0,14
+1924-10-11,Iowa,Western,Burton Ingwersen,H,Ohio State,Western,John Wilce,T,0,0
+1924-10-25,Iowa,Western,Burton Ingwersen,H,Minnesota,Western,William Spaulding,W,13,0
+1924-11-01,Iowa,Western,Burton Ingwersen,A,Illinois,Western,Robert Zuppke,L,0,36
+1924-11-15,Iowa,Western,Burton Ingwersen,A,Wisconsin,Western,Jack Ryan,W,21,7
+1924-11-22,Iowa,Western,Burton Ingwersen,A,Michigan,Western,George Little,W,9,2
+1924-10-18,Columbia,Ind,Percy Haughton,A,Pennsylvania,Ind,Lou Young,L,7,10
+1924-11-01,Columbia,Ind,Percy Haughton,A,Cornell,Ind,Gilmour Dobie,L,0,14
+1924-11-15,Columbia,Ind,Percy Haughton,A,Army,Ind,John McEwan,T,14,14
+1924-11-27,Columbia,Ind,Percy Haughton,H,Syracuse,Ind,Chick Meehan,L,6,9
+1924-10-17,Texas,SWC,Edward Stewart,A,SMU,SWC,Ray Morrison,L,6,10
+1924-10-25,Texas,SWC,Edward Stewart,H,Florida,Southern,J.A. Van Fleet,T,7,7
+1924-11-01,Texas,SWC,Edward Stewart,A,Rice,SWC,John Heisman,L,6,19
+1924-11-08,Texas,SWC,Edward Stewart,H,Baylor,SWC,Frank Bridges,L,10,28
+1924-11-15,Texas,SWC,Edward Stewart,A,Texas Christian,SWC,Madison Bell,W,13,0
+1924-11-27,Texas,SWC,Edward Stewart,H,Texas A&M,SWC,Dana Bible,W,7,0
+1924-10-11,Texas Christian,SWC,Madison Bell,H,Oklahoma State,SWC,John Maulbetsch,W,17,10
+1924-10-25,Texas Christian,SWC,Madison Bell,H,Rice,SWC,John Heisman,L,3,7
+1924-11-01,Texas Christian,SWC,Madison Bell,H,SMU,SWC,Ray Morrison,L,0,6
+1924-11-08,Texas Christian,SWC,Madison Bell,A,Texas A&M,SWC,Dana Bible,L,0,28
+1924-11-15,Texas Christian,SWC,Madison Bell,H,Texas,SWC,Edward Stewart,L,0,13
+1924-11-27,Texas Christian,SWC,Madison Bell,A,Arkansas,SWC,Francis Schmidt,L,0,20
+1924-09-27,Richmond,Ind,Frank Dobson,A,Virginia Tech,Southern,B.C. Cubbage,L,0,28
+1924-10-04,Richmond,Ind,Frank Dobson,A,Davidson,Ind,Monk Younger,L,0,7
+1924-10-11,Richmond,Ind,Frank Dobson,A,Maryland,Southern,Curley Byrd,L,0,38
+1924-10-18,Richmond,Ind,Frank Dobson,H,Duke,Ind,Howard Jones,L,0,14
+1924-11-27,Richmond,Ind,Frank Dobson,H,William & Mary,Ind,J. Wilder Tasker,L,6,20
+1924-10-18,Oregon,PCC,Joseph Maddock,A,Stanford,PCC,Pop Warner,L,13,28
+1924-10-25,Oregon,PCC,Joseph Maddock,H,Whitman,Ind,,W,40,6
+1924-11-01,Oregon,PCC,Joseph Maddock,H,Washington,PCC,Enoch Bagshaw,W,7,3
+1924-11-08,Oregon,PCC,Joseph Maddock,A,Idaho,PCC,Robert Mathews,L,0,13
+1924-11-15,Oregon,PCC,Joseph Maddock,H,Washington State,PCC,Albert Exendine,T,7,7
+1924-11-22,Oregon,PCC,Joseph Maddock,A,Oregon State,PCC,Paul Schissler,W,7,3
+1924-10-11,Brown,Ind,Edward Robinson,A,Chicago,Western,Amos Alonzo Stagg,L,7,19
+1924-10-18,Brown,Ind,Edward Robinson,H,Boston University,Ind,Charles Whelan,W,35,0
+1924-10-25,Brown,Ind,Edward Robinson,A,Yale,Ind,Tad Jones,L,3,13
+1924-11-01,Brown,Ind,Edward Robinson,A,Dartmouth,Ind,Jesse Hawley,L,3,10
+1924-11-15,Brown,Ind,Edward Robinson,A,Harvard,Ind,Robert Fisher,W,7,0
+1924-11-29,Brown,Ind,Edward Robinson,H,Colgate,Ind,Dick Harlow,W,20,6
+1924-09-27,Erskine,Ind,,A,South Carolina,Southern,Sol Metzger,L,0,47
+1924-10-11,Erskine,Ind,,A,Newberry,Ind,Dutch McLean,L,0,14
+1924-10-25,Erskine,Ind,,A,Wofford,Ind,Rip Major,L,0,3
+1924-11-08,Erskine,Ind,,H,Presbyterian,Ind,Walter Johnson,L,0,7
+1924-11-22,Erskine,Ind,,H,Citadel,Ind,Carl Prause,L,0,7
+1924-10-25,Tennessee,Southern,Mark Banks,N,Mississippi State,Southern,Earl Able,L,2,7
+1924-11-01,Tennessee,Southern,Mark Banks,A,Georgia,Southern,George Woodruff,L,0,33
+1924-11-08,Tennessee,Southern,Mark Banks,H,Centre,Ind,Harold Ofstie,L,0,32
+1924-11-15,Tennessee,Southern,Mark Banks,A,Tulane,Southern,Clark Shaughnessy,L,7,26
+1924-11-27,Tennessee,Southern,Mark Banks,H,Kentucky,Southern,Fred Murphy,L,6,27
+1924-10-04,Oregon State,PCC,Paul Schissler,A,Whitman,Ind,,W,41,0
+1924-10-18,Oregon State,PCC,Paul Schissler,H,USC,PCC,Gus Henderson,L,3,17
+1924-10-25,Oregon State,PCC,Paul Schissler,A,Washington,PCC,Enoch Bagshaw,L,3,6
+1924-11-01,Oregon State,PCC,Paul Schissler,H,Idaho,PCC,Robert Mathews,L,0,22
+1924-11-08,Oregon State,PCC,Paul Schissler,H,Washington State,PCC,Albert Exendine,W,14,13
+1924-11-22,Oregon State,PCC,Paul Schissler,H,Oregon,PCC,Joseph Maddock,L,3,7
+1924-11-27,Oregon State,PCC,Paul Schissler,A,Nebraska,MVIAA,Fred Dawson,L,0,14
+1924-10-04,Alabama,Southern,Wallace Wade,A,Furman,Ind,,W,20,0
+1924-10-11,Alabama,Southern,Wallace Wade,H,Mississippi College,Ind,John King,W,51,0
+1924-10-18,Alabama,Southern,Wallace Wade,H,Sewanee,Southern,M.S. Bennett,W,14,0
+1924-10-25,Alabama,Southern,Wallace Wade,A,Georgia Tech,Southern,William Alexander,W,14,0
+1924-11-01,Alabama,Southern,Wallace Wade,H,Ole Miss,Southern,,W,61,0
+1924-11-08,Alabama,Southern,Wallace Wade,H,Kentucky,Southern,Fred Murphy,W,42,7
+1924-11-15,Alabama,Southern,Wallace Wade,H,Centre,Ind,Harold Ofstie,L,0,17
+1924-11-27,Alabama,Southern,Wallace Wade,H,Georgia,Southern,George Woodruff,W,33,0
+1924-10-04,Purdue,Western,James Phelan,A,Ohio State,Western,John Wilce,L,0,7
+1924-10-18,Purdue,Western,James Phelan,A,Northwestern,Western,Glenn Thistlethwaite,W,7,3
+1924-11-01,Purdue,Western,James Phelan,A,Chicago,Western,Amos Alonzo Stagg,L,6,19
+1924-11-22,Purdue,Western,James Phelan,H,Indiana,Western,William Ingram,W,26,7
+1924-10-04,Nebraska,MVIAA,Fred Dawson,H,Illinois,Western,Robert Zuppke,L,6,9
+1924-10-11,Nebraska,MVIAA,Fred Dawson,A,Oklahoma,MVIAA,Bennie Owen,L,7,14
+1924-10-18,Nebraska,MVIAA,Fred Dawson,H,Colgate,Ind,Dick Harlow,W,33,7
+1924-10-25,Nebraska,MVIAA,Fred Dawson,A,Kansas,MVIAA,Potsy Clark,W,14,7
+1924-11-01,Nebraska,MVIAA,Fred Dawson,H,Missouri,MVIAA,Gwinn Henry,W,14,6
+1924-11-15,Nebraska,MVIAA,Fred Dawson,A,Notre Dame,Ind,Knute Rockne,L,6,34
+1924-11-22,Nebraska,MVIAA,Fred Dawson,A,Kansas State,MVIAA,Charlie Bachman,W,24,0
+1924-11-27,Nebraska,MVIAA,Fred Dawson,H,Oregon State,PCC,Paul Schissler,W,14,0
+1924-10-11,West Virginia,Ind,,A,Pitt,Ind,Jock Sutherland,L,7,14
+1924-10-25,West Virginia,Ind,,N,Centre,Ind,Harold Ofstie,W,13,6
+1924-11-08,West Virginia,Ind,,H,Colgate,Ind,Dick Harlow,W,34,2
+1924-11-15,West Virginia,Ind,,N,Washington & Lee,Southern,Jimmy DeHart,W,6,0
+1924-11-27,West Virginia,Ind,,H,Washington & Jefferson,Ind,D.C. Morrow,W,40,7
+1924-10-04,Harvard,Ind,Robert Fisher,H,Virginia,Southern,Greasy Neale,W,14,0
+1924-10-25,Harvard,Ind,Robert Fisher,H,Dartmouth,Ind,Jesse Hawley,L,0,6
+1924-11-01,Harvard,Ind,Robert Fisher,H,Boston University,Ind,Charles Whelan,W,13,0
+1924-11-08,Harvard,Ind,Robert Fisher,H,Princeton,Ind,,L,0,34
+1924-11-15,Harvard,Ind,Robert Fisher,H,Brown,Ind,Edward Robinson,L,0,7
+1924-11-22,Harvard,Ind,Robert Fisher,A,Yale,Ind,Tad Jones,L,6,19
+1924-10-04,Oklahoma State,SWC,John Maulbetsch,A,Kansas,MVIAA,Potsy Clark,W,3,0
+1924-10-11,Oklahoma State,SWC,John Maulbetsch,A,Texas Christian,SWC,Madison Bell,L,10,17
+1924-11-01,Oklahoma State,SWC,John Maulbetsch,H,Oklahoma,MVIAA,Bennie Owen,W,6,0
+1924-11-21,Oklahoma State,SWC,John Maulbetsch,H,Arkansas,SWC,Francis Schmidt,W,20,0
+1924-11-29,Oklahoma State,SWC,John Maulbetsch,A,SMU,SWC,Ray Morrison,T,13,13
+1924-10-04,Colorado,RMC,Myron Witham,H,Western State,Ind,A.C. Kruse,W,31,0
+1924-10-11,Colorado,RMC,Myron Witham,H,Regis (CO),Ind,,W,39,0
+1924-10-18,Colorado,RMC,Myron Witham,A,Colorado College,RMC,Tefler Meade,W,26,0
+1924-10-25,Colorado,RMC,Myron Witham,A,Wyoming,RMC,William Dietz,W,21,0
+1924-11-01,Colorado,RMC,Myron Witham,H,Utah,RMC,Thomas Fitzpatrick,W,3,0
+1924-11-08,Colorado,RMC,Myron Witham,H,Colorado Mines,RMC,William Courtright,W,38,0
+1924-11-15,Colorado,RMC,Myron Witham,A,Denver,RMC,,T,0,0
+1924-11-22,Colorado,RMC,Myron Witham,H,Colorado State,RMC,Harry Hughes,W,36,0
+1924-09-27,Birmingham-Southern,Ind,Red Drew,H,Auburn,Southern,Boozer Pitts,L,0,7
+1924-10-04,Birmingham-Southern,Ind,Red Drew,A,Vanderbilt,Southern,Dan McGugin,L,0,61
+1924-10-11,Birmingham-Southern,Ind,Red Drew,H,Millsaps,Ind,Zimmie Zimoski,W,6,0
+1924-10-25,Birmingham-Southern,Ind,Red Drew,A,Mississippi College,Ind,John King,W,13,6
+1924-11-08,Birmingham-Southern,Ind,Red Drew,A,Chattanooga,Ind,Bill McAllester,L,7,20
+1924-11-22,Birmingham-Southern,Ind,Red Drew,A,Samford,Ind,Jenks Gillem,T,0,0
+1924-09-27,Oglethorpe,Ind,Jim Robertson,A,Georgia Tech,Southern,William Alexander,L,0,19
+1924-10-11,Oglethorpe,Ind,Jim Robertson,A,Citadel,Ind,Carl Prause,W,10,7
+1924-10-17,Oglethorpe,Ind,Jim Robertson,A,Wofford,Ind,Rip Major,W,27,0
+1924-11-01,Oglethorpe,Ind,Jim Robertson,H,Sewanee,Southern,M.S. Bennett,W,7,0
+1924-11-08,Oglethorpe,Ind,Jim Robertson,A,Samford,Ind,Jenks Gillem,W,32,7
+1924-11-22,Oglethorpe,Ind,Jim Robertson,H,Mercer,Ind,,W,25,0
+1924-11-27,Oglethorpe,Ind,Jim Robertson,A,Chattanooga,Ind,Bill McAllester,W,20,2
+1924-10-11,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,William Courtright,W,17,0
+1924-11-01,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,W,17,13
+1924-11-08,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,Tefler Meade,L,6,7
+1924-11-15,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,George Cooper,W,22,7
+1924-11-22,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,L,0,36
+1924-11-29,Colorado State,RMC,Harry Hughes,A,Denver,RMC,,W,19,0
+1924-10-18,Rice,SWC,John Heisman,H,LSU,Southern,Mike Donahue,L,0,12
+1924-10-25,Rice,SWC,John Heisman,A,Texas Christian,SWC,Madison Bell,W,7,3
+1924-11-01,Rice,SWC,John Heisman,H,Texas,SWC,Edward Stewart,W,19,6
+1924-11-15,Rice,SWC,John Heisman,A,Texas A&M,SWC,Dana Bible,L,6,13
+1924-11-27,Rice,SWC,John Heisman,H,Baylor,SWC,Frank Bridges,L,9,17
+1924-10-11,Texas A&M,SWC,Dana Bible,H,Sewanee,Southern,M.S. Bennett,W,7,0
+1924-10-25,Texas A&M,SWC,Dana Bible,A,SMU,SWC,Ray Morrison,T,7,7
+1924-11-01,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Frank Bridges,L,7,15
+1924-11-08,Texas A&M,SWC,Dana Bible,H,Texas Christian,SWC,Madison Bell,W,28,0
+1924-11-15,Texas A&M,SWC,Dana Bible,H,Rice,SWC,John Heisman,W,13,6
+1924-11-27,Texas A&M,SWC,Dana Bible,A,Texas,SWC,Edward Stewart,L,0,7
+1924-09-27,Davidson,Ind,Monk Younger,A,Presbyterian,Ind,Walter Johnson,W,15,3
+1924-10-04,Davidson,Ind,Monk Younger,H,Richmond,Ind,Frank Dobson,W,7,0
+1924-10-22,Davidson,Ind,Monk Younger,N,Furman,Ind,,L,0,6
+1924-11-01,Davidson,Ind,Monk Younger,N,North Carolina State,Southern,,T,10,10
+1924-11-08,Davidson,Ind,Monk Younger,N,Clemson,Southern,Bud Saunders,W,7,0
+1924-11-15,Davidson,Ind,Monk Younger,H,North Carolina,Southern,William Fetzer,L,0,6
+1924-11-29,Davidson,Ind,Monk Younger,A,Duke,Ind,Howard Jones,W,20,13
+1924-12-06,Davidson,Ind,Monk Younger,H,Wofford,Ind,Rip Major,W,7,0
+1924-10-11,Washington (MO),MVIAA,Byron Wimberly,H,Grinnell,MVIAA,Mike Hyland,L,0,14
+1924-11-01,Washington (MO),MVIAA,Byron Wimberly,H,Kansas,MVIAA,Potsy Clark,L,0,48
+1924-11-15,Washington (MO),MVIAA,Byron Wimberly,A,Missouri,MVIAA,Gwinn Henry,L,0,35
+1924-11-22,Washington (MO),MVIAA,Byron Wimberly,H,Oklahoma,MVIAA,Bennie Owen,L,0,7
+1924-11-27,Washington (MO),MVIAA,Byron Wimberly,H,Mississippi State,Southern,Earl Able,W,12,6
+1924-10-04,Chicago,Western,Amos Alonzo Stagg,H,Missouri,MVIAA,Gwinn Henry,L,0,3
+1924-10-11,Chicago,Western,Amos Alonzo Stagg,H,Brown,Ind,Edward Robinson,W,19,7
+1924-10-18,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,William Ingram,W,23,0
+1924-10-25,Chicago,Western,Amos Alonzo Stagg,A,Ohio State,Western,John Wilce,T,3,3
+1924-11-01,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,James Phelan,W,19,6
+1924-11-08,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,T,21,21
+1924-11-15,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Glenn Thistlethwaite,W,3,0
+1924-11-22,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Jack Ryan,T,0,0
+1924-10-18,Colgate,Ind,Dick Harlow,A,Nebraska,MVIAA,Fred Dawson,L,7,33
+1924-11-08,Colgate,Ind,Dick Harlow,A,West Virginia,Ind,,L,2,34
+1924-11-22,Colgate,Ind,Dick Harlow,A,Syracuse,Ind,Chick Meehan,L,3,7
+1924-11-29,Colgate,Ind,Dick Harlow,A,Brown,Ind,Edward Robinson,L,6,20
+1924-10-18,Minnesota,Western,William Spaulding,A,Wisconsin,Western,Jack Ryan,T,7,7
+1924-10-25,Minnesota,Western,William Spaulding,A,Iowa,Western,Burton Ingwersen,L,0,13
+1924-11-01,Minnesota,Western,William Spaulding,H,Michigan,Western,George Little,L,0,13
+1924-11-08,Minnesota,Western,William Spaulding,H,Iowa State,MVIAA,Sam Willaman,T,7,7
+1924-11-15,Minnesota,Western,William Spaulding,H,Illinois,Western,Robert Zuppke,W,20,7
+1924-11-22,Minnesota,Western,William Spaulding,H,Vanderbilt,Southern,Dan McGugin,L,0,16
+1924-10-18,Ole Miss,Southern,,N,Mississippi State,Southern,Earl Able,L,0,20
+1924-10-25,Ole Miss,Southern,,A,Arkansas,SWC,Francis Schmidt,L,0,20
+1924-11-01,Ole Miss,Southern,,A,Alabama,Southern,Wallace Wade,L,0,61
+1924-11-08,Ole Miss,Southern,,N,Sewanee,Southern,M.S. Bennett,L,0,21
+1924-11-15,Ole Miss,Southern,,A,Furman,Ind,,L,2,7
+1924-11-22,Ole Miss,Southern,,H,Mississippi College,Ind,John King,W,10,6
+1924-11-27,Ole Miss,Southern,,A,Millsaps,Ind,Zimmie Zimoski,W,7,0
+1924-09-27,Duke,Ind,Howard Jones,A,North Carolina State,Southern,,L,0,14
+1924-10-11,Duke,Ind,Howard Jones,A,North Carolina,Southern,William Fetzer,L,0,6
+1924-10-18,Duke,Ind,Howard Jones,A,Richmond,Ind,Frank Dobson,W,14,0
+1924-11-01,Duke,Ind,Howard Jones,N,William & Mary,Ind,J. Wilder Tasker,L,3,21
+1924-11-11,Duke,Ind,Howard Jones,H,Wake Forest,Ind,Hank Garrity,L,0,32
+1924-11-22,Duke,Ind,Howard Jones,H,Wofford,Ind,Rip Major,W,12,0
+1924-11-29,Duke,Ind,Howard Jones,H,Davidson,Ind,Monk Younger,L,13,20
+1924-10-11,Sewanee,Southern,M.S. Bennett,A,Texas A&M,SWC,Dana Bible,L,0,7
+1924-10-18,Sewanee,Southern,M.S. Bennett,A,Alabama,Southern,Wallace Wade,L,0,14
+1924-10-25,Sewanee,Southern,M.S. Bennett,A,Kentucky,Southern,Fred Murphy,L,0,7
+1924-11-01,Sewanee,Southern,M.S. Bennett,A,Oglethorpe,Ind,Jim Robertson,L,0,7
+1924-11-08,Sewanee,Southern,M.S. Bennett,N,Ole Miss,Southern,,W,21,0
+1924-11-15,Sewanee,Southern,M.S. Bennett,A,South Carolina,Southern,Sol Metzger,W,10,0
+1924-11-29,Sewanee,Southern,M.S. Bennett,A,Vanderbilt,Southern,Dan McGugin,W,16,0
+1924-10-25,Centre,Ind,Harold Ofstie,N,West Virginia,Ind,,L,6,13
+1924-11-01,Centre,Ind,Harold Ofstie,A,Kentucky,Southern,Fred Murphy,W,7,0
+1924-11-08,Centre,Ind,Harold Ofstie,A,Tennessee,Southern,Mark Banks,W,32,0
+1924-11-15,Centre,Ind,Harold Ofstie,A,Alabama,Southern,Wallace Wade,W,17,0
+1924-11-29,Centre,Ind,Harold Ofstie,H,Georgia,Southern,George Woodruff,W,14,7
+1924-10-04,Navy,Ind,,H,William & Mary,Ind,J. Wilder Tasker,W,14,7
+1924-10-18,Navy,Ind,,A,Princeton,Ind,,L,14,17
+1924-11-01,Navy,Ind,,H,Penn State,Ind,Hugo Bezdek,L,0,6
+1924-11-29,Navy,Ind,,H,Army,Ind,John McEwan,L,0,12
+1924-09-27,Regis (CO),Ind,,H,Colorado Mines,RMC,William Courtright,L,0,7
+1924-10-04,Regis (CO),Ind,,A,Denver,RMC,,L,0,20
+1924-10-11,Regis (CO),Ind,,A,Colorado,RMC,Myron Witham,L,0,39
+1924-10-18,Regis (CO),Ind,,A,Western State,Ind,A.C. Kruse,L,0,20
+1924-11-01,Regis (CO),Ind,,A,Northern Colorado,RMC,George Cooper,L,7,20
+1924-11-08,Regis (CO),Ind,,H,Northern Colorado,RMC,George Cooper,W,27,7
+1924-11-22,Regis (CO),Ind,,A,Western State,Ind,A.C. Kruse,L,0,12
+1924-10-04,Tulane,Southern,Clark Shaughnessy,H,Mississippi College,Ind,John King,W,32,7
+1924-10-18,Tulane,Southern,Clark Shaughnessy,H,Vanderbilt,Southern,Dan McGugin,W,21,13
+1924-11-01,Tulane,Southern,Clark Shaughnessy,H,Mississippi State,Southern,Earl Able,L,6,14
+1924-11-08,Tulane,Southern,Clark Shaughnessy,A,Auburn,Southern,Boozer Pitts,W,14,6
+1924-11-15,Tulane,Southern,Clark Shaughnessy,H,Tennessee,Southern,Mark Banks,W,26,7
+1924-11-27,Tulane,Southern,Clark Shaughnessy,A,LSU,Southern,Mike Donahue,W,13,0
+1924-11-01,Cornell,Ind,Gilmour Dobie,H,Columbia,Ind,Percy Haughton,W,14,0
+1924-11-15,Cornell,Ind,Gilmour Dobie,N,Dartmouth,Ind,Jesse Hawley,L,14,27
+1924-11-27,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Lou Young,L,0,20
+1924-10-04,Ohio State,Western,John Wilce,H,Purdue,Western,James Phelan,W,7,0
+1924-10-11,Ohio State,Western,John Wilce,A,Iowa,Western,Burton Ingwersen,T,0,0
+1924-10-25,Ohio State,Western,John Wilce,H,Chicago,Western,Amos Alonzo Stagg,T,3,3
+1924-11-08,Ohio State,Western,John Wilce,H,Indiana,Western,William Ingram,L,7,12
+1924-11-15,Ohio State,Western,John Wilce,H,Michigan,Western,George Little,L,6,16
+1924-11-22,Ohio State,Western,John Wilce,A,Illinois,Western,Robert Zuppke,L,0,7
+1924-10-04,Drake,MVIAA,Ossie Solem,A,Utah,RMC,Thomas Fitzpatrick,W,33,14
+1924-10-18,Drake,MVIAA,Ossie Solem,H,Grinnell,MVIAA,Mike Hyland,W,13,0
+1924-10-25,Drake,MVIAA,Ossie Solem,H,Oklahoma,MVIAA,Bennie Owen,W,28,0
+1924-11-08,Drake,MVIAA,Ossie Solem,H,Kansas,MVIAA,Potsy Clark,T,6,6
+1924-11-15,Drake,MVIAA,Ossie Solem,A,Kansas State,MVIAA,Charlie Bachman,W,7,6
+1924-11-22,Drake,MVIAA,Ossie Solem,A,Iowa State,MVIAA,Sam Willaman,L,0,10
+1924-11-27,Drake,MVIAA,Ossie Solem,A,Florida,Southern,J.A. Van Fleet,L,0,10

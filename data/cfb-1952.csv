@@ -1,0 +1,989 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1952-09-27,North Carolina,Southern,Carl Snavely,H,Texas,SWC,Edwin Price,L,7,28
+1952-10-18,North Carolina,Southern,Carl Snavely,H,Wake Forest,Southern,Tom Rogers,L,7,9
+1952-10-25,North Carolina,Southern,Carl Snavely,A,Notre Dame,Ind,Frank Leahy,L,14,34
+1952-11-01,North Carolina,Southern,Carl Snavely,A,Tennessee,SEC,Bob Neyland,L,14,41
+1952-11-08,North Carolina,Southern,Carl Snavely,H,Virginia,Ind,Arthur Guepe,L,7,34
+1952-11-15,North Carolina,Southern,Carl Snavely,A,South Carolina,Southern,Rex Enright,W,27,19
+1952-11-22,North Carolina,Southern,Carl Snavely,H,Duke,Southern,Bill Murray,L,0,34
+1952-11-28,North Carolina,Southern,Carl Snavely,A,Miami (FL),Ind,Andy Gustafson,W,34,7
+1952-09-27,Indiana,Western,Bernie Crimmins,A,Ohio State,Western,Woody Hayes,L,13,33
+1952-10-04,Indiana,Western,Bernie Crimmins,H,Iowa,Western,Forest Evashevski,W,20,13
+1952-10-11,Indiana,Western,Bernie Crimmins,A,Michigan,Western,Bennie Oosterbaan,L,13,28
+1952-10-18,Indiana,Western,Bernie Crimmins,H,Temple,Ind,Al Kawal,W,33,0
+1952-10-25,Indiana,Western,Bernie Crimmins,A,Northwestern,Western,Robert Voigts,L,13,23
+1952-11-01,Indiana,Western,Bernie Crimmins,A,Pitt,Ind,Red Dawson,L,7,28
+1952-11-08,Indiana,Western,Bernie Crimmins,H,Michigan State,Ind,Biggie Munn,L,14,41
+1952-11-15,Indiana,Western,Bernie Crimmins,H,Wisconsin,Western,Ivy Williamson,L,14,37
+1952-11-22,Indiana,Western,Bernie Crimmins,A,Purdue,Western,Stuart Holcomb,L,16,21
+1952-09-27,Iowa State,Big 7,Abe Stuber,A,Illinois,Western,Ray Eliot,L,7,33
+1952-10-04,Iowa State,Big 7,Abe Stuber,A,Nebraska,Big 7,William Glassford,L,0,16
+1952-10-11,Iowa State,Big 7,Abe Stuber,H,Kansas,Big 7,Jules Sikes,L,0,43
+1952-10-18,Iowa State,Big 7,Abe Stuber,H,Colorado,Big 7,Dallas Ward,L,12,21
+1952-10-25,Iowa State,Big 7,Abe Stuber,A,Missouri,Big 7,Don Faurot,L,0,19
+1952-11-01,Iowa State,Big 7,Abe Stuber,H,Oklahoma,Big 7,Bud Wilkinson,L,0,41
+1952-11-08,Iowa State,Big 7,Abe Stuber,H,Drake,Ind,Warren Gaer,W,55,7
+1952-11-22,Iowa State,Big 7,Abe Stuber,A,Kansas State,Big 7,Bill Meek,W,27,0
+1952-10-04,Fordham,Ind,Edward Danowski,A,Holy Cross,Ind,Edward Anderson,L,7,12
+1952-10-24,Fordham,Ind,Edward Danowski,A,Boston College,Ind,Mike Holovak,L,13,14
+1952-11-01,Fordham,Ind,Edward Danowski,H,Detroit Mercy,MVC,Dutch Clark,L,20,28
+1952-11-08,Fordham,Ind,Edward Danowski,H,Clemson,Ind,Frank Howard,T,12,12
+1952-11-15,Fordham,Ind,Edward Danowski,A,Temple,Ind,Al Kawal,W,33,6
+1952-11-22,Fordham,Ind,Edward Danowski,H,Syracuse,Ind,Ben Schwartzwalder,L,13,26
+1952-11-29,Fordham,Ind,Edward Danowski,N,New York University,Ind,Hugh Devore,W,45,0
+1952-09-20,Arizona State,BIAA,Clyde Smith,A,Hardin-Simmons,BIAA,Murray Evans,W,26,7
+1952-09-27,Arizona State,BIAA,Clyde Smith,H,Colorado State,Skyline,Robert Davis,W,40,14
+1952-10-04,Arizona State,BIAA,Clyde Smith,H,San Jose State,Ind,Robert Bronzan,L,14,21
+1952-10-18,Arizona State,BIAA,Clyde Smith,H,West Texas A&M,BIAA,Frank Kimbrough,W,48,14
+1952-10-25,Arizona State,BIAA,Clyde Smith,H,Houston,MVC,Clyde Lee,L,0,6
+1952-11-08,Arizona State,BIAA,Clyde Smith,A,Arizona,BIAA,Warren Woodson,W,20,18
+1952-11-22,Arizona State,BIAA,Clyde Smith,H,UTEP,BIAA,Mike Brumbelow,W,39,0
+1952-11-29,Arizona State,BIAA,Clyde Smith,H,Brigham Young,Skyline,Charles Atkinson,W,47,6
+1952-09-27,Furman,Southern,William Young,A,West Virginia,Southern,Art Lewis,W,22,14
+1952-10-04,Furman,Southern,William Young,H,South Carolina,Southern,Rex Enright,L,7,27
+1952-10-17,Furman,Southern,William Young,N,Citadel,Southern,Quinn Decker,T,7,7
+1952-10-25,Furman,Southern,William Young,A,Davidson,Southern,Bill Dole,W,14,13
+1952-11-22,Furman,Southern,William Young,H,Wake Forest,Southern,Tom Rogers,L,0,28
+1952-09-20,Utah,Skyline,Jack Curtice,H,Oregon State,PCC,Kip Taylor,L,7,14
+1952-09-27,Utah,Skyline,Jack Curtice,A,Idaho,PCC,Babe Curfman,T,21,21
+1952-10-04,Utah,Skyline,Jack Curtice,H,Arizona,BIAA,Warren Woodson,L,0,27
+1952-10-11,Utah,Skyline,Jack Curtice,H,Brigham Young,Skyline,Charles Atkinson,W,34,6
+1952-10-18,Utah,Skyline,Jack Curtice,A,Denver,Skyline,John Baker,W,35,0
+1952-10-25,Utah,Skyline,Jack Curtice,A,Wyoming,Skyline,Bowden Wyatt,W,27,21
+1952-11-01,Utah,Skyline,Jack Curtice,H,Colorado,Big 7,Dallas Ward,L,14,20
+1952-11-08,Utah,Skyline,Jack Curtice,A,Colorado State,Skyline,Robert Davis,W,14,6
+1952-11-15,Utah,Skyline,Jack Curtice,A,Santa Clara,Ind,Richard Gallagher,W,16,13
+1952-11-27,Utah,Skyline,Jack Curtice,H,Utah State,Skyline,John Roning,W,20,0
+1952-09-20,Wichita State,MVC,Bob Carlson,H,Boston University,Ind,Aldo Donelli,L,0,6
+1952-09-26,Wichita State,MVC,Bob Carlson,A,Detroit Mercy,MVC,Dutch Clark,L,7,22
+1952-10-11,Wichita State,MVC,Bob Carlson,H,Oklahoma State,MVC,Jennings Whitworth,L,21,35
+1952-10-25,Wichita State,MVC,Bob Carlson,A,Tulsa,MVC,John Brothers,L,0,28
+1952-11-01,Wichita State,MVC,Bob Carlson,H,Utah State,Skyline,John Roning,T,20,20
+1952-11-15,Wichita State,MVC,Bob Carlson,A,Drake,Ind,Warren Gaer,W,41,14
+1952-11-27,Wichita State,MVC,Bob Carlson,H,New Mexico State,BIAA,Joe Coleman,W,34,6
+1952-09-20,Villanova,Ind,Arthur Raimo,A,Kentucky,SEC,Bear Bryant,W,25,6
+1952-09-27,Villanova,Ind,Arthur Raimo,A,Clemson,Ind,Frank Howard,W,14,7
+1952-10-04,Villanova,Ind,Arthur Raimo,A,Detroit Mercy,MVC,Dutch Clark,W,21,7
+1952-10-11,Villanova,Ind,Arthur Raimo,H,Wake Forest,Southern,Tom Rogers,W,20,0
+1952-10-17,Villanova,Ind,Arthur Raimo,A,Boston College,Ind,Mike Holovak,W,28,7
+1952-11-08,Villanova,Ind,Arthur Raimo,A,Tulsa,MVC,John Brothers,L,6,42
+1952-11-22,Villanova,Ind,Arthur Raimo,H,Boston University,Ind,Aldo Donelli,W,51,6
+1952-09-20,Washington & Lee,Southern,Carl Wise,A,Duke,Southern,Bill Murray,L,0,34
+1952-09-27,Washington & Lee,Southern,Carl Wise,A,Davidson,Southern,Bill Dole,W,33,14
+1952-10-04,Washington & Lee,Southern,Carl Wise,A,George Washington,Southern,Bo Sherman,L,28,33
+1952-10-11,Washington & Lee,Southern,Carl Wise,A,Richmond,Southern,Edwin Merrick,W,21,20
+1952-10-18,Washington & Lee,Southern,Carl Wise,N,West Virginia,Southern,Art Lewis,L,13,31
+1952-10-25,Washington & Lee,Southern,Carl Wise,H,Virginia Tech,Southern,Frank Moseley,W,34,27
+1952-11-01,Washington & Lee,Southern,Carl Wise,A,Vanderbilt,SEC,Bill Edwards,L,7,67
+1952-11-08,Washington & Lee,Southern,Carl Wise,H,North Carolina State,Southern,Horace Hendrickson,L,14,25
+1952-11-22,Washington & Lee,Southern,Carl Wise,A,Virginia,Ind,Arthur Guepe,L,14,21
+1952-09-27,Syracuse,Ind,Ben Schwartzwalder,H,Boston University,Ind,Aldo Donelli,W,34,21
+1952-10-03,Syracuse,Ind,Ben Schwartzwalder,A,Temple,Ind,Al Kawal,W,27,0
+1952-10-11,Syracuse,Ind,Ben Schwartzwalder,H,Cornell,Ind,George James,W,26,6
+1952-10-18,Syracuse,Ind,Ben Schwartzwalder,A,Michigan State,Ind,Biggie Munn,L,7,48
+1952-10-25,Syracuse,Ind,Ben Schwartzwalder,H,Holy Cross,Ind,Edward Anderson,W,20,19
+1952-11-08,Syracuse,Ind,Ben Schwartzwalder,H,Penn State,Ind,Rip Engle,W,25,7
+1952-11-15,Syracuse,Ind,Ben Schwartzwalder,H,Colgate,Ind,Hal Lahar,W,20,14
+1952-11-22,Syracuse,Ind,Ben Schwartzwalder,A,Fordham,Ind,Edward Danowski,W,26,13
+1953-01-01,Syracuse,Ind,Ben Schwartzwalder,N,Alabama,SEC,Red Drew,L,6,61
+1952-09-27,Arizona,BIAA,Warren Woodson,H,New Mexico State,BIAA,Joe Coleman,W,62,12
+1952-10-04,Arizona,BIAA,Warren Woodson,A,Utah,Skyline,Jack Curtice,W,27,0
+1952-10-11,Arizona,BIAA,Warren Woodson,H,Colorado,Big 7,Dallas Ward,L,19,34
+1952-10-18,Arizona,BIAA,Warren Woodson,A,Marquette,Ind,Liz Blackbourn,L,7,37
+1952-10-25,Arizona,BIAA,Warren Woodson,H,Hardin-Simmons,BIAA,Murray Evans,W,13,12
+1952-11-01,Arizona,BIAA,Warren Woodson,A,New Mexico,Skyline,Dudley DeGroot,W,13,7
+1952-11-08,Arizona,BIAA,Warren Woodson,H,Arizona State,BIAA,Clyde Smith,L,18,20
+1952-11-15,Arizona,BIAA,Warren Woodson,A,UTEP,BIAA,Mike Brumbelow,W,55,7
+1952-11-22,Arizona,BIAA,Warren Woodson,H,Texas Tech,BIAA,DeWitt Weaver,L,14,19
+1952-09-20,Montana,Skyline,Eddie Chinske,H,Utah State,Skyline,John Roning,L,0,7
+1952-09-27,Montana,Skyline,Eddie Chinske,A,Wyoming,Skyline,Bowden Wyatt,L,0,14
+1952-10-04,Montana,Skyline,Eddie Chinske,H,Brigham Young,Skyline,Charles Atkinson,L,7,28
+1952-10-11,Montana,Skyline,Eddie Chinske,H,Denver,Skyline,John Baker,W,17,7
+1952-10-18,Montana,Skyline,Eddie Chinske,A,Colorado State,Skyline,Robert Davis,L,0,41
+1952-10-25,Montana,Skyline,Eddie Chinske,A,Oregon,PCC,Len Casanova,T,14,14
+1952-11-08,Montana,Skyline,Eddie Chinske,A,Idaho,PCC,Babe Curfman,L,0,27
+1952-11-14,Montana,Skyline,Eddie Chinske,A,San Jose State,Ind,Robert Bronzan,L,20,39
+1952-11-22,Montana,Skyline,Eddie Chinske,A,New Mexico,Skyline,Dudley DeGroot,L,6,12
+1952-09-20,Penn State,Ind,Rip Engle,H,Temple,Ind,Al Kawal,W,20,13
+1952-09-27,Penn State,Ind,Rip Engle,H,Purdue,Western,Stuart Holcomb,T,20,20
+1952-10-04,Penn State,Ind,Rip Engle,H,William & Mary,Southern,Jackie Freeman,W,35,23
+1952-10-11,Penn State,Ind,Rip Engle,A,West Virginia,Southern,Art Lewis,W,35,21
+1952-10-18,Penn State,Ind,Rip Engle,H,Nebraska,Big 7,William Glassford,W,10,0
+1952-10-25,Penn State,Ind,Rip Engle,A,Michigan State,Ind,Biggie Munn,L,7,34
+1952-11-01,Penn State,Ind,Rip Engle,A,Pennsylvania,Ind,George Munger,W,14,7
+1952-11-08,Penn State,Ind,Rip Engle,A,Syracuse,Ind,Ben Schwartzwalder,L,7,25
+1952-11-15,Penn State,Ind,Rip Engle,H,Rutgers,Ind,Harvey Harman,W,7,6
+1952-11-22,Penn State,Ind,Rip Engle,A,Pitt,Ind,Red Dawson,W,17,0
+1952-09-27,Princeton,Ind,Charles Caldwell,A,Columbia,Ind,Lou Little,W,14,0
+1952-10-04,Princeton,Ind,Charles Caldwell,H,Rutgers,Ind,Harvey Harman,W,61,19
+1952-10-11,Princeton,Ind,Charles Caldwell,H,Pennsylvania,Ind,George Munger,L,7,13
+1952-10-25,Princeton,Ind,Charles Caldwell,A,Cornell,Ind,George James,W,27,0
+1952-11-01,Princeton,Ind,Charles Caldwell,H,Brown,Ind,Alva Kelley,W,39,0
+1952-11-08,Princeton,Ind,Charles Caldwell,H,Harvard,Ind,Lloyd Jordan,W,41,21
+1952-11-15,Princeton,Ind,Charles Caldwell,A,Yale,Ind,Jordan Olivar,W,27,21
+1952-11-22,Princeton,Ind,Charles Caldwell,H,Dartmouth,Ind,DeOrmond McLaughry,W,33,0
+1952-09-20,Vanderbilt,SEC,Bill Edwards,H,Georgia,SEC,Wallace Butts,L,7,19
+1952-09-27,Vanderbilt,SEC,Bill Edwards,A,Virginia,Ind,Arthur Guepe,L,0,27
+1952-10-04,Vanderbilt,SEC,Bill Edwards,A,Northwestern,Western,Robert Voigts,T,20,20
+1952-10-11,Vanderbilt,SEC,Bill Edwards,H,Ole Miss,SEC,John Vaught,T,21,21
+1952-10-18,Vanderbilt,SEC,Bill Edwards,H,Florida,SEC,Bob Woodruff,W,20,13
+1952-10-25,Vanderbilt,SEC,Bill Edwards,A,Georgia Tech,SEC,Bobby Dodd,L,0,30
+1952-11-01,Vanderbilt,SEC,Bill Edwards,H,Washington & Lee,Southern,Carl Wise,W,67,7
+1952-11-07,Vanderbilt,SEC,Bill Edwards,A,Miami (FL),Ind,Andy Gustafson,W,9,0
+1952-11-15,Vanderbilt,SEC,Bill Edwards,A,Tulane,SEC,Raymond Wolf,L,7,16
+1952-11-29,Vanderbilt,SEC,Bill Edwards,H,Tennessee,SEC,Bob Neyland,L,0,46
+1952-09-20,Kentucky,SEC,Bear Bryant,H,Villanova,Ind,Arthur Raimo,L,6,25
+1952-09-27,Kentucky,SEC,Bear Bryant,H,Ole Miss,SEC,John Vaught,T,13,13
+1952-10-04,Kentucky,SEC,Bear Bryant,A,Texas A&M,SWC,Ray George,W,10,7
+1952-10-11,Kentucky,SEC,Bear Bryant,H,LSU,SEC,Gaynell Tinsley,L,7,34
+1952-10-18,Kentucky,SEC,Bear Bryant,A,Mississippi State,SEC,Murray Warmath,L,14,27
+1952-10-31,Kentucky,SEC,Bear Bryant,A,Miami (FL),Ind,Andy Gustafson,W,29,0
+1952-11-08,Kentucky,SEC,Bear Bryant,H,Tulane,SEC,Raymond Wolf,W,27,6
+1952-11-15,Kentucky,SEC,Bear Bryant,H,Clemson,Ind,Frank Howard,W,27,14
+1952-11-22,Kentucky,SEC,Bear Bryant,A,Tennessee,SEC,Bob Neyland,T,14,14
+1952-12-06,Kentucky,SEC,Bear Bryant,A,Florida,SEC,Bob Woodruff,L,0,27
+1952-09-20,California,PCC,Pappy Waldorf,H,Pacific,Ind,Ernie Jorge,W,34,13
+1952-09-27,California,PCC,Pappy Waldorf,H,Missouri,Big 7,Don Faurot,W,28,14
+1952-10-04,California,PCC,Pappy Waldorf,A,Minnesota,Western,Wesley Fesler,W,49,13
+1952-10-11,California,PCC,Pappy Waldorf,A,Oregon,PCC,Len Casanova,W,41,7
+1952-10-18,California,PCC,Pappy Waldorf,H,Santa Clara,Ind,Richard Gallagher,W,27,7
+1952-10-25,California,PCC,Pappy Waldorf,A,USC,PCC,Jess Hill,L,0,10
+1952-11-01,California,PCC,Pappy Waldorf,H,UCLA,PCC,Red Sanders,L,7,28
+1952-11-08,California,PCC,Pappy Waldorf,A,Washington,PCC,Howard Odell,L,7,22
+1952-11-15,California,PCC,Pappy Waldorf,H,Washington State,PCC,Alton Kircher,W,28,13
+1952-11-22,California,PCC,Pappy Waldorf,H,Stanford,PCC,Chuck Taylor,W,26,0
+1952-09-27,Florida,SEC,Bob Woodruff,A,Georgia Tech,SEC,Bobby Dodd,L,14,17
+1952-10-04,Florida,SEC,Bob Woodruff,H,Citadel,Southern,Quinn Decker,W,33,0
+1952-10-11,Florida,SEC,Bob Woodruff,H,Clemson,Ind,Frank Howard,W,54,13
+1952-10-18,Florida,SEC,Bob Woodruff,A,Vanderbilt,SEC,Bill Edwards,L,13,20
+1952-10-25,Florida,SEC,Bob Woodruff,N,Georgia,SEC,Wallace Butts,W,30,0
+1952-11-01,Florida,SEC,Bob Woodruff,H,Auburn,SEC,Ralph Jordan,W,31,21
+1952-11-15,Florida,SEC,Bob Woodruff,A,Tennessee,SEC,Bob Neyland,L,12,26
+1952-11-22,Florida,SEC,Bob Woodruff,H,Miami (FL),Ind,Andy Gustafson,W,43,6
+1952-12-06,Florida,SEC,Bob Woodruff,H,Kentucky,SEC,Bear Bryant,W,27,0
+1953-01-01,Florida,SEC,Bob Woodruff,N,Tulsa,MVC,John Brothers,W,14,13
+1952-09-20,Boston University,Ind,Aldo Donelli,A,Wichita State,MVC,Bob Carlson,W,6,0
+1952-09-27,Boston University,Ind,Aldo Donelli,A,Syracuse,Ind,Ben Schwartzwalder,L,21,34
+1952-10-04,Boston University,Ind,Aldo Donelli,A,Marquette,Ind,Liz Blackbourn,L,0,21
+1952-10-10,Boston University,Ind,Aldo Donelli,H,Miami (FL),Ind,Andy Gustafson,W,9,7
+1952-10-18,Boston University,Ind,Aldo Donelli,H,William & Mary,Southern,Jackie Freeman,W,33,28
+1952-11-01,Boston University,Ind,Aldo Donelli,H,Maryland,Ind,Jim Tatum,L,7,34
+1952-11-08,Boston University,Ind,Aldo Donelli,H,Temple,Ind,Al Kawal,T,14,14
+1952-11-15,Boston University,Ind,Aldo Donelli,H,New York University,Ind,Hugh Devore,W,14,7
+1952-11-22,Boston University,Ind,Aldo Donelli,A,Villanova,Ind,Arthur Raimo,L,6,51
+1952-09-20,Stanford,PCC,Chuck Taylor,H,Santa Clara,Ind,Richard Gallagher,W,28,13
+1952-09-27,Stanford,PCC,Chuck Taylor,A,Washington State,PCC,Alton Kircher,W,14,13
+1952-10-04,Stanford,PCC,Chuck Taylor,H,Michigan,Western,Bennie Oosterbaan,W,14,7
+1952-10-11,Stanford,PCC,Chuck Taylor,H,Oregon State,PCC,Kip Taylor,W,41,28
+1952-10-18,Stanford,PCC,Chuck Taylor,A,UCLA,PCC,Red Sanders,L,14,24
+1952-10-25,Stanford,PCC,Chuck Taylor,H,Washington,PCC,Howard Odell,L,14,27
+1952-11-01,Stanford,PCC,Chuck Taylor,H,San Jose State,Ind,Robert Bronzan,W,35,13
+1952-11-08,Stanford,PCC,Chuck Taylor,H,USC,PCC,Jess Hill,L,7,54
+1952-11-15,Stanford,PCC,Chuck Taylor,H,Oregon,PCC,Len Casanova,L,20,21
+1952-11-22,Stanford,PCC,Chuck Taylor,A,California,PCC,Pappy Waldorf,L,0,26
+1952-09-19,Washington State,PCC,Alton Kircher,A,USC,PCC,Jess Hill,L,7,35
+1952-09-27,Washington State,PCC,Alton Kircher,H,Stanford,PCC,Chuck Taylor,L,13,14
+1952-10-04,Washington State,PCC,Alton Kircher,A,Baylor,SWC,George Sauer,L,7,31
+1952-10-18,Washington State,PCC,Alton Kircher,A,Ohio State,Western,Woody Hayes,L,7,35
+1952-10-25,Washington State,PCC,Alton Kircher,H,Oregon State,PCC,Kip Taylor,W,33,20
+1952-11-01,Washington State,PCC,Alton Kircher,H,Idaho,PCC,Babe Curfman,W,36,6
+1952-11-08,Washington State,PCC,Alton Kircher,A,Oregon,PCC,Len Casanova,W,19,6
+1952-11-15,Washington State,PCC,Alton Kircher,A,California,PCC,Pappy Waldorf,L,13,28
+1952-11-22,Washington State,PCC,Alton Kircher,A,Oklahoma State,MVC,Jennings Whitworth,W,9,7
+1952-11-29,Washington State,PCC,Alton Kircher,H,Washington,PCC,Howard Odell,L,27,33
+1952-09-27,Illinois,Western,Ray Eliot,H,Iowa State,Big 7,Abe Stuber,W,33,7
+1952-10-04,Illinois,Western,Ray Eliot,A,Wisconsin,Western,Ivy Williamson,L,6,20
+1952-10-11,Illinois,Western,Ray Eliot,H,Washington,PCC,Howard Odell,W,48,14
+1952-10-18,Illinois,Western,Ray Eliot,A,Minnesota,Western,Wesley Fesler,L,7,13
+1952-10-25,Illinois,Western,Ray Eliot,H,Purdue,Western,Stuart Holcomb,L,12,40
+1952-11-01,Illinois,Western,Ray Eliot,A,Michigan,Western,Bennie Oosterbaan,W,22,13
+1952-11-08,Illinois,Western,Ray Eliot,A,Iowa,Western,Forest Evashevski,W,33,13
+1952-11-15,Illinois,Western,Ray Eliot,H,Ohio State,Western,Woody Hayes,L,7,27
+1952-11-22,Illinois,Western,Ray Eliot,H,Northwestern,Western,Robert Voigts,L,26,28
+1952-09-20,Baylor,SWC,George Sauer,H,Wake Forest,Southern,Tom Rogers,W,17,14
+1952-10-04,Baylor,SWC,George Sauer,H,Washington State,PCC,Alton Kircher,W,31,7
+1952-10-11,Baylor,SWC,George Sauer,A,Arkansas,SWC,Otis Douglas,L,17,20
+1952-10-18,Baylor,SWC,George Sauer,A,Texas Tech,BIAA,DeWitt Weaver,W,21,10
+1952-10-25,Baylor,SWC,George Sauer,H,Texas A&M,SWC,Ray George,W,21,20
+1952-11-01,Baylor,SWC,George Sauer,A,Texas Christian,SWC,Dutch Meyer,T,20,20
+1952-11-08,Baylor,SWC,George Sauer,H,Texas,SWC,Edwin Price,L,33,35
+1952-11-15,Baylor,SWC,George Sauer,A,Houston,MVC,Clyde Lee,L,6,28
+1952-11-22,Baylor,SWC,George Sauer,A,SMU,SWC,H.N. Russell,T,7,7
+1952-11-29,Baylor,SWC,George Sauer,H,Rice,SWC,Jess Neely,L,14,20
+1952-09-26,SMU,SWC,H.N. Russell,H,Duke,Southern,Bill Murray,L,7,14
+1952-10-04,SMU,SWC,H.N. Russell,H,Georgia Tech,SEC,Bobby Dodd,L,7,20
+1952-10-11,SMU,SWC,H.N. Russell,A,Missouri,Big 7,Don Faurot,W,25,7
+1952-10-18,SMU,SWC,H.N. Russell,A,Rice,SWC,Jess Neely,W,21,14
+1952-10-25,SMU,SWC,H.N. Russell,H,Kansas,Big 7,Jules Sikes,L,0,26
+1952-11-01,SMU,SWC,H.N. Russell,A,Texas,SWC,Edwin Price,L,14,31
+1952-11-08,SMU,SWC,H.N. Russell,H,Texas A&M,SWC,Ray George,W,21,13
+1952-11-15,SMU,SWC,H.N. Russell,A,Arkansas,SWC,Otis Douglas,W,27,17
+1952-11-22,SMU,SWC,H.N. Russell,H,Baylor,SWC,George Sauer,T,7,7
+1952-11-29,SMU,SWC,H.N. Russell,H,Texas Christian,SWC,Dutch Meyer,L,7,14
+1952-09-20,Georgia,SEC,Wallace Butts,A,Vanderbilt,SEC,Bill Edwards,W,19,7
+1952-09-27,Georgia,SEC,Wallace Butts,A,Tulane,SEC,Raymond Wolf,W,21,16
+1952-10-04,Georgia,SEC,Wallace Butts,H,North Carolina State,Southern,Horace Hendrickson,W,49,0
+1952-10-11,Georgia,SEC,Wallace Butts,H,Maryland,Ind,Jim Tatum,L,0,37
+1952-10-18,Georgia,SEC,Wallace Butts,A,LSU,SEC,Gaynell Tinsley,W,27,14
+1952-10-25,Georgia,SEC,Wallace Butts,N,Florida,SEC,Bob Woodruff,L,0,30
+1952-11-01,Georgia,SEC,Wallace Butts,A,Alabama,SEC,Red Drew,L,19,34
+1952-11-08,Georgia,SEC,Wallace Butts,A,Pennsylvania,Ind,George Munger,W,34,27
+1952-11-15,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Ralph Jordan,W,13,7
+1952-11-29,Georgia,SEC,Wallace Butts,H,Georgia Tech,SEC,Bobby Dodd,L,9,23
+1952-12-05,Georgia,SEC,Wallace Butts,A,Miami (FL),Ind,Andy Gustafson,W,35,13
+1952-09-20,Maryland,Ind,Jim Tatum,A,Missouri,Big 7,Don Faurot,W,13,10
+1952-09-27,Maryland,Ind,Jim Tatum,A,Auburn,SEC,Ralph Jordan,W,13,7
+1952-10-04,Maryland,Ind,Jim Tatum,H,Clemson,Ind,Frank Howard,W,28,0
+1952-10-11,Maryland,Ind,Jim Tatum,A,Georgia,SEC,Wallace Butts,W,37,0
+1952-10-18,Maryland,Ind,Jim Tatum,H,Navy,Ind,Eddie Erdelatz,W,38,7
+1952-10-25,Maryland,Ind,Jim Tatum,H,LSU,SEC,Gaynell Tinsley,W,34,6
+1952-11-01,Maryland,Ind,Jim Tatum,A,Boston University,Ind,Aldo Donelli,W,34,7
+1952-11-15,Maryland,Ind,Jim Tatum,A,Ole Miss,SEC,John Vaught,L,14,21
+1952-11-22,Maryland,Ind,Jim Tatum,A,Alabama,SEC,Red Drew,L,7,27
+1952-09-27,Virginia,Ind,Arthur Guepe,H,Vanderbilt,SEC,Bill Edwards,W,27,0
+1952-10-04,Virginia,Ind,Arthur Guepe,N,Virginia Tech,Southern,Frank Moseley,W,42,0
+1952-10-11,Virginia,Ind,Arthur Guepe,H,George Washington,Southern,Bo Sherman,W,50,0
+1952-10-18,Virginia,Ind,Arthur Guepe,N,Virginia Military Institute,Southern,Thomas Nugent,W,33,14
+1952-10-25,Virginia,Ind,Arthur Guepe,H,Duke,Southern,Bill Murray,L,7,21
+1952-11-01,Virginia,Ind,Arthur Guepe,H,South Carolina,Southern,Rex Enright,L,14,21
+1952-11-08,Virginia,Ind,Arthur Guepe,A,North Carolina,Southern,Carl Snavely,W,34,7
+1952-11-15,Virginia,Ind,Arthur Guepe,H,Richmond,Southern,Edwin Merrick,W,49,0
+1952-11-22,Virginia,Ind,Arthur Guepe,H,Washington & Lee,Southern,Carl Wise,W,21,14
+1952-11-29,Virginia,Ind,Arthur Guepe,A,William & Mary,Southern,Jackie Freeman,W,20,13
+1952-09-20,Idaho,PCC,Babe Curfman,A,Washington,PCC,Howard Odell,L,14,39
+1952-09-27,Idaho,PCC,Babe Curfman,H,Utah,Skyline,Jack Curtice,T,21,21
+1952-10-04,Idaho,PCC,Babe Curfman,H,Oregon,PCC,Len Casanova,L,14,20
+1952-10-11,Idaho,PCC,Babe Curfman,A,Utah State,Skyline,John Roning,W,6,3
+1952-10-24,Idaho,PCC,Babe Curfman,A,Santa Clara,Ind,Richard Gallagher,L,7,9
+1952-11-01,Idaho,PCC,Babe Curfman,A,Washington State,PCC,Alton Kircher,L,6,36
+1952-11-08,Idaho,PCC,Babe Curfman,H,Montana,Skyline,Eddie Chinske,W,27,0
+1952-11-15,Idaho,PCC,Babe Curfman,A,Oregon State,PCC,Kip Taylor,W,27,6
+1952-11-01,Northern Arizona,BIAA,John Peterson,H,New Mexico State,BIAA,Joe Coleman,L,9,33
+1952-09-20,Citadel,Southern,Quinn Decker,A,Georgia Tech,SEC,Bobby Dodd,L,6,54
+1952-09-27,Citadel,Southern,Quinn Decker,H,Virginia Tech,Southern,Frank Moseley,L,7,14
+1952-10-04,Citadel,Southern,Quinn Decker,A,Florida,SEC,Bob Woodruff,L,0,33
+1952-10-17,Citadel,Southern,Quinn Decker,N,Furman,Southern,William Young,T,7,7
+1952-11-08,Citadel,Southern,Quinn Decker,H,South Carolina,Southern,Rex Enright,L,0,35
+1952-11-15,Citadel,Southern,Quinn Decker,A,Virginia Military Institute,Southern,Thomas Nugent,L,19,20
+1952-11-22,Citadel,Southern,Quinn Decker,H,Davidson,Southern,Bill Dole,W,34,14
+1952-09-27,Oklahoma,Big 7,Bud Wilkinson,A,Colorado,Big 7,Dallas Ward,T,21,21
+1952-10-04,Oklahoma,Big 7,Bud Wilkinson,H,Pitt,Ind,Red Dawson,W,49,20
+1952-10-11,Oklahoma,Big 7,Bud Wilkinson,N,Texas,SWC,Edwin Price,W,49,20
+1952-10-18,Oklahoma,Big 7,Bud Wilkinson,A,Kansas,Big 7,Jules Sikes,W,42,20
+1952-10-25,Oklahoma,Big 7,Bud Wilkinson,H,Kansas State,Big 7,Bill Meek,W,49,6
+1952-11-01,Oklahoma,Big 7,Bud Wilkinson,A,Iowa State,Big 7,Abe Stuber,W,41,0
+1952-11-08,Oklahoma,Big 7,Bud Wilkinson,A,Notre Dame,Ind,Frank Leahy,L,21,27
+1952-11-15,Oklahoma,Big 7,Bud Wilkinson,H,Missouri,Big 7,Don Faurot,W,47,7
+1952-11-22,Oklahoma,Big 7,Bud Wilkinson,H,Nebraska,Big 7,William Glassford,W,34,13
+1952-11-29,Oklahoma,Big 7,Bud Wilkinson,A,Oklahoma State,MVC,Jennings Whitworth,W,54,7
+1952-09-20,Virginia Tech,Southern,Frank Moseley,A,Davidson,Southern,Bill Dole,W,27,14
+1952-09-27,Virginia Tech,Southern,Frank Moseley,A,Citadel,Southern,Quinn Decker,W,14,7
+1952-10-04,Virginia Tech,Southern,Frank Moseley,N,Virginia,Ind,Arthur Guepe,L,0,42
+1952-10-11,Virginia Tech,Southern,Frank Moseley,A,Alabama,SEC,Red Drew,L,0,33
+1952-10-18,Virginia Tech,Southern,Frank Moseley,H,George Washington,Southern,Bo Sherman,L,0,6
+1952-10-25,Virginia Tech,Southern,Frank Moseley,A,Washington & Lee,Southern,Carl Wise,L,27,34
+1952-11-01,Virginia Tech,Southern,Frank Moseley,A,Richmond,Southern,Edwin Merrick,W,20,2
+1952-11-08,Virginia Tech,Southern,Frank Moseley,H,William & Mary,Southern,Jackie Freeman,L,15,35
+1952-11-15,Virginia Tech,Southern,Frank Moseley,A,West Virginia,Southern,Art Lewis,L,7,27
+1952-11-27,Virginia Tech,Southern,Frank Moseley,N,Virginia Military Institute,Southern,Thomas Nugent,W,26,7
+1952-09-20,Arkansas,SWC,Otis Douglas,H,Oklahoma State,MVC,Jennings Whitworth,W,22,20
+1952-09-27,Arkansas,SWC,Otis Douglas,H,Houston,MVC,Clyde Lee,L,7,17
+1952-10-04,Arkansas,SWC,Otis Douglas,A,Texas Christian,SWC,Dutch Meyer,L,7,13
+1952-10-11,Arkansas,SWC,Otis Douglas,H,Baylor,SWC,George Sauer,W,20,17
+1952-10-18,Arkansas,SWC,Otis Douglas,A,Texas,SWC,Edwin Price,L,7,44
+1952-10-25,Arkansas,SWC,Otis Douglas,H,Ole Miss,SEC,John Vaught,L,7,34
+1952-11-01,Arkansas,SWC,Otis Douglas,A,Texas A&M,SWC,Ray George,L,12,31
+1952-11-08,Arkansas,SWC,Otis Douglas,H,Rice,SWC,Jess Neely,L,33,35
+1952-11-15,Arkansas,SWC,Otis Douglas,H,SMU,SWC,H.N. Russell,L,17,27
+1952-11-22,Arkansas,SWC,Otis Douglas,A,Tulsa,MVC,John Brothers,L,34,44
+1952-09-27,Clemson,Ind,Frank Howard,H,Villanova,Ind,Arthur Raimo,L,7,14
+1952-10-04,Clemson,Ind,Frank Howard,A,Maryland,Ind,Jim Tatum,L,0,28
+1952-10-11,Clemson,Ind,Frank Howard,A,Florida,SEC,Bob Woodruff,L,13,54
+1952-10-23,Clemson,Ind,Frank Howard,A,South Carolina,Southern,Rex Enright,L,0,6
+1952-10-31,Clemson,Ind,Frank Howard,A,Boston College,Ind,Mike Holovak,W,13,0
+1952-11-08,Clemson,Ind,Frank Howard,A,Fordham,Ind,Edward Danowski,T,12,12
+1952-11-15,Clemson,Ind,Frank Howard,A,Kentucky,SEC,Bear Bryant,L,14,27
+1952-11-22,Clemson,Ind,Frank Howard,A,Auburn,SEC,Ralph Jordan,L,0,3
+1952-09-27,South Carolina,Southern,Rex Enright,A,Army,Ind,Red Blaik,L,7,28
+1952-10-04,South Carolina,Southern,Rex Enright,A,Furman,Southern,William Young,W,27,7
+1952-10-11,South Carolina,Southern,Rex Enright,H,Duke,Southern,Bill Murray,L,7,33
+1952-10-23,South Carolina,Southern,Rex Enright,H,Clemson,Ind,Frank Howard,W,6,0
+1952-11-01,South Carolina,Southern,Rex Enright,A,Virginia,Ind,Arthur Guepe,W,21,14
+1952-11-08,South Carolina,Southern,Rex Enright,A,Citadel,Southern,Quinn Decker,W,35,0
+1952-11-15,South Carolina,Southern,Rex Enright,H,North Carolina,Southern,Carl Snavely,L,19,27
+1952-11-22,South Carolina,Southern,Rex Enright,H,West Virginia,Southern,Art Lewis,L,6,13
+1952-11-29,South Carolina,Southern,Rex Enright,A,Wake Forest,Southern,Tom Rogers,L,14,39
+1952-09-20,Washington,PCC,Howard Odell,H,Idaho,PCC,Babe Curfman,W,39,14
+1952-09-27,Washington,PCC,Howard Odell,H,Minnesota,Western,Wesley Fesler,W,19,13
+1952-10-04,Washington,PCC,Howard Odell,H,UCLA,PCC,Red Sanders,L,7,32
+1952-10-11,Washington,PCC,Howard Odell,A,Illinois,Western,Ray Eliot,L,14,48
+1952-10-18,Washington,PCC,Howard Odell,H,Oregon,PCC,Len Casanova,W,49,0
+1952-10-25,Washington,PCC,Howard Odell,A,Stanford,PCC,Chuck Taylor,W,27,14
+1952-11-01,Washington,PCC,Howard Odell,A,Oregon State,PCC,Kip Taylor,W,38,13
+1952-11-08,Washington,PCC,Howard Odell,H,California,PCC,Pappy Waldorf,W,22,7
+1952-11-15,Washington,PCC,Howard Odell,A,USC,PCC,Jess Hill,L,0,33
+1952-11-29,Washington,PCC,Howard Odell,A,Washington State,PCC,Alton Kircher,W,33,27
+1952-09-20,Santa Clara,Ind,Richard Gallagher,A,Stanford,PCC,Chuck Taylor,L,13,28
+1952-09-27,Santa Clara,Ind,Richard Gallagher,A,Kansas,Big 7,Jules Sikes,L,9,21
+1952-10-04,Santa Clara,Ind,Richard Gallagher,A,Tulane,SEC,Raymond Wolf,L,0,35
+1952-10-18,Santa Clara,Ind,Richard Gallagher,A,California,PCC,Pappy Waldorf,L,7,27
+1952-10-24,Santa Clara,Ind,Richard Gallagher,H,Idaho,PCC,Babe Curfman,W,9,7
+1952-11-01,Santa Clara,Ind,Richard Gallagher,H,Hardin-Simmons,BIAA,Murray Evans,T,14,14
+1952-11-08,Santa Clara,Ind,Richard Gallagher,A,Pacific,Ind,Ernie Jorge,L,0,27
+1952-11-15,Santa Clara,Ind,Richard Gallagher,H,Utah,Skyline,Jack Curtice,L,13,16
+1952-11-27,Santa Clara,Ind,Richard Gallagher,A,San Jose State,Ind,Robert Bronzan,W,15,7
+1952-09-27,Holy Cross,Ind,Edward Anderson,A,Dartmouth,Ind,DeOrmond McLaughry,W,27,9
+1952-10-04,Holy Cross,Ind,Edward Anderson,H,Fordham,Ind,Edward Danowski,W,12,7
+1952-10-11,Holy Cross,Ind,Edward Anderson,A,New York University,Ind,Hugh Devore,W,35,0
+1952-10-18,Holy Cross,Ind,Edward Anderson,H,Brown,Ind,Alva Kelley,W,46,0
+1952-10-25,Holy Cross,Ind,Edward Anderson,A,Syracuse,Ind,Ben Schwartzwalder,L,19,20
+1952-11-01,Holy Cross,Ind,Edward Anderson,A,Marquette,Ind,Liz Blackbourn,W,7,0
+1952-11-08,Holy Cross,Ind,Edward Anderson,H,Colgate,Ind,Hal Lahar,W,13,7
+1952-11-22,Holy Cross,Ind,Edward Anderson,H,Temple,Ind,Al Kawal,W,28,0
+1952-11-28,Holy Cross,Ind,Edward Anderson,N,Boston College,Ind,Mike Holovak,W,21,7
+1952-09-20,Utah State,Skyline,John Roning,A,Montana,Skyline,Eddie Chinske,W,7,0
+1952-09-27,Utah State,Skyline,John Roning,H,Pacific,Ind,Ernie Jorge,L,7,34
+1952-10-04,Utah State,Skyline,John Roning,H,Wyoming,Skyline,Bowden Wyatt,L,0,14
+1952-10-11,Utah State,Skyline,John Roning,H,Idaho,PCC,Babe Curfman,L,3,6
+1952-10-25,Utah State,Skyline,John Roning,H,Colorado State,Skyline,Robert Davis,L,7,21
+1952-11-01,Utah State,Skyline,John Roning,A,Wichita State,MVC,Bob Carlson,T,20,20
+1952-11-15,Utah State,Skyline,John Roning,H,Brigham Young,Skyline,Charles Atkinson,W,27,26
+1952-11-22,Utah State,Skyline,John Roning,H,Denver,Skyline,John Baker,W,29,13
+1952-11-27,Utah State,Skyline,John Roning,A,Utah,Skyline,Jack Curtice,L,0,20
+1952-12-06,Utah State,Skyline,John Roning,A,New Mexico,Skyline,Dudley DeGroot,L,0,28
+1952-09-20,Missouri,Big 7,Don Faurot,H,Maryland,Ind,Jim Tatum,L,10,13
+1952-09-27,Missouri,Big 7,Don Faurot,A,California,PCC,Pappy Waldorf,L,14,28
+1952-10-04,Missouri,Big 7,Don Faurot,A,Kansas State,Big 7,Bill Meek,W,26,0
+1952-10-11,Missouri,Big 7,Don Faurot,H,SMU,SWC,H.N. Russell,L,7,25
+1952-10-18,Missouri,Big 7,Don Faurot,A,Oklahoma State,MVC,Jennings Whitworth,L,7,14
+1952-10-25,Missouri,Big 7,Don Faurot,H,Iowa State,Big 7,Abe Stuber,W,19,0
+1952-11-01,Missouri,Big 7,Don Faurot,A,Nebraska,Big 7,William Glassford,W,10,6
+1952-11-08,Missouri,Big 7,Don Faurot,H,Colorado,Big 7,Dallas Ward,W,27,7
+1952-11-15,Missouri,Big 7,Don Faurot,A,Oklahoma,Big 7,Bud Wilkinson,L,7,47
+1952-11-22,Missouri,Big 7,Don Faurot,H,Kansas,Big 7,Jules Sikes,W,20,19
+1952-09-20,San Jose State,Ind,Robert Bronzan,A,Colorado,Big 7,Dallas Ward,L,14,20
+1952-10-04,San Jose State,Ind,Robert Bronzan,A,Arizona State,BIAA,Clyde Smith,W,21,14
+1952-10-18,San Jose State,Ind,Robert Bronzan,A,Pacific,Ind,Ernie Jorge,W,26,21
+1952-11-01,San Jose State,Ind,Robert Bronzan,A,Stanford,PCC,Chuck Taylor,L,13,35
+1952-11-07,San Jose State,Ind,Robert Bronzan,H,Brigham Young,Skyline,Charles Atkinson,W,44,27
+1952-11-14,San Jose State,Ind,Robert Bronzan,H,Montana,Skyline,Eddie Chinske,W,39,20
+1952-11-27,San Jose State,Ind,Robert Bronzan,H,Santa Clara,Ind,Richard Gallagher,L,7,15
+1952-09-20,Hardin-Simmons,BIAA,Murray Evans,H,Arizona State,BIAA,Clyde Smith,L,7,26
+1952-09-27,Hardin-Simmons,BIAA,Murray Evans,A,Tulsa,MVC,John Brothers,L,27,56
+1952-10-25,Hardin-Simmons,BIAA,Murray Evans,A,Arizona,BIAA,Warren Woodson,L,12,13
+1952-11-01,Hardin-Simmons,BIAA,Murray Evans,A,Santa Clara,Ind,Richard Gallagher,T,14,14
+1952-11-08,Hardin-Simmons,BIAA,Murray Evans,A,UTEP,BIAA,Mike Brumbelow,W,27,26
+1952-11-15,Hardin-Simmons,BIAA,Murray Evans,H,Texas Tech,BIAA,DeWitt Weaver,T,14,14
+1952-11-22,Hardin-Simmons,BIAA,Murray Evans,H,West Texas A&M,BIAA,Frank Kimbrough,W,25,6
+1952-10-04,Denver,Skyline,John Baker,H,Colorado State,Skyline,Robert Davis,L,6,28
+1952-10-11,Denver,Skyline,John Baker,A,Montana,Skyline,Eddie Chinske,L,7,17
+1952-10-18,Denver,Skyline,John Baker,H,Utah,Skyline,Jack Curtice,L,0,35
+1952-10-25,Denver,Skyline,John Baker,A,Brigham Young,Skyline,Charles Atkinson,L,13,14
+1952-11-01,Denver,Skyline,John Baker,A,Drake,Ind,Warren Gaer,W,27,19
+1952-11-08,Denver,Skyline,John Baker,H,New Mexico,Skyline,Dudley DeGroot,L,0,15
+1952-11-22,Denver,Skyline,John Baker,A,Utah State,Skyline,John Roning,L,13,29
+1952-11-27,Denver,Skyline,John Baker,H,Wyoming,Skyline,Bowden Wyatt,L,14,21
+1952-09-27,Wisconsin,Western,Ivy Williamson,H,Marquette,Ind,Liz Blackbourn,W,42,19
+1952-10-04,Wisconsin,Western,Ivy Williamson,H,Illinois,Western,Ray Eliot,W,20,6
+1952-10-11,Wisconsin,Western,Ivy Williamson,A,Ohio State,Western,Woody Hayes,L,14,23
+1952-10-18,Wisconsin,Western,Ivy Williamson,A,Iowa,Western,Forest Evashevski,W,42,13
+1952-10-25,Wisconsin,Western,Ivy Williamson,H,UCLA,PCC,Red Sanders,L,7,20
+1952-11-01,Wisconsin,Western,Ivy Williamson,A,Rice,SWC,Jess Neely,W,21,7
+1952-11-08,Wisconsin,Western,Ivy Williamson,H,Northwestern,Western,Robert Voigts,W,24,20
+1952-11-15,Wisconsin,Western,Ivy Williamson,A,Indiana,Western,Bernie Crimmins,W,37,14
+1952-11-22,Wisconsin,Western,Ivy Williamson,H,Minnesota,Western,Wesley Fesler,T,21,21
+1953-01-01,Wisconsin,Western,Ivy Williamson,A,USC,PCC,Jess Hill,L,0,7
+1952-09-19,USC,PCC,Jess Hill,H,Washington State,PCC,Alton Kircher,W,35,7
+1952-09-26,USC,PCC,Jess Hill,H,Northwestern,Western,Robert Voigts,W,31,0
+1952-10-04,USC,PCC,Jess Hill,H,Army,Ind,Red Blaik,W,22,0
+1952-10-18,USC,PCC,Jess Hill,A,Oregon State,PCC,Kip Taylor,W,28,6
+1952-10-25,USC,PCC,Jess Hill,H,California,PCC,Pappy Waldorf,W,10,0
+1952-11-08,USC,PCC,Jess Hill,A,Stanford,PCC,Chuck Taylor,W,54,7
+1952-11-15,USC,PCC,Jess Hill,H,Washington,PCC,Howard Odell,W,33,0
+1952-11-22,USC,PCC,Jess Hill,A,UCLA,PCC,Red Sanders,W,14,12
+1952-11-29,USC,PCC,Jess Hill,A,Notre Dame,Ind,Frank Leahy,L,0,9
+1953-01-01,USC,PCC,Jess Hill,H,Wisconsin,Western,Ivy Williamson,W,7,0
+1952-09-27,North Carolina State,Southern,Horace Hendrickson,H,George Washington,Southern,Bo Sherman,L,0,39
+1952-10-04,North Carolina State,Southern,Horace Hendrickson,A,Georgia,SEC,Wallace Butts,L,0,49
+1952-10-11,North Carolina State,Southern,Horace Hendrickson,H,Davidson,Southern,Bill Dole,W,28,6
+1952-10-18,North Carolina State,Southern,Horace Hendrickson,H,Duke,Southern,Bill Murray,L,0,57
+1952-11-01,North Carolina State,Southern,Horace Hendrickson,A,Wake Forest,Southern,Tom Rogers,L,6,21
+1952-11-08,North Carolina State,Southern,Horace Hendrickson,A,Washington & Lee,Southern,Carl Wise,W,25,14
+1952-11-15,North Carolina State,Southern,Horace Hendrickson,A,Pitt,Ind,Red Dawson,L,6,48
+1952-11-22,North Carolina State,Southern,Horace Hendrickson,A,William & Mary,Southern,Jackie Freeman,L,6,41
+1952-11-29,North Carolina State,Southern,Horace Hendrickson,A,Texas Tech,BIAA,DeWitt Weaver,L,7,54
+1952-10-04,Rutgers,Ind,Harvey Harman,A,Princeton,Ind,Charles Caldwell,L,19,61
+1952-10-11,Rutgers,Ind,Harvey Harman,A,Colgate,Ind,Hal Lahar,L,7,13
+1952-10-18,Rutgers,Ind,Harvey Harman,A,Dartmouth,Ind,DeOrmond McLaughry,L,20,29
+1952-10-25,Rutgers,Ind,Harvey Harman,A,Brown,Ind,Alva Kelley,W,19,7
+1952-11-01,Rutgers,Ind,Harvey Harman,H,Temple,Ind,Al Kawal,W,40,28
+1952-11-15,Rutgers,Ind,Harvey Harman,A,Penn State,Ind,Rip Engle,L,6,7
+1952-11-22,Rutgers,Ind,Harvey Harman,H,New York University,Ind,Hugh Devore,W,27,14
+1952-09-27,Michigan,Western,Bennie Oosterbaan,H,Michigan State,Ind,Biggie Munn,L,13,27
+1952-10-04,Michigan,Western,Bennie Oosterbaan,A,Stanford,PCC,Chuck Taylor,L,7,14
+1952-10-11,Michigan,Western,Bennie Oosterbaan,H,Indiana,Western,Bernie Crimmins,W,28,13
+1952-10-18,Michigan,Western,Bennie Oosterbaan,A,Northwestern,Western,Robert Voigts,W,48,14
+1952-10-25,Michigan,Western,Bennie Oosterbaan,H,Minnesota,Western,Wesley Fesler,W,21,0
+1952-11-01,Michigan,Western,Bennie Oosterbaan,H,Illinois,Western,Ray Eliot,L,13,22
+1952-11-08,Michigan,Western,Bennie Oosterbaan,H,Cornell,Ind,George James,W,49,7
+1952-11-15,Michigan,Western,Bennie Oosterbaan,H,Purdue,Western,Stuart Holcomb,W,21,10
+1952-11-22,Michigan,Western,Bennie Oosterbaan,A,Ohio State,Western,Woody Hayes,L,7,27
+1952-09-26,Detroit Mercy,MVC,Dutch Clark,H,Wichita State,MVC,Bob Carlson,W,22,7
+1952-10-04,Detroit Mercy,MVC,Dutch Clark,H,Villanova,Ind,Arthur Raimo,L,7,21
+1952-10-11,Detroit Mercy,MVC,Dutch Clark,H,Marquette,Ind,Liz Blackbourn,L,27,37
+1952-10-18,Detroit Mercy,MVC,Dutch Clark,H,Drake,Ind,Warren Gaer,W,57,0
+1952-10-25,Detroit Mercy,MVC,Dutch Clark,A,Oklahoma State,MVC,Jennings Whitworth,L,6,21
+1952-11-01,Detroit Mercy,MVC,Dutch Clark,A,Fordham,Ind,Edward Danowski,W,28,20
+1952-11-07,Detroit Mercy,MVC,Dutch Clark,H,Boston College,Ind,Mike Holovak,L,20,23
+1952-11-14,Detroit Mercy,MVC,Dutch Clark,H,Tulsa,MVC,John Brothers,L,21,62
+1952-11-29,Detroit Mercy,MVC,Dutch Clark,A,Houston,MVC,Clyde Lee,L,19,33
+1952-09-20,Temple,Ind,Al Kawal,A,Penn State,Ind,Rip Engle,L,13,20
+1952-10-03,Temple,Ind,Al Kawal,H,Syracuse,Ind,Ben Schwartzwalder,L,0,27
+1952-10-18,Temple,Ind,Al Kawal,A,Indiana,Western,Bernie Crimmins,L,0,33
+1952-10-25,Temple,Ind,Al Kawal,H,New York University,Ind,Hugh Devore,W,34,7
+1952-11-01,Temple,Ind,Al Kawal,A,Rutgers,Ind,Harvey Harman,L,28,40
+1952-11-08,Temple,Ind,Al Kawal,A,Boston University,Ind,Aldo Donelli,T,14,14
+1952-11-15,Temple,Ind,Al Kawal,H,Fordham,Ind,Edward Danowski,L,6,33
+1952-11-22,Temple,Ind,Al Kawal,A,Holy Cross,Ind,Edward Anderson,L,0,28
+1952-09-27,New Mexico,Skyline,Dudley DeGroot,A,Brigham Young,Skyline,Charles Atkinson,L,10,14
+1952-10-04,New Mexico,Skyline,Dudley DeGroot,H,New Mexico State,BIAA,Joe Coleman,W,23,0
+1952-10-18,New Mexico,Skyline,Dudley DeGroot,A,Wyoming,Skyline,Bowden Wyatt,W,7,0
+1952-10-25,New Mexico,Skyline,Dudley DeGroot,A,UTEP,BIAA,Mike Brumbelow,W,14,13
+1952-11-01,New Mexico,Skyline,Dudley DeGroot,H,Arizona,BIAA,Warren Woodson,L,7,13
+1952-11-08,New Mexico,Skyline,Dudley DeGroot,A,Denver,Skyline,John Baker,W,15,0
+1952-11-15,New Mexico,Skyline,Dudley DeGroot,H,Colorado State,Skyline,Robert Davis,W,3,0
+1952-11-22,New Mexico,Skyline,Dudley DeGroot,H,Montana,Skyline,Eddie Chinske,W,12,6
+1952-12-06,New Mexico,Skyline,Dudley DeGroot,H,Utah State,Skyline,John Roning,W,28,0
+1952-09-20,Pacific,Ind,Ernie Jorge,A,California,PCC,Pappy Waldorf,L,13,34
+1952-09-27,Pacific,Ind,Ernie Jorge,A,Utah State,Skyline,John Roning,W,34,7
+1952-10-04,Pacific,Ind,Ernie Jorge,H,Texas Tech,BIAA,DeWitt Weaver,W,42,21
+1952-10-18,Pacific,Ind,Ernie Jorge,H,San Jose State,Ind,Robert Bronzan,L,21,26
+1952-11-01,Pacific,Ind,Ernie Jorge,A,Oregon,PCC,Len Casanova,W,14,6
+1952-11-08,Pacific,Ind,Ernie Jorge,H,Santa Clara,Ind,Richard Gallagher,W,27,0
+1952-11-29,Pacific,Ind,Ernie Jorge,H,Marquette,Ind,Liz Blackbourn,T,27,27
+1952-09-27,Notre Dame,Ind,Frank Leahy,A,Pennsylvania,Ind,George Munger,T,7,7
+1952-10-04,Notre Dame,Ind,Frank Leahy,A,Texas,SWC,Edwin Price,W,14,3
+1952-10-11,Notre Dame,Ind,Frank Leahy,H,Pitt,Ind,Red Dawson,L,19,22
+1952-10-18,Notre Dame,Ind,Frank Leahy,A,Purdue,Western,Stuart Holcomb,W,26,14
+1952-10-25,Notre Dame,Ind,Frank Leahy,H,North Carolina,Southern,Carl Snavely,W,34,14
+1952-11-01,Notre Dame,Ind,Frank Leahy,N,Navy,Ind,Eddie Erdelatz,W,17,6
+1952-11-08,Notre Dame,Ind,Frank Leahy,H,Oklahoma,Big 7,Bud Wilkinson,W,27,21
+1952-11-15,Notre Dame,Ind,Frank Leahy,A,Michigan State,Ind,Biggie Munn,L,3,21
+1952-11-22,Notre Dame,Ind,Frank Leahy,A,Iowa,Western,Forest Evashevski,W,27,0
+1952-11-29,Notre Dame,Ind,Frank Leahy,H,USC,PCC,Jess Hill,W,9,0
+1952-09-27,Pitt,Ind,Red Dawson,H,Iowa,Western,Forest Evashevski,W,26,14
+1952-10-04,Pitt,Ind,Red Dawson,A,Oklahoma,Big 7,Bud Wilkinson,L,20,49
+1952-10-11,Pitt,Ind,Red Dawson,A,Notre Dame,Ind,Frank Leahy,W,22,19
+1952-10-18,Pitt,Ind,Red Dawson,A,Army,Ind,Red Blaik,W,22,14
+1952-10-25,Pitt,Ind,Red Dawson,H,West Virginia,Southern,Art Lewis,L,0,16
+1952-11-01,Pitt,Ind,Red Dawson,H,Indiana,Western,Bernie Crimmins,W,28,7
+1952-11-08,Pitt,Ind,Red Dawson,A,Ohio State,Western,Woody Hayes,W,21,14
+1952-11-15,Pitt,Ind,Red Dawson,H,North Carolina State,Southern,Horace Hendrickson,W,48,6
+1952-11-22,Pitt,Ind,Red Dawson,H,Penn State,Ind,Rip Engle,L,0,17
+1952-09-20,West Texas A&M,BIAA,Frank Kimbrough,A,Texas Tech,BIAA,DeWitt Weaver,L,7,48
+1952-10-11,West Texas A&M,BIAA,Frank Kimbrough,H,New Mexico State,BIAA,Joe Coleman,W,45,7
+1952-10-18,West Texas A&M,BIAA,Frank Kimbrough,A,Arizona State,BIAA,Clyde Smith,L,14,48
+1952-11-22,West Texas A&M,BIAA,Frank Kimbrough,A,Hardin-Simmons,BIAA,Murray Evans,L,6,25
+1952-11-27,West Texas A&M,BIAA,Frank Kimbrough,A,UTEP,BIAA,Mike Brumbelow,L,7,31
+1952-09-27,George Washington,Southern,Bo Sherman,A,North Carolina State,Southern,Horace Hendrickson,W,39,0
+1952-10-04,George Washington,Southern,Bo Sherman,H,Washington & Lee,Southern,Carl Wise,W,33,28
+1952-10-11,George Washington,Southern,Bo Sherman,A,Virginia,Ind,Arthur Guepe,L,0,50
+1952-10-18,George Washington,Southern,Bo Sherman,A,Virginia Tech,Southern,Frank Moseley,W,6,0
+1952-10-25,George Washington,Southern,Bo Sherman,H,Virginia Military Institute,Southern,Thomas Nugent,T,20,20
+1952-11-01,George Washington,Southern,Bo Sherman,A,West Virginia,Southern,Art Lewis,L,0,24
+1952-11-15,George Washington,Southern,Bo Sherman,H,Davidson,Southern,Bill Dole,W,40,13
+1952-11-22,George Washington,Southern,Bo Sherman,A,Richmond,Southern,Edwin Merrick,W,29,7
+1952-09-27,Wyoming,Skyline,Bowden Wyatt,H,Montana,Skyline,Eddie Chinske,W,14,0
+1952-10-04,Wyoming,Skyline,Bowden Wyatt,A,Utah State,Skyline,John Roning,W,14,0
+1952-10-11,Wyoming,Skyline,Bowden Wyatt,H,Colorado State,Skyline,Robert Davis,L,0,14
+1952-10-18,Wyoming,Skyline,Bowden Wyatt,H,New Mexico,Skyline,Dudley DeGroot,L,0,7
+1952-10-25,Wyoming,Skyline,Bowden Wyatt,H,Utah,Skyline,Jack Curtice,L,21,27
+1952-11-01,Wyoming,Skyline,Bowden Wyatt,A,Brigham Young,Skyline,Charles Atkinson,W,24,13
+1952-11-08,Wyoming,Skyline,Bowden Wyatt,A,Kansas State,Big 7,Bill Meek,W,20,7
+1952-11-27,Wyoming,Skyline,Bowden Wyatt,A,Denver,Skyline,John Baker,W,21,14
+1952-12-06,Wyoming,Skyline,Bowden Wyatt,A,Houston,MVC,Clyde Lee,L,0,20
+1952-09-27,Brigham Young,Skyline,Charles Atkinson,H,New Mexico,Skyline,Dudley DeGroot,W,14,10
+1952-10-04,Brigham Young,Skyline,Charles Atkinson,A,Montana,Skyline,Eddie Chinske,W,28,7
+1952-10-11,Brigham Young,Skyline,Charles Atkinson,A,Utah,Skyline,Jack Curtice,L,6,34
+1952-10-25,Brigham Young,Skyline,Charles Atkinson,H,Denver,Skyline,John Baker,W,14,13
+1952-11-01,Brigham Young,Skyline,Charles Atkinson,H,Wyoming,Skyline,Bowden Wyatt,L,13,24
+1952-11-07,Brigham Young,Skyline,Charles Atkinson,A,San Jose State,Ind,Robert Bronzan,L,27,44
+1952-11-15,Brigham Young,Skyline,Charles Atkinson,A,Utah State,Skyline,John Roning,L,26,27
+1952-11-22,Brigham Young,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,6,27
+1952-11-29,Brigham Young,Skyline,Charles Atkinson,A,Arizona State,BIAA,Clyde Smith,L,6,47
+1952-09-27,Yale,Ind,Jordan Olivar,A,Navy,Ind,Eddie Erdelatz,L,0,31
+1952-10-04,Yale,Ind,Jordan Olivar,H,Brown,Ind,Alva Kelley,W,28,0
+1952-10-11,Yale,Ind,Jordan Olivar,H,Columbia,Ind,Lou Little,W,35,28
+1952-10-18,Yale,Ind,Jordan Olivar,H,Cornell,Ind,George James,W,13,0
+1952-11-01,Yale,Ind,Jordan Olivar,H,Dartmouth,Ind,DeOrmond McLaughry,W,21,7
+1952-11-15,Yale,Ind,Jordan Olivar,H,Princeton,Ind,Charles Caldwell,L,21,27
+1952-11-22,Yale,Ind,Jordan Olivar,A,Harvard,Ind,Lloyd Jordan,W,41,14
+1952-09-20,Georgia Tech,SEC,Bobby Dodd,H,Citadel,Southern,Quinn Decker,W,54,6
+1952-09-27,Georgia Tech,SEC,Bobby Dodd,H,Florida,SEC,Bob Woodruff,W,17,14
+1952-10-04,Georgia Tech,SEC,Bobby Dodd,A,SMU,SWC,H.N. Russell,W,20,7
+1952-10-11,Georgia Tech,SEC,Bobby Dodd,H,Tulane,SEC,Raymond Wolf,W,14,0
+1952-10-18,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Ralph Jordan,W,33,0
+1952-10-25,Georgia Tech,SEC,Bobby Dodd,H,Vanderbilt,SEC,Bill Edwards,W,30,0
+1952-11-01,Georgia Tech,SEC,Bobby Dodd,A,Duke,Southern,Bill Murray,W,28,7
+1952-11-08,Georgia Tech,SEC,Bobby Dodd,H,Army,Ind,Red Blaik,W,45,6
+1952-11-15,Georgia Tech,SEC,Bobby Dodd,H,Alabama,SEC,Red Drew,W,7,3
+1952-11-29,Georgia Tech,SEC,Bobby Dodd,A,Georgia,SEC,Wallace Butts,W,23,9
+1953-01-01,Georgia Tech,SEC,Bobby Dodd,N,Ole Miss,SEC,John Vaught,W,24,7
+1952-09-20,Wake Forest,Southern,Tom Rogers,A,Baylor,SWC,George Sauer,L,14,17
+1952-09-27,Wake Forest,Southern,Tom Rogers,A,William & Mary,Southern,Jackie Freeman,W,28,21
+1952-10-04,Wake Forest,Southern,Tom Rogers,H,Boston College,Ind,Mike Holovak,T,7,7
+1952-10-11,Wake Forest,Southern,Tom Rogers,A,Villanova,Ind,Arthur Raimo,L,0,20
+1952-10-18,Wake Forest,Southern,Tom Rogers,A,North Carolina,Southern,Carl Snavely,W,9,7
+1952-11-01,Wake Forest,Southern,Tom Rogers,H,North Carolina State,Southern,Horace Hendrickson,W,21,6
+1952-11-08,Wake Forest,Southern,Tom Rogers,A,Texas Christian,SWC,Dutch Meyer,L,9,27
+1952-11-15,Wake Forest,Southern,Tom Rogers,H,Duke,Southern,Bill Murray,L,7,14
+1952-11-22,Wake Forest,Southern,Tom Rogers,A,Furman,Southern,William Young,W,28,0
+1952-11-29,Wake Forest,Southern,Tom Rogers,H,South Carolina,Southern,Rex Enright,W,39,14
+1952-09-27,Mississippi State,SEC,Murray Warmath,N,Tennessee,SEC,Bob Neyland,L,7,14
+1952-10-18,Mississippi State,SEC,Murray Warmath,H,Kentucky,SEC,Bear Bryant,W,27,14
+1952-10-25,Mississippi State,SEC,Murray Warmath,A,Alabama,SEC,Red Drew,L,19,42
+1952-11-01,Mississippi State,SEC,Murray Warmath,A,Tulane,SEC,Raymond Wolf,L,21,34
+1952-11-08,Mississippi State,SEC,Murray Warmath,A,Auburn,SEC,Ralph Jordan,W,49,34
+1952-11-15,Mississippi State,SEC,Murray Warmath,A,LSU,SEC,Gaynell Tinsley,W,33,14
+1952-11-29,Mississippi State,SEC,Murray Warmath,A,Ole Miss,SEC,John Vaught,L,14,20
+1952-09-20,Virginia Military Institute,Southern,Thomas Nugent,H,William & Mary,Southern,Jackie Freeman,L,13,34
+1952-09-26,Virginia Military Institute,Southern,Thomas Nugent,A,Miami (FL),Ind,Andy Gustafson,L,0,45
+1952-10-04,Virginia Military Institute,Southern,Thomas Nugent,H,Richmond,Southern,Edwin Merrick,W,28,14
+1952-10-18,Virginia Military Institute,Southern,Thomas Nugent,N,Virginia,Ind,Arthur Guepe,L,14,33
+1952-10-25,Virginia Military Institute,Southern,Thomas Nugent,A,George Washington,Southern,Bo Sherman,T,20,20
+1952-11-01,Virginia Military Institute,Southern,Thomas Nugent,A,Army,Ind,Red Blaik,L,14,42
+1952-11-08,Virginia Military Institute,Southern,Thomas Nugent,H,West Virginia,Southern,Art Lewis,L,21,39
+1952-11-15,Virginia Military Institute,Southern,Thomas Nugent,H,Citadel,Southern,Quinn Decker,W,20,19
+1952-11-27,Virginia Military Institute,Southern,Thomas Nugent,N,Virginia Tech,Southern,Frank Moseley,L,7,26
+1952-10-04,Kansas State,Big 7,Bill Meek,H,Missouri,Big 7,Don Faurot,L,0,26
+1952-10-11,Kansas State,Big 7,Bill Meek,A,Nebraska,Big 7,William Glassford,L,14,27
+1952-10-18,Kansas State,Big 7,Bill Meek,A,Tulsa,MVC,John Brothers,L,7,26
+1952-10-25,Kansas State,Big 7,Bill Meek,A,Oklahoma,Big 7,Bud Wilkinson,L,6,49
+1952-11-01,Kansas State,Big 7,Bill Meek,H,Kansas,Big 7,Jules Sikes,L,6,26
+1952-11-08,Kansas State,Big 7,Bill Meek,H,Wyoming,Skyline,Bowden Wyatt,L,7,20
+1952-11-15,Kansas State,Big 7,Bill Meek,A,Colorado,Big 7,Dallas Ward,L,14,34
+1952-11-22,Kansas State,Big 7,Bill Meek,H,Iowa State,Big 7,Abe Stuber,L,0,27
+1952-09-27,Army,Ind,Red Blaik,H,South Carolina,Southern,Rex Enright,W,28,7
+1952-10-04,Army,Ind,Red Blaik,A,USC,PCC,Jess Hill,L,0,22
+1952-10-11,Army,Ind,Red Blaik,H,Dartmouth,Ind,DeOrmond McLaughry,W,37,7
+1952-10-18,Army,Ind,Red Blaik,H,Pitt,Ind,Red Dawson,L,14,22
+1952-10-25,Army,Ind,Red Blaik,A,Columbia,Ind,Lou Little,T,14,14
+1952-11-01,Army,Ind,Red Blaik,H,Virginia Military Institute,Southern,Thomas Nugent,W,42,14
+1952-11-08,Army,Ind,Red Blaik,A,Georgia Tech,SEC,Bobby Dodd,L,6,45
+1952-11-15,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,W,14,13
+1952-11-29,Army,Ind,Red Blaik,N,Navy,Ind,Eddie Erdelatz,L,0,7
+1952-09-27,Marquette,Ind,Liz Blackbourn,A,Wisconsin,Western,Ivy Williamson,L,19,42
+1952-10-04,Marquette,Ind,Liz Blackbourn,H,Boston University,Ind,Aldo Donelli,W,21,0
+1952-10-11,Marquette,Ind,Liz Blackbourn,A,Detroit Mercy,MVC,Dutch Clark,W,37,27
+1952-10-18,Marquette,Ind,Liz Blackbourn,H,Arizona,BIAA,Warren Woodson,W,37,7
+1952-10-24,Marquette,Ind,Liz Blackbourn,A,Miami (FL),Ind,Andy Gustafson,L,6,20
+1952-11-01,Marquette,Ind,Liz Blackbourn,H,Holy Cross,Ind,Edward Anderson,L,0,7
+1952-11-22,Marquette,Ind,Liz Blackbourn,A,Michigan State,Ind,Biggie Munn,L,13,62
+1952-11-29,Marquette,Ind,Liz Blackbourn,A,Pacific,Ind,Ernie Jorge,T,27,27
+1952-09-27,Dartmouth,Ind,DeOrmond McLaughry,H,Holy Cross,Ind,Edward Anderson,L,9,27
+1952-10-04,Dartmouth,Ind,DeOrmond McLaughry,A,Pennsylvania,Ind,George Munger,L,0,7
+1952-10-11,Dartmouth,Ind,DeOrmond McLaughry,A,Army,Ind,Red Blaik,L,7,37
+1952-10-18,Dartmouth,Ind,DeOrmond McLaughry,H,Rutgers,Ind,Harvey Harman,W,29,20
+1952-10-25,Dartmouth,Ind,DeOrmond McLaughry,A,Harvard,Ind,Lloyd Jordan,L,19,26
+1952-11-01,Dartmouth,Ind,DeOrmond McLaughry,A,Yale,Ind,Jordan Olivar,L,7,21
+1952-11-08,Dartmouth,Ind,DeOrmond McLaughry,H,Columbia,Ind,Lou Little,W,38,14
+1952-11-15,Dartmouth,Ind,DeOrmond McLaughry,A,Cornell,Ind,George James,L,7,13
+1952-11-22,Dartmouth,Ind,DeOrmond McLaughry,A,Princeton,Ind,Charles Caldwell,L,0,33
+1952-09-20,UCLA,PCC,Red Sanders,H,Oregon,PCC,Len Casanova,W,13,6
+1952-09-27,UCLA,PCC,Red Sanders,H,Texas Christian,SWC,Dutch Meyer,W,14,0
+1952-10-04,UCLA,PCC,Red Sanders,A,Washington,PCC,Howard Odell,W,32,7
+1952-10-11,UCLA,PCC,Red Sanders,H,Rice,SWC,Jess Neely,W,20,0
+1952-10-18,UCLA,PCC,Red Sanders,H,Stanford,PCC,Chuck Taylor,W,24,14
+1952-10-25,UCLA,PCC,Red Sanders,A,Wisconsin,Western,Ivy Williamson,W,20,7
+1952-11-01,UCLA,PCC,Red Sanders,A,California,PCC,Pappy Waldorf,W,28,7
+1952-11-08,UCLA,PCC,Red Sanders,H,Oregon State,PCC,Kip Taylor,W,57,0
+1952-11-22,UCLA,PCC,Red Sanders,H,USC,PCC,Jess Hill,L,12,14
+1952-09-27,Auburn,SEC,Ralph Jordan,H,Maryland,Ind,Jim Tatum,L,7,13
+1952-10-04,Auburn,SEC,Ralph Jordan,N,Ole Miss,SEC,John Vaught,L,7,20
+1952-10-18,Auburn,SEC,Ralph Jordan,A,Georgia Tech,SEC,Bobby Dodd,L,0,33
+1952-10-25,Auburn,SEC,Ralph Jordan,H,Tulane,SEC,Raymond Wolf,L,6,21
+1952-11-01,Auburn,SEC,Ralph Jordan,A,Florida,SEC,Bob Woodruff,L,21,31
+1952-11-08,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Murray Warmath,L,34,49
+1952-11-15,Auburn,SEC,Ralph Jordan,N,Georgia,SEC,Wallace Butts,L,7,13
+1952-11-22,Auburn,SEC,Ralph Jordan,H,Clemson,Ind,Frank Howard,W,3,0
+1952-11-29,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Red Drew,L,0,21
+1952-09-26,Northwestern,Western,Robert Voigts,A,USC,PCC,Jess Hill,L,0,31
+1952-10-04,Northwestern,Western,Robert Voigts,H,Vanderbilt,SEC,Bill Edwards,T,20,20
+1952-10-11,Northwestern,Western,Robert Voigts,A,Minnesota,Western,Wesley Fesler,L,26,27
+1952-10-18,Northwestern,Western,Robert Voigts,H,Michigan,Western,Bennie Oosterbaan,L,14,48
+1952-10-25,Northwestern,Western,Robert Voigts,H,Indiana,Western,Bernie Crimmins,W,23,13
+1952-11-01,Northwestern,Western,Robert Voigts,H,Ohio State,Western,Woody Hayes,L,21,24
+1952-11-08,Northwestern,Western,Robert Voigts,A,Wisconsin,Western,Ivy Williamson,L,20,24
+1952-11-15,Northwestern,Western,Robert Voigts,H,Iowa,Western,Forest Evashevski,L,14,39
+1952-11-22,Northwestern,Western,Robert Voigts,A,Illinois,Western,Ray Eliot,W,28,26
+1952-09-20,Kansas,Big 7,Jules Sikes,H,Texas Christian,SWC,Dutch Meyer,W,13,0
+1952-09-27,Kansas,Big 7,Jules Sikes,H,Santa Clara,Ind,Richard Gallagher,W,21,9
+1952-10-04,Kansas,Big 7,Jules Sikes,H,Colorado,Big 7,Dallas Ward,W,21,12
+1952-10-11,Kansas,Big 7,Jules Sikes,A,Iowa State,Big 7,Abe Stuber,W,43,0
+1952-10-18,Kansas,Big 7,Jules Sikes,H,Oklahoma,Big 7,Bud Wilkinson,L,20,42
+1952-10-25,Kansas,Big 7,Jules Sikes,A,SMU,SWC,H.N. Russell,W,26,0
+1952-11-01,Kansas,Big 7,Jules Sikes,A,Kansas State,Big 7,Bill Meek,W,26,6
+1952-11-08,Kansas,Big 7,Jules Sikes,H,Nebraska,Big 7,William Glassford,L,13,14
+1952-11-15,Kansas,Big 7,Jules Sikes,H,Oklahoma State,MVC,Jennings Whitworth,W,12,7
+1952-11-22,Kansas,Big 7,Jules Sikes,A,Missouri,Big 7,Don Faurot,L,19,20
+1952-09-20,William & Mary,Southern,Jackie Freeman,A,Virginia Military Institute,Southern,Thomas Nugent,W,34,13
+1952-09-27,William & Mary,Southern,Jackie Freeman,H,Wake Forest,Southern,Tom Rogers,L,21,28
+1952-10-04,William & Mary,Southern,Jackie Freeman,A,Penn State,Ind,Rip Engle,L,23,35
+1952-10-11,William & Mary,Southern,Jackie Freeman,A,Navy,Ind,Eddie Erdelatz,L,0,14
+1952-10-18,William & Mary,Southern,Jackie Freeman,A,Boston University,Ind,Aldo Donelli,L,28,33
+1952-10-24,William & Mary,Southern,Jackie Freeman,H,Richmond,Southern,Edwin Merrick,W,42,13
+1952-11-08,William & Mary,Southern,Jackie Freeman,A,Virginia Tech,Southern,Frank Moseley,W,35,15
+1952-11-22,William & Mary,Southern,Jackie Freeman,H,North Carolina State,Southern,Horace Hendrickson,W,41,6
+1952-11-29,William & Mary,Southern,Jackie Freeman,H,Virginia,Ind,Arthur Guepe,L,13,20
+1952-10-11,UTEP,BIAA,Mike Brumbelow,A,Texas Tech,BIAA,DeWitt Weaver,W,20,14
+1952-10-18,UTEP,BIAA,Mike Brumbelow,A,New Mexico State,BIAA,Joe Coleman,T,20,20
+1952-10-25,UTEP,BIAA,Mike Brumbelow,H,New Mexico,Skyline,Dudley DeGroot,L,13,14
+1952-11-08,UTEP,BIAA,Mike Brumbelow,H,Hardin-Simmons,BIAA,Murray Evans,L,26,27
+1952-11-15,UTEP,BIAA,Mike Brumbelow,H,Arizona,BIAA,Warren Woodson,L,7,55
+1952-11-22,UTEP,BIAA,Mike Brumbelow,A,Arizona State,BIAA,Clyde Smith,L,0,39
+1952-11-27,UTEP,BIAA,Mike Brumbelow,H,West Texas A&M,BIAA,Frank Kimbrough,W,31,7
+1952-09-20,LSU,SEC,Gaynell Tinsley,H,Texas,SWC,Edwin Price,L,14,35
+1952-09-27,LSU,SEC,Gaynell Tinsley,H,Alabama,SEC,Red Drew,L,20,21
+1952-10-04,LSU,SEC,Gaynell Tinsley,A,Rice,SWC,Jess Neely,W,27,7
+1952-10-11,LSU,SEC,Gaynell Tinsley,A,Kentucky,SEC,Bear Bryant,W,34,7
+1952-10-18,LSU,SEC,Gaynell Tinsley,H,Georgia,SEC,Wallace Butts,L,14,27
+1952-10-25,LSU,SEC,Gaynell Tinsley,A,Maryland,Ind,Jim Tatum,L,6,34
+1952-11-01,LSU,SEC,Gaynell Tinsley,A,Ole Miss,SEC,John Vaught,L,0,28
+1952-11-08,LSU,SEC,Gaynell Tinsley,H,Tennessee,SEC,Bob Neyland,L,3,22
+1952-11-15,LSU,SEC,Gaynell Tinsley,H,Mississippi State,SEC,Murray Warmath,L,14,33
+1952-11-29,LSU,SEC,Gaynell Tinsley,A,Tulane,SEC,Raymond Wolf,W,16,0
+1952-09-27,Pennsylvania,Ind,George Munger,H,Notre Dame,Ind,Frank Leahy,T,7,7
+1952-10-04,Pennsylvania,Ind,George Munger,H,Dartmouth,Ind,DeOrmond McLaughry,W,7,0
+1952-10-11,Pennsylvania,Ind,George Munger,A,Princeton,Ind,Charles Caldwell,W,13,7
+1952-10-18,Pennsylvania,Ind,George Munger,A,Columbia,Ind,Lou Little,W,27,17
+1952-10-25,Pennsylvania,Ind,George Munger,H,Navy,Ind,Eddie Erdelatz,T,7,7
+1952-11-01,Pennsylvania,Ind,George Munger,H,Penn State,Ind,Rip Engle,L,7,14
+1952-11-08,Pennsylvania,Ind,George Munger,H,Georgia,SEC,Wallace Butts,L,27,34
+1952-11-15,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,L,13,14
+1952-11-27,Pennsylvania,Ind,George Munger,H,Cornell,Ind,George James,W,14,7
+1952-09-27,Tulsa,MVC,John Brothers,H,Hardin-Simmons,BIAA,Murray Evans,W,56,27
+1952-10-11,Tulsa,MVC,John Brothers,A,Houston,MVC,Clyde Lee,L,7,33
+1952-10-18,Tulsa,MVC,John Brothers,H,Kansas State,Big 7,Bill Meek,W,26,7
+1952-10-25,Tulsa,MVC,John Brothers,H,Wichita State,MVC,Bob Carlson,W,28,0
+1952-11-01,Tulsa,MVC,John Brothers,H,Oklahoma State,MVC,Jennings Whitworth,W,23,21
+1952-11-08,Tulsa,MVC,John Brothers,H,Villanova,Ind,Arthur Raimo,W,42,6
+1952-11-14,Tulsa,MVC,John Brothers,A,Detroit Mercy,MVC,Dutch Clark,W,62,21
+1952-11-22,Tulsa,MVC,John Brothers,H,Arkansas,SWC,Otis Douglas,W,44,34
+1952-12-06,Tulsa,MVC,John Brothers,A,Texas Tech,BIAA,DeWitt Weaver,W,26,20
+1953-01-01,Tulsa,MVC,John Brothers,N,Florida,SEC,Bob Woodruff,L,13,14
+1952-09-27,Iowa,Western,Forest Evashevski,A,Pitt,Ind,Red Dawson,L,14,26
+1952-10-04,Iowa,Western,Forest Evashevski,A,Indiana,Western,Bernie Crimmins,L,13,20
+1952-10-11,Iowa,Western,Forest Evashevski,A,Purdue,Western,Stuart Holcomb,L,14,41
+1952-10-18,Iowa,Western,Forest Evashevski,H,Wisconsin,Western,Ivy Williamson,L,13,42
+1952-10-25,Iowa,Western,Forest Evashevski,H,Ohio State,Western,Woody Hayes,W,8,0
+1952-11-01,Iowa,Western,Forest Evashevski,A,Minnesota,Western,Wesley Fesler,L,7,17
+1952-11-08,Iowa,Western,Forest Evashevski,H,Illinois,Western,Ray Eliot,L,13,33
+1952-11-15,Iowa,Western,Forest Evashevski,A,Northwestern,Western,Robert Voigts,W,39,14
+1952-11-22,Iowa,Western,Forest Evashevski,H,Notre Dame,Ind,Frank Leahy,L,0,27
+1952-09-27,Columbia,Ind,Lou Little,H,Princeton,Ind,Charles Caldwell,L,0,14
+1952-10-04,Columbia,Ind,Lou Little,A,Harvard,Ind,Lloyd Jordan,W,16,7
+1952-10-11,Columbia,Ind,Lou Little,A,Yale,Ind,Jordan Olivar,L,28,35
+1952-10-18,Columbia,Ind,Lou Little,H,Pennsylvania,Ind,George Munger,L,17,27
+1952-10-25,Columbia,Ind,Lou Little,H,Army,Ind,Red Blaik,T,14,14
+1952-11-01,Columbia,Ind,Lou Little,H,Cornell,Ind,George James,L,14,21
+1952-11-08,Columbia,Ind,Lou Little,A,Dartmouth,Ind,DeOrmond McLaughry,L,14,38
+1952-11-15,Columbia,Ind,Lou Little,A,Navy,Ind,Eddie Erdelatz,L,0,28
+1952-11-22,Columbia,Ind,Lou Little,H,Brown,Ind,Alva Kelley,W,14,0
+1952-09-20,Texas,SWC,Edwin Price,A,LSU,SEC,Gaynell Tinsley,W,35,14
+1952-09-27,Texas,SWC,Edwin Price,A,North Carolina,Southern,Carl Snavely,W,28,7
+1952-10-04,Texas,SWC,Edwin Price,H,Notre Dame,Ind,Frank Leahy,L,3,14
+1952-10-11,Texas,SWC,Edwin Price,N,Oklahoma,Big 7,Bud Wilkinson,L,20,49
+1952-10-18,Texas,SWC,Edwin Price,H,Arkansas,SWC,Otis Douglas,W,44,7
+1952-10-25,Texas,SWC,Edwin Price,A,Rice,SWC,Jess Neely,W,20,7
+1952-11-01,Texas,SWC,Edwin Price,H,SMU,SWC,H.N. Russell,W,31,14
+1952-11-08,Texas,SWC,Edwin Price,A,Baylor,SWC,George Sauer,W,35,33
+1952-11-15,Texas,SWC,Edwin Price,A,Texas Christian,SWC,Dutch Meyer,W,14,7
+1952-11-27,Texas,SWC,Edwin Price,H,Texas A&M,SWC,Ray George,W,32,12
+1953-01-01,Texas,SWC,Edwin Price,N,Tennessee,SEC,Bob Neyland,W,16,0
+1952-09-20,Texas Christian,SWC,Dutch Meyer,A,Kansas,Big 7,Jules Sikes,L,0,13
+1952-09-27,Texas Christian,SWC,Dutch Meyer,A,UCLA,PCC,Red Sanders,L,0,14
+1952-10-04,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,Otis Douglas,W,13,7
+1952-10-18,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Ray George,T,7,7
+1952-11-01,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,George Sauer,T,20,20
+1952-11-08,Texas Christian,SWC,Dutch Meyer,H,Wake Forest,Southern,Tom Rogers,W,27,9
+1952-11-15,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Edwin Price,L,7,14
+1952-11-22,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jess Neely,L,6,12
+1952-11-29,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,H.N. Russell,W,14,7
+1952-10-11,New York University,Ind,Hugh Devore,H,Holy Cross,Ind,Edward Anderson,L,0,35
+1952-10-25,New York University,Ind,Hugh Devore,A,Temple,Ind,Al Kawal,L,7,34
+1952-11-15,New York University,Ind,Hugh Devore,A,Boston University,Ind,Aldo Donelli,L,7,14
+1952-11-22,New York University,Ind,Hugh Devore,A,Rutgers,Ind,Harvey Harman,L,14,27
+1952-11-29,New York University,Ind,Hugh Devore,N,Fordham,Ind,Edward Danowski,L,0,45
+1952-09-26,Miami (FL),Ind,Andy Gustafson,H,Virginia Military Institute,Southern,Thomas Nugent,W,45,0
+1952-10-03,Miami (FL),Ind,Andy Gustafson,H,Alabama,SEC,Red Drew,L,7,21
+1952-10-10,Miami (FL),Ind,Andy Gustafson,A,Boston University,Ind,Aldo Donelli,L,7,9
+1952-10-17,Miami (FL),Ind,Andy Gustafson,H,Richmond,Southern,Edwin Merrick,W,41,6
+1952-10-24,Miami (FL),Ind,Andy Gustafson,H,Marquette,Ind,Liz Blackbourn,W,20,6
+1952-10-31,Miami (FL),Ind,Andy Gustafson,H,Kentucky,SEC,Bear Bryant,L,0,29
+1952-11-07,Miami (FL),Ind,Andy Gustafson,H,Vanderbilt,SEC,Bill Edwards,L,0,9
+1952-11-22,Miami (FL),Ind,Andy Gustafson,A,Florida,SEC,Bob Woodruff,L,6,43
+1952-11-28,Miami (FL),Ind,Andy Gustafson,H,North Carolina,Southern,Carl Snavely,L,7,34
+1952-12-05,Miami (FL),Ind,Andy Gustafson,H,Georgia,SEC,Wallace Butts,L,13,35
+1952-09-26,Richmond,Southern,Edwin Merrick,A,Boston College,Ind,Mike Holovak,L,7,14
+1952-10-04,Richmond,Southern,Edwin Merrick,A,Virginia Military Institute,Southern,Thomas Nugent,L,14,28
+1952-10-11,Richmond,Southern,Edwin Merrick,H,Washington & Lee,Southern,Carl Wise,L,20,21
+1952-10-17,Richmond,Southern,Edwin Merrick,A,Miami (FL),Ind,Andy Gustafson,L,6,41
+1952-10-24,Richmond,Southern,Edwin Merrick,A,William & Mary,Southern,Jackie Freeman,L,13,42
+1952-11-01,Richmond,Southern,Edwin Merrick,H,Virginia Tech,Southern,Frank Moseley,L,2,20
+1952-11-08,Richmond,Southern,Edwin Merrick,A,Davidson,Southern,Bill Dole,L,19,38
+1952-11-15,Richmond,Southern,Edwin Merrick,A,Virginia,Ind,Arthur Guepe,L,0,49
+1952-11-22,Richmond,Southern,Edwin Merrick,H,George Washington,Southern,Bo Sherman,L,7,29
+1952-09-20,Oregon,PCC,Len Casanova,A,UCLA,PCC,Red Sanders,L,6,13
+1952-09-27,Oregon,PCC,Len Casanova,H,Nebraska,Big 7,William Glassford,L,13,28
+1952-10-04,Oregon,PCC,Len Casanova,A,Idaho,PCC,Babe Curfman,W,20,14
+1952-10-11,Oregon,PCC,Len Casanova,H,California,PCC,Pappy Waldorf,L,7,41
+1952-10-18,Oregon,PCC,Len Casanova,A,Washington,PCC,Howard Odell,L,0,49
+1952-10-25,Oregon,PCC,Len Casanova,H,Montana,Skyline,Eddie Chinske,T,14,14
+1952-11-01,Oregon,PCC,Len Casanova,H,Pacific,Ind,Ernie Jorge,L,6,14
+1952-11-08,Oregon,PCC,Len Casanova,H,Washington State,PCC,Alton Kircher,L,6,19
+1952-11-15,Oregon,PCC,Len Casanova,A,Stanford,PCC,Chuck Taylor,W,21,20
+1952-11-22,Oregon,PCC,Len Casanova,N,Oregon State,PCC,Kip Taylor,L,19,22
+1952-10-04,Brown,Ind,Alva Kelley,A,Yale,Ind,Jordan Olivar,L,0,28
+1952-10-18,Brown,Ind,Alva Kelley,A,Holy Cross,Ind,Edward Anderson,L,0,46
+1952-10-25,Brown,Ind,Alva Kelley,H,Rutgers,Ind,Harvey Harman,L,7,19
+1952-11-01,Brown,Ind,Alva Kelley,A,Princeton,Ind,Charles Caldwell,L,0,39
+1952-11-15,Brown,Ind,Alva Kelley,H,Harvard,Ind,Lloyd Jordan,W,28,21
+1952-11-22,Brown,Ind,Alva Kelley,A,Columbia,Ind,Lou Little,L,0,14
+1952-11-29,Brown,Ind,Alva Kelley,H,Colgate,Ind,Hal Lahar,L,27,33
+1952-09-27,Tennessee,SEC,Bob Neyland,N,Mississippi State,SEC,Murray Warmath,W,14,7
+1952-10-04,Tennessee,SEC,Bob Neyland,A,Duke,Southern,Bill Murray,L,0,7
+1952-10-18,Tennessee,SEC,Bob Neyland,H,Alabama,SEC,Red Drew,W,20,0
+1952-11-01,Tennessee,SEC,Bob Neyland,H,North Carolina,Southern,Carl Snavely,W,41,14
+1952-11-08,Tennessee,SEC,Bob Neyland,A,LSU,SEC,Gaynell Tinsley,W,22,3
+1952-11-15,Tennessee,SEC,Bob Neyland,H,Florida,SEC,Bob Woodruff,W,26,12
+1952-11-22,Tennessee,SEC,Bob Neyland,H,Kentucky,SEC,Bear Bryant,T,14,14
+1952-11-29,Tennessee,SEC,Bob Neyland,A,Vanderbilt,SEC,Bill Edwards,W,46,0
+1953-01-01,Tennessee,SEC,Bob Neyland,N,Texas,SWC,Edwin Price,L,0,16
+1952-09-20,Oregon State,PCC,Kip Taylor,A,Utah,Skyline,Jack Curtice,W,14,7
+1952-10-04,Oregon State,PCC,Kip Taylor,H,Michigan State,Ind,Biggie Munn,L,14,17
+1952-10-11,Oregon State,PCC,Kip Taylor,A,Stanford,PCC,Chuck Taylor,L,28,41
+1952-10-18,Oregon State,PCC,Kip Taylor,H,USC,PCC,Jess Hill,L,6,28
+1952-10-25,Oregon State,PCC,Kip Taylor,A,Washington State,PCC,Alton Kircher,L,20,33
+1952-11-01,Oregon State,PCC,Kip Taylor,H,Washington,PCC,Howard Odell,L,13,38
+1952-11-08,Oregon State,PCC,Kip Taylor,A,UCLA,PCC,Red Sanders,L,0,57
+1952-11-15,Oregon State,PCC,Kip Taylor,H,Idaho,PCC,Babe Curfman,L,6,27
+1952-11-22,Oregon State,PCC,Kip Taylor,N,Oregon,PCC,Len Casanova,W,22,19
+1952-09-27,Alabama,SEC,Red Drew,A,LSU,SEC,Gaynell Tinsley,W,21,20
+1952-10-03,Alabama,SEC,Red Drew,A,Miami (FL),Ind,Andy Gustafson,W,21,7
+1952-10-11,Alabama,SEC,Red Drew,H,Virginia Tech,Southern,Frank Moseley,W,33,0
+1952-10-18,Alabama,SEC,Red Drew,A,Tennessee,SEC,Bob Neyland,L,0,20
+1952-10-25,Alabama,SEC,Red Drew,H,Mississippi State,SEC,Murray Warmath,W,42,19
+1952-11-01,Alabama,SEC,Red Drew,H,Georgia,SEC,Wallace Butts,W,34,19
+1952-11-15,Alabama,SEC,Red Drew,A,Georgia Tech,SEC,Bobby Dodd,L,3,7
+1952-11-22,Alabama,SEC,Red Drew,H,Maryland,Ind,Jim Tatum,W,27,7
+1952-11-29,Alabama,SEC,Red Drew,N,Auburn,SEC,Ralph Jordan,W,21,0
+1953-01-01,Alabama,SEC,Red Drew,N,Syracuse,Ind,Ben Schwartzwalder,W,61,6
+1952-09-27,Purdue,Western,Stuart Holcomb,A,Penn State,Ind,Rip Engle,T,20,20
+1952-10-04,Purdue,Western,Stuart Holcomb,A,Ohio State,Western,Woody Hayes,W,21,14
+1952-10-11,Purdue,Western,Stuart Holcomb,H,Iowa,Western,Forest Evashevski,W,41,14
+1952-10-18,Purdue,Western,Stuart Holcomb,H,Notre Dame,Ind,Frank Leahy,L,14,26
+1952-10-25,Purdue,Western,Stuart Holcomb,A,Illinois,Western,Ray Eliot,W,40,12
+1952-11-01,Purdue,Western,Stuart Holcomb,H,Michigan State,Ind,Biggie Munn,L,7,14
+1952-11-08,Purdue,Western,Stuart Holcomb,A,Minnesota,Western,Wesley Fesler,T,14,14
+1952-11-15,Purdue,Western,Stuart Holcomb,A,Michigan,Western,Bennie Oosterbaan,L,10,21
+1952-11-22,Purdue,Western,Stuart Holcomb,H,Indiana,Western,Bernie Crimmins,W,21,16
+1952-09-27,Nebraska,Big 7,William Glassford,A,Oregon,PCC,Len Casanova,W,28,13
+1952-10-04,Nebraska,Big 7,William Glassford,H,Iowa State,Big 7,Abe Stuber,W,16,0
+1952-10-11,Nebraska,Big 7,William Glassford,H,Kansas State,Big 7,Bill Meek,W,27,14
+1952-10-18,Nebraska,Big 7,William Glassford,A,Penn State,Ind,Rip Engle,L,0,10
+1952-10-25,Nebraska,Big 7,William Glassford,A,Colorado,Big 7,Dallas Ward,T,16,16
+1952-11-01,Nebraska,Big 7,William Glassford,H,Missouri,Big 7,Don Faurot,L,6,10
+1952-11-08,Nebraska,Big 7,William Glassford,A,Kansas,Big 7,Jules Sikes,W,14,13
+1952-11-15,Nebraska,Big 7,William Glassford,H,Minnesota,Western,Wesley Fesler,L,7,13
+1952-11-22,Nebraska,Big 7,William Glassford,A,Oklahoma,Big 7,Bud Wilkinson,L,13,34
+1952-09-27,West Virginia,Southern,Art Lewis,H,Furman,Southern,William Young,L,14,22
+1952-10-11,West Virginia,Southern,Art Lewis,H,Penn State,Ind,Rip Engle,L,21,35
+1952-10-18,West Virginia,Southern,Art Lewis,N,Washington & Lee,Southern,Carl Wise,W,31,13
+1952-10-25,West Virginia,Southern,Art Lewis,A,Pitt,Ind,Red Dawson,W,16,0
+1952-11-01,West Virginia,Southern,Art Lewis,H,George Washington,Southern,Bo Sherman,W,24,0
+1952-11-08,West Virginia,Southern,Art Lewis,A,Virginia Military Institute,Southern,Thomas Nugent,W,39,21
+1952-11-15,West Virginia,Southern,Art Lewis,H,Virginia Tech,Southern,Frank Moseley,W,27,7
+1952-11-22,West Virginia,Southern,Art Lewis,A,South Carolina,Southern,Rex Enright,W,13,6
+1952-10-04,Harvard,Ind,Lloyd Jordan,H,Columbia,Ind,Lou Little,L,7,16
+1952-10-18,Harvard,Ind,Lloyd Jordan,H,Colgate,Ind,Hal Lahar,W,21,20
+1952-10-25,Harvard,Ind,Lloyd Jordan,H,Dartmouth,Ind,DeOrmond McLaughry,W,26,19
+1952-11-01,Harvard,Ind,Lloyd Jordan,H,Davidson,Southern,Bill Dole,W,35,26
+1952-11-08,Harvard,Ind,Lloyd Jordan,A,Princeton,Ind,Charles Caldwell,L,21,41
+1952-11-15,Harvard,Ind,Lloyd Jordan,A,Brown,Ind,Alva Kelley,L,21,28
+1952-11-22,Harvard,Ind,Lloyd Jordan,H,Yale,Ind,Jordan Olivar,L,14,41
+1952-09-20,Oklahoma State,MVC,Jennings Whitworth,A,Arkansas,SWC,Otis Douglas,L,20,22
+1952-09-27,Oklahoma State,MVC,Jennings Whitworth,A,Texas A&M,SWC,Ray George,L,7,14
+1952-10-04,Oklahoma State,MVC,Jennings Whitworth,H,Houston,MVC,Clyde Lee,L,7,10
+1952-10-11,Oklahoma State,MVC,Jennings Whitworth,A,Wichita State,MVC,Bob Carlson,W,35,21
+1952-10-18,Oklahoma State,MVC,Jennings Whitworth,H,Missouri,Big 7,Don Faurot,W,14,7
+1952-10-25,Oklahoma State,MVC,Jennings Whitworth,H,Detroit Mercy,MVC,Dutch Clark,W,21,6
+1952-11-01,Oklahoma State,MVC,Jennings Whitworth,A,Tulsa,MVC,John Brothers,L,21,23
+1952-11-15,Oklahoma State,MVC,Jennings Whitworth,A,Kansas,Big 7,Jules Sikes,L,7,12
+1952-11-22,Oklahoma State,MVC,Jennings Whitworth,H,Washington State,PCC,Alton Kircher,L,7,9
+1952-11-29,Oklahoma State,MVC,Jennings Whitworth,H,Oklahoma,Big 7,Bud Wilkinson,L,7,54
+1952-09-20,Colorado,Big 7,Dallas Ward,H,San Jose State,Ind,Robert Bronzan,W,20,14
+1952-09-27,Colorado,Big 7,Dallas Ward,H,Oklahoma,Big 7,Bud Wilkinson,T,21,21
+1952-10-04,Colorado,Big 7,Dallas Ward,A,Kansas,Big 7,Jules Sikes,L,12,21
+1952-10-11,Colorado,Big 7,Dallas Ward,A,Arizona,BIAA,Warren Woodson,W,34,19
+1952-10-18,Colorado,Big 7,Dallas Ward,A,Iowa State,Big 7,Abe Stuber,W,21,12
+1952-10-25,Colorado,Big 7,Dallas Ward,H,Nebraska,Big 7,William Glassford,T,16,16
+1952-11-01,Colorado,Big 7,Dallas Ward,A,Utah,Skyline,Jack Curtice,W,20,14
+1952-11-08,Colorado,Big 7,Dallas Ward,A,Missouri,Big 7,Don Faurot,L,7,27
+1952-11-15,Colorado,Big 7,Dallas Ward,H,Kansas State,Big 7,Bill Meek,W,34,14
+1952-11-29,Colorado,Big 7,Dallas Ward,H,Colorado State,Skyline,Robert Davis,W,61,0
+1952-09-27,Colorado State,Skyline,Robert Davis,A,Arizona State,BIAA,Clyde Smith,L,14,40
+1952-10-04,Colorado State,Skyline,Robert Davis,A,Denver,Skyline,John Baker,W,28,6
+1952-10-11,Colorado State,Skyline,Robert Davis,A,Wyoming,Skyline,Bowden Wyatt,W,14,0
+1952-10-18,Colorado State,Skyline,Robert Davis,H,Montana,Skyline,Eddie Chinske,W,41,0
+1952-10-25,Colorado State,Skyline,Robert Davis,A,Utah State,Skyline,John Roning,W,21,7
+1952-11-08,Colorado State,Skyline,Robert Davis,H,Utah,Skyline,Jack Curtice,L,6,14
+1952-11-15,Colorado State,Skyline,Robert Davis,A,New Mexico,Skyline,Dudley DeGroot,L,0,3
+1952-11-22,Colorado State,Skyline,Robert Davis,H,Brigham Young,Skyline,Charles Atkinson,W,27,6
+1952-11-29,Colorado State,Skyline,Robert Davis,A,Colorado,Big 7,Dallas Ward,L,0,61
+1952-09-27,Rice,SWC,Jess Neely,H,Texas Tech,BIAA,DeWitt Weaver,W,34,7
+1952-10-04,Rice,SWC,Jess Neely,H,LSU,SEC,Gaynell Tinsley,L,7,27
+1952-10-11,Rice,SWC,Jess Neely,A,UCLA,PCC,Red Sanders,L,0,20
+1952-10-18,Rice,SWC,Jess Neely,H,SMU,SWC,H.N. Russell,L,14,21
+1952-10-25,Rice,SWC,Jess Neely,H,Texas,SWC,Edwin Price,L,7,20
+1952-11-01,Rice,SWC,Jess Neely,H,Wisconsin,Western,Ivy Williamson,L,7,21
+1952-11-08,Rice,SWC,Jess Neely,A,Arkansas,SWC,Otis Douglas,W,35,33
+1952-11-15,Rice,SWC,Jess Neely,A,Texas A&M,SWC,Ray George,W,16,6
+1952-11-22,Rice,SWC,Jess Neely,H,Texas Christian,SWC,Dutch Meyer,W,12,6
+1952-11-29,Rice,SWC,Jess Neely,A,Baylor,SWC,George Sauer,W,20,14
+1952-09-20,Texas A&M,SWC,Ray George,A,Houston,MVC,Clyde Lee,W,21,13
+1952-09-27,Texas A&M,SWC,Ray George,H,Oklahoma State,MVC,Jennings Whitworth,W,14,7
+1952-10-04,Texas A&M,SWC,Ray George,H,Kentucky,SEC,Bear Bryant,L,7,10
+1952-10-11,Texas A&M,SWC,Ray George,A,Michigan State,Ind,Biggie Munn,L,6,48
+1952-10-18,Texas A&M,SWC,Ray George,H,Texas Christian,SWC,Dutch Meyer,T,7,7
+1952-10-25,Texas A&M,SWC,Ray George,A,Baylor,SWC,George Sauer,L,20,21
+1952-11-01,Texas A&M,SWC,Ray George,H,Arkansas,SWC,Otis Douglas,W,31,12
+1952-11-08,Texas A&M,SWC,Ray George,A,SMU,SWC,H.N. Russell,L,13,21
+1952-11-15,Texas A&M,SWC,Ray George,H,Rice,SWC,Jess Neely,L,6,16
+1952-11-27,Texas A&M,SWC,Ray George,A,Texas,SWC,Edwin Price,L,12,32
+1952-09-20,Davidson,Southern,Bill Dole,H,Virginia Tech,Southern,Frank Moseley,L,14,27
+1952-09-27,Davidson,Southern,Bill Dole,H,Washington & Lee,Southern,Carl Wise,L,14,33
+1952-10-11,Davidson,Southern,Bill Dole,A,North Carolina State,Southern,Horace Hendrickson,L,6,28
+1952-10-25,Davidson,Southern,Bill Dole,H,Furman,Southern,William Young,L,13,14
+1952-11-01,Davidson,Southern,Bill Dole,A,Harvard,Ind,Lloyd Jordan,L,26,35
+1952-11-08,Davidson,Southern,Bill Dole,H,Richmond,Southern,Edwin Merrick,W,38,19
+1952-11-15,Davidson,Southern,Bill Dole,A,George Washington,Southern,Bo Sherman,L,13,40
+1952-11-22,Davidson,Southern,Bill Dole,A,Citadel,Southern,Quinn Decker,L,14,34
+1952-09-27,Michigan State,Ind,Biggie Munn,A,Michigan,Western,Bennie Oosterbaan,W,27,13
+1952-10-04,Michigan State,Ind,Biggie Munn,A,Oregon State,PCC,Kip Taylor,W,17,14
+1952-10-11,Michigan State,Ind,Biggie Munn,H,Texas A&M,SWC,Ray George,W,48,6
+1952-10-18,Michigan State,Ind,Biggie Munn,H,Syracuse,Ind,Ben Schwartzwalder,W,48,7
+1952-10-25,Michigan State,Ind,Biggie Munn,H,Penn State,Ind,Rip Engle,W,34,7
+1952-11-01,Michigan State,Ind,Biggie Munn,A,Purdue,Western,Stuart Holcomb,W,14,7
+1952-11-08,Michigan State,Ind,Biggie Munn,A,Indiana,Western,Bernie Crimmins,W,41,14
+1952-11-15,Michigan State,Ind,Biggie Munn,H,Notre Dame,Ind,Frank Leahy,W,21,3
+1952-11-22,Michigan State,Ind,Biggie Munn,H,Marquette,Ind,Liz Blackbourn,W,62,13
+1952-09-26,Boston College,Ind,Mike Holovak,H,Richmond,Southern,Edwin Merrick,W,14,7
+1952-10-04,Boston College,Ind,Mike Holovak,A,Wake Forest,Southern,Tom Rogers,T,7,7
+1952-10-10,Boston College,Ind,Mike Holovak,H,Drake,Ind,Warren Gaer,W,20,14
+1952-10-17,Boston College,Ind,Mike Holovak,H,Villanova,Ind,Arthur Raimo,L,7,28
+1952-10-24,Boston College,Ind,Mike Holovak,H,Fordham,Ind,Edward Danowski,W,14,13
+1952-10-31,Boston College,Ind,Mike Holovak,H,Clemson,Ind,Frank Howard,L,0,13
+1952-11-07,Boston College,Ind,Mike Holovak,A,Detroit Mercy,MVC,Dutch Clark,W,23,20
+1952-11-28,Boston College,Ind,Mike Holovak,N,Holy Cross,Ind,Edward Anderson,L,7,21
+1952-09-27,Colgate,Ind,Hal Lahar,A,Cornell,Ind,George James,W,14,7
+1952-10-11,Colgate,Ind,Hal Lahar,H,Rutgers,Ind,Harvey Harman,W,13,7
+1952-10-18,Colgate,Ind,Hal Lahar,A,Harvard,Ind,Lloyd Jordan,L,20,21
+1952-11-08,Colgate,Ind,Hal Lahar,A,Holy Cross,Ind,Edward Anderson,L,7,13
+1952-11-15,Colgate,Ind,Hal Lahar,A,Syracuse,Ind,Ben Schwartzwalder,L,14,20
+1952-11-29,Colgate,Ind,Hal Lahar,A,Brown,Ind,Alva Kelley,W,33,27
+1952-09-27,New Mexico State,BIAA,Joe Coleman,A,Arizona,BIAA,Warren Woodson,L,12,62
+1952-10-04,New Mexico State,BIAA,Joe Coleman,A,New Mexico,Skyline,Dudley DeGroot,L,0,23
+1952-10-11,New Mexico State,BIAA,Joe Coleman,A,West Texas A&M,BIAA,Frank Kimbrough,L,7,45
+1952-10-18,New Mexico State,BIAA,Joe Coleman,H,UTEP,BIAA,Mike Brumbelow,T,20,20
+1952-11-01,New Mexico State,BIAA,Joe Coleman,A,Northern Arizona,BIAA,John Peterson,W,33,9
+1952-11-27,New Mexico State,BIAA,Joe Coleman,A,Wichita State,MVC,Bob Carlson,L,6,34
+1952-09-27,Minnesota,Western,Wesley Fesler,A,Washington,PCC,Howard Odell,L,13,19
+1952-10-04,Minnesota,Western,Wesley Fesler,H,California,PCC,Pappy Waldorf,L,13,49
+1952-10-11,Minnesota,Western,Wesley Fesler,H,Northwestern,Western,Robert Voigts,W,27,26
+1952-10-18,Minnesota,Western,Wesley Fesler,H,Illinois,Western,Ray Eliot,W,13,7
+1952-10-25,Minnesota,Western,Wesley Fesler,A,Michigan,Western,Bennie Oosterbaan,L,0,21
+1952-11-01,Minnesota,Western,Wesley Fesler,H,Iowa,Western,Forest Evashevski,W,17,7
+1952-11-08,Minnesota,Western,Wesley Fesler,H,Purdue,Western,Stuart Holcomb,T,14,14
+1952-11-15,Minnesota,Western,Wesley Fesler,A,Nebraska,Big 7,William Glassford,W,13,7
+1952-11-22,Minnesota,Western,Wesley Fesler,A,Wisconsin,Western,Ivy Williamson,T,21,21
+1952-09-27,Ole Miss,SEC,John Vaught,A,Kentucky,SEC,Bear Bryant,T,13,13
+1952-10-04,Ole Miss,SEC,John Vaught,N,Auburn,SEC,Ralph Jordan,W,20,7
+1952-10-11,Ole Miss,SEC,John Vaught,A,Vanderbilt,SEC,Bill Edwards,T,21,21
+1952-10-18,Ole Miss,SEC,John Vaught,A,Tulane,SEC,Raymond Wolf,W,20,14
+1952-10-25,Ole Miss,SEC,John Vaught,A,Arkansas,SWC,Otis Douglas,W,34,7
+1952-11-01,Ole Miss,SEC,John Vaught,H,LSU,SEC,Gaynell Tinsley,W,28,0
+1952-11-08,Ole Miss,SEC,John Vaught,A,Houston,MVC,Clyde Lee,W,6,0
+1952-11-15,Ole Miss,SEC,John Vaught,H,Maryland,Ind,Jim Tatum,W,21,14
+1952-11-29,Ole Miss,SEC,John Vaught,H,Mississippi State,SEC,Murray Warmath,W,20,14
+1953-01-01,Ole Miss,SEC,John Vaught,N,Georgia Tech,SEC,Bobby Dodd,L,7,24
+1952-09-20,Duke,Southern,Bill Murray,H,Washington & Lee,Southern,Carl Wise,W,34,0
+1952-09-26,Duke,Southern,Bill Murray,A,SMU,SWC,H.N. Russell,W,14,7
+1952-10-04,Duke,Southern,Bill Murray,H,Tennessee,SEC,Bob Neyland,W,7,0
+1952-10-11,Duke,Southern,Bill Murray,A,South Carolina,Southern,Rex Enright,W,33,7
+1952-10-18,Duke,Southern,Bill Murray,A,North Carolina State,Southern,Horace Hendrickson,W,57,0
+1952-10-25,Duke,Southern,Bill Murray,A,Virginia,Ind,Arthur Guepe,W,21,7
+1952-11-01,Duke,Southern,Bill Murray,H,Georgia Tech,SEC,Bobby Dodd,L,7,28
+1952-11-08,Duke,Southern,Bill Murray,H,Navy,Ind,Eddie Erdelatz,L,6,16
+1952-11-15,Duke,Southern,Bill Murray,A,Wake Forest,Southern,Tom Rogers,W,14,7
+1952-11-22,Duke,Southern,Bill Murray,A,North Carolina,Southern,Carl Snavely,W,34,0
+1952-09-27,Navy,Ind,Eddie Erdelatz,H,Yale,Ind,Jordan Olivar,W,31,0
+1952-10-04,Navy,Ind,Eddie Erdelatz,A,Cornell,Ind,George James,W,31,7
+1952-10-11,Navy,Ind,Eddie Erdelatz,H,William & Mary,Southern,Jackie Freeman,W,14,0
+1952-10-18,Navy,Ind,Eddie Erdelatz,A,Maryland,Ind,Jim Tatum,L,7,38
+1952-10-25,Navy,Ind,Eddie Erdelatz,A,Pennsylvania,Ind,George Munger,T,7,7
+1952-11-01,Navy,Ind,Eddie Erdelatz,N,Notre Dame,Ind,Frank Leahy,L,6,17
+1952-11-08,Navy,Ind,Eddie Erdelatz,A,Duke,Southern,Bill Murray,W,16,6
+1952-11-15,Navy,Ind,Eddie Erdelatz,H,Columbia,Ind,Lou Little,W,28,0
+1952-11-29,Navy,Ind,Eddie Erdelatz,N,Army,Ind,Red Blaik,W,7,0
+1952-09-20,Texas Tech,BIAA,DeWitt Weaver,H,West Texas A&M,BIAA,Frank Kimbrough,W,48,7
+1952-09-27,Texas Tech,BIAA,DeWitt Weaver,A,Rice,SWC,Jess Neely,L,7,34
+1952-10-04,Texas Tech,BIAA,DeWitt Weaver,A,Pacific,Ind,Ernie Jorge,L,21,42
+1952-10-11,Texas Tech,BIAA,DeWitt Weaver,H,UTEP,BIAA,Mike Brumbelow,L,14,20
+1952-10-18,Texas Tech,BIAA,DeWitt Weaver,H,Baylor,SWC,George Sauer,L,10,21
+1952-11-01,Texas Tech,BIAA,DeWitt Weaver,H,Houston,MVC,Clyde Lee,L,7,20
+1952-11-15,Texas Tech,BIAA,DeWitt Weaver,A,Hardin-Simmons,BIAA,Murray Evans,T,14,14
+1952-11-22,Texas Tech,BIAA,DeWitt Weaver,A,Arizona,BIAA,Warren Woodson,W,19,14
+1952-11-29,Texas Tech,BIAA,DeWitt Weaver,H,North Carolina State,Southern,Horace Hendrickson,W,54,7
+1952-12-06,Texas Tech,BIAA,DeWitt Weaver,H,Tulsa,MVC,John Brothers,L,20,26
+1952-09-27,Tulane,SEC,Raymond Wolf,H,Georgia,SEC,Wallace Butts,L,16,21
+1952-10-04,Tulane,SEC,Raymond Wolf,H,Santa Clara,Ind,Richard Gallagher,W,35,0
+1952-10-11,Tulane,SEC,Raymond Wolf,A,Georgia Tech,SEC,Bobby Dodd,L,0,14
+1952-10-18,Tulane,SEC,Raymond Wolf,H,Ole Miss,SEC,John Vaught,L,14,20
+1952-10-25,Tulane,SEC,Raymond Wolf,A,Auburn,SEC,Ralph Jordan,W,21,6
+1952-11-01,Tulane,SEC,Raymond Wolf,H,Mississippi State,SEC,Murray Warmath,W,34,21
+1952-11-08,Tulane,SEC,Raymond Wolf,A,Kentucky,SEC,Bear Bryant,L,6,27
+1952-11-15,Tulane,SEC,Raymond Wolf,H,Vanderbilt,SEC,Bill Edwards,W,16,7
+1952-11-29,Tulane,SEC,Raymond Wolf,H,LSU,SEC,Gaynell Tinsley,L,0,16
+1952-09-27,Cornell,Ind,George James,H,Colgate,Ind,Hal Lahar,L,7,14
+1952-10-04,Cornell,Ind,George James,H,Navy,Ind,Eddie Erdelatz,L,7,31
+1952-10-11,Cornell,Ind,George James,A,Syracuse,Ind,Ben Schwartzwalder,L,6,26
+1952-10-18,Cornell,Ind,George James,A,Yale,Ind,Jordan Olivar,L,0,13
+1952-10-25,Cornell,Ind,George James,H,Princeton,Ind,Charles Caldwell,L,0,27
+1952-11-01,Cornell,Ind,George James,A,Columbia,Ind,Lou Little,W,21,14
+1952-11-08,Cornell,Ind,George James,A,Michigan,Western,Bennie Oosterbaan,L,7,49
+1952-11-15,Cornell,Ind,George James,H,Dartmouth,Ind,DeOrmond McLaughry,W,13,7
+1952-11-27,Cornell,Ind,George James,A,Pennsylvania,Ind,George Munger,L,7,14
+1952-09-27,Ohio State,Western,Woody Hayes,H,Indiana,Western,Bernie Crimmins,W,33,13
+1952-10-04,Ohio State,Western,Woody Hayes,H,Purdue,Western,Stuart Holcomb,L,14,21
+1952-10-11,Ohio State,Western,Woody Hayes,H,Wisconsin,Western,Ivy Williamson,W,23,14
+1952-10-18,Ohio State,Western,Woody Hayes,H,Washington State,PCC,Alton Kircher,W,35,7
+1952-10-25,Ohio State,Western,Woody Hayes,A,Iowa,Western,Forest Evashevski,L,0,8
+1952-11-01,Ohio State,Western,Woody Hayes,A,Northwestern,Western,Robert Voigts,W,24,21
+1952-11-08,Ohio State,Western,Woody Hayes,H,Pitt,Ind,Red Dawson,L,14,21
+1952-11-15,Ohio State,Western,Woody Hayes,A,Illinois,Western,Ray Eliot,W,27,7
+1952-11-22,Ohio State,Western,Woody Hayes,H,Michigan,Western,Bennie Oosterbaan,W,27,7
+1952-10-10,Drake,Ind,Warren Gaer,A,Boston College,Ind,Mike Holovak,L,14,20
+1952-10-18,Drake,Ind,Warren Gaer,A,Detroit Mercy,MVC,Dutch Clark,L,0,57
+1952-11-01,Drake,Ind,Warren Gaer,H,Denver,Skyline,John Baker,L,19,27
+1952-11-08,Drake,Ind,Warren Gaer,A,Iowa State,Big 7,Abe Stuber,L,7,55
+1952-11-15,Drake,Ind,Warren Gaer,H,Wichita State,MVC,Bob Carlson,L,14,41
+1952-09-20,Houston,MVC,Clyde Lee,H,Texas A&M,SWC,Ray George,L,13,21
+1952-09-27,Houston,MVC,Clyde Lee,A,Arkansas,SWC,Otis Douglas,W,17,7
+1952-10-04,Houston,MVC,Clyde Lee,A,Oklahoma State,MVC,Jennings Whitworth,W,10,7
+1952-10-11,Houston,MVC,Clyde Lee,H,Tulsa,MVC,John Brothers,W,33,7
+1952-10-25,Houston,MVC,Clyde Lee,A,Arizona State,BIAA,Clyde Smith,W,6,0
+1952-11-01,Houston,MVC,Clyde Lee,A,Texas Tech,BIAA,DeWitt Weaver,W,20,7
+1952-11-08,Houston,MVC,Clyde Lee,H,Ole Miss,SEC,John Vaught,L,0,6
+1952-11-15,Houston,MVC,Clyde Lee,H,Baylor,SWC,George Sauer,W,28,6
+1952-11-29,Houston,MVC,Clyde Lee,H,Detroit Mercy,MVC,Dutch Clark,W,33,19
+1952-12-06,Houston,MVC,Clyde Lee,H,Wyoming,Skyline,Bowden Wyatt,W,20,0

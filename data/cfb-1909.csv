@@ -1,0 +1,359 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1909-10-02,North Carolina,Ind,A.E. Brides,H,Wake Forest,Ind,A.T. Myers,W,18,0
+1909-10-09,North Carolina,Ind,A.E. Brides,A,Tennessee,Ind,George Levene,W,3,0
+1909-10-23,North Carolina,Ind,A.E. Brides,A,Georgetown,Ind,William Newman,W,5,0
+1909-10-31,North Carolina,Ind,A.E. Brides,H,Richmond,Ind,,W,22,0
+1909-11-06,North Carolina,Ind,A.E. Brides,A,Virginia Tech,Ind,Branch Bocock,L,0,15
+1909-11-13,North Carolina,Ind,A.E. Brides,N,Washington & Lee,Ind,R.R. Brown,W,6,0
+1909-10-02,Dickinson,Ind,Paul Smith,A,Pennsylvania,Ind,,L,0,18
+1909-10-16,Dickinson,Ind,Paul Smith,A,Washington & Jefferson,Ind,D.C. Morrow,L,3,18
+1909-11-13,Dickinson,Ind,Paul Smith,A,Bucknell,Ind,George Hoskins,T,6,6
+1909-11-25,Dickinson,Ind,Paul Smith,A,Lafayette,Ind,,L,0,5
+1909-10-09,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,0,21
+1909-10-23,Indiana,Western,James Sheldon,A,Wisconsin,Western,Tom Barry,L,3,6
+1909-11-06,Indiana,Western,James Sheldon,A,Illinois,Western,Arthur Hall,L,5,6
+1909-11-20,Indiana,Western,James Sheldon,A,Purdue,Western,Frederick Speik,W,36,3
+1909-10-09,Wyoming,Ind,H.I. Dean,A,Denver,Ind,John Koehler,L,0,56
+1909-10-30,Wyoming,Ind,H.I. Dean,H,Colorado College,Ind,J.R. Richards,L,5,44
+1909-11-20,Wyoming,Ind,H.I. Dean,H,Colorado Mines,Ind,,L,6,23
+1909-10-02,Yale,Ind,Howard Jones,H,Syracuse,Ind,Tad Jones,W,15,0
+1909-10-16,Yale,Ind,Howard Jones,A,Army,Ind,Harry Nelly,W,17,0
+1909-10-23,Yale,Ind,Howard Jones,H,Colgate,Ind,Gus Brown,W,36,0
+1909-11-06,Yale,Ind,Howard Jones,H,Brown,Ind,J.A. Gammons,W,23,0
+1909-11-13,Yale,Ind,Howard Jones,H,Princeton,Ind,James McCormick,W,17,0
+1909-11-20,Yale,Ind,Howard Jones,A,Harvard,Ind,Percy Haughton,W,8,0
+1909-10-09,Iowa State,MVIAA,,A,Minnesota,Western,Henry Williams,L,0,18
+1909-10-23,Iowa State,MVIAA,,H,Missouri,MVIAA,Bill Roper,T,6,6
+1909-11-13,Iowa State,MVIAA,,A,Iowa,Western,John Griffith,L,0,16
+1909-11-25,Iowa State,MVIAA,,A,Drake,MVIAA,John Griffith,L,0,11
+1909-10-09,Fordham,Ind,Howard Gargan,A,Princeton,Ind,James McCormick,L,0,3
+1909-10-16,Fordham,Ind,Howard Gargan,A,Cornell,Ind,George Walder,W,12,6
+1909-11-02,Fordham,Ind,Howard Gargan,H,Georgetown,Ind,William Newman,T,0,0
+1909-11-25,Fordham,Ind,Howard Gargan,H,Syracuse,Ind,Tad Jones,T,5,5
+1909-09-25,Carlisle,Ind,Pop Warner,H,Villanova,Ind,Frederick Crolius,W,9,0
+1909-10-02,Carlisle,Ind,Pop Warner,H,Bucknell,Ind,George Hoskins,W,48,6
+1909-10-09,Carlisle,Ind,Pop Warner,N,Penn State,Ind,Bill Hollenback,T,8,8
+1909-10-16,Carlisle,Ind,Pop Warner,N,Syracuse,Ind,Tad Jones,W,14,11
+1909-10-23,Carlisle,Ind,Pop Warner,A,Pitt,Ind,Joseph Thompson,L,3,14
+1909-10-30,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,,L,6,29
+1909-11-20,Carlisle,Ind,Pop Warner,N,Brown,Ind,J.A. Gammons,L,8,21
+1909-10-16,Georgia Tech,Ind,John Heisman,H,South Carolina,Ind,Christie Benet,W,59,0
+1909-10-23,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,Harris Cope,L,0,15
+1909-10-30,Georgia Tech,Ind,John Heisman,A,Tennessee,Ind,George Levene,W,29,0
+1909-11-06,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,0,9
+1909-11-13,Georgia Tech,Ind,John Heisman,A,Mercer,Ind,,W,35,0
+1909-11-20,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,James Coulter,W,12,6
+1909-11-25,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Bob Williams,W,29,3
+1909-10-02,Wake Forest,Ind,A.T. Myers,A,North Carolina,Ind,A.E. Brides,L,0,18
+1909-10-16,Wake Forest,Ind,A.T. Myers,A,Washington & Lee,Ind,R.R. Brown,L,0,17
+1909-10-23,Wake Forest,Ind,A.T. Myers,A,South Carolina,Ind,Christie Benet,W,8,0
+1909-11-05,Wake Forest,Ind,A.T. Myers,H,Richmond,Ind,,L,0,5
+1909-10-16,Mississippi State,Ind,William Chadwick,A,LSU,Ind,John Mayhew,L,0,15
+1909-10-30,Mississippi State,Ind,William Chadwick,A,Tulane,Ind,Buster Brown,L,0,2
+1909-11-08,Mississippi State,Ind,William Chadwick,A,Samford,Ind,John Longwell,L,0,6
+1909-11-13,Mississippi State,Ind,William Chadwick,H,Chattanooga,Ind,W.A. Roddick,W,37,6
+1909-11-25,Mississippi State,Ind,William Chadwick,N,Ole Miss,Ind,N.P. Stauffer,L,5,9
+1909-09-25,Villanova,Ind,Frederick Crolius,A,Carlisle,Ind,Pop Warner,L,0,9
+1909-10-02,Villanova,Ind,Frederick Crolius,A,Princeton,Ind,James McCormick,L,0,12
+1909-10-16,Villanova,Ind,Frederick Crolius,A,Navy,Ind,Frank Berrien,W,11,6
+1909-10-16,Washington & Lee,Ind,R.R. Brown,H,Wake Forest,Ind,A.T. Myers,W,17,0
+1909-10-22,Washington & Lee,Ind,R.R. Brown,H,Davidson,Ind,F.M. Simmons,W,18,6
+1909-10-30,Washington & Lee,Ind,R.R. Brown,N,Virginia Tech,Ind,Branch Bocock,L,6,34
+1909-11-06,Washington & Lee,Ind,R.R. Brown,H,North Carolina State,Ind,,L,0,3
+1909-11-13,Washington & Lee,Ind,R.R. Brown,N,North Carolina,Ind,A.E. Brides,L,0,6
+1909-10-02,Syracuse,Ind,Tad Jones,A,Yale,Ind,Howard Jones,L,0,15
+1909-10-16,Syracuse,Ind,Tad Jones,N,Carlisle,Ind,Pop Warner,L,11,14
+1909-10-30,Syracuse,Ind,Tad Jones,A,Michigan,Ind,Fielding Yost,L,0,44
+1909-11-13,Syracuse,Ind,Tad Jones,H,Colgate,Ind,Gus Brown,L,5,6
+1909-11-20,Syracuse,Ind,Tad Jones,H,Illinois,Western,Arthur Hall,L,8,17
+1909-11-25,Syracuse,Ind,Tad Jones,A,Fordham,Ind,Howard Gargan,T,5,5
+1909-10-16,Haskell,Ind,John Bender,A,Texas,Ind,Dexter Draper,W,12,11
+1909-10-20,Haskell,Ind,John Bender,A,Baylor,Ind,Enoch Mills,L,0,12
+1909-10-23,Haskell,Ind,John Bender,A,Texas A&M,Ind,Charley Moran,L,0,15
+1909-11-13,Haskell,Ind,John Bender,A,Denver,Ind,John Koehler,W,8,5
+1909-11-25,Haskell,Ind,John Bender,A,Nebraska,MVIAA,King Cole,W,16,5
+1909-10-16,Georgetown,Ind,William Newman,A,Richmond,Ind,,W,17,0
+1909-10-23,Georgetown,Ind,William Newman,H,North Carolina,Ind,A.E. Brides,L,0,5
+1909-11-02,Georgetown,Ind,William Newman,A,Fordham,Ind,Howard Gargan,T,0,0
+1909-11-06,Georgetown,Ind,William Newman,H,Virginia,Ind,John Neff,L,0,21
+1909-10-31,Chattanooga,Ind,W.A. Roddick,H,Samford,Ind,John Longwell,T,0,0
+1909-11-04,Chattanooga,Ind,W.A. Roddick,A,Mercer,Ind,,L,2,10
+1909-11-13,Chattanooga,Ind,W.A. Roddick,A,Mississippi State,Ind,William Chadwick,L,6,37
+1909-11-20,Chattanooga,Ind,W.A. Roddick,H,Tennessee,Ind,George Levene,T,0,0
+1909-10-02,Samford,Ind,John Longwell,N,Auburn,Ind,Mike Donahue,L,0,11
+1909-10-09,Samford,Ind,John Longwell,A,Alabama,Ind,J.W.H. Pollard,L,0,14
+1909-10-23,Samford,Ind,John Longwell,A,Mercer,Ind,,W,6,5
+1909-10-31,Samford,Ind,John Longwell,A,Chattanooga,Ind,W.A. Roddick,T,0,0
+1909-11-08,Samford,Ind,John Longwell,H,Mississippi State,Ind,William Chadwick,W,6,0
+1909-10-16,Army,Ind,Harry Nelly,H,Yale,Ind,Howard Jones,L,0,17
+1909-10-23,Army,Ind,Harry Nelly,H,Lehigh,Ind,,W,18,0
+1909-10-30,Army,Ind,Harry Nelly,H,Harvard,Ind,Percy Haughton,L,0,9
+1909-10-09,Penn State,Ind,Bill Hollenback,N,Carlisle,Ind,Pop Warner,T,8,8
+1909-10-23,Penn State,Ind,Bill Hollenback,A,Pennsylvania,Ind,,T,3,3
+1909-11-06,Penn State,Ind,Bill Hollenback,A,Bucknell,Ind,George Hoskins,W,33,0
+1909-11-13,Penn State,Ind,Bill Hollenback,H,West Virginia,Ind,,W,40,0
+1909-11-25,Penn State,Ind,Bill Hollenback,A,Pitt,Ind,Joseph Thompson,W,5,0
+1909-10-02,Princeton,Ind,James McCormick,H,Villanova,Ind,Frederick Crolius,W,12,0
+1909-10-09,Princeton,Ind,James McCormick,H,Fordham,Ind,Howard Gargan,W,3,0
+1909-10-13,Princeton,Ind,James McCormick,H,Virginia Tech,Ind,Branch Bocock,W,8,6
+1909-10-16,Princeton,Ind,James McCormick,H,Sewanee,Ind,Harris Cope,W,20,0
+1909-10-23,Princeton,Ind,James McCormick,H,Lafayette,Ind,,L,0,6
+1909-10-30,Princeton,Ind,James McCormick,A,Navy,Ind,Frank Berrien,W,5,3
+1909-11-13,Princeton,Ind,James McCormick,A,Yale,Ind,Howard Jones,L,0,17
+1909-10-02,Vanderbilt,Ind,Dan McGugin,H,Mercer,Ind,,W,28,5
+1909-10-23,Vanderbilt,Ind,Dan McGugin,H,Auburn,Ind,Mike Donahue,W,17,0
+1909-10-30,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,N.P. Stauffer,W,17,0
+1909-11-06,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,George Levene,W,51,0
+1909-11-20,Vanderbilt,Ind,Dan McGugin,A,Washington (MO),MVIAA,Francis Cayou,W,12,0
+1909-11-25,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,L,5,16
+1909-10-16,Colorado College,Ind,J.R. Richards,N,Colorado Mines,Ind,,W,22,4
+1909-10-30,Colorado College,Ind,J.R. Richards,A,Wyoming,Ind,H.I. Dean,W,44,5
+1909-11-13,Colorado College,Ind,J.R. Richards,H,Colorado,Ind,Fred Folsom,L,0,9
+1909-11-25,Colorado College,Ind,J.R. Richards,H,Denver,Ind,John Koehler,L,6,29
+1909-10-02,Auburn,Ind,Mike Donahue,N,Samford,Ind,John Longwell,W,11,0
+1909-10-16,Auburn,Ind,Mike Donahue,A,Mercer,Ind,,W,23,5
+1909-10-23,Auburn,Ind,Mike Donahue,A,Vanderbilt,Ind,Dan McGugin,L,0,17
+1909-11-06,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,9,0
+1909-11-13,Auburn,Ind,Mike Donahue,H,Sewanee,Ind,Harris Cope,L,11,12
+1909-11-25,Auburn,Ind,Mike Donahue,H,Georgia,Ind,James Coulter,W,17,5
+1909-10-09,Northwestern,Western,Bill Horr,A,Purdue,Western,Frederick Speik,W,14,5
+1909-10-30,Northwestern,Western,Bill Horr,H,Wisconsin,Western,Tom Barry,L,11,21
+1909-11-06,Northwestern,Western,Bill Horr,A,Chicago,Western,Amos Alonzo Stagg,L,0,34
+1909-11-13,Northwestern,Western,Bill Horr,H,Illinois,Western,Arthur Hall,L,0,35
+1909-10-09,Kansas,MVIAA,Doc Kennedy,H,Oklahoma,Ind,Bennie Owen,W,11,0
+1909-10-23,Kansas,MVIAA,Doc Kennedy,H,Washington (MO),MVIAA,Francis Cayou,W,23,0
+1909-11-06,Kansas,MVIAA,Doc Kennedy,A,Nebraska,MVIAA,King Cole,W,6,0
+1909-11-20,Kansas,MVIAA,Doc Kennedy,H,Iowa,Western,John Griffith,W,20,7
+1909-11-25,Kansas,MVIAA,Doc Kennedy,N,Missouri,MVIAA,Bill Roper,L,6,12
+1909-10-09,LSU,Ind,John Mayhew,H,Ole Miss,Ind,N.P. Stauffer,W,10,0
+1909-10-16,LSU,Ind,John Mayhew,H,Mississippi State,Ind,William Chadwick,W,15,0
+1909-10-30,LSU,Ind,John Mayhew,H,Sewanee,Ind,Harris Cope,L,6,15
+1909-11-13,LSU,Ind,John Mayhew,N,Arkansas,Ind,Hugo Bezdek,L,0,16
+1909-11-25,LSU,Ind,John Mayhew,A,Alabama,Ind,J.W.H. Pollard,W,12,6
+1909-10-02,Pennsylvania,Ind,,H,Dickinson,Ind,Paul Smith,W,18,0
+1909-10-09,Pennsylvania,Ind,,H,West Virginia,Ind,,W,12,0
+1909-10-16,Pennsylvania,Ind,,H,Brown,Ind,J.A. Gammons,W,13,5
+1909-10-23,Pennsylvania,Ind,,H,Penn State,Ind,Bill Hollenback,T,3,3
+1909-10-30,Pennsylvania,Ind,,H,Carlisle,Ind,Pop Warner,W,29,6
+1909-11-06,Pennsylvania,Ind,,H,Lafayette,Ind,,T,6,6
+1909-11-13,Pennsylvania,Ind,,H,Michigan,Ind,Fielding Yost,L,6,12
+1909-11-25,Pennsylvania,Ind,,H,Cornell,Ind,George Walder,W,17,6
+1909-10-02,Iowa,Western,John Griffith,A,Minnesota,Western,Henry Williams,L,0,41
+1909-10-23,Iowa,Western,John Griffith,A,Nebraska,MVIAA,King Cole,T,6,6
+1909-10-30,Iowa,Western,John Griffith,H,Missouri,MVIAA,Bill Roper,L,12,13
+1909-11-06,Iowa,Western,John Griffith,A,Drake,MVIAA,John Griffith,L,14,17
+1909-11-13,Iowa,Western,John Griffith,H,Iowa State,MVIAA,,W,16,0
+1909-11-20,Iowa,Western,John Griffith,A,Kansas,MVIAA,Doc Kennedy,L,7,20
+1909-10-16,Illinois,Western,Arthur Hall,A,Chicago,Western,Amos Alonzo Stagg,L,8,14
+1909-10-30,Illinois,Western,Arthur Hall,H,Purdue,Western,Frederick Speik,W,24,6
+1909-11-06,Illinois,Western,Arthur Hall,H,Indiana,Western,James Sheldon,W,6,5
+1909-11-13,Illinois,Western,Arthur Hall,A,Northwestern,Western,Bill Horr,W,35,0
+1909-11-20,Illinois,Western,Arthur Hall,A,Syracuse,Ind,Tad Jones,W,17,8
+1909-10-16,Texas,Ind,Dexter Draper,H,Haskell,Ind,John Bender,L,11,12
+1909-10-30,Texas,Ind,Dexter Draper,H,Texas Christian,Ind,J.R. Langley,W,24,0
+1909-11-08,Texas,Ind,Dexter Draper,N,Texas A&M,Ind,Charley Moran,L,0,23
+1909-11-13,Texas,Ind,Dexter Draper,A,Tulane,Ind,Buster Brown,T,10,10
+1909-11-19,Texas,Ind,Dexter Draper,H,Oklahoma,Ind,Bennie Owen,W,30,0
+1909-11-25,Texas,Ind,Dexter Draper,H,Texas A&M,Ind,Charley Moran,L,0,5
+1909-10-16,Texas Christian,Ind,J.R. Langley,A,Texas A&M,Ind,Charley Moran,T,0,0
+1909-10-23,Texas Christian,Ind,J.R. Langley,A,Baylor,Ind,Enoch Mills,W,9,0
+1909-10-30,Texas Christian,Ind,J.R. Langley,A,Texas,Ind,Dexter Draper,L,0,24
+1909-11-13,Texas Christian,Ind,J.R. Langley,A,Baylor,Ind,Enoch Mills,W,11,0
+1909-11-25,Texas Christian,Ind,J.R. Langley,A,Baylor,Ind,Enoch Mills,L,3,6
+1909-10-20,Baylor,Ind,Enoch Mills,H,Haskell,Ind,John Bender,W,12,0
+1909-10-23,Baylor,Ind,Enoch Mills,H,Texas Christian,Ind,J.R. Langley,L,0,9
+1909-10-30,Baylor,Ind,Enoch Mills,H,Texas A&M,Ind,Charley Moran,L,6,9
+1909-11-13,Baylor,Ind,Enoch Mills,H,Texas Christian,Ind,J.R. Langley,L,0,11
+1909-11-25,Baylor,Ind,Enoch Mills,H,Texas Christian,Ind,J.R. Langley,W,6,3
+1909-10-09,Georgia,Ind,James Coulter,A,Citadel,Ind,Sam Costen,T,0,0
+1909-10-16,Georgia,Ind,James Coulter,H,Davidson,Ind,F.M. Simmons,T,0,0
+1909-10-23,Georgia,Ind,James Coulter,A,Tennessee,Ind,George Levene,W,3,0
+1909-10-30,Georgia,Ind,James Coulter,H,Alabama,Ind,J.W.H. Pollard,L,0,14
+1909-11-10,Georgia,Ind,James Coulter,N,Clemson,Ind,Bob Williams,L,0,5
+1909-11-20,Georgia,Ind,James Coulter,A,Georgia Tech,Ind,John Heisman,L,6,12
+1909-11-25,Georgia,Ind,James Coulter,A,Auburn,Ind,Mike Donahue,L,5,17
+1909-10-02,Virginia,Ind,John Neff,H,Davidson,Ind,F.M. Simmons,W,11,0
+1909-10-16,Virginia,Ind,John Neff,H,Lehigh,Ind,,L,7,11
+1909-10-23,Virginia,Ind,John Neff,A,Navy,Ind,Frank Berrien,W,5,0
+1909-11-06,Virginia,Ind,John Neff,A,Georgetown,Ind,William Newman,W,21,0
+1909-10-16,Richmond,Ind,,H,Georgetown,Ind,William Newman,L,0,17
+1909-10-23,Richmond,Ind,,H,Virginia Tech,Ind,Branch Bocock,L,0,52
+1909-10-31,Richmond,Ind,,A,North Carolina,Ind,A.E. Brides,L,0,22
+1909-11-05,Richmond,Ind,,A,Wake Forest,Ind,A.T. Myers,W,5,0
+1909-10-02,Brown,Ind,J.A. Gammons,H,Colgate,Ind,Gus Brown,W,14,0
+1909-10-16,Brown,Ind,J.A. Gammons,A,Pennsylvania,Ind,,L,5,13
+1909-10-23,Brown,Ind,J.A. Gammons,A,Harvard,Ind,Percy Haughton,L,0,11
+1909-11-06,Brown,Ind,J.A. Gammons,A,Yale,Ind,Howard Jones,L,0,23
+1909-11-20,Brown,Ind,J.A. Gammons,N,Carlisle,Ind,Pop Warner,W,21,8
+1909-10-09,Citadel,Ind,Sam Costen,H,Georgia,Ind,James Coulter,T,0,0
+1909-11-06,Citadel,Ind,Sam Costen,H,Davidson,Ind,F.M. Simmons,T,0,0
+1909-11-13,Citadel,Ind,Sam Costen,H,Clemson,Ind,Bob Williams,L,0,17
+1909-11-25,Citadel,Ind,Sam Costen,H,South Carolina,Ind,Christie Benet,L,5,11
+1909-10-09,Oklahoma,Ind,Bennie Owen,A,Kansas,MVIAA,Doc Kennedy,L,0,11
+1909-10-23,Oklahoma,Ind,Bennie Owen,A,Arkansas,Ind,Hugo Bezdek,L,6,21
+1909-11-17,Oklahoma,Ind,Bennie Owen,A,Texas A&M,Ind,Charley Moran,L,8,14
+1909-11-19,Oklahoma,Ind,Bennie Owen,A,Texas,Ind,Dexter Draper,L,0,30
+1909-10-09,Tennessee,Ind,George Levene,H,North Carolina,Ind,A.E. Brides,L,0,3
+1909-10-23,Tennessee,Ind,George Levene,H,Georgia,Ind,James Coulter,L,0,3
+1909-10-30,Tennessee,Ind,George Levene,H,Georgia Tech,Ind,John Heisman,L,0,29
+1909-11-06,Tennessee,Ind,George Levene,A,Vanderbilt,Ind,Dan McGugin,L,0,51
+1909-11-13,Tennessee,Ind,George Levene,H,Alabama,Ind,J.W.H. Pollard,L,0,10
+1909-11-20,Tennessee,Ind,George Levene,A,Chattanooga,Ind,W.A. Roddick,T,0,0
+1909-10-02,Virginia Tech,Ind,Branch Bocock,H,Clemson,Ind,Bob Williams,W,6,0
+1909-10-13,Virginia Tech,Ind,Branch Bocock,A,Princeton,Ind,James McCormick,L,6,8
+1909-10-23,Virginia Tech,Ind,Branch Bocock,A,Richmond,Ind,,W,52,0
+1909-10-30,Virginia Tech,Ind,Branch Bocock,N,Washington & Lee,Ind,R.R. Brown,W,34,6
+1909-11-06,Virginia Tech,Ind,Branch Bocock,H,North Carolina,Ind,A.E. Brides,W,15,0
+1909-11-25,Virginia Tech,Ind,Branch Bocock,N,North Carolina State,Ind,,W,18,5
+1909-10-16,Lehigh,Ind,,A,Virginia,Ind,John Neff,W,11,7
+1909-10-23,Lehigh,Ind,,A,Army,Ind,Harry Nelly,L,0,18
+1909-11-20,Lehigh,Ind,,H,Lafayette,Ind,,L,0,21
+1909-10-09,Alabama,Ind,J.W.H. Pollard,H,Samford,Ind,John Longwell,W,14,0
+1909-10-16,Alabama,Ind,J.W.H. Pollard,H,Clemson,Ind,Bob Williams,W,3,0
+1909-10-23,Alabama,Ind,J.W.H. Pollard,A,Ole Miss,Ind,N.P. Stauffer,T,0,0
+1909-10-30,Alabama,Ind,J.W.H. Pollard,A,Georgia,Ind,James Coulter,W,14,0
+1909-11-13,Alabama,Ind,J.W.H. Pollard,A,Tennessee,Ind,George Levene,W,10,0
+1909-11-20,Alabama,Ind,J.W.H. Pollard,A,Tulane,Ind,Buster Brown,T,5,5
+1909-11-25,Alabama,Ind,J.W.H. Pollard,H,LSU,Ind,John Mayhew,L,6,12
+1909-10-23,Arkansas,Ind,Hugo Bezdek,H,Oklahoma,Ind,Bennie Owen,W,21,6
+1909-11-13,Arkansas,Ind,Hugo Bezdek,N,LSU,Ind,John Mayhew,W,16,0
+1909-11-25,Arkansas,Ind,Hugo Bezdek,H,Washington (MO),MVIAA,Francis Cayou,W,32,0
+1909-10-02,Clemson,Ind,Bob Williams,A,Virginia Tech,Ind,Branch Bocock,L,0,6
+1909-10-09,Clemson,Ind,Bob Williams,N,Davidson,Ind,F.M. Simmons,W,17,5
+1909-10-16,Clemson,Ind,Bob Williams,A,Alabama,Ind,J.W.H. Pollard,L,0,3
+1909-11-04,Clemson,Ind,Bob Williams,A,South Carolina,Ind,Christie Benet,W,6,0
+1909-11-10,Clemson,Ind,Bob Williams,N,Georgia,Ind,James Coulter,W,5,0
+1909-11-13,Clemson,Ind,Bob Williams,A,Citadel,Ind,Sam Costen,W,17,0
+1909-11-25,Clemson,Ind,Bob Williams,A,Georgia Tech,Ind,John Heisman,L,3,29
+1909-10-02,Purdue,Western,Frederick Speik,A,Chicago,Western,Amos Alonzo Stagg,L,0,40
+1909-10-09,Purdue,Western,Frederick Speik,H,Northwestern,Western,Bill Horr,L,5,14
+1909-10-30,Purdue,Western,Frederick Speik,A,Illinois,Western,Arthur Hall,L,6,24
+1909-11-20,Purdue,Western,Frederick Speik,H,Indiana,Western,James Sheldon,L,3,36
+1909-10-16,South Carolina,Ind,Christie Benet,A,Georgia Tech,Ind,John Heisman,L,0,59
+1909-10-23,South Carolina,Ind,Christie Benet,H,Wake Forest,Ind,A.T. Myers,L,0,8
+1909-11-04,South Carolina,Ind,Christie Benet,H,Clemson,Ind,Bob Williams,L,0,6
+1909-11-13,South Carolina,Ind,Christie Benet,N,Davidson,Ind,F.M. Simmons,L,5,29
+1909-11-20,South Carolina,Ind,Christie Benet,A,Mercer,Ind,,L,3,5
+1909-11-25,South Carolina,Ind,Christie Benet,A,Citadel,Ind,Sam Costen,W,11,5
+1909-10-16,Nebraska,MVIAA,King Cole,H,Minnesota,Western,Henry Williams,L,0,14
+1909-10-23,Nebraska,MVIAA,King Cole,H,Iowa,Western,John Griffith,T,6,6
+1909-11-06,Nebraska,MVIAA,King Cole,H,Kansas,MVIAA,Doc Kennedy,L,0,6
+1909-11-20,Nebraska,MVIAA,King Cole,A,Denver,Ind,John Koehler,W,6,5
+1909-11-25,Nebraska,MVIAA,King Cole,H,Haskell,Ind,John Bender,L,5,16
+1909-10-09,West Virginia,Ind,,A,Pennsylvania,Ind,,L,0,12
+1909-10-23,West Virginia,Ind,,H,Bucknell,Ind,George Hoskins,T,6,6
+1909-11-06,West Virginia,Ind,,H,Pitt,Ind,Joseph Thompson,T,0,0
+1909-11-13,West Virginia,Ind,,A,Penn State,Ind,Bill Hollenback,L,0,40
+1909-11-25,West Virginia,Ind,,H,Washington & Jefferson,Ind,D.C. Morrow,L,5,18
+1909-10-23,Harvard,Ind,Percy Haughton,H,Brown,Ind,J.A. Gammons,W,11,0
+1909-10-30,Harvard,Ind,Percy Haughton,A,Army,Ind,Harry Nelly,W,9,0
+1909-11-06,Harvard,Ind,Percy Haughton,H,Cornell,Ind,George Walder,W,18,0
+1909-11-20,Harvard,Ind,Percy Haughton,H,Yale,Ind,Howard Jones,L,0,8
+1909-11-13,Colorado,Ind,Fred Folsom,A,Colorado College,Ind,J.R. Richards,W,9,0
+1909-11-25,Colorado,Ind,Fred Folsom,A,Colorado Mines,Ind,,W,16,0
+1909-10-23,Missouri,MVIAA,Bill Roper,A,Iowa State,MVIAA,,T,6,6
+1909-10-30,Missouri,MVIAA,Bill Roper,A,Iowa,Western,John Griffith,W,13,12
+1909-11-06,Missouri,MVIAA,Bill Roper,A,Washington (MO),MVIAA,Francis Cayou,W,5,0
+1909-11-13,Missouri,MVIAA,Bill Roper,H,Drake,MVIAA,John Griffith,W,22,6
+1909-11-25,Missouri,MVIAA,Bill Roper,N,Kansas,MVIAA,Doc Kennedy,W,12,6
+1909-10-09,Denver,Ind,John Koehler,H,Wyoming,Ind,H.I. Dean,W,56,0
+1909-11-06,Denver,Ind,John Koehler,A,Colorado Mines,Ind,,W,25,0
+1909-11-13,Denver,Ind,John Koehler,H,Haskell,Ind,John Bender,L,5,8
+1909-11-20,Denver,Ind,John Koehler,H,Nebraska,MVIAA,King Cole,L,5,6
+1909-11-25,Denver,Ind,John Koehler,A,Colorado College,Ind,J.R. Richards,W,29,6
+1909-10-16,Washington & Jefferson,Ind,D.C. Morrow,H,Dickinson,Ind,Paul Smith,W,18,3
+1909-11-06,Washington & Jefferson,Ind,D.C. Morrow,A,Navy,Ind,Frank Berrien,T,0,0
+1909-11-13,Washington & Jefferson,Ind,D.C. Morrow,A,Pitt,Ind,Joseph Thompson,L,3,17
+1909-11-25,Washington & Jefferson,Ind,D.C. Morrow,A,West Virginia,Ind,,W,18,5
+1909-10-23,Wisconsin,Western,Tom Barry,H,Indiana,Western,James Sheldon,W,6,3
+1909-10-30,Wisconsin,Western,Tom Barry,A,Northwestern,Western,Bill Horr,W,21,11
+1909-11-13,Wisconsin,Western,Tom Barry,H,Minnesota,Western,Henry Williams,L,6,34
+1909-11-20,Wisconsin,Western,Tom Barry,A,Chicago,Western,Amos Alonzo Stagg,T,6,6
+1909-10-02,Bucknell,Ind,George Hoskins,A,Carlisle,Ind,Pop Warner,L,6,48
+1909-10-16,Bucknell,Ind,George Hoskins,A,Pitt,Ind,Joseph Thompson,L,6,18
+1909-10-23,Bucknell,Ind,George Hoskins,A,West Virginia,Ind,,T,6,6
+1909-11-06,Bucknell,Ind,George Hoskins,H,Penn State,Ind,Bill Hollenback,L,0,33
+1909-11-13,Bucknell,Ind,George Hoskins,H,Dickinson,Ind,Paul Smith,T,6,6
+1909-10-16,Texas A&M,Ind,Charley Moran,H,Texas Christian,Ind,J.R. Langley,T,0,0
+1909-10-23,Texas A&M,Ind,Charley Moran,H,Haskell,Ind,John Bender,W,15,0
+1909-10-30,Texas A&M,Ind,Charley Moran,A,Baylor,Ind,Enoch Mills,W,9,6
+1909-11-08,Texas A&M,Ind,Charley Moran,N,Texas,Ind,Dexter Draper,W,23,0
+1909-11-17,Texas A&M,Ind,Charley Moran,H,Oklahoma,Ind,Bennie Owen,W,14,8
+1909-11-25,Texas A&M,Ind,Charley Moran,A,Texas,Ind,Dexter Draper,W,5,0
+1909-10-02,Davidson,Ind,F.M. Simmons,A,Virginia,Ind,John Neff,L,0,11
+1909-10-09,Davidson,Ind,F.M. Simmons,N,Clemson,Ind,Bob Williams,L,5,17
+1909-10-16,Davidson,Ind,F.M. Simmons,A,Georgia,Ind,James Coulter,T,0,0
+1909-10-22,Davidson,Ind,F.M. Simmons,A,Washington & Lee,Ind,R.R. Brown,L,6,18
+1909-11-06,Davidson,Ind,F.M. Simmons,A,Citadel,Ind,Sam Costen,T,0,0
+1909-11-13,Davidson,Ind,F.M. Simmons,N,South Carolina,Ind,Christie Benet,W,29,5
+1909-11-20,Davidson,Ind,F.M. Simmons,A,Navy,Ind,Frank Berrien,L,6,45
+1909-10-23,Washington (MO),MVIAA,Francis Cayou,A,Kansas,MVIAA,Doc Kennedy,L,0,23
+1909-11-06,Washington (MO),MVIAA,Francis Cayou,H,Missouri,MVIAA,Bill Roper,L,0,5
+1909-11-20,Washington (MO),MVIAA,Francis Cayou,H,Vanderbilt,Ind,Dan McGugin,L,0,12
+1909-11-25,Washington (MO),MVIAA,Francis Cayou,A,Arkansas,Ind,Hugo Bezdek,L,0,32
+1909-10-02,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Frederick Speik,W,40,0
+1909-10-09,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,21,0
+1909-10-16,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Arthur Hall,W,14,8
+1909-10-30,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,L,6,20
+1909-11-06,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Bill Horr,W,34,0
+1909-11-13,Chicago,Western,Amos Alonzo Stagg,A,Cornell,Ind,George Walder,T,6,6
+1909-11-20,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Tom Barry,T,6,6
+1909-10-16,Colorado Mines,Ind,,N,Colorado College,Ind,J.R. Richards,L,4,22
+1909-11-06,Colorado Mines,Ind,,H,Denver,Ind,John Koehler,L,0,25
+1909-11-20,Colorado Mines,Ind,,A,Wyoming,Ind,H.I. Dean,W,23,6
+1909-11-25,Colorado Mines,Ind,,H,Colorado,Ind,Fred Folsom,L,0,16
+1909-11-06,North Carolina State,Ind,,A,Washington & Lee,Ind,R.R. Brown,W,3,0
+1909-11-25,North Carolina State,Ind,,N,Virginia Tech,Ind,Branch Bocock,L,5,18
+1909-10-02,Colgate,Ind,Gus Brown,A,Brown,Ind,J.A. Gammons,L,0,14
+1909-10-23,Colgate,Ind,Gus Brown,A,Yale,Ind,Howard Jones,L,0,36
+1909-11-13,Colgate,Ind,Gus Brown,A,Syracuse,Ind,Tad Jones,W,6,5
+1909-10-02,Minnesota,Western,Henry Williams,H,Iowa,Western,John Griffith,W,41,0
+1909-10-09,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,,W,18,0
+1909-10-16,Minnesota,Western,Henry Williams,A,Nebraska,MVIAA,King Cole,W,14,0
+1909-10-30,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,W,20,6
+1909-11-13,Minnesota,Western,Henry Williams,A,Wisconsin,Western,Tom Barry,W,34,6
+1909-11-20,Minnesota,Western,Henry Williams,H,Michigan,Ind,Fielding Yost,L,6,15
+1909-10-09,Ole Miss,Ind,N.P. Stauffer,A,LSU,Ind,John Mayhew,L,0,10
+1909-10-16,Ole Miss,Ind,N.P. Stauffer,A,Tulane,Ind,Buster Brown,L,0,5
+1909-10-23,Ole Miss,Ind,N.P. Stauffer,H,Alabama,Ind,J.W.H. Pollard,T,0,0
+1909-10-30,Ole Miss,Ind,N.P. Stauffer,A,Vanderbilt,Ind,Dan McGugin,L,0,17
+1909-11-25,Ole Miss,Ind,N.P. Stauffer,N,Mississippi State,Ind,William Chadwick,W,9,5
+1909-10-16,Sewanee,Ind,Harris Cope,A,Princeton,Ind,James McCormick,L,0,20
+1909-10-23,Sewanee,Ind,Harris Cope,A,Georgia Tech,Ind,John Heisman,W,15,0
+1909-10-30,Sewanee,Ind,Harris Cope,A,LSU,Ind,John Mayhew,W,15,6
+1909-11-13,Sewanee,Ind,Harris Cope,A,Auburn,Ind,Mike Donahue,W,12,11
+1909-11-25,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,W,16,5
+1909-10-30,Michigan,Ind,Fielding Yost,H,Syracuse,Ind,Tad Jones,W,44,0
+1909-11-13,Michigan,Ind,Fielding Yost,A,Pennsylvania,Ind,,W,12,6
+1909-11-20,Michigan,Ind,Fielding Yost,A,Minnesota,Western,Henry Williams,W,15,6
+1909-10-16,Navy,Ind,Frank Berrien,H,Villanova,Ind,Frederick Crolius,L,6,11
+1909-10-23,Navy,Ind,Frank Berrien,H,Virginia,Ind,John Neff,L,0,5
+1909-10-30,Navy,Ind,Frank Berrien,H,Princeton,Ind,James McCormick,L,3,5
+1909-11-06,Navy,Ind,Frank Berrien,H,Washington & Jefferson,Ind,D.C. Morrow,T,0,0
+1909-11-20,Navy,Ind,Frank Berrien,H,Davidson,Ind,F.M. Simmons,W,45,6
+1909-10-23,Lafayette,Ind,,A,Princeton,Ind,James McCormick,W,6,0
+1909-11-06,Lafayette,Ind,,A,Pennsylvania,Ind,,T,6,6
+1909-11-20,Lafayette,Ind,,A,Lehigh,Ind,,W,21,0
+1909-11-25,Lafayette,Ind,,H,Dickinson,Ind,Paul Smith,W,5,0
+1909-10-16,Tulane,Ind,Buster Brown,H,Ole Miss,Ind,N.P. Stauffer,W,5,0
+1909-10-30,Tulane,Ind,Buster Brown,H,Mississippi State,Ind,William Chadwick,W,2,0
+1909-11-13,Tulane,Ind,Buster Brown,H,Texas,Ind,Dexter Draper,T,10,10
+1909-11-20,Tulane,Ind,Buster Brown,H,Alabama,Ind,J.W.H. Pollard,T,5,5
+1909-10-16,Cornell,Ind,George Walder,H,Fordham,Ind,Howard Gargan,L,6,12
+1909-11-06,Cornell,Ind,George Walder,A,Harvard,Ind,Percy Haughton,L,0,18
+1909-11-13,Cornell,Ind,George Walder,H,Chicago,Western,Amos Alonzo Stagg,T,6,6
+1909-11-25,Cornell,Ind,George Walder,A,Pennsylvania,Ind,,L,6,17
+1909-10-16,Pitt,Ind,Joseph Thompson,H,Bucknell,Ind,George Hoskins,W,18,6
+1909-10-23,Pitt,Ind,Joseph Thompson,H,Carlisle,Ind,Pop Warner,W,14,3
+1909-11-06,Pitt,Ind,Joseph Thompson,A,West Virginia,Ind,,T,0,0
+1909-11-13,Pitt,Ind,Joseph Thompson,H,Washington & Jefferson,Ind,D.C. Morrow,W,17,3
+1909-11-25,Pitt,Ind,Joseph Thompson,H,Penn State,Ind,Bill Hollenback,L,0,5
+1909-11-06,Drake,MVIAA,John Griffith,H,Iowa,Western,John Griffith,W,17,14
+1909-11-13,Drake,MVIAA,John Griffith,A,Missouri,MVIAA,Bill Roper,L,6,22
+1909-11-25,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,,W,11,0
+1909-10-02,Mercer,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,5,28
+1909-10-16,Mercer,Ind,,H,Auburn,Ind,Mike Donahue,L,5,23
+1909-10-23,Mercer,Ind,,H,Samford,Ind,John Longwell,L,5,6
+1909-11-04,Mercer,Ind,,H,Chattanooga,Ind,W.A. Roddick,W,10,2
+1909-11-13,Mercer,Ind,,H,Georgia Tech,Ind,John Heisman,L,0,35
+1909-11-20,Mercer,Ind,,H,South Carolina,Ind,Christie Benet,W,5,3

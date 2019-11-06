@@ -1,0 +1,1405 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1975-09-06,North Carolina,ACC,Bill Dooley,H,William & Mary,Southern,James Root,W,33,7
+1975-09-20,North Carolina,ACC,Bill Dooley,H,Maryland,ACC,Jerry Claiborne,L,7,34
+1975-09-27,North Carolina,ACC,Bill Dooley,A,Ohio State,Big Ten,Woody Hayes,L,7,32
+1975-10-04,North Carolina,ACC,Bill Dooley,A,Virginia,ACC,Sonny Randle,W,31,28
+1975-10-11,North Carolina,ACC,Bill Dooley,H,Notre Dame,Ind,Dan Devine,L,14,21
+1975-10-18,North Carolina,ACC,Bill Dooley,A,North Carolina State,ACC,Lou Holtz,L,20,21
+1975-10-25,North Carolina,ACC,Bill Dooley,H,East Carolina,Southern,Pat Dye,L,17,38
+1975-11-01,North Carolina,ACC,Bill Dooley,H,Wake Forest,ACC,Chuck Mills,L,9,21
+1975-11-08,North Carolina,ACC,Bill Dooley,H,Clemson,ACC,Red Parker,L,35,38
+1975-11-15,North Carolina,ACC,Bill Dooley,A,Tulane,Ind,Bennie Ellender,W,17,15
+1975-11-22,North Carolina,ACC,Bill Dooley,A,Duke,ACC,Mike McGee,T,17,17
+1975-09-13,Miami (OH),MAC,Dick Crum,H,Marshall,Ind,Frank Ellwood,W,50,0
+1975-09-20,Miami (OH),MAC,Dick Crum,A,Michigan State,Big Ten,Dennis Stolz,L,13,14
+1975-09-27,Miami (OH),MAC,Dick Crum,H,Ball State,MAC,Dave McClain,W,35,28
+1975-10-04,Miami (OH),MAC,Dick Crum,A,Purdue,Big Ten,Alex Agase,W,14,3
+1975-10-11,Miami (OH),MAC,Dick Crum,H,Dayton,Ind,Ron Marciniak,W,10,0
+1975-10-18,Miami (OH),MAC,Dick Crum,H,Ohio,MAC,Bill Hess,W,17,9
+1975-10-25,Miami (OH),MAC,Dick Crum,A,Bowling Green State,MAC,Don Nehlen,W,20,17
+1975-11-01,Miami (OH),MAC,Dick Crum,H,Toledo,MAC,Jack Murphy,W,35,21
+1975-11-08,Miami (OH),MAC,Dick Crum,A,Western Michigan,MAC,Elliot Uzelac,W,44,21
+1975-11-15,Miami (OH),MAC,Dick Crum,A,Kent State,MAC,Dennis Fitzgerald,W,27,8
+1975-11-22,Miami (OH),MAC,Dick Crum,H,Cincinnati,Ind,Tony Mason,W,21,13
+1975-12-20,Miami (OH),MAC,Dick Crum,N,South Carolina,Ind,Jim Carlen,W,20,7
+1975-09-13,Indiana,Big Ten,Lee Corso,H,Minnesota,Big Ten,Cal Stoll,W,20,14
+1975-09-20,Indiana,Big Ten,Lee Corso,A,Nebraska,Big 8,Tom Osborne,L,0,45
+1975-09-27,Indiana,Big Ten,Lee Corso,H,Utah,WAC,Tom Lovat,W,31,7
+1975-10-04,Indiana,Big Ten,Lee Corso,A,North Carolina State,ACC,Lou Holtz,L,0,27
+1975-10-11,Indiana,Big Ten,Lee Corso,A,Northwestern,Big Ten,John Pont,L,0,30
+1975-10-18,Indiana,Big Ten,Lee Corso,H,Iowa,Big Ten,Bob Commings,L,10,20
+1975-10-25,Indiana,Big Ten,Lee Corso,A,Michigan,Big Ten,Bo Schembechler,L,7,55
+1975-11-01,Indiana,Big Ten,Lee Corso,A,Ohio State,Big Ten,Woody Hayes,L,14,24
+1975-11-08,Indiana,Big Ten,Lee Corso,H,Michigan State,Big Ten,Dennis Stolz,L,6,14
+1975-11-15,Indiana,Big Ten,Lee Corso,A,Wisconsin,Big Ten,John Jardine,T,9,9
+1975-11-22,Indiana,Big Ten,Lee Corso,H,Purdue,Big Ten,Alex Agase,L,7,9
+1975-09-13,Florida State,Ind,Darrell Mudra,A,Texas Tech,SWC,Steve Sloan,L,20,31
+1975-09-20,Florida State,Ind,Darrell Mudra,H,Utah State,Ind,Phil Krueger,W,17,8
+1975-09-27,Florida State,Ind,Darrell Mudra,H,Iowa State,Big 8,Earle Bruce,L,6,10
+1975-10-04,Florida State,Ind,Darrell Mudra,A,Georgia Tech,Ind,Pepper Rodgers,L,0,30
+1975-10-11,Florida State,Ind,Darrell Mudra,A,Virginia Tech,Ind,Jimmy Sharpe,L,10,13
+1975-10-18,Florida State,Ind,Darrell Mudra,A,Florida,SEC,Doug Dickey,L,8,34
+1975-10-25,Florida State,Ind,Darrell Mudra,H,Auburn,SEC,Ralph Jordan,L,14,17
+1975-11-01,Florida State,Ind,Darrell Mudra,A,Clemson,ACC,Red Parker,W,43,7
+1975-11-08,Florida State,Ind,Darrell Mudra,H,Memphis,Ind,Richard Williamson,L,14,17
+1975-11-15,Florida State,Ind,Darrell Mudra,H,Miami (FL),Ind,Carl Selmer,L,22,24
+1975-11-22,Florida State,Ind,Darrell Mudra,A,Houston,Ind,Bill Yeoman,W,33,22
+1975-09-13,Iowa State,Big 8,Earle Bruce,A,UCLA,Pac-8,Dick Vermeil,L,21,37
+1975-09-20,Iowa State,Big 8,Earle Bruce,H,Air Force,Ind,Ben Martin,W,17,12
+1975-09-27,Iowa State,Big 8,Earle Bruce,A,Florida State,Ind,Darrell Mudra,W,10,6
+1975-10-04,Iowa State,Big 8,Earle Bruce,A,Utah,WAC,Tom Lovat,W,31,3
+1975-10-11,Iowa State,Big 8,Earle Bruce,A,Kansas State,Big 8,Ellis Rainsberger,W,17,7
+1975-10-18,Iowa State,Big 8,Earle Bruce,H,Kansas,Big 8,Bud Moore,L,10,21
+1975-10-25,Iowa State,Big 8,Earle Bruce,A,Oklahoma,Big 8,Barry Switzer,L,7,39
+1975-11-01,Iowa State,Big 8,Earle Bruce,H,Colorado,Big 8,Bill Mallory,L,27,28
+1975-11-08,Iowa State,Big 8,Earle Bruce,H,Missouri,Big 8,Al Onofrio,L,14,44
+1975-11-15,Iowa State,Big 8,Earle Bruce,A,Nebraska,Big 8,Tom Osborne,L,0,52
+1975-11-22,Iowa State,Big 8,Earle Bruce,H,Oklahoma State,Big 8,Jim Stanley,L,7,14
+1975-09-13,Cincinnati,Ind,Tony Mason,H,Richmond,Southern,Jim Tait,W,19,6
+1975-09-20,Cincinnati,Ind,Tony Mason,H,Memphis,Ind,Richard Williamson,W,13,3
+1975-09-27,Cincinnati,Ind,Tony Mason,A,Louisville,Ind,Vince Gibson,W,46,27
+1975-10-04,Cincinnati,Ind,Tony Mason,A,Temple,Ind,Wayne Hardin,L,17,21
+1975-10-11,Cincinnati,Ind,Tony Mason,A,Tulsa,MVC,F. Dry,L,16,24
+1975-10-18,Cincinnati,Ind,Tony Mason,H,Arkansas State,Southland,Bill Davidson,L,9,14
+1975-10-25,Cincinnati,Ind,Tony Mason,H,Louisiana,Southland,Augie Tammariello,W,23,17
+1975-11-01,Cincinnati,Ind,Tony Mason,H,Houston,Ind,Bill Yeoman,W,28,23
+1975-11-08,Cincinnati,Ind,Tony Mason,H,Maryland,ACC,Jerry Claiborne,L,19,21
+1975-11-15,Cincinnati,Ind,Tony Mason,A,Ohio,MAC,Bill Hess,W,6,5
+1975-11-22,Cincinnati,Ind,Tony Mason,A,Miami (OH),MAC,Dick Crum,L,13,21
+1975-09-13,Arizona State,WAC,Frank Kush,H,Washington,Pac-8,Don James,W,35,12
+1975-09-20,Arizona State,WAC,Frank Kush,A,Texas Christian,SWC,Jim Shofner,W,33,10
+1975-09-27,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,20,0
+1975-10-11,Arizona State,WAC,Frank Kush,A,New Mexico,WAC,Bill Mondt,W,16,10
+1975-10-18,Arizona State,WAC,Frank Kush,A,Colorado State,WAC,Sarkis Arslanian,W,33,3
+1975-10-25,Arizona State,WAC,Frank Kush,H,UTEP,WAC,Gil Bartosh,W,24,6
+1975-11-01,Arizona State,WAC,Frank Kush,A,Utah,WAC,Tom Lovat,W,40,14
+1975-11-08,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Fred Akers,W,21,20
+1975-11-15,Arizona State,WAC,Frank Kush,H,Pacific,PCAA,Chester Caddas,W,55,14
+1975-11-29,Arizona State,WAC,Frank Kush,H,Arizona,WAC,Jim Young,W,24,21
+1975-12-26,Arizona State,WAC,Frank Kush,H,Nebraska,Big 8,Tom Osborne,W,17,14
+1975-09-20,Furman,Southern,Art Baker,A,Richmond,Southern,Jim Tait,L,21,27
+1975-09-27,Furman,Southern,Art Baker,H,Appalachian State,Southern,Jim Brakefield,W,30,23
+1975-10-04,Furman,Southern,Art Baker,H,Virginia Military Institute,Southern,Bob Thalman,L,10,13
+1975-10-18,Furman,Southern,Art Baker,H,Holy Cross,Ind,Edward Doherty,W,21,14
+1975-10-25,Furman,Southern,Art Baker,A,William & Mary,Southern,James Root,W,21,6
+1975-11-01,Furman,Southern,Art Baker,A,East Carolina,Southern,Pat Dye,L,10,21
+1975-11-15,Furman,Southern,Art Baker,A,Citadel,Southern,Bobby Ross,L,9,13
+1975-09-13,Utah,WAC,Tom Lovat,H,Utah State,Ind,Phil Krueger,L,7,13
+1975-09-20,Utah,WAC,Tom Lovat,H,Washington State,Pac-8,Jim Sweeney,L,14,30
+1975-09-27,Utah,WAC,Tom Lovat,A,Indiana,Big Ten,Lee Corso,L,7,31
+1975-10-04,Utah,WAC,Tom Lovat,H,Iowa State,Big 8,Earle Bruce,L,3,31
+1975-10-11,Utah,WAC,Tom Lovat,H,Wyoming,WAC,Fred Akers,W,16,13
+1975-10-18,Utah,WAC,Tom Lovat,A,New Mexico,WAC,Bill Mondt,L,23,27
+1975-10-25,Utah,WAC,Tom Lovat,A,Oregon,Pac-8,Don Read,L,7,18
+1975-11-01,Utah,WAC,Tom Lovat,H,Arizona State,WAC,Frank Kush,L,14,40
+1975-11-08,Utah,WAC,Tom Lovat,A,Tennessee,SEC,Bill Battle,L,7,40
+1975-11-15,Utah,WAC,Tom Lovat,A,Brigham Young,WAC,LaVell Edwards,L,20,51
+1975-11-22,Utah,WAC,Tom Lovat,A,Arizona,WAC,Jim Young,L,14,38
+1975-09-06,Cal State Fullerton,PCAA,Jim Colletto,H,Fresno State,PCAA,J.R. Boone,L,7,49
+1975-09-20,Cal State Fullerton,PCAA,Jim Colletto,A,Long Beach State,PCAA,Wayne Howard,L,6,32
+1975-10-04,Cal State Fullerton,PCAA,Jim Colletto,A,San Diego State,PCAA,Claude Gilbert,L,14,59
+1975-10-11,Cal State Fullerton,PCAA,Jim Colletto,A,Pacific,PCAA,Chester Caddas,L,20,31
+1975-10-25,Cal State Fullerton,PCAA,Jim Colletto,A,San Jose State,PCAA,Darryl Rogers,L,7,41
+1975-11-01,Cal State Fullerton,PCAA,Jim Colletto,A,Hawaii,Ind,Larry Price,L,7,16
+1975-11-22,Cal State Fullerton,PCAA,Jim Colletto,A,Southern Mississippi,Ind,Bobby Collins,L,0,70
+1975-09-06,Wichita State,MVC,Jim Wright,H,West Texas A&M,MVC,Gene Mayfield,W,13,7
+1975-09-13,Wichita State,MVC,Jim Wright,A,Oklahoma State,Big 8,Jim Stanley,L,0,34
+1975-09-20,Wichita State,MVC,Jim Wright,A,Kansas State,Big 8,Ellis Rainsberger,L,0,32
+1975-09-27,Wichita State,MVC,Jim Wright,A,Colorado,Big 8,Bill Mallory,L,0,52
+1975-10-04,Wichita State,MVC,Jim Wright,H,Louisville,Ind,Vince Gibson,W,13,10
+1975-10-11,Wichita State,MVC,Jim Wright,H,New Mexico State,MVC,Jim Bradley,L,24,26
+1975-10-18,Wichita State,MVC,Jim Wright,H,Tulsa,MVC,F. Dry,L,10,41
+1975-10-25,Wichita State,MVC,Jim Wright,A,Southern Illinois,Ind,Doug Weaver,L,22,33
+1975-11-01,Wichita State,MVC,Jim Wright,H,Memphis,Ind,Richard Williamson,L,7,13
+1975-11-08,Wichita State,MVC,Jim Wright,H,Fresno State,PCAA,J.R. Boone,W,28,11
+1975-11-15,Wichita State,MVC,Jim Wright,A,Drake,MVC,Jack Wallace,L,23,27
+1975-09-27,Illinois State,Ind,Gerry Hart,A,Marshall,Ind,Frank Ellwood,L,3,36
+1975-10-04,Illinois State,Ind,Gerry Hart,H,Central Michigan,MAC,Roy Kramer,L,7,42
+1975-10-11,Illinois State,Ind,Gerry Hart,H,Southern Illinois,Ind,Doug Weaver,T,17,17
+1975-10-25,Illinois State,Ind,Gerry Hart,A,Indiana State,Ind,Tom Harp,L,13,42
+1975-11-01,Illinois State,Ind,Gerry Hart,H,Northern Illinois,MAC,Jerry Ippoliti,W,27,10
+1975-11-08,Illinois State,Ind,Gerry Hart,A,Eastern Michigan,Ind,George Mans,L,14,51
+1975-11-15,Illinois State,Ind,Gerry Hart,A,Ball State,MAC,Dave McClain,L,7,46
+1975-09-06,Villanova,Ind,Dick Bedesem,A,Maryland,ACC,Jerry Claiborne,L,0,41
+1975-09-13,Villanova,Ind,Dick Bedesem,A,Syracuse,Ind,Frank Maloney,L,17,24
+1975-09-20,Villanova,Ind,Dick Bedesem,H,Toledo,MAC,Jack Murphy,W,14,10
+1975-09-27,Villanova,Ind,Dick Bedesem,A,Army,Ind,Homer Smith,W,10,0
+1975-10-04,Villanova,Ind,Dick Bedesem,A,Boston College,Ind,Joseph Yukica,L,12,41
+1975-10-18,Villanova,Ind,Dick Bedesem,H,Marshall,Ind,Frank Ellwood,W,21,14
+1975-11-15,Villanova,Ind,Dick Bedesem,A,Holy Cross,Ind,Edward Doherty,W,13,12
+1975-11-29,Villanova,Ind,Dick Bedesem,N,Temple,Ind,Wayne Hardin,L,3,41
+1975-09-13,Syracuse,Ind,Frank Maloney,H,Villanova,Ind,Dick Bedesem,W,24,17
+1975-09-20,Syracuse,Ind,Frank Maloney,H,Iowa,Big Ten,Bob Commings,W,10,7
+1975-09-27,Syracuse,Ind,Frank Maloney,A,Tulane,Ind,Bennie Ellender,W,31,13
+1975-10-04,Syracuse,Ind,Frank Maloney,A,Maryland,ACC,Jerry Claiborne,L,7,24
+1975-10-11,Syracuse,Ind,Frank Maloney,A,Navy,Ind,George Welsh,L,6,10
+1975-10-18,Syracuse,Ind,Frank Maloney,H,Penn State,Ind,Joe Paterno,L,7,19
+1975-10-25,Syracuse,Ind,Frank Maloney,H,Boston College,Ind,Joseph Yukica,W,22,14
+1975-11-01,Syracuse,Ind,Frank Maloney,H,Pitt,Ind,Johnny Majors,L,0,38
+1975-11-15,Syracuse,Ind,Frank Maloney,A,Virginia,ACC,Sonny Randle,W,37,0
+1975-11-22,Syracuse,Ind,Frank Maloney,H,West Virginia,Ind,Bobby Bowden,W,20,19
+1975-11-29,Syracuse,Ind,Frank Maloney,A,Rutgers,Ind,Frank Burns,L,10,21
+1975-09-20,Arizona,WAC,Jim Young,H,Pacific,PCAA,Chester Caddas,W,16,0
+1975-09-27,Arizona,WAC,Jim Young,A,Wyoming,WAC,Fred Akers,W,14,0
+1975-10-04,Arizona,WAC,Jim Young,H,Northwestern,Big Ten,John Pont,W,41,6
+1975-10-11,Arizona,WAC,Jim Young,A,UTEP,WAC,Gil Bartosh,W,36,0
+1975-10-18,Arizona,WAC,Jim Young,H,Texas Tech,SWC,Steve Sloan,W,32,28
+1975-10-25,Arizona,WAC,Jim Young,H,New Mexico,WAC,Bill Mondt,L,34,44
+1975-11-01,Arizona,WAC,Jim Young,A,Brigham Young,WAC,LaVell Edwards,W,36,20
+1975-11-08,Arizona,WAC,Jim Young,A,San Diego State,PCAA,Claude Gilbert,W,31,24
+1975-11-15,Arizona,WAC,Jim Young,A,Colorado State,WAC,Sarkis Arslanian,W,31,9
+1975-11-22,Arizona,WAC,Jim Young,H,Utah,WAC,Tom Lovat,W,38,14
+1975-11-29,Arizona,WAC,Jim Young,A,Arizona State,WAC,Frank Kush,L,21,24
+1975-09-06,Penn State,Ind,Joe Paterno,A,Temple,Ind,Wayne Hardin,W,26,25
+1975-09-13,Penn State,Ind,Joe Paterno,H,Stanford,Pac-8,Jack Christiansen,W,34,14
+1975-09-20,Penn State,Ind,Joe Paterno,A,Ohio State,Big Ten,Woody Hayes,L,9,17
+1975-09-27,Penn State,Ind,Joe Paterno,A,Iowa,Big Ten,Bob Commings,W,30,10
+1975-10-04,Penn State,Ind,Joe Paterno,H,Kentucky,SEC,Fran Curci,W,10,3
+1975-10-11,Penn State,Ind,Joe Paterno,H,West Virginia,Ind,Bobby Bowden,W,39,0
+1975-10-18,Penn State,Ind,Joe Paterno,A,Syracuse,Ind,Frank Maloney,W,19,7
+1975-10-25,Penn State,Ind,Joe Paterno,H,Army,Ind,Homer Smith,W,31,0
+1975-11-01,Penn State,Ind,Joe Paterno,A,Maryland,ACC,Jerry Claiborne,W,15,13
+1975-11-08,Penn State,Ind,Joe Paterno,H,North Carolina State,ACC,Lou Holtz,L,14,15
+1975-11-22,Penn State,Ind,Joe Paterno,A,Pitt,Ind,Johnny Majors,W,7,6
+1975-12-31,Penn State,Ind,Joe Paterno,N,Alabama,SEC,Bear Bryant,L,6,13
+1975-09-27,Princeton,Ivy,Robert Casciola,H,Rutgers,Ind,Frank Burns,W,10,7
+1975-10-04,Princeton,Ivy,Robert Casciola,A,Columbia,Ivy,William Campbell,W,27,7
+1975-10-11,Princeton,Ivy,Robert Casciola,A,Cornell,Ivy,George Seifert,W,16,8
+1975-10-18,Princeton,Ivy,Robert Casciola,H,Colgate,Ind,Neil Wheelwright,L,21,22
+1975-10-25,Princeton,Ivy,Robert Casciola,H,Pennsylvania,Ivy,Harry Gamble,L,20,24
+1975-11-01,Princeton,Ivy,Robert Casciola,H,Brown,Ivy,John Anderson,L,16,24
+1975-11-08,Princeton,Ivy,Robert Casciola,A,Harvard,Ivy,Joseph Restic,W,24,20
+1975-11-15,Princeton,Ivy,Robert Casciola,H,Yale,Ivy,Carmen Cozza,L,13,24
+1975-11-22,Princeton,Ivy,Robert Casciola,H,Dartmouth,Ivy,John Crouthamel,L,16,21
+1975-09-13,Vanderbilt,SEC,Fred Pancoast,H,Chattanooga,Ind,Joe Morrison,W,17,7
+1975-09-20,Vanderbilt,SEC,Fred Pancoast,A,Rice,SWC,Al Conover,W,9,6
+1975-09-27,Vanderbilt,SEC,Fred Pancoast,H,Alabama,SEC,Bear Bryant,L,7,40
+1975-10-04,Vanderbilt,SEC,Fred Pancoast,A,Tulane,Ind,Bennie Ellender,W,6,3
+1975-10-11,Vanderbilt,SEC,Fred Pancoast,A,Florida,SEC,Doug Dickey,L,0,35
+1975-10-18,Vanderbilt,SEC,Fred Pancoast,H,Georgia,SEC,Vince Dooley,L,3,47
+1975-10-25,Vanderbilt,SEC,Fred Pancoast,A,Ole Miss,SEC,Ken Cooper,L,7,17
+1975-11-01,Vanderbilt,SEC,Fred Pancoast,H,Virginia,ACC,Sonny Randle,W,17,14
+1975-11-08,Vanderbilt,SEC,Fred Pancoast,H,Kentucky,SEC,Fran Curci,W,13,3
+1975-11-15,Vanderbilt,SEC,Fred Pancoast,H,Army,Ind,Homer Smith,W,23,14
+1975-11-29,Vanderbilt,SEC,Fred Pancoast,A,Tennessee,SEC,Bill Battle,W,17,14
+1975-09-13,Kentucky,SEC,Fran Curci,H,Virginia Tech,Ind,Jimmy Sharpe,W,27,8
+1975-09-20,Kentucky,SEC,Fran Curci,H,Kansas,Big 8,Bud Moore,L,10,14
+1975-09-27,Kentucky,SEC,Fran Curci,H,Maryland,ACC,Jerry Claiborne,T,10,10
+1975-10-04,Kentucky,SEC,Fran Curci,A,Penn State,Ind,Joe Paterno,L,3,10
+1975-10-11,Kentucky,SEC,Fran Curci,H,Auburn,SEC,Ralph Jordan,L,9,15
+1975-10-18,Kentucky,SEC,Fran Curci,A,LSU,SEC,Charles McClendon,L,14,17
+1975-10-25,Kentucky,SEC,Fran Curci,A,Georgia,SEC,Vince Dooley,L,13,21
+1975-11-01,Kentucky,SEC,Fran Curci,H,Tulane,Ind,Bennie Ellender,W,23,10
+1975-11-08,Kentucky,SEC,Fran Curci,A,Vanderbilt,SEC,Fred Pancoast,L,3,13
+1975-11-15,Kentucky,SEC,Fran Curci,A,Florida,SEC,Doug Dickey,L,7,48
+1975-11-22,Kentucky,SEC,Fran Curci,H,Tennessee,SEC,Bill Battle,L,13,17
+1975-09-13,California,Pac-8,Mike White,A,Colorado,Big 8,Bill Mallory,L,27,34
+1975-09-20,California,Pac-8,Mike White,H,West Virginia,Ind,Bobby Bowden,L,10,28
+1975-09-27,California,Pac-8,Mike White,A,Washington State,Pac-8,Jim Sweeney,W,33,21
+1975-10-04,California,Pac-8,Mike White,H,San Jose State,PCAA,Darryl Rogers,W,27,24
+1975-10-11,California,Pac-8,Mike White,A,Oregon,Pac-8,Don Read,W,34,7
+1975-10-18,California,Pac-8,Mike White,H,Oregon State,Pac-8,Dee Andros,W,51,24
+1975-10-25,California,Pac-8,Mike White,A,UCLA,Pac-8,Dick Vermeil,L,14,28
+1975-11-01,California,Pac-8,Mike White,H,USC,Pac-8,John McKay,W,28,14
+1975-11-08,California,Pac-8,Mike White,H,Washington,Pac-8,Don James,W,27,24
+1975-11-15,California,Pac-8,Mike White,A,Air Force,Ind,Ben Martin,W,31,14
+1975-11-22,California,Pac-8,Mike White,A,Stanford,Pac-8,Jack Christiansen,W,48,15
+1975-09-13,Florida,SEC,Doug Dickey,H,SMU,SWC,Dave Smith,W,40,14
+1975-09-20,Florida,SEC,Doug Dickey,A,North Carolina State,ACC,Lou Holtz,L,7,8
+1975-09-27,Florida,SEC,Doug Dickey,A,Mississippi State,SEC,Bob Tyler,W,27,10
+1975-10-04,Florida,SEC,Doug Dickey,A,LSU,SEC,Charles McClendon,W,34,6
+1975-10-11,Florida,SEC,Doug Dickey,H,Vanderbilt,SEC,Fred Pancoast,W,35,0
+1975-10-18,Florida,SEC,Doug Dickey,H,Florida State,Ind,Darrell Mudra,W,34,8
+1975-10-25,Florida,SEC,Doug Dickey,H,Duke,ACC,Mike McGee,W,24,16
+1975-11-01,Florida,SEC,Doug Dickey,A,Auburn,SEC,Ralph Jordan,W,31,14
+1975-11-08,Florida,SEC,Doug Dickey,N,Georgia,SEC,Vince Dooley,L,7,10
+1975-11-15,Florida,SEC,Doug Dickey,H,Kentucky,SEC,Fran Curci,W,48,7
+1975-11-29,Florida,SEC,Doug Dickey,A,Miami (FL),Ind,Carl Selmer,W,15,11
+1975-12-29,Florida,SEC,Doug Dickey,N,Maryland,ACC,Jerry Claiborne,L,0,13
+1975-09-13,Stanford,Pac-8,Jack Christiansen,A,Penn State,Ind,Joe Paterno,L,14,34
+1975-09-20,Stanford,Pac-8,Jack Christiansen,A,Michigan,Big Ten,Bo Schembechler,T,19,19
+1975-09-27,Stanford,Pac-8,Jack Christiansen,H,San Jose State,PCAA,Darryl Rogers,L,34,36
+1975-10-04,Stanford,Pac-8,Jack Christiansen,H,Army,Ind,Homer Smith,W,67,14
+1975-10-11,Stanford,Pac-8,Jack Christiansen,H,UCLA,Pac-8,Dick Vermeil,L,21,31
+1975-10-18,Stanford,Pac-8,Jack Christiansen,A,Washington,Pac-8,Don James,W,24,21
+1975-10-25,Stanford,Pac-8,Jack Christiansen,H,Washington State,Pac-8,Jim Sweeney,W,54,14
+1975-11-01,Stanford,Pac-8,Jack Christiansen,A,Oregon State,Pac-8,Dee Andros,W,28,22
+1975-11-08,Stanford,Pac-8,Jack Christiansen,A,USC,Pac-8,John McKay,W,13,10
+1975-11-15,Stanford,Pac-8,Jack Christiansen,H,Oregon,Pac-8,Don Read,W,33,30
+1975-11-22,Stanford,Pac-8,Jack Christiansen,H,California,Pac-8,Mike White,L,15,48
+1975-09-13,Washington State,Pac-8,Jim Sweeney,A,Kansas,Big 8,Bud Moore,W,18,14
+1975-09-20,Washington State,Pac-8,Jim Sweeney,A,Utah,WAC,Tom Lovat,W,30,14
+1975-09-27,Washington State,Pac-8,Jim Sweeney,H,California,Pac-8,Mike White,L,21,33
+1975-10-04,Washington State,Pac-8,Jim Sweeney,A,Illinois,Big Ten,Bob Blackman,L,21,27
+1975-10-11,Washington State,Pac-8,Jim Sweeney,A,USC,Pac-8,John McKay,L,10,28
+1975-10-18,Washington State,Pac-8,Jim Sweeney,H,UCLA,Pac-8,Dick Vermeil,L,23,37
+1975-10-25,Washington State,Pac-8,Jim Sweeney,A,Stanford,Pac-8,Jack Christiansen,L,14,54
+1975-11-01,Washington State,Pac-8,Jim Sweeney,H,Oregon,Pac-8,Don Read,L,14,26
+1975-11-08,Washington State,Pac-8,Jim Sweeney,A,Oregon State,Pac-8,Dee Andros,L,0,7
+1975-11-22,Washington State,Pac-8,Jim Sweeney,A,Washington,Pac-8,Don James,L,27,28
+1975-09-13,Illinois,Big Ten,Bob Blackman,A,Iowa,Big Ten,Bob Commings,W,27,12
+1975-09-20,Illinois,Big Ten,Bob Blackman,H,Missouri,Big 8,Al Onofrio,L,20,30
+1975-09-27,Illinois,Big Ten,Bob Blackman,A,Texas A&M,SWC,Emory Bellard,L,13,43
+1975-10-04,Illinois,Big Ten,Bob Blackman,H,Washington State,Pac-8,Jim Sweeney,W,27,21
+1975-10-11,Illinois,Big Ten,Bob Blackman,H,Minnesota,Big Ten,Cal Stoll,W,42,23
+1975-10-18,Illinois,Big Ten,Bob Blackman,H,Purdue,Big Ten,Alex Agase,L,24,26
+1975-10-25,Illinois,Big Ten,Bob Blackman,A,Michigan State,Big Ten,Dennis Stolz,W,21,19
+1975-11-01,Illinois,Big Ten,Bob Blackman,A,Wisconsin,Big Ten,John Jardine,L,9,18
+1975-11-08,Illinois,Big Ten,Bob Blackman,H,Ohio State,Big Ten,Woody Hayes,L,3,40
+1975-11-15,Illinois,Big Ten,Bob Blackman,H,Michigan,Big Ten,Bo Schembechler,L,15,21
+1975-11-22,Illinois,Big Ten,Bob Blackman,A,Northwestern,Big Ten,John Pont,W,28,7
+1975-09-13,McNeese State,Southland,Jack Doland,H,Louisiana Tech,Southland,Maxie Lambright,L,14,21
+1975-09-20,McNeese State,Southland,Jack Doland,H,Arkansas State,Southland,Bill Davidson,L,7,24
+1975-09-27,McNeese State,Southland,Jack Doland,A,Eastern Michigan,Ind,George Mans,L,6,20
+1975-10-04,McNeese State,Southland,Jack Doland,A,Marshall,Ind,Frank Ellwood,W,33,3
+1975-10-11,McNeese State,Southland,Jack Doland,A,Texas-Arlington,Southland,Harold Elliott,W,28,24
+1975-10-18,McNeese State,Southland,Jack Doland,H,Louisiana-Monroe,Ind,Ollie Keller,W,15,14
+1975-10-25,McNeese State,Southland,Jack Doland,H,Dayton,Ind,Ron Marciniak,L,12,17
+1975-11-15,McNeese State,Southland,Jack Doland,H,West Texas A&M,MVC,Gene Mayfield,W,39,33
+1975-11-22,McNeese State,Southland,Jack Doland,A,Louisiana,Southland,Augie Tammariello,W,33,21
+1975-11-29,McNeese State,Southland,Jack Doland,H,Lamar,Southland,Vernon Glass,W,20,10
+1975-09-06,Baylor,SWC,Grant Teaff,H,Ole Miss,SEC,Ken Cooper,W,20,10
+1975-09-20,Baylor,SWC,Grant Teaff,H,Auburn,SEC,Ralph Jordan,T,10,10
+1975-09-27,Baylor,SWC,Grant Teaff,A,Michigan,Big Ten,Bo Schembechler,T,14,14
+1975-10-04,Baylor,SWC,Grant Teaff,A,South Carolina,Ind,Jim Carlen,L,13,24
+1975-10-11,Baylor,SWC,Grant Teaff,H,Arkansas,SWC,Frank Broyles,L,3,41
+1975-10-25,Baylor,SWC,Grant Teaff,A,Texas A&M,SWC,Emory Bellard,L,10,19
+1975-11-01,Baylor,SWC,Grant Teaff,H,Texas Christian,SWC,Jim Shofner,W,24,6
+1975-11-08,Baylor,SWC,Grant Teaff,A,Texas,SWC,Darrell Royal,L,21,37
+1975-11-15,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Steve Sloan,L,10,33
+1975-11-22,Baylor,SWC,Grant Teaff,H,SMU,SWC,Dave Smith,L,31,34
+1975-11-29,Baylor,SWC,Grant Teaff,A,Rice,SWC,Al Conover,W,25,7
+1975-09-06,SMU,SWC,Dave Smith,A,Wake Forest,ACC,Chuck Mills,W,14,7
+1975-09-13,SMU,SWC,Dave Smith,A,Florida,SEC,Doug Dickey,L,14,40
+1975-09-27,SMU,SWC,Dave Smith,A,Houston,Ind,Bill Yeoman,W,27,16
+1975-10-04,SMU,SWC,Dave Smith,H,West Virginia,Ind,Bobby Bowden,L,22,28
+1975-10-10,SMU,SWC,Dave Smith,H,Texas Christian,SWC,Jim Shofner,W,28,13
+1975-10-18,SMU,SWC,Dave Smith,A,Rice,SWC,Al Conover,L,17,28
+1975-10-25,SMU,SWC,Dave Smith,A,Texas Tech,SWC,Steve Sloan,L,20,37
+1975-11-01,SMU,SWC,Dave Smith,H,Texas,SWC,Darrell Royal,L,22,30
+1975-11-08,SMU,SWC,Dave Smith,A,Texas A&M,SWC,Emory Bellard,L,3,36
+1975-11-15,SMU,SWC,Dave Smith,H,Arkansas,SWC,Frank Broyles,L,7,35
+1975-11-22,SMU,SWC,Dave Smith,A,Baylor,SWC,Grant Teaff,W,34,31
+1975-09-06,Georgia,SEC,Vince Dooley,H,Pitt,Ind,Johnny Majors,L,9,19
+1975-09-20,Georgia,SEC,Vince Dooley,H,Mississippi State,SEC,Bob Tyler,W,28,6
+1975-09-27,Georgia,SEC,Vince Dooley,A,South Carolina,Ind,Jim Carlen,W,28,20
+1975-10-04,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Red Parker,W,35,7
+1975-10-11,Georgia,SEC,Vince Dooley,A,Ole Miss,SEC,Ken Cooper,L,13,28
+1975-10-18,Georgia,SEC,Vince Dooley,A,Vanderbilt,SEC,Fred Pancoast,W,47,3
+1975-10-25,Georgia,SEC,Vince Dooley,H,Kentucky,SEC,Fran Curci,W,21,13
+1975-11-01,Georgia,SEC,Vince Dooley,H,Richmond,Southern,Jim Tait,W,28,24
+1975-11-08,Georgia,SEC,Vince Dooley,N,Florida,SEC,Doug Dickey,W,10,7
+1975-11-15,Georgia,SEC,Vince Dooley,H,Auburn,SEC,Ralph Jordan,W,28,13
+1975-11-27,Georgia,SEC,Vince Dooley,A,Georgia Tech,Ind,Pepper Rodgers,W,42,26
+1976-01-01,Georgia,SEC,Vince Dooley,N,Arkansas,SWC,Frank Broyles,L,10,31
+1975-09-06,Maryland,ACC,Jerry Claiborne,H,Villanova,Ind,Dick Bedesem,W,41,0
+1975-09-13,Maryland,ACC,Jerry Claiborne,A,Tennessee,SEC,Bill Battle,L,8,26
+1975-09-20,Maryland,ACC,Jerry Claiborne,A,North Carolina,ACC,Bill Dooley,W,34,7
+1975-09-27,Maryland,ACC,Jerry Claiborne,A,Kentucky,SEC,Fran Curci,T,10,10
+1975-10-04,Maryland,ACC,Jerry Claiborne,H,Syracuse,Ind,Frank Maloney,W,24,7
+1975-10-11,Maryland,ACC,Jerry Claiborne,H,North Carolina State,ACC,Lou Holtz,W,37,22
+1975-10-18,Maryland,ACC,Jerry Claiborne,A,Wake Forest,ACC,Chuck Mills,W,27,0
+1975-11-01,Maryland,ACC,Jerry Claiborne,H,Penn State,Ind,Joe Paterno,L,13,15
+1975-11-08,Maryland,ACC,Jerry Claiborne,A,Cincinnati,Ind,Tony Mason,W,21,19
+1975-11-15,Maryland,ACC,Jerry Claiborne,A,Clemson,ACC,Red Parker,W,22,20
+1975-11-22,Maryland,ACC,Jerry Claiborne,H,Virginia,ACC,Sonny Randle,W,62,24
+1975-12-29,Maryland,ACC,Jerry Claiborne,N,Florida,SEC,Doug Dickey,W,13,0
+1975-09-13,Virginia,ACC,Sonny Randle,H,Navy,Ind,George Welsh,L,14,42
+1975-09-20,Virginia,ACC,Sonny Randle,H,Virginia Military Institute,Southern,Bob Thalman,W,22,21
+1975-09-27,Virginia,ACC,Sonny Randle,A,Duke,ACC,Mike McGee,L,11,26
+1975-10-04,Virginia,ACC,Sonny Randle,H,North Carolina,ACC,Bill Dooley,L,28,31
+1975-10-11,Virginia,ACC,Sonny Randle,A,South Carolina,Ind,Jim Carlen,L,14,41
+1975-10-18,Virginia,ACC,Sonny Randle,A,Virginia Tech,Ind,Jimmy Sharpe,L,17,24
+1975-10-25,Virginia,ACC,Sonny Randle,H,Wake Forest,ACC,Chuck Mills,L,21,66
+1975-11-01,Virginia,ACC,Sonny Randle,A,Vanderbilt,SEC,Fred Pancoast,L,14,17
+1975-11-08,Virginia,ACC,Sonny Randle,H,East Carolina,Southern,Pat Dye,L,10,61
+1975-11-15,Virginia,ACC,Sonny Randle,H,Syracuse,Ind,Frank Maloney,L,0,37
+1975-11-22,Virginia,ACC,Sonny Randle,A,Maryland,ACC,Jerry Claiborne,L,24,62
+1975-09-20,Citadel,Southern,Bobby Ross,A,Colgate,Ind,Neil Wheelwright,L,0,16
+1975-10-04,Citadel,Southern,Bobby Ross,H,William & Mary,Southern,James Root,W,21,6
+1975-10-11,Citadel,Southern,Bobby Ross,H,East Carolina,Southern,Pat Dye,L,0,3
+1975-10-25,Citadel,Southern,Bobby Ross,A,Virginia Military Institute,Southern,Bob Thalman,W,6,3
+1975-11-01,Citadel,Southern,Bobby Ross,H,Appalachian State,Southern,Jim Brakefield,L,17,22
+1975-11-08,Citadel,Southern,Bobby Ross,A,Richmond,Southern,Jim Tait,L,0,7
+1975-11-15,Citadel,Southern,Bobby Ross,H,Furman,Southern,Art Baker,W,13,9
+1975-11-22,Citadel,Southern,Bobby Ross,A,Chattanooga,Ind,Joe Morrison,L,6,24
+1975-09-13,Oklahoma,Big 8,Barry Switzer,H,Oregon,Pac-8,Don Read,W,62,7
+1975-09-20,Oklahoma,Big 8,Barry Switzer,H,Pitt,Ind,Johnny Majors,W,46,10
+1975-09-26,Oklahoma,Big 8,Barry Switzer,A,Miami (FL),Ind,Carl Selmer,W,20,17
+1975-10-04,Oklahoma,Big 8,Barry Switzer,H,Colorado,Big 8,Bill Mallory,W,21,20
+1975-10-11,Oklahoma,Big 8,Barry Switzer,N,Texas,SWC,Darrell Royal,W,24,17
+1975-10-18,Oklahoma,Big 8,Barry Switzer,A,Kansas State,Big 8,Ellis Rainsberger,W,25,3
+1975-10-25,Oklahoma,Big 8,Barry Switzer,H,Iowa State,Big 8,Earle Bruce,W,39,7
+1975-11-01,Oklahoma,Big 8,Barry Switzer,A,Oklahoma State,Big 8,Jim Stanley,W,27,7
+1975-11-08,Oklahoma,Big 8,Barry Switzer,H,Kansas,Big 8,Bud Moore,L,3,23
+1975-11-15,Oklahoma,Big 8,Barry Switzer,A,Missouri,Big 8,Al Onofrio,W,28,27
+1975-11-22,Oklahoma,Big 8,Barry Switzer,H,Nebraska,Big 8,Tom Osborne,W,35,10
+1976-01-01,Oklahoma,Big 8,Barry Switzer,N,Michigan,Big Ten,Bo Schembechler,W,14,6
+1975-09-13,Virginia Tech,Ind,Jimmy Sharpe,A,Kentucky,SEC,Fran Curci,L,8,27
+1975-09-20,Virginia Tech,Ind,Jimmy Sharpe,A,Kent State,MAC,Dennis Fitzgerald,L,11,17
+1975-09-27,Virginia Tech,Ind,Jimmy Sharpe,H,Richmond,Southern,Jim Tait,W,21,9
+1975-10-04,Virginia Tech,Ind,Jimmy Sharpe,A,Auburn,SEC,Ralph Jordan,W,23,16
+1975-10-11,Virginia Tech,Ind,Jimmy Sharpe,H,Florida State,Ind,Darrell Mudra,W,13,10
+1975-10-18,Virginia Tech,Ind,Jimmy Sharpe,H,Virginia,ACC,Sonny Randle,W,24,17
+1975-10-24,Virginia Tech,Ind,Jimmy Sharpe,A,West Virginia,Ind,Bobby Bowden,L,7,10
+1975-11-01,Virginia Tech,Ind,Jimmy Sharpe,N,William & Mary,Southern,James Root,W,24,7
+1975-11-08,Virginia Tech,Ind,Jimmy Sharpe,A,Houston,Ind,Bill Yeoman,W,34,28
+1975-11-15,Virginia Tech,Ind,Jimmy Sharpe,H,Virginia Military Institute,Southern,Bob Thalman,W,33,0
+1975-11-22,Virginia Tech,Ind,Jimmy Sharpe,H,Wake Forest,ACC,Chuck Mills,W,40,10
+1975-09-20,Louisville,Ind,Vince Gibson,A,Drake,MVC,Jack Wallace,L,7,31
+1975-09-27,Louisville,Ind,Vince Gibson,H,Cincinnati,Ind,Tony Mason,L,27,46
+1975-10-04,Louisville,Ind,Vince Gibson,A,Wichita State,MVC,Jim Wright,L,10,13
+1975-10-11,Louisville,Ind,Vince Gibson,H,Chattanooga,Ind,Joe Morrison,W,6,3
+1975-10-18,Louisville,Ind,Vince Gibson,A,Memphis,Ind,Richard Williamson,L,7,41
+1975-10-25,Louisville,Ind,Vince Gibson,H,Mississippi State,SEC,Bob Tyler,L,14,28
+1975-11-01,Louisville,Ind,Vince Gibson,A,Tulsa,MVC,F. Dry,L,14,38
+1975-11-08,Louisville,Ind,Vince Gibson,H,Dayton,Ind,Ron Marciniak,L,13,32
+1975-11-15,Louisville,Ind,Vince Gibson,A,Louisiana-Monroe,Ind,Ollie Keller,L,10,14
+1975-11-22,Louisville,Ind,Vince Gibson,A,West Texas A&M,MVC,Gene Mayfield,L,23,49
+1975-09-13,Southern Illinois,Ind,Doug Weaver,A,Louisiana,Southland,Augie Tammariello,L,10,27
+1975-09-20,Southern Illinois,Ind,Doug Weaver,H,Indiana State,Ind,Tom Harp,L,21,23
+1975-09-27,Southern Illinois,Ind,Doug Weaver,H,East Carolina,Southern,Pat Dye,L,7,41
+1975-10-04,Southern Illinois,Ind,Doug Weaver,H,Long Beach State,PCAA,Wayne Howard,L,24,31
+1975-10-11,Southern Illinois,Ind,Doug Weaver,A,Illinois State,Ind,Gerry Hart,T,17,17
+1975-10-18,Southern Illinois,Ind,Doug Weaver,A,Northern Illinois,MAC,Jerry Ippoliti,L,12,52
+1975-10-25,Southern Illinois,Ind,Doug Weaver,H,Wichita State,MVC,Jim Wright,W,33,22
+1975-11-01,Southern Illinois,Ind,Doug Weaver,H,Drake,MVC,Jack Wallace,L,27,38
+1975-11-08,Southern Illinois,Ind,Doug Weaver,A,Arkansas State,Southland,Bill Davidson,L,12,35
+1975-11-15,Southern Illinois,Ind,Doug Weaver,H,Bowling Green State,MAC,Don Nehlen,L,6,48
+1975-11-22,Southern Illinois,Ind,Doug Weaver,A,Lamar,Southland,Vernon Glass,L,10,30
+1975-09-13,Arkansas,SWC,Frank Broyles,H,Air Force,Ind,Ben Martin,W,35,0
+1975-09-20,Arkansas,SWC,Frank Broyles,A,Oklahoma State,Big 8,Jim Stanley,L,13,20
+1975-09-27,Arkansas,SWC,Frank Broyles,H,Tulsa,MVC,F. Dry,W,31,15
+1975-10-04,Arkansas,SWC,Frank Broyles,H,Texas Christian,SWC,Jim Shofner,W,19,8
+1975-10-11,Arkansas,SWC,Frank Broyles,A,Baylor,SWC,Grant Teaff,W,41,3
+1975-10-18,Arkansas,SWC,Frank Broyles,H,Texas,SWC,Darrell Royal,L,18,24
+1975-10-25,Arkansas,SWC,Frank Broyles,H,Utah State,Ind,Phil Krueger,W,31,0
+1975-11-08,Arkansas,SWC,Frank Broyles,A,Rice,SWC,Al Conover,W,20,16
+1975-11-15,Arkansas,SWC,Frank Broyles,A,SMU,SWC,Dave Smith,W,35,7
+1975-11-22,Arkansas,SWC,Frank Broyles,H,Texas Tech,SWC,Steve Sloan,W,31,14
+1975-12-06,Arkansas,SWC,Frank Broyles,H,Texas A&M,SWC,Emory Bellard,W,31,6
+1976-01-01,Arkansas,SWC,Frank Broyles,N,Georgia,SEC,Vince Dooley,W,31,10
+1975-09-13,Clemson,ACC,Red Parker,H,Tulane,Ind,Bennie Ellender,L,13,17
+1975-09-20,Clemson,ACC,Red Parker,A,Alabama,SEC,Bear Bryant,L,0,56
+1975-09-27,Clemson,ACC,Red Parker,A,Georgia Tech,Ind,Pepper Rodgers,L,28,33
+1975-10-04,Clemson,ACC,Red Parker,A,Georgia,SEC,Vince Dooley,L,7,35
+1975-10-11,Clemson,ACC,Red Parker,H,Wake Forest,ACC,Chuck Mills,W,16,14
+1975-10-18,Clemson,ACC,Red Parker,A,Duke,ACC,Mike McGee,L,21,25
+1975-10-25,Clemson,ACC,Red Parker,H,North Carolina State,ACC,Lou Holtz,L,7,45
+1975-11-01,Clemson,ACC,Red Parker,H,Florida State,Ind,Darrell Mudra,L,7,43
+1975-11-08,Clemson,ACC,Red Parker,A,North Carolina,ACC,Bill Dooley,W,38,35
+1975-11-15,Clemson,ACC,Red Parker,H,Maryland,ACC,Jerry Claiborne,L,20,22
+1975-11-22,Clemson,ACC,Red Parker,A,South Carolina,Ind,Jim Carlen,L,20,56
+1975-09-13,South Carolina,Ind,Jim Carlen,H,Georgia Tech,Ind,Pepper Rodgers,W,23,17
+1975-09-20,South Carolina,Ind,Jim Carlen,A,Duke,ACC,Mike McGee,W,24,16
+1975-09-27,South Carolina,Ind,Jim Carlen,H,Georgia,SEC,Vince Dooley,L,20,28
+1975-10-04,South Carolina,Ind,Jim Carlen,H,Baylor,SWC,Grant Teaff,W,24,13
+1975-10-11,South Carolina,Ind,Jim Carlen,H,Virginia,ACC,Sonny Randle,W,41,14
+1975-10-18,South Carolina,Ind,Jim Carlen,A,Ole Miss,SEC,Ken Cooper,W,35,29
+1975-10-25,South Carolina,Ind,Jim Carlen,A,LSU,SEC,Charles McClendon,L,6,24
+1975-11-01,South Carolina,Ind,Jim Carlen,A,North Carolina State,ACC,Lou Holtz,L,21,28
+1975-11-08,South Carolina,Ind,Jim Carlen,H,Appalachian State,Southern,Jim Brakefield,L,34,39
+1975-11-15,South Carolina,Ind,Jim Carlen,H,Wake Forest,ACC,Chuck Mills,W,37,26
+1975-11-22,South Carolina,Ind,Jim Carlen,H,Clemson,ACC,Red Parker,W,56,20
+1975-12-20,South Carolina,Ind,Jim Carlen,N,Miami (OH),MAC,Dick Crum,L,7,20
+1975-09-13,Washington,Pac-8,Don James,A,Arizona State,WAC,Frank Kush,L,12,35
+1975-09-20,Washington,Pac-8,Don James,H,Texas,SWC,Darrell Royal,L,10,28
+1975-09-27,Washington,Pac-8,Don James,H,Navy,Ind,George Welsh,W,14,13
+1975-10-04,Washington,Pac-8,Don James,A,Oregon,Pac-8,Don Read,W,27,17
+1975-10-11,Washington,Pac-8,Don James,A,Alabama,SEC,Bear Bryant,L,0,52
+1975-10-18,Washington,Pac-8,Don James,H,Stanford,Pac-8,Jack Christiansen,L,21,24
+1975-10-25,Washington,Pac-8,Don James,H,Oregon State,Pac-8,Dee Andros,W,35,7
+1975-11-01,Washington,Pac-8,Don James,A,UCLA,Pac-8,Dick Vermeil,W,17,13
+1975-11-08,Washington,Pac-8,Don James,A,California,Pac-8,Mike White,L,24,27
+1975-11-15,Washington,Pac-8,Don James,H,USC,Pac-8,John McKay,W,8,7
+1975-11-22,Washington,Pac-8,Don James,H,Washington State,Pac-8,Jim Sweeney,W,28,27
+1975-09-06,Ball State,MAC,Dave McClain,H,Eastern Michigan,Ind,George Mans,W,24,14
+1975-09-13,Ball State,MAC,Dave McClain,H,Toledo,MAC,Jack Murphy,W,38,28
+1975-09-20,Ball State,MAC,Dave McClain,A,Ohio,MAC,Bill Hess,L,0,10
+1975-09-27,Ball State,MAC,Dave McClain,A,Miami (OH),MAC,Dick Crum,L,28,35
+1975-10-04,Ball State,MAC,Dave McClain,H,Indiana State,Ind,Tom Harp,W,20,16
+1975-10-11,Ball State,MAC,Dave McClain,A,Richmond,Southern,Jim Tait,W,25,14
+1975-10-18,Ball State,MAC,Dave McClain,H,Central Michigan,MAC,Roy Kramer,W,16,13
+1975-10-25,Ball State,MAC,Dave McClain,A,Northern Illinois,MAC,Jerry Ippoliti,W,3,0
+1975-11-01,Ball State,MAC,Dave McClain,A,Bowling Green State,MAC,Don Nehlen,W,27,20
+1975-11-08,Ball State,MAC,Dave McClain,A,Akron,Ind,Jim Dennison,W,17,14
+1975-11-15,Ball State,MAC,Dave McClain,H,Illinois State,Ind,Gerry Hart,W,46,7
+1975-09-13,Holy Cross,Ind,Edward Doherty,A,Army,Ind,Homer Smith,L,7,44
+1975-09-27,Holy Cross,Ind,Edward Doherty,A,Harvard,Ivy,Joseph Restic,L,7,18
+1975-10-04,Holy Cross,Ind,Edward Doherty,A,Dartmouth,Ivy,John Crouthamel,L,7,28
+1975-10-11,Holy Cross,Ind,Edward Doherty,H,Colgate,Ind,Neil Wheelwright,L,14,20
+1975-10-18,Holy Cross,Ind,Edward Doherty,A,Furman,Southern,Art Baker,L,14,21
+1975-10-25,Holy Cross,Ind,Edward Doherty,H,Brown,Ivy,John Anderson,W,21,20
+1975-11-15,Holy Cross,Ind,Edward Doherty,H,Villanova,Ind,Dick Bedesem,L,12,13
+1975-11-29,Holy Cross,Ind,Edward Doherty,H,Boston College,Ind,Joseph Yukica,L,10,24
+1975-09-20,Southern Mississippi,Ind,Bobby Collins,A,Bowling Green State,MAC,Don Nehlen,L,14,16
+1975-09-27,Southern Mississippi,Ind,Bobby Collins,A,Ole Miss,SEC,Ken Cooper,L,8,24
+1975-10-04,Southern Mississippi,Ind,Bobby Collins,A,Mississippi State,SEC,Bob Tyler,L,3,7
+1975-10-11,Southern Mississippi,Ind,Bobby Collins,A,Memphis,Ind,Richard Williamson,W,21,7
+1975-10-18,Southern Mississippi,Ind,Bobby Collins,A,Texas-Arlington,Southland,Harold Elliott,W,34,7
+1975-10-25,Southern Mississippi,Ind,Bobby Collins,A,Louisiana Tech,Southland,Maxie Lambright,W,24,14
+1975-11-08,Southern Mississippi,Ind,Bobby Collins,N,Lamar,Southland,Vernon Glass,W,43,3
+1975-11-15,Southern Mississippi,Ind,Bobby Collins,A,Alabama,SEC,Bear Bryant,L,6,27
+1975-11-22,Southern Mississippi,Ind,Bobby Collins,H,Cal State Fullerton,PCAA,Jim Colletto,W,70,0
+1975-11-29,Southern Mississippi,Ind,Bobby Collins,H,Brigham Young,WAC,LaVell Edwards,W,42,14
+1975-09-06,Long Beach State,PCAA,Wayne Howard,A,Louisiana,Southland,Augie Tammariello,L,17,22
+1975-09-13,Long Beach State,PCAA,Wayne Howard,A,Northern Illinois,MAC,Jerry Ippoliti,W,24,7
+1975-09-20,Long Beach State,PCAA,Wayne Howard,H,Cal State Fullerton,PCAA,Jim Colletto,W,32,6
+1975-09-26,Long Beach State,PCAA,Wayne Howard,H,Pacific,PCAA,Chester Caddas,W,28,12
+1975-10-04,Long Beach State,PCAA,Wayne Howard,A,Southern Illinois,Ind,Doug Weaver,W,31,24
+1975-10-11,Long Beach State,PCAA,Wayne Howard,H,San Jose State,PCAA,Darryl Rogers,L,7,30
+1975-10-18,Long Beach State,PCAA,Wayne Howard,H,Fresno State,PCAA,J.R. Boone,W,47,17
+1975-10-25,Long Beach State,PCAA,Wayne Howard,A,Drake,MVC,Jack Wallace,W,31,10
+1975-11-08,Long Beach State,PCAA,Wayne Howard,H,Hawaii,Ind,Larry Price,W,10,0
+1975-11-22,Long Beach State,PCAA,Wayne Howard,A,San Diego State,PCAA,Claude Gilbert,W,21,17
+1975-09-13,Utah State,Ind,Phil Krueger,A,Utah,WAC,Tom Lovat,W,13,7
+1975-09-20,Utah State,Ind,Phil Krueger,A,Florida State,Ind,Darrell Mudra,L,8,17
+1975-09-27,Utah State,Ind,Phil Krueger,H,San Diego State,PCAA,Claude Gilbert,L,10,19
+1975-10-04,Utah State,Ind,Phil Krueger,A,Texas,SWC,Darrell Royal,L,7,61
+1975-10-11,Utah State,Ind,Phil Krueger,H,West Texas A&M,MVC,Gene Mayfield,W,21,17
+1975-10-25,Utah State,Ind,Phil Krueger,A,Arkansas,SWC,Frank Broyles,L,0,31
+1975-11-01,Utah State,Ind,Phil Krueger,H,Wyoming,WAC,Fred Akers,W,27,21
+1975-11-08,Utah State,Ind,Phil Krueger,H,Brigham Young,WAC,LaVell Edwards,L,7,24
+1975-11-22,Utah State,Ind,Phil Krueger,A,Colorado State,WAC,Sarkis Arslanian,W,28,17
+1975-09-08,Missouri,Big 8,Al Onofrio,A,Alabama,SEC,Bear Bryant,W,20,7
+1975-09-20,Missouri,Big 8,Al Onofrio,A,Illinois,Big Ten,Bob Blackman,W,30,20
+1975-09-27,Missouri,Big 8,Al Onofrio,H,Wisconsin,Big Ten,John Jardine,W,27,21
+1975-10-04,Missouri,Big 8,Al Onofrio,A,Michigan,Big Ten,Bo Schembechler,L,7,31
+1975-10-11,Missouri,Big 8,Al Onofrio,H,Oklahoma State,Big 8,Jim Stanley,W,41,14
+1975-10-18,Missouri,Big 8,Al Onofrio,A,Colorado,Big 8,Bill Mallory,L,20,31
+1975-10-25,Missouri,Big 8,Al Onofrio,H,Kansas State,Big 8,Ellis Rainsberger,W,35,3
+1975-11-01,Missouri,Big 8,Al Onofrio,H,Nebraska,Big 8,Tom Osborne,L,7,30
+1975-11-08,Missouri,Big 8,Al Onofrio,A,Iowa State,Big 8,Earle Bruce,W,44,14
+1975-11-15,Missouri,Big 8,Al Onofrio,H,Oklahoma,Big 8,Barry Switzer,L,27,28
+1975-11-22,Missouri,Big 8,Al Onofrio,A,Kansas,Big 8,Bud Moore,L,24,42
+1975-09-20,San Jose State,PCAA,Darryl Rogers,A,Oregon,Pac-8,Don Read,W,5,0
+1975-09-27,San Jose State,PCAA,Darryl Rogers,A,Stanford,Pac-8,Jack Christiansen,W,36,34
+1975-10-04,San Jose State,PCAA,Darryl Rogers,A,California,Pac-8,Mike White,L,24,27
+1975-10-11,San Jose State,PCAA,Darryl Rogers,A,Long Beach State,PCAA,Wayne Howard,W,30,7
+1975-10-18,San Jose State,PCAA,Darryl Rogers,H,Pacific,PCAA,Chester Caddas,W,41,13
+1975-10-25,San Jose State,PCAA,Darryl Rogers,H,Cal State Fullerton,PCAA,Jim Colletto,W,41,7
+1975-11-01,San Jose State,PCAA,Darryl Rogers,A,Fresno State,PCAA,J.R. Boone,W,21,7
+1975-11-08,San Jose State,PCAA,Darryl Rogers,H,New Mexico,WAC,Bill Mondt,W,29,20
+1975-11-15,San Jose State,PCAA,Darryl Rogers,H,San Diego State,PCAA,Claude Gilbert,W,31,7
+1975-11-29,San Jose State,PCAA,Darryl Rogers,A,Hawaii,Ind,Larry Price,L,20,30
+1975-09-13,Bowling Green State,MAC,Don Nehlen,A,Brigham Young,WAC,LaVell Edwards,W,23,21
+1975-09-20,Bowling Green State,MAC,Don Nehlen,H,Southern Mississippi,Ind,Bobby Collins,W,16,14
+1975-09-27,Bowling Green State,MAC,Don Nehlen,A,Dayton,Ind,Ron Marciniak,W,21,14
+1975-10-04,Bowling Green State,MAC,Don Nehlen,H,Western Michigan,MAC,Elliot Uzelac,W,28,0
+1975-10-11,Bowling Green State,MAC,Don Nehlen,H,Toledo,MAC,Jack Murphy,W,34,17
+1975-10-18,Bowling Green State,MAC,Don Nehlen,N,Kent State,MAC,Dennis Fitzgerald,W,35,9
+1975-10-25,Bowling Green State,MAC,Don Nehlen,H,Miami (OH),MAC,Dick Crum,L,17,20
+1975-11-01,Bowling Green State,MAC,Don Nehlen,H,Ball State,MAC,Dave McClain,L,20,27
+1975-11-08,Bowling Green State,MAC,Don Nehlen,A,Ohio,MAC,Bill Hess,W,19,17
+1975-11-15,Bowling Green State,MAC,Don Nehlen,A,Southern Illinois,Ind,Doug Weaver,W,48,6
+1975-11-29,Bowling Green State,MAC,Don Nehlen,A,Texas-Arlington,Southland,Harold Elliott,L,17,21
+1975-09-13,Wisconsin,Big Ten,John Jardine,H,Michigan,Big Ten,Bo Schembechler,L,6,23
+1975-09-27,Wisconsin,Big Ten,John Jardine,A,Missouri,Big 8,Al Onofrio,L,21,27
+1975-10-04,Wisconsin,Big Ten,John Jardine,H,Kansas,Big 8,Bud Moore,L,7,41
+1975-10-11,Wisconsin,Big Ten,John Jardine,A,Purdue,Big Ten,Alex Agase,W,17,14
+1975-10-18,Wisconsin,Big Ten,John Jardine,A,Ohio State,Big Ten,Woody Hayes,L,0,56
+1975-10-25,Wisconsin,Big Ten,John Jardine,H,Northwestern,Big Ten,John Pont,W,17,14
+1975-11-01,Wisconsin,Big Ten,John Jardine,H,Illinois,Big Ten,Bob Blackman,W,18,9
+1975-11-08,Wisconsin,Big Ten,John Jardine,A,Iowa,Big Ten,Bob Commings,L,28,45
+1975-11-15,Wisconsin,Big Ten,John Jardine,H,Indiana,Big Ten,Lee Corso,T,9,9
+1975-11-22,Wisconsin,Big Ten,John Jardine,A,Minnesota,Big Ten,Cal Stoll,L,3,24
+1975-09-12,USC,Pac-8,John McKay,H,Duke,ACC,Mike McGee,W,35,7
+1975-09-19,USC,Pac-8,John McKay,H,Oregon State,Pac-8,Dee Andros,W,24,7
+1975-09-27,USC,Pac-8,John McKay,H,Purdue,Big Ten,Alex Agase,W,19,6
+1975-10-04,USC,Pac-8,John McKay,A,Iowa,Big Ten,Bob Commings,W,27,16
+1975-10-11,USC,Pac-8,John McKay,H,Washington State,Pac-8,Jim Sweeney,W,28,10
+1975-10-18,USC,Pac-8,John McKay,H,Oregon,Pac-8,Don Read,W,17,3
+1975-10-25,USC,Pac-8,John McKay,A,Notre Dame,Ind,Dan Devine,W,24,17
+1975-11-01,USC,Pac-8,John McKay,A,California,Pac-8,Mike White,L,14,28
+1975-11-08,USC,Pac-8,John McKay,H,Stanford,Pac-8,Jack Christiansen,L,10,13
+1975-11-15,USC,Pac-8,John McKay,A,Washington,Pac-8,Don James,L,7,8
+1975-11-28,USC,Pac-8,John McKay,H,UCLA,Pac-8,Dick Vermeil,L,22,25
+1975-12-22,USC,Pac-8,John McKay,N,Texas A&M,SWC,Emory Bellard,W,20,0
+1975-09-06,North Carolina State,ACC,Lou Holtz,H,East Carolina,Southern,Pat Dye,W,26,3
+1975-09-13,North Carolina State,ACC,Lou Holtz,H,Wake Forest,ACC,Chuck Mills,L,22,30
+1975-09-20,North Carolina State,ACC,Lou Holtz,H,Florida,SEC,Doug Dickey,W,8,7
+1975-09-27,North Carolina State,ACC,Lou Holtz,A,Michigan State,Big Ten,Dennis Stolz,L,15,37
+1975-10-04,North Carolina State,ACC,Lou Holtz,H,Indiana,Big Ten,Lee Corso,W,27,0
+1975-10-11,North Carolina State,ACC,Lou Holtz,A,Maryland,ACC,Jerry Claiborne,L,22,37
+1975-10-18,North Carolina State,ACC,Lou Holtz,H,North Carolina,ACC,Bill Dooley,W,21,20
+1975-10-25,North Carolina State,ACC,Lou Holtz,A,Clemson,ACC,Red Parker,W,45,7
+1975-11-01,North Carolina State,ACC,Lou Holtz,H,South Carolina,Ind,Jim Carlen,W,28,21
+1975-11-08,North Carolina State,ACC,Lou Holtz,A,Penn State,Ind,Joe Paterno,W,15,14
+1975-11-15,North Carolina State,ACC,Lou Holtz,A,Duke,ACC,Mike McGee,T,21,21
+1975-12-31,North Carolina State,ACC,Lou Holtz,N,West Virginia,Ind,Bobby Bowden,L,10,13
+1975-09-06,San Diego State,PCAA,Claude Gilbert,H,UTEP,WAC,Gil Bartosh,W,31,10
+1975-09-13,San Diego State,PCAA,Claude Gilbert,A,Oregon State,Pac-8,Dee Andros,W,25,0
+1975-09-20,San Diego State,PCAA,Claude Gilbert,H,North Texas,Ind,Hayden Fry,W,30,12
+1975-09-27,San Diego State,PCAA,Claude Gilbert,A,Utah State,Ind,Phil Krueger,W,19,10
+1975-10-04,San Diego State,PCAA,Claude Gilbert,H,Cal State Fullerton,PCAA,Jim Colletto,W,59,14
+1975-10-11,San Diego State,PCAA,Claude Gilbert,A,Fresno State,PCAA,J.R. Boone,W,29,0
+1975-10-18,San Diego State,PCAA,Claude Gilbert,H,New Mexico State,MVC,Jim Bradley,W,48,3
+1975-11-01,San Diego State,PCAA,Claude Gilbert,A,Pacific,PCAA,Chester Caddas,W,31,13
+1975-11-08,San Diego State,PCAA,Claude Gilbert,H,Arizona,WAC,Jim Young,L,24,31
+1975-11-15,San Diego State,PCAA,Claude Gilbert,A,San Jose State,PCAA,Darryl Rogers,L,7,31
+1975-11-22,San Diego State,PCAA,Claude Gilbert,H,Long Beach State,PCAA,Wayne Howard,L,17,21
+1975-10-04,Hawaii,Ind,Larry Price,A,Rutgers,Ind,Frank Burns,L,3,7
+1975-11-01,Hawaii,Ind,Larry Price,H,Cal State Fullerton,PCAA,Jim Colletto,W,16,7
+1975-11-08,Hawaii,Ind,Larry Price,A,Long Beach State,PCAA,Wayne Howard,L,0,10
+1975-11-15,Hawaii,Ind,Larry Price,H,UTEP,WAC,Gil Bartosh,W,21,9
+1975-11-22,Hawaii,Ind,Larry Price,H,Pacific,PCAA,Chester Caddas,W,17,10
+1975-11-29,Hawaii,Ind,Larry Price,H,San Jose State,PCAA,Darryl Rogers,W,30,20
+1975-12-06,Hawaii,Ind,Larry Price,H,Tennessee,SEC,Bill Battle,L,6,28
+1975-09-27,Rutgers,Ind,Frank Burns,A,Princeton,Ivy,Robert Casciola,L,7,10
+1975-10-04,Rutgers,Ind,Frank Burns,H,Hawaii,Ind,Larry Price,W,7,3
+1975-10-18,Rutgers,Ind,Frank Burns,H,William & Mary,Southern,James Root,W,24,0
+1975-10-25,Rutgers,Ind,Frank Burns,H,Columbia,Ivy,William Campbell,W,41,0
+1975-11-22,Rutgers,Ind,Frank Burns,H,Colgate,Ind,Neil Wheelwright,W,56,14
+1975-11-29,Rutgers,Ind,Frank Burns,H,Syracuse,Ind,Frank Maloney,W,21,10
+1975-09-06,Eastern Michigan,Ind,George Mans,A,Ball State,MAC,Dave McClain,L,14,24
+1975-09-13,Eastern Michigan,Ind,George Mans,H,Indiana State,Ind,Tom Harp,W,30,7
+1975-09-20,Eastern Michigan,Ind,George Mans,A,Louisiana-Monroe,Ind,Ollie Keller,W,27,24
+1975-09-27,Eastern Michigan,Ind,George Mans,H,McNeese State,Southland,Jack Doland,W,20,6
+1975-10-11,Eastern Michigan,Ind,George Mans,A,Central Michigan,MAC,Roy Kramer,L,7,20
+1975-11-08,Eastern Michigan,Ind,George Mans,H,Illinois State,Ind,Gerry Hart,W,51,14
+1975-11-15,Eastern Michigan,Ind,George Mans,A,Western Michigan,MAC,Elliot Uzelac,L,14,24
+1975-09-06,Central Michigan,MAC,Roy Kramer,H,Western Michigan,MAC,Elliot Uzelac,W,34,0
+1975-09-13,Central Michigan,MAC,Roy Kramer,H,Ohio,MAC,Bill Hess,T,6,6
+1975-09-27,Central Michigan,MAC,Roy Kramer,A,Toledo,MAC,Jack Murphy,W,34,27
+1975-10-04,Central Michigan,MAC,Roy Kramer,A,Illinois State,Ind,Gerry Hart,W,42,7
+1975-10-11,Central Michigan,MAC,Roy Kramer,H,Eastern Michigan,Ind,George Mans,W,20,7
+1975-10-18,Central Michigan,MAC,Roy Kramer,A,Ball State,MAC,Dave McClain,L,13,16
+1975-10-25,Central Michigan,MAC,Roy Kramer,A,Kent State,MAC,Dennis Fitzgerald,W,17,8
+1975-11-01,Central Michigan,MAC,Roy Kramer,H,Marshall,Ind,Frank Ellwood,W,34,0
+1975-11-15,Central Michigan,MAC,Roy Kramer,H,Northern Illinois,MAC,Jerry Ippoliti,W,69,7
+1975-09-13,Michigan,Big Ten,Bo Schembechler,A,Wisconsin,Big Ten,John Jardine,W,23,6
+1975-09-20,Michigan,Big Ten,Bo Schembechler,H,Stanford,Pac-8,Jack Christiansen,T,19,19
+1975-09-27,Michigan,Big Ten,Bo Schembechler,H,Baylor,SWC,Grant Teaff,T,14,14
+1975-10-04,Michigan,Big Ten,Bo Schembechler,H,Missouri,Big 8,Al Onofrio,W,31,7
+1975-10-11,Michigan,Big Ten,Bo Schembechler,A,Michigan State,Big Ten,Dennis Stolz,W,16,6
+1975-10-18,Michigan,Big Ten,Bo Schembechler,H,Northwestern,Big Ten,John Pont,W,69,0
+1975-10-25,Michigan,Big Ten,Bo Schembechler,H,Indiana,Big Ten,Lee Corso,W,55,7
+1975-11-01,Michigan,Big Ten,Bo Schembechler,A,Minnesota,Big Ten,Cal Stoll,W,28,21
+1975-11-08,Michigan,Big Ten,Bo Schembechler,H,Purdue,Big Ten,Alex Agase,W,28,0
+1975-11-15,Michigan,Big Ten,Bo Schembechler,A,Illinois,Big Ten,Bob Blackman,W,21,15
+1975-11-22,Michigan,Big Ten,Bo Schembechler,H,Ohio State,Big Ten,Woody Hayes,L,14,21
+1976-01-01,Michigan,Big Ten,Bo Schembechler,N,Oklahoma,Big 8,Barry Switzer,L,6,14
+1975-09-06,Temple,Ind,Wayne Hardin,H,Penn State,Ind,Joe Paterno,L,25,26
+1975-09-13,Temple,Ind,Wayne Hardin,A,West Virginia,Ind,Bobby Bowden,L,7,50
+1975-09-20,Temple,Ind,Wayne Hardin,H,Boston College,Ind,Joseph Yukica,L,9,27
+1975-10-04,Temple,Ind,Wayne Hardin,H,Cincinnati,Ind,Tony Mason,W,21,17
+1975-10-11,Temple,Ind,Wayne Hardin,H,Pitt,Ind,Johnny Majors,L,6,55
+1975-10-18,Temple,Ind,Wayne Hardin,H,Akron,Ind,Jim Dennison,L,23,24
+1975-11-01,Temple,Ind,Wayne Hardin,H,Dayton,Ind,Ron Marciniak,W,23,10
+1975-11-22,Temple,Ind,Wayne Hardin,H,Drake,MVC,Jack Wallace,W,44,7
+1975-11-29,Temple,Ind,Wayne Hardin,N,Villanova,Ind,Dick Bedesem,W,41,3
+1975-09-13,New Mexico,WAC,Bill Mondt,H,Fresno State,PCAA,J.R. Boone,W,29,0
+1975-09-20,New Mexico,WAC,Bill Mondt,A,Texas Tech,SWC,Steve Sloan,L,17,24
+1975-09-27,New Mexico,WAC,Bill Mondt,H,Colorado State,WAC,Sarkis Arslanian,L,16,27
+1975-10-03,New Mexico,WAC,Bill Mondt,A,Brigham Young,WAC,LaVell Edwards,L,15,16
+1975-10-11,New Mexico,WAC,Bill Mondt,H,Arizona State,WAC,Frank Kush,L,10,16
+1975-10-18,New Mexico,WAC,Bill Mondt,H,Utah,WAC,Tom Lovat,W,27,23
+1975-10-25,New Mexico,WAC,Bill Mondt,A,Arizona,WAC,Jim Young,W,44,34
+1975-11-01,New Mexico,WAC,Bill Mondt,H,UTEP,WAC,Gil Bartosh,W,23,3
+1975-11-08,New Mexico,WAC,Bill Mondt,A,San Jose State,PCAA,Darryl Rogers,L,20,29
+1975-11-15,New Mexico,WAC,Bill Mondt,H,Wyoming,WAC,Fred Akers,W,38,32
+1975-11-22,New Mexico,WAC,Bill Mondt,A,New Mexico State,MVC,Jim Bradley,W,52,28
+1975-09-06,Pacific,PCAA,Chester Caddas,A,Louisiana-Monroe,Ind,Ollie Keller,T,3,3
+1975-09-20,Pacific,PCAA,Chester Caddas,A,Arizona,WAC,Jim Young,L,0,16
+1975-09-26,Pacific,PCAA,Chester Caddas,A,Long Beach State,PCAA,Wayne Howard,L,12,28
+1975-10-04,Pacific,PCAA,Chester Caddas,H,UTEP,WAC,Gil Bartosh,W,40,10
+1975-10-11,Pacific,PCAA,Chester Caddas,H,Cal State Fullerton,PCAA,Jim Colletto,W,31,20
+1975-10-18,Pacific,PCAA,Chester Caddas,A,San Jose State,PCAA,Darryl Rogers,L,13,41
+1975-10-25,Pacific,PCAA,Chester Caddas,H,Fresno State,PCAA,J.R. Boone,W,45,28
+1975-11-01,Pacific,PCAA,Chester Caddas,H,San Diego State,PCAA,Claude Gilbert,L,13,31
+1975-11-08,Pacific,PCAA,Chester Caddas,A,Louisiana,Southland,Augie Tammariello,W,19,14
+1975-11-15,Pacific,PCAA,Chester Caddas,A,Arizona State,WAC,Frank Kush,L,14,55
+1975-11-22,Pacific,PCAA,Chester Caddas,A,Hawaii,Ind,Larry Price,L,10,17
+1975-09-15,Notre Dame,Ind,Dan Devine,A,Boston College,Ind,Joseph Yukica,W,17,3
+1975-09-20,Notre Dame,Ind,Dan Devine,A,Purdue,Big Ten,Alex Agase,W,17,0
+1975-09-27,Notre Dame,Ind,Dan Devine,H,Northwestern,Big Ten,John Pont,W,31,7
+1975-10-04,Notre Dame,Ind,Dan Devine,H,Michigan State,Big Ten,Dennis Stolz,L,3,10
+1975-10-11,Notre Dame,Ind,Dan Devine,A,North Carolina,ACC,Bill Dooley,W,21,14
+1975-10-18,Notre Dame,Ind,Dan Devine,A,Air Force,Ind,Ben Martin,W,31,30
+1975-10-25,Notre Dame,Ind,Dan Devine,H,USC,Pac-8,John McKay,L,17,24
+1975-11-01,Notre Dame,Ind,Dan Devine,H,Navy,Ind,George Welsh,W,31,10
+1975-11-08,Notre Dame,Ind,Dan Devine,H,Georgia Tech,Ind,Pepper Rodgers,W,24,3
+1975-11-15,Notre Dame,Ind,Dan Devine,A,Pitt,Ind,Johnny Majors,L,20,34
+1975-11-22,Notre Dame,Ind,Dan Devine,A,Miami (FL),Ind,Carl Selmer,W,32,9
+1975-09-06,Louisiana,Southland,Augie Tammariello,H,Long Beach State,PCAA,Wayne Howard,W,22,17
+1975-09-13,Louisiana,Southland,Augie Tammariello,H,Southern Illinois,Ind,Doug Weaver,W,27,10
+1975-09-27,Louisiana,Southland,Augie Tammariello,H,New Mexico State,MVC,Jim Bradley,W,31,7
+1975-10-04,Louisiana,Southland,Augie Tammariello,A,Arkansas State,Southland,Bill Davidson,L,17,39
+1975-10-11,Louisiana,Southland,Augie Tammariello,A,Louisiana Tech,Southland,Maxie Lambright,L,14,24
+1975-10-18,Louisiana,Southland,Augie Tammariello,H,Lamar,Southland,Vernon Glass,W,21,12
+1975-10-25,Louisiana,Southland,Augie Tammariello,A,Cincinnati,Ind,Tony Mason,L,17,23
+1975-11-01,Louisiana,Southland,Augie Tammariello,H,Texas-Arlington,Southland,Harold Elliott,W,35,32
+1975-11-08,Louisiana,Southland,Augie Tammariello,H,Pacific,PCAA,Chester Caddas,L,14,19
+1975-11-22,Louisiana,Southland,Augie Tammariello,H,McNeese State,Southland,Jack Doland,L,21,33
+1975-09-06,East Carolina,Southern,Pat Dye,A,North Carolina State,ACC,Lou Holtz,L,3,26
+1975-09-13,East Carolina,Southern,Pat Dye,A,Appalachian State,Southern,Jim Brakefield,L,25,41
+1975-09-20,East Carolina,Southern,Pat Dye,H,William & Mary,Southern,James Root,W,20,0
+1975-09-27,East Carolina,Southern,Pat Dye,A,Southern Illinois,Ind,Doug Weaver,W,41,7
+1975-10-04,East Carolina,Southern,Pat Dye,H,Richmond,Southern,Jim Tait,L,14,17
+1975-10-11,East Carolina,Southern,Pat Dye,A,Citadel,Southern,Bobby Ross,W,3,0
+1975-10-25,East Carolina,Southern,Pat Dye,A,North Carolina,ACC,Bill Dooley,W,38,17
+1975-11-01,East Carolina,Southern,Pat Dye,H,Furman,Southern,Art Baker,W,21,10
+1975-11-08,East Carolina,Southern,Pat Dye,A,Virginia,ACC,Sonny Randle,W,61,10
+1975-11-22,East Carolina,Southern,Pat Dye,H,Virginia Military Institute,Southern,Bob Thalman,W,28,12
+1975-09-13,Toledo,MAC,Jack Murphy,A,Ball State,MAC,Dave McClain,L,28,38
+1975-09-20,Toledo,MAC,Jack Murphy,A,Villanova,Ind,Dick Bedesem,L,10,14
+1975-09-27,Toledo,MAC,Jack Murphy,H,Central Michigan,MAC,Roy Kramer,L,27,34
+1975-10-04,Toledo,MAC,Jack Murphy,H,Dayton,Ind,Ron Marciniak,L,13,24
+1975-10-11,Toledo,MAC,Jack Murphy,A,Bowling Green State,MAC,Don Nehlen,L,17,34
+1975-10-18,Toledo,MAC,Jack Murphy,H,Western Michigan,MAC,Elliot Uzelac,W,25,7
+1975-10-25,Toledo,MAC,Jack Murphy,H,Ohio,MAC,Bill Hess,W,14,10
+1975-11-01,Toledo,MAC,Jack Murphy,A,Miami (OH),MAC,Dick Crum,L,21,35
+1975-11-08,Toledo,MAC,Jack Murphy,A,Northern Illinois,MAC,Jerry Ippoliti,W,24,22
+1975-11-22,Toledo,MAC,Jack Murphy,H,Kent State,MAC,Dennis Fitzgerald,W,33,28
+1975-09-06,Pitt,Ind,Johnny Majors,A,Georgia,SEC,Vince Dooley,W,19,9
+1975-09-20,Pitt,Ind,Johnny Majors,A,Oklahoma,Big 8,Barry Switzer,L,10,46
+1975-09-27,Pitt,Ind,Johnny Majors,H,William & Mary,Southern,James Root,W,47,0
+1975-10-04,Pitt,Ind,Johnny Majors,H,Duke,ACC,Mike McGee,W,14,0
+1975-10-11,Pitt,Ind,Johnny Majors,A,Temple,Ind,Wayne Hardin,W,55,6
+1975-10-18,Pitt,Ind,Johnny Majors,A,Army,Ind,Homer Smith,W,52,20
+1975-10-25,Pitt,Ind,Johnny Majors,H,Navy,Ind,George Welsh,L,0,17
+1975-11-01,Pitt,Ind,Johnny Majors,A,Syracuse,Ind,Frank Maloney,W,38,0
+1975-11-08,Pitt,Ind,Johnny Majors,A,West Virginia,Ind,Bobby Bowden,L,14,17
+1975-11-15,Pitt,Ind,Johnny Majors,H,Notre Dame,Ind,Dan Devine,W,34,20
+1975-11-22,Pitt,Ind,Johnny Majors,H,Penn State,Ind,Joe Paterno,L,6,7
+1975-12-26,Pitt,Ind,Johnny Majors,N,Kansas,Big 8,Bud Moore,W,33,19
+1975-09-06,West Texas A&M,MVC,Gene Mayfield,A,Wichita State,MVC,Jim Wright,L,7,13
+1975-09-13,West Texas A&M,MVC,Gene Mayfield,A,Lamar,Southland,Vernon Glass,W,10,8
+1975-09-20,West Texas A&M,MVC,Gene Mayfield,H,Tulsa,MVC,F. Dry,L,14,23
+1975-10-04,West Texas A&M,MVC,Gene Mayfield,H,Texas-Arlington,Southland,Harold Elliott,L,7,39
+1975-10-11,West Texas A&M,MVC,Gene Mayfield,A,Utah State,Ind,Phil Krueger,L,17,21
+1975-10-18,West Texas A&M,MVC,Gene Mayfield,H,Drake,MVC,Jack Wallace,W,24,6
+1975-11-01,West Texas A&M,MVC,Gene Mayfield,A,Louisiana-Monroe,Ind,Ollie Keller,W,45,20
+1975-11-08,West Texas A&M,MVC,Gene Mayfield,H,New Mexico State,MVC,Jim Bradley,W,38,10
+1975-11-15,West Texas A&M,MVC,Gene Mayfield,A,McNeese State,Southland,Jack Doland,L,33,39
+1975-11-22,West Texas A&M,MVC,Gene Mayfield,H,Louisville,Ind,Vince Gibson,W,49,23
+1975-11-29,West Texas A&M,MVC,Gene Mayfield,A,North Texas,Ind,Hayden Fry,L,15,16
+1975-09-06,Akron,Ind,Jim Dennison,H,Marshall,Ind,Frank Ellwood,W,20,8
+1975-09-13,Akron,Ind,Jim Dennison,A,Western Michigan,MAC,Elliot Uzelac,W,27,21
+1975-09-20,Akron,Ind,Jim Dennison,A,Dayton,Ind,Ron Marciniak,L,9,31
+1975-10-18,Akron,Ind,Jim Dennison,A,Temple,Ind,Wayne Hardin,W,24,23
+1975-11-01,Akron,Ind,Jim Dennison,H,Indiana State,Ind,Tom Harp,W,14,11
+1975-11-08,Akron,Ind,Jim Dennison,H,Ball State,MAC,Dave McClain,L,14,17
+1975-09-04,North Texas,Ind,Hayden Fry,N,Texas-Arlington,Southland,Harold Elliott,W,27,14
+1975-09-13,North Texas,Ind,Hayden Fry,A,Drake,MVC,Jack Wallace,W,7,3
+1975-09-20,North Texas,Ind,Hayden Fry,A,San Diego State,PCAA,Claude Gilbert,L,12,30
+1975-09-27,North Texas,Ind,Hayden Fry,A,Oklahoma State,Big 8,Jim Stanley,L,7,61
+1975-10-04,North Texas,Ind,Hayden Fry,A,Memphis,Ind,Richard Williamson,L,19,21
+1975-10-11,North Texas,Ind,Hayden Fry,H,Houston,Ind,Bill Yeoman,W,28,0
+1975-10-18,North Texas,Ind,Hayden Fry,A,Mississippi State,SEC,Bob Tyler,L,12,15
+1975-10-25,North Texas,Ind,Hayden Fry,A,Tennessee,SEC,Bill Battle,W,21,14
+1975-11-15,North Texas,Ind,Hayden Fry,A,New Mexico State,MVC,Jim Bradley,W,24,20
+1975-11-29,North Texas,Ind,Hayden Fry,H,West Texas A&M,MVC,Gene Mayfield,W,16,15
+1975-09-20,Wyoming,WAC,Fred Akers,A,Colorado,Big 8,Bill Mallory,L,10,27
+1975-09-27,Wyoming,WAC,Fred Akers,H,Arizona,WAC,Jim Young,L,0,14
+1975-10-04,Wyoming,WAC,Fred Akers,H,Colorado State,WAC,Sarkis Arslanian,L,0,3
+1975-10-11,Wyoming,WAC,Fred Akers,A,Utah,WAC,Tom Lovat,L,13,16
+1975-10-18,Wyoming,WAC,Fred Akers,H,UTEP,WAC,Gil Bartosh,W,31,14
+1975-10-25,Wyoming,WAC,Fred Akers,H,Brigham Young,WAC,LaVell Edwards,L,20,33
+1975-11-01,Wyoming,WAC,Fred Akers,A,Utah State,Ind,Phil Krueger,L,21,27
+1975-11-08,Wyoming,WAC,Fred Akers,A,Arizona State,WAC,Frank Kush,L,20,21
+1975-11-15,Wyoming,WAC,Fred Akers,A,New Mexico,WAC,Bill Mondt,L,32,38
+1975-11-22,Wyoming,WAC,Fred Akers,A,Air Force,Ind,Ben Martin,W,24,10
+1975-09-13,Brigham Young,WAC,LaVell Edwards,H,Bowling Green State,MAC,Don Nehlen,L,21,23
+1975-09-20,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,L,17,21
+1975-09-27,Brigham Young,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,0,20
+1975-10-03,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,16,15
+1975-10-11,Brigham Young,WAC,LaVell Edwards,H,Air Force,Ind,Ben Martin,W,28,14
+1975-10-25,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Fred Akers,W,33,20
+1975-11-01,Brigham Young,WAC,LaVell Edwards,H,Arizona,WAC,Jim Young,L,20,36
+1975-11-08,Brigham Young,WAC,LaVell Edwards,A,Utah State,Ind,Phil Krueger,W,24,7
+1975-11-15,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Tom Lovat,W,51,20
+1975-11-22,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Gil Bartosh,W,20,10
+1975-11-29,Brigham Young,WAC,LaVell Edwards,A,Southern Mississippi,Ind,Bobby Collins,L,14,42
+1975-10-04,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,24,10
+1975-10-11,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,L,12,27
+1975-10-18,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,William Campbell,W,34,7
+1975-10-25,Yale,Ivy,Carmen Cozza,H,Cornell,Ivy,George Seifert,W,20,14
+1975-11-01,Yale,Ivy,Carmen Cozza,H,Dartmouth,Ivy,John Crouthamel,W,16,14
+1975-11-08,Yale,Ivy,Carmen Cozza,H,Pennsylvania,Ivy,Harry Gamble,W,24,14
+1975-11-15,Yale,Ivy,Carmen Cozza,A,Princeton,Ivy,Robert Casciola,W,24,13
+1975-11-22,Yale,Ivy,Carmen Cozza,H,Harvard,Ivy,Joseph Restic,L,7,10
+1975-09-13,Georgia Tech,Ind,Pepper Rodgers,A,South Carolina,Ind,Jim Carlen,L,17,23
+1975-09-20,Georgia Tech,Ind,Pepper Rodgers,H,Miami (FL),Ind,Carl Selmer,W,38,23
+1975-09-27,Georgia Tech,Ind,Pepper Rodgers,H,Clemson,ACC,Red Parker,W,33,28
+1975-10-04,Georgia Tech,Ind,Pepper Rodgers,H,Florida State,Ind,Darrell Mudra,W,30,0
+1975-10-11,Georgia Tech,Ind,Pepper Rodgers,H,Virginia Military Institute,Southern,Bob Thalman,W,38,10
+1975-10-18,Georgia Tech,Ind,Pepper Rodgers,H,Auburn,SEC,Ralph Jordan,L,27,31
+1975-10-25,Georgia Tech,Ind,Pepper Rodgers,A,Tulane,Ind,Bennie Ellender,W,23,0
+1975-11-01,Georgia Tech,Ind,Pepper Rodgers,H,Duke,ACC,Mike McGee,W,21,6
+1975-11-08,Georgia Tech,Ind,Pepper Rodgers,A,Notre Dame,Ind,Dan Devine,L,3,24
+1975-11-15,Georgia Tech,Ind,Pepper Rodgers,H,Navy,Ind,George Welsh,W,14,13
+1975-11-27,Georgia Tech,Ind,Pepper Rodgers,H,Georgia,SEC,Vince Dooley,L,26,42
+1975-09-06,Wake Forest,ACC,Chuck Mills,H,SMU,SWC,Dave Smith,L,7,14
+1975-09-13,Wake Forest,ACC,Chuck Mills,A,North Carolina State,ACC,Lou Holtz,W,30,22
+1975-09-20,Wake Forest,ACC,Chuck Mills,H,Appalachian State,Southern,Jim Brakefield,L,17,19
+1975-09-27,Wake Forest,ACC,Chuck Mills,H,Kansas State,Big 8,Ellis Rainsberger,L,16,17
+1975-10-11,Wake Forest,ACC,Chuck Mills,A,Clemson,ACC,Red Parker,L,14,16
+1975-10-18,Wake Forest,ACC,Chuck Mills,H,Maryland,ACC,Jerry Claiborne,L,0,27
+1975-10-25,Wake Forest,ACC,Chuck Mills,A,Virginia,ACC,Sonny Randle,W,66,21
+1975-11-01,Wake Forest,ACC,Chuck Mills,A,North Carolina,ACC,Bill Dooley,W,21,9
+1975-11-08,Wake Forest,ACC,Chuck Mills,H,Duke,ACC,Mike McGee,L,14,42
+1975-11-15,Wake Forest,ACC,Chuck Mills,A,South Carolina,Ind,Jim Carlen,L,26,37
+1975-11-22,Wake Forest,ACC,Chuck Mills,A,Virginia Tech,Ind,Jimmy Sharpe,L,10,40
+1975-09-20,Arkansas State,Southland,Bill Davidson,A,McNeese State,Southland,Jack Doland,W,24,7
+1975-09-27,Arkansas State,Southland,Bill Davidson,A,Memphis,Ind,Richard Williamson,W,29,10
+1975-10-04,Arkansas State,Southland,Bill Davidson,H,Louisiana,Southland,Augie Tammariello,W,39,17
+1975-10-18,Arkansas State,Southland,Bill Davidson,A,Cincinnati,Ind,Tony Mason,W,14,9
+1975-10-25,Arkansas State,Southland,Bill Davidson,A,Lamar,Southland,Vernon Glass,W,17,0
+1975-11-01,Arkansas State,Southland,Bill Davidson,H,Chattanooga,Ind,Joe Morrison,W,48,0
+1975-11-08,Arkansas State,Southland,Bill Davidson,H,Southern Illinois,Ind,Doug Weaver,W,35,12
+1975-11-22,Arkansas State,Southland,Bill Davidson,H,Texas-Arlington,Southland,Harold Elliott,W,54,7
+1975-11-29,Arkansas State,Southland,Bill Davidson,A,Louisiana Tech,Southland,Maxie Lambright,W,30,13
+1975-09-06,Mississippi State,SEC,Bob Tyler,A,Memphis,Ind,Richard Williamson,W,17,7
+1975-09-20,Mississippi State,SEC,Bob Tyler,A,Georgia,SEC,Vince Dooley,L,6,28
+1975-09-27,Mississippi State,SEC,Bob Tyler,H,Florida,SEC,Doug Dickey,L,10,27
+1975-10-04,Mississippi State,SEC,Bob Tyler,H,Southern Mississippi,Ind,Bobby Collins,W,7,3
+1975-10-11,Mississippi State,SEC,Bob Tyler,A,Rice,SWC,Al Conover,W,28,14
+1975-10-18,Mississippi State,SEC,Bob Tyler,H,North Texas,Ind,Hayden Fry,W,15,12
+1975-10-25,Mississippi State,SEC,Bob Tyler,A,Louisville,Ind,Vince Gibson,W,28,14
+1975-11-01,Mississippi State,SEC,Bob Tyler,H,Alabama,SEC,Bear Bryant,L,10,21
+1975-11-08,Mississippi State,SEC,Bob Tyler,A,Auburn,SEC,Ralph Jordan,T,21,21
+1975-11-15,Mississippi State,SEC,Bob Tyler,A,LSU,SEC,Charles McClendon,W,16,6
+1975-11-22,Mississippi State,SEC,Bob Tyler,N,Ole Miss,SEC,Ken Cooper,L,7,13
+1975-09-20,Virginia Military Institute,Southern,Bob Thalman,A,Virginia,ACC,Sonny Randle,L,21,22
+1975-10-04,Virginia Military Institute,Southern,Bob Thalman,A,Furman,Southern,Art Baker,W,13,10
+1975-10-11,Virginia Military Institute,Southern,Bob Thalman,A,Georgia Tech,Ind,Pepper Rodgers,L,10,38
+1975-10-18,Virginia Military Institute,Southern,Bob Thalman,A,Richmond,Southern,Jim Tait,L,19,24
+1975-10-25,Virginia Military Institute,Southern,Bob Thalman,H,Citadel,Southern,Bobby Ross,L,3,6
+1975-11-08,Virginia Military Institute,Southern,Bob Thalman,H,William & Mary,Southern,James Root,L,7,13
+1975-11-15,Virginia Military Institute,Southern,Bob Thalman,A,Virginia Tech,Ind,Jimmy Sharpe,L,0,33
+1975-11-22,Virginia Military Institute,Southern,Bob Thalman,A,East Carolina,Southern,Pat Dye,L,12,28
+1975-09-06,Memphis,Ind,Richard Williamson,H,Mississippi State,SEC,Bob Tyler,L,7,17
+1975-09-13,Memphis,Ind,Richard Williamson,A,Auburn,SEC,Ralph Jordan,W,31,20
+1975-09-20,Memphis,Ind,Richard Williamson,A,Cincinnati,Ind,Tony Mason,L,3,13
+1975-09-27,Memphis,Ind,Richard Williamson,H,Arkansas State,Southland,Bill Davidson,L,10,29
+1975-10-04,Memphis,Ind,Richard Williamson,H,North Texas,Ind,Hayden Fry,W,21,19
+1975-10-11,Memphis,Ind,Richard Williamson,H,Southern Mississippi,Ind,Bobby Collins,L,7,21
+1975-10-18,Memphis,Ind,Richard Williamson,H,Louisville,Ind,Vince Gibson,W,41,7
+1975-10-25,Memphis,Ind,Richard Williamson,A,Tulsa,MVC,F. Dry,W,16,14
+1975-11-01,Memphis,Ind,Richard Williamson,A,Wichita State,MVC,Jim Wright,W,13,7
+1975-11-08,Memphis,Ind,Richard Williamson,A,Florida State,Ind,Darrell Mudra,W,17,14
+1975-11-15,Memphis,Ind,Richard Williamson,H,Houston,Ind,Bill Yeoman,W,14,7
+1975-09-13,Kansas State,Big 8,Ellis Rainsberger,A,Tulsa,MVC,F. Dry,W,17,16
+1975-09-20,Kansas State,Big 8,Ellis Rainsberger,H,Wichita State,MVC,Jim Wright,W,32,0
+1975-09-27,Kansas State,Big 8,Ellis Rainsberger,A,Wake Forest,ACC,Chuck Mills,W,17,16
+1975-10-04,Kansas State,Big 8,Ellis Rainsberger,H,Texas A&M,SWC,Emory Bellard,L,0,10
+1975-10-11,Kansas State,Big 8,Ellis Rainsberger,H,Iowa State,Big 8,Earle Bruce,L,7,17
+1975-10-18,Kansas State,Big 8,Ellis Rainsberger,H,Oklahoma,Big 8,Barry Switzer,L,3,25
+1975-10-25,Kansas State,Big 8,Ellis Rainsberger,A,Missouri,Big 8,Al Onofrio,L,3,35
+1975-11-01,Kansas State,Big 8,Ellis Rainsberger,A,Kansas,Big 8,Bud Moore,L,0,28
+1975-11-08,Kansas State,Big 8,Ellis Rainsberger,H,Nebraska,Big 8,Tom Osborne,L,0,12
+1975-11-15,Kansas State,Big 8,Ellis Rainsberger,A,Oklahoma State,Big 8,Jim Stanley,L,3,56
+1975-11-22,Kansas State,Big 8,Ellis Rainsberger,A,Colorado,Big 8,Bill Mallory,L,7,33
+1975-09-13,Chattanooga,Ind,Joe Morrison,A,Vanderbilt,SEC,Fred Pancoast,L,7,17
+1975-10-11,Chattanooga,Ind,Joe Morrison,A,Louisville,Ind,Vince Gibson,L,3,6
+1975-11-01,Chattanooga,Ind,Joe Morrison,A,Arkansas State,Southland,Bill Davidson,L,0,48
+1975-11-15,Chattanooga,Ind,Joe Morrison,A,Louisiana Tech,Southland,Maxie Lambright,L,20,49
+1975-11-22,Chattanooga,Ind,Joe Morrison,H,Citadel,Southern,Bobby Ross,W,24,6
+1975-09-13,Army,Ind,Homer Smith,H,Holy Cross,Ind,Edward Doherty,W,44,7
+1975-09-27,Army,Ind,Homer Smith,H,Villanova,Ind,Dick Bedesem,L,0,10
+1975-10-04,Army,Ind,Homer Smith,A,Stanford,Pac-8,Jack Christiansen,L,14,67
+1975-10-11,Army,Ind,Homer Smith,H,Duke,ACC,Mike McGee,L,10,21
+1975-10-18,Army,Ind,Homer Smith,H,Pitt,Ind,Johnny Majors,L,20,52
+1975-10-25,Army,Ind,Homer Smith,A,Penn State,Ind,Joe Paterno,L,0,31
+1975-11-01,Army,Ind,Homer Smith,A,Air Force,Ind,Ben Martin,L,3,33
+1975-11-08,Army,Ind,Homer Smith,H,Boston College,Ind,Joseph Yukica,L,0,31
+1975-11-15,Army,Ind,Homer Smith,A,Vanderbilt,SEC,Fred Pancoast,L,14,23
+1975-11-29,Army,Ind,Homer Smith,N,Navy,Ind,George Welsh,L,6,30
+1975-09-06,Louisiana-Monroe,Ind,Ollie Keller,H,Pacific,PCAA,Chester Caddas,T,3,3
+1975-09-13,Louisiana-Monroe,Ind,Ollie Keller,H,Kent State,MAC,Dennis Fitzgerald,L,29,31
+1975-09-20,Louisiana-Monroe,Ind,Ollie Keller,H,Eastern Michigan,Ind,George Mans,L,24,27
+1975-09-27,Louisiana-Monroe,Ind,Ollie Keller,H,Drake,MVC,Jack Wallace,W,38,25
+1975-10-11,Louisiana-Monroe,Ind,Ollie Keller,H,Lamar,Southland,Vernon Glass,W,34,7
+1975-10-18,Louisiana-Monroe,Ind,Ollie Keller,A,McNeese State,Southland,Jack Doland,L,14,15
+1975-11-01,Louisiana-Monroe,Ind,Ollie Keller,H,West Texas A&M,MVC,Gene Mayfield,L,20,45
+1975-11-08,Louisiana-Monroe,Ind,Ollie Keller,A,Louisiana Tech,Southland,Maxie Lambright,L,23,41
+1975-11-15,Louisiana-Monroe,Ind,Ollie Keller,H,Louisville,Ind,Vince Gibson,W,14,10
+1975-10-04,Dartmouth,Ivy,John Crouthamel,H,Holy Cross,Ind,Edward Doherty,W,28,7
+1975-10-11,Dartmouth,Ivy,John Crouthamel,H,Pennsylvania,Ivy,Harry Gamble,W,19,14
+1975-10-18,Dartmouth,Ivy,John Crouthamel,H,Brown,Ivy,John Anderson,T,10,10
+1975-10-25,Dartmouth,Ivy,John Crouthamel,A,Harvard,Ivy,Joseph Restic,L,10,24
+1975-11-01,Dartmouth,Ivy,John Crouthamel,A,Yale,Ivy,Carmen Cozza,L,14,16
+1975-11-08,Dartmouth,Ivy,John Crouthamel,A,Columbia,Ivy,William Campbell,W,22,17
+1975-11-15,Dartmouth,Ivy,John Crouthamel,H,Cornell,Ivy,George Seifert,W,33,10
+1975-11-22,Dartmouth,Ivy,John Crouthamel,A,Princeton,Ivy,Robert Casciola,W,21,16
+1975-09-13,UCLA,Pac-8,Dick Vermeil,H,Iowa State,Big 8,Earle Bruce,W,37,21
+1975-09-20,UCLA,Pac-8,Dick Vermeil,H,Tennessee,SEC,Bill Battle,W,34,28
+1975-09-27,UCLA,Pac-8,Dick Vermeil,A,Air Force,Ind,Ben Martin,T,20,20
+1975-10-04,UCLA,Pac-8,Dick Vermeil,H,Ohio State,Big Ten,Woody Hayes,L,20,41
+1975-10-11,UCLA,Pac-8,Dick Vermeil,A,Stanford,Pac-8,Jack Christiansen,W,31,21
+1975-10-18,UCLA,Pac-8,Dick Vermeil,A,Washington State,Pac-8,Jim Sweeney,W,37,23
+1975-10-25,UCLA,Pac-8,Dick Vermeil,H,California,Pac-8,Mike White,W,28,14
+1975-11-01,UCLA,Pac-8,Dick Vermeil,H,Washington,Pac-8,Don James,L,13,17
+1975-11-08,UCLA,Pac-8,Dick Vermeil,A,Oregon,Pac-8,Don Read,W,50,17
+1975-11-15,UCLA,Pac-8,Dick Vermeil,H,Oregon State,Pac-8,Dee Andros,W,31,9
+1975-11-28,UCLA,Pac-8,Dick Vermeil,A,USC,Pac-8,John McKay,W,25,22
+1976-01-01,UCLA,Pac-8,Dick Vermeil,H,Ohio State,Big Ten,Woody Hayes,W,23,10
+1975-09-13,Auburn,SEC,Ralph Jordan,H,Memphis,Ind,Richard Williamson,L,20,31
+1975-09-20,Auburn,SEC,Ralph Jordan,A,Baylor,SWC,Grant Teaff,T,10,10
+1975-09-27,Auburn,SEC,Ralph Jordan,A,Tennessee,SEC,Bill Battle,L,17,21
+1975-10-04,Auburn,SEC,Ralph Jordan,H,Virginia Tech,Ind,Jimmy Sharpe,L,16,23
+1975-10-11,Auburn,SEC,Ralph Jordan,A,Kentucky,SEC,Fran Curci,W,15,9
+1975-10-18,Auburn,SEC,Ralph Jordan,A,Georgia Tech,Ind,Pepper Rodgers,W,31,27
+1975-10-25,Auburn,SEC,Ralph Jordan,A,Florida State,Ind,Darrell Mudra,W,17,14
+1975-11-01,Auburn,SEC,Ralph Jordan,H,Florida,SEC,Doug Dickey,L,14,31
+1975-11-08,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Bob Tyler,T,21,21
+1975-11-15,Auburn,SEC,Ralph Jordan,A,Georgia,SEC,Vince Dooley,L,13,28
+1975-11-29,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Bear Bryant,L,0,28
+1975-09-13,Northwestern,Big Ten,John Pont,H,Purdue,Big Ten,Alex Agase,W,31,25
+1975-09-20,Northwestern,Big Ten,John Pont,H,Northern Illinois,MAC,Jerry Ippoliti,W,10,3
+1975-09-27,Northwestern,Big Ten,John Pont,A,Notre Dame,Ind,Dan Devine,L,7,31
+1975-10-04,Northwestern,Big Ten,John Pont,A,Arizona,WAC,Jim Young,L,6,41
+1975-10-11,Northwestern,Big Ten,John Pont,H,Indiana,Big Ten,Lee Corso,W,30,0
+1975-10-18,Northwestern,Big Ten,John Pont,A,Michigan,Big Ten,Bo Schembechler,L,0,69
+1975-10-25,Northwestern,Big Ten,John Pont,A,Wisconsin,Big Ten,John Jardine,L,14,17
+1975-11-01,Northwestern,Big Ten,John Pont,H,Iowa,Big Ten,Bob Commings,L,21,24
+1975-11-08,Northwestern,Big Ten,John Pont,A,Minnesota,Big Ten,Cal Stoll,L,9,33
+1975-11-15,Northwestern,Big Ten,John Pont,A,Michigan State,Big Ten,Dennis Stolz,L,14,47
+1975-11-22,Northwestern,Big Ten,John Pont,H,Illinois,Big Ten,Bob Blackman,L,7,28
+1975-09-06,Marshall,Ind,Frank Ellwood,A,Akron,Ind,Jim Dennison,L,8,20
+1975-09-13,Marshall,Ind,Frank Ellwood,A,Miami (OH),MAC,Dick Crum,L,0,50
+1975-09-27,Marshall,Ind,Frank Ellwood,H,Illinois State,Ind,Gerry Hart,W,36,3
+1975-10-04,Marshall,Ind,Frank Ellwood,H,McNeese State,Southland,Jack Doland,L,3,33
+1975-10-18,Marshall,Ind,Frank Ellwood,A,Villanova,Ind,Dick Bedesem,L,14,21
+1975-10-25,Marshall,Ind,Frank Ellwood,H,Western Michigan,MAC,Elliot Uzelac,W,21,19
+1975-11-01,Marshall,Ind,Frank Ellwood,A,Central Michigan,MAC,Roy Kramer,L,0,34
+1975-11-08,Marshall,Ind,Frank Ellwood,A,Kent State,MAC,Dennis Fitzgerald,L,21,30
+1975-11-15,Marshall,Ind,Frank Ellwood,A,Dayton,Ind,Ron Marciniak,L,8,29
+1975-11-22,Marshall,Ind,Frank Ellwood,H,Ohio,MAC,Bill Hess,L,21,38
+1975-09-13,Kansas,Big 8,Bud Moore,H,Washington State,Pac-8,Jim Sweeney,L,14,18
+1975-09-20,Kansas,Big 8,Bud Moore,A,Kentucky,SEC,Fran Curci,W,14,10
+1975-09-27,Kansas,Big 8,Bud Moore,H,Oregon State,Pac-8,Dee Andros,W,20,0
+1975-10-04,Kansas,Big 8,Bud Moore,A,Wisconsin,Big Ten,John Jardine,W,41,7
+1975-10-11,Kansas,Big 8,Bud Moore,A,Nebraska,Big 8,Tom Osborne,L,0,16
+1975-10-18,Kansas,Big 8,Bud Moore,A,Iowa State,Big 8,Earle Bruce,W,21,10
+1975-10-25,Kansas,Big 8,Bud Moore,H,Oklahoma State,Big 8,Jim Stanley,L,19,35
+1975-11-01,Kansas,Big 8,Bud Moore,H,Kansas State,Big 8,Ellis Rainsberger,W,28,0
+1975-11-08,Kansas,Big 8,Bud Moore,A,Oklahoma,Big 8,Barry Switzer,W,23,3
+1975-11-15,Kansas,Big 8,Bud Moore,H,Colorado,Big 8,Bill Mallory,L,21,24
+1975-11-22,Kansas,Big 8,Bud Moore,H,Missouri,Big 8,Al Onofrio,W,42,24
+1975-12-26,Kansas,Big 8,Bud Moore,N,Pitt,Ind,Johnny Majors,L,19,33
+1975-09-06,Western Michigan,MAC,Elliot Uzelac,A,Central Michigan,MAC,Roy Kramer,L,0,34
+1975-09-13,Western Michigan,MAC,Elliot Uzelac,H,Akron,Ind,Jim Dennison,L,21,27
+1975-09-20,Western Michigan,MAC,Elliot Uzelac,A,Minnesota,Big Ten,Cal Stoll,L,0,38
+1975-09-27,Western Michigan,MAC,Elliot Uzelac,H,Northern Illinois,MAC,Jerry Ippoliti,L,0,20
+1975-10-04,Western Michigan,MAC,Elliot Uzelac,A,Bowling Green State,MAC,Don Nehlen,L,0,28
+1975-10-11,Western Michigan,MAC,Elliot Uzelac,H,Kent State,MAC,Dennis Fitzgerald,L,17,22
+1975-10-18,Western Michigan,MAC,Elliot Uzelac,A,Toledo,MAC,Jack Murphy,L,7,25
+1975-10-25,Western Michigan,MAC,Elliot Uzelac,A,Marshall,Ind,Frank Ellwood,L,19,21
+1975-11-01,Western Michigan,MAC,Elliot Uzelac,A,Ohio,MAC,Bill Hess,L,10,24
+1975-11-08,Western Michigan,MAC,Elliot Uzelac,H,Miami (OH),MAC,Dick Crum,L,21,44
+1975-11-15,Western Michigan,MAC,Elliot Uzelac,H,Eastern Michigan,Ind,George Mans,W,24,14
+1975-09-06,William & Mary,Southern,James Root,A,North Carolina,ACC,Bill Dooley,L,7,33
+1975-09-20,William & Mary,Southern,James Root,A,East Carolina,Southern,Pat Dye,L,0,20
+1975-09-27,William & Mary,Southern,James Root,A,Pitt,Ind,Johnny Majors,L,0,47
+1975-10-04,William & Mary,Southern,James Root,A,Citadel,Southern,Bobby Ross,L,6,21
+1975-10-11,William & Mary,Southern,James Root,H,Ohio,MAC,Bill Hess,L,8,22
+1975-10-18,William & Mary,Southern,James Root,A,Rutgers,Ind,Frank Burns,L,0,24
+1975-10-25,William & Mary,Southern,James Root,H,Furman,Southern,Art Baker,L,6,21
+1975-11-01,William & Mary,Southern,James Root,N,Virginia Tech,Ind,Jimmy Sharpe,L,7,24
+1975-11-08,William & Mary,Southern,James Root,A,Virginia Military Institute,Southern,Bob Thalman,W,13,7
+1975-11-15,William & Mary,Southern,James Root,H,Colgate,Ind,Neil Wheelwright,L,17,21
+1975-11-22,William & Mary,Southern,James Root,H,Richmond,Southern,Jim Tait,W,31,21
+1975-09-06,UTEP,WAC,Gil Bartosh,A,San Diego State,PCAA,Claude Gilbert,L,10,31
+1975-09-13,UTEP,WAC,Gil Bartosh,H,New Mexico State,MVC,Jim Bradley,L,24,31
+1975-10-04,UTEP,WAC,Gil Bartosh,A,Pacific,PCAA,Chester Caddas,L,10,40
+1975-10-11,UTEP,WAC,Gil Bartosh,H,Arizona,WAC,Jim Young,L,0,36
+1975-10-18,UTEP,WAC,Gil Bartosh,A,Wyoming,WAC,Fred Akers,L,14,31
+1975-10-25,UTEP,WAC,Gil Bartosh,A,Arizona State,WAC,Frank Kush,L,6,24
+1975-11-01,UTEP,WAC,Gil Bartosh,A,New Mexico,WAC,Bill Mondt,L,3,23
+1975-11-08,UTEP,WAC,Gil Bartosh,H,Colorado State,WAC,Sarkis Arslanian,L,17,21
+1975-11-15,UTEP,WAC,Gil Bartosh,A,Hawaii,Ind,Larry Price,L,9,21
+1975-11-22,UTEP,WAC,Gil Bartosh,H,Brigham Young,WAC,LaVell Edwards,L,10,20
+1975-09-13,Indiana State,Ind,Tom Harp,A,Eastern Michigan,Ind,George Mans,L,7,30
+1975-09-20,Indiana State,Ind,Tom Harp,A,Southern Illinois,Ind,Doug Weaver,W,23,21
+1975-10-04,Indiana State,Ind,Tom Harp,A,Ball State,MAC,Dave McClain,L,16,20
+1975-10-11,Indiana State,Ind,Tom Harp,H,Northern Illinois,MAC,Jerry Ippoliti,W,21,10
+1975-10-18,Indiana State,Ind,Tom Harp,H,Dayton,Ind,Ron Marciniak,W,56,14
+1975-10-25,Indiana State,Ind,Tom Harp,H,Illinois State,Ind,Gerry Hart,W,42,13
+1975-11-01,Indiana State,Ind,Tom Harp,A,Akron,Ind,Jim Dennison,L,11,14
+1975-11-15,Indiana State,Ind,Tom Harp,A,Tulsa,MVC,F. Dry,L,7,62
+1975-09-13,LSU,SEC,Charles McClendon,A,Nebraska,Big 8,Tom Osborne,L,7,10
+1975-09-20,LSU,SEC,Charles McClendon,H,Texas A&M,SWC,Emory Bellard,L,8,39
+1975-09-27,LSU,SEC,Charles McClendon,N,Rice,SWC,Al Conover,W,16,13
+1975-10-04,LSU,SEC,Charles McClendon,H,Florida,SEC,Doug Dickey,L,6,34
+1975-10-11,LSU,SEC,Charles McClendon,A,Tennessee,SEC,Bill Battle,L,10,24
+1975-10-18,LSU,SEC,Charles McClendon,H,Kentucky,SEC,Fran Curci,W,17,14
+1975-10-25,LSU,SEC,Charles McClendon,H,South Carolina,Ind,Jim Carlen,W,24,6
+1975-11-01,LSU,SEC,Charles McClendon,A,Ole Miss,SEC,Ken Cooper,L,13,17
+1975-11-08,LSU,SEC,Charles McClendon,H,Alabama,SEC,Bear Bryant,L,10,23
+1975-11-15,LSU,SEC,Charles McClendon,H,Mississippi State,SEC,Bob Tyler,L,6,16
+1975-11-22,LSU,SEC,Charles McClendon,A,Tulane,Ind,Bennie Ellender,W,42,6
+1975-10-04,Pennsylvania,Ivy,Harry Gamble,H,Brown,Ivy,John Anderson,L,8,17
+1975-10-11,Pennsylvania,Ivy,Harry Gamble,A,Dartmouth,Ivy,John Crouthamel,L,14,19
+1975-10-25,Pennsylvania,Ivy,Harry Gamble,A,Princeton,Ivy,Robert Casciola,W,24,20
+1975-11-01,Pennsylvania,Ivy,Harry Gamble,H,Harvard,Ivy,Joseph Restic,L,3,21
+1975-11-08,Pennsylvania,Ivy,Harry Gamble,A,Yale,Ivy,Carmen Cozza,L,14,24
+1975-11-15,Pennsylvania,Ivy,Harry Gamble,A,Columbia,Ivy,William Campbell,L,25,28
+1975-11-22,Pennsylvania,Ivy,Harry Gamble,H,Cornell,Ivy,George Seifert,W,27,21
+1975-09-13,Tulsa,MVC,F. Dry,H,Kansas State,Big 8,Ellis Rainsberger,L,16,17
+1975-09-20,Tulsa,MVC,F. Dry,A,West Texas A&M,MVC,Gene Mayfield,W,23,14
+1975-09-27,Tulsa,MVC,F. Dry,A,Arkansas,SWC,Frank Broyles,L,15,31
+1975-10-04,Tulsa,MVC,F. Dry,A,New Mexico State,MVC,Jim Bradley,W,35,7
+1975-10-11,Tulsa,MVC,F. Dry,H,Cincinnati,Ind,Tony Mason,W,24,16
+1975-10-18,Tulsa,MVC,F. Dry,A,Wichita State,MVC,Jim Wright,W,41,10
+1975-10-25,Tulsa,MVC,F. Dry,H,Memphis,Ind,Richard Williamson,L,14,16
+1975-11-01,Tulsa,MVC,F. Dry,H,Louisville,Ind,Vince Gibson,W,38,14
+1975-11-08,Tulsa,MVC,F. Dry,H,Drake,MVC,Jack Wallace,W,70,7
+1975-11-15,Tulsa,MVC,F. Dry,H,Indiana State,Ind,Tom Harp,W,62,7
+1975-11-29,Tulsa,MVC,F. Dry,A,Houston,Ind,Bill Yeoman,L,30,42
+1975-09-13,Iowa,Big Ten,Bob Commings,H,Illinois,Big Ten,Bob Blackman,L,12,27
+1975-09-20,Iowa,Big Ten,Bob Commings,A,Syracuse,Ind,Frank Maloney,L,7,10
+1975-09-27,Iowa,Big Ten,Bob Commings,H,Penn State,Ind,Joe Paterno,L,10,30
+1975-10-04,Iowa,Big Ten,Bob Commings,H,USC,Pac-8,John McKay,L,16,27
+1975-10-11,Iowa,Big Ten,Bob Commings,A,Ohio State,Big Ten,Woody Hayes,L,0,49
+1975-10-18,Iowa,Big Ten,Bob Commings,A,Indiana,Big Ten,Lee Corso,W,20,10
+1975-10-25,Iowa,Big Ten,Bob Commings,H,Minnesota,Big Ten,Cal Stoll,L,7,31
+1975-11-01,Iowa,Big Ten,Bob Commings,A,Northwestern,Big Ten,John Pont,W,24,21
+1975-11-08,Iowa,Big Ten,Bob Commings,H,Wisconsin,Big Ten,John Jardine,W,45,28
+1975-11-15,Iowa,Big Ten,Bob Commings,A,Purdue,Big Ten,Alex Agase,L,18,19
+1975-11-22,Iowa,Big Ten,Bob Commings,H,Michigan State,Big Ten,Dennis Stolz,L,23,27
+1975-10-04,Columbia,Ivy,William Campbell,H,Princeton,Ivy,Robert Casciola,L,7,27
+1975-10-11,Columbia,Ivy,William Campbell,A,Harvard,Ivy,Joseph Restic,L,30,35
+1975-10-18,Columbia,Ivy,William Campbell,H,Yale,Ivy,Carmen Cozza,L,7,34
+1975-10-25,Columbia,Ivy,William Campbell,A,Rutgers,Ind,Frank Burns,L,0,41
+1975-11-01,Columbia,Ivy,William Campbell,A,Cornell,Ivy,George Seifert,W,42,19
+1975-11-08,Columbia,Ivy,William Campbell,H,Dartmouth,Ivy,John Crouthamel,L,17,22
+1975-11-15,Columbia,Ivy,William Campbell,H,Pennsylvania,Ivy,Harry Gamble,W,28,25
+1975-11-22,Columbia,Ivy,William Campbell,A,Brown,Ivy,John Anderson,L,13,48
+1975-09-13,Texas,SWC,Darrell Royal,H,Colorado State,WAC,Sarkis Arslanian,W,46,0
+1975-09-20,Texas,SWC,Darrell Royal,A,Washington,Pac-8,Don James,W,28,10
+1975-09-27,Texas,SWC,Darrell Royal,H,Texas Tech,SWC,Steve Sloan,W,42,18
+1975-10-04,Texas,SWC,Darrell Royal,H,Utah State,Ind,Phil Krueger,W,61,7
+1975-10-11,Texas,SWC,Darrell Royal,N,Oklahoma,Big 8,Barry Switzer,L,17,24
+1975-10-18,Texas,SWC,Darrell Royal,A,Arkansas,SWC,Frank Broyles,W,24,18
+1975-10-25,Texas,SWC,Darrell Royal,H,Rice,SWC,Al Conover,W,41,9
+1975-11-01,Texas,SWC,Darrell Royal,A,SMU,SWC,Dave Smith,W,30,22
+1975-11-08,Texas,SWC,Darrell Royal,H,Baylor,SWC,Grant Teaff,W,37,21
+1975-11-15,Texas,SWC,Darrell Royal,H,Texas Christian,SWC,Jim Shofner,W,27,11
+1975-11-28,Texas,SWC,Darrell Royal,A,Texas A&M,SWC,Emory Bellard,L,10,20
+1975-12-27,Texas,SWC,Darrell Royal,N,Colorado,Big 8,Bill Mallory,W,38,21
+1975-09-13,Texas Christian,SWC,Jim Shofner,H,Texas-Arlington,Southland,Harold Elliott,L,7,24
+1975-09-20,Texas Christian,SWC,Jim Shofner,H,Arizona State,WAC,Frank Kush,L,10,33
+1975-09-27,Texas Christian,SWC,Jim Shofner,A,Nebraska,Big 8,Tom Osborne,L,14,56
+1975-10-04,Texas Christian,SWC,Jim Shofner,A,Arkansas,SWC,Frank Broyles,L,8,19
+1975-10-10,Texas Christian,SWC,Jim Shofner,A,SMU,SWC,Dave Smith,L,13,28
+1975-10-18,Texas Christian,SWC,Jim Shofner,H,Texas A&M,SWC,Emory Bellard,L,6,14
+1975-10-25,Texas Christian,SWC,Jim Shofner,A,Alabama,SEC,Bear Bryant,L,0,45
+1975-11-01,Texas Christian,SWC,Jim Shofner,A,Baylor,SWC,Grant Teaff,L,6,24
+1975-11-08,Texas Christian,SWC,Jim Shofner,H,Texas Tech,SWC,Steve Sloan,L,0,34
+1975-11-15,Texas Christian,SWC,Jim Shofner,A,Texas,SWC,Darrell Royal,L,11,27
+1975-11-22,Texas Christian,SWC,Jim Shofner,H,Rice,SWC,Al Conover,W,28,21
+1975-09-13,Air Force,Ind,Ben Martin,A,Arkansas,SWC,Frank Broyles,L,0,35
+1975-09-20,Air Force,Ind,Ben Martin,A,Iowa State,Big 8,Earle Bruce,L,12,17
+1975-09-27,Air Force,Ind,Ben Martin,H,UCLA,Pac-8,Dick Vermeil,T,20,20
+1975-10-04,Air Force,Ind,Ben Martin,A,Navy,Ind,George Welsh,L,0,17
+1975-10-11,Air Force,Ind,Ben Martin,A,Brigham Young,WAC,LaVell Edwards,L,14,28
+1975-10-18,Air Force,Ind,Ben Martin,H,Notre Dame,Ind,Dan Devine,L,30,31
+1975-10-25,Air Force,Ind,Ben Martin,A,Colorado State,WAC,Sarkis Arslanian,L,10,47
+1975-11-01,Air Force,Ind,Ben Martin,H,Army,Ind,Homer Smith,W,33,3
+1975-11-08,Air Force,Ind,Ben Martin,A,Tulane,Ind,Bennie Ellender,W,13,12
+1975-11-15,Air Force,Ind,Ben Martin,H,California,Pac-8,Mike White,L,14,31
+1975-11-22,Air Force,Ind,Ben Martin,H,Wyoming,WAC,Fred Akers,L,10,24
+1975-09-20,Miami (FL),Ind,Carl Selmer,A,Georgia Tech,Ind,Pepper Rodgers,L,23,38
+1975-09-26,Miami (FL),Ind,Carl Selmer,H,Oklahoma,Big 8,Barry Switzer,L,17,20
+1975-10-04,Miami (FL),Ind,Carl Selmer,A,Nebraska,Big 8,Tom Osborne,L,16,31
+1975-10-10,Miami (FL),Ind,Carl Selmer,H,Colorado,Big 8,Bill Mallory,L,10,23
+1975-10-17,Miami (FL),Ind,Carl Selmer,H,Houston,Ind,Bill Yeoman,W,24,20
+1975-11-01,Miami (FL),Ind,Carl Selmer,A,Boston College,Ind,Joseph Yukica,L,7,21
+1975-11-07,Miami (FL),Ind,Carl Selmer,H,Navy,Ind,George Welsh,L,16,17
+1975-11-15,Miami (FL),Ind,Carl Selmer,A,Florida State,Ind,Darrell Mudra,W,24,22
+1975-11-22,Miami (FL),Ind,Carl Selmer,H,Notre Dame,Ind,Dan Devine,L,9,32
+1975-11-29,Miami (FL),Ind,Carl Selmer,H,Florida,SEC,Doug Dickey,L,11,15
+1975-09-13,Richmond,Southern,Jim Tait,A,Cincinnati,Ind,Tony Mason,L,6,19
+1975-09-20,Richmond,Southern,Jim Tait,H,Furman,Southern,Art Baker,W,27,21
+1975-09-27,Richmond,Southern,Jim Tait,A,Virginia Tech,Ind,Jimmy Sharpe,L,9,21
+1975-10-04,Richmond,Southern,Jim Tait,A,East Carolina,Southern,Pat Dye,W,17,14
+1975-10-11,Richmond,Southern,Jim Tait,H,Ball State,MAC,Dave McClain,L,14,25
+1975-10-18,Richmond,Southern,Jim Tait,H,Virginia Military Institute,Southern,Bob Thalman,W,24,19
+1975-10-25,Richmond,Southern,Jim Tait,A,Appalachian State,Southern,Jim Brakefield,W,24,17
+1975-11-01,Richmond,Southern,Jim Tait,A,Georgia,SEC,Vince Dooley,L,24,28
+1975-11-08,Richmond,Southern,Jim Tait,H,Citadel,Southern,Bobby Ross,W,7,0
+1975-11-15,Richmond,Southern,Jim Tait,H,West Virginia,Ind,Bobby Bowden,L,13,31
+1975-11-22,Richmond,Southern,Jim Tait,A,William & Mary,Southern,James Root,L,21,31
+1975-09-13,Oregon,Pac-8,Don Read,A,Oklahoma,Big 8,Barry Switzer,L,7,62
+1975-09-20,Oregon,Pac-8,Don Read,H,San Jose State,PCAA,Darryl Rogers,L,0,5
+1975-09-27,Oregon,Pac-8,Don Read,A,Minnesota,Big Ten,Cal Stoll,L,7,10
+1975-10-04,Oregon,Pac-8,Don Read,H,Washington,Pac-8,Don James,L,17,27
+1975-10-11,Oregon,Pac-8,Don Read,H,California,Pac-8,Mike White,L,7,34
+1975-10-18,Oregon,Pac-8,Don Read,A,USC,Pac-8,John McKay,L,3,17
+1975-10-25,Oregon,Pac-8,Don Read,H,Utah,WAC,Tom Lovat,W,18,7
+1975-11-01,Oregon,Pac-8,Don Read,A,Washington State,Pac-8,Jim Sweeney,W,26,14
+1975-11-08,Oregon,Pac-8,Don Read,H,UCLA,Pac-8,Dick Vermeil,L,17,50
+1975-11-15,Oregon,Pac-8,Don Read,A,Stanford,Pac-8,Jack Christiansen,L,30,33
+1975-11-22,Oregon,Pac-8,Don Read,H,Oregon State,Pac-8,Dee Andros,W,14,7
+1975-10-04,Brown,Ivy,John Anderson,A,Pennsylvania,Ivy,Harry Gamble,W,17,8
+1975-10-11,Brown,Ivy,John Anderson,H,Yale,Ivy,Carmen Cozza,W,27,12
+1975-10-18,Brown,Ivy,John Anderson,A,Dartmouth,Ivy,John Crouthamel,T,10,10
+1975-10-25,Brown,Ivy,John Anderson,A,Holy Cross,Ind,Edward Doherty,L,20,21
+1975-11-01,Brown,Ivy,John Anderson,A,Princeton,Ivy,Robert Casciola,W,24,16
+1975-11-08,Brown,Ivy,John Anderson,A,Cornell,Ivy,George Seifert,W,45,23
+1975-11-15,Brown,Ivy,John Anderson,H,Harvard,Ivy,Joseph Restic,L,26,45
+1975-11-22,Brown,Ivy,John Anderson,H,Columbia,Ivy,William Campbell,W,48,13
+1975-09-13,Appalachian State,Southern,Jim Brakefield,H,East Carolina,Southern,Pat Dye,W,41,25
+1975-09-20,Appalachian State,Southern,Jim Brakefield,A,Wake Forest,ACC,Chuck Mills,W,19,17
+1975-09-27,Appalachian State,Southern,Jim Brakefield,A,Furman,Southern,Art Baker,L,23,30
+1975-10-25,Appalachian State,Southern,Jim Brakefield,H,Richmond,Southern,Jim Tait,L,17,24
+1975-11-01,Appalachian State,Southern,Jim Brakefield,A,Citadel,Southern,Bobby Ross,W,22,17
+1975-11-08,Appalachian State,Southern,Jim Brakefield,A,South Carolina,Ind,Jim Carlen,W,39,34
+1975-09-13,Tennessee,SEC,Bill Battle,H,Maryland,ACC,Jerry Claiborne,W,26,8
+1975-09-20,Tennessee,SEC,Bill Battle,A,UCLA,Pac-8,Dick Vermeil,L,28,34
+1975-09-27,Tennessee,SEC,Bill Battle,H,Auburn,SEC,Ralph Jordan,W,21,17
+1975-10-11,Tennessee,SEC,Bill Battle,H,LSU,SEC,Charles McClendon,W,24,10
+1975-10-18,Tennessee,SEC,Bill Battle,A,Alabama,SEC,Bear Bryant,L,7,30
+1975-10-25,Tennessee,SEC,Bill Battle,H,North Texas,Ind,Hayden Fry,L,14,21
+1975-11-01,Tennessee,SEC,Bill Battle,H,Colorado State,WAC,Sarkis Arslanian,W,28,7
+1975-11-08,Tennessee,SEC,Bill Battle,H,Utah,WAC,Tom Lovat,W,40,7
+1975-11-15,Tennessee,SEC,Bill Battle,N,Ole Miss,SEC,Ken Cooper,L,6,23
+1975-11-22,Tennessee,SEC,Bill Battle,A,Kentucky,SEC,Fran Curci,W,17,13
+1975-11-29,Tennessee,SEC,Bill Battle,H,Vanderbilt,SEC,Fred Pancoast,L,14,17
+1975-12-06,Tennessee,SEC,Bill Battle,A,Hawaii,Ind,Larry Price,W,28,6
+1975-09-04,Texas-Arlington,Southland,Harold Elliott,N,North Texas,Ind,Hayden Fry,L,14,27
+1975-09-13,Texas-Arlington,Southland,Harold Elliott,A,Texas Christian,SWC,Jim Shofner,W,24,7
+1975-09-20,Texas-Arlington,Southland,Harold Elliott,A,Louisiana Tech,Southland,Maxie Lambright,L,8,37
+1975-10-04,Texas-Arlington,Southland,Harold Elliott,A,West Texas A&M,MVC,Gene Mayfield,W,39,7
+1975-10-11,Texas-Arlington,Southland,Harold Elliott,H,McNeese State,Southland,Jack Doland,L,24,28
+1975-10-18,Texas-Arlington,Southland,Harold Elliott,H,Southern Mississippi,Ind,Bobby Collins,L,7,34
+1975-10-25,Texas-Arlington,Southland,Harold Elliott,A,New Mexico State,MVC,Jim Bradley,L,0,16
+1975-11-01,Texas-Arlington,Southland,Harold Elliott,A,Louisiana,Southland,Augie Tammariello,L,32,35
+1975-11-15,Texas-Arlington,Southland,Harold Elliott,H,Lamar,Southland,Vernon Glass,W,37,24
+1975-11-22,Texas-Arlington,Southland,Harold Elliott,A,Arkansas State,Southland,Bill Davidson,L,7,54
+1975-11-29,Texas-Arlington,Southland,Harold Elliott,H,Bowling Green State,MAC,Don Nehlen,W,21,17
+1975-09-13,Oregon State,Pac-8,Dee Andros,H,San Diego State,PCAA,Claude Gilbert,L,0,25
+1975-09-19,Oregon State,Pac-8,Dee Andros,A,USC,Pac-8,John McKay,L,7,24
+1975-09-27,Oregon State,Pac-8,Dee Andros,A,Kansas,Big 8,Bud Moore,L,0,20
+1975-10-11,Oregon State,Pac-8,Dee Andros,H,Colorado State,WAC,Sarkis Arslanian,L,8,17
+1975-10-18,Oregon State,Pac-8,Dee Andros,A,California,Pac-8,Mike White,L,24,51
+1975-10-25,Oregon State,Pac-8,Dee Andros,A,Washington,Pac-8,Don James,L,7,35
+1975-11-01,Oregon State,Pac-8,Dee Andros,H,Stanford,Pac-8,Jack Christiansen,L,22,28
+1975-11-08,Oregon State,Pac-8,Dee Andros,H,Washington State,Pac-8,Jim Sweeney,W,7,0
+1975-11-15,Oregon State,Pac-8,Dee Andros,A,UCLA,Pac-8,Dick Vermeil,L,9,31
+1975-11-22,Oregon State,Pac-8,Dee Andros,A,Oregon,Pac-8,Don Read,L,7,14
+1975-09-08,Alabama,SEC,Bear Bryant,H,Missouri,Big 8,Al Onofrio,L,7,20
+1975-09-20,Alabama,SEC,Bear Bryant,H,Clemson,ACC,Red Parker,W,56,0
+1975-09-27,Alabama,SEC,Bear Bryant,A,Vanderbilt,SEC,Fred Pancoast,W,40,7
+1975-10-04,Alabama,SEC,Bear Bryant,H,Ole Miss,SEC,Ken Cooper,W,32,6
+1975-10-11,Alabama,SEC,Bear Bryant,H,Washington,Pac-8,Don James,W,52,0
+1975-10-18,Alabama,SEC,Bear Bryant,H,Tennessee,SEC,Bill Battle,W,30,7
+1975-10-25,Alabama,SEC,Bear Bryant,H,Texas Christian,SWC,Jim Shofner,W,45,0
+1975-11-01,Alabama,SEC,Bear Bryant,A,Mississippi State,SEC,Bob Tyler,W,21,10
+1975-11-08,Alabama,SEC,Bear Bryant,A,LSU,SEC,Charles McClendon,W,23,10
+1975-11-15,Alabama,SEC,Bear Bryant,H,Southern Mississippi,Ind,Bobby Collins,W,27,6
+1975-11-29,Alabama,SEC,Bear Bryant,N,Auburn,SEC,Ralph Jordan,W,28,0
+1975-12-31,Alabama,SEC,Bear Bryant,N,Penn State,Ind,Joe Paterno,W,13,6
+1975-09-20,Dayton,Ind,Ron Marciniak,H,Akron,Ind,Jim Dennison,W,31,9
+1975-09-27,Dayton,Ind,Ron Marciniak,H,Bowling Green State,MAC,Don Nehlen,L,14,21
+1975-10-04,Dayton,Ind,Ron Marciniak,A,Toledo,MAC,Jack Murphy,W,24,13
+1975-10-11,Dayton,Ind,Ron Marciniak,A,Miami (OH),MAC,Dick Crum,L,0,10
+1975-10-18,Dayton,Ind,Ron Marciniak,A,Indiana State,Ind,Tom Harp,L,14,56
+1975-10-25,Dayton,Ind,Ron Marciniak,A,McNeese State,Southland,Jack Doland,W,17,12
+1975-11-01,Dayton,Ind,Ron Marciniak,A,Temple,Ind,Wayne Hardin,L,10,23
+1975-11-08,Dayton,Ind,Ron Marciniak,A,Louisville,Ind,Vince Gibson,W,32,13
+1975-11-15,Dayton,Ind,Ron Marciniak,H,Marshall,Ind,Frank Ellwood,W,29,8
+1975-09-13,Purdue,Big Ten,Alex Agase,A,Northwestern,Big Ten,John Pont,L,25,31
+1975-09-20,Purdue,Big Ten,Alex Agase,H,Notre Dame,Ind,Dan Devine,L,0,17
+1975-09-27,Purdue,Big Ten,Alex Agase,A,USC,Pac-8,John McKay,L,6,19
+1975-10-04,Purdue,Big Ten,Alex Agase,H,Miami (OH),MAC,Dick Crum,L,3,14
+1975-10-11,Purdue,Big Ten,Alex Agase,H,Wisconsin,Big Ten,John Jardine,L,14,17
+1975-10-18,Purdue,Big Ten,Alex Agase,A,Illinois,Big Ten,Bob Blackman,W,26,24
+1975-10-25,Purdue,Big Ten,Alex Agase,H,Ohio State,Big Ten,Woody Hayes,L,6,35
+1975-11-01,Purdue,Big Ten,Alex Agase,H,Michigan State,Big Ten,Dennis Stolz,W,20,10
+1975-11-08,Purdue,Big Ten,Alex Agase,A,Michigan,Big Ten,Bo Schembechler,L,0,28
+1975-11-15,Purdue,Big Ten,Alex Agase,H,Iowa,Big Ten,Bob Commings,W,19,18
+1975-11-22,Purdue,Big Ten,Alex Agase,A,Indiana,Big Ten,Lee Corso,W,9,7
+1975-09-13,Nebraska,Big 8,Tom Osborne,H,LSU,SEC,Charles McClendon,W,10,7
+1975-09-20,Nebraska,Big 8,Tom Osborne,H,Indiana,Big Ten,Lee Corso,W,45,0
+1975-09-27,Nebraska,Big 8,Tom Osborne,H,Texas Christian,SWC,Jim Shofner,W,56,14
+1975-10-04,Nebraska,Big 8,Tom Osborne,H,Miami (FL),Ind,Carl Selmer,W,31,16
+1975-10-11,Nebraska,Big 8,Tom Osborne,H,Kansas,Big 8,Bud Moore,W,16,0
+1975-10-18,Nebraska,Big 8,Tom Osborne,A,Oklahoma State,Big 8,Jim Stanley,W,28,20
+1975-10-25,Nebraska,Big 8,Tom Osborne,H,Colorado,Big 8,Bill Mallory,W,63,21
+1975-11-01,Nebraska,Big 8,Tom Osborne,A,Missouri,Big 8,Al Onofrio,W,30,7
+1975-11-08,Nebraska,Big 8,Tom Osborne,A,Kansas State,Big 8,Ellis Rainsberger,W,12,0
+1975-11-15,Nebraska,Big 8,Tom Osborne,H,Iowa State,Big 8,Earle Bruce,W,52,0
+1975-11-22,Nebraska,Big 8,Tom Osborne,A,Oklahoma,Big 8,Barry Switzer,L,10,35
+1975-12-26,Nebraska,Big 8,Tom Osborne,A,Arizona State,WAC,Frank Kush,L,14,17
+1975-09-13,West Virginia,Ind,Bobby Bowden,H,Temple,Ind,Wayne Hardin,W,50,7
+1975-09-20,West Virginia,Ind,Bobby Bowden,A,California,Pac-8,Mike White,W,28,10
+1975-09-27,West Virginia,Ind,Bobby Bowden,H,Boston College,Ind,Joseph Yukica,W,35,18
+1975-10-04,West Virginia,Ind,Bobby Bowden,A,SMU,SWC,Dave Smith,W,28,22
+1975-10-11,West Virginia,Ind,Bobby Bowden,A,Penn State,Ind,Joe Paterno,L,0,39
+1975-10-18,West Virginia,Ind,Bobby Bowden,H,Tulane,Ind,Bennie Ellender,L,14,16
+1975-10-24,West Virginia,Ind,Bobby Bowden,H,Virginia Tech,Ind,Jimmy Sharpe,W,10,7
+1975-11-01,West Virginia,Ind,Bobby Bowden,H,Kent State,MAC,Dennis Fitzgerald,W,38,13
+1975-11-08,West Virginia,Ind,Bobby Bowden,H,Pitt,Ind,Johnny Majors,W,17,14
+1975-11-15,West Virginia,Ind,Bobby Bowden,A,Richmond,Southern,Jim Tait,W,31,13
+1975-11-22,West Virginia,Ind,Bobby Bowden,A,Syracuse,Ind,Frank Maloney,L,19,20
+1975-12-31,West Virginia,Ind,Bobby Bowden,N,North Carolina State,ACC,Lou Holtz,W,13,10
+1975-09-27,Harvard,Ivy,Joseph Restic,H,Holy Cross,Ind,Edward Doherty,W,18,7
+1975-10-11,Harvard,Ivy,Joseph Restic,H,Columbia,Ivy,William Campbell,W,35,30
+1975-10-18,Harvard,Ivy,Joseph Restic,A,Cornell,Ivy,George Seifert,W,34,13
+1975-10-25,Harvard,Ivy,Joseph Restic,H,Dartmouth,Ivy,John Crouthamel,W,24,10
+1975-11-01,Harvard,Ivy,Joseph Restic,A,Pennsylvania,Ivy,Harry Gamble,W,21,3
+1975-11-08,Harvard,Ivy,Joseph Restic,H,Princeton,Ivy,Robert Casciola,L,20,24
+1975-11-15,Harvard,Ivy,Joseph Restic,A,Brown,Ivy,John Anderson,W,45,26
+1975-11-22,Harvard,Ivy,Joseph Restic,A,Yale,Ivy,Carmen Cozza,W,10,7
+1975-09-13,Oklahoma State,Big 8,Jim Stanley,H,Wichita State,MVC,Jim Wright,W,34,0
+1975-09-20,Oklahoma State,Big 8,Jim Stanley,H,Arkansas,SWC,Frank Broyles,W,20,13
+1975-09-27,Oklahoma State,Big 8,Jim Stanley,H,North Texas,Ind,Hayden Fry,W,61,7
+1975-10-04,Oklahoma State,Big 8,Jim Stanley,H,Texas Tech,SWC,Steve Sloan,W,17,16
+1975-10-11,Oklahoma State,Big 8,Jim Stanley,A,Missouri,Big 8,Al Onofrio,L,14,41
+1975-10-18,Oklahoma State,Big 8,Jim Stanley,H,Nebraska,Big 8,Tom Osborne,L,20,28
+1975-10-25,Oklahoma State,Big 8,Jim Stanley,A,Kansas,Big 8,Bud Moore,W,35,19
+1975-11-01,Oklahoma State,Big 8,Jim Stanley,H,Oklahoma,Big 8,Barry Switzer,L,7,27
+1975-11-08,Oklahoma State,Big 8,Jim Stanley,A,Colorado,Big 8,Bill Mallory,L,7,17
+1975-11-15,Oklahoma State,Big 8,Jim Stanley,H,Kansas State,Big 8,Ellis Rainsberger,W,56,3
+1975-11-22,Oklahoma State,Big 8,Jim Stanley,A,Iowa State,Big 8,Earle Bruce,W,14,7
+1975-09-13,Colorado,Big 8,Bill Mallory,H,California,Pac-8,Mike White,W,34,27
+1975-09-20,Colorado,Big 8,Bill Mallory,H,Wyoming,WAC,Fred Akers,W,27,10
+1975-09-27,Colorado,Big 8,Bill Mallory,H,Wichita State,MVC,Jim Wright,W,52,0
+1975-10-04,Colorado,Big 8,Bill Mallory,A,Oklahoma,Big 8,Barry Switzer,L,20,21
+1975-10-10,Colorado,Big 8,Bill Mallory,A,Miami (FL),Ind,Carl Selmer,W,23,10
+1975-10-18,Colorado,Big 8,Bill Mallory,H,Missouri,Big 8,Al Onofrio,W,31,20
+1975-10-25,Colorado,Big 8,Bill Mallory,A,Nebraska,Big 8,Tom Osborne,L,21,63
+1975-11-01,Colorado,Big 8,Bill Mallory,A,Iowa State,Big 8,Earle Bruce,W,28,27
+1975-11-08,Colorado,Big 8,Bill Mallory,H,Oklahoma State,Big 8,Jim Stanley,W,17,7
+1975-11-15,Colorado,Big 8,Bill Mallory,A,Kansas,Big 8,Bud Moore,W,24,21
+1975-11-22,Colorado,Big 8,Bill Mallory,H,Kansas State,Big 8,Ellis Rainsberger,W,33,7
+1975-12-27,Colorado,Big 8,Bill Mallory,N,Texas,SWC,Darrell Royal,L,21,38
+1975-09-13,Colorado State,WAC,Sarkis Arslanian,A,Texas,SWC,Darrell Royal,L,0,46
+1975-09-20,Colorado State,WAC,Sarkis Arslanian,H,Brigham Young,WAC,LaVell Edwards,W,21,17
+1975-09-27,Colorado State,WAC,Sarkis Arslanian,A,New Mexico,WAC,Bill Mondt,W,27,16
+1975-10-04,Colorado State,WAC,Sarkis Arslanian,A,Wyoming,WAC,Fred Akers,W,3,0
+1975-10-11,Colorado State,WAC,Sarkis Arslanian,A,Oregon State,Pac-8,Dee Andros,W,17,8
+1975-10-18,Colorado State,WAC,Sarkis Arslanian,H,Arizona State,WAC,Frank Kush,L,3,33
+1975-10-25,Colorado State,WAC,Sarkis Arslanian,H,Air Force,Ind,Ben Martin,W,47,10
+1975-11-01,Colorado State,WAC,Sarkis Arslanian,A,Tennessee,SEC,Bill Battle,L,7,28
+1975-11-08,Colorado State,WAC,Sarkis Arslanian,A,UTEP,WAC,Gil Bartosh,W,21,17
+1975-11-15,Colorado State,WAC,Sarkis Arslanian,H,Arizona,WAC,Jim Young,L,9,31
+1975-11-22,Colorado State,WAC,Sarkis Arslanian,H,Utah State,Ind,Phil Krueger,L,17,28
+1975-09-13,Rice,SWC,Al Conover,A,Houston,Ind,Bill Yeoman,W,24,7
+1975-09-20,Rice,SWC,Al Conover,H,Vanderbilt,SEC,Fred Pancoast,L,6,9
+1975-09-27,Rice,SWC,Al Conover,N,LSU,SEC,Charles McClendon,L,13,16
+1975-10-11,Rice,SWC,Al Conover,H,Mississippi State,SEC,Bob Tyler,L,14,28
+1975-10-18,Rice,SWC,Al Conover,H,SMU,SWC,Dave Smith,W,28,17
+1975-10-25,Rice,SWC,Al Conover,A,Texas,SWC,Darrell Royal,L,9,41
+1975-11-01,Rice,SWC,Al Conover,A,Texas Tech,SWC,Steve Sloan,L,24,28
+1975-11-08,Rice,SWC,Al Conover,H,Arkansas,SWC,Frank Broyles,L,16,20
+1975-11-15,Rice,SWC,Al Conover,H,Texas A&M,SWC,Emory Bellard,L,14,33
+1975-11-22,Rice,SWC,Al Conover,A,Texas Christian,SWC,Jim Shofner,L,21,28
+1975-11-29,Rice,SWC,Al Conover,H,Baylor,SWC,Grant Teaff,L,7,25
+1975-09-13,Texas A&M,SWC,Emory Bellard,H,Ole Miss,SEC,Ken Cooper,W,7,0
+1975-09-20,Texas A&M,SWC,Emory Bellard,A,LSU,SEC,Charles McClendon,W,39,8
+1975-09-27,Texas A&M,SWC,Emory Bellard,H,Illinois,Big Ten,Bob Blackman,W,43,13
+1975-10-04,Texas A&M,SWC,Emory Bellard,A,Kansas State,Big 8,Ellis Rainsberger,W,10,0
+1975-10-11,Texas A&M,SWC,Emory Bellard,A,Texas Tech,SWC,Steve Sloan,W,38,9
+1975-10-18,Texas A&M,SWC,Emory Bellard,A,Texas Christian,SWC,Jim Shofner,W,14,6
+1975-10-25,Texas A&M,SWC,Emory Bellard,H,Baylor,SWC,Grant Teaff,W,19,10
+1975-11-08,Texas A&M,SWC,Emory Bellard,H,SMU,SWC,Dave Smith,W,36,3
+1975-11-15,Texas A&M,SWC,Emory Bellard,A,Rice,SWC,Al Conover,W,33,14
+1975-11-28,Texas A&M,SWC,Emory Bellard,H,Texas,SWC,Darrell Royal,W,20,10
+1975-12-06,Texas A&M,SWC,Emory Bellard,A,Arkansas,SWC,Frank Broyles,L,6,31
+1975-12-22,Texas A&M,SWC,Emory Bellard,N,USC,Pac-8,John McKay,L,0,20
+1975-09-13,Michigan State,Big Ten,Dennis Stolz,H,Ohio State,Big Ten,Woody Hayes,L,0,21
+1975-09-20,Michigan State,Big Ten,Dennis Stolz,H,Miami (OH),MAC,Dick Crum,W,14,13
+1975-09-27,Michigan State,Big Ten,Dennis Stolz,H,North Carolina State,ACC,Lou Holtz,W,37,15
+1975-10-04,Michigan State,Big Ten,Dennis Stolz,A,Notre Dame,Ind,Dan Devine,W,10,3
+1975-10-11,Michigan State,Big Ten,Dennis Stolz,H,Michigan,Big Ten,Bo Schembechler,L,6,16
+1975-10-18,Michigan State,Big Ten,Dennis Stolz,A,Minnesota,Big Ten,Cal Stoll,W,38,15
+1975-10-25,Michigan State,Big Ten,Dennis Stolz,H,Illinois,Big Ten,Bob Blackman,L,19,21
+1975-11-01,Michigan State,Big Ten,Dennis Stolz,A,Purdue,Big Ten,Alex Agase,L,10,20
+1975-11-08,Michigan State,Big Ten,Dennis Stolz,A,Indiana,Big Ten,Lee Corso,W,14,6
+1975-11-15,Michigan State,Big Ten,Dennis Stolz,H,Northwestern,Big Ten,John Pont,W,47,14
+1975-11-22,Michigan State,Big Ten,Dennis Stolz,A,Iowa,Big Ten,Bob Commings,W,27,23
+1975-09-15,Boston College,Ind,Joseph Yukica,H,Notre Dame,Ind,Dan Devine,L,3,17
+1975-09-20,Boston College,Ind,Joseph Yukica,A,Temple,Ind,Wayne Hardin,W,27,9
+1975-09-27,Boston College,Ind,Joseph Yukica,A,West Virginia,Ind,Bobby Bowden,L,18,35
+1975-10-04,Boston College,Ind,Joseph Yukica,H,Villanova,Ind,Dick Bedesem,W,41,12
+1975-10-11,Boston College,Ind,Joseph Yukica,H,Tulane,Ind,Bennie Ellender,L,7,17
+1975-10-18,Boston College,Ind,Joseph Yukica,H,Navy,Ind,George Welsh,W,17,3
+1975-10-25,Boston College,Ind,Joseph Yukica,A,Syracuse,Ind,Frank Maloney,L,14,22
+1975-11-01,Boston College,Ind,Joseph Yukica,H,Miami (FL),Ind,Carl Selmer,W,21,7
+1975-11-08,Boston College,Ind,Joseph Yukica,A,Army,Ind,Homer Smith,W,31,0
+1975-11-29,Boston College,Ind,Joseph Yukica,A,Holy Cross,Ind,Edward Doherty,W,24,10
+1975-09-20,Colgate,Ind,Neil Wheelwright,H,Citadel,Southern,Bobby Ross,W,16,0
+1975-09-27,Colgate,Ind,Neil Wheelwright,A,Cornell,Ivy,George Seifert,W,24,22
+1975-10-04,Colgate,Ind,Neil Wheelwright,A,Yale,Ivy,Carmen Cozza,L,10,24
+1975-10-11,Colgate,Ind,Neil Wheelwright,A,Holy Cross,Ind,Edward Doherty,W,20,14
+1975-10-18,Colgate,Ind,Neil Wheelwright,A,Princeton,Ivy,Robert Casciola,W,22,21
+1975-11-15,Colgate,Ind,Neil Wheelwright,A,William & Mary,Southern,James Root,W,21,17
+1975-11-22,Colgate,Ind,Neil Wheelwright,A,Rutgers,Ind,Frank Burns,L,14,56
+1975-09-06,New Mexico State,MVC,Jim Bradley,H,Drake,MVC,Jack Wallace,W,14,10
+1975-09-13,New Mexico State,MVC,Jim Bradley,A,UTEP,WAC,Gil Bartosh,W,31,24
+1975-09-20,New Mexico State,MVC,Jim Bradley,A,Lamar,Southland,Vernon Glass,W,17,14
+1975-09-27,New Mexico State,MVC,Jim Bradley,A,Louisiana,Southland,Augie Tammariello,L,7,31
+1975-10-04,New Mexico State,MVC,Jim Bradley,H,Tulsa,MVC,F. Dry,L,7,35
+1975-10-11,New Mexico State,MVC,Jim Bradley,A,Wichita State,MVC,Jim Wright,W,26,24
+1975-10-18,New Mexico State,MVC,Jim Bradley,A,San Diego State,PCAA,Claude Gilbert,L,3,48
+1975-10-25,New Mexico State,MVC,Jim Bradley,H,Texas-Arlington,Southland,Harold Elliott,W,16,0
+1975-11-08,New Mexico State,MVC,Jim Bradley,A,West Texas A&M,MVC,Gene Mayfield,L,10,38
+1975-11-15,New Mexico State,MVC,Jim Bradley,H,North Texas,Ind,Hayden Fry,L,20,24
+1975-11-22,New Mexico State,MVC,Jim Bradley,H,New Mexico,WAC,Bill Mondt,L,28,52
+1975-09-13,Louisiana Tech,Southland,Maxie Lambright,A,McNeese State,Southland,Jack Doland,W,21,14
+1975-09-20,Louisiana Tech,Southland,Maxie Lambright,H,Texas-Arlington,Southland,Harold Elliott,W,37,8
+1975-09-27,Louisiana Tech,Southland,Maxie Lambright,A,Lamar,Southland,Vernon Glass,W,24,10
+1975-10-11,Louisiana Tech,Southland,Maxie Lambright,H,Louisiana,Southland,Augie Tammariello,W,24,14
+1975-10-25,Louisiana Tech,Southland,Maxie Lambright,H,Southern Mississippi,Ind,Bobby Collins,L,14,24
+1975-11-08,Louisiana Tech,Southland,Maxie Lambright,H,Louisiana-Monroe,Ind,Ollie Keller,W,41,23
+1975-11-15,Louisiana Tech,Southland,Maxie Lambright,H,Chattanooga,Ind,Joe Morrison,W,49,20
+1975-11-29,Louisiana Tech,Southland,Maxie Lambright,H,Arkansas State,Southland,Bill Davidson,L,13,30
+1975-09-13,Minnesota,Big Ten,Cal Stoll,A,Indiana,Big Ten,Lee Corso,L,14,20
+1975-09-20,Minnesota,Big Ten,Cal Stoll,H,Western Michigan,MAC,Elliot Uzelac,W,38,0
+1975-09-27,Minnesota,Big Ten,Cal Stoll,H,Oregon,Pac-8,Don Read,W,10,7
+1975-10-04,Minnesota,Big Ten,Cal Stoll,H,Ohio,MAC,Bill Hess,W,21,0
+1975-10-11,Minnesota,Big Ten,Cal Stoll,A,Illinois,Big Ten,Bob Blackman,L,23,42
+1975-10-18,Minnesota,Big Ten,Cal Stoll,H,Michigan State,Big Ten,Dennis Stolz,L,15,38
+1975-10-25,Minnesota,Big Ten,Cal Stoll,A,Iowa,Big Ten,Bob Commings,W,31,7
+1975-11-01,Minnesota,Big Ten,Cal Stoll,H,Michigan,Big Ten,Bo Schembechler,L,21,28
+1975-11-08,Minnesota,Big Ten,Cal Stoll,H,Northwestern,Big Ten,John Pont,W,33,9
+1975-11-15,Minnesota,Big Ten,Cal Stoll,A,Ohio State,Big Ten,Woody Hayes,L,6,38
+1975-11-22,Minnesota,Big Ten,Cal Stoll,H,Wisconsin,Big Ten,John Jardine,W,24,3
+1975-09-06,Ole Miss,SEC,Ken Cooper,A,Baylor,SWC,Grant Teaff,L,10,20
+1975-09-13,Ole Miss,SEC,Ken Cooper,A,Texas A&M,SWC,Emory Bellard,L,0,7
+1975-09-20,Ole Miss,SEC,Ken Cooper,A,Tulane,Ind,Bennie Ellender,L,3,14
+1975-09-27,Ole Miss,SEC,Ken Cooper,H,Southern Mississippi,Ind,Bobby Collins,W,24,8
+1975-10-04,Ole Miss,SEC,Ken Cooper,A,Alabama,SEC,Bear Bryant,L,6,32
+1975-10-11,Ole Miss,SEC,Ken Cooper,H,Georgia,SEC,Vince Dooley,W,28,13
+1975-10-18,Ole Miss,SEC,Ken Cooper,H,South Carolina,Ind,Jim Carlen,L,29,35
+1975-10-25,Ole Miss,SEC,Ken Cooper,H,Vanderbilt,SEC,Fred Pancoast,W,17,7
+1975-11-01,Ole Miss,SEC,Ken Cooper,H,LSU,SEC,Charles McClendon,W,17,13
+1975-11-15,Ole Miss,SEC,Ken Cooper,N,Tennessee,SEC,Bill Battle,W,23,6
+1975-11-22,Ole Miss,SEC,Ken Cooper,N,Mississippi State,SEC,Bob Tyler,W,13,7
+1975-09-12,Duke,ACC,Mike McGee,A,USC,Pac-8,John McKay,L,7,35
+1975-09-20,Duke,ACC,Mike McGee,H,South Carolina,Ind,Jim Carlen,L,16,24
+1975-09-27,Duke,ACC,Mike McGee,H,Virginia,ACC,Sonny Randle,W,26,11
+1975-10-04,Duke,ACC,Mike McGee,A,Pitt,Ind,Johnny Majors,L,0,14
+1975-10-11,Duke,ACC,Mike McGee,A,Army,Ind,Homer Smith,W,21,10
+1975-10-18,Duke,ACC,Mike McGee,H,Clemson,ACC,Red Parker,W,25,21
+1975-10-25,Duke,ACC,Mike McGee,A,Florida,SEC,Doug Dickey,L,16,24
+1975-11-01,Duke,ACC,Mike McGee,A,Georgia Tech,Ind,Pepper Rodgers,L,6,21
+1975-11-08,Duke,ACC,Mike McGee,A,Wake Forest,ACC,Chuck Mills,W,42,14
+1975-11-15,Duke,ACC,Mike McGee,H,North Carolina State,ACC,Lou Holtz,T,21,21
+1975-11-22,Duke,ACC,Mike McGee,H,North Carolina,ACC,Bill Dooley,T,17,17
+1975-09-13,Kent State,MAC,Dennis Fitzgerald,A,Louisiana-Monroe,Ind,Ollie Keller,W,31,29
+1975-09-20,Kent State,MAC,Dennis Fitzgerald,H,Virginia Tech,Ind,Jimmy Sharpe,W,17,11
+1975-09-27,Kent State,MAC,Dennis Fitzgerald,A,Ohio,MAC,Bill Hess,L,21,23
+1975-10-04,Kent State,MAC,Dennis Fitzgerald,A,Northern Illinois,MAC,Jerry Ippoliti,L,15,38
+1975-10-11,Kent State,MAC,Dennis Fitzgerald,A,Western Michigan,MAC,Elliot Uzelac,W,22,17
+1975-10-18,Kent State,MAC,Dennis Fitzgerald,N,Bowling Green State,MAC,Don Nehlen,L,9,35
+1975-10-25,Kent State,MAC,Dennis Fitzgerald,H,Central Michigan,MAC,Roy Kramer,L,8,17
+1975-11-01,Kent State,MAC,Dennis Fitzgerald,A,West Virginia,Ind,Bobby Bowden,L,13,38
+1975-11-08,Kent State,MAC,Dennis Fitzgerald,H,Marshall,Ind,Frank Ellwood,W,30,21
+1975-11-15,Kent State,MAC,Dennis Fitzgerald,H,Miami (OH),MAC,Dick Crum,L,8,27
+1975-11-22,Kent State,MAC,Dennis Fitzgerald,A,Toledo,MAC,Jack Murphy,L,28,33
+1975-09-13,Navy,Ind,George Welsh,A,Virginia,ACC,Sonny Randle,W,42,14
+1975-09-27,Navy,Ind,George Welsh,A,Washington,Pac-8,Don James,L,13,14
+1975-10-04,Navy,Ind,George Welsh,H,Air Force,Ind,Ben Martin,W,17,0
+1975-10-11,Navy,Ind,George Welsh,H,Syracuse,Ind,Frank Maloney,W,10,6
+1975-10-18,Navy,Ind,George Welsh,A,Boston College,Ind,Joseph Yukica,L,3,17
+1975-10-25,Navy,Ind,George Welsh,A,Pitt,Ind,Johnny Majors,W,17,0
+1975-11-01,Navy,Ind,George Welsh,A,Notre Dame,Ind,Dan Devine,L,10,31
+1975-11-07,Navy,Ind,George Welsh,A,Miami (FL),Ind,Carl Selmer,W,17,16
+1975-11-15,Navy,Ind,George Welsh,A,Georgia Tech,Ind,Pepper Rodgers,L,13,14
+1975-11-29,Navy,Ind,George Welsh,N,Army,Ind,Homer Smith,W,30,6
+1975-09-06,Lamar,Southland,Vernon Glass,A,Houston,Ind,Bill Yeoman,L,3,20
+1975-09-13,Lamar,Southland,Vernon Glass,H,West Texas A&M,MVC,Gene Mayfield,L,8,10
+1975-09-20,Lamar,Southland,Vernon Glass,H,New Mexico State,MVC,Jim Bradley,L,14,17
+1975-09-27,Lamar,Southland,Vernon Glass,H,Louisiana Tech,Southland,Maxie Lambright,L,10,24
+1975-10-11,Lamar,Southland,Vernon Glass,A,Louisiana-Monroe,Ind,Ollie Keller,L,7,34
+1975-10-18,Lamar,Southland,Vernon Glass,A,Louisiana,Southland,Augie Tammariello,L,12,21
+1975-10-25,Lamar,Southland,Vernon Glass,H,Arkansas State,Southland,Bill Davidson,L,0,17
+1975-11-08,Lamar,Southland,Vernon Glass,N,Southern Mississippi,Ind,Bobby Collins,L,3,43
+1975-11-15,Lamar,Southland,Vernon Glass,A,Texas-Arlington,Southland,Harold Elliott,L,24,37
+1975-11-22,Lamar,Southland,Vernon Glass,H,Southern Illinois,Ind,Doug Weaver,W,30,10
+1975-11-29,Lamar,Southland,Vernon Glass,A,McNeese State,Southland,Jack Doland,L,10,20
+1975-09-06,Fresno State,PCAA,J.R. Boone,A,Cal State Fullerton,PCAA,Jim Colletto,W,49,7
+1975-09-13,Fresno State,PCAA,J.R. Boone,A,New Mexico,WAC,Bill Mondt,L,0,29
+1975-10-11,Fresno State,PCAA,J.R. Boone,H,San Diego State,PCAA,Claude Gilbert,L,0,29
+1975-10-18,Fresno State,PCAA,J.R. Boone,A,Long Beach State,PCAA,Wayne Howard,L,17,47
+1975-10-25,Fresno State,PCAA,J.R. Boone,A,Pacific,PCAA,Chester Caddas,L,28,45
+1975-11-01,Fresno State,PCAA,J.R. Boone,H,San Jose State,PCAA,Darryl Rogers,L,7,21
+1975-11-08,Fresno State,PCAA,J.R. Boone,A,Wichita State,MVC,Jim Wright,L,11,28
+1975-09-13,Texas Tech,SWC,Steve Sloan,H,Florida State,Ind,Darrell Mudra,W,31,20
+1975-09-20,Texas Tech,SWC,Steve Sloan,H,New Mexico,WAC,Bill Mondt,W,24,17
+1975-09-27,Texas Tech,SWC,Steve Sloan,A,Texas,SWC,Darrell Royal,L,18,42
+1975-10-04,Texas Tech,SWC,Steve Sloan,A,Oklahoma State,Big 8,Jim Stanley,L,16,17
+1975-10-11,Texas Tech,SWC,Steve Sloan,H,Texas A&M,SWC,Emory Bellard,L,9,38
+1975-10-18,Texas Tech,SWC,Steve Sloan,A,Arizona,WAC,Jim Young,L,28,32
+1975-10-25,Texas Tech,SWC,Steve Sloan,H,SMU,SWC,Dave Smith,W,37,20
+1975-11-01,Texas Tech,SWC,Steve Sloan,H,Rice,SWC,Al Conover,W,28,24
+1975-11-08,Texas Tech,SWC,Steve Sloan,A,Texas Christian,SWC,Jim Shofner,W,34,0
+1975-11-15,Texas Tech,SWC,Steve Sloan,H,Baylor,SWC,Grant Teaff,W,33,10
+1975-11-22,Texas Tech,SWC,Steve Sloan,A,Arkansas,SWC,Frank Broyles,L,14,31
+1975-09-13,Tulane,Ind,Bennie Ellender,A,Clemson,ACC,Red Parker,W,17,13
+1975-09-20,Tulane,Ind,Bennie Ellender,H,Ole Miss,SEC,Ken Cooper,W,14,3
+1975-09-27,Tulane,Ind,Bennie Ellender,H,Syracuse,Ind,Frank Maloney,L,13,31
+1975-10-04,Tulane,Ind,Bennie Ellender,H,Vanderbilt,SEC,Fred Pancoast,L,3,6
+1975-10-11,Tulane,Ind,Bennie Ellender,A,Boston College,Ind,Joseph Yukica,W,17,7
+1975-10-18,Tulane,Ind,Bennie Ellender,A,West Virginia,Ind,Bobby Bowden,W,16,14
+1975-10-25,Tulane,Ind,Bennie Ellender,H,Georgia Tech,Ind,Pepper Rodgers,L,0,23
+1975-11-01,Tulane,Ind,Bennie Ellender,A,Kentucky,SEC,Fran Curci,L,10,23
+1975-11-08,Tulane,Ind,Bennie Ellender,H,Air Force,Ind,Ben Martin,L,12,13
+1975-11-15,Tulane,Ind,Bennie Ellender,H,North Carolina,ACC,Bill Dooley,L,15,17
+1975-11-22,Tulane,Ind,Bennie Ellender,H,LSU,SEC,Charles McClendon,L,6,42
+1975-09-27,Cornell,Ivy,George Seifert,H,Colgate,Ind,Neil Wheelwright,L,22,24
+1975-10-11,Cornell,Ivy,George Seifert,H,Princeton,Ivy,Robert Casciola,L,8,16
+1975-10-18,Cornell,Ivy,George Seifert,H,Harvard,Ivy,Joseph Restic,L,13,34
+1975-10-25,Cornell,Ivy,George Seifert,A,Yale,Ivy,Carmen Cozza,L,14,20
+1975-11-01,Cornell,Ivy,George Seifert,H,Columbia,Ivy,William Campbell,L,19,42
+1975-11-08,Cornell,Ivy,George Seifert,H,Brown,Ivy,John Anderson,L,23,45
+1975-11-15,Cornell,Ivy,George Seifert,A,Dartmouth,Ivy,John Crouthamel,L,10,33
+1975-11-22,Cornell,Ivy,George Seifert,A,Pennsylvania,Ivy,Harry Gamble,L,21,27
+1975-09-13,Northern Illinois,MAC,Jerry Ippoliti,H,Long Beach State,PCAA,Wayne Howard,L,7,24
+1975-09-20,Northern Illinois,MAC,Jerry Ippoliti,A,Northwestern,Big Ten,John Pont,L,3,10
+1975-09-27,Northern Illinois,MAC,Jerry Ippoliti,A,Western Michigan,MAC,Elliot Uzelac,W,20,0
+1975-10-04,Northern Illinois,MAC,Jerry Ippoliti,H,Kent State,MAC,Dennis Fitzgerald,W,38,15
+1975-10-11,Northern Illinois,MAC,Jerry Ippoliti,A,Indiana State,Ind,Tom Harp,L,10,21
+1975-10-18,Northern Illinois,MAC,Jerry Ippoliti,H,Southern Illinois,Ind,Doug Weaver,W,52,12
+1975-10-25,Northern Illinois,MAC,Jerry Ippoliti,H,Ball State,MAC,Dave McClain,L,0,3
+1975-11-01,Northern Illinois,MAC,Jerry Ippoliti,A,Illinois State,Ind,Gerry Hart,L,10,27
+1975-11-08,Northern Illinois,MAC,Jerry Ippoliti,H,Toledo,MAC,Jack Murphy,L,22,24
+1975-11-15,Northern Illinois,MAC,Jerry Ippoliti,A,Central Michigan,MAC,Roy Kramer,L,7,69
+1975-09-13,Ohio State,Big Ten,Woody Hayes,A,Michigan State,Big Ten,Dennis Stolz,W,21,0
+1975-09-20,Ohio State,Big Ten,Woody Hayes,H,Penn State,Ind,Joe Paterno,W,17,9
+1975-09-27,Ohio State,Big Ten,Woody Hayes,H,North Carolina,ACC,Bill Dooley,W,32,7
+1975-10-04,Ohio State,Big Ten,Woody Hayes,A,UCLA,Pac-8,Dick Vermeil,W,41,20
+1975-10-11,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Bob Commings,W,49,0
+1975-10-18,Ohio State,Big Ten,Woody Hayes,H,Wisconsin,Big Ten,John Jardine,W,56,0
+1975-10-25,Ohio State,Big Ten,Woody Hayes,A,Purdue,Big Ten,Alex Agase,W,35,6
+1975-11-01,Ohio State,Big Ten,Woody Hayes,H,Indiana,Big Ten,Lee Corso,W,24,14
+1975-11-08,Ohio State,Big Ten,Woody Hayes,A,Illinois,Big Ten,Bob Blackman,W,40,3
+1975-11-15,Ohio State,Big Ten,Woody Hayes,H,Minnesota,Big Ten,Cal Stoll,W,38,6
+1975-11-22,Ohio State,Big Ten,Woody Hayes,A,Michigan,Big Ten,Bo Schembechler,W,21,14
+1976-01-01,Ohio State,Big Ten,Woody Hayes,A,UCLA,Pac-8,Dick Vermeil,L,10,23
+1975-09-13,Ohio,MAC,Bill Hess,A,Central Michigan,MAC,Roy Kramer,T,6,6
+1975-09-20,Ohio,MAC,Bill Hess,H,Ball State,MAC,Dave McClain,W,10,0
+1975-09-27,Ohio,MAC,Bill Hess,H,Kent State,MAC,Dennis Fitzgerald,W,23,21
+1975-10-04,Ohio,MAC,Bill Hess,A,Minnesota,Big Ten,Cal Stoll,L,0,21
+1975-10-11,Ohio,MAC,Bill Hess,A,William & Mary,Southern,James Root,W,22,8
+1975-10-18,Ohio,MAC,Bill Hess,A,Miami (OH),MAC,Dick Crum,L,9,17
+1975-10-25,Ohio,MAC,Bill Hess,A,Toledo,MAC,Jack Murphy,L,10,14
+1975-11-01,Ohio,MAC,Bill Hess,H,Western Michigan,MAC,Elliot Uzelac,W,24,10
+1975-11-08,Ohio,MAC,Bill Hess,H,Bowling Green State,MAC,Don Nehlen,L,17,19
+1975-11-15,Ohio,MAC,Bill Hess,H,Cincinnati,Ind,Tony Mason,L,5,6
+1975-11-22,Ohio,MAC,Bill Hess,A,Marshall,Ind,Frank Ellwood,W,38,21
+1975-09-06,Drake,MVC,Jack Wallace,A,New Mexico State,MVC,Jim Bradley,L,10,14
+1975-09-13,Drake,MVC,Jack Wallace,H,North Texas,Ind,Hayden Fry,L,3,7
+1975-09-20,Drake,MVC,Jack Wallace,H,Louisville,Ind,Vince Gibson,W,31,7
+1975-09-27,Drake,MVC,Jack Wallace,A,Louisiana-Monroe,Ind,Ollie Keller,L,25,38
+1975-10-18,Drake,MVC,Jack Wallace,A,West Texas A&M,MVC,Gene Mayfield,L,6,24
+1975-10-25,Drake,MVC,Jack Wallace,H,Long Beach State,PCAA,Wayne Howard,L,10,31
+1975-11-01,Drake,MVC,Jack Wallace,A,Southern Illinois,Ind,Doug Weaver,W,38,27
+1975-11-08,Drake,MVC,Jack Wallace,A,Tulsa,MVC,F. Dry,L,7,70
+1975-11-15,Drake,MVC,Jack Wallace,H,Wichita State,MVC,Jim Wright,W,27,23
+1975-11-22,Drake,MVC,Jack Wallace,A,Temple,Ind,Wayne Hardin,L,7,44
+1975-09-06,Houston,Ind,Bill Yeoman,H,Lamar,Southland,Vernon Glass,W,20,3
+1975-09-13,Houston,Ind,Bill Yeoman,H,Rice,SWC,Al Conover,L,7,24
+1975-09-27,Houston,Ind,Bill Yeoman,H,SMU,SWC,Dave Smith,L,16,27
+1975-10-11,Houston,Ind,Bill Yeoman,A,North Texas,Ind,Hayden Fry,L,0,28
+1975-10-17,Houston,Ind,Bill Yeoman,A,Miami (FL),Ind,Carl Selmer,L,20,24
+1975-11-01,Houston,Ind,Bill Yeoman,A,Cincinnati,Ind,Tony Mason,L,23,28
+1975-11-08,Houston,Ind,Bill Yeoman,H,Virginia Tech,Ind,Jimmy Sharpe,L,28,34
+1975-11-15,Houston,Ind,Bill Yeoman,A,Memphis,Ind,Richard Williamson,L,7,14
+1975-11-22,Houston,Ind,Bill Yeoman,H,Florida State,Ind,Darrell Mudra,L,22,33
+1975-11-29,Houston,Ind,Bill Yeoman,H,Tulsa,MVC,F. Dry,W,42,30

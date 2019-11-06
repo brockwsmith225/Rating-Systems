@@ -1,0 +1,163 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1895-10-02,Brown,Ind,Wallace Moyle,A,Yale,Ind,John Hartwell,L,0,4
+1895-10-12,Brown,Ind,Wallace Moyle,H,Tufts,Ind, Newell,W,28,0
+1895-10-19,Brown,Ind,Wallace Moyle,A,Harvard,Ind,Robert Emmons,L,6,26
+1895-10-23,Brown,Ind,Wallace Moyle,A,MIT,Ind,,W,14,0
+1895-10-26,Brown,Ind,Wallace Moyle,H,Lehigh,Ind,Laurie Bliss,W,22,4
+1895-10-30,Brown,Ind,Wallace Moyle,A,Pennsylvania,Ind,George Woodruff,L,0,12
+1895-11-02,Brown,Ind,Wallace Moyle,H,Wesleyan (CT),Ind,,W,10,5
+1895-11-09,Brown,Ind,Wallace Moyle,H,Yale,Ind,John Hartwell,T,6,6
+1895-11-13,Brown,Ind,Wallace Moyle,H,MIT,Ind,,W,28,0
+1895-11-16,Brown,Ind,Wallace Moyle,A,Cornell,Ind,Marshall Newell,L,4,6
+1895-11-23,Brown,Ind,Wallace Moyle,N,Army,Ind,Harmon Graves,L,0,26
+1895-11-28,Brown,Ind,Wallace Moyle,H,Dartmouth,Ind,,W,10,4
+1895-09-28,Trinity (CT),Ind,,H,Yale,Ind,John Hartwell,L,0,8
+1895-10-05,Trinity (CT),Ind,,A,Army,Ind,Harmon Graves,L,0,50
+1895-10-12,Trinity (CT),Ind,,A,Massachusetts,Ind,,W,22,0
+1895-10-30,Trinity (CT),Ind,,A,Tufts,Ind, Newell,L,0,4
+1895-11-16,Trinity (CT),Ind,,H,Wesleyan (CT),Ind,,L,6,14
+1895-09-28,Yale,Ind,John Hartwell,A,Trinity (CT),Ind,,W,8,0
+1895-10-02,Yale,Ind,John Hartwell,H,Brown,Ind,Wallace Moyle,W,4,0
+1895-10-05,Yale,Ind,John Hartwell,A,Union (NY),Ind,E.M. Church,W,26,0
+1895-10-09,Yale,Ind,John Hartwell,H,Amherst,Ind,,W,36,0
+1895-10-16,Yale,Ind,John Hartwell,H,Dartmouth,Ind,,W,26,0
+1895-10-23,Yale,Ind,John Hartwell,H,Williams,Ind,,W,54,0
+1895-10-30,Yale,Ind,John Hartwell,H,Dartmouth,Ind,,W,32,0
+1895-11-02,Yale,Ind,John Hartwell,A,Army,Ind,Harmon Graves,W,28,8
+1895-11-09,Yale,Ind,John Hartwell,A,Brown,Ind,Wallace Moyle,T,6,6
+1895-11-23,Yale,Ind,John Hartwell,N,Princeton,Ind,,W,20,10
+1895-09-26,Iowa State,Ind,,A,Purdue,Ind,D.M. Balliet,L,0,6
+1895-09-28,Iowa State,Ind,,A,Northwestern,Ind,Alvin Culver,W,36,0
+1895-09-30,Iowa State,Ind,,A,Wisconsin,Ind,H.O. Stickney,L,6,28
+1895-10-19,Iowa State,Ind,,A,Minnesota,Ind,Pudge Heffelfinger,L,0,24
+1895-10-14,Lehigh,Ind,Laurie Bliss,A,Pennsylvania,Ind,George Woodruff,L,0,54
+1895-10-23,Lehigh,Ind,Laurie Bliss,H,Princeton,Ind,,L,0,16
+1895-10-26,Lehigh,Ind,Laurie Bliss,A,Brown,Ind,Wallace Moyle,L,4,22
+1895-11-09,Lehigh,Ind,Laurie Bliss,H,Lafayette,Ind,Parke Davis,L,12,22
+1895-11-23,Lehigh,Ind,Laurie Bliss,A,Lafayette,Ind,Parke Davis,L,6,14
+1895-09-26,Purdue,Ind,D.M. Balliet,H,Iowa State,Ind,,W,6,0
+1895-10-29,Purdue,Ind,D.M. Balliet,H,Minnesota,Ind,Pudge Heffelfinger,W,16,4
+1895-11-02,Purdue,Ind,D.M. Balliet,H,Northwestern,Ind,Alvin Culver,L,6,24
+1895-11-16,Purdue,Ind,D.M. Balliet,A,Michigan,Ind,William McCauley,L,10,12
+1895-11-28,Purdue,Ind,D.M. Balliet,H,Illinois,Ind,George Huff,W,6,2
+1895-10-02,Harvard,Ind,Robert Emmons,H,Dartmouth,Ind,,W,4,0
+1895-10-05,Harvard,Ind,Robert Emmons,H,Amherst,Ind,,W,24,0
+1895-10-12,Harvard,Ind,Robert Emmons,A,Army,Ind,Harmon Graves,W,4,0
+1895-10-16,Harvard,Ind,Robert Emmons,H,Williams,Ind,,W,32,0
+1895-10-19,Harvard,Ind,Robert Emmons,H,Brown,Ind,Wallace Moyle,W,26,6
+1895-10-26,Harvard,Ind,Robert Emmons,H,Cornell,Ind,Marshall Newell,W,25,0
+1895-11-02,Harvard,Ind,Robert Emmons,A,Princeton,Ind,,L,4,12
+1895-11-09,Harvard,Ind,Robert Emmons,H,Michigan,Ind,William McCauley,W,4,0
+1895-11-23,Harvard,Ind,Robert Emmons,H,Pennsylvania,Ind,George Woodruff,L,14,17
+1895-10-16,Williams,Ind,,A,Harvard,Ind,Robert Emmons,L,0,32
+1895-10-23,Williams,Ind,,A,Yale,Ind,John Hartwell,L,0,54
+1895-11-02,Williams,Ind,,A,Amherst,Ind,,L,4,16
+1895-11-09,Williams,Ind,,A,Union (NY),Ind,E.M. Church,W,14,6
+1895-11-16,Williams,Ind,,H,Dartmouth,Ind,,L,5,10
+1895-09-28,Massachusetts,Ind,,A,Amherst,Ind,,L,0,42
+1895-10-05,Massachusetts,Ind,,H,Wesleyan (CT),Ind,,L,0,26
+1895-10-12,Massachusetts,Ind,,H,Trinity (CT),Ind,,L,0,22
+1895-09-21,Wisconsin,Ind,H.O. Stickney,N,Northwestern,Ind,Alvin Culver,W,12,6
+1895-09-30,Wisconsin,Ind,H.O. Stickney,H,Iowa State,Ind,,W,28,6
+1895-10-12,Wisconsin,Ind,H.O. Stickney,H,Lake Forest,Ind,,W,26,5
+1895-10-26,Wisconsin,Ind,H.O. Stickney,H,Illinois,Ind,George Huff,T,10,10
+1895-11-02,Wisconsin,Ind,H.O. Stickney,A,Chicago,Ind,Amos Alonzo Stagg,L,12,22
+1895-11-16,Wisconsin,Ind,H.O. Stickney,A,Minnesota,Ind,Pudge Heffelfinger,L,10,14
+1895-10-05,Army,Ind,Harmon Graves,H,Trinity (CT),Ind,,W,50,0
+1895-10-12,Army,Ind,Harmon Graves,H,Harvard,Ind,Robert Emmons,L,0,4
+1895-10-19,Army,Ind,Harmon Graves,H,Tufts,Ind, Newell,W,35,0
+1895-10-26,Army,Ind,Harmon Graves,H,Dartmouth,Ind,,W,6,0
+1895-11-02,Army,Ind,Harmon Graves,H,Yale,Ind,John Hartwell,L,8,28
+1895-11-16,Army,Ind,Harmon Graves,H,Union (NY),Ind,E.M. Church,W,16,0
+1895-11-23,Army,Ind,Harmon Graves,N,Brown,Ind,Wallace Moyle,W,26,0
+1895-10-05,Union (NY),Ind,E.M. Church,H,Yale,Ind,John Hartwell,L,0,26
+1895-10-26,Union (NY),Ind,E.M. Church,A,Princeton,Ind,,L,0,22
+1895-11-09,Union (NY),Ind,E.M. Church,H,Williams,Ind,,L,6,14
+1895-11-16,Union (NY),Ind,E.M. Church,A,Army,Ind,Harmon Graves,L,0,16
+1895-11-23,Union (NY),Ind,E.M. Church,H,Wesleyan (CT),Ind,,L,0,6
+1895-10-05,Wesleyan (CT),Ind,,A,Massachusetts,Ind,,W,26,0
+1895-10-12,Wesleyan (CT),Ind,,A,Amherst,Ind,,L,10,12
+1895-10-16,Wesleyan (CT),Ind,,H,Amherst,Ind,,L,14,16
+1895-10-26,Wesleyan (CT),Ind,,H,Tufts,Ind, Newell,W,16,10
+1895-11-02,Wesleyan (CT),Ind,,A,Brown,Ind,Wallace Moyle,L,5,10
+1895-11-16,Wesleyan (CT),Ind,,A,Trinity (CT),Ind,,W,14,6
+1895-11-23,Wesleyan (CT),Ind,,A,Union (NY),Ind,E.M. Church,W,6,0
+1895-10-02,Dartmouth,Ind,,A,Harvard,Ind,Robert Emmons,L,0,4
+1895-10-16,Dartmouth,Ind,,A,Yale,Ind,John Hartwell,L,0,26
+1895-10-19,Dartmouth,Ind,,H,MIT,Ind,,W,30,0
+1895-10-26,Dartmouth,Ind,,A,Army,Ind,Harmon Graves,L,0,6
+1895-10-30,Dartmouth,Ind,,A,Yale,Ind,John Hartwell,L,0,32
+1895-11-09,Dartmouth,Ind,,H,Amherst,Ind,,W,20,0
+1895-11-16,Dartmouth,Ind,,A,Williams,Ind,,W,10,5
+1895-11-28,Dartmouth,Ind,,A,Brown,Ind,Wallace Moyle,L,4,10
+1895-10-12,Princeton,Ind,,H,Lafayette,Ind,Parke Davis,W,14,0
+1895-10-23,Princeton,Ind,,A,Lehigh,Ind,Laurie Bliss,W,16,0
+1895-10-26,Princeton,Ind,,H,Union (NY),Ind,E.M. Church,W,22,0
+1895-11-02,Princeton,Ind,,H,Harvard,Ind,Robert Emmons,W,12,4
+1895-11-09,Princeton,Ind,,N,Cornell,Ind,Marshall Newell,W,6,0
+1895-11-23,Princeton,Ind,,N,Yale,Ind,John Hartwell,L,10,20
+1895-10-05,Chicago,Ind,Amos Alonzo Stagg,H,Lake Forest,Ind,,W,52,0
+1895-10-19,Chicago,Ind,Amos Alonzo Stagg,H,Northwestern,Ind,Alvin Culver,L,6,22
+1895-10-26,Chicago,Ind,Amos Alonzo Stagg,H,Minnesota,Ind,Pudge Heffelfinger,L,6,10
+1895-11-02,Chicago,Ind,Amos Alonzo Stagg,H,Wisconsin,Ind,H.O. Stickney,W,22,12
+1895-11-16,Chicago,Ind,Amos Alonzo Stagg,A,Northwestern,Ind,Alvin Culver,W,6,0
+1895-11-28,Chicago,Ind,Amos Alonzo Stagg,H,Michigan,Ind,William McCauley,L,0,12
+1895-09-21,Northwestern,Ind,Alvin Culver,N,Wisconsin,Ind,H.O. Stickney,L,6,12
+1895-09-28,Northwestern,Ind,Alvin Culver,H,Iowa State,Ind,,L,0,36
+1895-10-19,Northwestern,Ind,Alvin Culver,A,Chicago,Ind,Amos Alonzo Stagg,W,22,6
+1895-10-31,Northwestern,Ind,Alvin Culver,H,Lake Forest,Ind,,W,24,0
+1895-11-02,Northwestern,Ind,Alvin Culver,A,Purdue,Ind,D.M. Balliet,W,24,6
+1895-11-16,Northwestern,Ind,Alvin Culver,H,Chicago,Ind,Amos Alonzo Stagg,L,0,6
+1895-11-23,Northwestern,Ind,Alvin Culver,A,Illinois,Ind,George Huff,L,4,38
+1895-10-19,Minnesota,Ind,Pudge Heffelfinger,H,Iowa State,Ind,,W,24,0
+1895-10-26,Minnesota,Ind,Pudge Heffelfinger,A,Chicago,Ind,Amos Alonzo Stagg,W,10,6
+1895-10-29,Minnesota,Ind,Pudge Heffelfinger,A,Purdue,Ind,D.M. Balliet,L,4,16
+1895-11-16,Minnesota,Ind,Pudge Heffelfinger,H,Wisconsin,Ind,H.O. Stickney,W,14,10
+1895-11-23,Minnesota,Ind,Pudge Heffelfinger,A,Michigan,Ind,William McCauley,L,0,20
+1895-10-26,Michigan,Ind,William McCauley,H,Lake Forest,Ind,,W,40,0
+1895-11-09,Michigan,Ind,William McCauley,A,Harvard,Ind,Robert Emmons,L,0,4
+1895-11-16,Michigan,Ind,William McCauley,H,Purdue,Ind,D.M. Balliet,W,12,10
+1895-11-23,Michigan,Ind,William McCauley,H,Minnesota,Ind,Pudge Heffelfinger,W,20,0
+1895-11-28,Michigan,Ind,William McCauley,A,Chicago,Ind,Amos Alonzo Stagg,W,12,0
+1895-10-14,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,Laurie Bliss,W,54,0
+1895-10-26,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Parke Davis,W,30,0
+1895-10-30,Pennsylvania,Ind,George Woodruff,H,Brown,Ind,Wallace Moyle,W,12,0
+1895-11-23,Pennsylvania,Ind,George Woodruff,A,Harvard,Ind,Robert Emmons,W,17,14
+1895-11-28,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Marshall Newell,W,46,2
+1895-10-12,Tufts,Ind, Newell,A,Brown,Ind,Wallace Moyle,L,0,28
+1895-10-19,Tufts,Ind, Newell,A,Army,Ind,Harmon Graves,L,0,35
+1895-10-26,Tufts,Ind, Newell,A,Wesleyan (CT),Ind,,L,10,16
+1895-10-30,Tufts,Ind, Newell,H,Trinity (CT),Ind,,W,4,0
+1895-11-23,Tufts,Ind, Newell,A,MIT,Ind,,L,0,6
+1895-09-28,Amherst,Ind,,H,Massachusetts,Ind,,W,42,0
+1895-10-05,Amherst,Ind,,A,Harvard,Ind,Robert Emmons,L,0,24
+1895-10-09,Amherst,Ind,,A,Yale,Ind,John Hartwell,L,0,36
+1895-10-12,Amherst,Ind,,H,Wesleyan (CT),Ind,,W,12,10
+1895-10-16,Amherst,Ind,,A,Wesleyan (CT),Ind,,W,16,14
+1895-11-02,Amherst,Ind,,H,Williams,Ind,,W,16,4
+1895-11-09,Amherst,Ind,,A,Dartmouth,Ind,,L,0,20
+1895-11-16,Amherst,Ind,,H,MIT,Ind,,W,20,4
+1895-10-12,Lafayette,Ind,Parke Davis,A,Princeton,Ind,,L,0,14
+1895-10-19,Lafayette,Ind,Parke Davis,A,Cornell,Ind,Marshall Newell,W,6,0
+1895-10-26,Lafayette,Ind,Parke Davis,A,Pennsylvania,Ind,George Woodruff,L,0,30
+1895-11-09,Lafayette,Ind,Parke Davis,A,Lehigh,Ind,Laurie Bliss,W,22,12
+1895-11-23,Lafayette,Ind,Parke Davis,H,Lehigh,Ind,Laurie Bliss,W,14,6
+1895-10-26,Illinois,Ind,George Huff,A,Wisconsin,Ind,H.O. Stickney,T,10,10
+1895-11-02,Illinois,Ind,George Huff,H,Lake Forest,Ind,,W,38,0
+1895-11-23,Illinois,Ind,George Huff,H,Northwestern,Ind,Alvin Culver,W,38,4
+1895-11-28,Illinois,Ind,George Huff,A,Purdue,Ind,D.M. Balliet,L,2,6
+1895-10-19,Cornell,Ind,Marshall Newell,H,Lafayette,Ind,Parke Davis,L,0,6
+1895-10-26,Cornell,Ind,Marshall Newell,A,Harvard,Ind,Robert Emmons,L,0,25
+1895-11-09,Cornell,Ind,Marshall Newell,N,Princeton,Ind,,L,0,6
+1895-11-16,Cornell,Ind,Marshall Newell,H,Brown,Ind,Wallace Moyle,W,6,4
+1895-11-28,Cornell,Ind,Marshall Newell,A,Pennsylvania,Ind,George Woodruff,L,2,46
+1895-10-05,Lake Forest,Ind,,A,Chicago,Ind,Amos Alonzo Stagg,L,0,52
+1895-10-12,Lake Forest,Ind,,A,Wisconsin,Ind,H.O. Stickney,L,5,26
+1895-10-26,Lake Forest,Ind,,A,Michigan,Ind,William McCauley,L,0,40
+1895-10-31,Lake Forest,Ind,,A,Northwestern,Ind,Alvin Culver,L,0,24
+1895-11-02,Lake Forest,Ind,,A,Illinois,Ind,George Huff,L,0,38
+1895-10-19,MIT,Ind,,A,Dartmouth,Ind,,L,0,30
+1895-10-23,MIT,Ind,,H,Brown,Ind,Wallace Moyle,L,0,14
+1895-11-13,MIT,Ind,,A,Brown,Ind,Wallace Moyle,L,0,28
+1895-11-16,MIT,Ind,,A,Amherst,Ind,,L,4,20
+1895-11-23,MIT,Ind,,H,Tufts,Ind, Newell,W,6,0

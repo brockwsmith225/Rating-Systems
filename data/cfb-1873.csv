@@ -1,0 +1,11 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1873-10-25,Columbia,Ind,,A,Stevens,Ind,,W,2,1
+1873-11-01,Columbia,Ind,,A,Rutgers,Ind,,L,4,5
+1873-11-08,Columbia,Ind,,H,Rutgers,Ind,,W,4,3
+1873-11-15,Princeton,Ind,,A,Yale,Ind,,W,3,0
+1873-10-25,Stevens,Ind,,H,Columbia,Ind,,L,1,2
+1873-10-25,Rutgers,Ind,,A,Yale,Ind,,L,1,3
+1873-11-01,Rutgers,Ind,,H,Columbia,Ind,,W,5,4
+1873-11-08,Rutgers,Ind,,A,Columbia,Ind,,L,3,4
+1873-10-25,Yale,Ind,,H,Rutgers,Ind,,W,3,1
+1873-11-15,Yale,Ind,,H,Princeton,Ind,,L,0,3

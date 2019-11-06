@@ -1,0 +1,711 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1930-09-27,North Carolina,Southern,Chuck Collins,H,Wake Forest,Ind,F.S. Miller,W,13,7
+1930-10-04,North Carolina,Southern,Chuck Collins,A,Virginia Tech,Southern,O.E. Neale,W,39,21
+1930-10-11,North Carolina,Southern,Chuck Collins,H,Maryland,Southern,Curley Byrd,W,28,21
+1930-10-18,North Carolina,Southern,Chuck Collins,A,Georgia,Southern,Harry Mehre,L,0,26
+1930-10-25,North Carolina,Southern,Chuck Collins,A,Tennessee,Southern,Bob Neyland,L,7,9
+1930-11-01,North Carolina,Southern,Chuck Collins,H,Georgia Tech,Southern,William Alexander,T,6,6
+1930-11-07,North Carolina,Southern,Chuck Collins,H,North Carolina State,Southern,John Van Liew,W,13,6
+1930-11-15,North Carolina,Southern,Chuck Collins,A,Davidson,Ind,Monk Younger,L,6,7
+1930-11-27,North Carolina,Southern,Chuck Collins,A,Virginia,Southern,Earl Abell,W,41,0
+1930-12-06,North Carolina,Southern,Chuck Collins,H,Duke,Southern,Jimmy DeHart,T,0,0
+1930-10-04,Indiana,Western,Pat Page,A,Ohio State,Western,Sam Willaman,L,0,23
+1930-10-11,Indiana,Western,Pat Page,H,Oklahoma State,MVC,Pappy Waldorf,T,7,7
+1930-10-18,Indiana,Western,Pat Page,A,Minnesota,Western,Fritz Crisler,L,0,6
+1930-10-25,Indiana,Western,Pat Page,A,SMU,SWC,Ray Morrison,L,0,27
+1930-11-01,Indiana,Western,Pat Page,A,Notre Dame,Ind,Knute Rockne,L,0,27
+1930-11-08,Indiana,Western,Pat Page,H,Northwestern,Western,Dick Hanley,L,0,25
+1930-11-22,Indiana,Western,Pat Page,A,Purdue,Western,Noble Kizer,W,7,6
+1930-10-04,Iowa State,Big 6,C. Noel Workman,A,Illinois,Western,Robert Zuppke,L,0,7
+1930-10-18,Iowa State,Big 6,C. Noel Workman,H,Nebraska,Big 6,Dana Bible,L,12,14
+1930-10-25,Iowa State,Big 6,C. Noel Workman,A,Kansas,Big 6,Bill Hargiss,L,6,20
+1930-11-01,Iowa State,Big 6,C. Noel Workman,H,Oklahoma,Big 6,Adrian Lindsey,L,13,19
+1930-11-08,Iowa State,Big 6,C. Noel Workman,A,Missouri,Big 6,Gwinn Henry,L,0,14
+1930-11-15,Iowa State,Big 6,C. Noel Workman,H,Kansas State,Big 6,Bo McMillin,L,0,13
+1930-11-22,Iowa State,Big 6,C. Noel Workman,A,Drake,MVC,Ossie Solem,L,19,20
+1930-12-06,Iowa State,Big 6,C. Noel Workman,A,Rice,SWC,Jack Meagher,L,7,14
+1930-10-25,Fordham,Ind,Frank Cavanaugh,N,New York University,Ind,,W,7,0
+1930-11-01,Fordham,Ind,Frank Cavanaugh,H,West Virginia,Ind,Rat Rogers,W,18,2
+1930-11-08,Fordham,Ind,Frank Cavanaugh,A,Detroit Mercy,Ind,Gus Dorais,W,13,7
+1930-11-15,Fordham,Ind,Frank Cavanaugh,H,Saint Mary's (CA),Ind,Slip Madigan,L,12,20
+1930-11-22,Fordham,Ind,Frank Cavanaugh,H,Bucknell,Ind,Carl Snavely,W,12,0
+1930-10-04,Utah,RMC,Ike Armstrong,H,Wyoming,RMC,John Rhodes,W,72,0
+1930-10-18,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,34,7
+1930-10-25,Utah,RMC,Ike Armstrong,H,Denver,RMC,Jeff Cravath,W,59,0
+1930-11-01,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,39,0
+1930-11-08,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,41,6
+1930-11-15,Utah,RMC,Ike Armstrong,A,Colorado,RMC,Myron Witham,W,34,0
+1930-11-27,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,41,0
+1930-10-11,Northern Colorado,RMC,William Saunders,H,Brigham Young,RMC,Ott Romney,T,7,7
+1930-10-18,Northern Colorado,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,L,0,26
+1930-10-25,Northern Colorado,RMC,William Saunders,A,Colorado Mines,RMC,George Allen,W,7,0
+1930-11-01,Northern Colorado,RMC,William Saunders,A,Wyoming,RMC,John Rhodes,T,6,6
+1930-11-08,Northern Colorado,RMC,William Saunders,H,Colorado,RMC,Myron Witham,L,7,27
+1930-11-15,Northern Colorado,RMC,William Saunders,A,Colorado College,RMC,W.T. VandeGraaff,T,7,7
+1930-11-22,Northern Colorado,RMC,William Saunders,H,Western State,RMC,Tefler Meade,W,14,0
+1930-10-11,Villanova,Ind,Harry Stuhldreher,A,New York University,Ind,,L,6,20
+1930-10-25,Villanova,Ind,Harry Stuhldreher,N,Temple,Ind,Henry Miller,W,8,7
+1930-11-01,Villanova,Ind,Harry Stuhldreher,H,Duke,Southern,Jimmy DeHart,L,6,12
+1930-11-08,Villanova,Ind,Harry Stuhldreher,N,Bucknell,Ind,Carl Snavely,L,14,20
+1930-11-22,Villanova,Ind,Harry Stuhldreher,H,Georgetown,Ind,Tommy Mills,W,13,0
+1930-11-29,Villanova,Ind,Harry Stuhldreher,H,Washington State,PCC,O.E. Hollingbery,L,0,13
+1930-10-11,Washington & Lee,Southern,Eugene Oberst,N,West Virginia,Ind,Rat Rogers,L,13,33
+1930-10-18,Washington & Lee,Southern,Eugene Oberst,A,Kentucky,Southern,Harry Gamage,L,14,33
+1930-11-01,Washington & Lee,Southern,Eugene Oberst,H,Virginia Tech,Southern,O.E. Neale,T,0,0
+1930-11-08,Washington & Lee,Southern,Eugene Oberst,A,Maryland,Southern,Curley Byrd,L,7,41
+1930-11-15,Washington & Lee,Southern,Eugene Oberst,A,Virginia,Southern,Earl Abell,L,7,21
+1930-11-27,Washington & Lee,Southern,Eugene Oberst,A,Duke,Southern,Jimmy DeHart,L,0,14
+1930-10-18,Syracuse,Ind,Vic Hanson,H,Pitt,Ind,Jock Sutherland,L,0,14
+1930-11-01,Syracuse,Ind,Vic Hanson,H,Brown,Ind,DeOrmond McLaughry,T,16,16
+1930-11-08,Syracuse,Ind,Vic Hanson,A,Penn State,Ind,Bob Higgins,T,0,0
+1930-11-15,Syracuse,Ind,Vic Hanson,H,Colgate,Ind,Andrew Kerr,L,7,36
+1930-11-27,Syracuse,Ind,Vic Hanson,A,Columbia,Ind,Lou Little,W,19,7
+1930-10-24,Georgetown,Ind,Tommy Mills,H,West Virginia,Ind,Rat Rogers,L,7,14
+1930-10-31,Georgetown,Ind,Tommy Mills,H,Michigan State,Ind,Jimmy Crowley,W,14,13
+1930-11-15,Georgetown,Ind,Tommy Mills,A,New York University,Ind,,L,0,2
+1930-11-22,Georgetown,Ind,Tommy Mills,A,Villanova,Ind,Harry Stuhldreher,L,0,13
+1930-11-29,Georgetown,Ind,Tommy Mills,A,Detroit Mercy,Ind,Gus Dorais,L,0,12
+1930-10-04,Montana,PCC,Frank Millburn,A,Washington,PCC,James Phelan,L,0,27
+1930-10-18,Montana,PCC,Frank Millburn,N,Montana State,RMC,Schubert Dyche,W,13,6
+1930-10-25,Montana,PCC,Frank Millburn,A,Washington State,PCC,O.E. Hollingbery,L,0,61
+1930-11-01,Montana,PCC,Frank Millburn,A,California,PCC,Nibs Price,L,0,46
+1930-11-08,Montana,PCC,Frank Millburn,H,Gonzaga,Ind,Ray Flaherty,W,27,15
+1930-11-15,Montana,PCC,Frank Millburn,A,Idaho,PCC,Leo Calland,W,12,6
+1930-10-25,Penn State,Ind,Bob Higgins,H,Colgate,Ind,Andrew Kerr,L,0,40
+1930-11-01,Penn State,Ind,Bob Higgins,A,Bucknell,Ind,Carl Snavely,L,7,19
+1930-11-08,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Vic Hanson,T,0,0
+1930-11-15,Penn State,Ind,Bob Higgins,A,Iowa,Western,Burton Ingwersen,L,0,19
+1930-11-26,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Jock Sutherland,L,12,19
+1930-10-11,Princeton,Ind,,H,Brown,Ind,DeOrmond McLaughry,L,0,7
+1930-10-18,Princeton,Ind,,H,Cornell,Ind,Gilmour Dobie,L,7,12
+1930-10-25,Princeton,Ind,,H,Navy,Ind,William Ingram,L,0,31
+1930-11-01,Princeton,Ind,,A,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1930-11-15,Princeton,Ind,,H,Yale,Ind,Mal Stevens,L,7,10
+1930-10-04,Vanderbilt,Southern,Dan McGugin,A,Minnesota,Western,Fritz Crisler,W,33,7
+1930-10-11,Vanderbilt,Southern,Dan McGugin,H,Virginia Tech,Southern,O.E. Neale,W,40,0
+1930-10-25,Vanderbilt,Southern,Dan McGugin,A,Alabama,Southern,Wallace Wade,L,7,12
+1930-11-01,Vanderbilt,Southern,Dan McGugin,H,Ole Miss,Southern,,W,24,0
+1930-11-08,Vanderbilt,Southern,Dan McGugin,A,Georgia Tech,Southern,William Alexander,W,6,0
+1930-11-15,Vanderbilt,Southern,Dan McGugin,H,Tennessee,Southern,Bob Neyland,L,0,13
+1930-11-22,Vanderbilt,Southern,Dan McGugin,H,Auburn,Southern,Chet Wynne,W,27,0
+1930-12-01,Vanderbilt,Southern,Dan McGugin,H,Maryland,Southern,Curley Byrd,W,22,7
+1930-10-04,Colorado College,RMC,W.T. VandeGraaff,H,Utah State,RMC,,L,7,8
+1930-10-11,Colorado College,RMC,W.T. VandeGraaff,H,Western State,RMC,Tefler Meade,W,45,7
+1930-10-18,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Jeff Cravath,L,0,6
+1930-11-01,Colorado College,RMC,W.T. VandeGraaff,H,Colorado,RMC,Myron Witham,L,13,14
+1930-11-08,Colorado College,RMC,W.T. VandeGraaff,A,Utah,RMC,Ike Armstrong,L,6,41
+1930-11-15,Colorado College,RMC,W.T. VandeGraaff,H,Northern Colorado,RMC,William Saunders,T,7,7
+1930-11-22,Colorado College,RMC,W.T. VandeGraaff,A,Colorado State,RMC,Harry Hughes,T,0,0
+1930-11-28,Colorado College,RMC,W.T. VandeGraaff,N,Colorado Mines,RMC,George Allen,W,7,6
+1930-10-04,Kentucky,Southern,Harry Gamage,H,Sewanee,Southern,Harvey Harmon,W,37,0
+1930-10-18,Kentucky,Southern,Harry Gamage,H,Washington & Lee,Southern,Eugene Oberst,W,33,14
+1930-10-25,Kentucky,Southern,Harry Gamage,H,Virginia,Southern,Earl Abell,W,47,0
+1930-11-01,Kentucky,Southern,Harry Gamage,H,Alabama,Southern,Wallace Wade,L,0,19
+1930-11-08,Kentucky,Southern,Harry Gamage,A,Duke,Southern,Jimmy DeHart,L,7,14
+1930-11-15,Kentucky,Southern,Harry Gamage,H,Virginia Military Institute,Southern,,W,26,0
+1930-11-27,Kentucky,Southern,Harry Gamage,A,Tennessee,Southern,Bob Neyland,L,0,8
+1930-10-04,California,PCC,Nibs Price,H,Washington State,PCC,O.E. Hollingbery,L,0,16
+1930-10-11,California,PCC,Nibs Price,H,Saint Mary's (CA),Ind,Slip Madigan,W,7,6
+1930-10-25,California,PCC,Nibs Price,A,Washington,PCC,James Phelan,L,0,13
+1930-11-01,California,PCC,Nibs Price,H,Montana,PCC,Frank Millburn,W,46,0
+1930-11-08,California,PCC,Nibs Price,A,USC,PCC,Howard Jones,L,0,74
+1930-11-22,California,PCC,Nibs Price,H,Stanford,PCC,Pop Warner,L,0,41
+1930-10-04,Florida,Southern,Charlie Bachman,H,North Carolina State,Southern,John Van Liew,W,27,0
+1930-10-11,Florida,Southern,Charlie Bachman,H,Auburn,Southern,Chet Wynne,W,7,0
+1930-10-18,Florida,Southern,Charlie Bachman,A,Chicago,Western,Amos Alonzo Stagg,W,19,0
+1930-11-01,Florida,Southern,Charlie Bachman,A,Georgia,Southern,Harry Mehre,T,0,0
+1930-11-08,Florida,Southern,Charlie Bachman,H,Alabama,Southern,Wallace Wade,L,0,20
+1930-11-15,Florida,Southern,Charlie Bachman,H,Clemson,Southern,Josh Cody,W,27,0
+1930-11-27,Florida,Southern,Charlie Bachman,A,Georgia Tech,Southern,William Alexander,W,55,7
+1930-12-06,Florida,Southern,Charlie Bachman,H,Tennessee,Southern,Bob Neyland,L,6,13
+1930-09-27,Gonzaga,Ind,Ray Flaherty,A,Oregon State,PCC,Paul Schissler,L,6,16
+1930-10-18,Gonzaga,Ind,Ray Flaherty,H,Washington State,PCC,O.E. Hollingbery,L,0,24
+1930-10-25,Gonzaga,Ind,Ray Flaherty,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,41
+1930-11-01,Gonzaga,Ind,Ray Flaherty,A,Idaho,PCC,Leo Calland,L,0,26
+1930-11-08,Gonzaga,Ind,Ray Flaherty,A,Montana,PCC,Frank Millburn,L,15,27
+1930-10-11,Stanford,PCC,Pop Warner,A,Minnesota,Western,Fritz Crisler,T,0,0
+1930-10-18,Stanford,PCC,Pop Warner,H,Oregon State,PCC,Paul Schissler,W,13,7
+1930-10-25,Stanford,PCC,Pop Warner,H,USC,PCC,Howard Jones,L,12,41
+1930-10-31,Stanford,PCC,Pop Warner,H,UCLA,PCC,William Spaulding,W,20,0
+1930-11-08,Stanford,PCC,Pop Warner,H,Washington,PCC,James Phelan,W,25,7
+1930-11-22,Stanford,PCC,Pop Warner,A,California,PCC,Nibs Price,W,41,0
+1930-11-29,Stanford,PCC,Pop Warner,H,Dartmouth,Ind,Jack Cannell,W,14,7
+1930-10-04,Creighton,MVC,,H,Kansas,Big 6,Bill Hargiss,L,0,26
+1930-10-18,Creighton,MVC,,H,Marquette,Ind,Frank Murray,L,7,19
+1930-11-01,Creighton,MVC,,A,Grinnell,MVC,Lester Watt,L,2,19
+1930-11-08,Creighton,MVC,,H,Drake,MVC,Ossie Solem,L,6,38
+1930-11-15,Creighton,MVC,,A,Washington (MO),MVC,Albert Sharpe,L,0,13
+1930-11-27,Creighton,MVC,,H,Oklahoma State,MVC,Pappy Waldorf,L,0,13
+1930-10-04,Washington State,PCC,O.E. Hollingbery,A,California,PCC,Nibs Price,W,16,0
+1930-10-11,Washington State,PCC,O.E. Hollingbery,H,USC,PCC,Howard Jones,W,7,6
+1930-10-18,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Ray Flaherty,W,24,0
+1930-10-25,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Frank Millburn,W,61,0
+1930-11-01,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Paul Schissler,W,14,7
+1930-11-08,Washington State,PCC,O.E. Hollingbery,A,Idaho,PCC,Leo Calland,W,33,7
+1930-11-15,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,W,3,0
+1930-11-29,Washington State,PCC,O.E. Hollingbery,A,Villanova,Ind,Harry Stuhldreher,W,13,0
+1931-01-01,Washington State,PCC,O.E. Hollingbery,N,Alabama,Southern,Wallace Wade,L,0,24
+1930-09-27,Western State,RMC,Tefler Meade,A,Utah State,RMC,,L,0,31
+1930-10-11,Western State,RMC,Tefler Meade,A,Colorado College,RMC,W.T. VandeGraaff,L,7,45
+1930-10-25,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,0,25
+1930-11-03,Western State,RMC,Tefler Meade,H,Regis (CO),Ind,,L,7,14
+1930-11-08,Western State,RMC,Tefler Meade,A,Colorado Mines,RMC,George Allen,L,0,13
+1930-11-22,Western State,RMC,Tefler Meade,A,Northern Colorado,RMC,William Saunders,L,0,14
+1930-10-04,Illinois,Western,Robert Zuppke,H,Iowa State,Big 6,C. Noel Workman,W,7,0
+1930-10-18,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Dick Hanley,L,0,32
+1930-10-25,Illinois,Western,Robert Zuppke,A,Michigan,Western,Harry Kipke,L,7,15
+1930-11-01,Illinois,Western,Robert Zuppke,H,Purdue,Western,Noble Kizer,L,0,25
+1930-11-08,Illinois,Western,Robert Zuppke,A,Army,Ind,Arthur Parmalee,L,0,13
+1930-11-15,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,W,28,0
+1930-11-22,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Sam Willaman,L,9,12
+1930-10-04,Baylor,SWC,Morley Jennings,A,Purdue,Western,Noble Kizer,L,7,20
+1930-10-18,Baylor,SWC,Morley Jennings,H,SMU,SWC,Ray Morrison,T,14,14
+1930-10-25,Baylor,SWC,Morley Jennings,A,Centenary (LA),Ind,Homer Norton,L,2,7
+1930-11-08,Baylor,SWC,Morley Jennings,H,Texas,SWC,Clyde Littlefield,L,0,14
+1930-11-15,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Fred Thomsen,W,22,7
+1930-11-22,Baylor,SWC,Morley Jennings,A,Texas Christian,SWC,Francis Schmidt,W,35,14
+1930-11-29,Baylor,SWC,Morley Jennings,H,Rice,SWC,Jack Meagher,W,7,4
+1930-10-04,SMU,SWC,Ray Morrison,A,Notre Dame,Ind,Knute Rockne,L,14,20
+1930-10-18,SMU,SWC,Ray Morrison,A,Baylor,SWC,Morley Jennings,T,14,14
+1930-10-25,SMU,SWC,Ray Morrison,H,Indiana,Western,Pat Page,W,27,0
+1930-11-01,SMU,SWC,Ray Morrison,A,Texas,SWC,Clyde Littlefield,L,7,25
+1930-11-08,SMU,SWC,Ray Morrison,H,Texas A&M,SWC,Madison Bell,W,13,7
+1930-11-15,SMU,SWC,Ray Morrison,A,Navy,Ind,William Ingram,W,20,7
+1930-11-22,SMU,SWC,Ray Morrison,A,Rice,SWC,Jack Meagher,W,32,0
+1930-11-29,SMU,SWC,Ray Morrison,H,Texas Christian,SWC,Francis Schmidt,L,0,13
+1930-10-11,Georgia,Southern,Harry Mehre,A,Yale,Ind,Mal Stevens,W,18,14
+1930-10-18,Georgia,Southern,Harry Mehre,H,North Carolina,Southern,Chuck Collins,W,26,0
+1930-10-25,Georgia,Southern,Harry Mehre,N,Auburn,Southern,Chet Wynne,W,39,7
+1930-11-01,Georgia,Southern,Harry Mehre,H,Florida,Southern,Charlie Bachman,T,0,0
+1930-11-08,Georgia,Southern,Harry Mehre,A,New York University,Ind,,W,7,6
+1930-11-15,Georgia,Southern,Harry Mehre,A,Tulane,Southern,Bernie Bierman,L,0,25
+1930-11-27,Georgia,Southern,Harry Mehre,A,Alabama,Southern,Wallace Wade,L,0,13
+1930-12-06,Georgia,Southern,Harry Mehre,A,Georgia Tech,Southern,William Alexander,W,13,0
+1930-10-04,Maryland,Southern,Curley Byrd,A,Yale,Ind,Mal Stevens,L,13,40
+1930-10-11,Maryland,Southern,Curley Byrd,A,North Carolina,Southern,Chuck Collins,L,21,28
+1930-10-25,Maryland,Southern,Curley Byrd,N,Virginia Military Institute,Southern,,W,20,0
+1930-11-01,Maryland,Southern,Curley Byrd,A,Virginia,Southern,Earl Abell,W,14,6
+1930-11-08,Maryland,Southern,Curley Byrd,H,Washington & Lee,Southern,Eugene Oberst,W,41,7
+1930-11-15,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,O.E. Neale,W,13,7
+1930-11-22,Maryland,Southern,Curley Byrd,A,Navy,Ind,William Ingram,L,0,6
+1930-12-01,Maryland,Southern,Curley Byrd,A,Vanderbilt,Southern,Dan McGugin,L,7,22
+1930-10-04,Virginia,Southern,Earl Abell,A,Duke,Southern,Jimmy DeHart,L,0,32
+1930-10-11,Virginia,Southern,Earl Abell,A,Pennsylvania,Ind,Lud Wray,L,6,40
+1930-10-18,Virginia,Southern,Earl Abell,A,Virginia Military Institute,Southern,,W,13,0
+1930-10-25,Virginia,Southern,Earl Abell,A,Kentucky,Southern,Harry Gamage,L,0,47
+1930-11-01,Virginia,Southern,Earl Abell,H,Maryland,Southern,Curley Byrd,L,6,14
+1930-11-08,Virginia,Southern,Earl Abell,A,Virginia Tech,Southern,O.E. Neale,L,13,34
+1930-11-15,Virginia,Southern,Earl Abell,H,Washington & Lee,Southern,Eugene Oberst,W,21,7
+1930-11-27,Virginia,Southern,Earl Abell,H,North Carolina,Southern,Chuck Collins,L,0,41
+1930-09-27,Idaho,PCC,Leo Calland,H,Montana State,RMC,Schubert Dyche,L,6,7
+1930-10-11,Idaho,PCC,Leo Calland,A,Washington,PCC,James Phelan,L,0,27
+1930-10-25,Idaho,PCC,Leo Calland,A,Oregon,PCC,Clarence Spears,L,6,20
+1930-11-01,Idaho,PCC,Leo Calland,H,Gonzaga,Ind,Ray Flaherty,W,26,0
+1930-11-08,Idaho,PCC,Leo Calland,H,Washington State,PCC,O.E. Hollingbery,L,7,33
+1930-11-15,Idaho,PCC,Leo Calland,H,Montana,PCC,Frank Millburn,L,6,12
+1930-11-29,Idaho,PCC,Leo Calland,A,UCLA,PCC,William Spaulding,L,6,20
+1930-10-11,Oklahoma,Big 6,Adrian Lindsey,H,Nebraska,Big 6,Dana Bible,W,20,7
+1930-10-18,Oklahoma,Big 6,Adrian Lindsey,N,Texas,SWC,Clyde Littlefield,L,7,17
+1930-10-25,Oklahoma,Big 6,Adrian Lindsey,H,Kansas State,Big 6,Bo McMillin,W,7,0
+1930-11-01,Oklahoma,Big 6,Adrian Lindsey,A,Iowa State,Big 6,C. Noel Workman,W,19,13
+1930-11-15,Oklahoma,Big 6,Adrian Lindsey,A,Kansas,Big 6,Bill Hargiss,L,0,13
+1930-11-22,Oklahoma,Big 6,Adrian Lindsey,A,Oklahoma State,MVC,Pappy Waldorf,L,0,7
+1930-11-27,Oklahoma,Big 6,Adrian Lindsey,H,Missouri,Big 6,Gwinn Henry,T,0,0
+1930-10-04,Virginia Tech,Southern,O.E. Neale,H,North Carolina,Southern,Chuck Collins,L,21,39
+1930-10-11,Virginia Tech,Southern,O.E. Neale,A,Vanderbilt,Southern,Dan McGugin,L,0,40
+1930-10-25,Virginia Tech,Southern,O.E. Neale,A,Davidson,Ind,Monk Younger,W,20,19
+1930-11-01,Virginia Tech,Southern,O.E. Neale,A,Washington & Lee,Southern,Eugene Oberst,T,0,0
+1930-11-08,Virginia Tech,Southern,O.E. Neale,H,Virginia,Southern,Earl Abell,W,34,13
+1930-11-15,Virginia Tech,Southern,O.E. Neale,N,Maryland,Southern,Curley Byrd,L,7,13
+1930-11-27,Virginia Tech,Southern,O.E. Neale,N,Virginia Military Institute,Southern,,W,24,0
+1930-10-11,Arkansas,SWC,Fred Thomsen,A,Texas Christian,SWC,Francis Schmidt,L,0,40
+1930-10-18,Arkansas,SWC,Fred Thomsen,H,Rice,SWC,Jack Meagher,W,7,6
+1930-10-25,Arkansas,SWC,Fred Thomsen,H,Texas A&M,SWC,Madison Bell,W,13,0
+1930-11-01,Arkansas,SWC,Fred Thomsen,N,LSU,Southern,Russ Cohen,L,12,27
+1930-11-08,Arkansas,SWC,Fred Thomsen,H,Oklahoma State,MVC,Pappy Waldorf,L,0,26
+1930-11-15,Arkansas,SWC,Fred Thomsen,H,Baylor,SWC,Morley Jennings,L,7,22
+1930-11-27,Arkansas,SWC,Fred Thomsen,A,Centenary (LA),Ind,Homer Norton,L,6,7
+1930-10-11,Clemson,Southern,Josh Cody,N,North Carolina State,Southern,John Van Liew,W,27,0
+1930-10-23,Clemson,Southern,Josh Cody,A,South Carolina,Southern,Billy Laval,W,20,7
+1930-11-01,Clemson,Southern,Josh Cody,A,Tennessee,Southern,Bob Neyland,L,0,27
+1930-11-08,Clemson,Southern,Josh Cody,A,Virginia Military Institute,Southern,,W,32,0
+1930-11-15,Clemson,Southern,Josh Cody,A,Florida,Southern,Charlie Bachman,L,0,27
+1930-09-27,South Carolina,Southern,Billy Laval,A,Duke,Southern,Jimmy DeHart,W,22,0
+1930-10-04,South Carolina,Southern,Billy Laval,A,Georgia Tech,Southern,William Alexander,L,0,45
+1930-10-11,South Carolina,Southern,Billy Laval,H,LSU,Southern,Russ Cohen,W,7,6
+1930-10-23,South Carolina,Southern,Billy Laval,H,Clemson,Southern,Josh Cody,L,7,20
+1930-11-15,South Carolina,Southern,Billy Laval,H,Sewanee,Southern,Harvey Harmon,W,14,13
+1930-11-22,South Carolina,Southern,Billy Laval,H,North Carolina State,Southern,John Van Liew,W,19,0
+1930-11-27,South Carolina,Southern,Billy Laval,N,Auburn,Southern,Chet Wynne,L,7,25
+1930-10-04,Washington,PCC,James Phelan,H,Montana,PCC,Frank Millburn,W,27,0
+1930-10-11,Washington,PCC,James Phelan,H,Idaho,PCC,Leo Calland,W,27,0
+1930-10-18,Washington,PCC,James Phelan,A,Oregon,PCC,Clarence Spears,L,0,7
+1930-10-25,Washington,PCC,James Phelan,H,California,PCC,Nibs Price,W,13,0
+1930-11-08,Washington,PCC,James Phelan,A,Stanford,PCC,Pop Warner,L,7,25
+1930-11-15,Washington,PCC,James Phelan,H,Washington State,PCC,O.E. Hollingbery,L,0,3
+1930-11-27,Washington,PCC,James Phelan,A,USC,PCC,Howard Jones,L,0,32
+1930-09-27,Utah State,RMC,,H,Western State,RMC,Tefler Meade,W,31,0
+1930-10-04,Utah State,RMC,,A,Colorado College,RMC,W.T. VandeGraaff,W,8,7
+1930-10-11,Utah State,RMC,,H,Colorado,RMC,Myron Witham,T,0,0
+1930-10-18,Utah State,RMC,,A,USC,PCC,Howard Jones,L,0,65
+1930-10-25,Utah State,RMC,,H,Wyoming,RMC,John Rhodes,W,13,8
+1930-11-01,Utah State,RMC,,N,Brigham Young,RMC,Ott Romney,L,14,39
+1930-11-08,Utah State,RMC,,A,Denver,RMC,Jeff Cravath,L,7,32
+1930-11-15,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,13
+1930-11-27,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,41
+1930-10-04,Missouri,Big 6,Gwinn Henry,H,Colorado,RMC,Myron Witham,L,0,9
+1930-10-18,Missouri,Big 6,Gwinn Henry,A,New York University,Ind,,L,0,38
+1930-10-25,Missouri,Big 6,Gwinn Henry,H,Drake,MVC,Ossie Solem,W,14,13
+1930-11-01,Missouri,Big 6,Gwinn Henry,A,Kansas State,Big 6,Bo McMillin,L,13,20
+1930-11-08,Missouri,Big 6,Gwinn Henry,H,Iowa State,Big 6,C. Noel Workman,W,14,0
+1930-11-15,Missouri,Big 6,Gwinn Henry,A,Nebraska,Big 6,Dana Bible,T,0,0
+1930-11-22,Missouri,Big 6,Gwinn Henry,H,Kansas,Big 6,Bill Hargiss,L,0,32
+1930-11-27,Missouri,Big 6,Gwinn Henry,A,Oklahoma,Big 6,Adrian Lindsey,T,0,0
+1930-09-27,Montana State,RMC,Schubert Dyche,A,Idaho,PCC,Leo Calland,W,7,6
+1930-10-04,Montana State,RMC,Schubert Dyche,H,Regis (CO),Ind,,W,26,19
+1930-10-11,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,John Rhodes,W,20,13
+1930-10-18,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Frank Millburn,L,6,13
+1930-10-25,Montana State,RMC,Schubert Dyche,A,Nebraska,Big 6,Dana Bible,L,7,53
+1930-11-15,Montana State,RMC,Schubert Dyche,A,Brigham Young,RMC,Ott Romney,L,6,19
+1930-09-20,Denver,RMC,Jeff Cravath,H,Regis (CO),Ind,,W,40,0
+1930-10-04,Denver,RMC,Jeff Cravath,H,Colorado Mines,RMC,George Allen,W,16,0
+1930-10-11,Denver,RMC,Jeff Cravath,H,Colorado State,RMC,Harry Hughes,L,7,15
+1930-10-18,Denver,RMC,Jeff Cravath,H,Colorado College,RMC,W.T. VandeGraaff,W,6,0
+1930-10-25,Denver,RMC,Jeff Cravath,A,Utah,RMC,Ike Armstrong,L,0,59
+1930-11-01,Denver,RMC,Jeff Cravath,A,USC,PCC,Howard Jones,L,13,33
+1930-11-08,Denver,RMC,Jeff Cravath,H,Utah State,RMC,,W,32,7
+1930-11-15,Denver,RMC,Jeff Cravath,H,Wyoming,RMC,John Rhodes,W,19,7
+1930-11-27,Denver,RMC,Jeff Cravath,H,Colorado,RMC,Myron Witham,L,7,27
+1930-10-18,Washington & Jefferson,Ind,William Amos,A,Temple,Ind,Henry Miller,L,7,20
+1930-11-15,Washington & Jefferson,Ind,William Amos,H,Bucknell,Ind,Carl Snavely,W,7,6
+1930-11-22,Washington & Jefferson,Ind,William Amos,A,West Virginia,Ind,Rat Rogers,W,7,6
+1930-11-29,Washington & Jefferson,Ind,William Amos,A,Carnegie Mellon,Ind,Walter Steffen,L,0,26
+1930-10-11,Wisconsin,Western,Glenn Thistlethwaite,H,Chicago,Western,Amos Alonzo Stagg,W,34,0
+1930-10-18,Wisconsin,Western,Glenn Thistlethwaite,H,Pennsylvania,Ind,Lud Wray,W,27,0
+1930-10-25,Wisconsin,Western,Glenn Thistlethwaite,A,Purdue,Western,Noble Kizer,L,6,7
+1930-11-01,Wisconsin,Western,Glenn Thistlethwaite,A,Ohio State,Western,Sam Willaman,T,0,0
+1930-11-15,Wisconsin,Western,Glenn Thistlethwaite,A,Northwestern,Western,Dick Hanley,L,7,20
+1930-11-22,Wisconsin,Western,Glenn Thistlethwaite,H,Minnesota,Western,Fritz Crisler,W,14,0
+1930-10-10,Bucknell,Ind,Carl Snavely,A,Temple,Ind,Henry Miller,L,6,7
+1930-11-01,Bucknell,Ind,Carl Snavely,H,Penn State,Ind,Bob Higgins,W,19,7
+1930-11-08,Bucknell,Ind,Carl Snavely,N,Villanova,Ind,Harry Stuhldreher,W,20,14
+1930-11-15,Bucknell,Ind,Carl Snavely,A,Washington & Jefferson,Ind,William Amos,L,6,7
+1930-11-22,Bucknell,Ind,Carl Snavely,A,Fordham,Ind,Frank Cavanaugh,L,0,12
+1930-09-27,USC,PCC,Howard Jones,A,UCLA,PCC,William Spaulding,W,52,0
+1930-10-04,USC,PCC,Howard Jones,H,Oregon State,PCC,Paul Schissler,W,27,7
+1930-10-11,USC,PCC,Howard Jones,A,Washington State,PCC,O.E. Hollingbery,L,6,7
+1930-10-18,USC,PCC,Howard Jones,H,Utah State,RMC,,W,65,0
+1930-10-25,USC,PCC,Howard Jones,A,Stanford,PCC,Pop Warner,W,41,12
+1930-11-01,USC,PCC,Howard Jones,H,Denver,RMC,Jeff Cravath,W,33,13
+1930-11-08,USC,PCC,Howard Jones,H,California,PCC,Nibs Price,W,74,0
+1930-11-27,USC,PCC,Howard Jones,H,Washington,PCC,James Phelan,W,32,0
+1930-12-06,USC,PCC,Howard Jones,H,Notre Dame,Ind,Knute Rockne,L,0,27
+1930-10-04,Colorado Mines,RMC,George Allen,A,Denver,RMC,Jeff Cravath,L,0,16
+1930-10-18,Colorado Mines,RMC,George Allen,A,Colorado,RMC,Myron Witham,L,7,36
+1930-10-25,Colorado Mines,RMC,George Allen,H,Northern Colorado,RMC,William Saunders,L,0,7
+1930-11-08,Colorado Mines,RMC,George Allen,H,Western State,RMC,Tefler Meade,W,13,0
+1930-11-15,Colorado Mines,RMC,George Allen,A,Regis (CO),Ind,,L,9,13
+1930-11-28,Colorado Mines,RMC,George Allen,N,Colorado College,RMC,W.T. VandeGraaff,L,6,7
+1930-09-27,North Carolina State,Southern,John Van Liew,H,Davidson,Ind,Monk Younger,L,0,12
+1930-10-04,North Carolina State,Southern,John Van Liew,A,Florida,Southern,Charlie Bachman,L,0,27
+1930-10-11,North Carolina State,Southern,John Van Liew,N,Clemson,Southern,Josh Cody,L,0,27
+1930-10-16,North Carolina State,Southern,John Van Liew,H,Wake Forest,Ind,F.S. Miller,L,0,7
+1930-10-25,North Carolina State,Southern,John Van Liew,H,Mississippi State,Southern,Red Cagle,W,14,0
+1930-11-07,North Carolina State,Southern,John Van Liew,A,North Carolina,Southern,Chuck Collins,L,6,13
+1930-11-15,North Carolina State,Southern,John Van Liew,H,Duke,Southern,Jimmy DeHart,L,0,18
+1930-11-22,North Carolina State,Southern,John Van Liew,A,South Carolina,Southern,Billy Laval,L,0,19
+1930-10-04,Centenary (LA),Ind,Homer Norton,A,Texas,SWC,Clyde Littlefield,T,0,0
+1930-10-11,Centenary (LA),Ind,Homer Norton,A,Iowa,Western,Burton Ingwersen,W,19,12
+1930-10-25,Centenary (LA),Ind,Homer Norton,H,Baylor,SWC,Morley Jennings,W,7,2
+1930-11-01,Centenary (LA),Ind,Homer Norton,A,Texas A&M,SWC,Madison Bell,L,6,7
+1930-11-27,Centenary (LA),Ind,Homer Norton,H,Arkansas,SWC,Fred Thomsen,W,7,6
+1930-10-04,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Jimmy Crowley,T,0,0
+1930-10-11,Michigan,Western,Harry Kipke,H,Purdue,Western,Noble Kizer,W,14,13
+1930-10-18,Michigan,Western,Harry Kipke,A,Ohio State,Western,Sam Willaman,W,13,0
+1930-10-25,Michigan,Western,Harry Kipke,H,Illinois,Western,Robert Zuppke,W,15,7
+1930-11-08,Michigan,Western,Harry Kipke,A,Harvard,Ind,,W,6,3
+1930-11-15,Michigan,Western,Harry Kipke,H,Minnesota,Western,Fritz Crisler,W,7,0
+1930-11-22,Michigan,Western,Harry Kipke,H,Chicago,Western,Amos Alonzo Stagg,W,16,0
+1930-10-10,Detroit Mercy,Ind,Gus Dorais,H,Grinnell,MVC,Lester Watt,W,47,6
+1930-10-17,Detroit Mercy,Ind,Gus Dorais,H,West Virginia,Ind,Rat Rogers,W,23,0
+1930-11-01,Detroit Mercy,Ind,Gus Dorais,H,Iowa,Western,Burton Ingwersen,L,3,7
+1930-11-08,Detroit Mercy,Ind,Gus Dorais,H,Fordham,Ind,Frank Cavanaugh,L,7,13
+1930-11-15,Detroit Mercy,Ind,Gus Dorais,A,Marquette,Ind,Frank Murray,T,0,0
+1930-11-22,Detroit Mercy,Ind,Gus Dorais,A,Michigan State,Ind,Jimmy Crowley,T,0,0
+1930-11-29,Detroit Mercy,Ind,Gus Dorais,H,Georgetown,Ind,Tommy Mills,W,12,0
+1930-10-10,Temple,Ind,Henry Miller,H,Bucknell,Ind,Carl Snavely,W,7,6
+1930-10-18,Temple,Ind,Henry Miller,H,Washington & Jefferson,Ind,William Amos,W,20,7
+1930-10-25,Temple,Ind,Henry Miller,N,Villanova,Ind,Harry Stuhldreher,L,7,8
+1930-11-01,Temple,Ind,Henry Miller,H,Wake Forest,Ind,F.S. Miller,W,36,0
+1930-11-22,Temple,Ind,Henry Miller,H,Carnegie Mellon,Ind,Walter Steffen,L,13,32
+1930-11-29,Temple,Ind,Henry Miller,H,Drake,MVC,Ossie Solem,L,20,49
+1930-10-04,Notre Dame,Ind,Knute Rockne,H,SMU,SWC,Ray Morrison,W,20,14
+1930-10-11,Notre Dame,Ind,Knute Rockne,H,Navy,Ind,William Ingram,W,26,2
+1930-10-18,Notre Dame,Ind,Knute Rockne,H,Carnegie Mellon,Ind,Walter Steffen,W,21,6
+1930-10-25,Notre Dame,Ind,Knute Rockne,A,Pitt,Ind,Jock Sutherland,W,35,19
+1930-11-01,Notre Dame,Ind,Knute Rockne,H,Indiana,Western,Pat Page,W,27,0
+1930-11-08,Notre Dame,Ind,Knute Rockne,A,Pennsylvania,Ind,Lud Wray,W,60,20
+1930-11-15,Notre Dame,Ind,Knute Rockne,H,Drake,MVC,Ossie Solem,W,28,7
+1930-11-22,Notre Dame,Ind,Knute Rockne,A,Northwestern,Western,Dick Hanley,W,14,0
+1930-11-29,Notre Dame,Ind,Knute Rockne,H,Army,Ind,Arthur Parmalee,W,7,6
+1930-12-06,Notre Dame,Ind,Knute Rockne,A,USC,PCC,Howard Jones,W,27,0
+1930-10-04,Pitt,Ind,Jock Sutherland,A,West Virginia,Ind,Rat Rogers,W,16,0
+1930-10-18,Pitt,Ind,Jock Sutherland,A,Syracuse,Ind,Vic Hanson,W,14,0
+1930-10-25,Pitt,Ind,Jock Sutherland,H,Notre Dame,Ind,Knute Rockne,L,19,35
+1930-11-01,Pitt,Ind,Jock Sutherland,A,Nebraska,Big 6,Dana Bible,T,0,0
+1930-11-08,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Walter Steffen,W,7,6
+1930-11-15,Pitt,Ind,Jock Sutherland,A,Ohio State,Western,Sam Willaman,L,7,16
+1930-11-26,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Bob Higgins,W,19,12
+1930-10-11,Carnegie Mellon,Ind,Walter Steffen,H,Georgia Tech,Southern,William Alexander,W,31,0
+1930-10-18,Carnegie Mellon,Ind,Walter Steffen,A,Notre Dame,Ind,Knute Rockne,L,6,21
+1930-11-01,Carnegie Mellon,Ind,Walter Steffen,H,New York University,Ind,,L,7,20
+1930-11-08,Carnegie Mellon,Ind,Walter Steffen,A,Pitt,Ind,Jock Sutherland,L,6,7
+1930-11-22,Carnegie Mellon,Ind,Walter Steffen,A,Temple,Ind,Henry Miller,W,32,13
+1930-11-29,Carnegie Mellon,Ind,Walter Steffen,H,Washington & Jefferson,Ind,William Amos,W,26,0
+1930-10-11,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,Nibs Price,L,6,7
+1930-10-17,Saint Mary's (CA),Ind,Slip Madigan,A,UCLA,PCC,William Spaulding,W,21,6
+1930-10-25,Saint Mary's (CA),Ind,Slip Madigan,A,Gonzaga,Ind,Ray Flaherty,W,41,0
+1930-11-15,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Frank Cavanaugh,W,20,12
+1930-11-27,Saint Mary's (CA),Ind,Slip Madigan,H,Oregon,PCC,Clarence Spears,W,7,6
+1930-09-27,Wyoming,RMC,John Rhodes,A,Brigham Young,RMC,Ott Romney,L,12,19
+1930-10-04,Wyoming,RMC,John Rhodes,A,Utah,RMC,Ike Armstrong,L,0,72
+1930-10-11,Wyoming,RMC,John Rhodes,H,Montana State,RMC,Schubert Dyche,L,13,20
+1930-10-25,Wyoming,RMC,John Rhodes,A,Utah State,RMC,,L,8,13
+1930-11-01,Wyoming,RMC,John Rhodes,H,Northern Colorado,RMC,William Saunders,T,6,6
+1930-11-08,Wyoming,RMC,John Rhodes,A,Colorado State,RMC,Harry Hughes,W,21,6
+1930-11-15,Wyoming,RMC,John Rhodes,A,Denver,RMC,Jeff Cravath,L,7,19
+1930-09-27,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,John Rhodes,W,19,12
+1930-10-11,Brigham Young,RMC,Ott Romney,A,Northern Colorado,RMC,William Saunders,T,7,7
+1930-10-18,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,7,34
+1930-10-25,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,25,0
+1930-11-01,Brigham Young,RMC,Ott Romney,N,Utah State,RMC,,W,39,14
+1930-11-15,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,W,19,6
+1930-11-22,Brigham Young,RMC,Ott Romney,A,Regis (CO),Ind,,W,18,6
+1930-10-04,Yale,Ind,Mal Stevens,H,Maryland,Southern,Curley Byrd,W,40,13
+1930-10-11,Yale,Ind,Mal Stevens,H,Georgia,Southern,Harry Mehre,L,14,18
+1930-10-18,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,W,21,0
+1930-10-25,Yale,Ind,Mal Stevens,H,Army,Ind,Arthur Parmalee,T,7,7
+1930-11-01,Yale,Ind,Mal Stevens,H,Dartmouth,Ind,Jack Cannell,T,0,0
+1930-11-15,Yale,Ind,Mal Stevens,A,Princeton,Ind,,W,10,7
+1930-11-22,Yale,Ind,Mal Stevens,H,Harvard,Ind,,L,0,13
+1930-10-03,Grinnell,MVC,Lester Watt,H,Marquette,Ind,Frank Murray,L,0,6
+1930-10-10,Grinnell,MVC,Lester Watt,A,Detroit Mercy,Ind,Gus Dorais,L,6,47
+1930-10-18,Grinnell,MVC,Lester Watt,A,Drake,MVC,Ossie Solem,L,7,20
+1930-11-01,Grinnell,MVC,Lester Watt,H,Creighton,MVC,,W,19,2
+1930-11-08,Grinnell,MVC,Lester Watt,A,Washington (MO),MVC,Albert Sharpe,L,0,6
+1930-10-04,Georgia Tech,Southern,William Alexander,H,South Carolina,Southern,Billy Laval,W,45,0
+1930-10-11,Georgia Tech,Southern,William Alexander,A,Carnegie Mellon,Ind,Walter Steffen,L,0,31
+1930-10-18,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Chet Wynne,W,14,12
+1930-10-25,Georgia Tech,Southern,William Alexander,H,Tulane,Southern,Bernie Bierman,L,0,28
+1930-11-01,Georgia Tech,Southern,William Alexander,A,North Carolina,Southern,Chuck Collins,T,6,6
+1930-11-08,Georgia Tech,Southern,William Alexander,H,Vanderbilt,Southern,Dan McGugin,L,0,6
+1930-11-15,Georgia Tech,Southern,William Alexander,A,Pennsylvania,Ind,Lud Wray,L,7,34
+1930-11-27,Georgia Tech,Southern,William Alexander,H,Florida,Southern,Charlie Bachman,L,7,55
+1930-12-06,Georgia Tech,Southern,William Alexander,H,Georgia,Southern,Harry Mehre,L,0,13
+1930-09-27,Wake Forest,Ind,F.S. Miller,A,North Carolina,Southern,Chuck Collins,L,7,13
+1930-10-16,Wake Forest,Ind,F.S. Miller,A,North Carolina State,Southern,John Van Liew,W,7,0
+1930-11-01,Wake Forest,Ind,F.S. Miller,A,Temple,Ind,Henry Miller,L,0,36
+1930-11-22,Wake Forest,Ind,F.S. Miller,H,Duke,Southern,Jimmy DeHart,T,13,13
+1930-11-27,Wake Forest,Ind,F.S. Miller,N,Davidson,Ind,Monk Younger,W,13,2
+1930-10-18,Mississippi State,Southern,Red Cagle,H,LSU,Southern,Russ Cohen,W,8,6
+1930-10-25,Mississippi State,Southern,Red Cagle,A,North Carolina State,Southern,John Van Liew,L,0,14
+1930-11-01,Mississippi State,Southern,Red Cagle,A,Tulane,Southern,Bernie Bierman,L,0,53
+1930-11-15,Mississippi State,Southern,Red Cagle,A,Auburn,Southern,Chet Wynne,W,7,6
+1930-11-27,Mississippi State,Southern,Red Cagle,H,Ole Miss,Southern,,L,0,20
+1930-10-18,Virginia Military Institute,Southern,,H,Virginia,Southern,Earl Abell,L,0,13
+1930-10-25,Virginia Military Institute,Southern,,N,Maryland,Southern,Curley Byrd,L,0,20
+1930-11-01,Virginia Military Institute,Southern,,H,Davidson,Ind,Monk Younger,W,6,0
+1930-11-08,Virginia Military Institute,Southern,,H,Clemson,Southern,Josh Cody,L,0,32
+1930-11-15,Virginia Military Institute,Southern,,A,Kentucky,Southern,Harry Gamage,L,0,26
+1930-11-27,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,O.E. Neale,L,0,24
+1930-10-18,Kansas State,Big 6,Bo McMillin,H,Kansas,Big 6,Bill Hargiss,L,0,14
+1930-10-25,Kansas State,Big 6,Bo McMillin,A,Oklahoma,Big 6,Adrian Lindsey,L,0,7
+1930-11-01,Kansas State,Big 6,Bo McMillin,H,Missouri,Big 6,Gwinn Henry,W,20,13
+1930-11-08,Kansas State,Big 6,Bo McMillin,A,West Virginia,Ind,Rat Rogers,L,7,23
+1930-11-15,Kansas State,Big 6,Bo McMillin,A,Iowa State,Big 6,C. Noel Workman,W,13,0
+1930-11-27,Kansas State,Big 6,Bo McMillin,A,Nebraska,Big 6,Dana Bible,W,10,9
+1930-10-18,Army,Ind,Arthur Parmalee,A,Harvard,Ind,,W,6,0
+1930-10-25,Army,Ind,Arthur Parmalee,A,Yale,Ind,Mal Stevens,T,7,7
+1930-11-08,Army,Ind,Arthur Parmalee,H,Illinois,Western,Robert Zuppke,W,13,0
+1930-11-29,Army,Ind,Arthur Parmalee,A,Notre Dame,Ind,Knute Rockne,L,6,7
+1930-12-13,Army,Ind,Arthur Parmalee,H,Navy,Ind,William Ingram,W,6,0
+1930-10-03,Marquette,Ind,Frank Murray,A,Grinnell,MVC,Lester Watt,W,6,0
+1930-10-11,Marquette,Ind,Frank Murray,H,Drake,MVC,Ossie Solem,W,12,0
+1930-10-18,Marquette,Ind,Frank Murray,A,Creighton,MVC,,W,19,7
+1930-11-08,Marquette,Ind,Frank Murray,H,Iowa,Western,Burton Ingwersen,W,7,0
+1930-11-15,Marquette,Ind,Frank Murray,H,Detroit Mercy,Ind,Gus Dorais,T,0,0
+1930-10-18,Dartmouth,Ind,Jack Cannell,H,Columbia,Ind,Lou Little,W,52,0
+1930-10-25,Dartmouth,Ind,Jack Cannell,A,Harvard,Ind,,W,7,2
+1930-11-01,Dartmouth,Ind,Jack Cannell,A,Yale,Ind,Mal Stevens,T,0,0
+1930-11-15,Dartmouth,Ind,Jack Cannell,A,Cornell,Ind,Gilmour Dobie,W,19,13
+1930-11-29,Dartmouth,Ind,Jack Cannell,A,Stanford,PCC,Pop Warner,L,7,14
+1930-09-27,UCLA,PCC,William Spaulding,H,USC,PCC,Howard Jones,L,0,52
+1930-10-17,UCLA,PCC,William Spaulding,H,Saint Mary's (CA),Ind,Slip Madigan,L,6,21
+1930-10-31,UCLA,PCC,William Spaulding,A,Stanford,PCC,Pop Warner,L,0,20
+1930-11-08,UCLA,PCC,William Spaulding,A,Oregon,PCC,Clarence Spears,L,0,7
+1930-11-21,UCLA,PCC,William Spaulding,H,Oregon State,PCC,Paul Schissler,L,0,19
+1930-11-29,UCLA,PCC,William Spaulding,H,Idaho,PCC,Leo Calland,W,20,6
+1930-10-11,Auburn,Southern,Chet Wynne,A,Florida,Southern,Charlie Bachman,L,0,7
+1930-10-18,Auburn,Southern,Chet Wynne,A,Georgia Tech,Southern,William Alexander,L,12,14
+1930-10-25,Auburn,Southern,Chet Wynne,N,Georgia,Southern,Harry Mehre,L,7,39
+1930-11-08,Auburn,Southern,Chet Wynne,A,Tulane,Southern,Bernie Bierman,L,0,21
+1930-11-15,Auburn,Southern,Chet Wynne,H,Mississippi State,Southern,Red Cagle,L,6,7
+1930-11-22,Auburn,Southern,Chet Wynne,A,Vanderbilt,Southern,Dan McGugin,L,0,27
+1930-11-27,Auburn,Southern,Chet Wynne,N,South Carolina,Southern,Billy Laval,W,25,7
+1930-10-04,Northwestern,Western,Dick Hanley,H,Tulane,Southern,Bernie Bierman,W,14,0
+1930-10-11,Northwestern,Western,Dick Hanley,H,Ohio State,Western,Sam Willaman,W,19,2
+1930-10-18,Northwestern,Western,Dick Hanley,A,Illinois,Western,Robert Zuppke,W,32,0
+1930-11-01,Northwestern,Western,Dick Hanley,A,Minnesota,Western,Fritz Crisler,W,27,6
+1930-11-08,Northwestern,Western,Dick Hanley,A,Indiana,Western,Pat Page,W,25,0
+1930-11-15,Northwestern,Western,Dick Hanley,H,Wisconsin,Western,Glenn Thistlethwaite,W,20,7
+1930-11-22,Northwestern,Western,Dick Hanley,H,Notre Dame,Ind,Knute Rockne,L,0,14
+1930-10-04,Kansas,Big 6,Bill Hargiss,A,Creighton,MVC,,W,26,0
+1930-10-18,Kansas,Big 6,Bill Hargiss,A,Kansas State,Big 6,Bo McMillin,W,14,0
+1930-10-25,Kansas,Big 6,Bill Hargiss,H,Iowa State,Big 6,C. Noel Workman,W,20,6
+1930-11-01,Kansas,Big 6,Bill Hargiss,A,Pennsylvania,Ind,Lud Wray,L,6,21
+1930-11-08,Kansas,Big 6,Bill Hargiss,H,Nebraska,Big 6,Dana Bible,L,0,16
+1930-11-15,Kansas,Big 6,Bill Hargiss,H,Oklahoma,Big 6,Adrian Lindsey,W,13,0
+1930-11-22,Kansas,Big 6,Bill Hargiss,A,Missouri,Big 6,Gwinn Henry,W,32,0
+1930-10-11,LSU,Southern,Russ Cohen,A,South Carolina,Southern,Billy Laval,L,6,7
+1930-10-18,LSU,Southern,Russ Cohen,A,Mississippi State,Southern,Red Cagle,L,6,8
+1930-10-25,LSU,Southern,Russ Cohen,H,Sewanee,Southern,Harvey Harmon,W,12,0
+1930-11-01,LSU,Southern,Russ Cohen,N,Arkansas,SWC,Fred Thomsen,W,27,12
+1930-11-08,LSU,Southern,Russ Cohen,H,Ole Miss,Southern,,W,6,0
+1930-11-15,LSU,Southern,Russ Cohen,A,Alabama,Southern,Wallace Wade,L,0,33
+1930-11-27,LSU,Southern,Russ Cohen,A,Tulane,Southern,Bernie Bierman,L,7,12
+1930-10-11,Pennsylvania,Ind,Lud Wray,H,Virginia,Southern,Earl Abell,W,40,6
+1930-10-18,Pennsylvania,Ind,Lud Wray,A,Wisconsin,Western,Glenn Thistlethwaite,L,0,27
+1930-11-01,Pennsylvania,Ind,Lud Wray,H,Kansas,Big 6,Bill Hargiss,W,21,6
+1930-11-08,Pennsylvania,Ind,Lud Wray,H,Notre Dame,Ind,Knute Rockne,L,20,60
+1930-11-15,Pennsylvania,Ind,Lud Wray,H,Georgia Tech,Southern,William Alexander,W,34,7
+1930-11-27,Pennsylvania,Ind,Lud Wray,H,Cornell,Ind,Gilmour Dobie,L,7,13
+1930-12-06,Pennsylvania,Ind,Lud Wray,H,Navy,Ind,William Ingram,L,0,26
+1930-10-04,Iowa,Western,Burton Ingwersen,H,Oklahoma State,MVC,Pappy Waldorf,L,0,6
+1930-10-11,Iowa,Western,Burton Ingwersen,H,Centenary (LA),Ind,Homer Norton,L,12,19
+1930-10-18,Iowa,Western,Burton Ingwersen,H,Purdue,Western,Noble Kizer,L,0,20
+1930-11-01,Iowa,Western,Burton Ingwersen,A,Detroit Mercy,Ind,Gus Dorais,W,7,3
+1930-11-08,Iowa,Western,Burton Ingwersen,A,Marquette,Ind,Frank Murray,L,0,7
+1930-11-15,Iowa,Western,Burton Ingwersen,H,Penn State,Ind,Bob Higgins,W,19,0
+1930-11-22,Iowa,Western,Burton Ingwersen,H,Nebraska,Big 6,Dana Bible,W,12,7
+1930-10-18,Columbia,Ind,Lou Little,A,Dartmouth,Ind,Jack Cannell,L,0,52
+1930-11-01,Columbia,Ind,Lou Little,H,Cornell,Ind,Gilmour Dobie,W,10,7
+1930-11-08,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,L,0,54
+1930-11-15,Columbia,Ind,Lou Little,A,Brown,Ind,DeOrmond McLaughry,L,0,6
+1930-11-27,Columbia,Ind,Lou Little,H,Syracuse,Ind,Vic Hanson,L,7,19
+1930-10-04,Texas,SWC,Clyde Littlefield,H,Centenary (LA),Ind,Homer Norton,T,0,0
+1930-10-18,Texas,SWC,Clyde Littlefield,N,Oklahoma,Big 6,Adrian Lindsey,W,17,7
+1930-10-25,Texas,SWC,Clyde Littlefield,A,Rice,SWC,Jack Meagher,L,0,6
+1930-11-01,Texas,SWC,Clyde Littlefield,H,SMU,SWC,Ray Morrison,W,25,7
+1930-11-08,Texas,SWC,Clyde Littlefield,A,Baylor,SWC,Morley Jennings,W,14,0
+1930-11-15,Texas,SWC,Clyde Littlefield,A,Texas Christian,SWC,Francis Schmidt,W,7,0
+1930-11-27,Texas,SWC,Clyde Littlefield,H,Texas A&M,SWC,Madison Bell,W,26,0
+1930-10-11,Texas Christian,SWC,Francis Schmidt,H,Arkansas,SWC,Fred Thomsen,W,40,0
+1930-10-18,Texas Christian,SWC,Francis Schmidt,A,Texas A&M,SWC,Madison Bell,W,3,0
+1930-11-08,Texas Christian,SWC,Francis Schmidt,A,Rice,SWC,Jack Meagher,W,20,0
+1930-11-15,Texas Christian,SWC,Francis Schmidt,H,Texas,SWC,Clyde Littlefield,L,0,7
+1930-11-22,Texas Christian,SWC,Francis Schmidt,H,Baylor,SWC,Morley Jennings,L,14,35
+1930-11-29,Texas Christian,SWC,Francis Schmidt,A,SMU,SWC,Ray Morrison,W,13,0
+1930-10-11,New York University,Ind,,H,Villanova,Ind,Harry Stuhldreher,W,20,6
+1930-10-18,New York University,Ind,,H,Missouri,Big 6,Gwinn Henry,W,38,0
+1930-10-25,New York University,Ind,,N,Fordham,Ind,Frank Cavanaugh,L,0,7
+1930-11-01,New York University,Ind,,A,Carnegie Mellon,Ind,Walter Steffen,W,20,7
+1930-11-08,New York University,Ind,,H,Georgia,Southern,Harry Mehre,L,6,7
+1930-11-15,New York University,Ind,,H,Georgetown,Ind,Tommy Mills,W,2,0
+1930-12-06,New York University,Ind,,H,Colgate,Ind,Andrew Kerr,L,6,7
+1930-10-04,Oregon,PCC,Clarence Spears,N,Drake,MVC,Ossie Solem,W,14,7
+1930-10-18,Oregon,PCC,Clarence Spears,H,Washington,PCC,James Phelan,W,7,0
+1930-10-25,Oregon,PCC,Clarence Spears,H,Idaho,PCC,Leo Calland,W,20,6
+1930-11-08,Oregon,PCC,Clarence Spears,H,UCLA,PCC,William Spaulding,W,7,0
+1930-11-15,Oregon,PCC,Clarence Spears,A,Oregon State,PCC,Paul Schissler,L,0,15
+1930-11-27,Oregon,PCC,Clarence Spears,A,Saint Mary's (CA),Ind,Slip Madigan,L,6,7
+1930-10-11,Brown,Ind,DeOrmond McLaughry,A,Princeton,Ind,,W,7,0
+1930-10-18,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Mal Stevens,L,0,21
+1930-11-01,Brown,Ind,DeOrmond McLaughry,A,Syracuse,Ind,Vic Hanson,T,16,16
+1930-11-15,Brown,Ind,DeOrmond McLaughry,H,Columbia,Ind,Lou Little,W,6,0
+1930-11-29,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,0,27
+1930-10-11,Tennessee,Southern,Bob Neyland,H,Ole Miss,Southern,,W,27,0
+1930-10-18,Tennessee,Southern,Bob Neyland,A,Alabama,Southern,Wallace Wade,L,6,18
+1930-10-25,Tennessee,Southern,Bob Neyland,H,North Carolina,Southern,Chuck Collins,W,9,7
+1930-11-01,Tennessee,Southern,Bob Neyland,H,Clemson,Southern,Josh Cody,W,27,0
+1930-11-15,Tennessee,Southern,Bob Neyland,A,Vanderbilt,Southern,Dan McGugin,W,13,0
+1930-11-27,Tennessee,Southern,Bob Neyland,H,Kentucky,Southern,Harry Gamage,W,8,0
+1930-12-06,Tennessee,Southern,Bob Neyland,A,Florida,Southern,Charlie Bachman,W,13,6
+1930-09-27,Oregon State,PCC,Paul Schissler,H,Gonzaga,Ind,Ray Flaherty,W,16,6
+1930-10-04,Oregon State,PCC,Paul Schissler,A,USC,PCC,Howard Jones,L,7,27
+1930-10-18,Oregon State,PCC,Paul Schissler,A,Stanford,PCC,Pop Warner,L,7,13
+1930-11-01,Oregon State,PCC,Paul Schissler,H,Washington State,PCC,O.E. Hollingbery,L,7,14
+1930-11-15,Oregon State,PCC,Paul Schissler,H,Oregon,PCC,Clarence Spears,W,15,0
+1930-11-21,Oregon State,PCC,Paul Schissler,A,UCLA,PCC,William Spaulding,W,19,0
+1930-11-27,Oregon State,PCC,Paul Schissler,N,West Virginia,Ind,Rat Rogers,W,12,0
+1930-10-04,Alabama,Southern,Wallace Wade,H,Ole Miss,Southern,,W,64,0
+1930-10-11,Alabama,Southern,Wallace Wade,H,Sewanee,Southern,Harvey Harmon,W,25,0
+1930-10-18,Alabama,Southern,Wallace Wade,H,Tennessee,Southern,Bob Neyland,W,18,6
+1930-10-25,Alabama,Southern,Wallace Wade,H,Vanderbilt,Southern,Dan McGugin,W,12,7
+1930-11-01,Alabama,Southern,Wallace Wade,A,Kentucky,Southern,Harry Gamage,W,19,0
+1930-11-08,Alabama,Southern,Wallace Wade,A,Florida,Southern,Charlie Bachman,W,20,0
+1930-11-15,Alabama,Southern,Wallace Wade,H,LSU,Southern,Russ Cohen,W,33,0
+1930-11-27,Alabama,Southern,Wallace Wade,H,Georgia,Southern,Harry Mehre,W,13,0
+1931-01-01,Alabama,Southern,Wallace Wade,N,Washington State,PCC,O.E. Hollingbery,W,24,0
+1930-10-04,Purdue,Western,Noble Kizer,H,Baylor,SWC,Morley Jennings,W,20,7
+1930-10-11,Purdue,Western,Noble Kizer,A,Michigan,Western,Harry Kipke,L,13,14
+1930-10-18,Purdue,Western,Noble Kizer,A,Iowa,Western,Burton Ingwersen,W,20,0
+1930-10-25,Purdue,Western,Noble Kizer,H,Wisconsin,Western,Glenn Thistlethwaite,W,7,6
+1930-11-01,Purdue,Western,Noble Kizer,A,Illinois,Western,Robert Zuppke,W,25,0
+1930-11-08,Purdue,Western,Noble Kizer,A,Chicago,Western,Amos Alonzo Stagg,W,26,7
+1930-11-22,Purdue,Western,Noble Kizer,H,Indiana,Western,Pat Page,L,6,7
+1930-10-04,Nebraska,Big 6,Dana Bible,H,Texas A&M,SWC,Madison Bell,W,13,0
+1930-10-11,Nebraska,Big 6,Dana Bible,A,Oklahoma,Big 6,Adrian Lindsey,L,7,20
+1930-10-18,Nebraska,Big 6,Dana Bible,A,Iowa State,Big 6,C. Noel Workman,W,14,12
+1930-10-25,Nebraska,Big 6,Dana Bible,H,Montana State,RMC,Schubert Dyche,W,53,7
+1930-11-01,Nebraska,Big 6,Dana Bible,H,Pitt,Ind,Jock Sutherland,T,0,0
+1930-11-08,Nebraska,Big 6,Dana Bible,A,Kansas,Big 6,Bill Hargiss,W,16,0
+1930-11-15,Nebraska,Big 6,Dana Bible,H,Missouri,Big 6,Gwinn Henry,T,0,0
+1930-11-22,Nebraska,Big 6,Dana Bible,A,Iowa,Western,Burton Ingwersen,L,7,12
+1930-11-27,Nebraska,Big 6,Dana Bible,H,Kansas State,Big 6,Bo McMillin,L,9,10
+1930-10-04,West Virginia,Ind,Rat Rogers,H,Pitt,Ind,Jock Sutherland,L,0,16
+1930-10-11,West Virginia,Ind,Rat Rogers,N,Washington & Lee,Southern,Eugene Oberst,W,33,13
+1930-10-17,West Virginia,Ind,Rat Rogers,A,Detroit Mercy,Ind,Gus Dorais,L,0,23
+1930-10-24,West Virginia,Ind,Rat Rogers,A,Georgetown,Ind,Tommy Mills,W,14,7
+1930-11-01,West Virginia,Ind,Rat Rogers,A,Fordham,Ind,Frank Cavanaugh,L,2,18
+1930-11-08,West Virginia,Ind,Rat Rogers,H,Kansas State,Big 6,Bo McMillin,W,23,7
+1930-11-22,West Virginia,Ind,Rat Rogers,H,Washington & Jefferson,Ind,William Amos,L,6,7
+1930-11-27,West Virginia,Ind,Rat Rogers,N,Oregon State,PCC,Paul Schissler,L,0,12
+1930-10-18,Harvard,Ind,,H,Army,Ind,Arthur Parmalee,L,0,6
+1930-10-25,Harvard,Ind,,H,Dartmouth,Ind,Jack Cannell,L,2,7
+1930-11-08,Harvard,Ind,,H,Michigan,Western,Harry Kipke,L,3,6
+1930-11-22,Harvard,Ind,,A,Yale,Ind,Mal Stevens,W,13,0
+1930-10-04,Oklahoma State,MVC,Pappy Waldorf,A,Iowa,Western,Burton Ingwersen,W,6,0
+1930-10-11,Oklahoma State,MVC,Pappy Waldorf,A,Indiana,Western,Pat Page,T,7,7
+1930-10-25,Oklahoma State,MVC,Pappy Waldorf,H,Washington (MO),MVC,Albert Sharpe,W,28,7
+1930-11-08,Oklahoma State,MVC,Pappy Waldorf,A,Arkansas,SWC,Fred Thomsen,W,26,0
+1930-11-22,Oklahoma State,MVC,Pappy Waldorf,H,Oklahoma,Big 6,Adrian Lindsey,W,7,0
+1930-11-27,Oklahoma State,MVC,Pappy Waldorf,A,Creighton,MVC,,W,13,0
+1930-10-04,Colorado,RMC,Myron Witham,A,Missouri,Big 6,Gwinn Henry,W,9,0
+1930-10-11,Colorado,RMC,Myron Witham,A,Utah State,RMC,,T,0,0
+1930-10-18,Colorado,RMC,Myron Witham,H,Colorado Mines,RMC,George Allen,W,36,7
+1930-10-25,Colorado,RMC,Myron Witham,H,Colorado State,RMC,Harry Hughes,W,7,0
+1930-11-01,Colorado,RMC,Myron Witham,A,Colorado College,RMC,W.T. VandeGraaff,W,14,13
+1930-11-08,Colorado,RMC,Myron Witham,A,Northern Colorado,RMC,William Saunders,W,27,7
+1930-11-15,Colorado,RMC,Myron Witham,H,Utah,RMC,Ike Armstrong,L,0,34
+1930-11-27,Colorado,RMC,Myron Witham,A,Denver,RMC,Jeff Cravath,W,27,7
+1930-09-27,Colorado State,RMC,Harry Hughes,A,Regis (CO),Ind,,L,7,14
+1930-10-11,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Jeff Cravath,W,15,7
+1930-10-18,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,William Saunders,W,26,0
+1930-10-25,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,L,0,7
+1930-11-01,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,L,0,39
+1930-11-08,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Rhodes,L,6,21
+1930-11-15,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,13,0
+1930-11-22,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,W.T. VandeGraaff,T,0,0
+1930-10-18,Rice,SWC,Jack Meagher,A,Arkansas,SWC,Fred Thomsen,L,6,7
+1930-10-25,Rice,SWC,Jack Meagher,H,Texas,SWC,Clyde Littlefield,W,6,0
+1930-11-01,Rice,SWC,Jack Meagher,H,Sewanee,Southern,Harvey Harmon,W,12,0
+1930-11-08,Rice,SWC,Jack Meagher,H,Texas Christian,SWC,Francis Schmidt,L,0,20
+1930-11-15,Rice,SWC,Jack Meagher,A,Texas A&M,SWC,Madison Bell,W,7,0
+1930-11-22,Rice,SWC,Jack Meagher,H,SMU,SWC,Ray Morrison,L,0,32
+1930-11-29,Rice,SWC,Jack Meagher,A,Baylor,SWC,Morley Jennings,L,4,7
+1930-12-06,Rice,SWC,Jack Meagher,H,Iowa State,Big 6,C. Noel Workman,W,14,7
+1930-10-04,Texas A&M,SWC,Madison Bell,A,Nebraska,Big 6,Dana Bible,L,0,13
+1930-10-11,Texas A&M,SWC,Madison Bell,H,Tulane,Southern,Bernie Bierman,L,9,19
+1930-10-18,Texas A&M,SWC,Madison Bell,H,Texas Christian,SWC,Francis Schmidt,L,0,3
+1930-10-25,Texas A&M,SWC,Madison Bell,A,Arkansas,SWC,Fred Thomsen,L,0,13
+1930-11-01,Texas A&M,SWC,Madison Bell,H,Centenary (LA),Ind,Homer Norton,W,7,6
+1930-11-08,Texas A&M,SWC,Madison Bell,A,SMU,SWC,Ray Morrison,L,7,13
+1930-11-15,Texas A&M,SWC,Madison Bell,H,Rice,SWC,Jack Meagher,L,0,7
+1930-11-27,Texas A&M,SWC,Madison Bell,A,Texas,SWC,Clyde Littlefield,L,0,26
+1930-09-27,Davidson,Ind,Monk Younger,A,North Carolina State,Southern,John Van Liew,W,12,0
+1930-10-11,Davidson,Ind,Monk Younger,A,Duke,Southern,Jimmy DeHart,L,0,12
+1930-10-25,Davidson,Ind,Monk Younger,H,Virginia Tech,Southern,O.E. Neale,L,19,20
+1930-11-01,Davidson,Ind,Monk Younger,A,Virginia Military Institute,Southern,,L,0,6
+1930-11-15,Davidson,Ind,Monk Younger,H,North Carolina,Southern,Chuck Collins,W,7,6
+1930-11-27,Davidson,Ind,Monk Younger,N,Wake Forest,Ind,F.S. Miller,L,2,13
+1930-10-25,Washington (MO),MVC,Albert Sharpe,A,Oklahoma State,MVC,Pappy Waldorf,L,7,28
+1930-11-01,Washington (MO),MVC,Albert Sharpe,A,Drake,MVC,Ossie Solem,L,0,12
+1930-11-08,Washington (MO),MVC,Albert Sharpe,H,Grinnell,MVC,Lester Watt,W,6,0
+1930-11-15,Washington (MO),MVC,Albert Sharpe,H,Creighton,MVC,,W,13,0
+1930-10-04,Michigan State,Ind,Jimmy Crowley,A,Michigan,Western,Harry Kipke,T,0,0
+1930-10-18,Michigan State,Ind,Jimmy Crowley,H,Colgate,Ind,Andrew Kerr,W,14,7
+1930-10-31,Michigan State,Ind,Jimmy Crowley,A,Georgetown,Ind,Tommy Mills,L,13,14
+1930-11-22,Michigan State,Ind,Jimmy Crowley,H,Detroit Mercy,Ind,Gus Dorais,T,0,0
+1930-10-11,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,Glenn Thistlethwaite,L,0,34
+1930-10-18,Chicago,Western,Amos Alonzo Stagg,H,Florida,Southern,Charlie Bachman,L,0,19
+1930-10-25,Chicago,Western,Amos Alonzo Stagg,H,Ole Miss,Southern,,T,0,0
+1930-11-01,Chicago,Western,Amos Alonzo Stagg,H,Princeton,Ind,,T,0,0
+1930-11-08,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Noble Kizer,L,7,26
+1930-11-15,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,L,0,28
+1930-11-22,Chicago,Western,Amos Alonzo Stagg,A,Michigan,Western,Harry Kipke,L,0,16
+1930-10-18,Colgate,Ind,Andrew Kerr,A,Michigan State,Ind,Jimmy Crowley,L,7,14
+1930-10-25,Colgate,Ind,Andrew Kerr,A,Penn State,Ind,Bob Higgins,W,40,0
+1930-11-08,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,W,54,0
+1930-11-15,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Vic Hanson,W,36,7
+1930-11-29,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,27,0
+1930-12-06,Colgate,Ind,Andrew Kerr,A,New York University,Ind,,W,7,6
+1930-10-04,Minnesota,Western,Fritz Crisler,H,Vanderbilt,Southern,Dan McGugin,L,7,33
+1930-10-11,Minnesota,Western,Fritz Crisler,H,Stanford,PCC,Pop Warner,T,0,0
+1930-10-18,Minnesota,Western,Fritz Crisler,H,Indiana,Western,Pat Page,W,6,0
+1930-11-01,Minnesota,Western,Fritz Crisler,H,Northwestern,Western,Dick Hanley,L,6,27
+1930-11-15,Minnesota,Western,Fritz Crisler,A,Michigan,Western,Harry Kipke,L,0,7
+1930-11-22,Minnesota,Western,Fritz Crisler,A,Wisconsin,Western,Glenn Thistlethwaite,L,0,14
+1930-10-04,Ole Miss,Southern,,A,Alabama,Southern,Wallace Wade,L,0,64
+1930-10-11,Ole Miss,Southern,,A,Tennessee,Southern,Bob Neyland,L,0,27
+1930-10-18,Ole Miss,Southern,,H,Sewanee,Southern,Harvey Harmon,L,7,13
+1930-10-25,Ole Miss,Southern,,A,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1930-11-01,Ole Miss,Southern,,A,Vanderbilt,Southern,Dan McGugin,L,0,24
+1930-11-08,Ole Miss,Southern,,A,LSU,Southern,Russ Cohen,L,0,6
+1930-11-27,Ole Miss,Southern,,A,Mississippi State,Southern,Red Cagle,W,20,0
+1930-09-27,Duke,Southern,Jimmy DeHart,H,South Carolina,Southern,Billy Laval,L,0,22
+1930-10-04,Duke,Southern,Jimmy DeHart,H,Virginia,Southern,Earl Abell,W,32,0
+1930-10-11,Duke,Southern,Jimmy DeHart,H,Davidson,Ind,Monk Younger,W,12,0
+1930-10-18,Duke,Southern,Jimmy DeHart,A,Navy,Ind,William Ingram,W,18,0
+1930-11-01,Duke,Southern,Jimmy DeHart,A,Villanova,Ind,Harry Stuhldreher,W,12,6
+1930-11-08,Duke,Southern,Jimmy DeHart,H,Kentucky,Southern,Harry Gamage,W,14,7
+1930-11-15,Duke,Southern,Jimmy DeHart,A,North Carolina State,Southern,John Van Liew,W,18,0
+1930-11-22,Duke,Southern,Jimmy DeHart,A,Wake Forest,Ind,F.S. Miller,T,13,13
+1930-11-27,Duke,Southern,Jimmy DeHart,H,Washington & Lee,Southern,Eugene Oberst,W,14,0
+1930-12-06,Duke,Southern,Jimmy DeHart,A,North Carolina,Southern,Chuck Collins,T,0,0
+1930-10-04,Sewanee,Southern,Harvey Harmon,A,Kentucky,Southern,Harry Gamage,L,0,37
+1930-10-11,Sewanee,Southern,Harvey Harmon,A,Alabama,Southern,Wallace Wade,L,0,25
+1930-10-18,Sewanee,Southern,Harvey Harmon,A,Ole Miss,Southern,,W,13,7
+1930-10-25,Sewanee,Southern,Harvey Harmon,A,LSU,Southern,Russ Cohen,L,0,12
+1930-11-01,Sewanee,Southern,Harvey Harmon,A,Rice,SWC,Jack Meagher,L,0,12
+1930-11-15,Sewanee,Southern,Harvey Harmon,A,South Carolina,Southern,Billy Laval,L,13,14
+1930-10-11,Navy,Ind,William Ingram,A,Notre Dame,Ind,Knute Rockne,L,2,26
+1930-10-18,Navy,Ind,William Ingram,H,Duke,Southern,Jimmy DeHart,L,0,18
+1930-10-25,Navy,Ind,William Ingram,A,Princeton,Ind,,W,31,0
+1930-11-08,Navy,Ind,William Ingram,H,Ohio State,Western,Sam Willaman,L,0,27
+1930-11-15,Navy,Ind,William Ingram,H,SMU,SWC,Ray Morrison,L,7,20
+1930-11-22,Navy,Ind,William Ingram,H,Maryland,Southern,Curley Byrd,W,6,0
+1930-12-06,Navy,Ind,William Ingram,A,Pennsylvania,Ind,Lud Wray,W,26,0
+1930-12-13,Navy,Ind,William Ingram,A,Army,Ind,Arthur Parmalee,L,0,6
+1930-09-20,Regis (CO),Ind,,A,Denver,RMC,Jeff Cravath,L,0,40
+1930-09-27,Regis (CO),Ind,,H,Colorado State,RMC,Harry Hughes,W,14,7
+1930-10-04,Regis (CO),Ind,,A,Montana State,RMC,Schubert Dyche,L,19,26
+1930-11-03,Regis (CO),Ind,,A,Western State,RMC,Tefler Meade,W,14,7
+1930-11-15,Regis (CO),Ind,,H,Colorado Mines,RMC,George Allen,W,13,9
+1930-11-22,Regis (CO),Ind,,H,Brigham Young,RMC,Ott Romney,L,6,18
+1930-10-04,Tulane,Southern,Bernie Bierman,A,Northwestern,Western,Dick Hanley,L,0,14
+1930-10-11,Tulane,Southern,Bernie Bierman,A,Texas A&M,SWC,Madison Bell,W,19,9
+1930-10-25,Tulane,Southern,Bernie Bierman,A,Georgia Tech,Southern,William Alexander,W,28,0
+1930-11-01,Tulane,Southern,Bernie Bierman,H,Mississippi State,Southern,Red Cagle,W,53,0
+1930-11-08,Tulane,Southern,Bernie Bierman,H,Auburn,Southern,Chet Wynne,W,21,0
+1930-11-15,Tulane,Southern,Bernie Bierman,H,Georgia,Southern,Harry Mehre,W,25,0
+1930-11-27,Tulane,Southern,Bernie Bierman,H,LSU,Southern,Russ Cohen,W,12,7
+1930-10-18,Cornell,Ind,Gilmour Dobie,A,Princeton,Ind,,W,12,7
+1930-11-01,Cornell,Ind,Gilmour Dobie,A,Columbia,Ind,Lou Little,L,7,10
+1930-11-15,Cornell,Ind,Gilmour Dobie,H,Dartmouth,Ind,Jack Cannell,L,13,19
+1930-11-27,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Lud Wray,W,13,7
+1930-10-04,Ohio State,Western,Sam Willaman,H,Indiana,Western,Pat Page,W,23,0
+1930-10-11,Ohio State,Western,Sam Willaman,A,Northwestern,Western,Dick Hanley,L,2,19
+1930-10-18,Ohio State,Western,Sam Willaman,H,Michigan,Western,Harry Kipke,L,0,13
+1930-11-01,Ohio State,Western,Sam Willaman,H,Wisconsin,Western,Glenn Thistlethwaite,T,0,0
+1930-11-08,Ohio State,Western,Sam Willaman,A,Navy,Ind,William Ingram,W,27,0
+1930-11-15,Ohio State,Western,Sam Willaman,H,Pitt,Ind,Jock Sutherland,W,16,7
+1930-11-22,Ohio State,Western,Sam Willaman,A,Illinois,Western,Robert Zuppke,W,12,9
+1930-10-04,Drake,MVC,Ossie Solem,N,Oregon,PCC,Clarence Spears,L,7,14
+1930-10-11,Drake,MVC,Ossie Solem,A,Marquette,Ind,Frank Murray,L,0,12
+1930-10-18,Drake,MVC,Ossie Solem,H,Grinnell,MVC,Lester Watt,W,20,7
+1930-10-25,Drake,MVC,Ossie Solem,A,Missouri,Big 6,Gwinn Henry,L,13,14
+1930-11-01,Drake,MVC,Ossie Solem,H,Washington (MO),MVC,Albert Sharpe,W,12,0
+1930-11-08,Drake,MVC,Ossie Solem,A,Creighton,MVC,,W,38,6
+1930-11-15,Drake,MVC,Ossie Solem,A,Notre Dame,Ind,Knute Rockne,L,7,28
+1930-11-22,Drake,MVC,Ossie Solem,H,Iowa State,Big 6,C. Noel Workman,W,20,19
+1930-11-29,Drake,MVC,Ossie Solem,A,Temple,Ind,Henry Miller,W,49,20

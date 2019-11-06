@@ -1,0 +1,25 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1877-10-27,Harvard,Ind,,A,Columbia,Ind,,W,6,0
+1877-11-17,Harvard,Ind,,N,Princeton,Ind,,L,0,1
+1877-11-24,Harvard,Ind,,A,Tufts,Ind,Luman Aldrich,W,3,0
+1877-11-03,Tufts,Ind,Luman Aldrich,A,Yale,Ind,,L,0,1
+1877-11-17,Tufts,Ind,Luman Aldrich,A,Amherst,Ind,,L,4,8
+1877-11-24,Tufts,Ind,Luman Aldrich,H,Harvard,Ind,,L,0,3
+1877-10-27,Columbia,Ind,,H,Harvard,Ind,,L,0,6
+1877-11-06,Columbia,Ind,,H,Rutgers,Ind,,W,1,0
+1877-11-13,Columbia,Ind,,A,Stevens,Ind,,W,1,0
+1877-11-24,Columbia,Ind,,A,Princeton,Ind,,L,0,4
+1877-11-17,Amherst,Ind,,H,Tufts,Ind,Luman Aldrich,W,8,4
+1877-11-17,Princeton,Ind,,N,Harvard,Ind,,W,1,0
+1877-11-24,Princeton,Ind,,H,Columbia,Ind,,W,4,0
+1877-12-08,Princeton,Ind,,N,Yale,Ind,,T,0,0
+1877-10-27,Stevens,Ind,,H,Rutgers,Ind,,W,4,1
+1877-11-13,Stevens,Ind,,H,Columbia,Ind,,L,0,1
+1877-11-14,Stevens,Ind,,A,Rutgers,Ind,,L,0,5
+1877-11-24,Stevens,Ind,,H,Yale,Ind,,L,0,13
+1877-10-27,Rutgers,Ind,,A,Stevens,Ind,,L,1,4
+1877-11-06,Rutgers,Ind,,A,Columbia,Ind,,L,0,1
+1877-11-14,Rutgers,Ind,,H,Stevens,Ind,,W,5,0
+1877-11-03,Yale,Ind,,H,Tufts,Ind,Luman Aldrich,W,1,0
+1877-11-24,Yale,Ind,,A,Stevens,Ind,,W,13,0
+1877-12-08,Yale,Ind,,N,Princeton,Ind,,T,0,0

@@ -1,0 +1,57 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1884-10-01,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,31
+1884-10-15,Wesleyan (CT),Ind,,A,Princeton,Ind,,L,2,22
+1884-10-18,Wesleyan (CT),Ind,,N,Yale,Ind,,L,0,63
+1884-10-29,Wesleyan (CT),Ind,,A,Stevens,Ind,,W,11,0
+1884-11-01,Wesleyan (CT),Ind,,H,Harvard,Ind,,W,16,0
+1884-11-05,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,46
+1884-11-15,Wesleyan (CT),Ind,,N,Rutgers,Ind,,W,31,0
+1884-11-27,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,,L,12,14
+1884-10-08,Princeton,Ind,,A,Stevens,Ind,,W,4,0
+1884-10-10,Princeton,Ind,,A,Rutgers,Ind,,W,23,5
+1884-10-15,Princeton,Ind,,H,Wesleyan (CT),Ind,,W,22,2
+1884-10-18,Princeton,Ind,,H,Rutgers,Ind,,W,35,0
+1884-10-25,Princeton,Ind,,A,Pennsylvania,Ind,,W,31,0
+1884-10-29,Princeton,Ind,,H,Lafayette,Ind,,W,140,0
+1884-11-01,Princeton,Ind,,H,Stevens,Ind,,W,58,0
+1884-11-19,Princeton,Ind,,A,Harvard,Ind,,W,36,6
+1884-11-27,Princeton,Ind,,N,Yale,Ind,,T,0,0
+1884-10-08,Stevens,Ind,,H,Princeton,Ind,,L,0,4
+1884-10-11,Stevens,Ind,,A,Yale,Ind,,L,0,96
+1884-10-29,Stevens,Ind,,H,Wesleyan (CT),Ind,,L,0,11
+1884-11-01,Stevens,Ind,,A,Princeton,Ind,,L,0,58
+1884-11-08,Stevens,Ind,,A,Pennsylvania,Ind,,L,0,30
+1884-11-15,Stevens,Ind,,A,Lafayette,Ind,,W,18,4
+1884-11-27,Stevens,Ind,,H,Lafayette,Ind,,W,52,0
+1884-10-10,Rutgers,Ind,,H,Princeton,Ind,,L,5,23
+1884-10-18,Rutgers,Ind,,A,Princeton,Ind,,L,0,35
+1884-10-22,Rutgers,Ind,,H,Yale,Ind,,L,10,76
+1884-11-01,Rutgers,Ind,,H,Lehigh,Ind,,W,61,0
+1884-11-08,Rutgers,Ind,,H,Lafayette,Ind,,W,26,0
+1884-11-15,Rutgers,Ind,,N,Wesleyan (CT),Ind,,L,0,31
+1884-10-01,Yale,Ind,,H,Wesleyan (CT),Ind,,W,31,0
+1884-10-11,Yale,Ind,,H,Stevens,Ind,,W,96,0
+1884-10-18,Yale,Ind,,N,Wesleyan (CT),Ind,,W,63,0
+1884-10-22,Yale,Ind,,A,Rutgers,Ind,,W,76,10
+1884-11-05,Yale,Ind,,H,Wesleyan (CT),Ind,,W,46,0
+1884-11-22,Yale,Ind,,H,Harvard,Ind,,W,52,0
+1884-11-27,Yale,Ind,,N,Princeton,Ind,,T,0,0
+1884-10-25,Lehigh,Ind,,A,Lafayette,Ind,,L,0,50
+1884-11-01,Lehigh,Ind,,A,Rutgers,Ind,,L,0,61
+1884-11-12,Lehigh,Ind,,H,Lafayette,Ind,,L,4,34
+1884-10-22,Pennsylvania,Ind,,A,Harvard,Ind,,W,4,0
+1884-10-25,Pennsylvania,Ind,,H,Princeton,Ind,,L,0,31
+1884-11-01,Pennsylvania,Ind,,H,Lafayette,Ind,,W,21,0
+1884-11-08,Pennsylvania,Ind,,H,Stevens,Ind,,W,30,0
+1884-11-27,Pennsylvania,Ind,,N,Wesleyan (CT),Ind,,W,14,12
+1884-10-22,Harvard,Ind,,H,Pennsylvania,Ind,,L,0,4
+1884-11-01,Harvard,Ind,,A,Wesleyan (CT),Ind,,L,0,16
+1884-11-19,Harvard,Ind,,H,Princeton,Ind,,L,6,36
+1884-11-22,Harvard,Ind,,A,Yale,Ind,,L,0,52
+1884-10-25,Lafayette,Ind,,H,Lehigh,Ind,,W,50,0
+1884-10-29,Lafayette,Ind,,A,Princeton,Ind,,L,0,140
+1884-11-01,Lafayette,Ind,,A,Pennsylvania,Ind,,L,0,21
+1884-11-08,Lafayette,Ind,,A,Rutgers,Ind,,L,0,26
+1884-11-12,Lafayette,Ind,,A,Lehigh,Ind,,W,34,4
+1884-11-15,Lafayette,Ind,,H,Stevens,Ind,,L,4,18
+1884-11-27,Lafayette,Ind,,A,Stevens,Ind,,L,0,52

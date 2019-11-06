@@ -1,0 +1,1005 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1946-09-28,North Carolina,Southern,Carl Snavely,H,Virginia Tech,Southern,Jimmy Kitts,T,14,14
+1946-10-04,North Carolina,Southern,Carl Snavely,A,Miami (FL),Ind,Jack Harding,W,21,0
+1946-10-12,North Carolina,Southern,Carl Snavely,H,Maryland,Southern,Clark Shaughnessy,W,33,0
+1946-10-19,North Carolina,Southern,Carl Snavely,A,Navy,Ind,Thomas Hamilton,W,21,14
+1946-10-26,North Carolina,Southern,Carl Snavely,H,Florida,SEC,Raymond Wolf,W,40,19
+1946-11-02,North Carolina,Southern,Carl Snavely,A,Tennessee,SEC,Bob Neyland,L,14,20
+1946-11-09,North Carolina,Southern,Carl Snavely,N,William & Mary,Southern,Rube McCray,W,21,7
+1946-11-16,North Carolina,Southern,Carl Snavely,H,Wake Forest,Southern,D.C. Walker,W,26,14
+1946-11-23,North Carolina,Southern,Carl Snavely,H,Duke,Southern,Wallace Wade,W,22,7
+1946-11-30,North Carolina,Southern,Carl Snavely,A,Virginia,Ind,Arthur Guepe,W,49,14
+1947-01-01,North Carolina,Southern,Carl Snavely,N,Georgia,SEC,Wallace Butts,L,10,20
+1946-09-28,Indiana,Western,Bo McMillin,A,Michigan,Western,Fritz Crisler,L,0,21
+1946-10-05,Indiana,Western,Bo McMillin,A,Minnesota,Western,Bernie Bierman,W,21,0
+1946-10-12,Indiana,Western,Bo McMillin,H,Illinois,Western,Ray Eliot,W,14,7
+1946-10-19,Indiana,Western,Bo McMillin,H,Iowa,Western,Edward Anderson,L,0,13
+1946-10-26,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Bernie Masterson,W,27,7
+1946-11-02,Indiana,Western,Bo McMillin,H,Pitt,Ind,Wesley Fesler,W,20,6
+1946-11-09,Indiana,Western,Bo McMillin,A,Northwestern,Western,Pappy Waldorf,W,7,6
+1946-11-23,Indiana,Western,Bo McMillin,A,Purdue,Western,Cecil Isbell,W,34,20
+1946-09-21,Iowa State,Big 6,Mike Michalske,A,Colorado,MSAC,Jim Yeager,L,7,13
+1946-09-28,Iowa State,Big 6,Mike Michalske,A,Northwestern,Western,Pappy Waldorf,L,9,41
+1946-10-12,Iowa State,Big 6,Mike Michalske,H,Kansas,Big 6,George Sauer,L,8,24
+1946-10-19,Iowa State,Big 6,Mike Michalske,A,Missouri,Big 6,Don Faurot,L,13,33
+1946-10-26,Iowa State,Big 6,Mike Michalske,H,Oklahoma,Big 6,Jim Tatum,L,0,63
+1946-11-02,Iowa State,Big 6,Mike Michalske,A,Kansas State,Big 6,Hobbs Adams,W,13,7
+1946-11-09,Iowa State,Big 6,Mike Michalske,H,Drake,MVC,Vee Green,T,7,7
+1946-11-16,Iowa State,Big 6,Mike Michalske,A,Nebraska,Big 6,Bernie Masterson,L,0,33
+1946-10-11,Fordham,Ind,Edward Danowski,A,Georgetown,Ind,Jack Hagerty,L,7,8
+1946-10-19,Fordham,Ind,Edward Danowski,H,Saint Mary's (CA),Ind,James Phelan,L,2,33
+1946-10-26,Fordham,Ind,Edward Danowski,A,Merchant Marine,Ind,Bill Reinhart,L,6,7
+1946-11-02,Fordham,Ind,Edward Danowski,A,Penn State,Ind,Bob Higgins,L,0,68
+1946-11-09,Fordham,Ind,Edward Danowski,A,West Virginia,Ind,Bill Kern,L,0,39
+1946-11-16,Fordham,Ind,Edward Danowski,N,New York University,Ind,John Weinheimer,L,28,33
+1946-11-22,Fordham,Ind,Edward Danowski,A,LSU,SEC,Bernie Moore,L,0,40
+1946-09-28,Arizona State,BIAA,Steve Coutchie,A,Arizona,BIAA,Miles Casteel,L,0,67
+1946-10-12,Arizona State,BIAA,Steve Coutchie,A,Nevada,Ind,Jim Aiken,L,2,74
+1946-10-19,Arizona State,BIAA,Steve Coutchie,H,Portland,Ind,,L,0,13
+1946-10-26,Arizona State,BIAA,Steve Coutchie,A,Hardin-Simmons,BIAA,Warren Woodson,L,6,46
+1946-11-02,Arizona State,BIAA,Steve Coutchie,A,New Mexico State,BIAA,Raymond Curfman,W,14,7
+1946-11-09,Arizona State,BIAA,Steve Coutchie,H,UTEP,BIAA,Jack Curtice,L,20,34
+1946-11-16,Arizona State,BIAA,Steve Coutchie,H,Northern Arizona,BIAA,Frank Brickey,T,13,13
+1946-11-23,Arizona State,BIAA,Steve Coutchie,H,West Texas A&M,BIAA,Windy Nicklaus,L,0,7
+1946-11-28,Arizona State,BIAA,Steve Coutchie,A,Wichita State,MVC,Ralph Graham,L,19,34
+1946-09-20,Furman,Southern,Robert Smith,A,Alabama,SEC,Frank Thomas,L,7,26
+1946-10-05,Furman,Southern,Robert Smith,A,Auburn,SEC,Carl Voyles,L,6,26
+1946-10-11,Furman,Southern,Robert Smith,H,South Carolina,Southern,Rex Enright,L,7,14
+1946-10-19,Furman,Southern,Robert Smith,A,Citadel,Southern,Quinn Decker,W,14,0
+1946-10-26,Furman,Southern,Robert Smith,H,Georgia,SEC,Wallace Butts,L,7,70
+1946-11-09,Furman,Southern,Robert Smith,H,Virginia Military Institute,Southern,Allison Hubert,L,7,26
+1946-11-16,Furman,Southern,Robert Smith,A,Clemson,Southern,Frank Howard,L,6,20
+1946-11-23,Furman,Southern,Robert Smith,A,Georgia Tech,SEC,Bobby Dodd,L,7,41
+1946-11-28,Furman,Southern,Robert Smith,A,Davidson,Southern,William Story,L,7,13
+1946-09-28,Utah,MSAC,Ike Armstrong,H,New Mexico,BIAA,Willis Barnes,W,56,14
+1946-10-05,Utah,MSAC,Ike Armstrong,H,Arizona,BIAA,Miles Casteel,W,14,7
+1946-10-12,Utah,MSAC,Ike Armstrong,A,Brigham Young,MSAC,Edwin Kimball,W,35,6
+1946-10-19,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,L,14,20
+1946-10-26,Utah,MSAC,Ike Armstrong,H,Wyoming,MSAC,Bunny Oakes,W,27,7
+1946-11-02,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Jim Yeager,W,7,0
+1946-11-09,Utah,MSAC,Ike Armstrong,A,Colorado State,MSAC,Julius Wagner,W,13,0
+1946-11-16,Utah,MSAC,Ike Armstrong,A,San Francisco,Ind,Maurice Smith,W,21,13
+1946-11-28,Utah,MSAC,Ike Armstrong,H,Utah State,MSAC,E. Lowell Romney,L,14,22
+1946-09-21,Wichita State,MVC,Ralph Graham,H,Tulsa,MVC,John Brothers,L,13,33
+1946-10-05,Wichita State,MVC,Ralph Graham,A,Kansas,Big 6,George Sauer,L,7,14
+1946-10-11,Wichita State,MVC,Ralph Graham,A,Drake,MVC,Vee Green,W,12,6
+1946-11-09,Wichita State,MVC,Ralph Graham,A,Saint Louis,MVC,,W,13,0
+1946-11-15,Wichita State,MVC,Ralph Graham,A,West Texas A&M,BIAA,Windy Nicklaus,L,6,7
+1946-11-28,Wichita State,MVC,Ralph Graham,H,Arizona State,BIAA,Steve Coutchie,W,34,19
+1946-09-14,Villanova,Ind,Jordan Olivar,H,Merchant Marine,Ind,Bill Reinhart,W,40,6
+1946-09-21,Villanova,Ind,Jordan Olivar,A,Army,Ind,Red Blaik,L,0,35
+1946-09-28,Villanova,Ind,Jordan Olivar,A,Navy,Ind,Thomas Hamilton,L,0,7
+1946-10-05,Villanova,Ind,Jordan Olivar,H,Marquette,Ind,Frank Murray,W,26,13
+1946-10-12,Villanova,Ind,Jordan Olivar,A,Holy Cross,Ind,John DaGrosa,W,14,13
+1946-10-19,Villanova,Ind,Jordan Olivar,H,Georgetown,Ind,Jack Hagerty,W,19,2
+1946-10-25,Villanova,Ind,Jordan Olivar,A,Boston College,Ind,Denny Myers,L,12,14
+1946-11-01,Villanova,Ind,Jordan Olivar,H,Miami (FL),Ind,Jack Harding,L,21,26
+1946-11-08,Villanova,Ind,Jordan Olivar,A,Detroit Mercy,Ind,Chuck Baer,W,23,6
+1946-11-16,Villanova,Ind,Jordan Olivar,A,Florida,SEC,Raymond Wolf,W,27,20
+1946-10-12,Washington & Lee,Southern,Art Lewis,N,West Virginia,Ind,Bill Kern,L,0,6
+1946-10-19,Washington & Lee,Southern,Art Lewis,H,William & Mary,Southern,Rube McCray,L,18,34
+1946-10-26,Washington & Lee,Southern,Art Lewis,H,Richmond,Southern,John Fenlon,L,0,20
+1946-11-02,Washington & Lee,Southern,Art Lewis,A,Davidson,Southern,William Story,W,25,6
+1946-11-09,Washington & Lee,Southern,Art Lewis,N,Virginia Tech,Southern,Jimmy Kitts,L,7,13
+1946-11-16,Washington & Lee,Southern,Art Lewis,A,Maryland,Southern,Clark Shaughnessy,L,7,24
+1946-11-22,Washington & Lee,Southern,Art Lewis,A,Miami (FL),Ind,Jack Harding,L,20,40
+1946-10-05,Syracuse,Ind,Biggie Munn,A,Dartmouth,Ind,DeOrmond McLaughry,L,14,20
+1946-10-12,Syracuse,Ind,Biggie Munn,H,Penn State,Ind,Bob Higgins,L,0,9
+1946-10-19,Syracuse,Ind,Biggie Munn,A,Holy Cross,Ind,John DaGrosa,W,21,12
+1946-10-26,Syracuse,Ind,Biggie Munn,A,West Virginia,Ind,Bill Kern,L,0,13
+1946-11-02,Syracuse,Ind,Biggie Munn,H,Temple,Ind,Ray Morrison,W,28,7
+1946-11-09,Syracuse,Ind,Biggie Munn,A,Cornell,Ind,Ed McKeever,W,14,7
+1946-11-16,Syracuse,Ind,Biggie Munn,H,Colgate,Ind,Andrew Kerr,L,7,25
+1946-11-23,Syracuse,Ind,Biggie Munn,A,Columbia,Ind,Lou Little,L,21,59
+1946-09-28,Arizona,BIAA,Miles Casteel,H,Arizona State,BIAA,Steve Coutchie,W,67,0
+1946-10-05,Arizona,BIAA,Miles Casteel,A,Utah,MSAC,Ike Armstrong,L,7,14
+1946-10-12,Arizona,BIAA,Miles Casteel,H,UTEP,BIAA,Jack Curtice,W,27,13
+1946-10-26,Arizona,BIAA,Miles Casteel,A,Marquette,Ind,Frank Murray,L,0,20
+1946-11-02,Arizona,BIAA,Miles Casteel,H,Hardin-Simmons,BIAA,Warren Woodson,L,8,19
+1946-11-09,Arizona,BIAA,Miles Casteel,H,Santa Clara,Ind,Len Casanova,T,21,21
+1946-11-16,Arizona,BIAA,Miles Casteel,A,New Mexico,BIAA,Willis Barnes,T,13,13
+1946-11-23,Arizona,BIAA,Miles Casteel,H,Texas Tech,BIAA,Dell Morgan,L,0,16
+1946-11-30,Arizona,BIAA,Miles Casteel,H,Kansas State,Big 6,Hobbs Adams,W,28,7
+1946-10-04,Georgetown,Ind,Jack Hagerty,H,Wake Forest,Southern,D.C. Walker,L,6,19
+1946-10-11,Georgetown,Ind,Jack Hagerty,H,Fordham,Ind,Edward Danowski,W,8,7
+1946-10-19,Georgetown,Ind,Jack Hagerty,A,Villanova,Ind,Jordan Olivar,L,2,19
+1946-10-26,Georgetown,Ind,Jack Hagerty,H,Saint Louis,MVC,,W,13,7
+1946-11-02,Georgetown,Ind,Jack Hagerty,A,George Washington,Southern,Skip Stahley,W,18,6
+1946-11-09,Georgetown,Ind,Jack Hagerty,A,Boston College,Ind,Denny Myers,L,13,20
+1946-11-27,Georgetown,Ind,Jack Hagerty,A,New York University,Ind,John Weinheimer,W,19,12
+1946-09-28,Montana,PCC,Doug Fessenden,H,Colorado State,MSAC,Julius Wagner,W,27,0
+1946-10-12,Montana,PCC,Doug Fessenden,A,Oregon,PCC,Tex Oliver,L,0,34
+1946-10-19,Montana,PCC,Doug Fessenden,N,Montana State,Ind,Clyde Carpenter,W,20,7
+1946-10-26,Montana,PCC,Doug Fessenden,H,Utah State,MSAC,E. Lowell Romney,L,0,26
+1946-11-02,Montana,PCC,Doug Fessenden,H,Idaho,PCC,Babe Brown,W,19,0
+1946-11-16,Montana,PCC,Doug Fessenden,A,UCLA,PCC,Bert LaBrucherie,L,7,61
+1946-11-23,Montana,PCC,Doug Fessenden,A,Washington,PCC,Ralph Welch,L,0,21
+1946-10-05,Penn State,Ind,Bob Higgins,H,Bucknell,Ind,Al Humphreys,W,48,6
+1946-10-12,Penn State,Ind,Bob Higgins,A,Syracuse,Ind,Biggie Munn,W,9,0
+1946-10-19,Penn State,Ind,Bob Higgins,H,Michigan State,Ind,Charlie Bachman,L,16,19
+1946-10-26,Penn State,Ind,Bob Higgins,A,Colgate,Ind,Andrew Kerr,W,6,2
+1946-11-02,Penn State,Ind,Bob Higgins,H,Fordham,Ind,Edward Danowski,W,68,0
+1946-11-09,Penn State,Ind,Bob Higgins,H,Temple,Ind,Ray Morrison,W,26,0
+1946-11-16,Penn State,Ind,Bob Higgins,A,Navy,Ind,Thomas Hamilton,W,12,7
+1946-11-23,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Wesley Fesler,L,7,14
+1946-10-05,Princeton,Ind,Charles Caldwell,H,Brown,Ind,Rip Engle,W,33,12
+1946-10-12,Princeton,Ind,Charles Caldwell,H,Harvard,Ind,Dick Harlow,L,12,13
+1946-10-19,Princeton,Ind,Charles Caldwell,H,Rutgers,Ind,Harvey Harman,W,14,7
+1946-10-26,Princeton,Ind,Charles Caldwell,H,Cornell,Ind,Ed McKeever,L,7,14
+1946-11-02,Princeton,Ind,Charles Caldwell,A,Pennsylvania,Ind,George Munger,W,17,14
+1946-11-09,Princeton,Ind,Charles Caldwell,H,Virginia,Ind,Arthur Guepe,L,6,20
+1946-11-16,Princeton,Ind,Charles Caldwell,A,Yale,Ind,Howard Odell,L,2,30
+1946-11-23,Princeton,Ind,Charles Caldwell,H,Dartmouth,Ind,DeOrmond McLaughry,L,13,20
+1946-10-05,Vanderbilt,SEC,Red Sanders,N,Ole Miss,SEC,Red Drew,W,7,0
+1946-10-12,Vanderbilt,SEC,Red Sanders,H,Florida,SEC,Raymond Wolf,W,20,0
+1946-10-19,Vanderbilt,SEC,Red Sanders,A,Kentucky,SEC,Bear Bryant,L,7,10
+1946-10-26,Vanderbilt,SEC,Red Sanders,H,LSU,SEC,Bernie Moore,L,0,14
+1946-11-02,Vanderbilt,SEC,Red Sanders,A,Auburn,SEC,Carl Voyles,W,19,0
+1946-11-09,Vanderbilt,SEC,Red Sanders,H,North Carolina State,Southern,Beattie Feathers,W,7,0
+1946-11-16,Vanderbilt,SEC,Red Sanders,A,Alabama,SEC,Frank Thomas,L,7,12
+1946-11-30,Vanderbilt,SEC,Red Sanders,H,Tennessee,SEC,Bob Neyland,L,6,7
+1946-09-21,Kentucky,SEC,Bear Bryant,H,Ole Miss,SEC,Red Drew,W,20,6
+1946-10-11,Kentucky,SEC,Bear Bryant,A,Georgia,SEC,Wallace Butts,L,13,28
+1946-10-19,Kentucky,SEC,Bear Bryant,H,Vanderbilt,SEC,Red Sanders,W,10,7
+1946-10-26,Kentucky,SEC,Bear Bryant,A,Alabama,SEC,Frank Thomas,L,7,21
+1946-11-02,Kentucky,SEC,Bear Bryant,H,Michigan State,Ind,Charlie Bachman,W,39,14
+1946-11-09,Kentucky,SEC,Bear Bryant,A,Marquette,Ind,Frank Murray,W,35,0
+1946-11-16,Kentucky,SEC,Bear Bryant,H,West Virginia,Ind,Bill Kern,W,13,0
+1946-11-23,Kentucky,SEC,Bear Bryant,A,Tennessee,SEC,Bob Neyland,L,0,7
+1946-09-28,California,PCC,Frank Wickhorst,H,Wisconsin,Western,Harry Stuhldreher,L,7,28
+1946-10-05,California,PCC,Frank Wickhorst,H,Oregon,PCC,Tex Oliver,L,13,14
+1946-10-12,California,PCC,Frank Wickhorst,H,Saint Mary's (CA),Ind,James Phelan,W,20,13
+1946-10-19,California,PCC,Frank Wickhorst,H,UCLA,PCC,Bert LaBrucherie,L,6,13
+1946-10-26,California,PCC,Frank Wickhorst,A,Washington,PCC,Ralph Welch,L,6,20
+1946-11-02,California,PCC,Frank Wickhorst,H,Washington State,PCC,Phil Sarboe,W,47,14
+1946-11-09,California,PCC,Frank Wickhorst,A,USC,PCC,Jeff Cravath,L,0,14
+1946-11-16,California,PCC,Frank Wickhorst,H,Oregon State,PCC,Lon Stiner,L,7,28
+1946-11-23,California,PCC,Frank Wickhorst,H,Stanford,PCC,Marchy Schwartz,L,6,25
+1946-09-28,Florida,SEC,Raymond Wolf,H,Ole Miss,SEC,Red Drew,L,7,13
+1946-10-05,Florida,SEC,Raymond Wolf,A,Tulane,SEC,Henry Frnka,L,13,27
+1946-10-12,Florida,SEC,Raymond Wolf,A,Vanderbilt,SEC,Red Sanders,L,0,20
+1946-10-19,Florida,SEC,Raymond Wolf,H,Miami (FL),Ind,Jack Harding,L,13,20
+1946-10-26,Florida,SEC,Raymond Wolf,A,North Carolina,Southern,Carl Snavely,L,19,40
+1946-11-09,Florida,SEC,Raymond Wolf,N,Georgia,SEC,Wallace Butts,L,14,33
+1946-11-16,Florida,SEC,Raymond Wolf,H,Villanova,Ind,Jordan Olivar,L,20,27
+1946-11-23,Florida,SEC,Raymond Wolf,H,North Carolina State,Southern,Beattie Feathers,L,6,37
+1946-11-30,Florida,SEC,Raymond Wolf,H,Auburn,SEC,Carl Voyles,L,12,47
+1946-09-28,Stanford,PCC,Marchy Schwartz,H,Idaho,PCC,Babe Brown,W,45,0
+1946-10-05,Stanford,PCC,Marchy Schwartz,H,San Francisco,Ind,Maurice Smith,W,33,7
+1946-10-12,Stanford,PCC,Marchy Schwartz,A,UCLA,PCC,Bert LaBrucherie,L,6,26
+1946-10-19,Stanford,PCC,Marchy Schwartz,H,Santa Clara,Ind,Len Casanova,W,33,26
+1946-10-26,Stanford,PCC,Marchy Schwartz,H,USC,PCC,Jeff Cravath,L,20,28
+1946-11-02,Stanford,PCC,Marchy Schwartz,A,Oregon State,PCC,Lon Stiner,T,0,0
+1946-11-09,Stanford,PCC,Marchy Schwartz,H,Washington,PCC,Ralph Welch,L,15,21
+1946-11-16,Stanford,PCC,Marchy Schwartz,H,Washington State,PCC,Phil Sarboe,W,27,26
+1946-11-23,Stanford,PCC,Marchy Schwartz,A,California,PCC,Frank Wickhorst,W,25,6
+1946-09-27,Washington State,PCC,Phil Sarboe,A,USC,PCC,Jeff Cravath,L,7,13
+1946-10-05,Washington State,PCC,Phil Sarboe,H,Idaho,PCC,Babe Brown,W,32,0
+1946-10-12,Washington State,PCC,Phil Sarboe,H,Washington,PCC,Ralph Welch,L,7,21
+1946-10-19,Washington State,PCC,Phil Sarboe,A,Oregon,PCC,Tex Oliver,T,0,0
+1946-10-26,Washington State,PCC,Phil Sarboe,H,Oregon State,PCC,Lon Stiner,L,12,13
+1946-11-02,Washington State,PCC,Phil Sarboe,A,California,PCC,Frank Wickhorst,L,14,47
+1946-11-16,Washington State,PCC,Phil Sarboe,A,Stanford,PCC,Marchy Schwartz,L,26,27
+1946-11-30,Washington State,PCC,Phil Sarboe,A,Michigan State,Ind,Charlie Bachman,L,20,26
+1946-09-21,Illinois,Western,Ray Eliot,A,Pitt,Ind,Wesley Fesler,W,33,7
+1946-09-28,Illinois,Western,Ray Eliot,H,Notre Dame,Ind,Frank Leahy,L,6,26
+1946-10-05,Illinois,Western,Ray Eliot,H,Purdue,Western,Cecil Isbell,W,43,7
+1946-10-12,Illinois,Western,Ray Eliot,A,Indiana,Western,Bo McMillin,L,7,14
+1946-10-19,Illinois,Western,Ray Eliot,H,Wisconsin,Western,Harry Stuhldreher,W,27,21
+1946-10-26,Illinois,Western,Ray Eliot,A,Michigan,Western,Fritz Crisler,W,13,9
+1946-11-02,Illinois,Western,Ray Eliot,A,Iowa,Western,Edward Anderson,W,7,0
+1946-11-16,Illinois,Western,Ray Eliot,H,Ohio State,Western,Paul Bixler,W,16,7
+1946-11-23,Illinois,Western,Ray Eliot,A,Northwestern,Western,Pappy Waldorf,W,20,0
+1947-01-01,Illinois,Western,Ray Eliot,A,UCLA,PCC,Bert LaBrucherie,W,45,14
+1946-09-28,Baylor,SWC,Frank Kimbrough,A,Texas Christian,SWC,Dutch Meyer,L,16,19
+1946-10-12,Baylor,SWC,Frank Kimbrough,A,Arkansas,SWC,John Barnhill,L,0,13
+1946-10-19,Baylor,SWC,Frank Kimbrough,A,Texas Tech,BIAA,Dell Morgan,L,6,13
+1946-10-26,Baylor,SWC,Frank Kimbrough,H,Texas A&M,SWC,Homer Norton,L,0,17
+1946-11-09,Baylor,SWC,Frank Kimbrough,H,Texas,SWC,Dana Bible,L,7,22
+1946-11-16,Baylor,SWC,Frank Kimbrough,A,Tulsa,MVC,John Brothers,L,0,17
+1946-11-23,Baylor,SWC,Frank Kimbrough,H,SMU,SWC,Madison Bell,L,0,35
+1946-11-30,Baylor,SWC,Frank Kimbrough,A,Rice,SWC,Jess Neely,L,6,38
+1946-09-30,SMU,SWC,Madison Bell,A,Temple,Ind,Ray Morrison,T,7,7
+1946-10-05,SMU,SWC,Madison Bell,H,Texas Tech,BIAA,Dell Morgan,L,0,7
+1946-10-11,SMU,SWC,Madison Bell,H,Oklahoma State,MVC,Jim Lookabaugh,W,15,6
+1946-10-19,SMU,SWC,Madison Bell,A,Rice,SWC,Jess Neely,L,7,21
+1946-10-26,SMU,SWC,Madison Bell,A,Missouri,Big 6,Don Faurot,W,17,0
+1946-11-02,SMU,SWC,Madison Bell,A,Texas,SWC,Dana Bible,L,3,19
+1946-11-08,SMU,SWC,Madison Bell,H,Texas A&M,SWC,Homer Norton,L,0,14
+1946-11-16,SMU,SWC,Madison Bell,A,Arkansas,SWC,John Barnhill,L,0,13
+1946-11-23,SMU,SWC,Madison Bell,A,Baylor,SWC,Frank Kimbrough,W,35,0
+1946-11-30,SMU,SWC,Madison Bell,H,Texas Christian,SWC,Dutch Meyer,W,30,13
+1946-09-27,Georgia,SEC,Wallace Butts,H,Clemson,Southern,Frank Howard,W,35,12
+1946-10-04,Georgia,SEC,Wallace Butts,A,Temple,Ind,Ray Morrison,W,35,7
+1946-10-11,Georgia,SEC,Wallace Butts,H,Kentucky,SEC,Bear Bryant,W,28,13
+1946-10-19,Georgia,SEC,Wallace Butts,H,Oklahoma State,MVC,Jim Lookabaugh,W,33,13
+1946-10-26,Georgia,SEC,Wallace Butts,A,Furman,Southern,Robert Smith,W,70,7
+1946-11-02,Georgia,SEC,Wallace Butts,H,Alabama,SEC,Frank Thomas,W,14,0
+1946-11-09,Georgia,SEC,Wallace Butts,N,Florida,SEC,Raymond Wolf,W,33,14
+1946-11-16,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Carl Voyles,W,41,0
+1946-11-23,Georgia,SEC,Wallace Butts,A,Chattanooga,Ind,Andrew Moore,W,48,27
+1946-11-30,Georgia,SEC,Wallace Butts,H,Georgia Tech,SEC,Bobby Dodd,W,35,7
+1947-01-01,Georgia,SEC,Wallace Butts,N,North Carolina,Southern,Carl Snavely,W,20,10
+1946-10-04,Maryland,Southern,Clark Shaughnessy,H,Richmond,Southern,John Fenlon,L,7,37
+1946-10-12,Maryland,Southern,Clark Shaughnessy,A,North Carolina,Southern,Carl Snavely,L,0,33
+1946-10-18,Maryland,Southern,Clark Shaughnessy,H,Virginia Tech,Southern,Jimmy Kitts,W,6,0
+1946-11-02,Maryland,Southern,Clark Shaughnessy,A,William & Mary,Southern,Rube McCray,L,7,41
+1946-11-09,Maryland,Southern,Clark Shaughnessy,H,South Carolina,Southern,Rex Enright,L,17,21
+1946-11-16,Maryland,Southern,Clark Shaughnessy,H,Washington & Lee,Southern,Art Lewis,W,24,7
+1946-11-23,Maryland,Southern,Clark Shaughnessy,A,Michigan State,Ind,Charlie Bachman,L,14,26
+1946-11-30,Maryland,Southern,Clark Shaughnessy,A,North Carolina State,Southern,Beattie Feathers,L,7,28
+1946-10-05,Virginia,Ind,Arthur Guepe,N,Virginia Tech,Southern,Jimmy Kitts,T,21,21
+1946-10-12,Virginia,Ind,Arthur Guepe,H,Virginia Military Institute,Southern,Allison Hubert,W,19,8
+1946-10-19,Virginia,Ind,Arthur Guepe,A,Pennsylvania,Ind,George Munger,L,0,40
+1946-11-02,Virginia,Ind,Arthur Guepe,A,Richmond,Southern,John Fenlon,L,7,19
+1946-11-09,Virginia,Ind,Arthur Guepe,A,Princeton,Ind,Charles Caldwell,W,20,6
+1946-11-16,Virginia,Ind,Arthur Guepe,A,North Carolina State,Southern,Beattie Feathers,L,7,27
+1946-11-23,Virginia,Ind,Arthur Guepe,H,West Virginia,Ind,Bill Kern,W,21,0
+1946-11-30,Virginia,Ind,Arthur Guepe,H,North Carolina,Southern,Carl Snavely,L,14,49
+1946-09-28,Idaho,PCC,Babe Brown,A,Stanford,PCC,Marchy Schwartz,L,0,45
+1946-10-05,Idaho,PCC,Babe Brown,A,Washington State,PCC,Phil Sarboe,L,0,32
+1946-10-12,Idaho,PCC,Babe Brown,A,Marquette,Ind,Frank Murray,L,6,46
+1946-10-26,Idaho,PCC,Babe Brown,H,Oregon,PCC,Tex Oliver,L,13,26
+1946-11-02,Idaho,PCC,Babe Brown,A,Montana,PCC,Doug Fessenden,L,0,19
+1946-11-09,Idaho,PCC,Babe Brown,A,Oregon State,PCC,Lon Stiner,L,0,34
+1946-11-16,Idaho,PCC,Babe Brown,H,Portland,Ind,,W,20,6
+1946-09-21,Northern Arizona,BIAA,Frank Brickey,A,New Mexico,BIAA,Willis Barnes,L,7,12
+1946-10-19,Northern Arizona,BIAA,Frank Brickey,H,New Mexico State,BIAA,Raymond Curfman,W,14,6
+1946-11-02,Northern Arizona,BIAA,Frank Brickey,A,West Texas A&M,BIAA,Windy Nicklaus,L,0,20
+1946-11-16,Northern Arizona,BIAA,Frank Brickey,A,Arizona State,BIAA,Steve Coutchie,T,13,13
+1946-10-05,Portland,Ind,,A,Oregon State,PCC,Lon Stiner,L,0,35
+1946-10-12,Portland,Ind,,A,Santa Clara,Ind,Len Casanova,L,0,6
+1946-10-19,Portland,Ind,,A,Arizona State,BIAA,Steve Coutchie,W,13,0
+1946-11-09,Portland,Ind,,H,Montana State,Ind,Clyde Carpenter,L,6,19
+1946-11-16,Portland,Ind,,A,Idaho,PCC,Babe Brown,L,6,20
+1946-10-05,Citadel,Southern,Quinn Decker,H,William & Mary,Southern,Rube McCray,L,12,51
+1946-10-19,Citadel,Southern,Quinn Decker,H,Furman,Southern,Robert Smith,L,0,14
+1946-11-01,Citadel,Southern,Quinn Decker,N,South Carolina,Southern,Rex Enright,L,7,19
+1946-11-09,Citadel,Southern,Quinn Decker,A,George Washington,Southern,Skip Stahley,L,0,18
+1946-11-16,Citadel,Southern,Quinn Decker,A,Virginia Military Institute,Southern,Allison Hubert,L,7,26
+1946-11-23,Citadel,Southern,Quinn Decker,N,Davidson,Southern,William Story,W,21,13
+1946-09-28,Oklahoma,Big 6,Jim Tatum,A,Army,Ind,Red Blaik,L,7,21
+1946-10-05,Oklahoma,Big 6,Jim Tatum,H,Texas A&M,SWC,Homer Norton,W,10,7
+1946-10-12,Oklahoma,Big 6,Jim Tatum,N,Texas,SWC,Dana Bible,L,13,20
+1946-10-19,Oklahoma,Big 6,Jim Tatum,H,Kansas State,Big 6,Hobbs Adams,W,28,7
+1946-10-26,Oklahoma,Big 6,Jim Tatum,A,Iowa State,Big 6,Mike Michalske,W,63,0
+1946-11-02,Oklahoma,Big 6,Jim Tatum,A,Texas Christian,SWC,Dutch Meyer,W,14,12
+1946-11-09,Oklahoma,Big 6,Jim Tatum,A,Kansas,Big 6,George Sauer,L,13,16
+1946-11-16,Oklahoma,Big 6,Jim Tatum,H,Missouri,Big 6,Don Faurot,W,27,6
+1946-11-23,Oklahoma,Big 6,Jim Tatum,H,Nebraska,Big 6,Bernie Masterson,W,27,6
+1946-11-30,Oklahoma,Big 6,Jim Tatum,A,Oklahoma State,MVC,Jim Lookabaugh,W,73,12
+1947-01-01,Oklahoma,Big 6,Jim Tatum,N,North Carolina State,Southern,Beattie Feathers,W,34,13
+1946-09-28,Virginia Tech,Southern,Jimmy Kitts,A,North Carolina,Southern,Carl Snavely,T,14,14
+1946-10-05,Virginia Tech,Southern,Jimmy Kitts,N,Virginia,Ind,Arthur Guepe,T,21,21
+1946-10-12,Virginia Tech,Southern,Jimmy Kitts,A,William & Mary,Southern,Rube McCray,L,0,49
+1946-10-18,Virginia Tech,Southern,Jimmy Kitts,A,Maryland,Southern,Clark Shaughnessy,L,0,6
+1946-10-26,Virginia Tech,Southern,Jimmy Kitts,H,North Carolina State,Southern,Beattie Feathers,W,14,6
+1946-11-02,Virginia Tech,Southern,Jimmy Kitts,H,Clemson,Southern,Frank Howard,L,7,14
+1946-11-09,Virginia Tech,Southern,Jimmy Kitts,N,Washington & Lee,Southern,Art Lewis,W,13,7
+1946-11-16,Virginia Tech,Southern,Jimmy Kitts,A,Richmond,Southern,John Fenlon,T,7,7
+1946-11-28,Virginia Tech,Southern,Jimmy Kitts,N,Virginia Military Institute,Southern,Allison Hubert,W,20,7
+1946-09-28,Arkansas,SWC,John Barnhill,A,Oklahoma State,MVC,Jim Lookabaugh,T,21,21
+1946-10-05,Arkansas,SWC,John Barnhill,A,Texas Christian,SWC,Dutch Meyer,W,34,14
+1946-10-12,Arkansas,SWC,John Barnhill,H,Baylor,SWC,Frank Kimbrough,W,13,0
+1946-10-19,Arkansas,SWC,John Barnhill,A,Texas,SWC,Dana Bible,L,0,20
+1946-10-26,Arkansas,SWC,John Barnhill,N,Ole Miss,SEC,Red Drew,L,7,9
+1946-11-02,Arkansas,SWC,John Barnhill,A,Texas A&M,SWC,Homer Norton,W,7,0
+1946-11-09,Arkansas,SWC,John Barnhill,H,Rice,SWC,Jess Neely,W,7,0
+1946-11-16,Arkansas,SWC,John Barnhill,H,SMU,SWC,Madison Bell,W,13,0
+1946-11-28,Arkansas,SWC,John Barnhill,A,Tulsa,MVC,John Brothers,L,13,14
+1947-01-01,Arkansas,SWC,John Barnhill,N,LSU,SEC,Bernie Moore,T,0,0
+1946-09-27,Clemson,Southern,Frank Howard,A,Georgia,SEC,Wallace Butts,L,12,35
+1946-10-05,Clemson,Southern,Frank Howard,H,North Carolina State,Southern,Beattie Feathers,L,7,14
+1946-10-12,Clemson,Southern,Frank Howard,A,Wake Forest,Southern,D.C. Walker,L,7,19
+1946-10-24,Clemson,Southern,Frank Howard,A,South Carolina,Southern,Rex Enright,L,14,26
+1946-11-02,Clemson,Southern,Frank Howard,A,Virginia Tech,Southern,Jimmy Kitts,W,14,7
+1946-11-09,Clemson,Southern,Frank Howard,A,Tulane,SEC,Henry Frnka,L,13,54
+1946-11-16,Clemson,Southern,Frank Howard,H,Furman,Southern,Robert Smith,W,20,6
+1946-11-23,Clemson,Southern,Frank Howard,A,Auburn,SEC,Carl Voyles,W,21,13
+1946-10-05,South Carolina,Southern,Rex Enright,H,Alabama,SEC,Frank Thomas,L,6,14
+1946-10-11,South Carolina,Southern,Rex Enright,A,Furman,Southern,Robert Smith,W,14,7
+1946-10-24,South Carolina,Southern,Rex Enright,H,Clemson,Southern,Frank Howard,W,26,14
+1946-11-01,South Carolina,Southern,Rex Enright,N,Citadel,Southern,Quinn Decker,W,19,7
+1946-11-09,South Carolina,Southern,Rex Enright,A,Maryland,Southern,Clark Shaughnessy,W,21,17
+1946-11-16,South Carolina,Southern,Rex Enright,H,Duke,Southern,Wallace Wade,L,0,39
+1946-11-28,South Carolina,Southern,Rex Enright,N,Wake Forest,Southern,D.C. Walker,L,0,35
+1946-09-28,Washington,PCC,Ralph Welch,H,Saint Mary's (CA),Ind,James Phelan,L,20,24
+1946-10-05,Washington,PCC,Ralph Welch,H,UCLA,PCC,Bert LaBrucherie,L,13,39
+1946-10-12,Washington,PCC,Ralph Welch,A,Washington State,PCC,Phil Sarboe,W,21,7
+1946-10-19,Washington,PCC,Ralph Welch,A,USC,PCC,Jeff Cravath,L,0,28
+1946-10-26,Washington,PCC,Ralph Welch,H,California,PCC,Frank Wickhorst,W,20,6
+1946-11-09,Washington,PCC,Ralph Welch,A,Stanford,PCC,Marchy Schwartz,W,21,15
+1946-11-16,Washington,PCC,Ralph Welch,H,Oregon,PCC,Tex Oliver,W,16,0
+1946-11-23,Washington,PCC,Ralph Welch,H,Montana,PCC,Doug Fessenden,W,21,0
+1946-11-30,Washington,PCC,Ralph Welch,A,Oregon State,PCC,Lon Stiner,L,12,21
+1946-10-05,Santa Clara,Ind,Len Casanova,A,Nevada,Ind,Jim Aiken,L,7,33
+1946-10-12,Santa Clara,Ind,Len Casanova,H,Portland,Ind,,W,6,0
+1946-10-19,Santa Clara,Ind,Len Casanova,A,Stanford,PCC,Marchy Schwartz,L,26,33
+1946-10-26,Santa Clara,Ind,Len Casanova,A,UCLA,PCC,Bert LaBrucherie,L,7,33
+1946-11-02,Santa Clara,Ind,Len Casanova,H,San Francisco,Ind,Maurice Smith,W,19,13
+1946-11-09,Santa Clara,Ind,Len Casanova,A,Arizona,BIAA,Miles Casteel,T,21,21
+1946-11-16,Santa Clara,Ind,Len Casanova,H,Saint Mary's (CA),Ind,James Phelan,L,19,28
+1946-09-28,Holy Cross,Ind,John DaGrosa,H,Dartmouth,Ind,DeOrmond McLaughry,L,0,3
+1946-10-05,Holy Cross,Ind,John DaGrosa,H,Detroit Mercy,Ind,Chuck Baer,W,16,14
+1946-10-12,Holy Cross,Ind,John DaGrosa,H,Villanova,Ind,Jordan Olivar,L,13,14
+1946-10-19,Holy Cross,Ind,John DaGrosa,H,Syracuse,Ind,Biggie Munn,L,12,21
+1946-10-26,Holy Cross,Ind,John DaGrosa,A,Harvard,Ind,Dick Harlow,L,6,13
+1946-11-02,Holy Cross,Ind,John DaGrosa,H,Brown,Ind,Rip Engle,W,21,19
+1946-11-09,Holy Cross,Ind,John DaGrosa,H,Colgate,Ind,Andrew Kerr,W,21,6
+1946-11-23,Holy Cross,Ind,John DaGrosa,A,Temple,Ind,Ray Morrison,W,12,7
+1946-11-30,Holy Cross,Ind,John DaGrosa,N,Boston College,Ind,Denny Myers,W,13,6
+1946-10-05,Utah State,MSAC,E. Lowell Romney,A,Colorado,MSAC,Jim Yeager,L,0,6
+1946-10-12,Utah State,MSAC,E. Lowell Romney,H,Montana State,Ind,Clyde Carpenter,W,28,14
+1946-10-19,Utah State,MSAC,E. Lowell Romney,H,Colorado State,MSAC,Julius Wagner,W,48,0
+1946-10-26,Utah State,MSAC,E. Lowell Romney,A,Montana,PCC,Doug Fessenden,W,26,0
+1946-11-09,Utah State,MSAC,E. Lowell Romney,H,Brigham Young,MSAC,Edwin Kimball,T,0,0
+1946-11-16,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Bunny Oakes,W,21,7
+1946-11-28,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,W,22,14
+1946-12-07,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Cac Hubbard,W,28,14
+1946-09-21,Missouri,Big 6,Don Faurot,A,Texas,SWC,Dana Bible,L,0,42
+1946-09-28,Missouri,Big 6,Don Faurot,A,Ohio State,Western,Paul Bixler,T,13,13
+1946-10-04,Missouri,Big 6,Don Faurot,A,Saint Louis,MVC,,W,19,14
+1946-10-12,Missouri,Big 6,Don Faurot,A,Kansas State,Big 6,Hobbs Adams,W,26,0
+1946-10-19,Missouri,Big 6,Don Faurot,H,Iowa State,Big 6,Mike Michalske,W,33,13
+1946-10-26,Missouri,Big 6,Don Faurot,H,SMU,SWC,Madison Bell,L,0,17
+1946-11-02,Missouri,Big 6,Don Faurot,A,Nebraska,Big 6,Bernie Masterson,W,21,20
+1946-11-09,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Jim Yeager,W,21,0
+1946-11-16,Missouri,Big 6,Don Faurot,A,Oklahoma,Big 6,Jim Tatum,L,6,27
+1946-11-28,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,George Sauer,L,19,20
+1946-09-28,Montana State,Ind,Clyde Carpenter,H,Brigham Young,MSAC,Edwin Kimball,W,13,12
+1946-10-12,Montana State,Ind,Clyde Carpenter,A,Utah State,MSAC,E. Lowell Romney,L,14,28
+1946-10-19,Montana State,Ind,Clyde Carpenter,N,Montana,PCC,Doug Fessenden,L,7,20
+1946-11-02,Montana State,Ind,Clyde Carpenter,A,Nevada,Ind,Jim Aiken,L,14,38
+1946-11-09,Montana State,Ind,Clyde Carpenter,A,Portland,Ind,,W,19,6
+1947-01-01,Montana State,Ind,Clyde Carpenter,N,New Mexico,BIAA,Willis Barnes,T,13,13
+1946-09-28,Hardin-Simmons,BIAA,Warren Woodson,H,Kansas State,Big 6,Hobbs Adams,W,21,7
+1946-10-18,Hardin-Simmons,BIAA,Warren Woodson,A,New Mexico,BIAA,Willis Barnes,W,49,0
+1946-10-26,Hardin-Simmons,BIAA,Warren Woodson,H,Arizona State,BIAA,Steve Coutchie,W,46,6
+1946-11-02,Hardin-Simmons,BIAA,Warren Woodson,A,Arizona,BIAA,Miles Casteel,W,19,8
+1946-11-09,Hardin-Simmons,BIAA,Warren Woodson,H,West Texas A&M,BIAA,Windy Nicklaus,W,28,7
+1946-11-16,Hardin-Simmons,BIAA,Warren Woodson,A,UTEP,BIAA,Jack Curtice,W,20,7
+1946-11-30,Hardin-Simmons,BIAA,Warren Woodson,H,Texas Tech,BIAA,Dell Morgan,W,21,6
+1947-01-04,Hardin-Simmons,BIAA,Warren Woodson,N,Denver,MSAC,Cac Hubbard,W,20,0
+1946-09-21,Denver,MSAC,Cac Hubbard,A,Oklahoma State,MVC,Jim Lookabaugh,L,7,40
+1946-09-27,Denver,MSAC,Cac Hubbard,H,Kansas,Big 6,George Sauer,L,13,21
+1946-10-04,Denver,MSAC,Cac Hubbard,H,Brigham Young,MSAC,Edwin Kimball,W,26,13
+1946-10-12,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Julius Wagner,W,33,0
+1946-10-19,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,W,20,14
+1946-10-26,Denver,MSAC,Cac Hubbard,A,Texas Tech,BIAA,Dell Morgan,L,6,21
+1946-11-09,Denver,MSAC,Cac Hubbard,A,Wyoming,MSAC,Bunny Oakes,W,19,6
+1946-11-16,Denver,MSAC,Cac Hubbard,A,Colorado,MSAC,Jim Yeager,T,13,13
+1946-12-07,Denver,MSAC,Cac Hubbard,H,Utah State,MSAC,E. Lowell Romney,L,14,28
+1947-01-04,Denver,MSAC,Cac Hubbard,N,Hardin-Simmons,BIAA,Warren Woodson,L,0,20
+1946-09-21,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Frank Murray,W,34,0
+1946-09-28,Wisconsin,Western,Harry Stuhldreher,A,California,PCC,Frank Wickhorst,W,28,7
+1946-10-05,Wisconsin,Western,Harry Stuhldreher,A,Northwestern,Western,Pappy Waldorf,L,0,28
+1946-10-12,Wisconsin,Western,Harry Stuhldreher,H,Ohio State,Western,Paul Bixler,W,20,7
+1946-10-19,Wisconsin,Western,Harry Stuhldreher,A,Illinois,Western,Ray Eliot,L,21,27
+1946-11-02,Wisconsin,Western,Harry Stuhldreher,A,Purdue,Western,Cecil Isbell,W,24,20
+1946-11-09,Wisconsin,Western,Harry Stuhldreher,H,Iowa,Western,Edward Anderson,L,7,21
+1946-11-16,Wisconsin,Western,Harry Stuhldreher,A,Michigan,Western,Fritz Crisler,L,6,28
+1946-11-23,Wisconsin,Western,Harry Stuhldreher,H,Minnesota,Western,Bernie Bierman,L,0,6
+1946-09-28,Bucknell,Ind,Al Humphreys,A,Cornell,Ind,Ed McKeever,L,0,21
+1946-10-05,Bucknell,Ind,Al Humphreys,A,Penn State,Ind,Bob Higgins,L,6,48
+1946-10-26,Bucknell,Ind,Al Humphreys,H,Lafayette,Ind,Hook Mylin,W,29,0
+1946-11-16,Bucknell,Ind,Al Humphreys,A,Temple,Ind,Ray Morrison,L,6,27
+1946-11-23,Bucknell,Ind,Al Humphreys,A,Rutgers,Ind,Harvey Harman,L,0,25
+1946-09-29,Nevada,Ind,Jim Aiken,A,San Francisco,Ind,Maurice Smith,L,14,26
+1946-10-05,Nevada,Ind,Jim Aiken,H,Santa Clara,Ind,Len Casanova,W,33,7
+1946-10-12,Nevada,Ind,Jim Aiken,H,Arizona State,BIAA,Steve Coutchie,W,74,2
+1946-10-27,Nevada,Ind,Jim Aiken,A,Saint Mary's (CA),Ind,James Phelan,L,12,13
+1946-11-02,Nevada,Ind,Jim Aiken,H,Montana State,Ind,Clyde Carpenter,W,38,14
+1946-09-27,USC,PCC,Jeff Cravath,H,Washington State,PCC,Phil Sarboe,W,13,7
+1946-10-05,USC,PCC,Jeff Cravath,H,Ohio State,Western,Paul Bixler,L,0,21
+1946-10-12,USC,PCC,Jeff Cravath,A,Oregon State,PCC,Lon Stiner,L,0,6
+1946-10-19,USC,PCC,Jeff Cravath,H,Washington,PCC,Ralph Welch,W,28,0
+1946-10-26,USC,PCC,Jeff Cravath,A,Stanford,PCC,Marchy Schwartz,W,28,20
+1946-11-02,USC,PCC,Jeff Cravath,H,Oregon,PCC,Tex Oliver,W,43,0
+1946-11-09,USC,PCC,Jeff Cravath,H,California,PCC,Frank Wickhorst,W,14,0
+1946-11-23,USC,PCC,Jeff Cravath,A,UCLA,PCC,Bert LaBrucherie,L,6,13
+1946-11-30,USC,PCC,Jeff Cravath,A,Notre Dame,Ind,Frank Leahy,L,6,26
+1946-12-21,USC,PCC,Jeff Cravath,A,Tulane,SEC,Henry Frnka,W,20,13
+1946-09-28,North Carolina State,Southern,Beattie Feathers,H,Duke,Southern,Wallace Wade,W,13,6
+1946-10-05,North Carolina State,Southern,Beattie Feathers,A,Clemson,Southern,Frank Howard,W,14,7
+1946-10-12,North Carolina State,Southern,Beattie Feathers,H,Davidson,Southern,William Story,W,25,0
+1946-10-19,North Carolina State,Southern,Beattie Feathers,A,Wake Forest,Southern,D.C. Walker,W,14,6
+1946-10-26,North Carolina State,Southern,Beattie Feathers,A,Virginia Tech,Southern,Jimmy Kitts,L,6,14
+1946-11-02,North Carolina State,Southern,Beattie Feathers,A,Virginia Military Institute,Southern,Allison Hubert,W,49,7
+1946-11-09,North Carolina State,Southern,Beattie Feathers,A,Vanderbilt,SEC,Red Sanders,L,0,7
+1946-11-16,North Carolina State,Southern,Beattie Feathers,H,Virginia,Ind,Arthur Guepe,W,27,7
+1946-11-23,North Carolina State,Southern,Beattie Feathers,A,Florida,SEC,Raymond Wolf,W,37,6
+1946-11-30,North Carolina State,Southern,Beattie Feathers,H,Maryland,Southern,Clark Shaughnessy,W,28,7
+1947-01-01,North Carolina State,Southern,Beattie Feathers,N,Oklahoma,Big 6,Jim Tatum,L,13,34
+1946-09-28,Rutgers,Ind,Harvey Harman,A,Columbia,Ind,Lou Little,L,7,13
+1946-10-12,Rutgers,Ind,Harvey Harman,A,New York University,Ind,John Weinheimer,W,26,0
+1946-10-19,Rutgers,Ind,Harvey Harman,A,Princeton,Ind,Charles Caldwell,L,7,14
+1946-10-26,Rutgers,Ind,Harvey Harman,H,George Washington,Southern,Skip Stahley,W,25,13
+1946-11-02,Rutgers,Ind,Harvey Harman,A,Harvard,Ind,Dick Harlow,W,13,0
+1946-11-09,Rutgers,Ind,Harvey Harman,H,Lafayette,Ind,Hook Mylin,W,41,2
+1946-11-23,Rutgers,Ind,Harvey Harman,H,Bucknell,Ind,Al Humphreys,W,25,0
+1946-09-14,Merchant Marine,Ind,Bill Reinhart,A,Villanova,Ind,Jordan Olivar,L,6,40
+1946-09-28,Merchant Marine,Ind,Bill Reinhart,A,Yale,Ind,Howard Odell,L,0,33
+1946-10-05,Merchant Marine,Ind,Bill Reinhart,H,George Washington,Southern,Skip Stahley,L,18,37
+1946-10-12,Merchant Marine,Ind,Bill Reinhart,A,Boston College,Ind,Denny Myers,L,7,56
+1946-10-19,Merchant Marine,Ind,Bill Reinhart,A,Colgate,Ind,Andrew Kerr,L,7,47
+1946-10-26,Merchant Marine,Ind,Bill Reinhart,H,Fordham,Ind,Edward Danowski,W,7,6
+1946-09-28,Michigan,Western,Fritz Crisler,H,Indiana,Western,Bo McMillin,W,21,0
+1946-10-05,Michigan,Western,Fritz Crisler,H,Iowa,Western,Edward Anderson,W,14,7
+1946-10-12,Michigan,Western,Fritz Crisler,H,Army,Ind,Red Blaik,L,13,20
+1946-10-19,Michigan,Western,Fritz Crisler,H,Northwestern,Western,Pappy Waldorf,T,14,14
+1946-10-26,Michigan,Western,Fritz Crisler,H,Illinois,Western,Ray Eliot,L,9,13
+1946-11-02,Michigan,Western,Fritz Crisler,A,Minnesota,Western,Bernie Bierman,W,21,0
+1946-11-09,Michigan,Western,Fritz Crisler,H,Michigan State,Ind,Charlie Bachman,W,55,7
+1946-11-16,Michigan,Western,Fritz Crisler,H,Wisconsin,Western,Harry Stuhldreher,W,28,6
+1946-11-23,Michigan,Western,Fritz Crisler,A,Ohio State,Western,Paul Bixler,W,58,6
+1946-10-05,Detroit Mercy,Ind,Chuck Baer,A,Holy Cross,Ind,John DaGrosa,L,14,16
+1946-10-13,Detroit Mercy,Ind,Chuck Baer,A,San Francisco,Ind,Maurice Smith,W,18,6
+1946-10-18,Detroit Mercy,Ind,Chuck Baer,H,Tulsa,MVC,John Brothers,W,20,14
+1946-10-25,Detroit Mercy,Ind,Chuck Baer,H,Drake,MVC,Vee Green,W,33,6
+1946-11-01,Detroit Mercy,Ind,Chuck Baer,H,Marquette,Ind,Frank Murray,L,20,21
+1946-11-08,Detroit Mercy,Ind,Chuck Baer,H,Villanova,Ind,Jordan Olivar,L,6,23
+1946-11-15,Detroit Mercy,Ind,Chuck Baer,A,Saint Louis,MVC,,W,33,14
+1946-11-29,Detroit Mercy,Ind,Chuck Baer,A,Miami (FL),Ind,Jack Harding,L,7,21
+1946-09-30,Temple,Ind,Ray Morrison,H,SMU,SWC,Madison Bell,T,7,7
+1946-10-04,Temple,Ind,Ray Morrison,H,Georgia,SEC,Wallace Butts,L,7,35
+1946-10-12,Temple,Ind,Ray Morrison,A,Pitt,Ind,Wesley Fesler,T,0,0
+1946-10-18,Temple,Ind,Ray Morrison,H,West Virginia,Ind,Bill Kern,W,6,0
+1946-11-02,Temple,Ind,Ray Morrison,A,Syracuse,Ind,Biggie Munn,L,7,28
+1946-11-09,Temple,Ind,Ray Morrison,A,Penn State,Ind,Bob Higgins,L,0,26
+1946-11-16,Temple,Ind,Ray Morrison,H,Bucknell,Ind,Al Humphreys,W,27,6
+1946-11-23,Temple,Ind,Ray Morrison,H,Holy Cross,Ind,John DaGrosa,L,7,12
+1946-09-21,New Mexico,BIAA,Willis Barnes,H,Northern Arizona,BIAA,Frank Brickey,W,12,7
+1946-09-28,New Mexico,BIAA,Willis Barnes,A,Utah,MSAC,Ike Armstrong,L,14,56
+1946-10-04,New Mexico,BIAA,Willis Barnes,H,West Texas A&M,BIAA,Windy Nicklaus,W,6,0
+1946-10-12,New Mexico,BIAA,Willis Barnes,A,New Mexico State,BIAA,Raymond Curfman,W,7,6
+1946-10-18,New Mexico,BIAA,Willis Barnes,H,Hardin-Simmons,BIAA,Warren Woodson,L,0,49
+1946-10-26,New Mexico,BIAA,Willis Barnes,A,Colorado,MSAC,Jim Yeager,L,13,14
+1946-11-02,New Mexico,BIAA,Willis Barnes,H,UTEP,BIAA,Jack Curtice,W,21,13
+1946-11-09,New Mexico,BIAA,Willis Barnes,H,Texas Tech,BIAA,Dell Morgan,L,0,27
+1946-11-16,New Mexico,BIAA,Willis Barnes,H,Arizona,BIAA,Miles Casteel,T,13,13
+1946-11-23,New Mexico,BIAA,Willis Barnes,H,Kansas State,Big 6,Hobbs Adams,W,14,7
+1947-01-01,New Mexico,BIAA,Willis Barnes,N,Montana State,Ind,Clyde Carpenter,T,13,13
+1946-09-28,Notre Dame,Ind,Frank Leahy,A,Illinois,Western,Ray Eliot,W,26,6
+1946-10-05,Notre Dame,Ind,Frank Leahy,H,Pitt,Ind,Wesley Fesler,W,33,0
+1946-10-12,Notre Dame,Ind,Frank Leahy,H,Purdue,Western,Cecil Isbell,W,49,6
+1946-10-26,Notre Dame,Ind,Frank Leahy,A,Iowa,Western,Edward Anderson,W,41,6
+1946-11-02,Notre Dame,Ind,Frank Leahy,A,Navy,Ind,Thomas Hamilton,W,28,0
+1946-11-09,Notre Dame,Ind,Frank Leahy,A,Army,Ind,Red Blaik,T,0,0
+1946-11-16,Notre Dame,Ind,Frank Leahy,H,Northwestern,Western,Pappy Waldorf,W,27,0
+1946-11-23,Notre Dame,Ind,Frank Leahy,A,Tulane,SEC,Henry Frnka,W,41,0
+1946-11-30,Notre Dame,Ind,Frank Leahy,H,USC,PCC,Jeff Cravath,W,26,6
+1946-09-21,Pitt,Ind,Wesley Fesler,H,Illinois,Western,Ray Eliot,L,7,33
+1946-09-28,Pitt,Ind,Wesley Fesler,H,West Virginia,Ind,Bill Kern,W,33,7
+1946-10-05,Pitt,Ind,Wesley Fesler,A,Notre Dame,Ind,Frank Leahy,L,0,33
+1946-10-12,Pitt,Ind,Wesley Fesler,H,Temple,Ind,Ray Morrison,T,0,0
+1946-10-19,Pitt,Ind,Wesley Fesler,H,Marquette,Ind,Frank Murray,W,7,6
+1946-10-26,Pitt,Ind,Wesley Fesler,H,Purdue,Western,Cecil Isbell,L,8,10
+1946-11-02,Pitt,Ind,Wesley Fesler,A,Indiana,Western,Bo McMillin,L,6,20
+1946-11-09,Pitt,Ind,Wesley Fesler,A,Ohio State,Western,Paul Bixler,L,13,20
+1946-11-23,Pitt,Ind,Wesley Fesler,H,Penn State,Ind,Bob Higgins,W,14,7
+1946-09-21,West Texas A&M,BIAA,Windy Nicklaus,A,Texas Tech,BIAA,Dell Morgan,L,14,26
+1946-10-04,West Texas A&M,BIAA,Windy Nicklaus,A,New Mexico,BIAA,Willis Barnes,L,0,6
+1946-10-19,West Texas A&M,BIAA,Windy Nicklaus,A,UTEP,BIAA,Jack Curtice,L,20,26
+1946-10-26,West Texas A&M,BIAA,Windy Nicklaus,H,New Mexico State,BIAA,Raymond Curfman,W,21,14
+1946-11-02,West Texas A&M,BIAA,Windy Nicklaus,H,Northern Arizona,BIAA,Frank Brickey,W,20,0
+1946-11-09,West Texas A&M,BIAA,Windy Nicklaus,A,Hardin-Simmons,BIAA,Warren Woodson,L,7,28
+1946-11-15,West Texas A&M,BIAA,Windy Nicklaus,H,Wichita State,MVC,Ralph Graham,W,7,6
+1946-11-23,West Texas A&M,BIAA,Windy Nicklaus,A,Arizona State,BIAA,Steve Coutchie,W,7,0
+1946-09-28,Saint Mary's (CA),Ind,James Phelan,A,Washington,PCC,Ralph Welch,W,24,20
+1946-10-12,Saint Mary's (CA),Ind,James Phelan,A,California,PCC,Frank Wickhorst,L,13,20
+1946-10-19,Saint Mary's (CA),Ind,James Phelan,A,Fordham,Ind,Edward Danowski,W,33,2
+1946-10-27,Saint Mary's (CA),Ind,James Phelan,H,Nevada,Ind,Jim Aiken,W,13,12
+1946-11-01,Saint Mary's (CA),Ind,James Phelan,A,UCLA,PCC,Bert LaBrucherie,L,20,46
+1946-11-16,Saint Mary's (CA),Ind,James Phelan,A,Santa Clara,Ind,Len Casanova,W,28,19
+1946-11-30,Saint Mary's (CA),Ind,James Phelan,A,San Francisco,Ind,Maurice Smith,W,6,0
+1947-01-01,Saint Mary's (CA),Ind,James Phelan,N,Georgia Tech,SEC,Bobby Dodd,L,19,41
+1946-10-05,George Washington,Southern,Skip Stahley,A,Merchant Marine,Ind,Bill Reinhart,W,37,18
+1946-10-26,George Washington,Southern,Skip Stahley,A,Rutgers,Ind,Harvey Harman,L,13,25
+1946-11-02,George Washington,Southern,Skip Stahley,H,Georgetown,Ind,Jack Hagerty,L,6,18
+1946-11-09,George Washington,Southern,Skip Stahley,H,Citadel,Southern,Quinn Decker,W,18,0
+1946-11-16,George Washington,Southern,Skip Stahley,H,William & Mary,Southern,Rube McCray,L,0,20
+1946-10-05,Wyoming,MSAC,Bunny Oakes,H,Colorado State,MSAC,Julius Wagner,L,0,7
+1946-10-12,Wyoming,MSAC,Bunny Oakes,H,Colorado,MSAC,Jim Yeager,L,0,20
+1946-10-19,Wyoming,MSAC,Bunny Oakes,A,Minnesota,Western,Bernie Bierman,L,0,46
+1946-10-26,Wyoming,MSAC,Bunny Oakes,A,Utah,MSAC,Ike Armstrong,L,7,27
+1946-11-02,Wyoming,MSAC,Bunny Oakes,A,Brigham Young,MSAC,Edwin Kimball,L,3,6
+1946-11-09,Wyoming,MSAC,Bunny Oakes,H,Denver,MSAC,Cac Hubbard,L,6,19
+1946-11-16,Wyoming,MSAC,Bunny Oakes,A,Utah State,MSAC,E. Lowell Romney,L,7,21
+1946-11-24,Wyoming,MSAC,Bunny Oakes,A,San Francisco,Ind,Maurice Smith,L,7,39
+1946-09-28,Brigham Young,MSAC,Edwin Kimball,A,Montana State,Ind,Clyde Carpenter,L,12,13
+1946-10-04,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,L,13,26
+1946-10-12,Brigham Young,MSAC,Edwin Kimball,H,Utah,MSAC,Ike Armstrong,L,6,35
+1946-10-19,Brigham Young,MSAC,Edwin Kimball,H,Colorado,MSAC,Jim Yeager,W,10,7
+1946-11-02,Brigham Young,MSAC,Edwin Kimball,H,Wyoming,MSAC,Bunny Oakes,W,6,3
+1946-11-09,Brigham Young,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,T,0,0
+1946-11-16,Brigham Young,MSAC,Edwin Kimball,A,Colorado State,MSAC,Julius Wagner,W,20,6
+1946-11-22,Brigham Young,MSAC,Edwin Kimball,A,UTEP,BIAA,Jack Curtice,W,14,13
+1946-09-28,Yale,Ind,Howard Odell,H,Merchant Marine,Ind,Bill Reinhart,W,33,0
+1946-10-05,Yale,Ind,Howard Odell,H,Colgate,Ind,Andrew Kerr,W,27,6
+1946-10-12,Yale,Ind,Howard Odell,H,Columbia,Ind,Lou Little,L,20,28
+1946-10-19,Yale,Ind,Howard Odell,A,Cornell,Ind,Ed McKeever,T,6,6
+1946-11-02,Yale,Ind,Howard Odell,H,Dartmouth,Ind,DeOrmond McLaughry,W,33,2
+1946-11-09,Yale,Ind,Howard Odell,H,Brown,Ind,Rip Engle,W,49,0
+1946-11-16,Yale,Ind,Howard Odell,H,Princeton,Ind,Charles Caldwell,W,30,2
+1946-11-23,Yale,Ind,Howard Odell,A,Harvard,Ind,Dick Harlow,W,27,14
+1946-09-28,Georgia Tech,SEC,Bobby Dodd,A,Tennessee,SEC,Bob Neyland,L,9,13
+1946-10-05,Georgia Tech,SEC,Bobby Dodd,H,Virginia Military Institute,Southern,Allison Hubert,W,32,6
+1946-10-12,Georgia Tech,SEC,Bobby Dodd,H,Ole Miss,SEC,Red Drew,W,24,7
+1946-10-19,Georgia Tech,SEC,Bobby Dodd,A,LSU,SEC,Bernie Moore,W,26,7
+1946-10-26,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Carl Voyles,W,27,6
+1946-11-02,Georgia Tech,SEC,Bobby Dodd,A,Duke,Southern,Wallace Wade,W,14,0
+1946-11-09,Georgia Tech,SEC,Bobby Dodd,H,Navy,Ind,Thomas Hamilton,W,28,20
+1946-11-16,Georgia Tech,SEC,Bobby Dodd,H,Tulane,SEC,Henry Frnka,W,35,7
+1946-11-23,Georgia Tech,SEC,Bobby Dodd,H,Furman,Southern,Robert Smith,W,41,7
+1946-11-30,Georgia Tech,SEC,Bobby Dodd,A,Georgia,SEC,Wallace Butts,L,7,35
+1947-01-01,Georgia Tech,SEC,Bobby Dodd,N,Saint Mary's (CA),Ind,James Phelan,W,41,19
+1946-09-27,Wake Forest,Southern,D.C. Walker,A,Boston College,Ind,Denny Myers,W,12,6
+1946-10-04,Wake Forest,Southern,D.C. Walker,A,Georgetown,Ind,Jack Hagerty,W,19,6
+1946-10-12,Wake Forest,Southern,D.C. Walker,H,Clemson,Southern,Frank Howard,W,19,7
+1946-10-19,Wake Forest,Southern,D.C. Walker,H,North Carolina State,Southern,Beattie Feathers,L,6,14
+1946-10-26,Wake Forest,Southern,D.C. Walker,A,Tennessee,SEC,Bob Neyland,W,19,6
+1946-11-01,Wake Forest,Southern,D.C. Walker,A,Chattanooga,Ind,Andrew Moore,W,32,14
+1946-11-09,Wake Forest,Southern,D.C. Walker,A,Duke,Southern,Wallace Wade,L,0,13
+1946-11-16,Wake Forest,Southern,D.C. Walker,A,North Carolina,Southern,Carl Snavely,L,14,26
+1946-11-28,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,Rex Enright,W,35,0
+1946-09-29,Mississippi State,SEC,Allyn McKeen,H,Chattanooga,Ind,Andrew Moore,W,41,7
+1946-10-05,Mississippi State,SEC,Allyn McKeen,A,LSU,SEC,Bernie Moore,L,6,13
+1946-10-12,Mississippi State,SEC,Allyn McKeen,A,Michigan State,Ind,Charlie Bachman,W,6,0
+1946-10-19,Mississippi State,SEC,Allyn McKeen,H,San Francisco,Ind,Maurice Smith,W,48,20
+1946-10-26,Mississippi State,SEC,Allyn McKeen,A,Tulane,SEC,Henry Frnka,W,14,7
+1946-11-09,Mississippi State,SEC,Allyn McKeen,A,Auburn,SEC,Carl Voyles,W,33,0
+1946-11-23,Mississippi State,SEC,Allyn McKeen,A,Ole Miss,SEC,Red Drew,W,20,0
+1946-11-30,Mississippi State,SEC,Allyn McKeen,A,Alabama,SEC,Frank Thomas,L,7,24
+1946-09-28,Virginia Military Institute,Southern,Allison Hubert,A,Richmond,Southern,John Fenlon,T,7,7
+1946-10-05,Virginia Military Institute,Southern,Allison Hubert,A,Georgia Tech,SEC,Bobby Dodd,L,6,32
+1946-10-12,Virginia Military Institute,Southern,Allison Hubert,A,Virginia,Ind,Arthur Guepe,L,8,19
+1946-10-19,Virginia Military Institute,Southern,Allison Hubert,H,Davidson,Southern,William Story,W,25,0
+1946-10-26,Virginia Military Institute,Southern,Allison Hubert,A,William & Mary,Southern,Rube McCray,L,0,41
+1946-11-02,Virginia Military Institute,Southern,Allison Hubert,H,North Carolina State,Southern,Beattie Feathers,L,7,49
+1946-11-09,Virginia Military Institute,Southern,Allison Hubert,A,Furman,Southern,Robert Smith,W,26,7
+1946-11-16,Virginia Military Institute,Southern,Allison Hubert,H,Citadel,Southern,Quinn Decker,W,26,7
+1946-11-28,Virginia Military Institute,Southern,Allison Hubert,N,Virginia Tech,Southern,Jimmy Kitts,L,7,20
+1946-09-28,Kansas State,Big 6,Hobbs Adams,A,Hardin-Simmons,BIAA,Warren Woodson,L,7,21
+1946-10-05,Kansas State,Big 6,Hobbs Adams,A,Nebraska,Big 6,Bernie Masterson,L,0,31
+1946-10-12,Kansas State,Big 6,Hobbs Adams,H,Missouri,Big 6,Don Faurot,L,0,26
+1946-10-19,Kansas State,Big 6,Hobbs Adams,A,Oklahoma,Big 6,Jim Tatum,L,7,28
+1946-11-02,Kansas State,Big 6,Hobbs Adams,H,Iowa State,Big 6,Mike Michalske,L,7,13
+1946-11-09,Kansas State,Big 6,Hobbs Adams,A,San Francisco,Ind,Maurice Smith,L,6,38
+1946-11-16,Kansas State,Big 6,Hobbs Adams,H,Kansas,Big 6,George Sauer,L,0,34
+1946-11-23,Kansas State,Big 6,Hobbs Adams,A,New Mexico,BIAA,Willis Barnes,L,7,14
+1946-11-30,Kansas State,Big 6,Hobbs Adams,A,Arizona,BIAA,Miles Casteel,L,7,28
+1946-09-28,Saint Louis,MVC,,A,Marquette,Ind,Frank Murray,L,0,26
+1946-10-04,Saint Louis,MVC,,H,Missouri,Big 6,Don Faurot,L,14,19
+1946-10-12,Saint Louis,MVC,,A,Auburn,SEC,Carl Voyles,L,7,27
+1946-10-19,Saint Louis,MVC,,A,Drake,MVC,Vee Green,W,27,6
+1946-10-26,Saint Louis,MVC,,A,Georgetown,Ind,Jack Hagerty,L,7,13
+1946-11-09,Saint Louis,MVC,,H,Wichita State,MVC,Ralph Graham,L,0,13
+1946-11-15,Saint Louis,MVC,,H,Detroit Mercy,Ind,Chuck Baer,L,14,33
+1946-09-29,Chattanooga,Ind,Andrew Moore,A,Mississippi State,SEC,Allyn McKeen,L,7,41
+1946-10-12,Chattanooga,Ind,Andrew Moore,A,Tennessee,SEC,Bob Neyland,L,7,47
+1946-10-25,Chattanooga,Ind,Andrew Moore,A,Miami (FL),Ind,Jack Harding,L,13,33
+1946-11-01,Chattanooga,Ind,Andrew Moore,H,Wake Forest,Southern,D.C. Walker,L,14,32
+1946-11-23,Chattanooga,Ind,Andrew Moore,H,Georgia,SEC,Wallace Butts,L,27,48
+1946-09-21,Army,Ind,Red Blaik,H,Villanova,Ind,Jordan Olivar,W,35,0
+1946-09-28,Army,Ind,Red Blaik,H,Oklahoma,Big 6,Jim Tatum,W,21,7
+1946-10-05,Army,Ind,Red Blaik,H,Cornell,Ind,Ed McKeever,W,46,21
+1946-10-12,Army,Ind,Red Blaik,A,Michigan,Western,Fritz Crisler,W,20,13
+1946-10-19,Army,Ind,Red Blaik,H,Columbia,Ind,Lou Little,W,48,14
+1946-10-26,Army,Ind,Red Blaik,H,Duke,Southern,Wallace Wade,W,19,0
+1946-11-02,Army,Ind,Red Blaik,H,West Virginia,Ind,Bill Kern,W,19,0
+1946-11-09,Army,Ind,Red Blaik,H,Notre Dame,Ind,Frank Leahy,T,0,0
+1946-11-16,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,W,34,7
+1946-11-30,Army,Ind,Red Blaik,N,Navy,Ind,Thomas Hamilton,W,21,18
+1946-09-21,Marquette,Ind,Frank Murray,A,Wisconsin,Western,Harry Stuhldreher,L,0,34
+1946-09-28,Marquette,Ind,Frank Murray,H,Saint Louis,MVC,,W,26,0
+1946-10-05,Marquette,Ind,Frank Murray,A,Villanova,Ind,Jordan Olivar,L,13,26
+1946-10-12,Marquette,Ind,Frank Murray,H,Idaho,PCC,Babe Brown,W,46,6
+1946-10-19,Marquette,Ind,Frank Murray,A,Pitt,Ind,Wesley Fesler,L,6,7
+1946-10-26,Marquette,Ind,Frank Murray,H,Arizona,BIAA,Miles Casteel,W,20,0
+1946-11-01,Marquette,Ind,Frank Murray,A,Detroit Mercy,Ind,Chuck Baer,W,21,20
+1946-11-09,Marquette,Ind,Frank Murray,H,Kentucky,SEC,Bear Bryant,L,0,35
+1946-11-16,Marquette,Ind,Frank Murray,A,Michigan State,Ind,Charlie Bachman,L,0,20
+1946-09-28,Dartmouth,Ind,DeOrmond McLaughry,A,Holy Cross,Ind,John DaGrosa,W,3,0
+1946-10-05,Dartmouth,Ind,DeOrmond McLaughry,H,Syracuse,Ind,Biggie Munn,W,20,14
+1946-10-12,Dartmouth,Ind,DeOrmond McLaughry,A,Pennsylvania,Ind,George Munger,L,6,39
+1946-10-19,Dartmouth,Ind,DeOrmond McLaughry,A,Brown,Ind,Rip Engle,L,13,20
+1946-10-26,Dartmouth,Ind,DeOrmond McLaughry,H,Columbia,Ind,Lou Little,L,13,33
+1946-11-02,Dartmouth,Ind,DeOrmond McLaughry,A,Yale,Ind,Howard Odell,L,2,33
+1946-11-09,Dartmouth,Ind,DeOrmond McLaughry,H,Harvard,Ind,Dick Harlow,L,7,21
+1946-11-16,Dartmouth,Ind,DeOrmond McLaughry,A,Cornell,Ind,Ed McKeever,L,7,21
+1946-11-23,Dartmouth,Ind,DeOrmond McLaughry,A,Princeton,Ind,Charles Caldwell,W,20,13
+1946-09-28,UCLA,PCC,Bert LaBrucherie,H,Oregon State,PCC,Lon Stiner,W,50,7
+1946-10-05,UCLA,PCC,Bert LaBrucherie,A,Washington,PCC,Ralph Welch,W,39,13
+1946-10-12,UCLA,PCC,Bert LaBrucherie,H,Stanford,PCC,Marchy Schwartz,W,26,6
+1946-10-19,UCLA,PCC,Bert LaBrucherie,A,California,PCC,Frank Wickhorst,W,13,6
+1946-10-26,UCLA,PCC,Bert LaBrucherie,H,Santa Clara,Ind,Len Casanova,W,33,7
+1946-11-01,UCLA,PCC,Bert LaBrucherie,H,Saint Mary's (CA),Ind,James Phelan,W,46,20
+1946-11-09,UCLA,PCC,Bert LaBrucherie,A,Oregon,PCC,Tex Oliver,W,14,0
+1946-11-16,UCLA,PCC,Bert LaBrucherie,H,Montana,PCC,Doug Fessenden,W,61,7
+1946-11-23,UCLA,PCC,Bert LaBrucherie,H,USC,PCC,Jeff Cravath,W,13,6
+1946-11-30,UCLA,PCC,Bert LaBrucherie,H,Nebraska,Big 6,Bernie Masterson,W,18,0
+1947-01-01,UCLA,PCC,Bert LaBrucherie,H,Illinois,Western,Ray Eliot,L,14,45
+1946-10-05,Auburn,SEC,Carl Voyles,H,Furman,Southern,Robert Smith,W,26,6
+1946-10-12,Auburn,SEC,Carl Voyles,H,Saint Louis,MVC,,W,27,7
+1946-10-19,Auburn,SEC,Carl Voyles,A,Tulane,SEC,Henry Frnka,L,0,32
+1946-10-26,Auburn,SEC,Carl Voyles,A,Georgia Tech,SEC,Bobby Dodd,L,6,27
+1946-11-02,Auburn,SEC,Carl Voyles,H,Vanderbilt,SEC,Red Sanders,L,0,19
+1946-11-09,Auburn,SEC,Carl Voyles,H,Mississippi State,SEC,Allyn McKeen,L,0,33
+1946-11-16,Auburn,SEC,Carl Voyles,N,Georgia,SEC,Wallace Butts,L,0,41
+1946-11-23,Auburn,SEC,Carl Voyles,H,Clemson,Southern,Frank Howard,L,13,21
+1946-11-30,Auburn,SEC,Carl Voyles,A,Florida,SEC,Raymond Wolf,W,47,12
+1946-09-28,Northwestern,Western,Pappy Waldorf,H,Iowa State,Big 6,Mike Michalske,W,41,9
+1946-10-05,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Harry Stuhldreher,W,28,0
+1946-10-12,Northwestern,Western,Pappy Waldorf,H,Minnesota,Western,Bernie Bierman,W,14,7
+1946-10-19,Northwestern,Western,Pappy Waldorf,A,Michigan,Western,Fritz Crisler,T,14,14
+1946-11-02,Northwestern,Western,Pappy Waldorf,H,Ohio State,Western,Paul Bixler,L,27,39
+1946-11-09,Northwestern,Western,Pappy Waldorf,H,Indiana,Western,Bo McMillin,L,6,7
+1946-11-16,Northwestern,Western,Pappy Waldorf,A,Notre Dame,Ind,Frank Leahy,L,0,27
+1946-11-23,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Ray Eliot,L,0,20
+1946-09-21,Kansas,Big 6,George Sauer,H,Texas Christian,SWC,Dutch Meyer,T,0,0
+1946-09-27,Kansas,Big 6,George Sauer,A,Denver,MSAC,Cac Hubbard,W,21,13
+1946-10-05,Kansas,Big 6,George Sauer,H,Wichita State,MVC,Ralph Graham,W,14,7
+1946-10-12,Kansas,Big 6,George Sauer,A,Iowa State,Big 6,Mike Michalske,W,24,8
+1946-10-19,Kansas,Big 6,George Sauer,H,Nebraska,Big 6,Bernie Masterson,L,14,16
+1946-10-26,Kansas,Big 6,George Sauer,A,Tulsa,MVC,John Brothers,L,0,56
+1946-11-02,Kansas,Big 6,George Sauer,H,Oklahoma State,MVC,Jim Lookabaugh,W,14,13
+1946-11-09,Kansas,Big 6,George Sauer,H,Oklahoma,Big 6,Jim Tatum,W,16,13
+1946-11-16,Kansas,Big 6,George Sauer,A,Kansas State,Big 6,Hobbs Adams,W,34,0
+1946-11-28,Kansas,Big 6,George Sauer,A,Missouri,Big 6,Don Faurot,W,20,19
+1946-09-27,William & Mary,Southern,Rube McCray,A,Miami (FL),Ind,Jack Harding,L,3,13
+1946-10-05,William & Mary,Southern,Rube McCray,A,Citadel,Southern,Quinn Decker,W,51,12
+1946-10-12,William & Mary,Southern,Rube McCray,H,Virginia Tech,Southern,Jimmy Kitts,W,49,0
+1946-10-19,William & Mary,Southern,Rube McCray,A,Washington & Lee,Southern,Art Lewis,W,34,18
+1946-10-26,William & Mary,Southern,Rube McCray,H,Virginia Military Institute,Southern,Allison Hubert,W,41,0
+1946-11-02,William & Mary,Southern,Rube McCray,H,Maryland,Southern,Clark Shaughnessy,W,41,7
+1946-11-09,William & Mary,Southern,Rube McCray,N,North Carolina,Southern,Carl Snavely,L,7,21
+1946-11-16,William & Mary,Southern,Rube McCray,A,George Washington,Southern,Skip Stahley,W,20,0
+1946-11-28,William & Mary,Southern,Rube McCray,A,Richmond,Southern,John Fenlon,W,40,0
+1946-09-27,UTEP,BIAA,Jack Curtice,H,Drake,MVC,Vee Green,L,2,7
+1946-10-12,UTEP,BIAA,Jack Curtice,A,Arizona,BIAA,Miles Casteel,L,13,27
+1946-10-19,UTEP,BIAA,Jack Curtice,H,West Texas A&M,BIAA,Windy Nicklaus,W,26,20
+1946-11-02,UTEP,BIAA,Jack Curtice,A,New Mexico,BIAA,Willis Barnes,L,13,21
+1946-11-09,UTEP,BIAA,Jack Curtice,A,Arizona State,BIAA,Steve Coutchie,W,34,20
+1946-11-16,UTEP,BIAA,Jack Curtice,H,Hardin-Simmons,BIAA,Warren Woodson,L,7,20
+1946-11-22,UTEP,BIAA,Jack Curtice,H,Brigham Young,MSAC,Edwin Kimball,L,13,14
+1946-11-28,UTEP,BIAA,Jack Curtice,H,New Mexico State,BIAA,Raymond Curfman,L,7,14
+1946-09-28,LSU,SEC,Bernie Moore,A,Rice,SWC,Jess Neely,W,7,6
+1946-10-05,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,W,13,6
+1946-10-12,LSU,SEC,Bernie Moore,H,Texas A&M,SWC,Homer Norton,W,33,9
+1946-10-19,LSU,SEC,Bernie Moore,H,Georgia Tech,SEC,Bobby Dodd,L,7,26
+1946-10-26,LSU,SEC,Bernie Moore,A,Vanderbilt,SEC,Red Sanders,W,14,0
+1946-11-02,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Red Drew,W,34,21
+1946-11-09,LSU,SEC,Bernie Moore,H,Alabama,SEC,Frank Thomas,W,31,21
+1946-11-15,LSU,SEC,Bernie Moore,A,Miami (FL),Ind,Jack Harding,W,20,7
+1946-11-22,LSU,SEC,Bernie Moore,H,Fordham,Ind,Edward Danowski,W,40,0
+1946-11-30,LSU,SEC,Bernie Moore,H,Tulane,SEC,Henry Frnka,W,41,27
+1947-01-01,LSU,SEC,Bernie Moore,N,Arkansas,SWC,John Barnhill,T,0,0
+1946-10-05,Pennsylvania,Ind,George Munger,H,Lafayette,Ind,Hook Mylin,W,66,0
+1946-10-12,Pennsylvania,Ind,George Munger,H,Dartmouth,Ind,DeOrmond McLaughry,W,39,6
+1946-10-19,Pennsylvania,Ind,George Munger,H,Virginia,Ind,Arthur Guepe,W,40,0
+1946-10-26,Pennsylvania,Ind,George Munger,H,Navy,Ind,Thomas Hamilton,W,32,19
+1946-11-02,Pennsylvania,Ind,George Munger,H,Princeton,Ind,Charles Caldwell,L,14,17
+1946-11-09,Pennsylvania,Ind,George Munger,A,Columbia,Ind,Lou Little,W,41,6
+1946-11-16,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,L,7,34
+1946-11-28,Pennsylvania,Ind,George Munger,H,Cornell,Ind,Ed McKeever,W,26,20
+1946-09-21,Tulsa,MVC,John Brothers,A,Wichita State,MVC,Ralph Graham,W,33,13
+1946-09-28,Tulsa,MVC,John Brothers,H,New Mexico State,BIAA,Raymond Curfman,W,52,0
+1946-10-05,Tulsa,MVC,John Brothers,A,Drake,MVC,Vee Green,W,48,13
+1946-10-12,Tulsa,MVC,John Brothers,H,Texas Tech,BIAA,Dell Morgan,W,21,6
+1946-10-18,Tulsa,MVC,John Brothers,A,Detroit Mercy,Ind,Chuck Baer,L,14,20
+1946-10-26,Tulsa,MVC,John Brothers,H,Kansas,Big 6,George Sauer,W,56,0
+1946-11-09,Tulsa,MVC,John Brothers,H,Oklahoma State,MVC,Jim Lookabaugh,W,20,18
+1946-11-16,Tulsa,MVC,John Brothers,H,Baylor,SWC,Frank Kimbrough,W,17,0
+1946-11-28,Tulsa,MVC,John Brothers,H,Arkansas,SWC,John Barnhill,W,14,13
+1946-09-28,Iowa,Western,Edward Anderson,H,Purdue,Western,Cecil Isbell,W,16,0
+1946-10-05,Iowa,Western,Edward Anderson,A,Michigan,Western,Fritz Crisler,L,7,14
+1946-10-12,Iowa,Western,Edward Anderson,H,Nebraska,Big 6,Bernie Masterson,W,21,7
+1946-10-19,Iowa,Western,Edward Anderson,A,Indiana,Western,Bo McMillin,W,13,0
+1946-10-26,Iowa,Western,Edward Anderson,H,Notre Dame,Ind,Frank Leahy,L,6,41
+1946-11-02,Iowa,Western,Edward Anderson,H,Illinois,Western,Ray Eliot,L,0,7
+1946-11-09,Iowa,Western,Edward Anderson,A,Wisconsin,Western,Harry Stuhldreher,W,21,7
+1946-11-16,Iowa,Western,Edward Anderson,A,Minnesota,Western,Bernie Bierman,L,6,16
+1946-09-28,Columbia,Ind,Lou Little,H,Rutgers,Ind,Harvey Harman,W,13,7
+1946-10-05,Columbia,Ind,Lou Little,H,Navy,Ind,Thomas Hamilton,W,23,14
+1946-10-12,Columbia,Ind,Lou Little,A,Yale,Ind,Howard Odell,W,28,20
+1946-10-19,Columbia,Ind,Lou Little,A,Army,Ind,Red Blaik,L,14,48
+1946-10-26,Columbia,Ind,Lou Little,A,Dartmouth,Ind,DeOrmond McLaughry,W,33,13
+1946-11-02,Columbia,Ind,Lou Little,H,Cornell,Ind,Ed McKeever,L,0,12
+1946-11-09,Columbia,Ind,Lou Little,H,Pennsylvania,Ind,George Munger,L,6,41
+1946-11-16,Columbia,Ind,Lou Little,H,Lafayette,Ind,Hook Mylin,W,46,0
+1946-11-23,Columbia,Ind,Lou Little,H,Syracuse,Ind,Biggie Munn,W,59,21
+1946-09-21,Texas,SWC,Dana Bible,H,Missouri,Big 6,Don Faurot,W,42,0
+1946-09-28,Texas,SWC,Dana Bible,H,Colorado,MSAC,Jim Yeager,W,76,0
+1946-10-05,Texas,SWC,Dana Bible,H,Oklahoma State,MVC,Jim Lookabaugh,W,54,6
+1946-10-12,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Jim Tatum,W,20,13
+1946-10-19,Texas,SWC,Dana Bible,H,Arkansas,SWC,John Barnhill,W,20,0
+1946-10-26,Texas,SWC,Dana Bible,A,Rice,SWC,Jess Neely,L,13,18
+1946-11-02,Texas,SWC,Dana Bible,H,SMU,SWC,Madison Bell,W,19,3
+1946-11-09,Texas,SWC,Dana Bible,A,Baylor,SWC,Frank Kimbrough,W,22,7
+1946-11-16,Texas,SWC,Dana Bible,A,Texas Christian,SWC,Dutch Meyer,L,0,14
+1946-11-28,Texas,SWC,Dana Bible,H,Texas A&M,SWC,Homer Norton,W,24,7
+1946-09-21,Texas Christian,SWC,Dutch Meyer,A,Kansas,Big 6,George Sauer,T,0,0
+1946-09-28,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,Frank Kimbrough,W,19,16
+1946-10-05,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,John Barnhill,L,14,34
+1946-10-11,Texas Christian,SWC,Dutch Meyer,A,Miami (FL),Ind,Jack Harding,L,12,20
+1946-10-19,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,L,0,14
+1946-10-26,Texas Christian,SWC,Dutch Meyer,A,Oklahoma State,MVC,Jim Lookabaugh,L,6,7
+1946-11-02,Texas Christian,SWC,Dutch Meyer,H,Oklahoma,Big 6,Jim Tatum,L,12,14
+1946-11-16,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Dana Bible,W,14,0
+1946-11-23,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jess Neely,L,0,13
+1946-11-30,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,Madison Bell,L,13,30
+1946-10-12,New York University,Ind,John Weinheimer,H,Rutgers,Ind,Harvey Harman,L,0,26
+1946-11-02,New York University,Ind,John Weinheimer,H,Boston College,Ind,Denny Myers,L,6,72
+1946-11-16,New York University,Ind,John Weinheimer,N,Fordham,Ind,Edward Danowski,W,33,28
+1946-11-27,New York University,Ind,John Weinheimer,H,Georgetown,Ind,Jack Hagerty,L,12,19
+1946-09-27,Miami (FL),Ind,Jack Harding,H,William & Mary,Southern,Rube McCray,W,13,3
+1946-10-04,Miami (FL),Ind,Jack Harding,H,North Carolina,Southern,Carl Snavely,L,0,21
+1946-10-11,Miami (FL),Ind,Jack Harding,H,Texas Christian,SWC,Dutch Meyer,W,20,12
+1946-10-19,Miami (FL),Ind,Jack Harding,A,Florida,SEC,Raymond Wolf,W,20,13
+1946-10-25,Miami (FL),Ind,Jack Harding,H,Chattanooga,Ind,Andrew Moore,W,33,13
+1946-11-01,Miami (FL),Ind,Jack Harding,A,Villanova,Ind,Jordan Olivar,W,26,21
+1946-11-15,Miami (FL),Ind,Jack Harding,H,LSU,SEC,Bernie Moore,L,7,20
+1946-11-22,Miami (FL),Ind,Jack Harding,H,Washington & Lee,Southern,Art Lewis,W,40,20
+1946-11-29,Miami (FL),Ind,Jack Harding,H,Detroit Mercy,Ind,Chuck Baer,W,21,7
+1946-09-28,Richmond,Southern,John Fenlon,H,Virginia Military Institute,Southern,Allison Hubert,T,7,7
+1946-10-04,Richmond,Southern,John Fenlon,A,Maryland,Southern,Clark Shaughnessy,W,37,7
+1946-10-19,Richmond,Southern,John Fenlon,A,Duke,Southern,Wallace Wade,L,0,41
+1946-10-26,Richmond,Southern,John Fenlon,A,Washington & Lee,Southern,Art Lewis,W,20,0
+1946-11-02,Richmond,Southern,John Fenlon,H,Virginia,Ind,Arthur Guepe,W,19,7
+1946-11-09,Richmond,Southern,John Fenlon,A,Davidson,Southern,William Story,W,27,6
+1946-11-16,Richmond,Southern,John Fenlon,H,Virginia Tech,Southern,Jimmy Kitts,T,7,7
+1946-11-28,Richmond,Southern,John Fenlon,H,William & Mary,Southern,Rube McCray,L,0,40
+1946-10-05,Oregon,PCC,Tex Oliver,A,California,PCC,Frank Wickhorst,W,14,13
+1946-10-12,Oregon,PCC,Tex Oliver,H,Montana,PCC,Doug Fessenden,W,34,0
+1946-10-19,Oregon,PCC,Tex Oliver,H,Washington State,PCC,Phil Sarboe,T,0,0
+1946-10-26,Oregon,PCC,Tex Oliver,A,Idaho,PCC,Babe Brown,W,26,13
+1946-11-02,Oregon,PCC,Tex Oliver,A,USC,PCC,Jeff Cravath,L,0,43
+1946-11-09,Oregon,PCC,Tex Oliver,H,UCLA,PCC,Bert LaBrucherie,L,0,14
+1946-11-16,Oregon,PCC,Tex Oliver,A,Washington,PCC,Ralph Welch,L,0,16
+1946-11-23,Oregon,PCC,Tex Oliver,A,Oregon State,PCC,Lon Stiner,L,0,13
+1946-10-05,Brown,Ind,Rip Engle,A,Princeton,Ind,Charles Caldwell,L,12,33
+1946-10-19,Brown,Ind,Rip Engle,H,Dartmouth,Ind,DeOrmond McLaughry,W,20,13
+1946-11-02,Brown,Ind,Rip Engle,A,Holy Cross,Ind,John DaGrosa,L,19,21
+1946-11-09,Brown,Ind,Rip Engle,A,Yale,Ind,Howard Odell,L,0,49
+1946-11-16,Brown,Ind,Rip Engle,A,Harvard,Ind,Dick Harlow,L,0,28
+1946-11-23,Brown,Ind,Rip Engle,H,Colgate,Ind,Andrew Kerr,L,14,20
+1946-09-28,Tennessee,SEC,Bob Neyland,H,Georgia Tech,SEC,Bobby Dodd,W,13,9
+1946-10-05,Tennessee,SEC,Bob Neyland,A,Duke,Southern,Wallace Wade,W,12,7
+1946-10-12,Tennessee,SEC,Bob Neyland,H,Chattanooga,Ind,Andrew Moore,W,47,7
+1946-10-19,Tennessee,SEC,Bob Neyland,H,Alabama,SEC,Frank Thomas,W,12,0
+1946-10-26,Tennessee,SEC,Bob Neyland,H,Wake Forest,Southern,D.C. Walker,L,6,19
+1946-11-02,Tennessee,SEC,Bob Neyland,H,North Carolina,Southern,Carl Snavely,W,20,14
+1946-11-09,Tennessee,SEC,Bob Neyland,N,Ole Miss,SEC,Red Drew,W,18,14
+1946-11-16,Tennessee,SEC,Bob Neyland,A,Boston College,Ind,Denny Myers,W,33,13
+1946-11-23,Tennessee,SEC,Bob Neyland,H,Kentucky,SEC,Bear Bryant,W,7,0
+1946-11-30,Tennessee,SEC,Bob Neyland,A,Vanderbilt,SEC,Red Sanders,W,7,6
+1947-01-01,Tennessee,SEC,Bob Neyland,N,Rice,SWC,Jess Neely,L,0,8
+1946-09-28,Oregon State,PCC,Lon Stiner,A,UCLA,PCC,Bert LaBrucherie,L,7,50
+1946-10-05,Oregon State,PCC,Lon Stiner,H,Portland,Ind,,W,35,0
+1946-10-12,Oregon State,PCC,Lon Stiner,H,USC,PCC,Jeff Cravath,W,6,0
+1946-10-26,Oregon State,PCC,Lon Stiner,A,Washington State,PCC,Phil Sarboe,W,13,12
+1946-11-02,Oregon State,PCC,Lon Stiner,H,Stanford,PCC,Marchy Schwartz,T,0,0
+1946-11-09,Oregon State,PCC,Lon Stiner,H,Idaho,PCC,Babe Brown,W,34,0
+1946-11-16,Oregon State,PCC,Lon Stiner,A,California,PCC,Frank Wickhorst,W,28,7
+1946-11-23,Oregon State,PCC,Lon Stiner,H,Oregon,PCC,Tex Oliver,W,13,0
+1946-11-30,Oregon State,PCC,Lon Stiner,H,Washington,PCC,Ralph Welch,W,21,12
+1946-09-20,Alabama,SEC,Frank Thomas,H,Furman,Southern,Robert Smith,W,26,7
+1946-09-28,Alabama,SEC,Frank Thomas,A,Tulane,SEC,Henry Frnka,W,7,6
+1946-10-05,Alabama,SEC,Frank Thomas,A,South Carolina,Southern,Rex Enright,W,14,6
+1946-10-19,Alabama,SEC,Frank Thomas,A,Tennessee,SEC,Bob Neyland,L,0,12
+1946-10-26,Alabama,SEC,Frank Thomas,H,Kentucky,SEC,Bear Bryant,W,21,7
+1946-11-02,Alabama,SEC,Frank Thomas,A,Georgia,SEC,Wallace Butts,L,0,14
+1946-11-09,Alabama,SEC,Frank Thomas,A,LSU,SEC,Bernie Moore,L,21,31
+1946-11-16,Alabama,SEC,Frank Thomas,H,Vanderbilt,SEC,Red Sanders,W,12,7
+1946-11-23,Alabama,SEC,Frank Thomas,A,Boston College,Ind,Denny Myers,L,7,13
+1946-11-30,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Allyn McKeen,W,24,7
+1946-09-28,Purdue,Western,Cecil Isbell,A,Iowa,Western,Edward Anderson,L,0,16
+1946-10-05,Purdue,Western,Cecil Isbell,A,Illinois,Western,Ray Eliot,L,7,43
+1946-10-12,Purdue,Western,Cecil Isbell,A,Notre Dame,Ind,Frank Leahy,L,6,49
+1946-10-19,Purdue,Western,Cecil Isbell,A,Ohio State,Western,Paul Bixler,T,14,14
+1946-10-26,Purdue,Western,Cecil Isbell,A,Pitt,Ind,Wesley Fesler,W,10,8
+1946-11-02,Purdue,Western,Cecil Isbell,H,Wisconsin,Western,Harry Stuhldreher,L,20,24
+1946-11-09,Purdue,Western,Cecil Isbell,A,Minnesota,Western,Bernie Bierman,L,7,13
+1946-11-23,Purdue,Western,Cecil Isbell,H,Indiana,Western,Bo McMillin,L,20,34
+1946-09-28,Nebraska,Big 6,Bernie Masterson,A,Minnesota,Western,Bernie Bierman,L,6,33
+1946-10-05,Nebraska,Big 6,Bernie Masterson,H,Kansas State,Big 6,Hobbs Adams,W,31,0
+1946-10-12,Nebraska,Big 6,Bernie Masterson,A,Iowa,Western,Edward Anderson,L,7,21
+1946-10-19,Nebraska,Big 6,Bernie Masterson,A,Kansas,Big 6,George Sauer,W,16,14
+1946-10-26,Nebraska,Big 6,Bernie Masterson,H,Indiana,Western,Bo McMillin,L,7,27
+1946-11-02,Nebraska,Big 6,Bernie Masterson,H,Missouri,Big 6,Don Faurot,L,20,21
+1946-11-16,Nebraska,Big 6,Bernie Masterson,H,Iowa State,Big 6,Mike Michalske,W,33,0
+1946-11-23,Nebraska,Big 6,Bernie Masterson,A,Oklahoma,Big 6,Jim Tatum,L,6,27
+1946-11-30,Nebraska,Big 6,Bernie Masterson,A,UCLA,PCC,Bert LaBrucherie,L,0,18
+1946-09-28,West Virginia,Ind,Bill Kern,A,Pitt,Ind,Wesley Fesler,L,7,33
+1946-10-12,West Virginia,Ind,Bill Kern,N,Washington & Lee,Southern,Art Lewis,W,6,0
+1946-10-18,West Virginia,Ind,Bill Kern,A,Temple,Ind,Ray Morrison,L,0,6
+1946-10-26,West Virginia,Ind,Bill Kern,H,Syracuse,Ind,Biggie Munn,W,13,0
+1946-11-02,West Virginia,Ind,Bill Kern,A,Army,Ind,Red Blaik,L,0,19
+1946-11-09,West Virginia,Ind,Bill Kern,H,Fordham,Ind,Edward Danowski,W,39,0
+1946-11-16,West Virginia,Ind,Bill Kern,A,Kentucky,SEC,Bear Bryant,L,0,13
+1946-11-23,West Virginia,Ind,Bill Kern,A,Virginia,Ind,Arthur Guepe,L,0,21
+1946-10-12,Harvard,Ind,Dick Harlow,A,Princeton,Ind,Charles Caldwell,W,13,12
+1946-10-26,Harvard,Ind,Dick Harlow,H,Holy Cross,Ind,John DaGrosa,W,13,6
+1946-11-02,Harvard,Ind,Dick Harlow,H,Rutgers,Ind,Harvey Harman,L,0,13
+1946-11-09,Harvard,Ind,Dick Harlow,A,Dartmouth,Ind,DeOrmond McLaughry,W,21,7
+1946-11-16,Harvard,Ind,Dick Harlow,H,Brown,Ind,Rip Engle,W,28,0
+1946-11-23,Harvard,Ind,Dick Harlow,H,Yale,Ind,Howard Odell,L,14,27
+1946-09-21,Oklahoma State,MVC,Jim Lookabaugh,H,Denver,MSAC,Cac Hubbard,W,40,7
+1946-09-28,Oklahoma State,MVC,Jim Lookabaugh,H,Arkansas,SWC,John Barnhill,T,21,21
+1946-10-05,Oklahoma State,MVC,Jim Lookabaugh,A,Texas,SWC,Dana Bible,L,6,54
+1946-10-11,Oklahoma State,MVC,Jim Lookabaugh,A,SMU,SWC,Madison Bell,L,6,15
+1946-10-19,Oklahoma State,MVC,Jim Lookabaugh,A,Georgia,SEC,Wallace Butts,L,13,33
+1946-10-26,Oklahoma State,MVC,Jim Lookabaugh,H,Texas Christian,SWC,Dutch Meyer,W,7,6
+1946-11-02,Oklahoma State,MVC,Jim Lookabaugh,A,Kansas,Big 6,George Sauer,L,13,14
+1946-11-09,Oklahoma State,MVC,Jim Lookabaugh,A,Tulsa,MVC,John Brothers,L,18,20
+1946-11-16,Oklahoma State,MVC,Jim Lookabaugh,A,Texas Tech,BIAA,Dell Morgan,L,7,14
+1946-11-23,Oklahoma State,MVC,Jim Lookabaugh,H,Drake,MVC,Vee Green,W,59,7
+1946-11-30,Oklahoma State,MVC,Jim Lookabaugh,H,Oklahoma,Big 6,Jim Tatum,L,12,73
+1946-09-21,Colorado,MSAC,Jim Yeager,H,Iowa State,Big 6,Mike Michalske,W,13,7
+1946-09-28,Colorado,MSAC,Jim Yeager,A,Texas,SWC,Dana Bible,L,0,76
+1946-10-05,Colorado,MSAC,Jim Yeager,H,Utah State,MSAC,E. Lowell Romney,W,6,0
+1946-10-12,Colorado,MSAC,Jim Yeager,A,Wyoming,MSAC,Bunny Oakes,W,20,0
+1946-10-19,Colorado,MSAC,Jim Yeager,A,Brigham Young,MSAC,Edwin Kimball,L,7,10
+1946-10-26,Colorado,MSAC,Jim Yeager,H,New Mexico,BIAA,Willis Barnes,W,14,13
+1946-11-02,Colorado,MSAC,Jim Yeager,A,Utah,MSAC,Ike Armstrong,L,0,7
+1946-11-09,Colorado,MSAC,Jim Yeager,A,Missouri,Big 6,Don Faurot,L,0,21
+1946-11-16,Colorado,MSAC,Jim Yeager,H,Denver,MSAC,Cac Hubbard,T,13,13
+1946-11-28,Colorado,MSAC,Jim Yeager,H,Colorado State,MSAC,Julius Wagner,W,18,0
+1946-09-28,Colorado State,MSAC,Julius Wagner,A,Montana,PCC,Doug Fessenden,L,0,27
+1946-10-05,Colorado State,MSAC,Julius Wagner,A,Wyoming,MSAC,Bunny Oakes,W,7,0
+1946-10-12,Colorado State,MSAC,Julius Wagner,A,Denver,MSAC,Cac Hubbard,L,0,33
+1946-10-19,Colorado State,MSAC,Julius Wagner,A,Utah State,MSAC,E. Lowell Romney,L,0,48
+1946-11-09,Colorado State,MSAC,Julius Wagner,H,Utah,MSAC,Ike Armstrong,L,0,13
+1946-11-16,Colorado State,MSAC,Julius Wagner,H,Brigham Young,MSAC,Edwin Kimball,L,6,20
+1946-11-28,Colorado State,MSAC,Julius Wagner,A,Colorado,MSAC,Jim Yeager,L,0,18
+1946-09-28,Rice,SWC,Jess Neely,H,LSU,SEC,Bernie Moore,L,6,7
+1946-10-12,Rice,SWC,Jess Neely,A,Tulane,SEC,Henry Frnka,W,25,6
+1946-10-19,Rice,SWC,Jess Neely,H,SMU,SWC,Madison Bell,W,21,7
+1946-10-26,Rice,SWC,Jess Neely,H,Texas,SWC,Dana Bible,W,18,13
+1946-11-02,Rice,SWC,Jess Neely,H,Texas Tech,BIAA,Dell Morgan,W,41,6
+1946-11-09,Rice,SWC,Jess Neely,A,Arkansas,SWC,John Barnhill,L,0,7
+1946-11-16,Rice,SWC,Jess Neely,A,Texas A&M,SWC,Homer Norton,W,27,10
+1946-11-23,Rice,SWC,Jess Neely,H,Texas Christian,SWC,Dutch Meyer,W,13,0
+1946-11-30,Rice,SWC,Jess Neely,H,Baylor,SWC,Frank Kimbrough,W,38,6
+1947-01-01,Rice,SWC,Jess Neely,N,Tennessee,SEC,Bob Neyland,W,8,0
+1946-09-28,Texas A&M,SWC,Homer Norton,N,Texas Tech,BIAA,Dell Morgan,L,0,6
+1946-10-05,Texas A&M,SWC,Homer Norton,A,Oklahoma,Big 6,Jim Tatum,L,7,10
+1946-10-12,Texas A&M,SWC,Homer Norton,A,LSU,SEC,Bernie Moore,L,9,33
+1946-10-19,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,W,14,0
+1946-10-26,Texas A&M,SWC,Homer Norton,A,Baylor,SWC,Frank Kimbrough,W,17,0
+1946-11-02,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,John Barnhill,L,0,7
+1946-11-08,Texas A&M,SWC,Homer Norton,A,SMU,SWC,Madison Bell,W,14,0
+1946-11-16,Texas A&M,SWC,Homer Norton,H,Rice,SWC,Jess Neely,L,10,27
+1946-11-28,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Dana Bible,L,7,24
+1946-10-12,Davidson,Southern,William Story,A,North Carolina State,Southern,Beattie Feathers,L,0,25
+1946-10-19,Davidson,Southern,William Story,A,Virginia Military Institute,Southern,Allison Hubert,L,0,25
+1946-11-02,Davidson,Southern,William Story,H,Washington & Lee,Southern,Art Lewis,L,6,25
+1946-11-09,Davidson,Southern,William Story,H,Richmond,Southern,John Fenlon,L,6,27
+1946-11-23,Davidson,Southern,William Story,N,Citadel,Southern,Quinn Decker,L,13,21
+1946-11-28,Davidson,Southern,William Story,H,Furman,Southern,Robert Smith,W,13,7
+1946-10-05,Michigan State,Ind,Charlie Bachman,H,Boston College,Ind,Denny Myers,L,20,34
+1946-10-12,Michigan State,Ind,Charlie Bachman,H,Mississippi State,SEC,Allyn McKeen,L,0,6
+1946-10-19,Michigan State,Ind,Charlie Bachman,A,Penn State,Ind,Bob Higgins,W,19,16
+1946-11-02,Michigan State,Ind,Charlie Bachman,A,Kentucky,SEC,Bear Bryant,L,14,39
+1946-11-09,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Fritz Crisler,L,7,55
+1946-11-16,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Frank Murray,W,20,0
+1946-11-23,Michigan State,Ind,Charlie Bachman,H,Maryland,Southern,Clark Shaughnessy,W,26,14
+1946-11-30,Michigan State,Ind,Charlie Bachman,H,Washington State,PCC,Phil Sarboe,W,26,20
+1946-09-27,Boston College,Ind,Denny Myers,H,Wake Forest,Southern,D.C. Walker,L,6,12
+1946-10-05,Boston College,Ind,Denny Myers,A,Michigan State,Ind,Charlie Bachman,W,34,20
+1946-10-12,Boston College,Ind,Denny Myers,H,Merchant Marine,Ind,Bill Reinhart,W,56,7
+1946-10-25,Boston College,Ind,Denny Myers,H,Villanova,Ind,Jordan Olivar,W,14,12
+1946-11-02,Boston College,Ind,Denny Myers,A,New York University,Ind,John Weinheimer,W,72,6
+1946-11-09,Boston College,Ind,Denny Myers,H,Georgetown,Ind,Jack Hagerty,W,20,13
+1946-11-16,Boston College,Ind,Denny Myers,H,Tennessee,SEC,Bob Neyland,L,13,33
+1946-11-23,Boston College,Ind,Denny Myers,H,Alabama,SEC,Frank Thomas,W,13,7
+1946-11-30,Boston College,Ind,Denny Myers,N,Holy Cross,Ind,John DaGrosa,L,6,13
+1946-10-05,Colgate,Ind,Andrew Kerr,A,Yale,Ind,Howard Odell,L,6,27
+1946-10-12,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,Ed McKeever,L,9,13
+1946-10-19,Colgate,Ind,Andrew Kerr,H,Merchant Marine,Ind,Bill Reinhart,W,47,7
+1946-10-26,Colgate,Ind,Andrew Kerr,H,Penn State,Ind,Bob Higgins,L,2,6
+1946-11-02,Colgate,Ind,Andrew Kerr,A,Lafayette,Ind,Hook Mylin,W,39,0
+1946-11-09,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,John DaGrosa,L,6,21
+1946-11-16,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Biggie Munn,W,25,7
+1946-11-23,Colgate,Ind,Andrew Kerr,A,Brown,Ind,Rip Engle,W,20,14
+1946-09-28,New Mexico State,BIAA,Raymond Curfman,A,Tulsa,MVC,John Brothers,L,0,52
+1946-10-12,New Mexico State,BIAA,Raymond Curfman,H,New Mexico,BIAA,Willis Barnes,L,6,7
+1946-10-19,New Mexico State,BIAA,Raymond Curfman,A,Northern Arizona,BIAA,Frank Brickey,L,6,14
+1946-10-26,New Mexico State,BIAA,Raymond Curfman,A,West Texas A&M,BIAA,Windy Nicklaus,L,14,21
+1946-11-02,New Mexico State,BIAA,Raymond Curfman,H,Arizona State,BIAA,Steve Coutchie,L,7,14
+1946-11-28,New Mexico State,BIAA,Raymond Curfman,A,UTEP,BIAA,Jack Curtice,W,14,7
+1946-09-28,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Bernie Masterson,W,33,6
+1946-10-05,Minnesota,Western,Bernie Bierman,H,Indiana,Western,Bo McMillin,L,0,21
+1946-10-12,Minnesota,Western,Bernie Bierman,A,Northwestern,Western,Pappy Waldorf,L,7,14
+1946-10-19,Minnesota,Western,Bernie Bierman,H,Wyoming,MSAC,Bunny Oakes,W,46,0
+1946-10-26,Minnesota,Western,Bernie Bierman,A,Ohio State,Western,Paul Bixler,L,9,39
+1946-11-02,Minnesota,Western,Bernie Bierman,H,Michigan,Western,Fritz Crisler,L,0,21
+1946-11-09,Minnesota,Western,Bernie Bierman,H,Purdue,Western,Cecil Isbell,W,13,7
+1946-11-16,Minnesota,Western,Bernie Bierman,H,Iowa,Western,Edward Anderson,W,16,6
+1946-11-23,Minnesota,Western,Bernie Bierman,A,Wisconsin,Western,Harry Stuhldreher,W,6,0
+1946-09-21,Ole Miss,SEC,Red Drew,A,Kentucky,SEC,Bear Bryant,L,6,20
+1946-09-28,Ole Miss,SEC,Red Drew,A,Florida,SEC,Raymond Wolf,W,13,7
+1946-10-05,Ole Miss,SEC,Red Drew,N,Vanderbilt,SEC,Red Sanders,L,0,7
+1946-10-12,Ole Miss,SEC,Red Drew,A,Georgia Tech,SEC,Bobby Dodd,L,7,24
+1946-10-26,Ole Miss,SEC,Red Drew,N,Arkansas,SWC,John Barnhill,W,9,7
+1946-11-02,Ole Miss,SEC,Red Drew,A,LSU,SEC,Bernie Moore,L,21,34
+1946-11-09,Ole Miss,SEC,Red Drew,N,Tennessee,SEC,Bob Neyland,L,14,18
+1946-11-23,Ole Miss,SEC,Red Drew,H,Mississippi State,SEC,Allyn McKeen,L,0,20
+1946-09-28,Duke,Southern,Wallace Wade,A,North Carolina State,Southern,Beattie Feathers,L,6,13
+1946-10-05,Duke,Southern,Wallace Wade,H,Tennessee,SEC,Bob Neyland,L,7,12
+1946-10-12,Duke,Southern,Wallace Wade,A,Navy,Ind,Thomas Hamilton,W,21,6
+1946-10-19,Duke,Southern,Wallace Wade,H,Richmond,Southern,John Fenlon,W,41,0
+1946-10-26,Duke,Southern,Wallace Wade,A,Army,Ind,Red Blaik,L,0,19
+1946-11-02,Duke,Southern,Wallace Wade,H,Georgia Tech,SEC,Bobby Dodd,L,0,14
+1946-11-09,Duke,Southern,Wallace Wade,H,Wake Forest,Southern,D.C. Walker,W,13,0
+1946-11-16,Duke,Southern,Wallace Wade,A,South Carolina,Southern,Rex Enright,W,39,0
+1946-11-23,Duke,Southern,Wallace Wade,A,North Carolina,Southern,Carl Snavely,L,7,22
+1946-09-29,San Francisco,Ind,Maurice Smith,H,Nevada,Ind,Jim Aiken,W,26,14
+1946-10-05,San Francisco,Ind,Maurice Smith,A,Stanford,PCC,Marchy Schwartz,L,7,33
+1946-10-13,San Francisco,Ind,Maurice Smith,H,Detroit Mercy,Ind,Chuck Baer,L,6,18
+1946-10-19,San Francisco,Ind,Maurice Smith,A,Mississippi State,SEC,Allyn McKeen,L,20,48
+1946-11-02,San Francisco,Ind,Maurice Smith,A,Santa Clara,Ind,Len Casanova,L,13,19
+1946-11-09,San Francisco,Ind,Maurice Smith,H,Kansas State,Big 6,Hobbs Adams,W,38,6
+1946-11-16,San Francisco,Ind,Maurice Smith,H,Utah,MSAC,Ike Armstrong,L,13,21
+1946-11-24,San Francisco,Ind,Maurice Smith,H,Wyoming,MSAC,Bunny Oakes,W,39,7
+1946-11-30,San Francisco,Ind,Maurice Smith,H,Saint Mary's (CA),Ind,James Phelan,L,0,6
+1946-09-28,Navy,Ind,Thomas Hamilton,H,Villanova,Ind,Jordan Olivar,W,7,0
+1946-10-05,Navy,Ind,Thomas Hamilton,A,Columbia,Ind,Lou Little,L,14,23
+1946-10-12,Navy,Ind,Thomas Hamilton,H,Duke,Southern,Wallace Wade,L,6,21
+1946-10-19,Navy,Ind,Thomas Hamilton,H,North Carolina,Southern,Carl Snavely,L,14,21
+1946-10-26,Navy,Ind,Thomas Hamilton,A,Pennsylvania,Ind,George Munger,L,19,32
+1946-11-02,Navy,Ind,Thomas Hamilton,H,Notre Dame,Ind,Frank Leahy,L,0,28
+1946-11-09,Navy,Ind,Thomas Hamilton,A,Georgia Tech,SEC,Bobby Dodd,L,20,28
+1946-11-16,Navy,Ind,Thomas Hamilton,H,Penn State,Ind,Bob Higgins,L,7,12
+1946-11-30,Navy,Ind,Thomas Hamilton,N,Army,Ind,Red Blaik,L,18,21
+1946-10-05,Lafayette,Ind,Hook Mylin,A,Pennsylvania,Ind,George Munger,L,0,66
+1946-10-26,Lafayette,Ind,Hook Mylin,A,Bucknell,Ind,Al Humphreys,L,0,29
+1946-11-02,Lafayette,Ind,Hook Mylin,H,Colgate,Ind,Andrew Kerr,L,0,39
+1946-11-09,Lafayette,Ind,Hook Mylin,A,Rutgers,Ind,Harvey Harman,L,2,41
+1946-11-16,Lafayette,Ind,Hook Mylin,A,Columbia,Ind,Lou Little,L,0,46
+1946-09-21,Texas Tech,BIAA,Dell Morgan,H,West Texas A&M,BIAA,Windy Nicklaus,W,26,14
+1946-09-28,Texas Tech,BIAA,Dell Morgan,N,Texas A&M,SWC,Homer Norton,W,6,0
+1946-10-05,Texas Tech,BIAA,Dell Morgan,A,SMU,SWC,Madison Bell,W,7,0
+1946-10-12,Texas Tech,BIAA,Dell Morgan,A,Tulsa,MVC,John Brothers,L,6,21
+1946-10-19,Texas Tech,BIAA,Dell Morgan,H,Baylor,SWC,Frank Kimbrough,W,13,6
+1946-10-26,Texas Tech,BIAA,Dell Morgan,H,Denver,MSAC,Cac Hubbard,W,21,6
+1946-11-02,Texas Tech,BIAA,Dell Morgan,A,Rice,SWC,Jess Neely,L,6,41
+1946-11-09,Texas Tech,BIAA,Dell Morgan,A,New Mexico,BIAA,Willis Barnes,W,27,0
+1946-11-16,Texas Tech,BIAA,Dell Morgan,H,Oklahoma State,MVC,Jim Lookabaugh,W,14,7
+1946-11-23,Texas Tech,BIAA,Dell Morgan,A,Arizona,BIAA,Miles Casteel,W,16,0
+1946-11-30,Texas Tech,BIAA,Dell Morgan,A,Hardin-Simmons,BIAA,Warren Woodson,L,6,21
+1946-09-28,Tulane,SEC,Henry Frnka,H,Alabama,SEC,Frank Thomas,L,6,7
+1946-10-05,Tulane,SEC,Henry Frnka,H,Florida,SEC,Raymond Wolf,W,27,13
+1946-10-12,Tulane,SEC,Henry Frnka,H,Rice,SWC,Jess Neely,L,6,25
+1946-10-19,Tulane,SEC,Henry Frnka,H,Auburn,SEC,Carl Voyles,W,32,0
+1946-10-26,Tulane,SEC,Henry Frnka,H,Mississippi State,SEC,Allyn McKeen,L,7,14
+1946-11-09,Tulane,SEC,Henry Frnka,H,Clemson,Southern,Frank Howard,W,54,13
+1946-11-16,Tulane,SEC,Henry Frnka,A,Georgia Tech,SEC,Bobby Dodd,L,7,35
+1946-11-23,Tulane,SEC,Henry Frnka,H,Notre Dame,Ind,Frank Leahy,L,0,41
+1946-11-30,Tulane,SEC,Henry Frnka,A,LSU,SEC,Bernie Moore,L,27,41
+1946-12-21,Tulane,SEC,Henry Frnka,H,USC,PCC,Jeff Cravath,L,13,20
+1946-09-28,Cornell,Ind,Ed McKeever,H,Bucknell,Ind,Al Humphreys,W,21,0
+1946-10-05,Cornell,Ind,Ed McKeever,A,Army,Ind,Red Blaik,L,21,46
+1946-10-12,Cornell,Ind,Ed McKeever,H,Colgate,Ind,Andrew Kerr,W,13,9
+1946-10-19,Cornell,Ind,Ed McKeever,H,Yale,Ind,Howard Odell,T,6,6
+1946-10-26,Cornell,Ind,Ed McKeever,A,Princeton,Ind,Charles Caldwell,W,14,7
+1946-11-02,Cornell,Ind,Ed McKeever,A,Columbia,Ind,Lou Little,W,12,0
+1946-11-09,Cornell,Ind,Ed McKeever,H,Syracuse,Ind,Biggie Munn,L,7,14
+1946-11-16,Cornell,Ind,Ed McKeever,H,Dartmouth,Ind,DeOrmond McLaughry,W,21,7
+1946-11-28,Cornell,Ind,Ed McKeever,A,Pennsylvania,Ind,George Munger,L,20,26
+1946-09-28,Ohio State,Western,Paul Bixler,H,Missouri,Big 6,Don Faurot,T,13,13
+1946-10-05,Ohio State,Western,Paul Bixler,A,USC,PCC,Jeff Cravath,W,21,0
+1946-10-12,Ohio State,Western,Paul Bixler,A,Wisconsin,Western,Harry Stuhldreher,L,7,20
+1946-10-19,Ohio State,Western,Paul Bixler,H,Purdue,Western,Cecil Isbell,T,14,14
+1946-10-26,Ohio State,Western,Paul Bixler,H,Minnesota,Western,Bernie Bierman,W,39,9
+1946-11-02,Ohio State,Western,Paul Bixler,A,Northwestern,Western,Pappy Waldorf,W,39,27
+1946-11-09,Ohio State,Western,Paul Bixler,H,Pitt,Ind,Wesley Fesler,W,20,13
+1946-11-16,Ohio State,Western,Paul Bixler,A,Illinois,Western,Ray Eliot,L,7,16
+1946-11-23,Ohio State,Western,Paul Bixler,H,Michigan,Western,Fritz Crisler,L,6,58
+1946-09-27,Drake,MVC,Vee Green,A,UTEP,BIAA,Jack Curtice,W,7,2
+1946-10-05,Drake,MVC,Vee Green,H,Tulsa,MVC,John Brothers,L,13,48
+1946-10-11,Drake,MVC,Vee Green,H,Wichita State,MVC,Ralph Graham,L,6,12
+1946-10-19,Drake,MVC,Vee Green,H,Saint Louis,MVC,,L,6,27
+1946-10-25,Drake,MVC,Vee Green,A,Detroit Mercy,Ind,Chuck Baer,L,6,33
+1946-11-09,Drake,MVC,Vee Green,A,Iowa State,Big 6,Mike Michalske,T,7,7
+1946-11-23,Drake,MVC,Vee Green,A,Oklahoma State,MVC,Jim Lookabaugh,L,7,59

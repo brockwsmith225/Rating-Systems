@@ -1,0 +1,209 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1918-10-05,Indiana,Western,Jumbo Stiehm,H,Kentucky,Ind,Andrew Gill,L,7,24
+1918-11-16,Iowa State,MVIAA,,A,Iowa,Western,Howard Jones,L,0,21
+1918-11-23,Iowa State,MVIAA,,A,Kansas State,MVIAA,Zora Clevenger,L,0,11
+1918-10-12,Furman,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,118
+1918-11-16,Furman,Ind,,H,South Carolina,Ind,Frank Dobson,L,12,20
+1918-11-23,Furman,Ind,,A,Clemson,Ind,Edward Donahue,L,7,68
+1918-12-04,Furman,Ind,,A,Wofford,Ind,,W,7,0
+1918-12-07,Furman,Ind,,H,Presbyterian,Ind,Gifford Shaw,L,7,13
+1918-10-19,Washington & Lee,Ind,J.J. Fitzpatrick,N,Davidson,Ind,William Fetzer,L,0,21
+1918-11-02,Washington & Lee,Ind,J.J. Fitzpatrick,N,Virginia Tech,Ind,Charles Bernier,L,0,13
+1918-11-16,Washington & Lee,Ind,J.J. Fitzpatrick,H,Wake Forest,Ind,Harry Rabenhorst,W,20,7
+1918-11-03,Syracuse,Ind,,A,Dartmouth,Ind,,W,34,6
+1918-11-10,Syracuse,Ind,,H,Brown,Ind,Edward Robinson,W,53,0
+1918-11-16,Syracuse,Ind,,A,Michigan,Western,Fielding Yost,L,0,15
+1918-11-30,Syracuse,Ind,,N,Rutgers,Ind,George Sanford,W,21,0
+1918-11-09,Penn State,Ind,Hugo Bezdek,H,Rutgers,Ind,George Sanford,L,3,26
+1918-11-16,Penn State,Ind,Hugo Bezdek,A,Lehigh,Ind,Tom Keady,W,7,6
+1918-11-28,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Pop Warner,L,6,28
+1918-11-02,Vanderbilt,Ind,Ray Morrison,H,Kentucky,Ind,Andrew Gill,W,33,0
+1918-11-16,Vanderbilt,Ind,Ray Morrison,A,Auburn,Ind,Mike Donahue,W,21,0
+1918-11-28,Vanderbilt,Ind,Ray Morrison,H,Sewanee,Ind,,W,40,0
+1918-11-15,Colorado College,RMC,C.J. Rothget,N,Colorado Mines,RMC,Irving Barron,L,6,48
+1918-11-28,Colorado College,RMC,C.J. Rothget,A,Denver,RMC,John Fike,L,0,16
+1918-12-07,Colorado College,RMC,C.J. Rothget,H,Colorado,RMC,Joe Mills,W,8,7
+1918-10-05,Kentucky,Ind,Andrew Gill,A,Indiana,Western,Jumbo Stiehm,W,24,7
+1918-11-02,Kentucky,Ind,Andrew Gill,A,Vanderbilt,Ind,Ray Morrison,L,0,33
+1918-11-23,California,PCC,Andy Smith,H,Oregon,PCC,Shy Huntington,W,6,0
+1918-11-30,California,PCC,Andy Smith,H,Stanford,PCC,A.H. Badenoch,W,67,0
+1918-11-30,Stanford,PCC,A.H. Badenoch,A,California,PCC,Andy Smith,L,0,67
+1918-12-07,Presbyterian,Ind,Gifford Shaw,A,Furman,Ind,,W,13,7
+1918-10-19,Southwestern (TX),Ind,,H,Texas Christian,Ind,E.M. Tipton,L,6,14
+1918-11-09,Southwestern (TX),Ind,,A,Texas A&M,SWC,Tubby Graves,L,0,7
+1918-11-16,Southwestern (TX),Ind,,A,Baylor,SWC,Bubs Mosley,W,14,6
+1918-10-12,Illinois,Western,Robert Zuppke,H,Great Lakes Navy,Ind,,L,0,7
+1918-11-02,Illinois,Western,Robert Zuppke,A,Iowa,Western,Howard Jones,W,19,0
+1918-11-09,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,Guy Lowman,W,22,0
+1918-11-16,Illinois,Western,Robert Zuppke,H,Ohio State,Western,John Wilce,W,13,0
+1918-11-23,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,W,29,0
+1918-11-02,Baylor,SWC,Bubs Mosley,H,Texas A&M,SWC,Tubby Graves,L,0,19
+1918-11-09,Baylor,SWC,Bubs Mosley,A,SMU,SWC,J. Rix,L,0,14
+1918-11-16,Baylor,SWC,Bubs Mosley,H,Southwestern (TX),Ind,,L,6,14
+1918-11-28,Baylor,SWC,Bubs Mosley,H,Texas Christian,Ind,E.M. Tipton,L,7,12
+1918-11-09,SMU,SWC,J. Rix,H,Baylor,SWC,Bubs Mosley,W,14,0
+1918-11-23,SMU,SWC,J. Rix,A,Texas,SWC,William Juneau,L,0,32
+1918-11-30,SMU,SWC,J. Rix,A,Rice,SWC,John Anderson,L,0,13
+1918-11-02,Maryland,Ind,Curley Byrd,A,Virginia Military Institute,Ind,Mose Goodman,W,7,6
+1918-11-16,Citadel,Ind,Harry O'Brien,N,Clemson,Ind,Edward Donahue,L,0,7
+1918-11-28,Citadel,Ind,Harry O'Brien,N,South Carolina,Ind,Frank Dobson,T,0,0
+1918-10-19,Oklahoma,SWC,Bennie Owen,H,Arkansas,SWC,Norman Paine,W,103,0
+1918-11-09,Oklahoma,SWC,Bennie Owen,A,Kansas,MVIAA,Jay Bond,W,33,0
+1918-11-28,Oklahoma,SWC,Bennie Owen,N,Oklahoma State,SWC,Earl Pritchard,W,27,0
+1918-11-02,Virginia Tech,Ind,Charles Bernier,N,Washington & Lee,Ind,J.J. Fitzpatrick,W,13,0
+1918-11-09,Virginia Tech,Ind,Charles Bernier,H,Wake Forest,Ind,Harry Rabenhorst,W,27,0
+1918-11-16,Virginia Tech,Ind,Charles Bernier,N,North Carolina State,Ind,Tal Stafford,W,25,0
+1918-11-28,Virginia Tech,Ind,Charles Bernier,N,Virginia Military Institute,Ind,Mose Goodman,W,6,0
+1918-10-19,Arkansas,SWC,Norman Paine,A,Oklahoma,SWC,Bennie Owen,L,0,103
+1918-10-05,Clemson,Ind,Edward Donahue,A,Georgia Tech,Ind,John Heisman,L,0,28
+1918-11-02,Clemson,Ind,Edward Donahue,A,South Carolina,Ind,Frank Dobson,W,39,0
+1918-11-16,Clemson,Ind,Edward Donahue,N,Citadel,Ind,Harry O'Brien,W,7,0
+1918-11-23,Clemson,Ind,Edward Donahue,H,Furman,Ind,,W,68,7
+1918-11-28,Clemson,Ind,Edward Donahue,N,Davidson,Ind,William Fetzer,W,7,0
+1918-11-02,South Carolina,Ind,Frank Dobson,H,Clemson,Ind,Edward Donahue,L,0,39
+1918-11-16,South Carolina,Ind,Frank Dobson,A,Furman,Ind,,W,20,12
+1918-11-23,South Carolina,Ind,Frank Dobson,H,Wofford,Ind,,W,13,0
+1918-11-28,South Carolina,Ind,Frank Dobson,N,Citadel,Ind,Harry O'Brien,T,0,0
+1918-11-23,Washington,PCC,Anthony Savage,H,Oregon State,PCC,Bill Hargiss,W,6,0
+1918-12-01,Washington,PCC,Anthony Savage,A,Oregon,PCC,Shy Huntington,L,0,7
+1918-11-09,Denver,RMC,John Fike,A,Colorado Mines,RMC,Irving Barron,L,6,48
+1918-11-16,Denver,RMC,John Fike,H,Colorado State,RMC,Harry Hughes,W,14,0
+1918-11-23,Denver,RMC,John Fike,H,Colorado,RMC,Joe Mills,W,6,0
+1918-11-28,Denver,RMC,John Fike,H,Colorado College,RMC,C.J. Rothget,W,16,0
+1918-09-28,Great Lakes Navy,Ind,,A,Iowa,Western,Howard Jones,W,10,0
+1918-10-12,Great Lakes Navy,Ind,,A,Illinois,Western,Robert Zuppke,W,7,0
+1918-10-26,Great Lakes Navy,Ind,,H,Northwestern,Western,Fred Murphy,T,0,0
+1918-11-09,Great Lakes Navy,Ind,,A,Notre Dame,Ind,Knute Rockne,T,7,7
+1918-11-16,Great Lakes Navy,Ind,,A,Rutgers,Ind,George Sanford,W,54,14
+1918-11-23,Great Lakes Navy,Ind,,A,Navy,Ind,Gilmour Dobie,W,7,6
+1918-11-30,Great Lakes Navy,Ind,,H,Purdue,Western,Butch Scanlon,W,27,0
+1919-01-01,Great Lakes Navy,Ind,,N,Mare Island Marines,Ind,,W,17,0
+1918-11-09,Washington & Jefferson,Ind,Ralph Hutchinson,A,Pitt,Ind,Pop Warner,L,0,34
+1918-11-23,Wofford,Ind,,A,South Carolina,Ind,Frank Dobson,L,0,13
+1918-12-04,Wofford,Ind,,H,Furman,Ind,,L,0,7
+1918-11-09,Wisconsin,Western,Guy Lowman,H,Illinois,Western,Robert Zuppke,L,0,22
+1918-11-16,Wisconsin,Western,Guy Lowman,A,Minnesota,Western,Henry Williams,L,0,6
+1918-11-23,Wisconsin,Western,Guy Lowman,A,Ohio State,Western,John Wilce,W,14,3
+1918-11-28,Wisconsin,Western,Guy Lowman,H,Michigan State,Ind,George Gauthier,W,7,6
+1918-11-09,Colorado Mines,RMC,Irving Barron,H,Denver,RMC,John Fike,W,48,6
+1918-11-15,Colorado Mines,RMC,Irving Barron,N,Colorado College,RMC,C.J. Rothget,W,48,6
+1918-11-10,North Carolina State,Ind,Tal Stafford,A,Georgia Tech,Ind,John Heisman,L,0,128
+1918-11-16,North Carolina State,Ind,Tal Stafford,N,Virginia Tech,Ind,Charles Bernier,L,0,25
+1918-11-23,North Carolina State,Ind,Tal Stafford,H,Wake Forest,Ind,Harry Rabenhorst,L,0,21
+1918-10-26,Rutgers,Ind,George Sanford,A,Lehigh,Ind,Tom Keady,W,39,0
+1918-11-09,Rutgers,Ind,George Sanford,A,Penn State,Ind,Hugo Bezdek,W,26,3
+1918-11-16,Rutgers,Ind,George Sanford,H,Great Lakes Navy,Ind,,L,14,54
+1918-11-30,Rutgers,Ind,George Sanford,N,Syracuse,Ind,,L,0,21
+1918-11-09,Michigan,Western,Fielding Yost,A,Chicago,Western,Amos Alonzo Stagg,W,13,0
+1918-11-16,Michigan,Western,Fielding Yost,H,Syracuse,Ind,,W,15,0
+1918-11-23,Michigan,Western,Fielding Yost,H,Michigan State,Ind,George Gauthier,W,21,6
+1918-11-30,Michigan,Western,Fielding Yost,H,Ohio State,Western,John Wilce,W,14,0
+1918-11-09,Notre Dame,Ind,Knute Rockne,H,Great Lakes Navy,Ind,,T,7,7
+1918-11-16,Notre Dame,Ind,Knute Rockne,A,Michigan State,Ind,George Gauthier,L,7,13
+1918-11-23,Notre Dame,Ind,Knute Rockne,A,Purdue,Western,Butch Scanlon,W,26,6
+1918-11-28,Notre Dame,Ind,Knute Rockne,A,Nebraska,MVIAA,William Kline,T,0,0
+1918-11-09,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,Ralph Hutchinson,W,34,0
+1918-11-16,Pitt,Ind,Pop Warner,H,Pennsylvania,Ind,,W,37,0
+1918-11-23,Pitt,Ind,Pop Warner,H,Georgia Tech,Ind,John Heisman,W,32,0
+1918-11-28,Pitt,Ind,Pop Warner,H,Penn State,Ind,Hugo Bezdek,W,28,6
+1918-10-05,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Edward Donahue,W,28,0
+1918-10-12,Georgia Tech,Ind,John Heisman,H,Furman,Ind,,W,118,0
+1918-11-10,Georgia Tech,Ind,John Heisman,H,North Carolina State,Ind,Tal Stafford,W,128,0
+1918-11-23,Georgia Tech,Ind,John Heisman,A,Pitt,Ind,Pop Warner,L,0,32
+1918-11-28,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,W,41,0
+1918-11-09,Wake Forest,Ind,Harry Rabenhorst,A,Virginia Tech,Ind,Charles Bernier,L,0,27
+1918-11-16,Wake Forest,Ind,Harry Rabenhorst,A,Washington & Lee,Ind,J.J. Fitzpatrick,L,7,20
+1918-11-23,Wake Forest,Ind,Harry Rabenhorst,A,North Carolina State,Ind,Tal Stafford,W,21,0
+1918-11-28,Mississippi State,Ind,Sid Robinson,H,Ole Miss,Ind,,W,34,0
+1918-12-07,Mississippi State,Ind,Sid Robinson,A,Ole Miss,Ind,,W,13,0
+1918-11-02,Virginia Military Institute,Ind,Mose Goodman,H,Maryland,Ind,Curley Byrd,L,6,7
+1918-11-28,Virginia Military Institute,Ind,Mose Goodman,N,Virginia Tech,Ind,Charles Bernier,L,0,6
+1918-11-23,Kansas State,MVIAA,Zora Clevenger,H,Iowa State,MVIAA,,W,11,0
+1918-11-28,Kansas State,MVIAA,Zora Clevenger,A,Kansas,MVIAA,Jay Bond,L,7,13
+1918-11-03,Dartmouth,Ind,,H,Syracuse,Ind,,L,6,34
+1918-11-24,Dartmouth,Ind,,N,Brown,Ind,Edward Robinson,L,0,28
+1918-11-28,Dartmouth,Ind,,A,Pennsylvania,Ind,,L,0,21
+1918-11-16,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Ray Morrison,L,0,21
+1918-11-28,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,L,0,41
+1918-10-26,Northwestern,Western,Fred Murphy,A,Great Lakes Navy,Ind,,T,0,0
+1918-11-16,Northwestern,Western,Fred Murphy,H,Chicago,Western,Amos Alonzo Stagg,W,21,6
+1918-11-23,Northwestern,Western,Fred Murphy,A,Iowa,Western,Howard Jones,L,7,23
+1918-11-09,Kansas,MVIAA,Jay Bond,H,Oklahoma,SWC,Bennie Owen,L,0,33
+1918-11-16,Kansas,MVIAA,Jay Bond,A,Nebraska,MVIAA,William Kline,L,0,20
+1918-11-28,Kansas,MVIAA,Jay Bond,H,Kansas State,MVIAA,Zora Clevenger,W,13,7
+1918-11-10,Pennsylvania,Ind,,H,Lafayette,Ind,L.A. Cobbett,W,34,0
+1918-11-16,Pennsylvania,Ind,,A,Pitt,Ind,Pop Warner,L,0,37
+1918-11-28,Pennsylvania,Ind,,H,Dartmouth,Ind,,W,21,0
+1918-09-28,Iowa,Western,Howard Jones,H,Great Lakes Navy,Ind,,L,0,10
+1918-10-05,Iowa,Western,Howard Jones,A,Nebraska,MVIAA,William Kline,W,12,0
+1918-11-02,Iowa,Western,Howard Jones,H,Illinois,Western,Robert Zuppke,L,0,19
+1918-11-09,Iowa,Western,Howard Jones,H,Minnesota,Western,Henry Williams,W,6,0
+1918-11-16,Iowa,Western,Howard Jones,H,Iowa State,MVIAA,,W,21,0
+1918-11-23,Iowa,Western,Howard Jones,H,Northwestern,Western,Fred Murphy,W,23,7
+1918-09-28,Texas,SWC,William Juneau,H,Texas Christian,Ind,E.M. Tipton,W,19,0
+1918-11-10,Texas,SWC,William Juneau,H,Oklahoma State,SWC,Earl Pritchard,W,27,5
+1918-11-16,Texas,SWC,William Juneau,A,Rice,SWC,John Anderson,W,14,0
+1918-11-23,Texas,SWC,William Juneau,H,SMU,SWC,J. Rix,W,32,0
+1918-11-28,Texas,SWC,William Juneau,H,Texas A&M,SWC,Tubby Graves,W,7,0
+1918-09-28,Texas Christian,Ind,E.M. Tipton,A,Texas,SWC,William Juneau,L,0,19
+1918-10-19,Texas Christian,Ind,E.M. Tipton,A,Southwestern (TX),Ind,,W,14,6
+1918-11-28,Texas Christian,Ind,E.M. Tipton,A,Baylor,SWC,Bubs Mosley,W,12,7
+1919-01-01,Mare Island Marines,Ind,,N,Great Lakes Navy,Ind,,L,0,17
+1918-11-16,Oregon,PCC,Shy Huntington,A,Oregon State,PCC,Bill Hargiss,W,13,6
+1918-11-23,Oregon,PCC,Shy Huntington,A,California,PCC,Andy Smith,L,0,6
+1918-12-01,Oregon,PCC,Shy Huntington,H,Washington,PCC,Anthony Savage,W,7,0
+1918-11-10,Brown,Ind,Edward Robinson,A,Syracuse,Ind,,L,0,53
+1918-11-24,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,,W,28,0
+1918-11-28,Brown,Ind,Edward Robinson,A,Harvard,Ind,Pooch Donovan,W,6,3
+1918-10-26,Lehigh,Ind,Tom Keady,H,Rutgers,Ind,George Sanford,L,0,39
+1918-11-16,Lehigh,Ind,Tom Keady,H,Penn State,Ind,Hugo Bezdek,L,6,7
+1918-11-23,Lehigh,Ind,Tom Keady,A,Lafayette,Ind,L.A. Cobbett,W,17,0
+1918-11-16,Oregon State,PCC,Bill Hargiss,H,Oregon,PCC,Shy Huntington,L,6,13
+1918-11-23,Oregon State,PCC,Bill Hargiss,A,Washington,PCC,Anthony Savage,L,0,6
+1918-11-02,Purdue,Western,Butch Scanlon,H,Chicago,Western,Amos Alonzo Stagg,W,7,3
+1918-11-09,Purdue,Western,Butch Scanlon,A,Michigan State,Ind,George Gauthier,W,14,6
+1918-11-23,Purdue,Western,Butch Scanlon,H,Notre Dame,Ind,Knute Rockne,L,6,26
+1918-11-30,Purdue,Western,Butch Scanlon,A,Great Lakes Navy,Ind,,L,0,27
+1918-10-05,Nebraska,MVIAA,William Kline,H,Iowa,Western,Howard Jones,L,0,12
+1918-11-16,Nebraska,MVIAA,William Kline,H,Kansas,MVIAA,Jay Bond,W,20,0
+1918-11-28,Nebraska,MVIAA,William Kline,H,Notre Dame,Ind,Knute Rockne,T,0,0
+1918-12-07,Nebraska,MVIAA,William Kline,A,Washington (MO),MVIAA,R.B. Rutherford,L,7,20
+1918-11-28,Harvard,Ind,Pooch Donovan,H,Brown,Ind,Edward Robinson,L,3,6
+1918-11-10,Oklahoma State,SWC,Earl Pritchard,A,Texas,SWC,William Juneau,L,5,27
+1918-11-28,Oklahoma State,SWC,Earl Pritchard,N,Oklahoma,SWC,Bennie Owen,L,0,27
+1918-11-23,Colorado,RMC,Joe Mills,A,Denver,RMC,John Fike,L,0,6
+1918-11-28,Colorado,RMC,Joe Mills,H,Colorado State,RMC,Harry Hughes,W,16,13
+1918-12-07,Colorado,RMC,Joe Mills,A,Colorado College,RMC,C.J. Rothget,L,7,8
+1918-11-16,Colorado State,RMC,Harry Hughes,A,Denver,RMC,John Fike,L,0,14
+1918-11-28,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Joe Mills,L,13,16
+1918-11-16,Rice,SWC,John Anderson,H,Texas,SWC,William Juneau,L,0,14
+1918-11-30,Rice,SWC,John Anderson,H,SMU,SWC,J. Rix,W,13,0
+1918-11-02,Texas A&M,SWC,Tubby Graves,A,Baylor,SWC,Bubs Mosley,W,19,0
+1918-11-09,Texas A&M,SWC,Tubby Graves,H,Southwestern (TX),Ind,,W,7,0
+1918-11-28,Texas A&M,SWC,Tubby Graves,A,Texas,SWC,William Juneau,L,0,7
+1918-10-19,Davidson,Ind,William Fetzer,N,Washington & Lee,Ind,J.J. Fitzpatrick,W,21,0
+1918-11-28,Davidson,Ind,William Fetzer,N,Clemson,Ind,Edward Donahue,L,0,7
+1918-11-09,Washington (MO),MVIAA,R.B. Rutherford,H,Drake,MVIAA,Mark Banks,W,26,0
+1918-12-07,Washington (MO),MVIAA,R.B. Rutherford,H,Nebraska,MVIAA,William Kline,W,20,7
+1918-11-09,Michigan State,Ind,George Gauthier,H,Purdue,Western,Butch Scanlon,L,6,14
+1918-11-16,Michigan State,Ind,George Gauthier,H,Notre Dame,Ind,Knute Rockne,W,13,7
+1918-11-23,Michigan State,Ind,George Gauthier,A,Michigan,Western,Fielding Yost,L,6,21
+1918-11-28,Michigan State,Ind,George Gauthier,A,Wisconsin,Western,Guy Lowman,L,6,7
+1918-11-02,Chicago,Western,Amos Alonzo Stagg,A,Purdue,Western,Butch Scanlon,L,3,7
+1918-11-09,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Fielding Yost,L,0,13
+1918-11-16,Chicago,Western,Amos Alonzo Stagg,A,Northwestern,Western,Fred Murphy,L,6,21
+1918-11-23,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,L,0,29
+1918-11-30,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,Henry Williams,L,0,7
+1918-11-09,Minnesota,Western,Henry Williams,A,Iowa,Western,Howard Jones,L,0,6
+1918-11-16,Minnesota,Western,Henry Williams,H,Wisconsin,Western,Guy Lowman,W,6,0
+1918-11-30,Minnesota,Western,Henry Williams,A,Chicago,Western,Amos Alonzo Stagg,W,7,0
+1918-11-28,Ole Miss,Ind,,A,Mississippi State,Ind,Sid Robinson,L,0,34
+1918-12-07,Ole Miss,Ind,,H,Mississippi State,Ind,Sid Robinson,L,0,13
+1918-11-28,Sewanee,Ind,,A,Vanderbilt,Ind,Ray Morrison,L,0,40
+1918-11-23,Navy,Ind,Gilmour Dobie,H,Great Lakes Navy,Ind,,L,6,7
+1918-11-10,Lafayette,Ind,L.A. Cobbett,A,Pennsylvania,Ind,,L,0,34
+1918-11-23,Lafayette,Ind,L.A. Cobbett,H,Lehigh,Ind,Tom Keady,L,0,17
+1918-11-16,Ohio State,Western,John Wilce,A,Illinois,Western,Robert Zuppke,L,0,13
+1918-11-23,Ohio State,Western,John Wilce,H,Wisconsin,Western,Guy Lowman,L,3,14
+1918-11-30,Ohio State,Western,John Wilce,A,Michigan,Western,Fielding Yost,L,0,14
+1918-11-09,Drake,MVIAA,Mark Banks,A,Washington (MO),MVIAA,R.B. Rutherford,L,0,26

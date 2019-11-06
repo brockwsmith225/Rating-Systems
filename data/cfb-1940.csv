@@ -1,0 +1,931 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1940-09-28,North Carolina,Southern,Raymond Wolf,H,Wake Forest,Southern,D.C. Walker,L,0,12
+1940-10-05,North Carolina,Southern,Raymond Wolf,N,Davidson,Southern,Gene McEver,W,27,7
+1940-10-12,North Carolina,Southern,Raymond Wolf,H,Texas Christian,SWC,Dutch Meyer,W,21,14
+1940-10-19,North Carolina,Southern,Raymond Wolf,A,North Carolina State,Southern,Doc Newton,W,13,7
+1940-10-26,North Carolina,Southern,Raymond Wolf,H,Tulane,SEC,Red Dawson,L,13,14
+1940-11-02,North Carolina,Southern,Raymond Wolf,A,Fordham,Ind,Jimmy Crowley,L,0,14
+1940-11-09,North Carolina,Southern,Raymond Wolf,A,Richmond,Southern,Glenn Thistlethwaite,L,13,14
+1940-11-16,North Carolina,Southern,Raymond Wolf,H,Duke,Southern,Wallace Wade,W,6,3
+1940-11-23,North Carolina,Southern,Raymond Wolf,A,Virginia,Ind,Frank Murray,W,10,7
+1940-10-05,Indiana,Western,Bo McMillin,H,Texas,SWC,Dana Bible,L,6,13
+1940-10-12,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Biff Jones,L,7,13
+1940-10-19,Indiana,Western,Bo McMillin,H,Iowa,Western,Edward Anderson,W,10,6
+1940-10-26,Indiana,Western,Bo McMillin,A,Northwestern,Western,Pappy Waldorf,L,7,20
+1940-11-02,Indiana,Western,Bo McMillin,A,Ohio State,Western,Francis Schmidt,L,6,21
+1940-11-09,Indiana,Western,Bo McMillin,H,Michigan State,Ind,Charlie Bachman,W,20,0
+1940-11-16,Indiana,Western,Bo McMillin,A,Wisconsin,Western,Harry Stuhldreher,L,10,27
+1940-11-23,Indiana,Western,Bo McMillin,A,Purdue,Western,Mal Elward,W,3,0
+1940-09-27,Iowa State,Big 6,Jim Yeager,A,Denver,MSAC,Cac Hubbard,L,7,14
+1940-10-05,Iowa State,Big 6,Jim Yeager,H,Kansas,Big 6,Gwinn Henry,W,7,0
+1940-10-11,Iowa State,Big 6,Jim Yeager,A,Marquette,Ind,Paddy Driscoll,L,25,41
+1940-10-19,Iowa State,Big 6,Jim Yeager,A,Missouri,Big 6,Don Faurot,L,14,30
+1940-10-26,Iowa State,Big 6,Jim Yeager,H,Oklahoma,Big 6,Tom Stidham,L,7,20
+1940-11-09,Iowa State,Big 6,Jim Yeager,H,Drake,MVC,Vee Green,W,7,6
+1940-11-16,Iowa State,Big 6,Jim Yeager,A,Kansas State,Big 6,Hobbs Adams,W,12,0
+1940-11-23,Iowa State,Big 6,Jim Yeager,A,Nebraska,Big 6,Biff Jones,L,12,21
+1940-10-05,Fordham,Ind,Jimmy Crowley,H,West Virginia,Ind,Bill Kern,W,20,7
+1940-10-12,Fordham,Ind,Jimmy Crowley,H,Tulane,SEC,Red Dawson,W,20,7
+1940-10-19,Fordham,Ind,Jimmy Crowley,A,Pitt,Ind,Charles Bowser,W,24,12
+1940-10-26,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Red Strader,L,6,9
+1940-11-02,Fordham,Ind,Jimmy Crowley,H,North Carolina,Southern,Raymond Wolf,W,14,0
+1940-11-09,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Mal Elward,W,13,7
+1940-11-21,Fordham,Ind,Jimmy Crowley,H,Arkansas,SWC,Fred Thomsen,W,27,7
+1940-11-30,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,W,26,0
+1941-01-01,Fordham,Ind,Jimmy Crowley,N,Texas A&M,SWC,Homer Norton,L,12,13
+1940-10-05,Arizona State,BIAA,Dixie Howell,A,Hardin-Simmons,Ind,Frank Kimbrough,L,0,17
+1940-10-11,Arizona State,BIAA,Dixie Howell,A,New Mexico,BIAA,Ted Shipkey,W,13,6
+1940-10-19,Arizona State,BIAA,Dixie Howell,H,New Mexico State,BIAA,Julius Johnston,W,42,6
+1940-10-26,Arizona State,BIAA,Dixie Howell,A,UTEP,BIAA,Mack Saxon,T,0,0
+1940-11-02,Arizona State,BIAA,Dixie Howell,A,Northern Arizona,BIAA,Maurice Moulder,W,12,0
+1940-11-09,Arizona State,BIAA,Dixie Howell,H,Gonzaga,Ind,Puggy Hunton,T,7,7
+1940-10-05,Furman,Southern,,A,Wake Forest,Southern,D.C. Walker,L,0,19
+1940-10-11,Furman,Southern,,H,Citadel,Southern,Bo Rowland,W,36,7
+1940-10-26,Furman,Southern,,H,Davidson,Southern,Gene McEver,W,40,7
+1940-11-02,Furman,Southern,,A,North Carolina State,Southern,Doc Newton,W,20,6
+1940-11-09,Furman,Southern,,A,Virginia Tech,Southern,Henry Redd,L,21,38
+1940-11-16,Furman,Southern,,H,South Carolina,Southern,Rex Enright,W,25,7
+1940-11-23,Furman,Southern,,H,Clemson,Southern,Frank Howard,L,7,13
+1940-09-28,Utah,MSAC,Ike Armstrong,A,Santa Clara,Ind,Buck Shaw,L,13,34
+1940-10-05,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,W,12,6
+1940-10-12,Utah,MSAC,Ike Armstrong,H,Arizona,BIAA,Miles Casteel,W,24,0
+1940-10-19,Utah,MSAC,Ike Armstrong,A,Utah State,MSAC,E. Lowell Romney,L,0,7
+1940-10-26,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Cac Hubbard,W,25,14
+1940-11-02,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Frank Potts,W,21,13
+1940-11-09,Utah,MSAC,Ike Armstrong,A,Wyoming,MSAC,Okie Blanchard,W,34,7
+1940-11-16,Utah,MSAC,Ike Armstrong,H,Colorado State,MSAC,Harry Hughes,W,27,0
+1940-11-21,Utah,MSAC,Ike Armstrong,H,Idaho,PCC,Ted Bank,W,13,6
+1940-10-11,Villanova,Ind,Maurice Smith,H,Florida,SEC,Tom Lieb,W,28,0
+1940-10-19,Villanova,Ind,Maurice Smith,A,Baylor,SWC,Morley Jennings,L,0,7
+1940-10-27,Villanova,Ind,Maurice Smith,H,Detroit Mercy,Ind,Gus Dorais,L,0,10
+1940-11-01,Villanova,Ind,Maurice Smith,H,Kansas,Big 6,Gwinn Henry,W,33,7
+1940-11-09,Villanova,Ind,Maurice Smith,A,Temple,Ind,Ray Morrison,L,0,28
+1940-11-16,Villanova,Ind,Maurice Smith,A,Manhattan,Ind,Herb Kopf,W,13,6
+1940-11-23,Villanova,Ind,Maurice Smith,H,Duquesne,Ind,Aldo Donelli,L,10,14
+1940-12-07,Villanova,Ind,Maurice Smith,A,Auburn,SEC,Jack Meagher,L,10,13
+1940-09-21,Washington & Lee,Southern,Tex Tilson,H,Hampden-Sydney,Ind,,W,26,0
+1940-09-28,Washington & Lee,Southern,Tex Tilson,A,Vanderbilt,SEC,Red Sanders,L,0,19
+1940-10-05,Washington & Lee,Southern,Tex Tilson,A,Kentucky,SEC,A.D. Kirwan,L,12,47
+1940-10-12,Washington & Lee,Southern,Tex Tilson,A,George Washington,Ind,Bill Reinhard,L,14,20
+1940-10-19,Washington & Lee,Southern,Tex Tilson,A,Richmond,Southern,Glenn Thistlethwaite,W,3,0
+1940-10-26,Washington & Lee,Southern,Tex Tilson,N,Virginia Tech,Southern,Henry Redd,L,0,21
+1940-11-02,Washington & Lee,Southern,Tex Tilson,N,West Virginia,Ind,Bill Kern,L,7,12
+1940-11-09,Washington & Lee,Southern,Tex Tilson,A,Virginia,Ind,Frank Murray,L,6,20
+1940-11-16,Washington & Lee,Southern,Tex Tilson,A,Sewanee,Ind,Jenks Gillem,L,13,25
+1940-11-30,Washington & Lee,Southern,Tex Tilson,A,Maryland,Southern,Jack Faber,T,7,7
+1940-10-05,Syracuse,Ind,Ossie Solem,H,Northwestern,Western,Pappy Waldorf,L,0,40
+1940-10-12,Syracuse,Ind,Ossie Solem,A,New York University,Ind,Mal Stevens,W,47,13
+1940-10-19,Syracuse,Ind,Ossie Solem,A,Cornell,Ind,Carl Snavely,L,6,33
+1940-10-26,Syracuse,Ind,Ossie Solem,A,Columbia,Ind,Lou Little,W,3,0
+1940-11-02,Syracuse,Ind,Ossie Solem,H,Georgetown,Ind,Jack Hagerty,L,6,28
+1940-11-09,Syracuse,Ind,Ossie Solem,H,Penn State,Ind,Bob Higgins,T,13,13
+1940-11-16,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,L,6,7
+1940-09-28,Arizona,BIAA,Miles Casteel,H,Northern Arizona,BIAA,Maurice Moulder,W,41,0
+1940-10-05,Arizona,BIAA,Miles Casteel,H,New Mexico State,BIAA,Julius Johnston,W,41,0
+1940-10-12,Arizona,BIAA,Miles Casteel,A,Utah,MSAC,Ike Armstrong,L,0,24
+1940-10-19,Arizona,BIAA,Miles Casteel,H,Centenary (LA),Ind,Jake Hanna,W,29,6
+1940-10-26,Arizona,BIAA,Miles Casteel,H,Oklahoma State,MVC,Jim Lookabaugh,W,24,0
+1940-11-02,Arizona,BIAA,Miles Casteel,A,UTEP,BIAA,Mack Saxon,W,20,13
+1940-11-09,Arizona,BIAA,Miles Casteel,A,Loyola Marymount,Ind,Marty Brill,W,20,13
+1940-11-23,Arizona,BIAA,Miles Casteel,H,New Mexico,BIAA,Ted Shipkey,L,12,13
+1940-11-30,Arizona,BIAA,Miles Casteel,H,Marquette,Ind,Paddy Driscoll,W,17,14
+1940-10-04,Georgetown,Ind,Jack Hagerty,A,Temple,Ind,Ray Morrison,W,14,0
+1940-10-19,Georgetown,Ind,Jack Hagerty,H,Virginia Tech,Southern,Henry Redd,W,46,4
+1940-10-26,Georgetown,Ind,Jack Hagerty,A,New York University,Ind,Mal Stevens,W,26,0
+1940-11-02,Georgetown,Ind,Jack Hagerty,A,Syracuse,Ind,Ossie Solem,W,28,6
+1940-11-09,Georgetown,Ind,Jack Hagerty,A,Maryland,Southern,Jack Faber,W,41,0
+1940-11-16,Georgetown,Ind,Jack Hagerty,A,Boston College,Ind,Frank Leahy,L,18,19
+1940-11-23,Georgetown,Ind,Jack Hagerty,A,George Washington,Ind,Bill Reinhard,W,8,0
+1941-01-01,Georgetown,Ind,Jack Hagerty,N,Mississippi State,SEC,Allyn McKeen,L,7,14
+1940-10-05,Montana,PCC,Doug Fessenden,A,Washington State,PCC,O.E. Hollingbery,L,0,13
+1940-10-12,Montana,PCC,Doug Fessenden,H,Texas Tech,BIAA,Pete Cawthon,L,19,32
+1940-10-26,Montana,PCC,Doug Fessenden,H,Gonzaga,Ind,Puggy Hunton,W,13,10
+1940-11-02,Montana,PCC,Doug Fessenden,A,Oregon,PCC,Tex Oliver,L,0,38
+1940-11-09,Montana,PCC,Doug Fessenden,H,Idaho,PCC,Ted Bank,W,28,18
+1940-10-12,Penn State,Ind,Bob Higgins,H,West Virginia,Ind,Bill Kern,W,17,13
+1940-10-26,Penn State,Ind,Bob Higgins,A,Temple,Ind,Ray Morrison,W,18,0
+1940-11-02,Penn State,Ind,Bob Higgins,H,South Carolina,Southern,Rex Enright,W,12,0
+1940-11-09,Penn State,Ind,Bob Higgins,A,Syracuse,Ind,Ossie Solem,T,13,13
+1940-11-16,Penn State,Ind,Bob Higgins,H,New York University,Ind,Mal Stevens,W,25,0
+1940-11-23,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Charles Bowser,L,7,20
+1940-10-05,Princeton,Ind,Tad Wieman,H,Vanderbilt,SEC,Red Sanders,W,7,6
+1940-10-12,Princeton,Ind,Tad Wieman,H,Navy,Ind,Swede Larson,L,6,12
+1940-10-19,Princeton,Ind,Tad Wieman,A,Pennsylvania,Ind,George Munger,L,28,46
+1940-11-02,Princeton,Ind,Tad Wieman,A,Harvard,Ind,Dick Harlow,T,0,0
+1940-11-09,Princeton,Ind,Tad Wieman,H,Dartmouth,Ind,Red Blaik,W,14,9
+1940-11-16,Princeton,Ind,Tad Wieman,H,Yale,Ind,Ducky Pond,W,10,7
+1940-11-23,Princeton,Ind,Tad Wieman,H,Army,Ind,William Wood,W,26,19
+1940-09-28,Vanderbilt,SEC,Red Sanders,H,Washington & Lee,Southern,Tex Tilson,W,19,0
+1940-10-05,Vanderbilt,SEC,Red Sanders,A,Princeton,Ind,Tad Wieman,L,6,7
+1940-10-12,Vanderbilt,SEC,Red Sanders,H,Kentucky,SEC,A.D. Kirwan,T,7,7
+1940-10-19,Vanderbilt,SEC,Red Sanders,A,Georgia Tech,SEC,William Alexander,L,0,19
+1940-10-26,Vanderbilt,SEC,Red Sanders,A,LSU,SEC,Bernie Moore,L,0,7
+1940-11-02,Vanderbilt,SEC,Red Sanders,H,Ole Miss,SEC,Harry Mehre,L,7,13
+1940-11-09,Vanderbilt,SEC,Red Sanders,H,Sewanee,Ind,Jenks Gillem,W,20,0
+1940-11-23,Vanderbilt,SEC,Red Sanders,A,Alabama,SEC,Frank Thomas,L,21,25
+1940-11-30,Vanderbilt,SEC,Red Sanders,H,Tennessee,SEC,Bob Neyland,L,0,20
+1940-10-05,Kentucky,SEC,A.D. Kirwan,H,Washington & Lee,Southern,Tex Tilson,W,47,12
+1940-10-12,Kentucky,SEC,A.D. Kirwan,A,Vanderbilt,SEC,Red Sanders,T,7,7
+1940-10-19,Kentucky,SEC,A.D. Kirwan,H,George Washington,Ind,Bill Reinhard,W,24,0
+1940-10-25,Kentucky,SEC,A.D. Kirwan,A,Georgia,SEC,Wallace Butts,T,7,7
+1940-11-02,Kentucky,SEC,A.D. Kirwan,H,Alabama,SEC,Frank Thomas,L,0,25
+1940-11-09,Kentucky,SEC,A.D. Kirwan,H,Georgia Tech,SEC,William Alexander,W,26,7
+1940-11-17,Kentucky,SEC,A.D. Kirwan,A,West Virginia,Ind,Bill Kern,L,7,9
+1940-11-23,Kentucky,SEC,A.D. Kirwan,A,Tennessee,SEC,Bob Neyland,L,0,33
+1940-09-28,California,PCC,Stub Allison,H,Michigan,Western,Fritz Crisler,L,0,41
+1940-10-05,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,Red Strader,W,9,6
+1940-10-12,California,PCC,Stub Allison,H,Washington State,PCC,O.E. Hollingbery,L,6,9
+1940-10-19,California,PCC,Stub Allison,H,UCLA,PCC,Babe Horrell,W,9,7
+1940-10-26,California,PCC,Stub Allison,A,Washington,PCC,James Phelan,L,6,7
+1940-11-02,California,PCC,Stub Allison,H,Oregon State,PCC,Lon Stiner,L,13,19
+1940-11-09,California,PCC,Stub Allison,A,USC,PCC,Howard Jones,W,20,7
+1940-11-16,California,PCC,Stub Allison,H,Oregon,PCC,Tex Oliver,W,14,6
+1940-11-30,California,PCC,Stub Allison,H,Stanford,PCC,Clark Shaughnessy,L,7,13
+1940-12-28,California,PCC,Stub Allison,A,Georgia Tech,SEC,William Alexander,L,0,13
+1940-09-28,Florida,SEC,Tom Lieb,H,Mississippi State,SEC,Allyn McKeen,L,7,27
+1940-10-11,Florida,SEC,Tom Lieb,A,Villanova,Ind,Maurice Smith,L,0,28
+1940-10-19,Florida,SEC,Tom Lieb,H,Maryland,Southern,Jack Faber,W,19,0
+1940-10-26,Florida,SEC,Tom Lieb,A,Tennessee,SEC,Bob Neyland,L,0,14
+1940-11-09,Florida,SEC,Tom Lieb,N,Georgia,SEC,Wallace Butts,W,18,13
+1940-11-16,Florida,SEC,Tom Lieb,A,Miami (FL),Ind,Jack Harding,W,46,6
+1940-11-23,Florida,SEC,Tom Lieb,A,Georgia Tech,SEC,William Alexander,W,16,7
+1940-11-30,Florida,SEC,Tom Lieb,N,Auburn,SEC,Jack Meagher,L,7,20
+1940-12-07,Florida,SEC,Tom Lieb,H,Texas,SWC,Dana Bible,L,0,26
+1940-09-28,Gonzaga,Ind,Puggy Hunton,A,Saint Mary's (CA),Ind,Red Strader,L,0,16
+1940-10-12,Gonzaga,Ind,Puggy Hunton,A,Idaho,PCC,Ted Bank,W,25,0
+1940-10-26,Gonzaga,Ind,Puggy Hunton,A,Montana,PCC,Doug Fessenden,L,10,13
+1940-11-09,Gonzaga,Ind,Puggy Hunton,A,Arizona State,BIAA,Dixie Howell,T,7,7
+1940-11-16,Gonzaga,Ind,Puggy Hunton,H,Detroit Mercy,Ind,Gus Dorais,W,13,7
+1940-11-23,Gonzaga,Ind,Puggy Hunton,H,Washington State,PCC,O.E. Hollingbery,L,7,14
+1940-09-28,Stanford,PCC,Clark Shaughnessy,A,San Francisco,Ind,George Malley,W,27,0
+1940-10-05,Stanford,PCC,Clark Shaughnessy,H,Oregon,PCC,Tex Oliver,W,13,0
+1940-10-12,Stanford,PCC,Clark Shaughnessy,H,Santa Clara,Ind,Buck Shaw,W,7,6
+1940-10-19,Stanford,PCC,Clark Shaughnessy,A,Washington State,PCC,O.E. Hollingbery,W,26,14
+1940-10-26,Stanford,PCC,Clark Shaughnessy,H,USC,PCC,Howard Jones,W,21,7
+1940-11-02,Stanford,PCC,Clark Shaughnessy,A,UCLA,PCC,Babe Horrell,W,20,14
+1940-11-09,Stanford,PCC,Clark Shaughnessy,H,Washington,PCC,James Phelan,W,20,10
+1940-11-16,Stanford,PCC,Clark Shaughnessy,H,Oregon State,PCC,Lon Stiner,W,28,14
+1940-11-30,Stanford,PCC,Clark Shaughnessy,A,California,PCC,Stub Allison,W,13,7
+1941-01-01,Stanford,PCC,Clark Shaughnessy,N,Nebraska,Big 6,Biff Jones,W,21,13
+1940-10-12,Creighton,MVC,Skip Palrang,A,Tulsa,MVC,Chet Benefiel,L,0,32
+1940-10-19,Creighton,MVC,Skip Palrang,H,Marquette,Ind,Paddy Driscoll,T,27,27
+1940-10-27,Creighton,MVC,Skip Palrang,A,San Francisco,Ind,George Malley,T,0,0
+1940-11-02,Creighton,MVC,Skip Palrang,H,Oklahoma State,MVC,Jim Lookabaugh,L,14,20
+1940-11-08,Creighton,MVC,Skip Palrang,A,Saint Louis,MVC,,W,14,0
+1940-11-23,Creighton,MVC,Skip Palrang,A,Drake,MVC,Vee Green,W,14,0
+1940-09-28,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,T,14,14
+1940-10-05,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Doug Fessenden,W,13,0
+1940-10-12,Washington State,PCC,O.E. Hollingbery,A,California,PCC,Stub Allison,W,9,6
+1940-10-19,Washington State,PCC,O.E. Hollingbery,H,Stanford,PCC,Clark Shaughnessy,L,14,26
+1940-10-26,Washington State,PCC,O.E. Hollingbery,H,Oregon,PCC,Tex Oliver,T,6,6
+1940-11-02,Washington State,PCC,O.E. Hollingbery,A,Idaho,PCC,Ted Bank,W,26,0
+1940-11-09,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Lon Stiner,L,0,21
+1940-11-16,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,Babe Horrell,L,26,34
+1940-11-23,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Puggy Hunton,W,14,7
+1940-11-30,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,L,9,33
+1940-10-12,Illinois,Western,Robert Zuppke,H,USC,PCC,Howard Jones,L,7,13
+1940-10-19,Illinois,Western,Robert Zuppke,A,Michigan,Western,Fritz Crisler,L,0,28
+1940-10-26,Illinois,Western,Robert Zuppke,H,Notre Dame,Ind,Elmer Layden,L,0,26
+1940-11-02,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,Harry Stuhldreher,L,6,13
+1940-11-09,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Pappy Waldorf,L,14,32
+1940-11-16,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Francis Schmidt,L,6,14
+1940-11-23,Illinois,Western,Robert Zuppke,A,Iowa,Western,Edward Anderson,L,7,18
+1940-10-05,Baylor,SWC,Morley Jennings,A,Denver,MSAC,Cac Hubbard,W,14,7
+1940-10-12,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Fred Thomsen,L,6,12
+1940-10-19,Baylor,SWC,Morley Jennings,H,Villanova,Ind,Maurice Smith,W,7,0
+1940-10-26,Baylor,SWC,Morley Jennings,H,Texas A&M,SWC,Homer Norton,L,7,14
+1940-11-02,Baylor,SWC,Morley Jennings,A,Texas Christian,SWC,Dutch Meyer,L,12,14
+1940-11-09,Baylor,SWC,Morley Jennings,A,Texas,SWC,Dana Bible,L,0,13
+1940-11-16,Baylor,SWC,Morley Jennings,H,Tulsa,MVC,Chet Benefiel,W,20,6
+1940-11-23,Baylor,SWC,Morley Jennings,H,SMU,SWC,Madison Bell,L,4,7
+1940-11-30,Baylor,SWC,Morley Jennings,A,Rice,SWC,Jess Neely,L,12,21
+1940-10-04,Manhattan,Ind,Herb Kopf,H,George Washington,Ind,Bill Reinhard,L,18,21
+1940-10-18,Manhattan,Ind,Herb Kopf,H,Detroit Mercy,Ind,Gus Dorais,L,0,6
+1940-10-25,Manhattan,Ind,Herb Kopf,A,Duquesne,Ind,Aldo Donelli,L,6,10
+1940-11-02,Manhattan,Ind,Herb Kopf,A,Boston College,Ind,Frank Leahy,L,0,25
+1940-11-09,Manhattan,Ind,Herb Kopf,H,Marquette,Ind,Paddy Driscoll,W,45,41
+1940-11-16,Manhattan,Ind,Herb Kopf,H,Villanova,Ind,Maurice Smith,L,6,13
+1940-11-23,Manhattan,Ind,Herb Kopf,A,Holy Cross,Ind,Joseph Sheeketski,L,25,33
+1940-09-29,SMU,SWC,Madison Bell,A,UCLA,PCC,Babe Horrell,W,9,6
+1940-10-12,SMU,SWC,Madison Bell,A,Pitt,Ind,Charles Bowser,T,7,7
+1940-10-19,SMU,SWC,Madison Bell,H,Auburn,SEC,Jack Meagher,W,20,13
+1940-11-02,SMU,SWC,Madison Bell,A,Texas,SWC,Dana Bible,W,21,13
+1940-11-09,SMU,SWC,Madison Bell,H,Texas A&M,SWC,Homer Norton,L,7,19
+1940-11-16,SMU,SWC,Madison Bell,H,Arkansas,SWC,Fred Thomsen,W,28,0
+1940-11-23,SMU,SWC,Madison Bell,A,Baylor,SWC,Morley Jennings,W,7,4
+1940-11-30,SMU,SWC,Madison Bell,H,Texas Christian,SWC,Dutch Meyer,W,16,0
+1940-12-07,SMU,SWC,Madison Bell,A,Rice,SWC,Jess Neely,W,7,6
+1940-10-05,Georgia,SEC,Wallace Butts,A,South Carolina,Southern,Rex Enright,W,33,2
+1940-10-12,Georgia,SEC,Wallace Butts,H,Ole Miss,SEC,Harry Mehre,L,14,28
+1940-10-19,Georgia,SEC,Wallace Butts,A,Columbia,Ind,Lou Little,L,13,19
+1940-10-25,Georgia,SEC,Wallace Butts,H,Kentucky,SEC,A.D. Kirwan,T,7,7
+1940-11-02,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Jack Meagher,W,14,13
+1940-11-09,Georgia,SEC,Wallace Butts,N,Florida,SEC,Tom Lieb,L,13,18
+1940-11-16,Georgia,SEC,Wallace Butts,A,Tulane,SEC,Red Dawson,L,13,21
+1940-11-30,Georgia,SEC,Wallace Butts,H,Georgia Tech,SEC,William Alexander,W,21,19
+1940-12-06,Georgia,SEC,Wallace Butts,A,Miami (FL),Ind,Jack Harding,W,28,7
+1940-09-28,Maryland,Southern,Jack Faber,H,Hampden-Sydney,Ind,,L,6,7
+1940-10-05,Maryland,Southern,Jack Faber,A,Pennsylvania,Ind,George Munger,L,0,51
+1940-10-12,Maryland,Southern,Jack Faber,H,Virginia,Ind,Frank Murray,L,6,19
+1940-10-19,Maryland,Southern,Jack Faber,A,Florida,SEC,Tom Lieb,L,0,19
+1940-11-09,Maryland,Southern,Jack Faber,H,Georgetown,Ind,Jack Hagerty,L,0,41
+1940-11-16,Maryland,Southern,Jack Faber,A,Virginia Military Institute,Southern,Allison Hubert,L,0,20
+1940-11-30,Maryland,Southern,Jack Faber,H,Washington & Lee,Southern,Tex Tilson,T,7,7
+1940-10-05,Virginia,Ind,Frank Murray,A,Yale,Ind,Ducky Pond,W,19,14
+1940-10-12,Virginia,Ind,Frank Murray,A,Maryland,Southern,Jack Faber,W,19,6
+1940-10-19,Virginia,Ind,Frank Murray,H,Virginia Military Institute,Southern,Allison Hubert,L,0,7
+1940-10-26,Virginia,Ind,Frank Murray,A,William & Mary,Southern,Carl Voyles,L,6,13
+1940-11-02,Virginia,Ind,Frank Murray,N,Virginia Tech,Southern,Henry Redd,L,0,6
+1940-11-09,Virginia,Ind,Frank Murray,H,Washington & Lee,Southern,Tex Tilson,W,20,6
+1940-11-16,Virginia,Ind,Frank Murray,A,Tennessee,SEC,Bob Neyland,L,14,41
+1940-11-23,Virginia,Ind,Frank Murray,H,North Carolina,Southern,Raymond Wolf,L,7,10
+1940-09-28,Idaho,PCC,Ted Bank,A,Oregon State,PCC,Lon Stiner,L,0,41
+1940-10-05,Idaho,PCC,Ted Bank,A,Washington,PCC,James Phelan,L,0,21
+1940-10-12,Idaho,PCC,Ted Bank,H,Gonzaga,Ind,Puggy Hunton,L,0,25
+1940-10-19,Idaho,PCC,Ted Bank,A,Boston College,Ind,Frank Leahy,L,0,60
+1940-10-26,Idaho,PCC,Ted Bank,H,Utah State,MSAC,E. Lowell Romney,T,0,0
+1940-11-02,Idaho,PCC,Ted Bank,H,Washington State,PCC,O.E. Hollingbery,L,0,26
+1940-11-09,Idaho,PCC,Ted Bank,A,Montana,PCC,Doug Fessenden,L,18,28
+1940-11-21,Idaho,PCC,Ted Bank,A,Utah,MSAC,Ike Armstrong,L,6,13
+1940-09-21,Northern Arizona,BIAA,Maurice Moulder,H,UTEP,BIAA,Mack Saxon,L,7,28
+1940-09-28,Northern Arizona,BIAA,Maurice Moulder,A,Arizona,BIAA,Miles Casteel,L,0,41
+1940-10-25,Northern Arizona,BIAA,Maurice Moulder,A,New Mexico State,BIAA,Julius Johnston,L,0,13
+1940-11-02,Northern Arizona,BIAA,Maurice Moulder,H,Arizona State,BIAA,Dixie Howell,L,0,12
+1940-11-16,Northern Arizona,BIAA,Maurice Moulder,A,New Mexico,BIAA,Ted Shipkey,L,28,46
+1940-10-11,Citadel,Southern,Bo Rowland,A,Furman,Southern,,L,7,36
+1940-11-16,Citadel,Southern,Bo Rowland,A,North Carolina State,Southern,Doc Newton,L,14,20
+1940-11-23,Citadel,Southern,Bo Rowland,H,Sewanee,Ind,Jenks Gillem,W,13,7
+1940-11-30,Citadel,Southern,Bo Rowland,H,Davidson,Southern,Gene McEver,L,6,20
+1940-12-08,Citadel,Southern,Bo Rowland,H,South Carolina,Southern,Rex Enright,L,6,31
+1940-10-05,Oklahoma,Big 6,Tom Stidham,H,Oklahoma State,MVC,Jim Lookabaugh,W,29,27
+1940-10-12,Oklahoma,Big 6,Tom Stidham,N,Texas,SWC,Dana Bible,L,16,19
+1940-10-19,Oklahoma,Big 6,Tom Stidham,H,Kansas State,Big 6,Hobbs Adams,W,14,0
+1940-10-26,Oklahoma,Big 6,Tom Stidham,A,Iowa State,Big 6,Jim Yeager,W,20,7
+1940-11-02,Oklahoma,Big 6,Tom Stidham,H,Nebraska,Big 6,Biff Jones,L,0,13
+1940-11-09,Oklahoma,Big 6,Tom Stidham,A,Kansas,Big 6,Gwinn Henry,W,13,0
+1940-11-16,Oklahoma,Big 6,Tom Stidham,H,Missouri,Big 6,Don Faurot,W,7,0
+1940-11-23,Oklahoma,Big 6,Tom Stidham,H,Temple,Ind,Ray Morrison,W,9,6
+1940-11-30,Oklahoma,Big 6,Tom Stidham,A,Santa Clara,Ind,Buck Shaw,L,13,33
+1940-10-05,Virginia Tech,Southern,Henry Redd,H,Richmond,Southern,Glenn Thistlethwaite,L,7,13
+1940-10-12,Virginia Tech,Southern,Henry Redd,N,William & Mary,Southern,Carl Voyles,L,13,20
+1940-10-19,Virginia Tech,Southern,Henry Redd,A,Georgetown,Ind,Jack Hagerty,L,4,46
+1940-10-26,Virginia Tech,Southern,Henry Redd,N,Washington & Lee,Southern,Tex Tilson,W,21,0
+1940-11-02,Virginia Tech,Southern,Henry Redd,N,Virginia,Ind,Frank Murray,W,6,0
+1940-11-09,Virginia Tech,Southern,Henry Redd,H,Furman,Southern,,W,38,21
+1940-11-21,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,Allison Hubert,L,0,14
+1940-10-05,Arkansas,SWC,Fred Thomsen,A,Texas Christian,SWC,Dutch Meyer,L,0,20
+1940-10-12,Arkansas,SWC,Fred Thomsen,H,Baylor,SWC,Morley Jennings,W,12,6
+1940-10-19,Arkansas,SWC,Fred Thomsen,H,Texas,SWC,Dana Bible,L,0,21
+1940-10-26,Arkansas,SWC,Fred Thomsen,N,Ole Miss,SEC,Harry Mehre,W,21,20
+1940-11-02,Arkansas,SWC,Fred Thomsen,A,Texas A&M,SWC,Homer Norton,L,0,17
+1940-11-09,Arkansas,SWC,Fred Thomsen,H,Rice,SWC,Jess Neely,L,7,14
+1940-11-16,Arkansas,SWC,Fred Thomsen,A,SMU,SWC,Madison Bell,L,0,28
+1940-11-21,Arkansas,SWC,Fred Thomsen,A,Fordham,Ind,Jimmy Crowley,L,7,27
+1940-11-28,Arkansas,SWC,Fred Thomsen,A,Tulsa,MVC,Chet Benefiel,W,27,21
+1940-10-05,Clemson,Southern,Frank Howard,N,North Carolina State,Southern,Doc Newton,W,26,7
+1940-10-12,Clemson,Southern,Frank Howard,H,Wake Forest,Southern,D.C. Walker,W,39,0
+1940-10-24,Clemson,Southern,Frank Howard,A,South Carolina,Southern,Rex Enright,W,21,13
+1940-11-02,Clemson,Southern,Frank Howard,A,Tulane,SEC,Red Dawson,L,0,13
+1940-11-09,Clemson,Southern,Frank Howard,A,Auburn,SEC,Jack Meagher,L,7,21
+1940-11-23,Clemson,Southern,Frank Howard,A,Furman,Southern,,W,13,7
+1940-10-05,South Carolina,Southern,Rex Enright,H,Georgia,SEC,Wallace Butts,L,2,33
+1940-10-11,South Carolina,Southern,Rex Enright,A,Duquesne,Ind,Aldo Donelli,L,21,27
+1940-10-24,South Carolina,Southern,Rex Enright,H,Clemson,Southern,Frank Howard,L,13,21
+1940-11-02,South Carolina,Southern,Rex Enright,A,Penn State,Ind,Bob Higgins,L,0,12
+1940-11-09,South Carolina,Southern,Rex Enright,H,Kansas State,Big 6,Hobbs Adams,W,20,13
+1940-11-16,South Carolina,Southern,Rex Enright,A,Furman,Southern,,L,7,25
+1940-11-22,South Carolina,Southern,Rex Enright,H,Miami (FL),Ind,Jack Harding,W,7,2
+1940-11-28,South Carolina,Southern,Rex Enright,N,Wake Forest,Southern,D.C. Walker,L,6,7
+1940-12-08,South Carolina,Southern,Rex Enright,A,Citadel,Southern,Bo Rowland,W,31,6
+1940-09-28,Washington,PCC,James Phelan,A,Minnesota,Western,Bernie Bierman,L,14,19
+1940-10-05,Washington,PCC,James Phelan,H,Idaho,PCC,Ted Bank,W,21,0
+1940-10-12,Washington,PCC,James Phelan,A,Oregon,PCC,Tex Oliver,W,10,0
+1940-10-19,Washington,PCC,James Phelan,H,Oregon State,PCC,Lon Stiner,W,19,0
+1940-10-26,Washington,PCC,James Phelan,H,California,PCC,Stub Allison,W,7,6
+1940-11-09,Washington,PCC,James Phelan,A,Stanford,PCC,Clark Shaughnessy,L,10,20
+1940-11-16,Washington,PCC,James Phelan,H,USC,PCC,Howard Jones,W,14,0
+1940-11-23,Washington,PCC,James Phelan,A,UCLA,PCC,Babe Horrell,W,41,0
+1940-11-30,Washington,PCC,James Phelan,H,Washington State,PCC,O.E. Hollingbery,W,33,9
+1940-09-28,Santa Clara,Ind,Buck Shaw,H,Utah,MSAC,Ike Armstrong,W,34,13
+1940-10-04,Santa Clara,Ind,Buck Shaw,A,UCLA,PCC,Babe Horrell,W,9,6
+1940-10-12,Santa Clara,Ind,Buck Shaw,A,Stanford,PCC,Clark Shaughnessy,L,6,7
+1940-10-25,Santa Clara,Ind,Buck Shaw,A,Michigan State,Ind,Charlie Bachman,T,0,0
+1940-11-09,Santa Clara,Ind,Buck Shaw,H,San Francisco,Ind,George Malley,W,27,0
+1940-11-16,Santa Clara,Ind,Buck Shaw,H,Loyola Marymount,Ind,Marty Brill,W,27,0
+1940-11-23,Santa Clara,Ind,Buck Shaw,A,Saint Mary's (CA),Ind,Red Strader,W,19,7
+1940-11-30,Santa Clara,Ind,Buck Shaw,H,Oklahoma,Big 6,Tom Stidham,W,33,13
+1940-10-05,Holy Cross,Ind,Joseph Sheeketski,A,LSU,SEC,Bernie Moore,L,0,25
+1940-10-12,Holy Cross,Ind,Joseph Sheeketski,H,Carnegie Mellon,Ind,Edward Baker,W,18,0
+1940-10-19,Holy Cross,Ind,Joseph Sheeketski,A,New York University,Ind,Mal Stevens,W,13,7
+1940-10-26,Holy Cross,Ind,Joseph Sheeketski,A,Brown,Ind,DeOrmond McLaughry,L,6,9
+1940-11-02,Holy Cross,Ind,Joseph Sheeketski,H,Colgate,Ind,Andrew Kerr,L,0,6
+1940-11-09,Holy Cross,Ind,Joseph Sheeketski,H,Ole Miss,SEC,Harry Mehre,L,7,34
+1940-11-16,Holy Cross,Ind,Joseph Sheeketski,H,Temple,Ind,Ray Morrison,T,6,6
+1940-11-23,Holy Cross,Ind,Joseph Sheeketski,H,Manhattan,Ind,Herb Kopf,W,33,25
+1940-11-30,Holy Cross,Ind,Joseph Sheeketski,A,Boston College,Ind,Frank Leahy,L,0,7
+1940-10-12,Utah State,MSAC,E. Lowell Romney,H,Colorado,MSAC,Frank Potts,L,0,26
+1940-10-19,Utah State,MSAC,E. Lowell Romney,H,Utah,MSAC,Ike Armstrong,W,7,0
+1940-10-26,Utah State,MSAC,E. Lowell Romney,A,Idaho,PCC,Ted Bank,T,0,0
+1940-11-02,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Edwin Kimball,L,7,12
+1940-11-09,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Harry Hughes,L,12,13
+1940-11-16,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Cac Hubbard,L,6,34
+1940-11-23,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Okie Blanchard,W,16,0
+1940-09-28,Missouri,Big 6,Don Faurot,H,Saint Louis,MVC,,W,40,26
+1940-10-05,Missouri,Big 6,Don Faurot,A,Pitt,Ind,Charles Bowser,L,13,19
+1940-10-12,Missouri,Big 6,Don Faurot,A,Kansas State,Big 6,Hobbs Adams,W,24,13
+1940-10-19,Missouri,Big 6,Don Faurot,H,Iowa State,Big 6,Jim Yeager,W,30,14
+1940-10-26,Missouri,Big 6,Don Faurot,A,Nebraska,Big 6,Biff Jones,L,7,20
+1940-11-02,Missouri,Big 6,Don Faurot,H,New York University,Ind,Mal Stevens,W,33,0
+1940-11-09,Missouri,Big 6,Don Faurot,A,Colorado,MSAC,Frank Potts,W,21,6
+1940-11-16,Missouri,Big 6,Don Faurot,A,Oklahoma,Big 6,Tom Stidham,L,0,7
+1940-11-21,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,Gwinn Henry,W,45,20
+1940-10-05,Hardin-Simmons,Ind,Frank Kimbrough,H,Arizona State,BIAA,Dixie Howell,W,17,0
+1940-10-12,Hardin-Simmons,Ind,Frank Kimbrough,H,UTEP,BIAA,Mack Saxon,W,20,6
+1940-10-29,Hardin-Simmons,Ind,Frank Kimbrough,A,Centenary (LA),Ind,Jake Hanna,W,15,13
+1940-11-02,Hardin-Simmons,Ind,Frank Kimbrough,A,San Francisco,Ind,George Malley,W,28,18
+1940-11-23,Hardin-Simmons,Ind,Frank Kimbrough,H,Loyola Marymount,Ind,Marty Brill,W,40,6
+1940-09-27,Denver,MSAC,Cac Hubbard,H,Iowa State,Big 6,Jim Yeager,W,14,7
+1940-10-05,Denver,MSAC,Cac Hubbard,H,Baylor,SWC,Morley Jennings,L,7,14
+1940-10-12,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Harry Hughes,W,14,13
+1940-10-19,Denver,MSAC,Cac Hubbard,H,Wyoming,MSAC,Okie Blanchard,W,41,9
+1940-10-26,Denver,MSAC,Cac Hubbard,A,Utah,MSAC,Ike Armstrong,L,14,25
+1940-11-09,Denver,MSAC,Cac Hubbard,A,Brigham Young,MSAC,Edwin Kimball,W,9,0
+1940-11-16,Denver,MSAC,Cac Hubbard,H,Utah State,MSAC,E. Lowell Romney,W,34,6
+1940-11-21,Denver,MSAC,Cac Hubbard,H,Colorado,MSAC,Frank Potts,T,3,3
+1940-10-05,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Paddy Driscoll,W,33,19
+1940-10-12,Wisconsin,Western,Harry Stuhldreher,A,Iowa,Western,Edward Anderson,L,12,30
+1940-10-19,Wisconsin,Western,Harry Stuhldreher,H,Northwestern,Western,Pappy Waldorf,L,7,27
+1940-10-26,Wisconsin,Western,Harry Stuhldreher,A,Purdue,Western,Mal Elward,W,14,13
+1940-11-02,Wisconsin,Western,Harry Stuhldreher,H,Illinois,Western,Robert Zuppke,W,13,6
+1940-11-09,Wisconsin,Western,Harry Stuhldreher,A,Columbia,Ind,Lou Little,L,6,7
+1940-11-16,Wisconsin,Western,Harry Stuhldreher,H,Indiana,Western,Bo McMillin,W,27,10
+1940-11-23,Wisconsin,Western,Harry Stuhldreher,H,Minnesota,Western,Bernie Bierman,L,13,22
+1940-09-28,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,T,14,14
+1940-10-05,USC,PCC,Howard Jones,H,Oregon State,PCC,Lon Stiner,T,0,0
+1940-10-12,USC,PCC,Howard Jones,A,Illinois,Western,Robert Zuppke,W,13,7
+1940-10-19,USC,PCC,Howard Jones,H,Oregon,PCC,Tex Oliver,W,13,0
+1940-10-26,USC,PCC,Howard Jones,A,Stanford,PCC,Clark Shaughnessy,L,7,21
+1940-11-09,USC,PCC,Howard Jones,H,California,PCC,Stub Allison,L,7,20
+1940-11-16,USC,PCC,Howard Jones,A,Washington,PCC,James Phelan,L,0,14
+1940-11-30,USC,PCC,Howard Jones,H,UCLA,PCC,Babe Horrell,W,28,12
+1940-12-07,USC,PCC,Howard Jones,H,Notre Dame,Ind,Elmer Layden,L,6,10
+1940-09-21,North Carolina State,Southern,Doc Newton,H,William & Mary,Southern,Carl Voyles,W,16,0
+1940-09-28,North Carolina State,Southern,Doc Newton,A,Davidson,Southern,Gene McEver,W,34,0
+1940-10-05,North Carolina State,Southern,Doc Newton,N,Clemson,Southern,Frank Howard,L,7,26
+1940-10-19,North Carolina State,Southern,Doc Newton,H,North Carolina,Southern,Raymond Wolf,L,7,13
+1940-10-26,North Carolina State,Southern,Doc Newton,H,Mississippi State,SEC,Allyn McKeen,L,10,26
+1940-11-02,North Carolina State,Southern,Doc Newton,H,Furman,Southern,,L,6,20
+1940-11-09,North Carolina State,Southern,Doc Newton,H,Wake Forest,Southern,D.C. Walker,L,14,20
+1940-11-16,North Carolina State,Southern,Doc Newton,H,Citadel,Southern,Bo Rowland,W,20,14
+1940-11-23,North Carolina State,Southern,Doc Newton,A,Duke,Southern,Wallace Wade,L,6,42
+1940-09-28,Centenary (LA),Ind,Jake Hanna,A,Texas Christian,SWC,Dutch Meyer,L,6,41
+1940-10-05,Centenary (LA),Ind,Jake Hanna,A,Rice,SWC,Jess Neely,L,0,25
+1940-10-12,Centenary (LA),Ind,Jake Hanna,H,Saint Louis,MVC,,W,19,6
+1940-10-19,Centenary (LA),Ind,Jake Hanna,A,Arizona,BIAA,Miles Casteel,L,6,29
+1940-10-29,Centenary (LA),Ind,Jake Hanna,H,Hardin-Simmons,Ind,Frank Kimbrough,L,13,15
+1940-11-02,Centenary (LA),Ind,Jake Hanna,H,Washington (MO),MVC,Frank Loebs,W,19,14
+1940-11-11,Centenary (LA),Ind,Jake Hanna,A,Texas Tech,BIAA,Pete Cawthon,L,6,26
+1940-09-28,Michigan,Western,Fritz Crisler,A,California,PCC,Stub Allison,W,41,0
+1940-10-05,Michigan,Western,Fritz Crisler,H,Michigan State,Ind,Charlie Bachman,W,21,14
+1940-10-12,Michigan,Western,Fritz Crisler,A,Harvard,Ind,Dick Harlow,W,26,0
+1940-10-19,Michigan,Western,Fritz Crisler,H,Illinois,Western,Robert Zuppke,W,28,0
+1940-10-26,Michigan,Western,Fritz Crisler,H,Pennsylvania,Ind,George Munger,W,14,0
+1940-11-09,Michigan,Western,Fritz Crisler,A,Minnesota,Western,Bernie Bierman,L,6,7
+1940-11-16,Michigan,Western,Fritz Crisler,H,Northwestern,Western,Pappy Waldorf,W,20,13
+1940-11-23,Michigan,Western,Fritz Crisler,A,Ohio State,Western,Francis Schmidt,W,40,0
+1940-10-18,Detroit Mercy,Ind,Gus Dorais,A,Manhattan,Ind,Herb Kopf,W,6,0
+1940-10-27,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,Maurice Smith,W,10,0
+1940-11-02,Detroit Mercy,Ind,Gus Dorais,H,Tulsa,MVC,Chet Benefiel,L,0,7
+1940-11-09,Detroit Mercy,Ind,Gus Dorais,H,Texas Christian,SWC,Dutch Meyer,W,3,0
+1940-11-16,Detroit Mercy,Ind,Gus Dorais,A,Gonzaga,Ind,Puggy Hunton,L,7,13
+1940-11-23,Detroit Mercy,Ind,Gus Dorais,H,Marquette,Ind,Paddy Driscoll,W,19,0
+1940-10-04,Temple,Ind,Ray Morrison,H,Georgetown,Ind,Jack Hagerty,L,0,14
+1940-10-12,Temple,Ind,Ray Morrison,A,Boston College,Ind,Frank Leahy,L,20,33
+1940-10-18,Temple,Ind,Ray Morrison,H,Michigan State,Ind,Charlie Bachman,W,21,19
+1940-10-26,Temple,Ind,Ray Morrison,H,Penn State,Ind,Bob Higgins,L,0,18
+1940-11-09,Temple,Ind,Ray Morrison,H,Villanova,Ind,Maurice Smith,W,28,0
+1940-11-16,Temple,Ind,Ray Morrison,A,Holy Cross,Ind,Joseph Sheeketski,T,6,6
+1940-11-23,Temple,Ind,Ray Morrison,A,Oklahoma,Big 6,Tom Stidham,L,6,9
+1940-10-05,Loyola Marymount,Ind,Marty Brill,A,Texas Tech,BIAA,Pete Cawthon,L,0,19
+1940-10-19,Loyola Marymount,Ind,Marty Brill,H,Saint Mary's (CA),Ind,Red Strader,L,7,18
+1940-11-09,Loyola Marymount,Ind,Marty Brill,H,Arizona,BIAA,Miles Casteel,L,13,20
+1940-11-16,Loyola Marymount,Ind,Marty Brill,A,Santa Clara,Ind,Buck Shaw,L,0,27
+1940-11-23,Loyola Marymount,Ind,Marty Brill,A,Hardin-Simmons,Ind,Frank Kimbrough,L,6,40
+1940-12-01,Loyola Marymount,Ind,Marty Brill,A,San Francisco,Ind,George Malley,L,0,21
+1940-09-28,New Mexico,BIAA,Ted Shipkey,A,Wyoming,MSAC,Okie Blanchard,L,3,7
+1940-10-11,New Mexico,BIAA,Ted Shipkey,H,Arizona State,BIAA,Dixie Howell,L,6,13
+1940-10-19,New Mexico,BIAA,Ted Shipkey,A,UTEP,BIAA,Mack Saxon,L,7,9
+1940-10-26,New Mexico,BIAA,Ted Shipkey,A,Colorado State,MSAC,Harry Hughes,L,6,7
+1940-11-09,New Mexico,BIAA,Ted Shipkey,H,New Mexico State,BIAA,Julius Johnston,W,39,6
+1940-11-16,New Mexico,BIAA,Ted Shipkey,H,Northern Arizona,BIAA,Maurice Moulder,W,46,28
+1940-11-23,New Mexico,BIAA,Ted Shipkey,A,Arizona,BIAA,Miles Casteel,W,13,12
+1940-11-30,New Mexico,BIAA,Ted Shipkey,H,Texas Tech,BIAA,Pete Cawthon,W,19,14
+1940-10-12,Notre Dame,Ind,Elmer Layden,H,Georgia Tech,SEC,William Alexander,W,26,20
+1940-10-19,Notre Dame,Ind,Elmer Layden,H,Carnegie Mellon,Ind,Edward Baker,W,61,0
+1940-10-26,Notre Dame,Ind,Elmer Layden,A,Illinois,Western,Robert Zuppke,W,26,0
+1940-11-02,Notre Dame,Ind,Elmer Layden,A,Army,Ind,William Wood,W,7,0
+1940-11-09,Notre Dame,Ind,Elmer Layden,A,Navy,Ind,Swede Larson,W,13,7
+1940-11-16,Notre Dame,Ind,Elmer Layden,H,Iowa,Western,Edward Anderson,L,0,7
+1940-11-23,Notre Dame,Ind,Elmer Layden,A,Northwestern,Western,Pappy Waldorf,L,0,20
+1940-12-07,Notre Dame,Ind,Elmer Layden,A,USC,PCC,Howard Jones,W,10,6
+1940-09-28,Pitt,Ind,Charles Bowser,A,Ohio State,Western,Francis Schmidt,L,7,30
+1940-10-05,Pitt,Ind,Charles Bowser,H,Missouri,Big 6,Don Faurot,W,19,13
+1940-10-12,Pitt,Ind,Charles Bowser,H,SMU,SWC,Madison Bell,T,7,7
+1940-10-19,Pitt,Ind,Charles Bowser,H,Fordham,Ind,Jimmy Crowley,L,12,24
+1940-11-09,Pitt,Ind,Charles Bowser,H,Carnegie Mellon,Ind,Edward Baker,W,6,0
+1940-11-16,Pitt,Ind,Charles Bowser,H,Nebraska,Big 6,Biff Jones,L,7,9
+1940-11-23,Pitt,Ind,Charles Bowser,H,Penn State,Ind,Bob Higgins,W,20,7
+1940-11-30,Pitt,Ind,Charles Bowser,A,Duke,Southern,Wallace Wade,L,7,12
+1940-10-12,Carnegie Mellon,Ind,Edward Baker,A,Holy Cross,Ind,Joseph Sheeketski,L,0,18
+1940-10-19,Carnegie Mellon,Ind,Edward Baker,A,Notre Dame,Ind,Elmer Layden,L,0,61
+1940-11-09,Carnegie Mellon,Ind,Edward Baker,A,Pitt,Ind,Charles Bowser,L,0,6
+1940-11-30,Carnegie Mellon,Ind,Edward Baker,H,Duquesne,Ind,Aldo Donelli,L,7,14
+1940-09-28,Saint Mary's (CA),Ind,Red Strader,H,Gonzaga,Ind,Puggy Hunton,W,16,0
+1940-10-05,Saint Mary's (CA),Ind,Red Strader,A,California,PCC,Stub Allison,L,6,9
+1940-10-19,Saint Mary's (CA),Ind,Red Strader,A,Loyola Marymount,Ind,Marty Brill,W,18,7
+1940-10-26,Saint Mary's (CA),Ind,Red Strader,A,Fordham,Ind,Jimmy Crowley,W,9,6
+1940-11-10,Saint Mary's (CA),Ind,Red Strader,H,Duquesne,Ind,Aldo Donelli,L,6,7
+1940-11-16,Saint Mary's (CA),Ind,Red Strader,H,San Francisco,Ind,George Malley,W,13,7
+1940-11-23,Saint Mary's (CA),Ind,Red Strader,H,Santa Clara,Ind,Buck Shaw,L,7,19
+1940-10-04,George Washington,Ind,Bill Reinhard,A,Manhattan,Ind,Herb Kopf,W,21,18
+1940-10-12,George Washington,Ind,Bill Reinhard,H,Washington & Lee,Southern,Tex Tilson,W,20,14
+1940-10-19,George Washington,Ind,Bill Reinhard,A,Kentucky,SEC,A.D. Kirwan,L,0,24
+1940-10-25,George Washington,Ind,Bill Reinhard,H,West Virginia,Ind,Bill Kern,W,19,0
+1940-11-01,George Washington,Ind,Bill Reinhard,H,Wake Forest,Southern,D.C. Walker,L,0,18
+1940-11-16,George Washington,Ind,Bill Reinhard,H,Kansas,Big 6,Gwinn Henry,W,6,0
+1940-11-23,George Washington,Ind,Bill Reinhard,H,Georgetown,Ind,Jack Hagerty,L,0,8
+1940-09-28,Wyoming,MSAC,Okie Blanchard,H,New Mexico,BIAA,Ted Shipkey,W,7,3
+1940-10-05,Wyoming,MSAC,Okie Blanchard,H,Colorado State,MSAC,Harry Hughes,T,0,0
+1940-10-11,Wyoming,MSAC,Okie Blanchard,A,Brigham Young,MSAC,Edwin Kimball,L,0,20
+1940-10-19,Wyoming,MSAC,Okie Blanchard,A,Denver,MSAC,Cac Hubbard,L,9,41
+1940-10-26,Wyoming,MSAC,Okie Blanchard,A,Colorado,MSAC,Frank Potts,L,0,62
+1940-11-09,Wyoming,MSAC,Okie Blanchard,H,Utah,MSAC,Ike Armstrong,L,7,34
+1940-11-23,Wyoming,MSAC,Okie Blanchard,A,Utah State,MSAC,E. Lowell Romney,L,0,16
+1940-10-05,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,L,6,12
+1940-10-11,Brigham Young,MSAC,Edwin Kimball,H,Wyoming,MSAC,Okie Blanchard,W,20,0
+1940-10-18,Brigham Young,MSAC,Edwin Kimball,A,Texas Tech,BIAA,Pete Cawthon,L,20,21
+1940-11-02,Brigham Young,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,W,12,7
+1940-11-09,Brigham Young,MSAC,Edwin Kimball,H,Denver,MSAC,Cac Hubbard,L,0,9
+1940-11-16,Brigham Young,MSAC,Edwin Kimball,A,Colorado,MSAC,Frank Potts,L,2,25
+1940-11-23,Brigham Young,MSAC,Edwin Kimball,A,Colorado State,MSAC,Harry Hughes,T,13,13
+1940-10-11,Duquesne,Ind,Aldo Donelli,H,South Carolina,Southern,Rex Enright,W,27,21
+1940-10-19,Duquesne,Ind,Aldo Donelli,A,Ole Miss,SEC,Harry Mehre,L,6,14
+1940-10-25,Duquesne,Ind,Aldo Donelli,H,Manhattan,Ind,Herb Kopf,W,10,6
+1940-11-02,Duquesne,Ind,Aldo Donelli,H,Marquette,Ind,Paddy Driscoll,W,14,0
+1940-11-10,Duquesne,Ind,Aldo Donelli,A,Saint Mary's (CA),Ind,Red Strader,W,7,6
+1940-11-23,Duquesne,Ind,Aldo Donelli,A,Villanova,Ind,Maurice Smith,W,14,10
+1940-11-30,Duquesne,Ind,Aldo Donelli,A,Carnegie Mellon,Ind,Edward Baker,W,14,7
+1940-10-05,Yale,Ind,Ducky Pond,H,Virginia,Ind,Frank Murray,L,14,19
+1940-10-12,Yale,Ind,Ducky Pond,A,Pennsylvania,Ind,George Munger,L,7,50
+1940-10-19,Yale,Ind,Ducky Pond,H,Dartmouth,Ind,Red Blaik,W,13,7
+1940-10-26,Yale,Ind,Ducky Pond,H,Navy,Ind,Swede Larson,L,0,21
+1940-11-02,Yale,Ind,Ducky Pond,H,Brown,Ind,DeOrmond McLaughry,L,2,6
+1940-11-09,Yale,Ind,Ducky Pond,H,Cornell,Ind,Carl Snavely,L,0,21
+1940-11-16,Yale,Ind,Ducky Pond,A,Princeton,Ind,Tad Wieman,L,7,10
+1940-11-23,Yale,Ind,Ducky Pond,H,Harvard,Ind,Dick Harlow,L,0,28
+1940-10-12,Georgia Tech,SEC,William Alexander,A,Notre Dame,Ind,Elmer Layden,L,20,26
+1940-10-19,Georgia Tech,SEC,William Alexander,H,Vanderbilt,SEC,Red Sanders,W,19,0
+1940-10-26,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,L,7,16
+1940-11-02,Georgia Tech,SEC,William Alexander,A,Duke,Southern,Wallace Wade,L,7,41
+1940-11-09,Georgia Tech,SEC,William Alexander,A,Kentucky,SEC,A.D. Kirwan,L,7,26
+1940-11-16,Georgia Tech,SEC,William Alexander,H,Alabama,SEC,Frank Thomas,L,13,14
+1940-11-23,Georgia Tech,SEC,William Alexander,H,Florida,SEC,Tom Lieb,L,7,16
+1940-11-30,Georgia Tech,SEC,William Alexander,A,Georgia,SEC,Wallace Butts,L,19,21
+1940-12-28,Georgia Tech,SEC,William Alexander,H,California,PCC,Stub Allison,W,13,0
+1940-09-28,Wake Forest,Southern,D.C. Walker,A,North Carolina,Southern,Raymond Wolf,W,12,0
+1940-10-05,Wake Forest,Southern,D.C. Walker,H,Furman,Southern,,W,19,0
+1940-10-12,Wake Forest,Southern,D.C. Walker,A,Clemson,Southern,Frank Howard,L,0,39
+1940-10-26,Wake Forest,Southern,D.C. Walker,H,Duke,Southern,Wallace Wade,L,0,23
+1940-11-01,Wake Forest,Southern,D.C. Walker,A,George Washington,Ind,Bill Reinhard,W,18,0
+1940-11-09,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,Doc Newton,W,20,14
+1940-11-16,Wake Forest,Southern,D.C. Walker,A,Texas Tech,BIAA,Pete Cawthon,L,7,12
+1940-11-28,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,Rex Enright,W,7,6
+1940-09-28,Mississippi State,SEC,Allyn McKeen,A,Florida,SEC,Tom Lieb,W,27,7
+1940-10-12,Mississippi State,SEC,Allyn McKeen,A,Auburn,SEC,Jack Meagher,T,7,7
+1940-10-26,Mississippi State,SEC,Allyn McKeen,A,North Carolina State,Southern,Doc Newton,W,26,10
+1940-11-09,Mississippi State,SEC,Allyn McKeen,A,LSU,SEC,Bernie Moore,W,22,7
+1940-11-23,Mississippi State,SEC,Allyn McKeen,H,Ole Miss,SEC,Harry Mehre,W,19,0
+1940-11-30,Mississippi State,SEC,Allyn McKeen,A,Alabama,SEC,Frank Thomas,W,13,0
+1941-01-01,Mississippi State,SEC,Allyn McKeen,N,Georgetown,Ind,Jack Hagerty,W,14,7
+1940-09-28,Virginia Military Institute,Southern,Allison Hubert,A,Duke,Southern,Wallace Wade,L,0,23
+1940-10-12,Virginia Military Institute,Southern,Allison Hubert,A,Davidson,Southern,Gene McEver,W,13,7
+1940-10-19,Virginia Military Institute,Southern,Allison Hubert,A,Virginia,Ind,Frank Murray,W,7,0
+1940-10-26,Virginia Military Institute,Southern,Allison Hubert,A,Richmond,Southern,Glenn Thistlethwaite,L,7,9
+1940-11-02,Virginia Military Institute,Southern,Allison Hubert,H,William & Mary,Southern,Carl Voyles,T,0,0
+1940-11-09,Virginia Military Institute,Southern,Allison Hubert,H,Washington (MO),MVC,Frank Loebs,W,20,13
+1940-11-16,Virginia Military Institute,Southern,Allison Hubert,H,Maryland,Southern,Jack Faber,W,20,0
+1940-11-21,Virginia Military Institute,Southern,Allison Hubert,N,Virginia Tech,Southern,Henry Redd,W,14,0
+1940-09-21,Hampden-Sydney,Ind,,A,Washington & Lee,Southern,Tex Tilson,L,0,26
+1940-09-28,Hampden-Sydney,Ind,,A,Maryland,Southern,Jack Faber,W,7,6
+1940-10-19,Hampden-Sydney,Ind,,A,William & Mary,Southern,Carl Voyles,L,0,41
+1940-11-02,Hampden-Sydney,Ind,,A,Richmond,Southern,Glenn Thistlethwaite,L,13,39
+1940-11-16,Hampden-Sydney,Ind,,A,Davidson,Southern,Gene McEver,L,0,26
+1940-10-05,Kansas State,Big 6,Hobbs Adams,A,Colorado,MSAC,Frank Potts,L,6,7
+1940-10-12,Kansas State,Big 6,Hobbs Adams,H,Missouri,Big 6,Don Faurot,L,13,24
+1940-10-19,Kansas State,Big 6,Hobbs Adams,A,Oklahoma,Big 6,Tom Stidham,L,0,14
+1940-10-26,Kansas State,Big 6,Hobbs Adams,H,Kansas,Big 6,Gwinn Henry,W,20,0
+1940-11-02,Kansas State,Big 6,Hobbs Adams,A,Michigan State,Ind,Charlie Bachman,L,0,32
+1940-11-09,Kansas State,Big 6,Hobbs Adams,A,South Carolina,Southern,Rex Enright,L,13,20
+1940-11-16,Kansas State,Big 6,Hobbs Adams,H,Iowa State,Big 6,Jim Yeager,L,0,12
+1940-11-30,Kansas State,Big 6,Hobbs Adams,A,Nebraska,Big 6,Biff Jones,L,0,20
+1940-09-28,Saint Louis,MVC,,A,Missouri,Big 6,Don Faurot,L,26,40
+1940-10-12,Saint Louis,MVC,,A,Centenary (LA),Ind,Jake Hanna,L,6,19
+1940-10-18,Saint Louis,MVC,,H,Tulsa,MVC,Chet Benefiel,L,6,19
+1940-10-26,Saint Louis,MVC,,A,Drake,MVC,Vee Green,W,21,0
+1940-11-08,Saint Louis,MVC,,H,Creighton,MVC,Skip Palrang,L,0,14
+1940-11-16,Saint Louis,MVC,,A,Oklahoma State,MVC,Jim Lookabaugh,L,7,14
+1940-11-21,Saint Louis,MVC,,H,Texas Tech,BIAA,Pete Cawthon,L,6,7
+1940-11-30,Saint Louis,MVC,,A,Washington (MO),MVC,Frank Loebs,W,3,0
+1940-10-12,Army,Ind,William Wood,H,Cornell,Ind,Carl Snavely,L,0,45
+1940-10-19,Army,Ind,William Wood,A,Harvard,Ind,Dick Harlow,T,6,6
+1940-11-02,Army,Ind,William Wood,H,Notre Dame,Ind,Elmer Layden,L,0,7
+1940-11-09,Army,Ind,William Wood,H,Brown,Ind,DeOrmond McLaughry,L,9,13
+1940-11-16,Army,Ind,William Wood,A,Pennsylvania,Ind,George Munger,L,0,48
+1940-11-23,Army,Ind,William Wood,A,Princeton,Ind,Tad Wieman,L,19,26
+1940-11-30,Army,Ind,William Wood,N,Navy,Ind,Swede Larson,L,0,14
+1940-10-05,Marquette,Ind,Paddy Driscoll,A,Wisconsin,Western,Harry Stuhldreher,L,19,33
+1940-10-11,Marquette,Ind,Paddy Driscoll,H,Iowa State,Big 6,Jim Yeager,W,41,25
+1940-10-19,Marquette,Ind,Paddy Driscoll,A,Creighton,MVC,Skip Palrang,T,27,27
+1940-10-26,Marquette,Ind,Paddy Driscoll,H,Texas Tech,BIAA,Pete Cawthon,L,13,20
+1940-11-02,Marquette,Ind,Paddy Driscoll,A,Duquesne,Ind,Aldo Donelli,L,0,14
+1940-11-09,Marquette,Ind,Paddy Driscoll,A,Manhattan,Ind,Herb Kopf,L,41,45
+1940-11-16,Marquette,Ind,Paddy Driscoll,H,Michigan State,Ind,Charlie Bachman,W,7,6
+1940-11-23,Marquette,Ind,Paddy Driscoll,A,Detroit Mercy,Ind,Gus Dorais,L,0,19
+1940-11-30,Marquette,Ind,Paddy Driscoll,A,Arizona,BIAA,Miles Casteel,L,14,17
+1940-10-12,Dartmouth,Ind,Red Blaik,H,Columbia,Ind,Lou Little,L,6,20
+1940-10-19,Dartmouth,Ind,Red Blaik,A,Yale,Ind,Ducky Pond,L,7,13
+1940-10-26,Dartmouth,Ind,Red Blaik,A,Harvard,Ind,Dick Harlow,W,7,6
+1940-11-02,Dartmouth,Ind,Red Blaik,H,Sewanee,Ind,Jenks Gillem,W,26,0
+1940-11-09,Dartmouth,Ind,Red Blaik,A,Princeton,Ind,Tad Wieman,L,9,14
+1940-11-16,Dartmouth,Ind,Red Blaik,H,Cornell,Ind,Carl Snavely,W,3,0
+1940-11-23,Dartmouth,Ind,Red Blaik,A,Brown,Ind,DeOrmond McLaughry,W,20,6
+1940-09-29,UCLA,PCC,Babe Horrell,H,SMU,SWC,Madison Bell,L,6,9
+1940-10-04,UCLA,PCC,Babe Horrell,H,Santa Clara,Ind,Buck Shaw,L,6,9
+1940-10-12,UCLA,PCC,Babe Horrell,H,Texas A&M,SWC,Homer Norton,L,0,7
+1940-10-19,UCLA,PCC,Babe Horrell,A,California,PCC,Stub Allison,L,7,9
+1940-10-26,UCLA,PCC,Babe Horrell,H,Oregon State,PCC,Lon Stiner,L,0,7
+1940-11-02,UCLA,PCC,Babe Horrell,H,Stanford,PCC,Clark Shaughnessy,L,14,20
+1940-11-09,UCLA,PCC,Babe Horrell,A,Oregon,PCC,Tex Oliver,L,0,18
+1940-11-16,UCLA,PCC,Babe Horrell,H,Washington State,PCC,O.E. Hollingbery,W,34,26
+1940-11-23,UCLA,PCC,Babe Horrell,H,Washington,PCC,James Phelan,L,0,41
+1940-11-30,UCLA,PCC,Babe Horrell,A,USC,PCC,Howard Jones,L,12,28
+1940-10-05,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Red Dawson,W,20,14
+1940-10-12,Auburn,SEC,Jack Meagher,H,Mississippi State,SEC,Allyn McKeen,T,7,7
+1940-10-19,Auburn,SEC,Jack Meagher,A,SMU,SWC,Madison Bell,L,13,20
+1940-10-26,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,W,16,7
+1940-11-02,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Wallace Butts,L,13,14
+1940-11-09,Auburn,SEC,Jack Meagher,H,Clemson,Southern,Frank Howard,W,21,7
+1940-11-16,Auburn,SEC,Jack Meagher,H,LSU,SEC,Bernie Moore,L,13,21
+1940-11-23,Auburn,SEC,Jack Meagher,A,Boston College,Ind,Frank Leahy,L,7,33
+1940-11-30,Auburn,SEC,Jack Meagher,N,Florida,SEC,Tom Lieb,W,20,7
+1940-12-07,Auburn,SEC,Jack Meagher,H,Villanova,Ind,Maurice Smith,W,13,10
+1940-10-05,Northwestern,Western,Pappy Waldorf,A,Syracuse,Ind,Ossie Solem,W,40,0
+1940-10-12,Northwestern,Western,Pappy Waldorf,H,Ohio State,Western,Francis Schmidt,W,6,3
+1940-10-19,Northwestern,Western,Pappy Waldorf,A,Wisconsin,Western,Harry Stuhldreher,W,27,7
+1940-10-26,Northwestern,Western,Pappy Waldorf,H,Indiana,Western,Bo McMillin,W,20,7
+1940-11-02,Northwestern,Western,Pappy Waldorf,H,Minnesota,Western,Bernie Bierman,L,12,13
+1940-11-09,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Robert Zuppke,W,32,14
+1940-11-16,Northwestern,Western,Pappy Waldorf,A,Michigan,Western,Fritz Crisler,L,13,20
+1940-11-23,Northwestern,Western,Pappy Waldorf,H,Notre Dame,Ind,Elmer Layden,W,20,0
+1940-10-05,Kansas,Big 6,Gwinn Henry,A,Iowa State,Big 6,Jim Yeager,L,0,7
+1940-10-12,Kansas,Big 6,Gwinn Henry,H,Drake,MVC,Vee Green,W,20,6
+1940-10-19,Kansas,Big 6,Gwinn Henry,H,Nebraska,Big 6,Biff Jones,L,2,53
+1940-10-26,Kansas,Big 6,Gwinn Henry,A,Kansas State,Big 6,Hobbs Adams,L,0,20
+1940-11-01,Kansas,Big 6,Gwinn Henry,A,Villanova,Ind,Maurice Smith,L,7,33
+1940-11-09,Kansas,Big 6,Gwinn Henry,H,Oklahoma,Big 6,Tom Stidham,L,0,13
+1940-11-16,Kansas,Big 6,Gwinn Henry,A,George Washington,Ind,Bill Reinhard,L,0,6
+1940-11-21,Kansas,Big 6,Gwinn Henry,A,Missouri,Big 6,Don Faurot,L,20,45
+1940-11-28,Kansas,Big 6,Gwinn Henry,H,Colorado State,MSAC,Harry Hughes,W,26,0
+1940-09-21,William & Mary,Southern,Carl Voyles,A,North Carolina State,Southern,Doc Newton,L,0,16
+1940-09-28,William & Mary,Southern,Carl Voyles,A,Navy,Ind,Swede Larson,L,7,19
+1940-10-12,William & Mary,Southern,Carl Voyles,N,Virginia Tech,Southern,Henry Redd,W,20,13
+1940-10-19,William & Mary,Southern,Carl Voyles,H,Hampden-Sydney,Ind,,W,41,0
+1940-10-26,William & Mary,Southern,Carl Voyles,H,Virginia,Ind,Frank Murray,W,13,6
+1940-11-02,William & Mary,Southern,Carl Voyles,A,Virginia Military Institute,Southern,Allison Hubert,T,0,0
+1940-11-21,William & Mary,Southern,Carl Voyles,A,Richmond,Southern,Glenn Thistlethwaite,W,16,0
+1940-09-21,UTEP,BIAA,Mack Saxon,A,Northern Arizona,BIAA,Maurice Moulder,W,28,7
+1940-10-12,UTEP,BIAA,Mack Saxon,A,Hardin-Simmons,Ind,Frank Kimbrough,L,6,20
+1940-10-19,UTEP,BIAA,Mack Saxon,H,New Mexico,BIAA,Ted Shipkey,W,9,7
+1940-10-26,UTEP,BIAA,Mack Saxon,H,Arizona State,BIAA,Dixie Howell,T,0,0
+1940-11-02,UTEP,BIAA,Mack Saxon,H,Arizona,BIAA,Miles Casteel,L,13,20
+1940-11-28,UTEP,BIAA,Mack Saxon,H,New Mexico State,BIAA,Julius Johnston,W,40,26
+1940-09-28,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Harry Mehre,L,6,19
+1940-10-05,LSU,SEC,Bernie Moore,H,Holy Cross,Ind,Joseph Sheeketski,W,25,0
+1940-10-12,LSU,SEC,Bernie Moore,A,Rice,SWC,Jess Neely,L,0,23
+1940-10-26,LSU,SEC,Bernie Moore,H,Vanderbilt,SEC,Red Sanders,W,7,0
+1940-11-02,LSU,SEC,Bernie Moore,A,Tennessee,SEC,Bob Neyland,L,0,28
+1940-11-09,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,L,7,22
+1940-11-16,LSU,SEC,Bernie Moore,A,Auburn,SEC,Jack Meagher,W,21,13
+1940-11-30,LSU,SEC,Bernie Moore,H,Tulane,SEC,Red Dawson,W,14,0
+1940-10-05,Pennsylvania,Ind,George Munger,H,Maryland,Southern,Jack Faber,W,51,0
+1940-10-12,Pennsylvania,Ind,George Munger,H,Yale,Ind,Ducky Pond,W,50,7
+1940-10-19,Pennsylvania,Ind,George Munger,H,Princeton,Ind,Tad Wieman,W,46,28
+1940-10-26,Pennsylvania,Ind,George Munger,A,Michigan,Western,Fritz Crisler,L,0,14
+1940-11-02,Pennsylvania,Ind,George Munger,H,Navy,Ind,Swede Larson,W,20,0
+1940-11-09,Pennsylvania,Ind,George Munger,H,Harvard,Ind,Dick Harlow,T,10,10
+1940-11-16,Pennsylvania,Ind,George Munger,H,Army,Ind,William Wood,W,48,0
+1940-11-23,Pennsylvania,Ind,George Munger,H,Cornell,Ind,Carl Snavely,W,22,20
+1940-09-28,Tulsa,MVC,Chet Benefiel,H,Washburn,MVC,Elmer Holm,W,37,6
+1940-10-05,Tulsa,MVC,Chet Benefiel,A,Texas A&M,SWC,Homer Norton,L,6,41
+1940-10-12,Tulsa,MVC,Chet Benefiel,H,Creighton,MVC,Skip Palrang,W,32,0
+1940-10-18,Tulsa,MVC,Chet Benefiel,A,Saint Louis,MVC,,W,19,6
+1940-10-26,Tulsa,MVC,Chet Benefiel,H,Texas Christian,SWC,Dutch Meyer,W,7,0
+1940-11-02,Tulsa,MVC,Chet Benefiel,A,Detroit Mercy,Ind,Gus Dorais,W,7,0
+1940-11-16,Tulsa,MVC,Chet Benefiel,A,Baylor,SWC,Morley Jennings,L,6,20
+1940-11-23,Tulsa,MVC,Chet Benefiel,H,Oklahoma State,MVC,Jim Lookabaugh,W,19,6
+1940-11-28,Tulsa,MVC,Chet Benefiel,H,Arkansas,SWC,Fred Thomsen,L,21,27
+1940-10-12,Iowa,Western,Edward Anderson,H,Wisconsin,Western,Harry Stuhldreher,W,30,12
+1940-10-19,Iowa,Western,Edward Anderson,A,Indiana,Western,Bo McMillin,L,6,10
+1940-10-26,Iowa,Western,Edward Anderson,A,Minnesota,Western,Bernie Bierman,L,6,34
+1940-11-02,Iowa,Western,Edward Anderson,H,Purdue,Western,Mal Elward,L,6,21
+1940-11-09,Iowa,Western,Edward Anderson,A,Nebraska,Big 6,Biff Jones,L,6,14
+1940-11-16,Iowa,Western,Edward Anderson,A,Notre Dame,Ind,Elmer Layden,W,7,0
+1940-11-23,Iowa,Western,Edward Anderson,H,Illinois,Western,Robert Zuppke,W,18,7
+1940-10-12,Columbia,Ind,Lou Little,A,Dartmouth,Ind,Red Blaik,W,20,6
+1940-10-19,Columbia,Ind,Lou Little,H,Georgia,SEC,Wallace Butts,W,19,13
+1940-10-26,Columbia,Ind,Lou Little,H,Syracuse,Ind,Ossie Solem,L,0,3
+1940-11-02,Columbia,Ind,Lou Little,A,Cornell,Ind,Carl Snavely,L,0,27
+1940-11-09,Columbia,Ind,Lou Little,H,Wisconsin,Western,Harry Stuhldreher,W,7,6
+1940-11-16,Columbia,Ind,Lou Little,H,Navy,Ind,Swede Larson,T,0,0
+1940-11-23,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,W,20,17
+1940-11-28,Columbia,Ind,Lou Little,A,Brown,Ind,DeOrmond McLaughry,T,0,0
+1940-09-28,Texas,SWC,Dana Bible,H,Colorado,MSAC,Frank Potts,W,39,7
+1940-10-05,Texas,SWC,Dana Bible,A,Indiana,Western,Bo McMillin,W,13,6
+1940-10-12,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Tom Stidham,W,19,16
+1940-10-19,Texas,SWC,Dana Bible,A,Arkansas,SWC,Fred Thomsen,W,21,0
+1940-10-26,Texas,SWC,Dana Bible,A,Rice,SWC,Jess Neely,L,0,13
+1940-11-02,Texas,SWC,Dana Bible,H,SMU,SWC,Madison Bell,L,13,21
+1940-11-09,Texas,SWC,Dana Bible,H,Baylor,SWC,Morley Jennings,W,13,0
+1940-11-16,Texas,SWC,Dana Bible,A,Texas Christian,SWC,Dutch Meyer,W,21,14
+1940-11-28,Texas,SWC,Dana Bible,H,Texas A&M,SWC,Homer Norton,W,7,0
+1940-12-07,Texas,SWC,Dana Bible,A,Florida,SEC,Tom Lieb,W,26,0
+1940-09-28,Texas Christian,SWC,Dutch Meyer,H,Centenary (LA),Ind,Jake Hanna,W,41,6
+1940-10-05,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,Fred Thomsen,W,20,0
+1940-10-12,Texas Christian,SWC,Dutch Meyer,A,North Carolina,Southern,Raymond Wolf,L,14,21
+1940-10-19,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,L,7,21
+1940-10-26,Texas Christian,SWC,Dutch Meyer,A,Tulsa,MVC,Chet Benefiel,L,0,7
+1940-11-02,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,Morley Jennings,W,14,12
+1940-11-09,Texas Christian,SWC,Dutch Meyer,A,Detroit Mercy,Ind,Gus Dorais,L,0,3
+1940-11-16,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Dana Bible,L,14,21
+1940-11-23,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jess Neely,L,6,14
+1940-11-30,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,Madison Bell,L,0,16
+1940-10-12,New York University,Ind,Mal Stevens,H,Syracuse,Ind,Ossie Solem,L,13,47
+1940-10-19,New York University,Ind,Mal Stevens,H,Holy Cross,Ind,Joseph Sheeketski,L,7,13
+1940-10-26,New York University,Ind,Mal Stevens,H,Georgetown,Ind,Jack Hagerty,L,0,26
+1940-11-02,New York University,Ind,Mal Stevens,A,Missouri,Big 6,Don Faurot,L,0,33
+1940-11-16,New York University,Ind,Mal Stevens,A,Penn State,Ind,Bob Higgins,L,0,25
+1940-11-30,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,L,0,26
+1940-11-01,Miami (FL),Ind,Jack Harding,A,Texas Tech,BIAA,Pete Cawthon,L,14,61
+1940-11-16,Miami (FL),Ind,Jack Harding,H,Florida,SEC,Tom Lieb,L,6,46
+1940-11-22,Miami (FL),Ind,Jack Harding,A,South Carolina,Southern,Rex Enright,L,2,7
+1940-11-29,Miami (FL),Ind,Jack Harding,H,Ole Miss,SEC,Harry Mehre,L,7,21
+1940-12-06,Miami (FL),Ind,Jack Harding,H,Georgia,SEC,Wallace Butts,L,7,28
+1940-10-05,Richmond,Southern,Glenn Thistlethwaite,A,Virginia Tech,Southern,Henry Redd,W,13,7
+1940-10-19,Richmond,Southern,Glenn Thistlethwaite,H,Washington & Lee,Southern,Tex Tilson,L,0,3
+1940-10-26,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Military Institute,Southern,Allison Hubert,W,9,7
+1940-11-02,Richmond,Southern,Glenn Thistlethwaite,H,Hampden-Sydney,Ind,,W,39,13
+1940-11-09,Richmond,Southern,Glenn Thistlethwaite,H,North Carolina,Southern,Raymond Wolf,W,14,13
+1940-11-21,Richmond,Southern,Glenn Thistlethwaite,H,William & Mary,Southern,Carl Voyles,L,0,16
+1940-10-05,Oregon,PCC,Tex Oliver,A,Stanford,PCC,Clark Shaughnessy,L,0,13
+1940-10-12,Oregon,PCC,Tex Oliver,H,Washington,PCC,James Phelan,L,0,10
+1940-10-19,Oregon,PCC,Tex Oliver,A,USC,PCC,Howard Jones,L,0,13
+1940-10-26,Oregon,PCC,Tex Oliver,A,Washington State,PCC,O.E. Hollingbery,T,6,6
+1940-11-02,Oregon,PCC,Tex Oliver,H,Montana,PCC,Doug Fessenden,W,38,0
+1940-11-09,Oregon,PCC,Tex Oliver,H,UCLA,PCC,Babe Horrell,W,18,0
+1940-11-16,Oregon,PCC,Tex Oliver,A,California,PCC,Stub Allison,L,6,14
+1940-11-30,Oregon,PCC,Tex Oliver,A,Oregon State,PCC,Lon Stiner,W,20,0
+1940-10-12,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,3,20
+1940-10-26,Brown,Ind,DeOrmond McLaughry,H,Holy Cross,Ind,Joseph Sheeketski,W,9,6
+1940-11-02,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Ducky Pond,W,6,2
+1940-11-09,Brown,Ind,DeOrmond McLaughry,A,Army,Ind,William Wood,W,13,9
+1940-11-16,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,Dick Harlow,L,0,14
+1940-11-23,Brown,Ind,DeOrmond McLaughry,H,Dartmouth,Ind,Red Blaik,L,6,20
+1940-11-28,Brown,Ind,DeOrmond McLaughry,H,Columbia,Ind,Lou Little,T,0,0
+1940-10-05,Tennessee,SEC,Bob Neyland,H,Duke,Southern,Wallace Wade,W,13,0
+1940-10-19,Tennessee,SEC,Bob Neyland,A,Alabama,SEC,Frank Thomas,W,27,12
+1940-10-26,Tennessee,SEC,Bob Neyland,H,Florida,SEC,Tom Lieb,W,14,0
+1940-11-02,Tennessee,SEC,Bob Neyland,H,LSU,SEC,Bernie Moore,W,28,0
+1940-11-16,Tennessee,SEC,Bob Neyland,H,Virginia,Ind,Frank Murray,W,41,14
+1940-11-23,Tennessee,SEC,Bob Neyland,H,Kentucky,SEC,A.D. Kirwan,W,33,0
+1940-11-30,Tennessee,SEC,Bob Neyland,A,Vanderbilt,SEC,Red Sanders,W,20,0
+1941-01-01,Tennessee,SEC,Bob Neyland,N,Boston College,Ind,Frank Leahy,L,13,19
+1940-09-28,Oregon State,PCC,Lon Stiner,H,Idaho,PCC,Ted Bank,W,41,0
+1940-10-05,Oregon State,PCC,Lon Stiner,A,USC,PCC,Howard Jones,T,0,0
+1940-10-19,Oregon State,PCC,Lon Stiner,A,Washington,PCC,James Phelan,L,0,19
+1940-10-26,Oregon State,PCC,Lon Stiner,A,UCLA,PCC,Babe Horrell,W,7,0
+1940-11-02,Oregon State,PCC,Lon Stiner,A,California,PCC,Stub Allison,W,19,13
+1940-11-09,Oregon State,PCC,Lon Stiner,H,Washington State,PCC,O.E. Hollingbery,W,21,0
+1940-11-16,Oregon State,PCC,Lon Stiner,A,Stanford,PCC,Clark Shaughnessy,L,14,28
+1940-11-30,Oregon State,PCC,Lon Stiner,H,Oregon,PCC,Tex Oliver,L,0,20
+1940-10-19,Alabama,SEC,Frank Thomas,H,Tennessee,SEC,Bob Neyland,L,12,27
+1940-11-02,Alabama,SEC,Frank Thomas,A,Kentucky,SEC,A.D. Kirwan,W,25,0
+1940-11-09,Alabama,SEC,Frank Thomas,H,Tulane,SEC,Red Dawson,W,13,6
+1940-11-16,Alabama,SEC,Frank Thomas,A,Georgia Tech,SEC,William Alexander,W,14,13
+1940-11-23,Alabama,SEC,Frank Thomas,H,Vanderbilt,SEC,Red Sanders,W,25,21
+1940-11-30,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Allyn McKeen,L,0,13
+1940-10-05,Purdue,Western,Mal Elward,A,Ohio State,Western,Francis Schmidt,L,14,17
+1940-10-12,Purdue,Western,Mal Elward,A,Michigan State,Ind,Charlie Bachman,L,7,20
+1940-10-26,Purdue,Western,Mal Elward,H,Wisconsin,Western,Harry Stuhldreher,L,13,14
+1940-11-02,Purdue,Western,Mal Elward,A,Iowa,Western,Edward Anderson,W,21,6
+1940-11-09,Purdue,Western,Mal Elward,A,Fordham,Ind,Jimmy Crowley,L,7,13
+1940-11-16,Purdue,Western,Mal Elward,A,Minnesota,Western,Bernie Bierman,L,6,33
+1940-11-23,Purdue,Western,Mal Elward,H,Indiana,Western,Bo McMillin,L,0,3
+1940-10-05,Nebraska,Big 6,Biff Jones,A,Minnesota,Western,Bernie Bierman,L,7,13
+1940-10-12,Nebraska,Big 6,Biff Jones,H,Indiana,Western,Bo McMillin,W,13,7
+1940-10-19,Nebraska,Big 6,Biff Jones,A,Kansas,Big 6,Gwinn Henry,W,53,2
+1940-10-26,Nebraska,Big 6,Biff Jones,H,Missouri,Big 6,Don Faurot,W,20,7
+1940-11-02,Nebraska,Big 6,Biff Jones,A,Oklahoma,Big 6,Tom Stidham,W,13,0
+1940-11-09,Nebraska,Big 6,Biff Jones,H,Iowa,Western,Edward Anderson,W,14,6
+1940-11-16,Nebraska,Big 6,Biff Jones,A,Pitt,Ind,Charles Bowser,W,9,7
+1940-11-23,Nebraska,Big 6,Biff Jones,H,Iowa State,Big 6,Jim Yeager,W,21,12
+1940-11-30,Nebraska,Big 6,Biff Jones,H,Kansas State,Big 6,Hobbs Adams,W,20,0
+1941-01-01,Nebraska,Big 6,Biff Jones,N,Stanford,PCC,Clark Shaughnessy,L,13,21
+1940-10-05,West Virginia,Ind,Bill Kern,A,Fordham,Ind,Jimmy Crowley,L,7,20
+1940-10-12,West Virginia,Ind,Bill Kern,A,Penn State,Ind,Bob Higgins,L,13,17
+1940-10-25,West Virginia,Ind,Bill Kern,A,George Washington,Ind,Bill Reinhard,L,0,19
+1940-11-02,West Virginia,Ind,Bill Kern,N,Washington & Lee,Southern,Tex Tilson,W,12,7
+1940-11-17,West Virginia,Ind,Bill Kern,H,Kentucky,SEC,A.D. Kirwan,W,9,7
+1940-11-23,West Virginia,Ind,Bill Kern,A,Michigan State,Ind,Charlie Bachman,L,0,17
+1940-10-12,Harvard,Ind,Dick Harlow,H,Michigan,Western,Fritz Crisler,L,0,26
+1940-10-19,Harvard,Ind,Dick Harlow,H,Army,Ind,William Wood,T,6,6
+1940-10-26,Harvard,Ind,Dick Harlow,H,Dartmouth,Ind,Red Blaik,L,6,7
+1940-11-02,Harvard,Ind,Dick Harlow,H,Princeton,Ind,Tad Wieman,T,0,0
+1940-11-09,Harvard,Ind,Dick Harlow,A,Pennsylvania,Ind,George Munger,T,10,10
+1940-11-16,Harvard,Ind,Dick Harlow,H,Brown,Ind,DeOrmond McLaughry,W,14,0
+1940-11-23,Harvard,Ind,Dick Harlow,A,Yale,Ind,Ducky Pond,W,28,0
+1940-09-27,Oklahoma State,MVC,Jim Lookabaugh,A,Texas Tech,BIAA,Pete Cawthon,T,6,6
+1940-10-05,Oklahoma State,MVC,Jim Lookabaugh,A,Oklahoma,Big 6,Tom Stidham,L,27,29
+1940-10-19,Oklahoma State,MVC,Jim Lookabaugh,H,Washington (MO),MVC,Frank Loebs,W,53,12
+1940-10-26,Oklahoma State,MVC,Jim Lookabaugh,A,Arizona,BIAA,Miles Casteel,L,0,24
+1940-11-02,Oklahoma State,MVC,Jim Lookabaugh,A,Creighton,MVC,Skip Palrang,W,20,14
+1940-11-09,Oklahoma State,MVC,Jim Lookabaugh,H,Washburn,MVC,Elmer Holm,W,33,14
+1940-11-16,Oklahoma State,MVC,Jim Lookabaugh,H,Saint Louis,MVC,,W,14,7
+1940-11-23,Oklahoma State,MVC,Jim Lookabaugh,A,Tulsa,MVC,Chet Benefiel,L,6,19
+1940-09-28,Colorado,MSAC,Frank Potts,A,Texas,SWC,Dana Bible,L,7,39
+1940-10-05,Colorado,MSAC,Frank Potts,H,Kansas State,Big 6,Hobbs Adams,W,7,6
+1940-10-12,Colorado,MSAC,Frank Potts,A,Utah State,MSAC,E. Lowell Romney,W,26,0
+1940-10-19,Colorado,MSAC,Frank Potts,A,Colorado State,MSAC,Harry Hughes,W,33,14
+1940-10-26,Colorado,MSAC,Frank Potts,H,Wyoming,MSAC,Okie Blanchard,W,62,0
+1940-11-02,Colorado,MSAC,Frank Potts,H,Utah,MSAC,Ike Armstrong,L,13,21
+1940-11-09,Colorado,MSAC,Frank Potts,H,Missouri,Big 6,Don Faurot,L,6,21
+1940-11-16,Colorado,MSAC,Frank Potts,H,Brigham Young,MSAC,Edwin Kimball,W,25,2
+1940-11-21,Colorado,MSAC,Frank Potts,A,Denver,MSAC,Cac Hubbard,T,3,3
+1940-10-05,Colorado State,MSAC,Harry Hughes,A,Wyoming,MSAC,Okie Blanchard,T,0,0
+1940-10-12,Colorado State,MSAC,Harry Hughes,A,Denver,MSAC,Cac Hubbard,L,13,14
+1940-10-19,Colorado State,MSAC,Harry Hughes,H,Colorado,MSAC,Frank Potts,L,14,33
+1940-10-26,Colorado State,MSAC,Harry Hughes,H,New Mexico,BIAA,Ted Shipkey,W,7,6
+1940-11-09,Colorado State,MSAC,Harry Hughes,H,Utah State,MSAC,E. Lowell Romney,W,13,12
+1940-11-16,Colorado State,MSAC,Harry Hughes,A,Utah,MSAC,Ike Armstrong,L,0,27
+1940-11-23,Colorado State,MSAC,Harry Hughes,H,Brigham Young,MSAC,Edwin Kimball,T,13,13
+1940-11-28,Colorado State,MSAC,Harry Hughes,A,Kansas,Big 6,Gwinn Henry,L,0,26
+1940-10-05,Rice,SWC,Jess Neely,H,Centenary (LA),Ind,Jake Hanna,W,25,0
+1940-10-12,Rice,SWC,Jess Neely,H,LSU,SEC,Bernie Moore,W,23,0
+1940-10-19,Rice,SWC,Jess Neely,A,Tulane,SEC,Red Dawson,L,6,15
+1940-10-26,Rice,SWC,Jess Neely,H,Texas,SWC,Dana Bible,W,13,0
+1940-11-09,Rice,SWC,Jess Neely,A,Arkansas,SWC,Fred Thomsen,W,14,7
+1940-11-16,Rice,SWC,Jess Neely,A,Texas A&M,SWC,Homer Norton,L,0,25
+1940-11-23,Rice,SWC,Jess Neely,H,Texas Christian,SWC,Dutch Meyer,W,14,6
+1940-11-30,Rice,SWC,Jess Neely,H,Baylor,SWC,Morley Jennings,W,21,12
+1940-12-07,Rice,SWC,Jess Neely,H,SMU,SWC,Madison Bell,L,6,7
+1940-10-05,Texas A&M,SWC,Homer Norton,H,Tulsa,MVC,Chet Benefiel,W,41,6
+1940-10-12,Texas A&M,SWC,Homer Norton,A,UCLA,PCC,Babe Horrell,W,7,0
+1940-10-19,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,W,21,7
+1940-10-26,Texas A&M,SWC,Homer Norton,A,Baylor,SWC,Morley Jennings,W,14,7
+1940-11-02,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,Fred Thomsen,W,17,0
+1940-11-09,Texas A&M,SWC,Homer Norton,A,SMU,SWC,Madison Bell,W,19,7
+1940-11-16,Texas A&M,SWC,Homer Norton,H,Rice,SWC,Jess Neely,W,25,0
+1940-11-28,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Dana Bible,L,0,7
+1941-01-01,Texas A&M,SWC,Homer Norton,N,Fordham,Ind,Jimmy Crowley,W,13,12
+1940-09-28,Davidson,Southern,Gene McEver,H,North Carolina State,Southern,Doc Newton,L,0,34
+1940-10-05,Davidson,Southern,Gene McEver,N,North Carolina,Southern,Raymond Wolf,L,7,27
+1940-10-12,Davidson,Southern,Gene McEver,H,Virginia Military Institute,Southern,Allison Hubert,L,7,13
+1940-10-19,Davidson,Southern,Gene McEver,H,Sewanee,Ind,Jenks Gillem,W,27,20
+1940-10-26,Davidson,Southern,Gene McEver,A,Furman,Southern,,L,7,40
+1940-11-09,Davidson,Southern,Gene McEver,A,Duke,Southern,Wallace Wade,L,13,46
+1940-11-16,Davidson,Southern,Gene McEver,H,Hampden-Sydney,Ind,,W,26,0
+1940-11-30,Davidson,Southern,Gene McEver,A,Citadel,Southern,Bo Rowland,W,20,6
+1940-10-12,Washington (MO),MVC,Frank Loebs,H,Washburn,MVC,Elmer Holm,W,28,0
+1940-10-19,Washington (MO),MVC,Frank Loebs,A,Oklahoma State,MVC,Jim Lookabaugh,L,12,53
+1940-11-02,Washington (MO),MVC,Frank Loebs,A,Centenary (LA),Ind,Jake Hanna,L,14,19
+1940-11-09,Washington (MO),MVC,Frank Loebs,A,Virginia Military Institute,Southern,Allison Hubert,L,13,20
+1940-11-16,Washington (MO),MVC,Frank Loebs,H,Drake,MVC,Vee Green,L,14,20
+1940-11-30,Washington (MO),MVC,Frank Loebs,H,Saint Louis,MVC,,L,0,3
+1940-10-05,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Fritz Crisler,L,14,21
+1940-10-12,Michigan State,Ind,Charlie Bachman,H,Purdue,Western,Mal Elward,W,20,7
+1940-10-18,Michigan State,Ind,Charlie Bachman,A,Temple,Ind,Ray Morrison,L,19,21
+1940-10-25,Michigan State,Ind,Charlie Bachman,H,Santa Clara,Ind,Buck Shaw,T,0,0
+1940-11-02,Michigan State,Ind,Charlie Bachman,H,Kansas State,Big 6,Hobbs Adams,W,32,0
+1940-11-09,Michigan State,Ind,Charlie Bachman,A,Indiana,Western,Bo McMillin,L,0,20
+1940-11-16,Michigan State,Ind,Charlie Bachman,A,Marquette,Ind,Paddy Driscoll,L,6,7
+1940-11-23,Michigan State,Ind,Charlie Bachman,H,West Virginia,Ind,Bill Kern,W,17,0
+1940-09-28,Boston College,Ind,Frank Leahy,A,Tulane,SEC,Red Dawson,W,27,7
+1940-10-12,Boston College,Ind,Frank Leahy,H,Temple,Ind,Ray Morrison,W,33,20
+1940-10-19,Boston College,Ind,Frank Leahy,H,Idaho,PCC,Ted Bank,W,60,0
+1940-11-02,Boston College,Ind,Frank Leahy,H,Manhattan,Ind,Herb Kopf,W,25,0
+1940-11-16,Boston College,Ind,Frank Leahy,H,Georgetown,Ind,Jack Hagerty,W,19,18
+1940-11-23,Boston College,Ind,Frank Leahy,H,Auburn,SEC,Jack Meagher,W,33,7
+1940-11-30,Boston College,Ind,Frank Leahy,H,Holy Cross,Ind,Joseph Sheeketski,W,7,0
+1941-01-01,Boston College,Ind,Frank Leahy,N,Tennessee,SEC,Bob Neyland,W,19,13
+1940-10-05,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,Carl Snavely,L,0,34
+1940-10-12,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,20,3
+1940-10-19,Colgate,Ind,Andrew Kerr,H,Duke,Southern,Wallace Wade,L,0,13
+1940-11-02,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,Joseph Sheeketski,W,6,0
+1940-11-16,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,W,7,6
+1940-11-23,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,L,17,20
+1940-10-05,New Mexico State,BIAA,Julius Johnston,A,Arizona,BIAA,Miles Casteel,L,0,41
+1940-10-19,New Mexico State,BIAA,Julius Johnston,A,Arizona State,BIAA,Dixie Howell,L,6,42
+1940-10-25,New Mexico State,BIAA,Julius Johnston,H,Northern Arizona,BIAA,Maurice Moulder,W,13,0
+1940-11-09,New Mexico State,BIAA,Julius Johnston,A,New Mexico,BIAA,Ted Shipkey,L,6,39
+1940-11-28,New Mexico State,BIAA,Julius Johnston,A,UTEP,BIAA,Mack Saxon,L,26,40
+1940-09-28,Washburn,MVC,Elmer Holm,A,Tulsa,MVC,Chet Benefiel,L,6,37
+1940-10-12,Washburn,MVC,Elmer Holm,A,Washington (MO),MVC,Frank Loebs,L,0,28
+1940-11-02,Washburn,MVC,Elmer Holm,H,Drake,MVC,Vee Green,L,6,19
+1940-11-09,Washburn,MVC,Elmer Holm,A,Oklahoma State,MVC,Jim Lookabaugh,L,14,33
+1940-09-28,Minnesota,Western,Bernie Bierman,H,Washington,PCC,James Phelan,W,19,14
+1940-10-05,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Biff Jones,W,13,7
+1940-10-19,Minnesota,Western,Bernie Bierman,A,Ohio State,Western,Francis Schmidt,W,13,7
+1940-10-26,Minnesota,Western,Bernie Bierman,H,Iowa,Western,Edward Anderson,W,34,6
+1940-11-02,Minnesota,Western,Bernie Bierman,A,Northwestern,Western,Pappy Waldorf,W,13,12
+1940-11-09,Minnesota,Western,Bernie Bierman,H,Michigan,Western,Fritz Crisler,W,7,6
+1940-11-16,Minnesota,Western,Bernie Bierman,H,Purdue,Western,Mal Elward,W,33,6
+1940-11-23,Minnesota,Western,Bernie Bierman,A,Wisconsin,Western,Harry Stuhldreher,W,22,13
+1940-09-28,Ole Miss,SEC,Harry Mehre,A,LSU,SEC,Bernie Moore,W,19,6
+1940-10-12,Ole Miss,SEC,Harry Mehre,A,Georgia,SEC,Wallace Butts,W,28,14
+1940-10-19,Ole Miss,SEC,Harry Mehre,H,Duquesne,Ind,Aldo Donelli,W,14,6
+1940-10-26,Ole Miss,SEC,Harry Mehre,N,Arkansas,SWC,Fred Thomsen,L,20,21
+1940-11-02,Ole Miss,SEC,Harry Mehre,A,Vanderbilt,SEC,Red Sanders,W,13,7
+1940-11-09,Ole Miss,SEC,Harry Mehre,A,Holy Cross,Ind,Joseph Sheeketski,W,34,7
+1940-11-23,Ole Miss,SEC,Harry Mehre,A,Mississippi State,SEC,Allyn McKeen,L,0,19
+1940-11-29,Ole Miss,SEC,Harry Mehre,A,Miami (FL),Ind,Jack Harding,W,21,7
+1940-09-28,Duke,Southern,Wallace Wade,H,Virginia Military Institute,Southern,Allison Hubert,W,23,0
+1940-10-05,Duke,Southern,Wallace Wade,A,Tennessee,SEC,Bob Neyland,L,0,13
+1940-10-19,Duke,Southern,Wallace Wade,A,Colgate,Ind,Andrew Kerr,W,13,0
+1940-10-26,Duke,Southern,Wallace Wade,A,Wake Forest,Southern,D.C. Walker,W,23,0
+1940-11-02,Duke,Southern,Wallace Wade,H,Georgia Tech,SEC,William Alexander,W,41,7
+1940-11-09,Duke,Southern,Wallace Wade,H,Davidson,Southern,Gene McEver,W,46,13
+1940-11-16,Duke,Southern,Wallace Wade,A,North Carolina,Southern,Raymond Wolf,L,3,6
+1940-11-23,Duke,Southern,Wallace Wade,H,North Carolina State,Southern,Doc Newton,W,42,6
+1940-11-30,Duke,Southern,Wallace Wade,H,Pitt,Ind,Charles Bowser,W,12,7
+1940-10-19,Sewanee,Ind,Jenks Gillem,A,Davidson,Southern,Gene McEver,L,20,27
+1940-11-02,Sewanee,Ind,Jenks Gillem,A,Dartmouth,Ind,Red Blaik,L,0,26
+1940-11-09,Sewanee,Ind,Jenks Gillem,A,Vanderbilt,SEC,Red Sanders,L,0,20
+1940-11-16,Sewanee,Ind,Jenks Gillem,H,Washington & Lee,Southern,Tex Tilson,W,25,13
+1940-11-23,Sewanee,Ind,Jenks Gillem,A,Citadel,Southern,Bo Rowland,L,7,13
+1940-09-28,San Francisco,Ind,George Malley,H,Stanford,PCC,Clark Shaughnessy,L,0,27
+1940-10-27,San Francisco,Ind,George Malley,H,Creighton,MVC,Skip Palrang,T,0,0
+1940-11-02,San Francisco,Ind,George Malley,H,Hardin-Simmons,Ind,Frank Kimbrough,L,18,28
+1940-11-09,San Francisco,Ind,George Malley,A,Santa Clara,Ind,Buck Shaw,L,0,27
+1940-11-16,San Francisco,Ind,George Malley,A,Saint Mary's (CA),Ind,Red Strader,L,7,13
+1940-12-01,San Francisco,Ind,George Malley,H,Loyola Marymount,Ind,Marty Brill,W,21,0
+1940-12-07,San Francisco,Ind,George Malley,H,Texas Tech,BIAA,Pete Cawthon,L,21,23
+1940-09-28,Navy,Ind,Swede Larson,H,William & Mary,Southern,Carl Voyles,W,19,7
+1940-10-12,Navy,Ind,Swede Larson,A,Princeton,Ind,Tad Wieman,W,12,6
+1940-10-19,Navy,Ind,Swede Larson,H,Drake,MVC,Vee Green,W,19,0
+1940-10-26,Navy,Ind,Swede Larson,A,Yale,Ind,Ducky Pond,W,21,0
+1940-11-02,Navy,Ind,Swede Larson,A,Pennsylvania,Ind,George Munger,L,0,20
+1940-11-09,Navy,Ind,Swede Larson,H,Notre Dame,Ind,Elmer Layden,L,7,13
+1940-11-16,Navy,Ind,Swede Larson,A,Columbia,Ind,Lou Little,T,0,0
+1940-11-30,Navy,Ind,Swede Larson,N,Army,Ind,William Wood,W,14,0
+1940-09-27,Texas Tech,BIAA,Pete Cawthon,H,Oklahoma State,MVC,Jim Lookabaugh,T,6,6
+1940-10-05,Texas Tech,BIAA,Pete Cawthon,H,Loyola Marymount,Ind,Marty Brill,W,19,0
+1940-10-12,Texas Tech,BIAA,Pete Cawthon,A,Montana,PCC,Doug Fessenden,W,32,19
+1940-10-18,Texas Tech,BIAA,Pete Cawthon,H,Brigham Young,MSAC,Edwin Kimball,W,21,20
+1940-10-26,Texas Tech,BIAA,Pete Cawthon,A,Marquette,Ind,Paddy Driscoll,W,20,13
+1940-11-01,Texas Tech,BIAA,Pete Cawthon,H,Miami (FL),Ind,Jack Harding,W,61,14
+1940-11-11,Texas Tech,BIAA,Pete Cawthon,H,Centenary (LA),Ind,Jake Hanna,W,26,6
+1940-11-16,Texas Tech,BIAA,Pete Cawthon,H,Wake Forest,Southern,D.C. Walker,W,12,7
+1940-11-21,Texas Tech,BIAA,Pete Cawthon,A,Saint Louis,MVC,,W,7,6
+1940-11-30,Texas Tech,BIAA,Pete Cawthon,A,New Mexico,BIAA,Ted Shipkey,L,14,19
+1940-12-07,Texas Tech,BIAA,Pete Cawthon,A,San Francisco,Ind,George Malley,W,23,21
+1940-09-28,Tulane,SEC,Red Dawson,H,Boston College,Ind,Frank Leahy,L,7,27
+1940-10-05,Tulane,SEC,Red Dawson,H,Auburn,SEC,Jack Meagher,L,14,20
+1940-10-12,Tulane,SEC,Red Dawson,A,Fordham,Ind,Jimmy Crowley,L,7,20
+1940-10-19,Tulane,SEC,Red Dawson,H,Rice,SWC,Jess Neely,W,15,6
+1940-10-26,Tulane,SEC,Red Dawson,A,North Carolina,Southern,Raymond Wolf,W,14,13
+1940-11-02,Tulane,SEC,Red Dawson,H,Clemson,Southern,Frank Howard,W,13,0
+1940-11-09,Tulane,SEC,Red Dawson,A,Alabama,SEC,Frank Thomas,L,6,13
+1940-11-16,Tulane,SEC,Red Dawson,H,Georgia,SEC,Wallace Butts,W,21,13
+1940-11-30,Tulane,SEC,Red Dawson,A,LSU,SEC,Bernie Moore,L,0,14
+1940-10-05,Cornell,Ind,Carl Snavely,H,Colgate,Ind,Andrew Kerr,W,34,0
+1940-10-12,Cornell,Ind,Carl Snavely,A,Army,Ind,William Wood,W,45,0
+1940-10-19,Cornell,Ind,Carl Snavely,H,Syracuse,Ind,Ossie Solem,W,33,6
+1940-10-26,Cornell,Ind,Carl Snavely,H,Ohio State,Western,Francis Schmidt,W,21,7
+1940-11-02,Cornell,Ind,Carl Snavely,H,Columbia,Ind,Lou Little,W,27,0
+1940-11-09,Cornell,Ind,Carl Snavely,A,Yale,Ind,Ducky Pond,W,21,0
+1940-11-16,Cornell,Ind,Carl Snavely,A,Dartmouth,Ind,Red Blaik,L,0,3
+1940-11-23,Cornell,Ind,Carl Snavely,A,Pennsylvania,Ind,George Munger,L,20,22
+1940-09-28,Ohio State,Western,Francis Schmidt,H,Pitt,Ind,Charles Bowser,W,30,7
+1940-10-05,Ohio State,Western,Francis Schmidt,H,Purdue,Western,Mal Elward,W,17,14
+1940-10-12,Ohio State,Western,Francis Schmidt,A,Northwestern,Western,Pappy Waldorf,L,3,6
+1940-10-19,Ohio State,Western,Francis Schmidt,H,Minnesota,Western,Bernie Bierman,L,7,13
+1940-10-26,Ohio State,Western,Francis Schmidt,A,Cornell,Ind,Carl Snavely,L,7,21
+1940-11-02,Ohio State,Western,Francis Schmidt,H,Indiana,Western,Bo McMillin,W,21,6
+1940-11-16,Ohio State,Western,Francis Schmidt,A,Illinois,Western,Robert Zuppke,W,14,6
+1940-11-23,Ohio State,Western,Francis Schmidt,H,Michigan,Western,Fritz Crisler,L,0,40
+1940-10-12,Drake,MVC,Vee Green,A,Kansas,Big 6,Gwinn Henry,L,6,20
+1940-10-19,Drake,MVC,Vee Green,A,Navy,Ind,Swede Larson,L,0,19
+1940-10-26,Drake,MVC,Vee Green,H,Saint Louis,MVC,,L,0,21
+1940-11-02,Drake,MVC,Vee Green,A,Washburn,MVC,Elmer Holm,W,19,6
+1940-11-09,Drake,MVC,Vee Green,A,Iowa State,Big 6,Jim Yeager,L,6,7
+1940-11-16,Drake,MVC,Vee Green,A,Washington (MO),MVC,Frank Loebs,W,20,14
+1940-11-23,Drake,MVC,Vee Green,H,Creighton,MVC,Skip Palrang,L,0,14

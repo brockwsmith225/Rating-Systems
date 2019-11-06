@@ -1,0 +1,1165 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1989-09-16,North Carolina,ACC,Mack Brown,A,Kentucky,SEC,Jerry Claiborne,L,6,13
+1989-09-23,North Carolina,ACC,Mack Brown,A,North Carolina State,ACC,Dick Sheridan,L,6,40
+1989-09-30,North Carolina,ACC,Mack Brown,H,Navy,Ind,Elliot Uzelac,L,7,12
+1989-10-07,North Carolina,ACC,Mack Brown,H,Wake Forest,ACC,Bill Dooley,L,16,17
+1989-10-14,North Carolina,ACC,Mack Brown,A,Virginia,ACC,George Welsh,L,17,50
+1989-10-21,North Carolina,ACC,Mack Brown,A,Georgia Tech,ACC,Bobby Ross,L,14,17
+1989-10-28,North Carolina,ACC,Mack Brown,A,Maryland,ACC,Joe Krivak,L,0,38
+1989-11-04,North Carolina,ACC,Mack Brown,H,Clemson,ACC,Danny Ford,L,3,35
+1989-11-11,North Carolina,ACC,Mack Brown,H,South Carolina,Ind,Sparky Woods,L,20,27
+1989-11-18,North Carolina,ACC,Mack Brown,H,Duke,ACC,Steve Spurrier,L,0,41
+1989-09-09,Miami (OH),MAC,Tim Rose,A,Purdue,Big Ten,Fred Akers,L,10,27
+1989-09-16,Miami (OH),MAC,Tim Rose,A,Michigan State,Big Ten,George Perles,L,0,49
+1989-09-23,Miami (OH),MAC,Tim Rose,H,Cincinnati,Ind,Tim Murphy,L,14,30
+1989-09-30,Miami (OH),MAC,Tim Rose,H,Central Michigan,MAC,Herb Deromedi,L,7,20
+1989-10-07,Miami (OH),MAC,Tim Rose,A,Ball State,MAC,Paul Schudel,L,9,37
+1989-10-14,Miami (OH),MAC,Tim Rose,H,Ohio,MAC,Cleve Bryant,T,22,22
+1989-10-21,Miami (OH),MAC,Tim Rose,A,Toledo,MAC,Dan Simrell,L,14,17
+1989-10-28,Miami (OH),MAC,Tim Rose,H,Bowling Green State,MAC,Moe Ankney,W,17,13
+1989-11-04,Miami (OH),MAC,Tim Rose,A,Eastern Michigan,MAC,Jim Harkema,L,7,20
+1989-11-11,Miami (OH),MAC,Tim Rose,A,Kent State,MAC,Dick Crum,W,15,13
+1989-11-18,Miami (OH),MAC,Tim Rose,H,Western Michigan,MAC,Al Molde,L,7,14
+1989-09-09,Indiana,Big Ten,Bill Mallory,A,Kentucky,SEC,Jerry Claiborne,L,14,17
+1989-09-16,Indiana,Big Ten,Bill Mallory,H,Missouri,Big 8,Bob Stull,W,24,7
+1989-09-30,Indiana,Big Ten,Bill Mallory,H,Toledo,MAC,Dan Simrell,W,32,12
+1989-10-07,Indiana,Big Ten,Bill Mallory,H,Northwestern,Big Ten,Francis Peay,W,43,11
+1989-10-14,Indiana,Big Ten,Bill Mallory,A,Ohio State,Big Ten,John Cooper,L,31,35
+1989-10-21,Indiana,Big Ten,Bill Mallory,H,Minnesota,Big Ten,John Gutekunst,W,28,18
+1989-10-28,Indiana,Big Ten,Bill Mallory,A,Michigan,Big Ten,Bo Schembechler,L,10,38
+1989-11-04,Indiana,Big Ten,Bill Mallory,H,Michigan State,Big Ten,George Perles,L,20,51
+1989-11-11,Indiana,Big Ten,Bill Mallory,A,Wisconsin,Big Ten,Don Morton,W,45,17
+1989-11-18,Indiana,Big Ten,Bill Mallory,A,Illinois,Big Ten,John Mackovic,L,28,41
+1989-11-25,Indiana,Big Ten,Bill Mallory,H,Purdue,Big Ten,Fred Akers,L,14,15
+1989-09-02,Florida State,Ind,Bobby Bowden,N,Southern Mississippi,Ind,Curley Hallman,L,26,30
+1989-09-09,Florida State,Ind,Bobby Bowden,H,Clemson,ACC,Danny Ford,L,23,34
+1989-09-16,Florida State,Ind,Bobby Bowden,A,LSU,SEC,Mike Archer,W,31,21
+1989-09-23,Florida State,Ind,Bobby Bowden,H,Tulane,Ind,Greg Davis,W,59,9
+1989-10-07,Florida State,Ind,Bobby Bowden,A,Syracuse,Ind,Dick MacPherson,W,41,10
+1989-10-14,Florida State,Ind,Bobby Bowden,A,Virginia Tech,Ind,Frank Beamer,W,41,7
+1989-10-21,Florida State,Ind,Bobby Bowden,H,Auburn,SEC,Pat Dye,W,22,14
+1989-10-28,Florida State,Ind,Bobby Bowden,H,Miami (FL),Ind,Dennis Erickson,W,24,10
+1989-11-04,Florida State,Ind,Bobby Bowden,H,South Carolina,Ind,Sparky Woods,W,35,10
+1989-11-18,Florida State,Ind,Bobby Bowden,H,Memphis,Ind,Chuck Stobart,W,57,20
+1989-12-02,Florida State,Ind,Bobby Bowden,A,Florida,SEC,Gary Darnell,W,24,17
+1990-01-01,Florida State,Ind,Bobby Bowden,N,Nebraska,Big 8,Tom Osborne,W,41,17
+1989-09-09,Iowa State,Big 8,Jim Walden,H,Ohio,MAC,Cleve Bryant,W,28,3
+1989-09-16,Iowa State,Big 8,Jim Walden,H,Minnesota,Big Ten,John Gutekunst,L,20,30
+1989-09-23,Iowa State,Big 8,Jim Walden,H,Iowa,Big Ten,Hayden Fry,L,21,31
+1989-09-30,Iowa State,Big 8,Jim Walden,A,Tulane,Ind,Greg Davis,W,25,24
+1989-10-07,Iowa State,Big 8,Jim Walden,A,Kansas,Big 8,Glen Mason,W,24,20
+1989-10-14,Iowa State,Big 8,Jim Walden,H,Colorado,Big 8,Bill McCartney,L,17,52
+1989-10-21,Iowa State,Big 8,Jim Walden,H,Oklahoma,Big 8,Gary Gibbs,L,40,43
+1989-10-28,Iowa State,Big 8,Jim Walden,A,Nebraska,Big 8,Tom Osborne,L,17,49
+1989-11-04,Iowa State,Big 8,Jim Walden,H,Kansas State,Big 8,Bill Snyder,W,36,11
+1989-11-11,Iowa State,Big 8,Jim Walden,A,Missouri,Big 8,Bob Stull,W,35,21
+1989-11-18,Iowa State,Big 8,Jim Walden,A,Oklahoma State,Big 8,Pat Jones,W,31,21
+1989-09-02,Cincinnati,Ind,Tim Murphy,H,Rutgers,Ind,Dick Anderson,T,17,17
+1989-09-16,Cincinnati,Ind,Tim Murphy,H,East Carolina,Ind,Bill Lewis,L,14,21
+1989-09-23,Cincinnati,Ind,Tim Murphy,A,Miami (OH),MAC,Tim Rose,W,30,14
+1989-09-30,Cincinnati,Ind,Tim Murphy,A,Louisville,Ind,Howard Schnellenberger,L,17,37
+1989-10-07,Cincinnati,Ind,Tim Murphy,A,Miami (FL),Ind,Dennis Erickson,L,0,56
+1989-10-14,Cincinnati,Ind,Tim Murphy,H,Memphis,Ind,Chuck Stobart,L,17,34
+1989-10-21,Cincinnati,Ind,Tim Murphy,A,West Virginia,Ind,Don Nehlen,L,3,69
+1989-10-28,Cincinnati,Ind,Tim Murphy,A,Akron,Ind,Gerry Faust,L,0,31
+1989-11-04,Cincinnati,Ind,Tim Murphy,A,Kentucky,SEC,Jerry Claiborne,L,0,31
+1989-11-18,Cincinnati,Ind,Tim Murphy,H,Northern Illinois,Ind,Jerry Pettibone,L,3,56
+1989-09-09,Arizona State,Pac-10,Larry Marmie,H,Kansas State,Big 8,Bill Snyder,W,31,0
+1989-09-16,Arizona State,Pac-10,Larry Marmie,H,San Jose State,Big West,Claude Gilbert,W,28,21
+1989-09-23,Arizona State,Pac-10,Larry Marmie,H,Houston,SWC,Jack Pardee,L,7,36
+1989-09-30,Arizona State,Pac-10,Larry Marmie,H,Missouri,Big 8,Bob Stull,W,19,3
+1989-10-07,Arizona State,Pac-10,Larry Marmie,A,UCLA,Pac-10,Terry Donahue,L,14,33
+1989-10-14,Arizona State,Pac-10,Larry Marmie,A,Oregon State,Pac-10,Dave Kragthorpe,T,17,17
+1989-10-21,Arizona State,Pac-10,Larry Marmie,H,Oregon,Pac-10,Rich Brooks,L,7,27
+1989-10-28,Arizona State,Pac-10,Larry Marmie,H,Washington State,Pac-10,Mike Price,W,44,39
+1989-11-04,Arizona State,Pac-10,Larry Marmie,A,Washington,Pac-10,Don James,W,34,32
+1989-11-11,Arizona State,Pac-10,Larry Marmie,H,Stanford,Pac-10,Dennis Green,W,30,22
+1989-11-25,Arizona State,Pac-10,Larry Marmie,H,Arizona,Pac-10,Dick Tomey,L,10,28
+1989-09-02,Utah,WAC,Jim Fassel,A,Fresno State,Big West,Jim Sweeney,L,22,52
+1989-09-09,Utah,WAC,Jim Fassel,H,Utah State,Big West,Chuck Shelton,W,45,10
+1989-09-16,Utah,WAC,Jim Fassel,A,Nebraska,Big 8,Tom Osborne,L,30,42
+1989-09-23,Utah,WAC,Jim Fassel,A,Hawaii,WAC,Bob Wagner,L,20,67
+1989-09-30,Utah,WAC,Jim Fassel,H,San Diego State,WAC,Al Luginbill,L,27,38
+1989-10-07,Utah,WAC,Jim Fassel,A,UTEP,WAC,David Lee,W,50,45
+1989-10-14,Utah,WAC,Jim Fassel,A,Wyoming,WAC,Paul Roach,L,24,45
+1989-10-21,Utah,WAC,Jim Fassel,A,Stanford,Pac-10,Dennis Green,W,27,24
+1989-10-28,Utah,WAC,Jim Fassel,H,Colorado State,WAC,Earle Bruce,L,10,50
+1989-11-11,Utah,WAC,Jim Fassel,H,New Mexico,WAC,Mike Sheppard,W,41,39
+1989-11-18,Utah,WAC,Jim Fassel,A,Brigham Young,WAC,LaVell Edwards,L,31,70
+1989-11-25,Utah,WAC,Jim Fassel,H,Air Force,WAC,Fisher DeBerry,L,38,42
+1989-09-02,Cal State Fullerton,Big West,Gene Murphy,A,Northern Illinois,Ind,Jerry Pettibone,L,17,26
+1989-09-16,Cal State Fullerton,Big West,Gene Murphy,A,Colorado State,WAC,Earle Bruce,L,14,42
+1989-09-23,Cal State Fullerton,Big West,Gene Murphy,A,San Diego State,WAC,Al Luginbill,T,41,41
+1989-09-30,Cal State Fullerton,Big West,Gene Murphy,H,Nevada-Las Vegas,Big West,Wayne Nunnely,W,34,20
+1989-10-07,Cal State Fullerton,Big West,Gene Murphy,A,Utah State,Big West,Chuck Shelton,L,23,34
+1989-10-14,Cal State Fullerton,Big West,Gene Murphy,A,Pacific,Big West,Walt Harris,W,35,26
+1989-10-21,Cal State Fullerton,Big West,Gene Murphy,A,Fresno State,Big West,Jim Sweeney,L,19,33
+1989-11-04,Cal State Fullerton,Big West,Gene Murphy,H,New Mexico State,Big West,Mike Knoll,W,45,10
+1989-11-11,Cal State Fullerton,Big West,Gene Murphy,H,Long Beach State,Big West,Larry Reisbig,W,31,13
+1989-11-18,Cal State Fullerton,Big West,Gene Murphy,A,San Jose State,Big West,Claude Gilbert,W,28,14
+1989-09-09,Syracuse,Ind,Dick MacPherson,A,Temple,Ind,Jerry Berndt,W,43,3
+1989-09-16,Syracuse,Ind,Dick MacPherson,H,Army,Ind,Jim Young,W,10,7
+1989-09-23,Syracuse,Ind,Dick MacPherson,A,Pitt,Ind,Paul Hackett,L,23,30
+1989-10-07,Syracuse,Ind,Dick MacPherson,H,Florida State,Ind,Bobby Bowden,L,10,41
+1989-10-14,Syracuse,Ind,Dick MacPherson,H,Penn State,Ind,Joe Paterno,L,12,34
+1989-10-21,Syracuse,Ind,Dick MacPherson,A,Rutgers,Ind,Dick Anderson,W,49,28
+1989-10-28,Syracuse,Ind,Dick MacPherson,H,East Carolina,Ind,Bill Lewis,W,18,16
+1989-11-04,Syracuse,Ind,Dick MacPherson,H,Boston College,Ind,Jack Bicknell,W,23,11
+1989-11-11,Syracuse,Ind,Dick MacPherson,A,Navy,Ind,Elliot Uzelac,W,38,17
+1989-11-23,Syracuse,Ind,Dick MacPherson,H,West Virginia,Ind,Don Nehlen,L,17,24
+1989-12-04,Syracuse,Ind,Dick MacPherson,N,Louisville,Ind,Howard Schnellenberger,W,24,13
+1989-12-30,Syracuse,Ind,Dick MacPherson,N,Georgia,SEC,Ray Goff,W,19,18
+1989-09-02,Arizona,Pac-10,Dick Tomey,H,Stanford,Pac-10,Dennis Green,W,19,3
+1989-09-09,Arizona,Pac-10,Dick Tomey,A,Texas Tech,SWC,Spike Dykes,L,14,24
+1989-09-16,Arizona,Pac-10,Dick Tomey,H,Oklahoma,Big 8,Gary Gibbs,W,6,3
+1989-09-23,Arizona,Pac-10,Dick Tomey,H,Washington,Pac-10,Don James,W,20,17
+1989-09-30,Arizona,Pac-10,Dick Tomey,A,Oregon,Pac-10,Rich Brooks,L,10,16
+1989-10-14,Arizona,Pac-10,Dick Tomey,H,UCLA,Pac-10,Terry Donahue,W,42,7
+1989-10-21,Arizona,Pac-10,Dick Tomey,A,Washington State,Pac-10,Mike Price,W,23,21
+1989-10-28,Arizona,Pac-10,Dick Tomey,H,Pacific,Big West,Walt Harris,W,38,14
+1989-11-04,Arizona,Pac-10,Dick Tomey,A,California,Pac-10,Bruce Snyder,L,28,29
+1989-11-11,Arizona,Pac-10,Dick Tomey,H,USC,Pac-10,Larry Smith,L,3,24
+1989-11-25,Arizona,Pac-10,Dick Tomey,A,Arizona State,Pac-10,Larry Marmie,W,28,10
+1989-12-31,Arizona,Pac-10,Dick Tomey,H,North Carolina State,ACC,Dick Sheridan,W,17,10
+1989-09-09,Penn State,Ind,Joe Paterno,H,Virginia,ACC,George Welsh,L,6,14
+1989-09-16,Penn State,Ind,Joe Paterno,H,Temple,Ind,Jerry Berndt,W,42,3
+1989-09-23,Penn State,Ind,Joe Paterno,H,Boston College,Ind,Jack Bicknell,W,7,3
+1989-09-30,Penn State,Ind,Joe Paterno,A,Texas,SWC,David McWilliams,W,16,12
+1989-10-07,Penn State,Ind,Joe Paterno,A,Rutgers,Ind,Dick Anderson,W,17,0
+1989-10-14,Penn State,Ind,Joe Paterno,A,Syracuse,Ind,Dick MacPherson,W,34,12
+1989-10-28,Penn State,Ind,Joe Paterno,H,Alabama,SEC,Bill Curry,L,16,17
+1989-11-04,Penn State,Ind,Joe Paterno,H,West Virginia,Ind,Don Nehlen,W,19,9
+1989-11-11,Penn State,Ind,Joe Paterno,A,Maryland,ACC,Joe Krivak,T,13,13
+1989-11-18,Penn State,Ind,Joe Paterno,H,Notre Dame,Ind,Lou Holtz,L,23,34
+1989-11-25,Penn State,Ind,Joe Paterno,A,Pitt,Ind,Paul Hackett,W,16,13
+1989-12-29,Penn State,Ind,Joe Paterno,N,Brigham Young,WAC,LaVell Edwards,W,50,39
+1989-09-02,Vanderbilt,SEC,Watson Brown,A,Mississippi State,SEC,Rockey Felker,L,7,42
+1989-09-23,Vanderbilt,SEC,Watson Brown,H,Ohio,MAC,Cleve Bryant,W,54,10
+1989-09-30,Vanderbilt,SEC,Watson Brown,H,Alabama,SEC,Bill Curry,L,14,20
+1989-10-07,Vanderbilt,SEC,Watson Brown,A,Memphis,Ind,Chuck Stobart,L,10,13
+1989-10-14,Vanderbilt,SEC,Watson Brown,A,Florida,SEC,Gary Darnell,L,11,34
+1989-10-21,Vanderbilt,SEC,Watson Brown,H,Georgia,SEC,Ray Goff,L,16,35
+1989-10-28,Vanderbilt,SEC,Watson Brown,A,Ole Miss,SEC,Billy Brewer,L,16,24
+1989-11-04,Vanderbilt,SEC,Watson Brown,A,Virginia Tech,Ind,Frank Beamer,L,0,18
+1989-11-11,Vanderbilt,SEC,Watson Brown,H,Kentucky,SEC,Jerry Claiborne,L,11,15
+1989-11-18,Vanderbilt,SEC,Watson Brown,H,Tulane,Ind,Greg Davis,L,13,37
+1989-12-02,Vanderbilt,SEC,Watson Brown,A,Tennessee,SEC,Johnny Majors,L,10,17
+1989-09-09,Kentucky,SEC,Jerry Claiborne,H,Indiana,Big Ten,Bill Mallory,W,17,14
+1989-09-16,Kentucky,SEC,Jerry Claiborne,H,North Carolina,ACC,Mack Brown,W,13,6
+1989-09-23,Kentucky,SEC,Jerry Claiborne,A,Alabama,SEC,Bill Curry,L,3,15
+1989-10-07,Kentucky,SEC,Jerry Claiborne,H,Auburn,SEC,Pat Dye,L,12,24
+1989-10-14,Kentucky,SEC,Jerry Claiborne,H,Rutgers,Ind,Dick Anderson,W,33,26
+1989-10-21,Kentucky,SEC,Jerry Claiborne,H,LSU,SEC,Mike Archer,W,27,21
+1989-10-28,Kentucky,SEC,Jerry Claiborne,A,Georgia,SEC,Ray Goff,L,23,34
+1989-11-04,Kentucky,SEC,Jerry Claiborne,H,Cincinnati,Ind,Tim Murphy,W,31,0
+1989-11-11,Kentucky,SEC,Jerry Claiborne,A,Vanderbilt,SEC,Watson Brown,W,15,11
+1989-11-18,Kentucky,SEC,Jerry Claiborne,A,Florida,SEC,Gary Darnell,L,28,38
+1989-11-25,Kentucky,SEC,Jerry Claiborne,H,Tennessee,SEC,Johnny Majors,L,10,31
+1989-09-09,California,Pac-10,Bruce Snyder,A,Oregon,Pac-10,Rich Brooks,L,19,35
+1989-09-16,California,Pac-10,Bruce Snyder,A,Miami (FL),Ind,Dennis Erickson,L,3,31
+1989-09-23,California,Pac-10,Bruce Snyder,H,Wisconsin,Big Ten,Don Morton,W,20,14
+1989-09-30,California,Pac-10,Bruce Snyder,A,UCLA,Pac-10,Terry Donahue,L,6,24
+1989-10-07,California,Pac-10,Bruce Snyder,H,San Jose State,Big West,Claude Gilbert,W,26,21
+1989-10-14,California,Pac-10,Bruce Snyder,H,USC,Pac-10,Larry Smith,L,15,31
+1989-10-21,California,Pac-10,Bruce Snyder,H,Washington,Pac-10,Don James,L,16,29
+1989-10-28,California,Pac-10,Bruce Snyder,H,Oregon State,Pac-10,Dave Kragthorpe,L,14,25
+1989-11-04,California,Pac-10,Bruce Snyder,H,Arizona,Pac-10,Dick Tomey,W,29,28
+1989-11-11,California,Pac-10,Bruce Snyder,H,Washington State,Pac-10,Mike Price,W,38,26
+1989-11-18,California,Pac-10,Bruce Snyder,A,Stanford,Pac-10,Dennis Green,L,14,24
+1989-09-09,Florida,SEC,Gary Darnell,H,Ole Miss,SEC,Billy Brewer,L,19,24
+1989-09-16,Florida,SEC,Gary Darnell,H,Louisiana Tech,Ind,Joe Peace,W,34,7
+1989-09-23,Florida,SEC,Gary Darnell,A,Memphis,Ind,Chuck Stobart,W,38,13
+1989-09-30,Florida,SEC,Gary Darnell,H,Mississippi State,SEC,Rockey Felker,W,21,0
+1989-10-07,Florida,SEC,Gary Darnell,A,LSU,SEC,Mike Archer,W,16,13
+1989-10-14,Florida,SEC,Gary Darnell,H,Vanderbilt,SEC,Watson Brown,W,34,11
+1989-10-21,Florida,SEC,Gary Darnell,H,New Mexico,WAC,Mike Sheppard,W,27,21
+1989-11-04,Florida,SEC,Gary Darnell,A,Auburn,SEC,Pat Dye,L,7,10
+1989-11-11,Florida,SEC,Gary Darnell,N,Georgia,SEC,Ray Goff,L,10,17
+1989-11-18,Florida,SEC,Gary Darnell,H,Kentucky,SEC,Jerry Claiborne,W,38,28
+1989-12-02,Florida,SEC,Gary Darnell,H,Florida State,Ind,Bobby Bowden,L,17,24
+1989-12-30,Florida,SEC,Gary Darnell,N,Washington,Pac-10,Don James,L,7,34
+1989-09-02,Stanford,Pac-10,Dennis Green,A,Arizona,Pac-10,Dick Tomey,L,3,19
+1989-09-09,Stanford,Pac-10,Dennis Green,A,Oregon State,Pac-10,Dave Kragthorpe,L,16,20
+1989-09-23,Stanford,Pac-10,Dennis Green,H,Oregon,Pac-10,Rich Brooks,W,18,17
+1989-09-30,Stanford,Pac-10,Dennis Green,H,San Jose State,Big West,Claude Gilbert,L,33,40
+1989-10-07,Stanford,Pac-10,Dennis Green,H,Notre Dame,Ind,Lou Holtz,L,17,27
+1989-10-14,Stanford,Pac-10,Dennis Green,A,Washington State,Pac-10,Mike Price,L,13,31
+1989-10-21,Stanford,Pac-10,Dennis Green,H,Utah,WAC,Jim Fassel,L,24,27
+1989-10-28,Stanford,Pac-10,Dennis Green,A,USC,Pac-10,Larry Smith,L,0,19
+1989-11-04,Stanford,Pac-10,Dennis Green,H,UCLA,Pac-10,Terry Donahue,W,17,14
+1989-11-11,Stanford,Pac-10,Dennis Green,A,Arizona State,Pac-10,Larry Marmie,L,22,30
+1989-11-18,Stanford,Pac-10,Dennis Green,H,California,Pac-10,Bruce Snyder,W,24,14
+1989-09-07,Washington State,Pac-10,Mike Price,A,Brigham Young,WAC,LaVell Edwards,W,46,41
+1989-09-16,Washington State,Pac-10,Mike Price,H,Oregon State,Pac-10,Dave Kragthorpe,W,41,3
+1989-09-23,Washington State,Pac-10,Mike Price,A,Wyoming,WAC,Paul Roach,W,29,23
+1989-09-30,Washington State,Pac-10,Mike Price,H,USC,Pac-10,Larry Smith,L,17,18
+1989-10-07,Washington State,Pac-10,Mike Price,A,Oregon,Pac-10,Rich Brooks,W,51,38
+1989-10-14,Washington State,Pac-10,Mike Price,H,Stanford,Pac-10,Dennis Green,W,31,13
+1989-10-21,Washington State,Pac-10,Mike Price,H,Arizona,Pac-10,Dick Tomey,L,21,23
+1989-10-28,Washington State,Pac-10,Mike Price,A,Arizona State,Pac-10,Larry Marmie,L,39,44
+1989-11-11,Washington State,Pac-10,Mike Price,A,California,Pac-10,Bruce Snyder,L,26,38
+1989-11-18,Washington State,Pac-10,Mike Price,A,Washington,Pac-10,Don James,L,9,20
+1989-09-04,Illinois,Big Ten,John Mackovic,A,USC,Pac-10,Larry Smith,W,14,13
+1989-09-16,Illinois,Big Ten,John Mackovic,A,Colorado,Big 8,Bill McCartney,L,7,38
+1989-09-23,Illinois,Big Ten,John Mackovic,H,Utah State,Big West,Chuck Shelton,W,41,2
+1989-10-07,Illinois,Big Ten,John Mackovic,H,Ohio State,Big Ten,John Cooper,W,34,14
+1989-10-14,Illinois,Big Ten,John Mackovic,A,Purdue,Big Ten,Fred Akers,W,14,2
+1989-10-21,Illinois,Big Ten,John Mackovic,A,Michigan State,Big Ten,George Perles,W,14,10
+1989-10-28,Illinois,Big Ten,John Mackovic,H,Wisconsin,Big Ten,Don Morton,W,32,9
+1989-11-04,Illinois,Big Ten,John Mackovic,A,Iowa,Big Ten,Hayden Fry,W,31,7
+1989-11-11,Illinois,Big Ten,John Mackovic,H,Michigan,Big Ten,Bo Schembechler,L,10,24
+1989-11-18,Illinois,Big Ten,John Mackovic,H,Indiana,Big Ten,Bill Mallory,W,41,28
+1989-11-25,Illinois,Big Ten,John Mackovic,A,Northwestern,Big Ten,Francis Peay,W,63,14
+1990-01-01,Illinois,Big Ten,John Mackovic,N,Virginia,ACC,George Welsh,W,31,21
+1989-09-09,Baylor,SWC,Grant Teaff,A,Oklahoma,Big 8,Gary Gibbs,L,7,33
+1989-09-16,Baylor,SWC,Grant Teaff,A,Georgia,SEC,Ray Goff,L,3,15
+1989-09-23,Baylor,SWC,Grant Teaff,H,Kansas,Big 8,Glen Mason,W,46,3
+1989-09-30,Baylor,SWC,Grant Teaff,H,Texas Tech,SWC,Spike Dykes,W,29,15
+1989-10-07,Baylor,SWC,Grant Teaff,A,Houston,SWC,Jack Pardee,L,10,66
+1989-10-14,Baylor,SWC,Grant Teaff,A,SMU,SWC,Forrest Gregg,W,49,3
+1989-10-21,Baylor,SWC,Grant Teaff,H,Texas A&M,SWC,R.C. Slocum,L,11,14
+1989-10-28,Baylor,SWC,Grant Teaff,H,Texas Christian,SWC,Jim Wacker,W,27,9
+1989-11-11,Baylor,SWC,Grant Teaff,A,Arkansas,SWC,Ken Hatfield,L,10,19
+1989-11-18,Baylor,SWC,Grant Teaff,H,Rice,SWC,Fred Goldsmith,L,3,6
+1989-11-25,Baylor,SWC,Grant Teaff,A,Texas,SWC,David McWilliams,W,50,7
+1989-09-02,SMU,SWC,Forrest Gregg,H,Rice,SWC,Fred Goldsmith,L,6,35
+1989-09-23,SMU,SWC,Forrest Gregg,H,Texas,SWC,David McWilliams,L,13,45
+1989-09-30,SMU,SWC,Forrest Gregg,A,Texas Christian,SWC,Jim Wacker,L,10,28
+1989-10-14,SMU,SWC,Forrest Gregg,H,Baylor,SWC,Grant Teaff,L,3,49
+1989-10-21,SMU,SWC,Forrest Gregg,A,Houston,SWC,Jack Pardee,L,21,95
+1989-11-04,SMU,SWC,Forrest Gregg,A,Texas A&M,SWC,R.C. Slocum,L,14,63
+1989-11-11,SMU,SWC,Forrest Gregg,A,Notre Dame,Ind,Lou Holtz,L,6,59
+1989-11-18,SMU,SWC,Forrest Gregg,H,Texas Tech,SWC,Spike Dykes,L,24,48
+1989-12-02,SMU,SWC,Forrest Gregg,A,Arkansas,SWC,Ken Hatfield,L,24,38
+1989-09-16,Georgia,SEC,Ray Goff,H,Baylor,SWC,Grant Teaff,W,15,3
+1989-09-23,Georgia,SEC,Ray Goff,H,Mississippi State,SEC,Rockey Felker,W,23,6
+1989-09-30,Georgia,SEC,Ray Goff,H,South Carolina,Ind,Sparky Woods,L,20,24
+1989-10-07,Georgia,SEC,Ray Goff,A,Tennessee,SEC,Johnny Majors,L,14,17
+1989-10-14,Georgia,SEC,Ray Goff,A,Ole Miss,SEC,Billy Brewer,L,13,17
+1989-10-21,Georgia,SEC,Ray Goff,A,Vanderbilt,SEC,Watson Brown,W,35,16
+1989-10-28,Georgia,SEC,Ray Goff,H,Kentucky,SEC,Jerry Claiborne,W,34,23
+1989-11-04,Georgia,SEC,Ray Goff,H,Temple,Ind,Jerry Berndt,W,37,10
+1989-11-11,Georgia,SEC,Ray Goff,N,Florida,SEC,Gary Darnell,W,17,10
+1989-11-18,Georgia,SEC,Ray Goff,H,Auburn,SEC,Pat Dye,L,3,20
+1989-12-02,Georgia,SEC,Ray Goff,A,Georgia Tech,ACC,Bobby Ross,L,22,33
+1989-12-30,Georgia,SEC,Ray Goff,N,Syracuse,Ind,Dick MacPherson,L,18,19
+1989-09-02,Maryland,ACC,Joe Krivak,A,North Carolina State,ACC,Dick Sheridan,L,6,10
+1989-09-09,Maryland,ACC,Joe Krivak,H,West Virginia,Ind,Don Nehlen,L,10,14
+1989-09-16,Maryland,ACC,Joe Krivak,H,Western Michigan,MAC,Al Molde,W,23,0
+1989-09-23,Maryland,ACC,Joe Krivak,A,Clemson,ACC,Danny Ford,L,7,31
+1989-09-30,Maryland,ACC,Joe Krivak,A,Michigan,Big Ten,Bo Schembechler,L,21,41
+1989-10-07,Maryland,ACC,Joe Krivak,A,Georgia Tech,ACC,Bobby Ross,L,24,28
+1989-10-14,Maryland,ACC,Joe Krivak,A,Wake Forest,ACC,Bill Dooley,W,27,7
+1989-10-21,Maryland,ACC,Joe Krivak,H,Duke,ACC,Steve Spurrier,L,25,46
+1989-10-28,Maryland,ACC,Joe Krivak,H,North Carolina,ACC,Mack Brown,W,38,0
+1989-11-11,Maryland,ACC,Joe Krivak,H,Penn State,Ind,Joe Paterno,T,13,13
+1989-11-18,Maryland,ACC,Joe Krivak,H,Virginia,ACC,George Welsh,L,21,48
+1989-08-31,Virginia,ACC,George Welsh,N,Notre Dame,Ind,Lou Holtz,L,13,36
+1989-09-09,Virginia,ACC,George Welsh,A,Penn State,Ind,Joe Paterno,W,14,6
+1989-09-16,Virginia,ACC,George Welsh,A,Georgia Tech,ACC,Bobby Ross,W,17,10
+1989-09-23,Virginia,ACC,George Welsh,H,Duke,ACC,Steve Spurrier,W,49,28
+1989-10-07,Virginia,ACC,George Welsh,A,Clemson,ACC,Danny Ford,L,20,34
+1989-10-14,Virginia,ACC,George Welsh,H,North Carolina,ACC,Mack Brown,W,50,17
+1989-10-21,Virginia,ACC,George Welsh,H,Wake Forest,ACC,Bill Dooley,W,47,28
+1989-10-28,Virginia,ACC,George Welsh,H,Louisville,Ind,Howard Schnellenberger,W,16,15
+1989-11-04,Virginia,ACC,George Welsh,A,North Carolina State,ACC,Dick Sheridan,W,20,9
+1989-11-11,Virginia,ACC,George Welsh,H,Virginia Tech,Ind,Frank Beamer,W,32,25
+1989-11-18,Virginia,ACC,George Welsh,A,Maryland,ACC,Joe Krivak,W,48,21
+1990-01-01,Virginia,ACC,George Welsh,N,Illinois,Big Ten,John Mackovic,L,21,31
+1989-09-02,Oklahoma,Big 8,Gary Gibbs,H,New Mexico State,Big West,Mike Knoll,W,73,3
+1989-09-09,Oklahoma,Big 8,Gary Gibbs,H,Baylor,SWC,Grant Teaff,W,33,7
+1989-09-16,Oklahoma,Big 8,Gary Gibbs,A,Arizona,Pac-10,Dick Tomey,L,3,6
+1989-09-30,Oklahoma,Big 8,Gary Gibbs,A,Kansas,Big 8,Glen Mason,W,45,6
+1989-10-07,Oklahoma,Big 8,Gary Gibbs,H,Oklahoma State,Big 8,Pat Jones,W,37,15
+1989-10-14,Oklahoma,Big 8,Gary Gibbs,N,Texas,SWC,David McWilliams,L,24,28
+1989-10-21,Oklahoma,Big 8,Gary Gibbs,A,Iowa State,Big 8,Jim Walden,W,43,40
+1989-10-28,Oklahoma,Big 8,Gary Gibbs,H,Colorado,Big 8,Bill McCartney,L,3,20
+1989-11-04,Oklahoma,Big 8,Gary Gibbs,H,Missouri,Big 8,Bob Stull,W,52,14
+1989-11-11,Oklahoma,Big 8,Gary Gibbs,H,Kansas State,Big 8,Bill Snyder,W,42,19
+1989-11-18,Oklahoma,Big 8,Gary Gibbs,A,Nebraska,Big 8,Tom Osborne,L,25,42
+1989-09-02,Virginia Tech,Ind,Frank Beamer,H,Akron,Ind,Gerry Faust,W,29,3
+1989-09-09,Virginia Tech,Ind,Frank Beamer,A,South Carolina,Ind,Sparky Woods,T,17,17
+1989-09-16,Virginia Tech,Ind,Frank Beamer,H,Clemson,ACC,Danny Ford,L,7,27
+1989-09-23,Virginia Tech,Ind,Frank Beamer,H,Temple,Ind,Jerry Berndt,W,23,0
+1989-10-07,Virginia Tech,Ind,Frank Beamer,A,West Virginia,Ind,Don Nehlen,W,12,10
+1989-10-14,Virginia Tech,Ind,Frank Beamer,H,Florida State,Ind,Bobby Bowden,L,7,41
+1989-10-21,Virginia Tech,Ind,Frank Beamer,A,East Carolina,Ind,Bill Lewis,L,10,14
+1989-10-28,Virginia Tech,Ind,Frank Beamer,H,Tulane,Ind,Greg Davis,W,30,13
+1989-11-04,Virginia Tech,Ind,Frank Beamer,H,Vanderbilt,SEC,Watson Brown,W,18,0
+1989-11-11,Virginia Tech,Ind,Frank Beamer,A,Virginia,ACC,George Welsh,L,25,32
+1989-11-18,Virginia Tech,Ind,Frank Beamer,A,North Carolina State,ACC,Dick Sheridan,W,25,23
+1989-09-02,Louisville,Ind,Howard Schnellenberger,A,Wyoming,WAC,Paul Roach,W,28,21
+1989-09-09,Louisville,Ind,Howard Schnellenberger,A,Kansas,Big 8,Glen Mason,W,33,28
+1989-09-23,Louisville,Ind,Howard Schnellenberger,H,West Virginia,Ind,Don Nehlen,L,21,30
+1989-09-30,Louisville,Ind,Howard Schnellenberger,H,Cincinnati,Ind,Tim Murphy,W,37,17
+1989-10-14,Louisville,Ind,Howard Schnellenberger,H,Southern Mississippi,Ind,Curley Hallman,L,10,16
+1989-10-21,Louisville,Ind,Howard Schnellenberger,A,Tulsa,Ind,David Rader,L,24,31
+1989-10-28,Louisville,Ind,Howard Schnellenberger,A,Virginia,ACC,George Welsh,L,15,16
+1989-11-11,Louisville,Ind,Howard Schnellenberger,A,Memphis,Ind,Chuck Stobart,W,40,10
+1989-11-18,Louisville,Ind,Howard Schnellenberger,A,Boston College,Ind,Jack Bicknell,W,36,22
+1989-12-04,Louisville,Ind,Howard Schnellenberger,N,Syracuse,Ind,Dick MacPherson,L,13,24
+1989-09-16,Arkansas,SWC,Ken Hatfield,H,Tulsa,Ind,David Rader,W,26,7
+1989-09-23,Arkansas,SWC,Ken Hatfield,A,Ole Miss,SEC,Billy Brewer,W,24,17
+1989-09-30,Arkansas,SWC,Ken Hatfield,H,UTEP,WAC,David Lee,W,39,7
+1989-10-07,Arkansas,SWC,Ken Hatfield,A,Texas Christian,SWC,Jim Wacker,W,41,19
+1989-10-14,Arkansas,SWC,Ken Hatfield,A,Texas Tech,SWC,Spike Dykes,W,45,13
+1989-10-21,Arkansas,SWC,Ken Hatfield,H,Texas,SWC,David McWilliams,L,20,24
+1989-10-28,Arkansas,SWC,Ken Hatfield,H,Houston,SWC,Jack Pardee,W,45,39
+1989-11-04,Arkansas,SWC,Ken Hatfield,A,Rice,SWC,Fred Goldsmith,W,38,17
+1989-11-11,Arkansas,SWC,Ken Hatfield,H,Baylor,SWC,Grant Teaff,W,19,10
+1989-11-24,Arkansas,SWC,Ken Hatfield,A,Texas A&M,SWC,R.C. Slocum,W,23,22
+1989-12-02,Arkansas,SWC,Ken Hatfield,H,SMU,SWC,Forrest Gregg,W,38,24
+1990-01-01,Arkansas,SWC,Ken Hatfield,N,Tennessee,SEC,Johnny Majors,L,27,31
+1989-09-09,Clemson,ACC,Danny Ford,A,Florida State,Ind,Bobby Bowden,W,34,23
+1989-09-16,Clemson,ACC,Danny Ford,A,Virginia Tech,Ind,Frank Beamer,W,27,7
+1989-09-23,Clemson,ACC,Danny Ford,H,Maryland,ACC,Joe Krivak,W,31,7
+1989-09-30,Clemson,ACC,Danny Ford,A,Duke,ACC,Steve Spurrier,L,17,21
+1989-10-07,Clemson,ACC,Danny Ford,H,Virginia,ACC,George Welsh,W,34,20
+1989-10-14,Clemson,ACC,Danny Ford,H,Georgia Tech,ACC,Bobby Ross,L,14,30
+1989-10-21,Clemson,ACC,Danny Ford,H,North Carolina State,ACC,Dick Sheridan,W,30,10
+1989-10-28,Clemson,ACC,Danny Ford,H,Wake Forest,ACC,Bill Dooley,W,44,10
+1989-11-04,Clemson,ACC,Danny Ford,A,North Carolina,ACC,Mack Brown,W,35,3
+1989-11-18,Clemson,ACC,Danny Ford,A,South Carolina,Ind,Sparky Woods,W,45,0
+1989-12-30,Clemson,ACC,Danny Ford,N,West Virginia,Ind,Don Nehlen,W,27,7
+1989-09-02,South Carolina,Ind,Sparky Woods,H,Duke,ACC,Steve Spurrier,W,27,21
+1989-09-09,South Carolina,Ind,Sparky Woods,H,Virginia Tech,Ind,Frank Beamer,T,17,17
+1989-09-16,South Carolina,Ind,Sparky Woods,A,West Virginia,Ind,Don Nehlen,L,21,45
+1989-09-23,South Carolina,Ind,Sparky Woods,H,Georgia Tech,ACC,Bobby Ross,W,21,10
+1989-09-30,South Carolina,Ind,Sparky Woods,A,Georgia,SEC,Ray Goff,W,24,20
+1989-10-07,South Carolina,Ind,Sparky Woods,H,East Carolina,Ind,Bill Lewis,W,47,14
+1989-10-28,South Carolina,Ind,Sparky Woods,H,North Carolina State,ACC,Dick Sheridan,L,10,20
+1989-11-04,South Carolina,Ind,Sparky Woods,A,Florida State,Ind,Bobby Bowden,L,10,35
+1989-11-11,South Carolina,Ind,Sparky Woods,A,North Carolina,ACC,Mack Brown,W,27,20
+1989-11-18,South Carolina,Ind,Sparky Woods,H,Clemson,ACC,Danny Ford,L,0,45
+1989-09-09,Washington,Pac-10,Don James,H,Texas A&M,SWC,R.C. Slocum,W,19,6
+1989-09-16,Washington,Pac-10,Don James,H,Purdue,Big Ten,Fred Akers,W,38,9
+1989-09-23,Washington,Pac-10,Don James,A,Arizona,Pac-10,Dick Tomey,L,17,20
+1989-09-30,Washington,Pac-10,Don James,H,Colorado,Big 8,Bill McCartney,L,28,45
+1989-10-07,Washington,Pac-10,Don James,A,USC,Pac-10,Larry Smith,L,16,24
+1989-10-14,Washington,Pac-10,Don James,H,Oregon,Pac-10,Rich Brooks,W,20,14
+1989-10-21,Washington,Pac-10,Don James,A,California,Pac-10,Bruce Snyder,W,29,16
+1989-10-28,Washington,Pac-10,Don James,A,UCLA,Pac-10,Terry Donahue,W,28,27
+1989-11-04,Washington,Pac-10,Don James,H,Arizona State,Pac-10,Larry Marmie,L,32,34
+1989-11-11,Washington,Pac-10,Don James,A,Oregon State,Pac-10,Dave Kragthorpe,W,51,14
+1989-11-18,Washington,Pac-10,Don James,H,Washington State,Pac-10,Mike Price,W,20,9
+1989-12-30,Washington,Pac-10,Don James,N,Florida,SEC,Gary Darnell,W,34,7
+1989-09-02,Ball State,MAC,Paul Schudel,A,West Virginia,Ind,Don Nehlen,L,10,35
+1989-09-09,Ball State,MAC,Paul Schudel,A,Rutgers,Ind,Dick Anderson,T,31,31
+1989-09-16,Ball State,MAC,Paul Schudel,A,Bowling Green State,MAC,Moe Ankney,W,28,3
+1989-09-23,Ball State,MAC,Paul Schudel,A,Toledo,MAC,Dan Simrell,L,22,29
+1989-10-07,Ball State,MAC,Paul Schudel,H,Miami (OH),MAC,Tim Rose,W,37,9
+1989-10-14,Ball State,MAC,Paul Schudel,A,Kent State,MAC,Dick Crum,W,23,21
+1989-10-21,Ball State,MAC,Paul Schudel,H,Western Michigan,MAC,Al Molde,W,14,13
+1989-11-04,Ball State,MAC,Paul Schudel,H,Central Michigan,MAC,Herb Deromedi,T,13,13
+1989-11-11,Ball State,MAC,Paul Schudel,H,Eastern Michigan,MAC,Jim Harkema,W,23,17
+1989-11-18,Ball State,MAC,Paul Schudel,A,Ohio,MAC,Cleve Bryant,W,33,14
+1989-12-09,Ball State,MAC,Paul Schudel,A,Fresno State,Big West,Jim Sweeney,L,6,27
+1989-09-02,Southern Mississippi,Ind,Curley Hallman,N,Florida State,Ind,Bobby Bowden,W,30,26
+1989-09-09,Southern Mississippi,Ind,Curley Hallman,H,Mississippi State,SEC,Rockey Felker,L,23,26
+1989-09-16,Southern Mississippi,Ind,Curley Hallman,A,Auburn,SEC,Pat Dye,L,3,24
+1989-09-23,Southern Mississippi,Ind,Curley Hallman,A,Texas Christian,SWC,Jim Wacker,L,17,19
+1989-09-30,Southern Mississippi,Ind,Curley Hallman,A,Texas A&M,SWC,R.C. Slocum,L,14,31
+1989-10-07,Southern Mississippi,Ind,Curley Hallman,H,Tulane,Ind,Greg Davis,W,30,21
+1989-10-14,Southern Mississippi,Ind,Curley Hallman,A,Louisville,Ind,Howard Schnellenberger,W,16,10
+1989-10-21,Southern Mississippi,Ind,Curley Hallman,H,Louisiana,Ind,Nelson Stokley,L,21,24
+1989-10-28,Southern Mississippi,Ind,Curley Hallman,A,Memphis,Ind,Chuck Stobart,W,31,7
+1989-11-18,Southern Mississippi,Ind,Curley Hallman,A,Alabama,SEC,Bill Curry,L,14,37
+1989-11-25,Southern Mississippi,Ind,Curley Hallman,H,East Carolina,Ind,Bill Lewis,W,41,27
+1989-09-09,Long Beach State,Big West,Larry Reisbig,A,Hawaii,WAC,Bob Wagner,L,10,63
+1989-09-23,Long Beach State,Big West,Larry Reisbig,A,Fresno State,Big West,Jim Sweeney,L,0,52
+1989-09-30,Long Beach State,Big West,Larry Reisbig,A,Pacific,Big West,Walt Harris,L,25,26
+1989-10-07,Long Beach State,Big West,Larry Reisbig,H,New Mexico State,Big West,Mike Knoll,W,55,48
+1989-10-14,Long Beach State,Big West,Larry Reisbig,A,San Diego State,WAC,Al Luginbill,L,26,30
+1989-10-21,Long Beach State,Big West,Larry Reisbig,H,San Jose State,Big West,Claude Gilbert,L,10,21
+1989-10-28,Long Beach State,Big West,Larry Reisbig,A,Oregon,Pac-10,Rich Brooks,L,10,52
+1989-11-04,Long Beach State,Big West,Larry Reisbig,A,Nevada-Las Vegas,Big West,Wayne Nunnely,L,21,43
+1989-11-11,Long Beach State,Big West,Larry Reisbig,A,Cal State Fullerton,Big West,Gene Murphy,L,13,31
+1989-11-25,Long Beach State,Big West,Larry Reisbig,H,Utah State,Big West,Chuck Shelton,W,31,18
+1989-09-09,Utah State,Big West,Chuck Shelton,A,Utah,WAC,Jim Fassel,L,10,45
+1989-09-16,Utah State,Big West,Chuck Shelton,A,USC,Pac-10,Larry Smith,L,10,66
+1989-09-23,Utah State,Big West,Chuck Shelton,A,Illinois,Big Ten,John Mackovic,L,2,41
+1989-09-30,Utah State,Big West,Chuck Shelton,H,Brigham Young,WAC,LaVell Edwards,L,10,37
+1989-10-07,Utah State,Big West,Chuck Shelton,H,Cal State Fullerton,Big West,Gene Murphy,W,34,23
+1989-10-14,Utah State,Big West,Chuck Shelton,H,Fresno State,Big West,Jim Sweeney,L,7,34
+1989-10-21,Utah State,Big West,Chuck Shelton,A,New Mexico State,Big West,Mike Knoll,W,28,13
+1989-11-04,Utah State,Big West,Chuck Shelton,A,Pacific,Big West,Walt Harris,W,38,10
+1989-11-11,Utah State,Big West,Chuck Shelton,H,San Jose State,Big West,Claude Gilbert,L,7,33
+1989-11-18,Utah State,Big West,Chuck Shelton,A,Nevada-Las Vegas,Big West,Wayne Nunnely,W,27,22
+1989-11-25,Utah State,Big West,Chuck Shelton,A,Long Beach State,Big West,Larry Reisbig,L,18,31
+1989-09-09,Missouri,Big 8,Bob Stull,H,Texas Christian,SWC,Jim Wacker,W,14,10
+1989-09-16,Missouri,Big 8,Bob Stull,A,Indiana,Big Ten,Bill Mallory,L,7,24
+1989-09-23,Missouri,Big 8,Bob Stull,H,Miami (FL),Ind,Dennis Erickson,L,7,38
+1989-09-30,Missouri,Big 8,Bob Stull,A,Arizona State,Pac-10,Larry Marmie,L,3,19
+1989-10-07,Missouri,Big 8,Bob Stull,A,Colorado,Big 8,Bill McCartney,L,3,49
+1989-10-14,Missouri,Big 8,Bob Stull,H,Nebraska,Big 8,Tom Osborne,L,7,50
+1989-10-21,Missouri,Big 8,Bob Stull,A,Kansas State,Big 8,Bill Snyder,W,21,9
+1989-10-28,Missouri,Big 8,Bob Stull,H,Oklahoma State,Big 8,Pat Jones,L,30,31
+1989-11-04,Missouri,Big 8,Bob Stull,A,Oklahoma,Big 8,Gary Gibbs,L,14,52
+1989-11-11,Missouri,Big 8,Bob Stull,H,Iowa State,Big 8,Jim Walden,L,21,35
+1989-11-18,Missouri,Big 8,Bob Stull,H,Kansas,Big 8,Glen Mason,L,44,46
+1989-09-16,San Jose State,Big West,Claude Gilbert,A,Arizona State,Pac-10,Larry Marmie,L,21,28
+1989-09-23,San Jose State,Big West,Claude Gilbert,H,Pacific,Big West,Walt Harris,W,41,32
+1989-09-30,San Jose State,Big West,Claude Gilbert,A,Stanford,Pac-10,Dennis Green,W,40,33
+1989-10-07,San Jose State,Big West,Claude Gilbert,A,California,Pac-10,Bruce Snyder,L,21,26
+1989-10-14,San Jose State,Big West,Claude Gilbert,A,Miami (FL),Ind,Dennis Erickson,L,16,48
+1989-10-21,San Jose State,Big West,Claude Gilbert,A,Long Beach State,Big West,Larry Reisbig,W,21,10
+1989-10-28,San Jose State,Big West,Claude Gilbert,H,New Mexico State,Big West,Mike Knoll,W,34,6
+1989-11-04,San Jose State,Big West,Claude Gilbert,A,Fresno State,Big West,Jim Sweeney,L,30,31
+1989-11-11,San Jose State,Big West,Claude Gilbert,A,Utah State,Big West,Chuck Shelton,W,33,7
+1989-11-18,San Jose State,Big West,Claude Gilbert,H,Cal State Fullerton,Big West,Gene Murphy,L,14,28
+1989-11-25,San Jose State,Big West,Claude Gilbert,H,Nevada-Las Vegas,Big West,Wayne Nunnely,W,38,28
+1989-09-09,Bowling Green State,MAC,Moe Ankney,A,East Carolina,Ind,Bill Lewis,L,6,41
+1989-09-16,Bowling Green State,MAC,Moe Ankney,H,Ball State,MAC,Paul Schudel,L,3,28
+1989-09-23,Bowling Green State,MAC,Moe Ankney,H,Central Michigan,MAC,Herb Deromedi,W,24,20
+1989-09-30,Bowling Green State,MAC,Moe Ankney,H,Akron,Ind,Gerry Faust,L,24,38
+1989-10-07,Bowling Green State,MAC,Moe Ankney,A,Ohio,MAC,Cleve Bryant,W,31,28
+1989-10-14,Bowling Green State,MAC,Moe Ankney,H,Toledo,MAC,Dan Simrell,W,27,23
+1989-10-21,Bowling Green State,MAC,Moe Ankney,A,Eastern Michigan,MAC,Jim Harkema,L,13,21
+1989-10-28,Bowling Green State,MAC,Moe Ankney,A,Miami (OH),MAC,Tim Rose,L,13,17
+1989-11-04,Bowling Green State,MAC,Moe Ankney,H,Kent State,MAC,Dick Crum,W,51,28
+1989-11-11,Bowling Green State,MAC,Moe Ankney,A,Western Michigan,MAC,Al Molde,W,31,30
+1989-11-18,Bowling Green State,MAC,Moe Ankney,A,Tulsa,Ind,David Rader,L,10,45
+1989-09-09,Wisconsin,Big Ten,Don Morton,H,Miami (FL),Ind,Dennis Erickson,L,3,51
+1989-09-16,Wisconsin,Big Ten,Don Morton,H,Toledo,MAC,Dan Simrell,W,23,10
+1989-09-23,Wisconsin,Big Ten,Don Morton,A,California,Pac-10,Bruce Snyder,L,14,20
+1989-10-07,Wisconsin,Big Ten,Don Morton,A,Michigan,Big Ten,Bo Schembechler,L,0,24
+1989-10-14,Wisconsin,Big Ten,Don Morton,H,Iowa,Big Ten,Hayden Fry,L,24,31
+1989-10-21,Wisconsin,Big Ten,Don Morton,H,Northwestern,Big Ten,Francis Peay,W,35,31
+1989-10-28,Wisconsin,Big Ten,Don Morton,A,Illinois,Big Ten,John Mackovic,L,9,32
+1989-11-04,Wisconsin,Big Ten,Don Morton,A,Minnesota,Big Ten,John Gutekunst,L,22,24
+1989-11-11,Wisconsin,Big Ten,Don Morton,H,Indiana,Big Ten,Bill Mallory,L,17,45
+1989-11-18,Wisconsin,Big Ten,Don Morton,A,Ohio State,Big Ten,John Cooper,L,22,42
+1989-11-25,Wisconsin,Big Ten,Don Morton,H,Michigan State,Big Ten,George Perles,L,3,31
+1989-09-04,USC,Pac-10,Larry Smith,H,Illinois,Big Ten,John Mackovic,L,13,14
+1989-09-16,USC,Pac-10,Larry Smith,H,Utah State,Big West,Chuck Shelton,W,66,10
+1989-09-23,USC,Pac-10,Larry Smith,H,Ohio State,Big Ten,John Cooper,W,42,3
+1989-09-30,USC,Pac-10,Larry Smith,A,Washington State,Pac-10,Mike Price,W,18,17
+1989-10-07,USC,Pac-10,Larry Smith,H,Washington,Pac-10,Don James,W,24,16
+1989-10-14,USC,Pac-10,Larry Smith,A,California,Pac-10,Bruce Snyder,W,31,15
+1989-10-21,USC,Pac-10,Larry Smith,A,Notre Dame,Ind,Lou Holtz,L,24,28
+1989-10-28,USC,Pac-10,Larry Smith,H,Stanford,Pac-10,Dennis Green,W,19,0
+1989-11-04,USC,Pac-10,Larry Smith,H,Oregon State,Pac-10,Dave Kragthorpe,W,48,6
+1989-11-11,USC,Pac-10,Larry Smith,A,Arizona,Pac-10,Dick Tomey,W,24,3
+1989-11-18,USC,Pac-10,Larry Smith,H,UCLA,Pac-10,Terry Donahue,T,10,10
+1990-01-01,USC,Pac-10,Larry Smith,H,Michigan,Big Ten,Bo Schembechler,W,17,10
+1989-09-02,North Carolina State,ACC,Dick Sheridan,H,Maryland,ACC,Joe Krivak,W,10,6
+1989-09-09,North Carolina State,ACC,Dick Sheridan,H,Georgia Tech,ACC,Bobby Ross,W,38,28
+1989-09-16,North Carolina State,ACC,Dick Sheridan,A,Wake Forest,ACC,Bill Dooley,W,27,17
+1989-09-23,North Carolina State,ACC,Dick Sheridan,H,North Carolina,ACC,Mack Brown,W,40,6
+1989-09-30,North Carolina State,ACC,Dick Sheridan,H,Kent State,MAC,Dick Crum,W,42,22
+1989-10-21,North Carolina State,ACC,Dick Sheridan,A,Clemson,ACC,Danny Ford,L,10,30
+1989-10-28,North Carolina State,ACC,Dick Sheridan,A,South Carolina,Ind,Sparky Woods,W,20,10
+1989-11-04,North Carolina State,ACC,Dick Sheridan,H,Virginia,ACC,George Welsh,L,9,20
+1989-11-11,North Carolina State,ACC,Dick Sheridan,A,Duke,ACC,Steve Spurrier,L,26,35
+1989-11-18,North Carolina State,ACC,Dick Sheridan,H,Virginia Tech,Ind,Frank Beamer,L,23,25
+1989-12-31,North Carolina State,ACC,Dick Sheridan,A,Arizona,Pac-10,Dick Tomey,L,10,17
+1989-09-02,San Diego State,WAC,Al Luginbill,A,Air Force,WAC,Fisher DeBerry,L,36,52
+1989-09-16,San Diego State,WAC,Al Luginbill,H,UCLA,Pac-10,Terry Donahue,L,25,28
+1989-09-23,San Diego State,WAC,Al Luginbill,H,Cal State Fullerton,Big West,Gene Murphy,T,41,41
+1989-09-30,San Diego State,WAC,Al Luginbill,A,Utah,WAC,Jim Fassel,W,38,27
+1989-10-07,San Diego State,WAC,Al Luginbill,A,Hawaii,WAC,Bob Wagner,L,24,31
+1989-10-14,San Diego State,WAC,Al Luginbill,H,Long Beach State,Big West,Larry Reisbig,W,30,26
+1989-10-21,San Diego State,WAC,Al Luginbill,H,Pacific,Big West,Walt Harris,W,35,7
+1989-10-28,San Diego State,WAC,Al Luginbill,A,UTEP,WAC,David Lee,W,34,31
+1989-11-04,San Diego State,WAC,Al Luginbill,H,New Mexico,WAC,Mike Sheppard,W,45,28
+1989-11-11,San Diego State,WAC,Al Luginbill,H,Wyoming,WAC,Paul Roach,W,27,17
+1989-11-18,San Diego State,WAC,Al Luginbill,A,Miami (FL),Ind,Dennis Erickson,L,6,42
+1989-11-25,San Diego State,WAC,Al Luginbill,H,Brigham Young,WAC,LaVell Edwards,L,27,48
+1989-09-02,Hawaii,WAC,Bob Wagner,H,Tulane,Ind,Greg Davis,W,31,26
+1989-09-09,Hawaii,WAC,Bob Wagner,H,Long Beach State,Big West,Larry Reisbig,W,63,10
+1989-09-16,Hawaii,WAC,Bob Wagner,A,Wyoming,WAC,Paul Roach,L,15,20
+1989-09-23,Hawaii,WAC,Bob Wagner,H,Utah,WAC,Jim Fassel,W,67,20
+1989-09-30,Hawaii,WAC,Bob Wagner,H,New Mexico,WAC,Mike Sheppard,W,60,14
+1989-10-07,Hawaii,WAC,Bob Wagner,H,San Diego State,WAC,Al Luginbill,W,31,24
+1989-10-21,Hawaii,WAC,Bob Wagner,A,Colorado State,WAC,Earle Bruce,L,16,31
+1989-10-28,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,W,56,14
+1989-11-04,Hawaii,WAC,Bob Wagner,H,UTEP,WAC,David Lee,W,26,7
+1989-11-11,Hawaii,WAC,Bob Wagner,H,Pacific,Big West,Walt Harris,W,34,26
+1989-11-25,Hawaii,WAC,Bob Wagner,H,Oregon State,Pac-10,Dave Kragthorpe,W,23,21
+1989-12-09,Hawaii,WAC,Bob Wagner,H,Air Force,WAC,Fisher DeBerry,T,35,35
+1989-12-25,Hawaii,WAC,Bob Wagner,H,Michigan State,Big Ten,George Perles,L,13,33
+1989-09-02,Rutgers,Ind,Dick Anderson,A,Cincinnati,Ind,Tim Murphy,T,17,17
+1989-09-09,Rutgers,Ind,Dick Anderson,H,Ball State,MAC,Paul Schudel,T,31,31
+1989-09-16,Rutgers,Ind,Dick Anderson,H,Boston College,Ind,Jack Bicknell,W,9,7
+1989-09-23,Rutgers,Ind,Dick Anderson,A,Northwestern,Big Ten,Francis Peay,W,38,27
+1989-10-07,Rutgers,Ind,Dick Anderson,H,Penn State,Ind,Joe Paterno,L,0,17
+1989-10-14,Rutgers,Ind,Dick Anderson,A,Kentucky,SEC,Jerry Claiborne,L,26,33
+1989-10-21,Rutgers,Ind,Dick Anderson,H,Syracuse,Ind,Dick MacPherson,L,28,49
+1989-10-28,Rutgers,Ind,Dick Anderson,A,Army,Ind,Jim Young,L,14,35
+1989-11-11,Rutgers,Ind,Dick Anderson,A,West Virginia,Ind,Don Nehlen,L,20,21
+1989-11-18,Rutgers,Ind,Dick Anderson,A,Temple,Ind,Jerry Berndt,L,33,36
+1989-12-02,Rutgers,Ind,Dick Anderson,N,Pitt,Ind,Paul Hackett,L,29,46
+1989-09-02,Eastern Michigan,MAC,Jim Harkema,H,Kent State,MAC,Dick Crum,W,30,7
+1989-09-16,Eastern Michigan,MAC,Jim Harkema,A,Ohio,MAC,Cleve Bryant,W,30,25
+1989-09-23,Eastern Michigan,MAC,Jim Harkema,A,Colorado State,WAC,Earle Bruce,T,35,35
+1989-09-30,Eastern Michigan,MAC,Jim Harkema,A,Western Michigan,MAC,Al Molde,W,21,20
+1989-10-07,Eastern Michigan,MAC,Jim Harkema,H,Toledo,MAC,Dan Simrell,W,31,14
+1989-10-21,Eastern Michigan,MAC,Jim Harkema,H,Bowling Green State,MAC,Moe Ankney,W,21,13
+1989-10-28,Eastern Michigan,MAC,Jim Harkema,A,Central Michigan,MAC,Herb Deromedi,L,9,24
+1989-11-04,Eastern Michigan,MAC,Jim Harkema,H,Miami (OH),MAC,Tim Rose,W,20,7
+1989-11-11,Eastern Michigan,MAC,Jim Harkema,A,Ball State,MAC,Paul Schudel,L,17,23
+1989-09-09,Central Michigan,MAC,Herb Deromedi,A,Louisiana,Ind,Nelson Stokley,L,20,22
+1989-09-16,Central Michigan,MAC,Herb Deromedi,H,Akron,Ind,Gerry Faust,L,26,27
+1989-09-23,Central Michigan,MAC,Herb Deromedi,A,Bowling Green State,MAC,Moe Ankney,L,20,24
+1989-09-30,Central Michigan,MAC,Herb Deromedi,A,Miami (OH),MAC,Tim Rose,W,20,7
+1989-10-07,Central Michigan,MAC,Herb Deromedi,H,Kent State,MAC,Dick Crum,W,38,0
+1989-10-14,Central Michigan,MAC,Herb Deromedi,A,Western Michigan,MAC,Al Molde,W,34,6
+1989-10-28,Central Michigan,MAC,Herb Deromedi,H,Eastern Michigan,MAC,Jim Harkema,W,24,9
+1989-11-04,Central Michigan,MAC,Herb Deromedi,A,Ball State,MAC,Paul Schudel,T,13,13
+1989-11-11,Central Michigan,MAC,Herb Deromedi,H,Ohio,MAC,Cleve Bryant,W,24,15
+1989-11-18,Central Michigan,MAC,Herb Deromedi,A,Toledo,MAC,Dan Simrell,L,6,29
+1989-09-16,Michigan,Big Ten,Bo Schembechler,H,Notre Dame,Ind,Lou Holtz,L,19,24
+1989-09-23,Michigan,Big Ten,Bo Schembechler,A,UCLA,Pac-10,Terry Donahue,W,24,23
+1989-09-30,Michigan,Big Ten,Bo Schembechler,H,Maryland,ACC,Joe Krivak,W,41,21
+1989-10-07,Michigan,Big Ten,Bo Schembechler,H,Wisconsin,Big Ten,Don Morton,W,24,0
+1989-10-14,Michigan,Big Ten,Bo Schembechler,A,Michigan State,Big Ten,George Perles,W,10,7
+1989-10-21,Michigan,Big Ten,Bo Schembechler,A,Iowa,Big Ten,Hayden Fry,W,26,12
+1989-10-28,Michigan,Big Ten,Bo Schembechler,H,Indiana,Big Ten,Bill Mallory,W,38,10
+1989-11-04,Michigan,Big Ten,Bo Schembechler,H,Purdue,Big Ten,Fred Akers,W,42,27
+1989-11-11,Michigan,Big Ten,Bo Schembechler,A,Illinois,Big Ten,John Mackovic,W,24,10
+1989-11-18,Michigan,Big Ten,Bo Schembechler,A,Minnesota,Big Ten,John Gutekunst,W,49,15
+1989-11-25,Michigan,Big Ten,Bo Schembechler,H,Ohio State,Big Ten,John Cooper,W,28,18
+1990-01-01,Michigan,Big Ten,Bo Schembechler,A,USC,Pac-10,Larry Smith,L,10,17
+1989-09-02,Temple,Ind,Jerry Berndt,A,Western Michigan,MAC,Al Molde,L,24,31
+1989-09-09,Temple,Ind,Jerry Berndt,H,Syracuse,Ind,Dick MacPherson,L,3,43
+1989-09-16,Temple,Ind,Jerry Berndt,A,Penn State,Ind,Joe Paterno,L,3,42
+1989-09-23,Temple,Ind,Jerry Berndt,A,Virginia Tech,Ind,Frank Beamer,L,0,23
+1989-09-30,Temple,Ind,Jerry Berndt,A,Houston,SWC,Jack Pardee,L,7,65
+1989-10-07,Temple,Ind,Jerry Berndt,H,Pitt,Ind,Paul Hackett,L,3,27
+1989-10-14,Temple,Ind,Jerry Berndt,A,Boston College,Ind,Jack Bicknell,L,14,35
+1989-10-28,Temple,Ind,Jerry Berndt,H,Northern Illinois,Ind,Jerry Pettibone,L,17,20
+1989-11-04,Temple,Ind,Jerry Berndt,A,Georgia,SEC,Ray Goff,L,10,37
+1989-11-11,Temple,Ind,Jerry Berndt,A,East Carolina,Ind,Bill Lewis,L,24,31
+1989-11-18,Temple,Ind,Jerry Berndt,H,Rutgers,Ind,Dick Anderson,W,36,33
+1989-09-02,New Mexico,WAC,Mike Sheppard,H,Brigham Young,WAC,LaVell Edwards,L,3,24
+1989-09-09,New Mexico,WAC,Mike Sheppard,H,New Mexico State,Big West,Mike Knoll,W,45,13
+1989-09-16,New Mexico,WAC,Mike Sheppard,A,Texas Tech,SWC,Spike Dykes,L,20,27
+1989-09-23,New Mexico,WAC,Mike Sheppard,A,Tulsa,Ind,David Rader,L,33,35
+1989-09-30,New Mexico,WAC,Mike Sheppard,A,Hawaii,WAC,Bob Wagner,L,14,60
+1989-10-07,New Mexico,WAC,Mike Sheppard,H,Colorado State,WAC,Earle Bruce,L,20,34
+1989-10-14,New Mexico,WAC,Mike Sheppard,A,UTEP,WAC,David Lee,L,7,26
+1989-10-21,New Mexico,WAC,Mike Sheppard,A,Florida,SEC,Gary Darnell,L,21,27
+1989-10-28,New Mexico,WAC,Mike Sheppard,H,Wyoming,WAC,Paul Roach,L,23,24
+1989-11-04,New Mexico,WAC,Mike Sheppard,A,San Diego State,WAC,Al Luginbill,L,28,45
+1989-11-11,New Mexico,WAC,Mike Sheppard,A,Utah,WAC,Jim Fassel,L,39,41
+1989-11-18,New Mexico,WAC,Mike Sheppard,H,Fresno State,Big West,Jim Sweeney,W,45,22
+1989-09-02,Pacific,Big West,Walt Harris,A,Pitt,Ind,Paul Hackett,L,3,38
+1989-09-09,Pacific,Big West,Walt Harris,A,Auburn,SEC,Pat Dye,L,0,55
+1989-09-16,Pacific,Big West,Walt Harris,H,Fresno State,Big West,Jim Sweeney,L,14,27
+1989-09-23,Pacific,Big West,Walt Harris,A,San Jose State,Big West,Claude Gilbert,L,32,41
+1989-09-30,Pacific,Big West,Walt Harris,H,Long Beach State,Big West,Larry Reisbig,W,26,25
+1989-10-07,Pacific,Big West,Walt Harris,A,Nevada-Las Vegas,Big West,Wayne Nunnely,L,7,30
+1989-10-14,Pacific,Big West,Walt Harris,H,Cal State Fullerton,Big West,Gene Murphy,L,26,35
+1989-10-21,Pacific,Big West,Walt Harris,A,San Diego State,WAC,Al Luginbill,L,7,35
+1989-10-28,Pacific,Big West,Walt Harris,A,Arizona,Pac-10,Dick Tomey,L,14,38
+1989-11-04,Pacific,Big West,Walt Harris,H,Utah State,Big West,Chuck Shelton,L,10,38
+1989-11-11,Pacific,Big West,Walt Harris,A,Hawaii,WAC,Bob Wagner,L,26,34
+1989-11-18,Pacific,Big West,Walt Harris,A,New Mexico State,Big West,Mike Knoll,W,14,10
+1989-08-31,Notre Dame,Ind,Lou Holtz,N,Virginia,ACC,George Welsh,W,36,13
+1989-09-16,Notre Dame,Ind,Lou Holtz,A,Michigan,Big Ten,Bo Schembechler,W,24,19
+1989-09-23,Notre Dame,Ind,Lou Holtz,H,Michigan State,Big Ten,George Perles,W,21,13
+1989-09-30,Notre Dame,Ind,Lou Holtz,A,Purdue,Big Ten,Fred Akers,W,40,7
+1989-10-07,Notre Dame,Ind,Lou Holtz,A,Stanford,Pac-10,Dennis Green,W,27,17
+1989-10-14,Notre Dame,Ind,Lou Holtz,A,Air Force,WAC,Fisher DeBerry,W,41,27
+1989-10-21,Notre Dame,Ind,Lou Holtz,H,USC,Pac-10,Larry Smith,W,28,24
+1989-10-28,Notre Dame,Ind,Lou Holtz,H,Pitt,Ind,Paul Hackett,W,45,7
+1989-11-04,Notre Dame,Ind,Lou Holtz,H,Navy,Ind,Elliot Uzelac,W,41,0
+1989-11-11,Notre Dame,Ind,Lou Holtz,H,SMU,SWC,Forrest Gregg,W,59,6
+1989-11-18,Notre Dame,Ind,Lou Holtz,A,Penn State,Ind,Joe Paterno,W,34,23
+1989-11-25,Notre Dame,Ind,Lou Holtz,A,Miami (FL),Ind,Dennis Erickson,L,10,27
+1990-01-01,Notre Dame,Ind,Lou Holtz,N,Colorado,Big 8,Bill McCartney,W,21,6
+1989-09-02,Louisiana,Ind,Nelson Stokley,H,Louisiana Tech,Ind,Joe Peace,L,14,40
+1989-09-09,Louisiana,Ind,Nelson Stokley,H,Central Michigan,MAC,Herb Deromedi,W,22,20
+1989-09-16,Louisiana,Ind,Nelson Stokley,A,Tulane,Ind,Greg Davis,L,10,17
+1989-09-23,Louisiana,Ind,Nelson Stokley,A,Rice,SWC,Fred Goldsmith,W,18,3
+1989-10-07,Louisiana,Ind,Nelson Stokley,H,Tulsa,Ind,David Rader,W,21,13
+1989-10-14,Louisiana,Ind,Nelson Stokley,A,Alabama,SEC,Bill Curry,L,17,24
+1989-10-21,Louisiana,Ind,Nelson Stokley,A,Southern Mississippi,Ind,Curley Hallman,W,24,21
+1989-11-04,Louisiana,Ind,Nelson Stokley,A,Northern Illinois,Ind,Jerry Pettibone,L,20,23
+1989-09-09,East Carolina,Ind,Bill Lewis,H,Bowling Green State,MAC,Moe Ankney,W,41,6
+1989-09-16,East Carolina,Ind,Bill Lewis,A,Cincinnati,Ind,Tim Murphy,W,21,14
+1989-09-30,East Carolina,Ind,Bill Lewis,H,Louisiana Tech,Ind,Joe Peace,T,29,29
+1989-10-07,East Carolina,Ind,Bill Lewis,A,South Carolina,Ind,Sparky Woods,L,14,47
+1989-10-21,East Carolina,Ind,Bill Lewis,H,Virginia Tech,Ind,Frank Beamer,W,14,10
+1989-10-28,East Carolina,Ind,Bill Lewis,A,Syracuse,Ind,Dick MacPherson,L,16,18
+1989-11-04,East Carolina,Ind,Bill Lewis,A,Miami (FL),Ind,Dennis Erickson,L,10,40
+1989-11-11,East Carolina,Ind,Bill Lewis,H,Temple,Ind,Jerry Berndt,W,31,24
+1989-11-18,East Carolina,Ind,Bill Lewis,A,Pitt,Ind,Paul Hackett,L,42,47
+1989-11-25,East Carolina,Ind,Bill Lewis,A,Southern Mississippi,Ind,Curley Hallman,L,27,41
+1989-09-02,Toledo,MAC,Dan Simrell,H,Ohio,MAC,Cleve Bryant,W,27,18
+1989-09-16,Toledo,MAC,Dan Simrell,A,Wisconsin,Big Ten,Don Morton,L,10,23
+1989-09-23,Toledo,MAC,Dan Simrell,H,Ball State,MAC,Paul Schudel,W,29,22
+1989-09-30,Toledo,MAC,Dan Simrell,A,Indiana,Big Ten,Bill Mallory,L,12,32
+1989-10-07,Toledo,MAC,Dan Simrell,A,Eastern Michigan,MAC,Jim Harkema,L,14,31
+1989-10-14,Toledo,MAC,Dan Simrell,A,Bowling Green State,MAC,Moe Ankney,L,23,27
+1989-10-21,Toledo,MAC,Dan Simrell,H,Miami (OH),MAC,Tim Rose,W,17,14
+1989-10-28,Toledo,MAC,Dan Simrell,A,Kent State,MAC,Dick Crum,W,47,42
+1989-11-04,Toledo,MAC,Dan Simrell,H,Western Michigan,MAC,Al Molde,W,19,18
+1989-11-11,Toledo,MAC,Dan Simrell,A,Northern Illinois,Ind,Jerry Pettibone,L,27,39
+1989-11-18,Toledo,MAC,Dan Simrell,H,Central Michigan,MAC,Herb Deromedi,W,29,6
+1989-09-02,Pitt,Ind,Paul Hackett,H,Pacific,Big West,Walt Harris,W,38,3
+1989-09-09,Pitt,Ind,Paul Hackett,A,Boston College,Ind,Jack Bicknell,W,29,10
+1989-09-23,Pitt,Ind,Paul Hackett,H,Syracuse,Ind,Dick MacPherson,W,30,23
+1989-09-30,Pitt,Ind,Paul Hackett,A,West Virginia,Ind,Don Nehlen,T,31,31
+1989-10-07,Pitt,Ind,Paul Hackett,A,Temple,Ind,Jerry Berndt,W,27,3
+1989-10-14,Pitt,Ind,Paul Hackett,H,Navy,Ind,Elliot Uzelac,W,31,14
+1989-10-28,Pitt,Ind,Paul Hackett,A,Notre Dame,Ind,Lou Holtz,L,7,45
+1989-11-11,Pitt,Ind,Paul Hackett,H,Miami (FL),Ind,Dennis Erickson,L,3,24
+1989-11-18,Pitt,Ind,Paul Hackett,H,East Carolina,Ind,Bill Lewis,W,47,42
+1989-11-25,Pitt,Ind,Paul Hackett,H,Penn State,Ind,Joe Paterno,L,13,16
+1989-12-02,Pitt,Ind,Paul Hackett,N,Rutgers,Ind,Dick Anderson,W,46,29
+1989-12-30,Pitt,Ind,Paul Hackett,N,Texas A&M,SWC,R.C. Slocum,W,31,28
+1989-09-02,Akron,Ind,Gerry Faust,A,Virginia Tech,Ind,Frank Beamer,L,3,29
+1989-09-09,Akron,Ind,Gerry Faust,H,Kent State,MAC,Dick Crum,W,40,7
+1989-09-16,Akron,Ind,Gerry Faust,A,Central Michigan,MAC,Herb Deromedi,W,27,26
+1989-09-30,Akron,Ind,Gerry Faust,A,Bowling Green State,MAC,Moe Ankney,W,38,24
+1989-10-07,Akron,Ind,Gerry Faust,H,Louisiana Tech,Ind,Joe Peace,W,31,24
+1989-10-28,Akron,Ind,Gerry Faust,H,Cincinnati,Ind,Tim Murphy,W,31,0
+1989-11-11,Akron,Ind,Gerry Faust,A,Tennessee,SEC,Johnny Majors,L,9,52
+1989-09-02,Wyoming,WAC,Paul Roach,H,Louisville,Ind,Howard Schnellenberger,L,21,28
+1989-09-10,Wyoming,WAC,Paul Roach,A,Air Force,WAC,Fisher DeBerry,L,7,45
+1989-09-16,Wyoming,WAC,Paul Roach,H,Hawaii,WAC,Bob Wagner,W,20,15
+1989-09-23,Wyoming,WAC,Paul Roach,H,Washington State,Pac-10,Mike Price,L,23,29
+1989-09-30,Wyoming,WAC,Paul Roach,A,Oklahoma State,Big 8,Pat Jones,L,7,27
+1989-10-07,Wyoming,WAC,Paul Roach,A,Brigham Young,WAC,LaVell Edwards,L,20,36
+1989-10-14,Wyoming,WAC,Paul Roach,H,Utah,WAC,Jim Fassel,W,45,24
+1989-10-28,Wyoming,WAC,Paul Roach,A,New Mexico,WAC,Mike Sheppard,W,24,23
+1989-11-04,Wyoming,WAC,Paul Roach,H,Colorado State,WAC,Earle Bruce,W,56,35
+1989-11-11,Wyoming,WAC,Paul Roach,A,San Diego State,WAC,Al Luginbill,L,17,27
+1989-11-19,Wyoming,WAC,Paul Roach,H,UTEP,WAC,David Lee,W,41,10
+1989-09-02,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,24,3
+1989-09-07,Brigham Young,WAC,LaVell Edwards,H,Washington State,Pac-10,Mike Price,L,41,46
+1989-09-16,Brigham Young,WAC,LaVell Edwards,A,Navy,Ind,Elliot Uzelac,W,31,10
+1989-09-30,Brigham Young,WAC,LaVell Edwards,A,Utah State,Big West,Chuck Shelton,W,37,10
+1989-10-07,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Paul Roach,W,36,20
+1989-10-14,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Earle Bruce,W,45,16
+1989-10-21,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,David Lee,W,49,24
+1989-10-28,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,14,56
+1989-11-04,Brigham Young,WAC,LaVell Edwards,H,Oregon,Pac-10,Rich Brooks,W,45,41
+1989-11-11,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,44,35
+1989-11-18,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,70,31
+1989-11-25,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,W,48,27
+1989-12-29,Brigham Young,WAC,LaVell Edwards,N,Penn State,Ind,Joe Paterno,L,39,50
+1989-09-09,Georgia Tech,ACC,Bobby Ross,A,North Carolina State,ACC,Dick Sheridan,L,28,38
+1989-09-16,Georgia Tech,ACC,Bobby Ross,H,Virginia,ACC,George Welsh,L,10,17
+1989-09-23,Georgia Tech,ACC,Bobby Ross,A,South Carolina,Ind,Sparky Woods,L,10,21
+1989-10-07,Georgia Tech,ACC,Bobby Ross,H,Maryland,ACC,Joe Krivak,W,28,24
+1989-10-14,Georgia Tech,ACC,Bobby Ross,A,Clemson,ACC,Danny Ford,W,30,14
+1989-10-21,Georgia Tech,ACC,Bobby Ross,H,North Carolina,ACC,Mack Brown,W,17,14
+1989-10-28,Georgia Tech,ACC,Bobby Ross,A,Duke,ACC,Steve Spurrier,L,19,30
+1989-11-18,Georgia Tech,ACC,Bobby Ross,H,Wake Forest,ACC,Bill Dooley,W,43,14
+1989-11-25,Georgia Tech,ACC,Bobby Ross,H,Boston College,Ind,Jack Bicknell,W,13,12
+1989-12-02,Georgia Tech,ACC,Bobby Ross,H,Georgia,SEC,Ray Goff,W,33,22
+1989-09-16,Wake Forest,ACC,Bill Dooley,H,North Carolina State,ACC,Dick Sheridan,L,17,27
+1989-09-23,Wake Forest,ACC,Bill Dooley,A,Army,Ind,Jim Young,L,10,14
+1989-09-30,Wake Forest,ACC,Bill Dooley,H,Rice,SWC,Fred Goldsmith,T,17,17
+1989-10-07,Wake Forest,ACC,Bill Dooley,A,North Carolina,ACC,Mack Brown,W,17,16
+1989-10-14,Wake Forest,ACC,Bill Dooley,H,Maryland,ACC,Joe Krivak,L,7,27
+1989-10-21,Wake Forest,ACC,Bill Dooley,A,Virginia,ACC,George Welsh,L,28,47
+1989-10-28,Wake Forest,ACC,Bill Dooley,A,Clemson,ACC,Danny Ford,L,10,44
+1989-11-04,Wake Forest,ACC,Bill Dooley,H,Duke,ACC,Steve Spurrier,L,35,52
+1989-11-11,Wake Forest,ACC,Bill Dooley,H,Tulsa,Ind,David Rader,W,29,17
+1989-11-18,Wake Forest,ACC,Bill Dooley,A,Georgia Tech,ACC,Bobby Ross,L,14,43
+1989-09-02,Mississippi State,SEC,Rockey Felker,H,Vanderbilt,SEC,Watson Brown,W,42,7
+1989-09-09,Mississippi State,SEC,Rockey Felker,A,Southern Mississippi,Ind,Curley Hallman,W,26,23
+1989-09-23,Mississippi State,SEC,Rockey Felker,A,Georgia,SEC,Ray Goff,L,6,23
+1989-09-30,Mississippi State,SEC,Rockey Felker,A,Florida,SEC,Gary Darnell,L,0,21
+1989-10-21,Mississippi State,SEC,Rockey Felker,H,Memphis,Ind,Chuck Stobart,W,35,10
+1989-10-28,Mississippi State,SEC,Rockey Felker,A,Auburn,SEC,Pat Dye,L,0,14
+1989-11-04,Mississippi State,SEC,Rockey Felker,A,Alabama,SEC,Bill Curry,L,10,23
+1989-11-11,Mississippi State,SEC,Rockey Felker,H,Tulane,Ind,Greg Davis,W,27,7
+1989-11-18,Mississippi State,SEC,Rockey Felker,A,LSU,SEC,Mike Archer,L,20,44
+1989-11-25,Mississippi State,SEC,Rockey Felker,N,Ole Miss,SEC,Billy Brewer,L,11,21
+1989-09-02,Nevada-Las Vegas,Big West,Wayne Nunnely,H,Houston,SWC,Jack Pardee,L,0,69
+1989-09-23,Nevada-Las Vegas,Big West,Wayne Nunnely,H,New Mexico State,Big West,Mike Knoll,W,26,14
+1989-09-30,Nevada-Las Vegas,Big West,Wayne Nunnely,A,Cal State Fullerton,Big West,Gene Murphy,L,20,34
+1989-10-07,Nevada-Las Vegas,Big West,Wayne Nunnely,H,Pacific,Big West,Walt Harris,W,30,7
+1989-10-21,Nevada-Las Vegas,Big West,Wayne Nunnely,A,Northern Illinois,Ind,Jerry Pettibone,L,24,42
+1989-10-28,Nevada-Las Vegas,Big West,Wayne Nunnely,A,Fresno State,Big West,Jim Sweeney,L,17,31
+1989-11-04,Nevada-Las Vegas,Big West,Wayne Nunnely,H,Long Beach State,Big West,Larry Reisbig,W,43,21
+1989-11-18,Nevada-Las Vegas,Big West,Wayne Nunnely,H,Utah State,Big West,Chuck Shelton,L,22,27
+1989-11-25,Nevada-Las Vegas,Big West,Wayne Nunnely,A,San Jose State,Big West,Claude Gilbert,L,28,38
+1989-09-02,Memphis,Ind,Chuck Stobart,H,Ole Miss,SEC,Billy Brewer,L,13,20
+1989-09-16,Memphis,Ind,Chuck Stobart,A,Alabama,SEC,Bill Curry,L,7,35
+1989-09-23,Memphis,Ind,Chuck Stobart,H,Florida,SEC,Gary Darnell,L,13,38
+1989-10-07,Memphis,Ind,Chuck Stobart,H,Vanderbilt,SEC,Watson Brown,W,13,10
+1989-10-14,Memphis,Ind,Chuck Stobart,A,Cincinnati,Ind,Tim Murphy,W,34,17
+1989-10-21,Memphis,Ind,Chuck Stobart,A,Mississippi State,SEC,Rockey Felker,L,10,35
+1989-10-28,Memphis,Ind,Chuck Stobart,H,Southern Mississippi,Ind,Curley Hallman,L,7,31
+1989-11-04,Memphis,Ind,Chuck Stobart,A,Tulane,Ind,Greg Davis,L,34,38
+1989-11-11,Memphis,Ind,Chuck Stobart,H,Louisville,Ind,Howard Schnellenberger,L,10,40
+1989-11-18,Memphis,Ind,Chuck Stobart,A,Florida State,Ind,Bobby Bowden,L,20,57
+1989-09-09,Kansas State,Big 8,Bill Snyder,A,Arizona State,Pac-10,Larry Marmie,L,0,31
+1989-09-23,Kansas State,Big 8,Bill Snyder,H,Northern Illinois,Ind,Jerry Pettibone,L,20,37
+1989-10-07,Kansas State,Big 8,Bill Snyder,A,Nebraska,Big 8,Tom Osborne,L,7,58
+1989-10-14,Kansas State,Big 8,Bill Snyder,A,Oklahoma State,Big 8,Pat Jones,L,13,17
+1989-10-21,Kansas State,Big 8,Bill Snyder,H,Missouri,Big 8,Bob Stull,L,9,21
+1989-10-28,Kansas State,Big 8,Bill Snyder,H,Kansas,Big 8,Glen Mason,L,16,21
+1989-11-04,Kansas State,Big 8,Bill Snyder,A,Iowa State,Big 8,Jim Walden,L,11,36
+1989-11-11,Kansas State,Big 8,Bill Snyder,A,Oklahoma,Big 8,Gary Gibbs,L,19,42
+1989-11-18,Kansas State,Big 8,Bill Snyder,H,Colorado,Big 8,Bill McCartney,L,11,59
+1989-09-16,Army,Ind,Jim Young,A,Syracuse,Ind,Dick MacPherson,L,7,10
+1989-09-23,Army,Ind,Jim Young,H,Wake Forest,ACC,Bill Dooley,W,14,10
+1989-10-07,Army,Ind,Jim Young,A,Duke,ACC,Steve Spurrier,L,29,35
+1989-10-28,Army,Ind,Jim Young,H,Rutgers,Ind,Dick Anderson,W,35,14
+1989-11-04,Army,Ind,Jim Young,A,Air Force,WAC,Fisher DeBerry,L,3,29
+1989-11-11,Army,Ind,Jim Young,H,Boston College,Ind,Jack Bicknell,L,17,24
+1989-12-09,Army,Ind,Jim Young,H,Navy,Ind,Elliot Uzelac,L,17,19
+1989-09-09,UCLA,Pac-10,Terry Donahue,H,Tennessee,SEC,Johnny Majors,L,6,24
+1989-09-16,UCLA,Pac-10,Terry Donahue,A,San Diego State,WAC,Al Luginbill,W,28,25
+1989-09-23,UCLA,Pac-10,Terry Donahue,H,Michigan,Big Ten,Bo Schembechler,L,23,24
+1989-09-30,UCLA,Pac-10,Terry Donahue,H,California,Pac-10,Bruce Snyder,W,24,6
+1989-10-07,UCLA,Pac-10,Terry Donahue,H,Arizona State,Pac-10,Larry Marmie,W,33,14
+1989-10-14,UCLA,Pac-10,Terry Donahue,A,Arizona,Pac-10,Dick Tomey,L,7,42
+1989-10-21,UCLA,Pac-10,Terry Donahue,A,Oregon State,Pac-10,Dave Kragthorpe,L,17,18
+1989-10-28,UCLA,Pac-10,Terry Donahue,H,Washington,Pac-10,Don James,L,27,28
+1989-11-04,UCLA,Pac-10,Terry Donahue,A,Stanford,Pac-10,Dennis Green,L,14,17
+1989-11-11,UCLA,Pac-10,Terry Donahue,H,Oregon,Pac-10,Rich Brooks,L,20,38
+1989-11-18,UCLA,Pac-10,Terry Donahue,A,USC,Pac-10,Larry Smith,T,10,10
+1989-09-09,Auburn,SEC,Pat Dye,H,Pacific,Big West,Walt Harris,W,55,0
+1989-09-16,Auburn,SEC,Pat Dye,H,Southern Mississippi,Ind,Curley Hallman,W,24,3
+1989-09-30,Auburn,SEC,Pat Dye,A,Tennessee,SEC,Johnny Majors,L,14,21
+1989-10-07,Auburn,SEC,Pat Dye,A,Kentucky,SEC,Jerry Claiborne,W,24,12
+1989-10-14,Auburn,SEC,Pat Dye,H,LSU,SEC,Mike Archer,W,10,6
+1989-10-21,Auburn,SEC,Pat Dye,A,Florida State,Ind,Bobby Bowden,L,14,22
+1989-10-28,Auburn,SEC,Pat Dye,H,Mississippi State,SEC,Rockey Felker,W,14,0
+1989-11-04,Auburn,SEC,Pat Dye,H,Florida,SEC,Gary Darnell,W,10,7
+1989-11-11,Auburn,SEC,Pat Dye,H,Louisiana Tech,Ind,Joe Peace,W,38,23
+1989-11-18,Auburn,SEC,Pat Dye,A,Georgia,SEC,Ray Goff,W,20,3
+1989-12-02,Auburn,SEC,Pat Dye,H,Alabama,SEC,Bill Curry,W,30,20
+1990-01-01,Auburn,SEC,Pat Dye,N,Ohio State,Big Ten,John Cooper,W,31,14
+1989-09-09,Northwestern,Big Ten,Francis Peay,A,Duke,ACC,Steve Spurrier,L,31,41
+1989-09-16,Northwestern,Big Ten,Francis Peay,H,Air Force,WAC,Fisher DeBerry,L,31,48
+1989-09-23,Northwestern,Big Ten,Francis Peay,H,Rutgers,Ind,Dick Anderson,L,27,38
+1989-10-07,Northwestern,Big Ten,Francis Peay,A,Indiana,Big Ten,Bill Mallory,L,11,43
+1989-10-14,Northwestern,Big Ten,Francis Peay,H,Minnesota,Big Ten,John Gutekunst,L,18,20
+1989-10-21,Northwestern,Big Ten,Francis Peay,A,Wisconsin,Big Ten,Don Morton,L,31,35
+1989-10-28,Northwestern,Big Ten,Francis Peay,H,Iowa,Big Ten,Hayden Fry,L,22,35
+1989-11-04,Northwestern,Big Ten,Francis Peay,H,Ohio State,Big Ten,John Cooper,L,27,52
+1989-11-11,Northwestern,Big Ten,Francis Peay,A,Purdue,Big Ten,Fred Akers,L,15,46
+1989-11-18,Northwestern,Big Ten,Francis Peay,A,Michigan State,Big Ten,George Perles,L,14,76
+1989-11-25,Northwestern,Big Ten,Francis Peay,H,Illinois,Big Ten,John Mackovic,L,14,63
+1989-09-09,Kansas,Big 8,Glen Mason,H,Louisville,Ind,Howard Schnellenberger,L,28,33
+1989-09-16,Kansas,Big 8,Glen Mason,H,Kent State,MAC,Dick Crum,W,28,21
+1989-09-23,Kansas,Big 8,Glen Mason,A,Baylor,SWC,Grant Teaff,L,3,46
+1989-09-30,Kansas,Big 8,Glen Mason,H,Oklahoma,Big 8,Gary Gibbs,L,6,45
+1989-10-07,Kansas,Big 8,Glen Mason,H,Iowa State,Big 8,Jim Walden,L,20,24
+1989-10-21,Kansas,Big 8,Glen Mason,A,Colorado,Big 8,Bill McCartney,L,17,49
+1989-10-28,Kansas,Big 8,Glen Mason,A,Kansas State,Big 8,Bill Snyder,W,21,16
+1989-11-04,Kansas,Big 8,Glen Mason,H,Oklahoma State,Big 8,Pat Jones,L,24,37
+1989-11-11,Kansas,Big 8,Glen Mason,A,Nebraska,Big 8,Tom Osborne,L,14,51
+1989-11-18,Kansas,Big 8,Glen Mason,A,Missouri,Big 8,Bob Stull,W,46,44
+1989-09-02,Western Michigan,MAC,Al Molde,H,Temple,Ind,Jerry Berndt,W,31,24
+1989-09-09,Western Michigan,MAC,Al Molde,H,Louisiana Tech,Ind,Joe Peace,W,24,20
+1989-09-16,Western Michigan,MAC,Al Molde,A,Maryland,ACC,Joe Krivak,L,0,23
+1989-09-23,Western Michigan,MAC,Al Molde,A,Kent State,MAC,Dick Crum,W,26,4
+1989-09-30,Western Michigan,MAC,Al Molde,H,Eastern Michigan,MAC,Jim Harkema,L,20,21
+1989-10-14,Western Michigan,MAC,Al Molde,H,Central Michigan,MAC,Herb Deromedi,L,6,34
+1989-10-21,Western Michigan,MAC,Al Molde,A,Ball State,MAC,Paul Schudel,L,13,14
+1989-10-28,Western Michigan,MAC,Al Molde,H,Ohio,MAC,Cleve Bryant,W,28,13
+1989-11-04,Western Michigan,MAC,Al Molde,A,Toledo,MAC,Dan Simrell,L,18,19
+1989-11-11,Western Michigan,MAC,Al Molde,H,Bowling Green State,MAC,Moe Ankney,L,30,31
+1989-11-18,Western Michigan,MAC,Al Molde,A,Miami (OH),MAC,Tim Rose,W,14,7
+1989-09-02,UTEP,WAC,David Lee,H,Tulsa,Ind,David Rader,L,14,23
+1989-09-16,UTEP,WAC,David Lee,A,New Mexico State,Big West,Mike Knoll,W,29,27
+1989-09-23,UTEP,WAC,David Lee,A,Air Force,WAC,Fisher DeBerry,L,26,43
+1989-09-30,UTEP,WAC,David Lee,A,Arkansas,SWC,Ken Hatfield,L,7,39
+1989-10-07,UTEP,WAC,David Lee,H,Utah,WAC,Jim Fassel,L,45,50
+1989-10-14,UTEP,WAC,David Lee,H,New Mexico,WAC,Mike Sheppard,W,26,7
+1989-10-21,UTEP,WAC,David Lee,A,Brigham Young,WAC,LaVell Edwards,L,24,49
+1989-10-28,UTEP,WAC,David Lee,H,San Diego State,WAC,Al Luginbill,L,31,34
+1989-11-04,UTEP,WAC,David Lee,A,Hawaii,WAC,Bob Wagner,L,7,26
+1989-11-11,UTEP,WAC,David Lee,H,Colorado State,WAC,Earle Bruce,L,0,52
+1989-11-19,UTEP,WAC,David Lee,A,Wyoming,WAC,Paul Roach,L,10,41
+1989-09-02,LSU,SEC,Mike Archer,A,Texas A&M,SWC,R.C. Slocum,L,16,28
+1989-09-16,LSU,SEC,Mike Archer,H,Florida State,Ind,Bobby Bowden,L,21,31
+1989-09-30,LSU,SEC,Mike Archer,H,Ohio,MAC,Cleve Bryant,W,57,6
+1989-10-07,LSU,SEC,Mike Archer,H,Florida,SEC,Gary Darnell,L,13,16
+1989-10-14,LSU,SEC,Mike Archer,A,Auburn,SEC,Pat Dye,L,6,10
+1989-10-21,LSU,SEC,Mike Archer,A,Kentucky,SEC,Jerry Claiborne,L,21,27
+1989-10-28,LSU,SEC,Mike Archer,H,Tennessee,SEC,Johnny Majors,L,39,45
+1989-11-04,LSU,SEC,Mike Archer,A,Ole Miss,SEC,Billy Brewer,W,35,30
+1989-11-11,LSU,SEC,Mike Archer,H,Alabama,SEC,Bill Curry,L,16,32
+1989-11-18,LSU,SEC,Mike Archer,H,Mississippi State,SEC,Rockey Felker,W,44,20
+1989-11-25,LSU,SEC,Mike Archer,A,Tulane,Ind,Greg Davis,W,27,7
+1989-09-02,Tulsa,Ind,David Rader,A,UTEP,WAC,David Lee,W,23,14
+1989-09-09,Tulsa,Ind,David Rader,H,Oklahoma State,Big 8,Pat Jones,W,20,10
+1989-09-16,Tulsa,Ind,David Rader,A,Arkansas,SWC,Ken Hatfield,L,7,26
+1989-09-23,Tulsa,Ind,David Rader,H,New Mexico,WAC,Mike Sheppard,W,35,33
+1989-09-30,Tulsa,Ind,David Rader,A,Iowa,Big Ten,Hayden Fry,L,22,30
+1989-10-07,Tulsa,Ind,David Rader,A,Louisiana,Ind,Nelson Stokley,L,13,21
+1989-10-14,Tulsa,Ind,David Rader,H,New Mexico State,Big West,Mike Knoll,W,34,13
+1989-10-21,Tulsa,Ind,David Rader,H,Louisville,Ind,Howard Schnellenberger,W,31,24
+1989-10-28,Tulsa,Ind,David Rader,A,Louisiana Tech,Ind,Joe Peace,L,31,34
+1989-11-11,Tulsa,Ind,David Rader,A,Wake Forest,ACC,Bill Dooley,L,17,29
+1989-11-18,Tulsa,Ind,David Rader,H,Bowling Green State,MAC,Moe Ankney,W,45,10
+1989-12-16,Tulsa,Ind,David Rader,N,Oregon,Pac-10,Rich Brooks,L,24,27
+1989-09-16,Iowa,Big Ten,Hayden Fry,H,Oregon,Pac-10,Rich Brooks,L,6,44
+1989-09-23,Iowa,Big Ten,Hayden Fry,A,Iowa State,Big 8,Jim Walden,W,31,21
+1989-09-30,Iowa,Big Ten,Hayden Fry,H,Tulsa,Ind,David Rader,W,30,22
+1989-10-07,Iowa,Big Ten,Hayden Fry,H,Michigan State,Big Ten,George Perles,L,14,17
+1989-10-14,Iowa,Big Ten,Hayden Fry,A,Wisconsin,Big Ten,Don Morton,W,31,24
+1989-10-21,Iowa,Big Ten,Hayden Fry,H,Michigan,Big Ten,Bo Schembechler,L,12,26
+1989-10-28,Iowa,Big Ten,Hayden Fry,A,Northwestern,Big Ten,Francis Peay,W,35,22
+1989-11-04,Iowa,Big Ten,Hayden Fry,H,Illinois,Big Ten,John Mackovic,L,7,31
+1989-11-11,Iowa,Big Ten,Hayden Fry,A,Ohio State,Big Ten,John Cooper,L,0,28
+1989-11-18,Iowa,Big Ten,Hayden Fry,A,Purdue,Big Ten,Fred Akers,W,24,0
+1989-11-25,Iowa,Big Ten,Hayden Fry,H,Minnesota,Big Ten,John Gutekunst,L,7,43
+1989-09-04,Texas,SWC,David McWilliams,A,Colorado,Big 8,Bill McCartney,L,6,27
+1989-09-23,Texas,SWC,David McWilliams,A,SMU,SWC,Forrest Gregg,W,45,13
+1989-09-30,Texas,SWC,David McWilliams,H,Penn State,Ind,Joe Paterno,L,12,16
+1989-10-07,Texas,SWC,David McWilliams,H,Rice,SWC,Fred Goldsmith,W,31,30
+1989-10-14,Texas,SWC,David McWilliams,N,Oklahoma,Big 8,Gary Gibbs,W,28,24
+1989-10-21,Texas,SWC,David McWilliams,A,Arkansas,SWC,Ken Hatfield,W,24,20
+1989-11-04,Texas,SWC,David McWilliams,H,Texas Tech,SWC,Spike Dykes,L,17,24
+1989-11-11,Texas,SWC,David McWilliams,A,Houston,SWC,Jack Pardee,L,9,47
+1989-11-18,Texas,SWC,David McWilliams,H,Texas Christian,SWC,Jim Wacker,W,31,17
+1989-11-25,Texas,SWC,David McWilliams,H,Baylor,SWC,Grant Teaff,L,7,50
+1989-12-02,Texas,SWC,David McWilliams,A,Texas A&M,SWC,R.C. Slocum,L,10,21
+1989-09-09,Texas Christian,SWC,Jim Wacker,A,Missouri,Big 8,Bob Stull,L,10,14
+1989-09-16,Texas Christian,SWC,Jim Wacker,H,Texas A&M,SWC,R.C. Slocum,L,7,44
+1989-09-23,Texas Christian,SWC,Jim Wacker,H,Southern Mississippi,Ind,Curley Hallman,W,19,17
+1989-09-30,Texas Christian,SWC,Jim Wacker,H,SMU,SWC,Forrest Gregg,W,28,10
+1989-10-07,Texas Christian,SWC,Jim Wacker,H,Arkansas,SWC,Ken Hatfield,L,19,41
+1989-10-14,Texas Christian,SWC,Jim Wacker,A,Rice,SWC,Fred Goldsmith,W,30,16
+1989-10-21,Texas Christian,SWC,Jim Wacker,H,Air Force,WAC,Fisher DeBerry,W,27,9
+1989-10-28,Texas Christian,SWC,Jim Wacker,A,Baylor,SWC,Grant Teaff,L,9,27
+1989-11-04,Texas Christian,SWC,Jim Wacker,H,Houston,SWC,Jack Pardee,L,10,55
+1989-11-11,Texas Christian,SWC,Jim Wacker,A,Texas Tech,SWC,Spike Dykes,L,7,37
+1989-11-18,Texas Christian,SWC,Jim Wacker,A,Texas,SWC,David McWilliams,L,17,31
+1989-09-02,Air Force,WAC,Fisher DeBerry,H,San Diego State,WAC,Al Luginbill,W,52,36
+1989-09-10,Air Force,WAC,Fisher DeBerry,H,Wyoming,WAC,Paul Roach,W,45,7
+1989-09-16,Air Force,WAC,Fisher DeBerry,A,Northwestern,Big Ten,Francis Peay,W,48,31
+1989-09-23,Air Force,WAC,Fisher DeBerry,H,UTEP,WAC,David Lee,W,43,26
+1989-09-30,Air Force,WAC,Fisher DeBerry,A,Colorado State,WAC,Earle Bruce,W,46,21
+1989-10-07,Air Force,WAC,Fisher DeBerry,A,Navy,Ind,Elliot Uzelac,W,35,7
+1989-10-14,Air Force,WAC,Fisher DeBerry,H,Notre Dame,Ind,Lou Holtz,L,27,41
+1989-10-21,Air Force,WAC,Fisher DeBerry,A,Texas Christian,SWC,Jim Wacker,L,9,27
+1989-11-04,Air Force,WAC,Fisher DeBerry,H,Army,Ind,Jim Young,W,29,3
+1989-11-11,Air Force,WAC,Fisher DeBerry,A,Brigham Young,WAC,LaVell Edwards,L,35,44
+1989-11-25,Air Force,WAC,Fisher DeBerry,A,Utah,WAC,Jim Fassel,W,42,38
+1989-12-09,Air Force,WAC,Fisher DeBerry,A,Hawaii,WAC,Bob Wagner,T,35,35
+1989-12-28,Air Force,WAC,Fisher DeBerry,N,Ole Miss,SEC,Billy Brewer,L,29,42
+1989-09-09,Miami (FL),Ind,Dennis Erickson,A,Wisconsin,Big Ten,Don Morton,W,51,3
+1989-09-16,Miami (FL),Ind,Dennis Erickson,H,California,Pac-10,Bruce Snyder,W,31,3
+1989-09-23,Miami (FL),Ind,Dennis Erickson,A,Missouri,Big 8,Bob Stull,W,38,7
+1989-09-30,Miami (FL),Ind,Dennis Erickson,A,Michigan State,Big Ten,George Perles,W,26,20
+1989-10-07,Miami (FL),Ind,Dennis Erickson,H,Cincinnati,Ind,Tim Murphy,W,56,0
+1989-10-14,Miami (FL),Ind,Dennis Erickson,H,San Jose State,Big West,Claude Gilbert,W,48,16
+1989-10-28,Miami (FL),Ind,Dennis Erickson,A,Florida State,Ind,Bobby Bowden,L,10,24
+1989-11-04,Miami (FL),Ind,Dennis Erickson,H,East Carolina,Ind,Bill Lewis,W,40,10
+1989-11-11,Miami (FL),Ind,Dennis Erickson,A,Pitt,Ind,Paul Hackett,W,24,3
+1989-11-18,Miami (FL),Ind,Dennis Erickson,H,San Diego State,WAC,Al Luginbill,W,42,6
+1989-11-25,Miami (FL),Ind,Dennis Erickson,H,Notre Dame,Ind,Lou Holtz,W,27,10
+1990-01-01,Miami (FL),Ind,Dennis Erickson,N,Alabama,SEC,Bill Curry,W,33,25
+1989-09-09,Oregon,Pac-10,Rich Brooks,H,California,Pac-10,Bruce Snyder,W,35,19
+1989-09-16,Oregon,Pac-10,Rich Brooks,A,Iowa,Big Ten,Hayden Fry,W,44,6
+1989-09-23,Oregon,Pac-10,Rich Brooks,A,Stanford,Pac-10,Dennis Green,L,17,18
+1989-09-30,Oregon,Pac-10,Rich Brooks,H,Arizona,Pac-10,Dick Tomey,W,16,10
+1989-10-07,Oregon,Pac-10,Rich Brooks,H,Washington State,Pac-10,Mike Price,L,38,51
+1989-10-14,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,14,20
+1989-10-21,Oregon,Pac-10,Rich Brooks,A,Arizona State,Pac-10,Larry Marmie,W,27,7
+1989-10-28,Oregon,Pac-10,Rich Brooks,H,Long Beach State,Big West,Larry Reisbig,W,52,10
+1989-11-04,Oregon,Pac-10,Rich Brooks,A,Brigham Young,WAC,LaVell Edwards,L,41,45
+1989-11-11,Oregon,Pac-10,Rich Brooks,A,UCLA,Pac-10,Terry Donahue,W,38,20
+1989-11-18,Oregon,Pac-10,Rich Brooks,H,Oregon State,Pac-10,Dave Kragthorpe,W,30,21
+1989-12-16,Oregon,Pac-10,Rich Brooks,N,Tulsa,Ind,David Rader,W,27,24
+1989-09-02,Tennessee,SEC,Johnny Majors,H,Colorado State,WAC,Earle Bruce,W,17,14
+1989-09-09,Tennessee,SEC,Johnny Majors,A,UCLA,Pac-10,Terry Donahue,W,24,6
+1989-09-16,Tennessee,SEC,Johnny Majors,H,Duke,ACC,Steve Spurrier,W,28,6
+1989-09-30,Tennessee,SEC,Johnny Majors,H,Auburn,SEC,Pat Dye,W,21,14
+1989-10-07,Tennessee,SEC,Johnny Majors,H,Georgia,SEC,Ray Goff,W,17,14
+1989-10-21,Tennessee,SEC,Johnny Majors,A,Alabama,SEC,Bill Curry,L,30,47
+1989-10-28,Tennessee,SEC,Johnny Majors,A,LSU,SEC,Mike Archer,W,45,39
+1989-11-11,Tennessee,SEC,Johnny Majors,H,Akron,Ind,Gerry Faust,W,52,9
+1989-11-18,Tennessee,SEC,Johnny Majors,H,Ole Miss,SEC,Billy Brewer,W,33,21
+1989-11-25,Tennessee,SEC,Johnny Majors,A,Kentucky,SEC,Jerry Claiborne,W,31,10
+1989-12-02,Tennessee,SEC,Johnny Majors,H,Vanderbilt,SEC,Watson Brown,W,17,10
+1990-01-01,Tennessee,SEC,Johnny Majors,N,Arkansas,SWC,Ken Hatfield,W,31,27
+1989-09-09,Oregon State,Pac-10,Dave Kragthorpe,H,Stanford,Pac-10,Dennis Green,W,20,16
+1989-09-16,Oregon State,Pac-10,Dave Kragthorpe,A,Washington State,Pac-10,Mike Price,L,3,41
+1989-09-30,Oregon State,Pac-10,Dave Kragthorpe,A,Nebraska,Big 8,Tom Osborne,L,7,35
+1989-10-07,Oregon State,Pac-10,Dave Kragthorpe,A,Fresno State,Big West,Jim Sweeney,L,18,35
+1989-10-14,Oregon State,Pac-10,Dave Kragthorpe,H,Arizona State,Pac-10,Larry Marmie,T,17,17
+1989-10-21,Oregon State,Pac-10,Dave Kragthorpe,H,UCLA,Pac-10,Terry Donahue,W,18,17
+1989-10-28,Oregon State,Pac-10,Dave Kragthorpe,A,California,Pac-10,Bruce Snyder,W,25,14
+1989-11-04,Oregon State,Pac-10,Dave Kragthorpe,A,USC,Pac-10,Larry Smith,L,6,48
+1989-11-11,Oregon State,Pac-10,Dave Kragthorpe,H,Washington,Pac-10,Don James,L,14,51
+1989-11-18,Oregon State,Pac-10,Dave Kragthorpe,A,Oregon,Pac-10,Rich Brooks,L,21,30
+1989-11-25,Oregon State,Pac-10,Dave Kragthorpe,A,Hawaii,WAC,Bob Wagner,L,21,23
+1989-09-16,Alabama,SEC,Bill Curry,H,Memphis,Ind,Chuck Stobart,W,35,7
+1989-09-23,Alabama,SEC,Bill Curry,H,Kentucky,SEC,Jerry Claiborne,W,15,3
+1989-09-30,Alabama,SEC,Bill Curry,A,Vanderbilt,SEC,Watson Brown,W,20,14
+1989-10-07,Alabama,SEC,Bill Curry,A,Ole Miss,SEC,Billy Brewer,W,62,27
+1989-10-14,Alabama,SEC,Bill Curry,H,Louisiana,Ind,Nelson Stokley,W,24,17
+1989-10-21,Alabama,SEC,Bill Curry,H,Tennessee,SEC,Johnny Majors,W,47,30
+1989-10-28,Alabama,SEC,Bill Curry,A,Penn State,Ind,Joe Paterno,W,17,16
+1989-11-04,Alabama,SEC,Bill Curry,H,Mississippi State,SEC,Rockey Felker,W,23,10
+1989-11-11,Alabama,SEC,Bill Curry,A,LSU,SEC,Mike Archer,W,32,16
+1989-11-18,Alabama,SEC,Bill Curry,H,Southern Mississippi,Ind,Curley Hallman,W,37,14
+1989-12-02,Alabama,SEC,Bill Curry,A,Auburn,SEC,Pat Dye,L,20,30
+1990-01-01,Alabama,SEC,Bill Curry,N,Miami (FL),Ind,Dennis Erickson,L,25,33
+1989-09-09,Purdue,Big Ten,Fred Akers,H,Miami (OH),MAC,Tim Rose,W,27,10
+1989-09-16,Purdue,Big Ten,Fred Akers,A,Washington,Pac-10,Don James,L,9,38
+1989-09-30,Purdue,Big Ten,Fred Akers,H,Notre Dame,Ind,Lou Holtz,L,7,40
+1989-10-07,Purdue,Big Ten,Fred Akers,A,Minnesota,Big Ten,John Gutekunst,L,15,35
+1989-10-14,Purdue,Big Ten,Fred Akers,H,Illinois,Big Ten,John Mackovic,L,2,14
+1989-10-21,Purdue,Big Ten,Fred Akers,A,Ohio State,Big Ten,John Cooper,L,3,21
+1989-10-28,Purdue,Big Ten,Fred Akers,H,Michigan State,Big Ten,George Perles,L,21,28
+1989-11-04,Purdue,Big Ten,Fred Akers,A,Michigan,Big Ten,Bo Schembechler,L,27,42
+1989-11-11,Purdue,Big Ten,Fred Akers,H,Northwestern,Big Ten,Francis Peay,W,46,15
+1989-11-18,Purdue,Big Ten,Fred Akers,H,Iowa,Big Ten,Hayden Fry,L,0,24
+1989-11-25,Purdue,Big Ten,Fred Akers,A,Indiana,Big Ten,Bill Mallory,W,15,14
+1989-09-09,Nebraska,Big 8,Tom Osborne,H,Northern Illinois,Ind,Jerry Pettibone,W,48,17
+1989-09-16,Nebraska,Big 8,Tom Osborne,H,Utah,WAC,Jim Fassel,W,42,30
+1989-09-23,Nebraska,Big 8,Tom Osborne,A,Minnesota,Big Ten,John Gutekunst,W,48,0
+1989-09-30,Nebraska,Big 8,Tom Osborne,H,Oregon State,Pac-10,Dave Kragthorpe,W,35,7
+1989-10-07,Nebraska,Big 8,Tom Osborne,H,Kansas State,Big 8,Bill Snyder,W,58,7
+1989-10-14,Nebraska,Big 8,Tom Osborne,A,Missouri,Big 8,Bob Stull,W,50,7
+1989-10-21,Nebraska,Big 8,Tom Osborne,A,Oklahoma State,Big 8,Pat Jones,W,48,23
+1989-10-28,Nebraska,Big 8,Tom Osborne,H,Iowa State,Big 8,Jim Walden,W,49,17
+1989-11-04,Nebraska,Big 8,Tom Osborne,A,Colorado,Big 8,Bill McCartney,L,21,27
+1989-11-11,Nebraska,Big 8,Tom Osborne,H,Kansas,Big 8,Glen Mason,W,51,14
+1989-11-18,Nebraska,Big 8,Tom Osborne,H,Oklahoma,Big 8,Gary Gibbs,W,42,25
+1990-01-01,Nebraska,Big 8,Tom Osborne,N,Florida State,Ind,Bobby Bowden,L,17,41
+1989-09-02,West Virginia,Ind,Don Nehlen,H,Ball State,MAC,Paul Schudel,W,35,10
+1989-09-09,West Virginia,Ind,Don Nehlen,A,Maryland,ACC,Joe Krivak,W,14,10
+1989-09-16,West Virginia,Ind,Don Nehlen,H,South Carolina,Ind,Sparky Woods,W,45,21
+1989-09-23,West Virginia,Ind,Don Nehlen,A,Louisville,Ind,Howard Schnellenberger,W,30,21
+1989-09-30,West Virginia,Ind,Don Nehlen,H,Pitt,Ind,Paul Hackett,T,31,31
+1989-10-07,West Virginia,Ind,Don Nehlen,H,Virginia Tech,Ind,Frank Beamer,L,10,12
+1989-10-21,West Virginia,Ind,Don Nehlen,H,Cincinnati,Ind,Tim Murphy,W,69,3
+1989-10-28,West Virginia,Ind,Don Nehlen,A,Boston College,Ind,Jack Bicknell,W,44,30
+1989-11-04,West Virginia,Ind,Don Nehlen,A,Penn State,Ind,Joe Paterno,L,9,19
+1989-11-11,West Virginia,Ind,Don Nehlen,H,Rutgers,Ind,Dick Anderson,W,21,20
+1989-11-23,West Virginia,Ind,Don Nehlen,A,Syracuse,Ind,Dick MacPherson,W,24,17
+1989-12-30,West Virginia,Ind,Don Nehlen,N,Clemson,ACC,Danny Ford,L,7,27
+1989-09-09,Oklahoma State,Big 8,Pat Jones,A,Tulsa,Ind,David Rader,L,10,20
+1989-09-16,Oklahoma State,Big 8,Pat Jones,A,Ohio State,Big Ten,John Cooper,L,13,37
+1989-09-23,Oklahoma State,Big 8,Pat Jones,H,Texas Tech,SWC,Spike Dykes,L,15,31
+1989-09-30,Oklahoma State,Big 8,Pat Jones,H,Wyoming,WAC,Paul Roach,W,27,7
+1989-10-07,Oklahoma State,Big 8,Pat Jones,A,Oklahoma,Big 8,Gary Gibbs,L,15,37
+1989-10-14,Oklahoma State,Big 8,Pat Jones,H,Kansas State,Big 8,Bill Snyder,W,17,13
+1989-10-21,Oklahoma State,Big 8,Pat Jones,H,Nebraska,Big 8,Tom Osborne,L,23,48
+1989-10-28,Oklahoma State,Big 8,Pat Jones,A,Missouri,Big 8,Bob Stull,W,31,30
+1989-11-04,Oklahoma State,Big 8,Pat Jones,A,Kansas,Big 8,Glen Mason,W,37,24
+1989-11-11,Oklahoma State,Big 8,Pat Jones,H,Colorado,Big 8,Bill McCartney,L,17,41
+1989-11-18,Oklahoma State,Big 8,Pat Jones,H,Iowa State,Big 8,Jim Walden,L,21,31
+1989-09-04,Colorado,Big 8,Bill McCartney,H,Texas,SWC,David McWilliams,W,27,6
+1989-09-09,Colorado,Big 8,Bill McCartney,H,Colorado State,WAC,Earle Bruce,W,45,20
+1989-09-16,Colorado,Big 8,Bill McCartney,H,Illinois,Big Ten,John Mackovic,W,38,7
+1989-09-30,Colorado,Big 8,Bill McCartney,A,Washington,Pac-10,Don James,W,45,28
+1989-10-07,Colorado,Big 8,Bill McCartney,H,Missouri,Big 8,Bob Stull,W,49,3
+1989-10-14,Colorado,Big 8,Bill McCartney,A,Iowa State,Big 8,Jim Walden,W,52,17
+1989-10-21,Colorado,Big 8,Bill McCartney,H,Kansas,Big 8,Glen Mason,W,49,17
+1989-10-28,Colorado,Big 8,Bill McCartney,A,Oklahoma,Big 8,Gary Gibbs,W,20,3
+1989-11-04,Colorado,Big 8,Bill McCartney,H,Nebraska,Big 8,Tom Osborne,W,27,21
+1989-11-11,Colorado,Big 8,Bill McCartney,A,Oklahoma State,Big 8,Pat Jones,W,41,17
+1989-11-18,Colorado,Big 8,Bill McCartney,A,Kansas State,Big 8,Bill Snyder,W,59,11
+1990-01-01,Colorado,Big 8,Bill McCartney,N,Notre Dame,Ind,Lou Holtz,L,6,21
+1989-09-02,Colorado State,WAC,Earle Bruce,A,Tennessee,SEC,Johnny Majors,L,14,17
+1989-09-09,Colorado State,WAC,Earle Bruce,A,Colorado,Big 8,Bill McCartney,L,20,45
+1989-09-16,Colorado State,WAC,Earle Bruce,H,Cal State Fullerton,Big West,Gene Murphy,W,42,14
+1989-09-23,Colorado State,WAC,Earle Bruce,H,Eastern Michigan,MAC,Jim Harkema,T,35,35
+1989-09-30,Colorado State,WAC,Earle Bruce,H,Air Force,WAC,Fisher DeBerry,L,21,46
+1989-10-07,Colorado State,WAC,Earle Bruce,A,New Mexico,WAC,Mike Sheppard,W,34,20
+1989-10-14,Colorado State,WAC,Earle Bruce,H,Brigham Young,WAC,LaVell Edwards,L,16,45
+1989-10-21,Colorado State,WAC,Earle Bruce,H,Hawaii,WAC,Bob Wagner,W,31,16
+1989-10-28,Colorado State,WAC,Earle Bruce,A,Utah,WAC,Jim Fassel,W,50,10
+1989-11-04,Colorado State,WAC,Earle Bruce,A,Wyoming,WAC,Paul Roach,L,35,56
+1989-11-11,Colorado State,WAC,Earle Bruce,A,UTEP,WAC,David Lee,W,52,0
+1989-09-02,Rice,SWC,Fred Goldsmith,A,SMU,SWC,Forrest Gregg,W,35,6
+1989-09-09,Rice,SWC,Fred Goldsmith,A,Tulane,Ind,Greg Davis,L,19,20
+1989-09-23,Rice,SWC,Fred Goldsmith,H,Louisiana,Ind,Nelson Stokley,L,3,18
+1989-09-30,Rice,SWC,Fred Goldsmith,A,Wake Forest,ACC,Bill Dooley,T,17,17
+1989-10-07,Rice,SWC,Fred Goldsmith,A,Texas,SWC,David McWilliams,L,30,31
+1989-10-14,Rice,SWC,Fred Goldsmith,H,Texas Christian,SWC,Jim Wacker,L,16,30
+1989-10-21,Rice,SWC,Fred Goldsmith,A,Texas Tech,SWC,Spike Dykes,L,25,41
+1989-10-28,Rice,SWC,Fred Goldsmith,H,Texas A&M,SWC,R.C. Slocum,L,7,45
+1989-11-04,Rice,SWC,Fred Goldsmith,H,Arkansas,SWC,Ken Hatfield,L,17,38
+1989-11-18,Rice,SWC,Fred Goldsmith,A,Baylor,SWC,Grant Teaff,W,6,3
+1989-12-02,Rice,SWC,Fred Goldsmith,H,Houston,SWC,Jack Pardee,L,0,64
+1989-09-02,Texas A&M,SWC,R.C. Slocum,H,LSU,SEC,Mike Archer,W,28,16
+1989-09-09,Texas A&M,SWC,R.C. Slocum,A,Washington,Pac-10,Don James,L,6,19
+1989-09-16,Texas A&M,SWC,R.C. Slocum,A,Texas Christian,SWC,Jim Wacker,W,44,7
+1989-09-30,Texas A&M,SWC,R.C. Slocum,H,Southern Mississippi,Ind,Curley Hallman,W,31,14
+1989-10-07,Texas A&M,SWC,R.C. Slocum,A,Texas Tech,SWC,Spike Dykes,L,24,27
+1989-10-14,Texas A&M,SWC,R.C. Slocum,H,Houston,SWC,Jack Pardee,W,17,13
+1989-10-21,Texas A&M,SWC,R.C. Slocum,A,Baylor,SWC,Grant Teaff,W,14,11
+1989-10-28,Texas A&M,SWC,R.C. Slocum,A,Rice,SWC,Fred Goldsmith,W,45,7
+1989-11-04,Texas A&M,SWC,R.C. Slocum,H,SMU,SWC,Forrest Gregg,W,63,14
+1989-11-24,Texas A&M,SWC,R.C. Slocum,H,Arkansas,SWC,Ken Hatfield,L,22,23
+1989-12-02,Texas A&M,SWC,R.C. Slocum,H,Texas,SWC,David McWilliams,W,21,10
+1989-12-30,Texas A&M,SWC,R.C. Slocum,N,Pitt,Ind,Paul Hackett,L,28,31
+1989-09-16,Michigan State,Big Ten,George Perles,H,Miami (OH),MAC,Tim Rose,W,49,0
+1989-09-23,Michigan State,Big Ten,George Perles,A,Notre Dame,Ind,Lou Holtz,L,13,21
+1989-09-30,Michigan State,Big Ten,George Perles,H,Miami (FL),Ind,Dennis Erickson,L,20,26
+1989-10-07,Michigan State,Big Ten,George Perles,A,Iowa,Big Ten,Hayden Fry,W,17,14
+1989-10-14,Michigan State,Big Ten,George Perles,H,Michigan,Big Ten,Bo Schembechler,L,7,10
+1989-10-21,Michigan State,Big Ten,George Perles,H,Illinois,Big Ten,John Mackovic,L,10,14
+1989-10-28,Michigan State,Big Ten,George Perles,A,Purdue,Big Ten,Fred Akers,W,28,21
+1989-11-04,Michigan State,Big Ten,George Perles,A,Indiana,Big Ten,Bill Mallory,W,51,20
+1989-11-11,Michigan State,Big Ten,George Perles,H,Minnesota,Big Ten,John Gutekunst,W,21,7
+1989-11-18,Michigan State,Big Ten,George Perles,H,Northwestern,Big Ten,Francis Peay,W,76,14
+1989-11-25,Michigan State,Big Ten,George Perles,A,Wisconsin,Big Ten,Don Morton,W,31,3
+1989-12-25,Michigan State,Big Ten,George Perles,A,Hawaii,WAC,Bob Wagner,W,33,13
+1989-09-09,Boston College,Ind,Jack Bicknell,H,Pitt,Ind,Paul Hackett,L,10,29
+1989-09-16,Boston College,Ind,Jack Bicknell,A,Rutgers,Ind,Dick Anderson,L,7,9
+1989-09-23,Boston College,Ind,Jack Bicknell,A,Penn State,Ind,Joe Paterno,L,3,7
+1989-09-30,Boston College,Ind,Jack Bicknell,A,Ohio State,Big Ten,John Cooper,L,29,34
+1989-10-14,Boston College,Ind,Jack Bicknell,H,Temple,Ind,Jerry Berndt,W,35,14
+1989-10-21,Boston College,Ind,Jack Bicknell,H,Navy,Ind,Elliot Uzelac,L,24,27
+1989-10-28,Boston College,Ind,Jack Bicknell,H,West Virginia,Ind,Don Nehlen,L,30,44
+1989-11-04,Boston College,Ind,Jack Bicknell,A,Syracuse,Ind,Dick MacPherson,L,11,23
+1989-11-11,Boston College,Ind,Jack Bicknell,A,Army,Ind,Jim Young,W,24,17
+1989-11-18,Boston College,Ind,Jack Bicknell,H,Louisville,Ind,Howard Schnellenberger,L,22,36
+1989-11-25,Boston College,Ind,Jack Bicknell,A,Georgia Tech,ACC,Bobby Ross,L,12,13
+1989-09-02,New Mexico State,Big West,Mike Knoll,A,Oklahoma,Big 8,Gary Gibbs,L,3,73
+1989-09-09,New Mexico State,Big West,Mike Knoll,A,New Mexico,WAC,Mike Sheppard,L,13,45
+1989-09-16,New Mexico State,Big West,Mike Knoll,H,UTEP,WAC,David Lee,L,27,29
+1989-09-23,New Mexico State,Big West,Mike Knoll,A,Nevada-Las Vegas,Big West,Wayne Nunnely,L,14,26
+1989-10-07,New Mexico State,Big West,Mike Knoll,A,Long Beach State,Big West,Larry Reisbig,L,48,55
+1989-10-14,New Mexico State,Big West,Mike Knoll,A,Tulsa,Ind,David Rader,L,13,34
+1989-10-21,New Mexico State,Big West,Mike Knoll,H,Utah State,Big West,Chuck Shelton,L,13,28
+1989-10-28,New Mexico State,Big West,Mike Knoll,A,San Jose State,Big West,Claude Gilbert,L,6,34
+1989-11-04,New Mexico State,Big West,Mike Knoll,A,Cal State Fullerton,Big West,Gene Murphy,L,10,45
+1989-11-11,New Mexico State,Big West,Mike Knoll,H,Fresno State,Big West,Jim Sweeney,L,5,45
+1989-11-18,New Mexico State,Big West,Mike Knoll,H,Pacific,Big West,Walt Harris,L,10,14
+1989-09-02,Louisiana Tech,Ind,Joe Peace,A,Louisiana,Ind,Nelson Stokley,W,40,14
+1989-09-09,Louisiana Tech,Ind,Joe Peace,A,Western Michigan,MAC,Al Molde,L,20,24
+1989-09-16,Louisiana Tech,Ind,Joe Peace,A,Florida,SEC,Gary Darnell,L,7,34
+1989-09-30,Louisiana Tech,Ind,Joe Peace,A,East Carolina,Ind,Bill Lewis,T,29,29
+1989-10-07,Louisiana Tech,Ind,Joe Peace,A,Akron,Ind,Gerry Faust,L,24,31
+1989-10-14,Louisiana Tech,Ind,Joe Peace,H,Northern Illinois,Ind,Jerry Pettibone,W,42,21
+1989-10-28,Louisiana Tech,Ind,Joe Peace,H,Tulsa,Ind,David Rader,W,34,31
+1989-11-11,Louisiana Tech,Ind,Joe Peace,A,Auburn,SEC,Pat Dye,L,23,38
+1989-09-16,Minnesota,Big Ten,John Gutekunst,A,Iowa State,Big 8,Jim Walden,W,30,20
+1989-09-23,Minnesota,Big Ten,John Gutekunst,H,Nebraska,Big 8,Tom Osborne,L,0,48
+1989-10-07,Minnesota,Big Ten,John Gutekunst,H,Purdue,Big Ten,Fred Akers,W,35,15
+1989-10-14,Minnesota,Big Ten,John Gutekunst,A,Northwestern,Big Ten,Francis Peay,W,20,18
+1989-10-21,Minnesota,Big Ten,John Gutekunst,A,Indiana,Big Ten,Bill Mallory,L,18,28
+1989-10-28,Minnesota,Big Ten,John Gutekunst,H,Ohio State,Big Ten,John Cooper,L,37,41
+1989-11-04,Minnesota,Big Ten,John Gutekunst,H,Wisconsin,Big Ten,Don Morton,W,24,22
+1989-11-11,Minnesota,Big Ten,John Gutekunst,A,Michigan State,Big Ten,George Perles,L,7,21
+1989-11-18,Minnesota,Big Ten,John Gutekunst,H,Michigan,Big Ten,Bo Schembechler,L,15,49
+1989-11-25,Minnesota,Big Ten,John Gutekunst,A,Iowa,Big Ten,Hayden Fry,W,43,7
+1989-09-02,Ole Miss,SEC,Billy Brewer,A,Memphis,Ind,Chuck Stobart,W,20,13
+1989-09-09,Ole Miss,SEC,Billy Brewer,A,Florida,SEC,Gary Darnell,W,24,19
+1989-09-23,Ole Miss,SEC,Billy Brewer,H,Arkansas,SWC,Ken Hatfield,L,17,24
+1989-10-07,Ole Miss,SEC,Billy Brewer,H,Alabama,SEC,Bill Curry,L,27,62
+1989-10-14,Ole Miss,SEC,Billy Brewer,H,Georgia,SEC,Ray Goff,W,17,13
+1989-10-21,Ole Miss,SEC,Billy Brewer,A,Tulane,Ind,Greg Davis,W,32,28
+1989-10-28,Ole Miss,SEC,Billy Brewer,H,Vanderbilt,SEC,Watson Brown,W,24,16
+1989-11-04,Ole Miss,SEC,Billy Brewer,H,LSU,SEC,Mike Archer,L,30,35
+1989-11-18,Ole Miss,SEC,Billy Brewer,A,Tennessee,SEC,Johnny Majors,L,21,33
+1989-11-25,Ole Miss,SEC,Billy Brewer,N,Mississippi State,SEC,Rockey Felker,W,21,11
+1989-12-28,Ole Miss,SEC,Billy Brewer,N,Air Force,WAC,Fisher DeBerry,W,42,29
+1989-09-02,Duke,ACC,Steve Spurrier,A,South Carolina,Ind,Sparky Woods,L,21,27
+1989-09-09,Duke,ACC,Steve Spurrier,H,Northwestern,Big Ten,Francis Peay,W,41,31
+1989-09-16,Duke,ACC,Steve Spurrier,A,Tennessee,SEC,Johnny Majors,L,6,28
+1989-09-23,Duke,ACC,Steve Spurrier,A,Virginia,ACC,George Welsh,L,28,49
+1989-09-30,Duke,ACC,Steve Spurrier,H,Clemson,ACC,Danny Ford,W,21,17
+1989-10-07,Duke,ACC,Steve Spurrier,H,Army,Ind,Jim Young,W,35,29
+1989-10-21,Duke,ACC,Steve Spurrier,A,Maryland,ACC,Joe Krivak,W,46,25
+1989-10-28,Duke,ACC,Steve Spurrier,H,Georgia Tech,ACC,Bobby Ross,W,30,19
+1989-11-04,Duke,ACC,Steve Spurrier,A,Wake Forest,ACC,Bill Dooley,W,52,35
+1989-11-11,Duke,ACC,Steve Spurrier,H,North Carolina State,ACC,Dick Sheridan,W,35,26
+1989-11-18,Duke,ACC,Steve Spurrier,A,North Carolina,ACC,Mack Brown,W,41,0
+1989-12-28,Duke,ACC,Steve Spurrier,N,Texas Tech,SWC,Spike Dykes,L,21,49
+1989-09-02,Kent State,MAC,Dick Crum,A,Eastern Michigan,MAC,Jim Harkema,L,7,30
+1989-09-09,Kent State,MAC,Dick Crum,A,Akron,Ind,Gerry Faust,L,7,40
+1989-09-16,Kent State,MAC,Dick Crum,A,Kansas,Big 8,Glen Mason,L,21,28
+1989-09-23,Kent State,MAC,Dick Crum,H,Western Michigan,MAC,Al Molde,L,4,26
+1989-09-30,Kent State,MAC,Dick Crum,A,North Carolina State,ACC,Dick Sheridan,L,22,42
+1989-10-07,Kent State,MAC,Dick Crum,A,Central Michigan,MAC,Herb Deromedi,L,0,38
+1989-10-14,Kent State,MAC,Dick Crum,H,Ball State,MAC,Paul Schudel,L,21,23
+1989-10-21,Kent State,MAC,Dick Crum,A,Ohio,MAC,Cleve Bryant,L,14,37
+1989-10-28,Kent State,MAC,Dick Crum,H,Toledo,MAC,Dan Simrell,L,42,47
+1989-11-04,Kent State,MAC,Dick Crum,A,Bowling Green State,MAC,Moe Ankney,L,28,51
+1989-11-11,Kent State,MAC,Dick Crum,H,Miami (OH),MAC,Tim Rose,L,13,15
+1989-09-16,Navy,Ind,Elliot Uzelac,H,Brigham Young,WAC,LaVell Edwards,L,10,31
+1989-09-30,Navy,Ind,Elliot Uzelac,A,North Carolina,ACC,Mack Brown,W,12,7
+1989-10-07,Navy,Ind,Elliot Uzelac,H,Air Force,WAC,Fisher DeBerry,L,7,35
+1989-10-14,Navy,Ind,Elliot Uzelac,A,Pitt,Ind,Paul Hackett,L,14,31
+1989-10-21,Navy,Ind,Elliot Uzelac,A,Boston College,Ind,Jack Bicknell,W,27,24
+1989-11-04,Navy,Ind,Elliot Uzelac,A,Notre Dame,Ind,Lou Holtz,L,0,41
+1989-11-11,Navy,Ind,Elliot Uzelac,H,Syracuse,Ind,Dick MacPherson,L,17,38
+1989-12-09,Navy,Ind,Elliot Uzelac,A,Army,Ind,Jim Young,W,19,17
+1989-09-02,Fresno State,Big West,Jim Sweeney,H,Utah,WAC,Jim Fassel,W,52,22
+1989-09-16,Fresno State,Big West,Jim Sweeney,A,Pacific,Big West,Walt Harris,W,27,14
+1989-09-23,Fresno State,Big West,Jim Sweeney,H,Long Beach State,Big West,Larry Reisbig,W,52,0
+1989-10-07,Fresno State,Big West,Jim Sweeney,H,Oregon State,Pac-10,Dave Kragthorpe,W,35,18
+1989-10-14,Fresno State,Big West,Jim Sweeney,A,Utah State,Big West,Chuck Shelton,W,34,7
+1989-10-21,Fresno State,Big West,Jim Sweeney,H,Cal State Fullerton,Big West,Gene Murphy,W,33,19
+1989-10-28,Fresno State,Big West,Jim Sweeney,H,Nevada-Las Vegas,Big West,Wayne Nunnely,W,31,17
+1989-11-04,Fresno State,Big West,Jim Sweeney,H,San Jose State,Big West,Claude Gilbert,W,31,30
+1989-11-11,Fresno State,Big West,Jim Sweeney,A,New Mexico State,Big West,Mike Knoll,W,45,5
+1989-11-18,Fresno State,Big West,Jim Sweeney,A,New Mexico,WAC,Mike Sheppard,L,22,45
+1989-12-09,Fresno State,Big West,Jim Sweeney,H,Ball State,MAC,Paul Schudel,W,27,6
+1989-09-09,Texas Tech,SWC,Spike Dykes,H,Arizona,Pac-10,Dick Tomey,W,24,14
+1989-09-16,Texas Tech,SWC,Spike Dykes,H,New Mexico,WAC,Mike Sheppard,W,27,20
+1989-09-23,Texas Tech,SWC,Spike Dykes,A,Oklahoma State,Big 8,Pat Jones,W,31,15
+1989-09-30,Texas Tech,SWC,Spike Dykes,A,Baylor,SWC,Grant Teaff,L,15,29
+1989-10-07,Texas Tech,SWC,Spike Dykes,H,Texas A&M,SWC,R.C. Slocum,W,27,24
+1989-10-14,Texas Tech,SWC,Spike Dykes,H,Arkansas,SWC,Ken Hatfield,L,13,45
+1989-10-21,Texas Tech,SWC,Spike Dykes,H,Rice,SWC,Fred Goldsmith,W,41,25
+1989-11-04,Texas Tech,SWC,Spike Dykes,A,Texas,SWC,David McWilliams,W,24,17
+1989-11-11,Texas Tech,SWC,Spike Dykes,H,Texas Christian,SWC,Jim Wacker,W,37,7
+1989-11-18,Texas Tech,SWC,Spike Dykes,A,SMU,SWC,Forrest Gregg,W,48,24
+1989-11-25,Texas Tech,SWC,Spike Dykes,A,Houston,SWC,Jack Pardee,L,24,40
+1989-12-28,Texas Tech,SWC,Spike Dykes,N,Duke,ACC,Steve Spurrier,W,49,21
+1989-09-02,Tulane,Ind,Greg Davis,A,Hawaii,WAC,Bob Wagner,L,26,31
+1989-09-09,Tulane,Ind,Greg Davis,H,Rice,SWC,Fred Goldsmith,W,20,19
+1989-09-16,Tulane,Ind,Greg Davis,H,Louisiana,Ind,Nelson Stokley,W,17,10
+1989-09-23,Tulane,Ind,Greg Davis,A,Florida State,Ind,Bobby Bowden,L,9,59
+1989-09-30,Tulane,Ind,Greg Davis,H,Iowa State,Big 8,Jim Walden,L,24,25
+1989-10-07,Tulane,Ind,Greg Davis,A,Southern Mississippi,Ind,Curley Hallman,L,21,30
+1989-10-21,Tulane,Ind,Greg Davis,H,Ole Miss,SEC,Billy Brewer,L,28,32
+1989-10-28,Tulane,Ind,Greg Davis,A,Virginia Tech,Ind,Frank Beamer,L,13,30
+1989-11-04,Tulane,Ind,Greg Davis,H,Memphis,Ind,Chuck Stobart,W,38,34
+1989-11-11,Tulane,Ind,Greg Davis,A,Mississippi State,SEC,Rockey Felker,L,7,27
+1989-11-18,Tulane,Ind,Greg Davis,A,Vanderbilt,SEC,Watson Brown,W,37,13
+1989-11-25,Tulane,Ind,Greg Davis,H,LSU,SEC,Mike Archer,L,7,27
+1989-09-02,Northern Illinois,Ind,Jerry Pettibone,H,Cal State Fullerton,Big West,Gene Murphy,W,26,17
+1989-09-09,Northern Illinois,Ind,Jerry Pettibone,A,Nebraska,Big 8,Tom Osborne,L,17,48
+1989-09-23,Northern Illinois,Ind,Jerry Pettibone,A,Kansas State,Big 8,Bill Snyder,W,37,20
+1989-10-14,Northern Illinois,Ind,Jerry Pettibone,A,Louisiana Tech,Ind,Joe Peace,L,21,42
+1989-10-21,Northern Illinois,Ind,Jerry Pettibone,H,Nevada-Las Vegas,Big West,Wayne Nunnely,W,42,24
+1989-10-28,Northern Illinois,Ind,Jerry Pettibone,A,Temple,Ind,Jerry Berndt,W,20,17
+1989-11-04,Northern Illinois,Ind,Jerry Pettibone,H,Louisiana,Ind,Nelson Stokley,W,23,20
+1989-11-11,Northern Illinois,Ind,Jerry Pettibone,H,Toledo,MAC,Dan Simrell,W,39,27
+1989-11-18,Northern Illinois,Ind,Jerry Pettibone,A,Cincinnati,Ind,Tim Murphy,W,56,3
+1989-09-16,Ohio State,Big Ten,John Cooper,H,Oklahoma State,Big 8,Pat Jones,W,37,13
+1989-09-23,Ohio State,Big Ten,John Cooper,A,USC,Pac-10,Larry Smith,L,3,42
+1989-09-30,Ohio State,Big Ten,John Cooper,H,Boston College,Ind,Jack Bicknell,W,34,29
+1989-10-07,Ohio State,Big Ten,John Cooper,A,Illinois,Big Ten,John Mackovic,L,14,34
+1989-10-14,Ohio State,Big Ten,John Cooper,H,Indiana,Big Ten,Bill Mallory,W,35,31
+1989-10-21,Ohio State,Big Ten,John Cooper,H,Purdue,Big Ten,Fred Akers,W,21,3
+1989-10-28,Ohio State,Big Ten,John Cooper,A,Minnesota,Big Ten,John Gutekunst,W,41,37
+1989-11-04,Ohio State,Big Ten,John Cooper,A,Northwestern,Big Ten,Francis Peay,W,52,27
+1989-11-11,Ohio State,Big Ten,John Cooper,H,Iowa,Big Ten,Hayden Fry,W,28,0
+1989-11-18,Ohio State,Big Ten,John Cooper,H,Wisconsin,Big Ten,Don Morton,W,42,22
+1989-11-25,Ohio State,Big Ten,John Cooper,A,Michigan,Big Ten,Bo Schembechler,L,18,28
+1990-01-01,Ohio State,Big Ten,John Cooper,N,Auburn,SEC,Pat Dye,L,14,31
+1989-09-02,Ohio,MAC,Cleve Bryant,A,Toledo,MAC,Dan Simrell,L,18,27
+1989-09-09,Ohio,MAC,Cleve Bryant,A,Iowa State,Big 8,Jim Walden,L,3,28
+1989-09-16,Ohio,MAC,Cleve Bryant,H,Eastern Michigan,MAC,Jim Harkema,L,25,30
+1989-09-23,Ohio,MAC,Cleve Bryant,A,Vanderbilt,SEC,Watson Brown,L,10,54
+1989-09-30,Ohio,MAC,Cleve Bryant,A,LSU,SEC,Mike Archer,L,6,57
+1989-10-07,Ohio,MAC,Cleve Bryant,H,Bowling Green State,MAC,Moe Ankney,L,28,31
+1989-10-14,Ohio,MAC,Cleve Bryant,A,Miami (OH),MAC,Tim Rose,T,22,22
+1989-10-21,Ohio,MAC,Cleve Bryant,H,Kent State,MAC,Dick Crum,W,37,14
+1989-10-28,Ohio,MAC,Cleve Bryant,A,Western Michigan,MAC,Al Molde,L,13,28
+1989-11-11,Ohio,MAC,Cleve Bryant,A,Central Michigan,MAC,Herb Deromedi,L,15,24
+1989-11-18,Ohio,MAC,Cleve Bryant,H,Ball State,MAC,Paul Schudel,L,14,33
+1989-09-02,Houston,SWC,Jack Pardee,A,Nevada-Las Vegas,Big West,Wayne Nunnely,W,69,0
+1989-09-23,Houston,SWC,Jack Pardee,A,Arizona State,Pac-10,Larry Marmie,W,36,7
+1989-09-30,Houston,SWC,Jack Pardee,H,Temple,Ind,Jerry Berndt,W,65,7
+1989-10-07,Houston,SWC,Jack Pardee,H,Baylor,SWC,Grant Teaff,W,66,10
+1989-10-14,Houston,SWC,Jack Pardee,A,Texas A&M,SWC,R.C. Slocum,L,13,17
+1989-10-21,Houston,SWC,Jack Pardee,H,SMU,SWC,Forrest Gregg,W,95,21
+1989-10-28,Houston,SWC,Jack Pardee,A,Arkansas,SWC,Ken Hatfield,L,39,45
+1989-11-04,Houston,SWC,Jack Pardee,A,Texas Christian,SWC,Jim Wacker,W,55,10
+1989-11-11,Houston,SWC,Jack Pardee,H,Texas,SWC,David McWilliams,W,47,9
+1989-11-25,Houston,SWC,Jack Pardee,H,Texas Tech,SWC,Spike Dykes,W,40,24
+1989-12-02,Houston,SWC,Jack Pardee,A,Rice,SWC,Fred Goldsmith,W,64,0

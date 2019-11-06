@@ -1,0 +1,1445 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1978-09-16,North Carolina,ACC,Dick Crum,H,East Carolina,Ind,Pat Dye,W,14,10
+1978-09-23,North Carolina,ACC,Dick Crum,H,Maryland,ACC,Jerry Claiborne,L,20,21
+1978-09-30,North Carolina,ACC,Dick Crum,A,Pitt,Ind,Jackie Sherrill,L,16,20
+1978-10-07,North Carolina,ACC,Dick Crum,H,Miami (OH),MAC,Tom Reed,L,3,7
+1978-10-14,North Carolina,ACC,Dick Crum,A,Wake Forest,ACC,John Mackovic,W,34,29
+1978-10-21,North Carolina,ACC,Dick Crum,H,North Carolina State,ACC,Bo Rein,L,7,34
+1978-10-28,North Carolina,ACC,Dick Crum,A,South Carolina,Ind,Jim Carlen,W,24,22
+1978-11-04,North Carolina,ACC,Dick Crum,A,Richmond,Ind,Jim Tait,L,18,27
+1978-11-11,North Carolina,ACC,Dick Crum,A,Clemson,ACC,Danny Ford,L,9,13
+1978-11-18,North Carolina,ACC,Dick Crum,H,Virginia,ACC,Dick Bestwick,W,38,20
+1978-11-25,North Carolina,ACC,Dick Crum,H,Duke,ACC,Mike McGee,W,16,15
+1978-09-09,Miami (OH),MAC,Tom Reed,A,Ball State,MAC,Dwight Wallace,L,14,38
+1978-09-16,Miami (OH),MAC,Tom Reed,H,Central Michigan,MAC,Herb Deromedi,L,18,37
+1978-09-23,Miami (OH),MAC,Tom Reed,H,Western Michigan,MAC,Elliot Uzelac,W,7,3
+1978-10-07,Miami (OH),MAC,Tom Reed,A,North Carolina,ACC,Dick Crum,W,7,3
+1978-10-14,Miami (OH),MAC,Tom Reed,A,Marshall,Southern,Frank Ellwood,W,29,3
+1978-10-21,Miami (OH),MAC,Tom Reed,H,Bowling Green State,MAC,Dennis Stolz,W,18,7
+1978-10-28,Miami (OH),MAC,Tom Reed,A,Toledo,MAC,Chuck Stobart,W,28,7
+1978-11-04,Miami (OH),MAC,Tom Reed,A,Ohio,MAC,Bob Kappes,W,31,16
+1978-11-11,Miami (OH),MAC,Tom Reed,H,Kent State,MAC,Ron Blackledge,W,38,13
+1978-11-18,Miami (OH),MAC,Tom Reed,H,Cincinnati,Ind,Ralph Staub,W,28,24
+1978-09-16,Indiana,Big Ten,Lee Corso,A,LSU,SEC,Charles McClendon,L,17,24
+1978-09-23,Indiana,Big Ten,Lee Corso,H,Washington,Pac-10,Don James,W,14,7
+1978-09-30,Indiana,Big Ten,Lee Corso,H,Nebraska,Big 8,Tom Osborne,L,17,69
+1978-10-07,Indiana,Big Ten,Lee Corso,A,Wisconsin,Big Ten,Dave McClain,L,7,34
+1978-10-14,Indiana,Big Ten,Lee Corso,H,Northwestern,Big Ten,Rick Venturi,W,38,10
+1978-10-21,Indiana,Big Ten,Lee Corso,A,Michigan State,Big Ten,Darryl Rogers,L,14,49
+1978-10-28,Indiana,Big Ten,Lee Corso,H,Illinois,Big Ten,Gary Moeller,W,31,10
+1978-11-04,Indiana,Big Ten,Lee Corso,A,Minnesota,Big Ten,Cal Stoll,L,31,32
+1978-11-11,Indiana,Big Ten,Lee Corso,H,Iowa,Big Ten,Bob Commings,W,34,14
+1978-11-18,Indiana,Big Ten,Lee Corso,H,Ohio State,Big Ten,Woody Hayes,L,18,21
+1978-11-25,Indiana,Big Ten,Lee Corso,A,Purdue,Big Ten,Jim Young,L,7,20
+1978-09-09,Florida State,Ind,Bobby Bowden,A,Syracuse,Ind,Frank Maloney,W,28,0
+1978-09-16,Florida State,Ind,Bobby Bowden,H,Oklahoma State,Big 8,Jim Stanley,W,38,20
+1978-09-23,Florida State,Ind,Bobby Bowden,A,Miami (FL),Ind,Lou Saban,W,31,21
+1978-09-30,Florida State,Ind,Bobby Bowden,H,Houston,SWC,Bill Yeoman,L,21,27
+1978-10-07,Florida State,Ind,Bobby Bowden,H,Cincinnati,Ind,Ralph Staub,W,26,21
+1978-10-14,Florida State,Ind,Bobby Bowden,A,Mississippi State,SEC,Bob Tyler,L,27,55
+1978-10-21,Florida State,Ind,Bobby Bowden,A,Pitt,Ind,Jackie Sherrill,L,3,7
+1978-10-28,Florida State,Ind,Bobby Bowden,A,Southern Mississippi,Ind,Bobby Collins,W,38,16
+1978-11-11,Florida State,Ind,Bobby Bowden,H,Virginia Tech,Ind,Bill Dooley,W,24,14
+1978-11-18,Florida State,Ind,Bobby Bowden,H,Navy,Ind,George Welsh,W,38,6
+1978-11-25,Florida State,Ind,Bobby Bowden,H,Florida,SEC,Doug Dickey,W,38,21
+1978-09-09,Iowa State,Big 8,Earle Bruce,A,Rice,SWC,Ray Alborn,W,23,19
+1978-09-16,Iowa State,Big 8,Earle Bruce,H,San Diego State,WAC,Claude Gilbert,W,14,13
+1978-09-23,Iowa State,Big 8,Earle Bruce,A,Iowa,Big Ten,Bob Commings,W,31,0
+1978-09-30,Iowa State,Big 8,Earle Bruce,H,Drake,MVC,Chuck Shelton,W,35,7
+1978-10-07,Iowa State,Big 8,Earle Bruce,H,Nebraska,Big 8,Tom Osborne,L,0,23
+1978-10-14,Iowa State,Big 8,Earle Bruce,A,Missouri,Big 8,Warren Powers,L,13,26
+1978-10-21,Iowa State,Big 8,Earle Bruce,H,Oklahoma,Big 8,Barry Switzer,L,6,34
+1978-10-28,Iowa State,Big 8,Earle Bruce,A,Kansas,Big 8,Bud Moore,W,13,7
+1978-11-04,Iowa State,Big 8,Earle Bruce,H,Kansas State,Big 8,Jim Dickey,W,24,0
+1978-11-11,Iowa State,Big 8,Earle Bruce,A,Oklahoma State,Big 8,Jim Stanley,W,28,15
+1978-11-18,Iowa State,Big 8,Earle Bruce,A,Colorado,Big 8,Bill Mallory,W,20,16
+1978-12-20,Iowa State,Big 8,Earle Bruce,N,Texas A&M,SWC,Tom Wilson,L,12,28
+1978-09-16,Cincinnati,Ind,Ralph Staub,H,Southern Mississippi,Ind,Bobby Collins,W,26,14
+1978-09-23,Cincinnati,Ind,Ralph Staub,H,Louisville,Ind,Vince Gibson,L,14,28
+1978-09-30,Cincinnati,Ind,Ralph Staub,A,Richmond,Ind,Jim Tait,L,28,51
+1978-10-07,Cincinnati,Ind,Ralph Staub,A,Florida State,Ind,Bobby Bowden,L,21,26
+1978-10-14,Cincinnati,Ind,Ralph Staub,A,Temple,Ind,Wayne Hardin,L,13,16
+1978-10-21,Cincinnati,Ind,Ralph Staub,H,Tulsa,MVC,John Cooper,L,26,27
+1978-10-28,Cincinnati,Ind,Ralph Staub,A,Louisiana,Southland,Augie Tammariello,W,38,13
+1978-11-04,Cincinnati,Ind,Ralph Staub,H,Louisiana-Monroe,Ind,John David Crow,W,20,7
+1978-11-11,Cincinnati,Ind,Ralph Staub,H,Ohio,MAC,Bob Kappes,W,35,0
+1978-11-18,Cincinnati,Ind,Ralph Staub,A,Miami (OH),MAC,Tom Reed,L,24,28
+1978-11-25,Cincinnati,Ind,Ralph Staub,A,Memphis,Ind,Richard Williamson,W,34,14
+1978-09-09,Arizona State,Pac-10,Frank Kush,H,Pacific,PCAA,Chester Caddas,W,42,7
+1978-09-16,Arizona State,Pac-10,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,24,17
+1978-09-23,Arizona State,Pac-10,Frank Kush,A,Washington State,Pac-10,Jim Walden,L,26,51
+1978-09-30,Arizona State,Pac-10,Frank Kush,H,UTEP,WAC,Bill Michael,W,27,0
+1978-10-07,Arizona State,Pac-10,Frank Kush,A,Northwestern,Big Ten,Rick Venturi,W,56,14
+1978-10-14,Arizona State,Pac-10,Frank Kush,H,USC,Pac-10,John Robinson,W,20,7
+1978-10-28,Arizona State,Pac-10,Frank Kush,A,Washington,Pac-10,Don James,L,7,41
+1978-11-04,Arizona State,Pac-10,Frank Kush,H,California,Pac-10,Roger Theder,W,35,21
+1978-11-11,Arizona State,Pac-10,Frank Kush,H,Stanford,Pac-10,Bill Walsh,L,14,21
+1978-11-18,Arizona State,Pac-10,Frank Kush,A,Oregon State,Pac-10,Craig Fertig,W,44,22
+1978-11-25,Arizona State,Pac-10,Frank Kush,A,Arizona,Pac-10,Tony Mason,W,18,17
+1978-12-16,Arizona State,Pac-10,Frank Kush,N,Rutgers,Ind,Frank Burns,W,34,18
+1978-09-09,Furman,Southern,Dick Sheridan,A,South Carolina,Ind,Jim Carlen,L,10,45
+1978-09-23,Furman,Southern,Dick Sheridan,A,Vanderbilt,SEC,Fred Pancoast,L,10,17
+1978-09-30,Furman,Southern,Dick Sheridan,A,Appalachian State,Southern,Jim Brakefield,W,52,34
+1978-10-21,Furman,Southern,Dick Sheridan,H,Chattanooga,Southern,Joe Morrison,L,9,13
+1978-10-28,Furman,Southern,Dick Sheridan,A,Marshall,Southern,Frank Ellwood,W,42,12
+1978-11-11,Furman,Southern,Dick Sheridan,A,Western Carolina,Southern,Bob Waters,W,24,7
+1978-11-18,Furman,Southern,Dick Sheridan,H,Citadel,Southern,Art Baker,W,17,13
+1978-09-23,Utah,WAC,Wayne Howard,A,Houston,SWC,Bill Yeoman,L,25,42
+1978-09-30,Utah,WAC,Wayne Howard,H,Colorado State,WAC,Sarkis Arslanian,W,30,6
+1978-10-07,Utah,WAC,Wayne Howard,A,Iowa,Big Ten,Bob Commings,W,13,9
+1978-10-21,Utah,WAC,Wayne Howard,A,Wyoming,WAC,Bill Lewis,L,21,34
+1978-11-04,Utah,WAC,Wayne Howard,H,New Mexico,WAC,Bill Mondt,L,12,24
+1978-11-11,Utah,WAC,Wayne Howard,A,UTEP,WAC,Bill Michael,W,38,0
+1978-11-18,Utah,WAC,Wayne Howard,H,Brigham Young,WAC,LaVell Edwards,W,23,22
+1978-11-25,Utah,WAC,Wayne Howard,A,Utah State,PCAA,Bruce Snyder,W,23,20
+1978-12-02,Utah,WAC,Wayne Howard,A,San Diego State,WAC,Claude Gilbert,W,20,18
+1978-09-30,Cal State Fullerton,PCAA,Jim Colletto,A,Hawaii,Ind,Dick Tomey,L,33,42
+1978-10-07,Cal State Fullerton,PCAA,Jim Colletto,A,Pacific,PCAA,Chester Caddas,L,17,35
+1978-10-21,Cal State Fullerton,PCAA,Jim Colletto,A,Long Beach State,PCAA,Dave Currey,W,34,9
+1978-10-28,Cal State Fullerton,PCAA,Jim Colletto,A,Fresno State,PCAA,Bob Padilla,W,37,8
+1978-11-04,Cal State Fullerton,PCAA,Jim Colletto,A,San Jose State,PCAA,Lynn Stiles,L,21,30
+1978-11-24,Cal State Fullerton,PCAA,Jim Colletto,A,Nevada-Las Vegas,Ind,Tony Knap,L,7,24
+1978-09-09,Wichita State,MVC,Jim Wright,H,Oklahoma State,Big 8,Jim Stanley,W,20,10
+1978-09-16,Wichita State,MVC,Jim Wright,H,New Mexico,WAC,Bill Mondt,L,14,16
+1978-09-30,Wichita State,MVC,Jim Wright,A,West Texas A&M,MVC,Bill Yung,W,38,37
+1978-10-07,Wichita State,MVC,Jim Wright,A,Drake,MVC,Chuck Shelton,L,22,48
+1978-10-14,Wichita State,MVC,Jim Wright,A,Memphis,Ind,Richard Williamson,L,13,26
+1978-10-21,Wichita State,MVC,Jim Wright,H,Southern Illinois,MVC,Rey Dempsey,W,33,7
+1978-10-28,Wichita State,MVC,Jim Wright,H,New Mexico State,MVC,Gil Krueger,L,21,31
+1978-11-04,Wichita State,MVC,Jim Wright,H,Louisville,Ind,Vince Gibson,L,20,38
+1978-11-11,Wichita State,MVC,Jim Wright,H,Tulsa,MVC,John Cooper,L,13,27
+1978-11-18,Wichita State,MVC,Jim Wright,A,Indiana State,MVC,Dick Jamieson,L,18,42
+1978-09-09,Illinois State,Ind,Charlie Cowdrey,A,Western Michigan,MAC,Elliot Uzelac,L,17,27
+1978-09-23,Illinois State,Ind,Charlie Cowdrey,A,Kent State,MAC,Ron Blackledge,L,3,34
+1978-09-30,Illinois State,Ind,Charlie Cowdrey,A,Northern Illinois,MAC,Pat Culpepper,L,21,49
+1978-10-07,Illinois State,Ind,Charlie Cowdrey,H,Southern Illinois,MVC,Rey Dempsey,L,0,26
+1978-10-14,Illinois State,Ind,Charlie Cowdrey,A,Central Michigan,MAC,Herb Deromedi,L,7,45
+1978-10-21,Illinois State,Ind,Charlie Cowdrey,H,Ball State,MAC,Dwight Wallace,L,7,14
+1978-11-11,Illinois State,Ind,Charlie Cowdrey,H,Indiana State,MVC,Dick Jamieson,W,27,14
+1978-11-18,Illinois State,Ind,Charlie Cowdrey,H,Eastern Michigan,MAC,Mike Stock,W,14,13
+1978-09-09,Villanova,Ind,Dick Bedesem,H,Bowling Green State,MAC,Dennis Stolz,W,35,28
+1978-09-23,Villanova,Ind,Dick Bedesem,H,William & Mary,Ind,James Root,L,17,21
+1978-09-30,Villanova,Ind,Dick Bedesem,A,Clemson,ACC,Danny Ford,L,0,31
+1978-10-07,Villanova,Ind,Dick Bedesem,H,Richmond,Ind,Jim Tait,W,17,14
+1978-10-14,Villanova,Ind,Dick Bedesem,H,Colgate,Ind,Frederick Dunlap,L,14,20
+1978-10-21,Villanova,Ind,Dick Bedesem,A,Rutgers,Ind,Frank Burns,L,9,24
+1978-11-04,Villanova,Ind,Dick Bedesem,H,Boston College,Ind,Ed Chlebek,W,28,16
+1978-11-18,Villanova,Ind,Dick Bedesem,N,Temple,Ind,Wayne Hardin,L,17,27
+1978-09-09,Syracuse,Ind,Frank Maloney,H,Florida State,Ind,Bobby Bowden,L,0,28
+1978-09-16,Syracuse,Ind,Frank Maloney,A,North Carolina State,ACC,Bo Rein,L,19,27
+1978-09-23,Syracuse,Ind,Frank Maloney,A,Michigan State,Big Ten,Darryl Rogers,L,21,49
+1978-09-30,Syracuse,Ind,Frank Maloney,H,Illinois,Big Ten,Gary Moeller,L,14,28
+1978-10-07,Syracuse,Ind,Frank Maloney,A,West Virginia,Ind,Frank Cignetti,W,31,15
+1978-10-14,Syracuse,Ind,Frank Maloney,H,Maryland,ACC,Jerry Claiborne,L,9,24
+1978-10-21,Syracuse,Ind,Frank Maloney,A,Penn State,Ind,Joe Paterno,L,15,45
+1978-11-04,Syracuse,Ind,Frank Maloney,H,Pitt,Ind,Jackie Sherrill,L,17,18
+1978-11-11,Syracuse,Ind,Frank Maloney,H,Navy,Ind,George Welsh,W,20,17
+1978-11-18,Syracuse,Ind,Frank Maloney,A,Boston College,Ind,Ed Chlebek,W,37,23
+1978-11-25,Syracuse,Ind,Frank Maloney,A,Miami (FL),Ind,Lou Saban,L,9,21
+1978-09-09,Arizona,Pac-10,Tony Mason,H,Kansas State,Big 8,Jim Dickey,W,31,0
+1978-09-16,Arizona,Pac-10,Tony Mason,H,Oregon State,Pac-10,Craig Fertig,W,21,7
+1978-09-23,Arizona,Pac-10,Tony Mason,A,Texas Tech,SWC,Rex Dockery,L,26,41
+1978-09-30,Arizona,Pac-10,Tony Mason,H,Iowa,Big Ten,Bob Commings,W,23,3
+1978-10-07,Arizona,Pac-10,Tony Mason,A,Michigan,Big Ten,Bo Schembechler,L,17,21
+1978-10-14,Arizona,Pac-10,Tony Mason,H,California,Pac-10,Roger Theder,L,20,33
+1978-10-27,Arizona,Pac-10,Tony Mason,A,UCLA,Pac-10,Terry Donahue,L,14,24
+1978-11-04,Arizona,Pac-10,Tony Mason,A,Washington,Pac-10,Don James,L,21,31
+1978-11-11,Arizona,Pac-10,Tony Mason,A,Oregon,Pac-10,Rich Brooks,W,24,3
+1978-11-18,Arizona,Pac-10,Tony Mason,H,Washington State,Pac-10,Jim Walden,W,31,24
+1978-11-25,Arizona,Pac-10,Tony Mason,H,Arizona State,Pac-10,Frank Kush,L,17,18
+1978-09-01,Penn State,Ind,Joe Paterno,A,Temple,Ind,Wayne Hardin,W,10,7
+1978-09-09,Penn State,Ind,Joe Paterno,H,Rutgers,Ind,Frank Burns,W,26,10
+1978-09-16,Penn State,Ind,Joe Paterno,A,Ohio State,Big Ten,Woody Hayes,W,19,0
+1978-09-23,Penn State,Ind,Joe Paterno,H,SMU,SWC,Ron Meyer,W,26,21
+1978-09-30,Penn State,Ind,Joe Paterno,H,Texas Christian,SWC,F. Dry,W,58,0
+1978-10-07,Penn State,Ind,Joe Paterno,A,Kentucky,SEC,Fran Curci,W,30,0
+1978-10-21,Penn State,Ind,Joe Paterno,H,Syracuse,Ind,Frank Maloney,W,45,15
+1978-10-28,Penn State,Ind,Joe Paterno,A,West Virginia,Ind,Frank Cignetti,W,49,21
+1978-11-04,Penn State,Ind,Joe Paterno,H,Maryland,ACC,Jerry Claiborne,W,27,3
+1978-11-11,Penn State,Ind,Joe Paterno,H,North Carolina State,ACC,Bo Rein,W,19,10
+1978-11-25,Penn State,Ind,Joe Paterno,H,Pitt,Ind,Jackie Sherrill,W,17,10
+1979-01-01,Penn State,Ind,Joe Paterno,N,Alabama,SEC,Bear Bryant,L,7,14
+1978-09-23,Princeton,Ivy,Frank Navarro,A,Cornell,Ivy,Bob Blackman,T,14,14
+1978-09-30,Princeton,Ivy,Frank Navarro,N,Rutgers,Ind,Frank Burns,L,0,24
+1978-10-07,Princeton,Ivy,Frank Navarro,H,Brown,Ivy,John Anderson,L,16,44
+1978-10-14,Princeton,Ivy,Frank Navarro,A,Columbia,Ivy,William Campbell,L,10,14
+1978-10-21,Princeton,Ivy,Frank Navarro,H,Colgate,Ind,Frederick Dunlap,W,13,12
+1978-10-28,Princeton,Ivy,Frank Navarro,H,Harvard,Ivy,Joseph Restic,T,24,24
+1978-11-04,Princeton,Ivy,Frank Navarro,H,Pennsylvania,Ivy,Harry Gamble,W,21,0
+1978-11-11,Princeton,Ivy,Frank Navarro,A,Yale,Ivy,Carmen Cozza,L,7,23
+1978-11-18,Princeton,Ivy,Frank Navarro,H,Dartmouth,Ivy,Joseph Yukica,L,21,28
+1978-09-16,Vanderbilt,SEC,Fred Pancoast,A,Arkansas,SWC,Lou Holtz,L,17,48
+1978-09-23,Vanderbilt,SEC,Fred Pancoast,H,Furman,Southern,Dick Sheridan,W,17,10
+1978-09-30,Vanderbilt,SEC,Fred Pancoast,A,Alabama,SEC,Bear Bryant,L,28,51
+1978-10-07,Vanderbilt,SEC,Fred Pancoast,H,Tulane,Ind,Larry Smith,L,3,38
+1978-10-14,Vanderbilt,SEC,Fred Pancoast,H,Auburn,SEC,Doug Barfield,L,7,49
+1978-10-21,Vanderbilt,SEC,Fred Pancoast,A,Georgia,SEC,Vince Dooley,L,10,31
+1978-10-28,Vanderbilt,SEC,Fred Pancoast,H,Ole Miss,SEC,Steve Sloan,L,10,35
+1978-11-04,Vanderbilt,SEC,Fred Pancoast,A,Memphis,Ind,Richard Williamson,L,14,35
+1978-11-11,Vanderbilt,SEC,Fred Pancoast,A,Kentucky,SEC,Fran Curci,L,2,53
+1978-11-18,Vanderbilt,SEC,Fred Pancoast,H,Air Force,Ind,Bill Parcells,W,41,27
+1978-12-02,Vanderbilt,SEC,Fred Pancoast,H,Tennessee,SEC,Johnny Majors,L,15,41
+1978-09-16,Kentucky,SEC,Fran Curci,A,South Carolina,Ind,Jim Carlen,T,14,14
+1978-09-23,Kentucky,SEC,Fran Curci,H,Baylor,SWC,Grant Teaff,W,25,21
+1978-09-30,Kentucky,SEC,Fran Curci,A,Maryland,ACC,Jerry Claiborne,L,3,20
+1978-10-07,Kentucky,SEC,Fran Curci,H,Penn State,Ind,Joe Paterno,L,0,30
+1978-10-14,Kentucky,SEC,Fran Curci,A,Ole Miss,SEC,Steve Sloan,W,24,17
+1978-10-21,Kentucky,SEC,Fran Curci,H,LSU,SEC,Charles McClendon,L,0,21
+1978-10-28,Kentucky,SEC,Fran Curci,H,Georgia,SEC,Vince Dooley,L,16,17
+1978-11-04,Kentucky,SEC,Fran Curci,A,Virginia Tech,Ind,Bill Dooley,W,28,0
+1978-11-11,Kentucky,SEC,Fran Curci,H,Vanderbilt,SEC,Fred Pancoast,W,53,2
+1978-11-18,Kentucky,SEC,Fran Curci,H,Florida,SEC,Doug Dickey,L,16,18
+1978-11-25,Kentucky,SEC,Fran Curci,A,Tennessee,SEC,Johnny Majors,L,14,29
+1978-09-09,California,Pac-10,Roger Theder,A,Nebraska,Big 8,Tom Osborne,L,26,36
+1978-09-16,California,Pac-10,Roger Theder,A,Georgia Tech,Ind,Pepper Rodgers,W,34,22
+1978-09-23,California,Pac-10,Roger Theder,H,Pacific,PCAA,Chester Caddas,W,24,6
+1978-09-30,California,Pac-10,Roger Theder,A,West Virginia,Ind,Frank Cignetti,W,28,21
+1978-10-07,California,Pac-10,Roger Theder,H,Oregon,Pac-10,Rich Brooks,W,21,18
+1978-10-14,California,Pac-10,Roger Theder,A,Arizona,Pac-10,Tony Mason,W,33,20
+1978-10-21,California,Pac-10,Roger Theder,H,UCLA,Pac-10,Terry Donahue,L,0,45
+1978-10-28,California,Pac-10,Roger Theder,A,USC,Pac-10,John Robinson,L,17,42
+1978-11-04,California,Pac-10,Roger Theder,A,Arizona State,Pac-10,Frank Kush,L,21,35
+1978-11-11,California,Pac-10,Roger Theder,H,Washington State,Pac-10,Jim Walden,W,22,14
+1978-11-18,California,Pac-10,Roger Theder,H,Stanford,Pac-10,Bill Walsh,L,10,30
+1978-09-16,Florida,SEC,Doug Dickey,H,SMU,SWC,Ron Meyer,L,25,35
+1978-09-30,Florida,SEC,Doug Dickey,H,Mississippi State,SEC,Bob Tyler,W,34,0
+1978-10-07,Florida,SEC,Doug Dickey,H,LSU,SEC,Charles McClendon,L,21,34
+1978-10-14,Florida,SEC,Doug Dickey,A,Alabama,SEC,Bear Bryant,L,12,23
+1978-10-21,Florida,SEC,Doug Dickey,H,Army,Ind,Homer Smith,W,31,7
+1978-10-28,Florida,SEC,Doug Dickey,A,Georgia Tech,Ind,Pepper Rodgers,L,13,17
+1978-11-04,Florida,SEC,Doug Dickey,H,Auburn,SEC,Doug Barfield,W,31,7
+1978-11-11,Florida,SEC,Doug Dickey,N,Georgia,SEC,Vince Dooley,L,22,24
+1978-11-18,Florida,SEC,Doug Dickey,A,Kentucky,SEC,Fran Curci,W,18,16
+1978-11-25,Florida,SEC,Doug Dickey,A,Florida State,Ind,Bobby Bowden,L,21,38
+1978-12-02,Florida,SEC,Doug Dickey,H,Miami (FL),Ind,Lou Saban,L,21,22
+1978-09-09,Stanford,Pac-10,Bill Walsh,H,Oklahoma,Big 8,Barry Switzer,L,29,35
+1978-09-16,Stanford,Pac-10,Bill Walsh,H,San Jose State,PCAA,Lynn Stiles,W,38,9
+1978-09-23,Stanford,Pac-10,Bill Walsh,A,Illinois,Big Ten,Gary Moeller,W,35,10
+1978-09-30,Stanford,Pac-10,Bill Walsh,H,Tulane,Ind,Larry Smith,W,17,14
+1978-10-07,Stanford,Pac-10,Bill Walsh,A,UCLA,Pac-10,Terry Donahue,L,26,27
+1978-10-14,Stanford,Pac-10,Bill Walsh,H,Washington,Pac-10,Don James,L,31,34
+1978-10-21,Stanford,Pac-10,Bill Walsh,A,Washington State,Pac-10,Jim Walden,W,43,27
+1978-10-28,Stanford,Pac-10,Bill Walsh,H,Oregon State,Pac-10,Craig Fertig,W,24,6
+1978-11-04,Stanford,Pac-10,Bill Walsh,H,USC,Pac-10,John Robinson,L,7,13
+1978-11-11,Stanford,Pac-10,Bill Walsh,A,Arizona State,Pac-10,Frank Kush,W,21,14
+1978-11-18,Stanford,Pac-10,Bill Walsh,A,California,Pac-10,Roger Theder,W,30,10
+1978-12-31,Stanford,Pac-10,Bill Walsh,N,Georgia,SEC,Vince Dooley,W,25,22
+1978-09-09,Washington State,Pac-10,Jim Walden,H,Nevada-Las Vegas,Ind,Tony Knap,W,34,7
+1978-09-23,Washington State,Pac-10,Jim Walden,H,Arizona State,Pac-10,Frank Kush,W,51,26
+1978-09-30,Washington State,Pac-10,Jim Walden,A,Army,Ind,Homer Smith,T,21,21
+1978-10-14,Washington State,Pac-10,Jim Walden,A,UCLA,Pac-10,Terry Donahue,L,31,45
+1978-10-21,Washington State,Pac-10,Jim Walden,H,Stanford,Pac-10,Bill Walsh,L,27,43
+1978-10-28,Washington State,Pac-10,Jim Walden,A,Oregon,Pac-10,Rich Brooks,L,7,31
+1978-11-04,Washington State,Pac-10,Jim Walden,H,Oregon State,Pac-10,Craig Fertig,L,31,32
+1978-11-11,Washington State,Pac-10,Jim Walden,A,California,Pac-10,Roger Theder,L,14,22
+1978-11-18,Washington State,Pac-10,Jim Walden,A,Arizona,Pac-10,Tony Mason,L,24,31
+1978-11-25,Washington State,Pac-10,Jim Walden,H,Washington,Pac-10,Don James,L,8,38
+1978-09-09,Illinois,Big Ten,Gary Moeller,H,Northwestern,Big Ten,Rick Venturi,T,0,0
+1978-09-16,Illinois,Big Ten,Gary Moeller,A,Michigan,Big Ten,Bo Schembechler,L,0,31
+1978-09-23,Illinois,Big Ten,Gary Moeller,H,Stanford,Pac-10,Bill Walsh,L,10,35
+1978-09-30,Illinois,Big Ten,Gary Moeller,A,Syracuse,Ind,Frank Maloney,W,28,14
+1978-10-07,Illinois,Big Ten,Gary Moeller,A,Missouri,Big 8,Warren Powers,L,3,45
+1978-10-14,Illinois,Big Ten,Gary Moeller,H,Wisconsin,Big Ten,Dave McClain,T,20,20
+1978-10-21,Illinois,Big Ten,Gary Moeller,H,Purdue,Big Ten,Jim Young,L,0,13
+1978-10-28,Illinois,Big Ten,Gary Moeller,A,Indiana,Big Ten,Lee Corso,L,10,31
+1978-11-04,Illinois,Big Ten,Gary Moeller,H,Michigan State,Big Ten,Darryl Rogers,L,19,59
+1978-11-11,Illinois,Big Ten,Gary Moeller,A,Ohio State,Big Ten,Woody Hayes,L,7,45
+1978-11-18,Illinois,Big Ten,Gary Moeller,A,Minnesota,Big Ten,Cal Stoll,L,6,24
+1978-09-09,McNeese State,Southland,Jack Doland,H,Fresno State,PCAA,Bob Padilla,W,21,16
+1978-09-16,McNeese State,Southland,Jack Doland,A,West Texas A&M,MVC,Bill Yung,W,45,13
+1978-09-23,McNeese State,Southland,Jack Doland,A,Northwestern State,Ind,,L,7,10
+1978-09-30,McNeese State,Southland,Jack Doland,A,Louisiana Tech,Southland,Maxie Lambright,L,20,34
+1978-10-14,McNeese State,Southland,Jack Doland,H,Louisiana-Monroe,Ind,John David Crow,W,31,10
+1978-10-21,McNeese State,Southland,Jack Doland,A,Arkansas State,Southland,Bill Davidson,L,3,6
+1978-10-28,McNeese State,Southland,Jack Doland,H,Chattanooga,Southern,Joe Morrison,W,28,24
+1978-11-11,McNeese State,Southland,Jack Doland,A,Lamar,Southland,Bob Frederick,W,24,23
+1978-11-18,McNeese State,Southland,Jack Doland,H,Texas-Arlington,Southland,Harold Elliott,L,17,20
+1978-11-25,McNeese State,Southland,Jack Doland,H,Louisiana,Southland,Augie Tammariello,W,44,18
+1978-09-16,Baylor,SWC,Grant Teaff,A,Georgia,SEC,Vince Dooley,L,14,16
+1978-09-23,Baylor,SWC,Grant Teaff,A,Kentucky,SEC,Fran Curci,L,21,25
+1978-09-30,Baylor,SWC,Grant Teaff,A,Ohio State,Big Ten,Woody Hayes,L,28,34
+1978-10-07,Baylor,SWC,Grant Teaff,H,Houston,SWC,Bill Yeoman,L,18,20
+1978-10-14,Baylor,SWC,Grant Teaff,H,SMU,SWC,Ron Meyer,L,21,28
+1978-10-21,Baylor,SWC,Grant Teaff,A,Texas A&M,SWC,Tom Wilson,W,24,6
+1978-10-28,Baylor,SWC,Grant Teaff,A,Texas Christian,SWC,F. Dry,W,28,21
+1978-11-04,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Rex Dockery,L,9,27
+1978-11-11,Baylor,SWC,Grant Teaff,H,Arkansas,SWC,Lou Holtz,L,14,27
+1978-11-18,Baylor,SWC,Grant Teaff,A,Rice,SWC,Ray Alborn,L,10,24
+1978-11-25,Baylor,SWC,Grant Teaff,H,Texas,SWC,Fred Akers,W,38,14
+1978-09-09,SMU,SWC,Ron Meyer,H,Texas Christian,SWC,F. Dry,W,45,14
+1978-09-16,SMU,SWC,Ron Meyer,A,Florida,SEC,Doug Dickey,W,35,25
+1978-09-23,SMU,SWC,Ron Meyer,A,Penn State,Ind,Joe Paterno,L,21,26
+1978-10-07,SMU,SWC,Ron Meyer,A,Ohio State,Big Ten,Woody Hayes,T,35,35
+1978-10-14,SMU,SWC,Ron Meyer,A,Baylor,SWC,Grant Teaff,W,28,21
+1978-10-21,SMU,SWC,Ron Meyer,H,Houston,SWC,Bill Yeoman,L,28,42
+1978-10-28,SMU,SWC,Ron Meyer,A,Texas,SWC,Fred Akers,L,3,22
+1978-11-04,SMU,SWC,Ron Meyer,H,Texas A&M,SWC,Tom Wilson,L,17,20
+1978-11-11,SMU,SWC,Ron Meyer,A,Rice,SWC,Ray Alborn,W,58,0
+1978-11-18,SMU,SWC,Ron Meyer,A,Texas Tech,SWC,Rex Dockery,L,16,19
+1978-11-25,SMU,SWC,Ron Meyer,H,Arkansas,SWC,Lou Holtz,L,14,27
+1978-09-16,Georgia,SEC,Vince Dooley,H,Baylor,SWC,Grant Teaff,W,16,14
+1978-09-23,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Danny Ford,W,12,0
+1978-09-30,Georgia,SEC,Vince Dooley,A,South Carolina,Ind,Jim Carlen,L,10,27
+1978-10-07,Georgia,SEC,Vince Dooley,H,Ole Miss,SEC,Steve Sloan,W,42,3
+1978-10-14,Georgia,SEC,Vince Dooley,A,LSU,SEC,Charles McClendon,W,24,17
+1978-10-21,Georgia,SEC,Vince Dooley,H,Vanderbilt,SEC,Fred Pancoast,W,31,10
+1978-10-28,Georgia,SEC,Vince Dooley,A,Kentucky,SEC,Fran Curci,W,17,16
+1978-11-04,Georgia,SEC,Vince Dooley,H,Virginia Military Institute,Southern,Bob Thalman,W,41,3
+1978-11-11,Georgia,SEC,Vince Dooley,N,Florida,SEC,Doug Dickey,W,24,22
+1978-11-18,Georgia,SEC,Vince Dooley,A,Auburn,SEC,Doug Barfield,T,22,22
+1978-12-02,Georgia,SEC,Vince Dooley,H,Georgia Tech,Ind,Pepper Rodgers,W,29,28
+1978-12-31,Georgia,SEC,Vince Dooley,N,Stanford,Pac-10,Bill Walsh,L,22,25
+1978-09-09,Maryland,ACC,Jerry Claiborne,H,Tulane,Ind,Larry Smith,W,31,7
+1978-09-16,Maryland,ACC,Jerry Claiborne,A,Louisville,Ind,Vince Gibson,W,24,17
+1978-09-23,Maryland,ACC,Jerry Claiborne,A,North Carolina,ACC,Dick Crum,W,21,20
+1978-09-30,Maryland,ACC,Jerry Claiborne,H,Kentucky,SEC,Fran Curci,W,20,3
+1978-10-07,Maryland,ACC,Jerry Claiborne,H,North Carolina State,ACC,Bo Rein,W,31,7
+1978-10-14,Maryland,ACC,Jerry Claiborne,A,Syracuse,Ind,Frank Maloney,W,24,9
+1978-10-21,Maryland,ACC,Jerry Claiborne,H,Wake Forest,ACC,John Mackovic,W,39,0
+1978-10-28,Maryland,ACC,Jerry Claiborne,A,Duke,ACC,Mike McGee,W,27,0
+1978-11-04,Maryland,ACC,Jerry Claiborne,A,Penn State,Ind,Joe Paterno,L,3,27
+1978-11-11,Maryland,ACC,Jerry Claiborne,A,Virginia,ACC,Dick Bestwick,W,17,7
+1978-11-18,Maryland,ACC,Jerry Claiborne,H,Clemson,ACC,Danny Ford,L,24,28
+1978-12-23,Maryland,ACC,Jerry Claiborne,N,Texas,SWC,Fred Akers,L,0,42
+1978-09-09,Virginia,ACC,Dick Bestwick,A,Wake Forest,ACC,John Mackovic,L,0,14
+1978-09-16,Virginia,ACC,Dick Bestwick,H,Navy,Ind,George Welsh,L,0,32
+1978-09-23,Virginia,ACC,Dick Bestwick,A,Army,Ind,Homer Smith,W,21,17
+1978-09-30,Virginia,ACC,Dick Bestwick,H,Virginia Military Institute,Southern,Bob Thalman,L,9,17
+1978-10-07,Virginia,ACC,Dick Bestwick,A,Duke,ACC,Mike McGee,L,13,20
+1978-10-14,Virginia,ACC,Dick Bestwick,H,Clemson,ACC,Danny Ford,L,14,30
+1978-10-21,Virginia,ACC,Dick Bestwick,H,Virginia Tech,Ind,Bill Dooley,W,17,7
+1978-11-04,Virginia,ACC,Dick Bestwick,A,West Virginia,Ind,Frank Cignetti,L,17,20
+1978-11-11,Virginia,ACC,Dick Bestwick,H,Maryland,ACC,Jerry Claiborne,L,7,17
+1978-11-18,Virginia,ACC,Dick Bestwick,A,North Carolina,ACC,Dick Crum,L,20,38
+1978-11-25,Virginia,ACC,Dick Bestwick,H,North Carolina State,ACC,Bo Rein,L,21,24
+1978-09-16,Citadel,Southern,Art Baker,A,Clemson,ACC,Danny Ford,L,3,58
+1978-09-23,Citadel,Southern,Art Baker,H,Virginia Military Institute,Southern,Bob Thalman,W,14,3
+1978-09-30,Citadel,Southern,Art Baker,A,Georgia Tech,Ind,Pepper Rodgers,L,0,28
+1978-10-07,Citadel,Southern,Art Baker,H,Marshall,Southern,Frank Ellwood,W,41,0
+1978-10-14,Citadel,Southern,Art Baker,A,Western Carolina,Southern,Bob Waters,L,24,38
+1978-10-21,Citadel,Southern,Art Baker,A,Appalachian State,Southern,Jim Brakefield,L,14,42
+1978-11-04,Citadel,Southern,Art Baker,A,William & Mary,Ind,James Root,L,8,12
+1978-11-18,Citadel,Southern,Art Baker,A,Furman,Southern,Dick Sheridan,L,13,17
+1978-09-09,Oklahoma,Big 8,Barry Switzer,A,Stanford,Pac-10,Bill Walsh,W,35,29
+1978-09-16,Oklahoma,Big 8,Barry Switzer,H,West Virginia,Ind,Frank Cignetti,W,52,10
+1978-09-23,Oklahoma,Big 8,Barry Switzer,H,Rice,SWC,Ray Alborn,W,66,7
+1978-09-30,Oklahoma,Big 8,Barry Switzer,H,Missouri,Big 8,Warren Powers,W,45,23
+1978-10-07,Oklahoma,Big 8,Barry Switzer,N,Texas,SWC,Fred Akers,W,31,10
+1978-10-14,Oklahoma,Big 8,Barry Switzer,A,Kansas,Big 8,Bud Moore,W,17,16
+1978-10-21,Oklahoma,Big 8,Barry Switzer,A,Iowa State,Big 8,Earle Bruce,W,34,6
+1978-10-28,Oklahoma,Big 8,Barry Switzer,H,Kansas State,Big 8,Jim Dickey,W,56,19
+1978-11-04,Oklahoma,Big 8,Barry Switzer,A,Colorado,Big 8,Bill Mallory,W,28,7
+1978-11-11,Oklahoma,Big 8,Barry Switzer,A,Nebraska,Big 8,Tom Osborne,L,14,17
+1978-11-18,Oklahoma,Big 8,Barry Switzer,H,Oklahoma State,Big 8,Jim Stanley,W,62,7
+1979-01-01,Oklahoma,Big 8,Barry Switzer,N,Nebraska,Big 8,Tom Osborne,W,31,24
+1978-09-09,Virginia Tech,Ind,Bill Dooley,H,Tulsa,MVC,John Cooper,L,33,35
+1978-09-16,Virginia Tech,Ind,Bill Dooley,A,Wake Forest,ACC,John Mackovic,W,28,6
+1978-09-23,Virginia Tech,Ind,Bill Dooley,H,Auburn,SEC,Doug Barfield,L,7,18
+1978-09-30,Virginia Tech,Ind,Bill Dooley,H,William & Mary,Ind,James Root,W,22,19
+1978-10-07,Virginia Tech,Ind,Bill Dooley,A,Clemson,ACC,Danny Ford,L,7,38
+1978-10-14,Virginia Tech,Ind,Bill Dooley,H,West Virginia,Ind,Frank Cignetti,W,16,3
+1978-10-21,Virginia Tech,Ind,Bill Dooley,A,Virginia,ACC,Dick Bestwick,L,7,17
+1978-10-28,Virginia Tech,Ind,Bill Dooley,A,Alabama,SEC,Bear Bryant,L,0,35
+1978-11-04,Virginia Tech,Ind,Bill Dooley,H,Kentucky,SEC,Fran Curci,L,0,28
+1978-11-11,Virginia Tech,Ind,Bill Dooley,A,Florida State,Ind,Bobby Bowden,L,14,24
+1978-11-18,Virginia Tech,Ind,Bill Dooley,H,Virginia Military Institute,Southern,Bob Thalman,W,28,2
+1978-09-16,Louisville,Ind,Vince Gibson,H,Maryland,ACC,Jerry Claiborne,L,17,24
+1978-09-23,Louisville,Ind,Vince Gibson,A,Cincinnati,Ind,Ralph Staub,W,28,14
+1978-09-30,Louisville,Ind,Vince Gibson,H,Indiana State,MVC,Dick Jamieson,W,31,12
+1978-10-07,Louisville,Ind,Vince Gibson,A,Tulsa,MVC,John Cooper,L,7,24
+1978-10-14,Louisville,Ind,Vince Gibson,H,Northwestern State,Ind,,W,51,7
+1978-10-28,Louisville,Ind,Vince Gibson,H,William & Mary,Ind,James Root,W,33,21
+1978-11-04,Louisville,Ind,Vince Gibson,A,Wichita State,MVC,Jim Wright,W,38,20
+1978-11-11,Louisville,Ind,Vince Gibson,H,Memphis,Ind,Richard Williamson,L,22,29
+1978-11-18,Louisville,Ind,Vince Gibson,A,Southern Mississippi,Ind,Bobby Collins,L,3,37
+1978-09-09,Southern Illinois,MVC,Rey Dempsey,A,Drake,MVC,Chuck Shelton,L,14,38
+1978-09-16,Southern Illinois,MVC,Rey Dempsey,A,Lamar,Southland,Bob Frederick,W,22,20
+1978-09-23,Southern Illinois,MVC,Rey Dempsey,H,West Texas A&M,MVC,Bill Yung,W,17,3
+1978-09-30,Southern Illinois,MVC,Rey Dempsey,H,New Mexico State,MVC,Gil Krueger,W,43,39
+1978-10-07,Southern Illinois,MVC,Rey Dempsey,A,Illinois State,Ind,Charlie Cowdrey,W,26,0
+1978-10-14,Southern Illinois,MVC,Rey Dempsey,H,Arkansas State,Southland,Bill Davidson,L,24,26
+1978-10-21,Southern Illinois,MVC,Rey Dempsey,A,Wichita State,MVC,Jim Wright,L,7,33
+1978-10-28,Southern Illinois,MVC,Rey Dempsey,H,Northern Illinois,MAC,Pat Culpepper,L,13,14
+1978-11-04,Southern Illinois,MVC,Rey Dempsey,A,Indiana State,MVC,Dick Jamieson,W,28,7
+1978-11-11,Southern Illinois,MVC,Rey Dempsey,H,Marshall,Southern,Frank Ellwood,W,15,14
+1978-11-18,Southern Illinois,MVC,Rey Dempsey,A,Louisiana,Southland,Augie Tammariello,W,10,9
+1978-09-16,Arkansas,SWC,Lou Holtz,H,Vanderbilt,SEC,Fred Pancoast,W,48,17
+1978-09-23,Arkansas,SWC,Lou Holtz,A,Oklahoma State,Big 8,Jim Stanley,W,19,7
+1978-09-30,Arkansas,SWC,Lou Holtz,H,Tulsa,MVC,John Cooper,W,21,13
+1978-10-07,Arkansas,SWC,Lou Holtz,H,Texas Christian,SWC,F. Dry,W,42,3
+1978-10-21,Arkansas,SWC,Lou Holtz,A,Texas,SWC,Fred Akers,L,21,28
+1978-10-28,Arkansas,SWC,Lou Holtz,A,Houston,SWC,Bill Yeoman,L,9,20
+1978-11-04,Arkansas,SWC,Lou Holtz,H,Rice,SWC,Ray Alborn,W,37,7
+1978-11-11,Arkansas,SWC,Lou Holtz,A,Baylor,SWC,Grant Teaff,W,27,14
+1978-11-18,Arkansas,SWC,Lou Holtz,H,Texas A&M,SWC,Tom Wilson,W,26,7
+1978-11-25,Arkansas,SWC,Lou Holtz,A,SMU,SWC,Ron Meyer,W,27,14
+1978-12-02,Arkansas,SWC,Lou Holtz,H,Texas Tech,SWC,Rex Dockery,W,49,7
+1978-12-25,Arkansas,SWC,Lou Holtz,N,UCLA,Pac-10,Terry Donahue,T,10,10
+1978-09-16,Clemson,ACC,Danny Ford,H,Citadel,Southern,Art Baker,W,58,3
+1978-09-23,Clemson,ACC,Danny Ford,A,Georgia,SEC,Vince Dooley,L,0,12
+1978-09-30,Clemson,ACC,Danny Ford,H,Villanova,Ind,Dick Bedesem,W,31,0
+1978-10-07,Clemson,ACC,Danny Ford,H,Virginia Tech,Ind,Bill Dooley,W,38,7
+1978-10-14,Clemson,ACC,Danny Ford,A,Virginia,ACC,Dick Bestwick,W,30,14
+1978-10-21,Clemson,ACC,Danny Ford,H,Duke,ACC,Mike McGee,W,28,8
+1978-10-28,Clemson,ACC,Danny Ford,A,North Carolina State,ACC,Bo Rein,W,33,10
+1978-11-04,Clemson,ACC,Danny Ford,A,Wake Forest,ACC,John Mackovic,W,51,6
+1978-11-11,Clemson,ACC,Danny Ford,H,North Carolina,ACC,Dick Crum,W,13,9
+1978-11-18,Clemson,ACC,Danny Ford,A,Maryland,ACC,Jerry Claiborne,W,28,24
+1978-11-25,Clemson,ACC,Danny Ford,H,South Carolina,Ind,Jim Carlen,W,41,23
+1978-12-29,Clemson,ACC,Danny Ford,N,Ohio State,Big Ten,Woody Hayes,W,17,15
+1978-09-09,South Carolina,Ind,Jim Carlen,H,Furman,Southern,Dick Sheridan,W,45,10
+1978-09-16,South Carolina,Ind,Jim Carlen,H,Kentucky,SEC,Fran Curci,T,14,14
+1978-09-23,South Carolina,Ind,Jim Carlen,A,Duke,ACC,Mike McGee,L,12,16
+1978-09-30,South Carolina,Ind,Jim Carlen,H,Georgia,SEC,Vince Dooley,W,27,10
+1978-10-07,South Carolina,Ind,Jim Carlen,A,Georgia Tech,Ind,Pepper Rodgers,L,3,6
+1978-10-14,South Carolina,Ind,Jim Carlen,H,Ohio,MAC,Bob Kappes,W,24,7
+1978-10-21,South Carolina,Ind,Jim Carlen,H,Ole Miss,SEC,Steve Sloan,W,18,17
+1978-10-28,South Carolina,Ind,Jim Carlen,H,North Carolina,ACC,Dick Crum,L,22,24
+1978-11-04,South Carolina,Ind,Jim Carlen,A,North Carolina State,ACC,Bo Rein,L,13,22
+1978-11-18,South Carolina,Ind,Jim Carlen,H,Wake Forest,ACC,John Mackovic,W,37,14
+1978-11-25,South Carolina,Ind,Jim Carlen,A,Clemson,ACC,Danny Ford,L,23,41
+1978-09-09,Washington,Pac-10,Don James,H,UCLA,Pac-10,Terry Donahue,L,7,10
+1978-09-16,Washington,Pac-10,Don James,H,Kansas,Big 8,Bud Moore,W,31,2
+1978-09-23,Washington,Pac-10,Don James,A,Indiana,Big Ten,Lee Corso,L,7,14
+1978-09-30,Washington,Pac-10,Don James,A,Oregon State,Pac-10,Craig Fertig,W,34,0
+1978-10-07,Washington,Pac-10,Don James,H,Alabama,SEC,Bear Bryant,L,17,20
+1978-10-14,Washington,Pac-10,Don James,A,Stanford,Pac-10,Bill Walsh,W,34,31
+1978-10-21,Washington,Pac-10,Don James,H,Oregon,Pac-10,Rich Brooks,W,20,14
+1978-10-28,Washington,Pac-10,Don James,H,Arizona State,Pac-10,Frank Kush,W,41,7
+1978-11-04,Washington,Pac-10,Don James,H,Arizona,Pac-10,Tony Mason,W,31,21
+1978-11-11,Washington,Pac-10,Don James,A,USC,Pac-10,John Robinson,L,10,28
+1978-11-25,Washington,Pac-10,Don James,A,Washington State,Pac-10,Jim Walden,W,38,8
+1978-09-09,Ball State,MAC,Dwight Wallace,H,Miami (OH),MAC,Tom Reed,W,38,14
+1978-09-16,Ball State,MAC,Dwight Wallace,H,Kent State,MAC,Ron Blackledge,W,27,3
+1978-09-23,Ball State,MAC,Dwight Wallace,H,Toledo,MAC,Chuck Stobart,W,20,0
+1978-09-30,Ball State,MAC,Dwight Wallace,A,Central Michigan,MAC,Herb Deromedi,W,27,0
+1978-10-07,Ball State,MAC,Dwight Wallace,H,Indiana State,MVC,Dick Jamieson,W,7,0
+1978-10-14,Ball State,MAC,Dwight Wallace,A,Louisiana Tech,Southland,Maxie Lambright,L,7,17
+1978-10-21,Ball State,MAC,Dwight Wallace,A,Illinois State,Ind,Charlie Cowdrey,W,14,7
+1978-10-28,Ball State,MAC,Dwight Wallace,A,Eastern Michigan,MAC,Mike Stock,W,21,0
+1978-11-04,Ball State,MAC,Dwight Wallace,A,Bowling Green State,MAC,Dennis Stolz,W,39,14
+1978-11-11,Ball State,MAC,Dwight Wallace,H,Western Michigan,MAC,Elliot Uzelac,W,20,14
+1978-11-18,Ball State,MAC,Dwight Wallace,A,Northern Illinois,MAC,Pat Culpepper,W,31,13
+1978-09-16,Holy Cross,Ind,Neil Wheelwright,A,Colgate,Ind,Frederick Dunlap,W,27,14
+1978-09-23,Holy Cross,Ind,Neil Wheelwright,A,Air Force,Ind,Bill Parcells,W,35,18
+1978-09-30,Holy Cross,Ind,Neil Wheelwright,H,Dartmouth,Ivy,Joseph Yukica,W,35,0
+1978-10-14,Holy Cross,Ind,Neil Wheelwright,A,Army,Ind,Homer Smith,W,31,0
+1978-10-28,Holy Cross,Ind,Neil Wheelwright,A,Brown,Ivy,John Anderson,L,25,31
+1978-11-18,Holy Cross,Ind,Neil Wheelwright,H,Rutgers,Ind,Frank Burns,L,21,31
+1978-12-02,Holy Cross,Ind,Neil Wheelwright,A,Boston College,Ind,Ed Chlebek,W,30,29
+1978-09-02,Southern Mississippi,Ind,Bobby Collins,A,Richmond,Ind,Jim Tait,W,10,7
+1978-09-09,Southern Mississippi,Ind,Bobby Collins,A,Arkansas State,Southland,Bill Davidson,W,21,6
+1978-09-16,Southern Mississippi,Ind,Bobby Collins,A,Cincinnati,Ind,Ralph Staub,L,14,26
+1978-09-30,Southern Mississippi,Ind,Bobby Collins,N,Ole Miss,SEC,Steve Sloan,L,13,16
+1978-10-07,Southern Mississippi,Ind,Bobby Collins,H,Mississippi State,SEC,Bob Tyler,W,22,17
+1978-10-14,Southern Mississippi,Ind,Bobby Collins,H,East Carolina,Ind,Pat Dye,W,17,16
+1978-10-21,Southern Mississippi,Ind,Bobby Collins,A,Memphis,Ind,Richard Williamson,W,13,10
+1978-10-28,Southern Mississippi,Ind,Bobby Collins,H,Florida State,Ind,Bobby Bowden,L,16,38
+1978-11-04,Southern Mississippi,Ind,Bobby Collins,A,North Texas,Ind,Hayden Fry,L,12,25
+1978-11-11,Southern Mississippi,Ind,Bobby Collins,H,Bowling Green State,MAC,Dennis Stolz,W,38,21
+1978-11-18,Southern Mississippi,Ind,Bobby Collins,H,Louisville,Ind,Vince Gibson,W,37,3
+1978-09-09,Long Beach State,PCAA,Dave Currey,A,Louisiana,Southland,Augie Tammariello,W,10,0
+1978-09-30,Long Beach State,PCAA,Dave Currey,A,Pacific,PCAA,Chester Caddas,L,0,14
+1978-10-07,Long Beach State,PCAA,Dave Currey,H,Northern Illinois,MAC,Pat Culpepper,W,24,19
+1978-10-14,Long Beach State,PCAA,Dave Currey,A,Utah State,PCAA,Bruce Snyder,W,33,17
+1978-10-21,Long Beach State,PCAA,Dave Currey,H,Cal State Fullerton,PCAA,Jim Colletto,L,9,34
+1978-10-28,Long Beach State,PCAA,Dave Currey,H,San Diego State,WAC,Claude Gilbert,W,27,25
+1978-11-04,Long Beach State,PCAA,Dave Currey,A,Fresno State,PCAA,Bob Padilla,L,41,42
+1978-11-18,Long Beach State,PCAA,Dave Currey,H,Drake,MVC,Chuck Shelton,W,25,0
+1978-11-25,Long Beach State,PCAA,Dave Currey,A,Lamar,Southland,Bob Frederick,L,31,36
+1978-12-02,Long Beach State,PCAA,Dave Currey,A,San Jose State,PCAA,Lynn Stiles,L,6,24
+1978-09-16,Utah State,PCAA,Bruce Snyder,A,Colorado State,WAC,Sarkis Arslanian,W,21,20
+1978-09-23,Utah State,PCAA,Bruce Snyder,H,Fresno State,PCAA,Bob Padilla,W,45,22
+1978-09-30,Utah State,PCAA,Bruce Snyder,A,Wyoming,WAC,Bill Lewis,W,20,13
+1978-10-07,Utah State,PCAA,Bruce Snyder,A,Brigham Young,WAC,LaVell Edwards,W,24,7
+1978-10-14,Utah State,PCAA,Bruce Snyder,H,Long Beach State,PCAA,Dave Currey,L,17,33
+1978-10-21,Utah State,PCAA,Bruce Snyder,A,Miami (FL),Ind,Lou Saban,L,16,17
+1978-10-28,Utah State,PCAA,Bruce Snyder,H,San Jose State,PCAA,Lynn Stiles,W,31,21
+1978-11-04,Utah State,PCAA,Bruce Snyder,H,Pacific,PCAA,Chester Caddas,W,40,14
+1978-11-25,Utah State,PCAA,Bruce Snyder,H,Utah,WAC,Wayne Howard,L,20,23
+1978-09-09,Missouri,Big 8,Warren Powers,A,Notre Dame,Ind,Dan Devine,W,3,0
+1978-09-16,Missouri,Big 8,Warren Powers,H,Alabama,SEC,Bear Bryant,L,20,38
+1978-09-23,Missouri,Big 8,Warren Powers,H,Ole Miss,SEC,Steve Sloan,W,45,14
+1978-09-30,Missouri,Big 8,Warren Powers,A,Oklahoma,Big 8,Barry Switzer,L,23,45
+1978-10-07,Missouri,Big 8,Warren Powers,H,Illinois,Big Ten,Gary Moeller,W,45,3
+1978-10-14,Missouri,Big 8,Warren Powers,H,Iowa State,Big 8,Earle Bruce,W,26,13
+1978-10-21,Missouri,Big 8,Warren Powers,A,Kansas State,Big 8,Jim Dickey,W,56,14
+1978-10-28,Missouri,Big 8,Warren Powers,H,Colorado,Big 8,Bill Mallory,L,27,28
+1978-11-04,Missouri,Big 8,Warren Powers,A,Oklahoma State,Big 8,Jim Stanley,L,20,35
+1978-11-11,Missouri,Big 8,Warren Powers,H,Kansas,Big 8,Bud Moore,W,48,0
+1978-11-18,Missouri,Big 8,Warren Powers,A,Nebraska,Big 8,Tom Osborne,W,35,31
+1978-12-23,Missouri,Big 8,Warren Powers,N,LSU,SEC,Charles McClendon,W,20,15
+1978-09-16,San Jose State,PCAA,Lynn Stiles,A,Stanford,Pac-10,Bill Walsh,L,9,38
+1978-09-23,San Jose State,PCAA,Lynn Stiles,A,Colorado,Big 8,Bill Mallory,L,7,22
+1978-10-07,San Jose State,PCAA,Lynn Stiles,A,Hawaii,Ind,Dick Tomey,L,11,25
+1978-10-21,San Jose State,PCAA,Lynn Stiles,H,Fresno State,PCAA,Bob Padilla,W,26,16
+1978-10-28,San Jose State,PCAA,Lynn Stiles,A,Utah State,PCAA,Bruce Snyder,L,21,31
+1978-11-04,San Jose State,PCAA,Lynn Stiles,H,Cal State Fullerton,PCAA,Jim Colletto,W,30,21
+1978-11-11,San Jose State,PCAA,Lynn Stiles,A,Pacific,PCAA,Chester Caddas,W,33,31
+1978-12-02,San Jose State,PCAA,Lynn Stiles,H,Long Beach State,PCAA,Dave Currey,W,24,6
+1978-09-09,Bowling Green State,MAC,Dennis Stolz,A,Villanova,Ind,Dick Bedesem,L,28,35
+1978-09-16,Bowling Green State,MAC,Dennis Stolz,A,Eastern Michigan,MAC,Mike Stock,W,43,6
+1978-09-30,Bowling Green State,MAC,Dennis Stolz,A,Western Michigan,MAC,Elliot Uzelac,L,20,24
+1978-10-07,Bowling Green State,MAC,Dennis Stolz,A,Toledo,MAC,Chuck Stobart,W,45,27
+1978-10-14,Bowling Green State,MAC,Dennis Stolz,H,Kent State,MAC,Ron Blackledge,W,28,20
+1978-10-21,Bowling Green State,MAC,Dennis Stolz,A,Miami (OH),MAC,Tom Reed,L,7,18
+1978-10-28,Bowling Green State,MAC,Dennis Stolz,H,Central Michigan,MAC,Herb Deromedi,L,7,38
+1978-11-04,Bowling Green State,MAC,Dennis Stolz,H,Ball State,MAC,Dwight Wallace,L,14,39
+1978-11-11,Bowling Green State,MAC,Dennis Stolz,A,Southern Mississippi,Ind,Bobby Collins,L,21,38
+1978-11-18,Bowling Green State,MAC,Dennis Stolz,H,Ohio,MAC,Bob Kappes,L,15,19
+1978-09-16,Wisconsin,Big Ten,Dave McClain,H,Richmond,Ind,Jim Tait,W,7,6
+1978-09-23,Wisconsin,Big Ten,Dave McClain,A,Northwestern,Big Ten,Rick Venturi,W,28,7
+1978-09-30,Wisconsin,Big Ten,Dave McClain,H,Oregon,Pac-10,Rich Brooks,W,22,19
+1978-10-07,Wisconsin,Big Ten,Dave McClain,H,Indiana,Big Ten,Lee Corso,W,34,7
+1978-10-14,Wisconsin,Big Ten,Dave McClain,A,Illinois,Big Ten,Gary Moeller,T,20,20
+1978-10-21,Wisconsin,Big Ten,Dave McClain,H,Michigan,Big Ten,Bo Schembechler,L,0,42
+1978-10-28,Wisconsin,Big Ten,Dave McClain,A,Michigan State,Big Ten,Darryl Rogers,L,2,55
+1978-11-04,Wisconsin,Big Ten,Dave McClain,H,Ohio State,Big Ten,Woody Hayes,L,14,49
+1978-11-11,Wisconsin,Big Ten,Dave McClain,H,Purdue,Big Ten,Jim Young,T,24,24
+1978-11-18,Wisconsin,Big Ten,Dave McClain,A,Iowa,Big Ten,Bob Commings,L,24,38
+1978-11-25,Wisconsin,Big Ten,Dave McClain,H,Minnesota,Big Ten,Cal Stoll,W,48,10
+1978-09-09,USC,Pac-10,John Robinson,H,Texas Tech,SWC,Rex Dockery,W,17,9
+1978-09-16,USC,Pac-10,John Robinson,A,Oregon,Pac-10,Rich Brooks,W,37,10
+1978-09-23,USC,Pac-10,John Robinson,A,Alabama,SEC,Bear Bryant,W,24,14
+1978-09-29,USC,Pac-10,John Robinson,H,Michigan State,Big Ten,Darryl Rogers,W,30,9
+1978-10-14,USC,Pac-10,John Robinson,A,Arizona State,Pac-10,Frank Kush,L,7,20
+1978-10-21,USC,Pac-10,John Robinson,H,Oregon State,Pac-10,Craig Fertig,W,38,7
+1978-10-28,USC,Pac-10,John Robinson,H,California,Pac-10,Roger Theder,W,42,17
+1978-11-04,USC,Pac-10,John Robinson,A,Stanford,Pac-10,Bill Walsh,W,13,7
+1978-11-11,USC,Pac-10,John Robinson,H,Washington,Pac-10,Don James,W,28,10
+1978-11-18,USC,Pac-10,John Robinson,A,UCLA,Pac-10,Terry Donahue,W,17,10
+1978-11-25,USC,Pac-10,John Robinson,H,Notre Dame,Ind,Dan Devine,W,27,25
+1978-12-02,USC,Pac-10,John Robinson,A,Hawaii,Ind,Dick Tomey,W,21,5
+1979-01-01,USC,Pac-10,John Robinson,H,Michigan,Big Ten,Bo Schembechler,W,17,10
+1978-09-09,North Carolina State,ACC,Bo Rein,H,East Carolina,Ind,Pat Dye,W,29,13
+1978-09-16,North Carolina State,ACC,Bo Rein,H,Syracuse,Ind,Frank Maloney,W,27,19
+1978-09-23,North Carolina State,ACC,Bo Rein,H,West Virginia,Ind,Frank Cignetti,W,29,15
+1978-09-30,North Carolina State,ACC,Bo Rein,A,Wake Forest,ACC,John Mackovic,W,34,10
+1978-10-07,North Carolina State,ACC,Bo Rein,A,Maryland,ACC,Jerry Claiborne,L,7,31
+1978-10-21,North Carolina State,ACC,Bo Rein,A,North Carolina,ACC,Dick Crum,W,34,7
+1978-10-28,North Carolina State,ACC,Bo Rein,H,Clemson,ACC,Danny Ford,L,10,33
+1978-11-04,North Carolina State,ACC,Bo Rein,H,South Carolina,Ind,Jim Carlen,W,22,13
+1978-11-11,North Carolina State,ACC,Bo Rein,A,Penn State,Ind,Joe Paterno,L,10,19
+1978-11-18,North Carolina State,ACC,Bo Rein,H,Duke,ACC,Mike McGee,W,24,10
+1978-11-25,North Carolina State,ACC,Bo Rein,A,Virginia,ACC,Dick Bestwick,W,24,21
+1978-12-23,North Carolina State,ACC,Bo Rein,N,Pitt,Ind,Jackie Sherrill,W,30,17
+1978-09-16,San Diego State,WAC,Claude Gilbert,A,Iowa State,Big 8,Earle Bruce,L,13,14
+1978-09-23,San Diego State,WAC,Claude Gilbert,A,UTEP,WAC,Bill Michael,L,24,31
+1978-10-07,San Diego State,WAC,Claude Gilbert,H,Fresno State,PCAA,Bob Padilla,W,31,14
+1978-10-14,San Diego State,WAC,Claude Gilbert,A,Wyoming,WAC,Bill Lewis,L,22,31
+1978-10-21,San Diego State,WAC,Claude Gilbert,H,Pacific,PCAA,Chester Caddas,W,31,28
+1978-10-28,San Diego State,WAC,Claude Gilbert,A,Long Beach State,PCAA,Dave Currey,L,25,27
+1978-11-04,San Diego State,WAC,Claude Gilbert,H,Colorado State,WAC,Sarkis Arslanian,W,34,31
+1978-11-11,San Diego State,WAC,Claude Gilbert,A,Brigham Young,WAC,LaVell Edwards,L,3,21
+1978-11-18,San Diego State,WAC,Claude Gilbert,A,Miami (FL),Ind,Lou Saban,L,14,16
+1978-11-25,San Diego State,WAC,Claude Gilbert,H,New Mexico,WAC,Bill Mondt,W,27,24
+1978-12-02,San Diego State,WAC,Claude Gilbert,H,Utah,WAC,Wayne Howard,L,18,20
+1978-09-09,Hawaii,Ind,Dick Tomey,H,New Mexico,WAC,Bill Mondt,W,22,16
+1978-09-16,Hawaii,Ind,Dick Tomey,A,Nebraska,Big 8,Tom Osborne,L,10,56
+1978-09-30,Hawaii,Ind,Dick Tomey,H,Cal State Fullerton,PCAA,Jim Colletto,W,42,33
+1978-10-07,Hawaii,Ind,Dick Tomey,H,San Jose State,PCAA,Lynn Stiles,W,25,11
+1978-10-14,Hawaii,Ind,Dick Tomey,A,Nevada-Las Vegas,Ind,Tony Knap,L,20,30
+1978-10-28,Hawaii,Ind,Dick Tomey,H,Pacific,PCAA,Chester Caddas,L,17,27
+1978-11-04,Hawaii,Ind,Dick Tomey,H,UTEP,WAC,Bill Michael,W,35,13
+1978-11-11,Hawaii,Ind,Dick Tomey,H,New Mexico State,MVC,Gil Krueger,W,35,20
+1978-11-18,Hawaii,Ind,Dick Tomey,H,Wyoming,WAC,Bill Lewis,W,27,22
+1978-11-25,Hawaii,Ind,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,13,31
+1978-12-02,Hawaii,Ind,Dick Tomey,H,USC,Pac-10,John Robinson,L,5,21
+1978-09-09,Rutgers,Ind,Frank Burns,A,Penn State,Ind,Joe Paterno,L,10,26
+1978-09-30,Rutgers,Ind,Frank Burns,N,Princeton,Ivy,Frank Navarro,W,24,0
+1978-10-07,Rutgers,Ind,Frank Burns,A,Yale,Ivy,Carmen Cozza,W,28,27
+1978-10-21,Rutgers,Ind,Frank Burns,H,Villanova,Ind,Dick Bedesem,W,24,9
+1978-10-28,Rutgers,Ind,Frank Burns,N,Columbia,Ivy,William Campbell,W,69,0
+1978-11-11,Rutgers,Ind,Frank Burns,H,Temple,Ind,Wayne Hardin,W,13,10
+1978-11-18,Rutgers,Ind,Frank Burns,A,Holy Cross,Ind,Neil Wheelwright,W,31,21
+1978-11-25,Rutgers,Ind,Frank Burns,H,Colgate,Ind,Frederick Dunlap,L,9,14
+1978-12-16,Rutgers,Ind,Frank Burns,N,Arizona State,Pac-10,Frank Kush,L,18,34
+1978-09-09,Eastern Michigan,MAC,Mike Stock,A,Ohio,MAC,Bob Kappes,L,22,23
+1978-09-16,Eastern Michigan,MAC,Mike Stock,H,Bowling Green State,MAC,Dennis Stolz,L,6,43
+1978-09-23,Eastern Michigan,MAC,Mike Stock,H,Indiana State,MVC,Dick Jamieson,W,27,8
+1978-09-30,Eastern Michigan,MAC,Mike Stock,A,Toledo,MAC,Chuck Stobart,W,17,12
+1978-10-21,Eastern Michigan,MAC,Mike Stock,A,Western Michigan,MAC,Elliot Uzelac,L,0,32
+1978-10-28,Eastern Michigan,MAC,Mike Stock,H,Ball State,MAC,Dwight Wallace,L,0,21
+1978-11-11,Eastern Michigan,MAC,Mike Stock,H,Central Michigan,MAC,Herb Deromedi,L,9,41
+1978-11-18,Eastern Michigan,MAC,Mike Stock,A,Illinois State,Ind,Charlie Cowdrey,L,13,14
+1978-09-09,Central Michigan,MAC,Herb Deromedi,H,Kent State,MAC,Ron Blackledge,W,41,0
+1978-09-16,Central Michigan,MAC,Herb Deromedi,A,Miami (OH),MAC,Tom Reed,W,37,18
+1978-09-30,Central Michigan,MAC,Herb Deromedi,H,Ball State,MAC,Dwight Wallace,L,0,27
+1978-10-07,Central Michigan,MAC,Herb Deromedi,A,Ohio,MAC,Bob Kappes,W,17,3
+1978-10-14,Central Michigan,MAC,Herb Deromedi,H,Illinois State,Ind,Charlie Cowdrey,W,45,7
+1978-10-21,Central Michigan,MAC,Herb Deromedi,H,Northern Illinois,MAC,Pat Culpepper,W,34,7
+1978-10-28,Central Michigan,MAC,Herb Deromedi,A,Bowling Green State,MAC,Dennis Stolz,W,38,7
+1978-11-04,Central Michigan,MAC,Herb Deromedi,H,Toledo,MAC,Chuck Stobart,W,27,3
+1978-11-11,Central Michigan,MAC,Herb Deromedi,A,Eastern Michigan,MAC,Mike Stock,W,41,9
+1978-11-18,Central Michigan,MAC,Herb Deromedi,A,Western Michigan,MAC,Elliot Uzelac,W,35,14
+1978-09-16,Michigan,Big Ten,Bo Schembechler,H,Illinois,Big Ten,Gary Moeller,W,31,0
+1978-09-23,Michigan,Big Ten,Bo Schembechler,A,Notre Dame,Ind,Dan Devine,W,28,14
+1978-09-30,Michigan,Big Ten,Bo Schembechler,H,Duke,ACC,Mike McGee,W,52,0
+1978-10-07,Michigan,Big Ten,Bo Schembechler,H,Arizona,Pac-10,Tony Mason,W,21,17
+1978-10-14,Michigan,Big Ten,Bo Schembechler,H,Michigan State,Big Ten,Darryl Rogers,L,15,24
+1978-10-21,Michigan,Big Ten,Bo Schembechler,A,Wisconsin,Big Ten,Dave McClain,W,42,0
+1978-10-28,Michigan,Big Ten,Bo Schembechler,H,Minnesota,Big Ten,Cal Stoll,W,42,10
+1978-11-04,Michigan,Big Ten,Bo Schembechler,A,Iowa,Big Ten,Bob Commings,W,34,0
+1978-11-11,Michigan,Big Ten,Bo Schembechler,A,Northwestern,Big Ten,Rick Venturi,W,59,14
+1978-11-18,Michigan,Big Ten,Bo Schembechler,H,Purdue,Big Ten,Jim Young,W,24,6
+1978-11-25,Michigan,Big Ten,Bo Schembechler,A,Ohio State,Big Ten,Woody Hayes,W,14,3
+1979-01-01,Michigan,Big Ten,Bo Schembechler,A,USC,Pac-10,John Robinson,L,10,17
+1978-09-09,Northwestern State,Ind,,H,Lamar,Southland,Bob Frederick,W,21,17
+1978-09-23,Northwestern State,Ind,,H,McNeese State,Southland,Jack Doland,W,10,7
+1978-09-30,Northwestern State,Ind,,H,Louisiana-Monroe,Ind,John David Crow,L,0,46
+1978-10-07,Northwestern State,Ind,,A,Arkansas State,Southland,Bill Davidson,L,14,23
+1978-10-14,Northwestern State,Ind,,A,Louisville,Ind,Vince Gibson,L,7,51
+1978-10-21,Northwestern State,Ind,,H,Louisiana Tech,Southland,Maxie Lambright,L,20,45
+1978-11-04,Northwestern State,Ind,,A,Texas-Arlington,Southland,Harold Elliott,L,7,30
+1978-11-11,Northwestern State,Ind,,H,Louisiana,Southland,Augie Tammariello,L,17,19
+1978-09-01,Temple,Ind,Wayne Hardin,H,Penn State,Ind,Joe Paterno,L,7,10
+1978-09-16,Temple,Ind,Wayne Hardin,A,Drake,MVC,Chuck Shelton,W,36,29
+1978-09-23,Temple,Ind,Wayne Hardin,A,Pitt,Ind,Jackie Sherrill,L,12,20
+1978-10-07,Temple,Ind,Wayne Hardin,A,William & Mary,Ind,James Root,T,22,22
+1978-10-14,Temple,Ind,Wayne Hardin,H,Cincinnati,Ind,Ralph Staub,W,16,13
+1978-10-21,Temple,Ind,Wayne Hardin,H,West Virginia,Ind,Frank Cignetti,W,28,27
+1978-11-11,Temple,Ind,Wayne Hardin,A,Rutgers,Ind,Frank Burns,L,10,13
+1978-11-18,Temple,Ind,Wayne Hardin,N,Villanova,Ind,Dick Bedesem,W,27,17
+1978-12-10,Temple,Ind,Wayne Hardin,N,Boston College,Ind,Ed Chlebek,W,28,24
+1978-09-09,New Mexico,WAC,Bill Mondt,A,Hawaii,Ind,Dick Tomey,L,16,22
+1978-09-16,New Mexico,WAC,Bill Mondt,A,Wichita State,MVC,Jim Wright,W,16,14
+1978-09-23,New Mexico,WAC,Bill Mondt,H,Nevada-Las Vegas,Ind,Tony Knap,W,24,0
+1978-09-30,New Mexico,WAC,Bill Mondt,H,Brigham Young,WAC,LaVell Edwards,L,23,27
+1978-10-07,New Mexico,WAC,Bill Mondt,A,Wyoming,WAC,Bill Lewis,W,19,15
+1978-10-14,New Mexico,WAC,Bill Mondt,H,Texas Tech,SWC,Rex Dockery,L,23,36
+1978-10-21,New Mexico,WAC,Bill Mondt,H,New Mexico State,MVC,Gil Krueger,W,35,20
+1978-10-28,New Mexico,WAC,Bill Mondt,A,UTEP,WAC,Bill Michael,W,21,0
+1978-11-04,New Mexico,WAC,Bill Mondt,A,Utah,WAC,Wayne Howard,W,24,12
+1978-11-11,New Mexico,WAC,Bill Mondt,H,Colorado State,WAC,Sarkis Arslanian,L,15,26
+1978-11-18,New Mexico,WAC,Bill Mondt,H,Pacific,PCAA,Chester Caddas,W,44,6
+1978-11-25,New Mexico,WAC,Bill Mondt,A,San Diego State,WAC,Claude Gilbert,L,24,27
+1978-09-09,Pacific,PCAA,Chester Caddas,A,Arizona State,Pac-10,Frank Kush,L,7,42
+1978-09-23,Pacific,PCAA,Chester Caddas,A,California,Pac-10,Roger Theder,L,6,24
+1978-09-30,Pacific,PCAA,Chester Caddas,H,Long Beach State,PCAA,Dave Currey,W,14,0
+1978-10-07,Pacific,PCAA,Chester Caddas,H,Cal State Fullerton,PCAA,Jim Colletto,W,35,17
+1978-10-14,Pacific,PCAA,Chester Caddas,A,Fresno State,PCAA,Bob Padilla,W,27,7
+1978-10-21,Pacific,PCAA,Chester Caddas,A,San Diego State,WAC,Claude Gilbert,L,28,31
+1978-10-28,Pacific,PCAA,Chester Caddas,A,Hawaii,Ind,Dick Tomey,W,27,17
+1978-11-04,Pacific,PCAA,Chester Caddas,A,Utah State,PCAA,Bruce Snyder,L,14,40
+1978-11-11,Pacific,PCAA,Chester Caddas,H,San Jose State,PCAA,Lynn Stiles,L,31,33
+1978-11-18,Pacific,PCAA,Chester Caddas,A,New Mexico,WAC,Bill Mondt,L,6,44
+1978-11-23,Pacific,PCAA,Chester Caddas,H,Colorado State,WAC,Sarkis Arslanian,L,13,20
+1978-09-09,Notre Dame,Ind,Dan Devine,H,Missouri,Big 8,Warren Powers,L,0,3
+1978-09-23,Notre Dame,Ind,Dan Devine,H,Michigan,Big Ten,Bo Schembechler,L,14,28
+1978-09-30,Notre Dame,Ind,Dan Devine,H,Purdue,Big Ten,Jim Young,W,10,6
+1978-10-07,Notre Dame,Ind,Dan Devine,A,Michigan State,Big Ten,Darryl Rogers,W,29,25
+1978-10-14,Notre Dame,Ind,Dan Devine,H,Pitt,Ind,Jackie Sherrill,W,26,17
+1978-10-21,Notre Dame,Ind,Dan Devine,A,Air Force,Ind,Bill Parcells,W,38,15
+1978-10-28,Notre Dame,Ind,Dan Devine,H,Miami (FL),Ind,Lou Saban,W,20,0
+1978-11-04,Notre Dame,Ind,Dan Devine,N,Navy,Ind,George Welsh,W,27,7
+1978-11-11,Notre Dame,Ind,Dan Devine,H,Tennessee,SEC,Johnny Majors,W,31,14
+1978-11-18,Notre Dame,Ind,Dan Devine,A,Georgia Tech,Ind,Pepper Rodgers,W,38,21
+1978-11-25,Notre Dame,Ind,Dan Devine,A,USC,Pac-10,John Robinson,L,25,27
+1979-01-01,Notre Dame,Ind,Dan Devine,N,Houston,SWC,Bill Yeoman,W,35,34
+1978-09-09,Louisiana,Southland,Augie Tammariello,H,Long Beach State,PCAA,Dave Currey,L,0,10
+1978-09-16,Louisiana,Southland,Augie Tammariello,A,Tulsa,MVC,John Cooper,L,3,10
+1978-09-23,Louisiana,Southland,Augie Tammariello,H,East Carolina,Ind,Pat Dye,L,9,38
+1978-09-30,Louisiana,Southland,Augie Tammariello,H,Lamar,Southland,Bob Frederick,W,23,16
+1978-10-07,Louisiana,Southland,Augie Tammariello,H,Louisiana Tech,Southland,Maxie Lambright,W,24,6
+1978-10-14,Louisiana,Southland,Augie Tammariello,A,Texas-Arlington,Southland,Harold Elliott,L,3,24
+1978-10-28,Louisiana,Southland,Augie Tammariello,H,Cincinnati,Ind,Ralph Staub,L,13,38
+1978-11-04,Louisiana,Southland,Augie Tammariello,H,Arkansas State,Southland,Bill Davidson,L,6,16
+1978-11-11,Louisiana,Southland,Augie Tammariello,A,Northwestern State,Ind,,W,19,17
+1978-11-18,Louisiana,Southland,Augie Tammariello,H,Southern Illinois,MVC,Rey Dempsey,L,9,10
+1978-11-25,Louisiana,Southland,Augie Tammariello,A,McNeese State,Southland,Jack Doland,L,18,44
+1978-09-02,East Carolina,Ind,Pat Dye,A,Western Carolina,Southern,Bob Waters,W,14,6
+1978-09-09,East Carolina,Ind,Pat Dye,A,North Carolina State,ACC,Bo Rein,L,13,29
+1978-09-16,East Carolina,Ind,Pat Dye,A,North Carolina,ACC,Dick Crum,L,10,14
+1978-09-23,East Carolina,Ind,Pat Dye,A,Louisiana,Southland,Augie Tammariello,W,38,9
+1978-09-30,East Carolina,Ind,Pat Dye,A,Texas-Arlington,Southland,Harold Elliott,W,23,17
+1978-10-07,East Carolina,Ind,Pat Dye,A,Virginia Military Institute,Southern,Bob Thalman,W,19,6
+1978-10-14,East Carolina,Ind,Pat Dye,A,Southern Mississippi,Ind,Bobby Collins,L,16,17
+1978-10-28,East Carolina,Ind,Pat Dye,N,Richmond,Ind,Jim Tait,W,21,14
+1978-11-04,East Carolina,Ind,Pat Dye,A,Appalachian State,Southern,Jim Brakefield,W,33,8
+1978-11-11,East Carolina,Ind,Pat Dye,H,William & Mary,Ind,James Root,W,20,3
+1978-11-18,East Carolina,Ind,Pat Dye,H,Marshall,Southern,Frank Ellwood,W,45,0
+1978-12-16,East Carolina,Ind,Pat Dye,N,Louisiana Tech,Southland,Maxie Lambright,W,35,13
+1978-09-09,Toledo,MAC,Chuck Stobart,H,Marshall,Southern,Frank Ellwood,L,0,17
+1978-09-16,Toledo,MAC,Chuck Stobart,A,Minnesota,Big Ten,Cal Stoll,L,12,38
+1978-09-23,Toledo,MAC,Chuck Stobart,A,Ball State,MAC,Dwight Wallace,L,0,20
+1978-09-30,Toledo,MAC,Chuck Stobart,H,Eastern Michigan,MAC,Mike Stock,L,12,17
+1978-10-07,Toledo,MAC,Chuck Stobart,H,Bowling Green State,MAC,Dennis Stolz,L,27,45
+1978-10-14,Toledo,MAC,Chuck Stobart,A,Western Michigan,MAC,Elliot Uzelac,L,7,17
+1978-10-21,Toledo,MAC,Chuck Stobart,A,Ohio,MAC,Bob Kappes,W,28,14
+1978-10-28,Toledo,MAC,Chuck Stobart,H,Miami (OH),MAC,Tom Reed,L,7,28
+1978-11-04,Toledo,MAC,Chuck Stobart,A,Central Michigan,MAC,Herb Deromedi,L,3,27
+1978-11-11,Toledo,MAC,Chuck Stobart,H,Northern Illinois,MAC,Pat Culpepper,W,35,16
+1978-11-18,Toledo,MAC,Chuck Stobart,A,Kent State,MAC,Ron Blackledge,L,13,17
+1978-09-16,Pitt,Ind,Jackie Sherrill,A,Tulane,Ind,Larry Smith,W,24,6
+1978-09-23,Pitt,Ind,Jackie Sherrill,H,Temple,Ind,Wayne Hardin,W,20,12
+1978-09-30,Pitt,Ind,Jackie Sherrill,H,North Carolina,ACC,Dick Crum,W,20,16
+1978-10-07,Pitt,Ind,Jackie Sherrill,A,Boston College,Ind,Ed Chlebek,W,32,15
+1978-10-14,Pitt,Ind,Jackie Sherrill,A,Notre Dame,Ind,Dan Devine,L,17,26
+1978-10-21,Pitt,Ind,Jackie Sherrill,H,Florida State,Ind,Bobby Bowden,W,7,3
+1978-10-28,Pitt,Ind,Jackie Sherrill,A,Navy,Ind,George Welsh,L,11,21
+1978-11-04,Pitt,Ind,Jackie Sherrill,A,Syracuse,Ind,Frank Maloney,W,18,17
+1978-11-11,Pitt,Ind,Jackie Sherrill,H,West Virginia,Ind,Frank Cignetti,W,52,7
+1978-11-18,Pitt,Ind,Jackie Sherrill,H,Army,Ind,Homer Smith,W,35,17
+1978-11-25,Pitt,Ind,Jackie Sherrill,A,Penn State,Ind,Joe Paterno,L,10,17
+1978-12-23,Pitt,Ind,Jackie Sherrill,N,North Carolina State,ACC,Bo Rein,L,17,30
+1978-09-02,West Texas A&M,MVC,Bill Yung,A,Mississippi State,SEC,Bob Tyler,L,0,28
+1978-09-09,West Texas A&M,MVC,Bill Yung,A,Texas-Arlington,Southland,Harold Elliott,W,18,10
+1978-09-16,West Texas A&M,MVC,Bill Yung,H,McNeese State,Southland,Jack Doland,L,13,45
+1978-09-23,West Texas A&M,MVC,Bill Yung,A,Southern Illinois,MVC,Rey Dempsey,L,3,17
+1978-09-30,West Texas A&M,MVC,Bill Yung,H,Wichita State,MVC,Jim Wright,L,37,38
+1978-10-07,West Texas A&M,MVC,Bill Yung,H,North Texas,Ind,Hayden Fry,L,0,35
+1978-10-14,West Texas A&M,MVC,Bill Yung,H,Lamar,Southland,Bob Frederick,W,55,16
+1978-10-21,West Texas A&M,MVC,Bill Yung,A,Indiana State,MVC,Dick Jamieson,W,36,7
+1978-11-04,West Texas A&M,MVC,Bill Yung,A,Tulsa,MVC,John Cooper,L,23,44
+1978-11-11,West Texas A&M,MVC,Bill Yung,A,Drake,MVC,Chuck Shelton,L,21,24
+1978-11-25,West Texas A&M,MVC,Bill Yung,H,New Mexico State,MVC,Gil Krueger,L,31,33
+1978-09-02,North Texas,Ind,Hayden Fry,H,UTEP,WAC,Bill Michael,W,49,0
+1978-09-09,North Texas,Ind,Hayden Fry,H,Mississippi State,SEC,Bob Tyler,L,5,17
+1978-09-16,North Texas,Ind,Hayden Fry,N,Texas-Arlington,Southland,Harold Elliott,W,28,23
+1978-09-23,North Texas,Ind,Hayden Fry,A,New Mexico State,MVC,Gil Krueger,W,22,21
+1978-09-30,North Texas,Ind,Hayden Fry,H,Oklahoma State,Big 8,Jim Stanley,W,12,7
+1978-10-07,North Texas,Ind,Hayden Fry,A,West Texas A&M,MVC,Bill Yung,W,35,0
+1978-10-14,North Texas,Ind,Hayden Fry,A,Texas,SWC,Fred Akers,L,16,26
+1978-10-28,North Texas,Ind,Hayden Fry,A,Louisiana Tech,Southland,Maxie Lambright,W,16,14
+1978-11-04,North Texas,Ind,Hayden Fry,H,Southern Mississippi,Ind,Bobby Collins,W,25,12
+1978-11-11,North Texas,Ind,Hayden Fry,H,Louisiana-Monroe,Ind,John David Crow,W,28,6
+1978-11-18,North Texas,Ind,Hayden Fry,A,Memphis,Ind,Richard Williamson,W,41,24
+1978-09-23,Wyoming,WAC,Bill Lewis,A,Texas,SWC,Fred Akers,L,3,17
+1978-09-30,Wyoming,WAC,Bill Lewis,H,Utah State,PCAA,Bruce Snyder,L,13,20
+1978-10-07,Wyoming,WAC,Bill Lewis,H,New Mexico,WAC,Bill Mondt,L,15,19
+1978-10-14,Wyoming,WAC,Bill Lewis,H,San Diego State,WAC,Claude Gilbert,W,31,22
+1978-10-21,Wyoming,WAC,Bill Lewis,H,Utah,WAC,Wayne Howard,W,34,21
+1978-10-28,Wyoming,WAC,Bill Lewis,A,Colorado State,WAC,Sarkis Arslanian,W,13,3
+1978-11-04,Wyoming,WAC,Bill Lewis,A,Brigham Young,WAC,LaVell Edwards,L,14,48
+1978-11-11,Wyoming,WAC,Bill Lewis,A,Nevada-Las Vegas,Ind,Tony Knap,L,10,12
+1978-11-18,Wyoming,WAC,Bill Lewis,A,Hawaii,Ind,Dick Tomey,L,22,27
+1978-11-25,Wyoming,WAC,Bill Lewis,A,UTEP,WAC,Bill Michael,W,51,21
+1978-12-02,Wyoming,WAC,Bill Lewis,A,LSU,SEC,Charles McClendon,L,17,24
+1978-09-09,Brigham Young,WAC,LaVell Edwards,A,Oregon State,Pac-10,Craig Fertig,W,10,6
+1978-09-16,Brigham Young,WAC,LaVell Edwards,A,Arizona State,Pac-10,Frank Kush,L,17,24
+1978-09-23,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,W,32,6
+1978-09-30,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Bill Mondt,W,27,23
+1978-10-07,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Bruce Snyder,L,7,24
+1978-10-14,Brigham Young,WAC,LaVell Edwards,A,Oregon,Pac-10,Rich Brooks,W,17,16
+1978-10-21,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,44,0
+1978-11-04,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Bill Lewis,W,48,14
+1978-11-11,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Claude Gilbert,W,21,3
+1978-11-18,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Wayne Howard,L,22,23
+1978-11-25,Brigham Young,WAC,LaVell Edwards,A,Hawaii,Ind,Dick Tomey,W,31,13
+1978-12-02,Brigham Young,WAC,LaVell Edwards,N,Nevada-Las Vegas,Ind,Tony Knap,W,28,24
+1978-12-22,Brigham Young,WAC,LaVell Edwards,N,Navy,Ind,George Welsh,L,16,23
+1978-09-23,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,W,21,0
+1978-10-07,Yale,Ivy,Carmen Cozza,H,Rutgers,Ind,Frank Burns,L,27,28
+1978-10-14,Yale,Ivy,Carmen Cozza,A,Dartmouth,Ivy,Joseph Yukica,L,3,10
+1978-10-21,Yale,Ivy,Carmen Cozza,H,Columbia,Ivy,William Campbell,T,3,3
+1978-10-28,Yale,Ivy,Carmen Cozza,A,Pennsylvania,Ivy,Harry Gamble,T,17,17
+1978-11-04,Yale,Ivy,Carmen Cozza,H,Cornell,Ivy,Bob Blackman,W,42,14
+1978-11-11,Yale,Ivy,Carmen Cozza,H,Princeton,Ivy,Frank Navarro,W,23,7
+1978-11-18,Yale,Ivy,Carmen Cozza,A,Harvard,Ivy,Joseph Restic,W,35,28
+1978-09-09,Georgia Tech,Ind,Pepper Rodgers,A,Duke,ACC,Mike McGee,L,10,28
+1978-09-16,Georgia Tech,Ind,Pepper Rodgers,H,California,Pac-10,Roger Theder,L,22,34
+1978-09-23,Georgia Tech,Ind,Pepper Rodgers,H,Tulane,Ind,Larry Smith,W,27,17
+1978-09-30,Georgia Tech,Ind,Pepper Rodgers,H,Citadel,Southern,Art Baker,W,28,0
+1978-10-07,Georgia Tech,Ind,Pepper Rodgers,H,South Carolina,Ind,Jim Carlen,W,6,3
+1978-10-14,Georgia Tech,Ind,Pepper Rodgers,H,Miami (FL),Ind,Lou Saban,W,24,19
+1978-10-21,Georgia Tech,Ind,Pepper Rodgers,A,Auburn,SEC,Doug Barfield,W,24,10
+1978-10-28,Georgia Tech,Ind,Pepper Rodgers,H,Florida,SEC,Doug Dickey,W,17,13
+1978-11-11,Georgia Tech,Ind,Pepper Rodgers,A,Air Force,Ind,Bill Parcells,W,42,21
+1978-11-18,Georgia Tech,Ind,Pepper Rodgers,H,Notre Dame,Ind,Dan Devine,L,21,38
+1978-12-02,Georgia Tech,Ind,Pepper Rodgers,A,Georgia,SEC,Vince Dooley,L,28,29
+1978-12-25,Georgia Tech,Ind,Pepper Rodgers,H,Purdue,Big Ten,Jim Young,L,21,41
+1978-09-09,Wake Forest,ACC,John Mackovic,H,Virginia,ACC,Dick Bestwick,W,14,0
+1978-09-16,Wake Forest,ACC,John Mackovic,H,Virginia Tech,Ind,Bill Dooley,L,6,28
+1978-09-23,Wake Forest,ACC,John Mackovic,A,LSU,SEC,Charles McClendon,L,11,13
+1978-09-30,Wake Forest,ACC,John Mackovic,H,North Carolina State,ACC,Bo Rein,L,10,34
+1978-10-07,Wake Forest,ACC,John Mackovic,A,Purdue,Big Ten,Jim Young,L,7,14
+1978-10-14,Wake Forest,ACC,John Mackovic,H,North Carolina,ACC,Dick Crum,L,29,34
+1978-10-21,Wake Forest,ACC,John Mackovic,A,Maryland,ACC,Jerry Claiborne,L,0,39
+1978-10-28,Wake Forest,ACC,John Mackovic,A,Auburn,SEC,Doug Barfield,L,7,21
+1978-11-04,Wake Forest,ACC,John Mackovic,H,Clemson,ACC,Danny Ford,L,6,51
+1978-11-11,Wake Forest,ACC,John Mackovic,A,Duke,ACC,Mike McGee,L,0,3
+1978-11-18,Wake Forest,ACC,John Mackovic,A,South Carolina,Ind,Jim Carlen,L,14,37
+1978-09-02,Arkansas State,Southland,Bill Davidson,A,Tulsa,MVC,John Cooper,L,20,21
+1978-09-09,Arkansas State,Southland,Bill Davidson,H,Southern Mississippi,Ind,Bobby Collins,L,6,21
+1978-09-16,Arkansas State,Southland,Bill Davidson,A,Louisiana-Monroe,Ind,John David Crow,L,13,21
+1978-09-23,Arkansas State,Southland,Bill Davidson,H,Drake,MVC,Chuck Shelton,W,10,0
+1978-10-07,Arkansas State,Southland,Bill Davidson,H,Northwestern State,Ind,,W,23,14
+1978-10-14,Arkansas State,Southland,Bill Davidson,A,Southern Illinois,MVC,Rey Dempsey,W,26,24
+1978-10-21,Arkansas State,Southland,Bill Davidson,H,McNeese State,Southland,Jack Doland,W,6,3
+1978-10-28,Arkansas State,Southland,Bill Davidson,A,Texas-Arlington,Southland,Harold Elliott,W,27,7
+1978-11-04,Arkansas State,Southland,Bill Davidson,A,Louisiana,Southland,Augie Tammariello,W,16,6
+1978-11-11,Arkansas State,Southland,Bill Davidson,A,Louisiana Tech,Southland,Maxie Lambright,L,10,24
+1978-11-18,Arkansas State,Southland,Bill Davidson,H,Lamar,Southland,Bob Frederick,W,6,3
+1978-09-02,Mississippi State,SEC,Bob Tyler,H,West Texas A&M,MVC,Bill Yung,W,28,0
+1978-09-09,Mississippi State,SEC,Bob Tyler,A,North Texas,Ind,Hayden Fry,W,17,5
+1978-09-23,Mississippi State,SEC,Bob Tyler,A,Memphis,Ind,Richard Williamson,W,44,14
+1978-09-30,Mississippi State,SEC,Bob Tyler,A,Florida,SEC,Doug Dickey,L,0,34
+1978-10-07,Mississippi State,SEC,Bob Tyler,A,Southern Mississippi,Ind,Bobby Collins,L,17,22
+1978-10-14,Mississippi State,SEC,Bob Tyler,H,Florida State,Ind,Bobby Bowden,W,55,27
+1978-10-28,Mississippi State,SEC,Bob Tyler,N,Tennessee,SEC,Johnny Majors,W,34,21
+1978-11-04,Mississippi State,SEC,Bob Tyler,A,Alabama,SEC,Bear Bryant,L,14,35
+1978-11-11,Mississippi State,SEC,Bob Tyler,H,Auburn,SEC,Doug Barfield,L,0,6
+1978-11-18,Mississippi State,SEC,Bob Tyler,H,LSU,SEC,Charles McClendon,W,16,14
+1978-11-25,Mississippi State,SEC,Bob Tyler,N,Ole Miss,SEC,Steve Sloan,L,7,27
+1978-09-09,Nevada-Las Vegas,Ind,Tony Knap,A,Washington State,Pac-10,Jim Walden,L,7,34
+1978-09-23,Nevada-Las Vegas,Ind,Tony Knap,A,New Mexico,WAC,Bill Mondt,L,0,24
+1978-10-14,Nevada-Las Vegas,Ind,Tony Knap,H,Hawaii,Ind,Dick Tomey,W,30,20
+1978-10-21,Nevada-Las Vegas,Ind,Tony Knap,A,Colorado State,WAC,Sarkis Arslanian,W,33,6
+1978-11-11,Nevada-Las Vegas,Ind,Tony Knap,H,Wyoming,WAC,Bill Lewis,W,12,10
+1978-11-18,Nevada-Las Vegas,Ind,Tony Knap,H,UTEP,WAC,Bill Michael,W,27,0
+1978-11-24,Nevada-Las Vegas,Ind,Tony Knap,H,Cal State Fullerton,PCAA,Jim Colletto,W,24,7
+1978-12-02,Nevada-Las Vegas,Ind,Tony Knap,N,Brigham Young,WAC,LaVell Edwards,L,24,28
+1978-09-09,Virginia Military Institute,Southern,Bob Thalman,A,William & Mary,Ind,James Root,L,3,10
+1978-09-23,Virginia Military Institute,Southern,Bob Thalman,A,Citadel,Southern,Art Baker,L,3,14
+1978-09-30,Virginia Military Institute,Southern,Bob Thalman,A,Virginia,ACC,Dick Bestwick,W,17,9
+1978-10-07,Virginia Military Institute,Southern,Bob Thalman,H,East Carolina,Ind,Pat Dye,L,6,19
+1978-10-14,Virginia Military Institute,Southern,Bob Thalman,A,Richmond,Ind,Jim Tait,W,23,6
+1978-10-28,Virginia Military Institute,Southern,Bob Thalman,H,Western Carolina,Southern,Bob Waters,L,12,41
+1978-11-04,Virginia Military Institute,Southern,Bob Thalman,A,Georgia,SEC,Vince Dooley,L,3,41
+1978-11-11,Virginia Military Institute,Southern,Bob Thalman,H,Appalachian State,Southern,Jim Brakefield,L,10,31
+1978-11-18,Virginia Military Institute,Southern,Bob Thalman,A,Virginia Tech,Ind,Bill Dooley,L,2,28
+1978-09-09,Memphis,Ind,Richard Williamson,A,Ole Miss,SEC,Steve Sloan,L,7,14
+1978-09-16,Memphis,Ind,Richard Williamson,H,Houston,SWC,Bill Yeoman,W,17,3
+1978-09-23,Memphis,Ind,Richard Williamson,H,Mississippi State,SEC,Bob Tyler,L,14,44
+1978-09-30,Memphis,Ind,Richard Williamson,A,Texas A&M,SWC,Tom Wilson,L,0,58
+1978-10-14,Memphis,Ind,Richard Williamson,H,Wichita State,MVC,Jim Wright,W,26,13
+1978-10-21,Memphis,Ind,Richard Williamson,H,Southern Mississippi,Ind,Bobby Collins,L,10,13
+1978-10-28,Memphis,Ind,Richard Williamson,A,Tulane,Ind,Larry Smith,L,24,41
+1978-11-04,Memphis,Ind,Richard Williamson,H,Vanderbilt,SEC,Fred Pancoast,W,35,14
+1978-11-11,Memphis,Ind,Richard Williamson,A,Louisville,Ind,Vince Gibson,W,29,22
+1978-11-18,Memphis,Ind,Richard Williamson,H,North Texas,Ind,Hayden Fry,L,24,41
+1978-11-25,Memphis,Ind,Richard Williamson,H,Cincinnati,Ind,Ralph Staub,L,14,34
+1978-09-09,Kansas State,Big 8,Jim Dickey,A,Arizona,Pac-10,Tony Mason,L,0,31
+1978-09-16,Kansas State,Big 8,Jim Dickey,H,Auburn,SEC,Doug Barfield,L,32,45
+1978-09-23,Kansas State,Big 8,Jim Dickey,A,Tulsa,MVC,John Cooper,L,14,24
+1978-09-30,Kansas State,Big 8,Jim Dickey,H,Air Force,Ind,Bill Parcells,W,34,21
+1978-10-07,Kansas State,Big 8,Jim Dickey,H,Oklahoma State,Big 8,Jim Stanley,W,18,7
+1978-10-14,Kansas State,Big 8,Jim Dickey,A,Nebraska,Big 8,Tom Osborne,L,14,48
+1978-10-21,Kansas State,Big 8,Jim Dickey,H,Missouri,Big 8,Warren Powers,L,14,56
+1978-10-28,Kansas State,Big 8,Jim Dickey,A,Oklahoma,Big 8,Barry Switzer,L,19,56
+1978-11-04,Kansas State,Big 8,Jim Dickey,A,Iowa State,Big 8,Earle Bruce,L,0,24
+1978-11-11,Kansas State,Big 8,Jim Dickey,H,Colorado,Big 8,Bill Mallory,W,20,10
+1978-11-18,Kansas State,Big 8,Jim Dickey,H,Kansas,Big 8,Bud Moore,W,36,20
+1978-09-16,Chattanooga,Southern,Joe Morrison,A,Louisiana Tech,Southland,Maxie Lambright,W,12,7
+1978-09-23,Chattanooga,Southern,Joe Morrison,A,Marshall,Southern,Frank Ellwood,W,27,23
+1978-10-07,Chattanooga,Southern,Joe Morrison,H,Appalachian State,Southern,Jim Brakefield,W,72,14
+1978-10-21,Chattanooga,Southern,Joe Morrison,A,Furman,Southern,Dick Sheridan,W,13,9
+1978-10-28,Chattanooga,Southern,Joe Morrison,A,McNeese State,Southland,Jack Doland,L,24,28
+1978-11-04,Chattanooga,Southern,Joe Morrison,H,Western Carolina,Southern,Bob Waters,L,21,31
+1978-11-11,Chattanooga,Southern,Joe Morrison,H,Richmond,Ind,Jim Tait,W,30,3
+1978-09-23,Army,Ind,Homer Smith,H,Virginia,ACC,Dick Bestwick,L,17,21
+1978-09-30,Army,Ind,Homer Smith,H,Washington State,Pac-10,Jim Walden,T,21,21
+1978-10-07,Army,Ind,Homer Smith,A,Tennessee,SEC,Johnny Majors,L,13,31
+1978-10-14,Army,Ind,Homer Smith,H,Holy Cross,Ind,Neil Wheelwright,L,0,31
+1978-10-21,Army,Ind,Homer Smith,A,Florida,SEC,Doug Dickey,L,7,31
+1978-10-28,Army,Ind,Homer Smith,H,Colgate,Ind,Frederick Dunlap,W,28,3
+1978-11-04,Army,Ind,Homer Smith,H,Air Force,Ind,Bill Parcells,W,28,14
+1978-11-11,Army,Ind,Homer Smith,H,Boston College,Ind,Ed Chlebek,W,29,26
+1978-11-18,Army,Ind,Homer Smith,A,Pitt,Ind,Jackie Sherrill,L,17,35
+1978-12-02,Army,Ind,Homer Smith,N,Navy,Ind,George Welsh,L,0,28
+1978-09-16,Louisiana-Monroe,Ind,John David Crow,H,Arkansas State,Southland,Bill Davidson,W,21,13
+1978-09-23,Louisiana-Monroe,Ind,John David Crow,H,Northern Illinois,MAC,Pat Culpepper,W,27,10
+1978-09-30,Louisiana-Monroe,Ind,John David Crow,A,Northwestern State,Ind,,W,46,0
+1978-10-07,Louisiana-Monroe,Ind,John David Crow,A,Lamar,Southland,Bob Frederick,T,17,17
+1978-10-14,Louisiana-Monroe,Ind,John David Crow,A,McNeese State,Southland,Jack Doland,L,10,31
+1978-10-28,Louisiana-Monroe,Ind,John David Crow,H,Indiana State,MVC,Dick Jamieson,W,14,0
+1978-11-04,Louisiana-Monroe,Ind,John David Crow,A,Cincinnati,Ind,Ralph Staub,L,7,20
+1978-11-11,Louisiana-Monroe,Ind,John David Crow,A,North Texas,Ind,Hayden Fry,L,6,28
+1978-11-18,Louisiana-Monroe,Ind,John David Crow,H,Louisiana Tech,Southland,Maxie Lambright,W,18,0
+1978-09-23,Dartmouth,Ivy,Joseph Yukica,H,Pennsylvania,Ivy,Harry Gamble,W,31,21
+1978-09-30,Dartmouth,Ivy,Joseph Yukica,A,Holy Cross,Ind,Neil Wheelwright,L,0,35
+1978-10-14,Dartmouth,Ivy,Joseph Yukica,H,Yale,Ivy,Carmen Cozza,W,10,3
+1978-10-21,Dartmouth,Ivy,Joseph Yukica,A,Harvard,Ivy,Joseph Restic,L,19,24
+1978-10-28,Dartmouth,Ivy,Joseph Yukica,A,Cornell,Ivy,Bob Blackman,W,14,7
+1978-11-04,Dartmouth,Ivy,Joseph Yukica,H,Columbia,Ivy,William Campbell,W,37,7
+1978-11-11,Dartmouth,Ivy,Joseph Yukica,A,Brown,Ivy,John Anderson,W,31,21
+1978-11-18,Dartmouth,Ivy,Joseph Yukica,A,Princeton,Ivy,Frank Navarro,W,28,21
+1978-09-09,UCLA,Pac-10,Terry Donahue,A,Washington,Pac-10,Don James,W,10,7
+1978-09-16,UCLA,Pac-10,Terry Donahue,A,Tennessee,SEC,Johnny Majors,W,13,0
+1978-09-23,UCLA,Pac-10,Terry Donahue,A,Kansas,Big 8,Bud Moore,L,24,28
+1978-09-30,UCLA,Pac-10,Terry Donahue,H,Minnesota,Big Ten,Cal Stoll,W,17,3
+1978-10-07,UCLA,Pac-10,Terry Donahue,H,Stanford,Pac-10,Bill Walsh,W,27,26
+1978-10-14,UCLA,Pac-10,Terry Donahue,H,Washington State,Pac-10,Jim Walden,W,45,31
+1978-10-21,UCLA,Pac-10,Terry Donahue,A,California,Pac-10,Roger Theder,W,45,0
+1978-10-27,UCLA,Pac-10,Terry Donahue,H,Arizona,Pac-10,Tony Mason,W,24,14
+1978-11-04,UCLA,Pac-10,Terry Donahue,H,Oregon,Pac-10,Rich Brooks,W,23,21
+1978-11-11,UCLA,Pac-10,Terry Donahue,A,Oregon State,Pac-10,Craig Fertig,L,13,15
+1978-11-18,UCLA,Pac-10,Terry Donahue,H,USC,Pac-10,John Robinson,L,10,17
+1978-12-25,UCLA,Pac-10,Terry Donahue,N,Arkansas,SWC,Lou Holtz,T,10,10
+1978-09-16,Auburn,SEC,Doug Barfield,A,Kansas State,Big 8,Jim Dickey,W,45,32
+1978-09-23,Auburn,SEC,Doug Barfield,A,Virginia Tech,Ind,Bill Dooley,W,18,7
+1978-09-30,Auburn,SEC,Doug Barfield,H,Tennessee,SEC,Johnny Majors,W,29,10
+1978-10-07,Auburn,SEC,Doug Barfield,H,Miami (FL),Ind,Lou Saban,L,15,17
+1978-10-14,Auburn,SEC,Doug Barfield,A,Vanderbilt,SEC,Fred Pancoast,W,49,7
+1978-10-21,Auburn,SEC,Doug Barfield,H,Georgia Tech,Ind,Pepper Rodgers,L,10,24
+1978-10-28,Auburn,SEC,Doug Barfield,H,Wake Forest,ACC,John Mackovic,W,21,7
+1978-11-04,Auburn,SEC,Doug Barfield,A,Florida,SEC,Doug Dickey,L,7,31
+1978-11-11,Auburn,SEC,Doug Barfield,A,Mississippi State,SEC,Bob Tyler,W,6,0
+1978-11-18,Auburn,SEC,Doug Barfield,H,Georgia,SEC,Vince Dooley,T,22,22
+1978-12-02,Auburn,SEC,Doug Barfield,N,Alabama,SEC,Bear Bryant,L,16,34
+1978-09-09,Northwestern,Big Ten,Rick Venturi,A,Illinois,Big Ten,Gary Moeller,T,0,0
+1978-09-16,Northwestern,Big Ten,Rick Venturi,A,Iowa,Big Ten,Bob Commings,L,3,20
+1978-09-23,Northwestern,Big Ten,Rick Venturi,H,Wisconsin,Big Ten,Dave McClain,L,7,28
+1978-09-30,Northwestern,Big Ten,Rick Venturi,A,Colorado,Big 8,Bill Mallory,L,7,55
+1978-10-07,Northwestern,Big Ten,Rick Venturi,H,Arizona State,Pac-10,Frank Kush,L,14,56
+1978-10-14,Northwestern,Big Ten,Rick Venturi,A,Indiana,Big Ten,Lee Corso,L,10,38
+1978-10-21,Northwestern,Big Ten,Rick Venturi,H,Minnesota,Big Ten,Cal Stoll,L,14,38
+1978-10-28,Northwestern,Big Ten,Rick Venturi,A,Ohio State,Big Ten,Woody Hayes,L,20,63
+1978-11-04,Northwestern,Big Ten,Rick Venturi,A,Purdue,Big Ten,Jim Young,L,0,31
+1978-11-11,Northwestern,Big Ten,Rick Venturi,H,Michigan,Big Ten,Bo Schembechler,L,14,59
+1978-11-18,Northwestern,Big Ten,Rick Venturi,H,Michigan State,Big Ten,Darryl Rogers,L,3,52
+1978-09-09,Marshall,Southern,Frank Ellwood,A,Toledo,MAC,Chuck Stobart,W,17,0
+1978-09-16,Marshall,Southern,Frank Ellwood,H,Appalachian State,Southern,Jim Brakefield,L,7,28
+1978-09-23,Marshall,Southern,Frank Ellwood,H,Chattanooga,Southern,Joe Morrison,L,23,27
+1978-09-30,Marshall,Southern,Frank Ellwood,A,Western Carolina,Southern,Bob Waters,L,14,21
+1978-10-07,Marshall,Southern,Frank Ellwood,A,Citadel,Southern,Art Baker,L,0,41
+1978-10-14,Marshall,Southern,Frank Ellwood,H,Miami (OH),MAC,Tom Reed,L,3,29
+1978-10-21,Marshall,Southern,Frank Ellwood,A,Kent State,MAC,Ron Blackledge,L,17,20
+1978-10-28,Marshall,Southern,Frank Ellwood,H,Furman,Southern,Dick Sheridan,L,12,42
+1978-11-04,Marshall,Southern,Frank Ellwood,H,Western Michigan,MAC,Elliot Uzelac,L,6,24
+1978-11-11,Marshall,Southern,Frank Ellwood,A,Southern Illinois,MVC,Rey Dempsey,L,14,15
+1978-11-18,Marshall,Southern,Frank Ellwood,A,East Carolina,Ind,Pat Dye,L,0,45
+1978-09-09,Kansas,Big 8,Bud Moore,H,Texas A&M,SWC,Tom Wilson,L,10,37
+1978-09-16,Kansas,Big 8,Bud Moore,A,Washington,Pac-10,Don James,L,2,31
+1978-09-23,Kansas,Big 8,Bud Moore,H,UCLA,Pac-10,Terry Donahue,W,28,24
+1978-09-30,Kansas,Big 8,Bud Moore,H,Miami (FL),Ind,Lou Saban,L,6,38
+1978-10-07,Kansas,Big 8,Bud Moore,A,Colorado,Big 8,Bill Mallory,L,7,17
+1978-10-14,Kansas,Big 8,Bud Moore,H,Oklahoma,Big 8,Barry Switzer,L,16,17
+1978-10-21,Kansas,Big 8,Bud Moore,A,Oklahoma State,Big 8,Jim Stanley,L,7,21
+1978-10-28,Kansas,Big 8,Bud Moore,H,Iowa State,Big 8,Earle Bruce,L,7,13
+1978-11-04,Kansas,Big 8,Bud Moore,H,Nebraska,Big 8,Tom Osborne,L,21,63
+1978-11-11,Kansas,Big 8,Bud Moore,A,Missouri,Big 8,Warren Powers,L,0,48
+1978-11-18,Kansas,Big 8,Bud Moore,A,Kansas State,Big 8,Jim Dickey,L,20,36
+1978-09-09,Western Michigan,MAC,Elliot Uzelac,H,Illinois State,Ind,Charlie Cowdrey,W,27,17
+1978-09-16,Western Michigan,MAC,Elliot Uzelac,A,Northern Illinois,MAC,Pat Culpepper,W,44,30
+1978-09-23,Western Michigan,MAC,Elliot Uzelac,A,Miami (OH),MAC,Tom Reed,L,3,7
+1978-09-30,Western Michigan,MAC,Elliot Uzelac,H,Bowling Green State,MAC,Dennis Stolz,W,24,20
+1978-10-07,Western Michigan,MAC,Elliot Uzelac,A,Kent State,MAC,Ron Blackledge,W,14,0
+1978-10-14,Western Michigan,MAC,Elliot Uzelac,H,Toledo,MAC,Chuck Stobart,W,17,7
+1978-10-21,Western Michigan,MAC,Elliot Uzelac,H,Eastern Michigan,MAC,Mike Stock,W,32,0
+1978-10-28,Western Michigan,MAC,Elliot Uzelac,H,Ohio,MAC,Bob Kappes,L,7,10
+1978-11-04,Western Michigan,MAC,Elliot Uzelac,A,Marshall,Southern,Frank Ellwood,W,24,6
+1978-11-11,Western Michigan,MAC,Elliot Uzelac,A,Ball State,MAC,Dwight Wallace,L,14,20
+1978-11-18,Western Michigan,MAC,Elliot Uzelac,H,Central Michigan,MAC,Herb Deromedi,L,14,35
+1978-09-09,William & Mary,Ind,James Root,H,Virginia Military Institute,Southern,Bob Thalman,W,10,3
+1978-09-23,William & Mary,Ind,James Root,A,Villanova,Ind,Dick Bedesem,W,21,17
+1978-09-30,William & Mary,Ind,James Root,A,Virginia Tech,Ind,Bill Dooley,L,19,22
+1978-10-07,William & Mary,Ind,James Root,H,Temple,Ind,Wayne Hardin,T,22,22
+1978-10-21,William & Mary,Ind,James Root,A,Navy,Ind,George Welsh,L,0,9
+1978-10-28,William & Mary,Ind,James Root,A,Louisville,Ind,Vince Gibson,L,21,33
+1978-11-04,William & Mary,Ind,James Root,H,Citadel,Southern,Art Baker,W,12,8
+1978-11-11,William & Mary,Ind,James Root,A,East Carolina,Ind,Pat Dye,L,3,20
+1978-11-18,William & Mary,Ind,James Root,A,Richmond,Ind,Jim Tait,L,3,17
+1978-09-02,UTEP,WAC,Bill Michael,A,North Texas,Ind,Hayden Fry,L,0,49
+1978-09-09,UTEP,WAC,Bill Michael,H,Air Force,Ind,Bill Parcells,L,25,34
+1978-09-16,UTEP,WAC,Bill Michael,A,New Mexico State,MVC,Gil Krueger,L,32,35
+1978-09-23,UTEP,WAC,Bill Michael,H,San Diego State,WAC,Claude Gilbert,W,31,24
+1978-09-30,UTEP,WAC,Bill Michael,A,Arizona State,Pac-10,Frank Kush,L,0,27
+1978-10-07,UTEP,WAC,Bill Michael,A,Colorado State,WAC,Sarkis Arslanian,L,29,39
+1978-10-21,UTEP,WAC,Bill Michael,A,Brigham Young,WAC,LaVell Edwards,L,0,44
+1978-10-28,UTEP,WAC,Bill Michael,H,New Mexico,WAC,Bill Mondt,L,0,21
+1978-11-04,UTEP,WAC,Bill Michael,A,Hawaii,Ind,Dick Tomey,L,13,35
+1978-11-11,UTEP,WAC,Bill Michael,H,Utah,WAC,Wayne Howard,L,0,38
+1978-11-18,UTEP,WAC,Bill Michael,A,Nevada-Las Vegas,Ind,Tony Knap,L,0,27
+1978-11-25,UTEP,WAC,Bill Michael,H,Wyoming,WAC,Bill Lewis,L,21,51
+1978-09-09,Indiana State,MVC,Dick Jamieson,H,New Mexico State,MVC,Gil Krueger,L,9,14
+1978-09-23,Indiana State,MVC,Dick Jamieson,A,Eastern Michigan,MAC,Mike Stock,L,8,27
+1978-09-30,Indiana State,MVC,Dick Jamieson,A,Louisville,Ind,Vince Gibson,L,12,31
+1978-10-07,Indiana State,MVC,Dick Jamieson,A,Ball State,MAC,Dwight Wallace,L,0,7
+1978-10-14,Indiana State,MVC,Dick Jamieson,H,Drake,MVC,Chuck Shelton,W,13,0
+1978-10-21,Indiana State,MVC,Dick Jamieson,H,West Texas A&M,MVC,Bill Yung,L,7,36
+1978-10-28,Indiana State,MVC,Dick Jamieson,A,Louisiana-Monroe,Ind,John David Crow,L,0,14
+1978-11-04,Indiana State,MVC,Dick Jamieson,H,Southern Illinois,MVC,Rey Dempsey,L,7,28
+1978-11-11,Indiana State,MVC,Dick Jamieson,A,Illinois State,Ind,Charlie Cowdrey,L,14,27
+1978-11-18,Indiana State,MVC,Dick Jamieson,H,Wichita State,MVC,Jim Wright,W,42,18
+1978-09-16,LSU,SEC,Charles McClendon,H,Indiana,Big Ten,Lee Corso,W,24,17
+1978-09-23,LSU,SEC,Charles McClendon,H,Wake Forest,ACC,John Mackovic,W,13,11
+1978-09-30,LSU,SEC,Charles McClendon,A,Rice,SWC,Ray Alborn,W,37,7
+1978-10-07,LSU,SEC,Charles McClendon,A,Florida,SEC,Doug Dickey,W,34,21
+1978-10-14,LSU,SEC,Charles McClendon,H,Georgia,SEC,Vince Dooley,L,17,24
+1978-10-21,LSU,SEC,Charles McClendon,A,Kentucky,SEC,Fran Curci,W,21,0
+1978-11-04,LSU,SEC,Charles McClendon,H,Ole Miss,SEC,Steve Sloan,W,30,8
+1978-11-11,LSU,SEC,Charles McClendon,A,Alabama,SEC,Bear Bryant,L,10,31
+1978-11-18,LSU,SEC,Charles McClendon,A,Mississippi State,SEC,Bob Tyler,L,14,16
+1978-11-25,LSU,SEC,Charles McClendon,H,Tulane,Ind,Larry Smith,W,40,21
+1978-12-02,LSU,SEC,Charles McClendon,H,Wyoming,WAC,Bill Lewis,W,24,17
+1978-12-23,LSU,SEC,Charles McClendon,N,Missouri,Big 8,Warren Powers,L,15,20
+1978-09-23,Pennsylvania,Ivy,Harry Gamble,A,Dartmouth,Ivy,Joseph Yukica,L,21,31
+1978-10-07,Pennsylvania,Ivy,Harry Gamble,H,Columbia,Ivy,William Campbell,W,31,19
+1978-10-14,Pennsylvania,Ivy,Harry Gamble,A,Brown,Ivy,John Anderson,L,0,14
+1978-10-28,Pennsylvania,Ivy,Harry Gamble,H,Yale,Ivy,Carmen Cozza,T,17,17
+1978-11-04,Pennsylvania,Ivy,Harry Gamble,A,Princeton,Ivy,Frank Navarro,L,0,21
+1978-11-11,Pennsylvania,Ivy,Harry Gamble,H,Harvard,Ivy,Joseph Restic,L,13,17
+1978-11-18,Pennsylvania,Ivy,Harry Gamble,A,Cornell,Ivy,Bob Blackman,L,17,35
+1978-09-02,Tulsa,MVC,John Cooper,H,Arkansas State,Southland,Bill Davidson,W,21,20
+1978-09-09,Tulsa,MVC,John Cooper,A,Virginia Tech,Ind,Bill Dooley,W,35,33
+1978-09-16,Tulsa,MVC,John Cooper,H,Louisiana,Southland,Augie Tammariello,W,10,3
+1978-09-23,Tulsa,MVC,John Cooper,H,Kansas State,Big 8,Jim Dickey,W,24,14
+1978-09-30,Tulsa,MVC,John Cooper,A,Arkansas,SWC,Lou Holtz,L,13,21
+1978-10-07,Tulsa,MVC,John Cooper,H,Louisville,Ind,Vince Gibson,W,24,7
+1978-10-14,Tulsa,MVC,John Cooper,A,New Mexico State,MVC,Gil Krueger,L,20,23
+1978-10-21,Tulsa,MVC,John Cooper,A,Cincinnati,Ind,Ralph Staub,W,27,26
+1978-10-28,Tulsa,MVC,John Cooper,H,Drake,MVC,Chuck Shelton,W,44,20
+1978-11-04,Tulsa,MVC,John Cooper,H,West Texas A&M,MVC,Bill Yung,W,44,23
+1978-11-11,Tulsa,MVC,John Cooper,A,Wichita State,MVC,Jim Wright,W,27,13
+1978-09-16,Iowa,Big Ten,Bob Commings,H,Northwestern,Big Ten,Rick Venturi,W,20,3
+1978-09-23,Iowa,Big Ten,Bob Commings,H,Iowa State,Big 8,Earle Bruce,L,0,31
+1978-09-30,Iowa,Big Ten,Bob Commings,A,Arizona,Pac-10,Tony Mason,L,3,23
+1978-10-07,Iowa,Big Ten,Bob Commings,H,Utah,WAC,Wayne Howard,L,9,13
+1978-10-14,Iowa,Big Ten,Bob Commings,A,Minnesota,Big Ten,Cal Stoll,L,20,22
+1978-10-21,Iowa,Big Ten,Bob Commings,A,Ohio State,Big Ten,Woody Hayes,L,7,31
+1978-10-28,Iowa,Big Ten,Bob Commings,H,Purdue,Big Ten,Jim Young,L,7,34
+1978-11-04,Iowa,Big Ten,Bob Commings,H,Michigan,Big Ten,Bo Schembechler,L,0,34
+1978-11-11,Iowa,Big Ten,Bob Commings,A,Indiana,Big Ten,Lee Corso,L,14,34
+1978-11-18,Iowa,Big Ten,Bob Commings,H,Wisconsin,Big Ten,Dave McClain,W,38,24
+1978-11-25,Iowa,Big Ten,Bob Commings,A,Michigan State,Big Ten,Darryl Rogers,L,7,42
+1978-09-23,Columbia,Ivy,William Campbell,A,Harvard,Ivy,Joseph Restic,W,21,19
+1978-10-07,Columbia,Ivy,William Campbell,A,Pennsylvania,Ivy,Harry Gamble,L,19,31
+1978-10-14,Columbia,Ivy,William Campbell,H,Princeton,Ivy,Frank Navarro,W,14,10
+1978-10-21,Columbia,Ivy,William Campbell,A,Yale,Ivy,Carmen Cozza,T,3,3
+1978-10-28,Columbia,Ivy,William Campbell,N,Rutgers,Ind,Frank Burns,L,0,69
+1978-11-04,Columbia,Ivy,William Campbell,A,Dartmouth,Ivy,Joseph Yukica,L,7,37
+1978-11-11,Columbia,Ivy,William Campbell,H,Cornell,Ivy,Bob Blackman,L,14,35
+1978-11-18,Columbia,Ivy,William Campbell,H,Brown,Ivy,John Anderson,L,12,24
+1978-09-16,Texas,SWC,Fred Akers,A,Rice,SWC,Ray Alborn,W,34,0
+1978-09-23,Texas,SWC,Fred Akers,H,Wyoming,WAC,Bill Lewis,W,17,3
+1978-09-30,Texas,SWC,Fred Akers,A,Texas Tech,SWC,Rex Dockery,W,24,7
+1978-10-07,Texas,SWC,Fred Akers,N,Oklahoma,Big 8,Barry Switzer,L,10,31
+1978-10-14,Texas,SWC,Fred Akers,H,North Texas,Ind,Hayden Fry,W,26,16
+1978-10-21,Texas,SWC,Fred Akers,H,Arkansas,SWC,Lou Holtz,W,28,21
+1978-10-28,Texas,SWC,Fred Akers,H,SMU,SWC,Ron Meyer,W,22,3
+1978-11-11,Texas,SWC,Fred Akers,H,Houston,SWC,Bill Yeoman,L,7,10
+1978-11-18,Texas,SWC,Fred Akers,A,Texas Christian,SWC,F. Dry,W,41,0
+1978-11-25,Texas,SWC,Fred Akers,A,Baylor,SWC,Grant Teaff,L,14,38
+1978-12-02,Texas,SWC,Fred Akers,H,Texas A&M,SWC,Tom Wilson,W,22,7
+1978-12-23,Texas,SWC,Fred Akers,N,Maryland,ACC,Jerry Claiborne,W,42,0
+1978-09-09,Texas Christian,SWC,F. Dry,A,SMU,SWC,Ron Meyer,L,14,45
+1978-09-23,Texas Christian,SWC,F. Dry,A,Oregon,Pac-10,Rich Brooks,W,14,10
+1978-09-30,Texas Christian,SWC,F. Dry,A,Penn State,Ind,Joe Paterno,L,0,58
+1978-10-07,Texas Christian,SWC,F. Dry,A,Arkansas,SWC,Lou Holtz,L,3,42
+1978-10-14,Texas Christian,SWC,F. Dry,H,Rice,SWC,Ray Alborn,L,14,21
+1978-10-21,Texas Christian,SWC,F. Dry,A,Tulane,Ind,Larry Smith,W,13,7
+1978-10-28,Texas Christian,SWC,F. Dry,H,Baylor,SWC,Grant Teaff,L,21,28
+1978-11-04,Texas Christian,SWC,F. Dry,A,Houston,SWC,Bill Yeoman,L,6,63
+1978-11-11,Texas Christian,SWC,F. Dry,H,Texas Tech,SWC,Rex Dockery,L,17,27
+1978-11-18,Texas Christian,SWC,F. Dry,H,Texas,SWC,Fred Akers,L,0,41
+1978-11-25,Texas Christian,SWC,F. Dry,A,Texas A&M,SWC,Tom Wilson,L,7,15
+1978-09-09,Air Force,Ind,Bill Parcells,A,UTEP,WAC,Bill Michael,W,34,25
+1978-09-16,Air Force,Ind,Bill Parcells,A,Boston College,Ind,Ed Chlebek,W,18,7
+1978-09-23,Air Force,Ind,Bill Parcells,H,Holy Cross,Ind,Neil Wheelwright,L,18,35
+1978-09-30,Air Force,Ind,Bill Parcells,A,Kansas State,Big 8,Jim Dickey,L,21,34
+1978-10-07,Air Force,Ind,Bill Parcells,H,Navy,Ind,George Welsh,L,8,37
+1978-10-14,Air Force,Ind,Bill Parcells,H,Colorado State,WAC,Sarkis Arslanian,L,13,31
+1978-10-21,Air Force,Ind,Bill Parcells,H,Notre Dame,Ind,Dan Devine,L,15,38
+1978-10-28,Air Force,Ind,Bill Parcells,H,Kent State,MAC,Ron Blackledge,W,26,10
+1978-11-04,Air Force,Ind,Bill Parcells,A,Army,Ind,Homer Smith,L,14,28
+1978-11-11,Air Force,Ind,Bill Parcells,H,Georgia Tech,Ind,Pepper Rodgers,L,21,42
+1978-11-18,Air Force,Ind,Bill Parcells,A,Vanderbilt,SEC,Fred Pancoast,L,27,41
+1978-09-16,Miami (FL),Ind,Lou Saban,A,Colorado,Big 8,Bill Mallory,L,7,17
+1978-09-23,Miami (FL),Ind,Lou Saban,H,Florida State,Ind,Bobby Bowden,L,21,31
+1978-09-30,Miami (FL),Ind,Lou Saban,A,Kansas,Big 8,Bud Moore,W,38,6
+1978-10-07,Miami (FL),Ind,Lou Saban,A,Auburn,SEC,Doug Barfield,W,17,15
+1978-10-14,Miami (FL),Ind,Lou Saban,A,Georgia Tech,Ind,Pepper Rodgers,L,19,24
+1978-10-21,Miami (FL),Ind,Lou Saban,H,Utah State,PCAA,Bruce Snyder,W,17,16
+1978-10-28,Miami (FL),Ind,Lou Saban,A,Notre Dame,Ind,Dan Devine,L,0,20
+1978-11-04,Miami (FL),Ind,Lou Saban,A,Tulane,Ind,Larry Smith,L,16,20
+1978-11-18,Miami (FL),Ind,Lou Saban,H,San Diego State,WAC,Claude Gilbert,W,16,14
+1978-11-25,Miami (FL),Ind,Lou Saban,H,Syracuse,Ind,Frank Maloney,W,21,9
+1978-12-02,Miami (FL),Ind,Lou Saban,A,Florida,SEC,Doug Dickey,W,22,21
+1978-09-02,Richmond,Ind,Jim Tait,H,Southern Mississippi,Ind,Bobby Collins,L,7,10
+1978-09-09,Richmond,Ind,Jim Tait,A,West Virginia,Ind,Frank Cignetti,L,12,14
+1978-09-16,Richmond,Ind,Jim Tait,A,Wisconsin,Big Ten,Dave McClain,L,6,7
+1978-09-23,Richmond,Ind,Jim Tait,A,Appalachian State,Southern,Jim Brakefield,L,19,24
+1978-09-30,Richmond,Ind,Jim Tait,H,Cincinnati,Ind,Ralph Staub,W,51,28
+1978-10-07,Richmond,Ind,Jim Tait,A,Villanova,Ind,Dick Bedesem,L,14,17
+1978-10-14,Richmond,Ind,Jim Tait,H,Virginia Military Institute,Southern,Bob Thalman,L,6,23
+1978-10-28,Richmond,Ind,Jim Tait,N,East Carolina,Ind,Pat Dye,L,14,21
+1978-11-04,Richmond,Ind,Jim Tait,H,North Carolina,ACC,Dick Crum,W,27,18
+1978-11-11,Richmond,Ind,Jim Tait,A,Chattanooga,Southern,Joe Morrison,L,3,30
+1978-11-18,Richmond,Ind,Jim Tait,H,William & Mary,Ind,James Root,W,17,3
+1978-09-09,Oregon,Pac-10,Rich Brooks,A,Colorado,Big 8,Bill Mallory,L,7,24
+1978-09-16,Oregon,Pac-10,Rich Brooks,H,USC,Pac-10,John Robinson,L,10,37
+1978-09-23,Oregon,Pac-10,Rich Brooks,H,Texas Christian,SWC,F. Dry,L,10,14
+1978-09-30,Oregon,Pac-10,Rich Brooks,A,Wisconsin,Big Ten,Dave McClain,L,19,22
+1978-10-07,Oregon,Pac-10,Rich Brooks,A,California,Pac-10,Roger Theder,L,18,21
+1978-10-14,Oregon,Pac-10,Rich Brooks,H,Brigham Young,WAC,LaVell Edwards,L,16,17
+1978-10-21,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,14,20
+1978-10-28,Oregon,Pac-10,Rich Brooks,H,Washington State,Pac-10,Jim Walden,W,31,7
+1978-11-04,Oregon,Pac-10,Rich Brooks,A,UCLA,Pac-10,Terry Donahue,L,21,23
+1978-11-11,Oregon,Pac-10,Rich Brooks,H,Arizona,Pac-10,Tony Mason,L,3,24
+1978-11-25,Oregon,Pac-10,Rich Brooks,A,Oregon State,Pac-10,Craig Fertig,W,24,3
+1978-09-23,Brown,Ivy,John Anderson,H,Yale,Ivy,Carmen Cozza,L,0,21
+1978-10-07,Brown,Ivy,John Anderson,A,Princeton,Ivy,Frank Navarro,W,44,16
+1978-10-14,Brown,Ivy,John Anderson,H,Pennsylvania,Ivy,Harry Gamble,W,14,0
+1978-10-21,Brown,Ivy,John Anderson,A,Cornell,Ivy,Bob Blackman,W,21,13
+1978-10-28,Brown,Ivy,John Anderson,H,Holy Cross,Ind,Neil Wheelwright,W,31,25
+1978-11-04,Brown,Ivy,John Anderson,A,Harvard,Ivy,Joseph Restic,W,31,30
+1978-11-11,Brown,Ivy,John Anderson,H,Dartmouth,Ivy,Joseph Yukica,L,21,31
+1978-11-18,Brown,Ivy,John Anderson,A,Columbia,Ivy,William Campbell,W,24,12
+1978-09-16,Appalachian State,Southern,Jim Brakefield,A,Marshall,Southern,Frank Ellwood,W,28,7
+1978-09-23,Appalachian State,Southern,Jim Brakefield,H,Richmond,Ind,Jim Tait,W,24,19
+1978-09-30,Appalachian State,Southern,Jim Brakefield,H,Furman,Southern,Dick Sheridan,L,34,52
+1978-10-07,Appalachian State,Southern,Jim Brakefield,A,Chattanooga,Southern,Joe Morrison,L,14,72
+1978-10-21,Appalachian State,Southern,Jim Brakefield,H,Citadel,Southern,Art Baker,W,42,14
+1978-11-04,Appalachian State,Southern,Jim Brakefield,H,East Carolina,Ind,Pat Dye,L,8,33
+1978-11-11,Appalachian State,Southern,Jim Brakefield,A,Virginia Military Institute,Southern,Bob Thalman,W,31,10
+1978-11-18,Appalachian State,Southern,Jim Brakefield,H,Western Carolina,Southern,Bob Waters,W,39,13
+1978-09-16,Tennessee,SEC,Johnny Majors,H,UCLA,Pac-10,Terry Donahue,L,0,13
+1978-09-23,Tennessee,SEC,Johnny Majors,H,Oregon State,Pac-10,Craig Fertig,T,13,13
+1978-09-30,Tennessee,SEC,Johnny Majors,A,Auburn,SEC,Doug Barfield,L,10,29
+1978-10-07,Tennessee,SEC,Johnny Majors,H,Army,Ind,Homer Smith,W,31,13
+1978-10-21,Tennessee,SEC,Johnny Majors,H,Alabama,SEC,Bear Bryant,L,17,30
+1978-10-28,Tennessee,SEC,Johnny Majors,N,Mississippi State,SEC,Bob Tyler,L,21,34
+1978-11-04,Tennessee,SEC,Johnny Majors,H,Duke,ACC,Mike McGee,W,34,0
+1978-11-11,Tennessee,SEC,Johnny Majors,A,Notre Dame,Ind,Dan Devine,L,14,31
+1978-11-18,Tennessee,SEC,Johnny Majors,H,Ole Miss,SEC,Steve Sloan,W,41,17
+1978-11-25,Tennessee,SEC,Johnny Majors,H,Kentucky,SEC,Fran Curci,W,29,14
+1978-12-02,Tennessee,SEC,Johnny Majors,A,Vanderbilt,SEC,Fred Pancoast,W,41,15
+1978-09-02,Texas-Arlington,Southland,Harold Elliott,A,Drake,MVC,Chuck Shelton,L,23,25
+1978-09-09,Texas-Arlington,Southland,Harold Elliott,H,West Texas A&M,MVC,Bill Yung,L,10,18
+1978-09-16,Texas-Arlington,Southland,Harold Elliott,N,North Texas,Ind,Hayden Fry,L,23,28
+1978-09-23,Texas-Arlington,Southland,Harold Elliott,H,Louisiana Tech,Southland,Maxie Lambright,L,21,28
+1978-09-30,Texas-Arlington,Southland,Harold Elliott,H,East Carolina,Ind,Pat Dye,L,17,23
+1978-10-07,Texas-Arlington,Southland,Harold Elliott,A,New Mexico State,MVC,Gil Krueger,W,28,17
+1978-10-14,Texas-Arlington,Southland,Harold Elliott,H,Louisiana,Southland,Augie Tammariello,W,24,3
+1978-10-21,Texas-Arlington,Southland,Harold Elliott,A,Lamar,Southland,Bob Frederick,W,37,17
+1978-10-28,Texas-Arlington,Southland,Harold Elliott,H,Arkansas State,Southland,Bill Davidson,L,7,27
+1978-11-04,Texas-Arlington,Southland,Harold Elliott,H,Northwestern State,Ind,,W,30,7
+1978-11-18,Texas-Arlington,Southland,Harold Elliott,A,McNeese State,Southland,Jack Doland,W,20,17
+1978-09-09,Oregon State,Pac-10,Craig Fertig,H,Brigham Young,WAC,LaVell Edwards,L,6,10
+1978-09-16,Oregon State,Pac-10,Craig Fertig,A,Arizona,Pac-10,Tony Mason,L,7,21
+1978-09-23,Oregon State,Pac-10,Craig Fertig,A,Tennessee,SEC,Johnny Majors,T,13,13
+1978-09-30,Oregon State,Pac-10,Craig Fertig,H,Washington,Pac-10,Don James,L,0,34
+1978-10-07,Oregon State,Pac-10,Craig Fertig,A,Minnesota,Big Ten,Cal Stoll,W,17,14
+1978-10-21,Oregon State,Pac-10,Craig Fertig,A,USC,Pac-10,John Robinson,L,7,38
+1978-10-28,Oregon State,Pac-10,Craig Fertig,A,Stanford,Pac-10,Bill Walsh,L,6,24
+1978-11-04,Oregon State,Pac-10,Craig Fertig,A,Washington State,Pac-10,Jim Walden,W,32,31
+1978-11-11,Oregon State,Pac-10,Craig Fertig,H,UCLA,Pac-10,Terry Donahue,W,15,13
+1978-11-18,Oregon State,Pac-10,Craig Fertig,H,Arizona State,Pac-10,Frank Kush,L,22,44
+1978-11-25,Oregon State,Pac-10,Craig Fertig,H,Oregon,Pac-10,Rich Brooks,L,3,24
+1978-09-02,Alabama,SEC,Bear Bryant,H,Nebraska,Big 8,Tom Osborne,W,20,3
+1978-09-16,Alabama,SEC,Bear Bryant,A,Missouri,Big 8,Warren Powers,W,38,20
+1978-09-23,Alabama,SEC,Bear Bryant,H,USC,Pac-10,John Robinson,L,14,24
+1978-09-30,Alabama,SEC,Bear Bryant,H,Vanderbilt,SEC,Fred Pancoast,W,51,28
+1978-10-07,Alabama,SEC,Bear Bryant,A,Washington,Pac-10,Don James,W,20,17
+1978-10-14,Alabama,SEC,Bear Bryant,H,Florida,SEC,Doug Dickey,W,23,12
+1978-10-21,Alabama,SEC,Bear Bryant,A,Tennessee,SEC,Johnny Majors,W,30,17
+1978-10-28,Alabama,SEC,Bear Bryant,H,Virginia Tech,Ind,Bill Dooley,W,35,0
+1978-11-04,Alabama,SEC,Bear Bryant,H,Mississippi State,SEC,Bob Tyler,W,35,14
+1978-11-11,Alabama,SEC,Bear Bryant,H,LSU,SEC,Charles McClendon,W,31,10
+1978-12-02,Alabama,SEC,Bear Bryant,N,Auburn,SEC,Doug Barfield,W,34,16
+1979-01-01,Alabama,SEC,Bear Bryant,N,Penn State,Ind,Joe Paterno,W,14,7
+1978-09-16,Purdue,Big Ten,Jim Young,H,Michigan State,Big Ten,Darryl Rogers,W,21,14
+1978-09-23,Purdue,Big Ten,Jim Young,H,Ohio,MAC,Bob Kappes,W,24,0
+1978-09-30,Purdue,Big Ten,Jim Young,A,Notre Dame,Ind,Dan Devine,L,6,10
+1978-10-07,Purdue,Big Ten,Jim Young,H,Wake Forest,ACC,John Mackovic,W,14,7
+1978-10-14,Purdue,Big Ten,Jim Young,H,Ohio State,Big Ten,Woody Hayes,W,27,16
+1978-10-21,Purdue,Big Ten,Jim Young,A,Illinois,Big Ten,Gary Moeller,W,13,0
+1978-10-28,Purdue,Big Ten,Jim Young,A,Iowa,Big Ten,Bob Commings,W,34,7
+1978-11-04,Purdue,Big Ten,Jim Young,H,Northwestern,Big Ten,Rick Venturi,W,31,0
+1978-11-11,Purdue,Big Ten,Jim Young,A,Wisconsin,Big Ten,Dave McClain,T,24,24
+1978-11-18,Purdue,Big Ten,Jim Young,A,Michigan,Big Ten,Bo Schembechler,L,6,24
+1978-11-25,Purdue,Big Ten,Jim Young,H,Indiana,Big Ten,Lee Corso,W,20,7
+1978-12-25,Purdue,Big Ten,Jim Young,A,Georgia Tech,Ind,Pepper Rodgers,W,41,21
+1978-09-02,Nebraska,Big 8,Tom Osborne,A,Alabama,SEC,Bear Bryant,L,3,20
+1978-09-09,Nebraska,Big 8,Tom Osborne,H,California,Pac-10,Roger Theder,W,36,26
+1978-09-16,Nebraska,Big 8,Tom Osborne,H,Hawaii,Ind,Dick Tomey,W,56,10
+1978-09-30,Nebraska,Big 8,Tom Osborne,A,Indiana,Big Ten,Lee Corso,W,69,17
+1978-10-07,Nebraska,Big 8,Tom Osborne,A,Iowa State,Big 8,Earle Bruce,W,23,0
+1978-10-14,Nebraska,Big 8,Tom Osborne,H,Kansas State,Big 8,Jim Dickey,W,48,14
+1978-10-21,Nebraska,Big 8,Tom Osborne,A,Colorado,Big 8,Bill Mallory,W,52,14
+1978-10-28,Nebraska,Big 8,Tom Osborne,H,Oklahoma State,Big 8,Jim Stanley,W,22,14
+1978-11-04,Nebraska,Big 8,Tom Osborne,A,Kansas,Big 8,Bud Moore,W,63,21
+1978-11-11,Nebraska,Big 8,Tom Osborne,H,Oklahoma,Big 8,Barry Switzer,W,17,14
+1978-11-18,Nebraska,Big 8,Tom Osborne,H,Missouri,Big 8,Warren Powers,L,31,35
+1979-01-01,Nebraska,Big 8,Tom Osborne,N,Oklahoma,Big 8,Barry Switzer,L,24,31
+1978-09-09,West Virginia,Ind,Frank Cignetti,H,Richmond,Ind,Jim Tait,W,14,12
+1978-09-16,West Virginia,Ind,Frank Cignetti,A,Oklahoma,Big 8,Barry Switzer,L,10,52
+1978-09-23,West Virginia,Ind,Frank Cignetti,A,North Carolina State,ACC,Bo Rein,L,15,29
+1978-09-30,West Virginia,Ind,Frank Cignetti,H,California,Pac-10,Roger Theder,L,21,28
+1978-10-07,West Virginia,Ind,Frank Cignetti,H,Syracuse,Ind,Frank Maloney,L,15,31
+1978-10-14,West Virginia,Ind,Frank Cignetti,A,Virginia Tech,Ind,Bill Dooley,L,3,16
+1978-10-21,West Virginia,Ind,Frank Cignetti,A,Temple,Ind,Wayne Hardin,L,27,28
+1978-10-28,West Virginia,Ind,Frank Cignetti,H,Penn State,Ind,Joe Paterno,L,21,49
+1978-11-04,West Virginia,Ind,Frank Cignetti,H,Virginia,ACC,Dick Bestwick,W,20,17
+1978-11-11,West Virginia,Ind,Frank Cignetti,A,Pitt,Ind,Jackie Sherrill,L,7,52
+1978-11-18,West Virginia,Ind,Frank Cignetti,A,Colorado State,WAC,Sarkis Arslanian,L,14,50
+1978-09-23,Harvard,Ivy,Joseph Restic,H,Columbia,Ivy,William Campbell,L,19,21
+1978-10-07,Harvard,Ivy,Joseph Restic,H,Colgate,Ind,Frederick Dunlap,W,24,21
+1978-10-14,Harvard,Ivy,Joseph Restic,H,Cornell,Ivy,Bob Blackman,L,20,25
+1978-10-21,Harvard,Ivy,Joseph Restic,H,Dartmouth,Ivy,Joseph Yukica,W,24,19
+1978-10-28,Harvard,Ivy,Joseph Restic,A,Princeton,Ivy,Frank Navarro,T,24,24
+1978-11-04,Harvard,Ivy,Joseph Restic,H,Brown,Ivy,John Anderson,L,30,31
+1978-11-11,Harvard,Ivy,Joseph Restic,A,Pennsylvania,Ivy,Harry Gamble,W,17,13
+1978-11-18,Harvard,Ivy,Joseph Restic,H,Yale,Ivy,Carmen Cozza,L,28,35
+1978-09-09,Oklahoma State,Big 8,Jim Stanley,A,Wichita State,MVC,Jim Wright,L,10,20
+1978-09-16,Oklahoma State,Big 8,Jim Stanley,A,Florida State,Ind,Bobby Bowden,L,20,38
+1978-09-23,Oklahoma State,Big 8,Jim Stanley,H,Arkansas,SWC,Lou Holtz,L,7,19
+1978-09-30,Oklahoma State,Big 8,Jim Stanley,A,North Texas,Ind,Hayden Fry,L,7,12
+1978-10-07,Oklahoma State,Big 8,Jim Stanley,A,Kansas State,Big 8,Jim Dickey,L,7,18
+1978-10-14,Oklahoma State,Big 8,Jim Stanley,H,Colorado,Big 8,Bill Mallory,W,24,20
+1978-10-21,Oklahoma State,Big 8,Jim Stanley,H,Kansas,Big 8,Bud Moore,W,21,7
+1978-10-28,Oklahoma State,Big 8,Jim Stanley,A,Nebraska,Big 8,Tom Osborne,L,14,22
+1978-11-04,Oklahoma State,Big 8,Jim Stanley,H,Missouri,Big 8,Warren Powers,W,35,20
+1978-11-11,Oklahoma State,Big 8,Jim Stanley,H,Iowa State,Big 8,Earle Bruce,L,15,28
+1978-11-18,Oklahoma State,Big 8,Jim Stanley,A,Oklahoma,Big 8,Barry Switzer,L,7,62
+1978-09-09,Colorado,Big 8,Bill Mallory,H,Oregon,Pac-10,Rich Brooks,W,24,7
+1978-09-16,Colorado,Big 8,Bill Mallory,H,Miami (FL),Ind,Lou Saban,W,17,7
+1978-09-23,Colorado,Big 8,Bill Mallory,H,San Jose State,PCAA,Lynn Stiles,W,22,7
+1978-09-30,Colorado,Big 8,Bill Mallory,H,Northwestern,Big Ten,Rick Venturi,W,55,7
+1978-10-07,Colorado,Big 8,Bill Mallory,H,Kansas,Big 8,Bud Moore,W,17,7
+1978-10-14,Colorado,Big 8,Bill Mallory,A,Oklahoma State,Big 8,Jim Stanley,L,20,24
+1978-10-21,Colorado,Big 8,Bill Mallory,H,Nebraska,Big 8,Tom Osborne,L,14,52
+1978-10-28,Colorado,Big 8,Bill Mallory,A,Missouri,Big 8,Warren Powers,W,28,27
+1978-11-04,Colorado,Big 8,Bill Mallory,H,Oklahoma,Big 8,Barry Switzer,L,7,28
+1978-11-11,Colorado,Big 8,Bill Mallory,A,Kansas State,Big 8,Jim Dickey,L,10,20
+1978-11-18,Colorado,Big 8,Bill Mallory,H,Iowa State,Big 8,Earle Bruce,L,16,20
+1978-09-16,Colorado State,WAC,Sarkis Arslanian,H,Utah State,PCAA,Bruce Snyder,L,20,21
+1978-09-23,Colorado State,WAC,Sarkis Arslanian,A,Brigham Young,WAC,LaVell Edwards,L,6,32
+1978-09-30,Colorado State,WAC,Sarkis Arslanian,A,Utah,WAC,Wayne Howard,L,6,30
+1978-10-07,Colorado State,WAC,Sarkis Arslanian,H,UTEP,WAC,Bill Michael,W,39,29
+1978-10-14,Colorado State,WAC,Sarkis Arslanian,A,Air Force,Ind,Bill Parcells,W,31,13
+1978-10-21,Colorado State,WAC,Sarkis Arslanian,H,Nevada-Las Vegas,Ind,Tony Knap,L,6,33
+1978-10-28,Colorado State,WAC,Sarkis Arslanian,H,Wyoming,WAC,Bill Lewis,L,3,13
+1978-11-04,Colorado State,WAC,Sarkis Arslanian,A,San Diego State,WAC,Claude Gilbert,L,31,34
+1978-11-11,Colorado State,WAC,Sarkis Arslanian,A,New Mexico,WAC,Bill Mondt,W,26,15
+1978-11-18,Colorado State,WAC,Sarkis Arslanian,H,West Virginia,Ind,Frank Cignetti,W,50,14
+1978-11-23,Colorado State,WAC,Sarkis Arslanian,A,Pacific,PCAA,Chester Caddas,W,20,13
+1978-09-09,Rice,SWC,Ray Alborn,H,Iowa State,Big 8,Earle Bruce,L,19,23
+1978-09-16,Rice,SWC,Ray Alborn,H,Texas,SWC,Fred Akers,L,0,34
+1978-09-23,Rice,SWC,Ray Alborn,A,Oklahoma,Big 8,Barry Switzer,L,7,66
+1978-09-30,Rice,SWC,Ray Alborn,H,LSU,SEC,Charles McClendon,L,7,37
+1978-10-14,Rice,SWC,Ray Alborn,A,Texas Christian,SWC,F. Dry,W,21,14
+1978-10-21,Rice,SWC,Ray Alborn,H,Texas Tech,SWC,Rex Dockery,L,28,42
+1978-10-28,Rice,SWC,Ray Alborn,A,Texas A&M,SWC,Tom Wilson,L,21,38
+1978-11-04,Rice,SWC,Ray Alborn,A,Arkansas,SWC,Lou Holtz,L,7,37
+1978-11-11,Rice,SWC,Ray Alborn,H,SMU,SWC,Ron Meyer,L,0,58
+1978-11-18,Rice,SWC,Ray Alborn,H,Baylor,SWC,Grant Teaff,W,24,10
+1978-12-02,Rice,SWC,Ray Alborn,A,Houston,SWC,Bill Yeoman,L,25,49
+1978-09-09,Texas A&M,SWC,Tom Wilson,A,Kansas,Big 8,Bud Moore,W,37,10
+1978-09-23,Texas A&M,SWC,Tom Wilson,A,Boston College,Ind,Ed Chlebek,W,37,2
+1978-09-30,Texas A&M,SWC,Tom Wilson,H,Memphis,Ind,Richard Williamson,W,58,0
+1978-10-07,Texas A&M,SWC,Tom Wilson,H,Texas Tech,SWC,Rex Dockery,W,38,9
+1978-10-14,Texas A&M,SWC,Tom Wilson,A,Houston,SWC,Bill Yeoman,L,0,33
+1978-10-21,Texas A&M,SWC,Tom Wilson,H,Baylor,SWC,Grant Teaff,L,6,24
+1978-10-28,Texas A&M,SWC,Tom Wilson,H,Rice,SWC,Ray Alborn,W,38,21
+1978-11-04,Texas A&M,SWC,Tom Wilson,A,SMU,SWC,Ron Meyer,W,20,17
+1978-11-18,Texas A&M,SWC,Tom Wilson,A,Arkansas,SWC,Lou Holtz,L,7,26
+1978-11-25,Texas A&M,SWC,Tom Wilson,H,Texas Christian,SWC,F. Dry,W,15,7
+1978-12-02,Texas A&M,SWC,Tom Wilson,A,Texas,SWC,Fred Akers,L,7,22
+1978-12-20,Texas A&M,SWC,Tom Wilson,N,Iowa State,Big 8,Earle Bruce,W,28,12
+1978-09-16,Michigan State,Big Ten,Darryl Rogers,A,Purdue,Big Ten,Jim Young,L,14,21
+1978-09-23,Michigan State,Big Ten,Darryl Rogers,H,Syracuse,Ind,Frank Maloney,W,49,21
+1978-09-29,Michigan State,Big Ten,Darryl Rogers,A,USC,Pac-10,John Robinson,L,9,30
+1978-10-07,Michigan State,Big Ten,Darryl Rogers,H,Notre Dame,Ind,Dan Devine,L,25,29
+1978-10-14,Michigan State,Big Ten,Darryl Rogers,A,Michigan,Big Ten,Bo Schembechler,W,24,15
+1978-10-21,Michigan State,Big Ten,Darryl Rogers,H,Indiana,Big Ten,Lee Corso,W,49,14
+1978-10-28,Michigan State,Big Ten,Darryl Rogers,H,Wisconsin,Big Ten,Dave McClain,W,55,2
+1978-11-04,Michigan State,Big Ten,Darryl Rogers,A,Illinois,Big Ten,Gary Moeller,W,59,19
+1978-11-11,Michigan State,Big Ten,Darryl Rogers,H,Minnesota,Big Ten,Cal Stoll,W,33,9
+1978-11-18,Michigan State,Big Ten,Darryl Rogers,A,Northwestern,Big Ten,Rick Venturi,W,52,3
+1978-11-25,Michigan State,Big Ten,Darryl Rogers,H,Iowa,Big Ten,Bob Commings,W,42,7
+1978-09-16,Boston College,Ind,Ed Chlebek,H,Air Force,Ind,Bill Parcells,L,7,18
+1978-09-23,Boston College,Ind,Ed Chlebek,H,Texas A&M,SWC,Tom Wilson,L,2,37
+1978-09-30,Boston College,Ind,Ed Chlebek,H,Navy,Ind,George Welsh,L,8,19
+1978-10-07,Boston College,Ind,Ed Chlebek,H,Pitt,Ind,Jackie Sherrill,L,15,32
+1978-10-14,Boston College,Ind,Ed Chlebek,A,Tulane,Ind,Larry Smith,L,3,9
+1978-11-04,Boston College,Ind,Ed Chlebek,A,Villanova,Ind,Dick Bedesem,L,16,28
+1978-11-11,Boston College,Ind,Ed Chlebek,A,Army,Ind,Homer Smith,L,26,29
+1978-11-18,Boston College,Ind,Ed Chlebek,H,Syracuse,Ind,Frank Maloney,L,23,37
+1978-12-02,Boston College,Ind,Ed Chlebek,H,Holy Cross,Ind,Neil Wheelwright,L,29,30
+1978-12-10,Boston College,Ind,Ed Chlebek,N,Temple,Ind,Wayne Hardin,L,24,28
+1978-09-16,Colgate,Ind,Frederick Dunlap,H,Holy Cross,Ind,Neil Wheelwright,L,14,27
+1978-09-30,Colgate,Ind,Frederick Dunlap,H,Cornell,Ivy,Bob Blackman,L,12,21
+1978-10-07,Colgate,Ind,Frederick Dunlap,A,Harvard,Ivy,Joseph Restic,L,21,24
+1978-10-14,Colgate,Ind,Frederick Dunlap,A,Villanova,Ind,Dick Bedesem,W,20,14
+1978-10-21,Colgate,Ind,Frederick Dunlap,A,Princeton,Ivy,Frank Navarro,L,12,13
+1978-10-28,Colgate,Ind,Frederick Dunlap,A,Army,Ind,Homer Smith,L,3,28
+1978-11-25,Colgate,Ind,Frederick Dunlap,A,Rutgers,Ind,Frank Burns,W,14,9
+1978-09-09,New Mexico State,MVC,Gil Krueger,A,Indiana State,MVC,Dick Jamieson,W,14,9
+1978-09-16,New Mexico State,MVC,Gil Krueger,H,UTEP,WAC,Bill Michael,W,35,32
+1978-09-23,New Mexico State,MVC,Gil Krueger,H,North Texas,Ind,Hayden Fry,L,21,22
+1978-09-30,New Mexico State,MVC,Gil Krueger,A,Southern Illinois,MVC,Rey Dempsey,L,39,43
+1978-10-07,New Mexico State,MVC,Gil Krueger,H,Texas-Arlington,Southland,Harold Elliott,L,17,28
+1978-10-14,New Mexico State,MVC,Gil Krueger,H,Tulsa,MVC,John Cooper,W,23,20
+1978-10-21,New Mexico State,MVC,Gil Krueger,A,New Mexico,WAC,Bill Mondt,L,20,35
+1978-10-28,New Mexico State,MVC,Gil Krueger,A,Wichita State,MVC,Jim Wright,W,31,21
+1978-11-04,New Mexico State,MVC,Gil Krueger,H,Drake,MVC,Chuck Shelton,W,21,20
+1978-11-11,New Mexico State,MVC,Gil Krueger,A,Hawaii,Ind,Dick Tomey,L,20,35
+1978-11-25,New Mexico State,MVC,Gil Krueger,A,West Texas A&M,MVC,Bill Yung,W,33,31
+1978-09-02,Western Carolina,Southern,Bob Waters,H,East Carolina,Ind,Pat Dye,L,6,14
+1978-09-30,Western Carolina,Southern,Bob Waters,H,Marshall,Southern,Frank Ellwood,W,21,14
+1978-10-14,Western Carolina,Southern,Bob Waters,H,Citadel,Southern,Art Baker,W,38,24
+1978-10-28,Western Carolina,Southern,Bob Waters,A,Virginia Military Institute,Southern,Bob Thalman,W,41,12
+1978-11-04,Western Carolina,Southern,Bob Waters,A,Chattanooga,Southern,Joe Morrison,W,31,21
+1978-11-11,Western Carolina,Southern,Bob Waters,H,Furman,Southern,Dick Sheridan,L,7,24
+1978-11-18,Western Carolina,Southern,Bob Waters,A,Appalachian State,Southern,Jim Brakefield,L,13,39
+1978-09-16,Louisiana Tech,Southland,Maxie Lambright,H,Chattanooga,Southern,Joe Morrison,L,7,12
+1978-09-23,Louisiana Tech,Southland,Maxie Lambright,A,Texas-Arlington,Southland,Harold Elliott,W,28,21
+1978-09-30,Louisiana Tech,Southland,Maxie Lambright,H,McNeese State,Southland,Jack Doland,W,34,20
+1978-10-07,Louisiana Tech,Southland,Maxie Lambright,A,Louisiana,Southland,Augie Tammariello,L,6,24
+1978-10-14,Louisiana Tech,Southland,Maxie Lambright,H,Ball State,MAC,Dwight Wallace,W,17,7
+1978-10-21,Louisiana Tech,Southland,Maxie Lambright,A,Northwestern State,Ind,,W,45,20
+1978-10-28,Louisiana Tech,Southland,Maxie Lambright,H,North Texas,Ind,Hayden Fry,L,14,16
+1978-11-04,Louisiana Tech,Southland,Maxie Lambright,H,Lamar,Southland,Bob Frederick,W,40,3
+1978-11-11,Louisiana Tech,Southland,Maxie Lambright,H,Arkansas State,Southland,Bill Davidson,W,24,10
+1978-11-18,Louisiana Tech,Southland,Maxie Lambright,A,Louisiana-Monroe,Ind,John David Crow,L,0,18
+1978-12-16,Louisiana Tech,Southland,Maxie Lambright,N,East Carolina,Ind,Pat Dye,L,13,35
+1978-09-16,Minnesota,Big Ten,Cal Stoll,H,Toledo,MAC,Chuck Stobart,W,38,12
+1978-09-23,Minnesota,Big Ten,Cal Stoll,H,Ohio State,Big Ten,Woody Hayes,L,10,27
+1978-09-30,Minnesota,Big Ten,Cal Stoll,A,UCLA,Pac-10,Terry Donahue,L,3,17
+1978-10-07,Minnesota,Big Ten,Cal Stoll,H,Oregon State,Pac-10,Craig Fertig,L,14,17
+1978-10-14,Minnesota,Big Ten,Cal Stoll,H,Iowa,Big Ten,Bob Commings,W,22,20
+1978-10-21,Minnesota,Big Ten,Cal Stoll,A,Northwestern,Big Ten,Rick Venturi,W,38,14
+1978-10-28,Minnesota,Big Ten,Cal Stoll,A,Michigan,Big Ten,Bo Schembechler,L,10,42
+1978-11-04,Minnesota,Big Ten,Cal Stoll,H,Indiana,Big Ten,Lee Corso,W,32,31
+1978-11-11,Minnesota,Big Ten,Cal Stoll,A,Michigan State,Big Ten,Darryl Rogers,L,9,33
+1978-11-18,Minnesota,Big Ten,Cal Stoll,H,Illinois,Big Ten,Gary Moeller,W,24,6
+1978-11-25,Minnesota,Big Ten,Cal Stoll,A,Wisconsin,Big Ten,Dave McClain,L,10,48
+1978-09-09,Ole Miss,SEC,Steve Sloan,H,Memphis,Ind,Richard Williamson,W,14,7
+1978-09-23,Ole Miss,SEC,Steve Sloan,A,Missouri,Big 8,Warren Powers,L,14,45
+1978-09-30,Ole Miss,SEC,Steve Sloan,N,Southern Mississippi,Ind,Bobby Collins,W,16,13
+1978-10-07,Ole Miss,SEC,Steve Sloan,A,Georgia,SEC,Vince Dooley,L,3,42
+1978-10-14,Ole Miss,SEC,Steve Sloan,H,Kentucky,SEC,Fran Curci,L,17,24
+1978-10-21,Ole Miss,SEC,Steve Sloan,A,South Carolina,Ind,Jim Carlen,L,17,18
+1978-10-28,Ole Miss,SEC,Steve Sloan,A,Vanderbilt,SEC,Fred Pancoast,W,35,10
+1978-11-04,Ole Miss,SEC,Steve Sloan,A,LSU,SEC,Charles McClendon,L,8,30
+1978-11-11,Ole Miss,SEC,Steve Sloan,H,Tulane,Ind,Larry Smith,W,13,3
+1978-11-18,Ole Miss,SEC,Steve Sloan,A,Tennessee,SEC,Johnny Majors,L,17,41
+1978-11-25,Ole Miss,SEC,Steve Sloan,N,Mississippi State,SEC,Bob Tyler,W,27,7
+1978-09-09,Duke,ACC,Mike McGee,H,Georgia Tech,Ind,Pepper Rodgers,W,28,10
+1978-09-23,Duke,ACC,Mike McGee,H,South Carolina,Ind,Jim Carlen,W,16,12
+1978-09-30,Duke,ACC,Mike McGee,A,Michigan,Big Ten,Bo Schembechler,L,0,52
+1978-10-07,Duke,ACC,Mike McGee,H,Virginia,ACC,Dick Bestwick,W,20,13
+1978-10-14,Duke,ACC,Mike McGee,A,Navy,Ind,George Welsh,L,8,31
+1978-10-21,Duke,ACC,Mike McGee,A,Clemson,ACC,Danny Ford,L,8,28
+1978-10-28,Duke,ACC,Mike McGee,H,Maryland,ACC,Jerry Claiborne,L,0,27
+1978-11-04,Duke,ACC,Mike McGee,A,Tennessee,SEC,Johnny Majors,L,0,34
+1978-11-11,Duke,ACC,Mike McGee,H,Wake Forest,ACC,John Mackovic,W,3,0
+1978-11-18,Duke,ACC,Mike McGee,A,North Carolina State,ACC,Bo Rein,L,10,24
+1978-11-25,Duke,ACC,Mike McGee,A,North Carolina,ACC,Dick Crum,L,15,16
+1978-09-09,Kent State,MAC,Ron Blackledge,A,Central Michigan,MAC,Herb Deromedi,L,0,41
+1978-09-16,Kent State,MAC,Ron Blackledge,A,Ball State,MAC,Dwight Wallace,L,3,27
+1978-09-23,Kent State,MAC,Ron Blackledge,H,Illinois State,Ind,Charlie Cowdrey,W,34,3
+1978-09-30,Kent State,MAC,Ron Blackledge,H,Ohio,MAC,Bob Kappes,W,20,14
+1978-10-07,Kent State,MAC,Ron Blackledge,H,Western Michigan,MAC,Elliot Uzelac,L,0,14
+1978-10-14,Kent State,MAC,Ron Blackledge,A,Bowling Green State,MAC,Dennis Stolz,L,20,28
+1978-10-21,Kent State,MAC,Ron Blackledge,H,Marshall,Southern,Frank Ellwood,W,20,17
+1978-10-28,Kent State,MAC,Ron Blackledge,A,Air Force,Ind,Bill Parcells,L,10,26
+1978-11-04,Kent State,MAC,Ron Blackledge,A,Northern Illinois,MAC,Pat Culpepper,L,21,27
+1978-11-11,Kent State,MAC,Ron Blackledge,A,Miami (OH),MAC,Tom Reed,L,13,38
+1978-11-18,Kent State,MAC,Ron Blackledge,H,Toledo,MAC,Chuck Stobart,W,17,13
+1978-09-16,Navy,Ind,George Welsh,A,Virginia,ACC,Dick Bestwick,W,32,0
+1978-09-30,Navy,Ind,George Welsh,A,Boston College,Ind,Ed Chlebek,W,19,8
+1978-10-07,Navy,Ind,George Welsh,A,Air Force,Ind,Bill Parcells,W,37,8
+1978-10-14,Navy,Ind,George Welsh,H,Duke,ACC,Mike McGee,W,31,8
+1978-10-21,Navy,Ind,George Welsh,H,William & Mary,Ind,James Root,W,9,0
+1978-10-28,Navy,Ind,George Welsh,H,Pitt,Ind,Jackie Sherrill,W,21,11
+1978-11-04,Navy,Ind,George Welsh,N,Notre Dame,Ind,Dan Devine,L,7,27
+1978-11-11,Navy,Ind,George Welsh,A,Syracuse,Ind,Frank Maloney,L,17,20
+1978-11-18,Navy,Ind,George Welsh,A,Florida State,Ind,Bobby Bowden,L,6,38
+1978-12-02,Navy,Ind,George Welsh,N,Army,Ind,Homer Smith,W,28,0
+1978-12-22,Navy,Ind,George Welsh,N,Brigham Young,WAC,LaVell Edwards,W,23,16
+1978-09-09,Lamar,Southland,Bob Frederick,A,Northwestern State,Ind,,L,17,21
+1978-09-16,Lamar,Southland,Bob Frederick,H,Southern Illinois,MVC,Rey Dempsey,L,20,22
+1978-09-30,Lamar,Southland,Bob Frederick,A,Louisiana,Southland,Augie Tammariello,L,16,23
+1978-10-07,Lamar,Southland,Bob Frederick,H,Louisiana-Monroe,Ind,John David Crow,T,17,17
+1978-10-14,Lamar,Southland,Bob Frederick,A,West Texas A&M,MVC,Bill Yung,L,16,55
+1978-10-21,Lamar,Southland,Bob Frederick,H,Texas-Arlington,Southland,Harold Elliott,L,17,37
+1978-11-04,Lamar,Southland,Bob Frederick,A,Louisiana Tech,Southland,Maxie Lambright,L,3,40
+1978-11-11,Lamar,Southland,Bob Frederick,H,McNeese State,Southland,Jack Doland,L,23,24
+1978-11-18,Lamar,Southland,Bob Frederick,A,Arkansas State,Southland,Bill Davidson,L,3,6
+1978-11-25,Lamar,Southland,Bob Frederick,H,Long Beach State,PCAA,Dave Currey,W,36,31
+1978-09-09,Fresno State,PCAA,Bob Padilla,A,McNeese State,Southland,Jack Doland,L,16,21
+1978-09-23,Fresno State,PCAA,Bob Padilla,A,Utah State,PCAA,Bruce Snyder,L,22,45
+1978-10-07,Fresno State,PCAA,Bob Padilla,A,San Diego State,WAC,Claude Gilbert,L,14,31
+1978-10-14,Fresno State,PCAA,Bob Padilla,H,Pacific,PCAA,Chester Caddas,L,7,27
+1978-10-21,Fresno State,PCAA,Bob Padilla,A,San Jose State,PCAA,Lynn Stiles,L,16,26
+1978-10-28,Fresno State,PCAA,Bob Padilla,H,Cal State Fullerton,PCAA,Jim Colletto,L,8,37
+1978-11-04,Fresno State,PCAA,Bob Padilla,H,Long Beach State,PCAA,Dave Currey,W,42,41
+1978-09-09,Texas Tech,SWC,Rex Dockery,A,USC,Pac-10,John Robinson,L,9,17
+1978-09-23,Texas Tech,SWC,Rex Dockery,H,Arizona,Pac-10,Tony Mason,W,41,26
+1978-09-30,Texas Tech,SWC,Rex Dockery,H,Texas,SWC,Fred Akers,L,7,24
+1978-10-07,Texas Tech,SWC,Rex Dockery,A,Texas A&M,SWC,Tom Wilson,L,9,38
+1978-10-14,Texas Tech,SWC,Rex Dockery,A,New Mexico,WAC,Bill Mondt,W,36,23
+1978-10-21,Texas Tech,SWC,Rex Dockery,A,Rice,SWC,Ray Alborn,W,42,28
+1978-11-04,Texas Tech,SWC,Rex Dockery,H,Baylor,SWC,Grant Teaff,W,27,9
+1978-11-11,Texas Tech,SWC,Rex Dockery,A,Texas Christian,SWC,F. Dry,W,27,17
+1978-11-18,Texas Tech,SWC,Rex Dockery,H,SMU,SWC,Ron Meyer,W,19,16
+1978-11-25,Texas Tech,SWC,Rex Dockery,H,Houston,SWC,Bill Yeoman,W,22,21
+1978-12-02,Texas Tech,SWC,Rex Dockery,A,Arkansas,SWC,Lou Holtz,L,7,49
+1978-09-09,Tulane,Ind,Larry Smith,A,Maryland,ACC,Jerry Claiborne,L,7,31
+1978-09-16,Tulane,Ind,Larry Smith,H,Pitt,Ind,Jackie Sherrill,L,6,24
+1978-09-23,Tulane,Ind,Larry Smith,A,Georgia Tech,Ind,Pepper Rodgers,L,17,27
+1978-09-30,Tulane,Ind,Larry Smith,A,Stanford,Pac-10,Bill Walsh,L,14,17
+1978-10-07,Tulane,Ind,Larry Smith,A,Vanderbilt,SEC,Fred Pancoast,W,38,3
+1978-10-14,Tulane,Ind,Larry Smith,H,Boston College,Ind,Ed Chlebek,W,9,3
+1978-10-21,Tulane,Ind,Larry Smith,H,Texas Christian,SWC,F. Dry,L,7,13
+1978-10-28,Tulane,Ind,Larry Smith,H,Memphis,Ind,Richard Williamson,W,41,24
+1978-11-04,Tulane,Ind,Larry Smith,H,Miami (FL),Ind,Lou Saban,W,20,16
+1978-11-11,Tulane,Ind,Larry Smith,A,Ole Miss,SEC,Steve Sloan,L,3,13
+1978-11-25,Tulane,Ind,Larry Smith,A,LSU,SEC,Charles McClendon,L,21,40
+1978-09-23,Cornell,Ivy,Bob Blackman,H,Princeton,Ivy,Frank Navarro,T,14,14
+1978-09-30,Cornell,Ivy,Bob Blackman,A,Colgate,Ind,Frederick Dunlap,W,21,12
+1978-10-14,Cornell,Ivy,Bob Blackman,A,Harvard,Ivy,Joseph Restic,W,25,20
+1978-10-21,Cornell,Ivy,Bob Blackman,H,Brown,Ivy,John Anderson,L,13,21
+1978-10-28,Cornell,Ivy,Bob Blackman,H,Dartmouth,Ivy,Joseph Yukica,L,7,14
+1978-11-04,Cornell,Ivy,Bob Blackman,A,Yale,Ivy,Carmen Cozza,L,14,42
+1978-11-11,Cornell,Ivy,Bob Blackman,A,Columbia,Ivy,William Campbell,W,35,14
+1978-11-18,Cornell,Ivy,Bob Blackman,H,Pennsylvania,Ivy,Harry Gamble,W,35,17
+1978-09-16,Northern Illinois,MAC,Pat Culpepper,H,Western Michigan,MAC,Elliot Uzelac,L,30,44
+1978-09-23,Northern Illinois,MAC,Pat Culpepper,A,Louisiana-Monroe,Ind,John David Crow,L,10,27
+1978-09-30,Northern Illinois,MAC,Pat Culpepper,H,Illinois State,Ind,Charlie Cowdrey,W,49,21
+1978-10-07,Northern Illinois,MAC,Pat Culpepper,A,Long Beach State,PCAA,Dave Currey,L,19,24
+1978-10-21,Northern Illinois,MAC,Pat Culpepper,A,Central Michigan,MAC,Herb Deromedi,L,7,34
+1978-10-28,Northern Illinois,MAC,Pat Culpepper,A,Southern Illinois,MVC,Rey Dempsey,W,14,13
+1978-11-04,Northern Illinois,MAC,Pat Culpepper,H,Kent State,MAC,Ron Blackledge,W,27,21
+1978-11-11,Northern Illinois,MAC,Pat Culpepper,A,Toledo,MAC,Chuck Stobart,L,16,35
+1978-11-18,Northern Illinois,MAC,Pat Culpepper,H,Ball State,MAC,Dwight Wallace,L,13,31
+1978-11-25,Northern Illinois,MAC,Pat Culpepper,A,Ohio,MAC,Bob Kappes,W,23,14
+1978-09-16,Ohio State,Big Ten,Woody Hayes,H,Penn State,Ind,Joe Paterno,L,0,19
+1978-09-23,Ohio State,Big Ten,Woody Hayes,A,Minnesota,Big Ten,Cal Stoll,W,27,10
+1978-09-30,Ohio State,Big Ten,Woody Hayes,H,Baylor,SWC,Grant Teaff,W,34,28
+1978-10-07,Ohio State,Big Ten,Woody Hayes,H,SMU,SWC,Ron Meyer,T,35,35
+1978-10-14,Ohio State,Big Ten,Woody Hayes,A,Purdue,Big Ten,Jim Young,L,16,27
+1978-10-21,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Bob Commings,W,31,7
+1978-10-28,Ohio State,Big Ten,Woody Hayes,H,Northwestern,Big Ten,Rick Venturi,W,63,20
+1978-11-04,Ohio State,Big Ten,Woody Hayes,A,Wisconsin,Big Ten,Dave McClain,W,49,14
+1978-11-11,Ohio State,Big Ten,Woody Hayes,H,Illinois,Big Ten,Gary Moeller,W,45,7
+1978-11-18,Ohio State,Big Ten,Woody Hayes,A,Indiana,Big Ten,Lee Corso,W,21,18
+1978-11-25,Ohio State,Big Ten,Woody Hayes,H,Michigan,Big Ten,Bo Schembechler,L,3,14
+1978-12-29,Ohio State,Big Ten,Woody Hayes,N,Clemson,ACC,Danny Ford,L,15,17
+1978-09-09,Ohio,MAC,Bob Kappes,H,Eastern Michigan,MAC,Mike Stock,W,23,22
+1978-09-23,Ohio,MAC,Bob Kappes,A,Purdue,Big Ten,Jim Young,L,0,24
+1978-09-30,Ohio,MAC,Bob Kappes,A,Kent State,MAC,Ron Blackledge,L,14,20
+1978-10-07,Ohio,MAC,Bob Kappes,H,Central Michigan,MAC,Herb Deromedi,L,3,17
+1978-10-14,Ohio,MAC,Bob Kappes,A,South Carolina,Ind,Jim Carlen,L,7,24
+1978-10-21,Ohio,MAC,Bob Kappes,H,Toledo,MAC,Chuck Stobart,L,14,28
+1978-10-28,Ohio,MAC,Bob Kappes,A,Western Michigan,MAC,Elliot Uzelac,W,10,7
+1978-11-04,Ohio,MAC,Bob Kappes,H,Miami (OH),MAC,Tom Reed,L,16,31
+1978-11-11,Ohio,MAC,Bob Kappes,A,Cincinnati,Ind,Ralph Staub,L,0,35
+1978-11-18,Ohio,MAC,Bob Kappes,A,Bowling Green State,MAC,Dennis Stolz,W,19,15
+1978-11-25,Ohio,MAC,Bob Kappes,H,Northern Illinois,MAC,Pat Culpepper,L,14,23
+1978-09-02,Drake,MVC,Chuck Shelton,H,Texas-Arlington,Southland,Harold Elliott,W,25,23
+1978-09-09,Drake,MVC,Chuck Shelton,H,Southern Illinois,MVC,Rey Dempsey,W,38,14
+1978-09-16,Drake,MVC,Chuck Shelton,H,Temple,Ind,Wayne Hardin,L,29,36
+1978-09-23,Drake,MVC,Chuck Shelton,A,Arkansas State,Southland,Bill Davidson,L,0,10
+1978-09-30,Drake,MVC,Chuck Shelton,A,Iowa State,Big 8,Earle Bruce,L,7,35
+1978-10-07,Drake,MVC,Chuck Shelton,H,Wichita State,MVC,Jim Wright,W,48,22
+1978-10-14,Drake,MVC,Chuck Shelton,A,Indiana State,MVC,Dick Jamieson,L,0,13
+1978-10-28,Drake,MVC,Chuck Shelton,A,Tulsa,MVC,John Cooper,L,20,44
+1978-11-04,Drake,MVC,Chuck Shelton,A,New Mexico State,MVC,Gil Krueger,L,20,21
+1978-11-11,Drake,MVC,Chuck Shelton,H,West Texas A&M,MVC,Bill Yung,W,24,21
+1978-11-18,Drake,MVC,Chuck Shelton,A,Long Beach State,PCAA,Dave Currey,L,0,25
+1978-09-16,Houston,SWC,Bill Yeoman,A,Memphis,Ind,Richard Williamson,L,3,17
+1978-09-23,Houston,SWC,Bill Yeoman,H,Utah,WAC,Wayne Howard,W,42,25
+1978-09-30,Houston,SWC,Bill Yeoman,A,Florida State,Ind,Bobby Bowden,W,27,21
+1978-10-07,Houston,SWC,Bill Yeoman,A,Baylor,SWC,Grant Teaff,W,20,18
+1978-10-14,Houston,SWC,Bill Yeoman,H,Texas A&M,SWC,Tom Wilson,W,33,0
+1978-10-21,Houston,SWC,Bill Yeoman,A,SMU,SWC,Ron Meyer,W,42,28
+1978-10-28,Houston,SWC,Bill Yeoman,H,Arkansas,SWC,Lou Holtz,W,20,9
+1978-11-04,Houston,SWC,Bill Yeoman,H,Texas Christian,SWC,F. Dry,W,63,6
+1978-11-11,Houston,SWC,Bill Yeoman,A,Texas,SWC,Fred Akers,W,10,7
+1978-11-25,Houston,SWC,Bill Yeoman,A,Texas Tech,SWC,Rex Dockery,L,21,22
+1978-12-02,Houston,SWC,Bill Yeoman,H,Rice,SWC,Ray Alborn,W,49,25
+1979-01-01,Houston,SWC,Bill Yeoman,N,Notre Dame,Ind,Dan Devine,L,34,35

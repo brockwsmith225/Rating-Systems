@@ -1,0 +1,183 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1898-10-05,Brown,Ind,Edward Robinson,H,Tufts,Ind,J.D. Upton,W,29,6
+1898-10-08,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,George Woodruff,L,0,18
+1898-10-19,Brown,Ind,Edward Robinson,A,Yale,Ind,Frank Butterworth,L,6,22
+1898-10-29,Brown,Ind,Edward Robinson,A,Princeton,Ind,,L,0,23
+1898-11-12,Brown,Ind,Edward Robinson,A,Harvard,Ind,W. Cameron Forbes,L,6,17
+1898-11-19,Brown,Ind,Edward Robinson,H,Dartmouth,Ind,,W,12,0
+1898-09-24,Trinity (CT),Ind,,H,Yale,Ind,Frank Butterworth,L,0,18
+1898-09-28,Trinity (CT),Ind,,H,Amherst,Ind,,L,0,12
+1898-10-01,Trinity (CT),Ind,,A,Cornell,Ind,Pop Warner,L,0,47
+1898-10-29,Trinity (CT),Ind,,H,MIT,Ind,,T,0,0
+1898-11-09,Trinity (CT),Ind,,A,Wesleyan (CT),Ind,Bert Wilson,L,0,30
+1898-11-24,Trinity (CT),Ind,,A,Williams,Ind,,L,0,24
+1898-10-15,Dickinson,Ind,N.P. Stauffer,A,Lafayette,Ind,Samuel Newton,W,12,6
+1898-10-29,Dickinson,Ind,N.P. Stauffer,A,Franklin & Marshall,Ind,M. Delmar Ritchie,W,22,0
+1898-11-05,Dickinson,Ind,N.P. Stauffer,N,Carlisle,Ind,John Hall,L,0,46
+1898-11-24,Dickinson,Ind,N.P. Stauffer,N,Penn State,Ind,Samuel Newton,L,0,34
+1898-09-24,Yale,Ind,Frank Butterworth,A,Trinity (CT),Ind,,W,18,0
+1898-10-01,Yale,Ind,Frank Butterworth,H,Wesleyan (CT),Ind,Bert Wilson,W,5,0
+1898-10-05,Yale,Ind,Frank Butterworth,H,Amherst,Ind,,W,34,0
+1898-10-08,Yale,Ind,Frank Butterworth,H,Williams,Ind,,W,23,0
+1898-10-19,Yale,Ind,Frank Butterworth,H,Brown,Ind,Edward Robinson,W,22,6
+1898-10-22,Yale,Ind,Frank Butterworth,H,Carlisle,Ind,John Hall,W,18,5
+1898-10-29,Yale,Ind,Frank Butterworth,A,Army,Ind,Herman Koehler,W,10,0
+1898-11-12,Yale,Ind,Frank Butterworth,A,Princeton,Ind,,L,0,6
+1898-11-19,Yale,Ind,Frank Butterworth,H,Harvard,Ind,W. Cameron Forbes,L,0,17
+1898-09-24,Franklin & Marshall,Ind,M. Delmar Ritchie,A,Pennsylvania,Ind,George Woodruff,L,0,41
+1898-10-08,Franklin & Marshall,Ind,M. Delmar Ritchie,A,Princeton,Ind,,L,0,58
+1898-10-29,Franklin & Marshall,Ind,M. Delmar Ritchie,H,Dickinson,Ind,N.P. Stauffer,L,0,22
+1898-11-12,Franklin & Marshall,Ind,M. Delmar Ritchie,H,Bucknell,Ind,George Jennings,T,11,11
+1898-09-24,Lehigh,Ind,H. Thompson,A,Princeton,Ind,,L,0,21
+1898-10-15,Lehigh,Ind,H. Thompson,A,Pennsylvania,Ind,George Woodruff,L,0,40
+1898-10-22,Lehigh,Ind,H. Thompson,A,Army,Ind,Herman Koehler,L,0,18
+1898-10-29,Lehigh,Ind,H. Thompson,H,Bucknell,Ind,George Jennings,T,0,0
+1898-11-05,Lehigh,Ind,H. Thompson,H,Lafayette,Ind,Samuel Newton,W,22,0
+1898-11-12,Lehigh,Ind,H. Thompson,A,Navy,Ind,,L,5,6
+1898-11-24,Lehigh,Ind,H. Thompson,A,Lafayette,Ind,Samuel Newton,L,5,11
+1898-10-12,Carlisle,Ind,John Hall,A,Cornell,Ind,Pop Warner,L,6,23
+1898-10-15,Carlisle,Ind,John Hall,H,Williams,Ind,,W,17,6
+1898-10-22,Carlisle,Ind,John Hall,A,Yale,Ind,Frank Butterworth,L,5,18
+1898-10-29,Carlisle,Ind,John Hall,A,Harvard,Ind,W. Cameron Forbes,L,5,11
+1898-11-05,Carlisle,Ind,John Hall,N,Dickinson,Ind,N.P. Stauffer,W,46,0
+1898-11-12,Carlisle,Ind,John Hall,A,Pennsylvania,Ind,George Woodruff,L,5,35
+1898-11-19,Carlisle,Ind,John Hall,A,Illinois,Western,George Huff,W,11,0
+1898-12-03,Carlisle,Ind,John Hall,H,Dartmouth,Ind,,W,17,6
+1898-11-05,Purdue,Western,Alpha Jamison,A,Chicago,Western,Amos Alonzo Stagg,L,0,17
+1898-09-24,Harvard,Ind,W. Cameron Forbes,H,Williams,Ind,,W,11,0
+1898-09-28,Harvard,Ind,W. Cameron Forbes,H,Bowdoin,Ind,William Richards,W,28,6
+1898-10-01,Harvard,Ind,W. Cameron Forbes,H,Dartmouth,Ind,,W,21,0
+1898-10-08,Harvard,Ind,W. Cameron Forbes,H,Amherst,Ind,,W,53,2
+1898-10-15,Harvard,Ind,W. Cameron Forbes,A,Army,Ind,Herman Koehler,W,28,0
+1898-10-29,Harvard,Ind,W. Cameron Forbes,H,Carlisle,Ind,John Hall,W,11,5
+1898-11-05,Harvard,Ind,W. Cameron Forbes,H,Pennsylvania,Ind,George Woodruff,W,10,0
+1898-11-12,Harvard,Ind,W. Cameron Forbes,H,Brown,Ind,Edward Robinson,W,17,6
+1898-11-19,Harvard,Ind,W. Cameron Forbes,A,Yale,Ind,Frank Butterworth,W,17,0
+1898-09-24,Williams,Ind,,A,Harvard,Ind,W. Cameron Forbes,L,0,11
+1898-10-08,Williams,Ind,,A,Yale,Ind,Frank Butterworth,L,0,23
+1898-10-15,Williams,Ind,,A,Carlisle,Ind,John Hall,L,6,17
+1898-10-22,Williams,Ind,,H,Wesleyan (CT),Ind,Bert Wilson,L,0,22
+1898-10-29,Williams,Ind,,H,Dartmouth,Ind,,L,6,10
+1898-11-05,Williams,Ind,,H,Cornell,Ind,Pop Warner,L,0,12
+1898-11-12,Williams,Ind,,H,Amherst,Ind,,L,5,16
+1898-11-24,Williams,Ind,,H,Trinity (CT),Ind,,W,24,0
+1898-09-28,Bowdoin,Ind,William Richards,A,Harvard,Ind,W. Cameron Forbes,L,6,28
+1898-10-08,Bowdoin,Ind,William Richards,A,Dartmouth,Ind,,L,6,35
+1898-10-15,Bowdoin,Ind,William Richards,H,Tufts,Ind,J.D. Upton,W,18,11
+1898-11-05,Bowdoin,Ind,William Richards,A,Tufts,Ind,J.D. Upton,W,6,5
+1898-10-22,Wisconsin,Western,Phil King,N,Beloit,Ind,John Hollister,W,17,0
+1898-10-29,Wisconsin,Western,Phil King,H,Minnesota,Western,Jack Minds,W,29,0
+1898-11-12,Wisconsin,Western,Phil King,A,Chicago,Western,Amos Alonzo Stagg,L,0,6
+1898-11-24,Wisconsin,Western,Phil King,A,Northwestern,Western,W.H. Bannard,W,47,0
+1898-10-08,Bucknell,Ind,George Jennings,A,Navy,Ind,,L,0,11
+1898-10-29,Bucknell,Ind,George Jennings,A,Lehigh,Ind,H. Thompson,T,0,0
+1898-11-05,Bucknell,Ind,George Jennings,N,Penn State,Ind,Samuel Newton,L,0,16
+1898-11-12,Bucknell,Ind,George Jennings,A,Franklin & Marshall,Ind,M. Delmar Ritchie,T,11,11
+1898-11-19,Bucknell,Ind,George Jennings,A,Lafayette,Ind,Samuel Newton,L,0,6
+1898-10-01,Army,Ind,Herman Koehler,H,Tufts,Ind,J.D. Upton,W,40,0
+1898-10-08,Army,Ind,Herman Koehler,H,Wesleyan (CT),Ind,Bert Wilson,W,27,8
+1898-10-15,Army,Ind,Herman Koehler,H,Harvard,Ind,W. Cameron Forbes,L,0,28
+1898-10-22,Army,Ind,Herman Koehler,H,Lehigh,Ind,H. Thompson,W,18,0
+1898-10-29,Army,Ind,Herman Koehler,H,Yale,Ind,Frank Butterworth,L,0,10
+1898-11-05,Army,Ind,Herman Koehler,H,Princeton,Ind,,T,5,5
+1898-10-01,Penn State,Ind,Samuel Newton,A,Pennsylvania,Ind,George Woodruff,L,0,40
+1898-10-08,Penn State,Ind,Samuel Newton,A,Lafayette,Ind,Samuel Newton,W,5,0
+1898-10-22,Penn State,Ind,Samuel Newton,A,Navy,Ind,,L,11,16
+1898-10-26,Penn State,Ind,Samuel Newton,A,Princeton,Ind,,L,0,5
+1898-11-05,Penn State,Ind,Samuel Newton,N,Bucknell,Ind,George Jennings,W,16,0
+1898-11-24,Penn State,Ind,Samuel Newton,N,Dickinson,Ind,N.P. Stauffer,W,34,0
+1898-10-01,Wesleyan (CT),Ind,Bert Wilson,A,Yale,Ind,Frank Butterworth,L,0,5
+1898-10-08,Wesleyan (CT),Ind,Bert Wilson,A,Army,Ind,Herman Koehler,L,8,27
+1898-10-15,Wesleyan (CT),Ind,Bert Wilson,H,Amherst,Ind,,W,33,0
+1898-10-19,Wesleyan (CT),Ind,Bert Wilson,A,Pennsylvania,Ind,George Woodruff,L,0,17
+1898-10-22,Wesleyan (CT),Ind,Bert Wilson,A,Williams,Ind,,W,22,0
+1898-10-29,Wesleyan (CT),Ind,Bert Wilson,A,Amherst,Ind,,W,28,0
+1898-11-05,Wesleyan (CT),Ind,Bert Wilson,A,Dartmouth,Ind,,W,23,5
+1898-11-09,Wesleyan (CT),Ind,Bert Wilson,H,Trinity (CT),Ind,,W,30,0
+1898-10-01,Dartmouth,Ind,,A,Harvard,Ind,W. Cameron Forbes,L,0,21
+1898-10-08,Dartmouth,Ind,,H,Bowdoin,Ind,William Richards,W,35,6
+1898-10-22,Dartmouth,Ind,,A,Amherst,Ind,,W,64,6
+1898-10-29,Dartmouth,Ind,,A,Williams,Ind,,W,10,6
+1898-11-05,Dartmouth,Ind,,H,Wesleyan (CT),Ind,Bert Wilson,L,5,23
+1898-11-19,Dartmouth,Ind,,A,Brown,Ind,Edward Robinson,L,0,12
+1898-12-03,Dartmouth,Ind,,A,Carlisle,Ind,John Hall,L,6,17
+1898-09-24,Princeton,Ind,,H,Lehigh,Ind,H. Thompson,W,21,0
+1898-10-08,Princeton,Ind,,H,Franklin & Marshall,Ind,M. Delmar Ritchie,W,58,0
+1898-10-12,Princeton,Ind,,H,Lafayette,Ind,Samuel Newton,W,34,0
+1898-10-15,Princeton,Ind,,A,Navy,Ind,,W,30,0
+1898-10-22,Princeton,Ind,,H,Cornell,Ind,Pop Warner,W,6,0
+1898-10-26,Princeton,Ind,,H,Penn State,Ind,Samuel Newton,W,5,0
+1898-10-29,Princeton,Ind,,H,Brown,Ind,Edward Robinson,W,23,0
+1898-11-05,Princeton,Ind,,A,Army,Ind,Herman Koehler,T,5,5
+1898-11-12,Princeton,Ind,,H,Yale,Ind,Frank Butterworth,W,6,0
+1898-10-15,Chicago,Western,Amos Alonzo Stagg,H,Beloit,Ind,John Hollister,W,21,0
+1898-10-22,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,W.H. Bannard,W,34,5
+1898-10-29,Chicago,Western,Amos Alonzo Stagg,A,Pennsylvania,Ind,George Woodruff,L,11,23
+1898-11-05,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Alpha Jamison,W,17,0
+1898-11-12,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Phil King,W,6,0
+1898-11-24,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Gustave Ferbert,L,11,12
+1898-10-08,Northwestern,Western,W.H. Bannard,H,Beloit,Ind,John Hollister,W,17,11
+1898-10-22,Northwestern,Western,W.H. Bannard,A,Chicago,Western,Amos Alonzo Stagg,L,5,34
+1898-11-05,Northwestern,Western,W.H. Bannard,H,Michigan,Western,Gustave Ferbert,L,5,6
+1898-11-12,Northwestern,Western,W.H. Bannard,A,Minnesota,Western,Jack Minds,L,6,17
+1898-11-24,Northwestern,Western,W.H. Bannard,H,Wisconsin,Western,Phil King,L,0,47
+1898-10-29,Minnesota,Western,Jack Minds,A,Wisconsin,Western,Phil King,L,0,29
+1898-11-12,Minnesota,Western,Jack Minds,H,Northwestern,Western,W.H. Bannard,W,17,6
+1898-11-24,Minnesota,Western,Jack Minds,A,Illinois,Western,George Huff,L,10,11
+1898-11-05,Michigan,Western,Gustave Ferbert,A,Northwestern,Western,W.H. Bannard,W,6,5
+1898-11-12,Michigan,Western,Gustave Ferbert,H,Illinois,Western,George Huff,W,12,5
+1898-11-19,Michigan,Western,Gustave Ferbert,H,Beloit,Ind,John Hollister,W,22,0
+1898-11-24,Michigan,Western,Gustave Ferbert,A,Chicago,Western,Amos Alonzo Stagg,W,12,11
+1898-09-24,Pennsylvania,Ind,George Woodruff,H,Franklin & Marshall,Ind,M. Delmar Ritchie,W,41,0
+1898-10-01,Pennsylvania,Ind,George Woodruff,H,Penn State,Ind,Samuel Newton,W,40,0
+1898-10-08,Pennsylvania,Ind,George Woodruff,H,Brown,Ind,Edward Robinson,W,18,0
+1898-10-15,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,H. Thompson,W,40,0
+1898-10-19,Pennsylvania,Ind,George Woodruff,H,Wesleyan (CT),Ind,Bert Wilson,W,17,0
+1898-10-22,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Samuel Newton,W,32,0
+1898-10-29,Pennsylvania,Ind,George Woodruff,H,Chicago,Western,Amos Alonzo Stagg,W,23,11
+1898-11-05,Pennsylvania,Ind,George Woodruff,A,Harvard,Ind,W. Cameron Forbes,L,0,10
+1898-11-12,Pennsylvania,Ind,George Woodruff,H,Carlisle,Ind,John Hall,W,35,5
+1898-11-24,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Pop Warner,W,12,6
+1898-10-08,Beloit,Ind,John Hollister,A,Northwestern,Western,W.H. Bannard,L,11,17
+1898-10-15,Beloit,Ind,John Hollister,A,Chicago,Western,Amos Alonzo Stagg,L,0,21
+1898-10-22,Beloit,Ind,John Hollister,N,Wisconsin,Western,Phil King,L,0,17
+1898-11-19,Beloit,Ind,John Hollister,A,Michigan,Western,Gustave Ferbert,L,0,22
+1898-10-08,Navy,Ind,,H,Bucknell,Ind,George Jennings,W,11,0
+1898-10-15,Navy,Ind,,H,Princeton,Ind,,L,0,30
+1898-10-22,Navy,Ind,,H,Penn State,Ind,Samuel Newton,W,16,11
+1898-10-29,Navy,Ind,,H,Lafayette,Ind,Samuel Newton,W,18,0
+1898-11-12,Navy,Ind,,H,Lehigh,Ind,H. Thompson,W,6,5
+1898-10-01,Tufts,Ind,J.D. Upton,A,Army,Ind,Herman Koehler,L,0,40
+1898-10-05,Tufts,Ind,J.D. Upton,A,Brown,Ind,Edward Robinson,L,6,29
+1898-10-15,Tufts,Ind,J.D. Upton,A,Bowdoin,Ind,William Richards,L,11,18
+1898-11-05,Tufts,Ind,J.D. Upton,H,Bowdoin,Ind,William Richards,L,5,6
+1898-11-24,Tufts,Ind,J.D. Upton,H,MIT,Ind,,L,6,8
+1898-09-28,Amherst,Ind,,A,Trinity (CT),Ind,,W,12,0
+1898-10-05,Amherst,Ind,,A,Yale,Ind,Frank Butterworth,L,0,34
+1898-10-08,Amherst,Ind,,A,Harvard,Ind,W. Cameron Forbes,L,2,53
+1898-10-15,Amherst,Ind,,A,Wesleyan (CT),Ind,Bert Wilson,L,0,33
+1898-10-22,Amherst,Ind,,H,Dartmouth,Ind,,L,6,64
+1898-10-29,Amherst,Ind,,H,Wesleyan (CT),Ind,Bert Wilson,L,0,28
+1898-11-12,Amherst,Ind,,A,Williams,Ind,,W,16,5
+1898-11-19,Amherst,Ind,,A,MIT,Ind,,W,10,6
+1898-10-08,Lafayette,Ind,Samuel Newton,H,Penn State,Ind,Samuel Newton,L,0,5
+1898-10-12,Lafayette,Ind,Samuel Newton,A,Princeton,Ind,,L,0,34
+1898-10-15,Lafayette,Ind,Samuel Newton,H,Dickinson,Ind,N.P. Stauffer,L,6,12
+1898-10-22,Lafayette,Ind,Samuel Newton,A,Pennsylvania,Ind,George Woodruff,L,0,32
+1898-10-29,Lafayette,Ind,Samuel Newton,A,Navy,Ind,,L,0,18
+1898-11-05,Lafayette,Ind,Samuel Newton,A,Lehigh,Ind,H. Thompson,L,0,22
+1898-11-12,Lafayette,Ind,Samuel Newton,A,Cornell,Ind,Pop Warner,L,0,47
+1898-11-19,Lafayette,Ind,Samuel Newton,H,Bucknell,Ind,George Jennings,W,6,0
+1898-11-24,Lafayette,Ind,Samuel Newton,H,Lehigh,Ind,H. Thompson,W,11,5
+1898-11-12,Illinois,Western,George Huff,A,Michigan,Western,Gustave Ferbert,L,5,12
+1898-11-19,Illinois,Western,George Huff,H,Carlisle,Ind,John Hall,L,0,11
+1898-11-24,Illinois,Western,George Huff,H,Minnesota,Western,Jack Minds,W,11,10
+1898-10-01,Cornell,Ind,Pop Warner,H,Trinity (CT),Ind,,W,47,0
+1898-10-12,Cornell,Ind,Pop Warner,H,Carlisle,Ind,John Hall,W,23,6
+1898-10-22,Cornell,Ind,Pop Warner,A,Princeton,Ind,,L,0,6
+1898-11-05,Cornell,Ind,Pop Warner,A,Williams,Ind,,W,12,0
+1898-11-12,Cornell,Ind,Pop Warner,H,Lafayette,Ind,Samuel Newton,W,47,0
+1898-11-24,Cornell,Ind,Pop Warner,A,Pennsylvania,Ind,George Woodruff,L,6,12
+1898-10-29,MIT,Ind,,A,Trinity (CT),Ind,,T,0,0
+1898-11-19,MIT,Ind,,H,Amherst,Ind,,L,6,10
+1898-11-24,MIT,Ind,,A,Tufts,Ind,J.D. Upton,W,8,6

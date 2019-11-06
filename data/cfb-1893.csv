@@ -1,0 +1,171 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1893-10-04,Brown,Ind,William Odlin,A,Yale,Ind,William Rhodes,L,0,18
+1893-10-07,Brown,Ind,William Odlin,A,WPI,Ind,,W,30,0
+1893-10-18,Brown,Ind,William Odlin,H,Trinity (CT),Ind,,W,34,0
+1893-10-25,Brown,Ind,William Odlin,A,Harvard,Ind,George Stewart,L,0,58
+1893-11-04,Brown,Ind,William Odlin,H,MIT,Ind,,W,36,0
+1893-11-11,Brown,Ind,William Odlin,A,MIT,Ind,,W,28,6
+1893-11-18,Brown,Ind,William Odlin,H,Tufts,Ind, Haskell,W,30,6
+1893-09-30,Trinity (CT),Ind,,H,Amherst,Ind,,T,14,14
+1893-10-04,Trinity (CT),Ind,,H,Dartmouth,Ind,Wallace Moyle,L,6,16
+1893-10-07,Trinity (CT),Ind,,A,Wesleyan (CT),Ind,,L,0,18
+1893-10-14,Trinity (CT),Ind,,H,WPI,Ind,,T,16,16
+1893-10-18,Trinity (CT),Ind,,A,Brown,Ind,William Odlin,L,0,34
+1893-10-28,Trinity (CT),Ind,,A,Amherst,Ind,,L,0,18
+1893-11-01,Trinity (CT),Ind,,A,MIT,Ind,,L,12,18
+1893-11-04,Trinity (CT),Ind,,A,WPI,Ind,,L,0,10
+1893-11-08,Trinity (CT),Ind,,H,Wesleyan (CT),Ind,,L,6,14
+1893-11-11,Trinity (CT),Ind,,A,Army,Ind,Laurie Bliss,L,11,18
+1893-11-15,Trinity (CT),Ind,,H,MIT,Ind,,L,12,18
+1893-10-04,Yale,Ind,William Rhodes,H,Brown,Ind,William Odlin,W,18,0
+1893-10-14,Yale,Ind,William Rhodes,H,Dartmouth,Ind,Wallace Moyle,W,28,0
+1893-10-18,Yale,Ind,William Rhodes,H,Amherst,Ind,,W,46,0
+1893-10-25,Yale,Ind,William Rhodes,H,Williams,Ind,,W,82,0
+1893-10-28,Yale,Ind,William Rhodes,A,Army,Ind,Laurie Bliss,W,28,0
+1893-11-11,Yale,Ind,William Rhodes,N,Pennsylvania,Ind,George Woodruff,W,14,6
+1893-11-25,Yale,Ind,William Rhodes,N,Harvard,Ind,George Stewart,W,6,0
+1893-11-30,Yale,Ind,William Rhodes,N,Princeton,Ind,,L,0,6
+1893-10-07,Lehigh,Ind,Harmon Graves,H,Princeton,Ind,,L,0,12
+1893-10-14,Lehigh,Ind,Harmon Graves,A,Army,Ind,Laurie Bliss,W,18,0
+1893-10-18,Lehigh,Ind,Harmon Graves,H,Pennsylvania,Ind,George Woodruff,L,6,32
+1893-10-25,Lehigh,Ind,Harmon Graves,A,Princeton,Ind,,L,6,28
+1893-11-08,Lehigh,Ind,Harmon Graves,H,Lafayette,Ind,P.G. Haskell,W,22,6
+1893-11-11,Lehigh,Ind,Harmon Graves,A,Cornell,Ind,,W,14,0
+1893-11-18,Lehigh,Ind,Harmon Graves,A,Lafayette,Ind,P.G. Haskell,W,10,0
+1893-10-25,Purdue,Ind,D.M. Balliet,H,Chicago,Ind,Amos Alonzo Stagg,W,20,10
+1893-11-11,Purdue,Ind,D.M. Balliet,H,Michigan,Ind,Frank Barbour,L,8,46
+1893-11-18,Purdue,Ind,D.M. Balliet,A,Wisconsin,Ind,Parke Davis,L,30,36
+1893-11-25,Purdue,Ind,D.M. Balliet,H,Illinois,Ind,E.K. Hall,T,26,26
+1893-10-04,WPI,Ind,,H,Massachusetts,Ind,,W,16,0
+1893-10-07,WPI,Ind,,H,Brown,Ind,William Odlin,L,0,30
+1893-10-14,WPI,Ind,,A,Trinity (CT),Ind,,T,16,16
+1893-11-01,WPI,Ind,,H,Amherst,Ind,,L,4,34
+1893-11-04,WPI,Ind,,H,Trinity (CT),Ind,,W,10,0
+1893-11-08,WPI,Ind,,A,Williams,Ind,,L,0,66
+1893-09-30,Harvard,Ind,George Stewart,H,Dartmouth,Ind,Wallace Moyle,W,16,0
+1893-10-07,Harvard,Ind,George Stewart,H,Amherst,Ind,,W,32,0
+1893-10-11,Harvard,Ind,George Stewart,H,MIT,Ind,,W,34,0
+1893-10-14,Harvard,Ind,George Stewart,H,Williams,Ind,,W,52,0
+1893-10-18,Harvard,Ind,George Stewart,H,Dartmouth,Ind,Wallace Moyle,W,36,0
+1893-10-25,Harvard,Ind,George Stewart,H,Brown,Ind,William Odlin,W,58,0
+1893-11-04,Harvard,Ind,George Stewart,N,Cornell,Ind,,W,34,0
+1893-11-25,Harvard,Ind,George Stewart,N,Yale,Ind,William Rhodes,L,0,6
+1893-11-30,Harvard,Ind,George Stewart,H,Pennsylvania,Ind,George Woodruff,W,26,4
+1893-10-11,Williams,Ind,,H,Tufts,Ind, Haskell,W,22,4
+1893-10-14,Williams,Ind,,A,Harvard,Ind,George Stewart,L,0,52
+1893-10-25,Williams,Ind,,A,Yale,Ind,William Rhodes,L,0,82
+1893-10-28,Williams,Ind,,H,Cornell,Ind,,T,10,10
+1893-11-01,Williams,Ind,,H,Dartmouth,Ind,Wallace Moyle,L,0,20
+1893-11-08,Williams,Ind,,H,WPI,Ind,,W,66,0
+1893-11-11,Williams,Ind,,A,Amherst,Ind,,W,30,12
+1893-10-04,Massachusetts,Ind,,A,WPI,Ind,,L,0,16
+1893-10-11,Massachusetts,Ind,,A,Amherst,Ind,,L,0,26
+1893-10-14,Massachusetts,Ind,,H,Wesleyan (CT),Ind,,L,12,18
+1893-10-25,Massachusetts,Ind,,H,Amherst,Ind,,L,2,16
+1893-10-21,Wisconsin,Ind,Parke Davis,H,Lake Forest,Ind,,W,24,0
+1893-11-04,Wisconsin,Ind,Parke Davis,A,Michigan,Ind,Frank Barbour,W,34,18
+1893-11-11,Wisconsin,Ind,Parke Davis,A,Minnesota,Ind,Wallie Winter,L,0,40
+1893-11-18,Wisconsin,Ind,Parke Davis,H,Purdue,Ind,D.M. Balliet,W,36,30
+1893-10-07,Army,Ind,Laurie Bliss,H,Lafayette,Ind,P.G. Haskell,W,36,0
+1893-10-14,Army,Ind,Laurie Bliss,H,Lehigh,Ind,Harmon Graves,L,0,18
+1893-10-21,Army,Ind,Laurie Bliss,H,Amherst,Ind,,W,12,4
+1893-10-28,Army,Ind,Laurie Bliss,H,Yale,Ind,William Rhodes,L,0,28
+1893-11-11,Army,Ind,Laurie Bliss,H,Trinity (CT),Ind,,W,18,11
+1893-11-18,Army,Ind,Laurie Bliss,H,Princeton,Ind,,L,4,36
+1893-09-30,Wesleyan (CT),Ind,,H,Tufts,Ind, Haskell,W,16,14
+1893-10-07,Wesleyan (CT),Ind,,H,Trinity (CT),Ind,,W,18,0
+1893-10-14,Wesleyan (CT),Ind,,A,Massachusetts,Ind,,W,18,12
+1893-10-28,Wesleyan (CT),Ind,,N,Princeton,Ind,,L,0,76
+1893-11-08,Wesleyan (CT),Ind,,A,Trinity (CT),Ind,,W,14,6
+1893-09-30,Dartmouth,Ind,Wallace Moyle,A,Harvard,Ind,George Stewart,L,0,16
+1893-10-04,Dartmouth,Ind,Wallace Moyle,A,Trinity (CT),Ind,,W,16,6
+1893-10-14,Dartmouth,Ind,Wallace Moyle,A,Yale,Ind,William Rhodes,L,0,28
+1893-10-18,Dartmouth,Ind,Wallace Moyle,A,Harvard,Ind,George Stewart,L,0,36
+1893-11-01,Dartmouth,Ind,Wallace Moyle,A,Williams,Ind,,W,20,0
+1893-11-11,Dartmouth,Ind,Wallace Moyle,H,Tufts,Ind, Haskell,W,14,4
+1893-11-18,Dartmouth,Ind,Wallace Moyle,H,Amherst,Ind,,W,34,0
+1893-09-30,Princeton,Ind,,H,Lafayette,Ind,P.G. Haskell,W,20,0
+1893-10-07,Princeton,Ind,,A,Lehigh,Ind,Harmon Graves,W,12,0
+1893-10-21,Princeton,Ind,,N,Cornell,Ind,,W,46,0
+1893-10-25,Princeton,Ind,,H,Lehigh,Ind,Harmon Graves,W,28,6
+1893-10-28,Princeton,Ind,,N,Wesleyan (CT),Ind,,W,76,0
+1893-11-04,Princeton,Ind,,A,Pennsylvania,Ind,George Woodruff,W,4,0
+1893-11-18,Princeton,Ind,,A,Army,Ind,Laurie Bliss,W,36,4
+1893-11-30,Princeton,Ind,,N,Yale,Ind,William Rhodes,W,6,0
+1893-10-14,Chicago,Ind,Amos Alonzo Stagg,H,Lake Forest,Ind,,L,0,10
+1893-10-18,Chicago,Ind,Amos Alonzo Stagg,H,Northwestern,Ind,Paul Noyes,W,12,6
+1893-10-21,Chicago,Ind,Amos Alonzo Stagg,H,Michigan,Ind,Frank Barbour,W,10,6
+1893-10-25,Chicago,Ind,Amos Alonzo Stagg,A,Purdue,Ind,D.M. Balliet,L,10,20
+1893-11-08,Chicago,Ind,Amos Alonzo Stagg,A,Northwestern,Ind,Paul Noyes,T,6,6
+1893-11-18,Chicago,Ind,Amos Alonzo Stagg,H,Lake Forest,Ind,,T,14,14
+1893-11-30,Chicago,Ind,Amos Alonzo Stagg,H,Michigan,Ind,Frank Barbour,L,10,28
+1893-12-16,Chicago,Ind,Amos Alonzo Stagg,H,Northwestern,Ind,Paul Noyes,W,22,14
+1893-10-18,Northwestern,Ind,Paul Noyes,A,Chicago,Ind,Amos Alonzo Stagg,L,6,12
+1893-10-21,Northwestern,Ind,Paul Noyes,H,Illinois,Ind,E.K. Hall,T,0,0
+1893-10-27,Northwestern,Ind,Paul Noyes,H,Lake Forest,Ind,,T,12,12
+1893-10-30,Northwestern,Ind,Paul Noyes,H,Minnesota,Ind,Wallie Winter,L,0,16
+1893-11-08,Northwestern,Ind,Paul Noyes,H,Chicago,Ind,Amos Alonzo Stagg,T,6,6
+1893-11-11,Northwestern,Ind,Paul Noyes,H,Lake Forest,Ind,,W,38,22
+1893-11-18,Northwestern,Ind,Paul Noyes,A,Michigan,Ind,Frank Barbour,L,6,72
+1893-12-16,Northwestern,Ind,Paul Noyes,A,Chicago,Ind,Amos Alonzo Stagg,L,14,22
+1893-10-28,Minnesota,Ind,Wallie Winter,A,Michigan,Ind,Frank Barbour,W,34,20
+1893-10-30,Minnesota,Ind,Wallie Winter,A,Northwestern,Ind,Paul Noyes,W,16,0
+1893-11-11,Minnesota,Ind,Wallie Winter,H,Wisconsin,Ind,Parke Davis,W,40,0
+1893-10-21,Michigan,Ind,Frank Barbour,A,Chicago,Ind,Amos Alonzo Stagg,L,6,10
+1893-10-28,Michigan,Ind,Frank Barbour,H,Minnesota,Ind,Wallie Winter,L,20,34
+1893-11-04,Michigan,Ind,Frank Barbour,H,Wisconsin,Ind,Parke Davis,L,18,34
+1893-11-11,Michigan,Ind,Frank Barbour,A,Purdue,Ind,D.M. Balliet,W,46,8
+1893-11-18,Michigan,Ind,Frank Barbour,H,Northwestern,Ind,Paul Noyes,W,72,6
+1893-11-30,Michigan,Ind,Frank Barbour,A,Chicago,Ind,Amos Alonzo Stagg,W,28,10
+1893-10-18,Pennsylvania,Ind,George Woodruff,A,Lehigh,Ind,Harmon Graves,W,32,6
+1893-10-28,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,P.G. Haskell,W,82,0
+1893-11-04,Pennsylvania,Ind,George Woodruff,H,Princeton,Ind,,L,0,4
+1893-11-11,Pennsylvania,Ind,George Woodruff,N,Yale,Ind,William Rhodes,L,6,14
+1893-11-18,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,,W,50,0
+1893-11-30,Pennsylvania,Ind,George Woodruff,A,Harvard,Ind,George Stewart,L,4,26
+1893-09-30,Tufts,Ind, Haskell,A,Wesleyan (CT),Ind,,L,14,16
+1893-10-11,Tufts,Ind, Haskell,A,Williams,Ind,,L,4,22
+1893-10-24,Tufts,Ind, Haskell,H,Cornell,Ind,,W,6,0
+1893-11-08,Tufts,Ind, Haskell,A,Cornell,Ind,,W,6,0
+1893-11-11,Tufts,Ind, Haskell,A,Dartmouth,Ind,Wallace Moyle,L,4,14
+1893-11-18,Tufts,Ind, Haskell,A,Brown,Ind,William Odlin,L,6,30
+1893-09-30,Amherst,Ind,,A,Trinity (CT),Ind,,T,14,14
+1893-10-07,Amherst,Ind,,A,Harvard,Ind,George Stewart,L,0,32
+1893-10-11,Amherst,Ind,,H,Massachusetts,Ind,,W,26,0
+1893-10-18,Amherst,Ind,,A,Yale,Ind,William Rhodes,L,0,46
+1893-10-21,Amherst,Ind,,A,Army,Ind,Laurie Bliss,L,4,12
+1893-10-25,Amherst,Ind,,A,Massachusetts,Ind,,W,16,2
+1893-10-28,Amherst,Ind,,H,Trinity (CT),Ind,,W,18,0
+1893-11-01,Amherst,Ind,,A,WPI,Ind,,W,34,4
+1893-11-08,Amherst,Ind,,H,MIT,Ind,,W,12,4
+1893-11-11,Amherst,Ind,,H,Williams,Ind,,L,12,30
+1893-11-18,Amherst,Ind,,A,Dartmouth,Ind,Wallace Moyle,L,0,34
+1893-11-25,Amherst,Ind,,A,MIT,Ind,,W,14,6
+1893-09-30,Lafayette,Ind,P.G. Haskell,A,Princeton,Ind,,L,0,20
+1893-10-07,Lafayette,Ind,P.G. Haskell,A,Army,Ind,Laurie Bliss,L,0,36
+1893-10-28,Lafayette,Ind,P.G. Haskell,A,Pennsylvania,Ind,George Woodruff,L,0,82
+1893-11-08,Lafayette,Ind,P.G. Haskell,A,Lehigh,Ind,Harmon Graves,L,6,22
+1893-11-18,Lafayette,Ind,P.G. Haskell,H,Lehigh,Ind,Harmon Graves,L,0,10
+1893-10-21,Illinois,Ind,E.K. Hall,A,Northwestern,Ind,Paul Noyes,T,0,0
+1893-11-25,Illinois,Ind,E.K. Hall,A,Purdue,Ind,D.M. Balliet,T,26,26
+1893-11-30,Illinois,Ind,E.K. Hall,H,Lake Forest,Ind,,T,10,10
+1893-10-21,Cornell,Ind,,N,Princeton,Ind,,L,0,46
+1893-10-24,Cornell,Ind,,A,Tufts,Ind, Haskell,L,0,6
+1893-10-28,Cornell,Ind,,A,Williams,Ind,,T,10,10
+1893-11-04,Cornell,Ind,,N,Harvard,Ind,George Stewart,L,0,34
+1893-11-08,Cornell,Ind,,H,Tufts,Ind, Haskell,L,0,6
+1893-11-11,Cornell,Ind,,H,Lehigh,Ind,Harmon Graves,L,0,14
+1893-11-18,Cornell,Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,50
+1893-10-14,Lake Forest,Ind,,A,Chicago,Ind,Amos Alonzo Stagg,W,10,0
+1893-10-21,Lake Forest,Ind,,A,Wisconsin,Ind,Parke Davis,L,0,24
+1893-10-27,Lake Forest,Ind,,A,Northwestern,Ind,Paul Noyes,T,12,12
+1893-11-11,Lake Forest,Ind,,A,Northwestern,Ind,Paul Noyes,L,22,38
+1893-11-18,Lake Forest,Ind,,A,Chicago,Ind,Amos Alonzo Stagg,T,14,14
+1893-11-30,Lake Forest,Ind,,A,Illinois,Ind,E.K. Hall,T,10,10
+1893-10-11,MIT,Ind,,A,Harvard,Ind,George Stewart,L,0,34
+1893-11-01,MIT,Ind,,H,Trinity (CT),Ind,,W,18,12
+1893-11-04,MIT,Ind,,A,Brown,Ind,William Odlin,L,0,36
+1893-11-08,MIT,Ind,,A,Amherst,Ind,,L,4,12
+1893-11-11,MIT,Ind,,H,Brown,Ind,William Odlin,L,6,28
+1893-11-15,MIT,Ind,,A,Trinity (CT),Ind,,W,18,12
+1893-11-25,MIT,Ind,,H,Amherst,Ind,,L,6,14

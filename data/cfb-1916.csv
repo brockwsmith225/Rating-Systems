@@ -1,0 +1,501 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1916-09-30,North Carolina,Ind,Thomas Campbell,H,Wake Forest,Ind,G.M. Billings,W,20,0
+1916-10-07,North Carolina,Ind,Thomas Campbell,A,Princeton,Ind,John Rush,L,0,29
+1916-10-14,North Carolina,Ind,Thomas Campbell,A,Harvard,Ind,Percy Haughton,L,0,21
+1916-10-21,North Carolina,Ind,Thomas Campbell,A,Georgia Tech,Ind,John Heisman,L,6,10
+1916-10-28,North Carolina,Ind,Thomas Campbell,H,Virginia Military Institute,Ind,Frank Gorton,W,38,13
+1916-11-04,North Carolina,Ind,Thomas Campbell,A,Virginia Tech,Ind,Jack Ingersoll,L,7,14
+1916-11-11,North Carolina,Ind,Thomas Campbell,N,Davidson,Ind,William Fetzer,W,10,6
+1916-11-18,North Carolina,Ind,Thomas Campbell,H,Furman,Ind,,W,46,0
+1916-11-30,North Carolina,Ind,Thomas Campbell,A,Virginia,Ind,Peyton Evans,W,7,0
+1916-10-14,Indiana,Western,Jumbo Stiehm,A,Chicago,Western,Amos Alonzo Stagg,L,0,22
+1916-11-04,Indiana,Western,Jumbo Stiehm,H,Northwestern,Western,Fred Murphy,L,0,7
+1916-11-11,Indiana,Western,Jumbo Stiehm,A,Ohio State,Western,John Wilce,L,7,46
+1916-11-18,Indiana,Western,Jumbo Stiehm,H,Florida,Ind,,W,14,3
+1916-11-25,Indiana,Western,Jumbo Stiehm,A,Purdue,Western,Cleo O'Donnell,T,0,0
+1916-10-14,Iowa State,MVIAA,,H,Kansas,MVIAA,Herman Olcott,W,13,0
+1916-10-21,Iowa State,MVIAA,,A,Missouri,MVIAA,Henry Schulte,T,0,0
+1916-11-04,Iowa State,MVIAA,,A,Nebraska,MVIAA,Edward Stewart,L,0,3
+1916-11-18,Iowa State,MVIAA,,H,Iowa,Western,Howard Jones,L,16,19
+1916-11-30,Iowa State,MVIAA,,H,Drake,MVIAA,Ralph Glaze,W,33,14
+1916-09-30,Furman,Ind,,A,Clemson,Ind,Wayne Hart,L,6,7
+1916-10-27,Furman,Ind,,A,Presbyterian,Ind,Walter Johnson,W,42,10
+1916-11-04,Furman,Ind,,H,Davidson,Ind,William Fetzer,L,14,46
+1916-11-11,Furman,Ind,,A,Georgia,Ind,W.A. Cunningham,L,0,49
+1916-11-18,Furman,Ind,,A,North Carolina,Ind,Thomas Campbell,L,0,46
+1916-11-23,Furman,Ind,,H,South Carolina,Ind,Rice Warren,W,14,0
+1916-11-30,Furman,Ind,,A,Wofford,Ind,Leslie Moser,L,7,9
+1916-10-28,Utah,RMC,Nelson Norgren,H,Colorado,RMC,Bob Evans,W,28,0
+1916-11-11,Utah,RMC,Nelson Norgren,H,Utah State,RMC,Jack Watson,W,46,0
+1916-11-18,Utah,RMC,Nelson Norgren,A,Colorado State,RMC,Harry Hughes,L,6,12
+1916-11-30,Utah,RMC,Nelson Norgren,H,Colorado College,RMC,C.J. Rothget,L,6,21
+1916-10-07,Washington & Lee,Ind,Jogger Elcock,A,Army,Ind,Charles Daly,L,7,14
+1916-10-14,Washington & Lee,Ind,Jogger Elcock,A,Rutgers,Ind,George Sanford,T,13,13
+1916-10-28,Washington & Lee,Ind,Jogger Elcock,A,Georgia Tech,Ind,John Heisman,T,7,7
+1916-11-04,Washington & Lee,Ind,Jogger Elcock,A,Navy,Ind,Jonas Ingram,W,10,0
+1916-11-11,Washington & Lee,Ind,Jogger Elcock,H,Bucknell,Ind,George Johnson,W,55,7
+1916-11-18,Washington & Lee,Ind,Jogger Elcock,H,Washington & Jefferson,Ind,Sol Metzger,L,6,10
+1916-11-30,Washington & Lee,Ind,Jogger Elcock,A,North Carolina State,Ind,,W,21,0
+1916-10-21,Syracuse,Ind,William Hollenback,H,Pitt,Ind,Pop Warner,L,0,30
+1916-10-28,Syracuse,Ind,William Hollenback,A,Michigan,Ind,Fielding Yost,L,13,14
+1916-11-04,Syracuse,Ind,William Hollenback,N,Dartmouth,Ind,Frank Cavanaugh,L,10,15
+1916-11-18,Syracuse,Ind,William Hollenback,H,Colgate,Ind,Laurence Bankart,L,0,15
+1916-10-14,Haskell,Ind,,A,Notre Dame,Ind,Jesse Harper,L,0,25
+1916-10-21,Haskell,Ind,,A,Wisconsin,Western,Paul Withington,L,0,13
+1916-10-28,Haskell,Ind,,A,Texas A&M,SWC,E.H. Harlan,L,6,13
+1916-10-07,Georgetown,Ind,,A,Navy,Ind,Jonas Ingram,L,7,13
+1916-10-21,Georgetown,Ind,,H,Dartmouth,Ind,Frank Cavanaugh,W,10,0
+1916-11-04,Georgetown,Ind,,H,West Virginia Wesleyan,Ind,,W,47,0
+1916-11-18,Georgetown,Ind,,A,North Carolina State,Ind,,W,61,5
+1916-11-25,Georgetown,Ind,,H,Bucknell,Ind,George Johnson,W,78,0
+1916-12-09,Georgetown,Ind,,A,Tulane,Ind,Clark Shaughnessy,W,61,0
+1916-10-07,Penn State,Ind,Dick Harlow,H,Bucknell,Ind,George Johnson,W,50,7
+1916-10-14,Penn State,Ind,Dick Harlow,H,West Virginia Wesleyan,Ind,,W,39,0
+1916-10-21,Penn State,Ind,Dick Harlow,A,Pennsylvania,Ind,,L,0,15
+1916-11-11,Penn State,Ind,Dick Harlow,A,Lehigh,Ind,Tom Keady,W,10,7
+1916-11-17,Penn State,Ind,Dick Harlow,H,Lafayette,Ind,Wilmer Crowell,W,40,0
+1916-11-30,Penn State,Ind,Dick Harlow,A,Pitt,Ind,Pop Warner,L,0,31
+1916-10-07,Princeton,Ind,John Rush,H,North Carolina,Ind,Thomas Campbell,W,29,0
+1916-10-21,Princeton,Ind,John Rush,H,Lafayette,Ind,Wilmer Crowell,W,33,0
+1916-10-28,Princeton,Ind,John Rush,H,Dartmouth,Ind,Frank Cavanaugh,W,7,3
+1916-11-04,Princeton,Ind,John Rush,H,Bucknell,Ind,George Johnson,W,42,0
+1916-11-11,Princeton,Ind,John Rush,A,Harvard,Ind,Percy Haughton,L,0,3
+1916-11-18,Princeton,Ind,John Rush,H,Yale,Ind,Tad Jones,L,0,10
+1916-10-14,Vanderbilt,Ind,Dan McGugin,A,Kentucky,Ind,J.J. Tigert,W,45,0
+1916-10-21,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,Fred Robbins,W,35,0
+1916-10-28,Vanderbilt,Ind,Dan McGugin,H,Virginia,Ind,Peyton Evans,W,27,6
+1916-11-11,Vanderbilt,Ind,Dan McGugin,A,Tennessee,Ind,John Bender,L,6,10
+1916-11-18,Vanderbilt,Ind,Dan McGugin,A,Auburn,Ind,Mike Donahue,W,20,9
+1916-11-25,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,T,0,0
+1916-10-21,Colorado College,RMC,C.J. Rothget,H,Colorado Mines,RMC,F.G. Carter,W,54,0
+1916-10-28,Colorado College,RMC,C.J. Rothget,A,Colorado State,RMC,Harry Hughes,L,12,14
+1916-11-11,Colorado College,RMC,C.J. Rothget,H,Colorado,RMC,Bob Evans,W,58,0
+1916-11-18,Colorado College,RMC,C.J. Rothget,H,Denver,RMC,John Fike,W,35,13
+1916-11-30,Colorado College,RMC,C.J. Rothget,A,Utah,RMC,Nelson Norgren,W,21,6
+1916-10-14,Kentucky,Ind,J.J. Tigert,H,Vanderbilt,Ind,Dan McGugin,L,0,45
+1916-10-21,Kentucky,Ind,J.J. Tigert,H,Sewanee,Ind,Harris Cope,T,0,0
+1916-11-18,Kentucky,Ind,J.J. Tigert,H,Mississippi State,Ind,E.C. Hayes,W,13,3
+1916-11-30,Kentucky,Ind,J.J. Tigert,A,Tennessee,Ind,John Bender,T,0,0
+1916-10-21,California,PCC,Andy Smith,H,Oregon,PCC,Hugo Bezdek,L,14,39
+1916-11-18,California,PCC,Andy Smith,H,Washington,PCC,Gilmour Dobie,L,3,13
+1916-11-30,California,PCC,Andy Smith,A,Washington,PCC,Gilmour Dobie,L,7,14
+1916-10-14,Florida,Ind,,A,Georgia,Ind,W.A. Cunningham,L,0,21
+1916-10-21,Florida,Ind,,H,Alabama,Ind,Thomas Kelley,L,0,16
+1916-10-28,Florida,Ind,,H,Tennessee,Ind,John Bender,L,0,24
+1916-11-11,Florida,Ind,,H,Auburn,Ind,Mike Donahue,L,0,20
+1916-11-18,Florida,Ind,,A,Indiana,Western,Jumbo Stiehm,L,3,14
+1916-10-07,Presbyterian,Ind,Walter Johnson,A,Wofford,Ind,Leslie Moser,W,49,13
+1916-10-14,Presbyterian,Ind,Walter Johnson,A,Citadel,Ind,Harry O'Brien,L,7,34
+1916-10-27,Presbyterian,Ind,Walter Johnson,H,Furman,Ind,,L,10,42
+1916-11-22,Presbyterian,Ind,Walter Johnson,A,Clemson,Ind,Wayne Hart,L,0,40
+1916-11-30,Presbyterian,Ind,Walter Johnson,H,Newberry,Ind,James Driver,W,3,0
+1916-09-30,Southwestern (TX),SWC,,A,Texas A&M,SWC,E.H. Harlan,L,0,6
+1916-10-21,Southwestern (TX),SWC,,A,Rice,SWC,Phillip Arbuckle,L,0,54
+1916-11-04,Southwestern (TX),SWC,,A,Baylor,SWC,Bubs Mosley,L,0,20
+1916-11-11,Southwestern (TX),SWC,,H,Texas Christian,Ind,Milton Daniel,W,41,13
+1916-11-21,Southwestern (TX),SWC,,A,Texas,SWC,Conrad Van Gent,L,3,17
+1916-12-01,Southwestern (TX),SWC,,H,SMU,Ind,Ray Morrison,T,9,9
+1916-10-07,Illinois,Western,Robert Zuppke,H,Kansas,MVIAA,Herman Olcott,W,30,0
+1916-10-14,Illinois,Western,Robert Zuppke,H,Colgate,Ind,Laurence Bankart,L,3,15
+1916-10-21,Illinois,Western,Robert Zuppke,H,Ohio State,Western,John Wilce,L,6,7
+1916-10-28,Illinois,Western,Robert Zuppke,A,Purdue,Western,Cleo O'Donnell,W,14,7
+1916-11-11,Illinois,Western,Robert Zuppke,A,Minnesota,Western,Henry Williams,W,14,9
+1916-11-18,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,L,7,20
+1916-11-25,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,Paul Withington,T,0,0
+1916-10-07,Baylor,SWC,Bubs Mosley,H,SMU,Ind,Ray Morrison,W,61,0
+1916-10-28,Baylor,SWC,Bubs Mosley,A,Texas,SWC,Conrad Van Gent,W,7,3
+1916-11-04,Baylor,SWC,Bubs Mosley,H,Southwestern (TX),SWC,,W,20,0
+1916-11-11,Baylor,SWC,Bubs Mosley,H,Texas A&M,SWC,E.H. Harlan,L,0,3
+1916-11-18,Baylor,SWC,Bubs Mosley,A,Oklahoma State,SWC,John Griffith,W,10,7
+1916-11-30,Baylor,SWC,Bubs Mosley,A,Texas Christian,Ind,Milton Daniel,W,32,14
+1916-09-30,SMU,Ind,Ray Morrison,A,Texas,SWC,Conrad Van Gent,L,0,74
+1916-10-07,SMU,Ind,Ray Morrison,A,Baylor,SWC,Bubs Mosley,L,0,61
+1916-10-14,SMU,Ind,Ray Morrison,H,Texas Christian,Ind,Milton Daniel,L,3,48
+1916-10-21,SMU,Ind,Ray Morrison,A,Texas A&M,SWC,E.H. Harlan,L,0,62
+1916-11-17,SMU,Ind,Ray Morrison,A,Rice,SWC,Phillip Arbuckle,L,3,146
+1916-12-01,SMU,Ind,Ray Morrison,A,Southwestern (TX),SWC,,T,9,9
+1916-09-30,Georgia,Ind,W.A. Cunningham,H,Citadel,Ind,Harry O'Brien,W,6,0
+1916-10-07,Georgia,Ind,W.A. Cunningham,A,Clemson,Ind,Wayne Hart,W,26,0
+1916-10-14,Georgia,Ind,W.A. Cunningham,H,Florida,Ind,,W,21,0
+1916-10-21,Georgia,Ind,W.A. Cunningham,A,Virginia,Ind,Peyton Evans,W,13,7
+1916-10-28,Georgia,Ind,W.A. Cunningham,A,Navy,Ind,Jonas Ingram,L,3,27
+1916-11-04,Georgia,Ind,W.A. Cunningham,N,Auburn,Ind,Mike Donahue,L,0,3
+1916-11-11,Georgia,Ind,W.A. Cunningham,H,Furman,Ind,,W,49,0
+1916-11-18,Georgia,Ind,W.A. Cunningham,H,Georgia Tech,Ind,John Heisman,L,0,21
+1916-11-30,Georgia,Ind,W.A. Cunningham,A,Alabama,Ind,Thomas Kelley,W,3,0
+1916-09-30,Virginia,Ind,Peyton Evans,H,Davidson,Ind,William Fetzer,W,14,0
+1916-10-07,Virginia,Ind,Peyton Evans,A,Yale,Ind,Tad Jones,L,3,61
+1916-10-21,Virginia,Ind,Peyton Evans,H,Georgia,Ind,W.A. Cunningham,L,7,13
+1916-10-28,Virginia,Ind,Peyton Evans,A,Vanderbilt,Ind,Dan McGugin,L,6,27
+1916-11-04,Virginia,Ind,Peyton Evans,A,Harvard,Ind,Percy Haughton,L,0,51
+1916-11-11,Virginia,Ind,Peyton Evans,H,South Carolina,Ind,Rice Warren,W,35,6
+1916-11-18,Virginia,Ind,Peyton Evans,H,Virginia Military Institute,Ind,Frank Gorton,W,20,7
+1916-11-30,Virginia,Ind,Peyton Evans,H,North Carolina,Ind,Thomas Campbell,L,0,7
+1916-09-30,Citadel,Ind,Harry O'Brien,A,Georgia,Ind,W.A. Cunningham,L,0,6
+1916-10-14,Citadel,Ind,Harry O'Brien,H,Presbyterian,Ind,Walter Johnson,W,34,7
+1916-10-21,Citadel,Ind,Harry O'Brien,A,Davidson,Ind,William Fetzer,T,7,7
+1916-10-28,Citadel,Ind,Harry O'Brien,A,Newberry,Ind,James Driver,W,21,14
+1916-11-04,Citadel,Ind,Harry O'Brien,H,Wofford,Ind,Leslie Moser,W,37,0
+1916-11-16,Citadel,Ind,Harry O'Brien,N,Clemson,Ind,Wayne Hart,W,3,0
+1916-11-30,Citadel,Ind,Harry O'Brien,A,South Carolina,Ind,Rice Warren,W,20,2
+1916-10-21,Oklahoma,SWC,Bennie Owen,N,Texas,SWC,Conrad Van Gent,L,7,21
+1916-10-28,Oklahoma,SWC,Bennie Owen,H,Missouri,MVIAA,Henry Schulte,L,14,23
+1916-11-04,Oklahoma,SWC,Bennie Owen,A,Kansas,MVIAA,Herman Olcott,L,13,21
+1916-11-17,Oklahoma,SWC,Bennie Owen,H,Kansas State,MVIAA,Zora Clevenger,L,13,14
+1916-11-23,Oklahoma,SWC,Bennie Owen,A,Arkansas,SWC,T.T. McConnell,W,14,13
+1916-11-30,Oklahoma,SWC,Bennie Owen,N,Oklahoma State,SWC,John Griffith,W,41,7
+1916-10-14,Virginia Tech,Ind,Jack Ingersoll,N,West Virginia,Ind,Mont McIntire,L,0,20
+1916-10-20,Virginia Tech,Ind,Jack Ingersoll,A,Yale,Ind,Tad Jones,L,0,19
+1916-10-28,Virginia Tech,Ind,Jack Ingersoll,N,North Carolina State,Ind,,W,40,0
+1916-11-04,Virginia Tech,Ind,Jack Ingersoll,H,North Carolina,Ind,Thomas Campbell,W,14,7
+1916-11-11,Virginia Tech,Ind,Jack Ingersoll,H,Wake Forest,Ind,G.M. Billings,W,52,0
+1916-11-30,Virginia Tech,Ind,Jack Ingersoll,N,Virginia Military Institute,Ind,Frank Gorton,W,23,14
+1916-11-05,Arkansas,SWC,T.T. McConnell,N,LSU,Ind,Dana Bible,L,7,17
+1916-11-14,Arkansas,SWC,T.T. McConnell,A,Texas,SWC,Conrad Van Gent,L,0,52
+1916-11-23,Arkansas,SWC,T.T. McConnell,H,Oklahoma,SWC,Bennie Owen,L,13,14
+1916-11-30,Arkansas,SWC,T.T. McConnell,N,Mississippi State,Ind,E.C. Hayes,L,7,20
+1916-09-30,Clemson,Ind,Wayne Hart,H,Furman,Ind,,W,7,6
+1916-10-07,Clemson,Ind,Wayne Hart,H,Georgia,Ind,W.A. Cunningham,L,0,26
+1916-10-14,Clemson,Ind,Wayne Hart,H,Tennessee,Ind,John Bender,L,0,14
+1916-10-20,Clemson,Ind,Wayne Hart,A,Auburn,Ind,Mike Donahue,L,0,28
+1916-10-26,Clemson,Ind,Wayne Hart,A,South Carolina,Ind,Rice Warren,W,27,0
+1916-11-11,Clemson,Ind,Wayne Hart,A,Virginia Military Institute,Ind,Frank Gorton,L,7,37
+1916-11-16,Clemson,Ind,Wayne Hart,N,Citadel,Ind,Harry O'Brien,L,0,3
+1916-11-22,Clemson,Ind,Wayne Hart,H,Presbyterian,Ind,Walter Johnson,W,40,0
+1916-11-30,Clemson,Ind,Wayne Hart,N,Davidson,Ind,William Fetzer,L,0,33
+1916-10-07,South Carolina,Ind,Rice Warren,H,Newberry,Ind,James Driver,L,0,10
+1916-10-14,South Carolina,Ind,Rice Warren,H,Wofford,Ind,Leslie Moser,W,23,3
+1916-10-21,South Carolina,Ind,Rice Warren,A,Tennessee,Ind,John Bender,L,0,26
+1916-10-26,South Carolina,Ind,Rice Warren,H,Clemson,Ind,Wayne Hart,L,0,27
+1916-11-04,South Carolina,Ind,Rice Warren,H,Wake Forest,Ind,G.M. Billings,L,7,33
+1916-11-11,South Carolina,Ind,Rice Warren,A,Virginia,Ind,Peyton Evans,L,6,35
+1916-11-23,South Carolina,Ind,Rice Warren,A,Furman,Ind,,L,0,14
+1916-11-30,South Carolina,Ind,Rice Warren,H,Citadel,Ind,Harry O'Brien,L,2,20
+1916-11-04,Washington,PCC,Gilmour Dobie,A,Oregon,PCC,Hugo Bezdek,T,0,0
+1916-11-11,Washington,PCC,Gilmour Dobie,H,Oregon State,PCC,Joseph Pipal,W,35,0
+1916-11-18,Washington,PCC,Gilmour Dobie,A,California,PCC,Andy Smith,W,13,3
+1916-11-30,Washington,PCC,Gilmour Dobie,H,California,PCC,Andy Smith,W,14,7
+1916-10-07,West Virginia Wesleyan,Ind,,H,Washington & Jefferson,Ind,Sol Metzger,L,0,21
+1916-10-14,West Virginia Wesleyan,Ind,,A,Penn State,Ind,Dick Harlow,L,0,39
+1916-11-04,West Virginia Wesleyan,Ind,,A,Georgetown,Ind,,L,0,47
+1916-11-25,West Virginia Wesleyan,Ind,,A,Pennsylvania,Ind,,L,0,16
+1916-11-30,West Virginia Wesleyan,Ind,,N,West Virginia,Ind,Mont McIntire,L,7,54
+1916-10-14,Utah State,RMC,Jack Watson,H,Colorado State,RMC,Harry Hughes,L,0,53
+1916-10-21,Utah State,RMC,Jack Watson,H,Wyoming,RMC,John Corbett,L,10,23
+1916-11-11,Utah State,RMC,Jack Watson,A,Utah,RMC,Nelson Norgren,L,0,46
+1916-10-14,Missouri,MVIAA,Henry Schulte,H,Washington (MO),MVIAA,W.P. Edmunds,W,13,0
+1916-10-21,Missouri,MVIAA,Henry Schulte,H,Iowa State,MVIAA,,T,0,0
+1916-10-28,Missouri,MVIAA,Henry Schulte,A,Oklahoma,SWC,Bennie Owen,W,23,14
+1916-11-04,Missouri,MVIAA,Henry Schulte,H,Texas,SWC,Conrad Van Gent,W,3,0
+1916-11-11,Missouri,MVIAA,Henry Schulte,A,Kansas State,MVIAA,Zora Clevenger,L,6,7
+1916-11-18,Missouri,MVIAA,Henry Schulte,H,Drake,MVIAA,Ralph Glaze,W,14,0
+1916-11-30,Missouri,MVIAA,Henry Schulte,A,Kansas,MVIAA,Herman Olcott,W,13,0
+1916-10-14,Denver,RMC,John Fike,A,Wyoming,RMC,John Corbett,W,19,10
+1916-10-21,Denver,RMC,John Fike,A,Colorado,RMC,Bob Evans,W,7,0
+1916-11-04,Denver,RMC,John Fike,H,Colorado State,RMC,Harry Hughes,L,13,21
+1916-11-18,Denver,RMC,John Fike,A,Colorado College,RMC,C.J. Rothget,L,13,35
+1916-11-30,Denver,RMC,John Fike,H,Colorado Mines,RMC,F.G. Carter,W,21,0
+1916-10-07,Washington & Jefferson,Ind,Sol Metzger,A,West Virginia Wesleyan,Ind,,W,21,0
+1916-10-28,Washington & Jefferson,Ind,Sol Metzger,A,Yale,Ind,Tad Jones,L,14,36
+1916-11-11,Washington & Jefferson,Ind,Sol Metzger,A,Pitt,Ind,Pop Warner,L,0,37
+1916-11-18,Washington & Jefferson,Ind,Sol Metzger,A,Washington & Lee,Ind,Jogger Elcock,W,10,6
+1916-11-30,Washington & Jefferson,Ind,Sol Metzger,A,Rutgers,Ind,George Sanford,W,12,9
+1916-10-07,Wofford,Ind,Leslie Moser,H,Presbyterian,Ind,Walter Johnson,L,13,49
+1916-10-14,Wofford,Ind,Leslie Moser,A,South Carolina,Ind,Rice Warren,L,3,23
+1916-11-04,Wofford,Ind,Leslie Moser,A,Citadel,Ind,Harry O'Brien,L,0,37
+1916-11-11,Wofford,Ind,Leslie Moser,A,Newberry,Ind,James Driver,L,0,21
+1916-11-18,Wofford,Ind,Leslie Moser,A,Wake Forest,Ind,G.M. Billings,L,0,41
+1916-11-25,Wofford,Ind,Leslie Moser,H,Davidson,Ind,William Fetzer,L,0,32
+1916-11-30,Wofford,Ind,Leslie Moser,H,Furman,Ind,,W,9,7
+1916-10-06,Mississippi College,Ind,Charles Noble,N,Mississippi State,Ind,E.C. Hayes,W,13,6
+1916-10-14,Mississippi College,Ind,Charles Noble,A,Alabama,Ind,Thomas Kelley,L,7,13
+1916-10-21,Mississippi College,Ind,Charles Noble,A,LSU,Ind,Dana Bible,L,7,50
+1916-10-27,Mississippi College,Ind,Charles Noble,H,Tulane,Ind,Clark Shaughnessy,L,3,13
+1916-11-30,Mississippi College,Ind,Charles Noble,N,Ole Miss,Ind,Fred Robbins,W,36,14
+1916-10-21,Wisconsin,Western,Paul Withington,H,Haskell,Ind,,W,13,0
+1916-10-28,Wisconsin,Western,Paul Withington,H,Chicago,Western,Amos Alonzo Stagg,W,30,7
+1916-11-04,Wisconsin,Western,Paul Withington,A,Ohio State,Western,John Wilce,L,13,14
+1916-11-18,Wisconsin,Western,Paul Withington,A,Minnesota,Western,Henry Williams,L,0,54
+1916-11-25,Wisconsin,Western,Paul Withington,H,Illinois,Western,Robert Zuppke,T,0,0
+1916-10-07,Bucknell,Ind,George Johnson,A,Penn State,Ind,Dick Harlow,L,7,50
+1916-10-21,Bucknell,Ind,George Johnson,A,Cornell,Ind,,L,0,19
+1916-11-04,Bucknell,Ind,George Johnson,A,Princeton,Ind,John Rush,L,0,42
+1916-11-11,Bucknell,Ind,George Johnson,A,Washington & Lee,Ind,Jogger Elcock,L,7,55
+1916-11-25,Bucknell,Ind,George Johnson,A,Georgetown,Ind,,L,0,78
+1916-10-21,Colorado Mines,RMC,F.G. Carter,A,Colorado College,RMC,C.J. Rothget,L,0,54
+1916-10-28,Colorado Mines,RMC,F.G. Carter,A,Wyoming,RMC,John Corbett,W,30,7
+1916-11-11,Colorado Mines,RMC,F.G. Carter,H,Colorado State,RMC,Harry Hughes,T,0,0
+1916-11-18,Colorado Mines,RMC,F.G. Carter,H,Colorado,RMC,Bob Evans,W,27,10
+1916-11-30,Colorado Mines,RMC,F.G. Carter,A,Denver,RMC,John Fike,L,0,21
+1916-10-07,North Carolina State,Ind,,A,Davidson,Ind,William Fetzer,L,0,16
+1916-10-19,North Carolina State,Ind,,A,Wake Forest,Ind,G.M. Billings,W,6,0
+1916-10-28,North Carolina State,Ind,,N,Virginia Tech,Ind,Jack Ingersoll,L,0,40
+1916-11-11,North Carolina State,Ind,,A,Navy,Ind,Jonas Ingram,L,0,50
+1916-11-18,North Carolina State,Ind,,H,Georgetown,Ind,,L,5,61
+1916-11-30,North Carolina State,Ind,,H,Washington & Lee,Ind,Jogger Elcock,L,0,21
+1916-10-14,Rutgers,Ind,George Sanford,H,Washington & Lee,Ind,Jogger Elcock,T,13,13
+1916-10-28,Rutgers,Ind,George Sanford,A,Brown,Ind,Edward Robinson,L,3,21
+1916-11-11,Rutgers,Ind,George Sanford,H,West Virginia,Ind,Mont McIntire,T,0,0
+1916-11-30,Rutgers,Ind,George Sanford,H,Washington & Jefferson,Ind,Sol Metzger,L,9,12
+1916-10-28,Michigan,Ind,Fielding Yost,H,Syracuse,Ind,William Hollenback,W,14,13
+1916-11-04,Michigan,Ind,Fielding Yost,H,Washington (MO),MVIAA,W.P. Edmunds,W,66,7
+1916-11-11,Michigan,Ind,Fielding Yost,A,Cornell,Ind,,L,20,23
+1916-11-18,Michigan,Ind,Fielding Yost,H,Pennsylvania,Ind,,L,7,10
+1916-10-14,Notre Dame,Ind,Jesse Harper,H,Haskell,Ind,,W,25,0
+1916-11-04,Notre Dame,Ind,Jesse Harper,A,Army,Ind,Charles Daly,L,10,30
+1916-11-30,Notre Dame,Ind,Jesse Harper,A,Nebraska,MVIAA,Edward Stewart,W,20,0
+1916-10-14,Pitt,Ind,Pop Warner,A,Navy,Ind,Jonas Ingram,W,20,19
+1916-10-21,Pitt,Ind,Pop Warner,A,Syracuse,Ind,William Hollenback,W,30,0
+1916-10-28,Pitt,Ind,Pop Warner,H,Pennsylvania,Ind,,W,20,0
+1916-11-11,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,Sol Metzger,W,37,0
+1916-11-30,Pitt,Ind,Pop Warner,H,Penn State,Ind,Dick Harlow,W,31,0
+1916-10-07,Newberry,Ind,James Driver,A,South Carolina,Ind,Rice Warren,W,10,0
+1916-10-28,Newberry,Ind,James Driver,H,Citadel,Ind,Harry O'Brien,L,14,21
+1916-11-11,Newberry,Ind,James Driver,H,Wofford,Ind,Leslie Moser,W,21,0
+1916-11-30,Newberry,Ind,James Driver,A,Presbyterian,Ind,Walter Johnson,L,0,3
+1916-09-30,Wyoming,RMC,John Corbett,A,Colorado State,RMC,Harry Hughes,L,0,40
+1916-10-07,Wyoming,RMC,John Corbett,H,Colorado,RMC,Bob Evans,L,10,16
+1916-10-14,Wyoming,RMC,John Corbett,H,Denver,RMC,John Fike,L,10,19
+1916-10-21,Wyoming,RMC,John Corbett,A,Utah State,RMC,Jack Watson,W,23,10
+1916-10-28,Wyoming,RMC,John Corbett,H,Colorado Mines,RMC,F.G. Carter,L,7,30
+1916-10-07,Yale,Ind,Tad Jones,H,Virginia,Ind,Peyton Evans,W,61,3
+1916-10-14,Yale,Ind,Tad Jones,H,Lehigh,Ind,Tom Keady,W,12,0
+1916-10-20,Yale,Ind,Tad Jones,H,Virginia Tech,Ind,Jack Ingersoll,W,19,0
+1916-10-28,Yale,Ind,Tad Jones,H,Washington & Jefferson,Ind,Sol Metzger,W,36,14
+1916-11-04,Yale,Ind,Tad Jones,H,Colgate,Ind,Laurence Bankart,W,7,3
+1916-11-11,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,L,6,21
+1916-11-18,Yale,Ind,Tad Jones,A,Princeton,Ind,John Rush,W,10,0
+1916-11-25,Yale,Ind,Tad Jones,H,Harvard,Ind,Percy Haughton,W,6,3
+1916-10-14,Georgia Tech,Ind,John Heisman,H,Davidson,Ind,William Fetzer,W,9,0
+1916-10-21,Georgia Tech,Ind,John Heisman,H,North Carolina,Ind,Thomas Campbell,W,10,6
+1916-10-28,Georgia Tech,Ind,John Heisman,H,Washington & Lee,Ind,Jogger Elcock,T,7,7
+1916-11-04,Georgia Tech,Ind,John Heisman,H,Tulane,Ind,Clark Shaughnessy,W,45,0
+1916-11-11,Georgia Tech,Ind,John Heisman,H,Alabama,Ind,Thomas Kelley,W,13,0
+1916-11-18,Georgia Tech,Ind,John Heisman,A,Georgia,Ind,W.A. Cunningham,W,21,0
+1916-11-30,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,W,33,7
+1916-09-30,Wake Forest,Ind,G.M. Billings,A,North Carolina,Ind,Thomas Campbell,L,0,20
+1916-10-19,Wake Forest,Ind,G.M. Billings,H,North Carolina State,Ind,,L,0,6
+1916-11-04,Wake Forest,Ind,G.M. Billings,A,South Carolina,Ind,Rice Warren,W,33,7
+1916-11-11,Wake Forest,Ind,G.M. Billings,A,Virginia Tech,Ind,Jack Ingersoll,L,0,52
+1916-11-18,Wake Forest,Ind,G.M. Billings,H,Wofford,Ind,Leslie Moser,W,41,0
+1916-10-06,Mississippi State,Ind,E.C. Hayes,N,Mississippi College,Ind,Charles Noble,L,6,13
+1916-10-28,Mississippi State,Ind,E.C. Hayes,A,Auburn,Ind,Mike Donahue,L,3,7
+1916-11-03,Mississippi State,Ind,E.C. Hayes,N,Ole Miss,Ind,Fred Robbins,W,36,0
+1916-11-11,Mississippi State,Ind,E.C. Hayes,H,LSU,Ind,Dana Bible,L,3,13
+1916-11-18,Mississippi State,Ind,E.C. Hayes,A,Kentucky,Ind,J.J. Tigert,L,3,13
+1916-11-30,Mississippi State,Ind,E.C. Hayes,N,Arkansas,SWC,T.T. McConnell,W,20,7
+1916-10-28,Virginia Military Institute,Ind,Frank Gorton,A,North Carolina,Ind,Thomas Campbell,L,13,38
+1916-11-11,Virginia Military Institute,Ind,Frank Gorton,H,Clemson,Ind,Wayne Hart,W,37,7
+1916-11-18,Virginia Military Institute,Ind,Frank Gorton,A,Virginia,Ind,Peyton Evans,L,7,20
+1916-11-30,Virginia Military Institute,Ind,Frank Gorton,N,Virginia Tech,Ind,Jack Ingersoll,L,14,23
+1916-10-14,Kansas State,MVIAA,Zora Clevenger,A,Nebraska,MVIAA,Edward Stewart,L,0,14
+1916-10-28,Kansas State,MVIAA,Zora Clevenger,A,Kansas,MVIAA,Herman Olcott,T,0,0
+1916-11-11,Kansas State,MVIAA,Zora Clevenger,H,Missouri,MVIAA,Henry Schulte,W,7,6
+1916-11-17,Kansas State,MVIAA,Zora Clevenger,A,Oklahoma,SWC,Bennie Owen,W,14,13
+1916-10-07,Army,Ind,Charles Daly,H,Washington & Lee,Ind,Jogger Elcock,W,14,7
+1916-11-04,Army,Ind,Charles Daly,H,Notre Dame,Ind,Jesse Harper,W,30,10
+1916-11-25,Army,Ind,Charles Daly,H,Navy,Ind,Jonas Ingram,W,15,7
+1916-10-21,Dartmouth,Ind,Frank Cavanaugh,A,Georgetown,Ind,,L,0,10
+1916-10-28,Dartmouth,Ind,Frank Cavanaugh,A,Princeton,Ind,John Rush,L,3,7
+1916-11-04,Dartmouth,Ind,Frank Cavanaugh,N,Syracuse,Ind,William Hollenback,W,15,10
+1916-11-11,Dartmouth,Ind,Frank Cavanaugh,A,Pennsylvania,Ind,,T,7,7
+1916-11-18,Dartmouth,Ind,Frank Cavanaugh,H,West Virginia,Ind,Mont McIntire,T,7,7
+1916-10-20,Auburn,Ind,Mike Donahue,H,Clemson,Ind,Wayne Hart,W,28,0
+1916-10-28,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,E.C. Hayes,W,7,3
+1916-11-04,Auburn,Ind,Mike Donahue,N,Georgia,Ind,W.A. Cunningham,W,3,0
+1916-11-11,Auburn,Ind,Mike Donahue,A,Florida,Ind,,W,20,0
+1916-11-18,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Dan McGugin,L,9,20
+1916-11-30,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,L,7,33
+1916-10-21,Northwestern,Western,Fred Murphy,A,Chicago,Western,Amos Alonzo Stagg,W,10,0
+1916-10-28,Northwestern,Western,Fred Murphy,H,Drake,MVIAA,Ralph Glaze,W,40,6
+1916-11-04,Northwestern,Western,Fred Murphy,A,Indiana,Western,Jumbo Stiehm,W,7,0
+1916-11-10,Northwestern,Western,Fred Murphy,H,Iowa,Western,Howard Jones,W,20,13
+1916-11-18,Northwestern,Western,Fred Murphy,H,Purdue,Western,Cleo O'Donnell,W,38,6
+1916-11-25,Northwestern,Western,Fred Murphy,A,Ohio State,Western,John Wilce,L,3,23
+1916-10-07,Kansas,MVIAA,Herman Olcott,A,Illinois,Western,Robert Zuppke,L,0,30
+1916-10-14,Kansas,MVIAA,Herman Olcott,A,Iowa State,MVIAA,,L,0,13
+1916-10-28,Kansas,MVIAA,Herman Olcott,H,Kansas State,MVIAA,Zora Clevenger,T,0,0
+1916-11-04,Kansas,MVIAA,Herman Olcott,H,Oklahoma,SWC,Bennie Owen,W,21,13
+1916-11-18,Kansas,MVIAA,Herman Olcott,A,Nebraska,MVIAA,Edward Stewart,W,7,3
+1916-11-30,Kansas,MVIAA,Herman Olcott,H,Missouri,MVIAA,Henry Schulte,L,0,13
+1916-10-14,LSU,Ind,Dana Bible,A,Texas A&M,SWC,E.H. Harlan,W,13,0
+1916-10-21,LSU,Ind,Dana Bible,H,Mississippi College,Ind,Charles Noble,W,50,7
+1916-10-28,LSU,Ind,Dana Bible,H,Sewanee,Ind,Harris Cope,L,0,7
+1916-11-05,LSU,Ind,Dana Bible,N,Arkansas,SWC,T.T. McConnell,W,17,7
+1916-11-11,LSU,Ind,Dana Bible,A,Mississippi State,Ind,E.C. Hayes,W,13,3
+1916-11-18,LSU,Ind,Dana Bible,H,Ole Miss,Ind,Fred Robbins,W,41,0
+1916-11-24,LSU,Ind,Dana Bible,H,Rice,SWC,Phillip Arbuckle,T,7,7
+1916-11-30,LSU,Ind,Dana Bible,A,Tulane,Ind,Clark Shaughnessy,T,14,14
+1916-09-30,Pennsylvania,Ind,,H,West Virginia,Ind,Mont McIntire,W,3,0
+1916-10-21,Pennsylvania,Ind,,H,Penn State,Ind,Dick Harlow,W,15,0
+1916-10-28,Pennsylvania,Ind,,A,Pitt,Ind,Pop Warner,L,0,20
+1916-11-04,Pennsylvania,Ind,,H,Lafayette,Ind,Wilmer Crowell,W,19,0
+1916-11-11,Pennsylvania,Ind,,H,Dartmouth,Ind,Frank Cavanaugh,T,7,7
+1916-11-18,Pennsylvania,Ind,,A,Michigan,Ind,Fielding Yost,W,10,7
+1916-11-25,Pennsylvania,Ind,,H,West Virginia Wesleyan,Ind,,W,16,0
+1916-11-30,Pennsylvania,Ind,,H,Cornell,Ind,,W,23,3
+1917-01-01,Pennsylvania,Ind,,N,Oregon,PCC,Hugo Bezdek,L,0,14
+1916-10-21,Iowa,Western,Howard Jones,H,Purdue,Western,Cleo O'Donnell,W,24,6
+1916-11-04,Iowa,Western,Howard Jones,A,Minnesota,Western,Henry Williams,L,0,67
+1916-11-10,Iowa,Western,Howard Jones,A,Northwestern,Western,Fred Murphy,L,13,20
+1916-11-18,Iowa,Western,Howard Jones,A,Iowa State,MVIAA,,W,19,16
+1916-11-25,Iowa,Western,Howard Jones,H,Nebraska,MVIAA,Edward Stewart,L,17,34
+1916-09-30,Texas,SWC,Conrad Van Gent,H,SMU,Ind,Ray Morrison,W,74,0
+1916-10-07,Texas,SWC,Conrad Van Gent,H,Rice,SWC,Phillip Arbuckle,W,16,2
+1916-10-13,Texas,SWC,Conrad Van Gent,H,Oklahoma State,SWC,John Griffith,W,14,6
+1916-10-21,Texas,SWC,Conrad Van Gent,N,Oklahoma,SWC,Bennie Owen,W,21,7
+1916-10-28,Texas,SWC,Conrad Van Gent,H,Baylor,SWC,Bubs Mosley,L,3,7
+1916-11-04,Texas,SWC,Conrad Van Gent,A,Missouri,MVIAA,Henry Schulte,L,0,3
+1916-11-14,Texas,SWC,Conrad Van Gent,H,Arkansas,SWC,T.T. McConnell,W,52,0
+1916-11-21,Texas,SWC,Conrad Van Gent,H,Southwestern (TX),SWC,,W,17,3
+1916-11-30,Texas,SWC,Conrad Van Gent,H,Texas A&M,SWC,E.H. Harlan,W,21,7
+1916-10-14,Texas Christian,Ind,Milton Daniel,A,SMU,Ind,Ray Morrison,W,48,3
+1916-10-27,Texas Christian,Ind,Milton Daniel,H,Rice,SWC,Phillip Arbuckle,T,7,7
+1916-11-11,Texas Christian,Ind,Milton Daniel,A,Southwestern (TX),SWC,,L,13,41
+1916-11-30,Texas Christian,Ind,Milton Daniel,H,Baylor,SWC,Bubs Mosley,L,14,32
+1916-10-21,Oregon,PCC,Hugo Bezdek,A,California,PCC,Andy Smith,W,39,14
+1916-11-04,Oregon,PCC,Hugo Bezdek,H,Washington,PCC,Gilmour Dobie,T,0,0
+1916-11-25,Oregon,PCC,Hugo Bezdek,A,Oregon State,PCC,Joseph Pipal,W,27,0
+1917-01-01,Oregon,PCC,Hugo Bezdek,N,Pennsylvania,Ind,,W,14,0
+1916-10-28,Brown,Ind,Edward Robinson,H,Rutgers,Ind,George Sanford,W,21,3
+1916-11-11,Brown,Ind,Edward Robinson,A,Yale,Ind,Tad Jones,W,21,6
+1916-11-18,Brown,Ind,Edward Robinson,A,Harvard,Ind,Percy Haughton,W,21,0
+1916-11-25,Brown,Ind,Edward Robinson,H,Colgate,Ind,Laurence Bankart,L,0,28
+1916-10-14,Tennessee,Ind,John Bender,A,Clemson,Ind,Wayne Hart,W,14,0
+1916-10-21,Tennessee,Ind,John Bender,H,South Carolina,Ind,Rice Warren,W,26,0
+1916-10-28,Tennessee,Ind,John Bender,A,Florida,Ind,,W,24,0
+1916-11-11,Tennessee,Ind,John Bender,H,Vanderbilt,Ind,Dan McGugin,W,10,6
+1916-11-18,Tennessee,Ind,John Bender,N,Sewanee,Ind,Harris Cope,W,17,0
+1916-11-30,Tennessee,Ind,John Bender,H,Kentucky,Ind,J.J. Tigert,T,0,0
+1916-10-14,Lehigh,Ind,Tom Keady,A,Yale,Ind,Tad Jones,L,0,12
+1916-11-11,Lehigh,Ind,Tom Keady,H,Penn State,Ind,Dick Harlow,L,7,10
+1916-11-25,Lehigh,Ind,Tom Keady,A,Lafayette,Ind,Wilmer Crowell,W,16,0
+1916-10-21,Oregon State,PCC,Joseph Pipal,H,Nebraska,MVIAA,Edward Stewart,L,7,17
+1916-11-11,Oregon State,PCC,Joseph Pipal,A,Washington,PCC,Gilmour Dobie,L,0,35
+1916-11-25,Oregon State,PCC,Joseph Pipal,H,Oregon,PCC,Hugo Bezdek,L,0,27
+1916-10-14,Alabama,Ind,Thomas Kelley,H,Mississippi College,Ind,Charles Noble,W,13,7
+1916-10-21,Alabama,Ind,Thomas Kelley,A,Florida,Ind,,W,16,0
+1916-10-28,Alabama,Ind,Thomas Kelley,H,Ole Miss,Ind,Fred Robbins,W,27,0
+1916-11-04,Alabama,Ind,Thomas Kelley,H,Sewanee,Ind,Harris Cope,W,7,6
+1916-11-11,Alabama,Ind,Thomas Kelley,A,Georgia Tech,Ind,John Heisman,L,0,13
+1916-11-18,Alabama,Ind,Thomas Kelley,A,Tulane,Ind,Clark Shaughnessy,L,0,33
+1916-11-30,Alabama,Ind,Thomas Kelley,H,Georgia,Ind,W.A. Cunningham,L,0,3
+1916-10-21,Purdue,Western,Cleo O'Donnell,A,Iowa,Western,Howard Jones,L,6,24
+1916-10-28,Purdue,Western,Cleo O'Donnell,H,Illinois,Western,Robert Zuppke,L,7,14
+1916-11-04,Purdue,Western,Cleo O'Donnell,A,Chicago,Western,Amos Alonzo Stagg,L,7,16
+1916-11-18,Purdue,Western,Cleo O'Donnell,A,Northwestern,Western,Fred Murphy,L,6,38
+1916-11-25,Purdue,Western,Cleo O'Donnell,H,Indiana,Western,Jumbo Stiehm,T,0,0
+1916-10-07,Nebraska,MVIAA,Edward Stewart,H,Drake,MVIAA,Ralph Glaze,W,53,0
+1916-10-14,Nebraska,MVIAA,Edward Stewart,H,Kansas State,MVIAA,Zora Clevenger,W,14,0
+1916-10-21,Nebraska,MVIAA,Edward Stewart,A,Oregon State,PCC,Joseph Pipal,W,17,7
+1916-11-04,Nebraska,MVIAA,Edward Stewart,H,Iowa State,MVIAA,,W,3,0
+1916-11-18,Nebraska,MVIAA,Edward Stewart,H,Kansas,MVIAA,Herman Olcott,L,3,7
+1916-11-25,Nebraska,MVIAA,Edward Stewart,A,Iowa,Western,Howard Jones,W,34,17
+1916-11-30,Nebraska,MVIAA,Edward Stewart,H,Notre Dame,Ind,Jesse Harper,L,0,20
+1916-09-30,West Virginia,Ind,Mont McIntire,A,Pennsylvania,Ind,,L,0,3
+1916-10-14,West Virginia,Ind,Mont McIntire,N,Virginia Tech,Ind,Jack Ingersoll,W,20,0
+1916-10-21,West Virginia,Ind,Mont McIntire,A,Navy,Ind,Jonas Ingram,L,7,12
+1916-11-11,West Virginia,Ind,Mont McIntire,A,Rutgers,Ind,George Sanford,T,0,0
+1916-11-18,West Virginia,Ind,Mont McIntire,A,Dartmouth,Ind,Frank Cavanaugh,T,7,7
+1916-11-30,West Virginia,Ind,Mont McIntire,N,West Virginia Wesleyan,Ind,,W,54,7
+1916-10-14,Harvard,Ind,Percy Haughton,H,North Carolina,Ind,Thomas Campbell,W,21,0
+1916-10-28,Harvard,Ind,Percy Haughton,H,Cornell,Ind,,W,23,0
+1916-11-04,Harvard,Ind,Percy Haughton,H,Virginia,Ind,Peyton Evans,W,51,0
+1916-11-11,Harvard,Ind,Percy Haughton,H,Princeton,Ind,John Rush,W,3,0
+1916-11-18,Harvard,Ind,Percy Haughton,H,Brown,Ind,Edward Robinson,L,0,21
+1916-11-25,Harvard,Ind,Percy Haughton,A,Yale,Ind,Tad Jones,L,3,6
+1916-10-13,Oklahoma State,SWC,John Griffith,A,Texas,SWC,Conrad Van Gent,L,6,14
+1916-11-18,Oklahoma State,SWC,John Griffith,H,Baylor,SWC,Bubs Mosley,L,7,10
+1916-11-30,Oklahoma State,SWC,John Griffith,N,Oklahoma,SWC,Bennie Owen,L,7,41
+1916-10-07,Colorado,RMC,Bob Evans,A,Wyoming,RMC,John Corbett,W,16,10
+1916-10-21,Colorado,RMC,Bob Evans,H,Denver,RMC,John Fike,L,0,7
+1916-10-28,Colorado,RMC,Bob Evans,A,Utah,RMC,Nelson Norgren,L,0,28
+1916-11-11,Colorado,RMC,Bob Evans,A,Colorado College,RMC,C.J. Rothget,L,0,58
+1916-11-18,Colorado,RMC,Bob Evans,A,Colorado Mines,RMC,F.G. Carter,L,10,27
+1916-11-30,Colorado,RMC,Bob Evans,H,Colorado State,RMC,Harry Hughes,L,14,32
+1916-09-30,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Corbett,W,40,0
+1916-10-14,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,Jack Watson,W,53,0
+1916-10-28,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,C.J. Rothget,W,14,12
+1916-11-04,Colorado State,RMC,Harry Hughes,A,Denver,RMC,John Fike,W,21,13
+1916-11-11,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,F.G. Carter,T,0,0
+1916-11-18,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Nelson Norgren,W,12,6
+1916-11-30,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Bob Evans,W,32,14
+1916-10-07,Rice,SWC,Phillip Arbuckle,A,Texas,SWC,Conrad Van Gent,L,2,16
+1916-10-21,Rice,SWC,Phillip Arbuckle,H,Southwestern (TX),SWC,,W,54,0
+1916-10-27,Rice,SWC,Phillip Arbuckle,A,Texas Christian,Ind,Milton Daniel,T,7,7
+1916-11-04,Rice,SWC,Phillip Arbuckle,H,Texas A&M,SWC,E.H. Harlan,W,20,0
+1916-11-11,Rice,SWC,Phillip Arbuckle,H,Tulane,Ind,Clark Shaughnessy,W,23,13
+1916-11-17,Rice,SWC,Phillip Arbuckle,H,SMU,Ind,Ray Morrison,W,146,3
+1916-11-24,Rice,SWC,Phillip Arbuckle,A,LSU,Ind,Dana Bible,T,7,7
+1916-09-30,Texas A&M,SWC,E.H. Harlan,H,Southwestern (TX),SWC,,W,6,0
+1916-10-14,Texas A&M,SWC,E.H. Harlan,H,LSU,Ind,Dana Bible,L,0,13
+1916-10-21,Texas A&M,SWC,E.H. Harlan,H,SMU,Ind,Ray Morrison,W,62,0
+1916-10-28,Texas A&M,SWC,E.H. Harlan,H,Haskell,Ind,,W,13,6
+1916-11-04,Texas A&M,SWC,E.H. Harlan,A,Rice,SWC,Phillip Arbuckle,L,0,20
+1916-11-11,Texas A&M,SWC,E.H. Harlan,A,Baylor,SWC,Bubs Mosley,W,3,0
+1916-11-30,Texas A&M,SWC,E.H. Harlan,A,Texas,SWC,Conrad Van Gent,L,7,21
+1916-09-30,Davidson,Ind,William Fetzer,A,Virginia,Ind,Peyton Evans,L,0,14
+1916-10-07,Davidson,Ind,William Fetzer,H,North Carolina State,Ind,,W,16,0
+1916-10-14,Davidson,Ind,William Fetzer,A,Georgia Tech,Ind,John Heisman,L,0,9
+1916-10-21,Davidson,Ind,William Fetzer,H,Citadel,Ind,Harry O'Brien,T,7,7
+1916-11-04,Davidson,Ind,William Fetzer,A,Furman,Ind,,W,46,14
+1916-11-11,Davidson,Ind,William Fetzer,N,North Carolina,Ind,Thomas Campbell,L,6,10
+1916-11-25,Davidson,Ind,William Fetzer,A,Wofford,Ind,Leslie Moser,W,32,0
+1916-11-30,Davidson,Ind,William Fetzer,N,Clemson,Ind,Wayne Hart,W,33,0
+1916-10-14,Washington (MO),MVIAA,W.P. Edmunds,A,Missouri,MVIAA,Henry Schulte,L,0,13
+1916-10-21,Washington (MO),MVIAA,W.P. Edmunds,H,Drake,MVIAA,Ralph Glaze,L,0,13
+1916-11-04,Washington (MO),MVIAA,W.P. Edmunds,A,Michigan,Ind,Fielding Yost,L,7,66
+1916-10-14,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,Jumbo Stiehm,W,22,0
+1916-10-21,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Fred Murphy,L,0,10
+1916-10-28,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,Paul Withington,L,7,30
+1916-11-04,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Cleo O'Donnell,W,16,7
+1916-11-18,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,W,20,7
+1916-11-25,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,Henry Williams,L,0,49
+1916-10-14,Colgate,Ind,Laurence Bankart,A,Illinois,Western,Robert Zuppke,W,15,3
+1916-11-04,Colgate,Ind,Laurence Bankart,A,Yale,Ind,Tad Jones,L,3,7
+1916-11-18,Colgate,Ind,Laurence Bankart,A,Syracuse,Ind,William Hollenback,W,15,0
+1916-11-25,Colgate,Ind,Laurence Bankart,A,Brown,Ind,Edward Robinson,W,28,0
+1916-11-04,Minnesota,Western,Henry Williams,H,Iowa,Western,Howard Jones,W,67,0
+1916-11-11,Minnesota,Western,Henry Williams,H,Illinois,Western,Robert Zuppke,L,9,14
+1916-11-18,Minnesota,Western,Henry Williams,H,Wisconsin,Western,Paul Withington,W,54,0
+1916-11-25,Minnesota,Western,Henry Williams,A,Chicago,Western,Amos Alonzo Stagg,W,49,0
+1916-10-21,Ole Miss,Ind,Fred Robbins,A,Vanderbilt,Ind,Dan McGugin,L,0,35
+1916-10-28,Ole Miss,Ind,Fred Robbins,A,Alabama,Ind,Thomas Kelley,L,0,27
+1916-11-03,Ole Miss,Ind,Fred Robbins,N,Mississippi State,Ind,E.C. Hayes,L,0,36
+1916-11-18,Ole Miss,Ind,Fred Robbins,A,LSU,Ind,Dana Bible,L,0,41
+1916-11-30,Ole Miss,Ind,Fred Robbins,N,Mississippi College,Ind,Charles Noble,L,14,36
+1916-10-21,Sewanee,Ind,Harris Cope,A,Kentucky,Ind,J.J. Tigert,T,0,0
+1916-10-28,Sewanee,Ind,Harris Cope,A,LSU,Ind,Dana Bible,W,7,0
+1916-11-04,Sewanee,Ind,Harris Cope,A,Alabama,Ind,Thomas Kelley,L,6,7
+1916-11-18,Sewanee,Ind,Harris Cope,N,Tennessee,Ind,John Bender,L,0,17
+1916-11-25,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,T,0,0
+1916-10-07,Navy,Ind,Jonas Ingram,H,Georgetown,Ind,,W,13,7
+1916-10-14,Navy,Ind,Jonas Ingram,H,Pitt,Ind,Pop Warner,L,19,20
+1916-10-21,Navy,Ind,Jonas Ingram,H,West Virginia,Ind,Mont McIntire,W,12,7
+1916-10-28,Navy,Ind,Jonas Ingram,H,Georgia,Ind,W.A. Cunningham,W,27,3
+1916-11-04,Navy,Ind,Jonas Ingram,H,Washington & Lee,Ind,Jogger Elcock,L,0,10
+1916-11-11,Navy,Ind,Jonas Ingram,H,North Carolina State,Ind,,W,50,0
+1916-11-25,Navy,Ind,Jonas Ingram,A,Army,Ind,Charles Daly,L,7,15
+1916-10-21,Lafayette,Ind,Wilmer Crowell,A,Princeton,Ind,John Rush,L,0,33
+1916-11-04,Lafayette,Ind,Wilmer Crowell,A,Pennsylvania,Ind,,L,0,19
+1916-11-17,Lafayette,Ind,Wilmer Crowell,A,Penn State,Ind,Dick Harlow,L,0,40
+1916-11-25,Lafayette,Ind,Wilmer Crowell,H,Lehigh,Ind,Tom Keady,L,0,16
+1916-10-27,Tulane,Ind,Clark Shaughnessy,A,Mississippi College,Ind,Charles Noble,W,13,3
+1916-11-04,Tulane,Ind,Clark Shaughnessy,A,Georgia Tech,Ind,John Heisman,L,0,45
+1916-11-11,Tulane,Ind,Clark Shaughnessy,A,Rice,SWC,Phillip Arbuckle,L,13,23
+1916-11-18,Tulane,Ind,Clark Shaughnessy,H,Alabama,Ind,Thomas Kelley,W,33,0
+1916-11-30,Tulane,Ind,Clark Shaughnessy,H,LSU,Ind,Dana Bible,T,14,14
+1916-12-09,Tulane,Ind,Clark Shaughnessy,H,Georgetown,Ind,,L,0,61
+1916-10-21,Cornell,Ind,,H,Bucknell,Ind,George Johnson,W,19,0
+1916-10-28,Cornell,Ind,,A,Harvard,Ind,Percy Haughton,L,0,23
+1916-11-11,Cornell,Ind,,H,Michigan,Ind,Fielding Yost,W,23,20
+1916-11-30,Cornell,Ind,,A,Pennsylvania,Ind,,L,3,23
+1916-10-21,Ohio State,Western,John Wilce,A,Illinois,Western,Robert Zuppke,W,7,6
+1916-11-04,Ohio State,Western,John Wilce,H,Wisconsin,Western,Paul Withington,W,14,13
+1916-11-11,Ohio State,Western,John Wilce,H,Indiana,Western,Jumbo Stiehm,W,46,7
+1916-11-25,Ohio State,Western,John Wilce,H,Northwestern,Western,Fred Murphy,W,23,3
+1916-10-07,Drake,MVIAA,Ralph Glaze,A,Nebraska,MVIAA,Edward Stewart,L,0,53
+1916-10-21,Drake,MVIAA,Ralph Glaze,A,Washington (MO),MVIAA,W.P. Edmunds,W,13,0
+1916-10-28,Drake,MVIAA,Ralph Glaze,A,Northwestern,Western,Fred Murphy,L,6,40
+1916-11-18,Drake,MVIAA,Ralph Glaze,A,Missouri,MVIAA,Henry Schulte,L,0,14
+1916-11-30,Drake,MVIAA,Ralph Glaze,A,Iowa State,MVIAA,,L,14,33

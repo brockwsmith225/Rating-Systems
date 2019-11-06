@@ -1,0 +1,325 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1906-09-29,North Carolina,Ind,W.S. Keinholz,N,Davidson,Ind,Ralph Graham,T,0,0
+1906-10-06,North Carolina,Ind,W.S. Keinholz,A,Pennsylvania,Ind,,L,0,11
+1906-10-20,North Carolina,Ind,W.S. Keinholz,N,Lafayette,Ind,,L,6,28
+1906-10-27,North Carolina,Ind,W.S. Keinholz,A,Virginia Tech,Ind,C.P. Miles,T,0,0
+1906-11-17,North Carolina,Ind,W.S. Keinholz,A,Navy,Ind,Paul Dashiell,L,0,40
+1906-10-06,Dickinson,Ind,J. Williams,A,Navy,Ind,Paul Dashiell,T,0,0
+1906-10-27,Dickinson,Ind,J. Williams,A,Washington & Jefferson,Ind,Frank Piekarski,L,0,2
+1906-11-03,Dickinson,Ind,J. Williams,A,Lehigh,Ind,,T,0,0
+1906-11-17,Dickinson,Ind,J. Williams,N,Penn State,Ind,Tom Fennell,L,0,6
+1906-11-29,Dickinson,Ind,J. Williams,A,Lafayette,Ind,,L,6,26
+1906-10-27,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,8,33
+1906-11-24,Indiana,Western,James Sheldon,A,Minnesota,Western,Henry Williams,L,6,8
+1906-10-06,Yale,Ind,Foster Rockwell,H,Syracuse,Ind,,W,51,0
+1906-10-13,Yale,Ind,Foster Rockwell,H,Holy Cross,Ind,George King,W,17,0
+1906-10-20,Yale,Ind,Foster Rockwell,H,Penn State,Ind,Tom Fennell,W,10,0
+1906-10-27,Yale,Ind,Foster Rockwell,H,Amherst,Ind,Harry Smith,W,12,0
+1906-11-03,Yale,Ind,Foster Rockwell,A,Army,Ind,Henry Smither,W,10,6
+1906-11-10,Yale,Ind,Foster Rockwell,H,Brown,Ind,Edward Robinson,W,5,0
+1906-11-17,Yale,Ind,Foster Rockwell,A,Princeton,Ind,,T,0,0
+1906-11-24,Yale,Ind,Foster Rockwell,H,Harvard,Ind,William Reid,W,6,0
+1906-10-20,Iowa State,Ind,,A,Nebraska,Ind,Amos Foster,W,14,2
+1906-10-27,Iowa State,Ind,,A,Minnesota,Western,Henry Williams,L,4,22
+1906-11-24,Iowa State,Ind,,A,Iowa,Western,Mark Catlin,W,2,0
+1906-11-29,Iowa State,Ind,,A,Drake,Ind,,W,7,0
+1906-09-22,Carlisle,Ind,Bemus Pierce,H,Villanova,Ind,Frederick Crolius,W,6,0
+1906-10-06,Carlisle,Ind,Bemus Pierce,N,Penn State,Ind,Tom Fennell,L,0,4
+1906-10-20,Carlisle,Ind,Bemus Pierce,A,Pitt,Ind,Edgar Wingard,W,22,0
+1906-10-27,Carlisle,Ind,Bemus Pierce,A,Pennsylvania,Ind,,W,24,6
+1906-11-03,Carlisle,Ind,Bemus Pierce,A,Syracuse,Ind,,W,9,4
+1906-11-10,Carlisle,Ind,Bemus Pierce,A,Harvard,Ind,William Reid,L,0,5
+1906-11-17,Carlisle,Ind,Bemus Pierce,A,Minnesota,Western,Henry Williams,W,17,0
+1906-11-24,Carlisle,Ind,Bemus Pierce,A,Vanderbilt,Ind,Dan McGugin,L,0,4
+1906-10-13,Utah,Ind,Joseph Maddock,A,Colorado College,Ind,J.R. Richards,L,0,6
+1906-10-20,Utah,Ind,Joseph Maddock,A,Denver,Ind,John Koehler,W,24,0
+1906-11-17,Utah,Ind,Joseph Maddock,H,Colorado,Ind,Frank Castleman,W,10,0
+1906-09-29,Georgia Tech,Ind,John Heisman,H,Maryville (TN),Ind,Reed Dickson,T,6,6
+1906-10-20,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,J.J. Quill,L,0,16
+1906-10-27,Georgia Tech,Ind,John Heisman,H,Davidson,Ind,Ralph Graham,W,4,0
+1906-11-03,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,W,11,0
+1906-11-10,Georgia Tech,Ind,John Heisman,A,Georgia,Ind,W.S. Whitney,W,17,0
+1906-11-17,Georgia Tech,Ind,John Heisman,H,Vanderbilt,Ind,Dan McGugin,L,6,37
+1906-11-29,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Bob Williams,L,0,10
+1906-10-27,Mississippi State,Ind,Dan Martin,H,LSU,Ind,,T,0,0
+1906-11-03,Mississippi State,Ind,Dan Martin,H,Alabama,Ind,J.W.H. Pollard,L,4,16
+1906-11-29,Mississippi State,Ind,Dan Martin,N,Ole Miss,Ind,T.S. Hammond,L,5,29
+1906-09-22,Villanova,Ind,Frederick Crolius,A,Carlisle,Ind,Bemus Pierce,L,0,6
+1906-09-29,Villanova,Ind,Frederick Crolius,A,Princeton,Ind,,L,0,24
+1906-10-06,Villanova,Ind,Frederick Crolius,A,Swarthmore,Ind,George Brooke,L,0,4
+1906-11-24,Villanova,Ind,Frederick Crolius,A,Pennsylvania,Ind,,L,12,22
+1906-10-06,Syracuse,Ind,,A,Yale,Ind,Foster Rockwell,L,0,51
+1906-10-20,Syracuse,Ind,,H,Colgate,Ind,William Warner,L,0,5
+1906-11-03,Syracuse,Ind,,H,Carlisle,Ind,Bemus Pierce,L,4,9
+1906-11-17,Syracuse,Ind,,A,Lafayette,Ind,,W,12,4
+1906-11-24,Syracuse,Ind,,A,Army,Ind,Henry Smither,W,4,0
+1906-11-02,Haskell,Ind,,A,Drake,Ind,,L,0,10
+1906-11-09,Haskell,Ind,,A,Texas,Ind,H.R. Schenker,L,0,28
+1906-11-24,Haskell,Ind,,A,Texas A&M,Ind,Walter Bachman,L,6,32
+1906-10-13,Army,Ind,Henry Smither,H,Colgate,Ind,William Warner,T,0,0
+1906-10-20,Army,Ind,Henry Smither,H,Williams,Ind,,W,17,0
+1906-10-27,Army,Ind,Henry Smither,H,Harvard,Ind,William Reid,L,0,5
+1906-11-03,Army,Ind,Henry Smither,H,Yale,Ind,Foster Rockwell,L,6,10
+1906-11-10,Army,Ind,Henry Smither,H,Princeton,Ind,,L,0,8
+1906-11-24,Army,Ind,Henry Smither,H,Syracuse,Ind,,L,0,4
+1906-12-01,Army,Ind,Henry Smither,N,Navy,Ind,Paul Dashiell,L,0,10
+1906-10-06,Penn State,Ind,Tom Fennell,N,Carlisle,Ind,Bemus Pierce,W,4,0
+1906-10-20,Penn State,Ind,Tom Fennell,A,Yale,Ind,Foster Rockwell,L,0,10
+1906-11-03,Penn State,Ind,Tom Fennell,A,Navy,Ind,Paul Dashiell,W,5,0
+1906-11-17,Penn State,Ind,Tom Fennell,N,Dickinson,Ind,J. Williams,W,6,0
+1906-11-29,Penn State,Ind,Tom Fennell,A,Pitt,Ind,Edgar Wingard,W,6,0
+1906-10-06,Dartmouth,Ind,Fred Folsom,H,Holy Cross,Ind,George King,W,16,0
+1906-10-20,Dartmouth,Ind,Fred Folsom,H,Massachusetts,Ind,George O'Hearn,W,26,0
+1906-10-27,Dartmouth,Ind,Fred Folsom,A,Williams,Ind,,T,0,0
+1906-11-03,Dartmouth,Ind,Fred Folsom,A,Princeton,Ind,,L,0,42
+1906-11-10,Dartmouth,Ind,Fred Folsom,A,Amherst,Ind,Harry Smith,W,4,0
+1906-11-17,Dartmouth,Ind,Fred Folsom,A,Harvard,Ind,William Reid,L,9,22
+1906-11-24,Dartmouth,Ind,Fred Folsom,N,Brown,Ind,Edward Robinson,L,0,23
+1906-09-29,Princeton,Ind,,H,Villanova,Ind,Frederick Crolius,W,24,0
+1906-10-06,Princeton,Ind,,H,Washington & Jefferson,Ind,Frank Piekarski,W,6,0
+1906-10-10,Princeton,Ind,,H,Lehigh,Ind,,W,52,0
+1906-10-13,Princeton,Ind,,A,Navy,Ind,Paul Dashiell,W,5,0
+1906-10-20,Princeton,Ind,,H,Bucknell,Ind,George Hoskins,W,32,4
+1906-10-27,Princeton,Ind,,N,Cornell,Ind,Pop Warner,W,14,5
+1906-11-03,Princeton,Ind,,H,Dartmouth,Ind,Fred Folsom,W,42,0
+1906-11-10,Princeton,Ind,,A,Army,Ind,Henry Smither,W,8,0
+1906-11-17,Princeton,Ind,,H,Yale,Ind,Foster Rockwell,T,0,0
+1906-10-13,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,T.S. Hammond,W,29,0
+1906-10-20,Vanderbilt,Ind,Dan McGugin,H,Alabama,Ind,J.W.H. Pollard,W,78,0
+1906-10-27,Vanderbilt,Ind,Dan McGugin,H,Texas,Ind,H.R. Schenker,W,45,0
+1906-11-03,Vanderbilt,Ind,Dan McGugin,A,Michigan,Western,Fielding Yost,L,4,10
+1906-11-17,Vanderbilt,Ind,Dan McGugin,A,Georgia Tech,Ind,John Heisman,W,37,6
+1906-11-24,Vanderbilt,Ind,Dan McGugin,H,Carlisle,Ind,Bemus Pierce,W,4,0
+1906-11-29,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,J.J. Quill,W,20,0
+1906-10-13,Colorado College,Ind,J.R. Richards,H,Utah,Ind,Joseph Maddock,W,6,0
+1906-11-03,Colorado College,Ind,J.R. Richards,A,Colorado,Ind,Frank Castleman,W,6,0
+1906-11-17,Colorado College,Ind,J.R. Richards,N,Colorado Mines,Ind,,T,4,4
+1906-11-29,Colorado College,Ind,J.R. Richards,H,Denver,Ind,John Koehler,L,6,7
+1906-10-08,Auburn,Ind,Mike Donahue,H,Maryville (TN),Ind,Reed Dickson,T,0,0
+1906-10-26,Auburn,Ind,Mike Donahue,H,Sewanee,Ind,J.J. Quill,L,5,10
+1906-11-03,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,L,0,11
+1906-11-10,Auburn,Ind,Mike Donahue,A,Clemson,Ind,Bob Williams,L,4,6
+1906-11-17,Auburn,Ind,Mike Donahue,N,Alabama,Ind,J.W.H. Pollard,L,0,10
+1906-11-29,Auburn,Ind,Mike Donahue,A,Georgia,Ind,W.S. Whitney,L,0,4
+1906-10-13,Kansas,Ind,Doc Kennedy,H,Arkansas,Ind,Frank Longman,W,37,5
+1906-10-27,Kansas,Ind,Doc Kennedy,H,Colorado,Ind,Frank Castleman,W,16,0
+1906-11-17,Kansas,Ind,Doc Kennedy,A,Nebraska,Ind,Amos Foster,W,8,6
+1906-11-29,Kansas,Ind,Doc Kennedy,N,Missouri,Ind,W.J. Monilaw,T,0,0
+1906-10-20,LSU,Ind,,H,Ole Miss,Ind,T.S. Hammond,L,0,9
+1906-10-27,LSU,Ind,,A,Mississippi State,Ind,Dan Martin,T,0,0
+1906-11-19,LSU,Ind,,H,Texas A&M,Ind,Walter Bachman,L,12,22
+1906-11-29,LSU,Ind,,H,Arkansas,Ind,Frank Longman,T,6,6
+1906-09-29,Pennsylvania,Ind,,H,Lehigh,Ind,,W,32,6
+1906-10-06,Pennsylvania,Ind,,H,North Carolina,Ind,W.S. Keinholz,W,11,0
+1906-10-13,Pennsylvania,Ind,,H,Swarthmore,Ind,George Brooke,L,0,4
+1906-10-20,Pennsylvania,Ind,,H,Brown,Ind,Edward Robinson,W,14,0
+1906-10-27,Pennsylvania,Ind,,H,Carlisle,Ind,Bemus Pierce,L,6,24
+1906-11-10,Pennsylvania,Ind,,H,Lafayette,Ind,,T,0,0
+1906-11-17,Pennsylvania,Ind,,H,Michigan,Western,Fielding Yost,W,17,0
+1906-11-24,Pennsylvania,Ind,,H,Villanova,Ind,Frederick Crolius,W,22,12
+1906-11-29,Pennsylvania,Ind,,H,Cornell,Ind,Pop Warner,T,0,0
+1906-10-27,Iowa,Western,Mark Catlin,H,Missouri,Ind,W.J. Monilaw,W,26,4
+1906-11-03,Iowa,Western,Mark Catlin,A,Wisconsin,Western,Charles Hutchins,L,4,18
+1906-11-24,Iowa,Western,Mark Catlin,H,Iowa State,Ind,,L,0,2
+1906-10-06,Amherst,Ind,Harry Smith,A,Massachusetts,Ind,George O'Hearn,W,12,8
+1906-10-27,Amherst,Ind,Harry Smith,A,Yale,Ind,Foster Rockwell,L,0,12
+1906-11-03,Amherst,Ind,Harry Smith,A,Swarthmore,Ind,George Brooke,L,0,21
+1906-11-10,Amherst,Ind,Harry Smith,H,Dartmouth,Ind,Fred Folsom,L,0,4
+1906-11-17,Amherst,Ind,Harry Smith,A,Williams,Ind,,T,0,0
+1906-10-27,Illinois,Western,Justa Lindgren,A,Michigan,Western,Fielding Yost,L,9,28
+1906-11-10,Illinois,Western,Justa Lindgren,H,Wisconsin,Western,Charles Hutchins,L,6,16
+1906-11-17,Illinois,Western,Justa Lindgren,A,Chicago,Western,Amos Alonzo Stagg,L,0,63
+1906-11-25,Illinois,Western,Justa Lindgren,A,Purdue,Western,M.E. Witham,W,5,0
+1906-10-13,Texas,Ind,H.R. Schenker,H,Texas Christian,Ind,E.J. Hyde,W,22,0
+1906-10-27,Texas,Ind,H.R. Schenker,A,Vanderbilt,Ind,Dan McGugin,L,0,45
+1906-10-30,Texas,Ind,H.R. Schenker,H,Arkansas,Ind,Frank Longman,W,11,0
+1906-11-09,Texas,Ind,H.R. Schenker,H,Haskell,Ind,,W,28,0
+1906-11-29,Texas,Ind,H.R. Schenker,H,Texas A&M,Ind,Walter Bachman,W,24,0
+1906-10-13,Texas Christian,Ind,E.J. Hyde,A,Texas,Ind,H.R. Schenker,L,0,22
+1906-10-27,Texas Christian,Ind,E.J. Hyde,A,Texas A&M,Ind,Walter Bachman,L,0,42
+1906-11-10,Texas Christian,Ind,E.J. Hyde,N,Texas A&M,Ind,Walter Bachman,L,0,22
+1906-10-13,Georgia,Ind,W.S. Whitney,H,Davidson,Ind,Ralph Graham,L,0,15
+1906-10-20,Georgia,Ind,W.S. Whitney,A,Clemson,Ind,Bob Williams,L,0,6
+1906-11-10,Georgia,Ind,W.S. Whitney,H,Georgia Tech,Ind,John Heisman,L,0,17
+1906-11-21,Georgia,Ind,W.S. Whitney,H,Tennessee,Ind,J.D. DePree,T,0,0
+1906-11-29,Georgia,Ind,W.S. Whitney,H,Auburn,Ind,Mike Donahue,W,4,0
+1906-10-10,Brown,Ind,Edward Robinson,H,Massachusetts,Ind,George O'Hearn,W,17,0
+1906-10-20,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,,L,0,14
+1906-11-03,Brown,Ind,Edward Robinson,A,Harvard,Ind,William Reid,L,5,9
+1906-11-10,Brown,Ind,Edward Robinson,A,Yale,Ind,Foster Rockwell,L,0,5
+1906-11-24,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,Fred Folsom,W,23,0
+1906-10-13,Tennessee,Ind,J.D. DePree,H,Maryville (TN),Ind,Reed Dickson,L,0,11
+1906-11-03,Tennessee,Ind,J.D. DePree,H,Sewanee,Ind,J.J. Quill,L,0,17
+1906-11-19,Tennessee,Ind,J.D. DePree,A,Clemson,Ind,Bob Williams,L,0,16
+1906-11-21,Tennessee,Ind,J.D. DePree,A,Georgia,Ind,W.S. Whitney,T,0,0
+1906-11-29,Tennessee,Ind,J.D. DePree,A,Alabama,Ind,J.W.H. Pollard,L,0,51
+1906-10-13,Virginia Tech,Ind,C.P. Miles,A,Clemson,Ind,Bob Williams,T,0,0
+1906-10-27,Virginia Tech,Ind,C.P. Miles,H,North Carolina,Ind,W.S. Keinholz,T,0,0
+1906-11-10,Virginia Tech,Ind,C.P. Miles,H,Bucknell,Ind,George Hoskins,L,0,10
+1906-11-17,Virginia Tech,Ind,C.P. Miles,H,Davidson,Ind,Ralph Graham,W,10,0
+1906-11-24,Virginia Tech,Ind,C.P. Miles,A,Navy,Ind,Paul Dashiell,L,0,5
+1906-09-29,Lehigh,Ind,,A,Pennsylvania,Ind,,L,6,32
+1906-10-10,Lehigh,Ind,,A,Princeton,Ind,,L,0,52
+1906-10-20,Lehigh,Ind,,A,Navy,Ind,Paul Dashiell,L,0,12
+1906-11-03,Lehigh,Ind,,H,Dickinson,Ind,J. Williams,T,0,0
+1906-11-24,Lehigh,Ind,,A,Lafayette,Ind,,L,0,33
+1906-10-06,Alabama,Ind,J.W.H. Pollard,H,Maryville (TN),Ind,Reed Dickson,W,6,0
+1906-10-20,Alabama,Ind,J.W.H. Pollard,A,Vanderbilt,Ind,Dan McGugin,L,0,78
+1906-11-03,Alabama,Ind,J.W.H. Pollard,A,Mississippi State,Ind,Dan Martin,W,16,4
+1906-11-17,Alabama,Ind,J.W.H. Pollard,N,Auburn,Ind,Mike Donahue,W,10,0
+1906-11-29,Alabama,Ind,J.W.H. Pollard,H,Tennessee,Ind,J.D. DePree,W,51,0
+1906-10-13,Arkansas,Ind,Frank Longman,A,Kansas,Ind,Doc Kennedy,L,5,37
+1906-10-30,Arkansas,Ind,Frank Longman,A,Texas,Ind,H.R. Schenker,L,0,11
+1906-11-10,Arkansas,Ind,Frank Longman,A,Missouri,Ind,W.J. Monilaw,L,0,11
+1906-11-24,Arkansas,Ind,Frank Longman,A,Tulane,Ind,John Russ,W,22,0
+1906-11-29,Arkansas,Ind,Frank Longman,A,LSU,Ind,,T,6,6
+1906-10-13,Clemson,Ind,Bob Williams,H,Virginia Tech,Ind,C.P. Miles,T,0,0
+1906-10-20,Clemson,Ind,Bob Williams,H,Georgia,Ind,W.S. Whitney,W,6,0
+1906-11-03,Clemson,Ind,Bob Williams,A,Davidson,Ind,Ralph Graham,T,0,0
+1906-11-10,Clemson,Ind,Bob Williams,H,Auburn,Ind,Mike Donahue,W,6,4
+1906-11-19,Clemson,Ind,Bob Williams,H,Tennessee,Ind,J.D. DePree,W,16,0
+1906-11-29,Clemson,Ind,Bob Williams,A,Georgia Tech,Ind,John Heisman,W,10,0
+1906-10-20,Purdue,Western,M.E. Witham,A,Chicago,Western,Amos Alonzo Stagg,L,0,39
+1906-11-17,Purdue,Western,M.E. Witham,A,Wisconsin,Western,Charles Hutchins,L,5,29
+1906-11-25,Purdue,Western,M.E. Witham,H,Illinois,Western,Justa Lindgren,L,0,5
+1906-10-13,Nebraska,Ind,Amos Foster,H,Drake,Ind,,W,5,0
+1906-10-20,Nebraska,Ind,Amos Foster,H,Iowa State,Ind,,L,2,14
+1906-11-03,Nebraska,Ind,Amos Foster,A,Minnesota,Western,Henry Williams,L,0,13
+1906-11-17,Nebraska,Ind,Amos Foster,H,Kansas,Ind,Doc Kennedy,L,6,8
+1906-11-24,Nebraska,Ind,Amos Foster,A,Chicago,Western,Amos Alonzo Stagg,L,5,38
+1906-09-22,Holy Cross,Ind,George King,H,Massachusetts,Ind,George O'Hearn,W,6,4
+1906-10-06,Holy Cross,Ind,George King,A,Dartmouth,Ind,Fred Folsom,L,0,16
+1906-10-13,Holy Cross,Ind,George King,A,Yale,Ind,Foster Rockwell,L,0,17
+1906-11-10,Holy Cross,Ind,George King,A,Cornell,Ind,Pop Warner,L,6,16
+1906-09-22,Harvard,Ind,William Reid,H,Williams,Ind,,W,7,0
+1906-10-13,Harvard,Ind,William Reid,H,Massachusetts,Ind,George O'Hearn,W,21,0
+1906-10-27,Harvard,Ind,William Reid,A,Army,Ind,Henry Smither,W,5,0
+1906-11-03,Harvard,Ind,William Reid,H,Brown,Ind,Edward Robinson,W,9,5
+1906-11-10,Harvard,Ind,William Reid,H,Carlisle,Ind,Bemus Pierce,W,5,0
+1906-11-17,Harvard,Ind,William Reid,H,Dartmouth,Ind,Fred Folsom,W,22,9
+1906-11-24,Harvard,Ind,William Reid,A,Yale,Ind,Foster Rockwell,L,0,6
+1906-09-22,Williams,Ind,,A,Harvard,Ind,William Reid,L,0,7
+1906-09-29,Williams,Ind,,A,Massachusetts,Ind,George O'Hearn,W,5,0
+1906-10-20,Williams,Ind,,A,Army,Ind,Henry Smither,L,0,17
+1906-10-27,Williams,Ind,,H,Dartmouth,Ind,Fred Folsom,T,0,0
+1906-11-03,Williams,Ind,,H,Colgate,Ind,William Warner,W,23,9
+1906-11-17,Williams,Ind,,H,Amherst,Ind,Harry Smith,T,0,0
+1906-10-13,Colorado,Ind,Frank Castleman,H,Denver,Ind,John Koehler,W,6,0
+1906-10-27,Colorado,Ind,Frank Castleman,A,Kansas,Ind,Doc Kennedy,L,0,16
+1906-11-03,Colorado,Ind,Frank Castleman,H,Colorado College,Ind,J.R. Richards,L,0,6
+1906-11-17,Colorado,Ind,Frank Castleman,A,Utah,Ind,Joseph Maddock,L,0,10
+1906-11-22,Colorado,Ind,Frank Castleman,H,Colorado Mines,Ind,,T,0,0
+1906-09-22,Massachusetts,Ind,George O'Hearn,A,Holy Cross,Ind,George King,L,4,6
+1906-09-29,Massachusetts,Ind,George O'Hearn,H,Williams,Ind,,L,0,5
+1906-10-06,Massachusetts,Ind,George O'Hearn,H,Amherst,Ind,Harry Smith,L,8,12
+1906-10-10,Massachusetts,Ind,George O'Hearn,A,Brown,Ind,Edward Robinson,L,0,17
+1906-10-13,Massachusetts,Ind,George O'Hearn,A,Harvard,Ind,William Reid,L,0,21
+1906-10-20,Massachusetts,Ind,George O'Hearn,A,Dartmouth,Ind,Fred Folsom,L,0,26
+1906-10-27,Missouri,Ind,W.J. Monilaw,A,Iowa,Western,Mark Catlin,L,4,26
+1906-11-10,Missouri,Ind,W.J. Monilaw,H,Arkansas,Ind,Frank Longman,W,11,0
+1906-11-29,Missouri,Ind,W.J. Monilaw,N,Kansas,Ind,Doc Kennedy,T,0,0
+1906-10-13,Denver,Ind,John Koehler,A,Colorado,Ind,Frank Castleman,L,0,6
+1906-10-20,Denver,Ind,John Koehler,H,Utah,Ind,Joseph Maddock,L,0,24
+1906-11-03,Denver,Ind,John Koehler,H,Colorado Mines,Ind,,L,0,11
+1906-11-29,Denver,Ind,John Koehler,A,Colorado College,Ind,J.R. Richards,W,7,6
+1906-09-29,Maryville (TN),Ind,Reed Dickson,A,Georgia Tech,Ind,John Heisman,T,6,6
+1906-10-04,Maryville (TN),Ind,Reed Dickson,A,Ole Miss,Ind,T.S. Hammond,L,6,16
+1906-10-06,Maryville (TN),Ind,Reed Dickson,A,Alabama,Ind,J.W.H. Pollard,L,0,6
+1906-10-08,Maryville (TN),Ind,Reed Dickson,A,Auburn,Ind,Mike Donahue,T,0,0
+1906-10-13,Maryville (TN),Ind,Reed Dickson,A,Tennessee,Ind,J.D. DePree,W,11,0
+1906-11-17,Maryville (TN),Ind,Reed Dickson,A,Sewanee,Ind,J.J. Quill,L,0,28
+1906-10-06,Washington & Jefferson,Ind,Frank Piekarski,A,Princeton,Ind,,L,0,6
+1906-10-27,Washington & Jefferson,Ind,Frank Piekarski,H,Dickinson,Ind,J. Williams,W,2,0
+1906-11-03,Washington & Jefferson,Ind,Frank Piekarski,H,Lafayette,Ind,,L,6,14
+1906-11-24,Washington & Jefferson,Ind,Frank Piekarski,A,Pitt,Ind,Edgar Wingard,W,4,0
+1906-11-03,Wisconsin,Western,Charles Hutchins,H,Iowa,Western,Mark Catlin,W,18,4
+1906-11-10,Wisconsin,Western,Charles Hutchins,A,Illinois,Western,Justa Lindgren,W,16,6
+1906-11-17,Wisconsin,Western,Charles Hutchins,H,Purdue,Western,M.E. Witham,W,29,5
+1906-10-13,Bucknell,Ind,George Hoskins,A,Cornell,Ind,Pop Warner,L,6,24
+1906-10-20,Bucknell,Ind,George Hoskins,A,Princeton,Ind,,L,4,32
+1906-10-27,Bucknell,Ind,George Hoskins,A,Navy,Ind,Paul Dashiell,T,0,0
+1906-11-10,Bucknell,Ind,George Hoskins,A,Virginia Tech,Ind,C.P. Miles,W,10,0
+1906-10-27,Texas A&M,Ind,Walter Bachman,H,Texas Christian,Ind,E.J. Hyde,W,42,0
+1906-11-10,Texas A&M,Ind,Walter Bachman,N,Texas Christian,Ind,E.J. Hyde,W,22,0
+1906-11-17,Texas A&M,Ind,Walter Bachman,A,Tulane,Ind,John Russ,W,18,0
+1906-11-19,Texas A&M,Ind,Walter Bachman,A,LSU,Ind,,W,22,12
+1906-11-24,Texas A&M,Ind,Walter Bachman,H,Haskell,Ind,,W,32,6
+1906-11-29,Texas A&M,Ind,Walter Bachman,A,Texas,Ind,H.R. Schenker,L,0,24
+1906-09-29,Davidson,Ind,Ralph Graham,N,North Carolina,Ind,W.S. Keinholz,T,0,0
+1906-10-13,Davidson,Ind,Ralph Graham,A,Georgia,Ind,W.S. Whitney,W,15,0
+1906-10-27,Davidson,Ind,Ralph Graham,A,Georgia Tech,Ind,John Heisman,L,0,4
+1906-11-03,Davidson,Ind,Ralph Graham,H,Clemson,Ind,Bob Williams,T,0,0
+1906-11-17,Davidson,Ind,Ralph Graham,A,Virginia Tech,Ind,C.P. Miles,L,0,10
+1906-10-20,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,M.E. Witham,W,39,0
+1906-10-27,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,33,8
+1906-11-10,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,Henry Williams,L,2,4
+1906-11-17,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Justa Lindgren,W,63,0
+1906-11-24,Chicago,Western,Amos Alonzo Stagg,H,Nebraska,Ind,Amos Foster,W,38,5
+1906-11-03,Colorado Mines,Ind,,A,Denver,Ind,John Koehler,W,11,0
+1906-11-17,Colorado Mines,Ind,,N,Colorado College,Ind,J.R. Richards,T,4,4
+1906-11-22,Colorado Mines,Ind,,A,Colorado,Ind,Frank Castleman,T,0,0
+1906-09-29,Colgate,Ind,William Warner,A,Cornell,Ind,Pop Warner,T,0,0
+1906-10-13,Colgate,Ind,William Warner,A,Army,Ind,Henry Smither,T,0,0
+1906-10-20,Colgate,Ind,William Warner,A,Syracuse,Ind,,W,5,0
+1906-10-27,Colgate,Ind,William Warner,A,Lafayette,Ind,,L,6,17
+1906-11-03,Colgate,Ind,William Warner,A,Williams,Ind,,L,9,23
+1906-10-06,Swarthmore,Ind,George Brooke,H,Villanova,Ind,Frederick Crolius,W,4,0
+1906-10-13,Swarthmore,Ind,George Brooke,A,Pennsylvania,Ind,,W,4,0
+1906-11-03,Swarthmore,Ind,George Brooke,H,Amherst,Ind,Harry Smith,W,21,0
+1906-11-10,Swarthmore,Ind,George Brooke,A,Navy,Ind,Paul Dashiell,L,4,5
+1906-11-17,Swarthmore,Ind,George Brooke,A,Cornell,Ind,Pop Warner,L,0,28
+1906-10-27,Minnesota,Western,Henry Williams,H,Iowa State,Ind,,W,22,4
+1906-11-03,Minnesota,Western,Henry Williams,H,Nebraska,Ind,Amos Foster,W,13,0
+1906-11-10,Minnesota,Western,Henry Williams,A,Chicago,Western,Amos Alonzo Stagg,W,4,2
+1906-11-17,Minnesota,Western,Henry Williams,H,Carlisle,Ind,Bemus Pierce,L,0,17
+1906-11-24,Minnesota,Western,Henry Williams,H,Indiana,Western,James Sheldon,W,8,6
+1906-10-04,Ole Miss,Ind,T.S. Hammond,H,Maryville (TN),Ind,Reed Dickson,W,16,6
+1906-10-13,Ole Miss,Ind,T.S. Hammond,A,Vanderbilt,Ind,Dan McGugin,L,0,29
+1906-10-20,Ole Miss,Ind,T.S. Hammond,A,LSU,Ind,,W,9,0
+1906-11-03,Ole Miss,Ind,T.S. Hammond,A,Tulane,Ind,John Russ,W,17,0
+1906-11-12,Ole Miss,Ind,T.S. Hammond,N,Sewanee,Ind,J.J. Quill,L,0,24
+1906-11-29,Ole Miss,Ind,T.S. Hammond,N,Mississippi State,Ind,Dan Martin,W,29,5
+1906-10-20,Sewanee,Ind,J.J. Quill,A,Georgia Tech,Ind,John Heisman,W,16,0
+1906-10-26,Sewanee,Ind,J.J. Quill,A,Auburn,Ind,Mike Donahue,W,10,5
+1906-11-03,Sewanee,Ind,J.J. Quill,A,Tennessee,Ind,J.D. DePree,W,17,0
+1906-11-10,Sewanee,Ind,J.J. Quill,A,Tulane,Ind,John Russ,W,35,0
+1906-11-12,Sewanee,Ind,J.J. Quill,N,Ole Miss,Ind,T.S. Hammond,W,24,0
+1906-11-17,Sewanee,Ind,J.J. Quill,H,Maryville (TN),Ind,Reed Dickson,W,28,0
+1906-11-29,Sewanee,Ind,J.J. Quill,A,Vanderbilt,Ind,Dan McGugin,L,0,20
+1906-10-27,Michigan,Western,Fielding Yost,H,Illinois,Western,Justa Lindgren,W,28,9
+1906-11-03,Michigan,Western,Fielding Yost,H,Vanderbilt,Ind,Dan McGugin,W,10,4
+1906-11-17,Michigan,Western,Fielding Yost,A,Pennsylvania,Ind,,L,0,17
+1906-10-06,Navy,Ind,Paul Dashiell,H,Dickinson,Ind,J. Williams,T,0,0
+1906-10-13,Navy,Ind,Paul Dashiell,H,Princeton,Ind,,L,0,5
+1906-10-20,Navy,Ind,Paul Dashiell,H,Lehigh,Ind,,W,12,0
+1906-10-27,Navy,Ind,Paul Dashiell,H,Bucknell,Ind,George Hoskins,T,0,0
+1906-11-03,Navy,Ind,Paul Dashiell,H,Penn State,Ind,Tom Fennell,L,0,5
+1906-11-10,Navy,Ind,Paul Dashiell,H,Swarthmore,Ind,George Brooke,W,5,4
+1906-11-17,Navy,Ind,Paul Dashiell,H,North Carolina,Ind,W.S. Keinholz,W,40,0
+1906-11-24,Navy,Ind,Paul Dashiell,H,Virginia Tech,Ind,C.P. Miles,W,5,0
+1906-12-01,Navy,Ind,Paul Dashiell,N,Army,Ind,Henry Smither,W,10,0
+1906-10-20,Lafayette,Ind,,N,North Carolina,Ind,W.S. Keinholz,W,28,6
+1906-10-27,Lafayette,Ind,,H,Colgate,Ind,William Warner,W,17,6
+1906-11-03,Lafayette,Ind,,A,Washington & Jefferson,Ind,Frank Piekarski,W,14,6
+1906-11-10,Lafayette,Ind,,A,Pennsylvania,Ind,,T,0,0
+1906-11-17,Lafayette,Ind,,H,Syracuse,Ind,,L,4,12
+1906-11-24,Lafayette,Ind,,H,Lehigh,Ind,,W,33,0
+1906-11-29,Lafayette,Ind,,H,Dickinson,Ind,J. Williams,W,26,6
+1906-11-03,Tulane,Ind,John Russ,H,Ole Miss,Ind,T.S. Hammond,L,0,17
+1906-11-10,Tulane,Ind,John Russ,H,Sewanee,Ind,J.J. Quill,L,0,35
+1906-11-17,Tulane,Ind,John Russ,H,Texas A&M,Ind,Walter Bachman,L,0,18
+1906-11-24,Tulane,Ind,John Russ,H,Arkansas,Ind,Frank Longman,L,0,22
+1906-09-29,Cornell,Ind,Pop Warner,H,Colgate,Ind,William Warner,T,0,0
+1906-10-13,Cornell,Ind,Pop Warner,H,Bucknell,Ind,George Hoskins,W,24,6
+1906-10-27,Cornell,Ind,Pop Warner,N,Princeton,Ind,,L,5,14
+1906-11-03,Cornell,Ind,Pop Warner,H,Pitt,Ind,Edgar Wingard,W,23,0
+1906-11-10,Cornell,Ind,Pop Warner,H,Holy Cross,Ind,George King,W,16,6
+1906-11-17,Cornell,Ind,Pop Warner,H,Swarthmore,Ind,George Brooke,W,28,0
+1906-11-29,Cornell,Ind,Pop Warner,A,Pennsylvania,Ind,,T,0,0
+1906-10-20,Pitt,Ind,Edgar Wingard,H,Carlisle,Ind,Bemus Pierce,L,0,22
+1906-11-03,Pitt,Ind,Edgar Wingard,A,Cornell,Ind,Pop Warner,L,0,23
+1906-11-24,Pitt,Ind,Edgar Wingard,H,Washington & Jefferson,Ind,Frank Piekarski,L,0,4
+1906-11-29,Pitt,Ind,Edgar Wingard,H,Penn State,Ind,Tom Fennell,L,0,6
+1906-10-13,Drake,Ind,,A,Nebraska,Ind,Amos Foster,L,0,5
+1906-11-02,Drake,Ind,,H,Haskell,Ind,,W,10,0
+1906-11-29,Drake,Ind,,H,Iowa State,Ind,,L,0,7

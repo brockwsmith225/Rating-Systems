@@ -1,0 +1,263 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1900-10-03,Brown,Ind,Edward Robinson,H,Holy Cross,Ind,Maurice Connor,W,18,0
+1900-10-13,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,George Woodruff,L,0,12
+1900-10-20,Brown,Ind,Edward Robinson,A,Chicago,Western,Amos Alonzo Stagg,W,11,6
+1900-10-27,Brown,Ind,Edward Robinson,H,Princeton,Ind,,L,5,17
+1900-11-10,Brown,Ind,Edward Robinson,H,Tufts,Ind, Hopkins,W,26,5
+1900-11-17,Brown,Ind,Edward Robinson,A,Harvard,Ind,,L,6,11
+1900-11-24,Brown,Ind,Edward Robinson,H,Syracuse,Ind,,T,6,6
+1900-11-29,Brown,Ind,Edward Robinson,H,Dartmouth,Ind,F.E. Jennings,W,12,5
+1900-09-29,Trinity (CT),Ind,J.H. Callahan,A,Yale,Ind,Malcolm McBride,L,0,22
+1900-10-13,Trinity (CT),Ind,J.H. Callahan,A,Army,Ind,Herman Koehler,L,0,28
+1900-10-27,Trinity (CT),Ind,J.H. Callahan,H,Wesleyan (CT),Ind,Bert Wilson,W,5,0
+1900-10-31,Trinity (CT),Ind,J.H. Callahan,H,Massachusetts,Ind,Fred Brown,W,23,0
+1900-11-07,Trinity (CT),Ind,J.H. Callahan,A,Amherst,Ind,Harry Smith,T,0,0
+1900-09-26,Dickinson,Ind,Sam Boyle,N,Carlisle,Ind,Pop Warner,L,0,21
+1900-10-10,Dickinson,Ind,Sam Boyle,A,Pennsylvania,Ind,George Woodruff,L,0,35
+1900-10-20,Dickinson,Ind,Sam Boyle,H,Penn State,Ind,Pop Golden,W,18,0
+1900-11-10,Dickinson,Ind,Sam Boyle,A,Syracuse,Ind,,L,0,6
+1900-11-14,Dickinson,Ind,Sam Boyle,A,Lehigh,Ind,Walter Okeson,L,0,6
+1900-11-29,Dickinson,Ind,Sam Boyle,A,Lafayette,Ind,Samuel Newton,L,6,10
+1900-10-13,Indiana,Western,James Horne,A,Northwestern,Western,Charles Hollister,L,0,12
+1900-10-25,Indiana,Western,James Horne,H,Notre Dame,Ind,Patrick O'Dea,W,6,0
+1900-11-03,Indiana,Western,James Horne,A,Michigan,Western,Biff Lea,L,0,12
+1900-11-17,Indiana,Western,James Horne,H,Illinois,Western,Fred Smith,T,0,0
+1900-11-29,Indiana,Western,James Horne,A,Purdue,Western,Alpha Jamison,W,24,5
+1900-09-29,Yale,Ind,Malcolm McBride,H,Trinity (CT),Ind,J.H. Callahan,W,22,0
+1900-10-03,Yale,Ind,Malcolm McBride,H,Amherst,Ind,Harry Smith,W,27,0
+1900-10-06,Yale,Ind,Malcolm McBride,H,Tufts,Ind, Hopkins,W,30,0
+1900-10-13,Yale,Ind,Malcolm McBride,N,Dartmouth,Ind,F.E. Jennings,W,17,0
+1900-10-17,Yale,Ind,Malcolm McBride,H,Bowdoin,Ind,James Lathrop,W,30,0
+1900-10-20,Yale,Ind,Malcolm McBride,H,Wesleyan (CT),Ind,Bert Wilson,W,38,0
+1900-10-27,Yale,Ind,Malcolm McBride,A,Columbia,Ind,George Sanford,W,12,5
+1900-11-03,Yale,Ind,Malcolm McBride,A,Army,Ind,Herman Koehler,W,18,0
+1900-11-10,Yale,Ind,Malcolm McBride,H,Carlisle,Ind,Pop Warner,W,35,0
+1900-11-17,Yale,Ind,Malcolm McBride,A,Princeton,Ind,,W,29,5
+1900-11-24,Yale,Ind,Malcolm McBride,H,Harvard,Ind,,W,28,0
+1900-10-06,Iowa State,Ind,,A,Minnesota,Western,Henry Williams,L,0,27
+1900-10-13,Iowa State,Ind,,A,Nebraska,Ind,Walter Booth,L,0,30
+1900-11-03,Iowa State,Ind,,H,Grinnell,Ind,C.E. Harris,L,5,22
+1900-11-10,Iowa State,Ind,,A,Drake,Ind,,L,0,16
+1900-09-29,Lehigh,Ind,Walter Okeson,A,Pennsylvania,Ind,George Woodruff,L,6,27
+1900-10-06,Lehigh,Ind,Walter Okeson,A,Princeton,Ind,,L,5,12
+1900-10-13,Lehigh,Ind,Walter Okeson,H,Bucknell,Ind,George Hoskins,W,12,6
+1900-10-24,Lehigh,Ind,Walter Okeson,A,Navy,Ind,Garrett Cochran,L,0,15
+1900-11-03,Lehigh,Ind,Walter Okeson,H,Lafayette,Ind,Samuel Newton,L,0,34
+1900-11-14,Lehigh,Ind,Walter Okeson,H,Dickinson,Ind,Sam Boyle,W,6,0
+1900-11-24,Lehigh,Ind,Walter Okeson,A,Lafayette,Ind,Samuel Newton,L,0,18
+1900-09-26,Carlisle,Ind,Pop Warner,N,Dickinson,Ind,Sam Boyle,W,21,0
+1900-10-27,Carlisle,Ind,Pop Warner,A,Harvard,Ind,,L,5,17
+1900-11-10,Carlisle,Ind,Pop Warner,A,Yale,Ind,Malcolm McBride,L,0,35
+1900-11-17,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,George Woodruff,L,6,16
+1900-11-29,Carlisle,Ind,Pop Warner,A,Columbia,Ind,George Sanford,L,6,17
+1900-10-06,Purdue,Western,Alpha Jamison,A,Chicago,Western,Amos Alonzo Stagg,L,5,17
+1900-10-20,Purdue,Western,Alpha Jamison,A,Michigan,Western,Biff Lea,L,6,11
+1900-11-03,Purdue,Western,Alpha Jamison,A,Illinois,Western,Fred Smith,L,5,17
+1900-11-29,Purdue,Western,Alpha Jamison,H,Indiana,Western,James Horne,L,5,24
+1900-10-06,Grinnell,Ind,C.E. Harris,A,Drake,Ind,,L,0,6
+1900-10-20,Grinnell,Ind,C.E. Harris,A,Minnesota,Western,Henry Williams,L,0,26
+1900-10-27,Grinnell,Ind,C.E. Harris,A,Wisconsin,Western,Phil King,L,0,45
+1900-11-03,Grinnell,Ind,C.E. Harris,A,Iowa State,Ind,,W,22,5
+1900-11-10,Grinnell,Ind,C.E. Harris,A,Nebraska,Ind,Walter Booth,L,0,33
+1900-11-16,Grinnell,Ind,C.E. Harris,A,Iowa,Western,Alden Knipe,L,2,63
+1900-11-24,Grinnell,Ind,C.E. Harris,A,Drake,Ind,,L,0,17
+1900-09-29,Knox,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,0,16
+1900-10-13,Knox,Ind,,A,Illinois,Western,Fred Smith,L,0,16
+1900-11-03,Knox,Ind,,A,Northwestern,Western,Charles Hollister,L,5,11
+1900-11-29,Knox,Ind,,A,Beloit,Ind,John Hollister,L,0,43
+1900-10-13,Nebraska,Ind,Walter Booth,H,Iowa State,Ind,,W,30,0
+1900-10-20,Nebraska,Ind,Walter Booth,H,Drake,Ind,,W,8,0
+1900-11-10,Nebraska,Ind,Walter Booth,H,Grinnell,Ind,C.E. Harris,W,33,0
+1900-11-29,Nebraska,Ind,Walter Booth,H,Minnesota,Western,Henry Williams,L,12,20
+1900-09-22,Holy Cross,Ind,Maurice Connor,H,Massachusetts,Ind,Fred Brown,W,6,0
+1900-10-03,Holy Cross,Ind,Maurice Connor,A,Brown,Ind,Edward Robinson,L,0,18
+1900-11-03,Holy Cross,Ind,Maurice Connor,A,Williams,Ind,,L,0,11
+1900-11-10,Holy Cross,Ind,Maurice Connor,A,Wesleyan (CT),Ind,Bert Wilson,L,5,11
+1900-11-24,Holy Cross,Ind,Maurice Connor,A,Tufts,Ind, Hopkins,L,0,27
+1900-09-29,Harvard,Ind,,H,Wesleyan (CT),Ind,Bert Wilson,W,24,0
+1900-10-03,Harvard,Ind,,H,Williams,Ind,,W,12,0
+1900-10-06,Harvard,Ind,,H,Bowdoin,Ind,James Lathrop,W,12,0
+1900-10-10,Harvard,Ind,,H,Amherst,Ind,Harry Smith,W,18,0
+1900-10-13,Harvard,Ind,,H,Columbia,Ind,George Sanford,W,24,0
+1900-10-20,Harvard,Ind,,A,Army,Ind,Herman Koehler,W,29,0
+1900-10-27,Harvard,Ind,,H,Carlisle,Ind,Pop Warner,W,17,5
+1900-11-03,Harvard,Ind,,H,Pennsylvania,Ind,George Woodruff,W,17,5
+1900-11-17,Harvard,Ind,,H,Brown,Ind,Edward Robinson,W,11,6
+1900-11-24,Harvard,Ind,,A,Yale,Ind,Malcolm McBride,L,0,28
+1900-10-03,Williams,Ind,,A,Harvard,Ind,,L,0,12
+1900-10-10,Williams,Ind,,A,Columbia,Ind,George Sanford,T,0,0
+1900-10-24,Williams,Ind,,H,Massachusetts,Ind,Fred Brown,W,5,0
+1900-10-27,Williams,Ind,,A,Army,Ind,Herman Koehler,L,0,6
+1900-11-03,Williams,Ind,,H,Holy Cross,Ind,Maurice Connor,W,11,0
+1900-11-10,Williams,Ind,,A,Amherst,Ind,Harry Smith,W,16,5
+1900-11-17,Williams,Ind,,A,Wesleyan (CT),Ind,Bert Wilson,L,0,35
+1900-09-22,Massachusetts,Ind,Fred Brown,A,Holy Cross,Ind,Maurice Connor,L,0,6
+1900-10-13,Massachusetts,Ind,Fred Brown,A,Wesleyan (CT),Ind,Bert Wilson,L,0,17
+1900-10-24,Massachusetts,Ind,Fred Brown,A,Williams,Ind,,L,0,5
+1900-10-31,Massachusetts,Ind,Fred Brown,A,Trinity (CT),Ind,J.H. Callahan,L,0,23
+1900-11-29,Massachusetts,Ind,Fred Brown,A,Amherst,Ind,Harry Smith,L,0,18
+1900-09-29,Syracuse,Ind,,A,Cornell,Ind,Percy Haughton,L,0,6
+1900-10-17,Syracuse,Ind,,A,Princeton,Ind,,L,0,43
+1900-10-20,Syracuse,Ind,,H,Amherst,Ind,Harry Smith,W,5,0
+1900-11-10,Syracuse,Ind,,H,Dickinson,Ind,Sam Boyle,W,6,0
+1900-11-24,Syracuse,Ind,,A,Brown,Ind,Edward Robinson,T,6,6
+1900-10-06,Bowdoin,Ind,James Lathrop,A,Harvard,Ind,,L,0,12
+1900-10-13,Bowdoin,Ind,James Lathrop,H,Tufts,Ind, Hopkins,W,5,0
+1900-10-17,Bowdoin,Ind,James Lathrop,A,Yale,Ind,Malcolm McBride,L,0,30
+1900-11-03,Bowdoin,Ind,James Lathrop,A,Amherst,Ind,Harry Smith,W,11,6
+1900-11-17,Bowdoin,Ind,James Lathrop,A,Tufts,Ind, Hopkins,W,17,11
+1900-10-13,Wisconsin,Western,Phil King,N,Beloit,Ind,John Hollister,W,11,0
+1900-10-27,Wisconsin,Western,Phil King,H,Grinnell,Ind,C.E. Harris,W,45,0
+1900-11-03,Wisconsin,Western,Phil King,A,Minnesota,Western,Henry Williams,L,5,6
+1900-11-10,Wisconsin,Western,Phil King,H,Notre Dame,Ind,Patrick O'Dea,W,54,0
+1900-11-17,Wisconsin,Western,Phil King,A,Chicago,Western,Amos Alonzo Stagg,W,39,5
+1900-11-24,Wisconsin,Western,Phil King,H,Illinois,Western,Fred Smith,W,27,0
+1900-10-06,Bucknell,Ind,George Hoskins,A,Cornell,Ind,Percy Haughton,L,0,6
+1900-10-13,Bucknell,Ind,George Hoskins,A,Lehigh,Ind,Walter Okeson,L,6,12
+1900-11-03,Bucknell,Ind,George Hoskins,N,Penn State,Ind,Pop Golden,L,0,6
+1900-11-17,Bucknell,Ind,George Hoskins,A,Army,Ind,Herman Koehler,L,10,18
+1900-09-29,Army,Ind,Herman Koehler,H,Tufts,Ind, Hopkins,W,5,0
+1900-10-06,Army,Ind,Herman Koehler,H,Penn State,Ind,Pop Golden,T,0,0
+1900-10-13,Army,Ind,Herman Koehler,H,Trinity (CT),Ind,J.H. Callahan,W,28,0
+1900-10-20,Army,Ind,Herman Koehler,H,Harvard,Ind,,L,0,29
+1900-10-27,Army,Ind,Herman Koehler,H,Williams,Ind,,W,6,0
+1900-11-03,Army,Ind,Herman Koehler,H,Yale,Ind,Malcolm McBride,L,0,18
+1900-11-17,Army,Ind,Herman Koehler,H,Bucknell,Ind,George Hoskins,W,18,10
+1900-12-01,Army,Ind,Herman Koehler,N,Navy,Ind,Garrett Cochran,L,7,11
+1900-10-06,Penn State,Ind,Pop Golden,A,Army,Ind,Herman Koehler,T,0,0
+1900-10-10,Penn State,Ind,Pop Golden,A,Princeton,Ind,,L,0,26
+1900-10-17,Penn State,Ind,Pop Golden,A,Pennsylvania,Ind,George Woodruff,L,5,17
+1900-10-20,Penn State,Ind,Pop Golden,A,Dickinson,Ind,Sam Boyle,L,0,18
+1900-11-03,Penn State,Ind,Pop Golden,N,Bucknell,Ind,George Hoskins,W,6,0
+1900-11-10,Penn State,Ind,Pop Golden,A,Navy,Ind,Garrett Cochran,L,0,44
+1900-09-29,Wesleyan (CT),Ind,Bert Wilson,A,Harvard,Ind,,L,0,24
+1900-10-06,Wesleyan (CT),Ind,Bert Wilson,A,Columbia,Ind,George Sanford,L,0,12
+1900-10-13,Wesleyan (CT),Ind,Bert Wilson,H,Massachusetts,Ind,Fred Brown,W,17,0
+1900-10-20,Wesleyan (CT),Ind,Bert Wilson,A,Yale,Ind,Malcolm McBride,L,0,38
+1900-10-27,Wesleyan (CT),Ind,Bert Wilson,A,Trinity (CT),Ind,J.H. Callahan,L,0,5
+1900-11-03,Wesleyan (CT),Ind,Bert Wilson,H,Dartmouth,Ind,F.E. Jennings,W,16,5
+1900-11-10,Wesleyan (CT),Ind,Bert Wilson,H,Holy Cross,Ind,Maurice Connor,W,11,5
+1900-11-17,Wesleyan (CT),Ind,Bert Wilson,H,Williams,Ind,,W,35,0
+1900-11-24,Wesleyan (CT),Ind,Bert Wilson,H,Amherst,Ind,Harry Smith,W,17,0
+1900-10-13,Dartmouth,Ind,F.E. Jennings,N,Yale,Ind,Malcolm McBride,L,0,17
+1900-10-20,Dartmouth,Ind,F.E. Jennings,H,Tufts,Ind, Hopkins,W,12,0
+1900-10-27,Dartmouth,Ind,F.E. Jennings,A,Cornell,Ind,Percy Haughton,L,6,23
+1900-11-03,Dartmouth,Ind,F.E. Jennings,A,Wesleyan (CT),Ind,Bert Wilson,L,5,16
+1900-11-29,Dartmouth,Ind,F.E. Jennings,A,Brown,Ind,Edward Robinson,L,5,12
+1900-10-06,Princeton,Ind,,H,Lehigh,Ind,Walter Okeson,W,12,5
+1900-10-10,Princeton,Ind,,H,Penn State,Ind,Pop Golden,W,26,0
+1900-10-13,Princeton,Ind,,A,Navy,Ind,Garrett Cochran,W,5,0
+1900-10-17,Princeton,Ind,,H,Syracuse,Ind,,W,43,0
+1900-10-20,Princeton,Ind,,A,Lafayette,Ind,Samuel Newton,W,5,0
+1900-10-27,Princeton,Ind,,A,Brown,Ind,Edward Robinson,W,17,5
+1900-11-03,Princeton,Ind,,H,Cornell,Ind,Percy Haughton,L,0,12
+1900-11-06,Princeton,Ind,,A,Columbia,Ind,George Sanford,L,5,6
+1900-11-17,Princeton,Ind,,H,Yale,Ind,Malcolm McBride,L,5,29
+1900-09-29,Chicago,Western,Amos Alonzo Stagg,H,Knox,Ind,,W,16,0
+1900-10-06,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Alpha Jamison,W,17,5
+1900-10-13,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,T,6,6
+1900-10-20,Chicago,Western,Amos Alonzo Stagg,H,Brown,Ind,Edward Robinson,L,6,11
+1900-10-27,Chicago,Western,Amos Alonzo Stagg,A,Pennsylvania,Ind,George Woodruff,L,0,41
+1900-11-03,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,Alden Knipe,L,0,17
+1900-11-10,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Charles Hollister,L,0,5
+1900-11-17,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Phil King,L,5,39
+1900-11-29,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Biff Lea,W,15,6
+1900-10-13,Northwestern,Western,Charles Hollister,H,Indiana,Western,James Horne,W,12,0
+1900-10-20,Northwestern,Western,Charles Hollister,H,Illinois,Western,Fred Smith,T,0,0
+1900-10-27,Northwestern,Western,Charles Hollister,H,Beloit,Ind,John Hollister,T,6,6
+1900-11-03,Northwestern,Western,Charles Hollister,H,Knox,Ind,,W,11,5
+1900-11-10,Northwestern,Western,Charles Hollister,A,Chicago,Western,Amos Alonzo Stagg,W,5,0
+1900-11-17,Northwestern,Western,Charles Hollister,A,Minnesota,Western,Henry Williams,L,0,21
+1900-11-29,Northwestern,Western,Charles Hollister,H,Iowa,Western,Alden Knipe,T,5,5
+1900-10-06,Minnesota,Western,Henry Williams,H,Iowa State,Ind,,W,27,0
+1900-10-13,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,T,6,6
+1900-10-20,Minnesota,Western,Henry Williams,H,Grinnell,Ind,C.E. Harris,W,26,0
+1900-11-03,Minnesota,Western,Henry Williams,H,Wisconsin,Western,Phil King,W,6,5
+1900-11-10,Minnesota,Western,Henry Williams,H,Illinois,Western,Fred Smith,W,23,0
+1900-11-17,Minnesota,Western,Henry Williams,H,Northwestern,Western,Charles Hollister,W,21,0
+1900-11-29,Minnesota,Western,Henry Williams,A,Nebraska,Ind,Walter Booth,W,20,12
+1900-10-20,Michigan,Western,Biff Lea,H,Purdue,Western,Alpha Jamison,W,11,6
+1900-10-27,Michigan,Western,Biff Lea,A,Illinois,Western,Fred Smith,W,12,0
+1900-11-03,Michigan,Western,Biff Lea,H,Indiana,Western,James Horne,W,12,0
+1900-11-10,Michigan,Western,Biff Lea,H,Iowa,Western,Alden Knipe,L,5,28
+1900-11-17,Michigan,Western,Biff Lea,H,Notre Dame,Ind,Patrick O'Dea,W,7,0
+1900-11-29,Michigan,Western,Biff Lea,A,Chicago,Western,Amos Alonzo Stagg,L,6,15
+1900-09-29,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,Walter Okeson,W,27,6
+1900-10-10,Pennsylvania,Ind,George Woodruff,H,Dickinson,Ind,Sam Boyle,W,35,0
+1900-10-13,Pennsylvania,Ind,George Woodruff,H,Brown,Ind,Edward Robinson,W,12,0
+1900-10-17,Pennsylvania,Ind,George Woodruff,H,Penn State,Ind,Pop Golden,W,17,5
+1900-10-20,Pennsylvania,Ind,George Woodruff,H,Columbia,Ind,George Sanford,W,30,0
+1900-10-27,Pennsylvania,Ind,George Woodruff,H,Chicago,Western,Amos Alonzo Stagg,W,41,0
+1900-11-03,Pennsylvania,Ind,George Woodruff,A,Harvard,Ind,,L,5,17
+1900-11-10,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Samuel Newton,W,12,5
+1900-11-17,Pennsylvania,Ind,George Woodruff,H,Carlisle,Ind,Pop Warner,W,16,6
+1900-11-21,Pennsylvania,Ind,George Woodruff,A,Navy,Ind,Garrett Cochran,W,28,6
+1900-11-29,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Percy Haughton,W,27,0
+1900-10-13,Beloit,Ind,John Hollister,N,Wisconsin,Western,Phil King,L,0,11
+1900-10-27,Beloit,Ind,John Hollister,A,Northwestern,Western,Charles Hollister,T,6,6
+1900-11-03,Beloit,Ind,John Hollister,A,Notre Dame,Ind,Patrick O'Dea,T,6,6
+1900-11-29,Beloit,Ind,John Hollister,H,Knox,Ind,,W,43,0
+1900-10-26,Iowa,Western,Alden Knipe,H,Drake,Ind,,W,26,0
+1900-11-03,Iowa,Western,Alden Knipe,A,Chicago,Western,Amos Alonzo Stagg,W,17,0
+1900-11-10,Iowa,Western,Alden Knipe,A,Michigan,Western,Biff Lea,W,28,5
+1900-11-16,Iowa,Western,Alden Knipe,H,Grinnell,Ind,C.E. Harris,W,63,2
+1900-11-29,Iowa,Western,Alden Knipe,A,Northwestern,Western,Charles Hollister,T,5,5
+1900-10-13,Navy,Ind,Garrett Cochran,H,Princeton,Ind,,L,0,5
+1900-10-24,Navy,Ind,Garrett Cochran,H,Lehigh,Ind,Walter Okeson,W,15,0
+1900-11-10,Navy,Ind,Garrett Cochran,H,Penn State,Ind,Pop Golden,W,44,0
+1900-11-17,Navy,Ind,Garrett Cochran,H,Columbia,Ind,George Sanford,L,0,11
+1900-11-21,Navy,Ind,Garrett Cochran,H,Pennsylvania,Ind,George Woodruff,L,6,28
+1900-12-01,Navy,Ind,Garrett Cochran,N,Army,Ind,Herman Koehler,W,11,7
+1900-09-29,Tufts,Ind, Hopkins,A,Army,Ind,Herman Koehler,L,0,5
+1900-10-06,Tufts,Ind, Hopkins,A,Yale,Ind,Malcolm McBride,L,0,30
+1900-10-13,Tufts,Ind, Hopkins,A,Bowdoin,Ind,James Lathrop,L,0,5
+1900-10-20,Tufts,Ind, Hopkins,A,Dartmouth,Ind,F.E. Jennings,L,0,12
+1900-10-27,Tufts,Ind, Hopkins,H,Amherst,Ind,Harry Smith,W,11,0
+1900-11-10,Tufts,Ind, Hopkins,A,Brown,Ind,Edward Robinson,L,5,26
+1900-11-17,Tufts,Ind, Hopkins,H,Bowdoin,Ind,James Lathrop,L,11,17
+1900-11-24,Tufts,Ind, Hopkins,H,Holy Cross,Ind,Maurice Connor,W,27,0
+1900-10-06,Columbia,Ind,George Sanford,H,Wesleyan (CT),Ind,Bert Wilson,W,12,0
+1900-10-10,Columbia,Ind,George Sanford,H,Williams,Ind,,T,0,0
+1900-10-13,Columbia,Ind,George Sanford,A,Harvard,Ind,,L,0,24
+1900-10-20,Columbia,Ind,George Sanford,A,Pennsylvania,Ind,George Woodruff,L,0,30
+1900-10-27,Columbia,Ind,George Sanford,H,Yale,Ind,Malcolm McBride,L,5,12
+1900-11-06,Columbia,Ind,George Sanford,H,Princeton,Ind,,W,6,5
+1900-11-17,Columbia,Ind,George Sanford,A,Navy,Ind,Garrett Cochran,W,11,0
+1900-11-29,Columbia,Ind,George Sanford,H,Carlisle,Ind,Pop Warner,W,17,6
+1900-10-03,Amherst,Ind,Harry Smith,A,Yale,Ind,Malcolm McBride,L,0,27
+1900-10-10,Amherst,Ind,Harry Smith,A,Harvard,Ind,,L,0,18
+1900-10-20,Amherst,Ind,Harry Smith,A,Syracuse,Ind,,L,0,5
+1900-10-27,Amherst,Ind,Harry Smith,A,Tufts,Ind, Hopkins,L,0,11
+1900-11-03,Amherst,Ind,Harry Smith,H,Bowdoin,Ind,James Lathrop,L,6,11
+1900-11-07,Amherst,Ind,Harry Smith,H,Trinity (CT),Ind,J.H. Callahan,T,0,0
+1900-11-10,Amherst,Ind,Harry Smith,H,Williams,Ind,,L,5,16
+1900-11-24,Amherst,Ind,Harry Smith,A,Wesleyan (CT),Ind,Bert Wilson,L,0,17
+1900-11-29,Amherst,Ind,Harry Smith,H,Massachusetts,Ind,Fred Brown,W,18,0
+1900-10-20,Lafayette,Ind,Samuel Newton,H,Princeton,Ind,,L,0,5
+1900-11-03,Lafayette,Ind,Samuel Newton,A,Lehigh,Ind,Walter Okeson,W,34,0
+1900-11-10,Lafayette,Ind,Samuel Newton,A,Pennsylvania,Ind,George Woodruff,L,5,12
+1900-11-17,Lafayette,Ind,Samuel Newton,H,Cornell,Ind,Percy Haughton,W,17,0
+1900-11-24,Lafayette,Ind,Samuel Newton,H,Lehigh,Ind,Walter Okeson,W,18,0
+1900-11-29,Lafayette,Ind,Samuel Newton,H,Dickinson,Ind,Sam Boyle,W,10,6
+1900-10-13,Illinois,Western,Fred Smith,H,Knox,Ind,,W,16,0
+1900-10-20,Illinois,Western,Fred Smith,A,Northwestern,Western,Charles Hollister,T,0,0
+1900-10-27,Illinois,Western,Fred Smith,H,Michigan,Western,Biff Lea,L,0,12
+1900-11-03,Illinois,Western,Fred Smith,H,Purdue,Western,Alpha Jamison,W,17,5
+1900-11-10,Illinois,Western,Fred Smith,A,Minnesota,Western,Henry Williams,L,0,23
+1900-11-17,Illinois,Western,Fred Smith,A,Indiana,Western,James Horne,T,0,0
+1900-11-24,Illinois,Western,Fred Smith,A,Wisconsin,Western,Phil King,L,0,27
+1900-10-25,Notre Dame,Ind,Patrick O'Dea,A,Indiana,Western,James Horne,L,0,6
+1900-11-03,Notre Dame,Ind,Patrick O'Dea,H,Beloit,Ind,John Hollister,T,6,6
+1900-11-10,Notre Dame,Ind,Patrick O'Dea,A,Wisconsin,Western,Phil King,L,0,54
+1900-11-17,Notre Dame,Ind,Patrick O'Dea,A,Michigan,Western,Biff Lea,L,0,7
+1900-09-29,Cornell,Ind,Percy Haughton,H,Syracuse,Ind,,W,6,0
+1900-10-06,Cornell,Ind,Percy Haughton,H,Bucknell,Ind,George Hoskins,W,6,0
+1900-10-27,Cornell,Ind,Percy Haughton,H,Dartmouth,Ind,F.E. Jennings,W,23,6
+1900-11-03,Cornell,Ind,Percy Haughton,A,Princeton,Ind,,W,12,0
+1900-11-17,Cornell,Ind,Percy Haughton,A,Lafayette,Ind,Samuel Newton,L,0,17
+1900-11-29,Cornell,Ind,Percy Haughton,A,Pennsylvania,Ind,George Woodruff,L,0,27
+1900-10-06,Drake,Ind,,H,Grinnell,Ind,C.E. Harris,W,6,0
+1900-10-20,Drake,Ind,,A,Nebraska,Ind,Walter Booth,L,0,8
+1900-10-26,Drake,Ind,,A,Iowa,Western,Alden Knipe,L,0,26
+1900-11-10,Drake,Ind,,H,Iowa State,Ind,,W,16,0
+1900-11-24,Drake,Ind,,H,Grinnell,Ind,C.E. Harris,W,17,0

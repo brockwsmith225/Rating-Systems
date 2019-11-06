@@ -1,0 +1,421 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1903-10-10,North Carolina,Ind,H.B. Olcott,A,South Carolina,Ind,C.R. Williams,W,17,0
+1903-10-17,North Carolina,Ind,H.B. Olcott,N,Georgetown,Ind,Phil King,L,0,33
+1903-11-07,North Carolina,Ind,H.B. Olcott,N,Virginia Tech,Ind,C.A. Lueder,L,0,21
+1903-11-14,North Carolina,Ind,H.B. Olcott,H,Clemson,Ind,John Heisman,W,11,6
+1903-11-25,North Carolina,Ind,H.B. Olcott,A,Virginia,Ind,Gresham Poe,W,16,0
+1903-09-26,Dickinson,Ind,Charles Hutchins,A,Pennsylvania,Ind,,L,0,27
+1903-10-10,Dickinson,Ind,Charles Hutchins,A,Army,Ind,Edward King,L,0,12
+1903-10-17,Dickinson,Ind,Charles Hutchins,A,Navy,Ind,,L,0,5
+1903-10-31,Dickinson,Ind,Charles Hutchins,A,Lehigh,Ind,Samuel Newton,L,0,17
+1903-11-14,Dickinson,Ind,Charles Hutchins,N,Penn State,Ind,Daniel Reed,W,6,0
+1903-11-26,Dickinson,Ind,Charles Hutchins,A,Lafayette,Ind,,W,35,0
+1903-10-03,Indiana,Western,James Horne,A,Chicago,Western,Amos Alonzo Stagg,L,0,34
+1903-10-17,Indiana,Western,James Horne,A,Michigan,Western,Fielding Yost,L,0,51
+1903-11-06,Indiana,Western,James Horne,H,Illinois,Western,George Woodruff,W,17,0
+1903-09-30,Yale,Ind,George Chadwick,H,Tufts,Ind,Charles Whelan,W,19,0
+1903-10-03,Yale,Ind,George Chadwick,H,Vermont,Ind,,W,46,0
+1903-10-07,Yale,Ind,George Chadwick,H,Wesleyan (CT),Ind,Howard Reiter,W,33,0
+1903-10-14,Yale,Ind,George Chadwick,H,Holy Cross,Ind,Frank Cavanaugh,W,36,10
+1903-10-17,Yale,Ind,George Chadwick,H,Penn State,Ind,Daniel Reed,W,27,0
+1903-10-24,Yale,Ind,George Chadwick,A,Army,Ind,Edward King,W,17,5
+1903-10-31,Yale,Ind,George Chadwick,H,Columbia,Ind,William Morley,W,25,0
+1903-11-14,Yale,Ind,George Chadwick,H,Princeton,Ind,,L,6,11
+1903-11-21,Yale,Ind,George Chadwick,A,Harvard,Ind,John Cranston,W,16,0
+1903-10-10,Iowa State,Ind,,A,Minnesota,Western,Henry Williams,L,0,46
+1903-11-07,Iowa State,Ind,,A,Grinnell,Ind,Martin Bergen,W,41,6
+1903-11-14,Iowa State,Ind,,A,Simpson,Ind,Graham Reid,W,11,2
+1903-11-20,Iowa State,Ind,,A,Cornell College,Ind,,W,41,0
+1903-11-26,Iowa State,Ind,,A,Drake,Ind,W.J. Monilaw,W,16,0
+1903-10-03,Carlisle,Ind,Pop Warner,N,Bucknell,Ind,George Hoskins,W,12,0
+1903-10-17,Carlisle,Ind,Pop Warner,A,Princeton,Ind,,L,0,11
+1903-10-24,Carlisle,Ind,Pop Warner,H,Swarthmore,Ind,George Brooke,W,12,5
+1903-10-31,Carlisle,Ind,Pop Warner,A,Harvard,Ind,John Cranston,L,11,12
+1903-11-07,Carlisle,Ind,Pop Warner,A,Georgetown,Ind,Phil King,W,28,6
+1903-11-14,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,,W,16,6
+1903-11-21,Carlisle,Ind,Pop Warner,A,Virginia,Ind,Gresham Poe,T,6,6
+1903-11-26,Carlisle,Ind,Pop Warner,A,Northwestern,Western,Walter McCornack,W,28,0
+1903-10-03,Grinnell,Ind,Martin Bergen,A,Minnesota,Western,Henry Williams,L,0,39
+1903-10-12,Grinnell,Ind,Martin Bergen,A,Missouri,Ind,John McLean,W,15,6
+1903-10-17,Grinnell,Ind,Martin Bergen,A,Simpson,Ind,Graham Reid,W,24,5
+1903-10-24,Grinnell,Ind,Martin Bergen,H,Iowa,Western,John Chalmers,L,0,17
+1903-10-31,Grinnell,Ind,Martin Bergen,A,Cornell College,Ind,,W,15,10
+1903-11-07,Grinnell,Ind,Martin Bergen,H,Iowa State,Ind,,L,6,41
+1903-11-14,Grinnell,Ind,Martin Bergen,H,Drake,Ind,W.J. Monilaw,L,0,32
+1903-10-03,Knox,Ind,,A,Illinois,Western,George Woodruff,L,5,29
+1903-10-24,Knox,Ind,,A,Wisconsin,Western,Arthur Curtis,L,6,54
+1903-11-03,Knox,Ind,,A,Lombard,Ind,,L,0,6
+1903-11-07,Knox,Ind,,A,Nebraska,Ind,Walter Booth,L,5,33
+1903-11-26,Knox,Ind,,N,Beloit,Ind,John Hollister,W,23,0
+1903-10-17,Georgia Tech,Ind,,H,Clemson,Ind,John Heisman,L,0,73
+1903-10-24,Georgia Tech,Ind,,H,Georgia,Ind,Marvin Dickinson,L,0,38
+1903-11-14,Georgia Tech,Ind,,H,Auburn,Ind,Billy Bates,L,5,10
+1903-11-21,Georgia Tech,Ind,,A,Tennessee,Ind,H.E. Fisher,L,0,11
+1903-11-26,Georgia Tech,Ind,,H,South Carolina,Ind,C.R. Williams,L,0,16
+1903-09-26,Haskell,Ind,,A,Colorado College,Ind,E.S. Merrill,W,45,0
+1903-10-09,Haskell,Ind,,A,Texas,Ind,Ralph Hutchinson,W,6,0
+1903-10-17,Haskell,Ind,,A,Nebraska,Ind,Walter Booth,L,0,16
+1903-10-24,Haskell,Ind,,A,Kansas,Ind,Harrison Weeks,W,12,6
+1903-10-31,Haskell,Ind,,N,Missouri,Ind,John McLean,W,12,0
+1903-11-07,Haskell,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,11,17
+1903-11-26,Haskell,Ind,,A,Denver,Ind,,W,12,5
+1903-10-03,Georgetown,Ind,Phil King,A,Princeton,Ind,,L,0,5
+1903-10-17,Georgetown,Ind,Phil King,N,North Carolina,Ind,H.B. Olcott,W,33,0
+1903-10-28,Georgetown,Ind,Phil King,A,Navy,Ind,,W,12,5
+1903-11-07,Georgetown,Ind,Phil King,H,Carlisle,Ind,Pop Warner,L,6,28
+1903-11-26,Georgetown,Ind,Phil King,H,Lehigh,Ind,Samuel Newton,L,6,12
+1903-10-03,Army,Ind,Edward King,H,Tufts,Ind,Charles Whelan,W,17,0
+1903-10-10,Army,Ind,Edward King,H,Dickinson,Ind,Charles Hutchins,W,12,0
+1903-10-17,Army,Ind,Edward King,H,Harvard,Ind,John Cranston,L,0,5
+1903-10-24,Army,Ind,Edward King,H,Yale,Ind,George Chadwick,L,5,17
+1903-10-31,Army,Ind,Edward King,H,Vermont,Ind,,W,32,0
+1903-11-14,Army,Ind,Edward King,H,Chicago,Western,Amos Alonzo Stagg,W,10,6
+1903-11-28,Army,Ind,Edward King,N,Navy,Ind,,W,40,5
+1903-10-10,Penn State,Ind,Daniel Reed,A,Pennsylvania,Ind,,L,0,39
+1903-10-17,Penn State,Ind,Daniel Reed,A,Yale,Ind,George Chadwick,L,0,27
+1903-10-31,Penn State,Ind,Daniel Reed,A,Navy,Ind,,W,17,0
+1903-11-14,Penn State,Ind,Daniel Reed,N,Dickinson,Ind,Charles Hutchins,L,0,6
+1903-09-26,Wesleyan (CT),Ind,Howard Reiter,A,Columbia,Ind,William Morley,L,0,10
+1903-10-03,Wesleyan (CT),Ind,Howard Reiter,A,Brown,Ind,D.S. Fultz,L,0,11
+1903-10-07,Wesleyan (CT),Ind,Howard Reiter,A,Yale,Ind,George Chadwick,L,0,33
+1903-10-10,Wesleyan (CT),Ind,Howard Reiter,H,Holy Cross,Ind,Frank Cavanaugh,L,5,11
+1903-10-14,Wesleyan (CT),Ind,Howard Reiter,A,Harvard,Ind,John Cranston,L,6,17
+1903-10-31,Wesleyan (CT),Ind,Howard Reiter,A,Dartmouth,Ind,Fred Folsom,L,6,34
+1903-11-07,Wesleyan (CT),Ind,Howard Reiter,A,Williams,Ind,,T,5,5
+1903-09-26,Dartmouth,Ind,Fred Folsom,H,Massachusetts,Ind,James Halligan,W,12,0
+1903-10-03,Dartmouth,Ind,Fred Folsom,H,Holy Cross,Ind,Frank Cavanaugh,W,18,0
+1903-10-07,Dartmouth,Ind,Fred Folsom,A,Vermont,Ind,,W,36,0
+1903-10-17,Dartmouth,Ind,Fred Folsom,A,Williams,Ind,,W,17,0
+1903-10-24,Dartmouth,Ind,Fred Folsom,A,Princeton,Ind,,L,0,17
+1903-10-31,Dartmouth,Ind,Fred Folsom,H,Wesleyan (CT),Ind,Howard Reiter,W,34,6
+1903-11-07,Dartmouth,Ind,Fred Folsom,A,Amherst,Ind,Harry Smith,W,18,0
+1903-11-14,Dartmouth,Ind,Fred Folsom,A,Harvard,Ind,John Cranston,W,11,0
+1903-11-26,Dartmouth,Ind,Fred Folsom,N,Brown,Ind,D.S. Fultz,W,62,0
+1903-09-26,Princeton,Ind,,H,Swarthmore,Ind,George Brooke,W,34,0
+1903-10-03,Princeton,Ind,,H,Georgetown,Ind,Phil King,W,5,0
+1903-10-10,Princeton,Ind,,A,Brown,Ind,D.S. Fultz,W,29,0
+1903-10-14,Princeton,Ind,,H,Lehigh,Ind,Samuel Newton,W,12,0
+1903-10-17,Princeton,Ind,,H,Carlisle,Ind,Pop Warner,W,11,0
+1903-10-21,Princeton,Ind,,H,Bucknell,Ind,George Hoskins,W,17,0
+1903-10-24,Princeton,Ind,,H,Dartmouth,Ind,Fred Folsom,W,17,0
+1903-10-31,Princeton,Ind,,H,Cornell,Ind,,W,44,0
+1903-11-07,Princeton,Ind,,H,Lafayette,Ind,,W,11,0
+1903-11-14,Princeton,Ind,,A,Yale,Ind,George Chadwick,W,11,6
+1903-10-03,Vanderbilt,Ind,J.H. Henry,H,Cumberland,Ind,,L,0,6
+1903-10-10,Vanderbilt,Ind,J.H. Henry,H,Alabama,Ind,W.B. Blount,W,30,0
+1903-10-17,Vanderbilt,Ind,J.H. Henry,H,Tennessee,Ind,H.E. Fisher,W,40,0
+1903-10-31,Vanderbilt,Ind,J.H. Henry,A,Georgia,Ind,Marvin Dickinson,W,33,0
+1903-11-06,Vanderbilt,Ind,J.H. Henry,A,Texas,Ind,Ralph Hutchinson,T,5,5
+1903-11-14,Vanderbilt,Ind,J.H. Henry,H,Washington (MO),Ind,L.W. Boynton,W,41,0
+1903-11-21,Vanderbilt,Ind,J.H. Henry,H,Sewanee,Ind,George Whitney,W,10,5
+1903-09-26,Colorado College,Ind,E.S. Merrill,H,Haskell,Ind,,L,0,45
+1903-10-24,Colorado College,Ind,E.S. Merrill,H,Denver,Ind,,W,6,0
+1903-11-03,Colorado College,Ind,E.S. Merrill,H,Colorado State,Ind,Matt Rothwell,L,5,8
+1903-11-14,Colorado College,Ind,E.S. Merrill,A,Colorado,Ind,David Cropp,L,6,31
+1903-11-26,Colorado College,Ind,E.S. Merrill,H,Colorado Mines,Ind,,L,5,16
+1903-10-23,Auburn,Ind,Billy Bates,N,Alabama,Ind,W.B. Blount,L,6,18
+1903-10-31,Auburn,Ind,Billy Bates,H,Sewanee,Ind,George Whitney,L,0,47
+1903-11-14,Auburn,Ind,Billy Bates,A,Georgia Tech,Ind,,W,10,5
+1903-11-26,Auburn,Ind,Billy Bates,A,Georgia,Ind,Marvin Dickinson,L,13,22
+1903-10-03,Northwestern,Western,Walter McCornack,H,Lombard,Ind,,W,23,0
+1903-10-10,Northwestern,Western,Walter McCornack,A,Washington (MO),Ind,L.W. Boynton,W,23,0
+1903-10-17,Northwestern,Western,Walter McCornack,A,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1903-10-31,Northwestern,Western,Walter McCornack,A,Illinois,Western,George Woodruff,W,12,11
+1903-11-21,Northwestern,Western,Walter McCornack,H,Wisconsin,Western,Arthur Curtis,T,6,6
+1903-11-26,Northwestern,Western,Walter McCornack,H,Carlisle,Ind,Pop Warner,L,0,28
+1903-09-19,Lombard,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,0,34
+1903-09-26,Lombard,Ind,,A,Illinois,Western,George Woodruff,L,0,43
+1903-10-03,Lombard,Ind,,A,Northwestern,Western,Walter McCornack,L,0,23
+1903-10-24,Lombard,Ind,,H,Washington (MO),Ind,L.W. Boynton,W,11,6
+1903-11-03,Lombard,Ind,,H,Knox,Ind,,W,6,0
+1903-10-03,Cumberland,Ind,,A,Vanderbilt,Ind,J.H. Henry,W,6,0
+1903-10-10,Cumberland,Ind,,A,Sewanee,Ind,George Whitney,L,0,6
+1903-11-14,Cumberland,Ind,,A,Alabama,Ind,W.B. Blount,W,44,0
+1903-11-26,Cumberland,Ind,,N,Clemson,Ind,John Heisman,T,11,11
+1903-10-17,Kansas,Ind,Harrison Weeks,A,Colorado,Ind,David Cropp,W,12,11
+1903-10-24,Kansas,Ind,Harrison Weeks,H,Haskell,Ind,,L,6,12
+1903-11-07,Kansas,Ind,Harrison Weeks,H,Oklahoma,Ind,Mark McMahon,W,17,5
+1903-11-14,Kansas,Ind,Harrison Weeks,H,Nebraska,Ind,Walter Booth,L,0,6
+1903-11-26,Kansas,Ind,Harrison Weeks,N,Missouri,Ind,John McLean,W,5,0
+1903-09-26,Pennsylvania,Ind,,H,Dickinson,Ind,Charles Hutchins,W,27,0
+1903-10-03,Pennsylvania,Ind,,H,Lehigh,Ind,Samuel Newton,W,16,0
+1903-10-10,Pennsylvania,Ind,,H,Penn State,Ind,Daniel Reed,W,39,0
+1903-10-17,Pennsylvania,Ind,,H,Brown,Ind,D.S. Fultz,W,30,0
+1903-10-22,Pennsylvania,Ind,,A,Columbia,Ind,William Morley,L,6,18
+1903-10-31,Pennsylvania,Ind,,H,Bucknell,Ind,George Hoskins,W,47,6
+1903-11-07,Pennsylvania,Ind,,H,Harvard,Ind,John Cranston,L,10,17
+1903-11-14,Pennsylvania,Ind,,H,Carlisle,Ind,Pop Warner,L,6,16
+1903-11-26,Pennsylvania,Ind,,H,Cornell,Ind,,W,42,0
+1903-10-03,Beloit,Ind,John Hollister,A,Purdue,Western,Oliver Cutts,L,0,17
+1903-10-10,Beloit,Ind,John Hollister,A,Michigan,Western,Fielding Yost,L,0,79
+1903-10-17,Beloit,Ind,John Hollister,A,Wisconsin,Western,Arthur Curtis,L,0,87
+1903-10-24,Beloit,Ind,John Hollister,A,Minnesota,Western,Henry Williams,L,0,46
+1903-11-26,Beloit,Ind,John Hollister,N,Knox,Ind,,L,0,23
+1903-09-27,Iowa,Western,John Chalmers,H,Cornell College,Ind,,W,6,0
+1903-10-10,Iowa,Western,John Chalmers,H,Drake,Ind,W.J. Monilaw,W,22,6
+1903-10-17,Iowa,Western,John Chalmers,A,Minnesota,Western,Henry Williams,L,0,75
+1903-10-24,Iowa,Western,John Chalmers,A,Grinnell,Ind,Martin Bergen,W,17,0
+1903-10-31,Iowa,Western,John Chalmers,H,Nebraska,Ind,Walter Booth,L,6,17
+1903-11-06,Iowa,Western,John Chalmers,H,Simpson,Ind,Graham Reid,W,35,2
+1903-11-14,Iowa,Western,John Chalmers,A,Missouri,Ind,John McLean,W,16,0
+1903-11-21,Iowa,Western,John Chalmers,H,Illinois,Western,George Woodruff,W,12,0
+1903-11-26,Iowa,Western,John Chalmers,A,Washington (MO),Ind,L.W. Boynton,W,12,2
+1903-09-26,Columbia,Ind,William Morley,H,Wesleyan (CT),Ind,Howard Reiter,W,10,0
+1903-10-10,Columbia,Ind,William Morley,H,Williams,Ind,,W,5,0
+1903-10-14,Columbia,Ind,William Morley,H,Swarthmore,Ind,George Brooke,W,5,0
+1903-10-17,Columbia,Ind,William Morley,H,Amherst,Ind,Harry Smith,W,12,0
+1903-10-22,Columbia,Ind,William Morley,H,Pennsylvania,Ind,,W,18,6
+1903-10-31,Columbia,Ind,William Morley,A,Yale,Ind,George Chadwick,L,0,25
+1903-11-14,Columbia,Ind,William Morley,A,Cornell,Ind,,W,17,12
+1903-10-10,Amherst,Ind,Harry Smith,A,Harvard,Ind,John Cranston,W,5,0
+1903-10-17,Amherst,Ind,Harry Smith,A,Columbia,Ind,William Morley,L,0,12
+1903-10-24,Amherst,Ind,Harry Smith,A,Holy Cross,Ind,Frank Cavanaugh,L,0,36
+1903-11-07,Amherst,Ind,Harry Smith,H,Dartmouth,Ind,Fred Folsom,L,0,18
+1903-11-21,Amherst,Ind,Harry Smith,A,Massachusetts,Ind,James Halligan,W,11,6
+1903-09-26,Illinois,Western,George Woodruff,H,Lombard,Ind,,W,43,0
+1903-10-03,Illinois,Western,George Woodruff,H,Knox,Ind,,W,29,5
+1903-10-17,Illinois,Western,George Woodruff,A,Purdue,Western,Oliver Cutts,W,24,0
+1903-10-24,Illinois,Western,George Woodruff,A,Chicago,Western,Amos Alonzo Stagg,L,6,18
+1903-10-31,Illinois,Western,George Woodruff,H,Northwestern,Western,Walter McCornack,L,11,12
+1903-11-06,Illinois,Western,George Woodruff,A,Indiana,Western,James Horne,L,0,17
+1903-11-14,Illinois,Western,George Woodruff,H,Minnesota,Western,Henry Williams,L,0,32
+1903-11-21,Illinois,Western,George Woodruff,A,Iowa,Western,John Chalmers,L,0,12
+1903-11-26,Illinois,Western,George Woodruff,A,Nebraska,Ind,Walter Booth,L,0,16
+1903-10-09,Texas,Ind,Ralph Hutchinson,H,Haskell,Ind,,L,0,6
+1903-10-17,Texas,Ind,Ralph Hutchinson,H,Oklahoma,Ind,Mark McMahon,T,6,6
+1903-10-24,Texas,Ind,Ralph Hutchinson,N,Baylor,Ind,R.N. Watts,W,48,0
+1903-11-06,Texas,Ind,Ralph Hutchinson,H,Vanderbilt,Ind,J.H. Henry,T,5,5
+1903-11-13,Texas,Ind,Ralph Hutchinson,A,Oklahoma,Ind,Mark McMahon,W,11,5
+1903-11-29,Texas,Ind,Ralph Hutchinson,H,Texas A&M,Ind,J.E. Platt,W,29,6
+1903-10-03,Texas Christian,Ind,,N,Baylor,Ind,R.N. Watts,L,0,12
+1903-10-10,Texas Christian,Ind,,N,Texas A&M,Ind,J.E. Platt,L,0,11
+1903-10-31,Texas Christian,Ind,,N,Baylor,Ind,R.N. Watts,L,0,5
+1903-11-14,Texas Christian,Ind,,A,Texas A&M,Ind,J.E. Platt,L,0,16
+1903-11-28,Texas Christian,Ind,,A,Texas A&M,Ind,J.E. Platt,L,6,14
+1903-10-03,Baylor,Ind,R.N. Watts,N,Texas Christian,Ind,,W,12,0
+1903-10-17,Baylor,Ind,R.N. Watts,H,Texas A&M,Ind,J.E. Platt,T,0,0
+1903-10-24,Baylor,Ind,R.N. Watts,N,Texas,Ind,Ralph Hutchinson,L,0,48
+1903-10-31,Baylor,Ind,R.N. Watts,N,Texas Christian,Ind,,W,5,0
+1903-11-07,Baylor,Ind,R.N. Watts,A,Texas A&M,Ind,J.E. Platt,L,0,16
+1903-11-21,Baylor,Ind,R.N. Watts,A,Texas A&M,Ind,J.E. Platt,L,0,5
+1903-10-10,Georgia,Ind,Marvin Dickinson,H,Clemson,Ind,John Heisman,L,0,29
+1903-10-17,Georgia,Ind,Marvin Dickinson,H,South Carolina,Ind,C.R. Williams,L,0,17
+1903-10-24,Georgia,Ind,Marvin Dickinson,A,Georgia Tech,Ind,,W,38,0
+1903-10-31,Georgia,Ind,Marvin Dickinson,H,Vanderbilt,Ind,J.H. Henry,L,0,33
+1903-11-07,Georgia,Ind,Marvin Dickinson,A,Tennessee,Ind,H.E. Fisher,W,5,0
+1903-11-26,Georgia,Ind,Marvin Dickinson,H,Auburn,Ind,Billy Bates,W,22,13
+1903-10-14,Virginia,Ind,Gresham Poe,A,Navy,Ind,,L,5,6
+1903-10-24,Virginia,Ind,Gresham Poe,N,Virginia Tech,Ind,C.A. Lueder,W,21,0
+1903-11-21,Virginia,Ind,Gresham Poe,H,Carlisle,Ind,Pop Warner,T,6,6
+1903-11-25,Virginia,Ind,Gresham Poe,H,North Carolina,Ind,H.B. Olcott,L,0,16
+1903-10-03,Vermont,Ind,,A,Yale,Ind,George Chadwick,L,0,46
+1903-10-07,Vermont,Ind,,H,Dartmouth,Ind,Fred Folsom,L,0,36
+1903-10-24,Vermont,Ind,,H,Massachusetts,Ind,James Halligan,L,0,5
+1903-10-31,Vermont,Ind,,A,Army,Ind,Edward King,L,0,32
+1903-11-07,Vermont,Ind,,A,Brown,Ind,D.S. Fultz,L,0,24
+1903-10-03,Brown,Ind,D.S. Fultz,H,Wesleyan (CT),Ind,Howard Reiter,W,11,0
+1903-10-10,Brown,Ind,D.S. Fultz,H,Princeton,Ind,,L,0,29
+1903-10-17,Brown,Ind,D.S. Fultz,A,Pennsylvania,Ind,,L,0,30
+1903-10-24,Brown,Ind,D.S. Fultz,A,Harvard,Ind,John Cranston,L,0,29
+1903-10-31,Brown,Ind,D.S. Fultz,H,Williams,Ind,,W,22,0
+1903-11-07,Brown,Ind,D.S. Fultz,H,Vermont,Ind,,W,24,0
+1903-11-26,Brown,Ind,D.S. Fultz,N,Dartmouth,Ind,Fred Folsom,L,0,62
+1903-10-17,Oklahoma,Ind,Mark McMahon,A,Texas,Ind,Ralph Hutchinson,T,6,6
+1903-10-24,Oklahoma,Ind,Mark McMahon,A,Texas A&M,Ind,J.E. Platt,W,6,0
+1903-11-07,Oklahoma,Ind,Mark McMahon,A,Kansas,Ind,Harrison Weeks,L,5,17
+1903-11-13,Oklahoma,Ind,Mark McMahon,H,Texas,Ind,Ralph Hutchinson,L,5,11
+1903-10-17,Tennessee,Ind,H.E. Fisher,A,Vanderbilt,Ind,J.H. Henry,L,0,40
+1903-10-29,Tennessee,Ind,H.E. Fisher,A,South Carolina,Ind,C.R. Williams,L,0,24
+1903-11-07,Tennessee,Ind,H.E. Fisher,H,Georgia,Ind,Marvin Dickinson,L,0,5
+1903-11-14,Tennessee,Ind,H.E. Fisher,H,Sewanee,Ind,George Whitney,L,0,17
+1903-11-21,Tennessee,Ind,H.E. Fisher,H,Georgia Tech,Ind,,W,11,0
+1903-11-26,Tennessee,Ind,H.E. Fisher,A,Alabama,Ind,W.B. Blount,L,0,24
+1903-10-24,Virginia Tech,Ind,C.A. Lueder,N,Virginia,Ind,Gresham Poe,L,0,21
+1903-11-07,Virginia Tech,Ind,C.A. Lueder,N,North Carolina,Ind,H.B. Olcott,W,21,0
+1903-11-21,Virginia Tech,Ind,C.A. Lueder,A,Navy,Ind,,W,11,0
+1903-10-03,Lehigh,Ind,Samuel Newton,A,Pennsylvania,Ind,,L,0,16
+1903-10-07,Lehigh,Ind,Samuel Newton,A,Swarthmore,Ind,George Brooke,W,10,5
+1903-10-14,Lehigh,Ind,Samuel Newton,A,Princeton,Ind,,L,0,12
+1903-10-31,Lehigh,Ind,Samuel Newton,H,Dickinson,Ind,Charles Hutchins,W,17,0
+1903-11-07,Lehigh,Ind,Samuel Newton,A,Cornell,Ind,,T,0,0
+1903-11-21,Lehigh,Ind,Samuel Newton,H,Lafayette,Ind,,W,12,6
+1903-11-26,Lehigh,Ind,Samuel Newton,A,Georgetown,Ind,Phil King,W,12,6
+1903-10-10,Alabama,Ind,W.B. Blount,A,Vanderbilt,Ind,J.H. Henry,L,0,30
+1903-10-23,Alabama,Ind,W.B. Blount,N,Auburn,Ind,Billy Bates,W,18,6
+1903-11-02,Alabama,Ind,W.B. Blount,H,Sewanee,Ind,George Whitney,L,0,23
+1903-11-14,Alabama,Ind,W.B. Blount,H,Cumberland,Ind,,L,0,44
+1903-11-26,Alabama,Ind,W.B. Blount,H,Tennessee,Ind,H.E. Fisher,W,24,0
+1903-10-10,Clemson,Ind,John Heisman,A,Georgia,Ind,Marvin Dickinson,W,29,0
+1903-10-17,Clemson,Ind,John Heisman,A,Georgia Tech,Ind,,W,73,0
+1903-11-14,Clemson,Ind,John Heisman,A,North Carolina,Ind,H.B. Olcott,L,6,11
+1903-11-26,Clemson,Ind,John Heisman,N,Cumberland,Ind,,T,11,11
+1903-10-03,Purdue,Western,Oliver Cutts,H,Beloit,Ind,John Hollister,W,17,0
+1903-10-10,Purdue,Western,Oliver Cutts,A,Chicago,Western,Amos Alonzo Stagg,L,0,22
+1903-10-17,Purdue,Western,Oliver Cutts,H,Illinois,Western,George Woodruff,L,0,24
+1903-10-10,South Carolina,Ind,C.R. Williams,H,North Carolina,Ind,H.B. Olcott,L,0,17
+1903-10-17,South Carolina,Ind,C.R. Williams,A,Georgia,Ind,Marvin Dickinson,W,17,0
+1903-10-29,South Carolina,Ind,C.R. Williams,H,Tennessee,Ind,H.E. Fisher,W,24,0
+1903-11-26,South Carolina,Ind,C.R. Williams,A,Georgia Tech,Ind,,W,16,0
+1903-10-10,Nebraska,Ind,Walter Booth,A,Denver,Ind,,W,10,0
+1903-10-17,Nebraska,Ind,Walter Booth,H,Haskell,Ind,,W,16,0
+1903-10-24,Nebraska,Ind,Walter Booth,H,Colorado,Ind,David Cropp,W,31,0
+1903-10-31,Nebraska,Ind,Walter Booth,A,Iowa,Western,John Chalmers,W,17,6
+1903-11-07,Nebraska,Ind,Walter Booth,H,Knox,Ind,,W,33,5
+1903-11-14,Nebraska,Ind,Walter Booth,A,Kansas,Ind,Harrison Weeks,W,6,0
+1903-11-26,Nebraska,Ind,Walter Booth,H,Illinois,Western,George Woodruff,W,16,0
+1903-09-19,Holy Cross,Ind,Frank Cavanaugh,H,Massachusetts,Ind,James Halligan,W,6,0
+1903-10-03,Holy Cross,Ind,Frank Cavanaugh,A,Dartmouth,Ind,Fred Folsom,L,0,18
+1903-10-10,Holy Cross,Ind,Frank Cavanaugh,A,Wesleyan (CT),Ind,Howard Reiter,W,11,5
+1903-10-14,Holy Cross,Ind,Frank Cavanaugh,A,Yale,Ind,George Chadwick,L,10,36
+1903-10-17,Holy Cross,Ind,Frank Cavanaugh,H,Tufts,Ind,Charles Whelan,W,6,5
+1903-10-24,Holy Cross,Ind,Frank Cavanaugh,H,Amherst,Ind,Harry Smith,W,36,0
+1903-11-21,Holy Cross,Ind,Frank Cavanaugh,A,Tufts,Ind,Charles Whelan,W,32,0
+1903-09-23,Harvard,Ind,John Cranston,H,Williams,Ind,,W,17,0
+1903-10-10,Harvard,Ind,John Cranston,H,Amherst,Ind,Harry Smith,L,0,5
+1903-10-14,Harvard,Ind,John Cranston,H,Wesleyan (CT),Ind,Howard Reiter,W,17,6
+1903-10-17,Harvard,Ind,John Cranston,A,Army,Ind,Edward King,W,5,0
+1903-10-24,Harvard,Ind,John Cranston,H,Brown,Ind,D.S. Fultz,W,29,0
+1903-10-31,Harvard,Ind,John Cranston,H,Carlisle,Ind,Pop Warner,W,12,11
+1903-11-07,Harvard,Ind,John Cranston,A,Pennsylvania,Ind,,W,17,10
+1903-11-14,Harvard,Ind,John Cranston,H,Dartmouth,Ind,Fred Folsom,L,0,11
+1903-11-21,Harvard,Ind,John Cranston,H,Yale,Ind,George Chadwick,L,0,16
+1903-09-23,Williams,Ind,,A,Harvard,Ind,John Cranston,L,0,17
+1903-10-07,Williams,Ind,,H,Massachusetts,Ind,James Halligan,W,17,0
+1903-10-10,Williams,Ind,,A,Columbia,Ind,William Morley,L,0,5
+1903-10-14,Williams,Ind,,H,Tufts,Ind,Charles Whelan,W,11,0
+1903-10-17,Williams,Ind,,H,Dartmouth,Ind,Fred Folsom,L,0,17
+1903-10-31,Williams,Ind,,A,Brown,Ind,D.S. Fultz,L,0,22
+1903-11-07,Williams,Ind,,H,Wesleyan (CT),Ind,Howard Reiter,T,5,5
+1903-10-10,Colorado,Ind,David Cropp,A,Colorado State,Ind,Matt Rothwell,W,5,0
+1903-10-17,Colorado,Ind,David Cropp,H,Kansas,Ind,Harrison Weeks,L,11,12
+1903-10-24,Colorado,Ind,David Cropp,A,Nebraska,Ind,Walter Booth,L,0,31
+1903-10-31,Colorado,Ind,David Cropp,A,Colorado Mines,Ind,,W,17,0
+1903-11-07,Colorado,Ind,David Cropp,A,Denver,Ind,,W,10,0
+1903-11-14,Colorado,Ind,David Cropp,H,Colorado College,Ind,E.S. Merrill,W,31,6
+1903-11-21,Colorado,Ind,David Cropp,H,Colorado Mines,Ind,,W,23,5
+1903-09-19,Massachusetts,Ind,James Halligan,A,Holy Cross,Ind,Frank Cavanaugh,L,0,6
+1903-09-26,Massachusetts,Ind,James Halligan,A,Dartmouth,Ind,Fred Folsom,L,0,12
+1903-10-07,Massachusetts,Ind,James Halligan,A,Williams,Ind,,L,0,17
+1903-10-24,Massachusetts,Ind,James Halligan,A,Vermont,Ind,,W,5,0
+1903-11-07,Massachusetts,Ind,James Halligan,H,Tufts,Ind,Charles Whelan,W,6,0
+1903-11-21,Massachusetts,Ind,James Halligan,H,Amherst,Ind,Harry Smith,L,6,11
+1903-10-12,Missouri,Ind,John McLean,H,Grinnell,Ind,Martin Bergen,L,6,15
+1903-10-17,Missouri,Ind,John McLean,H,Drake,Ind,W.J. Monilaw,L,0,17
+1903-10-23,Missouri,Ind,John McLean,H,Simpson,Ind,Graham Reid,L,0,12
+1903-10-31,Missouri,Ind,John McLean,N,Haskell,Ind,,L,0,12
+1903-11-07,Missouri,Ind,John McLean,A,Washington (MO),Ind,L.W. Boynton,T,0,0
+1903-11-14,Missouri,Ind,John McLean,H,Iowa,Western,John Chalmers,L,0,16
+1903-11-26,Missouri,Ind,John McLean,N,Kansas,Ind,Harrison Weeks,L,0,5
+1903-10-03,Denver,Ind,,A,Colorado State,Ind,Matt Rothwell,L,17,23
+1903-10-10,Denver,Ind,,H,Nebraska,Ind,Walter Booth,L,0,10
+1903-10-24,Denver,Ind,,A,Colorado College,Ind,E.S. Merrill,L,0,6
+1903-11-07,Denver,Ind,,H,Colorado,Ind,David Cropp,L,0,10
+1903-11-14,Denver,Ind,,H,Colorado Mines,Ind,,L,6,34
+1903-11-21,Denver,Ind,,H,Colorado State,Ind,Matt Rothwell,L,6,16
+1903-11-26,Denver,Ind,,H,Haskell,Ind,,L,5,12
+1903-10-17,Wisconsin,Western,Arthur Curtis,H,Beloit,Ind,John Hollister,W,87,0
+1903-10-24,Wisconsin,Western,Arthur Curtis,H,Knox,Ind,,W,54,6
+1903-10-31,Wisconsin,Western,Arthur Curtis,H,Chicago,Western,Amos Alonzo Stagg,L,6,15
+1903-11-14,Wisconsin,Western,Arthur Curtis,A,Michigan,Western,Fielding Yost,L,0,16
+1903-11-21,Wisconsin,Western,Arthur Curtis,A,Northwestern,Western,Walter McCornack,T,6,6
+1903-11-26,Wisconsin,Western,Arthur Curtis,A,Minnesota,Western,Henry Williams,L,0,17
+1903-10-03,Bucknell,Ind,George Hoskins,N,Carlisle,Ind,Pop Warner,L,0,12
+1903-10-17,Bucknell,Ind,George Hoskins,A,Cornell,Ind,,L,0,6
+1903-10-21,Bucknell,Ind,George Hoskins,A,Princeton,Ind,,L,0,17
+1903-10-31,Bucknell,Ind,George Hoskins,A,Pennsylvania,Ind,,L,6,47
+1903-11-14,Bucknell,Ind,George Hoskins,A,Navy,Ind,,W,23,5
+1903-10-03,Colorado State,Ind,Matt Rothwell,H,Denver,Ind,,W,23,17
+1903-10-10,Colorado State,Ind,Matt Rothwell,H,Colorado,Ind,David Cropp,L,0,5
+1903-10-24,Colorado State,Ind,Matt Rothwell,H,Colorado Mines,Ind,,W,10,2
+1903-11-03,Colorado State,Ind,Matt Rothwell,A,Colorado College,Ind,E.S. Merrill,W,8,5
+1903-11-21,Colorado State,Ind,Matt Rothwell,A,Denver,Ind,,W,16,6
+1903-10-17,Simpson,Ind,Graham Reid,H,Grinnell,Ind,Martin Bergen,L,5,24
+1903-10-23,Simpson,Ind,Graham Reid,A,Missouri,Ind,John McLean,W,12,0
+1903-10-31,Simpson,Ind,Graham Reid,A,Drake,Ind,W.J. Monilaw,L,2,45
+1903-11-06,Simpson,Ind,Graham Reid,A,Iowa,Western,John Chalmers,L,2,35
+1903-11-14,Simpson,Ind,Graham Reid,H,Iowa State,Ind,,L,2,11
+1903-10-10,Texas A&M,Ind,J.E. Platt,N,Texas Christian,Ind,,W,11,0
+1903-10-17,Texas A&M,Ind,J.E. Platt,A,Baylor,Ind,R.N. Watts,T,0,0
+1903-10-24,Texas A&M,Ind,J.E. Platt,H,Oklahoma,Ind,Mark McMahon,L,0,6
+1903-11-07,Texas A&M,Ind,J.E. Platt,H,Baylor,Ind,R.N. Watts,W,16,0
+1903-11-14,Texas A&M,Ind,J.E. Platt,H,Texas Christian,Ind,,W,16,0
+1903-11-21,Texas A&M,Ind,J.E. Platt,H,Baylor,Ind,R.N. Watts,W,5,0
+1903-11-28,Texas A&M,Ind,J.E. Platt,H,Texas Christian,Ind,,W,14,6
+1903-11-29,Texas A&M,Ind,J.E. Platt,A,Texas,Ind,Ralph Hutchinson,L,6,29
+1903-10-10,Washington (MO),Ind,L.W. Boynton,H,Northwestern,Western,Walter McCornack,L,0,23
+1903-10-24,Washington (MO),Ind,L.W. Boynton,A,Lombard,Ind,,L,6,11
+1903-11-07,Washington (MO),Ind,L.W. Boynton,H,Missouri,Ind,John McLean,T,0,0
+1903-11-14,Washington (MO),Ind,L.W. Boynton,A,Vanderbilt,Ind,J.H. Henry,L,0,41
+1903-11-26,Washington (MO),Ind,L.W. Boynton,H,Iowa,Western,John Chalmers,L,2,12
+1903-09-19,Chicago,Western,Amos Alonzo Stagg,H,Lombard,Ind,,W,34,0
+1903-10-03,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Horne,W,34,0
+1903-10-07,Chicago,Western,Amos Alonzo Stagg,H,Cornell College,Ind,,W,23,0
+1903-10-10,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Oliver Cutts,W,22,0
+1903-10-17,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Walter McCornack,T,0,0
+1903-10-24,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,George Woodruff,W,18,6
+1903-10-31,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,Arthur Curtis,W,15,6
+1903-11-07,Chicago,Western,Amos Alonzo Stagg,H,Haskell,Ind,,W,17,11
+1903-11-14,Chicago,Western,Amos Alonzo Stagg,A,Army,Ind,Edward King,L,6,10
+1903-11-26,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Fielding Yost,L,0,28
+1903-10-24,Colorado Mines,Ind,,A,Colorado State,Ind,Matt Rothwell,L,2,10
+1903-10-31,Colorado Mines,Ind,,H,Colorado,Ind,David Cropp,L,0,17
+1903-11-14,Colorado Mines,Ind,,A,Denver,Ind,,W,34,6
+1903-11-21,Colorado Mines,Ind,,A,Colorado,Ind,David Cropp,L,5,23
+1903-11-26,Colorado Mines,Ind,,A,Colorado College,Ind,E.S. Merrill,W,16,5
+1903-09-26,Swarthmore,Ind,George Brooke,A,Princeton,Ind,,L,0,34
+1903-10-07,Swarthmore,Ind,George Brooke,H,Lehigh,Ind,Samuel Newton,L,5,10
+1903-10-14,Swarthmore,Ind,George Brooke,A,Columbia,Ind,William Morley,L,0,5
+1903-10-24,Swarthmore,Ind,George Brooke,A,Carlisle,Ind,Pop Warner,L,5,12
+1903-10-03,Minnesota,Western,Henry Williams,H,Grinnell,Ind,Martin Bergen,W,39,0
+1903-10-10,Minnesota,Western,Henry Williams,H,Iowa State,Ind,,W,46,0
+1903-10-17,Minnesota,Western,Henry Williams,H,Iowa,Western,John Chalmers,W,75,0
+1903-10-24,Minnesota,Western,Henry Williams,H,Beloit,Ind,John Hollister,W,46,0
+1903-10-31,Minnesota,Western,Henry Williams,H,Michigan,Western,Fielding Yost,T,6,6
+1903-11-14,Minnesota,Western,Henry Williams,A,Illinois,Western,George Woodruff,W,32,0
+1903-11-26,Minnesota,Western,Henry Williams,H,Wisconsin,Western,Arthur Curtis,W,17,0
+1903-10-10,Sewanee,Ind,George Whitney,H,Cumberland,Ind,,W,6,0
+1903-10-31,Sewanee,Ind,George Whitney,A,Auburn,Ind,Billy Bates,W,47,0
+1903-11-02,Sewanee,Ind,George Whitney,A,Alabama,Ind,W.B. Blount,W,23,0
+1903-11-14,Sewanee,Ind,George Whitney,A,Tennessee,Ind,H.E. Fisher,W,17,0
+1903-11-21,Sewanee,Ind,George Whitney,A,Vanderbilt,Ind,J.H. Henry,L,5,10
+1903-10-10,Michigan,Western,Fielding Yost,H,Beloit,Ind,John Hollister,W,79,0
+1903-10-17,Michigan,Western,Fielding Yost,H,Indiana,Western,James Horne,W,51,0
+1903-10-24,Michigan,Western,Fielding Yost,H,Drake,Ind,W.J. Monilaw,W,47,0
+1903-10-31,Michigan,Western,Fielding Yost,A,Minnesota,Western,Henry Williams,T,6,6
+1903-11-14,Michigan,Western,Fielding Yost,H,Wisconsin,Western,Arthur Curtis,W,16,0
+1903-11-26,Michigan,Western,Fielding Yost,A,Chicago,Western,Amos Alonzo Stagg,W,28,0
+1903-10-14,Navy,Ind,,H,Virginia,Ind,Gresham Poe,W,6,5
+1903-10-17,Navy,Ind,,H,Dickinson,Ind,Charles Hutchins,W,5,0
+1903-10-24,Navy,Ind,,H,Lafayette,Ind,,L,5,6
+1903-10-28,Navy,Ind,,H,Georgetown,Ind,Phil King,L,5,12
+1903-10-31,Navy,Ind,,H,Penn State,Ind,Daniel Reed,L,0,17
+1903-11-14,Navy,Ind,,H,Bucknell,Ind,George Hoskins,L,5,23
+1903-11-21,Navy,Ind,,H,Virginia Tech,Ind,C.A. Lueder,L,0,11
+1903-11-28,Navy,Ind,,N,Army,Ind,Edward King,L,5,40
+1903-09-30,Tufts,Ind,Charles Whelan,A,Yale,Ind,George Chadwick,L,0,19
+1903-10-03,Tufts,Ind,Charles Whelan,A,Army,Ind,Edward King,L,0,17
+1903-10-14,Tufts,Ind,Charles Whelan,A,Williams,Ind,,L,0,11
+1903-10-17,Tufts,Ind,Charles Whelan,A,Holy Cross,Ind,Frank Cavanaugh,L,5,6
+1903-11-07,Tufts,Ind,Charles Whelan,A,Massachusetts,Ind,James Halligan,L,0,6
+1903-11-21,Tufts,Ind,Charles Whelan,H,Holy Cross,Ind,Frank Cavanaugh,L,0,32
+1903-10-24,Lafayette,Ind,,A,Navy,Ind,,W,6,5
+1903-11-07,Lafayette,Ind,,A,Princeton,Ind,,L,0,11
+1903-11-21,Lafayette,Ind,,A,Lehigh,Ind,Samuel Newton,L,6,12
+1903-11-26,Lafayette,Ind,,H,Dickinson,Ind,Charles Hutchins,L,0,35
+1903-10-17,Cornell,Ind,,H,Bucknell,Ind,George Hoskins,W,6,0
+1903-10-31,Cornell,Ind,,A,Princeton,Ind,,L,0,44
+1903-11-07,Cornell,Ind,,H,Lehigh,Ind,Samuel Newton,T,0,0
+1903-11-14,Cornell,Ind,,H,Columbia,Ind,William Morley,L,12,17
+1903-11-26,Cornell,Ind,,A,Pennsylvania,Ind,,L,0,42
+1903-09-27,Cornell College,Ind,,A,Iowa,Western,John Chalmers,L,0,6
+1903-10-07,Cornell College,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,0,23
+1903-10-31,Cornell College,Ind,,H,Grinnell,Ind,Martin Bergen,L,10,15
+1903-11-07,Cornell College,Ind,,A,Drake,Ind,W.J. Monilaw,L,6,25
+1903-11-20,Cornell College,Ind,,H,Iowa State,Ind,,L,0,41
+1903-10-10,Drake,Ind,W.J. Monilaw,A,Iowa,Western,John Chalmers,L,6,22
+1903-10-17,Drake,Ind,W.J. Monilaw,A,Missouri,Ind,John McLean,W,17,0
+1903-10-24,Drake,Ind,W.J. Monilaw,A,Michigan,Western,Fielding Yost,L,0,47
+1903-10-31,Drake,Ind,W.J. Monilaw,H,Simpson,Ind,Graham Reid,W,45,2
+1903-11-07,Drake,Ind,W.J. Monilaw,H,Cornell College,Ind,,W,25,6
+1903-11-14,Drake,Ind,W.J. Monilaw,A,Grinnell,Ind,Martin Bergen,W,32,0
+1903-11-26,Drake,Ind,W.J. Monilaw,H,Iowa State,Ind,,L,0,16

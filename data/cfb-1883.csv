@@ -1,0 +1,65 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1883-09-26,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,60
+1883-09-29,Wesleyan (CT),Ind,,H,Yale,Ind,,L,0,94
+1883-10-06,Wesleyan (CT),Ind,,A,Harvard,Ind,,L,1,23
+1883-10-20,Wesleyan (CT),Ind,,H,Rutgers,Ind,,W,37,0
+1883-11-03,Wesleyan (CT),Ind,,H,Harvard,Ind,,L,6,18
+1883-11-06,Wesleyan (CT),Ind,,N,Princeton,Ind,,L,0,24
+1883-11-19,Wesleyan (CT),Ind,,H,Michigan,Ind,,W,14,6
+1883-10-17,Princeton,Ind,,A,Rutgers,Ind,,W,20,0
+1883-10-22,Princeton,Ind,,H,Lafayette,Ind,,W,54,7
+1883-10-24,Princeton,Ind,,A,Stevens,Ind,,W,14,0
+1883-10-27,Princeton,Ind,,H,Rutgers,Ind,,W,61,0
+1883-11-03,Princeton,Ind,,H,Pennsylvania,Ind,,W,39,6
+1883-11-06,Princeton,Ind,,N,Wesleyan (CT),Ind,,W,24,0
+1883-11-17,Princeton,Ind,,H,Harvard,Ind,,W,26,7
+1883-11-24,Princeton,Ind,,N,Yale,Ind,,L,0,6
+1883-10-06,Stevens,Ind,,A,Yale,Ind,,L,0,59
+1883-10-20,Stevens,Ind,,H,Harvard,Ind,,L,4,14
+1883-10-24,Stevens,Ind,,H,Princeton,Ind,,L,0,14
+1883-10-27,Stevens,Ind,,H,Columbia,Ind,,W,19,0
+1883-11-03,Stevens,Ind,,A,Lafayette,Ind,,W,14,4
+1883-11-06,Stevens,Ind,,A,Harvard,Ind,,L,2,11
+1883-11-24,Stevens,Ind,,H,Lafayette,Ind,,W,14,11
+1883-11-27,Stevens,Ind,,H,Michigan,Ind,,W,5,1
+1883-11-29,Stevens,Ind,,A,Pennsylvania,Ind,,T,6,6
+1883-10-17,Rutgers,Ind,,H,Princeton,Ind,,L,0,20
+1883-10-20,Rutgers,Ind,,A,Wesleyan (CT),Ind,,L,0,37
+1883-10-27,Rutgers,Ind,,A,Princeton,Ind,,L,0,61
+1883-11-06,Rutgers,Ind,,N,Yale,Ind,,L,0,92
+1883-11-10,Rutgers,Ind,,A,Lafayette,Ind,,L,0,25
+1883-11-17,Rutgers,Ind,,A,Pennsylvania,Ind,,L,0,18
+1883-09-26,Yale,Ind,,H,Wesleyan (CT),Ind,,W,60,0
+1883-09-29,Yale,Ind,,A,Wesleyan (CT),Ind,,W,94,0
+1883-10-06,Yale,Ind,,H,Stevens,Ind,,W,59,0
+1883-11-06,Yale,Ind,,N,Rutgers,Ind,,W,92,0
+1883-11-17,Yale,Ind,,A,Columbia,Ind,,W,93,0
+1883-11-21,Yale,Ind,,H,Michigan,Ind,,W,64,0
+1883-11-24,Yale,Ind,,N,Princeton,Ind,,W,6,0
+1883-11-29,Yale,Ind,,N,Harvard,Ind,,W,23,2
+1883-11-19,Michigan,Ind,,A,Wesleyan (CT),Ind,,L,6,14
+1883-11-21,Michigan,Ind,,A,Yale,Ind,,L,0,64
+1883-11-22,Michigan,Ind,,A,Harvard,Ind,,L,0,3
+1883-11-27,Michigan,Ind,,A,Stevens,Ind,,L,1,5
+1883-10-13,Pennsylvania,Ind,,A,Harvard,Ind,,L,0,4
+1883-10-27,Pennsylvania,Ind,,H,Lafayette,Ind,,W,44,4
+1883-11-03,Pennsylvania,Ind,,A,Princeton,Ind,,L,6,39
+1883-11-14,Pennsylvania,Ind,,H,Columbia,Ind,,W,35,1
+1883-11-17,Pennsylvania,Ind,,H,Rutgers,Ind,,W,18,0
+1883-11-29,Pennsylvania,Ind,,H,Stevens,Ind,,T,6,6
+1883-10-06,Harvard,Ind,,H,Wesleyan (CT),Ind,,W,23,1
+1883-10-13,Harvard,Ind,,H,Pennsylvania,Ind,,W,4,0
+1883-10-20,Harvard,Ind,,A,Stevens,Ind,,W,14,4
+1883-11-03,Harvard,Ind,,A,Wesleyan (CT),Ind,,W,18,6
+1883-11-06,Harvard,Ind,,H,Stevens,Ind,,W,11,2
+1883-11-17,Harvard,Ind,,A,Princeton,Ind,,L,7,26
+1883-11-22,Harvard,Ind,,H,Michigan,Ind,,W,3,0
+1883-11-29,Harvard,Ind,,N,Yale,Ind,,L,2,23
+1883-10-27,Columbia,Ind,,A,Stevens,Ind,,L,0,19
+1883-11-14,Columbia,Ind,,A,Pennsylvania,Ind,,L,1,35
+1883-11-17,Columbia,Ind,,H,Yale,Ind,,L,0,93
+1883-10-22,Lafayette,Ind,,A,Princeton,Ind,,L,7,54
+1883-10-27,Lafayette,Ind,,A,Pennsylvania,Ind,,L,4,44
+1883-11-03,Lafayette,Ind,,H,Stevens,Ind,,L,4,14
+1883-11-10,Lafayette,Ind,,H,Rutgers,Ind,,W,25,0
+1883-11-24,Lafayette,Ind,,A,Stevens,Ind,,L,11,14

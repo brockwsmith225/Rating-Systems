@@ -1,0 +1,674 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1944-09-23,North Carolina,Southern,Gene McEver,H,Wake Forest,Southern,D.C. Walker,L,0,7
+1944-09-30,North Carolina,Southern,Gene McEver,A,Army,Ind,Red Blaik,L,0,46
+1944-10-07,North Carolina,Southern,Gene McEver,A,Georgia Tech,SEC,William Alexander,L,0,28
+1944-11-04,North Carolina,Southern,Gene McEver,H,South Carolina,Southern,Doc Newton,L,0,6
+1944-11-11,North Carolina,Southern,Gene McEver,H,William & Mary,Southern,Rube McCray,T,0,0
+1944-11-18,North Carolina,Southern,Gene McEver,A,Yale,Ind,Howard Odell,L,6,13
+1944-11-25,North Carolina,Southern,Gene McEver,H,Duke,Southern,,L,0,33
+1944-12-02,North Carolina,Southern,Gene McEver,N,Virginia,Ind,Frank Murray,L,7,26
+1944-09-23,Fort Warren,Ind,,A,Colorado,MSAC,Frank Potts,W,7,6
+1944-10-07,Fort Warren,Ind,,A,Colorado College,Ind,Harold White,W,33,13
+1944-10-15,Fort Warren,Ind,,H,Idaho State,Ind,John Vesser,W,66,0
+1944-10-22,Fort Warren,Ind,,A,Iowa Pre-Flight,Ind,Jack Meagher,L,0,30
+1944-11-25,Fort Warren,Ind,,A,Great Lakes Navy,Ind,,L,7,28
+1944-09-23,Indiana,Western,Bo McMillin,A,Illinois,Western,Ray Eliot,L,18,26
+1944-09-30,Indiana,Western,Bo McMillin,A,Michigan,Western,Fritz Crisler,W,20,0
+1944-10-14,Indiana,Western,Bo McMillin,H,Nebraska,Big 6,Adolph Lewandowski,W,54,0
+1944-10-21,Indiana,Western,Bo McMillin,A,Northwestern,Western,Pappy Waldorf,W,14,7
+1944-10-28,Indiana,Western,Bo McMillin,H,Iowa,Western,Slip Madigan,W,32,0
+1944-11-04,Indiana,Western,Bo McMillin,A,Ohio State,Western,Carroll Widdoes,L,7,21
+1944-11-11,Indiana,Western,Bo McMillin,A,Minnesota,Western,George Hauser,L,14,19
+1944-11-18,Indiana,Western,Bo McMillin,H,Pitt,Ind,Clark Shaughnessy,W,47,0
+1944-11-25,Indiana,Western,Bo McMillin,A,Purdue,Western,Cecil Isbell,W,14,6
+1944-09-30,Norman Naval Air Station,Ind,,A,Oklahoma,Big 6,Snorter Luster,W,28,14
+1944-10-14,Norman Naval Air Station,Ind,,A,Arkansas,SWC,Glen Rose,W,27,7
+1944-10-21,Norman Naval Air Station,Ind,,A,Amarillo Field,Ind,,W,19,13
+1944-11-04,Norman Naval Air Station,Ind,,A,Oklahoma State,MVC,Jim Lookabaugh,W,15,0
+1944-11-11,Norman Naval Air Station,Ind,,A,Lubbock Field,Ind,,W,42,0
+1944-10-14,Iowa State,Big 6,Mike Michalske,H,Kansas,Big 6,Henry Shenk,W,25,0
+1944-10-21,Iowa State,Big 6,Mike Michalske,A,Missouri,Big 6,Chauncey Simpson,T,21,21
+1944-10-28,Iowa State,Big 6,Mike Michalske,A,Kansas State,Big 6,Ward Haylett,W,14,0
+1944-11-04,Iowa State,Big 6,Mike Michalske,H,Oklahoma,Big 6,Snorter Luster,L,7,12
+1944-11-11,Iowa State,Big 6,Mike Michalske,A,Nebraska,Big 6,Adolph Lewandowski,W,19,6
+1944-11-18,Iowa State,Big 6,Mike Michalske,H,Drake,MVC,Vee Green,W,9,0
+1944-09-30,Utah,MSAC,Ike Armstrong,H,Idaho State,Ind,John Vesser,W,24,0
+1944-10-06,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,L,12,28
+1944-10-14,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Frank Potts,L,0,26
+1944-10-21,Utah,MSAC,Ike Armstrong,A,Idaho State,Ind,John Vesser,W,38,12
+1944-11-04,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Cac Hubbard,T,0,0
+1944-11-11,Utah,MSAC,Ike Armstrong,A,Colorado College,Ind,Harold White,W,21,6
+1944-11-23,Utah,MSAC,Ike Armstrong,H,Utah State,MSAC,E. Lowell Romney,W,47,0
+1944-10-14,Villanova,Ind,Jordan Olivar,A,Holy Cross,Ind,,L,0,26
+1944-11-04,Villanova,Ind,Jordan Olivar,A,Army,Ind,Red Blaik,L,0,83
+1944-11-18,Villanova,Ind,Jordan Olivar,H,Bucknell,Ind,Ellwood Ludwig,L,6,27
+1944-09-30,Idaho State,Ind,John Vesser,A,Utah,MSAC,Ike Armstrong,L,0,24
+1944-10-15,Idaho State,Ind,John Vesser,A,Fort Warren,Ind,,L,0,66
+1944-10-21,Idaho State,Ind,John Vesser,H,Utah,MSAC,Ike Armstrong,L,12,38
+1944-11-11,Idaho State,Ind,John Vesser,A,Utah State,MSAC,E. Lowell Romney,L,7,8
+1944-09-23,Syracuse,Ind,Ossie Solem,H,Cornell,Ind,,L,6,39
+1944-10-07,Syracuse,Ind,Ossie Solem,A,Columbia,Ind,Lou Little,L,2,26
+1944-10-21,Syracuse,Ind,Ossie Solem,A,Temple,Ind,Ray Morrison,T,7,7
+1944-10-28,Syracuse,Ind,Ossie Solem,A,Boston College,Ind,Moody Sarno,L,12,19
+1944-11-04,Syracuse,Ind,Ossie Solem,H,Penn State,Ind,Bob Higgins,L,0,41
+1944-11-18,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,W,43,13
+1944-10-07,Penn State,Ind,Bob Higgins,A,Navy,Ind,Oscar Hagberg,L,14,55
+1944-10-14,Penn State,Ind,Bob Higgins,H,Bucknell,Ind,Ellwood Ludwig,W,20,6
+1944-10-21,Penn State,Ind,Bob Higgins,A,Colgate,Ind,Andrew Kerr,W,6,0
+1944-10-28,Penn State,Ind,Bob Higgins,H,West Virginia,Ind,Rat Rogers,L,27,28
+1944-11-04,Penn State,Ind,Bob Higgins,A,Syracuse,Ind,Ossie Solem,W,41,0
+1944-11-11,Penn State,Ind,Bob Higgins,A,Temple,Ind,Ray Morrison,W,7,6
+1944-11-18,Penn State,Ind,Bob Higgins,H,Maryland,Southern,Clarence Spears,W,34,19
+1944-11-25,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Clark Shaughnessy,L,0,14
+1944-09-30,Colorado College,Ind,Harold White,A,New Mexico,BIAA,Willis Barnes,W,25,7
+1944-10-07,Colorado College,Ind,Harold White,H,Fort Warren,Ind,,L,13,33
+1944-10-13,Colorado College,Ind,Harold White,H,Denver,MSAC,Cac Hubbard,W,20,12
+1944-10-21,Colorado College,Ind,Harold White,A,Colorado,MSAC,Frank Potts,L,0,28
+1944-11-11,Colorado College,Ind,Harold White,H,Utah,MSAC,Ike Armstrong,L,6,21
+1944-11-18,Colorado College,Ind,Harold White,H,Colorado,MSAC,Frank Potts,L,6,40
+1944-12-02,Colorado College,Ind,Harold White,A,Denver,MSAC,Cac Hubbard,L,13,27
+1944-09-23,Kentucky,SEC,A.D. Kirwan,H,Ole Miss,SEC,Harry Mehre,W,27,7
+1944-09-30,Kentucky,SEC,A.D. Kirwan,A,Tennessee,SEC,John Barnhill,L,13,26
+1944-10-07,Kentucky,SEC,A.D. Kirwan,H,Michigan State,Ind,Charlie Bachman,L,0,2
+1944-10-13,Kentucky,SEC,A.D. Kirwan,A,Georgia,SEC,Wallace Butts,L,12,13
+1944-10-20,Kentucky,SEC,A.D. Kirwan,H,Virginia Military Institute,Southern,,W,26,2
+1944-10-27,Kentucky,SEC,A.D. Kirwan,A,Alabama,SEC,Frank Thomas,L,0,41
+1944-11-04,Kentucky,SEC,A.D. Kirwan,A,Mississippi State,SEC,Allyn McKeen,L,0,26
+1944-11-18,Kentucky,SEC,A.D. Kirwan,H,West Virginia,Ind,Rat Rogers,W,40,9
+1944-11-25,Kentucky,SEC,A.D. Kirwan,H,Tennessee,SEC,John Barnhill,L,7,21
+1944-09-30,California,PCC,Stub Allison,H,UCLA,PCC,Babe Horrell,W,6,0
+1944-10-07,California,PCC,Stub Allison,A,USC,PCC,Jeff Cravath,T,6,6
+1944-10-28,California,PCC,Stub Allison,H,Washington,PCC,Ralph Welch,L,7,33
+1944-11-04,California,PCC,Stub Allison,H,Alameda Coast Guard,Ind,Joe Verducci,L,6,12
+1944-11-11,California,PCC,Stub Allison,A,UCLA,PCC,Babe Horrell,L,0,7
+1944-11-18,California,PCC,Stub Allison,H,USC,PCC,Jeff Cravath,L,0,32
+1944-11-25,California,PCC,Stub Allison,H,Saint Mary's (CA) Pre-Flight,Ind,,L,6,33
+1944-09-30,Florida,SEC,Tom Lieb,H,Ole Miss,SEC,Harry Mehre,L,6,26
+1944-10-14,Florida,SEC,Tom Lieb,A,Tennessee,SEC,John Barnhill,L,0,40
+1944-10-28,Florida,SEC,Tom Lieb,H,Maryland,Southern,Clarence Spears,W,14,6
+1944-11-03,Florida,SEC,Tom Lieb,A,Miami (FL),Ind,Eddie Dunn,W,13,0
+1944-11-11,Florida,SEC,Tom Lieb,N,Georgia,SEC,Wallace Butts,L,12,38
+1944-09-23,Presbyterian,Ind,Lonnie McMillan,A,Clemson,Southern,Frank Howard,L,0,34
+1944-10-06,Presbyterian,Ind,Lonnie McMillan,A,Georgia,SEC,Wallace Butts,L,0,67
+1944-11-04,Presbyterian,Ind,Lonnie McMillan,A,Auburn,SEC,Carl Voyles,L,0,57
+1944-11-11,Presbyterian,Ind,Lonnie McMillan,A,South Carolina,Southern,Doc Newton,L,7,28
+1944-11-17,Presbyterian,Ind,Lonnie McMillan,A,Miami (FL),Ind,Eddie Dunn,L,13,33
+1944-09-23,Illinois,Western,Ray Eliot,H,Indiana,Western,Bo McMillin,W,26,18
+1944-09-30,Illinois,Western,Ray Eliot,A,Great Lakes Navy,Ind,,T,26,26
+1944-10-07,Illinois,Western,Ray Eliot,H,Purdue,Western,Cecil Isbell,L,19,35
+1944-10-14,Illinois,Western,Ray Eliot,H,Iowa,Western,Slip Madigan,W,40,6
+1944-10-21,Illinois,Western,Ray Eliot,A,Pitt,Ind,Clark Shaughnessy,W,39,5
+1944-10-28,Illinois,Western,Ray Eliot,H,Notre Dame,Ind,Ed McKeever,L,7,13
+1944-11-11,Illinois,Western,Ray Eliot,A,Michigan,Western,Fritz Crisler,L,0,14
+1944-11-18,Illinois,Western,Ray Eliot,A,Ohio State,Western,Carroll Widdoes,L,12,26
+1944-11-25,Illinois,Western,Ray Eliot,A,Northwestern,Western,Pappy Waldorf,W,25,6
+1944-10-14,SMU,SWC,James Stewart,A,Randolph Field,Ind,Frank Tritico,L,0,41
+1944-10-21,SMU,SWC,James Stewart,A,Rice,SWC,Jess Neely,L,10,21
+1944-10-28,SMU,SWC,James Stewart,A,Tulane,SEC,Claude Simons,L,7,27
+1944-11-04,SMU,SWC,James Stewart,A,Texas,SWC,Dana Bible,L,7,34
+1944-11-11,SMU,SWC,James Stewart,H,Texas A&M,SWC,Homer Norton,L,6,39
+1944-11-18,SMU,SWC,James Stewart,H,Arkansas,SWC,Glen Rose,W,20,12
+1944-11-25,SMU,SWC,James Stewart,A,Texas Tech,BIAA,,W,7,6
+1944-12-02,SMU,SWC,James Stewart,H,Texas Christian,SWC,Dutch Meyer,W,9,6
+1944-09-29,Georgia,SEC,Wallace Butts,H,Wake Forest,Southern,D.C. Walker,L,7,14
+1944-10-06,Georgia,SEC,Wallace Butts,H,Presbyterian,Ind,Lonnie McMillan,W,67,0
+1944-10-13,Georgia,SEC,Wallace Butts,H,Kentucky,SEC,A.D. Kirwan,W,13,12
+1944-10-28,Georgia,SEC,Wallace Butts,H,LSU,SEC,Bernie Moore,L,7,15
+1944-11-04,Georgia,SEC,Wallace Butts,A,Alabama,SEC,Frank Thomas,W,14,7
+1944-11-11,Georgia,SEC,Wallace Butts,N,Florida,SEC,Tom Lieb,W,38,12
+1944-11-18,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Carl Voyles,W,49,13
+1944-11-24,Georgia,SEC,Wallace Butts,H,Clemson,Southern,Frank Howard,W,21,7
+1944-12-02,Georgia,SEC,Wallace Butts,H,Georgia Tech,SEC,William Alexander,L,0,44
+1944-10-07,Maryland,Southern,Clarence Spears,A,Wake Forest,Southern,D.C. Walker,L,0,39
+1944-10-14,Maryland,Southern,Clarence Spears,H,West Virginia,Ind,Rat Rogers,T,6,6
+1944-10-21,Maryland,Southern,Clarence Spears,H,Michigan State,Ind,Charlie Bachman,L,0,8
+1944-10-28,Maryland,Southern,Clarence Spears,A,Florida,SEC,Tom Lieb,L,6,14
+1944-11-04,Maryland,Southern,Clarence Spears,N,Virginia,Ind,Frank Murray,L,7,18
+1944-11-11,Maryland,Southern,Clarence Spears,A,Michigan State,Ind,Charlie Bachman,L,0,33
+1944-11-18,Maryland,Southern,Clarence Spears,A,Penn State,Ind,Bob Higgins,L,19,34
+1944-11-30,Maryland,Southern,Clarence Spears,A,Virginia Military Institute,Southern,,W,8,6
+1944-09-30,Virginia,Ind,Frank Murray,N,North Carolina State,Southern,Beattie Feathers,L,0,13
+1944-10-07,Virginia,Ind,Frank Murray,N,West Virginia,Ind,Rat Rogers,W,24,6
+1944-10-28,Virginia,Ind,Frank Murray,N,Virginia Military Institute,Southern,,W,34,0
+1944-11-04,Virginia,Ind,Frank Murray,N,Maryland,Southern,Clarence Spears,W,18,7
+1944-11-11,Virginia,Ind,Frank Murray,A,Richmond,Southern,Malcolm Pitt,W,39,0
+1944-11-25,Virginia,Ind,Frank Murray,A,Yale,Ind,Howard Odell,T,6,6
+1944-12-02,Virginia,Ind,Frank Murray,N,North Carolina,Southern,Gene McEver,W,26,7
+1944-09-30,Oklahoma,Big 6,Snorter Luster,H,Norman Naval Air Station,Ind,,L,14,28
+1944-10-07,Oklahoma,Big 6,Snorter Luster,H,Texas A&M,SWC,Homer Norton,W,21,14
+1944-10-14,Oklahoma,Big 6,Snorter Luster,N,Texas,SWC,Dana Bible,L,0,20
+1944-10-21,Oklahoma,Big 6,Snorter Luster,H,Kansas State,Big 6,Ward Haylett,W,68,0
+1944-10-28,Oklahoma,Big 6,Snorter Luster,H,Texas Christian,SWC,Dutch Meyer,W,34,19
+1944-11-04,Oklahoma,Big 6,Snorter Luster,A,Iowa State,Big 6,Mike Michalske,W,12,7
+1944-11-11,Oklahoma,Big 6,Snorter Luster,H,Missouri,Big 6,Chauncey Simpson,T,21,21
+1944-11-18,Oklahoma,Big 6,Snorter Luster,A,Kansas,Big 6,Henry Shenk,W,20,0
+1944-11-25,Oklahoma,Big 6,Snorter Luster,N,Oklahoma State,MVC,Jim Lookabaugh,L,6,28
+1944-12-02,Oklahoma,Big 6,Snorter Luster,H,Nebraska,Big 6,Adolph Lewandowski,W,31,12
+1944-09-23,Arkansas,SWC,Glen Rose,A,Missouri,Big 6,Chauncey Simpson,W,7,6
+1944-09-29,Arkansas,SWC,Glen Rose,A,Oklahoma State,MVC,Jim Lookabaugh,L,0,19
+1944-10-07,Arkansas,SWC,Glen Rose,A,Texas Christian,SWC,Dutch Meyer,T,6,6
+1944-10-14,Arkansas,SWC,Glen Rose,H,Norman Naval Air Station,Ind,,L,7,27
+1944-10-21,Arkansas,SWC,Glen Rose,H,Texas,SWC,Dana Bible,L,0,19
+1944-10-28,Arkansas,SWC,Glen Rose,N,Ole Miss,SEC,Harry Mehre,W,26,18
+1944-11-04,Arkansas,SWC,Glen Rose,A,Texas A&M,SWC,Homer Norton,W,7,6
+1944-11-11,Arkansas,SWC,Glen Rose,H,Rice,SWC,Jess Neely,W,12,7
+1944-11-18,Arkansas,SWC,Glen Rose,A,SMU,SWC,James Stewart,L,12,20
+1944-11-23,Arkansas,SWC,Glen Rose,A,Tulsa,MVC,Henry Frnka,L,2,33
+1944-09-23,Clemson,Southern,Frank Howard,H,Presbyterian,Ind,Lonnie McMillan,W,34,0
+1944-09-30,Clemson,Southern,Frank Howard,A,Georgia Tech,SEC,William Alexander,L,0,51
+1944-10-07,Clemson,Southern,Frank Howard,N,North Carolina State,Southern,Beattie Feathers,W,13,7
+1944-10-19,Clemson,Southern,Frank Howard,A,South Carolina,Southern,Doc Newton,W,20,13
+1944-10-28,Clemson,Southern,Frank Howard,A,Tennessee,SEC,John Barnhill,L,7,26
+1944-11-04,Clemson,Southern,Frank Howard,A,Wake Forest,Southern,D.C. Walker,L,7,13
+1944-11-11,Clemson,Southern,Frank Howard,H,Virginia Military Institute,Southern,,W,57,12
+1944-11-18,Clemson,Southern,Frank Howard,A,Tulane,SEC,Claude Simons,L,20,36
+1944-11-24,Clemson,Southern,Frank Howard,A,Georgia,SEC,Wallace Butts,L,7,21
+1944-10-07,South Carolina,Southern,Doc Newton,A,Miami (FL),Ind,Eddie Dunn,T,0,0
+1944-10-19,South Carolina,Southern,Doc Newton,H,Clemson,Southern,Frank Howard,L,13,20
+1944-11-04,South Carolina,Southern,Doc Newton,A,North Carolina,Southern,Gene McEver,W,6,0
+1944-11-11,South Carolina,Southern,Doc Newton,H,Presbyterian,Ind,Lonnie McMillan,W,28,7
+1944-11-18,South Carolina,Southern,Doc Newton,H,Duke,Southern,,L,7,34
+1944-11-23,South Carolina,Southern,Doc Newton,N,Wake Forest,Southern,D.C. Walker,L,13,19
+1944-10-23,Washington,PCC,Ralph Welch,A,USC,PCC,Jeff Cravath,L,7,38
+1944-10-28,Washington,PCC,Ralph Welch,A,California,PCC,Stub Allison,W,33,7
+1944-11-11,Washington,PCC,Ralph Welch,H,March Field,Ind,,L,0,28
+1944-09-30,Randolph Field,Ind,Frank Tritico,A,Rice,SWC,Jess Neely,W,59,0
+1944-10-07,Randolph Field,Ind,Frank Tritico,A,Texas,SWC,Dana Bible,W,42,6
+1944-10-14,Randolph Field,Ind,Frank Tritico,H,SMU,SWC,James Stewart,W,41,0
+1944-11-26,Randolph Field,Ind,Frank Tritico,H,Amarillo Field,Ind,,W,33,0
+1944-12-10,Randolph Field,Ind,Frank Tritico,A,March Field,Ind,,W,20,7
+1944-09-30,Holy Cross,Ind,,A,Dartmouth,Ind,,T,6,6
+1944-10-07,Holy Cross,Ind,,A,Temple,Ind,Ray Morrison,W,30,0
+1944-10-14,Holy Cross,Ind,,H,Villanova,Ind,Jordan Olivar,W,26,0
+1944-10-21,Holy Cross,Ind,,H,Brown,Ind,Rip Engle,T,24,24
+1944-10-29,Holy Cross,Ind,,H,Coast Guard,Ind,Johnny Merriman,W,26,14
+1944-11-11,Holy Cross,Ind,,H,Colgate,Ind,Andrew Kerr,W,19,13
+1944-11-26,Holy Cross,Ind,,N,Boston College,Ind,Moody Sarno,W,30,14
+1944-10-28,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Cac Hubbard,L,6,36
+1944-11-11,Utah State,MSAC,E. Lowell Romney,H,Idaho State,Ind,John Vesser,W,8,7
+1944-11-23,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,L,0,47
+1944-09-23,Missouri,Big 6,Chauncey Simpson,H,Arkansas,SWC,Glen Rose,L,6,7
+1944-09-30,Missouri,Big 6,Chauncey Simpson,A,Ohio State,Western,Carroll Widdoes,L,0,54
+1944-10-07,Missouri,Big 6,Chauncey Simpson,A,Kansas State,Big 6,Ward Haylett,W,33,0
+1944-10-14,Missouri,Big 6,Chauncey Simpson,A,Minnesota,Western,George Hauser,L,27,39
+1944-10-21,Missouri,Big 6,Chauncey Simpson,H,Iowa State,Big 6,Mike Michalske,T,21,21
+1944-10-28,Missouri,Big 6,Chauncey Simpson,A,Nebraska,Big 6,Adolph Lewandowski,L,20,24
+1944-11-04,Missouri,Big 6,Chauncey Simpson,H,Michigan State,Ind,Charlie Bachman,W,13,7
+1944-11-11,Missouri,Big 6,Chauncey Simpson,A,Oklahoma,Big 6,Snorter Luster,T,21,21
+1944-11-18,Missouri,Big 6,Chauncey Simpson,H,Iowa Pre-Flight,Ind,Jack Meagher,L,7,51
+1944-11-23,Missouri,Big 6,Chauncey Simpson,N,Kansas,Big 6,Henry Shenk,W,28,0
+1944-09-29,Denver,MSAC,Cac Hubbard,H,Kansas,Big 6,Henry Shenk,T,14,14
+1944-10-06,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,W,28,12
+1944-10-13,Denver,MSAC,Cac Hubbard,A,Colorado College,Ind,Harold White,L,12,20
+1944-10-21,Denver,MSAC,Cac Hubbard,H,Oklahoma State,MVC,Jim Lookabaugh,L,21,33
+1944-10-28,Denver,MSAC,Cac Hubbard,H,Utah State,MSAC,E. Lowell Romney,W,36,6
+1944-11-04,Denver,MSAC,Cac Hubbard,A,Utah,MSAC,Ike Armstrong,T,0,0
+1944-11-11,Denver,MSAC,Cac Hubbard,A,New Mexico,BIAA,Willis Barnes,W,41,6
+1944-11-23,Denver,MSAC,Cac Hubbard,H,Colorado,MSAC,Frank Potts,L,14,16
+1944-12-02,Denver,MSAC,Cac Hubbard,H,Colorado College,Ind,Harold White,W,27,13
+1944-09-23,Great Lakes Navy,Ind,,H,Purdue,Western,Cecil Isbell,W,27,18
+1944-09-30,Great Lakes Navy,Ind,,H,Illinois,Western,Ray Eliot,T,26,26
+1944-10-07,Great Lakes Navy,Ind,,A,Northwestern,Western,Pappy Waldorf,W,25,0
+1944-10-21,Great Lakes Navy,Ind,,A,Ohio State,Western,Carroll Widdoes,L,6,26
+1944-10-28,Great Lakes Navy,Ind,,A,Wisconsin,Western,Harry Stuhldreher,W,40,12
+1944-11-05,Great Lakes Navy,Ind,,A,Marquette,Ind,Tom Stidham,W,45,7
+1944-11-18,Great Lakes Navy,Ind,,H,Marquette,Ind,Tom Stidham,W,32,0
+1944-11-25,Great Lakes Navy,Ind,,H,Fort Warren,Ind,,W,28,7
+1944-12-02,Great Lakes Navy,Ind,,A,Notre Dame,Ind,Ed McKeever,L,7,28
+1944-09-30,Wisconsin,Western,Harry Stuhldreher,A,Northwestern,Western,Pappy Waldorf,W,7,6
+1944-10-07,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Tom Stidham,W,21,2
+1944-10-14,Wisconsin,Western,Harry Stuhldreher,H,Ohio State,Western,Carroll Widdoes,L,7,20
+1944-10-21,Wisconsin,Western,Harry Stuhldreher,A,Notre Dame,Ind,Ed McKeever,L,13,28
+1944-10-28,Wisconsin,Western,Harry Stuhldreher,H,Great Lakes Navy,Ind,,L,12,40
+1944-11-04,Wisconsin,Western,Harry Stuhldreher,A,Purdue,Western,Cecil Isbell,L,0,35
+1944-11-11,Wisconsin,Western,Harry Stuhldreher,H,Iowa,Western,Slip Madigan,W,26,7
+1944-11-18,Wisconsin,Western,Harry Stuhldreher,A,Michigan,Western,Fritz Crisler,L,0,14
+1944-11-25,Wisconsin,Western,Harry Stuhldreher,H,Minnesota,Western,George Hauser,L,26,28
+1944-09-30,Bucknell,Ind,Ellwood Ludwig,A,Cornell,Ind,,L,0,26
+1944-10-14,Bucknell,Ind,Ellwood Ludwig,A,Penn State,Ind,Bob Higgins,L,6,20
+1944-10-28,Bucknell,Ind,Ellwood Ludwig,A,Temple,Ind,Ray Morrison,T,7,7
+1944-11-04,Bucknell,Ind,Ellwood Ludwig,H,New York University,Ind,John Weinheimer,W,26,0
+1944-11-18,Bucknell,Ind,Ellwood Ludwig,A,Villanova,Ind,Jordan Olivar,W,27,6
+1944-09-23,USC,PCC,Jeff Cravath,H,UCLA,PCC,Babe Horrell,T,13,13
+1944-10-07,USC,PCC,Jeff Cravath,H,California,PCC,Stub Allison,T,6,6
+1944-10-14,USC,PCC,Jeff Cravath,N,Saint Mary's (CA) Pre-Flight,Ind,,W,6,0
+1944-10-23,USC,PCC,Jeff Cravath,H,Washington,PCC,Ralph Welch,W,38,7
+1944-11-18,USC,PCC,Jeff Cravath,A,California,PCC,Stub Allison,W,32,0
+1944-11-25,USC,PCC,Jeff Cravath,A,UCLA,PCC,Babe Horrell,W,40,13
+1945-01-01,USC,PCC,Jeff Cravath,H,Tennessee,SEC,John Barnhill,W,25,0
+1944-09-30,North Carolina State,Southern,Beattie Feathers,N,Virginia,Ind,Frank Murray,W,13,0
+1944-10-07,North Carolina State,Southern,Beattie Feathers,N,Clemson,Southern,Frank Howard,L,7,13
+1944-10-21,North Carolina State,Southern,Beattie Feathers,H,Wake Forest,Southern,D.C. Walker,L,7,21
+1944-10-28,North Carolina State,Southern,Beattie Feathers,H,William & Mary,Southern,Rube McCray,W,19,2
+1944-11-04,North Carolina State,Southern,Beattie Feathers,A,Virginia Military Institute,Southern,,W,21,6
+1944-11-10,North Carolina State,Southern,Beattie Feathers,A,Miami (FL),Ind,Eddie Dunn,W,28,7
+1944-11-18,North Carolina State,Southern,Beattie Feathers,N,Richmond,Southern,Malcolm Pitt,W,39,0
+1944-09-23,Lubbock Field,Ind,,A,Texas Tech,BIAA,,W,27,13
+1944-09-30,Lubbock Field,Ind,,H,Amarillo Field,Ind,,L,0,19
+1944-10-07,Lubbock Field,Ind,,A,Amarillo Field,Ind,,L,0,31
+1944-11-03,Lubbock Field,Ind,,A,West Texas A&M,BIAA,Gus Miller,L,12,14
+1944-11-11,Lubbock Field,Ind,,H,Norman Naval Air Station,Ind,,L,0,42
+1944-10-15,Alameda Coast Guard,Ind,Joe Verducci,H,March Field,Ind,,T,20,20
+1944-10-27,Alameda Coast Guard,Ind,Joe Verducci,A,UCLA,PCC,Babe Horrell,L,13,26
+1944-11-04,Alameda Coast Guard,Ind,Joe Verducci,A,California,PCC,Stub Allison,W,12,6
+1944-11-12,Alameda Coast Guard,Ind,Joe Verducci,N,Saint Mary's (CA) Pre-Flight,Ind,,L,13,32
+1944-09-16,Michigan,Western,Fritz Crisler,H,Iowa Pre-Flight,Ind,Jack Meagher,W,12,7
+1944-09-23,Michigan,Western,Fritz Crisler,A,Marquette,Ind,Tom Stidham,W,14,0
+1944-09-30,Michigan,Western,Fritz Crisler,H,Indiana,Western,Bo McMillin,L,0,20
+1944-10-07,Michigan,Western,Fritz Crisler,A,Minnesota,Western,George Hauser,W,28,13
+1944-10-14,Michigan,Western,Fritz Crisler,H,Northwestern,Western,Pappy Waldorf,W,27,0
+1944-10-28,Michigan,Western,Fritz Crisler,H,Purdue,Western,Cecil Isbell,W,40,14
+1944-11-04,Michigan,Western,Fritz Crisler,A,Pennsylvania,Ind,George Munger,W,41,19
+1944-11-11,Michigan,Western,Fritz Crisler,H,Illinois,Western,Ray Eliot,W,14,0
+1944-11-18,Michigan,Western,Fritz Crisler,H,Wisconsin,Western,Harry Stuhldreher,W,14,0
+1944-11-25,Michigan,Western,Fritz Crisler,A,Ohio State,Western,Carroll Widdoes,L,14,18
+1944-10-07,Temple,Ind,Ray Morrison,H,Holy Cross,Ind,,L,0,30
+1944-10-14,Temple,Ind,Ray Morrison,A,New York University,Ind,John Weinheimer,W,25,0
+1944-10-21,Temple,Ind,Ray Morrison,H,Syracuse,Ind,Ossie Solem,T,7,7
+1944-10-28,Temple,Ind,Ray Morrison,H,Bucknell,Ind,Ellwood Ludwig,T,7,7
+1944-11-04,Temple,Ind,Ray Morrison,A,West Virginia,Ind,Rat Rogers,L,0,6
+1944-11-11,Temple,Ind,Ray Morrison,H,Penn State,Ind,Bob Higgins,L,6,7
+1944-11-18,Temple,Ind,Ray Morrison,A,Tennessee,SEC,John Barnhill,L,14,27
+1944-09-16,New Mexico,BIAA,Willis Barnes,H,Amarillo Field,Ind,,L,2,21
+1944-09-30,New Mexico,BIAA,Willis Barnes,H,Colorado College,Ind,Harold White,L,7,25
+1944-10-07,New Mexico,BIAA,Willis Barnes,H,West Texas A&M,BIAA,Gus Miller,L,12,19
+1944-11-04,New Mexico,BIAA,Willis Barnes,A,Colorado,MSAC,Frank Potts,L,0,39
+1944-11-11,New Mexico,BIAA,Willis Barnes,H,Denver,MSAC,Cac Hubbard,L,6,41
+1944-11-18,New Mexico,BIAA,Willis Barnes,A,Texas Tech,BIAA,,L,7,13
+1944-09-16,Iowa Pre-Flight,Ind,Jack Meagher,A,Michigan,Western,Fritz Crisler,L,7,12
+1944-09-23,Iowa Pre-Flight,Ind,Jack Meagher,A,Minnesota,Western,George Hauser,W,19,13
+1944-10-14,Iowa Pre-Flight,Ind,Jack Meagher,A,Purdue,Western,Cecil Isbell,W,13,6
+1944-10-22,Iowa Pre-Flight,Ind,Jack Meagher,H,Fort Warren,Ind,,W,30,0
+1944-10-29,Iowa Pre-Flight,Ind,Jack Meagher,A,Marquette,Ind,Tom Stidham,W,26,0
+1944-11-04,Iowa Pre-Flight,Ind,Jack Meagher,A,Tulsa,MVC,Henry Frnka,W,47,27
+1944-11-18,Iowa Pre-Flight,Ind,Jack Meagher,A,Missouri,Big 6,Chauncey Simpson,W,51,7
+1944-11-25,Iowa Pre-Flight,Ind,Jack Meagher,N,Iowa,Western,Slip Madigan,W,30,6
+1944-09-30,Notre Dame,Ind,Ed McKeever,A,Pitt,Ind,Clark Shaughnessy,W,58,0
+1944-10-07,Notre Dame,Ind,Ed McKeever,H,Tulane,SEC,Claude Simons,W,26,0
+1944-10-14,Notre Dame,Ind,Ed McKeever,N,Dartmouth,Ind,,W,64,0
+1944-10-21,Notre Dame,Ind,Ed McKeever,H,Wisconsin,Western,Harry Stuhldreher,W,28,13
+1944-10-28,Notre Dame,Ind,Ed McKeever,A,Illinois,Western,Ray Eliot,W,13,7
+1944-11-04,Notre Dame,Ind,Ed McKeever,A,Navy,Ind,Oscar Hagberg,L,13,32
+1944-11-11,Notre Dame,Ind,Ed McKeever,A,Army,Ind,Red Blaik,L,0,59
+1944-11-18,Notre Dame,Ind,Ed McKeever,H,Northwestern,Western,Pappy Waldorf,W,21,0
+1944-11-25,Notre Dame,Ind,Ed McKeever,A,Georgia Tech,SEC,William Alexander,W,21,0
+1944-12-02,Notre Dame,Ind,Ed McKeever,H,Great Lakes Navy,Ind,,W,28,7
+1944-09-23,Pitt,Ind,Clark Shaughnessy,H,West Virginia,Ind,Rat Rogers,W,26,13
+1944-09-30,Pitt,Ind,Clark Shaughnessy,H,Notre Dame,Ind,Ed McKeever,L,0,58
+1944-10-14,Pitt,Ind,Clark Shaughnessy,A,Army,Ind,Red Blaik,L,7,69
+1944-10-21,Pitt,Ind,Clark Shaughnessy,H,Illinois,Western,Ray Eliot,L,5,39
+1944-11-11,Pitt,Ind,Clark Shaughnessy,A,Ohio State,Western,Carroll Widdoes,L,19,54
+1944-11-18,Pitt,Ind,Clark Shaughnessy,A,Indiana,Western,Bo McMillin,L,0,47
+1944-11-25,Pitt,Ind,Clark Shaughnessy,H,Penn State,Ind,Bob Higgins,W,14,0
+1944-09-23,West Texas A&M,BIAA,Gus Miller,A,Oklahoma State,MVC,Jim Lookabaugh,L,6,41
+1944-10-07,West Texas A&M,BIAA,Gus Miller,A,New Mexico,BIAA,Willis Barnes,W,19,12
+1944-10-14,West Texas A&M,BIAA,Gus Miller,H,Amarillo Field,Ind,,L,7,38
+1944-10-27,West Texas A&M,BIAA,Gus Miller,H,Texas Tech,BIAA,,L,6,35
+1944-11-03,West Texas A&M,BIAA,Gus Miller,H,Lubbock Field,Ind,,W,14,12
+1944-09-30,Yale,Ind,Howard Odell,H,Coast Guard,Ind,Johnny Merriman,W,7,3
+1944-10-07,Yale,Ind,Howard Odell,H,Cornell,Ind,,W,16,7
+1944-10-14,Yale,Ind,Howard Odell,H,Columbia,Ind,Lou Little,W,27,10
+1944-11-04,Yale,Ind,Howard Odell,H,Dartmouth,Ind,,W,6,0
+1944-11-11,Yale,Ind,Howard Odell,H,Brown,Ind,Rip Engle,W,13,0
+1944-11-18,Yale,Ind,Howard Odell,H,North Carolina,Southern,Gene McEver,W,13,6
+1944-11-25,Yale,Ind,Howard Odell,H,Virginia,Ind,Frank Murray,T,6,6
+1944-09-30,Coast Guard,Ind,Johnny Merriman,A,Yale,Ind,Howard Odell,L,3,7
+1944-10-21,Coast Guard,Ind,Johnny Merriman,A,Army,Ind,Red Blaik,L,0,76
+1944-10-29,Coast Guard,Ind,Johnny Merriman,A,Holy Cross,Ind,,L,14,26
+1944-11-04,Coast Guard,Ind,Johnny Merriman,A,Brown,Ind,Rip Engle,W,20,0
+1944-11-11,Coast Guard,Ind,Johnny Merriman,A,Dartmouth,Ind,,W,19,0
+1944-09-30,Georgia Tech,SEC,William Alexander,H,Clemson,Southern,Frank Howard,W,51,0
+1944-10-07,Georgia Tech,SEC,William Alexander,H,North Carolina,Southern,Gene McEver,W,28,0
+1944-10-14,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Carl Voyles,W,27,0
+1944-10-21,Georgia Tech,SEC,William Alexander,H,Navy,Ind,Oscar Hagberg,W,17,15
+1944-11-04,Georgia Tech,SEC,William Alexander,A,Duke,Southern,,L,13,19
+1944-11-11,Georgia Tech,SEC,William Alexander,H,Tulane,SEC,Claude Simons,W,34,7
+1944-11-18,Georgia Tech,SEC,William Alexander,A,LSU,SEC,Bernie Moore,W,14,6
+1944-11-25,Georgia Tech,SEC,William Alexander,H,Notre Dame,Ind,Ed McKeever,L,0,21
+1944-12-02,Georgia Tech,SEC,William Alexander,A,Georgia,SEC,Wallace Butts,W,44,0
+1945-01-01,Georgia Tech,SEC,William Alexander,N,Tulsa,MVC,Henry Frnka,L,12,26
+1944-09-23,Wake Forest,Southern,D.C. Walker,A,North Carolina,Southern,Gene McEver,W,7,0
+1944-09-29,Wake Forest,Southern,D.C. Walker,A,Georgia,SEC,Wallace Butts,W,14,7
+1944-10-07,Wake Forest,Southern,D.C. Walker,H,Maryland,Southern,Clarence Spears,W,39,0
+1944-10-14,Wake Forest,Southern,D.C. Walker,H,Virginia Military Institute,Southern,,W,38,7
+1944-10-21,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,Beattie Feathers,W,21,7
+1944-10-27,Wake Forest,Southern,D.C. Walker,A,Miami (FL),Ind,Eddie Dunn,W,27,0
+1944-11-04,Wake Forest,Southern,D.C. Walker,H,Clemson,Southern,Frank Howard,W,13,7
+1944-11-11,Wake Forest,Southern,D.C. Walker,A,Duke,Southern,,L,0,34
+1944-11-23,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,Doc Newton,W,19,13
+1944-10-21,Mississippi State,SEC,Allyn McKeen,A,LSU,SEC,Bernie Moore,W,13,6
+1944-11-04,Mississippi State,SEC,Allyn McKeen,H,Kentucky,SEC,A.D. Kirwan,W,26,0
+1944-11-11,Mississippi State,SEC,Allyn McKeen,A,Auburn,SEC,Carl Voyles,W,26,21
+1944-11-18,Mississippi State,SEC,Allyn McKeen,A,Alabama,SEC,Frank Thomas,L,0,19
+1944-11-25,Mississippi State,SEC,Allyn McKeen,A,Ole Miss,SEC,Harry Mehre,L,8,13
+1944-10-07,Virginia Military Institute,Southern,,A,Richmond,Southern,Malcolm Pitt,W,26,20
+1944-10-14,Virginia Military Institute,Southern,,A,Wake Forest,Southern,D.C. Walker,L,7,38
+1944-10-20,Virginia Military Institute,Southern,,A,Kentucky,SEC,A.D. Kirwan,L,2,26
+1944-10-28,Virginia Military Institute,Southern,,N,Virginia,Ind,Frank Murray,L,0,34
+1944-11-04,Virginia Military Institute,Southern,,H,North Carolina State,Southern,Beattie Feathers,L,6,21
+1944-11-11,Virginia Military Institute,Southern,,A,Clemson,Southern,Frank Howard,L,12,57
+1944-11-18,Virginia Military Institute,Southern,,N,William & Mary,Southern,Rube McCray,L,0,26
+1944-11-30,Virginia Military Institute,Southern,,H,Maryland,Southern,Clarence Spears,L,6,8
+1944-10-07,Kansas State,Big 6,Ward Haylett,H,Missouri,Big 6,Chauncey Simpson,L,0,33
+1944-10-14,Kansas State,Big 6,Ward Haylett,A,Michigan State,Ind,Charlie Bachman,L,6,45
+1944-10-21,Kansas State,Big 6,Ward Haylett,A,Oklahoma,Big 6,Snorter Luster,L,0,68
+1944-10-28,Kansas State,Big 6,Ward Haylett,H,Iowa State,Big 6,Mike Michalske,L,0,14
+1944-11-11,Kansas State,Big 6,Ward Haylett,H,Kansas,Big 6,Henry Shenk,W,18,14
+1944-11-25,Kansas State,Big 6,Ward Haylett,A,Nebraska,Big 6,Adolph Lewandowski,L,0,35
+1944-09-30,Army,Ind,Red Blaik,H,North Carolina,Southern,Gene McEver,W,46,0
+1944-10-07,Army,Ind,Red Blaik,H,Brown,Ind,Rip Engle,W,59,7
+1944-10-14,Army,Ind,Red Blaik,H,Pitt,Ind,Clark Shaughnessy,W,69,7
+1944-10-21,Army,Ind,Red Blaik,H,Coast Guard,Ind,Johnny Merriman,W,76,0
+1944-10-28,Army,Ind,Red Blaik,H,Duke,Southern,,W,27,7
+1944-11-04,Army,Ind,Red Blaik,H,Villanova,Ind,Jordan Olivar,W,83,0
+1944-11-11,Army,Ind,Red Blaik,H,Notre Dame,Ind,Ed McKeever,W,59,0
+1944-11-18,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,W,62,7
+1944-12-02,Army,Ind,Red Blaik,A,Navy,Ind,Oscar Hagberg,W,23,7
+1944-09-23,Marquette,Ind,Tom Stidham,H,Michigan,Western,Fritz Crisler,L,0,14
+1944-09-30,Marquette,Ind,Tom Stidham,A,Purdue,Western,Cecil Isbell,L,7,40
+1944-10-07,Marquette,Ind,Tom Stidham,A,Wisconsin,Western,Harry Stuhldreher,L,2,21
+1944-10-29,Marquette,Ind,Tom Stidham,H,Iowa Pre-Flight,Ind,Jack Meagher,L,0,26
+1944-11-05,Marquette,Ind,Tom Stidham,H,Great Lakes Navy,Ind,,L,7,45
+1944-11-18,Marquette,Ind,Tom Stidham,A,Great Lakes Navy,Ind,,L,0,32
+1944-09-30,Dartmouth,Ind,,H,Holy Cross,Ind,,T,6,6
+1944-10-07,Dartmouth,Ind,,A,Pennsylvania,Ind,George Munger,L,6,20
+1944-10-14,Dartmouth,Ind,,N,Notre Dame,Ind,Ed McKeever,L,0,64
+1944-10-28,Dartmouth,Ind,,A,Brown,Ind,Rip Engle,W,14,13
+1944-11-04,Dartmouth,Ind,,A,Yale,Ind,Howard Odell,L,0,6
+1944-11-11,Dartmouth,Ind,,H,Coast Guard,Ind,Johnny Merriman,L,0,19
+1944-11-18,Dartmouth,Ind,,A,Cornell,Ind,,L,13,14
+1944-11-25,Dartmouth,Ind,,A,Columbia,Ind,Lou Little,W,18,0
+1944-09-23,UCLA,PCC,Babe Horrell,A,USC,PCC,Jeff Cravath,T,13,13
+1944-09-30,UCLA,PCC,Babe Horrell,A,California,PCC,Stub Allison,L,0,6
+1944-10-21,UCLA,PCC,Babe Horrell,H,Saint Mary's (CA) Pre-Flight,Ind,,L,12,21
+1944-10-27,UCLA,PCC,Babe Horrell,H,Alameda Coast Guard,Ind,Joe Verducci,W,26,13
+1944-11-04,UCLA,PCC,Babe Horrell,A,March Field,Ind,,L,13,35
+1944-11-11,UCLA,PCC,Babe Horrell,H,California,PCC,Stub Allison,W,7,0
+1944-11-25,UCLA,PCC,Babe Horrell,H,USC,PCC,Jeff Cravath,L,13,40
+1944-10-14,Auburn,SEC,Carl Voyles,A,Georgia Tech,SEC,William Alexander,L,0,27
+1944-10-21,Auburn,SEC,Carl Voyles,A,Tulane,SEC,Claude Simons,L,13,16
+1944-11-04,Auburn,SEC,Carl Voyles,H,Presbyterian,Ind,Lonnie McMillan,W,57,0
+1944-11-11,Auburn,SEC,Carl Voyles,H,Mississippi State,SEC,Allyn McKeen,L,21,26
+1944-11-18,Auburn,SEC,Carl Voyles,N,Georgia,SEC,Wallace Butts,L,13,49
+1944-11-24,Auburn,SEC,Carl Voyles,A,Miami (FL),Ind,Eddie Dunn,W,38,19
+1944-09-30,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Harry Stuhldreher,L,6,7
+1944-10-07,Northwestern,Western,Pappy Waldorf,H,Great Lakes Navy,Ind,,L,0,25
+1944-10-14,Northwestern,Western,Pappy Waldorf,A,Michigan,Western,Fritz Crisler,L,0,27
+1944-10-21,Northwestern,Western,Pappy Waldorf,H,Indiana,Western,Bo McMillin,L,7,14
+1944-11-04,Northwestern,Western,Pappy Waldorf,A,Minnesota,Western,George Hauser,T,14,14
+1944-11-11,Northwestern,Western,Pappy Waldorf,H,Purdue,Western,Cecil Isbell,L,7,27
+1944-11-18,Northwestern,Western,Pappy Waldorf,A,Notre Dame,Ind,Ed McKeever,L,0,21
+1944-11-25,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Ray Eliot,L,6,25
+1944-09-23,Kansas,Big 6,Henry Shenk,H,Texas Christian,SWC,Dutch Meyer,L,0,7
+1944-09-29,Kansas,Big 6,Henry Shenk,A,Denver,MSAC,Cac Hubbard,T,14,14
+1944-10-07,Kansas,Big 6,Henry Shenk,A,Tulsa,MVC,Henry Frnka,L,0,27
+1944-10-14,Kansas,Big 6,Henry Shenk,A,Iowa State,Big 6,Mike Michalske,L,0,25
+1944-10-21,Kansas,Big 6,Henry Shenk,H,Nebraska,Big 6,Adolph Lewandowski,W,20,0
+1944-11-11,Kansas,Big 6,Henry Shenk,A,Kansas State,Big 6,Ward Haylett,L,14,18
+1944-11-18,Kansas,Big 6,Henry Shenk,H,Oklahoma,Big 6,Snorter Luster,L,0,20
+1944-11-23,Kansas,Big 6,Henry Shenk,N,Missouri,Big 6,Chauncey Simpson,L,0,28
+1944-10-14,William & Mary,Southern,Rube McCray,A,Pennsylvania,Ind,George Munger,L,0,46
+1944-10-28,William & Mary,Southern,Rube McCray,A,North Carolina State,Southern,Beattie Feathers,L,2,19
+1944-11-11,William & Mary,Southern,Rube McCray,A,North Carolina,Southern,Gene McEver,T,0,0
+1944-11-18,William & Mary,Southern,Rube McCray,N,Virginia Military Institute,Southern,,W,26,0
+1944-11-30,William & Mary,Southern,Rube McCray,A,Richmond,Southern,Malcolm Pitt,W,40,0
+1944-09-30,LSU,SEC,Bernie Moore,H,Alabama,SEC,Frank Thomas,T,27,27
+1944-10-07,LSU,SEC,Bernie Moore,A,Rice,SWC,Jess Neely,L,13,14
+1944-10-14,LSU,SEC,Bernie Moore,H,Texas A&M,SWC,Homer Norton,L,0,7
+1944-10-21,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,L,6,13
+1944-10-28,LSU,SEC,Bernie Moore,A,Georgia,SEC,Wallace Butts,W,15,7
+1944-11-04,LSU,SEC,Bernie Moore,H,Tennessee,SEC,John Barnhill,L,0,13
+1944-11-18,LSU,SEC,Bernie Moore,H,Georgia Tech,SEC,William Alexander,L,6,14
+1944-11-30,LSU,SEC,Bernie Moore,H,Tulane,SEC,Claude Simons,W,25,6
+1944-09-30,Pennsylvania,Ind,George Munger,H,Duke,Southern,,W,18,7
+1944-10-07,Pennsylvania,Ind,George Munger,H,Dartmouth,Ind,,W,20,6
+1944-10-14,Pennsylvania,Ind,George Munger,H,William & Mary,Southern,Rube McCray,W,46,0
+1944-10-28,Pennsylvania,Ind,George Munger,H,Navy,Ind,Oscar Hagberg,L,0,26
+1944-11-04,Pennsylvania,Ind,George Munger,H,Michigan,Western,Fritz Crisler,L,19,41
+1944-11-11,Pennsylvania,Ind,George Munger,H,Columbia,Ind,Lou Little,W,35,7
+1944-11-18,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,L,7,62
+1944-11-25,Pennsylvania,Ind,George Munger,H,Cornell,Ind,,W,20,0
+1944-10-07,Tulsa,MVC,Henry Frnka,H,Kansas,Big 6,Henry Shenk,W,27,0
+1944-10-14,Tulsa,MVC,Henry Frnka,H,Texas Tech,BIAA,,W,34,7
+1944-10-21,Tulsa,MVC,Henry Frnka,A,Ole Miss,SEC,Harry Mehre,W,47,0
+1944-10-28,Tulsa,MVC,Henry Frnka,H,Oklahoma State,MVC,Jim Lookabaugh,L,40,46
+1944-11-04,Tulsa,MVC,Henry Frnka,H,Iowa Pre-Flight,Ind,Jack Meagher,L,27,47
+1944-11-23,Tulsa,MVC,Henry Frnka,H,Arkansas,SWC,Glen Rose,W,33,2
+1944-12-01,Tulsa,MVC,Henry Frnka,A,Miami (FL),Ind,Eddie Dunn,W,48,2
+1945-01-01,Tulsa,MVC,Henry Frnka,N,Georgia Tech,SEC,William Alexander,W,26,12
+1944-10-07,Iowa,Western,Slip Madigan,A,Ohio State,Western,Carroll Widdoes,L,0,34
+1944-10-14,Iowa,Western,Slip Madigan,A,Illinois,Western,Ray Eliot,L,6,40
+1944-10-21,Iowa,Western,Slip Madigan,H,Purdue,Western,Cecil Isbell,L,7,26
+1944-10-28,Iowa,Western,Slip Madigan,A,Indiana,Western,Bo McMillin,L,0,32
+1944-11-04,Iowa,Western,Slip Madigan,H,Nebraska,Big 6,Adolph Lewandowski,W,27,6
+1944-11-11,Iowa,Western,Slip Madigan,A,Wisconsin,Western,Harry Stuhldreher,L,7,26
+1944-11-18,Iowa,Western,Slip Madigan,H,Minnesota,Western,George Hauser,L,0,46
+1944-11-25,Iowa,Western,Slip Madigan,N,Iowa Pre-Flight,Ind,Jack Meagher,L,6,30
+1944-10-07,Columbia,Ind,Lou Little,H,Syracuse,Ind,Ossie Solem,W,26,2
+1944-10-14,Columbia,Ind,Lou Little,A,Yale,Ind,Howard Odell,L,10,27
+1944-10-28,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,L,0,6
+1944-11-04,Columbia,Ind,Lou Little,H,Cornell,Ind,,L,7,25
+1944-11-11,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,George Munger,L,7,35
+1944-11-18,Columbia,Ind,Lou Little,H,Brown,Ind,Rip Engle,L,0,12
+1944-11-25,Columbia,Ind,Lou Little,H,Dartmouth,Ind,,L,0,18
+1944-10-14,Saint Mary's (CA) Pre-Flight,Ind,,N,USC,PCC,Jeff Cravath,L,0,6
+1944-10-21,Saint Mary's (CA) Pre-Flight,Ind,,A,UCLA,PCC,Babe Horrell,W,21,12
+1944-10-29,Saint Mary's (CA) Pre-Flight,Ind,,H,March Field,Ind,,L,0,7
+1944-11-12,Saint Mary's (CA) Pre-Flight,Ind,,N,Alameda Coast Guard,Ind,Joe Verducci,W,32,13
+1944-11-25,Saint Mary's (CA) Pre-Flight,Ind,,A,California,PCC,Stub Allison,W,33,6
+1944-10-07,Texas,SWC,Dana Bible,H,Randolph Field,Ind,Frank Tritico,L,6,42
+1944-10-14,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Snorter Luster,W,20,0
+1944-10-21,Texas,SWC,Dana Bible,A,Arkansas,SWC,Glen Rose,W,19,0
+1944-10-28,Texas,SWC,Dana Bible,A,Rice,SWC,Jess Neely,L,0,7
+1944-11-04,Texas,SWC,Dana Bible,H,SMU,SWC,James Stewart,W,34,7
+1944-11-11,Texas,SWC,Dana Bible,H,Oklahoma State,MVC,Jim Lookabaugh,L,8,13
+1944-11-18,Texas,SWC,Dana Bible,A,Texas Christian,SWC,Dutch Meyer,L,6,7
+1944-11-30,Texas,SWC,Dana Bible,H,Texas A&M,SWC,Homer Norton,W,6,0
+1944-09-23,Texas Christian,SWC,Dutch Meyer,A,Kansas,Big 6,Henry Shenk,W,7,0
+1944-10-07,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,Glen Rose,T,6,6
+1944-10-21,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,W,13,7
+1944-10-28,Texas Christian,SWC,Dutch Meyer,A,Oklahoma,Big 6,Snorter Luster,L,19,34
+1944-11-11,Texas Christian,SWC,Dutch Meyer,H,Texas Tech,BIAA,,W,14,0
+1944-11-18,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Dana Bible,W,7,6
+1944-11-25,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jess Neely,W,9,6
+1944-12-02,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,James Stewart,L,6,9
+1945-01-01,Texas Christian,SWC,Dutch Meyer,H,Oklahoma State,MVC,Jim Lookabaugh,L,0,34
+1944-10-14,New York University,Ind,John Weinheimer,H,Temple,Ind,Ray Morrison,L,0,25
+1944-10-20,New York University,Ind,John Weinheimer,A,Boston College,Ind,Moody Sarno,L,13,42
+1944-11-04,New York University,Ind,John Weinheimer,A,Bucknell,Ind,Ellwood Ludwig,L,0,26
+1944-10-07,Miami (FL),Ind,Eddie Dunn,H,South Carolina,Southern,Doc Newton,T,0,0
+1944-10-27,Miami (FL),Ind,Eddie Dunn,H,Wake Forest,Southern,D.C. Walker,L,0,27
+1944-11-03,Miami (FL),Ind,Eddie Dunn,H,Florida,SEC,Tom Lieb,L,0,13
+1944-11-10,Miami (FL),Ind,Eddie Dunn,H,North Carolina State,Southern,Beattie Feathers,L,7,28
+1944-11-17,Miami (FL),Ind,Eddie Dunn,H,Presbyterian,Ind,Lonnie McMillan,W,33,13
+1944-11-24,Miami (FL),Ind,Eddie Dunn,H,Auburn,SEC,Carl Voyles,L,19,38
+1944-12-01,Miami (FL),Ind,Eddie Dunn,H,Tulsa,MVC,Henry Frnka,L,2,48
+1944-12-08,Miami (FL),Ind,Eddie Dunn,H,Texas A&M,SWC,Homer Norton,L,14,70
+1944-09-23,Richmond,Southern,Malcolm Pitt,A,Duke,Southern,,L,7,61
+1944-10-07,Richmond,Southern,Malcolm Pitt,H,Virginia Military Institute,Southern,,L,20,26
+1944-11-11,Richmond,Southern,Malcolm Pitt,H,Virginia,Ind,Frank Murray,L,0,39
+1944-11-18,Richmond,Southern,Malcolm Pitt,N,North Carolina State,Southern,Beattie Feathers,L,0,39
+1944-11-30,Richmond,Southern,Malcolm Pitt,H,William & Mary,Southern,Rube McCray,L,0,40
+1944-10-07,Brown,Ind,Rip Engle,A,Army,Ind,Red Blaik,L,7,59
+1944-10-21,Brown,Ind,Rip Engle,A,Holy Cross,Ind,,T,24,24
+1944-10-28,Brown,Ind,Rip Engle,H,Dartmouth,Ind,,L,13,14
+1944-11-04,Brown,Ind,Rip Engle,H,Coast Guard,Ind,Johnny Merriman,L,0,20
+1944-11-11,Brown,Ind,Rip Engle,A,Yale,Ind,Howard Odell,L,0,13
+1944-11-18,Brown,Ind,Rip Engle,A,Columbia,Ind,Lou Little,W,12,0
+1944-11-25,Brown,Ind,Rip Engle,H,Colgate,Ind,Andrew Kerr,W,32,20
+1944-09-30,Tennessee,SEC,John Barnhill,H,Kentucky,SEC,A.D. Kirwan,W,26,13
+1944-10-07,Tennessee,SEC,John Barnhill,N,Ole Miss,SEC,Harry Mehre,W,20,7
+1944-10-14,Tennessee,SEC,John Barnhill,H,Florida,SEC,Tom Lieb,W,40,0
+1944-10-21,Tennessee,SEC,John Barnhill,H,Alabama,SEC,Frank Thomas,T,0,0
+1944-10-28,Tennessee,SEC,John Barnhill,H,Clemson,Southern,Frank Howard,W,26,7
+1944-11-04,Tennessee,SEC,John Barnhill,A,LSU,SEC,Bernie Moore,W,13,0
+1944-11-18,Tennessee,SEC,John Barnhill,H,Temple,Ind,Ray Morrison,W,27,14
+1944-11-25,Tennessee,SEC,John Barnhill,A,Kentucky,SEC,A.D. Kirwan,W,21,7
+1945-01-01,Tennessee,SEC,John Barnhill,A,USC,PCC,Jeff Cravath,L,0,25
+1944-10-15,March Field,Ind,,A,Alameda Coast Guard,Ind,Joe Verducci,T,20,20
+1944-10-29,March Field,Ind,,A,Saint Mary's (CA) Pre-Flight,Ind,,W,7,0
+1944-11-04,March Field,Ind,,H,UCLA,PCC,Babe Horrell,W,35,13
+1944-11-11,March Field,Ind,,A,Washington,PCC,Ralph Welch,W,28,0
+1944-12-10,March Field,Ind,,H,Randolph Field,Ind,Frank Tritico,L,7,20
+1944-09-30,Alabama,SEC,Frank Thomas,A,LSU,SEC,Bernie Moore,T,27,27
+1944-10-21,Alabama,SEC,Frank Thomas,A,Tennessee,SEC,John Barnhill,T,0,0
+1944-10-27,Alabama,SEC,Frank Thomas,H,Kentucky,SEC,A.D. Kirwan,W,41,0
+1944-11-04,Alabama,SEC,Frank Thomas,H,Georgia,SEC,Wallace Butts,L,7,14
+1944-11-11,Alabama,SEC,Frank Thomas,H,Ole Miss,SEC,Harry Mehre,W,34,6
+1944-11-18,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Allyn McKeen,W,19,0
+1945-01-01,Alabama,SEC,Frank Thomas,N,Duke,Southern,,L,26,29
+1944-09-23,Purdue,Western,Cecil Isbell,A,Great Lakes Navy,Ind,,L,18,27
+1944-09-30,Purdue,Western,Cecil Isbell,H,Marquette,Ind,Tom Stidham,W,40,7
+1944-10-07,Purdue,Western,Cecil Isbell,A,Illinois,Western,Ray Eliot,W,35,19
+1944-10-14,Purdue,Western,Cecil Isbell,H,Iowa Pre-Flight,Ind,Jack Meagher,L,6,13
+1944-10-21,Purdue,Western,Cecil Isbell,A,Iowa,Western,Slip Madigan,W,26,7
+1944-10-28,Purdue,Western,Cecil Isbell,A,Michigan,Western,Fritz Crisler,L,14,40
+1944-11-04,Purdue,Western,Cecil Isbell,H,Wisconsin,Western,Harry Stuhldreher,W,35,0
+1944-11-11,Purdue,Western,Cecil Isbell,A,Northwestern,Western,Pappy Waldorf,W,27,7
+1944-11-18,Purdue,Western,Cecil Isbell,A,Navy,Ind,Oscar Hagberg,L,0,32
+1944-11-25,Purdue,Western,Cecil Isbell,H,Indiana,Western,Bo McMillin,L,6,14
+1944-09-30,Nebraska,Big 6,Adolph Lewandowski,A,Minnesota,Western,George Hauser,L,0,39
+1944-10-14,Nebraska,Big 6,Adolph Lewandowski,A,Indiana,Western,Bo McMillin,L,0,54
+1944-10-21,Nebraska,Big 6,Adolph Lewandowski,A,Kansas,Big 6,Henry Shenk,L,0,20
+1944-10-28,Nebraska,Big 6,Adolph Lewandowski,H,Missouri,Big 6,Chauncey Simpson,W,24,20
+1944-11-04,Nebraska,Big 6,Adolph Lewandowski,A,Iowa,Western,Slip Madigan,L,6,27
+1944-11-11,Nebraska,Big 6,Adolph Lewandowski,H,Iowa State,Big 6,Mike Michalske,L,6,19
+1944-11-25,Nebraska,Big 6,Adolph Lewandowski,H,Kansas State,Big 6,Ward Haylett,W,35,0
+1944-12-02,Nebraska,Big 6,Adolph Lewandowski,A,Oklahoma,Big 6,Snorter Luster,L,12,31
+1944-09-23,West Virginia,Ind,Rat Rogers,A,Pitt,Ind,Clark Shaughnessy,L,13,26
+1944-10-07,West Virginia,Ind,Rat Rogers,N,Virginia,Ind,Frank Murray,L,6,24
+1944-10-14,West Virginia,Ind,Rat Rogers,A,Maryland,Southern,Clarence Spears,T,6,6
+1944-10-28,West Virginia,Ind,Rat Rogers,A,Penn State,Ind,Bob Higgins,W,28,27
+1944-11-04,West Virginia,Ind,Rat Rogers,H,Temple,Ind,Ray Morrison,W,6,0
+1944-11-18,West Virginia,Ind,Rat Rogers,A,Kentucky,SEC,A.D. Kirwan,L,9,40
+1944-09-23,Oklahoma State,MVC,Jim Lookabaugh,H,West Texas A&M,BIAA,Gus Miller,W,41,6
+1944-09-29,Oklahoma State,MVC,Jim Lookabaugh,H,Arkansas,SWC,Glen Rose,W,19,0
+1944-10-07,Oklahoma State,MVC,Jim Lookabaugh,A,Texas Tech,BIAA,,W,14,7
+1944-10-21,Oklahoma State,MVC,Jim Lookabaugh,A,Denver,MSAC,Cac Hubbard,W,33,21
+1944-10-28,Oklahoma State,MVC,Jim Lookabaugh,A,Tulsa,MVC,Henry Frnka,W,46,40
+1944-11-04,Oklahoma State,MVC,Jim Lookabaugh,H,Norman Naval Air Station,Ind,,L,0,15
+1944-11-11,Oklahoma State,MVC,Jim Lookabaugh,A,Texas,SWC,Dana Bible,W,13,8
+1944-11-25,Oklahoma State,MVC,Jim Lookabaugh,N,Oklahoma,Big 6,Snorter Luster,W,28,6
+1945-01-01,Oklahoma State,MVC,Jim Lookabaugh,A,Texas Christian,SWC,Dutch Meyer,W,34,0
+1944-09-23,Colorado,MSAC,Frank Potts,H,Fort Warren,Ind,,L,6,7
+1944-10-14,Colorado,MSAC,Frank Potts,A,Utah,MSAC,Ike Armstrong,W,26,0
+1944-10-21,Colorado,MSAC,Frank Potts,H,Colorado College,Ind,Harold White,W,28,0
+1944-11-04,Colorado,MSAC,Frank Potts,H,New Mexico,BIAA,Willis Barnes,W,39,0
+1944-11-18,Colorado,MSAC,Frank Potts,A,Colorado College,Ind,Harold White,W,40,6
+1944-11-23,Colorado,MSAC,Frank Potts,A,Denver,MSAC,Cac Hubbard,W,16,14
+1944-09-30,Rice,SWC,Jess Neely,H,Randolph Field,Ind,Frank Tritico,L,0,59
+1944-10-07,Rice,SWC,Jess Neely,H,LSU,SEC,Bernie Moore,W,14,13
+1944-10-14,Rice,SWC,Jess Neely,A,Tulane,SEC,Claude Simons,L,0,21
+1944-10-21,Rice,SWC,Jess Neely,H,SMU,SWC,James Stewart,W,21,10
+1944-10-28,Rice,SWC,Jess Neely,H,Texas,SWC,Dana Bible,W,7,0
+1944-11-04,Rice,SWC,Jess Neely,H,Texas Tech,BIAA,,L,7,13
+1944-11-11,Rice,SWC,Jess Neely,A,Arkansas,SWC,Glen Rose,L,7,12
+1944-11-18,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Homer Norton,L,6,19
+1944-11-25,Rice,SWC,Jess Neely,H,Texas Christian,SWC,Dutch Meyer,L,6,9
+1944-09-30,Texas A&M,SWC,Homer Norton,N,Texas Tech,BIAA,,W,27,14
+1944-10-07,Texas A&M,SWC,Homer Norton,A,Oklahoma,Big 6,Snorter Luster,L,14,21
+1944-10-14,Texas A&M,SWC,Homer Norton,A,LSU,SEC,Bernie Moore,W,7,0
+1944-10-21,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,L,7,13
+1944-11-04,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,Glen Rose,L,6,7
+1944-11-11,Texas A&M,SWC,Homer Norton,A,SMU,SWC,James Stewart,W,39,6
+1944-11-18,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jess Neely,W,19,6
+1944-11-30,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Dana Bible,L,0,6
+1944-12-08,Texas A&M,SWC,Homer Norton,A,Miami (FL),Ind,Eddie Dunn,W,70,14
+1944-10-07,Michigan State,Ind,Charlie Bachman,A,Kentucky,SEC,A.D. Kirwan,W,2,0
+1944-10-14,Michigan State,Ind,Charlie Bachman,H,Kansas State,Big 6,Ward Haylett,W,45,6
+1944-10-21,Michigan State,Ind,Charlie Bachman,A,Maryland,Southern,Clarence Spears,W,8,0
+1944-11-04,Michigan State,Ind,Charlie Bachman,A,Missouri,Big 6,Chauncey Simpson,L,7,13
+1944-11-11,Michigan State,Ind,Charlie Bachman,H,Maryland,Southern,Clarence Spears,W,33,0
+1944-09-16,Amarillo Field,Ind,,A,New Mexico,BIAA,Willis Barnes,W,21,2
+1944-09-30,Amarillo Field,Ind,,A,Lubbock Field,Ind,,W,19,0
+1944-10-07,Amarillo Field,Ind,,H,Lubbock Field,Ind,,W,31,0
+1944-10-14,Amarillo Field,Ind,,A,West Texas A&M,BIAA,Gus Miller,W,38,7
+1944-10-21,Amarillo Field,Ind,,H,Norman Naval Air Station,Ind,,L,13,19
+1944-11-26,Amarillo Field,Ind,,A,Randolph Field,Ind,Frank Tritico,L,0,33
+1944-10-20,Boston College,Ind,Moody Sarno,H,New York University,Ind,John Weinheimer,W,42,13
+1944-10-28,Boston College,Ind,Moody Sarno,H,Syracuse,Ind,Ossie Solem,W,19,12
+1944-11-26,Boston College,Ind,Moody Sarno,N,Holy Cross,Ind,,L,14,30
+1944-10-14,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,,W,14,7
+1944-10-21,Colgate,Ind,Andrew Kerr,H,Penn State,Ind,Bob Higgins,L,0,6
+1944-10-28,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,W,6,0
+1944-11-11,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,,L,13,19
+1944-11-18,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,L,13,43
+1944-11-25,Colgate,Ind,Andrew Kerr,A,Brown,Ind,Rip Engle,L,20,32
+1944-09-23,Minnesota,Western,George Hauser,H,Iowa Pre-Flight,Ind,Jack Meagher,L,13,19
+1944-09-30,Minnesota,Western,George Hauser,H,Nebraska,Big 6,Adolph Lewandowski,W,39,0
+1944-10-07,Minnesota,Western,George Hauser,H,Michigan,Western,Fritz Crisler,L,13,28
+1944-10-14,Minnesota,Western,George Hauser,H,Missouri,Big 6,Chauncey Simpson,W,39,27
+1944-10-28,Minnesota,Western,George Hauser,A,Ohio State,Western,Carroll Widdoes,L,14,34
+1944-11-04,Minnesota,Western,George Hauser,H,Northwestern,Western,Pappy Waldorf,T,14,14
+1944-11-11,Minnesota,Western,George Hauser,H,Indiana,Western,Bo McMillin,W,19,14
+1944-11-18,Minnesota,Western,George Hauser,A,Iowa,Western,Slip Madigan,W,46,0
+1944-11-25,Minnesota,Western,George Hauser,A,Wisconsin,Western,Harry Stuhldreher,W,28,26
+1944-09-23,Ole Miss,SEC,Harry Mehre,A,Kentucky,SEC,A.D. Kirwan,L,7,27
+1944-09-30,Ole Miss,SEC,Harry Mehre,A,Florida,SEC,Tom Lieb,W,26,6
+1944-10-07,Ole Miss,SEC,Harry Mehre,N,Tennessee,SEC,John Barnhill,L,7,20
+1944-10-21,Ole Miss,SEC,Harry Mehre,H,Tulsa,MVC,Henry Frnka,L,0,47
+1944-10-28,Ole Miss,SEC,Harry Mehre,N,Arkansas,SWC,Glen Rose,L,18,26
+1944-11-11,Ole Miss,SEC,Harry Mehre,A,Alabama,SEC,Frank Thomas,L,6,34
+1944-11-25,Ole Miss,SEC,Harry Mehre,H,Mississippi State,SEC,Allyn McKeen,W,13,8
+1944-09-23,Duke,Southern,,H,Richmond,Southern,Malcolm Pitt,W,61,7
+1944-09-30,Duke,Southern,,A,Pennsylvania,Ind,George Munger,L,7,18
+1944-10-14,Duke,Southern,,A,Navy,Ind,Oscar Hagberg,L,0,7
+1944-10-28,Duke,Southern,,A,Army,Ind,Red Blaik,L,7,27
+1944-11-04,Duke,Southern,,H,Georgia Tech,SEC,William Alexander,W,19,13
+1944-11-11,Duke,Southern,,H,Wake Forest,Southern,D.C. Walker,W,34,0
+1944-11-18,Duke,Southern,,A,South Carolina,Southern,Doc Newton,W,34,7
+1944-11-25,Duke,Southern,,A,North Carolina,Southern,Gene McEver,W,33,0
+1945-01-01,Duke,Southern,,N,Alabama,SEC,Frank Thomas,W,29,26
+1944-10-07,Navy,Ind,Oscar Hagberg,H,Penn State,Ind,Bob Higgins,W,55,14
+1944-10-14,Navy,Ind,Oscar Hagberg,H,Duke,Southern,,W,7,0
+1944-10-21,Navy,Ind,Oscar Hagberg,A,Georgia Tech,SEC,William Alexander,L,15,17
+1944-10-28,Navy,Ind,Oscar Hagberg,A,Pennsylvania,Ind,George Munger,W,26,0
+1944-11-04,Navy,Ind,Oscar Hagberg,H,Notre Dame,Ind,Ed McKeever,W,32,13
+1944-11-11,Navy,Ind,Oscar Hagberg,H,Cornell,Ind,,W,48,0
+1944-11-18,Navy,Ind,Oscar Hagberg,H,Purdue,Western,Cecil Isbell,W,32,0
+1944-12-02,Navy,Ind,Oscar Hagberg,H,Army,Ind,Red Blaik,L,7,23
+1944-09-23,Texas Tech,BIAA,,H,Lubbock Field,Ind,,L,13,27
+1944-09-30,Texas Tech,BIAA,,N,Texas A&M,SWC,Homer Norton,L,14,27
+1944-10-07,Texas Tech,BIAA,,H,Oklahoma State,MVC,Jim Lookabaugh,L,7,14
+1944-10-14,Texas Tech,BIAA,,A,Tulsa,MVC,Henry Frnka,L,7,34
+1944-10-27,Texas Tech,BIAA,,A,West Texas A&M,BIAA,Gus Miller,W,35,6
+1944-11-04,Texas Tech,BIAA,,A,Rice,SWC,Jess Neely,W,13,7
+1944-11-11,Texas Tech,BIAA,,A,Texas Christian,SWC,Dutch Meyer,L,0,14
+1944-11-18,Texas Tech,BIAA,,H,New Mexico,BIAA,Willis Barnes,W,13,7
+1944-11-25,Texas Tech,BIAA,,H,SMU,SWC,James Stewart,L,6,7
+1944-10-07,Tulane,SEC,Claude Simons,A,Notre Dame,Ind,Ed McKeever,L,0,26
+1944-10-14,Tulane,SEC,Claude Simons,H,Rice,SWC,Jess Neely,W,21,0
+1944-10-21,Tulane,SEC,Claude Simons,H,Auburn,SEC,Carl Voyles,W,16,13
+1944-10-28,Tulane,SEC,Claude Simons,H,SMU,SWC,James Stewart,W,27,7
+1944-11-11,Tulane,SEC,Claude Simons,A,Georgia Tech,SEC,William Alexander,L,7,34
+1944-11-18,Tulane,SEC,Claude Simons,H,Clemson,Southern,Frank Howard,W,36,20
+1944-11-30,Tulane,SEC,Claude Simons,A,LSU,SEC,Bernie Moore,L,6,25
+1944-09-23,Cornell,Ind,,A,Syracuse,Ind,Ossie Solem,W,39,6
+1944-09-30,Cornell,Ind,,H,Bucknell,Ind,Ellwood Ludwig,W,26,0
+1944-10-07,Cornell,Ind,,A,Yale,Ind,Howard Odell,L,7,16
+1944-10-14,Cornell,Ind,,H,Colgate,Ind,Andrew Kerr,L,7,14
+1944-11-04,Cornell,Ind,,A,Columbia,Ind,Lou Little,W,25,7
+1944-11-11,Cornell,Ind,,A,Navy,Ind,Oscar Hagberg,L,0,48
+1944-11-18,Cornell,Ind,,H,Dartmouth,Ind,,W,14,13
+1944-11-25,Cornell,Ind,,A,Pennsylvania,Ind,George Munger,L,0,20
+1944-09-30,Ohio State,Western,Carroll Widdoes,H,Missouri,Big 6,Chauncey Simpson,W,54,0
+1944-10-07,Ohio State,Western,Carroll Widdoes,H,Iowa,Western,Slip Madigan,W,34,0
+1944-10-14,Ohio State,Western,Carroll Widdoes,A,Wisconsin,Western,Harry Stuhldreher,W,20,7
+1944-10-21,Ohio State,Western,Carroll Widdoes,H,Great Lakes Navy,Ind,,W,26,6
+1944-10-28,Ohio State,Western,Carroll Widdoes,H,Minnesota,Western,George Hauser,W,34,14
+1944-11-04,Ohio State,Western,Carroll Widdoes,H,Indiana,Western,Bo McMillin,W,21,7
+1944-11-11,Ohio State,Western,Carroll Widdoes,H,Pitt,Ind,Clark Shaughnessy,W,54,19
+1944-11-18,Ohio State,Western,Carroll Widdoes,H,Illinois,Western,Ray Eliot,W,26,12
+1944-11-25,Ohio State,Western,Carroll Widdoes,H,Michigan,Western,Fritz Crisler,W,18,14
+1944-09-08,Second Air Force,Ind,,H,Colorado College,Ind,Harold White,W,24,0
+1944-09-17,Second Air Force,Ind,,A,Idaho State,Ind,John Vesser,W,45,0
+1944-09-30,Second Air Force,Ind,,A,Colorado,MSAC,Frank Potts,W,33,6
+1944-10-07,Second Air Force,Ind,,N,Iowa Pre-Flight,Ind,Jack Meagher,L,6,12
+1944-10-14,Second Air Force,Ind,,N,New Mexico,BIAA,Willis Barnes,W,89,6
+1944-10-29,Second Air Force,Ind,,A,Norman Naval Air Station,Ind,,L,6,13
+1944-11-05,Second Air Force,Ind,,H,Amarillo Field,Ind,,W,46,6
+1944-11-12,Second Air Force,Ind,,H,Fort Warren,Ind,,W,20,0
+1944-11-18,Second Air Force,Ind,,A,Washington,PCC,Ralph Welch,W,47,6
+1944-11-26,Second Air Force,Ind,,H,March Field,Ind,,T,0,0
+1944-12-16,Second Air Force,Ind,,N,Randolph Field,Ind,Frank Tritico,L,6,13
+1944-11-18,Drake,MVC,Vee Green,A,Iowa State,Big 6,Mike Michalske,L,0,9

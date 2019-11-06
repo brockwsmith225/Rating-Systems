@@ -1,0 +1,889 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1934-09-29,North Carolina,Southern,Carl Snavely,H,Wake Forest,Ind,Jim Weaver,W,21,0
+1934-10-06,North Carolina,Southern,Carl Snavely,H,Tennessee,SEC,Bob Neyland,L,7,19
+1934-10-13,North Carolina,Southern,Carl Snavely,A,Georgia,SEC,Harry Mehre,W,14,0
+1934-10-20,North Carolina,Southern,Carl Snavely,H,Kentucky,SEC,C.A. Wynne,W,6,0
+1934-10-27,North Carolina,Southern,Carl Snavely,H,North Carolina State,Southern,Hunk Anderson,T,7,7
+1934-11-03,North Carolina,Southern,Carl Snavely,A,Georgia Tech,SEC,William Alexander,W,26,0
+1934-11-10,North Carolina,Southern,Carl Snavely,A,Davidson,Ind,,W,12,2
+1934-11-17,North Carolina,Southern,Carl Snavely,H,Duke,Southern,Wallace Wade,W,7,0
+1934-11-24,North Carolina,Southern,Carl Snavely,A,Virginia,Southern,Gus Tebell,W,25,6
+1934-10-06,Indiana,Western,Bo McMillin,A,Ohio State,Western,Francis Schmidt,L,0,33
+1934-10-13,Indiana,Western,Bo McMillin,A,Temple,Ind,Pop Warner,T,6,6
+1934-10-20,Indiana,Western,Bo McMillin,A,Chicago,Western,Clark Shaughnessy,L,0,21
+1934-11-03,Indiana,Western,Bo McMillin,H,Iowa,Western,Ossie Solem,T,0,0
+1934-11-10,Indiana,Western,Bo McMillin,A,Minnesota,Western,Bernie Bierman,L,0,30
+1934-11-17,Indiana,Western,Bo McMillin,A,Maryland,Southern,Curley Byrd,W,17,14
+1934-11-24,Indiana,Western,Bo McMillin,A,Purdue,Western,Noble Kizer,W,17,6
+1934-10-06,Iowa State,Big 6,George Veenker,H,Grinnell,MVC,Lester Watt,W,26,6
+1934-10-13,Iowa State,Big 6,George Veenker,A,Missouri,Big 6,Frank Carideo,W,13,0
+1934-10-20,Iowa State,Big 6,George Veenker,H,Iowa,Western,Ossie Solem,W,31,6
+1934-10-27,Iowa State,Big 6,George Veenker,A,Nebraska,Big 6,Dana Bible,L,6,7
+1934-11-03,Iowa State,Big 6,George Veenker,H,Kansas,Big 6,Adrian Lindsey,T,0,0
+1934-11-10,Iowa State,Big 6,George Veenker,A,Oklahoma,Big 6,Lewie Hardage,L,0,12
+1934-11-17,Iowa State,Big 6,George Veenker,H,Drake,MVC,Vee Green,W,33,12
+1934-11-24,Iowa State,Big 6,George Veenker,A,Kansas State,Big 6,Pappy Waldorf,L,0,20
+1934-10-20,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Slip Madigan,L,9,14
+1934-10-27,Fordham,Ind,Jimmy Crowley,H,SMU,SWC,Ray Morrison,L,14,26
+1934-11-03,Fordham,Ind,Jimmy Crowley,H,Tennessee,SEC,Bob Neyland,W,13,12
+1934-11-10,Fordham,Ind,Jimmy Crowley,H,West Virginia,Ind,Trusty Tallman,W,27,20
+1934-11-17,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Noble Kizer,L,0,7
+1934-11-29,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,W,39,13
+1934-10-06,Arizona State,BIAA,Rudy Lavik,A,Loyola Marymount,Ind,Tom Lieb,L,0,43
+1934-10-20,Arizona State,BIAA,Rudy Lavik,H,New Mexico,BIAA,Gwinn Henry,L,12,18
+1934-10-27,Arizona State,BIAA,Rudy Lavik,A,Northern Arizona,BIAA,Mark McIntosh,W,21,0
+1934-11-03,Arizona State,BIAA,Rudy Lavik,H,Northern Arizona,BIAA,Mark McIntosh,W,6,0
+1934-11-10,Arizona State,BIAA,Rudy Lavik,A,New Mexico State,BIAA,Gerald Hines,T,7,7
+1934-11-17,Arizona State,BIAA,Rudy Lavik,A,Arizona,BIAA,Tex Oliver,L,6,32
+1934-10-06,Furman,Ind,,H,Georgia,SEC,Harry Mehre,L,2,7
+1934-10-11,Furman,Ind,,H,Wake Forest,Ind,Jim Weaver,W,3,2
+1934-10-20,Furman,Ind,,A,Mercer,Ind,,W,9,3
+1934-11-03,Furman,Ind,,H,Bucknell,Ind,Hook Mylin,L,0,19
+1934-11-10,Furman,Ind,,A,Citadel,Ind,Tatum Gressette,W,6,0
+1934-11-17,Furman,Ind,,H,South Carolina,Southern,Billy Laval,L,0,2
+1934-11-29,Furman,Ind,,A,Clemson,Southern,Jess Neely,L,0,7
+1934-09-28,Utah,RMC,Ike Armstrong,A,Drake,MVC,Vee Green,W,6,0
+1934-10-06,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,61,6
+1934-10-13,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,43,0
+1934-10-20,Utah,RMC,Ike Armstrong,A,Denver,RMC,Percy Locey,W,7,0
+1934-10-27,Utah,RMC,Ike Armstrong,H,Oregon,PCC,Prink Callison,L,7,8
+1934-11-10,Utah,RMC,Ike Armstrong,A,Colorado,RMC,William Saunders,L,6,7
+1934-11-17,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,L,6,14
+1934-11-29,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,14,7
+1934-09-29,Northern Colorado,RMC,J.W. Hancock,H,Colorado State,RMC,Harry Hughes,L,0,12
+1934-10-06,Northern Colorado,RMC,J.W. Hancock,A,Western State,RMC,Tefler Meade,W,40,0
+1934-10-12,Northern Colorado,RMC,J.W. Hancock,H,Colorado,RMC,William Saunders,W,13,7
+1934-10-20,Northern Colorado,RMC,J.W. Hancock,A,Colorado College,RMC,W.T. VandeGraaff,W,21,0
+1934-10-27,Northern Colorado,RMC,J.W. Hancock,H,Montana State,RMC,Schubert Dyche,W,19,0
+1934-11-10,Northern Colorado,RMC,J.W. Hancock,H,Colorado Mines,RMC,George Scott,W,46,7
+1934-11-17,Northern Colorado,RMC,J.W. Hancock,A,Wyoming,RMC,Dutch Witte,W,9,6
+1934-10-20,Villanova,Ind,Harry Stuhldreher,H,Detroit Mercy,Ind,Gus Dorais,T,0,0
+1934-10-27,Villanova,Ind,Harry Stuhldreher,A,Bucknell,Ind,Hook Mylin,L,0,13
+1934-11-10,Villanova,Ind,Harry Stuhldreher,H,South Carolina,Southern,Billy Laval,W,20,0
+1934-11-24,Villanova,Ind,Harry Stuhldreher,A,Temple,Ind,Pop Warner,L,0,22
+1934-09-29,Washington & Lee,Southern,Tex Tilson,A,Kentucky,SEC,C.A. Wynne,W,7,0
+1934-10-06,Washington & Lee,Southern,Tex Tilson,H,Maryland,Southern,Curley Byrd,W,7,0
+1934-10-13,Washington & Lee,Southern,Tex Tilson,N,West Virginia,Ind,Trusty Tallman,L,0,12
+1934-10-20,Washington & Lee,Southern,Tex Tilson,A,Princeton,Ind,Fritz Crisler,L,12,14
+1934-10-27,Washington & Lee,Southern,Tex Tilson,H,Virginia Tech,Southern,Henry Redd,W,13,7
+1934-11-03,Washington & Lee,Southern,Tex Tilson,A,Navy,Ind,Thomas Hamilton,L,0,26
+1934-11-10,Washington & Lee,Southern,Tex Tilson,A,Virginia,Southern,Gus Tebell,W,20,0
+1934-11-17,Washington & Lee,Southern,Tex Tilson,A,William & Mary,Ind,John Kellison,W,7,0
+1934-11-29,Washington & Lee,Southern,Tex Tilson,A,South Carolina,Southern,Billy Laval,W,14,7
+1934-10-13,Syracuse,Ind,Vic Hanson,A,Cornell,Ind,Gilmour Dobie,W,20,7
+1934-10-27,Syracuse,Ind,Vic Hanson,A,Brown,Ind,DeOrmond McLaughry,W,33,0
+1934-11-03,Syracuse,Ind,Vic Hanson,A,Penn State,Ind,Bob Higgins,W,16,0
+1934-11-10,Syracuse,Ind,Vic Hanson,H,Michigan State,Ind,Charlie Bachman,W,10,0
+1934-11-17,Syracuse,Ind,Vic Hanson,H,Colgate,Ind,Andrew Kerr,L,2,13
+1934-11-25,Syracuse,Ind,Vic Hanson,A,Columbia,Ind,Lou Little,L,0,12
+1934-10-06,Arizona,BIAA,Tex Oliver,A,Colorado State,RMC,Harry Hughes,W,7,3
+1934-10-20,Arizona,BIAA,Tex Oliver,H,Loyola Marymount,Ind,Tom Lieb,L,0,6
+1934-10-26,Arizona,BIAA,Tex Oliver,H,New Mexico State,BIAA,Gerald Hines,T,0,0
+1934-11-03,Arizona,BIAA,Tex Oliver,H,New Mexico,BIAA,Gwinn Henry,W,14,6
+1934-11-17,Arizona,BIAA,Tex Oliver,H,Arizona State,BIAA,Rudy Lavik,W,32,6
+1934-11-29,Arizona,BIAA,Tex Oliver,H,Texas Tech,BIAA,Pete Cawthon,L,7,13
+1934-10-20,Georgetown,Ind,Jack Hagerty,H,William & Mary,Ind,John Kellison,W,3,0
+1934-10-27,Georgetown,Ind,Jack Hagerty,A,New York University,Ind,Mal Stevens,T,0,0
+1934-11-03,Georgetown,Ind,Jack Hagerty,A,Richmond,Ind,Glenn Thistlethwaite,L,13,14
+1934-11-24,Georgetown,Ind,Jack Hagerty,A,Maryland,Southern,Curley Byrd,L,0,6
+1934-09-29,Montana,PCC,Bunny Oakes,A,Washington State,PCC,O.E. Hollingbery,L,0,27
+1934-10-13,Montana,PCC,Bunny Oakes,A,UCLA,PCC,William Spaulding,L,0,16
+1934-10-27,Montana,PCC,Bunny Oakes,H,Idaho,PCC,Leo Calland,L,6,13
+1934-11-03,Montana,PCC,Bunny Oakes,A,Oregon,PCC,Prink Callison,L,0,13
+1934-11-10,Montana,PCC,Bunny Oakes,N,Montana State,RMC,Schubert Dyche,W,25,0
+1934-11-17,Montana,PCC,Bunny Oakes,A,Oregon State,PCC,Lon Stiner,T,7,7
+1934-11-24,Montana,PCC,Bunny Oakes,A,Gonzaga,Ind,Mike Pecarovich,L,4,6
+1934-10-27,Penn State,Ind,Bob Higgins,A,Columbia,Ind,Lou Little,L,7,14
+1934-11-03,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Vic Hanson,L,0,16
+1934-11-10,Penn State,Ind,Bob Higgins,A,Pennsylvania,Ind,Harvey Harman,L,0,3
+1934-11-24,Penn State,Ind,Bob Higgins,H,Bucknell,Ind,Hook Mylin,L,7,13
+1934-10-20,Princeton,Ind,Fritz Crisler,H,Washington & Lee,Southern,Tex Tilson,W,14,12
+1934-10-27,Princeton,Ind,Fritz Crisler,H,Cornell,Ind,Gilmour Dobie,W,45,0
+1934-11-03,Princeton,Ind,Fritz Crisler,A,Harvard,Ind,,W,19,0
+1934-11-17,Princeton,Ind,Fritz Crisler,H,Yale,Ind,,L,0,7
+1934-11-24,Princeton,Ind,Fritz Crisler,H,Dartmouth,Ind,Red Blaik,W,38,13
+1934-09-29,Vanderbilt,SEC,Dan McGugin,H,Mississippi State,SEC,Ross McKechnie,W,7,0
+1934-10-06,Vanderbilt,SEC,Dan McGugin,A,Georgia Tech,SEC,William Alexander,W,27,12
+1934-10-20,Vanderbilt,SEC,Dan McGugin,H,Auburn,SEC,Jack Meagher,W,7,6
+1934-10-27,Vanderbilt,SEC,Dan McGugin,H,LSU,SEC,Biff Jones,L,0,29
+1934-11-03,Vanderbilt,SEC,Dan McGugin,A,George Washington,Ind,James Pixlee,W,7,6
+1934-11-10,Vanderbilt,SEC,Dan McGugin,H,Sewanee,SEC,Heck Clark,W,19,0
+1934-11-17,Vanderbilt,SEC,Dan McGugin,H,Tennessee,SEC,Bob Neyland,L,6,13
+1934-11-29,Vanderbilt,SEC,Dan McGugin,A,Alabama,SEC,Frank Thomas,L,0,34
+1934-09-29,Colorado College,RMC,W.T. VandeGraaff,H,Colorado Mines,RMC,George Scott,W,13,6
+1934-10-06,Colorado College,RMC,W.T. VandeGraaff,A,Utah,RMC,Ike Armstrong,L,6,61
+1934-10-20,Colorado College,RMC,W.T. VandeGraaff,H,Northern Colorado,RMC,J.W. Hancock,L,0,21
+1934-11-03,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Percy Locey,L,0,26
+1934-11-10,Colorado College,RMC,W.T. VandeGraaff,H,Brigham Young,RMC,Ott Romney,L,19,34
+1934-11-17,Colorado College,RMC,W.T. VandeGraaff,H,Colorado,RMC,William Saunders,L,0,31
+1934-11-24,Colorado College,RMC,W.T. VandeGraaff,N,Colorado State,RMC,Harry Hughes,L,6,40
+1934-11-29,Colorado College,RMC,W.T. VandeGraaff,A,New Mexico,BIAA,Gwinn Henry,L,6,33
+1934-09-29,Kentucky,SEC,C.A. Wynne,H,Washington & Lee,Southern,Tex Tilson,L,0,7
+1934-10-13,Kentucky,SEC,C.A. Wynne,H,Clemson,Southern,Jess Neely,W,7,0
+1934-10-20,Kentucky,SEC,C.A. Wynne,A,North Carolina,Southern,Carl Snavely,L,0,6
+1934-10-27,Kentucky,SEC,C.A. Wynne,H,Auburn,SEC,Jack Meagher,W,9,0
+1934-11-03,Kentucky,SEC,C.A. Wynne,H,Alabama,SEC,Frank Thomas,L,14,34
+1934-11-17,Kentucky,SEC,C.A. Wynne,H,Tulane,SEC,Ted Cox,L,7,20
+1934-11-29,Kentucky,SEC,C.A. Wynne,A,Tennessee,SEC,Bob Neyland,L,0,19
+1934-10-06,California,PCC,William Ingram,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,7
+1934-10-20,California,PCC,William Ingram,H,UCLA,PCC,William Spaulding,W,3,0
+1934-10-27,California,PCC,William Ingram,A,Washington,PCC,James Phelan,L,7,13
+1934-11-03,California,PCC,William Ingram,H,Santa Clara,Ind,,L,0,20
+1934-11-10,California,PCC,William Ingram,A,USC,PCC,Howard Jones,W,7,2
+1934-11-17,California,PCC,William Ingram,H,Idaho,PCC,Leo Calland,W,45,13
+1934-11-24,California,PCC,William Ingram,H,Stanford,PCC,Tiny Thornhill,L,7,9
+1934-10-06,Florida,SEC,Dutch Stanley,A,Virginia Tech,Southern,Henry Redd,W,20,13
+1934-10-13,Florida,SEC,Dutch Stanley,H,Tulane,SEC,Ted Cox,L,12,28
+1934-10-20,Florida,SEC,Dutch Stanley,H,North Carolina State,Southern,Hunk Anderson,W,14,0
+1934-10-27,Florida,SEC,Dutch Stanley,A,Maryland,Southern,Curley Byrd,L,0,21
+1934-11-03,Florida,SEC,Dutch Stanley,N,Georgia,SEC,Harry Mehre,L,0,14
+1934-11-10,Florida,SEC,Dutch Stanley,H,Ole Miss,SEC,Ed Walker,T,13,13
+1934-11-17,Florida,SEC,Dutch Stanley,A,Auburn,SEC,Jack Meagher,W,14,7
+1934-11-24,Florida,SEC,Dutch Stanley,H,Georgia Tech,SEC,William Alexander,W,13,12
+1934-09-23,Gonzaga,Ind,Mike Pecarovich,A,Oregon,PCC,Prink Callison,L,0,13
+1934-10-06,Gonzaga,Ind,Mike Pecarovich,H,Idaho,PCC,Leo Calland,W,24,20
+1934-10-13,Gonzaga,Ind,Mike Pecarovich,H,Washington State,PCC,O.E. Hollingbery,W,13,6
+1934-11-24,Gonzaga,Ind,Mike Pecarovich,H,Montana,PCC,Bunny Oakes,W,6,4
+1934-12-08,Gonzaga,Ind,Mike Pecarovich,A,San Francisco,Ind,Lawrence Lewis,L,0,28
+1934-09-29,Stanford,PCC,Tiny Thornhill,H,Santa Clara,Ind,,T,7,7
+1934-10-06,Stanford,PCC,Tiny Thornhill,A,Oregon State,PCC,Lon Stiner,W,17,0
+1934-10-13,Stanford,PCC,Tiny Thornhill,H,Northwestern,Western,Dick Hanley,W,20,0
+1934-10-20,Stanford,PCC,Tiny Thornhill,A,San Francisco,Ind,Lawrence Lewis,W,3,0
+1934-10-27,Stanford,PCC,Tiny Thornhill,H,USC,PCC,Howard Jones,W,16,0
+1934-11-03,Stanford,PCC,Tiny Thornhill,A,UCLA,PCC,William Spaulding,W,27,0
+1934-11-10,Stanford,PCC,Tiny Thornhill,H,Washington,PCC,James Phelan,W,24,0
+1934-11-24,Stanford,PCC,Tiny Thornhill,A,California,PCC,William Ingram,W,9,7
+1935-01-01,Stanford,PCC,Tiny Thornhill,N,Alabama,SEC,Frank Thomas,L,13,29
+1934-10-12,Creighton,MVC,,A,Saint Louis,Ind,,L,0,13
+1934-10-20,Creighton,MVC,,H,Rice,SWC,Jimmy Kitts,L,13,47
+1934-10-26,Creighton,MVC,,A,Oklahoma State,MVC,Albert Exendine,W,13,7
+1934-11-03,Creighton,MVC,,H,Grinnell,MVC,Lester Watt,W,12,6
+1934-11-17,Creighton,MVC,,H,Marquette,Ind,Frank Murray,L,0,38
+1934-11-24,Creighton,MVC,,A,Drake,MVC,Vee Green,L,0,6
+1934-11-29,Creighton,MVC,,H,Idaho,PCC,Leo Calland,L,0,13
+1934-09-29,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Bunny Oakes,W,27,0
+1934-10-06,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,W,19,0
+1934-10-13,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Mike Pecarovich,L,6,13
+1934-10-27,Washington State,PCC,O.E. Hollingbery,H,Oregon State,PCC,Lon Stiner,W,31,0
+1934-11-02,Washington State,PCC,O.E. Hollingbery,A,Saint Mary's (CA),Ind,Slip Madigan,L,6,9
+1934-11-10,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Leo Calland,W,19,0
+1934-11-24,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,T,0,0
+1934-12-01,Washington State,PCC,O.E. Hollingbery,A,Detroit Mercy,Ind,Gus Dorais,L,0,6
+1934-09-22,Western State,RMC,Tefler Meade,A,Colorado Mines,RMC,George Scott,L,3,6
+1934-10-06,Western State,RMC,Tefler Meade,H,Northern Colorado,RMC,J.W. Hancock,L,0,40
+1934-10-26,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,0,46
+1934-11-17,Western State,RMC,Tefler Meade,H,Northern Arizona,BIAA,Mark McIntosh,L,0,12
+1934-10-06,Illinois,Western,Robert Zuppke,A,Washington (MO),MVC,Jimmy Conzelman,W,12,7
+1934-10-13,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Francis Schmidt,W,14,13
+1934-10-27,Illinois,Western,Robert Zuppke,A,Michigan,Western,Harry Kipke,W,7,6
+1934-11-03,Illinois,Western,Robert Zuppke,H,Army,Ind,Gar Davidson,W,7,0
+1934-11-10,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Dick Hanley,W,14,3
+1934-11-17,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,Clarence Spears,L,3,7
+1934-11-24,Illinois,Western,Robert Zuppke,A,Chicago,Western,Clark Shaughnessy,W,6,0
+1934-10-05,Baylor,SWC,Morley Jennings,A,Texas Tech,BIAA,Pete Cawthon,L,7,14
+1934-10-13,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Fred Thomsen,L,0,6
+1934-10-27,Baylor,SWC,Morley Jennings,H,Texas A&M,SWC,Homer Norton,L,7,10
+1934-11-03,Baylor,SWC,Morley Jennings,A,Texas Christian,SWC,Dutch Meyer,L,12,34
+1934-11-10,Baylor,SWC,Morley Jennings,A,Texas,SWC,Jack Chevigny,L,6,25
+1934-11-17,Baylor,SWC,Morley Jennings,A,Centenary (LA),Ind,Curtis Player,L,0,7
+1934-11-24,Baylor,SWC,Morley Jennings,H,SMU,SWC,Ray Morrison,W,13,6
+1934-12-01,Baylor,SWC,Morley Jennings,H,Rice,SWC,Jimmy Kitts,L,0,32
+1934-10-06,SMU,SWC,Ray Morrison,A,LSU,SEC,Biff Jones,T,14,14
+1934-10-13,SMU,SWC,Ray Morrison,A,Rice,SWC,Jimmy Kitts,L,0,9
+1934-10-20,SMU,SWC,Ray Morrison,H,Oklahoma State,MVC,Albert Exendine,W,41,0
+1934-10-27,SMU,SWC,Ray Morrison,A,Fordham,Ind,Jimmy Crowley,W,26,14
+1934-11-03,SMU,SWC,Ray Morrison,A,Texas,SWC,Jack Chevigny,T,7,7
+1934-11-10,SMU,SWC,Ray Morrison,H,Texas A&M,SWC,Homer Norton,W,28,0
+1934-11-17,SMU,SWC,Ray Morrison,H,Arkansas,SWC,Fred Thomsen,W,10,6
+1934-11-24,SMU,SWC,Ray Morrison,A,Baylor,SWC,Morley Jennings,L,6,13
+1934-12-01,SMU,SWC,Ray Morrison,H,Texas Christian,SWC,Dutch Meyer,W,19,0
+1934-12-08,SMU,SWC,Ray Morrison,A,Washington (MO),MVC,Jimmy Conzelman,W,7,0
+1934-10-06,Georgia,SEC,Harry Mehre,A,Furman,Ind,,W,7,2
+1934-10-13,Georgia,SEC,Harry Mehre,H,North Carolina,Southern,Carl Snavely,L,0,14
+1934-10-20,Georgia,SEC,Harry Mehre,A,Tulane,SEC,Ted Cox,L,6,7
+1934-10-27,Georgia,SEC,Harry Mehre,A,Alabama,SEC,Frank Thomas,L,6,26
+1934-11-03,Georgia,SEC,Harry Mehre,N,Florida,SEC,Dutch Stanley,W,14,0
+1934-11-10,Georgia,SEC,Harry Mehre,A,Yale,Ind,,W,14,7
+1934-11-17,Georgia,SEC,Harry Mehre,H,North Carolina State,Southern,Hunk Anderson,W,27,0
+1934-11-24,Georgia,SEC,Harry Mehre,N,Auburn,SEC,Jack Meagher,W,18,0
+1934-12-01,Georgia,SEC,Harry Mehre,H,Georgia Tech,SEC,William Alexander,W,7,0
+1934-10-06,Maryland,Southern,Curley Byrd,A,Washington & Lee,Southern,Tex Tilson,L,0,7
+1934-10-13,Maryland,Southern,Curley Byrd,A,Navy,Ind,Thomas Hamilton,L,13,16
+1934-10-20,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,Henry Redd,W,14,9
+1934-10-27,Maryland,Southern,Curley Byrd,H,Florida,SEC,Dutch Stanley,W,21,0
+1934-11-03,Maryland,Southern,Curley Byrd,H,Virginia,Southern,Gus Tebell,W,20,0
+1934-11-10,Maryland,Southern,Curley Byrd,H,Virginia Military Institute,Southern,,W,23,0
+1934-11-17,Maryland,Southern,Curley Byrd,H,Indiana,Western,Bo McMillin,L,14,17
+1934-11-24,Maryland,Southern,Curley Byrd,H,Georgetown,Ind,Jack Hagerty,W,6,0
+1934-10-06,Virginia,Southern,Gus Tebell,N,Navy,Ind,Thomas Hamilton,L,6,21
+1934-10-20,Virginia,Southern,Gus Tebell,A,Dartmouth,Ind,Red Blaik,L,0,27
+1934-10-27,Virginia,Southern,Gus Tebell,A,Virginia Military Institute,Southern,,W,17,13
+1934-11-03,Virginia,Southern,Gus Tebell,A,Maryland,Southern,Curley Byrd,L,0,20
+1934-11-10,Virginia,Southern,Gus Tebell,H,Washington & Lee,Southern,Tex Tilson,L,0,20
+1934-11-17,Virginia,Southern,Gus Tebell,A,Virginia Tech,Southern,Henry Redd,L,6,19
+1934-11-24,Virginia,Southern,Gus Tebell,H,North Carolina,Southern,Carl Snavely,L,6,25
+1934-09-29,Idaho,PCC,Leo Calland,A,Washington,PCC,James Phelan,L,0,13
+1934-10-06,Idaho,PCC,Leo Calland,A,Gonzaga,Ind,Mike Pecarovich,L,20,24
+1934-10-20,Idaho,PCC,Leo Calland,H,Oregon,PCC,Prink Callison,L,6,13
+1934-10-27,Idaho,PCC,Leo Calland,A,Montana,PCC,Bunny Oakes,W,13,6
+1934-11-10,Idaho,PCC,Leo Calland,A,Washington State,PCC,O.E. Hollingbery,L,0,19
+1934-11-17,Idaho,PCC,Leo Calland,A,California,PCC,William Ingram,L,13,45
+1934-11-29,Idaho,PCC,Leo Calland,A,Creighton,MVC,,W,13,0
+1934-10-05,Northern Arizona,BIAA,Mark McIntosh,A,New Mexico,BIAA,Gwinn Henry,L,6,33
+1934-10-19,Northern Arizona,BIAA,Mark McIntosh,A,New Mexico State,BIAA,Gerald Hines,T,6,6
+1934-10-27,Northern Arizona,BIAA,Mark McIntosh,H,Arizona State,BIAA,Rudy Lavik,L,0,21
+1934-11-03,Northern Arizona,BIAA,Mark McIntosh,A,Arizona State,BIAA,Rudy Lavik,L,0,6
+1934-11-17,Northern Arizona,BIAA,Mark McIntosh,A,Western State,RMC,Tefler Meade,W,12,0
+1934-10-13,Citadel,Ind,Tatum Gressette,H,George Washington,Ind,James Pixlee,L,0,26
+1934-10-18,Citadel,Ind,Tatum Gressette,N,South Carolina,Southern,Billy Laval,L,6,20
+1934-10-27,Citadel,Ind,Tatum Gressette,H,Davidson,Ind,,T,12,12
+1934-11-10,Citadel,Ind,Tatum Gressette,H,Furman,Ind,,L,0,6
+1934-11-17,Citadel,Ind,Tatum Gressette,A,Army,Ind,Gar Davidson,L,0,34
+1934-10-06,Oklahoma,Big 6,Lewie Hardage,H,Centenary (LA),Ind,Curtis Player,W,7,0
+1934-10-13,Oklahoma,Big 6,Lewie Hardage,N,Texas,SWC,Jack Chevigny,L,0,19
+1934-10-20,Oklahoma,Big 6,Lewie Hardage,H,Nebraska,Big 6,Dana Bible,L,0,6
+1934-10-27,Oklahoma,Big 6,Lewie Hardage,A,Kansas,Big 6,Adrian Lindsey,T,7,7
+1934-11-03,Oklahoma,Big 6,Lewie Hardage,H,Missouri,Big 6,Frank Carideo,W,31,0
+1934-11-10,Oklahoma,Big 6,Lewie Hardage,H,Iowa State,Big 6,George Veenker,W,12,0
+1934-11-17,Oklahoma,Big 6,Lewie Hardage,H,Kansas State,Big 6,Pappy Waldorf,L,7,8
+1934-11-22,Oklahoma,Big 6,Lewie Hardage,A,Oklahoma State,MVC,Albert Exendine,T,0,0
+1934-12-01,Oklahoma,Big 6,Lewie Hardage,A,George Washington,Ind,James Pixlee,L,0,3
+1934-09-29,Virginia Tech,Southern,Henry Redd,A,Temple,Ind,Pop Warner,L,0,34
+1934-10-06,Virginia Tech,Southern,Henry Redd,H,Florida,SEC,Dutch Stanley,L,13,20
+1934-10-13,Virginia Tech,Southern,Henry Redd,N,William & Mary,Ind,John Kellison,W,6,0
+1934-10-20,Virginia Tech,Southern,Henry Redd,N,Maryland,Southern,Curley Byrd,L,9,14
+1934-10-27,Virginia Tech,Southern,Henry Redd,A,Washington & Lee,Southern,Tex Tilson,L,7,13
+1934-11-03,Virginia Tech,Southern,Henry Redd,A,South Carolina,Southern,Billy Laval,L,0,20
+1934-11-10,Virginia Tech,Southern,Henry Redd,N,North Carolina State,Southern,Hunk Anderson,W,7,6
+1934-11-17,Virginia Tech,Southern,Henry Redd,H,Virginia,Southern,Gus Tebell,W,19,6
+1934-11-29,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,,W,13,0
+1934-10-06,Arkansas,SWC,Fred Thomsen,A,Texas Christian,SWC,Dutch Meyer,W,24,10
+1934-10-13,Arkansas,SWC,Fred Thomsen,H,Baylor,SWC,Morley Jennings,W,6,0
+1934-10-20,Arkansas,SWC,Fred Thomsen,N,LSU,SEC,Biff Jones,L,0,16
+1934-11-03,Arkansas,SWC,Fred Thomsen,A,Texas A&M,SWC,Homer Norton,T,7,7
+1934-11-10,Arkansas,SWC,Fred Thomsen,H,Rice,SWC,Jimmy Kitts,L,0,7
+1934-11-17,Arkansas,SWC,Fred Thomsen,A,SMU,SWC,Ray Morrison,L,6,10
+1934-11-23,Arkansas,SWC,Fred Thomsen,H,Texas,SWC,Jack Chevigny,L,12,19
+1934-11-29,Arkansas,SWC,Fred Thomsen,A,Tulsa,Ind,Gus Henderson,T,7,7
+1934-09-29,Clemson,Southern,Jess Neely,A,Georgia Tech,SEC,William Alexander,L,7,12
+1934-10-06,Clemson,Southern,Jess Neely,A,Duke,Southern,Wallace Wade,L,6,20
+1934-10-13,Clemson,Southern,Jess Neely,A,Kentucky,SEC,C.A. Wynne,L,0,7
+1934-10-25,Clemson,Southern,Jess Neely,A,South Carolina,Southern,Billy Laval,W,19,0
+1934-11-03,Clemson,Southern,Jess Neely,A,North Carolina State,Southern,Hunk Anderson,W,12,6
+1934-11-10,Clemson,Southern,Jess Neely,A,Alabama,SEC,Frank Thomas,L,0,40
+1934-11-17,Clemson,Southern,Jess Neely,N,Mercer,Ind,,W,32,0
+1934-11-29,Clemson,Southern,Jess Neely,H,Furman,Ind,,W,7,0
+1934-10-06,South Carolina,Southern,Billy Laval,H,Virginia Military Institute,Southern,,W,22,6
+1934-10-13,South Carolina,Southern,Billy Laval,A,North Carolina State,Southern,Hunk Anderson,L,0,6
+1934-10-18,South Carolina,Southern,Billy Laval,N,Citadel,Ind,Tatum Gressette,W,20,6
+1934-10-25,South Carolina,Southern,Billy Laval,H,Clemson,Southern,Jess Neely,L,0,19
+1934-11-03,South Carolina,Southern,Billy Laval,H,Virginia Tech,Southern,Henry Redd,W,20,0
+1934-11-10,South Carolina,Southern,Billy Laval,A,Villanova,Ind,Harry Stuhldreher,L,0,20
+1934-11-17,South Carolina,Southern,Billy Laval,A,Furman,Ind,,W,2,0
+1934-11-29,South Carolina,Southern,Billy Laval,H,Washington & Lee,Southern,Tex Tilson,L,7,14
+1934-09-29,Washington,PCC,James Phelan,H,Idaho,PCC,Leo Calland,W,13,0
+1934-10-13,Washington,PCC,James Phelan,A,Oregon,PCC,Prink Callison,W,16,6
+1934-10-27,Washington,PCC,James Phelan,H,California,PCC,William Ingram,W,13,7
+1934-11-03,Washington,PCC,James Phelan,H,Oregon State,PCC,Lon Stiner,W,14,7
+1934-11-10,Washington,PCC,James Phelan,A,Stanford,PCC,Tiny Thornhill,L,0,24
+1934-11-24,Washington,PCC,James Phelan,H,Washington State,PCC,O.E. Hollingbery,T,0,0
+1934-12-01,Washington,PCC,James Phelan,A,USC,PCC,Howard Jones,W,14,7
+1934-09-29,Santa Clara,Ind,,A,Stanford,PCC,Tiny Thornhill,T,7,7
+1934-11-03,Santa Clara,Ind,,A,California,PCC,William Ingram,W,20,0
+1934-11-10,Santa Clara,Ind,,H,San Francisco,Ind,Lawrence Lewis,W,6,0
+1934-11-17,Santa Clara,Ind,,A,Saint Mary's (CA),Ind,Slip Madigan,L,0,7
+1934-11-24,Santa Clara,Ind,,H,Loyola Marymount,Ind,Tom Lieb,W,9,0
+1934-12-08,Santa Clara,Ind,,H,Texas Christian,SWC,Dutch Meyer,L,7,9
+1934-09-29,Utah State,RMC,,A,Denver,RMC,Percy Locey,W,26,7
+1934-10-06,Utah State,RMC,,H,Montana State,RMC,Schubert Dyche,W,6,0
+1934-10-20,Utah State,RMC,,A,Wyoming,RMC,Dutch Witte,W,19,0
+1934-11-03,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,W,15,0
+1934-11-10,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,T,21,21
+1934-11-17,Utah State,RMC,,H,Colorado Mines,RMC,George Scott,W,37,0
+1934-11-29,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,7,14
+1934-10-06,Missouri,Big 6,Frank Carideo,A,Colorado,RMC,William Saunders,T,0,0
+1934-10-13,Missouri,Big 6,Frank Carideo,H,Iowa State,Big 6,George Veenker,L,0,13
+1934-10-20,Missouri,Big 6,Frank Carideo,H,Saint Louis,Ind,,L,0,7
+1934-10-27,Missouri,Big 6,Frank Carideo,A,Chicago,Western,Clark Shaughnessy,L,6,19
+1934-11-03,Missouri,Big 6,Frank Carideo,A,Oklahoma,Big 6,Lewie Hardage,L,0,31
+1934-11-10,Missouri,Big 6,Frank Carideo,A,Kansas State,Big 6,Pappy Waldorf,L,0,29
+1934-11-17,Missouri,Big 6,Frank Carideo,H,Washington (MO),MVC,Jimmy Conzelman,L,13,40
+1934-11-24,Missouri,Big 6,Frank Carideo,A,Nebraska,Big 6,Dana Bible,L,6,13
+1934-11-29,Missouri,Big 6,Frank Carideo,H,Kansas,Big 6,Adrian Lindsey,L,0,20
+1934-09-22,Montana State,RMC,Schubert Dyche,N,Brigham Young,RMC,Ott Romney,L,6,20
+1934-10-06,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,0,6
+1934-10-13,Montana State,RMC,Schubert Dyche,H,Wyoming,RMC,Dutch Witte,L,6,25
+1934-10-27,Montana State,RMC,Schubert Dyche,A,Northern Colorado,RMC,J.W. Hancock,L,0,19
+1934-11-10,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Bunny Oakes,L,0,25
+1934-09-29,Denver,RMC,Percy Locey,H,Utah State,RMC,,L,7,26
+1934-10-05,Denver,RMC,Percy Locey,A,George Washington,Ind,James Pixlee,T,0,0
+1934-10-13,Denver,RMC,Percy Locey,H,Colorado State,RMC,Harry Hughes,L,0,2
+1934-10-20,Denver,RMC,Percy Locey,H,Utah,RMC,Ike Armstrong,L,0,7
+1934-10-27,Denver,RMC,Percy Locey,H,Wyoming,RMC,Dutch Witte,W,9,0
+1934-11-03,Denver,RMC,Percy Locey,H,Colorado College,RMC,W.T. VandeGraaff,W,26,0
+1934-11-10,Denver,RMC,Percy Locey,H,Drake,MVC,Vee Green,W,8,7
+1934-11-17,Denver,RMC,Percy Locey,H,Brigham Young,RMC,Ott Romney,W,24,6
+1934-11-24,Denver,RMC,Percy Locey,H,Colorado Mines,RMC,George Scott,W,34,0
+1934-11-29,Denver,RMC,Percy Locey,H,Colorado,RMC,William Saunders,L,0,7
+1934-09-29,Washington & Jefferson,Ind,Leroy Day,A,Pitt,Ind,Jock Sutherland,L,6,26
+1934-10-12,Washington & Jefferson,Ind,Leroy Day,A,Detroit Mercy,Ind,Gus Dorais,L,0,12
+1934-11-03,Washington & Jefferson,Ind,Leroy Day,A,Mercer,Ind,,L,7,30
+1934-11-10,Washington & Jefferson,Ind,Leroy Day,H,Bucknell,Ind,Hook Mylin,L,7,13
+1934-11-29,Washington & Jefferson,Ind,Leroy Day,N,West Virginia,Ind,Trusty Tallman,L,12,14
+1934-10-06,Wisconsin,Western,Clarence Spears,H,Marquette,Ind,Frank Murray,W,3,0
+1934-10-20,Wisconsin,Western,Clarence Spears,A,Purdue,Western,Noble Kizer,L,0,14
+1934-10-27,Wisconsin,Western,Clarence Spears,A,Notre Dame,Ind,Elmer Layden,L,0,19
+1934-11-03,Wisconsin,Western,Clarence Spears,A,Northwestern,Western,Dick Hanley,L,0,7
+1934-11-10,Wisconsin,Western,Clarence Spears,A,Michigan,Western,Harry Kipke,W,10,0
+1934-11-17,Wisconsin,Western,Clarence Spears,H,Illinois,Western,Robert Zuppke,W,7,3
+1934-11-24,Wisconsin,Western,Clarence Spears,H,Minnesota,Western,Bernie Bierman,L,0,34
+1934-10-12,Bucknell,Ind,Hook Mylin,A,Duquesne,Ind,Joe Bach,L,0,12
+1934-10-27,Bucknell,Ind,Hook Mylin,H,Villanova,Ind,Harry Stuhldreher,W,13,0
+1934-11-03,Bucknell,Ind,Hook Mylin,A,Furman,Ind,,W,19,0
+1934-11-10,Bucknell,Ind,Hook Mylin,A,Washington & Jefferson,Ind,Leroy Day,W,13,7
+1934-11-24,Bucknell,Ind,Hook Mylin,A,Penn State,Ind,Bob Higgins,W,13,7
+1934-12-01,Bucknell,Ind,Hook Mylin,A,Temple,Ind,Pop Warner,T,0,0
+1934-10-06,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,L,0,19
+1934-10-13,USC,PCC,Howard Jones,A,Pitt,Ind,Jock Sutherland,L,6,20
+1934-10-20,USC,PCC,Howard Jones,H,Oregon State,PCC,Lon Stiner,T,6,6
+1934-10-27,USC,PCC,Howard Jones,A,Stanford,PCC,Tiny Thornhill,L,0,16
+1934-11-10,USC,PCC,Howard Jones,H,California,PCC,William Ingram,L,2,7
+1934-11-17,USC,PCC,Howard Jones,H,Oregon,PCC,Prink Callison,W,33,0
+1934-12-01,USC,PCC,Howard Jones,H,Washington,PCC,James Phelan,L,7,14
+1934-12-08,USC,PCC,Howard Jones,H,Notre Dame,Ind,Elmer Layden,L,0,14
+1934-09-22,Colorado Mines,RMC,George Scott,H,Western State,RMC,Tefler Meade,W,6,3
+1934-09-29,Colorado Mines,RMC,George Scott,A,Colorado College,RMC,W.T. VandeGraaff,L,6,13
+1934-10-20,Colorado Mines,RMC,George Scott,A,Colorado State,RMC,Harry Hughes,L,0,56
+1934-11-03,Colorado Mines,RMC,George Scott,H,Colorado,RMC,William Saunders,L,6,40
+1934-11-10,Colorado Mines,RMC,George Scott,A,Northern Colorado,RMC,J.W. Hancock,L,7,46
+1934-11-17,Colorado Mines,RMC,George Scott,A,Utah State,RMC,,L,0,37
+1934-11-24,Colorado Mines,RMC,George Scott,A,Denver,RMC,Percy Locey,L,0,34
+1934-09-29,North Carolina State,Southern,Hunk Anderson,N,Davidson,Ind,,W,7,0
+1934-10-06,North Carolina State,Southern,Hunk Anderson,H,Wake Forest,Ind,Jim Weaver,L,12,13
+1934-10-13,North Carolina State,Southern,Hunk Anderson,H,South Carolina,Southern,Billy Laval,W,6,0
+1934-10-20,North Carolina State,Southern,Hunk Anderson,A,Florida,SEC,Dutch Stanley,L,0,14
+1934-10-27,North Carolina State,Southern,Hunk Anderson,A,North Carolina,Southern,Carl Snavely,T,7,7
+1934-11-03,North Carolina State,Southern,Hunk Anderson,H,Clemson,Southern,Jess Neely,L,6,12
+1934-11-10,North Carolina State,Southern,Hunk Anderson,N,Virginia Tech,Southern,Henry Redd,L,6,7
+1934-11-17,North Carolina State,Southern,Hunk Anderson,A,Georgia,SEC,Harry Mehre,L,0,27
+1934-12-01,North Carolina State,Southern,Hunk Anderson,A,Duke,Southern,Wallace Wade,L,0,32
+1934-10-06,Centenary (LA),Ind,Curtis Player,A,Oklahoma,Big 6,Lewie Hardage,L,0,7
+1934-10-13,Centenary (LA),Ind,Curtis Player,N,Texas A&M,SWC,Homer Norton,W,13,0
+1934-10-20,Centenary (LA),Ind,Curtis Player,A,Texas,SWC,Jack Chevigny,W,9,6
+1934-10-27,Centenary (LA),Ind,Curtis Player,H,Texas Christian,SWC,Dutch Meyer,W,13,0
+1934-11-10,Centenary (LA),Ind,Curtis Player,A,Tulsa,Ind,Gus Henderson,L,8,14
+1934-11-17,Centenary (LA),Ind,Curtis Player,H,Baylor,SWC,Morley Jennings,W,7,0
+1934-11-24,Centenary (LA),Ind,Curtis Player,H,Ole Miss,SEC,Ed Walker,W,13,6
+1934-11-29,Centenary (LA),Ind,Curtis Player,H,Loyola (LA),Ind,,W,17,6
+1934-10-06,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Charlie Bachman,L,0,16
+1934-10-13,Michigan,Western,Harry Kipke,A,Chicago,Western,Clark Shaughnessy,L,0,27
+1934-10-20,Michigan,Western,Harry Kipke,H,Georgia Tech,SEC,William Alexander,W,9,2
+1934-10-27,Michigan,Western,Harry Kipke,H,Illinois,Western,Robert Zuppke,L,6,7
+1934-11-03,Michigan,Western,Harry Kipke,A,Minnesota,Western,Bernie Bierman,L,0,34
+1934-11-10,Michigan,Western,Harry Kipke,H,Wisconsin,Western,Clarence Spears,L,0,10
+1934-11-17,Michigan,Western,Harry Kipke,A,Ohio State,Western,Francis Schmidt,L,0,34
+1934-11-24,Michigan,Western,Harry Kipke,H,Northwestern,Western,Dick Hanley,L,6,13
+1934-10-12,Detroit Mercy,Ind,Gus Dorais,H,Washington & Jefferson,Ind,Leroy Day,W,12,0
+1934-10-20,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,Harry Stuhldreher,T,0,0
+1934-10-26,Detroit Mercy,Ind,Gus Dorais,H,Duquesne,Ind,Joe Bach,L,6,20
+1934-11-03,Detroit Mercy,Ind,Gus Dorais,H,Oklahoma State,MVC,Albert Exendine,L,6,19
+1934-11-17,Detroit Mercy,Ind,Gus Dorais,A,Michigan State,Ind,Charlie Bachman,L,6,7
+1934-11-24,Detroit Mercy,Ind,Gus Dorais,A,Marquette,Ind,Frank Murray,W,13,6
+1934-12-01,Detroit Mercy,Ind,Gus Dorais,H,Washington State,PCC,O.E. Hollingbery,W,6,0
+1934-09-29,Temple,Ind,Pop Warner,H,Virginia Tech,Southern,Henry Redd,W,34,0
+1934-10-06,Temple,Ind,Pop Warner,H,Texas A&M,SWC,Homer Norton,W,40,6
+1934-10-13,Temple,Ind,Pop Warner,H,Indiana,Western,Bo McMillin,T,6,6
+1934-10-19,Temple,Ind,Pop Warner,H,West Virginia,Ind,Trusty Tallman,W,28,13
+1934-10-27,Temple,Ind,Pop Warner,A,Marquette,Ind,Frank Murray,W,28,6
+1934-11-10,Temple,Ind,Pop Warner,A,Carnegie Mellon,Ind,Howard Harpster,W,34,6
+1934-11-24,Temple,Ind,Pop Warner,H,Villanova,Ind,Harry Stuhldreher,W,22,0
+1934-12-01,Temple,Ind,Pop Warner,H,Bucknell,Ind,Hook Mylin,T,0,0
+1935-01-01,Temple,Ind,Pop Warner,A,Tulane,SEC,Ted Cox,L,14,20
+1934-10-06,Loyola Marymount,Ind,Tom Lieb,H,Arizona State,BIAA,Rudy Lavik,W,43,0
+1934-10-20,Loyola Marymount,Ind,Tom Lieb,A,Arizona,BIAA,Tex Oliver,W,6,0
+1934-10-26,Loyola Marymount,Ind,Tom Lieb,H,Texas Tech,BIAA,Pete Cawthon,W,12,7
+1934-11-17,Loyola Marymount,Ind,Tom Lieb,A,San Francisco,Ind,Lawrence Lewis,T,0,0
+1934-11-24,Loyola Marymount,Ind,Tom Lieb,A,Santa Clara,Ind,,L,0,9
+1934-11-29,Loyola Marymount,Ind,Tom Lieb,A,UCLA,PCC,William Spaulding,L,6,13
+1934-10-05,New Mexico,BIAA,Gwinn Henry,H,Northern Arizona,BIAA,Mark McIntosh,W,33,6
+1934-10-20,New Mexico,BIAA,Gwinn Henry,A,Arizona State,BIAA,Rudy Lavik,W,18,12
+1934-11-03,New Mexico,BIAA,Gwinn Henry,A,Arizona,BIAA,Tex Oliver,L,6,14
+1934-11-17,New Mexico,BIAA,Gwinn Henry,H,New Mexico State,BIAA,Gerald Hines,W,12,6
+1934-11-29,New Mexico,BIAA,Gwinn Henry,H,Colorado College,RMC,W.T. VandeGraaff,W,33,6
+1934-10-06,Notre Dame,Ind,Elmer Layden,H,Texas,SWC,Jack Chevigny,L,6,7
+1934-10-13,Notre Dame,Ind,Elmer Layden,H,Purdue,Western,Noble Kizer,W,18,7
+1934-10-20,Notre Dame,Ind,Elmer Layden,H,Carnegie Mellon,Ind,Howard Harpster,W,13,0
+1934-10-27,Notre Dame,Ind,Elmer Layden,H,Wisconsin,Western,Clarence Spears,W,19,0
+1934-11-03,Notre Dame,Ind,Elmer Layden,A,Pitt,Ind,Jock Sutherland,L,0,19
+1934-11-10,Notre Dame,Ind,Elmer Layden,N,Navy,Ind,Thomas Hamilton,L,6,10
+1934-11-17,Notre Dame,Ind,Elmer Layden,A,Northwestern,Western,Dick Hanley,W,20,7
+1934-11-24,Notre Dame,Ind,Elmer Layden,A,Army,Ind,Gar Davidson,W,12,6
+1934-12-08,Notre Dame,Ind,Elmer Layden,A,USC,PCC,Howard Jones,W,14,0
+1934-09-29,Pitt,Ind,Jock Sutherland,H,Washington & Jefferson,Ind,Leroy Day,W,26,6
+1934-10-06,Pitt,Ind,Jock Sutherland,A,West Virginia,Ind,Trusty Tallman,W,27,6
+1934-10-13,Pitt,Ind,Jock Sutherland,H,USC,PCC,Howard Jones,W,20,6
+1934-10-20,Pitt,Ind,Jock Sutherland,H,Minnesota,Western,Bernie Bierman,L,7,13
+1934-11-03,Pitt,Ind,Jock Sutherland,H,Notre Dame,Ind,Elmer Layden,W,19,0
+1934-11-10,Pitt,Ind,Jock Sutherland,A,Nebraska,Big 6,Dana Bible,W,25,6
+1934-11-17,Pitt,Ind,Jock Sutherland,A,Navy,Ind,Thomas Hamilton,W,31,7
+1934-11-29,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Howard Harpster,W,20,0
+1934-10-13,Carnegie Mellon,Ind,Howard Harpster,A,Michigan State,Ind,Charlie Bachman,L,0,13
+1934-10-20,Carnegie Mellon,Ind,Howard Harpster,A,Notre Dame,Ind,Elmer Layden,L,0,13
+1934-10-27,Carnegie Mellon,Ind,Howard Harpster,H,Purdue,Western,Noble Kizer,L,0,20
+1934-11-03,Carnegie Mellon,Ind,Howard Harpster,A,New York University,Ind,Mal Stevens,W,6,0
+1934-11-10,Carnegie Mellon,Ind,Howard Harpster,H,Temple,Ind,Pop Warner,L,6,34
+1934-11-17,Carnegie Mellon,Ind,Howard Harpster,H,Duquesne,Ind,Joe Bach,W,3,0
+1934-11-29,Carnegie Mellon,Ind,Howard Harpster,A,Pitt,Ind,Jock Sutherland,L,0,20
+1934-10-05,Mercer,Ind,,A,Loyola (LA),Ind,,L,0,21
+1934-10-20,Mercer,Ind,,H,Furman,Ind,,L,3,9
+1934-11-03,Mercer,Ind,,H,Washington & Jefferson,Ind,Leroy Day,W,30,7
+1934-11-17,Mercer,Ind,,N,Clemson,Southern,Jess Neely,L,0,32
+1934-10-06,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,William Ingram,W,7,0
+1934-10-20,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Jimmy Crowley,W,14,9
+1934-11-02,Saint Mary's (CA),Ind,Slip Madigan,H,Washington State,PCC,O.E. Hollingbery,W,9,6
+1934-11-12,Saint Mary's (CA),Ind,Slip Madigan,A,UCLA,PCC,William Spaulding,L,0,6
+1934-11-17,Saint Mary's (CA),Ind,Slip Madigan,H,Santa Clara,Ind,,W,7,0
+1934-11-29,Saint Mary's (CA),Ind,Slip Madigan,H,Oregon,PCC,Prink Callison,W,13,7
+1934-12-01,Saint Mary's (CA),Ind,Slip Madigan,H,San Francisco,Ind,Lawrence Lewis,W,7,3
+1934-10-05,George Washington,Ind,James Pixlee,H,Denver,RMC,Percy Locey,T,0,0
+1934-10-13,George Washington,Ind,James Pixlee,A,Citadel,Ind,Tatum Gressette,W,26,0
+1934-10-19,George Washington,Ind,James Pixlee,H,Tulsa,Ind,Gus Henderson,W,10,0
+1934-10-26,George Washington,Ind,James Pixlee,H,Wake Forest,Ind,Jim Weaver,W,6,2
+1934-11-03,George Washington,Ind,James Pixlee,H,Vanderbilt,SEC,Dan McGugin,L,6,7
+1934-11-10,George Washington,Ind,James Pixlee,H,LSU,SEC,Biff Jones,L,0,6
+1934-11-17,George Washington,Ind,James Pixlee,A,West Virginia,Ind,Trusty Tallman,W,10,7
+1934-12-01,George Washington,Ind,James Pixlee,H,Oklahoma,Big 6,Lewie Hardage,W,3,0
+1934-09-29,Wyoming,RMC,Dutch Witte,A,Nebraska,Big 6,Dana Bible,L,0,50
+1934-10-06,Wyoming,RMC,Dutch Witte,H,Brigham Young,RMC,Ott Romney,W,7,0
+1934-10-13,Wyoming,RMC,Dutch Witte,A,Montana State,RMC,Schubert Dyche,W,25,6
+1934-10-20,Wyoming,RMC,Dutch Witte,H,Utah State,RMC,,L,0,19
+1934-10-27,Wyoming,RMC,Dutch Witte,A,Denver,RMC,Percy Locey,L,0,9
+1934-11-03,Wyoming,RMC,Dutch Witte,A,Colorado State,RMC,Harry Hughes,L,0,16
+1934-11-17,Wyoming,RMC,Dutch Witte,H,Northern Colorado,RMC,J.W. Hancock,L,6,9
+1934-09-22,Brigham Young,RMC,Ott Romney,N,Montana State,RMC,Schubert Dyche,W,20,6
+1934-10-06,Brigham Young,RMC,Ott Romney,A,Wyoming,RMC,Dutch Witte,L,0,7
+1934-10-13,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,43
+1934-10-20,Brigham Young,RMC,Ott Romney,N,Colorado,RMC,William Saunders,L,6,48
+1934-10-26,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,46,0
+1934-11-03,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,L,0,15
+1934-11-10,Brigham Young,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,W,34,19
+1934-11-17,Brigham Young,RMC,Ott Romney,A,Denver,RMC,Percy Locey,L,6,24
+1934-09-28,Duquesne,Ind,Joe Bach,H,West Virginia,Ind,Trusty Tallman,L,0,7
+1934-10-12,Duquesne,Ind,Joe Bach,H,Bucknell,Ind,Hook Mylin,W,12,0
+1934-10-26,Duquesne,Ind,Joe Bach,A,Detroit Mercy,Ind,Gus Dorais,W,20,6
+1934-11-10,Duquesne,Ind,Joe Bach,H,Oklahoma State,MVC,Albert Exendine,W,32,0
+1934-11-17,Duquesne,Ind,Joe Bach,A,Carnegie Mellon,Ind,Howard Harpster,L,0,3
+1934-10-06,Yale,Ind,,H,Columbia,Ind,Lou Little,L,6,12
+1934-10-13,Yale,Ind,,H,Pennsylvania,Ind,Harvey Harman,W,14,6
+1934-10-20,Yale,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,37,0
+1934-10-27,Yale,Ind,,H,Army,Ind,Gar Davidson,L,12,20
+1934-11-03,Yale,Ind,,H,Dartmouth,Ind,Red Blaik,W,7,2
+1934-11-10,Yale,Ind,,H,Georgia,SEC,Harry Mehre,L,7,14
+1934-11-17,Yale,Ind,,A,Princeton,Ind,Fritz Crisler,W,7,0
+1934-11-24,Yale,Ind,,H,Harvard,Ind,,W,14,0
+1934-09-29,Grinnell,MVC,Lester Watt,A,Michigan State,Ind,Charlie Bachman,L,20,33
+1934-10-06,Grinnell,MVC,Lester Watt,A,Iowa State,Big 6,George Veenker,L,6,26
+1934-10-20,Grinnell,MVC,Lester Watt,A,Drake,MVC,Vee Green,L,0,8
+1934-11-03,Grinnell,MVC,Lester Watt,A,Creighton,MVC,,L,6,12
+1934-09-29,Georgia Tech,SEC,William Alexander,H,Clemson,Southern,Jess Neely,W,12,7
+1934-10-06,Georgia Tech,SEC,William Alexander,H,Vanderbilt,SEC,Dan McGugin,L,12,27
+1934-10-13,Georgia Tech,SEC,William Alexander,A,Duke,Southern,Wallace Wade,L,0,20
+1934-10-20,Georgia Tech,SEC,William Alexander,A,Michigan,Western,Harry Kipke,L,2,9
+1934-10-27,Georgia Tech,SEC,William Alexander,A,Tulane,SEC,Ted Cox,L,12,20
+1934-11-03,Georgia Tech,SEC,William Alexander,H,North Carolina,Southern,Carl Snavely,L,0,26
+1934-11-10,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,L,6,18
+1934-11-17,Georgia Tech,SEC,William Alexander,H,Alabama,SEC,Frank Thomas,L,0,40
+1934-11-24,Georgia Tech,SEC,William Alexander,A,Florida,SEC,Dutch Stanley,L,12,13
+1934-12-01,Georgia Tech,SEC,William Alexander,A,Georgia,SEC,Harry Mehre,L,0,7
+1934-09-29,Wake Forest,Ind,Jim Weaver,A,North Carolina,Southern,Carl Snavely,L,0,21
+1934-10-06,Wake Forest,Ind,Jim Weaver,A,North Carolina State,Southern,Hunk Anderson,W,13,12
+1934-10-11,Wake Forest,Ind,Jim Weaver,A,Furman,Ind,,L,2,3
+1934-10-26,Wake Forest,Ind,Jim Weaver,A,George Washington,Ind,James Pixlee,L,2,6
+1934-11-10,Wake Forest,Ind,Jim Weaver,A,Duke,Southern,Wallace Wade,L,7,28
+1934-11-17,Wake Forest,Ind,Jim Weaver,H,Richmond,Ind,Glenn Thistlethwaite,L,6,39
+1934-11-29,Wake Forest,Ind,Jim Weaver,A,Davidson,Ind,,L,12,13
+1934-09-29,Mississippi State,SEC,Ross McKechnie,A,Vanderbilt,SEC,Dan McGugin,L,0,7
+1934-10-13,Mississippi State,SEC,Ross McKechnie,A,Alabama,SEC,Frank Thomas,L,0,41
+1934-11-03,Mississippi State,SEC,Ross McKechnie,A,LSU,SEC,Biff Jones,L,3,25
+1934-11-10,Mississippi State,SEC,Ross McKechnie,A,Tennessee,SEC,Bob Neyland,L,0,14
+1934-11-17,Mississippi State,SEC,Ross McKechnie,A,Loyola (LA),Ind,,W,20,6
+1934-12-01,Mississippi State,SEC,Ross McKechnie,N,Ole Miss,SEC,Ed Walker,L,3,7
+1934-09-29,Virginia Military Institute,Southern,,H,Duke,Southern,Wallace Wade,L,0,46
+1934-10-06,Virginia Military Institute,Southern,,A,South Carolina,Southern,Billy Laval,L,6,22
+1934-10-13,Virginia Military Institute,Southern,,A,Columbia,Ind,Lou Little,L,6,29
+1934-10-20,Virginia Military Institute,Southern,,A,Richmond,Ind,Glenn Thistlethwaite,L,0,7
+1934-10-27,Virginia Military Institute,Southern,,H,Virginia,Southern,Gus Tebell,L,13,17
+1934-11-03,Virginia Military Institute,Southern,,N,William & Mary,Ind,John Kellison,W,13,6
+1934-11-10,Virginia Military Institute,Southern,,A,Maryland,Southern,Curley Byrd,L,0,23
+1934-11-17,Virginia Military Institute,Southern,,A,Davidson,Ind,,L,13,27
+1934-11-29,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry Redd,L,0,13
+1934-10-12,Kansas State,Big 6,Pappy Waldorf,A,Marquette,Ind,Frank Murray,L,20,27
+1934-10-20,Kansas State,Big 6,Pappy Waldorf,H,Kansas,Big 6,Adrian Lindsey,W,13,0
+1934-10-27,Kansas State,Big 6,Pappy Waldorf,A,Tulsa,Ind,Gus Henderson,L,0,21
+1934-11-10,Kansas State,Big 6,Pappy Waldorf,H,Missouri,Big 6,Frank Carideo,W,29,0
+1934-11-17,Kansas State,Big 6,Pappy Waldorf,A,Oklahoma,Big 6,Lewie Hardage,W,8,7
+1934-11-24,Kansas State,Big 6,Pappy Waldorf,H,Iowa State,Big 6,George Veenker,W,20,0
+1934-11-29,Kansas State,Big 6,Pappy Waldorf,A,Nebraska,Big 6,Dana Bible,W,19,7
+1934-10-12,Saint Louis,Ind,,H,Creighton,MVC,,W,13,0
+1934-10-20,Saint Louis,Ind,,A,Missouri,Big 6,Frank Carideo,W,7,0
+1934-11-09,Saint Louis,Ind,,A,Marquette,Ind,Frank Murray,L,0,14
+1934-11-24,Saint Louis,Ind,,A,Washington (MO),MVC,Jimmy Conzelman,L,7,27
+1934-10-06,Army,Ind,Gar Davidson,H,Davidson,Ind,,W,41,0
+1934-10-13,Army,Ind,Gar Davidson,H,Drake,MVC,Vee Green,W,48,0
+1934-10-20,Army,Ind,Gar Davidson,H,Sewanee,SEC,Heck Clark,W,20,0
+1934-10-27,Army,Ind,Gar Davidson,A,Yale,Ind,,W,20,12
+1934-11-03,Army,Ind,Gar Davidson,A,Illinois,Western,Robert Zuppke,L,0,7
+1934-11-10,Army,Ind,Gar Davidson,A,Harvard,Ind,,W,27,6
+1934-11-17,Army,Ind,Gar Davidson,H,Citadel,Ind,Tatum Gressette,W,34,0
+1934-11-24,Army,Ind,Gar Davidson,H,Notre Dame,Ind,Elmer Layden,L,6,12
+1934-12-01,Army,Ind,Gar Davidson,N,Navy,Ind,Thomas Hamilton,L,0,3
+1934-09-29,Marquette,Ind,Frank Murray,A,Northwestern,Western,Dick Hanley,L,12,21
+1934-10-06,Marquette,Ind,Frank Murray,A,Wisconsin,Western,Clarence Spears,L,0,3
+1934-10-12,Marquette,Ind,Frank Murray,H,Kansas State,Big 6,Pappy Waldorf,W,27,20
+1934-10-27,Marquette,Ind,Frank Murray,H,Temple,Ind,Pop Warner,L,6,28
+1934-11-03,Marquette,Ind,Frank Murray,A,Michigan State,Ind,Charlie Bachman,L,7,13
+1934-11-09,Marquette,Ind,Frank Murray,H,Saint Louis,Ind,,W,14,0
+1934-11-17,Marquette,Ind,Frank Murray,A,Creighton,MVC,,W,38,0
+1934-11-24,Marquette,Ind,Frank Murray,H,Detroit Mercy,Ind,Gus Dorais,L,6,13
+1934-10-20,Dartmouth,Ind,Red Blaik,H,Virginia,Southern,Gus Tebell,W,27,0
+1934-10-27,Dartmouth,Ind,Red Blaik,A,Harvard,Ind,,W,10,0
+1934-11-03,Dartmouth,Ind,Red Blaik,A,Yale,Ind,,L,2,7
+1934-11-17,Dartmouth,Ind,Red Blaik,A,Cornell,Ind,Gilmour Dobie,L,6,21
+1934-11-24,Dartmouth,Ind,Red Blaik,A,Princeton,Ind,Fritz Crisler,L,13,38
+1934-09-30,UCLA,PCC,William Spaulding,A,Oregon,PCC,Prink Callison,L,3,26
+1934-10-13,UCLA,PCC,William Spaulding,H,Montana,PCC,Bunny Oakes,W,16,0
+1934-10-20,UCLA,PCC,William Spaulding,A,California,PCC,William Ingram,L,0,3
+1934-11-03,UCLA,PCC,William Spaulding,H,Stanford,PCC,Tiny Thornhill,L,0,27
+1934-11-12,UCLA,PCC,William Spaulding,H,Saint Mary's (CA),Ind,Slip Madigan,W,6,0
+1934-11-24,UCLA,PCC,William Spaulding,H,Oregon State,PCC,Lon Stiner,W,25,7
+1934-11-29,UCLA,PCC,William Spaulding,H,Loyola Marymount,Ind,Tom Lieb,W,13,6
+1934-10-06,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Ted Cox,L,0,13
+1934-10-13,Auburn,SEC,Jack Meagher,A,LSU,SEC,Biff Jones,L,6,20
+1934-10-20,Auburn,SEC,Jack Meagher,A,Vanderbilt,SEC,Dan McGugin,L,6,7
+1934-10-27,Auburn,SEC,Jack Meagher,A,Kentucky,SEC,C.A. Wynne,L,0,9
+1934-11-03,Auburn,SEC,Jack Meagher,H,Duke,Southern,Wallace Wade,L,6,13
+1934-11-10,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,W,18,6
+1934-11-17,Auburn,SEC,Jack Meagher,H,Florida,SEC,Dutch Stanley,L,7,14
+1934-11-24,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Harry Mehre,L,0,18
+1934-09-29,Northwestern,Western,Dick Hanley,H,Marquette,Ind,Frank Murray,W,21,12
+1934-10-06,Northwestern,Western,Dick Hanley,H,Iowa,Western,Ossie Solem,L,7,20
+1934-10-13,Northwestern,Western,Dick Hanley,A,Stanford,PCC,Tiny Thornhill,L,0,20
+1934-10-27,Northwestern,Western,Dick Hanley,H,Ohio State,Western,Francis Schmidt,L,6,28
+1934-11-03,Northwestern,Western,Dick Hanley,H,Wisconsin,Western,Clarence Spears,W,7,0
+1934-11-10,Northwestern,Western,Dick Hanley,H,Illinois,Western,Robert Zuppke,L,3,14
+1934-11-17,Northwestern,Western,Dick Hanley,H,Notre Dame,Ind,Elmer Layden,L,7,20
+1934-11-24,Northwestern,Western,Dick Hanley,A,Michigan,Western,Harry Kipke,W,13,6
+1934-09-29,Kansas,Big 6,Adrian Lindsey,H,Colorado,RMC,William Saunders,T,0,0
+1934-10-06,Kansas,Big 6,Adrian Lindsey,A,Tulsa,Ind,Gus Henderson,L,0,7
+1934-10-20,Kansas,Big 6,Adrian Lindsey,A,Kansas State,Big 6,Pappy Waldorf,L,0,13
+1934-10-27,Kansas,Big 6,Adrian Lindsey,H,Oklahoma,Big 6,Lewie Hardage,T,7,7
+1934-11-03,Kansas,Big 6,Adrian Lindsey,A,Iowa State,Big 6,George Veenker,T,0,0
+1934-11-10,Kansas,Big 6,Adrian Lindsey,A,Washington (MO),MVC,Jimmy Conzelman,W,13,0
+1934-11-17,Kansas,Big 6,Adrian Lindsey,H,Nebraska,Big 6,Dana Bible,L,0,3
+1934-11-24,Kansas,Big 6,Adrian Lindsey,H,Michigan State,Ind,Charlie Bachman,L,0,6
+1934-11-29,Kansas,Big 6,Adrian Lindsey,A,Missouri,Big 6,Frank Carideo,W,20,0
+1934-09-29,William & Mary,Ind,John Kellison,A,Navy,Ind,Thomas Hamilton,L,7,20
+1934-10-13,William & Mary,Ind,John Kellison,N,Virginia Tech,Southern,Henry Redd,L,0,6
+1934-10-20,William & Mary,Ind,John Kellison,A,Georgetown,Ind,Jack Hagerty,L,0,3
+1934-11-03,William & Mary,Ind,John Kellison,N,Virginia Military Institute,Southern,,L,6,13
+1934-11-17,William & Mary,Ind,John Kellison,H,Washington & Lee,Southern,Tex Tilson,L,0,7
+1934-11-29,William & Mary,Ind,John Kellison,A,Richmond,Ind,Glenn Thistlethwaite,L,0,6
+1934-09-29,LSU,SEC,Biff Jones,A,Rice,SWC,Jimmy Kitts,T,9,9
+1934-10-06,LSU,SEC,Biff Jones,H,SMU,SWC,Ray Morrison,T,14,14
+1934-10-13,LSU,SEC,Biff Jones,H,Auburn,SEC,Jack Meagher,W,20,6
+1934-10-20,LSU,SEC,Biff Jones,N,Arkansas,SWC,Fred Thomsen,W,16,0
+1934-10-27,LSU,SEC,Biff Jones,A,Vanderbilt,SEC,Dan McGugin,W,29,0
+1934-11-03,LSU,SEC,Biff Jones,H,Mississippi State,SEC,Ross McKechnie,W,25,3
+1934-11-10,LSU,SEC,Biff Jones,A,George Washington,Ind,James Pixlee,W,6,0
+1934-11-17,LSU,SEC,Biff Jones,A,Ole Miss,SEC,Ed Walker,W,14,0
+1934-12-01,LSU,SEC,Biff Jones,H,Tulane,SEC,Ted Cox,L,12,13
+1934-12-08,LSU,SEC,Biff Jones,A,Tennessee,SEC,Bob Neyland,L,13,19
+1934-12-15,LSU,SEC,Biff Jones,H,Oregon,PCC,Prink Callison,W,14,13
+1934-10-13,Pennsylvania,Ind,Harvey Harman,A,Yale,Ind,,L,6,14
+1934-10-27,Pennsylvania,Ind,Harvey Harman,H,Navy,Ind,Thomas Hamilton,L,0,17
+1934-11-10,Pennsylvania,Ind,Harvey Harman,H,Penn State,Ind,Bob Higgins,W,3,0
+1934-11-17,Pennsylvania,Ind,Harvey Harman,H,Columbia,Ind,Lou Little,L,12,13
+1934-11-29,Pennsylvania,Ind,Harvey Harman,H,Cornell,Ind,Gilmour Dobie,W,23,13
+1934-10-06,Tulsa,Ind,Gus Henderson,H,Kansas,Big 6,Adrian Lindsey,W,7,0
+1934-10-13,Tulsa,Ind,Gus Henderson,H,Texas Christian,SWC,Dutch Meyer,L,12,14
+1934-10-19,Tulsa,Ind,Gus Henderson,A,George Washington,Ind,James Pixlee,L,0,10
+1934-10-27,Tulsa,Ind,Gus Henderson,H,Kansas State,Big 6,Pappy Waldorf,W,21,0
+1934-11-10,Tulsa,Ind,Gus Henderson,H,Centenary (LA),Ind,Curtis Player,W,14,8
+1934-11-17,Tulsa,Ind,Gus Henderson,H,Oklahoma State,MVC,Albert Exendine,W,19,0
+1934-11-29,Tulsa,Ind,Gus Henderson,H,Arkansas,SWC,Fred Thomsen,T,7,7
+1934-10-06,Iowa,Western,Ossie Solem,A,Northwestern,Western,Dick Hanley,W,20,7
+1934-10-13,Iowa,Western,Ossie Solem,A,Nebraska,Big 6,Dana Bible,L,13,14
+1934-10-20,Iowa,Western,Ossie Solem,A,Iowa State,Big 6,George Veenker,L,6,31
+1934-10-28,Iowa,Western,Ossie Solem,H,Minnesota,Western,Bernie Bierman,L,12,48
+1934-11-03,Iowa,Western,Ossie Solem,A,Indiana,Western,Bo McMillin,T,0,0
+1934-11-10,Iowa,Western,Ossie Solem,H,Purdue,Western,Noble Kizer,L,6,13
+1934-11-24,Iowa,Western,Ossie Solem,A,Ohio State,Western,Francis Schmidt,L,7,40
+1934-10-06,Columbia,Ind,Lou Little,A,Yale,Ind,,W,12,6
+1934-10-13,Columbia,Ind,Lou Little,H,Virginia Military Institute,Southern,,W,29,6
+1934-10-20,Columbia,Ind,Lou Little,H,Navy,Ind,Thomas Hamilton,L,7,18
+1934-10-27,Columbia,Ind,Lou Little,H,Penn State,Ind,Bob Higgins,W,14,7
+1934-11-03,Columbia,Ind,Lou Little,H,Cornell,Ind,Gilmour Dobie,W,14,0
+1934-11-10,Columbia,Ind,Lou Little,H,Brown,Ind,DeOrmond McLaughry,W,39,0
+1934-11-17,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,Harvey Harman,W,13,12
+1934-11-25,Columbia,Ind,Lou Little,H,Syracuse,Ind,Vic Hanson,W,12,0
+1934-09-22,Texas,SWC,Jack Chevigny,A,Texas Tech,BIAA,Pete Cawthon,W,12,6
+1934-10-06,Texas,SWC,Jack Chevigny,A,Notre Dame,Ind,Elmer Layden,W,7,6
+1934-10-13,Texas,SWC,Jack Chevigny,N,Oklahoma,Big 6,Lewie Hardage,W,19,0
+1934-10-20,Texas,SWC,Jack Chevigny,H,Centenary (LA),Ind,Curtis Player,L,6,9
+1934-10-27,Texas,SWC,Jack Chevigny,A,Rice,SWC,Jimmy Kitts,L,9,20
+1934-11-03,Texas,SWC,Jack Chevigny,H,SMU,SWC,Ray Morrison,T,7,7
+1934-11-10,Texas,SWC,Jack Chevigny,H,Baylor,SWC,Morley Jennings,W,25,6
+1934-11-17,Texas,SWC,Jack Chevigny,A,Texas Christian,SWC,Dutch Meyer,W,20,19
+1934-11-23,Texas,SWC,Jack Chevigny,A,Arkansas,SWC,Fred Thomsen,W,19,12
+1934-11-28,Texas,SWC,Jack Chevigny,H,Texas A&M,SWC,Homer Norton,W,13,0
+1934-10-06,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,Fred Thomsen,L,10,24
+1934-10-13,Texas Christian,SWC,Dutch Meyer,A,Tulsa,Ind,Gus Henderson,W,14,12
+1934-10-20,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,W,13,0
+1934-10-27,Texas Christian,SWC,Dutch Meyer,A,Centenary (LA),Ind,Curtis Player,L,0,13
+1934-11-03,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,Morley Jennings,W,34,12
+1934-11-10,Texas Christian,SWC,Dutch Meyer,A,Loyola (LA),Ind,,W,7,0
+1934-11-17,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Jack Chevigny,L,19,20
+1934-11-24,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jimmy Kitts,W,7,2
+1934-12-01,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,Ray Morrison,L,0,19
+1934-12-08,Texas Christian,SWC,Dutch Meyer,A,Santa Clara,Ind,,W,9,7
+1934-10-27,New York University,Ind,Mal Stevens,H,Georgetown,Ind,Jack Hagerty,T,0,0
+1934-11-03,New York University,Ind,Mal Stevens,H,Carnegie Mellon,Ind,Howard Harpster,L,0,6
+1934-11-29,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,L,13,39
+1934-10-06,Richmond,Ind,Glenn Thistlethwaite,A,Cornell,Ind,Gilmour Dobie,W,6,0
+1934-10-20,Richmond,Ind,Glenn Thistlethwaite,H,Virginia Military Institute,Southern,,W,7,0
+1934-11-03,Richmond,Ind,Glenn Thistlethwaite,H,Georgetown,Ind,Jack Hagerty,W,14,13
+1934-11-17,Richmond,Ind,Glenn Thistlethwaite,A,Wake Forest,Ind,Jim Weaver,W,39,6
+1934-11-29,Richmond,Ind,Glenn Thistlethwaite,H,William & Mary,Ind,John Kellison,W,6,0
+1934-09-23,Oregon,PCC,Prink Callison,H,Gonzaga,Ind,Mike Pecarovich,W,13,0
+1934-09-30,Oregon,PCC,Prink Callison,H,UCLA,PCC,William Spaulding,W,26,3
+1934-10-13,Oregon,PCC,Prink Callison,H,Washington,PCC,James Phelan,L,6,16
+1934-10-20,Oregon,PCC,Prink Callison,A,Idaho,PCC,Leo Calland,W,13,6
+1934-10-27,Oregon,PCC,Prink Callison,A,Utah,RMC,Ike Armstrong,W,8,7
+1934-11-03,Oregon,PCC,Prink Callison,H,Montana,PCC,Bunny Oakes,W,13,0
+1934-11-10,Oregon,PCC,Prink Callison,N,Oregon State,PCC,Lon Stiner,W,9,6
+1934-11-17,Oregon,PCC,Prink Callison,A,USC,PCC,Howard Jones,L,0,33
+1934-11-29,Oregon,PCC,Prink Callison,A,Saint Mary's (CA),Ind,Slip Madigan,L,7,13
+1934-12-15,Oregon,PCC,Prink Callison,A,LSU,SEC,Biff Jones,L,13,14
+1934-10-13,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,,L,0,13
+1934-10-20,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,,L,0,37
+1934-10-27,Brown,Ind,DeOrmond McLaughry,H,Syracuse,Ind,Vic Hanson,L,0,33
+1934-11-10,Brown,Ind,DeOrmond McLaughry,A,Columbia,Ind,Lou Little,L,0,39
+1934-12-01,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,13,20
+1934-10-06,Tennessee,SEC,Bob Neyland,A,North Carolina,Southern,Carl Snavely,W,19,7
+1934-10-13,Tennessee,SEC,Bob Neyland,H,Ole Miss,SEC,Ed Walker,W,27,0
+1934-10-20,Tennessee,SEC,Bob Neyland,A,Alabama,SEC,Frank Thomas,L,6,13
+1934-10-27,Tennessee,SEC,Bob Neyland,H,Duke,Southern,Wallace Wade,W,14,6
+1934-11-03,Tennessee,SEC,Bob Neyland,A,Fordham,Ind,Jimmy Crowley,L,12,13
+1934-11-10,Tennessee,SEC,Bob Neyland,H,Mississippi State,SEC,Ross McKechnie,W,14,0
+1934-11-17,Tennessee,SEC,Bob Neyland,A,Vanderbilt,SEC,Dan McGugin,W,13,6
+1934-11-29,Tennessee,SEC,Bob Neyland,H,Kentucky,SEC,C.A. Wynne,W,19,0
+1934-12-08,Tennessee,SEC,Bob Neyland,H,LSU,SEC,Biff Jones,W,19,13
+1934-09-28,Oregon State,PCC,Lon Stiner,H,San Francisco,Ind,Lawrence Lewis,L,0,10
+1934-10-06,Oregon State,PCC,Lon Stiner,H,Stanford,PCC,Tiny Thornhill,L,0,17
+1934-10-20,Oregon State,PCC,Lon Stiner,A,USC,PCC,Howard Jones,T,6,6
+1934-10-27,Oregon State,PCC,Lon Stiner,A,Washington State,PCC,O.E. Hollingbery,L,0,31
+1934-11-03,Oregon State,PCC,Lon Stiner,A,Washington,PCC,James Phelan,L,7,14
+1934-11-10,Oregon State,PCC,Lon Stiner,N,Oregon,PCC,Prink Callison,L,6,9
+1934-11-17,Oregon State,PCC,Lon Stiner,H,Montana,PCC,Bunny Oakes,T,7,7
+1934-11-24,Oregon State,PCC,Lon Stiner,A,UCLA,PCC,William Spaulding,L,7,25
+1934-10-05,Alabama,SEC,Frank Thomas,H,Sewanee,SEC,Heck Clark,W,35,6
+1934-10-13,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Ross McKechnie,W,41,0
+1934-10-20,Alabama,SEC,Frank Thomas,H,Tennessee,SEC,Bob Neyland,W,13,6
+1934-10-27,Alabama,SEC,Frank Thomas,H,Georgia,SEC,Harry Mehre,W,26,6
+1934-11-03,Alabama,SEC,Frank Thomas,A,Kentucky,SEC,C.A. Wynne,W,34,14
+1934-11-10,Alabama,SEC,Frank Thomas,H,Clemson,Southern,Jess Neely,W,40,0
+1934-11-17,Alabama,SEC,Frank Thomas,A,Georgia Tech,SEC,William Alexander,W,40,0
+1934-11-29,Alabama,SEC,Frank Thomas,H,Vanderbilt,SEC,Dan McGugin,W,34,0
+1935-01-01,Alabama,SEC,Frank Thomas,N,Stanford,PCC,Tiny Thornhill,W,29,13
+1934-10-06,Purdue,Western,Noble Kizer,H,Rice,SWC,Jimmy Kitts,L,0,14
+1934-10-13,Purdue,Western,Noble Kizer,A,Notre Dame,Ind,Elmer Layden,L,7,18
+1934-10-20,Purdue,Western,Noble Kizer,H,Wisconsin,Western,Clarence Spears,W,14,0
+1934-10-27,Purdue,Western,Noble Kizer,A,Carnegie Mellon,Ind,Howard Harpster,W,20,0
+1934-11-03,Purdue,Western,Noble Kizer,A,Chicago,Western,Clark Shaughnessy,W,26,20
+1934-11-10,Purdue,Western,Noble Kizer,A,Iowa,Western,Ossie Solem,W,13,6
+1934-11-17,Purdue,Western,Noble Kizer,A,Fordham,Ind,Jimmy Crowley,W,7,0
+1934-11-24,Purdue,Western,Noble Kizer,H,Indiana,Western,Bo McMillin,L,6,17
+1934-09-29,Nebraska,Big 6,Dana Bible,H,Wyoming,RMC,Dutch Witte,W,50,0
+1934-10-03,Nebraska,Big 6,Dana Bible,A,Minnesota,Western,Bernie Bierman,L,0,20
+1934-10-13,Nebraska,Big 6,Dana Bible,H,Iowa,Western,Ossie Solem,W,14,13
+1934-10-20,Nebraska,Big 6,Dana Bible,A,Oklahoma,Big 6,Lewie Hardage,W,6,0
+1934-10-27,Nebraska,Big 6,Dana Bible,H,Iowa State,Big 6,George Veenker,W,7,6
+1934-11-10,Nebraska,Big 6,Dana Bible,H,Pitt,Ind,Jock Sutherland,L,6,25
+1934-11-17,Nebraska,Big 6,Dana Bible,A,Kansas,Big 6,Adrian Lindsey,W,3,0
+1934-11-24,Nebraska,Big 6,Dana Bible,H,Missouri,Big 6,Frank Carideo,W,13,6
+1934-11-29,Nebraska,Big 6,Dana Bible,H,Kansas State,Big 6,Pappy Waldorf,L,7,19
+1934-09-28,West Virginia,Ind,Trusty Tallman,A,Duquesne,Ind,Joe Bach,W,7,0
+1934-10-06,West Virginia,Ind,Trusty Tallman,H,Pitt,Ind,Jock Sutherland,L,6,27
+1934-10-13,West Virginia,Ind,Trusty Tallman,N,Washington & Lee,Southern,Tex Tilson,W,12,0
+1934-10-19,West Virginia,Ind,Trusty Tallman,A,Temple,Ind,Pop Warner,L,13,28
+1934-11-10,West Virginia,Ind,Trusty Tallman,A,Fordham,Ind,Jimmy Crowley,L,20,27
+1934-11-17,West Virginia,Ind,Trusty Tallman,H,George Washington,Ind,James Pixlee,L,7,10
+1934-11-29,West Virginia,Ind,Trusty Tallman,N,Washington & Jefferson,Ind,Leroy Day,W,14,12
+1934-10-13,Harvard,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,13,0
+1934-10-27,Harvard,Ind,,H,Dartmouth,Ind,Red Blaik,L,0,10
+1934-11-03,Harvard,Ind,,H,Princeton,Ind,Fritz Crisler,L,0,19
+1934-11-10,Harvard,Ind,,H,Army,Ind,Gar Davidson,L,6,27
+1934-11-24,Harvard,Ind,,A,Yale,Ind,,L,0,14
+1934-10-06,Oklahoma State,MVC,Albert Exendine,A,Drake,MVC,Vee Green,W,7,0
+1934-10-20,Oklahoma State,MVC,Albert Exendine,A,SMU,SWC,Ray Morrison,L,0,41
+1934-10-26,Oklahoma State,MVC,Albert Exendine,H,Creighton,MVC,,L,7,13
+1934-11-03,Oklahoma State,MVC,Albert Exendine,A,Detroit Mercy,Ind,Gus Dorais,W,19,6
+1934-11-10,Oklahoma State,MVC,Albert Exendine,A,Duquesne,Ind,Joe Bach,L,0,32
+1934-11-17,Oklahoma State,MVC,Albert Exendine,A,Tulsa,Ind,Gus Henderson,L,0,19
+1934-11-22,Oklahoma State,MVC,Albert Exendine,H,Oklahoma,Big 6,Lewie Hardage,T,0,0
+1934-09-29,Colorado,RMC,William Saunders,A,Kansas,Big 6,Adrian Lindsey,T,0,0
+1934-10-06,Colorado,RMC,William Saunders,H,Missouri,Big 6,Frank Carideo,T,0,0
+1934-10-12,Colorado,RMC,William Saunders,A,Northern Colorado,RMC,J.W. Hancock,L,7,13
+1934-10-20,Colorado,RMC,William Saunders,N,Brigham Young,RMC,Ott Romney,W,48,6
+1934-10-27,Colorado,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,W,27,9
+1934-11-03,Colorado,RMC,William Saunders,A,Colorado Mines,RMC,George Scott,W,40,6
+1934-11-10,Colorado,RMC,William Saunders,H,Utah,RMC,Ike Armstrong,W,7,6
+1934-11-17,Colorado,RMC,William Saunders,A,Colorado College,RMC,W.T. VandeGraaff,W,31,0
+1934-11-29,Colorado,RMC,William Saunders,A,Denver,RMC,Percy Locey,W,7,0
+1934-09-29,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,J.W. Hancock,W,12,0
+1934-10-06,Colorado State,RMC,Harry Hughes,H,Arizona,BIAA,Tex Oliver,L,3,7
+1934-10-13,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Percy Locey,W,2,0
+1934-10-20,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,George Scott,W,56,0
+1934-10-27,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,William Saunders,L,9,27
+1934-11-03,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,Dutch Witte,W,16,0
+1934-11-10,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,T,21,21
+1934-11-17,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,W,14,6
+1934-11-24,Colorado State,RMC,Harry Hughes,N,Colorado College,RMC,W.T. VandeGraaff,W,40,6
+1934-09-22,Rice,SWC,Jimmy Kitts,H,Loyola (LA),Ind,,W,12,0
+1934-09-29,Rice,SWC,Jimmy Kitts,H,LSU,SEC,Biff Jones,T,9,9
+1934-10-06,Rice,SWC,Jimmy Kitts,A,Purdue,Western,Noble Kizer,W,14,0
+1934-10-13,Rice,SWC,Jimmy Kitts,H,SMU,SWC,Ray Morrison,W,9,0
+1934-10-20,Rice,SWC,Jimmy Kitts,A,Creighton,MVC,,W,47,13
+1934-10-27,Rice,SWC,Jimmy Kitts,H,Texas,SWC,Jack Chevigny,W,20,9
+1934-11-10,Rice,SWC,Jimmy Kitts,A,Arkansas,SWC,Fred Thomsen,W,7,0
+1934-11-17,Rice,SWC,Jimmy Kitts,A,Texas A&M,SWC,Homer Norton,W,25,6
+1934-11-24,Rice,SWC,Jimmy Kitts,H,Texas Christian,SWC,Dutch Meyer,L,2,7
+1934-12-01,Rice,SWC,Jimmy Kitts,A,Baylor,SWC,Morley Jennings,W,32,0
+1934-10-06,Texas A&M,SWC,Homer Norton,A,Temple,Ind,Pop Warner,L,6,40
+1934-10-13,Texas A&M,SWC,Homer Norton,N,Centenary (LA),Ind,Curtis Player,L,0,13
+1934-10-20,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,L,0,13
+1934-10-27,Texas A&M,SWC,Homer Norton,A,Baylor,SWC,Morley Jennings,W,10,7
+1934-11-03,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,Fred Thomsen,T,7,7
+1934-11-10,Texas A&M,SWC,Homer Norton,A,SMU,SWC,Ray Morrison,L,0,28
+1934-11-17,Texas A&M,SWC,Homer Norton,H,Rice,SWC,Jimmy Kitts,L,6,25
+1934-11-28,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Jack Chevigny,L,0,13
+1934-12-08,Texas A&M,SWC,Homer Norton,H,Michigan State,Ind,Charlie Bachman,L,13,26
+1934-09-29,Davidson,Ind,,N,North Carolina State,Southern,Hunk Anderson,L,0,7
+1934-10-06,Davidson,Ind,,A,Army,Ind,Gar Davidson,L,0,41
+1934-10-20,Davidson,Ind,,H,Duke,Southern,Wallace Wade,L,0,20
+1934-10-27,Davidson,Ind,,A,Citadel,Ind,Tatum Gressette,T,12,12
+1934-11-10,Davidson,Ind,,H,North Carolina,Southern,Carl Snavely,L,2,12
+1934-11-17,Davidson,Ind,,H,Virginia Military Institute,Southern,,W,27,13
+1934-11-29,Davidson,Ind,,H,Wake Forest,Ind,Jim Weaver,W,13,12
+1934-10-06,Washington (MO),MVC,Jimmy Conzelman,H,Illinois,Western,Robert Zuppke,L,7,12
+1934-10-27,Washington (MO),MVC,Jimmy Conzelman,H,Drake,MVC,Vee Green,W,20,0
+1934-11-10,Washington (MO),MVC,Jimmy Conzelman,H,Kansas,Big 6,Adrian Lindsey,L,0,13
+1934-11-17,Washington (MO),MVC,Jimmy Conzelman,A,Missouri,Big 6,Frank Carideo,W,40,13
+1934-11-24,Washington (MO),MVC,Jimmy Conzelman,H,Saint Louis,Ind,,W,27,7
+1934-12-08,Washington (MO),MVC,Jimmy Conzelman,H,SMU,SWC,Ray Morrison,L,0,7
+1934-09-29,Michigan State,Ind,Charlie Bachman,H,Grinnell,MVC,Lester Watt,W,33,20
+1934-10-06,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Harry Kipke,W,16,0
+1934-10-13,Michigan State,Ind,Charlie Bachman,H,Carnegie Mellon,Ind,Howard Harpster,W,13,0
+1934-11-03,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Frank Murray,W,13,7
+1934-11-10,Michigan State,Ind,Charlie Bachman,A,Syracuse,Ind,Vic Hanson,L,0,10
+1934-11-17,Michigan State,Ind,Charlie Bachman,H,Detroit Mercy,Ind,Gus Dorais,W,7,6
+1934-11-24,Michigan State,Ind,Charlie Bachman,A,Kansas,Big 6,Adrian Lindsey,W,6,0
+1934-12-08,Michigan State,Ind,Charlie Bachman,A,Texas A&M,SWC,Homer Norton,W,26,13
+1934-10-13,Chicago,Western,Clark Shaughnessy,H,Michigan,Western,Harry Kipke,W,27,0
+1934-10-20,Chicago,Western,Clark Shaughnessy,H,Indiana,Western,Bo McMillin,W,21,0
+1934-10-27,Chicago,Western,Clark Shaughnessy,H,Missouri,Big 6,Frank Carideo,W,19,6
+1934-11-03,Chicago,Western,Clark Shaughnessy,H,Purdue,Western,Noble Kizer,L,20,26
+1934-11-10,Chicago,Western,Clark Shaughnessy,A,Ohio State,Western,Francis Schmidt,L,0,33
+1934-11-17,Chicago,Western,Clark Shaughnessy,A,Minnesota,Western,Bernie Bierman,L,7,35
+1934-11-24,Chicago,Western,Clark Shaughnessy,H,Illinois,Western,Robert Zuppke,L,0,6
+1934-10-20,Colgate,Ind,Andrew Kerr,A,Ohio State,Western,Francis Schmidt,L,7,10
+1934-11-10,Colgate,Ind,Andrew Kerr,H,Tulane,SEC,Ted Cox,W,20,6
+1934-11-17,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Vic Hanson,W,13,2
+1934-12-01,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,20,13
+1934-10-19,New Mexico State,BIAA,Gerald Hines,H,Northern Arizona,BIAA,Mark McIntosh,T,6,6
+1934-10-26,New Mexico State,BIAA,Gerald Hines,A,Arizona,BIAA,Tex Oliver,T,0,0
+1934-11-10,New Mexico State,BIAA,Gerald Hines,H,Arizona State,BIAA,Rudy Lavik,T,7,7
+1934-11-17,New Mexico State,BIAA,Gerald Hines,A,New Mexico,BIAA,Gwinn Henry,L,6,12
+1934-10-03,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Dana Bible,W,20,0
+1934-10-20,Minnesota,Western,Bernie Bierman,A,Pitt,Ind,Jock Sutherland,W,13,7
+1934-10-28,Minnesota,Western,Bernie Bierman,A,Iowa,Western,Ossie Solem,W,48,12
+1934-11-03,Minnesota,Western,Bernie Bierman,H,Michigan,Western,Harry Kipke,W,34,0
+1934-11-10,Minnesota,Western,Bernie Bierman,H,Indiana,Western,Bo McMillin,W,30,0
+1934-11-17,Minnesota,Western,Bernie Bierman,H,Chicago,Western,Clark Shaughnessy,W,35,7
+1934-11-24,Minnesota,Western,Bernie Bierman,A,Wisconsin,Western,Clarence Spears,W,34,0
+1934-10-13,Ole Miss,SEC,Ed Walker,A,Tennessee,SEC,Bob Neyland,L,0,27
+1934-10-27,Ole Miss,SEC,Ed Walker,H,Sewanee,SEC,Heck Clark,W,19,6
+1934-11-03,Ole Miss,SEC,Ed Walker,A,Tulane,SEC,Ted Cox,L,0,15
+1934-11-10,Ole Miss,SEC,Ed Walker,A,Florida,SEC,Dutch Stanley,T,13,13
+1934-11-17,Ole Miss,SEC,Ed Walker,H,LSU,SEC,Biff Jones,L,0,14
+1934-11-24,Ole Miss,SEC,Ed Walker,A,Centenary (LA),Ind,Curtis Player,L,6,13
+1934-12-01,Ole Miss,SEC,Ed Walker,N,Mississippi State,SEC,Ross McKechnie,W,7,3
+1934-09-29,Duke,Southern,Wallace Wade,A,Virginia Military Institute,Southern,,W,46,0
+1934-10-06,Duke,Southern,Wallace Wade,H,Clemson,Southern,Jess Neely,W,20,6
+1934-10-13,Duke,Southern,Wallace Wade,H,Georgia Tech,SEC,William Alexander,W,20,0
+1934-10-20,Duke,Southern,Wallace Wade,A,Davidson,Ind,,W,20,0
+1934-10-27,Duke,Southern,Wallace Wade,A,Tennessee,SEC,Bob Neyland,L,6,14
+1934-11-03,Duke,Southern,Wallace Wade,A,Auburn,SEC,Jack Meagher,W,13,6
+1934-11-10,Duke,Southern,Wallace Wade,H,Wake Forest,Ind,Jim Weaver,W,28,7
+1934-11-17,Duke,Southern,Wallace Wade,A,North Carolina,Southern,Carl Snavely,L,0,7
+1934-12-01,Duke,Southern,Wallace Wade,H,North Carolina State,Southern,Hunk Anderson,W,32,0
+1934-09-22,Loyola (LA),Ind,,A,Rice,SWC,Jimmy Kitts,L,0,12
+1934-10-05,Loyola (LA),Ind,,H,Mercer,Ind,,W,21,0
+1934-11-10,Loyola (LA),Ind,,H,Texas Christian,SWC,Dutch Meyer,L,0,7
+1934-11-17,Loyola (LA),Ind,,H,Mississippi State,SEC,Ross McKechnie,L,6,20
+1934-11-29,Loyola (LA),Ind,,A,Centenary (LA),Ind,Curtis Player,L,6,17
+1934-10-05,Sewanee,SEC,Heck Clark,A,Alabama,SEC,Frank Thomas,L,6,35
+1934-10-20,Sewanee,SEC,Heck Clark,A,Army,Ind,Gar Davidson,L,0,20
+1934-10-27,Sewanee,SEC,Heck Clark,A,Ole Miss,SEC,Ed Walker,L,6,19
+1934-11-10,Sewanee,SEC,Heck Clark,A,Vanderbilt,SEC,Dan McGugin,L,0,19
+1934-11-24,Sewanee,SEC,Heck Clark,A,Tulane,SEC,Ted Cox,L,0,32
+1934-09-28,San Francisco,Ind,Lawrence Lewis,A,Oregon State,PCC,Lon Stiner,W,10,0
+1934-10-20,San Francisco,Ind,Lawrence Lewis,H,Stanford,PCC,Tiny Thornhill,L,0,3
+1934-11-10,San Francisco,Ind,Lawrence Lewis,A,Santa Clara,Ind,,L,0,6
+1934-11-17,San Francisco,Ind,Lawrence Lewis,H,Loyola Marymount,Ind,Tom Lieb,T,0,0
+1934-12-01,San Francisco,Ind,Lawrence Lewis,A,Saint Mary's (CA),Ind,Slip Madigan,L,3,7
+1934-12-08,San Francisco,Ind,Lawrence Lewis,H,Gonzaga,Ind,Mike Pecarovich,W,28,0
+1934-09-29,Navy,Ind,Thomas Hamilton,H,William & Mary,Ind,John Kellison,W,20,7
+1934-10-06,Navy,Ind,Thomas Hamilton,N,Virginia,Southern,Gus Tebell,W,21,6
+1934-10-13,Navy,Ind,Thomas Hamilton,H,Maryland,Southern,Curley Byrd,W,16,13
+1934-10-20,Navy,Ind,Thomas Hamilton,A,Columbia,Ind,Lou Little,W,18,7
+1934-10-27,Navy,Ind,Thomas Hamilton,A,Pennsylvania,Ind,Harvey Harman,W,17,0
+1934-11-03,Navy,Ind,Thomas Hamilton,H,Washington & Lee,Southern,Tex Tilson,W,26,0
+1934-11-10,Navy,Ind,Thomas Hamilton,N,Notre Dame,Ind,Elmer Layden,W,10,6
+1934-11-17,Navy,Ind,Thomas Hamilton,H,Pitt,Ind,Jock Sutherland,L,7,31
+1934-12-01,Navy,Ind,Thomas Hamilton,N,Army,Ind,Gar Davidson,W,3,0
+1934-09-22,Texas Tech,BIAA,Pete Cawthon,H,Texas,SWC,Jack Chevigny,L,6,12
+1934-10-05,Texas Tech,BIAA,Pete Cawthon,H,Baylor,SWC,Morley Jennings,W,14,7
+1934-10-26,Texas Tech,BIAA,Pete Cawthon,A,Loyola Marymount,Ind,Tom Lieb,L,7,12
+1934-11-29,Texas Tech,BIAA,Pete Cawthon,A,Arizona,BIAA,Tex Oliver,W,13,7
+1934-10-06,Tulane,SEC,Ted Cox,H,Auburn,SEC,Jack Meagher,W,13,0
+1934-10-13,Tulane,SEC,Ted Cox,A,Florida,SEC,Dutch Stanley,W,28,12
+1934-10-20,Tulane,SEC,Ted Cox,H,Georgia,SEC,Harry Mehre,W,7,6
+1934-10-27,Tulane,SEC,Ted Cox,H,Georgia Tech,SEC,William Alexander,W,20,12
+1934-11-03,Tulane,SEC,Ted Cox,H,Ole Miss,SEC,Ed Walker,W,15,0
+1934-11-10,Tulane,SEC,Ted Cox,A,Colgate,Ind,Andrew Kerr,L,6,20
+1934-11-17,Tulane,SEC,Ted Cox,A,Kentucky,SEC,C.A. Wynne,W,20,7
+1934-11-24,Tulane,SEC,Ted Cox,H,Sewanee,SEC,Heck Clark,W,32,0
+1934-12-01,Tulane,SEC,Ted Cox,A,LSU,SEC,Biff Jones,W,13,12
+1935-01-01,Tulane,SEC,Ted Cox,H,Temple,Ind,Pop Warner,W,20,14
+1934-10-06,Cornell,Ind,Gilmour Dobie,H,Richmond,Ind,Glenn Thistlethwaite,L,0,6
+1934-10-13,Cornell,Ind,Gilmour Dobie,H,Syracuse,Ind,Vic Hanson,L,7,20
+1934-10-27,Cornell,Ind,Gilmour Dobie,A,Princeton,Ind,Fritz Crisler,L,0,45
+1934-11-03,Cornell,Ind,Gilmour Dobie,A,Columbia,Ind,Lou Little,L,0,14
+1934-11-17,Cornell,Ind,Gilmour Dobie,H,Dartmouth,Ind,Red Blaik,W,21,6
+1934-11-29,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Harvey Harman,L,13,23
+1934-10-06,Ohio State,Western,Francis Schmidt,H,Indiana,Western,Bo McMillin,W,33,0
+1934-10-13,Ohio State,Western,Francis Schmidt,A,Illinois,Western,Robert Zuppke,L,13,14
+1934-10-20,Ohio State,Western,Francis Schmidt,H,Colgate,Ind,Andrew Kerr,W,10,7
+1934-10-27,Ohio State,Western,Francis Schmidt,A,Northwestern,Western,Dick Hanley,W,28,6
+1934-11-10,Ohio State,Western,Francis Schmidt,H,Chicago,Western,Clark Shaughnessy,W,33,0
+1934-11-17,Ohio State,Western,Francis Schmidt,H,Michigan,Western,Harry Kipke,W,34,0
+1934-11-24,Ohio State,Western,Francis Schmidt,H,Iowa,Western,Ossie Solem,W,40,7
+1934-09-28,Drake,MVC,Vee Green,H,Utah,RMC,Ike Armstrong,L,0,6
+1934-10-06,Drake,MVC,Vee Green,H,Oklahoma State,MVC,Albert Exendine,L,0,7
+1934-10-13,Drake,MVC,Vee Green,A,Army,Ind,Gar Davidson,L,0,48
+1934-10-20,Drake,MVC,Vee Green,H,Grinnell,MVC,Lester Watt,W,8,0
+1934-10-27,Drake,MVC,Vee Green,A,Washington (MO),MVC,Jimmy Conzelman,L,0,20
+1934-11-10,Drake,MVC,Vee Green,A,Denver,RMC,Percy Locey,L,7,8
+1934-11-17,Drake,MVC,Vee Green,A,Iowa State,Big 6,George Veenker,L,12,33
+1934-11-24,Drake,MVC,Vee Green,H,Creighton,MVC,,W,6,0

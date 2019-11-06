@@ -1,0 +1,679 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1922-09-30,North Carolina,Southern,William Fetzer,N,Wake Forest,Ind,George Levene,W,62,3
+1922-10-07,North Carolina,Southern,William Fetzer,A,Yale,Ind,Tad Jones,L,0,18
+1922-10-12,North Carolina,Southern,William Fetzer,H,Duke,Ind,Herman Steiner,W,20,0
+1922-10-14,North Carolina,Southern,William Fetzer,H,South Carolina,Southern,Sol Metzger,W,10,7
+1922-10-19,North Carolina,Southern,William Fetzer,A,North Carolina State,Southern,Harry Hartsell,W,14,9
+1922-10-28,North Carolina,Southern,William Fetzer,H,Maryland,Southern,Curley Byrd,W,27,3
+1922-11-04,North Carolina,Southern,William Fetzer,A,Tulane,Southern,Clark Shaughnessy,W,19,12
+1922-11-11,North Carolina,Southern,William Fetzer,A,Virginia Military Institute,Ind,,W,9,7
+1922-11-18,North Carolina,Southern,William Fetzer,N,Davidson,Ind,Wooly Grey,W,20,6
+1922-11-30,North Carolina,Southern,William Fetzer,A,Virginia,Southern,Thomas Campbell,W,10,7
+1922-10-14,Indiana,Western,James Herron,H,Minnesota,Western,William Spaulding,L,0,20
+1922-10-21,Indiana,Western,James Herron,A,Wisconsin,Western,J.R. Richards,L,0,20
+1922-11-04,Indiana,Western,James Herron,A,Notre Dame,Ind,Knute Rockne,L,0,27
+1922-11-11,Indiana,Western,James Herron,H,West Virginia,Ind,,L,0,33
+1922-11-25,Indiana,Western,James Herron,A,Purdue,Western,James Phelan,T,7,7
+1922-10-14,Iowa State,MVIAA,Sam Willaman,H,Missouri,MVIAA,Thomas Kelly,L,3,6
+1922-10-21,Iowa State,MVIAA,Sam Willaman,A,Grinnell,MVIAA,Mal Elward,W,7,0
+1922-10-28,Iowa State,MVIAA,Sam Willaman,H,Washington (MO),MVIAA,George Rider,W,13,0
+1922-11-04,Iowa State,MVIAA,Sam Willaman,A,Drake,MVIAA,Ossie Solem,L,7,14
+1922-11-11,Iowa State,MVIAA,Sam Willaman,A,Kansas State,MVIAA,Charlie Bachman,L,2,12
+1922-11-25,Iowa State,MVIAA,Sam Willaman,A,Nebraska,MVIAA,Fred Dawson,L,6,54
+1922-09-29,Furman,Ind,,H,Newberry,Ind,Dutch McLean,W,33,0
+1922-10-07,Furman,Ind,,A,Florida,Southern,William Kline,W,7,6
+1922-10-14,Furman,Ind,,H,Georgia,Southern,Herman Stegeman,L,0,7
+1922-10-19,Furman,Ind,,N,Citadel,Ind,Carl Prause,W,28,0
+1922-10-21,Furman,Ind,,A,Oglethorpe,Ind,,W,26,0
+1922-10-28,Furman,Ind,,H,Richmond,Ind,Frank Dobson,L,0,13
+1922-11-04,Furman,Ind,,H,Erskine,Ind,,W,67,6
+1922-11-11,Furman,Ind,,A,South Carolina,Southern,Sol Metzger,L,7,27
+1922-11-18,Furman,Ind,,A,Wofford,Ind,Rip Major,W,41,0
+1922-11-25,Furman,Ind,,H,Clemson,Southern,Edward Stewart,W,20,6
+1922-11-30,Furman,Ind,,H,Davidson,Ind,Wooly Grey,W,13,0
+1922-10-14,Utah,RMC,Thomas Fitzpatrick,H,Brigham Young,RMC,Alvin Twitchell,W,49,0
+1922-10-21,Utah,RMC,Thomas Fitzpatrick,A,Colorado,RMC,Myron Witham,W,3,0
+1922-10-25,Utah,RMC,Thomas Fitzpatrick,A,Wyoming,RMC,John Corbett,W,27,0
+1922-11-04,Utah,RMC,Thomas Fitzpatrick,H,Colorado College,RMC,Tefler Meade,W,20,7
+1922-11-11,Utah,RMC,Thomas Fitzpatrick,A,Idaho,PCC,Robert Mathews,L,0,16
+1922-11-30,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,W,14,0
+1922-10-07,Washington & Lee,Southern,Jimmy DeHart,H,North Carolina State,Southern,Harry Hartsell,W,14,6
+1922-10-21,Washington & Lee,Southern,Jimmy DeHart,N,West Virginia,Ind,,T,12,12
+1922-11-04,Washington & Lee,Southern,Jimmy DeHart,A,Virginia,Southern,Thomas Campbell,L,6,22
+1922-11-11,Washington & Lee,Southern,Jimmy DeHart,A,Centre,Ind,Charley Moran,L,6,27
+1922-11-18,Washington & Lee,Southern,Jimmy DeHart,N,Virginia Tech,Southern,B.C. Cubbage,L,6,41
+1922-10-14,Syracuse,Ind,Chick Meehan,A,Brown,Ind,Edward Robinson,T,0,0
+1922-10-21,Syracuse,Ind,Chick Meehan,H,Pitt,Ind,Pop Warner,L,14,21
+1922-10-28,Syracuse,Ind,Chick Meehan,N,Penn State,Ind,Hugo Bezdek,T,0,0
+1922-11-04,Syracuse,Ind,Chick Meehan,H,Nebraska,MVIAA,Fred Dawson,W,9,6
+1922-11-18,Syracuse,Ind,Chick Meehan,H,Colgate,Ind,Dick Harlow,W,14,7
+1922-09-30,Penn State,Ind,Hugo Bezdek,H,William & Mary,Ind,William Ingram,W,27,7
+1922-10-28,Penn State,Ind,Hugo Bezdek,N,Syracuse,Ind,Chick Meehan,T,0,0
+1922-11-03,Penn State,Ind,Hugo Bezdek,A,Navy,Ind,,L,0,14
+1922-11-11,Penn State,Ind,Hugo Bezdek,H,Carnegie Mellon,Ind,Walter Steffen,W,10,0
+1922-11-18,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,John Heisman,L,6,7
+1922-11-30,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Pop Warner,L,0,14
+1923-01-01,Penn State,Ind,Hugo Bezdek,A,USC,PCC,Gus Henderson,L,3,14
+1922-10-07,Princeton,Ind,,H,Virginia,Southern,Thomas Campbell,W,5,0
+1922-10-14,Princeton,Ind,,H,Colgate,Ind,Dick Harlow,W,10,0
+1922-10-21,Princeton,Ind,,H,Maryland,Southern,Curley Byrd,W,26,0
+1922-10-28,Princeton,Ind,,A,Chicago,Western,Amos Alonzo Stagg,W,21,18
+1922-11-11,Princeton,Ind,,A,Harvard,Ind,Robert Fisher,W,10,3
+1922-11-18,Princeton,Ind,,H,Yale,Ind,Tad Jones,W,3,0
+1922-10-14,Vanderbilt,Southern,Dan McGugin,H,Michigan,Western,Fielding Yost,T,0,0
+1922-10-21,Vanderbilt,Southern,Dan McGugin,A,Texas,SWC,Berry Whitaker,W,20,10
+1922-10-28,Vanderbilt,Southern,Dan McGugin,H,Mercer,Ind,,W,25,0
+1922-11-04,Vanderbilt,Southern,Dan McGugin,A,Tennessee,Southern,Mark Banks,W,14,6
+1922-11-11,Vanderbilt,Southern,Dan McGugin,H,Kentucky,Southern,William Juneau,W,9,0
+1922-11-18,Vanderbilt,Southern,Dan McGugin,A,Georgia,Southern,Herman Stegeman,W,12,0
+1922-11-25,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,John Nicholson,W,26,0
+1922-09-30,Colorado College,RMC,Tefler Meade,H,Wyoming,RMC,John Corbett,W,20,0
+1922-10-21,Colorado College,RMC,Tefler Meade,A,Colorado State,RMC,Harry Hughes,T,0,0
+1922-11-04,Colorado College,RMC,Tefler Meade,A,Utah,RMC,Thomas Fitzpatrick,L,7,20
+1922-11-11,Colorado College,RMC,Tefler Meade,H,Colorado,RMC,Myron Witham,W,21,10
+1922-11-18,Colorado College,RMC,Tefler Meade,A,Denver,RMC,Fred Murphy,L,14,20
+1922-11-30,Colorado College,RMC,Tefler Meade,H,Colorado Mines,RMC,Tim Callahan,L,6,25
+1922-10-28,Kentucky,Southern,William Juneau,H,Sewanee,Southern,John Nicholson,W,7,0
+1922-11-04,Kentucky,Southern,William Juneau,H,Centre,Ind,Charley Moran,L,3,27
+1922-11-11,Kentucky,Southern,William Juneau,A,Vanderbilt,Southern,Dan McGugin,L,0,9
+1922-11-18,Kentucky,Southern,William Juneau,H,Alabama,Southern,Xen Scott,W,6,0
+1922-11-30,Kentucky,Southern,William Juneau,A,Tennessee,Southern,Mark Banks,L,7,14
+1922-10-28,California,PCC,Andy Smith,A,USC,PCC,Gus Henderson,W,12,0
+1922-11-04,California,PCC,Andy Smith,H,Washington State,PCC,Gus Welch,W,61,0
+1922-11-11,California,PCC,Andy Smith,A,Washington,PCC,Enoch Bagshaw,W,45,7
+1922-11-25,California,PCC,Andy Smith,A,Stanford,PCC,Andrew Kerr,W,28,0
+1922-10-07,Florida,Southern,William Kline,H,Furman,Ind,,L,6,7
+1922-10-28,Florida,Southern,William Kline,H,Samford,Ind,Harris Cope,W,57,0
+1922-11-04,Florida,Southern,William Kline,A,Harvard,Ind,Robert Fisher,L,0,24
+1922-11-11,Florida,Southern,William Kline,H,Mississippi College,Ind,Stanley Robinson,W,58,0
+1922-11-18,Florida,Southern,William Kline,A,Tulane,Southern,Clark Shaughnessy,W,27,6
+1922-11-25,Florida,Southern,William Kline,A,Oglethorpe,Ind,,W,12,0
+1922-12-02,Florida,Southern,William Kline,H,Clemson,Southern,Edward Stewart,W,47,14
+1922-10-14,Gonzaga,Ind,Gus Dorais,H,Washington State,PCC,Gus Welch,L,7,10
+1922-11-21,Gonzaga,Ind,Gus Dorais,H,Wyoming,RMC,John Corbett,W,77,0
+1922-11-25,Gonzaga,Ind,Gus Dorais,H,Idaho,PCC,Robert Mathews,W,14,7
+1922-12-25,Gonzaga,Ind,Gus Dorais,N,West Virginia,Ind,,L,13,21
+1922-10-28,Stanford,PCC,Andrew Kerr,A,Oregon State,PCC,R.B. Rutherford,W,6,0
+1922-11-11,Stanford,PCC,Andrew Kerr,H,USC,PCC,Gus Henderson,L,0,6
+1922-11-18,Stanford,PCC,Andrew Kerr,H,Washington,PCC,Enoch Bagshaw,L,8,12
+1922-11-25,Stanford,PCC,Andrew Kerr,H,California,PCC,Andy Smith,L,0,28
+1922-12-30,Stanford,PCC,Andrew Kerr,H,Pitt,Ind,Pop Warner,L,7,16
+1922-09-30,Presbyterian,Ind,Walter Johnson,H,Davidson,Ind,Wooly Grey,W,8,7
+1922-10-07,Presbyterian,Ind,Walter Johnson,A,South Carolina,Southern,Sol Metzger,L,0,6
+1922-10-13,Presbyterian,Ind,Walter Johnson,A,Clemson,Southern,Edward Stewart,L,0,13
+1922-10-21,Presbyterian,Ind,Walter Johnson,A,Erskine,Ind,,W,19,0
+1922-10-28,Presbyterian,Ind,Walter Johnson,A,Citadel,Ind,Carl Prause,W,9,0
+1922-11-04,Presbyterian,Ind,Walter Johnson,A,Wofford,Ind,Rip Major,W,32,0
+1922-11-25,Presbyterian,Ind,Walter Johnson,H,Duke,Ind,Herman Steiner,T,6,6
+1922-12-02,Presbyterian,Ind,Walter Johnson,H,Newberry,Ind,Dutch McLean,W,35,9
+1922-10-14,Washington State,PCC,Gus Welch,A,Gonzaga,Ind,Gus Dorais,W,10,7
+1922-10-20,Washington State,PCC,Gus Welch,A,Idaho,PCC,Robert Mathews,W,18,9
+1922-10-28,Washington State,PCC,Gus Welch,H,Washington,PCC,Enoch Bagshaw,L,13,16
+1922-11-04,Washington State,PCC,Gus Welch,A,California,PCC,Andy Smith,L,0,61
+1922-11-11,Washington State,PCC,Gus Welch,A,Oregon,PCC,Shy Huntington,L,0,13
+1922-11-25,Washington State,PCC,Gus Welch,A,Oregon State,PCC,R.B. Rutherford,L,0,16
+1922-11-30,Washington State,PCC,Gus Welch,A,USC,PCC,Gus Henderson,L,3,41
+1922-10-21,Illinois,Western,Robert Zuppke,H,Iowa,Western,Howard Jones,L,7,8
+1922-10-28,Illinois,Western,Robert Zuppke,A,Michigan,Western,Fielding Yost,L,0,24
+1922-11-04,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Glenn Thistlethwaite,W,6,3
+1922-11-11,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,J.R. Richards,W,3,0
+1922-11-18,Illinois,Western,Robert Zuppke,A,Chicago,Western,Amos Alonzo Stagg,L,0,9
+1922-11-25,Illinois,Western,Robert Zuppke,H,Ohio State,Western,John Wilce,L,3,6
+1922-10-14,Baylor,SWC,Frank Bridges,A,Rice,SWC,Phillip Arbuckle,W,31,0
+1922-10-21,Baylor,SWC,Frank Bridges,H,Arkansas,SWC,Francis Schmidt,W,60,13
+1922-10-28,Baylor,SWC,Frank Bridges,H,Mississippi College,Ind,Stanley Robinson,W,40,7
+1922-11-04,Baylor,SWC,Frank Bridges,H,Texas A&M,SWC,Dana Bible,W,13,7
+1922-11-18,Baylor,SWC,Frank Bridges,A,Oklahoma State,SWC,John Maulbetsch,W,10,0
+1922-11-30,Baylor,SWC,Frank Bridges,A,SMU,SWC,Ray Morrison,W,24,0
+1922-10-14,SMU,SWC,Ray Morrison,H,LSU,Southern,Irving Pray,W,51,0
+1922-10-28,SMU,SWC,Ray Morrison,H,Oklahoma State,SWC,John Maulbetsch,W,32,6
+1922-11-11,SMU,SWC,Ray Morrison,H,Texas A&M,SWC,Dana Bible,W,17,6
+1922-11-18,SMU,SWC,Ray Morrison,A,Arkansas,SWC,Francis Schmidt,L,0,9
+1922-11-30,SMU,SWC,Ray Morrison,H,Baylor,SWC,Frank Bridges,L,0,24
+1922-12-02,SMU,SWC,Ray Morrison,A,Texas Christian,Ind,John McKnight,T,0,0
+1922-09-23,Georgia,Southern,Herman Stegeman,H,Newberry,Ind,Dutch McLean,W,82,13
+1922-09-30,Georgia,Southern,Herman Stegeman,H,Mercer,Ind,,W,41,0
+1922-10-07,Georgia,Southern,Herman Stegeman,A,Chicago,Western,Amos Alonzo Stagg,L,0,20
+1922-10-14,Georgia,Southern,Herman Stegeman,A,Furman,Ind,,W,7,0
+1922-10-21,Georgia,Southern,Herman Stegeman,H,Tennessee,Southern,Mark Banks,W,7,3
+1922-10-28,Georgia,Southern,Herman Stegeman,H,Oglethorpe,Ind,,W,26,6
+1922-11-04,Georgia,Southern,Herman Stegeman,N,Auburn,Southern,Mike Donahue,L,3,7
+1922-11-11,Georgia,Southern,Herman Stegeman,A,Virginia,Southern,Thomas Campbell,T,6,6
+1922-11-18,Georgia,Southern,Herman Stegeman,H,Vanderbilt,Southern,Dan McGugin,L,0,12
+1922-11-25,Georgia,Southern,Herman Stegeman,A,Alabama,Southern,Xen Scott,L,6,10
+1922-10-07,Maryland,Southern,Curley Byrd,A,Richmond,Ind,Frank Dobson,T,0,0
+1922-10-14,Maryland,Southern,Curley Byrd,A,Pennsylvania,Ind,John Heisman,L,0,12
+1922-10-21,Maryland,Southern,Curley Byrd,A,Princeton,Ind,,L,0,26
+1922-10-28,Maryland,Southern,Curley Byrd,A,North Carolina,Southern,William Fetzer,L,3,27
+1922-11-04,Maryland,Southern,Curley Byrd,A,Virginia Tech,Southern,B.C. Cubbage,L,0,21
+1922-11-11,Maryland,Southern,Curley Byrd,A,Yale,Ind,Tad Jones,L,3,45
+1922-11-30,Maryland,Southern,Curley Byrd,A,North Carolina State,Southern,Harry Hartsell,W,7,6
+1922-10-07,Virginia,Southern,Thomas Campbell,A,Princeton,Ind,,L,0,5
+1922-10-14,Virginia,Southern,Thomas Campbell,H,Richmond,Ind,Frank Dobson,W,14,6
+1922-10-21,Virginia,Southern,Thomas Campbell,H,Virginia Military Institute,Ind,,L,0,14
+1922-11-04,Virginia,Southern,Thomas Campbell,H,Washington & Lee,Southern,Jimmy DeHart,W,22,6
+1922-11-11,Virginia,Southern,Thomas Campbell,H,Georgia,Southern,Herman Stegeman,T,6,6
+1922-11-18,Virginia,Southern,Thomas Campbell,A,West Virginia,Ind,,L,0,13
+1922-11-30,Virginia,Southern,Thomas Campbell,H,North Carolina,Southern,William Fetzer,L,7,10
+1922-10-14,Idaho,PCC,Robert Mathews,A,Washington,PCC,Enoch Bagshaw,L,0,2
+1922-10-20,Idaho,PCC,Robert Mathews,H,Washington State,PCC,Gus Welch,L,9,18
+1922-10-28,Idaho,PCC,Robert Mathews,A,Oregon,PCC,Shy Huntington,L,0,3
+1922-11-11,Idaho,PCC,Robert Mathews,H,Utah,RMC,Thomas Fitzpatrick,W,16,0
+1922-11-18,Idaho,PCC,Robert Mathews,A,USC,PCC,Gus Henderson,L,0,14
+1922-11-25,Idaho,PCC,Robert Mathews,A,Gonzaga,Ind,Gus Dorais,L,7,14
+1922-10-19,Citadel,Ind,Carl Prause,N,Furman,Ind,,L,0,28
+1922-10-28,Citadel,Ind,Carl Prause,H,Presbyterian,Ind,Walter Johnson,L,0,9
+1922-11-04,Citadel,Ind,Carl Prause,A,Newberry,Ind,Dutch McLean,L,7,10
+1922-11-11,Citadel,Ind,Carl Prause,H,Clemson,Southern,Edward Stewart,L,0,18
+1922-11-16,Citadel,Ind,Carl Prause,N,South Carolina,Southern,Sol Metzger,L,0,13
+1922-12-02,Citadel,Ind,Carl Prause,A,Erskine,Ind,,W,28,0
+1922-10-21,Oklahoma,MVIAA,Bennie Owen,H,Kansas State,MVIAA,Charlie Bachman,T,7,7
+1922-10-28,Oklahoma,MVIAA,Bennie Owen,H,Nebraska,MVIAA,Fred Dawson,L,7,39
+1922-11-04,Oklahoma,MVIAA,Bennie Owen,A,Kansas,MVIAA,Potsy Clark,L,3,19
+1922-11-11,Oklahoma,MVIAA,Bennie Owen,H,Missouri,MVIAA,Thomas Kelly,W,18,14
+1922-11-18,Oklahoma,MVIAA,Bennie Owen,H,Texas,SWC,Berry Whitaker,L,7,32
+1922-11-25,Oklahoma,MVIAA,Bennie Owen,A,Oklahoma State,SWC,John Maulbetsch,T,3,3
+1922-12-02,Oklahoma,MVIAA,Bennie Owen,A,Washington (MO),MVIAA,George Rider,T,0,0
+1922-09-23,Virginia Tech,Southern,B.C. Cubbage,H,Hampden-Sydney,Ind,Ed Roundy,W,38,0
+1922-10-07,Virginia Tech,Southern,B.C. Cubbage,H,William & Mary,Ind,William Ingram,W,20,6
+1922-10-14,Virginia Tech,Southern,B.C. Cubbage,H,Centre,Ind,Charley Moran,L,6,10
+1922-10-21,Virginia Tech,Southern,B.C. Cubbage,A,Davidson,Ind,Wooly Grey,T,7,7
+1922-11-04,Virginia Tech,Southern,B.C. Cubbage,H,Maryland,Southern,Curley Byrd,W,21,0
+1922-11-11,Virginia Tech,Southern,B.C. Cubbage,N,North Carolina State,Southern,Harry Hartsell,W,24,0
+1922-11-18,Virginia Tech,Southern,B.C. Cubbage,N,Washington & Lee,Southern,Jimmy DeHart,W,41,6
+1922-11-30,Virginia Tech,Southern,B.C. Cubbage,N,Virginia Military Institute,Ind,,W,7,3
+1922-10-21,Arkansas,SWC,Francis Schmidt,A,Baylor,SWC,Frank Bridges,L,13,60
+1922-10-28,Arkansas,SWC,Francis Schmidt,N,LSU,Southern,Irving Pray,W,40,6
+1922-11-11,Arkansas,SWC,Francis Schmidt,A,Rice,SWC,Phillip Arbuckle,L,7,31
+1922-11-18,Arkansas,SWC,Francis Schmidt,H,SMU,SWC,Ray Morrison,W,9,0
+1922-11-30,Arkansas,SWC,Francis Schmidt,H,Oklahoma State,SWC,John Maulbetsch,L,0,13
+1922-09-30,Clemson,Southern,Edward Stewart,H,Centre,Ind,Charley Moran,L,0,21
+1922-10-07,Clemson,Southern,Edward Stewart,H,Newberry,Ind,Dutch McLean,W,57,0
+1922-10-13,Clemson,Southern,Edward Stewart,H,Presbyterian,Ind,Walter Johnson,W,13,0
+1922-10-26,Clemson,Southern,Edward Stewart,A,South Carolina,Southern,Sol Metzger,W,3,0
+1922-11-04,Clemson,Southern,Edward Stewart,A,Georgia Tech,Southern,William Alexander,L,7,21
+1922-11-11,Clemson,Southern,Edward Stewart,A,Citadel,Ind,Carl Prause,W,18,0
+1922-11-18,Clemson,Southern,Edward Stewart,H,Erskine,Ind,,W,52,0
+1922-11-25,Clemson,Southern,Edward Stewart,A,Furman,Ind,,L,6,20
+1922-12-02,Clemson,Southern,Edward Stewart,A,Florida,Southern,William Kline,L,14,47
+1922-09-29,South Carolina,Southern,Sol Metzger,H,Erskine,Ind,,W,13,0
+1922-10-07,South Carolina,Southern,Sol Metzger,H,Presbyterian,Ind,Walter Johnson,W,6,0
+1922-10-14,South Carolina,Southern,Sol Metzger,A,North Carolina,Southern,William Fetzer,L,7,10
+1922-10-20,South Carolina,Southern,Sol Metzger,H,Wofford,Ind,Rip Major,W,20,0
+1922-10-26,South Carolina,Southern,Sol Metzger,H,Clemson,Southern,Edward Stewart,L,0,3
+1922-11-04,South Carolina,Southern,Sol Metzger,H,Sewanee,Southern,John Nicholson,L,6,7
+1922-11-11,South Carolina,Southern,Sol Metzger,H,Furman,Ind,,W,27,7
+1922-11-16,South Carolina,Southern,Sol Metzger,N,Citadel,Ind,Carl Prause,W,13,0
+1922-11-30,South Carolina,Southern,Sol Metzger,A,Centre,Ind,Charley Moran,L,0,42
+1922-10-14,Washington,PCC,Enoch Bagshaw,H,Idaho,PCC,Robert Mathews,W,2,0
+1922-10-21,Washington,PCC,Enoch Bagshaw,H,Oregon State,PCC,R.B. Rutherford,W,14,3
+1922-10-28,Washington,PCC,Enoch Bagshaw,A,Washington State,PCC,Gus Welch,W,16,13
+1922-11-11,Washington,PCC,Enoch Bagshaw,H,California,PCC,Andy Smith,L,7,45
+1922-11-18,Washington,PCC,Enoch Bagshaw,A,Stanford,PCC,Andrew Kerr,W,12,8
+1922-11-30,Washington,PCC,Enoch Bagshaw,H,Oregon,PCC,Shy Huntington,T,3,3
+1922-10-07,Utah State,RMC,,A,Brigham Young,RMC,Alvin Twitchell,W,42,3
+1922-10-21,Utah State,RMC,,H,Colorado Mines,RMC,Tim Callahan,L,0,19
+1922-10-28,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,6,34
+1922-11-11,Utah State,RMC,,H,Wyoming,RMC,John Corbett,W,26,0
+1922-11-30,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,L,0,14
+1922-10-07,Missouri,MVIAA,Thomas Kelly,H,Grinnell,MVIAA,Mal Elward,W,23,0
+1922-10-14,Missouri,MVIAA,Thomas Kelly,A,Iowa State,MVIAA,Sam Willaman,W,6,3
+1922-10-21,Missouri,MVIAA,Thomas Kelly,A,Nebraska,MVIAA,Fred Dawson,L,0,48
+1922-11-04,Missouri,MVIAA,Thomas Kelly,H,Kansas State,MVIAA,Charlie Bachman,L,10,14
+1922-11-11,Missouri,MVIAA,Thomas Kelly,A,Oklahoma,MVIAA,Bennie Owen,L,14,18
+1922-11-18,Missouri,MVIAA,Thomas Kelly,H,Washington (MO),MVIAA,George Rider,W,27,0
+1922-11-30,Missouri,MVIAA,Thomas Kelly,H,Kansas,MVIAA,Potsy Clark,W,9,7
+1922-10-29,Denver,RMC,Fred Murphy,H,Colorado,RMC,Myron Witham,W,16,0
+1922-11-04,Denver,RMC,Fred Murphy,H,Wyoming,RMC,John Corbett,W,7,0
+1922-11-11,Denver,RMC,Fred Murphy,H,Colorado Mines,RMC,Tim Callahan,T,7,7
+1922-11-18,Denver,RMC,Fred Murphy,H,Colorado College,RMC,Tefler Meade,W,20,14
+1922-12-02,Denver,RMC,Fred Murphy,H,Colorado State,RMC,Harry Hughes,L,6,27
+1922-10-21,Washington & Jefferson,Ind,Greasy Neale,A,Carnegie Mellon,Ind,Walter Steffen,T,7,7
+1922-11-04,Washington & Jefferson,Ind,Greasy Neale,N,Lafayette,Ind,Jock Sutherland,W,14,13
+1922-11-18,Washington & Jefferson,Ind,Greasy Neale,A,Pitt,Ind,Pop Warner,L,0,19
+1922-11-30,Washington & Jefferson,Ind,Greasy Neale,A,West Virginia,Ind,,L,0,14
+1922-10-07,Wofford,Ind,Rip Major,A,Fort Benning,Ind,,L,0,12
+1922-10-13,Wofford,Ind,Rip Major,A,Erskine,Ind,,W,5,0
+1922-10-20,Wofford,Ind,Rip Major,A,South Carolina,Southern,Sol Metzger,L,0,20
+1922-11-04,Wofford,Ind,Rip Major,H,Presbyterian,Ind,Walter Johnson,L,0,32
+1922-11-11,Wofford,Ind,Rip Major,N,Davidson,Ind,Wooly Grey,L,0,34
+1922-11-18,Wofford,Ind,Rip Major,H,Furman,Ind,,L,0,41
+1922-12-02,Wofford,Ind,Rip Major,H,Duke,Ind,Herman Steiner,L,0,26
+1922-10-07,Mississippi College,Ind,Stanley Robinson,A,Tulane,Southern,Clark Shaughnessy,L,0,30
+1922-10-21,Mississippi College,Ind,Stanley Robinson,H,Samford,Ind,Harris Cope,W,26,0
+1922-10-28,Mississippi College,Ind,Stanley Robinson,A,Baylor,SWC,Frank Bridges,L,7,40
+1922-11-11,Mississippi College,Ind,Stanley Robinson,A,Florida,Southern,William Kline,L,0,58
+1922-11-18,Mississippi College,Ind,Stanley Robinson,A,Birmingham-Southern,Ind,Charles Brown,W,6,0
+1922-11-25,Mississippi College,Ind,Stanley Robinson,H,Spring Hill,Ind,,W,7,6
+1922-10-21,Wisconsin,Western,J.R. Richards,H,Indiana,Western,James Herron,W,20,0
+1922-11-04,Wisconsin,Western,J.R. Richards,A,Minnesota,Western,William Spaulding,W,14,0
+1922-11-11,Wisconsin,Western,J.R. Richards,H,Illinois,Western,Robert Zuppke,L,0,3
+1922-11-18,Wisconsin,Western,J.R. Richards,A,Michigan,Western,Fielding Yost,L,6,13
+1922-11-25,Wisconsin,Western,J.R. Richards,A,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1922-10-28,USC,PCC,Gus Henderson,H,California,PCC,Andy Smith,L,0,12
+1922-11-11,USC,PCC,Gus Henderson,A,Stanford,PCC,Andrew Kerr,W,6,0
+1922-11-18,USC,PCC,Gus Henderson,H,Idaho,PCC,Robert Mathews,W,14,0
+1922-11-30,USC,PCC,Gus Henderson,H,Washington State,PCC,Gus Welch,W,41,3
+1923-01-01,USC,PCC,Gus Henderson,H,Penn State,Ind,Hugo Bezdek,W,14,3
+1922-10-07,Colorado Mines,RMC,Tim Callahan,H,Wyoming,RMC,John Corbett,W,32,0
+1922-10-21,Colorado Mines,RMC,Tim Callahan,A,Utah State,RMC,,W,19,0
+1922-10-24,Colorado Mines,RMC,Tim Callahan,A,Brigham Young,RMC,Alvin Twitchell,W,47,0
+1922-11-11,Colorado Mines,RMC,Tim Callahan,A,Denver,RMC,Fred Murphy,T,7,7
+1922-11-18,Colorado Mines,RMC,Tim Callahan,A,Colorado State,RMC,Harry Hughes,L,0,19
+1922-11-23,Colorado Mines,RMC,Tim Callahan,H,Colorado,RMC,Myron Witham,L,0,16
+1922-11-30,Colorado Mines,RMC,Tim Callahan,A,Colorado College,RMC,Tefler Meade,W,25,6
+1922-10-07,North Carolina State,Southern,Harry Hartsell,A,Washington & Lee,Southern,Jimmy DeHart,L,6,14
+1922-10-19,North Carolina State,Southern,Harry Hartsell,H,North Carolina,Southern,William Fetzer,L,9,14
+1922-10-28,North Carolina State,Southern,Harry Hartsell,N,Virginia Military Institute,Ind,,L,0,14
+1922-11-04,North Carolina State,Southern,Harry Hartsell,H,Davidson,Ind,Wooly Grey,W,15,0
+1922-11-11,North Carolina State,Southern,Harry Hartsell,N,Virginia Tech,Southern,B.C. Cubbage,L,0,24
+1922-11-18,North Carolina State,Southern,Harry Hartsell,A,Georgia Tech,Southern,William Alexander,L,0,17
+1922-11-25,North Carolina State,Southern,Harry Hartsell,A,Wake Forest,Ind,George Levene,W,32,0
+1922-11-30,North Carolina State,Southern,Harry Hartsell,H,Maryland,Southern,Curley Byrd,L,6,7
+1922-10-14,Rutgers,Ind,George Sanford,A,Lehigh,Ind,James Baldwin,W,13,7
+1922-10-28,Rutgers,Ind,George Sanford,A,West Virginia,Ind,,L,0,28
+1922-11-07,Rutgers,Ind,George Sanford,H,LSU,Southern,Irving Pray,W,25,0
+1922-11-11,Rutgers,Ind,George Sanford,H,Lafayette,Ind,Jock Sutherland,L,6,33
+1922-10-14,Michigan,Western,Fielding Yost,A,Vanderbilt,Southern,Dan McGugin,T,0,0
+1922-10-21,Michigan,Western,Fielding Yost,A,Ohio State,Western,John Wilce,W,19,0
+1922-10-28,Michigan,Western,Fielding Yost,H,Illinois,Western,Robert Zuppke,W,24,0
+1922-11-18,Michigan,Western,Fielding Yost,H,Wisconsin,Western,J.R. Richards,W,13,6
+1922-11-25,Michigan,Western,Fielding Yost,A,Minnesota,Western,William Spaulding,W,16,7
+1922-10-14,Notre Dame,Ind,Knute Rockne,A,Purdue,Western,James Phelan,W,20,0
+1922-10-28,Notre Dame,Ind,Knute Rockne,A,Georgia Tech,Southern,William Alexander,W,13,3
+1922-11-04,Notre Dame,Ind,Knute Rockne,H,Indiana,Western,James Herron,W,27,0
+1922-11-11,Notre Dame,Ind,Knute Rockne,A,Army,Ind,Charles Daly,T,0,0
+1922-11-25,Notre Dame,Ind,Knute Rockne,A,Carnegie Mellon,Ind,Walter Steffen,W,19,0
+1922-11-30,Notre Dame,Ind,Knute Rockne,A,Nebraska,MVIAA,Fred Dawson,L,6,14
+1922-10-07,Pitt,Ind,Pop Warner,H,Lafayette,Ind,Jock Sutherland,L,0,7
+1922-10-14,Pitt,Ind,Pop Warner,H,West Virginia,Ind,,L,6,9
+1922-10-21,Pitt,Ind,Pop Warner,A,Syracuse,Ind,Chick Meehan,W,21,14
+1922-11-11,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,John Heisman,W,7,6
+1922-11-18,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,Greasy Neale,W,19,0
+1922-11-30,Pitt,Ind,Pop Warner,H,Penn State,Ind,Hugo Bezdek,W,14,0
+1922-12-30,Pitt,Ind,Pop Warner,A,Stanford,PCC,Andrew Kerr,W,16,7
+1922-09-30,Carnegie Mellon,Ind,Walter Steffen,A,Yale,Ind,Tad Jones,L,0,13
+1922-10-21,Carnegie Mellon,Ind,Walter Steffen,H,Washington & Jefferson,Ind,Greasy Neale,T,7,7
+1922-11-11,Carnegie Mellon,Ind,Walter Steffen,A,Penn State,Ind,Hugo Bezdek,L,0,10
+1922-11-25,Carnegie Mellon,Ind,Walter Steffen,H,Notre Dame,Ind,Knute Rockne,L,0,19
+1922-09-30,Mercer,Ind,,A,Georgia,Southern,Herman Stegeman,L,0,41
+1922-10-14,Mercer,Ind,,A,Birmingham-Southern,Ind,Charles Brown,W,17,13
+1922-10-21,Mercer,Ind,,A,Auburn,Southern,Mike Donahue,L,6,50
+1922-10-28,Mercer,Ind,,A,Vanderbilt,Southern,Dan McGugin,L,0,25
+1922-11-11,Mercer,Ind,,A,Chattanooga,Ind,Bill McAllester,L,6,13
+1922-11-18,Mercer,Ind,,H,Oglethorpe,Ind,,W,18,16
+1922-12-02,Mercer,Ind,,A,Fort Benning,Ind,,L,13,27
+1922-09-23,Newberry,Ind,Dutch McLean,A,Georgia,Southern,Herman Stegeman,L,13,82
+1922-09-29,Newberry,Ind,Dutch McLean,A,Furman,Ind,,L,0,33
+1922-10-07,Newberry,Ind,Dutch McLean,A,Clemson,Southern,Edward Stewart,L,0,57
+1922-11-04,Newberry,Ind,Dutch McLean,H,Citadel,Ind,Carl Prause,W,10,7
+1922-11-11,Newberry,Ind,Dutch McLean,H,Erskine,Ind,,W,36,0
+1922-12-02,Newberry,Ind,Dutch McLean,A,Presbyterian,Ind,Walter Johnson,L,9,35
+1922-09-30,Wyoming,RMC,John Corbett,A,Colorado College,RMC,Tefler Meade,L,0,20
+1922-10-07,Wyoming,RMC,John Corbett,A,Colorado Mines,RMC,Tim Callahan,L,0,32
+1922-10-14,Wyoming,RMC,John Corbett,H,Colorado State,RMC,Harry Hughes,L,0,60
+1922-10-25,Wyoming,RMC,John Corbett,H,Utah,RMC,Thomas Fitzpatrick,L,0,27
+1922-11-04,Wyoming,RMC,John Corbett,A,Denver,RMC,Fred Murphy,L,0,7
+1922-11-11,Wyoming,RMC,John Corbett,A,Utah State,RMC,,L,0,26
+1922-11-14,Wyoming,RMC,John Corbett,A,Brigham Young,RMC,Alvin Twitchell,L,0,7
+1922-11-21,Wyoming,RMC,John Corbett,A,Gonzaga,Ind,Gus Dorais,L,0,77
+1922-11-30,Wyoming,RMC,John Corbett,H,Brigham Young,RMC,Alvin Twitchell,W,13,0
+1922-10-07,Brigham Young,RMC,Alvin Twitchell,H,Utah State,RMC,,L,3,42
+1922-10-14,Brigham Young,RMC,Alvin Twitchell,A,Utah,RMC,Thomas Fitzpatrick,L,0,49
+1922-10-24,Brigham Young,RMC,Alvin Twitchell,H,Colorado Mines,RMC,Tim Callahan,L,0,47
+1922-11-14,Brigham Young,RMC,Alvin Twitchell,H,Wyoming,RMC,John Corbett,W,7,0
+1922-11-25,Brigham Young,RMC,Alvin Twitchell,A,Colorado State,RMC,Harry Hughes,L,0,33
+1922-11-30,Brigham Young,RMC,Alvin Twitchell,A,Wyoming,RMC,John Corbett,L,0,13
+1922-09-30,Yale,Ind,Tad Jones,H,Carnegie Mellon,Ind,Walter Steffen,W,13,0
+1922-10-07,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,18,0
+1922-10-14,Yale,Ind,Tad Jones,H,Iowa,Western,Howard Jones,L,0,6
+1922-10-28,Yale,Ind,Tad Jones,H,Army,Ind,Charles Daly,T,7,7
+1922-11-04,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,W,20,0
+1922-11-11,Yale,Ind,Tad Jones,H,Maryland,Southern,Curley Byrd,W,45,3
+1922-11-18,Yale,Ind,Tad Jones,A,Princeton,Ind,,L,0,3
+1922-11-25,Yale,Ind,Tad Jones,H,Harvard,Ind,Robert Fisher,L,3,10
+1922-10-07,Grinnell,MVIAA,Mal Elward,A,Missouri,MVIAA,Thomas Kelly,L,0,23
+1922-10-21,Grinnell,MVIAA,Mal Elward,H,Iowa State,MVIAA,Sam Willaman,L,0,7
+1922-11-04,Grinnell,MVIAA,Mal Elward,A,Washington (MO),MVIAA,George Rider,W,16,0
+1922-11-18,Grinnell,MVIAA,Mal Elward,A,Drake,MVIAA,Ossie Solem,L,0,21
+1922-09-30,Georgia Tech,Southern,William Alexander,H,Oglethorpe,Ind,,W,31,6
+1922-10-07,Georgia Tech,Southern,William Alexander,H,Davidson,Ind,Wooly Grey,W,19,0
+1922-10-14,Georgia Tech,Southern,William Alexander,H,Alabama,Southern,Xen Scott,W,33,7
+1922-10-21,Georgia Tech,Southern,William Alexander,A,Navy,Ind,,L,0,13
+1922-10-28,Georgia Tech,Southern,William Alexander,H,Notre Dame,Ind,Knute Rockne,L,3,13
+1922-11-04,Georgia Tech,Southern,William Alexander,H,Clemson,Southern,Edward Stewart,W,21,7
+1922-11-18,Georgia Tech,Southern,William Alexander,H,North Carolina State,Southern,Harry Hartsell,W,17,0
+1922-11-30,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Mike Donahue,W,14,6
+1922-09-30,Wake Forest,Ind,George Levene,N,North Carolina,Southern,William Fetzer,L,3,62
+1922-10-14,Wake Forest,Ind,George Levene,N,Davidson,Ind,Wooly Grey,T,6,6
+1922-11-04,Wake Forest,Ind,George Levene,H,William & Mary,Ind,William Ingram,L,0,18
+1922-11-11,Wake Forest,Ind,George Levene,H,Duke,Ind,Herman Steiner,L,0,3
+1922-11-25,Wake Forest,Ind,George Levene,H,North Carolina State,Southern,Harry Hartsell,L,0,32
+1922-12-02,Wake Forest,Ind,George Levene,H,Hampden-Sydney,Ind,Ed Roundy,W,9,3
+1922-10-07,Mississippi State,Southern,Charles Noble,H,Birmingham-Southern,Ind,Charles Brown,W,14,0
+1922-10-14,Mississippi State,Southern,Charles Noble,H,Samford,Ind,Harris Cope,T,0,0
+1922-10-21,Mississippi State,Southern,Charles Noble,N,Ole Miss,Southern,Roland Cowell,W,19,13
+1922-10-28,Mississippi State,Southern,Charles Noble,A,Tulane,Southern,Clark Shaughnessy,L,0,26
+1922-11-11,Mississippi State,Southern,Charles Noble,N,Tennessee,Southern,Mark Banks,L,3,31
+1922-11-18,Mississippi State,Southern,Charles Noble,A,LSU,Southern,Irving Pray,W,7,0
+1922-11-25,Mississippi State,Southern,Charles Noble,H,Drake,MVIAA,Ossie Solem,L,6,48
+1922-11-30,Mississippi State,Southern,Charles Noble,A,Alabama,Southern,Xen Scott,L,0,59
+1922-10-21,Virginia Military Institute,Ind,,A,Virginia,Southern,Thomas Campbell,W,14,0
+1922-10-28,Virginia Military Institute,Ind,,N,North Carolina State,Southern,Harry Hartsell,W,14,0
+1922-11-11,Virginia Military Institute,Ind,,H,North Carolina,Southern,William Fetzer,L,7,9
+1922-11-30,Virginia Military Institute,Ind,,N,Virginia Tech,Southern,B.C. Cubbage,L,3,7
+1922-09-23,Hampden-Sydney,Ind,Ed Roundy,A,Virginia Tech,Southern,B.C. Cubbage,L,0,38
+1922-10-07,Hampden-Sydney,Ind,Ed Roundy,A,Duke,Ind,Herman Steiner,L,0,27
+1922-10-28,Hampden-Sydney,Ind,Ed Roundy,H,William & Mary,Ind,William Ingram,L,6,32
+1922-11-18,Hampden-Sydney,Ind,Ed Roundy,A,Richmond,Ind,Frank Dobson,L,0,34
+1922-12-02,Hampden-Sydney,Ind,Ed Roundy,A,Wake Forest,Ind,George Levene,L,3,9
+1922-10-14,Kansas State,MVIAA,Charlie Bachman,A,Washington (MO),MVIAA,George Rider,W,22,14
+1922-10-21,Kansas State,MVIAA,Charlie Bachman,A,Oklahoma,MVIAA,Bennie Owen,T,7,7
+1922-10-28,Kansas State,MVIAA,Charlie Bachman,H,Kansas,MVIAA,Potsy Clark,T,7,7
+1922-11-04,Kansas State,MVIAA,Charlie Bachman,A,Missouri,MVIAA,Thomas Kelly,W,14,10
+1922-11-11,Kansas State,MVIAA,Charlie Bachman,H,Iowa State,MVIAA,Sam Willaman,W,12,2
+1922-11-18,Kansas State,MVIAA,Charlie Bachman,A,Nebraska,MVIAA,Fred Dawson,L,0,21
+1922-11-30,Kansas State,MVIAA,Charlie Bachman,H,Texas Christian,Ind,John McKnight,W,45,0
+1922-10-21,Chattanooga,Ind,Bill McAllester,H,Birmingham-Southern,Ind,Charles Brown,T,0,0
+1922-11-11,Chattanooga,Ind,Bill McAllester,H,Mercer,Ind,,W,13,6
+1922-11-30,Chattanooga,Ind,Bill McAllester,H,Oglethorpe,Ind,,W,13,9
+1922-09-30,Samford,Ind,Harris Cope,H,Auburn,Southern,Mike Donahue,L,0,72
+1922-10-14,Samford,Ind,Harris Cope,A,Mississippi State,Southern,Charles Noble,T,0,0
+1922-10-21,Samford,Ind,Harris Cope,A,Mississippi College,Ind,Stanley Robinson,L,0,26
+1922-10-28,Samford,Ind,Harris Cope,A,Florida,Southern,William Kline,L,0,57
+1922-11-11,Samford,Ind,Harris Cope,A,Spring Hill,Ind,,L,0,48
+1922-11-25,Samford,Ind,Harris Cope,H,Birmingham-Southern,Ind,Charles Brown,W,9,7
+1922-10-07,Army,Ind,Charles Daly,H,Kansas,MVIAA,Potsy Clark,W,13,0
+1922-10-14,Army,Ind,Charles Daly,H,Auburn,Southern,Mike Donahue,W,19,6
+1922-10-28,Army,Ind,Charles Daly,A,Yale,Ind,Tad Jones,T,7,7
+1922-11-11,Army,Ind,Charles Daly,H,Notre Dame,Ind,Knute Rockne,T,0,0
+1922-11-25,Army,Ind,Charles Daly,N,Navy,Ind,,W,17,14
+1922-10-28,Dartmouth,Ind,Jack Cannell,A,Harvard,Ind,Robert Fisher,L,3,12
+1922-11-11,Dartmouth,Ind,Jack Cannell,N,Cornell,Ind,Gilmour Dobie,L,0,23
+1922-11-18,Dartmouth,Ind,Jack Cannell,A,Columbia,Ind,Buck O'Neill,W,28,7
+1922-11-25,Dartmouth,Ind,Jack Cannell,N,Brown,Ind,Edward Robinson,W,7,0
+1922-09-30,Auburn,Southern,Mike Donahue,A,Samford,Ind,Harris Cope,W,72,0
+1922-10-07,Auburn,Southern,Mike Donahue,N,Spring Hill,Ind,,W,19,6
+1922-10-14,Auburn,Southern,Mike Donahue,A,Army,Ind,Charles Daly,L,6,19
+1922-10-21,Auburn,Southern,Mike Donahue,H,Mercer,Ind,,W,50,6
+1922-10-28,Auburn,Southern,Mike Donahue,H,Fort Benning,Ind,,W,30,0
+1922-11-04,Auburn,Southern,Mike Donahue,N,Georgia,Southern,Herman Stegeman,W,7,3
+1922-11-11,Auburn,Southern,Mike Donahue,H,Tulane,Southern,Clark Shaughnessy,W,19,0
+1922-11-18,Auburn,Southern,Mike Donahue,H,Centre,Ind,Charley Moran,W,6,0
+1922-11-30,Auburn,Southern,Mike Donahue,A,Georgia Tech,Southern,William Alexander,L,6,14
+1922-10-14,Northwestern,Western,Glenn Thistlethwaite,A,Chicago,Western,Amos Alonzo Stagg,L,7,15
+1922-10-21,Northwestern,Western,Glenn Thistlethwaite,H,Minnesota,Western,William Spaulding,T,7,7
+1922-11-04,Northwestern,Western,Glenn Thistlethwaite,A,Illinois,Western,Robert Zuppke,L,3,6
+1922-11-11,Northwestern,Western,Glenn Thistlethwaite,H,Purdue,Western,James Phelan,W,24,13
+1922-11-25,Northwestern,Western,Glenn Thistlethwaite,A,Iowa,Western,Howard Jones,L,3,37
+1922-10-07,Kansas,MVIAA,Potsy Clark,A,Army,Ind,Charles Daly,L,0,13
+1922-10-14,Kansas,MVIAA,Potsy Clark,A,Drake,MVIAA,Ossie Solem,L,0,6
+1922-10-28,Kansas,MVIAA,Potsy Clark,A,Kansas State,MVIAA,Charlie Bachman,T,7,7
+1922-11-04,Kansas,MVIAA,Potsy Clark,H,Oklahoma,MVIAA,Bennie Owen,W,19,3
+1922-11-11,Kansas,MVIAA,Potsy Clark,H,Nebraska,MVIAA,Fred Dawson,L,0,28
+1922-11-18,Kansas,MVIAA,Potsy Clark,H,Colorado,RMC,Myron Witham,W,39,6
+1922-11-30,Kansas,MVIAA,Potsy Clark,A,Missouri,MVIAA,Thomas Kelly,L,7,9
+1922-09-30,William & Mary,Ind,William Ingram,A,Penn State,Ind,Hugo Bezdek,L,7,27
+1922-10-07,William & Mary,Ind,William Ingram,A,Virginia Tech,Southern,B.C. Cubbage,L,6,20
+1922-10-21,William & Mary,Ind,William Ingram,A,Duke,Ind,Herman Steiner,W,13,7
+1922-10-28,William & Mary,Ind,William Ingram,A,Hampden-Sydney,Ind,Ed Roundy,W,32,6
+1922-11-04,William & Mary,Ind,William Ingram,A,Wake Forest,Ind,George Levene,W,18,0
+1922-11-30,William & Mary,Ind,William Ingram,A,Richmond,Ind,Frank Dobson,L,3,13
+1922-10-14,LSU,Southern,Irving Pray,A,SMU,SWC,Ray Morrison,L,0,51
+1922-10-20,LSU,Southern,Irving Pray,A,Texas A&M,SWC,Dana Bible,L,0,46
+1922-10-28,LSU,Southern,Irving Pray,N,Arkansas,SWC,Francis Schmidt,L,6,40
+1922-11-02,LSU,Southern,Irving Pray,H,Spring Hill,Ind,,W,25,7
+1922-11-07,LSU,Southern,Irving Pray,A,Rutgers,Ind,George Sanford,L,0,25
+1922-11-10,LSU,Southern,Irving Pray,A,Alabama,Southern,Xen Scott,L,3,47
+1922-11-18,LSU,Southern,Irving Pray,H,Mississippi State,Southern,Charles Noble,L,0,7
+1922-11-30,LSU,Southern,Irving Pray,H,Tulane,Southern,Clark Shaughnessy,W,25,14
+1922-10-07,Pennsylvania,Ind,John Heisman,H,Sewanee,Southern,John Nicholson,W,27,0
+1922-10-14,Pennsylvania,Ind,John Heisman,H,Maryland,Southern,Curley Byrd,W,12,0
+1922-10-28,Pennsylvania,Ind,John Heisman,H,Navy,Ind,,W,13,7
+1922-11-04,Pennsylvania,Ind,John Heisman,H,Alabama,Southern,Xen Scott,L,7,9
+1922-11-11,Pennsylvania,Ind,John Heisman,H,Pitt,Ind,Pop Warner,L,6,7
+1922-11-18,Pennsylvania,Ind,John Heisman,H,Penn State,Ind,Hugo Bezdek,W,7,6
+1922-11-30,Pennsylvania,Ind,John Heisman,H,Cornell,Ind,Gilmour Dobie,L,0,9
+1922-10-14,Iowa,Western,Howard Jones,A,Yale,Ind,Tad Jones,W,6,0
+1922-10-21,Iowa,Western,Howard Jones,A,Illinois,Western,Robert Zuppke,W,8,7
+1922-10-28,Iowa,Western,Howard Jones,H,Purdue,Western,James Phelan,W,56,0
+1922-11-11,Iowa,Western,Howard Jones,H,Minnesota,Western,William Spaulding,W,28,14
+1922-11-18,Iowa,Western,Howard Jones,A,Ohio State,Western,John Wilce,W,12,9
+1922-11-25,Iowa,Western,Howard Jones,H,Northwestern,Western,Glenn Thistlethwaite,W,37,3
+1922-11-04,Columbia,Ind,Buck O'Neill,A,Cornell,Ind,Gilmour Dobie,L,0,56
+1922-11-18,Columbia,Ind,Buck O'Neill,H,Dartmouth,Ind,Jack Cannell,L,7,28
+1922-11-30,Columbia,Ind,Buck O'Neill,H,Colgate,Ind,Dick Harlow,L,6,59
+1922-10-14,Texas,SWC,Berry Whitaker,H,Oklahoma State,SWC,John Maulbetsch,W,19,7
+1922-10-21,Texas,SWC,Berry Whitaker,H,Vanderbilt,Southern,Dan McGugin,L,10,20
+1922-10-28,Texas,SWC,Berry Whitaker,H,Alabama,Southern,Xen Scott,W,19,10
+1922-11-04,Texas,SWC,Berry Whitaker,A,Rice,SWC,Phillip Arbuckle,W,29,0
+1922-11-18,Texas,SWC,Berry Whitaker,A,Oklahoma,MVIAA,Bennie Owen,W,32,7
+1922-11-30,Texas,SWC,Berry Whitaker,H,Texas A&M,SWC,Dana Bible,L,7,14
+1922-11-11,Texas Christian,Ind,John McKnight,H,Oklahoma State,SWC,John Maulbetsch,W,22,14
+1922-11-30,Texas Christian,Ind,John McKnight,A,Kansas State,MVIAA,Charlie Bachman,L,0,45
+1922-12-02,Texas Christian,Ind,John McKnight,H,SMU,SWC,Ray Morrison,T,0,0
+1922-09-30,Richmond,Ind,Frank Dobson,A,Lafayette,Ind,Jock Sutherland,L,0,34
+1922-10-07,Richmond,Ind,Frank Dobson,H,Maryland,Southern,Curley Byrd,T,0,0
+1922-10-14,Richmond,Ind,Frank Dobson,A,Virginia,Southern,Thomas Campbell,L,6,14
+1922-10-28,Richmond,Ind,Frank Dobson,A,Furman,Ind,,W,13,0
+1922-11-18,Richmond,Ind,Frank Dobson,H,Hampden-Sydney,Ind,Ed Roundy,W,34,0
+1922-11-30,Richmond,Ind,Frank Dobson,H,William & Mary,Ind,William Ingram,W,13,3
+1922-10-28,Oregon,PCC,Shy Huntington,H,Idaho,PCC,Robert Mathews,W,3,0
+1922-11-11,Oregon,PCC,Shy Huntington,H,Washington State,PCC,Gus Welch,W,13,0
+1922-11-18,Oregon,PCC,Shy Huntington,A,Oregon State,PCC,R.B. Rutherford,W,10,0
+1922-11-30,Oregon,PCC,Shy Huntington,A,Washington,PCC,Enoch Bagshaw,T,3,3
+1922-10-14,Brown,Ind,Edward Robinson,H,Syracuse,Ind,Chick Meehan,T,0,0
+1922-10-21,Brown,Ind,Edward Robinson,A,Lehigh,Ind,James Baldwin,W,6,2
+1922-11-04,Brown,Ind,Edward Robinson,A,Yale,Ind,Tad Jones,L,0,20
+1922-11-18,Brown,Ind,Edward Robinson,A,Harvard,Ind,Robert Fisher,W,3,0
+1922-11-25,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,Jack Cannell,L,0,7
+1922-09-29,Erskine,Ind,,A,South Carolina,Southern,Sol Metzger,L,0,13
+1922-10-13,Erskine,Ind,,H,Wofford,Ind,Rip Major,L,0,5
+1922-10-21,Erskine,Ind,,H,Presbyterian,Ind,Walter Johnson,L,0,19
+1922-11-04,Erskine,Ind,,A,Furman,Ind,,L,6,67
+1922-11-11,Erskine,Ind,,A,Newberry,Ind,Dutch McLean,L,0,36
+1922-11-18,Erskine,Ind,,A,Clemson,Southern,Edward Stewart,L,0,52
+1922-12-02,Erskine,Ind,,H,Citadel,Ind,Carl Prause,L,0,28
+1922-10-07,Spring Hill,Ind,,N,Auburn,Southern,Mike Donahue,L,6,19
+1922-10-14,Spring Hill,Ind,,A,Tulane,Southern,Clark Shaughnessy,L,10,30
+1922-11-02,Spring Hill,Ind,,A,LSU,Southern,Irving Pray,L,7,25
+1922-11-11,Spring Hill,Ind,,H,Samford,Ind,Harris Cope,W,48,0
+1922-11-25,Spring Hill,Ind,,A,Mississippi College,Ind,Stanley Robinson,L,6,7
+1922-10-14,Tennessee,Southern,Mark Banks,A,Fort Benning,Ind,,W,15,0
+1922-10-21,Tennessee,Southern,Mark Banks,A,Georgia,Southern,Herman Stegeman,L,3,7
+1922-10-28,Tennessee,Southern,Mark Banks,H,Ole Miss,Southern,Roland Cowell,W,49,0
+1922-11-04,Tennessee,Southern,Mark Banks,H,Vanderbilt,Southern,Dan McGugin,L,6,14
+1922-11-11,Tennessee,Southern,Mark Banks,N,Mississippi State,Southern,Charles Noble,W,31,3
+1922-11-18,Tennessee,Southern,Mark Banks,N,Sewanee,Southern,John Nicholson,W,18,7
+1922-11-30,Tennessee,Southern,Mark Banks,H,Kentucky,Southern,William Juneau,W,14,7
+1922-10-14,Lehigh,Ind,James Baldwin,H,Rutgers,Ind,George Sanford,L,7,13
+1922-10-21,Lehigh,Ind,James Baldwin,H,Brown,Ind,Edward Robinson,L,2,6
+1922-11-04,Lehigh,Ind,James Baldwin,A,Colgate,Ind,Dick Harlow,L,6,35
+1922-11-25,Lehigh,Ind,James Baldwin,A,Lafayette,Ind,Jock Sutherland,L,0,3
+1922-10-21,Oregon State,PCC,R.B. Rutherford,A,Washington,PCC,Enoch Bagshaw,L,3,14
+1922-10-28,Oregon State,PCC,R.B. Rutherford,H,Stanford,PCC,Andrew Kerr,L,0,6
+1922-11-18,Oregon State,PCC,R.B. Rutherford,H,Oregon,PCC,Shy Huntington,L,0,10
+1922-11-25,Oregon State,PCC,R.B. Rutherford,H,Washington State,PCC,Gus Welch,W,16,0
+1922-10-07,Alabama,Southern,Xen Scott,H,Oglethorpe,Ind,,W,41,0
+1922-10-14,Alabama,Southern,Xen Scott,A,Georgia Tech,Southern,William Alexander,L,7,33
+1922-10-21,Alabama,Southern,Xen Scott,H,Sewanee,Southern,John Nicholson,T,7,7
+1922-10-28,Alabama,Southern,Xen Scott,A,Texas,SWC,Berry Whitaker,L,10,19
+1922-11-04,Alabama,Southern,Xen Scott,A,Pennsylvania,Ind,John Heisman,W,9,7
+1922-11-10,Alabama,Southern,Xen Scott,H,LSU,Southern,Irving Pray,W,47,3
+1922-11-18,Alabama,Southern,Xen Scott,A,Kentucky,Southern,William Juneau,L,0,6
+1922-11-25,Alabama,Southern,Xen Scott,H,Georgia,Southern,Herman Stegeman,W,10,6
+1922-11-30,Alabama,Southern,Xen Scott,H,Mississippi State,Southern,Charles Noble,W,59,0
+1922-10-14,Purdue,Western,James Phelan,H,Notre Dame,Ind,Knute Rockne,L,0,20
+1922-10-21,Purdue,Western,James Phelan,A,Chicago,Western,Amos Alonzo Stagg,L,0,12
+1922-10-28,Purdue,Western,James Phelan,A,Iowa,Western,Howard Jones,L,0,56
+1922-11-11,Purdue,Western,James Phelan,A,Northwestern,Western,Glenn Thistlethwaite,L,13,24
+1922-11-25,Purdue,Western,James Phelan,H,Indiana,Western,James Herron,T,7,7
+1922-10-21,Nebraska,MVIAA,Fred Dawson,H,Missouri,MVIAA,Thomas Kelly,W,48,0
+1922-10-28,Nebraska,MVIAA,Fred Dawson,A,Oklahoma,MVIAA,Bennie Owen,W,39,7
+1922-11-04,Nebraska,MVIAA,Fred Dawson,A,Syracuse,Ind,Chick Meehan,L,6,9
+1922-11-11,Nebraska,MVIAA,Fred Dawson,A,Kansas,MVIAA,Potsy Clark,W,28,0
+1922-11-18,Nebraska,MVIAA,Fred Dawson,H,Kansas State,MVIAA,Charlie Bachman,W,21,0
+1922-11-25,Nebraska,MVIAA,Fred Dawson,H,Iowa State,MVIAA,Sam Willaman,W,54,6
+1922-11-30,Nebraska,MVIAA,Fred Dawson,H,Notre Dame,Ind,Knute Rockne,W,14,6
+1922-10-14,West Virginia,Ind,,A,Pitt,Ind,Pop Warner,W,9,6
+1922-10-21,West Virginia,Ind,,N,Washington & Lee,Southern,Jimmy DeHart,T,12,12
+1922-10-28,West Virginia,Ind,,H,Rutgers,Ind,George Sanford,W,28,0
+1922-11-11,West Virginia,Ind,,A,Indiana,Western,James Herron,W,33,0
+1922-11-18,West Virginia,Ind,,H,Virginia,Southern,Thomas Campbell,W,13,0
+1922-11-30,West Virginia,Ind,,H,Washington & Jefferson,Ind,Greasy Neale,W,14,0
+1922-12-25,West Virginia,Ind,,N,Gonzaga,Ind,Gus Dorais,W,21,13
+1922-10-21,Harvard,Ind,Robert Fisher,H,Centre,Ind,Charley Moran,W,24,10
+1922-10-28,Harvard,Ind,Robert Fisher,H,Dartmouth,Ind,Jack Cannell,W,12,3
+1922-11-04,Harvard,Ind,Robert Fisher,H,Florida,Southern,William Kline,W,24,0
+1922-11-11,Harvard,Ind,Robert Fisher,H,Princeton,Ind,,L,3,10
+1922-11-18,Harvard,Ind,Robert Fisher,H,Brown,Ind,Edward Robinson,L,0,3
+1922-11-25,Harvard,Ind,Robert Fisher,A,Yale,Ind,Tad Jones,W,10,3
+1922-10-14,Oklahoma State,SWC,John Maulbetsch,A,Texas,SWC,Berry Whitaker,L,7,19
+1922-10-21,Oklahoma State,SWC,John Maulbetsch,H,Rice,SWC,Phillip Arbuckle,W,21,0
+1922-10-28,Oklahoma State,SWC,John Maulbetsch,A,SMU,SWC,Ray Morrison,L,6,32
+1922-11-11,Oklahoma State,SWC,John Maulbetsch,A,Texas Christian,Ind,John McKnight,L,14,22
+1922-11-18,Oklahoma State,SWC,John Maulbetsch,H,Baylor,SWC,Frank Bridges,L,0,10
+1922-11-25,Oklahoma State,SWC,John Maulbetsch,H,Oklahoma,MVIAA,Bennie Owen,T,3,3
+1922-11-30,Oklahoma State,SWC,John Maulbetsch,A,Arkansas,SWC,Francis Schmidt,W,13,0
+1922-10-21,Colorado,RMC,Myron Witham,H,Utah,RMC,Thomas Fitzpatrick,L,0,3
+1922-10-29,Colorado,RMC,Myron Witham,A,Denver,RMC,Fred Murphy,L,0,16
+1922-11-04,Colorado,RMC,Myron Witham,H,Colorado State,RMC,Harry Hughes,W,7,0
+1922-11-11,Colorado,RMC,Myron Witham,A,Colorado College,RMC,Tefler Meade,L,10,21
+1922-11-18,Colorado,RMC,Myron Witham,A,Kansas,MVIAA,Potsy Clark,L,6,39
+1922-11-23,Colorado,RMC,Myron Witham,A,Colorado Mines,RMC,Tim Callahan,W,16,0
+1922-10-07,Birmingham-Southern,Ind,Charles Brown,A,Mississippi State,Southern,Charles Noble,L,0,14
+1922-10-14,Birmingham-Southern,Ind,Charles Brown,H,Mercer,Ind,,L,13,17
+1922-10-21,Birmingham-Southern,Ind,Charles Brown,A,Chattanooga,Ind,Bill McAllester,T,0,0
+1922-11-04,Birmingham-Southern,Ind,Charles Brown,A,Ole Miss,Southern,Roland Cowell,L,0,6
+1922-11-11,Birmingham-Southern,Ind,Charles Brown,A,Sewanee,Southern,John Nicholson,L,0,21
+1922-11-18,Birmingham-Southern,Ind,Charles Brown,H,Mississippi College,Ind,Stanley Robinson,L,0,6
+1922-11-25,Birmingham-Southern,Ind,Charles Brown,A,Samford,Ind,Harris Cope,L,7,9
+1922-09-30,Oglethorpe,Ind,,A,Georgia Tech,Southern,William Alexander,L,6,31
+1922-10-07,Oglethorpe,Ind,,A,Alabama,Southern,Xen Scott,L,0,41
+1922-10-14,Oglethorpe,Ind,,A,Sewanee,Southern,John Nicholson,L,0,19
+1922-10-21,Oglethorpe,Ind,,H,Furman,Ind,,L,0,26
+1922-10-28,Oglethorpe,Ind,,A,Georgia,Southern,Herman Stegeman,L,6,26
+1922-11-04,Oglethorpe,Ind,,A,Duke,Ind,Herman Steiner,L,6,7
+1922-11-11,Oglethorpe,Ind,,A,Fort Benning,Ind,,W,14,3
+1922-11-18,Oglethorpe,Ind,,A,Mercer,Ind,,L,16,18
+1922-11-25,Oglethorpe,Ind,,H,Florida,Southern,William Kline,L,0,12
+1922-11-30,Oglethorpe,Ind,,A,Chattanooga,Ind,Bill McAllester,L,9,13
+1922-10-14,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,John Corbett,W,60,0
+1922-10-21,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,Tefler Meade,T,0,0
+1922-10-28,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,W,34,6
+1922-11-04,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,L,0,7
+1922-11-11,Colorado State,RMC,Harry Hughes,A,Drake,MVIAA,Ossie Solem,L,6,19
+1922-11-18,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,Tim Callahan,W,19,0
+1922-11-25,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,Alvin Twitchell,W,33,0
+1922-12-02,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Fred Murphy,W,27,6
+1922-10-14,Rice,SWC,Phillip Arbuckle,H,Baylor,SWC,Frank Bridges,L,0,31
+1922-10-21,Rice,SWC,Phillip Arbuckle,A,Oklahoma State,SWC,John Maulbetsch,L,0,21
+1922-11-04,Rice,SWC,Phillip Arbuckle,H,Texas,SWC,Berry Whitaker,L,0,29
+1922-11-11,Rice,SWC,Phillip Arbuckle,H,Arkansas,SWC,Francis Schmidt,W,31,7
+1922-11-18,Rice,SWC,Phillip Arbuckle,A,Texas A&M,SWC,Dana Bible,L,0,24
+1922-10-20,Texas A&M,SWC,Dana Bible,H,LSU,Southern,Irving Pray,W,46,0
+1922-11-04,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Frank Bridges,L,7,13
+1922-11-11,Texas A&M,SWC,Dana Bible,A,SMU,SWC,Ray Morrison,L,6,17
+1922-11-18,Texas A&M,SWC,Dana Bible,H,Rice,SWC,Phillip Arbuckle,W,24,0
+1922-11-30,Texas A&M,SWC,Dana Bible,A,Texas,SWC,Berry Whitaker,W,14,7
+1922-09-30,Davidson,Ind,Wooly Grey,A,Presbyterian,Ind,Walter Johnson,L,7,8
+1922-10-07,Davidson,Ind,Wooly Grey,A,Georgia Tech,Southern,William Alexander,L,0,19
+1922-10-14,Davidson,Ind,Wooly Grey,N,Wake Forest,Ind,George Levene,T,6,6
+1922-10-21,Davidson,Ind,Wooly Grey,H,Virginia Tech,Southern,B.C. Cubbage,T,7,7
+1922-10-28,Davidson,Ind,Wooly Grey,H,Duke,Ind,Herman Steiner,L,0,12
+1922-11-04,Davidson,Ind,Wooly Grey,A,North Carolina State,Southern,Harry Hartsell,L,0,15
+1922-11-11,Davidson,Ind,Wooly Grey,N,Wofford,Ind,Rip Major,W,34,0
+1922-11-18,Davidson,Ind,Wooly Grey,N,North Carolina,Southern,William Fetzer,L,6,20
+1922-11-30,Davidson,Ind,Wooly Grey,A,Furman,Ind,,L,0,13
+1922-10-14,Washington (MO),MVIAA,George Rider,H,Kansas State,MVIAA,Charlie Bachman,L,14,22
+1922-10-21,Washington (MO),MVIAA,George Rider,H,Drake,MVIAA,Ossie Solem,L,7,31
+1922-10-28,Washington (MO),MVIAA,George Rider,A,Iowa State,MVIAA,Sam Willaman,L,0,13
+1922-11-04,Washington (MO),MVIAA,George Rider,H,Grinnell,MVIAA,Mal Elward,L,0,16
+1922-11-18,Washington (MO),MVIAA,George Rider,A,Missouri,MVIAA,Thomas Kelly,L,0,27
+1922-12-02,Washington (MO),MVIAA,George Rider,H,Oklahoma,MVIAA,Bennie Owen,T,0,0
+1922-10-07,Chicago,Western,Amos Alonzo Stagg,H,Georgia,Southern,Herman Stegeman,W,20,0
+1922-10-14,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Glenn Thistlethwaite,W,15,7
+1922-10-21,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,James Phelan,W,12,0
+1922-10-28,Chicago,Western,Amos Alonzo Stagg,H,Princeton,Ind,,L,18,21
+1922-11-11,Chicago,Western,Amos Alonzo Stagg,A,Ohio State,Western,John Wilce,W,14,9
+1922-11-18,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Robert Zuppke,W,9,0
+1922-11-25,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,J.R. Richards,T,0,0
+1922-10-07,Fort Benning,Ind,,H,Wofford,Ind,Rip Major,W,12,0
+1922-10-14,Fort Benning,Ind,,H,Tennessee,Southern,Mark Banks,L,0,15
+1922-10-21,Fort Benning,Ind,,A,Tulane,Southern,Clark Shaughnessy,L,0,18
+1922-10-28,Fort Benning,Ind,,A,Auburn,Southern,Mike Donahue,L,0,30
+1922-11-11,Fort Benning,Ind,,H,Oglethorpe,Ind,,L,3,14
+1922-11-25,Fort Benning,Ind,,H,Ole Miss,Southern,Roland Cowell,W,14,13
+1922-12-02,Fort Benning,Ind,,H,Mercer,Ind,,W,27,13
+1922-10-14,Colgate,Ind,Dick Harlow,A,Princeton,Ind,,L,0,10
+1922-10-21,Colgate,Ind,Dick Harlow,A,Cornell,Ind,Gilmour Dobie,L,0,14
+1922-11-04,Colgate,Ind,Dick Harlow,H,Lehigh,Ind,James Baldwin,W,35,6
+1922-11-18,Colgate,Ind,Dick Harlow,A,Syracuse,Ind,Chick Meehan,L,7,14
+1922-11-30,Colgate,Ind,Dick Harlow,A,Columbia,Ind,Buck O'Neill,W,59,6
+1922-10-14,Minnesota,Western,William Spaulding,A,Indiana,Western,James Herron,W,20,0
+1922-10-21,Minnesota,Western,William Spaulding,A,Northwestern,Western,Glenn Thistlethwaite,T,7,7
+1922-10-28,Minnesota,Western,William Spaulding,H,Ohio State,Western,John Wilce,W,9,0
+1922-11-04,Minnesota,Western,William Spaulding,H,Wisconsin,Western,J.R. Richards,L,0,14
+1922-11-11,Minnesota,Western,William Spaulding,A,Iowa,Western,Howard Jones,L,14,28
+1922-11-25,Minnesota,Western,William Spaulding,H,Michigan,Western,Fielding Yost,L,7,16
+1922-10-07,Ole Miss,Southern,Roland Cowell,A,Centre,Ind,Charley Moran,L,0,55
+1922-10-21,Ole Miss,Southern,Roland Cowell,N,Mississippi State,Southern,Charles Noble,L,13,19
+1922-10-28,Ole Miss,Southern,Roland Cowell,A,Tennessee,Southern,Mark Banks,L,0,49
+1922-11-04,Ole Miss,Southern,Roland Cowell,H,Birmingham-Southern,Ind,Charles Brown,W,6,0
+1922-11-25,Ole Miss,Southern,Roland Cowell,A,Fort Benning,Ind,,L,13,14
+1922-10-07,Duke,Ind,Herman Steiner,H,Hampden-Sydney,Ind,Ed Roundy,W,27,0
+1922-10-12,Duke,Ind,Herman Steiner,A,North Carolina,Southern,William Fetzer,L,0,20
+1922-10-21,Duke,Ind,Herman Steiner,H,William & Mary,Ind,William Ingram,L,7,13
+1922-10-28,Duke,Ind,Herman Steiner,A,Davidson,Ind,Wooly Grey,W,12,0
+1922-11-04,Duke,Ind,Herman Steiner,H,Oglethorpe,Ind,,W,7,6
+1922-11-11,Duke,Ind,Herman Steiner,A,Wake Forest,Ind,George Levene,W,3,0
+1922-11-25,Duke,Ind,Herman Steiner,A,Presbyterian,Ind,Walter Johnson,T,6,6
+1922-12-02,Duke,Ind,Herman Steiner,A,Wofford,Ind,Rip Major,W,26,0
+1922-10-07,Sewanee,Southern,John Nicholson,A,Pennsylvania,Ind,John Heisman,L,0,27
+1922-10-14,Sewanee,Southern,John Nicholson,H,Oglethorpe,Ind,,W,19,0
+1922-10-21,Sewanee,Southern,John Nicholson,A,Alabama,Southern,Xen Scott,T,7,7
+1922-10-28,Sewanee,Southern,John Nicholson,A,Kentucky,Southern,William Juneau,L,0,7
+1922-11-04,Sewanee,Southern,John Nicholson,A,South Carolina,Southern,Sol Metzger,W,7,6
+1922-11-11,Sewanee,Southern,John Nicholson,H,Birmingham-Southern,Ind,Charles Brown,W,21,0
+1922-11-18,Sewanee,Southern,John Nicholson,N,Tennessee,Southern,Mark Banks,L,7,18
+1922-11-25,Sewanee,Southern,John Nicholson,A,Vanderbilt,Southern,Dan McGugin,L,0,26
+1922-09-30,Centre,Ind,Charley Moran,A,Clemson,Southern,Edward Stewart,W,21,0
+1922-10-07,Centre,Ind,Charley Moran,H,Ole Miss,Southern,Roland Cowell,W,55,0
+1922-10-14,Centre,Ind,Charley Moran,A,Virginia Tech,Southern,B.C. Cubbage,W,10,6
+1922-10-21,Centre,Ind,Charley Moran,A,Harvard,Ind,Robert Fisher,L,10,24
+1922-11-04,Centre,Ind,Charley Moran,A,Kentucky,Southern,William Juneau,W,27,3
+1922-11-11,Centre,Ind,Charley Moran,H,Washington & Lee,Southern,Jimmy DeHart,W,27,6
+1922-11-18,Centre,Ind,Charley Moran,A,Auburn,Southern,Mike Donahue,L,0,6
+1922-11-30,Centre,Ind,Charley Moran,H,South Carolina,Southern,Sol Metzger,W,42,0
+1922-10-21,Navy,Ind,,H,Georgia Tech,Southern,William Alexander,W,13,0
+1922-10-28,Navy,Ind,,A,Pennsylvania,Ind,John Heisman,L,7,13
+1922-11-03,Navy,Ind,,H,Penn State,Ind,Hugo Bezdek,W,14,0
+1922-11-25,Navy,Ind,,N,Army,Ind,Charles Daly,L,14,17
+1922-09-30,Lafayette,Ind,Jock Sutherland,H,Richmond,Ind,Frank Dobson,W,34,0
+1922-10-07,Lafayette,Ind,Jock Sutherland,A,Pitt,Ind,Pop Warner,W,7,0
+1922-11-04,Lafayette,Ind,Jock Sutherland,N,Washington & Jefferson,Ind,Greasy Neale,L,13,14
+1922-11-11,Lafayette,Ind,Jock Sutherland,A,Rutgers,Ind,George Sanford,W,33,6
+1922-11-25,Lafayette,Ind,Jock Sutherland,H,Lehigh,Ind,James Baldwin,W,3,0
+1922-10-07,Tulane,Southern,Clark Shaughnessy,H,Mississippi College,Ind,Stanley Robinson,W,30,0
+1922-10-14,Tulane,Southern,Clark Shaughnessy,H,Spring Hill,Ind,,W,30,10
+1922-10-21,Tulane,Southern,Clark Shaughnessy,H,Fort Benning,Ind,,W,18,0
+1922-10-28,Tulane,Southern,Clark Shaughnessy,H,Mississippi State,Southern,Charles Noble,W,26,0
+1922-11-04,Tulane,Southern,Clark Shaughnessy,H,North Carolina,Southern,William Fetzer,L,12,19
+1922-11-11,Tulane,Southern,Clark Shaughnessy,A,Auburn,Southern,Mike Donahue,L,0,19
+1922-11-18,Tulane,Southern,Clark Shaughnessy,H,Florida,Southern,William Kline,L,6,27
+1922-11-30,Tulane,Southern,Clark Shaughnessy,A,LSU,Southern,Irving Pray,L,14,25
+1922-10-21,Cornell,Ind,Gilmour Dobie,H,Colgate,Ind,Dick Harlow,W,14,0
+1922-11-04,Cornell,Ind,Gilmour Dobie,H,Columbia,Ind,Buck O'Neill,W,56,0
+1922-11-11,Cornell,Ind,Gilmour Dobie,N,Dartmouth,Ind,Jack Cannell,W,23,0
+1922-11-30,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,John Heisman,W,9,0
+1922-10-21,Ohio State,Western,John Wilce,H,Michigan,Western,Fielding Yost,L,0,19
+1922-10-28,Ohio State,Western,John Wilce,A,Minnesota,Western,William Spaulding,L,0,9
+1922-11-11,Ohio State,Western,John Wilce,H,Chicago,Western,Amos Alonzo Stagg,L,9,14
+1922-11-18,Ohio State,Western,John Wilce,H,Iowa,Western,Howard Jones,L,9,12
+1922-11-25,Ohio State,Western,John Wilce,A,Illinois,Western,Robert Zuppke,W,6,3
+1922-10-14,Drake,MVIAA,Ossie Solem,H,Kansas,MVIAA,Potsy Clark,W,6,0
+1922-10-21,Drake,MVIAA,Ossie Solem,A,Washington (MO),MVIAA,George Rider,W,31,7
+1922-11-04,Drake,MVIAA,Ossie Solem,H,Iowa State,MVIAA,Sam Willaman,W,14,7
+1922-11-11,Drake,MVIAA,Ossie Solem,H,Colorado State,RMC,Harry Hughes,W,19,6
+1922-11-18,Drake,MVIAA,Ossie Solem,H,Grinnell,MVIAA,Mal Elward,W,21,0
+1922-11-25,Drake,MVIAA,Ossie Solem,A,Mississippi State,Southern,Charles Noble,W,48,6

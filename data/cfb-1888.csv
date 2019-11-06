@@ -1,0 +1,139 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1888-10-03,Trinity (CT),Ind,,H,Amherst,Ind,,W,16,0
+1888-10-10,Trinity (CT),Ind,,A,Amherst,Ind,,T,0,0
+1888-11-03,Trinity (CT),Ind,,A,Stevens,Ind,,W,6,0
+1888-11-17,Trinity (CT),Ind,,H,WPI,Ind,,W,8,4
+1888-11-29,Trinity (CT),Ind,,A,WPI,Ind,,L,0,6
+1888-09-29,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,76
+1888-10-06,Wesleyan (CT),Ind,,A,Amherst,Ind,,W,54,0
+1888-10-13,Wesleyan (CT),Ind,,H,Harvard,Ind,,L,0,34
+1888-10-16,Wesleyan (CT),Ind,,H,Yale,Ind,Walter Camp,L,0,46
+1888-11-06,Wesleyan (CT),Ind,,N,Princeton,Ind,,L,0,44
+1888-11-10,Wesleyan (CT),Ind,,A,Harvard,Ind,,L,2,50
+1888-11-17,Wesleyan (CT),Ind,,A,Yale,Ind,Walter Camp,L,0,105
+1888-11-24,Wesleyan (CT),Ind,,H,WPI,Ind,,W,24,4
+1888-11-27,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,E.O. Wagenhurst,L,6,18
+1888-10-27,Dartmouth,Ind,,A,Harvard,Ind,,L,0,74
+1888-11-10,Dartmouth,Ind,,H,Williams,Ind,,W,36,6
+1888-11-17,Dartmouth,Ind,,H,MIT,Ind,,W,30,0
+1888-11-19,Dartmouth,Ind,,A,Stevens,Ind,,L,0,30
+1888-11-29,Dartmouth,Ind,,A,Amherst,Ind,,W,40,0
+1888-10-03,Princeton,Ind,,H,Lehigh,Ind,,W,65,0
+1888-10-10,Princeton,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,W,63,0
+1888-10-13,Princeton,Ind,,H,Stevens,Ind,,W,80,0
+1888-10-20,Princeton,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,W,38,0
+1888-10-24,Princeton,Ind,,A,Rutgers,Ind,,W,80,0
+1888-10-27,Princeton,Ind,,H,Rutgers,Ind,,W,82,0
+1888-11-06,Princeton,Ind,,N,Wesleyan (CT),Ind,,W,44,0
+1888-11-10,Princeton,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,W,4,0
+1888-11-17,Princeton,Ind,,H,Harvard,Ind,,W,18,6
+1888-11-24,Princeton,Ind,,N,Yale,Ind,Walter Camp,L,0,10
+1888-10-06,Stevens,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,L,0,48
+1888-10-13,Stevens,Ind,,A,Princeton,Ind,,L,0,80
+1888-10-20,Stevens,Ind,,H,MIT,Ind,,L,12,18
+1888-10-27,Stevens,Ind,,A,Yale,Ind,Walter Camp,L,0,69
+1888-11-01,Stevens,Ind,,A,Rutgers,Ind,,T,18,18
+1888-11-03,Stevens,Ind,,H,Trinity (CT),Ind,,L,0,6
+1888-11-10,Stevens,Ind,,H,Lehigh,Ind,,L,0,10
+1888-11-17,Stevens,Ind,,H,Williams,Ind,,L,4,42
+1888-11-19,Stevens,Ind,,H,Dartmouth,Ind,,W,30,0
+1888-10-06,Rutgers,Ind,,A,Yale,Ind,Walter Camp,L,0,65
+1888-10-20,Rutgers,Ind,,H,Lafayette,Ind,,L,0,4
+1888-10-24,Rutgers,Ind,,H,Princeton,Ind,,L,0,80
+1888-10-27,Rutgers,Ind,,A,Princeton,Ind,,L,0,82
+1888-11-01,Rutgers,Ind,,H,Stevens,Ind,,T,18,18
+1888-11-02,Rutgers,Ind,,H,Williams,Ind,,L,0,42
+1888-11-07,Rutgers,Ind,,A,Lehigh,Ind,,L,0,30
+1888-10-06,Swarthmore,Ind,Jacob Shell,H,Lehigh,Ind,,L,8,12
+1888-10-13,Swarthmore,Ind,Jacob Shell,H,Lafayette,Ind,,L,0,18
+1888-10-17,Swarthmore,Ind,Jacob Shell,H,Pennsylvania,Ind,E.O. Wagenhurst,L,6,44
+1888-10-20,Swarthmore,Ind,Jacob Shell,A,Lehigh,Ind,,L,0,50
+1888-09-29,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,76,0
+1888-10-06,Yale,Ind,Walter Camp,H,Rutgers,Ind,,W,65,0
+1888-10-13,Yale,Ind,Walter Camp,A,Pennsylvania,Ind,E.O. Wagenhurst,W,34,0
+1888-10-16,Yale,Ind,Walter Camp,A,Wesleyan (CT),Ind,,W,46,0
+1888-10-19,Yale,Ind,Walter Camp,A,Amherst,Ind,,W,39,0
+1888-10-20,Yale,Ind,Walter Camp,A,Williams,Ind,,W,30,0
+1888-10-24,Yale,Ind,Walter Camp,N,MIT,Ind,,W,68,0
+1888-10-27,Yale,Ind,Walter Camp,H,Stevens,Ind,,W,69,0
+1888-11-03,Yale,Ind,Walter Camp,H,Pennsylvania,Ind,E.O. Wagenhurst,W,54,0
+1888-11-10,Yale,Ind,Walter Camp,H,Amherst,Ind,,W,70,0
+1888-11-17,Yale,Ind,Walter Camp,H,Wesleyan (CT),Ind,,W,105,0
+1888-11-24,Yale,Ind,Walter Camp,N,Princeton,Ind,,W,10,0
+1888-10-03,Lehigh,Ind,,A,Princeton,Ind,,L,0,65
+1888-10-06,Lehigh,Ind,,A,Swarthmore,Ind,Jacob Shell,W,12,8
+1888-10-20,Lehigh,Ind,,H,Swarthmore,Ind,Jacob Shell,W,50,0
+1888-10-24,Lehigh,Ind,,H,Bucknell,Ind,,W,74,0
+1888-10-27,Lehigh,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,L,0,36
+1888-11-07,Lehigh,Ind,,H,Rutgers,Ind,,W,30,0
+1888-11-10,Lehigh,Ind,,A,Stevens,Ind,,W,10,0
+1888-11-17,Lehigh,Ind,,A,Lafayette,Ind,,W,6,4
+1888-11-27,Lehigh,Ind,,H,Lafayette,Ind,,W,16,0
+1888-12-01,Lehigh,Ind,,H,Cornell,Ind,,W,4,0
+1888-10-06,Pennsylvania,Ind,E.O. Wagenhurst,H,Stevens,Ind,,W,48,0
+1888-10-10,Pennsylvania,Ind,E.O. Wagenhurst,A,Princeton,Ind,,L,0,63
+1888-10-13,Pennsylvania,Ind,E.O. Wagenhurst,H,Yale,Ind,Walter Camp,L,0,34
+1888-10-17,Pennsylvania,Ind,E.O. Wagenhurst,A,Swarthmore,Ind,Jacob Shell,W,44,6
+1888-10-20,Pennsylvania,Ind,E.O. Wagenhurst,A,Princeton,Ind,,L,0,38
+1888-10-27,Pennsylvania,Ind,E.O. Wagenhurst,A,Lehigh,Ind,,W,36,0
+1888-11-03,Pennsylvania,Ind,E.O. Wagenhurst,A,Yale,Ind,Walter Camp,L,0,54
+1888-11-07,Pennsylvania,Ind,E.O. Wagenhurst,H,Lafayette,Ind,,L,6,12
+1888-11-10,Pennsylvania,Ind,E.O. Wagenhurst,H,Princeton,Ind,,L,0,4
+1888-11-19,Pennsylvania,Ind,E.O. Wagenhurst,H,Harvard,Ind,,L,0,50
+1888-11-21,Pennsylvania,Ind,E.O. Wagenhurst,A,Lafayette,Ind,,W,50,0
+1888-11-27,Pennsylvania,Ind,E.O. Wagenhurst,N,Wesleyan (CT),Ind,,W,18,6
+1888-10-03,WPI,Ind,,H,Harvard,Ind,,L,0,70
+1888-10-24,WPI,Ind,,A,Harvard,Ind,,L,0,68
+1888-11-17,WPI,Ind,,A,Trinity (CT),Ind,,L,4,8
+1888-11-24,WPI,Ind,,A,Wesleyan (CT),Ind,,L,4,24
+1888-11-29,WPI,Ind,,H,Trinity (CT),Ind,,W,6,0
+1888-10-03,Harvard,Ind,,A,WPI,Ind,,W,70,0
+1888-10-06,Harvard,Ind,,H,MIT,Ind,,W,18,0
+1888-10-13,Harvard,Ind,,A,Wesleyan (CT),Ind,,W,34,0
+1888-10-17,Harvard,Ind,,A,Williams,Ind,,W,14,6
+1888-10-24,Harvard,Ind,,H,WPI,Ind,,W,68,0
+1888-10-27,Harvard,Ind,,H,Dartmouth,Ind,,W,74,0
+1888-10-31,Harvard,Ind,,H,MIT,Ind,,W,42,0
+1888-11-03,Harvard,Ind,,H,Amherst,Ind,,W,102,0
+1888-11-10,Harvard,Ind,,H,Wesleyan (CT),Ind,,W,50,2
+1888-11-17,Harvard,Ind,,A,Princeton,Ind,,L,6,18
+1888-11-19,Harvard,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,W,50,0
+1888-10-13,Williams,Ind,,H,Amherst,Ind,,W,53,0
+1888-10-17,Williams,Ind,,H,Harvard,Ind,,L,6,14
+1888-10-20,Williams,Ind,,H,Yale,Ind,Walter Camp,L,0,30
+1888-10-27,Williams,Ind,,A,Cornell,Ind,,L,0,20
+1888-11-02,Williams,Ind,,A,Rutgers,Ind,,W,42,0
+1888-11-10,Williams,Ind,,A,Dartmouth,Ind,,L,6,36
+1888-11-17,Williams,Ind,,A,Stevens,Ind,,W,42,4
+1888-11-24,Williams,Ind,,H,MIT,Ind,,W,22,0
+1888-10-03,Amherst,Ind,,A,Trinity (CT),Ind,,L,0,16
+1888-10-06,Amherst,Ind,,H,Wesleyan (CT),Ind,,L,0,54
+1888-10-10,Amherst,Ind,,H,Trinity (CT),Ind,,T,0,0
+1888-10-13,Amherst,Ind,,A,Williams,Ind,,L,0,53
+1888-10-19,Amherst,Ind,,H,Yale,Ind,Walter Camp,L,0,39
+1888-10-27,Amherst,Ind,,A,MIT,Ind,,L,0,48
+1888-11-03,Amherst,Ind,,A,Harvard,Ind,,L,0,102
+1888-11-10,Amherst,Ind,,A,Yale,Ind,Walter Camp,L,0,70
+1888-11-29,Amherst,Ind,,H,Dartmouth,Ind,,L,0,40
+1888-10-10,Lafayette,Ind,,H,Bucknell,Ind,,W,54,0
+1888-10-13,Lafayette,Ind,,A,Swarthmore,Ind,Jacob Shell,W,18,0
+1888-10-20,Lafayette,Ind,,A,Rutgers,Ind,,W,4,0
+1888-11-07,Lafayette,Ind,,A,Pennsylvania,Ind,E.O. Wagenhurst,W,12,6
+1888-11-10,Lafayette,Ind,,A,Cornell,Ind,,W,16,0
+1888-11-17,Lafayette,Ind,,H,Lehigh,Ind,,L,4,6
+1888-11-21,Lafayette,Ind,,H,Pennsylvania,Ind,E.O. Wagenhurst,L,0,50
+1888-11-27,Lafayette,Ind,,A,Lehigh,Ind,,L,0,16
+1888-10-27,Cornell,Ind,,H,Williams,Ind,,W,20,0
+1888-11-10,Cornell,Ind,,H,Lafayette,Ind,,L,0,16
+1888-11-17,Cornell,Ind,,H,Bucknell,Ind,,W,20,0
+1888-12-01,Cornell,Ind,,A,Lehigh,Ind,,L,0,4
+1888-10-06,MIT,Ind,,A,Harvard,Ind,,L,0,18
+1888-10-20,MIT,Ind,,A,Stevens,Ind,,W,18,12
+1888-10-24,MIT,Ind,,N,Yale,Ind,Walter Camp,L,0,68
+1888-10-27,MIT,Ind,,H,Amherst,Ind,,W,48,0
+1888-10-31,MIT,Ind,,A,Harvard,Ind,,L,0,42
+1888-11-17,MIT,Ind,,A,Dartmouth,Ind,,L,0,30
+1888-11-24,MIT,Ind,,A,Williams,Ind,,L,0,22
+1888-10-10,Bucknell,Ind,,A,Lafayette,Ind,,L,0,54
+1888-10-24,Bucknell,Ind,,A,Lehigh,Ind,,L,0,74
+1888-11-17,Bucknell,Ind,,A,Cornell,Ind,,L,0,20

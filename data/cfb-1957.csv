@@ -1,0 +1,1005 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1957-09-21,North Carolina,ACC,Jim Tatum,H,North Carolina State,ACC,Earle Edwards,L,0,7
+1957-09-28,North Carolina,ACC,Jim Tatum,H,Clemson,ACC,Frank Howard,W,26,0
+1957-10-05,North Carolina,ACC,Jim Tatum,H,Navy,Ind,Eddie Erdelatz,W,13,7
+1957-10-11,North Carolina,ACC,Jim Tatum,A,Miami (FL),Ind,Andy Gustafson,W,20,13
+1957-10-19,North Carolina,ACC,Jim Tatum,A,Maryland,ACC,Tommy Mont,L,7,21
+1957-10-26,North Carolina,ACC,Jim Tatum,A,Wake Forest,ACC,Paul Amen,W,14,7
+1957-11-02,North Carolina,ACC,Jim Tatum,H,Tennessee,SEC,Bowden Wyatt,L,0,35
+1957-11-09,North Carolina,ACC,Jim Tatum,H,South Carolina,ACC,Warren Giese,W,28,6
+1957-11-23,North Carolina,ACC,Jim Tatum,A,Duke,ACC,Bill Murray,W,21,13
+1957-11-30,North Carolina,ACC,Jim Tatum,H,Virginia,ACC,Ben Martin,L,13,20
+1957-09-28,Indiana,Big Ten,Bob Hicks,A,Michigan State,Big Ten,Duffy Daugherty,L,0,54
+1957-10-05,Indiana,Big Ten,Bob Hicks,A,Notre Dame,Ind,Terry Brennan,L,0,26
+1957-10-12,Indiana,Big Ten,Bob Hicks,H,Iowa,Big Ten,Forest Evashevski,L,7,47
+1957-10-19,Indiana,Big Ten,Bob Hicks,A,Ohio State,Big Ten,Woody Hayes,L,0,56
+1957-10-26,Indiana,Big Ten,Bob Hicks,H,Villanova,Ind,Francis Reagan,W,14,7
+1957-11-02,Indiana,Big Ten,Bob Hicks,A,Minnesota,Big Ten,Murray Warmath,L,0,34
+1957-11-09,Indiana,Big Ten,Bob Hicks,H,Cincinnati,MVC,George Blackburn,L,0,21
+1957-11-16,Indiana,Big Ten,Bob Hicks,A,Michigan,Big Ten,Bennie Oosterbaan,L,13,27
+1957-11-23,Indiana,Big Ten,Bob Hicks,H,Purdue,Big Ten,Jack Mollenkopf,L,13,35
+1957-09-21,Florida State,Ind,Thomas Nugent,H,Furman,Southern,Homer Hobbs,W,27,7
+1957-09-28,Florida State,Ind,Thomas Nugent,A,Boston College,Ind,Mike Holovak,L,7,20
+1957-10-05,Florida State,Ind,Thomas Nugent,A,Villanova,Ind,Francis Reagan,L,7,21
+1957-10-12,Florida State,Ind,Thomas Nugent,H,North Carolina State,ACC,Earle Edwards,L,0,7
+1957-10-26,Florida State,Ind,Thomas Nugent,H,Virginia Tech,Southern,Frank Moseley,W,20,7
+1957-11-08,Florida State,Ind,Thomas Nugent,H,Miami (FL),Ind,Andy Gustafson,L,13,40
+1957-11-23,Florida State,Ind,Thomas Nugent,H,Auburn,SEC,Ralph Jordan,L,7,29
+1957-09-21,Iowa State,Big 7,Jim Myers,H,Denver,Skyline,John Roning,W,10,0
+1957-09-28,Iowa State,Big 7,Jim Myers,A,Syracuse,Ind,Ben Schwartzwalder,T,7,7
+1957-10-05,Iowa State,Big 7,Jim Myers,A,Oklahoma,Big 7,Bud Wilkinson,L,14,40
+1957-10-12,Iowa State,Big 7,Jim Myers,A,Kansas,Big 7,Chuck Mather,W,21,6
+1957-10-19,Iowa State,Big 7,Jim Myers,H,Missouri,Big 7,Frank Broyles,L,13,35
+1957-10-26,Iowa State,Big 7,Jim Myers,H,Kansas State,Big 7,Bernard Mertes,L,10,14
+1957-11-02,Iowa State,Big 7,Jim Myers,A,Drake,Ind,Warren Gaer,L,0,20
+1957-11-09,Iowa State,Big 7,Jim Myers,H,Nebraska,Big 7,William Jennings,W,13,0
+1957-11-23,Iowa State,Big 7,Jim Myers,A,Colorado,Big 7,Dallas Ward,L,21,38
+1957-09-21,Cincinnati,MVC,George Blackburn,H,Dayton,Ind,William Kerr,T,13,13
+1957-09-28,Cincinnati,MVC,George Blackburn,A,Wichita State,MVC,Woody Woodard,W,19,13
+1957-10-05,Cincinnati,MVC,George Blackburn,H,Houston,MVC,Hal Lahar,L,0,7
+1957-10-19,Cincinnati,MVC,George Blackburn,H,Marquette,Ind,Johnny Druze,W,14,0
+1957-10-26,Cincinnati,MVC,George Blackburn,H,Pacific,Ind,Moose Myers,W,7,2
+1957-11-02,Cincinnati,MVC,George Blackburn,H,Detroit Mercy,Ind,Wally Fromhart,L,12,20
+1957-11-09,Cincinnati,MVC,George Blackburn,A,Indiana,Big Ten,Bob Hicks,W,21,0
+1957-11-16,Cincinnati,MVC,George Blackburn,A,Tulsa,MVC,Robert Dobbs,L,7,12
+1957-09-21,Arizona State,BIAA,Dan Devine,A,Wichita State,MVC,Woody Woodard,W,28,0
+1957-09-28,Arizona State,BIAA,Dan Devine,H,Idaho,PCC,Skip Stahley,W,19,7
+1957-10-05,Arizona State,BIAA,Dan Devine,A,San Jose State,Ind,Robert Titchenal,W,44,6
+1957-10-12,Arizona State,BIAA,Dan Devine,H,Hardin-Simmons,BIAA,Sammy Baugh,W,35,26
+1957-11-02,Arizona State,BIAA,Dan Devine,H,New Mexico State,BIAA,Tony Cavallo,W,21,0
+1957-11-09,Arizona State,BIAA,Dan Devine,A,UTEP,BIAA,Ben Collins,W,43,7
+1957-11-23,Arizona State,BIAA,Dan Devine,H,Pacific,Ind,Moose Myers,W,41,0
+1957-11-30,Arizona State,BIAA,Dan Devine,H,Arizona,BIAA,Edward Doherty,W,47,7
+1957-09-21,Furman,Southern,Homer Hobbs,A,Florida State,Ind,Thomas Nugent,L,7,27
+1957-09-28,Furman,Southern,Homer Hobbs,A,Villanova,Ind,Francis Reagan,L,0,20
+1957-10-05,Furman,Southern,Homer Hobbs,H,George Washington,Southern,Bo Sherman,W,13,12
+1957-10-12,Furman,Southern,Homer Hobbs,A,South Carolina,ACC,Warren Giese,L,13,58
+1957-10-26,Furman,Southern,Homer Hobbs,A,Citadel,Southern,Eddie Teague,L,14,18
+1957-11-22,Furman,Southern,Homer Hobbs,H,Davidson,Southern,,W,6,2
+1957-11-30,Furman,Southern,Homer Hobbs,H,Clemson,ACC,Frank Howard,L,6,45
+1957-09-21,Utah,Skyline,Jack Curtice,H,Montana,Skyline,Jerry Williams,W,32,13
+1957-09-28,Utah,Skyline,Jack Curtice,A,Colorado,Big 7,Dallas Ward,L,24,30
+1957-10-05,Utah,Skyline,Jack Curtice,A,Idaho,PCC,Skip Stahley,L,6,21
+1957-10-12,Utah,Skyline,Jack Curtice,H,Brigham Young,Skyline,Harold Kopp,W,27,0
+1957-10-19,Utah,Skyline,Jack Curtice,A,Denver,Skyline,John Roning,L,7,12
+1957-10-26,Utah,Skyline,Jack Curtice,H,Wyoming,Skyline,Bob Devaney,W,23,15
+1957-11-03,Utah,Skyline,Jack Curtice,H,Colorado State,Skyline,Tuffy Mullison,W,55,0
+1957-11-09,Utah,Skyline,Jack Curtice,A,Army,Ind,Red Blaik,L,33,39
+1957-11-16,Utah,Skyline,Jack Curtice,H,Air Force,Ind,Buck Shaw,W,34,0
+1957-11-28,Utah,Skyline,Jack Curtice,H,Utah State,Skyline,Everett Faunce,W,21,6
+1957-09-21,Wichita State,MVC,Woody Woodard,H,Arizona State,BIAA,Dan Devine,L,0,28
+1957-09-28,Wichita State,MVC,Woody Woodard,H,Cincinnati,MVC,George Blackburn,L,13,19
+1957-10-05,Wichita State,MVC,Woody Woodard,A,Oklahoma State,Ind,Cliff Speegle,L,0,26
+1957-10-12,Wichita State,MVC,Woody Woodard,H,Detroit Mercy,Ind,Wally Fromhart,L,0,28
+1957-10-19,Wichita State,MVC,Woody Woodard,A,Hardin-Simmons,BIAA,Sammy Baugh,L,14,27
+1957-11-02,Wichita State,MVC,Woody Woodard,H,Dayton,Ind,William Kerr,L,13,40
+1957-11-09,Wichita State,MVC,Woody Woodard,H,Drake,Ind,Warren Gaer,W,14,7
+1957-11-16,Wichita State,MVC,Woody Woodard,H,Houston,MVC,Hal Lahar,L,6,27
+1957-11-23,Wichita State,MVC,Woody Woodard,A,Villanova,Ind,Francis Reagan,L,6,24
+1957-11-30,Wichita State,MVC,Woody Woodard,H,Tulsa,MVC,Robert Dobbs,L,0,24
+1957-09-21,Villanova,Ind,Francis Reagan,A,Baylor,SWC,Sam Boyd,L,0,7
+1957-09-28,Villanova,Ind,Francis Reagan,H,Furman,Southern,Homer Hobbs,W,20,0
+1957-10-05,Villanova,Ind,Francis Reagan,H,Florida State,Ind,Thomas Nugent,W,21,7
+1957-10-12,Villanova,Ind,Francis Reagan,A,Virginia Tech,Southern,Frank Moseley,L,14,21
+1957-10-19,Villanova,Ind,Francis Reagan,A,Boston College,Ind,Mike Holovak,L,9,12
+1957-10-26,Villanova,Ind,Francis Reagan,A,Indiana,Big Ten,Bob Hicks,L,7,14
+1957-11-01,Villanova,Ind,Francis Reagan,A,Miami (FL),Ind,Andy Gustafson,L,7,13
+1957-11-09,Villanova,Ind,Francis Reagan,A,Detroit Mercy,Ind,Wally Fromhart,L,7,16
+1957-11-23,Villanova,Ind,Francis Reagan,H,Wichita State,MVC,Woody Woodard,W,24,6
+1957-09-28,Syracuse,Ind,Ben Schwartzwalder,H,Iowa State,Big 7,Jim Myers,T,7,7
+1957-10-05,Syracuse,Ind,Ben Schwartzwalder,H,Boston University,Ind,Steve Sinko,W,27,20
+1957-10-12,Syracuse,Ind,Ben Schwartzwalder,A,Cornell,Ivy,George James,W,34,0
+1957-10-19,Syracuse,Ind,Ben Schwartzwalder,A,Nebraska,Big 7,William Jennings,W,26,9
+1957-10-26,Syracuse,Ind,Ben Schwartzwalder,H,Penn State,Ind,Rip Engle,L,12,20
+1957-11-02,Syracuse,Ind,Ben Schwartzwalder,A,Pitt,Ind,John Michelosen,W,24,21
+1957-11-09,Syracuse,Ind,Ben Schwartzwalder,H,Holy Cross,Ind,Edward Anderson,L,19,20
+1957-11-16,Syracuse,Ind,Ben Schwartzwalder,H,Colgate,Ind,Fred Rice,W,34,6
+1957-11-23,Syracuse,Ind,Ben Schwartzwalder,A,West Virginia,Southern,Art Lewis,L,0,7
+1957-09-21,Arizona,BIAA,Edward Doherty,H,Brigham Young,Skyline,Harold Kopp,T,14,14
+1957-09-28,Arizona,BIAA,Edward Doherty,A,Missouri,Big 7,Frank Broyles,L,13,35
+1957-10-12,Arizona,BIAA,Edward Doherty,A,Colorado,Big 7,Dallas Ward,L,14,34
+1957-10-19,Arizona,BIAA,Edward Doherty,H,New Mexico,Skyline,Dick Clausen,L,0,27
+1957-10-26,Arizona,BIAA,Edward Doherty,H,Texas Tech,Ind,DeWitt Weaver,L,6,28
+1957-11-02,Arizona,BIAA,Edward Doherty,H,West Texas A&M,BIAA,Frank Kimbrough,L,20,21
+1957-11-09,Arizona,BIAA,Edward Doherty,H,Hardin-Simmons,BIAA,Sammy Baugh,L,20,28
+1957-11-16,Arizona,BIAA,Edward Doherty,H,UTEP,BIAA,Ben Collins,L,14,51
+1957-11-23,Arizona,BIAA,Edward Doherty,H,Marquette,Ind,Johnny Druze,W,17,14
+1957-11-30,Arizona,BIAA,Edward Doherty,A,Arizona State,BIAA,Dan Devine,L,7,47
+1957-09-21,Montana,Skyline,Jerry Williams,A,Utah,Skyline,Jack Curtice,L,13,32
+1957-09-28,Montana,Skyline,Jerry Williams,N,Wyoming,Skyline,Bob Devaney,L,0,20
+1957-10-04,Montana,Skyline,Jerry Williams,A,Brigham Young,Skyline,Harold Kopp,L,7,20
+1957-10-12,Montana,Skyline,Jerry Williams,H,Denver,Skyline,John Roning,L,13,26
+1957-10-19,Montana,Skyline,Jerry Williams,A,Utah State,Skyline,Everett Faunce,W,35,25
+1957-10-26,Montana,Skyline,Jerry Williams,H,New Mexico,Skyline,Dick Clausen,W,21,6
+1957-11-02,Montana,Skyline,Jerry Williams,A,Idaho,PCC,Skip Stahley,L,13,31
+1957-11-16,Montana,Skyline,Jerry Williams,H,Colorado State,Skyline,Tuffy Mullison,L,7,19
+1957-09-28,Penn State,Ind,Rip Engle,A,Pennsylvania,Ivy,Steve Sebo,W,19,14
+1957-10-05,Penn State,Ind,Rip Engle,H,Army,Ind,Red Blaik,L,13,27
+1957-10-12,Penn State,Ind,Rip Engle,H,William & Mary,Southern,Milt Drewer,W,21,13
+1957-10-19,Penn State,Ind,Rip Engle,H,Vanderbilt,SEC,Arthur Guepe,L,20,32
+1957-10-26,Penn State,Ind,Rip Engle,A,Syracuse,Ind,Ben Schwartzwalder,W,20,12
+1957-11-02,Penn State,Ind,Rip Engle,H,West Virginia,Southern,Art Lewis,W,27,6
+1957-11-09,Penn State,Ind,Rip Engle,A,Marquette,Ind,Johnny Druze,W,20,7
+1957-11-16,Penn State,Ind,Rip Engle,A,Holy Cross,Ind,Edward Anderson,W,14,10
+1957-11-23,Penn State,Ind,Rip Engle,A,Pitt,Ind,John Michelosen,L,13,14
+1957-09-28,Princeton,Ivy,Richard Colman,H,Rutgers,Ind,John Stiegman,W,7,0
+1957-10-05,Princeton,Ivy,Richard Colman,A,Columbia,Ivy,Aldo Donelli,W,47,6
+1957-10-12,Princeton,Ivy,Richard Colman,H,Pennsylvania,Ivy,Steve Sebo,W,13,9
+1957-10-19,Princeton,Ivy,Richard Colman,H,Colgate,Ind,Fred Rice,L,10,12
+1957-10-26,Princeton,Ivy,Richard Colman,H,Cornell,Ivy,George James,W,47,14
+1957-11-02,Princeton,Ivy,Richard Colman,A,Brown,Ivy,Alva Kelley,W,7,0
+1957-11-09,Princeton,Ivy,Richard Colman,A,Harvard,Ivy,John Yovicsin,W,28,20
+1957-11-16,Princeton,Ivy,Richard Colman,H,Yale,Ivy,Jordan Olivar,L,13,20
+1957-11-23,Princeton,Ivy,Richard Colman,H,Dartmouth,Ivy,Bob Blackman,W,34,14
+1957-09-21,Vanderbilt,SEC,Arthur Guepe,H,Missouri,Big 7,Frank Broyles,T,7,7
+1957-09-28,Vanderbilt,SEC,Arthur Guepe,A,Georgia,SEC,Wallace Butts,W,9,6
+1957-10-05,Vanderbilt,SEC,Arthur Guepe,H,Alabama,SEC,Jennings Whitworth,T,6,6
+1957-10-12,Vanderbilt,SEC,Arthur Guepe,H,Ole Miss,SEC,John Vaught,L,0,28
+1957-10-19,Vanderbilt,SEC,Arthur Guepe,A,Penn State,Ind,Rip Engle,W,32,20
+1957-11-02,Vanderbilt,SEC,Arthur Guepe,H,LSU,SEC,Paul Dietzel,W,7,0
+1957-11-09,Vanderbilt,SEC,Arthur Guepe,H,Kentucky,SEC,Blanton Collier,W,12,7
+1957-11-16,Vanderbilt,SEC,Arthur Guepe,A,Florida,SEC,Bob Woodruff,L,7,14
+1957-11-23,Vanderbilt,SEC,Arthur Guepe,H,Citadel,Southern,Eddie Teague,W,27,0
+1957-11-30,Vanderbilt,SEC,Arthur Guepe,A,Tennessee,SEC,Bowden Wyatt,L,6,20
+1957-09-21,Kentucky,SEC,Blanton Collier,A,Georgia Tech,SEC,Bobby Dodd,L,0,13
+1957-09-28,Kentucky,SEC,Blanton Collier,H,Ole Miss,SEC,John Vaught,L,0,15
+1957-10-05,Kentucky,SEC,Blanton Collier,H,Florida,SEC,Bob Woodruff,L,7,14
+1957-10-12,Kentucky,SEC,Blanton Collier,A,Auburn,SEC,Ralph Jordan,L,0,6
+1957-10-19,Kentucky,SEC,Blanton Collier,A,LSU,SEC,Paul Dietzel,L,0,21
+1957-10-26,Kentucky,SEC,Blanton Collier,H,Georgia,SEC,Wallace Butts,L,14,33
+1957-11-09,Kentucky,SEC,Blanton Collier,A,Vanderbilt,SEC,Arthur Guepe,L,7,12
+1957-11-23,Kentucky,SEC,Blanton Collier,H,Tennessee,SEC,Bowden Wyatt,W,20,6
+1957-09-21,California,PCC,Pete Elliott,H,SMU,SWC,Bill Meek,L,6,13
+1957-09-28,California,PCC,Pete Elliott,A,Washington State,PCC,Jim Sutherland,L,7,13
+1957-10-05,California,PCC,Pete Elliott,H,Michigan State,Big Ten,Duffy Daugherty,L,0,19
+1957-10-12,California,PCC,Pete Elliott,H,Navy,Ind,Eddie Erdelatz,L,6,21
+1957-10-19,California,PCC,Pete Elliott,H,USC,PCC,Don Clark,W,12,0
+1957-10-26,California,PCC,Pete Elliott,A,Oregon,PCC,Len Casanova,L,6,24
+1957-11-02,California,PCC,Pete Elliott,A,UCLA,PCC,Red Sanders,L,14,16
+1957-11-09,California,PCC,Pete Elliott,H,Oregon State,PCC,Tommy Prothro,L,19,21
+1957-11-16,California,PCC,Pete Elliott,H,Washington,PCC,Jim Owens,L,27,35
+1957-11-23,California,PCC,Pete Elliott,A,Stanford,PCC,Chuck Taylor,L,12,14
+1957-09-28,Florida,SEC,Bob Woodruff,H,Wake Forest,ACC,Paul Amen,W,27,0
+1957-10-05,Florida,SEC,Bob Woodruff,A,Kentucky,SEC,Blanton Collier,W,14,7
+1957-10-19,Florida,SEC,Bob Woodruff,H,Mississippi State,SEC,Wade Walker,L,20,29
+1957-10-26,Florida,SEC,Bob Woodruff,H,LSU,SEC,Paul Dietzel,W,22,14
+1957-11-02,Florida,SEC,Bob Woodruff,A,Auburn,SEC,Ralph Jordan,L,0,13
+1957-11-09,Florida,SEC,Bob Woodruff,N,Georgia,SEC,Wallace Butts,W,22,0
+1957-11-16,Florida,SEC,Bob Woodruff,H,Vanderbilt,SEC,Arthur Guepe,W,14,7
+1957-11-23,Florida,SEC,Bob Woodruff,A,Georgia Tech,SEC,Bobby Dodd,T,0,0
+1957-11-30,Florida,SEC,Bob Woodruff,A,Miami (FL),Ind,Andy Gustafson,W,14,0
+1957-10-05,Boston University,Ind,Steve Sinko,A,Syracuse,Ind,Ben Schwartzwalder,L,20,27
+1957-10-12,Boston University,Ind,Steve Sinko,H,West Virginia,Southern,Art Lewis,L,6,46
+1957-10-26,Boston University,Ind,Steve Sinko,H,Holy Cross,Ind,Edward Anderson,W,35,28
+1957-11-01,Boston University,Ind,Steve Sinko,A,George Washington,Southern,Bo Sherman,W,7,0
+1957-11-09,Boston University,Ind,Steve Sinko,H,Boston College,Ind,Mike Holovak,L,2,27
+1957-09-21,Stanford,PCC,Chuck Taylor,H,San Jose State,Ind,Robert Titchenal,W,46,7
+1957-09-28,Stanford,PCC,Chuck Taylor,H,Northwestern,Big Ten,Ara Parseghian,W,26,6
+1957-10-05,Stanford,PCC,Chuck Taylor,A,Rice,SWC,Jess Neely,L,7,34
+1957-10-12,Stanford,PCC,Chuck Taylor,H,Washington State,PCC,Jim Sutherland,L,18,21
+1957-10-19,Stanford,PCC,Chuck Taylor,A,Washington,PCC,Jim Owens,W,21,14
+1957-10-26,Stanford,PCC,Chuck Taylor,H,UCLA,PCC,Red Sanders,W,20,6
+1957-11-02,Stanford,PCC,Chuck Taylor,H,Oregon,PCC,Len Casanova,L,26,27
+1957-11-09,Stanford,PCC,Chuck Taylor,A,USC,PCC,Don Clark,W,35,7
+1957-11-16,Stanford,PCC,Chuck Taylor,A,Oregon State,PCC,Tommy Prothro,L,14,24
+1957-11-23,Stanford,PCC,Chuck Taylor,H,California,PCC,Pete Elliott,W,14,12
+1957-09-21,Washington State,PCC,Jim Sutherland,A,Nebraska,Big 7,William Jennings,W,34,12
+1957-09-28,Washington State,PCC,Jim Sutherland,H,California,PCC,Pete Elliott,W,13,7
+1957-10-05,Washington State,PCC,Jim Sutherland,A,Iowa,Big Ten,Forest Evashevski,L,13,20
+1957-10-12,Washington State,PCC,Jim Sutherland,A,Stanford,PCC,Chuck Taylor,W,21,18
+1957-10-19,Washington State,PCC,Jim Sutherland,H,Oregon,PCC,Len Casanova,L,13,14
+1957-10-26,Washington State,PCC,Jim Sutherland,A,USC,PCC,Don Clark,W,13,12
+1957-11-02,Washington State,PCC,Jim Sutherland,A,Oregon State,PCC,Tommy Prothro,L,25,39
+1957-11-09,Washington State,PCC,Jim Sutherland,H,UCLA,PCC,Red Sanders,L,13,19
+1957-11-16,Washington State,PCC,Jim Sutherland,H,Idaho,PCC,Skip Stahley,W,21,13
+1957-11-23,Washington State,PCC,Jim Sutherland,A,Washington,PCC,Jim Owens,W,27,7
+1957-09-27,Illinois,Big Ten,Ray Eliot,A,UCLA,PCC,Red Sanders,L,6,16
+1957-10-05,Illinois,Big Ten,Ray Eliot,H,Colgate,Ind,Fred Rice,W,40,0
+1957-10-12,Illinois,Big Ten,Ray Eliot,A,Ohio State,Big Ten,Woody Hayes,L,7,21
+1957-10-19,Illinois,Big Ten,Ray Eliot,H,Minnesota,Big Ten,Murray Warmath,W,34,13
+1957-10-26,Illinois,Big Ten,Ray Eliot,A,Michigan State,Big Ten,Duffy Daugherty,L,14,19
+1957-11-02,Illinois,Big Ten,Ray Eliot,H,Purdue,Big Ten,Jack Mollenkopf,L,6,21
+1957-11-09,Illinois,Big Ten,Ray Eliot,H,Michigan,Big Ten,Bennie Oosterbaan,W,20,19
+1957-11-16,Illinois,Big Ten,Ray Eliot,A,Wisconsin,Big Ten,Milt Bruhn,L,13,24
+1957-11-23,Illinois,Big Ten,Ray Eliot,H,Northwestern,Big Ten,Ara Parseghian,W,27,0
+1957-09-21,Baylor,SWC,Sam Boyd,H,Villanova,Ind,Francis Reagan,W,7,0
+1957-09-28,Baylor,SWC,Sam Boyd,H,Houston,MVC,Hal Lahar,W,14,6
+1957-10-05,Baylor,SWC,Sam Boyd,A,Miami (FL),Ind,Andy Gustafson,L,7,13
+1957-10-12,Baylor,SWC,Sam Boyd,H,Arkansas,SWC,Jack Mitchell,L,17,20
+1957-10-19,Baylor,SWC,Sam Boyd,A,Texas Tech,Ind,DeWitt Weaver,W,15,12
+1957-10-26,Baylor,SWC,Sam Boyd,A,Texas A&M,SWC,Bear Bryant,L,0,14
+1957-11-02,Baylor,SWC,Sam Boyd,H,Texas Christian,SWC,Abe Martin,L,6,19
+1957-11-09,Baylor,SWC,Sam Boyd,A,Texas,SWC,Darrell Royal,T,7,7
+1957-11-23,Baylor,SWC,Sam Boyd,H,SMU,SWC,Bill Meek,L,7,14
+1957-11-30,Baylor,SWC,Sam Boyd,A,Rice,SWC,Jess Neely,L,0,20
+1957-09-21,SMU,SWC,Bill Meek,A,California,PCC,Pete Elliott,W,13,6
+1957-09-28,SMU,SWC,Bill Meek,A,Georgia Tech,SEC,Bobby Dodd,T,0,0
+1957-10-11,SMU,SWC,Bill Meek,H,Missouri,Big 7,Frank Broyles,L,6,7
+1957-10-19,SMU,SWC,Bill Meek,H,Rice,SWC,Jess Neely,L,21,27
+1957-11-02,SMU,SWC,Bill Meek,H,Texas,SWC,Darrell Royal,W,19,12
+1957-11-09,SMU,SWC,Bill Meek,A,Texas A&M,SWC,Bear Bryant,L,6,19
+1957-11-16,SMU,SWC,Bill Meek,H,Arkansas,SWC,Jack Mitchell,W,27,22
+1957-11-23,SMU,SWC,Bill Meek,A,Baylor,SWC,Sam Boyd,W,14,7
+1957-11-30,SMU,SWC,Bill Meek,A,Texas Christian,SWC,Abe Martin,L,0,21
+1957-12-07,SMU,SWC,Bill Meek,H,Notre Dame,Ind,Terry Brennan,L,21,54
+1957-09-21,Georgia,SEC,Wallace Butts,H,Texas,SWC,Darrell Royal,L,7,26
+1957-09-28,Georgia,SEC,Wallace Butts,H,Vanderbilt,SEC,Arthur Guepe,L,6,9
+1957-10-05,Georgia,SEC,Wallace Butts,A,Michigan,Big Ten,Bennie Oosterbaan,L,0,26
+1957-10-11,Georgia,SEC,Wallace Butts,A,Tulane,SEC,Andy Pilney,W,13,6
+1957-10-19,Georgia,SEC,Wallace Butts,A,Navy,Ind,Eddie Erdelatz,L,14,27
+1957-10-26,Georgia,SEC,Wallace Butts,A,Kentucky,SEC,Blanton Collier,W,33,14
+1957-11-02,Georgia,SEC,Wallace Butts,H,Alabama,SEC,Jennings Whitworth,L,13,14
+1957-11-09,Georgia,SEC,Wallace Butts,N,Florida,SEC,Bob Woodruff,L,0,22
+1957-11-16,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Ralph Jordan,L,0,6
+1957-11-30,Georgia,SEC,Wallace Butts,A,Georgia Tech,SEC,Bobby Dodd,W,7,0
+1957-09-21,Maryland,ACC,Tommy Mont,A,Texas A&M,SWC,Bear Bryant,L,13,21
+1957-09-28,Maryland,ACC,Tommy Mont,H,North Carolina State,ACC,Earle Edwards,L,13,48
+1957-10-05,Maryland,ACC,Tommy Mont,A,Duke,ACC,Bill Murray,L,0,14
+1957-10-12,Maryland,ACC,Tommy Mont,H,Wake Forest,ACC,Paul Amen,W,27,0
+1957-10-19,Maryland,ACC,Tommy Mont,H,North Carolina,ACC,Jim Tatum,W,21,7
+1957-10-26,Maryland,ACC,Tommy Mont,H,Tennessee,SEC,Bowden Wyatt,L,0,16
+1957-11-02,Maryland,ACC,Tommy Mont,A,South Carolina,ACC,Warren Giese,W,10,6
+1957-11-09,Maryland,ACC,Tommy Mont,A,Clemson,ACC,Frank Howard,L,7,26
+1957-11-15,Maryland,ACC,Tommy Mont,A,Miami (FL),Ind,Andy Gustafson,W,16,6
+1957-11-23,Maryland,ACC,Tommy Mont,H,Virginia,ACC,Ben Martin,W,12,0
+1957-09-21,Virginia,ACC,Ben Martin,A,West Virginia,Southern,Art Lewis,T,6,6
+1957-09-28,Virginia,ACC,Ben Martin,A,Duke,ACC,Bill Murray,L,0,40
+1957-10-05,Virginia,ACC,Ben Martin,A,Wake Forest,ACC,Paul Amen,W,28,20
+1957-10-12,Virginia,ACC,Ben Martin,H,Clemson,ACC,Frank Howard,L,6,20
+1957-10-19,Virginia,ACC,Ben Martin,N,Virginia Tech,Southern,Frank Moseley,W,38,7
+1957-10-26,Virginia,ACC,Ben Martin,H,Army,Ind,Red Blaik,L,12,20
+1957-11-02,Virginia,ACC,Ben Martin,H,Virginia Military Institute,Southern,John McKenna,L,7,20
+1957-11-16,Virginia,ACC,Ben Martin,H,South Carolina,ACC,Warren Giese,L,0,13
+1957-11-23,Virginia,ACC,Ben Martin,A,Maryland,ACC,Tommy Mont,L,0,12
+1957-11-30,Virginia,ACC,Ben Martin,A,North Carolina,ACC,Jim Tatum,W,20,13
+1957-09-21,Idaho,PCC,Skip Stahley,H,Oregon,PCC,Len Casanova,L,6,9
+1957-09-28,Idaho,PCC,Skip Stahley,A,Arizona State,BIAA,Dan Devine,L,7,19
+1957-10-05,Idaho,PCC,Skip Stahley,H,Utah,Skyline,Jack Curtice,W,21,6
+1957-10-12,Idaho,PCC,Skip Stahley,A,Oregon State,PCC,Tommy Prothro,L,0,20
+1957-10-19,Idaho,PCC,Skip Stahley,A,Pacific,Ind,Moose Myers,T,7,7
+1957-11-02,Idaho,PCC,Skip Stahley,H,Montana,Skyline,Jerry Williams,W,31,13
+1957-11-09,Idaho,PCC,Skip Stahley,A,Utah State,Skyline,Everett Faunce,W,35,7
+1957-11-16,Idaho,PCC,Skip Stahley,A,Washington State,PCC,Jim Sutherland,L,13,21
+1957-09-27,Citadel,Southern,Eddie Teague,A,George Washington,Southern,Bo Sherman,W,13,6
+1957-10-05,Citadel,Southern,Eddie Teague,A,Davidson,Southern,,W,21,7
+1957-10-19,Citadel,Southern,Eddie Teague,H,Richmond,Southern,Edwin Merrick,W,26,0
+1957-10-26,Citadel,Southern,Eddie Teague,H,Furman,Southern,Homer Hobbs,W,18,14
+1957-11-02,Citadel,Southern,Eddie Teague,H,William & Mary,Southern,Milt Drewer,L,12,14
+1957-11-16,Citadel,Southern,Eddie Teague,A,Virginia Military Institute,Southern,John McKenna,L,7,33
+1957-11-23,Citadel,Southern,Eddie Teague,A,Vanderbilt,SEC,Arthur Guepe,L,0,27
+1957-09-21,Oklahoma,Big 7,Bud Wilkinson,A,Pitt,Ind,John Michelosen,W,26,0
+1957-10-05,Oklahoma,Big 7,Bud Wilkinson,H,Iowa State,Big 7,Jim Myers,W,40,14
+1957-10-12,Oklahoma,Big 7,Bud Wilkinson,N,Texas,SWC,Darrell Royal,W,21,7
+1957-10-19,Oklahoma,Big 7,Bud Wilkinson,H,Kansas,Big 7,Chuck Mather,W,47,0
+1957-10-26,Oklahoma,Big 7,Bud Wilkinson,H,Colorado,Big 7,Dallas Ward,W,14,13
+1957-11-02,Oklahoma,Big 7,Bud Wilkinson,A,Kansas State,Big 7,Bernard Mertes,W,13,0
+1957-11-09,Oklahoma,Big 7,Bud Wilkinson,A,Missouri,Big 7,Frank Broyles,W,39,14
+1957-11-16,Oklahoma,Big 7,Bud Wilkinson,H,Notre Dame,Ind,Terry Brennan,L,0,7
+1957-11-23,Oklahoma,Big 7,Bud Wilkinson,A,Nebraska,Big 7,William Jennings,W,32,7
+1957-11-30,Oklahoma,Big 7,Bud Wilkinson,H,Oklahoma State,Ind,Cliff Speegle,W,53,6
+1958-01-01,Oklahoma,Big 7,Bud Wilkinson,N,Duke,ACC,Bill Murray,W,48,21
+1957-09-20,Virginia Tech,Southern,Frank Moseley,A,Tulane,SEC,Andy Pilney,W,14,13
+1957-09-28,Virginia Tech,Southern,Frank Moseley,A,West Virginia,Southern,Art Lewis,L,0,14
+1957-10-05,Virginia Tech,Southern,Frank Moseley,A,William & Mary,Southern,Milt Drewer,L,7,13
+1957-10-12,Virginia Tech,Southern,Frank Moseley,H,Villanova,Ind,Francis Reagan,W,21,14
+1957-10-19,Virginia Tech,Southern,Frank Moseley,N,Virginia,ACC,Ben Martin,L,7,38
+1957-10-26,Virginia Tech,Southern,Frank Moseley,A,Florida State,Ind,Thomas Nugent,L,7,20
+1957-11-02,Virginia Tech,Southern,Frank Moseley,H,Richmond,Southern,Edwin Merrick,W,42,7
+1957-11-09,Virginia Tech,Southern,Frank Moseley,A,Wake Forest,ACC,Paul Amen,W,10,3
+1957-11-16,Virginia Tech,Southern,Frank Moseley,H,North Carolina State,ACC,Earle Edwards,L,0,12
+1957-11-28,Virginia Tech,Southern,Frank Moseley,N,Virginia Military Institute,Southern,John McKenna,L,6,14
+1957-09-21,Arkansas,SWC,Jack Mitchell,H,Oklahoma State,Ind,Cliff Speegle,W,12,0
+1957-09-28,Arkansas,SWC,Jack Mitchell,H,Tulsa,MVC,Robert Dobbs,W,41,14
+1957-10-05,Arkansas,SWC,Jack Mitchell,H,Texas Christian,SWC,Abe Martin,W,20,7
+1957-10-12,Arkansas,SWC,Jack Mitchell,A,Baylor,SWC,Sam Boyd,W,20,17
+1957-10-19,Arkansas,SWC,Jack Mitchell,H,Texas,SWC,Darrell Royal,L,0,17
+1957-10-26,Arkansas,SWC,Jack Mitchell,N,Ole Miss,SEC,John Vaught,W,12,6
+1957-11-02,Arkansas,SWC,Jack Mitchell,H,Texas A&M,SWC,Bear Bryant,L,6,7
+1957-11-09,Arkansas,SWC,Jack Mitchell,A,Rice,SWC,Jess Neely,L,7,13
+1957-11-16,Arkansas,SWC,Jack Mitchell,A,SMU,SWC,Bill Meek,L,22,27
+1957-11-23,Arkansas,SWC,Jack Mitchell,H,Texas Tech,Ind,DeWitt Weaver,W,47,26
+1957-09-28,Clemson,ACC,Frank Howard,A,North Carolina,ACC,Jim Tatum,L,0,26
+1957-10-05,Clemson,ACC,Frank Howard,H,North Carolina State,ACC,Earle Edwards,L,7,13
+1957-10-12,Clemson,ACC,Frank Howard,A,Virginia,ACC,Ben Martin,W,20,6
+1957-10-24,Clemson,ACC,Frank Howard,A,South Carolina,ACC,Warren Giese,W,13,0
+1957-11-02,Clemson,ACC,Frank Howard,A,Rice,SWC,Jess Neely,W,20,7
+1957-11-09,Clemson,ACC,Frank Howard,H,Maryland,ACC,Tommy Mont,W,26,7
+1957-11-16,Clemson,ACC,Frank Howard,A,Duke,ACC,Bill Murray,L,6,7
+1957-11-23,Clemson,ACC,Frank Howard,H,Wake Forest,ACC,Paul Amen,W,13,6
+1957-11-30,Clemson,ACC,Frank Howard,A,Furman,Southern,Homer Hobbs,W,45,6
+1957-09-21,South Carolina,ACC,Warren Giese,H,Duke,ACC,Bill Murray,L,14,26
+1957-10-05,South Carolina,ACC,Warren Giese,A,Texas,SWC,Darrell Royal,W,27,21
+1957-10-12,South Carolina,ACC,Warren Giese,H,Furman,Southern,Homer Hobbs,W,58,13
+1957-10-24,South Carolina,ACC,Warren Giese,H,Clemson,ACC,Frank Howard,L,0,13
+1957-11-02,South Carolina,ACC,Warren Giese,H,Maryland,ACC,Tommy Mont,L,6,10
+1957-11-09,South Carolina,ACC,Warren Giese,A,North Carolina,ACC,Jim Tatum,L,6,28
+1957-11-16,South Carolina,ACC,Warren Giese,A,Virginia,ACC,Ben Martin,W,13,0
+1957-11-23,South Carolina,ACC,Warren Giese,H,North Carolina State,ACC,Earle Edwards,L,26,29
+1957-11-30,South Carolina,ACC,Warren Giese,A,Wake Forest,ACC,Paul Amen,W,26,7
+1957-09-21,Washington,PCC,Jim Owens,H,Colorado,Big 7,Dallas Ward,T,6,6
+1957-09-28,Washington,PCC,Jim Owens,A,Minnesota,Big Ten,Murray Warmath,L,7,46
+1957-10-05,Washington,PCC,Jim Owens,H,Ohio State,Big Ten,Woody Hayes,L,7,35
+1957-10-12,Washington,PCC,Jim Owens,A,UCLA,PCC,Red Sanders,L,0,19
+1957-10-19,Washington,PCC,Jim Owens,H,Stanford,PCC,Chuck Taylor,L,14,21
+1957-10-26,Washington,PCC,Jim Owens,H,Oregon State,PCC,Tommy Prothro,W,19,6
+1957-11-02,Washington,PCC,Jim Owens,H,USC,PCC,Don Clark,L,12,19
+1957-11-09,Washington,PCC,Jim Owens,A,Oregon,PCC,Len Casanova,W,13,6
+1957-11-16,Washington,PCC,Jim Owens,A,California,PCC,Pete Elliott,W,35,27
+1957-11-23,Washington,PCC,Jim Owens,H,Washington State,PCC,Jim Sutherland,L,7,27
+1957-09-28,Holy Cross,Ind,Edward Anderson,H,Virginia Military Institute,Southern,John McKenna,T,21,21
+1957-10-05,Holy Cross,Ind,Edward Anderson,H,Dayton,Ind,William Kerr,W,32,6
+1957-10-12,Holy Cross,Ind,Edward Anderson,A,Marquette,Ind,Johnny Druze,W,26,7
+1957-10-19,Holy Cross,Ind,Edward Anderson,H,Dartmouth,Ivy,Bob Blackman,L,7,14
+1957-10-26,Holy Cross,Ind,Edward Anderson,A,Boston University,Ind,Steve Sinko,L,28,35
+1957-11-09,Holy Cross,Ind,Edward Anderson,A,Syracuse,Ind,Ben Schwartzwalder,W,20,19
+1957-11-16,Holy Cross,Ind,Edward Anderson,H,Penn State,Ind,Rip Engle,L,10,14
+1957-11-30,Holy Cross,Ind,Edward Anderson,H,Boston College,Ind,Mike Holovak,W,14,0
+1957-09-28,Utah State,Skyline,Everett Faunce,A,Iowa,Big Ten,Forest Evashevski,L,14,70
+1957-10-05,Utah State,Skyline,Everett Faunce,A,Wyoming,Skyline,Bob Devaney,T,19,19
+1957-10-12,Utah State,Skyline,Everett Faunce,H,New Mexico,Skyline,Dick Clausen,L,10,14
+1957-10-19,Utah State,Skyline,Everett Faunce,H,Montana,Skyline,Jerry Williams,L,25,35
+1957-10-26,Utah State,Skyline,Everett Faunce,A,Colorado State,Skyline,Tuffy Mullison,W,27,14
+1957-11-02,Utah State,Skyline,Everett Faunce,A,Brigham Young,Skyline,Harold Kopp,L,0,14
+1957-11-09,Utah State,Skyline,Everett Faunce,H,Idaho,PCC,Skip Stahley,L,7,35
+1957-11-16,Utah State,Skyline,Everett Faunce,A,Denver,Skyline,John Roning,L,19,21
+1957-11-28,Utah State,Skyline,Everett Faunce,A,Utah,Skyline,Jack Curtice,L,6,21
+1957-09-21,Missouri,Big 7,Frank Broyles,A,Vanderbilt,SEC,Arthur Guepe,T,7,7
+1957-09-28,Missouri,Big 7,Frank Broyles,H,Arizona,BIAA,Edward Doherty,W,35,13
+1957-10-05,Missouri,Big 7,Frank Broyles,H,Texas A&M,SWC,Bear Bryant,L,0,28
+1957-10-11,Missouri,Big 7,Frank Broyles,A,SMU,SWC,Bill Meek,W,7,6
+1957-10-19,Missouri,Big 7,Frank Broyles,A,Iowa State,Big 7,Jim Myers,W,35,13
+1957-10-26,Missouri,Big 7,Frank Broyles,H,Nebraska,Big 7,William Jennings,W,14,13
+1957-11-02,Missouri,Big 7,Frank Broyles,A,Colorado,Big 7,Dallas Ward,W,9,6
+1957-11-09,Missouri,Big 7,Frank Broyles,H,Oklahoma,Big 7,Bud Wilkinson,L,14,39
+1957-11-16,Missouri,Big 7,Frank Broyles,H,Kansas State,Big 7,Bernard Mertes,L,21,23
+1957-11-23,Missouri,Big 7,Frank Broyles,A,Kansas,Big 7,Chuck Mather,L,7,9
+1957-09-21,San Jose State,Ind,Robert Titchenal,A,Stanford,PCC,Chuck Taylor,L,7,46
+1957-09-27,San Jose State,Ind,Robert Titchenal,A,Denver,Skyline,John Roning,W,27,20
+1957-10-05,San Jose State,Ind,Robert Titchenal,H,Arizona State,BIAA,Dan Devine,L,6,44
+1957-10-12,San Jose State,Ind,Robert Titchenal,A,Oregon,PCC,Len Casanova,L,0,26
+1957-10-26,San Jose State,Ind,Robert Titchenal,H,North Texas,MVC,Odus Mitchell,L,6,12
+1957-11-09,San Jose State,Ind,Robert Titchenal,H,Pacific,Ind,Moose Myers,L,6,21
+1957-09-21,Hardin-Simmons,BIAA,Sammy Baugh,A,Tulsa,MVC,Robert Dobbs,W,14,0
+1957-10-05,Hardin-Simmons,BIAA,Sammy Baugh,A,Ole Miss,SEC,John Vaught,L,7,34
+1957-10-12,Hardin-Simmons,BIAA,Sammy Baugh,A,Arizona State,BIAA,Dan Devine,L,26,35
+1957-10-19,Hardin-Simmons,BIAA,Sammy Baugh,H,Wichita State,MVC,Woody Woodard,W,27,14
+1957-10-26,Hardin-Simmons,BIAA,Sammy Baugh,A,West Texas A&M,BIAA,Frank Kimbrough,L,19,39
+1957-11-02,Hardin-Simmons,BIAA,Sammy Baugh,H,UTEP,BIAA,Ben Collins,W,33,20
+1957-11-09,Hardin-Simmons,BIAA,Sammy Baugh,A,Arizona,BIAA,Edward Doherty,W,28,20
+1957-11-16,Hardin-Simmons,BIAA,Sammy Baugh,A,Texas Tech,Ind,DeWitt Weaver,L,21,26
+1957-11-23,Hardin-Simmons,BIAA,Sammy Baugh,H,Oklahoma State,Ind,Cliff Speegle,L,7,32
+1957-11-28,Hardin-Simmons,BIAA,Sammy Baugh,H,New Mexico State,BIAA,Tony Cavallo,W,29,20
+1957-09-21,Denver,Skyline,John Roning,A,Iowa State,Big 7,Jim Myers,L,0,10
+1957-09-27,Denver,Skyline,John Roning,H,San Jose State,Ind,Robert Titchenal,L,20,27
+1957-10-05,Denver,Skyline,John Roning,A,Colorado State,Skyline,Tuffy Mullison,L,6,27
+1957-10-12,Denver,Skyline,John Roning,A,Montana,Skyline,Jerry Williams,W,26,13
+1957-10-19,Denver,Skyline,John Roning,H,Utah,Skyline,Jack Curtice,W,12,7
+1957-10-26,Denver,Skyline,John Roning,A,Brigham Young,Skyline,Harold Kopp,L,6,25
+1957-11-01,Denver,Skyline,John Roning,A,New Mexico,Skyline,Dick Clausen,W,19,0
+1957-11-09,Denver,Skyline,John Roning,A,Air Force,Ind,Buck Shaw,W,26,14
+1957-11-16,Denver,Skyline,John Roning,H,Utah State,Skyline,Everett Faunce,W,21,19
+1957-11-28,Denver,Skyline,John Roning,H,Wyoming,Skyline,Bob Devaney,W,14,13
+1957-09-28,Wisconsin,Big Ten,Milt Bruhn,H,Marquette,Ind,Johnny Druze,W,60,6
+1957-10-05,Wisconsin,Big Ten,Milt Bruhn,H,West Virginia,Southern,Art Lewis,W,45,13
+1957-10-12,Wisconsin,Big Ten,Milt Bruhn,A,Purdue,Big Ten,Jack Mollenkopf,W,23,14
+1957-10-19,Wisconsin,Big Ten,Milt Bruhn,A,Iowa,Big Ten,Forest Evashevski,L,7,21
+1957-10-26,Wisconsin,Big Ten,Milt Bruhn,H,Ohio State,Big Ten,Woody Hayes,L,13,16
+1957-11-02,Wisconsin,Big Ten,Milt Bruhn,H,Michigan State,Big Ten,Duffy Daugherty,L,7,21
+1957-11-09,Wisconsin,Big Ten,Milt Bruhn,A,Northwestern,Big Ten,Ara Parseghian,W,41,12
+1957-11-16,Wisconsin,Big Ten,Milt Bruhn,H,Illinois,Big Ten,Ray Eliot,W,24,13
+1957-11-23,Wisconsin,Big Ten,Milt Bruhn,A,Minnesota,Big Ten,Murray Warmath,W,14,6
+1957-09-21,USC,PCC,Don Clark,A,Oregon State,PCC,Tommy Prothro,L,0,20
+1957-09-28,USC,PCC,Don Clark,H,Michigan,Big Ten,Bennie Oosterbaan,L,6,16
+1957-10-04,USC,PCC,Don Clark,H,Pitt,Ind,John Michelosen,L,14,20
+1957-10-19,USC,PCC,Don Clark,A,California,PCC,Pete Elliott,L,0,12
+1957-10-26,USC,PCC,Don Clark,H,Washington State,PCC,Jim Sutherland,L,12,13
+1957-11-02,USC,PCC,Don Clark,A,Washington,PCC,Jim Owens,W,19,12
+1957-11-09,USC,PCC,Don Clark,H,Stanford,PCC,Chuck Taylor,L,7,35
+1957-11-16,USC,PCC,Don Clark,H,Oregon,PCC,Len Casanova,L,7,16
+1957-11-23,USC,PCC,Don Clark,H,UCLA,PCC,Red Sanders,L,9,20
+1957-11-30,USC,PCC,Don Clark,A,Notre Dame,Ind,Terry Brennan,L,12,40
+1957-09-21,North Carolina State,ACC,Earle Edwards,A,North Carolina,ACC,Jim Tatum,W,7,0
+1957-09-28,North Carolina State,ACC,Earle Edwards,A,Maryland,ACC,Tommy Mont,W,48,13
+1957-10-05,North Carolina State,ACC,Earle Edwards,A,Clemson,ACC,Frank Howard,W,13,7
+1957-10-12,North Carolina State,ACC,Earle Edwards,A,Florida State,Ind,Thomas Nugent,W,7,0
+1957-10-18,North Carolina State,ACC,Earle Edwards,A,Miami (FL),Ind,Andy Gustafson,T,0,0
+1957-10-26,North Carolina State,ACC,Earle Edwards,H,Duke,ACC,Bill Murray,T,14,14
+1957-11-02,North Carolina State,ACC,Earle Edwards,H,Wake Forest,ACC,Paul Amen,W,19,0
+1957-11-09,North Carolina State,ACC,Earle Edwards,H,William & Mary,Southern,Milt Drewer,L,6,7
+1957-11-16,North Carolina State,ACC,Earle Edwards,A,Virginia Tech,Southern,Frank Moseley,W,12,0
+1957-11-23,North Carolina State,ACC,Earle Edwards,A,South Carolina,ACC,Warren Giese,W,29,26
+1957-09-28,Rutgers,Ind,John Stiegman,A,Princeton,Ivy,Richard Colman,L,0,7
+1957-10-12,Rutgers,Ind,John Stiegman,A,Colgate,Ind,Fred Rice,W,48,6
+1957-10-26,Rutgers,Ind,John Stiegman,H,Richmond,Southern,Edwin Merrick,W,26,13
+1957-11-16,Rutgers,Ind,John Stiegman,A,William & Mary,Southern,Milt Drewer,L,7,38
+1957-11-23,Rutgers,Ind,John Stiegman,A,Columbia,Ivy,Aldo Donelli,W,26,7
+1957-09-28,Michigan,Big Ten,Bennie Oosterbaan,A,USC,PCC,Don Clark,W,16,6
+1957-10-05,Michigan,Big Ten,Bennie Oosterbaan,H,Georgia,SEC,Wallace Butts,W,26,0
+1957-10-12,Michigan,Big Ten,Bennie Oosterbaan,H,Michigan State,Big Ten,Duffy Daugherty,L,6,35
+1957-10-19,Michigan,Big Ten,Bennie Oosterbaan,H,Northwestern,Big Ten,Ara Parseghian,W,34,14
+1957-10-26,Michigan,Big Ten,Bennie Oosterbaan,A,Minnesota,Big Ten,Murray Warmath,W,24,7
+1957-11-02,Michigan,Big Ten,Bennie Oosterbaan,H,Iowa,Big Ten,Forest Evashevski,T,21,21
+1957-11-09,Michigan,Big Ten,Bennie Oosterbaan,A,Illinois,Big Ten,Ray Eliot,L,19,20
+1957-11-16,Michigan,Big Ten,Bennie Oosterbaan,H,Indiana,Big Ten,Bob Hicks,W,27,13
+1957-11-23,Michigan,Big Ten,Bennie Oosterbaan,H,Ohio State,Big Ten,Woody Hayes,L,14,31
+1957-09-21,Detroit Mercy,Ind,Wally Fromhart,H,Marquette,Ind,Johnny Druze,W,14,0
+1957-10-05,Detroit Mercy,Ind,Wally Fromhart,A,Air Force,Ind,Buck Shaw,L,12,19
+1957-10-12,Detroit Mercy,Ind,Wally Fromhart,A,Wichita State,MVC,Woody Woodard,W,28,0
+1957-10-26,Detroit Mercy,Ind,Wally Fromhart,H,Boston College,Ind,Mike Holovak,L,16,20
+1957-11-02,Detroit Mercy,Ind,Wally Fromhart,A,Cincinnati,MVC,George Blackburn,W,20,12
+1957-11-09,Detroit Mercy,Ind,Wally Fromhart,H,Villanova,Ind,Francis Reagan,W,16,7
+1957-11-23,Detroit Mercy,Ind,Wally Fromhart,A,Dayton,Ind,William Kerr,L,10,20
+1957-09-21,New Mexico,Skyline,Dick Clausen,H,New Mexico State,BIAA,Tony Cavallo,W,25,7
+1957-09-28,New Mexico,Skyline,Dick Clausen,A,Colorado State,Skyline,Tuffy Mullison,W,30,7
+1957-10-05,New Mexico,Skyline,Dick Clausen,H,UTEP,BIAA,Ben Collins,L,13,15
+1957-10-12,New Mexico,Skyline,Dick Clausen,A,Utah State,Skyline,Everett Faunce,W,14,10
+1957-10-19,New Mexico,Skyline,Dick Clausen,A,Arizona,BIAA,Edward Doherty,W,27,0
+1957-10-26,New Mexico,Skyline,Dick Clausen,A,Montana,Skyline,Jerry Williams,L,6,21
+1957-11-01,New Mexico,Skyline,Dick Clausen,H,Denver,Skyline,John Roning,L,0,19
+1957-11-16,New Mexico,Skyline,Dick Clausen,H,Wyoming,Skyline,Bob Devaney,L,13,20
+1957-11-23,New Mexico,Skyline,Dick Clausen,A,Air Force,Ind,Buck Shaw,L,0,31
+1957-11-30,New Mexico,Skyline,Dick Clausen,H,Brigham Young,Skyline,Harold Kopp,L,12,14
+1957-10-05,Pacific,Ind,Moose Myers,H,Tulsa,MVC,Robert Dobbs,W,21,13
+1957-10-12,Pacific,Ind,Moose Myers,H,Kansas State,Big 7,Bernard Mertes,T,7,7
+1957-10-19,Pacific,Ind,Moose Myers,H,Idaho,PCC,Skip Stahley,T,7,7
+1957-10-26,Pacific,Ind,Moose Myers,A,Cincinnati,MVC,George Blackburn,L,2,7
+1957-11-02,Pacific,Ind,Moose Myers,A,Marquette,Ind,Johnny Druze,W,21,7
+1957-11-09,Pacific,Ind,Moose Myers,A,San Jose State,Ind,Robert Titchenal,W,21,6
+1957-11-16,Pacific,Ind,Moose Myers,H,UCLA,PCC,Red Sanders,L,0,21
+1957-11-23,Pacific,Ind,Moose Myers,A,Arizona State,BIAA,Dan Devine,L,0,41
+1957-09-28,Notre Dame,Ind,Terry Brennan,A,Purdue,Big Ten,Jack Mollenkopf,W,12,0
+1957-10-05,Notre Dame,Ind,Terry Brennan,H,Indiana,Big Ten,Bob Hicks,W,26,0
+1957-10-12,Notre Dame,Ind,Terry Brennan,N,Army,Ind,Red Blaik,W,23,21
+1957-10-26,Notre Dame,Ind,Terry Brennan,H,Pitt,Ind,John Michelosen,W,13,7
+1957-11-02,Notre Dame,Ind,Terry Brennan,H,Navy,Ind,Eddie Erdelatz,L,6,20
+1957-11-09,Notre Dame,Ind,Terry Brennan,A,Michigan State,Big Ten,Duffy Daugherty,L,6,34
+1957-11-16,Notre Dame,Ind,Terry Brennan,A,Oklahoma,Big 7,Bud Wilkinson,W,7,0
+1957-11-23,Notre Dame,Ind,Terry Brennan,H,Iowa,Big Ten,Forest Evashevski,L,13,21
+1957-11-30,Notre Dame,Ind,Terry Brennan,H,USC,PCC,Don Clark,W,40,12
+1957-12-07,Notre Dame,Ind,Terry Brennan,A,SMU,SWC,Bill Meek,W,54,21
+1957-09-21,Pitt,Ind,John Michelosen,H,Oklahoma,Big 7,Bud Wilkinson,L,0,26
+1957-09-28,Pitt,Ind,John Michelosen,A,Oregon,PCC,Len Casanova,W,6,3
+1957-10-04,Pitt,Ind,John Michelosen,A,USC,PCC,Don Clark,W,20,14
+1957-10-12,Pitt,Ind,John Michelosen,H,Nebraska,Big 7,William Jennings,W,34,0
+1957-10-19,Pitt,Ind,John Michelosen,A,Army,Ind,Red Blaik,L,13,29
+1957-10-26,Pitt,Ind,John Michelosen,A,Notre Dame,Ind,Terry Brennan,L,7,13
+1957-11-02,Pitt,Ind,John Michelosen,H,Syracuse,Ind,Ben Schwartzwalder,L,21,24
+1957-11-09,Pitt,Ind,John Michelosen,H,West Virginia,Southern,Art Lewis,L,6,7
+1957-11-23,Pitt,Ind,John Michelosen,H,Penn State,Ind,Rip Engle,W,14,13
+1957-12-07,Pitt,Ind,John Michelosen,A,Miami (FL),Ind,Andy Gustafson,L,13,28
+1957-09-21,West Texas A&M,BIAA,Frank Kimbrough,A,Texas Tech,Ind,DeWitt Weaver,W,19,0
+1957-09-28,West Texas A&M,BIAA,Frank Kimbrough,A,UTEP,BIAA,Ben Collins,L,12,20
+1957-10-19,West Texas A&M,BIAA,Frank Kimbrough,A,New Mexico State,BIAA,Tony Cavallo,W,35,7
+1957-10-26,West Texas A&M,BIAA,Frank Kimbrough,H,Hardin-Simmons,BIAA,Sammy Baugh,W,39,19
+1957-11-02,West Texas A&M,BIAA,Frank Kimbrough,A,Arizona,BIAA,Edward Doherty,W,21,20
+1957-11-16,West Texas A&M,BIAA,Frank Kimbrough,A,Drake,Ind,Warren Gaer,L,19,20
+1957-09-21,George Washington,Southern,Bo Sherman,A,William & Mary,Southern,Milt Drewer,W,7,0
+1957-09-27,George Washington,Southern,Bo Sherman,H,Citadel,Southern,Eddie Teague,L,6,13
+1957-10-05,George Washington,Southern,Bo Sherman,A,Furman,Southern,Homer Hobbs,L,12,13
+1957-10-11,George Washington,Southern,Bo Sherman,H,Air Force,Ind,Buck Shaw,W,20,0
+1957-10-18,George Washington,Southern,Bo Sherman,H,West Virginia,Southern,Art Lewis,L,14,34
+1957-10-26,George Washington,Southern,Bo Sherman,A,Virginia Military Institute,Southern,John McKenna,L,20,26
+1957-11-01,George Washington,Southern,Bo Sherman,H,Boston University,Ind,Steve Sinko,L,0,7
+1957-11-09,George Washington,Southern,Bo Sherman,A,Richmond,Southern,Edwin Merrick,L,6,13
+1957-11-16,George Washington,Southern,Bo Sherman,N,Navy,Ind,Eddie Erdelatz,L,0,52
+1957-09-21,North Texas,MVC,Odus Mitchell,A,UTEP,BIAA,Ben Collins,L,13,14
+1957-09-28,North Texas,MVC,Odus Mitchell,H,Oklahoma State,Ind,Cliff Speegle,L,19,25
+1957-10-05,North Texas,MVC,Odus Mitchell,H,Drake,Ind,Warren Gaer,L,6,19
+1957-10-19,North Texas,MVC,Odus Mitchell,A,Tulsa,MVC,Robert Dobbs,W,14,12
+1957-10-26,North Texas,MVC,Odus Mitchell,A,San Jose State,Ind,Robert Titchenal,W,12,6
+1957-09-21,Wyoming,Skyline,Bob Devaney,H,Kansas State,Big 7,Bernard Mertes,W,12,7
+1957-09-28,Wyoming,Skyline,Bob Devaney,N,Montana,Skyline,Jerry Williams,W,20,0
+1957-10-05,Wyoming,Skyline,Bob Devaney,H,Utah State,Skyline,Everett Faunce,T,19,19
+1957-10-12,Wyoming,Skyline,Bob Devaney,H,Colorado State,Skyline,Tuffy Mullison,W,27,13
+1957-10-19,Wyoming,Skyline,Bob Devaney,H,Brigham Young,Skyline,Harold Kopp,T,0,0
+1957-10-26,Wyoming,Skyline,Bob Devaney,A,Utah,Skyline,Jack Curtice,L,15,23
+1957-11-02,Wyoming,Skyline,Bob Devaney,H,Air Force,Ind,Buck Shaw,T,7,7
+1957-11-09,Wyoming,Skyline,Bob Devaney,A,Oklahoma State,Ind,Cliff Speegle,L,6,39
+1957-11-16,Wyoming,Skyline,Bob Devaney,A,New Mexico,Skyline,Dick Clausen,W,20,13
+1957-11-28,Wyoming,Skyline,Bob Devaney,A,Denver,Skyline,John Roning,L,13,14
+1957-09-21,Brigham Young,Skyline,Harold Kopp,A,Arizona,BIAA,Edward Doherty,T,14,14
+1957-09-28,Brigham Young,Skyline,Harold Kopp,A,Kansas State,Big 7,Bernard Mertes,L,7,36
+1957-10-04,Brigham Young,Skyline,Harold Kopp,H,Montana,Skyline,Jerry Williams,W,20,7
+1957-10-12,Brigham Young,Skyline,Harold Kopp,A,Utah,Skyline,Jack Curtice,L,0,27
+1957-10-19,Brigham Young,Skyline,Harold Kopp,A,Wyoming,Skyline,Bob Devaney,T,0,0
+1957-10-26,Brigham Young,Skyline,Harold Kopp,H,Denver,Skyline,John Roning,W,25,6
+1957-11-02,Brigham Young,Skyline,Harold Kopp,H,Utah State,Skyline,Everett Faunce,W,14,0
+1957-11-23,Brigham Young,Skyline,Harold Kopp,H,Colorado State,Skyline,Tuffy Mullison,W,26,9
+1957-11-30,Brigham Young,Skyline,Harold Kopp,A,New Mexico,Skyline,Dick Clausen,W,14,12
+1957-10-05,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,Alva Kelley,L,20,21
+1957-10-12,Yale,Ivy,Jordan Olivar,H,Columbia,Ivy,Aldo Donelli,W,19,0
+1957-10-19,Yale,Ivy,Jordan Olivar,A,Cornell,Ivy,George James,W,18,7
+1957-10-26,Yale,Ivy,Jordan Olivar,H,Colgate,Ind,Fred Rice,W,20,0
+1957-11-02,Yale,Ivy,Jordan Olivar,H,Dartmouth,Ivy,Bob Blackman,T,14,14
+1957-11-09,Yale,Ivy,Jordan Olivar,A,Pennsylvania,Ivy,Steve Sebo,L,20,33
+1957-11-16,Yale,Ivy,Jordan Olivar,A,Princeton,Ivy,Richard Colman,W,20,13
+1957-11-23,Yale,Ivy,Jordan Olivar,H,Harvard,Ivy,John Yovicsin,W,54,0
+1957-09-21,Georgia Tech,SEC,Bobby Dodd,H,Kentucky,SEC,Blanton Collier,W,13,0
+1957-09-28,Georgia Tech,SEC,Bobby Dodd,H,SMU,SWC,Bill Meek,T,0,0
+1957-10-12,Georgia Tech,SEC,Bobby Dodd,A,LSU,SEC,Paul Dietzel,L,13,20
+1957-10-19,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Ralph Jordan,L,0,3
+1957-10-26,Georgia Tech,SEC,Bobby Dodd,A,Tulane,SEC,Andy Pilney,W,20,13
+1957-11-02,Georgia Tech,SEC,Bobby Dodd,H,Duke,ACC,Bill Murray,W,13,0
+1957-11-09,Georgia Tech,SEC,Bobby Dodd,A,Tennessee,SEC,Bowden Wyatt,L,6,21
+1957-11-16,Georgia Tech,SEC,Bobby Dodd,A,Alabama,SEC,Jennings Whitworth,W,10,7
+1957-11-23,Georgia Tech,SEC,Bobby Dodd,H,Florida,SEC,Bob Woodruff,T,0,0
+1957-11-30,Georgia Tech,SEC,Bobby Dodd,H,Georgia,SEC,Wallace Butts,L,0,7
+1957-09-28,Wake Forest,ACC,Paul Amen,A,Florida,SEC,Bob Woodruff,L,0,27
+1957-10-05,Wake Forest,ACC,Paul Amen,H,Virginia,ACC,Ben Martin,L,20,28
+1957-10-12,Wake Forest,ACC,Paul Amen,A,Maryland,ACC,Tommy Mont,L,0,27
+1957-10-19,Wake Forest,ACC,Paul Amen,A,Duke,ACC,Bill Murray,L,7,34
+1957-10-26,Wake Forest,ACC,Paul Amen,H,North Carolina,ACC,Jim Tatum,L,7,14
+1957-11-02,Wake Forest,ACC,Paul Amen,A,North Carolina State,ACC,Earle Edwards,L,0,19
+1957-11-09,Wake Forest,ACC,Paul Amen,H,Virginia Tech,Southern,Frank Moseley,L,3,10
+1957-11-16,Wake Forest,ACC,Paul Amen,H,West Virginia,Southern,Art Lewis,L,14,27
+1957-11-23,Wake Forest,ACC,Paul Amen,A,Clemson,ACC,Frank Howard,L,6,13
+1957-11-30,Wake Forest,ACC,Paul Amen,H,South Carolina,ACC,Warren Giese,L,7,26
+1957-10-05,Mississippi State,SEC,Wade Walker,A,Tennessee,SEC,Bowden Wyatt,L,9,14
+1957-10-19,Mississippi State,SEC,Wade Walker,A,Florida,SEC,Bob Woodruff,W,29,20
+1957-10-26,Mississippi State,SEC,Wade Walker,A,Alabama,SEC,Jennings Whitworth,W,25,13
+1957-11-02,Mississippi State,SEC,Wade Walker,H,Tulane,SEC,Andy Pilney,W,27,6
+1957-11-09,Mississippi State,SEC,Wade Walker,A,Auburn,SEC,Ralph Jordan,L,7,15
+1957-11-16,Mississippi State,SEC,Wade Walker,A,LSU,SEC,Paul Dietzel,W,14,6
+1957-11-30,Mississippi State,SEC,Wade Walker,H,Ole Miss,SEC,John Vaught,T,7,7
+1957-09-28,Virginia Military Institute,Southern,John McKenna,A,Holy Cross,Ind,Edward Anderson,T,21,21
+1957-10-05,Virginia Military Institute,Southern,John McKenna,A,Richmond,Southern,Edwin Merrick,W,28,6
+1957-10-12,Virginia Military Institute,Southern,John McKenna,H,Davidson,Southern,,W,26,14
+1957-10-19,Virginia Military Institute,Southern,John McKenna,A,William & Mary,Southern,Milt Drewer,W,14,13
+1957-10-26,Virginia Military Institute,Southern,John McKenna,H,George Washington,Southern,Bo Sherman,W,26,20
+1957-11-02,Virginia Military Institute,Southern,John McKenna,A,Virginia,ACC,Ben Martin,W,20,7
+1957-11-16,Virginia Military Institute,Southern,John McKenna,H,Citadel,Southern,Eddie Teague,W,33,7
+1957-11-28,Virginia Military Institute,Southern,John McKenna,N,Virginia Tech,Southern,Frank Moseley,W,14,6
+1957-09-21,Kansas State,Big 7,Bernard Mertes,A,Wyoming,Skyline,Bob Devaney,L,7,12
+1957-09-28,Kansas State,Big 7,Bernard Mertes,H,Brigham Young,Skyline,Harold Kopp,W,36,7
+1957-10-05,Kansas State,Big 7,Bernard Mertes,H,Nebraska,Big 7,William Jennings,L,7,14
+1957-10-12,Kansas State,Big 7,Bernard Mertes,A,Pacific,Ind,Moose Myers,T,7,7
+1957-10-19,Kansas State,Big 7,Bernard Mertes,H,Colorado,Big 7,Dallas Ward,L,14,42
+1957-10-26,Kansas State,Big 7,Bernard Mertes,A,Iowa State,Big 7,Jim Myers,W,14,10
+1957-11-02,Kansas State,Big 7,Bernard Mertes,H,Oklahoma,Big 7,Bud Wilkinson,L,0,13
+1957-11-09,Kansas State,Big 7,Bernard Mertes,A,Kansas,Big 7,Chuck Mather,L,7,13
+1957-11-16,Kansas State,Big 7,Bernard Mertes,A,Missouri,Big 7,Frank Broyles,W,23,21
+1957-11-23,Kansas State,Big 7,Bernard Mertes,A,Michigan State,Big Ten,Duffy Daugherty,L,9,27
+1957-09-28,Army,Ind,Red Blaik,H,Nebraska,Big 7,William Jennings,W,42,0
+1957-10-05,Army,Ind,Red Blaik,A,Penn State,Ind,Rip Engle,W,27,13
+1957-10-12,Army,Ind,Red Blaik,N,Notre Dame,Ind,Terry Brennan,L,21,23
+1957-10-19,Army,Ind,Red Blaik,H,Pitt,Ind,John Michelosen,W,29,13
+1957-10-26,Army,Ind,Red Blaik,A,Virginia,ACC,Ben Martin,W,20,12
+1957-11-02,Army,Ind,Red Blaik,H,Colgate,Ind,Fred Rice,W,53,7
+1957-11-09,Army,Ind,Red Blaik,H,Utah,Skyline,Jack Curtice,W,39,33
+1957-11-16,Army,Ind,Red Blaik,H,Tulane,SEC,Andy Pilney,W,20,14
+1957-11-30,Army,Ind,Red Blaik,N,Navy,Ind,Eddie Erdelatz,L,0,14
+1957-09-21,Marquette,Ind,Johnny Druze,A,Detroit Mercy,Ind,Wally Fromhart,L,0,14
+1957-09-28,Marquette,Ind,Johnny Druze,A,Wisconsin,Big Ten,Milt Bruhn,L,6,60
+1957-10-05,Marquette,Ind,Johnny Druze,H,Tulane,SEC,Andy Pilney,L,6,20
+1957-10-12,Marquette,Ind,Johnny Druze,H,Holy Cross,Ind,Edward Anderson,L,7,26
+1957-10-19,Marquette,Ind,Johnny Druze,A,Cincinnati,MVC,George Blackburn,L,0,14
+1957-10-26,Marquette,Ind,Johnny Druze,H,Texas Christian,SWC,Abe Martin,L,7,26
+1957-11-02,Marquette,Ind,Johnny Druze,H,Pacific,Ind,Moose Myers,L,7,21
+1957-11-09,Marquette,Ind,Johnny Druze,H,Penn State,Ind,Rip Engle,L,7,20
+1957-11-16,Marquette,Ind,Johnny Druze,A,Boston College,Ind,Mike Holovak,L,14,19
+1957-11-23,Marquette,Ind,Johnny Druze,A,Arizona,BIAA,Edward Doherty,L,14,17
+1957-10-05,Dartmouth,Ivy,Bob Blackman,A,Pennsylvania,Ivy,Steve Sebo,W,6,3
+1957-10-12,Dartmouth,Ivy,Bob Blackman,H,Brown,Ivy,Alva Kelley,W,35,0
+1957-10-19,Dartmouth,Ivy,Bob Blackman,A,Holy Cross,Ind,Edward Anderson,W,14,7
+1957-10-26,Dartmouth,Ivy,Bob Blackman,A,Harvard,Ivy,John Yovicsin,W,26,0
+1957-11-02,Dartmouth,Ivy,Bob Blackman,A,Yale,Ivy,Jordan Olivar,T,14,14
+1957-11-09,Dartmouth,Ivy,Bob Blackman,A,Columbia,Ivy,Aldo Donelli,W,7,0
+1957-11-16,Dartmouth,Ivy,Bob Blackman,H,Cornell,Ivy,George James,W,20,19
+1957-11-23,Dartmouth,Ivy,Bob Blackman,A,Princeton,Ivy,Richard Colman,L,14,34
+1957-09-20,UCLA,PCC,Red Sanders,H,Air Force,Ind,Buck Shaw,W,47,0
+1957-09-27,UCLA,PCC,Red Sanders,H,Illinois,Big Ten,Ray Eliot,W,16,6
+1957-10-05,UCLA,PCC,Red Sanders,A,Oregon,PCC,Len Casanova,L,0,21
+1957-10-12,UCLA,PCC,Red Sanders,H,Washington,PCC,Jim Owens,W,19,0
+1957-10-19,UCLA,PCC,Red Sanders,H,Oregon State,PCC,Tommy Prothro,W,26,7
+1957-10-26,UCLA,PCC,Red Sanders,A,Stanford,PCC,Chuck Taylor,L,6,20
+1957-11-02,UCLA,PCC,Red Sanders,H,California,PCC,Pete Elliott,W,16,14
+1957-11-09,UCLA,PCC,Red Sanders,A,Washington State,PCC,Jim Sutherland,W,19,13
+1957-11-16,UCLA,PCC,Red Sanders,A,Pacific,Ind,Moose Myers,W,21,0
+1957-11-23,UCLA,PCC,Red Sanders,A,USC,PCC,Don Clark,W,20,9
+1957-09-28,Auburn,SEC,Ralph Jordan,A,Tennessee,SEC,Bowden Wyatt,W,7,0
+1957-10-12,Auburn,SEC,Ralph Jordan,H,Kentucky,SEC,Blanton Collier,W,6,0
+1957-10-19,Auburn,SEC,Ralph Jordan,A,Georgia Tech,SEC,Bobby Dodd,W,3,0
+1957-10-26,Auburn,SEC,Ralph Jordan,A,Houston,MVC,Hal Lahar,W,48,7
+1957-11-02,Auburn,SEC,Ralph Jordan,H,Florida,SEC,Bob Woodruff,W,13,0
+1957-11-09,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Wade Walker,W,15,7
+1957-11-16,Auburn,SEC,Ralph Jordan,N,Georgia,SEC,Wallace Butts,W,6,0
+1957-11-23,Auburn,SEC,Ralph Jordan,A,Florida State,Ind,Thomas Nugent,W,29,7
+1957-11-30,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Jennings Whitworth,W,40,0
+1957-09-28,Northwestern,Big Ten,Ara Parseghian,A,Stanford,PCC,Chuck Taylor,L,6,26
+1957-10-05,Northwestern,Big Ten,Ara Parseghian,H,Oregon State,PCC,Tommy Prothro,L,13,22
+1957-10-12,Northwestern,Big Ten,Ara Parseghian,H,Minnesota,Big Ten,Murray Warmath,L,6,41
+1957-10-19,Northwestern,Big Ten,Ara Parseghian,A,Michigan,Big Ten,Bennie Oosterbaan,L,14,34
+1957-10-26,Northwestern,Big Ten,Ara Parseghian,H,Iowa,Big Ten,Forest Evashevski,L,0,6
+1957-11-02,Northwestern,Big Ten,Ara Parseghian,A,Ohio State,Big Ten,Woody Hayes,L,6,47
+1957-11-09,Northwestern,Big Ten,Ara Parseghian,H,Wisconsin,Big Ten,Milt Bruhn,L,12,41
+1957-11-16,Northwestern,Big Ten,Ara Parseghian,A,Purdue,Big Ten,Jack Mollenkopf,L,0,27
+1957-11-23,Northwestern,Big Ten,Ara Parseghian,A,Illinois,Big Ten,Ray Eliot,L,0,27
+1957-09-21,Kansas,Big 7,Chuck Mather,A,Texas Christian,SWC,Abe Martin,T,13,13
+1957-09-28,Kansas,Big 7,Chuck Mather,H,Oregon State,PCC,Tommy Prothro,L,6,34
+1957-10-05,Kansas,Big 7,Chuck Mather,A,Colorado,Big 7,Dallas Ward,W,35,34
+1957-10-12,Kansas,Big 7,Chuck Mather,H,Iowa State,Big 7,Jim Myers,L,6,21
+1957-10-19,Kansas,Big 7,Chuck Mather,A,Oklahoma,Big 7,Bud Wilkinson,L,0,47
+1957-10-25,Kansas,Big 7,Chuck Mather,A,Miami (FL),Ind,Andy Gustafson,L,6,48
+1957-11-02,Kansas,Big 7,Chuck Mather,A,Nebraska,Big 7,William Jennings,W,14,12
+1957-11-09,Kansas,Big 7,Chuck Mather,H,Kansas State,Big 7,Bernard Mertes,W,13,7
+1957-11-16,Kansas,Big 7,Chuck Mather,H,Oklahoma State,Ind,Cliff Speegle,W,13,7
+1957-11-23,Kansas,Big 7,Chuck Mather,H,Missouri,Big 7,Frank Broyles,W,9,7
+1957-09-21,William & Mary,Southern,Milt Drewer,H,George Washington,Southern,Bo Sherman,L,0,7
+1957-09-28,William & Mary,Southern,Milt Drewer,A,Navy,Ind,Eddie Erdelatz,L,6,33
+1957-10-05,William & Mary,Southern,Milt Drewer,H,Virginia Tech,Southern,Frank Moseley,W,13,7
+1957-10-12,William & Mary,Southern,Milt Drewer,A,Penn State,Ind,Rip Engle,L,13,21
+1957-10-19,William & Mary,Southern,Milt Drewer,H,Virginia Military Institute,Southern,John McKenna,L,13,14
+1957-10-26,William & Mary,Southern,Milt Drewer,A,West Virginia,Southern,Art Lewis,L,0,19
+1957-11-02,William & Mary,Southern,Milt Drewer,A,Citadel,Southern,Eddie Teague,W,14,12
+1957-11-09,William & Mary,Southern,Milt Drewer,A,North Carolina State,ACC,Earle Edwards,W,7,6
+1957-11-16,William & Mary,Southern,Milt Drewer,H,Rutgers,Ind,John Stiegman,W,38,7
+1957-11-28,William & Mary,Southern,Milt Drewer,A,Richmond,Southern,Edwin Merrick,L,7,12
+1957-09-21,UTEP,BIAA,Ben Collins,H,North Texas,MVC,Odus Mitchell,W,14,13
+1957-09-28,UTEP,BIAA,Ben Collins,H,West Texas A&M,BIAA,Frank Kimbrough,W,20,12
+1957-10-05,UTEP,BIAA,Ben Collins,A,New Mexico,Skyline,Dick Clausen,W,15,13
+1957-10-12,UTEP,BIAA,Ben Collins,H,Texas Tech,Ind,DeWitt Weaver,W,26,14
+1957-10-26,UTEP,BIAA,Ben Collins,H,New Mexico State,BIAA,Tony Cavallo,W,42,12
+1957-11-02,UTEP,BIAA,Ben Collins,A,Hardin-Simmons,BIAA,Sammy Baugh,L,20,33
+1957-11-09,UTEP,BIAA,Ben Collins,H,Arizona State,BIAA,Dan Devine,L,7,43
+1957-11-16,UTEP,BIAA,Ben Collins,A,Arizona,BIAA,Edward Doherty,W,51,14
+1957-09-21,LSU,SEC,Paul Dietzel,H,Rice,SWC,Jess Neely,L,14,20
+1957-09-28,LSU,SEC,Paul Dietzel,H,Alabama,SEC,Jennings Whitworth,W,28,0
+1957-10-05,LSU,SEC,Paul Dietzel,A,Texas Tech,Ind,DeWitt Weaver,W,19,14
+1957-10-12,LSU,SEC,Paul Dietzel,H,Georgia Tech,SEC,Bobby Dodd,W,20,13
+1957-10-19,LSU,SEC,Paul Dietzel,H,Kentucky,SEC,Blanton Collier,W,21,0
+1957-10-26,LSU,SEC,Paul Dietzel,A,Florida,SEC,Bob Woodruff,L,14,22
+1957-11-02,LSU,SEC,Paul Dietzel,A,Vanderbilt,SEC,Arthur Guepe,L,0,7
+1957-11-09,LSU,SEC,Paul Dietzel,A,Ole Miss,SEC,John Vaught,L,12,14
+1957-11-16,LSU,SEC,Paul Dietzel,H,Mississippi State,SEC,Wade Walker,L,6,14
+1957-11-30,LSU,SEC,Paul Dietzel,H,Tulane,SEC,Andy Pilney,W,25,6
+1957-09-28,Pennsylvania,Ivy,Steve Sebo,H,Penn State,Ind,Rip Engle,L,14,19
+1957-10-05,Pennsylvania,Ivy,Steve Sebo,H,Dartmouth,Ivy,Bob Blackman,L,3,6
+1957-10-12,Pennsylvania,Ivy,Steve Sebo,A,Princeton,Ivy,Richard Colman,L,9,13
+1957-10-19,Pennsylvania,Ivy,Steve Sebo,A,Brown,Ivy,Alva Kelley,L,7,20
+1957-10-26,Pennsylvania,Ivy,Steve Sebo,H,Navy,Ind,Eddie Erdelatz,L,7,35
+1957-11-02,Pennsylvania,Ivy,Steve Sebo,H,Harvard,Ivy,John Yovicsin,L,6,13
+1957-11-09,Pennsylvania,Ivy,Steve Sebo,H,Yale,Ivy,Jordan Olivar,W,33,20
+1957-11-16,Pennsylvania,Ivy,Steve Sebo,A,Columbia,Ivy,Aldo Donelli,W,28,6
+1957-11-28,Pennsylvania,Ivy,Steve Sebo,H,Cornell,Ivy,George James,W,14,6
+1957-09-21,Tulsa,MVC,Robert Dobbs,H,Hardin-Simmons,BIAA,Sammy Baugh,L,0,14
+1957-09-28,Tulsa,MVC,Robert Dobbs,A,Arkansas,SWC,Jack Mitchell,L,14,41
+1957-10-05,Tulsa,MVC,Robert Dobbs,A,Pacific,Ind,Moose Myers,L,13,21
+1957-10-12,Tulsa,MVC,Robert Dobbs,A,Oklahoma State,Ind,Cliff Speegle,L,13,28
+1957-10-19,Tulsa,MVC,Robert Dobbs,H,North Texas,MVC,Odus Mitchell,L,12,14
+1957-10-26,Tulsa,MVC,Robert Dobbs,H,Air Force,Ind,Buck Shaw,W,12,7
+1957-11-09,Tulsa,MVC,Robert Dobbs,A,Texas Tech,Ind,DeWitt Weaver,W,3,0
+1957-11-16,Tulsa,MVC,Robert Dobbs,H,Cincinnati,MVC,George Blackburn,W,12,7
+1957-11-23,Tulsa,MVC,Robert Dobbs,H,Houston,MVC,Hal Lahar,L,7,13
+1957-11-30,Tulsa,MVC,Robert Dobbs,A,Wichita State,MVC,Woody Woodard,W,24,0
+1957-09-28,Iowa,Big Ten,Forest Evashevski,H,Utah State,Skyline,Everett Faunce,W,70,14
+1957-10-05,Iowa,Big Ten,Forest Evashevski,H,Washington State,PCC,Jim Sutherland,W,20,13
+1957-10-12,Iowa,Big Ten,Forest Evashevski,A,Indiana,Big Ten,Bob Hicks,W,47,7
+1957-10-19,Iowa,Big Ten,Forest Evashevski,H,Wisconsin,Big Ten,Milt Bruhn,W,21,7
+1957-10-26,Iowa,Big Ten,Forest Evashevski,A,Northwestern,Big Ten,Ara Parseghian,W,6,0
+1957-11-02,Iowa,Big Ten,Forest Evashevski,A,Michigan,Big Ten,Bennie Oosterbaan,T,21,21
+1957-11-09,Iowa,Big Ten,Forest Evashevski,H,Minnesota,Big Ten,Murray Warmath,W,44,20
+1957-11-16,Iowa,Big Ten,Forest Evashevski,A,Ohio State,Big Ten,Woody Hayes,L,13,17
+1957-11-23,Iowa,Big Ten,Forest Evashevski,A,Notre Dame,Ind,Terry Brennan,W,21,13
+1957-09-28,Columbia,Ivy,Aldo Donelli,A,Brown,Ivy,Alva Kelley,W,23,20
+1957-10-05,Columbia,Ivy,Aldo Donelli,H,Princeton,Ivy,Richard Colman,L,6,47
+1957-10-12,Columbia,Ivy,Aldo Donelli,A,Yale,Ivy,Jordan Olivar,L,0,19
+1957-10-19,Columbia,Ivy,Aldo Donelli,A,Harvard,Ivy,John Yovicsin,L,6,19
+1957-11-02,Columbia,Ivy,Aldo Donelli,A,Cornell,Ivy,George James,L,0,8
+1957-11-09,Columbia,Ivy,Aldo Donelli,H,Dartmouth,Ivy,Bob Blackman,L,0,7
+1957-11-16,Columbia,Ivy,Aldo Donelli,H,Pennsylvania,Ivy,Steve Sebo,L,6,28
+1957-11-23,Columbia,Ivy,Aldo Donelli,H,Rutgers,Ind,John Stiegman,L,7,26
+1957-09-21,Texas,SWC,Darrell Royal,A,Georgia,SEC,Wallace Butts,W,26,7
+1957-09-28,Texas,SWC,Darrell Royal,H,Tulane,SEC,Andy Pilney,W,20,6
+1957-10-05,Texas,SWC,Darrell Royal,H,South Carolina,ACC,Warren Giese,L,21,27
+1957-10-12,Texas,SWC,Darrell Royal,N,Oklahoma,Big 7,Bud Wilkinson,L,7,21
+1957-10-19,Texas,SWC,Darrell Royal,A,Arkansas,SWC,Jack Mitchell,W,17,0
+1957-10-26,Texas,SWC,Darrell Royal,H,Rice,SWC,Jess Neely,W,19,14
+1957-11-02,Texas,SWC,Darrell Royal,A,SMU,SWC,Bill Meek,L,12,19
+1957-11-09,Texas,SWC,Darrell Royal,H,Baylor,SWC,Sam Boyd,T,7,7
+1957-11-16,Texas,SWC,Darrell Royal,H,Texas Christian,SWC,Abe Martin,W,14,2
+1957-11-28,Texas,SWC,Darrell Royal,A,Texas A&M,SWC,Bear Bryant,W,9,7
+1958-01-01,Texas,SWC,Darrell Royal,N,Ole Miss,SEC,John Vaught,L,7,39
+1957-09-21,Texas Christian,SWC,Abe Martin,H,Kansas,Big 7,Chuck Mather,T,13,13
+1957-09-28,Texas Christian,SWC,Abe Martin,A,Ohio State,Big Ten,Woody Hayes,W,18,14
+1957-10-05,Texas Christian,SWC,Abe Martin,A,Arkansas,SWC,Jack Mitchell,L,7,20
+1957-10-12,Texas Christian,SWC,Abe Martin,H,Alabama,SEC,Jennings Whitworth,W,28,0
+1957-10-19,Texas Christian,SWC,Abe Martin,H,Texas A&M,SWC,Bear Bryant,L,0,7
+1957-10-26,Texas Christian,SWC,Abe Martin,A,Marquette,Ind,Johnny Druze,W,26,7
+1957-11-02,Texas Christian,SWC,Abe Martin,A,Baylor,SWC,Sam Boyd,W,19,6
+1957-11-16,Texas Christian,SWC,Abe Martin,A,Texas,SWC,Darrell Royal,L,2,14
+1957-11-23,Texas Christian,SWC,Abe Martin,H,Rice,SWC,Jess Neely,L,0,20
+1957-11-30,Texas Christian,SWC,Abe Martin,H,SMU,SWC,Bill Meek,W,21,0
+1957-09-20,Air Force,Ind,Buck Shaw,A,UCLA,PCC,Red Sanders,L,0,47
+1957-10-05,Air Force,Ind,Buck Shaw,H,Detroit Mercy,Ind,Wally Fromhart,W,19,12
+1957-10-11,Air Force,Ind,Buck Shaw,A,George Washington,Southern,Bo Sherman,L,0,20
+1957-10-26,Air Force,Ind,Buck Shaw,A,Tulsa,MVC,Robert Dobbs,L,7,12
+1957-11-02,Air Force,Ind,Buck Shaw,A,Wyoming,Skyline,Bob Devaney,T,7,7
+1957-11-09,Air Force,Ind,Buck Shaw,H,Denver,Skyline,John Roning,L,14,26
+1957-11-16,Air Force,Ind,Buck Shaw,A,Utah,Skyline,Jack Curtice,L,0,34
+1957-11-23,Air Force,Ind,Buck Shaw,H,New Mexico,Skyline,Dick Clausen,W,31,0
+1957-11-30,Air Force,Ind,Buck Shaw,H,Colorado State,Skyline,Tuffy Mullison,L,7,20
+1957-09-21,Miami (FL),Ind,Andy Gustafson,A,Houston,MVC,Hal Lahar,L,0,7
+1957-10-05,Miami (FL),Ind,Andy Gustafson,H,Baylor,SWC,Sam Boyd,W,13,7
+1957-10-11,Miami (FL),Ind,Andy Gustafson,H,North Carolina,ACC,Jim Tatum,L,13,20
+1957-10-18,Miami (FL),Ind,Andy Gustafson,H,North Carolina State,ACC,Earle Edwards,T,0,0
+1957-10-25,Miami (FL),Ind,Andy Gustafson,H,Kansas,Big 7,Chuck Mather,W,48,6
+1957-11-01,Miami (FL),Ind,Andy Gustafson,H,Villanova,Ind,Francis Reagan,W,13,7
+1957-11-08,Miami (FL),Ind,Andy Gustafson,A,Florida State,Ind,Thomas Nugent,W,40,13
+1957-11-15,Miami (FL),Ind,Andy Gustafson,H,Maryland,ACC,Tommy Mont,L,6,16
+1957-11-30,Miami (FL),Ind,Andy Gustafson,H,Florida,SEC,Bob Woodruff,L,0,14
+1957-12-07,Miami (FL),Ind,Andy Gustafson,H,Pitt,Ind,John Michelosen,W,28,13
+1957-09-28,Richmond,Southern,Edwin Merrick,A,Dayton,Ind,William Kerr,L,7,12
+1957-10-05,Richmond,Southern,Edwin Merrick,H,Virginia Military Institute,Southern,John McKenna,L,6,28
+1957-10-19,Richmond,Southern,Edwin Merrick,A,Citadel,Southern,Eddie Teague,L,0,26
+1957-10-26,Richmond,Southern,Edwin Merrick,A,Rutgers,Ind,John Stiegman,L,13,26
+1957-11-02,Richmond,Southern,Edwin Merrick,A,Virginia Tech,Southern,Frank Moseley,L,7,42
+1957-11-09,Richmond,Southern,Edwin Merrick,H,George Washington,Southern,Bo Sherman,W,13,6
+1957-11-16,Richmond,Southern,Edwin Merrick,H,Davidson,Southern,,L,19,23
+1957-11-28,Richmond,Southern,Edwin Merrick,H,William & Mary,Southern,Milt Drewer,W,12,7
+1957-09-21,Oregon,PCC,Len Casanova,A,Idaho,PCC,Skip Stahley,W,9,6
+1957-09-28,Oregon,PCC,Len Casanova,H,Pitt,Ind,John Michelosen,L,3,6
+1957-10-05,Oregon,PCC,Len Casanova,H,UCLA,PCC,Red Sanders,W,21,0
+1957-10-12,Oregon,PCC,Len Casanova,H,San Jose State,Ind,Robert Titchenal,W,26,0
+1957-10-19,Oregon,PCC,Len Casanova,A,Washington State,PCC,Jim Sutherland,W,14,13
+1957-10-26,Oregon,PCC,Len Casanova,H,California,PCC,Pete Elliott,W,24,6
+1957-11-02,Oregon,PCC,Len Casanova,A,Stanford,PCC,Chuck Taylor,W,27,26
+1957-11-09,Oregon,PCC,Len Casanova,H,Washington,PCC,Jim Owens,L,6,13
+1957-11-16,Oregon,PCC,Len Casanova,A,USC,PCC,Don Clark,W,16,7
+1957-11-23,Oregon,PCC,Len Casanova,H,Oregon State,PCC,Tommy Prothro,L,7,10
+1958-01-01,Oregon,PCC,Len Casanova,N,Ohio State,Big Ten,Woody Hayes,L,7,10
+1957-09-28,Brown,Ivy,Alva Kelley,H,Columbia,Ivy,Aldo Donelli,L,20,23
+1957-10-05,Brown,Ivy,Alva Kelley,A,Yale,Ivy,Jordan Olivar,W,21,20
+1957-10-12,Brown,Ivy,Alva Kelley,A,Dartmouth,Ivy,Bob Blackman,L,0,35
+1957-10-19,Brown,Ivy,Alva Kelley,H,Pennsylvania,Ivy,Steve Sebo,W,20,7
+1957-11-02,Brown,Ivy,Alva Kelley,H,Princeton,Ivy,Richard Colman,L,0,7
+1957-11-09,Brown,Ivy,Alva Kelley,A,Cornell,Ivy,George James,L,6,13
+1957-11-16,Brown,Ivy,Alva Kelley,A,Harvard,Ivy,John Yovicsin,W,33,6
+1957-11-28,Brown,Ivy,Alva Kelley,H,Colgate,Ind,Fred Rice,W,33,7
+1957-09-28,Tennessee,SEC,Bowden Wyatt,H,Auburn,SEC,Ralph Jordan,L,0,7
+1957-10-05,Tennessee,SEC,Bowden Wyatt,H,Mississippi State,SEC,Wade Walker,W,14,9
+1957-10-19,Tennessee,SEC,Bowden Wyatt,A,Alabama,SEC,Jennings Whitworth,W,14,0
+1957-10-26,Tennessee,SEC,Bowden Wyatt,A,Maryland,ACC,Tommy Mont,W,16,0
+1957-11-02,Tennessee,SEC,Bowden Wyatt,A,North Carolina,ACC,Jim Tatum,W,35,0
+1957-11-09,Tennessee,SEC,Bowden Wyatt,H,Georgia Tech,SEC,Bobby Dodd,W,21,6
+1957-11-16,Tennessee,SEC,Bowden Wyatt,N,Ole Miss,SEC,John Vaught,L,7,14
+1957-11-23,Tennessee,SEC,Bowden Wyatt,A,Kentucky,SEC,Blanton Collier,L,6,20
+1957-11-30,Tennessee,SEC,Bowden Wyatt,H,Vanderbilt,SEC,Arthur Guepe,W,20,6
+1957-12-28,Tennessee,SEC,Bowden Wyatt,N,Texas A&M,SWC,Bear Bryant,W,3,0
+1957-09-21,Oregon State,PCC,Tommy Prothro,H,USC,PCC,Don Clark,W,20,0
+1957-09-28,Oregon State,PCC,Tommy Prothro,A,Kansas,Big 7,Chuck Mather,W,34,6
+1957-10-05,Oregon State,PCC,Tommy Prothro,A,Northwestern,Big Ten,Ara Parseghian,W,22,13
+1957-10-12,Oregon State,PCC,Tommy Prothro,H,Idaho,PCC,Skip Stahley,W,20,0
+1957-10-19,Oregon State,PCC,Tommy Prothro,A,UCLA,PCC,Red Sanders,L,7,26
+1957-10-26,Oregon State,PCC,Tommy Prothro,A,Washington,PCC,Jim Owens,L,6,19
+1957-11-02,Oregon State,PCC,Tommy Prothro,H,Washington State,PCC,Jim Sutherland,W,39,25
+1957-11-09,Oregon State,PCC,Tommy Prothro,A,California,PCC,Pete Elliott,W,21,19
+1957-11-16,Oregon State,PCC,Tommy Prothro,H,Stanford,PCC,Chuck Taylor,W,24,14
+1957-11-23,Oregon State,PCC,Tommy Prothro,A,Oregon,PCC,Len Casanova,W,10,7
+1957-09-28,Alabama,SEC,Jennings Whitworth,A,LSU,SEC,Paul Dietzel,L,0,28
+1957-10-05,Alabama,SEC,Jennings Whitworth,A,Vanderbilt,SEC,Arthur Guepe,T,6,6
+1957-10-12,Alabama,SEC,Jennings Whitworth,A,Texas Christian,SWC,Abe Martin,L,0,28
+1957-10-19,Alabama,SEC,Jennings Whitworth,H,Tennessee,SEC,Bowden Wyatt,L,0,14
+1957-10-26,Alabama,SEC,Jennings Whitworth,H,Mississippi State,SEC,Wade Walker,L,13,25
+1957-11-02,Alabama,SEC,Jennings Whitworth,A,Georgia,SEC,Wallace Butts,W,14,13
+1957-11-09,Alabama,SEC,Jennings Whitworth,H,Tulane,SEC,Andy Pilney,L,0,7
+1957-11-16,Alabama,SEC,Jennings Whitworth,H,Georgia Tech,SEC,Bobby Dodd,L,7,10
+1957-11-30,Alabama,SEC,Jennings Whitworth,N,Auburn,SEC,Ralph Jordan,L,0,40
+1957-09-21,Dayton,Ind,William Kerr,A,Cincinnati,MVC,George Blackburn,T,13,13
+1957-09-28,Dayton,Ind,William Kerr,H,Richmond,Southern,Edwin Merrick,W,12,7
+1957-10-05,Dayton,Ind,William Kerr,A,Holy Cross,Ind,Edward Anderson,L,6,32
+1957-10-12,Dayton,Ind,William Kerr,A,Boston College,Ind,Mike Holovak,L,14,41
+1957-11-02,Dayton,Ind,William Kerr,A,Wichita State,MVC,Woody Woodard,W,40,13
+1957-11-23,Dayton,Ind,William Kerr,H,Detroit Mercy,Ind,Wally Fromhart,W,20,10
+1957-09-28,Purdue,Big Ten,Jack Mollenkopf,H,Notre Dame,Ind,Terry Brennan,L,0,12
+1957-10-05,Purdue,Big Ten,Jack Mollenkopf,A,Minnesota,Big Ten,Murray Warmath,L,17,21
+1957-10-12,Purdue,Big Ten,Jack Mollenkopf,H,Wisconsin,Big Ten,Milt Bruhn,L,14,23
+1957-10-19,Purdue,Big Ten,Jack Mollenkopf,A,Michigan State,Big Ten,Duffy Daugherty,W,20,13
+1957-11-02,Purdue,Big Ten,Jack Mollenkopf,A,Illinois,Big Ten,Ray Eliot,W,21,6
+1957-11-09,Purdue,Big Ten,Jack Mollenkopf,A,Ohio State,Big Ten,Woody Hayes,L,7,20
+1957-11-16,Purdue,Big Ten,Jack Mollenkopf,H,Northwestern,Big Ten,Ara Parseghian,W,27,0
+1957-11-23,Purdue,Big Ten,Jack Mollenkopf,A,Indiana,Big Ten,Bob Hicks,W,35,13
+1957-09-21,Nebraska,Big 7,William Jennings,H,Washington State,PCC,Jim Sutherland,L,12,34
+1957-09-28,Nebraska,Big 7,William Jennings,A,Army,Ind,Red Blaik,L,0,42
+1957-10-05,Nebraska,Big 7,William Jennings,A,Kansas State,Big 7,Bernard Mertes,W,14,7
+1957-10-12,Nebraska,Big 7,William Jennings,A,Pitt,Ind,John Michelosen,L,0,34
+1957-10-19,Nebraska,Big 7,William Jennings,H,Syracuse,Ind,Ben Schwartzwalder,L,9,26
+1957-10-26,Nebraska,Big 7,William Jennings,A,Missouri,Big 7,Frank Broyles,L,13,14
+1957-11-02,Nebraska,Big 7,William Jennings,H,Kansas,Big 7,Chuck Mather,L,12,14
+1957-11-09,Nebraska,Big 7,William Jennings,A,Iowa State,Big 7,Jim Myers,L,0,13
+1957-11-16,Nebraska,Big 7,William Jennings,H,Colorado,Big 7,Dallas Ward,L,0,27
+1957-11-23,Nebraska,Big 7,William Jennings,H,Oklahoma,Big 7,Bud Wilkinson,L,7,32
+1957-09-21,West Virginia,Southern,Art Lewis,H,Virginia,ACC,Ben Martin,T,6,6
+1957-09-28,West Virginia,Southern,Art Lewis,H,Virginia Tech,Southern,Frank Moseley,W,14,0
+1957-10-05,West Virginia,Southern,Art Lewis,A,Wisconsin,Big Ten,Milt Bruhn,L,13,45
+1957-10-12,West Virginia,Southern,Art Lewis,A,Boston University,Ind,Steve Sinko,W,46,6
+1957-10-18,West Virginia,Southern,Art Lewis,A,George Washington,Southern,Bo Sherman,W,34,14
+1957-10-26,West Virginia,Southern,Art Lewis,H,William & Mary,Southern,Milt Drewer,W,19,0
+1957-11-02,West Virginia,Southern,Art Lewis,A,Penn State,Ind,Rip Engle,L,6,27
+1957-11-09,West Virginia,Southern,Art Lewis,A,Pitt,Ind,John Michelosen,W,7,6
+1957-11-16,West Virginia,Southern,Art Lewis,A,Wake Forest,ACC,Paul Amen,W,27,14
+1957-11-23,West Virginia,Southern,Art Lewis,H,Syracuse,Ind,Ben Schwartzwalder,W,7,0
+1957-10-05,Harvard,Ivy,John Yovicsin,H,Cornell,Ivy,George James,L,6,20
+1957-10-19,Harvard,Ivy,John Yovicsin,H,Columbia,Ivy,Aldo Donelli,W,19,6
+1957-10-26,Harvard,Ivy,John Yovicsin,H,Dartmouth,Ivy,Bob Blackman,L,0,26
+1957-11-02,Harvard,Ivy,John Yovicsin,A,Pennsylvania,Ivy,Steve Sebo,W,13,6
+1957-11-09,Harvard,Ivy,John Yovicsin,H,Princeton,Ivy,Richard Colman,L,20,28
+1957-11-16,Harvard,Ivy,John Yovicsin,H,Brown,Ivy,Alva Kelley,L,6,33
+1957-11-23,Harvard,Ivy,John Yovicsin,A,Yale,Ivy,Jordan Olivar,L,0,54
+1957-09-21,Oklahoma State,Ind,Cliff Speegle,A,Arkansas,SWC,Jack Mitchell,L,0,12
+1957-09-28,Oklahoma State,Ind,Cliff Speegle,A,North Texas,MVC,Odus Mitchell,W,25,19
+1957-10-05,Oklahoma State,Ind,Cliff Speegle,H,Wichita State,MVC,Woody Woodard,W,26,0
+1957-10-12,Oklahoma State,Ind,Cliff Speegle,H,Tulsa,MVC,Robert Dobbs,W,28,13
+1957-10-19,Oklahoma State,Ind,Cliff Speegle,A,Houston,MVC,Hal Lahar,T,6,6
+1957-11-02,Oklahoma State,Ind,Cliff Speegle,H,Texas Tech,Ind,DeWitt Weaver,W,13,0
+1957-11-09,Oklahoma State,Ind,Cliff Speegle,H,Wyoming,Skyline,Bob Devaney,W,39,6
+1957-11-16,Oklahoma State,Ind,Cliff Speegle,A,Kansas,Big 7,Chuck Mather,L,7,13
+1957-11-23,Oklahoma State,Ind,Cliff Speegle,A,Hardin-Simmons,BIAA,Sammy Baugh,W,32,7
+1957-11-30,Oklahoma State,Ind,Cliff Speegle,A,Oklahoma,Big 7,Bud Wilkinson,L,6,53
+1957-09-21,Colorado,Big 7,Dallas Ward,A,Washington,PCC,Jim Owens,T,6,6
+1957-09-28,Colorado,Big 7,Dallas Ward,H,Utah,Skyline,Jack Curtice,W,30,24
+1957-10-05,Colorado,Big 7,Dallas Ward,H,Kansas,Big 7,Chuck Mather,L,34,35
+1957-10-12,Colorado,Big 7,Dallas Ward,H,Arizona,BIAA,Edward Doherty,W,34,14
+1957-10-19,Colorado,Big 7,Dallas Ward,A,Kansas State,Big 7,Bernard Mertes,W,42,14
+1957-10-26,Colorado,Big 7,Dallas Ward,A,Oklahoma,Big 7,Bud Wilkinson,L,13,14
+1957-11-02,Colorado,Big 7,Dallas Ward,H,Missouri,Big 7,Frank Broyles,L,6,9
+1957-11-09,Colorado,Big 7,Dallas Ward,A,Colorado State,Skyline,Tuffy Mullison,W,20,0
+1957-11-16,Colorado,Big 7,Dallas Ward,A,Nebraska,Big 7,William Jennings,W,27,0
+1957-11-23,Colorado,Big 7,Dallas Ward,H,Iowa State,Big 7,Jim Myers,W,38,21
+1957-09-28,Colorado State,Skyline,Tuffy Mullison,H,New Mexico,Skyline,Dick Clausen,L,7,30
+1957-10-05,Colorado State,Skyline,Tuffy Mullison,H,Denver,Skyline,John Roning,W,27,6
+1957-10-12,Colorado State,Skyline,Tuffy Mullison,A,Wyoming,Skyline,Bob Devaney,L,13,27
+1957-10-26,Colorado State,Skyline,Tuffy Mullison,H,Utah State,Skyline,Everett Faunce,L,14,27
+1957-11-03,Colorado State,Skyline,Tuffy Mullison,A,Utah,Skyline,Jack Curtice,L,0,55
+1957-11-09,Colorado State,Skyline,Tuffy Mullison,H,Colorado,Big 7,Dallas Ward,L,0,20
+1957-11-16,Colorado State,Skyline,Tuffy Mullison,A,Montana,Skyline,Jerry Williams,W,19,7
+1957-11-23,Colorado State,Skyline,Tuffy Mullison,A,Brigham Young,Skyline,Harold Kopp,L,9,26
+1957-11-30,Colorado State,Skyline,Tuffy Mullison,A,Air Force,Ind,Buck Shaw,W,20,7
+1957-09-21,Rice,SWC,Jess Neely,A,LSU,SEC,Paul Dietzel,W,20,14
+1957-10-05,Rice,SWC,Jess Neely,H,Stanford,PCC,Chuck Taylor,W,34,7
+1957-10-12,Rice,SWC,Jess Neely,H,Duke,ACC,Bill Murray,L,6,7
+1957-10-19,Rice,SWC,Jess Neely,A,SMU,SWC,Bill Meek,W,27,21
+1957-10-26,Rice,SWC,Jess Neely,A,Texas,SWC,Darrell Royal,L,14,19
+1957-11-02,Rice,SWC,Jess Neely,H,Clemson,ACC,Frank Howard,L,7,20
+1957-11-09,Rice,SWC,Jess Neely,H,Arkansas,SWC,Jack Mitchell,W,13,7
+1957-11-16,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Bear Bryant,W,7,6
+1957-11-23,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Abe Martin,W,20,0
+1957-11-30,Rice,SWC,Jess Neely,H,Baylor,SWC,Sam Boyd,W,20,0
+1958-01-01,Rice,SWC,Jess Neely,N,Navy,Ind,Eddie Erdelatz,L,7,20
+1957-09-21,Texas A&M,SWC,Bear Bryant,H,Maryland,ACC,Tommy Mont,W,21,13
+1957-09-28,Texas A&M,SWC,Bear Bryant,A,Texas Tech,Ind,DeWitt Weaver,W,21,0
+1957-10-05,Texas A&M,SWC,Bear Bryant,A,Missouri,Big 7,Frank Broyles,W,28,0
+1957-10-12,Texas A&M,SWC,Bear Bryant,H,Houston,MVC,Hal Lahar,W,28,6
+1957-10-19,Texas A&M,SWC,Bear Bryant,A,Texas Christian,SWC,Abe Martin,W,7,0
+1957-10-26,Texas A&M,SWC,Bear Bryant,H,Baylor,SWC,Sam Boyd,W,14,0
+1957-11-02,Texas A&M,SWC,Bear Bryant,A,Arkansas,SWC,Jack Mitchell,W,7,6
+1957-11-09,Texas A&M,SWC,Bear Bryant,H,SMU,SWC,Bill Meek,W,19,6
+1957-11-16,Texas A&M,SWC,Bear Bryant,A,Rice,SWC,Jess Neely,L,6,7
+1957-11-28,Texas A&M,SWC,Bear Bryant,H,Texas,SWC,Darrell Royal,L,7,9
+1957-12-28,Texas A&M,SWC,Bear Bryant,N,Tennessee,SEC,Bowden Wyatt,L,0,3
+1957-10-05,Davidson,Southern,,H,Citadel,Southern,Eddie Teague,L,7,21
+1957-10-12,Davidson,Southern,,A,Virginia Military Institute,Southern,John McKenna,L,14,26
+1957-11-16,Davidson,Southern,,A,Richmond,Southern,Edwin Merrick,W,23,19
+1957-11-22,Davidson,Southern,,A,Furman,Southern,Homer Hobbs,L,2,6
+1957-09-28,Michigan State,Big Ten,Duffy Daugherty,H,Indiana,Big Ten,Bob Hicks,W,54,0
+1957-10-05,Michigan State,Big Ten,Duffy Daugherty,A,California,PCC,Pete Elliott,W,19,0
+1957-10-12,Michigan State,Big Ten,Duffy Daugherty,A,Michigan,Big Ten,Bennie Oosterbaan,W,35,6
+1957-10-19,Michigan State,Big Ten,Duffy Daugherty,H,Purdue,Big Ten,Jack Mollenkopf,L,13,20
+1957-10-26,Michigan State,Big Ten,Duffy Daugherty,H,Illinois,Big Ten,Ray Eliot,W,19,14
+1957-11-02,Michigan State,Big Ten,Duffy Daugherty,A,Wisconsin,Big Ten,Milt Bruhn,W,21,7
+1957-11-09,Michigan State,Big Ten,Duffy Daugherty,H,Notre Dame,Ind,Terry Brennan,W,34,6
+1957-11-16,Michigan State,Big Ten,Duffy Daugherty,H,Minnesota,Big Ten,Murray Warmath,W,42,13
+1957-11-23,Michigan State,Big Ten,Duffy Daugherty,H,Kansas State,Big 7,Bernard Mertes,W,27,9
+1957-09-21,Boston College,Ind,Mike Holovak,H,Navy,Ind,Eddie Erdelatz,L,6,46
+1957-09-28,Boston College,Ind,Mike Holovak,H,Florida State,Ind,Thomas Nugent,W,20,7
+1957-10-12,Boston College,Ind,Mike Holovak,H,Dayton,Ind,William Kerr,W,41,14
+1957-10-19,Boston College,Ind,Mike Holovak,H,Villanova,Ind,Francis Reagan,W,12,9
+1957-10-26,Boston College,Ind,Mike Holovak,A,Detroit Mercy,Ind,Wally Fromhart,W,20,16
+1957-11-09,Boston College,Ind,Mike Holovak,A,Boston University,Ind,Steve Sinko,W,27,2
+1957-11-16,Boston College,Ind,Mike Holovak,H,Marquette,Ind,Johnny Druze,W,19,14
+1957-11-30,Boston College,Ind,Mike Holovak,A,Holy Cross,Ind,Edward Anderson,L,0,14
+1957-09-28,Colgate,Ind,Fred Rice,A,Cornell,Ivy,George James,W,14,13
+1957-10-05,Colgate,Ind,Fred Rice,A,Illinois,Big Ten,Ray Eliot,L,0,40
+1957-10-12,Colgate,Ind,Fred Rice,H,Rutgers,Ind,John Stiegman,L,6,48
+1957-10-19,Colgate,Ind,Fred Rice,A,Princeton,Ivy,Richard Colman,W,12,10
+1957-10-26,Colgate,Ind,Fred Rice,A,Yale,Ivy,Jordan Olivar,L,0,20
+1957-11-02,Colgate,Ind,Fred Rice,A,Army,Ind,Red Blaik,L,7,53
+1957-11-16,Colgate,Ind,Fred Rice,A,Syracuse,Ind,Ben Schwartzwalder,L,6,34
+1957-11-28,Colgate,Ind,Fred Rice,A,Brown,Ivy,Alva Kelley,L,7,33
+1957-09-21,New Mexico State,BIAA,Tony Cavallo,A,New Mexico,Skyline,Dick Clausen,L,7,25
+1957-10-19,New Mexico State,BIAA,Tony Cavallo,H,West Texas A&M,BIAA,Frank Kimbrough,L,7,35
+1957-10-26,New Mexico State,BIAA,Tony Cavallo,A,UTEP,BIAA,Ben Collins,L,12,42
+1957-11-02,New Mexico State,BIAA,Tony Cavallo,A,Arizona State,BIAA,Dan Devine,L,0,21
+1957-11-28,New Mexico State,BIAA,Tony Cavallo,A,Hardin-Simmons,BIAA,Sammy Baugh,L,20,29
+1957-09-28,Minnesota,Big Ten,Murray Warmath,H,Washington,PCC,Jim Owens,W,46,7
+1957-10-05,Minnesota,Big Ten,Murray Warmath,H,Purdue,Big Ten,Jack Mollenkopf,W,21,17
+1957-10-12,Minnesota,Big Ten,Murray Warmath,A,Northwestern,Big Ten,Ara Parseghian,W,41,6
+1957-10-19,Minnesota,Big Ten,Murray Warmath,A,Illinois,Big Ten,Ray Eliot,L,13,34
+1957-10-26,Minnesota,Big Ten,Murray Warmath,H,Michigan,Big Ten,Bennie Oosterbaan,L,7,24
+1957-11-02,Minnesota,Big Ten,Murray Warmath,H,Indiana,Big Ten,Bob Hicks,W,34,0
+1957-11-09,Minnesota,Big Ten,Murray Warmath,A,Iowa,Big Ten,Forest Evashevski,L,20,44
+1957-11-16,Minnesota,Big Ten,Murray Warmath,A,Michigan State,Big Ten,Duffy Daugherty,L,13,42
+1957-11-23,Minnesota,Big Ten,Murray Warmath,H,Wisconsin,Big Ten,Milt Bruhn,L,6,14
+1957-09-28,Ole Miss,SEC,John Vaught,A,Kentucky,SEC,Blanton Collier,W,15,0
+1957-10-05,Ole Miss,SEC,John Vaught,H,Hardin-Simmons,BIAA,Sammy Baugh,W,34,7
+1957-10-12,Ole Miss,SEC,John Vaught,A,Vanderbilt,SEC,Arthur Guepe,W,28,0
+1957-10-18,Ole Miss,SEC,John Vaught,A,Tulane,SEC,Andy Pilney,W,50,0
+1957-10-26,Ole Miss,SEC,John Vaught,N,Arkansas,SWC,Jack Mitchell,L,6,12
+1957-11-02,Ole Miss,SEC,John Vaught,H,Houston,MVC,Hal Lahar,W,20,7
+1957-11-09,Ole Miss,SEC,John Vaught,H,LSU,SEC,Paul Dietzel,W,14,12
+1957-11-16,Ole Miss,SEC,John Vaught,N,Tennessee,SEC,Bowden Wyatt,W,14,7
+1957-11-30,Ole Miss,SEC,John Vaught,A,Mississippi State,SEC,Wade Walker,T,7,7
+1958-01-01,Ole Miss,SEC,John Vaught,N,Texas,SWC,Darrell Royal,W,39,7
+1957-09-21,Duke,ACC,Bill Murray,A,South Carolina,ACC,Warren Giese,W,26,14
+1957-09-28,Duke,ACC,Bill Murray,H,Virginia,ACC,Ben Martin,W,40,0
+1957-10-05,Duke,ACC,Bill Murray,H,Maryland,ACC,Tommy Mont,W,14,0
+1957-10-12,Duke,ACC,Bill Murray,A,Rice,SWC,Jess Neely,W,7,6
+1957-10-19,Duke,ACC,Bill Murray,H,Wake Forest,ACC,Paul Amen,W,34,7
+1957-10-26,Duke,ACC,Bill Murray,A,North Carolina State,ACC,Earle Edwards,T,14,14
+1957-11-02,Duke,ACC,Bill Murray,A,Georgia Tech,SEC,Bobby Dodd,L,0,13
+1957-11-09,Duke,ACC,Bill Murray,A,Navy,Ind,Eddie Erdelatz,T,6,6
+1957-11-16,Duke,ACC,Bill Murray,H,Clemson,ACC,Frank Howard,W,7,6
+1957-11-23,Duke,ACC,Bill Murray,H,North Carolina,ACC,Jim Tatum,L,13,21
+1958-01-01,Duke,ACC,Bill Murray,N,Oklahoma,Big 7,Bud Wilkinson,L,21,48
+1957-09-21,Navy,Ind,Eddie Erdelatz,A,Boston College,Ind,Mike Holovak,W,46,6
+1957-09-28,Navy,Ind,Eddie Erdelatz,H,William & Mary,Southern,Milt Drewer,W,33,6
+1957-10-05,Navy,Ind,Eddie Erdelatz,A,North Carolina,ACC,Jim Tatum,L,7,13
+1957-10-12,Navy,Ind,Eddie Erdelatz,A,California,PCC,Pete Elliott,W,21,6
+1957-10-19,Navy,Ind,Eddie Erdelatz,H,Georgia,SEC,Wallace Butts,W,27,14
+1957-10-26,Navy,Ind,Eddie Erdelatz,A,Pennsylvania,Ivy,Steve Sebo,W,35,7
+1957-11-02,Navy,Ind,Eddie Erdelatz,A,Notre Dame,Ind,Terry Brennan,W,20,6
+1957-11-09,Navy,Ind,Eddie Erdelatz,H,Duke,ACC,Bill Murray,T,6,6
+1957-11-16,Navy,Ind,Eddie Erdelatz,N,George Washington,Southern,Bo Sherman,W,52,0
+1957-11-30,Navy,Ind,Eddie Erdelatz,N,Army,Ind,Red Blaik,W,14,0
+1958-01-01,Navy,Ind,Eddie Erdelatz,N,Rice,SWC,Jess Neely,W,20,7
+1957-09-21,Texas Tech,Ind,DeWitt Weaver,H,West Texas A&M,BIAA,Frank Kimbrough,L,0,19
+1957-09-28,Texas Tech,Ind,DeWitt Weaver,H,Texas A&M,SWC,Bear Bryant,L,0,21
+1957-10-05,Texas Tech,Ind,DeWitt Weaver,H,LSU,SEC,Paul Dietzel,L,14,19
+1957-10-12,Texas Tech,Ind,DeWitt Weaver,A,UTEP,BIAA,Ben Collins,L,14,26
+1957-10-19,Texas Tech,Ind,DeWitt Weaver,H,Baylor,SWC,Sam Boyd,L,12,15
+1957-10-26,Texas Tech,Ind,DeWitt Weaver,A,Arizona,BIAA,Edward Doherty,W,28,6
+1957-11-02,Texas Tech,Ind,DeWitt Weaver,A,Oklahoma State,Ind,Cliff Speegle,L,0,13
+1957-11-09,Texas Tech,Ind,DeWitt Weaver,H,Tulsa,MVC,Robert Dobbs,L,0,3
+1957-11-16,Texas Tech,Ind,DeWitt Weaver,H,Hardin-Simmons,BIAA,Sammy Baugh,W,26,21
+1957-11-23,Texas Tech,Ind,DeWitt Weaver,A,Arkansas,SWC,Jack Mitchell,L,26,47
+1957-09-20,Tulane,SEC,Andy Pilney,H,Virginia Tech,Southern,Frank Moseley,L,13,14
+1957-09-28,Tulane,SEC,Andy Pilney,A,Texas,SWC,Darrell Royal,L,6,20
+1957-10-05,Tulane,SEC,Andy Pilney,A,Marquette,Ind,Johnny Druze,W,20,6
+1957-10-11,Tulane,SEC,Andy Pilney,H,Georgia,SEC,Wallace Butts,L,6,13
+1957-10-18,Tulane,SEC,Andy Pilney,H,Ole Miss,SEC,John Vaught,L,0,50
+1957-10-26,Tulane,SEC,Andy Pilney,H,Georgia Tech,SEC,Bobby Dodd,L,13,20
+1957-11-02,Tulane,SEC,Andy Pilney,A,Mississippi State,SEC,Wade Walker,L,6,27
+1957-11-09,Tulane,SEC,Andy Pilney,A,Alabama,SEC,Jennings Whitworth,W,7,0
+1957-11-16,Tulane,SEC,Andy Pilney,A,Army,Ind,Red Blaik,L,14,20
+1957-11-30,Tulane,SEC,Andy Pilney,A,LSU,SEC,Paul Dietzel,L,6,25
+1957-09-28,Cornell,Ivy,George James,H,Colgate,Ind,Fred Rice,L,13,14
+1957-10-05,Cornell,Ivy,George James,A,Harvard,Ivy,John Yovicsin,W,20,6
+1957-10-12,Cornell,Ivy,George James,H,Syracuse,Ind,Ben Schwartzwalder,L,0,34
+1957-10-19,Cornell,Ivy,George James,H,Yale,Ivy,Jordan Olivar,L,7,18
+1957-10-26,Cornell,Ivy,George James,A,Princeton,Ivy,Richard Colman,L,14,47
+1957-11-02,Cornell,Ivy,George James,H,Columbia,Ivy,Aldo Donelli,W,8,0
+1957-11-09,Cornell,Ivy,George James,H,Brown,Ivy,Alva Kelley,W,13,6
+1957-11-16,Cornell,Ivy,George James,A,Dartmouth,Ivy,Bob Blackman,L,19,20
+1957-11-28,Cornell,Ivy,George James,A,Pennsylvania,Ivy,Steve Sebo,L,6,14
+1957-09-28,Ohio State,Big Ten,Woody Hayes,H,Texas Christian,SWC,Abe Martin,L,14,18
+1957-10-05,Ohio State,Big Ten,Woody Hayes,A,Washington,PCC,Jim Owens,W,35,7
+1957-10-12,Ohio State,Big Ten,Woody Hayes,H,Illinois,Big Ten,Ray Eliot,W,21,7
+1957-10-19,Ohio State,Big Ten,Woody Hayes,H,Indiana,Big Ten,Bob Hicks,W,56,0
+1957-10-26,Ohio State,Big Ten,Woody Hayes,A,Wisconsin,Big Ten,Milt Bruhn,W,16,13
+1957-11-02,Ohio State,Big Ten,Woody Hayes,H,Northwestern,Big Ten,Ara Parseghian,W,47,6
+1957-11-09,Ohio State,Big Ten,Woody Hayes,H,Purdue,Big Ten,Jack Mollenkopf,W,20,7
+1957-11-16,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Forest Evashevski,W,17,13
+1957-11-23,Ohio State,Big Ten,Woody Hayes,A,Michigan,Big Ten,Bennie Oosterbaan,W,31,14
+1958-01-01,Ohio State,Big Ten,Woody Hayes,N,Oregon,PCC,Len Casanova,W,10,7
+1957-10-05,Drake,Ind,Warren Gaer,A,North Texas,MVC,Odus Mitchell,W,19,6
+1957-11-02,Drake,Ind,Warren Gaer,H,Iowa State,Big 7,Jim Myers,W,20,0
+1957-11-09,Drake,Ind,Warren Gaer,A,Wichita State,MVC,Woody Woodard,L,7,14
+1957-11-16,Drake,Ind,Warren Gaer,H,West Texas A&M,BIAA,Frank Kimbrough,W,20,19
+1957-09-21,Houston,MVC,Hal Lahar,H,Miami (FL),Ind,Andy Gustafson,W,7,0
+1957-09-28,Houston,MVC,Hal Lahar,A,Baylor,SWC,Sam Boyd,L,6,14
+1957-10-05,Houston,MVC,Hal Lahar,A,Cincinnati,MVC,George Blackburn,W,7,0
+1957-10-12,Houston,MVC,Hal Lahar,A,Texas A&M,SWC,Bear Bryant,L,6,28
+1957-10-19,Houston,MVC,Hal Lahar,H,Oklahoma State,Ind,Cliff Speegle,T,6,6
+1957-10-26,Houston,MVC,Hal Lahar,H,Auburn,SEC,Ralph Jordan,L,7,48
+1957-11-02,Houston,MVC,Hal Lahar,A,Ole Miss,SEC,John Vaught,L,7,20
+1957-11-16,Houston,MVC,Hal Lahar,A,Wichita State,MVC,Woody Woodard,W,27,6
+1957-11-23,Houston,MVC,Hal Lahar,A,Tulsa,MVC,Robert Dobbs,W,13,7

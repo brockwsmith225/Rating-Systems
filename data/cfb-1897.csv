@@ -1,0 +1,171 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1897-09-25,Brown,Ind,Wallace Moyle,H,Tufts,Ind,J.D. Upton,W,24,0
+1897-10-06,Brown,Ind,Wallace Moyle,H,Wesleyan (CT),Ind,,W,24,12
+1897-10-20,Brown,Ind,Wallace Moyle,A,Yale,Ind,Frank Butterworth,L,14,18
+1897-10-23,Brown,Ind,Wallace Moyle,A,Harvard,Ind,W. Cameron Forbes,L,0,18
+1897-10-30,Brown,Ind,Wallace Moyle,H,Pennsylvania,Ind,George Woodruff,L,0,40
+1897-11-13,Brown,Ind,Wallace Moyle,H,Carlisle,Ind,William Bull,W,18,14
+1897-11-20,Brown,Ind,Wallace Moyle,A,Army,Ind,Herman Koehler,L,0,42
+1897-11-27,Brown,Ind,Wallace Moyle,H,Wesleyan (CT),Ind,,W,12,4
+1897-09-29,Trinity (CT),Ind,Everett Lake,H,Yale,Ind,Frank Butterworth,L,0,10
+1897-10-02,Trinity (CT),Ind,Everett Lake,A,Army,Ind,Herman Koehler,L,6,38
+1897-10-30,Trinity (CT),Ind,Everett Lake,A,Tufts,Ind,J.D. Upton,L,10,18
+1897-11-06,Trinity (CT),Ind,Everett Lake,A,Amherst,Ind,,W,18,0
+1897-11-10,Trinity (CT),Ind,Everett Lake,H,Wesleyan (CT),Ind,,L,4,6
+1897-10-02,Dickinson,Ind,N.P. Stauffer,N,Carlisle,Ind,William Bull,L,0,36
+1897-10-20,Dickinson,Ind,N.P. Stauffer,A,Lehigh,Ind,S.M. Hammond,L,0,5
+1897-11-13,Dickinson,Ind,N.P. Stauffer,A,Lafayette,Ind,Parke Davis,L,0,19
+1897-11-20,Dickinson,Ind,N.P. Stauffer,H,Franklin & Marshall,Ind,,W,42,0
+1897-11-25,Dickinson,Ind,N.P. Stauffer,N,Penn State,Ind,Samuel Newton,W,6,0
+1897-09-29,Yale,Ind,Frank Butterworth,A,Trinity (CT),Ind,Everett Lake,W,10,0
+1897-10-02,Yale,Ind,Frank Butterworth,H,Wesleyan (CT),Ind,,W,30,0
+1897-10-06,Yale,Ind,Frank Butterworth,H,Amherst,Ind,,W,18,0
+1897-10-09,Yale,Ind,Frank Butterworth,H,Williams,Ind,,W,32,0
+1897-10-20,Yale,Ind,Frank Butterworth,H,Brown,Ind,Wallace Moyle,W,18,14
+1897-10-23,Yale,Ind,Frank Butterworth,N,Carlisle,Ind,William Bull,W,24,9
+1897-10-30,Yale,Ind,Frank Butterworth,H,Army,Ind,Herman Koehler,T,6,6
+1897-11-13,Yale,Ind,Frank Butterworth,A,Harvard,Ind,W. Cameron Forbes,T,0,0
+1897-11-20,Yale,Ind,Frank Butterworth,H,Princeton,Ind,,W,6,0
+1897-09-25,Franklin & Marshall,Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,33
+1897-10-06,Franklin & Marshall,Ind,,H,Lafayette,Ind,Parke Davis,L,0,8
+1897-10-20,Franklin & Marshall,Ind,,A,Princeton,Ind,,L,0,54
+1897-11-20,Franklin & Marshall,Ind,,A,Dickinson,Ind,N.P. Stauffer,L,0,42
+1897-10-02,Lehigh,Ind,S.M. Hammond,A,Princeton,Ind,,L,0,43
+1897-10-06,Lehigh,Ind,S.M. Hammond,H,Williams,Ind,,W,5,0
+1897-10-09,Lehigh,Ind,S.M. Hammond,A,Pennsylvania,Ind,George Woodruff,L,0,58
+1897-10-20,Lehigh,Ind,S.M. Hammond,H,Dickinson,Ind,N.P. Stauffer,W,5,0
+1897-10-23,Lehigh,Ind,S.M. Hammond,N,Bucknell,Ind,George Jennings,L,20,28
+1897-10-30,Lehigh,Ind,S.M. Hammond,A,Lafayette,Ind,Parke Davis,L,0,34
+1897-11-06,Lehigh,Ind,S.M. Hammond,A,Army,Ind,Herman Koehler,L,6,48
+1897-11-20,Lehigh,Ind,S.M. Hammond,A,Navy,Ind,,L,6,28
+1897-11-25,Lehigh,Ind,S.M. Hammond,H,Lafayette,Ind,Parke Davis,L,0,22
+1897-10-02,Carlisle,Ind,William Bull,N,Dickinson,Ind,N.P. Stauffer,W,36,0
+1897-10-16,Carlisle,Ind,William Bull,A,Princeton,Ind,,L,0,18
+1897-10-23,Carlisle,Ind,William Bull,N,Yale,Ind,Frank Butterworth,L,9,24
+1897-11-06,Carlisle,Ind,William Bull,A,Pennsylvania,Ind,George Woodruff,L,10,20
+1897-11-13,Carlisle,Ind,William Bull,A,Brown,Ind,Wallace Moyle,L,14,18
+1897-11-20,Carlisle,Ind,William Bull,A,Illinois,Western,George Huff,W,23,6
+1897-10-23,Purdue,Western,Bill Church,A,Illinois,Western,George Huff,L,4,34
+1897-11-06,Purdue,Western,Bill Church,A,Michigan,Western,Gustave Ferbert,L,4,34
+1897-11-20,Purdue,Western,Bill Church,H,Minnesota,Western,Alexander Jerrems,W,6,0
+1897-09-25,Harvard,Ind,W. Cameron Forbes,H,Williams,Ind,,W,20,0
+1897-10-02,Harvard,Ind,W. Cameron Forbes,H,Dartmouth,Ind,,W,13,0
+1897-10-09,Harvard,Ind,W. Cameron Forbes,H,Amherst,Ind,,W,38,0
+1897-10-16,Harvard,Ind,W. Cameron Forbes,H,Army,Ind,Herman Koehler,W,10,0
+1897-10-23,Harvard,Ind,W. Cameron Forbes,H,Brown,Ind,Wallace Moyle,W,18,0
+1897-10-27,Harvard,Ind,W. Cameron Forbes,H,Cornell,Ind,Pop Warner,W,24,5
+1897-11-06,Harvard,Ind,W. Cameron Forbes,H,Wesleyan (CT),Ind,,W,34,0
+1897-11-13,Harvard,Ind,W. Cameron Forbes,H,Yale,Ind,Frank Butterworth,T,0,0
+1897-11-20,Harvard,Ind,W. Cameron Forbes,A,Pennsylvania,Ind,George Woodruff,L,6,15
+1897-09-25,Williams,Ind,,A,Harvard,Ind,W. Cameron Forbes,L,0,20
+1897-10-06,Williams,Ind,,A,Lehigh,Ind,S.M. Hammond,L,0,5
+1897-10-09,Williams,Ind,,A,Yale,Ind,Frank Butterworth,L,0,32
+1897-10-23,Williams,Ind,,A,Wesleyan (CT),Ind,,L,0,22
+1897-10-30,Williams,Ind,,A,Amherst,Ind,,T,6,6
+1897-11-06,Williams,Ind,,H,Cornell,Ind,Pop Warner,L,0,42
+1897-11-13,Williams,Ind,,H,Dartmouth,Ind,,L,0,52
+1897-10-30,Wisconsin,Western,Phil King,A,Minnesota,Western,Alexander Jerrems,W,39,0
+1897-11-13,Wisconsin,Western,Phil King,A,Chicago,Western,Amos Alonzo Stagg,W,23,8
+1897-11-25,Wisconsin,Western,Phil King,A,Northwestern,Western,Jesse Van Doozer,W,22,0
+1897-09-22,Bucknell,Ind,George Jennings,H,Pennsylvania,Ind,George Woodruff,L,0,17
+1897-10-02,Bucknell,Ind,George Jennings,A,Pennsylvania,Ind,George Woodruff,L,0,33
+1897-10-23,Bucknell,Ind,George Jennings,N,Lehigh,Ind,S.M. Hammond,W,28,20
+1897-11-13,Bucknell,Ind,George Jennings,N,Penn State,Ind,Samuel Newton,L,4,27
+1897-10-02,Army,Ind,Herman Koehler,H,Trinity (CT),Ind,Everett Lake,W,38,6
+1897-10-09,Army,Ind,Herman Koehler,H,Wesleyan (CT),Ind,,W,12,9
+1897-10-16,Army,Ind,Herman Koehler,A,Harvard,Ind,W. Cameron Forbes,L,0,10
+1897-10-23,Army,Ind,Herman Koehler,H,Tufts,Ind,J.D. Upton,W,30,0
+1897-10-30,Army,Ind,Herman Koehler,A,Yale,Ind,Frank Butterworth,T,6,6
+1897-11-06,Army,Ind,Herman Koehler,H,Lehigh,Ind,S.M. Hammond,W,48,6
+1897-11-20,Army,Ind,Herman Koehler,H,Brown,Ind,Wallace Moyle,W,42,0
+1897-10-02,Penn State,Ind,Samuel Newton,A,Lafayette,Ind,Parke Davis,L,0,24
+1897-10-13,Penn State,Ind,Samuel Newton,A,Princeton,Ind,,L,0,34
+1897-10-20,Penn State,Ind,Samuel Newton,A,Pennsylvania,Ind,George Woodruff,L,0,24
+1897-10-23,Penn State,Ind,Samuel Newton,A,Navy,Ind,,L,0,4
+1897-10-30,Penn State,Ind,Samuel Newton,A,Cornell,Ind,Pop Warner,L,0,45
+1897-11-13,Penn State,Ind,Samuel Newton,N,Bucknell,Ind,George Jennings,W,27,4
+1897-11-25,Penn State,Ind,Samuel Newton,N,Dickinson,Ind,N.P. Stauffer,L,0,6
+1897-10-02,Wesleyan (CT),Ind,,A,Yale,Ind,Frank Butterworth,L,0,30
+1897-10-06,Wesleyan (CT),Ind,,A,Brown,Ind,Wallace Moyle,L,12,24
+1897-10-09,Wesleyan (CT),Ind,,A,Army,Ind,Herman Koehler,L,9,12
+1897-10-13,Wesleyan (CT),Ind,,H,Amherst,Ind,,W,24,0
+1897-10-23,Wesleyan (CT),Ind,,H,Williams,Ind,,W,22,0
+1897-10-27,Wesleyan (CT),Ind,,A,Amherst,Ind,,W,14,0
+1897-11-06,Wesleyan (CT),Ind,,A,Harvard,Ind,W. Cameron Forbes,L,0,34
+1897-11-10,Wesleyan (CT),Ind,,A,Trinity (CT),Ind,Everett Lake,W,6,4
+1897-11-13,Wesleyan (CT),Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,22
+1897-11-20,Wesleyan (CT),Ind,,A,Lafayette,Ind,Parke Davis,L,6,41
+1897-11-24,Wesleyan (CT),Ind,,H,Tufts,Ind,J.D. Upton,W,6,0
+1897-11-27,Wesleyan (CT),Ind,,A,Brown,Ind,Wallace Moyle,L,4,12
+1897-10-02,Dartmouth,Ind,,A,Harvard,Ind,W. Cameron Forbes,L,0,13
+1897-10-16,Dartmouth,Ind,,A,Pennsylvania,Ind,George Woodruff,L,0,34
+1897-10-30,Dartmouth,Ind,,A,Princeton,Ind,,L,0,30
+1897-11-03,Dartmouth,Ind,,H,Amherst,Ind,,W,54,0
+1897-11-13,Dartmouth,Ind,,A,Williams,Ind,,W,52,0
+1897-10-02,Princeton,Ind,,H,Lehigh,Ind,S.M. Hammond,W,43,0
+1897-10-09,Princeton,Ind,,A,Navy,Ind,,W,28,0
+1897-10-13,Princeton,Ind,,H,Penn State,Ind,Samuel Newton,W,34,0
+1897-10-16,Princeton,Ind,,H,Carlisle,Ind,William Bull,W,18,0
+1897-10-20,Princeton,Ind,,H,Franklin & Marshall,Ind,,W,54,0
+1897-10-23,Princeton,Ind,,A,Cornell,Ind,Pop Warner,W,10,0
+1897-10-30,Princeton,Ind,,H,Dartmouth,Ind,,W,30,0
+1897-11-06,Princeton,Ind,,H,Lafayette,Ind,Parke Davis,W,57,0
+1897-11-20,Princeton,Ind,,A,Yale,Ind,Frank Butterworth,L,0,6
+1897-10-23,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Jesse Van Doozer,W,21,6
+1897-10-30,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,George Huff,W,18,12
+1897-11-13,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Phil King,L,8,23
+1897-11-25,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Gustave Ferbert,W,21,12
+1897-10-23,Northwestern,Western,Jesse Van Doozer,A,Chicago,Western,Amos Alonzo Stagg,L,6,21
+1897-11-25,Northwestern,Western,Jesse Van Doozer,H,Wisconsin,Western,Phil King,L,0,22
+1897-10-30,Minnesota,Western,Alexander Jerrems,H,Wisconsin,Western,Phil King,L,0,39
+1897-11-13,Minnesota,Western,Alexander Jerrems,A,Michigan,Western,Gustave Ferbert,L,0,14
+1897-11-20,Minnesota,Western,Alexander Jerrems,A,Purdue,Western,Bill Church,L,0,6
+1897-11-06,Michigan,Western,Gustave Ferbert,H,Purdue,Western,Bill Church,W,34,4
+1897-11-13,Michigan,Western,Gustave Ferbert,H,Minnesota,Western,Alexander Jerrems,W,14,0
+1897-11-25,Michigan,Western,Gustave Ferbert,A,Chicago,Western,Amos Alonzo Stagg,L,12,21
+1897-09-22,Pennsylvania,Ind,George Woodruff,A,Bucknell,Ind,George Jennings,W,17,0
+1897-09-25,Pennsylvania,Ind,George Woodruff,H,Franklin & Marshall,Ind,,W,33,0
+1897-10-02,Pennsylvania,Ind,George Woodruff,H,Bucknell,Ind,George Jennings,W,33,0
+1897-10-09,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,S.M. Hammond,W,58,0
+1897-10-16,Pennsylvania,Ind,George Woodruff,H,Dartmouth,Ind,,W,34,0
+1897-10-20,Pennsylvania,Ind,George Woodruff,H,Penn State,Ind,Samuel Newton,W,24,0
+1897-10-23,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Parke Davis,W,46,0
+1897-10-30,Pennsylvania,Ind,George Woodruff,A,Brown,Ind,Wallace Moyle,W,40,0
+1897-11-06,Pennsylvania,Ind,George Woodruff,H,Carlisle,Ind,William Bull,W,20,10
+1897-11-13,Pennsylvania,Ind,George Woodruff,H,Wesleyan (CT),Ind,,W,22,0
+1897-11-20,Pennsylvania,Ind,George Woodruff,H,Harvard,Ind,W. Cameron Forbes,W,15,6
+1897-11-25,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Pop Warner,W,4,0
+1897-10-09,Navy,Ind,,H,Princeton,Ind,,L,0,28
+1897-10-23,Navy,Ind,,H,Penn State,Ind,Samuel Newton,W,4,0
+1897-11-20,Navy,Ind,,H,Lehigh,Ind,S.M. Hammond,W,28,6
+1897-09-25,Tufts,Ind,J.D. Upton,A,Brown,Ind,Wallace Moyle,L,0,24
+1897-10-09,Tufts,Ind,J.D. Upton,A,Cornell,Ind,Pop Warner,L,0,15
+1897-10-23,Tufts,Ind,J.D. Upton,A,Army,Ind,Herman Koehler,L,0,30
+1897-10-30,Tufts,Ind,J.D. Upton,H,Trinity (CT),Ind,Everett Lake,W,18,10
+1897-11-24,Tufts,Ind,J.D. Upton,A,Wesleyan (CT),Ind,,L,0,6
+1897-10-06,Amherst,Ind,,A,Yale,Ind,Frank Butterworth,L,0,18
+1897-10-09,Amherst,Ind,,A,Harvard,Ind,W. Cameron Forbes,L,0,38
+1897-10-13,Amherst,Ind,,A,Wesleyan (CT),Ind,,L,0,24
+1897-10-27,Amherst,Ind,,H,Wesleyan (CT),Ind,,L,0,14
+1897-10-30,Amherst,Ind,,H,Williams,Ind,,T,6,6
+1897-11-03,Amherst,Ind,,A,Dartmouth,Ind,,L,0,54
+1897-11-06,Amherst,Ind,,H,Trinity (CT),Ind,Everett Lake,L,0,18
+1897-10-02,Lafayette,Ind,Parke Davis,H,Penn State,Ind,Samuel Newton,W,24,0
+1897-10-06,Lafayette,Ind,Parke Davis,A,Franklin & Marshall,Ind,,W,8,0
+1897-10-16,Lafayette,Ind,Parke Davis,H,Cornell,Ind,Pop Warner,T,4,4
+1897-10-23,Lafayette,Ind,Parke Davis,A,Pennsylvania,Ind,George Woodruff,L,0,46
+1897-10-30,Lafayette,Ind,Parke Davis,H,Lehigh,Ind,S.M. Hammond,W,34,0
+1897-11-06,Lafayette,Ind,Parke Davis,A,Princeton,Ind,,L,0,57
+1897-11-13,Lafayette,Ind,Parke Davis,H,Dickinson,Ind,N.P. Stauffer,W,19,0
+1897-11-20,Lafayette,Ind,Parke Davis,H,Wesleyan (CT),Ind,,W,41,6
+1897-11-25,Lafayette,Ind,Parke Davis,A,Lehigh,Ind,S.M. Hammond,W,22,0
+1897-10-23,Illinois,Western,George Huff,H,Purdue,Western,Bill Church,W,34,4
+1897-10-30,Illinois,Western,George Huff,H,Chicago,Western,Amos Alonzo Stagg,L,12,18
+1897-11-20,Illinois,Western,George Huff,H,Carlisle,Ind,William Bull,L,6,23
+1897-10-09,Cornell,Ind,Pop Warner,H,Tufts,Ind,J.D. Upton,W,15,0
+1897-10-16,Cornell,Ind,Pop Warner,A,Lafayette,Ind,Parke Davis,T,4,4
+1897-10-23,Cornell,Ind,Pop Warner,H,Princeton,Ind,,L,0,10
+1897-10-27,Cornell,Ind,Pop Warner,A,Harvard,Ind,W. Cameron Forbes,L,5,24
+1897-10-30,Cornell,Ind,Pop Warner,H,Penn State,Ind,Samuel Newton,W,45,0
+1897-11-06,Cornell,Ind,Pop Warner,A,Williams,Ind,,W,42,0
+1897-11-25,Cornell,Ind,Pop Warner,A,Pennsylvania,Ind,George Woodruff,L,0,4

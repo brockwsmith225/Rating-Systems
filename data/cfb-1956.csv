@@ -1,0 +1,995 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1956-09-22,North Carolina,ACC,Jim Tatum,H,North Carolina State,ACC,Earle Edwards,L,6,26
+1956-09-29,North Carolina,ACC,Jim Tatum,A,Oklahoma,Big 7,Bud Wilkinson,L,0,36
+1956-10-06,North Carolina,ACC,Jim Tatum,A,South Carolina,ACC,Warren Giese,L,0,14
+1956-10-13,North Carolina,ACC,Jim Tatum,H,Georgia,SEC,Wallace Butts,L,12,26
+1956-10-20,North Carolina,ACC,Jim Tatum,H,Maryland,ACC,Tommy Mont,W,34,6
+1956-10-27,North Carolina,ACC,Jim Tatum,H,Wake Forest,ACC,Paul Amen,T,6,6
+1956-11-03,North Carolina,ACC,Jim Tatum,A,Tennessee,SEC,Bowden Wyatt,L,0,20
+1956-11-10,North Carolina,ACC,Jim Tatum,A,Virginia,ACC,Ben Martin,W,21,7
+1956-11-17,North Carolina,ACC,Jim Tatum,A,Notre Dame,Ind,Terry Brennan,L,14,21
+1956-11-24,North Carolina,ACC,Jim Tatum,H,Duke,ACC,Bill Murray,L,6,21
+1956-09-29,Indiana,Big Ten,Bernie Crimmins,H,Iowa,Big Ten,Forest Evashevski,L,0,27
+1956-10-06,Indiana,Big Ten,Bernie Crimmins,A,Notre Dame,Ind,Terry Brennan,L,6,20
+1956-10-13,Indiana,Big Ten,Bernie Crimmins,A,Michigan State,Big Ten,Duffy Daugherty,L,6,53
+1956-10-20,Indiana,Big Ten,Bernie Crimmins,A,Nebraska,Big 7,Pete Elliott,W,19,14
+1956-10-27,Indiana,Big Ten,Bernie Crimmins,H,Northwestern,Big Ten,Ara Parseghian,W,19,13
+1956-11-03,Indiana,Big Ten,Bernie Crimmins,H,Marquette,Ind,Johnny Druze,W,19,13
+1956-11-10,Indiana,Big Ten,Bernie Crimmins,A,Ohio State,Big Ten,Woody Hayes,L,14,35
+1956-11-17,Indiana,Big Ten,Bernie Crimmins,A,Michigan,Big Ten,Bennie Oosterbaan,L,26,49
+1956-11-24,Indiana,Big Ten,Bernie Crimmins,A,Purdue,Big Ten,Jack Mollenkopf,L,20,39
+1956-09-29,Florida State,Ind,Thomas Nugent,A,Georgia,SEC,Wallace Butts,L,0,3
+1956-10-06,Florida State,Ind,Thomas Nugent,H,Virginia Tech,Southern,Frank Moseley,L,7,20
+1956-10-13,Florida State,Ind,Thomas Nugent,A,North Carolina State,ACC,Earle Edwards,W,14,0
+1956-10-20,Florida State,Ind,Thomas Nugent,H,Wake Forest,ACC,Paul Amen,T,14,14
+1956-10-27,Florida State,Ind,Thomas Nugent,A,Villanova,Ind,Francis Reagan,W,20,13
+1956-11-02,Florida State,Ind,Thomas Nugent,A,Miami (FL),Ind,Andy Gustafson,L,7,20
+1956-11-10,Florida State,Ind,Thomas Nugent,H,Furman,Southern,Homer Hobbs,W,42,7
+1956-11-24,Florida State,Ind,Thomas Nugent,A,Auburn,SEC,Ralph Jordan,L,7,13
+1956-09-15,Iowa State,Big 7,Vince Di Francesca,A,Denver,Skyline,John Roning,W,13,10
+1956-09-29,Iowa State,Big 7,Vince Di Francesca,A,Northwestern,Big Ten,Ara Parseghian,L,13,14
+1956-10-06,Iowa State,Big 7,Vince Di Francesca,A,Nebraska,Big 7,Pete Elliott,L,7,9
+1956-10-13,Iowa State,Big 7,Vince Di Francesca,H,Kansas,Big 7,Chuck Mather,L,14,25
+1956-10-20,Iowa State,Big 7,Vince Di Francesca,H,Colorado,Big 7,Dallas Ward,L,0,52
+1956-10-27,Iowa State,Big 7,Vince Di Francesca,A,Missouri,Big 7,Don Faurot,L,0,34
+1956-11-03,Iowa State,Big 7,Vince Di Francesca,H,Drake,Ind,Warren Gaer,W,39,14
+1956-11-10,Iowa State,Big 7,Vince Di Francesca,H,Oklahoma,Big 7,Bud Wilkinson,L,0,44
+1956-11-17,Iowa State,Big 7,Vince Di Francesca,A,Kansas State,Big 7,Bernard Mertes,L,6,32
+1956-11-24,Iowa State,Big 7,Vince Di Francesca,A,Villanova,Ind,Francis Reagan,L,0,26
+1956-09-22,Cincinnati,Ind,George Blackburn,H,Dayton,Ind,William Kerr,L,13,19
+1956-09-29,Cincinnati,Ind,George Blackburn,H,Tulsa,MVC,Robert Dobbs,W,7,6
+1956-10-06,Cincinnati,Ind,George Blackburn,A,Pacific,Ind,Moose Myers,L,15,21
+1956-10-20,Cincinnati,Ind,George Blackburn,A,Navy,Ind,Eddie Erdelatz,L,7,13
+1956-10-27,Cincinnati,Ind,George Blackburn,A,Marquette,Ind,Johnny Druze,W,33,13
+1956-11-03,Cincinnati,Ind,George Blackburn,H,Detroit Mercy,MVC,Wally Fromhart,W,33,7
+1956-11-10,Cincinnati,Ind,George Blackburn,H,Wichita State,MVC,Pete Tillman,W,21,0
+1956-09-22,Arizona State,BIAA,Dan Devine,H,Wichita State,MVC,Pete Tillman,W,37,9
+1956-09-29,Arizona State,BIAA,Dan Devine,H,North Texas,Ind,Odus Mitchell,W,27,7
+1956-10-06,Arizona State,BIAA,Dan Devine,A,New Mexico State,BIAA,Tony Cavallo,W,28,7
+1956-10-13,Arizona State,BIAA,Dan Devine,A,Idaho,PCC,Skip Stahley,W,41,0
+1956-10-20,Arizona State,BIAA,Dan Devine,A,Hardin-Simmons,BIAA,Sammy Baugh,W,26,13
+1956-10-27,Arizona State,BIAA,Dan Devine,H,San Jose State,Ind,Robert Bronzan,W,47,13
+1956-11-10,Arizona State,BIAA,Dan Devine,H,UTEP,BIAA,Mike Brumbelow,L,0,28
+1956-11-17,Arizona State,BIAA,Dan Devine,A,Arizona,BIAA,Warren Woodson,W,20,0
+1956-11-24,Arizona State,BIAA,Dan Devine,H,Pacific,Ind,Moose Myers,W,19,6
+1956-09-29,Furman,Southern,Homer Hobbs,H,George Washington,Southern,Bo Sherman,L,0,10
+1956-10-06,Furman,Southern,Homer Hobbs,A,Auburn,SEC,Ralph Jordan,L,0,41
+1956-10-27,Furman,Southern,Homer Hobbs,H,Citadel,Southern,John Sauer,W,7,0
+1956-11-03,Furman,Southern,Homer Hobbs,H,South Carolina,ACC,Warren Giese,L,6,13
+1956-11-10,Furman,Southern,Homer Hobbs,A,Florida State,Ind,Thomas Nugent,L,7,42
+1956-11-17,Furman,Southern,Homer Hobbs,A,West Virginia,Southern,Art Lewis,L,0,7
+1956-11-23,Furman,Southern,Homer Hobbs,N,Davidson,Southern,,W,27,13
+1956-12-01,Furman,Southern,Homer Hobbs,A,Clemson,ACC,Frank Howard,L,7,28
+1956-09-21,Utah,Skyline,Jack Curtice,A,UCLA,PCC,Red Sanders,L,7,13
+1956-09-29,Utah,Skyline,Jack Curtice,H,Montana,Skyline,Jerry Williams,W,26,6
+1956-10-05,Utah,Skyline,Jack Curtice,A,Brigham Young,Skyline,Harold Kopp,W,41,6
+1956-10-13,Utah,Skyline,Jack Curtice,H,Denver,Skyline,John Roning,W,27,13
+1956-10-20,Utah,Skyline,Jack Curtice,A,Wyoming,Skyline,Phil Dickens,L,20,30
+1956-10-27,Utah,Skyline,Jack Curtice,H,Idaho,PCC,Skip Stahley,L,21,27
+1956-11-03,Utah,Skyline,Jack Curtice,A,Rice,SWC,Jess Neely,L,0,27
+1956-11-10,Utah,Skyline,Jack Curtice,A,Colorado State,Skyline,Tuffy Mullison,W,49,27
+1956-11-17,Utah,Skyline,Jack Curtice,H,Colorado,Big 7,Dallas Ward,L,7,21
+1956-11-22,Utah,Skyline,Jack Curtice,H,Utah State,Skyline,Everett Faunce,W,29,7
+1956-09-15,Wichita State,MVC,Pete Tillman,H,Brigham Young,Skyline,Harold Kopp,W,13,0
+1956-09-22,Wichita State,MVC,Pete Tillman,A,Arizona State,BIAA,Dan Devine,L,9,37
+1956-09-29,Wichita State,MVC,Pete Tillman,H,Hardin-Simmons,BIAA,Sammy Baugh,L,7,20
+1956-10-06,Wichita State,MVC,Pete Tillman,H,Oklahoma State,MVC,Cliff Speegle,L,6,32
+1956-10-13,Wichita State,MVC,Pete Tillman,H,Detroit Mercy,MVC,Wally Fromhart,W,19,13
+1956-10-20,Wichita State,MVC,Pete Tillman,H,Drake,Ind,Warren Gaer,W,27,14
+1956-11-03,Wichita State,MVC,Pete Tillman,H,Houston,MVC,Bill Meek,L,16,41
+1956-11-10,Wichita State,MVC,Pete Tillman,A,Cincinnati,Ind,George Blackburn,L,0,21
+1956-11-17,Wichita State,MVC,Pete Tillman,A,Dayton,Ind,William Kerr,W,14,6
+1956-11-24,Wichita State,MVC,Pete Tillman,A,Tulsa,MVC,Robert Dobbs,L,6,14
+1956-09-22,Villanova,Ind,Francis Reagan,A,Texas A&M,SWC,Bear Bryant,L,0,19
+1956-09-30,Villanova,Ind,Francis Reagan,A,Detroit Mercy,MVC,Wally Fromhart,W,8,7
+1956-10-13,Villanova,Ind,Francis Reagan,A,Dayton,Ind,William Kerr,W,13,0
+1956-10-20,Villanova,Ind,Francis Reagan,A,Boston University,Ind,Aldo Donelli,W,27,13
+1956-10-27,Villanova,Ind,Francis Reagan,H,Florida State,Ind,Thomas Nugent,L,13,20
+1956-11-02,Villanova,Ind,Francis Reagan,A,Boston College,Ind,Mike Holovak,L,6,7
+1956-11-10,Villanova,Ind,Francis Reagan,H,Citadel,Southern,John Sauer,W,46,0
+1956-11-17,Villanova,Ind,Francis Reagan,A,Houston,MVC,Bill Meek,L,13,26
+1956-11-24,Villanova,Ind,Francis Reagan,H,Iowa State,Big 7,Vince Di Francesca,W,26,0
+1956-09-22,Syracuse,Ind,Ben Schwartzwalder,A,Maryland,ACC,Tommy Mont,W,26,12
+1956-09-29,Syracuse,Ind,Ben Schwartzwalder,A,Pitt,Ind,John Michelosen,L,7,14
+1956-10-13,Syracuse,Ind,Ben Schwartzwalder,H,West Virginia,Southern,Art Lewis,W,27,20
+1956-10-20,Syracuse,Ind,Ben Schwartzwalder,H,Army,Ind,Red Blaik,W,7,0
+1956-10-27,Syracuse,Ind,Ben Schwartzwalder,A,Boston University,Ind,Aldo Donelli,W,21,7
+1956-11-03,Syracuse,Ind,Ben Schwartzwalder,H,Penn State,Ind,Rip Engle,W,13,9
+1956-11-10,Syracuse,Ind,Ben Schwartzwalder,H,Holy Cross,Ind,Edward Anderson,W,41,20
+1956-11-17,Syracuse,Ind,Ben Schwartzwalder,H,Colgate,Ind,Hal Lahar,W,61,7
+1957-01-01,Syracuse,Ind,Ben Schwartzwalder,A,Texas Christian,SWC,Abe Martin,L,27,28
+1956-09-15,Arizona,BIAA,Warren Woodson,H,Montana,Skyline,Jerry Williams,W,27,12
+1956-09-22,Arizona,BIAA,Warren Woodson,H,Wyoming,Skyline,Phil Dickens,L,20,26
+1956-10-06,Arizona,BIAA,Warren Woodson,H,Utah State,Skyline,Everett Faunce,L,7,12
+1956-10-13,Arizona,BIAA,Warren Woodson,A,UTEP,BIAA,Mike Brumbelow,L,6,28
+1956-10-20,Arizona,BIAA,Warren Woodson,A,New Mexico,Skyline,Dick Clausen,W,26,12
+1956-10-27,Arizona,BIAA,Warren Woodson,H,Texas Tech,Ind,DeWitt Weaver,L,7,21
+1956-11-03,Arizona,BIAA,Warren Woodson,H,West Texas A&M,BIAA,Frank Kimbrough,W,20,13
+1956-11-17,Arizona,BIAA,Warren Woodson,H,Arizona State,BIAA,Dan Devine,L,0,20
+1956-11-24,Arizona,BIAA,Warren Woodson,H,Colorado,Big 7,Dallas Ward,L,7,38
+1956-09-15,Montana,Skyline,Jerry Williams,A,Arizona,BIAA,Warren Woodson,L,12,27
+1956-09-29,Montana,Skyline,Jerry Williams,A,Utah,Skyline,Jack Curtice,L,6,26
+1956-10-05,Montana,Skyline,Jerry Williams,A,Denver,Skyline,John Roning,L,13,22
+1956-10-13,Montana,Skyline,Jerry Williams,H,Utah State,Skyline,Everett Faunce,L,13,27
+1956-10-20,Montana,Skyline,Jerry Williams,H,Brigham Young,Skyline,Harold Kopp,W,21,14
+1956-10-27,Montana,Skyline,Jerry Williams,A,Colorado State,Skyline,Tuffy Mullison,L,20,34
+1956-11-10,Montana,Skyline,Jerry Williams,N,Wyoming,Skyline,Phil Dickens,L,13,34
+1956-11-17,Montana,Skyline,Jerry Williams,A,New Mexico,Skyline,Dick Clausen,L,13,14
+1956-11-24,Montana,Skyline,Jerry Williams,H,Idaho,PCC,Skip Stahley,L,0,41
+1956-09-29,Penn State,Ind,Rip Engle,A,Pennsylvania,Ivy,Steve Sebo,W,34,0
+1956-10-06,Penn State,Ind,Rip Engle,A,Army,Ind,Red Blaik,L,7,14
+1956-10-13,Penn State,Ind,Rip Engle,H,Holy Cross,Ind,Edward Anderson,W,43,0
+1956-10-20,Penn State,Ind,Rip Engle,A,Ohio State,Big Ten,Woody Hayes,W,7,6
+1956-10-27,Penn State,Ind,Rip Engle,H,West Virginia,Southern,Art Lewis,W,16,6
+1956-11-03,Penn State,Ind,Rip Engle,A,Syracuse,Ind,Ben Schwartzwalder,L,9,13
+1956-11-10,Penn State,Ind,Rip Engle,H,Boston University,Ind,Aldo Donelli,W,40,7
+1956-11-17,Penn State,Ind,Rip Engle,H,North Carolina State,ACC,Earle Edwards,W,14,7
+1956-11-24,Penn State,Ind,Rip Engle,A,Pitt,Ind,John Michelosen,T,7,7
+1956-09-29,Princeton,Ivy,Charles Caldwell,H,Rutgers,Ind,John Stiegman,W,28,6
+1956-10-06,Princeton,Ivy,Charles Caldwell,H,Columbia,Ivy,Lou Little,W,39,0
+1956-10-13,Princeton,Ivy,Charles Caldwell,A,Pennsylvania,Ivy,Steve Sebo,W,34,0
+1956-10-20,Princeton,Ivy,Charles Caldwell,H,Colgate,Ind,Hal Lahar,W,28,20
+1956-10-27,Princeton,Ivy,Charles Caldwell,A,Cornell,Ivy,George James,W,32,21
+1956-11-03,Princeton,Ivy,Charles Caldwell,H,Brown,Ivy,Alva Kelley,W,21,7
+1956-11-10,Princeton,Ivy,Charles Caldwell,H,Harvard,Ivy,Lloyd Jordan,W,35,20
+1956-11-17,Princeton,Ivy,Charles Caldwell,A,Yale,Ivy,Jordan Olivar,L,20,42
+1956-11-24,Princeton,Ivy,Charles Caldwell,H,Dartmouth,Ivy,Bob Blackman,L,0,19
+1956-09-22,Vanderbilt,SEC,Arthur Guepe,H,Georgia,SEC,Wallace Butts,W,14,0
+1956-10-06,Vanderbilt,SEC,Arthur Guepe,A,Alabama,SEC,Jennings Whitworth,W,32,7
+1956-10-13,Vanderbilt,SEC,Arthur Guepe,A,Ole Miss,SEC,John Vaught,L,0,16
+1956-10-20,Vanderbilt,SEC,Arthur Guepe,H,Florida,SEC,Bob Woodruff,L,7,21
+1956-11-03,Vanderbilt,SEC,Arthur Guepe,A,Virginia,ACC,Ben Martin,W,6,2
+1956-11-10,Vanderbilt,SEC,Arthur Guepe,A,Kentucky,SEC,Blanton Collier,L,6,7
+1956-11-17,Vanderbilt,SEC,Arthur Guepe,H,Tulane,SEC,Andy Pilney,L,6,13
+1956-12-01,Vanderbilt,SEC,Arthur Guepe,H,Tennessee,SEC,Bowden Wyatt,L,7,27
+1956-09-22,Kentucky,SEC,Blanton Collier,H,Georgia Tech,SEC,Bobby Dodd,L,6,14
+1956-09-29,Kentucky,SEC,Blanton Collier,A,Ole Miss,SEC,John Vaught,L,7,37
+1956-10-06,Kentucky,SEC,Blanton Collier,A,Florida,SEC,Bob Woodruff,W,17,8
+1956-10-13,Kentucky,SEC,Blanton Collier,H,Auburn,SEC,Ralph Jordan,L,0,13
+1956-10-20,Kentucky,SEC,Blanton Collier,H,LSU,SEC,Paul Dietzel,W,14,0
+1956-10-27,Kentucky,SEC,Blanton Collier,A,Georgia,SEC,Wallace Butts,W,14,7
+1956-11-03,Kentucky,SEC,Blanton Collier,A,Maryland,ACC,Tommy Mont,W,14,0
+1956-11-10,Kentucky,SEC,Blanton Collier,H,Vanderbilt,SEC,Arthur Guepe,W,7,6
+1956-11-24,Kentucky,SEC,Blanton Collier,A,Tennessee,SEC,Bowden Wyatt,L,7,20
+1956-09-22,California,PCC,Pappy Waldorf,H,Baylor,SWC,Sam Boyd,L,6,7
+1956-09-29,California,PCC,Pappy Waldorf,A,Illinois,Big Ten,Ray Eliot,L,20,32
+1956-10-06,California,PCC,Pappy Waldorf,H,Pitt,Ind,John Michelosen,W,14,0
+1956-10-13,California,PCC,Pappy Waldorf,A,Oregon State,PCC,Tommy Prothro,L,13,21
+1956-10-20,California,PCC,Pappy Waldorf,H,UCLA,PCC,Red Sanders,L,20,34
+1956-10-27,California,PCC,Pappy Waldorf,A,Washington,PCC,Darrell Royal,W,16,7
+1956-11-03,California,PCC,Pappy Waldorf,H,Oregon,PCC,Len Casanova,L,6,28
+1956-11-10,California,PCC,Pappy Waldorf,A,USC,PCC,Jess Hill,L,7,20
+1956-11-17,California,PCC,Pappy Waldorf,H,Washington State,PCC,Jim Sutherland,L,13,14
+1956-11-24,California,PCC,Pappy Waldorf,H,Stanford,PCC,Chuck Taylor,W,20,18
+1956-09-22,Florida,SEC,Bob Woodruff,A,Mississippi State,SEC,Wade Walker,W,26,0
+1956-09-29,Florida,SEC,Bob Woodruff,H,Clemson,ACC,Frank Howard,T,20,20
+1956-10-06,Florida,SEC,Bob Woodruff,H,Kentucky,SEC,Blanton Collier,L,8,17
+1956-10-13,Florida,SEC,Bob Woodruff,H,Rice,SWC,Jess Neely,W,7,0
+1956-10-20,Florida,SEC,Bob Woodruff,A,Vanderbilt,SEC,Arthur Guepe,W,21,7
+1956-10-27,Florida,SEC,Bob Woodruff,A,LSU,SEC,Paul Dietzel,W,21,6
+1956-11-03,Florida,SEC,Bob Woodruff,H,Auburn,SEC,Ralph Jordan,W,20,0
+1956-11-10,Florida,SEC,Bob Woodruff,N,Georgia,SEC,Wallace Butts,W,28,0
+1956-11-24,Florida,SEC,Bob Woodruff,N,Georgia Tech,SEC,Bobby Dodd,L,0,28
+1956-12-01,Florida,SEC,Bob Woodruff,H,Miami (FL),Ind,Andy Gustafson,L,7,20
+1956-10-06,Boston University,Ind,Aldo Donelli,A,William & Mary,Southern,Jackie Freeman,T,18,18
+1956-10-13,Boston University,Ind,Aldo Donelli,H,George Washington,Southern,Bo Sherman,T,20,20
+1956-10-20,Boston University,Ind,Aldo Donelli,H,Villanova,Ind,Francis Reagan,L,13,27
+1956-10-27,Boston University,Ind,Aldo Donelli,H,Syracuse,Ind,Ben Schwartzwalder,L,7,21
+1956-11-03,Boston University,Ind,Aldo Donelli,H,Holy Cross,Ind,Edward Anderson,L,12,21
+1956-11-10,Boston University,Ind,Aldo Donelli,A,Penn State,Ind,Rip Engle,L,7,40
+1956-11-18,Boston University,Ind,Aldo Donelli,A,Boston College,Ind,Mike Holovak,L,0,13
+1956-09-22,Stanford,PCC,Chuck Taylor,A,Washington State,PCC,Jim Sutherland,W,40,26
+1956-09-29,Stanford,PCC,Chuck Taylor,H,Michigan State,Big Ten,Duffy Daugherty,L,7,21
+1956-10-06,Stanford,PCC,Chuck Taylor,A,Ohio State,Big Ten,Woody Hayes,L,20,32
+1956-10-13,Stanford,PCC,Chuck Taylor,H,San Jose State,Ind,Robert Bronzan,W,40,20
+1956-10-20,Stanford,PCC,Chuck Taylor,A,Oregon,PCC,Len Casanova,W,21,7
+1956-10-27,Stanford,PCC,Chuck Taylor,H,USC,PCC,Jess Hill,W,27,19
+1956-11-03,Stanford,PCC,Chuck Taylor,A,UCLA,PCC,Red Sanders,L,13,14
+1956-11-10,Stanford,PCC,Chuck Taylor,H,Oregon State,PCC,Tommy Prothro,L,19,20
+1956-11-17,Stanford,PCC,Chuck Taylor,H,Washington,PCC,Darrell Royal,L,13,34
+1956-11-24,Stanford,PCC,Chuck Taylor,A,California,PCC,Pappy Waldorf,L,18,20
+1956-09-22,Washington State,PCC,Jim Sutherland,H,Stanford,PCC,Chuck Taylor,L,26,40
+1956-09-29,Washington State,PCC,Jim Sutherland,H,San Jose State,Ind,Robert Bronzan,W,33,18
+1956-10-06,Washington State,PCC,Jim Sutherland,A,Idaho,PCC,Skip Stahley,W,33,19
+1956-10-13,Washington State,PCC,Jim Sutherland,A,UCLA,PCC,Red Sanders,L,0,28
+1956-10-20,Washington State,PCC,Jim Sutherland,H,Oregon State,PCC,Tommy Prothro,L,0,21
+1956-10-27,Washington State,PCC,Jim Sutherland,A,Pacific,Ind,Moose Myers,L,12,33
+1956-11-03,Washington State,PCC,Jim Sutherland,H,USC,PCC,Jess Hill,L,12,28
+1956-11-10,Washington State,PCC,Jim Sutherland,A,Oregon,PCC,Len Casanova,T,7,7
+1956-11-17,Washington State,PCC,Jim Sutherland,A,California,PCC,Pappy Waldorf,W,14,13
+1956-11-24,Washington State,PCC,Jim Sutherland,H,Washington,PCC,Darrell Royal,L,26,40
+1956-09-29,Illinois,Big Ten,Ray Eliot,H,California,PCC,Pappy Waldorf,W,32,20
+1956-10-06,Illinois,Big Ten,Ray Eliot,A,Washington,PCC,Darrell Royal,L,13,28
+1956-10-13,Illinois,Big Ten,Ray Eliot,H,Ohio State,Big Ten,Woody Hayes,L,6,26
+1956-10-20,Illinois,Big Ten,Ray Eliot,A,Minnesota,Big Ten,Murray Warmath,L,13,16
+1956-10-27,Illinois,Big Ten,Ray Eliot,H,Michigan State,Big Ten,Duffy Daugherty,W,20,13
+1956-11-03,Illinois,Big Ten,Ray Eliot,A,Purdue,Big Ten,Jack Mollenkopf,T,7,7
+1956-11-10,Illinois,Big Ten,Ray Eliot,A,Michigan,Big Ten,Bennie Oosterbaan,L,7,17
+1956-11-17,Illinois,Big Ten,Ray Eliot,H,Wisconsin,Big Ten,Milt Bruhn,T,13,13
+1956-11-24,Illinois,Big Ten,Ray Eliot,A,Northwestern,Big Ten,Ara Parseghian,L,13,14
+1956-09-22,Baylor,SWC,Sam Boyd,A,California,PCC,Pappy Waldorf,W,7,6
+1956-09-29,Baylor,SWC,Sam Boyd,H,Texas Tech,Ind,DeWitt Weaver,W,27,0
+1956-10-06,Baylor,SWC,Sam Boyd,A,Maryland,ACC,Tommy Mont,W,14,0
+1956-10-13,Baylor,SWC,Sam Boyd,A,Arkansas,SWC,Jack Mitchell,W,14,7
+1956-10-27,Baylor,SWC,Sam Boyd,H,Texas A&M,SWC,Bear Bryant,L,13,19
+1956-11-03,Baylor,SWC,Sam Boyd,A,Texas Christian,SWC,Abe Martin,L,6,7
+1956-11-10,Baylor,SWC,Sam Boyd,H,Texas,SWC,Edwin Price,W,10,7
+1956-11-17,Baylor,SWC,Sam Boyd,A,Nebraska,Big 7,Pete Elliott,W,26,7
+1956-11-24,Baylor,SWC,Sam Boyd,A,SMU,SWC,Chalmer Woodward,W,26,0
+1956-12-01,Baylor,SWC,Sam Boyd,H,Rice,SWC,Jess Neely,W,46,13
+1957-01-01,Baylor,SWC,Sam Boyd,N,Tennessee,SEC,Bowden Wyatt,W,13,7
+1956-09-22,SMU,SWC,Chalmer Woodward,H,Notre Dame,Ind,Terry Brennan,W,19,13
+1956-09-29,SMU,SWC,Chalmer Woodward,H,Georgia Tech,SEC,Bobby Dodd,L,7,9
+1956-10-06,SMU,SWC,Chalmer Woodward,A,Missouri,Big 7,Don Faurot,W,33,27
+1956-10-13,SMU,SWC,Chalmer Woodward,A,Duke,ACC,Bill Murray,L,6,14
+1956-10-20,SMU,SWC,Chalmer Woodward,A,Rice,SWC,Jess Neely,W,14,13
+1956-11-03,SMU,SWC,Chalmer Woodward,A,Texas,SWC,Edwin Price,W,20,19
+1956-11-10,SMU,SWC,Chalmer Woodward,H,Texas A&M,SWC,Bear Bryant,L,7,33
+1956-11-17,SMU,SWC,Chalmer Woodward,A,Arkansas,SWC,Jack Mitchell,L,13,27
+1956-11-24,SMU,SWC,Chalmer Woodward,H,Baylor,SWC,Sam Boyd,L,0,26
+1956-12-01,SMU,SWC,Chalmer Woodward,H,Texas Christian,SWC,Abe Martin,L,6,21
+1956-09-22,Georgia,SEC,Wallace Butts,A,Vanderbilt,SEC,Arthur Guepe,L,0,14
+1956-09-29,Georgia,SEC,Wallace Butts,H,Florida State,Ind,Thomas Nugent,W,3,0
+1956-10-06,Georgia,SEC,Wallace Butts,H,Mississippi State,SEC,Wade Walker,L,7,19
+1956-10-13,Georgia,SEC,Wallace Butts,A,North Carolina,ACC,Jim Tatum,W,26,12
+1956-10-19,Georgia,SEC,Wallace Butts,A,Miami (FL),Ind,Andy Gustafson,T,7,7
+1956-10-27,Georgia,SEC,Wallace Butts,H,Kentucky,SEC,Blanton Collier,L,7,14
+1956-11-03,Georgia,SEC,Wallace Butts,A,Alabama,SEC,Jennings Whitworth,W,16,13
+1956-11-10,Georgia,SEC,Wallace Butts,N,Florida,SEC,Bob Woodruff,L,0,28
+1956-11-17,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Ralph Jordan,L,0,20
+1956-12-01,Georgia,SEC,Wallace Butts,H,Georgia Tech,SEC,Bobby Dodd,L,0,35
+1956-09-22,Maryland,ACC,Tommy Mont,H,Syracuse,Ind,Ben Schwartzwalder,L,12,26
+1956-09-29,Maryland,ACC,Tommy Mont,A,Wake Forest,ACC,Paul Amen,W,6,0
+1956-10-06,Maryland,ACC,Tommy Mont,H,Baylor,SWC,Sam Boyd,L,0,14
+1956-10-12,Maryland,ACC,Tommy Mont,A,Miami (FL),Ind,Andy Gustafson,L,6,13
+1956-10-20,Maryland,ACC,Tommy Mont,A,North Carolina,ACC,Jim Tatum,L,6,34
+1956-10-27,Maryland,ACC,Tommy Mont,A,Tennessee,SEC,Bowden Wyatt,L,7,34
+1956-11-03,Maryland,ACC,Tommy Mont,H,Kentucky,SEC,Blanton Collier,L,0,14
+1956-11-10,Maryland,ACC,Tommy Mont,H,Clemson,ACC,Frank Howard,T,6,6
+1956-11-17,Maryland,ACC,Tommy Mont,A,South Carolina,ACC,Warren Giese,L,0,13
+1956-11-22,Maryland,ACC,Tommy Mont,A,North Carolina State,ACC,Earle Edwards,W,25,14
+1956-09-22,Virginia,ACC,Ben Martin,H,Virginia Military Institute,Southern,John McKenna,W,18,0
+1956-09-29,Virginia,ACC,Ben Martin,H,Duke,ACC,Bill Murray,L,7,40
+1956-10-06,Virginia,ACC,Ben Martin,H,Wake Forest,ACC,Paul Amen,W,7,6
+1956-10-13,Virginia,ACC,Ben Martin,H,South Carolina,ACC,Warren Giese,L,13,27
+1956-10-27,Virginia,ACC,Ben Martin,N,Virginia Tech,Southern,Frank Moseley,L,7,14
+1956-11-03,Virginia,ACC,Ben Martin,H,Vanderbilt,SEC,Arthur Guepe,L,2,6
+1956-11-10,Virginia,ACC,Ben Martin,H,North Carolina,ACC,Jim Tatum,L,7,21
+1956-11-17,Virginia,ACC,Ben Martin,A,Navy,Ind,Eddie Erdelatz,L,7,34
+1956-11-24,Virginia,ACC,Ben Martin,A,Clemson,ACC,Frank Howard,L,0,7
+1956-09-22,Idaho,PCC,Skip Stahley,A,Washington,PCC,Darrell Royal,L,21,53
+1956-09-29,Idaho,PCC,Skip Stahley,A,Oregon,PCC,Len Casanova,L,14,21
+1956-10-06,Idaho,PCC,Skip Stahley,H,Washington State,PCC,Jim Sutherland,L,19,33
+1956-10-13,Idaho,PCC,Skip Stahley,H,Arizona State,BIAA,Dan Devine,L,0,41
+1956-10-27,Idaho,PCC,Skip Stahley,A,Utah,Skyline,Jack Curtice,W,27,21
+1956-11-10,Idaho,PCC,Skip Stahley,H,Utah State,Skyline,Everett Faunce,W,42,20
+1956-11-17,Idaho,PCC,Skip Stahley,H,Oregon State,PCC,Tommy Prothro,L,10,14
+1956-11-24,Idaho,PCC,Skip Stahley,A,Montana,Skyline,Jerry Williams,W,41,0
+1956-09-29,Citadel,Southern,John Sauer,H,Davidson,Southern,,W,34,7
+1956-10-12,Citadel,Southern,John Sauer,A,Richmond,Southern,Edwin Merrick,L,3,7
+1956-10-27,Citadel,Southern,John Sauer,A,Furman,Southern,Homer Hobbs,L,0,7
+1956-11-10,Citadel,Southern,John Sauer,A,Villanova,Ind,Francis Reagan,L,0,46
+1956-11-17,Citadel,Southern,John Sauer,H,George Washington,Southern,Bo Sherman,L,0,20
+1956-09-29,Oklahoma,Big 7,Bud Wilkinson,H,North Carolina,ACC,Jim Tatum,W,36,0
+1956-10-06,Oklahoma,Big 7,Bud Wilkinson,H,Kansas State,Big 7,Bernard Mertes,W,66,0
+1956-10-13,Oklahoma,Big 7,Bud Wilkinson,N,Texas,SWC,Edwin Price,W,45,0
+1956-10-20,Oklahoma,Big 7,Bud Wilkinson,A,Kansas,Big 7,Chuck Mather,W,34,12
+1956-10-27,Oklahoma,Big 7,Bud Wilkinson,A,Notre Dame,Ind,Terry Brennan,W,40,0
+1956-11-03,Oklahoma,Big 7,Bud Wilkinson,A,Colorado,Big 7,Dallas Ward,W,27,19
+1956-11-10,Oklahoma,Big 7,Bud Wilkinson,A,Iowa State,Big 7,Vince Di Francesca,W,44,0
+1956-11-17,Oklahoma,Big 7,Bud Wilkinson,H,Missouri,Big 7,Don Faurot,W,67,14
+1956-11-24,Oklahoma,Big 7,Bud Wilkinson,H,Nebraska,Big 7,Pete Elliott,W,54,6
+1956-12-01,Oklahoma,Big 7,Bud Wilkinson,A,Oklahoma State,MVC,Cliff Speegle,W,53,0
+1956-09-22,Virginia Tech,Southern,Frank Moseley,A,Tulane,SEC,Andy Pilney,L,14,21
+1956-09-29,Virginia Tech,Southern,Frank Moseley,N,North Carolina State,ACC,Earle Edwards,W,35,6
+1956-10-06,Virginia Tech,Southern,Frank Moseley,A,Florida State,Ind,Thomas Nugent,W,20,7
+1956-10-13,Virginia Tech,Southern,Frank Moseley,H,William & Mary,Southern,Jackie Freeman,W,34,7
+1956-10-20,Virginia Tech,Southern,Frank Moseley,A,Richmond,Southern,Edwin Merrick,W,46,14
+1956-10-27,Virginia Tech,Southern,Frank Moseley,N,Virginia,ACC,Ben Martin,W,14,7
+1956-11-03,Virginia Tech,Southern,Frank Moseley,A,Clemson,ACC,Frank Howard,L,6,21
+1956-11-10,Virginia Tech,Southern,Frank Moseley,H,Wake Forest,ACC,Paul Amen,T,13,13
+1956-11-22,Virginia Tech,Southern,Frank Moseley,N,Virginia Military Institute,Southern,John McKenna,W,45,0
+1956-09-22,Arkansas,SWC,Jack Mitchell,H,Hardin-Simmons,BIAA,Sammy Baugh,W,21,6
+1956-09-29,Arkansas,SWC,Jack Mitchell,H,Oklahoma State,MVC,Cliff Speegle,W,19,7
+1956-10-06,Arkansas,SWC,Jack Mitchell,A,Texas Christian,SWC,Abe Martin,L,6,41
+1956-10-13,Arkansas,SWC,Jack Mitchell,H,Baylor,SWC,Sam Boyd,L,7,14
+1956-10-20,Arkansas,SWC,Jack Mitchell,A,Texas,SWC,Edwin Price,W,32,14
+1956-10-27,Arkansas,SWC,Jack Mitchell,H,Ole Miss,SEC,John Vaught,W,14,0
+1956-11-03,Arkansas,SWC,Jack Mitchell,A,Texas A&M,SWC,Bear Bryant,L,0,27
+1956-11-10,Arkansas,SWC,Jack Mitchell,H,Rice,SWC,Jess Neely,W,27,12
+1956-11-17,Arkansas,SWC,Jack Mitchell,H,SMU,SWC,Chalmer Woodward,W,27,13
+1956-11-24,Arkansas,SWC,Jack Mitchell,A,LSU,SEC,Paul Dietzel,L,7,21
+1956-09-29,Clemson,ACC,Frank Howard,A,Florida,SEC,Bob Woodruff,T,20,20
+1956-10-06,Clemson,ACC,Frank Howard,A,North Carolina State,ACC,Earle Edwards,W,13,7
+1956-10-13,Clemson,ACC,Frank Howard,A,Wake Forest,ACC,Paul Amen,W,17,0
+1956-10-25,Clemson,ACC,Frank Howard,A,South Carolina,ACC,Warren Giese,W,7,0
+1956-11-03,Clemson,ACC,Frank Howard,H,Virginia Tech,Southern,Frank Moseley,W,21,6
+1956-11-10,Clemson,ACC,Frank Howard,A,Maryland,ACC,Tommy Mont,T,6,6
+1956-11-16,Clemson,ACC,Frank Howard,A,Miami (FL),Ind,Andy Gustafson,L,0,21
+1956-11-24,Clemson,ACC,Frank Howard,H,Virginia,ACC,Ben Martin,W,7,0
+1956-12-01,Clemson,ACC,Frank Howard,H,Furman,Southern,Homer Hobbs,W,28,7
+1957-01-01,Clemson,ACC,Frank Howard,N,Colorado,Big 7,Dallas Ward,L,21,27
+1956-09-22,South Carolina,ACC,Warren Giese,H,Duke,ACC,Bill Murray,W,7,0
+1956-09-28,South Carolina,ACC,Warren Giese,A,Miami (FL),Ind,Andy Gustafson,L,6,14
+1956-10-06,South Carolina,ACC,Warren Giese,H,North Carolina,ACC,Jim Tatum,W,14,0
+1956-10-13,South Carolina,ACC,Warren Giese,A,Virginia,ACC,Ben Martin,W,27,13
+1956-10-25,South Carolina,ACC,Warren Giese,H,Clemson,ACC,Frank Howard,L,0,7
+1956-11-03,South Carolina,ACC,Warren Giese,A,Furman,Southern,Homer Hobbs,W,13,6
+1956-11-10,South Carolina,ACC,Warren Giese,A,North Carolina State,ACC,Earle Edwards,L,7,14
+1956-11-17,South Carolina,ACC,Warren Giese,H,Maryland,ACC,Tommy Mont,W,13,0
+1956-11-22,South Carolina,ACC,Warren Giese,N,Wake Forest,ACC,Paul Amen,W,13,0
+1956-09-22,Washington,PCC,Darrell Royal,H,Idaho,PCC,Skip Stahley,W,53,21
+1956-09-29,Washington,PCC,Darrell Royal,H,Minnesota,Big Ten,Murray Warmath,L,14,34
+1956-10-06,Washington,PCC,Darrell Royal,H,Illinois,Big Ten,Ray Eliot,W,28,13
+1956-10-13,Washington,PCC,Darrell Royal,H,Oregon,PCC,Len Casanova,W,20,7
+1956-10-20,Washington,PCC,Darrell Royal,A,USC,PCC,Jess Hill,L,7,35
+1956-10-27,Washington,PCC,Darrell Royal,H,California,PCC,Pappy Waldorf,L,7,16
+1956-11-03,Washington,PCC,Darrell Royal,A,Oregon State,PCC,Tommy Prothro,L,20,28
+1956-11-10,Washington,PCC,Darrell Royal,H,UCLA,PCC,Red Sanders,L,9,13
+1956-11-17,Washington,PCC,Darrell Royal,A,Stanford,PCC,Chuck Taylor,W,34,13
+1956-11-24,Washington,PCC,Darrell Royal,A,Washington State,PCC,Jim Sutherland,W,40,26
+1956-09-30,Holy Cross,Ind,Edward Anderson,H,Dayton,Ind,William Kerr,L,13,14
+1956-10-06,Holy Cross,Ind,Edward Anderson,H,Colgate,Ind,Hal Lahar,W,20,6
+1956-10-13,Holy Cross,Ind,Edward Anderson,A,Penn State,Ind,Rip Engle,L,0,43
+1956-10-20,Holy Cross,Ind,Edward Anderson,A,Dartmouth,Ivy,Bob Blackman,T,7,7
+1956-11-03,Holy Cross,Ind,Edward Anderson,A,Boston University,Ind,Aldo Donelli,W,21,12
+1956-11-10,Holy Cross,Ind,Edward Anderson,A,Syracuse,Ind,Ben Schwartzwalder,L,20,41
+1956-11-18,Holy Cross,Ind,Edward Anderson,H,Marquette,Ind,Johnny Druze,W,41,0
+1956-12-01,Holy Cross,Ind,Edward Anderson,N,Boston College,Ind,Mike Holovak,W,7,0
+1956-09-15,Utah State,Skyline,Everett Faunce,A,Drake,Ind,Warren Gaer,W,39,33
+1956-09-22,Utah State,Skyline,Everett Faunce,H,Denver,Skyline,John Roning,W,18,13
+1956-09-29,Utah State,Skyline,Everett Faunce,A,New Mexico,Skyline,Dick Clausen,L,19,27
+1956-10-06,Utah State,Skyline,Everett Faunce,A,Arizona,BIAA,Warren Woodson,W,12,7
+1956-10-13,Utah State,Skyline,Everett Faunce,A,Montana,Skyline,Jerry Williams,W,27,13
+1956-10-20,Utah State,Skyline,Everett Faunce,H,Colorado State,Skyline,Tuffy Mullison,W,46,7
+1956-10-27,Utah State,Skyline,Everett Faunce,H,Brigham Young,Skyline,Harold Kopp,W,33,7
+1956-11-03,Utah State,Skyline,Everett Faunce,H,Wyoming,Skyline,Phil Dickens,L,0,21
+1956-11-10,Utah State,Skyline,Everett Faunce,A,Idaho,PCC,Skip Stahley,L,20,42
+1956-11-22,Utah State,Skyline,Everett Faunce,A,Utah,Skyline,Jack Curtice,L,7,29
+1956-09-22,Missouri,Big 7,Don Faurot,H,Oregon State,PCC,Tommy Prothro,L,13,19
+1956-09-29,Missouri,Big 7,Don Faurot,A,Purdue,Big Ten,Jack Mollenkopf,L,7,16
+1956-10-06,Missouri,Big 7,Don Faurot,H,SMU,SWC,Chalmer Woodward,L,27,33
+1956-10-20,Missouri,Big 7,Don Faurot,A,Kansas State,Big 7,Bernard Mertes,W,20,6
+1956-10-27,Missouri,Big 7,Don Faurot,H,Iowa State,Big 7,Vince Di Francesca,W,34,0
+1956-11-03,Missouri,Big 7,Don Faurot,A,Nebraska,Big 7,Pete Elliott,L,14,15
+1956-11-10,Missouri,Big 7,Don Faurot,H,Colorado,Big 7,Dallas Ward,T,14,14
+1956-11-17,Missouri,Big 7,Don Faurot,A,Oklahoma,Big 7,Bud Wilkinson,L,14,67
+1956-12-01,Missouri,Big 7,Don Faurot,H,Kansas,Big 7,Chuck Mather,W,15,13
+1956-09-22,San Jose State,Ind,Robert Bronzan,H,Drake,Ind,Warren Gaer,W,26,7
+1956-09-29,San Jose State,Ind,Robert Bronzan,A,Washington State,PCC,Jim Sutherland,L,18,33
+1956-10-13,San Jose State,Ind,Robert Bronzan,A,Stanford,PCC,Chuck Taylor,L,20,40
+1956-10-27,San Jose State,Ind,Robert Bronzan,A,Arizona State,BIAA,Dan Devine,L,13,47
+1956-11-03,San Jose State,Ind,Robert Bronzan,H,Denver,Skyline,John Roning,L,26,35
+1956-11-10,San Jose State,Ind,Robert Bronzan,A,Pacific,Ind,Moose Myers,L,7,34
+1956-09-22,Hardin-Simmons,BIAA,Sammy Baugh,A,Arkansas,SWC,Jack Mitchell,L,6,21
+1956-09-29,Hardin-Simmons,BIAA,Sammy Baugh,A,Wichita State,MVC,Pete Tillman,W,20,7
+1956-10-05,Hardin-Simmons,BIAA,Sammy Baugh,A,George Washington,Southern,Bo Sherman,L,7,13
+1956-10-20,Hardin-Simmons,BIAA,Sammy Baugh,H,Arizona State,BIAA,Dan Devine,L,13,26
+1956-10-27,Hardin-Simmons,BIAA,Sammy Baugh,A,Tulsa,MVC,Robert Dobbs,L,0,27
+1956-11-03,Hardin-Simmons,BIAA,Sammy Baugh,A,UTEP,BIAA,Mike Brumbelow,L,13,51
+1956-11-10,Hardin-Simmons,BIAA,Sammy Baugh,H,West Texas A&M,BIAA,Frank Kimbrough,L,6,20
+1956-11-17,Hardin-Simmons,BIAA,Sammy Baugh,A,Pacific,Ind,Moose Myers,W,20,19
+1956-11-24,Hardin-Simmons,BIAA,Sammy Baugh,A,New Mexico State,BIAA,Tony Cavallo,W,38,19
+1956-12-01,Hardin-Simmons,BIAA,Sammy Baugh,H,Texas Tech,Ind,DeWitt Weaver,W,41,14
+1956-09-15,Denver,Skyline,John Roning,H,Iowa State,Big 7,Vince Di Francesca,L,10,13
+1956-09-22,Denver,Skyline,John Roning,A,Utah State,Skyline,Everett Faunce,L,13,18
+1956-09-29,Denver,Skyline,John Roning,A,Wyoming,Skyline,Phil Dickens,L,0,27
+1956-10-05,Denver,Skyline,John Roning,H,Montana,Skyline,Jerry Williams,W,22,13
+1956-10-13,Denver,Skyline,John Roning,A,Utah,Skyline,Jack Curtice,L,13,27
+1956-10-26,Denver,Skyline,John Roning,H,New Mexico,Skyline,Dick Clausen,W,20,14
+1956-11-03,Denver,Skyline,John Roning,A,San Jose State,Ind,Robert Bronzan,W,35,26
+1956-11-10,Denver,Skyline,John Roning,H,Brigham Young,Skyline,Harold Kopp,W,58,34
+1956-11-22,Denver,Skyline,John Roning,H,Colorado State,Skyline,Tuffy Mullison,W,39,13
+1956-09-29,Wisconsin,Big Ten,Milt Bruhn,H,Marquette,Ind,Johnny Druze,W,41,0
+1956-10-06,Wisconsin,Big Ten,Milt Bruhn,H,USC,PCC,Jess Hill,L,6,13
+1956-10-13,Wisconsin,Big Ten,Milt Bruhn,A,Iowa,Big Ten,Forest Evashevski,L,7,13
+1956-10-20,Wisconsin,Big Ten,Milt Bruhn,H,Purdue,Big Ten,Jack Mollenkopf,T,6,6
+1956-10-27,Wisconsin,Big Ten,Milt Bruhn,A,Ohio State,Big Ten,Woody Hayes,L,0,21
+1956-11-03,Wisconsin,Big Ten,Milt Bruhn,A,Michigan State,Big Ten,Duffy Daugherty,L,0,33
+1956-11-10,Wisconsin,Big Ten,Milt Bruhn,H,Northwestern,Big Ten,Ara Parseghian,L,7,17
+1956-11-17,Wisconsin,Big Ten,Milt Bruhn,A,Illinois,Big Ten,Ray Eliot,T,13,13
+1956-11-24,Wisconsin,Big Ten,Milt Bruhn,H,Minnesota,Big Ten,Murray Warmath,T,13,13
+1956-09-22,USC,PCC,Jess Hill,A,Texas,SWC,Edwin Price,W,44,20
+1956-09-28,USC,PCC,Jess Hill,H,Oregon State,PCC,Tommy Prothro,W,21,13
+1956-10-06,USC,PCC,Jess Hill,A,Wisconsin,Big Ten,Milt Bruhn,W,13,6
+1956-10-20,USC,PCC,Jess Hill,H,Washington,PCC,Darrell Royal,W,35,7
+1956-10-27,USC,PCC,Jess Hill,A,Stanford,PCC,Chuck Taylor,L,19,27
+1956-11-03,USC,PCC,Jess Hill,A,Washington State,PCC,Jim Sutherland,W,28,12
+1956-11-10,USC,PCC,Jess Hill,H,California,PCC,Pappy Waldorf,W,20,7
+1956-11-17,USC,PCC,Jess Hill,A,Oregon,PCC,Len Casanova,L,0,7
+1956-11-24,USC,PCC,Jess Hill,A,UCLA,PCC,Red Sanders,W,10,7
+1956-12-01,USC,PCC,Jess Hill,H,Notre Dame,Ind,Terry Brennan,W,28,20
+1956-09-22,North Carolina State,ACC,Earle Edwards,A,North Carolina,ACC,Jim Tatum,W,26,6
+1956-09-29,North Carolina State,ACC,Earle Edwards,N,Virginia Tech,Southern,Frank Moseley,L,6,35
+1956-10-06,North Carolina State,ACC,Earle Edwards,H,Clemson,ACC,Frank Howard,L,7,13
+1956-10-13,North Carolina State,ACC,Earle Edwards,H,Florida State,Ind,Thomas Nugent,L,0,14
+1956-10-20,North Carolina State,ACC,Earle Edwards,A,Dayton,Ind,William Kerr,W,20,0
+1956-10-27,North Carolina State,ACC,Earle Edwards,A,Duke,ACC,Bill Murray,L,0,42
+1956-11-03,North Carolina State,ACC,Earle Edwards,A,Wake Forest,ACC,Paul Amen,L,0,13
+1956-11-10,North Carolina State,ACC,Earle Edwards,H,South Carolina,ACC,Warren Giese,W,14,7
+1956-11-17,North Carolina State,ACC,Earle Edwards,A,Penn State,Ind,Rip Engle,L,7,14
+1956-11-22,North Carolina State,ACC,Earle Edwards,H,Maryland,ACC,Tommy Mont,L,14,25
+1956-09-29,Rutgers,Ind,John Stiegman,A,Princeton,Ivy,Charles Caldwell,L,6,28
+1956-10-13,Rutgers,Ind,John Stiegman,H,Colgate,Ind,Hal Lahar,L,6,48
+1956-10-20,Rutgers,Ind,John Stiegman,H,Boston College,Ind,Mike Holovak,L,0,32
+1956-11-17,Rutgers,Ind,John Stiegman,H,William & Mary,Southern,Jackie Freeman,W,20,6
+1956-11-24,Rutgers,Ind,John Stiegman,H,Columbia,Ivy,Lou Little,L,12,18
+1956-09-29,Michigan,Big Ten,Bennie Oosterbaan,H,UCLA,PCC,Red Sanders,W,42,13
+1956-10-06,Michigan,Big Ten,Bennie Oosterbaan,H,Michigan State,Big Ten,Duffy Daugherty,L,0,9
+1956-10-13,Michigan,Big Ten,Bennie Oosterbaan,H,Army,Ind,Red Blaik,W,48,14
+1956-10-20,Michigan,Big Ten,Bennie Oosterbaan,H,Northwestern,Big Ten,Ara Parseghian,W,34,20
+1956-10-27,Michigan,Big Ten,Bennie Oosterbaan,H,Minnesota,Big Ten,Murray Warmath,L,7,20
+1956-11-03,Michigan,Big Ten,Bennie Oosterbaan,A,Iowa,Big Ten,Forest Evashevski,W,17,14
+1956-11-10,Michigan,Big Ten,Bennie Oosterbaan,H,Illinois,Big Ten,Ray Eliot,W,17,7
+1956-11-17,Michigan,Big Ten,Bennie Oosterbaan,H,Indiana,Big Ten,Bernie Crimmins,W,49,26
+1956-11-24,Michigan,Big Ten,Bennie Oosterbaan,A,Ohio State,Big Ten,Woody Hayes,W,19,0
+1956-09-22,Detroit Mercy,MVC,Wally Fromhart,H,Marquette,Ind,Johnny Druze,W,20,7
+1956-09-30,Detroit Mercy,MVC,Wally Fromhart,H,Villanova,Ind,Francis Reagan,L,7,8
+1956-10-13,Detroit Mercy,MVC,Wally Fromhart,A,Wichita State,MVC,Pete Tillman,L,13,19
+1956-10-20,Detroit Mercy,MVC,Wally Fromhart,H,Tulsa,MVC,Robert Dobbs,L,0,3
+1956-10-28,Detroit Mercy,MVC,Wally Fromhart,H,Boston College,Ind,Mike Holovak,W,12,7
+1956-11-03,Detroit Mercy,MVC,Wally Fromhart,A,Cincinnati,Ind,George Blackburn,L,7,33
+1956-11-10,Detroit Mercy,MVC,Wally Fromhart,H,Drake,Ind,Warren Gaer,L,13,26
+1956-11-17,Detroit Mercy,MVC,Wally Fromhart,A,Oklahoma State,MVC,Cliff Speegle,L,7,25
+1956-11-25,Detroit Mercy,MVC,Wally Fromhart,A,Dayton,Ind,William Kerr,L,13,27
+1956-12-01,Detroit Mercy,MVC,Wally Fromhart,A,Houston,MVC,Bill Meek,L,7,39
+1956-09-22,New Mexico,Skyline,Dick Clausen,A,New Mexico State,BIAA,Tony Cavallo,W,14,6
+1956-09-29,New Mexico,Skyline,Dick Clausen,H,Utah State,Skyline,Everett Faunce,W,27,19
+1956-10-06,New Mexico,Skyline,Dick Clausen,A,UTEP,BIAA,Mike Brumbelow,L,0,34
+1956-10-13,New Mexico,Skyline,Dick Clausen,A,Wyoming,Skyline,Phil Dickens,L,13,20
+1956-10-20,New Mexico,Skyline,Dick Clausen,H,Arizona,BIAA,Warren Woodson,L,12,26
+1956-10-26,New Mexico,Skyline,Dick Clausen,A,Denver,Skyline,John Roning,L,14,20
+1956-11-03,New Mexico,Skyline,Dick Clausen,A,Brigham Young,Skyline,Harold Kopp,L,12,33
+1956-11-17,New Mexico,Skyline,Dick Clausen,H,Montana,Skyline,Jerry Williams,W,14,13
+1956-12-01,New Mexico,Skyline,Dick Clausen,H,Colorado State,Skyline,Tuffy Mullison,L,27,28
+1956-09-22,Pacific,Ind,Moose Myers,H,Colorado State,Skyline,Tuffy Mullison,W,39,14
+1956-09-29,Pacific,Ind,Moose Myers,A,Kansas,Big 7,Chuck Mather,T,27,27
+1956-10-06,Pacific,Ind,Moose Myers,H,Cincinnati,Ind,George Blackburn,W,21,15
+1956-10-20,Pacific,Ind,Moose Myers,A,Marquette,Ind,Johnny Druze,W,28,6
+1956-10-27,Pacific,Ind,Moose Myers,H,Washington State,PCC,Jim Sutherland,W,33,12
+1956-11-03,Pacific,Ind,Moose Myers,A,Tulsa,MVC,Robert Dobbs,L,13,14
+1956-11-10,Pacific,Ind,Moose Myers,H,San Jose State,Ind,Robert Bronzan,W,34,7
+1956-11-17,Pacific,Ind,Moose Myers,H,Hardin-Simmons,BIAA,Sammy Baugh,L,19,20
+1956-11-24,Pacific,Ind,Moose Myers,A,Arizona State,BIAA,Dan Devine,L,6,19
+1956-09-22,Notre Dame,Ind,Terry Brennan,A,SMU,SWC,Chalmer Woodward,L,13,19
+1956-10-06,Notre Dame,Ind,Terry Brennan,H,Indiana,Big Ten,Bernie Crimmins,W,20,6
+1956-10-13,Notre Dame,Ind,Terry Brennan,H,Purdue,Big Ten,Jack Mollenkopf,L,14,28
+1956-10-20,Notre Dame,Ind,Terry Brennan,H,Michigan State,Big Ten,Duffy Daugherty,L,14,47
+1956-10-27,Notre Dame,Ind,Terry Brennan,H,Oklahoma,Big 7,Bud Wilkinson,L,0,40
+1956-11-03,Notre Dame,Ind,Terry Brennan,A,Navy,Ind,Eddie Erdelatz,L,7,33
+1956-11-10,Notre Dame,Ind,Terry Brennan,A,Pitt,Ind,John Michelosen,L,13,26
+1956-11-17,Notre Dame,Ind,Terry Brennan,H,North Carolina,ACC,Jim Tatum,W,21,14
+1956-11-24,Notre Dame,Ind,Terry Brennan,A,Iowa,Big Ten,Forest Evashevski,L,8,48
+1956-12-01,Notre Dame,Ind,Terry Brennan,A,USC,PCC,Jess Hill,L,20,28
+1956-09-22,Pitt,Ind,John Michelosen,A,West Virginia,Southern,Art Lewis,W,14,13
+1956-09-29,Pitt,Ind,John Michelosen,H,Syracuse,Ind,Ben Schwartzwalder,W,14,7
+1956-10-06,Pitt,Ind,John Michelosen,A,California,PCC,Pappy Waldorf,L,0,14
+1956-10-20,Pitt,Ind,John Michelosen,A,Duke,ACC,Bill Murray,W,27,14
+1956-10-27,Pitt,Ind,John Michelosen,H,Oregon,PCC,Len Casanova,W,14,7
+1956-11-03,Pitt,Ind,John Michelosen,A,Minnesota,Big Ten,Murray Warmath,L,6,9
+1956-11-10,Pitt,Ind,John Michelosen,H,Notre Dame,Ind,Terry Brennan,W,26,13
+1956-11-17,Pitt,Ind,John Michelosen,H,Army,Ind,Red Blaik,W,20,7
+1956-11-24,Pitt,Ind,John Michelosen,H,Penn State,Ind,Rip Engle,T,7,7
+1956-12-08,Pitt,Ind,John Michelosen,A,Miami (FL),Ind,Andy Gustafson,W,14,7
+1956-12-29,Pitt,Ind,John Michelosen,N,Georgia Tech,SEC,Bobby Dodd,L,14,21
+1956-10-13,West Texas A&M,BIAA,Frank Kimbrough,A,Texas Tech,Ind,DeWitt Weaver,W,34,14
+1956-10-20,West Texas A&M,BIAA,Frank Kimbrough,H,New Mexico State,BIAA,Tony Cavallo,W,45,0
+1956-11-03,West Texas A&M,BIAA,Frank Kimbrough,A,Arizona,BIAA,Warren Woodson,L,13,20
+1956-11-10,West Texas A&M,BIAA,Frank Kimbrough,A,Hardin-Simmons,BIAA,Sammy Baugh,W,20,6
+1956-11-17,West Texas A&M,BIAA,Frank Kimbrough,H,UTEP,BIAA,Mike Brumbelow,L,13,16
+1956-09-29,George Washington,Southern,Bo Sherman,A,Furman,Southern,Homer Hobbs,W,10,0
+1956-10-05,George Washington,Southern,Bo Sherman,H,Hardin-Simmons,BIAA,Sammy Baugh,W,13,7
+1956-10-13,George Washington,Southern,Bo Sherman,A,Boston University,Ind,Aldo Donelli,T,20,20
+1956-10-20,George Washington,Southern,Bo Sherman,H,Virginia Military Institute,Southern,John McKenna,W,40,14
+1956-10-26,George Washington,Southern,Bo Sherman,H,William & Mary,Southern,Jackie Freeman,W,16,14
+1956-11-03,George Washington,Southern,Bo Sherman,A,West Virginia,Southern,Art Lewis,L,0,14
+1956-11-09,George Washington,Southern,Bo Sherman,H,Richmond,Southern,Edwin Merrick,W,32,6
+1956-11-17,George Washington,Southern,Bo Sherman,A,Citadel,Southern,John Sauer,W,20,0
+1957-01-01,George Washington,Southern,Bo Sherman,A,UTEP,BIAA,Mike Brumbelow,W,13,0
+1956-09-22,North Texas,Ind,Odus Mitchell,A,Ole Miss,SEC,John Vaught,L,0,45
+1956-09-29,North Texas,Ind,Odus Mitchell,A,Arizona State,BIAA,Dan Devine,L,7,27
+1956-10-20,North Texas,Ind,Odus Mitchell,H,UTEP,BIAA,Mike Brumbelow,W,13,6
+1956-09-22,Wyoming,Skyline,Phil Dickens,A,Arizona,BIAA,Warren Woodson,W,26,20
+1956-09-29,Wyoming,Skyline,Phil Dickens,H,Denver,Skyline,John Roning,W,27,0
+1956-10-06,Wyoming,Skyline,Phil Dickens,A,Colorado State,Skyline,Tuffy Mullison,W,20,12
+1956-10-13,Wyoming,Skyline,Phil Dickens,H,New Mexico,Skyline,Dick Clausen,W,20,13
+1956-10-20,Wyoming,Skyline,Phil Dickens,H,Utah,Skyline,Jack Curtice,W,30,20
+1956-10-27,Wyoming,Skyline,Phil Dickens,H,Kansas State,Big 7,Bernard Mertes,W,27,15
+1956-11-03,Wyoming,Skyline,Phil Dickens,A,Utah State,Skyline,Everett Faunce,W,21,0
+1956-11-10,Wyoming,Skyline,Phil Dickens,N,Montana,Skyline,Jerry Williams,W,34,13
+1956-11-17,Wyoming,Skyline,Phil Dickens,A,Brigham Young,Skyline,Harold Kopp,W,7,6
+1956-09-15,Brigham Young,Skyline,Harold Kopp,A,Wichita State,MVC,Pete Tillman,L,0,13
+1956-09-29,Brigham Young,Skyline,Harold Kopp,A,Colorado State,Skyline,Tuffy Mullison,T,0,0
+1956-10-05,Brigham Young,Skyline,Harold Kopp,H,Utah,Skyline,Jack Curtice,L,6,41
+1956-10-20,Brigham Young,Skyline,Harold Kopp,A,Montana,Skyline,Jerry Williams,L,14,21
+1956-10-27,Brigham Young,Skyline,Harold Kopp,A,Utah State,Skyline,Everett Faunce,L,7,33
+1956-11-03,Brigham Young,Skyline,Harold Kopp,H,New Mexico,Skyline,Dick Clausen,W,33,12
+1956-11-10,Brigham Young,Skyline,Harold Kopp,A,Denver,Skyline,John Roning,L,34,58
+1956-11-17,Brigham Young,Skyline,Harold Kopp,H,Wyoming,Skyline,Phil Dickens,L,6,7
+1956-10-06,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,Alva Kelley,W,20,2
+1956-10-13,Yale,Ivy,Jordan Olivar,A,Columbia,Ivy,Lou Little,W,33,19
+1956-10-20,Yale,Ivy,Jordan Olivar,H,Cornell,Ivy,George James,W,25,7
+1956-10-27,Yale,Ivy,Jordan Olivar,H,Colgate,Ind,Hal Lahar,L,6,14
+1956-11-03,Yale,Ivy,Jordan Olivar,H,Dartmouth,Ivy,Bob Blackman,W,19,0
+1956-11-10,Yale,Ivy,Jordan Olivar,H,Pennsylvania,Ivy,Steve Sebo,W,40,7
+1956-11-17,Yale,Ivy,Jordan Olivar,H,Princeton,Ivy,Charles Caldwell,W,42,20
+1956-11-24,Yale,Ivy,Jordan Olivar,A,Harvard,Ivy,Lloyd Jordan,W,42,14
+1956-09-22,Georgia Tech,SEC,Bobby Dodd,A,Kentucky,SEC,Blanton Collier,W,14,6
+1956-09-29,Georgia Tech,SEC,Bobby Dodd,A,SMU,SWC,Chalmer Woodward,W,9,7
+1956-10-13,Georgia Tech,SEC,Bobby Dodd,H,LSU,SEC,Paul Dietzel,W,39,7
+1956-10-20,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Ralph Jordan,W,28,7
+1956-10-27,Georgia Tech,SEC,Bobby Dodd,H,Tulane,SEC,Andy Pilney,W,40,0
+1956-11-03,Georgia Tech,SEC,Bobby Dodd,A,Duke,ACC,Bill Murray,W,7,0
+1956-11-10,Georgia Tech,SEC,Bobby Dodd,H,Tennessee,SEC,Bowden Wyatt,L,0,6
+1956-11-17,Georgia Tech,SEC,Bobby Dodd,H,Alabama,SEC,Jennings Whitworth,W,27,0
+1956-11-24,Georgia Tech,SEC,Bobby Dodd,N,Florida,SEC,Bob Woodruff,W,28,0
+1956-12-01,Georgia Tech,SEC,Bobby Dodd,A,Georgia,SEC,Wallace Butts,W,35,0
+1956-12-29,Georgia Tech,SEC,Bobby Dodd,N,Pitt,Ind,John Michelosen,W,21,14
+1956-09-22,Wake Forest,ACC,Paul Amen,A,William & Mary,Southern,Jackie Freeman,W,39,0
+1956-09-29,Wake Forest,ACC,Paul Amen,H,Maryland,ACC,Tommy Mont,L,0,6
+1956-10-06,Wake Forest,ACC,Paul Amen,A,Virginia,ACC,Ben Martin,L,6,7
+1956-10-13,Wake Forest,ACC,Paul Amen,H,Clemson,ACC,Frank Howard,L,0,17
+1956-10-20,Wake Forest,ACC,Paul Amen,A,Florida State,Ind,Thomas Nugent,T,14,14
+1956-10-27,Wake Forest,ACC,Paul Amen,A,North Carolina,ACC,Jim Tatum,T,6,6
+1956-11-03,Wake Forest,ACC,Paul Amen,H,North Carolina State,ACC,Earle Edwards,W,13,0
+1956-11-10,Wake Forest,ACC,Paul Amen,A,Virginia Tech,Southern,Frank Moseley,T,13,13
+1956-11-17,Wake Forest,ACC,Paul Amen,H,Duke,ACC,Bill Murray,L,0,26
+1956-11-22,Wake Forest,ACC,Paul Amen,N,South Carolina,ACC,Warren Giese,L,0,13
+1956-09-22,Mississippi State,SEC,Wade Walker,H,Florida,SEC,Bob Woodruff,L,0,26
+1956-09-29,Mississippi State,SEC,Wade Walker,A,Houston,MVC,Bill Meek,L,7,18
+1956-10-06,Mississippi State,SEC,Wade Walker,A,Georgia,SEC,Wallace Butts,W,19,7
+1956-10-27,Mississippi State,SEC,Wade Walker,A,Alabama,SEC,Jennings Whitworth,L,12,13
+1956-11-03,Mississippi State,SEC,Wade Walker,A,Tulane,SEC,Andy Pilney,L,14,20
+1956-11-10,Mississippi State,SEC,Wade Walker,A,Auburn,SEC,Ralph Jordan,L,20,27
+1956-11-17,Mississippi State,SEC,Wade Walker,A,LSU,SEC,Paul Dietzel,W,32,13
+1956-12-01,Mississippi State,SEC,Wade Walker,A,Ole Miss,SEC,John Vaught,L,7,13
+1956-09-22,Virginia Military Institute,Southern,John McKenna,A,Virginia,ACC,Ben Martin,L,0,18
+1956-09-29,Virginia Military Institute,Southern,John McKenna,A,Army,Ind,Red Blaik,L,12,32
+1956-10-06,Virginia Military Institute,Southern,John McKenna,A,Richmond,Southern,Edwin Merrick,W,35,20
+1956-10-20,Virginia Military Institute,Southern,John McKenna,A,George Washington,Southern,Bo Sherman,L,14,40
+1956-10-27,Virginia Military Institute,Southern,John McKenna,A,Davidson,Southern,,T,13,13
+1956-11-03,Virginia Military Institute,Southern,John McKenna,H,William & Mary,Southern,Jackie Freeman,W,20,6
+1956-11-10,Virginia Military Institute,Southern,John McKenna,A,West Virginia,Southern,Art Lewis,L,6,13
+1956-11-22,Virginia Military Institute,Southern,John McKenna,N,Virginia Tech,Southern,Frank Moseley,L,0,45
+1956-09-22,Kansas State,Big 7,Bernard Mertes,H,Oklahoma State,MVC,Cliff Speegle,L,7,27
+1956-09-29,Kansas State,Big 7,Bernard Mertes,A,Colorado,Big 7,Dallas Ward,L,0,34
+1956-10-06,Kansas State,Big 7,Bernard Mertes,A,Oklahoma,Big 7,Bud Wilkinson,L,0,66
+1956-10-13,Kansas State,Big 7,Bernard Mertes,A,Nebraska,Big 7,Pete Elliott,W,10,7
+1956-10-20,Kansas State,Big 7,Bernard Mertes,H,Missouri,Big 7,Don Faurot,L,6,20
+1956-10-27,Kansas State,Big 7,Bernard Mertes,A,Wyoming,Skyline,Phil Dickens,L,15,27
+1956-11-03,Kansas State,Big 7,Bernard Mertes,H,Kansas,Big 7,Chuck Mather,L,15,20
+1956-11-10,Kansas State,Big 7,Bernard Mertes,A,Marquette,Ind,Johnny Druze,W,41,14
+1956-11-17,Kansas State,Big 7,Bernard Mertes,H,Iowa State,Big 7,Vince Di Francesca,W,32,6
+1956-11-24,Kansas State,Big 7,Bernard Mertes,A,Michigan State,Big Ten,Duffy Daugherty,L,17,38
+1956-09-29,Army,Ind,Red Blaik,H,Virginia Military Institute,Southern,John McKenna,W,32,12
+1956-10-06,Army,Ind,Red Blaik,H,Penn State,Ind,Rip Engle,W,14,7
+1956-10-13,Army,Ind,Red Blaik,A,Michigan,Big Ten,Bennie Oosterbaan,L,14,48
+1956-10-20,Army,Ind,Red Blaik,A,Syracuse,Ind,Ben Schwartzwalder,L,0,7
+1956-10-27,Army,Ind,Red Blaik,A,Columbia,Ivy,Lou Little,W,60,0
+1956-11-03,Army,Ind,Red Blaik,H,Colgate,Ind,Hal Lahar,W,55,46
+1956-11-10,Army,Ind,Red Blaik,H,William & Mary,Southern,Jackie Freeman,W,34,6
+1956-11-17,Army,Ind,Red Blaik,A,Pitt,Ind,John Michelosen,L,7,20
+1956-12-01,Army,Ind,Red Blaik,N,Navy,Ind,Eddie Erdelatz,T,7,7
+1956-09-22,Marquette,Ind,Johnny Druze,A,Detroit Mercy,MVC,Wally Fromhart,L,7,20
+1956-09-29,Marquette,Ind,Johnny Druze,A,Wisconsin,Big Ten,Milt Bruhn,L,0,41
+1956-10-06,Marquette,Ind,Johnny Druze,A,Tulsa,MVC,Robert Dobbs,L,0,54
+1956-10-13,Marquette,Ind,Johnny Druze,H,Boston College,Ind,Mike Holovak,L,19,26
+1956-10-20,Marquette,Ind,Johnny Druze,H,Pacific,Ind,Moose Myers,L,6,28
+1956-10-27,Marquette,Ind,Johnny Druze,H,Cincinnati,Ind,George Blackburn,L,13,33
+1956-11-03,Marquette,Ind,Johnny Druze,A,Indiana,Big Ten,Bernie Crimmins,L,13,19
+1956-11-10,Marquette,Ind,Johnny Druze,H,Kansas State,Big 7,Bernard Mertes,L,14,41
+1956-11-18,Marquette,Ind,Johnny Druze,A,Holy Cross,Ind,Edward Anderson,L,0,41
+1956-10-06,Dartmouth,Ivy,Bob Blackman,A,Pennsylvania,Ivy,Steve Sebo,L,7,14
+1956-10-13,Dartmouth,Ivy,Bob Blackman,A,Brown,Ivy,Alva Kelley,W,14,7
+1956-10-20,Dartmouth,Ivy,Bob Blackman,H,Holy Cross,Ind,Edward Anderson,T,7,7
+1956-10-27,Dartmouth,Ivy,Bob Blackman,A,Harvard,Ivy,Lloyd Jordan,L,21,28
+1956-11-03,Dartmouth,Ivy,Bob Blackman,A,Yale,Ivy,Jordan Olivar,L,0,19
+1956-11-10,Dartmouth,Ivy,Bob Blackman,H,Columbia,Ivy,Lou Little,W,14,0
+1956-11-17,Dartmouth,Ivy,Bob Blackman,A,Cornell,Ivy,George James,W,27,14
+1956-11-24,Dartmouth,Ivy,Bob Blackman,A,Princeton,Ivy,Charles Caldwell,W,19,0
+1956-09-21,UCLA,PCC,Red Sanders,H,Utah,Skyline,Jack Curtice,W,13,7
+1956-09-29,UCLA,PCC,Red Sanders,A,Michigan,Big Ten,Bennie Oosterbaan,L,13,42
+1956-10-05,UCLA,PCC,Red Sanders,H,Oregon,PCC,Len Casanova,W,6,0
+1956-10-13,UCLA,PCC,Red Sanders,H,Washington State,PCC,Jim Sutherland,W,28,0
+1956-10-20,UCLA,PCC,Red Sanders,A,California,PCC,Pappy Waldorf,W,34,20
+1956-10-27,UCLA,PCC,Red Sanders,A,Oregon State,PCC,Tommy Prothro,L,7,21
+1956-11-03,UCLA,PCC,Red Sanders,H,Stanford,PCC,Chuck Taylor,W,14,13
+1956-11-10,UCLA,PCC,Red Sanders,A,Washington,PCC,Darrell Royal,W,13,9
+1956-11-17,UCLA,PCC,Red Sanders,H,Kansas,Big 7,Chuck Mather,W,13,0
+1956-11-24,UCLA,PCC,Red Sanders,H,USC,PCC,Jess Hill,L,7,10
+1956-09-29,Auburn,SEC,Ralph Jordan,H,Tennessee,SEC,Bowden Wyatt,L,7,35
+1956-10-06,Auburn,SEC,Ralph Jordan,H,Furman,Southern,Homer Hobbs,W,41,0
+1956-10-13,Auburn,SEC,Ralph Jordan,A,Kentucky,SEC,Blanton Collier,W,13,0
+1956-10-20,Auburn,SEC,Ralph Jordan,A,Georgia Tech,SEC,Bobby Dodd,L,7,28
+1956-10-27,Auburn,SEC,Ralph Jordan,H,Houston,MVC,Bill Meek,W,12,0
+1956-11-03,Auburn,SEC,Ralph Jordan,A,Florida,SEC,Bob Woodruff,L,0,20
+1956-11-10,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Wade Walker,W,27,20
+1956-11-17,Auburn,SEC,Ralph Jordan,N,Georgia,SEC,Wallace Butts,W,20,0
+1956-11-24,Auburn,SEC,Ralph Jordan,H,Florida State,Ind,Thomas Nugent,W,13,7
+1956-12-01,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Jennings Whitworth,W,34,7
+1956-09-29,Northwestern,Big Ten,Ara Parseghian,H,Iowa State,Big 7,Vince Di Francesca,W,14,13
+1956-10-06,Northwestern,Big Ten,Ara Parseghian,H,Tulane,SEC,Andy Pilney,L,13,20
+1956-10-13,Northwestern,Big Ten,Ara Parseghian,A,Minnesota,Big Ten,Murray Warmath,T,0,0
+1956-10-20,Northwestern,Big Ten,Ara Parseghian,A,Michigan,Big Ten,Bennie Oosterbaan,L,20,34
+1956-10-27,Northwestern,Big Ten,Ara Parseghian,A,Indiana,Big Ten,Bernie Crimmins,L,13,19
+1956-11-03,Northwestern,Big Ten,Ara Parseghian,H,Ohio State,Big Ten,Woody Hayes,L,2,6
+1956-11-10,Northwestern,Big Ten,Ara Parseghian,A,Wisconsin,Big Ten,Milt Bruhn,W,17,7
+1956-11-17,Northwestern,Big Ten,Ara Parseghian,H,Purdue,Big Ten,Jack Mollenkopf,W,14,0
+1956-11-24,Northwestern,Big Ten,Ara Parseghian,H,Illinois,Big Ten,Ray Eliot,W,14,13
+1956-09-22,Kansas,Big 7,Chuck Mather,H,Texas Christian,SWC,Abe Martin,L,0,32
+1956-09-29,Kansas,Big 7,Chuck Mather,H,Pacific,Ind,Moose Myers,T,27,27
+1956-10-06,Kansas,Big 7,Chuck Mather,H,Colorado,Big 7,Dallas Ward,L,25,26
+1956-10-13,Kansas,Big 7,Chuck Mather,A,Iowa State,Big 7,Vince Di Francesca,W,25,14
+1956-10-20,Kansas,Big 7,Chuck Mather,H,Oklahoma,Big 7,Bud Wilkinson,L,12,34
+1956-10-26,Kansas,Big 7,Chuck Mather,A,Oklahoma State,MVC,Cliff Speegle,W,21,13
+1956-11-03,Kansas,Big 7,Chuck Mather,A,Kansas State,Big 7,Bernard Mertes,W,20,15
+1956-11-10,Kansas,Big 7,Chuck Mather,H,Nebraska,Big 7,Pete Elliott,L,20,26
+1956-11-17,Kansas,Big 7,Chuck Mather,A,UCLA,PCC,Red Sanders,L,0,13
+1956-12-01,Kansas,Big 7,Chuck Mather,A,Missouri,Big 7,Don Faurot,L,13,15
+1956-09-22,William & Mary,Southern,Jackie Freeman,H,Wake Forest,ACC,Paul Amen,L,0,39
+1956-09-29,William & Mary,Southern,Jackie Freeman,A,Navy,Ind,Eddie Erdelatz,L,14,39
+1956-10-06,William & Mary,Southern,Jackie Freeman,H,Boston University,Ind,Aldo Donelli,T,18,18
+1956-10-13,William & Mary,Southern,Jackie Freeman,A,Virginia Tech,Southern,Frank Moseley,L,7,34
+1956-10-20,William & Mary,Southern,Jackie Freeman,H,West Virginia,Southern,Art Lewis,L,13,20
+1956-10-26,William & Mary,Southern,Jackie Freeman,A,George Washington,Southern,Bo Sherman,L,14,16
+1956-11-03,William & Mary,Southern,Jackie Freeman,A,Virginia Military Institute,Southern,John McKenna,L,6,20
+1956-11-10,William & Mary,Southern,Jackie Freeman,A,Army,Ind,Red Blaik,L,6,34
+1956-11-17,William & Mary,Southern,Jackie Freeman,A,Rutgers,Ind,John Stiegman,L,6,20
+1956-11-22,William & Mary,Southern,Jackie Freeman,A,Richmond,Southern,Edwin Merrick,L,0,6
+1956-09-22,UTEP,BIAA,Mike Brumbelow,A,Texas Tech,Ind,DeWitt Weaver,W,17,13
+1956-10-06,UTEP,BIAA,Mike Brumbelow,H,New Mexico,Skyline,Dick Clausen,W,34,0
+1956-10-13,UTEP,BIAA,Mike Brumbelow,H,Arizona,BIAA,Warren Woodson,W,28,6
+1956-10-20,UTEP,BIAA,Mike Brumbelow,A,North Texas,Ind,Odus Mitchell,L,6,13
+1956-10-27,UTEP,BIAA,Mike Brumbelow,A,New Mexico State,BIAA,Tony Cavallo,W,51,7
+1956-11-03,UTEP,BIAA,Mike Brumbelow,H,Hardin-Simmons,BIAA,Sammy Baugh,W,51,13
+1956-11-10,UTEP,BIAA,Mike Brumbelow,A,Arizona State,BIAA,Dan Devine,W,28,0
+1956-11-17,UTEP,BIAA,Mike Brumbelow,A,West Texas A&M,BIAA,Frank Kimbrough,W,16,13
+1957-01-01,UTEP,BIAA,Mike Brumbelow,H,George Washington,Southern,Bo Sherman,L,0,13
+1956-09-29,LSU,SEC,Paul Dietzel,H,Texas A&M,SWC,Bear Bryant,L,6,9
+1956-10-06,LSU,SEC,Paul Dietzel,A,Rice,SWC,Jess Neely,L,14,23
+1956-10-13,LSU,SEC,Paul Dietzel,A,Georgia Tech,SEC,Bobby Dodd,L,7,39
+1956-10-20,LSU,SEC,Paul Dietzel,A,Kentucky,SEC,Blanton Collier,L,0,14
+1956-10-27,LSU,SEC,Paul Dietzel,H,Florida,SEC,Bob Woodruff,L,6,21
+1956-11-03,LSU,SEC,Paul Dietzel,H,Ole Miss,SEC,John Vaught,L,17,46
+1956-11-10,LSU,SEC,Paul Dietzel,H,Oklahoma State,MVC,Cliff Speegle,W,13,0
+1956-11-17,LSU,SEC,Paul Dietzel,H,Mississippi State,SEC,Wade Walker,L,13,32
+1956-11-24,LSU,SEC,Paul Dietzel,H,Arkansas,SWC,Jack Mitchell,W,21,7
+1956-12-01,LSU,SEC,Paul Dietzel,A,Tulane,SEC,Andy Pilney,W,7,6
+1956-09-29,Pennsylvania,Ivy,Steve Sebo,H,Penn State,Ind,Rip Engle,L,0,34
+1956-10-06,Pennsylvania,Ivy,Steve Sebo,H,Dartmouth,Ivy,Bob Blackman,W,14,7
+1956-10-13,Pennsylvania,Ivy,Steve Sebo,H,Princeton,Ivy,Charles Caldwell,L,0,34
+1956-10-20,Pennsylvania,Ivy,Steve Sebo,H,Brown,Ivy,Alva Kelley,W,14,7
+1956-10-27,Pennsylvania,Ivy,Steve Sebo,H,Navy,Ind,Eddie Erdelatz,L,6,54
+1956-11-03,Pennsylvania,Ivy,Steve Sebo,A,Harvard,Ivy,Lloyd Jordan,W,28,14
+1956-11-10,Pennsylvania,Ivy,Steve Sebo,A,Yale,Ivy,Jordan Olivar,L,7,40
+1956-11-17,Pennsylvania,Ivy,Steve Sebo,H,Columbia,Ivy,Lou Little,W,20,6
+1956-11-22,Pennsylvania,Ivy,Steve Sebo,H,Cornell,Ivy,George James,L,7,20
+1956-09-15,Tulsa,MVC,Robert Dobbs,H,New Mexico State,BIAA,Tony Cavallo,W,27,6
+1956-09-29,Tulsa,MVC,Robert Dobbs,A,Cincinnati,Ind,George Blackburn,L,6,7
+1956-10-06,Tulsa,MVC,Robert Dobbs,H,Marquette,Ind,Johnny Druze,W,54,0
+1956-10-13,Tulsa,MVC,Robert Dobbs,H,Oklahoma State,MVC,Cliff Speegle,T,14,14
+1956-10-20,Tulsa,MVC,Robert Dobbs,A,Detroit Mercy,MVC,Wally Fromhart,W,3,0
+1956-10-27,Tulsa,MVC,Robert Dobbs,H,Hardin-Simmons,BIAA,Sammy Baugh,W,27,0
+1956-11-03,Tulsa,MVC,Robert Dobbs,H,Pacific,Ind,Moose Myers,W,14,13
+1956-11-10,Tulsa,MVC,Robert Dobbs,A,Houston,MVC,Bill Meek,L,0,14
+1956-11-17,Tulsa,MVC,Robert Dobbs,H,Texas Tech,Ind,DeWitt Weaver,W,10,7
+1956-11-24,Tulsa,MVC,Robert Dobbs,H,Wichita State,MVC,Pete Tillman,W,14,6
+1956-09-29,Iowa,Big Ten,Forest Evashevski,A,Indiana,Big Ten,Bernie Crimmins,W,27,0
+1956-10-06,Iowa,Big Ten,Forest Evashevski,H,Oregon State,PCC,Tommy Prothro,W,14,13
+1956-10-13,Iowa,Big Ten,Forest Evashevski,H,Wisconsin,Big Ten,Milt Bruhn,W,13,7
+1956-10-27,Iowa,Big Ten,Forest Evashevski,A,Purdue,Big Ten,Jack Mollenkopf,W,21,20
+1956-11-03,Iowa,Big Ten,Forest Evashevski,H,Michigan,Big Ten,Bennie Oosterbaan,L,14,17
+1956-11-10,Iowa,Big Ten,Forest Evashevski,A,Minnesota,Big Ten,Murray Warmath,W,7,0
+1956-11-17,Iowa,Big Ten,Forest Evashevski,H,Ohio State,Big Ten,Woody Hayes,W,6,0
+1956-11-24,Iowa,Big Ten,Forest Evashevski,H,Notre Dame,Ind,Terry Brennan,W,48,8
+1957-01-01,Iowa,Big Ten,Forest Evashevski,N,Oregon State,PCC,Tommy Prothro,W,35,19
+1956-09-29,Columbia,Ivy,Lou Little,H,Brown,Ivy,Alva Kelley,L,0,20
+1956-10-06,Columbia,Ivy,Lou Little,A,Princeton,Ivy,Charles Caldwell,L,0,39
+1956-10-13,Columbia,Ivy,Lou Little,H,Yale,Ivy,Jordan Olivar,L,19,33
+1956-10-20,Columbia,Ivy,Lou Little,H,Harvard,Ivy,Lloyd Jordan,W,26,20
+1956-10-27,Columbia,Ivy,Lou Little,H,Army,Ind,Red Blaik,L,0,60
+1956-11-03,Columbia,Ivy,Lou Little,H,Cornell,Ivy,George James,W,25,19
+1956-11-10,Columbia,Ivy,Lou Little,A,Dartmouth,Ivy,Bob Blackman,L,0,14
+1956-11-17,Columbia,Ivy,Lou Little,A,Pennsylvania,Ivy,Steve Sebo,L,6,20
+1956-11-24,Columbia,Ivy,Lou Little,A,Rutgers,Ind,John Stiegman,W,18,12
+1956-09-22,Texas,SWC,Edwin Price,H,USC,PCC,Jess Hill,L,20,44
+1956-09-29,Texas,SWC,Edwin Price,A,Tulane,SEC,Andy Pilney,W,7,6
+1956-10-06,Texas,SWC,Edwin Price,H,West Virginia,Southern,Art Lewis,L,6,7
+1956-10-13,Texas,SWC,Edwin Price,N,Oklahoma,Big 7,Bud Wilkinson,L,0,45
+1956-10-20,Texas,SWC,Edwin Price,H,Arkansas,SWC,Jack Mitchell,L,14,32
+1956-10-27,Texas,SWC,Edwin Price,A,Rice,SWC,Jess Neely,L,7,28
+1956-11-03,Texas,SWC,Edwin Price,H,SMU,SWC,Chalmer Woodward,L,19,20
+1956-11-10,Texas,SWC,Edwin Price,A,Baylor,SWC,Sam Boyd,L,7,10
+1956-11-17,Texas,SWC,Edwin Price,A,Texas Christian,SWC,Abe Martin,L,0,46
+1956-11-29,Texas,SWC,Edwin Price,H,Texas A&M,SWC,Bear Bryant,L,21,34
+1956-09-22,Texas Christian,SWC,Abe Martin,A,Kansas,Big 7,Chuck Mather,W,32,0
+1956-10-06,Texas Christian,SWC,Abe Martin,H,Arkansas,SWC,Jack Mitchell,W,41,6
+1956-10-13,Texas Christian,SWC,Abe Martin,A,Alabama,SEC,Jennings Whitworth,W,23,6
+1956-10-20,Texas Christian,SWC,Abe Martin,A,Texas A&M,SWC,Bear Bryant,L,6,7
+1956-10-27,Texas Christian,SWC,Abe Martin,H,Miami (FL),Ind,Andy Gustafson,L,0,14
+1956-11-03,Texas Christian,SWC,Abe Martin,H,Baylor,SWC,Sam Boyd,W,7,6
+1956-11-10,Texas Christian,SWC,Abe Martin,A,Texas Tech,Ind,DeWitt Weaver,L,7,21
+1956-11-17,Texas Christian,SWC,Abe Martin,H,Texas,SWC,Edwin Price,W,46,0
+1956-11-24,Texas Christian,SWC,Abe Martin,A,Rice,SWC,Jess Neely,W,20,17
+1956-12-01,Texas Christian,SWC,Abe Martin,A,SMU,SWC,Chalmer Woodward,W,21,6
+1957-01-01,Texas Christian,SWC,Abe Martin,H,Syracuse,Ind,Ben Schwartzwalder,W,28,27
+1956-09-28,Miami (FL),Ind,Andy Gustafson,H,South Carolina,ACC,Warren Giese,W,14,6
+1956-10-05,Miami (FL),Ind,Andy Gustafson,H,Boston College,Ind,Mike Holovak,W,27,6
+1956-10-12,Miami (FL),Ind,Andy Gustafson,H,Maryland,ACC,Tommy Mont,W,13,6
+1956-10-19,Miami (FL),Ind,Andy Gustafson,H,Georgia,SEC,Wallace Butts,T,7,7
+1956-10-27,Miami (FL),Ind,Andy Gustafson,A,Texas Christian,SWC,Abe Martin,W,14,0
+1956-11-02,Miami (FL),Ind,Andy Gustafson,H,Florida State,Ind,Thomas Nugent,W,20,7
+1956-11-16,Miami (FL),Ind,Andy Gustafson,H,Clemson,ACC,Frank Howard,W,21,0
+1956-11-23,Miami (FL),Ind,Andy Gustafson,H,West Virginia,Southern,Art Lewis,W,18,0
+1956-12-01,Miami (FL),Ind,Andy Gustafson,A,Florida,SEC,Bob Woodruff,W,20,7
+1956-12-08,Miami (FL),Ind,Andy Gustafson,H,Pitt,Ind,John Michelosen,L,7,14
+1956-09-29,Richmond,Southern,Edwin Merrick,A,West Virginia,Southern,Art Lewis,L,6,30
+1956-10-06,Richmond,Southern,Edwin Merrick,H,Virginia Military Institute,Southern,John McKenna,L,20,35
+1956-10-12,Richmond,Southern,Edwin Merrick,H,Citadel,Southern,John Sauer,W,7,3
+1956-10-20,Richmond,Southern,Edwin Merrick,H,Virginia Tech,Southern,Frank Moseley,L,14,46
+1956-11-03,Richmond,Southern,Edwin Merrick,A,Davidson,Southern,,L,0,7
+1956-11-09,Richmond,Southern,Edwin Merrick,A,George Washington,Southern,Bo Sherman,L,6,32
+1956-11-22,Richmond,Southern,Edwin Merrick,H,William & Mary,Southern,Jackie Freeman,W,6,0
+1956-09-22,Oregon,PCC,Len Casanova,A,Colorado,Big 7,Dallas Ward,W,35,0
+1956-09-29,Oregon,PCC,Len Casanova,H,Idaho,PCC,Skip Stahley,W,21,14
+1956-10-05,Oregon,PCC,Len Casanova,A,UCLA,PCC,Red Sanders,L,0,6
+1956-10-13,Oregon,PCC,Len Casanova,A,Washington,PCC,Darrell Royal,L,7,20
+1956-10-20,Oregon,PCC,Len Casanova,H,Stanford,PCC,Chuck Taylor,L,7,21
+1956-10-27,Oregon,PCC,Len Casanova,A,Pitt,Ind,John Michelosen,L,7,14
+1956-11-03,Oregon,PCC,Len Casanova,A,California,PCC,Pappy Waldorf,W,28,6
+1956-11-10,Oregon,PCC,Len Casanova,H,Washington State,PCC,Jim Sutherland,T,7,7
+1956-11-17,Oregon,PCC,Len Casanova,H,USC,PCC,Jess Hill,W,7,0
+1956-11-24,Oregon,PCC,Len Casanova,A,Oregon State,PCC,Tommy Prothro,T,14,14
+1956-09-29,Brown,Ivy,Alva Kelley,A,Columbia,Ivy,Lou Little,W,20,0
+1956-10-06,Brown,Ivy,Alva Kelley,A,Yale,Ivy,Jordan Olivar,L,2,20
+1956-10-13,Brown,Ivy,Alva Kelley,H,Dartmouth,Ivy,Bob Blackman,L,7,14
+1956-10-20,Brown,Ivy,Alva Kelley,A,Pennsylvania,Ivy,Steve Sebo,L,7,14
+1956-11-03,Brown,Ivy,Alva Kelley,A,Princeton,Ivy,Charles Caldwell,L,7,21
+1956-11-10,Brown,Ivy,Alva Kelley,H,Cornell,Ivy,George James,W,13,6
+1956-11-17,Brown,Ivy,Alva Kelley,A,Harvard,Ivy,Lloyd Jordan,W,21,12
+1956-11-22,Brown,Ivy,Alva Kelley,H,Colgate,Ind,Hal Lahar,W,20,0
+1956-09-29,Tennessee,SEC,Bowden Wyatt,A,Auburn,SEC,Ralph Jordan,W,35,7
+1956-10-06,Tennessee,SEC,Bowden Wyatt,A,Duke,ACC,Bill Murray,W,33,20
+1956-10-20,Tennessee,SEC,Bowden Wyatt,H,Alabama,SEC,Jennings Whitworth,W,24,0
+1956-10-27,Tennessee,SEC,Bowden Wyatt,H,Maryland,ACC,Tommy Mont,W,34,7
+1956-11-03,Tennessee,SEC,Bowden Wyatt,H,North Carolina,ACC,Jim Tatum,W,20,0
+1956-11-10,Tennessee,SEC,Bowden Wyatt,A,Georgia Tech,SEC,Bobby Dodd,W,6,0
+1956-11-17,Tennessee,SEC,Bowden Wyatt,H,Ole Miss,SEC,John Vaught,W,27,7
+1956-11-24,Tennessee,SEC,Bowden Wyatt,H,Kentucky,SEC,Blanton Collier,W,20,7
+1956-12-01,Tennessee,SEC,Bowden Wyatt,A,Vanderbilt,SEC,Arthur Guepe,W,27,7
+1957-01-01,Tennessee,SEC,Bowden Wyatt,N,Baylor,SWC,Sam Boyd,L,7,13
+1956-09-22,Oregon State,PCC,Tommy Prothro,A,Missouri,Big 7,Don Faurot,W,19,13
+1956-09-28,Oregon State,PCC,Tommy Prothro,A,USC,PCC,Jess Hill,L,13,21
+1956-10-06,Oregon State,PCC,Tommy Prothro,A,Iowa,Big Ten,Forest Evashevski,L,13,14
+1956-10-13,Oregon State,PCC,Tommy Prothro,H,California,PCC,Pappy Waldorf,W,21,13
+1956-10-20,Oregon State,PCC,Tommy Prothro,A,Washington State,PCC,Jim Sutherland,W,21,0
+1956-10-27,Oregon State,PCC,Tommy Prothro,H,UCLA,PCC,Red Sanders,W,21,7
+1956-11-03,Oregon State,PCC,Tommy Prothro,H,Washington,PCC,Darrell Royal,W,28,20
+1956-11-10,Oregon State,PCC,Tommy Prothro,A,Stanford,PCC,Chuck Taylor,W,20,19
+1956-11-17,Oregon State,PCC,Tommy Prothro,A,Idaho,PCC,Skip Stahley,W,14,10
+1956-11-24,Oregon State,PCC,Tommy Prothro,H,Oregon,PCC,Len Casanova,T,14,14
+1957-01-01,Oregon State,PCC,Tommy Prothro,N,Iowa,Big Ten,Forest Evashevski,L,19,35
+1956-09-22,Alabama,SEC,Jennings Whitworth,A,Rice,SWC,Jess Neely,L,13,20
+1956-10-06,Alabama,SEC,Jennings Whitworth,H,Vanderbilt,SEC,Arthur Guepe,L,7,32
+1956-10-13,Alabama,SEC,Jennings Whitworth,H,Texas Christian,SWC,Abe Martin,L,6,23
+1956-10-20,Alabama,SEC,Jennings Whitworth,A,Tennessee,SEC,Bowden Wyatt,L,0,24
+1956-10-27,Alabama,SEC,Jennings Whitworth,H,Mississippi State,SEC,Wade Walker,W,13,12
+1956-11-03,Alabama,SEC,Jennings Whitworth,H,Georgia,SEC,Wallace Butts,L,13,16
+1956-11-10,Alabama,SEC,Jennings Whitworth,A,Tulane,SEC,Andy Pilney,W,13,7
+1956-11-17,Alabama,SEC,Jennings Whitworth,A,Georgia Tech,SEC,Bobby Dodd,L,0,27
+1956-12-01,Alabama,SEC,Jennings Whitworth,N,Auburn,SEC,Ralph Jordan,L,7,34
+1956-09-22,Dayton,Ind,William Kerr,A,Cincinnati,Ind,George Blackburn,W,19,13
+1956-09-30,Dayton,Ind,William Kerr,A,Holy Cross,Ind,Edward Anderson,W,14,13
+1956-10-13,Dayton,Ind,William Kerr,H,Villanova,Ind,Francis Reagan,L,0,13
+1956-10-20,Dayton,Ind,William Kerr,H,North Carolina State,ACC,Earle Edwards,L,0,20
+1956-11-17,Dayton,Ind,William Kerr,H,Wichita State,MVC,Pete Tillman,L,6,14
+1956-11-25,Dayton,Ind,William Kerr,H,Detroit Mercy,MVC,Wally Fromhart,W,27,13
+1956-09-29,Purdue,Big Ten,Jack Mollenkopf,H,Missouri,Big 7,Don Faurot,W,16,7
+1956-10-06,Purdue,Big Ten,Jack Mollenkopf,A,Minnesota,Big Ten,Murray Warmath,L,14,21
+1956-10-13,Purdue,Big Ten,Jack Mollenkopf,A,Notre Dame,Ind,Terry Brennan,W,28,14
+1956-10-20,Purdue,Big Ten,Jack Mollenkopf,A,Wisconsin,Big Ten,Milt Bruhn,T,6,6
+1956-10-27,Purdue,Big Ten,Jack Mollenkopf,H,Iowa,Big Ten,Forest Evashevski,L,20,21
+1956-11-03,Purdue,Big Ten,Jack Mollenkopf,H,Illinois,Big Ten,Ray Eliot,T,7,7
+1956-11-10,Purdue,Big Ten,Jack Mollenkopf,A,Michigan State,Big Ten,Duffy Daugherty,L,9,12
+1956-11-17,Purdue,Big Ten,Jack Mollenkopf,A,Northwestern,Big Ten,Ara Parseghian,L,0,14
+1956-11-24,Purdue,Big Ten,Jack Mollenkopf,H,Indiana,Big Ten,Bernie Crimmins,W,39,20
+1956-09-29,Nebraska,Big 7,Pete Elliott,A,Ohio State,Big Ten,Woody Hayes,L,7,34
+1956-10-06,Nebraska,Big 7,Pete Elliott,H,Iowa State,Big 7,Vince Di Francesca,W,9,7
+1956-10-13,Nebraska,Big 7,Pete Elliott,H,Kansas State,Big 7,Bernard Mertes,L,7,10
+1956-10-20,Nebraska,Big 7,Pete Elliott,H,Indiana,Big Ten,Bernie Crimmins,L,14,19
+1956-10-27,Nebraska,Big 7,Pete Elliott,A,Colorado,Big 7,Dallas Ward,L,0,16
+1956-11-03,Nebraska,Big 7,Pete Elliott,H,Missouri,Big 7,Don Faurot,W,15,14
+1956-11-10,Nebraska,Big 7,Pete Elliott,A,Kansas,Big 7,Chuck Mather,W,26,20
+1956-11-17,Nebraska,Big 7,Pete Elliott,H,Baylor,SWC,Sam Boyd,L,7,26
+1956-11-24,Nebraska,Big 7,Pete Elliott,A,Oklahoma,Big 7,Bud Wilkinson,L,6,54
+1956-09-22,West Virginia,Southern,Art Lewis,H,Pitt,Ind,John Michelosen,L,13,14
+1956-09-29,West Virginia,Southern,Art Lewis,H,Richmond,Southern,Edwin Merrick,W,30,6
+1956-10-06,West Virginia,Southern,Art Lewis,A,Texas,SWC,Edwin Price,W,7,6
+1956-10-13,West Virginia,Southern,Art Lewis,A,Syracuse,Ind,Ben Schwartzwalder,L,20,27
+1956-10-20,West Virginia,Southern,Art Lewis,A,William & Mary,Southern,Jackie Freeman,W,20,13
+1956-10-27,West Virginia,Southern,Art Lewis,A,Penn State,Ind,Rip Engle,L,6,16
+1956-11-03,West Virginia,Southern,Art Lewis,H,George Washington,Southern,Bo Sherman,W,14,0
+1956-11-10,West Virginia,Southern,Art Lewis,H,Virginia Military Institute,Southern,John McKenna,W,13,6
+1956-11-17,West Virginia,Southern,Art Lewis,H,Furman,Southern,Homer Hobbs,W,7,0
+1956-11-23,West Virginia,Southern,Art Lewis,A,Miami (FL),Ind,Andy Gustafson,L,0,18
+1956-10-13,Harvard,Ivy,Lloyd Jordan,A,Cornell,Ivy,George James,W,32,7
+1956-10-20,Harvard,Ivy,Lloyd Jordan,A,Columbia,Ivy,Lou Little,L,20,26
+1956-10-27,Harvard,Ivy,Lloyd Jordan,H,Dartmouth,Ivy,Bob Blackman,W,28,21
+1956-11-03,Harvard,Ivy,Lloyd Jordan,H,Pennsylvania,Ivy,Steve Sebo,L,14,28
+1956-11-10,Harvard,Ivy,Lloyd Jordan,A,Princeton,Ivy,Charles Caldwell,L,20,35
+1956-11-17,Harvard,Ivy,Lloyd Jordan,H,Brown,Ivy,Alva Kelley,L,12,21
+1956-11-24,Harvard,Ivy,Lloyd Jordan,H,Yale,Ivy,Jordan Olivar,L,14,42
+1956-09-22,Oklahoma State,MVC,Cliff Speegle,A,Kansas State,Big 7,Bernard Mertes,W,27,7
+1956-09-29,Oklahoma State,MVC,Cliff Speegle,A,Arkansas,SWC,Jack Mitchell,L,7,19
+1956-10-06,Oklahoma State,MVC,Cliff Speegle,A,Wichita State,MVC,Pete Tillman,W,32,6
+1956-10-13,Oklahoma State,MVC,Cliff Speegle,A,Tulsa,MVC,Robert Dobbs,T,14,14
+1956-10-20,Oklahoma State,MVC,Cliff Speegle,H,Houston,MVC,Bill Meek,L,0,13
+1956-10-26,Oklahoma State,MVC,Cliff Speegle,H,Kansas,Big 7,Chuck Mather,L,13,21
+1956-11-03,Oklahoma State,MVC,Cliff Speegle,A,Texas Tech,Ind,DeWitt Weaver,T,13,13
+1956-11-10,Oklahoma State,MVC,Cliff Speegle,A,LSU,SEC,Paul Dietzel,L,0,13
+1956-11-17,Oklahoma State,MVC,Cliff Speegle,H,Detroit Mercy,MVC,Wally Fromhart,W,25,7
+1956-12-01,Oklahoma State,MVC,Cliff Speegle,H,Oklahoma,Big 7,Bud Wilkinson,L,0,53
+1956-09-22,Colorado,Big 7,Dallas Ward,H,Oregon,PCC,Len Casanova,L,0,35
+1956-09-29,Colorado,Big 7,Dallas Ward,H,Kansas State,Big 7,Bernard Mertes,W,34,0
+1956-10-06,Colorado,Big 7,Dallas Ward,A,Kansas,Big 7,Chuck Mather,W,26,25
+1956-10-13,Colorado,Big 7,Dallas Ward,H,Colorado State,Skyline,Tuffy Mullison,W,47,7
+1956-10-20,Colorado,Big 7,Dallas Ward,A,Iowa State,Big 7,Vince Di Francesca,W,52,0
+1956-10-27,Colorado,Big 7,Dallas Ward,H,Nebraska,Big 7,Pete Elliott,W,16,0
+1956-11-03,Colorado,Big 7,Dallas Ward,H,Oklahoma,Big 7,Bud Wilkinson,L,19,27
+1956-11-10,Colorado,Big 7,Dallas Ward,A,Missouri,Big 7,Don Faurot,T,14,14
+1956-11-17,Colorado,Big 7,Dallas Ward,A,Utah,Skyline,Jack Curtice,W,21,7
+1956-11-24,Colorado,Big 7,Dallas Ward,A,Arizona,BIAA,Warren Woodson,W,38,7
+1957-01-01,Colorado,Big 7,Dallas Ward,N,Clemson,ACC,Frank Howard,W,27,21
+1956-09-22,Colorado State,Skyline,Tuffy Mullison,A,Pacific,Ind,Moose Myers,L,14,39
+1956-09-29,Colorado State,Skyline,Tuffy Mullison,H,Brigham Young,Skyline,Harold Kopp,T,0,0
+1956-10-06,Colorado State,Skyline,Tuffy Mullison,H,Wyoming,Skyline,Phil Dickens,L,12,20
+1956-10-13,Colorado State,Skyline,Tuffy Mullison,A,Colorado,Big 7,Dallas Ward,L,7,47
+1956-10-20,Colorado State,Skyline,Tuffy Mullison,A,Utah State,Skyline,Everett Faunce,L,7,46
+1956-10-27,Colorado State,Skyline,Tuffy Mullison,H,Montana,Skyline,Jerry Williams,W,34,20
+1956-11-10,Colorado State,Skyline,Tuffy Mullison,H,Utah,Skyline,Jack Curtice,L,27,49
+1956-11-22,Colorado State,Skyline,Tuffy Mullison,A,Denver,Skyline,John Roning,L,13,39
+1956-12-01,Colorado State,Skyline,Tuffy Mullison,A,New Mexico,Skyline,Dick Clausen,W,28,27
+1956-09-22,Rice,SWC,Jess Neely,H,Alabama,SEC,Jennings Whitworth,W,20,13
+1956-10-06,Rice,SWC,Jess Neely,H,LSU,SEC,Paul Dietzel,W,23,14
+1956-10-13,Rice,SWC,Jess Neely,A,Florida,SEC,Bob Woodruff,L,0,7
+1956-10-20,Rice,SWC,Jess Neely,H,SMU,SWC,Chalmer Woodward,L,13,14
+1956-10-27,Rice,SWC,Jess Neely,H,Texas,SWC,Edwin Price,W,28,7
+1956-11-03,Rice,SWC,Jess Neely,H,Utah,Skyline,Jack Curtice,W,27,0
+1956-11-10,Rice,SWC,Jess Neely,A,Arkansas,SWC,Jack Mitchell,L,12,27
+1956-11-17,Rice,SWC,Jess Neely,A,Texas A&M,SWC,Bear Bryant,L,7,21
+1956-11-24,Rice,SWC,Jess Neely,H,Texas Christian,SWC,Abe Martin,L,17,20
+1956-12-01,Rice,SWC,Jess Neely,A,Baylor,SWC,Sam Boyd,L,13,46
+1956-09-22,Texas A&M,SWC,Bear Bryant,H,Villanova,Ind,Francis Reagan,W,19,0
+1956-09-29,Texas A&M,SWC,Bear Bryant,A,LSU,SEC,Paul Dietzel,W,9,6
+1956-10-06,Texas A&M,SWC,Bear Bryant,N,Texas Tech,Ind,DeWitt Weaver,W,40,7
+1956-10-13,Texas A&M,SWC,Bear Bryant,A,Houston,MVC,Bill Meek,T,14,14
+1956-10-20,Texas A&M,SWC,Bear Bryant,H,Texas Christian,SWC,Abe Martin,W,7,6
+1956-10-27,Texas A&M,SWC,Bear Bryant,A,Baylor,SWC,Sam Boyd,W,19,13
+1956-11-03,Texas A&M,SWC,Bear Bryant,H,Arkansas,SWC,Jack Mitchell,W,27,0
+1956-11-10,Texas A&M,SWC,Bear Bryant,A,SMU,SWC,Chalmer Woodward,W,33,7
+1956-11-17,Texas A&M,SWC,Bear Bryant,H,Rice,SWC,Jess Neely,W,21,7
+1956-11-29,Texas A&M,SWC,Bear Bryant,A,Texas,SWC,Edwin Price,W,34,21
+1956-09-29,Davidson,Southern,,A,Citadel,Southern,John Sauer,L,7,34
+1956-10-27,Davidson,Southern,,H,Virginia Military Institute,Southern,John McKenna,T,13,13
+1956-11-03,Davidson,Southern,,H,Richmond,Southern,Edwin Merrick,W,7,0
+1956-11-23,Davidson,Southern,,N,Furman,Southern,Homer Hobbs,L,13,27
+1956-09-29,Michigan State,Big Ten,Duffy Daugherty,A,Stanford,PCC,Chuck Taylor,W,21,7
+1956-10-06,Michigan State,Big Ten,Duffy Daugherty,A,Michigan,Big Ten,Bennie Oosterbaan,W,9,0
+1956-10-13,Michigan State,Big Ten,Duffy Daugherty,H,Indiana,Big Ten,Bernie Crimmins,W,53,6
+1956-10-20,Michigan State,Big Ten,Duffy Daugherty,A,Notre Dame,Ind,Terry Brennan,W,47,14
+1956-10-27,Michigan State,Big Ten,Duffy Daugherty,A,Illinois,Big Ten,Ray Eliot,L,13,20
+1956-11-03,Michigan State,Big Ten,Duffy Daugherty,H,Wisconsin,Big Ten,Milt Bruhn,W,33,0
+1956-11-10,Michigan State,Big Ten,Duffy Daugherty,H,Purdue,Big Ten,Jack Mollenkopf,W,12,9
+1956-11-17,Michigan State,Big Ten,Duffy Daugherty,A,Minnesota,Big Ten,Murray Warmath,L,13,14
+1956-11-24,Michigan State,Big Ten,Duffy Daugherty,H,Kansas State,Big 7,Bernard Mertes,W,38,17
+1956-10-05,Boston College,Ind,Mike Holovak,A,Miami (FL),Ind,Andy Gustafson,L,6,27
+1956-10-13,Boston College,Ind,Mike Holovak,A,Marquette,Ind,Johnny Druze,W,26,19
+1956-10-20,Boston College,Ind,Mike Holovak,A,Rutgers,Ind,John Stiegman,W,32,0
+1956-10-28,Boston College,Ind,Mike Holovak,A,Detroit Mercy,MVC,Wally Fromhart,L,7,12
+1956-11-02,Boston College,Ind,Mike Holovak,H,Villanova,Ind,Francis Reagan,W,7,6
+1956-11-18,Boston College,Ind,Mike Holovak,H,Boston University,Ind,Aldo Donelli,W,13,0
+1956-12-01,Boston College,Ind,Mike Holovak,N,Holy Cross,Ind,Edward Anderson,L,0,7
+1956-09-29,Colgate,Ind,Hal Lahar,H,Cornell,Ivy,George James,W,34,6
+1956-10-06,Colgate,Ind,Hal Lahar,A,Holy Cross,Ind,Edward Anderson,L,6,20
+1956-10-13,Colgate,Ind,Hal Lahar,A,Rutgers,Ind,John Stiegman,W,48,6
+1956-10-20,Colgate,Ind,Hal Lahar,A,Princeton,Ivy,Charles Caldwell,L,20,28
+1956-10-27,Colgate,Ind,Hal Lahar,A,Yale,Ivy,Jordan Olivar,W,14,6
+1956-11-03,Colgate,Ind,Hal Lahar,A,Army,Ind,Red Blaik,L,46,55
+1956-11-17,Colgate,Ind,Hal Lahar,A,Syracuse,Ind,Ben Schwartzwalder,L,7,61
+1956-11-22,Colgate,Ind,Hal Lahar,A,Brown,Ivy,Alva Kelley,L,0,20
+1956-09-15,New Mexico State,BIAA,Tony Cavallo,A,Tulsa,MVC,Robert Dobbs,L,6,27
+1956-09-22,New Mexico State,BIAA,Tony Cavallo,H,New Mexico,Skyline,Dick Clausen,L,6,14
+1956-10-06,New Mexico State,BIAA,Tony Cavallo,H,Arizona State,BIAA,Dan Devine,L,7,28
+1956-10-20,New Mexico State,BIAA,Tony Cavallo,A,West Texas A&M,BIAA,Frank Kimbrough,L,0,45
+1956-10-27,New Mexico State,BIAA,Tony Cavallo,H,UTEP,BIAA,Mike Brumbelow,L,7,51
+1956-11-24,New Mexico State,BIAA,Tony Cavallo,H,Hardin-Simmons,BIAA,Sammy Baugh,L,19,38
+1956-09-29,Minnesota,Big Ten,Murray Warmath,A,Washington,PCC,Darrell Royal,W,34,14
+1956-10-06,Minnesota,Big Ten,Murray Warmath,H,Purdue,Big Ten,Jack Mollenkopf,W,21,14
+1956-10-13,Minnesota,Big Ten,Murray Warmath,H,Northwestern,Big Ten,Ara Parseghian,T,0,0
+1956-10-20,Minnesota,Big Ten,Murray Warmath,H,Illinois,Big Ten,Ray Eliot,W,16,13
+1956-10-27,Minnesota,Big Ten,Murray Warmath,A,Michigan,Big Ten,Bennie Oosterbaan,W,20,7
+1956-11-03,Minnesota,Big Ten,Murray Warmath,H,Pitt,Ind,John Michelosen,W,9,6
+1956-11-10,Minnesota,Big Ten,Murray Warmath,H,Iowa,Big Ten,Forest Evashevski,L,0,7
+1956-11-17,Minnesota,Big Ten,Murray Warmath,H,Michigan State,Big Ten,Duffy Daugherty,W,14,13
+1956-11-24,Minnesota,Big Ten,Murray Warmath,A,Wisconsin,Big Ten,Milt Bruhn,T,13,13
+1956-09-22,Ole Miss,SEC,John Vaught,H,North Texas,Ind,Odus Mitchell,W,45,0
+1956-09-29,Ole Miss,SEC,John Vaught,H,Kentucky,SEC,Blanton Collier,W,37,7
+1956-10-06,Ole Miss,SEC,John Vaught,H,Houston,MVC,Bill Meek,W,14,0
+1956-10-13,Ole Miss,SEC,John Vaught,H,Vanderbilt,SEC,Arthur Guepe,W,16,0
+1956-10-20,Ole Miss,SEC,John Vaught,H,Tulane,SEC,Andy Pilney,L,3,10
+1956-10-27,Ole Miss,SEC,John Vaught,A,Arkansas,SWC,Jack Mitchell,L,0,14
+1956-11-03,Ole Miss,SEC,John Vaught,A,LSU,SEC,Paul Dietzel,W,46,17
+1956-11-17,Ole Miss,SEC,John Vaught,A,Tennessee,SEC,Bowden Wyatt,L,7,27
+1956-12-01,Ole Miss,SEC,John Vaught,H,Mississippi State,SEC,Wade Walker,W,13,7
+1956-09-22,Duke,ACC,Bill Murray,A,South Carolina,ACC,Warren Giese,L,0,7
+1956-09-29,Duke,ACC,Bill Murray,A,Virginia,ACC,Ben Martin,W,40,7
+1956-10-06,Duke,ACC,Bill Murray,H,Tennessee,SEC,Bowden Wyatt,L,20,33
+1956-10-13,Duke,ACC,Bill Murray,H,SMU,SWC,Chalmer Woodward,W,14,6
+1956-10-20,Duke,ACC,Bill Murray,H,Pitt,Ind,John Michelosen,L,14,27
+1956-10-27,Duke,ACC,Bill Murray,H,North Carolina State,ACC,Earle Edwards,W,42,0
+1956-11-03,Duke,ACC,Bill Murray,H,Georgia Tech,SEC,Bobby Dodd,L,0,7
+1956-11-10,Duke,ACC,Bill Murray,H,Navy,Ind,Eddie Erdelatz,T,7,7
+1956-11-17,Duke,ACC,Bill Murray,A,Wake Forest,ACC,Paul Amen,W,26,0
+1956-11-24,Duke,ACC,Bill Murray,A,North Carolina,ACC,Jim Tatum,W,21,6
+1956-09-29,Navy,Ind,Eddie Erdelatz,H,William & Mary,Southern,Jackie Freeman,W,39,14
+1956-10-06,Navy,Ind,Eddie Erdelatz,A,Cornell,Ivy,George James,W,14,0
+1956-10-13,Navy,Ind,Eddie Erdelatz,A,Tulane,SEC,Andy Pilney,L,6,21
+1956-10-20,Navy,Ind,Eddie Erdelatz,H,Cincinnati,Ind,George Blackburn,W,13,7
+1956-10-27,Navy,Ind,Eddie Erdelatz,A,Pennsylvania,Ivy,Steve Sebo,W,54,6
+1956-11-03,Navy,Ind,Eddie Erdelatz,H,Notre Dame,Ind,Terry Brennan,W,33,7
+1956-11-10,Navy,Ind,Eddie Erdelatz,A,Duke,ACC,Bill Murray,T,7,7
+1956-11-17,Navy,Ind,Eddie Erdelatz,H,Virginia,ACC,Ben Martin,W,34,7
+1956-12-01,Navy,Ind,Eddie Erdelatz,N,Army,Ind,Red Blaik,T,7,7
+1956-09-22,Texas Tech,Ind,DeWitt Weaver,H,UTEP,BIAA,Mike Brumbelow,L,13,17
+1956-09-29,Texas Tech,Ind,DeWitt Weaver,A,Baylor,SWC,Sam Boyd,L,0,27
+1956-10-06,Texas Tech,Ind,DeWitt Weaver,N,Texas A&M,SWC,Bear Bryant,L,7,40
+1956-10-13,Texas Tech,Ind,DeWitt Weaver,H,West Texas A&M,BIAA,Frank Kimbrough,L,14,34
+1956-10-27,Texas Tech,Ind,DeWitt Weaver,A,Arizona,BIAA,Warren Woodson,W,21,7
+1956-11-03,Texas Tech,Ind,DeWitt Weaver,H,Oklahoma State,MVC,Cliff Speegle,T,13,13
+1956-11-10,Texas Tech,Ind,DeWitt Weaver,H,Texas Christian,SWC,Abe Martin,W,21,7
+1956-11-17,Texas Tech,Ind,DeWitt Weaver,A,Tulsa,MVC,Robert Dobbs,L,7,10
+1956-11-24,Texas Tech,Ind,DeWitt Weaver,H,Houston,MVC,Bill Meek,L,7,20
+1956-12-01,Texas Tech,Ind,DeWitt Weaver,A,Hardin-Simmons,BIAA,Sammy Baugh,L,14,41
+1956-09-22,Tulane,SEC,Andy Pilney,H,Virginia Tech,Southern,Frank Moseley,W,21,14
+1956-09-29,Tulane,SEC,Andy Pilney,H,Texas,SWC,Edwin Price,L,6,7
+1956-10-06,Tulane,SEC,Andy Pilney,A,Northwestern,Big Ten,Ara Parseghian,W,20,13
+1956-10-13,Tulane,SEC,Andy Pilney,H,Navy,Ind,Eddie Erdelatz,W,21,6
+1956-10-20,Tulane,SEC,Andy Pilney,A,Ole Miss,SEC,John Vaught,W,10,3
+1956-10-27,Tulane,SEC,Andy Pilney,A,Georgia Tech,SEC,Bobby Dodd,L,0,40
+1956-11-03,Tulane,SEC,Andy Pilney,H,Mississippi State,SEC,Wade Walker,W,20,14
+1956-11-10,Tulane,SEC,Andy Pilney,H,Alabama,SEC,Jennings Whitworth,L,7,13
+1956-11-17,Tulane,SEC,Andy Pilney,A,Vanderbilt,SEC,Arthur Guepe,W,13,6
+1956-12-01,Tulane,SEC,Andy Pilney,H,LSU,SEC,Paul Dietzel,L,6,7
+1956-09-29,Cornell,Ivy,George James,A,Colgate,Ind,Hal Lahar,L,6,34
+1956-10-06,Cornell,Ivy,George James,H,Navy,Ind,Eddie Erdelatz,L,0,14
+1956-10-13,Cornell,Ivy,George James,H,Harvard,Ivy,Lloyd Jordan,L,7,32
+1956-10-20,Cornell,Ivy,George James,A,Yale,Ivy,Jordan Olivar,L,7,25
+1956-10-27,Cornell,Ivy,George James,H,Princeton,Ivy,Charles Caldwell,L,21,32
+1956-11-03,Cornell,Ivy,George James,A,Columbia,Ivy,Lou Little,L,19,25
+1956-11-10,Cornell,Ivy,George James,A,Brown,Ivy,Alva Kelley,L,6,13
+1956-11-17,Cornell,Ivy,George James,H,Dartmouth,Ivy,Bob Blackman,L,14,27
+1956-11-22,Cornell,Ivy,George James,A,Pennsylvania,Ivy,Steve Sebo,W,20,7
+1956-09-29,Ohio State,Big Ten,Woody Hayes,H,Nebraska,Big 7,Pete Elliott,W,34,7
+1956-10-06,Ohio State,Big Ten,Woody Hayes,H,Stanford,PCC,Chuck Taylor,W,32,20
+1956-10-13,Ohio State,Big Ten,Woody Hayes,A,Illinois,Big Ten,Ray Eliot,W,26,6
+1956-10-20,Ohio State,Big Ten,Woody Hayes,H,Penn State,Ind,Rip Engle,L,6,7
+1956-10-27,Ohio State,Big Ten,Woody Hayes,H,Wisconsin,Big Ten,Milt Bruhn,W,21,0
+1956-11-03,Ohio State,Big Ten,Woody Hayes,A,Northwestern,Big Ten,Ara Parseghian,W,6,2
+1956-11-10,Ohio State,Big Ten,Woody Hayes,H,Indiana,Big Ten,Bernie Crimmins,W,35,14
+1956-11-17,Ohio State,Big Ten,Woody Hayes,A,Iowa,Big Ten,Forest Evashevski,L,0,6
+1956-11-24,Ohio State,Big Ten,Woody Hayes,H,Michigan,Big Ten,Bennie Oosterbaan,L,0,19
+1956-09-15,Drake,Ind,Warren Gaer,H,Utah State,Skyline,Everett Faunce,L,33,39
+1956-09-22,Drake,Ind,Warren Gaer,A,San Jose State,Ind,Robert Bronzan,L,7,26
+1956-10-20,Drake,Ind,Warren Gaer,A,Wichita State,MVC,Pete Tillman,L,14,27
+1956-11-03,Drake,Ind,Warren Gaer,A,Iowa State,Big 7,Vince Di Francesca,L,14,39
+1956-11-10,Drake,Ind,Warren Gaer,A,Detroit Mercy,MVC,Wally Fromhart,W,26,13
+1956-09-29,Houston,MVC,Bill Meek,H,Mississippi State,SEC,Wade Walker,W,18,7
+1956-10-06,Houston,MVC,Bill Meek,A,Ole Miss,SEC,John Vaught,L,0,14
+1956-10-13,Houston,MVC,Bill Meek,H,Texas A&M,SWC,Bear Bryant,T,14,14
+1956-10-20,Houston,MVC,Bill Meek,A,Oklahoma State,MVC,Cliff Speegle,W,13,0
+1956-10-27,Houston,MVC,Bill Meek,A,Auburn,SEC,Ralph Jordan,L,0,12
+1956-11-03,Houston,MVC,Bill Meek,A,Wichita State,MVC,Pete Tillman,W,41,16
+1956-11-10,Houston,MVC,Bill Meek,H,Tulsa,MVC,Robert Dobbs,W,14,0
+1956-11-17,Houston,MVC,Bill Meek,H,Villanova,Ind,Francis Reagan,W,26,13
+1956-11-24,Houston,MVC,Bill Meek,A,Texas Tech,Ind,DeWitt Weaver,W,20,7
+1956-12-01,Houston,MVC,Bill Meek,H,Detroit Mercy,MVC,Wally Fromhart,W,39,7

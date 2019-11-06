@@ -1,0 +1,343 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1908-09-26,North Carolina,Ind,Edward Green,H,Wake Forest,Ind,A.P. Hall,W,17,0
+1908-10-03,North Carolina,Ind,Edward Green,A,Tennessee,Ind,George Levene,L,0,12
+1908-10-10,North Carolina,Ind,Edward Green,N,Washington & Lee,Ind,R.R. Brown,T,0,0
+1908-10-17,North Carolina,Ind,Edward Green,N,Davidson,Ind,,T,0,0
+1908-10-26,North Carolina,Ind,Edward Green,A,Georgetown,Ind,Joe Reilly,T,6,6
+1908-11-07,North Carolina,Ind,Edward Green,A,Virginia Tech,Ind,R.M. Brown,L,0,10
+1908-11-26,North Carolina,Ind,Edward Green,A,Virginia,Ind,M.T. Cooke,L,0,31
+1908-10-10,Dickinson,Ind,Paul Davis,A,Navy,Ind,Frank Berrien,L,0,22
+1908-11-07,Dickinson,Ind,Paul Davis,A,Washington & Jefferson,Ind,D.C. Morrow,L,0,16
+1908-11-14,Dickinson,Ind,Paul Davis,H,Bucknell,Ind,Paul Smith,W,6,0
+1908-11-26,Dickinson,Ind,Paul Davis,A,Lafayette,Ind,George Barclay,L,0,12
+1908-10-28,George Washington,Ind,Fred Neilson,A,Navy,Ind,Frank Berrien,L,0,17
+1908-11-07,George Washington,Ind,Fred Neilson,H,Washington & Lee,Ind,R.R. Brown,W,44,6
+1908-11-14,George Washington,Ind,Fred Neilson,A,Virginia Tech,Ind,R.M. Brown,W,6,0
+1908-11-26,George Washington,Ind,Fred Neilson,H,Bucknell,Ind,Paul Smith,T,5,5
+1908-10-10,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,6,29
+1908-10-17,Indiana,Western,James Sheldon,H,Wisconsin,Western,Tom Barry,L,0,16
+1908-10-31,Indiana,Western,James Sheldon,A,Illinois,Western,Arthur Hall,L,0,10
+1908-11-21,Indiana,Western,James Sheldon,A,Purdue,Western,Frederick Speik,W,10,4
+1908-10-03,Yale,Ind,L. Horatio Biglow,H,Syracuse,Ind,Howard Jones,W,5,0
+1908-10-17,Yale,Ind,L. Horatio Biglow,A,Army,Ind,Harry Nelly,W,6,0
+1908-10-24,Yale,Ind,L. Horatio Biglow,H,Washington & Jefferson,Ind,D.C. Morrow,W,38,0
+1908-11-07,Yale,Ind,L. Horatio Biglow,H,Brown,Ind,J.A. Gammons,T,10,10
+1908-11-14,Yale,Ind,L. Horatio Biglow,A,Princeton,Ind,,W,11,6
+1908-11-21,Yale,Ind,L. Horatio Biglow,H,Harvard,Ind,Percy Haughton,L,0,4
+1908-10-10,Iowa State,MVIAA,,A,Minnesota,Western,Henry Williams,L,10,15
+1908-10-31,Iowa State,MVIAA,,A,Missouri,MVIAA,W.J. Monilaw,W,16,0
+1908-11-07,Iowa State,MVIAA,,A,Nebraska,MVIAA,King Cole,L,17,23
+1908-11-26,Iowa State,MVIAA,,A,Drake,MVIAA,John Griffith,W,12,6
+1908-09-26,Carlisle,Ind,Pop Warner,H,Villanova,Ind,Frederick Crolius,W,10,0
+1908-10-03,Carlisle,Ind,Pop Warner,N,Penn State,Ind,Tom Fennell,W,12,5
+1908-10-10,Carlisle,Ind,Pop Warner,A,Syracuse,Ind,Howard Jones,W,12,0
+1908-10-24,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,Sol Metzger,T,6,6
+1908-10-31,Carlisle,Ind,Pop Warner,A,Navy,Ind,Frank Berrien,W,16,6
+1908-11-07,Carlisle,Ind,Pop Warner,A,Harvard,Ind,Percy Haughton,L,0,17
+1908-11-14,Carlisle,Ind,Pop Warner,A,Pitt,Ind,Joseph Thompson,W,6,0
+1908-11-21,Carlisle,Ind,Pop Warner,A,Minnesota,Western,Henry Williams,L,6,11
+1908-11-26,Carlisle,Ind,Pop Warner,A,Saint Louis,Ind,Eddie Cochems,W,17,0
+1908-12-02,Carlisle,Ind,Pop Warner,A,Nebraska,MVIAA,King Cole,W,37,6
+1908-12-05,Carlisle,Ind,Pop Warner,A,Denver,Ind,John Koehler,W,8,4
+1908-10-10,Utah,Ind,Joseph Maddock,A,Denver,Ind,John Koehler,L,15,17
+1908-10-17,Utah,Ind,Joseph Maddock,A,Colorado College,Ind,J.R. Richards,L,4,18
+1908-11-14,Utah,Ind,Joseph Maddock,H,Colorado,Ind,Fred Folsom,W,21,14
+1908-10-17,Georgia Tech,Ind,John Heisman,H,Mississippi State,Ind,Fred Furman,W,23,0
+1908-10-24,Georgia Tech,Ind,John Heisman,H,Alabama,Ind,J.W.H. Pollard,W,11,6
+1908-10-31,Georgia Tech,Ind,John Heisman,H,Tennessee,Ind,George Levene,L,5,6
+1908-11-07,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,0,44
+1908-11-14,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,Henderson Van Surdam,L,0,6
+1908-11-26,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,John Stone,W,30,6
+1908-09-26,Wake Forest,Ind,A.P. Hall,A,North Carolina,Ind,Edward Green,L,0,17
+1908-09-30,Wake Forest,Ind,A.P. Hall,A,North Carolina State,Ind,Mickey Whitehurst,L,0,76
+1908-10-10,Wake Forest,Ind,A.P. Hall,N,Davidson,Ind,,L,0,34
+1908-11-14,Wake Forest,Ind,A.P. Hall,N,Davidson,Ind,,L,0,31
+1908-11-21,Wake Forest,Ind,A.P. Hall,H,North Carolina State,Ind,Mickey Whitehurst,L,0,25
+1908-10-17,Mississippi State,Ind,Fred Furman,A,Georgia Tech,Ind,John Heisman,L,0,23
+1908-11-07,Mississippi State,Ind,Fred Furman,A,LSU,Ind,,L,0,50
+1908-11-14,Mississippi State,Ind,Fred Furman,A,Tulane,Ind,Joe Curtis,L,0,23
+1908-11-26,Mississippi State,Ind,Fred Furman,N,Ole Miss,Ind,Frank Kyle,W,44,6
+1908-09-26,Villanova,Ind,Frederick Crolius,A,Carlisle,Ind,Pop Warner,L,0,10
+1908-10-07,Villanova,Ind,Frederick Crolius,A,Pennsylvania,Ind,Sol Metzger,L,0,11
+1908-10-14,Villanova,Ind,Frederick Crolius,A,Princeton,Ind,,L,0,6
+1908-11-07,Villanova,Ind,Frederick Crolius,A,Navy,Ind,Frank Berrien,L,6,30
+1908-11-21,Villanova,Ind,Frederick Crolius,A,Army,Ind,Harry Nelly,L,0,25
+1908-10-10,Washington & Lee,Ind,R.R. Brown,N,North Carolina,Ind,Edward Green,T,0,0
+1908-10-31,Washington & Lee,Ind,R.R. Brown,N,Virginia Tech,Ind,R.M. Brown,L,4,15
+1908-11-07,Washington & Lee,Ind,R.R. Brown,A,George Washington,Ind,Fred Neilson,L,6,44
+1908-11-26,Washington & Lee,Ind,R.R. Brown,A,Georgetown,Ind,Joe Reilly,W,12,11
+1908-10-03,Syracuse,Ind,Howard Jones,A,Yale,Ind,L. Horatio Biglow,L,0,5
+1908-10-10,Syracuse,Ind,Howard Jones,H,Carlisle,Ind,Pop Warner,L,0,12
+1908-10-25,Syracuse,Ind,Howard Jones,A,Princeton,Ind,,T,0,0
+1908-11-07,Syracuse,Ind,Howard Jones,H,Colgate,Ind,Edwin Sweetland,L,0,6
+1908-11-21,Syracuse,Ind,Howard Jones,H,Michigan,Ind,Fielding Yost,W,28,4
+1908-10-03,Haskell,Ind,John Bender,A,Arkansas,Ind,Hugo Bezdek,L,0,6
+1908-10-24,Haskell,Ind,John Bender,A,Nebraska,MVIAA,King Cole,L,0,10
+1908-11-13,Haskell,Ind,John Bender,A,Texas A&M,Ind,N.A. Marriam,W,23,0
+1908-11-16,Haskell,Ind,John Bender,A,LSU,Ind,,L,0,33
+1908-11-20,Haskell,Ind,John Bender,A,Alabama,Ind,J.W.H. Pollard,L,8,9
+1908-10-17,Georgetown,Ind,Joe Reilly,A,North Carolina State,Ind,Mickey Whitehurst,L,0,5
+1908-10-26,Georgetown,Ind,Joe Reilly,H,North Carolina,Ind,Edward Green,T,6,6
+1908-11-21,Georgetown,Ind,Joe Reilly,H,Virginia,Ind,M.T. Cooke,L,0,6
+1908-11-26,Georgetown,Ind,Joe Reilly,H,Washington & Lee,Ind,R.R. Brown,L,11,12
+1908-10-17,Saint Louis,Ind,Eddie Cochems,H,Arkansas,Ind,Hugo Bezdek,W,24,0
+1908-10-31,Saint Louis,Ind,Eddie Cochems,H,Pitt,Ind,Joseph Thompson,L,0,13
+1908-11-07,Saint Louis,Ind,Eddie Cochems,H,Sewanee,Ind,Henderson Van Surdam,T,6,6
+1908-11-26,Saint Louis,Ind,Eddie Cochems,H,Carlisle,Ind,Pop Warner,L,0,17
+1908-10-17,Army,Ind,Harry Nelly,H,Yale,Ind,L. Horatio Biglow,L,0,6
+1908-10-24,Army,Ind,Harry Nelly,H,Colgate,Ind,Edwin Sweetland,W,6,0
+1908-10-31,Army,Ind,Harry Nelly,H,Princeton,Ind,,T,0,0
+1908-11-14,Army,Ind,Harry Nelly,H,Washington & Jefferson,Ind,D.C. Morrow,T,6,6
+1908-11-21,Army,Ind,Harry Nelly,H,Villanova,Ind,Frederick Crolius,W,25,0
+1908-11-28,Army,Ind,Harry Nelly,N,Navy,Ind,Frank Berrien,W,6,4
+1908-10-03,Penn State,Ind,Tom Fennell,N,Carlisle,Ind,Pop Warner,L,5,12
+1908-10-10,Penn State,Ind,Tom Fennell,A,Pennsylvania,Ind,Sol Metzger,L,0,6
+1908-10-31,Penn State,Ind,Tom Fennell,A,Cornell,Ind,Harry Schoellkopf,L,4,10
+1908-11-07,Penn State,Ind,Tom Fennell,H,Bucknell,Ind,Paul Smith,W,33,6
+1908-11-14,Penn State,Ind,Tom Fennell,A,Navy,Ind,Frank Berrien,L,0,5
+1908-11-26,Penn State,Ind,Tom Fennell,A,Pitt,Ind,Joseph Thompson,W,12,6
+1908-10-10,Princeton,Ind,,H,Lafayette,Ind,George Barclay,T,0,0
+1908-10-14,Princeton,Ind,,H,Villanova,Ind,Frederick Crolius,W,6,0
+1908-10-17,Princeton,Ind,,H,Virginia Tech,Ind,R.M. Brown,W,10,4
+1908-10-25,Princeton,Ind,,H,Syracuse,Ind,Howard Jones,T,0,0
+1908-10-31,Princeton,Ind,,A,Army,Ind,Harry Nelly,T,0,0
+1908-11-14,Princeton,Ind,,H,Yale,Ind,L. Horatio Biglow,L,6,11
+1908-10-17,Vanderbilt,Ind,Dan McGugin,H,Clemson,Ind,John Stone,W,41,0
+1908-10-24,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,Frank Kyle,W,29,0
+1908-10-31,Vanderbilt,Ind,Dan McGugin,A,Michigan,Ind,Fielding Yost,L,6,24
+1908-11-07,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,George Levene,W,16,9
+1908-11-21,Vanderbilt,Ind,Dan McGugin,A,Washington (MO),MVIAA,Francis Cayou,W,28,0
+1908-11-26,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Henderson Van Surdam,T,6,6
+1908-10-17,Colorado College,Ind,J.R. Richards,H,Utah,Ind,Joseph Maddock,W,18,4
+1908-10-24,Colorado College,Ind,J.R. Richards,A,Texas,Ind,W.E. Metzenthin,W,15,0
+1908-11-07,Colorado College,Ind,J.R. Richards,A,Colorado,Ind,Fred Folsom,L,0,14
+1908-11-14,Colorado College,Ind,J.R. Richards,N,Colorado Mines,Ind, Russel,W,22,4
+1908-11-28,Colorado College,Ind,J.R. Richards,H,Denver,Ind,John Koehler,L,4,6
+1908-10-24,Auburn,Ind,Mike Donahue,H,Sewanee,Ind,Henderson Van Surdam,W,6,0
+1908-10-31,Auburn,Ind,Mike Donahue,H,LSU,Ind,,L,2,10
+1908-11-07,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,44,0
+1908-11-26,Auburn,Ind,Mike Donahue,H,Georgia,Ind,Branch Bocock,W,23,0
+1908-11-07,Northwestern,Western,Alton Johnson,H,Purdue,Western,Frederick Speik,L,10,16
+1908-11-21,Northwestern,Western,Alton Johnson,A,Illinois,Western,Arthur Hall,L,8,64
+1908-10-24,Kansas,MVIAA,Doc Kennedy,H,Washington (MO),MVIAA,Francis Cayou,W,10,0
+1908-11-14,Kansas,MVIAA,Doc Kennedy,A,Nebraska,MVIAA,King Cole,W,20,5
+1908-11-21,Kansas,MVIAA,Doc Kennedy,A,Iowa,Western,Mark Catlin,W,10,5
+1908-11-26,Kansas,MVIAA,Doc Kennedy,N,Missouri,MVIAA,W.J. Monilaw,W,10,4
+1908-10-17,LSU,Ind,,H,Texas A&M,Ind,N.A. Marriam,W,26,0
+1908-10-31,LSU,Ind,,A,Auburn,Ind,Mike Donahue,W,10,2
+1908-11-07,LSU,Ind,,H,Mississippi State,Ind,Fred Furman,W,50,0
+1908-11-10,LSU,Ind,,H,Baylor,Ind,Enoch Mills,W,89,0
+1908-11-16,LSU,Ind,,H,Haskell,Ind,John Bender,W,33,0
+1908-11-26,LSU,Ind,,A,Arkansas,Ind,Hugo Bezdek,W,36,4
+1908-10-03,Pennsylvania,Ind,Sol Metzger,H,Bucknell,Ind,Paul Smith,W,16,0
+1908-10-07,Pennsylvania,Ind,Sol Metzger,H,Villanova,Ind,Frederick Crolius,W,11,0
+1908-10-10,Pennsylvania,Ind,Sol Metzger,H,Penn State,Ind,Tom Fennell,W,6,0
+1908-10-17,Pennsylvania,Ind,Sol Metzger,H,Brown,Ind,J.A. Gammons,W,12,0
+1908-10-24,Pennsylvania,Ind,Sol Metzger,H,Carlisle,Ind,Pop Warner,T,6,6
+1908-11-07,Pennsylvania,Ind,Sol Metzger,H,Lafayette,Ind,George Barclay,W,34,4
+1908-11-14,Pennsylvania,Ind,Sol Metzger,A,Michigan,Ind,Fielding Yost,W,29,0
+1908-11-26,Pennsylvania,Ind,Sol Metzger,H,Cornell,Ind,Harry Schoellkopf,W,17,4
+1908-10-17,Iowa,Western,Mark Catlin,A,Missouri,MVIAA,W.J. Monilaw,L,5,10
+1908-10-31,Iowa,Western,Mark Catlin,H,Nebraska,MVIAA,King Cole,L,8,11
+1908-11-07,Iowa,Western,Mark Catlin,A,Illinois,Western,Arthur Hall,L,0,22
+1908-11-14,Iowa,Western,Mark Catlin,H,Drake,MVIAA,John Griffith,L,6,12
+1908-11-21,Iowa,Western,Mark Catlin,H,Kansas,MVIAA,Doc Kennedy,L,5,10
+1908-10-17,Illinois,Western,Arthur Hall,A,Chicago,Western,Amos Alonzo Stagg,L,6,11
+1908-10-31,Illinois,Western,Arthur Hall,H,Indiana,Western,James Sheldon,W,10,0
+1908-11-07,Illinois,Western,Arthur Hall,H,Iowa,Western,Mark Catlin,W,22,0
+1908-11-14,Illinois,Western,Arthur Hall,A,Purdue,Western,Frederick Speik,W,15,6
+1908-11-21,Illinois,Western,Arthur Hall,H,Northwestern,Western,Alton Johnson,W,64,8
+1908-10-10,Texas,Ind,W.E. Metzenthin,H,Texas Christian,Ind,J.R. Langley,W,11,6
+1908-10-17,Texas,Ind,W.E. Metzenthin,H,Baylor,Ind,Enoch Mills,W,27,5
+1908-10-24,Texas,Ind,W.E. Metzenthin,H,Colorado College,Ind,J.R. Richards,L,0,15
+1908-11-07,Texas,Ind,W.E. Metzenthin,H,Arkansas,Ind,Hugo Bezdek,W,21,0
+1908-11-09,Texas,Ind,W.E. Metzenthin,N,Texas A&M,Ind,N.A. Marriam,W,24,8
+1908-11-18,Texas,Ind,W.E. Metzenthin,H,Tulane,Ind,Joe Curtis,L,15,28
+1908-11-29,Texas,Ind,W.E. Metzenthin,H,Texas A&M,Ind,N.A. Marriam,W,28,12
+1908-10-03,Texas Christian,Ind,J.R. Langley,N,Baylor,Ind,Enoch Mills,W,15,0
+1908-10-10,Texas Christian,Ind,J.R. Langley,A,Texas,Ind,W.E. Metzenthin,L,6,11
+1908-10-24,Texas Christian,Ind,J.R. Langley,N,Baylor,Ind,Enoch Mills,W,10,6
+1908-10-31,Texas Christian,Ind,J.R. Langley,N,Texas A&M,Ind,N.A. Marriam,L,10,13
+1908-11-26,Texas Christian,Ind,J.R. Langley,N,Baylor,Ind,Enoch Mills,L,8,23
+1908-10-03,Baylor,Ind,Enoch Mills,N,Texas Christian,Ind,J.R. Langley,L,0,15
+1908-10-10,Baylor,Ind,Enoch Mills,A,Texas A&M,Ind,N.A. Marriam,W,6,5
+1908-10-17,Baylor,Ind,Enoch Mills,A,Texas,Ind,W.E. Metzenthin,L,5,27
+1908-10-24,Baylor,Ind,Enoch Mills,N,Texas Christian,Ind,J.R. Langley,L,6,10
+1908-11-07,Baylor,Ind,Enoch Mills,A,Tulane,Ind,Joe Curtis,L,2,10
+1908-11-10,Baylor,Ind,Enoch Mills,A,LSU,Ind,,L,0,89
+1908-11-21,Baylor,Ind,Enoch Mills,H,Tulane,Ind,Joe Curtis,W,6,0
+1908-11-26,Baylor,Ind,Enoch Mills,N,Texas Christian,Ind,J.R. Langley,W,23,8
+1908-10-24,Georgia,Ind,Branch Bocock,A,Tennessee,Ind,George Levene,L,0,10
+1908-11-05,Georgia,Ind,Branch Bocock,N,Clemson,Ind,John Stone,W,8,0
+1908-11-14,Georgia,Ind,Branch Bocock,A,Alabama,Ind,J.W.H. Pollard,T,6,6
+1908-11-21,Georgia,Ind,Branch Bocock,H,Davidson,Ind,,W,2,0
+1908-11-26,Georgia,Ind,Branch Bocock,A,Auburn,Ind,Mike Donahue,L,0,23
+1908-10-17,Virginia,Ind,M.T. Cooke,H,Sewanee,Ind,Henderson Van Surdam,T,0,0
+1908-10-24,Virginia,Ind,M.T. Cooke,H,Davidson,Ind,,W,12,0
+1908-11-14,Virginia,Ind,M.T. Cooke,N,North Carolina State,Ind,Mickey Whitehurst,W,6,0
+1908-11-21,Virginia,Ind,M.T. Cooke,A,Georgetown,Ind,Joe Reilly,W,6,0
+1908-11-26,Virginia,Ind,M.T. Cooke,H,North Carolina,Ind,Edward Green,W,31,0
+1908-10-03,Brown,Ind,J.A. Gammons,H,Colgate,Ind,Edwin Sweetland,W,6,0
+1908-10-17,Brown,Ind,J.A. Gammons,A,Pennsylvania,Ind,Sol Metzger,L,0,12
+1908-10-24,Brown,Ind,J.A. Gammons,H,Lafayette,Ind,George Barclay,L,6,8
+1908-10-31,Brown,Ind,J.A. Gammons,A,Harvard,Ind,Percy Haughton,L,2,6
+1908-11-07,Brown,Ind,J.A. Gammons,A,Yale,Ind,L. Horatio Biglow,T,10,10
+1908-10-03,Tennessee,Ind,George Levene,H,North Carolina,Ind,Edward Green,W,12,0
+1908-10-24,Tennessee,Ind,George Levene,H,Georgia,Ind,Branch Bocock,W,10,0
+1908-10-31,Tennessee,Ind,George Levene,A,Georgia Tech,Ind,John Heisman,W,6,5
+1908-11-07,Tennessee,Ind,George Levene,A,Vanderbilt,Ind,Dan McGugin,L,9,16
+1908-11-14,Tennessee,Ind,George Levene,H,Clemson,Ind,John Stone,W,6,5
+1908-11-26,Tennessee,Ind,George Levene,A,Alabama,Ind,J.W.H. Pollard,L,0,4
+1908-10-10,Virginia Tech,Ind,R.M. Brown,A,Clemson,Ind,John Stone,W,6,0
+1908-10-17,Virginia Tech,Ind,R.M. Brown,A,Princeton,Ind,,L,4,10
+1908-10-31,Virginia Tech,Ind,R.M. Brown,N,Washington & Lee,Ind,R.R. Brown,W,15,4
+1908-11-07,Virginia Tech,Ind,R.M. Brown,H,North Carolina,Ind,Edward Green,W,10,0
+1908-11-14,Virginia Tech,Ind,R.M. Brown,H,George Washington,Ind,Fred Neilson,L,0,6
+1908-11-21,Virginia Tech,Ind,R.M. Brown,A,Navy,Ind,Frank Berrien,L,4,15
+1908-11-26,Virginia Tech,Ind,R.M. Brown,N,North Carolina State,Ind,Mickey Whitehurst,L,5,6
+1908-10-17,Lehigh,Ind,,A,Navy,Ind,Frank Berrien,L,0,16
+1908-10-31,Lehigh,Ind,,H,Washington & Jefferson,Ind,D.C. Morrow,L,6,18
+1908-11-21,Lehigh,Ind,,A,Lafayette,Ind,George Barclay,W,11,5
+1908-10-24,Alabama,Ind,J.W.H. Pollard,A,Georgia Tech,Ind,John Heisman,L,6,11
+1908-11-14,Alabama,Ind,J.W.H. Pollard,H,Georgia,Ind,Branch Bocock,T,6,6
+1908-11-20,Alabama,Ind,J.W.H. Pollard,H,Haskell,Ind,John Bender,W,9,8
+1908-11-26,Alabama,Ind,J.W.H. Pollard,H,Tennessee,Ind,George Levene,W,4,0
+1908-10-03,Arkansas,Ind,Hugo Bezdek,H,Haskell,Ind,John Bender,W,6,0
+1908-10-10,Arkansas,Ind,Hugo Bezdek,H,Ole Miss,Ind,Frank Kyle,W,33,0
+1908-10-17,Arkansas,Ind,Hugo Bezdek,A,Saint Louis,Ind,Eddie Cochems,L,0,24
+1908-11-07,Arkansas,Ind,Hugo Bezdek,A,Texas,Ind,W.E. Metzenthin,L,0,21
+1908-11-26,Arkansas,Ind,Hugo Bezdek,H,LSU,Ind,,L,4,36
+1908-10-10,Clemson,Ind,John Stone,H,Virginia Tech,Ind,R.M. Brown,L,0,6
+1908-10-17,Clemson,Ind,John Stone,A,Vanderbilt,Ind,Dan McGugin,L,0,41
+1908-10-28,Clemson,Ind,John Stone,N,Davidson,Ind,,L,0,13
+1908-11-05,Clemson,Ind,John Stone,N,Georgia,Ind,Branch Bocock,L,0,8
+1908-11-14,Clemson,Ind,John Stone,A,Tennessee,Ind,George Levene,L,5,6
+1908-11-26,Clemson,Ind,John Stone,A,Georgia Tech,Ind,John Heisman,L,6,30
+1908-10-03,Purdue,Western,Frederick Speik,A,Chicago,Western,Amos Alonzo Stagg,L,0,39
+1908-11-07,Purdue,Western,Frederick Speik,A,Northwestern,Western,Alton Johnson,W,16,10
+1908-11-14,Purdue,Western,Frederick Speik,H,Illinois,Western,Arthur Hall,L,6,15
+1908-11-21,Purdue,Western,Frederick Speik,H,Indiana,Western,James Sheldon,L,4,10
+1908-10-17,Nebraska,MVIAA,King Cole,A,Minnesota,Western,Henry Williams,T,0,0
+1908-10-24,Nebraska,MVIAA,King Cole,H,Haskell,Ind,John Bender,W,10,0
+1908-10-31,Nebraska,MVIAA,King Cole,A,Iowa,Western,Mark Catlin,W,11,8
+1908-11-07,Nebraska,MVIAA,King Cole,H,Iowa State,MVIAA,,W,23,17
+1908-11-14,Nebraska,MVIAA,King Cole,H,Kansas,MVIAA,Doc Kennedy,L,5,20
+1908-12-02,Nebraska,MVIAA,King Cole,H,Carlisle,Ind,Pop Warner,L,6,37
+1908-10-24,Harvard,Ind,Percy Haughton,A,Navy,Ind,Frank Berrien,T,6,6
+1908-10-31,Harvard,Ind,Percy Haughton,H,Brown,Ind,J.A. Gammons,W,6,2
+1908-11-07,Harvard,Ind,Percy Haughton,H,Carlisle,Ind,Pop Warner,W,17,0
+1908-11-21,Harvard,Ind,Percy Haughton,A,Yale,Ind,L. Horatio Biglow,W,4,0
+1908-11-07,Colorado,Ind,Fred Folsom,H,Colorado College,Ind,J.R. Richards,W,14,0
+1908-11-14,Colorado,Ind,Fred Folsom,A,Utah,Ind,Joseph Maddock,L,14,21
+1908-11-21,Colorado,Ind,Fred Folsom,H,Denver,Ind,John Koehler,L,10,14
+1908-11-26,Colorado,Ind,Fred Folsom,H,Colorado Mines,Ind, Russel,W,15,0
+1908-10-17,Missouri,MVIAA,W.J. Monilaw,H,Iowa,Western,Mark Catlin,W,10,5
+1908-10-31,Missouri,MVIAA,W.J. Monilaw,H,Iowa State,MVIAA,,L,0,16
+1908-11-11,Missouri,MVIAA,W.J. Monilaw,A,Drake,MVIAA,John Griffith,W,11,8
+1908-11-14,Missouri,MVIAA,W.J. Monilaw,H,Washington (MO),MVIAA,Francis Cayou,W,40,0
+1908-11-26,Missouri,MVIAA,W.J. Monilaw,N,Kansas,MVIAA,Doc Kennedy,L,4,10
+1908-10-10,Denver,Ind,John Koehler,H,Utah,Ind,Joseph Maddock,W,17,15
+1908-11-07,Denver,Ind,John Koehler,H,Colorado Mines,Ind, Russel,W,18,0
+1908-11-21,Denver,Ind,John Koehler,A,Colorado,Ind,Fred Folsom,W,14,10
+1908-11-28,Denver,Ind,John Koehler,A,Colorado College,Ind,J.R. Richards,W,6,4
+1908-12-05,Denver,Ind,John Koehler,H,Carlisle,Ind,Pop Warner,L,4,8
+1908-10-24,Washington & Jefferson,Ind,D.C. Morrow,A,Yale,Ind,L. Horatio Biglow,L,0,38
+1908-10-31,Washington & Jefferson,Ind,D.C. Morrow,A,Lehigh,Ind,,W,18,6
+1908-11-07,Washington & Jefferson,Ind,D.C. Morrow,H,Dickinson,Ind,Paul Davis,W,16,0
+1908-11-14,Washington & Jefferson,Ind,D.C. Morrow,A,Army,Ind,Harry Nelly,T,6,6
+1908-12-05,Washington & Jefferson,Ind,D.C. Morrow,A,Pitt,Ind,Joseph Thompson,W,14,0
+1908-10-17,Wisconsin,Western,Tom Barry,A,Indiana,Western,James Sheldon,W,16,0
+1908-11-07,Wisconsin,Western,Tom Barry,A,Minnesota,Western,Henry Williams,W,5,0
+1908-11-21,Wisconsin,Western,Tom Barry,H,Chicago,Western,Amos Alonzo Stagg,L,12,18
+1908-10-03,Bucknell,Ind,Paul Smith,A,Pennsylvania,Ind,Sol Metzger,L,0,16
+1908-10-24,Bucknell,Ind,Paul Smith,A,Pitt,Ind,Joseph Thompson,L,0,22
+1908-10-31,Bucknell,Ind,Paul Smith,A,Lafayette,Ind,George Barclay,T,6,6
+1908-11-07,Bucknell,Ind,Paul Smith,A,Penn State,Ind,Tom Fennell,L,6,33
+1908-11-14,Bucknell,Ind,Paul Smith,A,Dickinson,Ind,Paul Davis,L,0,6
+1908-11-26,Bucknell,Ind,Paul Smith,A,George Washington,Ind,Fred Neilson,T,5,5
+1908-10-10,Texas A&M,Ind,N.A. Marriam,H,Baylor,Ind,Enoch Mills,L,5,6
+1908-10-17,Texas A&M,Ind,N.A. Marriam,A,LSU,Ind,,L,0,26
+1908-10-31,Texas A&M,Ind,N.A. Marriam,N,Texas Christian,Ind,J.R. Langley,W,13,10
+1908-11-09,Texas A&M,Ind,N.A. Marriam,N,Texas,Ind,W.E. Metzenthin,L,8,24
+1908-11-13,Texas A&M,Ind,N.A. Marriam,H,Haskell,Ind,John Bender,L,0,23
+1908-11-29,Texas A&M,Ind,N.A. Marriam,A,Texas,Ind,W.E. Metzenthin,L,12,28
+1908-10-10,Davidson,Ind,,N,Wake Forest,Ind,A.P. Hall,W,34,0
+1908-10-17,Davidson,Ind,,N,North Carolina,Ind,Edward Green,T,0,0
+1908-10-24,Davidson,Ind,,A,Virginia,Ind,M.T. Cooke,L,0,12
+1908-10-28,Davidson,Ind,,N,Clemson,Ind,John Stone,W,13,0
+1908-11-07,Davidson,Ind,,N,North Carolina State,Ind,Mickey Whitehurst,L,0,21
+1908-11-14,Davidson,Ind,,N,Wake Forest,Ind,A.P. Hall,W,31,0
+1908-11-21,Davidson,Ind,,A,Georgia,Ind,Branch Bocock,L,0,2
+1908-10-24,Washington (MO),MVIAA,Francis Cayou,A,Kansas,MVIAA,Doc Kennedy,L,0,10
+1908-11-14,Washington (MO),MVIAA,Francis Cayou,A,Missouri,MVIAA,W.J. Monilaw,L,0,40
+1908-11-21,Washington (MO),MVIAA,Francis Cayou,H,Vanderbilt,Ind,Dan McGugin,L,0,28
+1908-11-26,Washington (MO),MVIAA,Francis Cayou,A,Tulane,Ind,Joe Curtis,L,0,11
+1908-10-03,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Frederick Speik,W,39,0
+1908-10-10,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,29,6
+1908-10-17,Chicago,Western,Amos Alonzo Stagg,H,Illinois,Western,Arthur Hall,W,11,6
+1908-10-31,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,Henry Williams,W,29,0
+1908-11-14,Chicago,Western,Amos Alonzo Stagg,H,Cornell,Ind,Harry Schoellkopf,T,6,6
+1908-11-21,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,Tom Barry,W,18,12
+1908-11-07,Colorado Mines,Ind, Russel,A,Denver,Ind,John Koehler,L,0,18
+1908-11-14,Colorado Mines,Ind, Russel,N,Colorado College,Ind,J.R. Richards,L,4,22
+1908-11-26,Colorado Mines,Ind, Russel,A,Colorado,Ind,Fred Folsom,L,0,15
+1908-09-30,North Carolina State,Ind,Mickey Whitehurst,H,Wake Forest,Ind,A.P. Hall,W,76,0
+1908-10-17,North Carolina State,Ind,Mickey Whitehurst,H,Georgetown,Ind,Joe Reilly,W,5,0
+1908-11-07,North Carolina State,Ind,Mickey Whitehurst,N,Davidson,Ind,,W,21,0
+1908-11-14,North Carolina State,Ind,Mickey Whitehurst,N,Virginia,Ind,M.T. Cooke,L,0,6
+1908-11-21,North Carolina State,Ind,Mickey Whitehurst,A,Wake Forest,Ind,A.P. Hall,W,25,0
+1908-11-26,North Carolina State,Ind,Mickey Whitehurst,N,Virginia Tech,Ind,R.M. Brown,W,6,5
+1908-10-03,Colgate,Ind,Edwin Sweetland,A,Brown,Ind,J.A. Gammons,L,0,6
+1908-10-17,Colgate,Ind,Edwin Sweetland,A,Cornell,Ind,Harry Schoellkopf,L,0,9
+1908-10-24,Colgate,Ind,Edwin Sweetland,A,Army,Ind,Harry Nelly,L,0,6
+1908-11-07,Colgate,Ind,Edwin Sweetland,A,Syracuse,Ind,Howard Jones,W,6,0
+1908-10-10,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,,W,15,10
+1908-10-17,Minnesota,Western,Henry Williams,H,Nebraska,MVIAA,King Cole,T,0,0
+1908-10-31,Minnesota,Western,Henry Williams,A,Chicago,Western,Amos Alonzo Stagg,L,0,29
+1908-11-07,Minnesota,Western,Henry Williams,H,Wisconsin,Western,Tom Barry,L,0,5
+1908-11-21,Minnesota,Western,Henry Williams,H,Carlisle,Ind,Pop Warner,W,11,6
+1908-10-10,Ole Miss,Ind,Frank Kyle,A,Arkansas,Ind,Hugo Bezdek,L,0,33
+1908-10-24,Ole Miss,Ind,Frank Kyle,A,Vanderbilt,Ind,Dan McGugin,L,0,29
+1908-10-31,Ole Miss,Ind,Frank Kyle,A,Tulane,Ind,Joe Curtis,L,0,10
+1908-11-26,Ole Miss,Ind,Frank Kyle,N,Mississippi State,Ind,Fred Furman,L,6,44
+1908-10-17,Sewanee,Ind,Henderson Van Surdam,A,Virginia,Ind,M.T. Cooke,T,0,0
+1908-10-24,Sewanee,Ind,Henderson Van Surdam,A,Auburn,Ind,Mike Donahue,L,0,6
+1908-11-07,Sewanee,Ind,Henderson Van Surdam,A,Saint Louis,Ind,Eddie Cochems,T,6,6
+1908-11-14,Sewanee,Ind,Henderson Van Surdam,A,Georgia Tech,Ind,John Heisman,W,6,0
+1908-11-26,Sewanee,Ind,Henderson Van Surdam,A,Vanderbilt,Ind,Dan McGugin,T,6,6
+1908-10-31,Michigan,Ind,Fielding Yost,H,Vanderbilt,Ind,Dan McGugin,W,24,6
+1908-11-14,Michigan,Ind,Fielding Yost,H,Pennsylvania,Ind,Sol Metzger,L,0,29
+1908-11-21,Michigan,Ind,Fielding Yost,A,Syracuse,Ind,Howard Jones,L,4,28
+1908-10-10,Navy,Ind,Frank Berrien,H,Dickinson,Ind,Paul Davis,W,22,0
+1908-10-17,Navy,Ind,Frank Berrien,H,Lehigh,Ind,,W,16,0
+1908-10-24,Navy,Ind,Frank Berrien,H,Harvard,Ind,Percy Haughton,T,6,6
+1908-10-28,Navy,Ind,Frank Berrien,H,George Washington,Ind,Fred Neilson,W,17,0
+1908-10-31,Navy,Ind,Frank Berrien,H,Carlisle,Ind,Pop Warner,L,6,16
+1908-11-07,Navy,Ind,Frank Berrien,H,Villanova,Ind,Frederick Crolius,W,30,6
+1908-11-14,Navy,Ind,Frank Berrien,H,Penn State,Ind,Tom Fennell,W,5,0
+1908-11-21,Navy,Ind,Frank Berrien,H,Virginia Tech,Ind,R.M. Brown,W,15,4
+1908-11-28,Navy,Ind,Frank Berrien,N,Army,Ind,Harry Nelly,L,4,6
+1908-10-10,Lafayette,Ind,George Barclay,A,Princeton,Ind,,T,0,0
+1908-10-24,Lafayette,Ind,George Barclay,A,Brown,Ind,J.A. Gammons,W,8,6
+1908-10-31,Lafayette,Ind,George Barclay,H,Bucknell,Ind,Paul Smith,T,6,6
+1908-11-07,Lafayette,Ind,George Barclay,A,Pennsylvania,Ind,Sol Metzger,L,4,34
+1908-11-21,Lafayette,Ind,George Barclay,H,Lehigh,Ind,,L,5,11
+1908-11-26,Lafayette,Ind,George Barclay,H,Dickinson,Ind,Paul Davis,W,12,0
+1908-10-31,Tulane,Ind,Joe Curtis,H,Ole Miss,Ind,Frank Kyle,W,10,0
+1908-11-07,Tulane,Ind,Joe Curtis,H,Baylor,Ind,Enoch Mills,W,10,2
+1908-11-14,Tulane,Ind,Joe Curtis,H,Mississippi State,Ind,Fred Furman,W,23,0
+1908-11-18,Tulane,Ind,Joe Curtis,A,Texas,Ind,W.E. Metzenthin,W,28,15
+1908-11-21,Tulane,Ind,Joe Curtis,A,Baylor,Ind,Enoch Mills,L,0,6
+1908-11-26,Tulane,Ind,Joe Curtis,H,Washington (MO),MVIAA,Francis Cayou,W,11,0
+1908-10-17,Cornell,Ind,Harry Schoellkopf,H,Colgate,Ind,Edwin Sweetland,W,9,0
+1908-10-31,Cornell,Ind,Harry Schoellkopf,H,Penn State,Ind,Tom Fennell,W,10,4
+1908-11-14,Cornell,Ind,Harry Schoellkopf,A,Chicago,Western,Amos Alonzo Stagg,T,6,6
+1908-11-26,Cornell,Ind,Harry Schoellkopf,A,Pennsylvania,Ind,Sol Metzger,L,4,17
+1908-10-24,Pitt,Ind,Joseph Thompson,H,Bucknell,Ind,Paul Smith,W,22,0
+1908-10-31,Pitt,Ind,Joseph Thompson,A,Saint Louis,Ind,Eddie Cochems,W,13,0
+1908-11-14,Pitt,Ind,Joseph Thompson,H,Carlisle,Ind,Pop Warner,L,0,6
+1908-11-26,Pitt,Ind,Joseph Thompson,H,Penn State,Ind,Tom Fennell,L,6,12
+1908-12-05,Pitt,Ind,Joseph Thompson,H,Washington & Jefferson,Ind,D.C. Morrow,L,0,14
+1908-11-11,Drake,MVIAA,John Griffith,H,Missouri,MVIAA,W.J. Monilaw,L,8,11
+1908-11-14,Drake,MVIAA,John Griffith,A,Iowa,Western,Mark Catlin,W,12,6
+1908-11-26,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,,L,6,12

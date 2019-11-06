@@ -1,0 +1,451 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1914-10-08,North Carolina,Ind,T.C. Trenchard,N,Wake Forest,Ind,W.C. Smith,W,53,0
+1914-10-12,North Carolina,Ind,T.C. Trenchard,H,South Carolina,Ind,N.B. Edgerton,W,48,0
+1914-10-17,North Carolina,Ind,T.C. Trenchard,A,Georgia,Ind,W.A. Cunningham,W,41,6
+1914-10-24,North Carolina,Ind,T.C. Trenchard,A,Vanderbilt,Ind,Dan McGugin,W,10,9
+1914-10-31,North Carolina,Ind,T.C. Trenchard,N,Davidson,Ind,,W,16,3
+1914-11-07,North Carolina,Ind,T.C. Trenchard,H,Virginia Military Institute,Ind,Frank Gorton,W,30,7
+1914-11-14,North Carolina,Ind,T.C. Trenchard,N,Wake Forest,Ind,W.C. Smith,W,12,7
+1914-11-26,North Carolina,Ind,T.C. Trenchard,A,Virginia,Ind,Joseph Wood,L,3,20
+1914-10-03,Indiana,Western,Clarence Childs,A,Chicago,Western,Amos Alonzo Stagg,L,0,34
+1914-10-10,Indiana,Western,Clarence Childs,A,Illinois,Western,Robert Zuppke,L,0,51
+1914-10-17,Indiana,Western,Clarence Childs,H,Northwestern,Western,Fred Murphy,W,27,0
+1914-11-07,Indiana,Western,Clarence Childs,H,Ohio State,Western,John Wilce,L,3,13
+1914-11-21,Indiana,Western,Clarence Childs,A,Purdue,Western,Andy Smith,L,13,23
+1914-10-10,Iowa State,MVIAA,Homer Hubbard,A,Minnesota,Western,Henry Williams,L,0,26
+1914-10-24,Iowa State,MVIAA,Homer Hubbard,A,Missouri,MVIAA,Henry Schulte,W,6,0
+1914-10-31,Iowa State,MVIAA,Homer Hubbard,A,Nebraska,MVIAA,Jumbo Stiehm,L,7,20
+1914-11-14,Iowa State,MVIAA,Homer Hubbard,H,Iowa,Western,Jesse Hawley,L,6,26
+1914-11-21,Iowa State,MVIAA,Homer Hubbard,A,Drake,MVIAA,John Griffith,W,52,0
+1914-10-10,Utah,RMC,Nelson Norgren,H,Wyoming,RMC,Ralph Thacker,W,20,0
+1914-10-17,Utah,RMC,Nelson Norgren,H,Colorado College,RMC,C.J. Rothget,L,7,46
+1914-10-24,Utah,RMC,Nelson Norgren,A,Colorado Mines,RMC,William Hanley,L,6,13
+1914-11-07,Utah,RMC,Nelson Norgren,A,Colorado,RMC,Fred Folsom,L,0,33
+1914-11-26,Utah,RMC,Nelson Norgren,H,Utah State,RMC,,W,20,2
+1914-10-17,Washington & Lee,Ind,Jogger Elcock,A,Georgetown,Ind,,W,14,0
+1914-10-24,Washington & Lee,Ind,Jogger Elcock,H,Wake Forest,Ind,W.C. Smith,W,72,0
+1914-10-31,Washington & Lee,Ind,Jogger Elcock,N,Virginia Tech,Ind,Branch Bocock,W,7,6
+1914-11-14,Washington & Lee,Ind,Jogger Elcock,N,West Virginia,Ind,Sol Metzger,W,8,6
+1914-11-26,Washington & Lee,Ind,Jogger Elcock,N,North Carolina State,Ind,Jack Hegarty,W,7,0
+1914-10-10,Syracuse,Ind,,A,Princeton,Ind,Wilder Penfield,L,7,12
+1914-10-24,Syracuse,Ind,,H,Michigan,Ind,Fielding Yost,W,20,6
+1914-10-31,Syracuse,Ind,,H,Carlisle,Ind,Pop Warner,W,24,3
+1914-11-07,Syracuse,Ind,,H,Rutgers,Ind,George Sanford,T,14,14
+1914-11-14,Syracuse,Ind,,H,Colgate,Ind,Laurence Bankart,T,0,0
+1914-11-21,Syracuse,Ind,,A,Dartmouth,Ind,Frank Cavanaugh,L,0,40
+1914-11-26,Syracuse,Ind,,H,Notre Dame,Ind,Jesse Harper,L,0,20
+1914-10-23,Haskell,Ind,,A,Texas A&M,Ind,Charley Moran,W,10,0
+1914-10-31,Haskell,Ind,,A,Notre Dame,Ind,Jesse Harper,L,7,21
+1914-11-07,Haskell,Ind,,A,Texas,Ind,Dave Allerdice,L,7,23
+1914-11-14,Haskell,Ind,,A,LSU,Ind,E.T. McDonald,W,31,0
+1914-11-26,Haskell,Ind,,H,Oklahoma,Ind,Bennie Owen,L,12,33
+1914-10-03,Georgetown,Ind,,A,Navy,Ind,,L,0,13
+1914-10-17,Georgetown,Ind,,H,Washington & Lee,Ind,Jogger Elcock,L,0,14
+1914-10-24,Georgetown,Ind,,A,Pitt,Ind,Joseph Duff,L,0,21
+1914-10-31,Georgetown,Ind,,H,West Virginia Wesleyan,Ind,,W,27,0
+1914-11-07,Georgetown,Ind,,A,North Carolina State,Ind,Jack Hegarty,T,7,7
+1914-11-21,Georgetown,Ind,,H,Washington & Jefferson,Ind,Bob Folwell,L,6,14
+1914-10-24,Penn State,Ind,Bill Hollenback,A,Harvard,Ind,Percy Haughton,T,13,13
+1914-10-31,Penn State,Ind,Bill Hollenback,A,Lafayette,Ind,Wilmer Crowell,W,17,0
+1914-11-07,Penn State,Ind,Bill Hollenback,A,Lehigh,Ind,Tom Keady,L,7,20
+1914-11-26,Penn State,Ind,Bill Hollenback,A,Pitt,Ind,Joseph Duff,L,3,13
+1914-09-26,Princeton,Ind,Wilder Penfield,H,Rutgers,Ind,George Sanford,W,12,0
+1914-10-03,Princeton,Ind,Wilder Penfield,H,Bucknell,Ind,George Cockill,W,10,0
+1914-10-10,Princeton,Ind,Wilder Penfield,H,Syracuse,Ind,,W,12,7
+1914-10-17,Princeton,Ind,Wilder Penfield,H,Lafayette,Ind,Wilmer Crowell,W,16,0
+1914-10-24,Princeton,Ind,Wilder Penfield,H,Dartmouth,Ind,Frank Cavanaugh,W,16,12
+1914-11-07,Princeton,Ind,Wilder Penfield,A,Harvard,Ind,Percy Haughton,L,0,20
+1914-11-14,Princeton,Ind,Wilder Penfield,H,Yale,Ind,Frank Hinkey,L,14,19
+1914-10-10,Vanderbilt,Ind,Dan McGugin,A,Michigan,Ind,Fielding Yost,L,3,23
+1914-10-24,Vanderbilt,Ind,Dan McGugin,H,North Carolina,Ind,T.C. Trenchard,L,9,10
+1914-10-31,Vanderbilt,Ind,Dan McGugin,H,Virginia,Ind,Joseph Wood,L,7,20
+1914-11-07,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,Zora Clevenger,L,14,16
+1914-11-14,Vanderbilt,Ind,Dan McGugin,A,Auburn,Ind,Mike Donahue,L,0,6
+1914-11-21,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,L,13,14
+1914-10-17,Colorado College,RMC,C.J. Rothget,A,Utah,RMC,Nelson Norgren,W,46,7
+1914-10-31,Colorado College,RMC,C.J. Rothget,H,Colorado,RMC,Fred Folsom,L,7,10
+1914-11-07,Colorado College,RMC,C.J. Rothget,A,Colorado State,RMC,Harry Hughes,W,24,13
+1914-11-14,Colorado College,RMC,C.J. Rothget,H,Denver,RMC,Harry Buckingham,W,61,7
+1914-11-26,Colorado College,RMC,C.J. Rothget,H,Colorado Mines,RMC,William Hanley,T,7,7
+1914-10-10,Florida,Ind,,H,Auburn,Ind,Mike Donahue,L,0,20
+1914-10-24,Florida,Ind,,H,Sewanee,Ind,Harris Cope,L,0,26
+1914-11-07,Florida,Ind,,H,Wofford,Ind,,W,66,0
+1914-11-14,Florida,Ind,,A,Citadel,Ind,George Rogers,W,7,0
+1914-10-03,Southwestern (TX),Ind,,H,Texas Christian,Ind,Daddy Boles,W,10,9
+1914-10-10,Southwestern (TX),Ind,,A,Rice,Ind,Phillip Arbuckle,L,7,12
+1914-10-31,Southwestern (TX),Ind,,A,Texas,Ind,Dave Allerdice,L,0,70
+1914-11-20,Southwestern (TX),Ind,,H,Ole Miss,Ind,,W,18,0
+1914-11-26,Southwestern (TX),Ind,,A,Baylor,Ind,Bubs Mosley,W,7,6
+1914-10-10,Illinois,Western,Robert Zuppke,H,Indiana,Western,Clarence Childs,W,51,0
+1914-10-17,Illinois,Western,Robert Zuppke,H,Ohio State,Western,John Wilce,W,37,0
+1914-10-24,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Fred Murphy,W,33,0
+1914-10-31,Illinois,Western,Robert Zuppke,A,Minnesota,Western,Henry Williams,W,21,6
+1914-11-14,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,W,21,7
+1914-11-21,Illinois,Western,Robert Zuppke,A,Wisconsin,Western,William Juneau,W,24,9
+1914-10-10,Baylor,Ind,Bubs Mosley,H,Texas,Ind,Dave Allerdice,L,0,57
+1914-10-24,Baylor,Ind,Bubs Mosley,A,Oklahoma State,Ind,Paul Davis,L,0,60
+1914-11-07,Baylor,Ind,Bubs Mosley,H,Texas Christian,Ind,Daddy Boles,W,28,14
+1914-11-20,Baylor,Ind,Bubs Mosley,A,Rice,Ind,Phillip Arbuckle,L,13,14
+1914-11-26,Baylor,Ind,Bubs Mosley,H,Southwestern (TX),Ind,,L,6,7
+1914-10-03,Georgia,Ind,W.A. Cunningham,H,Citadel,Ind,George Rogers,W,13,0
+1914-10-10,Georgia,Ind,W.A. Cunningham,A,Sewanee,Ind,Harris Cope,W,7,6
+1914-10-17,Georgia,Ind,W.A. Cunningham,H,North Carolina,Ind,T.C. Trenchard,L,6,41
+1914-10-24,Georgia,Ind,W.A. Cunningham,A,Virginia,Ind,Joseph Wood,L,0,28
+1914-10-31,Georgia,Ind,W.A. Cunningham,H,Mississippi State,Ind,E.C. Hayes,L,0,9
+1914-11-07,Georgia,Ind,W.A. Cunningham,H,Clemson,Ind,Bob Williams,L,13,35
+1914-11-14,Georgia,Ind,W.A. Cunningham,A,Georgia Tech,Ind,John Heisman,L,0,7
+1914-11-21,Georgia,Ind,W.A. Cunningham,H,Auburn,Ind,Mike Donahue,T,0,0
+1914-10-03,Virginia,Ind,Joseph Wood,A,Yale,Ind,Frank Hinkey,L,0,21
+1914-10-17,Virginia,Ind,Joseph Wood,H,South Carolina,Ind,N.B. Edgerton,W,49,7
+1914-10-24,Virginia,Ind,Joseph Wood,H,Georgia,Ind,W.A. Cunningham,W,28,0
+1914-10-31,Virginia,Ind,Joseph Wood,A,Vanderbilt,Ind,Dan McGugin,W,20,7
+1914-11-26,Virginia,Ind,Joseph Wood,H,North Carolina,Ind,T.C. Trenchard,W,20,3
+1914-10-03,Citadel,Ind,George Rogers,A,Georgia,Ind,W.A. Cunningham,L,0,13
+1914-10-24,Citadel,Ind,George Rogers,N,Davidson,Ind,,L,0,16
+1914-10-31,Citadel,Ind,George Rogers,H,Clemson,Ind,Bob Williams,L,0,14
+1914-11-07,Citadel,Ind,George Rogers,A,Newberry,Ind,Joe Parrish,W,14,13
+1914-11-14,Citadel,Ind,George Rogers,H,Florida,Ind,,L,0,7
+1914-11-26,Citadel,Ind,George Rogers,A,South Carolina,Ind,N.B. Edgerton,L,6,7
+1914-10-17,Oklahoma,Ind,Bennie Owen,H,Missouri,MVIAA,Henry Schulte,W,13,0
+1914-10-24,Oklahoma,Ind,Bennie Owen,N,Texas,Ind,Dave Allerdice,L,7,32
+1914-10-31,Oklahoma,Ind,Bennie Owen,A,Kansas,MVIAA,H.M. Wheaton,T,16,16
+1914-11-06,Oklahoma,Ind,Bennie Owen,H,Oklahoma State,Ind,Paul Davis,W,23,6
+1914-11-13,Oklahoma,Ind,Bennie Owen,A,Kansas State,MVIAA,Guy Lowman,W,52,10
+1914-11-21,Oklahoma,Ind,Bennie Owen,H,Arkansas,Ind,E.T. Pickering,W,35,7
+1914-11-26,Oklahoma,Ind,Bennie Owen,A,Haskell,Ind,,W,33,12
+1914-10-17,Virginia Tech,Ind,Branch Bocock,A,West Virginia Wesleyan,Ind,,L,0,13
+1914-10-31,Virginia Tech,Ind,Branch Bocock,N,Washington & Lee,Ind,Jogger Elcock,L,6,7
+1914-11-14,Virginia Tech,Ind,Branch Bocock,H,North Carolina State,Ind,Jack Hegarty,W,3,0
+1914-11-26,Virginia Tech,Ind,Branch Bocock,N,Virginia Military Institute,Ind,Frank Gorton,W,3,0
+1914-10-31,Arkansas,Ind,E.T. Pickering,A,Oklahoma State,Ind,Paul Davis,L,0,46
+1914-11-07,Arkansas,Ind,E.T. Pickering,N,LSU,Ind,E.T. McDonald,W,20,12
+1914-11-14,Arkansas,Ind,E.T. Pickering,H,Ole Miss,Ind,,L,7,13
+1914-11-21,Arkansas,Ind,E.T. Pickering,A,Oklahoma,Ind,Bennie Owen,L,7,35
+1914-10-03,Clemson,Ind,Bob Williams,A,Davidson,Ind,,T,0,0
+1914-10-10,Clemson,Ind,Bob Williams,A,Tennessee,Ind,Zora Clevenger,L,0,27
+1914-10-17,Clemson,Ind,Bob Williams,A,Auburn,Ind,Mike Donahue,L,0,28
+1914-10-29,Clemson,Ind,Bob Williams,A,South Carolina,Ind,N.B. Edgerton,W,29,6
+1914-10-31,Clemson,Ind,Bob Williams,A,Citadel,Ind,George Rogers,W,14,0
+1914-11-07,Clemson,Ind,Bob Williams,A,Georgia,Ind,W.A. Cunningham,W,35,13
+1914-11-14,Clemson,Ind,Bob Williams,A,Virginia Military Institute,Ind,Frank Gorton,W,27,23
+1914-11-26,Clemson,Ind,Bob Williams,A,Georgia Tech,Ind,John Heisman,L,6,26
+1914-10-03,South Carolina,Ind,N.B. Edgerton,A,Georgia Tech,Ind,John Heisman,L,0,20
+1914-10-12,South Carolina,Ind,N.B. Edgerton,A,North Carolina,Ind,T.C. Trenchard,L,0,48
+1914-10-17,South Carolina,Ind,N.B. Edgerton,A,Virginia,Ind,Joseph Wood,L,7,49
+1914-10-24,South Carolina,Ind,N.B. Edgerton,H,Newberry,Ind,Joe Parrish,T,13,13
+1914-10-29,South Carolina,Ind,N.B. Edgerton,H,Clemson,Ind,Bob Williams,L,6,29
+1914-11-04,South Carolina,Ind,N.B. Edgerton,A,Wofford,Ind,,W,25,0
+1914-11-07,South Carolina,Ind,N.B. Edgerton,H,Wake Forest,Ind,W.C. Smith,W,26,0
+1914-11-14,South Carolina,Ind,N.B. Edgerton,H,Davidson,Ind,,L,7,13
+1914-11-19,South Carolina,Ind,N.B. Edgerton,A,Newberry,Ind,Joe Parrish,W,47,6
+1914-11-26,South Carolina,Ind,N.B. Edgerton,H,Citadel,Ind,George Rogers,W,7,6
+1914-09-26,West Virginia Wesleyan,Ind,,H,Carlisle,Ind,Pop Warner,L,0,6
+1914-10-17,West Virginia Wesleyan,Ind,,H,Virginia Tech,Ind,Branch Bocock,W,13,0
+1914-10-31,West Virginia Wesleyan,Ind,,A,Georgetown,Ind,,L,0,27
+1914-11-14,West Virginia Wesleyan,Ind,,H,Washington & Jefferson,Ind,Bob Folwell,L,6,59
+1914-11-26,West Virginia Wesleyan,Ind,,N,West Virginia,Ind,Sol Metzger,W,14,9
+1914-11-07,Utah State,RMC,,H,Wyoming,RMC,Ralph Thacker,W,24,3
+1914-11-14,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,7,41
+1914-11-26,Utah State,RMC,,A,Utah,RMC,Nelson Norgren,L,2,20
+1914-10-17,Missouri,MVIAA,Henry Schulte,A,Oklahoma,Ind,Bennie Owen,L,0,13
+1914-10-24,Missouri,MVIAA,Henry Schulte,H,Iowa State,MVIAA,Homer Hubbard,L,0,6
+1914-10-31,Missouri,MVIAA,Henry Schulte,H,Kansas State,MVIAA,Guy Lowman,W,13,3
+1914-11-07,Missouri,MVIAA,Henry Schulte,A,Drake,MVIAA,John Griffith,W,33,7
+1914-11-14,Missouri,MVIAA,Henry Schulte,H,Washington (MO),MVIAA,W.P. Edmunds,W,26,3
+1914-11-21,Missouri,MVIAA,Henry Schulte,A,Kansas,MVIAA,H.M. Wheaton,W,10,7
+1914-10-31,Denver,RMC,Harry Buckingham,H,Colorado State,RMC,Harry Hughes,L,6,19
+1914-11-07,Denver,RMC,Harry Buckingham,H,Colorado Mines,RMC,William Hanley,L,0,18
+1914-11-14,Denver,RMC,Harry Buckingham,A,Colorado College,RMC,C.J. Rothget,L,7,61
+1914-11-21,Denver,RMC,Harry Buckingham,A,Wyoming,RMC,Ralph Thacker,W,31,0
+1914-11-26,Denver,RMC,Harry Buckingham,H,Colorado,RMC,Fred Folsom,L,0,6
+1914-10-10,Washington & Jefferson,Ind,Bob Folwell,A,Harvard,Ind,Percy Haughton,L,9,10
+1914-10-24,Washington & Jefferson,Ind,Bob Folwell,A,Yale,Ind,Frank Hinkey,W,13,7
+1914-10-31,Washington & Jefferson,Ind,Bob Folwell,H,West Virginia,Ind,Sol Metzger,W,48,0
+1914-11-07,Washington & Jefferson,Ind,Bob Folwell,A,Pitt,Ind,Joseph Duff,W,13,10
+1914-11-14,Washington & Jefferson,Ind,Bob Folwell,A,West Virginia Wesleyan,Ind,,W,59,6
+1914-11-21,Washington & Jefferson,Ind,Bob Folwell,A,Georgetown,Ind,,W,14,6
+1914-11-26,Washington & Jefferson,Ind,Bob Folwell,H,Bucknell,Ind,George Cockill,W,34,0
+1914-11-28,Washington & Jefferson,Ind,Bob Folwell,A,Rutgers,Ind,George Sanford,W,20,13
+1914-10-17,Wofford,Ind,,A,Davidson,Ind,,L,5,81
+1914-10-31,Wofford,Ind,,A,Newberry,Ind,Joe Parrish,L,0,36
+1914-11-04,Wofford,Ind,,H,South Carolina,Ind,N.B. Edgerton,L,0,25
+1914-11-07,Wofford,Ind,,A,Florida,Ind,,L,0,66
+1914-11-28,Wofford,Ind,,H,Newberry,Ind,Joe Parrish,L,7,15
+1914-12-05,Wofford,Ind,,A,Wake Forest,Ind,W.C. Smith,L,0,41
+1914-10-17,Wisconsin,Western,William Juneau,H,Purdue,Western,Andy Smith,W,14,7
+1914-10-24,Wisconsin,Western,William Juneau,A,Ohio State,Western,John Wilce,W,7,6
+1914-10-31,Wisconsin,Western,William Juneau,H,Chicago,Western,Amos Alonzo Stagg,T,0,0
+1914-11-14,Wisconsin,Western,William Juneau,A,Minnesota,Western,Henry Williams,L,3,14
+1914-11-21,Wisconsin,Western,William Juneau,H,Illinois,Western,Robert Zuppke,L,9,24
+1914-10-03,Bucknell,Ind,George Cockill,A,Princeton,Ind,Wilder Penfield,L,0,10
+1914-10-17,Bucknell,Ind,George Cockill,A,Cornell,Ind,,L,0,48
+1914-11-26,Bucknell,Ind,George Cockill,A,Washington & Jefferson,Ind,Bob Folwell,L,0,34
+1914-10-10,Colorado Mines,RMC,William Hanley,H,Colorado,RMC,Fred Folsom,W,6,2
+1914-10-17,Colorado Mines,RMC,William Hanley,A,Wyoming,RMC,Ralph Thacker,W,25,0
+1914-10-24,Colorado Mines,RMC,William Hanley,H,Utah,RMC,Nelson Norgren,W,13,6
+1914-11-07,Colorado Mines,RMC,William Hanley,A,Denver,RMC,Harry Buckingham,W,18,0
+1914-11-21,Colorado Mines,RMC,William Hanley,H,Colorado State,RMC,Harry Hughes,W,19,0
+1914-11-26,Colorado Mines,RMC,William Hanley,A,Colorado College,RMC,C.J. Rothget,T,7,7
+1914-10-03,North Carolina State,Ind,Jack Hegarty,H,Wake Forest,Ind,W.C. Smith,W,51,0
+1914-10-22,North Carolina State,Ind,Jack Hegarty,H,West Virginia,Ind,Sol Metzger,W,26,13
+1914-10-31,North Carolina State,Ind,Jack Hegarty,A,Navy,Ind,,L,14,16
+1914-11-07,North Carolina State,Ind,Jack Hegarty,H,Georgetown,Ind,,T,7,7
+1914-11-14,North Carolina State,Ind,Jack Hegarty,A,Virginia Tech,Ind,Branch Bocock,L,0,3
+1914-11-26,North Carolina State,Ind,Jack Hegarty,N,Washington & Lee,Ind,Jogger Elcock,L,0,7
+1914-09-26,Rutgers,Ind,George Sanford,A,Princeton,Ind,Wilder Penfield,L,0,12
+1914-10-10,Rutgers,Ind,George Sanford,A,Army,Ind,Charles Daly,L,0,13
+1914-11-07,Rutgers,Ind,George Sanford,A,Syracuse,Ind,,T,14,14
+1914-11-28,Rutgers,Ind,George Sanford,H,Washington & Jefferson,Ind,Bob Folwell,L,13,20
+1914-10-10,Michigan,Ind,Fielding Yost,H,Vanderbilt,Ind,Dan McGugin,W,23,3
+1914-10-24,Michigan,Ind,Fielding Yost,A,Syracuse,Ind,,L,6,20
+1914-10-31,Michigan,Ind,Fielding Yost,A,Harvard,Ind,Percy Haughton,L,0,7
+1914-11-07,Michigan,Ind,Fielding Yost,H,Pennsylvania,Ind,George Brooke,W,34,3
+1914-11-14,Michigan,Ind,Fielding Yost,H,Cornell,Ind,,L,13,28
+1914-10-17,Notre Dame,Ind,Jesse Harper,A,Yale,Ind,Frank Hinkey,L,0,28
+1914-10-31,Notre Dame,Ind,Jesse Harper,H,Haskell,Ind,,W,21,7
+1914-11-07,Notre Dame,Ind,Jesse Harper,A,Army,Ind,Charles Daly,L,7,20
+1914-11-14,Notre Dame,Ind,Jesse Harper,H,Carlisle,Ind,Pop Warner,W,48,6
+1914-11-26,Notre Dame,Ind,Jesse Harper,A,Syracuse,Ind,,W,20,0
+1914-09-30,Pitt,Ind,Joseph Duff,A,Cornell,Ind,,W,9,3
+1914-10-10,Pitt,Ind,Joseph Duff,A,Navy,Ind,,W,13,6
+1914-10-17,Pitt,Ind,Joseph Duff,H,Carlisle,Ind,Pop Warner,W,10,3
+1914-10-24,Pitt,Ind,Joseph Duff,H,Georgetown,Ind,,W,21,0
+1914-11-07,Pitt,Ind,Joseph Duff,H,Washington & Jefferson,Ind,Bob Folwell,L,10,13
+1914-11-26,Pitt,Ind,Joseph Duff,H,Penn State,Ind,Bill Hollenback,W,13,3
+1914-10-10,Newberry,Ind,Joe Parrish,A,Davidson,Ind,,L,6,20
+1914-10-24,Newberry,Ind,Joe Parrish,A,South Carolina,Ind,N.B. Edgerton,T,13,13
+1914-10-31,Newberry,Ind,Joe Parrish,H,Wofford,Ind,,W,36,0
+1914-11-07,Newberry,Ind,Joe Parrish,H,Citadel,Ind,George Rogers,L,13,14
+1914-11-19,Newberry,Ind,Joe Parrish,H,South Carolina,Ind,N.B. Edgerton,L,6,47
+1914-11-28,Newberry,Ind,Joe Parrish,A,Wofford,Ind,,W,15,7
+1914-10-10,Wyoming,RMC,Ralph Thacker,A,Utah,RMC,Nelson Norgren,L,0,20
+1914-10-17,Wyoming,RMC,Ralph Thacker,H,Colorado Mines,RMC,William Hanley,L,0,25
+1914-10-24,Wyoming,RMC,Ralph Thacker,H,Colorado State,RMC,Harry Hughes,L,10,48
+1914-11-07,Wyoming,RMC,Ralph Thacker,A,Utah State,RMC,,L,3,24
+1914-11-21,Wyoming,RMC,Ralph Thacker,H,Denver,RMC,Harry Buckingham,L,0,31
+1914-10-03,Yale,Ind,Frank Hinkey,H,Virginia,Ind,Joseph Wood,W,21,0
+1914-10-10,Yale,Ind,Frank Hinkey,H,Lehigh,Ind,Tom Keady,W,20,3
+1914-10-17,Yale,Ind,Frank Hinkey,H,Notre Dame,Ind,Jesse Harper,W,28,0
+1914-10-24,Yale,Ind,Frank Hinkey,H,Washington & Jefferson,Ind,Bob Folwell,L,7,13
+1914-10-31,Yale,Ind,Frank Hinkey,H,Colgate,Ind,Laurence Bankart,W,49,7
+1914-11-07,Yale,Ind,Frank Hinkey,H,Brown,Ind,Edward Robinson,W,14,6
+1914-11-14,Yale,Ind,Frank Hinkey,A,Princeton,Ind,Wilder Penfield,W,19,14
+1914-11-21,Yale,Ind,Frank Hinkey,H,Harvard,Ind,Percy Haughton,L,0,36
+1914-09-26,Carlisle,Ind,Pop Warner,A,West Virginia Wesleyan,Ind,,W,6,0
+1914-10-03,Carlisle,Ind,Pop Warner,A,Lehigh,Ind,Tom Keady,L,6,21
+1914-10-10,Carlisle,Ind,Pop Warner,A,Cornell,Ind,,L,0,21
+1914-10-17,Carlisle,Ind,Pop Warner,A,Pitt,Ind,Joseph Duff,L,3,10
+1914-10-24,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,George Brooke,L,0,7
+1914-10-31,Carlisle,Ind,Pop Warner,A,Syracuse,Ind,,L,3,24
+1914-11-14,Carlisle,Ind,Pop Warner,A,Notre Dame,Ind,Jesse Harper,L,6,48
+1914-11-26,Carlisle,Ind,Pop Warner,A,Brown,Ind,Edward Robinson,L,14,20
+1914-12-02,Carlisle,Ind,Pop Warner,A,Alabama,Ind,Tubby Graves,W,20,3
+1914-12-05,Carlisle,Ind,Pop Warner,N,Auburn,Ind,Mike Donahue,L,0,7
+1914-10-03,Georgia Tech,Ind,John Heisman,H,South Carolina,Ind,N.B. Edgerton,W,20,0
+1914-10-17,Georgia Tech,Ind,John Heisman,A,Alabama,Ind,Tubby Graves,L,0,13
+1914-10-24,Georgia Tech,Ind,John Heisman,H,Virginia Military Institute,Ind,Frank Gorton,W,28,7
+1914-10-31,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,Harris Cope,W,20,0
+1914-11-07,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,0,14
+1914-11-14,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,W.A. Cunningham,W,7,0
+1914-11-26,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Bob Williams,W,26,6
+1914-10-03,Wake Forest,Ind,W.C. Smith,A,North Carolina State,Ind,Jack Hegarty,L,0,51
+1914-10-08,Wake Forest,Ind,W.C. Smith,N,North Carolina,Ind,T.C. Trenchard,L,0,53
+1914-10-24,Wake Forest,Ind,W.C. Smith,A,Washington & Lee,Ind,Jogger Elcock,L,0,72
+1914-11-07,Wake Forest,Ind,W.C. Smith,A,South Carolina,Ind,N.B. Edgerton,L,0,26
+1914-11-14,Wake Forest,Ind,W.C. Smith,N,North Carolina,Ind,T.C. Trenchard,L,7,12
+1914-11-26,Wake Forest,Ind,W.C. Smith,A,Davidson,Ind,,L,6,7
+1914-12-05,Wake Forest,Ind,W.C. Smith,H,Wofford,Ind,,W,41,0
+1914-10-24,Mississippi State,Ind,E.C. Hayes,A,Auburn,Ind,Mike Donahue,L,0,19
+1914-10-31,Mississippi State,Ind,E.C. Hayes,A,Georgia,Ind,W.A. Cunningham,W,9,0
+1914-11-14,Mississippi State,Ind,E.C. Hayes,H,Tulane,Ind,Edwin Sweetland,W,61,0
+1914-11-26,Mississippi State,Ind,E.C. Hayes,A,Alabama,Ind,Tubby Graves,W,9,0
+1914-10-24,Virginia Military Institute,Ind,Frank Gorton,A,Georgia Tech,Ind,John Heisman,L,7,28
+1914-11-07,Virginia Military Institute,Ind,Frank Gorton,A,North Carolina,Ind,T.C. Trenchard,L,7,30
+1914-11-14,Virginia Military Institute,Ind,Frank Gorton,H,Clemson,Ind,Bob Williams,L,23,27
+1914-11-26,Virginia Military Institute,Ind,Frank Gorton,N,Virginia Tech,Ind,Branch Bocock,L,0,3
+1914-10-17,Kansas State,MVIAA,Guy Lowman,H,Nebraska,MVIAA,Jumbo Stiehm,L,0,31
+1914-10-26,Kansas State,MVIAA,Guy Lowman,A,Kansas,MVIAA,H.M. Wheaton,L,0,28
+1914-10-31,Kansas State,MVIAA,Guy Lowman,A,Missouri,MVIAA,Henry Schulte,L,3,13
+1914-11-13,Kansas State,MVIAA,Guy Lowman,H,Oklahoma,Ind,Bennie Owen,L,10,52
+1914-10-10,Army,Ind,Charles Daly,H,Rutgers,Ind,George Sanford,W,13,0
+1914-10-17,Army,Ind,Charles Daly,H,Colgate,Ind,Laurence Bankart,W,21,7
+1914-11-07,Army,Ind,Charles Daly,H,Notre Dame,Ind,Jesse Harper,W,20,7
+1914-11-28,Army,Ind,Charles Daly,N,Navy,Ind,,W,20,0
+1914-10-24,Dartmouth,Ind,Frank Cavanaugh,A,Princeton,Ind,Wilder Penfield,L,12,16
+1914-11-14,Dartmouth,Ind,Frank Cavanaugh,A,Pennsylvania,Ind,George Brooke,W,41,0
+1914-11-21,Dartmouth,Ind,Frank Cavanaugh,H,Syracuse,Ind,,W,40,0
+1914-10-10,Auburn,Ind,Mike Donahue,A,Florida,Ind,,W,20,0
+1914-10-17,Auburn,Ind,Mike Donahue,H,Clemson,Ind,Bob Williams,W,28,0
+1914-10-24,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,E.C. Hayes,W,19,0
+1914-11-07,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,14,0
+1914-11-14,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Dan McGugin,W,6,0
+1914-11-21,Auburn,Ind,Mike Donahue,A,Georgia,Ind,W.A. Cunningham,T,0,0
+1914-12-05,Auburn,Ind,Mike Donahue,N,Carlisle,Ind,Pop Warner,W,7,0
+1914-10-10,Northwestern,Western,Fred Murphy,A,Chicago,Western,Amos Alonzo Stagg,L,0,28
+1914-10-17,Northwestern,Western,Fred Murphy,A,Indiana,Western,Clarence Childs,L,0,27
+1914-10-24,Northwestern,Western,Fred Murphy,H,Illinois,Western,Robert Zuppke,L,0,33
+1914-11-07,Northwestern,Western,Fred Murphy,H,Iowa,Western,Jesse Hawley,L,0,27
+1914-11-14,Northwestern,Western,Fred Murphy,H,Purdue,Western,Andy Smith,L,6,34
+1914-11-21,Northwestern,Western,Fred Murphy,A,Ohio State,Western,John Wilce,L,0,27
+1914-10-17,Kansas,MVIAA,H.M. Wheaton,A,Drake,MVIAA,John Griffith,W,32,7
+1914-10-26,Kansas,MVIAA,H.M. Wheaton,H,Kansas State,MVIAA,Guy Lowman,W,28,0
+1914-10-31,Kansas,MVIAA,H.M. Wheaton,H,Oklahoma,Ind,Bennie Owen,T,16,16
+1914-11-14,Kansas,MVIAA,H.M. Wheaton,A,Nebraska,MVIAA,Jumbo Stiehm,L,0,35
+1914-11-21,Kansas,MVIAA,H.M. Wheaton,H,Missouri,MVIAA,Henry Schulte,L,7,10
+1914-10-17,LSU,Ind,E.T. McDonald,H,Ole Miss,Ind,,L,0,21
+1914-10-31,LSU,Ind,E.T. McDonald,A,Texas A&M,Ind,Charley Moran,L,9,63
+1914-11-07,LSU,Ind,E.T. McDonald,N,Arkansas,Ind,E.T. Pickering,L,12,20
+1914-11-14,LSU,Ind,E.T. McDonald,H,Haskell,Ind,,L,0,31
+1914-11-26,LSU,Ind,E.T. McDonald,A,Tulane,Ind,Edwin Sweetland,T,0,0
+1914-10-10,Pennsylvania,Ind,George Brooke,H,Lafayette,Ind,Wilmer Crowell,T,0,0
+1914-10-17,Pennsylvania,Ind,George Brooke,H,Navy,Ind,,W,13,6
+1914-10-24,Pennsylvania,Ind,George Brooke,H,Carlisle,Ind,Pop Warner,W,7,0
+1914-11-07,Pennsylvania,Ind,George Brooke,A,Michigan,Ind,Fielding Yost,L,3,34
+1914-11-14,Pennsylvania,Ind,George Brooke,H,Dartmouth,Ind,Frank Cavanaugh,L,0,41
+1914-11-26,Pennsylvania,Ind,George Brooke,H,Cornell,Ind,,L,12,24
+1914-10-17,Iowa,Western,Jesse Hawley,A,Chicago,Western,Amos Alonzo Stagg,L,0,7
+1914-10-24,Iowa,Western,Jesse Hawley,H,Minnesota,Western,Henry Williams,L,0,7
+1914-11-07,Iowa,Western,Jesse Hawley,A,Northwestern,Western,Fred Murphy,W,27,0
+1914-11-14,Iowa,Western,Jesse Hawley,A,Iowa State,MVIAA,Homer Hubbard,W,26,6
+1914-11-21,Iowa,Western,Jesse Hawley,H,Nebraska,MVIAA,Jumbo Stiehm,L,7,16
+1914-10-10,Texas,Ind,Dave Allerdice,A,Baylor,Ind,Bubs Mosley,W,57,0
+1914-10-17,Texas,Ind,Dave Allerdice,H,Rice,Ind,Phillip Arbuckle,W,41,0
+1914-10-24,Texas,Ind,Dave Allerdice,N,Oklahoma,Ind,Bennie Owen,W,32,7
+1914-10-31,Texas,Ind,Dave Allerdice,H,Southwestern (TX),Ind,,W,70,0
+1914-11-07,Texas,Ind,Dave Allerdice,H,Haskell,Ind,,W,23,7
+1914-11-17,Texas,Ind,Dave Allerdice,H,Ole Miss,Ind,,W,66,7
+1914-10-03,Texas Christian,Ind,Daddy Boles,A,Southwestern (TX),Ind,,L,9,10
+1914-10-17,Texas Christian,Ind,Daddy Boles,A,Texas A&M,Ind,Charley Moran,L,0,40
+1914-10-24,Texas Christian,Ind,Daddy Boles,A,Rice,Ind,Phillip Arbuckle,T,0,0
+1914-11-07,Texas Christian,Ind,Daddy Boles,A,Baylor,Ind,Bubs Mosley,L,14,28
+1914-10-24,Brown,Ind,Edward Robinson,N,Cornell,Ind,,L,7,28
+1914-11-07,Brown,Ind,Edward Robinson,A,Yale,Ind,Frank Hinkey,L,6,14
+1914-11-14,Brown,Ind,Edward Robinson,A,Harvard,Ind,Percy Haughton,T,0,0
+1914-11-26,Brown,Ind,Edward Robinson,H,Carlisle,Ind,Pop Warner,W,20,14
+1914-10-10,Tennessee,Ind,Zora Clevenger,H,Clemson,Ind,Bob Williams,W,27,0
+1914-10-24,Tennessee,Ind,Zora Clevenger,H,Alabama,Ind,Tubby Graves,W,17,7
+1914-11-07,Tennessee,Ind,Zora Clevenger,A,Vanderbilt,Ind,Dan McGugin,W,16,14
+1914-11-14,Tennessee,Ind,Zora Clevenger,N,Sewanee,Ind,Harris Cope,W,14,7
+1914-10-03,Lehigh,Ind,Tom Keady,H,Carlisle,Ind,Pop Warner,W,21,6
+1914-10-10,Lehigh,Ind,Tom Keady,A,Yale,Ind,Frank Hinkey,L,3,20
+1914-11-07,Lehigh,Ind,Tom Keady,H,Penn State,Ind,Bill Hollenback,W,20,7
+1914-11-21,Lehigh,Ind,Tom Keady,A,Lafayette,Ind,Wilmer Crowell,W,17,7
+1914-10-17,Alabama,Ind,Tubby Graves,H,Georgia Tech,Ind,John Heisman,W,13,0
+1914-10-24,Alabama,Ind,Tubby Graves,A,Tennessee,Ind,Zora Clevenger,L,7,17
+1914-10-31,Alabama,Ind,Tubby Graves,H,Tulane,Ind,Edwin Sweetland,W,58,0
+1914-11-07,Alabama,Ind,Tubby Graves,H,Sewanee,Ind,Harris Cope,L,0,18
+1914-11-26,Alabama,Ind,Tubby Graves,H,Mississippi State,Ind,E.C. Hayes,L,0,9
+1914-12-02,Alabama,Ind,Tubby Graves,H,Carlisle,Ind,Pop Warner,L,3,20
+1914-10-17,Purdue,Western,Andy Smith,A,Wisconsin,Western,William Juneau,L,7,14
+1914-10-24,Purdue,Western,Andy Smith,A,Chicago,Western,Amos Alonzo Stagg,L,0,21
+1914-11-14,Purdue,Western,Andy Smith,A,Northwestern,Western,Fred Murphy,W,34,6
+1914-11-21,Purdue,Western,Andy Smith,H,Indiana,Western,Clarence Childs,W,23,13
+1914-10-17,Nebraska,MVIAA,Jumbo Stiehm,A,Kansas State,MVIAA,Guy Lowman,W,31,0
+1914-10-31,Nebraska,MVIAA,Jumbo Stiehm,H,Iowa State,MVIAA,Homer Hubbard,W,20,7
+1914-11-14,Nebraska,MVIAA,Jumbo Stiehm,H,Kansas,MVIAA,H.M. Wheaton,W,35,0
+1914-11-21,Nebraska,MVIAA,Jumbo Stiehm,A,Iowa,Western,Jesse Hawley,W,16,7
+1914-10-22,West Virginia,Ind,Sol Metzger,A,North Carolina State,Ind,Jack Hegarty,L,13,26
+1914-10-31,West Virginia,Ind,Sol Metzger,A,Washington & Jefferson,Ind,Bob Folwell,L,0,48
+1914-11-14,West Virginia,Ind,Sol Metzger,N,Washington & Lee,Ind,Jogger Elcock,L,6,8
+1914-11-26,West Virginia,Ind,Sol Metzger,N,West Virginia Wesleyan,Ind,,L,9,14
+1914-10-10,Harvard,Ind,Percy Haughton,H,Washington & Jefferson,Ind,Bob Folwell,W,10,9
+1914-10-24,Harvard,Ind,Percy Haughton,H,Penn State,Ind,Bill Hollenback,T,13,13
+1914-10-31,Harvard,Ind,Percy Haughton,H,Michigan,Ind,Fielding Yost,W,7,0
+1914-11-07,Harvard,Ind,Percy Haughton,H,Princeton,Ind,Wilder Penfield,W,20,0
+1914-11-14,Harvard,Ind,Percy Haughton,H,Brown,Ind,Edward Robinson,T,0,0
+1914-11-21,Harvard,Ind,Percy Haughton,A,Yale,Ind,Frank Hinkey,W,36,0
+1914-10-24,Oklahoma State,Ind,Paul Davis,H,Baylor,Ind,Bubs Mosley,W,60,0
+1914-10-31,Oklahoma State,Ind,Paul Davis,H,Arkansas,Ind,E.T. Pickering,W,46,0
+1914-11-06,Oklahoma State,Ind,Paul Davis,A,Oklahoma,Ind,Bennie Owen,L,6,23
+1914-11-14,Oklahoma State,Ind,Paul Davis,A,Rice,Ind,Phillip Arbuckle,T,13,13
+1914-11-21,Oklahoma State,Ind,Paul Davis,A,Texas A&M,Ind,Charley Moran,L,0,24
+1914-11-26,Oklahoma State,Ind,Paul Davis,H,Colorado State,RMC,Harry Hughes,W,7,0
+1914-10-10,Colorado,RMC,Fred Folsom,A,Colorado Mines,RMC,William Hanley,L,2,6
+1914-10-17,Colorado,RMC,Fred Folsom,A,Colorado State,RMC,Harry Hughes,W,33,6
+1914-10-31,Colorado,RMC,Fred Folsom,A,Colorado College,RMC,C.J. Rothget,W,10,7
+1914-11-07,Colorado,RMC,Fred Folsom,H,Utah,RMC,Nelson Norgren,W,33,0
+1914-11-26,Colorado,RMC,Fred Folsom,A,Denver,RMC,Harry Buckingham,W,6,0
+1914-10-17,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Fred Folsom,L,6,33
+1914-10-24,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,Ralph Thacker,W,48,10
+1914-10-31,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Harry Buckingham,W,19,6
+1914-11-07,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,C.J. Rothget,L,13,24
+1914-11-14,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,41,7
+1914-11-21,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,William Hanley,L,0,19
+1914-11-26,Colorado State,RMC,Harry Hughes,A,Oklahoma State,Ind,Paul Davis,L,0,7
+1914-10-10,Rice,Ind,Phillip Arbuckle,H,Southwestern (TX),Ind,,W,12,7
+1914-10-17,Rice,Ind,Phillip Arbuckle,A,Texas,Ind,Dave Allerdice,L,0,41
+1914-10-24,Rice,Ind,Phillip Arbuckle,H,Texas Christian,Ind,Daddy Boles,T,0,0
+1914-11-09,Rice,Ind,Phillip Arbuckle,H,Texas A&M,Ind,Charley Moran,L,7,32
+1914-11-14,Rice,Ind,Phillip Arbuckle,H,Oklahoma State,Ind,Paul Davis,T,13,13
+1914-11-20,Rice,Ind,Phillip Arbuckle,H,Baylor,Ind,Bubs Mosley,W,14,13
+1914-10-17,Texas A&M,Ind,Charley Moran,H,Texas Christian,Ind,Daddy Boles,W,40,0
+1914-10-23,Texas A&M,Ind,Charley Moran,H,Haskell,Ind,,L,0,10
+1914-10-31,Texas A&M,Ind,Charley Moran,H,LSU,Ind,E.T. McDonald,W,63,9
+1914-11-09,Texas A&M,Ind,Charley Moran,A,Rice,Ind,Phillip Arbuckle,W,32,7
+1914-11-21,Texas A&M,Ind,Charley Moran,H,Oklahoma State,Ind,Paul Davis,W,24,0
+1914-11-26,Texas A&M,Ind,Charley Moran,H,Ole Miss,Ind,,W,14,7
+1914-10-03,Davidson,Ind,,H,Clemson,Ind,Bob Williams,T,0,0
+1914-10-10,Davidson,Ind,,H,Newberry,Ind,Joe Parrish,W,20,6
+1914-10-17,Davidson,Ind,,H,Wofford,Ind,,W,81,5
+1914-10-24,Davidson,Ind,,N,Citadel,Ind,George Rogers,W,16,0
+1914-10-31,Davidson,Ind,,N,North Carolina,Ind,T.C. Trenchard,L,3,16
+1914-11-14,Davidson,Ind,,A,South Carolina,Ind,N.B. Edgerton,W,13,7
+1914-11-26,Davidson,Ind,,H,Wake Forest,Ind,W.C. Smith,W,7,6
+1914-10-24,Washington (MO),MVIAA,W.P. Edmunds,H,Drake,MVIAA,John Griffith,T,7,7
+1914-11-14,Washington (MO),MVIAA,W.P. Edmunds,A,Missouri,MVIAA,Henry Schulte,L,3,26
+1914-10-03,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,Clarence Childs,W,34,0
+1914-10-10,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Fred Murphy,W,28,0
+1914-10-17,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,Jesse Hawley,W,7,0
+1914-10-24,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Andy Smith,W,21,0
+1914-10-31,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,William Juneau,T,0,0
+1914-11-14,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,L,7,21
+1914-11-21,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,Henry Williams,L,7,13
+1914-10-03,Colgate,Ind,Laurence Bankart,A,Cornell,Ind,,W,7,3
+1914-10-17,Colgate,Ind,Laurence Bankart,A,Army,Ind,Charles Daly,L,7,21
+1914-10-31,Colgate,Ind,Laurence Bankart,A,Yale,Ind,Frank Hinkey,L,7,49
+1914-11-14,Colgate,Ind,Laurence Bankart,A,Syracuse,Ind,,T,0,0
+1914-10-10,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,Homer Hubbard,W,26,0
+1914-10-24,Minnesota,Western,Henry Williams,A,Iowa,Western,Jesse Hawley,W,7,0
+1914-10-31,Minnesota,Western,Henry Williams,H,Illinois,Western,Robert Zuppke,L,6,21
+1914-11-14,Minnesota,Western,Henry Williams,H,Wisconsin,Western,William Juneau,W,14,3
+1914-11-21,Minnesota,Western,Henry Williams,A,Chicago,Western,Amos Alonzo Stagg,W,13,7
+1914-10-17,Ole Miss,Ind,,A,LSU,Ind,E.T. McDonald,W,21,0
+1914-11-07,Ole Miss,Ind,,A,Tulane,Ind,Edwin Sweetland,W,21,6
+1914-11-14,Ole Miss,Ind,,A,Arkansas,Ind,E.T. Pickering,W,13,7
+1914-11-17,Ole Miss,Ind,,A,Texas,Ind,Dave Allerdice,L,7,66
+1914-11-20,Ole Miss,Ind,,A,Southwestern (TX),Ind,,L,0,18
+1914-11-26,Ole Miss,Ind,,A,Texas A&M,Ind,Charley Moran,L,7,14
+1914-10-10,Sewanee,Ind,Harris Cope,H,Georgia,Ind,W.A. Cunningham,L,6,7
+1914-10-24,Sewanee,Ind,Harris Cope,A,Florida,Ind,,W,26,0
+1914-10-31,Sewanee,Ind,Harris Cope,A,Georgia Tech,Ind,John Heisman,L,0,20
+1914-11-07,Sewanee,Ind,Harris Cope,A,Alabama,Ind,Tubby Graves,W,18,0
+1914-11-14,Sewanee,Ind,Harris Cope,N,Tennessee,Ind,Zora Clevenger,L,7,14
+1914-11-21,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,W,14,13
+1914-10-03,Navy,Ind,,H,Georgetown,Ind,,W,13,0
+1914-10-10,Navy,Ind,,H,Pitt,Ind,Joseph Duff,L,6,13
+1914-10-17,Navy,Ind,,A,Pennsylvania,Ind,George Brooke,L,6,13
+1914-10-31,Navy,Ind,,H,North Carolina State,Ind,Jack Hegarty,W,16,14
+1914-11-28,Navy,Ind,,N,Army,Ind,Charles Daly,L,0,20
+1914-10-10,Lafayette,Ind,Wilmer Crowell,A,Pennsylvania,Ind,George Brooke,T,0,0
+1914-10-17,Lafayette,Ind,Wilmer Crowell,A,Princeton,Ind,Wilder Penfield,L,0,16
+1914-10-31,Lafayette,Ind,Wilmer Crowell,H,Penn State,Ind,Bill Hollenback,L,0,17
+1914-11-21,Lafayette,Ind,Wilmer Crowell,H,Lehigh,Ind,Tom Keady,L,7,17
+1914-10-31,Tulane,Ind,Edwin Sweetland,A,Alabama,Ind,Tubby Graves,L,0,58
+1914-11-07,Tulane,Ind,Edwin Sweetland,H,Ole Miss,Ind,,L,6,21
+1914-11-14,Tulane,Ind,Edwin Sweetland,A,Mississippi State,Ind,E.C. Hayes,L,0,61
+1914-11-26,Tulane,Ind,Edwin Sweetland,H,LSU,Ind,E.T. McDonald,T,0,0
+1914-09-30,Cornell,Ind,,H,Pitt,Ind,Joseph Duff,L,3,9
+1914-10-03,Cornell,Ind,,H,Colgate,Ind,Laurence Bankart,L,3,7
+1914-10-10,Cornell,Ind,,H,Carlisle,Ind,Pop Warner,W,21,0
+1914-10-17,Cornell,Ind,,H,Bucknell,Ind,George Cockill,W,48,0
+1914-10-24,Cornell,Ind,,N,Brown,Ind,Edward Robinson,W,28,7
+1914-11-14,Cornell,Ind,,A,Michigan,Ind,Fielding Yost,W,28,13
+1914-11-26,Cornell,Ind,,A,Pennsylvania,Ind,George Brooke,W,24,12
+1914-10-17,Ohio State,Western,John Wilce,A,Illinois,Western,Robert Zuppke,L,0,37
+1914-10-24,Ohio State,Western,John Wilce,H,Wisconsin,Western,William Juneau,L,6,7
+1914-11-07,Ohio State,Western,John Wilce,A,Indiana,Western,Clarence Childs,W,13,3
+1914-11-21,Ohio State,Western,John Wilce,H,Northwestern,Western,Fred Murphy,W,27,0
+1914-10-17,Drake,MVIAA,John Griffith,H,Kansas,MVIAA,H.M. Wheaton,L,7,32
+1914-10-24,Drake,MVIAA,John Griffith,A,Washington (MO),MVIAA,W.P. Edmunds,T,7,7
+1914-11-07,Drake,MVIAA,John Griffith,H,Missouri,MVIAA,Henry Schulte,L,7,33
+1914-11-21,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,Homer Hubbard,L,0,52

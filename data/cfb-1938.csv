@@ -1,0 +1,921 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1938-09-24,North Carolina,Southern,Raymond Wolf,H,Wake Forest,Southern,D.C. Walker,W,14,6
+1938-10-01,North Carolina,Southern,Raymond Wolf,A,North Carolina State,Southern,,W,21,0
+1938-10-08,North Carolina,Southern,Raymond Wolf,H,Tulane,SEC,Red Dawson,L,14,17
+1938-10-15,North Carolina,Southern,Raymond Wolf,A,New York University,Ind,Mal Stevens,W,7,0
+1938-10-22,North Carolina,Southern,Raymond Wolf,A,Davidson,Southern,Gene McEver,W,34,0
+1938-10-29,North Carolina,Southern,Raymond Wolf,H,Duke,Southern,Wallace Wade,L,0,14
+1938-11-05,North Carolina,Southern,Raymond Wolf,H,Virginia Tech,Southern,Henry Redd,W,7,0
+1938-11-12,North Carolina,Southern,Raymond Wolf,N,Fordham,Ind,Jimmy Crowley,T,0,0
+1938-11-24,North Carolina,Southern,Raymond Wolf,A,Virginia,Ind,Frank Murray,W,20,0
+1938-10-01,Indiana,Western,Bo McMillin,A,Ohio State,Western,Francis Schmidt,L,0,6
+1938-10-08,Indiana,Western,Bo McMillin,A,Illinois,Western,Robert Zuppke,L,2,12
+1938-10-15,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Biff Jones,T,0,0
+1938-10-22,Indiana,Western,Bo McMillin,H,Kansas State,Big 6,Wesley Fry,L,6,13
+1938-10-29,Indiana,Western,Bo McMillin,A,Wisconsin,Western,Harry Stuhldreher,L,0,6
+1938-11-05,Indiana,Western,Bo McMillin,A,Boston College,Ind,Gilmour Dobie,L,0,14
+1938-11-12,Indiana,Western,Bo McMillin,H,Iowa,Western,Irl Tubbs,W,7,3
+1938-11-19,Indiana,Western,Bo McMillin,A,Purdue,Western,Mal Elward,L,6,13
+1938-09-23,Iowa State,Big 6,Jim Yeager,A,Denver,MSAC,William Saunders,W,14,7
+1938-10-08,Iowa State,Big 6,Jim Yeager,A,Nebraska,Big 6,Biff Jones,W,8,7
+1938-10-15,Iowa State,Big 6,Jim Yeager,A,Missouri,Big 6,Don Faurot,W,16,13
+1938-10-22,Iowa State,Big 6,Jim Yeager,H,Kansas,Big 6,Adrian Lindsey,W,21,7
+1938-10-29,Iowa State,Big 6,Jim Yeager,A,Marquette,Ind,Paddy Driscoll,W,7,0
+1938-11-05,Iowa State,Big 6,Jim Yeager,H,Drake,MVC,Vee Green,W,14,0
+1938-11-12,Iowa State,Big 6,Jim Yeager,A,Kansas State,Big 6,Wesley Fry,T,13,13
+1938-11-19,Iowa State,Big 6,Jim Yeager,H,Oklahoma,Big 6,Tom Stidham,L,0,10
+1938-10-15,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Mal Elward,T,6,6
+1938-10-22,Fordham,Ind,Jimmy Crowley,H,Oregon,PCC,Tex Oliver,W,26,0
+1938-10-29,Fordham,Ind,Jimmy Crowley,A,Pitt,Ind,Jock Sutherland,L,13,24
+1938-11-05,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Slip Madigan,W,3,0
+1938-11-12,Fordham,Ind,Jimmy Crowley,N,North Carolina,Southern,Raymond Wolf,T,0,0
+1938-11-19,Fordham,Ind,Jimmy Crowley,H,South Carolina,Southern,Rex Enright,W,13,0
+1938-11-26,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,W,25,0
+1938-09-30,Arizona State,BIAA,Dixie Howell,A,New Mexico,BIAA,Ted Shipkey,L,0,21
+1938-10-15,Arizona State,BIAA,Dixie Howell,A,Northern Arizona,BIAA,Garrett Arbelbide,L,13,19
+1938-10-22,Arizona State,BIAA,Dixie Howell,H,New Mexico State,BIAA,Gerald Hines,L,12,14
+1938-11-19,Arizona State,BIAA,Dixie Howell,A,UTEP,BIAA,Mack Saxon,L,6,14
+1938-09-23,Furman,Southern,,A,Bucknell,Ind,Al Humphreys,L,6,28
+1938-09-30,Furman,Southern,,A,George Washington,Ind,,L,0,7
+1938-10-09,Furman,Southern,,A,Georgia,SEC,Joel Hunt,L,7,38
+1938-10-15,Furman,Southern,,H,Citadel,Southern,Tatum Gressette,L,6,9
+1938-10-22,Furman,Southern,,A,North Carolina State,Southern,,T,7,7
+1938-10-29,Furman,Southern,,H,Davidson,Southern,Gene McEver,L,12,13
+1938-11-12,Furman,Southern,,H,South Carolina,Southern,Rex Enright,L,6,27
+1938-11-24,Furman,Southern,,A,Clemson,Southern,Jess Neely,L,7,10
+1938-10-15,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,T,7,7
+1938-10-22,Utah,MSAC,Ike Armstrong,A,Utah State,MSAC,E. Lowell Romney,W,33,0
+1938-10-29,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,William Saunders,W,21,0
+1938-11-05,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Bunny Oakes,T,0,0
+1938-11-12,Utah,MSAC,Ike Armstrong,H,Colorado State,MSAC,Harry Hughes,W,13,0
+1938-11-19,Utah,MSAC,Ike Armstrong,A,Wyoming,MSAC,Dutch Witte,W,39,0
+1938-11-24,Utah,MSAC,Ike Armstrong,H,Idaho,PCC,Ted Bank,L,0,16
+1939-01-02,Utah,MSAC,Ike Armstrong,N,New Mexico,BIAA,Ted Shipkey,W,26,0
+1938-10-23,Villanova,Ind,,H,Detroit Mercy,Ind,Gus Dorais,W,13,6
+1938-10-28,Villanova,Ind,,A,South Carolina,Southern,Rex Enright,T,6,6
+1938-11-05,Villanova,Ind,,H,Auburn,SEC,Jack Meagher,W,25,12
+1938-11-12,Villanova,Ind,,A,Temple,Ind,Pop Warner,W,20,7
+1938-11-24,Villanova,Ind,,A,Manhattan,Ind,Herb Kopf,W,20,0
+1938-09-23,Washington & Lee,Southern,Tex Tilson,H,Hampden-Sydney,Ind,Charles Bernier,W,7,6
+1938-10-01,Washington & Lee,Southern,Tex Tilson,A,Virginia,Ind,Frank Murray,L,0,13
+1938-10-08,Washington & Lee,Southern,Tex Tilson,N,West Virginia,Ind,Marshall Glenn,T,6,6
+1938-10-15,Washington & Lee,Southern,Tex Tilson,A,Kentucky,SEC,A.D. Kirwan,W,8,0
+1938-10-22,Washington & Lee,Southern,Tex Tilson,H,Virginia Tech,Southern,Henry Redd,W,6,0
+1938-10-29,Washington & Lee,Southern,Tex Tilson,A,Richmond,Southern,Glenn Thistlethwaite,L,0,6
+1938-11-12,Washington & Lee,Southern,Tex Tilson,H,William & Mary,Southern,,W,27,0
+1938-11-24,Washington & Lee,Southern,Tex Tilson,A,Maryland,Southern,Frank Dobson,L,13,19
+1938-10-08,Syracuse,Ind,Ossie Solem,H,Maryland,Southern,Frank Dobson,W,53,0
+1938-10-15,Syracuse,Ind,Ossie Solem,H,Cornell,Ind,Carl Snavely,W,19,17
+1938-10-22,Syracuse,Ind,Ossie Solem,A,Michigan State,Ind,Charlie Bachman,L,12,19
+1938-10-29,Syracuse,Ind,Ossie Solem,A,Penn State,Ind,Bob Higgins,L,6,33
+1938-11-05,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,W,7,0
+1938-11-12,Syracuse,Ind,Ossie Solem,H,Duke,Southern,Wallace Wade,L,0,21
+1938-11-19,Syracuse,Ind,Ossie Solem,A,Columbia,Ind,Lou Little,W,13,12
+1938-10-01,Arizona,BIAA,Orian Landreth,A,SMU,SWC,Madison Bell,L,7,29
+1938-10-08,Arizona,BIAA,Orian Landreth,H,New Mexico State,BIAA,Gerald Hines,L,6,7
+1938-10-15,Arizona,BIAA,Orian Landreth,H,Santa Clara,Ind,Buck Shaw,L,0,27
+1938-10-22,Arizona,BIAA,Orian Landreth,A,Loyola Marymount,Ind,Tom Lieb,W,14,12
+1938-10-29,Arizona,BIAA,Orian Landreth,H,New Mexico,BIAA,Ted Shipkey,L,7,20
+1938-11-05,Arizona,BIAA,Orian Landreth,A,Centenary (LA),Ind,Curtis Player,W,7,6
+1938-11-12,Arizona,BIAA,Orian Landreth,H,UTEP,BIAA,Mack Saxon,L,14,26
+1938-11-19,Arizona,BIAA,Orian Landreth,H,Marquette,Ind,Paddy Driscoll,W,20,12
+1938-11-26,Arizona,BIAA,Orian Landreth,H,Montana,PCC,Doug Fessenden,L,0,7
+1938-10-01,Georgetown,Ind,Jack Hagerty,A,Hampden-Sydney,Ind,Charles Bernier,W,51,0
+1938-10-22,Georgetown,Ind,Jack Hagerty,A,Manhattan,Ind,Herb Kopf,W,14,13
+1938-10-29,Georgetown,Ind,Jack Hagerty,H,Temple,Ind,Pop Warner,W,13,0
+1938-11-05,Georgetown,Ind,Jack Hagerty,H,Bucknell,Ind,Al Humphreys,W,13,0
+1938-11-12,Georgetown,Ind,Jack Hagerty,A,West Virginia,Ind,Marshall Glenn,W,14,0
+1938-11-19,Georgetown,Ind,Jack Hagerty,A,Maryland,Southern,Frank Dobson,W,14,7
+1938-10-01,Montana,PCC,Doug Fessenden,A,San Francisco,Ind,George Malley,T,0,0
+1938-10-15,Montana,PCC,Doug Fessenden,H,Texas Tech,BIAA,Pete Cawthon,L,13,19
+1938-10-29,Montana,PCC,Doug Fessenden,A,Idaho,PCC,Ted Bank,L,6,19
+1938-11-05,Montana,PCC,Doug Fessenden,A,Gonzaga,Ind,Mike Pecarovich,W,9,0
+1938-11-26,Montana,PCC,Doug Fessenden,A,Arizona,BIAA,Orian Landreth,W,7,0
+1938-10-01,Penn State,Ind,Bob Higgins,H,Maryland,Southern,Frank Dobson,W,33,0
+1938-10-08,Penn State,Ind,Bob Higgins,H,Bucknell,Ind,Al Humphreys,L,0,14
+1938-10-22,Penn State,Ind,Bob Higgins,A,Cornell,Ind,Carl Snavely,L,6,21
+1938-10-29,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Ossie Solem,W,33,6
+1938-11-12,Penn State,Ind,Bob Higgins,A,Pennsylvania,Ind,George Munger,T,7,7
+1938-11-19,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Jock Sutherland,L,0,26
+1938-10-08,Princeton,Ind,Tad Wieman,H,Dartmouth,Ind,Red Blaik,L,0,22
+1938-10-15,Princeton,Ind,Tad Wieman,H,Pennsylvania,Ind,George Munger,W,13,0
+1938-10-22,Princeton,Ind,Tad Wieman,A,Navy,Ind,Hank Hardwick,T,13,13
+1938-10-29,Princeton,Ind,Tad Wieman,A,Harvard,Ind,Dick Harlow,L,7,26
+1938-11-12,Princeton,Ind,Tad Wieman,H,Yale,Ind,Ducky Pond,W,20,7
+1938-11-19,Princeton,Ind,Tad Wieman,H,Army,Ind,William Wood,L,7,19
+1938-09-24,Vanderbilt,SEC,Ray Morrison,A,Washington (MO),MVC,Jimmy Conzelman,W,20,0
+1938-10-08,Vanderbilt,SEC,Ray Morrison,A,Kentucky,SEC,A.D. Kirwan,W,14,7
+1938-10-15,Vanderbilt,SEC,Ray Morrison,H,Ole Miss,SEC,Harry Mehre,W,13,7
+1938-10-22,Vanderbilt,SEC,Ray Morrison,A,LSU,SEC,Bernie Moore,L,0,7
+1938-10-29,Vanderbilt,SEC,Ray Morrison,H,Georgia Tech,SEC,William Alexander,W,13,7
+1938-11-05,Vanderbilt,SEC,Ray Morrison,H,Sewanee,SEC,Heck Clark,W,14,0
+1938-11-12,Vanderbilt,SEC,Ray Morrison,H,Tennessee,SEC,Bob Neyland,L,0,14
+1938-11-24,Vanderbilt,SEC,Ray Morrison,A,Alabama,SEC,Frank Thomas,L,0,7
+1938-10-08,Kentucky,SEC,A.D. Kirwan,H,Vanderbilt,SEC,Ray Morrison,L,7,14
+1938-10-15,Kentucky,SEC,A.D. Kirwan,H,Washington & Lee,Southern,Tex Tilson,L,0,8
+1938-10-29,Kentucky,SEC,A.D. Kirwan,H,Alabama,SEC,Frank Thomas,L,6,26
+1938-11-05,Kentucky,SEC,A.D. Kirwan,A,Georgia Tech,SEC,William Alexander,L,18,19
+1938-11-12,Kentucky,SEC,A.D. Kirwan,H,Clemson,Southern,Jess Neely,L,0,14
+1938-11-24,Kentucky,SEC,A.D. Kirwan,A,Tennessee,SEC,Bob Neyland,L,0,46
+1938-09-24,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,Slip Madigan,W,12,7
+1938-10-01,California,PCC,Stub Allison,A,Washington State,PCC,O.E. Hollingbery,W,27,3
+1938-10-15,California,PCC,Stub Allison,H,UCLA,PCC,William Spaulding,W,20,7
+1938-10-22,California,PCC,Stub Allison,A,Washington,PCC,James Phelan,W,14,7
+1938-10-29,California,PCC,Stub Allison,H,Oregon State,PCC,Lon Stiner,W,13,7
+1938-11-05,California,PCC,Stub Allison,A,USC,PCC,Howard Jones,L,7,13
+1938-11-12,California,PCC,Stub Allison,H,Oregon,PCC,Tex Oliver,W,20,0
+1938-11-19,California,PCC,Stub Allison,H,Stanford,PCC,Tiny Thornhill,W,6,0
+1938-12-26,California,PCC,Stub Allison,H,Georgia Tech,SEC,William Alexander,W,13,0
+1938-10-01,Florida,SEC,Josh Cody,A,Mississippi State,SEC,Spike Nelson,L,0,22
+1938-10-08,Florida,SEC,Josh Cody,H,Sewanee,SEC,Heck Clark,W,10,6
+1938-10-15,Florida,SEC,Josh Cody,H,Miami (FL),Ind,Jack Harding,L,7,19
+1938-10-29,Florida,SEC,Josh Cody,A,Boston College,Ind,Gilmour Dobie,L,0,33
+1938-11-05,Florida,SEC,Josh Cody,N,Georgia,SEC,Joel Hunt,L,6,19
+1938-11-12,Florida,SEC,Josh Cody,H,Maryland,Southern,Frank Dobson,W,21,7
+1938-11-19,Florida,SEC,Josh Cody,A,Georgia Tech,SEC,William Alexander,T,0,0
+1938-11-26,Florida,SEC,Josh Cody,H,Auburn,SEC,Jack Meagher,W,9,7
+1938-12-03,Florida,SEC,Josh Cody,H,Temple,Ind,Pop Warner,L,12,20
+1938-10-02,Gonzaga,Ind,Mike Pecarovich,A,Saint Mary's (CA),Ind,Slip Madigan,L,0,20
+1938-10-15,Gonzaga,Ind,Mike Pecarovich,H,Idaho,PCC,Ted Bank,L,12,26
+1938-10-29,Gonzaga,Ind,Mike Pecarovich,H,Washington State,PCC,O.E. Hollingbery,L,13,15
+1938-11-05,Gonzaga,Ind,Mike Pecarovich,H,Montana,PCC,Doug Fessenden,L,0,9
+1938-11-11,Gonzaga,Ind,Mike Pecarovich,A,Texas Tech,BIAA,Pete Cawthon,L,0,7
+1938-11-19,Gonzaga,Ind,Mike Pecarovich,A,San Francisco,Ind,George Malley,L,0,8
+1938-11-27,Gonzaga,Ind,Mike Pecarovich,H,Loyola Marymount,Ind,Tom Lieb,L,19,20
+1938-10-01,Stanford,PCC,Tiny Thornhill,H,Santa Clara,Ind,Buck Shaw,L,0,22
+1938-10-08,Stanford,PCC,Tiny Thornhill,H,Washington State,PCC,O.E. Hollingbery,W,8,0
+1938-10-15,Stanford,PCC,Tiny Thornhill,H,Oregon,PCC,Tex Oliver,W,27,16
+1938-10-22,Stanford,PCC,Tiny Thornhill,H,USC,PCC,Howard Jones,L,2,13
+1938-10-29,Stanford,PCC,Tiny Thornhill,A,UCLA,PCC,William Spaulding,L,0,6
+1938-11-05,Stanford,PCC,Tiny Thornhill,H,Washington,PCC,James Phelan,L,7,10
+1938-11-12,Stanford,PCC,Tiny Thornhill,A,Oregon State,PCC,Lon Stiner,L,0,6
+1938-11-19,Stanford,PCC,Tiny Thornhill,A,California,PCC,Stub Allison,L,0,6
+1938-11-26,Stanford,PCC,Tiny Thornhill,H,Dartmouth,Ind,Red Blaik,W,23,13
+1938-10-08,Creighton,MVC,Marchy Schwartz,H,Oklahoma State,MVC,Ted Cox,W,16,7
+1938-10-15,Creighton,MVC,Marchy Schwartz,A,Drake,MVC,Vee Green,T,7,7
+1938-10-22,Creighton,MVC,Marchy Schwartz,H,West Virginia,Ind,Marshall Glenn,L,13,20
+1938-09-24,Washington State,PCC,O.E. Hollingbery,H,Oregon,PCC,Tex Oliver,L,2,10
+1938-10-01,Washington State,PCC,O.E. Hollingbery,H,California,PCC,Stub Allison,L,3,27
+1938-10-08,Washington State,PCC,O.E. Hollingbery,A,Stanford,PCC,Tiny Thornhill,L,0,8
+1938-10-15,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,L,6,19
+1938-10-22,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Lon Stiner,L,6,7
+1938-10-29,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Mike Pecarovich,W,15,13
+1938-11-05,Washington State,PCC,O.E. Hollingbery,H,UCLA,PCC,William Spaulding,L,0,21
+1938-11-12,Washington State,PCC,O.E. Hollingbery,A,Idaho,PCC,Ted Bank,W,12,0
+1938-11-26,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,L,0,26
+1938-12-03,Washington State,PCC,O.E. Hollingbery,A,Oklahoma,Big 6,Tom Stidham,L,0,28
+1938-10-08,Illinois,Western,Robert Zuppke,H,Indiana,Western,Bo McMillin,W,12,2
+1938-10-15,Illinois,Western,Robert Zuppke,A,Notre Dame,Ind,Elmer Layden,L,6,14
+1938-10-22,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Pappy Waldorf,L,0,13
+1938-10-29,Illinois,Western,Robert Zuppke,A,Michigan,Western,Fritz Crisler,L,0,14
+1938-11-12,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Francis Schmidt,L,14,32
+1938-11-19,Illinois,Western,Robert Zuppke,A,Chicago,Western,Clark Shaughnessy,W,34,0
+1938-10-01,Baylor,SWC,Morley Jennings,H,Oklahoma State,MVC,Ted Cox,W,20,6
+1938-10-08,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Fred Thomsen,W,9,6
+1938-10-22,Baylor,SWC,Morley Jennings,H,Texas A&M,SWC,Homer Norton,T,6,6
+1938-10-29,Baylor,SWC,Morley Jennings,A,Texas Christian,SWC,Dutch Meyer,L,7,39
+1938-11-05,Baylor,SWC,Morley Jennings,A,Texas,SWC,Dana Bible,W,14,3
+1938-11-11,Baylor,SWC,Morley Jennings,A,Loyola Marymount,Ind,Tom Lieb,W,35,2
+1938-11-19,Baylor,SWC,Morley Jennings,H,SMU,SWC,Madison Bell,L,6,21
+1938-11-26,Baylor,SWC,Morley Jennings,A,Rice,SWC,Jimmy Kitts,W,21,6
+1938-12-03,Baylor,SWC,Morley Jennings,H,Centenary (LA),Ind,Curtis Player,W,14,0
+1938-10-08,Manhattan,Ind,Herb Kopf,A,Holy Cross,Ind,Edward Anderson,L,6,19
+1938-10-22,Manhattan,Ind,Herb Kopf,H,Georgetown,Ind,Jack Hagerty,L,13,14
+1938-11-05,Manhattan,Ind,Herb Kopf,H,North Carolina State,Southern,,W,3,0
+1938-11-19,Manhattan,Ind,Herb Kopf,H,West Virginia,Ind,Marshall Glenn,W,13,0
+1938-11-24,Manhattan,Ind,Herb Kopf,H,Villanova,Ind,,L,0,20
+1938-10-01,SMU,SWC,Madison Bell,H,Arizona,BIAA,Orian Landreth,W,29,7
+1938-10-07,SMU,SWC,Madison Bell,A,Marquette,Ind,Paddy Driscoll,L,0,7
+1938-10-22,SMU,SWC,Madison Bell,A,Pitt,Ind,Jock Sutherland,L,7,34
+1938-10-30,SMU,SWC,Madison Bell,H,Texas,SWC,Dana Bible,W,7,6
+1938-11-05,SMU,SWC,Madison Bell,H,Texas A&M,SWC,Homer Norton,W,10,7
+1938-11-12,SMU,SWC,Madison Bell,H,Arkansas,SWC,Fred Thomsen,W,19,6
+1938-11-19,SMU,SWC,Madison Bell,A,Baylor,SWC,Morley Jennings,W,21,6
+1938-11-26,SMU,SWC,Madison Bell,H,Texas Christian,SWC,Dutch Meyer,L,7,20
+1938-12-03,SMU,SWC,Madison Bell,A,Rice,SWC,Jimmy Kitts,L,14,25
+1938-09-27,Georgia,SEC,Joel Hunt,H,Citadel,Southern,Tatum Gressette,W,20,12
+1938-10-01,Georgia,SEC,Joel Hunt,A,South Carolina,Southern,Rex Enright,W,7,6
+1938-10-09,Georgia,SEC,Joel Hunt,H,Furman,Southern,,W,38,7
+1938-10-26,Georgia,SEC,Joel Hunt,A,Holy Cross,Ind,Edward Anderson,L,6,29
+1938-11-05,Georgia,SEC,Joel Hunt,N,Florida,SEC,Josh Cody,W,19,6
+1938-11-12,Georgia,SEC,Joel Hunt,A,Tulane,SEC,Red Dawson,L,6,28
+1938-11-19,Georgia,SEC,Joel Hunt,N,Auburn,SEC,Jack Meagher,L,14,23
+1938-11-27,Georgia,SEC,Joel Hunt,H,Georgia Tech,SEC,William Alexander,T,0,0
+1938-12-02,Georgia,SEC,Joel Hunt,A,Miami (FL),Ind,Jack Harding,L,7,13
+1938-09-24,Maryland,Southern,Frank Dobson,H,Richmond,Southern,Glenn Thistlethwaite,L,6,19
+1938-10-01,Maryland,Southern,Frank Dobson,A,Penn State,Ind,Bob Higgins,L,0,33
+1938-10-08,Maryland,Southern,Frank Dobson,A,Syracuse,Ind,Ossie Solem,L,0,53
+1938-10-22,Maryland,Southern,Frank Dobson,H,Virginia,Ind,Frank Murray,L,19,27
+1938-10-29,Maryland,Southern,Frank Dobson,H,Virginia Military Institute,Southern,,L,14,47
+1938-11-12,Maryland,Southern,Frank Dobson,A,Florida,SEC,Josh Cody,L,7,21
+1938-11-19,Maryland,Southern,Frank Dobson,H,Georgetown,Ind,Jack Hagerty,L,7,14
+1938-11-24,Maryland,Southern,Frank Dobson,H,Washington & Lee,Southern,Tex Tilson,W,19,13
+1938-09-24,Virginia,Ind,Frank Murray,H,Virginia Military Institute,Southern,,T,12,12
+1938-10-01,Virginia,Ind,Frank Murray,H,Washington & Lee,Southern,Tex Tilson,W,13,0
+1938-10-08,Virginia,Ind,Frank Murray,A,Navy,Ind,Hank Hardwick,L,0,33
+1938-10-15,Virginia,Ind,Frank Murray,A,Virginia Tech,Southern,Henry Redd,W,14,6
+1938-10-22,Virginia,Ind,Frank Murray,A,Maryland,Southern,Frank Dobson,W,27,19
+1938-10-29,Virginia,Ind,Frank Murray,H,William & Mary,Southern,,W,34,0
+1938-11-05,Virginia,Ind,Frank Murray,A,Columbia,Ind,Lou Little,L,0,39
+1938-11-12,Virginia,Ind,Frank Murray,A,Harvard,Ind,Dick Harlow,L,13,40
+1938-11-24,Virginia,Ind,Frank Murray,H,North Carolina,Southern,Raymond Wolf,L,0,20
+1938-09-24,Idaho,PCC,Ted Bank,A,Oregon State,PCC,Lon Stiner,W,13,0
+1938-10-01,Idaho,PCC,Ted Bank,A,Washington,PCC,James Phelan,T,12,12
+1938-10-15,Idaho,PCC,Ted Bank,A,Gonzaga,Ind,Mike Pecarovich,W,26,12
+1938-10-22,Idaho,PCC,Ted Bank,A,UCLA,PCC,William Spaulding,L,0,33
+1938-10-29,Idaho,PCC,Ted Bank,H,Montana,PCC,Doug Fessenden,W,19,6
+1938-11-05,Idaho,PCC,Ted Bank,A,Oregon,PCC,Tex Oliver,L,6,19
+1938-11-12,Idaho,PCC,Ted Bank,H,Washington State,PCC,O.E. Hollingbery,L,0,12
+1938-11-19,Idaho,PCC,Ted Bank,H,Utah State,MSAC,E. Lowell Romney,W,14,0
+1938-11-24,Idaho,PCC,Ted Bank,A,Utah,MSAC,Ike Armstrong,W,16,0
+1938-09-24,Northern Arizona,BIAA,Garrett Arbelbide,A,Brigham Young,MSAC,Edwin Kimball,L,0,19
+1938-10-15,Northern Arizona,BIAA,Garrett Arbelbide,H,Arizona State,BIAA,Dixie Howell,W,19,13
+1938-10-22,Northern Arizona,BIAA,Garrett Arbelbide,H,New Mexico,BIAA,Ted Shipkey,L,0,20
+1938-10-28,Northern Arizona,BIAA,Garrett Arbelbide,A,New Mexico State,BIAA,Gerald Hines,L,0,34
+1938-09-17,Citadel,Southern,Tatum Gressette,H,Davidson,Southern,Gene McEver,L,6,12
+1938-09-27,Citadel,Southern,Tatum Gressette,A,Georgia,SEC,Joel Hunt,L,12,20
+1938-09-30,Citadel,Southern,Tatum Gressette,N,Wake Forest,Southern,D.C. Walker,L,0,31
+1938-10-15,Citadel,Southern,Tatum Gressette,A,Furman,Southern,,W,9,6
+1938-10-22,Citadel,Southern,Tatum Gressette,A,Tennessee,SEC,Bob Neyland,L,0,44
+1938-11-05,Citadel,Southern,Tatum Gressette,H,Richmond,Southern,Glenn Thistlethwaite,W,6,0
+1938-12-03,Citadel,Southern,Tatum Gressette,N,North Carolina State,Southern,,L,6,14
+1938-10-01,Oklahoma,Big 6,Tom Stidham,A,Rice,SWC,Jimmy Kitts,W,7,6
+1938-10-08,Oklahoma,Big 6,Tom Stidham,N,Texas,SWC,Dana Bible,W,13,0
+1938-10-15,Oklahoma,Big 6,Tom Stidham,A,Kansas,Big 6,Adrian Lindsey,W,19,0
+1938-10-22,Oklahoma,Big 6,Tom Stidham,H,Nebraska,Big 6,Biff Jones,W,14,0
+1938-10-29,Oklahoma,Big 6,Tom Stidham,H,Tulsa,MVC,Vic Hurt,W,28,6
+1938-11-05,Oklahoma,Big 6,Tom Stidham,H,Kansas State,Big 6,Wesley Fry,W,26,0
+1938-11-12,Oklahoma,Big 6,Tom Stidham,H,Missouri,Big 6,Don Faurot,W,21,0
+1938-11-19,Oklahoma,Big 6,Tom Stidham,A,Iowa State,Big 6,Jim Yeager,W,10,0
+1938-11-24,Oklahoma,Big 6,Tom Stidham,A,Oklahoma State,MVC,Ted Cox,W,19,0
+1938-12-03,Oklahoma,Big 6,Tom Stidham,H,Washington State,PCC,O.E. Hollingbery,W,28,0
+1939-01-02,Oklahoma,Big 6,Tom Stidham,N,Tennessee,SEC,Bob Neyland,L,0,17
+1938-09-24,Virginia Tech,Southern,Henry Redd,A,Duke,Southern,Wallace Wade,L,0,18
+1938-10-01,Virginia Tech,Southern,Henry Redd,A,Army,Ind,William Wood,L,0,39
+1938-10-08,Virginia Tech,Southern,Henry Redd,N,William & Mary,Southern,,W,27,0
+1938-10-15,Virginia Tech,Southern,Henry Redd,H,Virginia,Ind,Frank Murray,L,6,14
+1938-10-22,Virginia Tech,Southern,Henry Redd,A,Washington & Lee,Southern,Tex Tilson,L,0,6
+1938-10-29,Virginia Tech,Southern,Henry Redd,H,North Carolina State,Southern,,W,7,0
+1938-11-05,Virginia Tech,Southern,Henry Redd,A,North Carolina,Southern,Raymond Wolf,L,0,7
+1938-11-11,Virginia Tech,Southern,Henry Redd,A,Richmond,Southern,Glenn Thistlethwaite,T,0,0
+1938-11-24,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,,T,2,2
+1938-09-24,Arkansas,SWC,Fred Thomsen,H,Oklahoma State,MVC,Ted Cox,W,27,7
+1938-10-01,Arkansas,SWC,Fred Thomsen,A,Texas Christian,SWC,Dutch Meyer,L,14,21
+1938-10-08,Arkansas,SWC,Fred Thomsen,H,Baylor,SWC,Morley Jennings,L,6,9
+1938-10-15,Arkansas,SWC,Fred Thomsen,H,Texas,SWC,Dana Bible,W,42,6
+1938-10-22,Arkansas,SWC,Fred Thomsen,A,Santa Clara,Ind,Buck Shaw,L,6,21
+1938-10-29,Arkansas,SWC,Fred Thomsen,A,Texas A&M,SWC,Homer Norton,L,7,13
+1938-11-05,Arkansas,SWC,Fred Thomsen,H,Rice,SWC,Jimmy Kitts,L,0,3
+1938-11-12,Arkansas,SWC,Fred Thomsen,A,SMU,SWC,Madison Bell,L,6,19
+1938-11-16,Arkansas,SWC,Fred Thomsen,N,Ole Miss,SEC,Harry Mehre,L,14,20
+1938-11-24,Arkansas,SWC,Fred Thomsen,A,Tulsa,MVC,Vic Hurt,T,6,6
+1938-09-24,Clemson,Southern,Jess Neely,A,Tulane,SEC,Red Dawson,W,13,10
+1938-10-01,Clemson,Southern,Jess Neely,A,Tennessee,SEC,Bob Neyland,L,7,20
+1938-10-08,Clemson,Southern,Jess Neely,H,Virginia Military Institute,Southern,,T,7,7
+1938-10-20,Clemson,Southern,Jess Neely,A,South Carolina,Southern,Rex Enright,W,34,12
+1938-10-28,Clemson,Southern,Jess Neely,A,Wake Forest,Southern,D.C. Walker,W,7,0
+1938-11-05,Clemson,Southern,Jess Neely,H,George Washington,Ind,,W,27,0
+1938-11-12,Clemson,Southern,Jess Neely,A,Kentucky,SEC,A.D. Kirwan,W,14,0
+1938-11-24,Clemson,Southern,Jess Neely,H,Furman,Southern,,W,10,7
+1938-10-01,South Carolina,Southern,Rex Enright,H,Georgia,SEC,Joel Hunt,L,6,7
+1938-10-08,South Carolina,Southern,Rex Enright,H,Wake Forest,Southern,D.C. Walker,L,19,20
+1938-10-14,South Carolina,Southern,Rex Enright,H,Davidson,Southern,Gene McEver,W,25,0
+1938-10-20,South Carolina,Southern,Rex Enright,H,Clemson,Southern,Jess Neely,L,12,34
+1938-10-28,South Carolina,Southern,Rex Enright,H,Villanova,Ind,,T,6,6
+1938-11-05,South Carolina,Southern,Rex Enright,H,Duquesne,Ind,Clipper Smith,W,7,0
+1938-11-12,South Carolina,Southern,Rex Enright,A,Furman,Southern,,W,27,6
+1938-11-19,South Carolina,Southern,Rex Enright,A,Fordham,Ind,Jimmy Crowley,L,0,13
+1938-09-24,Washington,PCC,James Phelan,A,Minnesota,Western,Bernie Bierman,L,0,15
+1938-10-01,Washington,PCC,James Phelan,H,Idaho,PCC,Ted Bank,T,12,12
+1938-10-08,Washington,PCC,James Phelan,A,UCLA,PCC,William Spaulding,L,0,13
+1938-10-15,Washington,PCC,James Phelan,H,Oregon State,PCC,Lon Stiner,L,6,13
+1938-10-22,Washington,PCC,James Phelan,H,California,PCC,Stub Allison,L,7,14
+1938-11-05,Washington,PCC,James Phelan,A,Stanford,PCC,Tiny Thornhill,W,10,7
+1938-11-12,Washington,PCC,James Phelan,H,USC,PCC,Howard Jones,W,7,6
+1938-11-19,Washington,PCC,James Phelan,A,Oregon,PCC,Tex Oliver,L,0,3
+1938-11-26,Washington,PCC,James Phelan,H,Washington State,PCC,O.E. Hollingbery,W,26,0
+1938-10-01,Santa Clara,Ind,Buck Shaw,A,Stanford,PCC,Tiny Thornhill,W,22,0
+1938-10-08,Santa Clara,Ind,Buck Shaw,A,Texas A&M,SWC,Homer Norton,W,7,0
+1938-10-15,Santa Clara,Ind,Buck Shaw,A,Arizona,BIAA,Orian Landreth,W,27,0
+1938-10-22,Santa Clara,Ind,Buck Shaw,H,Arkansas,SWC,Fred Thomsen,W,21,6
+1938-10-29,Santa Clara,Ind,Buck Shaw,A,Michigan State,Ind,Charlie Bachman,W,7,6
+1938-11-06,Santa Clara,Ind,Buck Shaw,A,San Francisco,Ind,George Malley,W,7,0
+1938-11-12,Santa Clara,Ind,Buck Shaw,A,Saint Mary's (CA),Ind,Slip Madigan,L,0,7
+1938-11-27,Santa Clara,Ind,Buck Shaw,H,Detroit Mercy,Ind,Gus Dorais,L,6,7
+1938-10-08,Holy Cross,Ind,Edward Anderson,H,Manhattan,Ind,Herb Kopf,W,19,6
+1938-10-15,Holy Cross,Ind,Edward Anderson,A,Carnegie Mellon,Ind,William Kern,L,6,7
+1938-10-26,Holy Cross,Ind,Edward Anderson,H,Georgia,SEC,Joel Hunt,W,29,6
+1938-10-29,Holy Cross,Ind,Edward Anderson,H,Colgate,Ind,Andrew Kerr,W,21,0
+1938-11-05,Holy Cross,Ind,Edward Anderson,H,Temple,Ind,Pop Warner,W,33,0
+1938-11-12,Holy Cross,Ind,Edward Anderson,H,Brown,Ind,DeOrmond McLaughry,W,14,12
+1938-11-26,Holy Cross,Ind,Edward Anderson,N,Boston College,Ind,Gilmour Dobie,W,29,7
+1938-10-08,Utah State,MSAC,E. Lowell Romney,H,Colorado,MSAC,Bunny Oakes,W,20,0
+1938-10-15,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,William Saunders,L,0,7
+1938-10-22,Utah State,MSAC,E. Lowell Romney,H,Utah,MSAC,Ike Armstrong,L,0,33
+1938-10-29,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Harry Hughes,W,6,0
+1938-11-05,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Edwin Kimball,W,3,0
+1938-11-12,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Dutch Witte,L,12,27
+1938-11-19,Utah State,MSAC,E. Lowell Romney,A,Idaho,PCC,Ted Bank,L,0,14
+1938-10-01,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Bunny Oakes,W,14,7
+1938-10-08,Missouri,Big 6,Don Faurot,A,Kansas State,Big 6,Wesley Fry,L,13,21
+1938-10-15,Missouri,Big 6,Don Faurot,H,Iowa State,Big 6,Jim Yeager,L,13,16
+1938-10-22,Missouri,Big 6,Don Faurot,A,Washington (MO),MVC,Jimmy Conzelman,W,13,0
+1938-10-29,Missouri,Big 6,Don Faurot,A,Nebraska,Big 6,Biff Jones,W,13,10
+1938-11-05,Missouri,Big 6,Don Faurot,H,Michigan State,Ind,Charlie Bachman,W,6,0
+1938-11-12,Missouri,Big 6,Don Faurot,A,Oklahoma,Big 6,Tom Stidham,L,0,21
+1938-11-19,Missouri,Big 6,Don Faurot,A,Saint Louis,MVC,,W,26,0
+1938-11-24,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,Adrian Lindsey,W,13,7
+1938-09-23,Denver,MSAC,William Saunders,H,Iowa State,Big 6,Jim Yeager,L,7,14
+1938-09-30,Denver,MSAC,William Saunders,H,Brigham Young,MSAC,Edwin Kimball,L,0,20
+1938-10-08,Denver,MSAC,William Saunders,H,Colorado State,MSAC,Harry Hughes,T,0,0
+1938-10-15,Denver,MSAC,William Saunders,H,Utah State,MSAC,E. Lowell Romney,W,7,0
+1938-10-22,Denver,MSAC,William Saunders,A,Wyoming,MSAC,Dutch Witte,W,6,0
+1938-10-29,Denver,MSAC,William Saunders,A,Utah,MSAC,Ike Armstrong,L,0,21
+1938-11-05,Denver,MSAC,William Saunders,A,New Mexico,BIAA,Ted Shipkey,L,6,7
+1938-11-24,Denver,MSAC,William Saunders,H,Colorado,MSAC,Bunny Oakes,W,19,12
+1938-10-01,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Paddy Driscoll,W,27,0
+1938-10-08,Wisconsin,Western,Harry Stuhldreher,A,Iowa,Western,Irl Tubbs,W,31,13
+1938-10-15,Wisconsin,Western,Harry Stuhldreher,H,Pitt,Ind,Jock Sutherland,L,6,26
+1938-10-22,Wisconsin,Western,Harry Stuhldreher,A,Purdue,Western,Mal Elward,L,7,13
+1938-10-29,Wisconsin,Western,Harry Stuhldreher,H,Indiana,Western,Bo McMillin,W,6,0
+1938-11-05,Wisconsin,Western,Harry Stuhldreher,A,Northwestern,Western,Pappy Waldorf,W,20,13
+1938-11-12,Wisconsin,Western,Harry Stuhldreher,A,UCLA,PCC,William Spaulding,W,14,7
+1938-11-19,Wisconsin,Western,Harry Stuhldreher,H,Minnesota,Western,Bernie Bierman,L,0,21
+1938-09-23,Bucknell,Ind,Al Humphreys,H,Furman,Southern,,W,28,6
+1938-10-08,Bucknell,Ind,Al Humphreys,A,Penn State,Ind,Bob Higgins,W,14,0
+1938-10-15,Bucknell,Ind,Al Humphreys,A,Temple,Ind,Pop Warner,L,0,26
+1938-11-05,Bucknell,Ind,Al Humphreys,A,Georgetown,Ind,Jack Hagerty,L,0,13
+1938-11-19,Bucknell,Ind,Al Humphreys,H,George Washington,Ind,,W,16,0
+1938-11-24,Bucknell,Ind,Al Humphreys,A,Miami (FL),Ind,Jack Harding,L,0,19
+1938-09-24,USC,PCC,Howard Jones,H,Alabama,SEC,Frank Thomas,L,7,19
+1938-10-01,USC,PCC,Howard Jones,H,Oregon State,PCC,Lon Stiner,W,7,0
+1938-10-08,USC,PCC,Howard Jones,A,Ohio State,Western,Francis Schmidt,W,14,7
+1938-10-15,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,W,19,6
+1938-10-22,USC,PCC,Howard Jones,A,Stanford,PCC,Tiny Thornhill,W,13,2
+1938-10-29,USC,PCC,Howard Jones,A,Oregon,PCC,Tex Oliver,W,31,7
+1938-11-05,USC,PCC,Howard Jones,H,California,PCC,Stub Allison,W,13,7
+1938-11-12,USC,PCC,Howard Jones,A,Washington,PCC,James Phelan,L,6,7
+1938-11-24,USC,PCC,Howard Jones,H,UCLA,PCC,William Spaulding,W,42,7
+1938-12-03,USC,PCC,Howard Jones,H,Notre Dame,Ind,Elmer Layden,W,13,0
+1939-01-02,USC,PCC,Howard Jones,H,Duke,Southern,Wallace Wade,W,7,3
+1938-09-24,North Carolina State,Southern,,N,Davidson,Southern,Gene McEver,W,19,7
+1938-10-01,North Carolina State,Southern,,H,North Carolina,Southern,Raymond Wolf,L,0,21
+1938-10-08,North Carolina State,Southern,,A,Alabama,SEC,Frank Thomas,L,0,14
+1938-10-15,North Carolina State,Southern,,H,Wake Forest,Southern,D.C. Walker,W,19,7
+1938-10-22,North Carolina State,Southern,,H,Furman,Southern,,T,7,7
+1938-10-29,North Carolina State,Southern,,A,Virginia Tech,Southern,Henry Redd,L,0,7
+1938-11-05,North Carolina State,Southern,,A,Manhattan,Ind,Herb Kopf,L,0,3
+1938-11-12,North Carolina State,Southern,,H,Detroit Mercy,Ind,Gus Dorais,L,0,7
+1938-11-19,North Carolina State,Southern,,A,Duke,Southern,Wallace Wade,L,0,7
+1938-11-26,North Carolina State,Southern,,H,Carnegie Mellon,Ind,William Kern,L,0,14
+1938-12-03,North Carolina State,Southern,,N,Citadel,Southern,Tatum Gressette,W,14,6
+1938-09-24,Centenary (LA),Ind,Curtis Player,A,Texas Christian,SWC,Dutch Meyer,L,0,13
+1938-10-15,Centenary (LA),Ind,Curtis Player,H,Loyola Marymount,Ind,Tom Lieb,W,7,6
+1938-10-22,Centenary (LA),Ind,Curtis Player,A,Ole Miss,SEC,Harry Mehre,L,14,47
+1938-11-05,Centenary (LA),Ind,Curtis Player,H,Arizona,BIAA,Orian Landreth,L,6,7
+1938-11-12,Centenary (LA),Ind,Curtis Player,A,Mississippi State,SEC,Spike Nelson,W,19,0
+1938-12-03,Centenary (LA),Ind,Curtis Player,A,Baylor,SWC,Morley Jennings,L,0,14
+1938-10-01,Michigan,Western,Fritz Crisler,H,Michigan State,Ind,Charlie Bachman,W,14,0
+1938-10-08,Michigan,Western,Fritz Crisler,H,Chicago,Western,Clark Shaughnessy,W,45,7
+1938-10-15,Michigan,Western,Fritz Crisler,A,Minnesota,Western,Bernie Bierman,L,6,7
+1938-10-22,Michigan,Western,Fritz Crisler,A,Yale,Ind,Ducky Pond,W,15,13
+1938-10-29,Michigan,Western,Fritz Crisler,H,Illinois,Western,Robert Zuppke,W,14,0
+1938-11-05,Michigan,Western,Fritz Crisler,H,Pennsylvania,Ind,George Munger,W,19,13
+1938-11-12,Michigan,Western,Fritz Crisler,H,Northwestern,Western,Pappy Waldorf,T,0,0
+1938-11-19,Michigan,Western,Fritz Crisler,A,Ohio State,Western,Francis Schmidt,W,18,0
+1938-09-24,Detroit Mercy,Ind,Gus Dorais,A,Purdue,Western,Mal Elward,L,6,19
+1938-10-12,Detroit Mercy,Ind,Gus Dorais,A,Boston College,Ind,Gilmour Dobie,L,6,9
+1938-10-23,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,,L,6,13
+1938-10-28,Detroit Mercy,Ind,Gus Dorais,A,Duquesne,Ind,Clipper Smith,L,6,14
+1938-11-12,Detroit Mercy,Ind,Gus Dorais,A,North Carolina State,Southern,,W,7,0
+1938-11-19,Detroit Mercy,Ind,Gus Dorais,H,Tulsa,MVC,Vic Hurt,W,39,14
+1938-11-27,Detroit Mercy,Ind,Gus Dorais,A,Santa Clara,Ind,Buck Shaw,W,7,6
+1938-10-01,Temple,Ind,Pop Warner,H,Pitt,Ind,Jock Sutherland,L,6,28
+1938-10-08,Temple,Ind,Pop Warner,H,Texas Christian,SWC,Dutch Meyer,L,6,28
+1938-10-15,Temple,Ind,Pop Warner,H,Bucknell,Ind,Al Humphreys,W,26,0
+1938-10-21,Temple,Ind,Pop Warner,H,Boston College,Ind,Gilmour Dobie,T,26,26
+1938-10-29,Temple,Ind,Pop Warner,A,Georgetown,Ind,Jack Hagerty,L,0,13
+1938-11-05,Temple,Ind,Pop Warner,A,Holy Cross,Ind,Edward Anderson,L,0,33
+1938-11-12,Temple,Ind,Pop Warner,H,Villanova,Ind,,L,7,20
+1938-11-19,Temple,Ind,Pop Warner,A,Michigan State,Ind,Charlie Bachman,L,0,10
+1938-12-03,Temple,Ind,Pop Warner,A,Florida,SEC,Josh Cody,W,20,12
+1938-10-15,Loyola Marymount,Ind,Tom Lieb,A,Centenary (LA),Ind,Curtis Player,L,6,7
+1938-10-22,Loyola Marymount,Ind,Tom Lieb,H,Arizona,BIAA,Orian Landreth,L,12,14
+1938-10-29,Loyola Marymount,Ind,Tom Lieb,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,7
+1938-11-11,Loyola Marymount,Ind,Tom Lieb,H,Baylor,SWC,Morley Jennings,L,2,35
+1938-11-27,Loyola Marymount,Ind,Tom Lieb,A,Gonzaga,Ind,Mike Pecarovich,W,20,19
+1938-09-30,New Mexico,BIAA,Ted Shipkey,H,Arizona State,BIAA,Dixie Howell,W,21,0
+1938-10-15,New Mexico,BIAA,Ted Shipkey,A,UTEP,BIAA,Mack Saxon,L,6,7
+1938-10-22,New Mexico,BIAA,Ted Shipkey,A,Northern Arizona,BIAA,Garrett Arbelbide,W,20,0
+1938-10-29,New Mexico,BIAA,Ted Shipkey,A,Arizona,BIAA,Orian Landreth,W,20,7
+1938-11-05,New Mexico,BIAA,Ted Shipkey,H,Denver,MSAC,William Saunders,W,7,6
+1938-11-12,New Mexico,BIAA,Ted Shipkey,H,New Mexico State,BIAA,Gerald Hines,W,6,2
+1938-11-19,New Mexico,BIAA,Ted Shipkey,H,Texas Tech,BIAA,Pete Cawthon,L,7,17
+1938-11-24,New Mexico,BIAA,Ted Shipkey,H,Colorado State,MSAC,Harry Hughes,W,27,7
+1939-01-02,New Mexico,BIAA,Ted Shipkey,N,Utah,MSAC,Ike Armstrong,L,0,26
+1938-10-01,Notre Dame,Ind,Elmer Layden,H,Kansas,Big 6,Adrian Lindsey,W,52,0
+1938-10-08,Notre Dame,Ind,Elmer Layden,A,Georgia Tech,SEC,William Alexander,W,14,6
+1938-10-15,Notre Dame,Ind,Elmer Layden,H,Illinois,Western,Robert Zuppke,W,14,6
+1938-10-22,Notre Dame,Ind,Elmer Layden,H,Carnegie Mellon,Ind,William Kern,W,7,0
+1938-10-29,Notre Dame,Ind,Elmer Layden,A,Army,Ind,William Wood,W,19,7
+1938-11-05,Notre Dame,Ind,Elmer Layden,A,Navy,Ind,Hank Hardwick,W,15,0
+1938-11-12,Notre Dame,Ind,Elmer Layden,H,Minnesota,Western,Bernie Bierman,W,19,0
+1938-11-19,Notre Dame,Ind,Elmer Layden,A,Northwestern,Western,Pappy Waldorf,W,9,7
+1938-12-03,Notre Dame,Ind,Elmer Layden,A,USC,PCC,Howard Jones,L,0,13
+1938-09-24,Pitt,Ind,Jock Sutherland,H,West Virginia,Ind,Marshall Glenn,W,19,0
+1938-10-01,Pitt,Ind,Jock Sutherland,A,Temple,Ind,Pop Warner,W,28,6
+1938-10-08,Pitt,Ind,Jock Sutherland,H,Duquesne,Ind,Clipper Smith,W,27,0
+1938-10-15,Pitt,Ind,Jock Sutherland,A,Wisconsin,Western,Harry Stuhldreher,W,26,6
+1938-10-22,Pitt,Ind,Jock Sutherland,H,SMU,SWC,Madison Bell,W,34,7
+1938-10-29,Pitt,Ind,Jock Sutherland,H,Fordham,Ind,Jimmy Crowley,W,24,13
+1938-11-05,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,William Kern,L,10,20
+1938-11-12,Pitt,Ind,Jock Sutherland,A,Nebraska,Big 6,Biff Jones,W,19,0
+1938-11-19,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Bob Higgins,W,26,0
+1938-11-26,Pitt,Ind,Jock Sutherland,A,Duke,Southern,Wallace Wade,L,0,7
+1938-10-15,Carnegie Mellon,Ind,William Kern,H,Holy Cross,Ind,Edward Anderson,W,7,6
+1938-10-22,Carnegie Mellon,Ind,William Kern,A,Notre Dame,Ind,Elmer Layden,L,0,7
+1938-11-05,Carnegie Mellon,Ind,William Kern,A,Pitt,Ind,Jock Sutherland,W,20,10
+1938-11-12,Carnegie Mellon,Ind,William Kern,H,Duquesne,Ind,Clipper Smith,W,21,0
+1938-11-26,Carnegie Mellon,Ind,William Kern,A,North Carolina State,Southern,,W,14,0
+1939-01-02,Carnegie Mellon,Ind,William Kern,N,Texas Christian,SWC,Dutch Meyer,L,7,15
+1938-09-24,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,Stub Allison,L,7,12
+1938-10-02,Saint Mary's (CA),Ind,Slip Madigan,H,Gonzaga,Ind,Mike Pecarovich,W,20,0
+1938-10-23,Saint Mary's (CA),Ind,Slip Madigan,A,San Francisco,Ind,George Malley,W,13,6
+1938-10-29,Saint Mary's (CA),Ind,Slip Madigan,A,Loyola Marymount,Ind,Tom Lieb,W,7,0
+1938-11-05,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Jimmy Crowley,L,0,3
+1938-11-12,Saint Mary's (CA),Ind,Slip Madigan,H,Santa Clara,Ind,Buck Shaw,W,7,0
+1939-01-02,Saint Mary's (CA),Ind,Slip Madigan,N,Texas Tech,BIAA,Pete Cawthon,W,20,13
+1938-09-30,George Washington,Ind,,H,Furman,Southern,,W,7,0
+1938-10-15,George Washington,Ind,,A,Colorado,MSAC,Bunny Oakes,W,13,0
+1938-10-29,George Washington,Ind,,H,Ole Miss,SEC,Harry Mehre,L,0,25
+1938-11-05,George Washington,Ind,,A,Clemson,Southern,Jess Neely,L,0,27
+1938-11-12,George Washington,Ind,,H,Kansas,Big 6,Adrian Lindsey,W,9,7
+1938-11-19,George Washington,Ind,,A,Bucknell,Ind,Al Humphreys,L,0,16
+1938-11-24,George Washington,Ind,,H,West Virginia,Ind,Marshall Glenn,L,6,7
+1938-09-24,Wyoming,MSAC,Dutch Witte,A,Texas Tech,BIAA,Pete Cawthon,L,0,39
+1938-10-01,Wyoming,MSAC,Dutch Witte,H,Colorado State,MSAC,Harry Hughes,T,0,0
+1938-10-08,Wyoming,MSAC,Dutch Witte,A,Brigham Young,MSAC,Edwin Kimball,L,13,24
+1938-10-22,Wyoming,MSAC,Dutch Witte,H,Denver,MSAC,William Saunders,L,0,6
+1938-10-29,Wyoming,MSAC,Dutch Witte,A,Colorado,MSAC,Bunny Oakes,L,6,20
+1938-11-12,Wyoming,MSAC,Dutch Witte,A,Utah State,MSAC,E. Lowell Romney,W,27,12
+1938-11-19,Wyoming,MSAC,Dutch Witte,H,Utah,MSAC,Ike Armstrong,L,0,39
+1938-09-24,Brigham Young,MSAC,Edwin Kimball,H,Northern Arizona,BIAA,Garrett Arbelbide,W,19,0
+1938-09-30,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,William Saunders,W,20,0
+1938-10-08,Brigham Young,MSAC,Edwin Kimball,H,Wyoming,MSAC,Dutch Witte,W,24,13
+1938-10-15,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,T,7,7
+1938-11-05,Brigham Young,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,L,0,3
+1938-11-12,Brigham Young,MSAC,Edwin Kimball,A,Colorado,MSAC,Bunny Oakes,L,0,8
+1938-11-19,Brigham Young,MSAC,Edwin Kimball,A,Colorado State,MSAC,Harry Hughes,W,20,12
+1938-09-30,Duquesne,Ind,Clipper Smith,H,Texas Tech,BIAA,Pete Cawthon,L,6,7
+1938-10-08,Duquesne,Ind,Clipper Smith,A,Pitt,Ind,Jock Sutherland,L,0,27
+1938-10-21,Duquesne,Ind,Clipper Smith,H,Mississippi State,SEC,Spike Nelson,L,7,12
+1938-10-28,Duquesne,Ind,Clipper Smith,H,Detroit Mercy,Ind,Gus Dorais,W,14,6
+1938-11-05,Duquesne,Ind,Clipper Smith,A,South Carolina,Southern,Rex Enright,L,0,7
+1938-11-12,Duquesne,Ind,Clipper Smith,A,Carnegie Mellon,Ind,William Kern,L,0,21
+1938-11-18,Duquesne,Ind,Clipper Smith,A,Miami (FL),Ind,Jack Harding,L,7,21
+1938-10-01,Yale,Ind,Ducky Pond,H,Columbia,Ind,Lou Little,L,14,27
+1938-10-08,Yale,Ind,Ducky Pond,A,Pennsylvania,Ind,George Munger,L,0,21
+1938-10-15,Yale,Ind,Ducky Pond,H,Navy,Ind,Hank Hardwick,W,9,7
+1938-10-22,Yale,Ind,Ducky Pond,H,Michigan,Western,Fritz Crisler,L,13,15
+1938-10-29,Yale,Ind,Ducky Pond,H,Dartmouth,Ind,Red Blaik,L,6,24
+1938-11-05,Yale,Ind,Ducky Pond,H,Brown,Ind,DeOrmond McLaughry,W,20,14
+1938-11-12,Yale,Ind,Ducky Pond,A,Princeton,Ind,Tad Wieman,L,7,20
+1938-11-19,Yale,Ind,Ducky Pond,H,Harvard,Ind,Dick Harlow,L,0,7
+1938-10-08,Georgia Tech,SEC,William Alexander,H,Notre Dame,Ind,Elmer Layden,L,6,14
+1938-10-15,Georgia Tech,SEC,William Alexander,A,Duke,Southern,Wallace Wade,L,0,6
+1938-10-22,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,W,7,6
+1938-10-29,Georgia Tech,SEC,William Alexander,A,Vanderbilt,SEC,Ray Morrison,L,7,13
+1938-11-05,Georgia Tech,SEC,William Alexander,H,Kentucky,SEC,A.D. Kirwan,W,19,18
+1938-11-12,Georgia Tech,SEC,William Alexander,H,Alabama,SEC,Frank Thomas,T,14,14
+1938-11-19,Georgia Tech,SEC,William Alexander,H,Florida,SEC,Josh Cody,T,0,0
+1938-11-27,Georgia Tech,SEC,William Alexander,A,Georgia,SEC,Joel Hunt,T,0,0
+1938-12-26,Georgia Tech,SEC,William Alexander,A,California,PCC,Stub Allison,L,0,13
+1938-09-24,Wake Forest,Southern,D.C. Walker,A,North Carolina,Southern,Raymond Wolf,L,6,14
+1938-09-30,Wake Forest,Southern,D.C. Walker,N,Citadel,Southern,Tatum Gressette,W,31,0
+1938-10-08,Wake Forest,Southern,D.C. Walker,A,South Carolina,Southern,Rex Enright,W,20,19
+1938-10-15,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,,L,7,19
+1938-10-22,Wake Forest,Southern,D.C. Walker,H,Duke,Southern,Wallace Wade,L,0,7
+1938-10-28,Wake Forest,Southern,D.C. Walker,H,Clemson,Southern,Jess Neely,L,0,7
+1938-11-05,Wake Forest,Southern,D.C. Walker,A,Virginia Military Institute,Southern,,T,6,6
+1938-11-24,Wake Forest,Southern,D.C. Walker,N,Davidson,Southern,Gene McEver,W,21,0
+1938-10-01,Mississippi State,SEC,Spike Nelson,H,Florida,SEC,Josh Cody,W,22,0
+1938-10-14,Mississippi State,SEC,Spike Nelson,A,Auburn,SEC,Jack Meagher,L,6,20
+1938-10-21,Mississippi State,SEC,Spike Nelson,A,Duquesne,Ind,Clipper Smith,W,12,7
+1938-10-29,Mississippi State,SEC,Spike Nelson,A,Tulane,SEC,Red Dawson,L,0,27
+1938-11-05,Mississippi State,SEC,Spike Nelson,A,LSU,SEC,Bernie Moore,L,7,32
+1938-11-12,Mississippi State,SEC,Spike Nelson,H,Centenary (LA),Ind,Curtis Player,L,0,19
+1938-11-26,Mississippi State,SEC,Spike Nelson,H,Ole Miss,SEC,Harry Mehre,L,6,19
+1938-09-24,Virginia Military Institute,Southern,,A,Virginia,Ind,Frank Murray,T,12,12
+1938-10-01,Virginia Military Institute,Southern,,A,Navy,Ind,Hank Hardwick,L,0,26
+1938-10-08,Virginia Military Institute,Southern,,A,Clemson,Southern,Jess Neely,T,7,7
+1938-10-15,Virginia Military Institute,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,W,13,6
+1938-10-22,Virginia Military Institute,Southern,,A,William & Mary,Southern,,W,14,0
+1938-10-29,Virginia Military Institute,Southern,,A,Maryland,Southern,Frank Dobson,W,47,14
+1938-11-05,Virginia Military Institute,Southern,,H,Wake Forest,Southern,D.C. Walker,T,6,6
+1938-11-12,Virginia Military Institute,Southern,,A,Davidson,Southern,Gene McEver,W,19,6
+1938-11-24,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry Redd,T,2,2
+1938-09-23,Hampden-Sydney,Ind,Charles Bernier,A,Washington & Lee,Southern,Tex Tilson,L,6,7
+1938-10-01,Hampden-Sydney,Ind,Charles Bernier,H,Georgetown,Ind,Jack Hagerty,L,0,51
+1938-10-08,Hampden-Sydney,Ind,Charles Bernier,H,Richmond,Southern,Glenn Thistlethwaite,L,7,26
+1938-11-05,Hampden-Sydney,Ind,Charles Bernier,A,William & Mary,Southern,,L,7,18
+1938-10-01,Kansas State,Big 6,Wesley Fry,A,Northwestern,Western,Pappy Waldorf,L,0,21
+1938-10-08,Kansas State,Big 6,Wesley Fry,H,Missouri,Big 6,Don Faurot,W,21,13
+1938-10-14,Kansas State,Big 6,Wesley Fry,A,Marquette,Ind,Paddy Driscoll,W,6,0
+1938-10-22,Kansas State,Big 6,Wesley Fry,A,Indiana,Western,Bo McMillin,W,13,6
+1938-10-29,Kansas State,Big 6,Wesley Fry,H,Kansas,Big 6,Adrian Lindsey,L,7,27
+1938-11-05,Kansas State,Big 6,Wesley Fry,A,Oklahoma,Big 6,Tom Stidham,L,0,26
+1938-11-12,Kansas State,Big 6,Wesley Fry,H,Iowa State,Big 6,Jim Yeager,T,13,13
+1938-11-19,Kansas State,Big 6,Wesley Fry,H,Washburn,MVC,Elmer Holm,W,41,14
+1938-11-24,Kansas State,Big 6,Wesley Fry,A,Nebraska,Big 6,Biff Jones,L,7,14
+1938-10-14,Saint Louis,MVC,,H,Tulsa,MVC,Vic Hurt,L,0,28
+1938-11-05,Saint Louis,MVC,,H,Ole Miss,SEC,Harry Mehre,L,12,14
+1938-11-19,Saint Louis,MVC,,H,Missouri,Big 6,Don Faurot,L,0,26
+1938-11-26,Saint Louis,MVC,,A,Washington (MO),MVC,Jimmy Conzelman,T,0,0
+1938-10-01,Army,Ind,William Wood,H,Virginia Tech,Southern,Henry Redd,W,39,0
+1938-10-08,Army,Ind,William Wood,H,Columbia,Ind,Lou Little,L,18,20
+1938-10-15,Army,Ind,William Wood,A,Harvard,Ind,Dick Harlow,W,20,17
+1938-10-29,Army,Ind,William Wood,H,Notre Dame,Ind,Elmer Layden,L,7,19
+1938-11-19,Army,Ind,William Wood,A,Princeton,Ind,Tad Wieman,W,19,7
+1938-11-26,Army,Ind,William Wood,N,Navy,Ind,Hank Hardwick,W,14,7
+1938-10-01,Marquette,Ind,Paddy Driscoll,A,Wisconsin,Western,Harry Stuhldreher,L,0,27
+1938-10-07,Marquette,Ind,Paddy Driscoll,H,SMU,SWC,Madison Bell,W,7,0
+1938-10-14,Marquette,Ind,Paddy Driscoll,H,Kansas State,Big 6,Wesley Fry,L,0,6
+1938-10-22,Marquette,Ind,Paddy Driscoll,H,Texas Christian,SWC,Dutch Meyer,L,0,21
+1938-10-29,Marquette,Ind,Paddy Driscoll,H,Iowa State,Big 6,Jim Yeager,L,0,7
+1938-11-12,Marquette,Ind,Paddy Driscoll,H,Michigan State,Ind,Charlie Bachman,L,14,20
+1938-11-19,Marquette,Ind,Paddy Driscoll,A,Arizona,BIAA,Orian Landreth,L,12,20
+1938-11-26,Marquette,Ind,Paddy Driscoll,A,Texas Tech,BIAA,Pete Cawthon,L,2,21
+1938-10-08,Dartmouth,Ind,Red Blaik,A,Princeton,Ind,Tad Wieman,W,22,0
+1938-10-15,Dartmouth,Ind,Red Blaik,H,Brown,Ind,DeOrmond McLaughry,W,34,13
+1938-10-22,Dartmouth,Ind,Red Blaik,A,Harvard,Ind,Dick Harlow,W,13,7
+1938-10-29,Dartmouth,Ind,Red Blaik,A,Yale,Ind,Ducky Pond,W,24,6
+1938-11-12,Dartmouth,Ind,Red Blaik,A,Cornell,Ind,Carl Snavely,L,7,14
+1938-11-26,Dartmouth,Ind,Red Blaik,A,Stanford,PCC,Tiny Thornhill,L,13,23
+1938-09-23,UCLA,PCC,William Spaulding,H,Iowa,Western,Irl Tubbs,W,27,3
+1938-10-01,UCLA,PCC,William Spaulding,A,Oregon,PCC,Tex Oliver,L,12,14
+1938-10-08,UCLA,PCC,William Spaulding,H,Washington,PCC,James Phelan,W,13,0
+1938-10-15,UCLA,PCC,William Spaulding,A,California,PCC,Stub Allison,L,7,20
+1938-10-22,UCLA,PCC,William Spaulding,H,Idaho,PCC,Ted Bank,W,33,0
+1938-10-29,UCLA,PCC,William Spaulding,H,Stanford,PCC,Tiny Thornhill,W,6,0
+1938-11-05,UCLA,PCC,William Spaulding,A,Washington State,PCC,O.E. Hollingbery,W,21,0
+1938-11-12,UCLA,PCC,William Spaulding,H,Wisconsin,Western,Harry Stuhldreher,L,7,14
+1938-11-24,UCLA,PCC,William Spaulding,A,USC,PCC,Howard Jones,L,7,42
+1938-12-10,UCLA,PCC,William Spaulding,H,Oregon State,PCC,Lon Stiner,T,6,6
+1938-10-01,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Red Dawson,T,0,0
+1938-10-08,Auburn,SEC,Jack Meagher,A,Tennessee,SEC,Bob Neyland,L,0,7
+1938-10-14,Auburn,SEC,Jack Meagher,H,Mississippi State,SEC,Spike Nelson,W,20,6
+1938-10-22,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,L,6,7
+1938-10-29,Auburn,SEC,Jack Meagher,A,Rice,SWC,Jimmy Kitts,L,0,14
+1938-11-05,Auburn,SEC,Jack Meagher,A,Villanova,Ind,,L,12,25
+1938-11-12,Auburn,SEC,Jack Meagher,H,LSU,SEC,Bernie Moore,W,28,6
+1938-11-19,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Joel Hunt,W,23,14
+1938-11-26,Auburn,SEC,Jack Meagher,A,Florida,SEC,Josh Cody,L,7,9
+1938-10-01,Northwestern,Western,Pappy Waldorf,H,Kansas State,Big 6,Wesley Fry,W,21,0
+1938-10-08,Northwestern,Western,Pappy Waldorf,H,Drake,MVC,Vee Green,W,33,0
+1938-10-15,Northwestern,Western,Pappy Waldorf,H,Ohio State,Western,Francis Schmidt,T,0,0
+1938-10-22,Northwestern,Western,Pappy Waldorf,A,Illinois,Western,Robert Zuppke,W,13,0
+1938-10-29,Northwestern,Western,Pappy Waldorf,H,Minnesota,Western,Bernie Bierman,W,6,3
+1938-11-05,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Harry Stuhldreher,L,13,20
+1938-11-12,Northwestern,Western,Pappy Waldorf,A,Michigan,Western,Fritz Crisler,T,0,0
+1938-11-19,Northwestern,Western,Pappy Waldorf,H,Notre Dame,Ind,Elmer Layden,L,7,9
+1938-09-24,Kansas,Big 6,Adrian Lindsey,H,Texas,SWC,Dana Bible,W,19,18
+1938-10-01,Kansas,Big 6,Adrian Lindsey,A,Notre Dame,Ind,Elmer Layden,L,0,52
+1938-10-08,Kansas,Big 6,Adrian Lindsey,H,Washburn,MVC,Elmer Holm,W,58,14
+1938-10-15,Kansas,Big 6,Adrian Lindsey,H,Oklahoma,Big 6,Tom Stidham,L,0,19
+1938-10-22,Kansas,Big 6,Adrian Lindsey,A,Iowa State,Big 6,Jim Yeager,L,7,21
+1938-10-29,Kansas,Big 6,Adrian Lindsey,A,Kansas State,Big 6,Wesley Fry,W,27,7
+1938-11-05,Kansas,Big 6,Adrian Lindsey,H,Nebraska,Big 6,Biff Jones,L,7,16
+1938-11-12,Kansas,Big 6,Adrian Lindsey,A,George Washington,Ind,,L,7,9
+1938-11-24,Kansas,Big 6,Adrian Lindsey,A,Missouri,Big 6,Don Faurot,L,7,13
+1938-09-24,William & Mary,Southern,,A,Navy,Ind,Hank Hardwick,L,0,26
+1938-10-08,William & Mary,Southern,,N,Virginia Tech,Southern,Henry Redd,L,0,27
+1938-10-22,William & Mary,Southern,,H,Virginia Military Institute,Southern,,L,0,14
+1938-10-29,William & Mary,Southern,,A,Virginia,Ind,Frank Murray,L,0,34
+1938-11-05,William & Mary,Southern,,H,Hampden-Sydney,Ind,Charles Bernier,W,18,7
+1938-11-12,William & Mary,Southern,,A,Washington & Lee,Southern,Tex Tilson,L,0,27
+1938-11-24,William & Mary,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,L,7,10
+1938-10-15,UTEP,BIAA,Mack Saxon,H,New Mexico,BIAA,Ted Shipkey,W,7,6
+1938-10-22,UTEP,BIAA,Mack Saxon,H,Texas Tech,BIAA,Pete Cawthon,L,7,14
+1938-11-12,UTEP,BIAA,Mack Saxon,A,Arizona,BIAA,Orian Landreth,W,26,14
+1938-11-19,UTEP,BIAA,Mack Saxon,H,Arizona State,BIAA,Dixie Howell,W,14,6
+1938-11-24,UTEP,BIAA,Mack Saxon,H,New Mexico State,BIAA,Gerald Hines,L,9,13
+1938-09-24,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Harry Mehre,L,7,20
+1938-10-01,LSU,SEC,Bernie Moore,A,Texas,SWC,Dana Bible,W,20,0
+1938-10-08,LSU,SEC,Bernie Moore,H,Rice,SWC,Jimmy Kitts,W,3,0
+1938-10-22,LSU,SEC,Bernie Moore,H,Vanderbilt,SEC,Ray Morrison,W,7,0
+1938-10-29,LSU,SEC,Bernie Moore,A,Tennessee,SEC,Bob Neyland,L,6,14
+1938-11-05,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Spike Nelson,W,32,7
+1938-11-12,LSU,SEC,Bernie Moore,A,Auburn,SEC,Jack Meagher,L,6,28
+1938-11-26,LSU,SEC,Bernie Moore,H,Tulane,SEC,Red Dawson,L,0,14
+1938-10-08,Pennsylvania,Ind,George Munger,H,Yale,Ind,Ducky Pond,W,21,0
+1938-10-15,Pennsylvania,Ind,George Munger,A,Princeton,Ind,Tad Wieman,L,0,13
+1938-10-22,Pennsylvania,Ind,George Munger,H,Columbia,Ind,Lou Little,W,14,13
+1938-10-29,Pennsylvania,Ind,George Munger,H,Navy,Ind,Hank Hardwick,T,0,0
+1938-11-05,Pennsylvania,Ind,George Munger,A,Michigan,Western,Fritz Crisler,L,13,19
+1938-11-12,Pennsylvania,Ind,George Munger,H,Penn State,Ind,Bob Higgins,T,7,7
+1938-11-24,Pennsylvania,Ind,George Munger,H,Cornell,Ind,Carl Snavely,T,0,0
+1938-10-01,Tulsa,MVC,Vic Hurt,A,Texas A&M,SWC,Homer Norton,L,0,20
+1938-10-08,Tulsa,MVC,Vic Hurt,H,Washington (MO),MVC,Jimmy Conzelman,W,14,0
+1938-10-14,Tulsa,MVC,Vic Hurt,A,Saint Louis,MVC,,W,28,0
+1938-10-22,Tulsa,MVC,Vic Hurt,H,Oklahoma State,MVC,Ted Cox,W,20,7
+1938-10-29,Tulsa,MVC,Vic Hurt,A,Oklahoma,Big 6,Tom Stidham,L,6,28
+1938-11-05,Tulsa,MVC,Vic Hurt,H,Texas Christian,SWC,Dutch Meyer,L,0,21
+1938-11-12,Tulsa,MVC,Vic Hurt,A,Drake,MVC,Vee Green,L,7,27
+1938-11-19,Tulsa,MVC,Vic Hurt,A,Detroit Mercy,Ind,Gus Dorais,L,14,39
+1938-11-24,Tulsa,MVC,Vic Hurt,H,Arkansas,SWC,Fred Thomsen,T,6,6
+1938-09-23,Iowa,Western,Irl Tubbs,A,UCLA,PCC,William Spaulding,L,3,27
+1938-10-08,Iowa,Western,Irl Tubbs,H,Wisconsin,Western,Harry Stuhldreher,L,13,31
+1938-10-15,Iowa,Western,Irl Tubbs,A,Chicago,Western,Clark Shaughnessy,W,27,14
+1938-10-22,Iowa,Western,Irl Tubbs,H,Colgate,Ind,Andrew Kerr,L,0,14
+1938-10-29,Iowa,Western,Irl Tubbs,H,Purdue,Western,Mal Elward,T,0,0
+1938-11-05,Iowa,Western,Irl Tubbs,A,Minnesota,Western,Bernie Bierman,L,0,28
+1938-11-12,Iowa,Western,Irl Tubbs,A,Indiana,Western,Bo McMillin,L,3,7
+1938-11-19,Iowa,Western,Irl Tubbs,H,Nebraska,Big 6,Biff Jones,L,0,14
+1938-10-01,Columbia,Ind,Lou Little,A,Yale,Ind,Ducky Pond,W,27,14
+1938-10-08,Columbia,Ind,Lou Little,A,Army,Ind,William Wood,W,20,18
+1938-10-15,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,L,0,12
+1938-10-22,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,George Munger,L,13,14
+1938-10-29,Columbia,Ind,Lou Little,H,Cornell,Ind,Carl Snavely,L,7,23
+1938-11-05,Columbia,Ind,Lou Little,H,Virginia,Ind,Frank Murray,W,39,0
+1938-11-12,Columbia,Ind,Lou Little,H,Navy,Ind,Hank Hardwick,L,9,14
+1938-11-19,Columbia,Ind,Lou Little,H,Syracuse,Ind,Ossie Solem,L,12,13
+1938-11-24,Columbia,Ind,Lou Little,A,Brown,Ind,DeOrmond McLaughry,L,27,36
+1938-09-24,Texas,SWC,Dana Bible,A,Kansas,Big 6,Adrian Lindsey,L,18,19
+1938-10-01,Texas,SWC,Dana Bible,H,LSU,SEC,Bernie Moore,L,0,20
+1938-10-08,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Tom Stidham,L,0,13
+1938-10-15,Texas,SWC,Dana Bible,A,Arkansas,SWC,Fred Thomsen,L,6,42
+1938-10-22,Texas,SWC,Dana Bible,A,Rice,SWC,Jimmy Kitts,L,6,13
+1938-10-30,Texas,SWC,Dana Bible,A,SMU,SWC,Madison Bell,L,6,7
+1938-11-05,Texas,SWC,Dana Bible,H,Baylor,SWC,Morley Jennings,L,3,14
+1938-11-12,Texas,SWC,Dana Bible,A,Texas Christian,SWC,Dutch Meyer,L,6,28
+1938-11-24,Texas,SWC,Dana Bible,H,Texas A&M,SWC,Homer Norton,W,7,6
+1938-09-24,Texas Christian,SWC,Dutch Meyer,H,Centenary (LA),Ind,Curtis Player,W,13,0
+1938-10-01,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,Fred Thomsen,W,21,14
+1938-10-08,Texas Christian,SWC,Dutch Meyer,A,Temple,Ind,Pop Warner,W,28,6
+1938-10-15,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,W,34,6
+1938-10-22,Texas Christian,SWC,Dutch Meyer,A,Marquette,Ind,Paddy Driscoll,W,21,0
+1938-10-29,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,Morley Jennings,W,39,7
+1938-11-05,Texas Christian,SWC,Dutch Meyer,A,Tulsa,MVC,Vic Hurt,W,21,0
+1938-11-12,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Dana Bible,W,28,6
+1938-11-19,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jimmy Kitts,W,29,7
+1938-11-26,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,Madison Bell,W,20,7
+1939-01-02,Texas Christian,SWC,Dutch Meyer,N,Carnegie Mellon,Ind,William Kern,W,15,7
+1938-10-15,New York University,Ind,Mal Stevens,H,North Carolina,Southern,Raymond Wolf,L,0,7
+1938-10-29,New York University,Ind,Mal Stevens,H,Ohio State,Western,Francis Schmidt,L,0,32
+1938-11-11,New York University,Ind,Mal Stevens,H,Colgate,Ind,Andrew Kerr,W,13,7
+1938-11-26,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,L,0,25
+1938-10-15,Miami (FL),Ind,Jack Harding,A,Florida,SEC,Josh Cody,W,19,7
+1938-10-22,Miami (FL),Ind,Jack Harding,A,Drake,MVC,Vee Green,L,6,18
+1938-11-18,Miami (FL),Ind,Jack Harding,H,Duquesne,Ind,Clipper Smith,W,21,7
+1938-11-24,Miami (FL),Ind,Jack Harding,H,Bucknell,Ind,Al Humphreys,W,19,0
+1938-12-02,Miami (FL),Ind,Jack Harding,H,Georgia,SEC,Joel Hunt,W,13,7
+1938-09-24,Richmond,Southern,Glenn Thistlethwaite,A,Maryland,Southern,Frank Dobson,W,19,6
+1938-10-08,Richmond,Southern,Glenn Thistlethwaite,A,Hampden-Sydney,Ind,Charles Bernier,W,26,7
+1938-10-15,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Military Institute,Southern,,L,6,13
+1938-10-29,Richmond,Southern,Glenn Thistlethwaite,H,Washington & Lee,Southern,Tex Tilson,W,6,0
+1938-11-05,Richmond,Southern,Glenn Thistlethwaite,A,Citadel,Southern,Tatum Gressette,L,0,6
+1938-11-11,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Tech,Southern,Henry Redd,T,0,0
+1938-11-24,Richmond,Southern,Glenn Thistlethwaite,H,William & Mary,Southern,,W,10,7
+1938-09-24,Oregon,PCC,Tex Oliver,A,Washington State,PCC,O.E. Hollingbery,W,10,2
+1938-10-01,Oregon,PCC,Tex Oliver,H,UCLA,PCC,William Spaulding,W,14,12
+1938-10-15,Oregon,PCC,Tex Oliver,A,Stanford,PCC,Tiny Thornhill,L,16,27
+1938-10-22,Oregon,PCC,Tex Oliver,A,Fordham,Ind,Jimmy Crowley,L,0,26
+1938-10-29,Oregon,PCC,Tex Oliver,H,USC,PCC,Howard Jones,L,7,31
+1938-11-05,Oregon,PCC,Tex Oliver,H,Idaho,PCC,Ted Bank,W,19,6
+1938-11-12,Oregon,PCC,Tex Oliver,A,California,PCC,Stub Allison,L,0,20
+1938-11-19,Oregon,PCC,Tex Oliver,H,Washington,PCC,James Phelan,W,3,0
+1938-11-26,Oregon,PCC,Tex Oliver,N,Oregon State,PCC,Lon Stiner,L,0,14
+1938-10-01,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,Dick Harlow,W,20,13
+1938-10-15,Brown,Ind,DeOrmond McLaughry,A,Dartmouth,Ind,Red Blaik,L,13,34
+1938-11-05,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Ducky Pond,L,14,20
+1938-11-12,Brown,Ind,DeOrmond McLaughry,A,Holy Cross,Ind,Edward Anderson,L,12,14
+1938-11-24,Brown,Ind,DeOrmond McLaughry,H,Columbia,Ind,Lou Little,W,36,27
+1938-09-24,Tennessee,SEC,Bob Neyland,H,Sewanee,SEC,Heck Clark,W,26,3
+1938-10-01,Tennessee,SEC,Bob Neyland,H,Clemson,Southern,Jess Neely,W,20,7
+1938-10-08,Tennessee,SEC,Bob Neyland,H,Auburn,SEC,Jack Meagher,W,7,0
+1938-10-15,Tennessee,SEC,Bob Neyland,A,Alabama,SEC,Frank Thomas,W,13,0
+1938-10-22,Tennessee,SEC,Bob Neyland,H,Citadel,Southern,Tatum Gressette,W,44,0
+1938-10-29,Tennessee,SEC,Bob Neyland,H,LSU,SEC,Bernie Moore,W,14,6
+1938-11-12,Tennessee,SEC,Bob Neyland,A,Vanderbilt,SEC,Ray Morrison,W,14,0
+1938-11-24,Tennessee,SEC,Bob Neyland,H,Kentucky,SEC,A.D. Kirwan,W,46,0
+1938-12-03,Tennessee,SEC,Bob Neyland,N,Ole Miss,SEC,Harry Mehre,W,47,0
+1939-01-02,Tennessee,SEC,Bob Neyland,N,Oklahoma,Big 6,Tom Stidham,W,17,0
+1938-09-24,Oregon State,PCC,Lon Stiner,H,Idaho,PCC,Ted Bank,L,0,13
+1938-10-01,Oregon State,PCC,Lon Stiner,A,USC,PCC,Howard Jones,L,0,7
+1938-10-15,Oregon State,PCC,Lon Stiner,A,Washington,PCC,James Phelan,W,13,6
+1938-10-22,Oregon State,PCC,Lon Stiner,H,Washington State,PCC,O.E. Hollingbery,W,7,6
+1938-10-29,Oregon State,PCC,Lon Stiner,A,California,PCC,Stub Allison,L,7,13
+1938-11-12,Oregon State,PCC,Lon Stiner,H,Stanford,PCC,Tiny Thornhill,W,6,0
+1938-11-26,Oregon State,PCC,Lon Stiner,N,Oregon,PCC,Tex Oliver,W,14,0
+1938-12-10,Oregon State,PCC,Lon Stiner,A,UCLA,PCC,William Spaulding,T,6,6
+1938-09-24,Alabama,SEC,Frank Thomas,A,USC,PCC,Howard Jones,W,19,7
+1938-10-08,Alabama,SEC,Frank Thomas,H,North Carolina State,Southern,,W,14,0
+1938-10-15,Alabama,SEC,Frank Thomas,H,Tennessee,SEC,Bob Neyland,L,0,13
+1938-10-22,Alabama,SEC,Frank Thomas,H,Sewanee,SEC,Heck Clark,W,32,0
+1938-10-29,Alabama,SEC,Frank Thomas,A,Kentucky,SEC,A.D. Kirwan,W,26,6
+1938-11-05,Alabama,SEC,Frank Thomas,H,Tulane,SEC,Red Dawson,W,3,0
+1938-11-12,Alabama,SEC,Frank Thomas,A,Georgia Tech,SEC,William Alexander,T,14,14
+1938-11-24,Alabama,SEC,Frank Thomas,H,Vanderbilt,SEC,Ray Morrison,W,7,0
+1938-09-24,Purdue,Western,Mal Elward,H,Detroit Mercy,Ind,Gus Dorais,W,19,6
+1938-10-08,Purdue,Western,Mal Elward,A,Minnesota,Western,Bernie Bierman,L,0,7
+1938-10-15,Purdue,Western,Mal Elward,A,Fordham,Ind,Jimmy Crowley,T,6,6
+1938-10-22,Purdue,Western,Mal Elward,H,Wisconsin,Western,Harry Stuhldreher,W,13,7
+1938-10-29,Purdue,Western,Mal Elward,A,Iowa,Western,Irl Tubbs,T,0,0
+1938-11-05,Purdue,Western,Mal Elward,A,Ohio State,Western,Francis Schmidt,W,12,0
+1938-11-19,Purdue,Western,Mal Elward,H,Indiana,Western,Bo McMillin,W,13,6
+1938-10-01,Nebraska,Big 6,Biff Jones,A,Minnesota,Western,Bernie Bierman,L,7,16
+1938-10-08,Nebraska,Big 6,Biff Jones,H,Iowa State,Big 6,Jim Yeager,L,7,8
+1938-10-15,Nebraska,Big 6,Biff Jones,H,Indiana,Western,Bo McMillin,T,0,0
+1938-10-22,Nebraska,Big 6,Biff Jones,A,Oklahoma,Big 6,Tom Stidham,L,0,14
+1938-10-29,Nebraska,Big 6,Biff Jones,H,Missouri,Big 6,Don Faurot,L,10,13
+1938-11-05,Nebraska,Big 6,Biff Jones,A,Kansas,Big 6,Adrian Lindsey,W,16,7
+1938-11-12,Nebraska,Big 6,Biff Jones,H,Pitt,Ind,Jock Sutherland,L,0,19
+1938-11-19,Nebraska,Big 6,Biff Jones,A,Iowa,Western,Irl Tubbs,W,14,0
+1938-11-24,Nebraska,Big 6,Biff Jones,H,Kansas State,Big 6,Wesley Fry,W,14,7
+1938-09-24,West Virginia,Ind,Marshall Glenn,A,Pitt,Ind,Jock Sutherland,L,0,19
+1938-10-08,West Virginia,Ind,Marshall Glenn,N,Washington & Lee,Southern,Tex Tilson,T,6,6
+1938-10-15,West Virginia,Ind,Marshall Glenn,H,Michigan State,Ind,Charlie Bachman,L,0,26
+1938-10-22,West Virginia,Ind,Marshall Glenn,A,Creighton,MVC,Marchy Schwartz,W,20,13
+1938-11-12,West Virginia,Ind,Marshall Glenn,H,Georgetown,Ind,Jack Hagerty,L,0,14
+1938-11-19,West Virginia,Ind,Marshall Glenn,A,Manhattan,Ind,Herb Kopf,L,0,13
+1938-11-24,West Virginia,Ind,Marshall Glenn,A,George Washington,Ind,,W,7,6
+1938-10-01,Harvard,Ind,Dick Harlow,H,Brown,Ind,DeOrmond McLaughry,L,13,20
+1938-10-08,Harvard,Ind,Dick Harlow,H,Cornell,Ind,Carl Snavely,L,0,20
+1938-10-15,Harvard,Ind,Dick Harlow,H,Army,Ind,William Wood,L,17,20
+1938-10-22,Harvard,Ind,Dick Harlow,H,Dartmouth,Ind,Red Blaik,L,7,13
+1938-10-29,Harvard,Ind,Dick Harlow,H,Princeton,Ind,Tad Wieman,W,26,7
+1938-11-05,Harvard,Ind,Dick Harlow,H,Chicago,Western,Clark Shaughnessy,W,47,13
+1938-11-12,Harvard,Ind,Dick Harlow,H,Virginia,Ind,Frank Murray,W,40,13
+1938-11-19,Harvard,Ind,Dick Harlow,A,Yale,Ind,Ducky Pond,W,7,0
+1938-09-24,Oklahoma State,MVC,Ted Cox,A,Arkansas,SWC,Fred Thomsen,L,7,27
+1938-10-01,Oklahoma State,MVC,Ted Cox,A,Baylor,SWC,Morley Jennings,L,6,20
+1938-10-08,Oklahoma State,MVC,Ted Cox,A,Creighton,MVC,Marchy Schwartz,L,7,16
+1938-10-22,Oklahoma State,MVC,Ted Cox,A,Tulsa,MVC,Vic Hurt,L,7,20
+1938-10-29,Oklahoma State,MVC,Ted Cox,H,Washburn,MVC,Elmer Holm,L,0,14
+1938-11-05,Oklahoma State,MVC,Ted Cox,H,Washington (MO),MVC,Jimmy Conzelman,L,0,24
+1938-11-24,Oklahoma State,MVC,Ted Cox,H,Oklahoma,Big 6,Tom Stidham,L,0,19
+1938-10-01,Colorado,MSAC,Bunny Oakes,A,Missouri,Big 6,Don Faurot,L,7,14
+1938-10-08,Colorado,MSAC,Bunny Oakes,A,Utah State,MSAC,E. Lowell Romney,L,0,20
+1938-10-15,Colorado,MSAC,Bunny Oakes,H,George Washington,Ind,,L,0,13
+1938-10-22,Colorado,MSAC,Bunny Oakes,A,Colorado State,MSAC,Harry Hughes,W,31,6
+1938-10-29,Colorado,MSAC,Bunny Oakes,H,Wyoming,MSAC,Dutch Witte,W,20,6
+1938-11-05,Colorado,MSAC,Bunny Oakes,H,Utah,MSAC,Ike Armstrong,T,0,0
+1938-11-12,Colorado,MSAC,Bunny Oakes,H,Brigham Young,MSAC,Edwin Kimball,W,8,0
+1938-11-24,Colorado,MSAC,Bunny Oakes,A,Denver,MSAC,William Saunders,L,12,19
+1938-10-01,Colorado State,MSAC,Harry Hughes,A,Wyoming,MSAC,Dutch Witte,T,0,0
+1938-10-08,Colorado State,MSAC,Harry Hughes,A,Denver,MSAC,William Saunders,T,0,0
+1938-10-22,Colorado State,MSAC,Harry Hughes,H,Colorado,MSAC,Bunny Oakes,L,6,31
+1938-10-29,Colorado State,MSAC,Harry Hughes,H,Utah State,MSAC,E. Lowell Romney,L,0,6
+1938-11-12,Colorado State,MSAC,Harry Hughes,A,Utah,MSAC,Ike Armstrong,L,0,13
+1938-11-19,Colorado State,MSAC,Harry Hughes,H,Brigham Young,MSAC,Edwin Kimball,L,12,20
+1938-11-24,Colorado State,MSAC,Harry Hughes,A,New Mexico,BIAA,Ted Shipkey,L,7,27
+1938-10-01,Rice,SWC,Jimmy Kitts,H,Oklahoma,Big 6,Tom Stidham,L,6,7
+1938-10-08,Rice,SWC,Jimmy Kitts,A,LSU,SEC,Bernie Moore,L,0,3
+1938-10-15,Rice,SWC,Jimmy Kitts,A,Tulane,SEC,Red Dawson,L,17,26
+1938-10-22,Rice,SWC,Jimmy Kitts,H,Texas,SWC,Dana Bible,W,13,6
+1938-10-29,Rice,SWC,Jimmy Kitts,H,Auburn,SEC,Jack Meagher,W,14,0
+1938-11-05,Rice,SWC,Jimmy Kitts,A,Arkansas,SWC,Fred Thomsen,W,3,0
+1938-11-12,Rice,SWC,Jimmy Kitts,A,Texas A&M,SWC,Homer Norton,L,0,27
+1938-11-19,Rice,SWC,Jimmy Kitts,H,Texas Christian,SWC,Dutch Meyer,L,7,29
+1938-11-26,Rice,SWC,Jimmy Kitts,H,Baylor,SWC,Morley Jennings,L,6,21
+1938-12-03,Rice,SWC,Jimmy Kitts,H,SMU,SWC,Madison Bell,W,25,14
+1938-10-01,Texas A&M,SWC,Homer Norton,H,Tulsa,MVC,Vic Hurt,W,20,0
+1938-10-08,Texas A&M,SWC,Homer Norton,H,Santa Clara,Ind,Buck Shaw,L,0,7
+1938-10-15,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,L,6,34
+1938-10-22,Texas A&M,SWC,Homer Norton,A,Baylor,SWC,Morley Jennings,T,6,6
+1938-10-29,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,Fred Thomsen,W,13,7
+1938-11-05,Texas A&M,SWC,Homer Norton,A,SMU,SWC,Madison Bell,L,7,10
+1938-11-12,Texas A&M,SWC,Homer Norton,H,Rice,SWC,Jimmy Kitts,W,27,0
+1938-11-24,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Dana Bible,L,6,7
+1938-09-17,Davidson,Southern,Gene McEver,A,Citadel,Southern,Tatum Gressette,W,12,6
+1938-09-24,Davidson,Southern,Gene McEver,N,North Carolina State,Southern,,L,7,19
+1938-10-01,Davidson,Southern,Gene McEver,N,Duke,Southern,Wallace Wade,L,0,27
+1938-10-14,Davidson,Southern,Gene McEver,A,South Carolina,Southern,Rex Enright,L,0,25
+1938-10-22,Davidson,Southern,Gene McEver,H,North Carolina,Southern,Raymond Wolf,L,0,34
+1938-10-29,Davidson,Southern,Gene McEver,A,Furman,Southern,,W,13,12
+1938-11-12,Davidson,Southern,Gene McEver,H,Virginia Military Institute,Southern,,L,6,19
+1938-11-24,Davidson,Southern,Gene McEver,N,Wake Forest,Southern,D.C. Walker,L,0,21
+1938-09-24,Washington (MO),MVC,Jimmy Conzelman,H,Vanderbilt,SEC,Ray Morrison,L,0,20
+1938-10-01,Washington (MO),MVC,Jimmy Conzelman,H,Drake,MVC,Vee Green,W,25,13
+1938-10-08,Washington (MO),MVC,Jimmy Conzelman,A,Tulsa,MVC,Vic Hurt,L,0,14
+1938-10-22,Washington (MO),MVC,Jimmy Conzelman,H,Missouri,Big 6,Don Faurot,L,0,13
+1938-11-05,Washington (MO),MVC,Jimmy Conzelman,A,Oklahoma State,MVC,Ted Cox,W,24,0
+1938-11-26,Washington (MO),MVC,Jimmy Conzelman,H,Saint Louis,MVC,,T,0,0
+1938-10-01,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Fritz Crisler,L,0,14
+1938-10-15,Michigan State,Ind,Charlie Bachman,A,West Virginia,Ind,Marshall Glenn,W,26,0
+1938-10-22,Michigan State,Ind,Charlie Bachman,H,Syracuse,Ind,Ossie Solem,W,19,12
+1938-10-29,Michigan State,Ind,Charlie Bachman,H,Santa Clara,Ind,Buck Shaw,L,6,7
+1938-11-05,Michigan State,Ind,Charlie Bachman,A,Missouri,Big 6,Don Faurot,L,0,6
+1938-11-12,Michigan State,Ind,Charlie Bachman,A,Marquette,Ind,Paddy Driscoll,W,20,14
+1938-11-19,Michigan State,Ind,Charlie Bachman,H,Temple,Ind,Pop Warner,W,10,0
+1938-10-12,Boston College,Ind,Gilmour Dobie,H,Detroit Mercy,Ind,Gus Dorais,W,9,6
+1938-10-21,Boston College,Ind,Gilmour Dobie,A,Temple,Ind,Pop Warner,T,26,26
+1938-10-29,Boston College,Ind,Gilmour Dobie,H,Florida,SEC,Josh Cody,W,33,0
+1938-11-05,Boston College,Ind,Gilmour Dobie,H,Indiana,Western,Bo McMillin,W,14,0
+1938-11-26,Boston College,Ind,Gilmour Dobie,N,Holy Cross,Ind,Edward Anderson,L,7,29
+1938-10-08,Chicago,Western,Clark Shaughnessy,A,Michigan,Western,Fritz Crisler,L,7,45
+1938-10-15,Chicago,Western,Clark Shaughnessy,H,Iowa,Western,Irl Tubbs,L,14,27
+1938-10-22,Chicago,Western,Clark Shaughnessy,A,Ohio State,Western,Francis Schmidt,L,7,42
+1938-11-05,Chicago,Western,Clark Shaughnessy,A,Harvard,Ind,Dick Harlow,L,13,47
+1938-11-19,Chicago,Western,Clark Shaughnessy,H,Illinois,Western,Robert Zuppke,L,0,34
+1938-10-01,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,Carl Snavely,L,6,15
+1938-10-08,Colgate,Ind,Andrew Kerr,H,Duke,Southern,Wallace Wade,L,0,7
+1938-10-15,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,W,12,0
+1938-10-22,Colgate,Ind,Andrew Kerr,A,Iowa,Western,Irl Tubbs,W,14,0
+1938-10-29,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,Edward Anderson,L,0,21
+1938-11-05,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,L,0,7
+1938-11-11,Colgate,Ind,Andrew Kerr,A,New York University,Ind,Mal Stevens,L,7,13
+1938-10-08,New Mexico State,BIAA,Gerald Hines,A,Arizona,BIAA,Orian Landreth,W,7,6
+1938-10-22,New Mexico State,BIAA,Gerald Hines,A,Arizona State,BIAA,Dixie Howell,W,14,12
+1938-10-28,New Mexico State,BIAA,Gerald Hines,H,Northern Arizona,BIAA,Garrett Arbelbide,W,34,0
+1938-11-12,New Mexico State,BIAA,Gerald Hines,A,New Mexico,BIAA,Ted Shipkey,L,2,6
+1938-11-24,New Mexico State,BIAA,Gerald Hines,A,UTEP,BIAA,Mack Saxon,W,13,9
+1938-12-02,New Mexico State,BIAA,Gerald Hines,H,Drake,MVC,Vee Green,W,20,16
+1938-10-08,Washburn,MVC,Elmer Holm,A,Kansas,Big 6,Adrian Lindsey,L,14,58
+1938-10-29,Washburn,MVC,Elmer Holm,A,Oklahoma State,MVC,Ted Cox,W,14,0
+1938-11-19,Washburn,MVC,Elmer Holm,A,Kansas State,Big 6,Wesley Fry,L,14,41
+1938-09-24,Minnesota,Western,Bernie Bierman,H,Washington,PCC,James Phelan,W,15,0
+1938-10-01,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Biff Jones,W,16,7
+1938-10-08,Minnesota,Western,Bernie Bierman,H,Purdue,Western,Mal Elward,W,7,0
+1938-10-15,Minnesota,Western,Bernie Bierman,H,Michigan,Western,Fritz Crisler,W,7,6
+1938-10-29,Minnesota,Western,Bernie Bierman,A,Northwestern,Western,Pappy Waldorf,L,3,6
+1938-11-05,Minnesota,Western,Bernie Bierman,H,Iowa,Western,Irl Tubbs,W,28,0
+1938-11-12,Minnesota,Western,Bernie Bierman,A,Notre Dame,Ind,Elmer Layden,L,0,19
+1938-11-19,Minnesota,Western,Bernie Bierman,A,Wisconsin,Western,Harry Stuhldreher,W,21,0
+1938-09-24,Ole Miss,SEC,Harry Mehre,A,LSU,SEC,Bernie Moore,W,20,7
+1938-10-15,Ole Miss,SEC,Harry Mehre,A,Vanderbilt,SEC,Ray Morrison,L,7,13
+1938-10-22,Ole Miss,SEC,Harry Mehre,H,Centenary (LA),Ind,Curtis Player,W,47,14
+1938-10-29,Ole Miss,SEC,Harry Mehre,A,George Washington,Ind,,W,25,0
+1938-11-05,Ole Miss,SEC,Harry Mehre,A,Saint Louis,MVC,,W,14,12
+1938-11-12,Ole Miss,SEC,Harry Mehre,H,Sewanee,SEC,Heck Clark,W,39,0
+1938-11-16,Ole Miss,SEC,Harry Mehre,N,Arkansas,SWC,Fred Thomsen,W,20,14
+1938-11-26,Ole Miss,SEC,Harry Mehre,A,Mississippi State,SEC,Spike Nelson,W,19,6
+1938-12-03,Ole Miss,SEC,Harry Mehre,N,Tennessee,SEC,Bob Neyland,L,0,47
+1938-09-24,Duke,Southern,Wallace Wade,H,Virginia Tech,Southern,Henry Redd,W,18,0
+1938-10-01,Duke,Southern,Wallace Wade,N,Davidson,Southern,Gene McEver,W,27,0
+1938-10-08,Duke,Southern,Wallace Wade,A,Colgate,Ind,Andrew Kerr,W,7,0
+1938-10-15,Duke,Southern,Wallace Wade,H,Georgia Tech,SEC,William Alexander,W,6,0
+1938-10-22,Duke,Southern,Wallace Wade,A,Wake Forest,Southern,D.C. Walker,W,7,0
+1938-10-29,Duke,Southern,Wallace Wade,A,North Carolina,Southern,Raymond Wolf,W,14,0
+1938-11-12,Duke,Southern,Wallace Wade,A,Syracuse,Ind,Ossie Solem,W,21,0
+1938-11-19,Duke,Southern,Wallace Wade,H,North Carolina State,Southern,,W,7,0
+1938-11-26,Duke,Southern,Wallace Wade,H,Pitt,Ind,Jock Sutherland,W,7,0
+1939-01-02,Duke,Southern,Wallace Wade,A,USC,PCC,Howard Jones,L,3,7
+1938-09-24,Sewanee,SEC,Heck Clark,A,Tennessee,SEC,Bob Neyland,L,3,26
+1938-10-08,Sewanee,SEC,Heck Clark,A,Florida,SEC,Josh Cody,L,6,10
+1938-10-22,Sewanee,SEC,Heck Clark,A,Alabama,SEC,Frank Thomas,L,0,32
+1938-11-05,Sewanee,SEC,Heck Clark,A,Vanderbilt,SEC,Ray Morrison,L,0,14
+1938-11-12,Sewanee,SEC,Heck Clark,A,Ole Miss,SEC,Harry Mehre,L,0,39
+1938-11-19,Sewanee,SEC,Heck Clark,A,Tulane,SEC,Red Dawson,L,0,38
+1938-10-01,San Francisco,Ind,George Malley,H,Montana,PCC,Doug Fessenden,T,0,0
+1938-10-23,San Francisco,Ind,George Malley,H,Saint Mary's (CA),Ind,Slip Madigan,L,6,13
+1938-11-06,San Francisco,Ind,George Malley,H,Santa Clara,Ind,Buck Shaw,L,0,7
+1938-11-19,San Francisco,Ind,George Malley,H,Gonzaga,Ind,Mike Pecarovich,W,8,0
+1938-09-24,Navy,Ind,Hank Hardwick,H,William & Mary,Southern,,W,26,0
+1938-10-01,Navy,Ind,Hank Hardwick,H,Virginia Military Institute,Southern,,W,26,0
+1938-10-08,Navy,Ind,Hank Hardwick,H,Virginia,Ind,Frank Murray,W,33,0
+1938-10-15,Navy,Ind,Hank Hardwick,A,Yale,Ind,Ducky Pond,L,7,9
+1938-10-22,Navy,Ind,Hank Hardwick,H,Princeton,Ind,Tad Wieman,T,13,13
+1938-10-29,Navy,Ind,Hank Hardwick,A,Pennsylvania,Ind,George Munger,T,0,0
+1938-11-05,Navy,Ind,Hank Hardwick,H,Notre Dame,Ind,Elmer Layden,L,0,15
+1938-11-12,Navy,Ind,Hank Hardwick,A,Columbia,Ind,Lou Little,W,14,9
+1938-11-26,Navy,Ind,Hank Hardwick,N,Army,Ind,William Wood,L,7,14
+1938-09-24,Texas Tech,BIAA,Pete Cawthon,H,Wyoming,MSAC,Dutch Witte,W,39,0
+1938-09-30,Texas Tech,BIAA,Pete Cawthon,A,Duquesne,Ind,Clipper Smith,W,7,6
+1938-10-15,Texas Tech,BIAA,Pete Cawthon,A,Montana,PCC,Doug Fessenden,W,19,13
+1938-10-22,Texas Tech,BIAA,Pete Cawthon,A,UTEP,BIAA,Mack Saxon,W,14,7
+1938-11-11,Texas Tech,BIAA,Pete Cawthon,H,Gonzaga,Ind,Mike Pecarovich,W,7,0
+1938-11-19,Texas Tech,BIAA,Pete Cawthon,A,New Mexico,BIAA,Ted Shipkey,W,17,7
+1938-11-26,Texas Tech,BIAA,Pete Cawthon,H,Marquette,Ind,Paddy Driscoll,W,21,2
+1939-01-02,Texas Tech,BIAA,Pete Cawthon,N,Saint Mary's (CA),Ind,Slip Madigan,L,13,20
+1938-09-24,Tulane,SEC,Red Dawson,H,Clemson,Southern,Jess Neely,L,10,13
+1938-10-01,Tulane,SEC,Red Dawson,H,Auburn,SEC,Jack Meagher,T,0,0
+1938-10-08,Tulane,SEC,Red Dawson,A,North Carolina,Southern,Raymond Wolf,W,17,14
+1938-10-15,Tulane,SEC,Red Dawson,H,Rice,SWC,Jimmy Kitts,W,26,17
+1938-10-29,Tulane,SEC,Red Dawson,H,Mississippi State,SEC,Spike Nelson,W,27,0
+1938-11-05,Tulane,SEC,Red Dawson,A,Alabama,SEC,Frank Thomas,L,0,3
+1938-11-12,Tulane,SEC,Red Dawson,H,Georgia,SEC,Joel Hunt,W,28,6
+1938-11-19,Tulane,SEC,Red Dawson,H,Sewanee,SEC,Heck Clark,W,38,0
+1938-11-26,Tulane,SEC,Red Dawson,A,LSU,SEC,Bernie Moore,W,14,0
+1938-10-01,Cornell,Ind,Carl Snavely,H,Colgate,Ind,Andrew Kerr,W,15,6
+1938-10-08,Cornell,Ind,Carl Snavely,A,Harvard,Ind,Dick Harlow,W,20,0
+1938-10-15,Cornell,Ind,Carl Snavely,A,Syracuse,Ind,Ossie Solem,L,17,19
+1938-10-22,Cornell,Ind,Carl Snavely,H,Penn State,Ind,Bob Higgins,W,21,6
+1938-10-29,Cornell,Ind,Carl Snavely,A,Columbia,Ind,Lou Little,W,23,7
+1938-11-12,Cornell,Ind,Carl Snavely,H,Dartmouth,Ind,Red Blaik,W,14,7
+1938-11-24,Cornell,Ind,Carl Snavely,A,Pennsylvania,Ind,George Munger,T,0,0
+1938-10-01,Ohio State,Western,Francis Schmidt,H,Indiana,Western,Bo McMillin,W,6,0
+1938-10-08,Ohio State,Western,Francis Schmidt,H,USC,PCC,Howard Jones,L,7,14
+1938-10-15,Ohio State,Western,Francis Schmidt,A,Northwestern,Western,Pappy Waldorf,T,0,0
+1938-10-22,Ohio State,Western,Francis Schmidt,H,Chicago,Western,Clark Shaughnessy,W,42,7
+1938-10-29,Ohio State,Western,Francis Schmidt,A,New York University,Ind,Mal Stevens,W,32,0
+1938-11-05,Ohio State,Western,Francis Schmidt,H,Purdue,Western,Mal Elward,L,0,12
+1938-11-12,Ohio State,Western,Francis Schmidt,A,Illinois,Western,Robert Zuppke,W,32,14
+1938-11-19,Ohio State,Western,Francis Schmidt,H,Michigan,Western,Fritz Crisler,L,0,18
+1938-10-01,Drake,MVC,Vee Green,A,Washington (MO),MVC,Jimmy Conzelman,L,13,25
+1938-10-08,Drake,MVC,Vee Green,A,Northwestern,Western,Pappy Waldorf,L,0,33
+1938-10-15,Drake,MVC,Vee Green,H,Creighton,MVC,Marchy Schwartz,T,7,7
+1938-10-22,Drake,MVC,Vee Green,H,Miami (FL),Ind,Jack Harding,W,18,6
+1938-11-05,Drake,MVC,Vee Green,A,Iowa State,Big 6,Jim Yeager,L,0,14
+1938-11-12,Drake,MVC,Vee Green,H,Tulsa,MVC,Vic Hurt,W,27,7
+1938-12-02,Drake,MVC,Vee Green,A,New Mexico State,BIAA,Gerald Hines,L,16,20

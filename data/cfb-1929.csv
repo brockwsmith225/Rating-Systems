@@ -1,0 +1,635 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1929-09-28,North Carolina,Southern,Chuck Collins,H,Wake Forest,Ind,F.S. Miller,W,48,0
+1929-10-05,North Carolina,Southern,Chuck Collins,A,Maryland,Southern,Curley Byrd,W,43,0
+1929-10-12,North Carolina,Southern,Chuck Collins,A,Georgia Tech,Southern,William Alexander,W,18,7
+1929-10-19,North Carolina,Southern,Chuck Collins,H,Georgia,Southern,Harry Mehre,L,12,19
+1929-10-26,North Carolina,Southern,Chuck Collins,H,Virginia Tech,Southern,Andy Gustafson,W,38,13
+1929-11-02,North Carolina,Southern,Chuck Collins,H,North Carolina State,Southern,Gus Tebell,W,32,0
+1929-11-09,North Carolina,Southern,Chuck Collins,A,South Carolina,Southern,Billy Laval,W,40,0
+1929-11-16,North Carolina,Southern,Chuck Collins,N,Davidson,Ind,Monk Younger,W,26,7
+1929-11-28,North Carolina,Southern,Chuck Collins,H,Virginia,Southern,Earl Abell,W,41,7
+1929-12-07,North Carolina,Southern,Chuck Collins,A,Duke,Southern,Jimmy DeHart,W,48,7
+1929-10-05,Indiana,Western,Pat Page,H,Notre Dame,Ind,Knute Rockne,L,0,14
+1929-10-12,Indiana,Western,Pat Page,A,Chicago,Western,Amos Alonzo Stagg,L,7,13
+1929-10-19,Indiana,Western,Pat Page,H,Colgate,Ind,Andrew Kerr,L,6,21
+1929-10-26,Indiana,Western,Pat Page,A,Ohio State,Western,Sam Willaman,T,0,0
+1929-11-02,Indiana,Western,Pat Page,A,Minnesota,Western,Clarence Spears,L,7,19
+1929-11-16,Indiana,Western,Pat Page,A,Northwestern,Western,Dick Hanley,W,19,14
+1929-11-23,Indiana,Western,Pat Page,H,Purdue,Western,James Phelan,L,0,32
+1929-10-05,Iowa State,Big 6,C. Noel Workman,H,Grinnell,MVC,Lester Watt,W,27,7
+1929-10-12,Iowa State,Big 6,C. Noel Workman,H,Missouri,Big 6,Gwinn Henry,L,0,19
+1929-10-18,Iowa State,Big 6,C. Noel Workman,A,Marquette,Ind,Frank Murray,L,6,14
+1929-10-26,Iowa State,Big 6,C. Noel Workman,H,Kansas,Big 6,Bill Hargiss,L,0,33
+1929-11-02,Iowa State,Big 6,C. Noel Workman,A,Oklahoma,Big 6,Adrian Lindsey,L,7,21
+1929-11-09,Iowa State,Big 6,C. Noel Workman,A,Kansas State,Big 6,Bo McMillin,L,2,3
+1929-11-16,Iowa State,Big 6,C. Noel Workman,H,Drake,MVC,Ossie Solem,L,0,7
+1929-11-28,Iowa State,Big 6,C. Noel Workman,A,Nebraska,Big 6,Dana Bible,L,12,31
+1929-10-12,Fordham,Ind,Frank Cavanaugh,N,New York University,Ind,,W,26,0
+1929-11-05,Fordham,Ind,Frank Cavanaugh,H,West Virginia,Ind,Rat Rogers,T,0,0
+1929-10-19,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Myron Witham,W,40,0
+1929-10-26,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,21,0
+1929-11-02,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,45,13
+1929-11-09,Utah,RMC,Ike Armstrong,A,Colorado College,RMC,W.T. VandeGraaff,W,12,3
+1929-11-16,Utah,RMC,Ike Armstrong,A,Wyoming,RMC,George McLaren,W,44,0
+1929-11-28,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,26,7
+1929-10-12,Northern Colorado,RMC,William Saunders,A,Colorado,RMC,Myron Witham,L,0,19
+1929-10-19,Northern Colorado,RMC,William Saunders,H,Western State,RMC,Stewart Clark,W,6,0
+1929-10-26,Northern Colorado,RMC,William Saunders,H,Colorado Mines,RMC,George Allen,W,16,13
+1929-11-02,Northern Colorado,RMC,William Saunders,H,Wyoming,RMC,George McLaren,W,6,0
+1929-11-11,Northern Colorado,RMC,William Saunders,A,Brigham Young,RMC,Ott Romney,L,13,25
+1929-11-23,Northern Colorado,RMC,William Saunders,A,Regis (CO),Ind,,L,0,13
+1929-10-04,Washington & Lee,Southern,Eugene Oberst,A,North Carolina State,Southern,Gus Tebell,W,27,6
+1929-10-12,Washington & Lee,Southern,Eugene Oberst,A,Kentucky,Southern,Harry Gamage,L,6,20
+1929-10-19,Washington & Lee,Southern,Eugene Oberst,N,West Virginia,Ind,Rat Rogers,L,6,26
+1929-10-26,Washington & Lee,Southern,Eugene Oberst,H,Tennessee,Southern,Bob Neyland,L,0,39
+1929-11-02,Washington & Lee,Southern,Eugene Oberst,N,Virginia Tech,Southern,Andy Gustafson,L,6,36
+1929-11-16,Washington & Lee,Southern,Eugene Oberst,H,Virginia,Southern,Earl Abell,T,13,13
+1929-11-28,Washington & Lee,Southern,Eugene Oberst,A,Florida,Southern,Charlie Bachman,L,7,25
+1929-10-12,Syracuse,Ind,Lew Andreas,H,Nebraska,Big 6,Dana Bible,L,6,13
+1929-10-26,Syracuse,Ind,Lew Andreas,A,Brown,Ind,DeOrmond McLaughry,W,6,0
+1929-11-02,Syracuse,Ind,Lew Andreas,H,Penn State,Ind,Hugo Bezdek,L,4,6
+1929-11-16,Syracuse,Ind,Lew Andreas,H,Colgate,Ind,Andrew Kerr,L,0,21
+1929-11-28,Syracuse,Ind,Lew Andreas,A,Columbia,Ind,Charles Crowley,W,6,0
+1929-11-02,Georgetown,Ind,Lou Little,A,New York University,Ind,,W,14,0
+1929-11-09,Georgetown,Ind,Lou Little,A,Navy,Ind,William Ingram,T,0,0
+1929-11-16,Georgetown,Ind,Lou Little,H,West Virginia,Ind,Rat Rogers,T,0,0
+1929-11-30,Georgetown,Ind,Lou Little,A,Detroit Mercy,Ind,Gus Dorais,L,13,14
+1929-10-05,Montana,PCC,Frank Millburn,A,Washington,PCC,Enoch Bagshaw,T,6,6
+1929-10-12,Montana,PCC,Frank Millburn,A,Idaho,PCC,Leo Calland,L,0,19
+1929-10-19,Montana,PCC,Frank Millburn,N,Montana State,RMC,Schubert Dyche,L,12,14
+1929-11-09,Montana,PCC,Frank Millburn,A,California,PCC,Nibs Price,L,18,53
+1929-11-16,Montana,PCC,Frank Millburn,H,Washington State,PCC,O.E. Hollingbery,L,0,13
+1929-11-28,Montana,PCC,Frank Millburn,A,UCLA,PCC,William Spaulding,L,0,14
+1929-10-19,Penn State,Ind,Hugo Bezdek,A,New York University,Ind,,L,0,7
+1929-11-02,Penn State,Ind,Hugo Bezdek,A,Syracuse,Ind,Lew Andreas,W,6,4
+1929-11-09,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,Lou Young,W,19,7
+1929-11-28,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Jock Sutherland,L,7,20
+1929-10-12,Princeton,Ind,,H,Brown,Ind,DeOrmond McLaughry,L,12,13
+1929-10-19,Princeton,Ind,,A,Cornell,Ind,Gilmour Dobie,L,7,13
+1929-10-26,Princeton,Ind,,H,Navy,Ind,William Ingram,T,13,13
+1929-11-02,Princeton,Ind,,H,Chicago,Western,Amos Alonzo Stagg,L,7,15
+1929-11-16,Princeton,Ind,,A,Yale,Ind,Mal Stevens,L,0,13
+1929-09-28,Vanderbilt,Southern,Dan McGugin,H,Ole Miss,Southern,Homer Hazel,W,19,7
+1929-10-12,Vanderbilt,Southern,Dan McGugin,A,Minnesota,Western,Clarence Spears,L,6,15
+1929-10-19,Vanderbilt,Southern,Dan McGugin,A,Auburn,Southern,Red Floyd,W,41,2
+1929-11-02,Vanderbilt,Southern,Dan McGugin,H,Alabama,Southern,Wallace Wade,W,13,0
+1929-11-09,Vanderbilt,Southern,Dan McGugin,H,Georgia Tech,Southern,William Alexander,W,23,7
+1929-11-16,Vanderbilt,Southern,Dan McGugin,A,Tennessee,Southern,Bob Neyland,L,0,13
+1929-11-23,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,W.H. Kirkpatrick,W,26,6
+1929-10-12,Colorado College,RMC,W.T. VandeGraaff,H,Colorado State,RMC,Harry Hughes,W,14,13
+1929-10-19,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Jeff Cravath,W,3,2
+1929-11-02,Colorado College,RMC,W.T. VandeGraaff,A,Utah State,RMC,,L,0,10
+1929-11-09,Colorado College,RMC,W.T. VandeGraaff,H,Utah,RMC,Ike Armstrong,L,3,12
+1929-11-16,Colorado College,RMC,W.T. VandeGraaff,H,Western State,RMC,Stewart Clark,W,54,21
+1929-11-23,Colorado College,RMC,W.T. VandeGraaff,A,Colorado,RMC,Myron Witham,L,7,13
+1929-11-28,Colorado College,RMC,W.T. VandeGraaff,N,Colorado Mines,RMC,George Allen,W,13,0
+1929-10-12,Kentucky,Southern,Harry Gamage,H,Washington & Lee,Southern,Eugene Oberst,W,20,6
+1929-11-02,Kentucky,Southern,Harry Gamage,H,Clemson,Southern,Josh Cody,W,44,6
+1929-11-09,Kentucky,Southern,Harry Gamage,A,Alabama,Southern,Wallace Wade,L,13,24
+1929-11-16,Kentucky,Southern,Harry Gamage,A,Virginia Military Institute,Southern,,W,23,12
+1929-11-28,Kentucky,Southern,Harry Gamage,H,Tennessee,Southern,Bob Neyland,T,6,6
+1929-10-12,California,PCC,Nibs Price,H,Washington State,PCC,O.E. Hollingbery,W,14,0
+1929-10-19,California,PCC,Nibs Price,A,Pennsylvania,Ind,Lou Young,W,12,7
+1929-11-02,California,PCC,Nibs Price,A,USC,PCC,Howard Jones,W,15,7
+1929-11-09,California,PCC,Nibs Price,H,Montana,PCC,Frank Millburn,W,53,18
+1929-11-16,California,PCC,Nibs Price,H,Washington,PCC,Enoch Bagshaw,W,7,0
+1929-11-23,California,PCC,Nibs Price,A,Stanford,PCC,Pop Warner,L,6,21
+1929-10-05,Florida,Southern,Charlie Bachman,H,Virginia Military Institute,Southern,,W,12,7
+1929-10-11,Florida,Southern,Charlie Bachman,A,Auburn,Southern,Red Floyd,W,19,0
+1929-10-19,Florida,Southern,Charlie Bachman,A,Georgia Tech,Southern,William Alexander,L,6,19
+1929-10-26,Florida,Southern,Charlie Bachman,H,Georgia,Southern,Harry Mehre,W,18,6
+1929-11-02,Florida,Southern,Charlie Bachman,A,Harvard,Ind,,L,0,14
+1929-11-16,Florida,Southern,Charlie Bachman,H,Clemson,Southern,Josh Cody,W,13,7
+1929-11-23,Florida,Southern,Charlie Bachman,A,South Carolina,Southern,Billy Laval,W,20,7
+1929-11-28,Florida,Southern,Charlie Bachman,H,Washington & Lee,Southern,Eugene Oberst,W,25,7
+1929-12-07,Florida,Southern,Charlie Bachman,H,Oregon,PCC,John McEwan,W,20,6
+1929-10-05,Stanford,PCC,Pop Warner,H,Oregon,PCC,John McEwan,W,33,7
+1929-10-12,Stanford,PCC,Pop Warner,A,UCLA,PCC,William Spaulding,W,57,0
+1929-10-19,Stanford,PCC,Pop Warner,H,Oregon State,PCC,Paul Schissler,W,40,7
+1929-10-26,Stanford,PCC,Pop Warner,H,USC,PCC,Howard Jones,L,0,7
+1929-11-09,Stanford,PCC,Pop Warner,A,Washington,PCC,Enoch Bagshaw,W,6,0
+1929-11-23,Stanford,PCC,Pop Warner,H,California,PCC,Nibs Price,W,21,6
+1929-12-28,Stanford,PCC,Pop Warner,H,Army,Ind,Biff Jones,W,34,13
+1929-10-12,Creighton,MVC,,A,Oklahoma,Big 6,Adrian Lindsey,L,0,26
+1929-10-19,Creighton,MVC,,A,Oklahoma State,MVC,Pappy Waldorf,L,13,32
+1929-11-01,Creighton,MVC,,A,Drake,MVC,Ossie Solem,L,12,34
+1929-11-09,Creighton,MVC,,H,Marquette,Ind,Frank Murray,W,13,6
+1929-11-23,Creighton,MVC,,H,Grinnell,MVC,Lester Watt,L,0,12
+1929-10-12,Washington State,PCC,O.E. Hollingbery,A,California,PCC,Nibs Price,L,0,14
+1929-10-19,Washington State,PCC,O.E. Hollingbery,H,Washington,PCC,Enoch Bagshaw,W,20,13
+1929-11-02,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Paul Schissler,W,9,0
+1929-11-09,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Leo Calland,W,41,7
+1929-11-16,Washington State,PCC,O.E. Hollingbery,A,Montana,PCC,Frank Millburn,W,13,0
+1929-11-30,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,L,7,27
+1929-10-12,Western State,RMC,Stewart Clark,H,Colorado Mines,RMC,George Allen,L,13,20
+1929-10-19,Western State,RMC,Stewart Clark,A,Northern Colorado,RMC,William Saunders,L,0,6
+1929-10-26,Western State,RMC,Stewart Clark,A,Brigham Young,RMC,Ott Romney,L,12,33
+1929-11-02,Western State,RMC,Stewart Clark,A,Colorado State,RMC,Harry Hughes,L,14,45
+1929-11-09,Western State,RMC,Stewart Clark,H,Regis (CO),Ind,,W,25,23
+1929-11-16,Western State,RMC,Stewart Clark,A,Colorado College,RMC,W.T. VandeGraaff,L,21,54
+1929-10-05,Illinois,Western,Robert Zuppke,H,Kansas,Big 6,Bill Hargiss,W,25,0
+1929-10-20,Illinois,Western,Robert Zuppke,A,Iowa,Western,Burton Ingwersen,T,7,7
+1929-10-26,Illinois,Western,Robert Zuppke,H,Michigan,Western,Harry Kipke,W,14,0
+1929-11-02,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Dick Hanley,L,0,7
+1929-11-09,Illinois,Western,Robert Zuppke,H,Army,Ind,Biff Jones,W,17,7
+1929-11-16,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,W,20,6
+1929-11-23,Illinois,Western,Robert Zuppke,A,Ohio State,Western,Sam Willaman,W,27,0
+1929-10-19,Baylor,SWC,Morley Jennings,H,Arkansas,SWC,Fred Thomsen,W,31,20
+1929-11-09,Baylor,SWC,Morley Jennings,A,Texas,SWC,Clyde Littlefield,T,0,0
+1929-11-16,Baylor,SWC,Morley Jennings,A,SMU,SWC,Ray Morrison,L,6,25
+1929-11-23,Baylor,SWC,Morley Jennings,H,Texas Christian,SWC,Francis Schmidt,L,7,34
+1929-11-30,Baylor,SWC,Morley Jennings,A,Rice,SWC,Jack Meagher,W,19,0
+1929-10-05,SMU,SWC,Ray Morrison,A,Nebraska,Big 6,Dana Bible,T,0,0
+1929-10-26,SMU,SWC,Ray Morrison,H,Ole Miss,Southern,Homer Hazel,W,52,0
+1929-11-02,SMU,SWC,Ray Morrison,H,Texas,SWC,Clyde Littlefield,T,0,0
+1929-11-09,SMU,SWC,Ray Morrison,A,Texas A&M,SWC,Madison Bell,W,12,7
+1929-11-16,SMU,SWC,Ray Morrison,H,Baylor,SWC,Morley Jennings,W,25,6
+1929-11-23,SMU,SWC,Ray Morrison,H,Rice,SWC,Jack Meagher,W,34,0
+1929-11-30,SMU,SWC,Ray Morrison,A,Texas Christian,SWC,Francis Schmidt,T,7,7
+1929-10-12,Georgia,Southern,Harry Mehre,H,Yale,Ind,Mal Stevens,W,15,0
+1929-10-19,Georgia,Southern,Harry Mehre,A,North Carolina,Southern,Chuck Collins,W,19,12
+1929-10-26,Georgia,Southern,Harry Mehre,A,Florida,Southern,Charlie Bachman,L,6,18
+1929-11-02,Georgia,Southern,Harry Mehre,H,Tulane,Southern,Bernie Bierman,L,15,21
+1929-11-09,Georgia,Southern,Harry Mehre,A,New York University,Ind,,L,19,27
+1929-11-16,Georgia,Southern,Harry Mehre,H,Auburn,Southern,Red Floyd,W,24,0
+1929-11-28,Georgia,Southern,Harry Mehre,A,Alabama,Southern,Wallace Wade,W,12,0
+1929-12-07,Georgia,Southern,Harry Mehre,H,Georgia Tech,Southern,William Alexander,W,12,6
+1929-10-05,Maryland,Southern,Curley Byrd,H,North Carolina,Southern,Chuck Collins,L,0,43
+1929-10-12,Maryland,Southern,Curley Byrd,H,South Carolina,Southern,Billy Laval,L,6,26
+1929-10-26,Maryland,Southern,Curley Byrd,N,Virginia Military Institute,Southern,,L,6,7
+1929-11-02,Maryland,Southern,Curley Byrd,H,Virginia,Southern,Earl Abell,T,13,13
+1929-11-09,Maryland,Southern,Curley Byrd,A,Yale,Ind,Mal Stevens,T,13,13
+1929-11-16,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,Andy Gustafson,W,24,0
+1929-10-05,Virginia,Southern,Earl Abell,A,South Carolina,Southern,Billy Laval,W,6,0
+1929-10-19,Virginia,Southern,Earl Abell,H,Virginia Military Institute,Southern,,L,7,20
+1929-11-02,Virginia,Southern,Earl Abell,A,Maryland,Southern,Curley Byrd,T,13,13
+1929-11-09,Virginia,Southern,Earl Abell,H,Virginia Tech,Southern,Andy Gustafson,L,12,32
+1929-11-16,Virginia,Southern,Earl Abell,A,Washington & Lee,Southern,Eugene Oberst,T,13,13
+1929-11-28,Virginia,Southern,Earl Abell,A,North Carolina,Southern,Chuck Collins,L,7,41
+1929-09-28,Idaho,PCC,Leo Calland,H,Montana State,RMC,Schubert Dyche,W,39,6
+1929-10-12,Idaho,PCC,Leo Calland,H,Montana,PCC,Frank Millburn,W,19,0
+1929-10-19,Idaho,PCC,Leo Calland,A,Oregon,PCC,John McEwan,L,7,34
+1929-10-26,Idaho,PCC,Leo Calland,A,Oregon State,PCC,Paul Schissler,L,0,27
+1929-11-09,Idaho,PCC,Leo Calland,A,Washington State,PCC,O.E. Hollingbery,L,7,41
+1929-11-23,Idaho,PCC,Leo Calland,A,USC,PCC,Howard Jones,L,0,72
+1929-10-12,Oklahoma,Big 6,Adrian Lindsey,H,Creighton,MVC,,W,26,0
+1929-10-19,Oklahoma,Big 6,Adrian Lindsey,N,Texas,SWC,Clyde Littlefield,L,0,21
+1929-10-26,Oklahoma,Big 6,Adrian Lindsey,A,Kansas State,Big 6,Bo McMillin,W,14,13
+1929-11-02,Oklahoma,Big 6,Adrian Lindsey,H,Iowa State,Big 6,C. Noel Workman,W,21,7
+1929-11-09,Oklahoma,Big 6,Adrian Lindsey,H,Kansas,Big 6,Bill Hargiss,L,0,7
+1929-11-16,Oklahoma,Big 6,Adrian Lindsey,A,Nebraska,Big 6,Dana Bible,T,13,13
+1929-11-23,Oklahoma,Big 6,Adrian Lindsey,H,Oklahoma State,MVC,Pappy Waldorf,T,7,7
+1929-11-28,Oklahoma,Big 6,Adrian Lindsey,A,Missouri,Big 6,Gwinn Henry,L,0,13
+1929-10-12,Virginia Tech,Southern,Andy Gustafson,A,Pennsylvania,Ind,Lou Young,L,8,14
+1929-10-26,Virginia Tech,Southern,Andy Gustafson,A,North Carolina,Southern,Chuck Collins,L,13,38
+1929-11-02,Virginia Tech,Southern,Andy Gustafson,N,Washington & Lee,Southern,Eugene Oberst,W,36,6
+1929-11-09,Virginia Tech,Southern,Andy Gustafson,A,Virginia,Southern,Earl Abell,W,32,12
+1929-11-16,Virginia Tech,Southern,Andy Gustafson,N,Maryland,Southern,Curley Byrd,L,0,24
+1929-11-28,Virginia Tech,Southern,Andy Gustafson,N,Virginia Military Institute,Southern,,L,0,14
+1929-10-12,Arkansas,SWC,Fred Thomsen,H,Texas,SWC,Clyde Littlefield,L,0,27
+1929-10-19,Arkansas,SWC,Fred Thomsen,A,Baylor,SWC,Morley Jennings,L,20,31
+1929-10-26,Arkansas,SWC,Fred Thomsen,A,Texas A&M,SWC,Madison Bell,W,14,13
+1929-11-02,Arkansas,SWC,Fred Thomsen,N,LSU,Southern,Russ Cohen,W,32,0
+1929-11-28,Arkansas,SWC,Fred Thomsen,A,Oklahoma State,MVC,Pappy Waldorf,W,32,6
+1929-09-28,Clemson,Southern,Josh Cody,N,Davidson,Ind,Monk Younger,W,32,14
+1929-10-05,Clemson,Southern,Josh Cody,H,Auburn,Southern,Red Floyd,W,26,7
+1929-10-11,Clemson,Southern,Josh Cody,H,North Carolina State,Southern,Gus Tebell,W,26,0
+1929-10-24,Clemson,Southern,Josh Cody,A,South Carolina,Southern,Billy Laval,W,21,14
+1929-11-02,Clemson,Southern,Josh Cody,A,Kentucky,Southern,Harry Gamage,L,6,44
+1929-11-09,Clemson,Southern,Josh Cody,A,Virginia Military Institute,Southern,,L,0,12
+1929-11-16,Clemson,Southern,Josh Cody,A,Florida,Southern,Charlie Bachman,L,7,13
+1929-10-05,South Carolina,Southern,Billy Laval,H,Virginia,Southern,Earl Abell,L,0,6
+1929-10-12,South Carolina,Southern,Billy Laval,A,Maryland,Southern,Curley Byrd,W,26,6
+1929-10-24,South Carolina,Southern,Billy Laval,H,Clemson,Southern,Josh Cody,L,14,21
+1929-11-09,South Carolina,Southern,Billy Laval,H,North Carolina,Southern,Chuck Collins,L,0,40
+1929-11-23,South Carolina,Southern,Billy Laval,H,Florida,Southern,Charlie Bachman,L,7,20
+1929-11-30,South Carolina,Southern,Billy Laval,A,North Carolina State,Southern,Gus Tebell,W,20,6
+1929-12-07,South Carolina,Southern,Billy Laval,A,Tennessee,Southern,Bob Neyland,L,0,54
+1929-10-05,Washington,PCC,Enoch Bagshaw,H,Montana,PCC,Frank Millburn,T,6,6
+1929-10-12,Washington,PCC,Enoch Bagshaw,H,USC,PCC,Howard Jones,L,0,48
+1929-10-19,Washington,PCC,Enoch Bagshaw,A,Washington State,PCC,O.E. Hollingbery,L,13,20
+1929-10-26,Washington,PCC,Enoch Bagshaw,H,Oregon,PCC,John McEwan,L,0,14
+1929-11-09,Washington,PCC,Enoch Bagshaw,H,Stanford,PCC,Pop Warner,L,0,6
+1929-11-16,Washington,PCC,Enoch Bagshaw,A,California,PCC,Nibs Price,L,0,7
+1929-11-23,Washington,PCC,Enoch Bagshaw,A,Chicago,Western,Amos Alonzo Stagg,L,6,26
+1929-10-05,Utah State,RMC,,A,Montana State,RMC,Schubert Dyche,W,9,0
+1929-10-19,Utah State,RMC,,N,Brigham Young,RMC,Ott Romney,L,6,7
+1929-10-26,Utah State,RMC,,A,Wyoming,RMC,George McLaren,W,12,7
+1929-11-02,Utah State,RMC,,H,Colorado College,RMC,W.T. VandeGraaff,W,10,0
+1929-11-09,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,6,7
+1929-11-16,Utah State,RMC,,A,Denver,RMC,Jeff Cravath,L,0,13
+1929-11-28,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,7,26
+1929-10-12,Missouri,Big 6,Gwinn Henry,A,Iowa State,Big 6,C. Noel Workman,W,19,0
+1929-10-19,Missouri,Big 6,Gwinn Henry,H,Drake,MVC,Ossie Solem,W,20,0
+1929-10-26,Missouri,Big 6,Gwinn Henry,H,Nebraska,Big 6,Dana Bible,T,7,7
+1929-11-02,Missouri,Big 6,Gwinn Henry,H,Kansas State,Big 6,Bo McMillin,L,6,7
+1929-11-09,Missouri,Big 6,Gwinn Henry,A,Washington (MO),MVC,Albert Sharpe,W,6,0
+1929-11-16,Missouri,Big 6,Gwinn Henry,A,New York University,Ind,,L,0,14
+1929-11-23,Missouri,Big 6,Gwinn Henry,A,Kansas,Big 6,Bill Hargiss,W,7,0
+1929-11-28,Missouri,Big 6,Gwinn Henry,H,Oklahoma,Big 6,Adrian Lindsey,W,13,0
+1929-09-28,Montana State,RMC,Schubert Dyche,A,Idaho,PCC,Leo Calland,L,6,39
+1929-10-05,Montana State,RMC,Schubert Dyche,H,Utah State,RMC,,L,0,9
+1929-10-12,Montana State,RMC,Schubert Dyche,A,Brigham Young,RMC,Ott Romney,W,13,12
+1929-10-19,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Frank Millburn,W,14,12
+1929-11-11,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,George McLaren,W,13,0
+1929-10-05,Denver,RMC,Jeff Cravath,H,Colorado Mines,RMC,George Allen,W,7,0
+1929-10-12,Denver,RMC,Jeff Cravath,H,Wyoming,RMC,George McLaren,W,19,6
+1929-10-19,Denver,RMC,Jeff Cravath,H,Colorado College,RMC,W.T. VandeGraaff,L,2,3
+1929-11-02,Denver,RMC,Jeff Cravath,A,Colorado,RMC,Myron Witham,T,0,0
+1929-11-16,Denver,RMC,Jeff Cravath,H,Utah State,RMC,,W,13,0
+1929-11-29,Denver,RMC,Jeff Cravath,H,Colorado State,RMC,Harry Hughes,W,19,6
+1929-12-07,Denver,RMC,Jeff Cravath,H,Regis (CO),Ind,,W,32,18
+1929-10-19,Washington & Jefferson,Ind,William Amos,H,Carnegie Mellon,Ind,Walter Steffen,T,0,0
+1929-11-09,Washington & Jefferson,Ind,William Amos,A,Pitt,Ind,Jock Sutherland,L,0,21
+1929-11-28,Washington & Jefferson,Ind,William Amos,A,West Virginia,Ind,Rat Rogers,L,0,6
+1929-10-05,Wisconsin,Western,Glenn Thistlethwaite,H,Colgate,Ind,Andrew Kerr,W,13,6
+1929-10-12,Wisconsin,Western,Glenn Thistlethwaite,H,Northwestern,Western,Dick Hanley,L,0,7
+1929-10-19,Wisconsin,Western,Glenn Thistlethwaite,N,Notre Dame,Ind,Knute Rockne,L,0,19
+1929-10-26,Wisconsin,Western,Glenn Thistlethwaite,H,Iowa,Western,Burton Ingwersen,L,0,14
+1929-11-02,Wisconsin,Western,Glenn Thistlethwaite,H,Purdue,Western,James Phelan,L,0,13
+1929-11-09,Wisconsin,Western,Glenn Thistlethwaite,A,Chicago,Western,Amos Alonzo Stagg,W,20,6
+1929-11-23,Wisconsin,Western,Glenn Thistlethwaite,A,Minnesota,Western,Clarence Spears,L,12,13
+1929-09-28,USC,PCC,Howard Jones,H,UCLA,PCC,William Spaulding,W,76,0
+1929-10-05,USC,PCC,Howard Jones,H,Oregon State,PCC,Paul Schissler,W,21,7
+1929-10-12,USC,PCC,Howard Jones,A,Washington,PCC,Enoch Bagshaw,W,48,0
+1929-10-26,USC,PCC,Howard Jones,A,Stanford,PCC,Pop Warner,W,7,0
+1929-11-02,USC,PCC,Howard Jones,H,California,PCC,Nibs Price,L,7,15
+1929-11-16,USC,PCC,Howard Jones,A,Notre Dame,Ind,Knute Rockne,L,12,13
+1929-11-23,USC,PCC,Howard Jones,H,Idaho,PCC,Leo Calland,W,72,0
+1929-11-30,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,W,27,7
+1929-12-14,USC,PCC,Howard Jones,H,Carnegie Mellon,Ind,Walter Steffen,W,45,13
+1930-01-01,USC,PCC,Howard Jones,H,Pitt,Ind,Jock Sutherland,W,47,14
+1929-10-05,Colorado Mines,RMC,George Allen,A,Denver,RMC,Jeff Cravath,L,0,7
+1929-10-12,Colorado Mines,RMC,George Allen,A,Western State,RMC,Stewart Clark,W,20,13
+1929-10-19,Colorado Mines,RMC,George Allen,H,Colorado State,RMC,Harry Hughes,L,0,12
+1929-10-26,Colorado Mines,RMC,George Allen,A,Northern Colorado,RMC,William Saunders,L,13,16
+1929-11-09,Colorado Mines,RMC,George Allen,H,Colorado,RMC,Myron Witham,L,9,13
+1929-11-16,Colorado Mines,RMC,George Allen,H,Regis (CO),Ind,,W,7,0
+1929-11-28,Colorado Mines,RMC,George Allen,N,Colorado College,RMC,W.T. VandeGraaff,L,0,13
+1929-10-04,North Carolina State,Southern,Gus Tebell,H,Washington & Lee,Southern,Eugene Oberst,L,6,27
+1929-10-11,North Carolina State,Southern,Gus Tebell,A,Clemson,Southern,Josh Cody,L,0,26
+1929-10-17,North Carolina State,Southern,Gus Tebell,H,Wake Forest,Ind,F.S. Miller,W,8,6
+1929-10-26,North Carolina State,Southern,Gus Tebell,A,Michigan State,Ind,Jimmy Crowley,L,6,40
+1929-11-02,North Carolina State,Southern,Gus Tebell,A,North Carolina,Southern,Chuck Collins,L,0,32
+1929-11-09,North Carolina State,Southern,Gus Tebell,H,Davidson,Ind,Monk Younger,L,0,13
+1929-11-16,North Carolina State,Southern,Gus Tebell,A,Duke,Southern,Jimmy DeHart,L,12,19
+1929-11-30,North Carolina State,Southern,Gus Tebell,H,South Carolina,Southern,Billy Laval,L,6,20
+1929-10-05,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Jimmy Crowley,W,17,0
+1929-10-12,Michigan,Western,Harry Kipke,A,Purdue,Western,James Phelan,L,16,30
+1929-10-19,Michigan,Western,Harry Kipke,H,Ohio State,Western,Sam Willaman,L,0,7
+1929-10-26,Michigan,Western,Harry Kipke,A,Illinois,Western,Robert Zuppke,L,0,14
+1929-11-09,Michigan,Western,Harry Kipke,H,Harvard,Ind,,W,14,12
+1929-11-16,Michigan,Western,Harry Kipke,A,Minnesota,Western,Clarence Spears,W,7,6
+1929-11-23,Michigan,Western,Harry Kipke,H,Iowa,Western,Burton Ingwersen,T,0,0
+1929-11-02,Detroit Mercy,Ind,Gus Dorais,H,Marquette,Ind,Frank Murray,T,6,6
+1929-11-09,Detroit Mercy,Ind,Gus Dorais,A,West Virginia,Ind,Rat Rogers,W,36,0
+1929-11-16,Detroit Mercy,Ind,Gus Dorais,A,Michigan State,Ind,Jimmy Crowley,W,25,0
+1929-11-23,Detroit Mercy,Ind,Gus Dorais,H,Oregon State,PCC,Paul Schissler,L,7,14
+1929-11-30,Detroit Mercy,Ind,Gus Dorais,H,Georgetown,Ind,Lou Little,W,14,13
+1929-10-05,Notre Dame,Ind,Knute Rockne,A,Indiana,Western,Pat Page,W,14,0
+1929-10-12,Notre Dame,Ind,Knute Rockne,A,Navy,Ind,William Ingram,W,14,7
+1929-10-19,Notre Dame,Ind,Knute Rockne,N,Wisconsin,Western,Glenn Thistlethwaite,W,19,0
+1929-10-26,Notre Dame,Ind,Knute Rockne,A,Carnegie Mellon,Ind,Walter Steffen,W,7,0
+1929-11-02,Notre Dame,Ind,Knute Rockne,A,Georgia Tech,Southern,William Alexander,W,26,6
+1929-11-09,Notre Dame,Ind,Knute Rockne,H,Drake,MVC,Ossie Solem,W,19,7
+1929-11-16,Notre Dame,Ind,Knute Rockne,H,USC,PCC,Howard Jones,W,13,12
+1929-11-23,Notre Dame,Ind,Knute Rockne,A,Northwestern,Western,Dick Hanley,W,26,6
+1929-11-30,Notre Dame,Ind,Knute Rockne,A,Army,Ind,Biff Jones,W,7,0
+1929-10-05,Pitt,Ind,Jock Sutherland,A,Duke,Southern,Jimmy DeHart,W,52,7
+1929-10-12,Pitt,Ind,Jock Sutherland,H,West Virginia,Ind,Rat Rogers,W,27,7
+1929-10-19,Pitt,Ind,Jock Sutherland,A,Nebraska,Big 6,Dana Bible,W,12,7
+1929-11-02,Pitt,Ind,Jock Sutherland,H,Ohio State,Western,Sam Willaman,W,18,2
+1929-11-09,Pitt,Ind,Jock Sutherland,H,Washington & Jefferson,Ind,William Amos,W,21,0
+1929-11-16,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Walter Steffen,W,34,13
+1929-11-28,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Hugo Bezdek,W,20,7
+1930-01-01,Pitt,Ind,Jock Sutherland,A,USC,PCC,Howard Jones,L,14,47
+1929-10-19,Carnegie Mellon,Ind,Walter Steffen,A,Washington & Jefferson,Ind,William Amos,T,0,0
+1929-10-26,Carnegie Mellon,Ind,Walter Steffen,H,Notre Dame,Ind,Knute Rockne,L,0,7
+1929-11-02,Carnegie Mellon,Ind,Walter Steffen,A,Washington (MO),MVC,Albert Sharpe,W,19,0
+1929-11-16,Carnegie Mellon,Ind,Walter Steffen,A,Pitt,Ind,Jock Sutherland,L,13,34
+1929-11-28,Carnegie Mellon,Ind,Walter Steffen,A,New York University,Ind,,W,20,0
+1929-12-14,Carnegie Mellon,Ind,Walter Steffen,A,USC,PCC,Howard Jones,L,13,45
+1929-10-04,Wyoming,RMC,George McLaren,A,Colorado State,RMC,Harry Hughes,L,7,20
+1929-10-12,Wyoming,RMC,George McLaren,A,Denver,RMC,Jeff Cravath,L,6,19
+1929-10-26,Wyoming,RMC,George McLaren,H,Utah State,RMC,,L,7,12
+1929-11-02,Wyoming,RMC,George McLaren,A,Northern Colorado,RMC,William Saunders,L,0,6
+1929-11-11,Wyoming,RMC,George McLaren,H,Montana State,RMC,Schubert Dyche,L,0,13
+1929-11-16,Wyoming,RMC,George McLaren,H,Utah,RMC,Ike Armstrong,L,0,44
+1929-11-23,Wyoming,RMC,George McLaren,A,Brigham Young,RMC,Ott Romney,L,0,40
+1929-10-12,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,L,12,13
+1929-10-19,Brigham Young,RMC,Ott Romney,N,Utah State,RMC,,W,7,6
+1929-10-26,Brigham Young,RMC,Ott Romney,H,Western State,RMC,Stewart Clark,W,33,12
+1929-11-02,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,13,45
+1929-11-11,Brigham Young,RMC,Ott Romney,H,Northern Colorado,RMC,William Saunders,W,25,13
+1929-11-23,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,George McLaren,W,40,0
+1929-10-12,Yale,Ind,Mal Stevens,A,Georgia,Southern,Harry Mehre,L,0,15
+1929-10-19,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,W,14,6
+1929-10-26,Yale,Ind,Mal Stevens,H,Army,Ind,Biff Jones,W,21,13
+1929-11-02,Yale,Ind,Mal Stevens,H,Dartmouth,Ind,Jack Cannell,W,16,12
+1929-11-09,Yale,Ind,Mal Stevens,H,Maryland,Southern,Curley Byrd,T,13,13
+1929-11-16,Yale,Ind,Mal Stevens,H,Princeton,Ind,,W,13,0
+1929-11-23,Yale,Ind,Mal Stevens,A,Harvard,Ind,,L,6,10
+1929-10-05,Grinnell,MVC,Lester Watt,A,Iowa State,Big 6,C. Noel Workman,L,7,27
+1929-10-12,Grinnell,MVC,Lester Watt,A,Marquette,Ind,Frank Murray,W,9,7
+1929-10-19,Grinnell,MVC,Lester Watt,H,Washington (MO),MVC,Albert Sharpe,T,0,0
+1929-10-26,Grinnell,MVC,Lester Watt,A,Drake,MVC,Ossie Solem,T,6,6
+1929-11-23,Grinnell,MVC,Lester Watt,A,Creighton,MVC,,W,12,0
+1929-10-05,Georgia Tech,Southern,William Alexander,H,Mississippi State,Southern,J.W. Hancock,W,27,13
+1929-10-12,Georgia Tech,Southern,William Alexander,H,North Carolina,Southern,Chuck Collins,L,7,18
+1929-10-19,Georgia Tech,Southern,William Alexander,H,Florida,Southern,Charlie Bachman,W,19,6
+1929-10-26,Georgia Tech,Southern,William Alexander,A,Tulane,Southern,Bernie Bierman,L,14,20
+1929-11-02,Georgia Tech,Southern,William Alexander,H,Notre Dame,Ind,Knute Rockne,L,6,26
+1929-11-09,Georgia Tech,Southern,William Alexander,A,Vanderbilt,Southern,Dan McGugin,L,7,23
+1929-11-16,Georgia Tech,Southern,William Alexander,H,Alabama,Southern,Wallace Wade,L,0,14
+1929-11-28,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Red Floyd,W,19,6
+1929-12-07,Georgia Tech,Southern,William Alexander,A,Georgia,Southern,Harry Mehre,L,6,12
+1929-09-28,Wake Forest,Ind,F.S. Miller,A,North Carolina,Southern,Chuck Collins,L,0,48
+1929-10-17,Wake Forest,Ind,F.S. Miller,A,North Carolina State,Southern,Gus Tebell,L,6,8
+1929-10-26,Wake Forest,Ind,F.S. Miller,N,Davidson,Ind,Monk Younger,W,6,0
+1929-11-16,Wake Forest,Ind,F.S. Miller,A,Navy,Ind,William Ingram,L,0,61
+1929-11-23,Wake Forest,Ind,F.S. Miller,A,Duke,Southern,Jimmy DeHart,L,0,20
+1929-10-05,Mississippi State,Southern,J.W. Hancock,A,Georgia Tech,Southern,William Alexander,L,13,27
+1929-10-12,Mississippi State,Southern,J.W. Hancock,A,Tulane,Southern,Bernie Bierman,L,0,34
+1929-10-19,Mississippi State,Southern,J.W. Hancock,H,LSU,Southern,Russ Cohen,L,6,31
+1929-11-09,Mississippi State,Southern,J.W. Hancock,H,Michigan State,Ind,Jimmy Crowley,L,19,33
+1929-11-28,Mississippi State,Southern,J.W. Hancock,A,Ole Miss,Southern,Homer Hazel,T,7,7
+1929-10-05,Virginia Military Institute,Southern,,A,Florida,Southern,Charlie Bachman,L,7,12
+1929-10-19,Virginia Military Institute,Southern,,A,Virginia,Southern,Earl Abell,W,20,7
+1929-10-26,Virginia Military Institute,Southern,,N,Maryland,Southern,Curley Byrd,W,7,6
+1929-11-02,Virginia Military Institute,Southern,,A,Davidson,Ind,Monk Younger,W,12,6
+1929-11-09,Virginia Military Institute,Southern,,H,Clemson,Southern,Josh Cody,W,12,0
+1929-11-16,Virginia Military Institute,Southern,,H,Kentucky,Southern,Harry Gamage,L,12,23
+1929-11-28,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Andy Gustafson,W,14,0
+1929-10-05,Kansas State,Big 6,Bo McMillin,A,Purdue,Western,James Phelan,L,14,26
+1929-10-12,Kansas State,Big 6,Bo McMillin,A,Texas A&M,SWC,Madison Bell,L,0,19
+1929-10-19,Kansas State,Big 6,Bo McMillin,A,Kansas,Big 6,Bill Hargiss,W,6,0
+1929-10-26,Kansas State,Big 6,Bo McMillin,H,Oklahoma,Big 6,Adrian Lindsey,L,13,14
+1929-11-02,Kansas State,Big 6,Bo McMillin,A,Missouri,Big 6,Gwinn Henry,W,7,6
+1929-11-09,Kansas State,Big 6,Bo McMillin,H,Iowa State,Big 6,C. Noel Workman,W,3,2
+1929-11-23,Kansas State,Big 6,Bo McMillin,H,Nebraska,Big 6,Dana Bible,L,6,10
+1929-11-25,Kansas State,Big 6,Bo McMillin,A,Marquette,Ind,Frank Murray,L,6,25
+1929-10-12,Army,Ind,Biff Jones,H,Davidson,Ind,Monk Younger,W,23,7
+1929-10-19,Army,Ind,Biff Jones,A,Harvard,Ind,,T,20,20
+1929-10-26,Army,Ind,Biff Jones,A,Yale,Ind,Mal Stevens,L,13,21
+1929-11-09,Army,Ind,Biff Jones,A,Illinois,Western,Robert Zuppke,L,7,17
+1929-11-30,Army,Ind,Biff Jones,H,Notre Dame,Ind,Knute Rockne,L,0,7
+1929-12-28,Army,Ind,Biff Jones,A,Stanford,PCC,Pop Warner,L,13,34
+1929-10-12,Marquette,Ind,Frank Murray,H,Grinnell,MVC,Lester Watt,L,7,9
+1929-10-18,Marquette,Ind,Frank Murray,H,Iowa State,Big 6,C. Noel Workman,W,14,6
+1929-11-02,Marquette,Ind,Frank Murray,A,Detroit Mercy,Ind,Gus Dorais,T,6,6
+1929-11-09,Marquette,Ind,Frank Murray,A,Creighton,MVC,,L,6,13
+1929-11-25,Marquette,Ind,Frank Murray,H,Kansas State,Big 6,Bo McMillin,W,25,6
+1929-10-19,Dartmouth,Ind,Jack Cannell,A,Columbia,Ind,Charles Crowley,W,34,0
+1929-10-26,Dartmouth,Ind,Jack Cannell,A,Harvard,Ind,,W,34,7
+1929-11-02,Dartmouth,Ind,Jack Cannell,A,Yale,Ind,Mal Stevens,L,12,16
+1929-11-09,Dartmouth,Ind,Jack Cannell,A,Brown,Ind,DeOrmond McLaughry,W,13,6
+1929-11-23,Dartmouth,Ind,Jack Cannell,H,Cornell,Ind,Gilmour Dobie,W,18,14
+1929-11-30,Dartmouth,Ind,Jack Cannell,A,Navy,Ind,William Ingram,L,6,13
+1929-09-28,UCLA,PCC,William Spaulding,A,USC,PCC,Howard Jones,L,0,76
+1929-10-12,UCLA,PCC,William Spaulding,H,Stanford,PCC,Pop Warner,L,0,57
+1929-11-02,UCLA,PCC,William Spaulding,A,Oregon,PCC,John McEwan,L,0,27
+1929-11-28,UCLA,PCC,William Spaulding,H,Montana,PCC,Frank Millburn,W,14,0
+1929-10-05,Auburn,Southern,Red Floyd,A,Clemson,Southern,Josh Cody,L,7,26
+1929-10-11,Auburn,Southern,Red Floyd,H,Florida,Southern,Charlie Bachman,L,0,19
+1929-10-19,Auburn,Southern,Red Floyd,H,Vanderbilt,Southern,Dan McGugin,L,2,41
+1929-11-02,Auburn,Southern,Red Floyd,A,Tennessee,Southern,Bob Neyland,L,0,27
+1929-11-09,Auburn,Southern,Red Floyd,A,Tulane,Southern,Bernie Bierman,L,0,52
+1929-11-16,Auburn,Southern,Red Floyd,A,Georgia,Southern,Harry Mehre,L,0,24
+1929-11-28,Auburn,Southern,Red Floyd,A,Georgia Tech,Southern,William Alexander,L,6,19
+1929-10-12,Northwestern,Western,Dick Hanley,A,Wisconsin,Western,Glenn Thistlethwaite,W,7,0
+1929-10-19,Northwestern,Western,Dick Hanley,H,Minnesota,Western,Clarence Spears,L,14,26
+1929-11-02,Northwestern,Western,Dick Hanley,H,Illinois,Western,Robert Zuppke,W,7,0
+1929-11-09,Northwestern,Western,Dick Hanley,A,Ohio State,Western,Sam Willaman,W,18,6
+1929-11-16,Northwestern,Western,Dick Hanley,H,Indiana,Western,Pat Page,L,14,19
+1929-11-23,Northwestern,Western,Dick Hanley,H,Notre Dame,Ind,Knute Rockne,L,6,26
+1929-10-05,Kansas,Big 6,Bill Hargiss,A,Illinois,Western,Robert Zuppke,L,0,25
+1929-10-19,Kansas,Big 6,Bill Hargiss,H,Kansas State,Big 6,Bo McMillin,L,0,6
+1929-10-26,Kansas,Big 6,Bill Hargiss,A,Iowa State,Big 6,C. Noel Workman,W,33,0
+1929-11-02,Kansas,Big 6,Bill Hargiss,A,Nebraska,Big 6,Dana Bible,L,6,12
+1929-11-09,Kansas,Big 6,Bill Hargiss,A,Oklahoma,Big 6,Adrian Lindsey,W,7,0
+1929-11-16,Kansas,Big 6,Bill Hargiss,H,Washington (MO),MVC,Albert Sharpe,W,13,0
+1929-11-23,Kansas,Big 6,Bill Hargiss,H,Missouri,Big 6,Gwinn Henry,L,0,7
+1929-10-12,LSU,Southern,Russ Cohen,H,Sewanee,Southern,W.H. Kirkpatrick,W,27,14
+1929-10-19,LSU,Southern,Russ Cohen,A,Mississippi State,Southern,J.W. Hancock,W,31,6
+1929-11-02,LSU,Southern,Russ Cohen,N,Arkansas,SWC,Fred Thomsen,L,0,32
+1929-11-09,LSU,Southern,Russ Cohen,A,Duke,Southern,Jimmy DeHart,L,6,32
+1929-11-16,LSU,Southern,Russ Cohen,H,Ole Miss,Southern,Homer Hazel,W,13,6
+1929-11-28,LSU,Southern,Russ Cohen,H,Tulane,Southern,Bernie Bierman,L,0,21
+1929-10-12,Pennsylvania,Ind,Lou Young,H,Virginia Tech,Southern,Andy Gustafson,W,14,8
+1929-10-19,Pennsylvania,Ind,Lou Young,H,California,PCC,Nibs Price,L,7,12
+1929-11-02,Pennsylvania,Ind,Lou Young,H,Navy,Ind,William Ingram,W,7,2
+1929-11-09,Pennsylvania,Ind,Lou Young,H,Penn State,Ind,Hugo Bezdek,L,7,19
+1929-11-16,Pennsylvania,Ind,Lou Young,A,Columbia,Ind,Charles Crowley,W,20,0
+1929-11-28,Pennsylvania,Ind,Lou Young,H,Cornell,Ind,Gilmour Dobie,W,17,7
+1929-10-13,Iowa,Western,Burton Ingwersen,A,Ohio State,Western,Sam Willaman,L,6,7
+1929-10-20,Iowa,Western,Burton Ingwersen,H,Illinois,Western,Robert Zuppke,T,7,7
+1929-10-26,Iowa,Western,Burton Ingwersen,A,Wisconsin,Western,Glenn Thistlethwaite,W,14,0
+1929-11-09,Iowa,Western,Burton Ingwersen,H,Minnesota,Western,Clarence Spears,W,9,7
+1929-11-16,Iowa,Western,Burton Ingwersen,A,Purdue,Western,James Phelan,L,0,7
+1929-11-23,Iowa,Western,Burton Ingwersen,A,Michigan,Western,Harry Kipke,T,0,0
+1929-10-19,Columbia,Ind,Charles Crowley,H,Dartmouth,Ind,Jack Cannell,L,0,34
+1929-11-02,Columbia,Ind,Charles Crowley,A,Cornell,Ind,Gilmour Dobie,L,6,12
+1929-11-09,Columbia,Ind,Charles Crowley,H,Colgate,Ind,Andrew Kerr,L,0,33
+1929-11-16,Columbia,Ind,Charles Crowley,H,Pennsylvania,Ind,Lou Young,L,0,20
+1929-11-28,Columbia,Ind,Charles Crowley,H,Syracuse,Ind,Lew Andreas,L,0,6
+1929-10-12,Texas,SWC,Clyde Littlefield,A,Arkansas,SWC,Fred Thomsen,W,27,0
+1929-10-19,Texas,SWC,Clyde Littlefield,N,Oklahoma,Big 6,Adrian Lindsey,W,21,0
+1929-10-26,Texas,SWC,Clyde Littlefield,H,Rice,SWC,Jack Meagher,W,39,0
+1929-11-02,Texas,SWC,Clyde Littlefield,A,SMU,SWC,Ray Morrison,T,0,0
+1929-11-09,Texas,SWC,Clyde Littlefield,H,Baylor,SWC,Morley Jennings,T,0,0
+1929-11-16,Texas,SWC,Clyde Littlefield,H,Texas Christian,SWC,Francis Schmidt,L,12,15
+1929-11-28,Texas,SWC,Clyde Littlefield,A,Texas A&M,SWC,Madison Bell,L,0,13
+1929-10-19,Texas Christian,SWC,Francis Schmidt,H,Texas A&M,SWC,Madison Bell,W,13,7
+1929-11-09,Texas Christian,SWC,Francis Schmidt,H,Rice,SWC,Jack Meagher,W,24,0
+1929-11-16,Texas Christian,SWC,Francis Schmidt,A,Texas,SWC,Clyde Littlefield,W,15,12
+1929-11-23,Texas Christian,SWC,Francis Schmidt,A,Baylor,SWC,Morley Jennings,W,34,7
+1929-11-30,Texas Christian,SWC,Francis Schmidt,H,SMU,SWC,Ray Morrison,T,7,7
+1929-10-12,New York University,Ind,,N,Fordham,Ind,Frank Cavanaugh,L,0,26
+1929-10-19,New York University,Ind,,H,Penn State,Ind,Hugo Bezdek,W,7,0
+1929-11-02,New York University,Ind,,H,Georgetown,Ind,Lou Little,L,0,14
+1929-11-09,New York University,Ind,,H,Georgia,Southern,Harry Mehre,W,27,19
+1929-11-16,New York University,Ind,,H,Missouri,Big 6,Gwinn Henry,W,14,0
+1929-11-28,New York University,Ind,,H,Carnegie Mellon,Ind,Walter Steffen,L,0,20
+1929-10-05,Oregon,PCC,John McEwan,A,Stanford,PCC,Pop Warner,L,7,33
+1929-10-19,Oregon,PCC,John McEwan,H,Idaho,PCC,Leo Calland,W,34,7
+1929-10-26,Oregon,PCC,John McEwan,A,Washington,PCC,Enoch Bagshaw,W,14,0
+1929-11-02,Oregon,PCC,John McEwan,H,UCLA,PCC,William Spaulding,W,27,0
+1929-11-16,Oregon,PCC,John McEwan,H,Oregon State,PCC,Paul Schissler,W,16,0
+1929-12-07,Oregon,PCC,John McEwan,A,Florida,Southern,Charlie Bachman,L,6,20
+1929-10-12,Brown,Ind,DeOrmond McLaughry,A,Princeton,Ind,,W,13,12
+1929-10-19,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,Mal Stevens,L,6,14
+1929-10-26,Brown,Ind,DeOrmond McLaughry,H,Syracuse,Ind,Lew Andreas,L,0,6
+1929-11-09,Brown,Ind,DeOrmond McLaughry,H,Dartmouth,Ind,Jack Cannell,L,6,13
+1929-11-30,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,0,32
+1929-10-12,Tennessee,Southern,Bob Neyland,H,Ole Miss,Southern,Homer Hazel,W,52,7
+1929-10-19,Tennessee,Southern,Bob Neyland,H,Alabama,Southern,Wallace Wade,W,6,0
+1929-10-26,Tennessee,Southern,Bob Neyland,A,Washington & Lee,Southern,Eugene Oberst,W,39,0
+1929-11-02,Tennessee,Southern,Bob Neyland,H,Auburn,Southern,Red Floyd,W,27,0
+1929-11-16,Tennessee,Southern,Bob Neyland,H,Vanderbilt,Southern,Dan McGugin,W,13,0
+1929-11-28,Tennessee,Southern,Bob Neyland,A,Kentucky,Southern,Harry Gamage,T,6,6
+1929-12-07,Tennessee,Southern,Bob Neyland,H,South Carolina,Southern,Billy Laval,W,54,0
+1929-10-05,Oregon State,PCC,Paul Schissler,A,USC,PCC,Howard Jones,L,7,21
+1929-10-19,Oregon State,PCC,Paul Schissler,A,Stanford,PCC,Pop Warner,L,7,40
+1929-10-26,Oregon State,PCC,Paul Schissler,H,Idaho,PCC,Leo Calland,W,27,0
+1929-11-02,Oregon State,PCC,Paul Schissler,H,Washington State,PCC,O.E. Hollingbery,L,0,9
+1929-11-16,Oregon State,PCC,Paul Schissler,A,Oregon,PCC,John McEwan,L,0,16
+1929-11-23,Oregon State,PCC,Paul Schissler,A,Detroit Mercy,Ind,Gus Dorais,W,14,7
+1929-10-05,Alabama,Southern,Wallace Wade,H,Ole Miss,Southern,Homer Hazel,W,22,7
+1929-10-19,Alabama,Southern,Wallace Wade,A,Tennessee,Southern,Bob Neyland,L,0,6
+1929-10-26,Alabama,Southern,Wallace Wade,H,Sewanee,Southern,W.H. Kirkpatrick,W,35,7
+1929-11-02,Alabama,Southern,Wallace Wade,A,Vanderbilt,Southern,Dan McGugin,L,0,13
+1929-11-09,Alabama,Southern,Wallace Wade,H,Kentucky,Southern,Harry Gamage,W,24,13
+1929-11-16,Alabama,Southern,Wallace Wade,A,Georgia Tech,Southern,William Alexander,W,14,0
+1929-11-28,Alabama,Southern,Wallace Wade,H,Georgia,Southern,Harry Mehre,L,0,12
+1929-10-05,Purdue,Western,James Phelan,H,Kansas State,Big 6,Bo McMillin,W,26,14
+1929-10-12,Purdue,Western,James Phelan,H,Michigan,Western,Harry Kipke,W,30,16
+1929-10-26,Purdue,Western,James Phelan,A,Chicago,Western,Amos Alonzo Stagg,W,26,0
+1929-11-02,Purdue,Western,James Phelan,A,Wisconsin,Western,Glenn Thistlethwaite,W,13,0
+1929-11-09,Purdue,Western,James Phelan,H,Ole Miss,Southern,Homer Hazel,W,27,7
+1929-11-16,Purdue,Western,James Phelan,H,Iowa,Western,Burton Ingwersen,W,7,0
+1929-11-23,Purdue,Western,James Phelan,A,Indiana,Western,Pat Page,W,32,0
+1929-10-05,Nebraska,Big 6,Dana Bible,H,SMU,SWC,Ray Morrison,T,0,0
+1929-10-12,Nebraska,Big 6,Dana Bible,A,Syracuse,Ind,Lew Andreas,W,13,6
+1929-10-19,Nebraska,Big 6,Dana Bible,H,Pitt,Ind,Jock Sutherland,L,7,12
+1929-10-26,Nebraska,Big 6,Dana Bible,A,Missouri,Big 6,Gwinn Henry,T,7,7
+1929-11-02,Nebraska,Big 6,Dana Bible,H,Kansas,Big 6,Bill Hargiss,W,12,6
+1929-11-16,Nebraska,Big 6,Dana Bible,H,Oklahoma,Big 6,Adrian Lindsey,T,13,13
+1929-11-23,Nebraska,Big 6,Dana Bible,A,Kansas State,Big 6,Bo McMillin,W,10,6
+1929-11-28,Nebraska,Big 6,Dana Bible,H,Iowa State,Big 6,C. Noel Workman,W,31,12
+1929-10-12,West Virginia,Ind,Rat Rogers,A,Pitt,Ind,Jock Sutherland,L,7,27
+1929-10-19,West Virginia,Ind,Rat Rogers,N,Washington & Lee,Southern,Eugene Oberst,W,26,6
+1929-10-26,West Virginia,Ind,Rat Rogers,A,Oklahoma State,MVC,Pappy Waldorf,W,9,6
+1929-11-05,West Virginia,Ind,Rat Rogers,A,Fordham,Ind,Frank Cavanaugh,T,0,0
+1929-11-09,West Virginia,Ind,Rat Rogers,H,Detroit Mercy,Ind,Gus Dorais,L,0,36
+1929-11-16,West Virginia,Ind,Rat Rogers,A,Georgetown,Ind,Lou Little,T,0,0
+1929-11-28,West Virginia,Ind,Rat Rogers,H,Washington & Jefferson,Ind,William Amos,W,6,0
+1929-10-19,Harvard,Ind,,H,Army,Ind,Biff Jones,T,20,20
+1929-10-26,Harvard,Ind,,H,Dartmouth,Ind,Jack Cannell,L,7,34
+1929-11-02,Harvard,Ind,,H,Florida,Southern,Charlie Bachman,W,14,0
+1929-11-09,Harvard,Ind,,A,Michigan,Western,Harry Kipke,L,12,14
+1929-11-23,Harvard,Ind,,H,Yale,Ind,Mal Stevens,W,10,6
+1929-10-05,Oklahoma State,MVC,Pappy Waldorf,A,Drake,MVC,Ossie Solem,L,6,18
+1929-10-19,Oklahoma State,MVC,Pappy Waldorf,H,Creighton,MVC,,W,32,13
+1929-10-26,Oklahoma State,MVC,Pappy Waldorf,H,West Virginia,Ind,Rat Rogers,L,6,9
+1929-11-23,Oklahoma State,MVC,Pappy Waldorf,A,Oklahoma,Big 6,Adrian Lindsey,T,7,7
+1929-11-28,Oklahoma State,MVC,Pappy Waldorf,H,Arkansas,SWC,Fred Thomsen,L,6,32
+1929-10-05,Colorado,RMC,Myron Witham,H,Regis (CO),Ind,,W,27,13
+1929-10-12,Colorado,RMC,Myron Witham,H,Northern Colorado,RMC,William Saunders,W,19,0
+1929-10-19,Colorado,RMC,Myron Witham,A,Utah,RMC,Ike Armstrong,L,0,40
+1929-11-02,Colorado,RMC,Myron Witham,H,Denver,RMC,Jeff Cravath,T,0,0
+1929-11-09,Colorado,RMC,Myron Witham,A,Colorado Mines,RMC,George Allen,W,13,9
+1929-11-16,Colorado,RMC,Myron Witham,A,Colorado State,RMC,Harry Hughes,W,6,0
+1929-11-23,Colorado,RMC,Myron Witham,H,Colorado College,RMC,W.T. VandeGraaff,W,13,7
+1929-09-28,Colorado State,RMC,Harry Hughes,A,Regis (CO),Ind,,W,14,0
+1929-10-04,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,George McLaren,W,20,7
+1929-10-12,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,W.T. VandeGraaff,L,13,14
+1929-10-19,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,George Allen,W,12,0
+1929-10-26,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,L,0,21
+1929-11-02,Colorado State,RMC,Harry Hughes,H,Western State,RMC,Stewart Clark,W,45,14
+1929-11-09,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,7,6
+1929-11-16,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Myron Witham,L,0,6
+1929-11-29,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Jeff Cravath,L,6,19
+1929-10-26,Rice,SWC,Jack Meagher,A,Texas,SWC,Clyde Littlefield,L,0,39
+1929-11-09,Rice,SWC,Jack Meagher,A,Texas Christian,SWC,Francis Schmidt,L,0,24
+1929-11-16,Rice,SWC,Jack Meagher,H,Texas A&M,SWC,Madison Bell,L,6,26
+1929-11-23,Rice,SWC,Jack Meagher,A,SMU,SWC,Ray Morrison,L,0,34
+1929-11-30,Rice,SWC,Jack Meagher,H,Baylor,SWC,Morley Jennings,L,0,19
+1929-10-05,Texas A&M,SWC,Madison Bell,A,Tulane,Southern,Bernie Bierman,L,10,13
+1929-10-12,Texas A&M,SWC,Madison Bell,H,Kansas State,Big 6,Bo McMillin,W,19,0
+1929-10-19,Texas A&M,SWC,Madison Bell,A,Texas Christian,SWC,Francis Schmidt,L,7,13
+1929-10-26,Texas A&M,SWC,Madison Bell,H,Arkansas,SWC,Fred Thomsen,L,13,14
+1929-11-09,Texas A&M,SWC,Madison Bell,H,SMU,SWC,Ray Morrison,L,7,12
+1929-11-16,Texas A&M,SWC,Madison Bell,A,Rice,SWC,Jack Meagher,W,26,6
+1929-11-28,Texas A&M,SWC,Madison Bell,H,Texas,SWC,Clyde Littlefield,W,13,0
+1929-09-28,Davidson,Ind,Monk Younger,N,Clemson,Southern,Josh Cody,L,14,32
+1929-10-12,Davidson,Ind,Monk Younger,A,Army,Ind,Biff Jones,L,7,23
+1929-10-26,Davidson,Ind,Monk Younger,N,Wake Forest,Ind,F.S. Miller,L,0,6
+1929-11-02,Davidson,Ind,Monk Younger,H,Virginia Military Institute,Southern,,L,6,12
+1929-11-09,Davidson,Ind,Monk Younger,A,North Carolina State,Southern,Gus Tebell,W,13,0
+1929-11-16,Davidson,Ind,Monk Younger,N,North Carolina,Southern,Chuck Collins,L,7,26
+1929-11-30,Davidson,Ind,Monk Younger,H,Duke,Southern,Jimmy DeHart,W,13,12
+1929-10-12,Washington (MO),MVC,Albert Sharpe,H,Drake,MVC,Ossie Solem,L,0,20
+1929-10-19,Washington (MO),MVC,Albert Sharpe,A,Grinnell,MVC,Lester Watt,T,0,0
+1929-11-02,Washington (MO),MVC,Albert Sharpe,H,Carnegie Mellon,Ind,Walter Steffen,L,0,19
+1929-11-09,Washington (MO),MVC,Albert Sharpe,H,Missouri,Big 6,Gwinn Henry,L,0,6
+1929-11-16,Washington (MO),MVC,Albert Sharpe,A,Kansas,Big 6,Bill Hargiss,L,0,13
+1929-10-05,Michigan State,Ind,Jimmy Crowley,A,Michigan,Western,Harry Kipke,L,0,17
+1929-10-12,Michigan State,Ind,Jimmy Crowley,A,Colgate,Ind,Andrew Kerr,L,0,31
+1929-10-26,Michigan State,Ind,Jimmy Crowley,H,North Carolina State,Southern,Gus Tebell,W,40,6
+1929-11-09,Michigan State,Ind,Jimmy Crowley,A,Mississippi State,Southern,J.W. Hancock,W,33,19
+1929-11-16,Michigan State,Ind,Jimmy Crowley,H,Detroit Mercy,Ind,Gus Dorais,L,0,25
+1929-10-12,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,Pat Page,W,13,7
+1929-10-26,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,James Phelan,L,0,26
+1929-11-02,Chicago,Western,Amos Alonzo Stagg,A,Princeton,Ind,,W,15,7
+1929-11-09,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,Glenn Thistlethwaite,L,6,20
+1929-11-16,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,L,6,20
+1929-11-23,Chicago,Western,Amos Alonzo Stagg,H,Washington,PCC,Enoch Bagshaw,W,26,6
+1929-10-05,Colgate,Ind,Andrew Kerr,A,Wisconsin,Western,Glenn Thistlethwaite,L,6,13
+1929-10-12,Colgate,Ind,Andrew Kerr,H,Michigan State,Ind,Jimmy Crowley,W,31,0
+1929-10-19,Colgate,Ind,Andrew Kerr,A,Indiana,Western,Pat Page,W,21,6
+1929-11-09,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Charles Crowley,W,33,0
+1929-11-16,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Lew Andreas,W,21,0
+1929-11-30,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,32,0
+1929-10-12,Minnesota,Western,Clarence Spears,H,Vanderbilt,Southern,Dan McGugin,W,15,6
+1929-10-19,Minnesota,Western,Clarence Spears,A,Northwestern,Western,Dick Hanley,W,26,14
+1929-11-02,Minnesota,Western,Clarence Spears,H,Indiana,Western,Pat Page,W,19,7
+1929-11-09,Minnesota,Western,Clarence Spears,A,Iowa,Western,Burton Ingwersen,L,7,9
+1929-11-16,Minnesota,Western,Clarence Spears,H,Michigan,Western,Harry Kipke,L,6,7
+1929-11-23,Minnesota,Western,Clarence Spears,H,Wisconsin,Western,Glenn Thistlethwaite,W,13,12
+1929-09-28,Ole Miss,Southern,Homer Hazel,A,Vanderbilt,Southern,Dan McGugin,L,7,19
+1929-10-05,Ole Miss,Southern,Homer Hazel,A,Alabama,Southern,Wallace Wade,L,7,22
+1929-10-12,Ole Miss,Southern,Homer Hazel,A,Tennessee,Southern,Bob Neyland,L,7,52
+1929-10-26,Ole Miss,Southern,Homer Hazel,A,SMU,SWC,Ray Morrison,L,0,52
+1929-11-02,Ole Miss,Southern,Homer Hazel,H,Sewanee,Southern,W.H. Kirkpatrick,T,6,6
+1929-11-09,Ole Miss,Southern,Homer Hazel,A,Purdue,Western,James Phelan,L,7,27
+1929-11-16,Ole Miss,Southern,Homer Hazel,A,LSU,Southern,Russ Cohen,L,6,13
+1929-11-28,Ole Miss,Southern,Homer Hazel,H,Mississippi State,Southern,J.W. Hancock,T,7,7
+1929-10-05,Duke,Southern,Jimmy DeHart,H,Pitt,Ind,Jock Sutherland,L,7,52
+1929-10-19,Duke,Southern,Jimmy DeHart,A,Navy,Ind,William Ingram,L,13,45
+1929-11-09,Duke,Southern,Jimmy DeHart,H,LSU,Southern,Russ Cohen,W,32,6
+1929-11-16,Duke,Southern,Jimmy DeHart,H,North Carolina State,Southern,Gus Tebell,W,19,12
+1929-11-23,Duke,Southern,Jimmy DeHart,H,Wake Forest,Ind,F.S. Miller,W,20,0
+1929-11-30,Duke,Southern,Jimmy DeHart,A,Davidson,Ind,Monk Younger,L,12,13
+1929-12-07,Duke,Southern,Jimmy DeHart,H,North Carolina,Southern,Chuck Collins,L,7,48
+1929-10-12,Sewanee,Southern,W.H. Kirkpatrick,A,LSU,Southern,Russ Cohen,L,14,27
+1929-10-26,Sewanee,Southern,W.H. Kirkpatrick,A,Alabama,Southern,Wallace Wade,L,7,35
+1929-11-02,Sewanee,Southern,W.H. Kirkpatrick,A,Ole Miss,Southern,Homer Hazel,T,6,6
+1929-11-16,Sewanee,Southern,W.H. Kirkpatrick,A,Tulane,Southern,Bernie Bierman,L,0,18
+1929-11-23,Sewanee,Southern,W.H. Kirkpatrick,A,Vanderbilt,Southern,Dan McGugin,L,6,26
+1929-10-12,Navy,Ind,William Ingram,H,Notre Dame,Ind,Knute Rockne,L,7,14
+1929-10-19,Navy,Ind,William Ingram,H,Duke,Southern,Jimmy DeHart,W,45,13
+1929-10-26,Navy,Ind,William Ingram,A,Princeton,Ind,,T,13,13
+1929-11-02,Navy,Ind,William Ingram,A,Pennsylvania,Ind,Lou Young,L,2,7
+1929-11-09,Navy,Ind,William Ingram,H,Georgetown,Ind,Lou Little,T,0,0
+1929-11-16,Navy,Ind,William Ingram,H,Wake Forest,Ind,F.S. Miller,W,61,0
+1929-11-30,Navy,Ind,William Ingram,H,Dartmouth,Ind,Jack Cannell,W,13,6
+1929-09-28,Regis (CO),Ind,,H,Colorado State,RMC,Harry Hughes,L,0,14
+1929-10-05,Regis (CO),Ind,,A,Colorado,RMC,Myron Witham,L,13,27
+1929-11-09,Regis (CO),Ind,,A,Western State,RMC,Stewart Clark,L,23,25
+1929-11-16,Regis (CO),Ind,,A,Colorado Mines,RMC,George Allen,L,0,7
+1929-11-23,Regis (CO),Ind,,H,Northern Colorado,RMC,William Saunders,W,13,0
+1929-12-07,Regis (CO),Ind,,A,Denver,RMC,Jeff Cravath,L,18,32
+1929-10-05,Tulane,Southern,Bernie Bierman,H,Texas A&M,SWC,Madison Bell,W,13,10
+1929-10-12,Tulane,Southern,Bernie Bierman,H,Mississippi State,Southern,J.W. Hancock,W,34,0
+1929-10-26,Tulane,Southern,Bernie Bierman,H,Georgia Tech,Southern,William Alexander,W,20,14
+1929-11-02,Tulane,Southern,Bernie Bierman,A,Georgia,Southern,Harry Mehre,W,21,15
+1929-11-09,Tulane,Southern,Bernie Bierman,H,Auburn,Southern,Red Floyd,W,52,0
+1929-11-16,Tulane,Southern,Bernie Bierman,H,Sewanee,Southern,W.H. Kirkpatrick,W,18,0
+1929-11-28,Tulane,Southern,Bernie Bierman,A,LSU,Southern,Russ Cohen,W,21,0
+1929-10-19,Cornell,Ind,Gilmour Dobie,H,Princeton,Ind,,W,13,7
+1929-11-02,Cornell,Ind,Gilmour Dobie,H,Columbia,Ind,Charles Crowley,W,12,6
+1929-11-23,Cornell,Ind,Gilmour Dobie,A,Dartmouth,Ind,Jack Cannell,L,14,18
+1929-11-28,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Lou Young,L,7,17
+1929-10-13,Ohio State,Western,Sam Willaman,H,Iowa,Western,Burton Ingwersen,W,7,6
+1929-10-19,Ohio State,Western,Sam Willaman,A,Michigan,Western,Harry Kipke,W,7,0
+1929-10-26,Ohio State,Western,Sam Willaman,H,Indiana,Western,Pat Page,T,0,0
+1929-11-02,Ohio State,Western,Sam Willaman,A,Pitt,Ind,Jock Sutherland,L,2,18
+1929-11-09,Ohio State,Western,Sam Willaman,H,Northwestern,Western,Dick Hanley,L,6,18
+1929-11-23,Ohio State,Western,Sam Willaman,H,Illinois,Western,Robert Zuppke,L,0,27
+1929-10-05,Drake,MVC,Ossie Solem,H,Oklahoma State,MVC,Pappy Waldorf,W,18,6
+1929-10-12,Drake,MVC,Ossie Solem,A,Washington (MO),MVC,Albert Sharpe,W,20,0
+1929-10-19,Drake,MVC,Ossie Solem,A,Missouri,Big 6,Gwinn Henry,L,0,20
+1929-10-26,Drake,MVC,Ossie Solem,H,Grinnell,MVC,Lester Watt,T,6,6
+1929-11-01,Drake,MVC,Ossie Solem,H,Creighton,MVC,,W,34,12
+1929-11-09,Drake,MVC,Ossie Solem,A,Notre Dame,Ind,Knute Rockne,L,7,19
+1929-11-16,Drake,MVC,Ossie Solem,A,Iowa State,Big 6,C. Noel Workman,W,7,0

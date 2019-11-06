@@ -1,0 +1,985 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1936-09-26,North Carolina,Southern,Raymond Wolf,N,Wake Forest,Southern,Jim Weaver,W,14,7
+1936-10-03,North Carolina,Southern,Raymond Wolf,H,Tennessee,SEC,Bob Neyland,W,14,6
+1936-10-10,North Carolina,Southern,Raymond Wolf,H,Maryland,Southern,Frank Dobson,W,14,0
+1936-10-17,North Carolina,Southern,Raymond Wolf,A,New York University,Ind,Mal Stevens,W,14,13
+1936-10-24,North Carolina,Southern,Raymond Wolf,A,Tulane,SEC,Red Dawson,L,7,21
+1936-10-31,North Carolina,Southern,Raymond Wolf,H,North Carolina State,Southern,Hunk Anderson,W,21,6
+1936-11-07,North Carolina,Southern,Raymond Wolf,A,Davidson,Southern,Gene McEver,W,26,6
+1936-11-14,North Carolina,Southern,Raymond Wolf,H,Duke,Southern,Wallace Wade,L,7,27
+1936-11-21,North Carolina,Southern,Raymond Wolf,A,South Carolina,Southern,Don McCallister,W,14,0
+1936-11-26,North Carolina,Southern,Raymond Wolf,A,Virginia,Ind,Gus Tebell,W,59,14
+1936-10-10,Indiana,Western,Bo McMillin,A,Michigan,Western,Harry Kipke,W,14,3
+1936-10-17,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Dana Bible,L,9,13
+1936-10-24,Indiana,Western,Bo McMillin,A,Ohio State,Western,Francis Schmidt,L,0,7
+1936-10-31,Indiana,Western,Bo McMillin,H,Iowa,Western,Ossie Solem,W,13,6
+1936-11-07,Indiana,Western,Bo McMillin,H,Syracuse,Ind,Vic Hanson,W,9,7
+1936-11-14,Indiana,Western,Bo McMillin,A,Chicago,Western,Clark Shaughnessy,W,20,7
+1936-11-21,Indiana,Western,Bo McMillin,A,Purdue,Western,Noble Kizer,T,20,20
+1936-10-03,Iowa State,Big 6,George Veenker,A,Nebraska,Big 6,Dana Bible,L,0,34
+1936-10-10,Iowa State,Big 6,George Veenker,H,Kansas,Big 6,Adrian Lindsey,W,21,7
+1936-10-24,Iowa State,Big 6,George Veenker,A,Missouri,Big 6,Don Faurot,L,0,10
+1936-10-31,Iowa State,Big 6,George Veenker,H,Oklahoma,Big 6,Biff Jones,T,7,7
+1936-11-14,Iowa State,Big 6,George Veenker,A,Kansas State,Big 6,Wesley Fry,L,7,47
+1936-11-21,Iowa State,Big 6,George Veenker,H,Drake,MVC,Vee Green,W,21,7
+1936-10-10,Fordham,Ind,Jimmy Crowley,H,SMU,SWC,Madison Bell,W,7,0
+1936-10-24,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Slip Madigan,W,7,6
+1936-10-31,Fordham,Ind,Jimmy Crowley,H,Pitt,Ind,Jock Sutherland,T,0,0
+1936-11-07,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Noble Kizer,W,15,0
+1936-11-21,Fordham,Ind,Jimmy Crowley,H,Georgia,SEC,Harry Mehre,T,7,7
+1936-11-26,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,L,6,7
+1936-10-10,Arizona State,BIAA,Rudy Lavik,H,Arizona,BIAA,Tex Oliver,L,0,18
+1936-10-24,Arizona State,BIAA,Rudy Lavik,A,Northern Arizona,BIAA,Mark McIntosh,L,0,19
+1936-10-31,Arizona State,BIAA,Rudy Lavik,H,New Mexico,BIAA,Gwinn Henry,W,7,6
+1936-11-07,Arizona State,BIAA,Rudy Lavik,H,New Mexico State,BIAA,Gerald Hines,L,6,20
+1936-11-14,Arizona State,BIAA,Rudy Lavik,A,UTEP,BIAA,Mack Saxon,W,19,0
+1936-11-21,Arizona State,BIAA,Rudy Lavik,H,Northern Arizona,BIAA,Mark McIntosh,L,7,13
+1936-09-26,Furman,Southern,,A,Wofford,Ind,Jules Carson,W,31,0
+1936-10-03,Furman,Southern,,A,Georgia,SEC,Harry Mehre,L,0,13
+1936-10-10,Furman,Southern,,H,Citadel,Southern,Tatum Gressette,W,13,7
+1936-10-17,Furman,Southern,,A,North Carolina State,Southern,Hunk Anderson,L,0,27
+1936-10-23,Furman,Southern,,A,Mercer,Ind,,W,20,9
+1936-10-31,Furman,Southern,,H,Davidson,Southern,Gene McEver,W,14,13
+1936-11-06,Furman,Southern,,A,Presbyterian,Ind,Walter Johnson,W,14,0
+1936-11-14,Furman,Southern,,H,South Carolina,Southern,Don McCallister,W,23,6
+1936-11-26,Furman,Southern,,A,Clemson,Southern,Jess Neely,W,12,0
+1936-09-26,Utah,RMC,Ike Armstrong,H,Northern Colorado,RMC,J.W. Hancock,W,26,0
+1936-10-03,Utah,RMC,Ike Armstrong,H,Arizona,BIAA,Tex Oliver,W,14,6
+1936-10-10,Utah,RMC,Ike Armstrong,H,Western State,RMC,Paul Wright,W,26,0
+1936-10-17,Utah,RMC,Ike Armstrong,A,Denver,RMC,William Saunders,W,31,6
+1936-10-24,Utah,RMC,Ike Armstrong,A,Utah State,RMC,,L,0,12
+1936-10-31,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,18,0
+1936-11-07,Utah,RMC,Ike Armstrong,A,Colorado,RMC,Bunny Oakes,L,7,31
+1936-11-14,Utah,RMC,Ike Armstrong,H,Texas A&M,SWC,Homer Norton,L,7,20
+1936-11-26,Utah,RMC,Ike Armstrong,H,Colorado State,RMC,Harry Hughes,W,13,0
+1936-09-26,Northern Colorado,RMC,J.W. Hancock,A,Utah,RMC,Ike Armstrong,L,0,26
+1936-10-02,Northern Colorado,RMC,J.W. Hancock,H,Wyoming,RMC,Dutch Witte,W,13,7
+1936-10-09,Northern Colorado,RMC,J.W. Hancock,H,Brigham Young,RMC,Ott Romney,L,0,33
+1936-10-17,Northern Colorado,RMC,J.W. Hancock,A,Montana State,RMC,Jack Croft,W,13,0
+1936-10-24,Northern Colorado,RMC,J.W. Hancock,A,Western State,RMC,Paul Wright,W,12,10
+1936-11-14,Northern Colorado,RMC,J.W. Hancock,H,Colorado State,RMC,Harry Hughes,L,6,12
+1936-11-21,Northern Colorado,RMC,J.W. Hancock,H,Colorado Mines,RMC,Wilbur White,W,27,10
+1936-10-03,Villanova,Ind,,H,Detroit Mercy,Ind,Gus Dorais,W,13,6
+1936-10-10,Villanova,Ind,,A,Penn State,Ind,Bob Higgins,W,13,0
+1936-10-31,Villanova,Ind,,A,Bucknell,Ind,Hook Mylin,L,0,6
+1936-11-07,Villanova,Ind,,A,South Carolina,Southern,Don McCallister,W,14,0
+1936-11-14,Villanova,Ind,,A,Temple,Ind,Pop Warner,L,0,6
+1936-11-21,Villanova,Ind,,A,Manhattan,Ind,,W,12,0
+1937-01-01,Villanova,Ind,,N,Auburn,SEC,Jack Meagher,T,7,7
+1936-10-03,Washington & Lee,Southern,Tex Tilson,A,Army,Ind,Gar Davidson,L,0,28
+1936-10-10,Washington & Lee,Southern,Tex Tilson,N,West Virginia,Ind,Trusty Tallman,L,7,28
+1936-10-17,Washington & Lee,Southern,Tex Tilson,H,Kentucky,SEC,C.A. Wynne,L,7,39
+1936-10-24,Washington & Lee,Southern,Tex Tilson,A,Virginia,Ind,Gus Tebell,W,13,0
+1936-10-31,Washington & Lee,Southern,Tex Tilson,H,Duke,Southern,Wallace Wade,L,0,51
+1936-11-07,Washington & Lee,Southern,Tex Tilson,H,Virginia Tech,Southern,Henry Redd,W,27,0
+1936-11-14,Washington & Lee,Southern,Tex Tilson,A,William & Mary,Southern,,W,13,7
+1936-11-26,Washington & Lee,Southern,Tex Tilson,A,Maryland,Southern,Frank Dobson,L,6,19
+1936-10-17,Syracuse,Ind,Vic Hanson,A,Cornell,Ind,,L,7,20
+1936-10-24,Syracuse,Ind,Vic Hanson,H,Maryland,Southern,Frank Dobson,L,0,20
+1936-10-31,Syracuse,Ind,Vic Hanson,A,Penn State,Ind,Bob Higgins,L,0,18
+1936-11-07,Syracuse,Ind,Vic Hanson,A,Indiana,Western,Bo McMillin,L,7,9
+1936-11-14,Syracuse,Ind,Vic Hanson,A,Columbia,Ind,Lou Little,L,0,17
+1936-11-21,Syracuse,Ind,Vic Hanson,H,Colgate,Ind,Andrew Kerr,L,0,13
+1936-09-25,Arizona,BIAA,Tex Oliver,H,Brigham Young,RMC,Ott Romney,W,32,6
+1936-10-03,Arizona,BIAA,Tex Oliver,A,Utah,RMC,Ike Armstrong,L,6,14
+1936-10-10,Arizona,BIAA,Tex Oliver,A,Arizona State,BIAA,Rudy Lavik,W,18,0
+1936-10-17,Arizona,BIAA,Tex Oliver,H,Centenary (LA),Ind,Curtis Player,T,13,13
+1936-10-24,Arizona,BIAA,Tex Oliver,H,New Mexico State,BIAA,Gerald Hines,W,28,7
+1936-10-31,Arizona,BIAA,Tex Oliver,A,Kansas,Big 6,Adrian Lindsey,T,0,0
+1936-11-07,Arizona,BIAA,Tex Oliver,H,New Mexico,BIAA,Gwinn Henry,W,28,0
+1936-11-21,Arizona,BIAA,Tex Oliver,A,Michigan State,Ind,Charlie Bachman,L,0,7
+1936-11-28,Arizona,BIAA,Tex Oliver,H,Wyoming,RMC,Dutch Witte,W,58,0
+1936-12-05,Arizona,BIAA,Tex Oliver,H,Texas Tech,BIAA,Pete Cawthon,T,7,7
+1936-10-17,Georgetown,Ind,Jack Hagerty,H,Bucknell,Ind,Hook Mylin,W,19,0
+1936-10-24,Georgetown,Ind,Jack Hagerty,A,New York University,Ind,Mal Stevens,T,7,7
+1936-11-07,Georgetown,Ind,Jack Hagerty,A,West Virginia,Ind,Trusty Tallman,W,28,0
+1936-11-14,Georgetown,Ind,Jack Hagerty,A,Manhattan,Ind,,L,0,13
+1936-11-21,Georgetown,Ind,Jack Hagerty,A,Maryland,Southern,Frank Dobson,W,7,6
+1936-12-04,Georgetown,Ind,Jack Hagerty,A,Miami (FL),Ind,Irl Tubbs,L,6,10
+1936-09-26,Montana,PCC,Doug Fessenden,A,Washington State,PCC,O.E. Hollingbery,L,0,19
+1936-10-02,Montana,PCC,Doug Fessenden,A,UCLA,PCC,William Spaulding,L,0,30
+1936-10-17,Montana,PCC,Doug Fessenden,H,Gonzaga,Ind,Mike Pecarovich,W,6,0
+1936-10-24,Montana,PCC,Doug Fessenden,N,Montana State,RMC,Jack Croft,W,27,0
+1936-10-31,Montana,PCC,Doug Fessenden,A,Oregon State,PCC,Lon Stiner,L,7,14
+1936-11-14,Montana,PCC,Doug Fessenden,H,Idaho,PCC,Ted Bank,W,16,0
+1936-11-21,Montana,PCC,Doug Fessenden,A,San Francisco,Ind,George Malley,W,24,7
+1936-10-10,Penn State,Ind,Bob Higgins,H,Villanova,Ind,,L,0,13
+1936-10-24,Penn State,Ind,Bob Higgins,A,Cornell,Ind,,L,7,13
+1936-10-31,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Vic Hanson,W,18,0
+1936-11-07,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Jock Sutherland,L,7,34
+1936-11-14,Penn State,Ind,Bob Higgins,A,Pennsylvania,Ind,Harvey Harman,L,12,19
+1936-11-21,Penn State,Ind,Bob Higgins,H,Bucknell,Ind,Hook Mylin,W,14,0
+1936-10-17,Princeton,Ind,Fritz Crisler,A,Pennsylvania,Ind,Harvey Harman,L,0,7
+1936-10-24,Princeton,Ind,Fritz Crisler,H,Navy,Ind,Thomas Hamilton,W,7,0
+1936-10-31,Princeton,Ind,Fritz Crisler,A,Harvard,Ind,,T,14,14
+1936-11-07,Princeton,Ind,Fritz Crisler,H,Cornell,Ind,,W,41,13
+1936-11-14,Princeton,Ind,Fritz Crisler,H,Yale,Ind,,L,23,26
+1936-11-21,Princeton,Ind,Fritz Crisler,H,Dartmouth,Ind,Red Blaik,T,13,13
+1936-10-03,Vanderbilt,SEC,Ray Morrison,A,Chicago,Western,Clark Shaughnessy,W,37,0
+1936-10-17,Vanderbilt,SEC,Ray Morrison,A,SMU,SWC,Madison Bell,L,0,16
+1936-10-24,Vanderbilt,SEC,Ray Morrison,H,Georgia Tech,SEC,William Alexander,T,0,0
+1936-10-31,Vanderbilt,SEC,Ray Morrison,H,LSU,SEC,Bernie Moore,L,0,19
+1936-11-07,Vanderbilt,SEC,Ray Morrison,H,Sewanee,SEC,Heck Clark,W,14,0
+1936-11-14,Vanderbilt,SEC,Ray Morrison,H,Tennessee,SEC,Bob Neyland,L,13,26
+1936-11-25,Vanderbilt,SEC,Ray Morrison,A,Alabama,SEC,Frank Thomas,L,6,14
+1936-10-02,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,William Saunders,L,2,7
+1936-10-10,Colorado College,RMC,W.T. VandeGraaff,A,Montana State,RMC,Jack Croft,L,3,6
+1936-10-24,Colorado College,RMC,W.T. VandeGraaff,H,Colorado Mines,RMC,Wilbur White,W,14,0
+1936-10-31,Colorado College,RMC,W.T. VandeGraaff,H,Colorado,RMC,Bunny Oakes,L,0,7
+1936-11-07,Colorado College,RMC,W.T. VandeGraaff,H,Washburn,MVC,Elmer Holm,T,0,0
+1936-11-14,Colorado College,RMC,W.T. VandeGraaff,A,Western State,RMC,Paul Wright,W,7,0
+1936-11-24,Colorado College,RMC,W.T. VandeGraaff,A,Colorado State,RMC,Harry Hughes,L,12,19
+1936-11-28,Colorado College,RMC,W.T. VandeGraaff,H,Brigham Young,RMC,Ott Romney,W,6,0
+1936-10-03,Kentucky,SEC,C.A. Wynne,H,Virginia Military Institute,Southern,,W,38,0
+1936-10-10,Kentucky,SEC,C.A. Wynne,A,Georgia Tech,SEC,William Alexander,L,0,34
+1936-10-17,Kentucky,SEC,C.A. Wynne,A,Washington & Lee,Southern,Tex Tilson,W,39,7
+1936-10-24,Kentucky,SEC,C.A. Wynne,H,Florida,SEC,Josh Cody,W,7,0
+1936-10-31,Kentucky,SEC,C.A. Wynne,H,Alabama,SEC,Frank Thomas,L,0,14
+1936-11-07,Kentucky,SEC,C.A. Wynne,A,Manhattan,Ind,,L,7,13
+1936-11-14,Kentucky,SEC,C.A. Wynne,H,Clemson,Southern,Jess Neely,W,7,6
+1936-11-26,Kentucky,SEC,C.A. Wynne,A,Tennessee,SEC,Bob Neyland,L,6,7
+1936-10-03,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,10
+1936-10-10,California,PCC,Stub Allison,A,Oregon State,PCC,Lon Stiner,W,7,0
+1936-10-17,California,PCC,Stub Allison,H,UCLA,PCC,William Spaulding,L,6,17
+1936-10-24,California,PCC,Stub Allison,A,Washington,PCC,James Phelan,L,0,13
+1936-10-31,California,PCC,Stub Allison,H,Washington State,PCC,O.E. Hollingbery,L,13,14
+1936-11-07,California,PCC,Stub Allison,A,USC,PCC,Howard Jones,W,13,7
+1936-11-14,California,PCC,Stub Allison,H,Oregon,PCC,Prink Callison,W,28,0
+1936-11-21,California,PCC,Stub Allison,H,Stanford,PCC,Tiny Thornhill,W,20,0
+1936-12-26,California,PCC,Stub Allison,A,Georgia Tech,SEC,William Alexander,L,7,13
+1936-10-03,Florida,SEC,Josh Cody,H,Citadel,Southern,Tatum Gressette,W,20,14
+1936-10-10,Florida,SEC,Josh Cody,A,South Carolina,Southern,Don McCallister,L,0,7
+1936-10-24,Florida,SEC,Josh Cody,A,Kentucky,SEC,C.A. Wynne,L,0,7
+1936-10-31,Florida,SEC,Josh Cody,H,Maryland,Southern,Frank Dobson,W,7,6
+1936-11-07,Florida,SEC,Josh Cody,N,Georgia,SEC,Harry Mehre,L,8,26
+1936-11-14,Florida,SEC,Josh Cody,H,Sewanee,SEC,Heck Clark,W,18,7
+1936-11-21,Florida,SEC,Josh Cody,A,Georgia Tech,SEC,William Alexander,L,14,38
+1936-11-28,Florida,SEC,Josh Cody,A,Auburn,SEC,Jack Meagher,L,0,13
+1936-12-05,Florida,SEC,Josh Cody,H,Mississippi State,SEC,Ralph Sasse,L,0,7
+1936-10-10,Gonzaga,Ind,Mike Pecarovich,A,Saint Mary's (CA),Ind,Slip Madigan,L,13,26
+1936-10-17,Gonzaga,Ind,Mike Pecarovich,A,Montana,PCC,Doug Fessenden,L,0,6
+1936-10-25,Gonzaga,Ind,Mike Pecarovich,A,San Francisco,Ind,George Malley,W,17,7
+1936-10-31,Gonzaga,Ind,Mike Pecarovich,H,Idaho,PCC,Ted Bank,L,6,18
+1936-12-05,Gonzaga,Ind,Mike Pecarovich,H,Washington State,PCC,O.E. Hollingbery,W,13,6
+1936-09-26,Stanford,PCC,Tiny Thornhill,H,Santa Clara,Ind,,L,0,13
+1936-10-03,Stanford,PCC,Tiny Thornhill,A,Washington State,PCC,O.E. Hollingbery,L,13,14
+1936-10-10,Stanford,PCC,Tiny Thornhill,H,Oregon,PCC,Prink Callison,T,7,7
+1936-10-24,Stanford,PCC,Tiny Thornhill,H,USC,PCC,Howard Jones,L,7,14
+1936-10-31,Stanford,PCC,Tiny Thornhill,A,UCLA,PCC,William Spaulding,W,19,6
+1936-11-07,Stanford,PCC,Tiny Thornhill,H,Washington,PCC,James Phelan,T,14,14
+1936-11-14,Stanford,PCC,Tiny Thornhill,A,Oregon State,PCC,Lon Stiner,W,20,14
+1936-11-21,Stanford,PCC,Tiny Thornhill,A,California,PCC,Stub Allison,L,0,20
+1936-11-28,Stanford,PCC,Tiny Thornhill,A,Columbia,Ind,Lou Little,L,0,7
+1936-10-10,Creighton,MVC,Marchy Schwartz,H,Grinnell,MVC,Guy Looabaugh,W,12,0
+1936-10-16,Creighton,MVC,Marchy Schwartz,A,Drake,MVC,Vee Green,W,13,6
+1936-10-30,Creighton,MVC,Marchy Schwartz,A,Washburn,MVC,Elmer Holm,W,32,20
+1936-11-07,Creighton,MVC,Marchy Schwartz,H,Marquette,Ind,Frank Murray,L,6,7
+1936-11-13,Creighton,MVC,Marchy Schwartz,A,Saint Louis,Ind,,L,7,20
+1936-11-26,Creighton,MVC,Marchy Schwartz,H,Detroit Mercy,Ind,Gus Dorais,L,0,6
+1936-09-19,Presbyterian,Ind,Walter Johnson,A,Clemson,Southern,Jess Neely,L,0,19
+1936-09-25,Presbyterian,Ind,Walter Johnson,A,Georgia Tech,SEC,William Alexander,L,0,55
+1936-10-09,Presbyterian,Ind,Walter Johnson,A,Erskine,Ind,,W,14,0
+1936-10-17,Presbyterian,Ind,Walter Johnson,H,Citadel,Southern,Tatum Gressette,L,0,25
+1936-10-31,Presbyterian,Ind,Walter Johnson,A,Wake Forest,Southern,Jim Weaver,L,0,19
+1936-11-06,Presbyterian,Ind,Walter Johnson,H,Furman,Southern,,L,0,14
+1936-11-14,Presbyterian,Ind,Walter Johnson,A,Mercer,Ind,,L,7,19
+1936-11-28,Presbyterian,Ind,Walter Johnson,H,Wofford,Ind,Jules Carson,W,20,7
+1936-09-26,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Doug Fessenden,W,19,0
+1936-10-03,Washington State,PCC,O.E. Hollingbery,H,Stanford,PCC,Tiny Thornhill,W,14,13
+1936-10-10,Washington State,PCC,O.E. Hollingbery,A,Idaho,PCC,Ted Bank,W,14,0
+1936-10-17,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,T,0,0
+1936-10-24,Washington State,PCC,O.E. Hollingbery,H,Oregon,PCC,Prink Callison,W,3,0
+1936-10-31,Washington State,PCC,O.E. Hollingbery,A,California,PCC,Stub Allison,W,14,13
+1936-11-07,Washington State,PCC,O.E. Hollingbery,H,Oregon State,PCC,Lon Stiner,L,6,16
+1936-11-14,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,William Spaulding,W,32,7
+1936-11-26,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,L,0,40
+1936-12-05,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Mike Pecarovich,L,6,13
+1936-09-26,Western State,RMC,Paul Wright,A,Colorado State,RMC,Harry Hughes,L,0,13
+1936-10-03,Western State,RMC,Paul Wright,H,Colorado Mines,RMC,Wilbur White,W,13,0
+1936-10-10,Western State,RMC,Paul Wright,A,Utah,RMC,Ike Armstrong,L,0,26
+1936-10-24,Western State,RMC,Paul Wright,H,Northern Colorado,RMC,J.W. Hancock,L,10,12
+1936-11-07,Western State,RMC,Paul Wright,A,Brigham Young,RMC,Ott Romney,L,12,26
+1936-11-14,Western State,RMC,Paul Wright,H,Colorado College,RMC,W.T. VandeGraaff,L,0,7
+1936-10-03,Illinois,Western,Robert Zuppke,H,Washington (MO),MVC,Jimmy Conzelman,W,13,7
+1936-10-10,Illinois,Western,Robert Zuppke,H,USC,PCC,Howard Jones,L,6,24
+1936-10-17,Illinois,Western,Robert Zuppke,A,Iowa,Western,Ossie Solem,T,0,0
+1936-10-24,Illinois,Western,Robert Zuppke,H,Northwestern,Western,Pappy Waldorf,L,2,13
+1936-10-31,Illinois,Western,Robert Zuppke,A,Michigan,Western,Harry Kipke,W,9,6
+1936-11-14,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Francis Schmidt,L,0,13
+1936-11-21,Illinois,Western,Robert Zuppke,A,Chicago,Western,Clark Shaughnessy,W,18,7
+1936-10-03,Baylor,SWC,Morley Jennings,N,Centenary (LA),Ind,Curtis Player,L,0,10
+1936-10-10,Baylor,SWC,Morley Jennings,A,Arkansas,SWC,Fred Thomsen,L,10,14
+1936-10-17,Baylor,SWC,Morley Jennings,A,Texas,SWC,Jack Chevigny,W,21,18
+1936-10-24,Baylor,SWC,Morley Jennings,H,Texas A&M,SWC,Homer Norton,T,0,0
+1936-10-31,Baylor,SWC,Morley Jennings,A,Texas Christian,SWC,Dutch Meyer,L,0,28
+1936-11-14,Baylor,SWC,Morley Jennings,A,Oklahoma State,MVC,Ted Cox,W,13,0
+1936-11-21,Baylor,SWC,Morley Jennings,H,SMU,SWC,Madison Bell,W,13,7
+1936-11-28,Baylor,SWC,Morley Jennings,A,Rice,SWC,Jimmy Kitts,W,10,7
+1936-10-09,Manhattan,Ind,,H,North Carolina State,Southern,Hunk Anderson,W,13,6
+1936-10-17,Manhattan,Ind,,A,Holy Cross,Ind,,L,7,13
+1936-10-24,Manhattan,Ind,,H,Detroit Mercy,Ind,Gus Dorais,L,0,20
+1936-11-07,Manhattan,Ind,,H,Kentucky,SEC,C.A. Wynne,W,13,7
+1936-11-14,Manhattan,Ind,,H,Georgetown,Ind,Jack Hagerty,W,13,0
+1936-11-21,Manhattan,Ind,,H,Villanova,Ind,,L,0,12
+1936-12-05,Manhattan,Ind,,A,Texas A&M,SWC,Homer Norton,L,6,13
+1936-10-10,SMU,SWC,Madison Bell,A,Fordham,Ind,Jimmy Crowley,L,0,7
+1936-10-17,SMU,SWC,Madison Bell,H,Vanderbilt,SEC,Ray Morrison,W,16,0
+1936-10-31,SMU,SWC,Madison Bell,A,Texas,SWC,Jack Chevigny,W,14,7
+1936-11-07,SMU,SWC,Madison Bell,H,Texas A&M,SWC,Homer Norton,L,6,22
+1936-11-14,SMU,SWC,Madison Bell,H,Arkansas,SWC,Fred Thomsen,L,0,17
+1936-11-21,SMU,SWC,Madison Bell,A,Baylor,SWC,Morley Jennings,L,7,13
+1936-11-28,SMU,SWC,Madison Bell,H,Texas Christian,SWC,Dutch Meyer,T,0,0
+1936-12-05,SMU,SWC,Madison Bell,A,Rice,SWC,Jimmy Kitts,W,9,0
+1936-09-26,Georgia,SEC,Harry Mehre,H,Mercer,Ind,,W,15,6
+1936-10-03,Georgia,SEC,Harry Mehre,H,Furman,Southern,,W,13,0
+1936-10-10,Georgia,SEC,Harry Mehre,A,LSU,SEC,Bernie Moore,L,7,47
+1936-10-17,Georgia,SEC,Harry Mehre,H,Rice,SWC,Jimmy Kitts,L,6,13
+1936-10-24,Georgia,SEC,Harry Mehre,N,Auburn,SEC,Jack Meagher,L,13,20
+1936-10-31,Georgia,SEC,Harry Mehre,H,Tennessee,SEC,Bob Neyland,L,0,46
+1936-11-07,Georgia,SEC,Harry Mehre,N,Florida,SEC,Josh Cody,W,26,8
+1936-11-14,Georgia,SEC,Harry Mehre,A,Tulane,SEC,Red Dawson,W,12,6
+1936-11-21,Georgia,SEC,Harry Mehre,A,Fordham,Ind,Jimmy Crowley,T,7,7
+1936-11-28,Georgia,SEC,Harry Mehre,H,Georgia Tech,SEC,William Alexander,W,16,6
+1936-10-03,Maryland,Southern,Frank Dobson,A,Virginia Tech,Southern,Henry Redd,W,6,0
+1936-10-10,Maryland,Southern,Frank Dobson,A,North Carolina,Southern,Raymond Wolf,L,0,14
+1936-10-17,Maryland,Southern,Frank Dobson,A,Virginia,Ind,Gus Tebell,W,21,0
+1936-10-24,Maryland,Southern,Frank Dobson,A,Syracuse,Ind,Vic Hanson,W,20,0
+1936-10-31,Maryland,Southern,Frank Dobson,A,Florida,SEC,Josh Cody,L,6,7
+1936-11-07,Maryland,Southern,Frank Dobson,A,Richmond,Southern,Glenn Thistlethwaite,W,12,0
+1936-11-14,Maryland,Southern,Frank Dobson,H,Virginia Military Institute,Southern,,L,7,13
+1936-11-21,Maryland,Southern,Frank Dobson,H,Georgetown,Ind,Jack Hagerty,L,6,7
+1936-11-26,Maryland,Southern,Frank Dobson,H,Washington & Lee,Southern,Tex Tilson,W,19,6
+1936-10-03,Virginia,Ind,Gus Tebell,N,William & Mary,Southern,,W,7,0
+1936-10-10,Virginia,Ind,Gus Tebell,A,Navy,Ind,Thomas Hamilton,L,14,35
+1936-10-17,Virginia,Ind,Gus Tebell,H,Maryland,Southern,Frank Dobson,L,0,21
+1936-10-24,Virginia,Ind,Gus Tebell,H,Washington & Lee,Southern,Tex Tilson,L,0,13
+1936-10-31,Virginia,Ind,Gus Tebell,A,Virginia Military Institute,Southern,,L,6,12
+1936-11-07,Virginia,Ind,Gus Tebell,A,Harvard,Ind,,L,0,65
+1936-11-14,Virginia,Ind,Gus Tebell,A,Virginia Tech,Southern,Henry Redd,L,6,7
+1936-11-26,Virginia,Ind,Gus Tebell,H,North Carolina,Southern,Raymond Wolf,L,14,59
+1936-10-03,Idaho,PCC,Ted Bank,A,Washington,PCC,James Phelan,L,0,22
+1936-10-10,Idaho,PCC,Ted Bank,H,Washington State,PCC,O.E. Hollingbery,L,0,14
+1936-10-17,Idaho,PCC,Ted Bank,A,Oregon,PCC,Prink Callison,L,0,13
+1936-10-31,Idaho,PCC,Ted Bank,A,Gonzaga,Ind,Mike Pecarovich,W,18,6
+1936-11-07,Idaho,PCC,Ted Bank,H,Saint Mary's (CA),Ind,Slip Madigan,L,7,26
+1936-11-14,Idaho,PCC,Ted Bank,A,Montana,PCC,Doug Fessenden,L,0,16
+1936-11-21,Idaho,PCC,Ted Bank,H,Utah State,RMC,,L,0,10
+1936-10-09,Northern Arizona,BIAA,Mark McIntosh,A,New Mexico State,BIAA,Gerald Hines,L,0,41
+1936-10-24,Northern Arizona,BIAA,Mark McIntosh,H,Arizona State,BIAA,Rudy Lavik,W,19,0
+1936-11-07,Northern Arizona,BIAA,Mark McIntosh,H,UTEP,BIAA,Mack Saxon,T,0,0
+1936-11-21,Northern Arizona,BIAA,Mark McIntosh,A,Arizona State,BIAA,Rudy Lavik,W,13,7
+1936-11-26,Northern Arizona,BIAA,Mark McIntosh,A,New Mexico,BIAA,Gwinn Henry,L,6,25
+1936-09-26,Citadel,Southern,Tatum Gressette,A,Erskine,Ind,,W,13,6
+1936-10-03,Citadel,Southern,Tatum Gressette,A,Florida,SEC,Josh Cody,L,14,20
+1936-10-10,Citadel,Southern,Tatum Gressette,A,Furman,Southern,,L,7,13
+1936-10-17,Citadel,Southern,Tatum Gressette,A,Presbyterian,Ind,Walter Johnson,W,25,0
+1936-10-24,Citadel,Southern,Tatum Gressette,A,Davidson,Southern,Gene McEver,L,0,21
+1936-10-30,Citadel,Southern,Tatum Gressette,N,South Carolina,Southern,Don McCallister,L,0,9
+1936-11-07,Citadel,Southern,Tatum Gressette,H,Clemson,Southern,Jess Neely,L,0,20
+1936-11-21,Citadel,Southern,Tatum Gressette,N,Wofford,Ind,Jules Carson,W,41,0
+1936-09-26,Oklahoma,Big 6,Biff Jones,H,Tulsa,MVC,Vic Hurt,T,0,0
+1936-10-03,Oklahoma,Big 6,Biff Jones,A,Colorado,RMC,Bunny Oakes,W,8,0
+1936-10-10,Oklahoma,Big 6,Biff Jones,N,Texas,SWC,Jack Chevigny,L,0,6
+1936-10-17,Oklahoma,Big 6,Biff Jones,A,Kansas,Big 6,Adrian Lindsey,W,14,0
+1936-10-24,Oklahoma,Big 6,Biff Jones,H,Nebraska,Big 6,Dana Bible,L,0,14
+1936-10-31,Oklahoma,Big 6,Biff Jones,A,Iowa State,Big 6,George Veenker,T,7,7
+1936-11-07,Oklahoma,Big 6,Biff Jones,H,Kansas State,Big 6,Wesley Fry,T,6,6
+1936-11-14,Oklahoma,Big 6,Biff Jones,H,Missouri,Big 6,Don Faurot,L,14,21
+1936-11-26,Oklahoma,Big 6,Biff Jones,A,Oklahoma State,MVC,Ted Cox,W,35,13
+1936-09-26,Virginia Tech,Southern,Henry Redd,A,Clemson,Southern,Jess Neely,L,0,20
+1936-10-03,Virginia Tech,Southern,Henry Redd,H,Maryland,Southern,Frank Dobson,L,0,6
+1936-10-10,Virginia Tech,Southern,Henry Redd,N,William & Mary,Southern,,W,14,0
+1936-10-17,Virginia Tech,Southern,Henry Redd,A,South Carolina,Southern,Don McCallister,L,0,14
+1936-10-24,Virginia Tech,Southern,Henry Redd,A,North Carolina State,Southern,Hunk Anderson,L,0,13
+1936-10-31,Virginia Tech,Southern,Henry Redd,H,Richmond,Southern,Glenn Thistlethwaite,W,20,7
+1936-11-07,Virginia Tech,Southern,Henry Redd,A,Washington & Lee,Southern,Tex Tilson,L,0,27
+1936-11-14,Virginia Tech,Southern,Henry Redd,H,Virginia,Ind,Gus Tebell,W,7,6
+1936-11-26,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,,W,6,0
+1936-10-03,Arkansas,SWC,Fred Thomsen,A,Texas Christian,SWC,Dutch Meyer,L,14,18
+1936-10-10,Arkansas,SWC,Fred Thomsen,H,Baylor,SWC,Morley Jennings,W,14,10
+1936-10-16,Arkansas,SWC,Fred Thomsen,A,George Washington,Ind,James Pixlee,L,6,13
+1936-10-24,Arkansas,SWC,Fred Thomsen,N,LSU,SEC,Bernie Moore,L,7,19
+1936-10-31,Arkansas,SWC,Fred Thomsen,A,Texas A&M,SWC,Homer Norton,W,18,0
+1936-11-07,Arkansas,SWC,Fred Thomsen,H,Rice,SWC,Jimmy Kitts,W,20,14
+1936-11-14,Arkansas,SWC,Fred Thomsen,A,SMU,SWC,Madison Bell,W,17,0
+1936-11-26,Arkansas,SWC,Fred Thomsen,A,Tulsa,MVC,Vic Hurt,W,23,13
+1936-12-03,Arkansas,SWC,Fred Thomsen,H,Texas,SWC,Jack Chevigny,W,6,0
+1936-09-19,Clemson,Southern,Jess Neely,H,Presbyterian,Ind,Walter Johnson,W,19,0
+1936-09-26,Clemson,Southern,Jess Neely,H,Virginia Tech,Southern,Henry Redd,W,20,0
+1936-10-03,Clemson,Southern,Jess Neely,A,Alabama,SEC,Frank Thomas,L,0,32
+1936-10-10,Clemson,Southern,Jess Neely,A,Duke,Southern,Wallace Wade,L,0,25
+1936-10-16,Clemson,Southern,Jess Neely,A,Wake Forest,Southern,Jim Weaver,L,0,6
+1936-10-22,Clemson,Southern,Jess Neely,A,South Carolina,Southern,Don McCallister,W,19,0
+1936-10-31,Clemson,Southern,Jess Neely,A,Georgia Tech,SEC,William Alexander,W,14,13
+1936-11-07,Clemson,Southern,Jess Neely,A,Citadel,Southern,Tatum Gressette,W,20,0
+1936-11-14,Clemson,Southern,Jess Neely,A,Kentucky,SEC,C.A. Wynne,L,6,7
+1936-11-26,Clemson,Southern,Jess Neely,H,Furman,Southern,,L,0,12
+1936-09-19,South Carolina,Southern,Don McCallister,H,Erskine,Ind,,W,38,0
+1936-09-26,South Carolina,Southern,Don McCallister,A,Virginia Military Institute,Southern,,L,7,24
+1936-10-03,South Carolina,Southern,Don McCallister,H,Duke,Southern,Wallace Wade,L,0,21
+1936-10-10,South Carolina,Southern,Don McCallister,H,Florida,SEC,Josh Cody,W,7,0
+1936-10-17,South Carolina,Southern,Don McCallister,H,Virginia Tech,Southern,Henry Redd,W,14,0
+1936-10-22,South Carolina,Southern,Don McCallister,H,Clemson,Southern,Jess Neely,L,0,19
+1936-10-30,South Carolina,Southern,Don McCallister,N,Citadel,Southern,Tatum Gressette,W,9,0
+1936-11-07,South Carolina,Southern,Don McCallister,H,Villanova,Ind,,L,0,14
+1936-11-14,South Carolina,Southern,Don McCallister,A,Furman,Southern,,L,6,23
+1936-11-21,South Carolina,Southern,Don McCallister,H,North Carolina,Southern,Raymond Wolf,L,0,14
+1936-12-11,South Carolina,Southern,Don McCallister,A,Miami (FL),Ind,Irl Tubbs,W,6,3
+1936-09-26,Washington,PCC,James Phelan,H,Minnesota,Western,Bernie Bierman,L,7,14
+1936-10-03,Washington,PCC,James Phelan,H,Idaho,PCC,Ted Bank,W,22,0
+1936-10-10,Washington,PCC,James Phelan,A,UCLA,PCC,William Spaulding,W,14,0
+1936-10-17,Washington,PCC,James Phelan,H,Oregon State,PCC,Lon Stiner,W,19,7
+1936-10-24,Washington,PCC,James Phelan,H,California,PCC,Stub Allison,W,13,0
+1936-10-31,Washington,PCC,James Phelan,A,Oregon,PCC,Prink Callison,W,7,0
+1936-11-07,Washington,PCC,James Phelan,A,Stanford,PCC,Tiny Thornhill,T,14,14
+1936-11-14,Washington,PCC,James Phelan,H,USC,PCC,Howard Jones,W,12,0
+1936-11-26,Washington,PCC,James Phelan,H,Washington State,PCC,O.E. Hollingbery,W,40,0
+1937-01-01,Washington,PCC,James Phelan,N,Pitt,Ind,Jock Sutherland,L,0,21
+1936-09-26,Santa Clara,Ind,,A,Stanford,PCC,Tiny Thornhill,W,13,0
+1936-10-10,Santa Clara,Ind,,H,San Francisco,Ind,George Malley,W,15,7
+1936-10-30,Santa Clara,Ind,,H,Auburn,SEC,Jack Meagher,W,12,0
+1936-11-15,Santa Clara,Ind,,A,Saint Mary's (CA),Ind,Slip Madigan,W,19,0
+1936-11-22,Santa Clara,Ind,,A,Loyola Marymount,Ind,Tom Lieb,W,13,6
+1936-12-05,Santa Clara,Ind,,H,Texas Christian,SWC,Dutch Meyer,L,0,9
+1937-01-01,Santa Clara,Ind,,N,LSU,SEC,Bernie Moore,W,21,14
+1936-10-10,Holy Cross,Ind,,A,Dartmouth,Ind,Red Blaik,W,7,0
+1936-10-17,Holy Cross,Ind,,H,Manhattan,Ind,,W,13,7
+1936-10-24,Holy Cross,Ind,,H,Carnegie Mellon,Ind,Howard Harpster,W,7,0
+1936-10-31,Holy Cross,Ind,,A,Temple,Ind,Pop Warner,L,0,3
+1936-11-07,Holy Cross,Ind,,H,Colgate,Ind,Andrew Kerr,W,20,13
+1936-11-14,Holy Cross,Ind,,A,Brown,Ind,DeOrmond McLaughry,W,32,0
+1936-09-26,Utah State,RMC,,H,Montana State,RMC,Jack Croft,W,12,0
+1936-10-10,Utah State,RMC,,A,Wyoming,RMC,Dutch Witte,W,25,0
+1936-10-17,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,W,13,0
+1936-10-24,Utah State,RMC,,H,Utah,RMC,Ike Armstrong,W,12,0
+1936-10-31,Utah State,RMC,,A,Denver,RMC,William Saunders,T,0,0
+1936-11-07,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,W,13,0
+1936-11-14,Utah State,RMC,,H,Colorado,RMC,Bunny Oakes,W,14,13
+1936-11-21,Utah State,RMC,,A,Idaho,PCC,Ted Bank,W,10,0
+1936-10-10,Missouri,Big 6,Don Faurot,A,Kansas State,Big 6,Wesley Fry,T,7,7
+1936-10-17,Missouri,Big 6,Don Faurot,A,Michigan State,Ind,Charlie Bachman,L,0,13
+1936-10-24,Missouri,Big 6,Don Faurot,H,Iowa State,Big 6,George Veenker,W,10,0
+1936-10-31,Missouri,Big 6,Don Faurot,A,Nebraska,Big 6,Dana Bible,L,0,20
+1936-11-07,Missouri,Big 6,Don Faurot,A,Saint Louis,Ind,,W,13,7
+1936-11-14,Missouri,Big 6,Don Faurot,A,Oklahoma,Big 6,Biff Jones,W,21,14
+1936-11-21,Missouri,Big 6,Don Faurot,H,Washington (MO),MVC,Jimmy Conzelman,W,17,10
+1936-11-26,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,Adrian Lindsey,W,19,3
+1936-09-26,Montana State,RMC,Jack Croft,A,Utah State,RMC,,L,0,12
+1936-10-03,Montana State,RMC,Jack Croft,A,Brigham Young,RMC,Ott Romney,L,0,19
+1936-10-10,Montana State,RMC,Jack Croft,H,Colorado College,RMC,W.T. VandeGraaff,W,6,3
+1936-10-17,Montana State,RMC,Jack Croft,H,Northern Colorado,RMC,J.W. Hancock,L,0,13
+1936-10-24,Montana State,RMC,Jack Croft,N,Montana,PCC,Doug Fessenden,L,0,27
+1936-11-07,Montana State,RMC,Jack Croft,A,Wyoming,RMC,Dutch Witte,L,6,19
+1936-09-26,Denver,RMC,William Saunders,H,Colorado Mines,RMC,Wilbur White,W,20,8
+1936-10-02,Denver,RMC,William Saunders,H,Colorado College,RMC,W.T. VandeGraaff,W,7,2
+1936-10-10,Denver,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,W,14,7
+1936-10-17,Denver,RMC,William Saunders,H,Utah,RMC,Ike Armstrong,L,6,31
+1936-10-24,Denver,RMC,William Saunders,H,Wyoming,RMC,Dutch Witte,W,25,14
+1936-10-31,Denver,RMC,William Saunders,H,Utah State,RMC,,T,0,0
+1936-11-07,Denver,RMC,William Saunders,A,Drake,MVC,Vee Green,W,27,13
+1936-11-14,Denver,RMC,William Saunders,H,Brigham Young,RMC,Ott Romney,W,35,7
+1936-11-26,Denver,RMC,William Saunders,H,Colorado,RMC,Bunny Oakes,W,7,6
+1936-09-19,Wofford,Ind,Jules Carson,A,Virginia Military Institute,Southern,,L,0,19
+1936-09-26,Wofford,Ind,Jules Carson,H,Furman,Southern,,L,0,31
+1936-10-10,Wofford,Ind,Jules Carson,A,Wake Forest,Southern,Jim Weaver,L,0,32
+1936-10-24,Wofford,Ind,Jules Carson,H,Erskine,Ind,,L,0,26
+1936-11-21,Wofford,Ind,Jules Carson,N,Citadel,Southern,Tatum Gressette,L,0,41
+1936-11-28,Wofford,Ind,Jules Carson,A,Presbyterian,Ind,Walter Johnson,L,7,20
+1936-10-03,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Frank Murray,L,6,12
+1936-10-10,Wisconsin,Western,Harry Stuhldreher,A,Purdue,Western,Noble Kizer,L,14,35
+1936-10-17,Wisconsin,Western,Harry Stuhldreher,A,Notre Dame,Ind,Elmer Layden,L,0,27
+1936-10-31,Wisconsin,Western,Harry Stuhldreher,H,Chicago,Western,Clark Shaughnessy,L,6,7
+1936-11-07,Wisconsin,Western,Harry Stuhldreher,A,Northwestern,Western,Pappy Waldorf,L,18,26
+1936-11-21,Wisconsin,Western,Harry Stuhldreher,H,Minnesota,Western,Bernie Bierman,L,0,24
+1936-10-09,Bucknell,Ind,Hook Mylin,H,Miami (FL),Ind,Irl Tubbs,L,0,6
+1936-10-17,Bucknell,Ind,Hook Mylin,A,Georgetown,Ind,Jack Hagerty,L,0,19
+1936-10-31,Bucknell,Ind,Hook Mylin,H,Villanova,Ind,,W,6,0
+1936-11-07,Bucknell,Ind,Hook Mylin,A,Detroit Mercy,Ind,Gus Dorais,L,7,33
+1936-11-21,Bucknell,Ind,Hook Mylin,A,Penn State,Ind,Bob Higgins,L,0,14
+1936-11-28,Bucknell,Ind,Hook Mylin,A,Temple,Ind,Pop Warner,T,0,0
+1936-09-26,USC,PCC,Howard Jones,H,Oregon State,PCC,Lon Stiner,W,38,7
+1936-10-03,USC,PCC,Howard Jones,H,Oregon,PCC,Prink Callison,W,26,0
+1936-10-10,USC,PCC,Howard Jones,A,Illinois,Western,Robert Zuppke,W,24,6
+1936-10-17,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,T,0,0
+1936-10-24,USC,PCC,Howard Jones,A,Stanford,PCC,Tiny Thornhill,W,14,7
+1936-11-07,USC,PCC,Howard Jones,H,California,PCC,Stub Allison,L,7,13
+1936-11-14,USC,PCC,Howard Jones,A,Washington,PCC,James Phelan,L,0,12
+1936-11-26,USC,PCC,Howard Jones,H,UCLA,PCC,William Spaulding,T,7,7
+1936-12-05,USC,PCC,Howard Jones,H,Notre Dame,Ind,Elmer Layden,T,13,13
+1936-09-26,Colorado Mines,RMC,Wilbur White,A,Denver,RMC,William Saunders,L,8,20
+1936-10-03,Colorado Mines,RMC,Wilbur White,A,Western State,RMC,Paul Wright,L,0,13
+1936-10-17,Colorado Mines,RMC,Wilbur White,A,Colorado,RMC,Bunny Oakes,L,0,33
+1936-10-24,Colorado Mines,RMC,Wilbur White,A,Colorado College,RMC,W.T. VandeGraaff,L,0,14
+1936-10-31,Colorado Mines,RMC,Wilbur White,A,Wyoming,RMC,Dutch Witte,L,0,27
+1936-11-21,Colorado Mines,RMC,Wilbur White,A,Northern Colorado,RMC,J.W. Hancock,L,10,27
+1936-09-26,North Carolina State,Southern,Hunk Anderson,H,Davidson,Southern,Gene McEver,L,6,14
+1936-10-03,North Carolina State,Southern,Hunk Anderson,H,Wake Forest,Southern,Jim Weaver,L,0,9
+1936-10-09,North Carolina State,Southern,Hunk Anderson,A,Manhattan,Ind,,L,6,13
+1936-10-17,North Carolina State,Southern,Hunk Anderson,H,Furman,Southern,,W,27,0
+1936-10-24,North Carolina State,Southern,Hunk Anderson,H,Virginia Tech,Southern,Henry Redd,W,13,0
+1936-10-31,North Carolina State,Southern,Hunk Anderson,A,North Carolina,Southern,Raymond Wolf,L,6,21
+1936-11-26,North Carolina State,Southern,Hunk Anderson,A,Duke,Southern,Wallace Wade,L,0,13
+1936-10-03,Centenary (LA),Ind,Curtis Player,N,Baylor,SWC,Morley Jennings,W,10,0
+1936-10-10,Centenary (LA),Ind,Curtis Player,A,Tulane,SEC,Red Dawson,L,0,19
+1936-10-17,Centenary (LA),Ind,Curtis Player,A,Arizona,BIAA,Tex Oliver,T,13,13
+1936-10-24,Centenary (LA),Ind,Curtis Player,A,Texas Tech,BIAA,Pete Cawthon,L,6,12
+1936-10-31,Centenary (LA),Ind,Curtis Player,H,Ole Miss,SEC,Ed Walker,L,7,24
+1936-11-07,Centenary (LA),Ind,Curtis Player,A,Tulsa,MVC,Vic Hurt,T,3,3
+1936-11-14,Centenary (LA),Ind,Curtis Player,A,Texas Christian,SWC,Dutch Meyer,L,0,26
+1936-11-21,Centenary (LA),Ind,Curtis Player,H,Texas A&M,SWC,Homer Norton,W,3,0
+1936-12-05,Centenary (LA),Ind,Curtis Player,H,Oklahoma State,MVC,Ted Cox,W,7,0
+1936-10-03,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Charlie Bachman,L,7,21
+1936-10-10,Michigan,Western,Harry Kipke,H,Indiana,Western,Bo McMillin,L,3,14
+1936-10-17,Michigan,Western,Harry Kipke,A,Minnesota,Western,Bernie Bierman,L,0,26
+1936-10-24,Michigan,Western,Harry Kipke,H,Columbia,Ind,Lou Little,W,13,0
+1936-10-31,Michigan,Western,Harry Kipke,H,Illinois,Western,Robert Zuppke,L,6,9
+1936-11-07,Michigan,Western,Harry Kipke,A,Pennsylvania,Ind,Harvey Harman,L,7,27
+1936-11-14,Michigan,Western,Harry Kipke,H,Northwestern,Western,Pappy Waldorf,L,0,9
+1936-11-21,Michigan,Western,Harry Kipke,A,Ohio State,Western,Francis Schmidt,L,0,21
+1936-10-03,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,,L,6,13
+1936-10-09,Detroit Mercy,Ind,Gus Dorais,H,Oklahoma State,MVC,Ted Cox,W,46,12
+1936-10-17,Detroit Mercy,Ind,Gus Dorais,H,Auburn,SEC,Jack Meagher,L,0,6
+1936-10-24,Detroit Mercy,Ind,Gus Dorais,A,Manhattan,Ind,,W,20,0
+1936-10-30,Detroit Mercy,Ind,Gus Dorais,H,Duquesne,Ind,,W,14,7
+1936-11-07,Detroit Mercy,Ind,Gus Dorais,H,Bucknell,Ind,Hook Mylin,W,33,7
+1936-11-26,Detroit Mercy,Ind,Gus Dorais,A,Creighton,MVC,Marchy Schwartz,W,6,0
+1936-10-02,Temple,Ind,Pop Warner,H,Ole Miss,SEC,Ed Walker,W,12,7
+1936-10-17,Temple,Ind,Pop Warner,A,Carnegie Mellon,Ind,Howard Harpster,L,0,7
+1936-10-31,Temple,Ind,Pop Warner,H,Holy Cross,Ind,,W,3,0
+1936-11-07,Temple,Ind,Pop Warner,H,Michigan State,Ind,Charlie Bachman,T,7,7
+1936-11-14,Temple,Ind,Pop Warner,H,Villanova,Ind,,W,6,0
+1936-11-21,Temple,Ind,Pop Warner,H,Iowa,Western,Ossie Solem,L,0,25
+1936-11-28,Temple,Ind,Pop Warner,H,Bucknell,Ind,Hook Mylin,T,0,0
+1936-12-05,Temple,Ind,Pop Warner,A,Saint Mary's (CA),Ind,Slip Madigan,L,7,13
+1936-10-17,Loyola Marymount,Ind,Tom Lieb,H,Saint Mary's (CA),Ind,Slip Madigan,L,7,19
+1936-11-12,Loyola Marymount,Ind,Tom Lieb,H,Texas Tech,BIAA,Pete Cawthon,W,26,7
+1936-11-22,Loyola Marymount,Ind,Tom Lieb,H,Santa Clara,Ind,,L,6,13
+1936-11-29,Loyola Marymount,Ind,Tom Lieb,A,San Francisco,Ind,George Malley,L,14,17
+1936-10-03,New Mexico,BIAA,Gwinn Henry,A,Colorado State,RMC,Harry Hughes,L,7,9
+1936-10-17,New Mexico,BIAA,Gwinn Henry,A,UTEP,BIAA,Mack Saxon,L,7,12
+1936-10-31,New Mexico,BIAA,Gwinn Henry,A,Arizona State,BIAA,Rudy Lavik,L,6,7
+1936-11-07,New Mexico,BIAA,Gwinn Henry,A,Arizona,BIAA,Tex Oliver,L,0,28
+1936-11-14,New Mexico,BIAA,Gwinn Henry,H,New Mexico State,BIAA,Gerald Hines,L,6,7
+1936-11-26,New Mexico,BIAA,Gwinn Henry,H,Northern Arizona,BIAA,Mark McIntosh,W,25,6
+1936-10-03,Notre Dame,Ind,Elmer Layden,H,Carnegie Mellon,Ind,Howard Harpster,W,21,7
+1936-10-10,Notre Dame,Ind,Elmer Layden,H,Washington (MO),MVC,Jimmy Conzelman,W,14,6
+1936-10-17,Notre Dame,Ind,Elmer Layden,H,Wisconsin,Western,Harry Stuhldreher,W,27,0
+1936-10-24,Notre Dame,Ind,Elmer Layden,A,Pitt,Ind,Jock Sutherland,L,0,26
+1936-10-31,Notre Dame,Ind,Elmer Layden,H,Ohio State,Western,Francis Schmidt,W,7,2
+1936-11-07,Notre Dame,Ind,Elmer Layden,A,Navy,Ind,Thomas Hamilton,L,0,3
+1936-11-14,Notre Dame,Ind,Elmer Layden,A,Army,Ind,Gar Davidson,W,20,6
+1936-11-21,Notre Dame,Ind,Elmer Layden,H,Northwestern,Western,Pappy Waldorf,W,26,6
+1936-12-05,Notre Dame,Ind,Elmer Layden,A,USC,PCC,Howard Jones,T,13,13
+1936-10-03,Pitt,Ind,Jock Sutherland,H,West Virginia,Ind,Trusty Tallman,W,34,0
+1936-10-10,Pitt,Ind,Jock Sutherland,A,Ohio State,Western,Francis Schmidt,W,6,0
+1936-10-17,Pitt,Ind,Jock Sutherland,H,Duquesne,Ind,,L,0,7
+1936-10-24,Pitt,Ind,Jock Sutherland,H,Notre Dame,Ind,Elmer Layden,W,26,0
+1936-10-31,Pitt,Ind,Jock Sutherland,A,Fordham,Ind,Jimmy Crowley,T,0,0
+1936-11-07,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Bob Higgins,W,34,7
+1936-11-14,Pitt,Ind,Jock Sutherland,A,Nebraska,Big 6,Dana Bible,W,19,6
+1936-11-26,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Howard Harpster,W,31,14
+1937-01-01,Pitt,Ind,Jock Sutherland,N,Washington,PCC,James Phelan,W,21,0
+1936-10-03,Carnegie Mellon,Ind,Howard Harpster,A,Notre Dame,Ind,Elmer Layden,L,7,21
+1936-10-10,Carnegie Mellon,Ind,Howard Harpster,H,Michigan State,Ind,Charlie Bachman,L,0,7
+1936-10-17,Carnegie Mellon,Ind,Howard Harpster,H,Temple,Ind,Pop Warner,W,7,0
+1936-10-24,Carnegie Mellon,Ind,Howard Harpster,A,Holy Cross,Ind,,L,0,7
+1936-10-31,Carnegie Mellon,Ind,Howard Harpster,H,Purdue,Western,Noble Kizer,L,6,7
+1936-11-07,Carnegie Mellon,Ind,Howard Harpster,A,New York University,Ind,Mal Stevens,W,14,6
+1936-11-14,Carnegie Mellon,Ind,Howard Harpster,H,Duquesne,Ind,,L,0,13
+1936-11-26,Carnegie Mellon,Ind,Howard Harpster,A,Pitt,Ind,Jock Sutherland,L,14,31
+1936-09-26,Mercer,Ind,,A,Georgia,SEC,Harry Mehre,L,6,15
+1936-10-23,Mercer,Ind,,H,Furman,Southern,,L,9,20
+1936-11-14,Mercer,Ind,,H,Presbyterian,Ind,Walter Johnson,W,19,7
+1936-11-20,Mercer,Ind,,A,Miami (FL),Ind,Irl Tubbs,L,0,13
+1936-11-28,Mercer,Ind,,A,Mississippi State,SEC,Ralph Sasse,L,0,32
+1936-10-03,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,Stub Allison,W,10,0
+1936-10-10,Saint Mary's (CA),Ind,Slip Madigan,H,Gonzaga,Ind,Mike Pecarovich,W,26,13
+1936-10-17,Saint Mary's (CA),Ind,Slip Madigan,A,Loyola Marymount,Ind,Tom Lieb,W,19,7
+1936-10-24,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Jimmy Crowley,L,6,7
+1936-10-31,Saint Mary's (CA),Ind,Slip Madigan,A,Marquette,Ind,Frank Murray,L,6,20
+1936-11-07,Saint Mary's (CA),Ind,Slip Madigan,A,Idaho,PCC,Ted Bank,W,26,7
+1936-11-14,Saint Mary's (CA),Ind,Slip Madigan,H,San Francisco,Ind,George Malley,T,0,0
+1936-11-15,Saint Mary's (CA),Ind,Slip Madigan,H,Santa Clara,Ind,,L,0,19
+1936-12-05,Saint Mary's (CA),Ind,Slip Madigan,H,Temple,Ind,Pop Warner,W,13,7
+1936-10-09,George Washington,Ind,James Pixlee,H,Ole Miss,SEC,Ed Walker,T,0,0
+1936-10-16,George Washington,Ind,James Pixlee,H,Arkansas,SWC,Fred Thomsen,W,13,6
+1936-10-23,George Washington,Ind,James Pixlee,H,Wake Forest,Southern,Jim Weaver,W,13,12
+1936-10-31,George Washington,Ind,James Pixlee,A,Rice,SWC,Jimmy Kitts,L,6,12
+1936-11-26,George Washington,Ind,James Pixlee,H,West Virginia,Ind,Trusty Tallman,W,7,2
+1936-10-02,Wyoming,RMC,Dutch Witte,A,Northern Colorado,RMC,J.W. Hancock,L,7,13
+1936-10-10,Wyoming,RMC,Dutch Witte,H,Utah State,RMC,,L,0,25
+1936-10-17,Wyoming,RMC,Dutch Witte,H,Colorado State,RMC,Harry Hughes,T,0,0
+1936-10-24,Wyoming,RMC,Dutch Witte,A,Denver,RMC,William Saunders,L,14,25
+1936-10-31,Wyoming,RMC,Dutch Witte,H,Colorado Mines,RMC,Wilbur White,W,27,0
+1936-11-07,Wyoming,RMC,Dutch Witte,H,Montana State,RMC,Jack Croft,W,19,6
+1936-11-21,Wyoming,RMC,Dutch Witte,A,Brigham Young,RMC,Ott Romney,L,7,32
+1936-11-28,Wyoming,RMC,Dutch Witte,A,Arizona,BIAA,Tex Oliver,L,0,58
+1936-09-25,Brigham Young,RMC,Ott Romney,A,Arizona,BIAA,Tex Oliver,L,6,32
+1936-10-03,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Jack Croft,W,19,0
+1936-10-09,Brigham Young,RMC,Ott Romney,A,Northern Colorado,RMC,J.W. Hancock,W,33,0
+1936-10-17,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,L,0,13
+1936-10-31,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,18
+1936-11-07,Brigham Young,RMC,Ott Romney,H,Western State,RMC,Paul Wright,W,26,12
+1936-11-14,Brigham Young,RMC,Ott Romney,A,Denver,RMC,William Saunders,L,7,35
+1936-11-21,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,Dutch Witte,W,32,7
+1936-11-28,Brigham Young,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,L,0,6
+1936-10-02,Duquesne,Ind,,H,Rice,SWC,Jimmy Kitts,W,14,0
+1936-10-17,Duquesne,Ind,,A,Pitt,Ind,Jock Sutherland,W,7,0
+1936-10-30,Duquesne,Ind,,A,Detroit Mercy,Ind,Gus Dorais,L,7,14
+1936-11-06,Duquesne,Ind,,A,Washington (MO),MVC,Jimmy Conzelman,W,26,0
+1936-11-14,Duquesne,Ind,,A,Carnegie Mellon,Ind,Howard Harpster,W,13,0
+1936-11-21,Duquesne,Ind,,H,Marquette,Ind,Frank Murray,W,13,0
+1937-01-01,Duquesne,Ind,,N,Mississippi State,SEC,Ralph Sasse,W,13,12
+1936-10-03,Yale,Ind,,H,Cornell,Ind,,W,23,0
+1936-10-10,Yale,Ind,,H,Pennsylvania,Ind,Harvey Harman,W,7,0
+1936-10-17,Yale,Ind,,A,Navy,Ind,Thomas Hamilton,W,12,7
+1936-10-31,Yale,Ind,,H,Dartmouth,Ind,Red Blaik,L,7,11
+1936-11-07,Yale,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,14,6
+1936-11-14,Yale,Ind,,A,Princeton,Ind,Fritz Crisler,W,26,23
+1936-11-21,Yale,Ind,,H,Harvard,Ind,,W,14,13
+1936-10-10,Grinnell,MVC,Guy Looabaugh,A,Creighton,MVC,Marchy Schwartz,L,0,12
+1936-10-23,Grinnell,MVC,Guy Looabaugh,A,Washburn,MVC,Elmer Holm,L,6,7
+1936-10-31,Grinnell,MVC,Guy Looabaugh,A,Drake,MVC,Vee Green,L,6,19
+1936-11-20,Grinnell,MVC,Guy Looabaugh,A,Saint Louis,Ind,,L,6,33
+1936-09-25,Georgia Tech,SEC,William Alexander,H,Presbyterian,Ind,Walter Johnson,W,55,0
+1936-10-03,Georgia Tech,SEC,William Alexander,H,Sewanee,SEC,Heck Clark,W,58,0
+1936-10-10,Georgia Tech,SEC,William Alexander,H,Kentucky,SEC,C.A. Wynne,W,34,0
+1936-10-17,Georgia Tech,SEC,William Alexander,A,Duke,Southern,Wallace Wade,L,6,19
+1936-10-24,Georgia Tech,SEC,William Alexander,A,Vanderbilt,SEC,Ray Morrison,T,0,0
+1936-10-31,Georgia Tech,SEC,William Alexander,H,Clemson,Southern,Jess Neely,L,13,14
+1936-11-07,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,L,12,13
+1936-11-14,Georgia Tech,SEC,William Alexander,H,Alabama,SEC,Frank Thomas,L,16,20
+1936-11-21,Georgia Tech,SEC,William Alexander,H,Florida,SEC,Josh Cody,W,38,14
+1936-11-28,Georgia Tech,SEC,William Alexander,A,Georgia,SEC,Harry Mehre,L,6,16
+1936-12-26,Georgia Tech,SEC,William Alexander,H,California,PCC,Stub Allison,W,13,7
+1936-09-26,Wake Forest,Southern,Jim Weaver,N,North Carolina,Southern,Raymond Wolf,L,7,14
+1936-10-03,Wake Forest,Southern,Jim Weaver,A,North Carolina State,Southern,Hunk Anderson,W,9,0
+1936-10-10,Wake Forest,Southern,Jim Weaver,H,Wofford,Ind,Jules Carson,W,32,0
+1936-10-16,Wake Forest,Southern,Jim Weaver,H,Clemson,Southern,Jess Neely,W,6,0
+1936-10-23,Wake Forest,Southern,Jim Weaver,A,George Washington,Ind,James Pixlee,L,12,13
+1936-10-31,Wake Forest,Southern,Jim Weaver,H,Presbyterian,Ind,Walter Johnson,W,19,0
+1936-11-07,Wake Forest,Southern,Jim Weaver,H,Duke,Southern,Wallace Wade,L,0,20
+1936-11-13,Wake Forest,Southern,Jim Weaver,H,Erskine,Ind,,W,19,6
+1936-11-26,Wake Forest,Southern,Jim Weaver,A,Davidson,Southern,Gene McEver,L,6,19
+1936-10-10,Mississippi State,SEC,Ralph Sasse,A,Alabama,SEC,Frank Thomas,L,0,7
+1936-10-17,Mississippi State,SEC,Ralph Sasse,H,Loyola (LA),Ind,,W,32,0
+1936-10-24,Mississippi State,SEC,Ralph Sasse,A,Texas Christian,SWC,Dutch Meyer,T,0,0
+1936-10-31,Mississippi State,SEC,Ralph Sasse,H,Sewanee,SEC,Heck Clark,W,68,0
+1936-11-07,Mississippi State,SEC,Ralph Sasse,A,LSU,SEC,Bernie Moore,L,0,12
+1936-11-21,Mississippi State,SEC,Ralph Sasse,H,Ole Miss,SEC,Ed Walker,W,26,6
+1936-11-28,Mississippi State,SEC,Ralph Sasse,H,Mercer,Ind,,W,32,0
+1936-12-05,Mississippi State,SEC,Ralph Sasse,A,Florida,SEC,Josh Cody,W,7,0
+1937-01-01,Mississippi State,SEC,Ralph Sasse,N,Duquesne,Ind,,L,12,13
+1936-09-19,Virginia Military Institute,Southern,,H,Wofford,Ind,Jules Carson,W,19,0
+1936-09-26,Virginia Military Institute,Southern,,H,South Carolina,Southern,Don McCallister,W,24,7
+1936-10-03,Virginia Military Institute,Southern,,A,Kentucky,SEC,C.A. Wynne,L,0,38
+1936-10-10,Virginia Military Institute,Southern,,A,Davidson,Southern,Gene McEver,L,13,38
+1936-10-17,Virginia Military Institute,Southern,,A,Columbia,Ind,Lou Little,L,0,38
+1936-10-24,Virginia Military Institute,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,W,20,0
+1936-10-31,Virginia Military Institute,Southern,,H,Virginia,Ind,Gus Tebell,W,12,6
+1936-11-07,Virginia Military Institute,Southern,,A,William & Mary,Southern,,W,21,0
+1936-11-14,Virginia Military Institute,Southern,,A,Maryland,Southern,Frank Dobson,W,13,7
+1936-11-26,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry Redd,L,0,6
+1936-10-03,Kansas State,Big 6,Wesley Fry,A,Oklahoma State,MVC,Ted Cox,W,31,0
+1936-10-10,Kansas State,Big 6,Wesley Fry,H,Missouri,Big 6,Don Faurot,T,7,7
+1936-10-17,Kansas State,Big 6,Wesley Fry,A,Marquette,Ind,Frank Murray,L,0,13
+1936-10-24,Kansas State,Big 6,Wesley Fry,H,Kansas,Big 6,Adrian Lindsey,W,26,6
+1936-10-31,Kansas State,Big 6,Wesley Fry,A,Tulsa,MVC,Vic Hurt,L,7,10
+1936-11-07,Kansas State,Big 6,Wesley Fry,A,Oklahoma,Big 6,Biff Jones,T,6,6
+1936-11-14,Kansas State,Big 6,Wesley Fry,H,Iowa State,Big 6,George Veenker,W,47,7
+1936-11-21,Kansas State,Big 6,Wesley Fry,A,Nebraska,Big 6,Dana Bible,L,0,40
+1936-10-10,Saint Louis,Ind,,A,Marquette,Ind,Frank Murray,L,6,32
+1936-11-07,Saint Louis,Ind,,H,Missouri,Big 6,Don Faurot,L,7,13
+1936-11-13,Saint Louis,Ind,,H,Creighton,MVC,Marchy Schwartz,W,20,7
+1936-11-20,Saint Louis,Ind,,H,Grinnell,MVC,Guy Looabaugh,W,33,6
+1936-11-28,Saint Louis,Ind,,A,Washington (MO),MVC,Jimmy Conzelman,W,21,6
+1936-10-03,Army,Ind,Gar Davidson,H,Washington & Lee,Southern,Tex Tilson,W,28,0
+1936-10-10,Army,Ind,Gar Davidson,N,Columbia,Ind,Lou Little,W,27,16
+1936-10-17,Army,Ind,Gar Davidson,A,Harvard,Ind,,W,32,0
+1936-10-31,Army,Ind,Gar Davidson,H,Colgate,Ind,Andrew Kerr,L,7,14
+1936-11-14,Army,Ind,Gar Davidson,H,Notre Dame,Ind,Elmer Layden,L,6,20
+1936-11-28,Army,Ind,Gar Davidson,N,Navy,Ind,Thomas Hamilton,L,0,7
+1936-10-03,Marquette,Ind,Frank Murray,A,Wisconsin,Western,Harry Stuhldreher,W,12,6
+1936-10-10,Marquette,Ind,Frank Murray,H,Saint Louis,Ind,,W,32,6
+1936-10-17,Marquette,Ind,Frank Murray,H,Kansas State,Big 6,Wesley Fry,W,13,0
+1936-10-24,Marquette,Ind,Frank Murray,A,Michigan State,Ind,Charlie Bachman,W,13,7
+1936-10-31,Marquette,Ind,Frank Murray,H,Saint Mary's (CA),Ind,Slip Madigan,W,20,6
+1936-11-07,Marquette,Ind,Frank Murray,A,Creighton,MVC,Marchy Schwartz,W,7,6
+1936-11-14,Marquette,Ind,Frank Murray,H,Ole Miss,SEC,Ed Walker,W,33,0
+1936-11-21,Marquette,Ind,Frank Murray,A,Duquesne,Ind,,L,0,13
+1937-01-01,Marquette,Ind,Frank Murray,A,Texas Christian,SWC,Dutch Meyer,L,6,16
+1936-10-10,Dartmouth,Ind,Red Blaik,H,Holy Cross,Ind,,L,0,7
+1936-10-17,Dartmouth,Ind,Red Blaik,H,Brown,Ind,DeOrmond McLaughry,W,34,0
+1936-10-24,Dartmouth,Ind,Red Blaik,A,Harvard,Ind,,W,26,7
+1936-10-31,Dartmouth,Ind,Red Blaik,A,Yale,Ind,,W,11,7
+1936-11-07,Dartmouth,Ind,Red Blaik,H,Columbia,Ind,Lou Little,W,20,13
+1936-11-14,Dartmouth,Ind,Red Blaik,A,Cornell,Ind,,W,20,6
+1936-11-21,Dartmouth,Ind,Red Blaik,A,Princeton,Ind,Fritz Crisler,T,13,13
+1936-10-02,UCLA,PCC,William Spaulding,H,Montana,PCC,Doug Fessenden,W,30,0
+1936-10-10,UCLA,PCC,William Spaulding,H,Washington,PCC,James Phelan,L,0,14
+1936-10-17,UCLA,PCC,William Spaulding,A,California,PCC,Stub Allison,W,17,6
+1936-10-24,UCLA,PCC,William Spaulding,H,Oregon State,PCC,Lon Stiner,W,22,13
+1936-10-31,UCLA,PCC,William Spaulding,H,Stanford,PCC,Tiny Thornhill,L,6,19
+1936-11-07,UCLA,PCC,William Spaulding,A,Oregon,PCC,Prink Callison,W,7,0
+1936-11-14,UCLA,PCC,William Spaulding,H,Washington State,PCC,O.E. Hollingbery,L,7,32
+1936-11-26,UCLA,PCC,William Spaulding,A,USC,PCC,Howard Jones,T,7,7
+1936-10-03,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Red Dawson,T,0,0
+1936-10-10,Auburn,SEC,Jack Meagher,A,Tennessee,SEC,Bob Neyland,W,6,0
+1936-10-17,Auburn,SEC,Jack Meagher,A,Detroit Mercy,Ind,Gus Dorais,W,6,0
+1936-10-24,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Harry Mehre,W,20,13
+1936-10-30,Auburn,SEC,Jack Meagher,A,Santa Clara,Ind,,L,0,12
+1936-11-07,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,W,13,12
+1936-11-14,Auburn,SEC,Jack Meagher,H,LSU,SEC,Bernie Moore,L,6,19
+1936-11-21,Auburn,SEC,Jack Meagher,H,Loyola (LA),Ind,,W,44,0
+1936-11-28,Auburn,SEC,Jack Meagher,H,Florida,SEC,Josh Cody,W,13,0
+1937-01-01,Auburn,SEC,Jack Meagher,N,Villanova,Ind,,T,7,7
+1936-10-03,Northwestern,Western,Pappy Waldorf,H,Iowa,Western,Ossie Solem,W,18,7
+1936-10-17,Northwestern,Western,Pappy Waldorf,H,Ohio State,Western,Francis Schmidt,W,14,13
+1936-10-24,Northwestern,Western,Pappy Waldorf,A,Illinois,Western,Robert Zuppke,W,13,2
+1936-10-31,Northwestern,Western,Pappy Waldorf,H,Minnesota,Western,Bernie Bierman,W,6,0
+1936-11-07,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Harry Stuhldreher,W,26,18
+1936-11-14,Northwestern,Western,Pappy Waldorf,A,Michigan,Western,Harry Kipke,W,9,0
+1936-11-21,Northwestern,Western,Pappy Waldorf,A,Notre Dame,Ind,Elmer Layden,L,6,26
+1936-10-03,Kansas,Big 6,Adrian Lindsey,H,Washburn,MVC,Elmer Holm,W,19,6
+1936-10-10,Kansas,Big 6,Adrian Lindsey,A,Iowa State,Big 6,George Veenker,L,7,21
+1936-10-17,Kansas,Big 6,Adrian Lindsey,H,Oklahoma,Big 6,Biff Jones,L,0,14
+1936-10-24,Kansas,Big 6,Adrian Lindsey,A,Kansas State,Big 6,Wesley Fry,L,6,26
+1936-10-31,Kansas,Big 6,Adrian Lindsey,H,Arizona,BIAA,Tex Oliver,T,0,0
+1936-11-07,Kansas,Big 6,Adrian Lindsey,H,Nebraska,Big 6,Dana Bible,L,0,26
+1936-11-14,Kansas,Big 6,Adrian Lindsey,H,Michigan State,Ind,Charlie Bachman,L,0,41
+1936-11-26,Kansas,Big 6,Adrian Lindsey,A,Missouri,Big 6,Don Faurot,L,3,19
+1936-09-26,William & Mary,Southern,,A,Navy,Ind,Thomas Hamilton,L,6,18
+1936-10-03,William & Mary,Southern,,N,Virginia,Ind,Gus Tebell,L,0,7
+1936-10-10,William & Mary,Southern,,N,Virginia Tech,Southern,Henry Redd,L,0,14
+1936-11-07,William & Mary,Southern,,H,Virginia Military Institute,Southern,,L,0,21
+1936-11-14,William & Mary,Southern,,H,Washington & Lee,Southern,Tex Tilson,L,7,13
+1936-11-26,William & Mary,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,L,0,7
+1936-10-17,UTEP,BIAA,Mack Saxon,H,New Mexico,BIAA,Gwinn Henry,W,12,7
+1936-11-07,UTEP,BIAA,Mack Saxon,A,Northern Arizona,BIAA,Mark McIntosh,T,0,0
+1936-11-14,UTEP,BIAA,Mack Saxon,H,Arizona State,BIAA,Rudy Lavik,L,0,19
+1936-11-26,UTEP,BIAA,Mack Saxon,H,New Mexico State,BIAA,Gerald Hines,W,27,7
+1936-09-26,LSU,SEC,Bernie Moore,H,Rice,SWC,Jimmy Kitts,W,20,7
+1936-10-03,LSU,SEC,Bernie Moore,A,Texas,SWC,Jack Chevigny,T,6,6
+1936-10-10,LSU,SEC,Bernie Moore,H,Georgia,SEC,Harry Mehre,W,47,7
+1936-10-17,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Ed Walker,W,13,0
+1936-10-24,LSU,SEC,Bernie Moore,N,Arkansas,SWC,Fred Thomsen,W,19,7
+1936-10-31,LSU,SEC,Bernie Moore,A,Vanderbilt,SEC,Ray Morrison,W,19,0
+1936-11-07,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Ralph Sasse,W,12,0
+1936-11-14,LSU,SEC,Bernie Moore,A,Auburn,SEC,Jack Meagher,W,19,6
+1936-11-28,LSU,SEC,Bernie Moore,H,Tulane,SEC,Red Dawson,W,33,0
+1937-01-01,LSU,SEC,Bernie Moore,N,Santa Clara,Ind,,L,14,21
+1936-10-10,Pennsylvania,Ind,Harvey Harman,A,Yale,Ind,,L,0,7
+1936-10-17,Pennsylvania,Ind,Harvey Harman,H,Princeton,Ind,Fritz Crisler,W,7,0
+1936-10-24,Pennsylvania,Ind,Harvey Harman,H,Brown,Ind,DeOrmond McLaughry,W,48,6
+1936-10-31,Pennsylvania,Ind,Harvey Harman,H,Navy,Ind,Thomas Hamilton,W,16,6
+1936-11-07,Pennsylvania,Ind,Harvey Harman,H,Michigan,Western,Harry Kipke,W,27,7
+1936-11-14,Pennsylvania,Ind,Harvey Harman,H,Penn State,Ind,Bob Higgins,W,19,12
+1936-11-26,Pennsylvania,Ind,Harvey Harman,H,Cornell,Ind,,W,14,6
+1936-09-26,Tulsa,MVC,Vic Hurt,A,Oklahoma,Big 6,Biff Jones,T,0,0
+1936-10-10,Tulsa,MVC,Vic Hurt,H,Texas Christian,SWC,Dutch Meyer,L,7,10
+1936-10-24,Tulsa,MVC,Vic Hurt,H,Oklahoma State,MVC,Ted Cox,W,13,0
+1936-10-31,Tulsa,MVC,Vic Hurt,H,Kansas State,Big 6,Wesley Fry,W,10,7
+1936-11-07,Tulsa,MVC,Vic Hurt,H,Centenary (LA),Ind,Curtis Player,T,3,3
+1936-11-14,Tulsa,MVC,Vic Hurt,A,Drake,MVC,Vee Green,W,21,6
+1936-11-21,Tulsa,MVC,Vic Hurt,H,Washburn,MVC,Elmer Holm,W,47,0
+1936-11-26,Tulsa,MVC,Vic Hurt,H,Arkansas,SWC,Fred Thomsen,L,13,23
+1936-10-03,Iowa,Western,Ossie Solem,A,Northwestern,Western,Pappy Waldorf,L,7,18
+1936-10-17,Iowa,Western,Ossie Solem,H,Illinois,Western,Robert Zuppke,T,0,0
+1936-10-31,Iowa,Western,Ossie Solem,A,Indiana,Western,Bo McMillin,L,6,13
+1936-11-07,Iowa,Western,Ossie Solem,A,Minnesota,Western,Bernie Bierman,L,0,52
+1936-11-14,Iowa,Western,Ossie Solem,H,Purdue,Western,Noble Kizer,L,0,13
+1936-11-21,Iowa,Western,Ossie Solem,A,Temple,Ind,Pop Warner,W,25,0
+1936-10-10,Columbia,Ind,Lou Little,N,Army,Ind,Gar Davidson,L,16,27
+1936-10-17,Columbia,Ind,Lou Little,H,Virginia Military Institute,Southern,,W,38,0
+1936-10-24,Columbia,Ind,Lou Little,A,Michigan,Western,Harry Kipke,L,0,13
+1936-10-31,Columbia,Ind,Lou Little,H,Cornell,Ind,,W,20,13
+1936-11-07,Columbia,Ind,Lou Little,A,Dartmouth,Ind,Red Blaik,L,13,20
+1936-11-14,Columbia,Ind,Lou Little,H,Syracuse,Ind,Vic Hanson,W,17,0
+1936-11-28,Columbia,Ind,Lou Little,H,Stanford,PCC,Tiny Thornhill,W,7,0
+1936-10-03,Texas,SWC,Jack Chevigny,H,LSU,SEC,Bernie Moore,T,6,6
+1936-10-10,Texas,SWC,Jack Chevigny,N,Oklahoma,Big 6,Biff Jones,W,6,0
+1936-10-17,Texas,SWC,Jack Chevigny,H,Baylor,SWC,Morley Jennings,L,18,21
+1936-10-24,Texas,SWC,Jack Chevigny,A,Rice,SWC,Jimmy Kitts,L,0,7
+1936-10-31,Texas,SWC,Jack Chevigny,H,SMU,SWC,Madison Bell,L,7,14
+1936-11-07,Texas,SWC,Jack Chevigny,A,Texas Christian,SWC,Dutch Meyer,L,6,27
+1936-11-14,Texas,SWC,Jack Chevigny,A,Minnesota,Western,Bernie Bierman,L,19,47
+1936-11-26,Texas,SWC,Jack Chevigny,H,Texas A&M,SWC,Homer Norton,W,7,0
+1936-12-03,Texas,SWC,Jack Chevigny,A,Arkansas,SWC,Fred Thomsen,L,0,6
+1936-09-26,Texas Christian,SWC,Dutch Meyer,A,Texas Tech,BIAA,Pete Cawthon,L,0,7
+1936-10-03,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,Fred Thomsen,W,18,14
+1936-10-10,Texas Christian,SWC,Dutch Meyer,A,Tulsa,MVC,Vic Hurt,W,10,7
+1936-10-17,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,L,7,18
+1936-10-24,Texas Christian,SWC,Dutch Meyer,H,Mississippi State,SEC,Ralph Sasse,T,0,0
+1936-10-31,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,Morley Jennings,W,28,0
+1936-11-07,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Jack Chevigny,W,27,6
+1936-11-14,Texas Christian,SWC,Dutch Meyer,H,Centenary (LA),Ind,Curtis Player,W,26,0
+1936-11-21,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jimmy Kitts,W,13,0
+1936-11-28,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,Madison Bell,T,0,0
+1936-12-05,Texas Christian,SWC,Dutch Meyer,A,Santa Clara,Ind,,W,9,0
+1937-01-01,Texas Christian,SWC,Dutch Meyer,H,Marquette,Ind,Frank Murray,W,16,6
+1936-10-03,New York University,Ind,Mal Stevens,A,Ohio State,Western,Francis Schmidt,L,0,60
+1936-10-17,New York University,Ind,Mal Stevens,H,North Carolina,Southern,Raymond Wolf,L,13,14
+1936-10-24,New York University,Ind,Mal Stevens,H,Georgetown,Ind,Jack Hagerty,T,7,7
+1936-11-07,New York University,Ind,Mal Stevens,H,Carnegie Mellon,Ind,Howard Harpster,L,6,14
+1936-11-26,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,W,7,6
+1936-10-09,Miami (FL),Ind,Irl Tubbs,A,Bucknell,Ind,Hook Mylin,W,6,0
+1936-11-20,Miami (FL),Ind,Irl Tubbs,H,Mercer,Ind,,W,13,0
+1936-11-27,Miami (FL),Ind,Irl Tubbs,H,Ole Miss,SEC,Ed Walker,L,0,14
+1936-12-04,Miami (FL),Ind,Irl Tubbs,H,Georgetown,Ind,Jack Hagerty,W,10,6
+1936-12-11,Miami (FL),Ind,Irl Tubbs,H,South Carolina,Southern,Don McCallister,L,3,6
+1936-10-24,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Military Institute,Southern,,L,0,20
+1936-10-31,Richmond,Southern,Glenn Thistlethwaite,A,Virginia Tech,Southern,Henry Redd,L,7,20
+1936-11-07,Richmond,Southern,Glenn Thistlethwaite,H,Maryland,Southern,Frank Dobson,L,0,12
+1936-11-26,Richmond,Southern,Glenn Thistlethwaite,H,William & Mary,Southern,,W,7,0
+1936-10-03,Oregon,PCC,Prink Callison,A,USC,PCC,Howard Jones,L,0,26
+1936-10-10,Oregon,PCC,Prink Callison,A,Stanford,PCC,Tiny Thornhill,T,7,7
+1936-10-17,Oregon,PCC,Prink Callison,H,Idaho,PCC,Ted Bank,W,13,0
+1936-10-24,Oregon,PCC,Prink Callison,A,Washington State,PCC,O.E. Hollingbery,L,0,3
+1936-10-31,Oregon,PCC,Prink Callison,H,Washington,PCC,James Phelan,L,0,7
+1936-11-07,Oregon,PCC,Prink Callison,H,UCLA,PCC,William Spaulding,L,0,7
+1936-11-14,Oregon,PCC,Prink Callison,A,California,PCC,Stub Allison,L,0,28
+1936-11-21,Oregon,PCC,Prink Callison,A,Oregon State,PCC,Lon Stiner,L,0,18
+1936-10-10,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,,L,0,28
+1936-10-17,Brown,Ind,DeOrmond McLaughry,A,Dartmouth,Ind,Red Blaik,L,0,34
+1936-10-24,Brown,Ind,DeOrmond McLaughry,A,Pennsylvania,Ind,Harvey Harman,L,6,48
+1936-11-07,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,,L,6,14
+1936-11-14,Brown,Ind,DeOrmond McLaughry,H,Holy Cross,Ind,,L,0,32
+1936-11-28,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,0,32
+1936-09-19,Erskine,Ind,,A,South Carolina,Southern,Don McCallister,L,0,38
+1936-09-26,Erskine,Ind,,H,Citadel,Southern,Tatum Gressette,L,6,13
+1936-10-09,Erskine,Ind,,H,Presbyterian,Ind,Walter Johnson,L,0,14
+1936-10-24,Erskine,Ind,,A,Wofford,Ind,Jules Carson,W,26,0
+1936-11-13,Erskine,Ind,,A,Wake Forest,Southern,Jim Weaver,L,6,19
+1936-10-03,Tennessee,SEC,Bob Neyland,A,North Carolina,Southern,Raymond Wolf,L,6,14
+1936-10-10,Tennessee,SEC,Bob Neyland,H,Auburn,SEC,Jack Meagher,L,0,6
+1936-10-17,Tennessee,SEC,Bob Neyland,A,Alabama,SEC,Frank Thomas,T,0,0
+1936-10-24,Tennessee,SEC,Bob Neyland,H,Duke,Southern,Wallace Wade,W,15,13
+1936-10-31,Tennessee,SEC,Bob Neyland,A,Georgia,SEC,Harry Mehre,W,46,0
+1936-11-14,Tennessee,SEC,Bob Neyland,A,Vanderbilt,SEC,Ray Morrison,W,26,13
+1936-11-26,Tennessee,SEC,Bob Neyland,H,Kentucky,SEC,C.A. Wynne,W,7,6
+1936-12-05,Tennessee,SEC,Bob Neyland,N,Ole Miss,SEC,Ed Walker,T,0,0
+1936-09-26,Oregon State,PCC,Lon Stiner,A,USC,PCC,Howard Jones,L,7,38
+1936-10-10,Oregon State,PCC,Lon Stiner,H,California,PCC,Stub Allison,L,0,7
+1936-10-17,Oregon State,PCC,Lon Stiner,A,Washington,PCC,James Phelan,L,7,19
+1936-10-24,Oregon State,PCC,Lon Stiner,A,UCLA,PCC,William Spaulding,L,13,22
+1936-10-31,Oregon State,PCC,Lon Stiner,H,Montana,PCC,Doug Fessenden,W,14,7
+1936-11-07,Oregon State,PCC,Lon Stiner,A,Washington State,PCC,O.E. Hollingbery,W,16,6
+1936-11-14,Oregon State,PCC,Lon Stiner,H,Stanford,PCC,Tiny Thornhill,L,14,20
+1936-11-21,Oregon State,PCC,Lon Stiner,H,Oregon,PCC,Prink Callison,W,18,0
+1936-11-28,Oregon State,PCC,Lon Stiner,H,Nebraska,Big 6,Dana Bible,L,14,32
+1936-10-03,Alabama,SEC,Frank Thomas,H,Clemson,Southern,Jess Neely,W,32,0
+1936-10-10,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Ralph Sasse,W,7,0
+1936-10-17,Alabama,SEC,Frank Thomas,H,Tennessee,SEC,Bob Neyland,T,0,0
+1936-10-24,Alabama,SEC,Frank Thomas,A,Loyola (LA),Ind,,W,13,6
+1936-10-31,Alabama,SEC,Frank Thomas,A,Kentucky,SEC,C.A. Wynne,W,14,0
+1936-11-07,Alabama,SEC,Frank Thomas,H,Tulane,SEC,Red Dawson,W,34,7
+1936-11-14,Alabama,SEC,Frank Thomas,A,Georgia Tech,SEC,William Alexander,W,20,16
+1936-11-25,Alabama,SEC,Frank Thomas,H,Vanderbilt,SEC,Ray Morrison,W,14,6
+1936-10-10,Purdue,Western,Noble Kizer,H,Wisconsin,Western,Harry Stuhldreher,W,35,14
+1936-10-17,Purdue,Western,Noble Kizer,A,Chicago,Western,Clark Shaughnessy,W,35,7
+1936-10-24,Purdue,Western,Noble Kizer,A,Minnesota,Western,Bernie Bierman,L,0,33
+1936-10-31,Purdue,Western,Noble Kizer,A,Carnegie Mellon,Ind,Howard Harpster,W,7,6
+1936-11-07,Purdue,Western,Noble Kizer,A,Fordham,Ind,Jimmy Crowley,L,0,15
+1936-11-14,Purdue,Western,Noble Kizer,A,Iowa,Western,Ossie Solem,W,13,0
+1936-11-21,Purdue,Western,Noble Kizer,H,Indiana,Western,Bo McMillin,T,20,20
+1936-10-03,Nebraska,Big 6,Dana Bible,H,Iowa State,Big 6,George Veenker,W,34,0
+1936-10-10,Nebraska,Big 6,Dana Bible,A,Minnesota,Western,Bernie Bierman,L,0,7
+1936-10-17,Nebraska,Big 6,Dana Bible,H,Indiana,Western,Bo McMillin,W,13,9
+1936-10-24,Nebraska,Big 6,Dana Bible,A,Oklahoma,Big 6,Biff Jones,W,14,0
+1936-10-31,Nebraska,Big 6,Dana Bible,H,Missouri,Big 6,Don Faurot,W,20,0
+1936-11-07,Nebraska,Big 6,Dana Bible,A,Kansas,Big 6,Adrian Lindsey,W,26,0
+1936-11-14,Nebraska,Big 6,Dana Bible,H,Pitt,Ind,Jock Sutherland,L,6,19
+1936-11-21,Nebraska,Big 6,Dana Bible,H,Kansas State,Big 6,Wesley Fry,W,40,0
+1936-11-28,Nebraska,Big 6,Dana Bible,A,Oregon State,PCC,Lon Stiner,W,32,14
+1936-10-03,West Virginia,Ind,Trusty Tallman,A,Pitt,Ind,Jock Sutherland,L,0,34
+1936-10-10,West Virginia,Ind,Trusty Tallman,N,Washington & Lee,Southern,Tex Tilson,W,28,7
+1936-11-07,West Virginia,Ind,Trusty Tallman,H,Georgetown,Ind,Jack Hagerty,L,0,28
+1936-11-26,West Virginia,Ind,Trusty Tallman,A,George Washington,Ind,James Pixlee,L,2,7
+1936-10-10,Harvard,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,28,0
+1936-10-17,Harvard,Ind,,H,Army,Ind,Gar Davidson,L,0,32
+1936-10-24,Harvard,Ind,,H,Dartmouth,Ind,Red Blaik,L,7,26
+1936-10-31,Harvard,Ind,,H,Princeton,Ind,Fritz Crisler,T,14,14
+1936-11-07,Harvard,Ind,,H,Virginia,Ind,Gus Tebell,W,65,0
+1936-11-14,Harvard,Ind,,H,Navy,Ind,Thomas Hamilton,L,13,20
+1936-11-21,Harvard,Ind,,A,Yale,Ind,,L,13,14
+1936-10-03,Oklahoma State,MVC,Ted Cox,H,Kansas State,Big 6,Wesley Fry,L,0,31
+1936-10-09,Oklahoma State,MVC,Ted Cox,A,Detroit Mercy,Ind,Gus Dorais,L,12,46
+1936-10-17,Oklahoma State,MVC,Ted Cox,H,Washburn,MVC,Elmer Holm,W,6,0
+1936-10-24,Oklahoma State,MVC,Ted Cox,A,Tulsa,MVC,Vic Hurt,L,0,13
+1936-10-31,Oklahoma State,MVC,Ted Cox,A,Washington (MO),MVC,Jimmy Conzelman,L,6,39
+1936-11-06,Oklahoma State,MVC,Ted Cox,A,Texas Tech,BIAA,Pete Cawthon,L,0,12
+1936-11-14,Oklahoma State,MVC,Ted Cox,H,Baylor,SWC,Morley Jennings,L,0,13
+1936-11-26,Oklahoma State,MVC,Ted Cox,H,Oklahoma,Big 6,Biff Jones,L,13,35
+1936-12-05,Oklahoma State,MVC,Ted Cox,A,Centenary (LA),Ind,Curtis Player,L,0,7
+1936-10-03,Colorado,RMC,Bunny Oakes,H,Oklahoma,Big 6,Biff Jones,L,0,8
+1936-10-17,Colorado,RMC,Bunny Oakes,H,Colorado Mines,RMC,Wilbur White,W,33,0
+1936-10-24,Colorado,RMC,Bunny Oakes,A,Colorado State,RMC,Harry Hughes,W,9,7
+1936-10-31,Colorado,RMC,Bunny Oakes,A,Colorado College,RMC,W.T. VandeGraaff,W,7,0
+1936-11-07,Colorado,RMC,Bunny Oakes,H,Utah,RMC,Ike Armstrong,W,31,7
+1936-11-14,Colorado,RMC,Bunny Oakes,A,Utah State,RMC,,L,13,14
+1936-11-26,Colorado,RMC,Bunny Oakes,A,Denver,RMC,William Saunders,L,6,7
+1936-09-26,Colorado State,RMC,Harry Hughes,H,Western State,RMC,Paul Wright,W,13,0
+1936-10-03,Colorado State,RMC,Harry Hughes,H,New Mexico,BIAA,Gwinn Henry,W,9,7
+1936-10-10,Colorado State,RMC,Harry Hughes,A,Denver,RMC,William Saunders,L,7,14
+1936-10-17,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,Dutch Witte,T,0,0
+1936-10-24,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Bunny Oakes,L,7,9
+1936-11-07,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,L,0,13
+1936-11-14,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,J.W. Hancock,W,12,6
+1936-11-24,Colorado State,RMC,Harry Hughes,H,Colorado College,RMC,W.T. VandeGraaff,W,19,12
+1936-11-26,Colorado State,RMC,Harry Hughes,A,Utah,RMC,Ike Armstrong,L,0,13
+1936-09-26,Rice,SWC,Jimmy Kitts,A,LSU,SEC,Bernie Moore,L,7,20
+1936-10-02,Rice,SWC,Jimmy Kitts,A,Duquesne,Ind,,L,0,14
+1936-10-10,Rice,SWC,Jimmy Kitts,H,Texas A&M,SWC,Homer Norton,L,0,3
+1936-10-17,Rice,SWC,Jimmy Kitts,A,Georgia,SEC,Harry Mehre,W,13,6
+1936-10-24,Rice,SWC,Jimmy Kitts,H,Texas,SWC,Jack Chevigny,W,7,0
+1936-10-31,Rice,SWC,Jimmy Kitts,H,George Washington,Ind,James Pixlee,W,12,6
+1936-11-07,Rice,SWC,Jimmy Kitts,A,Arkansas,SWC,Fred Thomsen,L,14,20
+1936-11-21,Rice,SWC,Jimmy Kitts,H,Texas Christian,SWC,Dutch Meyer,L,0,13
+1936-11-28,Rice,SWC,Jimmy Kitts,H,Baylor,SWC,Morley Jennings,L,7,10
+1936-12-05,Rice,SWC,Jimmy Kitts,H,SMU,SWC,Madison Bell,L,0,9
+1936-10-10,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jimmy Kitts,W,3,0
+1936-10-17,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,W,18,7
+1936-10-24,Texas A&M,SWC,Homer Norton,A,Baylor,SWC,Morley Jennings,T,0,0
+1936-10-31,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,Fred Thomsen,L,0,18
+1936-11-07,Texas A&M,SWC,Homer Norton,A,SMU,SWC,Madison Bell,W,22,6
+1936-11-14,Texas A&M,SWC,Homer Norton,A,Utah,RMC,Ike Armstrong,W,20,7
+1936-11-21,Texas A&M,SWC,Homer Norton,A,Centenary (LA),Ind,Curtis Player,L,0,3
+1936-11-26,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Jack Chevigny,L,0,7
+1936-12-05,Texas A&M,SWC,Homer Norton,H,Manhattan,Ind,,W,13,6
+1936-12-12,Texas A&M,SWC,Homer Norton,A,San Francisco,Ind,George Malley,W,38,14
+1936-09-19,Davidson,Southern,Gene McEver,N,Duke,Southern,Wallace Wade,L,0,13
+1936-09-26,Davidson,Southern,Gene McEver,A,North Carolina State,Southern,Hunk Anderson,W,14,6
+1936-10-03,Davidson,Southern,Gene McEver,A,Navy,Ind,Thomas Hamilton,L,6,19
+1936-10-10,Davidson,Southern,Gene McEver,H,Virginia Military Institute,Southern,,W,38,13
+1936-10-24,Davidson,Southern,Gene McEver,H,Citadel,Southern,Tatum Gressette,W,21,0
+1936-10-31,Davidson,Southern,Gene McEver,A,Furman,Southern,,L,13,14
+1936-11-07,Davidson,Southern,Gene McEver,H,North Carolina,Southern,Raymond Wolf,L,6,26
+1936-11-26,Davidson,Southern,Gene McEver,H,Wake Forest,Southern,Jim Weaver,W,19,6
+1936-10-03,Washington (MO),MVC,Jimmy Conzelman,A,Illinois,Western,Robert Zuppke,L,7,13
+1936-10-10,Washington (MO),MVC,Jimmy Conzelman,A,Notre Dame,Ind,Elmer Layden,L,6,14
+1936-10-24,Washington (MO),MVC,Jimmy Conzelman,H,Drake,MVC,Vee Green,L,18,20
+1936-10-31,Washington (MO),MVC,Jimmy Conzelman,H,Oklahoma State,MVC,Ted Cox,W,39,6
+1936-11-06,Washington (MO),MVC,Jimmy Conzelman,H,Duquesne,Ind,,L,0,26
+1936-11-21,Washington (MO),MVC,Jimmy Conzelman,A,Missouri,Big 6,Don Faurot,L,10,17
+1936-11-28,Washington (MO),MVC,Jimmy Conzelman,H,Saint Louis,Ind,,L,6,21
+1936-10-03,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Harry Kipke,W,21,7
+1936-10-10,Michigan State,Ind,Charlie Bachman,A,Carnegie Mellon,Ind,Howard Harpster,W,7,0
+1936-10-17,Michigan State,Ind,Charlie Bachman,H,Missouri,Big 6,Don Faurot,W,13,0
+1936-10-24,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Frank Murray,L,7,13
+1936-11-07,Michigan State,Ind,Charlie Bachman,A,Temple,Ind,Pop Warner,T,7,7
+1936-11-14,Michigan State,Ind,Charlie Bachman,A,Kansas,Big 6,Adrian Lindsey,W,41,0
+1936-11-21,Michigan State,Ind,Charlie Bachman,H,Arizona,BIAA,Tex Oliver,W,7,0
+1936-10-03,Chicago,Western,Clark Shaughnessy,H,Vanderbilt,SEC,Ray Morrison,L,0,37
+1936-10-17,Chicago,Western,Clark Shaughnessy,H,Purdue,Western,Noble Kizer,L,7,35
+1936-10-31,Chicago,Western,Clark Shaughnessy,A,Wisconsin,Western,Harry Stuhldreher,W,7,6
+1936-11-07,Chicago,Western,Clark Shaughnessy,A,Ohio State,Western,Francis Schmidt,L,0,44
+1936-11-14,Chicago,Western,Clark Shaughnessy,H,Indiana,Western,Bo McMillin,L,7,20
+1936-11-21,Chicago,Western,Clark Shaughnessy,H,Illinois,Western,Robert Zuppke,L,7,18
+1936-09-26,Colgate,Ind,Andrew Kerr,A,Duke,Southern,Wallace Wade,L,0,6
+1936-10-17,Colgate,Ind,Andrew Kerr,H,Tulane,SEC,Red Dawson,L,6,28
+1936-10-31,Colgate,Ind,Andrew Kerr,A,Army,Ind,Gar Davidson,W,14,7
+1936-11-07,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,,L,13,20
+1936-11-21,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Vic Hanson,W,13,0
+1936-11-28,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,32,0
+1936-10-09,New Mexico State,BIAA,Gerald Hines,H,Northern Arizona,BIAA,Mark McIntosh,W,41,0
+1936-10-24,New Mexico State,BIAA,Gerald Hines,A,Arizona,BIAA,Tex Oliver,L,7,28
+1936-11-07,New Mexico State,BIAA,Gerald Hines,A,Arizona State,BIAA,Rudy Lavik,W,20,6
+1936-11-14,New Mexico State,BIAA,Gerald Hines,A,New Mexico,BIAA,Gwinn Henry,W,7,6
+1936-11-26,New Mexico State,BIAA,Gerald Hines,A,UTEP,BIAA,Mack Saxon,L,7,27
+1936-10-03,Washburn,MVC,Elmer Holm,A,Kansas,Big 6,Adrian Lindsey,L,6,19
+1936-10-17,Washburn,MVC,Elmer Holm,A,Oklahoma State,MVC,Ted Cox,L,0,6
+1936-10-23,Washburn,MVC,Elmer Holm,H,Grinnell,MVC,Guy Looabaugh,W,7,6
+1936-10-30,Washburn,MVC,Elmer Holm,H,Creighton,MVC,Marchy Schwartz,L,20,32
+1936-11-07,Washburn,MVC,Elmer Holm,A,Colorado College,RMC,W.T. VandeGraaff,T,0,0
+1936-11-21,Washburn,MVC,Elmer Holm,A,Tulsa,MVC,Vic Hurt,L,0,47
+1936-11-28,Washburn,MVC,Elmer Holm,H,Drake,MVC,Vee Green,L,0,18
+1936-09-26,Minnesota,Western,Bernie Bierman,A,Washington,PCC,James Phelan,W,14,7
+1936-10-10,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Dana Bible,W,7,0
+1936-10-17,Minnesota,Western,Bernie Bierman,H,Michigan,Western,Harry Kipke,W,26,0
+1936-10-24,Minnesota,Western,Bernie Bierman,H,Purdue,Western,Noble Kizer,W,33,0
+1936-10-31,Minnesota,Western,Bernie Bierman,A,Northwestern,Western,Pappy Waldorf,L,0,6
+1936-11-07,Minnesota,Western,Bernie Bierman,H,Iowa,Western,Ossie Solem,W,52,0
+1936-11-14,Minnesota,Western,Bernie Bierman,H,Texas,SWC,Jack Chevigny,W,47,19
+1936-11-21,Minnesota,Western,Bernie Bierman,A,Wisconsin,Western,Harry Stuhldreher,W,24,0
+1936-09-26,Ole Miss,SEC,Ed Walker,A,Tulane,SEC,Red Dawson,L,6,7
+1936-10-02,Ole Miss,SEC,Ed Walker,A,Temple,Ind,Pop Warner,L,7,12
+1936-10-09,Ole Miss,SEC,Ed Walker,A,George Washington,Ind,James Pixlee,T,0,0
+1936-10-17,Ole Miss,SEC,Ed Walker,A,LSU,SEC,Bernie Moore,L,0,13
+1936-10-31,Ole Miss,SEC,Ed Walker,A,Centenary (LA),Ind,Curtis Player,W,24,7
+1936-11-07,Ole Miss,SEC,Ed Walker,H,Loyola (LA),Ind,,W,34,0
+1936-11-14,Ole Miss,SEC,Ed Walker,A,Marquette,Ind,Frank Murray,L,0,33
+1936-11-21,Ole Miss,SEC,Ed Walker,A,Mississippi State,SEC,Ralph Sasse,L,6,26
+1936-11-27,Ole Miss,SEC,Ed Walker,A,Miami (FL),Ind,Irl Tubbs,W,14,0
+1936-12-05,Ole Miss,SEC,Ed Walker,N,Tennessee,SEC,Bob Neyland,T,0,0
+1936-09-19,Duke,Southern,Wallace Wade,N,Davidson,Southern,Gene McEver,W,13,0
+1936-09-26,Duke,Southern,Wallace Wade,H,Colgate,Ind,Andrew Kerr,W,6,0
+1936-10-03,Duke,Southern,Wallace Wade,A,South Carolina,Southern,Don McCallister,W,21,0
+1936-10-10,Duke,Southern,Wallace Wade,H,Clemson,Southern,Jess Neely,W,25,0
+1936-10-17,Duke,Southern,Wallace Wade,H,Georgia Tech,SEC,William Alexander,W,19,6
+1936-10-24,Duke,Southern,Wallace Wade,A,Tennessee,SEC,Bob Neyland,L,13,15
+1936-10-31,Duke,Southern,Wallace Wade,A,Washington & Lee,Southern,Tex Tilson,W,51,0
+1936-11-07,Duke,Southern,Wallace Wade,A,Wake Forest,Southern,Jim Weaver,W,20,0
+1936-11-14,Duke,Southern,Wallace Wade,A,North Carolina,Southern,Raymond Wolf,W,27,7
+1936-11-26,Duke,Southern,Wallace Wade,H,North Carolina State,Southern,Hunk Anderson,W,13,0
+1936-10-17,Loyola (LA),Ind,,A,Mississippi State,SEC,Ralph Sasse,L,0,32
+1936-10-24,Loyola (LA),Ind,,H,Alabama,SEC,Frank Thomas,L,6,13
+1936-11-07,Loyola (LA),Ind,,A,Ole Miss,SEC,Ed Walker,L,0,34
+1936-11-21,Loyola (LA),Ind,,A,Auburn,SEC,Jack Meagher,L,0,44
+1936-11-26,Loyola (LA),Ind,,H,Texas Tech,BIAA,Pete Cawthon,W,14,0
+1936-10-03,Sewanee,SEC,Heck Clark,A,Georgia Tech,SEC,William Alexander,L,0,58
+1936-10-31,Sewanee,SEC,Heck Clark,A,Mississippi State,SEC,Ralph Sasse,L,0,68
+1936-11-07,Sewanee,SEC,Heck Clark,A,Vanderbilt,SEC,Ray Morrison,L,0,14
+1936-11-14,Sewanee,SEC,Heck Clark,A,Florida,SEC,Josh Cody,L,7,18
+1936-11-21,Sewanee,SEC,Heck Clark,A,Tulane,SEC,Red Dawson,L,6,53
+1936-10-10,San Francisco,Ind,George Malley,A,Santa Clara,Ind,,L,7,15
+1936-10-25,San Francisco,Ind,George Malley,H,Gonzaga,Ind,Mike Pecarovich,L,7,17
+1936-11-14,San Francisco,Ind,George Malley,A,Saint Mary's (CA),Ind,Slip Madigan,T,0,0
+1936-11-21,San Francisco,Ind,George Malley,H,Montana,PCC,Doug Fessenden,L,7,24
+1936-11-29,San Francisco,Ind,George Malley,H,Loyola Marymount,Ind,Tom Lieb,W,17,14
+1936-12-12,San Francisco,Ind,George Malley,H,Texas A&M,SWC,Homer Norton,L,14,38
+1936-09-26,Navy,Ind,Thomas Hamilton,H,William & Mary,Southern,,W,18,6
+1936-10-03,Navy,Ind,Thomas Hamilton,H,Davidson,Southern,Gene McEver,W,19,6
+1936-10-10,Navy,Ind,Thomas Hamilton,H,Virginia,Ind,Gus Tebell,W,35,14
+1936-10-17,Navy,Ind,Thomas Hamilton,H,Yale,Ind,,L,7,12
+1936-10-24,Navy,Ind,Thomas Hamilton,A,Princeton,Ind,Fritz Crisler,L,0,7
+1936-10-31,Navy,Ind,Thomas Hamilton,A,Pennsylvania,Ind,Harvey Harman,L,6,16
+1936-11-07,Navy,Ind,Thomas Hamilton,H,Notre Dame,Ind,Elmer Layden,W,3,0
+1936-11-14,Navy,Ind,Thomas Hamilton,A,Harvard,Ind,,W,20,13
+1936-11-28,Navy,Ind,Thomas Hamilton,N,Army,Ind,Gar Davidson,W,7,0
+1936-09-26,Texas Tech,BIAA,Pete Cawthon,H,Texas Christian,SWC,Dutch Meyer,W,7,0
+1936-10-24,Texas Tech,BIAA,Pete Cawthon,H,Centenary (LA),Ind,Curtis Player,W,12,6
+1936-11-06,Texas Tech,BIAA,Pete Cawthon,H,Oklahoma State,MVC,Ted Cox,W,12,0
+1936-11-12,Texas Tech,BIAA,Pete Cawthon,A,Loyola Marymount,Ind,Tom Lieb,L,7,26
+1936-11-26,Texas Tech,BIAA,Pete Cawthon,A,Loyola (LA),Ind,,L,0,14
+1936-12-05,Texas Tech,BIAA,Pete Cawthon,A,Arizona,BIAA,Tex Oliver,T,7,7
+1936-09-26,Tulane,SEC,Red Dawson,H,Ole Miss,SEC,Ed Walker,W,7,6
+1936-10-03,Tulane,SEC,Red Dawson,H,Auburn,SEC,Jack Meagher,T,0,0
+1936-10-10,Tulane,SEC,Red Dawson,H,Centenary (LA),Ind,Curtis Player,W,19,0
+1936-10-17,Tulane,SEC,Red Dawson,A,Colgate,Ind,Andrew Kerr,W,28,6
+1936-10-24,Tulane,SEC,Red Dawson,H,North Carolina,Southern,Raymond Wolf,W,21,7
+1936-11-07,Tulane,SEC,Red Dawson,A,Alabama,SEC,Frank Thomas,L,7,34
+1936-11-14,Tulane,SEC,Red Dawson,H,Georgia,SEC,Harry Mehre,L,6,12
+1936-11-21,Tulane,SEC,Red Dawson,H,Sewanee,SEC,Heck Clark,W,53,6
+1936-11-28,Tulane,SEC,Red Dawson,A,LSU,SEC,Bernie Moore,L,0,33
+1936-10-03,Cornell,Ind,,A,Yale,Ind,,L,0,23
+1936-10-17,Cornell,Ind,,H,Syracuse,Ind,Vic Hanson,W,20,7
+1936-10-24,Cornell,Ind,,H,Penn State,Ind,Bob Higgins,W,13,7
+1936-10-31,Cornell,Ind,,A,Columbia,Ind,Lou Little,L,13,20
+1936-11-07,Cornell,Ind,,A,Princeton,Ind,Fritz Crisler,L,13,41
+1936-11-14,Cornell,Ind,,H,Dartmouth,Ind,Red Blaik,L,6,20
+1936-11-26,Cornell,Ind,,A,Pennsylvania,Ind,Harvey Harman,L,6,14
+1936-10-03,Ohio State,Western,Francis Schmidt,H,New York University,Ind,Mal Stevens,W,60,0
+1936-10-10,Ohio State,Western,Francis Schmidt,H,Pitt,Ind,Jock Sutherland,L,0,6
+1936-10-17,Ohio State,Western,Francis Schmidt,A,Northwestern,Western,Pappy Waldorf,L,13,14
+1936-10-24,Ohio State,Western,Francis Schmidt,H,Indiana,Western,Bo McMillin,W,7,0
+1936-10-31,Ohio State,Western,Francis Schmidt,A,Notre Dame,Ind,Elmer Layden,L,2,7
+1936-11-07,Ohio State,Western,Francis Schmidt,H,Chicago,Western,Clark Shaughnessy,W,44,0
+1936-11-14,Ohio State,Western,Francis Schmidt,A,Illinois,Western,Robert Zuppke,W,13,0
+1936-11-21,Ohio State,Western,Francis Schmidt,H,Michigan,Western,Harry Kipke,W,21,0
+1936-10-16,Drake,MVC,Vee Green,H,Creighton,MVC,Marchy Schwartz,L,6,13
+1936-10-24,Drake,MVC,Vee Green,A,Washington (MO),MVC,Jimmy Conzelman,W,20,18
+1936-10-31,Drake,MVC,Vee Green,H,Grinnell,MVC,Guy Looabaugh,W,19,6
+1936-11-07,Drake,MVC,Vee Green,H,Denver,RMC,William Saunders,L,13,27
+1936-11-14,Drake,MVC,Vee Green,H,Tulsa,MVC,Vic Hurt,L,6,21
+1936-11-21,Drake,MVC,Vee Green,A,Iowa State,Big 6,George Veenker,L,7,21
+1936-11-28,Drake,MVC,Vee Green,A,Washburn,MVC,Elmer Holm,W,18,0

@@ -1,0 +1,355 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1907-09-28,North Carolina,Ind,Otis Lamson,A,Pennsylvania,Ind,,L,0,37
+1907-10-05,North Carolina,Ind,Otis Lamson,N,Washington & Lee,Ind,R.R. Brown,T,0,0
+1907-10-26,North Carolina,Ind,Otis Lamson,A,Virginia,Ind,Edward Johnson,L,4,9
+1907-10-31,North Carolina,Ind,Otis Lamson,A,Clemson,Ind,Frank Shaughnessy,L,6,15
+1907-11-28,North Carolina,Ind,Otis Lamson,A,Virginia Tech,Ind,C.R. Williams,L,6,20
+1907-10-05,Dickinson,Ind,Joseph Pipal,A,Navy,Ind,Joe Reeves,L,0,15
+1907-10-12,Dickinson,Ind,Joseph Pipal,A,Washington & Jefferson,Ind,Frank Piekarski,L,0,34
+1907-10-26,Dickinson,Ind,Joseph Pipal,H,Lehigh,Ind,,T,6,6
+1907-11-02,Dickinson,Ind,Joseph Pipal,N,Penn State,Ind,Tom Fennell,L,0,52
+1907-11-16,Dickinson,Ind,Joseph Pipal,A,Bucknell,Ind,J.H. Costello,L,0,48
+1907-11-28,Dickinson,Ind,Joseph Pipal,A,Lafayette,Ind,,L,0,31
+1907-10-12,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,6,27
+1907-11-09,Indiana,Western,James Sheldon,A,Wisconsin,Western,Charles Hutchins,L,8,11
+1907-11-22,Indiana,Western,James Sheldon,H,Illinois,Western,Arthur Hall,L,6,10
+1907-10-05,Yale,Ind,William Knox,H,Syracuse,Ind,,W,11,0
+1907-10-19,Yale,Ind,William Knox,A,Army,Ind,Henry Smither,T,0,0
+1907-10-26,Yale,Ind,William Knox,H,Villanova,Ind,Frederick Crolius,W,45,0
+1907-11-02,Yale,Ind,William Knox,H,Washington & Jefferson,Ind,Frank Piekarski,W,11,0
+1907-11-09,Yale,Ind,William Knox,H,Brown,Ind,Edward Robinson,W,22,0
+1907-11-16,Yale,Ind,William Knox,H,Princeton,Ind,,W,12,10
+1907-11-23,Yale,Ind,William Knox,A,Harvard,Ind,Joshua Crane,W,12,0
+1907-10-12,Iowa State,Ind,,A,Minnesota,Western,Henry Williams,L,0,8
+1907-11-02,Iowa State,Ind,,A,Nebraska,MVIAA,King Cole,L,9,10
+1907-11-09,Iowa State,Ind,,A,Grinnell,Ind,C.B. Hamilton,W,49,0
+1907-11-23,Iowa State,Ind,,H,Iowa,Western,Mark Catlin,W,20,14
+1907-11-30,Iowa State,Ind,,A,Drake,Ind,,W,13,8
+1907-09-28,Carlisle,Ind,Pop Warner,H,Villanova,Ind,Frederick Crolius,W,10,0
+1907-10-05,Carlisle,Ind,Pop Warner,N,Penn State,Ind,Tom Fennell,W,18,5
+1907-10-12,Carlisle,Ind,Pop Warner,A,Syracuse,Ind,,W,14,6
+1907-10-19,Carlisle,Ind,Pop Warner,H,Bucknell,Ind,J.H. Costello,W,15,0
+1907-10-26,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,,W,26,6
+1907-11-02,Carlisle,Ind,Pop Warner,A,Princeton,Ind,,L,0,16
+1907-11-09,Carlisle,Ind,Pop Warner,A,Harvard,Ind,Joshua Crane,W,23,15
+1907-11-16,Carlisle,Ind,Pop Warner,A,Minnesota,Western,Henry Williams,W,12,10
+1907-11-23,Carlisle,Ind,Pop Warner,A,Chicago,Western,Amos Alonzo Stagg,W,18,4
+1907-10-12,Utah,Ind,Joseph Maddock,H,Denver,Ind,John Koehler,W,24,4
+1907-10-26,Utah,Ind,Joseph Maddock,H,Colorado Mines,Ind,,W,16,10
+1907-11-16,Utah,Ind,Joseph Maddock,A,Colorado,Ind,Frank Castleman,L,10,24
+1907-11-28,Utah,Ind,Joseph Maddock,H,Colorado College,Ind,J.R. Richards,W,13,10
+1907-09-28,Grinnell,Ind,C.B. Hamilton,H,Drake,Ind,,L,0,6
+1907-10-12,Grinnell,Ind,C.B. Hamilton,A,Nebraska,MVIAA,King Cole,L,4,30
+1907-11-02,Grinnell,Ind,C.B. Hamilton,A,Drake,Ind,,W,10,0
+1907-11-09,Grinnell,Ind,C.B. Hamilton,H,Iowa State,Ind,,L,0,49
+1907-10-19,Georgia Tech,Ind,John Heisman,H,Tennessee,Ind,George Levene,W,6,4
+1907-10-26,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,William Kienholz,L,6,12
+1907-11-02,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,W.S. Whitney,W,10,6
+1907-11-09,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,,L,0,18
+1907-11-16,Georgia Tech,Ind,John Heisman,A,Vanderbilt,Ind,Dan McGugin,L,0,54
+1907-11-28,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Frank Shaughnessy,L,5,6
+1907-10-10,Mississippi State,Ind,Fred Furman,A,Sewanee,Ind,,L,0,38
+1907-10-12,Mississippi State,Ind,Fred Furman,A,Samford,Ind,John Counselman,W,12,5
+1907-10-30,Mississippi State,Ind,Fred Furman,H,Drury,Ind,,W,6,0
+1907-11-09,Mississippi State,Ind,Fred Furman,A,LSU,Ind,,L,11,23
+1907-11-16,Mississippi State,Ind,Fred Furman,N,Tennessee,Ind,George Levene,L,4,11
+1907-11-28,Mississippi State,Ind,Fred Furman,N,Ole Miss,Ind,Frank Mason,W,15,0
+1907-09-28,Villanova,Ind,Frederick Crolius,A,Carlisle,Ind,Pop Warner,L,0,10
+1907-10-02,Villanova,Ind,Frederick Crolius,A,Pennsylvania,Ind,,L,0,16
+1907-10-12,Villanova,Ind,Frederick Crolius,A,Princeton,Ind,,L,5,45
+1907-10-26,Villanova,Ind,Frederick Crolius,A,Yale,Ind,William Knox,L,0,45
+1907-11-02,Villanova,Ind,Frederick Crolius,A,Swarthmore,Ind,George Brooke,L,10,18
+1907-10-05,Washington & Lee,Ind,R.R. Brown,N,North Carolina,Ind,Otis Lamson,T,0,0
+1907-10-19,Washington & Lee,Ind,R.R. Brown,N,Virginia Tech,Ind,C.R. Williams,L,0,5
+1907-11-09,Washington & Lee,Ind,R.R. Brown,A,Virginia,Ind,Edward Johnson,W,6,5
+1907-11-28,Washington & Lee,Ind,R.R. Brown,H,Bucknell,Ind,J.H. Costello,L,0,2
+1907-10-05,Syracuse,Ind,,A,Yale,Ind,William Knox,L,0,11
+1907-10-12,Syracuse,Ind,,H,Carlisle,Ind,Pop Warner,L,6,14
+1907-10-26,Syracuse,Ind,,H,Hamilton,Ind,Harold Crook,W,22,0
+1907-11-02,Syracuse,Ind,,H,Bucknell,Ind,J.H. Costello,W,20,6
+1907-11-16,Syracuse,Ind,,H,Lafayette,Ind,,T,4,4
+1907-11-23,Syracuse,Ind,,H,Army,Ind,Henry Smither,L,4,23
+1907-10-05,Haskell,Ind,,A,Arkansas,Ind,Frank Longman,T,0,0
+1907-10-25,Haskell,Ind,,A,Texas,Ind,W.E. Metzenthin,L,10,45
+1907-10-28,Haskell,Ind,,A,Texas A&M,Ind,L.L. Larson,L,0,5
+1907-10-26,Saint Louis,Ind,Eddie Cochems,H,Arkansas,Ind,Frank Longman,W,42,6
+1907-11-02,Saint Louis,Ind,Eddie Cochems,H,Washington (MO),MVIAA,J.M. Blanchard,W,78,0
+1907-11-16,Saint Louis,Ind,Eddie Cochems,H,Kansas,MVIAA,Doc Kennedy,W,17,0
+1907-11-28,Saint Louis,Ind,Eddie Cochems,H,Nebraska,MVIAA,King Cole,W,34,0
+1907-10-05,Samford,Ind,John Counselman,A,Auburn,Ind,William Kienholz,L,0,23
+1907-10-12,Samford,Ind,John Counselman,H,Mississippi State,Ind,Fred Furman,L,5,12
+1907-10-26,Samford,Ind,John Counselman,A,Tulane,Ind,Joe Curtis,L,0,13
+1907-10-28,Samford,Ind,John Counselman,A,LSU,Ind,,L,0,57
+1907-10-19,Army,Ind,Henry Smither,H,Yale,Ind,William Knox,T,0,0
+1907-11-02,Army,Ind,Henry Smither,H,Colgate,Ind,William Warner,W,6,0
+1907-11-09,Army,Ind,Henry Smither,H,Cornell,Ind,Harry Schoellkopf,L,10,14
+1907-11-23,Army,Ind,Henry Smither,A,Syracuse,Ind,,W,23,4
+1907-11-30,Army,Ind,Henry Smither,N,Navy,Ind,Joe Reeves,L,0,6
+1907-10-05,Penn State,Ind,Tom Fennell,N,Carlisle,Ind,Pop Warner,L,5,18
+1907-10-19,Penn State,Ind,Tom Fennell,A,Cornell,Ind,Harry Schoellkopf,W,8,6
+1907-11-02,Penn State,Ind,Tom Fennell,N,Dickinson,Ind,Joseph Pipal,W,52,0
+1907-11-09,Penn State,Ind,Tom Fennell,A,Pennsylvania,Ind,,L,0,28
+1907-11-16,Penn State,Ind,Tom Fennell,A,Navy,Ind,Joe Reeves,L,4,6
+1907-11-28,Penn State,Ind,Tom Fennell,A,Pitt,Ind,John Moorhead,L,0,6
+1907-10-09,Princeton,Ind,,H,Bucknell,Ind,J.H. Costello,W,52,0
+1907-10-12,Princeton,Ind,,H,Villanova,Ind,Frederick Crolius,W,45,5
+1907-10-19,Princeton,Ind,,H,Washington & Jefferson,Ind,Frank Piekarski,W,40,0
+1907-10-26,Princeton,Ind,,A,Cornell,Ind,Harry Schoellkopf,L,5,6
+1907-11-02,Princeton,Ind,,H,Carlisle,Ind,Pop Warner,W,16,0
+1907-11-16,Princeton,Ind,,A,Yale,Ind,William Knox,L,10,12
+1907-10-12,Vanderbilt,Ind,Dan McGugin,A,Navy,Ind,Joe Reeves,T,6,6
+1907-11-02,Vanderbilt,Ind,Dan McGugin,H,Michigan,Ind,Fielding Yost,L,0,8
+1907-11-09,Vanderbilt,Ind,Dan McGugin,N,Ole Miss,Ind,Frank Mason,W,60,0
+1907-11-16,Vanderbilt,Ind,Dan McGugin,H,Georgia Tech,Ind,John Heisman,W,54,0
+1907-11-23,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,,W,17,12
+1907-10-26,Colorado College,Ind,J.R. Richards,A,Denver,Ind,John Koehler,W,20,4
+1907-11-09,Colorado College,Ind,J.R. Richards,H,Colorado,Ind,Frank Castleman,W,10,0
+1907-11-16,Colorado College,Ind,J.R. Richards,N,Colorado Mines,Ind,,L,0,15
+1907-11-28,Colorado College,Ind,J.R. Richards,A,Utah,Ind,Joseph Maddock,L,10,13
+1907-10-05,Auburn,Ind,William Kienholz,H,Samford,Ind,John Counselman,W,23,0
+1907-10-07,Auburn,Ind,William Kienholz,H,Maryville (TN),Ind,Reed Dickson,W,29,0
+1907-10-19,Auburn,Ind,William Kienholz,H,Sewanee,Ind,,L,6,12
+1907-10-26,Auburn,Ind,William Kienholz,A,Georgia Tech,Ind,John Heisman,W,12,6
+1907-11-02,Auburn,Ind,William Kienholz,H,Clemson,Ind,Frank Shaughnessy,W,12,0
+1907-11-16,Auburn,Ind,William Kienholz,N,Alabama,Ind,J.W.H. Pollard,T,6,6
+1907-11-28,Auburn,Ind,William Kienholz,A,Georgia,Ind,W.S. Whitney,L,0,6
+1907-11-09,Kansas,MVIAA,Doc Kennedy,H,Nebraska,MVIAA,King Cole,L,6,16
+1907-11-16,Kansas,MVIAA,Doc Kennedy,A,Saint Louis,Ind,Eddie Cochems,L,0,17
+1907-11-28,Kansas,MVIAA,Doc Kennedy,N,Missouri,MVIAA,W.J. Monilaw,W,4,0
+1907-10-19,LSU,Ind,,A,Texas,Ind,W.E. Metzenthin,L,5,12
+1907-10-21,LSU,Ind,,A,Texas A&M,Ind,L.L. Larson,L,5,11
+1907-10-28,LSU,Ind,,H,Samford,Ind,John Counselman,W,57,0
+1907-11-06,LSU,Ind,,H,Arkansas,Ind,Frank Longman,W,17,12
+1907-11-09,LSU,Ind,,H,Mississippi State,Ind,Fred Furman,W,23,11
+1907-11-16,LSU,Ind,,A,Ole Miss,Ind,Frank Mason,W,23,0
+1907-11-23,LSU,Ind,,A,Alabama,Ind,J.W.H. Pollard,L,4,6
+1907-11-30,LSU,Ind,,H,Baylor,Ind,Luther Burleson,W,48,0
+1907-09-28,Pennsylvania,Ind,,H,North Carolina,Ind,Otis Lamson,W,37,0
+1907-10-02,Pennsylvania,Ind,,H,Villanova,Ind,Frederick Crolius,W,16,0
+1907-10-05,Pennsylvania,Ind,,H,Bucknell,Ind,J.H. Costello,W,29,2
+1907-10-12,Pennsylvania,Ind,,H,Swarthmore,Ind,George Brooke,W,16,8
+1907-10-19,Pennsylvania,Ind,,H,Brown,Ind,Edward Robinson,W,11,0
+1907-10-26,Pennsylvania,Ind,,H,Carlisle,Ind,Pop Warner,L,6,26
+1907-11-02,Pennsylvania,Ind,,H,Lafayette,Ind,,W,15,0
+1907-11-09,Pennsylvania,Ind,,H,Penn State,Ind,Tom Fennell,W,28,0
+1907-11-16,Pennsylvania,Ind,,A,Michigan,Ind,Fielding Yost,W,6,0
+1907-11-28,Pennsylvania,Ind,,H,Cornell,Ind,Harry Schoellkopf,W,12,4
+1907-10-19,Iowa,Western,Mark Catlin,H,Missouri,MVIAA,W.J. Monilaw,W,21,6
+1907-10-26,Iowa,Western,Mark Catlin,A,Drake,Ind,,W,25,4
+1907-11-02,Iowa,Western,Mark Catlin,H,Wisconsin,Western,Charles Hutchins,L,5,6
+1907-11-09,Iowa,Western,Mark Catlin,H,Illinois,Western,Arthur Hall,W,25,12
+1907-11-23,Iowa,Western,Mark Catlin,A,Iowa State,Ind,,L,14,20
+1907-10-19,Illinois,Western,Arthur Hall,H,Chicago,Western,Amos Alonzo Stagg,L,6,42
+1907-10-26,Illinois,Western,Arthur Hall,A,Wisconsin,Western,Charles Hutchins,W,15,4
+1907-11-02,Illinois,Western,Arthur Hall,H,Purdue,Western,L.C. Turner,W,21,4
+1907-11-09,Illinois,Western,Arthur Hall,A,Iowa,Western,Mark Catlin,L,12,25
+1907-11-22,Illinois,Western,Arthur Hall,A,Indiana,Western,James Sheldon,W,10,6
+1907-10-12,Texas,Ind,W.E. Metzenthin,N,Texas A&M,Ind,L.L. Larson,T,0,0
+1907-10-19,Texas,Ind,W.E. Metzenthin,H,LSU,Ind,,W,12,5
+1907-10-25,Texas,Ind,W.E. Metzenthin,H,Haskell,Ind,,W,45,10
+1907-10-30,Texas,Ind,W.E. Metzenthin,A,Arkansas,Ind,Frank Longman,W,26,6
+1907-11-02,Texas,Ind,W.E. Metzenthin,A,Missouri,MVIAA,W.J. Monilaw,L,4,5
+1907-11-09,Texas,Ind,W.E. Metzenthin,H,Baylor,Ind,Luther Burleson,W,27,11
+1907-11-28,Texas,Ind,W.E. Metzenthin,H,Texas A&M,Ind,L.L. Larson,W,11,6
+1907-10-05,Texas Christian,Ind,E.J. Hyde,A,Baylor,Ind,Luther Burleson,T,6,6
+1907-10-26,Texas Christian,Ind,E.J. Hyde,A,Baylor,Ind,Luther Burleson,W,11,10
+1907-11-05,Texas Christian,Ind,E.J. Hyde,A,Texas A&M,Ind,L.L. Larson,L,5,32
+1907-11-23,Texas Christian,Ind,E.J. Hyde,A,Baylor,Ind,Luther Burleson,L,8,16
+1907-10-05,Baylor,Ind,Luther Burleson,H,Texas Christian,Ind,E.J. Hyde,T,6,6
+1907-10-26,Baylor,Ind,Luther Burleson,H,Texas Christian,Ind,E.J. Hyde,L,10,11
+1907-11-09,Baylor,Ind,Luther Burleson,A,Texas,Ind,W.E. Metzenthin,L,11,27
+1907-11-23,Baylor,Ind,Luther Burleson,H,Texas Christian,Ind,E.J. Hyde,W,16,8
+1907-11-30,Baylor,Ind,Luther Burleson,A,LSU,Ind,,L,0,48
+1907-10-12,Georgia,Ind,W.S. Whitney,H,Tennessee,Ind,George Levene,L,0,15
+1907-10-25,Georgia,Ind,W.S. Whitney,A,Alabama,Ind,J.W.H. Pollard,T,0,0
+1907-11-02,Georgia,Ind,W.S. Whitney,A,Georgia Tech,Ind,John Heisman,L,6,10
+1907-11-07,Georgia,Ind,W.S. Whitney,N,Clemson,Ind,Frank Shaughnessy,W,8,0
+1907-11-11,Georgia,Ind,W.S. Whitney,H,Sewanee,Ind,,L,0,16
+1907-11-28,Georgia,Ind,W.S. Whitney,H,Auburn,Ind,William Kienholz,W,6,0
+1907-09-28,Virginia,Ind,Edward Johnson,H,Davidson,Ind,Ralph Graham,T,5,5
+1907-10-26,Virginia,Ind,Edward Johnson,H,North Carolina,Ind,Otis Lamson,W,9,4
+1907-11-02,Virginia,Ind,Edward Johnson,H,Sewanee,Ind,,L,0,12
+1907-11-09,Virginia,Ind,Edward Johnson,H,Washington & Lee,Ind,R.R. Brown,L,5,6
+1907-10-19,Brown,Ind,Edward Robinson,A,Pennsylvania,Ind,,L,0,11
+1907-11-02,Brown,Ind,Edward Robinson,A,Harvard,Ind,Joshua Crane,L,5,6
+1907-11-09,Brown,Ind,Edward Robinson,A,Yale,Ind,William Knox,L,0,22
+1907-10-12,Tennessee,Ind,George Levene,A,Georgia,Ind,W.S. Whitney,W,15,0
+1907-10-19,Tennessee,Ind,George Levene,A,Georgia Tech,Ind,John Heisman,L,4,6
+1907-10-21,Tennessee,Ind,George Levene,A,Clemson,Ind,Frank Shaughnessy,W,4,0
+1907-10-26,Tennessee,Ind,George Levene,H,Maryville (TN),Ind,Reed Dickson,W,34,0
+1907-11-16,Tennessee,Ind,George Levene,N,Mississippi State,Ind,Fred Furman,W,11,4
+1907-11-18,Tennessee,Ind,George Levene,N,Arkansas,Ind,Frank Longman,W,14,2
+1907-11-28,Tennessee,Ind,George Levene,A,Alabama,Ind,J.W.H. Pollard,L,0,5
+1907-10-19,Virginia Tech,Ind,C.R. Williams,N,Washington & Lee,Ind,R.R. Brown,W,5,0
+1907-10-20,Virginia Tech,Ind,C.R. Williams,H,Davidson,Ind,Ralph Graham,L,5,12
+1907-11-23,Virginia Tech,Ind,C.R. Williams,A,Navy,Ind,Joe Reeves,L,0,12
+1907-11-28,Virginia Tech,Ind,C.R. Williams,H,North Carolina,Ind,Otis Lamson,W,20,6
+1907-10-26,Lehigh,Ind,,A,Dickinson,Ind,Joseph Pipal,T,6,6
+1907-11-23,Lehigh,Ind,,H,Lafayette,Ind,,L,5,22
+1907-10-05,Alabama,Ind,J.W.H. Pollard,H,Maryville (TN),Ind,Reed Dickson,W,17,0
+1907-10-12,Alabama,Ind,J.W.H. Pollard,A,Ole Miss,Ind,Frank Mason,W,20,0
+1907-10-21,Alabama,Ind,J.W.H. Pollard,H,Sewanee,Ind,,L,4,54
+1907-10-25,Alabama,Ind,J.W.H. Pollard,H,Georgia,Ind,W.S. Whitney,T,0,0
+1907-11-16,Alabama,Ind,J.W.H. Pollard,N,Auburn,Ind,William Kienholz,T,6,6
+1907-11-23,Alabama,Ind,J.W.H. Pollard,H,LSU,Ind,,W,6,4
+1907-11-28,Alabama,Ind,J.W.H. Pollard,H,Tennessee,Ind,George Levene,W,5,0
+1907-10-05,Arkansas,Ind,Frank Longman,H,Haskell,Ind,,T,0,0
+1907-10-12,Arkansas,Ind,Frank Longman,H,Drury,Ind,,W,23,0
+1907-10-19,Arkansas,Ind,Frank Longman,A,Drury,Ind,,W,17,6
+1907-10-26,Arkansas,Ind,Frank Longman,A,Saint Louis,Ind,Eddie Cochems,L,6,42
+1907-10-30,Arkansas,Ind,Frank Longman,H,Texas,Ind,W.E. Metzenthin,L,6,26
+1907-11-06,Arkansas,Ind,Frank Longman,A,LSU,Ind,,L,12,17
+1907-11-09,Arkansas,Ind,Frank Longman,A,Tulane,Ind,Joe Curtis,W,17,12
+1907-11-18,Arkansas,Ind,Frank Longman,N,Tennessee,Ind,George Levene,L,2,14
+1907-10-09,Clemson,Ind,Frank Shaughnessy,H,Maryville (TN),Ind,Reed Dickson,W,35,0
+1907-10-21,Clemson,Ind,Frank Shaughnessy,H,Tennessee,Ind,George Levene,L,0,4
+1907-10-31,Clemson,Ind,Frank Shaughnessy,H,North Carolina,Ind,Otis Lamson,W,15,6
+1907-11-02,Clemson,Ind,Frank Shaughnessy,A,Auburn,Ind,William Kienholz,L,0,12
+1907-11-07,Clemson,Ind,Frank Shaughnessy,N,Georgia,Ind,W.S. Whitney,L,0,8
+1907-11-09,Clemson,Ind,Frank Shaughnessy,H,Davidson,Ind,Ralph Graham,L,6,10
+1907-11-28,Clemson,Ind,Frank Shaughnessy,A,Georgia Tech,Ind,John Heisman,W,6,5
+1907-11-02,Purdue,Western,L.C. Turner,A,Illinois,Western,Arthur Hall,L,4,21
+1907-11-09,Purdue,Western,L.C. Turner,A,Chicago,Western,Amos Alonzo Stagg,L,0,56
+1907-11-16,Purdue,Western,L.C. Turner,H,Wisconsin,Western,Charles Hutchins,L,6,12
+1907-10-12,Nebraska,MVIAA,King Cole,H,Grinnell,Ind,C.B. Hamilton,W,30,4
+1907-10-19,Nebraska,MVIAA,King Cole,A,Minnesota,Western,Henry Williams,L,5,8
+1907-10-26,Nebraska,MVIAA,King Cole,H,Colorado,Ind,Frank Castleman,W,22,8
+1907-11-02,Nebraska,MVIAA,King Cole,H,Iowa State,Ind,,W,10,9
+1907-11-09,Nebraska,MVIAA,King Cole,A,Kansas,MVIAA,Doc Kennedy,W,16,6
+1907-11-16,Nebraska,MVIAA,King Cole,A,Denver,Ind,John Koehler,W,63,0
+1907-11-28,Nebraska,MVIAA,King Cole,A,Saint Louis,Ind,Eddie Cochems,L,0,34
+1907-10-19,Harvard,Ind,Joshua Crane,A,Navy,Ind,Joe Reeves,W,6,0
+1907-11-02,Harvard,Ind,Joshua Crane,H,Brown,Ind,Edward Robinson,W,6,5
+1907-11-09,Harvard,Ind,Joshua Crane,H,Carlisle,Ind,Pop Warner,L,15,23
+1907-11-23,Harvard,Ind,Joshua Crane,H,Yale,Ind,William Knox,L,0,12
+1907-10-05,Colorado,Ind,Frank Castleman,H,Denver,Ind,John Koehler,W,29,4
+1907-10-26,Colorado,Ind,Frank Castleman,A,Nebraska,MVIAA,King Cole,L,8,22
+1907-11-09,Colorado,Ind,Frank Castleman,A,Colorado College,Ind,J.R. Richards,L,0,10
+1907-11-16,Colorado,Ind,Frank Castleman,H,Utah,Ind,Joseph Maddock,W,24,10
+1907-11-21,Colorado,Ind,Frank Castleman,A,Colorado Mines,Ind,,L,4,5
+1907-09-28,Hamilton,Ind,Harold Crook,A,Cornell,Ind,Harry Schoellkopf,L,0,23
+1907-10-12,Hamilton,Ind,Harold Crook,A,Lafayette,Ind,,L,0,43
+1907-10-26,Hamilton,Ind,Harold Crook,A,Syracuse,Ind,,L,0,22
+1907-11-09,Hamilton,Ind,Harold Crook,H,Colgate,Ind,William Warner,L,10,20
+1907-10-19,Missouri,MVIAA,W.J. Monilaw,A,Iowa,Western,Mark Catlin,L,6,21
+1907-11-02,Missouri,MVIAA,W.J. Monilaw,H,Texas,Ind,W.E. Metzenthin,W,5,4
+1907-11-16,Missouri,MVIAA,W.J. Monilaw,H,Washington (MO),MVIAA,J.M. Blanchard,W,27,0
+1907-11-28,Missouri,MVIAA,W.J. Monilaw,N,Kansas,MVIAA,Doc Kennedy,L,0,4
+1907-10-05,Denver,Ind,John Koehler,A,Colorado,Ind,Frank Castleman,L,4,29
+1907-10-12,Denver,Ind,John Koehler,A,Utah,Ind,Joseph Maddock,L,4,24
+1907-10-26,Denver,Ind,John Koehler,H,Colorado College,Ind,J.R. Richards,L,4,20
+1907-11-09,Denver,Ind,John Koehler,A,Colorado Mines,Ind,,L,0,33
+1907-11-16,Denver,Ind,John Koehler,H,Nebraska,MVIAA,King Cole,L,0,63
+1907-10-05,Maryville (TN),Ind,Reed Dickson,A,Alabama,Ind,J.W.H. Pollard,L,0,17
+1907-10-07,Maryville (TN),Ind,Reed Dickson,A,Auburn,Ind,William Kienholz,L,0,29
+1907-10-09,Maryville (TN),Ind,Reed Dickson,A,Clemson,Ind,Frank Shaughnessy,L,0,35
+1907-10-26,Maryville (TN),Ind,Reed Dickson,A,Tennessee,Ind,George Levene,L,0,34
+1907-10-12,Washington & Jefferson,Ind,Frank Piekarski,H,Dickinson,Ind,Joseph Pipal,W,34,0
+1907-10-19,Washington & Jefferson,Ind,Frank Piekarski,A,Princeton,Ind,,L,0,40
+1907-11-02,Washington & Jefferson,Ind,Frank Piekarski,A,Yale,Ind,William Knox,L,0,11
+1907-11-16,Washington & Jefferson,Ind,Frank Piekarski,A,Pitt,Ind,John Moorhead,W,9,2
+1907-10-26,Wisconsin,Western,Charles Hutchins,H,Illinois,Western,Arthur Hall,L,4,15
+1907-11-02,Wisconsin,Western,Charles Hutchins,A,Iowa,Western,Mark Catlin,W,6,5
+1907-11-09,Wisconsin,Western,Charles Hutchins,H,Indiana,Western,James Sheldon,W,11,8
+1907-11-16,Wisconsin,Western,Charles Hutchins,A,Purdue,Western,L.C. Turner,W,12,6
+1907-11-23,Wisconsin,Western,Charles Hutchins,H,Minnesota,Western,Henry Williams,T,17,17
+1907-10-05,Bucknell,Ind,J.H. Costello,A,Pennsylvania,Ind,,L,2,29
+1907-10-09,Bucknell,Ind,J.H. Costello,A,Princeton,Ind,,L,0,52
+1907-10-19,Bucknell,Ind,J.H. Costello,A,Carlisle,Ind,Pop Warner,L,0,15
+1907-10-26,Bucknell,Ind,J.H. Costello,A,Pitt,Ind,John Moorhead,L,0,12
+1907-11-02,Bucknell,Ind,J.H. Costello,A,Syracuse,Ind,,L,6,20
+1907-11-09,Bucknell,Ind,J.H. Costello,A,Lafayette,Ind,,L,0,34
+1907-11-16,Bucknell,Ind,J.H. Costello,H,Dickinson,Ind,Joseph Pipal,W,48,0
+1907-11-23,Bucknell,Ind,J.H. Costello,H,Swarthmore,Ind,George Brooke,L,4,35
+1907-11-28,Bucknell,Ind,J.H. Costello,A,Washington & Lee,Ind,R.R. Brown,W,2,0
+1907-10-12,Texas A&M,Ind,L.L. Larson,N,Texas,Ind,W.E. Metzenthin,T,0,0
+1907-10-21,Texas A&M,Ind,L.L. Larson,H,LSU,Ind,,W,11,5
+1907-10-28,Texas A&M,Ind,L.L. Larson,H,Haskell,Ind,,W,5,0
+1907-11-05,Texas A&M,Ind,L.L. Larson,H,Texas Christian,Ind,E.J. Hyde,W,32,5
+1907-11-16,Texas A&M,Ind,L.L. Larson,A,Tulane,Ind,Joe Curtis,W,18,6
+1907-11-28,Texas A&M,Ind,L.L. Larson,A,Texas,Ind,W.E. Metzenthin,L,6,11
+1907-09-28,Davidson,Ind,Ralph Graham,A,Virginia,Ind,Edward Johnson,T,5,5
+1907-10-20,Davidson,Ind,Ralph Graham,A,Virginia Tech,Ind,C.R. Williams,W,12,5
+1907-11-09,Davidson,Ind,Ralph Graham,A,Clemson,Ind,Frank Shaughnessy,W,10,6
+1907-10-26,Washington (MO),MVIAA,J.M. Blanchard,H,Drury,Ind,,L,5,6
+1907-11-02,Washington (MO),MVIAA,J.M. Blanchard,A,Saint Louis,Ind,Eddie Cochems,L,0,78
+1907-11-16,Washington (MO),MVIAA,J.M. Blanchard,A,Missouri,MVIAA,W.J. Monilaw,L,0,27
+1907-10-12,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,27,6
+1907-10-19,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Arthur Hall,W,42,6
+1907-11-02,Chicago,Western,Amos Alonzo Stagg,A,Minnesota,Western,Henry Williams,W,18,12
+1907-11-09,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,L.C. Turner,W,56,0
+1907-11-23,Chicago,Western,Amos Alonzo Stagg,H,Carlisle,Ind,Pop Warner,L,4,18
+1907-10-26,Colorado Mines,Ind,,A,Utah,Ind,Joseph Maddock,L,10,16
+1907-11-09,Colorado Mines,Ind,,H,Denver,Ind,John Koehler,W,33,0
+1907-11-16,Colorado Mines,Ind,,N,Colorado College,Ind,J.R. Richards,W,15,0
+1907-11-21,Colorado Mines,Ind,,H,Colorado,Ind,Frank Castleman,W,5,4
+1907-10-09,Colgate,Ind,William Warner,A,Lafayette,Ind,,L,9,21
+1907-10-12,Colgate,Ind,William Warner,A,Cornell,Ind,Harry Schoellkopf,L,0,18
+1907-11-02,Colgate,Ind,William Warner,A,Army,Ind,Henry Smither,L,0,6
+1907-11-09,Colgate,Ind,William Warner,A,Hamilton,Ind,Harold Crook,W,20,10
+1907-10-12,Swarthmore,Ind,George Brooke,A,Pennsylvania,Ind,,L,8,16
+1907-11-02,Swarthmore,Ind,George Brooke,H,Villanova,Ind,Frederick Crolius,W,18,10
+1907-11-09,Swarthmore,Ind,George Brooke,A,Navy,Ind,Joe Reeves,W,18,0
+1907-11-16,Swarthmore,Ind,George Brooke,A,Cornell,Ind,Harry Schoellkopf,L,0,18
+1907-11-23,Swarthmore,Ind,George Brooke,A,Bucknell,Ind,J.H. Costello,W,35,4
+1907-10-12,Minnesota,Western,Henry Williams,H,Iowa State,Ind,,W,8,0
+1907-10-19,Minnesota,Western,Henry Williams,H,Nebraska,MVIAA,King Cole,W,8,5
+1907-11-02,Minnesota,Western,Henry Williams,H,Chicago,Western,Amos Alonzo Stagg,L,12,18
+1907-11-16,Minnesota,Western,Henry Williams,H,Carlisle,Ind,Pop Warner,L,10,12
+1907-11-23,Minnesota,Western,Henry Williams,A,Wisconsin,Western,Charles Hutchins,T,17,17
+1907-10-12,Ole Miss,Ind,Frank Mason,H,Alabama,Ind,J.W.H. Pollard,L,0,20
+1907-10-26,Ole Miss,Ind,Frank Mason,N,Sewanee,Ind,,L,0,65
+1907-11-09,Ole Miss,Ind,Frank Mason,N,Vanderbilt,Ind,Dan McGugin,L,0,60
+1907-11-16,Ole Miss,Ind,Frank Mason,H,LSU,Ind,,L,0,23
+1907-11-28,Ole Miss,Ind,Frank Mason,N,Mississippi State,Ind,Fred Furman,L,0,15
+1907-10-10,Sewanee,Ind,,H,Mississippi State,Ind,Fred Furman,W,38,0
+1907-10-19,Sewanee,Ind,,A,Auburn,Ind,William Kienholz,W,12,6
+1907-10-21,Sewanee,Ind,,A,Alabama,Ind,J.W.H. Pollard,W,54,4
+1907-10-26,Sewanee,Ind,,N,Ole Miss,Ind,Frank Mason,W,65,0
+1907-11-02,Sewanee,Ind,,A,Virginia,Ind,Edward Johnson,W,12,0
+1907-11-09,Sewanee,Ind,,A,Georgia Tech,Ind,John Heisman,W,18,0
+1907-11-11,Sewanee,Ind,,A,Georgia,Ind,W.S. Whitney,W,16,0
+1907-11-23,Sewanee,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,12,17
+1907-11-02,Michigan,Ind,Fielding Yost,A,Vanderbilt,Ind,Dan McGugin,W,8,0
+1907-11-16,Michigan,Ind,Fielding Yost,H,Pennsylvania,Ind,,L,0,6
+1907-10-05,Navy,Ind,Joe Reeves,H,Dickinson,Ind,Joseph Pipal,W,15,0
+1907-10-12,Navy,Ind,Joe Reeves,H,Vanderbilt,Ind,Dan McGugin,T,6,6
+1907-10-19,Navy,Ind,Joe Reeves,H,Harvard,Ind,Joshua Crane,L,0,6
+1907-10-26,Navy,Ind,Joe Reeves,H,Lafayette,Ind,,W,17,0
+1907-11-09,Navy,Ind,Joe Reeves,H,Swarthmore,Ind,George Brooke,L,0,18
+1907-11-16,Navy,Ind,Joe Reeves,H,Penn State,Ind,Tom Fennell,W,6,4
+1907-11-23,Navy,Ind,Joe Reeves,H,Virginia Tech,Ind,C.R. Williams,W,12,0
+1907-11-30,Navy,Ind,Joe Reeves,N,Army,Ind,Henry Smither,W,6,0
+1907-10-09,Lafayette,Ind,,H,Colgate,Ind,William Warner,W,21,9
+1907-10-12,Lafayette,Ind,,H,Hamilton,Ind,Harold Crook,W,43,0
+1907-10-26,Lafayette,Ind,,A,Navy,Ind,Joe Reeves,L,0,17
+1907-11-02,Lafayette,Ind,,A,Pennsylvania,Ind,,L,0,15
+1907-11-09,Lafayette,Ind,,H,Bucknell,Ind,J.H. Costello,W,34,0
+1907-11-16,Lafayette,Ind,,A,Syracuse,Ind,,T,4,4
+1907-11-23,Lafayette,Ind,,A,Lehigh,Ind,,W,22,5
+1907-11-28,Lafayette,Ind,,H,Dickinson,Ind,Joseph Pipal,W,31,0
+1907-10-26,Tulane,Ind,Joe Curtis,H,Samford,Ind,John Counselman,W,13,0
+1907-11-02,Tulane,Ind,Joe Curtis,H,Drury,Ind,,W,12,0
+1907-11-09,Tulane,Ind,Joe Curtis,H,Arkansas,Ind,Frank Longman,L,12,17
+1907-11-16,Tulane,Ind,Joe Curtis,H,Texas A&M,Ind,L.L. Larson,L,6,18
+1907-09-28,Cornell,Ind,Harry Schoellkopf,H,Hamilton,Ind,Harold Crook,W,23,0
+1907-10-12,Cornell,Ind,Harry Schoellkopf,H,Colgate,Ind,William Warner,W,18,0
+1907-10-19,Cornell,Ind,Harry Schoellkopf,H,Penn State,Ind,Tom Fennell,L,6,8
+1907-10-26,Cornell,Ind,Harry Schoellkopf,H,Princeton,Ind,,W,6,5
+1907-11-02,Cornell,Ind,Harry Schoellkopf,H,Pitt,Ind,John Moorhead,W,18,5
+1907-11-09,Cornell,Ind,Harry Schoellkopf,A,Army,Ind,Henry Smither,W,14,10
+1907-11-16,Cornell,Ind,Harry Schoellkopf,H,Swarthmore,Ind,George Brooke,W,18,0
+1907-11-28,Cornell,Ind,Harry Schoellkopf,A,Pennsylvania,Ind,,L,4,12
+1907-10-26,Pitt,Ind,John Moorhead,H,Bucknell,Ind,J.H. Costello,W,12,0
+1907-11-02,Pitt,Ind,John Moorhead,A,Cornell,Ind,Harry Schoellkopf,L,5,18
+1907-11-16,Pitt,Ind,John Moorhead,H,Washington & Jefferson,Ind,Frank Piekarski,L,2,9
+1907-11-28,Pitt,Ind,John Moorhead,H,Penn State,Ind,Tom Fennell,W,6,0
+1907-10-12,Drury,Ind,,A,Arkansas,Ind,Frank Longman,L,0,23
+1907-10-19,Drury,Ind,,H,Arkansas,Ind,Frank Longman,L,6,17
+1907-10-26,Drury,Ind,,A,Washington (MO),MVIAA,J.M. Blanchard,W,6,5
+1907-10-30,Drury,Ind,,A,Mississippi State,Ind,Fred Furman,L,0,6
+1907-11-02,Drury,Ind,,A,Tulane,Ind,Joe Curtis,L,0,12
+1907-09-28,Drake,Ind,,A,Grinnell,Ind,C.B. Hamilton,W,6,0
+1907-10-26,Drake,Ind,,H,Iowa,Western,Mark Catlin,L,4,25
+1907-11-02,Drake,Ind,,H,Grinnell,Ind,C.B. Hamilton,L,0,10
+1907-11-30,Drake,Ind,,H,Iowa State,Ind,,L,8,13

@@ -1,0 +1,919 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1935-09-28,North Carolina,Southern,Carl Snavely,H,Wake Forest,Ind,Jim Weaver,W,14,0
+1935-10-05,North Carolina,Southern,Carl Snavely,A,Tennessee,SEC,W.H. Britton,W,38,13
+1935-10-12,North Carolina,Southern,Carl Snavely,A,Maryland,Southern,Jack Faber,W,33,0
+1935-10-19,North Carolina,Southern,Carl Snavely,A,Davidson,Ind,,W,14,0
+1935-10-26,North Carolina,Southern,Carl Snavely,H,Georgia Tech,SEC,William Alexander,W,19,0
+1935-11-02,North Carolina,Southern,Carl Snavely,A,North Carolina State,Southern,Hunk Anderson,W,35,6
+1935-11-09,North Carolina,Southern,Carl Snavely,H,Virginia Military Institute,Southern,,W,56,0
+1935-11-16,North Carolina,Southern,Carl Snavely,A,Duke,Southern,Wallace Wade,L,0,25
+1935-11-28,North Carolina,Southern,Carl Snavely,H,Virginia,Southern,Gus Tebell,W,61,0
+1935-10-05,Indiana,Western,Bo McMillin,H,Centre,Ind,,W,14,0
+1935-10-12,Indiana,Western,Bo McMillin,A,Michigan,Western,Harry Kipke,L,0,7
+1935-10-26,Indiana,Western,Bo McMillin,H,Ohio State,Western,Francis Schmidt,L,6,28
+1935-11-02,Indiana,Western,Bo McMillin,A,Iowa,Western,Ossie Solem,T,6,6
+1935-11-09,Indiana,Western,Bo McMillin,A,Maryland,Southern,Jack Faber,W,13,7
+1935-11-16,Indiana,Western,Bo McMillin,A,Chicago,Western,Clark Shaughnessy,W,24,0
+1935-11-23,Indiana,Western,Bo McMillin,H,Purdue,Western,Noble Kizer,W,7,0
+1935-10-05,Iowa State,Big 6,George Veenker,H,Nebraska,Big 6,Dana Bible,L,7,20
+1935-10-19,Iowa State,Big 6,George Veenker,A,Oklahoma,Big 6,Biff Jones,L,0,16
+1935-10-26,Iowa State,Big 6,George Veenker,H,Missouri,Big 6,Don Faurot,T,6,6
+1935-11-02,Iowa State,Big 6,George Veenker,A,Marquette,Ind,Frank Murray,L,12,28
+1935-11-09,Iowa State,Big 6,George Veenker,H,Kansas State,Big 6,Wesley Fry,L,0,6
+1935-11-16,Iowa State,Big 6,George Veenker,A,Drake,MVC,Vee Green,T,7,7
+1935-11-23,Iowa State,Big 6,George Veenker,A,Kansas,Big 6,Adrian Lindsey,W,21,12
+1935-10-12,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Noble Kizer,L,0,20
+1935-10-19,Fordham,Ind,Jimmy Crowley,H,Vanderbilt,SEC,Ray Morrison,W,13,7
+1935-11-02,Fordham,Ind,Jimmy Crowley,H,Pitt,Ind,Jock Sutherland,T,0,0
+1935-11-09,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Slip Madigan,T,7,7
+1935-11-28,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,W,21,0
+1935-09-28,Arizona State,BIAA,Rudy Lavik,A,Arizona,BIAA,Tex Oliver,L,0,26
+1935-10-05,Arizona State,BIAA,Rudy Lavik,H,Loyola Marymount,Ind,Tom Lieb,L,3,7
+1935-10-19,Arizona State,BIAA,Rudy Lavik,A,New Mexico State,BIAA,Gerald Hines,L,6,7
+1935-10-26,Arizona State,BIAA,Rudy Lavik,H,UTEP,BIAA,Mack Saxon,W,14,0
+1935-11-02,Arizona State,BIAA,Rudy Lavik,A,New Mexico,BIAA,Gwinn Henry,L,0,13
+1935-11-09,Arizona State,BIAA,Rudy Lavik,A,Northern Arizona,BIAA,Mark McIntosh,W,6,0
+1935-11-16,Arizona State,BIAA,Rudy Lavik,H,Northern Arizona,BIAA,Mark McIntosh,T,0,0
+1935-11-23,Arizona State,BIAA,Rudy Lavik,H,Brigham Young,RMC,Ott Romney,L,0,13
+1935-10-05,Furman,Ind,,H,Presbyterian,Ind,Walter Johnson,W,23,0
+1935-10-12,Furman,Ind,,A,Georgia,SEC,Harry Mehre,L,7,31
+1935-10-18,Furman,Ind,,N,Wake Forest,Ind,Jim Weaver,W,9,0
+1935-10-26,Furman,Ind,,H,Mercer,Ind,,W,32,0
+1935-11-02,Furman,Ind,,H,Citadel,Ind,Tatum Gressette,W,35,0
+1935-11-16,Furman,Ind,,A,South Carolina,Southern,Don McCallister,W,20,7
+1935-11-28,Furman,Ind,,H,Clemson,Southern,Jess Neely,W,8,6
+1935-10-05,Utah,RMC,Ike Armstrong,A,Oregon,PCC,Prink Callison,L,0,6
+1935-10-12,Utah,RMC,Ike Armstrong,H,Montana State,RMC,Schubert Dyche,W,47,0
+1935-10-26,Utah,RMC,Ike Armstrong,H,Denver,RMC,Percy Locey,W,39,14
+1935-11-02,Utah,RMC,Ike Armstrong,A,Brigham Young,RMC,Ott Romney,W,32,0
+1935-11-09,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Bunny Oakes,L,0,14
+1935-11-16,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,14,0
+1935-11-28,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,T,14,14
+1935-10-12,Northern Colorado,RMC,J.W. Hancock,A,Brigham Young,RMC,Ott Romney,L,3,19
+1935-10-26,Northern Colorado,RMC,J.W. Hancock,H,Western State,RMC,Paul Wright,W,17,7
+1935-11-23,Northern Colorado,RMC,J.W. Hancock,H,Montana State,RMC,Schubert Dyche,W,6,0
+1935-10-12,Villanova,Ind,Harry Stuhldreher,H,Bucknell,Ind,Hook Mylin,W,25,0
+1935-10-26,Villanova,Ind,Harry Stuhldreher,A,Detroit Mercy,Ind,Gus Dorais,L,15,19
+1935-11-02,Villanova,Ind,Harry Stuhldreher,H,Detroit Mercy,Ind,Gus Dorais,W,13,7
+1935-11-09,Villanova,Ind,Harry Stuhldreher,A,Penn State,Ind,Bob Higgins,L,13,27
+1935-11-23,Villanova,Ind,Harry Stuhldreher,A,Temple,Ind,Pop Warner,W,21,14
+1935-10-05,Washington & Lee,Southern,Tex Tilson,H,Duke,Southern,Wallace Wade,L,0,26
+1935-10-19,Washington & Lee,Southern,Tex Tilson,A,Centre,Ind,,W,14,7
+1935-10-26,Washington & Lee,Southern,Tex Tilson,N,Virginia Tech,Southern,Henry Redd,L,0,15
+1935-11-02,Washington & Lee,Southern,Tex Tilson,N,West Virginia,Ind,Trusty Tallman,L,0,20
+1935-11-09,Washington & Lee,Southern,Tex Tilson,H,Virginia,Southern,Gus Tebell,W,20,0
+1935-11-16,Washington & Lee,Southern,Tex Tilson,A,Maryland,Southern,Jack Faber,T,0,0
+1935-11-23,Washington & Lee,Southern,Tex Tilson,A,South Carolina,Southern,Don McCallister,L,0,2
+1935-10-12,Syracuse,Ind,Vic Hanson,H,Cornell,Ind,Gilmour Dobie,W,21,14
+1935-10-26,Syracuse,Ind,Vic Hanson,H,Brown,Ind,DeOrmond McLaughry,W,19,0
+1935-11-02,Syracuse,Ind,Vic Hanson,H,Penn State,Ind,Bob Higgins,W,7,3
+1935-11-09,Syracuse,Ind,Vic Hanson,A,Columbia,Ind,Lou Little,W,14,2
+1935-11-16,Syracuse,Ind,Vic Hanson,H,Colgate,Ind,Andrew Kerr,L,0,27
+1935-11-28,Syracuse,Ind,Vic Hanson,A,Maryland,Southern,Jack Faber,T,0,0
+1935-09-28,Arizona,BIAA,Tex Oliver,H,Arizona State,BIAA,Rudy Lavik,W,26,0
+1935-10-05,Arizona,BIAA,Tex Oliver,A,Centenary (LA),Ind,Curtis Player,L,7,14
+1935-10-19,Arizona,BIAA,Tex Oliver,A,Loyola Marymount,Ind,Tom Lieb,L,6,13
+1935-10-26,Arizona,BIAA,Tex Oliver,H,New Mexico State,BIAA,Gerald Hines,W,9,6
+1935-11-11,Arizona,BIAA,Tex Oliver,A,Texas Tech,BIAA,Pete Cawthon,W,7,6
+1935-11-23,Arizona,BIAA,Tex Oliver,A,New Mexico,BIAA,Gwinn Henry,W,38,6
+1935-11-30,Arizona,BIAA,Tex Oliver,H,Drake,MVC,Vee Green,W,53,0
+1935-10-26,Georgetown,Ind,Jack Hagerty,A,New York University,Ind,Mal Stevens,L,6,7
+1935-11-02,Georgetown,Ind,Jack Hagerty,A,Richmond,Ind,Glenn Thistlethwaite,W,7,0
+1935-11-23,Georgetown,Ind,Jack Hagerty,H,Maryland,Southern,Jack Faber,L,6,12
+1935-09-28,Montana,PCC,Doug Fessenden,A,USC,PCC,Howard Jones,L,0,9
+1935-10-05,Montana,PCC,Doug Fessenden,N,Montana State,RMC,Schubert Dyche,W,20,0
+1935-10-12,Montana,PCC,Doug Fessenden,H,Washington State,PCC,O.E. Hollingbery,L,7,13
+1935-10-26,Montana,PCC,Doug Fessenden,A,Idaho,PCC,Ted Bank,L,7,14
+1935-11-02,Montana,PCC,Doug Fessenden,A,Washington,PCC,James Phelan,L,7,33
+1935-11-09,Montana,PCC,Doug Fessenden,H,Gonzaga,Ind,Mike Pecarovich,T,7,7
+1935-11-16,Montana,PCC,Doug Fessenden,A,Stanford,PCC,Tiny Thornhill,L,0,32
+1935-11-23,Montana,PCC,Doug Fessenden,H,Oregon State,PCC,Lon Stiner,T,0,0
+1935-10-26,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Jock Sutherland,L,0,9
+1935-11-02,Penn State,Ind,Bob Higgins,A,Syracuse,Ind,Vic Hanson,L,3,7
+1935-11-09,Penn State,Ind,Bob Higgins,H,Villanova,Ind,Harry Stuhldreher,W,27,13
+1935-11-16,Penn State,Ind,Bob Higgins,A,Pennsylvania,Ind,Harvey Harman,L,6,33
+1935-11-23,Penn State,Ind,Bob Higgins,A,Bucknell,Ind,Hook Mylin,L,0,2
+1935-10-05,Princeton,Ind,Fritz Crisler,H,Pennsylvania,Ind,Harvey Harman,W,7,6
+1935-10-26,Princeton,Ind,Fritz Crisler,A,Cornell,Ind,Gilmour Dobie,W,54,0
+1935-11-02,Princeton,Ind,Fritz Crisler,H,Navy,Ind,Thomas Hamilton,W,26,0
+1935-11-09,Princeton,Ind,Fritz Crisler,H,Harvard,Ind,,W,35,0
+1935-11-23,Princeton,Ind,Fritz Crisler,H,Dartmouth,Ind,Red Blaik,W,26,6
+1935-11-30,Princeton,Ind,Fritz Crisler,A,Yale,Ind,,W,38,7
+1935-09-28,Vanderbilt,SEC,Ray Morrison,H,Mississippi State,SEC,Ralph Sasse,W,14,9
+1935-10-12,Vanderbilt,SEC,Ray Morrison,A,Temple,Ind,Pop Warner,L,3,6
+1935-10-19,Vanderbilt,SEC,Ray Morrison,A,Fordham,Ind,Jimmy Crowley,L,7,13
+1935-10-26,Vanderbilt,SEC,Ray Morrison,H,LSU,SEC,Bernie Moore,L,2,7
+1935-11-02,Vanderbilt,SEC,Ray Morrison,A,Georgia Tech,SEC,William Alexander,W,14,13
+1935-11-09,Vanderbilt,SEC,Ray Morrison,H,Sewanee,SEC,Heck Clark,W,46,0
+1935-11-16,Vanderbilt,SEC,Ray Morrison,A,Tennessee,SEC,W.H. Britton,W,13,7
+1935-11-28,Vanderbilt,SEC,Ray Morrison,H,Alabama,SEC,Frank Thomas,W,14,6
+1935-09-27,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Percy Locey,L,0,19
+1935-10-05,Colorado College,RMC,W.T. VandeGraaff,H,Western State,RMC,Paul Wright,W,13,6
+1935-10-12,Colorado College,RMC,W.T. VandeGraaff,H,New Mexico,BIAA,Gwinn Henry,L,0,13
+1935-10-19,Colorado College,RMC,W.T. VandeGraaff,A,Brigham Young,RMC,Ott Romney,W,13,12
+1935-11-02,Colorado College,RMC,W.T. VandeGraaff,A,Colorado,RMC,Bunny Oakes,L,0,23
+1935-11-11,Colorado College,RMC,W.T. VandeGraaff,A,Colorado Mines,RMC,George Scott,W,20,0
+1935-11-16,Colorado College,RMC,W.T. VandeGraaff,H,Montana State,RMC,Schubert Dyche,W,14,0
+1935-11-23,Colorado College,RMC,W.T. VandeGraaff,H,Colorado State,RMC,Harry Hughes,T,0,0
+1935-09-27,Kentucky,SEC,C.A. Wynne,A,Xavier,Ind,Clem Crowe,W,21,7
+1935-10-05,Kentucky,SEC,C.A. Wynne,A,Ohio State,Western,Francis Schmidt,L,6,19
+1935-10-12,Kentucky,SEC,C.A. Wynne,H,Georgia Tech,SEC,William Alexander,W,25,6
+1935-10-19,Kentucky,SEC,C.A. Wynne,A,Auburn,SEC,Jack Meagher,L,0,23
+1935-11-02,Kentucky,SEC,C.A. Wynne,A,Alabama,SEC,Frank Thomas,L,0,13
+1935-11-09,Kentucky,SEC,C.A. Wynne,H,Florida,SEC,Dutch Stanley,W,15,6
+1935-11-16,Kentucky,SEC,C.A. Wynne,A,Tulane,SEC,Ted Cox,L,13,20
+1935-11-28,Kentucky,SEC,C.A. Wynne,H,Tennessee,SEC,W.H. Britton,W,27,0
+1935-10-05,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,Slip Madigan,W,10,0
+1935-10-12,California,PCC,Stub Allison,A,Oregon,PCC,Prink Callison,W,6,0
+1935-10-19,California,PCC,Stub Allison,H,Santa Clara,Ind,,W,6,0
+1935-10-26,California,PCC,Stub Allison,H,USC,PCC,Howard Jones,W,21,7
+1935-11-02,California,PCC,Stub Allison,A,UCLA,PCC,William Spaulding,W,14,2
+1935-11-09,California,PCC,Stub Allison,H,Washington,PCC,James Phelan,W,14,0
+1935-11-23,California,PCC,Stub Allison,A,Stanford,PCC,Tiny Thornhill,L,0,13
+1935-10-12,Florida,SEC,Dutch Stanley,A,Tulane,SEC,Ted Cox,L,7,19
+1935-10-19,Florida,SEC,Dutch Stanley,A,Ole Miss,SEC,Ed Walker,L,6,27
+1935-10-26,Florida,SEC,Dutch Stanley,H,Maryland,Southern,Jack Faber,L,6,20
+1935-11-02,Florida,SEC,Dutch Stanley,N,Georgia,SEC,Harry Mehre,L,0,7
+1935-11-09,Florida,SEC,Dutch Stanley,A,Kentucky,SEC,C.A. Wynne,L,6,15
+1935-11-16,Florida,SEC,Dutch Stanley,H,Sewanee,SEC,Heck Clark,W,20,0
+1935-11-23,Florida,SEC,Dutch Stanley,A,Georgia Tech,SEC,William Alexander,L,6,39
+1935-11-30,Florida,SEC,Dutch Stanley,H,Auburn,SEC,Jack Meagher,L,6,27
+1935-12-07,Florida,SEC,Dutch Stanley,H,South Carolina,Southern,Don McCallister,W,22,0
+1935-09-28,Gonzaga,Ind,Mike Pecarovich,A,Oregon,PCC,Prink Callison,L,0,18
+1935-10-05,Gonzaga,Ind,Mike Pecarovich,A,Idaho,PCC,Ted Bank,W,7,6
+1935-10-11,Gonzaga,Ind,Mike Pecarovich,A,Oregon State,PCC,Lon Stiner,L,6,33
+1935-10-19,Gonzaga,Ind,Mike Pecarovich,H,San Francisco,Ind,Lawrence Lewis,L,0,20
+1935-10-26,Gonzaga,Ind,Mike Pecarovich,H,Washburn,MVC,Ernest Bearg,W,21,0
+1935-11-02,Gonzaga,Ind,Mike Pecarovich,A,Washington State,PCC,O.E. Hollingbery,W,7,0
+1935-11-09,Gonzaga,Ind,Mike Pecarovich,A,Montana,PCC,Doug Fessenden,T,7,7
+1935-10-05,Stanford,PCC,Tiny Thornhill,A,San Francisco,Ind,Lawrence Lewis,W,10,0
+1935-10-19,Stanford,PCC,Tiny Thornhill,H,UCLA,PCC,William Spaulding,L,6,7
+1935-10-26,Stanford,PCC,Tiny Thornhill,A,Washington,PCC,James Phelan,W,6,0
+1935-11-02,Stanford,PCC,Tiny Thornhill,H,Santa Clara,Ind,,W,9,6
+1935-11-09,Stanford,PCC,Tiny Thornhill,A,USC,PCC,Howard Jones,W,3,0
+1935-11-16,Stanford,PCC,Tiny Thornhill,H,Montana,PCC,Doug Fessenden,W,32,0
+1935-11-23,Stanford,PCC,Tiny Thornhill,H,California,PCC,Stub Allison,W,13,0
+1936-01-01,Stanford,PCC,Tiny Thornhill,N,SMU,SWC,Madison Bell,W,7,0
+1935-09-28,Creighton,MVC,Marchy Schwartz,H,Saint Louis,Ind,,W,13,0
+1935-10-05,Creighton,MVC,Marchy Schwartz,H,Oklahoma State,MVC,Albert Exendine,W,16,0
+1935-10-12,Creighton,MVC,Marchy Schwartz,A,Rice,SWC,Jimmy Kitts,L,0,14
+1935-10-19,Creighton,MVC,Marchy Schwartz,H,Drake,MVC,Vee Green,T,6,6
+1935-10-26,Creighton,MVC,Marchy Schwartz,A,Grinnell,MVC,Lester Watt,W,7,6
+1935-11-02,Creighton,MVC,Marchy Schwartz,A,Washington (MO),MVC,Jimmy Conzelman,L,7,33
+1935-11-16,Creighton,MVC,Marchy Schwartz,H,Washburn,MVC,Ernest Bearg,L,3,20
+1935-11-23,Creighton,MVC,Marchy Schwartz,A,Marquette,Ind,Frank Murray,L,0,26
+1935-09-21,Presbyterian,Ind,Walter Johnson,A,Clemson,Southern,Jess Neely,L,6,25
+1935-09-28,Presbyterian,Ind,Walter Johnson,A,Georgia Tech,SEC,William Alexander,L,0,33
+1935-10-05,Presbyterian,Ind,Walter Johnson,A,Furman,Ind,,L,0,23
+1935-11-01,Presbyterian,Ind,Walter Johnson,A,Wake Forest,Ind,Jim Weaver,L,0,18
+1935-11-16,Presbyterian,Ind,Walter Johnson,H,Mercer,Ind,,L,7,14
+1935-11-28,Presbyterian,Ind,Walter Johnson,A,Citadel,Ind,Tatum Gressette,L,7,18
+1935-10-12,Washington State,PCC,O.E. Hollingbery,A,Montana,PCC,Doug Fessenden,W,13,7
+1935-10-19,Washington State,PCC,O.E. Hollingbery,H,Washington,PCC,James Phelan,L,0,21
+1935-10-26,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Lon Stiner,W,26,13
+1935-11-02,Washington State,PCC,O.E. Hollingbery,H,Gonzaga,Ind,Mike Pecarovich,L,0,7
+1935-11-09,Washington State,PCC,O.E. Hollingbery,A,Idaho,PCC,Ted Bank,W,6,0
+1935-11-16,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,L,10,20
+1935-11-30,Washington State,PCC,O.E. Hollingbery,A,Saint Mary's (CA),Ind,Slip Madigan,T,7,7
+1935-10-05,Western State,RMC,Paul Wright,A,Colorado College,RMC,W.T. VandeGraaff,L,6,13
+1935-10-12,Western State,RMC,Paul Wright,A,Northern Arizona,BIAA,Mark McIntosh,L,12,23
+1935-10-26,Western State,RMC,Paul Wright,A,Northern Colorado,RMC,J.W. Hancock,L,7,17
+1935-11-09,Western State,RMC,Paul Wright,H,Brigham Young,RMC,Ott Romney,L,2,21
+1935-11-16,Western State,RMC,Paul Wright,A,Colorado Mines,RMC,George Scott,L,0,20
+1935-10-05,Illinois,Western,Robert Zuppke,H,Washington (MO),MVC,Jimmy Conzelman,W,28,6
+1935-10-12,Illinois,Western,Robert Zuppke,A,USC,PCC,Howard Jones,W,19,0
+1935-10-26,Illinois,Western,Robert Zuppke,H,Iowa,Western,Ossie Solem,L,0,19
+1935-11-02,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Pappy Waldorf,L,3,10
+1935-11-09,Illinois,Western,Robert Zuppke,H,Michigan,Western,Harry Kipke,W,3,0
+1935-11-16,Illinois,Western,Robert Zuppke,A,Ohio State,Western,Francis Schmidt,L,0,6
+1935-11-23,Illinois,Western,Robert Zuppke,H,Chicago,Western,Clark Shaughnessy,L,6,7
+1935-10-12,Baylor,SWC,Morley Jennings,H,Arkansas,SWC,Fred Thomsen,W,13,6
+1935-10-26,Baylor,SWC,Morley Jennings,A,Texas A&M,SWC,Homer Norton,W,14,6
+1935-11-02,Baylor,SWC,Morley Jennings,H,Texas Christian,SWC,Dutch Meyer,L,0,28
+1935-11-09,Baylor,SWC,Morley Jennings,H,Texas,SWC,Jack Chevigny,L,6,25
+1935-11-16,Baylor,SWC,Morley Jennings,A,Centenary (LA),Ind,Curtis Player,W,20,0
+1935-11-23,Baylor,SWC,Morley Jennings,A,SMU,SWC,Madison Bell,L,0,10
+1935-11-30,Baylor,SWC,Morley Jennings,A,Rice,SWC,Jimmy Kitts,W,8,0
+1935-10-05,SMU,SWC,Madison Bell,H,Tulsa,MVC,Gus Henderson,W,14,0
+1935-10-12,SMU,SWC,Madison Bell,A,Washington (MO),MVC,Jimmy Conzelman,W,35,6
+1935-10-19,SMU,SWC,Madison Bell,H,Rice,SWC,Jimmy Kitts,W,10,0
+1935-11-02,SMU,SWC,Madison Bell,H,Texas,SWC,Jack Chevigny,W,20,0
+1935-11-09,SMU,SWC,Madison Bell,A,UCLA,PCC,William Spaulding,W,21,0
+1935-11-16,SMU,SWC,Madison Bell,A,Arkansas,SWC,Fred Thomsen,W,17,6
+1935-11-23,SMU,SWC,Madison Bell,H,Baylor,SWC,Morley Jennings,W,10,0
+1935-11-30,SMU,SWC,Madison Bell,A,Texas Christian,SWC,Dutch Meyer,W,20,14
+1935-12-07,SMU,SWC,Madison Bell,A,Texas A&M,SWC,Homer Norton,W,24,0
+1936-01-01,SMU,SWC,Madison Bell,N,Stanford,PCC,Tiny Thornhill,L,0,7
+1935-09-28,Georgia,SEC,Harry Mehre,H,Mercer,Ind,,W,31,0
+1935-10-12,Georgia,SEC,Harry Mehre,H,Furman,Ind,,W,31,7
+1935-10-19,Georgia,SEC,Harry Mehre,A,North Carolina State,Southern,Hunk Anderson,W,13,0
+1935-10-26,Georgia,SEC,Harry Mehre,H,Alabama,SEC,Frank Thomas,L,7,17
+1935-11-02,Georgia,SEC,Harry Mehre,N,Florida,SEC,Dutch Stanley,W,7,0
+1935-11-09,Georgia,SEC,Harry Mehre,A,Tulane,SEC,Ted Cox,W,26,13
+1935-11-16,Georgia,SEC,Harry Mehre,H,LSU,SEC,Bernie Moore,L,0,13
+1935-11-23,Georgia,SEC,Harry Mehre,N,Auburn,SEC,Jack Meagher,L,7,19
+1935-11-30,Georgia,SEC,Harry Mehre,A,Georgia Tech,SEC,William Alexander,L,7,19
+1935-10-05,Maryland,Southern,Jack Faber,H,Virginia Tech,Southern,Henry Redd,W,7,0
+1935-10-12,Maryland,Southern,Jack Faber,H,North Carolina,Southern,Carl Snavely,L,0,33
+1935-10-19,Maryland,Southern,Jack Faber,A,Virginia Military Institute,Southern,,W,6,0
+1935-10-26,Maryland,Southern,Jack Faber,A,Florida,SEC,Dutch Stanley,W,20,6
+1935-11-02,Maryland,Southern,Jack Faber,A,Virginia,Southern,Gus Tebell,W,14,7
+1935-11-09,Maryland,Southern,Jack Faber,H,Indiana,Western,Bo McMillin,L,7,13
+1935-11-16,Maryland,Southern,Jack Faber,H,Washington & Lee,Southern,Tex Tilson,T,0,0
+1935-11-23,Maryland,Southern,Jack Faber,A,Georgetown,Ind,Jack Hagerty,W,12,6
+1935-11-28,Maryland,Southern,Jack Faber,H,Syracuse,Ind,Vic Hanson,T,0,0
+1935-09-21,Virginia,Southern,Gus Tebell,A,William & Mary,Ind,Tommy Dowler,T,0,0
+1935-10-05,Virginia,Southern,Gus Tebell,H,Davidson,Ind,,T,0,0
+1935-10-10,Virginia,Southern,Gus Tebell,A,Navy,Ind,Thomas Hamilton,L,7,26
+1935-10-26,Virginia,Southern,Gus Tebell,H,Virginia Military Institute,Southern,,T,0,0
+1935-11-02,Virginia,Southern,Gus Tebell,H,Maryland,Southern,Jack Faber,L,7,14
+1935-11-09,Virginia,Southern,Gus Tebell,A,Washington & Lee,Southern,Tex Tilson,L,0,20
+1935-11-16,Virginia,Southern,Gus Tebell,H,Virginia Tech,Southern,Henry Redd,T,0,0
+1935-11-28,Virginia,Southern,Gus Tebell,A,North Carolina,Southern,Carl Snavely,L,0,61
+1935-09-28,Idaho,PCC,Ted Bank,A,Washington,PCC,James Phelan,L,0,14
+1935-10-05,Idaho,PCC,Ted Bank,H,Gonzaga,Ind,Mike Pecarovich,L,6,7
+1935-10-19,Idaho,PCC,Ted Bank,A,Oregon,PCC,Prink Callison,L,0,14
+1935-10-26,Idaho,PCC,Ted Bank,H,Montana,PCC,Doug Fessenden,W,14,7
+1935-11-09,Idaho,PCC,Ted Bank,H,Washington State,PCC,O.E. Hollingbery,L,0,6
+1935-11-16,Idaho,PCC,Ted Bank,A,Oregon State,PCC,Lon Stiner,L,0,13
+1935-12-07,Idaho,PCC,Ted Bank,A,UCLA,PCC,William Spaulding,L,6,13
+1935-10-05,Northern Arizona,BIAA,Mark McIntosh,H,New Mexico State,BIAA,Gerald Hines,L,0,7
+1935-10-12,Northern Arizona,BIAA,Mark McIntosh,H,Western State,RMC,Paul Wright,W,23,12
+1935-10-19,Northern Arizona,BIAA,Mark McIntosh,A,New Mexico,BIAA,Gwinn Henry,L,0,20
+1935-11-09,Northern Arizona,BIAA,Mark McIntosh,H,Arizona State,BIAA,Rudy Lavik,L,0,6
+1935-11-16,Northern Arizona,BIAA,Mark McIntosh,A,Arizona State,BIAA,Rudy Lavik,T,0,0
+1935-10-17,Citadel,Ind,Tatum Gressette,N,South Carolina,Southern,Don McCallister,L,0,25
+1935-10-26,Citadel,Ind,Tatum Gressette,H,Davidson,Ind,,T,7,7
+1935-11-02,Citadel,Ind,Tatum Gressette,A,Furman,Ind,,L,0,35
+1935-11-16,Citadel,Ind,Tatum Gressette,H,Clemson,Southern,Jess Neely,L,0,6
+1935-11-28,Citadel,Ind,Tatum Gressette,H,Presbyterian,Ind,Walter Johnson,W,18,7
+1935-09-28,Oklahoma,Big 6,Biff Jones,H,Colorado,RMC,Bunny Oakes,W,3,0
+1935-10-05,Oklahoma,Big 6,Biff Jones,H,New Mexico,BIAA,Gwinn Henry,W,25,0
+1935-10-12,Oklahoma,Big 6,Biff Jones,N,Texas,SWC,Jack Chevigny,L,7,12
+1935-10-19,Oklahoma,Big 6,Biff Jones,H,Iowa State,Big 6,George Veenker,W,16,0
+1935-10-26,Oklahoma,Big 6,Biff Jones,A,Nebraska,Big 6,Dana Bible,L,0,19
+1935-11-02,Oklahoma,Big 6,Biff Jones,H,Kansas,Big 6,Adrian Lindsey,L,0,7
+1935-11-09,Oklahoma,Big 6,Biff Jones,A,Missouri,Big 6,Don Faurot,W,20,6
+1935-11-16,Oklahoma,Big 6,Biff Jones,A,Kansas State,Big 6,Wesley Fry,W,3,0
+1935-11-28,Oklahoma,Big 6,Biff Jones,H,Oklahoma State,MVC,Albert Exendine,W,25,0
+1935-09-28,Virginia Tech,Southern,Henry Redd,H,Clemson,Southern,Jess Neely,L,7,28
+1935-10-05,Virginia Tech,Southern,Henry Redd,A,Maryland,Southern,Jack Faber,L,0,7
+1935-10-12,Virginia Tech,Southern,Henry Redd,N,William & Mary,Ind,Tommy Dowler,T,0,0
+1935-10-26,Virginia Tech,Southern,Henry Redd,N,Washington & Lee,Southern,Tex Tilson,W,15,0
+1935-11-02,Virginia Tech,Southern,Henry Redd,H,South Carolina,Southern,Don McCallister,W,27,0
+1935-11-09,Virginia Tech,Southern,Henry Redd,N,North Carolina State,Southern,Hunk Anderson,L,0,6
+1935-11-16,Virginia Tech,Southern,Henry Redd,A,Virginia,Southern,Gus Tebell,T,0,0
+1935-11-28,Virginia Tech,Southern,Henry Redd,N,Virginia Military Institute,Southern,,W,12,6
+1935-10-05,Arkansas,SWC,Fred Thomsen,H,Texas Christian,SWC,Dutch Meyer,L,7,13
+1935-10-12,Arkansas,SWC,Fred Thomsen,A,Baylor,SWC,Morley Jennings,L,6,13
+1935-10-19,Arkansas,SWC,Fred Thomsen,N,LSU,SEC,Bernie Moore,L,7,13
+1935-11-02,Arkansas,SWC,Fred Thomsen,H,Texas A&M,SWC,Homer Norton,W,14,7
+1935-11-09,Arkansas,SWC,Fred Thomsen,A,Rice,SWC,Jimmy Kitts,L,7,20
+1935-11-16,Arkansas,SWC,Fred Thomsen,H,SMU,SWC,Madison Bell,L,6,17
+1935-11-22,Arkansas,SWC,Fred Thomsen,A,Texas,SWC,Jack Chevigny,W,28,13
+1935-11-28,Arkansas,SWC,Fred Thomsen,A,Tulsa,MVC,Gus Henderson,W,14,7
+1935-09-21,Clemson,Southern,Jess Neely,H,Presbyterian,Ind,Walter Johnson,W,25,6
+1935-09-28,Clemson,Southern,Jess Neely,A,Virginia Tech,Southern,Henry Redd,W,28,7
+1935-10-05,Clemson,Southern,Jess Neely,H,Wake Forest,Ind,Jim Weaver,W,13,7
+1935-10-12,Clemson,Southern,Jess Neely,A,Duke,Southern,Wallace Wade,L,12,38
+1935-10-24,Clemson,Southern,Jess Neely,A,South Carolina,Southern,Don McCallister,W,44,0
+1935-11-02,Clemson,Southern,Jess Neely,N,Mercer,Ind,,W,13,0
+1935-11-09,Clemson,Southern,Jess Neely,A,Alabama,SEC,Frank Thomas,L,0,33
+1935-11-16,Clemson,Southern,Jess Neely,A,Citadel,Ind,Tatum Gressette,W,6,0
+1935-11-28,Clemson,Southern,Jess Neely,A,Furman,Ind,,L,6,8
+1935-09-28,South Carolina,Southern,Don McCallister,A,Duke,Southern,Wallace Wade,L,0,47
+1935-10-05,South Carolina,Southern,Don McCallister,H,North Carolina State,Southern,Hunk Anderson,L,0,14
+1935-10-12,South Carolina,Southern,Don McCallister,A,Davidson,Ind,,L,6,13
+1935-10-17,South Carolina,Southern,Don McCallister,N,Citadel,Ind,Tatum Gressette,W,25,0
+1935-10-24,South Carolina,Southern,Don McCallister,H,Clemson,Southern,Jess Neely,L,0,44
+1935-11-02,South Carolina,Southern,Don McCallister,A,Virginia Tech,Southern,Henry Redd,L,0,27
+1935-11-16,South Carolina,Southern,Don McCallister,H,Furman,Ind,,L,7,20
+1935-11-23,South Carolina,Southern,Don McCallister,H,Washington & Lee,Southern,Tex Tilson,W,2,0
+1935-12-07,South Carolina,Southern,Don McCallister,A,Florida,SEC,Dutch Stanley,L,0,22
+1935-09-28,Washington,PCC,James Phelan,H,Idaho,PCC,Ted Bank,W,14,0
+1935-10-12,Washington,PCC,James Phelan,H,Santa Clara,Ind,,W,13,6
+1935-10-19,Washington,PCC,James Phelan,A,Washington State,PCC,O.E. Hollingbery,W,21,0
+1935-10-26,Washington,PCC,James Phelan,H,Stanford,PCC,Tiny Thornhill,L,0,6
+1935-11-02,Washington,PCC,James Phelan,H,Montana,PCC,Doug Fessenden,W,33,7
+1935-11-09,Washington,PCC,James Phelan,A,California,PCC,Stub Allison,L,0,14
+1935-11-23,Washington,PCC,James Phelan,H,Oregon,PCC,Prink Callison,L,6,7
+1935-12-07,Washington,PCC,James Phelan,A,USC,PCC,Howard Jones,W,6,2
+1935-09-28,Santa Clara,Ind,,A,San Francisco,Ind,Lawrence Lewis,W,20,7
+1935-10-12,Santa Clara,Ind,,A,Washington,PCC,James Phelan,L,6,13
+1935-10-19,Santa Clara,Ind,,A,California,PCC,Stub Allison,L,0,6
+1935-11-02,Santa Clara,Ind,,A,Stanford,PCC,Tiny Thornhill,L,6,9
+1935-11-09,Santa Clara,Ind,,H,Loyola Marymount,Ind,Tom Lieb,L,0,7
+1935-11-16,Santa Clara,Ind,,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,10
+1935-12-07,Santa Clara,Ind,,H,Texas Christian,SWC,Dutch Meyer,L,6,10
+1935-09-21,Utah State,RMC,,H,Montana State,RMC,Schubert Dyche,W,33,7
+1935-09-28,Utah State,RMC,,A,UCLA,PCC,William Spaulding,L,0,39
+1935-10-19,Utah State,RMC,,A,Denver,RMC,Percy Locey,L,7,13
+1935-10-26,Utah State,RMC,,H,Colorado Mines,RMC,George Scott,W,53,0
+1935-11-02,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,W,13,0
+1935-11-09,Utah State,RMC,,H,Wyoming,RMC,Dutch Witte,W,18,0
+1935-11-16,Utah State,RMC,,H,Brigham Young,RMC,Ott Romney,W,27,0
+1935-11-28,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,T,14,14
+1935-10-12,Missouri,Big 6,Don Faurot,H,Colorado,RMC,Bunny Oakes,W,20,6
+1935-10-26,Missouri,Big 6,Don Faurot,A,Iowa State,Big 6,George Veenker,T,6,6
+1935-11-02,Missouri,Big 6,Don Faurot,H,Nebraska,Big 6,Dana Bible,L,6,19
+1935-11-09,Missouri,Big 6,Don Faurot,H,Oklahoma,Big 6,Biff Jones,L,6,20
+1935-11-16,Missouri,Big 6,Don Faurot,A,Washington (MO),MVC,Jimmy Conzelman,L,6,19
+1935-11-23,Missouri,Big 6,Don Faurot,H,Kansas State,Big 6,Wesley Fry,T,7,7
+1935-11-28,Missouri,Big 6,Don Faurot,A,Kansas,Big 6,Adrian Lindsey,T,0,0
+1935-09-21,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,7,33
+1935-09-28,Montana State,RMC,Schubert Dyche,H,Brigham Young,RMC,Ott Romney,W,7,0
+1935-10-05,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Doug Fessenden,L,0,20
+1935-10-12,Montana State,RMC,Schubert Dyche,A,Utah,RMC,Ike Armstrong,L,0,47
+1935-11-02,Montana State,RMC,Schubert Dyche,H,Wyoming,RMC,Dutch Witte,L,2,6
+1935-11-16,Montana State,RMC,Schubert Dyche,A,Colorado College,RMC,W.T. VandeGraaff,L,0,14
+1935-11-23,Montana State,RMC,Schubert Dyche,A,Northern Colorado,RMC,J.W. Hancock,L,0,6
+1935-09-27,Denver,RMC,Percy Locey,H,Colorado College,RMC,W.T. VandeGraaff,W,19,0
+1935-10-05,Denver,RMC,Percy Locey,H,Colorado State,RMC,Harry Hughes,W,20,14
+1935-10-11,Denver,RMC,Percy Locey,H,Wyoming,RMC,Dutch Witte,W,14,0
+1935-10-19,Denver,RMC,Percy Locey,H,Utah State,RMC,,W,13,7
+1935-10-26,Denver,RMC,Percy Locey,A,Utah,RMC,Ike Armstrong,L,14,39
+1935-11-02,Denver,RMC,Percy Locey,A,Colorado Mines,RMC,George Scott,W,13,0
+1935-11-16,Denver,RMC,Percy Locey,A,San Francisco,Ind,Lawrence Lewis,L,2,20
+1935-11-28,Denver,RMC,Percy Locey,H,Colorado,RMC,Bunny Oakes,L,0,14
+1935-10-05,Wisconsin,Western,Clarence Spears,H,Marquette,Ind,Frank Murray,L,0,33
+1935-10-12,Wisconsin,Western,Clarence Spears,H,Notre Dame,Ind,Elmer Layden,L,0,27
+1935-10-19,Wisconsin,Western,Clarence Spears,H,Michigan,Western,Harry Kipke,L,12,20
+1935-10-26,Wisconsin,Western,Clarence Spears,A,Chicago,Western,Clark Shaughnessy,L,7,13
+1935-11-09,Wisconsin,Western,Clarence Spears,H,Purdue,Western,Noble Kizer,W,8,0
+1935-11-16,Wisconsin,Western,Clarence Spears,A,Northwestern,Western,Pappy Waldorf,L,13,32
+1935-11-23,Wisconsin,Western,Clarence Spears,A,Minnesota,Western,Bernie Bierman,L,7,33
+1935-10-12,Bucknell,Ind,Hook Mylin,A,Villanova,Ind,Harry Stuhldreher,L,0,25
+1935-11-02,Bucknell,Ind,Hook Mylin,A,New York University,Ind,Mal Stevens,L,0,14
+1935-11-09,Bucknell,Ind,Hook Mylin,A,Detroit Mercy,Ind,Gus Dorais,L,0,53
+1935-11-23,Bucknell,Ind,Hook Mylin,H,Penn State,Ind,Bob Higgins,W,2,0
+1935-11-30,Bucknell,Ind,Hook Mylin,A,Temple,Ind,Pop Warner,W,7,6
+1935-09-28,USC,PCC,Howard Jones,H,Montana,PCC,Doug Fessenden,W,9,0
+1935-10-12,USC,PCC,Howard Jones,H,Illinois,Western,Robert Zuppke,L,0,19
+1935-10-19,USC,PCC,Howard Jones,H,Oregon State,PCC,Lon Stiner,L,7,13
+1935-10-26,USC,PCC,Howard Jones,A,California,PCC,Stub Allison,L,7,21
+1935-11-09,USC,PCC,Howard Jones,H,Stanford,PCC,Tiny Thornhill,L,0,3
+1935-11-16,USC,PCC,Howard Jones,H,Washington State,PCC,O.E. Hollingbery,W,20,10
+1935-11-23,USC,PCC,Howard Jones,A,Notre Dame,Ind,Elmer Layden,L,13,20
+1935-12-07,USC,PCC,Howard Jones,H,Washington,PCC,James Phelan,L,2,6
+1935-12-14,USC,PCC,Howard Jones,H,Pitt,Ind,Jock Sutherland,L,7,12
+1935-10-05,Colorado Mines,RMC,George Scott,A,Wyoming,RMC,Dutch Witte,L,0,40
+1935-10-12,Colorado Mines,RMC,George Scott,A,Colorado State,RMC,Harry Hughes,L,0,19
+1935-10-19,Colorado Mines,RMC,George Scott,A,Colorado,RMC,Bunny Oakes,L,0,58
+1935-10-26,Colorado Mines,RMC,George Scott,A,Utah State,RMC,,L,0,53
+1935-11-02,Colorado Mines,RMC,George Scott,H,Denver,RMC,Percy Locey,L,0,13
+1935-11-11,Colorado Mines,RMC,George Scott,H,Colorado College,RMC,W.T. VandeGraaff,L,0,20
+1935-11-16,Colorado Mines,RMC,George Scott,H,Western State,RMC,Paul Wright,W,20,0
+1935-09-28,North Carolina State,Southern,Hunk Anderson,H,Davidson,Ind,,W,14,7
+1935-10-05,North Carolina State,Southern,Hunk Anderson,A,South Carolina,Southern,Don McCallister,W,14,0
+1935-10-12,North Carolina State,Southern,Hunk Anderson,H,Wake Forest,Ind,Jim Weaver,W,21,6
+1935-10-19,North Carolina State,Southern,Hunk Anderson,H,Georgia,SEC,Harry Mehre,L,0,13
+1935-11-02,North Carolina State,Southern,Hunk Anderson,H,North Carolina,Southern,Carl Snavely,L,6,35
+1935-11-09,North Carolina State,Southern,Hunk Anderson,N,Virginia Tech,Southern,Henry Redd,W,6,0
+1935-11-16,North Carolina State,Southern,Hunk Anderson,A,Richmond,Ind,Glenn Thistlethwaite,W,6,0
+1935-11-23,North Carolina State,Southern,Hunk Anderson,H,Duke,Southern,Wallace Wade,L,0,7
+1935-10-05,Centenary (LA),Ind,Curtis Player,H,Arizona,BIAA,Tex Oliver,W,14,7
+1935-10-12,Centenary (LA),Ind,Curtis Player,H,Texas A&M,SWC,Homer Norton,W,7,6
+1935-10-19,Centenary (LA),Ind,Curtis Player,A,Texas,SWC,Jack Chevigny,L,13,19
+1935-10-26,Centenary (LA),Ind,Curtis Player,H,Texas Christian,SWC,Dutch Meyer,L,7,27
+1935-11-01,Centenary (LA),Ind,Curtis Player,A,Loyola (LA),Ind,,W,9,0
+1935-11-09,Centenary (LA),Ind,Curtis Player,H,Tulsa,MVC,Gus Henderson,W,22,0
+1935-11-16,Centenary (LA),Ind,Curtis Player,H,Baylor,SWC,Morley Jennings,L,0,20
+1935-11-23,Centenary (LA),Ind,Curtis Player,A,Ole Miss,SEC,Ed Walker,L,0,6
+1935-11-28,Centenary (LA),Ind,Curtis Player,A,Xavier,Ind,Clem Crowe,L,0,12
+1935-10-05,Michigan,Western,Harry Kipke,H,Michigan State,Ind,Charlie Bachman,L,6,25
+1935-10-12,Michigan,Western,Harry Kipke,H,Indiana,Western,Bo McMillin,W,7,0
+1935-10-19,Michigan,Western,Harry Kipke,A,Wisconsin,Western,Clarence Spears,W,20,12
+1935-10-26,Michigan,Western,Harry Kipke,A,Columbia,Ind,Lou Little,W,19,7
+1935-11-02,Michigan,Western,Harry Kipke,H,Pennsylvania,Ind,Harvey Harman,W,16,6
+1935-11-09,Michigan,Western,Harry Kipke,A,Illinois,Western,Robert Zuppke,L,0,3
+1935-11-16,Michigan,Western,Harry Kipke,H,Minnesota,Western,Bernie Bierman,L,0,40
+1935-11-23,Michigan,Western,Harry Kipke,H,Ohio State,Western,Francis Schmidt,L,0,38
+1935-10-11,Detroit Mercy,Ind,Gus Dorais,H,Oklahoma State,MVC,Albert Exendine,W,13,0
+1935-10-26,Detroit Mercy,Ind,Gus Dorais,H,Villanova,Ind,Harry Stuhldreher,W,19,15
+1935-11-02,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,Harry Stuhldreher,L,7,13
+1935-11-09,Detroit Mercy,Ind,Gus Dorais,H,Bucknell,Ind,Hook Mylin,W,53,0
+1935-11-23,Detroit Mercy,Ind,Gus Dorais,A,Duquesne,Ind,,L,6,13
+1935-11-28,Detroit Mercy,Ind,Gus Dorais,A,Texas Tech,BIAA,Pete Cawthon,W,12,7
+1935-09-28,Temple,Ind,Pop Warner,A,Centre,Ind,,W,25,13
+1935-10-05,Temple,Ind,Pop Warner,A,Texas A&M,SWC,Homer Norton,W,14,0
+1935-10-12,Temple,Ind,Pop Warner,H,Vanderbilt,SEC,Ray Morrison,W,6,3
+1935-10-19,Temple,Ind,Pop Warner,H,Carnegie Mellon,Ind,Howard Harpster,W,13,0
+1935-10-26,Temple,Ind,Pop Warner,A,West Virginia,Ind,Trusty Tallman,W,19,6
+1935-11-02,Temple,Ind,Pop Warner,H,Michigan State,Ind,Charlie Bachman,L,7,12
+1935-11-16,Temple,Ind,Pop Warner,H,Marquette,Ind,Frank Murray,W,26,6
+1935-11-23,Temple,Ind,Pop Warner,H,Villanova,Ind,Harry Stuhldreher,L,14,21
+1935-11-30,Temple,Ind,Pop Warner,H,Bucknell,Ind,Hook Mylin,L,6,7
+1935-10-05,Loyola Marymount,Ind,Tom Lieb,A,Arizona State,BIAA,Rudy Lavik,W,7,3
+1935-10-19,Loyola Marymount,Ind,Tom Lieb,H,Arizona,BIAA,Tex Oliver,W,13,6
+1935-10-25,Loyola Marymount,Ind,Tom Lieb,H,Texas Tech,BIAA,Pete Cawthon,W,16,0
+1935-11-09,Loyola Marymount,Ind,Tom Lieb,A,Santa Clara,Ind,,W,7,0
+1935-11-16,Loyola Marymount,Ind,Tom Lieb,H,Michigan State,Ind,Charlie Bachman,L,0,27
+1935-11-23,Loyola Marymount,Ind,Tom Lieb,A,UCLA,PCC,William Spaulding,L,6,14
+1935-12-07,Loyola Marymount,Ind,Tom Lieb,H,San Francisco,Ind,Lawrence Lewis,L,0,9
+1935-09-28,New Mexico,BIAA,Gwinn Henry,H,UTEP,BIAA,Mack Saxon,W,20,0
+1935-10-05,New Mexico,BIAA,Gwinn Henry,A,Oklahoma,Big 6,Biff Jones,L,0,25
+1935-10-12,New Mexico,BIAA,Gwinn Henry,A,Colorado College,RMC,W.T. VandeGraaff,W,13,0
+1935-10-19,New Mexico,BIAA,Gwinn Henry,H,Northern Arizona,BIAA,Mark McIntosh,W,20,0
+1935-11-02,New Mexico,BIAA,Gwinn Henry,H,Arizona State,BIAA,Rudy Lavik,W,13,0
+1935-11-11,New Mexico,BIAA,Gwinn Henry,A,New Mexico State,BIAA,Gerald Hines,L,0,32
+1935-11-23,New Mexico,BIAA,Gwinn Henry,H,Arizona,BIAA,Tex Oliver,L,6,38
+1935-11-28,New Mexico,BIAA,Gwinn Henry,H,Colorado State,RMC,Harry Hughes,L,6,7
+1935-09-28,Notre Dame,Ind,Elmer Layden,H,Kansas,Big 6,Adrian Lindsey,W,28,7
+1935-10-05,Notre Dame,Ind,Elmer Layden,A,Carnegie Mellon,Ind,Howard Harpster,W,14,3
+1935-10-12,Notre Dame,Ind,Elmer Layden,A,Wisconsin,Western,Clarence Spears,W,27,0
+1935-10-19,Notre Dame,Ind,Elmer Layden,H,Pitt,Ind,Jock Sutherland,W,9,6
+1935-10-26,Notre Dame,Ind,Elmer Layden,A,Navy,Ind,Thomas Hamilton,W,14,0
+1935-11-02,Notre Dame,Ind,Elmer Layden,A,Ohio State,Western,Francis Schmidt,W,18,13
+1935-11-09,Notre Dame,Ind,Elmer Layden,H,Northwestern,Western,Pappy Waldorf,L,7,14
+1935-11-16,Notre Dame,Ind,Elmer Layden,A,Army,Ind,Gar Davidson,T,6,6
+1935-11-23,Notre Dame,Ind,Elmer Layden,H,USC,PCC,Howard Jones,W,20,13
+1935-10-12,Pitt,Ind,Jock Sutherland,H,West Virginia,Ind,Trusty Tallman,W,24,6
+1935-10-19,Pitt,Ind,Jock Sutherland,A,Notre Dame,Ind,Elmer Layden,L,6,9
+1935-10-26,Pitt,Ind,Jock Sutherland,H,Penn State,Ind,Bob Higgins,W,9,0
+1935-11-02,Pitt,Ind,Jock Sutherland,A,Fordham,Ind,Jimmy Crowley,T,0,0
+1935-11-09,Pitt,Ind,Jock Sutherland,H,Army,Ind,Gar Davidson,W,29,6
+1935-11-16,Pitt,Ind,Jock Sutherland,H,Nebraska,Big 6,Dana Bible,W,6,0
+1935-11-28,Pitt,Ind,Jock Sutherland,H,Carnegie Mellon,Ind,Howard Harpster,T,0,0
+1935-12-14,Pitt,Ind,Jock Sutherland,A,USC,PCC,Howard Jones,W,12,7
+1935-10-05,Carnegie Mellon,Ind,Howard Harpster,H,Notre Dame,Ind,Elmer Layden,L,3,14
+1935-10-12,Carnegie Mellon,Ind,Howard Harpster,A,New York University,Ind,Mal Stevens,L,6,25
+1935-10-19,Carnegie Mellon,Ind,Howard Harpster,A,Temple,Ind,Pop Warner,L,0,13
+1935-10-26,Carnegie Mellon,Ind,Howard Harpster,A,Purdue,Western,Noble Kizer,W,7,0
+1935-11-02,Carnegie Mellon,Ind,Howard Harpster,H,Duquesne,Ind,,L,0,7
+1935-11-28,Carnegie Mellon,Ind,Howard Harpster,A,Pitt,Ind,Jock Sutherland,T,0,0
+1935-09-28,Mercer,Ind,,A,Georgia,SEC,Harry Mehre,L,0,31
+1935-10-05,Mercer,Ind,,A,Navy,Ind,Thomas Hamilton,L,0,27
+1935-10-26,Mercer,Ind,,A,Furman,Ind,,L,0,32
+1935-11-02,Mercer,Ind,,N,Clemson,Southern,Jess Neely,L,0,13
+1935-11-16,Mercer,Ind,,A,Presbyterian,Ind,Walter Johnson,W,14,7
+1935-10-05,Saint Mary's (CA),Ind,Slip Madigan,A,California,PCC,Stub Allison,L,0,10
+1935-10-26,Saint Mary's (CA),Ind,Slip Madigan,A,San Francisco,Ind,Lawrence Lewis,W,13,0
+1935-11-09,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Jimmy Crowley,T,7,7
+1935-11-16,Saint Mary's (CA),Ind,Slip Madigan,A,Santa Clara,Ind,,W,10,0
+1935-11-30,Saint Mary's (CA),Ind,Slip Madigan,H,Washington State,PCC,O.E. Hollingbery,T,7,7
+1935-12-07,Saint Mary's (CA),Ind,Slip Madigan,H,Oregon,PCC,Prink Callison,W,18,0
+1935-12-14,Saint Mary's (CA),Ind,Slip Madigan,H,UCLA,PCC,William Spaulding,L,7,13
+1935-10-05,George Washington,Ind,James Pixlee,H,Alabama,SEC,Frank Thomas,L,0,39
+1935-10-18,George Washington,Ind,James Pixlee,H,West Virginia,Ind,Trusty Tallman,W,15,7
+1935-10-26,George Washington,Ind,James Pixlee,A,Wake Forest,Ind,Jim Weaver,L,6,7
+1935-11-02,George Washington,Ind,James Pixlee,H,Rice,SWC,Jimmy Kitts,L,6,41
+1935-11-16,George Washington,Ind,James Pixlee,H,Tulsa,MVC,Gus Henderson,W,3,0
+1935-09-28,Wyoming,RMC,Dutch Witte,H,Colorado State,RMC,Harry Hughes,L,3,12
+1935-10-05,Wyoming,RMC,Dutch Witte,H,Colorado Mines,RMC,George Scott,W,40,0
+1935-10-11,Wyoming,RMC,Dutch Witte,A,Denver,RMC,Percy Locey,L,0,14
+1935-10-26,Wyoming,RMC,Dutch Witte,H,Brigham Young,RMC,Ott Romney,L,6,13
+1935-11-02,Wyoming,RMC,Dutch Witte,A,Montana State,RMC,Schubert Dyche,W,6,2
+1935-11-09,Wyoming,RMC,Dutch Witte,A,Utah State,RMC,,L,0,18
+1935-11-23,Wyoming,RMC,Dutch Witte,A,Colorado,RMC,Bunny Oakes,W,6,0
+1935-09-28,Brigham Young,RMC,Ott Romney,A,Montana State,RMC,Schubert Dyche,L,0,7
+1935-10-12,Brigham Young,RMC,Ott Romney,H,Northern Colorado,RMC,J.W. Hancock,W,19,3
+1935-10-19,Brigham Young,RMC,Ott Romney,H,Colorado College,RMC,W.T. VandeGraaff,L,12,13
+1935-10-26,Brigham Young,RMC,Ott Romney,A,Wyoming,RMC,Dutch Witte,W,13,6
+1935-11-02,Brigham Young,RMC,Ott Romney,H,Utah,RMC,Ike Armstrong,L,0,32
+1935-11-09,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Paul Wright,W,21,2
+1935-11-16,Brigham Young,RMC,Ott Romney,A,Utah State,RMC,,L,0,27
+1935-11-23,Brigham Young,RMC,Ott Romney,A,Arizona State,BIAA,Rudy Lavik,W,13,0
+1935-09-27,Duquesne,Ind,,H,Kansas State,Big 6,Wesley Fry,L,0,12
+1935-10-05,Duquesne,Ind,,A,Rice,SWC,Jimmy Kitts,L,7,27
+1935-10-18,Duquesne,Ind,,H,Washington (MO),MVC,Jimmy Conzelman,W,13,6
+1935-11-02,Duquesne,Ind,,A,Carnegie Mellon,Ind,Howard Harpster,W,7,0
+1935-11-09,Duquesne,Ind,,A,Oklahoma State,MVC,Albert Exendine,W,20,7
+1935-11-16,Duquesne,Ind,,A,West Virginia,Ind,Trusty Tallman,W,19,0
+1935-11-23,Duquesne,Ind,,H,Detroit Mercy,Ind,Gus Dorais,W,13,6
+1935-10-12,Yale,Ind,,A,Pennsylvania,Ind,Harvey Harman,W,31,20
+1935-10-19,Yale,Ind,,H,Navy,Ind,Thomas Hamilton,W,7,6
+1935-10-26,Yale,Ind,,H,Army,Ind,Gar Davidson,L,8,14
+1935-11-02,Yale,Ind,,H,Dartmouth,Ind,Red Blaik,L,6,14
+1935-11-09,Yale,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,20,0
+1935-11-23,Yale,Ind,,A,Harvard,Ind,,W,14,7
+1935-11-30,Yale,Ind,,H,Princeton,Ind,Fritz Crisler,L,7,38
+1935-09-28,Grinnell,MVC,Lester Watt,A,Michigan State,Ind,Charlie Bachman,L,0,41
+1935-10-04,Grinnell,MVC,Lester Watt,H,Washburn,MVC,Ernest Bearg,W,12,6
+1935-10-26,Grinnell,MVC,Lester Watt,H,Creighton,MVC,Marchy Schwartz,L,6,7
+1935-11-02,Grinnell,MVC,Lester Watt,A,Drake,MVC,Vee Green,L,21,33
+1935-09-28,Georgia Tech,SEC,William Alexander,H,Presbyterian,Ind,Walter Johnson,W,33,0
+1935-10-05,Georgia Tech,SEC,William Alexander,H,Sewanee,SEC,Heck Clark,W,32,0
+1935-10-12,Georgia Tech,SEC,William Alexander,A,Kentucky,SEC,C.A. Wynne,L,6,25
+1935-10-19,Georgia Tech,SEC,William Alexander,H,Duke,Southern,Wallace Wade,W,6,0
+1935-10-26,Georgia Tech,SEC,William Alexander,A,North Carolina,Southern,Carl Snavely,L,0,19
+1935-11-02,Georgia Tech,SEC,William Alexander,H,Vanderbilt,SEC,Ray Morrison,L,13,14
+1935-11-09,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,L,7,33
+1935-11-16,Georgia Tech,SEC,William Alexander,A,Alabama,SEC,Frank Thomas,L,7,38
+1935-11-23,Georgia Tech,SEC,William Alexander,H,Florida,SEC,Dutch Stanley,W,39,6
+1935-11-30,Georgia Tech,SEC,William Alexander,H,Georgia,SEC,Harry Mehre,W,19,7
+1935-09-21,Wake Forest,Ind,Jim Weaver,N,Duke,Southern,Wallace Wade,L,7,26
+1935-09-28,Wake Forest,Ind,Jim Weaver,A,North Carolina,Southern,Carl Snavely,L,0,14
+1935-10-05,Wake Forest,Ind,Jim Weaver,A,Clemson,Southern,Jess Neely,L,7,13
+1935-10-12,Wake Forest,Ind,Jim Weaver,A,North Carolina State,Southern,Hunk Anderson,L,6,21
+1935-10-18,Wake Forest,Ind,Jim Weaver,N,Furman,Ind,,L,0,9
+1935-10-26,Wake Forest,Ind,Jim Weaver,H,George Washington,Ind,James Pixlee,W,7,6
+1935-11-01,Wake Forest,Ind,Jim Weaver,H,Presbyterian,Ind,Walter Johnson,W,18,0
+1935-11-28,Wake Forest,Ind,Jim Weaver,H,Davidson,Ind,,L,7,14
+1935-09-27,Xavier,Ind,Clem Crowe,H,Kentucky,SEC,C.A. Wynne,L,7,21
+1935-10-26,Xavier,Ind,Clem Crowe,H,Mississippi State,SEC,Ralph Sasse,L,0,7
+1935-11-09,Xavier,Ind,Clem Crowe,H,Centre,Ind,,W,27,0
+1935-11-15,Xavier,Ind,Clem Crowe,A,Saint Louis,Ind,,W,13,0
+1935-11-28,Xavier,Ind,Clem Crowe,H,Centenary (LA),Ind,Curtis Player,W,12,0
+1935-09-28,Mississippi State,SEC,Ralph Sasse,A,Vanderbilt,SEC,Ray Morrison,L,9,14
+1935-10-12,Mississippi State,SEC,Ralph Sasse,A,Alabama,SEC,Frank Thomas,W,20,7
+1935-10-18,Mississippi State,SEC,Ralph Sasse,A,Loyola (LA),Ind,,W,6,0
+1935-10-26,Mississippi State,SEC,Ralph Sasse,A,Xavier,Ind,Clem Crowe,W,7,0
+1935-11-02,Mississippi State,SEC,Ralph Sasse,A,Army,Ind,Gar Davidson,W,13,7
+1935-11-09,Mississippi State,SEC,Ralph Sasse,A,LSU,SEC,Bernie Moore,L,13,28
+1935-11-23,Mississippi State,SEC,Ralph Sasse,H,Sewanee,SEC,Heck Clark,W,25,0
+1935-11-30,Mississippi State,SEC,Ralph Sasse,A,Ole Miss,SEC,Ed Walker,L,6,14
+1935-09-28,Virginia Military Institute,Southern,,A,Tulane,SEC,Ted Cox,L,0,44
+1935-10-05,Virginia Military Institute,Southern,,A,Columbia,Ind,Lou Little,L,0,12
+1935-10-12,Virginia Military Institute,Southern,,H,Richmond,Ind,Glenn Thistlethwaite,L,6,13
+1935-10-19,Virginia Military Institute,Southern,,H,Maryland,Southern,Jack Faber,L,0,6
+1935-10-26,Virginia Military Institute,Southern,,A,Virginia,Southern,Gus Tebell,T,0,0
+1935-11-02,Virginia Military Institute,Southern,,A,William & Mary,Ind,Tommy Dowler,W,19,0
+1935-11-09,Virginia Military Institute,Southern,,A,North Carolina,Southern,Carl Snavely,L,0,56
+1935-11-16,Virginia Military Institute,Southern,,H,Davidson,Ind,,L,6,14
+1935-11-28,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry Redd,L,6,12
+1935-09-27,Kansas State,Big 6,Wesley Fry,A,Duquesne,Ind,,W,12,0
+1935-10-11,Kansas State,Big 6,Wesley Fry,A,Marquette,Ind,Frank Murray,L,0,14
+1935-10-19,Kansas State,Big 6,Wesley Fry,H,Nebraska,Big 6,Dana Bible,T,0,0
+1935-10-26,Kansas State,Big 6,Wesley Fry,A,Kansas,Big 6,Adrian Lindsey,L,2,9
+1935-11-02,Kansas State,Big 6,Wesley Fry,A,Tulsa,MVC,Gus Henderson,T,13,13
+1935-11-09,Kansas State,Big 6,Wesley Fry,A,Iowa State,Big 6,George Veenker,W,6,0
+1935-11-16,Kansas State,Big 6,Wesley Fry,H,Oklahoma,Big 6,Biff Jones,L,0,3
+1935-11-23,Kansas State,Big 6,Wesley Fry,A,Missouri,Big 6,Don Faurot,T,7,7
+1935-09-21,Saint Louis,Ind,,A,Sewanee,SEC,Heck Clark,W,32,0
+1935-09-28,Saint Louis,Ind,,A,Creighton,MVC,Marchy Schwartz,L,0,13
+1935-10-18,Saint Louis,Ind,,H,Marquette,Ind,Frank Murray,L,13,20
+1935-11-01,Saint Louis,Ind,,H,Ole Miss,SEC,Ed Walker,L,7,21
+1935-11-15,Saint Louis,Ind,,H,Xavier,Ind,Clem Crowe,L,0,13
+1935-11-30,Saint Louis,Ind,,H,Washington (MO),MVC,Jimmy Conzelman,L,0,26
+1935-10-05,Army,Ind,Gar Davidson,H,William & Mary,Ind,Tommy Dowler,W,14,0
+1935-10-19,Army,Ind,Gar Davidson,H,Harvard,Ind,,W,13,0
+1935-10-26,Army,Ind,Gar Davidson,A,Yale,Ind,,W,14,8
+1935-11-02,Army,Ind,Gar Davidson,H,Mississippi State,SEC,Ralph Sasse,L,7,13
+1935-11-09,Army,Ind,Gar Davidson,A,Pitt,Ind,Jock Sutherland,L,6,29
+1935-11-16,Army,Ind,Gar Davidson,H,Notre Dame,Ind,Elmer Layden,T,6,6
+1935-11-30,Army,Ind,Gar Davidson,N,Navy,Ind,Thomas Hamilton,W,28,6
+1935-10-05,Marquette,Ind,Frank Murray,A,Wisconsin,Western,Clarence Spears,W,33,0
+1935-10-11,Marquette,Ind,Frank Murray,H,Kansas State,Big 6,Wesley Fry,W,14,0
+1935-10-18,Marquette,Ind,Frank Murray,A,Saint Louis,Ind,,W,20,13
+1935-10-26,Marquette,Ind,Frank Murray,H,Ole Miss,SEC,Ed Walker,W,33,7
+1935-11-02,Marquette,Ind,Frank Murray,H,Iowa State,Big 6,George Veenker,W,28,12
+1935-11-09,Marquette,Ind,Frank Murray,A,Michigan State,Ind,Charlie Bachman,W,13,7
+1935-11-16,Marquette,Ind,Frank Murray,A,Temple,Ind,Pop Warner,L,6,26
+1935-11-23,Marquette,Ind,Frank Murray,H,Creighton,MVC,Marchy Schwartz,W,26,0
+1935-10-19,Dartmouth,Ind,Red Blaik,A,Brown,Ind,DeOrmond McLaughry,W,41,0
+1935-10-26,Dartmouth,Ind,Red Blaik,A,Harvard,Ind,,W,14,6
+1935-11-02,Dartmouth,Ind,Red Blaik,A,Yale,Ind,,W,14,6
+1935-11-09,Dartmouth,Ind,Red Blaik,H,William & Mary,Ind,Tommy Dowler,W,34,0
+1935-11-16,Dartmouth,Ind,Red Blaik,H,Cornell,Ind,Gilmour Dobie,W,41,6
+1935-11-23,Dartmouth,Ind,Red Blaik,A,Princeton,Ind,Fritz Crisler,L,6,26
+1935-11-30,Dartmouth,Ind,Red Blaik,A,Columbia,Ind,Lou Little,L,7,13
+1935-09-28,UCLA,PCC,William Spaulding,H,Utah State,RMC,,W,39,0
+1935-10-05,UCLA,PCC,William Spaulding,A,Oregon State,PCC,Lon Stiner,W,20,7
+1935-10-19,UCLA,PCC,William Spaulding,A,Stanford,PCC,Tiny Thornhill,W,7,6
+1935-10-26,UCLA,PCC,William Spaulding,H,Oregon,PCC,Prink Callison,W,33,6
+1935-11-02,UCLA,PCC,William Spaulding,H,California,PCC,Stub Allison,L,2,14
+1935-11-09,UCLA,PCC,William Spaulding,H,SMU,SWC,Madison Bell,L,0,21
+1935-11-23,UCLA,PCC,William Spaulding,H,Loyola Marymount,Ind,Tom Lieb,W,14,6
+1935-12-07,UCLA,PCC,William Spaulding,H,Idaho,PCC,Ted Bank,W,13,6
+1935-12-14,UCLA,PCC,William Spaulding,A,Saint Mary's (CA),Ind,Slip Madigan,W,13,7
+1935-10-05,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Ted Cox,W,10,0
+1935-10-12,Auburn,SEC,Jack Meagher,H,Tennessee,SEC,W.H. Britton,L,6,13
+1935-10-19,Auburn,SEC,Jack Meagher,H,Kentucky,SEC,C.A. Wynne,W,23,0
+1935-10-25,Auburn,SEC,Jack Meagher,A,Duke,Southern,Wallace Wade,W,7,0
+1935-11-02,Auburn,SEC,Jack Meagher,A,LSU,SEC,Bernie Moore,L,0,6
+1935-11-09,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,W,33,7
+1935-11-23,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Harry Mehre,W,19,7
+1935-11-30,Auburn,SEC,Jack Meagher,A,Florida,SEC,Dutch Stanley,W,27,6
+1935-10-05,Northwestern,Western,Pappy Waldorf,H,Purdue,Western,Noble Kizer,L,0,7
+1935-10-19,Northwestern,Western,Pappy Waldorf,A,Ohio State,Western,Francis Schmidt,L,7,28
+1935-10-26,Northwestern,Western,Pappy Waldorf,A,Minnesota,Western,Bernie Bierman,L,13,21
+1935-11-02,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Robert Zuppke,W,10,3
+1935-11-09,Northwestern,Western,Pappy Waldorf,A,Notre Dame,Ind,Elmer Layden,W,14,7
+1935-11-16,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Clarence Spears,W,32,13
+1935-11-23,Northwestern,Western,Pappy Waldorf,H,Iowa,Western,Ossie Solem,T,0,0
+1935-09-28,Kansas,Big 6,Adrian Lindsey,A,Notre Dame,Ind,Elmer Layden,L,7,28
+1935-10-12,Kansas,Big 6,Adrian Lindsey,A,Michigan State,Ind,Charlie Bachman,L,0,42
+1935-10-26,Kansas,Big 6,Adrian Lindsey,H,Kansas State,Big 6,Wesley Fry,W,9,2
+1935-11-02,Kansas,Big 6,Adrian Lindsey,A,Oklahoma,Big 6,Biff Jones,W,7,0
+1935-11-09,Kansas,Big 6,Adrian Lindsey,A,Nebraska,Big 6,Dana Bible,L,13,19
+1935-11-16,Kansas,Big 6,Adrian Lindsey,A,Colorado,RMC,Bunny Oakes,W,12,6
+1935-11-23,Kansas,Big 6,Adrian Lindsey,H,Iowa State,Big 6,George Veenker,L,12,21
+1935-11-28,Kansas,Big 6,Adrian Lindsey,H,Missouri,Big 6,Don Faurot,T,0,0
+1935-09-21,William & Mary,Ind,Tommy Dowler,H,Virginia,Southern,Gus Tebell,T,0,0
+1935-09-28,William & Mary,Ind,Tommy Dowler,A,Navy,Ind,Thomas Hamilton,L,0,30
+1935-10-05,William & Mary,Ind,Tommy Dowler,A,Army,Ind,Gar Davidson,L,0,14
+1935-10-12,William & Mary,Ind,Tommy Dowler,N,Virginia Tech,Southern,Henry Redd,T,0,0
+1935-11-02,William & Mary,Ind,Tommy Dowler,H,Virginia Military Institute,Southern,,L,0,19
+1935-11-09,William & Mary,Ind,Tommy Dowler,A,Dartmouth,Ind,Red Blaik,L,0,34
+1935-11-28,William & Mary,Ind,Tommy Dowler,A,Richmond,Ind,Glenn Thistlethwaite,T,6,6
+1935-09-28,UTEP,BIAA,Mack Saxon,A,New Mexico,BIAA,Gwinn Henry,L,0,20
+1935-10-26,UTEP,BIAA,Mack Saxon,A,Arizona State,BIAA,Rudy Lavik,L,0,14
+1935-11-28,UTEP,BIAA,Mack Saxon,A,New Mexico State,BIAA,Gerald Hines,L,0,7
+1935-09-28,LSU,SEC,Bernie Moore,H,Rice,SWC,Jimmy Kitts,L,7,10
+1935-10-05,LSU,SEC,Bernie Moore,H,Texas,SWC,Jack Chevigny,W,18,6
+1935-10-19,LSU,SEC,Bernie Moore,N,Arkansas,SWC,Fred Thomsen,W,13,7
+1935-10-26,LSU,SEC,Bernie Moore,A,Vanderbilt,SEC,Ray Morrison,W,7,2
+1935-11-02,LSU,SEC,Bernie Moore,H,Auburn,SEC,Jack Meagher,W,6,0
+1935-11-09,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Ralph Sasse,W,28,13
+1935-11-16,LSU,SEC,Bernie Moore,A,Georgia,SEC,Harry Mehre,W,13,0
+1935-11-30,LSU,SEC,Bernie Moore,A,Tulane,SEC,Ted Cox,W,41,0
+1936-01-01,LSU,SEC,Bernie Moore,N,Texas Christian,SWC,Dutch Meyer,L,2,3
+1935-10-05,Pennsylvania,Ind,Harvey Harman,A,Princeton,Ind,Fritz Crisler,L,6,7
+1935-10-12,Pennsylvania,Ind,Harvey Harman,H,Yale,Ind,,L,20,31
+1935-10-19,Pennsylvania,Ind,Harvey Harman,H,Columbia,Ind,Lou Little,W,34,0
+1935-11-02,Pennsylvania,Ind,Harvey Harman,A,Michigan,Western,Harry Kipke,L,6,16
+1935-11-09,Pennsylvania,Ind,Harvey Harman,H,Navy,Ind,Thomas Hamilton,L,0,13
+1935-11-16,Pennsylvania,Ind,Harvey Harman,H,Penn State,Ind,Bob Higgins,W,33,6
+1935-11-28,Pennsylvania,Ind,Harvey Harman,H,Cornell,Ind,Gilmour Dobie,W,33,7
+1935-10-05,Tulsa,MVC,Gus Henderson,A,SMU,SWC,Madison Bell,L,0,14
+1935-10-12,Tulsa,MVC,Gus Henderson,H,Texas Christian,SWC,Dutch Meyer,L,0,13
+1935-10-18,Tulsa,MVC,Gus Henderson,A,Washburn,MVC,Ernest Bearg,W,19,6
+1935-10-26,Tulsa,MVC,Gus Henderson,H,Oklahoma State,MVC,Albert Exendine,W,12,0
+1935-11-02,Tulsa,MVC,Gus Henderson,H,Kansas State,Big 6,Wesley Fry,T,13,13
+1935-11-09,Tulsa,MVC,Gus Henderson,A,Centenary (LA),Ind,Curtis Player,L,0,22
+1935-11-16,Tulsa,MVC,Gus Henderson,A,George Washington,Ind,James Pixlee,L,0,3
+1935-11-23,Tulsa,MVC,Gus Henderson,H,Drake,MVC,Vee Green,W,7,0
+1935-11-28,Tulsa,MVC,Gus Henderson,H,Arkansas,SWC,Fred Thomsen,L,7,14
+1935-10-12,Iowa,Western,Ossie Solem,H,Colgate,Ind,Andrew Kerr,W,12,6
+1935-10-26,Iowa,Western,Ossie Solem,A,Illinois,Western,Robert Zuppke,W,19,0
+1935-11-02,Iowa,Western,Ossie Solem,H,Indiana,Western,Bo McMillin,T,6,6
+1935-11-09,Iowa,Western,Ossie Solem,H,Minnesota,Western,Bernie Bierman,L,6,13
+1935-11-16,Iowa,Western,Ossie Solem,A,Purdue,Western,Noble Kizer,L,6,12
+1935-11-23,Iowa,Western,Ossie Solem,A,Northwestern,Western,Pappy Waldorf,T,0,0
+1935-10-05,Columbia,Ind,Lou Little,H,Virginia Military Institute,Southern,,W,12,0
+1935-10-19,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,Harvey Harman,L,0,34
+1935-10-26,Columbia,Ind,Lou Little,H,Michigan,Western,Harry Kipke,L,7,19
+1935-11-02,Columbia,Ind,Lou Little,A,Cornell,Ind,Gilmour Dobie,T,7,7
+1935-11-09,Columbia,Ind,Lou Little,H,Syracuse,Ind,Vic Hanson,L,2,14
+1935-11-16,Columbia,Ind,Lou Little,A,Navy,Ind,Thomas Hamilton,L,7,28
+1935-11-23,Columbia,Ind,Lou Little,H,Brown,Ind,DeOrmond McLaughry,W,18,0
+1935-11-30,Columbia,Ind,Lou Little,H,Dartmouth,Ind,Red Blaik,W,13,7
+1935-10-05,Texas,SWC,Jack Chevigny,A,LSU,SEC,Bernie Moore,L,6,18
+1935-10-12,Texas,SWC,Jack Chevigny,N,Oklahoma,Big 6,Biff Jones,W,12,7
+1935-10-19,Texas,SWC,Jack Chevigny,H,Centenary (LA),Ind,Curtis Player,W,19,13
+1935-10-26,Texas,SWC,Jack Chevigny,H,Rice,SWC,Jimmy Kitts,L,19,28
+1935-11-02,Texas,SWC,Jack Chevigny,A,SMU,SWC,Madison Bell,L,0,20
+1935-11-09,Texas,SWC,Jack Chevigny,A,Baylor,SWC,Morley Jennings,W,25,6
+1935-11-16,Texas,SWC,Jack Chevigny,H,Texas Christian,SWC,Dutch Meyer,L,0,28
+1935-11-22,Texas,SWC,Jack Chevigny,H,Arkansas,SWC,Fred Thomsen,L,13,28
+1935-11-28,Texas,SWC,Jack Chevigny,A,Texas A&M,SWC,Homer Norton,L,6,20
+1935-10-05,Texas Christian,SWC,Dutch Meyer,A,Arkansas,SWC,Fred Thomsen,W,13,7
+1935-10-12,Texas Christian,SWC,Dutch Meyer,A,Tulsa,MVC,Gus Henderson,W,13,0
+1935-10-19,Texas Christian,SWC,Dutch Meyer,H,Texas A&M,SWC,Homer Norton,W,19,14
+1935-10-26,Texas Christian,SWC,Dutch Meyer,A,Centenary (LA),Ind,Curtis Player,W,27,7
+1935-11-02,Texas Christian,SWC,Dutch Meyer,A,Baylor,SWC,Morley Jennings,W,28,0
+1935-11-08,Texas Christian,SWC,Dutch Meyer,A,Loyola (LA),Ind,,W,14,0
+1935-11-16,Texas Christian,SWC,Dutch Meyer,A,Texas,SWC,Jack Chevigny,W,28,0
+1935-11-23,Texas Christian,SWC,Dutch Meyer,H,Rice,SWC,Jimmy Kitts,W,27,6
+1935-11-30,Texas Christian,SWC,Dutch Meyer,H,SMU,SWC,Madison Bell,L,14,20
+1935-12-07,Texas Christian,SWC,Dutch Meyer,A,Santa Clara,Ind,,W,10,6
+1936-01-01,Texas Christian,SWC,Dutch Meyer,N,LSU,SEC,Bernie Moore,W,3,2
+1935-10-12,New York University,Ind,Mal Stevens,H,Carnegie Mellon,Ind,Howard Harpster,W,25,6
+1935-10-26,New York University,Ind,Mal Stevens,H,Georgetown,Ind,Jack Hagerty,W,7,6
+1935-11-02,New York University,Ind,Mal Stevens,H,Bucknell,Ind,Hook Mylin,W,14,0
+1935-11-28,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,L,0,21
+1935-10-12,Richmond,Ind,Glenn Thistlethwaite,A,Virginia Military Institute,Southern,,W,13,6
+1935-11-02,Richmond,Ind,Glenn Thistlethwaite,H,Georgetown,Ind,Jack Hagerty,L,0,7
+1935-11-16,Richmond,Ind,Glenn Thistlethwaite,H,North Carolina State,Southern,Hunk Anderson,L,0,6
+1935-11-28,Richmond,Ind,Glenn Thistlethwaite,H,William & Mary,Ind,Tommy Dowler,T,6,6
+1935-09-28,Oregon,PCC,Prink Callison,H,Gonzaga,Ind,Mike Pecarovich,W,18,0
+1935-10-05,Oregon,PCC,Prink Callison,H,Utah,RMC,Ike Armstrong,W,6,0
+1935-10-12,Oregon,PCC,Prink Callison,H,California,PCC,Stub Allison,L,0,6
+1935-10-19,Oregon,PCC,Prink Callison,H,Idaho,PCC,Ted Bank,W,14,0
+1935-10-26,Oregon,PCC,Prink Callison,A,UCLA,PCC,William Spaulding,L,6,33
+1935-11-09,Oregon,PCC,Prink Callison,H,Oregon State,PCC,Lon Stiner,W,13,0
+1935-11-23,Oregon,PCC,Prink Callison,A,Washington,PCC,James Phelan,W,7,6
+1935-12-07,Oregon,PCC,Prink Callison,A,Saint Mary's (CA),Ind,Slip Madigan,L,0,18
+1935-10-19,Brown,Ind,DeOrmond McLaughry,H,Dartmouth,Ind,Red Blaik,L,0,41
+1935-10-26,Brown,Ind,DeOrmond McLaughry,A,Syracuse,Ind,Vic Hanson,L,0,19
+1935-11-02,Brown,Ind,DeOrmond McLaughry,A,Harvard,Ind,,L,0,33
+1935-11-09,Brown,Ind,DeOrmond McLaughry,A,Yale,Ind,,L,0,20
+1935-11-23,Brown,Ind,DeOrmond McLaughry,A,Columbia,Ind,Lou Little,L,0,18
+1935-11-30,Brown,Ind,DeOrmond McLaughry,H,Colgate,Ind,Andrew Kerr,L,0,33
+1935-10-05,Tennessee,SEC,W.H. Britton,H,North Carolina,Southern,Carl Snavely,L,13,38
+1935-10-12,Tennessee,SEC,W.H. Britton,A,Auburn,SEC,Jack Meagher,W,13,6
+1935-10-19,Tennessee,SEC,W.H. Britton,H,Alabama,SEC,Frank Thomas,L,0,25
+1935-10-26,Tennessee,SEC,W.H. Britton,H,Centre,Ind,,W,25,14
+1935-11-02,Tennessee,SEC,W.H. Britton,A,Duke,Southern,Wallace Wade,L,6,19
+1935-11-09,Tennessee,SEC,W.H. Britton,N,Ole Miss,SEC,Ed Walker,W,14,13
+1935-11-16,Tennessee,SEC,W.H. Britton,H,Vanderbilt,SEC,Ray Morrison,L,7,13
+1935-11-28,Tennessee,SEC,W.H. Britton,A,Kentucky,SEC,C.A. Wynne,L,0,27
+1935-10-05,Oregon State,PCC,Lon Stiner,H,UCLA,PCC,William Spaulding,L,7,20
+1935-10-11,Oregon State,PCC,Lon Stiner,H,Gonzaga,Ind,Mike Pecarovich,W,33,6
+1935-10-19,Oregon State,PCC,Lon Stiner,A,USC,PCC,Howard Jones,W,13,7
+1935-10-26,Oregon State,PCC,Lon Stiner,H,Washington State,PCC,O.E. Hollingbery,L,13,26
+1935-11-09,Oregon State,PCC,Lon Stiner,A,Oregon,PCC,Prink Callison,L,0,13
+1935-11-16,Oregon State,PCC,Lon Stiner,H,Idaho,PCC,Ted Bank,W,13,0
+1935-11-23,Oregon State,PCC,Lon Stiner,A,Montana,PCC,Doug Fessenden,T,0,0
+1935-11-28,Oregon State,PCC,Lon Stiner,A,Nebraska,Big 6,Dana Bible,L,20,26
+1935-10-05,Alabama,SEC,Frank Thomas,A,George Washington,Ind,James Pixlee,W,39,0
+1935-10-12,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Ralph Sasse,L,7,20
+1935-10-19,Alabama,SEC,Frank Thomas,A,Tennessee,SEC,W.H. Britton,W,25,0
+1935-10-26,Alabama,SEC,Frank Thomas,A,Georgia,SEC,Harry Mehre,W,17,7
+1935-11-02,Alabama,SEC,Frank Thomas,H,Kentucky,SEC,C.A. Wynne,W,13,0
+1935-11-09,Alabama,SEC,Frank Thomas,H,Clemson,Southern,Jess Neely,W,33,0
+1935-11-16,Alabama,SEC,Frank Thomas,H,Georgia Tech,SEC,William Alexander,W,38,7
+1935-11-28,Alabama,SEC,Frank Thomas,A,Vanderbilt,SEC,Ray Morrison,L,6,14
+1935-10-05,Purdue,Western,Noble Kizer,A,Northwestern,Western,Pappy Waldorf,W,7,0
+1935-10-12,Purdue,Western,Noble Kizer,A,Fordham,Ind,Jimmy Crowley,W,20,0
+1935-10-19,Purdue,Western,Noble Kizer,A,Chicago,Western,Clark Shaughnessy,W,19,0
+1935-10-26,Purdue,Western,Noble Kizer,H,Carnegie Mellon,Ind,Howard Harpster,L,0,7
+1935-11-02,Purdue,Western,Noble Kizer,A,Minnesota,Western,Bernie Bierman,L,7,29
+1935-11-09,Purdue,Western,Noble Kizer,A,Wisconsin,Western,Clarence Spears,L,0,8
+1935-11-16,Purdue,Western,Noble Kizer,H,Iowa,Western,Ossie Solem,W,12,6
+1935-11-23,Purdue,Western,Noble Kizer,A,Indiana,Western,Bo McMillin,L,0,7
+1935-09-28,Nebraska,Big 6,Dana Bible,H,Chicago,Western,Clark Shaughnessy,W,28,7
+1935-10-05,Nebraska,Big 6,Dana Bible,A,Iowa State,Big 6,George Veenker,W,20,7
+1935-10-12,Nebraska,Big 6,Dana Bible,H,Minnesota,Western,Bernie Bierman,L,7,12
+1935-10-19,Nebraska,Big 6,Dana Bible,A,Kansas State,Big 6,Wesley Fry,T,0,0
+1935-10-26,Nebraska,Big 6,Dana Bible,H,Oklahoma,Big 6,Biff Jones,W,19,0
+1935-11-02,Nebraska,Big 6,Dana Bible,A,Missouri,Big 6,Don Faurot,W,19,6
+1935-11-09,Nebraska,Big 6,Dana Bible,H,Kansas,Big 6,Adrian Lindsey,W,19,13
+1935-11-16,Nebraska,Big 6,Dana Bible,A,Pitt,Ind,Jock Sutherland,L,0,6
+1935-11-28,Nebraska,Big 6,Dana Bible,H,Oregon State,PCC,Lon Stiner,W,26,20
+1935-10-12,West Virginia,Ind,Trusty Tallman,A,Pitt,Ind,Jock Sutherland,L,6,24
+1935-10-18,West Virginia,Ind,Trusty Tallman,A,George Washington,Ind,James Pixlee,L,7,15
+1935-10-26,West Virginia,Ind,Trusty Tallman,H,Temple,Ind,Pop Warner,L,6,19
+1935-11-02,West Virginia,Ind,Trusty Tallman,N,Washington & Lee,Southern,Tex Tilson,W,20,0
+1935-11-16,West Virginia,Ind,Trusty Tallman,H,Duquesne,Ind,,L,0,19
+1935-11-28,West Virginia,Ind,Trusty Tallman,A,Loyola (LA),Ind,,T,19,19
+1935-10-19,Harvard,Ind,,A,Army,Ind,Gar Davidson,L,0,13
+1935-10-26,Harvard,Ind,,H,Dartmouth,Ind,Red Blaik,L,6,14
+1935-11-02,Harvard,Ind,,H,Brown,Ind,DeOrmond McLaughry,W,33,0
+1935-11-09,Harvard,Ind,,A,Princeton,Ind,Fritz Crisler,L,0,35
+1935-11-23,Harvard,Ind,,H,Yale,Ind,,L,7,14
+1935-10-05,Oklahoma State,MVC,Albert Exendine,A,Creighton,MVC,Marchy Schwartz,L,0,16
+1935-10-11,Oklahoma State,MVC,Albert Exendine,A,Detroit Mercy,Ind,Gus Dorais,L,0,13
+1935-10-26,Oklahoma State,MVC,Albert Exendine,A,Tulsa,MVC,Gus Henderson,L,0,12
+1935-11-02,Oklahoma State,MVC,Albert Exendine,A,Texas Tech,BIAA,Pete Cawthon,L,0,14
+1935-11-09,Oklahoma State,MVC,Albert Exendine,H,Duquesne,Ind,,L,7,20
+1935-11-28,Oklahoma State,MVC,Albert Exendine,A,Oklahoma,Big 6,Biff Jones,L,0,25
+1935-12-07,Oklahoma State,MVC,Albert Exendine,A,Washington (MO),MVC,Jimmy Conzelman,L,13,39
+1935-09-28,Colorado,RMC,Bunny Oakes,A,Oklahoma,Big 6,Biff Jones,L,0,3
+1935-10-12,Colorado,RMC,Bunny Oakes,A,Missouri,Big 6,Don Faurot,L,6,20
+1935-10-19,Colorado,RMC,Bunny Oakes,H,Colorado Mines,RMC,George Scott,W,58,0
+1935-10-26,Colorado,RMC,Bunny Oakes,H,Colorado State,RMC,Harry Hughes,W,19,6
+1935-11-02,Colorado,RMC,Bunny Oakes,H,Colorado College,RMC,W.T. VandeGraaff,W,23,0
+1935-11-09,Colorado,RMC,Bunny Oakes,A,Utah,RMC,Ike Armstrong,W,14,0
+1935-11-16,Colorado,RMC,Bunny Oakes,H,Kansas,Big 6,Adrian Lindsey,L,6,12
+1935-11-23,Colorado,RMC,Bunny Oakes,H,Wyoming,RMC,Dutch Witte,L,0,6
+1935-11-28,Colorado,RMC,Bunny Oakes,A,Denver,RMC,Percy Locey,W,14,0
+1935-09-28,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,Dutch Witte,W,12,3
+1935-10-05,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Percy Locey,L,14,20
+1935-10-12,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,George Scott,W,19,0
+1935-10-26,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Bunny Oakes,L,6,19
+1935-11-02,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,L,0,13
+1935-11-16,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,L,0,14
+1935-11-23,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,W.T. VandeGraaff,T,0,0
+1935-11-28,Colorado State,RMC,Harry Hughes,A,New Mexico,BIAA,Gwinn Henry,W,7,6
+1935-09-28,Rice,SWC,Jimmy Kitts,A,LSU,SEC,Bernie Moore,W,10,7
+1935-10-05,Rice,SWC,Jimmy Kitts,H,Duquesne,Ind,,W,27,7
+1935-10-12,Rice,SWC,Jimmy Kitts,H,Creighton,MVC,Marchy Schwartz,W,14,0
+1935-10-19,Rice,SWC,Jimmy Kitts,A,SMU,SWC,Madison Bell,L,0,10
+1935-10-26,Rice,SWC,Jimmy Kitts,A,Texas,SWC,Jack Chevigny,W,28,19
+1935-11-02,Rice,SWC,Jimmy Kitts,A,George Washington,Ind,James Pixlee,W,41,6
+1935-11-09,Rice,SWC,Jimmy Kitts,H,Arkansas,SWC,Fred Thomsen,W,20,7
+1935-11-16,Rice,SWC,Jimmy Kitts,H,Texas A&M,SWC,Homer Norton,W,17,10
+1935-11-23,Rice,SWC,Jimmy Kitts,A,Texas Christian,SWC,Dutch Meyer,L,6,27
+1935-11-30,Rice,SWC,Jimmy Kitts,H,Baylor,SWC,Morley Jennings,L,0,8
+1935-10-05,Texas A&M,SWC,Homer Norton,H,Temple,Ind,Pop Warner,L,0,14
+1935-10-12,Texas A&M,SWC,Homer Norton,A,Centenary (LA),Ind,Curtis Player,L,6,7
+1935-10-19,Texas A&M,SWC,Homer Norton,A,Texas Christian,SWC,Dutch Meyer,L,14,19
+1935-10-26,Texas A&M,SWC,Homer Norton,H,Baylor,SWC,Morley Jennings,L,6,14
+1935-11-02,Texas A&M,SWC,Homer Norton,A,Arkansas,SWC,Fred Thomsen,L,7,14
+1935-11-16,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jimmy Kitts,L,10,17
+1935-11-28,Texas A&M,SWC,Homer Norton,H,Texas,SWC,Jack Chevigny,W,20,6
+1935-12-07,Texas A&M,SWC,Homer Norton,H,SMU,SWC,Madison Bell,L,0,24
+1935-09-28,Davidson,Ind,,A,North Carolina State,Southern,Hunk Anderson,L,7,14
+1935-10-05,Davidson,Ind,,A,Virginia,Southern,Gus Tebell,T,0,0
+1935-10-12,Davidson,Ind,,H,South Carolina,Southern,Don McCallister,W,13,6
+1935-10-19,Davidson,Ind,,H,North Carolina,Southern,Carl Snavely,L,0,14
+1935-10-26,Davidson,Ind,,A,Citadel,Ind,Tatum Gressette,T,7,7
+1935-11-09,Davidson,Ind,,H,Duke,Southern,Wallace Wade,L,7,26
+1935-11-16,Davidson,Ind,,A,Virginia Military Institute,Southern,,W,14,6
+1935-11-28,Davidson,Ind,,A,Wake Forest,Ind,Jim Weaver,W,14,7
+1935-10-05,Washington (MO),MVC,Jimmy Conzelman,A,Illinois,Western,Robert Zuppke,L,6,28
+1935-10-12,Washington (MO),MVC,Jimmy Conzelman,H,SMU,SWC,Madison Bell,L,6,35
+1935-10-18,Washington (MO),MVC,Jimmy Conzelman,A,Duquesne,Ind,,L,6,13
+1935-10-26,Washington (MO),MVC,Jimmy Conzelman,A,Michigan State,Ind,Charlie Bachman,L,13,47
+1935-11-02,Washington (MO),MVC,Jimmy Conzelman,H,Creighton,MVC,Marchy Schwartz,W,33,7
+1935-11-09,Washington (MO),MVC,Jimmy Conzelman,H,Drake,MVC,Vee Green,W,13,0
+1935-11-16,Washington (MO),MVC,Jimmy Conzelman,H,Missouri,Big 6,Don Faurot,W,19,6
+1935-11-30,Washington (MO),MVC,Jimmy Conzelman,A,Saint Louis,Ind,,W,26,0
+1935-12-07,Washington (MO),MVC,Jimmy Conzelman,H,Oklahoma State,MVC,Albert Exendine,W,39,13
+1935-09-28,Michigan State,Ind,Charlie Bachman,H,Grinnell,MVC,Lester Watt,W,41,0
+1935-10-05,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Harry Kipke,W,25,6
+1935-10-12,Michigan State,Ind,Charlie Bachman,H,Kansas,Big 6,Adrian Lindsey,W,42,0
+1935-10-26,Michigan State,Ind,Charlie Bachman,H,Washington (MO),MVC,Jimmy Conzelman,W,47,13
+1935-11-02,Michigan State,Ind,Charlie Bachman,A,Temple,Ind,Pop Warner,W,12,7
+1935-11-09,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Frank Murray,L,7,13
+1935-11-16,Michigan State,Ind,Charlie Bachman,A,Loyola Marymount,Ind,Tom Lieb,W,27,0
+1935-09-28,Chicago,Western,Clark Shaughnessy,A,Nebraska,Big 6,Dana Bible,L,7,28
+1935-10-19,Chicago,Western,Clark Shaughnessy,H,Purdue,Western,Noble Kizer,L,0,19
+1935-10-26,Chicago,Western,Clark Shaughnessy,H,Wisconsin,Western,Clarence Spears,W,13,7
+1935-11-09,Chicago,Western,Clark Shaughnessy,H,Ohio State,Western,Francis Schmidt,L,13,20
+1935-11-16,Chicago,Western,Clark Shaughnessy,H,Indiana,Western,Bo McMillin,L,0,24
+1935-11-23,Chicago,Western,Clark Shaughnessy,A,Illinois,Western,Robert Zuppke,W,7,6
+1935-10-12,Colgate,Ind,Andrew Kerr,A,Iowa,Western,Ossie Solem,L,6,12
+1935-11-02,Colgate,Ind,Andrew Kerr,A,Tulane,SEC,Ted Cox,L,6,14
+1935-11-16,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Vic Hanson,W,27,0
+1935-11-30,Colgate,Ind,Andrew Kerr,A,Brown,Ind,DeOrmond McLaughry,W,33,0
+1935-10-05,New Mexico State,BIAA,Gerald Hines,A,Northern Arizona,BIAA,Mark McIntosh,W,7,0
+1935-10-19,New Mexico State,BIAA,Gerald Hines,H,Arizona State,BIAA,Rudy Lavik,W,7,6
+1935-10-26,New Mexico State,BIAA,Gerald Hines,A,Arizona,BIAA,Tex Oliver,L,6,9
+1935-11-11,New Mexico State,BIAA,Gerald Hines,H,New Mexico,BIAA,Gwinn Henry,W,32,0
+1935-11-28,New Mexico State,BIAA,Gerald Hines,H,UTEP,BIAA,Mack Saxon,W,7,0
+1935-10-04,Washburn,MVC,Ernest Bearg,A,Grinnell,MVC,Lester Watt,L,6,12
+1935-10-18,Washburn,MVC,Ernest Bearg,H,Tulsa,MVC,Gus Henderson,L,6,19
+1935-10-26,Washburn,MVC,Ernest Bearg,A,Gonzaga,Ind,Mike Pecarovich,L,0,21
+1935-11-16,Washburn,MVC,Ernest Bearg,A,Creighton,MVC,Marchy Schwartz,W,20,3
+1935-10-12,Minnesota,Western,Bernie Bierman,A,Nebraska,Big 6,Dana Bible,W,12,7
+1935-10-19,Minnesota,Western,Bernie Bierman,H,Tulane,SEC,Ted Cox,W,20,0
+1935-10-26,Minnesota,Western,Bernie Bierman,H,Northwestern,Western,Pappy Waldorf,W,21,13
+1935-11-02,Minnesota,Western,Bernie Bierman,H,Purdue,Western,Noble Kizer,W,29,7
+1935-11-09,Minnesota,Western,Bernie Bierman,A,Iowa,Western,Ossie Solem,W,13,6
+1935-11-16,Minnesota,Western,Bernie Bierman,A,Michigan,Western,Harry Kipke,W,40,0
+1935-11-23,Minnesota,Western,Bernie Bierman,H,Wisconsin,Western,Clarence Spears,W,33,7
+1935-10-11,Ole Miss,SEC,Ed Walker,H,Sewanee,SEC,Heck Clark,W,33,0
+1935-10-19,Ole Miss,SEC,Ed Walker,H,Florida,SEC,Dutch Stanley,W,27,6
+1935-10-26,Ole Miss,SEC,Ed Walker,A,Marquette,Ind,Frank Murray,L,7,33
+1935-11-01,Ole Miss,SEC,Ed Walker,A,Saint Louis,Ind,,W,21,7
+1935-11-09,Ole Miss,SEC,Ed Walker,N,Tennessee,SEC,W.H. Britton,L,13,14
+1935-11-16,Ole Miss,SEC,Ed Walker,A,Centre,Ind,,W,26,0
+1935-11-23,Ole Miss,SEC,Ed Walker,H,Centenary (LA),Ind,Curtis Player,W,6,0
+1935-11-30,Ole Miss,SEC,Ed Walker,H,Mississippi State,SEC,Ralph Sasse,W,14,6
+1935-09-21,Duke,Southern,Wallace Wade,N,Wake Forest,Ind,Jim Weaver,W,26,7
+1935-09-28,Duke,Southern,Wallace Wade,H,South Carolina,Southern,Don McCallister,W,47,0
+1935-10-05,Duke,Southern,Wallace Wade,A,Washington & Lee,Southern,Tex Tilson,W,26,0
+1935-10-12,Duke,Southern,Wallace Wade,H,Clemson,Southern,Jess Neely,W,38,12
+1935-10-19,Duke,Southern,Wallace Wade,A,Georgia Tech,SEC,William Alexander,L,0,6
+1935-10-25,Duke,Southern,Wallace Wade,H,Auburn,SEC,Jack Meagher,L,0,7
+1935-11-02,Duke,Southern,Wallace Wade,H,Tennessee,SEC,W.H. Britton,W,19,6
+1935-11-09,Duke,Southern,Wallace Wade,A,Davidson,Ind,,W,26,7
+1935-11-16,Duke,Southern,Wallace Wade,H,North Carolina,Southern,Carl Snavely,W,25,0
+1935-11-23,Duke,Southern,Wallace Wade,A,North Carolina State,Southern,Hunk Anderson,W,7,0
+1935-10-18,Loyola (LA),Ind,,H,Mississippi State,SEC,Ralph Sasse,L,0,6
+1935-11-01,Loyola (LA),Ind,,H,Centenary (LA),Ind,Curtis Player,L,0,9
+1935-11-08,Loyola (LA),Ind,,H,Texas Christian,SWC,Dutch Meyer,L,0,14
+1935-11-28,Loyola (LA),Ind,,H,West Virginia,Ind,Trusty Tallman,T,19,19
+1935-09-21,Sewanee,SEC,Heck Clark,H,Saint Louis,Ind,,L,0,32
+1935-10-05,Sewanee,SEC,Heck Clark,A,Georgia Tech,SEC,William Alexander,L,0,32
+1935-10-11,Sewanee,SEC,Heck Clark,A,Ole Miss,SEC,Ed Walker,L,0,33
+1935-10-26,Sewanee,SEC,Heck Clark,A,Tulane,SEC,Ted Cox,L,0,33
+1935-11-09,Sewanee,SEC,Heck Clark,A,Vanderbilt,SEC,Ray Morrison,L,0,46
+1935-11-16,Sewanee,SEC,Heck Clark,A,Florida,SEC,Dutch Stanley,L,0,20
+1935-11-23,Sewanee,SEC,Heck Clark,A,Mississippi State,SEC,Ralph Sasse,L,0,25
+1935-09-28,Centre,Ind,,H,Temple,Ind,Pop Warner,L,13,25
+1935-10-05,Centre,Ind,,A,Indiana,Western,Bo McMillin,L,0,14
+1935-10-19,Centre,Ind,,H,Washington & Lee,Southern,Tex Tilson,L,7,14
+1935-10-26,Centre,Ind,,A,Tennessee,SEC,W.H. Britton,L,14,25
+1935-11-09,Centre,Ind,,A,Xavier,Ind,Clem Crowe,L,0,27
+1935-11-16,Centre,Ind,,H,Ole Miss,SEC,Ed Walker,L,0,26
+1935-09-28,San Francisco,Ind,Lawrence Lewis,H,Santa Clara,Ind,,L,7,20
+1935-10-05,San Francisco,Ind,Lawrence Lewis,H,Stanford,PCC,Tiny Thornhill,L,0,10
+1935-10-19,San Francisco,Ind,Lawrence Lewis,A,Gonzaga,Ind,Mike Pecarovich,W,20,0
+1935-10-26,San Francisco,Ind,Lawrence Lewis,H,Saint Mary's (CA),Ind,Slip Madigan,L,0,13
+1935-11-16,San Francisco,Ind,Lawrence Lewis,H,Denver,RMC,Percy Locey,W,20,2
+1935-12-07,San Francisco,Ind,Lawrence Lewis,A,Loyola Marymount,Ind,Tom Lieb,W,9,0
+1935-09-28,Navy,Ind,Thomas Hamilton,H,William & Mary,Ind,Tommy Dowler,W,30,0
+1935-10-05,Navy,Ind,Thomas Hamilton,H,Mercer,Ind,,W,27,0
+1935-10-10,Navy,Ind,Thomas Hamilton,H,Virginia,Southern,Gus Tebell,W,26,7
+1935-10-19,Navy,Ind,Thomas Hamilton,A,Yale,Ind,,L,6,7
+1935-10-26,Navy,Ind,Thomas Hamilton,H,Notre Dame,Ind,Elmer Layden,L,0,14
+1935-11-02,Navy,Ind,Thomas Hamilton,A,Princeton,Ind,Fritz Crisler,L,0,26
+1935-11-09,Navy,Ind,Thomas Hamilton,A,Pennsylvania,Ind,Harvey Harman,W,13,0
+1935-11-16,Navy,Ind,Thomas Hamilton,H,Columbia,Ind,Lou Little,W,28,7
+1935-11-30,Navy,Ind,Thomas Hamilton,N,Army,Ind,Gar Davidson,L,6,28
+1935-10-25,Texas Tech,BIAA,Pete Cawthon,A,Loyola Marymount,Ind,Tom Lieb,L,0,16
+1935-11-02,Texas Tech,BIAA,Pete Cawthon,H,Oklahoma State,MVC,Albert Exendine,W,14,0
+1935-11-11,Texas Tech,BIAA,Pete Cawthon,H,Arizona,BIAA,Tex Oliver,L,6,7
+1935-11-28,Texas Tech,BIAA,Pete Cawthon,H,Detroit Mercy,Ind,Gus Dorais,L,7,12
+1935-09-28,Tulane,SEC,Ted Cox,H,Virginia Military Institute,Southern,,W,44,0
+1935-10-05,Tulane,SEC,Ted Cox,H,Auburn,SEC,Jack Meagher,L,0,10
+1935-10-12,Tulane,SEC,Ted Cox,H,Florida,SEC,Dutch Stanley,W,19,7
+1935-10-19,Tulane,SEC,Ted Cox,A,Minnesota,Western,Bernie Bierman,L,0,20
+1935-10-26,Tulane,SEC,Ted Cox,H,Sewanee,SEC,Heck Clark,W,33,0
+1935-11-02,Tulane,SEC,Ted Cox,H,Colgate,Ind,Andrew Kerr,W,14,6
+1935-11-09,Tulane,SEC,Ted Cox,H,Georgia,SEC,Harry Mehre,L,13,26
+1935-11-16,Tulane,SEC,Ted Cox,H,Kentucky,SEC,C.A. Wynne,W,20,13
+1935-11-30,Tulane,SEC,Ted Cox,H,LSU,SEC,Bernie Moore,L,0,41
+1935-10-12,Cornell,Ind,Gilmour Dobie,A,Syracuse,Ind,Vic Hanson,L,14,21
+1935-10-26,Cornell,Ind,Gilmour Dobie,H,Princeton,Ind,Fritz Crisler,L,0,54
+1935-11-02,Cornell,Ind,Gilmour Dobie,H,Columbia,Ind,Lou Little,T,7,7
+1935-11-16,Cornell,Ind,Gilmour Dobie,A,Dartmouth,Ind,Red Blaik,L,6,41
+1935-11-28,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,Harvey Harman,L,7,33
+1935-10-05,Ohio State,Western,Francis Schmidt,H,Kentucky,SEC,C.A. Wynne,W,19,6
+1935-10-12,Ohio State,Western,Francis Schmidt,H,Drake,MVC,Vee Green,W,85,7
+1935-10-19,Ohio State,Western,Francis Schmidt,H,Northwestern,Western,Pappy Waldorf,W,28,7
+1935-10-26,Ohio State,Western,Francis Schmidt,A,Indiana,Western,Bo McMillin,W,28,6
+1935-11-02,Ohio State,Western,Francis Schmidt,H,Notre Dame,Ind,Elmer Layden,L,13,18
+1935-11-09,Ohio State,Western,Francis Schmidt,A,Chicago,Western,Clark Shaughnessy,W,20,13
+1935-11-16,Ohio State,Western,Francis Schmidt,H,Illinois,Western,Robert Zuppke,W,6,0
+1935-11-23,Ohio State,Western,Francis Schmidt,A,Michigan,Western,Harry Kipke,W,38,0
+1935-10-12,Drake,MVC,Vee Green,A,Ohio State,Western,Francis Schmidt,L,7,85
+1935-10-19,Drake,MVC,Vee Green,A,Creighton,MVC,Marchy Schwartz,T,6,6
+1935-11-02,Drake,MVC,Vee Green,H,Grinnell,MVC,Lester Watt,W,33,21
+1935-11-09,Drake,MVC,Vee Green,A,Washington (MO),MVC,Jimmy Conzelman,L,0,13
+1935-11-16,Drake,MVC,Vee Green,H,Iowa State,Big 6,George Veenker,T,7,7
+1935-11-23,Drake,MVC,Vee Green,A,Tulsa,MVC,Gus Henderson,L,0,7
+1935-11-30,Drake,MVC,Vee Green,A,Arizona,BIAA,Tex Oliver,L,0,53

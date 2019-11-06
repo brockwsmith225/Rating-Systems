@@ -1,0 +1,61 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1882-10-07,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,9
+1882-10-21,Wesleyan (CT),Ind,,H,Massachusetts,Ind,,W,7,0
+1882-10-28,Wesleyan (CT),Ind,,A,Massachusetts,Ind,,W,7,0
+1882-11-04,Wesleyan (CT),Ind,,H,Amherst,Ind,,W,1,0
+1882-11-04,Dartmouth,Ind,,A,Harvard,Ind,,L,0,8
+1882-10-14,Princeton,Ind,,H,Rutgers,Ind,,W,5,0
+1882-10-28,Princeton,Ind,,H,Pennsylvania,Ind,,W,9,0
+1882-11-07,Princeton,Ind,,A,Columbia,Ind,,W,8,0
+1882-11-11,Princeton,Ind,,A,Pennsylvania,Ind,,W,10,0
+1882-11-14,Princeton,Ind,,A,Rutgers,Ind,,W,3,0
+1882-11-18,Princeton,Ind,,A,Harvard,Ind,,L,1,2
+1882-11-25,Princeton,Ind,,H,Columbia,Ind,,W,3,0
+1882-12-01,Princeton,Ind,,N,Yale,Ind,,L,1,2
+1882-11-24,Stevens,Ind,,H,Rutgers,Ind,,L,0,2
+1882-10-14,Rutgers,Ind,,A,Princeton,Ind,,L,0,5
+1882-10-21,Rutgers,Ind,,A,Yale,Ind,,L,0,9
+1882-10-28,Rutgers,Ind,,H,Yale,Ind,,L,0,5
+1882-11-04,Rutgers,Ind,,A,Pennsylvania,Ind,,W,1,0
+1882-11-07,Rutgers,Ind,,H,Lafayette,Ind,,W,8,0
+1882-11-09,Rutgers,Ind,,H,Columbia,Ind,,W,2,0
+1882-11-14,Rutgers,Ind,,H,Princeton,Ind,,L,0,3
+1882-11-18,Rutgers,Ind,,H,Pennsylvania,Ind,,W,1,0
+1882-11-24,Rutgers,Ind,,A,Stevens,Ind,,W,2,0
+1882-10-07,Yale,Ind,,H,Wesleyan (CT),Ind,,W,9,0
+1882-10-21,Yale,Ind,,H,Rutgers,Ind,,W,9,0
+1882-10-28,Yale,Ind,,A,Rutgers,Ind,,W,5,0
+1882-11-04,Yale,Ind,,H,MIT,Ind,,W,6,0
+1882-11-08,Yale,Ind,,A,Amherst,Ind,,W,9,0
+1882-11-18,Yale,Ind,,H,Columbia,Ind,,W,11,0
+1882-11-25,Yale,Ind,,A,Harvard,Ind,,W,1,0
+1882-12-01,Yale,Ind,,N,Princeton,Ind,,W,2,1
+1882-10-28,Pennsylvania,Ind,,A,Princeton,Ind,,L,0,9
+1882-11-04,Pennsylvania,Ind,,H,Rutgers,Ind,,L,0,1
+1882-11-11,Pennsylvania,Ind,,H,Princeton,Ind,,L,0,10
+1882-11-18,Pennsylvania,Ind,,A,Rutgers,Ind,,L,0,1
+1882-11-25,Pennsylvania,Ind,,H,Lafayette,Ind,,W,1,0
+1882-10-07,Harvard,Ind,,H,MIT,Ind,,W,1,0
+1882-10-14,Harvard,Ind,,H,MIT,Ind,,W,3,0
+1882-10-28,Harvard,Ind,,A,Amherst,Ind,,W,1,0
+1882-11-04,Harvard,Ind,,H,Dartmouth,Ind,,W,8,0
+1882-11-11,Harvard,Ind,,H,Columbia,Ind,,W,2,0
+1882-11-18,Harvard,Ind,,H,Princeton,Ind,,W,2,1
+1882-11-25,Harvard,Ind,,H,Yale,Ind,,L,0,1
+1882-11-07,Columbia,Ind,,H,Princeton,Ind,,L,0,8
+1882-11-09,Columbia,Ind,,A,Rutgers,Ind,,L,0,2
+1882-11-11,Columbia,Ind,,A,Harvard,Ind,,L,0,2
+1882-11-18,Columbia,Ind,,A,Yale,Ind,,L,0,11
+1882-11-25,Columbia,Ind,,A,Princeton,Ind,,L,0,3
+1882-10-14,Amherst,Ind,,H,Massachusetts,Ind,,W,2,0
+1882-10-28,Amherst,Ind,,H,Harvard,Ind,,L,0,1
+1882-11-04,Amherst,Ind,,A,Wesleyan (CT),Ind,,L,0,1
+1882-11-08,Amherst,Ind,,H,Yale,Ind,,L,0,9
+1882-11-07,Lafayette,Ind,,A,Rutgers,Ind,,L,0,8
+1882-11-25,Lafayette,Ind,,A,Pennsylvania,Ind,,L,0,1
+1882-10-14,Massachusetts,Ind,,A,Amherst,Ind,,L,0,2
+1882-10-21,Massachusetts,Ind,,A,Wesleyan (CT),Ind,,L,0,7
+1882-10-28,Massachusetts,Ind,,H,Wesleyan (CT),Ind,,L,0,7
+1882-10-07,MIT,Ind,,A,Harvard,Ind,,L,0,1
+1882-10-14,MIT,Ind,,A,Harvard,Ind,,L,0,3
+1882-11-04,MIT,Ind,,A,Yale,Ind,,L,0,6

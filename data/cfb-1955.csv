@@ -1,0 +1,979 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1955-09-24,North Carolina,ACC,George Barclay,H,Oklahoma,Big 7,Bud Wilkinson,L,6,13
+1955-10-01,North Carolina,ACC,George Barclay,A,North Carolina State,ACC,Earle Edwards,W,25,18
+1955-10-08,North Carolina,ACC,George Barclay,A,Georgia,SEC,Wallace Butts,L,7,28
+1955-10-15,North Carolina,ACC,George Barclay,H,Maryland,ACC,Jim Tatum,L,7,25
+1955-10-22,North Carolina,ACC,George Barclay,A,Wake Forest,ACC,Tom Rogers,L,0,25
+1955-10-29,North Carolina,ACC,George Barclay,H,Tennessee,SEC,Bowden Wyatt,L,7,48
+1955-11-05,North Carolina,ACC,George Barclay,H,South Carolina,ACC,Rex Enright,W,32,14
+1955-11-12,North Carolina,ACC,George Barclay,H,Notre Dame,Ind,Terry Brennan,L,7,27
+1955-11-19,North Carolina,ACC,George Barclay,H,Virginia,ACC,Ned McDonald,W,26,14
+1955-12-03,North Carolina,ACC,George Barclay,A,Duke,ACC,Bill Murray,L,0,6
+1955-09-24,Indiana,Big Ten,Bernie Crimmins,H,Michigan State,Big Ten,Duffy Daugherty,L,13,20
+1955-10-01,Indiana,Big Ten,Bernie Crimmins,A,Notre Dame,Ind,Terry Brennan,L,0,19
+1955-10-08,Indiana,Big Ten,Bernie Crimmins,A,Iowa,Big Ten,Forest Evashevski,L,6,20
+1955-10-15,Indiana,Big Ten,Bernie Crimmins,H,Villanova,Ind,Francis Reagan,W,14,7
+1955-10-22,Indiana,Big Ten,Bernie Crimmins,A,Northwestern,Big Ten,Lou Saban,W,20,14
+1955-11-05,Indiana,Big Ten,Bernie Crimmins,A,Ohio State,Big Ten,Woody Hayes,L,13,20
+1955-11-12,Indiana,Big Ten,Bernie Crimmins,A,Michigan,Big Ten,Bennie Oosterbaan,L,0,30
+1955-11-19,Indiana,Big Ten,Bernie Crimmins,H,Purdue,Big Ten,Stuart Holcomb,L,4,6
+1955-09-17,Florida State,Ind,Thomas Nugent,H,North Carolina State,ACC,Earle Edwards,W,7,0
+1955-09-30,Florida State,Ind,Thomas Nugent,A,Miami (FL),Ind,Andy Gustafson,L,0,34
+1955-10-08,Florida State,Ind,Thomas Nugent,H,Virginia Tech,Southern,Frank Moseley,L,20,24
+1955-10-15,Florida State,Ind,Thomas Nugent,H,Georgia,SEC,Wallace Butts,L,14,47
+1955-10-22,Florida State,Ind,Thomas Nugent,A,Georgia Tech,SEC,Bobby Dodd,L,0,34
+1955-11-05,Florida State,Ind,Thomas Nugent,H,Villanova,Ind,Francis Reagan,W,16,13
+1955-11-11,Florida State,Ind,Thomas Nugent,A,Furman,Southern,Homer Hobbs,W,19,6
+1955-11-19,Florida State,Ind,Thomas Nugent,H,Citadel,Southern,John Sauer,W,39,0
+1955-09-17,Iowa State,Big 7,Vince Di Francesca,H,Denver,Skyline,John Roning,L,7,19
+1955-10-01,Iowa State,Big 7,Vince Di Francesca,A,Illinois,Big Ten,Ray Eliot,L,0,40
+1955-10-08,Iowa State,Big 7,Vince Di Francesca,A,Kansas,Big 7,Chuck Mather,T,7,7
+1955-10-15,Iowa State,Big 7,Vince Di Francesca,H,Missouri,Big 7,Don Faurot,W,20,14
+1955-10-22,Iowa State,Big 7,Vince Di Francesca,H,Kansas State,Big 7,Bernard Mertes,L,7,9
+1955-10-29,Iowa State,Big 7,Vince Di Francesca,A,Drake,Ind,Warren Gaer,L,21,27
+1955-11-05,Iowa State,Big 7,Vince Di Francesca,H,Nebraska,Big 7,William Glassford,L,7,10
+1955-11-12,Iowa State,Big 7,Vince Di Francesca,A,Oklahoma,Big 7,Bud Wilkinson,L,0,52
+1955-11-19,Iowa State,Big 7,Vince Di Francesca,A,Colorado,Big 7,Dallas Ward,L,0,40
+1955-10-01,Cincinnati,Ind,George Blackburn,A,Pacific,Ind,Moose Myers,L,13,27
+1955-10-15,Cincinnati,Ind,George Blackburn,H,Marquette,Ind,Frosty Ferzacca,W,13,12
+1955-10-22,Cincinnati,Ind,George Blackburn,A,Tulsa,MVC,Robert Dobbs,T,21,21
+1955-10-29,Cincinnati,Ind,George Blackburn,H,Detroit Mercy,MVC,Wally Fromhart,T,0,0
+1955-11-05,Cincinnati,Ind,George Blackburn,A,Wichita State,MVC,Pete Tillman,L,16,20
+1955-11-12,Cincinnati,Ind,George Blackburn,H,Hardin-Simmons,BIAA,Sammy Baugh,L,20,53
+1955-09-17,Arizona State,BIAA,Dan Devine,A,Wichita State,MVC,Pete Tillman,T,20,20
+1955-10-08,Arizona State,BIAA,Dan Devine,A,San Jose State,Ind,Robert Bronzan,L,20,27
+1955-10-29,Arizona State,BIAA,Dan Devine,H,Hardin-Simmons,BIAA,Sammy Baugh,W,69,14
+1955-11-05,Arizona State,BIAA,Dan Devine,H,West Texas A&M,BIAA,Frank Kimbrough,W,27,7
+1955-11-12,Arizona State,BIAA,Dan Devine,A,UTEP,BIAA,Mike Brumbelow,W,20,13
+1955-11-19,Arizona State,BIAA,Dan Devine,H,New Mexico State,BIAA,Tony Cavallo,W,26,6
+1955-11-26,Arizona State,BIAA,Dan Devine,H,Arizona,BIAA,Warren Woodson,L,6,7
+1955-09-24,Furman,Southern,Homer Hobbs,A,Army,Ind,Red Blaik,L,0,81
+1955-10-08,Furman,Southern,Homer Hobbs,A,South Carolina,ACC,Rex Enright,L,0,19
+1955-10-15,Furman,Southern,Homer Hobbs,A,Citadel,Southern,John Sauer,L,19,25
+1955-10-22,Furman,Southern,Homer Hobbs,A,Auburn,SEC,Ralph Jordan,L,0,52
+1955-10-29,Furman,Southern,Homer Hobbs,H,North Carolina State,ACC,Earle Edwards,L,7,33
+1955-11-11,Furman,Southern,Homer Hobbs,H,Florida State,Ind,Thomas Nugent,L,6,19
+1955-11-19,Furman,Southern,Homer Hobbs,H,Davidson,Southern,,W,13,9
+1955-11-26,Furman,Southern,Homer Hobbs,H,Clemson,ACC,Frank Howard,L,20,40
+1955-09-17,Utah,Skyline,Jack Curtice,H,Oregon,PCC,Len Casanova,L,13,14
+1955-09-24,Utah,Skyline,Jack Curtice,A,Idaho,PCC,Skip Stahley,W,20,13
+1955-10-01,Utah,Skyline,Jack Curtice,A,Missouri,Big 7,Don Faurot,W,20,14
+1955-10-08,Utah,Skyline,Jack Curtice,H,Brigham Young,Skyline,Charles Atkinson,W,41,9
+1955-10-14,Utah,Skyline,Jack Curtice,A,Denver,Skyline,John Roning,W,27,7
+1955-10-22,Utah,Skyline,Jack Curtice,H,Wyoming,Skyline,Phil Dickens,L,13,23
+1955-11-05,Utah,Skyline,Jack Curtice,A,Colorado,Big 7,Dallas Ward,L,7,37
+1955-11-12,Utah,Skyline,Jack Curtice,H,Colorado State,Skyline,Robert Davis,W,27,6
+1955-11-24,Utah,Skyline,Jack Curtice,H,Utah State,Skyline,Everett Faunce,W,14,13
+1955-09-17,Wichita State,MVC,Pete Tillman,H,Arizona State,BIAA,Dan Devine,T,20,20
+1955-09-24,Wichita State,MVC,Pete Tillman,H,Utah State,Skyline,Everett Faunce,W,19,0
+1955-09-30,Wichita State,MVC,Pete Tillman,A,Detroit Mercy,MVC,Wally Fromhart,L,0,41
+1955-10-08,Wichita State,MVC,Pete Tillman,A,Oklahoma State,MVC,Cliff Speegle,W,14,7
+1955-10-22,Wichita State,MVC,Pete Tillman,H,UTEP,BIAA,Mike Brumbelow,L,12,28
+1955-10-29,Wichita State,MVC,Pete Tillman,A,Houston,MVC,Bill Meek,W,21,7
+1955-11-05,Wichita State,MVC,Pete Tillman,H,Cincinnati,Ind,George Blackburn,W,20,16
+1955-11-12,Wichita State,MVC,Pete Tillman,H,Drake,Ind,Warren Gaer,W,59,6
+1955-11-24,Wichita State,MVC,Pete Tillman,H,Tulsa,MVC,Robert Dobbs,W,54,0
+1955-09-24,Villanova,Ind,Francis Reagan,H,Baylor,SWC,George Sauer,L,2,19
+1955-10-01,Villanova,Ind,Francis Reagan,A,Kentucky,SEC,Blanton Collier,L,0,28
+1955-10-08,Villanova,Ind,Francis Reagan,A,Boston College,Ind,Mike Holovak,L,14,28
+1955-10-15,Villanova,Ind,Francis Reagan,A,Indiana,Big Ten,Bernie Crimmins,L,7,14
+1955-10-22,Villanova,Ind,Francis Reagan,H,North Carolina State,ACC,Earle Edwards,L,13,34
+1955-10-29,Villanova,Ind,Francis Reagan,H,Richmond,Southern,Edwin Merrick,W,16,14
+1955-11-05,Villanova,Ind,Francis Reagan,A,Florida State,Ind,Thomas Nugent,L,13,16
+1955-11-11,Villanova,Ind,Francis Reagan,A,Detroit Mercy,MVC,Wally Fromhart,L,0,6
+1955-11-19,Villanova,Ind,Francis Reagan,A,Houston,MVC,Bill Meek,L,14,26
+1955-09-24,Syracuse,Ind,Ben Schwartzwalder,H,Pitt,Ind,John Michelosen,L,12,22
+1955-10-08,Syracuse,Ind,Ben Schwartzwalder,H,Boston University,Ind,Aldo Donelli,W,27,12
+1955-10-15,Syracuse,Ind,Ben Schwartzwalder,A,Army,Ind,Red Blaik,W,13,0
+1955-10-22,Syracuse,Ind,Ben Schwartzwalder,H,Maryland,ACC,Jim Tatum,L,13,34
+1955-10-29,Syracuse,Ind,Ben Schwartzwalder,A,Holy Cross,Ind,Edward Anderson,W,49,9
+1955-11-05,Syracuse,Ind,Ben Schwartzwalder,A,Penn State,Ind,Rip Engle,L,20,21
+1955-11-12,Syracuse,Ind,Ben Schwartzwalder,H,Colgate,Ind,Hal Lahar,W,26,19
+1955-11-19,Syracuse,Ind,Ben Schwartzwalder,A,West Virginia,Southern,Art Lewis,W,20,13
+1955-09-17,Arizona,BIAA,Warren Woodson,H,Colorado State,Skyline,Robert Davis,W,20,7
+1955-09-24,Arizona,BIAA,Warren Woodson,A,Colorado,Big 7,Dallas Ward,L,0,14
+1955-10-01,Arizona,BIAA,Warren Woodson,H,Idaho,PCC,Skip Stahley,W,47,14
+1955-10-08,Arizona,BIAA,Warren Woodson,H,West Texas A&M,BIAA,Frank Kimbrough,T,20,20
+1955-10-15,Arizona,BIAA,Warren Woodson,H,UTEP,BIAA,Mike Brumbelow,L,0,29
+1955-10-22,Arizona,BIAA,Warren Woodson,H,Oregon,PCC,Len Casanova,L,27,46
+1955-11-05,Arizona,BIAA,Warren Woodson,A,Texas Tech,BIAA,DeWitt Weaver,L,7,27
+1955-11-12,Arizona,BIAA,Warren Woodson,H,Montana,Skyline,Jerry Williams,W,29,0
+1955-11-19,Arizona,BIAA,Warren Woodson,H,New Mexico,Skyline,Robert Titchenal,W,27,6
+1955-11-26,Arizona,BIAA,Warren Woodson,A,Arizona State,BIAA,Dan Devine,W,7,6
+1955-09-17,Montana,Skyline,Jerry Williams,A,Houston,MVC,Bill Meek,L,12,54
+1955-09-24,Montana,Skyline,Jerry Williams,N,Wyoming,Skyline,Phil Dickens,L,6,35
+1955-10-01,Montana,Skyline,Jerry Williams,H,Brigham Young,Skyline,Charles Atkinson,W,27,13
+1955-10-08,Montana,Skyline,Jerry Williams,H,Denver,Skyline,John Roning,L,13,61
+1955-10-15,Montana,Skyline,Jerry Williams,A,Utah State,Skyline,Everett Faunce,L,6,32
+1955-10-22,Montana,Skyline,Jerry Williams,H,New Mexico,Skyline,Robert Titchenal,W,19,14
+1955-10-29,Montana,Skyline,Jerry Williams,H,Colorado State,Skyline,Robert Davis,L,7,12
+1955-11-12,Montana,Skyline,Jerry Williams,A,Arizona,BIAA,Warren Woodson,L,0,29
+1955-11-19,Montana,Skyline,Jerry Williams,A,Idaho,PCC,Skip Stahley,L,0,31
+1955-09-24,Penn State,Ind,Rip Engle,H,Boston University,Ind,Aldo Donelli,W,35,0
+1955-10-01,Penn State,Ind,Rip Engle,A,Army,Ind,Red Blaik,L,6,35
+1955-10-08,Penn State,Ind,Rip Engle,A,Virginia,ACC,Ned McDonald,W,26,7
+1955-10-15,Penn State,Ind,Rip Engle,H,Navy,Ind,Eddie Erdelatz,L,14,34
+1955-10-22,Penn State,Ind,Rip Engle,A,West Virginia,Southern,Art Lewis,L,7,21
+1955-10-29,Penn State,Ind,Rip Engle,A,Pennsylvania,Ind,Steve Sebo,W,20,0
+1955-11-05,Penn State,Ind,Rip Engle,H,Syracuse,Ind,Ben Schwartzwalder,W,21,20
+1955-11-12,Penn State,Ind,Rip Engle,A,Rutgers,Ind,Harvey Harman,W,34,13
+1955-11-19,Penn State,Ind,Rip Engle,H,Pitt,Ind,John Michelosen,L,0,20
+1955-09-24,Princeton,Ind,Charles Caldwell,H,Rutgers,Ind,Harvey Harman,W,41,7
+1955-10-01,Princeton,Ind,Charles Caldwell,H,Columbia,Ind,Lou Little,W,20,7
+1955-10-08,Princeton,Ind,Charles Caldwell,A,Pennsylvania,Ind,Steve Sebo,W,7,0
+1955-10-15,Princeton,Ind,Charles Caldwell,H,Colgate,Ind,Hal Lahar,L,6,15
+1955-10-22,Princeton,Ind,Charles Caldwell,A,Cornell,Ind,George James,W,26,20
+1955-10-29,Princeton,Ind,Charles Caldwell,H,Brown,Ind,Alva Kelley,W,14,7
+1955-11-05,Princeton,Ind,Charles Caldwell,A,Harvard,Ind,Lloyd Jordan,L,6,7
+1955-11-12,Princeton,Ind,Charles Caldwell,H,Yale,Ind,Jordan Olivar,W,13,0
+1955-11-19,Princeton,Ind,Charles Caldwell,H,Dartmouth,Ind,Bob Blackman,W,6,3
+1955-09-24,Vanderbilt,SEC,Arthur Guepe,A,Georgia,SEC,Wallace Butts,L,13,14
+1955-10-01,Vanderbilt,SEC,Arthur Guepe,H,Alabama,SEC,Jennings Whitworth,W,21,6
+1955-10-08,Vanderbilt,SEC,Arthur Guepe,N,Ole Miss,SEC,John Vaught,L,0,13
+1955-10-29,Vanderbilt,SEC,Arthur Guepe,H,Virginia,ACC,Ned McDonald,W,34,7
+1955-11-05,Vanderbilt,SEC,Arthur Guepe,H,Kentucky,SEC,Blanton Collier,W,34,0
+1955-11-12,Vanderbilt,SEC,Arthur Guepe,A,Tulane,SEC,Andy Pilney,W,20,7
+1955-11-19,Vanderbilt,SEC,Arthur Guepe,H,Florida,SEC,Bob Woodruff,W,21,6
+1955-11-26,Vanderbilt,SEC,Arthur Guepe,A,Tennessee,SEC,Bowden Wyatt,L,14,20
+1955-12-31,Vanderbilt,SEC,Arthur Guepe,N,Auburn,SEC,Ralph Jordan,W,25,13
+1955-09-17,Kentucky,SEC,Blanton Collier,A,LSU,SEC,Paul Dietzel,L,7,19
+1955-09-24,Kentucky,SEC,Blanton Collier,H,Ole Miss,SEC,John Vaught,W,21,14
+1955-10-01,Kentucky,SEC,Blanton Collier,H,Villanova,Ind,Francis Reagan,W,28,0
+1955-10-08,Kentucky,SEC,Blanton Collier,A,Auburn,SEC,Ralph Jordan,T,14,14
+1955-10-15,Kentucky,SEC,Blanton Collier,H,Mississippi State,SEC,Darrell Royal,L,14,20
+1955-10-22,Kentucky,SEC,Blanton Collier,H,Florida,SEC,Bob Woodruff,W,10,7
+1955-10-29,Kentucky,SEC,Blanton Collier,H,Rice,SWC,Jess Neely,W,20,16
+1955-11-05,Kentucky,SEC,Blanton Collier,A,Vanderbilt,SEC,Arthur Guepe,L,0,34
+1955-11-19,Kentucky,SEC,Blanton Collier,H,Tennessee,SEC,Bowden Wyatt,W,23,0
+1955-09-17,California,PCC,Pappy Waldorf,A,Pitt,Ind,John Michelosen,L,7,27
+1955-09-24,California,PCC,Pappy Waldorf,H,Illinois,Big Ten,Ray Eliot,L,13,20
+1955-10-01,California,PCC,Pappy Waldorf,H,Pennsylvania,Ind,Steve Sebo,W,27,7
+1955-10-08,California,PCC,Pappy Waldorf,H,Washington State,PCC,Alton Kircher,T,20,20
+1955-10-15,California,PCC,Pappy Waldorf,A,Oregon,PCC,Len Casanova,L,0,21
+1955-10-22,California,PCC,Pappy Waldorf,H,USC,PCC,Jess Hill,L,6,33
+1955-10-29,California,PCC,Pappy Waldorf,A,UCLA,PCC,Red Sanders,L,0,47
+1955-11-05,California,PCC,Pappy Waldorf,H,Washington,PCC,John Cherberg,W,20,6
+1955-11-12,California,PCC,Pappy Waldorf,H,Oregon State,PCC,Tommy Prothro,L,14,16
+1955-11-19,California,PCC,Pappy Waldorf,A,Stanford,PCC,Chuck Taylor,L,0,19
+1955-09-17,Florida,SEC,Bob Woodruff,H,Mississippi State,SEC,Darrell Royal,W,20,14
+1955-09-24,Florida,SEC,Bob Woodruff,H,Georgia Tech,SEC,Bobby Dodd,L,7,14
+1955-10-01,Florida,SEC,Bob Woodruff,A,Auburn,SEC,Ralph Jordan,L,0,13
+1955-10-08,Florida,SEC,Bob Woodruff,H,George Washington,Southern,Bo Sherman,W,28,0
+1955-10-15,Florida,SEC,Bob Woodruff,H,LSU,SEC,Paul Dietzel,W,18,14
+1955-10-22,Florida,SEC,Bob Woodruff,A,Kentucky,SEC,Blanton Collier,L,7,10
+1955-11-05,Florida,SEC,Bob Woodruff,N,Georgia,SEC,Wallace Butts,W,19,13
+1955-11-12,Florida,SEC,Bob Woodruff,H,Tennessee,SEC,Bowden Wyatt,L,0,20
+1955-11-19,Florida,SEC,Bob Woodruff,A,Vanderbilt,SEC,Arthur Guepe,L,6,21
+1955-11-26,Florida,SEC,Bob Woodruff,A,Miami (FL),Ind,Andy Gustafson,L,6,7
+1955-09-24,Boston University,Ind,Aldo Donelli,A,Penn State,Ind,Rip Engle,L,0,35
+1955-10-08,Boston University,Ind,Aldo Donelli,A,Syracuse,Ind,Ben Schwartzwalder,L,12,27
+1955-10-15,Boston University,Ind,Aldo Donelli,H,Drake,Ind,Warren Gaer,W,32,2
+1955-10-22,Boston University,Ind,Aldo Donelli,A,Holy Cross,Ind,Edward Anderson,L,12,20
+1955-11-05,Boston University,Ind,Aldo Donelli,H,North Carolina State,ACC,Earle Edwards,L,13,40
+1955-11-12,Boston University,Ind,Aldo Donelli,H,Boston College,Ind,Mike Holovak,L,12,40
+1955-09-17,Stanford,PCC,Chuck Taylor,H,Pacific,Ind,Moose Myers,W,33,14
+1955-09-24,Stanford,PCC,Chuck Taylor,A,Oregon State,PCC,Tommy Prothro,L,0,10
+1955-10-01,Stanford,PCC,Chuck Taylor,H,Ohio State,Big Ten,Woody Hayes,W,6,0
+1955-10-08,Stanford,PCC,Chuck Taylor,A,Michigan State,Big Ten,Duffy Daugherty,L,14,38
+1955-10-15,Stanford,PCC,Chuck Taylor,H,UCLA,PCC,Red Sanders,L,13,21
+1955-10-22,Stanford,PCC,Chuck Taylor,A,Washington,PCC,John Cherberg,T,7,7
+1955-10-29,Stanford,PCC,Chuck Taylor,H,San Jose State,Ind,Robert Bronzan,W,34,18
+1955-11-05,Stanford,PCC,Chuck Taylor,A,USC,PCC,Jess Hill,W,28,20
+1955-11-12,Stanford,PCC,Chuck Taylor,H,Oregon,PCC,Len Casanova,W,44,7
+1955-11-19,Stanford,PCC,Chuck Taylor,H,California,PCC,Pappy Waldorf,W,19,0
+1955-09-17,Washington State,PCC,Alton Kircher,A,USC,PCC,Jess Hill,L,12,50
+1955-09-24,Washington State,PCC,Alton Kircher,A,Kansas,Big 7,Chuck Mather,L,0,13
+1955-10-01,Washington State,PCC,Alton Kircher,H,UCLA,PCC,Red Sanders,L,0,55
+1955-10-08,Washington State,PCC,Alton Kircher,A,California,PCC,Pappy Waldorf,T,20,20
+1955-10-15,Washington State,PCC,Alton Kircher,A,Idaho,PCC,Skip Stahley,W,9,0
+1955-10-22,Washington State,PCC,Alton Kircher,A,Oregon State,PCC,Tommy Prothro,L,6,14
+1955-10-29,Washington State,PCC,Alton Kircher,A,Pacific,Ind,Moose Myers,L,0,30
+1955-11-05,Washington State,PCC,Alton Kircher,H,Oregon,PCC,Len Casanova,L,0,35
+1955-11-12,Washington State,PCC,Alton Kircher,H,San Jose State,Ind,Robert Bronzan,T,13,13
+1955-11-19,Washington State,PCC,Alton Kircher,A,Washington,PCC,John Cherberg,L,7,27
+1955-09-24,Illinois,Big Ten,Ray Eliot,A,California,PCC,Pappy Waldorf,W,20,13
+1955-10-01,Illinois,Big Ten,Ray Eliot,H,Iowa State,Big 7,Vince Di Francesca,W,40,0
+1955-10-08,Illinois,Big Ten,Ray Eliot,A,Ohio State,Big Ten,Woody Hayes,L,12,27
+1955-10-15,Illinois,Big Ten,Ray Eliot,H,Minnesota,Big Ten,Murray Warmath,W,21,13
+1955-10-22,Illinois,Big Ten,Ray Eliot,A,Michigan State,Big Ten,Duffy Daugherty,L,7,21
+1955-10-29,Illinois,Big Ten,Ray Eliot,H,Purdue,Big Ten,Stuart Holcomb,L,0,13
+1955-11-05,Illinois,Big Ten,Ray Eliot,H,Michigan,Big Ten,Bennie Oosterbaan,W,25,6
+1955-11-12,Illinois,Big Ten,Ray Eliot,A,Wisconsin,Big Ten,Ivy Williamson,W,17,14
+1955-11-19,Illinois,Big Ten,Ray Eliot,A,Northwestern,Big Ten,Lou Saban,T,7,7
+1955-09-17,Baylor,SWC,George Sauer,H,Hardin-Simmons,BIAA,Sammy Baugh,W,35,7
+1955-09-24,Baylor,SWC,George Sauer,A,Villanova,Ind,Francis Reagan,W,19,2
+1955-10-01,Baylor,SWC,George Sauer,H,Maryland,ACC,Jim Tatum,L,6,20
+1955-10-08,Baylor,SWC,George Sauer,H,Arkansas,SWC,Jack Mitchell,W,25,20
+1955-10-15,Baylor,SWC,George Sauer,A,Washington,PCC,John Cherberg,W,13,7
+1955-10-22,Baylor,SWC,George Sauer,A,Texas A&M,SWC,Bear Bryant,L,7,19
+1955-10-29,Baylor,SWC,George Sauer,H,Texas Christian,SWC,Abe Martin,L,6,28
+1955-11-05,Baylor,SWC,George Sauer,A,Texas,SWC,Edwin Price,L,20,21
+1955-11-19,Baylor,SWC,George Sauer,H,SMU,SWC,Chalmer Woodward,L,0,12
+1955-11-26,Baylor,SWC,George Sauer,A,Rice,SWC,Jess Neely,W,15,7
+1955-09-24,SMU,SWC,Chalmer Woodward,A,Notre Dame,Ind,Terry Brennan,L,0,17
+1955-10-01,SMU,SWC,Chalmer Woodward,A,Georgia Tech,SEC,Bobby Dodd,L,7,20
+1955-10-07,SMU,SWC,Chalmer Woodward,H,Missouri,Big 7,Don Faurot,W,13,6
+1955-10-15,SMU,SWC,Chalmer Woodward,H,Rice,SWC,Jess Neely,W,20,0
+1955-10-22,SMU,SWC,Chalmer Woodward,A,Kansas,Big 7,Chuck Mather,W,33,14
+1955-10-29,SMU,SWC,Chalmer Woodward,H,Texas,SWC,Edwin Price,L,18,19
+1955-11-05,SMU,SWC,Chalmer Woodward,A,Texas A&M,SWC,Bear Bryant,L,2,13
+1955-11-12,SMU,SWC,Chalmer Woodward,H,Arkansas,SWC,Jack Mitchell,L,0,6
+1955-11-19,SMU,SWC,Chalmer Woodward,A,Baylor,SWC,George Sauer,W,12,0
+1955-11-26,SMU,SWC,Chalmer Woodward,A,Texas Christian,SWC,Abe Martin,L,13,20
+1955-09-17,Georgia,SEC,Wallace Butts,H,Ole Miss,SEC,John Vaught,L,13,26
+1955-09-24,Georgia,SEC,Wallace Butts,H,Vanderbilt,SEC,Arthur Guepe,W,14,13
+1955-10-01,Georgia,SEC,Wallace Butts,A,Clemson,ACC,Frank Howard,L,7,26
+1955-10-08,Georgia,SEC,Wallace Butts,H,North Carolina,ACC,George Barclay,W,28,7
+1955-10-15,Georgia,SEC,Wallace Butts,A,Florida State,Ind,Thomas Nugent,W,47,14
+1955-10-22,Georgia,SEC,Wallace Butts,H,Tulane,SEC,Andy Pilney,L,0,14
+1955-10-29,Georgia,SEC,Wallace Butts,H,Alabama,SEC,Jennings Whitworth,W,35,14
+1955-11-05,Georgia,SEC,Wallace Butts,N,Florida,SEC,Bob Woodruff,L,13,19
+1955-11-12,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Ralph Jordan,L,13,16
+1955-11-26,Georgia,SEC,Wallace Butts,A,Georgia Tech,SEC,Bobby Dodd,L,3,21
+1955-09-17,Maryland,ACC,Jim Tatum,A,Missouri,Big 7,Don Faurot,W,13,12
+1955-09-24,Maryland,ACC,Jim Tatum,H,UCLA,PCC,Red Sanders,W,7,0
+1955-10-01,Maryland,ACC,Jim Tatum,A,Baylor,SWC,George Sauer,W,20,6
+1955-10-08,Maryland,ACC,Jim Tatum,H,Wake Forest,ACC,Tom Rogers,W,28,7
+1955-10-15,Maryland,ACC,Jim Tatum,A,North Carolina,ACC,George Barclay,W,25,7
+1955-10-22,Maryland,ACC,Jim Tatum,A,Syracuse,Ind,Ben Schwartzwalder,W,34,13
+1955-10-29,Maryland,ACC,Jim Tatum,H,South Carolina,ACC,Rex Enright,W,27,0
+1955-11-05,Maryland,ACC,Jim Tatum,H,LSU,SEC,Paul Dietzel,W,13,0
+1955-11-12,Maryland,ACC,Jim Tatum,A,Clemson,ACC,Frank Howard,W,25,12
+1955-11-19,Maryland,ACC,Jim Tatum,H,George Washington,Southern,Bo Sherman,W,19,0
+1956-01-02,Maryland,ACC,Jim Tatum,N,Oklahoma,Big 7,Bud Wilkinson,L,6,20
+1955-09-24,Virginia,ACC,Ned McDonald,H,Clemson,ACC,Frank Howard,L,7,20
+1955-10-01,Virginia,ACC,Ned McDonald,H,George Washington,Southern,Bo Sherman,L,0,13
+1955-10-08,Virginia,ACC,Ned McDonald,H,Penn State,Ind,Rip Engle,L,7,26
+1955-10-15,Virginia,ACC,Ned McDonald,H,Virginia Military Institute,Southern,John McKenna,W,20,13
+1955-10-22,Virginia,ACC,Ned McDonald,N,Virginia Tech,Southern,Frank Moseley,L,13,17
+1955-10-29,Virginia,ACC,Ned McDonald,A,Vanderbilt,SEC,Arthur Guepe,L,7,34
+1955-11-05,Virginia,ACC,Ned McDonald,A,Pitt,Ind,John Michelosen,L,7,18
+1955-11-12,Virginia,ACC,Ned McDonald,H,Wake Forest,ACC,Tom Rogers,L,7,13
+1955-11-19,Virginia,ACC,Ned McDonald,A,North Carolina,ACC,George Barclay,L,14,26
+1955-11-26,Virginia,ACC,Ned McDonald,H,South Carolina,ACC,Rex Enright,L,14,21
+1955-09-17,Idaho,PCC,Skip Stahley,A,Washington,PCC,John Cherberg,L,7,14
+1955-09-24,Idaho,PCC,Skip Stahley,H,Utah,Skyline,Jack Curtice,L,13,20
+1955-10-01,Idaho,PCC,Skip Stahley,A,Arizona,BIAA,Warren Woodson,L,14,47
+1955-10-08,Idaho,PCC,Skip Stahley,H,Pacific,Ind,Moose Myers,L,0,20
+1955-10-15,Idaho,PCC,Skip Stahley,H,Washington State,PCC,Alton Kircher,L,0,9
+1955-10-29,Idaho,PCC,Skip Stahley,A,Oregon,PCC,Len Casanova,L,0,25
+1955-11-05,Idaho,PCC,Skip Stahley,A,Oregon State,PCC,Tommy Prothro,L,14,33
+1955-11-11,Idaho,PCC,Skip Stahley,A,Brigham Young,Skyline,Charles Atkinson,W,49,6
+1955-11-19,Idaho,PCC,Skip Stahley,H,Montana,Skyline,Jerry Williams,W,31,0
+1955-10-01,Citadel,Southern,John Sauer,A,Davidson,Southern,,L,2,6
+1955-10-07,Citadel,Southern,John Sauer,A,Richmond,Southern,Edwin Merrick,W,14,12
+1955-10-15,Citadel,Southern,John Sauer,H,Furman,Southern,Homer Hobbs,W,25,19
+1955-11-12,Citadel,Southern,John Sauer,H,Virginia Military Institute,Southern,John McKenna,L,7,14
+1955-11-19,Citadel,Southern,John Sauer,A,Florida State,Ind,Thomas Nugent,L,0,39
+1955-09-24,Oklahoma,Big 7,Bud Wilkinson,A,North Carolina,ACC,George Barclay,W,13,6
+1955-10-01,Oklahoma,Big 7,Bud Wilkinson,H,Pitt,Ind,John Michelosen,W,26,14
+1955-10-08,Oklahoma,Big 7,Bud Wilkinson,N,Texas,SWC,Edwin Price,W,20,0
+1955-10-15,Oklahoma,Big 7,Bud Wilkinson,H,Kansas,Big 7,Chuck Mather,W,44,6
+1955-10-22,Oklahoma,Big 7,Bud Wilkinson,H,Colorado,Big 7,Dallas Ward,W,56,21
+1955-10-29,Oklahoma,Big 7,Bud Wilkinson,A,Kansas State,Big 7,Bernard Mertes,W,40,7
+1955-11-05,Oklahoma,Big 7,Bud Wilkinson,A,Missouri,Big 7,Don Faurot,W,20,0
+1955-11-12,Oklahoma,Big 7,Bud Wilkinson,H,Iowa State,Big 7,Vince Di Francesca,W,52,0
+1955-11-19,Oklahoma,Big 7,Bud Wilkinson,A,Nebraska,Big 7,William Glassford,W,41,0
+1955-11-26,Oklahoma,Big 7,Bud Wilkinson,H,Oklahoma State,MVC,Cliff Speegle,W,53,0
+1956-01-02,Oklahoma,Big 7,Bud Wilkinson,N,Maryland,ACC,Jim Tatum,W,20,6
+1955-09-17,Virginia Tech,Southern,Frank Moseley,A,Wake Forest,ACC,Tom Rogers,L,0,13
+1955-09-24,Virginia Tech,Southern,Frank Moseley,A,Pennsylvania,Ind,Steve Sebo,W,33,0
+1955-10-01,Virginia Tech,Southern,Frank Moseley,A,William & Mary,Southern,Jackie Freeman,W,14,7
+1955-10-08,Virginia Tech,Southern,Frank Moseley,A,Florida State,Ind,Thomas Nugent,W,24,20
+1955-10-15,Virginia Tech,Southern,Frank Moseley,H,Richmond,Southern,Edwin Merrick,T,7,7
+1955-10-22,Virginia Tech,Southern,Frank Moseley,N,Virginia,ACC,Ned McDonald,W,17,13
+1955-10-29,Virginia Tech,Southern,Frank Moseley,H,George Washington,Southern,Bo Sherman,L,7,13
+1955-11-05,Virginia Tech,Southern,Frank Moseley,H,Clemson,ACC,Frank Howard,L,16,21
+1955-11-12,Virginia Tech,Southern,Frank Moseley,H,North Carolina State,ACC,Earle Edwards,W,34,26
+1955-11-24,Virginia Tech,Southern,Frank Moseley,N,Virginia Military Institute,Southern,John McKenna,W,39,13
+1955-09-17,Arkansas,SWC,Jack Mitchell,H,Tulsa,MVC,Robert Dobbs,W,21,6
+1955-09-24,Arkansas,SWC,Jack Mitchell,H,Oklahoma State,MVC,Cliff Speegle,W,21,0
+1955-10-01,Arkansas,SWC,Jack Mitchell,H,Texas Christian,SWC,Abe Martin,L,0,26
+1955-10-08,Arkansas,SWC,Jack Mitchell,A,Baylor,SWC,George Sauer,L,20,25
+1955-10-15,Arkansas,SWC,Jack Mitchell,H,Texas,SWC,Edwin Price,W,27,20
+1955-10-22,Arkansas,SWC,Jack Mitchell,A,Ole Miss,SEC,John Vaught,L,7,17
+1955-10-29,Arkansas,SWC,Jack Mitchell,H,Texas A&M,SWC,Bear Bryant,T,7,7
+1955-11-05,Arkansas,SWC,Jack Mitchell,A,Rice,SWC,Jess Neely,W,10,0
+1955-11-12,Arkansas,SWC,Jack Mitchell,A,SMU,SWC,Chalmer Woodward,W,6,0
+1955-11-19,Arkansas,SWC,Jack Mitchell,H,LSU,SEC,Paul Dietzel,L,7,13
+1955-09-24,Clemson,ACC,Frank Howard,A,Virginia,ACC,Ned McDonald,W,20,7
+1955-10-01,Clemson,ACC,Frank Howard,H,Georgia,SEC,Wallace Butts,W,26,7
+1955-10-08,Clemson,ACC,Frank Howard,A,Rice,SWC,Jess Neely,L,7,21
+1955-10-20,Clemson,ACC,Frank Howard,A,South Carolina,ACC,Rex Enright,W,28,14
+1955-10-29,Clemson,ACC,Frank Howard,H,Wake Forest,ACC,Tom Rogers,W,19,13
+1955-11-05,Clemson,ACC,Frank Howard,A,Virginia Tech,Southern,Frank Moseley,W,21,16
+1955-11-12,Clemson,ACC,Frank Howard,H,Maryland,ACC,Jim Tatum,L,12,25
+1955-11-19,Clemson,ACC,Frank Howard,A,Auburn,SEC,Ralph Jordan,L,0,21
+1955-11-26,Clemson,ACC,Frank Howard,A,Furman,Southern,Homer Hobbs,W,40,20
+1955-09-24,South Carolina,ACC,Rex Enright,A,Wake Forest,ACC,Tom Rogers,L,19,34
+1955-10-01,South Carolina,ACC,Rex Enright,H,Navy,Ind,Eddie Erdelatz,L,0,26
+1955-10-08,South Carolina,ACC,Rex Enright,H,Furman,Southern,Homer Hobbs,W,19,0
+1955-10-20,South Carolina,ACC,Rex Enright,H,Clemson,ACC,Frank Howard,L,14,28
+1955-10-29,South Carolina,ACC,Rex Enright,A,Maryland,ACC,Jim Tatum,L,0,27
+1955-11-05,South Carolina,ACC,Rex Enright,A,North Carolina,ACC,George Barclay,L,14,32
+1955-11-12,South Carolina,ACC,Rex Enright,H,Duke,ACC,Bill Murray,L,7,41
+1955-11-26,South Carolina,ACC,Rex Enright,A,Virginia,ACC,Ned McDonald,W,21,14
+1955-09-17,Washington,PCC,John Cherberg,H,Idaho,PCC,Skip Stahley,W,14,7
+1955-09-24,Washington,PCC,John Cherberg,A,Minnesota,Big Ten,Murray Warmath,W,30,0
+1955-10-01,Washington,PCC,John Cherberg,A,Oregon,PCC,Len Casanova,W,19,7
+1955-10-08,Washington,PCC,John Cherberg,H,USC,PCC,Jess Hill,W,7,0
+1955-10-15,Washington,PCC,John Cherberg,H,Baylor,SWC,George Sauer,L,7,13
+1955-10-22,Washington,PCC,John Cherberg,H,Stanford,PCC,Chuck Taylor,T,7,7
+1955-10-29,Washington,PCC,John Cherberg,H,Oregon State,PCC,Tommy Prothro,L,7,13
+1955-11-05,Washington,PCC,John Cherberg,A,California,PCC,Pappy Waldorf,L,6,20
+1955-11-12,Washington,PCC,John Cherberg,A,UCLA,PCC,Red Sanders,L,17,19
+1955-11-19,Washington,PCC,John Cherberg,H,Washington State,PCC,Alton Kircher,W,27,7
+1955-10-01,Holy Cross,Ind,Edward Anderson,A,Dartmouth,Ind,Bob Blackman,W,29,21
+1955-10-08,Holy Cross,Ind,Edward Anderson,A,Colgate,Ind,Hal Lahar,W,15,14
+1955-10-22,Holy Cross,Ind,Edward Anderson,H,Boston University,Ind,Aldo Donelli,W,20,12
+1955-10-29,Holy Cross,Ind,Edward Anderson,H,Syracuse,Ind,Ben Schwartzwalder,L,9,49
+1955-11-12,Holy Cross,Ind,Edward Anderson,A,Marquette,Ind,Frosty Ferzacca,L,6,18
+1955-11-26,Holy Cross,Ind,Edward Anderson,N,Boston College,Ind,Mike Holovak,L,7,26
+1955-09-16,Utah State,Skyline,Everett Faunce,H,San Jose State,Ind,Robert Bronzan,L,0,13
+1955-09-24,Utah State,Skyline,Everett Faunce,A,Wichita State,MVC,Pete Tillman,L,0,19
+1955-10-01,Utah State,Skyline,Everett Faunce,A,Wyoming,Skyline,Phil Dickens,L,13,21
+1955-10-08,Utah State,Skyline,Everett Faunce,H,New Mexico,Skyline,Robert Titchenal,W,18,0
+1955-10-15,Utah State,Skyline,Everett Faunce,H,Montana,Skyline,Jerry Williams,W,32,6
+1955-10-22,Utah State,Skyline,Everett Faunce,A,Colorado State,Skyline,Robert Davis,L,9,26
+1955-11-05,Utah State,Skyline,Everett Faunce,A,Brigham Young,Skyline,Charles Atkinson,W,47,21
+1955-11-12,Utah State,Skyline,Everett Faunce,A,Denver,Skyline,John Roning,L,6,39
+1955-11-24,Utah State,Skyline,Everett Faunce,A,Utah,Skyline,Jack Curtice,L,13,14
+1955-09-17,Missouri,Big 7,Don Faurot,H,Maryland,ACC,Jim Tatum,L,12,13
+1955-09-24,Missouri,Big 7,Don Faurot,A,Michigan,Big Ten,Bennie Oosterbaan,L,7,42
+1955-10-01,Missouri,Big 7,Don Faurot,H,Utah,Skyline,Jack Curtice,L,14,20
+1955-10-07,Missouri,Big 7,Don Faurot,A,SMU,SWC,Chalmer Woodward,L,6,13
+1955-10-15,Missouri,Big 7,Don Faurot,A,Iowa State,Big 7,Vince Di Francesca,L,14,20
+1955-10-22,Missouri,Big 7,Don Faurot,H,Nebraska,Big 7,William Glassford,L,12,18
+1955-10-29,Missouri,Big 7,Don Faurot,A,Colorado,Big 7,Dallas Ward,W,20,12
+1955-11-05,Missouri,Big 7,Don Faurot,H,Oklahoma,Big 7,Bud Wilkinson,L,0,20
+1955-11-12,Missouri,Big 7,Don Faurot,H,Kansas State,Big 7,Bernard Mertes,L,0,21
+1955-11-19,Missouri,Big 7,Don Faurot,A,Kansas,Big 7,Chuck Mather,L,7,13
+1955-09-16,San Jose State,Ind,Robert Bronzan,A,Utah State,Skyline,Everett Faunce,W,13,0
+1955-10-08,San Jose State,Ind,Robert Bronzan,H,Arizona State,BIAA,Dan Devine,W,27,20
+1955-10-15,San Jose State,Ind,Robert Bronzan,A,New Mexico,Skyline,Robert Titchenal,W,14,0
+1955-10-22,San Jose State,Ind,Robert Bronzan,H,Pacific,Ind,Moose Myers,L,7,14
+1955-10-29,San Jose State,Ind,Robert Bronzan,A,Stanford,PCC,Chuck Taylor,L,18,34
+1955-11-12,San Jose State,Ind,Robert Bronzan,A,Washington State,PCC,Alton Kircher,T,13,13
+1955-09-17,Hardin-Simmons,BIAA,Sammy Baugh,A,Baylor,SWC,George Sauer,L,7,35
+1955-09-24,Hardin-Simmons,BIAA,Sammy Baugh,A,Tulsa,MVC,Robert Dobbs,L,19,41
+1955-10-01,Hardin-Simmons,BIAA,Sammy Baugh,H,New Mexico State,BIAA,Tony Cavallo,W,39,0
+1955-10-15,Hardin-Simmons,BIAA,Sammy Baugh,N,North Texas,Ind,Odus Mitchell,L,19,30
+1955-10-22,Hardin-Simmons,BIAA,Sammy Baugh,A,West Texas A&M,BIAA,Frank Kimbrough,W,19,18
+1955-10-29,Hardin-Simmons,BIAA,Sammy Baugh,A,Arizona State,BIAA,Dan Devine,L,14,69
+1955-11-04,Hardin-Simmons,BIAA,Sammy Baugh,H,UTEP,BIAA,Mike Brumbelow,W,23,21
+1955-11-12,Hardin-Simmons,BIAA,Sammy Baugh,A,Cincinnati,Ind,George Blackburn,W,53,20
+1955-11-26,Hardin-Simmons,BIAA,Sammy Baugh,A,Texas Tech,BIAA,DeWitt Weaver,L,14,16
+1955-09-17,Denver,Skyline,John Roning,A,Iowa State,Big 7,Vince Di Francesca,W,19,7
+1955-09-23,Denver,Skyline,John Roning,H,Drake,Ind,Warren Gaer,W,33,7
+1955-10-01,Denver,Skyline,John Roning,A,Colorado State,Skyline,Robert Davis,L,19,20
+1955-10-08,Denver,Skyline,John Roning,A,Montana,Skyline,Jerry Williams,W,61,13
+1955-10-14,Denver,Skyline,John Roning,H,Utah,Skyline,Jack Curtice,L,7,27
+1955-10-21,Denver,Skyline,John Roning,H,Brigham Young,Skyline,Charles Atkinson,W,33,0
+1955-10-29,Denver,Skyline,John Roning,A,New Mexico,Skyline,Robert Titchenal,W,33,6
+1955-11-12,Denver,Skyline,John Roning,H,Utah State,Skyline,Everett Faunce,W,39,6
+1955-11-24,Denver,Skyline,John Roning,H,Wyoming,Skyline,Phil Dickens,W,6,3
+1955-09-24,Wisconsin,Big Ten,Ivy Williamson,H,Marquette,Ind,Frosty Ferzacca,W,28,14
+1955-10-01,Wisconsin,Big Ten,Ivy Williamson,H,Iowa,Big Ten,Forest Evashevski,W,37,14
+1955-10-08,Wisconsin,Big Ten,Ivy Williamson,A,Purdue,Big Ten,Stuart Holcomb,W,9,0
+1955-10-14,Wisconsin,Big Ten,Ivy Williamson,A,USC,PCC,Jess Hill,L,21,33
+1955-10-22,Wisconsin,Big Ten,Ivy Williamson,H,Ohio State,Big Ten,Woody Hayes,L,16,26
+1955-10-29,Wisconsin,Big Ten,Ivy Williamson,H,Michigan State,Big Ten,Duffy Daugherty,L,0,27
+1955-11-05,Wisconsin,Big Ten,Ivy Williamson,A,Northwestern,Big Ten,Lou Saban,W,41,14
+1955-11-12,Wisconsin,Big Ten,Ivy Williamson,H,Illinois,Big Ten,Ray Eliot,L,14,17
+1955-11-19,Wisconsin,Big Ten,Ivy Williamson,A,Minnesota,Big Ten,Murray Warmath,L,6,21
+1955-09-17,USC,PCC,Jess Hill,H,Washington State,PCC,Alton Kircher,W,50,12
+1955-09-23,USC,PCC,Jess Hill,H,Oregon,PCC,Len Casanova,W,42,15
+1955-09-30,USC,PCC,Jess Hill,H,Texas,SWC,Edwin Price,W,19,7
+1955-10-08,USC,PCC,Jess Hill,A,Washington,PCC,John Cherberg,L,0,7
+1955-10-14,USC,PCC,Jess Hill,H,Wisconsin,Big Ten,Ivy Williamson,W,33,21
+1955-10-22,USC,PCC,Jess Hill,A,California,PCC,Pappy Waldorf,W,33,6
+1955-10-29,USC,PCC,Jess Hill,A,Minnesota,Big Ten,Murray Warmath,L,19,25
+1955-11-05,USC,PCC,Jess Hill,H,Stanford,PCC,Chuck Taylor,L,20,28
+1955-11-19,USC,PCC,Jess Hill,H,UCLA,PCC,Red Sanders,L,7,17
+1955-11-26,USC,PCC,Jess Hill,H,Notre Dame,Ind,Terry Brennan,W,42,20
+1955-09-17,North Carolina State,ACC,Earle Edwards,A,Florida State,Ind,Thomas Nugent,L,0,7
+1955-09-24,North Carolina State,ACC,Earle Edwards,H,Duke,ACC,Bill Murray,L,7,33
+1955-10-01,North Carolina State,ACC,Earle Edwards,H,North Carolina,ACC,George Barclay,L,18,25
+1955-10-15,North Carolina State,ACC,Earle Edwards,H,Wake Forest,ACC,Tom Rogers,T,13,13
+1955-10-22,North Carolina State,ACC,Earle Edwards,A,Villanova,Ind,Francis Reagan,W,34,13
+1955-10-29,North Carolina State,ACC,Earle Edwards,A,Furman,Southern,Homer Hobbs,W,33,7
+1955-11-05,North Carolina State,ACC,Earle Edwards,A,Boston University,Ind,Aldo Donelli,W,40,13
+1955-11-12,North Carolina State,ACC,Earle Edwards,A,Virginia Tech,Southern,Frank Moseley,L,26,34
+1955-11-19,North Carolina State,ACC,Earle Edwards,H,William & Mary,Southern,Jackie Freeman,W,28,21
+1955-11-25,North Carolina State,ACC,Earle Edwards,H,West Virginia,Southern,Art Lewis,L,7,27
+1955-09-24,Rutgers,Ind,Harvey Harman,A,Princeton,Ind,Charles Caldwell,L,7,41
+1955-10-15,Rutgers,Ind,Harvey Harman,A,Brown,Ind,Alva Kelley,W,14,12
+1955-11-12,Rutgers,Ind,Harvey Harman,H,Penn State,Ind,Rip Engle,L,13,34
+1955-11-19,Rutgers,Ind,Harvey Harman,A,Columbia,Ind,Lou Little,W,12,6
+1955-09-24,Michigan,Big Ten,Bennie Oosterbaan,H,Missouri,Big 7,Don Faurot,W,42,7
+1955-10-01,Michigan,Big Ten,Bennie Oosterbaan,H,Michigan State,Big Ten,Duffy Daugherty,W,14,7
+1955-10-08,Michigan,Big Ten,Bennie Oosterbaan,H,Army,Ind,Red Blaik,W,26,2
+1955-10-15,Michigan,Big Ten,Bennie Oosterbaan,H,Northwestern,Big Ten,Lou Saban,W,14,2
+1955-10-22,Michigan,Big Ten,Bennie Oosterbaan,A,Minnesota,Big Ten,Murray Warmath,W,14,13
+1955-10-29,Michigan,Big Ten,Bennie Oosterbaan,H,Iowa,Big Ten,Forest Evashevski,W,33,21
+1955-11-05,Michigan,Big Ten,Bennie Oosterbaan,A,Illinois,Big Ten,Ray Eliot,L,6,25
+1955-11-12,Michigan,Big Ten,Bennie Oosterbaan,H,Indiana,Big Ten,Bernie Crimmins,W,30,0
+1955-11-19,Michigan,Big Ten,Bennie Oosterbaan,H,Ohio State,Big Ten,Woody Hayes,L,0,17
+1955-09-30,Detroit Mercy,MVC,Wally Fromhart,H,Wichita State,MVC,Pete Tillman,W,41,0
+1955-10-07,Detroit Mercy,MVC,Wally Fromhart,H,Houston,MVC,Bill Meek,L,0,7
+1955-10-15,Detroit Mercy,MVC,Wally Fromhart,A,Boston College,Ind,Mike Holovak,L,0,23
+1955-10-21,Detroit Mercy,MVC,Wally Fromhart,H,Oklahoma State,MVC,Cliff Speegle,W,7,0
+1955-10-29,Detroit Mercy,MVC,Wally Fromhart,A,Cincinnati,Ind,George Blackburn,T,0,0
+1955-11-05,Detroit Mercy,MVC,Wally Fromhart,A,Marquette,Ind,Frosty Ferzacca,W,20,7
+1955-11-11,Detroit Mercy,MVC,Wally Fromhart,H,Villanova,Ind,Francis Reagan,W,6,0
+1955-11-19,Detroit Mercy,MVC,Wally Fromhart,A,Tulsa,MVC,Robert Dobbs,W,19,13
+1955-09-17,New Mexico,Skyline,Robert Titchenal,H,New Mexico State,BIAA,Tony Cavallo,W,14,7
+1955-09-24,New Mexico,Skyline,Robert Titchenal,A,Colorado State,Skyline,Robert Davis,L,0,25
+1955-10-01,New Mexico,Skyline,Robert Titchenal,H,UTEP,BIAA,Mike Brumbelow,L,0,34
+1955-10-08,New Mexico,Skyline,Robert Titchenal,A,Utah State,Skyline,Everett Faunce,L,0,18
+1955-10-15,New Mexico,Skyline,Robert Titchenal,H,San Jose State,Ind,Robert Bronzan,L,0,14
+1955-10-22,New Mexico,Skyline,Robert Titchenal,A,Montana,Skyline,Jerry Williams,L,14,19
+1955-10-29,New Mexico,Skyline,Robert Titchenal,H,Denver,Skyline,John Roning,L,6,33
+1955-11-12,New Mexico,Skyline,Robert Titchenal,H,Wyoming,Skyline,Phil Dickens,L,0,20
+1955-11-19,New Mexico,Skyline,Robert Titchenal,A,Arizona,BIAA,Warren Woodson,L,6,27
+1955-11-26,New Mexico,Skyline,Robert Titchenal,H,Brigham Young,Skyline,Charles Atkinson,W,21,16
+1955-09-17,Pacific,Ind,Moose Myers,A,Stanford,PCC,Chuck Taylor,L,14,33
+1955-09-24,Pacific,Ind,Moose Myers,A,Purdue,Big Ten,Stuart Holcomb,L,7,14
+1955-10-01,Pacific,Ind,Moose Myers,H,Cincinnati,Ind,George Blackburn,W,27,13
+1955-10-08,Pacific,Ind,Moose Myers,A,Idaho,PCC,Skip Stahley,W,20,0
+1955-10-15,Pacific,Ind,Moose Myers,H,Oregon State,PCC,Tommy Prothro,W,13,7
+1955-10-22,Pacific,Ind,Moose Myers,A,San Jose State,Ind,Robert Bronzan,W,14,7
+1955-10-29,Pacific,Ind,Moose Myers,H,Washington State,PCC,Alton Kircher,W,30,0
+1955-11-05,Pacific,Ind,Moose Myers,H,UCLA,PCC,Red Sanders,L,0,34
+1955-11-19,Pacific,Ind,Moose Myers,A,Texas Tech,BIAA,DeWitt Weaver,L,7,13
+1955-09-24,Notre Dame,Ind,Terry Brennan,H,SMU,SWC,Chalmer Woodward,W,17,0
+1955-10-01,Notre Dame,Ind,Terry Brennan,H,Indiana,Big Ten,Bernie Crimmins,W,19,0
+1955-10-07,Notre Dame,Ind,Terry Brennan,A,Miami (FL),Ind,Andy Gustafson,W,14,0
+1955-10-15,Notre Dame,Ind,Terry Brennan,A,Michigan State,Big Ten,Duffy Daugherty,L,7,21
+1955-10-22,Notre Dame,Ind,Terry Brennan,A,Purdue,Big Ten,Stuart Holcomb,W,22,7
+1955-10-29,Notre Dame,Ind,Terry Brennan,H,Navy,Ind,Eddie Erdelatz,W,21,7
+1955-11-05,Notre Dame,Ind,Terry Brennan,A,Pennsylvania,Ind,Steve Sebo,W,46,14
+1955-11-12,Notre Dame,Ind,Terry Brennan,A,North Carolina,ACC,George Barclay,W,27,7
+1955-11-19,Notre Dame,Ind,Terry Brennan,H,Iowa,Big Ten,Forest Evashevski,W,17,14
+1955-11-26,Notre Dame,Ind,Terry Brennan,A,USC,PCC,Jess Hill,L,20,42
+1955-09-17,Pitt,Ind,John Michelosen,H,California,PCC,Pappy Waldorf,W,27,7
+1955-09-24,Pitt,Ind,John Michelosen,A,Syracuse,Ind,Ben Schwartzwalder,W,22,12
+1955-10-01,Pitt,Ind,John Michelosen,A,Oklahoma,Big 7,Bud Wilkinson,L,14,26
+1955-10-08,Pitt,Ind,John Michelosen,A,Navy,Ind,Eddie Erdelatz,L,0,21
+1955-10-15,Pitt,Ind,John Michelosen,H,Nebraska,Big 7,William Glassford,W,21,7
+1955-10-22,Pitt,Ind,John Michelosen,A,Duke,ACC,Bill Murray,W,26,7
+1955-10-29,Pitt,Ind,John Michelosen,H,Miami (FL),Ind,Andy Gustafson,L,7,21
+1955-11-05,Pitt,Ind,John Michelosen,H,Virginia,ACC,Ned McDonald,W,18,7
+1955-11-12,Pitt,Ind,John Michelosen,H,West Virginia,Southern,Art Lewis,W,26,7
+1955-11-19,Pitt,Ind,John Michelosen,A,Penn State,Ind,Rip Engle,W,20,0
+1956-01-02,Pitt,Ind,John Michelosen,N,Georgia Tech,SEC,Bobby Dodd,L,0,7
+1955-10-08,West Texas A&M,BIAA,Frank Kimbrough,A,Arizona,BIAA,Warren Woodson,T,20,20
+1955-10-15,West Texas A&M,BIAA,Frank Kimbrough,A,New Mexico State,BIAA,Tony Cavallo,W,32,6
+1955-10-22,West Texas A&M,BIAA,Frank Kimbrough,H,Hardin-Simmons,BIAA,Sammy Baugh,L,18,19
+1955-10-29,West Texas A&M,BIAA,Frank Kimbrough,A,Texas Tech,BIAA,DeWitt Weaver,L,24,27
+1955-11-05,West Texas A&M,BIAA,Frank Kimbrough,A,Arizona State,BIAA,Dan Devine,L,7,27
+1955-11-19,West Texas A&M,BIAA,Frank Kimbrough,A,UTEP,BIAA,Mike Brumbelow,L,6,13
+1955-09-24,George Washington,Southern,Bo Sherman,A,Virginia Military Institute,Southern,John McKenna,W,25,6
+1955-10-01,George Washington,Southern,Bo Sherman,A,Virginia,ACC,Ned McDonald,W,13,0
+1955-10-08,George Washington,Southern,Bo Sherman,A,Florida,SEC,Bob Woodruff,L,0,28
+1955-10-15,George Washington,Southern,Bo Sherman,A,Pennsylvania,Ind,Steve Sebo,W,25,6
+1955-10-22,George Washington,Southern,Bo Sherman,A,William & Mary,Southern,Jackie Freeman,W,16,0
+1955-10-29,George Washington,Southern,Bo Sherman,A,Virginia Tech,Southern,Frank Moseley,W,13,7
+1955-11-04,George Washington,Southern,Bo Sherman,H,West Virginia,Southern,Art Lewis,L,7,13
+1955-11-12,George Washington,Southern,Bo Sherman,A,Richmond,Southern,Edwin Merrick,L,0,7
+1955-11-19,George Washington,Southern,Bo Sherman,A,Maryland,ACC,Jim Tatum,L,0,19
+1955-09-24,North Texas,Ind,Odus Mitchell,A,UTEP,BIAA,Mike Brumbelow,T,7,7
+1955-10-01,North Texas,Ind,Odus Mitchell,A,Ole Miss,SEC,John Vaught,L,0,33
+1955-10-15,North Texas,Ind,Odus Mitchell,N,Hardin-Simmons,BIAA,Sammy Baugh,W,30,19
+1955-10-29,North Texas,Ind,Odus Mitchell,A,Mississippi State,SEC,Darrell Royal,L,7,20
+1955-09-17,Wyoming,Skyline,Phil Dickens,A,Kansas State,Big 7,Bernard Mertes,W,38,20
+1955-09-24,Wyoming,Skyline,Phil Dickens,N,Montana,Skyline,Jerry Williams,W,35,6
+1955-10-01,Wyoming,Skyline,Phil Dickens,H,Utah State,Skyline,Everett Faunce,W,21,13
+1955-10-08,Wyoming,Skyline,Phil Dickens,H,Colorado State,Skyline,Robert Davis,L,13,14
+1955-10-15,Wyoming,Skyline,Phil Dickens,H,Tulsa,MVC,Robert Dobbs,W,23,19
+1955-10-22,Wyoming,Skyline,Phil Dickens,A,Utah,Skyline,Jack Curtice,W,23,13
+1955-10-29,Wyoming,Skyline,Phil Dickens,H,Brigham Young,Skyline,Charles Atkinson,W,14,6
+1955-11-12,Wyoming,Skyline,Phil Dickens,A,New Mexico,Skyline,Robert Titchenal,W,20,0
+1955-11-24,Wyoming,Skyline,Phil Dickens,A,Denver,Skyline,John Roning,L,3,6
+1955-12-03,Wyoming,Skyline,Phil Dickens,A,Houston,MVC,Bill Meek,L,14,26
+1956-01-02,Wyoming,Skyline,Phil Dickens,N,Texas Tech,BIAA,DeWitt Weaver,W,21,14
+1955-09-17,Brigham Young,Skyline,Charles Atkinson,A,Oregon State,PCC,Tommy Prothro,L,0,33
+1955-10-01,Brigham Young,Skyline,Charles Atkinson,A,Montana,Skyline,Jerry Williams,L,13,27
+1955-10-08,Brigham Young,Skyline,Charles Atkinson,A,Utah,Skyline,Jack Curtice,L,9,41
+1955-10-21,Brigham Young,Skyline,Charles Atkinson,A,Denver,Skyline,John Roning,L,0,33
+1955-10-29,Brigham Young,Skyline,Charles Atkinson,A,Wyoming,Skyline,Phil Dickens,L,6,14
+1955-11-05,Brigham Young,Skyline,Charles Atkinson,H,Utah State,Skyline,Everett Faunce,L,21,47
+1955-11-11,Brigham Young,Skyline,Charles Atkinson,H,Idaho,PCC,Skip Stahley,L,6,49
+1955-11-19,Brigham Young,Skyline,Charles Atkinson,H,Colorado State,Skyline,Robert Davis,L,0,35
+1955-11-26,Brigham Young,Skyline,Charles Atkinson,A,New Mexico,Skyline,Robert Titchenal,L,16,21
+1955-10-01,Yale,Ind,Jordan Olivar,H,Brown,Ind,Alva Kelley,W,27,20
+1955-10-08,Yale,Ind,Jordan Olivar,H,Columbia,Ind,Lou Little,W,46,14
+1955-10-15,Yale,Ind,Jordan Olivar,H,Cornell,Ind,George James,W,34,6
+1955-10-22,Yale,Ind,Jordan Olivar,H,Colgate,Ind,Hal Lahar,L,0,7
+1955-10-29,Yale,Ind,Jordan Olivar,H,Dartmouth,Ind,Bob Blackman,W,20,0
+1955-11-05,Yale,Ind,Jordan Olivar,H,Army,Ind,Red Blaik,W,14,12
+1955-11-12,Yale,Ind,Jordan Olivar,A,Princeton,Ind,Charles Caldwell,L,0,13
+1955-11-19,Yale,Ind,Jordan Olivar,H,Harvard,Ind,Lloyd Jordan,W,21,7
+1955-09-17,Georgia Tech,SEC,Bobby Dodd,H,Miami (FL),Ind,Andy Gustafson,W,14,6
+1955-09-24,Georgia Tech,SEC,Bobby Dodd,A,Florida,SEC,Bob Woodruff,W,14,7
+1955-10-01,Georgia Tech,SEC,Bobby Dodd,H,SMU,SWC,Chalmer Woodward,W,20,7
+1955-10-08,Georgia Tech,SEC,Bobby Dodd,A,LSU,SEC,Paul Dietzel,W,7,0
+1955-10-15,Georgia Tech,SEC,Bobby Dodd,H,Auburn,SEC,Ralph Jordan,L,12,14
+1955-10-22,Georgia Tech,SEC,Bobby Dodd,H,Florida State,Ind,Thomas Nugent,W,34,0
+1955-10-29,Georgia Tech,SEC,Bobby Dodd,H,Duke,ACC,Bill Murray,W,27,0
+1955-11-05,Georgia Tech,SEC,Bobby Dodd,A,Tennessee,SEC,Bowden Wyatt,T,7,7
+1955-11-12,Georgia Tech,SEC,Bobby Dodd,A,Alabama,SEC,Jennings Whitworth,W,26,2
+1955-11-26,Georgia Tech,SEC,Bobby Dodd,H,Georgia,SEC,Wallace Butts,W,21,3
+1956-01-02,Georgia Tech,SEC,Bobby Dodd,N,Pitt,Ind,John Michelosen,W,7,0
+1955-09-17,Wake Forest,ACC,Tom Rogers,H,Virginia Tech,Southern,Frank Moseley,W,13,0
+1955-09-24,Wake Forest,ACC,Tom Rogers,H,South Carolina,ACC,Rex Enright,W,34,19
+1955-10-01,Wake Forest,ACC,Tom Rogers,A,West Virginia,Southern,Art Lewis,L,0,46
+1955-10-08,Wake Forest,ACC,Tom Rogers,A,Maryland,ACC,Jim Tatum,L,7,28
+1955-10-15,Wake Forest,ACC,Tom Rogers,A,North Carolina State,ACC,Earle Edwards,T,13,13
+1955-10-22,Wake Forest,ACC,Tom Rogers,H,North Carolina,ACC,George Barclay,W,25,0
+1955-10-29,Wake Forest,ACC,Tom Rogers,A,Clemson,ACC,Frank Howard,L,13,19
+1955-11-05,Wake Forest,ACC,Tom Rogers,H,William & Mary,Southern,Jackie Freeman,W,13,7
+1955-11-12,Wake Forest,ACC,Tom Rogers,A,Virginia,ACC,Ned McDonald,W,13,7
+1955-11-19,Wake Forest,ACC,Tom Rogers,A,Duke,ACC,Bill Murray,L,0,14
+1955-09-17,Mississippi State,SEC,Darrell Royal,A,Florida,SEC,Bob Woodruff,L,14,20
+1955-09-24,Mississippi State,SEC,Darrell Royal,A,Tennessee,SEC,Bowden Wyatt,W,13,7
+1955-10-08,Mississippi State,SEC,Darrell Royal,H,Tulane,SEC,Andy Pilney,W,14,0
+1955-10-15,Mississippi State,SEC,Darrell Royal,A,Kentucky,SEC,Blanton Collier,W,20,14
+1955-10-22,Mississippi State,SEC,Darrell Royal,A,Alabama,SEC,Jennings Whitworth,W,26,7
+1955-10-29,Mississippi State,SEC,Darrell Royal,H,North Texas,Ind,Odus Mitchell,W,20,7
+1955-11-05,Mississippi State,SEC,Darrell Royal,A,Auburn,SEC,Ralph Jordan,L,26,27
+1955-11-12,Mississippi State,SEC,Darrell Royal,A,LSU,SEC,Paul Dietzel,L,7,34
+1955-11-26,Mississippi State,SEC,Darrell Royal,H,Ole Miss,SEC,John Vaught,L,0,26
+1955-09-17,Virginia Military Institute,Southern,John McKenna,A,Tulane,SEC,Andy Pilney,L,7,20
+1955-09-24,Virginia Military Institute,Southern,John McKenna,H,George Washington,Southern,Bo Sherman,L,6,25
+1955-10-01,Virginia Military Institute,Southern,John McKenna,H,Richmond,Southern,Edwin Merrick,L,0,21
+1955-10-08,Virginia Military Institute,Southern,John McKenna,N,West Virginia,Southern,Art Lewis,L,12,47
+1955-10-15,Virginia Military Institute,Southern,John McKenna,A,Virginia,ACC,Ned McDonald,L,13,20
+1955-10-22,Virginia Military Institute,Southern,John McKenna,H,Davidson,Southern,,L,7,21
+1955-10-29,Virginia Military Institute,Southern,John McKenna,A,William & Mary,Southern,Jackie Freeman,L,13,20
+1955-11-12,Virginia Military Institute,Southern,John McKenna,A,Citadel,Southern,John Sauer,W,14,7
+1955-11-24,Virginia Military Institute,Southern,John McKenna,N,Virginia Tech,Southern,Frank Moseley,L,13,39
+1955-09-17,Kansas State,Big 7,Bernard Mertes,H,Wyoming,Skyline,Phil Dickens,L,20,38
+1955-09-24,Kansas State,Big 7,Bernard Mertes,A,Iowa,Big Ten,Forest Evashevski,L,7,28
+1955-10-01,Kansas State,Big 7,Bernard Mertes,H,Nebraska,Big 7,William Glassford,L,0,16
+1955-10-08,Kansas State,Big 7,Bernard Mertes,A,Marquette,Ind,Frosty Ferzacca,W,42,0
+1955-10-15,Kansas State,Big 7,Bernard Mertes,H,Colorado,Big 7,Dallas Ward,L,13,34
+1955-10-22,Kansas State,Big 7,Bernard Mertes,A,Iowa State,Big 7,Vince Di Francesca,W,9,7
+1955-10-29,Kansas State,Big 7,Bernard Mertes,H,Oklahoma,Big 7,Bud Wilkinson,L,7,40
+1955-11-05,Kansas State,Big 7,Bernard Mertes,A,Kansas,Big 7,Chuck Mather,W,46,0
+1955-11-12,Kansas State,Big 7,Bernard Mertes,A,Missouri,Big 7,Don Faurot,W,21,0
+1955-11-19,Kansas State,Big 7,Bernard Mertes,A,Oklahoma State,MVC,Cliff Speegle,L,0,28
+1955-09-24,Army,Ind,Red Blaik,H,Furman,Southern,Homer Hobbs,W,81,0
+1955-10-01,Army,Ind,Red Blaik,H,Penn State,Ind,Rip Engle,W,35,6
+1955-10-08,Army,Ind,Red Blaik,A,Michigan,Big Ten,Bennie Oosterbaan,L,2,26
+1955-10-15,Army,Ind,Red Blaik,H,Syracuse,Ind,Ben Schwartzwalder,L,0,13
+1955-10-22,Army,Ind,Red Blaik,H,Columbia,Ind,Lou Little,W,45,0
+1955-10-29,Army,Ind,Red Blaik,H,Colgate,Ind,Hal Lahar,W,27,7
+1955-11-05,Army,Ind,Red Blaik,A,Yale,Ind,Jordan Olivar,L,12,14
+1955-11-12,Army,Ind,Red Blaik,A,Pennsylvania,Ind,Steve Sebo,W,40,0
+1955-11-26,Army,Ind,Red Blaik,N,Navy,Ind,Eddie Erdelatz,W,14,6
+1955-09-24,Marquette,Ind,Frosty Ferzacca,A,Wisconsin,Big Ten,Ivy Williamson,L,14,28
+1955-10-01,Marquette,Ind,Frosty Ferzacca,H,Tulsa,MVC,Robert Dobbs,W,13,0
+1955-10-08,Marquette,Ind,Frosty Ferzacca,H,Kansas State,Big 7,Bernard Mertes,L,0,42
+1955-10-15,Marquette,Ind,Frosty Ferzacca,A,Cincinnati,Ind,George Blackburn,L,12,13
+1955-10-21,Marquette,Ind,Frosty Ferzacca,A,Boston College,Ind,Mike Holovak,T,13,13
+1955-10-29,Marquette,Ind,Frosty Ferzacca,H,West Virginia,Southern,Art Lewis,L,0,39
+1955-11-05,Marquette,Ind,Frosty Ferzacca,H,Detroit Mercy,MVC,Wally Fromhart,L,7,20
+1955-11-12,Marquette,Ind,Frosty Ferzacca,H,Holy Cross,Ind,Edward Anderson,W,18,6
+1955-11-19,Marquette,Ind,Frosty Ferzacca,A,Michigan State,Big Ten,Duffy Daugherty,L,0,33
+1955-09-24,Dartmouth,Ind,Bob Blackman,A,Colgate,Ind,Hal Lahar,L,20,21
+1955-10-01,Dartmouth,Ind,Bob Blackman,H,Holy Cross,Ind,Edward Anderson,L,21,29
+1955-10-08,Dartmouth,Ind,Bob Blackman,A,Brown,Ind,Alva Kelley,L,0,7
+1955-10-22,Dartmouth,Ind,Bob Blackman,H,Harvard,Ind,Lloyd Jordan,W,14,9
+1955-10-29,Dartmouth,Ind,Bob Blackman,A,Yale,Ind,Jordan Olivar,L,0,20
+1955-11-05,Dartmouth,Ind,Bob Blackman,A,Columbia,Ind,Lou Little,W,14,7
+1955-11-12,Dartmouth,Ind,Bob Blackman,H,Cornell,Ind,George James,W,7,0
+1955-11-19,Dartmouth,Ind,Bob Blackman,A,Princeton,Ind,Charles Caldwell,L,3,6
+1955-09-16,UCLA,PCC,Red Sanders,H,Texas A&M,SWC,Bear Bryant,W,21,0
+1955-09-24,UCLA,PCC,Red Sanders,A,Maryland,ACC,Jim Tatum,L,0,7
+1955-10-01,UCLA,PCC,Red Sanders,A,Washington State,PCC,Alton Kircher,W,55,0
+1955-10-07,UCLA,PCC,Red Sanders,H,Oregon State,PCC,Tommy Prothro,W,38,0
+1955-10-15,UCLA,PCC,Red Sanders,A,Stanford,PCC,Chuck Taylor,W,21,13
+1955-10-21,UCLA,PCC,Red Sanders,H,Iowa,Big Ten,Forest Evashevski,W,33,13
+1955-10-29,UCLA,PCC,Red Sanders,H,California,PCC,Pappy Waldorf,W,47,0
+1955-11-05,UCLA,PCC,Red Sanders,A,Pacific,Ind,Moose Myers,W,34,0
+1955-11-12,UCLA,PCC,Red Sanders,H,Washington,PCC,John Cherberg,W,19,17
+1955-11-19,UCLA,PCC,Red Sanders,A,USC,PCC,Jess Hill,W,17,7
+1956-01-02,UCLA,PCC,Red Sanders,H,Michigan State,Big Ten,Duffy Daugherty,L,14,17
+1955-10-01,Auburn,SEC,Ralph Jordan,H,Florida,SEC,Bob Woodruff,W,13,0
+1955-10-08,Auburn,SEC,Ralph Jordan,H,Kentucky,SEC,Blanton Collier,T,14,14
+1955-10-15,Auburn,SEC,Ralph Jordan,A,Georgia Tech,SEC,Bobby Dodd,W,14,12
+1955-10-22,Auburn,SEC,Ralph Jordan,H,Furman,Southern,Homer Hobbs,W,52,0
+1955-10-29,Auburn,SEC,Ralph Jordan,A,Tulane,SEC,Andy Pilney,L,13,27
+1955-11-05,Auburn,SEC,Ralph Jordan,H,Mississippi State,SEC,Darrell Royal,W,27,26
+1955-11-12,Auburn,SEC,Ralph Jordan,N,Georgia,SEC,Wallace Butts,W,16,13
+1955-11-19,Auburn,SEC,Ralph Jordan,H,Clemson,ACC,Frank Howard,W,21,0
+1955-11-26,Auburn,SEC,Ralph Jordan,N,Alabama,SEC,Jennings Whitworth,W,26,0
+1955-12-31,Auburn,SEC,Ralph Jordan,N,Vanderbilt,SEC,Arthur Guepe,L,13,25
+1955-10-01,Northwestern,Big Ten,Lou Saban,A,Tulane,SEC,Andy Pilney,L,0,21
+1955-10-08,Northwestern,Big Ten,Lou Saban,H,Minnesota,Big Ten,Murray Warmath,L,7,18
+1955-10-15,Northwestern,Big Ten,Lou Saban,A,Michigan,Big Ten,Bennie Oosterbaan,L,2,14
+1955-10-22,Northwestern,Big Ten,Lou Saban,H,Indiana,Big Ten,Bernie Crimmins,L,14,20
+1955-10-29,Northwestern,Big Ten,Lou Saban,A,Ohio State,Big Ten,Woody Hayes,L,0,49
+1955-11-05,Northwestern,Big Ten,Lou Saban,H,Wisconsin,Big Ten,Ivy Williamson,L,14,41
+1955-11-12,Northwestern,Big Ten,Lou Saban,A,Purdue,Big Ten,Stuart Holcomb,L,8,46
+1955-11-19,Northwestern,Big Ten,Lou Saban,H,Illinois,Big Ten,Ray Eliot,T,7,7
+1955-09-17,Kansas,Big 7,Chuck Mather,A,Texas Christian,SWC,Abe Martin,L,14,47
+1955-09-24,Kansas,Big 7,Chuck Mather,H,Washington State,PCC,Alton Kircher,W,13,0
+1955-10-01,Kansas,Big 7,Chuck Mather,A,Colorado,Big 7,Dallas Ward,L,0,12
+1955-10-08,Kansas,Big 7,Chuck Mather,H,Iowa State,Big 7,Vince Di Francesca,T,7,7
+1955-10-15,Kansas,Big 7,Chuck Mather,A,Oklahoma,Big 7,Bud Wilkinson,L,6,44
+1955-10-22,Kansas,Big 7,Chuck Mather,H,SMU,SWC,Chalmer Woodward,L,14,33
+1955-10-29,Kansas,Big 7,Chuck Mather,A,Nebraska,Big 7,William Glassford,L,14,19
+1955-11-05,Kansas,Big 7,Chuck Mather,H,Kansas State,Big 7,Bernard Mertes,L,0,46
+1955-11-12,Kansas,Big 7,Chuck Mather,H,Oklahoma State,MVC,Cliff Speegle,W,12,7
+1955-11-19,Kansas,Big 7,Chuck Mather,H,Missouri,Big 7,Don Faurot,W,13,7
+1955-09-24,William & Mary,Southern,Jackie Freeman,A,Navy,Ind,Eddie Erdelatz,L,0,7
+1955-10-01,William & Mary,Southern,Jackie Freeman,H,Virginia Tech,Southern,Frank Moseley,L,7,14
+1955-10-08,William & Mary,Southern,Jackie Freeman,A,Duke,ACC,Bill Murray,L,7,47
+1955-10-15,William & Mary,Southern,Jackie Freeman,A,West Virginia,Southern,Art Lewis,L,13,39
+1955-10-22,William & Mary,Southern,Jackie Freeman,H,George Washington,Southern,Bo Sherman,L,0,16
+1955-10-29,William & Mary,Southern,Jackie Freeman,H,Virginia Military Institute,Southern,John McKenna,W,20,13
+1955-11-05,William & Mary,Southern,Jackie Freeman,A,Wake Forest,ACC,Tom Rogers,L,7,13
+1955-11-19,William & Mary,Southern,Jackie Freeman,A,North Carolina State,ACC,Earle Edwards,L,21,28
+1955-11-24,William & Mary,Southern,Jackie Freeman,A,Richmond,Southern,Edwin Merrick,T,6,6
+1955-09-24,UTEP,BIAA,Mike Brumbelow,H,North Texas,Ind,Odus Mitchell,T,7,7
+1955-10-01,UTEP,BIAA,Mike Brumbelow,A,New Mexico,Skyline,Robert Titchenal,W,34,0
+1955-10-08,UTEP,BIAA,Mike Brumbelow,H,Texas Tech,BIAA,DeWitt Weaver,T,27,27
+1955-10-15,UTEP,BIAA,Mike Brumbelow,A,Arizona,BIAA,Warren Woodson,W,29,0
+1955-10-22,UTEP,BIAA,Mike Brumbelow,A,Wichita State,MVC,Pete Tillman,W,28,12
+1955-10-29,UTEP,BIAA,Mike Brumbelow,H,New Mexico State,BIAA,Tony Cavallo,W,41,6
+1955-11-04,UTEP,BIAA,Mike Brumbelow,A,Hardin-Simmons,BIAA,Sammy Baugh,L,21,23
+1955-11-12,UTEP,BIAA,Mike Brumbelow,H,Arizona State,BIAA,Dan Devine,L,13,20
+1955-11-19,UTEP,BIAA,Mike Brumbelow,H,West Texas A&M,BIAA,Frank Kimbrough,W,13,6
+1955-09-17,LSU,SEC,Paul Dietzel,H,Kentucky,SEC,Blanton Collier,W,19,7
+1955-09-24,LSU,SEC,Paul Dietzel,A,Texas A&M,SWC,Bear Bryant,L,0,28
+1955-10-01,LSU,SEC,Paul Dietzel,A,Rice,SWC,Jess Neely,T,20,20
+1955-10-08,LSU,SEC,Paul Dietzel,H,Georgia Tech,SEC,Bobby Dodd,L,0,7
+1955-10-15,LSU,SEC,Paul Dietzel,A,Florida,SEC,Bob Woodruff,L,14,18
+1955-10-29,LSU,SEC,Paul Dietzel,H,Ole Miss,SEC,John Vaught,L,26,29
+1955-11-05,LSU,SEC,Paul Dietzel,A,Maryland,ACC,Jim Tatum,L,0,13
+1955-11-12,LSU,SEC,Paul Dietzel,H,Mississippi State,SEC,Darrell Royal,W,34,7
+1955-11-19,LSU,SEC,Paul Dietzel,A,Arkansas,SWC,Jack Mitchell,W,13,7
+1955-11-26,LSU,SEC,Paul Dietzel,H,Tulane,SEC,Andy Pilney,T,13,13
+1955-09-24,Pennsylvania,Ind,Steve Sebo,H,Virginia Tech,Southern,Frank Moseley,L,0,33
+1955-10-01,Pennsylvania,Ind,Steve Sebo,A,California,PCC,Pappy Waldorf,L,7,27
+1955-10-08,Pennsylvania,Ind,Steve Sebo,H,Princeton,Ind,Charles Caldwell,L,0,7
+1955-10-15,Pennsylvania,Ind,Steve Sebo,H,George Washington,Southern,Bo Sherman,L,6,25
+1955-10-22,Pennsylvania,Ind,Steve Sebo,H,Navy,Ind,Eddie Erdelatz,L,0,33
+1955-10-29,Pennsylvania,Ind,Steve Sebo,H,Penn State,Ind,Rip Engle,L,0,20
+1955-11-05,Pennsylvania,Ind,Steve Sebo,H,Notre Dame,Ind,Terry Brennan,L,14,46
+1955-11-12,Pennsylvania,Ind,Steve Sebo,H,Army,Ind,Red Blaik,L,0,40
+1955-11-24,Pennsylvania,Ind,Steve Sebo,H,Cornell,Ind,George James,L,7,39
+1955-09-17,Tulsa,MVC,Robert Dobbs,A,Arkansas,SWC,Jack Mitchell,L,6,21
+1955-09-24,Tulsa,MVC,Robert Dobbs,H,Hardin-Simmons,BIAA,Sammy Baugh,W,41,19
+1955-10-01,Tulsa,MVC,Robert Dobbs,A,Marquette,Ind,Frosty Ferzacca,L,0,13
+1955-10-15,Tulsa,MVC,Robert Dobbs,A,Wyoming,Skyline,Phil Dickens,L,19,23
+1955-10-22,Tulsa,MVC,Robert Dobbs,H,Cincinnati,Ind,George Blackburn,T,21,21
+1955-10-29,Tulsa,MVC,Robert Dobbs,A,Oklahoma State,MVC,Cliff Speegle,L,0,14
+1955-11-05,Tulsa,MVC,Robert Dobbs,H,Houston,MVC,Bill Meek,W,17,14
+1955-11-12,Tulsa,MVC,Robert Dobbs,H,Texas Tech,BIAA,DeWitt Weaver,L,7,34
+1955-11-19,Tulsa,MVC,Robert Dobbs,H,Detroit Mercy,MVC,Wally Fromhart,L,13,19
+1955-11-24,Tulsa,MVC,Robert Dobbs,A,Wichita State,MVC,Pete Tillman,L,0,54
+1955-09-24,Iowa,Big Ten,Forest Evashevski,H,Kansas State,Big 7,Bernard Mertes,W,28,7
+1955-10-01,Iowa,Big Ten,Forest Evashevski,A,Wisconsin,Big Ten,Ivy Williamson,L,14,37
+1955-10-08,Iowa,Big Ten,Forest Evashevski,H,Indiana,Big Ten,Bernie Crimmins,W,20,6
+1955-10-15,Iowa,Big Ten,Forest Evashevski,H,Purdue,Big Ten,Stuart Holcomb,T,20,20
+1955-10-21,Iowa,Big Ten,Forest Evashevski,A,UCLA,PCC,Red Sanders,L,13,33
+1955-10-29,Iowa,Big Ten,Forest Evashevski,A,Michigan,Big Ten,Bennie Oosterbaan,L,21,33
+1955-11-05,Iowa,Big Ten,Forest Evashevski,H,Minnesota,Big Ten,Murray Warmath,W,26,0
+1955-11-12,Iowa,Big Ten,Forest Evashevski,A,Ohio State,Big Ten,Woody Hayes,L,10,20
+1955-11-19,Iowa,Big Ten,Forest Evashevski,A,Notre Dame,Ind,Terry Brennan,L,14,17
+1955-09-24,Columbia,Ind,Lou Little,H,Brown,Ind,Alva Kelley,W,14,12
+1955-10-01,Columbia,Ind,Lou Little,A,Princeton,Ind,Charles Caldwell,L,7,20
+1955-10-08,Columbia,Ind,Lou Little,A,Yale,Ind,Jordan Olivar,L,14,46
+1955-10-15,Columbia,Ind,Lou Little,H,Harvard,Ind,Lloyd Jordan,L,7,21
+1955-10-22,Columbia,Ind,Lou Little,A,Army,Ind,Red Blaik,L,0,45
+1955-10-29,Columbia,Ind,Lou Little,A,Cornell,Ind,George James,L,19,34
+1955-11-05,Columbia,Ind,Lou Little,H,Dartmouth,Ind,Bob Blackman,L,7,14
+1955-11-12,Columbia,Ind,Lou Little,H,Navy,Ind,Eddie Erdelatz,L,0,47
+1955-11-19,Columbia,Ind,Lou Little,H,Rutgers,Ind,Harvey Harman,L,6,12
+1955-09-17,Texas,SWC,Edwin Price,H,Texas Tech,BIAA,DeWitt Weaver,L,14,20
+1955-09-24,Texas,SWC,Edwin Price,H,Tulane,SEC,Andy Pilney,W,35,21
+1955-09-30,Texas,SWC,Edwin Price,A,USC,PCC,Jess Hill,L,7,19
+1955-10-08,Texas,SWC,Edwin Price,N,Oklahoma,Big 7,Bud Wilkinson,L,0,20
+1955-10-15,Texas,SWC,Edwin Price,A,Arkansas,SWC,Jack Mitchell,L,20,27
+1955-10-22,Texas,SWC,Edwin Price,H,Rice,SWC,Jess Neely,W,32,14
+1955-10-29,Texas,SWC,Edwin Price,A,SMU,SWC,Chalmer Woodward,W,19,18
+1955-11-05,Texas,SWC,Edwin Price,H,Baylor,SWC,George Sauer,W,21,20
+1955-11-12,Texas,SWC,Edwin Price,H,Texas Christian,SWC,Abe Martin,L,20,47
+1955-11-24,Texas,SWC,Edwin Price,A,Texas A&M,SWC,Bear Bryant,W,21,6
+1955-09-17,Texas Christian,SWC,Abe Martin,H,Kansas,Big 7,Chuck Mather,W,47,14
+1955-09-24,Texas Christian,SWC,Abe Martin,A,Texas Tech,BIAA,DeWitt Weaver,W,32,0
+1955-10-01,Texas Christian,SWC,Abe Martin,A,Arkansas,SWC,Jack Mitchell,W,26,0
+1955-10-08,Texas Christian,SWC,Abe Martin,A,Alabama,SEC,Jennings Whitworth,W,21,0
+1955-10-15,Texas Christian,SWC,Abe Martin,H,Texas A&M,SWC,Bear Bryant,L,16,19
+1955-10-21,Texas Christian,SWC,Abe Martin,A,Miami (FL),Ind,Andy Gustafson,W,21,19
+1955-10-29,Texas Christian,SWC,Abe Martin,A,Baylor,SWC,George Sauer,W,28,6
+1955-11-12,Texas Christian,SWC,Abe Martin,A,Texas,SWC,Edwin Price,W,47,20
+1955-11-19,Texas Christian,SWC,Abe Martin,H,Rice,SWC,Jess Neely,W,35,0
+1955-11-26,Texas Christian,SWC,Abe Martin,H,SMU,SWC,Chalmer Woodward,W,20,13
+1956-01-02,Texas Christian,SWC,Abe Martin,H,Ole Miss,SEC,John Vaught,L,13,14
+1955-09-17,Miami (FL),Ind,Andy Gustafson,A,Georgia Tech,SEC,Bobby Dodd,L,6,14
+1955-09-30,Miami (FL),Ind,Andy Gustafson,H,Florida State,Ind,Thomas Nugent,W,34,0
+1955-10-07,Miami (FL),Ind,Andy Gustafson,H,Notre Dame,Ind,Terry Brennan,L,0,14
+1955-10-21,Miami (FL),Ind,Andy Gustafson,H,Texas Christian,SWC,Abe Martin,L,19,21
+1955-10-29,Miami (FL),Ind,Andy Gustafson,A,Pitt,Ind,John Michelosen,W,21,7
+1955-11-04,Miami (FL),Ind,Andy Gustafson,H,Boston College,Ind,Mike Holovak,W,14,7
+1955-11-18,Miami (FL),Ind,Andy Gustafson,H,Alabama,SEC,Jennings Whitworth,W,34,12
+1955-11-26,Miami (FL),Ind,Andy Gustafson,H,Florida,SEC,Bob Woodruff,W,7,6
+1955-09-24,Richmond,Southern,Edwin Merrick,A,West Virginia,Southern,Art Lewis,L,12,33
+1955-10-01,Richmond,Southern,Edwin Merrick,A,Virginia Military Institute,Southern,John McKenna,W,21,0
+1955-10-07,Richmond,Southern,Edwin Merrick,H,Citadel,Southern,John Sauer,L,12,14
+1955-10-15,Richmond,Southern,Edwin Merrick,A,Virginia Tech,Southern,Frank Moseley,T,7,7
+1955-10-29,Richmond,Southern,Edwin Merrick,A,Villanova,Ind,Francis Reagan,L,14,16
+1955-11-05,Richmond,Southern,Edwin Merrick,H,Davidson,Southern,,W,19,0
+1955-11-12,Richmond,Southern,Edwin Merrick,H,George Washington,Southern,Bo Sherman,W,7,0
+1955-11-24,Richmond,Southern,Edwin Merrick,H,William & Mary,Southern,Jackie Freeman,T,6,6
+1955-09-17,Oregon,PCC,Len Casanova,A,Utah,Skyline,Jack Curtice,W,14,13
+1955-09-23,Oregon,PCC,Len Casanova,A,USC,PCC,Jess Hill,L,15,42
+1955-10-01,Oregon,PCC,Len Casanova,H,Washington,PCC,John Cherberg,L,7,19
+1955-10-08,Oregon,PCC,Len Casanova,H,Colorado,Big 7,Dallas Ward,L,6,13
+1955-10-15,Oregon,PCC,Len Casanova,H,California,PCC,Pappy Waldorf,W,21,0
+1955-10-22,Oregon,PCC,Len Casanova,A,Arizona,BIAA,Warren Woodson,W,46,27
+1955-10-29,Oregon,PCC,Len Casanova,H,Idaho,PCC,Skip Stahley,W,25,0
+1955-11-05,Oregon,PCC,Len Casanova,A,Washington State,PCC,Alton Kircher,W,35,0
+1955-11-12,Oregon,PCC,Len Casanova,A,Stanford,PCC,Chuck Taylor,L,7,44
+1955-11-19,Oregon,PCC,Len Casanova,H,Oregon State,PCC,Tommy Prothro,W,28,0
+1955-09-24,Brown,Ind,Alva Kelley,A,Columbia,Ind,Lou Little,L,12,14
+1955-10-01,Brown,Ind,Alva Kelley,A,Yale,Ind,Jordan Olivar,L,20,27
+1955-10-08,Brown,Ind,Alva Kelley,H,Dartmouth,Ind,Bob Blackman,W,7,0
+1955-10-15,Brown,Ind,Alva Kelley,H,Rutgers,Ind,Harvey Harman,L,12,14
+1955-10-29,Brown,Ind,Alva Kelley,A,Princeton,Ind,Charles Caldwell,L,7,14
+1955-11-05,Brown,Ind,Alva Kelley,H,Cornell,Ind,George James,L,7,20
+1955-11-12,Brown,Ind,Alva Kelley,A,Harvard,Ind,Lloyd Jordan,W,14,6
+1955-11-24,Brown,Ind,Alva Kelley,H,Colgate,Ind,Hal Lahar,L,0,25
+1955-09-24,Tennessee,SEC,Bowden Wyatt,H,Mississippi State,SEC,Darrell Royal,L,7,13
+1955-10-01,Tennessee,SEC,Bowden Wyatt,H,Duke,ACC,Bill Murray,L,0,21
+1955-10-15,Tennessee,SEC,Bowden Wyatt,A,Alabama,SEC,Jennings Whitworth,W,20,0
+1955-10-29,Tennessee,SEC,Bowden Wyatt,A,North Carolina,ACC,George Barclay,W,48,7
+1955-11-05,Tennessee,SEC,Bowden Wyatt,H,Georgia Tech,SEC,Bobby Dodd,T,7,7
+1955-11-12,Tennessee,SEC,Bowden Wyatt,A,Florida,SEC,Bob Woodruff,W,20,0
+1955-11-19,Tennessee,SEC,Bowden Wyatt,A,Kentucky,SEC,Blanton Collier,L,0,23
+1955-11-26,Tennessee,SEC,Bowden Wyatt,H,Vanderbilt,SEC,Arthur Guepe,W,20,14
+1955-09-17,Oregon State,PCC,Tommy Prothro,H,Brigham Young,Skyline,Charles Atkinson,W,33,0
+1955-09-24,Oregon State,PCC,Tommy Prothro,H,Stanford,PCC,Chuck Taylor,W,10,0
+1955-10-07,Oregon State,PCC,Tommy Prothro,A,UCLA,PCC,Red Sanders,L,0,38
+1955-10-15,Oregon State,PCC,Tommy Prothro,A,Pacific,Ind,Moose Myers,L,7,13
+1955-10-22,Oregon State,PCC,Tommy Prothro,H,Washington State,PCC,Alton Kircher,W,14,6
+1955-10-29,Oregon State,PCC,Tommy Prothro,A,Washington,PCC,John Cherberg,W,13,7
+1955-11-05,Oregon State,PCC,Tommy Prothro,H,Idaho,PCC,Skip Stahley,W,33,14
+1955-11-12,Oregon State,PCC,Tommy Prothro,A,California,PCC,Pappy Waldorf,W,16,14
+1955-11-19,Oregon State,PCC,Tommy Prothro,A,Oregon,PCC,Len Casanova,L,0,28
+1955-09-24,Alabama,SEC,Jennings Whitworth,A,Rice,SWC,Jess Neely,L,0,20
+1955-10-01,Alabama,SEC,Jennings Whitworth,A,Vanderbilt,SEC,Arthur Guepe,L,6,21
+1955-10-08,Alabama,SEC,Jennings Whitworth,H,Texas Christian,SWC,Abe Martin,L,0,21
+1955-10-15,Alabama,SEC,Jennings Whitworth,H,Tennessee,SEC,Bowden Wyatt,L,0,20
+1955-10-22,Alabama,SEC,Jennings Whitworth,H,Mississippi State,SEC,Darrell Royal,L,7,26
+1955-10-29,Alabama,SEC,Jennings Whitworth,A,Georgia,SEC,Wallace Butts,L,14,35
+1955-11-05,Alabama,SEC,Jennings Whitworth,H,Tulane,SEC,Andy Pilney,L,7,27
+1955-11-12,Alabama,SEC,Jennings Whitworth,H,Georgia Tech,SEC,Bobby Dodd,L,2,26
+1955-11-18,Alabama,SEC,Jennings Whitworth,A,Miami (FL),Ind,Andy Gustafson,L,12,34
+1955-11-26,Alabama,SEC,Jennings Whitworth,N,Auburn,SEC,Ralph Jordan,L,0,26
+1955-09-24,Purdue,Big Ten,Stuart Holcomb,H,Pacific,Ind,Moose Myers,W,14,7
+1955-10-01,Purdue,Big Ten,Stuart Holcomb,A,Minnesota,Big Ten,Murray Warmath,W,7,6
+1955-10-08,Purdue,Big Ten,Stuart Holcomb,H,Wisconsin,Big Ten,Ivy Williamson,L,0,9
+1955-10-15,Purdue,Big Ten,Stuart Holcomb,A,Iowa,Big Ten,Forest Evashevski,T,20,20
+1955-10-22,Purdue,Big Ten,Stuart Holcomb,H,Notre Dame,Ind,Terry Brennan,L,7,22
+1955-10-29,Purdue,Big Ten,Stuart Holcomb,A,Illinois,Big Ten,Ray Eliot,W,13,0
+1955-11-05,Purdue,Big Ten,Stuart Holcomb,H,Michigan State,Big Ten,Duffy Daugherty,L,0,27
+1955-11-12,Purdue,Big Ten,Stuart Holcomb,H,Northwestern,Big Ten,Lou Saban,W,46,8
+1955-11-19,Purdue,Big Ten,Stuart Holcomb,A,Indiana,Big Ten,Bernie Crimmins,W,6,4
+1955-09-24,Nebraska,Big 7,William Glassford,A,Ohio State,Big Ten,Woody Hayes,L,20,28
+1955-10-01,Nebraska,Big 7,William Glassford,A,Kansas State,Big 7,Bernard Mertes,W,16,0
+1955-10-08,Nebraska,Big 7,William Glassford,H,Texas A&M,SWC,Bear Bryant,L,0,27
+1955-10-15,Nebraska,Big 7,William Glassford,A,Pitt,Ind,John Michelosen,L,7,21
+1955-10-22,Nebraska,Big 7,William Glassford,A,Missouri,Big 7,Don Faurot,W,18,12
+1955-10-29,Nebraska,Big 7,William Glassford,H,Kansas,Big 7,Chuck Mather,W,19,14
+1955-11-05,Nebraska,Big 7,William Glassford,A,Iowa State,Big 7,Vince Di Francesca,W,10,7
+1955-11-12,Nebraska,Big 7,William Glassford,H,Colorado,Big 7,Dallas Ward,W,37,20
+1955-11-19,Nebraska,Big 7,William Glassford,H,Oklahoma,Big 7,Bud Wilkinson,L,0,41
+1955-09-24,West Virginia,Southern,Art Lewis,H,Richmond,Southern,Edwin Merrick,W,33,12
+1955-10-01,West Virginia,Southern,Art Lewis,H,Wake Forest,ACC,Tom Rogers,W,46,0
+1955-10-08,West Virginia,Southern,Art Lewis,N,Virginia Military Institute,Southern,John McKenna,W,47,12
+1955-10-15,West Virginia,Southern,Art Lewis,H,William & Mary,Southern,Jackie Freeman,W,39,13
+1955-10-22,West Virginia,Southern,Art Lewis,H,Penn State,Ind,Rip Engle,W,21,7
+1955-10-29,West Virginia,Southern,Art Lewis,A,Marquette,Ind,Frosty Ferzacca,W,39,0
+1955-11-04,West Virginia,Southern,Art Lewis,A,George Washington,Southern,Bo Sherman,W,13,7
+1955-11-12,West Virginia,Southern,Art Lewis,A,Pitt,Ind,John Michelosen,L,7,26
+1955-11-19,West Virginia,Southern,Art Lewis,H,Syracuse,Ind,Ben Schwartzwalder,L,13,20
+1955-11-25,West Virginia,Southern,Art Lewis,A,North Carolina State,ACC,Earle Edwards,W,27,7
+1955-10-08,Harvard,Ind,Lloyd Jordan,H,Cornell,Ind,George James,L,7,20
+1955-10-15,Harvard,Ind,Lloyd Jordan,A,Columbia,Ind,Lou Little,W,21,7
+1955-10-22,Harvard,Ind,Lloyd Jordan,A,Dartmouth,Ind,Bob Blackman,L,9,14
+1955-11-05,Harvard,Ind,Lloyd Jordan,H,Princeton,Ind,Charles Caldwell,W,7,6
+1955-11-12,Harvard,Ind,Lloyd Jordan,H,Brown,Ind,Alva Kelley,L,6,14
+1955-11-19,Harvard,Ind,Lloyd Jordan,A,Yale,Ind,Jordan Olivar,L,7,21
+1955-09-24,Oklahoma State,MVC,Cliff Speegle,A,Arkansas,SWC,Jack Mitchell,L,0,21
+1955-10-01,Oklahoma State,MVC,Cliff Speegle,H,Texas Tech,BIAA,DeWitt Weaver,L,6,24
+1955-10-08,Oklahoma State,MVC,Cliff Speegle,H,Wichita State,MVC,Pete Tillman,L,7,14
+1955-10-15,Oklahoma State,MVC,Cliff Speegle,A,Houston,MVC,Bill Meek,L,13,21
+1955-10-21,Oklahoma State,MVC,Cliff Speegle,A,Detroit Mercy,MVC,Wally Fromhart,L,0,7
+1955-10-29,Oklahoma State,MVC,Cliff Speegle,H,Tulsa,MVC,Robert Dobbs,W,14,0
+1955-11-05,Oklahoma State,MVC,Cliff Speegle,H,Colorado State,Skyline,Robert Davis,L,13,20
+1955-11-12,Oklahoma State,MVC,Cliff Speegle,A,Kansas,Big 7,Chuck Mather,L,7,12
+1955-11-19,Oklahoma State,MVC,Cliff Speegle,H,Kansas State,Big 7,Bernard Mertes,W,28,0
+1955-11-26,Oklahoma State,MVC,Cliff Speegle,A,Oklahoma,Big 7,Bud Wilkinson,L,0,53
+1955-09-24,Colorado,Big 7,Dallas Ward,H,Arizona,BIAA,Warren Woodson,W,14,0
+1955-10-01,Colorado,Big 7,Dallas Ward,H,Kansas,Big 7,Chuck Mather,W,12,0
+1955-10-08,Colorado,Big 7,Dallas Ward,A,Oregon,PCC,Len Casanova,W,13,6
+1955-10-15,Colorado,Big 7,Dallas Ward,A,Kansas State,Big 7,Bernard Mertes,W,34,13
+1955-10-22,Colorado,Big 7,Dallas Ward,A,Oklahoma,Big 7,Bud Wilkinson,L,21,56
+1955-10-29,Colorado,Big 7,Dallas Ward,H,Missouri,Big 7,Don Faurot,L,12,20
+1955-11-05,Colorado,Big 7,Dallas Ward,H,Utah,Skyline,Jack Curtice,W,37,7
+1955-11-12,Colorado,Big 7,Dallas Ward,A,Nebraska,Big 7,William Glassford,L,20,37
+1955-11-19,Colorado,Big 7,Dallas Ward,H,Iowa State,Big 7,Vince Di Francesca,W,40,0
+1955-11-26,Colorado,Big 7,Dallas Ward,A,Colorado State,Skyline,Robert Davis,L,0,10
+1955-09-17,Colorado State,Skyline,Robert Davis,A,Arizona,BIAA,Warren Woodson,L,7,20
+1955-09-24,Colorado State,Skyline,Robert Davis,H,New Mexico,Skyline,Robert Titchenal,W,25,0
+1955-10-01,Colorado State,Skyline,Robert Davis,H,Denver,Skyline,John Roning,W,20,19
+1955-10-08,Colorado State,Skyline,Robert Davis,A,Wyoming,Skyline,Phil Dickens,W,14,13
+1955-10-22,Colorado State,Skyline,Robert Davis,H,Utah State,Skyline,Everett Faunce,W,26,9
+1955-10-29,Colorado State,Skyline,Robert Davis,A,Montana,Skyline,Jerry Williams,W,12,7
+1955-11-05,Colorado State,Skyline,Robert Davis,A,Oklahoma State,MVC,Cliff Speegle,W,20,13
+1955-11-12,Colorado State,Skyline,Robert Davis,A,Utah,Skyline,Jack Curtice,L,6,27
+1955-11-19,Colorado State,Skyline,Robert Davis,A,Brigham Young,Skyline,Charles Atkinson,W,35,0
+1955-11-26,Colorado State,Skyline,Robert Davis,H,Colorado,Big 7,Dallas Ward,W,10,0
+1955-09-24,Rice,SWC,Jess Neely,H,Alabama,SEC,Jennings Whitworth,W,20,0
+1955-10-01,Rice,SWC,Jess Neely,H,LSU,SEC,Paul Dietzel,T,20,20
+1955-10-08,Rice,SWC,Jess Neely,H,Clemson,ACC,Frank Howard,W,21,7
+1955-10-15,Rice,SWC,Jess Neely,A,SMU,SWC,Chalmer Woodward,L,0,20
+1955-10-22,Rice,SWC,Jess Neely,A,Texas,SWC,Edwin Price,L,14,32
+1955-10-29,Rice,SWC,Jess Neely,A,Kentucky,SEC,Blanton Collier,L,16,20
+1955-11-05,Rice,SWC,Jess Neely,H,Arkansas,SWC,Jack Mitchell,L,0,10
+1955-11-12,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Bear Bryant,L,12,20
+1955-11-19,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Abe Martin,L,0,35
+1955-11-26,Rice,SWC,Jess Neely,H,Baylor,SWC,George Sauer,L,7,15
+1955-09-16,Texas A&M,SWC,Bear Bryant,A,UCLA,PCC,Red Sanders,L,0,21
+1955-09-24,Texas A&M,SWC,Bear Bryant,H,LSU,SEC,Paul Dietzel,W,28,0
+1955-10-01,Texas A&M,SWC,Bear Bryant,H,Houston,MVC,Bill Meek,W,21,3
+1955-10-08,Texas A&M,SWC,Bear Bryant,A,Nebraska,Big 7,William Glassford,W,27,0
+1955-10-15,Texas A&M,SWC,Bear Bryant,A,Texas Christian,SWC,Abe Martin,W,19,16
+1955-10-22,Texas A&M,SWC,Bear Bryant,H,Baylor,SWC,George Sauer,W,19,7
+1955-10-29,Texas A&M,SWC,Bear Bryant,A,Arkansas,SWC,Jack Mitchell,T,7,7
+1955-11-05,Texas A&M,SWC,Bear Bryant,H,SMU,SWC,Chalmer Woodward,W,13,2
+1955-11-12,Texas A&M,SWC,Bear Bryant,A,Rice,SWC,Jess Neely,W,20,12
+1955-11-24,Texas A&M,SWC,Bear Bryant,H,Texas,SWC,Edwin Price,L,6,21
+1955-10-01,Davidson,Southern,,H,Citadel,Southern,John Sauer,W,6,2
+1955-10-22,Davidson,Southern,,A,Virginia Military Institute,Southern,John McKenna,W,21,7
+1955-11-05,Davidson,Southern,,A,Richmond,Southern,Edwin Merrick,L,0,19
+1955-11-19,Davidson,Southern,,A,Furman,Southern,Homer Hobbs,L,9,13
+1955-09-24,Michigan State,Big Ten,Duffy Daugherty,A,Indiana,Big Ten,Bernie Crimmins,W,20,13
+1955-10-01,Michigan State,Big Ten,Duffy Daugherty,A,Michigan,Big Ten,Bennie Oosterbaan,L,7,14
+1955-10-08,Michigan State,Big Ten,Duffy Daugherty,H,Stanford,PCC,Chuck Taylor,W,38,14
+1955-10-15,Michigan State,Big Ten,Duffy Daugherty,H,Notre Dame,Ind,Terry Brennan,W,21,7
+1955-10-22,Michigan State,Big Ten,Duffy Daugherty,H,Illinois,Big Ten,Ray Eliot,W,21,7
+1955-10-29,Michigan State,Big Ten,Duffy Daugherty,A,Wisconsin,Big Ten,Ivy Williamson,W,27,0
+1955-11-05,Michigan State,Big Ten,Duffy Daugherty,A,Purdue,Big Ten,Stuart Holcomb,W,27,0
+1955-11-12,Michigan State,Big Ten,Duffy Daugherty,H,Minnesota,Big Ten,Murray Warmath,W,42,14
+1955-11-19,Michigan State,Big Ten,Duffy Daugherty,H,Marquette,Ind,Frosty Ferzacca,W,33,0
+1956-01-02,Michigan State,Big Ten,Duffy Daugherty,A,UCLA,PCC,Red Sanders,W,17,14
+1955-10-08,Boston College,Ind,Mike Holovak,H,Villanova,Ind,Francis Reagan,W,28,14
+1955-10-15,Boston College,Ind,Mike Holovak,H,Detroit Mercy,MVC,Wally Fromhart,W,23,0
+1955-10-21,Boston College,Ind,Mike Holovak,H,Marquette,Ind,Frosty Ferzacca,T,13,13
+1955-11-04,Boston College,Ind,Mike Holovak,A,Miami (FL),Ind,Andy Gustafson,L,7,14
+1955-11-12,Boston College,Ind,Mike Holovak,A,Boston University,Ind,Aldo Donelli,W,40,12
+1955-11-26,Boston College,Ind,Mike Holovak,N,Holy Cross,Ind,Edward Anderson,W,26,7
+1955-09-24,Colgate,Ind,Hal Lahar,H,Dartmouth,Ind,Bob Blackman,W,21,20
+1955-10-01,Colgate,Ind,Hal Lahar,A,Cornell,Ind,George James,W,21,6
+1955-10-08,Colgate,Ind,Hal Lahar,H,Holy Cross,Ind,Edward Anderson,L,14,15
+1955-10-15,Colgate,Ind,Hal Lahar,A,Princeton,Ind,Charles Caldwell,W,15,6
+1955-10-22,Colgate,Ind,Hal Lahar,A,Yale,Ind,Jordan Olivar,W,7,0
+1955-10-29,Colgate,Ind,Hal Lahar,A,Army,Ind,Red Blaik,L,7,27
+1955-11-12,Colgate,Ind,Hal Lahar,A,Syracuse,Ind,Ben Schwartzwalder,L,19,26
+1955-11-24,Colgate,Ind,Hal Lahar,A,Brown,Ind,Alva Kelley,W,25,0
+1955-09-17,New Mexico State,BIAA,Tony Cavallo,A,New Mexico,Skyline,Robert Titchenal,L,7,14
+1955-10-01,New Mexico State,BIAA,Tony Cavallo,A,Hardin-Simmons,BIAA,Sammy Baugh,L,0,39
+1955-10-15,New Mexico State,BIAA,Tony Cavallo,H,West Texas A&M,BIAA,Frank Kimbrough,L,6,32
+1955-10-29,New Mexico State,BIAA,Tony Cavallo,A,UTEP,BIAA,Mike Brumbelow,L,6,41
+1955-11-19,New Mexico State,BIAA,Tony Cavallo,A,Arizona State,BIAA,Dan Devine,L,6,26
+1955-09-24,Minnesota,Big Ten,Murray Warmath,H,Washington,PCC,John Cherberg,L,0,30
+1955-10-01,Minnesota,Big Ten,Murray Warmath,H,Purdue,Big Ten,Stuart Holcomb,L,6,7
+1955-10-08,Minnesota,Big Ten,Murray Warmath,A,Northwestern,Big Ten,Lou Saban,W,18,7
+1955-10-15,Minnesota,Big Ten,Murray Warmath,A,Illinois,Big Ten,Ray Eliot,L,13,21
+1955-10-22,Minnesota,Big Ten,Murray Warmath,H,Michigan,Big Ten,Bennie Oosterbaan,L,13,14
+1955-10-29,Minnesota,Big Ten,Murray Warmath,H,USC,PCC,Jess Hill,W,25,19
+1955-11-05,Minnesota,Big Ten,Murray Warmath,A,Iowa,Big Ten,Forest Evashevski,L,0,26
+1955-11-12,Minnesota,Big Ten,Murray Warmath,A,Michigan State,Big Ten,Duffy Daugherty,L,14,42
+1955-11-19,Minnesota,Big Ten,Murray Warmath,H,Wisconsin,Big Ten,Ivy Williamson,W,21,6
+1955-09-17,Ole Miss,SEC,John Vaught,A,Georgia,SEC,Wallace Butts,W,26,13
+1955-09-24,Ole Miss,SEC,John Vaught,A,Kentucky,SEC,Blanton Collier,L,14,21
+1955-10-01,Ole Miss,SEC,John Vaught,H,North Texas,Ind,Odus Mitchell,W,33,0
+1955-10-08,Ole Miss,SEC,John Vaught,N,Vanderbilt,SEC,Arthur Guepe,W,13,0
+1955-10-15,Ole Miss,SEC,John Vaught,A,Tulane,SEC,Andy Pilney,W,27,13
+1955-10-22,Ole Miss,SEC,John Vaught,H,Arkansas,SWC,Jack Mitchell,W,17,7
+1955-10-29,Ole Miss,SEC,John Vaught,A,LSU,SEC,Paul Dietzel,W,29,26
+1955-11-12,Ole Miss,SEC,John Vaught,H,Houston,MVC,Bill Meek,W,27,11
+1955-11-26,Ole Miss,SEC,John Vaught,A,Mississippi State,SEC,Darrell Royal,W,26,0
+1956-01-02,Ole Miss,SEC,John Vaught,A,Texas Christian,SWC,Abe Martin,W,14,13
+1955-09-24,Duke,ACC,Bill Murray,A,North Carolina State,ACC,Earle Edwards,W,33,7
+1955-10-01,Duke,ACC,Bill Murray,A,Tennessee,SEC,Bowden Wyatt,W,21,0
+1955-10-08,Duke,ACC,Bill Murray,H,William & Mary,Southern,Jackie Freeman,W,47,7
+1955-10-15,Duke,ACC,Bill Murray,A,Ohio State,Big Ten,Woody Hayes,W,20,14
+1955-10-22,Duke,ACC,Bill Murray,H,Pitt,Ind,John Michelosen,L,7,26
+1955-10-29,Duke,ACC,Bill Murray,A,Georgia Tech,SEC,Bobby Dodd,L,0,27
+1955-11-05,Duke,ACC,Bill Murray,A,Navy,Ind,Eddie Erdelatz,T,7,7
+1955-11-12,Duke,ACC,Bill Murray,A,South Carolina,ACC,Rex Enright,W,41,7
+1955-11-19,Duke,ACC,Bill Murray,H,Wake Forest,ACC,Tom Rogers,W,14,0
+1955-12-03,Duke,ACC,Bill Murray,H,North Carolina,ACC,George Barclay,W,6,0
+1955-09-24,Navy,Ind,Eddie Erdelatz,H,William & Mary,Southern,Jackie Freeman,W,7,0
+1955-10-01,Navy,Ind,Eddie Erdelatz,A,South Carolina,ACC,Rex Enright,W,26,0
+1955-10-08,Navy,Ind,Eddie Erdelatz,H,Pitt,Ind,John Michelosen,W,21,0
+1955-10-15,Navy,Ind,Eddie Erdelatz,A,Penn State,Ind,Rip Engle,W,34,14
+1955-10-22,Navy,Ind,Eddie Erdelatz,A,Pennsylvania,Ind,Steve Sebo,W,33,0
+1955-10-29,Navy,Ind,Eddie Erdelatz,A,Notre Dame,Ind,Terry Brennan,L,7,21
+1955-11-05,Navy,Ind,Eddie Erdelatz,H,Duke,ACC,Bill Murray,T,7,7
+1955-11-12,Navy,Ind,Eddie Erdelatz,A,Columbia,Ind,Lou Little,W,47,0
+1955-11-26,Navy,Ind,Eddie Erdelatz,N,Army,Ind,Red Blaik,L,6,14
+1955-09-17,Texas Tech,BIAA,DeWitt Weaver,A,Texas,SWC,Edwin Price,W,20,14
+1955-09-24,Texas Tech,BIAA,DeWitt Weaver,H,Texas Christian,SWC,Abe Martin,L,0,32
+1955-10-01,Texas Tech,BIAA,DeWitt Weaver,A,Oklahoma State,MVC,Cliff Speegle,W,24,6
+1955-10-08,Texas Tech,BIAA,DeWitt Weaver,A,UTEP,BIAA,Mike Brumbelow,T,27,27
+1955-10-22,Texas Tech,BIAA,DeWitt Weaver,A,Houston,MVC,Bill Meek,L,0,7
+1955-10-29,Texas Tech,BIAA,DeWitt Weaver,H,West Texas A&M,BIAA,Frank Kimbrough,W,27,24
+1955-11-05,Texas Tech,BIAA,DeWitt Weaver,H,Arizona,BIAA,Warren Woodson,W,27,7
+1955-11-12,Texas Tech,BIAA,DeWitt Weaver,A,Tulsa,MVC,Robert Dobbs,W,34,7
+1955-11-19,Texas Tech,BIAA,DeWitt Weaver,H,Pacific,Ind,Moose Myers,W,13,7
+1955-11-26,Texas Tech,BIAA,DeWitt Weaver,H,Hardin-Simmons,BIAA,Sammy Baugh,W,16,14
+1956-01-02,Texas Tech,BIAA,DeWitt Weaver,N,Wyoming,Skyline,Phil Dickens,L,14,21
+1955-09-17,Tulane,SEC,Andy Pilney,H,Virginia Military Institute,Southern,John McKenna,W,20,7
+1955-09-24,Tulane,SEC,Andy Pilney,A,Texas,SWC,Edwin Price,L,21,35
+1955-10-01,Tulane,SEC,Andy Pilney,H,Northwestern,Big Ten,Lou Saban,W,21,0
+1955-10-08,Tulane,SEC,Andy Pilney,A,Mississippi State,SEC,Darrell Royal,L,0,14
+1955-10-15,Tulane,SEC,Andy Pilney,H,Ole Miss,SEC,John Vaught,L,13,27
+1955-10-22,Tulane,SEC,Andy Pilney,A,Georgia,SEC,Wallace Butts,W,14,0
+1955-10-29,Tulane,SEC,Andy Pilney,H,Auburn,SEC,Ralph Jordan,W,27,13
+1955-11-05,Tulane,SEC,Andy Pilney,A,Alabama,SEC,Jennings Whitworth,W,27,7
+1955-11-12,Tulane,SEC,Andy Pilney,H,Vanderbilt,SEC,Arthur Guepe,L,7,20
+1955-11-26,Tulane,SEC,Andy Pilney,A,LSU,SEC,Paul Dietzel,T,13,13
+1955-10-01,Cornell,Ind,George James,H,Colgate,Ind,Hal Lahar,L,6,21
+1955-10-08,Cornell,Ind,George James,A,Harvard,Ind,Lloyd Jordan,W,20,7
+1955-10-15,Cornell,Ind,George James,A,Yale,Ind,Jordan Olivar,L,6,34
+1955-10-22,Cornell,Ind,George James,H,Princeton,Ind,Charles Caldwell,L,20,26
+1955-10-29,Cornell,Ind,George James,H,Columbia,Ind,Lou Little,W,34,19
+1955-11-05,Cornell,Ind,George James,A,Brown,Ind,Alva Kelley,W,20,7
+1955-11-12,Cornell,Ind,George James,A,Dartmouth,Ind,Bob Blackman,L,0,7
+1955-11-24,Cornell,Ind,George James,A,Pennsylvania,Ind,Steve Sebo,W,39,7
+1955-09-24,Ohio State,Big Ten,Woody Hayes,H,Nebraska,Big 7,William Glassford,W,28,20
+1955-10-01,Ohio State,Big Ten,Woody Hayes,A,Stanford,PCC,Chuck Taylor,L,0,6
+1955-10-08,Ohio State,Big Ten,Woody Hayes,H,Illinois,Big Ten,Ray Eliot,W,27,12
+1955-10-15,Ohio State,Big Ten,Woody Hayes,H,Duke,ACC,Bill Murray,L,14,20
+1955-10-22,Ohio State,Big Ten,Woody Hayes,A,Wisconsin,Big Ten,Ivy Williamson,W,26,16
+1955-10-29,Ohio State,Big Ten,Woody Hayes,H,Northwestern,Big Ten,Lou Saban,W,49,0
+1955-11-05,Ohio State,Big Ten,Woody Hayes,H,Indiana,Big Ten,Bernie Crimmins,W,20,13
+1955-11-12,Ohio State,Big Ten,Woody Hayes,H,Iowa,Big Ten,Forest Evashevski,W,20,10
+1955-11-19,Ohio State,Big Ten,Woody Hayes,A,Michigan,Big Ten,Bennie Oosterbaan,W,17,0
+1955-09-23,Drake,Ind,Warren Gaer,A,Denver,Skyline,John Roning,L,7,33
+1955-10-15,Drake,Ind,Warren Gaer,A,Boston University,Ind,Aldo Donelli,L,2,32
+1955-10-29,Drake,Ind,Warren Gaer,H,Iowa State,Big 7,Vince Di Francesca,W,27,21
+1955-11-12,Drake,Ind,Warren Gaer,A,Wichita State,MVC,Pete Tillman,L,6,59
+1955-09-17,Houston,MVC,Bill Meek,H,Montana,Skyline,Jerry Williams,W,54,12
+1955-10-01,Houston,MVC,Bill Meek,A,Texas A&M,SWC,Bear Bryant,L,3,21
+1955-10-07,Houston,MVC,Bill Meek,A,Detroit Mercy,MVC,Wally Fromhart,W,7,0
+1955-10-15,Houston,MVC,Bill Meek,H,Oklahoma State,MVC,Cliff Speegle,W,21,13
+1955-10-22,Houston,MVC,Bill Meek,H,Texas Tech,BIAA,DeWitt Weaver,W,7,0
+1955-10-29,Houston,MVC,Bill Meek,H,Wichita State,MVC,Pete Tillman,L,7,21
+1955-11-05,Houston,MVC,Bill Meek,A,Tulsa,MVC,Robert Dobbs,L,14,17
+1955-11-12,Houston,MVC,Bill Meek,A,Ole Miss,SEC,John Vaught,L,11,27
+1955-11-19,Houston,MVC,Bill Meek,H,Villanova,Ind,Francis Reagan,W,26,14
+1955-12-03,Houston,MVC,Bill Meek,H,Wyoming,Skyline,Phil Dickens,W,26,14

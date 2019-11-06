@@ -1,0 +1,559 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1919-10-04,North Carolina,Ind,Thomas Campbell,A,Rutgers,Ind,George Sanford,L,9,19
+1919-10-11,North Carolina,Ind,Thomas Campbell,A,Yale,Ind,,L,7,34
+1919-10-18,North Carolina,Ind,Thomas Campbell,H,Wake Forest,Ind,Harry Rabenhorst,W,6,0
+1919-10-23,North Carolina,Ind,Thomas Campbell,A,North Carolina State,Ind,William Fetzer,W,13,12
+1919-11-01,North Carolina,Ind,Thomas Campbell,A,Tennessee,Ind,John Bender,T,0,0
+1919-11-08,North Carolina,Ind,Thomas Campbell,H,Virginia Military Institute,Ind,Red Fleming,L,7,29
+1919-11-15,North Carolina,Ind,Thomas Campbell,N,Davidson,Ind,Pete Crayton,W,10,0
+1919-11-27,North Carolina,Ind,Thomas Campbell,H,Virginia,Ind,Harris Coleman,W,6,0
+1919-10-04,Indiana,Western,Jumbo Stiehm,H,Centre,Ind,Charley Moran,L,3,12
+1919-10-11,Indiana,Western,Jumbo Stiehm,A,Kentucky,Ind,Andrew Gill,W,24,0
+1919-10-18,Indiana,Western,Jumbo Stiehm,H,Minnesota,Western,Henry Williams,L,6,20
+1919-11-01,Indiana,Western,Jumbo Stiehm,N,Notre Dame,Ind,Knute Rockne,L,3,16
+1919-11-15,Indiana,Western,Jumbo Stiehm,A,Northwestern,Western,Charlie Bachman,L,2,3
+1919-11-22,Indiana,Western,Jumbo Stiehm,H,Syracuse,Ind,,W,12,6
+1919-10-11,Iowa State,MVIAA,,H,Grinnell,MVIAA,Russell Tollefson,W,7,0
+1919-10-18,Iowa State,MVIAA,,A,Missouri,MVIAA,John Miller,L,0,10
+1919-10-25,Iowa State,MVIAA,,H,Kansas,MVIAA,Leon McCarty,T,0,0
+1919-11-01,Iowa State,MVIAA,,A,Nebraska,Ind,Henry Schulte,W,3,0
+1919-11-15,Iowa State,MVIAA,,H,Kansas State,MVIAA,Zora Clevenger,W,46,0
+1919-11-22,Iowa State,MVIAA,,A,Iowa,Western,Howard Jones,L,0,10
+1919-11-27,Iowa State,MVIAA,,A,Drake,MVIAA,Mark Banks,W,14,0
+1919-09-27,Furman,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,74
+1919-10-04,Furman,Ind,,H,Oglethorpe,Ind,Frank Anderson,W,13,0
+1919-10-11,Furman,Ind,,H,Wofford,Ind,Rip Major,W,7,6
+1919-10-18,Furman,Ind,,H,Presbyterian,Ind,Walter Johnson,W,6,0
+1919-10-25,Furman,Ind,,H,Wake Forest,Ind,Harry Rabenhorst,W,39,7
+1919-11-01,Furman,Ind,,H,Citadel,Ind,George Rogers,W,21,6
+1919-11-15,Furman,Ind,,H,Erskine,Ind,,W,41,0
+1919-11-21,Furman,Ind,,H,Clemson,Ind,Edward Donahue,T,7,7
+1919-11-27,Furman,Ind,,A,Davidson,Ind,Pete Crayton,L,14,41
+1919-10-11,Utah,RMC,Thomas Fitzpatrick,H,Colorado College,RMC,Poss Parsons,W,20,0
+1919-10-18,Utah,RMC,Thomas Fitzpatrick,A,Colorado State,RMC,Harry Hughes,L,21,34
+1919-11-08,Utah,RMC,Thomas Fitzpatrick,H,Colorado,RMC,Joe Mills,W,7,0
+1919-11-29,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,W,10,0
+1919-10-11,Washington & Lee,Ind,Bill Raftery,H,Davidson,Ind,Pete Crayton,W,7,0
+1919-11-01,Washington & Lee,Ind,Bill Raftery,N,Virginia Tech,Ind,Charles Bernier,W,3,0
+1919-11-08,Washington & Lee,Ind,Bill Raftery,A,Georgia Tech,Ind,John Heisman,W,3,0
+1919-11-15,Washington & Lee,Ind,Bill Raftery,H,South Carolina,Ind,Dixon Foster,W,26,0
+1919-11-22,Washington & Lee,Ind,Bill Raftery,A,Georgetown,Ind,,L,6,27
+1919-11-27,Washington & Lee,Ind,Bill Raftery,A,Tulane,Ind,Clark Shaughnessy,W,7,0
+1919-10-11,Syracuse,Ind,,A,Army,Ind,Charles Daly,W,7,3
+1919-10-18,Syracuse,Ind,,H,Pitt,Ind,Pop Warner,W,24,3
+1919-10-25,Syracuse,Ind,,H,Washington & Jefferson,Ind,D.C. Morrow,L,0,13
+1919-11-01,Syracuse,Ind,,A,Brown,Ind,Edward Robinson,W,13,0
+1919-11-04,Syracuse,Ind,,N,Rutgers,Ind,George Sanford,W,14,0
+1919-11-08,Syracuse,Ind,,H,Bucknell,Ind,Pete Reynolds,W,9,0
+1919-11-15,Syracuse,Ind,,H,Colgate,Ind,Ellery Huntington,W,13,7
+1919-11-22,Syracuse,Ind,,A,Indiana,Western,Jumbo Stiehm,L,6,12
+1919-11-27,Syracuse,Ind,,A,Nebraska,Ind,Henry Schulte,L,0,3
+1919-10-18,Georgetown,Ind,,H,Virginia Tech,Ind,Charles Bernier,W,33,7
+1919-11-08,Georgetown,Ind,,A,Navy,Ind,Gilmour Dobie,W,6,0
+1919-11-15,Georgetown,Ind,,A,Georgia Tech,Ind,John Heisman,L,0,27
+1919-11-22,Georgetown,Ind,,H,Washington & Lee,Ind,Bill Raftery,W,27,6
+1919-11-29,Georgetown,Ind,,A,Boston College,Ind,Frank Cavanaugh,L,9,10
+1919-10-11,Penn State,Ind,Hugo Bezdek,H,Bucknell,Ind,Pete Reynolds,W,9,0
+1919-10-18,Penn State,Ind,Hugo Bezdek,A,Dartmouth,Ind,,L,13,19
+1919-11-01,Penn State,Ind,Hugo Bezdek,A,Pennsylvania,Ind,,W,10,0
+1919-11-08,Penn State,Ind,Hugo Bezdek,H,Lehigh,Ind,Tom Keady,W,20,7
+1919-11-15,Penn State,Ind,Hugo Bezdek,A,Cornell,Ind,John Rush,W,20,0
+1919-11-27,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Pop Warner,W,20,0
+1919-10-11,Princeton,Ind,,H,Lafayette,Ind,Jock Sutherland,W,9,6
+1919-10-25,Princeton,Ind,,H,Colgate,Ind,Ellery Huntington,L,0,7
+1919-11-01,Princeton,Ind,,H,West Virginia,Ind,Mont McIntire,L,0,25
+1919-11-08,Princeton,Ind,,H,Harvard,Ind,Robert Fisher,T,10,10
+1919-11-15,Princeton,Ind,,A,Yale,Ind,,W,13,6
+1919-10-11,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Ind,John Bender,T,3,3
+1919-10-18,Vanderbilt,Ind,Dan McGugin,A,Georgia Tech,Ind,John Heisman,L,0,20
+1919-10-25,Vanderbilt,Ind,Dan McGugin,H,Auburn,Ind,Mike Donahue,W,7,6
+1919-11-01,Vanderbilt,Ind,Dan McGugin,A,Kentucky,Ind,Andrew Gill,T,0,0
+1919-11-08,Vanderbilt,Ind,Dan McGugin,H,Alabama,Ind,Xen Scott,W,16,12
+1919-11-15,Vanderbilt,Ind,Dan McGugin,A,Virginia,Ind,Harris Coleman,W,10,6
+1919-11-27,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,,W,33,21
+1919-10-11,Colorado College,RMC,Poss Parsons,A,Utah,RMC,Thomas Fitzpatrick,L,0,20
+1919-10-25,Colorado College,RMC,Poss Parsons,A,Colorado,RMC,Joe Mills,T,14,14
+1919-11-01,Colorado College,RMC,Poss Parsons,H,Colorado Mines,RMC,Ralph Glaze,W,7,3
+1919-11-15,Colorado College,RMC,Poss Parsons,H,Denver,RMC,George Koonsman,W,38,0
+1919-11-27,Colorado College,RMC,Poss Parsons,H,Colorado State,RMC,Harry Hughes,W,13,0
+1919-10-11,Kentucky,Ind,Andrew Gill,H,Indiana,Western,Jumbo Stiehm,L,0,24
+1919-10-18,Kentucky,Ind,Andrew Gill,A,Ohio State,Western,John Wilce,L,0,49
+1919-10-25,Kentucky,Ind,Andrew Gill,A,Sewanee,Ind,,W,6,0
+1919-11-01,Kentucky,Ind,Andrew Gill,H,Vanderbilt,Ind,Dan McGugin,T,0,0
+1919-11-15,Kentucky,Ind,Andrew Gill,A,Centre,Ind,Charley Moran,L,0,56
+1919-11-27,Kentucky,Ind,Andrew Gill,H,Tennessee,Ind,John Bender,W,13,0
+1919-10-25,California,PCC,Andy Smith,H,Washington State,PCC,Gus Welch,L,0,14
+1919-11-01,California,PCC,Andy Smith,H,Oregon State,PCC,Bill Hargiss,W,21,14
+1919-11-22,California,PCC,Andy Smith,A,Stanford,PCC,Bob Evans,W,14,10
+1919-11-27,California,PCC,Andy Smith,A,Washington,PCC,Claude Hunt,L,0,7
+1919-10-25,Florida,Ind,,H,Georgia,Ind,W.A. Cunningham,L,0,16
+1919-11-08,Florida,Ind,,A,Tulane,Ind,Clark Shaughnessy,L,2,14
+1919-11-22,Florida,Ind,,A,South Carolina,Ind,Dixon Foster,W,13,0
+1919-11-27,Florida,Ind,,H,Oglethorpe,Ind,Frank Anderson,W,14,7
+1919-10-25,Stanford,PCC,Bob Evans,A,Oregon State,PCC,Bill Hargiss,W,14,6
+1919-11-22,Stanford,PCC,Bob Evans,H,California,PCC,Andy Smith,L,10,14
+1919-09-27,Presbyterian,Ind,Walter Johnson,A,South Carolina,Ind,Dixon Foster,W,6,0
+1919-10-11,Presbyterian,Ind,Walter Johnson,A,Citadel,Ind,George Rogers,L,7,12
+1919-10-18,Presbyterian,Ind,Walter Johnson,A,Furman,Ind,,L,0,6
+1919-10-25,Presbyterian,Ind,Walter Johnson,H,Erskine,Ind,,W,33,7
+1919-11-07,Presbyterian,Ind,Walter Johnson,A,Clemson,Ind,Edward Donahue,L,7,19
+1919-11-15,Presbyterian,Ind,Walter Johnson,A,Wofford,Ind,Rip Major,W,14,6
+1919-11-22,Presbyterian,Ind,Walter Johnson,A,Davidson,Ind,Pete Crayton,T,0,0
+1919-11-27,Presbyterian,Ind,Walter Johnson,H,Newberry,Ind,L.C. Sullivan,T,0,0
+1919-10-04,Southwestern (TX),Ind,,A,Texas,SWC,William Juneau,L,0,39
+1919-10-18,Southwestern (TX),Ind,,A,Rice,SWC,Phillip Arbuckle,L,0,22
+1919-10-25,Southwestern (TX),Ind,,A,Texas Christian,Ind,T.D. Hackney,W,10,0
+1919-11-01,Southwestern (TX),Ind,,A,Baylor,SWC,Bubs Mosley,L,0,20
+1919-11-22,Southwestern (TX),Ind,,A,Texas A&M,SWC,Dana Bible,L,0,7
+1919-11-27,Southwestern (TX),Ind,,H,SMU,SWC,J. Rix,W,10,6
+1919-10-25,Washington State,PCC,Gus Welch,A,California,PCC,Andy Smith,W,14,0
+1919-11-08,Washington State,PCC,Gus Welch,A,Oregon,PCC,Shy Huntington,W,7,0
+1919-11-15,Washington State,PCC,Gus Welch,H,Washington,PCC,Claude Hunt,L,7,13
+1919-11-22,Washington State,PCC,Gus Welch,A,Oregon State,PCC,Bill Hargiss,L,0,6
+1919-10-11,Illinois,Western,Robert Zuppke,A,Purdue,Western,Butch Scanlon,W,14,7
+1919-10-18,Illinois,Western,Robert Zuppke,H,Iowa,Western,Howard Jones,W,9,7
+1919-10-25,Illinois,Western,Robert Zuppke,H,Wisconsin,Western,J.R. Richards,L,10,14
+1919-11-01,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,W,10,0
+1919-11-08,Illinois,Western,Robert Zuppke,A,Minnesota,Western,Henry Williams,W,10,6
+1919-11-15,Illinois,Western,Robert Zuppke,H,Michigan,Western,Fielding Yost,W,29,7
+1919-11-22,Illinois,Western,Robert Zuppke,A,Ohio State,Western,John Wilce,W,9,7
+1919-10-11,Baylor,SWC,Bubs Mosley,H,Rice,SWC,Phillip Arbuckle,L,0,8
+1919-10-25,Baylor,SWC,Bubs Mosley,H,Texas,SWC,William Juneau,L,13,29
+1919-11-01,Baylor,SWC,Bubs Mosley,H,Southwestern (TX),Ind,,W,20,0
+1919-11-15,Baylor,SWC,Bubs Mosley,H,Texas A&M,SWC,Dana Bible,L,0,10
+1919-11-18,Baylor,SWC,Bubs Mosley,H,Sewanee,Ind,,W,21,7
+1919-11-22,Baylor,SWC,Bubs Mosley,H,SMU,SWC,J. Rix,T,7,7
+1919-11-27,Baylor,SWC,Bubs Mosley,A,Texas Christian,Ind,T.D. Hackney,W,7,0
+1919-10-11,SMU,SWC,J. Rix,H,Texas A&M,SWC,Dana Bible,L,0,16
+1919-11-08,SMU,SWC,J. Rix,A,Rice,SWC,Phillip Arbuckle,L,14,21
+1919-11-22,SMU,SWC,J. Rix,A,Baylor,SWC,Bubs Mosley,T,7,7
+1919-11-27,SMU,SWC,J. Rix,A,Southwestern (TX),Ind,,L,6,10
+1919-10-04,Georgia,Ind,W.A. Cunningham,H,Citadel,Ind,George Rogers,W,28,0
+1919-10-11,Georgia,Ind,W.A. Cunningham,H,South Carolina,Ind,Dixon Foster,W,14,0
+1919-10-18,Georgia,Ind,W.A. Cunningham,H,Sewanee,Ind,,W,13,0
+1919-10-25,Georgia,Ind,W.A. Cunningham,A,Florida,Ind,,W,16,0
+1919-11-01,Georgia,Ind,W.A. Cunningham,N,Auburn,Ind,Mike Donahue,L,0,7
+1919-11-07,Georgia,Ind,W.A. Cunningham,H,Virginia,Ind,Harris Coleman,T,7,7
+1919-11-15,Georgia,Ind,W.A. Cunningham,H,Tulane,Ind,Clark Shaughnessy,T,7,7
+1919-11-22,Georgia,Ind,W.A. Cunningham,H,Alabama,Ind,Xen Scott,L,0,6
+1919-11-27,Georgia,Ind,W.A. Cunningham,H,Clemson,Ind,Edward Donahue,T,0,0
+1919-10-11,Maryland,Ind,Curley Byrd,A,Virginia,Ind,Harris Coleman,W,13,0
+1919-10-18,Maryland,Ind,Curley Byrd,H,West Virginia,Ind,Mont McIntire,L,0,27
+1919-10-25,Maryland,Ind,Curley Byrd,H,Virginia Tech,Ind,Charles Bernier,L,0,6
+1919-11-01,Maryland,Ind,Curley Byrd,A,Yale,Ind,,L,0,31
+1919-10-11,Virginia,Ind,Harris Coleman,H,Maryland,Ind,Curley Byrd,L,0,13
+1919-10-18,Virginia,Ind,Harris Coleman,H,Virginia Military Institute,Ind,Red Fleming,W,7,0
+1919-10-25,Virginia,Ind,Harris Coleman,A,Harvard,Ind,Robert Fisher,L,0,47
+1919-11-01,Virginia,Ind,Harris Coleman,H,Centre,Ind,Charley Moran,L,7,49
+1919-11-07,Virginia,Ind,Harris Coleman,A,Georgia,Ind,W.A. Cunningham,T,7,7
+1919-11-15,Virginia,Ind,Harris Coleman,H,Vanderbilt,Ind,Dan McGugin,L,6,10
+1919-11-27,Virginia,Ind,Harris Coleman,A,North Carolina,Ind,Thomas Campbell,L,0,6
+1919-10-04,Citadel,Ind,George Rogers,A,Georgia,Ind,W.A. Cunningham,L,0,28
+1919-10-11,Citadel,Ind,George Rogers,H,Presbyterian,Ind,Walter Johnson,W,12,7
+1919-10-18,Citadel,Ind,George Rogers,A,Wofford,Ind,Rip Major,L,0,12
+1919-11-01,Citadel,Ind,George Rogers,A,Furman,Ind,,L,6,21
+1919-11-08,Citadel,Ind,George Rogers,A,Newberry,Ind,L.C. Sullivan,W,41,0
+1919-11-13,Citadel,Ind,George Rogers,N,Clemson,Ind,Edward Donahue,L,0,33
+1919-11-18,Citadel,Ind,George Rogers,H,Oglethorpe,Ind,Frank Anderson,T,0,0
+1919-11-27,Citadel,Ind,George Rogers,A,South Carolina,Ind,Dixon Foster,W,14,7
+1919-10-18,Oklahoma,SWC,Bennie Owen,N,Texas,SWC,William Juneau,W,12,7
+1919-10-25,Oklahoma,SWC,Bennie Owen,A,Nebraska,Ind,Henry Schulte,T,7,7
+1919-11-01,Oklahoma,SWC,Bennie Owen,H,Missouri,MVIAA,John Miller,T,6,6
+1919-11-08,Oklahoma,SWC,Bennie Owen,A,Kansas,MVIAA,Leon McCarty,T,0,0
+1919-11-15,Oklahoma,SWC,Bennie Owen,A,Arkansas,SWC,J.B. Craig,L,6,7
+1919-11-22,Oklahoma,SWC,Bennie Owen,A,Kansas State,MVIAA,Zora Clevenger,W,14,3
+1919-11-27,Oklahoma,SWC,Bennie Owen,N,Oklahoma State,SWC,James Pixlee,W,33,6
+1919-10-18,Virginia Tech,Ind,Charles Bernier,A,Georgetown,Ind,,L,7,33
+1919-10-25,Virginia Tech,Ind,Charles Bernier,A,Maryland,Ind,Curley Byrd,W,6,0
+1919-11-01,Virginia Tech,Ind,Charles Bernier,N,Washington & Lee,Ind,Bill Raftery,L,0,3
+1919-11-08,Virginia Tech,Ind,Charles Bernier,H,Wake Forest,Ind,Harry Rabenhorst,W,40,0
+1919-11-15,Virginia Tech,Ind,Charles Bernier,N,North Carolina State,Ind,William Fetzer,L,0,3
+1919-11-27,Virginia Tech,Ind,Charles Bernier,N,Virginia Military Institute,Ind,Red Fleming,L,0,13
+1919-10-25,Arkansas,SWC,J.B. Craig,N,LSU,Ind,Irving Pray,L,0,20
+1919-11-08,Arkansas,SWC,J.B. Craig,A,Texas,SWC,William Juneau,L,7,35
+1919-11-15,Arkansas,SWC,J.B. Craig,H,Oklahoma,SWC,Bennie Owen,W,7,6
+1919-11-27,Arkansas,SWC,J.B. Craig,A,Rice,SWC,Phillip Arbuckle,L,7,40
+1919-09-27,Clemson,Ind,Edward Donahue,H,Erskine,Ind,,W,53,0
+1919-10-03,Clemson,Ind,Edward Donahue,H,Davidson,Ind,Pete Crayton,W,7,0
+1919-10-11,Clemson,Ind,Edward Donahue,A,Georgia Tech,Ind,John Heisman,L,0,28
+1919-10-17,Clemson,Ind,Edward Donahue,A,Auburn,Ind,Mike Donahue,L,0,7
+1919-10-25,Clemson,Ind,Edward Donahue,H,Tennessee,Ind,John Bender,W,14,0
+1919-10-30,Clemson,Ind,Edward Donahue,A,South Carolina,Ind,Dixon Foster,W,19,6
+1919-11-07,Clemson,Ind,Edward Donahue,H,Presbyterian,Ind,Walter Johnson,W,19,7
+1919-11-13,Clemson,Ind,Edward Donahue,N,Citadel,Ind,George Rogers,W,33,0
+1919-11-21,Clemson,Ind,Edward Donahue,A,Furman,Ind,,T,7,7
+1919-11-27,Clemson,Ind,Edward Donahue,A,Georgia,Ind,W.A. Cunningham,T,0,0
+1919-09-27,South Carolina,Ind,Dixon Foster,H,Presbyterian,Ind,Walter Johnson,L,0,6
+1919-10-04,South Carolina,Ind,Dixon Foster,H,Erskine,Ind,,W,6,0
+1919-10-11,South Carolina,Ind,Dixon Foster,A,Georgia,Ind,W.A. Cunningham,L,0,14
+1919-10-18,South Carolina,Ind,Dixon Foster,H,Davidson,Ind,Pete Crayton,L,0,7
+1919-10-30,South Carolina,Ind,Dixon Foster,H,Clemson,Ind,Edward Donahue,L,6,19
+1919-11-08,South Carolina,Ind,Dixon Foster,H,Tennessee,Ind,John Bender,T,6,6
+1919-11-15,South Carolina,Ind,Dixon Foster,A,Washington & Lee,Ind,Bill Raftery,L,0,26
+1919-11-22,South Carolina,Ind,Dixon Foster,H,Florida,Ind,,L,0,13
+1919-11-27,South Carolina,Ind,Dixon Foster,H,Citadel,Ind,George Rogers,L,7,14
+1919-11-01,Washington,PCC,Claude Hunt,H,Oregon,PCC,Shy Huntington,L,13,24
+1919-11-15,Washington,PCC,Claude Hunt,A,Washington State,PCC,Gus Welch,W,13,7
+1919-11-27,Washington,PCC,Claude Hunt,H,California,PCC,Andy Smith,W,7,0
+1919-11-08,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,7,27
+1919-11-15,Utah State,RMC,,A,Colorado,RMC,Joe Mills,W,19,7
+1919-11-20,Utah State,RMC,,A,Wyoming,RMC,John Corbett,W,6,0
+1919-11-29,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,L,0,10
+1919-10-11,Missouri,MVIAA,John Miller,A,Kansas State,MVIAA,Zora Clevenger,T,6,6
+1919-10-18,Missouri,MVIAA,John Miller,H,Iowa State,MVIAA,,W,10,0
+1919-10-25,Missouri,MVIAA,John Miller,H,Drake,MVIAA,Mark Banks,W,3,0
+1919-11-01,Missouri,MVIAA,John Miller,A,Oklahoma,SWC,Bennie Owen,T,6,6
+1919-11-08,Missouri,MVIAA,John Miller,H,Nebraska,Ind,Henry Schulte,L,5,12
+1919-11-15,Missouri,MVIAA,John Miller,A,Washington (MO),MVIAA,R.B. Rutherford,W,7,0
+1919-11-27,Missouri,MVIAA,John Miller,A,Kansas,MVIAA,Leon McCarty,W,13,6
+1919-10-18,Denver,RMC,George Koonsman,H,Colorado,RMC,Joe Mills,L,7,26
+1919-10-25,Denver,RMC,George Koonsman,H,Wyoming,RMC,John Corbett,L,6,36
+1919-11-01,Denver,RMC,George Koonsman,H,Colorado State,RMC,Harry Hughes,L,3,33
+1919-11-08,Denver,RMC,George Koonsman,H,Colorado Mines,RMC,Ralph Glaze,T,0,0
+1919-11-15,Denver,RMC,George Koonsman,A,Colorado College,RMC,Poss Parsons,L,0,38
+1919-10-25,Washington & Jefferson,Ind,D.C. Morrow,A,Syracuse,Ind,,W,13,0
+1919-11-08,Washington & Jefferson,Ind,D.C. Morrow,A,Pitt,Ind,Pop Warner,L,6,7
+1919-11-25,Washington & Jefferson,Ind,D.C. Morrow,A,West Virginia,Ind,Mont McIntire,L,0,7
+1919-10-11,Wofford,Ind,Rip Major,A,Furman,Ind,,L,6,7
+1919-10-18,Wofford,Ind,Rip Major,H,Citadel,Ind,George Rogers,W,12,0
+1919-10-25,Wofford,Ind,Rip Major,A,Newberry,Ind,L.C. Sullivan,W,27,0
+1919-11-01,Wofford,Ind,Rip Major,H,Erskine,Ind,,W,19,0
+1919-11-15,Wofford,Ind,Rip Major,H,Presbyterian,Ind,Walter Johnson,L,6,14
+1919-10-11,Mississippi College,Ind,Frank Anderson,A,Mississippi State,Ind,Sid Robinson,L,7,56
+1919-11-01,Mississippi College,Ind,Frank Anderson,A,Tulane,Ind,Clark Shaughnessy,L,0,49
+1919-11-08,Mississippi College,Ind,Frank Anderson,A,LSU,Ind,Irving Pray,L,0,24
+1919-11-27,Mississippi College,Ind,Frank Anderson,N,Ole Miss,Ind,R.L. Sullivan,L,0,6
+1919-10-18,Wisconsin,Western,J.R. Richards,A,Northwestern,Western,Charlie Bachman,W,10,6
+1919-10-25,Wisconsin,Western,J.R. Richards,A,Illinois,Western,Robert Zuppke,W,14,10
+1919-11-01,Wisconsin,Western,J.R. Richards,H,Minnesota,Western,Henry Williams,L,7,19
+1919-11-15,Wisconsin,Western,J.R. Richards,H,Ohio State,Western,John Wilce,L,0,3
+1919-11-22,Wisconsin,Western,J.R. Richards,A,Chicago,Western,Amos Alonzo Stagg,W,10,3
+1919-09-27,Bucknell,Ind,Pete Reynolds,A,Pennsylvania,Ind,,L,0,16
+1919-10-11,Bucknell,Ind,Pete Reynolds,A,Penn State,Ind,Hugo Bezdek,L,0,9
+1919-10-25,Bucknell,Ind,Pete Reynolds,A,Navy,Ind,Gilmour Dobie,L,6,21
+1919-11-08,Bucknell,Ind,Pete Reynolds,A,Syracuse,Ind,,L,0,9
+1919-10-18,Colorado Mines,RMC,Ralph Glaze,A,Wyoming,RMC,John Corbett,L,6,16
+1919-11-01,Colorado Mines,RMC,Ralph Glaze,A,Colorado College,RMC,Poss Parsons,L,3,7
+1919-11-08,Colorado Mines,RMC,Ralph Glaze,A,Denver,RMC,George Koonsman,T,0,0
+1919-11-15,Colorado Mines,RMC,Ralph Glaze,H,Colorado State,RMC,Harry Hughes,L,6,33
+1919-11-29,Colorado Mines,RMC,Ralph Glaze,A,Colorado,RMC,Joe Mills,L,0,33
+1919-10-04,North Carolina State,Ind,William Fetzer,A,Navy,Ind,Gilmour Dobie,L,0,49
+1919-10-23,North Carolina State,Ind,William Fetzer,H,North Carolina,Ind,Thomas Campbell,L,12,13
+1919-11-01,North Carolina State,Ind,William Fetzer,A,Virginia Military Institute,Ind,Red Fleming,W,21,0
+1919-11-08,North Carolina State,Ind,William Fetzer,H,Davidson,Ind,Pete Crayton,W,36,6
+1919-11-15,North Carolina State,Ind,William Fetzer,N,Virginia Tech,Ind,Charles Bernier,W,3,0
+1919-11-27,North Carolina State,Ind,William Fetzer,H,Wake Forest,Ind,Harry Rabenhorst,W,21,7
+1919-10-04,Rutgers,Ind,George Sanford,H,North Carolina,Ind,Thomas Campbell,W,19,9
+1919-10-11,Rutgers,Ind,George Sanford,A,Lehigh,Ind,Tom Keady,L,0,19
+1919-11-04,Rutgers,Ind,George Sanford,N,Syracuse,Ind,,L,0,14
+1919-11-08,Rutgers,Ind,George Sanford,A,Boston College,Ind,Frank Cavanaugh,W,13,7
+1919-11-15,Rutgers,Ind,George Sanford,H,West Virginia,Ind,Mont McIntire,L,7,30
+1919-11-27,Rutgers,Ind,George Sanford,H,Northwestern,Western,Charlie Bachman,W,28,0
+1919-10-25,Michigan,Western,Fielding Yost,H,Ohio State,Western,John Wilce,L,3,13
+1919-11-01,Michigan,Western,Fielding Yost,H,Northwestern,Western,Charlie Bachman,W,16,13
+1919-11-08,Michigan,Western,Fielding Yost,A,Chicago,Western,Amos Alonzo Stagg,L,0,13
+1919-11-15,Michigan,Western,Fielding Yost,A,Illinois,Western,Robert Zuppke,L,7,29
+1919-11-22,Michigan,Western,Fielding Yost,H,Minnesota,Western,Henry Williams,L,7,34
+1919-10-18,Notre Dame,Ind,Knute Rockne,A,Nebraska,Ind,Henry Schulte,W,14,9
+1919-11-01,Notre Dame,Ind,Knute Rockne,N,Indiana,Western,Jumbo Stiehm,W,16,3
+1919-11-08,Notre Dame,Ind,Knute Rockne,A,Army,Ind,Charles Daly,W,12,9
+1919-11-22,Notre Dame,Ind,Knute Rockne,A,Purdue,Western,Butch Scanlon,W,33,13
+1919-10-11,Pitt,Ind,Pop Warner,H,West Virginia,Ind,Mont McIntire,W,26,0
+1919-10-18,Pitt,Ind,Pop Warner,A,Syracuse,Ind,,L,3,24
+1919-10-25,Pitt,Ind,Pop Warner,H,Georgia Tech,Ind,John Heisman,W,16,6
+1919-11-01,Pitt,Ind,Pop Warner,A,Lehigh,Ind,Tom Keady,W,14,0
+1919-11-08,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,D.C. Morrow,W,7,6
+1919-11-15,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,,T,3,3
+1919-11-27,Pitt,Ind,Pop Warner,H,Penn State,Ind,Hugo Bezdek,L,0,20
+1919-10-11,Newberry,Ind,L.C. Sullivan,H,Erskine,Ind,,L,0,6
+1919-10-18,Newberry,Ind,L.C. Sullivan,A,Erskine,Ind,,L,0,44
+1919-10-25,Newberry,Ind,L.C. Sullivan,H,Wofford,Ind,Rip Major,L,0,27
+1919-11-08,Newberry,Ind,L.C. Sullivan,H,Citadel,Ind,George Rogers,L,0,41
+1919-11-27,Newberry,Ind,L.C. Sullivan,A,Presbyterian,Ind,Walter Johnson,T,0,0
+1919-09-27,Wyoming,RMC,John Corbett,H,Colorado State,RMC,Harry Hughes,L,0,28
+1919-10-04,Wyoming,RMC,John Corbett,A,Colorado State,RMC,Harry Hughes,L,0,14
+1919-10-18,Wyoming,RMC,John Corbett,H,Colorado Mines,RMC,Ralph Glaze,W,16,6
+1919-10-25,Wyoming,RMC,John Corbett,A,Denver,RMC,George Koonsman,W,36,6
+1919-11-20,Wyoming,RMC,John Corbett,H,Utah State,RMC,,L,0,6
+1919-10-11,Yale,Ind,,H,North Carolina,Ind,Thomas Campbell,W,34,7
+1919-10-18,Yale,Ind,,H,Boston College,Ind,Frank Cavanaugh,L,3,5
+1919-11-01,Yale,Ind,,H,Maryland,Ind,Curley Byrd,W,31,0
+1919-11-08,Yale,Ind,,H,Brown,Ind,Edward Robinson,W,14,0
+1919-11-15,Yale,Ind,,H,Princeton,Ind,,L,6,13
+1919-11-22,Yale,Ind,,A,Harvard,Ind,Robert Fisher,L,3,10
+1919-10-11,Grinnell,MVIAA,Russell Tollefson,A,Iowa State,MVIAA,,L,0,7
+1919-10-25,Grinnell,MVIAA,Russell Tollefson,H,Washington (MO),MVIAA,R.B. Rutherford,L,0,13
+1919-11-01,Grinnell,MVIAA,Russell Tollefson,A,Drake,MVIAA,Mark Banks,L,0,6
+1919-09-27,Georgia Tech,Ind,John Heisman,H,Furman,Ind,,W,74,0
+1919-10-04,Georgia Tech,Ind,John Heisman,H,Wake Forest,Ind,Harry Rabenhorst,W,14,0
+1919-10-11,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Edward Donahue,W,28,0
+1919-10-18,Georgia Tech,Ind,John Heisman,H,Vanderbilt,Ind,Dan McGugin,W,20,0
+1919-10-25,Georgia Tech,Ind,John Heisman,A,Pitt,Ind,Pop Warner,L,6,16
+1919-11-01,Georgia Tech,Ind,John Heisman,H,Davidson,Ind,Pete Crayton,W,33,0
+1919-11-08,Georgia Tech,Ind,John Heisman,H,Washington & Lee,Ind,Bill Raftery,L,0,3
+1919-11-15,Georgia Tech,Ind,John Heisman,H,Georgetown,Ind,,W,27,0
+1919-11-27,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,7,14
+1919-09-26,Wake Forest,Ind,Harry Rabenhorst,H,Davidson,Ind,Pete Crayton,L,0,21
+1919-10-04,Wake Forest,Ind,Harry Rabenhorst,A,Georgia Tech,Ind,John Heisman,L,0,14
+1919-10-18,Wake Forest,Ind,Harry Rabenhorst,A,North Carolina,Ind,Thomas Campbell,L,0,6
+1919-10-25,Wake Forest,Ind,Harry Rabenhorst,A,Furman,Ind,,L,7,39
+1919-11-08,Wake Forest,Ind,Harry Rabenhorst,A,Virginia Tech,Ind,Charles Bernier,L,0,40
+1919-11-27,Wake Forest,Ind,Harry Rabenhorst,A,North Carolina State,Ind,William Fetzer,L,7,21
+1919-10-04,Mississippi State,Ind,Sid Robinson,H,Spring Hill,Ind,,W,12,6
+1919-10-11,Mississippi State,Ind,Sid Robinson,H,Mississippi College,Ind,Frank Anderson,W,56,7
+1919-10-18,Mississippi State,Ind,Sid Robinson,A,Tennessee,Ind,John Bender,W,6,0
+1919-10-25,Mississippi State,Ind,Sid Robinson,H,Samford,Ind,,W,39,0
+1919-11-01,Mississippi State,Ind,Sid Robinson,H,LSU,Ind,Irving Pray,W,6,0
+1919-11-08,Mississippi State,Ind,Sid Robinson,N,Ole Miss,Ind,R.L. Sullivan,W,33,0
+1919-11-15,Mississippi State,Ind,Sid Robinson,A,Auburn,Ind,Mike Donahue,L,0,7
+1919-11-27,Mississippi State,Ind,Sid Robinson,A,Alabama,Ind,Xen Scott,L,6,14
+1919-10-18,Virginia Military Institute,Ind,Red Fleming,A,Virginia,Ind,Harris Coleman,L,0,7
+1919-10-25,Virginia Military Institute,Ind,Red Fleming,H,Davidson,Ind,Pete Crayton,W,14,7
+1919-11-01,Virginia Military Institute,Ind,Red Fleming,H,North Carolina State,Ind,William Fetzer,L,0,21
+1919-11-08,Virginia Military Institute,Ind,Red Fleming,A,North Carolina,Ind,Thomas Campbell,W,29,7
+1919-11-27,Virginia Military Institute,Ind,Red Fleming,N,Virginia Tech,Ind,Charles Bernier,W,13,0
+1919-10-11,Kansas State,MVIAA,Zora Clevenger,H,Missouri,MVIAA,John Miller,T,6,6
+1919-10-18,Kansas State,MVIAA,Zora Clevenger,H,Washington (MO),MVIAA,R.B. Rutherford,L,9,14
+1919-11-01,Kansas State,MVIAA,Zora Clevenger,A,Kansas,MVIAA,Leon McCarty,L,3,16
+1919-11-15,Kansas State,MVIAA,Zora Clevenger,A,Iowa State,MVIAA,,L,0,46
+1919-11-22,Kansas State,MVIAA,Zora Clevenger,H,Oklahoma,SWC,Bennie Owen,L,3,14
+1919-10-04,Samford,Ind,,H,Auburn,Ind,Mike Donahue,L,6,19
+1919-10-11,Samford,Ind,,A,Sewanee,Ind,,L,0,18
+1919-10-18,Samford,Ind,,A,Alabama,Ind,Xen Scott,L,0,48
+1919-10-25,Samford,Ind,,A,Mississippi State,Ind,Sid Robinson,L,0,39
+1919-11-26,Samford,Ind,,H,Spring Hill,Ind,,T,6,6
+1919-10-11,Army,Ind,Charles Daly,H,Syracuse,Ind,,L,3,7
+1919-10-25,Army,Ind,Charles Daly,H,Boston College,Ind,Frank Cavanaugh,W,13,0
+1919-11-08,Army,Ind,Charles Daly,H,Notre Dame,Ind,Knute Rockne,L,9,12
+1919-11-29,Army,Ind,Charles Daly,H,Navy,Ind,Gilmour Dobie,L,0,6
+1919-10-18,Dartmouth,Ind,,H,Penn State,Ind,Hugo Bezdek,W,19,13
+1919-10-25,Dartmouth,Ind,,N,Cornell,Ind,John Rush,W,9,0
+1919-11-01,Dartmouth,Ind,,H,Colgate,Ind,Ellery Huntington,T,7,7
+1919-11-08,Dartmouth,Ind,,N,Pennsylvania,Ind,,W,20,19
+1919-11-15,Dartmouth,Ind,,N,Brown,Ind,Edward Robinson,L,6,7
+1919-10-04,Auburn,Ind,Mike Donahue,A,Samford,Ind,,W,19,6
+1919-10-17,Auburn,Ind,Mike Donahue,H,Clemson,Ind,Edward Donahue,W,7,0
+1919-10-25,Auburn,Ind,Mike Donahue,A,Vanderbilt,Ind,Dan McGugin,L,6,7
+1919-11-01,Auburn,Ind,Mike Donahue,N,Georgia,Ind,W.A. Cunningham,W,7,0
+1919-11-08,Auburn,Ind,Mike Donahue,A,Spring Hill,Ind,,W,10,0
+1919-11-15,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,Sid Robinson,W,7,0
+1919-11-27,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,14,7
+1919-10-18,Northwestern,Western,Charlie Bachman,H,Wisconsin,Western,J.R. Richards,L,6,10
+1919-10-25,Northwestern,Western,Charlie Bachman,A,Chicago,Western,Amos Alonzo Stagg,L,0,41
+1919-11-01,Northwestern,Western,Charlie Bachman,A,Michigan,Western,Fielding Yost,L,13,16
+1919-11-08,Northwestern,Western,Charlie Bachman,H,Iowa,Western,Howard Jones,L,7,14
+1919-11-15,Northwestern,Western,Charlie Bachman,H,Indiana,Western,Jumbo Stiehm,W,3,2
+1919-11-27,Northwestern,Western,Charlie Bachman,A,Rutgers,Ind,George Sanford,L,0,28
+1919-10-25,Kansas,MVIAA,Leon McCarty,A,Iowa State,MVIAA,,T,0,0
+1919-11-01,Kansas,MVIAA,Leon McCarty,H,Kansas State,MVIAA,Zora Clevenger,W,16,3
+1919-11-08,Kansas,MVIAA,Leon McCarty,H,Oklahoma,SWC,Bennie Owen,T,0,0
+1919-11-15,Kansas,MVIAA,Leon McCarty,A,Nebraska,Ind,Henry Schulte,L,7,19
+1919-11-27,Kansas,MVIAA,Leon McCarty,H,Missouri,MVIAA,John Miller,L,6,13
+1919-10-18,LSU,Ind,Irving Pray,H,Ole Miss,Ind,R.L. Sullivan,W,13,0
+1919-10-25,LSU,Ind,Irving Pray,N,Arkansas,SWC,J.B. Craig,W,20,0
+1919-11-01,LSU,Ind,Irving Pray,A,Mississippi State,Ind,Sid Robinson,L,0,6
+1919-11-08,LSU,Ind,Irving Pray,H,Mississippi College,Ind,Frank Anderson,W,24,0
+1919-11-15,LSU,Ind,Irving Pray,H,Alabama,Ind,Xen Scott,L,0,23
+1919-11-22,LSU,Ind,Irving Pray,A,Tulane,Ind,Clark Shaughnessy,W,27,6
+1919-09-27,Pennsylvania,Ind,,H,Bucknell,Ind,Pete Reynolds,W,16,0
+1919-10-25,Pennsylvania,Ind,,H,Lafayette,Ind,Jock Sutherland,W,23,0
+1919-11-01,Pennsylvania,Ind,,H,Penn State,Ind,Hugo Bezdek,L,0,10
+1919-11-08,Pennsylvania,Ind,,N,Dartmouth,Ind,,L,19,20
+1919-11-15,Pennsylvania,Ind,,H,Pitt,Ind,Pop Warner,T,3,3
+1919-11-27,Pennsylvania,Ind,,H,Cornell,Ind,John Rush,W,24,0
+1919-10-04,Iowa,Western,Howard Jones,H,Nebraska,Ind,Henry Schulte,W,18,0
+1919-10-18,Iowa,Western,Howard Jones,A,Illinois,Western,Robert Zuppke,L,7,9
+1919-10-25,Iowa,Western,Howard Jones,A,Minnesota,Western,Henry Williams,W,9,6
+1919-11-08,Iowa,Western,Howard Jones,A,Northwestern,Western,Charlie Bachman,W,14,7
+1919-11-15,Iowa,Western,Howard Jones,A,Chicago,Western,Amos Alonzo Stagg,L,6,9
+1919-11-22,Iowa,Western,Howard Jones,H,Iowa State,MVIAA,,W,10,0
+1919-10-04,Texas,SWC,William Juneau,H,Southwestern (TX),Ind,,W,39,0
+1919-10-18,Texas,SWC,William Juneau,N,Oklahoma,SWC,Bennie Owen,L,7,12
+1919-10-25,Texas,SWC,William Juneau,A,Baylor,SWC,Bubs Mosley,W,29,13
+1919-11-01,Texas,SWC,William Juneau,H,Rice,SWC,Phillip Arbuckle,W,32,7
+1919-11-08,Texas,SWC,William Juneau,H,Arkansas,SWC,J.B. Craig,W,35,7
+1919-11-27,Texas,SWC,William Juneau,A,Texas A&M,SWC,Dana Bible,L,0,7
+1919-10-18,Texas Christian,Ind,T.D. Hackney,H,Oklahoma State,SWC,James Pixlee,L,7,14
+1919-10-25,Texas Christian,Ind,T.D. Hackney,H,Southwestern (TX),Ind,,L,0,10
+1919-11-08,Texas Christian,Ind,T.D. Hackney,A,Texas A&M,SWC,Dana Bible,L,0,48
+1919-11-27,Texas Christian,Ind,T.D. Hackney,H,Baylor,SWC,Bubs Mosley,L,0,7
+1919-11-01,Oregon,PCC,Shy Huntington,A,Washington,PCC,Claude Hunt,W,24,13
+1919-11-08,Oregon,PCC,Shy Huntington,H,Washington State,PCC,Gus Welch,L,0,7
+1919-11-15,Oregon,PCC,Shy Huntington,H,Oregon State,PCC,Bill Hargiss,W,9,0
+1920-01-01,Oregon,PCC,Shy Huntington,N,Harvard,Ind,Robert Fisher,L,6,7
+1919-10-11,Brown,Ind,Edward Robinson,A,Colgate,Ind,Ellery Huntington,L,0,14
+1919-10-18,Brown,Ind,Edward Robinson,A,Harvard,Ind,Robert Fisher,L,0,7
+1919-11-01,Brown,Ind,Edward Robinson,H,Syracuse,Ind,,L,0,13
+1919-11-08,Brown,Ind,Edward Robinson,A,Yale,Ind,,L,0,14
+1919-11-15,Brown,Ind,Edward Robinson,N,Dartmouth,Ind,,W,7,6
+1919-09-27,Erskine,Ind,,A,Clemson,Ind,Edward Donahue,L,0,53
+1919-10-04,Erskine,Ind,,A,South Carolina,Ind,Dixon Foster,L,0,6
+1919-10-11,Erskine,Ind,,A,Newberry,Ind,L.C. Sullivan,W,6,0
+1919-10-18,Erskine,Ind,,H,Newberry,Ind,L.C. Sullivan,W,44,0
+1919-10-25,Erskine,Ind,,A,Presbyterian,Ind,Walter Johnson,L,7,33
+1919-11-01,Erskine,Ind,,A,Wofford,Ind,Rip Major,L,0,19
+1919-11-15,Erskine,Ind,,A,Furman,Ind,,L,0,41
+1919-10-04,Spring Hill,Ind,,A,Mississippi State,Ind,Sid Robinson,L,6,12
+1919-10-18,Spring Hill,Ind,,H,Tulane,Ind,Clark Shaughnessy,L,0,21
+1919-11-08,Spring Hill,Ind,,H,Auburn,Ind,Mike Donahue,L,0,10
+1919-11-26,Spring Hill,Ind,,A,Samford,Ind,,T,6,6
+1919-10-11,Tennessee,Ind,John Bender,A,Vanderbilt,Ind,Dan McGugin,T,3,3
+1919-10-18,Tennessee,Ind,John Bender,H,Mississippi State,Ind,Sid Robinson,L,0,6
+1919-10-25,Tennessee,Ind,John Bender,A,Clemson,Ind,Edward Donahue,L,0,14
+1919-11-01,Tennessee,Ind,John Bender,H,North Carolina,Ind,Thomas Campbell,T,0,0
+1919-11-08,Tennessee,Ind,John Bender,A,South Carolina,Ind,Dixon Foster,T,6,6
+1919-11-27,Tennessee,Ind,John Bender,A,Kentucky,Ind,Andrew Gill,L,0,13
+1919-10-11,Lehigh,Ind,Tom Keady,H,Rutgers,Ind,George Sanford,W,19,0
+1919-11-01,Lehigh,Ind,Tom Keady,H,Pitt,Ind,Pop Warner,L,0,14
+1919-11-08,Lehigh,Ind,Tom Keady,A,Penn State,Ind,Hugo Bezdek,L,7,20
+1919-11-22,Lehigh,Ind,Tom Keady,H,Lafayette,Ind,Jock Sutherland,L,6,10
+1919-10-25,Oregon State,PCC,Bill Hargiss,H,Stanford,PCC,Bob Evans,L,6,14
+1919-11-01,Oregon State,PCC,Bill Hargiss,A,California,PCC,Andy Smith,L,14,21
+1919-11-15,Oregon State,PCC,Bill Hargiss,A,Oregon,PCC,Shy Huntington,L,0,9
+1919-11-22,Oregon State,PCC,Bill Hargiss,H,Washington State,PCC,Gus Welch,W,6,0
+1919-10-11,Alabama,Ind,Xen Scott,H,Ole Miss,Ind,R.L. Sullivan,W,49,0
+1919-10-18,Alabama,Ind,Xen Scott,H,Samford,Ind,,W,48,0
+1919-11-01,Alabama,Ind,Xen Scott,H,Sewanee,Ind,,W,40,0
+1919-11-08,Alabama,Ind,Xen Scott,A,Vanderbilt,Ind,Dan McGugin,L,12,16
+1919-11-15,Alabama,Ind,Xen Scott,A,LSU,Ind,Irving Pray,W,23,0
+1919-11-22,Alabama,Ind,Xen Scott,A,Georgia,Ind,W.A. Cunningham,W,6,0
+1919-11-27,Alabama,Ind,Xen Scott,H,Mississippi State,Ind,Sid Robinson,W,14,6
+1919-10-11,Purdue,Western,Butch Scanlon,H,Illinois,Western,Robert Zuppke,L,7,14
+1919-10-18,Purdue,Western,Butch Scanlon,A,Chicago,Western,Amos Alonzo Stagg,L,0,16
+1919-11-08,Purdue,Western,Butch Scanlon,A,Ohio State,Western,John Wilce,L,0,20
+1919-11-22,Purdue,Western,Butch Scanlon,H,Notre Dame,Ind,Knute Rockne,L,13,33
+1919-10-04,Nebraska,Ind,Henry Schulte,A,Iowa,Western,Howard Jones,L,0,18
+1919-10-11,Nebraska,Ind,Henry Schulte,A,Minnesota,Western,Henry Williams,T,6,6
+1919-10-18,Nebraska,Ind,Henry Schulte,H,Notre Dame,Ind,Knute Rockne,L,9,14
+1919-10-25,Nebraska,Ind,Henry Schulte,H,Oklahoma,SWC,Bennie Owen,T,7,7
+1919-11-01,Nebraska,Ind,Henry Schulte,H,Iowa State,MVIAA,,L,0,3
+1919-11-08,Nebraska,Ind,Henry Schulte,A,Missouri,MVIAA,John Miller,W,12,5
+1919-11-15,Nebraska,Ind,Henry Schulte,H,Kansas,MVIAA,Leon McCarty,W,19,7
+1919-11-27,Nebraska,Ind,Henry Schulte,H,Syracuse,Ind,,W,3,0
+1919-10-11,West Virginia,Ind,Mont McIntire,A,Pitt,Ind,Pop Warner,L,0,26
+1919-10-18,West Virginia,Ind,Mont McIntire,A,Maryland,Ind,Curley Byrd,W,27,0
+1919-11-01,West Virginia,Ind,Mont McIntire,A,Princeton,Ind,,W,25,0
+1919-11-08,West Virginia,Ind,Mont McIntire,N,Centre,Ind,Charley Moran,L,6,14
+1919-11-15,West Virginia,Ind,Mont McIntire,A,Rutgers,Ind,George Sanford,W,30,7
+1919-11-25,West Virginia,Ind,Mont McIntire,H,Washington & Jefferson,Ind,D.C. Morrow,W,7,0
+1919-10-04,Harvard,Ind,Robert Fisher,H,Boston College,Ind,Frank Cavanaugh,W,17,0
+1919-10-18,Harvard,Ind,Robert Fisher,H,Brown,Ind,Edward Robinson,W,7,0
+1919-10-25,Harvard,Ind,Robert Fisher,H,Virginia,Ind,Harris Coleman,W,47,0
+1919-11-08,Harvard,Ind,Robert Fisher,A,Princeton,Ind,,T,10,10
+1919-11-22,Harvard,Ind,Robert Fisher,H,Yale,Ind,,W,10,3
+1920-01-01,Harvard,Ind,Robert Fisher,N,Oregon,PCC,Shy Huntington,W,7,6
+1919-10-18,Oklahoma State,SWC,James Pixlee,A,Texas Christian,Ind,T.D. Hackney,W,14,7
+1919-11-01,Oklahoma State,SWC,James Pixlee,A,Texas A&M,SWC,Dana Bible,L,0,28
+1919-11-27,Oklahoma State,SWC,James Pixlee,N,Oklahoma,SWC,Bennie Owen,L,6,33
+1919-10-11,Colorado,RMC,Joe Mills,A,Colorado State,RMC,Harry Hughes,L,7,49
+1919-10-18,Colorado,RMC,Joe Mills,A,Denver,RMC,George Koonsman,W,26,7
+1919-10-25,Colorado,RMC,Joe Mills,H,Colorado College,RMC,Poss Parsons,T,14,14
+1919-11-08,Colorado,RMC,Joe Mills,A,Utah,RMC,Thomas Fitzpatrick,L,0,7
+1919-11-15,Colorado,RMC,Joe Mills,H,Utah State,RMC,,L,7,19
+1919-11-29,Colorado,RMC,Joe Mills,H,Colorado Mines,RMC,Ralph Glaze,W,33,0
+1919-10-04,Oglethorpe,Ind,Frank Anderson,A,Furman,Ind,,L,0,13
+1919-11-08,Oglethorpe,Ind,Frank Anderson,A,Sewanee,Ind,,L,0,21
+1919-11-18,Oglethorpe,Ind,Frank Anderson,A,Citadel,Ind,George Rogers,T,0,0
+1919-11-27,Oglethorpe,Ind,Frank Anderson,A,Florida,Ind,,L,7,14
+1919-09-27,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,John Corbett,W,28,0
+1919-10-04,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Corbett,W,14,0
+1919-10-11,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Joe Mills,W,49,7
+1919-10-18,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Thomas Fitzpatrick,W,34,21
+1919-11-01,Colorado State,RMC,Harry Hughes,A,Denver,RMC,George Koonsman,W,33,3
+1919-11-08,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,W,27,7
+1919-11-15,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,Ralph Glaze,W,33,6
+1919-11-27,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,Poss Parsons,L,0,13
+1919-10-11,Rice,SWC,Phillip Arbuckle,A,Baylor,SWC,Bubs Mosley,W,8,0
+1919-10-18,Rice,SWC,Phillip Arbuckle,H,Southwestern (TX),Ind,,W,22,0
+1919-11-01,Rice,SWC,Phillip Arbuckle,A,Texas,SWC,William Juneau,L,7,32
+1919-11-08,Rice,SWC,Phillip Arbuckle,H,SMU,SWC,J. Rix,W,21,14
+1919-11-15,Rice,SWC,Phillip Arbuckle,H,Sewanee,Ind,,W,19,7
+1919-11-27,Rice,SWC,Phillip Arbuckle,H,Arkansas,SWC,J.B. Craig,W,40,7
+1919-10-11,Texas A&M,SWC,Dana Bible,A,SMU,SWC,J. Rix,W,16,0
+1919-11-01,Texas A&M,SWC,Dana Bible,H,Oklahoma State,SWC,James Pixlee,W,28,0
+1919-11-08,Texas A&M,SWC,Dana Bible,H,Texas Christian,Ind,T.D. Hackney,W,48,0
+1919-11-15,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Bubs Mosley,W,10,0
+1919-11-22,Texas A&M,SWC,Dana Bible,H,Southwestern (TX),Ind,,W,7,0
+1919-11-27,Texas A&M,SWC,Dana Bible,H,Texas,SWC,William Juneau,W,7,0
+1919-09-26,Davidson,Ind,Pete Crayton,A,Wake Forest,Ind,Harry Rabenhorst,W,21,0
+1919-10-03,Davidson,Ind,Pete Crayton,A,Clemson,Ind,Edward Donahue,L,0,7
+1919-10-11,Davidson,Ind,Pete Crayton,A,Washington & Lee,Ind,Bill Raftery,L,0,7
+1919-10-18,Davidson,Ind,Pete Crayton,A,South Carolina,Ind,Dixon Foster,W,7,0
+1919-10-25,Davidson,Ind,Pete Crayton,A,Virginia Military Institute,Ind,Red Fleming,L,7,14
+1919-11-01,Davidson,Ind,Pete Crayton,A,Georgia Tech,Ind,John Heisman,L,0,33
+1919-11-08,Davidson,Ind,Pete Crayton,A,North Carolina State,Ind,William Fetzer,L,6,36
+1919-11-15,Davidson,Ind,Pete Crayton,N,North Carolina,Ind,Thomas Campbell,L,0,10
+1919-11-22,Davidson,Ind,Pete Crayton,H,Presbyterian,Ind,Walter Johnson,T,0,0
+1919-11-27,Davidson,Ind,Pete Crayton,H,Furman,Ind,,W,41,14
+1919-10-18,Washington (MO),MVIAA,R.B. Rutherford,A,Kansas State,MVIAA,Zora Clevenger,W,14,9
+1919-10-25,Washington (MO),MVIAA,R.B. Rutherford,A,Grinnell,MVIAA,Russell Tollefson,W,13,0
+1919-11-08,Washington (MO),MVIAA,R.B. Rutherford,A,Drake,MVIAA,Mark Banks,L,13,14
+1919-11-15,Washington (MO),MVIAA,R.B. Rutherford,H,Missouri,MVIAA,John Miller,L,0,7
+1919-10-04,Boston College,Ind,Frank Cavanaugh,A,Harvard,Ind,Robert Fisher,L,0,17
+1919-10-18,Boston College,Ind,Frank Cavanaugh,A,Yale,Ind,,W,5,3
+1919-10-25,Boston College,Ind,Frank Cavanaugh,A,Army,Ind,Charles Daly,L,0,13
+1919-11-08,Boston College,Ind,Frank Cavanaugh,H,Rutgers,Ind,George Sanford,L,7,13
+1919-11-29,Boston College,Ind,Frank Cavanaugh,H,Georgetown,Ind,,W,10,9
+1919-10-18,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Butch Scanlon,W,16,0
+1919-10-25,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Charlie Bachman,W,41,0
+1919-11-01,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,L,0,10
+1919-11-08,Chicago,Western,Amos Alonzo Stagg,H,Michigan,Western,Fielding Yost,W,13,0
+1919-11-15,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,Howard Jones,W,9,6
+1919-11-22,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,J.R. Richards,L,3,10
+1919-10-11,Colgate,Ind,Ellery Huntington,H,Brown,Ind,Edward Robinson,W,14,0
+1919-10-18,Colgate,Ind,Ellery Huntington,A,Cornell,Ind,John Rush,W,21,0
+1919-10-25,Colgate,Ind,Ellery Huntington,A,Princeton,Ind,,W,7,0
+1919-11-01,Colgate,Ind,Ellery Huntington,A,Dartmouth,Ind,,T,7,7
+1919-11-15,Colgate,Ind,Ellery Huntington,A,Syracuse,Ind,,L,7,13
+1919-10-11,Minnesota,Western,Henry Williams,H,Nebraska,Ind,Henry Schulte,T,6,6
+1919-10-18,Minnesota,Western,Henry Williams,A,Indiana,Western,Jumbo Stiehm,W,20,6
+1919-10-25,Minnesota,Western,Henry Williams,H,Iowa,Western,Howard Jones,L,6,9
+1919-11-01,Minnesota,Western,Henry Williams,A,Wisconsin,Western,J.R. Richards,W,19,7
+1919-11-08,Minnesota,Western,Henry Williams,H,Illinois,Western,Robert Zuppke,L,6,10
+1919-11-22,Minnesota,Western,Henry Williams,A,Michigan,Western,Fielding Yost,W,34,7
+1919-10-11,Ole Miss,Ind,R.L. Sullivan,A,Alabama,Ind,Xen Scott,L,0,49
+1919-10-18,Ole Miss,Ind,R.L. Sullivan,A,LSU,Ind,Irving Pray,L,0,13
+1919-10-25,Ole Miss,Ind,R.L. Sullivan,A,Tulane,Ind,Clark Shaughnessy,L,12,27
+1919-11-08,Ole Miss,Ind,R.L. Sullivan,N,Mississippi State,Ind,Sid Robinson,L,0,33
+1919-11-27,Ole Miss,Ind,R.L. Sullivan,N,Mississippi College,Ind,Frank Anderson,W,6,0
+1919-10-11,Sewanee,Ind,,H,Samford,Ind,,W,18,0
+1919-10-18,Sewanee,Ind,,A,Georgia,Ind,W.A. Cunningham,L,0,13
+1919-10-25,Sewanee,Ind,,H,Kentucky,Ind,Andrew Gill,L,0,6
+1919-11-01,Sewanee,Ind,,A,Alabama,Ind,Xen Scott,L,0,40
+1919-11-08,Sewanee,Ind,,H,Oglethorpe,Ind,Frank Anderson,W,21,0
+1919-11-15,Sewanee,Ind,,A,Rice,SWC,Phillip Arbuckle,L,7,19
+1919-11-18,Sewanee,Ind,,A,Baylor,SWC,Bubs Mosley,L,7,21
+1919-11-27,Sewanee,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,21,33
+1919-10-04,Centre,Ind,Charley Moran,A,Indiana,Western,Jumbo Stiehm,W,12,3
+1919-11-01,Centre,Ind,Charley Moran,A,Virginia,Ind,Harris Coleman,W,49,7
+1919-11-08,Centre,Ind,Charley Moran,N,West Virginia,Ind,Mont McIntire,W,14,6
+1919-11-15,Centre,Ind,Charley Moran,H,Kentucky,Ind,Andrew Gill,W,56,0
+1919-10-04,Navy,Ind,Gilmour Dobie,H,North Carolina State,Ind,William Fetzer,W,49,0
+1919-10-25,Navy,Ind,Gilmour Dobie,H,Bucknell,Ind,Pete Reynolds,W,21,6
+1919-11-08,Navy,Ind,Gilmour Dobie,H,Georgetown,Ind,,L,0,6
+1919-11-29,Navy,Ind,Gilmour Dobie,A,Army,Ind,Charles Daly,W,6,0
+1919-10-11,Lafayette,Ind,Jock Sutherland,A,Princeton,Ind,,L,6,9
+1919-10-25,Lafayette,Ind,Jock Sutherland,A,Pennsylvania,Ind,,L,0,23
+1919-11-01,Lafayette,Ind,Jock Sutherland,A,Cornell,Ind,John Rush,W,21,2
+1919-11-22,Lafayette,Ind,Jock Sutherland,A,Lehigh,Ind,Tom Keady,W,10,6
+1919-10-18,Tulane,Ind,Clark Shaughnessy,A,Spring Hill,Ind,,W,21,0
+1919-10-25,Tulane,Ind,Clark Shaughnessy,H,Ole Miss,Ind,R.L. Sullivan,W,27,12
+1919-11-01,Tulane,Ind,Clark Shaughnessy,H,Mississippi College,Ind,Frank Anderson,W,49,0
+1919-11-08,Tulane,Ind,Clark Shaughnessy,H,Florida,Ind,,W,14,2
+1919-11-15,Tulane,Ind,Clark Shaughnessy,A,Georgia,Ind,W.A. Cunningham,T,7,7
+1919-11-22,Tulane,Ind,Clark Shaughnessy,H,LSU,Ind,Irving Pray,L,6,27
+1919-11-27,Tulane,Ind,Clark Shaughnessy,H,Washington & Lee,Ind,Bill Raftery,L,0,7
+1919-10-18,Cornell,Ind,John Rush,H,Colgate,Ind,Ellery Huntington,L,0,21
+1919-10-25,Cornell,Ind,John Rush,N,Dartmouth,Ind,,L,0,9
+1919-11-01,Cornell,Ind,John Rush,H,Lafayette,Ind,Jock Sutherland,L,2,21
+1919-11-15,Cornell,Ind,John Rush,H,Penn State,Ind,Hugo Bezdek,L,0,20
+1919-11-27,Cornell,Ind,John Rush,A,Pennsylvania,Ind,,L,0,24
+1919-10-18,Ohio State,Western,John Wilce,H,Kentucky,Ind,Andrew Gill,W,49,0
+1919-10-25,Ohio State,Western,John Wilce,A,Michigan,Western,Fielding Yost,W,13,3
+1919-11-08,Ohio State,Western,John Wilce,H,Purdue,Western,Butch Scanlon,W,20,0
+1919-11-15,Ohio State,Western,John Wilce,A,Wisconsin,Western,J.R. Richards,W,3,0
+1919-11-22,Ohio State,Western,John Wilce,H,Illinois,Western,Robert Zuppke,L,7,9
+1919-10-25,Drake,MVIAA,Mark Banks,A,Missouri,MVIAA,John Miller,L,0,3
+1919-11-01,Drake,MVIAA,Mark Banks,H,Grinnell,MVIAA,Russell Tollefson,W,6,0
+1919-11-08,Drake,MVIAA,Mark Banks,H,Washington (MO),MVIAA,R.B. Rutherford,W,14,13
+1919-11-27,Drake,MVIAA,Mark Banks,H,Iowa State,MVIAA,,L,0,14

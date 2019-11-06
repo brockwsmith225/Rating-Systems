@@ -1,0 +1,273 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1899-09-30,Brown,Ind,Edward Robinson,A,Holy Cross,Ind,Maurice Connor,W,19,0
+1899-10-04,Brown,Ind,Edward Robinson,H,Tufts,Ind, Locke,W,6,0
+1899-10-07,Brown,Ind,Edward Robinson,H,Pennsylvania,Ind,George Woodruff,T,6,6
+1899-10-21,Brown,Ind,Edward Robinson,A,Harvard,Ind,,L,0,11
+1899-11-04,Brown,Ind,Edward Robinson,A,Princeton,Ind,,L,6,18
+1899-11-11,Brown,Ind,Edward Robinson,H,MIT,Ind,,W,38,0
+1899-11-25,Brown,Ind,Edward Robinson,H,Dartmouth,Ind,,W,16,5
+1899-11-30,Brown,Ind,Edward Robinson,A,Chicago,Western,Amos Alonzo Stagg,L,6,17
+1899-10-04,Trinity (CT),Ind,Albert Fulton,A,Yale,Ind,James Rodgers,L,0,46
+1899-10-07,Trinity (CT),Ind,Albert Fulton,A,Holy Cross,Ind,Maurice Connor,L,0,39
+1899-10-11,Trinity (CT),Ind,Albert Fulton,A,Williams,Ind,,L,0,12
+1899-10-18,Trinity (CT),Ind,Albert Fulton,A,Amherst,Ind,Harry Smith,T,0,0
+1899-10-21,Trinity (CT),Ind,Albert Fulton,H,Massachusetts,Ind,Fred Brown,W,16,5
+1899-11-11,Trinity (CT),Ind,Albert Fulton,A,Navy,Ind,,L,0,35
+1899-10-21,Dickinson,Ind,N.P. Stauffer,N,Carlisle,Ind,Pop Warner,L,7,16
+1899-10-28,Dickinson,Ind,N.P. Stauffer,A,Penn State,Ind,Sam Boyle,L,0,15
+1899-11-22,Dickinson,Ind,N.P. Stauffer,H,Syracuse,Ind,Frank Wade,L,7,18
+1899-11-30,Dickinson,Ind,N.P. Stauffer,A,Lafayette,Ind,Samuel Newton,L,0,36
+1899-10-14,Indiana,Ind,James Horne,A,Illinois,Western,George Huff,W,5,0
+1899-10-23,Indiana,Ind,James Horne,A,Notre Dame,Ind,James McWeeney,L,0,17
+1899-11-18,Indiana,Ind,James Horne,A,Northwestern,Western,Charles Hollister,L,6,11
+1899-11-30,Indiana,Ind,James Horne,A,Purdue,Western,Alpha Jamison,W,17,5
+1899-09-30,Yale,Ind,James Rodgers,H,Amherst,Ind,Harry Smith,W,23,0
+1899-10-04,Yale,Ind,James Rodgers,H,Trinity (CT),Ind,Albert Fulton,W,46,0
+1899-10-14,Yale,Ind,James Rodgers,N,Dartmouth,Ind,,W,12,0
+1899-10-21,Yale,Ind,James Rodgers,H,Wisconsin,Western,Phil King,W,6,0
+1899-10-28,Yale,Ind,James Rodgers,A,Columbia,Ind,George Sanford,L,0,5
+1899-11-04,Yale,Ind,James Rodgers,A,Army,Ind,Herman Koehler,W,24,0
+1899-11-11,Yale,Ind,James Rodgers,H,Penn State,Ind,Sam Boyle,W,42,0
+1899-11-18,Yale,Ind,James Rodgers,A,Harvard,Ind,,T,0,0
+1899-11-25,Yale,Ind,James Rodgers,H,Princeton,Ind,,L,10,11
+1899-10-21,Iowa State,Ind,Joe Meyers,A,Minnesota,Western,William Leary,L,0,6
+1899-10-28,Iowa State,Ind,Joe Meyers,A,Iowa,Ind,Alden Knipe,L,0,5
+1899-11-04,Iowa State,Ind,Joe Meyers,N,Grinnell,Ind,C.E. Harris,L,0,15
+1899-11-18,Iowa State,Ind,Joe Meyers,H,Grinnell,Ind,C.E. Harris,L,0,6
+1899-09-30,Lehigh,Ind,H. Thompson,A,Pennsylvania,Ind,George Woodruff,L,0,20
+1899-10-14,Lehigh,Ind,H. Thompson,H,Bucknell,Ind,George Hoskins,L,0,5
+1899-10-21,Lehigh,Ind,H. Thompson,A,Cornell,Ind,Percy Haughton,L,0,6
+1899-10-28,Lehigh,Ind,H. Thompson,A,Princeton,Ind,,L,0,17
+1899-11-04,Lehigh,Ind,H. Thompson,A,Lafayette,Ind,Samuel Newton,L,0,17
+1899-11-18,Lehigh,Ind,H. Thompson,A,Navy,Ind,,L,0,24
+1899-11-25,Lehigh,Ind,H. Thompson,H,Lafayette,Ind,Samuel Newton,L,0,35
+1899-10-14,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,George Woodruff,W,16,5
+1899-10-21,Carlisle,Ind,Pop Warner,N,Dickinson,Ind,N.P. Stauffer,W,16,7
+1899-10-28,Carlisle,Ind,Pop Warner,A,Harvard,Ind,,L,10,22
+1899-11-11,Carlisle,Ind,Pop Warner,H,Princeton,Ind,,L,0,12
+1899-11-30,Carlisle,Ind,Pop Warner,A,Columbia,Ind,George Sanford,W,45,0
+1899-11-04,Purdue,Western,Alpha Jamison,A,Chicago,Western,Amos Alonzo Stagg,L,0,44
+1899-11-18,Purdue,Western,Alpha Jamison,H,Notre Dame,Ind,James McWeeney,T,10,10
+1899-11-22,Purdue,Western,Alpha Jamison,A,Illinois,Western,George Huff,W,5,0
+1899-11-25,Purdue,Western,Alpha Jamison,A,Northwestern,Western,Charles Hollister,L,0,29
+1899-11-30,Purdue,Western,Alpha Jamison,H,Indiana,Ind,James Horne,L,5,17
+1899-10-14,Grinnell,Ind,C.E. Harris,A,Knox,Ind,,L,5,6
+1899-10-28,Grinnell,Ind,C.E. Harris,A,Minnesota,Western,William Leary,T,5,5
+1899-11-04,Grinnell,Ind,C.E. Harris,N,Iowa State,Ind,Joe Meyers,W,15,0
+1899-11-11,Grinnell,Ind,C.E. Harris,A,Iowa,Ind,Alden Knipe,L,0,16
+1899-11-18,Grinnell,Ind,C.E. Harris,A,Iowa State,Ind,Joe Meyers,W,6,0
+1899-09-23,Knox,Ind,,A,Chicago,Western,Amos Alonzo Stagg,L,0,40
+1899-10-07,Knox,Ind,,H,Illinois,Western,George Huff,L,0,5
+1899-10-14,Knox,Ind,,H,Grinnell,Ind,C.E. Harris,W,6,5
+1899-11-18,Knox,Ind,,H,Iowa,Ind,Alden Knipe,L,0,35
+1899-11-30,Knox,Ind,,H,Beloit,Ind,John Hollister,T,6,6
+1899-09-23,Holy Cross,Ind,Maurice Connor,H,Massachusetts,Ind,Fred Brown,W,11,0
+1899-09-30,Holy Cross,Ind,Maurice Connor,H,Brown,Ind,Edward Robinson,L,0,19
+1899-10-07,Holy Cross,Ind,Maurice Connor,H,Trinity (CT),Ind,Albert Fulton,W,39,0
+1899-10-18,Holy Cross,Ind,Maurice Connor,A,Williams,Ind,,L,5,23
+1899-10-28,Holy Cross,Ind,Maurice Connor,A,Wesleyan (CT),Ind,Bert Wilson,L,0,16
+1899-11-18,Holy Cross,Ind,Maurice Connor,H,Tufts,Ind, Locke,L,0,6
+1899-09-30,Harvard,Ind,,H,Williams,Ind,,W,29,0
+1899-10-04,Harvard,Ind,,H,Bowdoin,Ind,Frederick Crolius,W,13,0
+1899-10-07,Harvard,Ind,,H,Wesleyan (CT),Ind,Bert Wilson,W,20,0
+1899-10-11,Harvard,Ind,,H,Amherst,Ind,Harry Smith,W,41,0
+1899-10-14,Harvard,Ind,,A,Army,Ind,Herman Koehler,W,18,0
+1899-10-21,Harvard,Ind,,H,Brown,Ind,Edward Robinson,W,11,0
+1899-10-28,Harvard,Ind,,H,Carlisle,Ind,Pop Warner,W,22,10
+1899-11-04,Harvard,Ind,,A,Pennsylvania,Ind,George Woodruff,W,16,0
+1899-11-11,Harvard,Ind,,H,Dartmouth,Ind,,W,11,0
+1899-11-18,Harvard,Ind,,H,Yale,Ind,James Rodgers,T,0,0
+1899-09-30,Williams,Ind,,A,Harvard,Ind,,L,0,29
+1899-10-04,Williams,Ind,,A,Amherst,Ind,Harry Smith,W,38,0
+1899-10-07,Williams,Ind,,A,Cornell,Ind,Percy Haughton,L,0,12
+1899-10-11,Williams,Ind,,H,Trinity (CT),Ind,Albert Fulton,W,12,0
+1899-10-18,Williams,Ind,,H,Holy Cross,Ind,Maurice Connor,W,23,5
+1899-10-21,Williams,Ind,,A,Dartmouth,Ind,,W,12,10
+1899-10-28,Williams,Ind,,A,Syracuse,Ind,Frank Wade,W,6,0
+1899-11-25,Williams,Ind,,H,Wesleyan (CT),Ind,Bert Wilson,L,5,11
+1899-09-23,Massachusetts,Ind,Fred Brown,A,Holy Cross,Ind,Maurice Connor,L,0,11
+1899-09-30,Massachusetts,Ind,Fred Brown,H,Wesleyan (CT),Ind,Bert Wilson,L,0,27
+1899-10-21,Massachusetts,Ind,Fred Brown,A,Trinity (CT),Ind,Albert Fulton,L,5,16
+1899-11-04,Massachusetts,Ind,Fred Brown,H,Amherst,Ind,Harry Smith,W,6,0
+1899-09-27,Syracuse,Ind,Frank Wade,A,Cornell,Ind,Percy Haughton,L,0,17
+1899-10-28,Syracuse,Ind,Frank Wade,H,Williams,Ind,,L,0,6
+1899-11-18,Syracuse,Ind,Frank Wade,A,Army,Ind,Herman Koehler,L,6,12
+1899-11-22,Syracuse,Ind,Frank Wade,A,Dickinson,Ind,N.P. Stauffer,W,18,7
+1899-10-04,Bowdoin,Ind,Frederick Crolius,A,Harvard,Ind,,L,0,13
+1899-10-07,Bowdoin,Ind,Frederick Crolius,A,Dartmouth,Ind,,L,0,37
+1899-10-14,Bowdoin,Ind,Frederick Crolius,A,Tufts,Ind, Locke,L,0,6
+1899-10-21,Bowdoin,Ind,Frederick Crolius,H,Tufts,Ind, Locke,L,5,17
+1899-11-11,Bowdoin,Ind,Frederick Crolius,H,Amherst,Ind,Harry Smith,L,6,11
+1899-09-30,Wisconsin,Western,Phil King,H,Lake Forest,Ind,,W,45,0
+1899-10-06,Wisconsin,Western,Phil King,N,Beloit,Ind,John Hollister,W,36,0
+1899-10-14,Wisconsin,Western,Phil King,H,Northwestern,Western,Charles Hollister,W,38,0
+1899-10-21,Wisconsin,Western,Phil King,A,Yale,Ind,James Rodgers,L,0,6
+1899-11-11,Wisconsin,Western,Phil King,H,Illinois,Western,George Huff,W,23,0
+1899-11-18,Wisconsin,Western,Phil King,A,Minnesota,Western,William Leary,W,19,0
+1899-11-30,Wisconsin,Western,Phil King,N,Michigan,Western,Gustave Ferbert,W,17,5
+1899-12-09,Wisconsin,Western,Phil King,H,Chicago,Western,Amos Alonzo Stagg,L,0,17
+1899-10-04,Bucknell,Ind,George Hoskins,A,Pennsylvania,Ind,George Woodruff,L,10,47
+1899-10-14,Bucknell,Ind,George Hoskins,A,Lehigh,Ind,H. Thompson,W,5,0
+1899-11-04,Bucknell,Ind,George Hoskins,N,Penn State,Ind,Sam Boyle,W,5,0
+1899-11-18,Bucknell,Ind,George Hoskins,N,Lafayette,Ind,Samuel Newton,L,0,12
+1899-10-02,Army,Ind,Herman Koehler,H,Tufts,Ind, Locke,W,22,0
+1899-10-07,Army,Ind,Herman Koehler,H,Penn State,Ind,Sam Boyle,L,0,6
+1899-10-14,Army,Ind,Herman Koehler,H,Harvard,Ind,,L,0,18
+1899-10-21,Army,Ind,Herman Koehler,H,Princeton,Ind,,L,0,23
+1899-10-28,Army,Ind,Herman Koehler,H,Dartmouth,Ind,,W,6,2
+1899-11-04,Army,Ind,Herman Koehler,H,Yale,Ind,James Rodgers,L,0,24
+1899-11-11,Army,Ind,Herman Koehler,H,Columbia,Ind,George Sanford,L,0,16
+1899-11-18,Army,Ind,Herman Koehler,H,Syracuse,Ind,Frank Wade,W,12,6
+1899-12-02,Army,Ind,Herman Koehler,N,Navy,Ind,,W,17,5
+1899-10-07,Penn State,Ind,Sam Boyle,A,Army,Ind,Herman Koehler,W,6,0
+1899-10-18,Penn State,Ind,Sam Boyle,A,Princeton,Ind,,L,0,12
+1899-10-21,Penn State,Ind,Sam Boyle,A,Navy,Ind,,L,0,6
+1899-10-28,Penn State,Ind,Sam Boyle,H,Dickinson,Ind,N.P. Stauffer,W,15,0
+1899-11-04,Penn State,Ind,Sam Boyle,N,Bucknell,Ind,George Hoskins,L,0,5
+1899-11-11,Penn State,Ind,Sam Boyle,A,Yale,Ind,James Rodgers,L,0,42
+1899-11-17,Penn State,Ind,Sam Boyle,A,Pennsylvania,Ind,George Woodruff,L,0,47
+1899-09-30,Wesleyan (CT),Ind,Bert Wilson,A,Massachusetts,Ind,Fred Brown,W,27,0
+1899-10-07,Wesleyan (CT),Ind,Bert Wilson,A,Harvard,Ind,,L,0,20
+1899-10-18,Wesleyan (CT),Ind,Bert Wilson,A,Pennsylvania,Ind,George Woodruff,L,6,17
+1899-10-21,Wesleyan (CT),Ind,Bert Wilson,H,MIT,Ind,,W,44,6
+1899-10-28,Wesleyan (CT),Ind,Bert Wilson,H,Holy Cross,Ind,Maurice Connor,W,16,0
+1899-11-04,Wesleyan (CT),Ind,Bert Wilson,H,Dartmouth,Ind,,W,11,0
+1899-11-18,Wesleyan (CT),Ind,Bert Wilson,H,Amherst,Ind,Harry Smith,W,40,0
+1899-11-25,Wesleyan (CT),Ind,Bert Wilson,A,Williams,Ind,,W,11,5
+1899-11-30,Wesleyan (CT),Ind,Bert Wilson,A,Amherst,Ind,Harry Smith,W,11,5
+1899-10-07,Dartmouth,Ind,,H,Bowdoin,Ind,Frederick Crolius,W,37,0
+1899-10-14,Dartmouth,Ind,,N,Yale,Ind,James Rodgers,L,0,12
+1899-10-21,Dartmouth,Ind,,H,Williams,Ind,,L,10,12
+1899-10-28,Dartmouth,Ind,,A,Army,Ind,Herman Koehler,L,2,6
+1899-11-04,Dartmouth,Ind,,A,Wesleyan (CT),Ind,Bert Wilson,L,0,11
+1899-11-11,Dartmouth,Ind,,A,Harvard,Ind,,L,0,11
+1899-11-18,Dartmouth,Ind,,A,Columbia,Ind,George Sanford,L,0,22
+1899-11-25,Dartmouth,Ind,,A,Brown,Ind,Edward Robinson,L,5,16
+1899-10-07,Princeton,Ind,,A,Navy,Ind,,W,5,0
+1899-10-11,Princeton,Ind,,H,Lafayette,Ind,Samuel Newton,W,12,0
+1899-10-14,Princeton,Ind,,A,Columbia,Ind,George Sanford,W,11,0
+1899-10-18,Princeton,Ind,,H,Penn State,Ind,Sam Boyle,W,12,0
+1899-10-21,Princeton,Ind,,A,Army,Ind,Herman Koehler,W,23,0
+1899-10-28,Princeton,Ind,,H,Lehigh,Ind,H. Thompson,W,17,0
+1899-11-01,Princeton,Ind,,A,Cornell,Ind,Percy Haughton,L,0,5
+1899-11-04,Princeton,Ind,,H,Brown,Ind,Edward Robinson,W,18,6
+1899-11-11,Princeton,Ind,,A,Carlisle,Ind,Pop Warner,W,12,0
+1899-11-25,Princeton,Ind,,A,Yale,Ind,James Rodgers,W,11,10
+1899-09-23,Chicago,Western,Amos Alonzo Stagg,H,Knox,Ind,,W,40,0
+1899-10-04,Chicago,Western,Amos Alonzo Stagg,H,Notre Dame,Ind,James McWeeney,W,23,6
+1899-10-07,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Ind,Alden Knipe,T,5,5
+1899-10-14,Chicago,Western,Amos Alonzo Stagg,H,Cornell,Ind,Percy Haughton,W,17,6
+1899-10-28,Chicago,Western,Amos Alonzo Stagg,H,Pennsylvania,Ind,George Woodruff,T,5,5
+1899-11-04,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,Alpha Jamison,W,44,0
+1899-11-11,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Charles Hollister,W,76,0
+1899-11-18,Chicago,Western,Amos Alonzo Stagg,H,Beloit,Ind,John Hollister,W,35,0
+1899-11-25,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,William Leary,W,29,0
+1899-11-30,Chicago,Western,Amos Alonzo Stagg,H,Brown,Ind,Edward Robinson,W,17,6
+1899-12-09,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,Phil King,W,17,0
+1899-10-14,Northwestern,Western,Charles Hollister,A,Wisconsin,Western,Phil King,L,0,38
+1899-10-21,Northwestern,Western,Charles Hollister,A,Beloit,Ind,John Hollister,L,0,11
+1899-10-25,Northwestern,Western,Charles Hollister,H,Lake Forest,Ind,,W,16,0
+1899-10-28,Northwestern,Western,Charles Hollister,A,Notre Dame,Ind,James McWeeney,L,0,12
+1899-11-04,Northwestern,Western,Charles Hollister,A,Minnesota,Western,William Leary,W,11,5
+1899-11-11,Northwestern,Western,Charles Hollister,A,Chicago,Western,Amos Alonzo Stagg,L,0,76
+1899-11-18,Northwestern,Western,Charles Hollister,H,Indiana,Ind,James Horne,W,11,6
+1899-11-25,Northwestern,Western,Charles Hollister,H,Purdue,Western,Alpha Jamison,W,29,0
+1899-10-21,Minnesota,Western,William Leary,H,Iowa State,Ind,Joe Meyers,W,6,0
+1899-10-28,Minnesota,Western,William Leary,H,Grinnell,Ind,C.E. Harris,T,5,5
+1899-11-04,Minnesota,Western,William Leary,H,Northwestern,Western,Charles Hollister,L,5,11
+1899-11-11,Minnesota,Western,William Leary,H,Beloit,Ind,John Hollister,T,5,5
+1899-11-18,Minnesota,Western,William Leary,H,Wisconsin,Western,Phil King,L,0,19
+1899-11-25,Minnesota,Western,William Leary,A,Chicago,Western,Amos Alonzo Stagg,L,0,29
+1899-10-18,Michigan,Western,Gustave Ferbert,H,Notre Dame,Ind,James McWeeney,W,12,0
+1899-10-28,Michigan,Western,Gustave Ferbert,A,Illinois,Western,George Huff,W,5,0
+1899-11-11,Michigan,Western,Gustave Ferbert,A,Pennsylvania,Ind,George Woodruff,L,10,11
+1899-11-30,Michigan,Western,Gustave Ferbert,N,Wisconsin,Western,Phil King,L,5,17
+1899-09-30,Pennsylvania,Ind,George Woodruff,H,Lehigh,Ind,H. Thompson,W,20,0
+1899-10-04,Pennsylvania,Ind,George Woodruff,H,Bucknell,Ind,George Hoskins,W,47,10
+1899-10-07,Pennsylvania,Ind,George Woodruff,A,Brown,Ind,Edward Robinson,T,6,6
+1899-10-14,Pennsylvania,Ind,George Woodruff,H,Carlisle,Ind,Pop Warner,L,5,16
+1899-10-18,Pennsylvania,Ind,George Woodruff,H,Wesleyan (CT),Ind,Bert Wilson,W,17,6
+1899-10-21,Pennsylvania,Ind,George Woodruff,H,Lafayette,Ind,Samuel Newton,L,0,6
+1899-10-28,Pennsylvania,Ind,George Woodruff,A,Chicago,Western,Amos Alonzo Stagg,T,5,5
+1899-11-04,Pennsylvania,Ind,George Woodruff,H,Harvard,Ind,,L,0,16
+1899-11-11,Pennsylvania,Ind,George Woodruff,H,Michigan,Western,Gustave Ferbert,W,11,10
+1899-11-17,Pennsylvania,Ind,George Woodruff,H,Penn State,Ind,Sam Boyle,W,47,0
+1899-11-30,Pennsylvania,Ind,George Woodruff,H,Cornell,Ind,Percy Haughton,W,29,0
+1899-10-06,Beloit,Ind,John Hollister,N,Wisconsin,Western,Phil King,L,0,36
+1899-10-21,Beloit,Ind,John Hollister,H,Northwestern,Western,Charles Hollister,W,11,0
+1899-11-04,Beloit,Ind,John Hollister,H,Lake Forest,Ind,,W,28,0
+1899-11-11,Beloit,Ind,John Hollister,A,Minnesota,Western,William Leary,T,5,5
+1899-11-18,Beloit,Ind,John Hollister,A,Chicago,Western,Amos Alonzo Stagg,L,0,35
+1899-11-30,Beloit,Ind,John Hollister,A,Knox,Ind,,T,6,6
+1899-10-07,Iowa,Ind,Alden Knipe,A,Chicago,Western,Amos Alonzo Stagg,T,5,5
+1899-10-28,Iowa,Ind,Alden Knipe,H,Iowa State,Ind,Joe Meyers,W,5,0
+1899-11-11,Iowa,Ind,Alden Knipe,H,Grinnell,Ind,C.E. Harris,W,16,0
+1899-11-18,Iowa,Ind,Alden Knipe,A,Knox,Ind,,W,35,0
+1899-11-30,Iowa,Ind,Alden Knipe,N,Illinois,Western,George Huff,W,58,0
+1899-10-07,Navy,Ind,,H,Princeton,Ind,,L,0,5
+1899-10-21,Navy,Ind,,H,Penn State,Ind,Sam Boyle,W,6,0
+1899-10-28,Navy,Ind,,H,Lafayette,Ind,Samuel Newton,L,0,5
+1899-11-11,Navy,Ind,,H,Trinity (CT),Ind,Albert Fulton,W,35,0
+1899-11-18,Navy,Ind,,H,Lehigh,Ind,H. Thompson,W,24,0
+1899-12-02,Navy,Ind,,N,Army,Ind,Herman Koehler,L,5,17
+1899-10-02,Tufts,Ind, Locke,A,Army,Ind,Herman Koehler,L,0,22
+1899-10-04,Tufts,Ind, Locke,A,Brown,Ind,Edward Robinson,L,0,6
+1899-10-14,Tufts,Ind, Locke,H,Bowdoin,Ind,Frederick Crolius,W,6,0
+1899-10-21,Tufts,Ind, Locke,A,Bowdoin,Ind,Frederick Crolius,W,17,5
+1899-11-18,Tufts,Ind, Locke,A,Holy Cross,Ind,Maurice Connor,W,6,0
+1899-11-25,Tufts,Ind, Locke,H,MIT,Ind,,W,29,0
+1899-11-30,Tufts,Ind, Locke,A,MIT,Ind,,W,10,6
+1899-10-14,Columbia,Ind,George Sanford,H,Princeton,Ind,,L,0,11
+1899-10-21,Columbia,Ind,George Sanford,H,Amherst,Ind,Harry Smith,W,18,0
+1899-10-28,Columbia,Ind,George Sanford,H,Yale,Ind,James Rodgers,W,5,0
+1899-11-07,Columbia,Ind,George Sanford,H,Cornell,Ind,Percy Haughton,L,0,29
+1899-11-11,Columbia,Ind,George Sanford,A,Army,Ind,Herman Koehler,W,16,0
+1899-11-18,Columbia,Ind,George Sanford,H,Dartmouth,Ind,,W,22,0
+1899-11-30,Columbia,Ind,George Sanford,H,Carlisle,Ind,Pop Warner,L,0,45
+1899-09-30,Amherst,Ind,Harry Smith,A,Yale,Ind,James Rodgers,L,0,23
+1899-10-04,Amherst,Ind,Harry Smith,H,Williams,Ind,,L,0,38
+1899-10-11,Amherst,Ind,Harry Smith,A,Harvard,Ind,,L,0,41
+1899-10-18,Amherst,Ind,Harry Smith,H,Trinity (CT),Ind,Albert Fulton,T,0,0
+1899-10-21,Amherst,Ind,Harry Smith,A,Columbia,Ind,George Sanford,L,0,18
+1899-10-28,Amherst,Ind,Harry Smith,H,MIT,Ind,,W,12,5
+1899-11-04,Amherst,Ind,Harry Smith,A,Massachusetts,Ind,Fred Brown,L,0,6
+1899-11-11,Amherst,Ind,Harry Smith,A,Bowdoin,Ind,Frederick Crolius,W,11,6
+1899-11-18,Amherst,Ind,Harry Smith,A,Wesleyan (CT),Ind,Bert Wilson,L,0,40
+1899-11-30,Amherst,Ind,Harry Smith,H,Wesleyan (CT),Ind,Bert Wilson,L,5,11
+1899-10-11,Lafayette,Ind,Samuel Newton,A,Princeton,Ind,,L,0,12
+1899-10-21,Lafayette,Ind,Samuel Newton,A,Pennsylvania,Ind,George Woodruff,W,6,0
+1899-10-28,Lafayette,Ind,Samuel Newton,A,Navy,Ind,,W,5,0
+1899-11-04,Lafayette,Ind,Samuel Newton,H,Lehigh,Ind,H. Thompson,W,17,0
+1899-11-11,Lafayette,Ind,Samuel Newton,A,Cornell,Ind,Percy Haughton,W,6,5
+1899-11-18,Lafayette,Ind,Samuel Newton,N,Bucknell,Ind,George Hoskins,W,12,0
+1899-11-25,Lafayette,Ind,Samuel Newton,A,Lehigh,Ind,H. Thompson,W,35,0
+1899-11-30,Lafayette,Ind,Samuel Newton,H,Dickinson,Ind,N.P. Stauffer,W,36,0
+1899-10-07,Illinois,Western,George Huff,A,Knox,Ind,,W,5,0
+1899-10-14,Illinois,Western,George Huff,H,Indiana,Ind,James Horne,L,0,5
+1899-10-28,Illinois,Western,George Huff,H,Michigan,Western,Gustave Ferbert,L,0,5
+1899-11-11,Illinois,Western,George Huff,A,Wisconsin,Western,Phil King,L,0,23
+1899-11-22,Illinois,Western,George Huff,H,Purdue,Western,Alpha Jamison,L,0,5
+1899-11-30,Illinois,Western,George Huff,N,Iowa,Ind,Alden Knipe,L,0,58
+1899-10-04,Notre Dame,Ind,James McWeeney,A,Chicago,Western,Amos Alonzo Stagg,L,6,23
+1899-10-14,Notre Dame,Ind,James McWeeney,H,Lake Forest,Ind,,W,38,0
+1899-10-18,Notre Dame,Ind,James McWeeney,A,Michigan,Western,Gustave Ferbert,L,0,12
+1899-10-23,Notre Dame,Ind,James McWeeney,H,Indiana,Ind,James Horne,W,17,0
+1899-10-28,Notre Dame,Ind,James McWeeney,H,Northwestern,Western,Charles Hollister,W,12,0
+1899-11-18,Notre Dame,Ind,James McWeeney,A,Purdue,Western,Alpha Jamison,T,10,10
+1899-09-27,Cornell,Ind,Percy Haughton,H,Syracuse,Ind,Frank Wade,W,17,0
+1899-10-07,Cornell,Ind,Percy Haughton,H,Williams,Ind,,W,12,0
+1899-10-14,Cornell,Ind,Percy Haughton,A,Chicago,Western,Amos Alonzo Stagg,L,6,17
+1899-10-21,Cornell,Ind,Percy Haughton,H,Lehigh,Ind,H. Thompson,W,6,0
+1899-11-01,Cornell,Ind,Percy Haughton,H,Princeton,Ind,,W,5,0
+1899-11-07,Cornell,Ind,Percy Haughton,A,Columbia,Ind,George Sanford,W,29,0
+1899-11-11,Cornell,Ind,Percy Haughton,H,Lafayette,Ind,Samuel Newton,L,5,6
+1899-11-30,Cornell,Ind,Percy Haughton,A,Pennsylvania,Ind,George Woodruff,L,0,29
+1899-09-30,Lake Forest,Ind,,A,Wisconsin,Western,Phil King,L,0,45
+1899-10-14,Lake Forest,Ind,,A,Notre Dame,Ind,James McWeeney,L,0,38
+1899-10-25,Lake Forest,Ind,,A,Northwestern,Western,Charles Hollister,L,0,16
+1899-11-04,Lake Forest,Ind,,A,Beloit,Ind,John Hollister,L,0,28
+1899-10-21,MIT,Ind,,A,Wesleyan (CT),Ind,Bert Wilson,L,6,44
+1899-10-28,MIT,Ind,,A,Amherst,Ind,Harry Smith,L,5,12
+1899-11-11,MIT,Ind,,A,Brown,Ind,Edward Robinson,L,0,38
+1899-11-25,MIT,Ind,,A,Tufts,Ind, Locke,L,0,29
+1899-11-30,MIT,Ind,,H,Tufts,Ind, Locke,L,6,10

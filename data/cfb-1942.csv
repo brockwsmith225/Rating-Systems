@@ -1,0 +1,999 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1942-09-26,North Carolina,Southern,Jim Tatum,H,Wake Forest,Southern,D.C. Walker,W,6,0
+1942-10-03,North Carolina,Southern,Jim Tatum,H,South Carolina,Southern,Rex Enright,W,18,6
+1942-10-10,North Carolina,Southern,Jim Tatum,A,Fordham,Ind,,T,0,0
+1942-10-17,North Carolina,Southern,Jim Tatum,H,Duquesne,Ind,,W,13,6
+1942-10-24,North Carolina,Southern,Jim Tatum,A,Tulane,SEC,Claude Simons,L,14,29
+1942-10-31,North Carolina,Southern,Jim Tatum,A,North Carolina State,Southern,,L,14,21
+1942-11-07,North Carolina,Southern,Jim Tatum,N,Davidson,Southern,Gene McEver,W,43,14
+1942-11-14,North Carolina,Southern,Jim Tatum,H,Duke,Southern,,T,13,13
+1942-11-21,North Carolina,Southern,Jim Tatum,A,Virginia,Ind,Frank Murray,W,28,13
+1942-10-03,Indiana,Western,Bo McMillin,A,Ohio State,Western,Paul Brown,L,21,32
+1942-10-10,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Glenn Presnell,W,12,0
+1942-10-17,Indiana,Western,Bo McMillin,A,Pitt,Ind,Charles Bowser,W,19,7
+1942-10-24,Indiana,Western,Bo McMillin,H,Iowa,Western,Edward Anderson,L,13,14
+1942-10-31,Indiana,Western,Bo McMillin,H,Iowa Pre-Flight,Ind,Bernie Bierman,L,6,26
+1942-11-07,Indiana,Western,Bo McMillin,A,Minnesota,Western,George Hauser,W,7,0
+1942-11-14,Indiana,Western,Bo McMillin,H,Kansas State,Big 6,Ward Haylett,W,54,0
+1942-11-21,Indiana,Western,Bo McMillin,A,Purdue,Western,Elmer Burnham,W,20,0
+1942-09-25,Iowa State,Big 6,Mike Michalske,A,Denver,MSAC,Ellison Ketchum,W,7,0
+1942-10-03,Iowa State,Big 6,Mike Michalske,A,Nebraska,Big 6,Glenn Presnell,L,0,26
+1942-10-10,Iowa State,Big 6,Mike Michalske,H,Marquette,Ind,Tom Stidham,L,12,34
+1942-10-17,Iowa State,Big 6,Mike Michalske,H,Drake,MVC,Vee Green,W,29,6
+1942-10-24,Iowa State,Big 6,Mike Michalske,A,Missouri,Big 6,Don Faurot,L,6,45
+1942-10-31,Iowa State,Big 6,Mike Michalske,H,Oklahoma,Big 6,Snorter Luster,L,7,14
+1942-11-06,Iowa State,Big 6,Mike Michalske,A,Villanova,Ind,,L,7,32
+1942-11-14,Iowa State,Big 6,Mike Michalske,H,Kansas,Big 6,Gwinn Henry,W,20,13
+1942-11-21,Iowa State,Big 6,Mike Michalske,A,Kansas State,Big 6,Ward Haylett,L,6,7
+1942-09-26,Fordham,Ind,,A,Purdue,Western,Elmer Burnham,W,14,7
+1942-10-03,Fordham,Ind,,A,Tennessee,SEC,John Barnhill,L,14,40
+1942-10-10,Fordham,Ind,,H,North Carolina,Southern,Jim Tatum,T,0,0
+1942-10-17,Fordham,Ind,,H,West Virginia,Ind,,W,23,14
+1942-10-31,Fordham,Ind,,H,Saint Mary's (CA),Ind,James Phelan,W,7,0
+1942-11-07,Fordham,Ind,,H,LSU,SEC,Bernie Moore,L,13,26
+1942-11-14,Fordham,Ind,,A,Boston College,Ind,Denny Myers,L,6,56
+1942-11-21,Fordham,Ind,,H,Missouri,Big 6,Don Faurot,W,20,12
+1942-11-28,Fordham,Ind,,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,W,6,0
+1942-09-26,Arizona State,BIAA,Hilman Walker,A,San Francisco,Ind,Al Tassi,L,6,54
+1942-10-03,Arizona State,BIAA,Hilman Walker,A,West Texas A&M,BIAA,Gus Miller,L,0,28
+1942-10-10,Arizona State,BIAA,Hilman Walker,H,Arizona,BIAA,Miles Casteel,L,0,23
+1942-10-17,Arizona State,BIAA,Hilman Walker,H,New Mexico State,BIAA,Julius Johnston,W,20,0
+1942-10-24,Arizona State,BIAA,Hilman Walker,A,Hardin-Simmons,BIAA,Warren Woodson,L,0,21
+1942-11-14,Arizona State,BIAA,Hilman Walker,A,UTEP,BIAA,,L,6,40
+1942-11-28,Arizona State,BIAA,Hilman Walker,A,New Mexico,BIAA,Willis Barnes,L,7,35
+1942-12-05,Arizona State,BIAA,Hilman Walker,A,Northern Arizona,BIAA,Maurice Moulder,W,14,2
+1942-09-26,Furman,Southern,,H,Virginia Tech,Southern,Henry McEver,L,6,7
+1942-10-03,Furman,Southern,,A,Georgia,SEC,Wallace Butts,L,7,40
+1942-10-10,Furman,Southern,,H,Wake Forest,Southern,D.C. Walker,L,6,14
+1942-10-16,Furman,Southern,,A,George Washington,Southern,John Baker,W,6,0
+1942-10-24,Furman,Southern,,A,Tennessee,SEC,John Barnhill,L,7,52
+1942-10-31,Furman,Southern,,A,Miami (FL),Ind,Jack Harding,L,13,32
+1942-11-07,Furman,Southern,,H,Citadel,Southern,Bo Rowland,W,20,0
+1942-11-14,Furman,Southern,,A,South Carolina,Southern,Rex Enright,W,6,0
+1942-11-21,Furman,Southern,,A,Clemson,Southern,Frank Howard,L,7,12
+1942-09-26,Utah,MSAC,Ike Armstrong,H,Santa Clara,Ind,Buck Shaw,L,0,12
+1942-10-03,Utah,MSAC,Ike Armstrong,A,Arizona,BIAA,Miles Casteel,L,0,14
+1942-10-10,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Floyd Millet,L,7,12
+1942-10-17,Utah,MSAC,Ike Armstrong,A,Utah State,MSAC,E. Lowell Romney,W,34,6
+1942-10-24,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Ellison Ketchum,W,21,12
+1942-10-31,Utah,MSAC,Ike Armstrong,H,Colorado State,MSAC,Julius Wagner,W,33,14
+1942-11-07,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Jim Yeager,W,13,0
+1942-11-14,Utah,MSAC,Ike Armstrong,A,Wyoming,MSAC,Bunny Oakes,W,34,7
+1942-11-26,Utah,MSAC,Ike Armstrong,H,Idaho,PCC,Francis Schmidt,W,13,7
+1942-10-17,Villanova,Ind,,H,Florida,SEC,Tom Lieb,W,13,3
+1942-10-23,Villanova,Ind,,A,Auburn,SEC,Jack Meagher,L,6,14
+1942-11-01,Villanova,Ind,,H,Manhattan,Ind,Herb Kopf,W,32,0
+1942-11-06,Villanova,Ind,,H,Iowa State,Big 6,Mike Michalske,W,32,7
+1942-11-14,Villanova,Ind,,A,Detroit Mercy,Ind,Gus Dorais,L,0,9
+1942-11-22,Villanova,Ind,,H,Duquesne,Ind,,L,0,6
+1942-11-28,Villanova,Ind,,A,Temple,Ind,Ray Morrison,W,20,7
+1942-09-26,Washington & Lee,Southern,P.A. Holstein,N,West Virginia,Ind,,L,7,21
+1942-10-03,Washington & Lee,Southern,P.A. Holstein,A,Kentucky,SEC,A.D. Kirwan,L,0,53
+1942-10-24,Washington & Lee,Southern,P.A. Holstein,N,Virginia Tech,Southern,Henry McEver,L,6,19
+1942-10-31,Washington & Lee,Southern,P.A. Holstein,A,Richmond,Southern,John Fenlon,L,6,8
+1942-11-07,Washington & Lee,Southern,P.A. Holstein,H,Virginia,Ind,Frank Murray,L,7,34
+1942-11-14,Washington & Lee,Southern,P.A. Holstein,A,Davidson,Southern,Gene McEver,L,13,21
+1942-11-21,Washington & Lee,Southern,P.A. Holstein,A,Maryland,Southern,Clark Shaughnessy,L,28,32
+1942-10-17,Syracuse,Ind,Ossie Solem,A,Holy Cross,Ind,,W,19,0
+1942-10-24,Syracuse,Ind,Ossie Solem,H,Cornell,Ind,,W,12,7
+1942-10-31,Syracuse,Ind,Ossie Solem,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,0,9
+1942-11-07,Syracuse,Ind,Ossie Solem,A,Penn State,Ind,Bob Higgins,L,13,18
+1942-11-14,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,L,0,14
+1942-09-26,Georgia Pre-Flight,Ind,,A,Pennsylvania,Ind,George Munger,W,14,6
+1942-10-02,Georgia Pre-Flight,Ind,,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,T,14,14
+1942-10-10,Georgia Pre-Flight,Ind,,A,Duke,Southern,,W,26,12
+1942-10-24,Georgia Pre-Flight,Ind,,A,LSU,SEC,Bernie Moore,L,0,34
+1942-10-30,Georgia Pre-Flight,Ind,,H,Jacksonville Naval Air Station,Ind,,W,20,6
+1942-11-07,Georgia Pre-Flight,Ind,,N,Auburn,SEC,Jack Meagher,W,41,14
+1942-11-14,Georgia Pre-Flight,Ind,,A,Tulane,SEC,Claude Simons,W,7,0
+1942-11-28,Georgia Pre-Flight,Ind,,A,Alabama,SEC,Frank Thomas,W,35,19
+1942-09-26,Arizona,BIAA,Miles Casteel,H,New Mexico State,BIAA,Julius Johnston,W,53,0
+1942-10-03,Arizona,BIAA,Miles Casteel,H,Utah,MSAC,Ike Armstrong,W,14,0
+1942-10-10,Arizona,BIAA,Miles Casteel,A,Arizona State,BIAA,Hilman Walker,W,23,0
+1942-10-17,Arizona,BIAA,Miles Casteel,H,Oklahoma State,MVC,Jim Lookabaugh,W,20,6
+1942-10-24,Arizona,BIAA,Miles Casteel,A,Marquette,Ind,Tom Stidham,L,0,39
+1942-11-07,Arizona,BIAA,Miles Casteel,H,New Mexico,BIAA,Willis Barnes,W,14,13
+1942-11-14,Arizona,BIAA,Miles Casteel,H,Hardin-Simmons,BIAA,Warren Woodson,L,26,34
+1942-11-21,Arizona,BIAA,Miles Casteel,A,UTEP,BIAA,,W,19,7
+1942-11-26,Arizona,BIAA,Miles Casteel,H,Texas Tech,BIAA,,L,7,13
+1942-09-26,Georgetown,Ind,Jack Hagerty,A,Temple,Ind,Ray Morrison,W,7,0
+1942-10-02,Georgetown,Ind,Jack Hagerty,H,Ole Miss,SEC,Harry Mehre,W,14,6
+1942-10-10,Georgetown,Ind,Jack Hagerty,H,Manhattan,Ind,Herb Kopf,W,9,7
+1942-10-17,Georgetown,Ind,Jack Hagerty,H,Auburn,SEC,Jack Meagher,T,6,6
+1942-10-24,Georgetown,Ind,Jack Hagerty,A,Detroit Mercy,Ind,Gus Dorais,L,0,6
+1942-10-31,Georgetown,Ind,Jack Hagerty,A,Boston College,Ind,Denny Myers,L,0,47
+1942-11-07,Georgetown,Ind,Jack Hagerty,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,7,23
+1942-11-14,Georgetown,Ind,Jack Hagerty,A,North Carolina State,Southern,,W,28,20
+1942-11-21,Georgetown,Ind,Jack Hagerty,H,George Washington,Southern,John Baker,W,21,0
+1942-09-26,Montana,PCC,Clyde Carpenter,H,Brigham Young,MSAC,Floyd Millet,L,6,12
+1942-10-10,Montana,PCC,Clyde Carpenter,A,Washington State,PCC,O.E. Hollingbery,L,16,68
+1942-10-17,Montana,PCC,Clyde Carpenter,A,Washington,PCC,Ralph Welch,L,0,35
+1942-10-31,Montana,PCC,Clyde Carpenter,H,Idaho,PCC,Francis Schmidt,L,0,21
+1942-11-07,Montana,PCC,Clyde Carpenter,A,Oregon State,PCC,Lon Stiner,L,0,33
+1942-11-14,Montana,PCC,Clyde Carpenter,A,California,PCC,Stub Allison,L,0,13
+1942-12-05,Montana,PCC,Clyde Carpenter,A,USC,PCC,Jeff Cravath,L,0,38
+1942-10-17,Penn State,Ind,Bob Higgins,A,Cornell,Ind,,T,0,0
+1942-10-24,Penn State,Ind,Bob Higgins,H,Colgate,Ind,Andrew Kerr,W,13,10
+1942-10-31,Penn State,Ind,Bob Higgins,A,West Virginia,Ind,,L,0,24
+1942-11-07,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Ossie Solem,W,18,13
+1942-11-14,Penn State,Ind,Bob Higgins,A,Pennsylvania,Ind,George Munger,W,13,7
+1942-11-21,Penn State,Ind,Bob Higgins,H,Pitt,Ind,Charles Bowser,W,14,6
+1942-10-10,Princeton,Ind,Tad Wieman,H,Navy,Ind,John Whelchel,W,10,0
+1942-10-17,Princeton,Ind,Tad Wieman,A,Pennsylvania,Ind,George Munger,T,6,6
+1942-10-24,Princeton,Ind,Tad Wieman,H,Brown,Ind,Skip Stahley,W,32,13
+1942-10-31,Princeton,Ind,Tad Wieman,A,Harvard,Ind,,L,14,19
+1942-11-07,Princeton,Ind,Tad Wieman,H,Dartmouth,Ind,,L,7,19
+1942-11-14,Princeton,Ind,Tad Wieman,N,Yale,Ind,Howard Odell,L,6,13
+1942-11-21,Princeton,Ind,Tad Wieman,N,Army,Ind,Red Blaik,L,7,40
+1942-10-03,Vanderbilt,SEC,Red Sanders,H,Purdue,Western,Elmer Burnham,W,26,0
+1942-10-10,Vanderbilt,SEC,Red Sanders,A,Kentucky,SEC,A.D. Kirwan,W,7,6
+1942-10-17,Vanderbilt,SEC,Red Sanders,H,Mississippi State,SEC,Allyn McKeen,L,0,33
+1942-10-31,Vanderbilt,SEC,Red Sanders,A,Tulane,SEC,Claude Simons,L,21,28
+1942-11-07,Vanderbilt,SEC,Red Sanders,N,Ole Miss,SEC,Harry Mehre,W,19,0
+1942-11-21,Vanderbilt,SEC,Red Sanders,A,Alabama,SEC,Frank Thomas,L,7,27
+1942-11-28,Vanderbilt,SEC,Red Sanders,H,Tennessee,SEC,John Barnhill,L,7,19
+1942-09-19,Kentucky,SEC,A.D. Kirwan,H,Georgia,SEC,Wallace Butts,L,6,7
+1942-10-03,Kentucky,SEC,A.D. Kirwan,H,Washington & Lee,Southern,P.A. Holstein,W,53,0
+1942-10-10,Kentucky,SEC,A.D. Kirwan,H,Vanderbilt,SEC,Red Sanders,L,6,7
+1942-10-17,Kentucky,SEC,A.D. Kirwan,A,Virginia Tech,Southern,Henry McEver,T,21,21
+1942-10-24,Kentucky,SEC,A.D. Kirwan,H,Alabama,SEC,Frank Thomas,L,0,14
+1942-10-30,Kentucky,SEC,A.D. Kirwan,A,George Washington,Southern,John Baker,W,27,6
+1942-11-07,Kentucky,SEC,A.D. Kirwan,A,Georgia Tech,SEC,William Alexander,L,7,47
+1942-11-14,Kentucky,SEC,A.D. Kirwan,H,West Virginia,Ind,,L,0,7
+1942-11-21,Kentucky,SEC,A.D. Kirwan,A,Tennessee,SEC,John Barnhill,L,0,26
+1942-09-26,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,James Phelan,W,6,0
+1942-10-03,California,PCC,Stub Allison,A,Oregon State,PCC,Lon Stiner,L,8,13
+1942-10-10,California,PCC,Stub Allison,H,Santa Clara,Ind,Buck Shaw,L,6,7
+1942-10-17,California,PCC,Stub Allison,H,UCLA,PCC,Babe Horrell,L,0,21
+1942-10-24,California,PCC,Stub Allison,A,Washington,PCC,Ralph Welch,W,19,6
+1942-10-31,California,PCC,Stub Allison,H,Oregon,PCC,John Warren,W,20,7
+1942-11-07,California,PCC,Stub Allison,A,USC,PCC,Jeff Cravath,L,7,21
+1942-11-14,California,PCC,Stub Allison,H,Montana,PCC,Clyde Carpenter,W,13,0
+1942-11-21,California,PCC,Stub Allison,H,Stanford,PCC,Marchy Schwartz,L,7,26
+1942-12-05,California,PCC,Stub Allison,H,Saint Mary's (CA) Pre-Flight,Ind,,W,12,6
+1942-09-19,Florida,SEC,Tom Lieb,A,Jacksonville Naval Air Station,Ind,,L,7,20
+1942-10-10,Florida,SEC,Tom Lieb,H,Auburn,SEC,Jack Meagher,W,6,0
+1942-10-17,Florida,SEC,Tom Lieb,A,Villanova,Ind,,L,3,13
+1942-10-24,Florida,SEC,Tom Lieb,H,Mississippi State,SEC,Allyn McKeen,L,12,26
+1942-10-31,Florida,SEC,Tom Lieb,A,Maryland,Southern,Clark Shaughnessy,L,0,13
+1942-11-07,Florida,SEC,Tom Lieb,N,Georgia,SEC,Wallace Butts,L,0,75
+1942-11-14,Florida,SEC,Tom Lieb,A,Miami (FL),Ind,Jack Harding,L,0,12
+1942-11-21,Florida,SEC,Tom Lieb,A,Georgia Tech,SEC,William Alexander,L,7,20
+1942-09-26,Stanford,PCC,Marchy Schwartz,H,Washington State,PCC,O.E. Hollingbery,L,0,6
+1942-10-03,Stanford,PCC,Marchy Schwartz,N,Santa Clara,Ind,Buck Shaw,L,6,14
+1942-10-10,Stanford,PCC,Marchy Schwartz,A,Notre Dame,Ind,Frank Leahy,L,0,27
+1942-10-17,Stanford,PCC,Marchy Schwartz,H,Idaho,PCC,Francis Schmidt,W,54,7
+1942-10-24,Stanford,PCC,Marchy Schwartz,H,USC,PCC,Jeff Cravath,W,14,6
+1942-10-31,Stanford,PCC,Marchy Schwartz,A,UCLA,PCC,Babe Horrell,L,7,21
+1942-11-07,Stanford,PCC,Marchy Schwartz,H,Washington,PCC,Ralph Welch,W,20,7
+1942-11-14,Stanford,PCC,Marchy Schwartz,H,Oregon State,PCC,Lon Stiner,W,49,13
+1942-11-21,Stanford,PCC,Marchy Schwartz,A,California,PCC,Stub Allison,W,26,7
+1942-11-28,Stanford,PCC,Marchy Schwartz,H,Saint Mary's (CA) Pre-Flight,Ind,,W,28,13
+1942-10-02,Creighton,MVC,Skip Palrang,H,Washington (MO),MVC,Tom Gorman,L,12,13
+1942-10-24,Creighton,MVC,Skip Palrang,A,Drake,MVC,Vee Green,W,33,14
+1942-10-31,Creighton,MVC,Skip Palrang,H,Oklahoma State,MVC,Jim Lookabaugh,L,6,20
+1942-11-08,Creighton,MVC,Skip Palrang,A,Saint Louis,MVC,,L,19,21
+1942-11-14,Creighton,MVC,Skip Palrang,H,Texas Tech,BIAA,,W,13,6
+1942-11-21,Creighton,MVC,Skip Palrang,H,Tulsa,MVC,Henry Frnka,L,19,33
+1942-09-26,Washington State,PCC,O.E. Hollingbery,A,Stanford,PCC,Marchy Schwartz,W,6,0
+1942-10-03,Washington State,PCC,O.E. Hollingbery,H,Oregon,PCC,John Warren,W,7,0
+1942-10-10,Washington State,PCC,O.E. Hollingbery,H,Montana,PCC,Clyde Carpenter,W,68,16
+1942-10-17,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Jeff Cravath,L,12,26
+1942-10-24,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Lon Stiner,W,26,13
+1942-11-07,Washington State,PCC,O.E. Hollingbery,H,Michigan State,Ind,Charlie Bachman,W,25,13
+1942-11-14,Washington State,PCC,O.E. Hollingbery,A,Idaho,PCC,Francis Schmidt,W,7,0
+1942-11-28,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,Ralph Welch,T,0,0
+1942-12-05,Washington State,PCC,O.E. Hollingbery,A,Texas A&M,SWC,Homer Norton,L,0,21
+1942-10-10,Illinois,Western,Ray Eliot,H,Minnesota,Western,George Hauser,W,20,13
+1942-10-17,Illinois,Western,Ray Eliot,A,Iowa,Western,Edward Anderson,W,12,7
+1942-10-24,Illinois,Western,Ray Eliot,H,Notre Dame,Ind,Frank Leahy,L,14,21
+1942-10-31,Illinois,Western,Ray Eliot,A,Michigan,Western,Fritz Crisler,L,14,28
+1942-11-07,Illinois,Western,Ray Eliot,A,Northwestern,Western,Pappy Waldorf,W,14,7
+1942-11-14,Illinois,Western,Ray Eliot,A,Ohio State,Western,Paul Brown,L,20,44
+1942-11-21,Illinois,Western,Ray Eliot,H,Great Lakes Navy,Ind,,L,0,6
+1942-09-26,Baylor,SWC,Frank Kimbrough,H,Hardin-Simmons,BIAA,Warren Woodson,L,6,13
+1942-10-03,Baylor,SWC,Frank Kimbrough,A,Oklahoma State,MVC,Jim Lookabaugh,W,18,12
+1942-10-10,Baylor,SWC,Frank Kimbrough,A,Arkansas,SWC,George Cole,W,20,7
+1942-10-17,Baylor,SWC,Frank Kimbrough,A,Texas Tech,BIAA,,W,14,7
+1942-10-24,Baylor,SWC,Frank Kimbrough,H,Texas A&M,SWC,Homer Norton,W,6,0
+1942-10-31,Baylor,SWC,Frank Kimbrough,A,Texas Christian,SWC,Dutch Meyer,W,10,7
+1942-11-07,Baylor,SWC,Frank Kimbrough,A,Texas,SWC,Dana Bible,L,0,20
+1942-11-14,Baylor,SWC,Frank Kimbrough,A,Tulsa,MVC,Henry Frnka,L,0,24
+1942-11-20,Baylor,SWC,Frank Kimbrough,H,SMU,SWC,James Stewart,T,6,6
+1942-11-28,Baylor,SWC,Frank Kimbrough,H,Rice,SWC,Jess Neely,L,0,20
+1942-10-10,Manhattan,Ind,Herb Kopf,A,Georgetown,Ind,Jack Hagerty,L,7,9
+1942-10-16,Manhattan,Ind,Herb Kopf,H,Detroit Mercy,Ind,Gus Dorais,L,7,21
+1942-10-24,Manhattan,Ind,Herb Kopf,H,Duquesne,Ind,,W,10,7
+1942-11-01,Manhattan,Ind,Herb Kopf,A,Villanova,Ind,,L,0,32
+1942-11-08,Manhattan,Ind,Herb Kopf,A,Marquette,Ind,Tom Stidham,L,12,27
+1942-11-14,Manhattan,Ind,Herb Kopf,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,0,17
+1942-11-21,Manhattan,Ind,Herb Kopf,A,Holy Cross,Ind,,L,0,28
+1942-10-03,SMU,SWC,James Stewart,A,Pitt,Ind,Charles Bowser,L,7,20
+1942-10-10,SMU,SWC,James Stewart,N,Hardin-Simmons,BIAA,Warren Woodson,L,6,7
+1942-10-17,SMU,SWC,James Stewart,H,Temple,Ind,Ray Morrison,T,6,6
+1942-10-31,SMU,SWC,James Stewart,A,Texas,SWC,Dana Bible,L,7,21
+1942-11-07,SMU,SWC,James Stewart,H,Texas A&M,SWC,Homer Norton,L,20,27
+1942-11-14,SMU,SWC,James Stewart,H,Arkansas,SWC,George Cole,W,14,6
+1942-11-20,SMU,SWC,James Stewart,A,Baylor,SWC,Frank Kimbrough,T,6,6
+1942-11-28,SMU,SWC,James Stewart,H,Texas Christian,SWC,Dutch Meyer,L,6,14
+1942-12-05,SMU,SWC,James Stewart,A,Rice,SWC,Jess Neely,L,7,13
+1942-09-19,Georgia,SEC,Wallace Butts,A,Kentucky,SEC,A.D. Kirwan,W,7,6
+1942-09-25,Georgia,SEC,Wallace Butts,N,Jacksonville Naval Air Station,Ind,,W,14,0
+1942-10-03,Georgia,SEC,Wallace Butts,H,Furman,Southern,,W,40,7
+1942-10-10,Georgia,SEC,Wallace Butts,A,Ole Miss,SEC,Harry Mehre,W,48,13
+1942-10-17,Georgia,SEC,Wallace Butts,H,Tulane,SEC,Claude Simons,W,40,0
+1942-10-31,Georgia,SEC,Wallace Butts,H,Alabama,SEC,Frank Thomas,W,21,10
+1942-11-07,Georgia,SEC,Wallace Butts,N,Florida,SEC,Tom Lieb,W,75,0
+1942-11-21,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Jack Meagher,L,13,27
+1942-11-28,Georgia,SEC,Wallace Butts,H,Georgia Tech,SEC,William Alexander,W,34,0
+1943-01-01,Georgia,SEC,Wallace Butts,A,UCLA,PCC,Babe Horrell,W,9,0
+1942-10-17,Maryland,Southern,Clark Shaughnessy,A,Virginia Military Institute,Southern,,L,0,29
+1942-10-31,Maryland,Southern,Clark Shaughnessy,H,Florida,SEC,Tom Lieb,W,13,0
+1942-11-07,Maryland,Southern,Clark Shaughnessy,A,Duke,Southern,,L,0,42
+1942-11-14,Maryland,Southern,Clark Shaughnessy,A,Virginia,Ind,Frank Murray,W,27,12
+1942-11-21,Maryland,Southern,Clark Shaughnessy,H,Washington & Lee,Southern,P.A. Holstein,W,32,28
+1942-10-03,Virginia,Ind,Frank Murray,A,Navy,Ind,John Whelchel,L,0,35
+1942-10-10,Virginia,Ind,Frank Murray,H,Virginia Military Institute,Southern,,L,18,38
+1942-10-17,Virginia,Ind,Frank Murray,A,Richmond,Southern,John Fenlon,T,7,7
+1942-10-31,Virginia,Ind,Frank Murray,N,Virginia Tech,Southern,Henry McEver,L,14,20
+1942-11-07,Virginia,Ind,Frank Murray,A,Washington & Lee,Southern,P.A. Holstein,W,34,7
+1942-11-14,Virginia,Ind,Frank Murray,H,Maryland,Southern,Clark Shaughnessy,L,12,27
+1942-11-21,Virginia,Ind,Frank Murray,H,North Carolina,Southern,Jim Tatum,L,13,28
+1942-09-26,Idaho,PCC,Francis Schmidt,H,Oregon State,PCC,Lon Stiner,L,0,32
+1942-10-17,Idaho,PCC,Francis Schmidt,A,Stanford,PCC,Marchy Schwartz,L,7,54
+1942-10-24,Idaho,PCC,Francis Schmidt,A,Oregon,PCC,John Warren,L,0,28
+1942-10-31,Idaho,PCC,Francis Schmidt,A,Montana,PCC,Clyde Carpenter,W,21,0
+1942-11-14,Idaho,PCC,Francis Schmidt,H,Washington State,PCC,O.E. Hollingbery,L,0,7
+1942-11-26,Idaho,PCC,Francis Schmidt,A,Utah,MSAC,Ike Armstrong,L,7,13
+1942-12-05,Idaho,PCC,Francis Schmidt,A,UCLA,PCC,Babe Horrell,L,13,40
+1942-09-26,Northern Arizona,BIAA,Maurice Moulder,A,New Mexico,BIAA,Willis Barnes,L,6,26
+1942-10-17,Northern Arizona,BIAA,Maurice Moulder,H,West Texas A&M,BIAA,Gus Miller,L,7,27
+1942-11-07,Northern Arizona,BIAA,Maurice Moulder,A,UTEP,BIAA,,L,0,20
+1942-11-21,Northern Arizona,BIAA,Maurice Moulder,A,New Mexico State,BIAA,Julius Johnston,W,3,0
+1942-12-05,Northern Arizona,BIAA,Maurice Moulder,H,Arizona State,BIAA,Hilman Walker,L,2,14
+1942-10-10,Citadel,Southern,Bo Rowland,A,George Washington,Southern,John Baker,W,14,2
+1942-10-30,Citadel,Southern,Bo Rowland,N,South Carolina,Southern,Rex Enright,L,0,14
+1942-11-07,Citadel,Southern,Bo Rowland,A,Furman,Southern,,L,0,20
+1942-11-21,Citadel,Southern,Bo Rowland,H,Davidson,Southern,Gene McEver,W,21,9
+1942-09-26,Oklahoma,Big 6,Snorter Luster,A,Oklahoma State,MVC,Jim Lookabaugh,T,0,0
+1942-10-03,Oklahoma,Big 6,Snorter Luster,A,Tulsa,MVC,Henry Frnka,L,0,23
+1942-10-10,Oklahoma,Big 6,Snorter Luster,N,Texas,SWC,Dana Bible,L,0,7
+1942-10-17,Oklahoma,Big 6,Snorter Luster,A,Kansas,Big 6,Gwinn Henry,W,25,0
+1942-10-24,Oklahoma,Big 6,Snorter Luster,H,Nebraska,Big 6,Glenn Presnell,L,0,7
+1942-10-31,Oklahoma,Big 6,Snorter Luster,A,Iowa State,Big 6,Mike Michalske,W,14,7
+1942-11-07,Oklahoma,Big 6,Snorter Luster,H,Kansas State,Big 6,Ward Haylett,W,76,0
+1942-11-14,Oklahoma,Big 6,Snorter Luster,H,Missouri,Big 6,Don Faurot,T,6,6
+1942-11-21,Oklahoma,Big 6,Snorter Luster,A,Temple,Ind,Ray Morrison,L,7,14
+1942-11-28,Oklahoma,Big 6,Snorter Luster,H,William & Mary,Southern,,L,7,14
+1942-09-26,Virginia Tech,Southern,Henry McEver,A,Furman,Southern,,W,7,6
+1942-10-03,Virginia Tech,Southern,Henry McEver,H,William & Mary,Southern,,L,7,21
+1942-10-10,Virginia Tech,Southern,Henry McEver,H,Davidson,Southern,Gene McEver,W,16,0
+1942-10-17,Virginia Tech,Southern,Henry McEver,H,Kentucky,SEC,A.D. Kirwan,T,21,21
+1942-10-24,Virginia Tech,Southern,Henry McEver,N,Washington & Lee,Southern,P.A. Holstein,W,19,6
+1942-10-31,Virginia Tech,Southern,Henry McEver,N,Virginia,Ind,Frank Murray,W,20,14
+1942-11-07,Virginia Tech,Southern,Henry McEver,A,Richmond,Southern,John Fenlon,W,16,7
+1942-11-14,Virginia Tech,Southern,Henry McEver,A,Army,Ind,Red Blaik,L,7,19
+1942-11-26,Virginia Tech,Southern,Henry McEver,N,Virginia Military Institute,Southern,,W,20,6
+1942-09-19,Jacksonville Naval Air Station,Ind,,H,Florida,SEC,Tom Lieb,W,20,7
+1942-09-25,Jacksonville Naval Air Station,Ind,,N,Georgia,SEC,Wallace Butts,L,0,14
+1942-10-03,Jacksonville Naval Air Station,Ind,,A,Miami (FL),Ind,Jack Harding,W,14,0
+1942-10-30,Jacksonville Naval Air Station,Ind,,A,Georgia Pre-Flight,Ind,,L,6,20
+1942-11-14,Jacksonville Naval Air Station,Ind,,H,Clemson,Southern,Frank Howard,W,24,6
+1942-11-28,Jacksonville Naval Air Station,Ind,,H,Duke,Southern,,W,13,0
+1942-10-03,Arkansas,SWC,George Cole,A,Texas Christian,SWC,Dutch Meyer,L,6,13
+1942-10-10,Arkansas,SWC,George Cole,H,Baylor,SWC,Frank Kimbrough,L,7,20
+1942-10-17,Arkansas,SWC,George Cole,H,Texas,SWC,Dana Bible,L,6,47
+1942-10-24,Arkansas,SWC,George Cole,N,Ole Miss,SEC,Harry Mehre,W,7,6
+1942-10-31,Arkansas,SWC,George Cole,A,Texas A&M,SWC,Homer Norton,L,0,41
+1942-11-07,Arkansas,SWC,George Cole,H,Rice,SWC,Jess Neely,L,9,40
+1942-11-14,Arkansas,SWC,George Cole,A,SMU,SWC,James Stewart,L,6,14
+1942-11-21,Arkansas,SWC,George Cole,A,Detroit Mercy,Ind,Gus Dorais,W,14,7
+1942-11-26,Arkansas,SWC,George Cole,A,Tulsa,MVC,Henry Frnka,L,7,40
+1942-09-26,Clemson,Southern,Frank Howard,A,Virginia Military Institute,Southern,,T,0,0
+1942-10-03,Clemson,Southern,Frank Howard,N,North Carolina State,Southern,,L,6,7
+1942-10-10,Clemson,Southern,Frank Howard,A,Boston College,Ind,Denny Myers,L,7,14
+1942-10-22,Clemson,Southern,Frank Howard,A,South Carolina,Southern,Rex Enright,W,18,6
+1942-10-31,Clemson,Southern,Frank Howard,A,Wake Forest,Southern,D.C. Walker,L,6,19
+1942-11-07,Clemson,Southern,Frank Howard,H,George Washington,Southern,John Baker,L,0,7
+1942-11-14,Clemson,Southern,Frank Howard,A,Jacksonville Naval Air Station,Ind,,L,6,24
+1942-11-21,Clemson,Southern,Frank Howard,H,Furman,Southern,,W,12,7
+1942-11-28,Clemson,Southern,Frank Howard,A,Auburn,SEC,Jack Meagher,L,13,41
+1942-09-26,South Carolina,Southern,Rex Enright,H,Tennessee,SEC,John Barnhill,T,0,0
+1942-10-03,South Carolina,Southern,Rex Enright,A,North Carolina,Southern,Jim Tatum,L,6,18
+1942-10-10,South Carolina,Southern,Rex Enright,A,West Virginia,Ind,,L,0,13
+1942-10-22,South Carolina,Southern,Rex Enright,H,Clemson,Southern,Frank Howard,L,6,18
+1942-10-30,South Carolina,Southern,Rex Enright,N,Citadel,Southern,Bo Rowland,W,14,0
+1942-11-07,South Carolina,Southern,Rex Enright,A,Alabama,SEC,Frank Thomas,L,0,29
+1942-11-14,South Carolina,Southern,Rex Enright,H,Furman,Southern,,L,0,6
+1942-11-21,South Carolina,Southern,Rex Enright,A,Miami (FL),Ind,Jack Harding,L,6,13
+1942-11-26,South Carolina,Southern,Rex Enright,N,Wake Forest,Southern,D.C. Walker,L,14,33
+1942-10-03,Washington,PCC,Ralph Welch,H,USC,PCC,Jeff Cravath,T,0,0
+1942-10-10,Washington,PCC,Ralph Welch,A,Oregon,PCC,John Warren,W,15,7
+1942-10-17,Washington,PCC,Ralph Welch,H,Montana,PCC,Clyde Carpenter,W,35,0
+1942-10-24,Washington,PCC,Ralph Welch,H,California,PCC,Stub Allison,L,6,19
+1942-10-31,Washington,PCC,Ralph Welch,H,Oregon State,PCC,Lon Stiner,W,13,0
+1942-11-07,Washington,PCC,Ralph Welch,A,Stanford,PCC,Marchy Schwartz,L,7,20
+1942-11-14,Washington,PCC,Ralph Welch,H,Saint Mary's (CA) Pre-Flight,Ind,,T,0,0
+1942-11-21,Washington,PCC,Ralph Welch,A,UCLA,PCC,Babe Horrell,L,10,14
+1942-11-28,Washington,PCC,Ralph Welch,H,Washington State,PCC,O.E. Hollingbery,T,0,0
+1942-09-26,Santa Clara,Ind,Buck Shaw,A,Utah,MSAC,Ike Armstrong,W,12,0
+1942-10-03,Santa Clara,Ind,Buck Shaw,N,Stanford,PCC,Marchy Schwartz,W,14,6
+1942-10-10,Santa Clara,Ind,Buck Shaw,A,California,PCC,Stub Allison,W,7,6
+1942-10-17,Santa Clara,Ind,Buck Shaw,A,Oregon State,PCC,Lon Stiner,W,7,0
+1942-10-24,Santa Clara,Ind,Buck Shaw,A,UCLA,PCC,Babe Horrell,L,6,14
+1942-10-31,Santa Clara,Ind,Buck Shaw,H,San Francisco,Ind,Al Tassi,W,8,6
+1942-11-14,Santa Clara,Ind,Buck Shaw,H,Saint Mary's (CA),Ind,James Phelan,W,20,7
+1942-11-22,Santa Clara,Ind,Buck Shaw,N,Saint Mary's (CA) Pre-Flight,Ind,,L,6,13
+1942-11-28,Santa Clara,Ind,Buck Shaw,H,Loyola Marymount,Ind,,W,21,0
+1942-09-26,Holy Cross,Ind,,H,Dartmouth,Ind,,L,6,17
+1942-10-03,Holy Cross,Ind,,H,Duquesne,Ind,,L,0,25
+1942-10-17,Holy Cross,Ind,,H,Syracuse,Ind,Ossie Solem,L,0,19
+1942-10-24,Holy Cross,Ind,,H,North Carolina State,Southern,,W,28,0
+1942-10-31,Holy Cross,Ind,,H,Colgate,Ind,Andrew Kerr,T,6,6
+1942-11-07,Holy Cross,Ind,,A,Brown,Ind,Skip Stahley,L,14,20
+1942-11-14,Holy Cross,Ind,,A,Temple,Ind,Ray Morrison,W,13,0
+1942-11-21,Holy Cross,Ind,,H,Manhattan,Ind,Herb Kopf,W,28,0
+1942-11-28,Holy Cross,Ind,,N,Boston College,Ind,Denny Myers,W,55,12
+1942-10-09,Utah State,MSAC,E. Lowell Romney,A,Colorado,MSAC,Jim Yeager,L,14,31
+1942-10-17,Utah State,MSAC,E. Lowell Romney,H,Utah,MSAC,Ike Armstrong,L,6,34
+1942-10-31,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Floyd Millet,W,9,6
+1942-11-07,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Julius Wagner,L,0,25
+1942-11-14,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Ellison Ketchum,T,13,13
+1942-11-21,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Bunny Oakes,W,14,6
+1942-09-26,Missouri,Big 6,Don Faurot,H,Saint Louis,MVC,,W,38,7
+1942-10-03,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Jim Yeager,W,26,13
+1942-10-10,Missouri,Big 6,Don Faurot,A,Wisconsin,Western,Harry Stuhldreher,L,9,17
+1942-10-17,Missouri,Big 6,Don Faurot,A,Kansas State,Big 6,Ward Haylett,W,46,2
+1942-10-24,Missouri,Big 6,Don Faurot,H,Iowa State,Big 6,Mike Michalske,W,45,6
+1942-10-31,Missouri,Big 6,Don Faurot,H,Great Lakes Navy,Ind,,L,0,17
+1942-11-07,Missouri,Big 6,Don Faurot,A,Nebraska,Big 6,Glenn Presnell,W,26,6
+1942-11-14,Missouri,Big 6,Don Faurot,A,Oklahoma,Big 6,Snorter Luster,T,6,6
+1942-11-21,Missouri,Big 6,Don Faurot,A,Fordham,Ind,,L,12,20
+1942-11-26,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,Gwinn Henry,W,42,13
+1942-12-05,Missouri,Big 6,Don Faurot,H,Iowa Pre-Flight,Ind,Bernie Bierman,W,7,0
+1942-09-26,Hardin-Simmons,BIAA,Warren Woodson,A,Baylor,SWC,Frank Kimbrough,W,13,6
+1942-10-10,Hardin-Simmons,BIAA,Warren Woodson,N,SMU,SWC,James Stewart,W,7,6
+1942-10-24,Hardin-Simmons,BIAA,Warren Woodson,H,Arizona State,BIAA,Hilman Walker,W,21,0
+1942-10-31,Hardin-Simmons,BIAA,Warren Woodson,H,UTEP,BIAA,,W,39,7
+1942-11-07,Hardin-Simmons,BIAA,Warren Woodson,A,West Texas A&M,BIAA,Gus Miller,W,40,0
+1942-11-14,Hardin-Simmons,BIAA,Warren Woodson,A,Arizona,BIAA,Miles Casteel,W,34,26
+1942-11-21,Hardin-Simmons,BIAA,Warren Woodson,A,Texas Tech,BIAA,,T,0,0
+1942-09-25,Denver,MSAC,Ellison Ketchum,H,Iowa State,Big 6,Mike Michalske,L,0,7
+1942-10-02,Denver,MSAC,Ellison Ketchum,H,Kansas,Big 6,Gwinn Henry,W,17,0
+1942-10-10,Denver,MSAC,Ellison Ketchum,H,Colorado State,MSAC,Julius Wagner,W,26,0
+1942-10-17,Denver,MSAC,Ellison Ketchum,H,Wyoming,MSAC,Bunny Oakes,W,17,14
+1942-10-24,Denver,MSAC,Ellison Ketchum,A,Utah,MSAC,Ike Armstrong,L,12,21
+1942-11-07,Denver,MSAC,Ellison Ketchum,A,Brigham Young,MSAC,Floyd Millet,W,26,6
+1942-11-14,Denver,MSAC,Ellison Ketchum,H,Utah State,MSAC,E. Lowell Romney,T,13,13
+1942-11-26,Denver,MSAC,Ellison Ketchum,H,Colorado,MSAC,Jim Yeager,L,6,31
+1942-09-26,Great Lakes Navy,Ind,,A,Michigan,Western,Fritz Crisler,L,0,9
+1942-10-03,Great Lakes Navy,Ind,,A,Iowa,Western,Edward Anderson,W,25,0
+1942-10-10,Great Lakes Navy,Ind,,N,Pitt,Ind,Charles Bowser,W,7,6
+1942-10-17,Great Lakes Navy,Ind,,H,Wisconsin,Western,Harry Stuhldreher,L,7,13
+1942-10-24,Great Lakes Navy,Ind,,A,Michigan State,Ind,Charlie Bachman,L,0,14
+1942-10-31,Great Lakes Navy,Ind,,A,Missouri,Big 6,Don Faurot,W,17,0
+1942-11-07,Great Lakes Navy,Ind,,A,Purdue,Western,Elmer Burnham,W,42,0
+1942-11-15,Great Lakes Navy,Ind,,A,Marquette,Ind,Tom Stidham,W,24,0
+1942-11-21,Great Lakes Navy,Ind,,A,Illinois,Western,Ray Eliot,W,6,0
+1942-11-26,Great Lakes Navy,Ind,,A,Northwestern,Western,Pappy Waldorf,W,48,0
+1942-12-05,Great Lakes Navy,Ind,,H,Notre Dame,Ind,Frank Leahy,T,13,13
+1942-09-26,Wisconsin,Western,Harry Stuhldreher,H,Notre Dame,Ind,Frank Leahy,T,7,7
+1942-10-03,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Tom Stidham,W,35,7
+1942-10-10,Wisconsin,Western,Harry Stuhldreher,H,Missouri,Big 6,Don Faurot,W,17,9
+1942-10-17,Wisconsin,Western,Harry Stuhldreher,A,Great Lakes Navy,Ind,,W,13,7
+1942-10-24,Wisconsin,Western,Harry Stuhldreher,A,Purdue,Western,Elmer Burnham,W,13,0
+1942-10-31,Wisconsin,Western,Harry Stuhldreher,H,Ohio State,Western,Paul Brown,W,17,7
+1942-11-07,Wisconsin,Western,Harry Stuhldreher,A,Iowa,Western,Edward Anderson,L,0,6
+1942-11-14,Wisconsin,Western,Harry Stuhldreher,A,Northwestern,Western,Pappy Waldorf,W,20,19
+1942-11-21,Wisconsin,Western,Harry Stuhldreher,H,Minnesota,Western,George Hauser,W,20,6
+1942-09-26,USC,PCC,Jeff Cravath,H,Tulane,SEC,Claude Simons,L,13,27
+1942-10-03,USC,PCC,Jeff Cravath,A,Washington,PCC,Ralph Welch,T,0,0
+1942-10-10,USC,PCC,Jeff Cravath,A,Ohio State,Western,Paul Brown,L,12,28
+1942-10-17,USC,PCC,Jeff Cravath,H,Washington State,PCC,O.E. Hollingbery,W,26,12
+1942-10-24,USC,PCC,Jeff Cravath,A,Stanford,PCC,Marchy Schwartz,L,6,14
+1942-11-07,USC,PCC,Jeff Cravath,H,California,PCC,Stub Allison,W,21,7
+1942-11-14,USC,PCC,Jeff Cravath,H,Oregon,PCC,John Warren,W,40,0
+1942-11-28,USC,PCC,Jeff Cravath,H,Notre Dame,Ind,Frank Leahy,L,0,13
+1942-12-05,USC,PCC,Jeff Cravath,H,Montana,PCC,Clyde Carpenter,W,38,0
+1942-12-12,USC,PCC,Jeff Cravath,H,UCLA,PCC,Babe Horrell,L,7,14
+1942-12-19,USC,PCC,Jeff Cravath,H,Saint Mary's (CA) Pre-Flight,Ind,,W,21,13
+1942-09-19,North Carolina State,Southern,,N,Davidson,Southern,Gene McEver,T,0,0
+1942-09-26,North Carolina State,Southern,,H,Richmond,Southern,John Fenlon,W,13,0
+1942-10-03,North Carolina State,Southern,,N,Clemson,Southern,Frank Howard,W,7,6
+1942-10-10,North Carolina State,Southern,,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,7,19
+1942-10-17,North Carolina State,Southern,,H,Wake Forest,Southern,D.C. Walker,T,0,0
+1942-10-24,North Carolina State,Southern,,A,Holy Cross,Ind,,L,0,28
+1942-10-31,North Carolina State,Southern,,H,North Carolina,Southern,Jim Tatum,W,21,14
+1942-11-07,North Carolina State,Southern,,A,Miami (FL),Ind,Jack Harding,W,2,0
+1942-11-14,North Carolina State,Southern,,H,Georgetown,Ind,Jack Hagerty,L,20,28
+1942-11-21,North Carolina State,Southern,,A,Duke,Southern,,L,0,47
+1942-09-26,Michigan,Western,Fritz Crisler,H,Great Lakes Navy,Ind,,W,9,0
+1942-10-03,Michigan,Western,Fritz Crisler,H,Michigan State,Ind,Charlie Bachman,W,20,0
+1942-10-10,Michigan,Western,Fritz Crisler,H,Iowa Pre-Flight,Ind,Bernie Bierman,L,14,26
+1942-10-17,Michigan,Western,Fritz Crisler,H,Northwestern,Western,Pappy Waldorf,W,34,16
+1942-10-24,Michigan,Western,Fritz Crisler,A,Minnesota,Western,George Hauser,L,14,16
+1942-10-31,Michigan,Western,Fritz Crisler,H,Illinois,Western,Ray Eliot,W,28,14
+1942-11-07,Michigan,Western,Fritz Crisler,H,Harvard,Ind,,W,35,7
+1942-11-14,Michigan,Western,Fritz Crisler,A,Notre Dame,Ind,Frank Leahy,W,32,20
+1942-11-21,Michigan,Western,Fritz Crisler,A,Ohio State,Western,Paul Brown,L,7,21
+1942-11-28,Michigan,Western,Fritz Crisler,H,Iowa,Western,Edward Anderson,W,28,14
+1942-10-16,Detroit Mercy,Ind,Gus Dorais,A,Manhattan,Ind,Herb Kopf,W,21,7
+1942-10-24,Detroit Mercy,Ind,Gus Dorais,H,Georgetown,Ind,Jack Hagerty,W,6,0
+1942-11-01,Detroit Mercy,Ind,Gus Dorais,A,Marquette,Ind,Tom Stidham,L,0,10
+1942-11-14,Detroit Mercy,Ind,Gus Dorais,H,Villanova,Ind,,W,9,0
+1942-11-21,Detroit Mercy,Ind,Gus Dorais,H,Arkansas,SWC,George Cole,L,7,14
+1942-11-28,Detroit Mercy,Ind,Gus Dorais,H,Oklahoma State,MVC,Jim Lookabaugh,L,6,33
+1942-12-06,Detroit Mercy,Ind,Gus Dorais,A,Saint Mary's (CA),Ind,James Phelan,L,0,2
+1942-09-26,Temple,Ind,Ray Morrison,H,Georgetown,Ind,Jack Hagerty,L,0,7
+1942-10-03,Temple,Ind,Ray Morrison,H,Virginia Military Institute,Southern,,W,7,6
+1942-10-17,Temple,Ind,Ray Morrison,A,SMU,SWC,James Stewart,T,6,6
+1942-10-23,Temple,Ind,Ray Morrison,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,0,34
+1942-10-31,Temple,Ind,Ray Morrison,H,Michigan State,Ind,Charlie Bachman,T,7,7
+1942-11-07,Temple,Ind,Ray Morrison,A,Boston College,Ind,Denny Myers,L,0,28
+1942-11-14,Temple,Ind,Ray Morrison,H,Holy Cross,Ind,,L,0,13
+1942-11-21,Temple,Ind,Ray Morrison,H,Oklahoma,Big 6,Snorter Luster,W,14,7
+1942-11-28,Temple,Ind,Ray Morrison,H,Villanova,Ind,,L,7,20
+1942-10-11,Loyola Marymount,Ind,,A,San Francisco,Ind,Al Tassi,W,7,2
+1942-10-24,Loyola Marymount,Ind,,H,Saint Mary's (CA),Ind,James Phelan,L,0,13
+1942-11-01,Loyola Marymount,Ind,,H,Saint Louis,MVC,,L,6,20
+1942-11-21,Loyola Marymount,Ind,,H,New Mexico,BIAA,Willis Barnes,T,14,14
+1942-11-28,Loyola Marymount,Ind,,A,Santa Clara,Ind,Buck Shaw,L,0,21
+1942-09-26,New Mexico,BIAA,Willis Barnes,H,Northern Arizona,BIAA,Maurice Moulder,W,26,6
+1942-10-02,New Mexico,BIAA,Willis Barnes,A,UTEP,BIAA,,L,0,7
+1942-10-10,New Mexico,BIAA,Willis Barnes,H,New Mexico State,BIAA,Julius Johnston,W,32,0
+1942-10-17,New Mexico,BIAA,Willis Barnes,A,Colorado,MSAC,Jim Yeager,L,0,12
+1942-10-24,New Mexico,BIAA,Willis Barnes,H,Texas Tech,BIAA,,L,0,20
+1942-11-07,New Mexico,BIAA,Willis Barnes,A,Arizona,BIAA,Miles Casteel,L,13,14
+1942-11-14,New Mexico,BIAA,Willis Barnes,H,West Texas A&M,BIAA,Gus Miller,L,7,13
+1942-11-21,New Mexico,BIAA,Willis Barnes,A,Loyola Marymount,Ind,,T,14,14
+1942-11-28,New Mexico,BIAA,Willis Barnes,H,Arizona State,BIAA,Hilman Walker,W,35,7
+1942-09-19,Iowa Pre-Flight,Ind,Bernie Bierman,A,Kansas,Big 6,Gwinn Henry,W,61,0
+1942-09-26,Iowa Pre-Flight,Ind,Bernie Bierman,A,Northwestern,Western,Pappy Waldorf,W,20,12
+1942-10-03,Iowa Pre-Flight,Ind,Bernie Bierman,A,Minnesota,Western,George Hauser,W,7,6
+1942-10-10,Iowa Pre-Flight,Ind,Bernie Bierman,A,Michigan,Western,Fritz Crisler,W,26,14
+1942-10-17,Iowa Pre-Flight,Ind,Bernie Bierman,A,Notre Dame,Ind,Frank Leahy,L,0,28
+1942-10-31,Iowa Pre-Flight,Ind,Bernie Bierman,A,Indiana,Western,Bo McMillin,W,26,6
+1942-11-21,Iowa Pre-Flight,Ind,Bernie Bierman,H,Nebraska,Big 6,Glenn Presnell,W,46,0
+1942-11-28,Iowa Pre-Flight,Ind,Bernie Bierman,A,Ohio State,Western,Paul Brown,L,12,41
+1942-12-05,Iowa Pre-Flight,Ind,Bernie Bierman,A,Missouri,Big 6,Don Faurot,L,0,7
+1942-09-26,Notre Dame,Ind,Frank Leahy,A,Wisconsin,Western,Harry Stuhldreher,T,7,7
+1942-10-03,Notre Dame,Ind,Frank Leahy,H,Georgia Tech,SEC,William Alexander,L,6,13
+1942-10-10,Notre Dame,Ind,Frank Leahy,H,Stanford,PCC,Marchy Schwartz,W,27,0
+1942-10-17,Notre Dame,Ind,Frank Leahy,H,Iowa Pre-Flight,Ind,Bernie Bierman,W,28,0
+1942-10-24,Notre Dame,Ind,Frank Leahy,A,Illinois,Western,Ray Eliot,W,21,14
+1942-10-31,Notre Dame,Ind,Frank Leahy,N,Navy,Ind,John Whelchel,W,9,0
+1942-11-07,Notre Dame,Ind,Frank Leahy,A,Army,Ind,Red Blaik,W,13,0
+1942-11-14,Notre Dame,Ind,Frank Leahy,H,Michigan,Western,Fritz Crisler,L,20,32
+1942-11-21,Notre Dame,Ind,Frank Leahy,H,Northwestern,Western,Pappy Waldorf,W,27,20
+1942-11-28,Notre Dame,Ind,Frank Leahy,A,USC,PCC,Jeff Cravath,W,13,0
+1942-12-05,Notre Dame,Ind,Frank Leahy,A,Great Lakes Navy,Ind,,T,13,13
+1942-09-26,Pitt,Ind,Charles Bowser,A,Minnesota,Western,George Hauser,L,7,50
+1942-10-03,Pitt,Ind,Charles Bowser,H,SMU,SWC,James Stewart,W,20,7
+1942-10-10,Pitt,Ind,Charles Bowser,N,Great Lakes Navy,Ind,,L,6,7
+1942-10-17,Pitt,Ind,Charles Bowser,H,Indiana,Western,Bo McMillin,L,7,19
+1942-10-24,Pitt,Ind,Charles Bowser,H,Duke,Southern,,L,0,28
+1942-11-07,Pitt,Ind,Charles Bowser,A,Ohio State,Western,Paul Brown,L,19,59
+1942-11-14,Pitt,Ind,Charles Bowser,H,Nebraska,Big 6,Glenn Presnell,W,6,0
+1942-11-21,Pitt,Ind,Charles Bowser,A,Penn State,Ind,Bob Higgins,L,6,14
+1942-09-26,West Texas A&M,BIAA,Gus Miller,A,Texas Tech,BIAA,,L,0,39
+1942-10-03,West Texas A&M,BIAA,Gus Miller,H,Arizona State,BIAA,Hilman Walker,W,28,0
+1942-10-17,West Texas A&M,BIAA,Gus Miller,A,Northern Arizona,BIAA,Maurice Moulder,W,27,7
+1942-10-24,West Texas A&M,BIAA,Gus Miller,H,UTEP,BIAA,,W,7,0
+1942-10-31,West Texas A&M,BIAA,Gus Miller,A,New Mexico State,BIAA,Julius Johnston,W,23,0
+1942-11-07,West Texas A&M,BIAA,Gus Miller,H,Hardin-Simmons,BIAA,Warren Woodson,L,0,40
+1942-11-14,West Texas A&M,BIAA,Gus Miller,A,New Mexico,BIAA,Willis Barnes,W,13,7
+1942-09-26,Saint Mary's (CA),Ind,James Phelan,A,California,PCC,Stub Allison,L,0,6
+1942-10-17,Saint Mary's (CA),Ind,James Phelan,H,San Francisco,Ind,Al Tassi,W,27,0
+1942-10-24,Saint Mary's (CA),Ind,James Phelan,A,Loyola Marymount,Ind,,W,13,0
+1942-10-31,Saint Mary's (CA),Ind,James Phelan,A,Fordham,Ind,,L,0,7
+1942-11-07,Saint Mary's (CA),Ind,James Phelan,A,Duquesne,Ind,,T,7,7
+1942-11-14,Saint Mary's (CA),Ind,James Phelan,A,Santa Clara,Ind,Buck Shaw,L,7,20
+1942-12-06,Saint Mary's (CA),Ind,James Phelan,H,Detroit Mercy,Ind,Gus Dorais,W,2,0
+1942-10-03,George Washington,Southern,John Baker,H,Richmond,Southern,John Fenlon,W,27,0
+1942-10-10,George Washington,Southern,John Baker,H,Citadel,Southern,Bo Rowland,L,2,14
+1942-10-16,George Washington,Southern,John Baker,H,Furman,Southern,,L,0,6
+1942-10-24,George Washington,Southern,John Baker,A,William & Mary,Southern,,L,0,61
+1942-10-30,George Washington,Southern,John Baker,H,Kentucky,SEC,A.D. Kirwan,L,6,27
+1942-11-07,George Washington,Southern,John Baker,A,Clemson,Southern,Frank Howard,W,7,0
+1942-11-13,George Washington,Southern,John Baker,H,Wake Forest,Southern,D.C. Walker,L,0,20
+1942-11-21,George Washington,Southern,John Baker,A,Georgetown,Ind,Jack Hagerty,L,0,21
+1942-09-26,Wyoming,MSAC,Bunny Oakes,H,Colorado State,MSAC,Julius Wagner,L,0,10
+1942-10-02,Wyoming,MSAC,Bunny Oakes,A,Brigham Young,MSAC,Floyd Millet,W,13,6
+1942-10-17,Wyoming,MSAC,Bunny Oakes,A,Denver,MSAC,Ellison Ketchum,L,14,17
+1942-10-31,Wyoming,MSAC,Bunny Oakes,A,Colorado,MSAC,Jim Yeager,L,7,28
+1942-11-14,Wyoming,MSAC,Bunny Oakes,H,Utah,MSAC,Ike Armstrong,L,7,34
+1942-11-21,Wyoming,MSAC,Bunny Oakes,A,Utah State,MSAC,E. Lowell Romney,L,6,14
+1942-09-26,Brigham Young,MSAC,Floyd Millet,A,Montana,PCC,Clyde Carpenter,W,12,6
+1942-10-02,Brigham Young,MSAC,Floyd Millet,H,Wyoming,MSAC,Bunny Oakes,L,6,13
+1942-10-10,Brigham Young,MSAC,Floyd Millet,A,Utah,MSAC,Ike Armstrong,W,12,7
+1942-10-31,Brigham Young,MSAC,Floyd Millet,H,Utah State,MSAC,E. Lowell Romney,L,6,9
+1942-11-07,Brigham Young,MSAC,Floyd Millet,H,Denver,MSAC,Ellison Ketchum,L,6,26
+1942-11-14,Brigham Young,MSAC,Floyd Millet,A,Colorado,MSAC,Jim Yeager,L,0,48
+1942-10-03,Duquesne,Ind,,A,Holy Cross,Ind,,W,25,0
+1942-10-10,Duquesne,Ind,,H,Kansas State,Big 6,Ward Haylett,W,33,0
+1942-10-17,Duquesne,Ind,,A,North Carolina,Southern,Jim Tatum,L,6,13
+1942-10-24,Duquesne,Ind,,A,Manhattan,Ind,Herb Kopf,L,7,10
+1942-11-07,Duquesne,Ind,,H,Saint Mary's (CA),Ind,James Phelan,T,7,7
+1942-11-14,Duquesne,Ind,,A,Mississippi State,SEC,Allyn McKeen,L,6,28
+1942-11-22,Duquesne,Ind,,A,Villanova,Ind,,W,6,0
+1942-10-10,Yale,Ind,Howard Odell,H,Pennsylvania,Ind,George Munger,L,6,35
+1942-10-17,Yale,Ind,Howard Odell,A,Navy,Ind,John Whelchel,L,6,13
+1942-10-24,Yale,Ind,Howard Odell,H,Dartmouth,Ind,,W,17,7
+1942-10-31,Yale,Ind,Howard Odell,H,Brown,Ind,Skip Stahley,W,27,0
+1942-11-07,Yale,Ind,Howard Odell,H,Cornell,Ind,,L,7,13
+1942-11-14,Yale,Ind,Howard Odell,N,Princeton,Ind,Tad Wieman,W,13,6
+1942-11-21,Yale,Ind,Howard Odell,H,Harvard,Ind,,W,7,3
+1942-09-26,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,W,15,0
+1942-10-03,Georgia Tech,SEC,William Alexander,A,Notre Dame,Ind,Frank Leahy,W,13,6
+1942-10-17,Georgia Tech,SEC,William Alexander,H,Davidson,Southern,Gene McEver,W,33,0
+1942-10-24,Georgia Tech,SEC,William Alexander,A,Navy,Ind,John Whelchel,W,21,0
+1942-10-31,Georgia Tech,SEC,William Alexander,A,Duke,Southern,,W,26,7
+1942-11-07,Georgia Tech,SEC,William Alexander,H,Kentucky,SEC,A.D. Kirwan,W,47,7
+1942-11-14,Georgia Tech,SEC,William Alexander,H,Alabama,SEC,Frank Thomas,W,7,0
+1942-11-21,Georgia Tech,SEC,William Alexander,H,Florida,SEC,Tom Lieb,W,20,7
+1942-11-28,Georgia Tech,SEC,William Alexander,A,Georgia,SEC,Wallace Butts,L,0,34
+1943-01-01,Georgia Tech,SEC,William Alexander,N,Texas,SWC,Dana Bible,L,7,14
+1942-09-26,Wake Forest,Southern,D.C. Walker,A,North Carolina,Southern,Jim Tatum,L,0,6
+1942-10-03,Wake Forest,Southern,D.C. Walker,H,Duke,Southern,,W,20,7
+1942-10-10,Wake Forest,Southern,D.C. Walker,A,Furman,Southern,,W,14,6
+1942-10-17,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,,T,0,0
+1942-10-25,Wake Forest,Southern,D.C. Walker,A,Boston College,Ind,Denny Myers,L,0,27
+1942-10-31,Wake Forest,Southern,D.C. Walker,H,Clemson,Southern,Frank Howard,W,19,6
+1942-11-07,Wake Forest,Southern,D.C. Walker,H,Virginia Military Institute,Southern,,W,28,0
+1942-11-13,Wake Forest,Southern,D.C. Walker,A,George Washington,Southern,John Baker,W,20,0
+1942-11-26,Wake Forest,Southern,D.C. Walker,N,South Carolina,Southern,Rex Enright,W,33,14
+1942-10-03,Mississippi State,SEC,Allyn McKeen,A,Alabama,SEC,Frank Thomas,L,6,21
+1942-10-10,Mississippi State,SEC,Allyn McKeen,A,LSU,SEC,Bernie Moore,L,6,16
+1942-10-17,Mississippi State,SEC,Allyn McKeen,A,Vanderbilt,SEC,Red Sanders,W,33,0
+1942-10-24,Mississippi State,SEC,Allyn McKeen,A,Florida,SEC,Tom Lieb,W,26,12
+1942-10-31,Mississippi State,SEC,Allyn McKeen,A,Auburn,SEC,Jack Meagher,W,6,0
+1942-11-07,Mississippi State,SEC,Allyn McKeen,A,Tulane,SEC,Claude Simons,W,7,0
+1942-11-14,Mississippi State,SEC,Allyn McKeen,H,Duquesne,Ind,,W,28,6
+1942-11-28,Mississippi State,SEC,Allyn McKeen,H,Ole Miss,SEC,Harry Mehre,W,34,13
+1942-12-05,Mississippi State,SEC,Allyn McKeen,H,San Francisco,Ind,Al Tassi,W,19,7
+1942-09-26,Virginia Military Institute,Southern,,H,Clemson,Southern,Frank Howard,T,0,0
+1942-10-03,Virginia Military Institute,Southern,,A,Temple,Ind,Ray Morrison,L,6,7
+1942-10-10,Virginia Military Institute,Southern,,A,Virginia,Ind,Frank Murray,W,38,18
+1942-10-17,Virginia Military Institute,Southern,,H,Maryland,Southern,Clark Shaughnessy,W,29,0
+1942-10-24,Virginia Military Institute,Southern,,A,Richmond,Southern,John Fenlon,W,20,6
+1942-10-31,Virginia Military Institute,Southern,,H,Davidson,Southern,Gene McEver,L,6,24
+1942-11-07,Virginia Military Institute,Southern,,A,Wake Forest,Southern,D.C. Walker,L,0,28
+1942-11-14,Virginia Military Institute,Southern,,N,William & Mary,Southern,,L,6,27
+1942-11-26,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Henry McEver,L,6,20
+1942-09-26,Kansas State,Big 6,Ward Haylett,A,Texas,SWC,Dana Bible,L,0,64
+1942-10-10,Kansas State,Big 6,Ward Haylett,A,Duquesne,Ind,,L,0,33
+1942-10-17,Kansas State,Big 6,Ward Haylett,H,Missouri,Big 6,Don Faurot,L,2,46
+1942-10-24,Kansas State,Big 6,Ward Haylett,H,Kansas,Big 6,Gwinn Henry,L,7,19
+1942-11-07,Kansas State,Big 6,Ward Haylett,A,Oklahoma,Big 6,Snorter Luster,L,0,76
+1942-11-14,Kansas State,Big 6,Ward Haylett,A,Indiana,Western,Bo McMillin,L,0,54
+1942-11-21,Kansas State,Big 6,Ward Haylett,H,Iowa State,Big 6,Mike Michalske,W,7,6
+1942-11-28,Kansas State,Big 6,Ward Haylett,A,Nebraska,Big 6,Glenn Presnell,W,19,0
+1942-09-26,Saint Louis,MVC,,A,Missouri,Big 6,Don Faurot,L,7,38
+1942-10-10,Saint Louis,MVC,,A,Drake,MVC,Vee Green,L,9,19
+1942-10-16,Saint Louis,MVC,,H,Miami (FL),Ind,Jack Harding,L,6,31
+1942-10-23,Saint Louis,MVC,,H,Tulsa,MVC,Henry Frnka,L,0,41
+1942-11-01,Saint Louis,MVC,,A,Loyola Marymount,Ind,,W,20,6
+1942-11-08,Saint Louis,MVC,,H,Creighton,MVC,Skip Palrang,W,21,19
+1942-11-14,Saint Louis,MVC,,A,Oklahoma State,MVC,Jim Lookabaugh,L,7,54
+1942-11-28,Saint Louis,MVC,,A,Washington (MO),MVC,Tom Gorman,W,26,0
+1942-10-10,Army,Ind,Red Blaik,H,Cornell,Ind,,W,28,8
+1942-10-17,Army,Ind,Red Blaik,A,Columbia,Ind,Lou Little,W,34,6
+1942-10-24,Army,Ind,Red Blaik,A,Harvard,Ind,,W,14,0
+1942-10-31,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,L,0,19
+1942-11-07,Army,Ind,Red Blaik,H,Notre Dame,Ind,Frank Leahy,L,0,13
+1942-11-14,Army,Ind,Red Blaik,H,Virginia Tech,Southern,Henry McEver,W,19,7
+1942-11-21,Army,Ind,Red Blaik,N,Princeton,Ind,Tad Wieman,W,40,7
+1942-11-28,Army,Ind,Red Blaik,A,Navy,Ind,John Whelchel,L,0,14
+1942-09-26,Marquette,Ind,Tom Stidham,A,Kansas,Big 6,Gwinn Henry,W,14,0
+1942-10-03,Marquette,Ind,Tom Stidham,A,Wisconsin,Western,Harry Stuhldreher,L,7,35
+1942-10-10,Marquette,Ind,Tom Stidham,A,Iowa State,Big 6,Mike Michalske,W,34,12
+1942-10-17,Marquette,Ind,Tom Stidham,A,Michigan State,Ind,Charlie Bachman,W,28,7
+1942-10-24,Marquette,Ind,Tom Stidham,H,Arizona,BIAA,Miles Casteel,W,39,0
+1942-11-01,Marquette,Ind,Tom Stidham,H,Detroit Mercy,Ind,Gus Dorais,W,10,0
+1942-11-08,Marquette,Ind,Tom Stidham,H,Manhattan,Ind,Herb Kopf,W,27,12
+1942-11-15,Marquette,Ind,Tom Stidham,H,Great Lakes Navy,Ind,,L,0,24
+1942-09-26,Dartmouth,Ind,,A,Holy Cross,Ind,,W,17,6
+1942-10-10,Dartmouth,Ind,,H,Colgate,Ind,Andrew Kerr,L,19,27
+1942-10-17,Dartmouth,Ind,,A,Harvard,Ind,,W,14,2
+1942-10-24,Dartmouth,Ind,,A,Yale,Ind,Howard Odell,L,7,17
+1942-10-31,Dartmouth,Ind,,H,William & Mary,Southern,,L,14,35
+1942-11-07,Dartmouth,Ind,,A,Princeton,Ind,Tad Wieman,W,19,7
+1942-11-14,Dartmouth,Ind,,N,Cornell,Ind,,L,19,21
+1942-11-21,Dartmouth,Ind,,A,Columbia,Ind,Lou Little,W,26,13
+1942-09-25,UCLA,PCC,Babe Horrell,H,Texas Christian,SWC,Dutch Meyer,L,6,7
+1942-10-03,UCLA,PCC,Babe Horrell,H,Saint Mary's (CA) Pre-Flight,Ind,,L,7,18
+1942-10-10,UCLA,PCC,Babe Horrell,H,Oregon State,PCC,Lon Stiner,W,30,7
+1942-10-17,UCLA,PCC,Babe Horrell,A,California,PCC,Stub Allison,W,21,0
+1942-10-24,UCLA,PCC,Babe Horrell,H,Santa Clara,Ind,Buck Shaw,W,14,6
+1942-10-31,UCLA,PCC,Babe Horrell,H,Stanford,PCC,Marchy Schwartz,W,21,7
+1942-11-07,UCLA,PCC,Babe Horrell,A,Oregon,PCC,John Warren,L,7,14
+1942-11-21,UCLA,PCC,Babe Horrell,H,Washington,PCC,Ralph Welch,W,14,10
+1942-12-05,UCLA,PCC,Babe Horrell,H,Idaho,PCC,Francis Schmidt,W,40,13
+1942-12-12,UCLA,PCC,Babe Horrell,A,USC,PCC,Jeff Cravath,W,14,7
+1943-01-01,UCLA,PCC,Babe Horrell,H,Georgia,SEC,Wallace Butts,L,0,9
+1942-09-26,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,L,0,15
+1942-10-03,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Claude Simons,W,27,13
+1942-10-10,Auburn,SEC,Jack Meagher,A,Florida,SEC,Tom Lieb,L,0,6
+1942-10-17,Auburn,SEC,Jack Meagher,A,Georgetown,Ind,Jack Hagerty,T,6,6
+1942-10-23,Auburn,SEC,Jack Meagher,H,Villanova,Ind,,W,14,6
+1942-10-31,Auburn,SEC,Jack Meagher,H,Mississippi State,SEC,Allyn McKeen,L,0,6
+1942-11-07,Auburn,SEC,Jack Meagher,N,Georgia Pre-Flight,Ind,,L,14,41
+1942-11-14,Auburn,SEC,Jack Meagher,H,LSU,SEC,Bernie Moore,W,25,7
+1942-11-21,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Wallace Butts,W,27,13
+1942-11-28,Auburn,SEC,Jack Meagher,H,Clemson,Southern,Frank Howard,W,41,13
+1942-09-26,Northwestern,Western,Pappy Waldorf,H,Iowa Pre-Flight,Ind,Bernie Bierman,L,12,20
+1942-10-03,Northwestern,Western,Pappy Waldorf,H,Texas,SWC,Dana Bible,W,3,0
+1942-10-10,Northwestern,Western,Pappy Waldorf,H,Purdue,Western,Elmer Burnham,L,6,7
+1942-10-17,Northwestern,Western,Pappy Waldorf,A,Michigan,Western,Fritz Crisler,L,16,34
+1942-10-24,Northwestern,Western,Pappy Waldorf,H,Ohio State,Western,Paul Brown,L,6,20
+1942-10-31,Northwestern,Western,Pappy Waldorf,A,Minnesota,Western,George Hauser,L,7,19
+1942-11-07,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Ray Eliot,L,7,14
+1942-11-14,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Harry Stuhldreher,L,19,20
+1942-11-21,Northwestern,Western,Pappy Waldorf,A,Notre Dame,Ind,Frank Leahy,L,20,27
+1942-11-26,Northwestern,Western,Pappy Waldorf,H,Great Lakes Navy,Ind,,L,0,48
+1942-09-19,Kansas,Big 6,Gwinn Henry,H,Iowa Pre-Flight,Ind,Bernie Bierman,L,0,61
+1942-09-26,Kansas,Big 6,Gwinn Henry,H,Marquette,Ind,Tom Stidham,L,0,14
+1942-10-02,Kansas,Big 6,Gwinn Henry,A,Denver,MSAC,Ellison Ketchum,L,0,17
+1942-10-10,Kansas,Big 6,Gwinn Henry,A,Texas Christian,SWC,Dutch Meyer,L,6,41
+1942-10-17,Kansas,Big 6,Gwinn Henry,H,Oklahoma,Big 6,Snorter Luster,L,0,25
+1942-10-24,Kansas,Big 6,Gwinn Henry,A,Kansas State,Big 6,Ward Haylett,W,19,7
+1942-10-31,Kansas,Big 6,Gwinn Henry,H,Nebraska,Big 6,Glenn Presnell,L,7,14
+1942-11-07,Kansas,Big 6,Gwinn Henry,H,Washington (MO),MVC,Tom Gorman,W,19,7
+1942-11-14,Kansas,Big 6,Gwinn Henry,A,Iowa State,Big 6,Mike Michalske,L,13,20
+1942-11-26,Kansas,Big 6,Gwinn Henry,A,Missouri,Big 6,Don Faurot,L,13,42
+1942-09-26,William & Mary,Southern,,A,Navy,Ind,John Whelchel,W,3,0
+1942-10-03,William & Mary,Southern,,A,Virginia Tech,Southern,Henry McEver,W,21,7
+1942-10-10,William & Mary,Southern,,A,Harvard,Ind,,T,7,7
+1942-10-24,William & Mary,Southern,,H,George Washington,Southern,John Baker,W,61,0
+1942-10-31,William & Mary,Southern,,A,Dartmouth,Ind,,W,35,14
+1942-11-14,William & Mary,Southern,,N,Virginia Military Institute,Southern,,W,27,6
+1942-11-21,William & Mary,Southern,,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,0,14
+1942-11-26,William & Mary,Southern,,A,Richmond,Southern,John Fenlon,W,10,0
+1942-11-28,William & Mary,Southern,,A,Oklahoma,Big 6,Snorter Luster,W,14,7
+1942-10-02,UTEP,BIAA,,H,New Mexico,BIAA,Willis Barnes,W,7,0
+1942-10-24,UTEP,BIAA,,A,West Texas A&M,BIAA,Gus Miller,L,0,7
+1942-10-31,UTEP,BIAA,,A,Hardin-Simmons,BIAA,Warren Woodson,L,7,39
+1942-11-07,UTEP,BIAA,,H,Northern Arizona,BIAA,Maurice Moulder,W,20,0
+1942-11-14,UTEP,BIAA,,H,Arizona State,BIAA,Hilman Walker,W,40,6
+1942-11-21,UTEP,BIAA,,H,Arizona,BIAA,Miles Casteel,L,7,19
+1942-11-26,UTEP,BIAA,,H,New Mexico State,BIAA,Julius Johnston,W,61,6
+1942-09-26,LSU,SEC,Bernie Moore,H,Texas A&M,SWC,Homer Norton,W,16,7
+1942-10-03,LSU,SEC,Bernie Moore,A,Rice,SWC,Jess Neely,L,14,27
+1942-10-10,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,W,16,6
+1942-10-17,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Harry Mehre,W,21,7
+1942-10-24,LSU,SEC,Bernie Moore,H,Georgia Pre-Flight,Ind,,W,34,0
+1942-10-31,LSU,SEC,Bernie Moore,A,Tennessee,SEC,John Barnhill,L,0,26
+1942-11-07,LSU,SEC,Bernie Moore,A,Fordham,Ind,,W,26,13
+1942-11-14,LSU,SEC,Bernie Moore,A,Auburn,SEC,Jack Meagher,L,7,25
+1942-11-26,LSU,SEC,Bernie Moore,H,Tulane,SEC,Claude Simons,W,18,6
+1942-09-26,Pennsylvania,Ind,George Munger,H,Georgia Pre-Flight,Ind,,L,6,14
+1942-10-03,Pennsylvania,Ind,George Munger,A,Harvard,Ind,,W,19,7
+1942-10-10,Pennsylvania,Ind,George Munger,A,Yale,Ind,Howard Odell,W,35,6
+1942-10-17,Pennsylvania,Ind,George Munger,H,Princeton,Ind,Tad Wieman,T,6,6
+1942-10-24,Pennsylvania,Ind,George Munger,H,Columbia,Ind,Lou Little,W,42,12
+1942-10-31,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,W,19,0
+1942-11-07,Pennsylvania,Ind,George Munger,H,Navy,Ind,John Whelchel,L,0,7
+1942-11-14,Pennsylvania,Ind,George Munger,H,Penn State,Ind,Bob Higgins,L,7,13
+1942-11-26,Pennsylvania,Ind,George Munger,H,Cornell,Ind,,W,34,7
+1942-10-03,Tulsa,MVC,Henry Frnka,H,Oklahoma,Big 6,Snorter Luster,W,23,0
+1942-10-17,Tulsa,MVC,Henry Frnka,H,Washington (MO),MVC,Tom Gorman,W,40,0
+1942-10-23,Tulsa,MVC,Henry Frnka,A,Saint Louis,MVC,,W,41,0
+1942-10-30,Tulsa,MVC,Henry Frnka,A,Drake,MVC,Vee Green,W,40,0
+1942-11-07,Tulsa,MVC,Henry Frnka,H,Oklahoma State,MVC,Jim Lookabaugh,W,34,6
+1942-11-14,Tulsa,MVC,Henry Frnka,H,Baylor,SWC,Frank Kimbrough,W,24,0
+1942-11-21,Tulsa,MVC,Henry Frnka,A,Creighton,MVC,Skip Palrang,W,33,19
+1942-11-26,Tulsa,MVC,Henry Frnka,H,Arkansas,SWC,George Cole,W,40,7
+1943-01-01,Tulsa,MVC,Henry Frnka,N,Tennessee,SEC,John Barnhill,L,7,14
+1942-09-19,Iowa,Western,Edward Anderson,H,Washington (MO),MVC,Tom Gorman,W,26,7
+1942-09-26,Iowa,Western,Edward Anderson,H,Nebraska,Big 6,Glenn Presnell,W,27,0
+1942-10-03,Iowa,Western,Edward Anderson,H,Great Lakes Navy,Ind,,L,0,25
+1942-10-17,Iowa,Western,Edward Anderson,H,Illinois,Western,Ray Eliot,L,7,12
+1942-10-24,Iowa,Western,Edward Anderson,A,Indiana,Western,Bo McMillin,W,14,13
+1942-10-31,Iowa,Western,Edward Anderson,H,Purdue,Western,Elmer Burnham,W,13,7
+1942-11-07,Iowa,Western,Edward Anderson,H,Wisconsin,Western,Harry Stuhldreher,W,6,0
+1942-11-14,Iowa,Western,Edward Anderson,A,Minnesota,Western,George Hauser,L,7,27
+1942-11-28,Iowa,Western,Edward Anderson,A,Michigan,Western,Fritz Crisler,L,14,28
+1942-10-10,Columbia,Ind,Lou Little,H,Brown,Ind,Skip Stahley,L,21,28
+1942-10-17,Columbia,Ind,Lou Little,H,Army,Ind,Red Blaik,L,6,34
+1942-10-24,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,George Munger,L,12,42
+1942-10-31,Columbia,Ind,Lou Little,H,Cornell,Ind,,W,14,13
+1942-11-07,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,L,26,35
+1942-11-14,Columbia,Ind,Lou Little,A,Navy,Ind,John Whelchel,L,9,13
+1942-11-21,Columbia,Ind,Lou Little,H,Dartmouth,Ind,,L,13,26
+1942-09-26,Saint Mary's (CA) Pre-Flight,Ind,,A,Oregon,PCC,John Warren,W,10,9
+1942-10-03,Saint Mary's (CA) Pre-Flight,Ind,,A,UCLA,PCC,Babe Horrell,W,18,7
+1942-11-14,Saint Mary's (CA) Pre-Flight,Ind,,A,Washington,PCC,Ralph Welch,T,0,0
+1942-11-22,Saint Mary's (CA) Pre-Flight,Ind,,N,Santa Clara,Ind,Buck Shaw,W,13,6
+1942-11-28,Saint Mary's (CA) Pre-Flight,Ind,,A,Stanford,PCC,Marchy Schwartz,L,13,28
+1942-12-05,Saint Mary's (CA) Pre-Flight,Ind,,A,California,PCC,Stub Allison,L,6,12
+1942-12-19,Saint Mary's (CA) Pre-Flight,Ind,,A,USC,PCC,Jeff Cravath,L,13,21
+1942-09-26,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Harvard,Ind,,W,13,0
+1942-10-02,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Georgia Pre-Flight,Ind,,T,14,14
+1942-10-10,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,North Carolina State,Southern,,W,19,7
+1942-10-17,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Boston College,Ind,Denny Myers,L,6,7
+1942-10-23,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Temple,Ind,Ray Morrison,W,34,0
+1942-10-31,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Syracuse,Ind,Ossie Solem,W,9,0
+1942-11-07,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Georgetown,Ind,Jack Hagerty,W,23,7
+1942-11-14,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Manhattan,Ind,Herb Kopf,W,17,0
+1942-11-21,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,William & Mary,Southern,,W,14,0
+1942-11-28,North Carolina Pre-Flight,Ind,Jimmy Crowley,A,Fordham,Ind,,L,0,6
+1942-09-26,Texas,SWC,Dana Bible,H,Kansas State,Big 6,Ward Haylett,W,64,0
+1942-10-03,Texas,SWC,Dana Bible,A,Northwestern,Western,Pappy Waldorf,L,0,3
+1942-10-10,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Snorter Luster,W,7,0
+1942-10-17,Texas,SWC,Dana Bible,A,Arkansas,SWC,George Cole,W,47,6
+1942-10-24,Texas,SWC,Dana Bible,A,Rice,SWC,Jess Neely,W,12,7
+1942-10-31,Texas,SWC,Dana Bible,H,SMU,SWC,James Stewart,W,21,7
+1942-11-07,Texas,SWC,Dana Bible,H,Baylor,SWC,Frank Kimbrough,W,20,0
+1942-11-14,Texas,SWC,Dana Bible,A,Texas Christian,SWC,Dutch Meyer,L,7,13
+1942-11-26,Texas,SWC,Dana Bible,H,Texas A&M,SWC,Homer Norton,W,12,6
+1943-01-01,Texas,SWC,Dana Bible,N,Georgia Tech,SEC,William Alexander,W,14,7
+1942-09-25,Texas Christian,SWC,Dutch Meyer,A,UCLA,PCC,Babe Horrell,W,7,6
+1942-10-03,Texas Christian,SWC,Dutch Meyer,H,Arkansas,SWC,George Cole,W,13,6
+1942-10-10,Texas Christian,SWC,Dutch Meyer,H,Kansas,Big 6,Gwinn Henry,W,41,6
+1942-10-17,Texas Christian,SWC,Dutch Meyer,A,Texas A&M,SWC,Homer Norton,W,7,2
+1942-10-31,Texas Christian,SWC,Dutch Meyer,H,Baylor,SWC,Frank Kimbrough,L,7,10
+1942-11-07,Texas Christian,SWC,Dutch Meyer,A,Texas Tech,BIAA,,L,6,13
+1942-11-14,Texas Christian,SWC,Dutch Meyer,H,Texas,SWC,Dana Bible,W,13,7
+1942-11-21,Texas Christian,SWC,Dutch Meyer,A,Rice,SWC,Jess Neely,L,0,26
+1942-11-28,Texas Christian,SWC,Dutch Meyer,A,SMU,SWC,James Stewart,W,14,6
+1942-10-03,Miami (FL),Ind,Jack Harding,H,Jacksonville Naval Air Station,Ind,,L,0,14
+1942-10-16,Miami (FL),Ind,Jack Harding,A,Saint Louis,MVC,,W,31,6
+1942-10-31,Miami (FL),Ind,Jack Harding,H,Furman,Southern,,W,32,13
+1942-11-07,Miami (FL),Ind,Jack Harding,H,North Carolina State,Southern,,L,0,2
+1942-11-14,Miami (FL),Ind,Jack Harding,H,Florida,SEC,Tom Lieb,W,12,0
+1942-11-21,Miami (FL),Ind,Jack Harding,H,South Carolina,Southern,Rex Enright,W,13,6
+1942-11-28,Miami (FL),Ind,Jack Harding,H,West Virginia,Ind,,W,21,13
+1942-09-26,Richmond,Southern,John Fenlon,A,North Carolina State,Southern,,L,0,13
+1942-10-03,Richmond,Southern,John Fenlon,A,George Washington,Southern,John Baker,L,0,27
+1942-10-17,Richmond,Southern,John Fenlon,H,Virginia,Ind,Frank Murray,T,7,7
+1942-10-24,Richmond,Southern,John Fenlon,H,Virginia Military Institute,Southern,,L,6,20
+1942-10-31,Richmond,Southern,John Fenlon,H,Washington & Lee,Southern,P.A. Holstein,W,8,6
+1942-11-07,Richmond,Southern,John Fenlon,H,Virginia Tech,Southern,Henry McEver,L,7,16
+1942-11-26,Richmond,Southern,John Fenlon,H,William & Mary,Southern,,L,0,10
+1942-09-26,Oregon,PCC,John Warren,H,Saint Mary's (CA) Pre-Flight,Ind,,L,9,10
+1942-10-03,Oregon,PCC,John Warren,A,Washington State,PCC,O.E. Hollingbery,L,0,7
+1942-10-10,Oregon,PCC,John Warren,H,Washington,PCC,Ralph Welch,L,7,15
+1942-10-24,Oregon,PCC,John Warren,H,Idaho,PCC,Francis Schmidt,W,28,0
+1942-10-31,Oregon,PCC,John Warren,A,California,PCC,Stub Allison,L,7,20
+1942-11-07,Oregon,PCC,John Warren,H,UCLA,PCC,Babe Horrell,W,14,7
+1942-11-14,Oregon,PCC,John Warren,A,USC,PCC,Jeff Cravath,L,0,40
+1942-11-21,Oregon,PCC,John Warren,A,Oregon State,PCC,Lon Stiner,L,2,39
+1942-10-10,Brown,Ind,Skip Stahley,A,Columbia,Ind,Lou Little,W,28,21
+1942-10-24,Brown,Ind,Skip Stahley,A,Princeton,Ind,Tad Wieman,L,13,32
+1942-10-31,Brown,Ind,Skip Stahley,A,Yale,Ind,Howard Odell,L,0,27
+1942-11-07,Brown,Ind,Skip Stahley,H,Holy Cross,Ind,,W,20,14
+1942-11-14,Brown,Ind,Skip Stahley,A,Harvard,Ind,,L,0,7
+1942-11-21,Brown,Ind,Skip Stahley,H,Colgate,Ind,Andrew Kerr,L,0,13
+1942-09-26,Tennessee,SEC,John Barnhill,A,South Carolina,Southern,Rex Enright,T,0,0
+1942-10-03,Tennessee,SEC,John Barnhill,H,Fordham,Ind,,W,40,14
+1942-10-17,Tennessee,SEC,John Barnhill,A,Alabama,SEC,Frank Thomas,L,0,8
+1942-10-24,Tennessee,SEC,John Barnhill,H,Furman,Southern,,W,52,7
+1942-10-31,Tennessee,SEC,John Barnhill,H,LSU,SEC,Bernie Moore,W,26,0
+1942-11-14,Tennessee,SEC,John Barnhill,N,Ole Miss,SEC,Harry Mehre,W,14,0
+1942-11-21,Tennessee,SEC,John Barnhill,H,Kentucky,SEC,A.D. Kirwan,W,26,0
+1942-11-28,Tennessee,SEC,John Barnhill,A,Vanderbilt,SEC,Red Sanders,W,19,7
+1943-01-01,Tennessee,SEC,John Barnhill,N,Tulsa,MVC,Henry Frnka,W,14,7
+1942-09-26,Oregon State,PCC,Lon Stiner,A,Idaho,PCC,Francis Schmidt,W,32,0
+1942-10-03,Oregon State,PCC,Lon Stiner,H,California,PCC,Stub Allison,W,13,8
+1942-10-10,Oregon State,PCC,Lon Stiner,A,UCLA,PCC,Babe Horrell,L,7,30
+1942-10-17,Oregon State,PCC,Lon Stiner,H,Santa Clara,Ind,Buck Shaw,L,0,7
+1942-10-24,Oregon State,PCC,Lon Stiner,H,Washington State,PCC,O.E. Hollingbery,L,13,26
+1942-10-31,Oregon State,PCC,Lon Stiner,A,Washington,PCC,Ralph Welch,L,0,13
+1942-11-07,Oregon State,PCC,Lon Stiner,H,Montana,PCC,Clyde Carpenter,W,33,0
+1942-11-14,Oregon State,PCC,Lon Stiner,A,Stanford,PCC,Marchy Schwartz,L,13,49
+1942-11-21,Oregon State,PCC,Lon Stiner,H,Oregon,PCC,John Warren,W,39,2
+1942-11-28,Oregon State,PCC,Lon Stiner,A,Michigan State,Ind,Charlie Bachman,T,7,7
+1942-10-03,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Allyn McKeen,W,21,6
+1942-10-17,Alabama,SEC,Frank Thomas,H,Tennessee,SEC,John Barnhill,W,8,0
+1942-10-24,Alabama,SEC,Frank Thomas,A,Kentucky,SEC,A.D. Kirwan,W,14,0
+1942-10-31,Alabama,SEC,Frank Thomas,A,Georgia,SEC,Wallace Butts,L,10,21
+1942-11-07,Alabama,SEC,Frank Thomas,H,South Carolina,Southern,Rex Enright,W,29,0
+1942-11-14,Alabama,SEC,Frank Thomas,A,Georgia Tech,SEC,William Alexander,L,0,7
+1942-11-21,Alabama,SEC,Frank Thomas,H,Vanderbilt,SEC,Red Sanders,W,27,7
+1942-11-28,Alabama,SEC,Frank Thomas,H,Georgia Pre-Flight,Ind,,L,19,35
+1943-01-01,Alabama,SEC,Frank Thomas,N,Boston College,Ind,Denny Myers,W,37,21
+1942-09-26,Purdue,Western,Elmer Burnham,H,Fordham,Ind,,L,7,14
+1942-10-03,Purdue,Western,Elmer Burnham,A,Vanderbilt,SEC,Red Sanders,L,0,26
+1942-10-10,Purdue,Western,Elmer Burnham,A,Northwestern,Western,Pappy Waldorf,W,7,6
+1942-10-17,Purdue,Western,Elmer Burnham,A,Ohio State,Western,Paul Brown,L,0,26
+1942-10-24,Purdue,Western,Elmer Burnham,H,Wisconsin,Western,Harry Stuhldreher,L,0,13
+1942-10-31,Purdue,Western,Elmer Burnham,A,Iowa,Western,Edward Anderson,L,7,13
+1942-11-07,Purdue,Western,Elmer Burnham,H,Great Lakes Navy,Ind,,L,0,42
+1942-11-14,Purdue,Western,Elmer Burnham,A,Michigan State,Ind,Charlie Bachman,L,6,19
+1942-11-21,Purdue,Western,Elmer Burnham,H,Indiana,Western,Bo McMillin,L,0,20
+1942-09-26,Nebraska,Big 6,Glenn Presnell,A,Iowa,Western,Edward Anderson,L,0,27
+1942-10-03,Nebraska,Big 6,Glenn Presnell,H,Iowa State,Big 6,Mike Michalske,W,26,0
+1942-10-10,Nebraska,Big 6,Glenn Presnell,H,Indiana,Western,Bo McMillin,L,0,12
+1942-10-17,Nebraska,Big 6,Glenn Presnell,H,Minnesota,Western,George Hauser,L,2,15
+1942-10-24,Nebraska,Big 6,Glenn Presnell,A,Oklahoma,Big 6,Snorter Luster,W,7,0
+1942-10-31,Nebraska,Big 6,Glenn Presnell,A,Kansas,Big 6,Gwinn Henry,W,14,7
+1942-11-07,Nebraska,Big 6,Glenn Presnell,H,Missouri,Big 6,Don Faurot,L,6,26
+1942-11-14,Nebraska,Big 6,Glenn Presnell,A,Pitt,Ind,Charles Bowser,L,0,6
+1942-11-21,Nebraska,Big 6,Glenn Presnell,A,Iowa Pre-Flight,Ind,Bernie Bierman,L,0,46
+1942-11-28,Nebraska,Big 6,Glenn Presnell,H,Kansas State,Big 6,Ward Haylett,L,0,19
+1942-09-26,West Virginia,Ind,,N,Washington & Lee,Southern,P.A. Holstein,W,21,7
+1942-10-03,West Virginia,Ind,,A,Boston College,Ind,Denny Myers,L,0,33
+1942-10-10,West Virginia,Ind,,H,South Carolina,Southern,Rex Enright,W,13,0
+1942-10-17,West Virginia,Ind,,A,Fordham,Ind,,L,14,23
+1942-10-31,West Virginia,Ind,,H,Penn State,Ind,Bob Higgins,W,24,0
+1942-11-14,West Virginia,Ind,,A,Kentucky,SEC,A.D. Kirwan,W,7,0
+1942-11-21,West Virginia,Ind,,A,Michigan State,Ind,Charlie Bachman,L,0,7
+1942-11-28,West Virginia,Ind,,A,Miami (FL),Ind,Jack Harding,L,13,21
+1942-09-26,Harvard,Ind,,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,0,13
+1942-10-03,Harvard,Ind,,H,Pennsylvania,Ind,George Munger,L,7,19
+1942-10-10,Harvard,Ind,,H,William & Mary,Southern,,T,7,7
+1942-10-17,Harvard,Ind,,H,Dartmouth,Ind,,L,2,14
+1942-10-24,Harvard,Ind,,H,Army,Ind,Red Blaik,L,0,14
+1942-10-31,Harvard,Ind,,H,Princeton,Ind,Tad Wieman,W,19,14
+1942-11-07,Harvard,Ind,,A,Michigan,Western,Fritz Crisler,L,7,35
+1942-11-14,Harvard,Ind,,H,Brown,Ind,Skip Stahley,W,7,0
+1942-11-21,Harvard,Ind,,A,Yale,Ind,Howard Odell,L,3,7
+1942-09-26,Oklahoma State,MVC,Jim Lookabaugh,H,Oklahoma,Big 6,Snorter Luster,T,0,0
+1942-10-03,Oklahoma State,MVC,Jim Lookabaugh,H,Baylor,SWC,Frank Kimbrough,L,12,18
+1942-10-10,Oklahoma State,MVC,Jim Lookabaugh,A,Texas Tech,BIAA,,W,9,6
+1942-10-17,Oklahoma State,MVC,Jim Lookabaugh,A,Arizona,BIAA,Miles Casteel,L,6,20
+1942-10-24,Oklahoma State,MVC,Jim Lookabaugh,H,Washington (MO),MVC,Tom Gorman,W,40,7
+1942-10-31,Oklahoma State,MVC,Jim Lookabaugh,A,Creighton,MVC,Skip Palrang,W,20,6
+1942-11-07,Oklahoma State,MVC,Jim Lookabaugh,A,Tulsa,MVC,Henry Frnka,L,6,34
+1942-11-14,Oklahoma State,MVC,Jim Lookabaugh,H,Saint Louis,MVC,,W,54,7
+1942-11-21,Oklahoma State,MVC,Jim Lookabaugh,H,Drake,MVC,Vee Green,W,55,12
+1942-11-28,Oklahoma State,MVC,Jim Lookabaugh,A,Detroit Mercy,Ind,Gus Dorais,W,33,6
+1942-10-03,Colorado,MSAC,Jim Yeager,A,Missouri,Big 6,Don Faurot,L,13,26
+1942-10-09,Colorado,MSAC,Jim Yeager,H,Utah State,MSAC,E. Lowell Romney,W,31,14
+1942-10-17,Colorado,MSAC,Jim Yeager,H,New Mexico,BIAA,Willis Barnes,W,12,0
+1942-10-24,Colorado,MSAC,Jim Yeager,A,Colorado State,MSAC,Julius Wagner,W,34,7
+1942-10-31,Colorado,MSAC,Jim Yeager,H,Wyoming,MSAC,Bunny Oakes,W,28,7
+1942-11-07,Colorado,MSAC,Jim Yeager,H,Utah,MSAC,Ike Armstrong,L,0,13
+1942-11-14,Colorado,MSAC,Jim Yeager,H,Brigham Young,MSAC,Floyd Millet,W,48,0
+1942-11-26,Colorado,MSAC,Jim Yeager,A,Denver,MSAC,Ellison Ketchum,W,31,6
+1942-09-26,Colorado State,MSAC,Julius Wagner,A,Wyoming,MSAC,Bunny Oakes,W,10,0
+1942-10-10,Colorado State,MSAC,Julius Wagner,A,Denver,MSAC,Ellison Ketchum,L,0,26
+1942-10-24,Colorado State,MSAC,Julius Wagner,H,Colorado,MSAC,Jim Yeager,L,7,34
+1942-10-31,Colorado State,MSAC,Julius Wagner,A,Utah,MSAC,Ike Armstrong,L,14,33
+1942-11-07,Colorado State,MSAC,Julius Wagner,H,Utah State,MSAC,E. Lowell Romney,W,25,0
+1942-10-03,Rice,SWC,Jess Neely,H,LSU,SEC,Bernie Moore,W,27,14
+1942-10-10,Rice,SWC,Jess Neely,A,Tulane,SEC,Claude Simons,L,7,18
+1942-10-24,Rice,SWC,Jess Neely,H,Texas,SWC,Dana Bible,L,7,12
+1942-10-31,Rice,SWC,Jess Neely,H,Texas Tech,BIAA,,W,19,7
+1942-11-07,Rice,SWC,Jess Neely,A,Arkansas,SWC,George Cole,W,40,9
+1942-11-14,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Homer Norton,T,0,0
+1942-11-21,Rice,SWC,Jess Neely,H,Texas Christian,SWC,Dutch Meyer,W,26,0
+1942-11-28,Rice,SWC,Jess Neely,A,Baylor,SWC,Frank Kimbrough,W,20,0
+1942-12-05,Rice,SWC,Jess Neely,H,SMU,SWC,James Stewart,W,13,7
+1942-09-26,Texas A&M,SWC,Homer Norton,A,LSU,SEC,Bernie Moore,L,7,16
+1942-10-03,Texas A&M,SWC,Homer Norton,H,Texas Tech,BIAA,,W,19,0
+1942-10-17,Texas A&M,SWC,Homer Norton,H,Texas Christian,SWC,Dutch Meyer,L,2,7
+1942-10-24,Texas A&M,SWC,Homer Norton,A,Baylor,SWC,Frank Kimbrough,L,0,6
+1942-10-31,Texas A&M,SWC,Homer Norton,H,Arkansas,SWC,George Cole,W,41,0
+1942-11-07,Texas A&M,SWC,Homer Norton,A,SMU,SWC,James Stewart,W,27,20
+1942-11-14,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jess Neely,T,0,0
+1942-11-26,Texas A&M,SWC,Homer Norton,A,Texas,SWC,Dana Bible,L,6,12
+1942-12-05,Texas A&M,SWC,Homer Norton,H,Washington State,PCC,O.E. Hollingbery,W,21,0
+1942-09-19,Davidson,Southern,Gene McEver,N,North Carolina State,Southern,,T,0,0
+1942-09-26,Davidson,Southern,Gene McEver,N,Duke,Southern,,L,0,21
+1942-10-10,Davidson,Southern,Gene McEver,A,Virginia Tech,Southern,Henry McEver,L,0,16
+1942-10-17,Davidson,Southern,Gene McEver,A,Georgia Tech,SEC,William Alexander,L,0,33
+1942-10-31,Davidson,Southern,Gene McEver,A,Virginia Military Institute,Southern,,W,24,6
+1942-11-07,Davidson,Southern,Gene McEver,N,North Carolina,Southern,Jim Tatum,L,14,43
+1942-11-14,Davidson,Southern,Gene McEver,H,Washington & Lee,Southern,P.A. Holstein,W,21,13
+1942-11-21,Davidson,Southern,Gene McEver,A,Citadel,Southern,Bo Rowland,L,9,21
+1942-09-19,Washington (MO),MVC,Tom Gorman,A,Iowa,Western,Edward Anderson,L,7,26
+1942-10-02,Washington (MO),MVC,Tom Gorman,A,Creighton,MVC,Skip Palrang,W,13,12
+1942-10-17,Washington (MO),MVC,Tom Gorman,A,Tulsa,MVC,Henry Frnka,L,0,40
+1942-10-24,Washington (MO),MVC,Tom Gorman,A,Oklahoma State,MVC,Jim Lookabaugh,L,7,40
+1942-11-07,Washington (MO),MVC,Tom Gorman,A,Kansas,Big 6,Gwinn Henry,L,7,19
+1942-11-14,Washington (MO),MVC,Tom Gorman,H,Drake,MVC,Vee Green,W,14,7
+1942-11-28,Washington (MO),MVC,Tom Gorman,H,Saint Louis,MVC,,L,0,26
+1942-10-03,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Fritz Crisler,L,0,20
+1942-10-17,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Tom Stidham,L,7,28
+1942-10-24,Michigan State,Ind,Charlie Bachman,H,Great Lakes Navy,Ind,,W,14,0
+1942-10-31,Michigan State,Ind,Charlie Bachman,A,Temple,Ind,Ray Morrison,T,7,7
+1942-11-07,Michigan State,Ind,Charlie Bachman,A,Washington State,PCC,O.E. Hollingbery,L,13,25
+1942-11-14,Michigan State,Ind,Charlie Bachman,H,Purdue,Western,Elmer Burnham,W,19,6
+1942-11-21,Michigan State,Ind,Charlie Bachman,H,West Virginia,Ind,,W,7,0
+1942-11-28,Michigan State,Ind,Charlie Bachman,H,Oregon State,PCC,Lon Stiner,T,7,7
+1942-10-03,Boston College,Ind,Denny Myers,H,West Virginia,Ind,,W,33,0
+1942-10-10,Boston College,Ind,Denny Myers,H,Clemson,Southern,Frank Howard,W,14,7
+1942-10-17,Boston College,Ind,Denny Myers,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,W,7,6
+1942-10-25,Boston College,Ind,Denny Myers,H,Wake Forest,Southern,D.C. Walker,W,27,0
+1942-10-31,Boston College,Ind,Denny Myers,H,Georgetown,Ind,Jack Hagerty,W,47,0
+1942-11-07,Boston College,Ind,Denny Myers,H,Temple,Ind,Ray Morrison,W,28,0
+1942-11-14,Boston College,Ind,Denny Myers,H,Fordham,Ind,,W,56,6
+1942-11-28,Boston College,Ind,Denny Myers,N,Holy Cross,Ind,,L,12,55
+1943-01-01,Boston College,Ind,Denny Myers,N,Alabama,SEC,Frank Thomas,L,21,37
+1942-10-03,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,,W,18,6
+1942-10-10,Colgate,Ind,Andrew Kerr,A,Dartmouth,Ind,,W,27,19
+1942-10-17,Colgate,Ind,Andrew Kerr,H,Duke,Southern,,L,0,34
+1942-10-24,Colgate,Ind,Andrew Kerr,A,Penn State,Ind,Bob Higgins,L,10,13
+1942-10-31,Colgate,Ind,Andrew Kerr,A,Holy Cross,Ind,,T,6,6
+1942-11-07,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,W,35,26
+1942-11-14,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,W,14,0
+1942-11-21,Colgate,Ind,Andrew Kerr,A,Brown,Ind,Skip Stahley,W,13,0
+1942-09-26,New Mexico State,BIAA,Julius Johnston,A,Arizona,BIAA,Miles Casteel,L,0,53
+1942-10-10,New Mexico State,BIAA,Julius Johnston,A,New Mexico,BIAA,Willis Barnes,L,0,32
+1942-10-17,New Mexico State,BIAA,Julius Johnston,A,Arizona State,BIAA,Hilman Walker,L,0,20
+1942-10-31,New Mexico State,BIAA,Julius Johnston,H,West Texas A&M,BIAA,Gus Miller,L,0,23
+1942-11-21,New Mexico State,BIAA,Julius Johnston,H,Northern Arizona,BIAA,Maurice Moulder,L,0,3
+1942-11-26,New Mexico State,BIAA,Julius Johnston,A,UTEP,BIAA,,L,6,61
+1942-09-26,Minnesota,Western,George Hauser,H,Pitt,Ind,Charles Bowser,W,50,7
+1942-10-03,Minnesota,Western,George Hauser,H,Iowa Pre-Flight,Ind,Bernie Bierman,L,6,7
+1942-10-10,Minnesota,Western,George Hauser,A,Illinois,Western,Ray Eliot,L,13,20
+1942-10-17,Minnesota,Western,George Hauser,A,Nebraska,Big 6,Glenn Presnell,W,15,2
+1942-10-24,Minnesota,Western,George Hauser,H,Michigan,Western,Fritz Crisler,W,16,14
+1942-10-31,Minnesota,Western,George Hauser,H,Northwestern,Western,Pappy Waldorf,W,19,7
+1942-11-07,Minnesota,Western,George Hauser,H,Indiana,Western,Bo McMillin,L,0,7
+1942-11-14,Minnesota,Western,George Hauser,H,Iowa,Western,Edward Anderson,W,27,7
+1942-11-21,Minnesota,Western,George Hauser,A,Wisconsin,Western,Harry Stuhldreher,L,6,20
+1942-10-02,Ole Miss,SEC,Harry Mehre,A,Georgetown,Ind,Jack Hagerty,L,6,14
+1942-10-10,Ole Miss,SEC,Harry Mehre,H,Georgia,SEC,Wallace Butts,L,13,48
+1942-10-17,Ole Miss,SEC,Harry Mehre,A,LSU,SEC,Bernie Moore,L,7,21
+1942-10-24,Ole Miss,SEC,Harry Mehre,N,Arkansas,SWC,George Cole,L,6,7
+1942-11-07,Ole Miss,SEC,Harry Mehre,N,Vanderbilt,SEC,Red Sanders,L,0,19
+1942-11-14,Ole Miss,SEC,Harry Mehre,N,Tennessee,SEC,John Barnhill,L,0,14
+1942-11-28,Ole Miss,SEC,Harry Mehre,A,Mississippi State,SEC,Allyn McKeen,L,13,34
+1942-09-26,Duke,Southern,,N,Davidson,Southern,Gene McEver,W,21,0
+1942-10-03,Duke,Southern,,A,Wake Forest,Southern,D.C. Walker,L,7,20
+1942-10-10,Duke,Southern,,H,Georgia Pre-Flight,Ind,,L,12,26
+1942-10-17,Duke,Southern,,A,Colgate,Ind,Andrew Kerr,W,34,0
+1942-10-24,Duke,Southern,,A,Pitt,Ind,Charles Bowser,W,28,0
+1942-10-31,Duke,Southern,,H,Georgia Tech,SEC,William Alexander,L,7,26
+1942-11-07,Duke,Southern,,H,Maryland,Southern,Clark Shaughnessy,W,42,0
+1942-11-14,Duke,Southern,,A,North Carolina,Southern,Jim Tatum,T,13,13
+1942-11-21,Duke,Southern,,H,North Carolina State,Southern,,W,47,0
+1942-11-28,Duke,Southern,,A,Jacksonville Naval Air Station,Ind,,L,0,13
+1942-09-26,San Francisco,Ind,Al Tassi,H,Arizona State,BIAA,Hilman Walker,W,54,6
+1942-10-11,San Francisco,Ind,Al Tassi,H,Loyola Marymount,Ind,,L,2,7
+1942-10-17,San Francisco,Ind,Al Tassi,A,Saint Mary's (CA),Ind,James Phelan,L,0,27
+1942-10-31,San Francisco,Ind,Al Tassi,A,Santa Clara,Ind,Buck Shaw,L,6,8
+1942-12-05,San Francisco,Ind,Al Tassi,A,Mississippi State,SEC,Allyn McKeen,L,7,19
+1942-09-26,Navy,Ind,John Whelchel,H,William & Mary,Southern,,L,0,3
+1942-10-03,Navy,Ind,John Whelchel,H,Virginia,Ind,Frank Murray,W,35,0
+1942-10-10,Navy,Ind,John Whelchel,A,Princeton,Ind,Tad Wieman,L,0,10
+1942-10-17,Navy,Ind,John Whelchel,H,Yale,Ind,Howard Odell,W,13,6
+1942-10-24,Navy,Ind,John Whelchel,H,Georgia Tech,SEC,William Alexander,L,0,21
+1942-10-31,Navy,Ind,John Whelchel,N,Notre Dame,Ind,Frank Leahy,L,0,9
+1942-11-07,Navy,Ind,John Whelchel,A,Pennsylvania,Ind,George Munger,W,7,0
+1942-11-14,Navy,Ind,John Whelchel,H,Columbia,Ind,Lou Little,W,13,9
+1942-11-28,Navy,Ind,John Whelchel,H,Army,Ind,Red Blaik,W,14,0
+1942-09-26,Texas Tech,BIAA,,H,West Texas A&M,BIAA,Gus Miller,W,39,0
+1942-10-03,Texas Tech,BIAA,,A,Texas A&M,SWC,Homer Norton,L,0,19
+1942-10-10,Texas Tech,BIAA,,H,Oklahoma State,MVC,Jim Lookabaugh,L,6,9
+1942-10-17,Texas Tech,BIAA,,H,Baylor,SWC,Frank Kimbrough,L,7,14
+1942-10-24,Texas Tech,BIAA,,A,New Mexico,BIAA,Willis Barnes,W,20,0
+1942-10-31,Texas Tech,BIAA,,A,Rice,SWC,Jess Neely,L,7,19
+1942-11-07,Texas Tech,BIAA,,H,Texas Christian,SWC,Dutch Meyer,W,13,6
+1942-11-14,Texas Tech,BIAA,,A,Creighton,MVC,Skip Palrang,L,6,13
+1942-11-21,Texas Tech,BIAA,,H,Hardin-Simmons,BIAA,Warren Woodson,T,0,0
+1942-11-26,Texas Tech,BIAA,,A,Arizona,BIAA,Miles Casteel,W,13,7
+1942-09-26,Tulane,SEC,Claude Simons,A,USC,PCC,Jeff Cravath,W,27,13
+1942-10-03,Tulane,SEC,Claude Simons,H,Auburn,SEC,Jack Meagher,L,13,27
+1942-10-10,Tulane,SEC,Claude Simons,H,Rice,SWC,Jess Neely,W,18,7
+1942-10-17,Tulane,SEC,Claude Simons,A,Georgia,SEC,Wallace Butts,L,0,40
+1942-10-24,Tulane,SEC,Claude Simons,H,North Carolina,Southern,Jim Tatum,W,29,14
+1942-10-31,Tulane,SEC,Claude Simons,H,Vanderbilt,SEC,Red Sanders,W,28,21
+1942-11-07,Tulane,SEC,Claude Simons,H,Mississippi State,SEC,Allyn McKeen,L,0,7
+1942-11-14,Tulane,SEC,Claude Simons,H,Georgia Pre-Flight,Ind,,L,0,7
+1942-11-26,Tulane,SEC,Claude Simons,A,LSU,SEC,Bernie Moore,L,6,18
+1942-10-03,Cornell,Ind,,H,Colgate,Ind,Andrew Kerr,L,6,18
+1942-10-10,Cornell,Ind,,A,Army,Ind,Red Blaik,L,8,28
+1942-10-17,Cornell,Ind,,H,Penn State,Ind,Bob Higgins,T,0,0
+1942-10-24,Cornell,Ind,,A,Syracuse,Ind,Ossie Solem,L,7,12
+1942-10-31,Cornell,Ind,,A,Columbia,Ind,Lou Little,L,13,14
+1942-11-07,Cornell,Ind,,A,Yale,Ind,Howard Odell,W,13,7
+1942-11-14,Cornell,Ind,,N,Dartmouth,Ind,,W,21,19
+1942-11-26,Cornell,Ind,,A,Pennsylvania,Ind,George Munger,L,7,34
+1942-10-03,Ohio State,Western,Paul Brown,H,Indiana,Western,Bo McMillin,W,32,21
+1942-10-10,Ohio State,Western,Paul Brown,H,USC,PCC,Jeff Cravath,W,28,12
+1942-10-17,Ohio State,Western,Paul Brown,H,Purdue,Western,Elmer Burnham,W,26,0
+1942-10-24,Ohio State,Western,Paul Brown,A,Northwestern,Western,Pappy Waldorf,W,20,6
+1942-10-31,Ohio State,Western,Paul Brown,A,Wisconsin,Western,Harry Stuhldreher,L,7,17
+1942-11-07,Ohio State,Western,Paul Brown,H,Pitt,Ind,Charles Bowser,W,59,19
+1942-11-14,Ohio State,Western,Paul Brown,H,Illinois,Western,Ray Eliot,W,44,20
+1942-11-21,Ohio State,Western,Paul Brown,H,Michigan,Western,Fritz Crisler,W,21,7
+1942-11-28,Ohio State,Western,Paul Brown,H,Iowa Pre-Flight,Ind,Bernie Bierman,W,41,12
+1942-10-10,Drake,MVC,Vee Green,H,Saint Louis,MVC,,W,19,9
+1942-10-17,Drake,MVC,Vee Green,A,Iowa State,Big 6,Mike Michalske,L,6,29
+1942-10-24,Drake,MVC,Vee Green,H,Creighton,MVC,Skip Palrang,L,14,33
+1942-10-30,Drake,MVC,Vee Green,H,Tulsa,MVC,Henry Frnka,L,0,40
+1942-11-14,Drake,MVC,Vee Green,A,Washington (MO),MVC,Tom Gorman,L,7,14
+1942-11-21,Drake,MVC,Vee Green,A,Oklahoma State,MVC,Jim Lookabaugh,L,12,55

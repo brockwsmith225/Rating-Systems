@@ -1,0 +1,415 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1912-10-05,North Carolina,Ind,William Martin,N,Davidson,Ind,W.T. Cook,W,13,0
+1912-10-12,North Carolina,Ind,William Martin,H,Wake Forest,Ind,Frank Thompson,W,9,2
+1912-10-26,North Carolina,Ind,William Martin,H,Virginia Tech,Ind,Branch Bocock,L,0,26
+1912-11-02,North Carolina,Ind,William Martin,N,Georgetown,Ind,Frank Gargan,L,10,37
+1912-11-09,North Carolina,Ind,William Martin,H,South Carolina,Ind,N.B. Edgerton,T,6,6
+1912-11-16,North Carolina,Ind,William Martin,H,Washington & Lee,Ind,J. Reilly,L,0,31
+1912-11-26,North Carolina,Ind,William Martin,A,Virginia,Ind,Speed Elliott,L,0,66
+1912-10-05,Indiana,Western,James Sheldon,A,Chicago,Western,Amos Alonzo Stagg,L,0,13
+1912-10-19,Indiana,Western,James Sheldon,A,Illinois,Western,Arthur Hall,L,7,13
+1912-10-26,Indiana,Western,James Sheldon,H,Northwestern,Western,Charles Hammett,L,7,20
+1912-11-09,Indiana,Western,James Sheldon,H,Iowa,Western,Jesse Hawley,L,6,13
+1912-11-24,Indiana,Western,James Sheldon,A,Purdue,Western,M.H. Horr,L,7,34
+1912-10-05,Wyoming,RMC,Leon Excelby,A,Utah,RMC,Fred Bennion,L,0,9
+1912-10-12,Wyoming,RMC,Leon Excelby,A,Colorado College,RMC,C.J. Rothget,L,0,35
+1912-10-19,Wyoming,RMC,Leon Excelby,A,Colorado Mines,RMC,William Johnston,L,0,42
+1912-10-26,Wyoming,RMC,Leon Excelby,A,Colorado,RMC,Fred Folsom,L,0,75
+1912-11-02,Wyoming,RMC,Leon Excelby,A,Utah State,Ind,,L,0,53
+1912-11-28,Wyoming,RMC,Leon Excelby,H,Colorado State,RMC,Harry Hughes,L,0,33
+1912-10-05,Yale,Ind,,H,Syracuse,Ind,,W,21,0
+1912-10-12,Yale,Ind,,H,Lafayette,Ind,George McCaa,W,16,0
+1912-10-19,Yale,Ind,,A,Army,Ind,Ernest Graves,W,6,0
+1912-10-26,Yale,Ind,,H,Washington & Jefferson,Ind,Bob Folwell,W,13,3
+1912-11-09,Yale,Ind,,H,Brown,Ind,Edward Robinson,W,10,0
+1912-11-16,Yale,Ind,,A,Princeton,Ind,Logan Cunningham,T,6,6
+1912-11-23,Yale,Ind,,H,Harvard,Ind,Percy Haughton,L,0,20
+1912-10-05,Iowa State,MVIAA,,A,Minnesota,Western,Henry Williams,L,0,5
+1912-10-19,Iowa State,MVIAA,,A,Missouri,MVIAA,,W,29,0
+1912-11-16,Iowa State,MVIAA,,H,Iowa,Western,Jesse Hawley,L,7,20
+1912-11-23,Iowa State,MVIAA,,A,Drake,MVIAA,John Griffith,W,23,3
+1912-10-02,Carlisle,Ind,Pop Warner,H,Villanova,Ind,,W,65,0
+1912-10-05,Carlisle,Ind,Pop Warner,A,Washington & Jefferson,Ind,Bob Folwell,T,0,0
+1912-10-12,Carlisle,Ind,Pop Warner,A,Syracuse,Ind,,W,33,0
+1912-10-19,Carlisle,Ind,Pop Warner,A,Pitt,Ind,Joseph Thompson,W,45,8
+1912-10-26,Carlisle,Ind,Pop Warner,A,Georgetown,Ind,Frank Gargan,W,34,20
+1912-11-02,Carlisle,Ind,Pop Warner,A,Lehigh,Ind,Tom Keady,W,34,14
+1912-11-09,Carlisle,Ind,Pop Warner,A,Army,Ind,Ernest Graves,W,27,6
+1912-11-16,Carlisle,Ind,Pop Warner,A,Pennsylvania,Ind,,L,26,34
+1912-11-28,Carlisle,Ind,Pop Warner,A,Brown,Ind,Edward Robinson,W,32,0
+1912-10-05,Utah,RMC,Fred Bennion,H,Wyoming,RMC,Leon Excelby,W,9,0
+1912-10-19,Utah,RMC,Fred Bennion,H,Denver,RMC,,W,66,0
+1912-10-26,Utah,RMC,Fred Bennion,A,Colorado Mines,RMC,William Johnston,W,18,3
+1912-11-09,Utah,RMC,Fred Bennion,A,Colorado,RMC,Fred Folsom,L,0,3
+1912-11-16,Utah,RMC,Fred Bennion,H,Colorado College,RMC,C.J. Rothget,W,43,0
+1912-11-28,Utah,RMC,Fred Bennion,H,Utah State,Ind,,T,7,7
+1912-10-05,Georgia Tech,Ind,John Heisman,A,Citadel,Ind,L.S. LeTellier,W,20,16
+1912-10-12,Georgia Tech,Ind,John Heisman,H,Alabama,Ind,Tubby Graves,W,20,3
+1912-10-19,Georgia Tech,Ind,John Heisman,A,Mercer,Ind,,W,16,6
+1912-10-26,Georgia Tech,Ind,John Heisman,N,Florida,Ind,G.E. Pyle,W,14,7
+1912-11-02,Georgia Tech,Ind,John Heisman,H,Auburn,Ind,Mike Donahue,L,7,27
+1912-11-09,Georgia Tech,Ind,John Heisman,H,Sewanee,Ind,Harris Cope,L,0,7
+1912-11-16,Georgia Tech,Ind,John Heisman,H,Georgia,Ind,W.A. Cunningham,L,0,20
+1912-11-28,Georgia Tech,Ind,John Heisman,H,Clemson,Ind,Frank Dobson,W,23,0
+1912-10-05,Wake Forest,Ind,Frank Thompson,A,South Carolina,Ind,N.B. Edgerton,L,3,10
+1912-10-12,Wake Forest,Ind,Frank Thompson,A,North Carolina,Ind,William Martin,L,2,9
+1912-10-26,Wake Forest,Ind,Frank Thompson,A,Washington & Lee,Ind,J. Reilly,L,0,20
+1912-11-02,Wake Forest,Ind,Frank Thompson,H,North Carolina State,Ind,,L,0,12
+1912-11-28,Wake Forest,Ind,Frank Thompson,N,Davidson,Ind,W.T. Cook,L,7,13
+1912-10-04,Mississippi State,Ind,William Chadwick,H,Mississippi College,Ind,Dale Chadwick,W,19,0
+1912-10-18,Mississippi State,Ind,William Chadwick,H,Alabama,Ind,Tubby Graves,W,7,0
+1912-10-26,Mississippi State,Ind,William Chadwick,A,Auburn,Ind,Mike Donahue,L,0,7
+1912-11-02,Mississippi State,Ind,William Chadwick,A,LSU,Ind,Pat Dwyer,W,7,0
+1912-11-09,Mississippi State,Ind,William Chadwick,A,Tulane,Ind,A.A. Mason,L,24,27
+1912-11-16,Mississippi State,Ind,William Chadwick,N,Texas A&M,Ind,Charley Moran,L,7,41
+1912-10-02,Villanova,Ind,,A,Carlisle,Ind,Pop Warner,L,0,65
+1912-10-26,Villanova,Ind,,A,Swarthmore,Ind,George Brooke,L,0,27
+1912-11-09,Villanova,Ind,,A,Penn State,Ind,Bill Hollenback,L,0,71
+1912-10-12,Washington & Lee,Ind,J. Reilly,A,Georgetown,Ind,Frank Gargan,L,0,20
+1912-10-26,Washington & Lee,Ind,J. Reilly,H,Wake Forest,Ind,Frank Thompson,W,20,0
+1912-11-02,Washington & Lee,Ind,J. Reilly,H,Davidson,Ind,W.T. Cook,W,54,0
+1912-11-09,Washington & Lee,Ind,J. Reilly,N,Virginia Tech,Ind,Branch Bocock,W,20,6
+1912-11-16,Washington & Lee,Ind,J. Reilly,A,North Carolina,Ind,William Martin,W,31,0
+1912-11-28,Washington & Lee,Ind,J. Reilly,N,North Carolina State,Ind,,W,16,6
+1912-10-05,Syracuse,Ind,,A,Yale,Ind,,L,0,21
+1912-10-12,Syracuse,Ind,,H,Carlisle,Ind,Pop Warner,L,0,33
+1912-10-19,Syracuse,Ind,,A,Princeton,Ind,Logan Cunningham,L,0,62
+1912-10-26,Syracuse,Ind,,H,Michigan,Ind,Fielding Yost,W,18,7
+1912-11-09,Syracuse,Ind,,A,Lafayette,Ind,George McCaa,W,30,7
+1912-11-16,Syracuse,Ind,,H,Colgate,Ind,Frank Sommers,L,0,7
+1912-11-23,Syracuse,Ind,,A,Army,Ind,Ernest Graves,L,7,23
+1912-10-12,Georgetown,Ind,Frank Gargan,H,Washington & Lee,Ind,J. Reilly,W,20,0
+1912-10-19,Georgetown,Ind,Frank Gargan,A,North Carolina State,Ind,,W,48,0
+1912-10-26,Georgetown,Ind,Frank Gargan,H,Carlisle,Ind,Pop Warner,L,20,34
+1912-11-02,Georgetown,Ind,Frank Gargan,N,North Carolina,Ind,William Martin,W,37,10
+1912-11-16,Georgetown,Ind,Frank Gargan,H,Virginia,Ind,Speed Elliott,W,16,13
+1912-11-28,Georgetown,Ind,Frank Gargan,H,Virginia Tech,Ind,Branch Bocock,W,24,3
+1912-10-12,Kansas State,Ind,Guy Lowman,A,Nebraska,MVIAA,Jumbo Stiehm,L,6,30
+1912-10-26,Kansas State,Ind,Guy Lowman,A,Kansas,MVIAA,Arthur Mosse,L,6,19
+1912-11-16,Kansas State,Ind,Guy Lowman,H,Colorado,RMC,Fred Folsom,W,14,6
+1912-11-20,Kansas State,Ind,Guy Lowman,A,Texas A&M,Ind,Charley Moran,W,13,10
+1912-10-05,Samford,Ind,Lonnie Noojin,H,Clemson,Ind,Frank Dobson,L,0,59
+1912-10-12,Samford,Ind,Lonnie Noojin,A,Mercer,Ind,,L,0,36
+1912-10-26,Samford,Ind,Lonnie Noojin,A,Tulane,Ind,A.A. Mason,L,0,35
+1912-11-29,Samford,Ind,Lonnie Noojin,A,Mississippi College,Ind,Dale Chadwick,L,0,20
+1912-10-19,Army,Ind,Ernest Graves,H,Yale,Ind,,L,0,6
+1912-10-26,Army,Ind,Ernest Graves,H,Colgate,Ind,Frank Sommers,W,18,7
+1912-11-09,Army,Ind,Ernest Graves,H,Carlisle,Ind,Pop Warner,L,6,27
+1912-11-23,Army,Ind,Ernest Graves,H,Syracuse,Ind,,W,23,7
+1912-11-30,Army,Ind,Ernest Graves,N,Navy,Ind,,L,0,6
+1912-10-12,Penn State,Ind,Bill Hollenback,H,Washington & Jefferson,Ind,Bob Folwell,W,30,0
+1912-10-19,Penn State,Ind,Bill Hollenback,A,Cornell,Ind,,W,29,6
+1912-11-02,Penn State,Ind,Bill Hollenback,A,Pennsylvania,Ind,,W,14,0
+1912-11-09,Penn State,Ind,Bill Hollenback,H,Villanova,Ind,,W,71,0
+1912-11-28,Penn State,Ind,Bill Hollenback,A,Pitt,Ind,Joseph Thompson,W,38,0
+1912-10-26,Dartmouth,Ind,Frank Cavanaugh,A,Princeton,Ind,Logan Cunningham,L,7,22
+1912-11-09,Dartmouth,Ind,Frank Cavanaugh,A,Cornell,Ind,,W,24,0
+1912-11-16,Dartmouth,Ind,Frank Cavanaugh,A,Harvard,Ind,Percy Haughton,L,0,3
+1912-10-05,Princeton,Ind,Logan Cunningham,H,Lehigh,Ind,Tom Keady,W,35,0
+1912-10-12,Princeton,Ind,Logan Cunningham,H,Virginia Tech,Ind,Branch Bocock,W,31,0
+1912-10-19,Princeton,Ind,Logan Cunningham,H,Syracuse,Ind,,W,62,0
+1912-10-26,Princeton,Ind,Logan Cunningham,H,Dartmouth,Ind,Frank Cavanaugh,W,22,7
+1912-11-02,Princeton,Ind,Logan Cunningham,A,Harvard,Ind,Percy Haughton,L,6,16
+1912-11-16,Princeton,Ind,Logan Cunningham,H,Yale,Ind,,T,6,6
+1912-10-19,Vanderbilt,Ind,Dan McGugin,A,Georgia,Ind,W.A. Cunningham,W,46,0
+1912-10-26,Vanderbilt,Ind,Dan McGugin,H,Ole Miss,Ind,Leo DeTray,W,24,0
+1912-11-02,Vanderbilt,Ind,Dan McGugin,H,Virginia,Ind,Speed Elliott,W,13,0
+1912-11-09,Vanderbilt,Ind,Dan McGugin,A,Harvard,Ind,Percy Haughton,L,3,9
+1912-11-23,Vanderbilt,Ind,Dan McGugin,A,Auburn,Ind,Mike Donahue,T,7,7
+1912-11-28,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,Harris Cope,W,16,0
+1912-10-12,Colorado College,RMC,C.J. Rothget,H,Wyoming,RMC,Leon Excelby,W,35,0
+1912-10-19,Colorado College,RMC,C.J. Rothget,H,Colorado State,RMC,Harry Hughes,W,13,0
+1912-11-02,Colorado College,RMC,C.J. Rothget,H,Colorado,RMC,Fred Folsom,L,7,10
+1912-11-09,Colorado College,RMC,C.J. Rothget,H,Colorado Mines,RMC,William Johnston,L,7,17
+1912-11-16,Colorado College,RMC,C.J. Rothget,A,Utah,RMC,Fred Bennion,L,0,43
+1912-11-28,Colorado College,RMC,C.J. Rothget,H,Denver,RMC,,L,3,20
+1912-10-05,Auburn,Ind,Mike Donahue,N,Mercer,Ind,,W,56,0
+1912-10-12,Auburn,Ind,Mike Donahue,H,Florida,Ind,G.E. Pyle,W,27,13
+1912-10-19,Auburn,Ind,Mike Donahue,H,Clemson,Ind,Frank Dobson,W,27,6
+1912-10-26,Auburn,Ind,Mike Donahue,H,Mississippi State,Ind,William Chadwick,W,7,0
+1912-11-02,Auburn,Ind,Mike Donahue,A,Georgia Tech,Ind,John Heisman,W,27,7
+1912-11-09,Auburn,Ind,Mike Donahue,H,LSU,Ind,Pat Dwyer,W,7,0
+1912-11-23,Auburn,Ind,Mike Donahue,H,Vanderbilt,Ind,Dan McGugin,T,7,7
+1912-11-28,Auburn,Ind,Mike Donahue,A,Georgia,Ind,W.A. Cunningham,L,6,12
+1912-10-12,Northwestern,Western,Charles Hammett,A,Wisconsin,Western,William Juneau,L,0,56
+1912-10-26,Northwestern,Western,Charles Hammett,A,Indiana,Western,James Sheldon,W,20,7
+1912-11-02,Northwestern,Western,Charles Hammett,H,Purdue,Western,M.H. Horr,L,6,21
+1912-11-09,Northwestern,Western,Charles Hammett,A,Chicago,Western,Amos Alonzo Stagg,L,0,3
+1912-11-23,Northwestern,Western,Charles Hammett,H,Illinois,Western,Arthur Hall,W,6,0
+1912-10-19,Kansas,MVIAA,Arthur Mosse,A,Drake,MVIAA,John Griffith,L,0,6
+1912-10-26,Kansas,MVIAA,Arthur Mosse,H,Kansas State,Ind,Guy Lowman,W,19,6
+1912-11-02,Kansas,MVIAA,Arthur Mosse,H,Oklahoma,Ind,Bennie Owen,L,5,6
+1912-11-16,Kansas,MVIAA,Arthur Mosse,A,Nebraska,MVIAA,Jumbo Stiehm,L,3,14
+1912-11-23,Kansas,MVIAA,Arthur Mosse,H,Missouri,MVIAA,,W,12,3
+1912-10-12,Florida,Ind,G.E. Pyle,A,Auburn,Ind,Mike Donahue,L,13,27
+1912-10-19,Florida,Ind,G.E. Pyle,H,South Carolina,Ind,N.B. Edgerton,W,10,6
+1912-10-26,Florida,Ind,G.E. Pyle,N,Georgia Tech,Ind,John Heisman,L,7,14
+1912-11-28,Florida,Ind,G.E. Pyle,N,Mercer,Ind,,T,0,0
+1912-10-11,LSU,Ind,Pat Dwyer,H,Mississippi College,Ind,Dale Chadwick,W,45,0
+1912-10-19,LSU,Ind,Pat Dwyer,H,Ole Miss,Ind,Leo DeTray,L,7,10
+1912-11-02,LSU,Ind,Pat Dwyer,H,Mississippi State,Ind,William Chadwick,L,0,7
+1912-11-09,LSU,Ind,Pat Dwyer,A,Auburn,Ind,Mike Donahue,L,0,7
+1912-11-16,LSU,Ind,Pat Dwyer,A,Arkansas,Ind,Hugo Bezdek,W,7,6
+1912-11-28,LSU,Ind,Pat Dwyer,A,Tulane,Ind,A.A. Mason,W,21,3
+1912-10-12,Pennsylvania,Ind,,H,Swarthmore,Ind,George Brooke,L,3,6
+1912-10-19,Pennsylvania,Ind,,A,Brown,Ind,Edward Robinson,L,7,30
+1912-10-26,Pennsylvania,Ind,,H,Lafayette,Ind,George McCaa,L,3,7
+1912-11-02,Pennsylvania,Ind,,H,Penn State,Ind,Bill Hollenback,L,0,14
+1912-11-09,Pennsylvania,Ind,,H,Michigan,Ind,Fielding Yost,W,27,21
+1912-11-16,Pennsylvania,Ind,,H,Carlisle,Ind,Pop Warner,W,34,26
+1912-11-28,Pennsylvania,Ind,,H,Cornell,Ind,,W,7,2
+1912-10-19,Iowa,Western,Jesse Hawley,A,Chicago,Western,Amos Alonzo Stagg,L,14,34
+1912-10-26,Iowa,Western,Jesse Hawley,A,Minnesota,Western,Henry Williams,L,7,56
+1912-11-09,Iowa,Western,Jesse Hawley,A,Indiana,Western,James Sheldon,W,13,6
+1912-11-16,Iowa,Western,Jesse Hawley,A,Iowa State,MVIAA,,W,20,7
+1912-11-23,Iowa,Western,Jesse Hawley,H,Wisconsin,Western,William Juneau,L,10,28
+1912-11-02,Southwestern (TX),Ind,,A,Arkansas,Ind,Hugo Bezdek,L,0,25
+1912-11-09,Southwestern (TX),Ind,,A,Baylor,Ind,Ralph Glaze,W,13,6
+1912-11-23,Southwestern (TX),Ind,,A,Texas,Ind,Dave Allerdice,L,3,28
+1912-10-12,Illinois,Western,Arthur Hall,H,Washington (MO),MVIAA,Francis Cayou,W,13,0
+1912-10-19,Illinois,Western,Arthur Hall,H,Indiana,Western,James Sheldon,W,13,7
+1912-11-02,Illinois,Western,Arthur Hall,A,Minnesota,Western,Henry Williams,L,0,13
+1912-11-09,Illinois,Western,Arthur Hall,A,Purdue,Western,M.H. Horr,T,9,9
+1912-11-16,Illinois,Western,Arthur Hall,H,Chicago,Western,Amos Alonzo Stagg,L,0,10
+1912-11-23,Illinois,Western,Arthur Hall,A,Northwestern,Western,Charles Hammett,L,0,6
+1912-10-19,Texas,Ind,Dave Allerdice,N,Oklahoma,Ind,Bennie Owen,L,6,21
+1912-11-04,Texas,Ind,Dave Allerdice,A,Baylor,Ind,Ralph Glaze,W,19,7
+1912-11-13,Texas,Ind,Dave Allerdice,H,Ole Miss,Ind,Leo DeTray,W,53,14
+1912-11-23,Texas,Ind,Dave Allerdice,H,Southwestern (TX),Ind,,W,28,3
+1912-11-28,Texas,Ind,Dave Allerdice,H,Arkansas,Ind,Hugo Bezdek,W,48,0
+1912-10-26,Baylor,Ind,Ralph Glaze,H,Arkansas,Ind,Hugo Bezdek,W,7,0
+1912-11-04,Baylor,Ind,Ralph Glaze,H,Texas,Ind,Dave Allerdice,L,7,19
+1912-11-09,Baylor,Ind,Ralph Glaze,H,Southwestern (TX),Ind,,L,6,13
+1912-11-28,Baylor,Ind,Ralph Glaze,N,Texas A&M,Ind,Charley Moran,L,0,53
+1912-10-12,Georgia,Ind,W.A. Cunningham,H,Citadel,Ind,L.S. LeTellier,W,33,0
+1912-10-19,Georgia,Ind,W.A. Cunningham,H,Vanderbilt,Ind,Dan McGugin,L,0,46
+1912-10-26,Georgia,Ind,W.A. Cunningham,H,Alabama,Ind,Tubby Graves,W,13,9
+1912-11-02,Georgia,Ind,W.A. Cunningham,H,Sewanee,Ind,Harris Cope,T,13,13
+1912-11-09,Georgia,Ind,W.A. Cunningham,N,Clemson,Ind,Frank Dobson,W,27,6
+1912-11-16,Georgia,Ind,W.A. Cunningham,A,Georgia Tech,Ind,John Heisman,W,20,0
+1912-11-28,Georgia,Ind,W.A. Cunningham,H,Auburn,Ind,Mike Donahue,W,12,6
+1912-10-14,Virginia,Ind,Speed Elliott,H,South Carolina,Ind,N.B. Edgerton,W,19,0
+1912-11-02,Virginia,Ind,Speed Elliott,A,Vanderbilt,Ind,Dan McGugin,L,0,13
+1912-11-16,Virginia,Ind,Speed Elliott,A,Georgetown,Ind,Frank Gargan,L,13,16
+1912-11-26,Virginia,Ind,Speed Elliott,H,North Carolina,Ind,William Martin,W,66,0
+1912-10-19,Brown,Ind,Edward Robinson,H,Pennsylvania,Ind,,W,30,7
+1912-10-26,Brown,Ind,Edward Robinson,A,Harvard,Ind,Percy Haughton,L,10,30
+1912-11-09,Brown,Ind,Edward Robinson,A,Yale,Ind,,L,0,10
+1912-11-16,Brown,Ind,Edward Robinson,H,Lafayette,Ind,George McCaa,W,21,7
+1912-11-28,Brown,Ind,Edward Robinson,H,Carlisle,Ind,Pop Warner,L,0,32
+1912-10-05,Citadel,Ind,L.S. LeTellier,H,Georgia Tech,Ind,John Heisman,L,16,20
+1912-10-12,Citadel,Ind,L.S. LeTellier,A,Georgia,Ind,W.A. Cunningham,L,0,33
+1912-10-26,Citadel,Ind,L.S. LeTellier,A,Clemson,Ind,Frank Dobson,L,14,52
+1912-11-28,Citadel,Ind,L.S. LeTellier,A,South Carolina,Ind,N.B. Edgerton,L,2,26
+1912-10-19,Oklahoma,Ind,Bennie Owen,N,Texas,Ind,Dave Allerdice,W,21,6
+1912-10-25,Oklahoma,Ind,Bennie Owen,H,Missouri,MVIAA,,L,0,14
+1912-11-02,Oklahoma,Ind,Bennie Owen,A,Kansas,MVIAA,Arthur Mosse,W,6,5
+1912-11-09,Oklahoma,Ind,Bennie Owen,A,Texas A&M,Ind,Charley Moran,L,6,28
+1912-11-23,Oklahoma,Ind,Bennie Owen,A,Nebraska,MVIAA,Jumbo Stiehm,L,9,13
+1912-11-28,Oklahoma,Ind,Bennie Owen,A,Colorado,RMC,Fred Folsom,L,12,14
+1912-10-26,Tennessee,Ind,Zora Clevenger,N,Sewanee,Ind,Harris Cope,L,6,33
+1912-11-09,Tennessee,Ind,Zora Clevenger,A,Mercer,Ind,,L,14,27
+1912-11-28,Tennessee,Ind,Zora Clevenger,A,Alabama,Ind,Tubby Graves,L,0,7
+1912-10-12,Virginia Tech,Ind,Branch Bocock,A,Princeton,Ind,Logan Cunningham,L,0,31
+1912-10-26,Virginia Tech,Ind,Branch Bocock,A,North Carolina,Ind,William Martin,W,26,0
+1912-11-09,Virginia Tech,Ind,Branch Bocock,N,Washington & Lee,Ind,J. Reilly,L,6,20
+1912-11-28,Virginia Tech,Ind,Branch Bocock,A,Georgetown,Ind,Frank Gargan,L,3,24
+1912-10-05,Lehigh,Ind,Tom Keady,A,Princeton,Ind,Logan Cunningham,L,0,35
+1912-10-12,Lehigh,Ind,Tom Keady,A,Navy,Ind,,W,14,0
+1912-11-02,Lehigh,Ind,Tom Keady,H,Carlisle,Ind,Pop Warner,L,14,34
+1912-11-09,Lehigh,Ind,Tom Keady,A,Swarthmore,Ind,George Brooke,W,3,0
+1912-11-23,Lehigh,Ind,Tom Keady,A,Lafayette,Ind,George McCaa,W,10,0
+1912-10-12,Alabama,Ind,Tubby Graves,A,Georgia Tech,Ind,John Heisman,L,3,20
+1912-10-18,Alabama,Ind,Tubby Graves,A,Mississippi State,Ind,William Chadwick,L,0,7
+1912-10-26,Alabama,Ind,Tubby Graves,A,Georgia,Ind,W.A. Cunningham,L,9,13
+1912-11-02,Alabama,Ind,Tubby Graves,A,Tulane,Ind,A.A. Mason,W,7,0
+1912-11-09,Alabama,Ind,Tubby Graves,H,Ole Miss,Ind,Leo DeTray,W,10,9
+1912-11-16,Alabama,Ind,Tubby Graves,H,Sewanee,Ind,Harris Cope,T,6,6
+1912-11-28,Alabama,Ind,Tubby Graves,H,Tennessee,Ind,Zora Clevenger,W,7,0
+1912-10-18,Arkansas,Ind,Hugo Bezdek,A,Texas A&M,Ind,Charley Moran,L,0,27
+1912-10-26,Arkansas,Ind,Hugo Bezdek,A,Baylor,Ind,Ralph Glaze,L,0,7
+1912-11-02,Arkansas,Ind,Hugo Bezdek,H,Southwestern (TX),Ind,,W,25,0
+1912-11-09,Arkansas,Ind,Hugo Bezdek,A,Wisconsin,Western,William Juneau,L,7,64
+1912-11-16,Arkansas,Ind,Hugo Bezdek,H,LSU,Ind,Pat Dwyer,L,6,7
+1912-11-23,Arkansas,Ind,Hugo Bezdek,A,Washington (MO),MVIAA,Francis Cayou,W,13,7
+1912-11-28,Arkansas,Ind,Hugo Bezdek,A,Texas,Ind,Dave Allerdice,L,0,48
+1912-10-05,Clemson,Ind,Frank Dobson,A,Samford,Ind,Lonnie Noojin,W,59,0
+1912-10-19,Clemson,Ind,Frank Dobson,A,Auburn,Ind,Mike Donahue,L,6,27
+1912-10-26,Clemson,Ind,Frank Dobson,H,Citadel,Ind,L.S. LeTellier,W,52,14
+1912-10-31,Clemson,Ind,Frank Dobson,A,South Carolina,Ind,N.B. Edgerton,L,7,22
+1912-11-09,Clemson,Ind,Frank Dobson,N,Georgia,Ind,W.A. Cunningham,L,6,27
+1912-11-16,Clemson,Ind,Frank Dobson,A,Mercer,Ind,,W,22,13
+1912-11-28,Clemson,Ind,Frank Dobson,A,Georgia Tech,Ind,John Heisman,L,0,23
+1912-10-19,Purdue,Western,M.H. Horr,A,Wisconsin,Western,William Juneau,L,0,41
+1912-10-26,Purdue,Western,M.H. Horr,A,Chicago,Western,Amos Alonzo Stagg,L,0,7
+1912-11-02,Purdue,Western,M.H. Horr,A,Northwestern,Western,Charles Hammett,W,21,6
+1912-11-09,Purdue,Western,M.H. Horr,H,Illinois,Western,Arthur Hall,T,9,9
+1912-11-24,Purdue,Western,M.H. Horr,H,Indiana,Western,James Sheldon,W,34,7
+1912-10-05,South Carolina,Ind,N.B. Edgerton,H,Wake Forest,Ind,Frank Thompson,W,10,3
+1912-10-14,South Carolina,Ind,N.B. Edgerton,A,Virginia,Ind,Speed Elliott,L,0,19
+1912-10-19,South Carolina,Ind,N.B. Edgerton,A,Florida,Ind,G.E. Pyle,L,6,10
+1912-10-31,South Carolina,Ind,N.B. Edgerton,H,Clemson,Ind,Frank Dobson,W,22,7
+1912-11-09,South Carolina,Ind,N.B. Edgerton,A,North Carolina,Ind,William Martin,T,6,6
+1912-11-28,South Carolina,Ind,N.B. Edgerton,H,Citadel,Ind,L.S. LeTellier,W,26,2
+1912-10-12,Nebraska,MVIAA,Jumbo Stiehm,H,Kansas State,Ind,Guy Lowman,W,30,6
+1912-10-19,Nebraska,MVIAA,Jumbo Stiehm,A,Minnesota,Western,Henry Williams,L,0,13
+1912-11-02,Nebraska,MVIAA,Jumbo Stiehm,A,Missouri,MVIAA,,W,7,0
+1912-11-16,Nebraska,MVIAA,Jumbo Stiehm,H,Kansas,MVIAA,Arthur Mosse,W,14,3
+1912-11-23,Nebraska,MVIAA,Jumbo Stiehm,H,Oklahoma,Ind,Bennie Owen,W,13,9
+1912-10-26,Harvard,Ind,Percy Haughton,H,Brown,Ind,Edward Robinson,W,30,10
+1912-11-02,Harvard,Ind,Percy Haughton,H,Princeton,Ind,Logan Cunningham,W,16,6
+1912-11-09,Harvard,Ind,Percy Haughton,H,Vanderbilt,Ind,Dan McGugin,W,9,3
+1912-11-16,Harvard,Ind,Percy Haughton,H,Dartmouth,Ind,Frank Cavanaugh,W,3,0
+1912-11-23,Harvard,Ind,Percy Haughton,A,Yale,Ind,,W,20,0
+1912-10-05,Colorado,RMC,Fred Folsom,H,Utah State,Ind,,W,16,3
+1912-10-12,Colorado,RMC,Fred Folsom,A,Colorado State,RMC,Harry Hughes,L,0,21
+1912-10-26,Colorado,RMC,Fred Folsom,H,Wyoming,RMC,Leon Excelby,W,75,0
+1912-11-02,Colorado,RMC,Fred Folsom,A,Colorado College,RMC,C.J. Rothget,W,10,7
+1912-11-09,Colorado,RMC,Fred Folsom,H,Utah,RMC,Fred Bennion,W,3,0
+1912-11-16,Colorado,RMC,Fred Folsom,A,Kansas State,Ind,Guy Lowman,L,6,14
+1912-11-23,Colorado,RMC,Fred Folsom,H,Colorado Mines,RMC,William Johnston,L,3,24
+1912-11-28,Colorado,RMC,Fred Folsom,H,Oklahoma,Ind,Bennie Owen,W,14,12
+1912-10-05,Utah State,Ind,,A,Colorado,RMC,Fred Folsom,L,3,16
+1912-10-12,Utah State,Ind,,A,Colorado Mines,RMC,William Johnston,L,0,10
+1912-11-02,Utah State,Ind,,H,Wyoming,RMC,Leon Excelby,W,53,0
+1912-11-28,Utah State,Ind,,A,Utah,RMC,Fred Bennion,T,7,7
+1912-10-19,Missouri,MVIAA,,H,Iowa State,MVIAA,,L,0,29
+1912-10-25,Missouri,MVIAA,,A,Oklahoma,Ind,Bennie Owen,W,14,0
+1912-11-02,Missouri,MVIAA,,H,Nebraska,MVIAA,Jumbo Stiehm,L,0,7
+1912-11-09,Missouri,MVIAA,,A,Drake,MVIAA,John Griffith,W,17,14
+1912-11-16,Missouri,MVIAA,,H,Washington (MO),MVIAA,Francis Cayou,W,33,0
+1912-11-23,Missouri,MVIAA,,A,Kansas,MVIAA,Arthur Mosse,L,3,12
+1912-10-05,Denver,RMC,,A,Colorado State,RMC,Harry Hughes,L,13,14
+1912-10-19,Denver,RMC,,A,Utah,RMC,Fred Bennion,L,0,66
+1912-11-16,Denver,RMC,,H,Colorado Mines,RMC,William Johnston,L,0,10
+1912-11-28,Denver,RMC,,A,Colorado College,RMC,C.J. Rothget,W,20,3
+1912-09-21,Washington & Jefferson,Ind,Bob Folwell,A,Cornell,Ind,,L,0,3
+1912-10-05,Washington & Jefferson,Ind,Bob Folwell,H,Carlisle,Ind,Pop Warner,T,0,0
+1912-10-12,Washington & Jefferson,Ind,Bob Folwell,A,Penn State,Ind,Bill Hollenback,L,0,30
+1912-10-26,Washington & Jefferson,Ind,Bob Folwell,A,Yale,Ind,,L,3,13
+1912-11-16,Washington & Jefferson,Ind,Bob Folwell,A,Pitt,Ind,Joseph Thompson,W,13,0
+1912-11-28,Washington & Jefferson,Ind,Bob Folwell,H,Bucknell,Ind,By Dickson,W,22,7
+1912-10-04,Mississippi College,Ind,Dale Chadwick,A,Mississippi State,Ind,William Chadwick,L,0,19
+1912-10-11,Mississippi College,Ind,Dale Chadwick,A,LSU,Ind,Pat Dwyer,L,0,45
+1912-10-19,Mississippi College,Ind,Dale Chadwick,A,Tulane,Ind,A.A. Mason,L,6,19
+1912-11-01,Mississippi College,Ind,Dale Chadwick,A,Ole Miss,Ind,Leo DeTray,L,0,12
+1912-11-29,Mississippi College,Ind,Dale Chadwick,H,Samford,Ind,Lonnie Noojin,W,20,0
+1912-10-12,Wisconsin,Western,William Juneau,H,Northwestern,Western,Charles Hammett,W,56,0
+1912-10-19,Wisconsin,Western,William Juneau,H,Purdue,Western,M.H. Horr,W,41,0
+1912-11-02,Wisconsin,Western,William Juneau,H,Chicago,Western,Amos Alonzo Stagg,W,30,12
+1912-11-09,Wisconsin,Western,William Juneau,H,Arkansas,Ind,Hugo Bezdek,W,64,7
+1912-11-16,Wisconsin,Western,William Juneau,A,Minnesota,Western,Henry Williams,W,14,0
+1912-11-23,Wisconsin,Western,William Juneau,A,Iowa,Western,Jesse Hawley,W,28,10
+1912-10-12,Bucknell,Ind,By Dickson,A,Pitt,Ind,Joseph Thompson,W,6,0
+1912-10-26,Bucknell,Ind,By Dickson,A,Cornell,Ind,,L,0,14
+1912-11-02,Bucknell,Ind,By Dickson,A,Lafayette,Ind,George McCaa,T,0,0
+1912-11-09,Bucknell,Ind,By Dickson,A,Navy,Ind,,W,17,7
+1912-11-16,Bucknell,Ind,By Dickson,A,Swarthmore,Ind,George Brooke,L,13,14
+1912-11-28,Bucknell,Ind,By Dickson,A,Washington & Jefferson,Ind,Bob Folwell,L,7,22
+1912-10-05,Colorado State,RMC,Harry Hughes,H,Denver,RMC,,W,14,13
+1912-10-12,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Fred Folsom,W,21,0
+1912-10-19,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,C.J. Rothget,L,0,13
+1912-11-02,Colorado State,RMC,Harry Hughes,A,Colorado Mines,RMC,William Johnston,L,0,14
+1912-11-28,Colorado State,RMC,Harry Hughes,A,Wyoming,RMC,Leon Excelby,W,33,0
+1912-10-18,Texas A&M,Ind,Charley Moran,H,Arkansas,Ind,Hugo Bezdek,W,27,0
+1912-11-09,Texas A&M,Ind,Charley Moran,H,Oklahoma,Ind,Bennie Owen,W,28,6
+1912-11-16,Texas A&M,Ind,Charley Moran,N,Mississippi State,Ind,William Chadwick,W,41,7
+1912-11-19,Texas A&M,Ind,Charley Moran,H,Tulane,Ind,A.A. Mason,W,41,0
+1912-11-20,Texas A&M,Ind,Charley Moran,H,Kansas State,Ind,Guy Lowman,L,10,13
+1912-11-28,Texas A&M,Ind,Charley Moran,N,Baylor,Ind,Ralph Glaze,W,53,0
+1912-10-05,Davidson,Ind,W.T. Cook,N,North Carolina,Ind,William Martin,L,0,13
+1912-10-26,Davidson,Ind,W.T. Cook,H,North Carolina State,Ind,,L,0,7
+1912-11-02,Davidson,Ind,W.T. Cook,A,Washington & Lee,Ind,J. Reilly,L,0,54
+1912-11-28,Davidson,Ind,W.T. Cook,N,Wake Forest,Ind,Frank Thompson,W,13,7
+1912-10-12,Washington (MO),MVIAA,Francis Cayou,A,Illinois,Western,Arthur Hall,L,0,13
+1912-11-02,Washington (MO),MVIAA,Francis Cayou,H,Drake,MVIAA,John Griffith,L,13,33
+1912-11-16,Washington (MO),MVIAA,Francis Cayou,A,Missouri,MVIAA,,L,0,33
+1912-11-23,Washington (MO),MVIAA,Francis Cayou,H,Arkansas,Ind,Hugo Bezdek,L,7,13
+1912-10-05,Chicago,Western,Amos Alonzo Stagg,H,Indiana,Western,James Sheldon,W,13,0
+1912-10-19,Chicago,Western,Amos Alonzo Stagg,H,Iowa,Western,Jesse Hawley,W,34,14
+1912-10-26,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,M.H. Horr,W,7,0
+1912-11-02,Chicago,Western,Amos Alonzo Stagg,A,Wisconsin,Western,William Juneau,L,12,30
+1912-11-09,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Charles Hammett,W,3,0
+1912-11-16,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Arthur Hall,W,10,0
+1912-11-23,Chicago,Western,Amos Alonzo Stagg,H,Minnesota,Western,Henry Williams,W,7,0
+1912-10-12,Colorado Mines,RMC,William Johnston,H,Utah State,Ind,,W,10,0
+1912-10-19,Colorado Mines,RMC,William Johnston,H,Wyoming,RMC,Leon Excelby,W,42,0
+1912-10-26,Colorado Mines,RMC,William Johnston,H,Utah,RMC,Fred Bennion,L,3,18
+1912-11-02,Colorado Mines,RMC,William Johnston,H,Colorado State,RMC,Harry Hughes,W,14,0
+1912-11-09,Colorado Mines,RMC,William Johnston,A,Colorado College,RMC,C.J. Rothget,W,17,7
+1912-11-16,Colorado Mines,RMC,William Johnston,A,Denver,RMC,,W,10,0
+1912-11-23,Colorado Mines,RMC,William Johnston,A,Colorado,RMC,Fred Folsom,W,24,3
+1912-10-19,North Carolina State,Ind,,H,Georgetown,Ind,Frank Gargan,L,0,48
+1912-10-26,North Carolina State,Ind,,A,Davidson,Ind,W.T. Cook,W,7,0
+1912-11-02,North Carolina State,Ind,,A,Wake Forest,Ind,Frank Thompson,W,12,0
+1912-11-16,North Carolina State,Ind,,A,Navy,Ind,,L,0,41
+1912-11-28,North Carolina State,Ind,,N,Washington & Lee,Ind,J. Reilly,L,6,16
+1912-09-28,Colgate,Ind,Frank Sommers,A,Cornell,Ind,,W,13,7
+1912-10-26,Colgate,Ind,Frank Sommers,A,Army,Ind,Ernest Graves,L,7,18
+1912-11-16,Colgate,Ind,Frank Sommers,A,Syracuse,Ind,,W,7,0
+1912-10-05,Swarthmore,Ind,George Brooke,A,Lafayette,Ind,George McCaa,W,22,0
+1912-10-12,Swarthmore,Ind,George Brooke,A,Pennsylvania,Ind,,W,6,3
+1912-10-19,Swarthmore,Ind,George Brooke,A,Navy,Ind,,W,21,6
+1912-10-26,Swarthmore,Ind,George Brooke,H,Villanova,Ind,,W,27,0
+1912-11-09,Swarthmore,Ind,George Brooke,H,Lehigh,Ind,Tom Keady,L,0,3
+1912-11-16,Swarthmore,Ind,George Brooke,H,Bucknell,Ind,By Dickson,W,14,13
+1912-10-05,Minnesota,Western,Henry Williams,H,Iowa State,MVIAA,,W,5,0
+1912-10-19,Minnesota,Western,Henry Williams,H,Nebraska,MVIAA,Jumbo Stiehm,W,13,0
+1912-10-26,Minnesota,Western,Henry Williams,H,Iowa,Western,Jesse Hawley,W,56,7
+1912-11-02,Minnesota,Western,Henry Williams,H,Illinois,Western,Arthur Hall,W,13,0
+1912-11-16,Minnesota,Western,Henry Williams,H,Wisconsin,Western,William Juneau,L,0,14
+1912-11-23,Minnesota,Western,Henry Williams,A,Chicago,Western,Amos Alonzo Stagg,L,0,7
+1912-10-19,Ole Miss,Ind,Leo DeTray,A,LSU,Ind,Pat Dwyer,W,10,7
+1912-10-26,Ole Miss,Ind,Leo DeTray,A,Vanderbilt,Ind,Dan McGugin,L,0,24
+1912-11-01,Ole Miss,Ind,Leo DeTray,H,Mississippi College,Ind,Dale Chadwick,W,12,0
+1912-11-09,Ole Miss,Ind,Leo DeTray,A,Alabama,Ind,Tubby Graves,L,9,10
+1912-11-13,Ole Miss,Ind,Leo DeTray,A,Texas,Ind,Dave Allerdice,L,14,53
+1912-10-26,Sewanee,Ind,Harris Cope,N,Tennessee,Ind,Zora Clevenger,W,33,6
+1912-11-02,Sewanee,Ind,Harris Cope,A,Georgia,Ind,W.A. Cunningham,T,13,13
+1912-11-09,Sewanee,Ind,Harris Cope,A,Georgia Tech,Ind,John Heisman,W,7,0
+1912-11-16,Sewanee,Ind,Harris Cope,A,Alabama,Ind,Tubby Graves,T,6,6
+1912-11-28,Sewanee,Ind,Harris Cope,A,Vanderbilt,Ind,Dan McGugin,L,0,16
+1912-10-26,Michigan,Ind,Fielding Yost,A,Syracuse,Ind,,L,7,18
+1912-11-09,Michigan,Ind,Fielding Yost,A,Pennsylvania,Ind,,L,21,27
+1912-11-16,Michigan,Ind,Fielding Yost,H,Cornell,Ind,,W,20,7
+1912-10-12,Navy,Ind,,H,Lehigh,Ind,Tom Keady,L,0,14
+1912-10-19,Navy,Ind,,H,Swarthmore,Ind,George Brooke,L,6,21
+1912-10-26,Navy,Ind,,H,Pitt,Ind,Joseph Thompson,W,13,6
+1912-11-09,Navy,Ind,,H,Bucknell,Ind,By Dickson,L,7,17
+1912-11-16,Navy,Ind,,H,North Carolina State,Ind,,W,41,0
+1912-11-30,Navy,Ind,,N,Army,Ind,Ernest Graves,W,6,0
+1912-10-05,Lafayette,Ind,George McCaa,H,Swarthmore,Ind,George Brooke,L,0,22
+1912-10-12,Lafayette,Ind,George McCaa,A,Yale,Ind,,L,0,16
+1912-10-26,Lafayette,Ind,George McCaa,A,Pennsylvania,Ind,,W,7,3
+1912-11-02,Lafayette,Ind,George McCaa,H,Bucknell,Ind,By Dickson,T,0,0
+1912-11-09,Lafayette,Ind,George McCaa,H,Syracuse,Ind,,L,7,30
+1912-11-16,Lafayette,Ind,George McCaa,A,Brown,Ind,Edward Robinson,L,7,21
+1912-11-23,Lafayette,Ind,George McCaa,H,Lehigh,Ind,Tom Keady,L,0,10
+1912-10-19,Tulane,Ind,A.A. Mason,H,Mississippi College,Ind,Dale Chadwick,W,19,6
+1912-10-26,Tulane,Ind,A.A. Mason,H,Samford,Ind,Lonnie Noojin,W,35,0
+1912-11-02,Tulane,Ind,A.A. Mason,H,Alabama,Ind,Tubby Graves,L,0,7
+1912-11-09,Tulane,Ind,A.A. Mason,H,Mississippi State,Ind,William Chadwick,W,27,24
+1912-11-19,Tulane,Ind,A.A. Mason,A,Texas A&M,Ind,Charley Moran,L,0,41
+1912-11-28,Tulane,Ind,A.A. Mason,H,LSU,Ind,Pat Dwyer,L,3,21
+1912-09-21,Cornell,Ind,,H,Washington & Jefferson,Ind,Bob Folwell,W,3,0
+1912-09-28,Cornell,Ind,,H,Colgate,Ind,Frank Sommers,L,7,13
+1912-10-19,Cornell,Ind,,H,Penn State,Ind,Bill Hollenback,L,6,29
+1912-10-26,Cornell,Ind,,H,Bucknell,Ind,By Dickson,W,14,0
+1912-11-09,Cornell,Ind,,H,Dartmouth,Ind,Frank Cavanaugh,L,0,24
+1912-11-16,Cornell,Ind,,A,Michigan,Ind,Fielding Yost,L,7,20
+1912-11-28,Cornell,Ind,,A,Pennsylvania,Ind,,L,2,7
+1912-10-12,Pitt,Ind,Joseph Thompson,H,Bucknell,Ind,By Dickson,L,0,6
+1912-10-19,Pitt,Ind,Joseph Thompson,H,Carlisle,Ind,Pop Warner,L,8,45
+1912-10-26,Pitt,Ind,Joseph Thompson,A,Navy,Ind,,L,6,13
+1912-11-16,Pitt,Ind,Joseph Thompson,H,Washington & Jefferson,Ind,Bob Folwell,L,0,13
+1912-11-28,Pitt,Ind,Joseph Thompson,H,Penn State,Ind,Bill Hollenback,L,0,38
+1912-10-19,Drake,MVIAA,John Griffith,H,Kansas,MVIAA,Arthur Mosse,W,6,0
+1912-11-02,Drake,MVIAA,John Griffith,A,Washington (MO),MVIAA,Francis Cayou,W,33,13
+1912-11-09,Drake,MVIAA,John Griffith,H,Missouri,MVIAA,,L,14,17
+1912-11-23,Drake,MVIAA,John Griffith,H,Iowa State,MVIAA,,L,3,23
+1912-10-05,Mercer,Ind,,N,Auburn,Ind,Mike Donahue,L,0,56
+1912-10-12,Mercer,Ind,,H,Samford,Ind,Lonnie Noojin,W,36,0
+1912-10-19,Mercer,Ind,,H,Georgia Tech,Ind,John Heisman,L,6,16
+1912-11-09,Mercer,Ind,,H,Tennessee,Ind,Zora Clevenger,W,27,14
+1912-11-16,Mercer,Ind,,H,Clemson,Ind,Frank Dobson,L,13,22
+1912-11-28,Mercer,Ind,,N,Florida,Ind,G.E. Pyle,T,0,0

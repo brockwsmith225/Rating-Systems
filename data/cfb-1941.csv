@@ -1,0 +1,939 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1941-09-27,North Carolina,Southern,Raymond Wolf,H,South Carolina,Southern,Rex Enright,L,7,13
+1941-10-04,North Carolina,Southern,Raymond Wolf,A,Davidson,Southern,Gene McEver,W,20,0
+1941-10-11,North Carolina,Southern,Raymond Wolf,H,Fordham,Ind,Jimmy Crowley,L,14,27
+1941-10-18,North Carolina,Southern,Raymond Wolf,A,Tulane,SEC,Red Dawson,L,6,52
+1941-10-25,North Carolina,Southern,Raymond Wolf,A,Wake Forest,Southern,D.C. Walker,L,0,13
+1941-11-01,North Carolina,Southern,Raymond Wolf,H,North Carolina State,Southern,,L,7,13
+1941-11-08,North Carolina,Southern,Raymond Wolf,A,Richmond,Southern,Glenn Thistlethwaite,W,27,0
+1941-11-15,North Carolina,Southern,Raymond Wolf,A,Duke,Southern,Wallace Wade,L,0,20
+1941-11-20,North Carolina,Southern,Raymond Wolf,H,Virginia,Ind,Frank Murray,L,7,28
+1941-09-27,Indiana,Western,Bo McMillin,H,Detroit Mercy,Ind,Gus Dorais,L,7,14
+1941-10-04,Indiana,Western,Bo McMillin,A,Notre Dame,Ind,Frank Leahy,L,6,19
+1941-10-11,Indiana,Western,Bo McMillin,H,Texas Christian,SWC,Dutch Meyer,L,14,20
+1941-10-18,Indiana,Western,Bo McMillin,A,Nebraska,Big 6,Biff Jones,W,21,13
+1941-10-25,Indiana,Western,Bo McMillin,A,Wisconsin,Western,Harry Stuhldreher,L,25,27
+1941-11-01,Indiana,Western,Bo McMillin,A,Iowa,Western,Edward Anderson,L,7,13
+1941-11-08,Indiana,Western,Bo McMillin,A,Northwestern,Western,Pappy Waldorf,L,14,20
+1941-11-22,Indiana,Western,Bo McMillin,H,Purdue,Western,Mal Elward,W,7,0
+1941-09-26,Iowa State,Big 6,Ray Donels,A,Denver,MSAC,Cac Hubbard,W,7,6
+1941-10-04,Iowa State,Big 6,Ray Donels,H,Nebraska,Big 6,Biff Jones,L,0,14
+1941-10-18,Iowa State,Big 6,Ray Donels,H,Missouri,Big 6,Don Faurot,L,13,39
+1941-10-25,Iowa State,Big 6,Ray Donels,A,Kansas,Big 6,Gwinn Henry,L,0,13
+1941-11-08,Iowa State,Big 6,Ray Donels,A,Oklahoma,Big 6,Snorter Luster,L,0,55
+1941-11-15,Iowa State,Big 6,Ray Donels,A,Drake,MVC,Vee Green,L,13,14
+1941-11-22,Iowa State,Big 6,Ray Donels,H,Kansas State,Big 6,Hobbs Adams,T,12,12
+1941-11-29,Iowa State,Big 6,Ray Donels,A,Marquette,Ind,Tom Stidham,L,13,20
+1941-10-04,Fordham,Ind,Jimmy Crowley,H,SMU,SWC,Madison Bell,W,16,10
+1941-10-11,Fordham,Ind,Jimmy Crowley,A,North Carolina,Southern,Raymond Wolf,W,27,14
+1941-10-18,Fordham,Ind,Jimmy Crowley,H,West Virginia,Ind,,W,27,0
+1941-10-25,Fordham,Ind,Jimmy Crowley,H,Texas Christian,SWC,Dutch Meyer,W,28,14
+1941-11-01,Fordham,Ind,Jimmy Crowley,H,Purdue,Western,Mal Elward,W,17,0
+1941-11-08,Fordham,Ind,Jimmy Crowley,A,Pitt,Ind,Charles Bowser,L,0,13
+1941-11-22,Fordham,Ind,Jimmy Crowley,H,Saint Mary's (CA),Ind,Red Strader,W,35,7
+1941-11-29,Fordham,Ind,Jimmy Crowley,N,New York University,Ind,Mal Stevens,W,30,9
+1942-01-01,Fordham,Ind,Jimmy Crowley,N,Missouri,Big 6,Don Faurot,W,2,0
+1941-09-20,Arizona State,BIAA,Dixie Howell,A,Gonzaga,Ind,Puggy Hunton,W,6,0
+1941-10-04,Arizona State,BIAA,Dixie Howell,H,West Texas A&M,BIAA,Jack Curtice,L,7,13
+1941-10-11,Arizona State,BIAA,Dixie Howell,H,New Mexico,BIAA,Ted Shipkey,T,0,0
+1941-10-18,Arizona State,BIAA,Dixie Howell,A,New Mexico State,BIAA,Julius Johnston,W,19,14
+1941-10-25,Arizona State,BIAA,Dixie Howell,H,Arizona,BIAA,Miles Casteel,L,7,20
+1941-11-08,Arizona State,BIAA,Dixie Howell,H,UTEP,BIAA,Mack Saxon,L,0,28
+1941-11-15,Arizona State,BIAA,Dixie Howell,H,Northern Arizona,BIAA,Maurice Moulder,W,33,0
+1941-12-06,Arizona State,BIAA,Dixie Howell,H,Hardin-Simmons,BIAA,Warren Woodson,L,0,20
+1941-09-20,Furman,Southern,,A,Tennessee,SEC,John Barnhill,L,6,32
+1941-10-04,Furman,Southern,,H,Wake Forest,Southern,D.C. Walker,L,13,52
+1941-10-11,Furman,Southern,,H,North Carolina State,Southern,,T,0,0
+1941-10-18,Furman,Southern,,A,Citadel,Southern,Bo Rowland,T,13,13
+1941-10-25,Furman,Southern,,N,Davidson,Southern,Gene McEver,W,31,13
+1941-11-08,Furman,Southern,,H,George Washington,Southern,Bill Reinhard,W,13,6
+1941-11-15,Furman,Southern,,A,South Carolina,Southern,Rex Enright,L,7,26
+1941-11-22,Furman,Southern,,H,Clemson,Southern,Frank Howard,L,6,34
+1941-09-27,Utah,MSAC,Ike Armstrong,A,Idaho,PCC,Francis Schmidt,W,26,7
+1941-10-11,Utah,MSAC,Ike Armstrong,H,Wyoming,MSAC,Bunny Oakes,W,60,6
+1941-10-18,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,T,6,6
+1941-10-25,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,T,0,0
+1941-11-01,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Jim Yeager,W,46,6
+1941-11-15,Utah,MSAC,Ike Armstrong,A,Colorado State,MSAC,Harry Hughes,W,26,13
+1941-11-26,Utah,MSAC,Ike Armstrong,H,Utah State,MSAC,E. Lowell Romney,W,33,21
+1941-12-06,Utah,MSAC,Ike Armstrong,A,Arizona,BIAA,Miles Casteel,W,12,6
+1941-10-11,Villanova,Ind,,A,Florida,SEC,Tom Lieb,W,6,0
+1941-10-18,Villanova,Ind,,H,Baylor,SWC,Frank Kimbrough,W,14,6
+1941-10-25,Villanova,Ind,,A,Manhattan,Ind,Herb Kopf,L,6,9
+1941-11-01,Villanova,Ind,,A,Duquesne,Ind,,L,0,7
+1941-11-08,Villanova,Ind,,A,Temple,Ind,Ray Morrison,L,13,14
+1941-11-16,Villanova,Ind,,H,Detroit Mercy,Ind,Gus Dorais,W,7,6
+1941-11-22,Villanova,Ind,,H,Auburn,SEC,Jack Meagher,L,0,13
+1941-09-26,Washington & Lee,Southern,Riley Smith,H,Sewanee,Ind,Jenks Gillem,L,19,20
+1941-10-04,Washington & Lee,Southern,Riley Smith,H,Kentucky,SEC,A.D. Kirwan,L,0,7
+1941-10-10,Washington & Lee,Southern,Riley Smith,A,George Washington,Southern,Bill Reinhard,T,0,0
+1941-10-18,Washington & Lee,Southern,Riley Smith,A,Richmond,Southern,Glenn Thistlethwaite,W,21,0
+1941-10-25,Washington & Lee,Southern,Riley Smith,N,Virginia Tech,Southern,Jimmy Kitts,L,3,13
+1941-11-01,Washington & Lee,Southern,Riley Smith,N,West Virginia,Ind,,L,6,7
+1941-11-08,Washington & Lee,Southern,Riley Smith,A,Virginia,Ind,Frank Murray,L,7,27
+1941-11-15,Washington & Lee,Southern,Riley Smith,H,Davidson,Southern,Gene McEver,T,13,13
+1941-11-20,Washington & Lee,Southern,Riley Smith,A,Maryland,Southern,Jack Faber,L,0,6
+1941-10-04,Syracuse,Ind,Ossie Solem,A,Cornell,Ind,,L,0,6
+1941-10-11,Syracuse,Ind,Ossie Solem,H,Holy Cross,Ind,Joseph Sheeketski,W,6,0
+1941-10-18,Syracuse,Ind,Ossie Solem,A,New York University,Ind,Mal Stevens,W,31,0
+1941-11-01,Syracuse,Ind,Ossie Solem,A,Wisconsin,Western,Harry Stuhldreher,W,27,20
+1941-11-08,Syracuse,Ind,Ossie Solem,A,Penn State,Ind,Bob Higgins,L,19,34
+1941-11-15,Syracuse,Ind,Ossie Solem,H,Colgate,Ind,Andrew Kerr,T,19,19
+1941-09-27,Arizona,BIAA,Miles Casteel,A,Notre Dame,Ind,Frank Leahy,L,7,38
+1941-10-04,Arizona,BIAA,Miles Casteel,H,New Mexico State,BIAA,Julius Johnston,W,47,0
+1941-10-18,Arizona,BIAA,Miles Casteel,A,New Mexico,BIAA,Ted Shipkey,W,31,6
+1941-10-25,Arizona,BIAA,Miles Casteel,A,Arizona State,BIAA,Dixie Howell,W,20,7
+1941-11-01,Arizona,BIAA,Miles Casteel,H,UTEP,BIAA,Mack Saxon,W,33,14
+1941-11-08,Arizona,BIAA,Miles Casteel,H,Northern Arizona,BIAA,Maurice Moulder,W,41,0
+1941-11-15,Arizona,BIAA,Miles Casteel,A,Oklahoma State,MVC,Jim Lookabaugh,L,14,41
+1941-11-29,Arizona,BIAA,Miles Casteel,H,Kansas State,Big 6,Hobbs Adams,W,28,21
+1941-12-06,Arizona,BIAA,Miles Casteel,H,Utah,MSAC,Ike Armstrong,L,6,12
+1941-09-26,Georgetown,Ind,Jack Hagerty,H,Ole Miss,SEC,Harry Mehre,W,16,6
+1941-10-04,Georgetown,Ind,Jack Hagerty,A,Virginia Tech,Southern,Jimmy Kitts,L,0,3
+1941-10-10,Georgetown,Ind,Jack Hagerty,A,Temple,Ind,Ray Morrison,L,7,17
+1941-10-18,Georgetown,Ind,Jack Hagerty,A,George Washington,Southern,Bill Reinhard,W,25,0
+1941-10-25,Georgetown,Ind,Jack Hagerty,A,Boston College,Ind,Denny Myers,L,6,14
+1941-11-08,Georgetown,Ind,Jack Hagerty,H,Maryland,Southern,Jack Faber,W,26,0
+1941-11-15,Georgetown,Ind,Jack Hagerty,H,North Carolina State,Southern,,W,20,7
+1941-11-20,Georgetown,Ind,Jack Hagerty,A,Manhattan,Ind,Herb Kopf,W,7,0
+1941-09-26,Montana,PCC,Doug Fessenden,A,Brigham Young,MSAC,Edwin Kimball,W,20,7
+1941-10-10,Montana,PCC,Doug Fessenden,A,UCLA,PCC,Babe Horrell,L,7,14
+1941-10-18,Montana,PCC,Doug Fessenden,A,Gonzaga,Ind,Puggy Hunton,W,13,6
+1941-11-01,Montana,PCC,Doug Fessenden,A,Washington,PCC,James Phelan,L,0,21
+1941-11-15,Montana,PCC,Doug Fessenden,A,Idaho,PCC,Francis Schmidt,W,16,0
+1941-11-22,Montana,PCC,Doug Fessenden,A,Oregon State,PCC,Lon Stiner,L,0,27
+1941-10-04,Penn State,Ind,Bob Higgins,A,Colgate,Ind,Andrew Kerr,L,0,7
+1941-10-18,Penn State,Ind,Bob Higgins,A,Temple,Ind,Ray Morrison,L,0,14
+1941-10-31,Penn State,Ind,Bob Higgins,A,New York University,Ind,Mal Stevens,W,42,0
+1941-11-08,Penn State,Ind,Bob Higgins,H,Syracuse,Ind,Ossie Solem,W,34,19
+1941-11-15,Penn State,Ind,Bob Higgins,H,West Virginia,Ind,,W,7,0
+1941-11-22,Penn State,Ind,Bob Higgins,A,Pitt,Ind,Charles Bowser,W,31,7
+1941-11-29,Penn State,Ind,Bob Higgins,A,South Carolina,Southern,Rex Enright,W,19,12
+1941-10-11,Princeton,Ind,Tad Wieman,H,Columbia,Ind,Lou Little,L,0,21
+1941-10-18,Princeton,Ind,Tad Wieman,H,Pennsylvania,Ind,George Munger,L,0,23
+1941-10-25,Princeton,Ind,Tad Wieman,A,Vanderbilt,SEC,Red Sanders,L,7,46
+1941-11-01,Princeton,Ind,Tad Wieman,H,Harvard,Ind,,L,4,6
+1941-11-08,Princeton,Ind,Tad Wieman,H,Dartmouth,Ind,,L,13,20
+1941-11-15,Princeton,Ind,Tad Wieman,A,Yale,Ind,Spike Nelson,W,20,6
+1941-11-22,Princeton,Ind,Tad Wieman,H,Navy,Ind,Swede Larson,L,0,23
+1941-09-27,Vanderbilt,SEC,Red Sanders,A,Purdue,Western,Mal Elward,W,3,0
+1941-10-11,Vanderbilt,SEC,Red Sanders,A,Kentucky,SEC,A.D. Kirwan,W,39,15
+1941-10-18,Vanderbilt,SEC,Red Sanders,H,Georgia Tech,SEC,William Alexander,W,14,7
+1941-10-25,Vanderbilt,SEC,Red Sanders,H,Princeton,Ind,Tad Wieman,W,46,7
+1941-11-01,Vanderbilt,SEC,Red Sanders,H,Tulane,SEC,Red Dawson,L,14,34
+1941-11-08,Vanderbilt,SEC,Red Sanders,H,Sewanee,Ind,Jenks Gillem,W,20,0
+1941-11-22,Vanderbilt,SEC,Red Sanders,H,Alabama,SEC,Frank Thomas,W,7,0
+1941-11-29,Vanderbilt,SEC,Red Sanders,A,Tennessee,SEC,John Barnhill,L,7,26
+1941-09-27,Kentucky,SEC,A.D. Kirwan,H,Virginia Tech,Southern,Jimmy Kitts,W,37,14
+1941-10-04,Kentucky,SEC,A.D. Kirwan,A,Washington & Lee,Southern,Riley Smith,W,7,0
+1941-10-11,Kentucky,SEC,A.D. Kirwan,H,Vanderbilt,SEC,Red Sanders,L,15,39
+1941-10-25,Kentucky,SEC,A.D. Kirwan,H,West Virginia,Ind,,W,18,6
+1941-11-01,Kentucky,SEC,A.D. Kirwan,A,Alabama,SEC,Frank Thomas,L,0,30
+1941-11-08,Kentucky,SEC,A.D. Kirwan,A,Georgia Tech,SEC,William Alexander,L,13,20
+1941-11-22,Kentucky,SEC,A.D. Kirwan,H,Tennessee,SEC,John Barnhill,L,7,20
+1941-09-27,California,PCC,Stub Allison,H,Saint Mary's (CA),Ind,Red Strader,W,31,0
+1941-10-04,California,PCC,Stub Allison,A,Washington State,PCC,O.E. Hollingbery,L,6,13
+1941-10-11,California,PCC,Stub Allison,H,Santa Clara,Ind,Buck Shaw,L,0,13
+1941-10-18,California,PCC,Stub Allison,A,Oregon,PCC,Tex Oliver,L,7,19
+1941-10-25,California,PCC,Stub Allison,H,USC,PCC,Sam Barry,W,14,0
+1941-11-01,California,PCC,Stub Allison,A,UCLA,PCC,Babe Horrell,W,27,7
+1941-11-08,California,PCC,Stub Allison,H,Washington,PCC,James Phelan,L,6,13
+1941-11-15,California,PCC,Stub Allison,H,Oregon State,PCC,Lon Stiner,L,0,6
+1941-11-29,California,PCC,Stub Allison,A,Stanford,PCC,Clark Shaughnessy,W,16,0
+1941-09-27,Florida,SEC,Tom Lieb,A,Mississippi State,SEC,Allyn McKeen,L,0,6
+1941-10-11,Florida,SEC,Tom Lieb,H,Villanova,Ind,,L,0,6
+1941-10-18,Florida,SEC,Tom Lieb,A,Maryland,Southern,Jack Faber,L,12,13
+1941-10-25,Florida,SEC,Tom Lieb,A,LSU,SEC,Bernie Moore,L,7,10
+1941-11-08,Florida,SEC,Tom Lieb,N,Georgia,SEC,Wallace Butts,L,3,19
+1941-11-15,Florida,SEC,Tom Lieb,A,Miami (FL),Ind,Jack Harding,W,14,0
+1941-11-22,Florida,SEC,Tom Lieb,H,Georgia Tech,SEC,William Alexander,W,14,7
+1941-12-20,Florida,SEC,Tom Lieb,H,UCLA,PCC,Babe Horrell,L,27,30
+1941-09-20,Gonzaga,Ind,Puggy Hunton,H,Arizona State,BIAA,Dixie Howell,L,0,6
+1941-10-10,Gonzaga,Ind,Puggy Hunton,H,Idaho,PCC,Francis Schmidt,L,7,21
+1941-10-18,Gonzaga,Ind,Puggy Hunton,H,Montana,PCC,Doug Fessenden,L,6,13
+1941-11-01,Gonzaga,Ind,Puggy Hunton,H,Saint Mary's (CA),Ind,Red Strader,L,0,26
+1941-11-22,Gonzaga,Ind,Puggy Hunton,H,Washington State,PCC,O.E. Hollingbery,L,0,59
+1941-09-27,Stanford,PCC,Clark Shaughnessy,H,Oregon,PCC,Tex Oliver,W,19,15
+1941-10-04,Stanford,PCC,Clark Shaughnessy,H,UCLA,PCC,Babe Horrell,W,33,0
+1941-10-11,Stanford,PCC,Clark Shaughnessy,A,Oregon State,PCC,Lon Stiner,L,0,10
+1941-10-18,Stanford,PCC,Clark Shaughnessy,H,San Francisco,Ind,Jeff Cravath,W,42,26
+1941-10-25,Stanford,PCC,Clark Shaughnessy,A,Washington,PCC,James Phelan,W,13,7
+1941-11-01,Stanford,PCC,Clark Shaughnessy,H,Santa Clara,Ind,Buck Shaw,W,27,7
+1941-11-08,Stanford,PCC,Clark Shaughnessy,A,USC,PCC,Sam Barry,W,13,0
+1941-11-15,Stanford,PCC,Clark Shaughnessy,H,Washington State,PCC,O.E. Hollingbery,L,13,14
+1941-11-29,Stanford,PCC,Clark Shaughnessy,H,California,PCC,Stub Allison,L,0,16
+1941-09-26,Creighton,MVC,Skip Palrang,H,Centenary (LA),Ind,Jake Hanna,W,32,20
+1941-10-03,Creighton,MVC,Skip Palrang,H,Saint Louis,MVC,,W,18,8
+1941-10-11,Creighton,MVC,Skip Palrang,A,Tulsa,MVC,Henry Frnka,L,7,19
+1941-10-18,Creighton,MVC,Skip Palrang,A,Washington (MO),MVC,Frank Loebs,W,14,13
+1941-10-25,Creighton,MVC,Skip Palrang,H,Drake,MVC,Vee Green,W,12,7
+1941-11-01,Creighton,MVC,Skip Palrang,A,Oklahoma State,MVC,Jim Lookabaugh,L,6,13
+1941-11-08,Creighton,MVC,Skip Palrang,A,Texas Tech,BIAA,,L,6,13
+1941-11-16,Creighton,MVC,Skip Palrang,A,Loyola Marymount,Ind,Marty Brill,L,7,32
+1941-11-23,Creighton,MVC,Skip Palrang,H,Detroit Mercy,Ind,Gus Dorais,L,0,28
+1941-09-26,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,Babe Horrell,L,6,7
+1941-10-04,Washington State,PCC,O.E. Hollingbery,H,California,PCC,Stub Allison,W,13,6
+1941-10-11,Washington State,PCC,O.E. Hollingbery,H,Washington,PCC,James Phelan,L,13,23
+1941-10-18,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Sam Barry,L,6,7
+1941-10-25,Washington State,PCC,O.E. Hollingbery,H,Oregon State,PCC,Lon Stiner,W,7,0
+1941-11-01,Washington State,PCC,O.E. Hollingbery,A,Oregon,PCC,Tex Oliver,W,13,0
+1941-11-08,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Francis Schmidt,W,26,0
+1941-11-15,Washington State,PCC,O.E. Hollingbery,A,Stanford,PCC,Clark Shaughnessy,W,14,13
+1941-11-22,Washington State,PCC,O.E. Hollingbery,A,Gonzaga,Ind,Puggy Hunton,W,59,0
+1941-12-06,Washington State,PCC,O.E. Hollingbery,H,Texas A&M,SWC,Homer Norton,L,0,7
+1941-10-11,Illinois,Western,Robert Zuppke,A,Minnesota,Western,Bernie Bierman,L,6,34
+1941-10-18,Illinois,Western,Robert Zuppke,H,Drake,MVC,Vee Green,W,40,0
+1941-10-25,Illinois,Western,Robert Zuppke,A,Notre Dame,Ind,Frank Leahy,L,14,49
+1941-11-01,Illinois,Western,Robert Zuppke,H,Michigan,Western,Fritz Crisler,L,0,20
+1941-11-08,Illinois,Western,Robert Zuppke,H,Iowa,Western,Edward Anderson,L,0,21
+1941-11-15,Illinois,Western,Robert Zuppke,A,Ohio State,Western,Paul Brown,L,7,12
+1941-11-22,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Pappy Waldorf,L,0,27
+1941-09-27,Baylor,SWC,Frank Kimbrough,H,Hardin-Simmons,BIAA,Warren Woodson,W,20,0
+1941-10-04,Baylor,SWC,Frank Kimbrough,A,Denver,MSAC,Cac Hubbard,W,14,0
+1941-10-11,Baylor,SWC,Frank Kimbrough,H,Arkansas,SWC,Fred Thomsen,W,20,7
+1941-10-18,Baylor,SWC,Frank Kimbrough,A,Villanova,Ind,,L,6,14
+1941-10-25,Baylor,SWC,Frank Kimbrough,A,Texas A&M,SWC,Homer Norton,L,0,48
+1941-11-01,Baylor,SWC,Frank Kimbrough,H,Texas Christian,SWC,Dutch Meyer,L,12,23
+1941-11-08,Baylor,SWC,Frank Kimbrough,H,Texas,SWC,Dana Bible,T,7,7
+1941-11-15,Baylor,SWC,Frank Kimbrough,A,Tulsa,MVC,Henry Frnka,L,13,20
+1941-11-22,Baylor,SWC,Frank Kimbrough,A,SMU,SWC,Madison Bell,L,0,14
+1941-11-29,Baylor,SWC,Frank Kimbrough,A,Rice,SWC,Jess Neely,L,14,28
+1941-10-03,Manhattan,Ind,Herb Kopf,H,George Washington,Southern,Bill Reinhard,W,23,0
+1941-10-10,Manhattan,Ind,Herb Kopf,H,Duquesne,Ind,,L,7,26
+1941-10-18,Manhattan,Ind,Herb Kopf,A,Boston College,Ind,Denny Myers,L,13,26
+1941-10-25,Manhattan,Ind,Herb Kopf,H,Villanova,Ind,,W,9,6
+1941-11-01,Manhattan,Ind,Herb Kopf,A,Detroit Mercy,Ind,Gus Dorais,L,0,19
+1941-11-15,Manhattan,Ind,Herb Kopf,A,Holy Cross,Ind,Joseph Sheeketski,T,13,13
+1941-11-20,Manhattan,Ind,Herb Kopf,H,Georgetown,Ind,Jack Hagerty,L,0,7
+1941-10-04,SMU,SWC,Madison Bell,A,Fordham,Ind,Jimmy Crowley,L,10,16
+1941-10-18,SMU,SWC,Madison Bell,A,Auburn,SEC,Jack Meagher,W,20,7
+1941-11-01,SMU,SWC,Madison Bell,H,Texas,SWC,Dana Bible,L,0,34
+1941-11-08,SMU,SWC,Madison Bell,A,Texas A&M,SWC,Homer Norton,L,10,21
+1941-11-15,SMU,SWC,Madison Bell,A,Arkansas,SWC,Fred Thomsen,W,14,7
+1941-11-22,SMU,SWC,Madison Bell,H,Baylor,SWC,Frank Kimbrough,W,14,0
+1941-11-29,SMU,SWC,Madison Bell,A,Texas Christian,SWC,Dutch Meyer,L,13,15
+1941-12-06,SMU,SWC,Madison Bell,H,Rice,SWC,Jess Neely,L,0,6
+1941-10-04,Georgia,SEC,Wallace Butts,H,South Carolina,Southern,Rex Enright,W,34,6
+1941-10-10,Georgia,SEC,Wallace Butts,H,Ole Miss,SEC,Harry Mehre,T,14,14
+1941-10-18,Georgia,SEC,Wallace Butts,A,Columbia,Ind,Lou Little,W,7,3
+1941-10-25,Georgia,SEC,Wallace Butts,A,Alabama,SEC,Frank Thomas,L,14,27
+1941-11-01,Georgia,SEC,Wallace Butts,N,Auburn,SEC,Jack Meagher,W,7,0
+1941-11-08,Georgia,SEC,Wallace Butts,N,Florida,SEC,Tom Lieb,W,19,3
+1941-11-22,Georgia,SEC,Wallace Butts,H,Dartmouth,Ind,,W,35,0
+1941-11-29,Georgia,SEC,Wallace Butts,A,Georgia Tech,SEC,William Alexander,W,21,0
+1942-01-01,Georgia,SEC,Wallace Butts,N,Texas Christian,SWC,Dutch Meyer,W,40,26
+1941-10-11,Maryland,Southern,Jack Faber,H,Duke,Southern,Wallace Wade,L,0,50
+1941-10-18,Maryland,Southern,Jack Faber,H,Florida,SEC,Tom Lieb,W,13,12
+1941-10-25,Maryland,Southern,Jack Faber,A,Pennsylvania,Ind,George Munger,L,6,55
+1941-11-08,Maryland,Southern,Jack Faber,A,Georgetown,Ind,Jack Hagerty,L,0,26
+1941-11-15,Maryland,Southern,Jack Faber,H,Virginia Military Institute,Southern,,L,0,27
+1941-11-20,Maryland,Southern,Jack Faber,H,Washington & Lee,Southern,Riley Smith,W,6,0
+1941-10-04,Virginia,Ind,Frank Murray,A,Yale,Ind,Spike Nelson,L,19,21
+1941-10-11,Virginia,Ind,Frank Murray,H,Richmond,Southern,Glenn Thistlethwaite,W,44,0
+1941-10-18,Virginia,Ind,Frank Murray,A,Virginia Military Institute,Southern,,W,27,7
+1941-11-01,Virginia,Ind,Frank Murray,N,Virginia Tech,Southern,Jimmy Kitts,W,34,0
+1941-11-08,Virginia,Ind,Frank Murray,H,Washington & Lee,Southern,Riley Smith,W,27,7
+1941-11-20,Virginia,Ind,Frank Murray,A,North Carolina,Southern,Raymond Wolf,W,28,7
+1941-09-27,Idaho,PCC,Francis Schmidt,H,Utah,MSAC,Ike Armstrong,L,7,26
+1941-10-03,Idaho,PCC,Francis Schmidt,A,Oregon,PCC,Tex Oliver,L,7,21
+1941-10-10,Idaho,PCC,Francis Schmidt,A,Gonzaga,Ind,Puggy Hunton,W,21,7
+1941-10-18,Idaho,PCC,Francis Schmidt,A,Utah State,MSAC,E. Lowell Romney,W,16,0
+1941-11-01,Idaho,PCC,Francis Schmidt,A,Oregon State,PCC,Lon Stiner,L,0,33
+1941-11-08,Idaho,PCC,Francis Schmidt,A,Washington State,PCC,O.E. Hollingbery,L,0,26
+1941-11-15,Idaho,PCC,Francis Schmidt,H,Montana,PCC,Doug Fessenden,L,0,16
+1941-09-26,Northern Arizona,BIAA,Maurice Moulder,A,New Mexico,BIAA,Ted Shipkey,L,6,12
+1941-10-25,Northern Arizona,BIAA,Maurice Moulder,H,West Texas A&M,BIAA,Jack Curtice,L,0,27
+1941-11-01,Northern Arizona,BIAA,Maurice Moulder,H,New Mexico State,BIAA,Julius Johnston,W,27,7
+1941-11-08,Northern Arizona,BIAA,Maurice Moulder,A,Arizona,BIAA,Miles Casteel,L,0,41
+1941-11-15,Northern Arizona,BIAA,Maurice Moulder,A,Arizona State,BIAA,Dixie Howell,L,0,33
+1941-11-29,Northern Arizona,BIAA,Maurice Moulder,A,UTEP,BIAA,Mack Saxon,L,20,23
+1941-10-04,Citadel,Southern,Bo Rowland,A,Army,Ind,Red Blaik,L,6,19
+1941-10-18,Citadel,Southern,Bo Rowland,H,Furman,Southern,,T,13,13
+1941-10-31,Citadel,Southern,Bo Rowland,N,South Carolina,Southern,Rex Enright,L,6,13
+1941-11-22,Citadel,Southern,Bo Rowland,N,Davidson,Southern,Gene McEver,L,14,24
+1941-11-29,Citadel,Southern,Bo Rowland,H,Sewanee,Ind,Jenks Gillem,W,28,0
+1941-09-27,Oklahoma,Big 6,Snorter Luster,H,Oklahoma State,MVC,Jim Lookabaugh,W,19,0
+1941-10-11,Oklahoma,Big 6,Snorter Luster,N,Texas,SWC,Dana Bible,L,7,40
+1941-10-18,Oklahoma,Big 6,Snorter Luster,A,Kansas State,Big 6,Hobbs Adams,W,16,0
+1941-10-25,Oklahoma,Big 6,Snorter Luster,H,Santa Clara,Ind,Buck Shaw,W,16,6
+1941-11-01,Oklahoma,Big 6,Snorter Luster,H,Kansas,Big 6,Gwinn Henry,W,38,0
+1941-11-08,Oklahoma,Big 6,Snorter Luster,H,Iowa State,Big 6,Ray Donels,W,55,0
+1941-11-15,Oklahoma,Big 6,Snorter Luster,A,Missouri,Big 6,Don Faurot,L,0,28
+1941-11-22,Oklahoma,Big 6,Snorter Luster,H,Marquette,Ind,Tom Stidham,W,61,14
+1941-11-29,Oklahoma,Big 6,Snorter Luster,A,Nebraska,Big 6,Biff Jones,L,6,7
+1941-09-27,Virginia Tech,Southern,Jimmy Kitts,A,Kentucky,SEC,A.D. Kirwan,L,14,37
+1941-10-04,Virginia Tech,Southern,Jimmy Kitts,H,Georgetown,Ind,Jack Hagerty,W,3,0
+1941-10-11,Virginia Tech,Southern,Jimmy Kitts,N,William & Mary,Southern,,L,7,16
+1941-10-18,Virginia Tech,Southern,Jimmy Kitts,A,Davidson,Southern,Gene McEver,W,16,0
+1941-10-25,Virginia Tech,Southern,Jimmy Kitts,N,Washington & Lee,Southern,Riley Smith,W,13,3
+1941-11-01,Virginia Tech,Southern,Jimmy Kitts,N,Virginia,Ind,Frank Murray,L,0,34
+1941-11-08,Virginia Tech,Southern,Jimmy Kitts,A,North Carolina State,Southern,,W,14,13
+1941-11-20,Virginia Tech,Southern,Jimmy Kitts,N,Virginia Military Institute,Southern,,L,10,15
+1941-11-29,Virginia Tech,Southern,Jimmy Kitts,H,Richmond,Southern,Glenn Thistlethwaite,W,13,0
+1941-10-04,Arkansas,SWC,Fred Thomsen,H,Texas Christian,SWC,Dutch Meyer,L,0,9
+1941-10-11,Arkansas,SWC,Fred Thomsen,A,Baylor,SWC,Frank Kimbrough,L,7,20
+1941-10-18,Arkansas,SWC,Fred Thomsen,A,Texas,SWC,Dana Bible,L,14,48
+1941-10-24,Arkansas,SWC,Fred Thomsen,A,Detroit Mercy,Ind,Gus Dorais,W,9,6
+1941-11-01,Arkansas,SWC,Fred Thomsen,H,Texas A&M,SWC,Homer Norton,L,0,7
+1941-11-08,Arkansas,SWC,Fred Thomsen,A,Rice,SWC,Jess Neely,L,12,21
+1941-11-15,Arkansas,SWC,Fred Thomsen,H,SMU,SWC,Madison Bell,L,7,14
+1941-11-22,Arkansas,SWC,Fred Thomsen,N,Ole Miss,SEC,Harry Mehre,L,0,18
+1941-11-27,Arkansas,SWC,Fred Thomsen,A,Tulsa,MVC,Henry Frnka,W,13,6
+1941-09-27,Clemson,Southern,Frank Howard,A,Virginia Military Institute,Southern,,W,36,7
+1941-10-04,Clemson,Southern,Frank Howard,N,North Carolina State,Southern,,W,27,6
+1941-10-11,Clemson,Southern,Frank Howard,A,Boston College,Ind,Denny Myers,W,26,13
+1941-10-23,Clemson,Southern,Frank Howard,A,South Carolina,Southern,Rex Enright,L,14,18
+1941-10-31,Clemson,Southern,Frank Howard,A,George Washington,Southern,Bill Reinhard,W,19,0
+1941-11-15,Clemson,Southern,Frank Howard,H,Wake Forest,Southern,D.C. Walker,W,29,0
+1941-11-22,Clemson,Southern,Frank Howard,A,Furman,Southern,,W,34,6
+1941-11-29,Clemson,Southern,Frank Howard,A,Auburn,SEC,Jack Meagher,L,7,28
+1941-09-27,South Carolina,Southern,Rex Enright,A,North Carolina,Southern,Raymond Wolf,W,13,7
+1941-10-04,South Carolina,Southern,Rex Enright,A,Georgia,SEC,Wallace Butts,L,6,34
+1941-10-11,South Carolina,Southern,Rex Enright,H,Wake Forest,Southern,D.C. Walker,T,6,6
+1941-10-23,South Carolina,Southern,Rex Enright,H,Clemson,Southern,Frank Howard,W,18,14
+1941-10-31,South Carolina,Southern,Rex Enright,N,Citadel,Southern,Bo Rowland,W,13,6
+1941-11-08,South Carolina,Southern,Rex Enright,A,Kansas State,Big 6,Hobbs Adams,L,0,3
+1941-11-15,South Carolina,Southern,Rex Enright,H,Furman,Southern,,W,26,7
+1941-11-21,South Carolina,Southern,Rex Enright,A,Miami (FL),Ind,Jack Harding,L,6,7
+1941-11-29,South Carolina,Southern,Rex Enright,H,Penn State,Ind,Bob Higgins,L,12,19
+1941-09-27,Washington,PCC,James Phelan,H,Minnesota,Western,Bernie Bierman,L,6,14
+1941-10-04,Washington,PCC,James Phelan,A,Oregon State,PCC,Lon Stiner,L,6,9
+1941-10-11,Washington,PCC,James Phelan,A,Washington State,PCC,O.E. Hollingbery,W,23,13
+1941-10-18,Washington,PCC,James Phelan,H,UCLA,PCC,Babe Horrell,W,14,7
+1941-10-25,Washington,PCC,James Phelan,H,Stanford,PCC,Clark Shaughnessy,L,7,13
+1941-11-01,Washington,PCC,James Phelan,H,Montana,PCC,Doug Fessenden,W,21,0
+1941-11-08,Washington,PCC,James Phelan,A,California,PCC,Stub Allison,W,13,6
+1941-11-22,Washington,PCC,James Phelan,H,Oregon,PCC,Tex Oliver,L,16,19
+1941-11-29,Washington,PCC,James Phelan,A,USC,PCC,Sam Barry,W,14,13
+1941-09-27,Santa Clara,Ind,Buck Shaw,H,San Francisco,Ind,Jeff Cravath,W,32,7
+1941-10-04,Santa Clara,Ind,Buck Shaw,H,Loyola Marymount,Ind,Marty Brill,W,20,6
+1941-10-11,Santa Clara,Ind,Buck Shaw,A,California,PCC,Stub Allison,W,13,0
+1941-10-18,Santa Clara,Ind,Buck Shaw,H,Michigan State,Ind,Charlie Bachman,W,7,0
+1941-10-25,Santa Clara,Ind,Buck Shaw,A,Oklahoma,Big 6,Snorter Luster,L,6,16
+1941-11-01,Santa Clara,Ind,Buck Shaw,A,Stanford,PCC,Clark Shaughnessy,L,7,27
+1941-11-11,Santa Clara,Ind,Buck Shaw,A,Oregon,PCC,Tex Oliver,L,19,21
+1941-11-22,Santa Clara,Ind,Buck Shaw,A,UCLA,PCC,Babe Horrell,W,31,13
+1941-11-29,Santa Clara,Ind,Buck Shaw,H,Saint Mary's (CA),Ind,Red Strader,W,35,13
+1941-09-27,Holy Cross,Ind,Joseph Sheeketski,A,LSU,SEC,Bernie Moore,W,19,13
+1941-10-11,Holy Cross,Ind,Joseph Sheeketski,A,Syracuse,Ind,Ossie Solem,L,0,6
+1941-10-18,Holy Cross,Ind,Joseph Sheeketski,H,Ole Miss,SEC,Harry Mehre,L,0,21
+1941-10-25,Holy Cross,Ind,Joseph Sheeketski,H,New York University,Ind,Mal Stevens,W,13,0
+1941-11-01,Holy Cross,Ind,Joseph Sheeketski,A,Colgate,Ind,Andrew Kerr,T,6,6
+1941-11-08,Holy Cross,Ind,Joseph Sheeketski,A,Brown,Ind,Skip Stahley,W,13,0
+1941-11-15,Holy Cross,Ind,Joseph Sheeketski,H,Manhattan,Ind,Herb Kopf,T,13,13
+1941-11-22,Holy Cross,Ind,Joseph Sheeketski,H,Temple,Ind,Ray Morrison,L,13,31
+1941-11-29,Holy Cross,Ind,Joseph Sheeketski,N,Boston College,Ind,Denny Myers,L,13,14
+1941-10-11,Utah State,MSAC,E. Lowell Romney,A,Colorado,MSAC,Jim Yeager,L,7,13
+1941-10-18,Utah State,MSAC,E. Lowell Romney,H,Idaho,PCC,Francis Schmidt,L,0,16
+1941-10-25,Utah State,MSAC,E. Lowell Romney,H,Colorado State,MSAC,Harry Hughes,L,6,7
+1941-11-01,Utah State,MSAC,E. Lowell Romney,H,Brigham Young,MSAC,Edwin Kimball,L,0,28
+1941-11-08,Utah State,MSAC,E. Lowell Romney,H,Denver,MSAC,Cac Hubbard,L,6,14
+1941-11-15,Utah State,MSAC,E. Lowell Romney,A,Wyoming,MSAC,Bunny Oakes,L,6,12
+1941-11-26,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,L,21,33
+1941-09-27,Missouri,Big 6,Don Faurot,A,Ohio State,Western,Paul Brown,L,7,12
+1941-10-04,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Jim Yeager,W,21,6
+1941-10-11,Missouri,Big 6,Don Faurot,H,Kansas State,Big 6,Hobbs Adams,W,35,0
+1941-10-18,Missouri,Big 6,Don Faurot,A,Iowa State,Big 6,Ray Donels,W,39,13
+1941-10-25,Missouri,Big 6,Don Faurot,H,Nebraska,Big 6,Biff Jones,W,6,0
+1941-11-01,Missouri,Big 6,Don Faurot,A,Michigan State,Ind,Charlie Bachman,W,19,0
+1941-11-08,Missouri,Big 6,Don Faurot,A,New York University,Ind,Mal Stevens,W,26,0
+1941-11-15,Missouri,Big 6,Don Faurot,H,Oklahoma,Big 6,Snorter Luster,W,28,0
+1941-11-22,Missouri,Big 6,Don Faurot,A,Kansas,Big 6,Gwinn Henry,W,45,6
+1942-01-01,Missouri,Big 6,Don Faurot,N,Fordham,Ind,Jimmy Crowley,L,0,2
+1941-09-27,Hardin-Simmons,BIAA,Warren Woodson,A,Baylor,SWC,Frank Kimbrough,L,0,20
+1941-10-11,Hardin-Simmons,BIAA,Warren Woodson,A,Centenary (LA),Ind,Jake Hanna,W,27,6
+1941-10-25,Hardin-Simmons,BIAA,Warren Woodson,A,UTEP,BIAA,Mack Saxon,W,44,14
+1941-11-01,Hardin-Simmons,BIAA,Warren Woodson,H,West Texas A&M,BIAA,Jack Curtice,W,20,13
+1941-11-21,Hardin-Simmons,BIAA,Warren Woodson,A,Texas Tech,BIAA,,L,0,7
+1941-12-06,Hardin-Simmons,BIAA,Warren Woodson,A,Arizona State,BIAA,Dixie Howell,W,20,0
+1941-09-26,Denver,MSAC,Cac Hubbard,H,Iowa State,Big 6,Ray Donels,L,6,7
+1941-10-04,Denver,MSAC,Cac Hubbard,H,Baylor,SWC,Frank Kimbrough,L,0,14
+1941-10-10,Denver,MSAC,Cac Hubbard,H,Brigham Young,MSAC,Edwin Kimball,L,7,13
+1941-10-18,Denver,MSAC,Cac Hubbard,A,Wyoming,MSAC,Bunny Oakes,W,40,0
+1941-10-25,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,T,0,0
+1941-11-01,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Harry Hughes,T,6,6
+1941-11-08,Denver,MSAC,Cac Hubbard,A,Utah State,MSAC,E. Lowell Romney,W,14,6
+1941-11-20,Denver,MSAC,Cac Hubbard,H,Colorado,MSAC,Jim Yeager,W,27,0
+1941-10-04,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Tom Stidham,L,7,28
+1941-10-11,Wisconsin,Western,Harry Stuhldreher,A,Northwestern,Western,Pappy Waldorf,L,14,41
+1941-10-18,Wisconsin,Western,Harry Stuhldreher,H,Iowa,Western,Edward Anderson,W,23,0
+1941-10-25,Wisconsin,Western,Harry Stuhldreher,H,Indiana,Western,Bo McMillin,W,27,25
+1941-11-01,Wisconsin,Western,Harry Stuhldreher,H,Syracuse,Ind,Ossie Solem,L,20,27
+1941-11-08,Wisconsin,Western,Harry Stuhldreher,A,Ohio State,Western,Paul Brown,L,34,46
+1941-11-15,Wisconsin,Western,Harry Stuhldreher,H,Purdue,Western,Mal Elward,W,13,0
+1941-11-22,Wisconsin,Western,Harry Stuhldreher,A,Minnesota,Western,Bernie Bierman,L,6,41
+1941-09-27,USC,PCC,Sam Barry,H,Oregon State,PCC,Lon Stiner,W,13,7
+1941-10-04,USC,PCC,Sam Barry,H,Ohio State,Western,Paul Brown,L,0,33
+1941-10-11,USC,PCC,Sam Barry,H,Oregon,PCC,Tex Oliver,L,6,20
+1941-10-18,USC,PCC,Sam Barry,H,Washington State,PCC,O.E. Hollingbery,W,7,6
+1941-10-25,USC,PCC,Sam Barry,A,California,PCC,Stub Allison,L,0,14
+1941-11-08,USC,PCC,Sam Barry,H,Stanford,PCC,Clark Shaughnessy,L,0,13
+1941-11-22,USC,PCC,Sam Barry,A,Notre Dame,Ind,Frank Leahy,L,18,20
+1941-11-29,USC,PCC,Sam Barry,H,Washington,PCC,James Phelan,L,13,14
+1941-12-06,USC,PCC,Sam Barry,A,UCLA,PCC,Babe Horrell,T,7,7
+1941-09-20,North Carolina State,Southern,,H,Richmond,Southern,Glenn Thistlethwaite,W,14,7
+1941-09-27,North Carolina State,Southern,,N,Davidson,Southern,Gene McEver,T,6,6
+1941-10-04,North Carolina State,Southern,,N,Clemson,Southern,Frank Howard,L,6,27
+1941-10-11,North Carolina State,Southern,,A,Furman,Southern,,T,0,0
+1941-10-18,North Carolina State,Southern,,H,Wake Forest,Southern,D.C. Walker,L,0,7
+1941-11-01,North Carolina State,Southern,,A,North Carolina,Southern,Raymond Wolf,W,13,7
+1941-11-08,North Carolina State,Southern,,H,Virginia Tech,Southern,Jimmy Kitts,L,13,14
+1941-11-15,North Carolina State,Southern,,A,Georgetown,Ind,Jack Hagerty,L,7,20
+1941-11-22,North Carolina State,Southern,,H,Duke,Southern,Wallace Wade,L,6,55
+1941-11-29,North Carolina State,Southern,,A,William & Mary,Southern,,W,13,0
+1941-09-26,Centenary (LA),Ind,Jake Hanna,A,Creighton,MVC,Skip Palrang,L,20,32
+1941-10-11,Centenary (LA),Ind,Jake Hanna,H,Hardin-Simmons,BIAA,Warren Woodson,L,6,27
+1941-10-18,Centenary (LA),Ind,Jake Hanna,A,Texas Tech,BIAA,,L,0,25
+1941-10-25,Centenary (LA),Ind,Jake Hanna,A,Washington (MO),MVC,Frank Loebs,L,7,13
+1941-11-01,Centenary (LA),Ind,Jake Hanna,A,Rice,SWC,Jess Neely,L,0,54
+1941-11-08,Centenary (LA),Ind,Jake Hanna,A,Texas Christian,SWC,Dutch Meyer,L,7,35
+1941-09-27,Michigan,Western,Fritz Crisler,H,Michigan State,Ind,Charlie Bachman,W,19,7
+1941-10-04,Michigan,Western,Fritz Crisler,H,Iowa,Western,Edward Anderson,W,6,0
+1941-10-11,Michigan,Western,Fritz Crisler,H,Pitt,Ind,Charles Bowser,W,40,0
+1941-10-18,Michigan,Western,Fritz Crisler,A,Northwestern,Western,Pappy Waldorf,W,14,7
+1941-10-25,Michigan,Western,Fritz Crisler,H,Minnesota,Western,Bernie Bierman,L,0,7
+1941-11-01,Michigan,Western,Fritz Crisler,A,Illinois,Western,Robert Zuppke,W,20,0
+1941-11-15,Michigan,Western,Fritz Crisler,A,Columbia,Ind,Lou Little,W,28,0
+1941-11-22,Michigan,Western,Fritz Crisler,H,Ohio State,Western,Paul Brown,T,20,20
+1941-09-27,Detroit Mercy,Ind,Gus Dorais,A,Indiana,Western,Bo McMillin,W,14,7
+1941-10-18,Detroit Mercy,Ind,Gus Dorais,A,Oklahoma State,MVC,Jim Lookabaugh,W,20,14
+1941-10-24,Detroit Mercy,Ind,Gus Dorais,H,Arkansas,SWC,Fred Thomsen,L,6,9
+1941-11-01,Detroit Mercy,Ind,Gus Dorais,H,Manhattan,Ind,Herb Kopf,W,19,0
+1941-11-08,Detroit Mercy,Ind,Gus Dorais,H,Marquette,Ind,Tom Stidham,W,7,6
+1941-11-16,Detroit Mercy,Ind,Gus Dorais,A,Villanova,Ind,,L,6,7
+1941-11-23,Detroit Mercy,Ind,Gus Dorais,A,Creighton,MVC,Skip Palrang,W,28,0
+1941-09-26,Temple,Ind,Ray Morrison,H,Kansas,Big 6,Gwinn Henry,W,31,9
+1941-10-04,Temple,Ind,Ray Morrison,H,Virginia Military Institute,Southern,,W,28,13
+1941-10-10,Temple,Ind,Ray Morrison,H,Georgetown,Ind,Jack Hagerty,W,17,7
+1941-10-18,Temple,Ind,Ray Morrison,H,Penn State,Ind,Bob Higgins,W,14,0
+1941-11-01,Temple,Ind,Ray Morrison,A,Boston College,Ind,Denny Myers,L,0,31
+1941-11-08,Temple,Ind,Ray Morrison,H,Villanova,Ind,,W,14,13
+1941-11-15,Temple,Ind,Ray Morrison,A,Michigan State,Ind,Charlie Bachman,L,0,46
+1941-11-22,Temple,Ind,Ray Morrison,A,Holy Cross,Ind,Joseph Sheeketski,W,31,13
+1941-10-04,Loyola Marymount,Ind,Marty Brill,A,Santa Clara,Ind,Buck Shaw,L,6,20
+1941-10-10,Loyola Marymount,Ind,Marty Brill,H,Texas Tech,BIAA,,L,0,14
+1941-10-18,Loyola Marymount,Ind,Marty Brill,A,UTEP,BIAA,Mack Saxon,W,20,6
+1941-10-25,Loyola Marymount,Ind,Marty Brill,A,Saint Mary's (CA),Ind,Red Strader,L,13,20
+1941-11-02,Loyola Marymount,Ind,Marty Brill,A,Saint Louis,MVC,,L,13,21
+1941-11-09,Loyola Marymount,Ind,Marty Brill,H,San Francisco,Ind,Jeff Cravath,L,20,27
+1941-11-16,Loyola Marymount,Ind,Marty Brill,H,Creighton,MVC,Skip Palrang,W,32,7
+1941-11-22,Loyola Marymount,Ind,Marty Brill,A,New Mexico,BIAA,Ted Shipkey,W,7,3
+1941-09-26,New Mexico,BIAA,Ted Shipkey,H,Northern Arizona,BIAA,Maurice Moulder,W,12,6
+1941-10-04,New Mexico,BIAA,Ted Shipkey,H,UTEP,BIAA,Mack Saxon,W,16,14
+1941-10-11,New Mexico,BIAA,Ted Shipkey,A,Arizona State,BIAA,Dixie Howell,T,0,0
+1941-10-18,New Mexico,BIAA,Ted Shipkey,H,Arizona,BIAA,Miles Casteel,L,6,31
+1941-10-24,New Mexico,BIAA,Ted Shipkey,A,Texas Tech,BIAA,,L,0,36
+1941-11-08,New Mexico,BIAA,Ted Shipkey,A,New Mexico State,BIAA,Julius Johnston,W,28,0
+1941-11-15,New Mexico,BIAA,Ted Shipkey,A,Marquette,Ind,Tom Stidham,L,0,34
+1941-11-22,New Mexico,BIAA,Ted Shipkey,H,Loyola Marymount,Ind,Marty Brill,L,3,7
+1941-11-29,New Mexico,BIAA,Ted Shipkey,H,Wyoming,MSAC,Bunny Oakes,W,28,0
+1941-09-27,Notre Dame,Ind,Frank Leahy,H,Arizona,BIAA,Miles Casteel,W,38,7
+1941-10-04,Notre Dame,Ind,Frank Leahy,H,Indiana,Western,Bo McMillin,W,19,6
+1941-10-11,Notre Dame,Ind,Frank Leahy,A,Georgia Tech,SEC,William Alexander,W,20,0
+1941-10-25,Notre Dame,Ind,Frank Leahy,H,Illinois,Western,Robert Zuppke,W,49,14
+1941-11-01,Notre Dame,Ind,Frank Leahy,A,Army,Ind,Red Blaik,T,0,0
+1941-11-08,Notre Dame,Ind,Frank Leahy,A,Navy,Ind,Swede Larson,W,20,13
+1941-11-15,Notre Dame,Ind,Frank Leahy,A,Northwestern,Western,Pappy Waldorf,W,7,6
+1941-11-22,Notre Dame,Ind,Frank Leahy,H,USC,PCC,Sam Barry,W,20,18
+1941-10-04,Pitt,Ind,Charles Bowser,H,Purdue,Western,Mal Elward,L,0,6
+1941-10-11,Pitt,Ind,Charles Bowser,A,Michigan,Western,Fritz Crisler,L,0,40
+1941-10-18,Pitt,Ind,Charles Bowser,A,Minnesota,Western,Bernie Bierman,L,0,39
+1941-10-25,Pitt,Ind,Charles Bowser,H,Duke,Southern,Wallace Wade,L,7,27
+1941-11-01,Pitt,Ind,Charles Bowser,H,Ohio State,Western,Paul Brown,L,14,21
+1941-11-08,Pitt,Ind,Charles Bowser,H,Fordham,Ind,Jimmy Crowley,W,13,0
+1941-11-15,Pitt,Ind,Charles Bowser,A,Nebraska,Big 6,Biff Jones,W,14,7
+1941-11-22,Pitt,Ind,Charles Bowser,H,Penn State,Ind,Bob Higgins,L,7,31
+1941-10-04,West Texas A&M,BIAA,Jack Curtice,A,Arizona State,BIAA,Dixie Howell,W,13,7
+1941-10-11,West Texas A&M,BIAA,Jack Curtice,H,New Mexico State,BIAA,Julius Johnston,W,51,0
+1941-10-25,West Texas A&M,BIAA,Jack Curtice,A,Northern Arizona,BIAA,Maurice Moulder,W,27,0
+1941-11-01,West Texas A&M,BIAA,Jack Curtice,A,Hardin-Simmons,BIAA,Warren Woodson,L,13,20
+1941-11-15,West Texas A&M,BIAA,Jack Curtice,A,UTEP,BIAA,Mack Saxon,W,40,7
+1941-09-27,Saint Mary's (CA),Ind,Red Strader,A,California,PCC,Stub Allison,L,0,31
+1941-10-11,Saint Mary's (CA),Ind,Red Strader,A,San Francisco,Ind,Jeff Cravath,W,30,0
+1941-10-25,Saint Mary's (CA),Ind,Red Strader,H,Loyola Marymount,Ind,Marty Brill,W,20,13
+1941-11-01,Saint Mary's (CA),Ind,Red Strader,A,Gonzaga,Ind,Puggy Hunton,W,26,0
+1941-11-09,Saint Mary's (CA),Ind,Red Strader,H,Duquesne,Ind,,L,0,9
+1941-11-22,Saint Mary's (CA),Ind,Red Strader,A,Fordham,Ind,Jimmy Crowley,L,7,35
+1941-11-29,Saint Mary's (CA),Ind,Red Strader,A,Santa Clara,Ind,Buck Shaw,L,13,35
+1941-10-03,George Washington,Southern,Bill Reinhard,A,Manhattan,Ind,Herb Kopf,L,0,23
+1941-10-10,George Washington,Southern,Bill Reinhard,H,Washington & Lee,Southern,Riley Smith,T,0,0
+1941-10-18,George Washington,Southern,Bill Reinhard,H,Georgetown,Ind,Jack Hagerty,L,0,25
+1941-10-25,George Washington,Southern,Bill Reinhard,H,William & Mary,Southern,,L,0,48
+1941-10-31,George Washington,Southern,Bill Reinhard,H,Clemson,Southern,Frank Howard,L,0,19
+1941-11-08,George Washington,Southern,Bill Reinhard,A,Furman,Southern,,L,6,13
+1941-11-20,George Washington,Southern,Bill Reinhard,H,Wake Forest,Southern,D.C. Walker,L,0,42
+1941-10-04,Wyoming,MSAC,Bunny Oakes,A,Colorado State,MSAC,Harry Hughes,L,0,27
+1941-10-11,Wyoming,MSAC,Bunny Oakes,A,Utah,MSAC,Ike Armstrong,L,6,60
+1941-10-18,Wyoming,MSAC,Bunny Oakes,H,Denver,MSAC,Cac Hubbard,L,0,40
+1941-10-25,Wyoming,MSAC,Bunny Oakes,A,Colorado,MSAC,Jim Yeager,L,0,27
+1941-11-08,Wyoming,MSAC,Bunny Oakes,H,Brigham Young,MSAC,Edwin Kimball,L,7,23
+1941-11-15,Wyoming,MSAC,Bunny Oakes,H,Utah State,MSAC,E. Lowell Romney,W,12,6
+1941-11-29,Wyoming,MSAC,Bunny Oakes,A,New Mexico,BIAA,Ted Shipkey,L,0,28
+1941-09-26,Brigham Young,MSAC,Edwin Kimball,H,Montana,PCC,Doug Fessenden,L,7,20
+1941-10-10,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,W,13,7
+1941-10-18,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,T,6,6
+1941-10-24,Brigham Young,MSAC,Edwin Kimball,A,San Francisco,Ind,Jeff Cravath,L,13,25
+1941-11-01,Brigham Young,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,W,28,0
+1941-11-08,Brigham Young,MSAC,Edwin Kimball,A,Wyoming,MSAC,Bunny Oakes,W,23,7
+1941-11-15,Brigham Young,MSAC,Edwin Kimball,H,Colorado,MSAC,Jim Yeager,T,13,13
+1941-11-22,Brigham Young,MSAC,Edwin Kimball,H,Colorado State,MSAC,Harry Hughes,L,7,22
+1941-10-10,Duquesne,Ind,,A,Manhattan,Ind,Herb Kopf,W,26,7
+1941-10-25,Duquesne,Ind,,A,Marquette,Ind,Tom Stidham,W,31,14
+1941-11-01,Duquesne,Ind,,H,Villanova,Ind,,W,7,0
+1941-11-09,Duquesne,Ind,,A,Saint Mary's (CA),Ind,Red Strader,W,9,0
+1941-11-15,Duquesne,Ind,,H,Mississippi State,SEC,Allyn McKeen,W,16,0
+1941-10-04,Yale,Ind,Spike Nelson,H,Virginia,Ind,Frank Murray,W,21,19
+1941-10-11,Yale,Ind,Spike Nelson,H,Pennsylvania,Ind,George Munger,L,13,28
+1941-10-18,Yale,Ind,Spike Nelson,H,Army,Ind,Red Blaik,L,7,20
+1941-10-25,Yale,Ind,Spike Nelson,H,Dartmouth,Ind,,L,0,7
+1941-11-01,Yale,Ind,Spike Nelson,H,Brown,Ind,Skip Stahley,L,0,7
+1941-11-08,Yale,Ind,Spike Nelson,A,Cornell,Ind,,L,7,21
+1941-11-15,Yale,Ind,Spike Nelson,H,Princeton,Ind,Tad Wieman,L,6,20
+1941-11-22,Yale,Ind,Spike Nelson,A,Harvard,Ind,,L,0,14
+1941-10-11,Georgia Tech,SEC,William Alexander,H,Notre Dame,Ind,Frank Leahy,L,0,20
+1941-10-18,Georgia Tech,SEC,William Alexander,A,Vanderbilt,SEC,Red Sanders,L,7,14
+1941-10-25,Georgia Tech,SEC,William Alexander,H,Auburn,SEC,Jack Meagher,W,28,14
+1941-11-01,Georgia Tech,SEC,William Alexander,H,Duke,Southern,Wallace Wade,L,0,14
+1941-11-08,Georgia Tech,SEC,William Alexander,H,Kentucky,SEC,A.D. Kirwan,W,20,13
+1941-11-15,Georgia Tech,SEC,William Alexander,A,Alabama,SEC,Frank Thomas,L,0,20
+1941-11-22,Georgia Tech,SEC,William Alexander,A,Florida,SEC,Tom Lieb,L,7,14
+1941-11-29,Georgia Tech,SEC,William Alexander,H,Georgia,SEC,Wallace Butts,L,0,21
+1941-09-27,Wake Forest,Southern,D.C. Walker,A,Duke,Southern,Wallace Wade,L,14,43
+1941-10-04,Wake Forest,Southern,D.C. Walker,A,Furman,Southern,,W,52,13
+1941-10-11,Wake Forest,Southern,D.C. Walker,A,South Carolina,Southern,Rex Enright,T,6,6
+1941-10-18,Wake Forest,Southern,D.C. Walker,A,North Carolina State,Southern,,W,7,0
+1941-10-25,Wake Forest,Southern,D.C. Walker,H,North Carolina,Southern,Raymond Wolf,W,13,0
+1941-11-08,Wake Forest,Southern,D.C. Walker,A,Boston College,Ind,Denny Myers,L,6,26
+1941-11-15,Wake Forest,Southern,D.C. Walker,A,Clemson,Southern,Frank Howard,L,0,29
+1941-11-20,Wake Forest,Southern,D.C. Walker,A,George Washington,Southern,Bill Reinhard,W,42,0
+1941-11-29,Wake Forest,Southern,D.C. Walker,H,Texas Tech,BIAA,,L,6,35
+1941-09-27,Mississippi State,SEC,Allyn McKeen,H,Florida,SEC,Tom Lieb,W,6,0
+1941-10-04,Mississippi State,SEC,Allyn McKeen,A,Alabama,SEC,Frank Thomas,W,14,0
+1941-10-11,Mississippi State,SEC,Allyn McKeen,A,LSU,SEC,Bernie Moore,T,0,0
+1941-11-08,Mississippi State,SEC,Allyn McKeen,A,Auburn,SEC,Jack Meagher,W,14,7
+1941-11-15,Mississippi State,SEC,Allyn McKeen,A,Duquesne,Ind,,L,0,16
+1941-11-29,Mississippi State,SEC,Allyn McKeen,A,Ole Miss,SEC,Harry Mehre,W,6,0
+1941-12-06,Mississippi State,SEC,Allyn McKeen,A,San Francisco,Ind,Jeff Cravath,W,26,13
+1941-09-27,Virginia Military Institute,Southern,,H,Clemson,Southern,Frank Howard,L,7,36
+1941-10-04,Virginia Military Institute,Southern,,A,Temple,Ind,Ray Morrison,L,13,28
+1941-10-11,Virginia Military Institute,Southern,,A,Army,Ind,Red Blaik,L,20,27
+1941-10-18,Virginia Military Institute,Southern,,H,Virginia,Ind,Frank Murray,L,7,27
+1941-10-25,Virginia Military Institute,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,W,25,7
+1941-11-01,Virginia Military Institute,Southern,,H,Davidson,Southern,Gene McEver,W,13,7
+1941-11-08,Virginia Military Institute,Southern,,A,William & Mary,Southern,,L,0,21
+1941-11-15,Virginia Military Institute,Southern,,A,Maryland,Southern,Jack Faber,W,27,0
+1941-11-20,Virginia Military Institute,Southern,,N,Virginia Tech,Southern,Jimmy Kitts,W,15,10
+1941-12-05,Virginia Military Institute,Southern,,A,Miami (FL),Ind,Jack Harding,L,7,10
+1941-10-04,Kansas State,Big 6,Hobbs Adams,A,Northwestern,Western,Pappy Waldorf,L,3,51
+1941-10-11,Kansas State,Big 6,Hobbs Adams,A,Missouri,Big 6,Don Faurot,L,0,35
+1941-10-18,Kansas State,Big 6,Hobbs Adams,H,Oklahoma,Big 6,Snorter Luster,L,0,16
+1941-11-01,Kansas State,Big 6,Hobbs Adams,H,Nebraska,Big 6,Biff Jones,W,12,6
+1941-11-08,Kansas State,Big 6,Hobbs Adams,H,South Carolina,Southern,Rex Enright,W,3,0
+1941-11-15,Kansas State,Big 6,Hobbs Adams,A,Kansas,Big 6,Gwinn Henry,L,16,20
+1941-11-22,Kansas State,Big 6,Hobbs Adams,A,Iowa State,Big 6,Ray Donels,T,12,12
+1941-11-29,Kansas State,Big 6,Hobbs Adams,A,Arizona,BIAA,Miles Casteel,L,21,28
+1941-10-03,Saint Louis,MVC,,A,Creighton,MVC,Skip Palrang,L,8,18
+1941-10-11,Saint Louis,MVC,,H,Drake,MVC,Vee Green,T,6,6
+1941-10-18,Saint Louis,MVC,,A,Tulsa,MVC,Henry Frnka,L,7,33
+1941-11-02,Saint Louis,MVC,,H,Loyola Marymount,Ind,Marty Brill,W,21,13
+1941-11-08,Saint Louis,MVC,,H,Oklahoma State,MVC,Jim Lookabaugh,L,7,13
+1941-11-15,Saint Louis,MVC,,A,Texas Tech,BIAA,,L,6,46
+1941-11-29,Saint Louis,MVC,,H,Washington (MO),MVC,Frank Loebs,W,25,0
+1941-10-04,Army,Ind,Red Blaik,H,Citadel,Southern,Bo Rowland,W,19,6
+1941-10-11,Army,Ind,Red Blaik,H,Virginia Military Institute,Southern,,W,27,20
+1941-10-18,Army,Ind,Red Blaik,A,Yale,Ind,Spike Nelson,W,20,7
+1941-10-25,Army,Ind,Red Blaik,H,Columbia,Ind,Lou Little,W,13,0
+1941-11-01,Army,Ind,Red Blaik,H,Notre Dame,Ind,Frank Leahy,T,0,0
+1941-11-08,Army,Ind,Red Blaik,A,Harvard,Ind,,L,6,20
+1941-11-15,Army,Ind,Red Blaik,A,Pennsylvania,Ind,George Munger,L,7,14
+1941-11-22,Army,Ind,Red Blaik,H,West Virginia,Ind,,W,7,6
+1941-11-29,Army,Ind,Red Blaik,N,Navy,Ind,Swede Larson,L,6,14
+1941-10-04,Marquette,Ind,Tom Stidham,A,Wisconsin,Western,Harry Stuhldreher,W,28,7
+1941-10-11,Marquette,Ind,Tom Stidham,A,Michigan State,Ind,Charlie Bachman,L,7,13
+1941-10-18,Marquette,Ind,Tom Stidham,H,Kansas,Big 6,Gwinn Henry,W,33,7
+1941-10-25,Marquette,Ind,Tom Stidham,H,Duquesne,Ind,,L,14,31
+1941-11-01,Marquette,Ind,Tom Stidham,H,Ole Miss,SEC,Harry Mehre,L,6,12
+1941-11-08,Marquette,Ind,Tom Stidham,A,Detroit Mercy,Ind,Gus Dorais,L,6,7
+1941-11-15,Marquette,Ind,Tom Stidham,H,New Mexico,BIAA,Ted Shipkey,W,34,0
+1941-11-22,Marquette,Ind,Tom Stidham,A,Oklahoma,Big 6,Snorter Luster,L,14,61
+1941-11-29,Marquette,Ind,Tom Stidham,H,Iowa State,Big 6,Ray Donels,W,20,13
+1941-10-11,Dartmouth,Ind,,H,Colgate,Ind,Andrew Kerr,W,18,6
+1941-10-18,Dartmouth,Ind,,A,Harvard,Ind,,L,0,7
+1941-10-25,Dartmouth,Ind,,A,Yale,Ind,Spike Nelson,W,7,0
+1941-11-01,Dartmouth,Ind,,H,William & Mary,Southern,,L,0,3
+1941-11-08,Dartmouth,Ind,,A,Princeton,Ind,Tad Wieman,W,20,13
+1941-11-15,Dartmouth,Ind,,A,Cornell,Ind,,L,19,33
+1941-11-22,Dartmouth,Ind,,A,Georgia,SEC,Wallace Butts,L,0,35
+1941-09-26,UCLA,PCC,Babe Horrell,H,Washington State,PCC,O.E. Hollingbery,W,7,6
+1941-10-04,UCLA,PCC,Babe Horrell,A,Stanford,PCC,Clark Shaughnessy,L,0,33
+1941-10-10,UCLA,PCC,Babe Horrell,H,Montana,PCC,Doug Fessenden,W,14,7
+1941-10-18,UCLA,PCC,Babe Horrell,A,Washington,PCC,James Phelan,L,7,14
+1941-10-25,UCLA,PCC,Babe Horrell,H,Oregon,PCC,Tex Oliver,W,14,7
+1941-11-01,UCLA,PCC,Babe Horrell,H,California,PCC,Stub Allison,L,7,27
+1941-11-08,UCLA,PCC,Babe Horrell,A,Oregon State,PCC,Lon Stiner,L,0,19
+1941-11-22,UCLA,PCC,Babe Horrell,H,Santa Clara,Ind,Buck Shaw,L,13,31
+1941-12-06,UCLA,PCC,Babe Horrell,H,USC,PCC,Sam Barry,T,7,7
+1941-12-20,UCLA,PCC,Babe Horrell,A,Florida,SEC,Tom Lieb,W,30,27
+1941-10-04,Auburn,SEC,Jack Meagher,A,Tulane,SEC,Red Dawson,L,0,32
+1941-10-18,Auburn,SEC,Jack Meagher,H,SMU,SWC,Madison Bell,L,7,20
+1941-10-25,Auburn,SEC,Jack Meagher,A,Georgia Tech,SEC,William Alexander,L,14,28
+1941-11-01,Auburn,SEC,Jack Meagher,N,Georgia,SEC,Wallace Butts,L,0,7
+1941-11-08,Auburn,SEC,Jack Meagher,H,Mississippi State,SEC,Allyn McKeen,L,7,14
+1941-11-15,Auburn,SEC,Jack Meagher,A,LSU,SEC,Bernie Moore,T,7,7
+1941-11-22,Auburn,SEC,Jack Meagher,A,Villanova,Ind,,W,13,0
+1941-11-29,Auburn,SEC,Jack Meagher,H,Clemson,Southern,Frank Howard,W,28,7
+1941-10-04,Northwestern,Western,Pappy Waldorf,H,Kansas State,Big 6,Hobbs Adams,W,51,3
+1941-10-11,Northwestern,Western,Pappy Waldorf,H,Wisconsin,Western,Harry Stuhldreher,W,41,14
+1941-10-18,Northwestern,Western,Pappy Waldorf,H,Michigan,Western,Fritz Crisler,L,7,14
+1941-10-25,Northwestern,Western,Pappy Waldorf,A,Ohio State,Western,Paul Brown,W,14,7
+1941-11-01,Northwestern,Western,Pappy Waldorf,A,Minnesota,Western,Bernie Bierman,L,7,8
+1941-11-08,Northwestern,Western,Pappy Waldorf,H,Indiana,Western,Bo McMillin,W,20,14
+1941-11-15,Northwestern,Western,Pappy Waldorf,H,Notre Dame,Ind,Frank Leahy,L,6,7
+1941-11-22,Northwestern,Western,Pappy Waldorf,H,Illinois,Western,Robert Zuppke,W,27,0
+1941-09-26,Kansas,Big 6,Gwinn Henry,A,Temple,Ind,Ray Morrison,L,9,31
+1941-10-04,Kansas,Big 6,Gwinn Henry,H,Washington (MO),MVC,Frank Loebs,W,19,6
+1941-10-11,Kansas,Big 6,Gwinn Henry,A,Nebraska,Big 6,Biff Jones,L,0,32
+1941-10-18,Kansas,Big 6,Gwinn Henry,A,Marquette,Ind,Tom Stidham,L,7,33
+1941-10-25,Kansas,Big 6,Gwinn Henry,H,Iowa State,Big 6,Ray Donels,W,13,0
+1941-11-01,Kansas,Big 6,Gwinn Henry,A,Oklahoma,Big 6,Snorter Luster,L,0,38
+1941-11-08,Kansas,Big 6,Gwinn Henry,A,West Virginia,Ind,,L,0,21
+1941-11-15,Kansas,Big 6,Gwinn Henry,H,Kansas State,Big 6,Hobbs Adams,W,20,16
+1941-11-22,Kansas,Big 6,Gwinn Henry,H,Missouri,Big 6,Don Faurot,L,6,45
+1941-09-27,William & Mary,Southern,,A,Navy,Ind,Swede Larson,L,0,34
+1941-10-11,William & Mary,Southern,,N,Virginia Tech,Southern,Jimmy Kitts,W,16,7
+1941-10-25,William & Mary,Southern,,A,George Washington,Southern,Bill Reinhard,W,48,0
+1941-11-01,William & Mary,Southern,,A,Dartmouth,Ind,,W,3,0
+1941-11-08,William & Mary,Southern,,H,Virginia Military Institute,Southern,,W,21,0
+1941-11-20,William & Mary,Southern,,A,Richmond,Southern,Glenn Thistlethwaite,W,33,3
+1941-11-29,William & Mary,Southern,,H,North Carolina State,Southern,,L,0,13
+1941-10-04,UTEP,BIAA,Mack Saxon,A,New Mexico,BIAA,Ted Shipkey,L,14,16
+1941-10-18,UTEP,BIAA,Mack Saxon,H,Loyola Marymount,Ind,Marty Brill,L,6,20
+1941-10-25,UTEP,BIAA,Mack Saxon,H,Hardin-Simmons,BIAA,Warren Woodson,L,14,44
+1941-11-01,UTEP,BIAA,Mack Saxon,A,Arizona,BIAA,Miles Casteel,L,14,33
+1941-11-08,UTEP,BIAA,Mack Saxon,A,Arizona State,BIAA,Dixie Howell,W,28,0
+1941-11-15,UTEP,BIAA,Mack Saxon,H,West Texas A&M,BIAA,Jack Curtice,L,7,40
+1941-11-22,UTEP,BIAA,Mack Saxon,H,New Mexico State,BIAA,Julius Johnston,W,24,13
+1941-11-29,UTEP,BIAA,Mack Saxon,H,Northern Arizona,BIAA,Maurice Moulder,W,23,20
+1941-09-27,LSU,SEC,Bernie Moore,H,Holy Cross,Ind,Joseph Sheeketski,L,13,19
+1941-10-04,LSU,SEC,Bernie Moore,A,Texas,SWC,Dana Bible,L,0,34
+1941-10-11,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,T,0,0
+1941-10-18,LSU,SEC,Bernie Moore,H,Rice,SWC,Jess Neely,W,27,0
+1941-10-25,LSU,SEC,Bernie Moore,H,Florida,SEC,Tom Lieb,W,10,7
+1941-11-01,LSU,SEC,Bernie Moore,H,Tennessee,SEC,John Barnhill,L,6,13
+1941-11-08,LSU,SEC,Bernie Moore,H,Ole Miss,SEC,Harry Mehre,L,12,13
+1941-11-15,LSU,SEC,Bernie Moore,H,Auburn,SEC,Jack Meagher,T,7,7
+1941-11-29,LSU,SEC,Bernie Moore,A,Tulane,SEC,Red Dawson,W,19,0
+1941-10-04,Pennsylvania,Ind,George Munger,H,Harvard,Ind,,W,19,0
+1941-10-11,Pennsylvania,Ind,George Munger,A,Yale,Ind,Spike Nelson,W,28,13
+1941-10-18,Pennsylvania,Ind,George Munger,A,Princeton,Ind,Tad Wieman,W,23,0
+1941-10-25,Pennsylvania,Ind,George Munger,H,Maryland,Southern,Jack Faber,W,55,6
+1941-11-01,Pennsylvania,Ind,George Munger,H,Navy,Ind,Swede Larson,L,6,13
+1941-11-08,Pennsylvania,Ind,George Munger,H,Columbia,Ind,Lou Little,W,19,16
+1941-11-15,Pennsylvania,Ind,George Munger,H,Army,Ind,Red Blaik,W,14,7
+1941-11-22,Pennsylvania,Ind,George Munger,H,Cornell,Ind,,W,16,0
+1941-09-27,Tulsa,MVC,Henry Frnka,A,Texas Christian,SWC,Dutch Meyer,L,0,6
+1941-10-11,Tulsa,MVC,Henry Frnka,H,Creighton,MVC,Skip Palrang,W,19,7
+1941-10-18,Tulsa,MVC,Henry Frnka,H,Saint Louis,MVC,,W,33,7
+1941-10-25,Tulsa,MVC,Henry Frnka,A,Oklahoma State,MVC,Jim Lookabaugh,W,16,0
+1941-11-15,Tulsa,MVC,Henry Frnka,H,Baylor,SWC,Frank Kimbrough,W,20,13
+1941-11-22,Tulsa,MVC,Henry Frnka,H,Drake,MVC,Vee Green,W,20,6
+1941-11-27,Tulsa,MVC,Henry Frnka,H,Arkansas,SWC,Fred Thomsen,L,6,13
+1942-01-01,Tulsa,MVC,Henry Frnka,N,Texas Tech,BIAA,,W,6,0
+1941-09-27,Iowa,Western,Edward Anderson,H,Drake,MVC,Vee Green,W,25,8
+1941-10-04,Iowa,Western,Edward Anderson,A,Michigan,Western,Fritz Crisler,L,0,6
+1941-10-18,Iowa,Western,Edward Anderson,A,Wisconsin,Western,Harry Stuhldreher,L,0,23
+1941-10-25,Iowa,Western,Edward Anderson,A,Purdue,Western,Mal Elward,L,6,7
+1941-11-01,Iowa,Western,Edward Anderson,H,Indiana,Western,Bo McMillin,W,13,7
+1941-11-08,Iowa,Western,Edward Anderson,A,Illinois,Western,Robert Zuppke,W,21,0
+1941-11-15,Iowa,Western,Edward Anderson,H,Minnesota,Western,Bernie Bierman,L,13,34
+1941-11-22,Iowa,Western,Edward Anderson,A,Nebraska,Big 6,Biff Jones,L,13,14
+1941-10-04,Columbia,Ind,Lou Little,H,Brown,Ind,Skip Stahley,W,13,6
+1941-10-11,Columbia,Ind,Lou Little,A,Princeton,Ind,Tad Wieman,W,21,0
+1941-10-18,Columbia,Ind,Lou Little,H,Georgia,SEC,Wallace Butts,L,3,7
+1941-10-25,Columbia,Ind,Lou Little,A,Army,Ind,Red Blaik,L,0,13
+1941-11-01,Columbia,Ind,Lou Little,H,Cornell,Ind,,W,7,0
+1941-11-08,Columbia,Ind,Lou Little,A,Pennsylvania,Ind,George Munger,L,16,19
+1941-11-15,Columbia,Ind,Lou Little,H,Michigan,Western,Fritz Crisler,L,0,28
+1941-11-22,Columbia,Ind,Lou Little,H,Colgate,Ind,Andrew Kerr,L,21,30
+1941-09-27,Texas,SWC,Dana Bible,A,Colorado,MSAC,Jim Yeager,W,34,6
+1941-10-04,Texas,SWC,Dana Bible,H,LSU,SEC,Bernie Moore,W,34,0
+1941-10-11,Texas,SWC,Dana Bible,N,Oklahoma,Big 6,Snorter Luster,W,40,7
+1941-10-18,Texas,SWC,Dana Bible,H,Arkansas,SWC,Fred Thomsen,W,48,14
+1941-10-25,Texas,SWC,Dana Bible,H,Rice,SWC,Jess Neely,W,40,0
+1941-11-01,Texas,SWC,Dana Bible,A,SMU,SWC,Madison Bell,W,34,0
+1941-11-08,Texas,SWC,Dana Bible,A,Baylor,SWC,Frank Kimbrough,T,7,7
+1941-11-15,Texas,SWC,Dana Bible,H,Texas Christian,SWC,Dutch Meyer,L,7,14
+1941-11-27,Texas,SWC,Dana Bible,A,Texas A&M,SWC,Homer Norton,W,23,0
+1941-12-06,Texas,SWC,Dana Bible,H,Oregon,PCC,Tex Oliver,W,71,7
+1941-09-27,Texas Christian,SWC,Dutch Meyer,H,Tulsa,MVC,Henry Frnka,W,6,0
+1941-10-04,Texas Christian,SWC,Dutch Meyer,A,Arkansas,SWC,Fred Thomsen,W,9,0
+1941-10-11,Texas Christian,SWC,Dutch Meyer,A,Indiana,Western,Bo McMillin,W,20,14
+1941-10-18,Texas Christian,SWC,Dutch Meyer,H,Texas A&M,SWC,Homer Norton,L,0,14
+1941-10-25,Texas Christian,SWC,Dutch Meyer,A,Fordham,Ind,Jimmy Crowley,L,14,28
+1941-11-01,Texas Christian,SWC,Dutch Meyer,A,Baylor,SWC,Frank Kimbrough,W,23,12
+1941-11-08,Texas Christian,SWC,Dutch Meyer,H,Centenary (LA),Ind,Jake Hanna,W,35,7
+1941-11-15,Texas Christian,SWC,Dutch Meyer,A,Texas,SWC,Dana Bible,W,14,7
+1941-11-22,Texas Christian,SWC,Dutch Meyer,H,Rice,SWC,Jess Neely,T,0,0
+1941-11-29,Texas Christian,SWC,Dutch Meyer,H,SMU,SWC,Madison Bell,W,15,13
+1942-01-01,Texas Christian,SWC,Dutch Meyer,N,Georgia,SEC,Wallace Butts,L,26,40
+1941-10-11,New York University,Ind,Mal Stevens,H,Texas A&M,SWC,Homer Norton,L,7,49
+1941-10-18,New York University,Ind,Mal Stevens,H,Syracuse,Ind,Ossie Solem,L,0,31
+1941-10-25,New York University,Ind,Mal Stevens,A,Holy Cross,Ind,Joseph Sheeketski,L,0,13
+1941-10-31,New York University,Ind,Mal Stevens,H,Penn State,Ind,Bob Higgins,L,0,42
+1941-11-08,New York University,Ind,Mal Stevens,H,Missouri,Big 6,Don Faurot,L,0,26
+1941-11-15,New York University,Ind,Mal Stevens,H,Tulane,SEC,Red Dawson,L,0,45
+1941-11-29,New York University,Ind,Mal Stevens,N,Fordham,Ind,Jimmy Crowley,L,9,30
+1941-10-31,Miami (FL),Ind,Jack Harding,H,Texas Tech,BIAA,,W,6,0
+1941-11-15,Miami (FL),Ind,Jack Harding,H,Florida,SEC,Tom Lieb,L,0,14
+1941-11-21,Miami (FL),Ind,Jack Harding,H,South Carolina,Southern,Rex Enright,W,7,6
+1941-11-28,Miami (FL),Ind,Jack Harding,H,Alabama,SEC,Frank Thomas,L,7,21
+1941-12-05,Miami (FL),Ind,Jack Harding,H,Virginia Military Institute,Southern,,W,10,7
+1941-09-20,Richmond,Southern,Glenn Thistlethwaite,A,North Carolina State,Southern,,L,7,14
+1941-10-11,Richmond,Southern,Glenn Thistlethwaite,A,Virginia,Ind,Frank Murray,L,0,44
+1941-10-18,Richmond,Southern,Glenn Thistlethwaite,H,Washington & Lee,Southern,Riley Smith,L,0,21
+1941-10-25,Richmond,Southern,Glenn Thistlethwaite,H,Virginia Military Institute,Southern,,L,7,25
+1941-11-08,Richmond,Southern,Glenn Thistlethwaite,H,North Carolina,Southern,Raymond Wolf,L,0,27
+1941-11-20,Richmond,Southern,Glenn Thistlethwaite,H,William & Mary,Southern,,L,3,33
+1941-11-29,Richmond,Southern,Glenn Thistlethwaite,A,Virginia Tech,Southern,Jimmy Kitts,L,0,13
+1941-09-27,Oregon,PCC,Tex Oliver,A,Stanford,PCC,Clark Shaughnessy,L,15,19
+1941-10-03,Oregon,PCC,Tex Oliver,H,Idaho,PCC,Francis Schmidt,W,21,7
+1941-10-11,Oregon,PCC,Tex Oliver,A,USC,PCC,Sam Barry,W,20,6
+1941-10-18,Oregon,PCC,Tex Oliver,H,California,PCC,Stub Allison,W,19,7
+1941-10-25,Oregon,PCC,Tex Oliver,A,UCLA,PCC,Babe Horrell,L,7,14
+1941-11-01,Oregon,PCC,Tex Oliver,H,Washington State,PCC,O.E. Hollingbery,L,0,13
+1941-11-11,Oregon,PCC,Tex Oliver,H,Santa Clara,Ind,Buck Shaw,W,21,19
+1941-11-22,Oregon,PCC,Tex Oliver,A,Washington,PCC,James Phelan,W,19,16
+1941-11-29,Oregon,PCC,Tex Oliver,H,Oregon State,PCC,Lon Stiner,L,7,12
+1941-12-06,Oregon,PCC,Tex Oliver,A,Texas,SWC,Dana Bible,L,7,71
+1941-10-04,Brown,Ind,Skip Stahley,A,Columbia,Ind,Lou Little,L,6,13
+1941-11-01,Brown,Ind,Skip Stahley,A,Yale,Ind,Spike Nelson,W,7,0
+1941-11-08,Brown,Ind,Skip Stahley,H,Holy Cross,Ind,Joseph Sheeketski,L,0,13
+1941-11-15,Brown,Ind,Skip Stahley,A,Harvard,Ind,,L,7,23
+1941-09-20,Tennessee,SEC,John Barnhill,H,Furman,Southern,,W,32,6
+1941-10-04,Tennessee,SEC,John Barnhill,A,Duke,Southern,Wallace Wade,L,0,19
+1941-10-18,Tennessee,SEC,John Barnhill,H,Alabama,SEC,Frank Thomas,L,2,9
+1941-11-01,Tennessee,SEC,John Barnhill,A,LSU,SEC,Bernie Moore,W,13,6
+1941-11-15,Tennessee,SEC,John Barnhill,A,Boston College,Ind,Denny Myers,W,14,7
+1941-11-22,Tennessee,SEC,John Barnhill,A,Kentucky,SEC,A.D. Kirwan,W,20,7
+1941-11-29,Tennessee,SEC,John Barnhill,H,Vanderbilt,SEC,Red Sanders,W,26,7
+1941-09-27,Oregon State,PCC,Lon Stiner,A,USC,PCC,Sam Barry,L,7,13
+1941-10-04,Oregon State,PCC,Lon Stiner,H,Washington,PCC,James Phelan,W,9,6
+1941-10-11,Oregon State,PCC,Lon Stiner,H,Stanford,PCC,Clark Shaughnessy,W,10,0
+1941-10-25,Oregon State,PCC,Lon Stiner,A,Washington State,PCC,O.E. Hollingbery,L,0,7
+1941-11-01,Oregon State,PCC,Lon Stiner,H,Idaho,PCC,Francis Schmidt,W,33,0
+1941-11-08,Oregon State,PCC,Lon Stiner,H,UCLA,PCC,Babe Horrell,W,19,0
+1941-11-15,Oregon State,PCC,Lon Stiner,A,California,PCC,Stub Allison,W,6,0
+1941-11-22,Oregon State,PCC,Lon Stiner,H,Montana,PCC,Doug Fessenden,W,27,0
+1941-11-29,Oregon State,PCC,Lon Stiner,A,Oregon,PCC,Tex Oliver,W,12,7
+1942-01-01,Oregon State,PCC,Lon Stiner,A,Duke,Southern,Wallace Wade,W,20,16
+1941-10-04,Alabama,SEC,Frank Thomas,H,Mississippi State,SEC,Allyn McKeen,L,0,14
+1941-10-18,Alabama,SEC,Frank Thomas,A,Tennessee,SEC,John Barnhill,W,9,2
+1941-10-25,Alabama,SEC,Frank Thomas,H,Georgia,SEC,Wallace Butts,W,27,14
+1941-11-01,Alabama,SEC,Frank Thomas,H,Kentucky,SEC,A.D. Kirwan,W,30,0
+1941-11-08,Alabama,SEC,Frank Thomas,A,Tulane,SEC,Red Dawson,W,19,14
+1941-11-15,Alabama,SEC,Frank Thomas,H,Georgia Tech,SEC,William Alexander,W,20,0
+1941-11-22,Alabama,SEC,Frank Thomas,A,Vanderbilt,SEC,Red Sanders,L,0,7
+1941-11-28,Alabama,SEC,Frank Thomas,A,Miami (FL),Ind,Jack Harding,W,21,7
+1942-01-01,Alabama,SEC,Frank Thomas,N,Texas A&M,SWC,Homer Norton,W,29,21
+1941-09-27,Purdue,Western,Mal Elward,H,Vanderbilt,SEC,Red Sanders,L,0,3
+1941-10-04,Purdue,Western,Mal Elward,A,Pitt,Ind,Charles Bowser,W,6,0
+1941-10-18,Purdue,Western,Mal Elward,A,Ohio State,Western,Paul Brown,L,14,16
+1941-10-25,Purdue,Western,Mal Elward,H,Iowa,Western,Edward Anderson,W,7,6
+1941-11-01,Purdue,Western,Mal Elward,A,Fordham,Ind,Jimmy Crowley,L,0,17
+1941-11-08,Purdue,Western,Mal Elward,H,Michigan State,Ind,Charlie Bachman,T,0,0
+1941-11-15,Purdue,Western,Mal Elward,A,Wisconsin,Western,Harry Stuhldreher,L,0,13
+1941-11-22,Purdue,Western,Mal Elward,A,Indiana,Western,Bo McMillin,L,0,7
+1941-10-04,Nebraska,Big 6,Biff Jones,A,Iowa State,Big 6,Ray Donels,W,14,0
+1941-10-11,Nebraska,Big 6,Biff Jones,H,Kansas,Big 6,Gwinn Henry,W,32,0
+1941-10-18,Nebraska,Big 6,Biff Jones,H,Indiana,Western,Bo McMillin,L,13,21
+1941-10-25,Nebraska,Big 6,Biff Jones,A,Missouri,Big 6,Don Faurot,L,0,6
+1941-11-01,Nebraska,Big 6,Biff Jones,A,Kansas State,Big 6,Hobbs Adams,L,6,12
+1941-11-08,Nebraska,Big 6,Biff Jones,A,Minnesota,Western,Bernie Bierman,L,0,9
+1941-11-15,Nebraska,Big 6,Biff Jones,H,Pitt,Ind,Charles Bowser,L,7,14
+1941-11-22,Nebraska,Big 6,Biff Jones,H,Iowa,Western,Edward Anderson,W,14,13
+1941-11-29,Nebraska,Big 6,Biff Jones,H,Oklahoma,Big 6,Snorter Luster,W,7,6
+1941-10-04,West Virginia,Ind,,A,Navy,Ind,Swede Larson,L,0,40
+1941-10-18,West Virginia,Ind,,A,Fordham,Ind,Jimmy Crowley,L,0,27
+1941-10-25,West Virginia,Ind,,A,Kentucky,SEC,A.D. Kirwan,L,6,18
+1941-11-01,West Virginia,Ind,,N,Washington & Lee,Southern,Riley Smith,W,7,6
+1941-11-08,West Virginia,Ind,,H,Kansas,Big 6,Gwinn Henry,W,21,0
+1941-11-15,West Virginia,Ind,,A,Penn State,Ind,Bob Higgins,L,0,7
+1941-11-22,West Virginia,Ind,,A,Army,Ind,Red Blaik,L,6,7
+1941-11-29,West Virginia,Ind,,H,Michigan State,Ind,Charlie Bachman,L,12,14
+1941-10-04,Harvard,Ind,,A,Pennsylvania,Ind,George Munger,L,0,19
+1941-10-11,Harvard,Ind,,H,Cornell,Ind,,L,0,7
+1941-10-18,Harvard,Ind,,H,Dartmouth,Ind,,W,7,0
+1941-10-25,Harvard,Ind,,H,Navy,Ind,Swede Larson,T,0,0
+1941-11-01,Harvard,Ind,,A,Princeton,Ind,Tad Wieman,W,6,4
+1941-11-08,Harvard,Ind,,H,Army,Ind,Red Blaik,W,20,6
+1941-11-15,Harvard,Ind,,H,Brown,Ind,Skip Stahley,W,23,7
+1941-11-22,Harvard,Ind,,H,Yale,Ind,Spike Nelson,W,14,0
+1941-09-27,Oklahoma State,MVC,Jim Lookabaugh,A,Oklahoma,Big 6,Snorter Luster,L,0,19
+1941-10-03,Oklahoma State,MVC,Jim Lookabaugh,H,Texas Tech,BIAA,,L,6,16
+1941-10-11,Oklahoma State,MVC,Jim Lookabaugh,A,Washington (MO),MVC,Frank Loebs,W,41,12
+1941-10-18,Oklahoma State,MVC,Jim Lookabaugh,H,Detroit Mercy,Ind,Gus Dorais,L,14,20
+1941-10-25,Oklahoma State,MVC,Jim Lookabaugh,H,Tulsa,MVC,Henry Frnka,L,0,16
+1941-11-01,Oklahoma State,MVC,Jim Lookabaugh,H,Creighton,MVC,Skip Palrang,W,13,6
+1941-11-08,Oklahoma State,MVC,Jim Lookabaugh,A,Saint Louis,MVC,,W,13,7
+1941-11-15,Oklahoma State,MVC,Jim Lookabaugh,H,Arizona,BIAA,Miles Casteel,W,41,14
+1941-09-27,Colorado,MSAC,Jim Yeager,H,Texas,SWC,Dana Bible,L,6,34
+1941-10-04,Colorado,MSAC,Jim Yeager,A,Missouri,Big 6,Don Faurot,L,6,21
+1941-10-11,Colorado,MSAC,Jim Yeager,H,Utah State,MSAC,E. Lowell Romney,W,13,7
+1941-10-18,Colorado,MSAC,Jim Yeager,H,Colorado State,MSAC,Harry Hughes,W,26,13
+1941-10-25,Colorado,MSAC,Jim Yeager,H,Wyoming,MSAC,Bunny Oakes,W,27,0
+1941-11-01,Colorado,MSAC,Jim Yeager,A,Utah,MSAC,Ike Armstrong,L,6,46
+1941-11-15,Colorado,MSAC,Jim Yeager,A,Brigham Young,MSAC,Edwin Kimball,T,13,13
+1941-11-20,Colorado,MSAC,Jim Yeager,A,Denver,MSAC,Cac Hubbard,L,0,27
+1941-10-04,Colorado State,MSAC,Harry Hughes,H,Wyoming,MSAC,Bunny Oakes,W,27,0
+1941-10-18,Colorado State,MSAC,Harry Hughes,A,Colorado,MSAC,Jim Yeager,L,13,26
+1941-10-25,Colorado State,MSAC,Harry Hughes,A,Utah State,MSAC,E. Lowell Romney,W,7,6
+1941-11-01,Colorado State,MSAC,Harry Hughes,A,Denver,MSAC,Cac Hubbard,T,6,6
+1941-11-15,Colorado State,MSAC,Harry Hughes,H,Utah,MSAC,Ike Armstrong,L,13,26
+1941-11-22,Colorado State,MSAC,Harry Hughes,A,Brigham Young,MSAC,Edwin Kimball,W,22,7
+1941-10-11,Rice,SWC,Jess Neely,H,Tulane,SEC,Red Dawson,W,10,9
+1941-10-18,Rice,SWC,Jess Neely,A,LSU,SEC,Bernie Moore,L,0,27
+1941-10-25,Rice,SWC,Jess Neely,A,Texas,SWC,Dana Bible,L,0,40
+1941-11-01,Rice,SWC,Jess Neely,H,Centenary (LA),Ind,Jake Hanna,W,54,0
+1941-11-08,Rice,SWC,Jess Neely,H,Arkansas,SWC,Fred Thomsen,W,21,12
+1941-11-15,Rice,SWC,Jess Neely,H,Texas A&M,SWC,Homer Norton,L,6,19
+1941-11-22,Rice,SWC,Jess Neely,A,Texas Christian,SWC,Dutch Meyer,T,0,0
+1941-11-29,Rice,SWC,Jess Neely,H,Baylor,SWC,Frank Kimbrough,W,28,14
+1941-12-06,Rice,SWC,Jess Neely,A,SMU,SWC,Madison Bell,W,6,0
+1941-10-11,Texas A&M,SWC,Homer Norton,A,New York University,Ind,Mal Stevens,W,49,7
+1941-10-18,Texas A&M,SWC,Homer Norton,A,Texas Christian,SWC,Dutch Meyer,W,14,0
+1941-10-25,Texas A&M,SWC,Homer Norton,H,Baylor,SWC,Frank Kimbrough,W,48,0
+1941-11-01,Texas A&M,SWC,Homer Norton,A,Arkansas,SWC,Fred Thomsen,W,7,0
+1941-11-08,Texas A&M,SWC,Homer Norton,H,SMU,SWC,Madison Bell,W,21,10
+1941-11-15,Texas A&M,SWC,Homer Norton,A,Rice,SWC,Jess Neely,W,19,6
+1941-11-27,Texas A&M,SWC,Homer Norton,H,Texas,SWC,Dana Bible,L,0,23
+1941-12-06,Texas A&M,SWC,Homer Norton,A,Washington State,PCC,O.E. Hollingbery,W,7,0
+1942-01-01,Texas A&M,SWC,Homer Norton,N,Alabama,SEC,Frank Thomas,L,21,29
+1941-09-27,Davidson,Southern,Gene McEver,N,North Carolina State,Southern,,T,6,6
+1941-10-04,Davidson,Southern,Gene McEver,H,North Carolina,Southern,Raymond Wolf,L,0,20
+1941-10-11,Davidson,Southern,Gene McEver,A,Sewanee,Ind,Jenks Gillem,L,0,7
+1941-10-18,Davidson,Southern,Gene McEver,H,Virginia Tech,Southern,Jimmy Kitts,L,0,16
+1941-10-25,Davidson,Southern,Gene McEver,N,Furman,Southern,,L,13,31
+1941-11-01,Davidson,Southern,Gene McEver,A,Virginia Military Institute,Southern,,L,7,13
+1941-11-08,Davidson,Southern,Gene McEver,H,Duke,Southern,Wallace Wade,L,0,56
+1941-11-15,Davidson,Southern,Gene McEver,A,Washington & Lee,Southern,Riley Smith,T,13,13
+1941-11-22,Davidson,Southern,Gene McEver,N,Citadel,Southern,Bo Rowland,W,24,14
+1941-10-04,Washington (MO),MVC,Frank Loebs,A,Kansas,Big 6,Gwinn Henry,L,6,19
+1941-10-11,Washington (MO),MVC,Frank Loebs,H,Oklahoma State,MVC,Jim Lookabaugh,L,12,41
+1941-10-18,Washington (MO),MVC,Frank Loebs,H,Creighton,MVC,Skip Palrang,L,13,14
+1941-10-25,Washington (MO),MVC,Frank Loebs,H,Centenary (LA),Ind,Jake Hanna,W,13,7
+1941-11-01,Washington (MO),MVC,Frank Loebs,A,Drake,MVC,Vee Green,W,12,0
+1941-11-29,Washington (MO),MVC,Frank Loebs,A,Saint Louis,MVC,,L,0,25
+1941-09-27,Michigan State,Ind,Charlie Bachman,A,Michigan,Western,Fritz Crisler,L,7,19
+1941-10-11,Michigan State,Ind,Charlie Bachman,H,Marquette,Ind,Tom Stidham,W,13,7
+1941-10-18,Michigan State,Ind,Charlie Bachman,A,Santa Clara,Ind,Buck Shaw,L,0,7
+1941-11-01,Michigan State,Ind,Charlie Bachman,H,Missouri,Big 6,Don Faurot,L,0,19
+1941-11-08,Michigan State,Ind,Charlie Bachman,A,Purdue,Western,Mal Elward,T,0,0
+1941-11-15,Michigan State,Ind,Charlie Bachman,H,Temple,Ind,Ray Morrison,W,46,0
+1941-11-29,Michigan State,Ind,Charlie Bachman,A,West Virginia,Ind,,W,14,12
+1941-09-27,Boston College,Ind,Denny Myers,A,Tulane,SEC,Red Dawson,L,7,21
+1941-10-11,Boston College,Ind,Denny Myers,H,Clemson,Southern,Frank Howard,L,13,26
+1941-10-18,Boston College,Ind,Denny Myers,H,Manhattan,Ind,Herb Kopf,W,26,13
+1941-10-25,Boston College,Ind,Denny Myers,H,Georgetown,Ind,Jack Hagerty,W,14,6
+1941-11-01,Boston College,Ind,Denny Myers,H,Temple,Ind,Ray Morrison,W,31,0
+1941-11-08,Boston College,Ind,Denny Myers,H,Wake Forest,Southern,D.C. Walker,W,26,6
+1941-11-15,Boston College,Ind,Denny Myers,H,Tennessee,SEC,John Barnhill,L,7,14
+1941-11-29,Boston College,Ind,Denny Myers,N,Holy Cross,Ind,Joseph Sheeketski,W,14,13
+1941-10-04,Colgate,Ind,Andrew Kerr,H,Penn State,Ind,Bob Higgins,W,7,0
+1941-10-11,Colgate,Ind,Andrew Kerr,A,Dartmouth,Ind,,L,6,18
+1941-10-18,Colgate,Ind,Andrew Kerr,A,Duke,Southern,Wallace Wade,L,14,27
+1941-10-25,Colgate,Ind,Andrew Kerr,A,Cornell,Ind,,L,2,21
+1941-11-01,Colgate,Ind,Andrew Kerr,H,Holy Cross,Ind,Joseph Sheeketski,T,6,6
+1941-11-15,Colgate,Ind,Andrew Kerr,A,Syracuse,Ind,Ossie Solem,T,19,19
+1941-11-22,Colgate,Ind,Andrew Kerr,A,Columbia,Ind,Lou Little,W,30,21
+1941-10-04,New Mexico State,BIAA,Julius Johnston,A,Arizona,BIAA,Miles Casteel,L,0,47
+1941-10-11,New Mexico State,BIAA,Julius Johnston,A,West Texas A&M,BIAA,Jack Curtice,L,0,51
+1941-10-18,New Mexico State,BIAA,Julius Johnston,H,Arizona State,BIAA,Dixie Howell,L,14,19
+1941-11-01,New Mexico State,BIAA,Julius Johnston,A,Northern Arizona,BIAA,Maurice Moulder,L,7,27
+1941-11-08,New Mexico State,BIAA,Julius Johnston,H,New Mexico,BIAA,Ted Shipkey,L,0,28
+1941-11-22,New Mexico State,BIAA,Julius Johnston,A,UTEP,BIAA,Mack Saxon,L,13,24
+1941-09-27,Minnesota,Western,Bernie Bierman,A,Washington,PCC,James Phelan,W,14,6
+1941-10-11,Minnesota,Western,Bernie Bierman,H,Illinois,Western,Robert Zuppke,W,34,6
+1941-10-18,Minnesota,Western,Bernie Bierman,H,Pitt,Ind,Charles Bowser,W,39,0
+1941-10-25,Minnesota,Western,Bernie Bierman,A,Michigan,Western,Fritz Crisler,W,7,0
+1941-11-01,Minnesota,Western,Bernie Bierman,H,Northwestern,Western,Pappy Waldorf,W,8,7
+1941-11-08,Minnesota,Western,Bernie Bierman,H,Nebraska,Big 6,Biff Jones,W,9,0
+1941-11-15,Minnesota,Western,Bernie Bierman,A,Iowa,Western,Edward Anderson,W,34,13
+1941-11-22,Minnesota,Western,Bernie Bierman,H,Wisconsin,Western,Harry Stuhldreher,W,41,6
+1941-09-26,Ole Miss,SEC,Harry Mehre,A,Georgetown,Ind,Jack Hagerty,L,6,16
+1941-10-10,Ole Miss,SEC,Harry Mehre,A,Georgia,SEC,Wallace Butts,T,14,14
+1941-10-18,Ole Miss,SEC,Harry Mehre,A,Holy Cross,Ind,Joseph Sheeketski,W,21,0
+1941-10-25,Ole Miss,SEC,Harry Mehre,A,Tulane,SEC,Red Dawson,W,20,13
+1941-11-01,Ole Miss,SEC,Harry Mehre,A,Marquette,Ind,Tom Stidham,W,12,6
+1941-11-08,Ole Miss,SEC,Harry Mehre,A,LSU,SEC,Bernie Moore,W,13,12
+1941-11-22,Ole Miss,SEC,Harry Mehre,N,Arkansas,SWC,Fred Thomsen,W,18,0
+1941-11-29,Ole Miss,SEC,Harry Mehre,H,Mississippi State,SEC,Allyn McKeen,L,0,6
+1941-09-27,Duke,Southern,Wallace Wade,H,Wake Forest,Southern,D.C. Walker,W,43,14
+1941-10-04,Duke,Southern,Wallace Wade,H,Tennessee,SEC,John Barnhill,W,19,0
+1941-10-11,Duke,Southern,Wallace Wade,A,Maryland,Southern,Jack Faber,W,50,0
+1941-10-18,Duke,Southern,Wallace Wade,H,Colgate,Ind,Andrew Kerr,W,27,14
+1941-10-25,Duke,Southern,Wallace Wade,A,Pitt,Ind,Charles Bowser,W,27,7
+1941-11-01,Duke,Southern,Wallace Wade,A,Georgia Tech,SEC,William Alexander,W,14,0
+1941-11-08,Duke,Southern,Wallace Wade,A,Davidson,Southern,Gene McEver,W,56,0
+1941-11-15,Duke,Southern,Wallace Wade,H,North Carolina,Southern,Raymond Wolf,W,20,0
+1941-11-22,Duke,Southern,Wallace Wade,A,North Carolina State,Southern,,W,55,6
+1942-01-01,Duke,Southern,Wallace Wade,H,Oregon State,PCC,Lon Stiner,L,16,20
+1941-09-26,Sewanee,Ind,Jenks Gillem,A,Washington & Lee,Southern,Riley Smith,W,20,19
+1941-10-11,Sewanee,Ind,Jenks Gillem,H,Davidson,Southern,Gene McEver,W,7,0
+1941-11-08,Sewanee,Ind,Jenks Gillem,A,Vanderbilt,SEC,Red Sanders,L,0,20
+1941-11-29,Sewanee,Ind,Jenks Gillem,A,Citadel,Southern,Bo Rowland,L,0,28
+1941-09-27,San Francisco,Ind,Jeff Cravath,A,Santa Clara,Ind,Buck Shaw,L,7,32
+1941-10-11,San Francisco,Ind,Jeff Cravath,H,Saint Mary's (CA),Ind,Red Strader,L,0,30
+1941-10-18,San Francisco,Ind,Jeff Cravath,A,Stanford,PCC,Clark Shaughnessy,L,26,42
+1941-10-24,San Francisco,Ind,Jeff Cravath,H,Brigham Young,MSAC,Edwin Kimball,W,25,13
+1941-11-09,San Francisco,Ind,Jeff Cravath,A,Loyola Marymount,Ind,Marty Brill,W,27,20
+1941-12-06,San Francisco,Ind,Jeff Cravath,H,Mississippi State,SEC,Allyn McKeen,L,13,26
+1941-09-27,Navy,Ind,Swede Larson,H,William & Mary,Southern,,W,34,0
+1941-10-04,Navy,Ind,Swede Larson,H,West Virginia,Ind,,W,40,0
+1941-10-18,Navy,Ind,Swede Larson,H,Cornell,Ind,,W,14,0
+1941-10-25,Navy,Ind,Swede Larson,A,Harvard,Ind,,T,0,0
+1941-11-01,Navy,Ind,Swede Larson,A,Pennsylvania,Ind,George Munger,W,13,6
+1941-11-08,Navy,Ind,Swede Larson,H,Notre Dame,Ind,Frank Leahy,L,13,20
+1941-11-22,Navy,Ind,Swede Larson,A,Princeton,Ind,Tad Wieman,W,23,0
+1941-11-29,Navy,Ind,Swede Larson,N,Army,Ind,Red Blaik,W,14,6
+1941-10-03,Texas Tech,BIAA,,A,Oklahoma State,MVC,Jim Lookabaugh,W,16,6
+1941-10-10,Texas Tech,BIAA,,A,Loyola Marymount,Ind,Marty Brill,W,14,0
+1941-10-18,Texas Tech,BIAA,,H,Centenary (LA),Ind,Jake Hanna,W,25,0
+1941-10-24,Texas Tech,BIAA,,H,New Mexico,BIAA,Ted Shipkey,W,36,0
+1941-10-31,Texas Tech,BIAA,,A,Miami (FL),Ind,Jack Harding,L,0,6
+1941-11-08,Texas Tech,BIAA,,H,Creighton,MVC,Skip Palrang,W,13,6
+1941-11-15,Texas Tech,BIAA,,H,Saint Louis,MVC,,W,46,6
+1941-11-21,Texas Tech,BIAA,,H,Hardin-Simmons,BIAA,Warren Woodson,W,7,0
+1941-11-29,Texas Tech,BIAA,,A,Wake Forest,Southern,D.C. Walker,W,35,6
+1942-01-01,Texas Tech,BIAA,,N,Tulsa,MVC,Henry Frnka,L,0,6
+1941-09-27,Tulane,SEC,Red Dawson,H,Boston College,Ind,Denny Myers,W,21,7
+1941-10-04,Tulane,SEC,Red Dawson,H,Auburn,SEC,Jack Meagher,W,32,0
+1941-10-11,Tulane,SEC,Red Dawson,A,Rice,SWC,Jess Neely,L,9,10
+1941-10-18,Tulane,SEC,Red Dawson,H,North Carolina,Southern,Raymond Wolf,W,52,6
+1941-10-25,Tulane,SEC,Red Dawson,H,Ole Miss,SEC,Harry Mehre,L,13,20
+1941-11-01,Tulane,SEC,Red Dawson,A,Vanderbilt,SEC,Red Sanders,W,34,14
+1941-11-08,Tulane,SEC,Red Dawson,H,Alabama,SEC,Frank Thomas,L,14,19
+1941-11-15,Tulane,SEC,Red Dawson,A,New York University,Ind,Mal Stevens,W,45,0
+1941-11-29,Tulane,SEC,Red Dawson,H,LSU,SEC,Bernie Moore,L,0,19
+1941-10-04,Cornell,Ind,,H,Syracuse,Ind,Ossie Solem,W,6,0
+1941-10-11,Cornell,Ind,,A,Harvard,Ind,,W,7,0
+1941-10-18,Cornell,Ind,,A,Navy,Ind,Swede Larson,L,0,14
+1941-10-25,Cornell,Ind,,H,Colgate,Ind,Andrew Kerr,W,21,2
+1941-11-01,Cornell,Ind,,A,Columbia,Ind,Lou Little,L,0,7
+1941-11-08,Cornell,Ind,,H,Yale,Ind,Spike Nelson,W,21,7
+1941-11-15,Cornell,Ind,,H,Dartmouth,Ind,,W,33,19
+1941-11-22,Cornell,Ind,,A,Pennsylvania,Ind,George Munger,L,0,16
+1941-09-27,Ohio State,Western,Paul Brown,H,Missouri,Big 6,Don Faurot,W,12,7
+1941-10-04,Ohio State,Western,Paul Brown,A,USC,PCC,Sam Barry,W,33,0
+1941-10-18,Ohio State,Western,Paul Brown,H,Purdue,Western,Mal Elward,W,16,14
+1941-10-25,Ohio State,Western,Paul Brown,H,Northwestern,Western,Pappy Waldorf,L,7,14
+1941-11-01,Ohio State,Western,Paul Brown,A,Pitt,Ind,Charles Bowser,W,21,14
+1941-11-08,Ohio State,Western,Paul Brown,H,Wisconsin,Western,Harry Stuhldreher,W,46,34
+1941-11-15,Ohio State,Western,Paul Brown,H,Illinois,Western,Robert Zuppke,W,12,7
+1941-11-22,Ohio State,Western,Paul Brown,A,Michigan,Western,Fritz Crisler,T,20,20
+1941-09-27,Drake,MVC,Vee Green,A,Iowa,Western,Edward Anderson,L,8,25
+1941-10-11,Drake,MVC,Vee Green,A,Saint Louis,MVC,,T,6,6
+1941-10-18,Drake,MVC,Vee Green,A,Illinois,Western,Robert Zuppke,L,0,40
+1941-10-25,Drake,MVC,Vee Green,A,Creighton,MVC,Skip Palrang,L,7,12
+1941-11-01,Drake,MVC,Vee Green,H,Washington (MO),MVC,Frank Loebs,L,0,12
+1941-11-15,Drake,MVC,Vee Green,H,Iowa State,Big 6,Ray Donels,W,14,13
+1941-11-22,Drake,MVC,Vee Green,A,Tulsa,MVC,Henry Frnka,L,6,20

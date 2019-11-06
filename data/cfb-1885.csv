@@ -1,0 +1,47 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1885-10-14,Wesleyan (CT),Ind,,N,Yale,Ind,,L,0,18
+1885-10-28,Wesleyan (CT),Ind,,A,Yale,Ind,,L,0,71
+1885-11-07,Wesleyan (CT),Ind,,N,Pennsylvania,Ind,Frank Dole,W,25,18
+1885-11-14,Wesleyan (CT),Ind,,A,Princeton,Ind,,L,0,76
+1885-11-26,Wesleyan (CT),Ind,,N,Yale,Ind,,L,0,61
+1885-10-03,Princeton,Ind,,A,Stevens,Ind,,W,94,0
+1885-10-14,Princeton,Ind,,H,Stevens,Ind,,W,76,0
+1885-10-24,Princeton,Ind,,A,Pennsylvania,Ind,Frank Dole,W,57,0
+1885-10-31,Princeton,Ind,,H,Pennsylvania,Ind,Frank Dole,W,80,10
+1885-11-14,Princeton,Ind,,H,Wesleyan (CT),Ind,,W,76,0
+1885-11-21,Princeton,Ind,,A,Yale,Ind,,W,6,5
+1885-11-26,Princeton,Ind,,A,Pennsylvania,Ind,Frank Dole,W,76,10
+1885-10-03,Stevens,Ind,,H,Princeton,Ind,,L,0,94
+1885-10-10,Stevens,Ind,,H,Yale,Ind,,L,0,55
+1885-10-14,Stevens,Ind,,A,Princeton,Ind,,L,0,76
+1885-10-24,Stevens,Ind,,A,Lafayette,Ind,,L,12,16
+1885-11-07,Stevens,Ind,,A,Lehigh,Ind,,W,20,4
+1885-11-11,Stevens,Ind,,H,Lafayette,Ind,,L,18,23
+1885-11-21,Stevens,Ind,,H,Pennsylvania,Ind,Frank Dole,L,9,23
+1885-10-10,Yale,Ind,,A,Stevens,Ind,,W,55,0
+1885-10-14,Yale,Ind,,N,Wesleyan (CT),Ind,,W,18,0
+1885-10-28,Yale,Ind,,H,Wesleyan (CT),Ind,,W,71,0
+1885-11-14,Yale,Ind,,A,Pennsylvania,Ind,Frank Dole,W,53,5
+1885-11-21,Yale,Ind,,H,Princeton,Ind,,L,5,6
+1885-11-26,Yale,Ind,,N,Wesleyan (CT),Ind,,W,61,0
+1885-10-10,Lehigh,Ind,,A,Pennsylvania,Ind,Frank Dole,L,0,54
+1885-10-31,Lehigh,Ind,,H,Lafayette,Ind,,T,0,0
+1885-11-07,Lehigh,Ind,,H,Stevens,Ind,,L,4,20
+1885-11-18,Lehigh,Ind,,A,Pennsylvania,Ind,Frank Dole,L,0,35
+1885-11-21,Lehigh,Ind,,A,Lafayette,Ind,,T,6,6
+1885-10-10,Pennsylvania,Ind,Frank Dole,H,Lehigh,Ind,,W,54,0
+1885-10-24,Pennsylvania,Ind,Frank Dole,H,Princeton,Ind,,L,0,57
+1885-10-28,Pennsylvania,Ind,Frank Dole,H,Lafayette,Ind,,W,54,10
+1885-10-31,Pennsylvania,Ind,Frank Dole,A,Princeton,Ind,,L,10,80
+1885-11-04,Pennsylvania,Ind,Frank Dole,A,Lafayette,Ind,,W,30,22
+1885-11-07,Pennsylvania,Ind,Frank Dole,N,Wesleyan (CT),Ind,,L,18,25
+1885-11-14,Pennsylvania,Ind,Frank Dole,H,Yale,Ind,,L,5,53
+1885-11-18,Pennsylvania,Ind,Frank Dole,H,Lehigh,Ind,,W,35,0
+1885-11-21,Pennsylvania,Ind,Frank Dole,A,Stevens,Ind,,W,23,9
+1885-11-26,Pennsylvania,Ind,Frank Dole,H,Princeton,Ind,,L,10,76
+1885-10-24,Lafayette,Ind,,H,Stevens,Ind,,W,16,12
+1885-10-28,Lafayette,Ind,,A,Pennsylvania,Ind,Frank Dole,L,10,54
+1885-10-31,Lafayette,Ind,,A,Lehigh,Ind,,T,0,0
+1885-11-04,Lafayette,Ind,,H,Pennsylvania,Ind,Frank Dole,L,22,30
+1885-11-11,Lafayette,Ind,,A,Stevens,Ind,,W,23,18
+1885-11-21,Lafayette,Ind,,H,Lehigh,Ind,,T,6,6

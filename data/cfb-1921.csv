@@ -1,0 +1,609 @@
+Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Result,Points,OpponentPoints
+1921-10-01,North Carolina,Southern,William Fetzer,H,Wake Forest,Ind,J.L. White,W,21,0
+1921-10-08,North Carolina,Southern,William Fetzer,A,Yale,Ind,Tad Jones,L,0,34
+1921-10-15,North Carolina,Southern,William Fetzer,A,South Carolina,Ind,Sol Metzger,T,7,7
+1921-10-20,North Carolina,Southern,William Fetzer,A,North Carolina State,Southern,Harry Hartsell,L,0,7
+1921-10-29,North Carolina,Southern,William Fetzer,A,Maryland,Southern,Curley Byrd,W,16,7
+1921-11-05,North Carolina,Southern,William Fetzer,A,Virginia Military Institute,Ind,,W,20,7
+1921-11-12,North Carolina,Southern,William Fetzer,N,Davidson,Ind,Wooly Grey,T,0,0
+1921-11-24,North Carolina,Southern,William Fetzer,H,Virginia,Southern,W. Warren,W,7,3
+1921-12-03,North Carolina,Southern,William Fetzer,A,Florida,Ind,William Kline,W,14,10
+1921-10-08,Indiana,Western,Jumbo Stiehm,A,Harvard,Ind,Robert Fisher,L,0,19
+1921-10-22,Indiana,Western,Jumbo Stiehm,A,Minnesota,Western,Henry Williams,L,0,6
+1921-10-29,Indiana,Western,Jumbo Stiehm,N,Notre Dame,Ind,Knute Rockne,L,7,28
+1921-11-12,Indiana,Western,Jumbo Stiehm,A,Iowa,Western,Howard Jones,L,0,41
+1921-11-19,Indiana,Western,Jumbo Stiehm,H,Purdue,Western,William Dietz,W,3,0
+1921-10-08,Iowa State,MVIAA,Maury Kent,H,Grinnell,MVIAA,William Saunders,W,21,3
+1921-10-15,Iowa State,MVIAA,Maury Kent,A,Missouri,MVIAA,James Phelan,L,14,17
+1921-10-22,Iowa State,MVIAA,Maury Kent,H,Kansas,MVIAA,Potsy Clark,L,7,14
+1921-10-29,Iowa State,MVIAA,Maury Kent,A,Washington (MO),MVIAA,George Rider,L,0,2
+1921-11-05,Iowa State,MVIAA,Maury Kent,A,Drake,MVIAA,Ossie Solem,W,7,0
+1921-11-11,Iowa State,MVIAA,Maury Kent,H,Kansas State,MVIAA,Charlie Bachman,W,7,0
+1921-11-19,Iowa State,MVIAA,Maury Kent,H,Nebraska,MVIAA,Fred Dawson,L,3,35
+1921-09-24,Furman,Ind,,H,Erskine,Ind,,W,42,7
+1921-10-01,Furman,Ind,,H,Newberry,Ind,Dutch McLean,W,63,0
+1921-10-08,Furman,Ind,,A,Georgia,Southern,Herman Stegeman,L,7,27
+1921-10-15,Furman,Ind,,A,Georgia Tech,Southern,William Alexander,L,0,69
+1921-10-21,Furman,Ind,,H,Clemson,Southern,Edward Stewart,T,0,0
+1921-10-29,Furman,Ind,,H,Citadel,Ind,Harry O'Brien,W,42,0
+1921-11-05,Furman,Ind,,H,Mercer,Ind,,W,37,0
+1921-11-12,Furman,Ind,,H,South Carolina,Ind,Sol Metzger,W,7,0
+1921-11-19,Furman,Ind,,H,Wofford,Ind,John Gilroy,W,62,0
+1921-11-24,Furman,Ind,,H,Davidson,Ind,Wooly Grey,W,28,0
+1921-10-15,Utah,RMC,Thomas Fitzpatrick,H,Wyoming,RMC,John Corbett,W,14,3
+1921-10-22,Utah,RMC,Thomas Fitzpatrick,A,Colorado College,RMC,Poss Parsons,W,14,3
+1921-10-29,Utah,RMC,Thomas Fitzpatrick,H,Idaho,Ind,Thomas Kelley,W,17,7
+1921-11-12,Utah,RMC,Thomas Fitzpatrick,H,Colorado,RMC,Myron Witham,T,0,0
+1921-11-24,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,L,3,14
+1921-10-15,Washington & Lee,Southern,Bill Raftery,A,Rutgers,Ind,George Sanford,L,13,14
+1921-10-29,Washington & Lee,Southern,Bill Raftery,N,Virginia Tech,Southern,B.C. Cubbage,W,3,0
+1921-11-05,Washington & Lee,Southern,Bill Raftery,N,West Virginia,Ind,,L,7,28
+1921-11-19,Washington & Lee,Southern,Bill Raftery,A,Centre,Ind,Charley Moran,L,0,25
+1921-10-08,Syracuse,Ind,Chick Meehan,H,Maryland,Southern,Curley Byrd,W,42,0
+1921-10-15,Syracuse,Ind,Chick Meehan,H,Brown,Ind,Edward Robinson,W,28,0
+1921-10-22,Syracuse,Ind,Chick Meehan,A,Pitt,Ind,Pop Warner,L,0,35
+1921-10-29,Syracuse,Ind,Chick Meehan,H,Washington & Jefferson,Ind,Greasy Neale,L,10,17
+1921-11-12,Syracuse,Ind,Chick Meehan,H,Colgate,Ind,Ellery Huntington,W,14,0
+1921-11-19,Syracuse,Ind,Chick Meehan,N,Dartmouth,Ind,Jack Cannell,W,14,7
+1921-10-08,Penn State,Ind,Hugo Bezdek,H,North Carolina State,Southern,Harry Hartsell,W,35,0
+1921-10-15,Penn State,Ind,Hugo Bezdek,H,Lehigh,Ind,Frank Glick,W,28,7
+1921-10-22,Penn State,Ind,Hugo Bezdek,A,Harvard,Ind,Robert Fisher,T,21,21
+1921-10-29,Penn State,Ind,Hugo Bezdek,N,Georgia Tech,Southern,William Alexander,W,28,7
+1921-11-12,Penn State,Ind,Hugo Bezdek,N,Navy,Ind,,W,13,7
+1921-11-24,Penn State,Ind,Hugo Bezdek,A,Pitt,Ind,Pop Warner,T,0,0
+1921-12-03,Penn State,Ind,Hugo Bezdek,A,Washington,PCC,Enoch Bagshaw,W,21,7
+1921-10-08,Princeton,Ind,,H,Colgate,Ind,Ellery Huntington,W,19,0
+1921-10-15,Princeton,Ind,,A,Navy,Ind,,L,0,13
+1921-10-22,Princeton,Ind,,H,Chicago,Western,Amos Alonzo Stagg,L,0,9
+1921-10-29,Princeton,Ind,,H,Virginia,Southern,W. Warren,W,34,0
+1921-11-05,Princeton,Ind,,H,Harvard,Ind,Robert Fisher,W,10,3
+1921-11-12,Princeton,Ind,,A,Yale,Ind,Tad Jones,L,7,13
+1921-10-08,Vanderbilt,Ind,Dan McGugin,H,Mercer,Ind,,W,42,0
+1921-10-15,Vanderbilt,Ind,Dan McGugin,A,Kentucky,Southern,William Juneau,W,21,14
+1921-10-21,Vanderbilt,Ind,Dan McGugin,A,Texas,SWC,Berry Whitaker,W,20,0
+1921-10-29,Vanderbilt,Ind,Dan McGugin,H,Tennessee,Southern,Mark Banks,W,14,0
+1921-11-05,Vanderbilt,Ind,Dan McGugin,A,Alabama,Southern,Xen Scott,W,14,0
+1921-11-13,Vanderbilt,Ind,Dan McGugin,H,Georgia,Southern,Herman Stegeman,T,7,7
+1921-11-19,Vanderbilt,Ind,Dan McGugin,H,Sewanee,Ind,John Nicholson,W,9,0
+1921-10-08,Colorado College,RMC,Poss Parsons,A,Wyoming,RMC,John Corbett,W,10,0
+1921-10-22,Colorado College,RMC,Poss Parsons,H,Utah,RMC,Thomas Fitzpatrick,L,3,14
+1921-10-29,Colorado College,RMC,Poss Parsons,H,Colorado State,RMC,Harry Hughes,L,0,24
+1921-11-05,Colorado College,RMC,Poss Parsons,A,Colorado,RMC,Myron Witham,L,14,35
+1921-11-12,Colorado College,RMC,Poss Parsons,N,Colorado Mines,RMC,,L,0,7
+1921-11-24,Colorado College,RMC,Poss Parsons,H,Denver,RMC,Fred Murphy,W,28,21
+1921-10-15,Kentucky,Southern,William Juneau,H,Vanderbilt,Ind,Dan McGugin,L,14,21
+1921-10-29,Kentucky,Southern,William Juneau,H,Sewanee,Ind,John Nicholson,L,0,6
+1921-11-05,Kentucky,Southern,William Juneau,A,Centre,Ind,Charley Moran,L,0,55
+1921-11-12,Kentucky,Southern,William Juneau,H,Virginia Military Institute,Ind,,W,14,7
+1921-11-24,Kentucky,Southern,William Juneau,H,Tennessee,Southern,Mark Banks,T,0,0
+1921-10-22,California,PCC,Andy Smith,H,Oregon,PCC,Shy Huntington,W,39,0
+1921-10-29,California,PCC,Andy Smith,N,Washington State,PCC,Gus Welch,W,14,0
+1921-11-12,California,PCC,Andy Smith,H,Washington,PCC,Enoch Bagshaw,W,72,3
+1921-11-19,California,PCC,Andy Smith,A,Stanford,PCC,Conrad Van Gent,W,42,7
+1922-01-02,California,PCC,Andy Smith,N,Washington & Jefferson,Ind,Greasy Neale,T,0,0
+1921-10-15,Florida,Ind,William Kline,H,Mercer,Ind,,W,7,0
+1921-10-22,Florida,Ind,William Kline,A,Tennessee,Southern,Mark Banks,L,0,9
+1921-10-29,Florida,Ind,William Kline,A,Samford,Ind,Robert Marshall,W,34,0
+1921-11-05,Florida,Ind,William Kline,H,South Carolina,Ind,Sol Metzger,T,7,7
+1921-11-11,Florida,Ind,William Kline,A,Alabama,Southern,Xen Scott,W,9,2
+1921-11-18,Florida,Ind,William Kline,H,Mississippi College,Ind,Stanley Robinson,T,7,7
+1921-11-24,Florida,Ind,William Kline,H,Oglethorpe,Ind,Jogger Elcock,W,21,3
+1921-12-03,Florida,Ind,William Kline,H,North Carolina,Southern,William Fetzer,L,10,14
+1921-10-29,Stanford,PCC,Conrad Van Gent,H,Oregon State,PCC,R.B. Rutherford,W,14,7
+1921-11-05,Stanford,PCC,Conrad Van Gent,A,Washington,PCC,Enoch Bagshaw,T,0,0
+1921-11-19,Stanford,PCC,Conrad Van Gent,H,California,PCC,Andy Smith,L,7,42
+1921-10-01,Presbyterian,Ind,Walter Johnson,A,Davidson,Ind,Wooly Grey,L,0,7
+1921-10-07,Presbyterian,Ind,Walter Johnson,A,Clemson,Southern,Edward Stewart,L,0,34
+1921-10-15,Presbyterian,Ind,Walter Johnson,H,Citadel,Ind,Harry O'Brien,L,0,20
+1921-10-22,Presbyterian,Ind,Walter Johnson,A,South Carolina,Ind,Sol Metzger,L,0,48
+1921-10-29,Presbyterian,Ind,Walter Johnson,H,Erskine,Ind,,L,7,19
+1921-11-12,Presbyterian,Ind,Walter Johnson,H,Wofford,Ind,John Gilroy,W,27,0
+1921-11-19,Presbyterian,Ind,Walter Johnson,A,Newberry,Ind,Dutch McLean,L,7,16
+1921-10-22,Southwestern (TX),Ind,,A,Rice,SWC,Phillip Arbuckle,L,0,28
+1921-10-29,Southwestern (TX),Ind,,A,Baylor,SWC,Frank Bridges,L,0,16
+1921-11-05,Southwestern (TX),Ind,,A,Texas,SWC,Berry Whitaker,L,0,44
+1921-11-19,Southwestern (TX),Ind,,A,SMU,SWC,J. Rix,T,0,0
+1921-10-21,Washington State,PCC,Gus Welch,H,Idaho,Ind,Thomas Kelley,W,20,3
+1921-10-29,Washington State,PCC,Gus Welch,N,California,PCC,Andy Smith,L,0,14
+1921-11-05,Washington State,PCC,Gus Welch,H,Oregon,PCC,Shy Huntington,T,7,7
+1921-11-12,Washington State,PCC,Gus Welch,A,Oregon State,PCC,R.B. Rutherford,W,7,3
+1921-11-24,Washington State,PCC,Gus Welch,A,Washington,PCC,Enoch Bagshaw,W,14,0
+1921-10-15,Illinois,Western,Robert Zuppke,A,Iowa,Western,Howard Jones,L,2,14
+1921-10-22,Illinois,Western,Robert Zuppke,H,Wisconsin,Western,J.R. Richards,L,0,20
+1921-10-29,Illinois,Western,Robert Zuppke,H,Michigan,Western,Fielding Yost,L,0,3
+1921-11-12,Illinois,Western,Robert Zuppke,H,Chicago,Western,Amos Alonzo Stagg,L,6,14
+1921-11-19,Illinois,Western,Robert Zuppke,A,Ohio State,Western,John Wilce,W,7,0
+1921-10-08,Baylor,SWC,Frank Bridges,H,Rice,SWC,Phillip Arbuckle,W,17,14
+1921-10-22,Baylor,SWC,Frank Bridges,H,Phillips,Ind,,W,34,6
+1921-10-29,Baylor,SWC,Frank Bridges,H,Southwestern (TX),Ind,,W,16,0
+1921-11-05,Baylor,SWC,Frank Bridges,H,Texas A&M,SWC,Dana Bible,L,3,14
+1921-11-19,Baylor,SWC,Frank Bridges,A,Arkansas,SWC,George McLaren,L,12,13
+1921-11-26,Baylor,SWC,Frank Bridges,H,SMU,SWC,J. Rix,W,28,0
+1921-12-03,Baylor,SWC,Frank Bridges,H,Mississippi College,Ind,Stanley Robinson,W,24,0
+1921-10-12,SMU,SWC,J. Rix,H,Texas A&M,SWC,Dana Bible,L,0,13
+1921-10-29,SMU,SWC,J. Rix,A,Arkansas,SWC,George McLaren,L,0,14
+1921-11-05,SMU,SWC,J. Rix,A,Rice,SWC,Phillip Arbuckle,L,0,7
+1921-11-12,SMU,SWC,J. Rix,H,Texas Christian,Ind,Bill Driver,L,6,13
+1921-11-19,SMU,SWC,J. Rix,H,Southwestern (TX),Ind,,T,0,0
+1921-11-26,SMU,SWC,J. Rix,A,Baylor,SWC,Frank Bridges,L,0,28
+1921-10-01,Georgia,Southern,Herman Stegeman,H,Mercer,Ind,,W,28,0
+1921-10-08,Georgia,Southern,Herman Stegeman,H,Furman,Ind,,W,27,7
+1921-10-15,Georgia,Southern,Herman Stegeman,A,Harvard,Ind,Robert Fisher,L,7,10
+1921-10-22,Georgia,Southern,Herman Stegeman,H,Oglethorpe,Ind,Jogger Elcock,W,14,0
+1921-10-29,Georgia,Southern,Herman Stegeman,N,Auburn,Southern,Mike Donahue,W,7,0
+1921-11-06,Georgia,Southern,Herman Stegeman,H,Virginia,Southern,W. Warren,W,21,0
+1921-11-13,Georgia,Southern,Herman Stegeman,A,Vanderbilt,Ind,Dan McGugin,T,7,7
+1921-11-19,Georgia,Southern,Herman Stegeman,H,Alabama,Southern,Xen Scott,W,22,0
+1921-11-25,Georgia,Southern,Herman Stegeman,H,Clemson,Southern,Edward Stewart,W,28,0
+1921-11-27,Georgia,Southern,Herman Stegeman,H,Dartmouth,Ind,Jack Cannell,L,0,7
+1921-10-01,Maryland,Southern,Curley Byrd,A,Rutgers,Ind,George Sanford,W,3,0
+1921-10-08,Maryland,Southern,Curley Byrd,A,Syracuse,Ind,Chick Meehan,L,0,42
+1921-10-22,Maryland,Southern,Curley Byrd,N,Virginia Tech,Southern,B.C. Cubbage,W,10,7
+1921-10-29,Maryland,Southern,Curley Byrd,H,North Carolina,Southern,William Fetzer,L,7,16
+1921-11-05,Maryland,Southern,Curley Byrd,A,Yale,Ind,Tad Jones,L,0,28
+1921-11-24,Maryland,Southern,Curley Byrd,H,North Carolina State,Southern,Harry Hartsell,T,6,6
+1921-09-24,Virginia,Southern,W. Warren,H,Davidson,Ind,Wooly Grey,W,28,0
+1921-10-08,Virginia,Southern,W. Warren,H,Richmond,Ind,Frank Dobson,W,14,0
+1921-10-15,Virginia,Southern,W. Warren,A,Virginia Military Institute,Ind,,W,14,7
+1921-10-29,Virginia,Southern,W. Warren,A,Princeton,Ind,,L,0,34
+1921-11-06,Virginia,Southern,W. Warren,A,Georgia,Southern,Herman Stegeman,L,0,21
+1921-11-12,Virginia,Southern,W. Warren,H,West Virginia,Ind,,L,0,7
+1921-11-24,Virginia,Southern,W. Warren,A,North Carolina,Southern,William Fetzer,L,3,7
+1921-10-15,Idaho,Ind,Thomas Kelley,H,Oregon,PCC,Shy Huntington,T,7,7
+1921-10-21,Idaho,Ind,Thomas Kelley,A,Washington State,PCC,Gus Welch,L,3,20
+1921-10-29,Idaho,Ind,Thomas Kelley,A,Utah,RMC,Thomas Fitzpatrick,L,7,17
+1921-11-11,Idaho,Ind,Thomas Kelley,H,Wyoming,RMC,John Corbett,W,31,3
+1921-10-08,Citadel,Ind,Harry O'Brien,H,Wofford,Ind,John Gilroy,W,28,0
+1921-10-15,Citadel,Ind,Harry O'Brien,A,Presbyterian,Ind,Walter Johnson,W,20,0
+1921-10-22,Citadel,Ind,Harry O'Brien,A,Erskine,Ind,,L,6,13
+1921-10-29,Citadel,Ind,Harry O'Brien,A,Furman,Ind,,L,0,42
+1921-11-05,Citadel,Ind,Harry O'Brien,A,Newberry,Ind,Dutch McLean,T,7,7
+1921-11-10,Citadel,Ind,Harry O'Brien,N,Clemson,Southern,Edward Stewart,T,7,7
+1921-11-19,Citadel,Ind,Harry O'Brien,A,South Carolina,Ind,Sol Metzger,L,0,13
+1921-10-15,Oklahoma,MVIAA,Bennie Owen,H,Oklahoma State,SWC,John Maulbetsch,W,6,0
+1921-10-22,Oklahoma,MVIAA,Bennie Owen,H,Washington (MO),MVIAA,George Rider,W,28,13
+1921-10-29,Oklahoma,MVIAA,Bennie Owen,A,Nebraska,MVIAA,Fred Dawson,L,0,44
+1921-11-05,Oklahoma,MVIAA,Bennie Owen,H,Kansas,MVIAA,Potsy Clark,W,24,7
+1921-11-12,Oklahoma,MVIAA,Bennie Owen,A,Missouri,MVIAA,James Phelan,L,14,24
+1921-11-19,Oklahoma,MVIAA,Bennie Owen,A,Kansas State,MVIAA,Charlie Bachman,L,7,14
+1921-11-24,Oklahoma,MVIAA,Bennie Owen,H,Rice,SWC,Phillip Arbuckle,W,27,0
+1921-10-08,Virginia Tech,Southern,B.C. Cubbage,A,Centre,Ind,Charley Moran,L,0,14
+1921-10-15,Virginia Tech,Southern,B.C. Cubbage,A,Richmond,Ind,Frank Dobson,W,34,0
+1921-10-22,Virginia Tech,Southern,B.C. Cubbage,N,Maryland,Southern,Curley Byrd,L,7,10
+1921-10-29,Virginia Tech,Southern,B.C. Cubbage,N,Washington & Lee,Southern,Bill Raftery,L,0,3
+1921-11-11,Virginia Tech,Southern,B.C. Cubbage,N,North Carolina State,Southern,Harry Hartsell,W,7,3
+1921-11-24,Virginia Tech,Southern,B.C. Cubbage,N,Virginia Military Institute,Ind,,W,26,7
+1921-10-22,Arkansas,SWC,George McLaren,A,Oklahoma State,SWC,John Maulbetsch,L,0,7
+1921-10-29,Arkansas,SWC,George McLaren,H,SMU,SWC,J. Rix,W,14,0
+1921-11-05,Arkansas,SWC,George McLaren,N,LSU,Ind,,L,7,10
+1921-11-12,Arkansas,SWC,George McLaren,H,Phillips,Ind,,T,0,0
+1921-11-19,Arkansas,SWC,George McLaren,H,Baylor,SWC,Frank Bridges,W,13,12
+1921-11-24,Arkansas,SWC,George McLaren,A,Texas Christian,Ind,Bill Driver,L,14,19
+1921-10-01,Clemson,Southern,Edward Stewart,A,Centre,Ind,Charley Moran,L,0,14
+1921-10-07,Clemson,Southern,Edward Stewart,H,Presbyterian,Ind,Walter Johnson,W,34,0
+1921-10-14,Clemson,Southern,Edward Stewart,A,Auburn,Southern,Mike Donahue,L,0,56
+1921-10-21,Clemson,Southern,Edward Stewart,A,Furman,Ind,,T,0,0
+1921-10-27,Clemson,Southern,Edward Stewart,A,South Carolina,Ind,Sol Metzger,L,0,21
+1921-11-05,Clemson,Southern,Edward Stewart,A,Georgia Tech,Southern,William Alexander,L,7,48
+1921-11-10,Clemson,Southern,Edward Stewart,N,Citadel,Ind,Harry O'Brien,T,7,7
+1921-11-18,Clemson,Southern,Edward Stewart,H,Erskine,Ind,,L,0,13
+1921-11-25,Clemson,Southern,Edward Stewart,A,Georgia,Southern,Herman Stegeman,L,0,28
+1921-10-01,South Carolina,Ind,Sol Metzger,H,Erskine,Ind,,W,13,7
+1921-10-08,South Carolina,Ind,Sol Metzger,H,Newberry,Ind,Dutch McLean,W,7,0
+1921-10-15,South Carolina,Ind,Sol Metzger,H,North Carolina,Southern,William Fetzer,T,7,7
+1921-10-22,South Carolina,Ind,Sol Metzger,H,Presbyterian,Ind,Walter Johnson,W,48,0
+1921-10-27,South Carolina,Ind,Sol Metzger,H,Clemson,Southern,Edward Stewart,W,21,0
+1921-11-05,South Carolina,Ind,Sol Metzger,A,Florida,Ind,William Kline,T,7,7
+1921-11-12,South Carolina,Ind,Sol Metzger,A,Furman,Ind,,L,0,7
+1921-11-19,South Carolina,Ind,Sol Metzger,H,Citadel,Ind,Harry O'Brien,W,13,0
+1921-10-22,Washington,PCC,Enoch Bagshaw,A,Oregon State,PCC,R.B. Rutherford,L,0,24
+1921-11-05,Washington,PCC,Enoch Bagshaw,H,Stanford,PCC,Conrad Van Gent,T,0,0
+1921-11-12,Washington,PCC,Enoch Bagshaw,A,California,PCC,Andy Smith,L,3,72
+1921-11-24,Washington,PCC,Enoch Bagshaw,H,Washington State,PCC,Gus Welch,L,0,14
+1921-12-03,Washington,PCC,Enoch Bagshaw,H,Penn State,Ind,Hugo Bezdek,L,7,21
+1921-10-11,Utah State,RMC,,H,Wyoming,RMC,John Corbett,W,14,3
+1921-11-05,Utah State,RMC,,A,Colorado Mines,RMC,,W,23,7
+1921-11-24,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,W,14,3
+1921-10-01,Missouri,MVIAA,James Phelan,H,Oklahoma State,SWC,John Maulbetsch,W,36,0
+1921-10-15,Missouri,MVIAA,James Phelan,H,Iowa State,MVIAA,Maury Kent,W,17,14
+1921-10-22,Missouri,MVIAA,James Phelan,A,Kansas State,MVIAA,Charlie Bachman,L,5,7
+1921-10-29,Missouri,MVIAA,James Phelan,H,Drake,MVIAA,Ossie Solem,W,6,0
+1921-11-05,Missouri,MVIAA,James Phelan,A,Washington (MO),MVIAA,George Rider,W,7,0
+1921-11-12,Missouri,MVIAA,James Phelan,H,Oklahoma,MVIAA,Bennie Owen,W,24,14
+1921-11-24,Missouri,MVIAA,James Phelan,A,Kansas,MVIAA,Potsy Clark,L,9,15
+1921-10-22,Denver,RMC,Fred Murphy,A,Colorado,RMC,Myron Witham,L,7,10
+1921-10-29,Denver,RMC,Fred Murphy,H,Wyoming,RMC,John Corbett,T,9,9
+1921-11-05,Denver,RMC,Fred Murphy,A,Colorado State,RMC,Harry Hughes,W,21,14
+1921-11-19,Denver,RMC,Fred Murphy,H,Colorado Mines,RMC,,W,13,7
+1921-11-24,Denver,RMC,Fred Murphy,A,Colorado College,RMC,Poss Parsons,L,21,28
+1921-10-22,Washington & Jefferson,Ind,Greasy Neale,A,Lehigh,Ind,Frank Glick,W,14,7
+1921-10-29,Washington & Jefferson,Ind,Greasy Neale,A,Syracuse,Ind,Chick Meehan,W,17,10
+1921-11-12,Washington & Jefferson,Ind,Greasy Neale,A,Pitt,Ind,Pop Warner,W,7,0
+1921-11-24,Washington & Jefferson,Ind,Greasy Neale,A,West Virginia,Ind,,W,13,0
+1922-01-02,Washington & Jefferson,Ind,Greasy Neale,N,California,PCC,Andy Smith,T,0,0
+1921-10-08,Wofford,Ind,John Gilroy,A,Citadel,Ind,Harry O'Brien,L,0,28
+1921-10-22,Wofford,Ind,John Gilroy,A,Davidson,Ind,Wooly Grey,L,0,87
+1921-10-29,Wofford,Ind,John Gilroy,H,Newberry,Ind,Dutch McLean,L,21,33
+1921-11-03,Wofford,Ind,John Gilroy,H,Erskine,Ind,,L,6,19
+1921-11-12,Wofford,Ind,John Gilroy,A,Presbyterian,Ind,Walter Johnson,L,0,27
+1921-11-19,Wofford,Ind,John Gilroy,A,Furman,Ind,,L,0,62
+1921-10-01,Mississippi College,Ind,Stanley Robinson,A,Tulane,Ind,Myron Fuller,W,14,0
+1921-10-15,Mississippi College,Ind,Stanley Robinson,N,Mississippi State,Southern,Fred Holtkamp,L,13,14
+1921-10-29,Mississippi College,Ind,Stanley Robinson,H,Birmingham-Southern,Ind,Van Gillam,W,27,6
+1921-11-05,Mississippi College,Ind,Stanley Robinson,N,Ole Miss,Ind,R.L. Sullivan,W,27,7
+1921-11-18,Mississippi College,Ind,Stanley Robinson,A,Florida,Ind,William Kline,T,7,7
+1921-11-26,Mississippi College,Ind,Stanley Robinson,A,Spring Hill,Ind,,W,28,7
+1921-12-03,Mississippi College,Ind,Stanley Robinson,A,Baylor,SWC,Frank Bridges,L,0,24
+1921-10-15,Wisconsin,Western,J.R. Richards,A,Northwestern,Western,Elmer McDevitt,W,27,0
+1921-10-22,Wisconsin,Western,J.R. Richards,A,Illinois,Western,Robert Zuppke,W,20,0
+1921-10-29,Wisconsin,Western,J.R. Richards,H,Minnesota,Western,Henry Williams,W,35,0
+1921-11-12,Wisconsin,Western,J.R. Richards,H,Michigan,Western,Fielding Yost,T,7,7
+1921-11-19,Wisconsin,Western,J.R. Richards,A,Chicago,Western,Amos Alonzo Stagg,L,0,3
+1921-10-15,Colorado Mines,RMC,,A,Colorado State,RMC,Harry Hughes,L,0,14
+1921-10-22,Colorado Mines,RMC,,A,Wyoming,RMC,John Corbett,L,7,14
+1921-11-05,Colorado Mines,RMC,,H,Utah State,RMC,,L,7,23
+1921-11-12,Colorado Mines,RMC,,N,Colorado College,RMC,Poss Parsons,W,7,0
+1921-11-19,Colorado Mines,RMC,,A,Denver,RMC,Fred Murphy,L,7,13
+1921-11-24,Colorado Mines,RMC,,A,Colorado,RMC,Myron Witham,L,7,10
+1921-10-01,North Carolina State,Southern,Harry Hartsell,A,Navy,Ind,,L,0,40
+1921-10-08,North Carolina State,Southern,Harry Hartsell,A,Penn State,Ind,Hugo Bezdek,L,0,35
+1921-10-20,North Carolina State,Southern,Harry Hartsell,H,North Carolina,Southern,William Fetzer,W,7,0
+1921-10-29,North Carolina State,Southern,Harry Hartsell,H,Virginia Military Institute,Ind,,T,7,7
+1921-11-05,North Carolina State,Southern,Harry Hartsell,N,Davidson,Ind,Wooly Grey,T,3,3
+1921-11-11,North Carolina State,Southern,Harry Hartsell,N,Virginia Tech,Southern,B.C. Cubbage,L,3,7
+1921-11-19,North Carolina State,Southern,Harry Hartsell,A,Wake Forest,Ind,J.L. White,W,14,0
+1921-11-24,North Carolina State,Southern,Harry Hartsell,A,Maryland,Southern,Curley Byrd,T,6,6
+1921-10-01,Rutgers,Ind,George Sanford,H,Maryland,Southern,Curley Byrd,L,0,3
+1921-10-08,Rutgers,Ind,George Sanford,H,Lehigh,Ind,Frank Glick,L,0,7
+1921-10-15,Rutgers,Ind,George Sanford,H,Washington & Lee,Southern,Bill Raftery,W,14,13
+1921-10-22,Rutgers,Ind,George Sanford,A,Georgia Tech,Southern,William Alexander,L,14,48
+1921-10-29,Rutgers,Ind,George Sanford,A,Lafayette,Ind,Jock Sutherland,L,0,35
+1921-11-08,Rutgers,Ind,George Sanford,H,Notre Dame,Ind,Knute Rockne,L,0,48
+1921-11-19,Rutgers,Ind,George Sanford,H,West Virginia,Ind,,W,17,7
+1921-10-22,Michigan,Western,Fielding Yost,H,Ohio State,Western,John Wilce,L,0,14
+1921-10-29,Michigan,Western,Fielding Yost,A,Illinois,Western,Robert Zuppke,W,3,0
+1921-11-12,Michigan,Western,Fielding Yost,A,Wisconsin,Western,J.R. Richards,T,7,7
+1921-11-19,Michigan,Western,Fielding Yost,H,Minnesota,Western,Henry Williams,W,38,0
+1921-10-08,Notre Dame,Ind,Knute Rockne,A,Iowa,Western,Howard Jones,L,7,10
+1921-10-15,Notre Dame,Ind,Knute Rockne,A,Purdue,Western,William Dietz,W,33,0
+1921-10-22,Notre Dame,Ind,Knute Rockne,H,Nebraska,MVIAA,Fred Dawson,W,7,0
+1921-10-29,Notre Dame,Ind,Knute Rockne,N,Indiana,Western,Jumbo Stiehm,W,28,7
+1921-11-08,Notre Dame,Ind,Knute Rockne,A,Rutgers,Ind,George Sanford,W,48,0
+1921-10-01,Pitt,Ind,Pop Warner,A,Lafayette,Ind,Jock Sutherland,L,0,6
+1921-10-08,Pitt,Ind,Pop Warner,H,West Virginia,Ind,,W,21,13
+1921-10-22,Pitt,Ind,Pop Warner,H,Syracuse,Ind,Chick Meehan,W,35,0
+1921-10-29,Pitt,Ind,Pop Warner,A,Pennsylvania,Ind,John Heisman,W,28,0
+1921-11-05,Pitt,Ind,Pop Warner,H,Nebraska,MVIAA,Fred Dawson,L,0,10
+1921-11-12,Pitt,Ind,Pop Warner,H,Washington & Jefferson,Ind,Greasy Neale,L,0,7
+1921-11-24,Pitt,Ind,Pop Warner,H,Penn State,Ind,Hugo Bezdek,T,0,0
+1921-10-01,Mercer,Ind,,A,Georgia,Southern,Herman Stegeman,L,0,28
+1921-10-08,Mercer,Ind,,A,Vanderbilt,Ind,Dan McGugin,L,0,42
+1921-10-15,Mercer,Ind,,A,Florida,Ind,William Kline,L,0,7
+1921-10-22,Mercer,Ind,,H,Birmingham-Southern,Ind,Van Gillam,W,20,0
+1921-11-05,Mercer,Ind,,A,Furman,Ind,,L,0,37
+1921-11-12,Mercer,Ind,,H,Oglethorpe,Ind,Jogger Elcock,L,6,7
+1921-11-19,Mercer,Ind,,H,Chattanooga,Ind,Silas Williams,W,18,0
+1921-10-01,Newberry,Ind,Dutch McLean,A,Furman,Ind,,L,0,63
+1921-10-08,Newberry,Ind,Dutch McLean,A,South Carolina,Ind,Sol Metzger,L,0,7
+1921-10-29,Newberry,Ind,Dutch McLean,A,Wofford,Ind,John Gilroy,W,33,21
+1921-11-05,Newberry,Ind,Dutch McLean,H,Citadel,Ind,Harry O'Brien,T,7,7
+1921-11-12,Newberry,Ind,Dutch McLean,A,Erskine,Ind,,L,13,18
+1921-11-19,Newberry,Ind,Dutch McLean,H,Presbyterian,Ind,Walter Johnson,W,16,7
+1921-10-01,Wyoming,RMC,John Corbett,A,Colorado State,RMC,Harry Hughes,T,7,7
+1921-10-08,Wyoming,RMC,John Corbett,H,Colorado College,RMC,Poss Parsons,L,0,10
+1921-10-11,Wyoming,RMC,John Corbett,A,Utah State,RMC,,L,3,14
+1921-10-15,Wyoming,RMC,John Corbett,A,Utah,RMC,Thomas Fitzpatrick,L,3,14
+1921-10-22,Wyoming,RMC,John Corbett,H,Colorado Mines,RMC,,W,14,7
+1921-10-29,Wyoming,RMC,John Corbett,A,Denver,RMC,Fred Murphy,T,9,9
+1921-11-11,Wyoming,RMC,John Corbett,A,Idaho,Ind,Thomas Kelley,L,3,31
+1921-10-08,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,34,0
+1921-10-29,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,W,45,7
+1921-11-05,Yale,Ind,Tad Jones,H,Maryland,Southern,Curley Byrd,W,28,0
+1921-11-12,Yale,Ind,Tad Jones,H,Princeton,Ind,,W,13,7
+1921-11-19,Yale,Ind,Tad Jones,A,Harvard,Ind,Robert Fisher,L,3,10
+1921-10-08,Grinnell,MVIAA,William Saunders,A,Iowa State,MVIAA,Maury Kent,L,3,21
+1921-10-15,Grinnell,MVIAA,William Saunders,H,Washington (MO),MVIAA,George Rider,L,13,14
+1921-11-05,Grinnell,MVIAA,William Saunders,A,Kansas State,MVIAA,Charlie Bachman,L,7,21
+1921-11-19,Grinnell,MVIAA,William Saunders,A,Drake,MVIAA,Ossie Solem,L,10,21
+1921-09-24,Georgia Tech,Southern,William Alexander,H,Wake Forest,Ind,J.L. White,W,42,0
+1921-10-01,Georgia Tech,Southern,William Alexander,H,Oglethorpe,Ind,Jogger Elcock,W,41,0
+1921-10-08,Georgia Tech,Southern,William Alexander,H,Davidson,Ind,Wooly Grey,W,70,0
+1921-10-15,Georgia Tech,Southern,William Alexander,H,Furman,Ind,,W,69,0
+1921-10-22,Georgia Tech,Southern,William Alexander,H,Rutgers,Ind,George Sanford,W,48,14
+1921-10-29,Georgia Tech,Southern,William Alexander,N,Penn State,Ind,Hugo Bezdek,L,7,28
+1921-11-05,Georgia Tech,Southern,William Alexander,H,Clemson,Southern,Edward Stewart,W,48,7
+1921-11-24,Georgia Tech,Southern,William Alexander,H,Auburn,Southern,Mike Donahue,W,14,0
+1921-09-24,Wake Forest,Ind,J.L. White,A,Georgia Tech,Southern,William Alexander,L,0,42
+1921-10-01,Wake Forest,Ind,J.L. White,A,North Carolina,Southern,William Fetzer,L,0,21
+1921-10-08,Wake Forest,Ind,J.L. White,A,Virginia Military Institute,Ind,,L,0,20
+1921-10-15,Wake Forest,Ind,J.L. White,N,Davidson,Ind,Wooly Grey,W,10,7
+1921-11-05,Wake Forest,Ind,J.L. White,A,Richmond,Ind,Frank Dobson,L,0,41
+1921-11-19,Wake Forest,Ind,J.L. White,H,North Carolina State,Southern,Harry Hartsell,L,0,14
+1921-10-01,Mississippi State,Southern,Fred Holtkamp,H,Birmingham-Southern,Ind,Van Gillam,W,20,7
+1921-10-15,Mississippi State,Southern,Fred Holtkamp,N,Mississippi College,Ind,Stanley Robinson,W,14,13
+1921-10-22,Mississippi State,Southern,Fred Holtkamp,A,Tulane,Ind,Myron Fuller,L,0,7
+1921-10-29,Mississippi State,Southern,Fred Holtkamp,N,Ole Miss,Ind,R.L. Sullivan,W,21,0
+1921-11-05,Mississippi State,Southern,Fred Holtkamp,N,Tennessee,Southern,Mark Banks,L,7,14
+1921-11-11,Mississippi State,Southern,Fred Holtkamp,A,Texas,SWC,Berry Whitaker,L,7,54
+1921-11-24,Mississippi State,Southern,Fred Holtkamp,A,Alabama,Southern,Xen Scott,T,7,7
+1921-12-03,Mississippi State,Southern,Fred Holtkamp,H,LSU,Ind,,L,14,17
+1921-10-08,Virginia Military Institute,Ind,,H,Wake Forest,Ind,J.L. White,W,20,0
+1921-10-15,Virginia Military Institute,Ind,,H,Virginia,Southern,W. Warren,L,7,14
+1921-10-22,Virginia Military Institute,Ind,,A,Pennsylvania,Ind,John Heisman,L,7,21
+1921-10-29,Virginia Military Institute,Ind,,A,North Carolina State,Southern,Harry Hartsell,T,7,7
+1921-11-05,Virginia Military Institute,Ind,,H,North Carolina,Southern,William Fetzer,L,7,20
+1921-11-12,Virginia Military Institute,Ind,,A,Kentucky,Southern,William Juneau,L,7,14
+1921-11-24,Virginia Military Institute,Ind,,N,Virginia Tech,Southern,B.C. Cubbage,L,7,26
+1921-10-08,Kansas State,MVIAA,Charlie Bachman,H,Washington (MO),MVIAA,George Rider,W,21,0
+1921-10-22,Kansas State,MVIAA,Charlie Bachman,H,Missouri,MVIAA,James Phelan,W,7,5
+1921-10-29,Kansas State,MVIAA,Charlie Bachman,A,Kansas,MVIAA,Potsy Clark,L,7,21
+1921-11-05,Kansas State,MVIAA,Charlie Bachman,H,Grinnell,MVIAA,William Saunders,W,21,7
+1921-11-11,Kansas State,MVIAA,Charlie Bachman,A,Iowa State,MVIAA,Maury Kent,L,0,7
+1921-11-19,Kansas State,MVIAA,Charlie Bachman,H,Oklahoma,MVIAA,Bennie Owen,W,14,7
+1921-10-08,Chattanooga,Ind,Silas Williams,A,Tennessee,Southern,Mark Banks,L,0,21
+1921-10-22,Chattanooga,Ind,Silas Williams,H,Samford,Ind,Robert Marshall,W,26,3
+1921-10-29,Chattanooga,Ind,Silas Williams,A,Oglethorpe,Ind,Jogger Elcock,L,0,7
+1921-11-05,Chattanooga,Ind,Silas Williams,H,Sewanee,Ind,John Nicholson,L,0,47
+1921-11-11,Chattanooga,Ind,Silas Williams,A,Birmingham-Southern,Ind,Van Gillam,L,7,14
+1921-11-19,Chattanooga,Ind,Silas Williams,A,Mercer,Ind,,L,0,18
+1921-09-24,Samford,Ind,Robert Marshall,A,Alabama,Southern,Xen Scott,L,14,34
+1921-10-01,Samford,Ind,Robert Marshall,H,Auburn,Southern,Mike Donahue,L,3,35
+1921-10-22,Samford,Ind,Robert Marshall,A,Chattanooga,Ind,Silas Williams,L,3,26
+1921-10-29,Samford,Ind,Robert Marshall,H,Florida,Ind,William Kline,L,0,34
+1921-11-05,Samford,Ind,Robert Marshall,A,Birmingham-Southern,Ind,Van Gillam,L,14,16
+1921-11-12,Samford,Ind,Robert Marshall,H,Spring Hill,Ind,,L,0,7
+1921-10-15,Dartmouth,Ind,Jack Cannell,H,Tennessee,Southern,Mark Banks,W,14,3
+1921-10-22,Dartmouth,Ind,Jack Cannell,H,Columbia,Ind,Buck O'Neill,W,31,7
+1921-10-29,Dartmouth,Ind,Jack Cannell,A,Cornell,Ind,Gilmour Dobie,L,7,59
+1921-11-12,Dartmouth,Ind,Jack Cannell,N,Pennsylvania,Ind,John Heisman,T,14,14
+1921-11-19,Dartmouth,Ind,Jack Cannell,N,Syracuse,Ind,Chick Meehan,L,7,14
+1921-11-27,Dartmouth,Ind,Jack Cannell,A,Georgia,Southern,Herman Stegeman,W,7,0
+1921-10-01,Auburn,Southern,Mike Donahue,A,Samford,Ind,Robert Marshall,W,35,3
+1921-10-08,Auburn,Southern,Mike Donahue,N,Spring Hill,Ind,,W,44,0
+1921-10-14,Auburn,Southern,Mike Donahue,H,Clemson,Southern,Edward Stewart,W,56,0
+1921-10-29,Auburn,Southern,Mike Donahue,N,Georgia,Southern,Herman Stegeman,L,0,7
+1921-11-05,Auburn,Southern,Mike Donahue,A,Tulane,Ind,Myron Fuller,W,14,0
+1921-11-12,Auburn,Southern,Mike Donahue,H,Centre,Ind,Charley Moran,L,0,21
+1921-11-24,Auburn,Southern,Mike Donahue,A,Georgia Tech,Southern,William Alexander,L,0,14
+1921-10-01,Northwestern,Western,Elmer McDevitt,A,Chicago,Western,Amos Alonzo Stagg,L,0,41
+1921-10-08,Northwestern,Western,Elmer McDevitt,A,Minnesota,Western,Henry Williams,L,0,28
+1921-10-15,Northwestern,Western,Elmer McDevitt,H,Wisconsin,Western,J.R. Richards,L,0,27
+1921-11-05,Northwestern,Western,Elmer McDevitt,A,Purdue,Western,William Dietz,L,0,3
+1921-11-19,Northwestern,Western,Elmer McDevitt,H,Iowa,Western,Howard Jones,L,0,14
+1921-10-15,Kansas,MVIAA,Potsy Clark,H,Drake,MVIAA,Ossie Solem,L,7,15
+1921-10-22,Kansas,MVIAA,Potsy Clark,A,Iowa State,MVIAA,Maury Kent,W,14,7
+1921-10-29,Kansas,MVIAA,Potsy Clark,H,Kansas State,MVIAA,Charlie Bachman,W,21,7
+1921-11-05,Kansas,MVIAA,Potsy Clark,A,Oklahoma,MVIAA,Bennie Owen,L,7,24
+1921-11-12,Kansas,MVIAA,Potsy Clark,A,Nebraska,MVIAA,Fred Dawson,L,0,28
+1921-11-24,Kansas,MVIAA,Potsy Clark,H,Missouri,MVIAA,James Phelan,W,15,9
+1921-10-15,LSU,Ind,,H,Texas A&M,SWC,Dana Bible,W,6,0
+1921-10-22,LSU,Ind,,H,Spring Hill,Ind,,W,41,7
+1921-10-29,LSU,Ind,,H,Alabama,Southern,Xen Scott,T,7,7
+1921-11-05,LSU,Ind,,N,Arkansas,SWC,George McLaren,W,10,7
+1921-11-12,LSU,Ind,,H,Ole Miss,Ind,R.L. Sullivan,W,21,0
+1921-11-19,LSU,Ind,,A,Tulane,Ind,Myron Fuller,L,0,21
+1921-12-03,LSU,Ind,,A,Mississippi State,Southern,Fred Holtkamp,W,17,14
+1921-10-22,Pennsylvania,Ind,John Heisman,H,Virginia Military Institute,Ind,,W,21,7
+1921-10-29,Pennsylvania,Ind,John Heisman,H,Pitt,Ind,Pop Warner,L,0,28
+1921-11-05,Pennsylvania,Ind,John Heisman,H,Lafayette,Ind,Jock Sutherland,L,6,38
+1921-11-12,Pennsylvania,Ind,John Heisman,N,Dartmouth,Ind,Jack Cannell,T,14,14
+1921-11-24,Pennsylvania,Ind,John Heisman,H,Cornell,Ind,Gilmour Dobie,L,0,41
+1921-10-08,Iowa,Western,Howard Jones,H,Notre Dame,Ind,Knute Rockne,W,10,7
+1921-10-15,Iowa,Western,Howard Jones,H,Illinois,Western,Robert Zuppke,W,14,2
+1921-10-29,Iowa,Western,Howard Jones,A,Purdue,Western,William Dietz,W,13,6
+1921-11-05,Iowa,Western,Howard Jones,A,Minnesota,Western,Henry Williams,W,41,7
+1921-11-12,Iowa,Western,Howard Jones,H,Indiana,Western,Jumbo Stiehm,W,41,0
+1921-11-19,Iowa,Western,Howard Jones,A,Northwestern,Western,Elmer McDevitt,W,14,0
+1921-10-22,Columbia,Ind,Buck O'Neill,A,Dartmouth,Ind,Jack Cannell,L,7,31
+1921-11-05,Columbia,Ind,Buck O'Neill,H,Cornell,Ind,Gilmour Dobie,L,7,41
+1921-11-24,Columbia,Ind,Buck O'Neill,H,Colgate,Ind,Ellery Huntington,L,14,21
+1921-10-21,Texas,SWC,Berry Whitaker,H,Vanderbilt,Ind,Dan McGugin,L,0,20
+1921-10-29,Texas,SWC,Berry Whitaker,H,Rice,SWC,Phillip Arbuckle,W,56,0
+1921-11-05,Texas,SWC,Berry Whitaker,H,Southwestern (TX),Ind,,W,44,0
+1921-11-11,Texas,SWC,Berry Whitaker,H,Mississippi State,Southern,Fred Holtkamp,W,54,7
+1921-11-24,Texas,SWC,Berry Whitaker,A,Texas A&M,SWC,Dana Bible,T,0,0
+1921-10-08,Texas Christian,Ind,Bill Driver,A,Oklahoma State,SWC,John Maulbetsch,L,21,28
+1921-10-29,Texas Christian,Ind,Bill Driver,A,Phillips,Ind,,T,0,0
+1921-11-12,Texas Christian,Ind,Bill Driver,A,SMU,SWC,J. Rix,W,13,6
+1921-11-24,Texas Christian,Ind,Bill Driver,H,Arkansas,SWC,George McLaren,W,19,14
+1921-10-08,Richmond,Ind,Frank Dobson,A,Virginia,Southern,W. Warren,L,0,14
+1921-10-15,Richmond,Ind,Frank Dobson,H,Virginia Tech,Southern,B.C. Cubbage,L,0,34
+1921-10-29,Richmond,Ind,Frank Dobson,H,Davidson,Ind,Wooly Grey,T,14,14
+1921-11-05,Richmond,Ind,Frank Dobson,H,Wake Forest,Ind,J.L. White,W,41,0
+1921-10-15,Oregon,PCC,Shy Huntington,A,Idaho,Ind,Thomas Kelley,T,7,7
+1921-10-22,Oregon,PCC,Shy Huntington,A,California,PCC,Andy Smith,L,0,39
+1921-11-05,Oregon,PCC,Shy Huntington,A,Washington State,PCC,Gus Welch,T,7,7
+1921-11-19,Oregon,PCC,Shy Huntington,H,Oregon State,PCC,R.B. Rutherford,T,0,0
+1921-10-15,Brown,Ind,Edward Robinson,A,Syracuse,Ind,Chick Meehan,L,0,28
+1921-10-29,Brown,Ind,Edward Robinson,A,Yale,Ind,Tad Jones,L,7,45
+1921-11-12,Brown,Ind,Edward Robinson,A,Harvard,Ind,Robert Fisher,L,7,9
+1921-11-19,Brown,Ind,Edward Robinson,H,Colgate,Ind,Ellery Huntington,W,7,0
+1921-09-24,Erskine,Ind,,A,Furman,Ind,,L,7,42
+1921-10-01,Erskine,Ind,,A,South Carolina,Ind,Sol Metzger,L,7,13
+1921-10-22,Erskine,Ind,,H,Citadel,Ind,Harry O'Brien,W,13,6
+1921-10-29,Erskine,Ind,,A,Presbyterian,Ind,Walter Johnson,W,19,7
+1921-11-03,Erskine,Ind,,A,Wofford,Ind,John Gilroy,W,19,6
+1921-11-12,Erskine,Ind,,H,Newberry,Ind,Dutch McLean,W,18,13
+1921-11-18,Erskine,Ind,,A,Clemson,Southern,Edward Stewart,W,13,0
+1921-10-01,Spring Hill,Ind,,A,Alabama,Southern,Xen Scott,L,7,27
+1921-10-08,Spring Hill,Ind,,N,Auburn,Southern,Mike Donahue,L,0,44
+1921-10-22,Spring Hill,Ind,,A,LSU,Ind,,L,7,41
+1921-11-12,Spring Hill,Ind,,A,Samford,Ind,Robert Marshall,W,7,0
+1921-11-26,Spring Hill,Ind,,H,Mississippi College,Ind,Stanley Robinson,L,7,28
+1921-10-08,Tennessee,Southern,Mark Banks,H,Chattanooga,Ind,Silas Williams,W,21,0
+1921-10-15,Tennessee,Southern,Mark Banks,A,Dartmouth,Ind,Jack Cannell,L,3,14
+1921-10-22,Tennessee,Southern,Mark Banks,H,Florida,Ind,William Kline,W,9,0
+1921-10-29,Tennessee,Southern,Mark Banks,A,Vanderbilt,Ind,Dan McGugin,L,0,14
+1921-11-05,Tennessee,Southern,Mark Banks,N,Mississippi State,Southern,Fred Holtkamp,W,14,7
+1921-11-12,Tennessee,Southern,Mark Banks,H,Sewanee,Ind,John Nicholson,W,21,0
+1921-11-24,Tennessee,Southern,Mark Banks,A,Kentucky,Southern,William Juneau,T,0,0
+1921-10-08,Lehigh,Ind,Frank Glick,A,Rutgers,Ind,George Sanford,W,7,0
+1921-10-15,Lehigh,Ind,Frank Glick,A,Penn State,Ind,Hugo Bezdek,L,7,28
+1921-10-22,Lehigh,Ind,Frank Glick,H,Washington & Jefferson,Ind,Greasy Neale,L,7,14
+1921-10-29,Lehigh,Ind,Frank Glick,H,West Virginia,Ind,,W,21,12
+1921-11-19,Lehigh,Ind,Frank Glick,H,Lafayette,Ind,Jock Sutherland,L,6,28
+1921-10-22,Oregon State,PCC,R.B. Rutherford,H,Washington,PCC,Enoch Bagshaw,W,24,0
+1921-10-29,Oregon State,PCC,R.B. Rutherford,A,Stanford,PCC,Conrad Van Gent,L,7,14
+1921-11-12,Oregon State,PCC,R.B. Rutherford,H,Washington State,PCC,Gus Welch,L,3,7
+1921-11-19,Oregon State,PCC,R.B. Rutherford,A,Oregon,PCC,Shy Huntington,T,0,0
+1921-09-24,Alabama,Southern,Xen Scott,H,Samford,Ind,Robert Marshall,W,34,14
+1921-10-01,Alabama,Southern,Xen Scott,H,Spring Hill,Ind,,W,27,7
+1921-10-22,Alabama,Southern,Xen Scott,H,Sewanee,Ind,John Nicholson,L,0,17
+1921-10-29,Alabama,Southern,Xen Scott,A,LSU,Ind,,T,7,7
+1921-11-05,Alabama,Southern,Xen Scott,H,Vanderbilt,Ind,Dan McGugin,L,0,14
+1921-11-11,Alabama,Southern,Xen Scott,H,Florida,Ind,William Kline,L,2,9
+1921-11-19,Alabama,Southern,Xen Scott,A,Georgia,Southern,Herman Stegeman,L,0,22
+1921-11-24,Alabama,Southern,Xen Scott,H,Mississippi State,Southern,Fred Holtkamp,T,7,7
+1921-12-03,Alabama,Southern,Xen Scott,A,Tulane,Ind,Myron Fuller,W,14,7
+1921-10-22,Phillips,Ind,,A,Baylor,SWC,Frank Bridges,L,6,34
+1921-10-29,Phillips,Ind,,H,Texas Christian,Ind,Bill Driver,T,0,0
+1921-11-12,Phillips,Ind,,A,Arkansas,SWC,George McLaren,T,0,0
+1921-11-19,Phillips,Ind,,H,Oklahoma State,SWC,John Maulbetsch,L,6,7
+1921-10-08,Purdue,Western,William Dietz,A,Chicago,Western,Amos Alonzo Stagg,L,0,9
+1921-10-15,Purdue,Western,William Dietz,H,Notre Dame,Ind,Knute Rockne,L,0,33
+1921-10-29,Purdue,Western,William Dietz,H,Iowa,Western,Howard Jones,L,6,13
+1921-11-05,Purdue,Western,William Dietz,H,Northwestern,Western,Elmer McDevitt,W,3,0
+1921-11-12,Purdue,Western,William Dietz,A,Ohio State,Western,John Wilce,L,0,28
+1921-11-19,Purdue,Western,William Dietz,A,Indiana,Western,Jumbo Stiehm,L,0,3
+1921-10-22,Nebraska,MVIAA,Fred Dawson,A,Notre Dame,Ind,Knute Rockne,L,0,7
+1921-10-29,Nebraska,MVIAA,Fred Dawson,H,Oklahoma,MVIAA,Bennie Owen,W,44,0
+1921-11-05,Nebraska,MVIAA,Fred Dawson,A,Pitt,Ind,Pop Warner,W,10,0
+1921-11-12,Nebraska,MVIAA,Fred Dawson,H,Kansas,MVIAA,Potsy Clark,W,28,0
+1921-11-19,Nebraska,MVIAA,Fred Dawson,A,Iowa State,MVIAA,Maury Kent,W,35,3
+1921-11-24,Nebraska,MVIAA,Fred Dawson,H,Colorado State,RMC,Harry Hughes,W,70,7
+1921-10-08,West Virginia,Ind,,A,Pitt,Ind,Pop Warner,L,13,21
+1921-10-29,West Virginia,Ind,,A,Lehigh,Ind,Frank Glick,L,12,21
+1921-11-05,West Virginia,Ind,,N,Washington & Lee,Southern,Bill Raftery,W,28,7
+1921-11-12,West Virginia,Ind,,A,Virginia,Southern,W. Warren,W,7,0
+1921-11-19,West Virginia,Ind,,A,Rutgers,Ind,George Sanford,L,7,17
+1921-11-24,West Virginia,Ind,,H,Washington & Jefferson,Ind,Greasy Neale,L,0,13
+1921-10-08,Harvard,Ind,Robert Fisher,H,Indiana,Western,Jumbo Stiehm,W,19,0
+1921-10-15,Harvard,Ind,Robert Fisher,H,Georgia,Southern,Herman Stegeman,W,10,7
+1921-10-22,Harvard,Ind,Robert Fisher,H,Penn State,Ind,Hugo Bezdek,T,21,21
+1921-10-29,Harvard,Ind,Robert Fisher,H,Centre,Ind,Charley Moran,L,0,6
+1921-11-05,Harvard,Ind,Robert Fisher,A,Princeton,Ind,,L,3,10
+1921-11-12,Harvard,Ind,Robert Fisher,H,Brown,Ind,Edward Robinson,W,9,7
+1921-11-19,Harvard,Ind,Robert Fisher,H,Yale,Ind,Tad Jones,W,10,3
+1921-10-01,Oklahoma State,SWC,John Maulbetsch,A,Missouri,MVIAA,James Phelan,L,0,36
+1921-10-08,Oklahoma State,SWC,John Maulbetsch,H,Texas Christian,Ind,Bill Driver,W,28,21
+1921-10-15,Oklahoma State,SWC,John Maulbetsch,A,Oklahoma,MVIAA,Bennie Owen,L,0,6
+1921-10-22,Oklahoma State,SWC,John Maulbetsch,H,Arkansas,SWC,George McLaren,W,7,0
+1921-10-29,Oklahoma State,SWC,John Maulbetsch,A,Texas A&M,SWC,Dana Bible,L,7,23
+1921-11-19,Oklahoma State,SWC,John Maulbetsch,A,Phillips,Ind,,W,7,6
+1921-10-22,Colorado,RMC,Myron Witham,H,Denver,RMC,Fred Murphy,W,10,7
+1921-10-29,Colorado,RMC,Myron Witham,A,Chicago,Western,Amos Alonzo Stagg,L,0,35
+1921-11-05,Colorado,RMC,Myron Witham,H,Colorado College,RMC,Poss Parsons,W,35,14
+1921-11-12,Colorado,RMC,Myron Witham,A,Utah,RMC,Thomas Fitzpatrick,T,0,0
+1921-11-19,Colorado,RMC,Myron Witham,A,Colorado State,RMC,Harry Hughes,W,10,0
+1921-11-24,Colorado,RMC,Myron Witham,H,Colorado Mines,RMC,,W,10,7
+1921-10-01,Birmingham-Southern,Ind,Van Gillam,A,Mississippi State,Southern,Fred Holtkamp,L,7,20
+1921-10-22,Birmingham-Southern,Ind,Van Gillam,A,Mercer,Ind,,L,0,20
+1921-10-29,Birmingham-Southern,Ind,Van Gillam,A,Mississippi College,Ind,Stanley Robinson,L,6,27
+1921-11-05,Birmingham-Southern,Ind,Van Gillam,H,Samford,Ind,Robert Marshall,W,16,14
+1921-11-11,Birmingham-Southern,Ind,Van Gillam,H,Chattanooga,Ind,Silas Williams,W,14,7
+1921-10-01,Oglethorpe,Ind,Jogger Elcock,A,Georgia Tech,Southern,William Alexander,L,0,41
+1921-10-15,Oglethorpe,Ind,Jogger Elcock,A,Sewanee,Ind,John Nicholson,L,0,21
+1921-10-22,Oglethorpe,Ind,Jogger Elcock,A,Georgia,Southern,Herman Stegeman,L,0,14
+1921-10-29,Oglethorpe,Ind,Jogger Elcock,H,Chattanooga,Ind,Silas Williams,W,7,0
+1921-11-12,Oglethorpe,Ind,Jogger Elcock,A,Mercer,Ind,,W,7,6
+1921-11-24,Oglethorpe,Ind,Jogger Elcock,A,Florida,Ind,William Kline,L,3,21
+1921-10-01,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Corbett,T,7,7
+1921-10-15,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,,W,14,0
+1921-10-29,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,Poss Parsons,W,24,0
+1921-11-05,Colorado State,RMC,Harry Hughes,H,Denver,RMC,Fred Murphy,L,14,21
+1921-11-19,Colorado State,RMC,Harry Hughes,H,Colorado,RMC,Myron Witham,L,0,10
+1921-11-24,Colorado State,RMC,Harry Hughes,A,Nebraska,MVIAA,Fred Dawson,L,7,70
+1921-10-08,Rice,SWC,Phillip Arbuckle,A,Baylor,SWC,Frank Bridges,L,14,17
+1921-10-15,Rice,SWC,Phillip Arbuckle,H,Tulane,Ind,Myron Fuller,L,6,7
+1921-10-22,Rice,SWC,Phillip Arbuckle,H,Southwestern (TX),Ind,,W,28,0
+1921-10-29,Rice,SWC,Phillip Arbuckle,A,Texas,SWC,Berry Whitaker,L,0,56
+1921-11-05,Rice,SWC,Phillip Arbuckle,H,SMU,SWC,J. Rix,W,7,0
+1921-11-11,Rice,SWC,Phillip Arbuckle,H,Texas A&M,SWC,Dana Bible,T,7,7
+1921-11-24,Rice,SWC,Phillip Arbuckle,A,Oklahoma,MVIAA,Bennie Owen,L,0,27
+1921-10-12,Texas A&M,SWC,Dana Bible,A,SMU,SWC,J. Rix,W,13,0
+1921-10-15,Texas A&M,SWC,Dana Bible,A,LSU,Ind,,L,0,6
+1921-10-29,Texas A&M,SWC,Dana Bible,H,Oklahoma State,SWC,John Maulbetsch,W,23,7
+1921-11-05,Texas A&M,SWC,Dana Bible,A,Baylor,SWC,Frank Bridges,W,14,3
+1921-11-11,Texas A&M,SWC,Dana Bible,A,Rice,SWC,Phillip Arbuckle,T,7,7
+1921-11-24,Texas A&M,SWC,Dana Bible,H,Texas,SWC,Berry Whitaker,T,0,0
+1922-01-02,Texas A&M,SWC,Dana Bible,N,Centre,Ind,Charley Moran,W,22,14
+1921-09-24,Davidson,Ind,Wooly Grey,A,Virginia,Southern,W. Warren,L,0,28
+1921-10-01,Davidson,Ind,Wooly Grey,H,Presbyterian,Ind,Walter Johnson,W,7,0
+1921-10-08,Davidson,Ind,Wooly Grey,A,Georgia Tech,Southern,William Alexander,L,0,70
+1921-10-15,Davidson,Ind,Wooly Grey,N,Wake Forest,Ind,J.L. White,L,7,10
+1921-10-22,Davidson,Ind,Wooly Grey,H,Wofford,Ind,John Gilroy,W,87,0
+1921-10-29,Davidson,Ind,Wooly Grey,A,Richmond,Ind,Frank Dobson,T,14,14
+1921-11-05,Davidson,Ind,Wooly Grey,N,North Carolina State,Southern,Harry Hartsell,T,3,3
+1921-11-12,Davidson,Ind,Wooly Grey,N,North Carolina,Southern,William Fetzer,T,0,0
+1921-11-24,Davidson,Ind,Wooly Grey,A,Furman,Ind,,L,0,28
+1921-10-08,Washington (MO),MVIAA,George Rider,A,Kansas State,MVIAA,Charlie Bachman,L,0,21
+1921-10-15,Washington (MO),MVIAA,George Rider,A,Grinnell,MVIAA,William Saunders,W,14,13
+1921-10-22,Washington (MO),MVIAA,George Rider,A,Oklahoma,MVIAA,Bennie Owen,L,13,28
+1921-10-29,Washington (MO),MVIAA,George Rider,H,Iowa State,MVIAA,Maury Kent,W,2,0
+1921-11-05,Washington (MO),MVIAA,George Rider,H,Missouri,MVIAA,James Phelan,L,0,7
+1921-11-12,Washington (MO),MVIAA,George Rider,H,Tulane,Ind,Myron Fuller,W,14,6
+1921-10-01,Chicago,Western,Amos Alonzo Stagg,H,Northwestern,Western,Elmer McDevitt,W,41,0
+1921-10-08,Chicago,Western,Amos Alonzo Stagg,H,Purdue,Western,William Dietz,W,9,0
+1921-10-22,Chicago,Western,Amos Alonzo Stagg,A,Princeton,Ind,,W,9,0
+1921-10-29,Chicago,Western,Amos Alonzo Stagg,H,Colorado,RMC,Myron Witham,W,35,0
+1921-11-05,Chicago,Western,Amos Alonzo Stagg,H,Ohio State,Western,John Wilce,L,0,7
+1921-11-12,Chicago,Western,Amos Alonzo Stagg,A,Illinois,Western,Robert Zuppke,W,14,6
+1921-11-19,Chicago,Western,Amos Alonzo Stagg,H,Wisconsin,Western,J.R. Richards,W,3,0
+1921-10-08,Colgate,Ind,Ellery Huntington,A,Princeton,Ind,,L,0,19
+1921-10-22,Colgate,Ind,Ellery Huntington,A,Cornell,Ind,Gilmour Dobie,L,7,31
+1921-11-12,Colgate,Ind,Ellery Huntington,A,Syracuse,Ind,Chick Meehan,L,0,14
+1921-11-19,Colgate,Ind,Ellery Huntington,A,Brown,Ind,Edward Robinson,L,0,7
+1921-11-24,Colgate,Ind,Ellery Huntington,A,Columbia,Ind,Buck O'Neill,W,21,14
+1921-10-08,Minnesota,Western,Henry Williams,H,Northwestern,Western,Elmer McDevitt,W,28,0
+1921-10-15,Minnesota,Western,Henry Williams,A,Ohio State,Western,John Wilce,L,0,27
+1921-10-22,Minnesota,Western,Henry Williams,H,Indiana,Western,Jumbo Stiehm,W,6,0
+1921-10-29,Minnesota,Western,Henry Williams,A,Wisconsin,Western,J.R. Richards,L,0,35
+1921-11-05,Minnesota,Western,Henry Williams,H,Iowa,Western,Howard Jones,L,7,41
+1921-11-19,Minnesota,Western,Henry Williams,A,Michigan,Western,Fielding Yost,L,0,38
+1921-10-08,Ole Miss,Ind,R.L. Sullivan,A,Tulane,Ind,Myron Fuller,L,0,26
+1921-10-29,Ole Miss,Ind,R.L. Sullivan,N,Mississippi State,Southern,Fred Holtkamp,L,0,21
+1921-11-05,Ole Miss,Ind,R.L. Sullivan,N,Mississippi College,Ind,Stanley Robinson,L,7,27
+1921-11-12,Ole Miss,Ind,R.L. Sullivan,A,LSU,Ind,,L,0,21
+1921-10-15,Sewanee,Ind,John Nicholson,H,Oglethorpe,Ind,Jogger Elcock,W,21,0
+1921-10-22,Sewanee,Ind,John Nicholson,A,Alabama,Southern,Xen Scott,W,17,0
+1921-10-29,Sewanee,Ind,John Nicholson,A,Kentucky,Southern,William Juneau,W,6,0
+1921-11-05,Sewanee,Ind,John Nicholson,A,Chattanooga,Ind,Silas Williams,W,47,0
+1921-11-12,Sewanee,Ind,John Nicholson,A,Tennessee,Southern,Mark Banks,L,0,21
+1921-11-19,Sewanee,Ind,John Nicholson,A,Vanderbilt,Ind,Dan McGugin,L,0,9
+1921-10-01,Centre,Ind,Charley Moran,H,Clemson,Southern,Edward Stewart,W,14,0
+1921-10-08,Centre,Ind,Charley Moran,H,Virginia Tech,Southern,B.C. Cubbage,W,14,0
+1921-10-29,Centre,Ind,Charley Moran,A,Harvard,Ind,Robert Fisher,W,6,0
+1921-11-05,Centre,Ind,Charley Moran,H,Kentucky,Southern,William Juneau,W,55,0
+1921-11-12,Centre,Ind,Charley Moran,A,Auburn,Southern,Mike Donahue,W,21,0
+1921-11-19,Centre,Ind,Charley Moran,H,Washington & Lee,Southern,Bill Raftery,W,25,0
+1921-11-24,Centre,Ind,Charley Moran,A,Tulane,Ind,Myron Fuller,W,21,0
+1922-01-02,Centre,Ind,Charley Moran,N,Texas A&M,SWC,Dana Bible,L,14,22
+1921-10-01,Navy,Ind,,H,North Carolina State,Southern,Harry Hartsell,W,40,0
+1921-10-15,Navy,Ind,,H,Princeton,Ind,,W,13,0
+1921-11-12,Navy,Ind,,N,Penn State,Ind,Hugo Bezdek,L,7,13
+1921-10-01,Lafayette,Ind,Jock Sutherland,H,Pitt,Ind,Pop Warner,W,6,0
+1921-10-29,Lafayette,Ind,Jock Sutherland,H,Rutgers,Ind,George Sanford,W,35,0
+1921-11-05,Lafayette,Ind,Jock Sutherland,A,Pennsylvania,Ind,John Heisman,W,38,6
+1921-11-19,Lafayette,Ind,Jock Sutherland,A,Lehigh,Ind,Frank Glick,W,28,6
+1921-10-01,Tulane,Ind,Myron Fuller,H,Mississippi College,Ind,Stanley Robinson,L,0,14
+1921-10-08,Tulane,Ind,Myron Fuller,H,Ole Miss,Ind,R.L. Sullivan,W,26,0
+1921-10-15,Tulane,Ind,Myron Fuller,A,Rice,SWC,Phillip Arbuckle,W,7,6
+1921-10-22,Tulane,Ind,Myron Fuller,H,Mississippi State,Southern,Fred Holtkamp,W,7,0
+1921-11-05,Tulane,Ind,Myron Fuller,H,Auburn,Southern,Mike Donahue,L,0,14
+1921-11-12,Tulane,Ind,Myron Fuller,A,Washington (MO),MVIAA,George Rider,L,6,14
+1921-11-19,Tulane,Ind,Myron Fuller,H,LSU,Ind,,W,21,0
+1921-11-24,Tulane,Ind,Myron Fuller,H,Centre,Ind,Charley Moran,L,0,21
+1921-12-03,Tulane,Ind,Myron Fuller,H,Alabama,Southern,Xen Scott,L,7,14
+1921-10-22,Cornell,Ind,Gilmour Dobie,H,Colgate,Ind,Ellery Huntington,W,31,7
+1921-10-29,Cornell,Ind,Gilmour Dobie,H,Dartmouth,Ind,Jack Cannell,W,59,7
+1921-11-05,Cornell,Ind,Gilmour Dobie,A,Columbia,Ind,Buck O'Neill,W,41,7
+1921-11-24,Cornell,Ind,Gilmour Dobie,A,Pennsylvania,Ind,John Heisman,W,41,0
+1921-10-15,Ohio State,Western,John Wilce,H,Minnesota,Western,Henry Williams,W,27,0
+1921-10-22,Ohio State,Western,John Wilce,A,Michigan,Western,Fielding Yost,W,14,0
+1921-11-05,Ohio State,Western,John Wilce,A,Chicago,Western,Amos Alonzo Stagg,W,7,0
+1921-11-12,Ohio State,Western,John Wilce,H,Purdue,Western,William Dietz,W,28,0
+1921-11-19,Ohio State,Western,John Wilce,H,Illinois,Western,Robert Zuppke,L,0,7
+1921-10-15,Drake,MVIAA,Ossie Solem,A,Kansas,MVIAA,Potsy Clark,W,15,7
+1921-10-29,Drake,MVIAA,Ossie Solem,A,Missouri,MVIAA,James Phelan,L,0,6
+1921-11-05,Drake,MVIAA,Ossie Solem,H,Iowa State,MVIAA,Maury Kent,L,0,7
+1921-11-19,Drake,MVIAA,Ossie Solem,H,Grinnell,MVIAA,William Saunders,W,21,10
