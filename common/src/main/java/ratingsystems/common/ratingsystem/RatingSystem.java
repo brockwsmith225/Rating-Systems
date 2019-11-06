@@ -66,6 +66,19 @@ public abstract class RatingSystem {
         this.teams = interpreter.parseData(years, cumulative);
         this.rankedTeams = new ArrayList<>();
         this.interpreter = interpreter;
+        if (cumulative) {
+            int maxGames = 0;
+            for (Team team : teams.values()) {
+                if (team.getNumberOfGames() > maxGames) {
+                    maxGames = team.getNumberOfGames();
+                }
+            }
+            for (String team : teams.keySet()) {
+                if (teams.get(team).getNumberOfGames() < 0.1 * maxGames) {
+                    teams.remove(team);
+                }
+            }
+        }
     }
 
     public RatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
@@ -75,6 +88,19 @@ public abstract class RatingSystem {
         this.teams = interpreter.parseData(years, week, cumulative);
         this.rankedTeams = new ArrayList<>();
         this.interpreter = interpreter;
+        if (cumulative) {
+            int maxGames = 0;
+            for (Team team : teams.values()) {
+                if (team.getNumberOfGames() > maxGames) {
+                    maxGames = team.getNumberOfGames();
+                }
+            }
+            for (String team : teams.keySet()) {
+                if (teams.get(team).getNumberOfGames() < 0.1 * maxGames) {
+                    teams.remove(team);
+                }
+            }
+        }
     }
 
     /**
