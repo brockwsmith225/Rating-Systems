@@ -47,8 +47,8 @@ public class RelativeRatingSystem extends RatingSystem {
         }
     }
 
-    public RelativeRatingSystem(Interpreter interpreter, int[] years) throws FileNotFoundException {
-        super(interpreter, years);
+    public RelativeRatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
+        super(interpreter, years, cumulative);
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
@@ -59,8 +59,8 @@ public class RelativeRatingSystem extends RatingSystem {
         }
     }
 
-    public RelativeRatingSystem(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
-        super(interpreter, years, week);
+    public RelativeRatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
+        super(interpreter, years, week, cumulative);
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
         int i = 0;
@@ -162,14 +162,14 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     @Override
-    protected String printTeam(String team) {
+    protected String printTeam(String team, boolean allStats) {
         return teams.get(team).getName() + "\t"
                 + (int)teams.get(team).getRating() + "\t"
                 + teams.get(team).getRecord();
     }
 
     @Override
-    protected String prettyPrintTeam(String team) {
+    protected String prettyPrintTeam(String team, boolean allStats) {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10) + "   "
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);

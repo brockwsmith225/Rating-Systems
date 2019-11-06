@@ -316,7 +316,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-05,Utah State,MWC,Gary Andersen,A,LSU,SEC,Ed Orgeron,L,6,42,16,31,140,0,21,28,0,8,1,3,25,0,3
 2019-10-19,Utah State,MWC,Gary Andersen,H,Nevada,MWC,Jay Norvell,W,36,10,15,33,174,1,44,244,2,9,11,6,52,1,1
 2019-10-26,Utah State,MWC,Gary Andersen,A,Air Force,MWC,Troy Calhoun,L,7,31,14,23,114,1,13,14,0,3,3,0,0,0,0
-2019-11-02,Utah State,MWC,Gary Andersen,H,Brigham Young,Ind,Kalani Sitake,L,14,42,0,0,0,0,0,0,0,0,0,0,0,2,0
+2019-11-02,Utah State,MWC,Gary Andersen,H,Brigham Young,Ind,Kalani Sitake,L,14,42,29,49,394,1,33,127,1,15,11,8,55,2,3
 2019-08-31,Missouri,SEC,Barry Odom,A,Wyoming,MWC,Craig Bohl,L,31,37,31,48,423,2,42,114,2,17,11,5,31,2,1
 2019-09-07,Missouri,SEC,Barry Odom,H,West Virginia,Big 12,Neal Brown,W,38,7,17,28,150,3,50,232,1,7,17,10,100,0,0
 2019-09-21,Missouri,SEC,Barry Odom,H,South Carolina,SEC,Will Muschamp,W,34,14,19,33,227,2,54,194,0,12,11,4,37,1,1
@@ -331,7 +331,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-12,San Jose State,MWC,Brent Brennan,A,Nevada,MWC,Jay Norvell,L,38,41,23,45,405,3,16,15,2,13,2,5,21,1,1
 2019-10-19,San Jose State,MWC,Brent Brennan,H,San Diego State,MWC,Rocky Long,L,17,27,19,36,218,2,16,55,0,9,4,1,15,0,1
 2019-10-26,San Jose State,MWC,Brent Brennan,A,Army,Ind,Jeff Monken,W,34,29,20,31,314,3,17,89,0,14,4,3,16,0,0
-2019-11-02,San Jose State,MWC,Brent Brennan,H,Boise State,MWC,Bryan Harsin,L,42,52,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-02,San Jose State,MWC,Brent Brennan,H,Boise State,MWC,Bryan Harsin,L,42,52,29,53,438,2,23,59,3,18,5,7,60,0,1
 2019-09-07,Bowling Green State,MAC,Scot Loeffler,A,Kansas State,Big 12,Chris Klieman,L,0,52,11,24,79,0,20,61,0,3,2,6,50,1,0
 2019-09-14,Bowling Green State,MAC,Scot Loeffler,H,Louisiana Tech,CUSA,Skip Holtz,L,7,35,18,38,171,0,47,119,1,7,5,6,60,0,1
 2019-09-21,Bowling Green State,MAC,Scot Loeffler,A,Kent State,MAC,Sean Lewis,L,20,62,23,33,206,1,40,156,2,9,10,6,61,0,2
@@ -355,7 +355,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-12,Nevada,MWC,Jay Norvell,H,San Jose State,MWC,Brent Brennan,W,41,38,22,37,352,1,51,189,3,16,9,9,91,1,2
 2019-10-19,Nevada,MWC,Jay Norvell,A,Utah State,MWC,Gary Andersen,L,10,36,17,38,213,0,35,113,1,9,4,13,110,0,2
 2019-10-26,Nevada,MWC,Jay Norvell,A,Wyoming,MWC,Craig Bohl,L,3,31,27,45,254,0,28,81,0,12,5,4,30,1,1
-2019-11-02,Nevada,MWC,Jay Norvell,H,New Mexico,MWC,Bob Davie,W,21,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-02,Nevada,MWC,Jay Norvell,H,New Mexico,MWC,Bob Davie,W,21,10,28,40,305,2,34,64,1,13,6,6,30,0,0
 2019-08-31,USC,Pac-12,Clay Helton,H,Fresno State,MWC,Jeff Tedford,W,31,23,31,42,272,1,36,175,2,12,11,4,35,2,2
 2019-09-07,USC,Pac-12,Clay Helton,H,Stanford,Pac-12,David Shaw,W,45,20,28,33,377,3,28,115,3,15,7,8,93,1,0
 2019-09-14,USC,Pac-12,Clay Helton,A,Brigham Young,Ind,Kalani Sitake,L,27,30,24,34,281,2,45,171,1,13,9,5,44,0,3
@@ -386,7 +386,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-12,Hawaii,MWC,Nick Rolovich,A,Boise State,MWC,Bryan Harsin,L,37,59,26,50,325,4,19,113,1,14,6,10,88,3,1
 2019-10-19,Hawaii,MWC,Nick Rolovich,H,Air Force,MWC,Troy Calhoun,L,26,56,34,53,404,3,20,82,0,19,6,5,50,1,1
 2019-10-26,Hawaii,MWC,Nick Rolovich,A,New Mexico,MWC,Bob Davie,W,45,31,21,40,323,2,34,255,3,11,10,10,85,0,1
-2019-11-02,Hawaii,MWC,Nick Rolovich,H,Fresno State,MWC,Jeff Tedford,L,38,41,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-02,Hawaii,MWC,Nick Rolovich,H,Fresno State,MWC,Jeff Tedford,L,38,41,26,51,346,1,31,209,4,13,11,13,135,0,1
 2019-08-30,Rutgers,Big Ten,Nunzio Campanile,H,Massachusetts,Ind,Walt Bell,W,48,21,22,32,348,2,43,206,4,16,6,7,80,0,3
 2019-09-07,Rutgers,Big Ten,Nunzio Campanile,A,Iowa,Big Ten,Kirk Ferentz,L,0,30,9,26,41,0,23,84,0,2,3,7,61,1,2
 2019-09-21,Rutgers,Big Ten,Nunzio Campanile,H,Boston College,ACC,Steve Addazio,L,16,30,23,34,304,1,26,76,0,11,2,11,100,1,1
@@ -444,7 +444,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-11,New Mexico,MWC,Bob Davie,H,Colorado State,MWC,Mike Bobo,L,21,35,8,17,89,0,49,256,3,4,10,11,102,2,1
 2019-10-19,New Mexico,MWC,Bob Davie,A,Wyoming,MWC,Craig Bohl,L,10,23,14,28,203,1,37,169,0,11,7,5,50,1,0
 2019-10-26,New Mexico,MWC,Bob Davie,H,Hawaii,MWC,Nick Rolovich,L,31,45,23,40,293,2,31,207,2,12,8,5,34,0,2
-2019-11-02,New Mexico,MWC,Bob Davie,A,Nevada,MWC,Jay Norvell,L,10,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-02,New Mexico,MWC,Bob Davie,A,Nevada,MWC,Jay Norvell,L,10,21,19,36,237,0,29,109,1,12,5,7,70,0,0
 2019-09-02,Notre Dame,Ind,Brian Kelly,A,Louisville,ACC,Scott Satterfield,W,35,17,14,23,193,1,42,230,4,9,9,4,20,1,0
 2019-09-14,Notre Dame,Ind,Brian Kelly,H,New Mexico,MWC,Bob Davie,W,66,14,17,27,434,6,38,157,2,12,9,7,53,0,0
 2019-09-21,Notre Dame,Ind,Brian Kelly,A,Georgia,SEC,Kirby Smart,L,17,23,29,47,275,2,14,46,0,10,3,12,85,0,2
@@ -496,7 +496,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-05,Boise State,MWC,Bryan Harsin,A,Nevada-Las Vegas,MWC,Tony Sanchez,W,38,13,22,36,325,3,28,182,2,12,5,10,130,1,0
 2019-10-12,Boise State,MWC,Bryan Harsin,H,Hawaii,MWC,Nick Rolovich,W,59,37,21,37,315,5,39,203,3,14,11,11,95,1,0
 2019-10-19,Boise State,MWC,Bryan Harsin,A,Brigham Young,Ind,Kalani Sitake,L,25,28,18,32,185,2,40,174,1,9,13,4,35,0,2
-2019-11-02,Boise State,MWC,Bryan Harsin,A,San Jose State,MWC,Brent Brennan,W,52,42,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-02,Boise State,MWC,Bryan Harsin,A,San Jose State,MWC,Brent Brennan,W,52,42,13,17,213,0,51,253,6,7,14,8,84,0,1
 2019-08-31,Akron,MAC,Tom Arth,A,Illinois,Big Ten,Lovie Smith,L,3,42,12,28,128,0,38,64,0,7,7,5,50,1,1
 2019-09-07,Akron,MAC,Tom Arth,H,UAB,CUSA,Bill Clark,L,20,31,25,44,359,2,29,34,1,11,4,6,56,2,0
 2019-09-14,Akron,MAC,Tom Arth,A,Central Michigan,MAC,Jim McElwain,L,24,45,29,47,282,3,29,47,0,10,4,8,50,1,1
@@ -536,7 +536,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-09-28,Brigham Young,Ind,Kalani Sitake,A,Toledo,MAC,Jason Candle,L,21,28,25,44,354,2,26,101,1,15,3,6,52,0,1
 2019-10-12,Brigham Young,Ind,Kalani Sitake,A,South Florida,American,Charlie Strong,L,23,27,21,33,221,1,56,218,1,9,15,5,40,1,0
 2019-10-19,Brigham Young,Ind,Kalani Sitake,H,Boise State,MWC,Bryan Harsin,W,28,25,15,26,221,2,33,131,2,10,5,9,84,0,0
-2019-11-02,Brigham Young,Ind,Kalani Sitake,A,Utah State,MWC,Gary Andersen,W,42,14,0,0,0,0,0,0,0,0,0,0,0,2,0
+2019-11-02,Brigham Young,Ind,Kalani Sitake,A,Utah State,MWC,Gary Andersen,W,42,14,23,33,418,2,40,225,4,18,12,5,37,2,1
 2019-08-31,Florida Atlantic,CUSA,Lane Kiffin,A,Ohio State,Big Ten,Ryan Day,L,21,45,26,40,206,1,33,22,1,12,4,5,35,0,1
 2019-09-07,Florida Atlantic,CUSA,Lane Kiffin,H,UCF,American,Josh Heupel,L,14,48,18,40,177,0,47,137,1,11,9,7,97,0,1
 2019-09-14,Florida Atlantic,CUSA,Lane Kiffin,A,Ball State,MAC,Mike Neu,W,41,31,33,41,366,4,43,141,2,15,8,7,49,2,0
@@ -941,7 +941,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-12,Fresno State,MWC,Jeff Tedford,A,Air Force,MWC,Troy Calhoun,L,24,43,20,27,209,2,15,59,1,10,2,5,19,0,1
 2019-10-18,Fresno State,MWC,Jeff Tedford,H,Nevada-Las Vegas,MWC,Tony Sanchez,W,56,27,16,23,229,1,36,260,6,10,9,5,40,0,0
 2019-10-26,Fresno State,MWC,Jeff Tedford,H,Colorado State,MWC,Mike Bobo,L,31,41,20,37,200,0,30,188,4,8,7,9,74,0,2
-2019-11-02,Fresno State,MWC,Jeff Tedford,A,Hawaii,MWC,Nick Rolovich,W,41,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-02,Fresno State,MWC,Jeff Tedford,A,Hawaii,MWC,Nick Rolovich,W,41,38,18,28,224,2,40,290,3,10,12,5,45,2,0
 2019-08-31,Georgia Southern,Sun Belt,Chad Lunsford,A,LSU,SEC,Ed Orgeron,L,3,55,4,11,24,0,39,74,0,2,3,5,20,2,0
 2019-09-14,Georgia Southern,Sun Belt,Chad Lunsford,A,Minnesota,Big Ten,P.J. Fleck,L,32,35,5,9,75,0,33,123,2,3,8,10,64,2,0
 2019-09-28,Georgia Southern,Sun Belt,Chad Lunsford,H,Louisiana,Sun Belt,Billy Napier,L,24,37,6,12,37,0,56,215,2,3,13,3,35,0,0

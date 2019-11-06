@@ -80,7 +80,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    protected String prettyPrintRankingsHeader() {
+    protected String prettyPrintRankingsHeader(boolean allStats) {
         StringBuilder header = new StringBuilder();
         header.append("------------------------------------------------------------------------------------------------------------\n");
         if (week < 0) {
@@ -93,25 +93,29 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
-    protected String prettyPrintColumnHeaders() {
-        StringBuilder header = new StringBuilder();
-        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Offense", 10) + "   " + Terminal.leftJustify("Defense", 10) + "   " + Terminal.leftJustify("Record", 10));
-        return header.toString();
+    protected String prettyPrintColumnHeaders(boolean allStats) {
+        return "     " + Terminal.leftJustify("Team", 50) + "   "
+                + Terminal.leftJustify("Rating", 10) + "   "
+                + (allStats ? Terminal.leftJustify("Offense", 10) + "   "
+                + Terminal.leftJustify("Defense", 10) + "   " : "")
+                + Terminal.leftJustify("Record", 10);
     }
 
     @Override
-    protected String printTeam(String team) {
+    protected String printTeam(String team, boolean allStats) {
         return teams.get(team).getName() + "\t"
                 + teams.get(team).getRating() + "\t"
+                + (allStats ? teams.get(team).getRating("Offensive Rating") + "\t"
+                +  teams.get(team).getRating("Defensive Rating") + "\t" : "")
                 + teams.get(team).getRecord();
     }
 
     @Override
-    protected String prettyPrintTeam(String team) {
+    protected String prettyPrintTeam(String team, boolean allStats) {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Terminal.round(teams.get(team).getRating(), 3), 10) + "   "
-                + Terminal.rightJustify(Terminal.round(teams.get(team).getRating("Offensive Rating"), 3), 10) + "   "
-                + Terminal.rightJustify(Terminal.round(teams.get(team).getRating("Defensive Rating"), 3), 10) + "   "
+                + (allStats ? Terminal.rightJustify(Terminal.round(teams.get(team).getRating("Offensive Rating"), 3), 10) + "   "
+                + Terminal.rightJustify(Terminal.round(teams.get(team).getRating("Defensive Rating"), 3), 10) + "   " : "")
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 

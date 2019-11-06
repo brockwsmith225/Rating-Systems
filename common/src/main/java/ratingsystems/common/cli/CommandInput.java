@@ -15,6 +15,8 @@ public class CommandInput {
         this.optionLetterToName = new HashMap<>();
         this.optionLetterToName.put('c', "CLEAN");
         this.optionLetterToName.put('p', "PRETTY_PRINT");
+        this.optionLetterToName.put('a', "ALL_STATS");
+        this.optionLetterToName.put('u', "CUMULATIVE");
         this.optionLetterToName.put('w', "WEEK");
         this.optionLetterToName.put('y', "YEAR");
         this.optionLetterToName.put('l', "LEAGUE");
@@ -24,6 +26,8 @@ public class CommandInput {
         this.flags = new HashMap<>();
         this.flags.put("CLEAN", false);
         this.flags.put("PRETTY_PRINT", false);
+        this.flags.put("ALL_STATS", false);
+        this.flags.put("CUMULATIVE", false);
 
         this.parameters = new Parameters();
 

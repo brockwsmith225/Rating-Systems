@@ -78,7 +78,7 @@ public abstract class Runner {
         boolean cleanFlag = options.get("CLEAN");
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
-            ratingSystems.put(parameters, loadNewRatingSystem(parameters));
+            ratingSystems.put(parameters, loadNewRatingSystem(options, parameters));
         }
         return ratingSystems.get(parameters);
     }
@@ -98,12 +98,12 @@ public abstract class Runner {
         parameters.setParameterValue("WEEK", week);
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
-            ratingSystems.put(parameters, loadNewRatingSystem(parameters));
+            ratingSystems.put(parameters, loadNewRatingSystem(options, parameters));
         }
         return ratingSystems.get(parameters);
     }
 
-    public abstract RatingSystem loadNewRatingSystem(Parameters parameters);
+    public abstract RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters);
 
     /**
      * Loads a new rating system with the given interpreter and year
