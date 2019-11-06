@@ -1,8 +1,11 @@
+ratingsystems\common\collegefootball\conferences\CollegeFootballConferencesInterpreter.class
+ratingsystems\common\collegefootball\coaches\CollegeFootballCoachesInterpreter.class
 ratingsystems\common\collegefootball\CollegeFootballInterpreter.class
 ratingsystems\common\linalg\Matrix.class
 ratingsystems\common\collegebasketball\CollegeBasketballEntry.class
 ratingsystems\common\interpreter\Team.class
 ratingsystems\common\collegebasketball\CollegeBasketballInterpreter.class
+ratingsystems\common\collegefootball\coaches\CollegeFootballCoachesEntry.class
 ratingsystems\common\cli\CommandInput.class
 ratingsystems\common\interpreter\Interpreter.class
 ratingsystems\common\ratingsystem\Prediction.class
@@ -12,6 +15,7 @@ ratingsystems\common\interpreter\Date.class
 ratingsystems\common\ratingsystem\RatingSystem.class
 ratingsystems\common\collegebasketball\CollegeBasketballScraper.class
 ratingsystems\common\webscraper\TeamsScraper.class
+ratingsystems\common\collegefootball\conferences\CollegeFootballConferencesEntry.class
 ratingsystems\common\collegefootball\CollegeFootballScraper.class
 ratingsystems\common\cli\Terminal.class
 ratingsystems\common\collegefootball\CollegeFootballEntry.class

@@ -1,5 +1,6 @@
 package ratingsystems.hps;
 
+import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Location;
@@ -128,6 +129,22 @@ public class HistoricalPredictionSystem extends RatingSystem {
             rankTeams();
         }
         return super.printTeamRankings(prettyPrint, allStats);
+    }
+
+    @Override
+    protected String prettyPrintColumnHeaders(boolean allStats) {
+        StringBuilder header = new StringBuilder();
+        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Offense", 10) + "   " + Terminal.leftJustify("Defense", 10) + "   " + Terminal.leftJustify("Record", 10));
+        return header.toString();
+    }
+
+    @Override
+    protected String prettyPrintTeam(String team, boolean allStats) {
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getRating("Offensive Rating")), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getRating("Defensive Rating")), 10) + "   "
+                + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
     @Override
@@ -260,17 +277,26 @@ public class HistoricalPredictionSystem extends RatingSystem {
     private void calculateTeamRankings() {
         hasRankedTeams = true;
         HashMap<String, Double> ratings = new HashMap<>();
+        HashMap<String, Double> offRatings = new HashMap<>();
+        HashMap<String, Double> defRatings = new HashMap<>();
         for (String team : allTeams.get(this.year).keySet()) {
             ratings.put(team, 0.0);
+            offRatings.put(team, 0.0);
+            defRatings.put(team, 0.0);
             for (String opponent : allTeams.get(this.year).keySet()) {
                 if (!team.equals(opponent)) {
-                    ratings.put(team, ratings.get(team) + predictGame(team, opponent, Location.NEUTRAL).getLine() * -1);
+                    Prediction prediction = predictGame(team, opponent, Location.NEUTRAL);
+                    ratings.put(team, ratings.get(team) + prediction.getLine() * -1);
+                    offRatings.put(team, offRatings.get(team) + prediction.getTeam1Score());
+                    defRatings.put(team, defRatings.get(team) + prediction.getTeam2Score());
                 }
             }
         }
 
         for (String team : allTeams.get(year).keySet()) {
             allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
+            allTeams.get(this.year).get(team).setRating("Offensive Rating", offRatings.get(team) / (offRatings.size() - 1));
+            allTeams.get(this.year).get(team).setRating("Defensive Rating", defRatings.get(team) / (defRatings.size() - 1));
         }
     }
 
