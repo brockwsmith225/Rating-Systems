@@ -4,6 +4,7 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Location;
+import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.linalg.Matrix;
 import ratingsystems.common.linalg.Vector;
 import ratingsystems.common.ratingsystem.Prediction;
@@ -52,7 +53,7 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     public RelativeRatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
-        super(interpreter, years, cumulative);
+        super(interpreter, years, true);
         this.teams = new HashMap<>();
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
@@ -66,7 +67,7 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     public RelativeRatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
-        super(interpreter, years, week, cumulative);
+        super(interpreter, years, week, true);
         this.teams = new HashMap<>();
         teamNameToIndex = new HashMap<>();
         teamIndexToName = new HashMap<>();
@@ -148,17 +149,19 @@ public class RelativeRatingSystem extends RatingSystem {
     }
 
     @Override
-    protected String printTeam(String team, boolean allStats) {
-        return teams.get(team).getName() + "\t"
-                + (int)teams.get(team).getRating() + "\t"
-                + teams.get(team).getRecord();
+    protected String printTeam(Team team, boolean allStats) {
+        return team.getName() + "\t"
+                + (!cumulative ? team.getYear() + "\t" : "")
+                + (int)team.getRating() + "\t"
+                + team.getRecord();
     }
 
     @Override
-    protected String prettyPrintTeam(String team, boolean allStats) {
-        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
-                + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10) + "   "
-                + Terminal.rightJustify(teams.get(team).getRecord(), 10);
+    protected String prettyPrintTeam(Team team, boolean allStats) {
+        return Terminal.leftJustify(team.getName(), 50) + "   "
+                + (!cumulative ? team.getYear() + "   " : "")
+                + Terminal.rightJustify(Integer.toString((int)team.getRating()), 10) + "   "
+                + Terminal.rightJustify(team.getRecord(), 10);
     }
 
 

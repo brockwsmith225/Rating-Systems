@@ -129,6 +129,14 @@ public class Team implements Comparable<Team>, Serializable {
         return dataCopy;
     }
 
+    public void updateGame(Game oldGame, Game newGame) {
+        for (int i = 0; i < games.size(); i++) {
+            if (games.get(i).equals(oldGame)) {
+                games.set(i, newGame);
+            }
+        }
+    }
+
     public int getNumberOfWins() {
         int wins = 0;
         for (Game game : games) {

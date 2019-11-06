@@ -4,6 +4,7 @@ import ratingsystems.common.linalg.Vector;
 
 import java.time.LocalDate;
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * A representation of a game which compares two teams.
@@ -14,7 +15,7 @@ public class Game {
     private double score, opponentScore, weightedScoreDiff;
     private int week;
     private LocalDate date;
-    private HashMap<String, Double> statistics;
+    private Map<String, Double> statistics;
 
     /**
      *  Creates a new game.
@@ -46,7 +47,7 @@ public class Game {
      * @param weightedScoreDiff the weighted difference of scores
      * @param date the date at which the game occurred
      */
-    public Game(String team, String opponent, Location location, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date, HashMap<String, Double> statistics) {
+    public Game(String team, String opponent, Location location, double score, double opponentScore, double weightedScoreDiff, int week, LocalDate date, Map<String, Double> statistics) {
         this.team = team;
         this.opponent = opponent;
         this.location = location;
@@ -142,6 +143,10 @@ public class Game {
         return date;
     }
 
+    public Map<String, Double> getStatistics() {
+        return statistics;
+    }
+
     /**
      * Returns the statistic of a specified name
      *
@@ -169,6 +174,12 @@ public class Game {
                 this.statistics.put("Opponent" + statistic, opponentGame.statistics.get(statistic));
             }
         }
+    }
+
+    public boolean equals(Game game) {
+        return this.team.equals(game.team) &&
+                this.opponent.equals(game.opponent) &&
+                this.date.equals(game.date);
     }
 
     public boolean equalsReversed(Game game) {

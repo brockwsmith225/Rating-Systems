@@ -50,12 +50,14 @@ public abstract class Interpreter {
             } else {
                 Map<String, Team> partialTeams = parseData(year);
                 for (String team : partialTeams.keySet()) {
-                    teams.put(team + year, partialTeams.get(team));
+                    for (Game oldGame : partialTeams.get(team).getGames()) {
+                        Game newGame = new Game(oldGame.getTeam(), oldGame.getOpponent() + "-" + year, oldGame.getLocation(), oldGame.getScore(), oldGame.getOpponentScore(), oldGame.getWeightedScoreDiff(), oldGame.getWeek(), oldGame.getDate(), oldGame.getStatistics());
+                        partialTeams.get(team).updateGame(oldGame, newGame);
+                    }
+                    teams.put(team + "-" + year, partialTeams.get(team));
                 }
             }
         }
-
-        addDefensiveStatistics(teams);
 
         return teams;
     }
@@ -89,14 +91,17 @@ public abstract class Interpreter {
                     }
                 }
             } else {
+                System.out.println("Not Cumulative");
                 Map<String, Team> partialTeams = parseData(year, week);
                 for (String team : partialTeams.keySet()) {
-                    teams.put(team + year, partialTeams.get(team));
+                    for (Game oldGame : partialTeams.get(team).getGames()) {
+                        Game newGame = new Game(oldGame.getTeam(), oldGame.getOpponent() + "-" + year, oldGame.getLocation(), oldGame.getScore(), oldGame.getOpponentScore(), oldGame.getWeightedScoreDiff(), oldGame.getWeek(), oldGame.getDate(), oldGame.getStatistics());
+                        partialTeams.get(team).updateGame(oldGame, newGame);
+                    }
+                    teams.put(team + "-" + year, partialTeams.get(team));
                 }
             }
         }
-
-        addDefensiveStatistics(teams);
 
         return teams;
     }
@@ -120,8 +125,8 @@ public abstract class Interpreter {
     abstract public void fetchData(int year) throws IOException;
 
     protected void addDefensiveStatistics(Map<String, Team> teams) {
-        for (Team team : teams.values()) {
-            List<Game> games = team.getGames();
+        for (String team : teams.keySet()) {
+            List<Game> games = teams.get(team).getGames();
             for (Game game : games) {
                 teams.get(game.getOpponent()).addDefensiveStats(game);
             }
