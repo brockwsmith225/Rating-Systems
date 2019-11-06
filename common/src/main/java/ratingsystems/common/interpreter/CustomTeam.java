@@ -81,4 +81,22 @@ public abstract class CustomTeam {
     public String getRecord() {
         return team.getRecord();
     }
+
+    /**
+     * Calculates the average points scored by the team per game
+     *
+     * @return the average points scored per game
+     */
+    public double getPointsPerGame() {
+        return team.getPointsPerGame();
+    }
+
+    /**
+     * Calculates the average points allowed by the team per game
+     *
+     * @return the average points allowed per game
+     */
+    public double getPointsAllowedPerGame() {
+        return team.getPointsAllowedPerGame();
+    }
 }

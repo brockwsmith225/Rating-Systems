@@ -114,12 +114,12 @@ public abstract class RatingSystem {
             if (prettyPrint) {
                 rankings.append(Terminal.rightJustify(Integer.toString(rank), 3));
                 rankings.append(". ");
-                rankings.append(prettyPrintTeam(rankedTeams.get(i), allStats));
+                rankings.append(prettyPrintTeam(rankedTeams.get(i).getName() + (!cumulative ? "-" + rankedTeams.get(i).getYear() : ""), allStats));
                 rankings.append("\n");
             } else {
                 rankings.append(rank);
                 rankings.append("\t");
-                rankings.append(printTeam(rankedTeams.get(i), allStats));
+                rankings.append(printTeam(rankedTeams.get(i).getName() + (!cumulative ? "-" + rankedTeams.get(i).getYear() : ""), allStats));
                 rankings.append("\n");
             }
         }
@@ -257,7 +257,7 @@ public abstract class RatingSystem {
      */
     protected String prettyPrintColumnHeaders(boolean allStats) {
         StringBuilder header = new StringBuilder();
-        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Record", 10));
+        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + (!cumulative ? "Year" : "") + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Record", 10));
         return header.toString();
     }
 
@@ -268,11 +268,11 @@ public abstract class RatingSystem {
      * @param team the team to be printed
      * @return a string formatted to print the given team
      */
-    protected String printTeam(Team team, boolean allStats) {
-        return team.getName() + "\t"
-                + (!cumulative ? team.getYear() + "\t" : "")
-                + team.getRating() + "\t"
-                + team.getRecord();
+    protected String printTeam(String team, boolean allStats) {
+        return teams.get(team).getName() + "\t"
+                + (!cumulative ? teams.get(team).getYear() + "\t" : "")
+                + teams.get(team).getRating() + "\t"
+                + teams.get(team).getRecord();
     }
 
     /**
@@ -281,11 +281,11 @@ public abstract class RatingSystem {
      * @param team the team to be printed
      * @return a a pretty print string formatted to print the given team
      */
-    protected String prettyPrintTeam(Team team, boolean allStats) {
-        return Terminal.leftJustify(team.getName(), 50) + "   "
-                + (!cumulative ? team.getYear() + "   " : "")
-                + Terminal.rightJustify(Double.toString(team.getRating()), 10) + "   "
-                + Terminal.rightJustify(team.getRecord(), 10);
+    protected String prettyPrintTeam(String team, boolean allStats) {
+        return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
+                + (!cumulative ? teams.get(team).getYear() + "   " : "")
+                + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
+                + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
     /**
