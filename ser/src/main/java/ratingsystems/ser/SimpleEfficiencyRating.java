@@ -120,6 +120,13 @@ public class SimpleEfficiencyRating extends RatingSystem {
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
+    public SERTeam getSERTeam(String team) {
+        if (teams.containsKey(team)) {
+            return teams.get(team);
+        }
+        return null;
+    }
+
 
 
     //========== SimpleEfficiencyRating only methods ==========

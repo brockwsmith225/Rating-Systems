@@ -14,12 +14,12 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class HistoricalPredictionSystem extends RatingSystem {
 
-    private HashMap<Integer, HashMap<String, Vector>> teamVectors;
-    private HashMap<Integer, HashMap<String, Vector>> scaledTeamVectors;
-    private HashMap<Integer, HashMap<String, Team>> allTeams;
+    private Map<String, HPSTeam> teams;
+    private Map<Integer, HashMap<String, HPSTeam>> allTeams;
     private SimpleEfficiencyRating[] ser;
     private boolean hasRankedTeams, hasRankedGroups;
 
@@ -27,22 +27,19 @@ public class HistoricalPredictionSystem extends RatingSystem {
         super(interpreter, year);
         hasRankedTeams = false;
         hasRankedGroups = false;
-        teamVectors = new HashMap<>();
+        teams = new HashMap<>();
         allTeams = new HashMap<>();
         allTeams.put(year, new HashMap<>());
-        teamVectors.put(year, new HashMap<>());
-        for (String team : teams.keySet()) {
+        for (String team : super.teams.keySet()) {
+            teams.put(team, new HPSTeam(super.teams.get(team)));
             allTeams.get(year).put(team, teams.get(team));
-            teamVectors.get(year).put(team, teams.get(team).getStatisticsVector());
         }
         for (int y = 2000; y < year; y++) {
             if (interpreter.hasData(y)) {
-                HashMap<String, Team> temp = interpreter.parseData(y);
+                Map<String, Team> temp = interpreter.parseData(y);
                 allTeams.put(y, new HashMap<>());
-                teamVectors.put(y, new HashMap<>());
                 for (String team : temp.keySet()) {
-                    allTeams.get(y).put(team, temp.get(team));
-                    teamVectors.get(y).put(team, temp.get(team).getStatisticsVector());
+                    allTeams.get(y).put(team, new HPSTeam(temp.get(team)));
                 }
             }
         }
@@ -53,22 +50,19 @@ public class HistoricalPredictionSystem extends RatingSystem {
         super(interpreter, year, week);
         hasRankedTeams = false;
         hasRankedGroups = false;
-        teamVectors = new HashMap<>();
+        teams = new HashMap<>();
         allTeams = new HashMap<>();
         allTeams.put(year, new HashMap<>());
-        teamVectors.put(year, new HashMap<>());
-        for (String team : teams.keySet()) {
+        for (String team : super.teams.keySet()) {
+            teams.put(team, new HPSTeam(super.teams.get(team)));
             allTeams.get(year).put(team, teams.get(team));
-            teamVectors.get(year).put(team, teams.get(team).getStatisticsVector());
         }
         for (int y = 2000; y < year; y++) {
             if (interpreter.hasData(y)) {
-                HashMap<String, Team> temp = interpreter.parseData(y);
+                Map<String, Team> temp = interpreter.parseData(y);
                 allTeams.put(y, new HashMap<>());
-                teamVectors.put(y, new HashMap<>());
                 for (String team : temp.keySet()) {
-                    allTeams.get(y).put(team, temp.get(team));
-                    teamVectors.get(y).put(team, temp.get(team).getStatisticsVector());
+                    allTeams.get(y).put(team, new HPSTeam(temp.get(team)));
                 }
             }
         }
@@ -76,11 +70,9 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     @Override
     public void setup() {
-        scaledTeamVectors = new HashMap<>();
         for (Integer year : allTeams.keySet()) {
-            scaledTeamVectors.put(year, new HashMap<>());
             for (String team : allTeams.get(year).keySet()) {
-                scaledTeamVectors.get(year).put(team, allTeams.get(year).get(team).getStatisticsVector(teamVectors.get(year)));
+                allTeams.get(year).get(team).setScaledStats(allTeams.get(year));
             }
         }
 
@@ -119,11 +111,6 @@ public class HistoricalPredictionSystem extends RatingSystem {
     }
 
     @Override
-    public void rankGroups() {
-
-    }
-
-    @Override
     public String printTeamRankings(boolean prettyPrint, boolean allStats) {
         if (!hasRankedTeams) {
             rankTeams();
@@ -142,8 +129,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
     protected String prettyPrintTeam(String team, boolean allStats) {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
-                + Terminal.rightJustify(Double.toString(teams.get(team).getRating("Offensive Rating")), 10) + "   "
-                + Terminal.rightJustify(Double.toString(teams.get(team).getRating("Defensive Rating")), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getOffensiveRating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getDefensiveRating()), 10) + "   "
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
@@ -162,42 +149,39 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
 
 
-        HashMap<String, Double> team1Similarities = new HashMap<>();
-        HashMap<String, Double> team2Similarities = new HashMap<>();
-
-        Vector team1Vector = new Vector(28, 0.0);
-        Vector team2Vector = new Vector(28, 0.0);
+        Map<Integer, Double> team1Years = new HashMap<>();
+        Map<Integer, Double> team2Years = new HashMap<>();
         double team1ModifiedCount = 0.0;
         double team2ModifiedCount = 0.0;
         for (int year = this.year; year >= this.year - statNumRecentYears; year--) {
-            if (scaledTeamVectors.containsKey(year)) {
+            if (allTeams.containsKey(year)) {
                 double recencyModifier = Math.pow(statRecencyBias, (this.year - year) * this.week);
-                if (scaledTeamVectors.get(year).containsKey(team1)) {
-                    team1Vector = team1Vector.add(scaledTeamVectors.get(year).get(team1).multiply(recencyModifier));
+                if (allTeams.get(year).containsKey(team1)) {
+                    team1Years.put(year, recencyModifier);
                     team1ModifiedCount += recencyModifier;
                 }
-                if (scaledTeamVectors.get(year).containsKey(team2)) {
-                    team2Vector = team2Vector.add(scaledTeamVectors.get(year).get(team2).multiply(recencyModifier));
+                if (allTeams.get(year).containsKey(team2)) {
+                    team2Years.put(year, recencyModifier);
                     team2ModifiedCount += recencyModifier;
                 }
             }
         }
 
-        team1Vector = team1Vector.multiply(1.0 / team1ModifiedCount);
-        team2Vector = team2Vector.multiply(1.0 / team2ModifiedCount);
-
-        if (team1Vector.magnitude() == 0.0) {
-            team1Vector = new Vector(team1Vector.size(), 1.0);
-        }
-        if (team2Vector.magnitude() == 0.0) {
-            team2Vector = new Vector(team2Vector.size(), 1.0);
-        }
-
+        Map<String, Double> team1Similarities = new HashMap<>();
+        Map<String, Double> team2Similarities = new HashMap<>();
         for (Integer year : allTeams.keySet()) {
             if (year != this.year) {
                 for (String historicalTeam : allTeams.get(year).keySet()) {
-                    team1Similarities.put(historicalTeam, team1Vector.similarity(scaledTeamVectors.get(year).get(historicalTeam)));
-                    team2Similarities.put(historicalTeam, team2Vector.similarity(scaledTeamVectors.get(year).get(historicalTeam)));
+                    team1Similarities.put(historicalTeam, 0.0);
+                    for (Integer team1Year : team1Years.keySet()) {
+                        team1Similarities.put(historicalTeam, team1Similarities.get(historicalTeam) + team1Years.get(team1Year) * allTeams.get(team1Year).get(team1).similarity(allTeams.get(year).get(historicalTeam)));
+                    }
+                    team1Similarities.put(historicalTeam, team1Similarities.get(historicalTeam) / team1ModifiedCount);
+                    team2Similarities.put(historicalTeam, 0.0);
+                    for (Integer team2Year : team2Years.keySet()) {
+                        team2Similarities.put(historicalTeam, team2Similarities.get(historicalTeam) + team2Years.get(team2Year) * allTeams.get(team2Year).get(team2).similarity(allTeams.get(year).get(historicalTeam)));
+                    }
+                    team2Similarities.put(historicalTeam, team2Similarities.get(historicalTeam) / team2ModifiedCount);
                 }
             }
         }
@@ -241,13 +225,13 @@ public class HistoricalPredictionSystem extends RatingSystem {
         for (int i = 0; i < ser.length; i++) {
             double recencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * this.week);
             if (ser[i].hasTeam(team1)) {
-                team1Off += ser[i].getTeam(team1).getRating("Offensive Rating") * recencyModifier;
-                team1Def += ser[i].getTeam(team1).getRating("Defensive Rating") * recencyModifier;
+                team1Off += ser[i].getSERTeam(team1).getOffensiveRating() * recencyModifier;
+                team1Def += ser[i].getSERTeam(team1).getDefensiveRating() * recencyModifier;
                 team1ModifiedCount += recencyModifier;
             }
             if (ser[i].hasTeam(team2)) {
-                team2Off += ser[i].getTeam(team2).getRating("Offensive Rating") * recencyModifier;
-                team2Def += ser[i].getTeam(team2).getRating("Defensive Rating") * recencyModifier;
+                team2Off += ser[i].getSERTeam(team2).getOffensiveRating() * recencyModifier;
+                team2Def += ser[i].getSERTeam(team2).getDefensiveRating() * recencyModifier;
                 team2ModifiedCount += recencyModifier;
             }
         }
@@ -266,7 +250,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team2ExpectedScore = gameSimilaritiesVector.dotProduct(team2ScoresVector) * Math.pow(team2Off / team1Def, serPow);
 
         //double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
-        double odds = 1.0 / (1.0 + Math.exp((team2ExpectedScore - team1ExpectedScore) / 10.0));
+        double odds = 1.0 / (1.0 + Math.exp(4 * (team2ExpectedScore - team1ExpectedScore) / (team1ExpectedScore + team2ExpectedScore)));
 
         return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore, location);
     }
@@ -295,8 +279,8 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
         for (String team : allTeams.get(year).keySet()) {
             allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
-            allTeams.get(this.year).get(team).setRating("Offensive Rating", offRatings.get(team) / (offRatings.size() - 1));
-            allTeams.get(this.year).get(team).setRating("Defensive Rating", defRatings.get(team) / (defRatings.size() - 1));
+            allTeams.get(this.year).get(team).setOffensiveRating(offRatings.get(team) / (offRatings.size() - 1));
+            allTeams.get(this.year).get(team).setDefensiveRating(defRatings.get(team) / (defRatings.size() - 1));
         }
     }
 
