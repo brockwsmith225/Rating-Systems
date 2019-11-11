@@ -157,7 +157,7 @@ public abstract class RatingSystem {
         List<Game> games = new ArrayList<>();
         for (Team team : teams.values()) {
             for (Game game : team.getGames()) {
-                if (game.getWeek() == week) {
+                if (game.getWeek() == week && (game.getLocation() == Location.HOME || (game.getLocation() == Location.NEUTRAL && game.getTeam().compareTo(game.getOpponent()) < 0))) {
                     games.add(game);
                 }
             }
@@ -297,6 +297,43 @@ public abstract class RatingSystem {
      * @return the odds that team 1 wins
      */
     abstract public Prediction predictGame(String team1, String team2, Location location);
+
+    public String printPredictions(List<Game> games, boolean prettyPrint) {
+        StringBuilder predictions = new StringBuilder();
+        for (Game game : games) {
+            Prediction prediction = predictGame(game.getTeam(), game.getOpponent(), game.getLocation());
+            predictions.append(game.getWeek());
+            predictions.append("\t");
+            predictions.append(game.getDate());
+            predictions.append("\t");
+            predictions.append(game.getTeam());
+            predictions.append("\t");
+            predictions.append(game.getOpponent());
+            predictions.append("\t");
+            predictions.append((game.getLocation() == Location.NEUTRAL ? "N" : ""));
+            predictions.append("\t");
+            predictions.append(prediction.getTeam1Score());
+            predictions.append("\t");
+            predictions.append(prediction.getTeam2Score());
+            predictions.append("\t");
+            predictions.append(prediction.getOdds());
+            predictions.append("\t");
+            predictions.append(prediction.getLine());
+            predictions.append("\t");
+            predictions.append(prediction.getOverUnder());
+            predictions.append("\t");
+            predictions.append(game.getScore());
+            predictions.append("\t");
+            predictions.append(game.getOpponentScore());
+            predictions.append("\t");
+            predictions.append((-1 * game.getScoreDiff()));
+            predictions.append("\t");
+            predictions.append((game.getScore() + game.getOpponentScore()));
+            predictions.append("\n");
+        }
+        predictions = predictions.deleteCharAt(predictions.length() - 1);
+        return predictions.toString();
+    }
 
     public boolean hasTeam(String team) {
         return teams.containsKey(team);

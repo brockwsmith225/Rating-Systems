@@ -39,6 +39,7 @@ public abstract class Runner {
         commands.put("fetch", new Fetch());
         commands.put("predict", new Predict());
         commands.put("rank", new Rank());
+        commands.put("predictions", new Predictions());
 //        commands.put("set", new ratingsystems.common.commands.Set());
 
         ratingSystems = new HashMap<>();
