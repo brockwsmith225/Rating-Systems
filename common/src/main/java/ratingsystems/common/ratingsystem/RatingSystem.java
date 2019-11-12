@@ -180,7 +180,7 @@ public abstract class RatingSystem {
         double error = 0.0;
         for (Game game : games) {
             double prediction = predictGame(game.getTeam(), game.getOpponent(), game.getLocation()).getLine();
-            error += Math.abs(prediction) - Math.abs(game.getScoreDiff());
+            error += prediction + game.getScoreDiff();
         }
         return error;
     }
