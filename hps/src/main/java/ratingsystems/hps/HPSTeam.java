@@ -39,19 +39,37 @@ public class HPSTeam extends SERTeam {
                 }
             }
         }
-        scaledStats.replaceAll((key, value) -> value / team.getNumberOfGames());
+        scaledStats.replaceAll((key, value) -> {
+            double newValue = value / team.getNumberOfGames();
+            if (Double.isNaN(newValue)) {
+                return 1.0;
+            }
+            if (Double.isInfinite(newValue) || newValue > 10) {
+                return 10.0;
+            }
+            if (newValue < 0.1) {
+                return 0.1;
+            }
+            return newValue;
+        });
     }
 
     public double similarity(HPSTeam team) {
-        Vector vector1 = new Vector(scaledStats.values());
-        Vector vector2 = new Vector(team.scaledStats.values());
-        double similarity = vector1.cosineSimilarity(vector2);
-        if (Double.isNaN(similarity)) {
-            return 0.0;
-        } else if (Double.isInfinite(similarity)) {
-            return 1.0;
+//        Vector vector1 = new Vector(scaledStats.values());
+//        Vector vector2 = new Vector(team.scaledStats.values());
+//        double similarity = vector1.cosineSimilarity(vector2);
+//        if (Double.isNaN(similarity)) {
+//            return 0.0;
+//        } else if (Double.isInfinite(similarity)) {
+//            return 1.0;
+//        }3
+//        return similarity;
+        double similarity = 0.0;
+        for (String stat : scaledStats.keySet()) {
+            double statSim = scaledStats.get(stat) / team.scaledStats.get(stat);
+            similarity += statSim <= 1 ? statSim : 1.0 / statSim;
         }
-        return similarity;
+        return similarity / scaledStats.size();
     }
 
 }
