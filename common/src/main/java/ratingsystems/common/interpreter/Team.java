@@ -191,40 +191,6 @@ public class Team implements Comparable<Team>, Serializable {
         return pointsAllowedPerGame / numberOfGames;
     }
 
-    public double getStatisticPerGame(String statistic) {
-        double statisticPerGame = 0.0;
-        for (Game game : games) {
-            statisticPerGame += game.getStatistic(statistic);
-        }
-        return statisticPerGame / numberOfGames;
-    }
-
-    @JsonIgnore
-    public Vector getStatisticsVector() {
-        if (games.size() == 0) {
-            return null;
-        }
-
-        Vector vector = games.get(0).getStatisticsVector();
-        for (int i = 1; i < games.size(); i++) {
-            vector = vector.add(games.get(0).getStatisticsVector());
-        }
-        vector = vector.replaceZeroes(0.0000000001);
-        return vector.multiply(1.0 / games.size());
-    }
-
-    public Vector getStatisticsVector(Map<String, Vector> teamVectors) {
-        if (games.size() == 0) {
-            return null;
-        }
-
-        Vector vector = games.get(0).getStatisticsVector();
-        for (int i = 1; i < games.size(); i++) {
-            vector = vector.add(games.get(i).getStatisticsVector().piecewiseMultiplication(teamVectors.get(games.get(i).getOpponent()).multiplicativeInverse()));
-        }
-        return vector.multiply(1.0 / games.size());
-    }
-
     @Override
     public int compareTo(Team e) {
         return Double.compare(e.getRating(), rating);
