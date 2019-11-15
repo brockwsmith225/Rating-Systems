@@ -31,6 +31,7 @@ public class CollegeBasketballScraper extends WebScraper {
             linkToName.put(teams.get(name)[0], name);
         }
         PrintStream file = new PrintStream(new File("data/cbb-" + year + ".csv"));
+        file.println("Date,Team,Conference,Location,Opponent,Result,Points,OpponentPoints,FieldGoals,FieldGoalAttempts,ThreePointers,ThreePointerAttempts,FreeThrows,FreeThrowAttempts,OffensiveRebounds,TeamRebounds,Assists,Steals,Blocks,Turnovers,PersonalFouls,OpponentFieldGoals,OpponentFieldGoalAttempts,OpponentThreePointers,OpponentThreePointerAttempts,OpponentFreeThrows,OpponentFreeThrowAttempts,OpponentOffensiveRebounds,OpponentTeamRebounds,OpponentAssists,OpponentSteals,OpponentBlocks,OpponentTurnovers,OpponentPersonalFouls");
         for (String name : teams.keySet()) {
             String team = teams.get(name)[0];
             String conference = teams.get(name)[1];

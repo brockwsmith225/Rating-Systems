@@ -108,20 +108,20 @@ public class HPSTeam extends SERTeam {
 //            return 1.0;
 //        }
 //        return similarity;
-//        double similarity = 1.0;
-//        for (String stat : scaledStats.keySet()) {
-//            double statSim = scaledStats.get(stat) / team.scaledStats.get(stat);
-//            similarity *= statSim <= 1 ? statSim : 1.0 / statSim;
-//        }
-//        return Math.pow(similarity, 1.0 / scaledStats.size());
         double similarity = 1.0;
-        similarity *= multAbs(offensePassingEfficiency() / team.offensePassingEfficiency());
-        similarity *= multAbs(offenseRushingEfficiency() / team.offenseRushingEfficiency());
-        similarity *= multAbs(offensePassingPlayPercent() / team.offensePassingPlayPercent());
-        similarity *= multAbs(defensePassingEfficiency() / team.defensePassingEfficiency());
-        similarity *= multAbs(defenseRushingEfficiency() / team.defenseRushingEfficiency());
-        similarity *= multAbs(defensePassingPlayPercent() / team.defensePassingPlayPercent());
-        return Math.pow(similarity, 1.0 / 6.0);
+        for (String stat : scaledStats.keySet()) {
+            double statSim = scaledStats.get(stat) / team.scaledStats.get(stat);
+            similarity *= statSim <= 1 ? statSim : 1.0 / statSim;
+        }
+        return Math.pow(similarity, 1.0 / scaledStats.size());
+//        double similarity = 1.0;
+//        similarity *= multAbs(offensePassingEfficiency() / team.offensePassingEfficiency());
+//        similarity *= multAbs(offenseRushingEfficiency() / team.offenseRushingEfficiency());
+//        similarity *= multAbs(offensePassingPlayPercent() / team.offensePassingPlayPercent());
+//        similarity *= multAbs(defensePassingEfficiency() / team.defensePassingEfficiency());
+//        similarity *= multAbs(defenseRushingEfficiency() / team.defenseRushingEfficiency());
+//        similarity *= multAbs(defensePassingPlayPercent() / team.defensePassingPlayPercent());
+//        return Math.pow(similarity, 1.0 / 6.0);
     }
 
     private double multAbs(double x) {

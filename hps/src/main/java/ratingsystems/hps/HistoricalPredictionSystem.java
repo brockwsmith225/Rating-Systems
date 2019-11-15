@@ -154,31 +154,31 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team1ModifiedCount = 0.0;
         double team2ModifiedCount = 0.0;
 
-        double team1OffEff = 1.0;
-        double team1DefEff = 1.0;
-        double team2OffEff = 1.0;
-        double team2DefEff = 1.0;
+//        double team1OffEff = 1.0;
+//        double team1DefEff = 1.0;
+//        double team2OffEff = 1.0;
+//        double team2DefEff = 1.0;
         for (int year = this.year; year >= this.year - statNumRecentYears; year--) {
             if (allTeams.containsKey(year)) {
                 double recencyModifier = Math.pow(statRecencyBias, (this.year - year) * this.week);
                 if (allTeams.get(year).containsKey(team1)) {
                     team1Years.put(year, recencyModifier);
                     team1ModifiedCount += recencyModifier;
-                    team1OffEff *= Math.pow(allTeams.get(year).get(team1).offenseEfficiency(), recencyModifier);
-                    team1DefEff *= Math.pow(allTeams.get(year).get(team1).defenseEfficiency(), recencyModifier);
+//                    team1OffEff *= Math.pow(allTeams.get(year).get(team1).offenseEfficiency(), recencyModifier);
+//                    team1DefEff *= Math.pow(allTeams.get(year).get(team1).defenseEfficiency(), recencyModifier);
                 }
                 if (allTeams.get(year).containsKey(team2)) {
                     team2Years.put(year, recencyModifier);
                     team2ModifiedCount += recencyModifier;
-                    team2OffEff *= Math.pow(allTeams.get(year).get(team2).offenseEfficiency(), recencyModifier);
-                    team2DefEff *= Math.pow(allTeams.get(year).get(team2).defenseEfficiency(), recencyModifier);
+//                    team2OffEff *= Math.pow(allTeams.get(year).get(team2).offenseEfficiency(), recencyModifier);
+//                    team2DefEff *= Math.pow(allTeams.get(year).get(team2).defenseEfficiency(), recencyModifier);
                 }
             }
         }
-        team1OffEff = Math.pow(team1OffEff, 1.0 / team1ModifiedCount);
-        team1DefEff = Math.pow(team1DefEff, 1.0 / team1ModifiedCount);
-        team2OffEff = Math.pow(team2OffEff, 1.0 / team2ModifiedCount);
-        team2DefEff = Math.pow(team2DefEff, 1.0 / team2ModifiedCount);
+//        team1OffEff = Math.pow(team1OffEff, 1.0 / team1ModifiedCount);
+//        team1DefEff = Math.pow(team1DefEff, 1.0 / team1ModifiedCount);
+//        team2OffEff = Math.pow(team2OffEff, 1.0 / team2ModifiedCount);
+//        team2DefEff = Math.pow(team2DefEff, 1.0 / team2ModifiedCount);
 
         Map<String, Double> team1Similarities = new HashMap<>();
         Map<String, Double> team2Similarities = new HashMap<>();
