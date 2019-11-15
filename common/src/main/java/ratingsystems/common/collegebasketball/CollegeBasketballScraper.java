@@ -25,7 +25,6 @@ public class CollegeBasketballScraper extends WebScraper {
         HashMap<String, String> nameToPrint = new HashMap<>();
         for (String name : teams.keySet()) {
             Document d = Jsoup.connect("https://www.sports-reference.com/cbb/schools/" + teams.get(name)[0]).get();
-            System.out.println(d.select("#bottom_nav").html());
             Matcher c = Pattern.compile("<strong>(.*) Pages").matcher(d.select("#bottom_nav").html());
             c.find();
             nameToPrint.put(name, c.group(1));

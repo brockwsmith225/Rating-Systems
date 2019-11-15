@@ -9,6 +9,7 @@ ratingsystems\common\collegefootball\CollegeFootballConferencesInterpreter.class
 ratingsystems\common\interpreter\Interpreter.class
 ratingsystems\common\ratingsystem\Prediction.class
 ratingsystems\common\webscraper\WebScraper.class
+ratingsystems\common\commands\Predictions.class
 ratingsystems\common\linalg\Vector.class
 ratingsystems\common\interpreter\Date.class
 ratingsystems\common\ratingsystem\RatingSystem.class
