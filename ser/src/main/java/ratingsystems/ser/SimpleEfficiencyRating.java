@@ -138,18 +138,18 @@ public class SimpleEfficiencyRating extends RatingSystem {
         int count = 0;
         for (SERTeam team : teams.values()) {
             int games = 0;
-            double offensiveEfficiency = 0.0;
-            double defensiveEfficiency = 0.0;
+            double offensiveEfficiency = 1.0;
+            double defensiveEfficiency = 1.0;
             for (Game game : team.getGames()) {
                 games++;
-                offensiveEfficiency += calculateOffensiveEfficiency(game);
-                defensiveEfficiency += calculateDefensiveEfficiency(game);
+                offensiveEfficiency *= calculateOffensiveEfficiency(game);
+                defensiveEfficiency *= calculateDefensiveEfficiency(game);
                 ppg += game.getScore();
                 count++;
             }
 
-            team.setOffensiveRating(offensiveEfficiency / games);
-            team.setDefensiveRating(games / defensiveEfficiency);
+            team.setOffensiveRating(Math.pow(offensiveEfficiency, 1.0 / games));
+            team.setDefensiveRating(1 / Math.pow(defensiveEfficiency, 1.0 / games));
             team.calculateRating();
         }
         ppg /= count;
@@ -164,11 +164,11 @@ public class SimpleEfficiencyRating extends RatingSystem {
     private double calculateOffensiveEfficiency(Game game) {
         double offensiveEfficiency = game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
         if (Double.isNaN(offensiveEfficiency)) return 1.0;
-        return offensiveEfficiency;
+        return Math.exp(offensiveEfficiency - 1);
     }
 
     /**
-     * Calculates the defensive effeciency of a single team during a single game
+     * Calculates the defensive efficiency of a single team during a single game
      *
      * @param game the game for which the defensive efficiency will be calculated
      * @return the defensive efficiency of the team from the game
@@ -176,7 +176,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
     private double calculateDefensiveEfficiency(Game game) {
         double defensiveEfficiency = game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
         if (Double.isNaN(defensiveEfficiency)) return 1.0;
-        return defensiveEfficiency;
+        return Math.exp(defensiveEfficiency - 1);
     }
 
     private double sigmoid(double x) {
