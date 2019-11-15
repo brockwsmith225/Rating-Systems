@@ -27,7 +27,7 @@ public class CollegeBasketballScraper extends WebScraper {
             Document d = Jsoup.connect("https://www.sports-reference.com/cbb/schools/" + teams.get(name)[0]).get();
             Matcher c = Pattern.compile("<strong>(.*) Pages").matcher(d.select("#bottom_nav").html());
             c.find();
-            nameToPrint.put(name, c.group(1));
+            nameToPrint.put(name, c.group(1).replace("&amp;", "&"));
             linkToName.put(teams.get(name)[0], name);
         }
         PrintStream file = new PrintStream(new File("data/cbb-" + year + ".csv"));
