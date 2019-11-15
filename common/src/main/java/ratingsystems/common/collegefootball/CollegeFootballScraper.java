@@ -141,8 +141,7 @@ public class CollegeFootballScraper extends WebScraper {
                             res = res.replace(res.length() - 1, res.length(), "\n");
                         }
                     }
-                    res.deleteCharAt(res.length() - 1);
-                    file.println(res.toString());
+                    file.print(res.toString());
                 }
             }
         }

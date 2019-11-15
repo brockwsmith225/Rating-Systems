@@ -19,19 +19,25 @@ public class CollegeBasketballScraper extends WebScraper {
 
     @Override
     public void fetch(int year) throws IOException {
-        WebScraper scraper = new TeamsScraper();
-        HashMap<String, String> teams = scraper.fetch("https://www.sports-reference.com/cbb/schools/");
+        TeamsScraper scraper = new TeamsScraper();
+        HashMap<String, String[]> teams = scraper.fetch("https://www.sports-reference.com/cbb/schools/", year);
         HashMap<String, String> linkToName = new HashMap<>();
+        HashMap<String, String> nameToPrint = new HashMap<>();
         for (String name : teams.keySet()) {
-            linkToName.put(teams.get(name), name);
+            Document d = Jsoup.connect("https://www.sports-reference.com/cbb/schools/" + teams.get(name)[0]).get();
+            System.out.println(d.select("#bottom_nav").html());
+            Matcher c = Pattern.compile("<strong>(.*) Pages").matcher(d.select("#bottom_nav").html());
+            c.find();
+            nameToPrint.put(name, c.group(1));
+            linkToName.put(teams.get(name)[0], name);
         }
         PrintStream file = new PrintStream(new File("data/cbb-" + year + ".csv"));
         for (String name : teams.keySet()) {
-            String team = teams.get(name);
+            String team = teams.get(name)[0];
+            String conference = teams.get(name)[1];
+            String coach = teams.get(name)[2];
             ArrayList<ArrayList<String>> schedule = new ArrayList<>();
             Document d = Jsoup.connect("https://www.sports-reference.com/cbb/schools/" + team + "/" + year + "-gamelogs.html").get();
-            Matcher c = Pattern.compile("conferences\\/.*\\/" + year + "\\.html\">(.*)<\\/a>").matcher((d.select("#meta").html()));
-            String conference = c.find() ? c.group(1) : "";
             Elements offense = d.select("#sgl-basic td");
             HashMap<String, Pattern> data = new HashMap<>();
             data.put("date_game", Pattern.compile("\\.html\">(.*)<\\/a>"));
@@ -86,21 +92,22 @@ public class CollegeBasketballScraper extends WebScraper {
                 }
             }
             if (!conference.equals("")) {
-                String res = "";
+                StringBuilder res = new StringBuilder();
                 for (int g = 0; g < schedule.size(); g++) {
                     ArrayList<String> game = schedule.get(g);
                     if (game.size() == data.size()) {
-                        game.add(1, name);
+                        game.add(1, nameToPrint.get(name));
                         game.set(2, game.get(2).equals("") ? "H" : game.get(2).equals("N") ? "N" : "A");
-                        game.set(3, linkToName.get(game.get(3)));
+                        game.set(3, nameToPrint.get(linkToName.get(game.get(3))));
                         game.add(2, conference);
                         for (int i = 0; i < game.size(); i++) {
-                            res += game.get(i) + ",";
+                            res.append(game.get(i));
+                            res.append(",");
                         }
-                        res = res.substring(0, res.length() - 1) + "\n";
+                        res = res.replace(res.length() - 1, res.length(), "\n");
                     }
                 }
-                System.out.println(res.substring(0, res.length() - 1));
+                file.print(res.toString());
             }
         }
     }
