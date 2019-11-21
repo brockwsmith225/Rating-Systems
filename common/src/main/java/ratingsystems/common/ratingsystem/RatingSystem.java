@@ -130,6 +130,10 @@ public abstract class RatingSystem {
         return List.copyOf(rankedTeams);
     }
 
+    public int getYear() {
+        return year;
+    }
+
     /**
      * Returns the week of the most recent game
      *
