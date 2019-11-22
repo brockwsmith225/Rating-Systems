@@ -21,6 +21,7 @@
         <module>ser</module>
         <module>hps</module>
         <module>api</module>
+        <module>rhps</module>
     </modules>
     
 </project>

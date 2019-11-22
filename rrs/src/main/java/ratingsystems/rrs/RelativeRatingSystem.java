@@ -4,7 +4,6 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Location;
-import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.linalg.Matrix;
 import ratingsystems.common.linalg.Vector;
 import ratingsystems.common.ratingsystem.Prediction;
@@ -15,10 +14,10 @@ import java.util.*;
 
 public class RelativeRatingSystem extends RatingSystem {
 
-    private HashMap<String, RRSTeam> teams;
+    protected HashMap<String, RRSTeam> teams;
     private Matrix posMatrix, negMatrix;
-    private HashMap<String, Integer> teamNameToIndex;
-    private HashMap<Integer, String> teamIndexToName;
+    protected HashMap<String, Integer> teamNameToIndex;
+    protected HashMap<Integer, String> teamIndexToName;
 
     public RelativeRatingSystem() {
         super();
@@ -171,7 +170,7 @@ public class RelativeRatingSystem extends RatingSystem {
      *
      * @return the 2D array with all positive values
      */
-    private double[][] setupPositiveValues() {
+    protected double[][] setupPositiveValues() {
         double[][] values = new double[teams.size()][teams.size()];
         for (int r = 0; r < teams.size(); r++) {
             for (int c = 0; c < teams.size(); c++) {
@@ -197,7 +196,7 @@ public class RelativeRatingSystem extends RatingSystem {
      *
      * @return the 2D array with all negative values
      */
-    private double[][] setupNegativeValues() {
+    protected double[][] setupNegativeValues() {
         double[][] values = new double[teams.size()][teams.size()];
         for (int r = 0; r < teams.size(); r++) {
             for (int c = 0; c < teams.size(); c++) {
@@ -209,9 +208,6 @@ public class RelativeRatingSystem extends RatingSystem {
             double totalWeightedScoreDiff = 0.0;
             for (Game game : games) {
                 if (game.getScoreDiff() < 0) {
-                    if (!teamNameToIndex.containsKey(game.getOpponent())) {
-                        System.out.println(game.getOpponent());
-                    }
                     values[teamNameToIndex.get(team)][teamNameToIndex.get(game.getOpponent())] += Math.abs(game.getWeightedScoreDiff());
                     totalWeightedScoreDiff += Math.abs(game.getWeightedScoreDiff());
                 }
