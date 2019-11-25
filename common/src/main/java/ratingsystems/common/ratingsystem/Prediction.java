@@ -28,7 +28,7 @@ public class Prediction {
         this.team1 = team1;
         this.team2 = team2;
         this.odds = odds;
-        this.line = (Math.round(line * 2) / 2.0);
+        this.line = line;
         this.overUnder = -1;
         this.team1Score = -1;
         this.team2Score = -1;
@@ -44,8 +44,8 @@ public class Prediction {
         this.team1 = team1;
         this.team2 = team2;
         this.odds = odds;
-        this.team1Score = (Math.round(team1Score * 2) / 2.0);
-        this.team2Score = (Math.round(team2Score * 2) / 2.0);
+        this.team1Score = team1Score;
+        this.team2Score = team2Score;
         this.line = this.team2Score - this.team1Score;
         this.overUnder = this.team1Score + this.team2Score;
         this.location = null;

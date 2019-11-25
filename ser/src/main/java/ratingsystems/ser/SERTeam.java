@@ -17,11 +17,19 @@ public class SERTeam extends CustomTeam {
     }
 
     public void setOffensiveRating(double offensiveRating) {
-        this.offensiveRating = offensiveRating;
+        if (Double.isNaN(offensiveRating)) {
+            this.offensiveRating = 1.0;
+        } else {
+            this.offensiveRating = offensiveRating;
+        }
     }
 
     public void setDefensiveRating(double defensiveRating) {
-        this.defensiveRating = defensiveRating;
+        if (Double.isNaN(defensiveRating)) {
+            this.defensiveRating = 1.0;
+        } else {
+            this.defensiveRating = defensiveRating;
+        }
     }
 
     public double getOffensiveRating() {

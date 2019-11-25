@@ -44,10 +44,10 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         while (data.hasNext()) {
             CollegeFootballEntry entry = new CollegeFootballEntry(data.nextLine(), startDate);
+            if (!teams.containsKey(entry.team)) {
+                teams.put(entry.team, new Team(entry.team, entry.conference, entry.coach, year));
+            }
             if (entry.week <= week) {
-                if (!teams.containsKey(entry.team)) {
-                    teams.put(entry.team, new Team(entry.team, entry.conference, entry.coach, year));
-                }
                 teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }

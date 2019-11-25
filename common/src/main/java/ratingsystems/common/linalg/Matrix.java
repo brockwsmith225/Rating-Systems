@@ -189,7 +189,7 @@ public class Matrix {
                 for (int r = 0; r < m.matrix.length; r++) {
                     double multiplier = m.matrix[r][p] / m.matrix[p][p];
                     if (r != p) {
-                        for (int c = p; c < m.matrix.length; c++) {
+                        for (int c = p; c < m.matrix[r].length; c++) {
                             m.matrix[r][c] -= m.matrix[p][c] * multiplier;
                             if (Math.abs(m.matrix[r][c]) < 0.00000000001 || Double.isNaN(m.matrix[r][c])) {
                                 m.matrix[r][c] = 0;
@@ -197,6 +197,9 @@ public class Matrix {
                         }
                     }
                 }
+            }
+            if (p >= m.matrix.length - 2) {
+                System.out.println(m);
             }
         }
         return m;
