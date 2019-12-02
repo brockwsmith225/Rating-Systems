@@ -18,7 +18,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Miami (OH),MAC,Chuck Martin,A,Kent State,MAC,Sean Lewis,W,23,16,13,29,178,1,42,289,1,7,11,11,101,2,0
 2019-11-06,Miami (OH),MAC,Chuck Martin,A,Ohio,MAC,Frank Solich,W,24,21,10,18,149,1,29,129,2,6,7,6,60,0,0
 2019-11-13,Miami (OH),MAC,Chuck Martin,H,Bowling Green State,MAC,Scot Loeffler,W,44,3,10,16,238,3,36,187,2,8,9,2,15,1,1
-2019-11-20,Miami (OH),MAC,Chuck Martin,H,Akron,MAC,Tom Arth,W,20,17,10,22,117,0,50,241,2,6,12,3,10,0,2
+2019-11-20,Miami (OH),MAC,Chuck Martin,H,Akron,MAC,Tom Arth,W,20,17,10,22,117,0,52,238,2,6,12,3,10,0,2
 2019-08-31,Indiana,Big Ten,Tom Allen,N,Ball State,MAC,Mike Neu,W,34,24,24,41,326,1,33,148,2,15,10,5,65,0,2
 2019-09-14,Indiana,Big Ten,Tom Allen,H,Ohio State,Big Ten,Ryan Day,L,10,51,21,36,215,1,31,42,0,9,4,5,54,0,1
 2019-09-21,Indiana,Big Ten,Tom Allen,H,Connecticut,American,Randy Edsall,W,38,3,24,28,252,3,40,178,1,14,10,5,45,1,1
@@ -69,7 +69,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,UTSA,CUSA,Frank Wilson,A,Texas A&M,SEC,Jimbo Fisher,L,14,45,11,25,138,0,36,93,1,6,7,6,49,0,1
 2019-11-09,UTSA,CUSA,Frank Wilson,A,Old Dominion,CUSA,Bobby Wilder,W,24,23,18,23,240,1,42,192,2,10,11,6,80,1,0
 2019-11-16,UTSA,CUSA,Frank Wilson,H,Southern Mississippi,CUSA,Jay Hopson,L,17,36,21,40,325,2,37,97,0,11,7,7,49,2,1
-2019-11-23,UTSA,CUSA,Frank Wilson,H,Florida Atlantic,CUSA,Lane Kiffin,L,26,40,18,30,209,3,37,197,0,11,8,7,74,2,1
+2019-11-23,UTSA,CUSA,Frank Wilson,H,Florida Atlantic,CUSA,Lane Kiffin,L,26,40,18,30,209,3,38,192,0,11,8,7,74,2,1
 2019-08-29,Arizona State,Pac-12,Herman Edwards,H,Kent State,MAC,Sean Lewis,W,30,7,15,24,284,2,46,171,1,9,8,6,50,1,0
 2019-09-14,Arizona State,Pac-12,Herman Edwards,A,Michigan State,Big Ten,Mark Dantonio,W,10,7,15,26,140,0,26,76,1,6,5,7,62,0,0
 2019-09-21,Arizona State,Pac-12,Herman Edwards,H,Colorado,Pac-12,Mel Tucker,L,31,34,24,39,345,2,28,108,2,15,6,3,39,0,1
@@ -89,7 +89,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Utah,Pac-12,Kyle Whittingham,H,California,Pac-12,Justin Wilcox,W,35,0,15,22,242,2,50,231,3,11,12,3,25,0,0
 2019-11-02,Utah,Pac-12,Kyle Whittingham,A,Washington,Pac-12,Chris Petersen,W,33,28,19,24,284,1,44,115,2,10,8,3,15,2,0
 2019-11-16,Utah,Pac-12,Kyle Whittingham,H,UCLA,Pac-12,Chip Kelly,W,49,3,14,19,335,2,38,201,4,10,8,8,60,1,0
-2019-11-23,Utah,Pac-12,Kyle Whittingham,A,Arizona,Pac-12,Kevin Sumlin,W,35,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Utah,Pac-12,Kyle Whittingham,A,Arizona,Pac-12,Kevin Sumlin,W,35,7,20,24,220,1,50,297,4,10,14,11,110,0,1
 2019-08-31,Syracuse,ACC,Dino Babers,A,Liberty,Ind,Hugh Freeze,W,24,0,17,35,176,0,44,192,3,9,6,10,88,1,2
 2019-09-07,Syracuse,ACC,Dino Babers,A,Maryland,Big Ten,Mike Locksley,L,20,63,28,41,330,3,29,70,0,12,5,6,35,1,1
 2019-09-14,Syracuse,ACC,Dino Babers,H,Clemson,ACC,Dabo Swinney,L,6,41,15,29,172,0,42,15,0,5,3,9,85,0,1
@@ -109,7 +109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Arizona,Pac-12,Kevin Sumlin,A,Stanford,Pac-12,David Shaw,L,31,41,24,40,273,3,37,222,1,13,15,5,56,0,2
 2019-11-02,Arizona,Pac-12,Kevin Sumlin,H,Oregon State,Pac-12,Jonathan Smith,L,38,56,26,41,378,2,47,148,3,15,10,5,65,0,0
 2019-11-16,Arizona,Pac-12,Kevin Sumlin,A,Oregon,Pac-12,Mario Cristobal,L,6,34,17,30,132,0,39,108,0,7,7,8,45,0,0
-2019-11-23,Arizona,Pac-12,Kevin Sumlin,H,Utah,Pac-12,Kyle Whittingham,L,7,35,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Arizona,Pac-12,Kevin Sumlin,H,Utah,Pac-12,Kyle Whittingham,L,7,35,14,27,135,0,25,61,1,6,4,4,60,0,0
 2019-09-07,Western Kentucky,CUSA,Tyson Helton,A,Florida International,CUSA,Butch Davis,W,20,14,19,33,241,1,35,98,1,10,6,7,60,0,2
 2019-09-14,Western Kentucky,CUSA,Tyson Helton,N,Louisville,ACC,Scott Satterfield,L,21,38,25,47,245,3,23,43,0,8,3,5,25,2,0
 2019-09-28,Western Kentucky,CUSA,Tyson Helton,H,UAB,CUSA,Bill Clark,W,20,13,15,24,189,2,29,33,0,7,4,7,71,1,0
@@ -169,7 +169,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,California,Pac-12,Justin Wilcox,A,Utah,Pac-12,Kyle Whittingham,L,0,35,9,22,60,0,20,25,0,1,4,2,15,0,0
 2019-11-09,California,Pac-12,Justin Wilcox,H,Washington State,Pac-12,Mike Leach,W,33,20,16,24,230,3,36,196,2,6,10,6,50,1,0
 2019-11-16,California,Pac-12,Justin Wilcox,H,USC,Pac-12,Clay Helton,L,17,41,15,32,128,0,29,135,2,6,11,3,11,0,2
-2019-11-23,California,Pac-12,Justin Wilcox,A,Stanford,Pac-12,David Shaw,W,24,20,20,30,285,1,36,139,2,10,11,4,51,0,0
+2019-11-23,California,Pac-12,Justin Wilcox,A,Stanford,Pac-12,David Shaw,W,24,20,20,30,285,1,37,139,2,10,11,4,51,0,0
 2019-08-24,Florida,SEC,Dan Mullen,N,Miami (FL),ACC,Manny Diaz,W,24,20,17,27,254,2,27,52,1,11,5,9,100,2,2
 2019-09-14,Florida,SEC,Dan Mullen,A,Kentucky,SEC,Mark Stoops,W,29,21,21,30,300,1,26,138,3,12,4,7,78,1,1
 2019-09-21,Florida,SEC,Dan Mullen,H,Tennessee,SEC,Jeremy Pruitt,W,34,3,24,34,313,2,37,128,2,16,8,5,44,1,2
@@ -209,7 +209,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Texas State,Sun Belt,Jake Spavital,A,Louisiana,Sun Belt,Billy Napier,L,3,31,24,36,206,0,22,58,0,6,5,4,40,0,2
 2019-11-09,Texas State,Sun Belt,Jake Spavital,H,South Alabama,Sun Belt,Steve Campbell,W,30,28,23,33,373,3,34,42,0,15,4,5,28,1,1
 2019-11-16,Texas State,Sun Belt,Jake Spavital,H,Troy,Sun Belt,Chip Lindsey,L,27,63,29,44,263,2,27,153,1,12,8,8,82,0,4
-2019-11-23,Texas State,Sun Belt,Jake Spavital,A,Appalachian State,Sun Belt,Eli Drinkwitz,L,13,35,18,34,154,1,24,66,0,6,5,9,76,0,1
+2019-11-23,Texas State,Sun Belt,Jake Spavital,A,Appalachian State,Sun Belt,Eli Drinkwitz,L,13,35,18,34,154,1,25,54,0,6,5,9,76,0,1
 2019-08-31,Washington State,Pac-12,Mike Leach,H,New Mexico State,Ind,Doug Martin,W,58,7,39,49,507,6,20,111,1,21,7,6,50,0,0
 2019-09-13,Washington State,Pac-12,Mike Leach,N,Houston,American,Dana Holgorsen,W,31,24,36,48,440,3,19,49,1,19,5,11,132,0,1
 2019-09-21,Washington State,Pac-12,Mike Leach,H,UCLA,Pac-12,Chip Kelly,L,63,67,41,61,570,9,21,150,0,21,6,7,38,4,2
@@ -250,7 +250,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,UAB,CUSA,Bill Clark,A,Tennessee,SEC,Jeremy Pruitt,L,7,30,14,30,174,1,25,63,0,9,3,5,49,1,3
 2019-11-09,UAB,CUSA,Bill Clark,A,Southern Mississippi,CUSA,Jay Hopson,L,2,37,15,25,103,0,33,70,0,5,4,2,30,0,2
 2019-11-16,UAB,CUSA,Bill Clark,H,UTEP,CUSA,Dana Dimel,W,37,10,5,10,96,1,49,353,3,2,15,9,83,0,0
-2019-11-23,UAB,CUSA,Bill Clark,H,Louisiana Tech,CUSA,Skip Holtz,W,20,14,12,23,187,1,43,166,1,8,7,8,70,0,1
+2019-11-23,UAB,CUSA,Bill Clark,H,Louisiana Tech,CUSA,Skip Holtz,W,20,14,12,23,187,1,44,166,1,8,7,8,70,0,1
 2019-09-07,Baylor,Big 12,Matt Rhule,H,UTSA,CUSA,Frank Wilson,W,63,14,16,23,178,3,39,368,5,10,16,6,50,0,0
 2019-09-21,Baylor,Big 12,Matt Rhule,A,Rice,CUSA,Mike Bloomgren,W,21,13,20,28,303,1,35,124,2,13,7,6,60,2,0
 2019-09-28,Baylor,Big 12,Matt Rhule,H,Iowa State,Big 12,Matt Campbell,W,23,21,26,45,307,3,34,104,0,16,8,7,75,0,0
@@ -281,7 +281,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Georgia,SEC,Kirby Smart,N,Florida,SEC,Dan Mullen,W,24,17,20,30,279,2,37,119,0,13,6,8,46,0,0
 2019-11-09,Georgia,SEC,Kirby Smart,H,Missouri,SEC,Barry Odom,W,27,0,13,29,173,2,38,166,0,8,7,3,15,0,0
 2019-11-16,Georgia,SEC,Kirby Smart,A,Auburn,SEC,Gus Malzahn,W,21,14,13,28,110,3,36,141,0,5,8,7,56,0,0
-2019-11-23,Georgia,SEC,Kirby Smart,H,Texas A&M,SEC,Jimbo Fisher,W,19,13,11,23,163,1,33,114,0,6,6,2,30,0,0
+2019-11-23,Georgia,SEC,Kirby Smart,H,Texas A&M,SEC,Jimbo Fisher,W,19,13,11,23,163,1,36,97,0,6,6,2,30,0,0
 2019-09-07,Maryland,Big Ten,Mike Locksley,H,Syracuse,ACC,Dino Babers,W,63,20,21,38,296,3,45,354,6,16,13,5,30,0,1
 2019-09-14,Maryland,Big Ten,Mike Locksley,A,Temple,American,Rod Carey,L,17,20,16,39,179,1,46,161,1,10,7,9,88,0,1
 2019-09-27,Maryland,Big Ten,Mike Locksley,H,Penn State,Big Ten,James Franklin,L,0,59,11,24,68,0,34,60,0,3,4,9,85,1,2
@@ -380,7 +380,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-19,Washington,Pac-12,Chris Petersen,H,Oregon,Pac-12,Mario Cristobal,L,31,35,23,30,289,3,33,144,1,11,8,7,62,0,0
 2019-11-02,Washington,Pac-12,Chris Petersen,H,Utah,Pac-12,Kyle Whittingham,L,28,33,29,52,316,4,22,53,0,16,4,6,25,1,2
 2019-11-08,Washington,Pac-12,Chris Petersen,A,Oregon State,Pac-12,Jonathan Smith,W,19,7,16,33,175,0,48,245,2,6,14,9,70,0,2
-2019-11-23,Washington,Pac-12,Chris Petersen,A,Colorado,Pac-12,Mel Tucker,L,14,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Washington,Pac-12,Chris Petersen,A,Colorado,Pac-12,Mel Tucker,L,14,20,21,35,206,1,32,32,1,12,4,9,68,0,1
 2019-08-31,Ball State,MAC,Mike Neu,N,Indiana,Big Ten,Tom Allen,L,24,34,26,41,298,2,40,100,1,14,9,5,35,0,1
 2019-09-14,Ball State,MAC,Mike Neu,H,Florida Atlantic,CUSA,Lane Kiffin,L,31,41,26,38,303,3,35,169,0,16,7,6,49,3,1
 2019-09-21,Ball State,MAC,Mike Neu,A,North Carolina State,ACC,Dave Doeren,L,23,34,35,57,333,0,30,84,2,18,5,7,55,0,1
@@ -390,7 +390,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Ball State,MAC,Mike Neu,H,Ohio,MAC,Frank Solich,L,21,34,11,20,109,1,34,244,2,6,8,3,25,1,0
 2019-11-05,Ball State,MAC,Mike Neu,A,Western Michigan,MAC,Tim Lester,L,31,35,14,22,148,0,43,261,3,9,1,10,74,0,0
 2019-11-16,Ball State,MAC,Mike Neu,H,Central Michigan,MAC,Jim McElwain,L,44,45,14,25,268,3,47,231,2,10,10,8,101,0,1
-2019-11-23,Ball State,MAC,Mike Neu,A,Kent State,MAC,Sean Lewis,L,38,41,16,24,208,1,59,330,4,9,16,5,29,1,0
+2019-11-23,Ball State,MAC,Mike Neu,A,Kent State,MAC,Sean Lewis,L,38,41,16,25,208,1,59,330,4,9,16,5,29,1,0
 2019-09-07,Southern Mississippi,CUSA,Jay Hopson,A,Mississippi State,SEC,Joe Moorhead,L,15,38,18,26,234,2,27,110,0,10,7,1,5,1,2
 2019-09-14,Southern Mississippi,CUSA,Jay Hopson,A,Troy,Sun Belt,Chip Lindsey,W,47,42,29,37,514,3,40,112,2,18,7,10,97,0,0
 2019-09-21,Southern Mississippi,CUSA,Jay Hopson,A,Alabama,SEC,Nick Saban,L,7,49,17,26,174,1,32,52,0,9,5,6,55,1,1
@@ -421,7 +421,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Utah State,MWC,Gary Andersen,H,Brigham Young,Ind,Kalani Sitake,L,14,42,29,49,394,1,33,127,1,15,11,8,55,2,3
 2019-11-09,Utah State,MWC,Gary Andersen,A,Fresno State,MWC,Jeff Tedford,W,37,35,30,39,388,2,34,137,2,14,9,8,53,0,0
 2019-11-16,Utah State,MWC,Gary Andersen,H,Wyoming,MWC,Craig Bohl,W,26,21,21,35,317,2,41,131,0,12,7,9,75,0,2
-2019-11-23,Utah State,MWC,Gary Andersen,H,Boise State,MWC,Bryan Harsin,L,21,56,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Utah State,MWC,Gary Andersen,H,Boise State,MWC,Bryan Harsin,L,21,56,27,47,307,1,34,121,2,14,6,8,65,0,2
 2019-08-31,Missouri,SEC,Barry Odom,A,Wyoming,MWC,Craig Bohl,L,31,37,31,48,423,2,42,114,2,17,11,5,31,2,1
 2019-09-07,Missouri,SEC,Barry Odom,H,West Virginia,Big 12,Neal Brown,W,38,7,17,28,150,3,50,232,1,7,17,10,100,0,0
 2019-09-21,Missouri,SEC,Barry Odom,H,South Carolina,SEC,Will Muschamp,W,34,14,19,33,227,2,54,194,0,12,11,4,37,1,1
@@ -462,7 +462,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Wisconsin,Big Ten,Paul Chryst,A,Ohio State,Big Ten,Ryan Day,L,7,38,10,17,108,1,34,83,0,3,6,3,30,2,0
 2019-11-09,Wisconsin,Big Ten,Paul Chryst,H,Iowa,Big Ten,Kirk Ferentz,W,24,22,16,25,173,2,46,300,1,8,15,8,63,1,1
 2019-11-16,Wisconsin,Big Ten,Paul Chryst,A,Nebraska,Big Ten,Scott Frost,W,37,21,13,21,162,1,43,324,2,8,16,4,36,1,0
-2019-11-23,Wisconsin,Big Ten,Paul Chryst,H,Purdue,Big Ten,Jeff Brohm,W,45,24,15,19,203,2,54,404,4,9,22,3,25,3,1
+2019-11-23,Wisconsin,Big Ten,Paul Chryst,H,Purdue,Big Ten,Jeff Brohm,W,45,24,15,19,203,2,55,403,4,9,22,3,25,3,1
 2019-08-30,Nevada,MWC,Jay Norvell,H,Purdue,Big Ten,Jeff Brohm,W,34,31,30,52,295,3,25,109,1,13,5,11,95,0,0
 2019-09-07,Nevada,MWC,Jay Norvell,A,Oregon,Pac-12,Mario Cristobal,L,6,77,16,28,109,0,40,83,0,6,5,9,54,2,2
 2019-09-21,Nevada,MWC,Jay Norvell,A,UTEP,CUSA,Dana Dimel,W,37,21,15,21,203,2,38,200,3,8,8,4,28,1,1
@@ -472,7 +472,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Nevada,MWC,Jay Norvell,A,Wyoming,MWC,Craig Bohl,L,3,31,27,45,254,0,28,81,0,12,5,4,30,1,1
 2019-11-02,Nevada,MWC,Jay Norvell,H,New Mexico,MWC,Bob Davie,W,21,10,28,40,305,2,34,64,1,13,6,6,30,0,0
 2019-11-09,Nevada,MWC,Jay Norvell,A,San Diego State,MWC,Rocky Long,W,17,13,20,27,197,1,28,29,1,6,4,4,28,0,1
-2019-11-23,Nevada,MWC,Jay Norvell,A,Fresno State,MWC,Jeff Tedford,W,35,28,0,0,0,0,0,0,0,0,0,0,0,2,0
+2019-11-23,Nevada,MWC,Jay Norvell,A,Fresno State,MWC,Jeff Tedford,W,35,28,20,31,154,3,34,254,2,6,11,7,50,2,0
 2019-08-31,USC,Pac-12,Clay Helton,H,Fresno State,MWC,Jeff Tedford,W,31,23,31,42,272,1,36,175,2,12,11,4,35,2,2
 2019-09-07,USC,Pac-12,Clay Helton,H,Stanford,Pac-12,David Shaw,W,45,20,28,33,377,3,28,115,3,15,7,8,93,1,0
 2019-09-14,USC,Pac-12,Clay Helton,A,Brigham Young,Ind,Kalani Sitake,L,27,30,24,34,281,2,45,171,1,13,9,5,44,0,3
@@ -484,7 +484,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,USC,Pac-12,Clay Helton,H,Oregon,Pac-12,Mario Cristobal,L,24,56,32,57,264,3,25,91,0,16,6,8,92,1,3
 2019-11-09,USC,Pac-12,Clay Helton,A,Arizona State,Pac-12,Herman Edwards,W,31,26,33,45,477,4,28,70,0,17,4,11,93,1,1
 2019-11-16,USC,Pac-12,Clay Helton,A,California,Pac-12,Justin Wilcox,W,41,17,29,35,406,4,27,56,1,12,5,8,75,1,0
-2019-11-23,USC,Pac-12,Clay Helton,H,UCLA,Pac-12,Chip Kelly,W,52,35,37,47,515,4,29,143,3,22,9,7,57,1,0
+2019-11-23,USC,Pac-12,Clay Helton,H,UCLA,Pac-12,Chip Kelly,W,52,35,37,47,515,4,32,128,3,22,9,7,57,1,0
 2019-08-31,North Carolina State,ACC,Dave Doeren,H,East Carolina,American,Mike Houston,W,34,6,26,39,314,1,31,191,3,12,9,6,55,0,0
 2019-09-14,North Carolina State,ACC,Dave Doeren,A,West Virginia,Big 12,Neal Brown,L,27,44,24,49,225,2,37,144,1,9,12,9,88,0,0
 2019-09-21,North Carolina State,ACC,Dave Doeren,H,Ball State,MAC,Mike Neu,W,34,23,19,34,185,0,41,204,3,11,10,9,62,0,2
@@ -504,7 +504,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,San Diego State,MWC,Rocky Long,A,Nevada-Las Vegas,MWC,Tony Sanchez,W,20,17,14,23,185,1,37,150,0,9,8,4,44,0,1
 2019-11-09,San Diego State,MWC,Rocky Long,H,Nevada,MWC,Jay Norvell,L,13,17,18,35,196,0,39,113,1,9,8,9,79,0,1
 2019-11-15,San Diego State,MWC,Rocky Long,H,Fresno State,MWC,Jeff Tedford,W,17,7,33,47,323,1,37,102,1,16,6,5,50,1,1
-2019-11-23,San Diego State,MWC,Rocky Long,A,Hawaii,MWC,Nick Rolovich,L,11,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,San Diego State,MWC,Rocky Long,A,Hawaii,MWC,Nick Rolovich,L,11,14,25,40,229,0,26,89,1,10,10,5,45,0,0
 2019-08-24,Hawaii,MWC,Nick Rolovich,H,Arizona,Pac-12,Kevin Sumlin,W,45,38,34,48,436,5,30,159,1,17,10,7,54,2,4
 2019-09-07,Hawaii,MWC,Nick Rolovich,H,Oregon State,Pac-12,Jonathan Smith,W,31,28,30,52,421,4,25,67,0,20,6,4,40,1,1
 2019-09-14,Hawaii,MWC,Nick Rolovich,A,Washington,Pac-12,Chris Petersen,L,20,52,26,47,254,1,34,141,2,15,10,3,25,0,3
@@ -515,7 +515,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Hawaii,MWC,Nick Rolovich,H,Fresno State,MWC,Jeff Tedford,L,38,41,26,51,346,1,31,209,4,13,11,13,135,0,1
 2019-11-09,Hawaii,MWC,Nick Rolovich,H,San Jose State,MWC,Brent Brennan,W,42,40,23,32,309,3,35,200,3,14,11,9,70,1,0
 2019-11-16,Hawaii,MWC,Nick Rolovich,A,Nevada-Las Vegas,MWC,Tony Sanchez,W,21,7,24,35,257,0,39,185,2,14,11,4,23,1,2
-2019-11-23,Hawaii,MWC,Nick Rolovich,H,San Diego State,MWC,Rocky Long,W,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Hawaii,MWC,Nick Rolovich,H,San Diego State,MWC,Rocky Long,W,14,11,22,35,215,1,31,132,1,10,13,6,47,0,1
 2019-08-30,Rutgers,Big Ten,Nunzio Campanile,H,Massachusetts,Ind,Walt Bell,W,48,21,22,32,348,2,43,206,4,16,6,7,80,0,3
 2019-09-07,Rutgers,Big Ten,Nunzio Campanile,A,Iowa,Big Ten,Kirk Ferentz,L,0,30,9,26,41,0,23,84,0,2,3,7,61,1,2
 2019-09-21,Rutgers,Big Ten,Nunzio Campanile,H,Boston College,ACC,Steve Addazio,L,16,30,23,34,304,1,26,76,0,11,2,11,100,1,1
@@ -657,7 +657,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Boise State,MWC,Bryan Harsin,A,San Jose State,MWC,Brent Brennan,W,52,42,13,17,213,0,51,253,6,7,14,8,84,0,1
 2019-11-09,Boise State,MWC,Bryan Harsin,H,Wyoming,MWC,Craig Bohl,W,20,17,20,31,194,1,28,91,1,9,5,4,40,1,1
 2019-11-16,Boise State,MWC,Bryan Harsin,H,New Mexico,MWC,Bob Davie,W,42,9,16,29,294,4,37,215,1,11,10,7,59,1,1
-2019-11-23,Boise State,MWC,Bryan Harsin,A,Utah State,MWC,Gary Andersen,W,56,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Boise State,MWC,Bryan Harsin,A,Utah State,MWC,Gary Andersen,W,56,21,16,29,187,3,46,297,3,10,15,3,15,0,0
 2019-08-31,Akron,MAC,Tom Arth,A,Illinois,Big Ten,Lovie Smith,L,3,42,12,28,128,0,38,64,0,7,7,5,50,1,1
 2019-09-07,Akron,MAC,Tom Arth,H,UAB,CUSA,Bill Clark,L,20,31,25,44,359,2,29,34,1,11,4,6,56,2,0
 2019-09-14,Akron,MAC,Tom Arth,A,Central Michigan,MAC,Jim McElwain,L,24,45,29,47,282,3,29,47,0,10,4,8,50,1,1
@@ -669,6 +669,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Akron,MAC,Tom Arth,A,Bowling Green State,MAC,Scot Loeffler,L,6,35,10,26,71,0,31,29,0,3,2,6,46,1,3
 2019-11-12,Akron,MAC,Tom Arth,H,Eastern Michigan,MAC,Chris Creighton,L,14,42,20,33,288,2,23,54,0,11,3,4,35,0,1
 2019-11-20,Akron,MAC,Tom Arth,A,Miami (OH),MAC,Chuck Martin,L,17,20,15,25,197,1,29,5,0,9,2,9,63,0,0
+2019-11-26,Akron,MAC,Tom Arth,H,Ohio,MAC,Frank Solich,L,3,52,4,27,33,0,25,41,0,1,5,4,39,0,2
 2019-09-07,Charlotte,CUSA,Will Healy,A,Appalachian State,Sun Belt,Eli Drinkwitz,L,41,56,20,31,296,4,40,230,2,12,7,11,80,1,1
 2019-09-14,Charlotte,CUSA,Will Healy,H,Massachusetts,Ind,Walt Bell,W,52,17,13,16,195,3,40,338,3,7,14,4,45,0,0
 2019-09-21,Charlotte,CUSA,Will Healy,A,Clemson,ACC,Dabo Swinney,L,10,52,8,19,63,0,39,153,1,1,8,11,106,0,1
@@ -678,7 +679,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Charlotte,CUSA,Will Healy,H,North Texas,CUSA,Seth Littrell,W,39,38,24,32,336,3,42,253,3,14,12,3,39,0,0
 2019-11-02,Charlotte,CUSA,Will Healy,H,Middle Tennessee State,CUSA,Rick Stockstill,W,34,20,14,21,192,1,55,248,3,9,16,1,5,0,0
 2019-11-09,Charlotte,CUSA,Will Healy,A,UTEP,CUSA,Dana Dimel,W,28,21,24,35,354,2,35,129,1,15,7,7,53,0,1
-2019-11-23,Charlotte,CUSA,Will Healy,H,Marshall,CUSA,Doc Holliday,W,24,13,9,21,166,1,50,258,2,7,15,4,31,1,2
+2019-11-23,Charlotte,CUSA,Will Healy,H,Marshall,CUSA,Doc Holliday,W,24,13,9,22,166,1,51,256,2,7,15,4,31,1,2
 2019-09-07,North Texas,CUSA,Seth Littrell,A,SMU,American,Sonny Dykes,L,27,49,22,38,185,2,42,211,1,11,8,9,90,0,1
 2019-09-14,North Texas,CUSA,Seth Littrell,A,California,Pac-12,Justin Wilcox,L,17,23,21,40,210,2,31,119,0,8,8,9,105,1,1
 2019-09-21,North Texas,CUSA,Seth Littrell,H,UTSA,CUSA,Frank Wilson,W,45,3,17,26,211,3,44,290,3,10,14,4,38,0,0
@@ -708,7 +709,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-19,Brigham Young,Ind,Kalani Sitake,H,Boise State,MWC,Bryan Harsin,W,28,25,15,26,221,2,33,131,2,10,5,9,84,0,0
 2019-11-02,Brigham Young,Ind,Kalani Sitake,A,Utah State,MWC,Gary Andersen,W,42,14,23,33,418,2,40,225,4,18,12,5,37,2,1
 2019-11-09,Brigham Young,Ind,Kalani Sitake,H,Liberty,Ind,Hugh Freeze,W,31,24,24,34,306,4,36,165,0,15,6,5,45,1,1
-2019-11-23,Brigham Young,Ind,Kalani Sitake,A,Massachusetts,Ind,Walt Bell,W,56,24,21,27,308,4,38,322,4,14,12,3,40,1,0
+2019-11-23,Brigham Young,Ind,Kalani Sitake,A,Massachusetts,Ind,Walt Bell,W,56,24,21,28,308,4,40,320,4,14,12,3,40,1,0
 2019-08-31,Florida Atlantic,CUSA,Lane Kiffin,A,Ohio State,Big Ten,Ryan Day,L,21,45,26,40,206,1,33,22,1,12,4,5,35,0,1
 2019-09-07,Florida Atlantic,CUSA,Lane Kiffin,H,UCF,American,Josh Heupel,L,14,48,18,40,177,0,47,137,1,11,9,7,97,0,1
 2019-09-14,Florida Atlantic,CUSA,Lane Kiffin,A,Ball State,MAC,Mike Neu,W,41,31,33,41,366,4,43,141,2,15,8,7,49,2,0
@@ -769,6 +770,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Mississippi State,SEC,Joe Moorhead,A,Texas A&M,SEC,Jimbo Fisher,L,30,49,13,30,194,3,38,239,1,7,14,5,25,2,1
 2019-11-02,Mississippi State,SEC,Joe Moorhead,A,Arkansas,SEC,Chad Morris,W,54,24,13,19,180,2,57,460,4,7,19,3,23,1,0
 2019-11-16,Mississippi State,SEC,Joe Moorhead,H,Alabama,SEC,Nick Saban,L,7,38,12,21,82,0,37,188,1,4,5,5,37,0,1
+2019-11-28,Mississippi State,SEC,Joe Moorhead,H,Ole Miss,SEC,Matt Luke,W,21,20,10,14,108,0,44,210,3,4,11,5,41,1,0
 2019-09-07,Nevada-Las Vegas,MWC,Tony Sanchez,H,Arkansas State,Sun Belt,Blake Anderson,L,17,43,11,26,112,1,42,188,1,3,10,3,20,0,1
 2019-09-14,Nevada-Las Vegas,MWC,Tony Sanchez,A,Northwestern,Big Ten,Pat Fitzgerald,L,14,30,16,26,120,0,36,210,2,6,9,5,65,2,1
 2019-09-28,Nevada-Las Vegas,MWC,Tony Sanchez,A,Wyoming,MWC,Craig Bohl,L,17,53,22,44,263,1,33,77,1,10,7,8,62,0,3
@@ -798,7 +800,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Memphis,American,Mike Norvell,A,Tulsa,American,Philip Montgomery,W,42,41,16,26,306,2,33,192,4,11,7,7,51,2,0
 2019-11-02,Memphis,American,Mike Norvell,H,SMU,American,Sonny Dykes,W,54,48,19,33,350,3,39,164,2,15,7,16,134,0,0
 2019-11-16,Memphis,American,Mike Norvell,A,Houston,American,Dana Holgorsen,W,45,27,23,35,367,5,39,164,1,15,11,6,55,0,1
-2019-11-23,Memphis,American,Mike Norvell,A,South Florida,American,Charlie Strong,W,49,10,19,31,235,2,57,353,5,9,21,4,30,0,2
+2019-11-23,Memphis,American,Mike Norvell,A,South Florida,American,Charlie Strong,W,49,10,19,31,235,2,58,325,5,9,21,4,30,0,2
 2019-09-07,Buffalo,MAC,Lance Leipold,A,Penn State,Big Ten,James Franklin,L,13,45,16,32,245,1,58,184,0,9,12,8,78,1,1
 2019-09-14,Buffalo,MAC,Lance Leipold,A,Liberty,Ind,Hugh Freeze,L,17,35,15,33,167,2,44,206,0,6,15,8,79,0,0
 2019-09-21,Buffalo,MAC,Lance Leipold,H,Temple,American,Rod Carey,W,38,22,9,15,62,0,58,217,4,4,12,7,55,1,1
@@ -808,7 +810,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Buffalo,MAC,Lance Leipold,H,Central Michigan,MAC,Jim McElwain,W,43,20,13,25,179,2,55,197,2,6,15,3,15,0,1
 2019-11-02,Buffalo,MAC,Lance Leipold,A,Eastern Michigan,MAC,Chris Creighton,W,43,14,15,23,208,1,62,252,5,10,15,2,25,0,0
 2019-11-14,Buffalo,MAC,Lance Leipold,A,Kent State,MAC,Sean Lewis,L,27,30,9,22,134,1,51,245,2,8,12,5,55,1,0
-2019-11-20,Buffalo,MAC,Lance Leipold,H,Toledo,MAC,Jason Candle,W,49,30,13,20,172,1,52,332,6,9,13,5,35,0,0
+2019-11-20,Buffalo,MAC,Lance Leipold,H,Toledo,MAC,Jason Candle,W,49,30,13,20,172,1,53,331,6,9,13,5,35,0,0
 2019-09-07,Kansas State,Big 12,Chris Klieman,H,Bowling Green State,MAC,Scot Loeffler,W,52,0,14,19,188,2,58,333,5,12,11,4,35,1,0
 2019-09-14,Kansas State,Big 12,Chris Klieman,A,Mississippi State,SEC,Joe Moorhead,W,31,24,10,18,123,1,35,146,2,7,8,7,59,3,0
 2019-09-28,Kansas State,Big 12,Chris Klieman,A,Oklahoma State,Big 12,Mike Gundy,L,13,26,11,23,118,0,32,126,1,3,4,8,65,1,0
@@ -837,7 +839,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Louisiana-Monroe,Sun Belt,Matt Viator,H,Arkansas State,Sun Belt,Blake Anderson,L,41,48,24,38,215,2,38,233,4,11,8,4,45,1,0
 2019-11-09,Louisiana-Monroe,Sun Belt,Matt Viator,H,Georgia State,Sun Belt,Shawn Elliott,W,45,31,24,33,291,3,46,299,3,9,18,6,40,0,1
 2019-11-16,Louisiana-Monroe,Sun Belt,Matt Viator,A,Georgia Southern,Sun Belt,Chad Lunsford,L,29,51,21,36,285,2,31,85,2,12,5,7,59,1,2
-2019-11-23,Louisiana-Monroe,Sun Belt,Matt Viator,H,Coastal Carolina,Sun Belt,Jamey Chadwell,W,45,42,19,33,346,2,33,222,4,13,13,7,70,0,1
+2019-11-23,Louisiana-Monroe,Sun Belt,Matt Viator,H,Coastal Carolina,Sun Belt,Jamey Chadwell,W,45,42,19,33,346,2,36,217,4,13,13,7,70,0,1
 2019-08-29,UCLA,Pac-12,Chip Kelly,A,Cincinnati,American,Luke Fickell,L,14,24,8,26,156,2,36,62,0,5,4,9,60,2,2
 2019-09-07,UCLA,Pac-12,Chip Kelly,H,San Diego State,MWC,Rocky Long,L,14,23,24,35,199,1,32,62,1,10,5,7,52,2,0
 2019-09-14,UCLA,Pac-12,Chip Kelly,H,Oklahoma,Big 12,Lincoln Riley,L,14,48,15,26,201,2,37,110,0,10,9,6,38,0,2
@@ -869,7 +871,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Northwestern,Big Ten,Pat Fitzgerald,A,Indiana,Big Ten,Tom Allen,L,3,34,12,31,112,0,28,87,0,6,4,9,97,3,0
 2019-11-09,Northwestern,Big Ten,Pat Fitzgerald,H,Purdue,Big Ten,Jeff Brohm,L,22,24,19,31,184,2,45,251,1,13,10,9,86,1,1
 2019-11-16,Northwestern,Big Ten,Pat Fitzgerald,H,Massachusetts,Ind,Walt Bell,W,45,6,7,13,76,0,52,334,5,4,11,0,0,1,2
-2019-11-23,Northwestern,Big Ten,Pat Fitzgerald,H,Minnesota,Big Ten,P.J. Fleck,L,22,38,8,12,95,1,49,127,2,3,9,5,36,0,0
+2019-11-23,Northwestern,Big Ten,Pat Fitzgerald,H,Minnesota,Big Ten,P.J. Fleck,L,22,38,8,12,95,1,49,128,2,3,9,5,36,0,0
 2019-09-06,Marshall,CUSA,Doc Holliday,A,Boise State,MWC,Bryan Harsin,L,7,14,10,18,56,0,25,116,1,3,6,6,45,1,1
 2019-09-14,Marshall,CUSA,Doc Holliday,H,Ohio,MAC,Frank Solich,W,33,31,17,28,206,2,46,305,2,8,16,2,20,0,0
 2019-09-28,Marshall,CUSA,Doc Holliday,H,Cincinnati,American,Luke Fickell,L,14,52,11,30,131,0,29,125,2,5,6,7,65,0,0
@@ -879,7 +881,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Marshall,CUSA,Doc Holliday,H,Western Kentucky,CUSA,Tyson Helton,W,26,23,20,33,230,1,34,171,1,8,10,7,49,0,0
 2019-11-02,Marshall,CUSA,Doc Holliday,A,Rice,CUSA,Mike Bloomgren,W,20,7,17,22,269,1,43,122,1,10,7,7,69,0,0
 2019-11-15,Marshall,CUSA,Doc Holliday,H,Louisiana Tech,CUSA,Skip Holtz,W,31,10,14,26,213,1,45,192,3,8,12,6,35,0,1
-2019-11-23,Marshall,CUSA,Doc Holliday,A,Charlotte,CUSA,Will Healy,L,13,24,6,17,86,0,34,144,0,3,8,5,60,0,2
+2019-11-23,Marshall,CUSA,Doc Holliday,A,Charlotte,CUSA,Will Healy,L,13,24,6,18,86,0,34,144,0,3,8,5,60,0,2
 2019-09-07,Kansas,Big 12,Les Miles,H,Coastal Carolina,Sun Belt,Jamey Chadwell,L,7,12,13,19,107,0,37,173,1,7,10,5,40,0,2
 2019-09-13,Kansas,Big 12,Les Miles,A,Boston College,ACC,Steve Addazio,W,48,24,20,27,238,3,45,329,3,9,13,8,75,0,1
 2019-09-21,Kansas,Big 12,Les Miles,H,West Virginia,Big 12,Neal Brown,L,24,29,19,25,275,3,30,142,0,9,9,4,45,1,1
@@ -900,6 +902,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Western Michigan,MAC,Tim Lester,H,Bowling Green State,MAC,Scot Loeffler,W,49,10,15,24,175,1,57,399,6,6,22,4,40,0,0
 2019-11-05,Western Michigan,MAC,Tim Lester,H,Ball State,MAC,Mike Neu,W,35,31,13,24,124,0,52,382,5,6,18,3,22,0,0
 2019-11-12,Western Michigan,MAC,Tim Lester,A,Ohio,MAC,Frank Solich,W,37,34,23,34,322,3,49,155,2,14,10,4,28,0,0
+2019-11-26,Western Michigan,MAC,Tim Lester,A,Northern Illinois,MAC,Thomas Hammock,L,14,17,17,33,185,0,34,163,2,8,7,3,25,2,0
 2019-09-07,UTEP,CUSA,Dana Dimel,A,Texas Tech,Big 12,Matt Wells,L,3,38,7,19,54,0,38,77,0,3,5,9,76,0,0
 2019-09-21,UTEP,CUSA,Dana Dimel,H,Nevada,MWC,Jay Norvell,L,21,37,10,17,116,0,47,162,3,8,8,7,82,0,3
 2019-09-28,UTEP,CUSA,Dana Dimel,A,Southern Mississippi,CUSA,Jay Hopson,L,13,31,14,28,168,0,25,126,1,8,6,7,60,0,0
@@ -1083,7 +1086,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Oklahoma State,Big 12,Mike Gundy,A,Iowa State,Big 12,Matt Campbell,W,34,27,16,24,249,2,31,153,1,6,7,2,23,0,1
 2019-11-02,Oklahoma State,Big 12,Mike Gundy,H,Texas Christian,Big 12,Gary Patterson,W,34,27,9,15,158,2,41,301,2,4,10,5,37,0,1
 2019-11-16,Oklahoma State,Big 12,Mike Gundy,H,Kansas,Big 12,Les Miles,W,31,13,15,25,238,2,45,209,2,9,13,2,19,0,0
-2019-11-23,Oklahoma State,Big 12,Mike Gundy,A,West Virginia,Big 12,Neal Brown,W,20,13,22,29,196,2,34,95,0,10,7,2,25,0,0
+2019-11-23,Oklahoma State,Big 12,Mike Gundy,A,West Virginia,Big 12,Neal Brown,W,20,13,22,29,196,2,37,89,0,10,7,2,25,0,0
 2019-08-30,Colorado,Pac-12,Mel Tucker,N,Colorado State,MWC,Mike Bobo,W,52,31,13,20,232,2,40,243,4,10,11,4,43,0,0
 2019-09-07,Colorado,Pac-12,Mel Tucker,H,Nebraska,Big Ten,Scott Frost,W,34,31,28,41,375,2,37,89,2,13,8,9,65,1,1
 2019-09-14,Colorado,Pac-12,Mel Tucker,H,Air Force,MWC,Troy Calhoun,L,23,30,26,43,220,2,32,105,1,9,10,6,35,0,1
@@ -1094,7 +1097,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-25,Colorado,Pac-12,Mel Tucker,H,USC,Pac-12,Clay Helton,L,31,35,27,43,324,3,34,196,1,13,11,13,109,0,0
 2019-11-02,Colorado,Pac-12,Mel Tucker,A,UCLA,Pac-12,Chip Kelly,L,14,31,21,38,195,1,27,88,1,9,7,5,55,0,1
 2019-11-09,Colorado,Pac-12,Mel Tucker,H,Stanford,Pac-12,David Shaw,W,16,13,20,30,186,0,41,172,1,11,11,5,45,0,1
-2019-11-23,Colorado,Pac-12,Mel Tucker,H,Washington,Pac-12,Chris Petersen,W,20,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Colorado,Pac-12,Mel Tucker,H,Washington,Pac-12,Chris Petersen,W,20,14,17,28,223,1,41,207,1,7,13,6,55,0,0
 2019-08-30,Colorado State,MWC,Mike Bobo,N,Colorado,Pac-12,Mel Tucker,L,31,52,31,47,374,3,31,131,1,18,8,6,64,2,2
 2019-09-14,Colorado State,MWC,Mike Bobo,A,Arkansas,SEC,Chad Morris,L,34,55,20,33,205,2,38,220,2,6,10,4,51,2,0
 2019-09-21,Colorado State,MWC,Mike Bobo,H,Toledo,MAC,Jason Candle,L,35,41,32,54,405,1,36,289,3,21,10,11,82,0,1
@@ -1187,6 +1190,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Ole Miss,SEC,Matt Luke,A,Auburn,SEC,Gus Malzahn,L,14,20,14,27,99,0,42,167,2,4,9,2,25,0,1
 2019-11-09,Ole Miss,SEC,Matt Luke,H,New Mexico State,Ind,Doug Martin,W,41,3,13,19,159,0,61,447,5,10,20,2,20,1,0
 2019-11-16,Ole Miss,SEC,Matt Luke,H,LSU,SEC,Ed Orgeron,L,37,58,15,27,212,1,44,402,4,9,17,5,50,0,1
+2019-11-28,Ole Miss,SEC,Matt Luke,A,Mississippi State,SEC,Joe Moorhead,L,20,21,15,26,245,1,47,139,2,10,10,5,34,2,1
 2019-08-31,Duke,ACC,David Cutcliffe,N,Alabama,SEC,Nick Saban,L,3,42,12,22,97,0,32,107,0,4,4,8,52,1,2
 2019-09-14,Duke,ACC,David Cutcliffe,A,Middle Tennessee State,CUSA,Rick Stockstill,W,41,18,24,27,237,4,45,226,1,12,14,3,20,0,0
 2019-09-27,Duke,ACC,David Cutcliffe,A,Virginia Tech,ACC,Justin Fuente,W,45,10,21,28,188,3,41,234,3,12,9,8,62,0,0
@@ -1216,7 +1220,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Old Dominion,CUSA,Bobby Wilder,H,Florida Atlantic,CUSA,Lane Kiffin,L,3,41,15,29,134,0,40,70,0,8,5,7,66,0,1
 2019-11-02,Old Dominion,CUSA,Bobby Wilder,A,Florida International,CUSA,Butch Davis,L,17,24,19,36,169,0,25,64,2,7,2,6,59,1,1
 2019-11-09,Old Dominion,CUSA,Bobby Wilder,H,UTSA,CUSA,Frank Wilson,L,23,24,18,30,289,2,31,93,0,14,4,3,30,1,1
-2019-11-23,Old Dominion,CUSA,Bobby Wilder,A,Middle Tennessee State,CUSA,Rick Stockstill,L,17,38,39,65,321,1,21,102,1,17,3,10,120,0,1
+2019-11-23,Old Dominion,CUSA,Bobby Wilder,A,Middle Tennessee State,CUSA,Rick Stockstill,L,17,38,39,66,321,1,21,102,1,17,3,10,120,0,1
 2019-09-14,Navy,American,Ken Niumatalolo,H,East Carolina,American,Mike Houston,W,42,10,6,8,153,2,64,315,4,3,22,5,54,1,0
 2019-09-26,Navy,American,Ken Niumatalolo,A,Memphis,American,Mike Norvell,L,23,35,6,13,82,1,66,291,2,4,15,6,55,1,1
 2019-10-05,Navy,American,Ken Niumatalolo,H,Air Force,MWC,Troy Calhoun,W,34,25,6,8,162,0,49,215,4,6,10,7,52,2,0
@@ -1225,7 +1229,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Navy,American,Ken Niumatalolo,H,Tulane,American,Willie Fritz,W,41,38,2,8,68,1,55,386,3,2,19,2,10,0,1
 2019-11-01,Navy,American,Ken Niumatalolo,A,Connecticut,American,Randy Edsall,W,56,10,3,6,165,1,51,408,7,3,17,4,47,0,0
 2019-11-16,Navy,American,Ken Niumatalolo,A,Notre Dame,Ind,Brian Kelly,L,20,52,4,13,79,1,64,281,1,3,17,2,20,4,0
-2019-11-23,Navy,American,Ken Niumatalolo,H,SMU,American,Sonny Dykes,W,35,28,9,15,162,1,71,381,3,8,18,5,31,0,0
+2019-11-23,Navy,American,Ken Niumatalolo,H,SMU,American,Sonny Dykes,W,35,28,9,15,162,1,73,378,3,8,18,5,31,0,0
 2019-08-31,Fresno State,MWC,Jeff Tedford,A,USC,Pac-12,Clay Helton,L,23,31,19,39,256,2,40,206,0,9,13,6,51,2,1
 2019-09-07,Fresno State,MWC,Jeff Tedford,H,Minnesota,Big Ten,P.J. Fleck,L,35,38,24,35,288,3,27,57,1,14,3,6,45,0,2
 2019-09-28,Fresno State,MWC,Jeff Tedford,A,New Mexico State,Ind,Doug Martin,W,30,17,20,31,147,0,38,239,2,12,6,3,25,1,0
@@ -1235,7 +1239,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Fresno State,MWC,Jeff Tedford,A,Hawaii,MWC,Nick Rolovich,W,41,38,18,28,224,2,40,290,3,10,12,5,45,2,0
 2019-11-09,Fresno State,MWC,Jeff Tedford,H,Utah State,MWC,Gary Andersen,L,35,37,16,20,263,0,36,156,5,10,4,11,108,0,0
 2019-11-15,Fresno State,MWC,Jeff Tedford,A,San Diego State,MWC,Rocky Long,L,7,17,14,26,136,0,27,70,1,6,5,7,55,0,3
-2019-11-23,Fresno State,MWC,Jeff Tedford,H,Nevada,MWC,Jay Norvell,L,28,35,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-11-23,Fresno State,MWC,Jeff Tedford,H,Nevada,MWC,Jay Norvell,L,28,35,28,38,278,4,25,53,0,12,6,8,96,0,1
 2019-08-31,Georgia Southern,Sun Belt,Chad Lunsford,A,LSU,SEC,Ed Orgeron,L,3,55,4,11,24,0,39,74,0,2,3,5,20,2,0
 2019-09-14,Georgia Southern,Sun Belt,Chad Lunsford,A,Minnesota,Big Ten,P.J. Fleck,L,32,35,5,9,75,0,33,123,2,3,8,10,64,2,0
 2019-09-28,Georgia Southern,Sun Belt,Chad Lunsford,H,Louisiana,Sun Belt,Billy Napier,L,24,37,6,12,37,0,56,215,2,3,13,3,35,0,0
@@ -1245,7 +1249,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-31,Georgia Southern,Sun Belt,Chad Lunsford,A,Appalachian State,Sun Belt,Eli Drinkwitz,W,24,21,1,4,16,0,56,335,3,1,13,2,20,0,0
 2019-11-09,Georgia Southern,Sun Belt,Chad Lunsford,A,Troy,Sun Belt,Chip Lindsey,L,28,49,8,16,181,3,49,152,1,6,9,4,45,0,0
 2019-11-16,Georgia Southern,Sun Belt,Chad Lunsford,H,Louisiana-Monroe,Sun Belt,Matt Viator,W,51,29,5,10,80,1,52,245,4,4,13,5,25,0,0
-2019-11-23,Georgia Southern,Sun Belt,Chad Lunsford,A,Arkansas State,Sun Belt,Blake Anderson,L,33,38,15,26,182,3,50,292,1,10,9,7,60,1,0
+2019-11-23,Georgia Southern,Sun Belt,Chad Lunsford,A,Arkansas State,Sun Belt,Blake Anderson,L,33,38,15,26,182,3,50,299,1,10,9,7,60,1,0
 2019-08-31,Middle Tennessee State,CUSA,Rick Stockstill,A,Michigan,Big Ten,Jim Harbaugh,L,21,40,26,41,234,2,28,67,1,12,3,8,54,1,1
 2019-09-14,Middle Tennessee State,CUSA,Rick Stockstill,H,Duke,ACC,David Cutcliffe,L,18,41,19,27,201,2,32,138,0,11,6,2,20,0,0
 2019-09-28,Middle Tennessee State,CUSA,Rick Stockstill,A,Iowa,Big Ten,Kirk Ferentz,L,3,48,17,27,136,0,24,80,0,6,6,8,72,0,0
@@ -1255,7 +1259,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-26,Middle Tennessee State,CUSA,Rick Stockstill,H,Florida International,CUSA,Butch Davis,W,50,17,6,12,25,1,55,483,6,1,16,7,51,0,0
 2019-11-02,Middle Tennessee State,CUSA,Rick Stockstill,A,Charlotte,CUSA,Will Healy,L,20,34,11,19,140,2,30,215,1,6,9,2,9,1,1
 2019-11-16,Middle Tennessee State,CUSA,Rick Stockstill,H,Rice,CUSA,Mike Bloomgren,L,28,31,22,31,338,2,30,120,2,14,3,4,63,1,1
-2019-11-23,Middle Tennessee State,CUSA,Rick Stockstill,H,Old Dominion,CUSA,Bobby Wilder,W,38,17,20,27,244,3,34,160,1,10,9,7,69,0,0
+2019-11-23,Middle Tennessee State,CUSA,Rick Stockstill,H,Old Dominion,CUSA,Bobby Wilder,W,38,17,20,27,244,3,35,147,1,10,9,7,69,0,0
 2019-09-07,Texas Tech,Big 12,Matt Wells,H,UTEP,CUSA,Dana Dimel,W,38,3,31,47,264,3,29,149,2,16,9,4,50,0,1
 2019-09-14,Texas Tech,Big 12,Matt Wells,A,Arizona,Pac-12,Kevin Sumlin,L,14,28,30,55,311,1,25,104,1,15,7,7,60,0,2
 2019-09-28,Texas Tech,Big 12,Matt Wells,A,Oklahoma,Big 12,Lincoln Riley,L,16,55,12,26,122,0,37,192,1,5,6,8,65,1,0
@@ -1286,6 +1290,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-02,Northern Illinois,MAC,Thomas Hammock,A,Central Michigan,MAC,Jim McElwain,L,10,48,19,31,229,1,25,22,0,10,2,1,5,1,3
 2019-11-13,Northern Illinois,MAC,Thomas Hammock,A,Toledo,MAC,Jason Candle,W,31,28,18,29,222,1,44,222,3,11,9,3,24,0,0
 2019-11-19,Northern Illinois,MAC,Thomas Hammock,H,Eastern Michigan,MAC,Chris Creighton,L,17,45,12,26,99,1,48,238,1,7,13,7,63,1,3
+2019-11-26,Northern Illinois,MAC,Thomas Hammock,H,Western Michigan,MAC,Tim Lester,W,17,14,7,12,93,2,47,157,0,1,8,4,40,2,0
 2019-08-31,Ohio State,Big Ten,Ryan Day,H,Florida Atlantic,CUSA,Lane Kiffin,W,45,21,19,26,232,4,48,237,2,9,14,7,62,2,0
 2019-09-07,Ohio State,Big Ten,Ryan Day,H,Cincinnati,American,Luke Fickell,W,42,0,22,27,238,2,46,270,4,13,13,2,25,0,0
 2019-09-14,Ohio State,Big Ten,Ryan Day,A,Indiana,Big Ten,Tom Allen,W,51,10,17,29,214,3,42,306,3,11,15,5,45,1,0
@@ -1307,6 +1312,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-06,Ohio,MAC,Frank Solich,H,Miami (OH),MAC,Chuck Martin,L,21,24,15,27,133,1,46,241,2,8,14,6,40,2,0
 2019-11-12,Ohio,MAC,Frank Solich,H,Western Michigan,MAC,Tim Lester,L,34,37,20,29,225,2,35,216,2,12,11,3,25,1,0
 2019-11-19,Ohio,MAC,Frank Solich,A,Bowling Green State,MAC,Scot Loeffler,W,66,24,14,21,267,3,40,342,6,8,14,11,93,1,0
+2019-11-26,Ohio,MAC,Frank Solich,A,Akron,MAC,Tom Arth,W,52,3,22,31,352,4,46,251,3,13,11,6,51,2,0
 2019-09-01,Houston,American,Dana Holgorsen,A,Oklahoma,Big 12,Lincoln Riley,L,31,49,14,27,167,2,42,241,2,8,14,6,48,0,0
 2019-09-13,Houston,American,Dana Holgorsen,N,Washington State,Pac-12,Mike Leach,L,24,31,13,24,128,1,39,239,2,7,10,8,77,2,0
 2019-09-19,Houston,American,Dana Holgorsen,A,Tulane,American,Willie Fritz,L,31,38,16,33,229,2,46,304,2,11,16,3,25,0,1
@@ -1316,4 +1322,4 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-10-24,Houston,American,Dana Holgorsen,H,SMU,American,Sonny Dykes,L,31,34,18,35,407,2,40,103,1,14,5,11,129,2,1
 2019-11-02,Houston,American,Dana Holgorsen,A,UCF,American,Josh Heupel,L,29,44,18,30,179,1,49,240,2,7,12,5,40,0,1
 2019-11-16,Houston,American,Dana Holgorsen,H,Memphis,American,Mike Norvell,L,27,45,14,22,157,1,30,99,1,6,6,3,40,1,0
-2019-11-23,Houston,American,Dana Holgorsen,A,Tulsa,American,Philip Montgomery,W,24,14,9,13,100,0,42,132,1,3,8,3,31,1,0
+2019-11-23,Houston,American,Dana Holgorsen,A,Tulsa,American,Philip Montgomery,W,24,14,9,13,100,0,43,131,1,3,8,3,31,1,0

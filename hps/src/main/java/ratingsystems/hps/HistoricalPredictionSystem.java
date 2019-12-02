@@ -8,6 +8,7 @@ import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 import ratingsystems.common.linalg.Vector;
+import ratingsystems.ser.SERTeam;
 import ratingsystems.ser.SimpleEfficiencyRating;
 
 import java.io.FileNotFoundException;
@@ -68,6 +69,49 @@ public class HistoricalPredictionSystem extends RatingSystem {
         }
     }
 
+    public HistoricalPredictionSystem(Interpreter interpreter, int[] years) throws FileNotFoundException {
+        super(interpreter, years, false);
+        hasRankedTeams = false;
+        hasRankedGroups = false;
+        teams = new HashMap<>();
+        allTeams = new HashMap<>();
+        for (int y : years) {
+            allTeams.put(y, new HashMap<>());
+        }
+        for (String team : super.teams.keySet()) {
+            this.teams.put(team, new HPSTeam(super.teams.get(team)));
+            allTeams.get(teams.get(team).getYear()).put(team, teams.get(team));
+        }
+        for (int y = 2000; y < 2100; y++) {
+            if ((y < years[0] || y > years[years.length-1]) && interpreter.hasData(y)) {
+                Map<String, Team> temp = interpreter.parseData(y);
+                allTeams.put(y, new HashMap<>());
+                for (String team : temp.keySet()) {
+                    allTeams.get(y).put(team, new HPSTeam(temp.get(team)));
+                }
+            }
+        }
+    }
+
+    public HistoricalPredictionSystem(Interpreter interpreter, int[] years, int week) throws FileNotFoundException {
+        super(interpreter, years, week, false);
+        this.teams = new HashMap<>();
+        for (String team : super.teams.keySet()) {
+            this.teams.put(team, new HPSTeam(super.teams.get(team)));
+            allTeams.get(teams.get(team).getYear()).put(team, teams.get(team));
+        }
+        for (int y = 2000; y < 2100; y++) {
+            if ((y < years[0] || y > years[years.length-1]) && interpreter.hasData(y)) {
+                Map<String, Team> temp = interpreter.parseData(y);
+                allTeams.put(y, new HashMap<>());
+                for (String team : temp.keySet()) {
+                    allTeams.get(y).put(team, new HPSTeam(temp.get(team)));
+                }
+            }
+        }
+    }
+
+
     @Override
     public void setup() {
         for (Integer year : allTeams.keySet()) {
@@ -126,11 +170,22 @@ public class HistoricalPredictionSystem extends RatingSystem {
     }
 
     @Override
+    protected String printTeam(String team, boolean allStats) {
+        return teams.get(team).getName() + "\t"
+                + (!cumulative ? teams.get(team).getYear() + "\t" : "")
+                + teams.get(team).getRating() + "\t"
+                + (allStats ? teams.get(team).getOffensiveRating() + "\t"
+                + teams.get(team).getDefensiveRating() + "\t" : "")
+                + teams.get(team).getRecord();
+    }
+
+    @Override
     protected String prettyPrintTeam(String team, boolean allStats) {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
-                + Terminal.rightJustify(Double.toString(teams.get(team).getOffensiveRating()), 10) + "   "
-                + Terminal.rightJustify(Double.toString(teams.get(team).getDefensiveRating()), 10) + "   "
+                + (!cumulative ? teams.get(team).getYear() + "   " : "")
+                + (allStats ? Terminal.rightJustify(Double.toString(teams.get(team).getOffensiveRating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getDefensiveRating()), 10) + "   " : "")
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
@@ -298,26 +353,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
         HashMap<String, Double> ratings = new HashMap<>();
         HashMap<String, Double> offRatings = new HashMap<>();
         HashMap<String, Double> defRatings = new HashMap<>();
-//        for (String team : allTeams.get(this.year).keySet()) {
-//            ratings.put(team, 0.0);
-//            offRatings.put(team, 0.0);
-//            defRatings.put(team, 0.0);
-//            for (String opponent : allTeams.get(this.year).keySet()) {
-//                if (!team.equals(opponent)) {
-//                    Prediction prediction = predictGame(team, opponent, Location.NEUTRAL);
-//                    ratings.put(team, ratings.get(team) + prediction.getLine() * -1);
-//                    offRatings.put(team, offRatings.get(team) + prediction.getTeam1Score());
-//                    defRatings.put(team, defRatings.get(team) + prediction.getTeam2Score());
-//                }
-//            }
-//        }
-//
-//        for (String team : allTeams.get(year).keySet()) {
-//            allTeams.get(this.year).get(team).setRating(ratings.get(team) / (ratings.size() - 1));
-//            allTeams.get(this.year).get(team).setOffensiveRating(offRatings.get(team) / (offRatings.size() - 1));
-//            allTeams.get(this.year).get(team).setDefensiveRating(defRatings.get(team) / (defRatings.size() - 1));
-//        }
-        for (String team : allTeams.get(this.year).keySet()) {
+        for (String team : teams.keySet()) {
             ratings.put(team, 0.0);
             Prediction prediction = predictVersusAverage(team, Location.NEUTRAL);
             ratings.put(team, prediction.getLine() * -1);
@@ -325,10 +361,10 @@ public class HistoricalPredictionSystem extends RatingSystem {
             defRatings.put(team, prediction.getTeam2Score());
         }
 
-        for (String team : allTeams.get(year).keySet()) {
-            allTeams.get(this.year).get(team).setRating(ratings.get(team));
-            allTeams.get(this.year).get(team).setOffensiveRating(offRatings.get(team));
-            allTeams.get(this.year).get(team).setDefensiveRating(defRatings.get(team));
+        for (String team : teams.keySet()) {
+            teams.get(team).setRating(ratings.get(team));
+            teams.get(team).setOffensiveRating(offRatings.get(team));
+            teams.get(team).setDefensiveRating(defRatings.get(team));
         }
     }
 
