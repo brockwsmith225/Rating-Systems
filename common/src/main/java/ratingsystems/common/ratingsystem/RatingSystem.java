@@ -349,4 +349,8 @@ public abstract class RatingSystem {
         }
         return null;
     }
+
+    public void predictPlayoff() {
+
+    }
 }

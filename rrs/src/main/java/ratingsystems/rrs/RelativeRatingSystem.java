@@ -307,4 +307,38 @@ public class RelativeRatingSystem extends RatingSystem {
         }
         return matrixCopy;
     }
+
+    @Override
+    public void predictPlayoff() {
+        HashMap<String, Double> odds = new HashMap<>();
+        for (int i = 0; i < 4; i++) {
+            double cutoff = rankedTeams.get(i).getRating() * 0.75;
+            if (rankedTeams.get(4).getRating() < cutoff) {
+                odds.put(rankedTeams.get(i).getName(), 1.0);
+            } else {
+                int j = i;
+                double ratingSum = 0.0;
+                for (; j < rankedTeams.size() && rankedTeams.get(j).getRating() >= cutoff; j++) {
+                    ratingSum += rankedTeams.get(j).getRating();
+                }
+                double[] ratings = new double[j - i];
+                double modifiedSum = 0.0;
+                for (int k = i; k < j; k++) {
+                    ratings[k-i] = rankedTeams.get(k).getRating() / ratingSum;
+                    modifiedSum += Math.exp(ratings[k-i]) - 1;
+                }
+                for (int k = i; k < j; k++) {
+                    ratings[k-i] = (Math.exp(ratings[k-i]) - 1) / modifiedSum;
+                    if (odds.containsKey(rankedTeams.get(k).getName())) {
+                        odds.put(rankedTeams.get(k).getName(), odds.get(rankedTeams.get(k).getName() + ratings[k-i]));
+                    } else {
+                        odds.put(rankedTeams.get(k).getName(), ratings[k-i]);
+                    }
+                }
+            }
+        }
+        for (String team : odds.keySet()) {
+            System.out.println(team + "\t" + odds.get(team));
+        }
+    }
 }

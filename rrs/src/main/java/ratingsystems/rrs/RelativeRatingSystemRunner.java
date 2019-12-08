@@ -1,5 +1,6 @@
 package ratingsystems.rrs;
 
+import ratingsystems.common.commands.Playoff;
 import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.Runner;
 import ratingsystems.common.cli.Terminal;
@@ -18,6 +19,7 @@ public class RelativeRatingSystemRunner extends Runner {
         //Add RRS specific parameters here
 
         //Add RRS specific commands here
+        commands.put("playoff", new Playoff());
     }
 
     @Override
