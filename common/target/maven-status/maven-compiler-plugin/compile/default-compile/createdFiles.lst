@@ -15,6 +15,7 @@ ratingsystems\common\interpreter\Date.class
 ratingsystems\common\ratingsystem\RatingSystem.class
 ratingsystems\common\collegebasketball\CollegeBasketballScraper.class
 ratingsystems\common\webscraper\TeamsScraper.class
+ratingsystems\common\commands\Playoff.class
 ratingsystems\common\collegefootball\CollegeFootballScraper.class
 ratingsystems\common\cli\Terminal.class
 ratingsystems\common\collegefootball\CollegeFootballEntry.class
