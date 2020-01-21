@@ -32,6 +32,14 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         addDefensiveStatistics(teams);
 
+        data = new Scanner(new File("data/cfb-teams.csv"));
+        while (data.hasNext()) {
+            String team = data.nextLine().replace("\n", "").replace(",", "");
+            if (!teams.containsKey(team)) {
+                teams.put(team, new Team(team, "", "", year));
+            }
+        }
+
         return teams;
     }
 
@@ -53,6 +61,14 @@ public class CollegeFootballInterpreter extends Interpreter {
         }
 
         addDefensiveStatistics(teams);
+
+        data = new Scanner(new File("data/cfb-teams.csv"));
+        while (data.hasNext()) {
+            String team = data.nextLine().replace("\n", "").replace(",", "");
+            if (!teams.containsKey(team)) {
+                teams.put(team, new Team(team, "", "", year));
+            }
+        }
 
         return teams;
     }
