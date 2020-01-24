@@ -106,7 +106,7 @@ public abstract class Interpreter {
     }
 
     /**
-     * Checks to see if the data file specified by the year
+     * Checks to see if the data file specified by the year exists
      *
      * @param year the year of the data
      * @return true if the file exists, false otherwise
@@ -120,6 +120,22 @@ public abstract class Interpreter {
      * @return a scanner with the data loaded
      */
     abstract public Scanner getData(int year) throws FileNotFoundException;
+
+    /**
+     * Checks to see if the bracket file specified by the year exists
+     *
+     * @param year the year of the bracket
+     * @return true if the file exists, false otherwise
+     */
+    abstract public boolean hasBracket(int year);
+
+    /**
+     * Gets bracket from the bracket file specified by the year
+     *
+     * @param year the year of the bracket
+     * @return a bracket object loaded with the data
+     */
+    abstract public Bracket parseBracket(int year) throws FileNotFoundException;
 
     abstract public void fetchData(int year) throws IOException;
 
