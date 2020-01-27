@@ -389,7 +389,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-09-27,Virginia Tech,ACC,Justin Fuente,H,Duke,ACC,David Cutcliffe,L,10,45,8,20,120,1,43,139,0,3,7,5,52,1,1
 2019-10-05,Virginia Tech,ACC,Justin Fuente,A,Miami (FL),ACC,Manny Diaz,W,42,35,10,20,184,3,43,153,3,7,7,5,50,0,0
 2019-10-19,Virginia Tech,ACC,Justin Fuente,H,North Carolina,ACC,Mack Brown,W,43,41,14,21,236,3,60,254,2,9,12,5,36,2,0
-2019-11-02,Virginia Tech,ACC,Justin Fuente,A,Notre Dame,Ind,Brian Kelly,L,20,21,9,28,139,1,36,101,0,5,5,6,53,1,1
+2019-11-02,Virginia Tech,ACC,Justin Fuente,A,Notre Dame,Ind,Brian Kelly,L,20,21,9,28,139,1,36,96,0,5,5,6,53,1,1
 2019-11-09,Virginia Tech,ACC,Justin Fuente,H,Wake Forest,ACC,Dave Clawson,W,36,17,15,23,242,0,48,228,4,11,9,7,55,2,0
 2019-11-16,Virginia Tech,ACC,Justin Fuente,A,Georgia Tech,ACC,Geoff Collins,W,45,0,11,16,223,1,45,238,4,7,10,2,30,0,0
 2019-11-23,Virginia Tech,ACC,Justin Fuente,H,Pitt,ACC,Pat Narduzzi,W,28,0,10,14,153,0,48,110,0,4,8,7,54,1,0
@@ -534,7 +534,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-13,Bowling Green State,MAC,Scot Loeffler,A,Miami (OH),MAC,Chuck Martin,L,3,44,11,27,90,0,45,185,0,5,7,4,25,0,3
 2019-11-19,Bowling Green State,MAC,Scot Loeffler,H,Ohio,MAC,Frank Solich,L,24,66,21,34,250,1,42,168,2,12,10,8,55,4,1
 2019-11-29,Bowling Green State,MAC,Scot Loeffler,A,Buffalo,MAC,Lance Leipold,L,7,49,7,18,81,0,35,106,1,3,5,5,38,0,0
-2019-08-30,Wisconsin,Big Ten,Paul Chryst,A,South Florida,American,Charlie Strong,W,49,0,19,26,199,2,43,234,4,9,13,4,40,1,0
+2019-08-30,Wisconsin,Big Ten,Paul Chryst,A,South Florida,American,Charlie Strong,W,49,0,19,26,201,2,43,234,4,9,13,4,40,1,0
 2019-09-07,Wisconsin,Big Ten,Paul Chryst,H,Central Michigan,MAC,Jim McElwain,W,61,0,31,39,400,3,43,199,5,22,14,1,10,1,0
 2019-09-21,Wisconsin,Big Ten,Paul Chryst,H,Michigan,Big Ten,Jim Harbaugh,W,35,14,13,16,128,0,57,359,5,8,16,9,69,0,0
 2019-09-28,Wisconsin,Big Ten,Paul Chryst,H,Northwestern,Big Ten,Pat Fitzgerald,W,24,15,15,24,113,0,33,133,1,5,8,7,79,1,1
@@ -550,7 +550,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2020-01-01,Wisconsin,Big Ten,Paul Chryst,N,Oregon,Pac-12,Mario Cristobal,L,27,28,23,35,186,1,37,136,1,8,9,9,79,3,1
 2019-08-30,Nevada,MWC,Jay Norvell,H,Purdue,Big Ten,Jeff Brohm,W,34,31,30,52,295,3,25,109,1,13,5,11,95,0,0
 2019-09-07,Nevada,MWC,Jay Norvell,A,Oregon,Pac-12,Mario Cristobal,L,6,77,16,28,109,0,40,83,0,6,5,9,54,2,2
-2019-09-21,Nevada,MWC,Jay Norvell,A,UTEP,CUSA,Dana Dimel,W,37,21,15,21,203,2,38,200,3,8,8,4,28,1,1
+2019-09-21,Nevada,MWC,Jay Norvell,A,UTEP,CUSA,Dana Dimel,W,37,21,16,22,210,2,36,194,3,8,8,4,28,1,1
 2019-09-28,Nevada,MWC,Jay Norvell,H,Hawaii,MWC,Nick Rolovich,L,3,54,18,31,105,0,36,98,0,5,8,10,78,1,2
 2019-10-12,Nevada,MWC,Jay Norvell,H,San Jose State,MWC,Brent Brennan,W,41,38,22,37,352,1,51,189,3,16,9,9,91,1,2
 2019-10-19,Nevada,MWC,Jay Norvell,A,Utah State,MWC,Gary Andersen,L,10,36,17,38,213,0,35,113,1,9,4,13,110,0,2
@@ -708,7 +708,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-23,Notre Dame,Ind,Brian Kelly,H,Boston College,ACC,Steve Addazio,W,40,7,27,41,249,3,44,252,1,17,9,8,54,0,0
 2019-11-30,Notre Dame,Ind,Brian Kelly,A,Stanford,Pac-12,David Shaw,W,45,24,17,30,255,4,37,190,1,9,12,11,95,0,0
 2019-12-28,Notre Dame,Ind,Brian Kelly,N,Iowa State,Big 12,Matt Campbell,W,33,9,20,28,247,1,37,208,2,10,7,3,30,0,0
-2019-08-31,Louisiana,Sun Belt,Billy Napier,N,Mississippi State,SEC,Joe Moorhead,L,28,38,24,40,267,1,38,163,3,16,10,6,45,3,1
+2019-08-31,Louisiana,Sun Belt,Billy Napier,N,Mississippi State,SEC,Joe Moorhead,L,28,38,24,39,267,1,38,163,3,16,10,6,45,3,1
 2019-09-07,Louisiana,Sun Belt,Billy Napier,H,Liberty,Ind,Hugh Freeze,W,35,14,16,25,186,2,46,407,3,9,15,4,35,1,1
 2019-09-21,Louisiana,Sun Belt,Billy Napier,A,Ohio,MAC,Frank Solich,W,45,25,20,30,204,2,46,285,4,8,15,16,161,1,0
 2019-09-28,Louisiana,Sun Belt,Billy Napier,A,Georgia Southern,Sun Belt,Chad Lunsford,W,37,24,11,18,165,1,41,275,4,7,15,3,32,2,0
@@ -820,7 +820,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-09-28,Wyoming,MWC,Craig Bohl,H,Nevada-Las Vegas,MWC,Tony Sanchez,W,53,17,5,12,124,2,48,374,5,4,11,4,40,0,0
 2019-10-12,Wyoming,MWC,Craig Bohl,A,San Diego State,MWC,Rocky Long,L,22,26,5,14,109,1,39,157,2,4,6,6,70,1,1
 2019-10-19,Wyoming,MWC,Craig Bohl,H,New Mexico,MWC,Bob Davie,W,23,10,9,15,86,1,55,259,2,6,13,5,38,0,0
-2019-10-26,Wyoming,MWC,Craig Bohl,H,Nevada,MWC,Jay Norvell,W,31,3,9,19,221,3,44,258,1,8,13,4,35,0,1
+2019-10-26,Wyoming,MWC,Craig Bohl,H,Nevada,MWC,Jay Norvell,W,31,3,9,19,221,3,43,259,1,8,13,4,35,0,1
 2019-11-09,Wyoming,MWC,Craig Bohl,A,Boise State,MWC,Bryan Harsin,L,17,20,15,23,160,0,44,123,2,7,8,4,40,0,0
 2019-11-16,Wyoming,MWC,Craig Bohl,A,Utah State,MWC,Gary Andersen,L,21,26,20,36,185,0,42,160,2,11,11,9,92,1,3
 2019-11-22,Wyoming,MWC,Craig Bohl,H,Colorado State,MWC,Mike Bobo,W,17,7,8,15,81,0,50,192,2,6,10,5,49,0,0
@@ -958,7 +958,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-12-20,Buffalo,MAC,Lance Leipold,N,Charlotte,CUSA,Will Healy,W,31,9,8,17,77,1,46,205,3,5,13,2,30,0,1
 2019-09-07,Kansas State,Big 12,Chris Klieman,H,Bowling Green State,MAC,Scot Loeffler,W,52,0,14,19,188,2,58,333,5,12,11,4,35,1,0
 2019-09-14,Kansas State,Big 12,Chris Klieman,A,Mississippi State,SEC,Joe Moorhead,W,31,24,10,18,123,1,35,146,2,7,8,7,59,3,0
-2019-09-28,Kansas State,Big 12,Chris Klieman,A,Oklahoma State,Big 12,Mike Gundy,L,13,26,11,23,118,0,32,126,1,3,4,8,65,1,0
+2019-09-28,Kansas State,Big 12,Chris Klieman,A,Oklahoma State,Big 12,Mike Gundy,L,13,26,11,23,118,0,31,128,1,3,4,8,65,1,0
 2019-10-05,Kansas State,Big 12,Chris Klieman,H,Baylor,Big 12,Matt Rhule,L,12,31,22,34,218,1,40,123,0,14,5,5,35,1,1
 2019-10-19,Kansas State,Big 12,Chris Klieman,H,Texas Christian,Big 12,Gary Patterson,W,24,17,11,23,172,2,29,112,1,7,5,8,79,0,0
 2019-10-26,Kansas State,Big 12,Chris Klieman,H,Oklahoma,Big 12,Lincoln Riley,W,48,41,18,28,213,0,45,213,6,12,10,4,36,0,0
@@ -1073,7 +1073,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-23,UTEP,CUSA,Dana Dimel,A,New Mexico State,Ind,Doug Martin,L,35,44,24,38,358,2,40,199,2,15,11,5,45,1,1
 2019-11-30,UTEP,CUSA,Dana Dimel,H,Rice,CUSA,Mike Bloomgren,L,16,30,19,36,213,1,32,99,0,11,6,8,70,0,0
 2019-08-31,LSU,SEC,Ed Orgeron,H,Georgia Southern,Sun Belt,Chad Lunsford,W,55,3,30,39,350,5,33,122,2,13,8,7,70,0,0
-2019-09-07,LSU,SEC,Ed Orgeron,A,Texas,Big 12,Tom Herman,W,45,38,31,39,471,1,29,102,0,19,8,6,65,0,1
+2019-09-07,LSU,SEC,Ed Orgeron,A,Texas,Big 12,Tom Herman,W,45,38,31,39,471,4,29,102,0,19,8,6,65,0,1
 2019-09-21,LSU,SEC,Ed Orgeron,A,Vanderbilt,SEC,Derek Mason,W,66,38,26,38,418,6,36,181,2,15,9,6,54,1,1
 2019-10-05,LSU,SEC,Ed Orgeron,H,Utah State,MWC,Gary Andersen,W,42,6,28,39,353,5,51,248,1,18,16,5,41,1,1
 2019-10-12,LSU,SEC,Ed Orgeron,H,Florida,SEC,Dan Mullen,W,42,28,21,24,293,3,24,218,3,13,8,4,28,0,0
@@ -1338,9 +1338,9 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2019-11-23,Michigan State,Big Ten,Mark Dantonio,A,Rutgers,Big Ten,Nunzio Campanile,W,27,0,21,30,239,3,47,156,0,13,9,4,40,0,1
 2019-11-30,Michigan State,Big Ten,Mark Dantonio,H,Maryland,Big Ten,Mike Locksley,W,19,16,30,42,342,0,37,88,1,18,5,4,40,0,2
 2019-12-27,Michigan State,Big Ten,Mark Dantonio,N,Wake Forest,ACC,Dave Clawson,W,27,21,26,38,320,1,41,177,1,15,10,7,55,1,1
-2019-08-31,Boston College,ACC,Steve Addazio,H,Virginia Tech,ACC,Justin Fuente,W,35,28,15,27,275,2,48,157,3,8,10,6,32,0,1
+2019-08-31,Boston College,ACC,Steve Addazio,H,Virginia Tech,ACC,Justin Fuente,W,35,28,15,27,275,2,44,161,3,8,10,6,32,0,1
 2019-09-13,Boston College,ACC,Steve Addazio,H,Kansas,Big 12,Les Miles,L,24,48,21,41,219,2,47,228,1,11,12,8,55,0,0
-2019-09-21,Boston College,ACC,Steve Addazio,A,Rutgers,Big Ten,Nunzio Campanile,W,30,16,13,26,159,0,61,272,4,10,16,7,45,0,0
+2019-09-21,Boston College,ACC,Steve Addazio,A,Rutgers,Big Ten,Nunzio Campanile,W,30,16,13,26,159,0,58,286,4,10,16,7,45,0,0
 2019-09-28,Boston College,ACC,Steve Addazio,H,Wake Forest,ACC,Dave Clawson,L,24,27,22,31,281,3,44,252,0,12,13,6,40,1,2
 2019-10-05,Boston College,ACC,Steve Addazio,A,Louisville,ACC,Scott Satterfield,L,39,41,15,33,304,4,45,259,1,11,11,5,35,1,1
 2019-10-19,Boston College,ACC,Steve Addazio,H,North Carolina State,ACC,Dave Doeren,W,45,24,6,15,103,0,60,429,5,4,17,8,59,0,0

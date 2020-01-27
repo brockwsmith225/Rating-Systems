@@ -13,11 +13,15 @@ ratingsystems\common\commands\Predictions.class
 ratingsystems\common\linalg\Vector.class
 ratingsystems\common\interpreter\Date.class
 ratingsystems\common\ratingsystem\RatingSystem.class
+ratingsystems\common\collegefootball\CollegeFootballCoachSchoolInterpreter.class
+ratingsystems\common\commands\EvaluateBracket.class
 ratingsystems\common\collegebasketball\CollegeBasketballScraper.class
 ratingsystems\common\webscraper\TeamsScraper.class
 ratingsystems\common\commands\Playoff.class
+ratingsystems\common\interpreter\BracketInterpreter.class
 ratingsystems\common\collegefootball\CollegeFootballScraper.class
 ratingsystems\common\cli\Terminal.class
 ratingsystems\common\collegefootball\CollegeFootballEntry.class
 ratingsystems\common\collegefootball\CollegeFootballCoachesInterpreter.class
+ratingsystems\common\interpreter\Bracket.class
 ratingsystems\common\interpreter\Game.class
