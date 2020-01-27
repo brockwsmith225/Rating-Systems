@@ -22,6 +22,10 @@ public class Predict extends Command {
                 System.out.println();
             } else {
                 System.out.println(prediction.getOdds());
+                System.out.println(prediction.getTeam1Score());
+                System.out.println(prediction.getTeam2Score());
+                System.out.println(prediction.getLine());
+                System.out.println(prediction.getOverUnder());
             }
         } else if (commandMode == CommandMode.API) {
             return prediction;

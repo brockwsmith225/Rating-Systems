@@ -199,7 +199,7 @@ public class Matrix {
                 }
             }
             if (p >= m.matrix.length - 2) {
-                System.out.println(m);
+                //System.out.println(m);
             }
         }
         return m;
