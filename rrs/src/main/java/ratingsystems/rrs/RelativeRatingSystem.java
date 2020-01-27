@@ -150,7 +150,7 @@ public class RelativeRatingSystem extends RatingSystem {
     @Override
     protected String printTeam(String team, boolean allStats) {
         return teams.get(team).getName() + "\t"
-                + (int)teams.get(team).getRating() + "\t"
+                + teams.get(team).getRating() + "\t"
                 + teams.get(team).getRecord();
     }
 
@@ -248,6 +248,10 @@ public class RelativeRatingSystem extends RatingSystem {
             if (colSum > 0.0) {
                 for (int r = 0; r < values.length; r++) {
                     values[r][c] /= colSum;
+                }
+            } else {
+                for (int r = 0; r < values.length; r++) {
+                    values[r][c] = 1.0 / values[r].length;
                 }
             }
         }

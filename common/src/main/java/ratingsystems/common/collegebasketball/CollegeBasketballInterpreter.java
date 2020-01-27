@@ -1,8 +1,6 @@
 package ratingsystems.common.collegebasketball;
 
-import ratingsystems.common.interpreter.Game;
-import ratingsystems.common.interpreter.Interpreter;
-import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.interpreter.*;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -63,6 +61,16 @@ public class CollegeBasketballInterpreter extends Interpreter {
         Scanner data = new Scanner(new File("data/cbb-" + year + ".csv"));
         data.nextLine();
         return data;
+    }
+
+    @Override
+    public boolean hasBracket(int year) {
+        return new File("data/cbb-bracket-" + year + ".txt").exists();
+    }
+
+    @Override
+    public Bracket parseBracket(int year) throws FileNotFoundException {
+        return new BracketInterpreter().getBracket("data/cfb-bracket-" + year + ".txt");
     }
 
     @Override

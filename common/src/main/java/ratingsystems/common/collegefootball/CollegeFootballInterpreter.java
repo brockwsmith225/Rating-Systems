@@ -1,8 +1,6 @@
 package ratingsystems.common.collegefootball;
 
-import ratingsystems.common.interpreter.Interpreter;
-import ratingsystems.common.interpreter.Game;
-import ratingsystems.common.interpreter.Team;
+import ratingsystems.common.interpreter.*;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -32,6 +30,14 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         addDefensiveStatistics(teams);
 
+        data = new Scanner(new File("data/cfb-teams.csv"));
+        while (data.hasNext()) {
+            String team = data.nextLine().replace("\n", "").replace(",", "");
+            if (!teams.containsKey(team)) {
+                teams.put(team, new Team(team, "", "", year));
+            }
+        }
+
         return teams;
     }
 
@@ -54,6 +60,14 @@ public class CollegeFootballInterpreter extends Interpreter {
 
         addDefensiveStatistics(teams);
 
+        data = new Scanner(new File("data/cfb-teams.csv"));
+        while (data.hasNext()) {
+            String team = data.nextLine().replace("\n", "").replace(",", "");
+            if (!teams.containsKey(team)) {
+                teams.put(team, new Team(team, "", "", year));
+            }
+        }
+
         return teams;
     }
 
@@ -67,6 +81,16 @@ public class CollegeFootballInterpreter extends Interpreter {
         Scanner data = new Scanner(new File("data/cfb-" + year + ".csv"));
         CollegeFootballEntry.setStatisticNames(data.nextLine());
         return data;
+    }
+
+    @Override
+    public boolean hasBracket(int year) {
+        return new File("data/cfb-bracket-" + year + ".txt").exists();
+    }
+
+    @Override
+    public Bracket parseBracket(int year) throws FileNotFoundException {
+        return new BracketInterpreter().getBracket("data/cfb-bracket-" + year + ".txt");
     }
 
     @Override

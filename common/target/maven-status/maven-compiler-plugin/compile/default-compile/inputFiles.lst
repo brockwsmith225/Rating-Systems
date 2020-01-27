@@ -1,8 +1,10 @@
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\Bracket.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\Team.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegefootball\CollegeFootballConferencesInterpreter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\parameters\Parameters.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\webscraper\TeamsScraper.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegefootball\CollegeFootballEntry.java
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegefootball\CollegeFootballCoachSchoolInterpreter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\Interpreter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\CheckPredictions.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\parameters\StringParameter.java
@@ -11,6 +13,7 @@ C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\rat
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Predict.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\cli\Terminal.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Rank.java
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\EvaluateBracket.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\linalg\Matrix.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegefootball\CollegeFootballScraper.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\ratingsystem\RatingSystem.java
@@ -26,8 +29,10 @@ C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\rat
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\cli\CommandInput.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Fetch.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegebasketball\CollegeBasketballScraper.java
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Playoff.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\CustomTeam.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\Runner.java
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\BracketInterpreter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegebasketball\CollegeBasketballEntry.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegefootball\CollegeFootballInterpreter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Command.java

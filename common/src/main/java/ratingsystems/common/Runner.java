@@ -1,5 +1,6 @@
 package ratingsystems.common;
 
+import ratingsystems.common.collegefootball.CollegeFootballCoachSchoolInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballCoachesInterpreter;
 import ratingsystems.common.collegefootball.CollegeFootballConferencesInterpreter;
 import ratingsystems.common.commands.*;
@@ -31,6 +32,7 @@ public abstract class Runner {
         interpreters.put("cfb", new CollegeFootballInterpreter());
         interpreters.put("cfb-coaches", new CollegeFootballCoachesInterpreter());
         interpreters.put("cfb-conferences", new CollegeFootballConferencesInterpreter());
+        interpreters.put("cfb-coach-school", new CollegeFootballCoachSchoolInterpreter());
         interpreters.put("cbb", new CollegeBasketballInterpreter());
 
         //Add general rating system commands here
@@ -40,6 +42,7 @@ public abstract class Runner {
         commands.put("predict", new Predict());
         commands.put("rank", new Rank());
         commands.put("predictions", new Predictions());
+        commands.put("bracket", new EvaluateBracket());
 //        commands.put("set", new ratingsystems.common.commands.Set());
 
         ratingSystems = new HashMap<>();

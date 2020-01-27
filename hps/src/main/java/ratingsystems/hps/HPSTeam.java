@@ -110,8 +110,10 @@ public class HPSTeam extends SERTeam {
 //        return similarity;
         double similarity = 1.0;
         for (String stat : scaledStats.keySet()) {
-            double statSim = scaledStats.get(stat) / team.scaledStats.get(stat);
-            similarity *= statSim <= 1 ? statSim : 1.0 / statSim;
+            if (scaledStats.get(stat) != null && team.scaledStats.get(stat) != null) {
+                double statSim = scaledStats.get(stat) / team.scaledStats.get(stat);
+                similarity *= statSim <= 1 ? statSim : 1.0 / statSim;
+            }
         }
         return Math.pow(similarity, 1.0 / scaledStats.size());
 //        double similarity = 1.0;
