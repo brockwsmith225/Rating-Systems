@@ -43,6 +43,7 @@ public abstract class Runner {
         commands.put("rank", new Rank());
         commands.put("predictions", new Predictions());
         commands.put("bracket", new EvaluateBracket());
+        commands.put("fetch-bracket", new FetchBracket());
 //        commands.put("set", new ratingsystems.common.commands.Set());
 
         ratingSystems = new HashMap<>();

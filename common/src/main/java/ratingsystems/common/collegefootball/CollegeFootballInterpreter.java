@@ -98,6 +98,11 @@ public class CollegeFootballInterpreter extends Interpreter {
         new CollegeFootballScraper().fetch(year);
     }
 
+    @Override
+    public void fetchBracket(int year) throws IOException {
+        new CollegeFootballScraper().fetchBracket(year);
+    }
+
     //========== CFB only methods ==========
     protected LocalDate getStartDate(int year) {
         LocalDate startDate = LocalDate.of(year, 9, 1);

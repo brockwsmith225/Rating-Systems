@@ -339,9 +339,7 @@ public abstract class RatingSystem {
         return predictions.toString();
     }
 
-    public boolean hasTeam(String team) {
-        return teams.containsKey(team);
-    }
+    abstract public boolean hasTeam(String team);
 
     public Team getTeam(String team) {
         if (teams.containsKey(team)) {

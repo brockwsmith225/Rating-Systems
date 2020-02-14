@@ -70,12 +70,17 @@ public class CollegeBasketballInterpreter extends Interpreter {
 
     @Override
     public Bracket parseBracket(int year) throws FileNotFoundException {
-        return new BracketInterpreter().getBracket("data/cfb-bracket-" + year + ".txt");
+        return new BracketInterpreter().getBracket("data/cbb-bracket-" + year + ".txt");
     }
 
     @Override
     public void fetchData(int year) throws IOException {
         new CollegeBasketballScraper().fetch(year);
+    }
+
+    @Override
+    public void fetchBracket(int year) throws IOException {
+        new CollegeBasketballScraper().fetchBracket(year);
     }
 
     //========== CFB only methods ==========

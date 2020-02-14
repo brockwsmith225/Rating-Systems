@@ -14,15 +14,17 @@ public class EvaluateBracket extends Command {
     @Override
     public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         RatingSystem ratingSystem = runner.loadRatingSystem(options, parameters);
+        ratingSystem.rankTeams();
         Interpreter interpreter = runner.getInterpreter((String)parameters.getValue("LEAGUE"));;
         if (commandMode == CommandMode.TERMINAL) {
             try {
                 Bracket bracket = interpreter.parseBracket((Integer) parameters.getValue("YEAR"));
                 bracket.evaluate(ratingSystem);
                 Map<String, List<Double>> odds = bracket.getFullOdds();
+                Map<String, Integer> seeds = bracket.getSeeds();
                 Map<String, List<String>> bracketNames = bracket.getBracketNames();
                 for (String team : odds.keySet()) {
-                    System.out.print(team + "\t");
+                    System.out.print(seeds.get(team) + "\t" + team + "\t" + ratingSystem.getTeam(team).getRating() + "\t");
                     for (String bracketName : bracketNames.get(team)) {
                         System.out.print(bracketName + "\t");
                     }

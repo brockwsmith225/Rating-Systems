@@ -112,4 +112,70 @@ public class CollegeBasketballScraper extends WebScraper {
         }
     }
 
+    @Override
+    public void fetchBracket(int year) throws IOException {
+        TeamsScraper scraper = new TeamsScraper();
+        HashMap<String, String[]> teams = scraper.fetch("https://www.sports-reference.com/cbb/schools/", year);
+        HashMap<String, String> linkToName = new HashMap<>();
+        HashMap<String, String> nameToPrint = new HashMap<>();
+        for (String name : teams.keySet()) {
+            Document d = Jsoup.connect("https://www.sports-reference.com/cbb/schools/" + teams.get(name)[0]).get();
+            Matcher c = Pattern.compile("<strong>(.*) Pages").matcher(d.select("#bottom_nav").html());
+            c.find();
+            nameToPrint.put(name, c.group(1).replace("&amp;", "&"));
+            linkToName.put(teams.get(name)[0], name);
+        }
+        HashMap<String, String> regions = new HashMap<>();
+        regions.put("east", "East");
+        regions.put("west", "West");
+        regions.put("midwest", "Midwest");
+        regions.put("south", "South");
+        PrintStream file = new PrintStream(new File("data/cbb-bracket-" + year + ".txt"));
+        Document d = Jsoup.connect("https://www.sports-reference.com/cbb/postseason/2019-ncaa.html").get();
+        for (String region : regions.keySet()) {
+            Elements bracket = d.select("#" + region);
+            if (bracket != null) {
+                file.println("--" + regions.get(region));
+                HashMap<Integer, String> firstFour = new HashMap<>();
+                Elements ff = bracket.select("p");
+                if (ff != null) {
+                    Matcher seeds = Pattern.compile("<strong>([0-9]+)<\\/strong>").matcher(ff.html());
+                    Matcher team = Pattern.compile("<a href=\"\\/cbb\\/schools\\/([a-z\\-]+)\\/\">").matcher(ff.html());
+                    int seedEnd = 0;
+                    int teamEnd = 0;
+                    while (seeds.find(seedEnd)) {
+                        seeds.find(seeds.end());
+                        seedEnd = seeds.end();
+                        String matchup = "*!" + seeds.group(1) + "! ";
+                        team.find(teamEnd);
+                        teamEnd = team.end();
+                        matchup += nameToPrint.get(linkToName.get(team.group(1))) + "/";
+                        team.find(teamEnd);
+                        teamEnd = team.end();
+                        matchup += nameToPrint.get(linkToName.get(team.group(1)));
+                        firstFour.put(Integer.parseInt(seeds.group(1)), matchup);
+                    }
+                }
+                Elements firstRound = bracket.select(".round").get(0).select("div");
+                for (Element game : firstRound) {
+                    System.out.println(game.html());
+                    Matcher seeds = Pattern.compile("<span>([0-9]+)<\\/span>").matcher(game.html());
+                    Matcher team = Pattern.compile("<a href=\"\\/cbb\\/schools\\/([a-z\\-]+)\\/" + year + ".html\">").matcher(game.html());
+                    int seedEnd = 0;
+                    int teamEnd = 0;
+                    while (seeds.find(seedEnd)) {
+                        seedEnd = seeds.end();
+                        if (firstFour.containsKey(Integer.parseInt(seeds.group(1)))) {
+                            file.println(firstFour.get(Integer.parseInt(seeds.group(1))));
+                        } else {
+                            team.find(teamEnd);
+                            teamEnd = team.end();
+                            file.println("!" + seeds.group(1) + "! " + nameToPrint.get(linkToName.get(team.group(1))));
+                        }
+                    }
+                }
+            }
+        }
+    }
+
 }
