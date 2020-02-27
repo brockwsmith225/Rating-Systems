@@ -25,8 +25,10 @@ public class CollegeBasketballInterpreter extends Interpreter {
             if (!teams.containsKey(entry.team)) {
                 teams.put(entry.team, new Team(entry.team, entry.conference, entry.coach, year));
             }
-            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+            teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
         }
+
+        addDefensiveStatistics(teams);
 
         return teams;
     }
@@ -44,9 +46,11 @@ public class CollegeBasketballInterpreter extends Interpreter {
                 if (!teams.containsKey(entry.team)) {
                     teams.put(entry.team, new Team(entry.team, entry.conference, entry.coach, year));
                 }
-                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date));
+                teams.get(entry.team).addGame(new Game(entry.team, entry.opponent, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
             }
         }
+
+        addDefensiveStatistics(teams);
 
         return teams;
     }
@@ -59,7 +63,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
     @Override
     public Scanner getData(int year) throws FileNotFoundException {
         Scanner data = new Scanner(new File("data/cbb-" + year + ".csv"));
-        data.nextLine();
+        CollegeBasketballEntry.setStatisticNames(data.nextLine());
         return data;
     }
 
@@ -102,7 +106,7 @@ public class CollegeBasketballInterpreter extends Interpreter {
         return avgStats;
     }
 
-    private LocalDate getStartDate(int year) {
+    protected LocalDate getStartDate(int year) {
         LocalDate startDate = LocalDate.of(year-1, 11, 6);
         while (startDate.getDayOfWeek() != DayOfWeek.MONDAY) {
             startDate = startDate.minusDays(1);
