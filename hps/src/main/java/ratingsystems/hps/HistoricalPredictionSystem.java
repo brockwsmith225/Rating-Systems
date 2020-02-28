@@ -8,7 +8,6 @@ import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
 import ratingsystems.common.linalg.Vector;
-import ratingsystems.ser.SERTeam;
 import ratingsystems.ser.SimpleEfficiencyRating;
 
 import java.io.FileNotFoundException;
@@ -146,11 +145,12 @@ public class HistoricalPredictionSystem extends RatingSystem {
     public void rankTeams() {
         calculateTeamRankings();
         super.rankTeams();
+        calculateOtherTeamRankings();
     }
 
     @Override
     public List<Team> getTeamRankings() {
-        calculateTeamRankings();
+        rankTeams();
         return List.copyOf(rankedTeams);
     }
 
@@ -175,7 +175,11 @@ public class HistoricalPredictionSystem extends RatingSystem {
                 + (!cumulative ? teams.get(team).getYear() + "\t" : "")
                 + teams.get(team).getRating() + "\t"
                 + (allStats ? teams.get(team).getOffensiveRating() + "\t"
-                + teams.get(team).getDefensiveRating() + "\t" : "")
+                + teams.get(team).getDefensiveRating() + "\t"
+                + teams.get(team).getTop25Rating() + "\t"
+                + teams.get(team).getTop5Rating() + "\t"
+                + teams.get(team).getHomeRating() + "\t"
+                + teams.get(team).getAwayRating() + "\t" : "")
                 + teams.get(team).getRecord();
     }
 
@@ -185,12 +189,20 @@ public class HistoricalPredictionSystem extends RatingSystem {
                 + Terminal.rightJustify(Double.toString(teams.get(team).getRating()), 10) + "   "
                 + (!cumulative ? teams.get(team).getYear() + "   " : "")
                 + (allStats ? Terminal.rightJustify(Double.toString(teams.get(team).getOffensiveRating()), 10) + "   "
-                + Terminal.rightJustify(Double.toString(teams.get(team).getDefensiveRating()), 10) + "   " : "")
+                + Terminal.rightJustify(Double.toString(teams.get(team).getDefensiveRating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getTop25Rating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getTop5Rating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getHomeRating()), 10) + "   "
+                + Terminal.rightJustify(Double.toString(teams.get(team).getAwayRating()), 10) + "   " : "")
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
     @Override
     public Prediction predictGame(String team1, String team2, Location location) {
+        if (!teams.containsKey(team2)) {
+            System.out.println(team2);
+        }
+
         // VARIABLES
         int statNumRecentYears = 1;
         double statRecencyBias = 0.9;
@@ -355,21 +367,38 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     private void calculateTeamRankings() {
         hasRankedTeams = true;
-        HashMap<String, Double> ratings = new HashMap<>();
-        HashMap<String, Double> offRatings = new HashMap<>();
-        HashMap<String, Double> defRatings = new HashMap<>();
         for (String team : teams.keySet()) {
-            ratings.put(team, 0.0);
             Prediction prediction = predictVersusAverage(team, Location.NEUTRAL);
-            ratings.put(team, prediction.getLine() * -1);
-            offRatings.put(team, prediction.getTeam1Score());
-            defRatings.put(team, prediction.getTeam2Score());
+            teams.get(team).setRating(prediction.getLine() * -1);
+            teams.get(team).setOffensiveRating(prediction.getTeam1Score());
+            teams.get(team).setDefensiveRating(prediction.getTeam2Score());
         }
+    }
 
+    private void calculateOtherTeamRankings() {
         for (String team : teams.keySet()) {
-            teams.get(team).setRating(ratings.get(team));
-            teams.get(team).setOffensiveRating(offRatings.get(team));
-            teams.get(team).setDefensiveRating(defRatings.get(team));
+            double top25Rating = 0.0;
+            double count = 0.0;
+            for (int i = 20; i < 25; i++) {
+                if (!team.equals(rankedTeams.get(i).getName())) {
+                    Prediction prediction = predictGame(team, rankedTeams.get(i).getName(), Location.NEUTRAL);
+                    top25Rating += prediction.getLine() * -1;
+                    count++;
+                }
+            }
+            teams.get(team).setTop25Rating(top25Rating / count);
+            double top5Rating = 0.0;
+            count = 0.0;
+            for (int i = 0; i < 5; i++) {
+                if (!team.equals(rankedTeams.get(i).getName())) {
+                    Prediction prediction = predictGame(team, rankedTeams.get(i).getName(), Location.NEUTRAL);
+                    top5Rating += prediction.getLine() * -1;
+                    count++;
+                }
+            }
+            teams.get(team).setTop5Rating(top5Rating / count);
+            teams.get(team).setHomeRating(predictVersusAverage(team, Location.HOME).getLine() * -1);
+            teams.get(team).setAwayRating(predictVersusAverage(team, Location.AWAY).getLine() * -1);
         }
     }
 

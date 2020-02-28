@@ -2,7 +2,6 @@ package ratingsystems.hps;
 
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
-import ratingsystems.common.linalg.Vector;
 import ratingsystems.ser.SERTeam;
 
 import java.util.HashMap;
@@ -10,6 +9,8 @@ import java.util.Map;
 
 public class HPSTeam extends SERTeam {
 
+    private double top25Rating, top5Rating;
+    private double homeRating, awayRating;
     private Map<String, Double> avgStats;
     private Map<String, Double> scaledStats;
 
@@ -42,6 +43,38 @@ public class HPSTeam extends SERTeam {
             }
         }
         scaledStats.replaceAll((key, value) -> Math.pow(value, 1.0 / team.getNumberOfGames()));
+    }
+
+    public void setTop25Rating(Double top25Rating) {
+        this.top25Rating = top25Rating;
+    }
+
+    public void setTop5Rating(Double top5Rating) {
+        this.top5Rating = top5Rating;
+    }
+
+    public void setHomeRating(double homeRating) {
+        this.homeRating = homeRating;
+    }
+
+    public void setAwayRating(double awayRating) {
+        this.awayRating = awayRating;
+    }
+
+    public double getTop25Rating() {
+        return top25Rating;
+    }
+
+    public double getTop5Rating() {
+        return top5Rating;
+    }
+
+    public double getHomeRating() {
+        return homeRating;
+    }
+
+    public double getAwayRating() {
+        return awayRating;
     }
 
     public double offensePassingPlayPercent() {
