@@ -139,6 +139,8 @@ public abstract class Interpreter {
 
     abstract public void fetchData(int year) throws IOException;
 
+    abstract public void fetchBracket(int year) throws IOException;
+
     protected void addDefensiveStatistics(Map<String, Team> teams) {
         for (String team : teams.keySet()) {
             List<Game> games = teams.get(team).getGames();

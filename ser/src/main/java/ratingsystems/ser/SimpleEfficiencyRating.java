@@ -127,6 +127,10 @@ public class SimpleEfficiencyRating extends RatingSystem {
         return null;
     }
 
+    public boolean hasTeam(String team) {
+        return teams.containsKey(team);
+    }
+
 
 
     //========== SimpleEfficiencyRating only methods ==========

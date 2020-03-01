@@ -341,4 +341,26 @@ public class Bracket {
         }
         return bracketNames;
     }
+
+    public Map<String, Integer> getSeeds() {
+        Map<String, Integer> seeds = new HashMap<>();
+        if (subbracket1 != this) {
+            Map<String, Integer> subbracketSeeds = subbracket1.getSeeds();
+            for (String team : subbracketSeeds.keySet()) {
+                seeds.put(team, subbracketSeeds.get(team));
+            }
+        } else if (!team1.equals("BYE")) {
+            seeds.put(team1, seed1);
+        }
+        if (subbracket2 != this) {
+            Map<String, Integer> subbracketSeeds = subbracket2.getSeeds();
+            for (String team : subbracketSeeds.keySet()) {
+                seeds.put(team, subbracketSeeds.get(team));
+            }
+        } else if (!team2.equals("BYE")) {
+            seeds.put(team2, seed2);
+        }
+        return seeds;
+    }
+
 }

@@ -105,8 +105,10 @@ public class BracketInterpreter {
                 brackets.remove(i);
                 brackets.remove(i);
                 brackets.add(i, bracket);
-                if (i >= brackets.size())
-                    i = 0;
+                if (i + 1 >= brackets.size()) {
+                    i = -1;
+                    round++;
+                }
             }
             return brackets.get(0);
         }

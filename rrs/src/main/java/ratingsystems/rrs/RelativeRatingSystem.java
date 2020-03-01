@@ -161,6 +161,10 @@ public class RelativeRatingSystem extends RatingSystem {
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
+    public boolean hasTeam(String team) {
+        return teams.containsKey(team);
+    }
+
 
 
     //========== RelativeRatingSystem only methods ==========
