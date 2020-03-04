@@ -199,8 +199,11 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     @Override
     public Prediction predictGame(String team1, String team2, Location location) {
+        if (!teams.containsKey(team1)) {
+            System.out.println("Team not found: " + team1);
+        }
         if (!teams.containsKey(team2)) {
-            System.out.println(team2);
+            System.out.println("Team not found: " + team2);
         }
 
         // VARIABLES
