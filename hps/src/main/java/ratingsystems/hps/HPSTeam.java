@@ -53,28 +53,12 @@ public class HPSTeam extends SERTeam {
         this.top5Rating = top5Rating;
     }
 
-    public void setHomeRating(double homeRating) {
-        this.homeRating = homeRating;
-    }
-
-    public void setAwayRating(double awayRating) {
-        this.awayRating = awayRating;
-    }
-
     public double getTop25Rating() {
         return top25Rating;
     }
 
     public double getTop5Rating() {
         return top5Rating;
-    }
-
-    public double getHomeRating() {
-        return homeRating;
-    }
-
-    public double getAwayRating() {
-        return awayRating;
     }
 
     public double offensePassingPlayPercent() {
