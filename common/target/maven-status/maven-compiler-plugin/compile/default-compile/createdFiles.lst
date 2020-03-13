@@ -1,3 +1,4 @@
+ratingsystems\common\commands\Play.class
 ratingsystems\common\collegefootball\CollegeFootballInterpreter.class
 ratingsystems\common\linalg\Matrix.class
 ratingsystems\common\collegebasketball\CollegeBasketballEntry.class
@@ -20,5 +21,6 @@ ratingsystems\common\collegefootball\CollegeFootballScraper.class
 ratingsystems\common\cli\Terminal.class
 ratingsystems\common\collegefootball\CollegeFootballEntry.class
 ratingsystems\common\collegefootball\CollegeFootballCoachesInterpreter.class
+ratingsystems\common\commands\FetchBracket.class
 ratingsystems\common\collegebasketball\CollegeBasketballConferencesInterpreter.class
 ratingsystems\common\interpreter\Game.class

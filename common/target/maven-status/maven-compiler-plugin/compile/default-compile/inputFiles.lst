@@ -19,6 +19,7 @@ C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\rat
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\ratingsystem\RatingSystem.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\webscraper\WebScraper.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\parameters\IntegerParameter.java
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Play.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\parameters\LocationParameter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Predictions.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\Game.java
@@ -29,6 +30,7 @@ C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\rat
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\cli\CommandInput.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Fetch.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegebasketball\CollegeBasketballScraper.java
+C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\collegebasketball\CollegeBasketballConferencesInterpreter.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\commands\Playoff.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\interpreter\CustomTeam.java
 C:\Users\Brock\IdeaProjects\RatingSystems\ratingsystems\common\src\main\java\ratingsystems\common\Runner.java

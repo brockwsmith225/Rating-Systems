@@ -42,6 +42,7 @@ public abstract class Runner {
         commands.put("check-predictions", new CheckPredictions());
         commands.put("fetch", new Fetch());
         commands.put("predict", new Predict());
+        commands.put("play", new Play());
         commands.put("rank", new Rank());
         commands.put("predictions", new Predictions());
         commands.put("bracket", new EvaluateBracket());
