@@ -1,68 +1,68 @@
 --Midwest
 !1!Kansas
-!16!Siena
+!16!Siena=1
 !8!Houston
-!9!Marquette
+!9!Marquette=1
 !5!Auburn
-!12!Liberty
+!12!Liberty=1
 !4!Wisconsin
-!13!North Texas
-!6!Iowa
+!13!North Texas=1
+!6!Iowa=1
 !11!ETSU
 !3!Duke
-!14!Belmont
-!7!Providence
+!14!Belmont=1
+!7!Providence=1
 !10!Arizona State
 !2!Kentucky
-!15!North Dakota State
+!15!North Dakota State=1
 --South
-!1!Baylor
+!1!Baylor=1
 !16!Winthrop
-!8!Saint Mary's
+!8!Saint Mary's=1
 !9!Rutgers
 !5!Ohio State
-!12!Stephen F. Austin
+!12!Stephen F. Austin=1
 !4!Louisville
-!13!Vermont
+!13!Vermont=1
 !6!Virginia
-!11!Cincinnati
+!11!Cincinnati=1
 !3!Michigan State
-!14!Bradley
+!14!Bradley=1
 !7!Illinois
-!10!USC
+!10!USC=1
 !2!Creighton
-!15!Little Rock
+!15!Little Rock=1
 --East
 !1!Dayton
-!16!Robert Morris
+!16!Robert Morris=1
 !8!Colorado
-!9!Florida
+!9!Florida=1
 !5!Butler
-!12!Richmond
-!4!Maryland
+!12!Richmond=1
+!4!Maryland=1
 !13!Akron
-!6!Penn State
+!6!Penn State=1
 !11!NC State
 !3!Villanova
-!14!Hofstra
-!7!West Virginia
+!14!Hofstra=1
+!7!West Virginia=1
 !10!Utah State
 !2!Florida State
-!15!Northern Kentucky
+!15!Northern Kentucky=1
 --West
 !1!Gonzaga
-!16!Prairie View
-!8!LSU
+!16!Prairie View=1
+!8!LSU=1
 !9!Oklahoma
-!5!Michigan
+!5!Michigan=1
 !12!Yale
 !4!Oregon
-!13!New Mexico State
-!6!BYU
+!13!New Mexico State=1
+!6!BYU=1
 !11!Indiana
 !3!Seton Hall
-!14!Eastern Washington
-!7!Arizona
+!14!Eastern Washington=1
+!7!Arizona=1
 !10!Texas Tech
 !2!San Diego State
-!15!UC-Irvine
+!15!UC-Irvine=1

@@ -18,6 +18,7 @@ public class Play extends Command {
         Prediction prediction = runner.loadRatingSystem(options, parameters).predictGame(team1, team2, location);
         if (commandMode == CommandMode.TERMINAL) {
             double result = Math.random();
+            System.out.println(result);
             if (result < prediction.getOdds()) {
                 double gameControl = 1 - (result / (2 * prediction.getOdds()));
                 double avgPoints = gameControl * prediction.getTeam1Score() + (1 - gameControl) * prediction.getTeam2Score();

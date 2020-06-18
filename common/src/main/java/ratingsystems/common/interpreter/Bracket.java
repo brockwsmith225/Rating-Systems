@@ -12,15 +12,19 @@ public class Bracket {
     private Bracket subbracket1, subbracket2;
     private String team1, team2;
     private int seed1, seed2;
+    private int losingRound1, losingRound2;
     private Map<String, Double> odds;
     private Location location;
     private String bracketName;
 
+    //<editor-fold desc="Constructors">
     private Bracket() {
         this.team1 = "";
         this.team2 = "";
         this.seed1 = -1;
         this.seed2 = -1;
+        this.losingRound1 = Integer.MAX_VALUE;
+        this.losingRound2 = Integer.MAX_VALUE;
         this.subbracket1 = this;
         this.subbracket2 = this;
         this.odds = new HashMap<>();
@@ -28,6 +32,7 @@ public class Bracket {
         this.bracketName = "";
     }
 
+    //<editor-fold desc="Teams/Subbrackets">
     public Bracket(String team1, String team2) {
         this();
         if (team1 == null)
@@ -62,6 +67,7 @@ public class Bracket {
             this.bracketName = this.subbracket1.bracketName;
     }
 
+    //<editor-fold desc="Seeds">
     public Bracket(String team1, int seed1, String team2, int seed2) {
         this(team1, team2);
         this.seed1 = seed1;
@@ -78,6 +84,34 @@ public class Bracket {
         this.seed2 = seed2;
     }
 
+    //<editor-fold desc="Losing Rounds">
+    public Bracket(String team1, int seed1, int losingRound1, String team2, int seed2) {
+        this(team1, seed1, team2, seed2);
+        this.losingRound1 = losingRound1;
+    }
+
+    public Bracket(String team1, int seed1, String team2, int seed2, int losingRound2) {
+        this(team1, seed1, team2, seed2);
+        this.losingRound2 = losingRound2;
+    }
+
+    public Bracket(String team1, int seed1, int losingRound1, String team2, int seed2, int losingRound2) {
+        this(team1, seed1, team2, seed2);
+        this.losingRound1 = losingRound1;
+        this.losingRound2 = losingRound2;
+    }
+
+    public Bracket(String team1, int seed1, int losingRound1, Bracket subbracket2) {
+        this(team1, seed1, subbracket2);
+        this.losingRound1 = losingRound1;
+    }
+
+    public Bracket(Bracket subbracket1, String team2, int seed2, int losingRound2) {
+        this(subbracket1, team2, seed2);
+        this.losingRound2 = losingRound2;
+    }
+
+    //<editor-fold desc="Location">
     public Bracket(String team1, String team2, Location location) {
         this(team1, team2);
         this.location = location;
@@ -113,6 +147,33 @@ public class Bracket {
         this.location = location;
     }
 
+    public Bracket(String team1, int seed1, int losingRound1, String team2, int seed2, Location location) {
+        this(team1, seed1, losingRound1, team2, seed2);
+        this.location = location;
+    }
+
+    public Bracket(String team1, int seed1, String team2, int seed2, int losingRound2, Location location) {
+        this(team1, seed1, team2, seed2, losingRound2);
+        this.location = location;
+    }
+
+    public Bracket(String team1, int seed1, int losingRound1, String team2, int seed2, int losingRound2, Location location) {
+        this(team1, seed1, losingRound1, team2, seed2, losingRound2);
+        this.location = location;
+    }
+
+    public Bracket(String team1, int seed1, int losingRound1, Bracket subbracket2, Location location) {
+        this(team1, seed1, losingRound1, subbracket2);
+        this.location = location;
+    }
+
+    public Bracket(Bracket subbracket1, String team2, int seed2, int losingRound2, Location location) {
+        this(subbracket1, team2, seed2, losingRound2);
+        this.location = location;
+    }
+
+
+    //<editor-fold desc="Bracket Name">
     public Bracket(String team1, String team2, String bracketName) {
         this(team1, team2);
         this.bracketName = bracketName;
@@ -183,6 +244,37 @@ public class Bracket {
         this.bracketName = bracketName;
     }
 
+    public Bracket(String team1, int seed1, int losingRound1, String team2, int seed2, Location location, String bracketName) {
+        this(team1, seed1, losingRound1, team2, seed2, location);
+        this.bracketName = bracketName;
+    }
+
+    public Bracket(String team1, int seed1, String team2, int seed2, int losingRound2, Location location, String bracketName) {
+        this(team1, seed1, team2, seed2, losingRound2, location);
+        this.bracketName = bracketName;
+    }
+
+    public Bracket(String team1, int seed1, int losingRound1, String team2, int seed2, int losingRound2, Location location, String bracketName) {
+        this(team1, seed1, losingRound1, team2, seed2, losingRound2, location);
+        this.bracketName = bracketName;
+    }
+
+    public Bracket(String team1, int seed1, int losingRound1, Bracket subbracket2, Location location, String bracketName) {
+        this(team1, seed1, losingRound1, subbracket2, location);
+        this.bracketName = bracketName;
+    }
+
+    public Bracket(Bracket subbracket1, String team2, int seed2, int losingRound2, Location location, String bracketName) {
+        this(subbracket1, team2, seed2, losingRound2, location);
+        this.bracketName = bracketName;
+    }
+    //</editor-fold>
+    //</editor-fold>
+    //</editor-fold>
+    //</editor-fold>
+    //</editor-fold>
+    //</editor-fold>
+
     public List<String> getTeams() {
         List<String> teams = new ArrayList<>();
         if (subbracket1 != this) {
@@ -222,26 +314,31 @@ public class Bracket {
 
     public void evaluate(RatingSystem ratingSystem) {
         List<String> teams1 = new ArrayList<>();
+        Map<String, Integer> losingRounds = new HashMap<>();
         Map<String, Double> prevOdds = new HashMap<>();
         if (subbracket1 != this) {
             teams1 = subbracket1.getTeams();
+            losingRounds.putAll(subbracket1.getLosingRounds());
             subbracket1.evaluate(ratingSystem);
             for (String team : teams1) {
                 prevOdds.put(team, subbracket1.getOdds(team));
             }
         } else if (!team1.equals("BYE")) {
             teams1.add(team1);
+            losingRounds.put(team1, losingRound1);
             prevOdds.put(team1, 1.0);
         }
         List<String> teams2 = new ArrayList<>();
         if (subbracket2 != this) {
             teams2 = subbracket2.getTeams();
+            losingRounds.putAll(subbracket2.getLosingRounds());
             subbracket2.evaluate(ratingSystem);
             for (String team : teams2) {
                 prevOdds.put(team, subbracket2.getOdds(team));
             }
         } else if (!team2.equals("BYE")) {
             teams2.add(team2);
+            losingRounds.put(team2, losingRound2);
             prevOdds.put(team2, 1.0);
         }
         for (String team : teams1) {
@@ -265,10 +362,16 @@ public class Bracket {
             for (String team : teams2) odds.put(team, 0.0);
             for (String team1 : teams1) {
                 for (String team2 : teams2) {
-                    Prediction prediction = ratingSystem.predictGame(team1, team2, location);
-                    double probOfGame = prevOdds.get(team1) * prevOdds.get(team2);
-                    odds.put(team1, odds.get(team1) + probOfGame * prediction.getOdds());
-                    odds.put(team2, odds.get(team2) + probOfGame * (1 - prediction.getOdds()));
+                    if ((int) losingRounds.get(team1) == losingRounds.get(team2)) {
+                        Prediction prediction = ratingSystem.predictGame(team1, team2, location);
+                        double probOfGame = prevOdds.get(team1) * prevOdds.get(team2);
+                        odds.put(team1, odds.get(team1) + probOfGame * prediction.getOdds());
+                        odds.put(team2, odds.get(team2) + probOfGame * (1 - prediction.getOdds()));
+                    } else if ((int) losingRounds.get(team1) < losingRounds.get(team2)) {
+                        odds.put(team2, odds.get(team2) + prevOdds.get(team1));
+                    } else if ((int) losingRounds.get(team1) > losingRounds.get(team2)) {
+                        odds.put(team1, odds.get(team1) + prevOdds.get(team2));
+                    }
                 }
             }
         }
@@ -361,6 +464,27 @@ public class Bracket {
             seeds.put(team2, seed2);
         }
         return seeds;
+    }
+
+    public Map<String, Integer> getLosingRounds() {
+        Map<String, Integer> losingRounds = new HashMap<>();
+        if (subbracket1 != this) {
+            Map<String, Integer> subbracketLosingRounds = subbracket1.getLosingRounds();
+            for (String team : subbracketLosingRounds.keySet()) {
+                losingRounds.put(team, subbracketLosingRounds.get(team));
+            }
+        } else if (!team1.equals("BYE")) {
+            losingRounds.put(team1, losingRound1);
+        }
+        if (subbracket2 != this) {
+            Map<String, Integer> subbracketLosingRounds = subbracket2.getLosingRounds();
+            for (String team : subbracketLosingRounds.keySet()) {
+                losingRounds.put(team, subbracketLosingRounds.get(team));
+            }
+        } else if (!team2.equals("BYE")) {
+            losingRounds.put(team2, losingRound2);
+        }
+        return losingRounds;
     }
 
 }
