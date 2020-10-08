@@ -355,7 +355,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team2ExpectedScore = team2RawScore * Math.pow(team2Off / team1Def, serPow);
 
 //        double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
-        double odds = 1.0 / (1.0 + Math.exp(25 * (team2ExpectedScore - team1ExpectedScore) / (team1ExpectedScore + team2ExpectedScore)));
+        double odds = 1.0 / (1.0 + Math.exp(4 * (team2ExpectedScore - team1ExpectedScore) / (team1ExpectedScore + team2ExpectedScore)));
 
         return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore, location);
     }

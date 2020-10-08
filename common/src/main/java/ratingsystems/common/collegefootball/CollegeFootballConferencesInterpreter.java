@@ -22,7 +22,9 @@ public class CollegeFootballConferencesInterpreter extends CollegeFootballInterp
             if (!teams.containsKey(entry.conference)) {
                 teams.put(entry.conference, new Team(entry.conference, entry.conference, entry.coach, year));
             }
-            teams.get(entry.conference).addGame(new Game(entry.conference, entry.opponentConference, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+            if (!entry.conference.equals(entry.opponentConference)) {
+                teams.get(entry.conference).addGame(new Game(entry.conference, entry.opponentConference, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+            }
         }
 
         addDefensiveStatistics(teams);
@@ -43,7 +45,9 @@ public class CollegeFootballConferencesInterpreter extends CollegeFootballInterp
                 if (!teams.containsKey(entry.conference)) {
                     teams.put(entry.conference, new Team(entry.conference, entry.conference, entry.coach, year));
                 }
-                teams.get(entry.conference).addGame(new Game(entry.conference, entry.opponentConference, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                if (!entry.conference.equals(entry.opponentConference)) {
+                    teams.get(entry.conference).addGame(new Game(entry.conference, entry.opponentConference, entry.location, entry.teamScore, entry.opponentScore, entry.weightedScoreDifference, entry.week, entry.date, entry.statistics));
+                }
             }
         }
 

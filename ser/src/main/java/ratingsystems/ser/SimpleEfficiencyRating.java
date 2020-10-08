@@ -166,7 +166,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
                 count++;
             }
             team.setOffensiveRating(Math.pow(offensiveEfficiency, 1.0 / games));
-            team.setDefensiveRating(1 / Math.pow(defensiveEfficiency, 1.0 / games));
+            team.setDefensiveRating(Math.pow(defensiveEfficiency, 1.0 / games));
             team.calculateRating();
         }
         ppg /= count;
@@ -275,7 +275,7 @@ public class SimpleEfficiencyRating extends RatingSystem {
     private double calculateDefensiveEfficiency(Game game) {
         double defensiveEfficiency = game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
         if (Double.isNaN(defensiveEfficiency)) return 1.0;
-        return Math.exp(defensiveEfficiency - 1);
+        return 1.0 / Math.exp(defensiveEfficiency - 1);
     }
 
     private double sigmoid(double x) {
