@@ -232,16 +232,17 @@ public class HistoricalPredictionSystem extends RatingSystem {
 //        double team2DefEff = 1.0;
         for (int year = this.year; year >= this.year - statNumRecentYears; year--) {
             if (allTeams.containsKey(year)) {
-                double recencyModifier = Math.pow(statRecencyBias, (this.year - year) * (this.week == 0 ? 1 : this.week));
+                double team1RecencyModifier = Math.pow(statRecencyBias, (this.year - year) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
+                double team2RecencyModifier = Math.pow(statRecencyBias, (this.year - year) * (this.teams.get(team2).getNumberOfGames() == 0 ? 1 : this.teams.get(team2).getNumberOfGames()));
                 if (allTeams.get(year).containsKey(team1) && allTeams.get(year).get(team1).getNumberOfGames() > 0) {
-                    team1Years.put(year, recencyModifier);
-                    team1ModifiedCount += recencyModifier;
+                    team1Years.put(year, team1RecencyModifier);
+                    team1ModifiedCount += team1RecencyModifier;
 //                    team1OffEff *= Math.pow(allTeams.get(year).get(team1).offenseEfficiency(), recencyModifier);
 //                    team1DefEff *= Math.pow(allTeams.get(year).get(team1).defenseEfficiency(), recencyModifier);
                 }
                 if (allTeams.get(year).containsKey(team2) && allTeams.get(year).get(team2).getNumberOfGames() > 0) {
-                    team2Years.put(year, recencyModifier);
-                    team2ModifiedCount += recencyModifier;
+                    team2Years.put(year, team2RecencyModifier);
+                    team2ModifiedCount += team2RecencyModifier;
 //                    team2OffEff *= Math.pow(allTeams.get(year).get(team2).offenseEfficiency(), recencyModifier);
 //                    team2DefEff *= Math.pow(allTeams.get(year).get(team2).defenseEfficiency(), recencyModifier);
                 }
@@ -317,16 +318,17 @@ public class HistoricalPredictionSystem extends RatingSystem {
         team1ModifiedCount = 0.0;
         team2ModifiedCount = 0.0;
         for (int i = 0; i < ser.length; i++) {
-            double recencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * (this.week == 0 ? 1 : this.week));
+            double team1RecencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
+            double team2RecencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * (this.teams.get(team2).getNumberOfGames() == 0 ? 1 : this.teams.get(team2).getNumberOfGames()));
             if (ser[i].hasTeam(team1) && ser[i].getTeam(team1).getNumberOfGames() > 0) {
-                team1Off += ser[i].getSERTeam(team1).getOffensiveRating() * recencyModifier;
-                team1Def += ser[i].getSERTeam(team1).getDefensiveRating() * recencyModifier;
-                team1ModifiedCount += recencyModifier;
+                team1Off += ser[i].getSERTeam(team1).getOffensiveRating() * team1RecencyModifier;
+                team1Def += ser[i].getSERTeam(team1).getDefensiveRating() * team1RecencyModifier;
+                team1ModifiedCount += team1RecencyModifier;
             }
             if (ser[i].hasTeam(team2) && ser[i].getTeam(team2).getNumberOfGames() > 0) {
-                team2Off += ser[i].getSERTeam(team2).getOffensiveRating() * recencyModifier;
-                team2Def += ser[i].getSERTeam(team2).getDefensiveRating() * recencyModifier;
-                team2ModifiedCount += recencyModifier;
+                team2Off += ser[i].getSERTeam(team2).getOffensiveRating() * team2RecencyModifier;
+                team2Def += ser[i].getSERTeam(team2).getDefensiveRating() * team2RecencyModifier;
+                team2ModifiedCount += team2RecencyModifier;
             }
         }
 
@@ -426,7 +428,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
         for (int year = this.year; year >= this.year - statNumRecentYears; year--) {
             if (allTeams.containsKey(year)) {
-                double recencyModifier = Math.pow(statRecencyBias, (this.year - year) * (this.week == 0 ? 1 : this.week));
+                double recencyModifier = Math.pow(statRecencyBias, (this.year - year) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
                 if (allTeams.get(year).containsKey(team1)) {
                     team1Years.put(year, recencyModifier);
                     team1ModifiedCount += recencyModifier;
@@ -481,7 +483,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team1Def = 0.0;
         team1ModifiedCount = 0.0;
         for (int i = 0; i < ser.length; i++) {
-            double recencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * (this.week == 0 ? 1 : this.week));
+            double recencyModifier = Math.pow(serRecencyBias, (ser.length - i - 1) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
             if (ser[i].hasTeam(team1)) {
                 team1Off += ser[i].getSERTeam(team1).getOffensiveRating() * recencyModifier;
                 team1Def += ser[i].getSERTeam(team1).getDefensiveRating() * recencyModifier;
