@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sdr" />
         <module name="api" />
         <module name="common" />
         <module name="ser" />
         <module name="rrs" />
+        <module name="ers" />
         <module name="hps" />
         <module name="rhps" />
       </profile>

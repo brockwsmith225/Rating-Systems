@@ -15,7 +15,7 @@ public class SERTeam extends CustomTeam {
     }
 
     public void calculateRating() {
-        team.setRating(this.offensiveRating * this.defensiveRating);
+        team.setRating(Math.sqrt(this.offensiveRating * this.defensiveRating));
     }
 
     public void setOffensiveRating(double offensiveRating) {

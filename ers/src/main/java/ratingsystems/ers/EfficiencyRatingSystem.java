@@ -1,4 +1,4 @@
-package ratingsystems.ser;
+package ratingsystems.ers;
 
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
@@ -7,54 +7,82 @@ import ratingsystems.common.interpreter.Location;
 import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
+import ratingsystems.ser.SimpleEfficiencyRating;
+import ratingsystems.ser.SERTeam;
 
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class SimpleEfficiencyRating extends RatingSystem {
+public class EfficiencyRatingSystem extends RatingSystem {
 
     private double ppg;
-    private Map<String, SERTeam> teams;
+    private Map<String, ERSTeam> teams;
+    private SimpleEfficiencyRating[] ser;
 
-    public SimpleEfficiencyRating() {
+    public EfficiencyRatingSystem() {
         super();
     }
 
-    public SimpleEfficiencyRating(Interpreter interpreter, int year) throws FileNotFoundException {
+    public EfficiencyRatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new SERTeam(super.teams.get(team)));
+            this.teams.put(team, new ERSTeam(super.teams.get(team)));
         }
     }
 
-    public SimpleEfficiencyRating(Interpreter interpreter, int year, int week) throws FileNotFoundException {
+    public EfficiencyRatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
         super(interpreter, year, week);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new SERTeam(super.teams.get(team)));
+            this.teams.put(team, new ERSTeam(super.teams.get(team)));
         }
     }
 
-    public SimpleEfficiencyRating(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
+    public EfficiencyRatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
         super(interpreter, years, cumulative);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new SERTeam(super.teams.get(team)));
+            this.teams.put(team, new ERSTeam(super.teams.get(team)));
         }
     }
 
-    public SimpleEfficiencyRating(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
+    public EfficiencyRatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
         super(interpreter, years, week, cumulative);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new SERTeam(super.teams.get(team)));
+            this.teams.put(team, new ERSTeam(super.teams.get(team)));
         }
     }
 
     @Override
     public void setup() {
-        ppg = 0.0;
+        int prevYears = 3;
+        try {
+            if (this.interpreter.hasData(this.year) && this.week != 0) {
+                ser = new SimpleEfficiencyRating[prevYears + 1];
+                for (int i = 0; i < ser.length - 1; i++) {
+                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
+                    this.ser[i].setup();
+                }
+                if (this.week == -1) {
+                    this.ser[ser.length - 1] = new SimpleEfficiencyRating(this.interpreter, this.year);
+                } else {
+                    this.ser[ser.length - 1] = new SimpleEfficiencyRating(this.interpreter, this.year, this.week);
+                }
+                this.ser[ser.length - 1].setup();
+            } else {
+                ser = new SimpleEfficiencyRating[prevYears];
+                for (int i = 0; i < ser.length; i++) {
+                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
+                    this.ser[i].setup();
+                }
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+        ppg = ser[ser.length - 1].getPPG();
 
         calculateEfficiencies();
 
@@ -69,13 +97,13 @@ public class SimpleEfficiencyRating extends RatingSystem {
             return new Prediction(team1, team2, 0.5);
         }
 
-        double team1OffensiveRating = teams.get(team1).getOffensiveRating();
-        double team1DefensiveRating = teams.get(team1).getDefensiveRating();
-        double team2OffensiveRating = teams.get(team2).getOffensiveRating();
-        double team2DefensiveRating = teams.get(team2).getDefensiveRating();
+        double team1OffensiveEfficiency = teams.get(team1).getOffensiveEfficiency();
+        double team1DefensiveEfficiency = teams.get(team1).getDefensiveEfficiency();
+        double team2OffensiveEfficiency = teams.get(team2).getOffensiveEfficiency();
+        double team2DefensiveEfficiency = teams.get(team2).getDefensiveEfficiency();
 
-        double team1Production = Math.sqrt(team1OffensiveRating / team2DefensiveRating);
-        double team2Production = Math.sqrt(team2OffensiveRating / team1DefensiveRating);
+        double team1Production = Math.sqrt(team1OffensiveEfficiency / team2DefensiveEfficiency);
+        double team2Production = Math.sqrt(team2OffensiveEfficiency / team1DefensiveEfficiency);
 
         double team1Score = team1Production * ppg;
         double team2Score = team2Production * ppg;
@@ -140,19 +168,8 @@ public class SimpleEfficiencyRating extends RatingSystem {
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
-    public SERTeam getSERTeam(String team) {
-        if (teams.containsKey(team)) {
-            return teams.get(team);
-        }
-        return null;
-    }
-
     public boolean hasTeam(String team) {
         return teams.containsKey(team);
-    }
-
-    public double getPPG() {
-        return ppg;
     }
 
 
@@ -163,23 +180,25 @@ public class SimpleEfficiencyRating extends RatingSystem {
      * Calculates the season efficiencies of every team
      */
     private void calculateEfficiencies() {
-        int count = 0;
-        for (SERTeam team : teams.values()) {
-            int games = 0;
+        for (String team : teams.keySet()) {
             double offensiveEfficiency = 1.0;
             double defensiveEfficiency = 1.0;
-            for (Game game : team.getGames()) {
-                games++;
-                offensiveEfficiency *= calculateOffensiveEfficiency(game);
-                defensiveEfficiency *= calculateDefensiveEfficiency(game);
-                ppg += game.getScore();
-                count++;
+            double weightedCount = 1.0;
+            for (int i = 0; i < ser.length; i++) {
+                double recencyModifier = Math.pow(0.9, (ser.length - i - 1) * (this.teams.get(team).getNumberOfGames() == 0 ? 1 : this.teams.get(team).getNumberOfGames()));
+                if (ser[i].hasTeam(team)) {
+                    offensiveEfficiency *= Math.pow(ser[i].getSERTeam(team).getOffensiveRating(), recencyModifier);
+                    defensiveEfficiency *= Math.pow(ser[i].getSERTeam(team).getDefensiveRating(), recencyModifier);
+                    weightedCount += recencyModifier;
+                }
             }
-            team.setOffensiveRating(Math.pow(offensiveEfficiency, 1.0 / games));
-            team.setDefensiveRating(Math.pow(defensiveEfficiency, 1.0 / games));
-            team.calculateRating();
+            teams.get(team).setOffensiveEfficiency(Math.pow(offensiveEfficiency, 1.0 / weightedCount));
+            teams.get(team).setDefensiveEfficiency(Math.pow(defensiveEfficiency, 1.0 / weightedCount));
+            teams.get(team).calculateEfficiency();
+            teams.get(team).setOffensiveRating(ppg * teams.get(team).getOffensiveEfficiency());
+            teams.get(team).setDefensiveRating(ppg / teams.get(team).getDefensiveEfficiency());
+            teams.get(team).calculateRating();
         }
-        ppg /= count;
     }
 
     private void calculateOtherEfficiences() {

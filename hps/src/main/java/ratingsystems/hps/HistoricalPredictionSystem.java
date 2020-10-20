@@ -345,8 +345,33 @@ public class HistoricalPredictionSystem extends RatingSystem {
         return teams.containsKey(team);
     }
 
-    public void printTeamStats() {
-
+    public String printGameStats() {
+        StringBuilder output = new StringBuilder();
+        for (String team : teams.keySet()) {
+            for (Game game : teams.get(team).getGames()) {
+                output.append(team);
+                output.append("\t");
+                output.append(game.getOpponent());
+                output.append("\t");
+                output.append(ser[3].getSERTeam(team).getOffensiveRating());
+                output.append("\t");
+                output.append(ser[3].getSERTeam(team).getDefensiveRating());
+                output.append("\t");
+                output.append(ser[3].getSERTeam(game.getOpponent()).getOffensiveRating());
+                output.append("\t");
+                output.append(ser[3].getSERTeam(game.getOpponent()).getDefensiveRating());
+                output.append("\t");
+                output.append(Math.exp(game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame() - 1));
+                output.append("\t");
+                output.append(1.0 / Math.exp(game.getOpponentScore() /teams.get(game.getOpponent()).getPointsPerGame() - 1));
+                output.append("\t");
+                output.append(Math.exp(game.getOpponentScore() / teams.get(team).getPointsAllowedPerGame() - 1));
+                output.append("\t");
+                output.append(1.0 / Math.exp(game.getScore()/ teams.get(team).getPointsPerGame() - 1));
+                output.append("\n");
+            }
+        }
+        return output.toString();
     }
 
 

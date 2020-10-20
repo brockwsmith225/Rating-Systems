@@ -22,6 +22,8 @@
         <module>hps</module>
         <module>api</module>
         <module>rhps</module>
+        <module>ers</module>
+        <module>sdr</module>
     </modules>
     
 </project>
