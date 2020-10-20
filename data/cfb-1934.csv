@@ -44,7 +44,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-11-29,Furman,Ind,,A,Clemson,Southern,Jess Neely,L,0,7
 1934-09-28,Utah,RMC,Ike Armstrong,A,Drake,MVC,Vee Green,W,6,0
 1934-10-06,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,61,6
-1934-10-13,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,43,0
+1934-10-13,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,43,0
 1934-10-20,Utah,RMC,Ike Armstrong,A,Denver,RMC,Percy Locey,W,7,0
 1934-10-27,Utah,RMC,Ike Armstrong,H,Oregon,PCC,Prink Callison,L,7,8
 1934-11-10,Utah,RMC,Ike Armstrong,A,Colorado,RMC,William Saunders,L,6,7
@@ -114,7 +114,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-10-06,Colorado College,RMC,W.T. VandeGraaff,A,Utah,RMC,Ike Armstrong,L,6,61
 1934-10-20,Colorado College,RMC,W.T. VandeGraaff,H,Northern Colorado,RMC,J.W. Hancock,L,0,21
 1934-11-03,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Percy Locey,L,0,26
-1934-11-10,Colorado College,RMC,W.T. VandeGraaff,H,Brigham Young,RMC,Ott Romney,L,19,34
+1934-11-10,Colorado College,RMC,W.T. VandeGraaff,H,BYU,RMC,Ott Romney,L,19,34
 1934-11-17,Colorado College,RMC,W.T. VandeGraaff,H,Colorado,RMC,William Saunders,L,0,31
 1934-11-24,Colorado College,RMC,W.T. VandeGraaff,N,Colorado State,RMC,Harry Hughes,L,6,40
 1934-11-29,Colorado College,RMC,W.T. VandeGraaff,A,New Mexico,BIAA,Gwinn Henry,L,6,33
@@ -171,7 +171,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-12-01,Washington State,PCC,O.E. Hollingbery,A,Detroit Mercy,Ind,Gus Dorais,L,0,6
 1934-09-22,Western State,RMC,Tefler Meade,A,Colorado Mines,RMC,George Scott,L,3,6
 1934-10-06,Western State,RMC,Tefler Meade,H,Northern Colorado,RMC,J.W. Hancock,L,0,40
-1934-10-26,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,0,46
+1934-10-26,Western State,RMC,Tefler Meade,H,BYU,RMC,Ott Romney,L,0,46
 1934-11-17,Western State,RMC,Tefler Meade,H,Northern Arizona,BIAA,Mark McIntosh,L,0,12
 1934-10-06,Illinois,Western,Robert Zuppke,A,Washington (MO),MVC,Jimmy Conzelman,W,12,7
 1934-10-13,Illinois,Western,Robert Zuppke,H,Ohio State,Western,Francis Schmidt,W,14,13
@@ -297,7 +297,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-09-29,Utah State,RMC,,A,Denver,RMC,Percy Locey,W,26,7
 1934-10-06,Utah State,RMC,,H,Montana State,RMC,Schubert Dyche,W,6,0
 1934-10-20,Utah State,RMC,,A,Wyoming,RMC,Dutch Witte,W,19,0
-1934-11-03,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,W,15,0
+1934-11-03,Utah State,RMC,,A,BYU,RMC,Ott Romney,W,15,0
 1934-11-10,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,T,21,21
 1934-11-17,Utah State,RMC,,H,Colorado Mines,RMC,George Scott,W,37,0
 1934-11-29,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,7,14
@@ -310,7 +310,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-11-17,Missouri,Big 6,Frank Carideo,H,Washington (MO),MVC,Jimmy Conzelman,L,13,40
 1934-11-24,Missouri,Big 6,Frank Carideo,A,Nebraska,Big 6,Dana Bible,L,6,13
 1934-11-29,Missouri,Big 6,Frank Carideo,H,Kansas,Big 6,Adrian Lindsey,L,0,20
-1934-09-22,Montana State,RMC,Schubert Dyche,N,Brigham Young,RMC,Ott Romney,L,6,20
+1934-09-22,Montana State,RMC,Schubert Dyche,N,BYU,RMC,Ott Romney,L,6,20
 1934-10-06,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,0,6
 1934-10-13,Montana State,RMC,Schubert Dyche,H,Wyoming,RMC,Dutch Witte,L,6,25
 1934-10-27,Montana State,RMC,Schubert Dyche,A,Northern Colorado,RMC,J.W. Hancock,L,0,19
@@ -322,7 +322,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-10-27,Denver,RMC,Percy Locey,H,Wyoming,RMC,Dutch Witte,W,9,0
 1934-11-03,Denver,RMC,Percy Locey,H,Colorado College,RMC,W.T. VandeGraaff,W,26,0
 1934-11-10,Denver,RMC,Percy Locey,H,Drake,MVC,Vee Green,W,8,7
-1934-11-17,Denver,RMC,Percy Locey,H,Brigham Young,RMC,Ott Romney,W,24,6
+1934-11-17,Denver,RMC,Percy Locey,H,BYU,RMC,Ott Romney,W,24,6
 1934-11-24,Denver,RMC,Percy Locey,H,Colorado Mines,RMC,George Scott,W,34,0
 1934-11-29,Denver,RMC,Percy Locey,H,Colorado,RMC,William Saunders,L,0,7
 1934-09-29,Washington & Jefferson,Ind,Leroy Day,A,Pitt,Ind,Jock Sutherland,L,6,26
@@ -454,20 +454,20 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-11-17,George Washington,Ind,James Pixlee,A,West Virginia,Ind,Trusty Tallman,W,10,7
 1934-12-01,George Washington,Ind,James Pixlee,H,Oklahoma,Big 6,Lewie Hardage,W,3,0
 1934-09-29,Wyoming,RMC,Dutch Witte,A,Nebraska,Big 6,Dana Bible,L,0,50
-1934-10-06,Wyoming,RMC,Dutch Witte,H,Brigham Young,RMC,Ott Romney,W,7,0
+1934-10-06,Wyoming,RMC,Dutch Witte,H,BYU,RMC,Ott Romney,W,7,0
 1934-10-13,Wyoming,RMC,Dutch Witte,A,Montana State,RMC,Schubert Dyche,W,25,6
 1934-10-20,Wyoming,RMC,Dutch Witte,H,Utah State,RMC,,L,0,19
 1934-10-27,Wyoming,RMC,Dutch Witte,A,Denver,RMC,Percy Locey,L,0,9
 1934-11-03,Wyoming,RMC,Dutch Witte,A,Colorado State,RMC,Harry Hughes,L,0,16
 1934-11-17,Wyoming,RMC,Dutch Witte,H,Northern Colorado,RMC,J.W. Hancock,L,6,9
-1934-09-22,Brigham Young,RMC,Ott Romney,N,Montana State,RMC,Schubert Dyche,W,20,6
-1934-10-06,Brigham Young,RMC,Ott Romney,A,Wyoming,RMC,Dutch Witte,L,0,7
-1934-10-13,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,43
-1934-10-20,Brigham Young,RMC,Ott Romney,N,Colorado,RMC,William Saunders,L,6,48
-1934-10-26,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,46,0
-1934-11-03,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,L,0,15
-1934-11-10,Brigham Young,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,W,34,19
-1934-11-17,Brigham Young,RMC,Ott Romney,A,Denver,RMC,Percy Locey,L,6,24
+1934-09-22,BYU,RMC,Ott Romney,N,Montana State,RMC,Schubert Dyche,W,20,6
+1934-10-06,BYU,RMC,Ott Romney,A,Wyoming,RMC,Dutch Witte,L,0,7
+1934-10-13,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,43
+1934-10-20,BYU,RMC,Ott Romney,N,Colorado,RMC,William Saunders,L,6,48
+1934-10-26,BYU,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,46,0
+1934-11-03,BYU,RMC,Ott Romney,H,Utah State,RMC,,L,0,15
+1934-11-10,BYU,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,W,34,19
+1934-11-17,BYU,RMC,Ott Romney,A,Denver,RMC,Percy Locey,L,6,24
 1934-09-28,Duquesne,Ind,Joe Bach,H,West Virginia,Ind,Trusty Tallman,L,0,7
 1934-10-12,Duquesne,Ind,Joe Bach,H,Bucknell,Ind,Hook Mylin,W,12,0
 1934-10-26,Duquesne,Ind,Joe Bach,A,Detroit Mercy,Ind,Gus Dorais,W,20,6
@@ -734,7 +734,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1934-09-29,Colorado,RMC,William Saunders,A,Kansas,Big 6,Adrian Lindsey,T,0,0
 1934-10-06,Colorado,RMC,William Saunders,H,Missouri,Big 6,Frank Carideo,T,0,0
 1934-10-12,Colorado,RMC,William Saunders,A,Northern Colorado,RMC,J.W. Hancock,L,7,13
-1934-10-20,Colorado,RMC,William Saunders,N,Brigham Young,RMC,Ott Romney,W,48,6
+1934-10-20,Colorado,RMC,William Saunders,N,BYU,RMC,Ott Romney,W,48,6
 1934-10-27,Colorado,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,W,27,9
 1934-11-03,Colorado,RMC,William Saunders,A,Colorado Mines,RMC,George Scott,W,40,6
 1934-11-10,Colorado,RMC,William Saunders,H,Utah,RMC,Ike Armstrong,W,7,6

@@ -34,7 +34,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-11-14,Indiana,Big Ten,Bill Lynch,A,Penn State,Big Ten,Joe Paterno,L,20,31,32,52,298,2,24,48,0,15,4,3,39,0,1
 2009-11-21,Indiana,Big Ten,Bill Lynch,H,Purdue,Big Ten,Danny Hope,L,21,38,23,39,266,2,36,196,1,15,8,4,20,2,2
 2009-09-07,Florida State,ACC,Bobby Bowden,H,Miami (FL),ACC,Randy Shannon,L,34,38,24,41,294,2,30,110,1,11,7,5,35,1,1
-2009-09-19,Florida State,ACC,Bobby Bowden,A,Brigham Young,MWC,Bronco Mendenhall,W,54,28,22,28,199,2,49,313,4,8,18,9,73,0,0
+2009-09-19,Florida State,ACC,Bobby Bowden,A,BYU,MWC,Bronco Mendenhall,W,54,28,22,28,199,2,49,313,4,8,18,9,73,0,0
 2009-09-26,Florida State,ACC,Bobby Bowden,H,South Florida,Big East,Jim Leavitt,L,7,17,25,37,269,0,27,19,1,11,3,7,85,4,0
 2009-10-03,Florida State,ACC,Bobby Bowden,A,Boston College,ACC,Frank Spaziani,L,21,28,29,42,340,0,29,71,2,16,6,9,79,1,0
 2009-10-10,Florida State,ACC,Bobby Bowden,H,Georgia Tech,ACC,Paul Johnson,L,44,49,26,36,359,5,30,180,1,16,10,6,65,2,0
@@ -91,7 +91,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-11-07,Utah,MWC,Kyle Whittingham,H,New Mexico,MWC,Mike Locksley,W,45,14,19,31,306,2,47,251,4,12,15,4,34,1,1
 2009-11-14,Utah,MWC,Kyle Whittingham,A,Texas Christian,MWC,Gary Patterson,L,28,55,16,32,219,1,27,65,3,7,2,14,110,1,1
 2009-11-21,Utah,MWC,Kyle Whittingham,H,San Diego State,MWC,Brady Hoke,W,38,7,15,29,202,1,42,189,3,7,13,4,36,0,0
-2009-11-28,Utah,MWC,Kyle Whittingham,A,Brigham Young,MWC,Bronco Mendenhall,L,23,26,22,45,201,0,30,97,1,8,8,12,113,0,1
+2009-11-28,Utah,MWC,Kyle Whittingham,A,BYU,MWC,Bronco Mendenhall,L,23,26,22,45,201,0,30,97,1,8,8,12,113,0,1
 2009-12-23,Utah,MWC,Kyle Whittingham,N,California,Pac-10,Jeff Tedford,W,37,27,26,37,338,3,35,51,0,13,6,5,35,0,1
 2009-09-05,Syracuse,Big East,Doug Marrone,H,Minnesota,Big Ten,Tim Brewster,L,20,23,19,31,167,1,34,90,1,6,7,8,68,1,1
 2009-09-12,Syracuse,Big East,Doug Marrone,A,Penn State,Big Ten,Joe Paterno,L,7,28,18,25,135,1,29,65,0,8,4,3,13,0,2
@@ -330,7 +330,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-11-14,Idaho,WAC,Robb Akey,A,Boise State,WAC,Chris Petersen,L,25,63,17,27,305,1,46,209,2,12,12,4,37,2,5
 2009-11-28,Idaho,WAC,Robb Akey,H,Utah State,WAC,Gary Andersen,L,49,52,23,40,395,5,36,135,2,18,7,7,80,1,1
 2009-12-30,Idaho,WAC,Robb Akey,N,Bowling Green State,MAC,Dave Clawson,W,43,42,15,28,240,4,38,212,2,11,8,9,79,0,0
-2009-09-05,Oklahoma,Big 12,Bob Stoops,N,Brigham Young,MWC,Bronco Mendenhall,L,13,14,16,26,147,1,31,118,0,6,5,12,93,2,0
+2009-09-05,Oklahoma,Big 12,Bob Stoops,N,BYU,MWC,Bronco Mendenhall,L,13,14,16,26,147,1,31,118,0,6,5,12,93,2,0
 2009-09-19,Oklahoma,Big 12,Bob Stoops,H,Tulsa,CUSA,Todd Graham,W,45,0,25,37,336,6,45,193,0,12,13,8,85,0,2
 2009-10-03,Oklahoma,Big 12,Bob Stoops,A,Miami (FL),ACC,Randy Shannon,L,20,21,18,30,188,1,42,153,1,6,11,7,79,1,0
 2009-10-10,Oklahoma,Big 12,Bob Stoops,H,Baylor,Big 12,Art Briles,W,33,7,27,49,389,1,50,197,2,19,11,7,80,0,0
@@ -440,7 +440,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-12-20,Southern Mississippi,CUSA,Larry Fedora,N,Middle Tennessee State,Sun Belt,Rick Stockstill,L,32,42,18,34,271,3,37,123,1,12,6,10,75,0,2
 2009-09-03,Utah State,WAC,Gary Andersen,A,Utah,MWC,Kyle Whittingham,L,17,35,10,26,121,0,34,221,2,4,9,5,40,0,1
 2009-09-19,Utah State,WAC,Gary Andersen,A,Texas A&M,Big 12,Mike Sherman,L,30,38,24,48,334,1,46,187,3,15,14,9,66,2,0
-2009-10-02,Utah State,WAC,Gary Andersen,A,Brigham Young,MWC,Bronco Mendenhall,L,17,35,20,30,213,1,37,109,1,11,7,6,55,1,0
+2009-10-02,Utah State,WAC,Gary Andersen,A,BYU,MWC,Bronco Mendenhall,L,17,35,20,30,213,1,37,109,1,11,7,6,55,1,0
 2009-10-10,Utah State,WAC,Gary Andersen,A,New Mexico State,WAC,DeWayne Walker,L,17,20,16,26,171,2,45,258,0,7,10,12,128,1,0
 2009-10-17,Utah State,WAC,Gary Andersen,H,Nevada,WAC,Chris Ault,L,32,35,25,42,353,3,34,74,1,13,6,6,60,1,0
 2009-10-24,Utah State,WAC,Gary Andersen,H,Louisiana Tech,WAC,Derek Dooley,W,23,21,17,32,188,1,37,157,1,9,5,5,52,0,0
@@ -537,7 +537,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-09-19,San Diego State,MWC,Brady Hoke,A,Idaho,WAC,Robb Akey,L,20,34,25,41,241,2,23,55,0,15,4,9,85,1,1
 2009-09-26,San Diego State,MWC,Brady Hoke,A,Air Force,MWC,Troy Calhoun,L,14,26,25,41,284,2,25,39,0,14,2,1,5,2,4
 2009-10-03,San Diego State,MWC,Brady Hoke,H,New Mexico State,WAC,DeWayne Walker,W,34,17,8,28,144,2,31,108,1,8,3,2,20,0,1
-2009-10-17,San Diego State,MWC,Brady Hoke,H,Brigham Young,MWC,Bronco Mendenhall,L,28,38,22,34,322,3,16,20,1,11,2,4,31,0,1
+2009-10-17,San Diego State,MWC,Brady Hoke,H,BYU,MWC,Bronco Mendenhall,L,28,38,22,34,322,3,16,20,1,11,2,4,31,0,1
 2009-10-24,San Diego State,MWC,Brady Hoke,A,Colorado State,MWC,Steve Fairchild,W,42,28,29,43,459,6,32,72,0,19,5,8,58,0,0
 2009-10-31,San Diego State,MWC,Brady Hoke,H,New Mexico,MWC,Mike Locksley,W,23,20,22,38,253,3,29,50,0,13,4,6,70,1,0
 2009-11-07,San Diego State,MWC,Brady Hoke,H,Texas Christian,MWC,Gary Patterson,L,12,55,17,37,187,1,25,92,0,9,4,5,40,2,2
@@ -636,7 +636,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-10-24,New Mexico,MWC,Mike Locksley,H,Nevada-Las Vegas,MWC,Mike Sanford,L,17,34,20,31,219,2,25,68,0,13,4,9,73,2,0
 2009-10-31,New Mexico,MWC,Mike Locksley,A,San Diego State,MWC,Brady Hoke,L,20,23,27,52,277,1,37,109,1,14,9,6,58,0,0
 2009-11-07,New Mexico,MWC,Mike Locksley,A,Utah,MWC,Kyle Whittingham,L,14,45,21,42,252,2,29,82,0,10,4,9,81,0,2
-2009-11-14,New Mexico,MWC,Mike Locksley,H,Brigham Young,MWC,Bronco Mendenhall,L,19,24,28,45,272,2,36,88,1,16,4,4,29,0,0
+2009-11-14,New Mexico,MWC,Mike Locksley,H,BYU,MWC,Bronco Mendenhall,L,19,24,28,45,272,2,36,88,1,16,4,4,29,0,0
 2009-11-21,New Mexico,MWC,Mike Locksley,H,Colorado State,MWC,Steve Fairchild,W,29,27,22,38,197,2,35,270,1,11,15,1,5,0,2
 2009-11-28,New Mexico,MWC,Mike Locksley,A,Texas Christian,MWC,Gary Patterson,L,10,51,20,45,162,0,29,10,1,8,4,9,94,1,4
 2009-09-05,Notre Dame,Ind,Charlie Weis,H,Nevada,WAC,Chris Ault,W,35,0,17,20,332,4,41,178,1,11,8,3,35,0,0
@@ -754,24 +754,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-10-10,Wyoming,MWC,Dave Christensen,H,New Mexico,MWC,Mike Locksley,W,37,13,15,31,232,3,43,179,2,8,10,5,43,0,0
 2009-10-17,Wyoming,MWC,Dave Christensen,A,Air Force,MWC,Troy Calhoun,L,0,10,14,31,74,0,35,100,0,4,9,10,71,0,1
 2009-10-31,Wyoming,MWC,Dave Christensen,A,Utah,MWC,Kyle Whittingham,L,10,22,20,31,151,1,25,51,0,7,3,7,44,0,1
-2009-11-07,Wyoming,MWC,Dave Christensen,H,Brigham Young,MWC,Bronco Mendenhall,L,0,52,15,27,113,0,32,112,0,7,6,5,46,1,2
+2009-11-07,Wyoming,MWC,Dave Christensen,H,BYU,MWC,Bronco Mendenhall,L,0,52,15,27,113,0,32,112,0,7,6,5,46,1,2
 2009-11-14,Wyoming,MWC,Dave Christensen,A,San Diego State,MWC,Brady Hoke,W,30,27,16,22,246,1,47,200,2,10,10,6,65,1,0
 2009-11-21,Wyoming,MWC,Dave Christensen,H,Texas Christian,MWC,Gary Patterson,L,10,45,6,19,94,0,36,84,0,3,2,5,50,1,1
 2009-11-27,Wyoming,MWC,Dave Christensen,A,Colorado State,MWC,Steve Fairchild,W,17,16,13,21,137,0,33,96,2,6,7,4,55,0,0
 2009-12-19,Wyoming,MWC,Dave Christensen,N,Fresno State,WAC,Pat Hill,W,35,28,18,33,204,3,50,234,1,11,14,3,19,0,1
-2009-09-05,Brigham Young,MWC,Bronco Mendenhall,N,Oklahoma,Big 12,Bob Stoops,W,14,13,26,38,329,2,33,28,0,10,6,10,87,2,2
-2009-09-12,Brigham Young,MWC,Bronco Mendenhall,A,Tulane,CUSA,Bob Toledo,W,54,3,26,34,321,2,45,206,4,20,12,5,47,0,1
-2009-09-19,Brigham Young,MWC,Bronco Mendenhall,H,Florida State,ACC,Bobby Bowden,L,28,54,23,34,367,3,19,108,1,14,4,3,25,2,3
-2009-09-26,Brigham Young,MWC,Bronco Mendenhall,H,Colorado State,MWC,Steve Fairchild,W,42,23,18,29,241,2,34,132,4,11,7,10,117,0,2
-2009-10-02,Brigham Young,MWC,Bronco Mendenhall,H,Utah State,WAC,Gary Andersen,W,35,17,16,23,218,3,43,213,2,10,12,8,54,1,2
-2009-10-10,Brigham Young,MWC,Bronco Mendenhall,A,Nevada-Las Vegas,MWC,Mike Sanford,W,59,21,21,27,320,2,43,291,6,15,11,6,50,0,0
-2009-10-17,Brigham Young,MWC,Bronco Mendenhall,A,San Diego State,MWC,Brady Hoke,W,38,28,27,39,346,3,52,166,2,15,11,8,77,0,0
-2009-10-24,Brigham Young,MWC,Bronco Mendenhall,H,Texas Christian,MWC,Gary Patterson,L,7,38,20,33,188,1,37,110,0,9,8,9,85,1,1
-2009-11-07,Brigham Young,MWC,Bronco Mendenhall,A,Wyoming,MWC,Dave Christensen,W,52,0,20,22,312,4,45,231,3,16,12,5,50,0,0
-2009-11-14,Brigham Young,MWC,Bronco Mendenhall,A,New Mexico,MWC,Mike Locksley,W,24,19,21,33,314,2,23,41,1,14,2,6,66,1,1
-2009-11-21,Brigham Young,MWC,Bronco Mendenhall,H,Air Force,MWC,Troy Calhoun,W,38,21,33,45,377,5,25,121,0,19,7,7,75,1,2
-2009-11-28,Brigham Young,MWC,Bronco Mendenhall,H,Utah,MWC,Kyle Whittingham,W,26,23,12,32,134,2,36,131,1,7,5,7,60,0,0
-2009-12-22,Brigham Young,MWC,Bronco Mendenhall,N,Oregon State,Pac-10,Mike Riley,W,44,20,19,30,192,3,35,116,2,9,6,10,74,2,0
+2009-09-05,BYU,MWC,Bronco Mendenhall,N,Oklahoma,Big 12,Bob Stoops,W,14,13,26,38,329,2,33,28,0,10,6,10,87,2,2
+2009-09-12,BYU,MWC,Bronco Mendenhall,A,Tulane,CUSA,Bob Toledo,W,54,3,26,34,321,2,45,206,4,20,12,5,47,0,1
+2009-09-19,BYU,MWC,Bronco Mendenhall,H,Florida State,ACC,Bobby Bowden,L,28,54,23,34,367,3,19,108,1,14,4,3,25,2,3
+2009-09-26,BYU,MWC,Bronco Mendenhall,H,Colorado State,MWC,Steve Fairchild,W,42,23,18,29,241,2,34,132,4,11,7,10,117,0,2
+2009-10-02,BYU,MWC,Bronco Mendenhall,H,Utah State,WAC,Gary Andersen,W,35,17,16,23,218,3,43,213,2,10,12,8,54,1,2
+2009-10-10,BYU,MWC,Bronco Mendenhall,A,Nevada-Las Vegas,MWC,Mike Sanford,W,59,21,21,27,320,2,43,291,6,15,11,6,50,0,0
+2009-10-17,BYU,MWC,Bronco Mendenhall,A,San Diego State,MWC,Brady Hoke,W,38,28,27,39,346,3,52,166,2,15,11,8,77,0,0
+2009-10-24,BYU,MWC,Bronco Mendenhall,H,Texas Christian,MWC,Gary Patterson,L,7,38,20,33,188,1,37,110,0,9,8,9,85,1,1
+2009-11-07,BYU,MWC,Bronco Mendenhall,A,Wyoming,MWC,Dave Christensen,W,52,0,20,22,312,4,45,231,3,16,12,5,50,0,0
+2009-11-14,BYU,MWC,Bronco Mendenhall,A,New Mexico,MWC,Mike Locksley,W,24,19,21,33,314,2,23,41,1,14,2,6,66,1,1
+2009-11-21,BYU,MWC,Bronco Mendenhall,H,Air Force,MWC,Troy Calhoun,W,38,21,33,45,377,5,25,121,0,19,7,7,75,1,2
+2009-11-28,BYU,MWC,Bronco Mendenhall,H,Utah,MWC,Kyle Whittingham,W,26,23,12,32,134,2,36,131,1,7,5,7,60,0,0
+2009-12-22,BYU,MWC,Bronco Mendenhall,N,Oregon State,Pac-10,Mike Riley,W,44,20,19,30,192,3,35,116,2,9,6,10,74,2,0
 2009-09-05,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Nebraska,Big 12,Bo Pelini,L,3,49,20,41,236,0,35,132,0,11,9,11,67,1,2
 2009-09-19,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,South Carolina,SEC,Steve Spurrier,L,16,38,22,38,211,2,35,96,0,12,7,3,30,2,1
 2009-09-26,Florida Atlantic,Sun Belt,Howard Schnellenberger,H,Louisiana-Monroe,Sun Belt,Charlie Weatherbie,L,25,27,30,50,347,2,34,142,1,16,8,10,84,1,0
@@ -834,7 +834,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-09-19,Nevada-Las Vegas,MWC,Mike Sanford,H,Hawaii,WAC,Greg McMackin,W,34,33,28,43,340,3,35,120,2,18,9,6,60,0,2
 2009-09-26,Nevada-Las Vegas,MWC,Mike Sanford,A,Wyoming,MWC,Dave Christensen,L,27,30,26,45,260,1,32,126,2,12,10,4,40,2,2
 2009-10-03,Nevada-Las Vegas,MWC,Mike Sanford,A,Nevada,WAC,Chris Ault,L,28,63,26,50,276,1,27,70,3,15,3,9,87,1,0
-2009-10-10,Nevada-Las Vegas,MWC,Mike Sanford,H,Brigham Young,MWC,Bronco Mendenhall,L,21,59,25,41,292,2,19,45,0,12,4,6,35,0,3
+2009-10-10,Nevada-Las Vegas,MWC,Mike Sanford,H,BYU,MWC,Bronco Mendenhall,L,21,59,25,41,292,2,19,45,0,12,4,6,35,0,3
 2009-10-17,Nevada-Las Vegas,MWC,Mike Sanford,H,Utah,MWC,Kyle Whittingham,L,15,35,25,47,236,1,33,91,0,11,7,6,45,0,2
 2009-10-24,Nevada-Las Vegas,MWC,Mike Sanford,A,New Mexico,MWC,Mike Locksley,W,34,17,23,34,213,2,44,210,2,14,12,3,25,0,0
 2009-10-31,Nevada-Las Vegas,MWC,Mike Sanford,A,Texas Christian,MWC,Gary Patterson,L,0,41,9,23,42,0,29,118,0,1,5,3,23,1,1
@@ -1044,7 +1044,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-10-03,Texas Christian,MWC,Gary Patterson,H,SMU,CUSA,June Jones,W,39,14,12,20,189,2,53,229,3,6,12,4,30,2,1
 2009-10-10,Texas Christian,MWC,Gary Patterson,A,Air Force,MWC,Troy Calhoun,W,20,17,16,28,198,0,52,195,2,10,13,4,28,2,1
 2009-10-17,Texas Christian,MWC,Gary Patterson,H,Colorado State,MWC,Steve Fairchild,W,44,6,16,24,224,2,46,275,3,13,13,6,60,1,0
-2009-10-24,Texas Christian,MWC,Gary Patterson,A,Brigham Young,MWC,Bronco Mendenhall,W,38,7,14,25,285,3,37,127,2,11,7,5,45,0,0
+2009-10-24,Texas Christian,MWC,Gary Patterson,A,BYU,MWC,Bronco Mendenhall,W,38,7,14,25,285,3,37,127,2,11,7,5,45,0,0
 2009-10-31,Texas Christian,MWC,Gary Patterson,H,Nevada-Las Vegas,MWC,Mike Sanford,W,41,0,13,22,188,4,48,390,1,7,18,6,89,2,0
 2009-11-07,Texas Christian,MWC,Gary Patterson,A,San Diego State,MWC,Brady Hoke,W,55,12,14,20,239,2,53,312,5,12,16,5,65,0,0
 2009-11-14,Texas Christian,MWC,Gary Patterson,H,Utah,MWC,Kyle Whittingham,W,55,28,17,29,207,1,51,342,5,10,17,5,45,1,1
@@ -1061,7 +1061,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-10-31,Air Force,MWC,Troy Calhoun,A,Colorado State,MWC,Steve Fairchild,W,34,16,7,12,111,2,59,271,2,5,18,3,50,1,0
 2009-11-07,Air Force,MWC,Troy Calhoun,H,Army,Ind,Rich Ellerson,W,35,7,4,7,131,1,51,160,3,3,10,2,25,0,0
 2009-11-14,Air Force,MWC,Troy Calhoun,H,Nevada-Las Vegas,MWC,Mike Sanford,W,45,17,8,13,126,0,71,431,6,5,24,4,30,1,0
-2009-11-21,Air Force,MWC,Troy Calhoun,A,Brigham Young,MWC,Bronco Mendenhall,L,21,38,5,22,88,1,56,212,2,4,13,2,25,2,2
+2009-11-21,Air Force,MWC,Troy Calhoun,A,BYU,MWC,Bronco Mendenhall,L,21,38,5,22,88,1,56,212,2,4,13,2,25,2,2
 2009-12-31,Air Force,MWC,Troy Calhoun,N,Houston,CUSA,Kevin Sumlin,W,47,20,10,14,161,0,72,402,5,8,18,5,50,1,0
 2009-09-07,Miami (FL),ACC,Randy Shannon,A,Florida State,ACC,Bobby Bowden,W,38,34,21,34,386,2,30,90,3,16,5,9,74,0,2
 2009-09-17,Miami (FL),ACC,Randy Shannon,H,Georgia Tech,ACC,Paul Johnson,W,33,17,20,25,270,3,39,184,1,13,8,9,74,0,0
@@ -1112,7 +1112,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-11-14,Oregon State,Pac-10,Mike Riley,H,Washington,Pac-10,Steve Sarkisian,W,48,21,22,31,194,4,37,178,2,10,8,3,15,1,0
 2009-11-21,Oregon State,Pac-10,Mike Riley,A,Washington State,Pac-10,Paul Wulff,W,42,10,26,37,284,2,39,283,4,18,12,13,107,0,1
 2009-12-03,Oregon State,Pac-10,Mike Riley,A,Oregon,Pac-10,Chip Kelly,L,33,37,24,36,306,2,25,83,1,12,4,10,65,0,0
-2009-12-22,Oregon State,Pac-10,Mike Riley,N,Brigham Young,MWC,Bronco Mendenhall,L,20,44,22,47,217,1,27,88,2,11,5,10,95,2,1
+2009-12-22,Oregon State,Pac-10,Mike Riley,N,BYU,MWC,Bronco Mendenhall,L,20,44,22,47,217,1,27,88,2,11,5,10,95,2,1
 2009-09-05,Alabama,SEC,Nick Saban,N,Virginia Tech,ACC,Frank Beamer,W,34,24,15,30,230,1,49,268,2,11,9,10,83,1,1
 2009-09-12,Alabama,SEC,Nick Saban,H,Florida International,Sun Belt,Mario Cristobal,W,40,14,18,24,241,1,42,275,4,12,14,7,65,0,0
 2009-09-19,Alabama,SEC,Nick Saban,H,North Texas,Sun Belt,Todd Dodge,W,53,7,22,28,263,2,45,260,5,12,15,2,15,1,0
@@ -1190,7 +1190,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-11-27,Colorado,Big 12,Dan Hawkins,H,Nebraska,Big 12,Bo Pelini,L,20,28,21,44,269,3,28,134,0,9,8,7,34,0,3
 2009-09-06,Colorado State,MWC,Steve Fairchild,A,Colorado,Big 12,Dan Hawkins,W,23,17,10,17,208,1,45,168,1,5,8,6,71,0,2
 2009-09-19,Colorado State,MWC,Steve Fairchild,H,Nevada,WAC,Chris Ault,W,35,20,11,21,190,3,40,179,2,8,12,4,36,0,0
-2009-09-26,Colorado State,MWC,Steve Fairchild,A,Brigham Young,MWC,Bronco Mendenhall,L,23,42,31,51,372,2,28,66,1,20,4,6,52,0,2
+2009-09-26,Colorado State,MWC,Steve Fairchild,A,BYU,MWC,Bronco Mendenhall,L,23,42,31,51,372,2,28,66,1,20,4,6,52,0,2
 2009-10-03,Colorado State,MWC,Steve Fairchild,A,Idaho,WAC,Robb Akey,L,29,31,19,35,297,4,32,139,0,15,6,7,39,0,1
 2009-10-10,Colorado State,MWC,Steve Fairchild,H,Utah,MWC,Kyle Whittingham,L,17,24,12,24,184,1,31,150,1,9,7,3,15,0,3
 2009-10-17,Colorado State,MWC,Steve Fairchild,A,Texas Christian,MWC,Gary Patterson,L,6,44,10,20,112,0,35,70,0,5,3,4,50,1,0
@@ -1366,7 +1366,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2009-11-28,Texas Tech,Big 12,Ruffin McNeill,N,Baylor,Big 12,Art Briles,W,20,13,31,49,269,2,28,100,0,16,4,3,20,1,1
 2010-01-02,Texas Tech,Big 12,Ruffin McNeill,N,Michigan State,Big Ten,Mark Dantonio,W,41,31,38,54,460,3,31,119,2,20,11,9,60,1,1
 2009-09-04,Tulane,CUSA,Bob Toledo,H,Tulsa,CUSA,Todd Graham,L,13,37,19,32,325,1,34,39,0,13,3,4,30,0,2
-2009-09-12,Tulane,CUSA,Bob Toledo,H,Brigham Young,MWC,Bronco Mendenhall,L,3,54,20,28,125,0,24,37,0,5,4,10,102,2,2
+2009-09-12,Tulane,CUSA,Bob Toledo,H,BYU,MWC,Bronco Mendenhall,L,3,54,20,28,125,0,24,37,0,5,4,10,102,2,2
 2009-10-03,Tulane,CUSA,Bob Toledo,A,Army,Ind,Rich Ellerson,W,17,16,14,24,166,1,31,120,1,5,8,5,55,1,0
 2009-10-10,Tulane,CUSA,Bob Toledo,H,Marshall,CUSA,Mark Snyder,L,10,31,23,41,215,0,39,189,1,11,10,2,10,2,2
 2009-10-17,Tulane,CUSA,Bob Toledo,H,Houston,CUSA,Kevin Sumlin,L,16,44,22,34,250,1,43,187,0,11,13,7,52,0,1

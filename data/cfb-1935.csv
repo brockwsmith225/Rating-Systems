@@ -34,7 +34,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-11-02,Arizona State,BIAA,Rudy Lavik,A,New Mexico,BIAA,Gwinn Henry,L,0,13
 1935-11-09,Arizona State,BIAA,Rudy Lavik,A,Northern Arizona,BIAA,Mark McIntosh,W,6,0
 1935-11-16,Arizona State,BIAA,Rudy Lavik,H,Northern Arizona,BIAA,Mark McIntosh,T,0,0
-1935-11-23,Arizona State,BIAA,Rudy Lavik,H,Brigham Young,RMC,Ott Romney,L,0,13
+1935-11-23,Arizona State,BIAA,Rudy Lavik,H,BYU,RMC,Ott Romney,L,0,13
 1935-10-05,Furman,Ind,,H,Presbyterian,Ind,Walter Johnson,W,23,0
 1935-10-12,Furman,Ind,,A,Georgia,SEC,Harry Mehre,L,7,31
 1935-10-18,Furman,Ind,,N,Wake Forest,Ind,Jim Weaver,W,9,0
@@ -45,11 +45,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-10-05,Utah,RMC,Ike Armstrong,A,Oregon,PCC,Prink Callison,L,0,6
 1935-10-12,Utah,RMC,Ike Armstrong,H,Montana State,RMC,Schubert Dyche,W,47,0
 1935-10-26,Utah,RMC,Ike Armstrong,H,Denver,RMC,Percy Locey,W,39,14
-1935-11-02,Utah,RMC,Ike Armstrong,A,Brigham Young,RMC,Ott Romney,W,32,0
+1935-11-02,Utah,RMC,Ike Armstrong,A,BYU,RMC,Ott Romney,W,32,0
 1935-11-09,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Bunny Oakes,L,0,14
 1935-11-16,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,14,0
 1935-11-28,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,T,14,14
-1935-10-12,Northern Colorado,RMC,J.W. Hancock,A,Brigham Young,RMC,Ott Romney,L,3,19
+1935-10-12,Northern Colorado,RMC,J.W. Hancock,A,BYU,RMC,Ott Romney,L,3,19
 1935-10-26,Northern Colorado,RMC,J.W. Hancock,H,Western State,RMC,Paul Wright,W,17,7
 1935-11-23,Northern Colorado,RMC,J.W. Hancock,H,Montana State,RMC,Schubert Dyche,W,6,0
 1935-10-12,Villanova,Ind,Harry Stuhldreher,H,Bucknell,Ind,Hook Mylin,W,25,0
@@ -110,7 +110,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-09-27,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Percy Locey,L,0,19
 1935-10-05,Colorado College,RMC,W.T. VandeGraaff,H,Western State,RMC,Paul Wright,W,13,6
 1935-10-12,Colorado College,RMC,W.T. VandeGraaff,H,New Mexico,BIAA,Gwinn Henry,L,0,13
-1935-10-19,Colorado College,RMC,W.T. VandeGraaff,A,Brigham Young,RMC,Ott Romney,W,13,12
+1935-10-19,Colorado College,RMC,W.T. VandeGraaff,A,BYU,RMC,Ott Romney,W,13,12
 1935-11-02,Colorado College,RMC,W.T. VandeGraaff,A,Colorado,RMC,Bunny Oakes,L,0,23
 1935-11-11,Colorado College,RMC,W.T. VandeGraaff,A,Colorado Mines,RMC,George Scott,W,20,0
 1935-11-16,Colorado College,RMC,W.T. VandeGraaff,H,Montana State,RMC,Schubert Dyche,W,14,0
@@ -178,7 +178,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-10-05,Western State,RMC,Paul Wright,A,Colorado College,RMC,W.T. VandeGraaff,L,6,13
 1935-10-12,Western State,RMC,Paul Wright,A,Northern Arizona,BIAA,Mark McIntosh,L,12,23
 1935-10-26,Western State,RMC,Paul Wright,A,Northern Colorado,RMC,J.W. Hancock,L,7,17
-1935-11-09,Western State,RMC,Paul Wright,H,Brigham Young,RMC,Ott Romney,L,2,21
+1935-11-09,Western State,RMC,Paul Wright,H,BYU,RMC,Ott Romney,L,2,21
 1935-11-16,Western State,RMC,Paul Wright,A,Colorado Mines,RMC,George Scott,L,0,20
 1935-10-05,Illinois,Western,Robert Zuppke,H,Washington (MO),MVC,Jimmy Conzelman,W,28,6
 1935-10-12,Illinois,Western,Robert Zuppke,A,USC,PCC,Howard Jones,W,19,0
@@ -311,7 +311,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-10-26,Utah State,RMC,,H,Colorado Mines,RMC,George Scott,W,53,0
 1935-11-02,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,W,13,0
 1935-11-09,Utah State,RMC,,H,Wyoming,RMC,Dutch Witte,W,18,0
-1935-11-16,Utah State,RMC,,H,Brigham Young,RMC,Ott Romney,W,27,0
+1935-11-16,Utah State,RMC,,H,BYU,RMC,Ott Romney,W,27,0
 1935-11-28,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,T,14,14
 1935-10-12,Missouri,Big 6,Don Faurot,H,Colorado,RMC,Bunny Oakes,W,20,6
 1935-10-26,Missouri,Big 6,Don Faurot,A,Iowa State,Big 6,George Veenker,T,6,6
@@ -321,7 +321,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-11-23,Missouri,Big 6,Don Faurot,H,Kansas State,Big 6,Wesley Fry,T,7,7
 1935-11-28,Missouri,Big 6,Don Faurot,A,Kansas,Big 6,Adrian Lindsey,T,0,0
 1935-09-21,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,7,33
-1935-09-28,Montana State,RMC,Schubert Dyche,H,Brigham Young,RMC,Ott Romney,W,7,0
+1935-09-28,Montana State,RMC,Schubert Dyche,H,BYU,RMC,Ott Romney,W,7,0
 1935-10-05,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Doug Fessenden,L,0,20
 1935-10-12,Montana State,RMC,Schubert Dyche,A,Utah,RMC,Ike Armstrong,L,0,47
 1935-11-02,Montana State,RMC,Schubert Dyche,H,Wyoming,RMC,Dutch Witte,L,2,6
@@ -461,18 +461,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1935-09-28,Wyoming,RMC,Dutch Witte,H,Colorado State,RMC,Harry Hughes,L,3,12
 1935-10-05,Wyoming,RMC,Dutch Witte,H,Colorado Mines,RMC,George Scott,W,40,0
 1935-10-11,Wyoming,RMC,Dutch Witte,A,Denver,RMC,Percy Locey,L,0,14
-1935-10-26,Wyoming,RMC,Dutch Witte,H,Brigham Young,RMC,Ott Romney,L,6,13
+1935-10-26,Wyoming,RMC,Dutch Witte,H,BYU,RMC,Ott Romney,L,6,13
 1935-11-02,Wyoming,RMC,Dutch Witte,A,Montana State,RMC,Schubert Dyche,W,6,2
 1935-11-09,Wyoming,RMC,Dutch Witte,A,Utah State,RMC,,L,0,18
 1935-11-23,Wyoming,RMC,Dutch Witte,A,Colorado,RMC,Bunny Oakes,W,6,0
-1935-09-28,Brigham Young,RMC,Ott Romney,A,Montana State,RMC,Schubert Dyche,L,0,7
-1935-10-12,Brigham Young,RMC,Ott Romney,H,Northern Colorado,RMC,J.W. Hancock,W,19,3
-1935-10-19,Brigham Young,RMC,Ott Romney,H,Colorado College,RMC,W.T. VandeGraaff,L,12,13
-1935-10-26,Brigham Young,RMC,Ott Romney,A,Wyoming,RMC,Dutch Witte,W,13,6
-1935-11-02,Brigham Young,RMC,Ott Romney,H,Utah,RMC,Ike Armstrong,L,0,32
-1935-11-09,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Paul Wright,W,21,2
-1935-11-16,Brigham Young,RMC,Ott Romney,A,Utah State,RMC,,L,0,27
-1935-11-23,Brigham Young,RMC,Ott Romney,A,Arizona State,BIAA,Rudy Lavik,W,13,0
+1935-09-28,BYU,RMC,Ott Romney,A,Montana State,RMC,Schubert Dyche,L,0,7
+1935-10-12,BYU,RMC,Ott Romney,H,Northern Colorado,RMC,J.W. Hancock,W,19,3
+1935-10-19,BYU,RMC,Ott Romney,H,Colorado College,RMC,W.T. VandeGraaff,L,12,13
+1935-10-26,BYU,RMC,Ott Romney,A,Wyoming,RMC,Dutch Witte,W,13,6
+1935-11-02,BYU,RMC,Ott Romney,H,Utah,RMC,Ike Armstrong,L,0,32
+1935-11-09,BYU,RMC,Ott Romney,A,Western State,RMC,Paul Wright,W,21,2
+1935-11-16,BYU,RMC,Ott Romney,A,Utah State,RMC,,L,0,27
+1935-11-23,BYU,RMC,Ott Romney,A,Arizona State,BIAA,Rudy Lavik,W,13,0
 1935-09-27,Duquesne,Ind,,H,Kansas State,Big 6,Wesley Fry,L,0,12
 1935-10-05,Duquesne,Ind,,A,Rice,SWC,Jimmy Kitts,L,7,27
 1935-10-18,Duquesne,Ind,,H,Washington (MO),MVC,Jimmy Conzelman,W,13,6

@@ -38,7 +38,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-10-30,Arizona State,BIAA,Edward Doherty,A,Arizona,BIAA,Miles Casteel,L,21,33
 1948-11-05,Arizona State,BIAA,Edward Doherty,A,New Mexico State,BIAA,Vaughn Corley,W,52,7
 1948-11-20,Arizona State,BIAA,Edward Doherty,A,Hardin-Simmons,BIAA,Warren Woodson,L,25,63
-1948-11-26,Arizona State,BIAA,Edward Doherty,H,Brigham Young,Skyline,Edwin Kimball,L,25,27
+1948-11-26,Arizona State,BIAA,Edward Doherty,H,BYU,Skyline,Edwin Kimball,L,25,27
 1948-12-14,Arizona State,BIAA,Edward Doherty,H,New Mexico,BIAA,Berl Huffman,W,28,17
 1948-09-25,Furman,Southern,H.E. Smith,A,Washington & Lee,Southern,Art Lewis,W,10,7
 1948-10-01,Furman,Southern,H.E. Smith,H,South Carolina,Southern,Rex Enright,L,0,7
@@ -51,7 +51,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-09-17,Utah,Skyline,Ike Armstrong,A,USC,PCC,Jeff Cravath,L,0,27
 1948-09-25,Utah,Skyline,Ike Armstrong,H,Idaho,PCC,Dixie Howell,W,21,6
 1948-10-02,Utah,Skyline,Ike Armstrong,H,Arizona,BIAA,Miles Casteel,W,47,14
-1948-10-09,Utah,Skyline,Ike Armstrong,A,Brigham Young,Skyline,Edwin Kimball,W,30,0
+1948-10-09,Utah,Skyline,Ike Armstrong,A,BYU,Skyline,Edwin Kimball,W,30,0
 1948-10-16,Utah,Skyline,Ike Armstrong,A,Denver,Skyline,John Baker,W,17,0
 1948-10-23,Utah,Skyline,Ike Armstrong,H,Wyoming,Skyline,Bowden Wyatt,W,19,7
 1948-10-30,Utah,Skyline,Ike Armstrong,H,Colorado,Big 7,Dallas Ward,W,14,12
@@ -113,7 +113,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-09-25,Montana,PCC,Doug Fessenden,H,Utah State,Skyline,E. Lowell Romney,L,7,18
 1948-10-09,Montana,PCC,Doug Fessenden,H,Washington State,PCC,Phil Sarboe,L,0,48
 1948-10-23,Montana,PCC,Doug Fessenden,A,Idaho,PCC,Dixie Howell,L,0,39
-1948-10-30,Montana,PCC,Doug Fessenden,A,Brigham Young,Skyline,Edwin Kimball,L,20,26
+1948-10-30,Montana,PCC,Doug Fessenden,A,BYU,Skyline,Edwin Kimball,L,20,26
 1948-11-13,Montana,PCC,Doug Fessenden,A,Stanford,PCC,Marchy Schwartz,L,7,39
 1948-10-08,Penn State,Ind,Bob Higgins,A,Syracuse,Ind,Reaves Baysinger,W,34,14
 1948-10-16,Penn State,Ind,Bob Higgins,H,West Virginia,Ind,Dudley DeGroot,W,37,7
@@ -346,7 +346,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-10-02,Utah State,Skyline,E. Lowell Romney,H,Colorado State,Skyline,Robert Davis,L,7,9
 1948-10-09,Utah State,Skyline,E. Lowell Romney,H,Arizona State,BIAA,Edward Doherty,W,22,17
 1948-10-16,Utah State,Skyline,E. Lowell Romney,A,Wichita State,MVC,Jim Trimble,L,7,20
-1948-10-23,Utah State,Skyline,E. Lowell Romney,H,Brigham Young,Skyline,Edwin Kimball,W,20,7
+1948-10-23,Utah State,Skyline,E. Lowell Romney,H,BYU,Skyline,Edwin Kimball,W,20,7
 1948-10-30,Utah State,Skyline,E. Lowell Romney,H,Wyoming,Skyline,Bowden Wyatt,W,45,34
 1948-11-06,Utah State,Skyline,E. Lowell Romney,A,Colorado,Big 7,Dallas Ward,L,14,28
 1948-11-13,Utah State,Skyline,E. Lowell Romney,A,Denver,Skyline,John Baker,L,6,41
@@ -495,15 +495,15 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-10-16,Wyoming,Skyline,Bowden Wyatt,H,Colorado State,Skyline,Robert Davis,L,20,21
 1948-10-23,Wyoming,Skyline,Bowden Wyatt,A,Utah,Skyline,Ike Armstrong,L,7,19
 1948-10-30,Wyoming,Skyline,Bowden Wyatt,A,Utah State,Skyline,E. Lowell Romney,L,34,45
-1948-11-20,Wyoming,Skyline,Bowden Wyatt,A,Brigham Young,Skyline,Edwin Kimball,L,14,15
+1948-11-20,Wyoming,Skyline,Bowden Wyatt,A,BYU,Skyline,Edwin Kimball,L,14,15
 1948-11-27,Wyoming,Skyline,Bowden Wyatt,A,Denver,Skyline,John Baker,L,0,13
-1948-10-09,Brigham Young,Skyline,Edwin Kimball,H,Utah,Skyline,Ike Armstrong,L,0,30
-1948-10-15,Brigham Young,Skyline,Edwin Kimball,A,UTEP,BIAA,Jack Curtice,L,20,34
-1948-10-23,Brigham Young,Skyline,Edwin Kimball,A,Utah State,Skyline,E. Lowell Romney,L,7,20
-1948-10-30,Brigham Young,Skyline,Edwin Kimball,H,Montana,PCC,Doug Fessenden,W,26,20
-1948-11-15,Brigham Young,Skyline,Edwin Kimball,A,Colorado State,Skyline,Robert Davis,L,0,20
-1948-11-20,Brigham Young,Skyline,Edwin Kimball,H,Wyoming,Skyline,Bowden Wyatt,W,15,14
-1948-11-26,Brigham Young,Skyline,Edwin Kimball,A,Arizona State,BIAA,Edward Doherty,W,27,25
+1948-10-09,BYU,Skyline,Edwin Kimball,H,Utah,Skyline,Ike Armstrong,L,0,30
+1948-10-15,BYU,Skyline,Edwin Kimball,A,UTEP,BIAA,Jack Curtice,L,20,34
+1948-10-23,BYU,Skyline,Edwin Kimball,A,Utah State,Skyline,E. Lowell Romney,L,7,20
+1948-10-30,BYU,Skyline,Edwin Kimball,H,Montana,PCC,Doug Fessenden,W,26,20
+1948-11-15,BYU,Skyline,Edwin Kimball,A,Colorado State,Skyline,Robert Davis,L,0,20
+1948-11-20,BYU,Skyline,Edwin Kimball,H,Wyoming,Skyline,Bowden Wyatt,W,15,14
+1948-11-26,BYU,Skyline,Edwin Kimball,A,Arizona State,BIAA,Edward Doherty,W,27,25
 1948-10-01,Duquesne,Ind,Kass Kovalcheck,A,Villanova,Ind,Jordan Olivar,L,0,46
 1948-10-08,Duquesne,Ind,Kass Kovalcheck,A,Alabama,SEC,Red Drew,L,6,48
 1948-10-16,Duquesne,Ind,Kass Kovalcheck,H,Wake Forest,Southern,D.C. Walker,L,15,41
@@ -647,7 +647,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-11-27,William & Mary,Southern,Rube McCray,A,Arkansas,SWC,John Barnhill,W,9,0
 1949-01-01,William & Mary,Southern,Rube McCray,N,Oklahoma State,MVC,Jim Lookabaugh,W,20,0
 1948-10-09,UTEP,BIAA,Jack Curtice,H,West Texas A&M,BIAA,Frank Kimbrough,W,21,7
-1948-10-15,UTEP,BIAA,Jack Curtice,H,Brigham Young,Skyline,Edwin Kimball,W,34,20
+1948-10-15,UTEP,BIAA,Jack Curtice,H,BYU,Skyline,Edwin Kimball,W,34,20
 1948-10-23,UTEP,BIAA,Jack Curtice,A,New Mexico,BIAA,Berl Huffman,W,27,13
 1948-10-30,UTEP,BIAA,Jack Curtice,H,Hardin-Simmons,BIAA,Warren Woodson,T,27,27
 1948-11-06,UTEP,BIAA,Jack Curtice,A,Texas Tech,BIAA,Dell Morgan,L,6,46
@@ -846,7 +846,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1948-10-16,Colorado State,Skyline,Robert Davis,A,Wyoming,Skyline,Bowden Wyatt,W,21,20
 1948-10-23,Colorado State,Skyline,Robert Davis,H,Drake,MVC,Al Kawal,L,29,31
 1948-11-06,Colorado State,Skyline,Robert Davis,H,Utah,Skyline,Ike Armstrong,L,3,12
-1948-11-15,Colorado State,Skyline,Robert Davis,H,Brigham Young,Skyline,Edwin Kimball,W,20,0
+1948-11-15,Colorado State,Skyline,Robert Davis,H,BYU,Skyline,Edwin Kimball,W,20,0
 1948-11-20,Colorado State,Skyline,Robert Davis,A,Colorado,Big 7,Dallas Ward,W,29,25
 1948-10-02,Rice,SWC,Jess Neely,H,LSU,SEC,Gaynell Tinsley,L,13,26
 1948-10-09,Rice,SWC,Jess Neely,A,USC,PCC,Jeff Cravath,L,0,7

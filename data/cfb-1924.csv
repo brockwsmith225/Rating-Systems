@@ -31,7 +31,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-11-27,Furman,Ind,,A,Clemson,Southern,Bud Saunders,W,3,0
 1924-10-04,Utah,RMC,Thomas Fitzpatrick,H,Drake,MVIAA,Ossie Solem,L,14,33
 1924-10-11,Utah,RMC,Thomas Fitzpatrick,H,Colorado College,RMC,Tefler Meade,L,0,9
-1924-10-25,Utah,RMC,Thomas Fitzpatrick,H,Brigham Young,RMC,Alvin Twitchell,W,35,6
+1924-10-25,Utah,RMC,Thomas Fitzpatrick,H,BYU,RMC,Alvin Twitchell,W,35,6
 1924-11-01,Utah,RMC,Thomas Fitzpatrick,A,Colorado,RMC,Myron Witham,L,0,3
 1924-11-08,Utah,RMC,Thomas Fitzpatrick,A,Stanford,PCC,Pop Warner,L,0,30
 1924-11-15,Utah,RMC,Thomas Fitzpatrick,H,Wyoming,RMC,William Dietz,W,28,0
@@ -83,7 +83,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-11-22,Vanderbilt,Southern,Dan McGugin,A,Minnesota,Western,William Spaulding,W,16,0
 1924-11-29,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,M.S. Bennett,L,0,16
 1924-09-27,Colorado College,RMC,Tefler Meade,H,Western State,Ind,A.C. Kruse,W,20,0
-1924-10-04,Colorado College,RMC,Tefler Meade,H,Brigham Young,RMC,Alvin Twitchell,L,0,3
+1924-10-04,Colorado College,RMC,Tefler Meade,H,BYU,RMC,Alvin Twitchell,L,0,3
 1924-10-11,Colorado College,RMC,Tefler Meade,A,Utah,RMC,Thomas Fitzpatrick,W,9,0
 1924-10-18,Colorado College,RMC,Tefler Meade,H,Colorado,RMC,Myron Witham,L,0,26
 1924-11-01,Colorado College,RMC,Tefler Meade,A,Denver,RMC,,L,0,3
@@ -141,7 +141,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-09-27,Western State,Ind,A.C. Kruse,A,Colorado College,RMC,Tefler Meade,L,0,20
 1924-10-04,Western State,Ind,A.C. Kruse,A,Colorado,RMC,Myron Witham,L,0,31
 1924-10-18,Western State,Ind,A.C. Kruse,H,Regis (CO),Ind,,W,20,0
-1924-11-11,Western State,Ind,A.C. Kruse,H,Brigham Young,RMC,Alvin Twitchell,L,0,26
+1924-11-11,Western State,Ind,A.C. Kruse,H,BYU,RMC,Alvin Twitchell,L,0,26
 1924-11-22,Western State,Ind,A.C. Kruse,H,Regis (CO),Ind,,W,12,0
 1924-10-04,Illinois,Western,Robert Zuppke,A,Nebraska,MVIAA,Fred Dawson,W,9,6
 1924-10-18,Illinois,Western,Robert Zuppke,H,Michigan,Western,George Little,W,39,14
@@ -251,7 +251,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-10-04,Utah State,RMC,,A,Colorado Mines,RMC,William Courtright,L,6,17
 1924-10-25,Utah State,RMC,,A,Denver,RMC,,W,16,0
 1924-11-01,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,13,17
-1924-11-07,Utah State,RMC,,A,Brigham Young,RMC,Alvin Twitchell,W,13,9
+1924-11-07,Utah State,RMC,,A,BYU,RMC,Alvin Twitchell,W,13,9
 1924-11-19,Utah State,RMC,,H,Wyoming,RMC,William Dietz,W,25,2
 1924-11-27,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,T,7,7
 1924-10-04,Missouri,MVIAA,Gwinn Henry,A,Chicago,Western,Amos Alonzo Stagg,W,3,0
@@ -262,7 +262,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-11-15,Missouri,MVIAA,Gwinn Henry,H,Washington (MO),MVIAA,Byron Wimberly,W,35,0
 1924-11-27,Missouri,MVIAA,Gwinn Henry,H,Kansas,MVIAA,Potsy Clark,W,14,0
 1924-12-25,Missouri,MVIAA,Gwinn Henry,A,USC,PCC,Gus Henderson,L,7,20
-1924-10-11,Montana State,RMC,Ott Romney,H,Brigham Young,RMC,Alvin Twitchell,W,13,0
+1924-10-11,Montana State,RMC,Ott Romney,H,BYU,RMC,Alvin Twitchell,W,13,0
 1924-10-25,Montana State,RMC,Ott Romney,A,Northern Colorado,RMC,George Cooper,W,59,0
 1924-11-05,Montana State,RMC,Ott Romney,A,Wyoming,RMC,William Dietz,L,17,18
 1924-11-22,Montana State,RMC,Ott Romney,A,Denver,RMC,,T,0,0
@@ -310,7 +310,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-10-18,Colorado Mines,RMC,William Courtright,H,Denver,RMC,,L,0,6
 1924-11-01,Colorado Mines,RMC,William Courtright,H,Wyoming,RMC,William Dietz,W,6,3
 1924-11-08,Colorado Mines,RMC,William Courtright,A,Colorado,RMC,Myron Witham,L,0,38
-1924-11-15,Colorado Mines,RMC,William Courtright,H,Brigham Young,RMC,Alvin Twitchell,T,0,0
+1924-11-15,Colorado Mines,RMC,William Courtright,H,BYU,RMC,Alvin Twitchell,T,0,0
 1924-11-22,Colorado Mines,RMC,William Courtright,H,Northern Colorado,RMC,George Cooper,W,14,7
 1924-11-27,Colorado Mines,RMC,William Courtright,A,Colorado College,RMC,Tefler Meade,L,0,14
 1924-09-27,North Carolina State,Southern,,H,Duke,Ind,Howard Jones,W,14,0
@@ -368,12 +368,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1924-11-15,Wyoming,RMC,William Dietz,A,Utah,RMC,Thomas Fitzpatrick,L,0,28
 1924-11-19,Wyoming,RMC,William Dietz,A,Utah State,RMC,,L,2,25
 1924-11-22,Wyoming,RMC,William Dietz,A,Colorado College,RMC,Tefler Meade,L,3,28
-1924-10-04,Brigham Young,RMC,Alvin Twitchell,A,Colorado College,RMC,Tefler Meade,W,3,0
-1924-10-11,Brigham Young,RMC,Alvin Twitchell,A,Montana State,RMC,Ott Romney,L,0,13
-1924-10-25,Brigham Young,RMC,Alvin Twitchell,A,Utah,RMC,Thomas Fitzpatrick,L,6,35
-1924-11-07,Brigham Young,RMC,Alvin Twitchell,H,Utah State,RMC,,L,9,13
-1924-11-11,Brigham Young,RMC,Alvin Twitchell,A,Western State,Ind,A.C. Kruse,W,26,0
-1924-11-15,Brigham Young,RMC,Alvin Twitchell,A,Colorado Mines,RMC,William Courtright,T,0,0
+1924-10-04,BYU,RMC,Alvin Twitchell,A,Colorado College,RMC,Tefler Meade,W,3,0
+1924-10-11,BYU,RMC,Alvin Twitchell,A,Montana State,RMC,Ott Romney,L,0,13
+1924-10-25,BYU,RMC,Alvin Twitchell,A,Utah,RMC,Thomas Fitzpatrick,L,6,35
+1924-11-07,BYU,RMC,Alvin Twitchell,H,Utah State,RMC,,L,9,13
+1924-11-11,BYU,RMC,Alvin Twitchell,A,Western State,Ind,A.C. Kruse,W,26,0
+1924-11-15,BYU,RMC,Alvin Twitchell,A,Colorado Mines,RMC,William Courtright,T,0,0
 1924-10-04,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,27,0
 1924-10-11,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,W,7,6
 1924-10-18,Yale,Ind,Tad Jones,H,Dartmouth,Ind,Jesse Hawley,T,14,14

@@ -74,7 +74,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-10-16,Arizona State,WAC,Frank Kush,A,Oregon State,Pac-8,Dee Andros,L,18,24
 1971-10-23,Arizona State,WAC,Frank Kush,A,New Mexico,WAC,Rudy Feldman,W,60,28
 1971-10-30,Arizona State,WAC,Frank Kush,H,Air Force,Ind,Ben Martin,W,44,28
-1971-11-06,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,Tommy Hudspeth,W,38,13
+1971-11-06,Arizona State,WAC,Frank Kush,H,BYU,WAC,Tommy Hudspeth,W,38,13
 1971-11-13,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Fritz Shurmur,W,52,19
 1971-11-20,Arizona State,WAC,Frank Kush,A,San Jose State,PCAA,DeWayne King,W,49,6
 1971-11-27,Arizona State,WAC,Frank Kush,H,Arizona,WAC,Bob Weber,W,31,0
@@ -93,7 +93,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-10-30,Utah,WAC,Bill Meek,H,Wyoming,WAC,Fritz Shurmur,L,16,29
 1971-11-06,Utah,WAC,Bill Meek,A,New Mexico,WAC,Rudy Feldman,L,39,57
 1971-11-13,Utah,WAC,Bill Meek,H,Utah State,Ind,Chuck Mills,L,17,21
-1971-11-20,Utah,WAC,Bill Meek,A,Brigham Young,WAC,Tommy Hudspeth,W,17,15
+1971-11-20,Utah,WAC,Bill Meek,A,BYU,WAC,Tommy Hudspeth,W,17,15
 1971-11-27,Utah,WAC,Bill Meek,A,Houston,Ind,Bill Yeoman,L,16,42
 1971-09-11,Wichita State,MVC,Bob Seaman,A,Texas A&M,SWC,Gene Stallings,L,7,41
 1971-10-16,Wichita State,MVC,Bob Seaman,A,Cincinnati,Ind,Ray Callahan,L,7,20
@@ -131,7 +131,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-10-23,Arizona,WAC,Bob Weber,H,Utah,WAC,Bill Meek,W,14,3
 1971-10-30,Arizona,WAC,Bob Weber,H,New Mexico,WAC,Rudy Feldman,L,28,34
 1971-11-06,Arizona,WAC,Bob Weber,H,Oregon State,Pac-8,Dee Andros,W,34,22
-1971-11-13,Arizona,WAC,Bob Weber,A,Brigham Young,WAC,Tommy Hudspeth,W,27,14
+1971-11-13,Arizona,WAC,Bob Weber,A,BYU,WAC,Tommy Hudspeth,W,27,14
 1971-11-20,Arizona,WAC,Bob Weber,A,San Diego State,PCAA,Don Coryell,L,10,39
 1971-11-27,Arizona,WAC,Bob Weber,A,Arizona State,WAC,Frank Kush,L,0,31
 1971-09-18,Penn State,Ind,Joe Paterno,A,Navy,Ind,Rick Forzano,W,56,3
@@ -407,7 +407,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-09-11,Utah State,Ind,Chuck Mills,A,Kansas State,Big 8,Vince Gibson,W,10,7
 1971-09-18,Utah State,Ind,Chuck Mills,H,New Mexico State,Ind,Jim Wood,W,34,0
 1971-10-02,Utah State,Ind,Chuck Mills,A,Nebraska,Big 8,Bob Devaney,L,6,42
-1971-10-09,Utah State,Ind,Chuck Mills,H,Brigham Young,WAC,Tommy Hudspeth,W,29,7
+1971-10-09,Utah State,Ind,Chuck Mills,H,BYU,WAC,Tommy Hudspeth,W,29,7
 1971-10-16,Utah State,Ind,Chuck Mills,H,Memphis,MVC,Billy Murphy,W,7,6
 1971-10-22,Utah State,Ind,Chuck Mills,A,San Diego State,PCAA,Don Coryell,L,20,36
 1971-10-30,Utah State,Ind,Chuck Mills,A,Colorado State,WAC,Jerry Wampfler,W,18,17
@@ -523,7 +523,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-11-20,Temple,Ind,Wayne Hardin,H,Villanova,Ind,Lou Ferry,T,13,13
 1971-09-18,New Mexico,WAC,Rudy Feldman,A,Texas Tech,SWC,Jim Carlen,W,13,10
 1971-09-25,New Mexico,WAC,Rudy Feldman,H,Iowa State,Big 8,Johnny Majors,L,20,44
-1971-10-01,New Mexico,WAC,Rudy Feldman,A,Brigham Young,WAC,Tommy Hudspeth,W,14,0
+1971-10-01,New Mexico,WAC,Rudy Feldman,A,BYU,WAC,Tommy Hudspeth,W,14,0
 1971-10-09,New Mexico,WAC,Rudy Feldman,H,New Mexico State,Ind,Jim Wood,T,35,35
 1971-10-16,New Mexico,WAC,Rudy Feldman,A,San Jose State,PCAA,DeWayne King,T,21,21
 1971-10-23,New Mexico,WAC,Rudy Feldman,H,Arizona State,WAC,Frank Kush,L,28,60
@@ -595,7 +595,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-11-13,West Texas A&M,MVC,Gene Mayfield,A,Colorado State,WAC,Jerry Wampfler,L,14,36
 1971-11-20,West Texas A&M,MVC,Gene Mayfield,H,Drake,MVC,Jack Wallace,L,28,32
 1971-11-27,West Texas A&M,MVC,Gene Mayfield,A,Southern Mississippi,Ind,P.W. Underwood,L,0,35
-1971-09-10,North Texas,MVC,Rod Rust,H,Brigham Young,WAC,Tommy Hudspeth,L,13,41
+1971-09-10,North Texas,MVC,Rod Rust,H,BYU,WAC,Tommy Hudspeth,L,13,41
 1971-09-25,North Texas,MVC,Rod Rust,A,New Mexico State,Ind,Jim Wood,L,0,10
 1971-10-16,North Texas,MVC,Rod Rust,H,Louisville,MVC,Lee Corso,W,20,17
 1971-10-23,North Texas,MVC,Rod Rust,A,Arkansas,SWC,Frank Broyles,L,21,60
@@ -608,23 +608,23 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-09-25,Wyoming,WAC,Fritz Shurmur,A,Air Force,Ind,Ben Martin,L,19,23
 1971-10-02,Wyoming,WAC,Fritz Shurmur,H,Colorado State,WAC,Jerry Wampfler,W,17,6
 1971-10-09,Wyoming,WAC,Fritz Shurmur,H,Arizona,WAC,Bob Weber,W,14,3
-1971-10-16,Wyoming,WAC,Fritz Shurmur,H,Brigham Young,WAC,Tommy Hudspeth,L,17,35
+1971-10-16,Wyoming,WAC,Fritz Shurmur,H,BYU,WAC,Tommy Hudspeth,L,17,35
 1971-10-23,Wyoming,WAC,Fritz Shurmur,H,UTEP,WAC,Robert Dobbs,L,7,12
 1971-10-30,Wyoming,WAC,Fritz Shurmur,A,Utah,WAC,Bill Meek,W,29,16
 1971-11-06,Wyoming,WAC,Fritz Shurmur,A,Utah State,Ind,Chuck Mills,W,31,29
 1971-11-13,Wyoming,WAC,Fritz Shurmur,A,Arizona State,WAC,Frank Kush,L,19,52
 1971-11-20,Wyoming,WAC,Fritz Shurmur,A,New Mexico,WAC,Rudy Feldman,L,14,49
-1971-09-10,Brigham Young,WAC,Tommy Hudspeth,A,North Texas,MVC,Rod Rust,W,41,13
-1971-09-18,Brigham Young,WAC,Tommy Hudspeth,H,Colorado State,WAC,Jerry Wampfler,W,54,14
-1971-09-25,Brigham Young,WAC,Tommy Hudspeth,A,Kansas State,Big 8,Vince Gibson,L,7,23
-1971-10-01,Brigham Young,WAC,Tommy Hudspeth,H,New Mexico,WAC,Rudy Feldman,L,0,14
-1971-10-09,Brigham Young,WAC,Tommy Hudspeth,A,Utah State,Ind,Chuck Mills,L,7,29
-1971-10-16,Brigham Young,WAC,Tommy Hudspeth,A,Wyoming,WAC,Fritz Shurmur,W,35,17
-1971-10-23,Brigham Young,WAC,Tommy Hudspeth,A,Tulsa,MVC,Claude Gibson,W,25,7
-1971-10-30,Brigham Young,WAC,Tommy Hudspeth,A,UTEP,WAC,Robert Dobbs,W,16,0
-1971-11-06,Brigham Young,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,L,13,38
-1971-11-13,Brigham Young,WAC,Tommy Hudspeth,H,Arizona,WAC,Bob Weber,L,14,27
-1971-11-20,Brigham Young,WAC,Tommy Hudspeth,H,Utah,WAC,Bill Meek,L,15,17
+1971-09-10,BYU,WAC,Tommy Hudspeth,A,North Texas,MVC,Rod Rust,W,41,13
+1971-09-18,BYU,WAC,Tommy Hudspeth,H,Colorado State,WAC,Jerry Wampfler,W,54,14
+1971-09-25,BYU,WAC,Tommy Hudspeth,A,Kansas State,Big 8,Vince Gibson,L,7,23
+1971-10-01,BYU,WAC,Tommy Hudspeth,H,New Mexico,WAC,Rudy Feldman,L,0,14
+1971-10-09,BYU,WAC,Tommy Hudspeth,A,Utah State,Ind,Chuck Mills,L,7,29
+1971-10-16,BYU,WAC,Tommy Hudspeth,A,Wyoming,WAC,Fritz Shurmur,W,35,17
+1971-10-23,BYU,WAC,Tommy Hudspeth,A,Tulsa,MVC,Claude Gibson,W,25,7
+1971-10-30,BYU,WAC,Tommy Hudspeth,A,UTEP,WAC,Robert Dobbs,W,16,0
+1971-11-06,BYU,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,L,13,38
+1971-11-13,BYU,WAC,Tommy Hudspeth,H,Arizona,WAC,Bob Weber,L,14,27
+1971-11-20,BYU,WAC,Tommy Hudspeth,H,Utah,WAC,Bill Meek,L,15,17
 1971-10-02,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,L,21,28
 1971-10-09,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,Leonard Jardine,W,17,10
 1971-10-16,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Frank Navarro,L,14,15
@@ -699,7 +699,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-12-18,Memphis,MVC,Billy Murphy,N,San Jose State,PCAA,DeWayne King,W,28,9
 1971-09-11,Kansas State,Big 8,Vince Gibson,H,Utah State,Ind,Chuck Mills,L,7,10
 1971-09-18,Kansas State,Big 8,Vince Gibson,A,Tulsa,MVC,Claude Gibson,W,19,10
-1971-09-25,Kansas State,Big 8,Vince Gibson,H,Brigham Young,WAC,Tommy Hudspeth,W,23,7
+1971-09-25,Kansas State,Big 8,Vince Gibson,H,BYU,WAC,Tommy Hudspeth,W,23,7
 1971-10-02,Kansas State,Big 8,Vince Gibson,A,Colorado,Big 8,Eddie Crowder,L,21,31
 1971-10-09,Kansas State,Big 8,Vince Gibson,A,Kansas,Big 8,Don Fambrough,L,13,39
 1971-10-16,Kansas State,Big 8,Vince Gibson,H,Iowa State,Big 8,Johnny Majors,L,0,24
@@ -818,7 +818,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-10-09,UTEP,WAC,Robert Dobbs,H,Utah,WAC,Bill Meek,L,10,32
 1971-10-16,UTEP,WAC,Robert Dobbs,A,New Mexico State,Ind,Jim Wood,W,14,7
 1971-10-23,UTEP,WAC,Robert Dobbs,A,Wyoming,WAC,Fritz Shurmur,W,12,7
-1971-10-30,UTEP,WAC,Robert Dobbs,H,Brigham Young,WAC,Tommy Hudspeth,L,0,16
+1971-10-30,UTEP,WAC,Robert Dobbs,H,BYU,WAC,Tommy Hudspeth,L,0,16
 1971-11-13,UTEP,WAC,Robert Dobbs,A,New Mexico,WAC,Rudy Feldman,L,13,49
 1971-11-20,UTEP,WAC,Robert Dobbs,H,Colorado State,WAC,Jerry Wampfler,L,7,24
 1971-11-27,UTEP,WAC,Robert Dobbs,H,Long Beach State,PCAA,Jim Strangeland,W,38,32
@@ -846,7 +846,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-10-02,Tulsa,MVC,Claude Gibson,A,West Texas A&M,MVC,Gene Mayfield,W,17,13
 1971-10-09,Tulsa,MVC,Claude Gibson,H,Virginia Tech,Ind,Charles Coffey,W,46,39
 1971-10-16,Tulsa,MVC,Claude Gibson,A,Wake Forest,ACC,Cal Stoll,L,21,51
-1971-10-23,Tulsa,MVC,Claude Gibson,H,Brigham Young,WAC,Tommy Hudspeth,L,7,25
+1971-10-23,Tulsa,MVC,Claude Gibson,H,BYU,WAC,Tommy Hudspeth,L,7,25
 1971-10-30,Tulsa,MVC,Claude Gibson,A,Tennessee,SEC,Bill Battle,L,3,38
 1971-11-06,Tulsa,MVC,Claude Gibson,H,Louisville,MVC,Lee Corso,L,0,17
 1971-11-13,Tulsa,MVC,Claude Gibson,H,Air Force,Ind,Ben Martin,L,7,17
@@ -1067,7 +1067,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1971-11-13,Colorado,Big 8,Eddie Crowder,H,Oklahoma State,Big 8,Floyd Gass,W,40,6
 1971-11-20,Colorado,Big 8,Eddie Crowder,H,Air Force,Ind,Ben Martin,W,53,17
 1971-12-31,Colorado,Big 8,Eddie Crowder,A,Houston,Ind,Bill Yeoman,W,29,17
-1971-09-18,Colorado State,WAC,Jerry Wampfler,A,Brigham Young,WAC,Tommy Hudspeth,L,14,54
+1971-09-18,Colorado State,WAC,Jerry Wampfler,A,BYU,WAC,Tommy Hudspeth,L,14,54
 1971-09-25,Colorado State,WAC,Jerry Wampfler,A,Idaho,Ind,Don Robbins,L,0,10
 1971-10-02,Colorado State,WAC,Jerry Wampfler,A,Wyoming,WAC,Fritz Shurmur,L,6,17
 1971-10-09,Colorado State,WAC,Jerry Wampfler,H,Arizona State,WAC,Frank Kush,L,0,42

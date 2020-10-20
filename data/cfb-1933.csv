@@ -41,14 +41,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-11-30,Furman,Ind,,H,Clemson,Southern,Jess Neely,W,6,0
 1933-09-23,Utah,RMC,Ike Armstrong,H,Montana State,RMC,Schubert Dyche,W,61,0
 1933-10-06,Utah,RMC,Ike Armstrong,A,UCLA,PCC,William Spaulding,L,0,21
-1933-10-14,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,21,6
+1933-10-14,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,21,6
 1933-10-28,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,14,6
 1933-11-04,Utah,RMC,Ike Armstrong,A,Oregon,PCC,Prink Callison,L,7,26
 1933-11-11,Utah,RMC,Ike Armstrong,H,Colorado,RMC,William Saunders,W,13,6
 1933-11-18,Utah,RMC,Ike Armstrong,A,Denver,RMC,Percy Locey,L,0,13
 1933-11-30,Utah,RMC,Ike Armstrong,H,Colorado State,RMC,Harry Hughes,W,13,0
 1933-09-29,Northern Colorado,RMC,J.W. Hancock,H,Colorado College,RMC,W.T. VandeGraaff,L,7,9
-1933-10-06,Northern Colorado,RMC,J.W. Hancock,H,Brigham Young,RMC,Ott Romney,L,2,6
+1933-10-06,Northern Colorado,RMC,J.W. Hancock,H,BYU,RMC,Ott Romney,L,2,6
 1933-10-21,Northern Colorado,RMC,J.W. Hancock,H,Wyoming,RMC,Dutch Witte,W,27,0
 1933-11-04,Northern Colorado,RMC,J.W. Hancock,H,Western State,RMC,Tefler Meade,W,6,0
 1933-11-11,Northern Colorado,RMC,J.W. Hancock,A,Colorado Mines,RMC,,W,26,9
@@ -109,7 +109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-10-07,Colorado College,RMC,W.T. VandeGraaff,H,Wyoming,RMC,Dutch Witte,T,0,0
 1933-10-28,Colorado College,RMC,W.T. VandeGraaff,A,Denver,RMC,Percy Locey,L,0,31
 1933-11-04,Colorado College,RMC,W.T. VandeGraaff,A,Colorado,RMC,William Saunders,L,0,26
-1933-11-11,Colorado College,RMC,W.T. VandeGraaff,H,Brigham Young,RMC,Ott Romney,L,0,25
+1933-11-11,Colorado College,RMC,W.T. VandeGraaff,H,BYU,RMC,Ott Romney,L,0,25
 1933-11-18,Colorado College,RMC,W.T. VandeGraaff,H,Colorado Mines,RMC,,W,23,6
 1933-11-25,Colorado College,RMC,W.T. VandeGraaff,N,Colorado State,RMC,Harry Hughes,L,7,30
 1933-09-30,Kentucky,SEC,Harry Gamage,H,Sewanee,SEC,Heck Clark,W,7,0
@@ -168,7 +168,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-11-25,Washington State,PCC,O.E. Hollingbery,H,Washington,PCC,James Phelan,W,17,6
 1933-11-30,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,William Spaulding,L,0,7
 1933-09-30,Western State,RMC,Tefler Meade,A,Utah State,RMC,,L,0,28
-1933-10-21,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,0,13
+1933-10-21,Western State,RMC,Tefler Meade,H,BYU,RMC,Ott Romney,L,0,13
 1933-10-28,Western State,RMC,Tefler Meade,H,Colorado Mines,RMC,,L,13,19
 1933-11-04,Western State,RMC,Tefler Meade,A,Northern Colorado,RMC,J.W. Hancock,L,0,6
 1933-11-25,Western State,RMC,Tefler Meade,A,Wyoming,RMC,Dutch Witte,L,0,6
@@ -304,7 +304,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-10-28,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,6,14
 1933-11-04,Utah State,RMC,,H,Wyoming,RMC,Dutch Witte,W,27,0
 1933-11-11,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,0,3
-1933-11-18,Utah State,RMC,,H,Brigham Young,RMC,Ott Romney,W,14,0
+1933-11-18,Utah State,RMC,,H,BYU,RMC,Ott Romney,W,14,0
 1933-11-25,Utah State,RMC,,A,Montana,PCC,Bunny Oakes,L,0,26
 1933-10-14,Missouri,Big 6,Frank Carideo,H,Kansas State,Big 6,Bo McMillin,L,0,33
 1933-10-21,Missouri,Big 6,Frank Carideo,A,Saint Louis,Ind,,L,7,13
@@ -314,7 +314,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-11-18,Missouri,Big 6,Frank Carideo,A,Washington (MO),MVC,Jimmy Conzelman,L,7,33
 1933-11-30,Missouri,Big 6,Frank Carideo,A,Kansas,Big 6,Adrian Lindsey,L,0,27
 1933-09-23,Montana State,RMC,Schubert Dyche,A,Utah,RMC,Ike Armstrong,L,0,61
-1933-09-30,Montana State,RMC,Schubert Dyche,A,Brigham Young,RMC,Ott Romney,L,0,25
+1933-09-30,Montana State,RMC,Schubert Dyche,A,BYU,RMC,Ott Romney,L,0,25
 1933-10-07,Montana State,RMC,Schubert Dyche,H,Utah State,RMC,,L,6,40
 1933-10-14,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,Dutch Witte,W,7,0
 1933-11-04,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Bunny Oakes,L,0,32
@@ -323,7 +323,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-10-14,Denver,RMC,Percy Locey,H,Colorado State,RMC,Harry Hughes,T,0,0
 1933-10-21,Denver,RMC,Percy Locey,H,Utah State,RMC,,W,12,0
 1933-10-28,Denver,RMC,Percy Locey,H,Colorado College,RMC,W.T. VandeGraaff,W,31,0
-1933-11-04,Denver,RMC,Percy Locey,H,Brigham Young,RMC,Ott Romney,W,6,0
+1933-11-04,Denver,RMC,Percy Locey,H,BYU,RMC,Ott Romney,W,6,0
 1933-11-18,Denver,RMC,Percy Locey,H,Utah,RMC,Ike Armstrong,W,13,0
 1933-11-30,Denver,RMC,Percy Locey,H,Colorado,RMC,William Saunders,L,7,14
 1933-09-30,Washington & Jefferson,Ind,Leroy Day,A,Pitt,Ind,Jock Sutherland,L,0,9
@@ -468,15 +468,15 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1933-10-28,Wyoming,RMC,Dutch Witte,A,Colorado,RMC,William Saunders,L,12,40
 1933-11-04,Wyoming,RMC,Dutch Witte,A,Utah State,RMC,,L,0,27
 1933-11-25,Wyoming,RMC,Dutch Witte,H,Western State,RMC,Tefler Meade,W,6,0
-1933-11-30,Wyoming,RMC,Dutch Witte,A,Brigham Young,RMC,Ott Romney,L,3,6
-1933-09-30,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,W,25,0
-1933-10-06,Brigham Young,RMC,Ott Romney,A,Northern Colorado,RMC,J.W. Hancock,W,6,2
-1933-10-14,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,6,21
-1933-10-21,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,13,0
-1933-11-04,Brigham Young,RMC,Ott Romney,A,Denver,RMC,Percy Locey,L,0,6
-1933-11-11,Brigham Young,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,W,25,0
-1933-11-18,Brigham Young,RMC,Ott Romney,A,Utah State,RMC,,L,0,14
-1933-11-30,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,Dutch Witte,W,6,3
+1933-11-30,Wyoming,RMC,Dutch Witte,A,BYU,RMC,Ott Romney,L,3,6
+1933-09-30,BYU,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,W,25,0
+1933-10-06,BYU,RMC,Ott Romney,A,Northern Colorado,RMC,J.W. Hancock,W,6,2
+1933-10-14,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,6,21
+1933-10-21,BYU,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,13,0
+1933-11-04,BYU,RMC,Ott Romney,A,Denver,RMC,Percy Locey,L,0,6
+1933-11-11,BYU,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,W,25,0
+1933-11-18,BYU,RMC,Ott Romney,A,Utah State,RMC,,L,0,14
+1933-11-30,BYU,RMC,Ott Romney,H,Wyoming,RMC,Dutch Witte,W,6,3
 1933-09-29,Duquesne,Ind,,H,West Virginia,Ind,Greasy Neale,W,19,7
 1933-10-06,Duquesne,Ind,,H,Bucknell,Ind,Carl Snavely,W,6,0
 1933-10-20,Duquesne,Ind,,H,Detroit Mercy,Ind,Gus Dorais,W,14,0

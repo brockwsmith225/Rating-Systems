@@ -91,7 +91,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-10-28,Utah,MWC,Kyle Whittingham,H,Nevada-Las Vegas,MWC,Mike Sanford,W,45,23,20,24,290,4,34,110,1,10,6,5,50,2,0
 2006-11-11,Utah,MWC,Kyle Whittingham,H,Colorado State,MWC,Sonny Lubick,W,35,22,21,34,321,2,42,205,3,14,12,10,105,0,1
 2006-11-18,Utah,MWC,Kyle Whittingham,A,Air Force,MWC,Fisher DeBerry,W,17,14,24,38,236,0,35,119,2,9,12,7,60,0,0
-2006-11-25,Utah,MWC,Kyle Whittingham,H,Brigham Young,MWC,Bronco Mendenhall,L,31,33,25,41,376,4,33,98,0,17,7,6,56,0,0
+2006-11-25,Utah,MWC,Kyle Whittingham,H,BYU,MWC,Bronco Mendenhall,L,31,33,25,41,376,4,33,98,0,17,7,6,56,0,0
 2006-12-23,Utah,MWC,Kyle Whittingham,N,Tulsa,CUSA,Steve Kragthorpe,W,25,13,23,34,240,1,33,165,1,11,10,6,41,1,1
 2006-09-02,Syracuse,Big East,Greg Robinson,A,Wake Forest,ACC,Jim Grobe,L,10,20,6,19,45,1,30,91,0,4,6,1,5,1,0
 2006-09-09,Syracuse,Big East,Greg Robinson,H,Iowa,Big Ten,Kirk Ferentz,L,13,20,21,38,210,1,44,70,0,11,5,7,58,0,0
@@ -105,7 +105,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-11-11,Syracuse,Big East,Greg Robinson,A,South Florida,Big East,Jim Leavitt,L,10,27,15,32,174,1,39,76,0,11,4,3,15,2,1
 2006-11-18,Syracuse,Big East,Greg Robinson,H,Connecticut,Big East,Randy Edsall,W,20,14,9,19,143,1,39,163,1,7,7,4,35,1,0
 2006-11-25,Syracuse,Big East,Greg Robinson,A,Rutgers,Big East,Greg Schiano,L,7,38,10,19,69,1,31,122,0,2,8,5,49,1,1
-2006-09-02,Arizona,Pac-10,Mike Stoops,H,Brigham Young,MWC,Bronco Mendenhall,W,16,13,19,39,186,1,24,67,0,11,2,8,61,0,1
+2006-09-02,Arizona,Pac-10,Mike Stoops,H,BYU,MWC,Bronco Mendenhall,W,16,13,19,39,186,1,24,67,0,11,2,8,61,0,1
 2006-09-09,Arizona,Pac-10,Mike Stoops,A,LSU,SEC,Les Miles,L,3,45,16,36,117,0,21,35,0,7,5,3,14,1,3
 2006-09-23,Arizona,Pac-10,Mike Stoops,H,USC,Pac-10,Pete Carroll,L,3,20,14,25,170,0,19,-16,0,6,2,4,30,1,1
 2006-09-30,Arizona,Pac-10,Mike Stoops,H,Washington,Pac-10,Tyrone Willingham,L,10,21,24,41,308,1,24,-7,0,14,2,8,78,0,1
@@ -431,7 +431,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-09-02,Utah State,WAC,Brent Guy,A,Wyoming,MWC,Joe Glenn,L,7,38,10,22,74,0,26,55,0,1,4,9,79,0,1
 2006-09-09,Utah State,WAC,Brent Guy,A,Arkansas,SEC,Houston Nutt,L,0,20,11,28,114,0,39,135,0,7,7,3,25,0,0
 2006-09-16,Utah State,WAC,Brent Guy,H,Utah,MWC,Kyle Whittingham,L,0,48,6,20,64,0,29,34,0,3,4,4,24,4,2
-2006-09-23,Utah State,WAC,Brent Guy,A,Brigham Young,MWC,Bronco Mendenhall,L,0,38,17,28,122,0,42,120,0,5,10,6,46,1,1
+2006-09-23,Utah State,WAC,Brent Guy,A,BYU,MWC,Bronco Mendenhall,L,0,38,17,28,122,0,42,120,0,5,10,6,46,1,1
 2006-09-30,Utah State,WAC,Brent Guy,H,Idaho,WAC,Dennis Erickson,L,21,41,19,27,186,1,35,119,2,11,8,2,20,1,2
 2006-10-07,Utah State,WAC,Brent Guy,H,Fresno State,WAC,Pat Hill,W,13,12,9,19,120,2,36,147,0,4,7,6,75,0,0
 2006-10-14,Utah State,WAC,Brent Guy,A,San Jose State,WAC,Dick Tomey,L,14,21,21,24,145,2,44,156,0,7,7,4,38,1,0
@@ -529,7 +529,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-09-16,San Diego State,MWC,Chuck Long,A,Wisconsin,Big Ten,Bret Bielema,L,0,14,15,27,102,0,26,13,0,3,2,3,26,1,0
 2006-09-23,San Diego State,MWC,Chuck Long,H,Utah,MWC,Kyle Whittingham,L,7,38,9,20,83,1,45,204,0,4,10,8,49,0,5
 2006-09-30,San Diego State,MWC,Chuck Long,A,San Jose State,WAC,Dick Tomey,L,10,31,10,16,76,0,39,163,1,1,8,11,103,1,2
-2006-10-07,San Diego State,MWC,Chuck Long,A,Brigham Young,MWC,Bronco Mendenhall,L,17,47,20,32,216,0,38,141,2,12,7,10,110,1,1
+2006-10-07,San Diego State,MWC,Chuck Long,A,BYU,MWC,Bronco Mendenhall,L,17,47,20,32,216,0,38,141,2,12,7,10,110,1,1
 2006-10-21,San Diego State,MWC,Chuck Long,H,Air Force,MWC,Fisher DeBerry,W,19,12,12,19,133,1,30,151,0,5,9,5,36,0,0
 2006-11-04,San Diego State,MWC,Chuck Long,A,Wyoming,MWC,Joe Glenn,L,24,27,10,21,192,2,20,40,0,5,4,11,98,0,1
 2006-11-11,San Diego State,MWC,Chuck Long,H,Nevada-Las Vegas,MWC,Mike Sanford,W,21,7,16,21,136,0,47,141,2,7,8,3,38,1,1
@@ -633,7 +633,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-10-19,New Mexico,MWC,Rocky Long,H,Utah,MWC,Kyle Whittingham,W,34,31,19,33,350,3,34,117,1,13,7,4,34,0,1
 2006-10-28,New Mexico,MWC,Rocky Long,A,Colorado State,MWC,Sonny Lubick,W,20,19,15,25,195,1,31,79,1,8,5,6,57,1,0
 2006-11-11,New Mexico,MWC,Rocky Long,H,Texas Christian,MWC,Gary Patterson,L,21,27,15,25,183,1,40,102,2,9,6,7,60,2,1
-2006-11-18,New Mexico,MWC,Rocky Long,A,Brigham Young,MWC,Bronco Mendenhall,L,17,42,22,39,245,1,31,173,0,14,9,2,15,1,2
+2006-11-18,New Mexico,MWC,Rocky Long,A,BYU,MWC,Bronco Mendenhall,L,17,42,22,39,245,1,31,173,0,14,9,2,15,1,2
 2006-11-25,New Mexico,MWC,Rocky Long,H,San Diego State,MWC,Chuck Long,W,41,14,9,20,87,2,32,214,2,5,8,6,38,0,0
 2006-12-23,New Mexico,MWC,Rocky Long,H,San Jose State,WAC,Dick Tomey,L,12,20,24,45,249,1,31,128,0,11,8,5,44,4,0
 2006-09-02,Notre Dame,Ind,Charlie Weis,A,Georgia Tech,ACC,Chan Gailey,W,14,10,23,38,246,0,40,138,2,11,9,11,80,0,0
@@ -752,21 +752,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-10-21,Wyoming,MWC,Joe Glenn,H,Colorado State,MWC,Sonny Lubick,W,24,0,10,22,152,2,39,166,1,6,9,7,59,0,0
 2006-10-28,Wyoming,MWC,Joe Glenn,A,Texas Christian,MWC,Gary Patterson,L,3,26,15,28,137,0,26,28,0,7,4,4,30,1,1
 2006-11-04,Wyoming,MWC,Joe Glenn,H,San Diego State,MWC,Chuck Long,W,27,24,15,25,97,1,54,222,2,4,18,3,30,1,0
-2006-11-09,Wyoming,MWC,Joe Glenn,A,Brigham Young,MWC,Bronco Mendenhall,L,7,55,14,28,102,0,23,144,1,5,5,2,15,0,2
+2006-11-09,Wyoming,MWC,Joe Glenn,A,BYU,MWC,Bronco Mendenhall,L,7,55,14,28,102,0,23,144,1,5,5,2,15,0,2
 2006-11-18,Wyoming,MWC,Joe Glenn,A,Nevada-Las Vegas,MWC,Mike Sanford,W,34,26,19,27,197,2,39,89,3,11,6,5,54,0,2
-2006-09-02,Brigham Young,MWC,Bronco Mendenhall,A,Arizona,Pac-10,Mike Stoops,L,13,16,28,37,289,1,24,24,0,12,3,10,76,2,0
-2006-09-09,Brigham Young,MWC,Bronco Mendenhall,H,Tulsa,CUSA,Steve Kragthorpe,W,49,24,17,24,247,4,41,220,3,9,11,11,90,0,0
-2006-09-16,Brigham Young,MWC,Bronco Mendenhall,A,Boston College,ACC,Frank Spaziani,L,23,30,38,60,436,1,30,111,1,22,5,10,67,1,2
-2006-09-23,Brigham Young,MWC,Bronco Mendenhall,H,Utah State,WAC,Brent Guy,W,38,0,20,28,305,1,34,136,3,18,4,4,55,0,1
-2006-09-28,Brigham Young,MWC,Bronco Mendenhall,A,Texas Christian,MWC,Gary Patterson,W,31,17,23,37,321,3,34,72,1,16,4,6,57,0,0
-2006-10-07,Brigham Young,MWC,Bronco Mendenhall,H,San Diego State,MWC,Chuck Long,W,47,17,16,21,267,4,32,152,2,11,8,5,17,1,0
-2006-10-21,Brigham Young,MWC,Bronco Mendenhall,H,Nevada-Las Vegas,MWC,Mike Sanford,W,52,7,20,25,266,4,41,308,3,11,15,12,114,0,1
-2006-10-28,Brigham Young,MWC,Bronco Mendenhall,A,Air Force,MWC,Fisher DeBerry,W,33,14,23,31,258,3,34,153,1,16,6,8,50,0,0
-2006-11-04,Brigham Young,MWC,Bronco Mendenhall,A,Colorado State,MWC,Sonny Lubick,W,24,3,22,30,290,0,37,112,3,15,6,6,40,0,1
-2006-11-09,Brigham Young,MWC,Bronco Mendenhall,H,Wyoming,MWC,Joe Glenn,W,55,7,20,26,313,2,43,141,4,12,6,5,35,0,0
-2006-11-18,Brigham Young,MWC,Bronco Mendenhall,H,New Mexico,MWC,Rocky Long,W,42,17,28,42,464,4,32,189,2,20,9,4,45,0,2
-2006-11-25,Brigham Young,MWC,Bronco Mendenhall,A,Utah,MWC,Kyle Whittingham,W,33,31,28,44,375,4,24,54,1,19,5,6,53,0,0
-2006-12-21,Brigham Young,MWC,Bronco Mendenhall,N,Oregon,Pac-10,Mike Bellotti,W,38,8,28,47,375,2,31,173,3,18,8,7,70,0,2
+2006-09-02,BYU,MWC,Bronco Mendenhall,A,Arizona,Pac-10,Mike Stoops,L,13,16,28,37,289,1,24,24,0,12,3,10,76,2,0
+2006-09-09,BYU,MWC,Bronco Mendenhall,H,Tulsa,CUSA,Steve Kragthorpe,W,49,24,17,24,247,4,41,220,3,9,11,11,90,0,0
+2006-09-16,BYU,MWC,Bronco Mendenhall,A,Boston College,ACC,Frank Spaziani,L,23,30,38,60,436,1,30,111,1,22,5,10,67,1,2
+2006-09-23,BYU,MWC,Bronco Mendenhall,H,Utah State,WAC,Brent Guy,W,38,0,20,28,305,1,34,136,3,18,4,4,55,0,1
+2006-09-28,BYU,MWC,Bronco Mendenhall,A,Texas Christian,MWC,Gary Patterson,W,31,17,23,37,321,3,34,72,1,16,4,6,57,0,0
+2006-10-07,BYU,MWC,Bronco Mendenhall,H,San Diego State,MWC,Chuck Long,W,47,17,16,21,267,4,32,152,2,11,8,5,17,1,0
+2006-10-21,BYU,MWC,Bronco Mendenhall,H,Nevada-Las Vegas,MWC,Mike Sanford,W,52,7,20,25,266,4,41,308,3,11,15,12,114,0,1
+2006-10-28,BYU,MWC,Bronco Mendenhall,A,Air Force,MWC,Fisher DeBerry,W,33,14,23,31,258,3,34,153,1,16,6,8,50,0,0
+2006-11-04,BYU,MWC,Bronco Mendenhall,A,Colorado State,MWC,Sonny Lubick,W,24,3,22,30,290,0,37,112,3,15,6,6,40,0,1
+2006-11-09,BYU,MWC,Bronco Mendenhall,H,Wyoming,MWC,Joe Glenn,W,55,7,20,26,313,2,43,141,4,12,6,5,35,0,0
+2006-11-18,BYU,MWC,Bronco Mendenhall,H,New Mexico,MWC,Rocky Long,W,42,17,28,42,464,4,32,189,2,20,9,4,45,0,2
+2006-11-25,BYU,MWC,Bronco Mendenhall,A,Utah,MWC,Kyle Whittingham,W,33,31,28,44,375,4,24,54,1,19,5,6,53,0,0
+2006-12-21,BYU,MWC,Bronco Mendenhall,N,Oregon,Pac-10,Mike Bellotti,W,38,8,28,47,375,2,31,173,3,18,8,7,70,0,2
 2006-09-02,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Clemson,ACC,Tommy Bowden,L,6,54,20,43,216,0,34,47,0,12,5,4,35,3,1
 2006-09-09,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Kansas State,Big 12,Ron Prince,L,0,45,12,25,141,0,42,59,0,7,4,12,110,0,1
 2006-09-16,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Oklahoma State,Big 12,Mike Gundy,L,8,48,16,28,166,0,35,49,1,8,4,4,25,1,2
@@ -832,7 +832,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-09-30,Nevada-Las Vegas,MWC,Mike Sanford,H,Nevada,WAC,Chris Ault,L,3,31,18,32,153,0,31,74,0,7,5,8,73,2,2
 2006-10-07,Nevada-Las Vegas,MWC,Mike Sanford,A,Colorado State,MWC,Sonny Lubick,L,7,28,19,38,198,0,22,52,1,10,2,4,30,0,1
 2006-10-14,Nevada-Las Vegas,MWC,Mike Sanford,H,New Mexico,MWC,Rocky Long,L,36,39,18,33,295,5,29,84,0,12,5,6,63,2,2
-2006-10-21,Nevada-Las Vegas,MWC,Mike Sanford,A,Brigham Young,MWC,Bronco Mendenhall,L,7,52,19,38,216,1,26,92,0,9,5,7,51,2,4
+2006-10-21,Nevada-Las Vegas,MWC,Mike Sanford,A,BYU,MWC,Bronco Mendenhall,L,7,52,19,38,216,1,26,92,0,9,5,7,51,2,4
 2006-10-28,Nevada-Las Vegas,MWC,Mike Sanford,A,Utah,MWC,Kyle Whittingham,L,23,45,25,35,232,2,29,65,0,10,6,7,58,1,2
 2006-11-04,Nevada-Las Vegas,MWC,Mike Sanford,H,Texas Christian,MWC,Gary Patterson,L,10,25,10,27,128,0,24,118,1,5,4,5,55,0,1
 2006-11-11,Nevada-Las Vegas,MWC,Mike Sanford,A,San Diego State,MWC,Chuck Long,L,7,21,20,39,211,1,26,39,0,11,4,7,82,0,2
@@ -1004,7 +1004,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-11-18,LSU,SEC,Les Miles,H,Ole Miss,SEC,Ed Orgeron,W,23,20,20,36,223,3,31,85,0,8,8,6,60,1,0
 2006-11-24,LSU,SEC,Les Miles,A,Arkansas,SEC,Houston Nutt,W,31,26,14,22,210,2,36,118,1,8,6,2,25,2,0
 2007-01-03,LSU,SEC,Les Miles,N,Notre Dame,Ind,Charlie Weis,W,41,14,21,34,332,2,37,245,3,14,16,9,95,1,1
-2006-09-09,Tulsa,CUSA,Steve Kragthorpe,A,Brigham Young,MWC,Bronco Mendenhall,L,24,49,21,35,221,1,31,82,2,14,3,3,28,0,1
+2006-09-09,Tulsa,CUSA,Steve Kragthorpe,A,BYU,MWC,Bronco Mendenhall,L,24,49,21,35,221,1,31,82,2,14,3,3,28,0,1
 2006-09-16,Tulsa,CUSA,Steve Kragthorpe,H,North Texas,Sun Belt,Darrell Dickey,W,28,3,23,35,275,2,30,126,2,10,8,7,55,0,2
 2006-09-23,Tulsa,CUSA,Steve Kragthorpe,A,Navy,Ind,Paul Johnson,W,24,23,24,36,285,3,30,159,0,11,8,3,25,0,0
 2006-10-03,Tulsa,CUSA,Steve Kragthorpe,H,Southern Mississippi,CUSA,Jeff Bower,W,20,6,16,25,201,0,38,252,3,10,11,12,109,2,0
@@ -1042,7 +1042,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-12-30,Texas,Big 12,Mack Brown,N,Iowa,Big Ten,Kirk Ferentz,W,26,24,26,40,308,2,21,70,1,11,4,6,60,1,0
 2006-09-03,Texas Christian,MWC,Gary Patterson,A,Baylor,Big 12,Guy Morriss,W,17,7,18,27,233,2,35,98,0,8,6,8,69,0,1
 2006-09-16,Texas Christian,MWC,Gary Patterson,H,Texas Tech,Big 12,Mike Leach,W,12,3,13,23,101,0,44,180,0,5,8,12,105,0,0
-2006-09-28,Texas Christian,MWC,Gary Patterson,H,Brigham Young,MWC,Bronco Mendenhall,L,17,31,26,50,296,1,32,141,1,16,11,8,43,1,1
+2006-09-28,Texas Christian,MWC,Gary Patterson,H,BYU,MWC,Bronco Mendenhall,L,17,31,26,50,296,1,32,141,1,16,11,8,43,1,1
 2006-10-05,Texas Christian,MWC,Gary Patterson,A,Utah,MWC,Kyle Whittingham,L,7,20,14,29,228,0,31,81,1,11,3,5,43,2,1
 2006-10-21,Texas Christian,MWC,Gary Patterson,A,Army,Ind,Bobby Ross,W,31,17,13,23,169,1,44,190,2,6,12,7,67,3,1
 2006-10-28,Texas Christian,MWC,Gary Patterson,H,Wyoming,MWC,Joe Glenn,W,26,3,11,18,244,0,41,188,3,7,11,3,25,1,2
@@ -1058,7 +1058,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-10-07,Air Force,MWC,Fisher DeBerry,H,Navy,Ind,Paul Johnson,L,17,24,9,19,119,1,46,193,1,7,11,5,50,1,0
 2006-10-12,Air Force,MWC,Fisher DeBerry,H,Colorado State,MWC,Sonny Lubick,W,24,21,8,13,102,2,64,318,1,6,17,2,20,2,0
 2006-10-21,Air Force,MWC,Fisher DeBerry,A,San Diego State,MWC,Chuck Long,L,12,19,4,7,47,0,65,297,1,1,21,6,55,1,1
-2006-10-28,Air Force,MWC,Fisher DeBerry,H,Brigham Young,MWC,Bronco Mendenhall,L,14,33,4,10,39,0,49,190,2,2,13,1,10,1,1
+2006-10-28,Air Force,MWC,Fisher DeBerry,H,BYU,MWC,Bronco Mendenhall,L,14,33,4,10,39,0,49,190,2,2,13,1,10,1,1
 2006-11-03,Air Force,MWC,Fisher DeBerry,A,Army,Ind,Bobby Ross,W,43,7,2,5,44,1,63,267,4,1,17,1,5,1,0
 2006-11-11,Air Force,MWC,Fisher DeBerry,H,Notre Dame,Ind,Charlie Weis,L,17,39,14,19,205,2,60,200,0,10,11,5,50,0,0
 2006-11-18,Air Force,MWC,Fisher DeBerry,H,Utah,MWC,Kyle Whittingham,L,14,17,16,22,218,1,41,116,1,8,8,4,20,0,0
@@ -1087,7 +1087,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-11-11,Oregon,Pac-10,Mike Bellotti,A,USC,Pac-10,Pete Carroll,L,10,35,30,48,256,1,40,102,0,15,8,12,87,1,1
 2006-11-18,Oregon,Pac-10,Mike Bellotti,H,Arizona,Pac-10,Mike Stoops,L,10,37,25,45,183,0,26,163,1,10,7,2,20,2,4
 2006-11-24,Oregon,Pac-10,Mike Bellotti,A,Oregon State,Pac-10,Mike Riley,L,28,30,25,43,274,1,33,153,3,12,9,7,46,1,1
-2006-12-21,Oregon,Pac-10,Mike Bellotti,N,Brigham Young,MWC,Bronco Mendenhall,L,8,38,16,34,166,1,30,94,0,6,8,8,75,0,2
+2006-12-21,Oregon,Pac-10,Mike Bellotti,N,BYU,MWC,Bronco Mendenhall,L,8,38,16,34,166,1,30,94,0,6,8,8,75,0,2
 2006-09-02,Tennessee,SEC,Phillip Fulmer,H,California,Pac-10,Jeff Tedford,W,35,18,13,20,298,4,41,216,1,10,9,6,47,1,1
 2006-09-09,Tennessee,SEC,Phillip Fulmer,H,Air Force,MWC,Fisher DeBerry,W,31,30,24,29,333,3,32,79,1,16,7,5,25,1,1
 2006-09-16,Tennessee,SEC,Phillip Fulmer,H,Florida,SEC,Urban Meyer,L,20,21,18,33,231,1,23,-11,1,11,1,4,34,0,2
@@ -1195,7 +1195,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-10-12,Colorado State,MWC,Sonny Lubick,A,Air Force,MWC,Fisher DeBerry,L,21,24,14,23,282,2,27,106,1,8,7,7,55,0,2
 2006-10-21,Colorado State,MWC,Sonny Lubick,A,Wyoming,MWC,Joe Glenn,L,0,24,23,45,217,0,22,42,0,8,2,7,40,1,2
 2006-10-28,Colorado State,MWC,Sonny Lubick,H,New Mexico,MWC,Rocky Long,L,19,20,25,40,254,2,26,37,0,11,6,4,40,0,1
-2006-11-04,Colorado State,MWC,Sonny Lubick,H,Brigham Young,MWC,Bronco Mendenhall,L,3,24,13,23,125,0,23,26,0,5,2,5,33,0,0
+2006-11-04,Colorado State,MWC,Sonny Lubick,H,BYU,MWC,Bronco Mendenhall,L,3,24,13,23,125,0,23,26,0,5,2,5,33,0,0
 2006-11-11,Colorado State,MWC,Sonny Lubick,A,Utah,MWC,Kyle Whittingham,L,22,35,15,33,235,2,34,148,1,8,7,1,5,0,2
 2006-11-25,Colorado State,MWC,Sonny Lubick,H,Texas Christian,MWC,Gary Patterson,L,14,45,23,36,266,2,18,34,0,10,5,4,29,0,2
 2006-12-02,Colorado State,MWC,Sonny Lubick,A,San Diego State,MWC,Chuck Long,L,6,17,21,41,175,0,38,113,0,10,7,3,18,0,1
@@ -1238,7 +1238,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2006-11-18,Michigan State,Big Ten,John Smith,A,Penn State,Big Ten,Joe Paterno,L,13,17,30,62,291,1,15,14,0,13,4,7,60,0,0
 2006-08-31,Boston College,ACC,Frank Spaziani,A,Central Michigan,MAC,Jeff Quinn,W,31,24,32,47,323,3,33,66,1,19,3,7,68,2,0
 2006-09-09,Boston College,ACC,Frank Spaziani,H,Clemson,ACC,Tommy Bowden,W,34,33,22,38,212,1,37,110,2,15,6,7,54,1,0
-2006-09-16,Boston College,ACC,Frank Spaziani,H,Brigham Young,MWC,Bronco Mendenhall,W,30,23,29,48,356,2,26,115,2,16,5,2,10,2,2
+2006-09-16,Boston College,ACC,Frank Spaziani,H,BYU,MWC,Bronco Mendenhall,W,30,23,29,48,356,2,26,115,2,16,5,2,10,2,2
 2006-09-23,Boston College,ACC,Frank Spaziani,A,North Carolina State,ACC,Chuck Amato,L,15,17,13,25,149,1,42,172,1,7,8,7,55,0,1
 2006-10-12,Boston College,ACC,Frank Spaziani,H,Virginia Tech,ACC,Frank Beamer,W,22,3,16,29,174,2,34,90,0,9,3,9,60,0,0
 2006-10-21,Boston College,ACC,Frank Spaziani,A,Florida State,ACC,Bobby Bowden,W,24,19,16,26,262,0,32,60,2,8,7,6,26,1,1

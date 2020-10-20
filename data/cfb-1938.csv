@@ -43,7 +43,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1938-10-29,Furman,Southern,,H,Davidson,Southern,Gene McEver,L,12,13
 1938-11-12,Furman,Southern,,H,South Carolina,Southern,Rex Enright,L,6,27
 1938-11-24,Furman,Southern,,A,Clemson,Southern,Jess Neely,L,7,10
-1938-10-15,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,T,7,7
+1938-10-15,Utah,MSAC,Ike Armstrong,H,BYU,MSAC,Edwin Kimball,T,7,7
 1938-10-22,Utah,MSAC,Ike Armstrong,A,Utah State,MSAC,E. Lowell Romney,W,33,0
 1938-10-29,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,William Saunders,W,21,0
 1938-11-05,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Bunny Oakes,T,0,0
@@ -228,7 +228,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1938-11-12,Idaho,PCC,Ted Bank,H,Washington State,PCC,O.E. Hollingbery,L,0,12
 1938-11-19,Idaho,PCC,Ted Bank,H,Utah State,MSAC,E. Lowell Romney,W,14,0
 1938-11-24,Idaho,PCC,Ted Bank,A,Utah,MSAC,Ike Armstrong,W,16,0
-1938-09-24,Northern Arizona,BIAA,Garrett Arbelbide,A,Brigham Young,MSAC,Edwin Kimball,L,0,19
+1938-09-24,Northern Arizona,BIAA,Garrett Arbelbide,A,BYU,MSAC,Edwin Kimball,L,0,19
 1938-10-15,Northern Arizona,BIAA,Garrett Arbelbide,H,Arizona State,BIAA,Dixie Howell,W,19,13
 1938-10-22,Northern Arizona,BIAA,Garrett Arbelbide,H,New Mexico,BIAA,Ted Shipkey,L,0,20
 1938-10-28,Northern Arizona,BIAA,Garrett Arbelbide,A,New Mexico State,BIAA,Gerald Hines,L,0,34
@@ -313,7 +313,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1938-10-15,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,William Saunders,L,0,7
 1938-10-22,Utah State,MSAC,E. Lowell Romney,H,Utah,MSAC,Ike Armstrong,L,0,33
 1938-10-29,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Harry Hughes,W,6,0
-1938-11-05,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Edwin Kimball,W,3,0
+1938-11-05,Utah State,MSAC,E. Lowell Romney,A,BYU,MSAC,Edwin Kimball,W,3,0
 1938-11-12,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Dutch Witte,L,12,27
 1938-11-19,Utah State,MSAC,E. Lowell Romney,A,Idaho,PCC,Ted Bank,L,0,14
 1938-10-01,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Bunny Oakes,W,14,7
@@ -326,7 +326,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1938-11-19,Missouri,Big 6,Don Faurot,A,Saint Louis,MVC,,W,26,0
 1938-11-24,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,Adrian Lindsey,W,13,7
 1938-09-23,Denver,MSAC,William Saunders,H,Iowa State,Big 6,Jim Yeager,L,7,14
-1938-09-30,Denver,MSAC,William Saunders,H,Brigham Young,MSAC,Edwin Kimball,L,0,20
+1938-09-30,Denver,MSAC,William Saunders,H,BYU,MSAC,Edwin Kimball,L,0,20
 1938-10-08,Denver,MSAC,William Saunders,H,Colorado State,MSAC,Harry Hughes,T,0,0
 1938-10-15,Denver,MSAC,William Saunders,H,Utah State,MSAC,E. Lowell Romney,W,7,0
 1938-10-22,Denver,MSAC,William Saunders,A,Wyoming,MSAC,Dutch Witte,W,6,0
@@ -454,18 +454,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1938-11-24,George Washington,Ind,,H,West Virginia,Ind,Marshall Glenn,L,6,7
 1938-09-24,Wyoming,MSAC,Dutch Witte,A,Texas Tech,BIAA,Pete Cawthon,L,0,39
 1938-10-01,Wyoming,MSAC,Dutch Witte,H,Colorado State,MSAC,Harry Hughes,T,0,0
-1938-10-08,Wyoming,MSAC,Dutch Witte,A,Brigham Young,MSAC,Edwin Kimball,L,13,24
+1938-10-08,Wyoming,MSAC,Dutch Witte,A,BYU,MSAC,Edwin Kimball,L,13,24
 1938-10-22,Wyoming,MSAC,Dutch Witte,H,Denver,MSAC,William Saunders,L,0,6
 1938-10-29,Wyoming,MSAC,Dutch Witte,A,Colorado,MSAC,Bunny Oakes,L,6,20
 1938-11-12,Wyoming,MSAC,Dutch Witte,A,Utah State,MSAC,E. Lowell Romney,W,27,12
 1938-11-19,Wyoming,MSAC,Dutch Witte,H,Utah,MSAC,Ike Armstrong,L,0,39
-1938-09-24,Brigham Young,MSAC,Edwin Kimball,H,Northern Arizona,BIAA,Garrett Arbelbide,W,19,0
-1938-09-30,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,William Saunders,W,20,0
-1938-10-08,Brigham Young,MSAC,Edwin Kimball,H,Wyoming,MSAC,Dutch Witte,W,24,13
-1938-10-15,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,T,7,7
-1938-11-05,Brigham Young,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,L,0,3
-1938-11-12,Brigham Young,MSAC,Edwin Kimball,A,Colorado,MSAC,Bunny Oakes,L,0,8
-1938-11-19,Brigham Young,MSAC,Edwin Kimball,A,Colorado State,MSAC,Harry Hughes,W,20,12
+1938-09-24,BYU,MSAC,Edwin Kimball,H,Northern Arizona,BIAA,Garrett Arbelbide,W,19,0
+1938-09-30,BYU,MSAC,Edwin Kimball,A,Denver,MSAC,William Saunders,W,20,0
+1938-10-08,BYU,MSAC,Edwin Kimball,H,Wyoming,MSAC,Dutch Witte,W,24,13
+1938-10-15,BYU,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,T,7,7
+1938-11-05,BYU,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,L,0,3
+1938-11-12,BYU,MSAC,Edwin Kimball,A,Colorado,MSAC,Bunny Oakes,L,0,8
+1938-11-19,BYU,MSAC,Edwin Kimball,A,Colorado State,MSAC,Harry Hughes,W,20,12
 1938-09-30,Duquesne,Ind,Clipper Smith,H,Texas Tech,BIAA,Pete Cawthon,L,6,7
 1938-10-08,Duquesne,Ind,Clipper Smith,A,Pitt,Ind,Jock Sutherland,L,0,27
 1938-10-21,Duquesne,Ind,Clipper Smith,H,Mississippi State,SEC,Spike Nelson,L,7,12
@@ -760,14 +760,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1938-10-22,Colorado,MSAC,Bunny Oakes,A,Colorado State,MSAC,Harry Hughes,W,31,6
 1938-10-29,Colorado,MSAC,Bunny Oakes,H,Wyoming,MSAC,Dutch Witte,W,20,6
 1938-11-05,Colorado,MSAC,Bunny Oakes,H,Utah,MSAC,Ike Armstrong,T,0,0
-1938-11-12,Colorado,MSAC,Bunny Oakes,H,Brigham Young,MSAC,Edwin Kimball,W,8,0
+1938-11-12,Colorado,MSAC,Bunny Oakes,H,BYU,MSAC,Edwin Kimball,W,8,0
 1938-11-24,Colorado,MSAC,Bunny Oakes,A,Denver,MSAC,William Saunders,L,12,19
 1938-10-01,Colorado State,MSAC,Harry Hughes,A,Wyoming,MSAC,Dutch Witte,T,0,0
 1938-10-08,Colorado State,MSAC,Harry Hughes,A,Denver,MSAC,William Saunders,T,0,0
 1938-10-22,Colorado State,MSAC,Harry Hughes,H,Colorado,MSAC,Bunny Oakes,L,6,31
 1938-10-29,Colorado State,MSAC,Harry Hughes,H,Utah State,MSAC,E. Lowell Romney,L,0,6
 1938-11-12,Colorado State,MSAC,Harry Hughes,A,Utah,MSAC,Ike Armstrong,L,0,13
-1938-11-19,Colorado State,MSAC,Harry Hughes,H,Brigham Young,MSAC,Edwin Kimball,L,12,20
+1938-11-19,Colorado State,MSAC,Harry Hughes,H,BYU,MSAC,Edwin Kimball,L,12,20
 1938-11-24,Colorado State,MSAC,Harry Hughes,A,New Mexico,BIAA,Ted Shipkey,L,7,27
 1938-10-01,Rice,SWC,Jimmy Kitts,H,Oklahoma,Big 6,Tom Stidham,L,6,7
 1938-10-08,Rice,SWC,Jimmy Kitts,A,LSU,SEC,Bernie Moore,L,0,3

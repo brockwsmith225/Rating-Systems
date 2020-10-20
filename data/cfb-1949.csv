@@ -35,7 +35,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-11-26,Fordham,Ind,Edward Danowski,N,New York University,Ind,Hook Mylin,W,34,6
 1949-10-01,Arizona State,BIAA,Edward Doherty,A,Hardin-Simmons,BIAA,Warren Woodson,L,13,34
 1949-10-08,Arizona State,BIAA,Edward Doherty,H,Northern Arizona,BIAA,Emil Ladyko,W,62,6
-1949-10-15,Arizona State,BIAA,Edward Doherty,H,Brigham Young,Skyline,Charles Atkinson,W,49,21
+1949-10-15,Arizona State,BIAA,Edward Doherty,H,BYU,Skyline,Charles Atkinson,W,49,21
 1949-10-29,Arizona State,BIAA,Edward Doherty,A,New Mexico,BIAA,Berl Huffman,W,28,19
 1949-11-05,Arizona State,BIAA,Edward Doherty,H,New Mexico State,BIAA,Vaughn Corley,W,68,32
 1949-11-12,Arizona State,BIAA,Edward Doherty,H,Arizona,BIAA,Robert Winslow,W,34,7
@@ -52,7 +52,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-09-17,Utah,Skyline,Ike Armstrong,A,Washington,PCC,Howard Odell,L,7,14
 1949-09-24,Utah,Skyline,Ike Armstrong,A,Oregon State,PCC,Kip Taylor,L,7,27
 1949-10-01,Utah,Skyline,Ike Armstrong,A,Arizona,BIAA,Robert Winslow,T,12,12
-1949-10-08,Utah,Skyline,Ike Armstrong,H,Brigham Young,Skyline,Charles Atkinson,W,38,0
+1949-10-08,Utah,Skyline,Ike Armstrong,H,BYU,Skyline,Charles Atkinson,W,38,0
 1949-10-15,Utah,Skyline,Ike Armstrong,H,Denver,Skyline,John Baker,L,18,20
 1949-10-22,Utah,Skyline,Ike Armstrong,A,Wyoming,Skyline,Bowden Wyatt,L,0,13
 1949-10-29,Utah,Skyline,Ike Armstrong,A,Colorado,Big 7,Dallas Ward,L,7,14
@@ -116,7 +116,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-10-08,Montana,PCC,Ted Shipkey,A,Colorado State,Skyline,Robert Davis,L,12,27
 1949-10-15,Montana,PCC,Ted Shipkey,A,Oregon State,PCC,Kip Taylor,L,14,63
 1949-10-22,Montana,PCC,Ted Shipkey,H,Idaho,PCC,Dixie Howell,L,19,47
-1949-11-19,Montana,PCC,Ted Shipkey,H,Brigham Young,Skyline,Charles Atkinson,W,25,6
+1949-11-19,Montana,PCC,Ted Shipkey,H,BYU,Skyline,Charles Atkinson,W,25,6
 1949-09-24,Penn State,Ind,Joe Bedenk,H,Villanova,Ind,Jim Leonard,L,6,27
 1949-10-01,Penn State,Ind,Joe Bedenk,A,Army,Ind,Red Blaik,L,7,42
 1949-10-08,Penn State,Ind,Joe Bedenk,H,Boston College,Ind,Denny Myers,W,32,14
@@ -350,7 +350,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-10-15,Utah State,Skyline,George Melinkovich,A,Wyoming,Skyline,Bowden Wyatt,L,0,27
 1949-10-22,Utah State,Skyline,George Melinkovich,H,Colorado,Big 7,Dallas Ward,L,7,20
 1949-10-29,Utah State,Skyline,George Melinkovich,A,Colorado State,Skyline,Robert Davis,L,6,28
-1949-11-05,Utah State,Skyline,George Melinkovich,A,Brigham Young,Skyline,Charles Atkinson,W,22,3
+1949-11-05,Utah State,Skyline,George Melinkovich,A,BYU,Skyline,Charles Atkinson,W,22,3
 1949-11-24,Utah State,Skyline,George Melinkovich,A,Utah,Skyline,Ike Armstrong,L,0,34
 1949-12-03,Utah State,Skyline,George Melinkovich,A,Arizona State,BIAA,Edward Doherty,L,12,27
 1949-09-24,Missouri,Big 7,Don Faurot,A,Ohio State,Western,Wesley Fesler,L,34,35
@@ -375,7 +375,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-09-24,Denver,Skyline,John Baker,H,Colorado State,Skyline,Robert Davis,L,13,14
 1949-10-01,Denver,Skyline,John Baker,H,Oklahoma State,MVC,Jim Lookabaugh,L,2,48
 1949-10-15,Denver,Skyline,John Baker,A,Utah,Skyline,Ike Armstrong,W,20,18
-1949-10-22,Denver,Skyline,John Baker,H,Brigham Young,Skyline,Charles Atkinson,W,35,7
+1949-10-22,Denver,Skyline,John Baker,H,BYU,Skyline,Charles Atkinson,W,35,7
 1949-10-29,Denver,Skyline,John Baker,H,Arizona,BIAA,Robert Winslow,W,20,6
 1949-11-05,Denver,Skyline,John Baker,A,Saint Mary's (CA),Ind,Joe Verducci,L,21,41
 1949-11-12,Denver,Skyline,John Baker,H,Georgetown,Ind,Bob Margarita,L,13,28
@@ -503,17 +503,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-10-01,Wyoming,Skyline,Bowden Wyatt,A,Colorado State,Skyline,Robert Davis,W,8,0
 1949-10-15,Wyoming,Skyline,Bowden Wyatt,H,Utah State,Skyline,George Melinkovich,W,27,0
 1949-10-22,Wyoming,Skyline,Bowden Wyatt,H,Utah,Skyline,Ike Armstrong,W,13,0
-1949-10-29,Wyoming,Skyline,Bowden Wyatt,H,Brigham Young,Skyline,Charles Atkinson,W,45,0
+1949-10-29,Wyoming,Skyline,Bowden Wyatt,H,BYU,Skyline,Charles Atkinson,W,45,0
 1949-11-12,Wyoming,Skyline,Bowden Wyatt,A,Baylor,SWC,Bob Woodruff,L,13,32
 1949-11-24,Wyoming,Skyline,Bowden Wyatt,A,Denver,Skyline,John Baker,W,25,6
-1949-09-17,Brigham Young,Skyline,Charles Atkinson,H,UTEP,BIAA,Jack Curtice,L,6,47
-1949-10-08,Brigham Young,Skyline,Charles Atkinson,A,Utah,Skyline,Ike Armstrong,L,0,38
-1949-10-15,Brigham Young,Skyline,Charles Atkinson,A,Arizona State,BIAA,Edward Doherty,L,21,49
-1949-10-22,Brigham Young,Skyline,Charles Atkinson,A,Denver,Skyline,John Baker,L,7,35
-1949-10-29,Brigham Young,Skyline,Charles Atkinson,A,Wyoming,Skyline,Bowden Wyatt,L,0,45
-1949-11-05,Brigham Young,Skyline,Charles Atkinson,H,Utah State,Skyline,George Melinkovich,L,3,22
-1949-11-11,Brigham Young,Skyline,Charles Atkinson,H,Colorado State,Skyline,Robert Davis,L,14,16
-1949-11-19,Brigham Young,Skyline,Charles Atkinson,A,Montana,PCC,Ted Shipkey,L,6,25
+1949-09-17,BYU,Skyline,Charles Atkinson,H,UTEP,BIAA,Jack Curtice,L,6,47
+1949-10-08,BYU,Skyline,Charles Atkinson,A,Utah,Skyline,Ike Armstrong,L,0,38
+1949-10-15,BYU,Skyline,Charles Atkinson,A,Arizona State,BIAA,Edward Doherty,L,21,49
+1949-10-22,BYU,Skyline,Charles Atkinson,A,Denver,Skyline,John Baker,L,7,35
+1949-10-29,BYU,Skyline,Charles Atkinson,A,Wyoming,Skyline,Bowden Wyatt,L,0,45
+1949-11-05,BYU,Skyline,Charles Atkinson,H,Utah State,Skyline,George Melinkovich,L,3,22
+1949-11-11,BYU,Skyline,Charles Atkinson,H,Colorado State,Skyline,Robert Davis,L,14,16
+1949-11-19,BYU,Skyline,Charles Atkinson,A,Montana,PCC,Ted Shipkey,L,6,25
 1949-09-17,Duquesne,Ind,Phil Ahwesh,A,Wake Forest,Southern,D.C. Walker,L,7,22
 1949-10-07,Duquesne,Ind,Phil Ahwesh,A,Alabama,SEC,Red Drew,L,8,48
 1949-10-15,Duquesne,Ind,Phil Ahwesh,A,Holy Cross,Ind,William Osmanski,W,40,14
@@ -651,7 +651,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-11-05,William & Mary,Southern,Rube McCray,H,North Carolina,Southern,Carl Snavely,L,14,20
 1949-11-19,William & Mary,Southern,Rube McCray,A,Arkansas,SWC,John Barnhill,W,20,0
 1949-11-26,William & Mary,Southern,Rube McCray,H,North Carolina State,Southern,Beattie Feathers,W,33,7
-1949-09-17,UTEP,BIAA,Jack Curtice,A,Brigham Young,Skyline,Charles Atkinson,W,47,6
+1949-09-17,UTEP,BIAA,Jack Curtice,A,BYU,Skyline,Charles Atkinson,W,47,6
 1949-10-08,UTEP,BIAA,Jack Curtice,A,West Texas A&M,BIAA,Frank Kimbrough,W,34,7
 1949-10-15,UTEP,BIAA,Jack Curtice,A,Arizona,BIAA,Robert Winslow,W,28,0
 1949-10-22,UTEP,BIAA,Jack Curtice,H,New Mexico,BIAA,Berl Huffman,W,7,0
@@ -849,7 +849,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1949-10-08,Colorado State,Skyline,Robert Davis,H,Montana,PCC,Ted Shipkey,W,27,12
 1949-10-29,Colorado State,Skyline,Robert Davis,H,Utah State,Skyline,George Melinkovich,W,28,6
 1949-11-05,Colorado State,Skyline,Robert Davis,A,Utah,Skyline,Ike Armstrong,W,21,12
-1949-11-11,Colorado State,Skyline,Robert Davis,A,Brigham Young,Skyline,Charles Atkinson,W,16,14
+1949-11-11,Colorado State,Skyline,Robert Davis,A,BYU,Skyline,Charles Atkinson,W,16,14
 1949-11-19,Colorado State,Skyline,Robert Davis,A,New Mexico State,BIAA,Vaughn Corley,W,45,0
 1949-11-26,Colorado State,Skyline,Robert Davis,A,Colorado,Big 7,Dallas Ward,W,14,7
 1949-09-24,Rice,SWC,Jess Neely,H,Clemson,Southern,Frank Howard,W,33,7

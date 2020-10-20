@@ -33,7 +33,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-11-03,Indiana,Big Ten,Lee Corso,H,Minnesota,Big Ten,Joe Salem,W,42,24
 1979-11-10,Indiana,Big Ten,Lee Corso,A,Illinois,Big Ten,Gary Moeller,W,45,14
 1979-11-17,Indiana,Big Ten,Lee Corso,H,Purdue,Big Ten,Jim Young,L,21,37
-1979-12-21,Indiana,Big Ten,Lee Corso,N,Brigham Young,WAC,LaVell Edwards,W,38,37
+1979-12-21,Indiana,Big Ten,Lee Corso,N,BYU,WAC,LaVell Edwards,W,38,37
 1979-09-08,Florida State,Ind,Bobby Bowden,H,Southern Mississippi,Ind,Bobby Collins,W,17,14
 1979-09-15,Florida State,Ind,Bobby Bowden,H,Arizona State,Pac-10,Bob Owens,W,31,3
 1979-09-22,Florida State,Ind,Bobby Bowden,H,Miami (FL),Ind,Howard Schnellenberger,W,40,23
@@ -99,7 +99,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-10-27,Utah,WAC,Wayne Howard,H,San Diego State,WAC,Claude Gilbert,L,13,17
 1979-11-03,Utah,WAC,Wayne Howard,A,New Mexico,WAC,Bill Mondt,W,26,7
 1979-11-10,Utah,WAC,Wayne Howard,H,UTEP,WAC,Bill Michael,W,35,0
-1979-11-17,Utah,WAC,Wayne Howard,A,Brigham Young,WAC,LaVell Edwards,L,0,27
+1979-11-17,Utah,WAC,Wayne Howard,A,BYU,WAC,LaVell Edwards,L,0,27
 1979-09-08,Cal State Fullerton,PCAA,Jim Colletto,H,Nevada-Las Vegas,Ind,Tony Knap,L,14,35
 1979-09-29,Cal State Fullerton,PCAA,Jim Colletto,A,Pacific,PCAA,Bob Toledo,W,17,7
 1979-10-06,Cal State Fullerton,PCAA,Jim Colletto,A,San Jose State,PCAA,Jack Elway,L,0,23
@@ -461,7 +461,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-10-20,Long Beach State,PCAA,Dave Currey,H,Fresno State,PCAA,Bob Padilla,W,24,14
 1979-10-27,Long Beach State,PCAA,Dave Currey,A,San Jose State,PCAA,Jack Elway,L,42,53
 1979-11-03,Long Beach State,PCAA,Dave Currey,H,Pacific,PCAA,Bob Toledo,W,17,15
-1979-11-09,Long Beach State,PCAA,Dave Currey,H,Brigham Young,WAC,LaVell Edwards,L,17,31
+1979-11-09,Long Beach State,PCAA,Dave Currey,H,BYU,WAC,LaVell Edwards,L,17,31
 1979-11-17,Long Beach State,PCAA,Dave Currey,A,Wichita State,MVC,Willie Jeffries,W,16,10
 1979-11-24,Long Beach State,PCAA,Dave Currey,H,Cal State Fullerton,PCAA,Jim Colletto,W,16,13
 1979-09-08,Utah State,PCAA,Bruce Snyder,A,San Jose State,PCAA,Jack Elway,T,48,48
@@ -469,7 +469,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-09-22,Utah State,PCAA,Bruce Snyder,H,Colorado State,WAC,Sarkis Arslanian,W,24,0
 1979-09-29,Utah State,PCAA,Bruce Snyder,A,Utah,WAC,Wayne Howard,W,47,21
 1979-10-06,Utah State,PCAA,Bruce Snyder,H,Long Beach State,PCAA,Dave Currey,W,51,28
-1979-10-13,Utah State,PCAA,Bruce Snyder,H,Brigham Young,WAC,LaVell Edwards,L,24,48
+1979-10-13,Utah State,PCAA,Bruce Snyder,H,BYU,WAC,LaVell Edwards,L,24,48
 1979-10-20,Utah State,PCAA,Bruce Snyder,A,Pacific,PCAA,Bob Toledo,W,15,14
 1979-10-27,Utah State,PCAA,Bruce Snyder,A,Arizona State,Pac-10,Bob Owens,L,14,28
 1979-11-03,Utah State,PCAA,Bruce Snyder,H,Cal State Fullerton,PCAA,Jim Colletto,W,35,7
@@ -551,11 +551,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-11-03,San Diego State,WAC,Claude Gilbert,H,Wyoming,WAC,Bill Lewis,W,31,21
 1979-11-10,San Diego State,WAC,Claude Gilbert,H,Arizona,Pac-10,Tony Mason,W,42,10
 1979-11-17,San Diego State,WAC,Claude Gilbert,H,UTEP,WAC,Bill Michael,W,42,20
-1979-11-24,San Diego State,WAC,Claude Gilbert,H,Brigham Young,WAC,LaVell Edwards,L,14,63
+1979-11-24,San Diego State,WAC,Claude Gilbert,H,BYU,WAC,LaVell Edwards,L,14,63
 1979-09-08,Hawaii,WAC,Dick Tomey,H,Utah,WAC,Wayne Howard,L,23,27
 1979-09-22,Hawaii,WAC,Dick Tomey,H,New Mexico,WAC,Bill Mondt,W,20,3
 1979-09-29,Hawaii,WAC,Dick Tomey,H,Nevada-Las Vegas,Ind,Tony Knap,L,31,48
-1979-10-05,Hawaii,WAC,Dick Tomey,A,Brigham Young,WAC,LaVell Edwards,L,15,38
+1979-10-05,Hawaii,WAC,Dick Tomey,A,BYU,WAC,LaVell Edwards,L,15,38
 1979-10-27,Hawaii,WAC,Dick Tomey,A,UTEP,WAC,Bill Michael,W,27,12
 1979-11-03,Hawaii,WAC,Dick Tomey,H,Temple,Ind,Wayne Hardin,L,31,34
 1979-11-17,Hawaii,WAC,Dick Tomey,H,Wyoming,WAC,Bill Lewis,L,13,21
@@ -627,7 +627,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-10-06,New Mexico,WAC,Bill Mondt,H,San Diego State,WAC,Claude Gilbert,L,7,35
 1979-10-13,New Mexico,WAC,Bill Mondt,A,Nevada-Las Vegas,Ind,Tony Knap,L,20,28
 1979-10-20,New Mexico,WAC,Bill Mondt,H,UTEP,WAC,Bill Michael,W,20,0
-1979-10-27,New Mexico,WAC,Bill Mondt,A,Brigham Young,WAC,LaVell Edwards,L,7,59
+1979-10-27,New Mexico,WAC,Bill Mondt,A,BYU,WAC,LaVell Edwards,L,7,59
 1979-11-03,New Mexico,WAC,Bill Mondt,H,Utah,WAC,Wayne Howard,L,7,26
 1979-11-10,New Mexico,WAC,Bill Mondt,A,Colorado State,WAC,Sarkis Arslanian,W,24,9
 1979-11-24,New Mexico,WAC,Bill Mondt,H,Wyoming,WAC,Bill Lewis,W,17,3
@@ -722,23 +722,23 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-09-29,Wyoming,WAC,Bill Lewis,H,Colorado State,WAC,Sarkis Arslanian,L,16,20
 1979-10-06,Wyoming,WAC,Bill Lewis,H,UTEP,WAC,Bill Michael,W,23,3
 1979-10-13,Wyoming,WAC,Bill Lewis,A,Utah,WAC,Wayne Howard,L,14,24
-1979-10-20,Wyoming,WAC,Bill Lewis,H,Brigham Young,WAC,LaVell Edwards,L,14,54
+1979-10-20,Wyoming,WAC,Bill Lewis,H,BYU,WAC,LaVell Edwards,L,14,54
 1979-10-27,Wyoming,WAC,Bill Lewis,H,Nevada-Las Vegas,Ind,Tony Knap,L,24,28
 1979-11-03,Wyoming,WAC,Bill Lewis,A,San Diego State,WAC,Claude Gilbert,L,21,31
 1979-11-10,Wyoming,WAC,Bill Lewis,H,Arkansas State,Southland,Larry Lacewell,W,17,14
 1979-11-17,Wyoming,WAC,Bill Lewis,A,Hawaii,WAC,Dick Tomey,W,21,13
 1979-11-24,Wyoming,WAC,Bill Lewis,A,New Mexico,WAC,Bill Mondt,L,3,17
-1979-09-08,Brigham Young,WAC,LaVell Edwards,A,Texas A&M,SWC,Tom Wilson,W,18,17
-1979-09-29,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,31,7
-1979-10-05,Brigham Young,WAC,LaVell Edwards,H,Hawaii,WAC,Dick Tomey,W,38,15
-1979-10-13,Brigham Young,WAC,LaVell Edwards,A,Utah State,PCAA,Bruce Snyder,W,48,24
-1979-10-20,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Bill Lewis,W,54,14
-1979-10-27,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,59,7
-1979-11-03,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,W,30,7
-1979-11-09,Brigham Young,WAC,LaVell Edwards,A,Long Beach State,PCAA,Dave Currey,W,31,17
-1979-11-17,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Wayne Howard,W,27,0
-1979-11-24,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Claude Gilbert,W,63,14
-1979-12-21,Brigham Young,WAC,LaVell Edwards,N,Indiana,Big Ten,Lee Corso,L,37,38
+1979-09-08,BYU,WAC,LaVell Edwards,A,Texas A&M,SWC,Tom Wilson,W,18,17
+1979-09-29,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,31,7
+1979-10-05,BYU,WAC,LaVell Edwards,H,Hawaii,WAC,Dick Tomey,W,38,15
+1979-10-13,BYU,WAC,LaVell Edwards,A,Utah State,PCAA,Bruce Snyder,W,48,24
+1979-10-20,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Bill Lewis,W,54,14
+1979-10-27,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,59,7
+1979-11-03,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,W,30,7
+1979-11-09,BYU,WAC,LaVell Edwards,A,Long Beach State,PCAA,Dave Currey,W,31,17
+1979-11-17,BYU,WAC,LaVell Edwards,H,Utah,WAC,Wayne Howard,W,27,0
+1979-11-24,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Claude Gilbert,W,63,14
+1979-12-21,BYU,WAC,LaVell Edwards,N,Indiana,Big Ten,Lee Corso,L,37,38
 1979-09-22,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,John Anderson,W,13,12
 1979-09-29,Yale,Ivy,Carmen Cozza,H,Connecticut,Ind,Walt Nadzak,W,24,17
 1979-10-06,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Frederick Dunlap,W,27,0
@@ -949,7 +949,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-09-08,UTEP,WAC,Bill Michael,H,Pacific,PCAA,Bob Toledo,W,31,7
 1979-09-15,UTEP,WAC,Bill Michael,H,New Mexico State,MVC,Gil Krueger,L,13,14
 1979-09-22,UTEP,WAC,Bill Michael,H,Nevada-Las Vegas,Ind,Tony Knap,W,17,15
-1979-09-29,UTEP,WAC,Bill Michael,A,Brigham Young,WAC,LaVell Edwards,L,7,31
+1979-09-29,UTEP,WAC,Bill Michael,A,BYU,WAC,LaVell Edwards,L,7,31
 1979-10-06,UTEP,WAC,Bill Michael,A,Wyoming,WAC,Bill Lewis,L,3,23
 1979-10-13,UTEP,WAC,Bill Michael,H,Colorado State,WAC,Sarkis Arslanian,L,3,17
 1979-10-20,UTEP,WAC,Bill Michael,A,New Mexico,WAC,Bill Mondt,L,0,20
@@ -1222,7 +1222,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-10-13,Colorado State,WAC,Sarkis Arslanian,A,UTEP,WAC,Bill Michael,W,17,3
 1979-10-20,Colorado State,WAC,Sarkis Arslanian,H,San Diego State,WAC,Claude Gilbert,W,37,3
 1979-10-27,Colorado State,WAC,Sarkis Arslanian,H,Air Force,Ind,Ken Hatfield,W,20,6
-1979-11-03,Colorado State,WAC,Sarkis Arslanian,H,Brigham Young,WAC,LaVell Edwards,L,7,30
+1979-11-03,Colorado State,WAC,Sarkis Arslanian,H,BYU,WAC,LaVell Edwards,L,7,30
 1979-11-10,Colorado State,WAC,Sarkis Arslanian,H,New Mexico,WAC,Bill Mondt,L,9,24
 1979-11-17,Colorado State,WAC,Sarkis Arslanian,A,Nevada-Las Vegas,Ind,Tony Knap,T,21,21
 1979-11-24,Colorado State,WAC,Sarkis Arslanian,A,Hawaii,WAC,Dick Tomey,L,10,24
@@ -1237,7 +1237,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1979-11-03,Rice,SWC,Ray Alborn,H,Arkansas,SWC,Lou Holtz,L,7,34
 1979-11-17,Rice,SWC,Ray Alborn,A,Baylor,SWC,Grant Teaff,L,14,45
 1979-12-01,Rice,SWC,Ray Alborn,H,Houston,SWC,Bill Yeoman,L,0,63
-1979-09-08,Texas A&M,SWC,Tom Wilson,H,Brigham Young,WAC,LaVell Edwards,L,17,18
+1979-09-08,Texas A&M,SWC,Tom Wilson,H,BYU,WAC,LaVell Edwards,L,17,18
 1979-09-15,Texas A&M,SWC,Tom Wilson,A,Baylor,SWC,Grant Teaff,L,7,17
 1979-09-22,Texas A&M,SWC,Tom Wilson,A,Penn State,Ind,Joe Paterno,W,27,14
 1979-09-29,Texas A&M,SWC,Tom Wilson,A,Memphis,Ind,Richard Williamson,W,17,7

@@ -72,7 +72,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-10-08,Arizona State,Pac-10,Bruce Snyder,H,Stanford,Pac-10,Bill Walsh,W,36,35
 1994-10-15,Arizona State,Pac-10,Bruce Snyder,A,Washington,Pac-10,Jim Lambright,L,14,35
 1994-10-22,Arizona State,Pac-10,Bruce Snyder,H,Washington State,Pac-10,Mike Price,L,21,28
-1994-10-29,Arizona State,Pac-10,Bruce Snyder,A,Brigham Young,WAC,LaVell Edwards,W,36,15
+1994-10-29,Arizona State,Pac-10,Bruce Snyder,A,BYU,WAC,LaVell Edwards,W,36,15
 1994-11-05,Arizona State,Pac-10,Bruce Snyder,A,Oregon,Pac-10,Rich Brooks,L,10,34
 1994-11-12,Arizona State,Pac-10,Bruce Snyder,H,UCLA,Pac-10,Terry Donahue,L,23,59
 1994-11-25,Arizona State,Pac-10,Bruce Snyder,A,Arizona,Pac-10,Dick Tomey,L,27,28
@@ -85,7 +85,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-10-29,Utah,WAC,Ron McBride,H,UTEP,WAC,Charlie Bailey,W,52,7
 1994-11-05,Utah,WAC,Ron McBride,A,New Mexico,WAC,Dennis Franchione,L,21,23
 1994-11-12,Utah,WAC,Ron McBride,A,Air Force,WAC,Fisher DeBerry,L,33,40
-1994-11-19,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,W,34,31
+1994-11-19,Utah,WAC,Ron McBride,H,BYU,WAC,LaVell Edwards,W,34,31
 1994-12-27,Utah,WAC,Ron McBride,N,Arizona,Pac-10,Dick Tomey,W,16,13
 1994-09-03,Syracuse,Big East,Paul Pasqualoni,H,Oklahoma,Big 8,Gary Gibbs,L,29,30
 1994-09-10,Syracuse,Big East,Paul Pasqualoni,A,Cincinnati,Ind,Rick Minter,W,34,19
@@ -270,7 +270,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-11-05,Oklahoma,Big 8,Gary Gibbs,H,Missouri,Big 8,Larry Smith,W,30,13
 1994-11-12,Oklahoma,Big 8,Gary Gibbs,A,Oklahoma State,Big 8,Pat Jones,W,33,14
 1994-11-25,Oklahoma,Big 8,Gary Gibbs,H,Nebraska,Big 8,Tom Osborne,L,3,13
-1994-12-29,Oklahoma,Big 8,Gary Gibbs,N,Brigham Young,WAC,LaVell Edwards,L,6,31
+1994-12-29,Oklahoma,Big 8,Gary Gibbs,N,BYU,WAC,LaVell Edwards,L,6,31
 1994-09-03,Virginia Tech,Big East,Frank Beamer,H,Arkansas State,Big West,John Bobo,W,34,7
 1994-09-10,Virginia Tech,Big East,Frank Beamer,A,Southern Mississippi,Ind,Jeff Bower,W,24,14
 1994-09-17,Virginia Tech,Big East,Frank Beamer,A,Boston College,Big East,Dan Henning,W,12,7
@@ -363,7 +363,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-09-10,Utah State,Big West,Charlie Weatherbie,A,Colorado State,WAC,Sonny Lubick,L,16,41
 1994-09-17,Utah State,Big West,Charlie Weatherbie,A,Ohio,MAC,Tom Lichtenberg,W,5,0
 1994-09-24,Utah State,Big West,Charlie Weatherbie,H,Nevada-Las Vegas,Big West,Jeff Horton,L,21,23
-1994-09-30,Utah State,Big West,Charlie Weatherbie,A,Brigham Young,WAC,LaVell Edwards,L,6,34
+1994-09-30,Utah State,Big West,Charlie Weatherbie,A,BYU,WAC,LaVell Edwards,L,6,34
 1994-10-15,Utah State,Big West,Charlie Weatherbie,A,Louisiana Tech,Big West,Joe Peace,W,7,3
 1994-10-22,Utah State,Big West,Charlie Weatherbie,H,Louisiana,Big West,Nelson Stokley,L,25,27
 1994-10-29,Utah State,Big West,Charlie Weatherbie,A,Pacific,Big West,Chuck Shelton,L,6,28
@@ -456,9 +456,9 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-10-15,San Diego State,WAC,Ted Tollner,A,New Mexico,WAC,Dennis Franchione,W,20,13
 1994-10-22,San Diego State,WAC,Ted Tollner,A,Wyoming,WAC,Joe Tiller,L,35,52
 1994-10-29,San Diego State,WAC,Ted Tollner,H,Hawaii,WAC,Bob Wagner,W,38,23
-1994-11-10,San Diego State,WAC,Ted Tollner,A,Brigham Young,WAC,LaVell Edwards,L,28,35
+1994-11-10,San Diego State,WAC,Ted Tollner,A,BYU,WAC,LaVell Edwards,L,28,35
 1994-11-26,San Diego State,WAC,Ted Tollner,H,Fresno State,WAC,Jim Sweeney,L,42,49
-1994-09-03,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,L,12,13
+1994-09-03,Hawaii,WAC,Bob Wagner,H,BYU,WAC,LaVell Edwards,L,12,13
 1994-09-10,Hawaii,WAC,Bob Wagner,H,Oregon,Pac-10,Rich Brooks,W,36,16
 1994-09-17,Hawaii,WAC,Bob Wagner,A,California,Pac-10,Keith Gilbertson,W,21,7
 1994-09-24,Hawaii,WAC,Bob Wagner,H,Fresno State,WAC,Jim Sweeney,L,16,31
@@ -529,7 +529,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-09-03,New Mexico,WAC,Dennis Franchione,A,Texas Tech,SWC,Spike Dykes,L,31,37
 1994-09-10,New Mexico,WAC,Dennis Franchione,H,Texas Christian,SWC,Pat Sullivan,L,29,44
 1994-09-17,New Mexico,WAC,Dennis Franchione,A,SMU,SWC,Tom Rossley,L,31,34
-1994-09-24,New Mexico,WAC,Dennis Franchione,A,Brigham Young,WAC,LaVell Edwards,L,47,49
+1994-09-24,New Mexico,WAC,Dennis Franchione,A,BYU,WAC,LaVell Edwards,L,47,49
 1994-10-01,New Mexico,WAC,Dennis Franchione,H,Colorado State,WAC,Sonny Lubick,L,31,38
 1994-10-08,New Mexico,WAC,Dennis Franchione,A,Hawaii,WAC,Bob Wagner,W,38,21
 1994-10-15,New Mexico,WAC,Dennis Franchione,H,San Diego State,WAC,Ted Tollner,L,13,20
@@ -553,7 +553,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-09-24,Notre Dame,Ind,Lou Holtz,H,Purdue,Big Ten,Jim Colletto,W,39,21
 1994-10-01,Notre Dame,Ind,Lou Holtz,H,Stanford,Pac-10,Bill Walsh,W,34,15
 1994-10-08,Notre Dame,Ind,Lou Holtz,A,Boston College,Big East,Dan Henning,L,11,30
-1994-10-15,Notre Dame,Ind,Lou Holtz,H,Brigham Young,WAC,LaVell Edwards,L,14,21
+1994-10-15,Notre Dame,Ind,Lou Holtz,H,BYU,WAC,LaVell Edwards,L,14,21
 1994-10-29,Notre Dame,Ind,Lou Holtz,H,Navy,Ind,George Chaump,W,58,21
 1994-11-12,Notre Dame,Ind,Lou Holtz,A,Florida State,ACC,Bobby Bowden,L,16,23
 1994-11-19,Notre Dame,Ind,Lou Holtz,H,Air Force,WAC,Fisher DeBerry,W,42,30
@@ -622,19 +622,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-11-05,Wyoming,WAC,Joe Tiller,A,Colorado State,WAC,Sonny Lubick,L,24,35
 1994-11-12,Wyoming,WAC,Joe Tiller,H,New Mexico,WAC,Dennis Franchione,W,38,28
 1994-11-19,Wyoming,WAC,Joe Tiller,A,Hawaii,WAC,Bob Wagner,W,13,10
-1994-09-03,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,W,13,12
-1994-09-10,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,45,21
-1994-09-17,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Sonny Lubick,L,21,28
-1994-09-24,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,49,47
-1994-09-30,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Charlie Weatherbie,W,34,6
-1994-10-08,Brigham Young,WAC,LaVell Edwards,A,Fresno State,WAC,Jim Sweeney,W,32,30
-1994-10-15,Brigham Young,WAC,LaVell Edwards,A,Notre Dame,Ind,Lou Holtz,W,21,14
-1994-10-22,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Charlie Bailey,W,34,28
-1994-10-29,Brigham Young,WAC,LaVell Edwards,H,Arizona State,Pac-10,Bruce Snyder,L,15,36
-1994-11-05,Brigham Young,WAC,LaVell Edwards,H,Louisiana-Monroe,Ind,Ed Zaunbrecher,W,24,10
-1994-11-10,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Ted Tollner,W,35,28
-1994-11-19,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,L,31,34
-1994-12-29,Brigham Young,WAC,LaVell Edwards,N,Oklahoma,Big 8,Gary Gibbs,W,31,6
+1994-09-03,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,W,13,12
+1994-09-10,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,45,21
+1994-09-17,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Sonny Lubick,L,21,28
+1994-09-24,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,49,47
+1994-09-30,BYU,WAC,LaVell Edwards,H,Utah State,Big West,Charlie Weatherbie,W,34,6
+1994-10-08,BYU,WAC,LaVell Edwards,A,Fresno State,WAC,Jim Sweeney,W,32,30
+1994-10-15,BYU,WAC,LaVell Edwards,A,Notre Dame,Ind,Lou Holtz,W,21,14
+1994-10-22,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Charlie Bailey,W,34,28
+1994-10-29,BYU,WAC,LaVell Edwards,H,Arizona State,Pac-10,Bruce Snyder,L,15,36
+1994-11-05,BYU,WAC,LaVell Edwards,H,Louisiana-Monroe,Ind,Ed Zaunbrecher,W,24,10
+1994-11-10,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Ted Tollner,W,35,28
+1994-11-19,BYU,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,L,31,34
+1994-12-29,BYU,WAC,LaVell Edwards,N,Oklahoma,Big 8,Gary Gibbs,W,31,6
 1994-09-01,Georgia Tech,ACC,George O'Leary,H,Arizona,Pac-10,Dick Tomey,L,14,19
 1994-09-24,Georgia Tech,ACC,George O'Leary,H,Duke,ACC,Fred Goldsmith,L,12,27
 1994-10-01,Georgia Tech,ACC,George O'Leary,A,North Carolina State,ACC,Mike O'Cain,L,13,21
@@ -724,7 +724,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-09-17,Louisiana-Monroe,Ind,Ed Zaunbrecher,A,Georgia,SEC,Ray Goff,L,6,70
 1994-09-24,Louisiana-Monroe,Ind,Ed Zaunbrecher,A,Nevada,Big West,Chris Ault,L,22,34
 1994-10-08,Louisiana-Monroe,Ind,Ed Zaunbrecher,A,Wyoming,WAC,Joe Tiller,L,14,28
-1994-11-05,Louisiana-Monroe,Ind,Ed Zaunbrecher,A,Brigham Young,WAC,LaVell Edwards,L,10,24
+1994-11-05,Louisiana-Monroe,Ind,Ed Zaunbrecher,A,BYU,WAC,LaVell Edwards,L,10,24
 1994-11-12,Louisiana-Monroe,Ind,Ed Zaunbrecher,A,Kentucky,SEC,Bill Curry,W,21,14
 1994-09-03,UCLA,Pac-10,Terry Donahue,H,Tennessee,SEC,Phillip Fulmer,W,25,23
 1994-09-10,UCLA,Pac-10,Terry Donahue,H,SMU,SWC,Tom Rossley,W,17,10
@@ -784,7 +784,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-10-01,UTEP,WAC,Charlie Bailey,H,Hawaii,WAC,Bob Wagner,W,34,28
 1994-10-08,UTEP,WAC,Charlie Bailey,A,Tulsa,Ind,David Rader,W,24,17
 1994-10-15,UTEP,WAC,Charlie Bailey,A,Colorado State,WAC,Sonny Lubick,L,9,47
-1994-10-22,UTEP,WAC,Charlie Bailey,H,Brigham Young,WAC,LaVell Edwards,L,28,34
+1994-10-22,UTEP,WAC,Charlie Bailey,H,BYU,WAC,LaVell Edwards,L,28,34
 1994-10-29,UTEP,WAC,Charlie Bailey,A,Utah,WAC,Ron McBride,L,7,52
 1994-11-12,UTEP,WAC,Charlie Bailey,H,Fresno State,WAC,Jim Sweeney,T,30,30
 1994-11-19,UTEP,WAC,Charlie Bailey,A,New Mexico,WAC,Dennis Franchione,L,21,25
@@ -845,7 +845,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-11-25,Texas Christian,SWC,Pat Sullivan,H,Texas Tech,SWC,Spike Dykes,W,24,17
 1994-12-28,Texas Christian,SWC,Pat Sullivan,N,Virginia,ACC,George Welsh,L,10,20
 1994-09-03,Air Force,WAC,Fisher DeBerry,H,Colorado State,WAC,Sonny Lubick,L,21,34
-1994-09-10,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,21,45
+1994-09-10,Air Force,WAC,Fisher DeBerry,H,BYU,WAC,LaVell Edwards,L,21,45
 1994-09-17,Air Force,WAC,Fisher DeBerry,H,Northwestern,Big Ten,Gary Barnett,L,10,14
 1994-09-24,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,Charlie Bailey,W,47,7
 1994-10-01,Air Force,WAC,Fisher DeBerry,A,San Diego State,WAC,Ted Tollner,W,36,35
@@ -975,7 +975,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1995-01-02,Colorado,Big 8,Bill McCartney,N,Notre Dame,Ind,Lou Holtz,W,41,24
 1994-09-03,Colorado State,WAC,Sonny Lubick,A,Air Force,WAC,Fisher DeBerry,W,34,21
 1994-09-10,Colorado State,WAC,Sonny Lubick,H,Utah State,Big West,Charlie Weatherbie,W,41,16
-1994-09-17,Colorado State,WAC,Sonny Lubick,A,Brigham Young,WAC,LaVell Edwards,W,28,21
+1994-09-17,Colorado State,WAC,Sonny Lubick,A,BYU,WAC,LaVell Edwards,W,28,21
 1994-09-24,Colorado State,WAC,Sonny Lubick,H,San Diego State,WAC,Ted Tollner,W,19,17
 1994-10-01,Colorado State,WAC,Sonny Lubick,A,New Mexico,WAC,Dennis Franchione,W,38,31
 1994-10-08,Colorado State,WAC,Sonny Lubick,A,Arizona,Pac-10,Dick Tomey,W,21,16
@@ -1109,7 +1109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1994-09-10,Fresno State,WAC,Jim Sweeney,A,Washington State,Pac-10,Mike Price,L,3,24
 1994-09-17,Fresno State,WAC,Jim Sweeney,H,Oregon State,Pac-10,Jerry Pettibone,W,24,14
 1994-09-24,Fresno State,WAC,Jim Sweeney,A,Hawaii,WAC,Bob Wagner,W,31,16
-1994-10-08,Fresno State,WAC,Jim Sweeney,H,Brigham Young,WAC,LaVell Edwards,L,30,32
+1994-10-08,Fresno State,WAC,Jim Sweeney,H,BYU,WAC,LaVell Edwards,L,30,32
 1994-10-15,Fresno State,WAC,Jim Sweeney,H,Wyoming,WAC,Joe Tiller,W,38,24
 1994-10-22,Fresno State,WAC,Jim Sweeney,A,Air Force,WAC,Fisher DeBerry,L,7,42
 1994-10-29,Fresno State,WAC,Jim Sweeney,H,New Mexico,WAC,Dennis Franchione,L,32,49

@@ -97,7 +97,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-12-30,Arizona State,Pac-12,Todd Graham,N,Texas Tech,Big 12,Kliff Kingsbury,L,23,37,16,29,125,0,49,287,2,6,14,7,59,0,1
 2013-08-29,Utah,Pac-12,Kyle Whittingham,H,Utah State,MWC,Matt Wells,W,30,26,17,28,302,2,44,148,1,10,10,5,30,1,0
 2013-09-14,Utah,Pac-12,Kyle Whittingham,H,Oregon State,Pac-12,Mike Riley,L,48,51,19,33,279,2,39,260,4,13,12,5,59,0,3
-2013-09-21,Utah,Pac-12,Kyle Whittingham,A,Brigham Young,Ind,Bronco Mendenhall,W,20,13,24,35,273,2,33,129,0,11,4,8,65,0,0
+2013-09-21,Utah,Pac-12,Kyle Whittingham,A,BYU,Ind,Bronco Mendenhall,W,20,13,24,35,273,2,33,129,0,11,4,8,65,0,0
 2013-10-03,Utah,Pac-12,Kyle Whittingham,H,UCLA,Pac-12,Jim Mora,L,27,34,22,44,288,2,33,99,0,13,7,6,60,0,6
 2013-10-12,Utah,Pac-12,Kyle Whittingham,H,Stanford,Pac-12,David Shaw,W,27,21,23,34,234,2,39,181,1,8,13,4,30,0,1
 2013-10-19,Utah,Pac-12,Kyle Whittingham,A,Arizona,Pac-12,Rich Rodriguez,L,24,35,15,32,157,2,42,172,1,7,9,5,60,0,2
@@ -326,7 +326,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-11-23,Maryland,ACC,Randy Edsall,H,Boston College,ACC,Steve Addazio,L,26,29,19,31,178,1,34,100,2,10,4,5,44,1,0
 2013-11-30,Maryland,ACC,Randy Edsall,A,North Carolina State,ACC,Dave Doeren,W,41,21,13,25,259,2,38,173,3,8,10,4,34,1,0
 2013-12-27,Maryland,ACC,Randy Edsall,N,Marshall,CUSA,Doc Holliday,L,20,31,14,24,197,2,49,194,0,7,11,5,45,0,1
-2013-08-31,Virginia,ACC,Mike London,H,Brigham Young,Ind,Bronco Mendenhall,W,19,16,18,32,114,1,42,109,1,9,5,6,41,1,1
+2013-08-31,Virginia,ACC,Mike London,H,BYU,Ind,Bronco Mendenhall,W,19,16,18,32,114,1,42,109,1,9,5,6,41,1,1
 2013-09-07,Virginia,ACC,Mike London,H,Oregon,Pac-12,Mark Helfrich,L,10,59,31,47,174,0,39,124,1,12,4,4,45,1,3
 2013-09-28,Virginia,ACC,Mike London,A,Pitt,ACC,Paul Chryst,L,3,14,15,37,123,0,33,65,0,6,4,5,49,2,0
 2013-10-05,Virginia,ACC,Mike London,H,Ball State,MAC,Pete Lembo,L,27,48,22,42,223,0,41,236,3,12,10,13,93,3,1
@@ -439,7 +439,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-11-15,Washington,Pac-12,Steve Sarkisian,A,UCLA,Pac-12,Jim Mora,L,31,41,25,40,331,3,36,101,1,12,8,11,113,2,2
 2013-11-23,Washington,Pac-12,Steve Sarkisian,A,Oregon State,Pac-12,Mike Riley,W,69,27,15,24,162,1,58,530,7,8,18,4,43,0,0
 2013-11-29,Washington,Pac-12,Steve Sarkisian,H,Washington State,Pac-12,Mike Leach,W,27,17,15,20,181,1,53,224,2,8,13,7,72,1,1
-2013-12-27,Washington,Pac-12,Steve Sarkisian,N,Brigham Young,Ind,Bronco Mendenhall,W,31,16,18,27,129,1,43,190,2,8,11,5,24,0,1
+2013-12-27,Washington,Pac-12,Steve Sarkisian,N,BYU,Ind,Bronco Mendenhall,W,31,16,18,27,129,1,43,190,2,8,11,5,24,0,1
 2013-09-07,Ball State,MAC,Pete Lembo,H,Army,Ind,Rich Ellerson,W,40,14,23,37,325,2,34,115,2,17,6,7,44,1,0
 2013-09-14,Ball State,MAC,Pete Lembo,A,North Texas,CUSA,Dan McCarney,L,27,34,27,46,333,2,20,163,1,11,5,4,28,3,2
 2013-09-21,Ball State,MAC,Pete Lembo,A,Eastern Michigan,MAC,Stan Parrish,W,51,20,19,31,346,2,37,197,5,16,6,4,43,1,0
@@ -479,7 +479,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-09-07,Utah State,MWC,Matt Wells,A,Air Force,MWC,Troy Calhoun,W,52,20,32,40,360,5,46,217,2,20,12,8,70,1,1
 2013-09-21,Utah State,MWC,Matt Wells,A,USC,Pac-12,Ed Orgeron,L,14,17,21,40,179,2,27,106,0,7,4,11,89,0,0
 2013-09-27,Utah State,MWC,Matt Wells,A,San Jose State,MWC,Ron Caragher,W,40,12,30,43,267,3,50,253,1,12,15,9,95,0,0
-2013-10-04,Utah State,MWC,Matt Wells,H,Brigham Young,Ind,Bronco Mendenhall,L,14,31,22,51,211,2,35,186,0,12,6,3,28,2,1
+2013-10-04,Utah State,MWC,Matt Wells,H,BYU,Ind,Bronco Mendenhall,L,14,31,22,51,211,2,35,186,0,12,6,3,28,2,1
 2013-10-12,Utah State,MWC,Matt Wells,H,Boise State,MWC,Chris Petersen,L,23,34,16,31,221,1,39,127,1,10,5,8,70,1,2
 2013-10-19,Utah State,MWC,Matt Wells,A,New Mexico,MWC,Bob Davie,W,45,10,16,24,155,1,42,337,4,8,16,5,43,0,0
 2013-11-02,Utah State,MWC,Matt Wells,H,Hawaii,MWC,Norm Chow,W,47,10,28,42,370,3,44,163,1,18,8,4,35,0,1
@@ -532,7 +532,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-10-12,Wisconsin,Big Ten,Gary Andersen,H,Northwestern,Big Ten,Pat Fitzgerald,W,35,6,17,28,241,3,51,286,2,10,14,2,10,1,2
 2013-10-19,Wisconsin,Big Ten,Gary Andersen,A,Illinois,Big Ten,Tim Beckman,W,56,32,16,21,189,2,46,289,6,9,15,8,93,0,0
 2013-11-02,Wisconsin,Big Ten,Gary Andersen,A,Iowa,Big Ten,Kirk Ferentz,W,28,9,11,19,144,2,45,218,2,5,10,7,60,0,1
-2013-11-09,Wisconsin,Big Ten,Gary Andersen,H,Brigham Young,Ind,Bronco Mendenhall,W,27,17,23,32,196,1,45,229,2,10,12,2,10,1,1
+2013-11-09,Wisconsin,Big Ten,Gary Andersen,H,BYU,Ind,Bronco Mendenhall,W,27,17,23,32,196,1,45,229,2,10,12,2,10,1,1
 2013-11-16,Wisconsin,Big Ten,Gary Andersen,H,Indiana,Big Ten,Kevin Wilson,W,51,3,7,15,122,0,50,554,6,4,22,3,20,0,0
 2013-11-23,Wisconsin,Big Ten,Gary Andersen,A,Minnesota,Big Ten,Jerry Kill,W,20,7,16,26,127,1,45,197,1,8,8,2,25,0,1
 2013-11-30,Wisconsin,Big Ten,Gary Andersen,H,Penn State,Big Ten,Bill O'Brien,L,24,31,29,55,339,3,30,120,0,18,9,4,35,0,3
@@ -547,7 +547,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-11-02,Nevada,MWC,Brian Polian,A,Fresno State,MWC,Tim DeRuyter,L,23,41,14,24,206,2,42,218,1,8,7,8,74,0,1
 2013-11-09,Nevada,MWC,Brian Polian,A,Colorado State,MWC,Jim McElwain,L,17,38,31,47,247,0,33,164,2,15,5,3,11,0,0
 2013-11-16,Nevada,MWC,Brian Polian,H,San Jose State,MWC,Ron Caragher,W,38,16,20,27,171,1,51,311,4,8,16,5,40,1,0
-2013-11-30,Nevada,MWC,Brian Polian,H,Brigham Young,Ind,Bronco Mendenhall,L,23,28,23,33,259,1,47,104,2,14,5,4,25,0,1
+2013-11-30,Nevada,MWC,Brian Polian,H,BYU,Ind,Bronco Mendenhall,L,23,28,23,33,259,1,47,104,2,14,5,4,25,0,1
 2013-08-29,USC,Pac-12,Ed Orgeron,A,Hawaii,MWC,Norm Chow,W,30,13,15,29,172,1,45,192,1,9,11,9,75,1,1
 2013-09-07,USC,Pac-12,Ed Orgeron,H,Washington State,Pac-12,Mike Leach,L,7,10,11,21,54,0,42,139,1,1,9,3,19,0,2
 2013-09-14,USC,Pac-12,Ed Orgeron,H,Boston College,ACC,Steve Addazio,W,35,7,17,19,264,2,43,257,3,9,12,10,100,0,0
@@ -688,7 +688,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-10-26,Notre Dame,Ind,Brian Kelly,A,Air Force,MWC,Troy Calhoun,W,45,10,18,26,331,5,37,135,1,13,7,1,5,0,0
 2013-11-02,Notre Dame,Ind,Brian Kelly,H,Navy,Ind,Ken Niumatalolo,W,38,34,12,20,242,2,36,264,3,11,14,5,55,0,2
 2013-11-09,Notre Dame,Ind,Brian Kelly,A,Pitt,ACC,Paul Chryst,L,21,28,18,39,318,2,24,138,1,12,3,5,45,1,2
-2013-11-23,Notre Dame,Ind,Brian Kelly,H,Brigham Young,Ind,Bronco Mendenhall,W,23,13,15,28,235,1,47,235,1,10,11,4,25,0,1
+2013-11-23,Notre Dame,Ind,Brian Kelly,H,BYU,Ind,Bronco Mendenhall,W,23,13,15,28,235,1,47,235,1,10,11,4,25,0,1
 2013-11-30,Notre Dame,Ind,Brian Kelly,A,Stanford,Pac-12,David Shaw,L,20,27,16,34,199,2,24,64,0,12,4,3,15,0,2
 2013-12-28,Notre Dame,Ind,Brian Kelly,N,Rutgers,American,Kyle Flood,W,29,16,27,47,319,0,43,175,2,20,11,8,69,1,0
 2013-08-31,Louisiana,Sun Belt,Mark Hudspeth,A,Arkansas,SEC,Bret Bielema,L,14,34,17,31,189,1,32,85,1,12,6,1,5,1,1
@@ -757,7 +757,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-09-28,Boise State,MWC,Chris Petersen,H,Southern Mississippi,CUSA,Todd Monken,W,60,7,23,27,316,3,52,229,5,13,14,5,50,1,0
 2013-10-12,Boise State,MWC,Chris Petersen,A,Utah State,MWC,Matt Wells,W,34,23,30,45,335,2,40,112,2,16,8,5,43,0,3
 2013-10-19,Boise State,MWC,Chris Petersen,H,Nevada,MWC,Brian Polian,W,34,17,18,21,150,0,46,407,5,9,16,3,25,0,1
-2013-10-25,Boise State,MWC,Chris Petersen,A,Brigham Young,Ind,Bronco Mendenhall,L,20,37,29,46,285,1,44,214,1,14,8,5,39,3,1
+2013-10-25,Boise State,MWC,Chris Petersen,A,BYU,Ind,Bronco Mendenhall,L,20,37,29,46,285,1,44,214,1,14,8,5,39,3,1
 2013-11-02,Boise State,MWC,Chris Petersen,A,Colorado State,MWC,Jim McElwain,W,42,30,19,27,305,5,31,132,1,13,6,2,20,2,0
 2013-11-16,Boise State,MWC,Chris Petersen,H,Wyoming,MWC,Dave Christensen,W,48,7,29,39,283,3,53,241,3,14,12,6,63,2,1
 2013-11-23,Boise State,MWC,Chris Petersen,A,San Diego State,MWC,Rocky Long,L,31,34,21,36,202,2,34,95,1,9,6,5,38,0,2
@@ -798,18 +798,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-11-16,Wyoming,MWC,Dave Christensen,A,Boise State,MWC,Chris Petersen,L,7,48,28,41,210,1,31,55,0,10,4,4,32,2,2
 2013-11-23,Wyoming,MWC,Dave Christensen,H,Hawaii,MWC,Norm Chow,W,59,56,29,48,498,7,50,295,1,17,15,3,35,3,0
 2013-11-30,Wyoming,MWC,Dave Christensen,A,Utah State,MWC,Matt Wells,L,7,35,16,29,162,1,29,28,0,7,2,7,71,1,1
-2013-08-31,Brigham Young,Ind,Bronco Mendenhall,A,Virginia,ACC,Mike London,L,16,19,13,40,175,1,53,187,1,9,11,7,43,0,1
-2013-09-07,Brigham Young,Ind,Bronco Mendenhall,H,Texas,Big 12,Mack Brown,W,40,21,9,27,129,0,72,550,4,6,24,8,68,1,1
-2013-09-21,Brigham Young,Ind,Bronco Mendenhall,H,Utah,Pac-12,Kyle Whittingham,L,13,20,18,48,260,0,47,183,1,13,9,7,55,0,1
-2013-09-27,Brigham Young,Ind,Bronco Mendenhall,H,Middle Tennessee State,CUSA,Rick Stockstill,W,37,10,14,19,177,0,55,309,4,9,11,9,80,4,1
-2013-10-04,Brigham Young,Ind,Bronco Mendenhall,A,Utah State,MWC,Matt Wells,W,31,14,17,32,278,3,50,159,0,10,7,3,36,1,1
-2013-10-12,Brigham Young,Ind,Bronco Mendenhall,H,Georgia Tech,ACC,Paul Johnson,W,38,20,19,27,244,1,42,189,3,13,11,8,60,0,0
-2013-10-19,Brigham Young,Ind,Bronco Mendenhall,N,Houston,American,Tony Levine,W,47,46,29,44,417,4,71,264,2,21,15,14,125,0,3
-2013-10-25,Brigham Young,Ind,Bronco Mendenhall,H,Boise State,MWC,Chris Petersen,W,37,20,27,41,339,3,50,229,1,15,12,7,55,0,0
-2013-11-09,Brigham Young,Ind,Bronco Mendenhall,A,Wisconsin,Big Ten,Gary Andersen,L,17,27,19,42,207,2,39,163,0,10,9,6,35,0,1
-2013-11-23,Brigham Young,Ind,Bronco Mendenhall,A,Notre Dame,Ind,Brian Kelly,L,13,23,21,36,168,1,47,247,0,12,11,6,47,0,1
-2013-11-30,Brigham Young,Ind,Bronco Mendenhall,A,Nevada,MWC,Brian Polian,W,28,23,14,18,98,2,45,394,2,2,16,14,142,1,0
-2013-12-27,Brigham Young,Ind,Bronco Mendenhall,N,Washington,Pac-12,Steve Sarkisian,L,16,31,25,50,293,0,47,180,1,16,12,5,50,0,1
+2013-08-31,BYU,Ind,Bronco Mendenhall,A,Virginia,ACC,Mike London,L,16,19,13,40,175,1,53,187,1,9,11,7,43,0,1
+2013-09-07,BYU,Ind,Bronco Mendenhall,H,Texas,Big 12,Mack Brown,W,40,21,9,27,129,0,72,550,4,6,24,8,68,1,1
+2013-09-21,BYU,Ind,Bronco Mendenhall,H,Utah,Pac-12,Kyle Whittingham,L,13,20,18,48,260,0,47,183,1,13,9,7,55,0,1
+2013-09-27,BYU,Ind,Bronco Mendenhall,H,Middle Tennessee State,CUSA,Rick Stockstill,W,37,10,14,19,177,0,55,309,4,9,11,9,80,4,1
+2013-10-04,BYU,Ind,Bronco Mendenhall,A,Utah State,MWC,Matt Wells,W,31,14,17,32,278,3,50,159,0,10,7,3,36,1,1
+2013-10-12,BYU,Ind,Bronco Mendenhall,H,Georgia Tech,ACC,Paul Johnson,W,38,20,19,27,244,1,42,189,3,13,11,8,60,0,0
+2013-10-19,BYU,Ind,Bronco Mendenhall,N,Houston,American,Tony Levine,W,47,46,29,44,417,4,71,264,2,21,15,14,125,0,3
+2013-10-25,BYU,Ind,Bronco Mendenhall,H,Boise State,MWC,Chris Petersen,W,37,20,27,41,339,3,50,229,1,15,12,7,55,0,0
+2013-11-09,BYU,Ind,Bronco Mendenhall,A,Wisconsin,Big Ten,Gary Andersen,L,17,27,19,42,207,2,39,163,0,10,9,6,35,0,1
+2013-11-23,BYU,Ind,Bronco Mendenhall,A,Notre Dame,Ind,Brian Kelly,L,13,23,21,36,168,1,47,247,0,12,11,6,47,0,1
+2013-11-30,BYU,Ind,Bronco Mendenhall,A,Nevada,MWC,Brian Polian,W,28,23,14,18,98,2,45,394,2,2,16,14,142,1,0
+2013-12-27,BYU,Ind,Bronco Mendenhall,N,Washington,Pac-12,Steve Sarkisian,L,16,31,25,50,293,0,47,180,1,16,12,5,50,0,1
 2013-08-30,Florida Atlantic,CUSA,Carl Pelini,A,Miami (FL),ACC,Al Golden,L,6,34,16,32,117,0,43,133,0,6,9,3,25,1,0
 2013-09-05,Florida Atlantic,CUSA,Carl Pelini,A,East Carolina,CUSA,Ruffin McNeill,L,13,31,23,40,178,1,34,104,0,11,5,2,9,1,2
 2013-09-14,Florida Atlantic,CUSA,Carl Pelini,A,South Florida,American,Willie Taggart,W,28,10,10,17,98,0,36,130,2,3,7,7,56,0,1
@@ -826,7 +826,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-09-21,Georgia Tech,ACC,Paul Johnson,H,North Carolina,ACC,Larry Fedora,W,28,20,7,12,104,1,71,324,3,6,19,5,40,1,0
 2013-09-26,Georgia Tech,ACC,Paul Johnson,H,Virginia Tech,ACC,Frank Beamer,L,10,17,7,24,144,0,42,129,1,5,8,9,66,1,2
 2013-10-05,Georgia Tech,ACC,Paul Johnson,A,Miami (FL),ACC,Al Golden,L,30,45,6,19,66,0,62,335,4,3,20,3,15,1,2
-2013-10-12,Georgia Tech,ACC,Paul Johnson,A,Brigham Young,Ind,Bronco Mendenhall,L,20,38,11,24,163,1,52,237,1,6,12,10,76,1,1
+2013-10-12,Georgia Tech,ACC,Paul Johnson,A,BYU,Ind,Bronco Mendenhall,L,20,38,11,24,163,1,52,237,1,6,12,10,76,1,1
 2013-10-19,Georgia Tech,ACC,Paul Johnson,H,Syracuse,ACC,Scott Shafer,W,56,0,3,5,88,1,67,394,7,2,22,0,0,0,1
 2013-10-26,Georgia Tech,ACC,Paul Johnson,A,Virginia,ACC,Mike London,W,35,25,5,9,113,0,52,394,5,4,14,9,97,3,2
 2013-11-02,Georgia Tech,ACC,Paul Johnson,H,Pitt,ACC,Paul Chryst,W,21,10,5,10,84,0,53,276,3,3,16,3,35,2,0
@@ -1080,7 +1080,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-11-29,Iowa,Big Ten,Kirk Ferentz,A,Nebraska,Big Ten,Bo Pelini,W,38,17,9,17,126,2,45,156,3,4,7,2,20,0,0
 2014-01-01,Iowa,Big Ten,Kirk Ferentz,N,LSU,SEC,Les Miles,L,14,21,13,30,157,1,37,76,1,6,3,2,10,1,2
 2013-08-31,Texas,Big 12,Mack Brown,H,New Mexico State,Ind,Doug Martin,W,56,7,22,30,356,4,42,359,4,9,17,3,35,1,2
-2013-09-07,Texas,Big 12,Mack Brown,A,Brigham Young,Ind,Bronco Mendenhall,L,21,40,24,44,313,2,39,132,1,13,7,4,45,0,0
+2013-09-07,Texas,Big 12,Mack Brown,A,BYU,Ind,Bronco Mendenhall,L,21,40,24,44,313,2,39,132,1,13,7,4,45,0,0
 2013-09-14,Texas,Big 12,Mack Brown,H,Ole Miss,SEC,Hugh Freeze,L,23,44,24,36,196,1,37,124,1,10,8,7,50,1,0
 2013-09-21,Texas,Big 12,Mack Brown,H,Kansas State,Big 12,Bill Snyder,W,31,21,19,34,225,1,47,227,3,7,16,8,74,0,0
 2013-10-03,Texas,Big 12,Mack Brown,A,Iowa State,Big 12,Paul Rhoads,W,31,30,26,45,244,1,29,119,3,11,5,6,62,1,0
@@ -1390,7 +1390,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-09-07,Middle Tennessee State,CUSA,Rick Stockstill,A,North Carolina,ACC,Larry Fedora,L,20,40,24,42,243,1,41,159,1,15,10,7,63,0,3
 2013-09-14,Middle Tennessee State,CUSA,Rick Stockstill,H,Memphis,American,Justin Fuente,W,17,15,22,36,224,1,28,60,1,11,5,3,30,0,1
 2013-09-21,Middle Tennessee State,CUSA,Rick Stockstill,A,Florida Atlantic,CUSA,Carl Pelini,W,42,35,13,24,150,2,45,296,4,9,12,1,7,0,2
-2013-09-27,Middle Tennessee State,CUSA,Rick Stockstill,A,Brigham Young,Ind,Bronco Mendenhall,L,10,37,16,34,105,1,41,107,0,6,6,7,50,0,1
+2013-09-27,Middle Tennessee State,CUSA,Rick Stockstill,A,BYU,Ind,Bronco Mendenhall,L,10,37,16,34,105,1,41,107,0,6,6,7,50,0,1
 2013-10-05,Middle Tennessee State,CUSA,Rick Stockstill,H,East Carolina,CUSA,Ruffin McNeill,L,17,24,28,37,245,1,32,89,1,11,8,4,40,0,2
 2013-10-12,Middle Tennessee State,CUSA,Rick Stockstill,A,North Texas,CUSA,Dan McCarney,L,7,34,14,30,66,0,27,139,1,2,8,1,15,2,1
 2013-10-24,Middle Tennessee State,CUSA,Rick Stockstill,H,Marshall,CUSA,Doc Holliday,W,51,49,22,40,277,4,60,308,2,14,13,6,75,1,1
@@ -1465,7 +1465,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-09-21,Houston,American,Tony Levine,N,Rice,CUSA,David Bailiff,W,31,26,18,36,329,3,37,165,1,12,8,3,30,0,1
 2013-09-28,Houston,American,Tony Levine,A,UTSA,CUSA,Larry Coker,W,59,28,26,39,341,4,32,150,2,17,7,10,73,0,0
 2013-10-12,Houston,American,Tony Levine,N,Memphis,American,Justin Fuente,W,25,15,14,32,209,1,29,38,2,5,5,9,85,1,0
-2013-10-19,Houston,American,Tony Levine,N,Brigham Young,Ind,Bronco Mendenhall,L,46,47,31,47,435,4,29,48,0,13,5,10,88,0,3
+2013-10-19,Houston,American,Tony Levine,N,BYU,Ind,Bronco Mendenhall,L,46,47,31,47,435,4,29,48,0,13,5,10,88,0,3
 2013-10-26,Houston,American,Tony Levine,A,Rutgers,American,Kyle Flood,W,49,14,28,35,400,5,38,211,2,13,11,11,100,0,0
 2013-10-31,Houston,American,Tony Levine,H,South Florida,American,Willie Taggart,W,35,23,23,30,293,3,26,95,2,11,5,4,33,2,0
 2013-11-09,Houston,American,Tony Levine,A,UCF,American,George O'Leary,L,14,19,24,46,231,1,29,136,1,13,9,8,72,0,2

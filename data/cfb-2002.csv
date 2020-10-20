@@ -98,8 +98,8 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-10-26,Utah,MWC,Ron McBride,A,New Mexico,MWC,Rocky Long,L,35,42,26,41,440,4,39,89,1,12,5,4,40,3,0
 2002-11-09,Utah,MWC,Ron McBride,H,Nevada-Las Vegas,MWC,John Robinson,W,28,17,18,30,172,3,42,211,1,9,8,9,89,0,0
 2002-11-16,Utah,MWC,Ron McBride,A,Wyoming,MWC,Vic Koenning,W,23,18,19,35,216,1,41,186,2,9,9,10,101,1,2
-2002-11-23,Utah,MWC,Ron McBride,H,Brigham Young,MWC,Gary Crowton,W,13,6,18,26,164,0,53,175,1,11,12,5,55,0,1
-2002-08-29,Syracuse,Big East,Paul Pasqualoni,A,Brigham Young,MWC,Gary Crowton,L,21,42,8,24,128,0,42,198,3,7,9,7,65,1,2
+2002-11-23,Utah,MWC,Ron McBride,H,BYU,MWC,Gary Crowton,W,13,6,18,26,164,0,53,175,1,11,12,5,55,0,1
+2002-08-29,Syracuse,Big East,Paul Pasqualoni,A,BYU,MWC,Gary Crowton,L,21,42,8,24,128,0,42,198,3,7,9,7,65,1,2
 2002-09-07,Syracuse,Big East,Paul Pasqualoni,H,North Carolina,ACC,John Bunting,L,22,30,4,11,71,0,43,183,3,4,10,6,35,1,1
 2002-09-28,Syracuse,Big East,Paul Pasqualoni,A,Auburn,SEC,Tommy Tuberville,L,34,37,15,30,163,1,44,158,2,9,5,7,43,0,3
 2002-10-05,Syracuse,Big East,Paul Pasqualoni,H,Pitt,Big East,Walt Harris,L,24,48,14,29,131,1,38,144,2,7,6,3,15,4,0
@@ -442,7 +442,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-09-07,Utah State,Ind,Mick Dennehy,A,Nebraska,Big 12,Frank Solich,L,13,44,19,44,251,1,30,70,0,12,7,10,71,0,3
 2002-09-21,Utah State,Ind,Mick Dennehy,A,Iowa,Big Ten,Kirk Ferentz,L,7,48,24,41,223,0,20,21,1,10,3,4,25,1,0
 2002-09-28,Utah State,Ind,Mick Dennehy,A,Boise State,WAC,Dan Hawkins,L,38,63,24,40,355,3,35,65,1,13,2,9,86,2,2
-2002-10-04,Utah State,Ind,Mick Dennehy,H,Brigham Young,MWC,Gary Crowton,L,34,35,24,57,331,0,18,129,3,14,4,5,42,0,3
+2002-10-04,Utah State,Ind,Mick Dennehy,H,BYU,MWC,Gary Crowton,L,34,35,24,57,331,0,18,129,3,14,4,5,42,0,3
 2002-10-19,Utah State,Ind,Mick Dennehy,H,New Mexico,MWC,Rocky Long,W,45,44,16,34,340,4,23,107,2,12,6,11,154,0,2
 2002-10-26,Utah State,Ind,Mick Dennehy,A,Louisiana-Monroe,Sun Belt,Mike Collins,L,48,51,26,50,368,3,34,81,3,16,7,12,106,1,1
 2002-11-09,Utah State,Ind,Mick Dennehy,H,New Mexico State,Sun Belt,Tony Samuel,W,32,30,27,41,299,2,31,182,2,12,14,7,65,1,0
@@ -499,7 +499,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-11-23,Wisconsin,Big Ten,Barry Alvarez,H,Minnesota,Big Ten,Glen Mason,W,49,31,6,12,134,1,68,416,6,5,21,7,58,1,0
 2002-12-28,Wisconsin,Big Ten,Barry Alvarez,N,Colorado,Big 12,Gary Barnett,W,31,28,12,24,163,2,51,193,2,6,14,6,64,3,1
 2002-08-31,Nevada,WAC,Chris Tormey,A,Washington State,Pac-10,Mike Price,L,7,31,20,35,174,0,46,108,1,6,10,8,67,0,3
-2002-09-14,Nevada,WAC,Chris Tormey,H,Brigham Young,MWC,Gary Crowton,W,31,28,28,37,410,4,38,119,0,15,8,9,82,2,1
+2002-09-14,Nevada,WAC,Chris Tormey,H,BYU,MWC,Gary Crowton,W,31,28,28,37,410,4,38,119,0,15,8,9,82,2,1
 2002-09-21,Nevada,WAC,Chris Tormey,H,Rice,WAC,Ken Hatfield,W,31,21,30,36,408,4,45,126,0,20,6,6,45,1,0
 2002-09-28,Nevada,WAC,Chris Tormey,H,Colorado State,MWC,Sonny Lubick,L,28,32,26,44,341,3,27,111,1,17,6,5,59,0,2
 2002-10-05,Nevada,WAC,Chris Tormey,A,Nevada-Las Vegas,MWC,John Robinson,L,17,21,23,50,323,1,22,68,0,13,5,7,75,1,1
@@ -543,12 +543,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-10-12,San Diego State,MWC,Tom Craft,H,Utah,MWC,Ron McBride,W,36,17,26,39,294,2,39,116,1,15,7,10,97,0,1
 2002-10-19,San Diego State,MWC,Tom Craft,A,Wyoming,MWC,Vic Koenning,W,24,20,22,33,335,1,28,84,0,15,4,9,75,1,1
 2002-10-26,San Diego State,MWC,Tom Craft,H,Nevada-Las Vegas,MWC,John Robinson,W,31,21,28,46,319,2,43,156,1,16,8,8,65,2,1
-2002-11-02,San Diego State,MWC,Tom Craft,A,Brigham Young,MWC,Gary Crowton,L,10,34,26,46,228,1,28,18,0,13,2,6,24,1,1
+2002-11-02,San Diego State,MWC,Tom Craft,A,BYU,MWC,Gary Crowton,L,10,34,26,46,228,1,28,18,0,13,2,6,24,1,1
 2002-11-09,San Diego State,MWC,Tom Craft,A,New Mexico,MWC,Rocky Long,L,8,15,18,35,153,0,29,30,0,7,4,3,25,1,1
 2002-11-16,San Diego State,MWC,Tom Craft,H,Colorado State,MWC,Sonny Lubick,L,21,49,28,48,348,3,19,30,0,15,3,7,54,0,0
 2002-11-23,San Diego State,MWC,Tom Craft,A,Air Force,MWC,Fisher DeBerry,W,38,34,29,42,289,2,26,109,3,14,11,8,70,0,1
 2002-12-07,San Diego State,MWC,Tom Craft,A,Hawaii,WAC,June Jones,L,40,41,32,49,507,3,25,125,1,17,5,7,61,1,0
-2002-09-06,Hawaii,WAC,June Jones,A,Brigham Young,MWC,Gary Crowton,L,32,35,22,55,284,2,30,171,2,13,7,7,72,0,4
+2002-09-06,Hawaii,WAC,June Jones,A,BYU,MWC,Gary Crowton,L,32,35,22,55,284,2,30,171,2,13,7,7,72,0,4
 2002-09-21,Hawaii,WAC,June Jones,A,UTEP,WAC,Gary Nord,W,31,6,15,38,244,3,25,125,1,9,3,11,115,1,1
 2002-09-28,Hawaii,WAC,June Jones,H,SMU,WAC,Phil Bennett,W,42,10,21,43,314,1,26,173,3,12,9,3,35,3,3
 2002-10-05,Hawaii,WAC,June Jones,A,Boise State,WAC,Dan Hawkins,L,31,58,35,57,360,1,16,79,3,20,3,6,39,2,1
@@ -626,7 +626,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-10-19,New Mexico,MWC,Rocky Long,A,Utah State,Ind,Mick Dennehy,L,44,45,19,27,220,3,54,263,2,9,12,12,85,1,0
 2002-10-26,New Mexico,MWC,Rocky Long,H,Utah,MWC,Ron McBride,W,42,35,11,24,134,2,50,268,4,4,12,5,45,1,0
 2002-11-09,New Mexico,MWC,Rocky Long,H,San Diego State,MWC,Tom Craft,W,15,8,9,15,70,0,59,167,2,4,10,7,50,3,0
-2002-11-16,New Mexico,MWC,Rocky Long,A,Brigham Young,MWC,Gary Crowton,W,20,16,11,22,155,1,49,145,2,5,8,4,37,1,2
+2002-11-16,New Mexico,MWC,Rocky Long,A,BYU,MWC,Gary Crowton,W,20,16,11,22,155,1,49,145,2,5,8,4,37,1,2
 2002-11-23,New Mexico,MWC,Rocky Long,A,Colorado State,MWC,Sonny Lubick,L,14,22,19,30,121,0,41,186,2,5,10,5,25,2,0
 2002-11-30,New Mexico,MWC,Rocky Long,H,Wyoming,MWC,Vic Koenning,W,49,20,7,12,164,4,51,292,3,5,16,6,60,0,1
 2002-12-25,New Mexico,MWC,Rocky Long,N,UCLA,Pac-10,Ed Kezirian,L,13,27,18,35,237,1,34,45,0,10,3,9,68,2,1
@@ -748,25 +748,25 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-10-19,Wyoming,MWC,Vic Koenning,H,San Diego State,MWC,Tom Craft,L,20,24,33,51,257,3,36,131,0,13,11,3,26,0,1
 2002-10-26,Wyoming,MWC,Vic Koenning,H,Air Force,MWC,Fisher DeBerry,W,34,26,32,43,387,2,33,97,2,15,11,2,10,0,0
 2002-11-02,Wyoming,MWC,Vic Koenning,A,Nevada-Las Vegas,MWC,John Robinson,L,48,49,33,55,453,5,29,59,2,15,10,6,49,0,1
-2002-11-09,Wyoming,MWC,Vic Koenning,A,Brigham Young,MWC,Gary Crowton,L,31,35,21,36,283,1,30,76,2,13,4,2,21,1,1
+2002-11-09,Wyoming,MWC,Vic Koenning,A,BYU,MWC,Gary Crowton,L,31,35,21,36,283,1,30,76,2,13,4,2,21,1,1
 2002-11-16,Wyoming,MWC,Vic Koenning,H,Utah,MWC,Ron McBride,L,18,23,25,48,361,2,30,86,0,16,4,7,55,1,2
 2002-11-30,Wyoming,MWC,Vic Koenning,A,New Mexico,MWC,Rocky Long,L,20,49,17,28,270,2,37,99,1,10,6,4,23,0,3
-2002-08-29,Brigham Young,MWC,Gary Crowton,H,Syracuse,Big East,Paul Pasqualoni,W,42,21,36,55,397,3,39,218,3,20,8,13,116,2,1
-2002-09-06,Brigham Young,MWC,Gary Crowton,H,Hawaii,WAC,June Jones,W,35,32,21,48,226,1,48,168,4,9,14,11,69,0,0
-2002-09-14,Brigham Young,MWC,Gary Crowton,A,Nevada,WAC,Chris Tormey,L,28,31,19,37,192,2,30,164,2,9,5,13,140,0,1
-2002-09-21,Brigham Young,MWC,Gary Crowton,A,Georgia Tech,ACC,Chan Gailey,L,19,28,28,57,274,1,27,79,1,16,5,7,31,1,3
-2002-10-04,Brigham Young,MWC,Gary Crowton,A,Utah State,Ind,Mick Dennehy,W,35,34,28,45,312,2,55,269,3,14,15,10,71,1,1
-2002-10-12,Brigham Young,MWC,Gary Crowton,A,Air Force,MWC,Fisher DeBerry,L,9,52,23,46,325,1,18,-21,0,14,3,3,5,1,4
-2002-10-19,Brigham Young,MWC,Gary Crowton,H,Nevada-Las Vegas,MWC,John Robinson,L,3,24,23,43,275,0,39,133,0,15,9,10,84,2,2
-2002-10-24,Brigham Young,MWC,Gary Crowton,A,Colorado State,MWC,Sonny Lubick,L,10,37,17,26,148,0,29,65,1,7,4,2,12,3,1
-2002-11-02,Brigham Young,MWC,Gary Crowton,H,San Diego State,MWC,Tom Craft,W,34,10,20,33,289,3,36,114,1,10,6,11,96,1,3
-2002-11-09,Brigham Young,MWC,Gary Crowton,H,Wyoming,MWC,Vic Koenning,W,35,31,31,45,360,3,46,172,2,19,10,5,46,1,2
-2002-11-16,Brigham Young,MWC,Gary Crowton,H,New Mexico,MWC,Rocky Long,L,16,20,11,32,94,0,30,94,0,7,3,6,29,0,2
-2002-11-23,Brigham Young,MWC,Gary Crowton,A,Utah,MWC,Ron McBride,L,6,13,20,34,237,0,23,-2,0,10,1,8,80,2,1
+2002-08-29,BYU,MWC,Gary Crowton,H,Syracuse,Big East,Paul Pasqualoni,W,42,21,36,55,397,3,39,218,3,20,8,13,116,2,1
+2002-09-06,BYU,MWC,Gary Crowton,H,Hawaii,WAC,June Jones,W,35,32,21,48,226,1,48,168,4,9,14,11,69,0,0
+2002-09-14,BYU,MWC,Gary Crowton,A,Nevada,WAC,Chris Tormey,L,28,31,19,37,192,2,30,164,2,9,5,13,140,0,1
+2002-09-21,BYU,MWC,Gary Crowton,A,Georgia Tech,ACC,Chan Gailey,L,19,28,28,57,274,1,27,79,1,16,5,7,31,1,3
+2002-10-04,BYU,MWC,Gary Crowton,A,Utah State,Ind,Mick Dennehy,W,35,34,28,45,312,2,55,269,3,14,15,10,71,1,1
+2002-10-12,BYU,MWC,Gary Crowton,A,Air Force,MWC,Fisher DeBerry,L,9,52,23,46,325,1,18,-21,0,14,3,3,5,1,4
+2002-10-19,BYU,MWC,Gary Crowton,H,Nevada-Las Vegas,MWC,John Robinson,L,3,24,23,43,275,0,39,133,0,15,9,10,84,2,2
+2002-10-24,BYU,MWC,Gary Crowton,A,Colorado State,MWC,Sonny Lubick,L,10,37,17,26,148,0,29,65,1,7,4,2,12,3,1
+2002-11-02,BYU,MWC,Gary Crowton,H,San Diego State,MWC,Tom Craft,W,34,10,20,33,289,3,36,114,1,10,6,11,96,1,3
+2002-11-09,BYU,MWC,Gary Crowton,H,Wyoming,MWC,Vic Koenning,W,35,31,31,45,360,3,46,172,2,19,10,5,46,1,2
+2002-11-16,BYU,MWC,Gary Crowton,H,New Mexico,MWC,Rocky Long,L,16,20,11,32,94,0,30,94,0,7,3,6,29,0,2
+2002-11-23,BYU,MWC,Gary Crowton,A,Utah,MWC,Ron McBride,L,6,13,20,34,237,0,23,-2,0,10,1,8,80,2,1
 2002-08-31,Georgia Tech,ACC,Chan Gailey,H,Vanderbilt,SEC,Bobby Johnson,W,45,3,15,24,182,3,51,279,3,6,13,11,75,0,0
 2002-09-07,Georgia Tech,ACC,Chan Gailey,A,Connecticut,Ind,Randy Edsall,W,31,14,14,21,189,0,43,226,4,6,11,6,45,1,0
 2002-09-14,Georgia Tech,ACC,Chan Gailey,A,Clemson,ACC,Tommy Bowden,L,19,24,17,31,201,1,32,102,2,8,5,8,101,1,1
-2002-09-21,Georgia Tech,ACC,Chan Gailey,H,Brigham Young,MWC,Gary Crowton,W,28,19,11,26,117,0,50,210,4,6,11,6,49,0,3
+2002-09-21,Georgia Tech,ACC,Chan Gailey,H,BYU,MWC,Gary Crowton,W,28,19,11,26,117,0,50,210,4,6,11,6,49,0,3
 2002-09-28,Georgia Tech,ACC,Chan Gailey,A,North Carolina,ACC,John Bunting,W,21,13,19,33,211,2,49,185,1,12,9,6,45,0,2
 2002-10-05,Georgia Tech,ACC,Chan Gailey,H,Wake Forest,ACC,Jim Grobe,L,21,24,18,30,254,3,21,78,0,12,3,5,45,1,1
 2002-10-17,Georgia Tech,ACC,Chan Gailey,A,Maryland,ACC,Ralph Friedgen,L,10,34,30,53,305,0,31,180,1,16,7,7,64,2,0
@@ -817,7 +817,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-09-21,Nevada-Las Vegas,MWC,John Robinson,A,Toledo,MAC,Tom Amstutz,L,21,38,19,38,270,1,43,202,2,16,9,12,88,1,1
 2002-10-05,Nevada-Las Vegas,MWC,John Robinson,H,Nevada,WAC,Chris Tormey,W,21,17,16,35,262,2,49,206,1,14,9,16,145,1,0
 2002-10-12,Nevada-Las Vegas,MWC,John Robinson,H,New Mexico,MWC,Rocky Long,L,16,25,17,44,232,1,31,102,1,9,3,6,40,1,3
-2002-10-19,Nevada-Las Vegas,MWC,John Robinson,A,Brigham Young,MWC,Gary Crowton,W,24,3,12,16,155,0,45,164,1,7,9,2,13,3,0
+2002-10-19,Nevada-Las Vegas,MWC,John Robinson,A,BYU,MWC,Gary Crowton,W,24,3,12,16,155,0,45,164,1,7,9,2,13,3,0
 2002-10-26,Nevada-Las Vegas,MWC,John Robinson,A,San Diego State,MWC,Tom Craft,L,21,31,13,37,196,0,36,178,2,10,9,6,54,0,0
 2002-11-02,Nevada-Las Vegas,MWC,John Robinson,H,Wyoming,MWC,Vic Koenning,W,49,48,21,27,331,2,47,313,5,14,12,7,81,1,0
 2002-11-09,Nevada-Las Vegas,MWC,John Robinson,A,Utah,MWC,Ron McBride,L,17,28,14,34,186,2,36,97,0,10,8,4,30,0,2
@@ -1036,7 +1036,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-09-21,Air Force,MWC,Fisher DeBerry,A,California,Pac-10,Jeff Tedford,W,23,21,3,8,22,0,56,295,3,1,15,8,70,2,0
 2002-09-28,Air Force,MWC,Fisher DeBerry,A,Utah,MWC,Ron McBride,W,30,26,6,16,99,2,48,188,2,3,10,7,35,2,1
 2002-10-05,Air Force,MWC,Fisher DeBerry,H,Navy,Ind,Paul Johnson,W,48,7,6,7,107,0,67,429,5,5,22,3,35,0,0
-2002-10-12,Air Force,MWC,Fisher DeBerry,H,Brigham Young,MWC,Gary Crowton,W,52,9,4,9,77,0,79,386,7,2,25,3,30,0,0
+2002-10-12,Air Force,MWC,Fisher DeBerry,H,BYU,MWC,Gary Crowton,W,52,9,4,9,77,0,79,386,7,2,25,3,30,0,0
 2002-10-19,Air Force,MWC,Fisher DeBerry,H,Notre Dame,Ind,Tyrone Willingham,L,14,21,6,14,57,0,38,104,1,4,6,4,41,0,1
 2002-10-26,Air Force,MWC,Fisher DeBerry,A,Wyoming,MWC,Vic Koenning,L,26,34,9,20,169,1,53,255,1,6,16,3,25,0,0
 2002-10-31,Air Force,MWC,Fisher DeBerry,H,Colorado State,MWC,Sonny Lubick,L,12,31,3,8,29,1,55,221,1,2,13,0,0,2,0
@@ -1177,7 +1177,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2002-10-04,Colorado State,MWC,Sonny Lubick,A,Fresno State,WAC,Pat Hill,L,30,32,11,23,219,2,40,247,2,7,9,5,42,0,1
 2002-10-12,Colorado State,MWC,Sonny Lubick,H,Wyoming,MWC,Vic Koenning,W,44,36,18,28,231,3,51,270,3,13,14,3,35,1,2
 2002-10-19,Colorado State,MWC,Sonny Lubick,A,Utah,MWC,Ron McBride,W,28,20,13,23,140,1,38,112,3,8,5,5,60,1,0
-2002-10-24,Colorado State,MWC,Sonny Lubick,H,Brigham Young,MWC,Gary Crowton,W,37,10,11,23,151,0,56,342,4,6,18,2,10,1,0
+2002-10-24,Colorado State,MWC,Sonny Lubick,H,BYU,MWC,Gary Crowton,W,37,10,11,23,151,0,56,342,4,6,18,2,10,1,0
 2002-10-31,Colorado State,MWC,Sonny Lubick,A,Air Force,MWC,Fisher DeBerry,W,31,12,12,19,142,0,52,199,3,8,12,1,5,0,0
 2002-11-16,Colorado State,MWC,Sonny Lubick,A,San Diego State,MWC,Tom Craft,W,49,21,12,19,256,4,60,277,3,8,17,5,55,1,1
 2002-11-23,Colorado State,MWC,Sonny Lubick,H,New Mexico,MWC,Rocky Long,W,22,14,10,17,123,0,33,129,1,3,6,5,40,1,0

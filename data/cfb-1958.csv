@@ -61,7 +61,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-11-22,Furman,Southern,Robert King,N,Davidson,Southern,,W,22,20
 1958-11-29,Furman,Southern,Robert King,A,Clemson,ACC,Frank Howard,L,19,36
 1958-09-20,Utah,Skyline,Ray Nagel,H,Montana,Skyline,Ray Jenkins,W,20,6
-1958-09-27,Utah,Skyline,Ray Nagel,H,Brigham Young,Skyline,Harold Kopp,L,7,14
+1958-09-27,Utah,Skyline,Ray Nagel,H,BYU,Skyline,Harold Kopp,L,7,14
 1958-10-04,Utah,Skyline,Ray Nagel,H,Idaho,PCC,Skip Stahley,L,0,20
 1958-10-11,Utah,Skyline,Ray Nagel,A,California,PCC,Pete Elliott,L,21,36
 1958-10-18,Utah,Skyline,Ray Nagel,H,Denver,Skyline,John Roning,W,20,16
@@ -112,7 +112,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-10-04,Montana,Skyline,Ray Jenkins,A,New Mexico,Skyline,Marv Levy,L,16,44
 1958-10-10,Montana,Skyline,Ray Jenkins,A,Denver,Skyline,John Roning,L,0,29
 1958-10-18,Montana,Skyline,Ray Jenkins,H,Utah State,Skyline,Everett Faunce,L,14,27
-1958-10-25,Montana,Skyline,Ray Jenkins,H,Brigham Young,Skyline,Harold Kopp,L,12,41
+1958-10-25,Montana,Skyline,Ray Jenkins,H,BYU,Skyline,Harold Kopp,L,12,41
 1958-11-01,Montana,Skyline,Ray Jenkins,A,Colorado State,Skyline,Tuffy Mullison,L,7,57
 1958-11-08,Montana,Skyline,Ray Jenkins,H,Idaho,PCC,Skip Stahley,L,6,14
 1958-09-20,Penn State,Ind,Rip Engle,A,Nebraska,Big 7,William Jennings,L,7,14
@@ -350,7 +350,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-10-11,Utah State,Skyline,Everett Faunce,A,New Mexico,Skyline,Marv Levy,L,14,34
 1958-10-18,Utah State,Skyline,Everett Faunce,A,Montana,Skyline,Ray Jenkins,W,27,14
 1958-10-25,Utah State,Skyline,Everett Faunce,H,Colorado State,Skyline,Tuffy Mullison,W,15,0
-1958-11-01,Utah State,Skyline,Everett Faunce,H,Brigham Young,Skyline,Harold Kopp,L,6,13
+1958-11-01,Utah State,Skyline,Everett Faunce,H,BYU,Skyline,Harold Kopp,L,6,13
 1958-11-08,Utah State,Skyline,Everett Faunce,H,Wyoming,Skyline,Bob Devaney,L,13,41
 1958-11-15,Utah State,Skyline,Everett Faunce,A,Idaho,PCC,Skip Stahley,L,7,34
 1958-11-27,Utah State,Skyline,Everett Faunce,A,Utah,Skyline,Ray Nagel,L,7,12
@@ -389,7 +389,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-10-25,Denver,Skyline,John Roning,A,San Jose State,Ind,Robert Titchenal,L,7,27
 1958-10-31,Denver,Skyline,John Roning,H,New Mexico,Skyline,Marv Levy,L,15,21
 1958-11-08,Denver,Skyline,John Roning,H,Air Force,Ind,Ben Martin,L,7,10
-1958-11-15,Denver,Skyline,John Roning,H,Brigham Young,Skyline,Harold Kopp,L,7,22
+1958-11-15,Denver,Skyline,John Roning,H,BYU,Skyline,Harold Kopp,L,7,22
 1958-11-27,Denver,Skyline,John Roning,H,Colorado State,Skyline,Tuffy Mullison,L,8,9
 1958-09-26,Wisconsin,Big Ten,Milt Bruhn,A,Miami (FL),Ind,Andy Gustafson,W,20,0
 1958-10-04,Wisconsin,Big Ten,Milt Bruhn,H,Marquette,Ind,Johnny Druze,W,50,0
@@ -446,12 +446,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-10-18,New Mexico,Skyline,Marv Levy,H,Arizona,BIAA,Edward Doherty,W,33,13
 1958-10-25,New Mexico,Skyline,Marv Levy,A,Wyoming,Skyline,Bob Devaney,W,13,12
 1958-10-31,New Mexico,Skyline,Marv Levy,A,Denver,Skyline,John Roning,W,21,15
-1958-11-08,New Mexico,Skyline,Marv Levy,A,Brigham Young,Skyline,Harold Kopp,L,19,36
+1958-11-08,New Mexico,Skyline,Marv Levy,A,BYU,Skyline,Harold Kopp,L,19,36
 1958-11-15,New Mexico,Skyline,Marv Levy,H,Colorado State,Skyline,Tuffy Mullison,W,17,12
 1958-11-22,New Mexico,Skyline,Marv Levy,H,Air Force,Ind,Ben Martin,L,7,45
 1958-09-20,Pacific,Ind,Moose Myers,A,California,PCC,Pete Elliott,W,24,20
 1958-09-27,Pacific,Ind,Moose Myers,H,Arizona State,BIAA,Frank Kush,W,34,16
-1958-10-11,Pacific,Ind,Moose Myers,H,Brigham Young,Skyline,Harold Kopp,W,26,8
+1958-10-11,Pacific,Ind,Moose Myers,H,BYU,Skyline,Harold Kopp,W,26,8
 1958-10-18,Pacific,Ind,Moose Myers,H,Cincinnati,MVC,George Blackburn,L,6,12
 1958-10-25,Pacific,Ind,Moose Myers,A,Marquette,Ind,Johnny Druze,L,18,28
 1958-11-01,Pacific,Ind,Moose Myers,A,Boston College,Ind,Mike Holovak,L,12,25
@@ -496,7 +496,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-09-27,North Texas,MVC,Odus Mitchell,A,Oklahoma State,Ind,Cliff Speegle,L,14,21
 1958-10-04,North Texas,MVC,Odus Mitchell,H,New Mexico State,BIAA,Warren Woodson,W,43,12
 1958-10-11,North Texas,MVC,Odus Mitchell,A,Drake,Ind,Warren Gaer,W,42,0
-1958-10-18,North Texas,MVC,Odus Mitchell,A,Brigham Young,Skyline,Harold Kopp,W,12,6
+1958-10-18,North Texas,MVC,Odus Mitchell,A,BYU,Skyline,Harold Kopp,W,12,6
 1958-10-25,North Texas,MVC,Odus Mitchell,H,Tulsa,MVC,Robert Dobbs,W,8,7
 1958-11-01,North Texas,MVC,Odus Mitchell,H,Cincinnati,MVC,George Blackburn,T,8,8
 1958-11-08,North Texas,MVC,Odus Mitchell,A,Wichita State,MVC,Woody Woodard,L,13,15
@@ -510,17 +510,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-11-01,Wyoming,Skyline,Bob Devaney,H,Utah,Skyline,Ray Nagel,W,25,20
 1958-11-08,Wyoming,Skyline,Bob Devaney,A,Utah State,Skyline,Everett Faunce,W,41,13
 1958-11-15,Wyoming,Skyline,Bob Devaney,A,Air Force,Ind,Ben Martin,L,6,21
-1958-11-22,Wyoming,Skyline,Bob Devaney,A,Brigham Young,Skyline,Harold Kopp,W,22,14
+1958-11-22,Wyoming,Skyline,Bob Devaney,A,BYU,Skyline,Harold Kopp,W,22,14
 1958-12-31,Wyoming,Skyline,Bob Devaney,N,Hardin-Simmons,BIAA,Sammy Baugh,W,14,6
-1958-09-27,Brigham Young,Skyline,Harold Kopp,A,Utah,Skyline,Ray Nagel,W,14,7
-1958-10-04,Brigham Young,Skyline,Harold Kopp,A,Colorado State,Skyline,Tuffy Mullison,L,6,32
-1958-10-11,Brigham Young,Skyline,Harold Kopp,A,Pacific,Ind,Moose Myers,L,8,26
-1958-10-18,Brigham Young,Skyline,Harold Kopp,H,North Texas,MVC,Odus Mitchell,L,6,12
-1958-10-25,Brigham Young,Skyline,Harold Kopp,A,Montana,Skyline,Ray Jenkins,W,41,12
-1958-11-01,Brigham Young,Skyline,Harold Kopp,A,Utah State,Skyline,Everett Faunce,W,13,6
-1958-11-08,Brigham Young,Skyline,Harold Kopp,H,New Mexico,Skyline,Marv Levy,W,36,19
-1958-11-15,Brigham Young,Skyline,Harold Kopp,A,Denver,Skyline,John Roning,W,22,7
-1958-11-22,Brigham Young,Skyline,Harold Kopp,H,Wyoming,Skyline,Bob Devaney,L,14,22
+1958-09-27,BYU,Skyline,Harold Kopp,A,Utah,Skyline,Ray Nagel,W,14,7
+1958-10-04,BYU,Skyline,Harold Kopp,A,Colorado State,Skyline,Tuffy Mullison,L,6,32
+1958-10-11,BYU,Skyline,Harold Kopp,A,Pacific,Ind,Moose Myers,L,8,26
+1958-10-18,BYU,Skyline,Harold Kopp,H,North Texas,MVC,Odus Mitchell,L,6,12
+1958-10-25,BYU,Skyline,Harold Kopp,A,Montana,Skyline,Ray Jenkins,W,41,12
+1958-11-01,BYU,Skyline,Harold Kopp,A,Utah State,Skyline,Everett Faunce,W,13,6
+1958-11-08,BYU,Skyline,Harold Kopp,H,New Mexico,Skyline,Marv Levy,W,36,19
+1958-11-15,BYU,Skyline,Harold Kopp,A,Denver,Skyline,John Roning,W,22,7
+1958-11-22,BYU,Skyline,Harold Kopp,H,Wyoming,Skyline,Bob Devaney,L,14,22
 1958-10-04,Yale,Ivy,Jordan Olivar,A,Brown,Ivy,Alva Kelley,L,29,35
 1958-10-11,Yale,Ivy,Jordan Olivar,A,Columbia,Ivy,Aldo Donelli,L,0,13
 1958-10-18,Yale,Ivy,Jordan Olivar,H,Cornell,Ivy,George James,L,7,12
@@ -862,7 +862,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1958-11-22,Colorado,Big 7,Dallas Ward,H,Colorado State,Skyline,Tuffy Mullison,L,14,15
 1958-11-29,Colorado,Big 7,Dallas Ward,H,Air Force,Ind,Ben Martin,L,14,20
 1958-09-27,Colorado State,Skyline,Tuffy Mullison,A,Drake,Ind,Warren Gaer,W,21,0
-1958-10-04,Colorado State,Skyline,Tuffy Mullison,H,Brigham Young,Skyline,Harold Kopp,W,32,6
+1958-10-04,Colorado State,Skyline,Tuffy Mullison,H,BYU,Skyline,Harold Kopp,W,32,6
 1958-10-11,Colorado State,Skyline,Tuffy Mullison,A,Air Force,Ind,Ben Martin,L,6,36
 1958-10-18,Colorado State,Skyline,Tuffy Mullison,H,Wyoming,Skyline,Bob Devaney,L,6,7
 1958-10-25,Colorado State,Skyline,Tuffy Mullison,A,Utah State,Skyline,Everett Faunce,L,0,15

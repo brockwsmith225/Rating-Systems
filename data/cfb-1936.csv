@@ -48,13 +48,13 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-10-10,Utah,RMC,Ike Armstrong,H,Western State,RMC,Paul Wright,W,26,0
 1936-10-17,Utah,RMC,Ike Armstrong,A,Denver,RMC,William Saunders,W,31,6
 1936-10-24,Utah,RMC,Ike Armstrong,A,Utah State,RMC,,L,0,12
-1936-10-31,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,18,0
+1936-10-31,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,18,0
 1936-11-07,Utah,RMC,Ike Armstrong,A,Colorado,RMC,Bunny Oakes,L,7,31
 1936-11-14,Utah,RMC,Ike Armstrong,H,Texas A&M,SWC,Homer Norton,L,7,20
 1936-11-26,Utah,RMC,Ike Armstrong,H,Colorado State,RMC,Harry Hughes,W,13,0
 1936-09-26,Northern Colorado,RMC,J.W. Hancock,A,Utah,RMC,Ike Armstrong,L,0,26
 1936-10-02,Northern Colorado,RMC,J.W. Hancock,H,Wyoming,RMC,Dutch Witte,W,13,7
-1936-10-09,Northern Colorado,RMC,J.W. Hancock,H,Brigham Young,RMC,Ott Romney,L,0,33
+1936-10-09,Northern Colorado,RMC,J.W. Hancock,H,BYU,RMC,Ott Romney,L,0,33
 1936-10-17,Northern Colorado,RMC,J.W. Hancock,A,Montana State,RMC,Jack Croft,W,13,0
 1936-10-24,Northern Colorado,RMC,J.W. Hancock,A,Western State,RMC,Paul Wright,W,12,10
 1936-11-14,Northern Colorado,RMC,J.W. Hancock,H,Colorado State,RMC,Harry Hughes,L,6,12
@@ -80,7 +80,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-11-07,Syracuse,Ind,Vic Hanson,A,Indiana,Western,Bo McMillin,L,7,9
 1936-11-14,Syracuse,Ind,Vic Hanson,A,Columbia,Ind,Lou Little,L,0,17
 1936-11-21,Syracuse,Ind,Vic Hanson,H,Colgate,Ind,Andrew Kerr,L,0,13
-1936-09-25,Arizona,BIAA,Tex Oliver,H,Brigham Young,RMC,Ott Romney,W,32,6
+1936-09-25,Arizona,BIAA,Tex Oliver,H,BYU,RMC,Ott Romney,W,32,6
 1936-10-03,Arizona,BIAA,Tex Oliver,A,Utah,RMC,Ike Armstrong,L,6,14
 1936-10-10,Arizona,BIAA,Tex Oliver,A,Arizona State,BIAA,Rudy Lavik,W,18,0
 1936-10-17,Arizona,BIAA,Tex Oliver,H,Centenary (LA),Ind,Curtis Player,T,13,13
@@ -129,7 +129,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-11-07,Colorado College,RMC,W.T. VandeGraaff,H,Washburn,MVC,Elmer Holm,T,0,0
 1936-11-14,Colorado College,RMC,W.T. VandeGraaff,A,Western State,RMC,Paul Wright,W,7,0
 1936-11-24,Colorado College,RMC,W.T. VandeGraaff,A,Colorado State,RMC,Harry Hughes,L,12,19
-1936-11-28,Colorado College,RMC,W.T. VandeGraaff,H,Brigham Young,RMC,Ott Romney,W,6,0
+1936-11-28,Colorado College,RMC,W.T. VandeGraaff,H,BYU,RMC,Ott Romney,W,6,0
 1936-10-03,Kentucky,SEC,C.A. Wynne,H,Virginia Military Institute,Southern,,W,38,0
 1936-10-10,Kentucky,SEC,C.A. Wynne,A,Georgia Tech,SEC,William Alexander,L,0,34
 1936-10-17,Kentucky,SEC,C.A. Wynne,A,Washington & Lee,Southern,Tex Tilson,W,39,7
@@ -198,7 +198,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-10-03,Western State,RMC,Paul Wright,H,Colorado Mines,RMC,Wilbur White,W,13,0
 1936-10-10,Western State,RMC,Paul Wright,A,Utah,RMC,Ike Armstrong,L,0,26
 1936-10-24,Western State,RMC,Paul Wright,H,Northern Colorado,RMC,J.W. Hancock,L,10,12
-1936-11-07,Western State,RMC,Paul Wright,A,Brigham Young,RMC,Ott Romney,L,12,26
+1936-11-07,Western State,RMC,Paul Wright,A,BYU,RMC,Ott Romney,L,12,26
 1936-11-14,Western State,RMC,Paul Wright,H,Colorado College,RMC,W.T. VandeGraaff,L,0,7
 1936-10-03,Illinois,Western,Robert Zuppke,H,Washington (MO),MVC,Jimmy Conzelman,W,13,7
 1936-10-10,Illinois,Western,Robert Zuppke,H,USC,PCC,Howard Jones,L,6,24
@@ -350,7 +350,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-11-14,Holy Cross,Ind,,A,Brown,Ind,DeOrmond McLaughry,W,32,0
 1936-09-26,Utah State,RMC,,H,Montana State,RMC,Jack Croft,W,12,0
 1936-10-10,Utah State,RMC,,A,Wyoming,RMC,Dutch Witte,W,25,0
-1936-10-17,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,W,13,0
+1936-10-17,Utah State,RMC,,A,BYU,RMC,Ott Romney,W,13,0
 1936-10-24,Utah State,RMC,,H,Utah,RMC,Ike Armstrong,W,12,0
 1936-10-31,Utah State,RMC,,A,Denver,RMC,William Saunders,T,0,0
 1936-11-07,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,W,13,0
@@ -365,7 +365,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-11-21,Missouri,Big 6,Don Faurot,H,Washington (MO),MVC,Jimmy Conzelman,W,17,10
 1936-11-26,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,Adrian Lindsey,W,19,3
 1936-09-26,Montana State,RMC,Jack Croft,A,Utah State,RMC,,L,0,12
-1936-10-03,Montana State,RMC,Jack Croft,A,Brigham Young,RMC,Ott Romney,L,0,19
+1936-10-03,Montana State,RMC,Jack Croft,A,BYU,RMC,Ott Romney,L,0,19
 1936-10-10,Montana State,RMC,Jack Croft,H,Colorado College,RMC,W.T. VandeGraaff,W,6,3
 1936-10-17,Montana State,RMC,Jack Croft,H,Northern Colorado,RMC,J.W. Hancock,L,0,13
 1936-10-24,Montana State,RMC,Jack Croft,N,Montana,PCC,Doug Fessenden,L,0,27
@@ -377,7 +377,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-10-24,Denver,RMC,William Saunders,H,Wyoming,RMC,Dutch Witte,W,25,14
 1936-10-31,Denver,RMC,William Saunders,H,Utah State,RMC,,T,0,0
 1936-11-07,Denver,RMC,William Saunders,A,Drake,MVC,Vee Green,W,27,13
-1936-11-14,Denver,RMC,William Saunders,H,Brigham Young,RMC,Ott Romney,W,35,7
+1936-11-14,Denver,RMC,William Saunders,H,BYU,RMC,Ott Romney,W,35,7
 1936-11-26,Denver,RMC,William Saunders,H,Colorado,RMC,Bunny Oakes,W,7,6
 1936-09-19,Wofford,Ind,Jules Carson,A,Virginia Military Institute,Southern,,L,0,19
 1936-09-26,Wofford,Ind,Jules Carson,H,Furman,Southern,,L,0,31
@@ -512,17 +512,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1936-10-24,Wyoming,RMC,Dutch Witte,A,Denver,RMC,William Saunders,L,14,25
 1936-10-31,Wyoming,RMC,Dutch Witte,H,Colorado Mines,RMC,Wilbur White,W,27,0
 1936-11-07,Wyoming,RMC,Dutch Witte,H,Montana State,RMC,Jack Croft,W,19,6
-1936-11-21,Wyoming,RMC,Dutch Witte,A,Brigham Young,RMC,Ott Romney,L,7,32
+1936-11-21,Wyoming,RMC,Dutch Witte,A,BYU,RMC,Ott Romney,L,7,32
 1936-11-28,Wyoming,RMC,Dutch Witte,A,Arizona,BIAA,Tex Oliver,L,0,58
-1936-09-25,Brigham Young,RMC,Ott Romney,A,Arizona,BIAA,Tex Oliver,L,6,32
-1936-10-03,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Jack Croft,W,19,0
-1936-10-09,Brigham Young,RMC,Ott Romney,A,Northern Colorado,RMC,J.W. Hancock,W,33,0
-1936-10-17,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,L,0,13
-1936-10-31,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,18
-1936-11-07,Brigham Young,RMC,Ott Romney,H,Western State,RMC,Paul Wright,W,26,12
-1936-11-14,Brigham Young,RMC,Ott Romney,A,Denver,RMC,William Saunders,L,7,35
-1936-11-21,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,Dutch Witte,W,32,7
-1936-11-28,Brigham Young,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,L,0,6
+1936-09-25,BYU,RMC,Ott Romney,A,Arizona,BIAA,Tex Oliver,L,6,32
+1936-10-03,BYU,RMC,Ott Romney,H,Montana State,RMC,Jack Croft,W,19,0
+1936-10-09,BYU,RMC,Ott Romney,A,Northern Colorado,RMC,J.W. Hancock,W,33,0
+1936-10-17,BYU,RMC,Ott Romney,H,Utah State,RMC,,L,0,13
+1936-10-31,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,18
+1936-11-07,BYU,RMC,Ott Romney,H,Western State,RMC,Paul Wright,W,26,12
+1936-11-14,BYU,RMC,Ott Romney,A,Denver,RMC,William Saunders,L,7,35
+1936-11-21,BYU,RMC,Ott Romney,H,Wyoming,RMC,Dutch Witte,W,32,7
+1936-11-28,BYU,RMC,Ott Romney,A,Colorado College,RMC,W.T. VandeGraaff,L,0,6
 1936-10-02,Duquesne,Ind,,H,Rice,SWC,Jimmy Kitts,W,14,0
 1936-10-17,Duquesne,Ind,,A,Pitt,Ind,Jock Sutherland,W,7,0
 1936-10-30,Duquesne,Ind,,A,Detroit Mercy,Ind,Gus Dorais,L,7,14

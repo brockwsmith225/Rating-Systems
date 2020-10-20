@@ -28,7 +28,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1929-11-05,Fordham,Ind,Frank Cavanaugh,H,West Virginia,Ind,Rat Rogers,T,0,0
 1929-10-19,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Myron Witham,W,40,0
 1929-10-26,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,21,0
-1929-11-02,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,45,13
+1929-11-02,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,45,13
 1929-11-09,Utah,RMC,Ike Armstrong,A,Colorado College,RMC,W.T. VandeGraaff,W,12,3
 1929-11-16,Utah,RMC,Ike Armstrong,A,Wyoming,RMC,George McLaren,W,44,0
 1929-11-28,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,26,7
@@ -36,7 +36,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1929-10-19,Northern Colorado,RMC,William Saunders,H,Western State,RMC,Stewart Clark,W,6,0
 1929-10-26,Northern Colorado,RMC,William Saunders,H,Colorado Mines,RMC,George Allen,W,16,13
 1929-11-02,Northern Colorado,RMC,William Saunders,H,Wyoming,RMC,George McLaren,W,6,0
-1929-11-11,Northern Colorado,RMC,William Saunders,A,Brigham Young,RMC,Ott Romney,L,13,25
+1929-11-11,Northern Colorado,RMC,William Saunders,A,BYU,RMC,Ott Romney,L,13,25
 1929-11-23,Northern Colorado,RMC,William Saunders,A,Regis (CO),Ind,,L,0,13
 1929-10-04,Washington & Lee,Southern,Eugene Oberst,A,North Carolina State,Southern,Gus Tebell,W,27,6
 1929-10-12,Washington & Lee,Southern,Eugene Oberst,A,Kentucky,Southern,Harry Gamage,L,6,20
@@ -123,7 +123,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1929-11-30,Washington State,PCC,O.E. Hollingbery,A,USC,PCC,Howard Jones,L,7,27
 1929-10-12,Western State,RMC,Stewart Clark,H,Colorado Mines,RMC,George Allen,L,13,20
 1929-10-19,Western State,RMC,Stewart Clark,A,Northern Colorado,RMC,William Saunders,L,0,6
-1929-10-26,Western State,RMC,Stewart Clark,A,Brigham Young,RMC,Ott Romney,L,12,33
+1929-10-26,Western State,RMC,Stewart Clark,A,BYU,RMC,Ott Romney,L,12,33
 1929-11-02,Western State,RMC,Stewart Clark,A,Colorado State,RMC,Harry Hughes,L,14,45
 1929-11-09,Western State,RMC,Stewart Clark,H,Regis (CO),Ind,,W,25,23
 1929-11-16,Western State,RMC,Stewart Clark,A,Colorado College,RMC,W.T. VandeGraaff,L,21,54
@@ -213,7 +213,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1929-11-16,Washington,PCC,Enoch Bagshaw,A,California,PCC,Nibs Price,L,0,7
 1929-11-23,Washington,PCC,Enoch Bagshaw,A,Chicago,Western,Amos Alonzo Stagg,L,6,26
 1929-10-05,Utah State,RMC,,A,Montana State,RMC,Schubert Dyche,W,9,0
-1929-10-19,Utah State,RMC,,N,Brigham Young,RMC,Ott Romney,L,6,7
+1929-10-19,Utah State,RMC,,N,BYU,RMC,Ott Romney,L,6,7
 1929-10-26,Utah State,RMC,,A,Wyoming,RMC,George McLaren,W,12,7
 1929-11-02,Utah State,RMC,,H,Colorado College,RMC,W.T. VandeGraaff,W,10,0
 1929-11-09,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,6,7
@@ -229,7 +229,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1929-11-28,Missouri,Big 6,Gwinn Henry,H,Oklahoma,Big 6,Adrian Lindsey,W,13,0
 1929-09-28,Montana State,RMC,Schubert Dyche,A,Idaho,PCC,Leo Calland,L,6,39
 1929-10-05,Montana State,RMC,Schubert Dyche,H,Utah State,RMC,,L,0,9
-1929-10-12,Montana State,RMC,Schubert Dyche,A,Brigham Young,RMC,Ott Romney,W,13,12
+1929-10-12,Montana State,RMC,Schubert Dyche,A,BYU,RMC,Ott Romney,W,13,12
 1929-10-19,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Frank Millburn,W,14,12
 1929-11-11,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,George McLaren,W,13,0
 1929-10-05,Denver,RMC,Jeff Cravath,H,Colorado Mines,RMC,George Allen,W,7,0
@@ -315,13 +315,13 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1929-11-02,Wyoming,RMC,George McLaren,A,Northern Colorado,RMC,William Saunders,L,0,6
 1929-11-11,Wyoming,RMC,George McLaren,H,Montana State,RMC,Schubert Dyche,L,0,13
 1929-11-16,Wyoming,RMC,George McLaren,H,Utah,RMC,Ike Armstrong,L,0,44
-1929-11-23,Wyoming,RMC,George McLaren,A,Brigham Young,RMC,Ott Romney,L,0,40
-1929-10-12,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,L,12,13
-1929-10-19,Brigham Young,RMC,Ott Romney,N,Utah State,RMC,,W,7,6
-1929-10-26,Brigham Young,RMC,Ott Romney,H,Western State,RMC,Stewart Clark,W,33,12
-1929-11-02,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,13,45
-1929-11-11,Brigham Young,RMC,Ott Romney,H,Northern Colorado,RMC,William Saunders,W,25,13
-1929-11-23,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,George McLaren,W,40,0
+1929-11-23,Wyoming,RMC,George McLaren,A,BYU,RMC,Ott Romney,L,0,40
+1929-10-12,BYU,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,L,12,13
+1929-10-19,BYU,RMC,Ott Romney,N,Utah State,RMC,,W,7,6
+1929-10-26,BYU,RMC,Ott Romney,H,Western State,RMC,Stewart Clark,W,33,12
+1929-11-02,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,13,45
+1929-11-11,BYU,RMC,Ott Romney,H,Northern Colorado,RMC,William Saunders,W,25,13
+1929-11-23,BYU,RMC,Ott Romney,H,Wyoming,RMC,George McLaren,W,40,0
 1929-10-12,Yale,Ind,Mal Stevens,A,Georgia,Southern,Harry Mehre,L,0,15
 1929-10-19,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,W,14,6
 1929-10-26,Yale,Ind,Mal Stevens,H,Army,Ind,Biff Jones,W,21,13

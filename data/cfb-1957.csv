@@ -60,7 +60,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-09-21,Utah,Skyline,Jack Curtice,H,Montana,Skyline,Jerry Williams,W,32,13
 1957-09-28,Utah,Skyline,Jack Curtice,A,Colorado,Big 7,Dallas Ward,L,24,30
 1957-10-05,Utah,Skyline,Jack Curtice,A,Idaho,PCC,Skip Stahley,L,6,21
-1957-10-12,Utah,Skyline,Jack Curtice,H,Brigham Young,Skyline,Harold Kopp,W,27,0
+1957-10-12,Utah,Skyline,Jack Curtice,H,BYU,Skyline,Harold Kopp,W,27,0
 1957-10-19,Utah,Skyline,Jack Curtice,A,Denver,Skyline,John Roning,L,7,12
 1957-10-26,Utah,Skyline,Jack Curtice,H,Wyoming,Skyline,Bob Devaney,W,23,15
 1957-11-03,Utah,Skyline,Jack Curtice,H,Colorado State,Skyline,Tuffy Mullison,W,55,0
@@ -95,7 +95,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-11-09,Syracuse,Ind,Ben Schwartzwalder,H,Holy Cross,Ind,Edward Anderson,L,19,20
 1957-11-16,Syracuse,Ind,Ben Schwartzwalder,H,Colgate,Ind,Fred Rice,W,34,6
 1957-11-23,Syracuse,Ind,Ben Schwartzwalder,A,West Virginia,Southern,Art Lewis,L,0,7
-1957-09-21,Arizona,BIAA,Edward Doherty,H,Brigham Young,Skyline,Harold Kopp,T,14,14
+1957-09-21,Arizona,BIAA,Edward Doherty,H,BYU,Skyline,Harold Kopp,T,14,14
 1957-09-28,Arizona,BIAA,Edward Doherty,A,Missouri,Big 7,Frank Broyles,L,13,35
 1957-10-12,Arizona,BIAA,Edward Doherty,A,Colorado,Big 7,Dallas Ward,L,14,34
 1957-10-19,Arizona,BIAA,Edward Doherty,H,New Mexico,Skyline,Dick Clausen,L,0,27
@@ -107,7 +107,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-11-30,Arizona,BIAA,Edward Doherty,A,Arizona State,BIAA,Dan Devine,L,7,47
 1957-09-21,Montana,Skyline,Jerry Williams,A,Utah,Skyline,Jack Curtice,L,13,32
 1957-09-28,Montana,Skyline,Jerry Williams,N,Wyoming,Skyline,Bob Devaney,L,0,20
-1957-10-04,Montana,Skyline,Jerry Williams,A,Brigham Young,Skyline,Harold Kopp,L,7,20
+1957-10-04,Montana,Skyline,Jerry Williams,A,BYU,Skyline,Harold Kopp,L,7,20
 1957-10-12,Montana,Skyline,Jerry Williams,H,Denver,Skyline,John Roning,L,13,26
 1957-10-19,Montana,Skyline,Jerry Williams,A,Utah State,Skyline,Everett Faunce,W,35,25
 1957-10-26,Montana,Skyline,Jerry Williams,H,New Mexico,Skyline,Dick Clausen,W,21,6
@@ -339,7 +339,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-10-12,Utah State,Skyline,Everett Faunce,H,New Mexico,Skyline,Dick Clausen,L,10,14
 1957-10-19,Utah State,Skyline,Everett Faunce,H,Montana,Skyline,Jerry Williams,L,25,35
 1957-10-26,Utah State,Skyline,Everett Faunce,A,Colorado State,Skyline,Tuffy Mullison,W,27,14
-1957-11-02,Utah State,Skyline,Everett Faunce,A,Brigham Young,Skyline,Harold Kopp,L,0,14
+1957-11-02,Utah State,Skyline,Everett Faunce,A,BYU,Skyline,Harold Kopp,L,0,14
 1957-11-09,Utah State,Skyline,Everett Faunce,H,Idaho,PCC,Skip Stahley,L,7,35
 1957-11-16,Utah State,Skyline,Everett Faunce,A,Denver,Skyline,John Roning,L,19,21
 1957-11-28,Utah State,Skyline,Everett Faunce,A,Utah,Skyline,Jack Curtice,L,6,21
@@ -374,7 +374,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-10-05,Denver,Skyline,John Roning,A,Colorado State,Skyline,Tuffy Mullison,L,6,27
 1957-10-12,Denver,Skyline,John Roning,A,Montana,Skyline,Jerry Williams,W,26,13
 1957-10-19,Denver,Skyline,John Roning,H,Utah,Skyline,Jack Curtice,W,12,7
-1957-10-26,Denver,Skyline,John Roning,A,Brigham Young,Skyline,Harold Kopp,L,6,25
+1957-10-26,Denver,Skyline,John Roning,A,BYU,Skyline,Harold Kopp,L,6,25
 1957-11-01,Denver,Skyline,John Roning,A,New Mexico,Skyline,Dick Clausen,W,19,0
 1957-11-09,Denver,Skyline,John Roning,A,Air Force,Ind,Buck Shaw,W,26,14
 1957-11-16,Denver,Skyline,John Roning,H,Utah State,Skyline,Everett Faunce,W,21,19
@@ -438,7 +438,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-11-01,New Mexico,Skyline,Dick Clausen,H,Denver,Skyline,John Roning,L,0,19
 1957-11-16,New Mexico,Skyline,Dick Clausen,H,Wyoming,Skyline,Bob Devaney,L,13,20
 1957-11-23,New Mexico,Skyline,Dick Clausen,A,Air Force,Ind,Buck Shaw,L,0,31
-1957-11-30,New Mexico,Skyline,Dick Clausen,H,Brigham Young,Skyline,Harold Kopp,L,12,14
+1957-11-30,New Mexico,Skyline,Dick Clausen,H,BYU,Skyline,Harold Kopp,L,12,14
 1957-10-05,Pacific,Ind,Moose Myers,H,Tulsa,MVC,Robert Dobbs,W,21,13
 1957-10-12,Pacific,Ind,Moose Myers,H,Kansas State,Big 7,Bernard Mertes,T,7,7
 1957-10-19,Pacific,Ind,Moose Myers,H,Idaho,PCC,Skip Stahley,T,7,7
@@ -491,21 +491,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-09-28,Wyoming,Skyline,Bob Devaney,N,Montana,Skyline,Jerry Williams,W,20,0
 1957-10-05,Wyoming,Skyline,Bob Devaney,H,Utah State,Skyline,Everett Faunce,T,19,19
 1957-10-12,Wyoming,Skyline,Bob Devaney,H,Colorado State,Skyline,Tuffy Mullison,W,27,13
-1957-10-19,Wyoming,Skyline,Bob Devaney,H,Brigham Young,Skyline,Harold Kopp,T,0,0
+1957-10-19,Wyoming,Skyline,Bob Devaney,H,BYU,Skyline,Harold Kopp,T,0,0
 1957-10-26,Wyoming,Skyline,Bob Devaney,A,Utah,Skyline,Jack Curtice,L,15,23
 1957-11-02,Wyoming,Skyline,Bob Devaney,H,Air Force,Ind,Buck Shaw,T,7,7
 1957-11-09,Wyoming,Skyline,Bob Devaney,A,Oklahoma State,Ind,Cliff Speegle,L,6,39
 1957-11-16,Wyoming,Skyline,Bob Devaney,A,New Mexico,Skyline,Dick Clausen,W,20,13
 1957-11-28,Wyoming,Skyline,Bob Devaney,A,Denver,Skyline,John Roning,L,13,14
-1957-09-21,Brigham Young,Skyline,Harold Kopp,A,Arizona,BIAA,Edward Doherty,T,14,14
-1957-09-28,Brigham Young,Skyline,Harold Kopp,A,Kansas State,Big 7,Bernard Mertes,L,7,36
-1957-10-04,Brigham Young,Skyline,Harold Kopp,H,Montana,Skyline,Jerry Williams,W,20,7
-1957-10-12,Brigham Young,Skyline,Harold Kopp,A,Utah,Skyline,Jack Curtice,L,0,27
-1957-10-19,Brigham Young,Skyline,Harold Kopp,A,Wyoming,Skyline,Bob Devaney,T,0,0
-1957-10-26,Brigham Young,Skyline,Harold Kopp,H,Denver,Skyline,John Roning,W,25,6
-1957-11-02,Brigham Young,Skyline,Harold Kopp,H,Utah State,Skyline,Everett Faunce,W,14,0
-1957-11-23,Brigham Young,Skyline,Harold Kopp,H,Colorado State,Skyline,Tuffy Mullison,W,26,9
-1957-11-30,Brigham Young,Skyline,Harold Kopp,A,New Mexico,Skyline,Dick Clausen,W,14,12
+1957-09-21,BYU,Skyline,Harold Kopp,A,Arizona,BIAA,Edward Doherty,T,14,14
+1957-09-28,BYU,Skyline,Harold Kopp,A,Kansas State,Big 7,Bernard Mertes,L,7,36
+1957-10-04,BYU,Skyline,Harold Kopp,H,Montana,Skyline,Jerry Williams,W,20,7
+1957-10-12,BYU,Skyline,Harold Kopp,A,Utah,Skyline,Jack Curtice,L,0,27
+1957-10-19,BYU,Skyline,Harold Kopp,A,Wyoming,Skyline,Bob Devaney,T,0,0
+1957-10-26,BYU,Skyline,Harold Kopp,H,Denver,Skyline,John Roning,W,25,6
+1957-11-02,BYU,Skyline,Harold Kopp,H,Utah State,Skyline,Everett Faunce,W,14,0
+1957-11-23,BYU,Skyline,Harold Kopp,H,Colorado State,Skyline,Tuffy Mullison,W,26,9
+1957-11-30,BYU,Skyline,Harold Kopp,A,New Mexico,Skyline,Dick Clausen,W,14,12
 1957-10-05,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,Alva Kelley,L,20,21
 1957-10-12,Yale,Ivy,Jordan Olivar,H,Columbia,Ivy,Aldo Donelli,W,19,0
 1957-10-19,Yale,Ivy,Jordan Olivar,A,Cornell,Ivy,George James,W,18,7
@@ -550,7 +550,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-11-16,Virginia Military Institute,Southern,John McKenna,H,Citadel,Southern,Eddie Teague,W,33,7
 1957-11-28,Virginia Military Institute,Southern,John McKenna,N,Virginia Tech,Southern,Frank Moseley,W,14,6
 1957-09-21,Kansas State,Big 7,Bernard Mertes,A,Wyoming,Skyline,Bob Devaney,L,7,12
-1957-09-28,Kansas State,Big 7,Bernard Mertes,H,Brigham Young,Skyline,Harold Kopp,W,36,7
+1957-09-28,Kansas State,Big 7,Bernard Mertes,H,BYU,Skyline,Harold Kopp,W,36,7
 1957-10-05,Kansas State,Big 7,Bernard Mertes,H,Nebraska,Big 7,William Jennings,L,7,14
 1957-10-12,Kansas State,Big 7,Bernard Mertes,A,Pacific,Ind,Moose Myers,T,7,7
 1957-10-19,Kansas State,Big 7,Bernard Mertes,H,Colorado,Big 7,Dallas Ward,L,14,42
@@ -852,7 +852,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1957-11-03,Colorado State,Skyline,Tuffy Mullison,A,Utah,Skyline,Jack Curtice,L,0,55
 1957-11-09,Colorado State,Skyline,Tuffy Mullison,H,Colorado,Big 7,Dallas Ward,L,0,20
 1957-11-16,Colorado State,Skyline,Tuffy Mullison,A,Montana,Skyline,Jerry Williams,W,19,7
-1957-11-23,Colorado State,Skyline,Tuffy Mullison,A,Brigham Young,Skyline,Harold Kopp,L,9,26
+1957-11-23,Colorado State,Skyline,Tuffy Mullison,A,BYU,Skyline,Harold Kopp,L,9,26
 1957-11-30,Colorado State,Skyline,Tuffy Mullison,A,Air Force,Ind,Buck Shaw,W,20,7
 1957-09-21,Rice,SWC,Jess Neely,A,LSU,SEC,Paul Dietzel,W,20,14
 1957-10-05,Rice,SWC,Jess Neely,H,Stanford,PCC,Chuck Taylor,W,34,7

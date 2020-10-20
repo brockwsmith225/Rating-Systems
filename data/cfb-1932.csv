@@ -34,14 +34,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1932-12-03,Arizona State,BIAA,Ted Shipkey,H,New Mexico,BIAA,,W,43,0
 1932-09-24,Utah,RMC,Ike Armstrong,A,USC,PCC,Howard Jones,L,0,35
 1932-10-01,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,54,6
-1932-10-15,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,29,0
+1932-10-15,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,29,0
 1932-10-29,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,16,0
 1932-11-05,Utah,RMC,Ike Armstrong,A,Colorado,RMC,William Saunders,W,14,0
 1932-11-12,Utah,RMC,Ike Armstrong,H,Denver,RMC,Percy Locey,W,27,0
 1932-11-19,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,16,0
 1932-10-01,Northern Colorado,RMC,J.W. Hancock,H,Colorado State,RMC,Harry Hughes,L,0,12
 1932-10-15,Northern Colorado,RMC,J.W. Hancock,H,New Mexico,BIAA,,W,30,6
-1932-10-22,Northern Colorado,RMC,J.W. Hancock,A,Brigham Young,RMC,Ott Romney,L,2,20
+1932-10-22,Northern Colorado,RMC,J.W. Hancock,A,BYU,RMC,Ott Romney,L,2,20
 1932-11-11,Northern Colorado,RMC,J.W. Hancock,A,Wyoming,RMC,John Rhodes,T,0,0
 1932-11-19,Northern Colorado,RMC,J.W. Hancock,H,Colorado Mines,RMC,George Allen,W,14,6
 1932-11-26,Northern Colorado,RMC,J.W. Hancock,A,Western State,RMC,Tefler Meade,W,19,6
@@ -160,7 +160,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1932-11-05,Washington State,PCC,O.E. Hollingbery,H,Idaho,PCC,Leo Calland,W,12,0
 1932-11-12,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,James Phelan,T,0,0
 1932-11-24,Washington State,PCC,O.E. Hollingbery,A,UCLA,PCC,William Spaulding,W,3,0
-1932-10-01,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,6,28
+1932-10-01,Western State,RMC,Tefler Meade,H,BYU,RMC,Ott Romney,L,6,28
 1932-10-15,Western State,RMC,Tefler Meade,A,Utah State,RMC,,L,0,39
 1932-11-05,Western State,RMC,Tefler Meade,A,Colorado College,RMC,W.T. VandeGraaff,L,0,31
 1932-11-12,Western State,RMC,Tefler Meade,A,Colorado Mines,RMC,George Allen,L,0,13
@@ -283,7 +283,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1932-10-15,Utah State,RMC,,H,Western State,RMC,Tefler Meade,W,39,0
 1932-10-29,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,16
 1932-11-05,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,W,13,12
-1932-11-19,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,L,6,18
+1932-11-19,Utah State,RMC,,A,BYU,RMC,Ott Romney,L,6,18
 1932-11-26,Utah State,RMC,,A,Idaho,PCC,Leo Calland,L,0,33
 1932-10-01,Missouri,Big 6,Frank Carideo,A,Northwestern,Western,Dick Hanley,L,0,27
 1932-10-08,Missouri,Big 6,Frank Carideo,H,Texas,SWC,Clyde Littlefield,L,0,65
@@ -294,7 +294,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1932-11-12,Missouri,Big 6,Frank Carideo,H,Kansas,Big 6,Bill Hargiss,L,0,7
 1932-11-24,Missouri,Big 6,Frank Carideo,A,Nebraska,Big 6,Dana Bible,L,6,21
 1932-12-03,Missouri,Big 6,Frank Carideo,A,Saint Louis,Ind,,L,6,19
-1932-09-23,Montana State,RMC,Schubert Dyche,N,Brigham Young,RMC,Ott Romney,L,0,6
+1932-09-23,Montana State,RMC,Schubert Dyche,N,BYU,RMC,Ott Romney,L,0,6
 1932-10-01,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,0,26
 1932-10-15,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,John Rhodes,L,7,13
 1932-11-05,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Bunny Oakes,W,19,7
@@ -421,17 +421,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1932-10-07,Wyoming,RMC,John Rhodes,A,Saint Louis,Ind,,L,6,20
 1932-10-15,Wyoming,RMC,John Rhodes,H,Montana State,RMC,Schubert Dyche,W,13,7
 1932-10-22,Wyoming,RMC,John Rhodes,H,Colorado College,RMC,W.T. VandeGraaff,L,6,15
-1932-10-29,Wyoming,RMC,John Rhodes,H,Brigham Young,RMC,Ott Romney,L,0,25
+1932-10-29,Wyoming,RMC,John Rhodes,H,BYU,RMC,Ott Romney,L,0,25
 1932-11-05,Wyoming,RMC,John Rhodes,A,Denver,RMC,Percy Locey,L,0,7
 1932-11-11,Wyoming,RMC,John Rhodes,H,Northern Colorado,RMC,J.W. Hancock,T,0,0
 1932-11-19,Wyoming,RMC,John Rhodes,A,Creighton,MVC,,L,0,34
 1932-11-24,Wyoming,RMC,John Rhodes,A,Colorado State,RMC,Harry Hughes,L,0,23
-1932-09-23,Brigham Young,RMC,Ott Romney,N,Montana State,RMC,Schubert Dyche,W,6,0
-1932-10-01,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,28,6
-1932-10-15,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,29
-1932-10-22,Brigham Young,RMC,Ott Romney,H,Northern Colorado,RMC,J.W. Hancock,W,20,2
-1932-10-29,Brigham Young,RMC,Ott Romney,A,Wyoming,RMC,John Rhodes,W,25,0
-1932-11-19,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,W,18,6
+1932-09-23,BYU,RMC,Ott Romney,N,Montana State,RMC,Schubert Dyche,W,6,0
+1932-10-01,BYU,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,28,6
+1932-10-15,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,29
+1932-10-22,BYU,RMC,Ott Romney,H,Northern Colorado,RMC,J.W. Hancock,W,20,2
+1932-10-29,BYU,RMC,Ott Romney,A,Wyoming,RMC,John Rhodes,W,25,0
+1932-11-19,BYU,RMC,Ott Romney,H,Utah State,RMC,,W,18,6
 1932-10-08,Yale,Ind,Mal Stevens,H,Chicago,Western,Amos Alonzo Stagg,T,7,7
 1932-10-15,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,L,2,7
 1932-10-22,Yale,Ind,Mal Stevens,H,Army,Ind,Arthur Parmalee,L,0,20

@@ -86,7 +86,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-10-31,Utah,WAC,Ron McBride,A,Air Force,WAC,Fisher DeBerry,W,20,13
 1992-11-07,Utah,WAC,Ron McBride,A,Fresno State,WAC,Jim Sweeney,L,15,41
 1992-11-14,Utah,WAC,Ron McBride,H,Wyoming,WAC,Joe Tiller,W,38,7
-1992-11-21,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,L,22,31
+1992-11-21,Utah,WAC,Ron McBride,H,BYU,WAC,LaVell Edwards,L,22,31
 1992-12-29,Utah,WAC,Ron McBride,N,Washington State,Pac-10,Mike Price,L,28,31
 1992-09-12,Cal State Fullerton,Big West,Gene Murphy,A,UCLA,Pac-10,Terry Donahue,L,14,37
 1992-09-19,Cal State Fullerton,Big West,Gene Murphy,A,Georgia,SEC,Ray Goff,L,0,56
@@ -129,7 +129,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-10-10,Penn State,Ind,Joe Paterno,H,Miami (FL),Big East,Dennis Erickson,L,14,17
 1992-10-17,Penn State,Ind,Joe Paterno,H,Boston College,Big East,Tom Coughlin,L,32,35
 1992-10-24,Penn State,Ind,Joe Paterno,A,West Virginia,Big East,Don Nehlen,W,40,26
-1992-10-31,Penn State,Ind,Joe Paterno,A,Brigham Young,WAC,LaVell Edwards,L,17,30
+1992-10-31,Penn State,Ind,Joe Paterno,A,BYU,WAC,LaVell Edwards,L,17,30
 1992-11-14,Penn State,Ind,Joe Paterno,A,Notre Dame,Ind,Lou Holtz,L,16,17
 1992-11-21,Penn State,Ind,Joe Paterno,H,Pitt,Big East,Sal Sunseri,W,57,13
 1993-01-01,Penn State,Ind,Joe Paterno,N,Stanford,Pac-10,Bill Walsh,L,3,24
@@ -370,7 +370,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-09-12,Utah State,Big West,Charlie Weatherbie,H,Utah,WAC,Ron McBride,L,18,42
 1992-09-19,Utah State,Big West,Charlie Weatherbie,A,Baylor,SWC,Grant Teaff,L,10,45
 1992-09-26,Utah State,Big West,Charlie Weatherbie,H,New Mexico State,Big West,Jim Hess,W,48,21
-1992-10-02,Utah State,Big West,Charlie Weatherbie,A,Brigham Young,WAC,LaVell Edwards,L,9,30
+1992-10-02,Utah State,Big West,Charlie Weatherbie,A,BYU,WAC,LaVell Edwards,L,9,30
 1992-10-17,Utah State,Big West,Charlie Weatherbie,H,Kansas State,Big 8,Bill Snyder,W,28,16
 1992-10-24,Utah State,Big West,Charlie Weatherbie,H,San Jose State,Big West,Ron Turner,L,25,27
 1992-10-31,Utah State,Big West,Charlie Weatherbie,A,Cal State Fullerton,Big West,Gene Murphy,W,26,7
@@ -455,7 +455,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-11-21,North Carolina State,ACC,Dick Sheridan,H,Wake Forest,ACC,Bill Dooley,W,42,14
 1992-12-31,North Carolina State,ACC,Dick Sheridan,N,Florida,SEC,Steve Spurrier,L,10,27
 1992-09-05,San Diego State,WAC,Al Luginbill,H,USC,Pac-10,Larry Smith,T,31,31
-1992-09-10,San Diego State,WAC,Al Luginbill,A,Brigham Young,WAC,LaVell Edwards,W,45,38
+1992-09-10,San Diego State,WAC,Al Luginbill,A,BYU,WAC,LaVell Edwards,W,45,38
 1992-09-26,San Diego State,WAC,Al Luginbill,A,UCLA,Pac-10,Terry Donahue,L,7,35
 1992-10-03,San Diego State,WAC,Al Luginbill,A,New Mexico,WAC,Dennis Franchione,W,49,21
 1992-10-17,San Diego State,WAC,Al Luginbill,H,UTEP,WAC,David Lee,W,49,27
@@ -467,7 +467,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-11-28,San Diego State,WAC,Al Luginbill,H,Miami (FL),Big East,Dennis Erickson,L,17,63
 1992-09-05,Hawaii,WAC,Bob Wagner,A,Oregon,Pac-10,Rich Brooks,W,24,21
 1992-09-12,Hawaii,WAC,Bob Wagner,A,Air Force,WAC,Fisher DeBerry,W,6,3
-1992-09-26,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,W,36,32
+1992-09-26,Hawaii,WAC,Bob Wagner,H,BYU,WAC,LaVell Edwards,W,36,32
 1992-10-10,Hawaii,WAC,Bob Wagner,A,Utah,WAC,Ron McBride,L,17,38
 1992-10-17,Hawaii,WAC,Bob Wagner,H,Fresno State,WAC,Jim Sweeney,W,47,45
 1992-10-24,Hawaii,WAC,Bob Wagner,H,Nevada-Las Vegas,Big West,Jim Strong,W,55,25
@@ -540,7 +540,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-10-10,New Mexico,WAC,Dennis Franchione,A,Wyoming,WAC,Joe Tiller,L,21,35
 1992-10-17,New Mexico,WAC,Dennis Franchione,H,Utah,WAC,Ron McBride,W,24,7
 1992-10-24,New Mexico,WAC,Dennis Franchione,A,Fresno State,WAC,Jim Sweeney,L,28,31
-1992-11-07,New Mexico,WAC,Dennis Franchione,A,Brigham Young,WAC,LaVell Edwards,L,0,35
+1992-11-07,New Mexico,WAC,Dennis Franchione,A,BYU,WAC,LaVell Edwards,L,0,35
 1992-11-14,New Mexico,WAC,Dennis Franchione,H,UTEP,WAC,David Lee,W,35,14
 1992-11-21,New Mexico,WAC,Dennis Franchione,H,Colorado State,WAC,Earle Bruce,L,10,14
 1992-09-05,Pacific,Big West,Chuck Shelton,H,Fresno State,WAC,Jim Sweeney,L,21,42
@@ -558,7 +558,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-09-26,Notre Dame,Ind,Lou Holtz,H,Purdue,Big Ten,Jim Colletto,W,48,0
 1992-10-03,Notre Dame,Ind,Lou Holtz,H,Stanford,Pac-10,Bill Walsh,L,16,33
 1992-10-10,Notre Dame,Ind,Lou Holtz,A,Pitt,Big East,Sal Sunseri,W,52,21
-1992-10-24,Notre Dame,Ind,Lou Holtz,H,Brigham Young,WAC,LaVell Edwards,W,42,16
+1992-10-24,Notre Dame,Ind,Lou Holtz,H,BYU,WAC,LaVell Edwards,W,42,16
 1992-10-31,Notre Dame,Ind,Lou Holtz,N,Navy,Ind,George Chaump,W,38,7
 1992-11-07,Notre Dame,Ind,Lou Holtz,H,Boston College,Big East,Tom Coughlin,W,54,7
 1992-11-14,Notre Dame,Ind,Lou Holtz,H,Penn State,Ind,Joe Paterno,W,17,16
@@ -623,25 +623,25 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-09-26,Wyoming,WAC,Joe Tiller,A,Louisville,Ind,Howard Schnellenberger,W,26,24
 1992-10-03,Wyoming,WAC,Joe Tiller,H,San Jose State,Big West,Ron Turner,L,24,26
 1992-10-10,Wyoming,WAC,Joe Tiller,H,New Mexico,WAC,Dennis Franchione,W,35,21
-1992-10-17,Wyoming,WAC,Joe Tiller,H,Brigham Young,WAC,LaVell Edwards,L,28,31
+1992-10-17,Wyoming,WAC,Joe Tiller,H,BYU,WAC,LaVell Edwards,L,28,31
 1992-10-24,Wyoming,WAC,Joe Tiller,A,Colorado State,WAC,Earle Bruce,W,31,14
 1992-10-31,Wyoming,WAC,Joe Tiller,A,Fresno State,WAC,Jim Sweeney,L,31,42
 1992-11-07,Wyoming,WAC,Joe Tiller,H,San Diego State,WAC,Al Luginbill,W,17,6
 1992-11-14,Wyoming,WAC,Joe Tiller,A,Utah,WAC,Ron McBride,L,7,38
 1992-11-21,Wyoming,WAC,Joe Tiller,A,Hawaii,WAC,Bob Wagner,L,18,42
-1992-09-05,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,David Lee,W,38,28
-1992-09-10,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Al Luginbill,L,38,45
-1992-09-19,Brigham Young,WAC,LaVell Edwards,H,UCLA,Pac-10,Terry Donahue,L,10,17
-1992-09-26,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,32,36
-1992-10-02,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Charlie Weatherbie,W,30,9
-1992-10-10,Brigham Young,WAC,LaVell Edwards,H,Fresno State,WAC,Jim Sweeney,W,36,24
-1992-10-17,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Joe Tiller,W,31,28
-1992-10-24,Brigham Young,WAC,LaVell Edwards,A,Notre Dame,Ind,Lou Holtz,L,16,42
-1992-10-31,Brigham Young,WAC,LaVell Edwards,H,Penn State,Ind,Joe Paterno,W,30,17
-1992-11-07,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,35,0
-1992-11-14,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,28,7
-1992-11-21,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,31,22
-1992-12-25,Brigham Young,WAC,LaVell Edwards,N,Kansas,Big 8,Glen Mason,L,20,23
+1992-09-05,BYU,WAC,LaVell Edwards,A,UTEP,WAC,David Lee,W,38,28
+1992-09-10,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Al Luginbill,L,38,45
+1992-09-19,BYU,WAC,LaVell Edwards,H,UCLA,Pac-10,Terry Donahue,L,10,17
+1992-09-26,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,32,36
+1992-10-02,BYU,WAC,LaVell Edwards,H,Utah State,Big West,Charlie Weatherbie,W,30,9
+1992-10-10,BYU,WAC,LaVell Edwards,H,Fresno State,WAC,Jim Sweeney,W,36,24
+1992-10-17,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Joe Tiller,W,31,28
+1992-10-24,BYU,WAC,LaVell Edwards,A,Notre Dame,Ind,Lou Holtz,L,16,42
+1992-10-31,BYU,WAC,LaVell Edwards,H,Penn State,Ind,Joe Paterno,W,30,17
+1992-11-07,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,35,0
+1992-11-14,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,28,7
+1992-11-21,BYU,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,31,22
+1992-12-25,BYU,WAC,LaVell Edwards,N,Kansas,Big 8,Glen Mason,L,20,23
 1992-09-19,Georgia Tech,ACC,Bill Lewis,A,Virginia,ACC,George Welsh,L,24,55
 1992-09-26,Georgia Tech,ACC,Bill Lewis,H,Clemson,ACC,Ken Hatfield,W,20,16
 1992-10-03,Georgia Tech,ACC,Bill Lewis,H,North Carolina State,ACC,Dick Sheridan,W,16,13
@@ -722,7 +722,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-11-21,Army,Ind,Bob Sutton,H,Boston College,Big East,Tom Coughlin,L,24,41
 1992-12-05,Army,Ind,Bob Sutton,N,Navy,Ind,George Chaump,W,25,24
 1992-09-12,UCLA,Pac-10,Terry Donahue,H,Cal State Fullerton,Big West,Gene Murphy,W,37,14
-1992-09-19,UCLA,Pac-10,Terry Donahue,A,Brigham Young,WAC,LaVell Edwards,W,17,10
+1992-09-19,UCLA,Pac-10,Terry Donahue,A,BYU,WAC,LaVell Edwards,W,17,10
 1992-09-26,UCLA,Pac-10,Terry Donahue,H,San Diego State,WAC,Al Luginbill,W,35,7
 1992-10-03,UCLA,Pac-10,Terry Donahue,A,Arizona,Pac-10,Dick Tomey,L,3,23
 1992-10-10,UCLA,Pac-10,Terry Donahue,H,Stanford,Pac-10,Bill Walsh,L,7,19
@@ -764,7 +764,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-11-07,Kansas,Big 8,Glen Mason,A,Nebraska,Big 8,Tom Osborne,L,7,49
 1992-11-14,Kansas,Big 8,Glen Mason,H,Colorado,Big 8,Bill McCartney,L,18,25
 1992-11-21,Kansas,Big 8,Glen Mason,A,Missouri,Big 8,Bob Stull,L,17,22
-1992-12-25,Kansas,Big 8,Glen Mason,N,Brigham Young,WAC,LaVell Edwards,W,23,20
+1992-12-25,Kansas,Big 8,Glen Mason,N,BYU,WAC,LaVell Edwards,W,23,20
 1992-09-03,Western Michigan,MAC,Al Molde,A,Bowling Green State,MAC,Gary Blackney,L,19,29
 1992-09-12,Western Michigan,MAC,Al Molde,A,Texas Christian,SWC,Pat Sullivan,T,17,17
 1992-09-19,Western Michigan,MAC,Al Molde,H,Akron,MAC,Gerry Faust,W,24,20
@@ -776,7 +776,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-10-31,Western Michigan,MAC,Al Molde,H,Northern Illinois,Ind,Charlie Sadler,W,13,7
 1992-11-07,Western Michigan,MAC,Al Molde,A,Miami (OH),MAC,Randy Walker,L,7,20
 1992-11-14,Western Michigan,MAC,Al Molde,H,Central Michigan,MAC,Herb Deromedi,W,19,14
-1992-09-05,UTEP,WAC,David Lee,H,Brigham Young,WAC,LaVell Edwards,L,28,38
+1992-09-05,UTEP,WAC,David Lee,H,BYU,WAC,LaVell Edwards,L,28,38
 1992-09-12,UTEP,WAC,David Lee,A,Nevada-Las Vegas,Big West,Jim Strong,L,17,19
 1992-09-19,UTEP,WAC,David Lee,H,New Mexico State,Big West,Jim Hess,L,24,30
 1992-10-03,UTEP,WAC,David Lee,H,Air Force,WAC,Fisher DeBerry,L,22,28
@@ -851,7 +851,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-10-24,Air Force,WAC,Fisher DeBerry,A,San Diego State,WAC,Al Luginbill,W,20,17
 1992-10-31,Air Force,WAC,Fisher DeBerry,H,Utah,WAC,Ron McBride,L,13,20
 1992-11-07,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Bob Sutton,W,7,3
-1992-11-14,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,7,28
+1992-11-14,Air Force,WAC,Fisher DeBerry,H,BYU,WAC,LaVell Edwards,L,7,28
 1992-12-31,Air Force,WAC,Fisher DeBerry,N,Ole Miss,SEC,Billy Brewer,L,0,13
 1992-09-05,Miami (FL),Big East,Dennis Erickson,A,Iowa,Big Ten,Hayden Fry,W,24,7
 1992-09-26,Miami (FL),Big East,Dennis Erickson,H,Arizona,Pac-10,Dick Tomey,W,8,7
@@ -1104,7 +1104,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1992-09-19,Fresno State,WAC,Jim Sweeney,H,Colorado State,WAC,Earle Bruce,W,52,21
 1992-09-26,Fresno State,WAC,Jim Sweeney,H,Washington State,Pac-10,Mike Price,L,37,39
 1992-10-03,Fresno State,WAC,Jim Sweeney,H,Louisiana Tech,Ind,Joe Peace,W,48,14
-1992-10-10,Fresno State,WAC,Jim Sweeney,A,Brigham Young,WAC,LaVell Edwards,L,24,36
+1992-10-10,Fresno State,WAC,Jim Sweeney,A,BYU,WAC,LaVell Edwards,L,24,36
 1992-10-17,Fresno State,WAC,Jim Sweeney,A,Hawaii,WAC,Bob Wagner,L,45,47
 1992-10-24,Fresno State,WAC,Jim Sweeney,H,New Mexico,WAC,Dennis Franchione,W,31,28
 1992-10-31,Fresno State,WAC,Jim Sweeney,H,Wyoming,WAC,Joe Tiller,W,42,31

@@ -68,7 +68,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-11-22,Cincinnati,Ind,Tony Mason,A,Miami (OH),MAC,Dick Crum,L,13,21
 1975-09-13,Arizona State,WAC,Frank Kush,H,Washington,Pac-8,Don James,W,35,12
 1975-09-20,Arizona State,WAC,Frank Kush,A,Texas Christian,SWC,Jim Shofner,W,33,10
-1975-09-27,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,20,0
+1975-09-27,Arizona State,WAC,Frank Kush,H,BYU,WAC,LaVell Edwards,W,20,0
 1975-10-11,Arizona State,WAC,Frank Kush,A,New Mexico,WAC,Bill Mondt,W,16,10
 1975-10-18,Arizona State,WAC,Frank Kush,A,Colorado State,WAC,Sarkis Arslanian,W,33,3
 1975-10-25,Arizona State,WAC,Frank Kush,H,UTEP,WAC,Gil Bartosh,W,24,6
@@ -93,7 +93,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-10-25,Utah,WAC,Tom Lovat,A,Oregon,Pac-8,Don Read,L,7,18
 1975-11-01,Utah,WAC,Tom Lovat,H,Arizona State,WAC,Frank Kush,L,14,40
 1975-11-08,Utah,WAC,Tom Lovat,A,Tennessee,SEC,Bill Battle,L,7,40
-1975-11-15,Utah,WAC,Tom Lovat,A,Brigham Young,WAC,LaVell Edwards,L,20,51
+1975-11-15,Utah,WAC,Tom Lovat,A,BYU,WAC,LaVell Edwards,L,20,51
 1975-11-22,Utah,WAC,Tom Lovat,A,Arizona,WAC,Jim Young,L,14,38
 1975-09-06,Cal State Fullerton,PCAA,Jim Colletto,H,Fresno State,PCAA,J.R. Boone,L,7,49
 1975-09-20,Cal State Fullerton,PCAA,Jim Colletto,A,Long Beach State,PCAA,Wayne Howard,L,6,32
@@ -145,7 +145,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-10-11,Arizona,WAC,Jim Young,A,UTEP,WAC,Gil Bartosh,W,36,0
 1975-10-18,Arizona,WAC,Jim Young,H,Texas Tech,SWC,Steve Sloan,W,32,28
 1975-10-25,Arizona,WAC,Jim Young,H,New Mexico,WAC,Bill Mondt,L,34,44
-1975-11-01,Arizona,WAC,Jim Young,A,Brigham Young,WAC,LaVell Edwards,W,36,20
+1975-11-01,Arizona,WAC,Jim Young,A,BYU,WAC,LaVell Edwards,W,36,20
 1975-11-08,Arizona,WAC,Jim Young,A,San Diego State,PCAA,Claude Gilbert,W,31,24
 1975-11-15,Arizona,WAC,Jim Young,A,Colorado State,WAC,Sarkis Arslanian,W,31,9
 1975-11-22,Arizona,WAC,Jim Young,H,Utah,WAC,Tom Lovat,W,38,14
@@ -441,7 +441,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-11-08,Southern Mississippi,Ind,Bobby Collins,N,Lamar,Southland,Vernon Glass,W,43,3
 1975-11-15,Southern Mississippi,Ind,Bobby Collins,A,Alabama,SEC,Bear Bryant,L,6,27
 1975-11-22,Southern Mississippi,Ind,Bobby Collins,H,Cal State Fullerton,PCAA,Jim Colletto,W,70,0
-1975-11-29,Southern Mississippi,Ind,Bobby Collins,H,Brigham Young,WAC,LaVell Edwards,W,42,14
+1975-11-29,Southern Mississippi,Ind,Bobby Collins,H,BYU,WAC,LaVell Edwards,W,42,14
 1975-09-06,Long Beach State,PCAA,Wayne Howard,A,Louisiana,Southland,Augie Tammariello,L,17,22
 1975-09-13,Long Beach State,PCAA,Wayne Howard,A,Northern Illinois,MAC,Jerry Ippoliti,W,24,7
 1975-09-20,Long Beach State,PCAA,Wayne Howard,H,Cal State Fullerton,PCAA,Jim Colletto,W,32,6
@@ -459,7 +459,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-10-11,Utah State,Ind,Phil Krueger,H,West Texas A&M,MVC,Gene Mayfield,W,21,17
 1975-10-25,Utah State,Ind,Phil Krueger,A,Arkansas,SWC,Frank Broyles,L,0,31
 1975-11-01,Utah State,Ind,Phil Krueger,H,Wyoming,WAC,Fred Akers,W,27,21
-1975-11-08,Utah State,Ind,Phil Krueger,H,Brigham Young,WAC,LaVell Edwards,L,7,24
+1975-11-08,Utah State,Ind,Phil Krueger,H,BYU,WAC,LaVell Edwards,L,7,24
 1975-11-22,Utah State,Ind,Phil Krueger,A,Colorado State,WAC,Sarkis Arslanian,W,28,17
 1975-09-08,Missouri,Big 8,Al Onofrio,A,Alabama,SEC,Bear Bryant,W,20,7
 1975-09-20,Missouri,Big 8,Al Onofrio,A,Illinois,Big Ten,Bob Blackman,W,30,20
@@ -482,7 +482,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-11-08,San Jose State,PCAA,Darryl Rogers,H,New Mexico,WAC,Bill Mondt,W,29,20
 1975-11-15,San Jose State,PCAA,Darryl Rogers,H,San Diego State,PCAA,Claude Gilbert,W,31,7
 1975-11-29,San Jose State,PCAA,Darryl Rogers,A,Hawaii,Ind,Larry Price,L,20,30
-1975-09-13,Bowling Green State,MAC,Don Nehlen,A,Brigham Young,WAC,LaVell Edwards,W,23,21
+1975-09-13,Bowling Green State,MAC,Don Nehlen,A,BYU,WAC,LaVell Edwards,W,23,21
 1975-09-20,Bowling Green State,MAC,Don Nehlen,H,Southern Mississippi,Ind,Bobby Collins,W,16,14
 1975-09-27,Bowling Green State,MAC,Don Nehlen,A,Dayton,Ind,Ron Marciniak,W,21,14
 1975-10-04,Bowling Green State,MAC,Don Nehlen,H,Western Michigan,MAC,Elliot Uzelac,W,28,0
@@ -591,7 +591,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-09-13,New Mexico,WAC,Bill Mondt,H,Fresno State,PCAA,J.R. Boone,W,29,0
 1975-09-20,New Mexico,WAC,Bill Mondt,A,Texas Tech,SWC,Steve Sloan,L,17,24
 1975-09-27,New Mexico,WAC,Bill Mondt,H,Colorado State,WAC,Sarkis Arslanian,L,16,27
-1975-10-03,New Mexico,WAC,Bill Mondt,A,Brigham Young,WAC,LaVell Edwards,L,15,16
+1975-10-03,New Mexico,WAC,Bill Mondt,A,BYU,WAC,LaVell Edwards,L,15,16
 1975-10-11,New Mexico,WAC,Bill Mondt,H,Arizona State,WAC,Frank Kush,L,10,16
 1975-10-18,New Mexico,WAC,Bill Mondt,H,Utah,WAC,Tom Lovat,W,27,23
 1975-10-25,New Mexico,WAC,Bill Mondt,A,Arizona,WAC,Jim Young,W,44,34
@@ -695,22 +695,22 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-10-04,Wyoming,WAC,Fred Akers,H,Colorado State,WAC,Sarkis Arslanian,L,0,3
 1975-10-11,Wyoming,WAC,Fred Akers,A,Utah,WAC,Tom Lovat,L,13,16
 1975-10-18,Wyoming,WAC,Fred Akers,H,UTEP,WAC,Gil Bartosh,W,31,14
-1975-10-25,Wyoming,WAC,Fred Akers,H,Brigham Young,WAC,LaVell Edwards,L,20,33
+1975-10-25,Wyoming,WAC,Fred Akers,H,BYU,WAC,LaVell Edwards,L,20,33
 1975-11-01,Wyoming,WAC,Fred Akers,A,Utah State,Ind,Phil Krueger,L,21,27
 1975-11-08,Wyoming,WAC,Fred Akers,A,Arizona State,WAC,Frank Kush,L,20,21
 1975-11-15,Wyoming,WAC,Fred Akers,A,New Mexico,WAC,Bill Mondt,L,32,38
 1975-11-22,Wyoming,WAC,Fred Akers,A,Air Force,Ind,Ben Martin,W,24,10
-1975-09-13,Brigham Young,WAC,LaVell Edwards,H,Bowling Green State,MAC,Don Nehlen,L,21,23
-1975-09-20,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,L,17,21
-1975-09-27,Brigham Young,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,0,20
-1975-10-03,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,16,15
-1975-10-11,Brigham Young,WAC,LaVell Edwards,H,Air Force,Ind,Ben Martin,W,28,14
-1975-10-25,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Fred Akers,W,33,20
-1975-11-01,Brigham Young,WAC,LaVell Edwards,H,Arizona,WAC,Jim Young,L,20,36
-1975-11-08,Brigham Young,WAC,LaVell Edwards,A,Utah State,Ind,Phil Krueger,W,24,7
-1975-11-15,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Tom Lovat,W,51,20
-1975-11-22,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Gil Bartosh,W,20,10
-1975-11-29,Brigham Young,WAC,LaVell Edwards,A,Southern Mississippi,Ind,Bobby Collins,L,14,42
+1975-09-13,BYU,WAC,LaVell Edwards,H,Bowling Green State,MAC,Don Nehlen,L,21,23
+1975-09-20,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,L,17,21
+1975-09-27,BYU,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,0,20
+1975-10-03,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,16,15
+1975-10-11,BYU,WAC,LaVell Edwards,H,Air Force,Ind,Ben Martin,W,28,14
+1975-10-25,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Fred Akers,W,33,20
+1975-11-01,BYU,WAC,LaVell Edwards,H,Arizona,WAC,Jim Young,L,20,36
+1975-11-08,BYU,WAC,LaVell Edwards,A,Utah State,Ind,Phil Krueger,W,24,7
+1975-11-15,BYU,WAC,LaVell Edwards,H,Utah,WAC,Tom Lovat,W,51,20
+1975-11-22,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Gil Bartosh,W,20,10
+1975-11-29,BYU,WAC,LaVell Edwards,A,Southern Mississippi,Ind,Bobby Collins,L,14,42
 1975-10-04,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,24,10
 1975-10-11,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,L,12,27
 1975-10-18,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,William Campbell,W,34,7
@@ -910,7 +910,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-11-01,UTEP,WAC,Gil Bartosh,A,New Mexico,WAC,Bill Mondt,L,3,23
 1975-11-08,UTEP,WAC,Gil Bartosh,H,Colorado State,WAC,Sarkis Arslanian,L,17,21
 1975-11-15,UTEP,WAC,Gil Bartosh,A,Hawaii,Ind,Larry Price,L,9,21
-1975-11-22,UTEP,WAC,Gil Bartosh,H,Brigham Young,WAC,LaVell Edwards,L,10,20
+1975-11-22,UTEP,WAC,Gil Bartosh,H,BYU,WAC,LaVell Edwards,L,10,20
 1975-09-13,Indiana State,Ind,Tom Harp,A,Eastern Michigan,Ind,George Mans,L,7,30
 1975-09-20,Indiana State,Ind,Tom Harp,A,Southern Illinois,Ind,Doug Weaver,W,23,21
 1975-10-04,Indiana State,Ind,Tom Harp,A,Ball State,MAC,Dave McClain,L,16,20
@@ -994,7 +994,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-09-20,Air Force,Ind,Ben Martin,A,Iowa State,Big 8,Earle Bruce,L,12,17
 1975-09-27,Air Force,Ind,Ben Martin,H,UCLA,Pac-8,Dick Vermeil,T,20,20
 1975-10-04,Air Force,Ind,Ben Martin,A,Navy,Ind,George Welsh,L,0,17
-1975-10-11,Air Force,Ind,Ben Martin,A,Brigham Young,WAC,LaVell Edwards,L,14,28
+1975-10-11,Air Force,Ind,Ben Martin,A,BYU,WAC,LaVell Edwards,L,14,28
 1975-10-18,Air Force,Ind,Ben Martin,H,Notre Dame,Ind,Dan Devine,L,30,31
 1975-10-25,Air Force,Ind,Ben Martin,A,Colorado State,WAC,Sarkis Arslanian,L,10,47
 1975-11-01,Air Force,Ind,Ben Martin,H,Army,Ind,Homer Smith,W,33,3
@@ -1168,7 +1168,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1975-11-22,Colorado,Big 8,Bill Mallory,H,Kansas State,Big 8,Ellis Rainsberger,W,33,7
 1975-12-27,Colorado,Big 8,Bill Mallory,N,Texas,SWC,Darrell Royal,L,21,38
 1975-09-13,Colorado State,WAC,Sarkis Arslanian,A,Texas,SWC,Darrell Royal,L,0,46
-1975-09-20,Colorado State,WAC,Sarkis Arslanian,H,Brigham Young,WAC,LaVell Edwards,W,21,17
+1975-09-20,Colorado State,WAC,Sarkis Arslanian,H,BYU,WAC,LaVell Edwards,W,21,17
 1975-09-27,Colorado State,WAC,Sarkis Arslanian,A,New Mexico,WAC,Bill Mondt,W,27,16
 1975-10-04,Colorado State,WAC,Sarkis Arslanian,A,Wyoming,WAC,Fred Akers,W,3,0
 1975-10-11,Colorado State,WAC,Sarkis Arslanian,A,Oregon State,Pac-8,Dee Andros,W,17,8

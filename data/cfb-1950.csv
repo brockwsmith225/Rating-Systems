@@ -35,7 +35,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1950-11-18,Fordham,Ind,Edward Danowski,A,Temple,Ind,Al Kawal,W,26,21
 1950-11-25,Fordham,Ind,Edward Danowski,N,New York University,Ind,Hugh Devore,W,13,0
 1950-12-02,Fordham,Ind,Edward Danowski,H,Syracuse,Ind,Ben Schwartzwalder,W,13,6
-1950-09-23,Arizona State,BIAA,Edward Doherty,A,Brigham Young,Skyline,Charles Atkinson,W,41,13
+1950-09-23,Arizona State,BIAA,Edward Doherty,A,BYU,Skyline,Charles Atkinson,W,41,13
 1950-09-30,Arizona State,BIAA,Edward Doherty,H,New Mexico,BIAA,Dudley DeGroot,W,41,6
 1950-10-07,Arizona State,BIAA,Edward Doherty,H,Northern Arizona,BIAA,,W,63,0
 1950-10-14,Arizona State,BIAA,Edward Doherty,A,Hardin-Simmons,BIAA,Warren Woodson,L,14,41
@@ -55,7 +55,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1950-11-25,Furman,Southern,William Young,A,Georgia,SEC,Wallace Butts,L,0,40
 1950-09-23,Utah,Skyline,Jack Curtice,A,Idaho,PCC,Dixie Howell,L,19,26
 1950-09-30,Utah,Skyline,Jack Curtice,H,Arizona,BIAA,Robert Winslow,W,27,14
-1950-10-07,Utah,Skyline,Jack Curtice,A,Brigham Young,Skyline,Charles Atkinson,T,28,28
+1950-10-07,Utah,Skyline,Jack Curtice,A,BYU,Skyline,Charles Atkinson,T,28,28
 1950-10-14,Utah,Skyline,Jack Curtice,A,Denver,Skyline,John Baker,T,14,14
 1950-10-21,Utah,Skyline,Jack Curtice,H,Wyoming,Skyline,Bowden Wyatt,L,13,53
 1950-10-28,Utah,Skyline,Jack Curtice,H,Colorado,Big 7,Dallas Ward,T,20,20
@@ -367,7 +367,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1950-10-14,Utah State,Skyline,George Melinkovich,H,Wyoming,Skyline,Bowden Wyatt,L,7,40
 1950-10-21,Utah State,Skyline,George Melinkovich,A,Arizona State,BIAA,Edward Doherty,L,0,28
 1950-10-28,Utah State,Skyline,George Melinkovich,H,Colorado State,Skyline,Robert Davis,L,13,33
-1950-11-04,Utah State,Skyline,George Melinkovich,H,Brigham Young,Skyline,Charles Atkinson,L,13,34
+1950-11-04,Utah State,Skyline,George Melinkovich,H,BYU,Skyline,Charles Atkinson,L,13,34
 1950-11-11,Utah State,Skyline,George Melinkovich,A,Denver,Skyline,John Baker,L,0,48
 1950-11-18,Utah State,Skyline,George Melinkovich,A,Montana,Ind,Ted Shipkey,L,7,38
 1950-11-23,Utah State,Skyline,George Melinkovich,A,Utah,Skyline,Jack Curtice,L,0,46
@@ -401,7 +401,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1950-09-29,Denver,Skyline,John Baker,H,Kansas,Big 7,Jules Sikes,L,6,46
 1950-10-06,Denver,Skyline,John Baker,H,Pacific,Ind,Larry Siemering,L,6,41
 1950-10-14,Denver,Skyline,John Baker,H,Utah,Skyline,Jack Curtice,T,14,14
-1950-10-21,Denver,Skyline,John Baker,H,Brigham Young,Skyline,Charles Atkinson,W,42,3
+1950-10-21,Denver,Skyline,John Baker,H,BYU,Skyline,Charles Atkinson,W,42,3
 1950-10-28,Denver,Skyline,John Baker,A,Arizona,BIAA,Robert Winslow,L,14,19
 1950-11-04,Denver,Skyline,John Baker,A,San Francisco,Ind,Joe Kuharich,L,6,24
 1950-11-11,Denver,Skyline,John Baker,H,Utah State,Skyline,George Melinkovich,W,48,0
@@ -545,15 +545,15 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1950-10-21,Wyoming,Skyline,Bowden Wyatt,A,Utah,Skyline,Jack Curtice,W,53,13
 1950-10-28,Wyoming,Skyline,Bowden Wyatt,H,New Mexico,BIAA,Dudley DeGroot,W,44,0
 1950-11-04,Wyoming,Skyline,Bowden Wyatt,A,Idaho,PCC,Dixie Howell,W,14,7
-1950-11-11,Wyoming,Skyline,Bowden Wyatt,A,Brigham Young,Skyline,Charles Atkinson,W,48,0
+1950-11-11,Wyoming,Skyline,Bowden Wyatt,A,BYU,Skyline,Charles Atkinson,W,48,0
 1950-11-23,Wyoming,Skyline,Bowden Wyatt,A,Denver,Skyline,John Baker,W,42,12
 1951-01-01,Wyoming,Skyline,Bowden Wyatt,N,Washington & Lee,Southern,George Barclay,W,20,7
-1950-09-23,Brigham Young,Skyline,Charles Atkinson,H,Arizona State,BIAA,Edward Doherty,L,13,41
-1950-10-07,Brigham Young,Skyline,Charles Atkinson,H,Utah,Skyline,Jack Curtice,T,28,28
-1950-10-14,Brigham Young,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,14,27
-1950-10-21,Brigham Young,Skyline,Charles Atkinson,A,Denver,Skyline,John Baker,L,3,42
-1950-11-04,Brigham Young,Skyline,Charles Atkinson,A,Utah State,Skyline,George Melinkovich,W,34,13
-1950-11-11,Brigham Young,Skyline,Charles Atkinson,H,Wyoming,Skyline,Bowden Wyatt,L,0,48
+1950-09-23,BYU,Skyline,Charles Atkinson,H,Arizona State,BIAA,Edward Doherty,L,13,41
+1950-10-07,BYU,Skyline,Charles Atkinson,H,Utah,Skyline,Jack Curtice,T,28,28
+1950-10-14,BYU,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,14,27
+1950-10-21,BYU,Skyline,Charles Atkinson,A,Denver,Skyline,John Baker,L,3,42
+1950-11-04,BYU,Skyline,Charles Atkinson,A,Utah State,Skyline,George Melinkovich,W,34,13
+1950-11-11,BYU,Skyline,Charles Atkinson,H,Wyoming,Skyline,Bowden Wyatt,L,0,48
 1950-09-23,Duquesne,Ind,Louis Skender,A,Villanova,Ind,Jim Leonard,L,28,39
 1950-09-30,Duquesne,Ind,Louis Skender,A,Florida,SEC,Bob Woodruff,L,14,27
 1950-10-07,Duquesne,Ind,Louis Skender,H,Boston University,Ind,Aldo Donelli,L,7,21
@@ -890,7 +890,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1950-11-25,Colorado,Big 7,Dallas Ward,A,Colorado State,Skyline,Robert Davis,W,31,6
 1950-09-23,Colorado State,Skyline,Robert Davis,A,Denver,Skyline,John Baker,W,30,14
 1950-10-07,Colorado State,Skyline,Robert Davis,A,Wyoming,Skyline,Bowden Wyatt,L,0,34
-1950-10-14,Colorado State,Skyline,Robert Davis,H,Brigham Young,Skyline,Charles Atkinson,W,27,14
+1950-10-14,Colorado State,Skyline,Robert Davis,H,BYU,Skyline,Charles Atkinson,W,27,14
 1950-10-28,Colorado State,Skyline,Robert Davis,A,Utah State,Skyline,George Melinkovich,W,33,13
 1950-11-11,Colorado State,Skyline,Robert Davis,H,Utah,Skyline,Jack Curtice,W,32,7
 1950-11-18,Colorado State,Skyline,Robert Davis,A,Arizona State,BIAA,Edward Doherty,L,13,21

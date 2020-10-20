@@ -69,7 +69,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-11-14,Cincinnati,CUSA,Rick Minter,H,Houston,CUSA,Kim Helton,W,44,43
 1998-11-21,Cincinnati,CUSA,Rick Minter,A,Arkansas State,Ind,Joe Hollis,W,51,7
 1998-09-05,Arizona State,Pac-10,Bruce Snyder,H,Washington,Pac-10,Jim Lambright,L,38,42
-1998-09-12,Arizona State,Pac-10,Bruce Snyder,A,Brigham Young,WAC,LaVell Edwards,L,6,26
+1998-09-12,Arizona State,Pac-10,Bruce Snyder,A,BYU,WAC,LaVell Edwards,L,6,26
 1998-09-19,Arizona State,Pac-10,Bruce Snyder,H,North Texas,Big West,Darrell Dickey,W,34,15
 1998-09-26,Arizona State,Pac-10,Bruce Snyder,H,Oregon State,Pac-10,Mike Riley,W,24,3
 1998-10-03,Arizona State,Pac-10,Bruce Snyder,A,USC,Pac-10,Paul Hackett,L,24,35
@@ -89,7 +89,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-10-31,Utah,WAC,Ron McBride,A,San Jose State,WAC,Dave Baldwin,W,49,17
 1998-11-07,Utah,WAC,Ron McBride,H,UTEP,WAC,Charlie Bailey,W,34,27
 1998-11-14,Utah,WAC,Ron McBride,A,New Mexico,WAC,Rocky Long,W,41,7
-1998-11-21,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,L,24,26
+1998-11-21,Utah,WAC,Ron McBride,H,BYU,WAC,LaVell Edwards,L,24,26
 1998-09-05,Syracuse,Big East,Paul Pasqualoni,H,Tennessee,SEC,Phillip Fulmer,L,33,34
 1998-09-12,Syracuse,Big East,Paul Pasqualoni,A,Michigan,Big Ten,Lloyd Carr,W,38,28
 1998-09-19,Syracuse,Big East,Paul Pasqualoni,H,Rutgers,Big East,Terry Shea,W,70,14
@@ -346,7 +346,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-11-14,South Carolina,SEC,Brad Scott,A,Florida,SEC,Steve Spurrier,L,14,33
 1998-11-21,South Carolina,SEC,Brad Scott,A,Clemson,ACC,Tommy West,L,19,28
 1998-09-05,Washington,Pac-10,Jim Lambright,A,Arizona State,Pac-10,Bruce Snyder,W,42,38
-1998-09-19,Washington,Pac-10,Jim Lambright,H,Brigham Young,WAC,LaVell Edwards,W,20,10
+1998-09-19,Washington,Pac-10,Jim Lambright,H,BYU,WAC,LaVell Edwards,W,20,10
 1998-09-26,Washington,Pac-10,Jim Lambright,A,Nebraska,Big 12,Frank Solich,L,7,55
 1998-10-03,Washington,Pac-10,Jim Lambright,H,Arizona,Pac-10,Dick Tomey,L,28,31
 1998-10-10,Washington,Pac-10,Jim Lambright,H,Utah State,Big West,Dave Arslanian,W,53,12
@@ -408,7 +408,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-10-03,San Jose State,WAC,Dave Baldwin,A,Virginia,ACC,George Welsh,L,14,52
 1998-10-10,San Jose State,WAC,Dave Baldwin,H,Rice,WAC,Ken Hatfield,W,20,17
 1998-10-17,San Jose State,WAC,Dave Baldwin,A,UTEP,WAC,Charlie Bailey,L,21,28
-1998-10-24,San Jose State,WAC,Dave Baldwin,A,Brigham Young,WAC,LaVell Edwards,L,43,46
+1998-10-24,San Jose State,WAC,Dave Baldwin,A,BYU,WAC,LaVell Edwards,L,43,46
 1998-10-31,San Jose State,WAC,Dave Baldwin,H,Utah,WAC,Ron McBride,L,17,49
 1998-11-07,San Jose State,WAC,Dave Baldwin,A,Hawaii,WAC,Fred Vonappen,W,45,17
 1998-11-14,San Jose State,WAC,Dave Baldwin,H,San Diego State,WAC,Ted Tollner,L,6,34
@@ -478,7 +478,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-10-09,San Diego State,WAC,Ted Tollner,H,Hawaii,WAC,Fred Vonappen,W,35,13
 1998-10-17,San Diego State,WAC,Ted Tollner,A,New Mexico,WAC,Rocky Long,W,36,33
 1998-10-24,San Diego State,WAC,Ted Tollner,H,Utah,WAC,Ron McBride,W,21,20
-1998-10-29,San Diego State,WAC,Ted Tollner,A,Brigham Young,WAC,LaVell Edwards,L,0,13
+1998-10-29,San Diego State,WAC,Ted Tollner,A,BYU,WAC,LaVell Edwards,L,0,13
 1998-11-07,San Diego State,WAC,Ted Tollner,H,Fresno State,WAC,Pat Hill,W,10,0
 1998-11-14,San Diego State,WAC,Ted Tollner,A,San Jose State,WAC,Dave Baldwin,W,34,6
 1998-11-21,San Diego State,WAC,Ted Tollner,H,UTEP,WAC,Charlie Bailey,W,34,29
@@ -488,7 +488,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-09-26,Hawaii,WAC,Fred Vonappen,H,Arkansas State,Ind,Joe Hollis,L,0,20
 1998-10-03,Hawaii,WAC,Fred Vonappen,H,SMU,WAC,Mike Cavan,L,0,28
 1998-10-09,Hawaii,WAC,Fred Vonappen,A,San Diego State,WAC,Ted Tollner,L,13,35
-1998-10-17,Hawaii,WAC,Fred Vonappen,H,Brigham Young,WAC,LaVell Edwards,L,9,31
+1998-10-17,Hawaii,WAC,Fred Vonappen,H,BYU,WAC,LaVell Edwards,L,9,31
 1998-10-24,Hawaii,WAC,Fred Vonappen,H,New Mexico,WAC,Rocky Long,L,20,30
 1998-10-31,Hawaii,WAC,Fred Vonappen,A,UTEP,WAC,Charlie Bailey,L,13,30
 1998-11-07,Hawaii,WAC,Fred Vonappen,H,San Jose State,WAC,Dave Baldwin,L,17,45
@@ -556,7 +556,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-10-17,New Mexico,WAC,Rocky Long,H,San Diego State,WAC,Ted Tollner,L,33,36
 1998-10-24,New Mexico,WAC,Rocky Long,A,Hawaii,WAC,Fred Vonappen,W,30,20
 1998-10-31,New Mexico,WAC,Rocky Long,H,Fresno State,WAC,Pat Hill,L,20,28
-1998-11-07,New Mexico,WAC,Rocky Long,A,Brigham Young,WAC,LaVell Edwards,L,21,46
+1998-11-07,New Mexico,WAC,Rocky Long,A,BYU,WAC,LaVell Edwards,L,21,46
 1998-11-14,New Mexico,WAC,Rocky Long,H,Utah,WAC,Ron McBride,L,7,41
 1998-11-21,New Mexico,WAC,Rocky Long,A,UCF,Ind,Mike Kruczek,L,6,38
 1998-09-05,Notre Dame,Ind,Bob Davie,H,Michigan,Big Ten,Lloyd Carr,W,36,20
@@ -661,19 +661,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-11-07,Wyoming,WAC,Dana Dimel,A,Colorado State,WAC,Sonny Lubick,W,27,19
 1998-11-14,Wyoming,WAC,Dana Dimel,H,Air Force,WAC,Fisher DeBerry,L,3,10
 1998-11-21,Wyoming,WAC,Dana Dimel,A,Tulsa,WAC,David Rader,L,0,35
-1998-09-05,Brigham Young,WAC,LaVell Edwards,A,Alabama,SEC,Mike DuBose,L,31,38
-1998-09-12,Brigham Young,WAC,LaVell Edwards,H,Arizona State,Pac-10,Bruce Snyder,W,26,6
-1998-09-19,Brigham Young,WAC,LaVell Edwards,A,Washington,Pac-10,Jim Lambright,L,10,20
-1998-10-03,Brigham Young,WAC,LaVell Edwards,A,Fresno State,WAC,Pat Hill,L,21,31
-1998-10-10,Brigham Young,WAC,LaVell Edwards,H,Nevada-Las Vegas,WAC,Jeff Horton,W,38,14
-1998-10-17,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Fred Vonappen,W,31,9
-1998-10-24,Brigham Young,WAC,LaVell Edwards,H,San Jose State,WAC,Dave Baldwin,W,46,43
-1998-10-29,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Ted Tollner,W,13,0
-1998-11-07,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Rocky Long,W,46,21
-1998-11-14,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Charlie Bailey,W,31,14
-1998-11-21,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,26,24
-1998-12-05,Brigham Young,WAC,LaVell Edwards,N,Air Force,WAC,Fisher DeBerry,L,13,20
-1998-12-31,Brigham Young,WAC,LaVell Edwards,N,Tulane,CUSA,Chris Scelfo,L,27,41
+1998-09-05,BYU,WAC,LaVell Edwards,A,Alabama,SEC,Mike DuBose,L,31,38
+1998-09-12,BYU,WAC,LaVell Edwards,H,Arizona State,Pac-10,Bruce Snyder,W,26,6
+1998-09-19,BYU,WAC,LaVell Edwards,A,Washington,Pac-10,Jim Lambright,L,10,20
+1998-10-03,BYU,WAC,LaVell Edwards,A,Fresno State,WAC,Pat Hill,L,21,31
+1998-10-10,BYU,WAC,LaVell Edwards,H,Nevada-Las Vegas,WAC,Jeff Horton,W,38,14
+1998-10-17,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Fred Vonappen,W,31,9
+1998-10-24,BYU,WAC,LaVell Edwards,H,San Jose State,WAC,Dave Baldwin,W,46,43
+1998-10-29,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Ted Tollner,W,13,0
+1998-11-07,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Rocky Long,W,46,21
+1998-11-14,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Charlie Bailey,W,31,14
+1998-11-21,BYU,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,26,24
+1998-12-05,BYU,WAC,LaVell Edwards,N,Air Force,WAC,Fisher DeBerry,L,13,20
+1998-12-31,BYU,WAC,LaVell Edwards,N,Tulane,CUSA,Chris Scelfo,L,27,41
 1998-09-05,Georgia Tech,ACC,George O'Leary,H,Boston College,Big East,Tom O'Brien,L,31,41
 1998-09-12,Georgia Tech,ACC,George O'Leary,H,New Mexico State,Big West,Tony Samuel,W,42,7
 1998-09-26,Georgia Tech,ACC,George O'Leary,A,North Carolina,ACC,Carl Torbush,W,43,21
@@ -724,7 +724,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-09-19,Nevada-Las Vegas,WAC,Jeff Horton,A,Wisconsin,Big Ten,Barry Alvarez,L,7,52
 1998-09-26,Nevada-Las Vegas,WAC,Jeff Horton,A,Colorado State,WAC,Sonny Lubick,L,16,38
 1998-10-03,Nevada-Las Vegas,WAC,Jeff Horton,H,Nevada,Big West,Jeff Tisdel,L,20,31
-1998-10-10,Nevada-Las Vegas,WAC,Jeff Horton,A,Brigham Young,WAC,LaVell Edwards,L,14,38
+1998-10-10,Nevada-Las Vegas,WAC,Jeff Horton,A,BYU,WAC,LaVell Edwards,L,14,38
 1998-10-17,Nevada-Las Vegas,WAC,Jeff Horton,H,Wyoming,WAC,Dana Dimel,L,25,28
 1998-10-24,Nevada-Las Vegas,WAC,Jeff Horton,A,SMU,WAC,Mike Cavan,L,7,10
 1998-10-31,Nevada-Las Vegas,WAC,Jeff Horton,H,Tulsa,WAC,David Rader,L,16,20
@@ -848,7 +848,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-10-24,UTEP,WAC,Charlie Bailey,A,Fresno State,WAC,Pat Hill,L,6,32
 1998-10-31,UTEP,WAC,Charlie Bailey,H,Hawaii,WAC,Fred Vonappen,W,30,13
 1998-11-07,UTEP,WAC,Charlie Bailey,A,Utah,WAC,Ron McBride,L,27,34
-1998-11-14,UTEP,WAC,Charlie Bailey,H,Brigham Young,WAC,LaVell Edwards,L,14,31
+1998-11-14,UTEP,WAC,Charlie Bailey,H,BYU,WAC,LaVell Edwards,L,14,31
 1998-11-21,UTEP,WAC,Charlie Bailey,A,San Diego State,WAC,Ted Tollner,L,29,34
 1998-09-12,LSU,SEC,Gerry DiNardo,H,Arkansas State,Ind,Joe Hollis,W,42,6
 1998-09-19,LSU,SEC,Gerry DiNardo,A,Auburn,SEC,Bill Oliver,W,31,19
@@ -917,7 +917,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-11-07,Air Force,WAC,Fisher DeBerry,A,Army,CUSA,Bob Sutton,W,35,7
 1998-11-14,Air Force,WAC,Fisher DeBerry,A,Wyoming,WAC,Dana Dimel,W,10,3
 1998-11-21,Air Force,WAC,Fisher DeBerry,H,Rice,WAC,Ken Hatfield,W,22,16
-1998-12-05,Air Force,WAC,Fisher DeBerry,N,Brigham Young,WAC,LaVell Edwards,W,20,13
+1998-12-05,Air Force,WAC,Fisher DeBerry,N,BYU,WAC,LaVell Edwards,W,20,13
 1998-12-25,Air Force,WAC,Fisher DeBerry,N,Washington,Pac-10,Jim Lambright,W,45,25
 1998-09-12,Miami (FL),Big East,Butch Davis,A,Cincinnati,CUSA,Rick Minter,W,38,12
 1998-09-19,Miami (FL),Big East,Butch Davis,H,Virginia Tech,Big East,Frank Beamer,L,20,27
@@ -966,7 +966,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-10-31,Oregon State,Pac-10,Mike Riley,H,California,Pac-10,Tom Holmoe,L,19,20
 1998-11-07,Oregon State,Pac-10,Mike Riley,H,UCLA,Pac-10,Bob Toledo,L,34,41
 1998-11-21,Oregon State,Pac-10,Mike Riley,H,Oregon,Pac-10,Mike Bellotti,W,44,41
-1998-09-05,Alabama,SEC,Mike DuBose,H,Brigham Young,WAC,LaVell Edwards,W,38,31
+1998-09-05,Alabama,SEC,Mike DuBose,H,BYU,WAC,LaVell Edwards,W,38,31
 1998-09-12,Alabama,SEC,Mike DuBose,H,Vanderbilt,SEC,Woody Widenhofer,W,32,7
 1998-09-26,Alabama,SEC,Mike DuBose,A,Arkansas,SEC,Houston Nutt,L,6,42
 1998-10-03,Alabama,SEC,Mike DuBose,H,Florida,SEC,Steve Spurrier,L,10,16
@@ -1177,7 +1177,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-09-12,Fresno State,WAC,Pat Hill,A,Colorado,Big 12,Rick Neuheisel,L,21,29
 1998-09-19,Fresno State,WAC,Pat Hill,A,Texas Tech,Big 12,Spike Dykes,L,28,34
 1998-09-26,Fresno State,WAC,Pat Hill,H,Nevada,Big West,Jeff Tisdel,L,24,27
-1998-10-03,Fresno State,WAC,Pat Hill,H,Brigham Young,WAC,LaVell Edwards,W,31,21
+1998-10-03,Fresno State,WAC,Pat Hill,H,BYU,WAC,LaVell Edwards,W,31,21
 1998-10-10,Fresno State,WAC,Pat Hill,A,Texas Christian,WAC,Dennis Franchione,L,10,21
 1998-10-17,Fresno State,WAC,Pat Hill,A,Utah,WAC,Ron McBride,L,16,24
 1998-10-24,Fresno State,WAC,Pat Hill,H,UTEP,WAC,Charlie Bailey,W,32,6
@@ -1208,7 +1208,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1998-11-14,Tulane,CUSA,Chris Scelfo,A,Army,CUSA,Bob Sutton,W,49,35
 1998-11-21,Tulane,CUSA,Chris Scelfo,H,Houston,CUSA,Kim Helton,W,48,20
 1998-11-26,Tulane,CUSA,Chris Scelfo,H,Louisiana Tech,Ind,Gary Crowton,W,63,30
-1998-12-31,Tulane,CUSA,Chris Scelfo,N,Brigham Young,WAC,LaVell Edwards,W,41,27
+1998-12-31,Tulane,CUSA,Chris Scelfo,N,BYU,WAC,LaVell Edwards,W,41,27
 1998-09-03,Northern Illinois,MAC,Joe Novak,A,Western Michigan,MAC,Gary Darnell,L,23,37
 1998-09-12,Northern Illinois,MAC,Joe Novak,A,Kansas State,Big 12,Bill Snyder,L,7,73
 1998-10-03,Northern Illinois,MAC,Joe Novak,A,Ball State,MAC,Bill Lynch,L,13,18

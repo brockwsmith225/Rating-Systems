@@ -30,13 +30,13 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1930-11-15,Fordham,Ind,Frank Cavanaugh,H,Saint Mary's (CA),Ind,Slip Madigan,L,12,20
 1930-11-22,Fordham,Ind,Frank Cavanaugh,H,Bucknell,Ind,Carl Snavely,W,12,0
 1930-10-04,Utah,RMC,Ike Armstrong,H,Wyoming,RMC,John Rhodes,W,72,0
-1930-10-18,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,34,7
+1930-10-18,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,34,7
 1930-10-25,Utah,RMC,Ike Armstrong,H,Denver,RMC,Jeff Cravath,W,59,0
 1930-11-01,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,39,0
 1930-11-08,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,41,6
 1930-11-15,Utah,RMC,Ike Armstrong,A,Colorado,RMC,Myron Witham,W,34,0
 1930-11-27,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,41,0
-1930-10-11,Northern Colorado,RMC,William Saunders,H,Brigham Young,RMC,Ott Romney,T,7,7
+1930-10-11,Northern Colorado,RMC,William Saunders,H,BYU,RMC,Ott Romney,T,7,7
 1930-10-18,Northern Colorado,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,L,0,26
 1930-10-25,Northern Colorado,RMC,William Saunders,A,Colorado Mines,RMC,George Allen,W,7,0
 1930-11-01,Northern Colorado,RMC,William Saunders,A,Wyoming,RMC,John Rhodes,T,6,6
@@ -147,7 +147,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1931-01-01,Washington State,PCC,O.E. Hollingbery,N,Alabama,Southern,Wallace Wade,L,0,24
 1930-09-27,Western State,RMC,Tefler Meade,A,Utah State,RMC,,L,0,31
 1930-10-11,Western State,RMC,Tefler Meade,A,Colorado College,RMC,W.T. VandeGraaff,L,7,45
-1930-10-25,Western State,RMC,Tefler Meade,H,Brigham Young,RMC,Ott Romney,L,0,25
+1930-10-25,Western State,RMC,Tefler Meade,H,BYU,RMC,Ott Romney,L,0,25
 1930-11-03,Western State,RMC,Tefler Meade,H,Regis (CO),Ind,,L,7,14
 1930-11-08,Western State,RMC,Tefler Meade,A,Colorado Mines,RMC,George Allen,L,0,13
 1930-11-22,Western State,RMC,Tefler Meade,A,Northern Colorado,RMC,William Saunders,L,0,14
@@ -249,7 +249,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1930-10-11,Utah State,RMC,,H,Colorado,RMC,Myron Witham,T,0,0
 1930-10-18,Utah State,RMC,,A,USC,PCC,Howard Jones,L,0,65
 1930-10-25,Utah State,RMC,,H,Wyoming,RMC,John Rhodes,W,13,8
-1930-11-01,Utah State,RMC,,N,Brigham Young,RMC,Ott Romney,L,14,39
+1930-11-01,Utah State,RMC,,N,BYU,RMC,Ott Romney,L,14,39
 1930-11-08,Utah State,RMC,,A,Denver,RMC,Jeff Cravath,L,7,32
 1930-11-15,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,13
 1930-11-27,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,41
@@ -266,7 +266,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1930-10-11,Montana State,RMC,Schubert Dyche,A,Wyoming,RMC,John Rhodes,W,20,13
 1930-10-18,Montana State,RMC,Schubert Dyche,N,Montana,PCC,Frank Millburn,L,6,13
 1930-10-25,Montana State,RMC,Schubert Dyche,A,Nebraska,Big 6,Dana Bible,L,7,53
-1930-11-15,Montana State,RMC,Schubert Dyche,A,Brigham Young,RMC,Ott Romney,L,6,19
+1930-11-15,Montana State,RMC,Schubert Dyche,A,BYU,RMC,Ott Romney,L,6,19
 1930-09-20,Denver,RMC,Jeff Cravath,H,Regis (CO),Ind,,W,40,0
 1930-10-04,Denver,RMC,Jeff Cravath,H,Colorado Mines,RMC,George Allen,W,16,0
 1930-10-11,Denver,RMC,Jeff Cravath,H,Colorado State,RMC,Harry Hughes,L,7,15
@@ -367,20 +367,20 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1930-10-25,Saint Mary's (CA),Ind,Slip Madigan,A,Gonzaga,Ind,Ray Flaherty,W,41,0
 1930-11-15,Saint Mary's (CA),Ind,Slip Madigan,A,Fordham,Ind,Frank Cavanaugh,W,20,12
 1930-11-27,Saint Mary's (CA),Ind,Slip Madigan,H,Oregon,PCC,Clarence Spears,W,7,6
-1930-09-27,Wyoming,RMC,John Rhodes,A,Brigham Young,RMC,Ott Romney,L,12,19
+1930-09-27,Wyoming,RMC,John Rhodes,A,BYU,RMC,Ott Romney,L,12,19
 1930-10-04,Wyoming,RMC,John Rhodes,A,Utah,RMC,Ike Armstrong,L,0,72
 1930-10-11,Wyoming,RMC,John Rhodes,H,Montana State,RMC,Schubert Dyche,L,13,20
 1930-10-25,Wyoming,RMC,John Rhodes,A,Utah State,RMC,,L,8,13
 1930-11-01,Wyoming,RMC,John Rhodes,H,Northern Colorado,RMC,William Saunders,T,6,6
 1930-11-08,Wyoming,RMC,John Rhodes,A,Colorado State,RMC,Harry Hughes,W,21,6
 1930-11-15,Wyoming,RMC,John Rhodes,A,Denver,RMC,Jeff Cravath,L,7,19
-1930-09-27,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,John Rhodes,W,19,12
-1930-10-11,Brigham Young,RMC,Ott Romney,A,Northern Colorado,RMC,William Saunders,T,7,7
-1930-10-18,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,7,34
-1930-10-25,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,25,0
-1930-11-01,Brigham Young,RMC,Ott Romney,N,Utah State,RMC,,W,39,14
-1930-11-15,Brigham Young,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,W,19,6
-1930-11-22,Brigham Young,RMC,Ott Romney,A,Regis (CO),Ind,,W,18,6
+1930-09-27,BYU,RMC,Ott Romney,H,Wyoming,RMC,John Rhodes,W,19,12
+1930-10-11,BYU,RMC,Ott Romney,A,Northern Colorado,RMC,William Saunders,T,7,7
+1930-10-18,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,7,34
+1930-10-25,BYU,RMC,Ott Romney,A,Western State,RMC,Tefler Meade,W,25,0
+1930-11-01,BYU,RMC,Ott Romney,N,Utah State,RMC,,W,39,14
+1930-11-15,BYU,RMC,Ott Romney,H,Montana State,RMC,Schubert Dyche,W,19,6
+1930-11-22,BYU,RMC,Ott Romney,A,Regis (CO),Ind,,W,18,6
 1930-10-04,Yale,Ind,Mal Stevens,H,Maryland,Southern,Curley Byrd,W,40,13
 1930-10-11,Yale,Ind,Mal Stevens,H,Georgia,Southern,Harry Mehre,L,14,18
 1930-10-18,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,W,21,0
@@ -681,7 +681,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1930-10-04,Regis (CO),Ind,,A,Montana State,RMC,Schubert Dyche,L,19,26
 1930-11-03,Regis (CO),Ind,,A,Western State,RMC,Tefler Meade,W,14,7
 1930-11-15,Regis (CO),Ind,,H,Colorado Mines,RMC,George Allen,W,13,9
-1930-11-22,Regis (CO),Ind,,H,Brigham Young,RMC,Ott Romney,L,6,18
+1930-11-22,Regis (CO),Ind,,H,BYU,RMC,Ott Romney,L,6,18
 1930-10-04,Tulane,Southern,Bernie Bierman,A,Northwestern,Western,Dick Hanley,L,0,14
 1930-10-11,Tulane,Southern,Bernie Bierman,A,Texas A&M,SWC,Madison Bell,W,19,9
 1930-10-25,Tulane,Southern,Bernie Bierman,A,Georgia Tech,Southern,William Alexander,W,28,0

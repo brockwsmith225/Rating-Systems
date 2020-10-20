@@ -88,7 +88,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-10-26,Utah,WAC,Ron McBride,H,Tulsa,WAC,David Rader,W,45,19
 1996-11-02,Utah,WAC,Ron McBride,A,Rice,WAC,Ken Hatfield,L,10,51
 1996-11-09,Utah,WAC,Ron McBride,A,New Mexico,WAC,Dennis Franchione,W,31,24
-1996-11-23,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,L,17,37
+1996-11-23,Utah,WAC,Ron McBride,H,BYU,WAC,LaVell Edwards,L,17,37
 1996-12-27,Utah,WAC,Ron McBride,N,Wisconsin,Big Ten,Barry Alvarez,L,10,38
 1996-09-07,Syracuse,Big East,Paul Pasqualoni,H,North Carolina,ACC,Mack Brown,L,10,27
 1996-09-21,Syracuse,Big East,Paul Pasqualoni,A,Minnesota,Big Ten,Jim Wacker,L,33,35
@@ -229,7 +229,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-09-07,SMU,WAC,Tom Rossley,A,Arkansas,SEC,Danny Ford,W,23,10
 1996-09-14,SMU,WAC,Tom Rossley,H,Utah,WAC,Ron McBride,L,17,21
 1996-09-21,SMU,WAC,Tom Rossley,A,Navy,Ind,Charlie Weatherbie,L,17,19
-1996-09-28,SMU,WAC,Tom Rossley,A,Brigham Young,WAC,LaVell Edwards,L,3,31
+1996-09-28,SMU,WAC,Tom Rossley,A,BYU,WAC,LaVell Edwards,L,3,31
 1996-10-05,SMU,WAC,Tom Rossley,H,Missouri,Big 12,Larry Smith,L,26,27
 1996-10-19,SMU,WAC,Tom Rossley,A,Rice,WAC,Ken Hatfield,L,17,35
 1996-10-26,SMU,WAC,Tom Rossley,H,New Mexico,WAC,Dennis Franchione,W,52,31
@@ -345,7 +345,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-11-16,South Carolina,SEC,Brad Scott,A,Florida,SEC,Steve Spurrier,L,25,52
 1996-11-23,South Carolina,SEC,Brad Scott,A,Clemson,ACC,Tommy West,W,34,31
 1996-09-07,Washington,Pac-10,Jim Lambright,A,Arizona State,Pac-10,Bruce Snyder,L,42,45
-1996-09-14,Washington,Pac-10,Jim Lambright,H,Brigham Young,WAC,LaVell Edwards,W,29,17
+1996-09-14,Washington,Pac-10,Jim Lambright,H,BYU,WAC,LaVell Edwards,W,29,17
 1996-09-21,Washington,Pac-10,Jim Lambright,H,Arizona,Pac-10,Dick Tomey,W,31,17
 1996-10-05,Washington,Pac-10,Jim Lambright,H,Stanford,Pac-10,Tyrone Willingham,W,27,6
 1996-10-12,Washington,Pac-10,Jim Lambright,A,Notre Dame,Ind,Lou Holtz,L,20,54
@@ -383,7 +383,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-09-14,Utah State,Big West,John Smith,A,Southern Mississippi,CUSA,Jeff Bower,L,24,31
 1996-09-21,Utah State,Big West,John Smith,A,Oklahoma State,Big 12,Bob Simmons,L,17,31
 1996-09-28,Utah State,Big West,John Smith,A,Texas Tech,Big 12,Spike Dykes,L,20,58
-1996-10-04,Utah State,Big West,John Smith,H,Brigham Young,WAC,LaVell Edwards,L,17,45
+1996-10-04,Utah State,Big West,John Smith,H,BYU,WAC,LaVell Edwards,L,17,45
 1996-10-12,Utah State,Big West,John Smith,A,New Mexico State,Big West,Jim Hess,W,53,21
 1996-10-19,Utah State,Big West,John Smith,A,Boise State,Big West,Tom Mason,W,39,14
 1996-10-26,Utah State,Big West,John Smith,H,Idaho,Big West,Chris Tormey,W,35,28
@@ -491,7 +491,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-10-19,Hawaii,WAC,Fred Vonappen,H,Nevada-Las Vegas,WAC,Jeff Horton,W,38,28
 1996-10-26,Hawaii,WAC,Fred Vonappen,A,Air Force,WAC,Fisher DeBerry,L,7,34
 1996-11-09,Hawaii,WAC,Fred Vonappen,H,San Jose State,WAC,John Ralston,L,17,38
-1996-11-16,Hawaii,WAC,Fred Vonappen,H,Brigham Young,WAC,LaVell Edwards,L,14,45
+1996-11-16,Hawaii,WAC,Fred Vonappen,H,BYU,WAC,LaVell Edwards,L,14,45
 1996-11-30,Hawaii,WAC,Fred Vonappen,H,Wisconsin,Big Ten,Barry Alvarez,L,10,59
 1996-09-07,Rutgers,Big East,Terry Shea,H,Navy,Ind,Charlie Weatherbie,L,6,10
 1996-09-12,Rutgers,Big East,Terry Shea,H,Miami (FL),Big East,Butch Davis,L,0,33
@@ -550,7 +550,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-11-23,Temple,Big East,Ron Dickerson,H,Syracuse,Big East,Paul Pasqualoni,L,15,36
 1996-08-29,New Mexico,WAC,Dennis Franchione,A,New Mexico State,Big West,Jim Hess,W,28,7
 1996-09-14,New Mexico,WAC,Dennis Franchione,H,UCF,Ind,Gene McDowell,W,17,7
-1996-09-21,New Mexico,WAC,Dennis Franchione,A,Brigham Young,WAC,LaVell Edwards,L,14,17
+1996-09-21,New Mexico,WAC,Dennis Franchione,A,BYU,WAC,LaVell Edwards,L,14,17
 1996-09-28,New Mexico,WAC,Dennis Franchione,H,Texas Christian,WAC,Pat Sullivan,W,27,7
 1996-10-05,New Mexico,WAC,Dennis Franchione,A,Rice,WAC,Ken Hatfield,L,21,38
 1996-10-19,New Mexico,WAC,Dennis Franchione,H,San Diego State,WAC,Ted Tollner,L,42,48
@@ -660,22 +660,22 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-11-02,Wyoming,WAC,Joe Tiller,H,SMU,WAC,Tom Rossley,W,59,17
 1996-11-07,Wyoming,WAC,Joe Tiller,A,San Diego State,WAC,Ted Tollner,L,24,28
 1996-11-16,Wyoming,WAC,Joe Tiller,A,Colorado State,WAC,Sonny Lubick,W,25,24
-1996-12-07,Wyoming,WAC,Joe Tiller,N,Brigham Young,WAC,LaVell Edwards,L,25,28
-1996-08-24,Brigham Young,WAC,LaVell Edwards,H,Texas A&M,Big 12,R.C. Slocum,W,41,37
-1996-08-31,Brigham Young,WAC,LaVell Edwards,H,Arkansas State,Ind,John Bobo,W,58,9
-1996-09-14,Brigham Young,WAC,LaVell Edwards,A,Washington,Pac-10,Jim Lambright,L,17,29
-1996-09-21,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,17,14
-1996-09-28,Brigham Young,WAC,LaVell Edwards,H,SMU,WAC,Tom Rossley,W,31,3
-1996-10-04,Brigham Young,WAC,LaVell Edwards,A,Utah State,Big West,John Smith,W,45,17
-1996-10-12,Brigham Young,WAC,LaVell Edwards,H,Nevada-Las Vegas,WAC,Jeff Horton,W,63,28
-1996-10-19,Brigham Young,WAC,LaVell Edwards,A,Tulsa,WAC,David Rader,W,55,30
-1996-10-26,Brigham Young,WAC,LaVell Edwards,A,Texas Christian,WAC,Pat Sullivan,W,45,21
-1996-11-02,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Charlie Bailey,W,40,18
-1996-11-09,Brigham Young,WAC,LaVell Edwards,H,Rice,WAC,Ken Hatfield,W,49,0
-1996-11-16,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Fred Vonappen,W,45,14
-1996-11-23,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,37,17
-1996-12-07,Brigham Young,WAC,LaVell Edwards,N,Wyoming,WAC,Joe Tiller,W,28,25
-1997-01-01,Brigham Young,WAC,LaVell Edwards,N,Kansas State,Big 12,Bill Snyder,W,19,15
+1996-12-07,Wyoming,WAC,Joe Tiller,N,BYU,WAC,LaVell Edwards,L,25,28
+1996-08-24,BYU,WAC,LaVell Edwards,H,Texas A&M,Big 12,R.C. Slocum,W,41,37
+1996-08-31,BYU,WAC,LaVell Edwards,H,Arkansas State,Ind,John Bobo,W,58,9
+1996-09-14,BYU,WAC,LaVell Edwards,A,Washington,Pac-10,Jim Lambright,L,17,29
+1996-09-21,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Dennis Franchione,W,17,14
+1996-09-28,BYU,WAC,LaVell Edwards,H,SMU,WAC,Tom Rossley,W,31,3
+1996-10-04,BYU,WAC,LaVell Edwards,A,Utah State,Big West,John Smith,W,45,17
+1996-10-12,BYU,WAC,LaVell Edwards,H,Nevada-Las Vegas,WAC,Jeff Horton,W,63,28
+1996-10-19,BYU,WAC,LaVell Edwards,A,Tulsa,WAC,David Rader,W,55,30
+1996-10-26,BYU,WAC,LaVell Edwards,A,Texas Christian,WAC,Pat Sullivan,W,45,21
+1996-11-02,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Charlie Bailey,W,40,18
+1996-11-09,BYU,WAC,LaVell Edwards,H,Rice,WAC,Ken Hatfield,W,49,0
+1996-11-16,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Fred Vonappen,W,45,14
+1996-11-23,BYU,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,37,17
+1996-12-07,BYU,WAC,LaVell Edwards,N,Wyoming,WAC,Joe Tiller,W,28,25
+1997-01-01,BYU,WAC,LaVell Edwards,N,Kansas State,Big 12,Bill Snyder,W,19,15
 1996-09-07,Georgia Tech,ACC,George O'Leary,A,North Carolina State,ACC,Mike O'Cain,W,28,16
 1996-09-14,Georgia Tech,ACC,George O'Leary,H,Wake Forest,ACC,Jim Caldwell,W,30,10
 1996-09-21,Georgia Tech,ACC,George O'Leary,A,North Carolina,ACC,Mack Brown,L,0,16
@@ -697,7 +697,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-11-09,Wake Forest,ACC,Jim Caldwell,A,Florida State,ACC,Bobby Bowden,L,7,44
 1996-11-16,Wake Forest,ACC,Jim Caldwell,H,Duke,ACC,Fred Goldsmith,W,17,16
 1996-11-23,Wake Forest,ACC,Jim Caldwell,A,North Carolina State,ACC,Mike O'Cain,L,22,37
-1996-08-31,Arkansas State,Ind,John Bobo,A,Brigham Young,WAC,LaVell Edwards,L,9,58
+1996-08-31,Arkansas State,Ind,John Bobo,A,BYU,WAC,LaVell Edwards,L,9,58
 1996-09-14,Arkansas State,Ind,John Bobo,A,UAB,Ind,Watson Brown,L,17,42
 1996-09-21,Arkansas State,Ind,John Bobo,H,Northern Illinois,Ind,Joe Novak,L,30,31
 1996-10-12,Arkansas State,Ind,John Bobo,A,Louisiana,Ind,Nelson Stokley,L,31,42
@@ -722,7 +722,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-09-21,Nevada-Las Vegas,WAC,Jeff Horton,A,Colorado State,WAC,Sonny Lubick,L,16,35
 1996-09-28,Nevada-Las Vegas,WAC,Jeff Horton,H,Wyoming,WAC,Joe Tiller,L,21,33
 1996-10-05,Nevada-Las Vegas,WAC,Jeff Horton,H,Nevada,Big West,Jeff Tisdel,L,17,54
-1996-10-12,Nevada-Las Vegas,WAC,Jeff Horton,A,Brigham Young,WAC,LaVell Edwards,L,28,63
+1996-10-12,Nevada-Las Vegas,WAC,Jeff Horton,A,BYU,WAC,LaVell Edwards,L,28,63
 1996-10-19,Nevada-Las Vegas,WAC,Jeff Horton,A,Hawaii,WAC,Fred Vonappen,L,28,38
 1996-10-26,Nevada-Las Vegas,WAC,Jeff Horton,H,Fresno State,WAC,Jim Sweeney,L,23,34
 1996-11-02,Nevada-Las Vegas,WAC,Jeff Horton,A,Texas Christian,WAC,Pat Sullivan,L,34,42
@@ -749,7 +749,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-11-09,Kansas State,Big 12,Bill Snyder,A,Kansas,Big 12,Glen Mason,W,38,12
 1996-11-16,Kansas State,Big 12,Bill Snyder,A,Colorado,Big 12,Rick Neuheisel,L,0,12
 1996-11-23,Kansas State,Big 12,Bill Snyder,H,Iowa State,Big 12,Dan McCarney,W,35,20
-1997-01-01,Kansas State,Big 12,Bill Snyder,N,Brigham Young,WAC,LaVell Edwards,L,15,19
+1997-01-01,Kansas State,Big 12,Bill Snyder,N,BYU,WAC,LaVell Edwards,L,15,19
 1996-09-14,Army,Ind,Bob Sutton,H,Ohio,MAC,Jim Grobe,W,37,20
 1996-09-21,Army,Ind,Bob Sutton,H,Duke,ACC,Fred Goldsmith,W,35,17
 1996-09-28,Army,Ind,Bob Sutton,A,North Texas,Big West,Matt Simon,W,27,10
@@ -830,7 +830,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-10-05,UTEP,WAC,Charlie Bailey,H,Utah,WAC,Ron McBride,L,27,34
 1996-10-12,UTEP,WAC,Charlie Bailey,A,Texas Christian,WAC,Pat Sullivan,L,0,18
 1996-10-26,UTEP,WAC,Charlie Bailey,H,Rice,WAC,Ken Hatfield,L,21,48
-1996-11-02,UTEP,WAC,Charlie Bailey,A,Brigham Young,WAC,LaVell Edwards,L,18,40
+1996-11-02,UTEP,WAC,Charlie Bailey,A,BYU,WAC,LaVell Edwards,L,18,40
 1996-11-09,UTEP,WAC,Charlie Bailey,H,SMU,WAC,Tom Rossley,L,0,30
 1996-11-16,UTEP,WAC,Charlie Bailey,H,Tulsa,WAC,David Rader,L,21,38
 1996-11-23,UTEP,WAC,Charlie Bailey,A,New Mexico,WAC,Dennis Franchione,L,17,44
@@ -851,7 +851,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-09-21,Tulsa,WAC,David Rader,H,Iowa,Big Ten,Hayden Fry,W,27,20
 1996-09-28,Tulsa,WAC,David Rader,A,Oklahoma,Big 12,John Blake,W,31,24
 1996-10-12,Tulsa,WAC,David Rader,H,Colorado State,WAC,Sonny Lubick,W,20,14
-1996-10-19,Tulsa,WAC,David Rader,H,Brigham Young,WAC,LaVell Edwards,L,30,55
+1996-10-19,Tulsa,WAC,David Rader,H,BYU,WAC,LaVell Edwards,L,30,55
 1996-10-26,Tulsa,WAC,David Rader,A,Utah,WAC,Ron McBride,L,19,45
 1996-11-02,Tulsa,WAC,David Rader,H,New Mexico,WAC,Dennis Franchione,L,23,34
 1996-11-09,Tulsa,WAC,David Rader,H,Texas Christian,WAC,Pat Sullivan,L,24,31
@@ -888,7 +888,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-10-05,Texas Christian,WAC,Pat Sullivan,A,Tulane,CUSA,Buddy Teevens,L,7,35
 1996-10-12,Texas Christian,WAC,Pat Sullivan,H,UTEP,WAC,Charlie Bailey,W,18,0
 1996-10-19,Texas Christian,WAC,Pat Sullivan,A,Utah,WAC,Ron McBride,L,7,21
-1996-10-26,Texas Christian,WAC,Pat Sullivan,H,Brigham Young,WAC,LaVell Edwards,L,21,45
+1996-10-26,Texas Christian,WAC,Pat Sullivan,H,BYU,WAC,LaVell Edwards,L,21,45
 1996-11-02,Texas Christian,WAC,Pat Sullivan,H,Nevada-Las Vegas,WAC,Jeff Horton,W,42,34
 1996-11-09,Texas Christian,WAC,Pat Sullivan,A,Tulsa,WAC,David Rader,W,31,24
 1996-11-16,Texas Christian,WAC,Pat Sullivan,H,Rice,WAC,Ken Hatfield,L,17,30
@@ -1038,10 +1038,10 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1996-10-19,Rice,WAC,Ken Hatfield,H,SMU,WAC,Tom Rossley,W,35,17
 1996-10-26,Rice,WAC,Ken Hatfield,A,UTEP,WAC,Charlie Bailey,W,48,21
 1996-11-02,Rice,WAC,Ken Hatfield,H,Utah,WAC,Ron McBride,W,51,10
-1996-11-09,Rice,WAC,Ken Hatfield,A,Brigham Young,WAC,LaVell Edwards,L,0,49
+1996-11-09,Rice,WAC,Ken Hatfield,A,BYU,WAC,LaVell Edwards,L,0,49
 1996-11-16,Rice,WAC,Ken Hatfield,A,Texas Christian,WAC,Pat Sullivan,W,30,17
 1996-11-23,Rice,WAC,Ken Hatfield,H,Tulsa,WAC,David Rader,W,42,14
-1996-08-24,Texas A&M,Big 12,R.C. Slocum,A,Brigham Young,WAC,LaVell Edwards,L,37,41
+1996-08-24,Texas A&M,Big 12,R.C. Slocum,A,BYU,WAC,LaVell Edwards,L,37,41
 1996-09-14,Texas A&M,Big 12,R.C. Slocum,A,Louisiana,Ind,Nelson Stokley,L,22,29
 1996-09-21,Texas A&M,Big 12,R.C. Slocum,H,North Texas,Big West,Matt Simon,W,55,0
 1996-09-28,Texas A&M,Big 12,R.C. Slocum,H,Colorado,Big 12,Rick Neuheisel,L,10,24

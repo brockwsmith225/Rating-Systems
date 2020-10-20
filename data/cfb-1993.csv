@@ -90,7 +90,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-10-30,Utah,WAC,Ron McBride,H,San Diego State,WAC,Al Luginbill,W,45,41
 1993-11-06,Utah,WAC,Ron McBride,A,Hawaii,WAC,Bob Wagner,L,30,41
 1993-11-13,Utah,WAC,Ron McBride,H,Air Force,WAC,Fisher DeBerry,W,41,24
-1993-11-20,Utah,WAC,Ron McBride,A,Brigham Young,WAC,LaVell Edwards,W,34,31
+1993-11-20,Utah,WAC,Ron McBride,A,BYU,WAC,LaVell Edwards,W,34,31
 1993-12-30,Utah,WAC,Ron McBride,A,USC,Pac-10,John Robinson,L,21,28
 1993-09-04,Syracuse,Big East,Paul Pasqualoni,H,Ball State,MAC,Paul Schudel,W,35,12
 1993-09-09,Syracuse,Big East,Paul Pasqualoni,A,East Carolina,Ind,Steve Logan,W,41,22
@@ -372,7 +372,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-10-02,Utah State,Big West,Charlie Weatherbie,A,LSU,SEC,Curley Hallman,L,17,38
 1993-10-16,Utah State,Big West,Charlie Weatherbie,H,Nevada,Big West,Jeff Horton,L,44,48
 1993-10-23,Utah State,Big West,Charlie Weatherbie,A,Nevada-Las Vegas,Big West,Jim Strong,W,33,26
-1993-10-30,Utah State,Big West,Charlie Weatherbie,H,Brigham Young,WAC,LaVell Edwards,W,58,56
+1993-10-30,Utah State,Big West,Charlie Weatherbie,H,BYU,WAC,LaVell Edwards,W,58,56
 1993-11-06,Utah State,Big West,Charlie Weatherbie,H,Pacific,Big West,Chuck Shelton,W,24,21
 1993-11-13,Utah State,Big West,Charlie Weatherbie,H,Louisiana Tech,Big West,Joe Peace,W,24,13
 1993-11-20,Utah State,Big West,Charlie Weatherbie,A,New Mexico State,Big West,Jim Hess,W,20,17
@@ -462,10 +462,10 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-10-16,San Diego State,WAC,Al Luginbill,H,Colorado State,WAC,Sonny Lubick,W,30,3
 1993-10-23,San Diego State,WAC,Al Luginbill,H,New Mexico,WAC,Dennis Franchione,W,20,17
 1993-10-30,San Diego State,WAC,Al Luginbill,A,Utah,WAC,Ron McBride,L,41,45
-1993-11-11,San Diego State,WAC,Al Luginbill,H,Brigham Young,WAC,LaVell Edwards,L,44,45
+1993-11-11,San Diego State,WAC,Al Luginbill,H,BYU,WAC,LaVell Edwards,L,44,45
 1993-11-20,San Diego State,WAC,Al Luginbill,A,Fresno State,WAC,Jim Sweeney,L,37,63
 1993-11-27,San Diego State,WAC,Al Luginbill,H,Wyoming,WAC,Joe Tiller,L,38,43
-1993-09-11,Hawaii,WAC,Bob Wagner,A,Brigham Young,WAC,LaVell Edwards,L,38,41
+1993-09-11,Hawaii,WAC,Bob Wagner,A,BYU,WAC,LaVell Edwards,L,38,41
 1993-09-18,Hawaii,WAC,Bob Wagner,H,Kent State,MAC,Pete Cordelli,W,49,17
 1993-09-25,Hawaii,WAC,Bob Wagner,H,UTEP,WAC,Charlie Bailey,W,52,0
 1993-10-02,Hawaii,WAC,Bob Wagner,A,New Mexico,WAC,Dennis Franchione,L,14,41
@@ -530,7 +530,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-11-06,Temple,Big East,Ron Dickerson,A,Syracuse,Big East,Paul Pasqualoni,L,3,52
 1993-11-13,Temple,Big East,Ron Dickerson,H,West Virginia,Big East,Don Nehlen,L,7,49
 1993-11-20,Temple,Big East,Ron Dickerson,H,Pitt,Big East,Johnny Majors,L,18,28
-1993-09-04,New Mexico,WAC,Dennis Franchione,H,Brigham Young,WAC,LaVell Edwards,L,31,34
+1993-09-04,New Mexico,WAC,Dennis Franchione,H,BYU,WAC,LaVell Edwards,L,31,34
 1993-09-11,New Mexico,WAC,Dennis Franchione,A,Texas Christian,SWC,Pat Sullivan,L,34,35
 1993-09-18,New Mexico,WAC,Dennis Franchione,H,Fresno State,WAC,Jim Sweeney,L,24,41
 1993-09-25,New Mexico,WAC,Dennis Franchione,H,New Mexico State,Big West,Jim Hess,W,42,7
@@ -556,7 +556,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-09-25,Notre Dame,Ind,Lou Holtz,A,Purdue,Big Ten,Jim Colletto,W,17,0
 1993-10-02,Notre Dame,Ind,Lou Holtz,A,Stanford,Pac-10,Bill Walsh,W,48,20
 1993-10-09,Notre Dame,Ind,Lou Holtz,H,Pitt,Big East,Johnny Majors,W,44,0
-1993-10-16,Notre Dame,Ind,Lou Holtz,A,Brigham Young,WAC,LaVell Edwards,W,45,20
+1993-10-16,Notre Dame,Ind,Lou Holtz,A,BYU,WAC,LaVell Edwards,W,45,20
 1993-10-23,Notre Dame,Ind,Lou Holtz,H,USC,Pac-10,John Robinson,W,31,13
 1993-10-30,Notre Dame,Ind,Lou Holtz,N,Navy,Ind,George Chaump,W,58,27
 1993-11-13,Notre Dame,Ind,Lou Holtz,H,Florida State,ACC,Bobby Bowden,W,31,24
@@ -625,18 +625,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-11-20,Wyoming,WAC,Joe Tiller,H,Colorado State,WAC,Sonny Lubick,L,21,41
 1993-11-27,Wyoming,WAC,Joe Tiller,A,San Diego State,WAC,Al Luginbill,W,43,38
 1993-12-29,Wyoming,WAC,Joe Tiller,N,Kansas State,Big 8,Bill Snyder,L,17,52
-1993-09-04,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Dennis Franchione,W,34,31
-1993-09-11,Brigham Young,WAC,LaVell Edwards,H,Hawaii,WAC,Bob Wagner,W,41,38
-1993-09-18,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Sonny Lubick,W,27,22
-1993-09-25,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,30,3
-1993-10-09,Brigham Young,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,L,14,68
-1993-10-16,Brigham Young,WAC,LaVell Edwards,H,Notre Dame,Ind,Lou Holtz,L,20,45
-1993-10-23,Brigham Young,WAC,LaVell Edwards,H,Fresno State,WAC,Jim Sweeney,L,45,48
-1993-10-30,Brigham Young,WAC,LaVell Edwards,A,Utah State,Big West,Charlie Weatherbie,L,56,58
-1993-11-11,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,W,45,44
-1993-11-20,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Ron McBride,L,31,34
-1993-11-27,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Charlie Bailey,W,47,16
-1993-12-30,Brigham Young,WAC,LaVell Edwards,N,Ohio State,Big Ten,John Cooper,L,21,28
+1993-09-04,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Dennis Franchione,W,34,31
+1993-09-11,BYU,WAC,LaVell Edwards,H,Hawaii,WAC,Bob Wagner,W,41,38
+1993-09-18,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Sonny Lubick,W,27,22
+1993-09-25,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,30,3
+1993-10-09,BYU,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,L,14,68
+1993-10-16,BYU,WAC,LaVell Edwards,H,Notre Dame,Ind,Lou Holtz,L,20,45
+1993-10-23,BYU,WAC,LaVell Edwards,H,Fresno State,WAC,Jim Sweeney,L,45,48
+1993-10-30,BYU,WAC,LaVell Edwards,A,Utah State,Big West,Charlie Weatherbie,L,56,58
+1993-11-11,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,W,45,44
+1993-11-20,BYU,WAC,LaVell Edwards,H,Utah,WAC,Ron McBride,L,31,34
+1993-11-27,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Charlie Bailey,W,47,16
+1993-12-30,BYU,WAC,LaVell Edwards,N,Ohio State,Big Ten,John Cooper,L,21,28
 1993-09-16,Georgia Tech,ACC,Bill Lewis,H,Virginia,ACC,George Welsh,L,14,35
 1993-09-25,Georgia Tech,ACC,Bill Lewis,A,Clemson,ACC,Tommy West,L,13,16
 1993-10-02,Georgia Tech,ACC,Bill Lewis,A,Florida State,ACC,Bobby Bowden,L,0,51
@@ -721,7 +721,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-09-18,UCLA,Pac-10,Terry Donahue,H,Nebraska,Big 8,Tom Osborne,L,13,14
 1993-09-25,UCLA,Pac-10,Terry Donahue,A,Stanford,Pac-10,Bill Walsh,W,28,25
 1993-09-30,UCLA,Pac-10,Terry Donahue,A,San Diego State,WAC,Al Luginbill,W,52,13
-1993-10-09,UCLA,Pac-10,Terry Donahue,H,Brigham Young,WAC,LaVell Edwards,W,68,14
+1993-10-09,UCLA,Pac-10,Terry Donahue,H,BYU,WAC,LaVell Edwards,W,68,14
 1993-10-16,UCLA,Pac-10,Terry Donahue,H,Washington,Pac-10,Jim Lambright,W,39,25
 1993-10-23,UCLA,Pac-10,Terry Donahue,A,Oregon State,Pac-10,Jerry Pettibone,W,20,17
 1993-10-30,UCLA,Pac-10,Terry Donahue,H,Arizona,Pac-10,Dick Tomey,W,37,17
@@ -782,7 +782,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-11-06,UTEP,WAC,Charlie Bailey,A,Fresno State,WAC,Jim Sweeney,L,10,30
 1993-11-13,UTEP,WAC,Charlie Bailey,H,Colorado State,WAC,Sonny Lubick,L,0,52
 1993-11-20,UTEP,WAC,Charlie Bailey,H,New Mexico,WAC,Dennis Franchione,L,29,35
-1993-11-27,UTEP,WAC,Charlie Bailey,A,Brigham Young,WAC,LaVell Edwards,L,16,47
+1993-11-27,UTEP,WAC,Charlie Bailey,A,BYU,WAC,LaVell Edwards,L,16,47
 1993-09-04,LSU,SEC,Curley Hallman,A,Texas A&M,SWC,R.C. Slocum,L,0,24
 1993-09-11,LSU,SEC,Curley Hallman,A,Mississippi State,SEC,Jackie Sherrill,W,18,16
 1993-09-18,LSU,SEC,Curley Hallman,H,Auburn,SEC,Terry Bowden,L,10,34
@@ -840,7 +840,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-11-20,Texas Christian,SWC,Pat Sullivan,H,Texas A&M,SWC,R.C. Slocum,L,3,59
 1993-09-11,Air Force,WAC,Fisher DeBerry,A,Colorado State,WAC,Sonny Lubick,L,5,8
 1993-09-18,Air Force,WAC,Fisher DeBerry,H,San Diego State,WAC,Al Luginbill,L,31,38
-1993-09-25,Air Force,WAC,Fisher DeBerry,A,Brigham Young,WAC,LaVell Edwards,L,3,30
+1993-09-25,Air Force,WAC,Fisher DeBerry,A,BYU,WAC,LaVell Edwards,L,3,30
 1993-10-02,Air Force,WAC,Fisher DeBerry,H,Wyoming,WAC,Joe Tiller,L,18,31
 1993-10-09,Air Force,WAC,Fisher DeBerry,A,Navy,Ind,George Chaump,L,24,28
 1993-10-16,Air Force,WAC,Fisher DeBerry,A,Fresno State,WAC,Jim Sweeney,L,20,33
@@ -963,7 +963,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-12-25,Colorado,Big 8,Bill McCartney,N,Fresno State,WAC,Jim Sweeney,W,41,30
 1993-09-04,Colorado State,WAC,Sonny Lubick,H,Oregon,Pac-10,Rich Brooks,L,9,23
 1993-09-11,Colorado State,WAC,Sonny Lubick,H,Air Force,WAC,Fisher DeBerry,W,8,5
-1993-09-18,Colorado State,WAC,Sonny Lubick,H,Brigham Young,WAC,LaVell Edwards,L,22,27
+1993-09-18,Colorado State,WAC,Sonny Lubick,H,BYU,WAC,LaVell Edwards,L,22,27
 1993-09-25,Colorado State,WAC,Sonny Lubick,A,Nebraska,Big 8,Tom Osborne,L,13,48
 1993-10-02,Colorado State,WAC,Sonny Lubick,A,Kansas,Big 8,Glen Mason,L,6,24
 1993-10-09,Colorado State,WAC,Sonny Lubick,H,Fresno State,WAC,Jim Sweeney,W,34,32
@@ -1096,7 +1096,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-09-25,Fresno State,WAC,Jim Sweeney,H,Utah State,Big West,Charlie Weatherbie,W,30,14
 1993-10-09,Fresno State,WAC,Jim Sweeney,A,Colorado State,WAC,Sonny Lubick,L,32,34
 1993-10-16,Fresno State,WAC,Jim Sweeney,H,Air Force,WAC,Fisher DeBerry,W,33,20
-1993-10-23,Fresno State,WAC,Jim Sweeney,A,Brigham Young,WAC,LaVell Edwards,W,48,45
+1993-10-23,Fresno State,WAC,Jim Sweeney,A,BYU,WAC,LaVell Edwards,W,48,45
 1993-10-30,Fresno State,WAC,Jim Sweeney,A,Wyoming,WAC,Joe Tiller,L,28,32
 1993-11-06,Fresno State,WAC,Jim Sweeney,H,UTEP,WAC,Charlie Bailey,W,30,10
 1993-11-13,Fresno State,WAC,Jim Sweeney,H,Hawaii,WAC,Bob Wagner,W,45,21
@@ -1146,7 +1146,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1993-11-06,Ohio State,Big Ten,John Cooper,A,Wisconsin,Big Ten,Barry Alvarez,T,14,14
 1993-11-13,Ohio State,Big Ten,John Cooper,H,Indiana,Big Ten,Bill Mallory,W,23,17
 1993-11-20,Ohio State,Big Ten,John Cooper,A,Michigan,Big Ten,Gary Moeller,L,0,28
-1993-12-30,Ohio State,Big Ten,John Cooper,N,Brigham Young,WAC,LaVell Edwards,W,28,21
+1993-12-30,Ohio State,Big Ten,John Cooper,N,BYU,WAC,LaVell Edwards,W,28,21
 1993-09-04,Ohio,MAC,Tom Lichtenberg,A,North Carolina,ACC,Mack Brown,L,3,44
 1993-09-11,Ohio,MAC,Tom Lichtenberg,A,Central Michigan,MAC,Herb Deromedi,L,0,38
 1993-09-18,Ohio,MAC,Tom Lichtenberg,H,Ball State,MAC,Paul Schudel,L,16,24

@@ -68,7 +68,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-09-26,Arizona State,WAC,Frank Kush,H,Kansas State,Big 8,Vince Gibson,W,35,13
 1970-10-03,Arizona State,WAC,Frank Kush,A,Wyoming,WAC,Lloyd Eaton,W,52,3
 1970-10-10,Arizona State,WAC,Frank Kush,H,Washington State,Pac-8,Jim Sweeney,W,37,30
-1970-10-17,Arizona State,WAC,Frank Kush,A,Brigham Young,WAC,Tommy Hudspeth,W,27,3
+1970-10-17,Arizona State,WAC,Frank Kush,A,BYU,WAC,Tommy Hudspeth,W,27,3
 1970-10-24,Arizona State,WAC,Frank Kush,A,UTEP,WAC,Robert Dobbs,W,42,13
 1970-11-07,Arizona State,WAC,Frank Kush,H,San Jose State,PCAA,DeWayne King,W,46,10
 1970-11-14,Arizona State,WAC,Frank Kush,H,Utah,WAC,Bill Meek,W,37,14
@@ -89,7 +89,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-10-31,Utah,WAC,Bill Meek,A,San Jose State,PCAA,DeWayne King,W,13,9
 1970-11-07,Utah,WAC,Bill Meek,A,Utah State,Ind,Chuck Mills,W,17,0
 1970-11-14,Utah,WAC,Bill Meek,A,Arizona State,WAC,Frank Kush,L,14,37
-1970-11-21,Utah,WAC,Bill Meek,H,Brigham Young,WAC,Tommy Hudspeth,W,14,13
+1970-11-21,Utah,WAC,Bill Meek,H,BYU,WAC,Tommy Hudspeth,W,14,13
 1970-09-12,Wichita State,MVC,Ben Wilson,A,Texas A&M,SWC,Gene Stallings,L,14,41
 1970-09-26,Wichita State,MVC,Ben Wilson,A,West Texas A&M,Ind,Joe Kerbel,L,0,43
 1970-10-17,Wichita State,MVC,Ben Wilson,H,Cincinnati,Ind,Ray Callahan,L,5,35
@@ -118,7 +118,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-09-19,Arizona,WAC,Bob Weber,A,Michigan,Big Ten,Bo Schembechler,L,9,20
 1970-09-26,Arizona,WAC,Bob Weber,H,San Jose State,PCAA,DeWayne King,W,30,29
 1970-10-03,Arizona,WAC,Bob Weber,H,Iowa,Big Ten,Ray Nagel,W,17,10
-1970-10-10,Arizona,WAC,Bob Weber,H,Brigham Young,WAC,Tommy Hudspeth,W,24,17
+1970-10-10,Arizona,WAC,Bob Weber,H,BYU,WAC,Tommy Hudspeth,W,24,17
 1970-10-24,Arizona,WAC,Bob Weber,A,Utah,WAC,Bill Meek,L,0,24
 1970-10-31,Arizona,WAC,Bob Weber,H,Air Force,Ind,Ben Martin,L,20,23
 1970-11-07,Arizona,WAC,Bob Weber,A,New Mexico,WAC,Rudy Feldman,L,7,35
@@ -388,7 +388,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-09-19,Utah State,Ind,Chuck Mills,H,Bowling Green State,MAC,Don Nehlen,W,33,14
 1970-09-26,Utah State,Ind,Chuck Mills,A,Wyoming,WAC,Lloyd Eaton,W,42,29
 1970-10-10,Utah State,Ind,Chuck Mills,A,Kentucky,SEC,John Ray,W,35,6
-1970-10-24,Utah State,Ind,Chuck Mills,A,Brigham Young,WAC,Tommy Hudspeth,L,20,27
+1970-10-24,Utah State,Ind,Chuck Mills,A,BYU,WAC,Tommy Hudspeth,L,20,27
 1970-10-31,Utah State,Ind,Chuck Mills,A,Colorado State,WAC,Jerry Wampfler,L,13,20
 1970-11-07,Utah State,Ind,Chuck Mills,H,Utah,WAC,Bill Meek,L,0,17
 1970-11-14,Utah State,Ind,Chuck Mills,H,Idaho,Ind,Don Robbins,L,14,42
@@ -460,7 +460,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-09-12,San Diego State,PCAA,Don Coryell,A,Northern Illinois,Ind,Doc Urich,W,35,3
 1970-09-19,San Diego State,PCAA,Don Coryell,A,North Texas,MVC,Rod Rust,W,23,0
 1970-09-26,San Diego State,PCAA,Don Coryell,H,Cal State Los Angeles,PCAA,,W,35,0
-1970-10-03,San Diego State,PCAA,Don Coryell,H,Brigham Young,WAC,Tommy Hudspeth,W,31,11
+1970-10-03,San Diego State,PCAA,Don Coryell,H,BYU,WAC,Tommy Hudspeth,W,31,11
 1970-10-10,San Diego State,PCAA,Don Coryell,H,Southern Mississippi,Ind,P.W. Underwood,W,41,14
 1970-10-17,San Diego State,PCAA,Don Coryell,H,San Jose State,PCAA,DeWayne King,W,32,6
 1970-10-31,San Diego State,PCAA,Don Coryell,H,Fresno State,PCAA,Darryl Rogers,W,56,14
@@ -491,7 +491,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-10-24,New Mexico,WAC,Rudy Feldman,A,Wyoming,WAC,Lloyd Eaton,W,17,7
 1970-10-31,New Mexico,WAC,Rudy Feldman,A,UTEP,WAC,Robert Dobbs,W,35,16
 1970-11-07,New Mexico,WAC,Rudy Feldman,H,Arizona,WAC,Bob Weber,W,35,7
-1970-11-14,New Mexico,WAC,Rudy Feldman,H,Brigham Young,WAC,Tommy Hudspeth,W,51,8
+1970-11-14,New Mexico,WAC,Rudy Feldman,H,BYU,WAC,Tommy Hudspeth,W,51,8
 1970-11-21,New Mexico,WAC,Rudy Feldman,A,Arizona State,WAC,Frank Kush,L,21,33
 1970-09-12,Pacific,PCAA,Homer Smith,A,UTEP,WAC,Robert Dobbs,W,24,18
 1970-09-19,Pacific,PCAA,Homer Smith,H,Long Beach State,PCAA,Jim Strangeland,W,9,6
@@ -552,7 +552,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-11-07,West Texas A&M,Ind,Joe Kerbel,H,Western Michigan,MAC,Bill Doolittle,L,0,20
 1970-11-14,West Texas A&M,Ind,Joe Kerbel,A,Bowling Green State,MAC,Don Nehlen,W,23,7
 1970-11-21,West Texas A&M,Ind,Joe Kerbel,H,Southern Mississippi,Ind,P.W. Underwood,W,14,11
-1970-09-12,North Texas,MVC,Rod Rust,A,Brigham Young,WAC,Tommy Hudspeth,L,7,10
+1970-09-12,North Texas,MVC,Rod Rust,A,BYU,WAC,Tommy Hudspeth,L,7,10
 1970-09-19,North Texas,MVC,Rod Rust,H,San Diego State,PCAA,Don Coryell,L,0,23
 1970-09-26,North Texas,MVC,Rod Rust,A,Louisville,MVC,Lee Corso,L,2,13
 1970-10-17,North Texas,MVC,Rod Rust,A,West Texas A&M,Ind,Joe Kerbel,W,11,10
@@ -567,21 +567,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-10-10,Wyoming,WAC,Lloyd Eaton,A,Colorado State,WAC,Jerry Wampfler,W,16,6
 1970-10-17,Wyoming,WAC,Lloyd Eaton,H,Utah,WAC,Bill Meek,L,16,20
 1970-10-24,Wyoming,WAC,Lloyd Eaton,H,New Mexico,WAC,Rudy Feldman,L,7,17
-1970-10-31,Wyoming,WAC,Lloyd Eaton,A,Brigham Young,WAC,Tommy Hudspeth,L,3,23
+1970-10-31,Wyoming,WAC,Lloyd Eaton,A,BYU,WAC,Tommy Hudspeth,L,3,23
 1970-11-07,Wyoming,WAC,Lloyd Eaton,A,UTEP,WAC,Robert Dobbs,L,7,42
 1970-11-14,Wyoming,WAC,Lloyd Eaton,A,Houston,Ind,Bill Yeoman,L,0,28
 1970-11-21,Wyoming,WAC,Lloyd Eaton,A,Arizona,WAC,Bob Weber,L,12,38
-1970-09-12,Brigham Young,WAC,Tommy Hudspeth,H,North Texas,MVC,Rod Rust,W,10,7
-1970-09-19,Brigham Young,WAC,Tommy Hudspeth,A,Western Michigan,MAC,Bill Doolittle,L,17,35
-1970-09-26,Brigham Young,WAC,Tommy Hudspeth,H,UTEP,WAC,Robert Dobbs,L,0,17
-1970-10-03,Brigham Young,WAC,Tommy Hudspeth,A,San Diego State,PCAA,Don Coryell,L,11,31
-1970-10-10,Brigham Young,WAC,Tommy Hudspeth,A,Arizona,WAC,Bob Weber,L,17,24
-1970-10-17,Brigham Young,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,3,27
-1970-10-24,Brigham Young,WAC,Tommy Hudspeth,H,Utah State,Ind,Chuck Mills,W,27,20
-1970-10-31,Brigham Young,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,W,23,3
-1970-11-07,Brigham Young,WAC,Tommy Hudspeth,A,Colorado State,WAC,Jerry Wampfler,L,9,26
-1970-11-14,Brigham Young,WAC,Tommy Hudspeth,A,New Mexico,WAC,Rudy Feldman,L,8,51
-1970-11-21,Brigham Young,WAC,Tommy Hudspeth,A,Utah,WAC,Bill Meek,L,13,14
+1970-09-12,BYU,WAC,Tommy Hudspeth,H,North Texas,MVC,Rod Rust,W,10,7
+1970-09-19,BYU,WAC,Tommy Hudspeth,A,Western Michigan,MAC,Bill Doolittle,L,17,35
+1970-09-26,BYU,WAC,Tommy Hudspeth,H,UTEP,WAC,Robert Dobbs,L,0,17
+1970-10-03,BYU,WAC,Tommy Hudspeth,A,San Diego State,PCAA,Don Coryell,L,11,31
+1970-10-10,BYU,WAC,Tommy Hudspeth,A,Arizona,WAC,Bob Weber,L,17,24
+1970-10-17,BYU,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,3,27
+1970-10-24,BYU,WAC,Tommy Hudspeth,H,Utah State,Ind,Chuck Mills,W,27,20
+1970-10-31,BYU,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,W,23,3
+1970-11-07,BYU,WAC,Tommy Hudspeth,A,Colorado State,WAC,Jerry Wampfler,L,9,26
+1970-11-14,BYU,WAC,Tommy Hudspeth,A,New Mexico,WAC,Rudy Feldman,L,8,51
+1970-11-21,BYU,WAC,Tommy Hudspeth,A,Utah,WAC,Bill Meek,L,13,14
 1970-10-03,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,39,7
 1970-10-10,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,Leonard Jardine,W,28,0
 1970-10-17,Yale,Ivy,Carmen Cozza,H,Columbia,Ivy,Frank Navarro,W,32,15
@@ -748,7 +748,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-11-07,Kansas,Big 8,Pepper Rodgers,A,Colorado,Big 8,Eddie Crowder,L,29,45
 1970-11-14,Kansas,Big 8,Pepper Rodgers,H,Oklahoma,Big 8,Chuck Fairbanks,L,24,28
 1970-11-21,Kansas,Big 8,Pepper Rodgers,A,Missouri,Big 8,Dan Devine,L,17,28
-1970-09-19,Western Michigan,MAC,Bill Doolittle,H,Brigham Young,WAC,Tommy Hudspeth,W,35,17
+1970-09-19,Western Michigan,MAC,Bill Doolittle,H,BYU,WAC,Tommy Hudspeth,W,35,17
 1970-09-26,Western Michigan,MAC,Bill Doolittle,A,Miami (OH),MAC,Bill Mallory,L,12,23
 1970-10-03,Western Michigan,MAC,Bill Doolittle,H,Bowling Green State,MAC,Don Nehlen,W,23,3
 1970-10-10,Western Michigan,MAC,Bill Doolittle,A,Kent State,MAC,Dave Puddington,L,22,25
@@ -769,7 +769,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-12-28,William & Mary,Southern,Lou Holtz,N,Toledo,MAC,Frank Lauterbur,L,12,40
 1970-09-12,UTEP,WAC,Robert Dobbs,H,Pacific,PCAA,Homer Smith,L,18,24
 1970-09-19,UTEP,WAC,Robert Dobbs,A,Utah,WAC,Bill Meek,L,20,44
-1970-09-26,UTEP,WAC,Robert Dobbs,A,Brigham Young,WAC,Tommy Hudspeth,W,17,0
+1970-09-26,UTEP,WAC,Robert Dobbs,A,BYU,WAC,Tommy Hudspeth,W,17,0
 1970-10-03,UTEP,WAC,Robert Dobbs,H,New Mexico State,Ind,Jim Wood,W,21,14
 1970-10-17,UTEP,WAC,Robert Dobbs,A,Colorado State,WAC,Jerry Wampfler,W,41,37
 1970-10-24,UTEP,WAC,Robert Dobbs,H,Arizona State,WAC,Frank Kush,L,13,42
@@ -1009,7 +1009,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1970-10-17,Colorado State,WAC,Jerry Wampfler,H,UTEP,WAC,Robert Dobbs,L,37,41
 1970-10-24,Colorado State,WAC,Jerry Wampfler,A,West Virginia,Ind,Bobby Bowden,L,21,24
 1970-10-31,Colorado State,WAC,Jerry Wampfler,H,Utah State,Ind,Chuck Mills,W,20,13
-1970-11-07,Colorado State,WAC,Jerry Wampfler,H,Brigham Young,WAC,Tommy Hudspeth,W,26,9
+1970-11-07,Colorado State,WAC,Jerry Wampfler,H,BYU,WAC,Tommy Hudspeth,W,26,9
 1970-11-14,Colorado State,WAC,Jerry Wampfler,H,Pacific,PCAA,Homer Smith,W,17,8
 1970-11-21,Colorado State,WAC,Jerry Wampfler,A,Toledo,MAC,Frank Lauterbur,L,14,24
 1970-09-19,Rice,SWC,Bo Hagan,H,Virginia Military Institute,Southern,Vito Ragazzo,W,42,0

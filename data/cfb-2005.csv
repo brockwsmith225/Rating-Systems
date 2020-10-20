@@ -86,7 +86,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-10-22,Utah,MWC,Kyle Whittingham,A,Nevada-Las Vegas,MWC,Mike Sanford,W,42,32,20,29,264,3,36,242,3,11,10,10,93,1,0
 2005-11-05,Utah,MWC,Kyle Whittingham,H,Wyoming,MWC,Joe Glenn,W,43,13,32,45,384,4,41,179,1,14,10,5,45,0,0
 2005-11-12,Utah,MWC,Kyle Whittingham,H,New Mexico,MWC,Rocky Long,L,27,31,18,41,381,4,32,60,0,11,7,8,97,3,2
-2005-11-19,Utah,MWC,Kyle Whittingham,A,Brigham Young,MWC,Bronco Mendenhall,W,41,34,17,35,240,4,44,251,1,9,13,12,86,0,0
+2005-11-19,Utah,MWC,Kyle Whittingham,A,BYU,MWC,Bronco Mendenhall,W,41,34,17,35,240,4,44,251,1,9,13,12,86,0,0
 2005-12-29,Utah,MWC,Kyle Whittingham,N,Georgia Tech,ACC,Chan Gailey,W,38,10,30,42,381,4,35,169,1,21,9,7,64,0,2
 2005-09-04,Syracuse,Big East,Greg Robinson,H,West Virginia,Big East,Rich Rodriguez,L,7,15,15,31,85,0,26,18,1,3,3,11,71,0,2
 2005-09-10,Syracuse,Big East,Greg Robinson,H,Buffalo,MAC,Jim Hofher,W,31,0,10,22,139,0,55,348,4,7,12,7,57,0,0
@@ -151,7 +151,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-11-05,California,Pac-10,Jeff Tedford,A,Oregon,Pac-10,Mike Bellotti,L,20,27,10,26,88,0,39,213,2,5,8,5,40,1,3
 2005-11-12,California,Pac-10,Jeff Tedford,H,USC,Pac-10,Pete Carroll,L,10,35,13,23,132,0,31,167,1,7,8,7,58,2,4
 2005-11-19,California,Pac-10,Jeff Tedford,A,Stanford,Pac-10,Walt Harris,W,27,3,11,19,139,2,43,226,2,5,12,1,5,0,1
-2005-12-22,California,Pac-10,Jeff Tedford,N,Brigham Young,MWC,Bronco Mendenhall,W,35,28,16,23,228,2,43,241,3,7,16,9,85,0,0
+2005-12-22,California,Pac-10,Jeff Tedford,N,BYU,MWC,Bronco Mendenhall,W,35,28,16,23,228,2,43,241,3,7,16,9,85,0,0
 2005-09-03,Florida,SEC,Urban Meyer,H,Wyoming,MWC,Joe Glenn,W,32,14,26,34,320,3,36,91,1,10,11,4,30,0,0
 2005-09-10,Florida,SEC,Urban Meyer,H,Louisiana Tech,WAC,Jack Bicknell,W,41,3,14,24,224,2,49,251,4,7,12,9,85,1,0
 2005-09-17,Florida,SEC,Urban Meyer,H,Tennessee,SEC,Phillip Fulmer,W,16,7,17,26,179,0,37,68,1,8,5,10,63,0,0
@@ -494,7 +494,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-09-10,San Diego State,MWC,Tom Craft,A,Air Force,MWC,Fisher DeBerry,L,29,41,27,44,253,1,33,164,2,13,11,3,30,2,1
 2005-09-17,San Diego State,MWC,Tom Craft,A,Ohio State,Big Ten,Jim Tressel,L,6,27,14,22,166,1,19,13,0,3,0,9,66,1,0
 2005-09-24,San Diego State,MWC,Tom Craft,H,San Jose State,WAC,Dick Tomey,W,52,21,25,33,303,5,57,210,1,14,10,13,87,2,0
-2005-10-01,San Diego State,MWC,Tom Craft,H,Brigham Young,MWC,Bronco Mendenhall,W,31,10,21,31,243,0,55,265,4,14,12,3,26,1,0
+2005-10-01,San Diego State,MWC,Tom Craft,H,BYU,MWC,Bronco Mendenhall,W,31,10,21,31,243,0,55,265,4,14,12,3,26,1,0
 2005-10-08,San Diego State,MWC,Tom Craft,A,Nevada-Las Vegas,MWC,Mike Sanford,L,10,13,14,28,106,0,35,34,0,5,4,5,42,1,3
 2005-10-15,San Diego State,MWC,Tom Craft,A,Utah,MWC,Kyle Whittingham,W,28,19,17,23,219,3,34,166,1,11,5,2,10,0,0
 2005-10-22,San Diego State,MWC,Tom Craft,H,New Mexico,MWC,Rocky Long,L,24,47,15,35,197,2,25,94,0,9,5,5,46,0,3
@@ -584,7 +584,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-09-17,New Mexico,MWC,Rocky Long,H,New Mexico State,WAC,Hal Mumme,W,38,21,14,22,170,2,52,314,3,6,15,9,59,0,1
 2005-09-24,New Mexico,MWC,Rocky Long,A,UTEP,CUSA,Mike Price,L,13,21,15,25,136,0,43,149,1,6,10,4,22,0,1
 2005-10-01,New Mexico,MWC,Rocky Long,A,Texas Christian,MWC,Gary Patterson,L,28,49,25,44,245,2,45,175,2,13,8,7,50,2,4
-2005-10-08,New Mexico,MWC,Rocky Long,H,Brigham Young,MWC,Bronco Mendenhall,L,24,27,18,28,218,0,45,244,3,10,12,9,72,1,0
+2005-10-08,New Mexico,MWC,Rocky Long,H,BYU,MWC,Bronco Mendenhall,L,24,27,18,28,218,0,45,244,3,10,12,9,72,1,0
 2005-10-15,New Mexico,MWC,Rocky Long,A,Wyoming,MWC,Joe Glenn,W,27,24,13,22,118,0,66,237,3,8,15,11,81,2,0
 2005-10-22,New Mexico,MWC,Rocky Long,A,San Diego State,MWC,Tom Craft,W,47,24,21,32,248,3,63,286,3,14,16,7,71,1,1
 2005-10-28,New Mexico,MWC,Rocky Long,H,Colorado State,MWC,Sonny Lubick,L,25,35,14,23,160,1,39,191,2,6,10,6,49,2,2
@@ -596,7 +596,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-09-24,Notre Dame,Ind,Charlie Weis,A,Washington,Pac-10,Tyrone Willingham,W,36,17,25,37,327,1,47,233,3,16,13,6,60,0,0
 2005-10-01,Notre Dame,Ind,Charlie Weis,A,Purdue,Big Ten,Joe Tiller,W,49,28,30,39,468,3,50,153,4,24,8,5,40,0,2
 2005-10-15,Notre Dame,Ind,Charlie Weis,H,USC,Pac-10,Pete Carroll,L,31,34,19,35,264,1,52,153,2,12,12,6,62,1,1
-2005-10-22,Notre Dame,Ind,Charlie Weis,H,Brigham Young,MWC,Bronco Mendenhall,W,49,23,32,41,467,6,23,44,0,20,3,11,77,2,0
+2005-10-22,Notre Dame,Ind,Charlie Weis,H,BYU,MWC,Bronco Mendenhall,W,49,23,32,41,467,6,23,44,0,20,3,11,77,2,0
 2005-11-05,Notre Dame,Ind,Charlie Weis,H,Tennessee,SEC,Phillip Fulmer,W,41,21,20,33,295,3,34,48,0,8,6,8,78,1,0
 2005-11-12,Notre Dame,Ind,Charlie Weis,H,Navy,Ind,Paul Johnson,W,42,21,22,31,284,4,39,221,2,15,13,4,35,0,1
 2005-11-19,Notre Dame,Ind,Charlie Weis,H,Syracuse,Big East,Greg Robinson,W,34,10,22,38,286,2,36,134,1,10,9,4,50,0,0
@@ -702,19 +702,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-10-15,Wyoming,MWC,Joe Glenn,H,New Mexico,MWC,Rocky Long,L,24,27,19,35,214,1,19,93,1,9,3,5,48,0,2
 2005-10-22,Wyoming,MWC,Joe Glenn,A,Colorado State,MWC,Sonny Lubick,L,31,39,25,39,312,4,30,155,0,13,10,2,15,3,2
 2005-11-05,Wyoming,MWC,Joe Glenn,A,Utah,MWC,Kyle Whittingham,L,13,43,15,30,133,1,32,146,0,6,8,5,39,2,1
-2005-11-12,Wyoming,MWC,Joe Glenn,H,Brigham Young,MWC,Bronco Mendenhall,L,21,35,20,25,241,1,33,166,2,13,6,8,80,3,2
+2005-11-12,Wyoming,MWC,Joe Glenn,H,BYU,MWC,Bronco Mendenhall,L,21,35,20,25,241,1,33,166,2,13,6,8,80,3,2
 2005-11-19,Wyoming,MWC,Joe Glenn,A,San Diego State,MWC,Tom Craft,L,21,34,37,55,346,0,28,51,3,13,5,12,115,0,3
-2005-09-03,Brigham Young,MWC,Bronco Mendenhall,H,Boston College,ACC,Tom O'Brien,L,3,20,41,60,330,0,16,8,0,17,3,10,85,0,0
-2005-09-24,Brigham Young,MWC,Bronco Mendenhall,H,Texas Christian,MWC,Gary Patterson,L,50,51,30,51,517,5,39,97,1,19,8,10,66,1,2
-2005-10-01,Brigham Young,MWC,Bronco Mendenhall,A,San Diego State,MWC,Tom Craft,L,10,31,25,49,261,0,19,44,1,9,4,6,51,1,2
-2005-10-08,Brigham Young,MWC,Bronco Mendenhall,A,New Mexico,MWC,Rocky Long,W,27,24,34,44,371,3,30,93,1,18,7,7,84,0,1
-2005-10-15,Brigham Young,MWC,Bronco Mendenhall,H,Colorado State,MWC,Sonny Lubick,W,24,14,13,18,168,1,52,274,2,7,16,6,55,1,1
-2005-10-22,Brigham Young,MWC,Bronco Mendenhall,A,Notre Dame,Ind,Charlie Weis,L,23,49,26,45,317,2,34,75,1,17,7,9,80,0,2
-2005-10-29,Brigham Young,MWC,Bronco Mendenhall,H,Air Force,MWC,Fisher DeBerry,W,62,41,31,43,383,3,42,300,5,20,18,11,115,1,1
-2005-11-05,Brigham Young,MWC,Bronco Mendenhall,A,Nevada-Las Vegas,MWC,Mike Sanford,W,55,14,24,35,279,3,46,224,4,15,11,6,50,0,0
-2005-11-12,Brigham Young,MWC,Bronco Mendenhall,A,Wyoming,MWC,Joe Glenn,W,35,21,20,29,179,2,50,267,3,9,14,7,65,0,0
-2005-11-19,Brigham Young,MWC,Bronco Mendenhall,H,Utah,MWC,Kyle Whittingham,L,34,41,27,48,309,2,31,176,2,14,5,9,74,1,0
-2005-12-22,Brigham Young,MWC,Bronco Mendenhall,N,California,Pac-10,Jeff Tedford,L,28,35,35,53,352,3,27,94,1,18,6,12,103,0,2
+2005-09-03,BYU,MWC,Bronco Mendenhall,H,Boston College,ACC,Tom O'Brien,L,3,20,41,60,330,0,16,8,0,17,3,10,85,0,0
+2005-09-24,BYU,MWC,Bronco Mendenhall,H,Texas Christian,MWC,Gary Patterson,L,50,51,30,51,517,5,39,97,1,19,8,10,66,1,2
+2005-10-01,BYU,MWC,Bronco Mendenhall,A,San Diego State,MWC,Tom Craft,L,10,31,25,49,261,0,19,44,1,9,4,6,51,1,2
+2005-10-08,BYU,MWC,Bronco Mendenhall,A,New Mexico,MWC,Rocky Long,W,27,24,34,44,371,3,30,93,1,18,7,7,84,0,1
+2005-10-15,BYU,MWC,Bronco Mendenhall,H,Colorado State,MWC,Sonny Lubick,W,24,14,13,18,168,1,52,274,2,7,16,6,55,1,1
+2005-10-22,BYU,MWC,Bronco Mendenhall,A,Notre Dame,Ind,Charlie Weis,L,23,49,26,45,317,2,34,75,1,17,7,9,80,0,2
+2005-10-29,BYU,MWC,Bronco Mendenhall,H,Air Force,MWC,Fisher DeBerry,W,62,41,31,43,383,3,42,300,5,20,18,11,115,1,1
+2005-11-05,BYU,MWC,Bronco Mendenhall,A,Nevada-Las Vegas,MWC,Mike Sanford,W,55,14,24,35,279,3,46,224,4,15,11,6,50,0,0
+2005-11-12,BYU,MWC,Bronco Mendenhall,A,Wyoming,MWC,Joe Glenn,W,35,21,20,29,179,2,50,267,3,9,14,7,65,0,0
+2005-11-19,BYU,MWC,Bronco Mendenhall,H,Utah,MWC,Kyle Whittingham,L,34,41,27,48,309,2,31,176,2,14,5,9,74,1,0
+2005-12-22,BYU,MWC,Bronco Mendenhall,N,California,Pac-10,Jeff Tedford,L,28,35,35,53,352,3,27,94,1,18,6,12,103,0,2
 2005-09-03,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Kansas,Big 12,Mark Mangino,L,19,30,20,28,299,3,37,70,0,8,8,10,66,1,0
 2005-09-08,Florida Atlantic,Sun Belt,Howard Schnellenberger,H,Oklahoma State,Big 12,Mike Gundy,L,3,23,7,16,91,0,41,129,0,4,9,8,53,4,0
 2005-09-17,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Minnesota,Big Ten,Glen Mason,L,7,46,13,30,154,0,39,92,1,10,3,9,79,0,1
@@ -778,7 +778,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-10-08,Nevada-Las Vegas,MWC,Mike Sanford,H,San Diego State,MWC,Tom Craft,W,13,10,8,18,88,0,49,153,1,4,8,5,35,1,2
 2005-10-15,Nevada-Las Vegas,MWC,Mike Sanford,A,Air Force,MWC,Fisher DeBerry,L,7,42,19,26,215,1,25,2,0,7,5,13,88,1,2
 2005-10-22,Nevada-Las Vegas,MWC,Mike Sanford,H,Utah,MWC,Kyle Whittingham,L,32,42,30,56,371,3,39,117,1,19,3,10,70,0,2
-2005-11-05,Nevada-Las Vegas,MWC,Mike Sanford,H,Brigham Young,MWC,Bronco Mendenhall,L,14,55,31,53,329,1,20,2,1,15,3,10,81,0,3
+2005-11-05,Nevada-Las Vegas,MWC,Mike Sanford,H,BYU,MWC,Bronco Mendenhall,L,14,55,31,53,329,1,20,2,1,15,3,10,81,0,3
 2005-11-12,Nevada-Las Vegas,MWC,Mike Sanford,A,Texas Christian,MWC,Gary Patterson,L,3,51,12,31,152,0,25,5,0,5,1,2,29,1,1
 2005-11-19,Nevada-Las Vegas,MWC,Mike Sanford,H,Colorado State,MWC,Sonny Lubick,L,27,31,16,28,167,1,41,190,2,7,13,8,54,0,1
 2005-09-03,South Florida,Big East,Jim Leavitt,A,Penn State,Big Ten,Joe Paterno,L,13,23,21,39,200,2,36,97,0,12,4,7,65,1,1
@@ -974,7 +974,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-09-03,Texas Christian,MWC,Gary Patterson,A,Oklahoma,Big 12,Bob Stoops,W,17,10,24,45,226,1,35,58,1,11,5,12,62,1,1
 2005-09-10,Texas Christian,MWC,Gary Patterson,A,SMU,CUSA,Phil Bennett,L,10,21,16,36,134,0,32,119,0,7,8,7,81,1,3
 2005-09-15,Texas Christian,MWC,Gary Patterson,H,Utah,MWC,Kyle Whittingham,W,23,20,8,17,88,1,46,228,2,3,11,5,30,1,0
-2005-09-24,Texas Christian,MWC,Gary Patterson,A,Brigham Young,MWC,Bronco Mendenhall,W,51,50,24,50,348,2,37,127,3,16,7,11,92,0,0
+2005-09-24,Texas Christian,MWC,Gary Patterson,A,BYU,MWC,Bronco Mendenhall,W,51,50,24,50,348,2,37,127,3,16,7,11,92,0,0
 2005-10-01,Texas Christian,MWC,Gary Patterson,H,New Mexico,MWC,Rocky Long,W,49,28,16,28,192,2,34,272,5,4,8,9,83,1,0
 2005-10-08,Texas Christian,MWC,Gary Patterson,A,Wyoming,MWC,Joe Glenn,W,28,14,9,24,112,1,53,145,1,4,11,10,84,0,2
 2005-10-15,Texas Christian,MWC,Gary Patterson,H,Army,Ind,Bobby Ross,W,38,17,22,30,219,2,48,184,3,11,15,9,100,0,1
@@ -991,7 +991,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-10-08,Air Force,MWC,Fisher DeBerry,A,Navy,Ind,Paul Johnson,L,24,27,6,9,111,2,49,195,1,3,11,4,30,0,1
 2005-10-15,Air Force,MWC,Fisher DeBerry,H,Nevada-Las Vegas,MWC,Mike Sanford,W,42,7,10,12,96,0,64,316,6,7,20,5,45,3,0
 2005-10-22,Air Force,MWC,Fisher DeBerry,H,Texas Christian,MWC,Gary Patterson,L,10,48,11,22,148,0,55,239,1,9,14,8,90,0,2
-2005-10-29,Air Force,MWC,Fisher DeBerry,A,Brigham Young,MWC,Bronco Mendenhall,L,41,62,17,31,279,5,38,200,0,9,8,5,64,2,3
+2005-10-29,Air Force,MWC,Fisher DeBerry,A,BYU,MWC,Bronco Mendenhall,L,41,62,17,31,279,5,38,200,0,9,8,5,64,2,3
 2005-11-05,Air Force,MWC,Fisher DeBerry,H,Army,Ind,Bobby Ross,L,24,27,17,23,203,1,47,230,2,7,13,6,55,2,0
 2005-11-19,Air Force,MWC,Fisher DeBerry,A,New Mexico,MWC,Rocky Long,W,42,24,11,15,186,1,59,278,4,10,11,4,41,0,0
 2005-09-05,Miami (FL),ACC,Larry Coker,A,Florida State,ACC,Bobby Bowden,L,7,10,16,28,232,1,44,81,0,12,6,7,75,1,2
@@ -1111,7 +1111,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-09-24,Colorado State,MWC,Sonny Lubick,H,Nevada,WAC,Chris Ault,W,42,21,15,27,223,3,43,257,3,10,14,6,48,1,0
 2005-09-29,Colorado State,MWC,Sonny Lubick,H,Air Force,MWC,Fisher DeBerry,W,41,23,18,29,338,3,42,213,3,14,9,5,35,1,1
 2005-10-08,Colorado State,MWC,Sonny Lubick,H,Utah,MWC,Kyle Whittingham,W,21,17,18,26,226,2,30,151,1,12,6,4,29,0,1
-2005-10-15,Colorado State,MWC,Sonny Lubick,A,Brigham Young,MWC,Bronco Mendenhall,L,14,24,22,30,281,2,21,30,0,10,4,8,50,1,0
+2005-10-15,Colorado State,MWC,Sonny Lubick,A,BYU,MWC,Bronco Mendenhall,L,14,24,22,30,281,2,21,30,0,10,4,8,50,1,0
 2005-10-22,Colorado State,MWC,Sonny Lubick,H,Wyoming,MWC,Joe Glenn,W,39,31,20,37,419,4,42,102,0,13,7,6,60,0,1
 2005-10-28,Colorado State,MWC,Sonny Lubick,A,New Mexico,MWC,Rocky Long,W,35,25,20,26,312,2,41,31,1,14,4,2,12,0,0
 2005-11-05,Colorado State,MWC,Sonny Lubick,A,Texas Christian,MWC,Gary Patterson,L,6,33,22,39,194,0,30,59,0,11,4,5,45,0,4
@@ -1150,7 +1150,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2005-11-05,Michigan State,Big Ten,John Smith,A,Purdue,Big Ten,Joe Tiller,L,21,28,22,31,248,1,33,103,1,10,9,8,55,0,1
 2005-11-12,Michigan State,Big Ten,John Smith,A,Minnesota,Big Ten,Glen Mason,L,18,41,29,46,312,2,21,145,0,14,9,8,47,0,0
 2005-11-19,Michigan State,Big Ten,John Smith,H,Penn State,Big Ten,Joe Paterno,L,22,31,23,36,233,1,42,168,2,12,10,7,55,0,4
-2005-09-03,Boston College,ACC,Tom O'Brien,A,Brigham Young,MWC,Bronco Mendenhall,W,20,3,27,35,232,2,31,133,0,11,10,6,57,1,0
+2005-09-03,Boston College,ACC,Tom O'Brien,A,BYU,MWC,Bronco Mendenhall,W,20,3,27,35,232,2,31,133,0,11,10,6,57,1,0
 2005-09-10,Boston College,ACC,Tom O'Brien,H,Army,Ind,Bobby Ross,W,44,7,22,28,289,2,41,175,4,11,12,7,52,0,0
 2005-09-17,Boston College,ACC,Tom O'Brien,H,Florida State,ACC,Bobby Bowden,L,17,28,27,42,240,1,48,140,1,14,8,5,35,0,2
 2005-09-24,Boston College,ACC,Tom O'Brien,A,Clemson,ACC,Tommy Bowden,W,16,13,24,44,221,0,46,164,2,16,7,11,76,0,2

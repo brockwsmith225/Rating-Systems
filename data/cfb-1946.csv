@@ -53,7 +53,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-11-28,Furman,Southern,Robert Smith,A,Davidson,Southern,William Story,L,7,13
 1946-09-28,Utah,MSAC,Ike Armstrong,H,New Mexico,BIAA,Willis Barnes,W,56,14
 1946-10-05,Utah,MSAC,Ike Armstrong,H,Arizona,BIAA,Miles Casteel,W,14,7
-1946-10-12,Utah,MSAC,Ike Armstrong,A,Brigham Young,MSAC,Edwin Kimball,W,35,6
+1946-10-12,Utah,MSAC,Ike Armstrong,A,BYU,MSAC,Edwin Kimball,W,35,6
 1946-10-19,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,L,14,20
 1946-10-26,Utah,MSAC,Ike Armstrong,H,Wyoming,MSAC,Bunny Oakes,W,27,7
 1946-11-02,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Jim Yeager,W,7,0
@@ -332,7 +332,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-10-12,Utah State,MSAC,E. Lowell Romney,H,Montana State,Ind,Clyde Carpenter,W,28,14
 1946-10-19,Utah State,MSAC,E. Lowell Romney,H,Colorado State,MSAC,Julius Wagner,W,48,0
 1946-10-26,Utah State,MSAC,E. Lowell Romney,A,Montana,PCC,Doug Fessenden,W,26,0
-1946-11-09,Utah State,MSAC,E. Lowell Romney,H,Brigham Young,MSAC,Edwin Kimball,T,0,0
+1946-11-09,Utah State,MSAC,E. Lowell Romney,H,BYU,MSAC,Edwin Kimball,T,0,0
 1946-11-16,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Bunny Oakes,W,21,7
 1946-11-28,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,W,22,14
 1946-12-07,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Cac Hubbard,W,28,14
@@ -346,7 +346,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-11-09,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Jim Yeager,W,21,0
 1946-11-16,Missouri,Big 6,Don Faurot,A,Oklahoma,Big 6,Jim Tatum,L,6,27
 1946-11-28,Missouri,Big 6,Don Faurot,H,Kansas,Big 6,George Sauer,L,19,20
-1946-09-28,Montana State,Ind,Clyde Carpenter,H,Brigham Young,MSAC,Edwin Kimball,W,13,12
+1946-09-28,Montana State,Ind,Clyde Carpenter,H,BYU,MSAC,Edwin Kimball,W,13,12
 1946-10-12,Montana State,Ind,Clyde Carpenter,A,Utah State,MSAC,E. Lowell Romney,L,14,28
 1946-10-19,Montana State,Ind,Clyde Carpenter,N,Montana,PCC,Doug Fessenden,L,7,20
 1946-11-02,Montana State,Ind,Clyde Carpenter,A,Nevada,Ind,Jim Aiken,L,14,38
@@ -362,7 +362,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-01-04,Hardin-Simmons,BIAA,Warren Woodson,N,Denver,MSAC,Cac Hubbard,W,20,0
 1946-09-21,Denver,MSAC,Cac Hubbard,A,Oklahoma State,MVC,Jim Lookabaugh,L,7,40
 1946-09-27,Denver,MSAC,Cac Hubbard,H,Kansas,Big 6,George Sauer,L,13,21
-1946-10-04,Denver,MSAC,Cac Hubbard,H,Brigham Young,MSAC,Edwin Kimball,W,26,13
+1946-10-04,Denver,MSAC,Cac Hubbard,H,BYU,MSAC,Edwin Kimball,W,26,13
 1946-10-12,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Julius Wagner,W,33,0
 1946-10-19,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,W,20,14
 1946-10-26,Denver,MSAC,Cac Hubbard,A,Texas Tech,BIAA,Dell Morgan,L,6,21
@@ -502,18 +502,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-10-12,Wyoming,MSAC,Bunny Oakes,H,Colorado,MSAC,Jim Yeager,L,0,20
 1946-10-19,Wyoming,MSAC,Bunny Oakes,A,Minnesota,Western,Bernie Bierman,L,0,46
 1946-10-26,Wyoming,MSAC,Bunny Oakes,A,Utah,MSAC,Ike Armstrong,L,7,27
-1946-11-02,Wyoming,MSAC,Bunny Oakes,A,Brigham Young,MSAC,Edwin Kimball,L,3,6
+1946-11-02,Wyoming,MSAC,Bunny Oakes,A,BYU,MSAC,Edwin Kimball,L,3,6
 1946-11-09,Wyoming,MSAC,Bunny Oakes,H,Denver,MSAC,Cac Hubbard,L,6,19
 1946-11-16,Wyoming,MSAC,Bunny Oakes,A,Utah State,MSAC,E. Lowell Romney,L,7,21
 1946-11-24,Wyoming,MSAC,Bunny Oakes,A,San Francisco,Ind,Maurice Smith,L,7,39
-1946-09-28,Brigham Young,MSAC,Edwin Kimball,A,Montana State,Ind,Clyde Carpenter,L,12,13
-1946-10-04,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,L,13,26
-1946-10-12,Brigham Young,MSAC,Edwin Kimball,H,Utah,MSAC,Ike Armstrong,L,6,35
-1946-10-19,Brigham Young,MSAC,Edwin Kimball,H,Colorado,MSAC,Jim Yeager,W,10,7
-1946-11-02,Brigham Young,MSAC,Edwin Kimball,H,Wyoming,MSAC,Bunny Oakes,W,6,3
-1946-11-09,Brigham Young,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,T,0,0
-1946-11-16,Brigham Young,MSAC,Edwin Kimball,A,Colorado State,MSAC,Julius Wagner,W,20,6
-1946-11-22,Brigham Young,MSAC,Edwin Kimball,A,UTEP,BIAA,Jack Curtice,W,14,13
+1946-09-28,BYU,MSAC,Edwin Kimball,A,Montana State,Ind,Clyde Carpenter,L,12,13
+1946-10-04,BYU,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,L,13,26
+1946-10-12,BYU,MSAC,Edwin Kimball,H,Utah,MSAC,Ike Armstrong,L,6,35
+1946-10-19,BYU,MSAC,Edwin Kimball,H,Colorado,MSAC,Jim Yeager,W,10,7
+1946-11-02,BYU,MSAC,Edwin Kimball,H,Wyoming,MSAC,Bunny Oakes,W,6,3
+1946-11-09,BYU,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,T,0,0
+1946-11-16,BYU,MSAC,Edwin Kimball,A,Colorado State,MSAC,Julius Wagner,W,20,6
+1946-11-22,BYU,MSAC,Edwin Kimball,A,UTEP,BIAA,Jack Curtice,W,14,13
 1946-09-28,Yale,Ind,Howard Odell,H,Merchant Marine,Ind,Bill Reinhart,W,33,0
 1946-10-05,Yale,Ind,Howard Odell,H,Colgate,Ind,Andrew Kerr,W,27,6
 1946-10-12,Yale,Ind,Howard Odell,H,Columbia,Ind,Lou Little,L,20,28
@@ -661,7 +661,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-11-02,UTEP,BIAA,Jack Curtice,A,New Mexico,BIAA,Willis Barnes,L,13,21
 1946-11-09,UTEP,BIAA,Jack Curtice,A,Arizona State,BIAA,Steve Coutchie,W,34,20
 1946-11-16,UTEP,BIAA,Jack Curtice,H,Hardin-Simmons,BIAA,Warren Woodson,L,7,20
-1946-11-22,UTEP,BIAA,Jack Curtice,H,Brigham Young,MSAC,Edwin Kimball,L,13,14
+1946-11-22,UTEP,BIAA,Jack Curtice,H,BYU,MSAC,Edwin Kimball,L,13,14
 1946-11-28,UTEP,BIAA,Jack Curtice,H,New Mexico State,BIAA,Raymond Curfman,L,7,14
 1946-09-28,LSU,SEC,Bernie Moore,A,Rice,SWC,Jess Neely,W,7,6
 1946-10-05,LSU,SEC,Bernie Moore,H,Mississippi State,SEC,Allyn McKeen,W,13,6
@@ -839,7 +839,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-09-28,Colorado,MSAC,Jim Yeager,A,Texas,SWC,Dana Bible,L,0,76
 1946-10-05,Colorado,MSAC,Jim Yeager,H,Utah State,MSAC,E. Lowell Romney,W,6,0
 1946-10-12,Colorado,MSAC,Jim Yeager,A,Wyoming,MSAC,Bunny Oakes,W,20,0
-1946-10-19,Colorado,MSAC,Jim Yeager,A,Brigham Young,MSAC,Edwin Kimball,L,7,10
+1946-10-19,Colorado,MSAC,Jim Yeager,A,BYU,MSAC,Edwin Kimball,L,7,10
 1946-10-26,Colorado,MSAC,Jim Yeager,H,New Mexico,BIAA,Willis Barnes,W,14,13
 1946-11-02,Colorado,MSAC,Jim Yeager,A,Utah,MSAC,Ike Armstrong,L,0,7
 1946-11-09,Colorado,MSAC,Jim Yeager,A,Missouri,Big 6,Don Faurot,L,0,21
@@ -850,7 +850,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1946-10-12,Colorado State,MSAC,Julius Wagner,A,Denver,MSAC,Cac Hubbard,L,0,33
 1946-10-19,Colorado State,MSAC,Julius Wagner,A,Utah State,MSAC,E. Lowell Romney,L,0,48
 1946-11-09,Colorado State,MSAC,Julius Wagner,H,Utah,MSAC,Ike Armstrong,L,0,13
-1946-11-16,Colorado State,MSAC,Julius Wagner,H,Brigham Young,MSAC,Edwin Kimball,L,6,20
+1946-11-16,Colorado State,MSAC,Julius Wagner,H,BYU,MSAC,Edwin Kimball,L,6,20
 1946-11-28,Colorado State,MSAC,Julius Wagner,A,Colorado,MSAC,Jim Yeager,L,0,18
 1946-09-28,Rice,SWC,Jess Neely,H,LSU,SEC,Bernie Moore,L,6,7
 1946-10-12,Rice,SWC,Jess Neely,A,Tulane,SEC,Henry Frnka,W,25,6

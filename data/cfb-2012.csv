@@ -88,7 +88,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-11-23,Arizona State,Pac-12,Todd Graham,A,Arizona,Pac-12,Rich Rodriguez,W,41,34,16,29,191,0,55,269,5,11,12,7,86,2,0
 2012-12-29,Arizona State,Pac-12,Todd Graham,N,Navy,Ind,Ken Niumatalolo,W,62,28,17,20,267,4,48,381,5,12,21,2,25,1,0
 2012-09-07,Utah,Pac-12,Kyle Whittingham,A,Utah State,WAC,Gary Andersen,L,20,27,19,39,229,2,42,96,0,9,7,10,87,1,0
-2012-09-15,Utah,Pac-12,Kyle Whittingham,H,Brigham Young,Ind,Bronco Mendenhall,W,24,21,18,27,196,2,35,49,0,10,3,10,112,0,0
+2012-09-15,Utah,Pac-12,Kyle Whittingham,H,BYU,Ind,Bronco Mendenhall,W,24,21,18,27,196,2,35,49,0,10,3,10,112,0,0
 2012-09-22,Utah,Pac-12,Kyle Whittingham,A,Arizona State,Pac-12,Todd Graham,L,7,37,11,16,117,1,38,92,0,4,5,6,53,2,1
 2012-10-04,Utah,Pac-12,Kyle Whittingham,H,USC,Pac-12,Lane Kiffin,L,28,38,23,38,209,2,22,95,1,9,5,13,122,1,1
 2012-10-13,Utah,Pac-12,Kyle Whittingham,A,UCLA,Pac-12,Jim Mora,L,14,21,25,35,244,1,27,75,0,10,5,4,30,0,1
@@ -229,7 +229,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-11-17,Texas State,WAC,Dennis Franchione,A,Navy,Ind,Ken Niumatalolo,L,10,21,25,42,290,1,32,115,0,11,5,3,25,1,0
 2012-11-24,Texas State,WAC,Dennis Franchione,A,UTSA,WAC,Larry Coker,L,31,38,31,43,324,2,32,68,2,16,5,3,30,2,0
 2012-12-01,Texas State,WAC,Dennis Franchione,H,New Mexico State,WAC,DeWayne Walker,W,66,28,9,19,82,1,40,446,5,5,17,10,90,0,0
-2012-08-30,Washington State,Pac-12,Mike Leach,A,Brigham Young,Ind,Bronco Mendenhall,L,6,30,30,45,229,0,16,-5,0,11,1,8,73,0,2
+2012-08-30,Washington State,Pac-12,Mike Leach,A,BYU,Ind,Bronco Mendenhall,L,6,30,30,45,229,0,16,-5,0,11,1,8,73,0,2
 2012-09-14,Washington State,Pac-12,Mike Leach,A,Nevada-Las Vegas,MWC,Bobby Hauck,W,35,27,26,45,378,4,21,83,1,11,4,12,123,0,2
 2012-09-22,Washington State,Pac-12,Mike Leach,H,Colorado,Pac-12,Jon Embree,L,34,35,32,60,401,4,22,50,0,19,4,8,63,1,2
 2012-09-29,Washington State,Pac-12,Mike Leach,H,Oregon,Pac-12,Chip Kelly,L,26,51,37,64,410,2,21,-8,1,19,3,7,66,1,1
@@ -341,7 +341,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-10-13,Idaho,WAC,Jason Gesser,A,Texas State,WAC,Dennis Franchione,L,7,38,19,34,211,0,24,104,1,8,7,7,73,1,2
 2012-10-20,Idaho,WAC,Jason Gesser,A,Louisiana Tech,WAC,Sonny Dykes,L,28,70,21,36,257,2,23,47,1,9,2,5,35,2,2
 2012-11-03,Idaho,WAC,Jason Gesser,H,San Jose State,WAC,Kent Baer,L,13,42,17,37,207,1,37,81,0,6,6,3,35,1,1
-2012-11-10,Idaho,WAC,Jason Gesser,A,Brigham Young,Ind,Bronco Mendenhall,L,13,52,20,38,212,1,23,61,0,10,4,5,52,3,2
+2012-11-10,Idaho,WAC,Jason Gesser,A,BYU,Ind,Bronco Mendenhall,L,13,52,20,38,212,1,23,61,0,10,4,5,52,3,2
 2012-11-17,Idaho,WAC,Jason Gesser,H,UTSA,WAC,Larry Coker,L,27,34,25,40,342,3,27,127,0,14,5,12,100,2,1
 2012-11-24,Idaho,WAC,Jason Gesser,A,Utah State,WAC,Gary Andersen,L,9,45,12,26,52,0,47,158,0,3,10,7,86,1,3
 2012-09-01,Oklahoma,Big 12,Bob Stoops,A,UTEP,CUSA,Mike Price,W,24,7,21,36,222,2,37,205,1,10,9,7,55,0,0
@@ -468,7 +468,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-09-15,Utah State,WAC,Gary Andersen,A,Wisconsin,Big Ten,Barry Alvarez,L,14,16,18,35,181,2,35,127,0,6,7,7,70,0,0
 2012-09-22,Utah State,WAC,Gary Andersen,A,Colorado State,MWC,Jim McElwain,W,31,19,23,30,178,1,41,262,3,10,12,5,68,1,2
 2012-09-29,Utah State,WAC,Gary Andersen,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,35,13,22,35,426,4,35,138,0,16,4,9,123,1,1
-2012-10-05,Utah State,WAC,Gary Andersen,A,Brigham Young,Ind,Bronco Mendenhall,L,3,6,22,39,202,0,24,41,0,13,3,7,44,1,1
+2012-10-05,Utah State,WAC,Gary Andersen,A,BYU,Ind,Bronco Mendenhall,L,3,6,22,39,202,0,24,41,0,13,3,7,44,1,1
 2012-10-13,Utah State,WAC,Gary Andersen,A,San Jose State,WAC,Kent Baer,W,49,27,26,35,273,3,24,212,4,12,5,5,45,1,0
 2012-10-20,Utah State,WAC,Gary Andersen,H,New Mexico State,WAC,DeWayne Walker,W,41,7,17,27,260,2,36,256,3,10,10,8,76,0,0
 2012-10-27,Utah State,WAC,Gary Andersen,A,UTSA,WAC,Larry Coker,W,48,17,32,42,394,3,37,128,3,17,5,5,51,1,1
@@ -496,7 +496,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-10-27,San Jose State,WAC,Kent Baer,H,Texas State,WAC,Dennis Franchione,W,31,20,26,38,376,2,38,195,2,19,7,2,17,1,2
 2012-11-03,San Jose State,WAC,Kent Baer,A,Idaho,WAC,Jason Gesser,W,42,13,27,39,328,4,29,85,1,16,3,1,5,3,1
 2012-11-10,San Jose State,WAC,Kent Baer,A,New Mexico State,WAC,DeWayne Walker,W,47,7,15,26,301,4,35,203,1,10,8,8,79,0,1
-2012-11-17,San Jose State,WAC,Kent Baer,H,Brigham Young,Ind,Bronco Mendenhall,W,20,14,25,34,305,3,32,59,0,15,2,5,52,0,1
+2012-11-17,San Jose State,WAC,Kent Baer,H,BYU,Ind,Bronco Mendenhall,W,20,14,25,34,305,3,32,59,0,15,2,5,52,0,1
 2012-11-24,San Jose State,WAC,Kent Baer,H,Louisiana Tech,WAC,Sonny Dykes,W,52,43,25,37,367,3,41,243,4,17,10,8,78,1,1
 2012-12-27,San Jose State,WAC,Kent Baer,N,Bowling Green State,MAC,Dave Clawson,W,29,20,33,43,395,2,23,-15,1,17,1,4,30,1,0
 2012-09-01,Bowling Green State,MAC,Dave Clawson,A,Florida,SEC,Will Muschamp,L,14,27,25,52,226,0,27,101,2,12,8,3,25,1,1
@@ -572,10 +572,10 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-11-03,San Diego State,MWC,Rocky Long,A,Boise State,MWC,Chris Petersen,W,21,19,12,18,105,0,43,164,2,5,7,10,61,0,1
 2012-11-10,San Diego State,MWC,Rocky Long,H,Air Force,MWC,Troy Calhoun,W,28,9,11,18,90,1,41,178,2,5,10,1,15,1,1
 2012-11-24,San Diego State,MWC,Rocky Long,A,Wyoming,MWC,Dave Christensen,W,42,28,19,24,164,2,48,400,4,10,18,8,65,2,1
-2012-12-20,San Diego State,MWC,Rocky Long,H,Brigham Young,Ind,Bronco Mendenhall,L,6,23,12,29,144,0,39,119,0,7,5,5,45,2,3
+2012-12-20,San Diego State,MWC,Rocky Long,H,BYU,Ind,Bronco Mendenhall,L,6,23,12,29,144,0,39,119,0,7,5,5,45,2,3
 2012-09-01,Hawaii,MWC,Norm Chow,A,USC,Pac-12,Lane Kiffin,L,10,49,24,39,208,1,32,56,0,9,7,9,83,2,2
 2012-09-22,Hawaii,MWC,Norm Chow,H,Nevada,MWC,Chris Ault,L,24,69,22,40,234,2,34,144,1,11,8,6,45,0,2
-2012-09-28,Hawaii,MWC,Norm Chow,A,Brigham Young,Ind,Bronco Mendenhall,L,0,47,12,27,108,0,27,41,0,5,2,7,75,2,1
+2012-09-28,Hawaii,MWC,Norm Chow,A,BYU,Ind,Bronco Mendenhall,L,0,47,12,27,108,0,27,41,0,5,2,7,75,2,1
 2012-10-06,Hawaii,MWC,Norm Chow,A,San Diego State,MWC,Rocky Long,L,14,52,14,28,112,1,30,61,1,6,4,6,62,3,0
 2012-10-13,Hawaii,MWC,Norm Chow,H,New Mexico,MWC,Bob Davie,L,23,35,20,42,272,1,27,119,1,13,6,5,52,3,0
 2012-10-27,Hawaii,MWC,Norm Chow,A,Colorado State,MWC,Jim McElwain,L,27,42,19,46,200,1,47,193,1,11,9,5,31,2,3
@@ -672,7 +672,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-09-22,Notre Dame,Ind,Brian Kelly,H,Michigan,Big Ten,Brady Hoke,W,13,6,11,19,145,0,31,94,1,6,6,5,49,0,2
 2012-10-06,Notre Dame,Ind,Brian Kelly,H,Miami (FL),ACC,Al Golden,W,41,3,19,26,211,0,51,376,5,12,18,4,25,0,0
 2012-10-13,Notre Dame,Ind,Brian Kelly,H,Stanford,Pac-12,David Shaw,W,20,13,16,28,184,2,44,150,0,8,9,9,70,3,0
-2012-10-20,Notre Dame,Ind,Brian Kelly,H,Brigham Young,Ind,Bronco Mendenhall,W,17,14,8,17,119,1,43,270,1,4,12,5,51,0,1
+2012-10-20,Notre Dame,Ind,Brian Kelly,H,BYU,Ind,Bronco Mendenhall,W,17,14,8,17,119,1,43,270,1,4,12,5,51,0,1
 2012-10-27,Notre Dame,Ind,Brian Kelly,A,Oklahoma,Big 12,Bob Stoops,W,30,13,14,27,188,0,39,215,3,11,7,1,5,0,0
 2012-11-03,Notre Dame,Ind,Brian Kelly,H,Pitt,Big East,Paul Chryst,W,29,26,29,53,291,2,51,231,1,17,15,6,46,1,2
 2012-11-10,Notre Dame,Ind,Brian Kelly,A,Boston College,ACC,Frank Spaziani,W,21,6,17,25,209,2,40,184,1,12,9,8,65,2,0
@@ -742,7 +742,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2013-01-05,Pitt,Big East,Paul Chryst,N,Ole Miss,SEC,Hugh Freeze,L,17,38,16,32,185,2,36,81,0,10,5,3,26,1,1
 2012-08-31,Boise State,MWC,Chris Petersen,A,Michigan State,Big Ten,Mark Dantonio,L,13,17,15,32,169,0,24,37,0,9,2,3,35,1,1
 2012-09-15,Boise State,MWC,Chris Petersen,H,Miami (OH),MAC,Don Treadwell,W,39,12,24,31,304,2,45,295,3,18,15,3,34,1,1
-2012-09-20,Boise State,MWC,Chris Petersen,H,Brigham Young,Ind,Bronco Mendenhall,W,7,6,15,26,145,0,40,116,0,7,4,8,65,0,0
+2012-09-20,Boise State,MWC,Chris Petersen,H,BYU,Ind,Bronco Mendenhall,W,7,6,15,26,145,0,40,116,0,7,4,8,65,0,0
 2012-09-29,Boise State,MWC,Chris Petersen,A,New Mexico,MWC,Bob Davie,W,32,29,24,34,311,3,32,203,1,12,10,5,27,2,0
 2012-10-06,Boise State,MWC,Chris Petersen,A,Southern Mississippi,CUSA,Ellis Johnson,W,40,14,19,30,201,3,33,109,2,9,7,5,56,0,1
 2012-10-13,Boise State,MWC,Chris Petersen,H,Fresno State,MWC,Tim DeRuyter,W,20,10,13,24,120,1,42,215,1,6,11,6,60,0,1
@@ -786,18 +786,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-11-10,Wyoming,MWC,Dave Christensen,A,New Mexico,MWC,Bob Davie,W,28,23,20,32,374,4,28,55,0,13,4,6,70,0,0
 2012-11-17,Wyoming,MWC,Dave Christensen,A,Nevada-Las Vegas,MWC,Bobby Hauck,W,28,23,25,33,412,3,32,95,1,15,4,4,35,0,0
 2012-11-24,Wyoming,MWC,Dave Christensen,H,San Diego State,MWC,Rocky Long,L,28,42,19,36,260,2,36,122,2,8,10,2,25,1,0
-2012-08-30,Brigham Young,Ind,Bronco Mendenhall,H,Washington State,Pac-12,Mike Leach,W,30,6,26,37,303,3,41,123,0,15,9,10,112,0,0
-2012-09-15,Brigham Young,Ind,Bronco Mendenhall,A,Utah,Pac-12,Kyle Whittingham,L,21,24,17,37,206,2,42,106,1,10,10,12,75,1,1
-2012-09-20,Brigham Young,Ind,Bronco Mendenhall,A,Boise State,MWC,Chris Petersen,L,6,7,8,19,61,0,39,139,1,5,7,8,64,2,3
-2012-09-28,Brigham Young,Ind,Bronco Mendenhall,H,Hawaii,MWC,Norm Chow,W,47,0,14,24,144,2,54,396,5,7,20,6,70,0,1
-2012-10-05,Brigham Young,Ind,Bronco Mendenhall,H,Utah State,WAC,Gary Andersen,W,6,3,24,36,235,1,45,145,0,10,10,6,50,0,1
-2012-10-13,Brigham Young,Ind,Bronco Mendenhall,H,Oregon State,Pac-12,Mike Riley,L,24,42,28,51,305,1,33,81,2,15,8,6,60,0,3
-2012-10-20,Brigham Young,Ind,Bronco Mendenhall,A,Notre Dame,Ind,Brian Kelly,L,14,17,23,36,177,2,25,66,0,8,6,4,35,0,2
-2012-10-27,Brigham Young,Ind,Bronco Mendenhall,A,Georgia Tech,ACC,Paul Johnson,W,41,17,20,29,228,1,46,183,4,11,11,7,67,0,1
-2012-11-10,Brigham Young,Ind,Bronco Mendenhall,H,Idaho,WAC,Jason Gesser,W,52,13,25,42,285,4,45,252,2,12,14,4,20,2,0
-2012-11-17,Brigham Young,Ind,Bronco Mendenhall,A,San Jose State,WAC,Kent Baer,L,14,20,28,51,335,1,33,87,1,19,4,4,30,2,1
-2012-11-24,Brigham Young,Ind,Bronco Mendenhall,A,New Mexico State,WAC,DeWayne Walker,W,50,14,34,50,384,6,35,136,1,17,10,4,25,0,0
-2012-12-20,Brigham Young,Ind,Bronco Mendenhall,A,San Diego State,MWC,Rocky Long,W,23,6,23,44,244,0,30,52,1,14,3,3,13,0,3
+2012-08-30,BYU,Ind,Bronco Mendenhall,H,Washington State,Pac-12,Mike Leach,W,30,6,26,37,303,3,41,123,0,15,9,10,112,0,0
+2012-09-15,BYU,Ind,Bronco Mendenhall,A,Utah,Pac-12,Kyle Whittingham,L,21,24,17,37,206,2,42,106,1,10,10,12,75,1,1
+2012-09-20,BYU,Ind,Bronco Mendenhall,A,Boise State,MWC,Chris Petersen,L,6,7,8,19,61,0,39,139,1,5,7,8,64,2,3
+2012-09-28,BYU,Ind,Bronco Mendenhall,H,Hawaii,MWC,Norm Chow,W,47,0,14,24,144,2,54,396,5,7,20,6,70,0,1
+2012-10-05,BYU,Ind,Bronco Mendenhall,H,Utah State,WAC,Gary Andersen,W,6,3,24,36,235,1,45,145,0,10,10,6,50,0,1
+2012-10-13,BYU,Ind,Bronco Mendenhall,H,Oregon State,Pac-12,Mike Riley,L,24,42,28,51,305,1,33,81,2,15,8,6,60,0,3
+2012-10-20,BYU,Ind,Bronco Mendenhall,A,Notre Dame,Ind,Brian Kelly,L,14,17,23,36,177,2,25,66,0,8,6,4,35,0,2
+2012-10-27,BYU,Ind,Bronco Mendenhall,A,Georgia Tech,ACC,Paul Johnson,W,41,17,20,29,228,1,46,183,4,11,11,7,67,0,1
+2012-11-10,BYU,Ind,Bronco Mendenhall,H,Idaho,WAC,Jason Gesser,W,52,13,25,42,285,4,45,252,2,12,14,4,20,2,0
+2012-11-17,BYU,Ind,Bronco Mendenhall,A,San Jose State,WAC,Kent Baer,L,14,20,28,51,335,1,33,87,1,19,4,4,30,2,1
+2012-11-24,BYU,Ind,Bronco Mendenhall,A,New Mexico State,WAC,DeWayne Walker,W,50,14,34,50,384,6,35,136,1,17,10,4,25,0,0
+2012-12-20,BYU,Ind,Bronco Mendenhall,A,San Diego State,MWC,Rocky Long,W,23,6,23,44,244,0,30,52,1,14,3,3,13,0,3
 2012-09-08,Florida Atlantic,Sun Belt,Carl Pelini,A,Middle Tennessee State,Sun Belt,Rick Stockstill,L,17,31,25,32,260,2,28,96,0,13,5,2,26,2,0
 2012-09-15,Florida Atlantic,Sun Belt,Carl Pelini,A,Georgia,SEC,Mark Richt,L,20,56,18,33,183,1,38,135,1,10,4,4,40,1,1
 2012-09-22,Florida Atlantic,Sun Belt,Carl Pelini,A,Alabama,SEC,Nick Saban,L,7,40,7,13,34,1,32,76,0,2,4,4,30,0,0
@@ -815,7 +815,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-09-29,Georgia Tech,ACC,Paul Johnson,H,Middle Tennessee State,Sun Belt,Rick Stockstill,L,28,49,18,26,187,0,53,238,4,8,16,6,60,3,1
 2012-10-06,Georgia Tech,ACC,Paul Johnson,A,Clemson,ACC,Dabo Swinney,L,31,47,9,14,144,1,46,339,3,5,12,2,23,1,0
 2012-10-20,Georgia Tech,ACC,Paul Johnson,H,Boston College,ACC,Frank Spaziani,W,37,17,6,15,172,1,76,391,4,5,24,7,65,0,0
-2012-10-27,Georgia Tech,ACC,Paul Johnson,H,Brigham Young,Ind,Bronco Mendenhall,L,17,41,4,12,40,0,35,117,0,3,6,2,16,0,1
+2012-10-27,Georgia Tech,ACC,Paul Johnson,H,BYU,Ind,Bronco Mendenhall,L,17,41,4,12,40,0,35,117,0,3,6,2,16,0,1
 2012-11-03,Georgia Tech,ACC,Paul Johnson,A,Maryland,ACC,Randy Edsall,W,33,13,2,4,31,0,56,370,5,1,18,3,25,2,0
 2012-11-10,Georgia Tech,ACC,Paul Johnson,A,North Carolina,ACC,Larry Fedora,W,68,50,7,12,208,1,67,380,7,6,21,4,30,0,1
 2012-11-17,Georgia Tech,ACC,Paul Johnson,H,Duke,ACC,David Cutcliffe,W,42,24,8,14,119,3,72,330,3,6,22,6,41,0,0
@@ -1143,7 +1143,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-09-22,Oregon State,Pac-12,Mike Riley,A,UCLA,Pac-12,Jim Mora,W,27,20,24,35,379,2,41,122,1,12,10,9,90,1,1
 2012-09-29,Oregon State,Pac-12,Mike Riley,A,Arizona,Pac-12,Rich Rodriguez,W,38,35,29,45,433,3,43,180,2,18,9,10,94,1,0
 2012-10-06,Oregon State,Pac-12,Mike Riley,H,Washington State,Pac-12,Mike Leach,W,19,6,25,42,270,1,40,100,1,12,9,11,110,0,3
-2012-10-13,Oregon State,Pac-12,Mike Riley,A,Brigham Young,Ind,Bronco Mendenhall,W,42,24,20,32,332,3,28,118,2,12,8,8,60,0,0
+2012-10-13,Oregon State,Pac-12,Mike Riley,A,BYU,Ind,Bronco Mendenhall,W,42,24,20,32,332,3,28,118,2,12,8,8,60,0,0
 2012-10-20,Oregon State,Pac-12,Mike Riley,H,Utah,Pac-12,Kyle Whittingham,W,21,7,16,26,174,0,28,52,3,10,2,5,64,0,0
 2012-10-27,Oregon State,Pac-12,Mike Riley,A,Washington,Pac-12,Steve Sarkisian,L,17,20,25,45,318,2,23,109,0,14,4,6,50,0,4
 2012-11-03,Oregon State,Pac-12,Mike Riley,H,Arizona State,Pac-12,Todd Graham,W,36,26,14,33,267,3,39,157,1,10,8,6,55,1,1
@@ -1292,7 +1292,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2012-10-27,New Mexico State,WAC,DeWayne Walker,H,Louisiana Tech,WAC,Sonny Dykes,L,14,28,18,34,283,2,31,122,0,14,5,5,45,2,1
 2012-11-03,New Mexico State,WAC,DeWayne Walker,A,Auburn,SEC,Gene Chizik,L,7,42,17,31,222,0,32,83,1,8,4,2,15,2,0
 2012-11-10,New Mexico State,WAC,DeWayne Walker,H,San Jose State,WAC,Kent Baer,L,7,47,12,29,100,1,38,120,0,3,9,3,24,2,2
-2012-11-24,New Mexico State,WAC,DeWayne Walker,H,Brigham Young,Ind,Bronco Mendenhall,L,14,50,13,24,158,2,27,29,0,5,4,6,45,0,0
+2012-11-24,New Mexico State,WAC,DeWayne Walker,H,BYU,Ind,Bronco Mendenhall,L,14,50,13,24,158,2,27,29,0,5,4,6,45,0,0
 2012-12-01,New Mexico State,WAC,DeWayne Walker,A,Texas State,WAC,Dennis Franchione,L,28,66,16,29,248,2,42,171,2,12,8,5,45,3,1
 2012-09-08,Louisiana Tech,WAC,Sonny Dykes,A,Houston,CUSA,Tony Levine,W,56,49,34,52,353,3,42,245,5,19,12,11,88,0,0
 2012-09-15,Louisiana Tech,WAC,Sonny Dykes,H,Rice,CUSA,David Bailiff,W,56,37,19,24,276,4,48,333,4,11,17,16,156,1,0

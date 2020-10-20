@@ -49,7 +49,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-09-24,Arizona State,BIAA,Frank Kush,A,West Texas A&M,BIAA,Joe Kerbel,W,14,3
 1960-10-01,Arizona State,BIAA,Frank Kush,H,Washington State,Ind,Jim Sutherland,W,24,21
 1960-10-08,Arizona State,BIAA,Frank Kush,A,Hardin-Simmons,BIAA,Howard McChesney,W,28,0
-1960-10-15,Arizona State,BIAA,Frank Kush,A,Brigham Young,Skyline,Tally Stevens,W,31,0
+1960-10-15,Arizona State,BIAA,Frank Kush,A,BYU,Skyline,Tally Stevens,W,31,0
 1960-10-22,Arizona State,BIAA,Frank Kush,H,San Jose State,Ind,Robert Titchenal,L,7,12
 1960-10-29,Arizona State,BIAA,Frank Kush,H,New Mexico State,BIAA,Warren Woodson,L,24,27
 1960-11-05,Arizona State,BIAA,Frank Kush,H,UTEP,BIAA,Ben Collins,W,24,0
@@ -63,7 +63,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-11-26,Furman,Southern,Robert King,A,Clemson,ACC,Frank Howard,L,14,42
 1960-09-24,Utah,Skyline,Ray Nagel,A,Arizona,BIAA,Jim LaRue,W,13,3
 1960-10-01,Utah,Skyline,Ray Nagel,H,Oregon,Ind,Len Casanova,L,17,20
-1960-10-07,Utah,Skyline,Ray Nagel,H,Brigham Young,Skyline,Tally Stevens,W,17,0
+1960-10-07,Utah,Skyline,Ray Nagel,H,BYU,Skyline,Tally Stevens,W,17,0
 1960-10-22,Utah,Skyline,Ray Nagel,H,Denver,Skyline,John Roning,W,49,16
 1960-10-29,Utah,Skyline,Ray Nagel,A,Wyoming,Skyline,Bob Devaney,L,7,17
 1960-11-05,Utah,Skyline,Ray Nagel,A,Colorado State,Skyline,Tuffy Mullison,W,27,6
@@ -110,7 +110,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-09-24,Montana,Skyline,Ray Jenkins,H,Utah State,Skyline,John Ralston,L,12,14
 1960-10-01,Montana,Skyline,Ray Jenkins,H,Idaho,Ind,Skip Stahley,W,18,14
 1960-10-15,Montana,Skyline,Ray Jenkins,A,Denver,Skyline,John Roning,W,26,12
-1960-10-22,Montana,Skyline,Ray Jenkins,H,Brigham Young,Skyline,Tally Stevens,L,6,7
+1960-10-22,Montana,Skyline,Ray Jenkins,H,BYU,Skyline,Tally Stevens,L,6,7
 1960-10-29,Montana,Skyline,Ray Jenkins,A,Colorado State,Skyline,Tuffy Mullison,W,26,14
 1960-11-12,Montana,Skyline,Ray Jenkins,A,Utah,Skyline,Ray Nagel,L,6,16
 1960-11-19,Montana,Skyline,Ray Jenkins,A,New Mexico,Skyline,Bill Weeks,L,7,24
@@ -352,7 +352,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-10-08,Utah State,Skyline,John Ralston,A,Idaho,Ind,Skip Stahley,W,33,6
 1960-10-15,Utah State,Skyline,John Ralston,A,New Mexico,Skyline,Bill Weeks,W,46,7
 1960-10-22,Utah State,Skyline,John Ralston,H,Colorado State,Skyline,Tuffy Mullison,W,21,0
-1960-10-29,Utah State,Skyline,John Ralston,H,Brigham Young,Skyline,Tally Stevens,W,34,0
+1960-10-29,Utah State,Skyline,John Ralston,H,BYU,Skyline,Tally Stevens,W,34,0
 1960-11-05,Utah State,Skyline,John Ralston,H,Wyoming,Skyline,Bob Devaney,W,17,13
 1960-11-12,Utah State,Skyline,John Ralston,A,Pacific,Ind,Moose Myers,W,45,6
 1960-11-19,Utah State,Skyline,John Ralston,A,Utah,Skyline,Ray Nagel,L,0,6
@@ -368,7 +368,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-11-12,Missouri,Big 8,Dan Devine,A,Oklahoma,Big 8,Bud Wilkinson,W,41,19
 1960-11-19,Missouri,Big 8,Dan Devine,H,Kansas,Big 8,Jack Mitchell,L,7,23
 1961-01-02,Missouri,Big 8,Dan Devine,N,Navy,Ind,Wayne Hardin,W,21,14
-1960-09-23,San Jose State,Ind,Robert Titchenal,H,Brigham Young,Skyline,Tally Stevens,W,21,8
+1960-09-23,San Jose State,Ind,Robert Titchenal,H,BYU,Skyline,Tally Stevens,W,21,8
 1960-10-08,San Jose State,Ind,Robert Titchenal,A,Oregon,Ind,Len Casanova,L,0,33
 1960-10-15,San Jose State,Ind,Robert Titchenal,A,Stanford,AAWU,Jack Curtice,W,34,20
 1960-10-22,San Jose State,Ind,Robert Titchenal,A,Arizona State,BIAA,Frank Kush,W,12,7
@@ -391,7 +391,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-10-22,Denver,Skyline,John Roning,A,Utah,Skyline,Ray Nagel,L,16,49
 1960-10-28,Denver,Skyline,John Roning,H,New Mexico,Skyline,Bill Weeks,L,6,41
 1960-11-05,Denver,Skyline,John Roning,A,Air Force,Ind,Ben Martin,L,6,36
-1960-11-12,Denver,Skyline,John Roning,H,Brigham Young,Skyline,Tally Stevens,L,6,19
+1960-11-12,Denver,Skyline,John Roning,H,BYU,Skyline,Tally Stevens,L,6,19
 1960-11-24,Denver,Skyline,John Roning,H,Colorado State,Skyline,Tuffy Mullison,W,21,12
 1960-09-24,Wisconsin,Big Ten,Milt Bruhn,A,Stanford,AAWU,Jack Curtice,W,24,7
 1960-10-01,Wisconsin,Big Ten,Milt Bruhn,H,Marquette,Ind,Liz Blackbourn,W,35,6
@@ -448,7 +448,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-10-15,New Mexico,Skyline,Bill Weeks,H,Utah State,Skyline,John Ralston,L,7,46
 1960-10-22,New Mexico,Skyline,Bill Weeks,H,Arizona,BIAA,Jim LaRue,L,14,26
 1960-10-28,New Mexico,Skyline,Bill Weeks,A,Denver,Skyline,John Roning,W,41,6
-1960-11-05,New Mexico,Skyline,Bill Weeks,A,Brigham Young,Skyline,Tally Stevens,W,27,15
+1960-11-05,New Mexico,Skyline,Bill Weeks,A,BYU,Skyline,Tally Stevens,W,27,15
 1960-11-12,New Mexico,Skyline,Bill Weeks,H,Colorado State,Skyline,Tuffy Mullison,W,24,6
 1960-11-19,New Mexico,Skyline,Bill Weeks,H,Montana,Skyline,Ray Jenkins,W,24,7
 1960-09-17,Pacific,Ind,Moose Myers,A,Washington,AAWU,Jim Owens,L,6,55
@@ -513,16 +513,16 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-10-29,Wyoming,Skyline,Bob Devaney,H,Utah,Skyline,Ray Nagel,W,17,7
 1960-11-05,Wyoming,Skyline,Bob Devaney,A,Utah State,Skyline,John Ralston,L,13,17
 1960-11-12,Wyoming,Skyline,Bob Devaney,A,Texas Tech,SWC,DeWitt Weaver,W,10,7
-1960-11-19,Wyoming,Skyline,Bob Devaney,A,Brigham Young,Skyline,Tally Stevens,W,30,6
-1960-09-23,Brigham Young,Skyline,Tally Stevens,A,San Jose State,Ind,Robert Titchenal,L,8,21
-1960-10-01,Brigham Young,Skyline,Tally Stevens,A,Colorado State,Skyline,Tuffy Mullison,L,7,8
-1960-10-07,Brigham Young,Skyline,Tally Stevens,A,Utah,Skyline,Ray Nagel,L,0,17
-1960-10-15,Brigham Young,Skyline,Tally Stevens,H,Arizona State,BIAA,Frank Kush,L,0,31
-1960-10-22,Brigham Young,Skyline,Tally Stevens,A,Montana,Skyline,Ray Jenkins,W,7,6
-1960-10-29,Brigham Young,Skyline,Tally Stevens,A,Utah State,Skyline,John Ralston,L,0,34
-1960-11-05,Brigham Young,Skyline,Tally Stevens,H,New Mexico,Skyline,Bill Weeks,L,15,27
-1960-11-12,Brigham Young,Skyline,Tally Stevens,A,Denver,Skyline,John Roning,W,19,6
-1960-11-19,Brigham Young,Skyline,Tally Stevens,H,Wyoming,Skyline,Bob Devaney,L,6,30
+1960-11-19,Wyoming,Skyline,Bob Devaney,A,BYU,Skyline,Tally Stevens,W,30,6
+1960-09-23,BYU,Skyline,Tally Stevens,A,San Jose State,Ind,Robert Titchenal,L,8,21
+1960-10-01,BYU,Skyline,Tally Stevens,A,Colorado State,Skyline,Tuffy Mullison,L,7,8
+1960-10-07,BYU,Skyline,Tally Stevens,A,Utah,Skyline,Ray Nagel,L,0,17
+1960-10-15,BYU,Skyline,Tally Stevens,H,Arizona State,BIAA,Frank Kush,L,0,31
+1960-10-22,BYU,Skyline,Tally Stevens,A,Montana,Skyline,Ray Jenkins,W,7,6
+1960-10-29,BYU,Skyline,Tally Stevens,A,Utah State,Skyline,John Ralston,L,0,34
+1960-11-05,BYU,Skyline,Tally Stevens,H,New Mexico,Skyline,Bill Weeks,L,15,27
+1960-11-12,BYU,Skyline,Tally Stevens,A,Denver,Skyline,John Roning,W,19,6
+1960-11-19,BYU,Skyline,Tally Stevens,H,Wyoming,Skyline,Bob Devaney,L,6,30
 1960-10-01,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,John McLaughry,W,9,0
 1960-10-08,Yale,Ivy,Jordan Olivar,H,Columbia,Ivy,Aldo Donelli,W,30,8
 1960-10-15,Yale,Ivy,Jordan Olivar,H,Cornell,Ivy,George James,W,22,6
@@ -876,7 +876,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1960-11-26,Colorado,Big 8,Everett Grandelius,H,Air Force,Ind,Ben Martin,L,6,16
 1960-09-17,Colorado State,Skyline,Tuffy Mullison,A,Arizona State,BIAA,Frank Kush,L,0,39
 1960-09-24,Colorado State,Skyline,Tuffy Mullison,A,Air Force,Ind,Ben Martin,L,8,32
-1960-10-01,Colorado State,Skyline,Tuffy Mullison,H,Brigham Young,Skyline,Tally Stevens,W,8,7
+1960-10-01,Colorado State,Skyline,Tuffy Mullison,H,BYU,Skyline,Tally Stevens,W,8,7
 1960-10-15,Colorado State,Skyline,Tuffy Mullison,H,Wyoming,Skyline,Bob Devaney,L,8,40
 1960-10-22,Colorado State,Skyline,Tuffy Mullison,A,Utah State,Skyline,John Ralston,L,0,21
 1960-10-29,Colorado State,Skyline,Tuffy Mullison,H,Montana,Skyline,Ray Jenkins,L,14,26

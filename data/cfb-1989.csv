@@ -85,7 +85,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-10-21,Utah,WAC,Jim Fassel,A,Stanford,Pac-10,Dennis Green,W,27,24
 1989-10-28,Utah,WAC,Jim Fassel,H,Colorado State,WAC,Earle Bruce,L,10,50
 1989-11-11,Utah,WAC,Jim Fassel,H,New Mexico,WAC,Mike Sheppard,W,41,39
-1989-11-18,Utah,WAC,Jim Fassel,A,Brigham Young,WAC,LaVell Edwards,L,31,70
+1989-11-18,Utah,WAC,Jim Fassel,A,BYU,WAC,LaVell Edwards,L,31,70
 1989-11-25,Utah,WAC,Jim Fassel,H,Air Force,WAC,Fisher DeBerry,L,38,42
 1989-09-02,Cal State Fullerton,Big West,Gene Murphy,A,Northern Illinois,Ind,Jerry Pettibone,L,17,26
 1989-09-16,Cal State Fullerton,Big West,Gene Murphy,A,Colorado State,WAC,Earle Bruce,L,14,42
@@ -132,7 +132,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-11-11,Penn State,Ind,Joe Paterno,A,Maryland,ACC,Joe Krivak,T,13,13
 1989-11-18,Penn State,Ind,Joe Paterno,H,Notre Dame,Ind,Lou Holtz,L,23,34
 1989-11-25,Penn State,Ind,Joe Paterno,A,Pitt,Ind,Paul Hackett,W,16,13
-1989-12-29,Penn State,Ind,Joe Paterno,N,Brigham Young,WAC,LaVell Edwards,W,50,39
+1989-12-29,Penn State,Ind,Joe Paterno,N,BYU,WAC,LaVell Edwards,W,50,39
 1989-09-02,Vanderbilt,SEC,Watson Brown,A,Mississippi State,SEC,Rockey Felker,L,7,42
 1989-09-23,Vanderbilt,SEC,Watson Brown,H,Ohio,MAC,Cleve Bryant,W,54,10
 1989-09-30,Vanderbilt,SEC,Watson Brown,H,Alabama,SEC,Bill Curry,L,14,20
@@ -189,7 +189,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-11-04,Stanford,Pac-10,Dennis Green,H,UCLA,Pac-10,Terry Donahue,W,17,14
 1989-11-11,Stanford,Pac-10,Dennis Green,A,Arizona State,Pac-10,Larry Marmie,L,22,30
 1989-11-18,Stanford,Pac-10,Dennis Green,H,California,Pac-10,Bruce Snyder,W,24,14
-1989-09-07,Washington State,Pac-10,Mike Price,A,Brigham Young,WAC,LaVell Edwards,W,46,41
+1989-09-07,Washington State,Pac-10,Mike Price,A,BYU,WAC,LaVell Edwards,W,46,41
 1989-09-16,Washington State,Pac-10,Mike Price,H,Oregon State,Pac-10,Dave Kragthorpe,W,41,3
 1989-09-23,Washington State,Pac-10,Mike Price,A,Wyoming,WAC,Paul Roach,W,29,23
 1989-09-30,Washington State,Pac-10,Mike Price,H,USC,Pac-10,Larry Smith,L,17,18
@@ -378,7 +378,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-09-09,Utah State,Big West,Chuck Shelton,A,Utah,WAC,Jim Fassel,L,10,45
 1989-09-16,Utah State,Big West,Chuck Shelton,A,USC,Pac-10,Larry Smith,L,10,66
 1989-09-23,Utah State,Big West,Chuck Shelton,A,Illinois,Big Ten,John Mackovic,L,2,41
-1989-09-30,Utah State,Big West,Chuck Shelton,H,Brigham Young,WAC,LaVell Edwards,L,10,37
+1989-09-30,Utah State,Big West,Chuck Shelton,H,BYU,WAC,LaVell Edwards,L,10,37
 1989-10-07,Utah State,Big West,Chuck Shelton,H,Cal State Fullerton,Big West,Gene Murphy,W,34,23
 1989-10-14,Utah State,Big West,Chuck Shelton,H,Fresno State,Big West,Jim Sweeney,L,7,34
 1989-10-21,Utah State,Big West,Chuck Shelton,A,New Mexico State,Big West,Mike Knoll,W,28,13
@@ -464,7 +464,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-11-04,San Diego State,WAC,Al Luginbill,H,New Mexico,WAC,Mike Sheppard,W,45,28
 1989-11-11,San Diego State,WAC,Al Luginbill,H,Wyoming,WAC,Paul Roach,W,27,17
 1989-11-18,San Diego State,WAC,Al Luginbill,A,Miami (FL),Ind,Dennis Erickson,L,6,42
-1989-11-25,San Diego State,WAC,Al Luginbill,H,Brigham Young,WAC,LaVell Edwards,L,27,48
+1989-11-25,San Diego State,WAC,Al Luginbill,H,BYU,WAC,LaVell Edwards,L,27,48
 1989-09-02,Hawaii,WAC,Bob Wagner,H,Tulane,Ind,Greg Davis,W,31,26
 1989-09-09,Hawaii,WAC,Bob Wagner,H,Long Beach State,Big West,Larry Reisbig,W,63,10
 1989-09-16,Hawaii,WAC,Bob Wagner,A,Wyoming,WAC,Paul Roach,L,15,20
@@ -472,7 +472,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-09-30,Hawaii,WAC,Bob Wagner,H,New Mexico,WAC,Mike Sheppard,W,60,14
 1989-10-07,Hawaii,WAC,Bob Wagner,H,San Diego State,WAC,Al Luginbill,W,31,24
 1989-10-21,Hawaii,WAC,Bob Wagner,A,Colorado State,WAC,Earle Bruce,L,16,31
-1989-10-28,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,W,56,14
+1989-10-28,Hawaii,WAC,Bob Wagner,H,BYU,WAC,LaVell Edwards,W,56,14
 1989-11-04,Hawaii,WAC,Bob Wagner,H,UTEP,WAC,David Lee,W,26,7
 1989-11-11,Hawaii,WAC,Bob Wagner,H,Pacific,Big West,Walt Harris,W,34,26
 1989-11-25,Hawaii,WAC,Bob Wagner,H,Oregon State,Pac-10,Dave Kragthorpe,W,23,21
@@ -531,7 +531,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-11-04,Temple,Ind,Jerry Berndt,A,Georgia,SEC,Ray Goff,L,10,37
 1989-11-11,Temple,Ind,Jerry Berndt,A,East Carolina,Ind,Bill Lewis,L,24,31
 1989-11-18,Temple,Ind,Jerry Berndt,H,Rutgers,Ind,Dick Anderson,W,36,33
-1989-09-02,New Mexico,WAC,Mike Sheppard,H,Brigham Young,WAC,LaVell Edwards,L,3,24
+1989-09-02,New Mexico,WAC,Mike Sheppard,H,BYU,WAC,LaVell Edwards,L,3,24
 1989-09-09,New Mexico,WAC,Mike Sheppard,H,New Mexico State,Big West,Mike Knoll,W,45,13
 1989-09-16,New Mexico,WAC,Mike Sheppard,A,Texas Tech,SWC,Spike Dykes,L,20,27
 1989-09-23,New Mexico,WAC,Mike Sheppard,A,Tulsa,Ind,David Rader,L,33,35
@@ -621,25 +621,25 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-09-16,Wyoming,WAC,Paul Roach,H,Hawaii,WAC,Bob Wagner,W,20,15
 1989-09-23,Wyoming,WAC,Paul Roach,H,Washington State,Pac-10,Mike Price,L,23,29
 1989-09-30,Wyoming,WAC,Paul Roach,A,Oklahoma State,Big 8,Pat Jones,L,7,27
-1989-10-07,Wyoming,WAC,Paul Roach,A,Brigham Young,WAC,LaVell Edwards,L,20,36
+1989-10-07,Wyoming,WAC,Paul Roach,A,BYU,WAC,LaVell Edwards,L,20,36
 1989-10-14,Wyoming,WAC,Paul Roach,H,Utah,WAC,Jim Fassel,W,45,24
 1989-10-28,Wyoming,WAC,Paul Roach,A,New Mexico,WAC,Mike Sheppard,W,24,23
 1989-11-04,Wyoming,WAC,Paul Roach,H,Colorado State,WAC,Earle Bruce,W,56,35
 1989-11-11,Wyoming,WAC,Paul Roach,A,San Diego State,WAC,Al Luginbill,L,17,27
 1989-11-19,Wyoming,WAC,Paul Roach,H,UTEP,WAC,David Lee,W,41,10
-1989-09-02,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,24,3
-1989-09-07,Brigham Young,WAC,LaVell Edwards,H,Washington State,Pac-10,Mike Price,L,41,46
-1989-09-16,Brigham Young,WAC,LaVell Edwards,A,Navy,Ind,Elliot Uzelac,W,31,10
-1989-09-30,Brigham Young,WAC,LaVell Edwards,A,Utah State,Big West,Chuck Shelton,W,37,10
-1989-10-07,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Paul Roach,W,36,20
-1989-10-14,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Earle Bruce,W,45,16
-1989-10-21,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,David Lee,W,49,24
-1989-10-28,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,14,56
-1989-11-04,Brigham Young,WAC,LaVell Edwards,H,Oregon,Pac-10,Rich Brooks,W,45,41
-1989-11-11,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,44,35
-1989-11-18,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,70,31
-1989-11-25,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,W,48,27
-1989-12-29,Brigham Young,WAC,LaVell Edwards,N,Penn State,Ind,Joe Paterno,L,39,50
+1989-09-02,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,24,3
+1989-09-07,BYU,WAC,LaVell Edwards,H,Washington State,Pac-10,Mike Price,L,41,46
+1989-09-16,BYU,WAC,LaVell Edwards,A,Navy,Ind,Elliot Uzelac,W,31,10
+1989-09-30,BYU,WAC,LaVell Edwards,A,Utah State,Big West,Chuck Shelton,W,37,10
+1989-10-07,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Paul Roach,W,36,20
+1989-10-14,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Earle Bruce,W,45,16
+1989-10-21,BYU,WAC,LaVell Edwards,H,UTEP,WAC,David Lee,W,49,24
+1989-10-28,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,14,56
+1989-11-04,BYU,WAC,LaVell Edwards,H,Oregon,Pac-10,Rich Brooks,W,45,41
+1989-11-11,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,44,35
+1989-11-18,BYU,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,70,31
+1989-11-25,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,W,48,27
+1989-12-29,BYU,WAC,LaVell Edwards,N,Penn State,Ind,Joe Paterno,L,39,50
 1989-09-09,Georgia Tech,ACC,Bobby Ross,A,North Carolina State,ACC,Dick Sheridan,L,28,38
 1989-09-16,Georgia Tech,ACC,Bobby Ross,H,Virginia,ACC,George Welsh,L,10,17
 1989-09-23,Georgia Tech,ACC,Bobby Ross,A,South Carolina,Ind,Sparky Woods,L,10,21
@@ -766,7 +766,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-09-30,UTEP,WAC,David Lee,A,Arkansas,SWC,Ken Hatfield,L,7,39
 1989-10-07,UTEP,WAC,David Lee,H,Utah,WAC,Jim Fassel,L,45,50
 1989-10-14,UTEP,WAC,David Lee,H,New Mexico,WAC,Mike Sheppard,W,26,7
-1989-10-21,UTEP,WAC,David Lee,A,Brigham Young,WAC,LaVell Edwards,L,24,49
+1989-10-21,UTEP,WAC,David Lee,A,BYU,WAC,LaVell Edwards,L,24,49
 1989-10-28,UTEP,WAC,David Lee,H,San Diego State,WAC,Al Luginbill,L,31,34
 1989-11-04,UTEP,WAC,David Lee,A,Hawaii,WAC,Bob Wagner,L,7,26
 1989-11-11,UTEP,WAC,David Lee,H,Colorado State,WAC,Earle Bruce,L,0,52
@@ -836,7 +836,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-10-14,Air Force,WAC,Fisher DeBerry,H,Notre Dame,Ind,Lou Holtz,L,27,41
 1989-10-21,Air Force,WAC,Fisher DeBerry,A,Texas Christian,SWC,Jim Wacker,L,9,27
 1989-11-04,Air Force,WAC,Fisher DeBerry,H,Army,Ind,Jim Young,W,29,3
-1989-11-11,Air Force,WAC,Fisher DeBerry,A,Brigham Young,WAC,LaVell Edwards,L,35,44
+1989-11-11,Air Force,WAC,Fisher DeBerry,A,BYU,WAC,LaVell Edwards,L,35,44
 1989-11-25,Air Force,WAC,Fisher DeBerry,A,Utah,WAC,Jim Fassel,W,42,38
 1989-12-09,Air Force,WAC,Fisher DeBerry,A,Hawaii,WAC,Bob Wagner,T,35,35
 1989-12-28,Air Force,WAC,Fisher DeBerry,N,Ole Miss,SEC,Billy Brewer,L,29,42
@@ -860,7 +860,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-10-14,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,14,20
 1989-10-21,Oregon,Pac-10,Rich Brooks,A,Arizona State,Pac-10,Larry Marmie,W,27,7
 1989-10-28,Oregon,Pac-10,Rich Brooks,H,Long Beach State,Big West,Larry Reisbig,W,52,10
-1989-11-04,Oregon,Pac-10,Rich Brooks,A,Brigham Young,WAC,LaVell Edwards,L,41,45
+1989-11-04,Oregon,Pac-10,Rich Brooks,A,BYU,WAC,LaVell Edwards,L,41,45
 1989-11-11,Oregon,Pac-10,Rich Brooks,A,UCLA,Pac-10,Terry Donahue,W,38,20
 1989-11-18,Oregon,Pac-10,Rich Brooks,H,Oregon State,Pac-10,Dave Kragthorpe,W,30,21
 1989-12-16,Oregon,Pac-10,Rich Brooks,N,Tulsa,Ind,David Rader,W,27,24
@@ -963,7 +963,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-09-23,Colorado State,WAC,Earle Bruce,H,Eastern Michigan,MAC,Jim Harkema,T,35,35
 1989-09-30,Colorado State,WAC,Earle Bruce,H,Air Force,WAC,Fisher DeBerry,L,21,46
 1989-10-07,Colorado State,WAC,Earle Bruce,A,New Mexico,WAC,Mike Sheppard,W,34,20
-1989-10-14,Colorado State,WAC,Earle Bruce,H,Brigham Young,WAC,LaVell Edwards,L,16,45
+1989-10-14,Colorado State,WAC,Earle Bruce,H,BYU,WAC,LaVell Edwards,L,16,45
 1989-10-21,Colorado State,WAC,Earle Bruce,H,Hawaii,WAC,Bob Wagner,W,31,16
 1989-10-28,Colorado State,WAC,Earle Bruce,A,Utah,WAC,Jim Fassel,W,50,10
 1989-11-04,Colorado State,WAC,Earle Bruce,A,Wyoming,WAC,Paul Roach,L,35,56
@@ -1077,7 +1077,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1989-10-28,Kent State,MAC,Dick Crum,H,Toledo,MAC,Dan Simrell,L,42,47
 1989-11-04,Kent State,MAC,Dick Crum,A,Bowling Green State,MAC,Moe Ankney,L,28,51
 1989-11-11,Kent State,MAC,Dick Crum,H,Miami (OH),MAC,Tim Rose,L,13,15
-1989-09-16,Navy,Ind,Elliot Uzelac,H,Brigham Young,WAC,LaVell Edwards,L,10,31
+1989-09-16,Navy,Ind,Elliot Uzelac,H,BYU,WAC,LaVell Edwards,L,10,31
 1989-09-30,Navy,Ind,Elliot Uzelac,A,North Carolina,ACC,Mack Brown,W,12,7
 1989-10-07,Navy,Ind,Elliot Uzelac,H,Air Force,WAC,Fisher DeBerry,L,7,35
 1989-10-14,Navy,Ind,Elliot Uzelac,A,Pitt,Ind,Paul Hackett,L,14,31

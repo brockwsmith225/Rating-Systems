@@ -87,7 +87,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-11-01,Utah,WAC,Jim Fassel,H,Hawaii,WAC,Dick Tomey,L,13,33
 1986-11-08,Utah,WAC,Jim Fassel,H,Colorado State,WAC,Leon Fuller,W,38,28
 1986-11-15,Utah,WAC,Jim Fassel,A,Utah State,PCAA,Chuck Shelton,W,27,10
-1986-11-22,Utah,WAC,Jim Fassel,H,Brigham Young,WAC,LaVell Edwards,L,21,35
+1986-11-22,Utah,WAC,Jim Fassel,H,BYU,WAC,LaVell Edwards,L,21,35
 1986-11-29,Utah,WAC,Jim Fassel,A,UTEP,WAC,Bob Stull,L,44,55
 1986-09-06,Cal State Fullerton,PCAA,Gene Murphy,A,New Mexico State,PCAA,Mike Knoll,L,21,24
 1986-09-27,Cal State Fullerton,PCAA,Gene Murphy,A,Nevada-Las Vegas,PCAA,Wayne Nunnely,L,23,40
@@ -337,7 +337,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-11-15,South Carolina,Ind,Joe Morrison,H,Wake Forest,ACC,Al Groh,W,48,21
 1986-11-22,South Carolina,Ind,Joe Morrison,A,Clemson,ACC,Danny Ford,T,21,21
 1986-09-13,Washington,Pac-10,Don James,H,Ohio State,Big Ten,Earle Bruce,W,40,7
-1986-09-20,Washington,Pac-10,Don James,H,Brigham Young,WAC,LaVell Edwards,W,52,21
+1986-09-20,Washington,Pac-10,Don James,H,BYU,WAC,LaVell Edwards,W,52,21
 1986-09-27,Washington,Pac-10,Don James,A,USC,Pac-10,Ted Tollner,L,10,20
 1986-10-04,Washington,Pac-10,Don James,H,California,Pac-10,Joe Kapp,W,50,18
 1986-10-11,Washington,Pac-10,Don James,A,Stanford,Pac-10,Jack Elway,W,24,14
@@ -378,7 +378,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-11-15,Long Beach State,PCAA,Mike Sheppard,A,San Jose State,PCAA,Claude Gilbert,L,14,38
 1986-11-22,Long Beach State,PCAA,Mike Sheppard,H,Nevada-Las Vegas,PCAA,Wayne Nunnely,L,8,31
 1986-11-29,Long Beach State,PCAA,Mike Sheppard,H,Pacific,PCAA,Bob Cope,W,38,21
-1986-09-06,Utah State,PCAA,Chuck Shelton,A,Brigham Young,WAC,LaVell Edwards,L,0,52
+1986-09-06,Utah State,PCAA,Chuck Shelton,A,BYU,WAC,LaVell Edwards,L,0,52
 1986-09-13,Utah State,PCAA,Chuck Shelton,A,Missouri,Big 8,Woody Widenhofer,L,10,24
 1986-09-20,Utah State,PCAA,Chuck Shelton,A,Kansas,Big 8,Bob Valesente,L,13,16
 1986-10-04,Utah State,PCAA,Chuck Shelton,H,New Mexico State,PCAA,Mike Knoll,W,42,9
@@ -468,7 +468,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-11-01,San Diego State,WAC,Dennis Stolz,A,Colorado State,WAC,Leon Fuller,W,27,26
 1986-11-15,San Diego State,WAC,Dennis Stolz,H,Wyoming,WAC,Dennis Erickson,W,31,24
 1986-11-22,San Diego State,WAC,Dennis Stolz,H,Hawaii,WAC,Dick Tomey,W,35,5
-1986-11-29,San Diego State,WAC,Dennis Stolz,H,Brigham Young,WAC,LaVell Edwards,W,10,3
+1986-11-29,San Diego State,WAC,Dennis Stolz,H,BYU,WAC,LaVell Edwards,W,10,3
 1986-12-30,San Diego State,WAC,Dennis Stolz,H,Iowa,Big Ten,Hayden Fry,L,38,39
 1986-08-30,Hawaii,WAC,Dick Tomey,A,Air Force,WAC,Fisher DeBerry,L,17,24
 1986-09-06,Hawaii,WAC,Dick Tomey,H,Wisconsin,Big Ten,Jim Hilles,W,20,17
@@ -477,7 +477,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-10-18,Hawaii,WAC,Dick Tomey,A,Colorado State,WAC,Leon Fuller,L,7,31
 1986-10-25,Hawaii,WAC,Dick Tomey,H,Cal State Fullerton,PCAA,Gene Murphy,W,26,15
 1986-11-01,Hawaii,WAC,Dick Tomey,A,Utah,WAC,Jim Fassel,W,33,13
-1986-11-08,Hawaii,WAC,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,3,10
+1986-11-08,Hawaii,WAC,Dick Tomey,H,BYU,WAC,LaVell Edwards,L,3,10
 1986-11-15,Hawaii,WAC,Dick Tomey,H,Fresno State,PCAA,Jim Sweeney,W,24,13
 1986-11-22,Hawaii,WAC,Dick Tomey,A,San Diego State,WAC,Dennis Stolz,L,5,35
 1986-11-29,Hawaii,WAC,Dick Tomey,H,Wyoming,WAC,Dennis Erickson,W,35,19
@@ -526,7 +526,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-01-01,Michigan,Big Ten,Bo Schembechler,N,Arizona State,Pac-10,John Cooper,L,15,22
 1986-09-06,Temple,Ind,Bruce Arians,A,Penn State,Ind,Joe Paterno,L,15,45
 1986-09-13,Temple,Ind,Bruce Arians,A,Western Michigan,MAC,Jack Harbaugh,W,49,17
-1986-09-27,Temple,Ind,Bruce Arians,A,Brigham Young,WAC,LaVell Edwards,L,17,27
+1986-09-27,Temple,Ind,Bruce Arians,A,BYU,WAC,LaVell Edwards,L,17,27
 1986-10-04,Temple,Ind,Bruce Arians,A,Pitt,Ind,Mike Gottfried,W,19,13
 1986-10-11,Temple,Ind,Bruce Arians,H,East Carolina,Ind,Art Baker,W,45,28
 1986-10-18,Temple,Ind,Bruce Arians,A,Virginia Tech,Ind,Bill Dooley,W,29,13
@@ -535,7 +535,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-11-15,Temple,Ind,Bruce Arians,A,Alabama,SEC,Ray Perkins,L,14,24
 1986-11-22,Temple,Ind,Bruce Arians,A,Rutgers,Ind,Dick Anderson,W,29,22
 1986-09-06,New Mexico,WAC,Joe Lee Dunn,A,Tennessee,SEC,Johnny Majors,L,21,35
-1986-09-13,New Mexico,WAC,Joe Lee Dunn,A,Brigham Young,WAC,LaVell Edwards,L,30,31
+1986-09-13,New Mexico,WAC,Joe Lee Dunn,A,BYU,WAC,LaVell Edwards,L,30,31
 1986-09-20,New Mexico,WAC,Joe Lee Dunn,A,Texas Tech,SWC,Spike Dykes,L,7,14
 1986-09-27,New Mexico,WAC,Joe Lee Dunn,H,San Diego State,WAC,Dennis Stolz,L,34,38
 1986-10-04,New Mexico,WAC,Joe Lee Dunn,A,Hawaii,WAC,Dick Tomey,L,10,27
@@ -611,25 +611,25 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-09-27,Wyoming,WAC,Dennis Erickson,A,Wisconsin,Big Ten,Jim Hilles,W,21,12
 1986-10-04,Wyoming,WAC,Dennis Erickson,A,Iowa State,Big 8,Chuck Banker,L,10,21
 1986-10-11,Wyoming,WAC,Dennis Erickson,H,Utah,WAC,Jim Fassel,W,38,14
-1986-10-18,Wyoming,WAC,Dennis Erickson,H,Brigham Young,WAC,LaVell Edwards,L,22,34
+1986-10-18,Wyoming,WAC,Dennis Erickson,H,BYU,WAC,LaVell Edwards,L,22,34
 1986-10-25,Wyoming,WAC,Dennis Erickson,A,Colorado State,WAC,Leon Fuller,L,15,20
 1986-11-01,Wyoming,WAC,Dennis Erickson,H,New Mexico,WAC,Joe Lee Dunn,W,35,25
 1986-11-08,Wyoming,WAC,Dennis Erickson,H,UTEP,WAC,Bob Stull,W,41,12
 1986-11-15,Wyoming,WAC,Dennis Erickson,A,San Diego State,WAC,Dennis Stolz,L,24,31
 1986-11-29,Wyoming,WAC,Dennis Erickson,A,Hawaii,WAC,Dick Tomey,L,19,35
-1986-09-06,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Chuck Shelton,W,52,0
-1986-09-13,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Lee Dunn,W,31,30
-1986-09-20,Brigham Young,WAC,LaVell Edwards,A,Washington,Pac-10,Don James,L,21,52
-1986-09-27,Brigham Young,WAC,LaVell Edwards,H,Temple,Ind,Bruce Arians,W,27,17
-1986-10-03,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,L,20,24
-1986-10-18,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Dennis Erickson,W,34,22
-1986-10-25,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bob Stull,W,37,13
-1986-11-08,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,10,3
-1986-11-15,Brigham Young,WAC,LaVell Edwards,H,Oregon State,Pac-10,Dave Kragthorpe,L,7,10
-1986-11-22,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Jim Fassel,W,35,21
-1986-11-29,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Dennis Stolz,L,3,10
-1986-12-06,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,23,3
-1986-12-30,Brigham Young,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,L,10,31
+1986-09-06,BYU,WAC,LaVell Edwards,H,Utah State,PCAA,Chuck Shelton,W,52,0
+1986-09-13,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Lee Dunn,W,31,30
+1986-09-20,BYU,WAC,LaVell Edwards,A,Washington,Pac-10,Don James,L,21,52
+1986-09-27,BYU,WAC,LaVell Edwards,H,Temple,Ind,Bruce Arians,W,27,17
+1986-10-03,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,L,20,24
+1986-10-18,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Dennis Erickson,W,34,22
+1986-10-25,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Bob Stull,W,37,13
+1986-11-08,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,10,3
+1986-11-15,BYU,WAC,LaVell Edwards,H,Oregon State,Pac-10,Dave Kragthorpe,L,7,10
+1986-11-22,BYU,WAC,LaVell Edwards,A,Utah,WAC,Jim Fassel,W,35,21
+1986-11-29,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Dennis Stolz,L,3,10
+1986-12-06,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,23,3
+1986-12-30,BYU,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,L,10,31
 1986-09-20,Georgia Tech,ACC,Bill Curry,A,Virginia,ACC,George Welsh,W,28,14
 1986-09-27,Georgia Tech,ACC,Bill Curry,H,Clemson,ACC,Danny Ford,L,3,27
 1986-10-04,Georgia Tech,ACC,Bill Curry,A,North Carolina,ACC,Dick Crum,L,20,21
@@ -705,7 +705,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-11-08,UCLA,Pac-10,Terry Donahue,H,Stanford,Pac-10,Jack Elway,L,23,28
 1986-11-15,UCLA,Pac-10,Terry Donahue,A,Washington,Pac-10,Don James,T,17,17
 1986-11-22,UCLA,Pac-10,Terry Donahue,H,USC,Pac-10,Ted Tollner,W,45,25
-1986-12-30,UCLA,Pac-10,Terry Donahue,H,Brigham Young,WAC,LaVell Edwards,W,31,10
+1986-12-30,UCLA,Pac-10,Terry Donahue,H,BYU,WAC,LaVell Edwards,W,31,10
 1986-09-20,Auburn,SEC,Pat Dye,H,East Carolina,Ind,Art Baker,W,45,0
 1986-09-27,Auburn,SEC,Pat Dye,H,Tennessee,SEC,Johnny Majors,W,34,8
 1986-10-11,Auburn,SEC,Pat Dye,A,Vanderbilt,SEC,Watson Brown,W,31,9
@@ -753,7 +753,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-10-04,UTEP,WAC,Bob Stull,A,Tennessee,SEC,Johnny Majors,L,16,26
 1986-10-11,UTEP,WAC,Bob Stull,A,New Mexico,WAC,Joe Lee Dunn,L,22,24
 1986-10-18,UTEP,WAC,Bob Stull,H,San Diego State,WAC,Dennis Stolz,L,10,15
-1986-10-25,UTEP,WAC,Bob Stull,A,Brigham Young,WAC,LaVell Edwards,L,13,37
+1986-10-25,UTEP,WAC,Bob Stull,A,BYU,WAC,LaVell Edwards,L,13,37
 1986-11-08,UTEP,WAC,Bob Stull,A,Wyoming,WAC,Dennis Erickson,L,12,41
 1986-11-22,UTEP,WAC,Bob Stull,H,Colorado State,WAC,Leon Fuller,W,21,19
 1986-11-29,UTEP,WAC,Bob Stull,H,Utah,WAC,Jim Fassel,W,55,44
@@ -821,7 +821,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-10-25,Air Force,WAC,Fisher DeBerry,A,San Diego State,WAC,Dennis Stolz,W,22,10
 1986-11-08,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Jim Young,L,11,21
 1986-11-22,Air Force,WAC,Fisher DeBerry,A,Rice,SWC,Jerry Berndt,L,17,21
-1986-12-06,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,3,23
+1986-12-06,Air Force,WAC,Fisher DeBerry,H,BYU,WAC,LaVell Edwards,L,3,23
 1986-08-30,Miami (FL),Ind,Jimmy Johnson,A,South Carolina,Ind,Joe Morrison,W,34,14
 1986-09-06,Miami (FL),Ind,Jimmy Johnson,A,Florida,SEC,Galen Hall,W,23,15
 1986-09-13,Miami (FL),Ind,Jimmy Johnson,H,Texas Tech,SWC,Spike Dykes,W,61,11
@@ -865,7 +865,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-10-18,Oregon State,Pac-10,Dave Kragthorpe,A,Arizona,Pac-10,Larry Smith,L,12,23
 1986-11-01,Oregon State,Pac-10,Dave Kragthorpe,H,UCLA,Pac-10,Terry Donahue,L,0,49
 1986-11-08,Oregon State,Pac-10,Dave Kragthorpe,H,Washington,Pac-10,Don James,L,12,28
-1986-11-15,Oregon State,Pac-10,Dave Kragthorpe,A,Brigham Young,WAC,LaVell Edwards,W,10,7
+1986-11-15,Oregon State,Pac-10,Dave Kragthorpe,A,BYU,WAC,LaVell Edwards,W,10,7
 1986-11-22,Oregon State,Pac-10,Dave Kragthorpe,H,Oregon,Pac-10,Rich Brooks,L,28,49
 1986-08-27,Alabama,SEC,Ray Perkins,N,Ohio State,Big Ten,Earle Bruce,W,16,10
 1986-09-06,Alabama,SEC,Ray Perkins,H,Vanderbilt,SEC,Watson Brown,W,42,10
@@ -939,7 +939,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-09-06,Colorado State,WAC,Leon Fuller,A,Colorado,Big 8,Bill McCartney,W,23,7
 1986-09-13,Colorado State,WAC,Leon Fuller,A,Arizona,Pac-10,Larry Smith,L,10,37
 1986-09-27,Colorado State,WAC,Leon Fuller,A,Air Force,WAC,Fisher DeBerry,L,7,24
-1986-10-03,Colorado State,WAC,Leon Fuller,A,Brigham Young,WAC,LaVell Edwards,W,24,20
+1986-10-03,Colorado State,WAC,Leon Fuller,A,BYU,WAC,LaVell Edwards,W,24,20
 1986-10-18,Colorado State,WAC,Leon Fuller,H,Hawaii,WAC,Dick Tomey,W,31,7
 1986-10-25,Colorado State,WAC,Leon Fuller,H,Wyoming,WAC,Dennis Erickson,W,20,15
 1986-11-01,Colorado State,WAC,Leon Fuller,H,San Diego State,WAC,Dennis Stolz,L,26,27

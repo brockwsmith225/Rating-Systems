@@ -31,7 +31,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-11-29,Furman,Ind,,H,Clemson,Southern,Bud Saunders,L,6,7
 1923-10-06,Utah,RMC,Thomas Fitzpatrick,A,Whitman,Ind,,W,16,0
 1923-10-13,Utah,RMC,Thomas Fitzpatrick,H,Wyoming,RMC,John Corbett,W,79,0
-1923-10-27,Utah,RMC,Thomas Fitzpatrick,A,Brigham Young,RMC,Alvin Twitchell,W,15,0
+1923-10-27,Utah,RMC,Thomas Fitzpatrick,A,BYU,RMC,Alvin Twitchell,W,15,0
 1923-11-10,Utah,RMC,Thomas Fitzpatrick,A,Colorado College,RMC,Tefler Meade,L,6,7
 1923-11-17,Utah,RMC,Thomas Fitzpatrick,H,Colorado,RMC,Myron Witham,L,7,17
 1923-11-29,Utah,RMC,Thomas Fitzpatrick,H,Utah State,RMC,,L,13,21
@@ -81,7 +81,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-11-03,Colorado College,RMC,Tefler Meade,A,Colorado,RMC,Myron Witham,L,7,17
 1923-11-10,Colorado College,RMC,Tefler Meade,H,Utah,RMC,Thomas Fitzpatrick,W,7,6
 1923-11-17,Colorado College,RMC,Tefler Meade,H,Denver,RMC,,W,20,0
-1923-11-24,Colorado College,RMC,Tefler Meade,H,Brigham Young,RMC,Alvin Twitchell,W,31,6
+1923-11-24,Colorado College,RMC,Tefler Meade,H,BYU,RMC,Alvin Twitchell,W,31,6
 1923-10-13,Kentucky,Southern,J.J. Winn,H,Washington & Lee,Southern,Jimmy DeHart,T,6,6
 1923-11-03,Kentucky,Southern,J.J. Winn,A,Centre,Ind,Charley Moran,L,0,10
 1923-11-10,Kentucky,Southern,J.J. Winn,A,Alabama,Southern,Wallace Wade,L,8,16
@@ -228,7 +228,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-10-13,Utah State,RMC,,H,Denver,RMC,,L,7,14
 1923-10-20,Utah State,RMC,,A,Colorado Mines,RMC,Tim Callahan,W,26,0
 1923-10-27,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,7,26
-1923-11-12,Utah State,RMC,,H,Brigham Young,RMC,Alvin Twitchell,W,40,0
+1923-11-12,Utah State,RMC,,H,BYU,RMC,Alvin Twitchell,W,40,0
 1923-11-16,Utah State,RMC,,A,Wyoming,RMC,John Corbett,W,20,6
 1923-11-29,Utah State,RMC,,A,Utah,RMC,Thomas Fitzpatrick,W,21,13
 1923-10-13,Missouri,MVIAA,Gwinn Henry,H,Iowa State,MVIAA,Sam Willaman,L,0,2
@@ -237,7 +237,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-11-10,Missouri,MVIAA,Gwinn Henry,H,Oklahoma,MVIAA,Bennie Owen,L,0,13
 1923-11-17,Missouri,MVIAA,Gwinn Henry,A,Washington (MO),MVIAA,Byron Wimberly,L,7,13
 1923-11-29,Missouri,MVIAA,Gwinn Henry,A,Kansas,MVIAA,Potsy Clark,T,3,3
-1923-09-29,Montana State,RMC,Ott Romney,A,Brigham Young,RMC,Alvin Twitchell,L,15,16
+1923-09-29,Montana State,RMC,Ott Romney,A,BYU,RMC,Alvin Twitchell,L,15,16
 1923-10-20,Montana State,RMC,Ott Romney,H,Denver,RMC,,L,6,7
 1923-11-17,Montana State,RMC,Ott Romney,H,Montana,Ind,John Stewart,L,13,24
 1923-11-24,Montana State,RMC,Ott Romney,H,Northern Colorado,RMC,George Cooper,W,48,12
@@ -333,12 +333,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-11-03,Wyoming,RMC,John Corbett,A,Denver,RMC,,L,0,45
 1923-11-16,Wyoming,RMC,John Corbett,H,Utah State,RMC,,L,6,20
 1923-11-24,Wyoming,RMC,John Corbett,A,Colorado,RMC,Myron Witham,L,3,20
-1923-09-29,Brigham Young,RMC,Alvin Twitchell,H,Montana State,RMC,Ott Romney,W,16,15
-1923-10-07,Brigham Young,RMC,Alvin Twitchell,A,Colorado,RMC,Myron Witham,L,0,41
-1923-10-13,Brigham Young,RMC,Alvin Twitchell,A,Colorado State,RMC,Harry Hughes,L,6,14
-1923-10-27,Brigham Young,RMC,Alvin Twitchell,H,Utah,RMC,Thomas Fitzpatrick,L,0,15
-1923-11-12,Brigham Young,RMC,Alvin Twitchell,A,Utah State,RMC,,L,0,40
-1923-11-24,Brigham Young,RMC,Alvin Twitchell,A,Colorado College,RMC,Tefler Meade,L,6,31
+1923-09-29,BYU,RMC,Alvin Twitchell,H,Montana State,RMC,Ott Romney,W,16,15
+1923-10-07,BYU,RMC,Alvin Twitchell,A,Colorado,RMC,Myron Witham,L,0,41
+1923-10-13,BYU,RMC,Alvin Twitchell,A,Colorado State,RMC,Harry Hughes,L,6,14
+1923-10-27,BYU,RMC,Alvin Twitchell,H,Utah,RMC,Thomas Fitzpatrick,L,0,15
+1923-11-12,BYU,RMC,Alvin Twitchell,A,Utah State,RMC,,L,0,40
+1923-11-24,BYU,RMC,Alvin Twitchell,A,Colorado College,RMC,Tefler Meade,L,6,31
 1923-10-06,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,53,0
 1923-10-13,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,W,40,0
 1923-10-27,Yale,Ind,Tad Jones,H,Brown,Ind,Edward Robinson,W,21,0
@@ -530,7 +530,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-10-27,Oklahoma State,SWC,John Maulbetsch,A,Oklahoma,MVIAA,Bennie Owen,L,0,12
 1923-11-17,Oklahoma State,SWC,John Maulbetsch,A,SMU,SWC,Ray Morrison,L,0,9
 1923-12-01,Oklahoma State,SWC,John Maulbetsch,A,Arkansas,SWC,Francis Schmidt,L,0,13
-1923-10-07,Colorado,RMC,Myron Witham,H,Brigham Young,RMC,Alvin Twitchell,W,41,0
+1923-10-07,Colorado,RMC,Myron Witham,H,BYU,RMC,Alvin Twitchell,W,41,0
 1923-10-21,Colorado,RMC,Myron Witham,H,Northern Colorado,RMC,George Cooper,W,60,0
 1923-10-27,Colorado,RMC,Myron Witham,A,Denver,RMC,,W,21,7
 1923-11-03,Colorado,RMC,Myron Witham,H,Colorado College,RMC,Tefler Meade,W,17,7
@@ -548,7 +548,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-11-29,Oglethorpe,Ind,Jim Robertson,A,Chattanooga,Ind,Bill McAllester,W,12,0
 1923-09-29,Colorado State,RMC,Harry Hughes,H,Wyoming,RMC,John Corbett,W,33,0
 1923-10-06,Colorado State,RMC,Harry Hughes,A,Chicago,Western,Amos Alonzo Stagg,L,0,10
-1923-10-13,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,Alvin Twitchell,W,14,6
+1923-10-13,Colorado State,RMC,Harry Hughes,H,BYU,RMC,Alvin Twitchell,W,14,6
 1923-10-20,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,Tefler Meade,T,6,6
 1923-10-27,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,26,7
 1923-11-10,Colorado State,RMC,Harry Hughes,H,Denver,RMC,,W,25,0

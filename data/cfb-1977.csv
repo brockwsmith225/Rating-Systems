@@ -74,7 +74,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-10-22,Arizona State,WAC,Frank Kush,H,UTEP,WAC,Bill Michael,W,66,3
 1977-10-29,Arizona State,WAC,Frank Kush,A,Utah,WAC,Wayne Howard,W,47,19
 1977-11-05,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Bill Lewis,W,45,0
-1977-11-12,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,24,13
+1977-11-12,Arizona State,WAC,Frank Kush,H,BYU,WAC,LaVell Edwards,W,24,13
 1977-11-19,Arizona State,WAC,Frank Kush,A,Colorado State,WAC,Sarkis Arslanian,L,14,25
 1977-11-26,Arizona State,WAC,Frank Kush,H,Arizona,WAC,Tony Mason,W,23,7
 1977-12-25,Arizona State,WAC,Frank Kush,H,Penn State,Ind,Joe Paterno,L,30,42
@@ -93,7 +93,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-10-15,Utah,WAC,Wayne Howard,H,Utah State,Ind,Bruce Snyder,W,20,0
 1977-10-22,Utah,WAC,Wayne Howard,A,Arizona,WAC,Tony Mason,L,17,45
 1977-10-29,Utah,WAC,Wayne Howard,H,Arizona State,WAC,Frank Kush,L,19,47
-1977-11-05,Utah,WAC,Wayne Howard,A,Brigham Young,WAC,LaVell Edwards,L,8,38
+1977-11-05,Utah,WAC,Wayne Howard,A,BYU,WAC,LaVell Edwards,L,8,38
 1977-11-12,Utah,WAC,Wayne Howard,H,UTEP,WAC,Bill Michael,W,29,17
 1977-11-19,Utah,WAC,Wayne Howard,A,Florida,SEC,Doug Dickey,L,29,38
 1977-11-26,Utah,WAC,Wayne Howard,A,New Mexico,WAC,Bill Mondt,L,24,41
@@ -154,7 +154,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-10-01,Arizona,WAC,Tony Mason,A,Wyoming,WAC,Bill Lewis,L,12,13
 1977-10-08,Arizona,WAC,Tony Mason,H,Texas Tech,SWC,Steve Sloan,L,26,32
 1977-10-22,Arizona,WAC,Tony Mason,H,Utah,WAC,Wayne Howard,W,45,17
-1977-10-29,Arizona,WAC,Tony Mason,A,Brigham Young,WAC,LaVell Edwards,L,14,34
+1977-10-29,Arizona,WAC,Tony Mason,A,BYU,WAC,LaVell Edwards,L,14,34
 1977-11-05,Arizona,WAC,Tony Mason,H,Colorado State,WAC,Sarkis Arslanian,L,14,35
 1977-11-12,Arizona,WAC,Tony Mason,H,New Mexico,WAC,Bill Mondt,W,15,13
 1977-11-19,Arizona,WAC,Tony Mason,A,UTEP,WAC,Bill Michael,W,41,24
@@ -473,11 +473,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-10-29,Long Beach State,PCAA,Dave Currey,A,Wichita State,MVC,Jim Wright,L,21,35
 1977-11-05,Long Beach State,PCAA,Dave Currey,H,Fresno State,PCAA,Jim Sweeney,L,14,23
 1977-11-12,Long Beach State,PCAA,Dave Currey,A,San Diego State,Ind,Claude Gilbert,L,22,33
-1977-11-19,Long Beach State,PCAA,Dave Currey,A,Brigham Young,WAC,LaVell Edwards,L,27,30
+1977-11-19,Long Beach State,PCAA,Dave Currey,A,BYU,WAC,LaVell Edwards,L,27,30
 1977-11-26,Long Beach State,PCAA,Dave Currey,H,Bowling Green State,MAC,Dennis Stolz,W,29,28
 1977-09-10,Utah State,Ind,Bruce Snyder,H,San Jose State,PCAA,Lynn Stiles,W,22,10
 1977-09-17,Utah State,Ind,Bruce Snyder,A,Memphis,Ind,Richard Williamson,L,26,31
-1977-09-24,Utah State,Ind,Bruce Snyder,H,Brigham Young,WAC,LaVell Edwards,L,6,65
+1977-09-24,Utah State,Ind,Bruce Snyder,H,BYU,WAC,LaVell Edwards,L,6,65
 1977-10-01,Utah State,Ind,Bruce Snyder,A,San Diego State,Ind,Claude Gilbert,L,0,19
 1977-10-08,Utah State,Ind,Bruce Snyder,A,Penn State,Ind,Joe Paterno,L,7,16
 1977-10-15,Utah State,Ind,Bruce Snyder,A,Utah,WAC,Wayne Howard,L,0,20
@@ -635,7 +635,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-09-10,New Mexico,WAC,Bill Mondt,A,Hawaii,Ind,Dick Tomey,W,35,26
 1977-09-17,New Mexico,WAC,Bill Mondt,A,Texas Tech,SWC,Steve Sloan,L,14,29
 1977-09-24,New Mexico,WAC,Bill Mondt,A,Colorado,Big 8,Bill Mallory,L,7,42
-1977-09-30,New Mexico,WAC,Bill Mondt,A,Brigham Young,WAC,LaVell Edwards,L,19,54
+1977-09-30,New Mexico,WAC,Bill Mondt,A,BYU,WAC,LaVell Edwards,L,19,54
 1977-10-08,New Mexico,WAC,Bill Mondt,H,Arizona State,WAC,Frank Kush,L,24,45
 1977-10-15,New Mexico,WAC,Bill Mondt,H,Wichita State,MVC,Jim Wright,W,22,17
 1977-10-22,New Mexico,WAC,Bill Mondt,A,Colorado State,WAC,Sarkis Arslanian,L,9,14
@@ -739,23 +739,23 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-09-24,Wyoming,WAC,Bill Lewis,A,Michigan State,Big Ten,Darryl Rogers,L,16,34
 1977-10-01,Wyoming,WAC,Bill Lewis,H,Arizona,WAC,Tony Mason,W,13,12
 1977-10-08,Wyoming,WAC,Bill Lewis,A,Utah,WAC,Wayne Howard,L,13,23
-1977-10-22,Wyoming,WAC,Bill Lewis,H,Brigham Young,WAC,LaVell Edwards,L,7,10
+1977-10-22,Wyoming,WAC,Bill Lewis,H,BYU,WAC,LaVell Edwards,L,7,10
 1977-10-29,Wyoming,WAC,Bill Lewis,H,Colorado State,WAC,Sarkis Arslanian,W,29,13
 1977-11-05,Wyoming,WAC,Bill Lewis,A,Arizona State,WAC,Frank Kush,L,0,45
 1977-11-12,Wyoming,WAC,Bill Lewis,A,Utah State,Ind,Bruce Snyder,L,31,32
 1977-11-19,Wyoming,WAC,Bill Lewis,A,New Mexico,WAC,Bill Mondt,W,23,21
 1977-11-26,Wyoming,WAC,Bill Lewis,A,LSU,SEC,Charles McClendon,L,7,66
-1977-09-10,Brigham Young,WAC,LaVell Edwards,H,Kansas State,Big 8,Ellis Rainsberger,W,39,0
-1977-09-24,Brigham Young,WAC,LaVell Edwards,A,Utah State,Ind,Bruce Snyder,W,65,6
-1977-09-30,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,54,19
-1977-10-08,Brigham Young,WAC,LaVell Edwards,A,Oregon State,Pac-8,Craig Fertig,L,19,24
-1977-10-15,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,W,63,17
-1977-10-22,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Bill Lewis,W,10,7
-1977-10-29,Brigham Young,WAC,LaVell Edwards,H,Arizona,WAC,Tony Mason,W,34,14
-1977-11-05,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Wayne Howard,W,38,8
-1977-11-12,Brigham Young,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,13,24
-1977-11-19,Brigham Young,WAC,LaVell Edwards,H,Long Beach State,PCAA,Dave Currey,W,30,27
-1977-11-26,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Bill Michael,W,68,19
+1977-09-10,BYU,WAC,LaVell Edwards,H,Kansas State,Big 8,Ellis Rainsberger,W,39,0
+1977-09-24,BYU,WAC,LaVell Edwards,A,Utah State,Ind,Bruce Snyder,W,65,6
+1977-09-30,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Bill Mondt,W,54,19
+1977-10-08,BYU,WAC,LaVell Edwards,A,Oregon State,Pac-8,Craig Fertig,L,19,24
+1977-10-15,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,W,63,17
+1977-10-22,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Bill Lewis,W,10,7
+1977-10-29,BYU,WAC,LaVell Edwards,H,Arizona,WAC,Tony Mason,W,34,14
+1977-11-05,BYU,WAC,LaVell Edwards,H,Utah,WAC,Wayne Howard,W,38,8
+1977-11-12,BYU,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,13,24
+1977-11-19,BYU,WAC,LaVell Edwards,H,Long Beach State,PCAA,Dave Currey,W,30,27
+1977-11-26,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Bill Michael,W,68,19
 1977-09-17,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,John Anderson,W,10,9
 1977-10-01,Yale,Ivy,Carmen Cozza,H,Miami (OH),MAC,Dick Crum,L,14,28
 1977-10-08,Yale,Ivy,Carmen Cozza,H,Dartmouth,Ivy,John Crouthamel,L,0,3
@@ -841,7 +841,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-10-22,Southern,SWAC,Ken Tillage,H,Alcorn State,SWAC,Marino Casem,L,0,23
 1977-10-29,Southern,SWAC,Ken Tillage,H,Tennessee State,Ind,John Merritt,L,7,15
 1977-11-19,Southern,SWAC,Ken Tillage,H,Grambling State,SWAC,Eddie Robinson,L,20,55
-1977-09-10,Kansas State,Big 8,Ellis Rainsberger,A,Brigham Young,WAC,LaVell Edwards,L,0,39
+1977-09-10,Kansas State,Big 8,Ellis Rainsberger,A,BYU,WAC,LaVell Edwards,L,0,39
 1977-09-17,Kansas State,Big 8,Ellis Rainsberger,H,Florida State,Ind,Bobby Bowden,L,10,18
 1977-09-24,Kansas State,Big 8,Ellis Rainsberger,A,Wichita State,MVC,Jim Wright,W,21,14
 1977-10-01,Kansas State,Big 8,Ellis Rainsberger,H,Mississippi State,SEC,Bob Tyler,L,21,24
@@ -970,7 +970,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-11-05,UTEP,WAC,Bill Michael,A,New Mexico,WAC,Bill Mondt,L,17,33
 1977-11-12,UTEP,WAC,Bill Michael,A,Utah,WAC,Wayne Howard,L,17,29
 1977-11-19,UTEP,WAC,Bill Michael,H,Arizona,WAC,Tony Mason,L,24,41
-1977-11-26,UTEP,WAC,Bill Michael,H,Brigham Young,WAC,LaVell Edwards,L,19,68
+1977-11-26,UTEP,WAC,Bill Michael,H,BYU,WAC,LaVell Edwards,L,19,68
 1977-09-10,Indiana State,Ind,Tom Harp,A,McNeese State,Southland,Jack Doland,L,7,25
 1977-09-17,Indiana State,Ind,Tom Harp,A,Southern Illinois,MVC,Rey Dempsey,W,14,9
 1977-09-24,Indiana State,Ind,Tom Harp,H,Western Carolina,Southern,Bob Waters,L,14,15
@@ -1146,7 +1146,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-09-17,Oregon State,Pac-8,Craig Fertig,H,USC,Pac-8,John Robinson,L,10,17
 1977-09-24,Oregon State,Pac-8,Craig Fertig,A,Arizona State,WAC,Frank Kush,L,31,33
 1977-10-01,Oregon State,Pac-8,Craig Fertig,A,Tennessee,SEC,Johnny Majors,L,10,41
-1977-10-08,Oregon State,Pac-8,Craig Fertig,H,Brigham Young,WAC,LaVell Edwards,W,24,19
+1977-10-08,Oregon State,Pac-8,Craig Fertig,H,BYU,WAC,LaVell Edwards,W,24,19
 1977-10-15,Oregon State,Pac-8,Craig Fertig,A,California,Pac-8,Mike White,L,17,41
 1977-10-22,Oregon State,Pac-8,Craig Fertig,A,Washington,Pac-8,Don James,L,6,14
 1977-10-29,Oregon State,Pac-8,Craig Fertig,H,Stanford,Pac-8,Bill Walsh,L,7,26
@@ -1233,7 +1233,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1977-09-17,Colorado State,WAC,Sarkis Arslanian,A,Hawaii,Ind,Dick Tomey,W,20,16
 1977-10-01,Colorado State,WAC,Sarkis Arslanian,H,Utah,WAC,Wayne Howard,W,44,3
 1977-10-08,Colorado State,WAC,Sarkis Arslanian,A,UTEP,WAC,Bill Michael,W,31,14
-1977-10-15,Colorado State,WAC,Sarkis Arslanian,H,Brigham Young,WAC,LaVell Edwards,L,17,63
+1977-10-15,Colorado State,WAC,Sarkis Arslanian,H,BYU,WAC,LaVell Edwards,L,17,63
 1977-10-22,Colorado State,WAC,Sarkis Arslanian,H,New Mexico,WAC,Bill Mondt,W,14,9
 1977-10-29,Colorado State,WAC,Sarkis Arslanian,A,Wyoming,WAC,Bill Lewis,L,13,29
 1977-11-05,Colorado State,WAC,Sarkis Arslanian,A,Arizona,WAC,Tony Mason,W,35,14

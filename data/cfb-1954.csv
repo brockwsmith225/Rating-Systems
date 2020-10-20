@@ -48,7 +48,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-11-13,Fordham,Ind,Edward Danowski,H,Holy Cross,Ind,Edward Anderson,L,19,20
 1954-11-20,Fordham,Ind,Edward Danowski,H,Syracuse,Ind,Ben Schwartzwalder,L,7,20
 1954-11-27,Fordham,Ind,Edward Danowski,H,Villanova,Ind,Francis Reagan,L,0,41
-1954-09-24,Arizona State,BIAA,Clyde Smith,A,Brigham Young,Skyline,Charles Atkinson,W,28,19
+1954-09-24,Arizona State,BIAA,Clyde Smith,A,BYU,Skyline,Charles Atkinson,W,28,19
 1954-10-02,Arizona State,BIAA,Clyde Smith,H,UTEP,BIAA,Mike Brumbelow,W,34,27
 1954-10-09,Arizona State,BIAA,Clyde Smith,H,San Jose State,Ind,Robert Bronzan,L,12,19
 1954-10-23,Arizona State,BIAA,Clyde Smith,H,West Texas A&M,BIAA,Frank Kimbrough,W,21,14
@@ -66,7 +66,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-09-18,Utah,Skyline,Jack Curtice,A,Washington,PCC,John Cherberg,L,6,7
 1954-09-25,Utah,Skyline,Jack Curtice,H,Arizona,BIAA,Warren Woodson,L,20,54
 1954-10-02,Utah,Skyline,Jack Curtice,A,Oregon,PCC,Len Casanova,W,7,6
-1954-10-09,Utah,Skyline,Jack Curtice,A,Brigham Young,Skyline,Charles Atkinson,W,12,7
+1954-10-09,Utah,Skyline,Jack Curtice,A,BYU,Skyline,Charles Atkinson,W,12,7
 1954-10-16,Utah,Skyline,Jack Curtice,H,Denver,Skyline,Bob Blackman,L,20,28
 1954-10-23,Utah,Skyline,Jack Curtice,A,Wyoming,Skyline,Phil Dickens,W,14,7
 1954-10-30,Utah,Skyline,Jack Curtice,H,Idaho,PCC,Skip Stahley,L,13,14
@@ -112,7 +112,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-10-02,Montana,Skyline,Eddie Chinske,A,Iowa,Big Ten,Forest Evashevski,L,6,48
 1954-10-08,Montana,Skyline,Eddie Chinske,A,Denver,Skyline,Bob Blackman,L,13,19
 1954-10-16,Montana,Skyline,Eddie Chinske,H,Utah State,Skyline,John Roning,W,20,13
-1954-10-23,Montana,Skyline,Eddie Chinske,A,Brigham Young,Skyline,Charles Atkinson,L,7,19
+1954-10-23,Montana,Skyline,Eddie Chinske,A,BYU,Skyline,Charles Atkinson,L,7,19
 1954-10-30,Montana,Skyline,Eddie Chinske,A,Colorado State,Skyline,Robert Davis,L,34,37
 1954-11-06,Montana,Skyline,Eddie Chinske,A,New Mexico,Skyline,Robert Titchenal,L,14,20
 1954-11-20,Montana,Skyline,Eddie Chinske,H,Utah,Skyline,Jack Curtice,L,20,41
@@ -262,7 +262,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-10-16,Idaho,PCC,Skip Stahley,A,Arizona,BIAA,Warren Woodson,L,13,35
 1954-10-23,Idaho,PCC,Skip Stahley,A,Washington State,PCC,Alton Kircher,W,10,0
 1954-10-30,Idaho,PCC,Skip Stahley,A,Utah,Skyline,Jack Curtice,W,14,13
-1954-11-20,Idaho,PCC,Skip Stahley,H,Brigham Young,Skyline,Charles Atkinson,W,7,0
+1954-11-20,Idaho,PCC,Skip Stahley,H,BYU,Skyline,Charles Atkinson,W,7,0
 1954-10-02,Citadel,Southern,Johnnie McMillan,H,Davidson,Southern,,L,0,13
 1954-10-09,Citadel,Southern,Johnnie McMillan,H,Richmond,Southern,Edwin Merrick,L,0,26
 1954-10-16,Citadel,Southern,Johnnie McMillan,A,Furman,Southern,,L,20,31
@@ -341,7 +341,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-10-02,Utah State,Skyline,John Roning,A,New Mexico,Skyline,Robert Titchenal,W,6,0
 1954-10-16,Utah State,Skyline,John Roning,A,Montana,Skyline,Eddie Chinske,L,13,20
 1954-10-23,Utah State,Skyline,John Roning,H,Colorado State,Skyline,Robert Davis,W,20,14
-1954-10-30,Utah State,Skyline,John Roning,H,Brigham Young,Skyline,Charles Atkinson,W,45,13
+1954-10-30,Utah State,Skyline,John Roning,H,BYU,Skyline,Charles Atkinson,W,45,13
 1954-11-06,Utah State,Skyline,John Roning,H,Wyoming,Skyline,Phil Dickens,L,12,21
 1954-11-13,Utah State,Skyline,John Roning,H,Denver,Skyline,Bob Blackman,L,7,25
 1954-11-25,Utah State,Skyline,John Roning,A,Utah,Skyline,Jack Curtice,W,35,19
@@ -379,7 +379,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-10-16,Denver,Skyline,Bob Blackman,A,Utah,Skyline,Jack Curtice,W,28,20
 1954-10-22,Denver,Skyline,Bob Blackman,H,Wichita State,MVC,Jack Mitchell,W,27,14
 1954-10-29,Denver,Skyline,Bob Blackman,H,New Mexico,Skyline,Robert Titchenal,W,19,6
-1954-11-06,Denver,Skyline,Bob Blackman,A,Brigham Young,Skyline,Charles Atkinson,W,20,0
+1954-11-06,Denver,Skyline,Bob Blackman,A,BYU,Skyline,Charles Atkinson,W,20,0
 1954-11-13,Denver,Skyline,Bob Blackman,A,Utah State,Skyline,John Roning,W,25,7
 1954-11-25,Denver,Skyline,Bob Blackman,H,Colorado State,Skyline,Robert Davis,W,34,0
 1954-09-25,Wisconsin,Big Ten,Ivy Williamson,H,Marquette,Ind,Frosty Ferzacca,W,52,14
@@ -436,7 +436,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-11-06,Detroit Mercy,MVC,Wally Fromhart,A,Oklahoma State,MVC,Jennings Whitworth,L,19,34
 1954-11-20,Detroit Mercy,MVC,Wally Fromhart,A,Wichita State,MVC,Jack Mitchell,L,0,20
 1954-12-04,Detroit Mercy,MVC,Wally Fromhart,A,Houston,MVC,Clyde Lee,L,7,19
-1954-09-18,New Mexico,Skyline,Robert Titchenal,A,Brigham Young,Skyline,Charles Atkinson,W,21,12
+1954-09-18,New Mexico,Skyline,Robert Titchenal,A,BYU,Skyline,Charles Atkinson,W,21,12
 1954-10-02,New Mexico,Skyline,Robert Titchenal,H,Utah State,Skyline,John Roning,L,0,6
 1954-10-16,New Mexico,Skyline,Robert Titchenal,A,Wyoming,Skyline,Phil Dickens,L,7,9
 1954-10-23,New Mexico,Skyline,Robert Titchenal,H,Arizona,BIAA,Warren Woodson,L,7,41
@@ -501,18 +501,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-10-16,Wyoming,Skyline,Phil Dickens,H,New Mexico,Skyline,Robert Titchenal,W,9,7
 1954-10-23,Wyoming,Skyline,Phil Dickens,H,Utah,Skyline,Jack Curtice,L,7,14
 1954-11-06,Wyoming,Skyline,Phil Dickens,A,Utah State,Skyline,John Roning,W,21,12
-1954-11-13,Wyoming,Skyline,Phil Dickens,A,Brigham Young,Skyline,Charles Atkinson,W,34,13
+1954-11-13,Wyoming,Skyline,Phil Dickens,A,BYU,Skyline,Charles Atkinson,W,34,13
 1954-11-20,Wyoming,Skyline,Phil Dickens,A,Tulsa,MVC,Bernie Witucki,W,28,27
 1954-11-27,Wyoming,Skyline,Phil Dickens,A,Arizona,BIAA,Warren Woodson,L,40,42
-1954-09-18,Brigham Young,Skyline,Charles Atkinson,H,New Mexico,Skyline,Robert Titchenal,L,12,21
-1954-09-24,Brigham Young,Skyline,Charles Atkinson,H,Arizona State,BIAA,Clyde Smith,L,19,28
-1954-10-02,Brigham Young,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,13,14
-1954-10-09,Brigham Young,Skyline,Charles Atkinson,H,Utah,Skyline,Jack Curtice,L,7,12
-1954-10-23,Brigham Young,Skyline,Charles Atkinson,H,Montana,Skyline,Eddie Chinske,W,19,7
-1954-10-30,Brigham Young,Skyline,Charles Atkinson,A,Utah State,Skyline,John Roning,L,13,45
-1954-11-06,Brigham Young,Skyline,Charles Atkinson,H,Denver,Skyline,Bob Blackman,L,0,20
-1954-11-13,Brigham Young,Skyline,Charles Atkinson,H,Wyoming,Skyline,Phil Dickens,L,13,34
-1954-11-20,Brigham Young,Skyline,Charles Atkinson,A,Idaho,PCC,Skip Stahley,L,0,7
+1954-09-18,BYU,Skyline,Charles Atkinson,H,New Mexico,Skyline,Robert Titchenal,L,12,21
+1954-09-24,BYU,Skyline,Charles Atkinson,H,Arizona State,BIAA,Clyde Smith,L,19,28
+1954-10-02,BYU,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,13,14
+1954-10-09,BYU,Skyline,Charles Atkinson,H,Utah,Skyline,Jack Curtice,L,7,12
+1954-10-23,BYU,Skyline,Charles Atkinson,H,Montana,Skyline,Eddie Chinske,W,19,7
+1954-10-30,BYU,Skyline,Charles Atkinson,A,Utah State,Skyline,John Roning,L,13,45
+1954-11-06,BYU,Skyline,Charles Atkinson,H,Denver,Skyline,Bob Blackman,L,0,20
+1954-11-13,BYU,Skyline,Charles Atkinson,H,Wyoming,Skyline,Phil Dickens,L,13,34
+1954-11-20,BYU,Skyline,Charles Atkinson,A,Idaho,PCC,Skip Stahley,L,0,7
 1954-10-02,Yale,Ind,Jordan Olivar,H,Brown,Ind,Alva Kelley,W,26,24
 1954-10-09,Yale,Ind,Jordan Olivar,A,Columbia,Ind,Lou Little,W,13,7
 1954-10-16,Yale,Ind,Jordan Olivar,H,Cornell,Ind,George James,W,47,21
@@ -833,7 +833,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1954-11-20,Colorado,Big 7,Dallas Ward,H,Kansas State,Big 7,Bill Meek,W,38,14
 1954-09-18,Colorado State,Skyline,Robert Davis,A,Kansas State,Big 7,Bill Meek,L,0,29
 1954-09-25,Colorado State,Skyline,Robert Davis,A,Colorado,Big 7,Dallas Ward,L,0,46
-1954-10-02,Colorado State,Skyline,Robert Davis,H,Brigham Young,Skyline,Charles Atkinson,W,14,13
+1954-10-02,Colorado State,Skyline,Robert Davis,H,BYU,Skyline,Charles Atkinson,W,14,13
 1954-10-09,Colorado State,Skyline,Robert Davis,H,Wyoming,Skyline,Phil Dickens,L,0,34
 1954-10-16,Colorado State,Skyline,Robert Davis,H,Pacific,Ind,Moose Myers,L,7,15
 1954-10-23,Colorado State,Skyline,Robert Davis,A,Utah State,Skyline,John Roning,L,14,20

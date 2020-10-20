@@ -94,7 +94,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-10-18,Utah,WAC,Wayne Howard,A,Wyoming,WAC,Pat Dye,L,21,24
 1980-10-25,Utah,WAC,Wayne Howard,H,Colorado State,WAC,Sarkis Arslanian,T,21,21
 1980-11-08,Utah,WAC,Wayne Howard,H,New Mexico,WAC,Joe Morrison,W,49,21
-1980-11-22,Utah,WAC,Wayne Howard,H,Brigham Young,WAC,LaVell Edwards,L,6,56
+1980-11-22,Utah,WAC,Wayne Howard,H,BYU,WAC,LaVell Edwards,L,6,56
 1980-11-29,Utah,WAC,Wayne Howard,A,San Diego State,WAC,Claude Gilbert,L,20,21
 1980-09-06,Cal State Fullerton,PCAA,Gene Murphy,A,Fresno State,PCAA,Jim Sweeney,W,39,25
 1980-10-04,Cal State Fullerton,PCAA,Gene Murphy,A,Nevada-Las Vegas,Ind,Tony Knap,L,17,36
@@ -284,7 +284,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-11-08,SMU,SWC,Ron Meyer,A,Rice,SWC,Ray Alborn,W,34,14
 1980-11-15,SMU,SWC,Ron Meyer,A,Texas Tech,SWC,Rex Dockery,L,0,14
 1980-11-23,SMU,SWC,Ron Meyer,H,Arkansas,SWC,Lou Holtz,W,31,7
-1980-12-19,SMU,SWC,Ron Meyer,N,Brigham Young,WAC,LaVell Edwards,L,45,46
+1980-12-19,SMU,SWC,Ron Meyer,N,BYU,WAC,LaVell Edwards,L,45,46
 1980-09-06,Georgia,SEC,Vince Dooley,A,Tennessee,SEC,Johnny Majors,W,16,15
 1980-09-13,Georgia,SEC,Vince Dooley,H,Texas A&M,SWC,Tom Wilson,W,42,0
 1980-09-20,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Danny Ford,W,20,16
@@ -449,7 +449,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-12-13,Southern Mississippi,Ind,Bobby Collins,N,McNeese State,Southland,Ernie Duplechin,W,16,14
 1980-09-05,Long Beach State,PCAA,Dave Currey,H,Northern Illinois,MAC,Bill Mallory,L,9,16
 1980-09-20,Long Beach State,PCAA,Dave Currey,A,Bowling Green State,MAC,Dennis Stolz,W,23,21
-1980-09-27,Long Beach State,PCAA,Dave Currey,A,Brigham Young,WAC,LaVell Edwards,L,25,41
+1980-09-27,Long Beach State,PCAA,Dave Currey,A,BYU,WAC,LaVell Edwards,L,25,41
 1980-10-11,Long Beach State,PCAA,Dave Currey,A,Pacific,PCAA,Bob Toledo,W,17,12
 1980-10-18,Long Beach State,PCAA,Dave Currey,A,San Jose State,PCAA,Jack Elway,W,23,21
 1980-10-25,Long Beach State,PCAA,Dave Currey,A,Oregon State,Pac-10,Joe Avezzano,W,31,21
@@ -461,7 +461,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-09-20,Utah State,PCAA,Bruce Snyder,A,Texas,SWC,Fred Akers,L,17,35
 1980-10-04,Utah State,PCAA,Bruce Snyder,H,Utah,WAC,Wayne Howard,L,19,23
 1980-10-11,Utah State,PCAA,Bruce Snyder,A,Cal State Fullerton,PCAA,Gene Murphy,W,28,17
-1980-10-18,Utah State,PCAA,Bruce Snyder,H,Brigham Young,WAC,LaVell Edwards,L,46,70
+1980-10-18,Utah State,PCAA,Bruce Snyder,H,BYU,WAC,LaVell Edwards,L,46,70
 1980-10-25,Utah State,PCAA,Bruce Snyder,A,Fresno State,PCAA,Jim Sweeney,W,14,0
 1980-11-01,Utah State,PCAA,Bruce Snyder,H,Pacific,PCAA,Bob Toledo,W,21,7
 1980-11-15,Utah State,PCAA,Bruce Snyder,A,Long Beach State,PCAA,Dave Currey,L,27,28
@@ -499,7 +499,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-11-08,Bowling Green State,MAC,Dennis Stolz,A,Central Michigan,MAC,Herb Deromedi,L,10,32
 1980-11-22,Bowling Green State,MAC,Dennis Stolz,H,Ohio,MAC,Brian Burke,L,20,21
 1980-09-13,Wisconsin,Big Ten,Dave McClain,H,Purdue,Big Ten,Jim Young,L,6,12
-1980-09-20,Wisconsin,Big Ten,Dave McClain,H,Brigham Young,WAC,LaVell Edwards,L,3,28
+1980-09-20,Wisconsin,Big Ten,Dave McClain,H,BYU,WAC,LaVell Edwards,L,3,28
 1980-09-27,Wisconsin,Big Ten,Dave McClain,A,UCLA,Pac-10,Terry Donahue,L,0,35
 1980-10-04,Wisconsin,Big Ten,Dave McClain,H,San Diego State,WAC,Claude Gilbert,W,35,12
 1980-10-11,Wisconsin,Big Ten,Dave McClain,A,Indiana,Big Ten,Lee Corso,L,0,24
@@ -531,7 +531,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-11-08,North Carolina State,ACC,Monte Kiffin,A,Penn State,Ind,Joe Paterno,L,13,21
 1980-11-15,North Carolina State,ACC,Monte Kiffin,H,Duke,ACC,Red Wilson,W,38,21
 1980-11-22,North Carolina State,ACC,Monte Kiffin,H,East Carolina,Ind,Ed Emory,W,36,14
-1980-09-13,San Diego State,WAC,Claude Gilbert,A,Brigham Young,WAC,LaVell Edwards,L,11,35
+1980-09-13,San Diego State,WAC,Claude Gilbert,A,BYU,WAC,LaVell Edwards,L,11,35
 1980-09-20,San Diego State,WAC,Claude Gilbert,A,Air Force,WAC,Ken Hatfield,W,13,10
 1980-09-27,San Diego State,WAC,Claude Gilbert,H,Missouri,Big 8,Warren Powers,L,7,31
 1980-10-04,San Diego State,WAC,Claude Gilbert,A,Wisconsin,Big Ten,Dave McClain,L,12,35
@@ -548,7 +548,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-10-04,Hawaii,WAC,Dick Tomey,H,UTEP,WAC,Bill Michael,L,14,34
 1980-10-11,Hawaii,WAC,Dick Tomey,H,West Virginia,Ind,Don Nehlen,W,16,13
 1980-10-18,Hawaii,WAC,Dick Tomey,A,New Mexico,WAC,Joe Morrison,W,31,14
-1980-10-25,Hawaii,WAC,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,7,34
+1980-10-25,Hawaii,WAC,Dick Tomey,H,BYU,WAC,LaVell Edwards,L,7,34
 1980-11-01,Hawaii,WAC,Dick Tomey,H,Cal State Fullerton,PCAA,Gene Murphy,W,31,21
 1980-11-08,Hawaii,WAC,Dick Tomey,H,San Diego State,WAC,Claude Gilbert,W,31,6
 1980-11-15,Hawaii,WAC,Dick Tomey,A,Nevada-Las Vegas,Ind,Tony Knap,W,24,19
@@ -603,7 +603,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-11-08,Temple,Ind,Wayne Hardin,H,West Virginia,Ind,Don Nehlen,L,28,41
 1980-11-15,Temple,Ind,Wayne Hardin,H,Penn State,Ind,Joe Paterno,L,7,50
 1980-11-22,Temple,Ind,Wayne Hardin,A,Villanova,Ind,Dick Bedesem,L,7,23
-1980-09-06,New Mexico,WAC,Joe Morrison,H,Brigham Young,WAC,LaVell Edwards,W,25,21
+1980-09-06,New Mexico,WAC,Joe Morrison,H,BYU,WAC,LaVell Edwards,W,25,21
 1980-09-13,New Mexico,WAC,Joe Morrison,A,Missouri,Big 8,Warren Powers,L,16,47
 1980-09-20,New Mexico,WAC,Joe Morrison,A,Texas Tech,SWC,Rex Dockery,L,17,28
 1980-09-27,New Mexico,WAC,Joe Morrison,H,New Mexico State,MVC,Gil Krueger,W,52,19
@@ -699,33 +699,33 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-10-11,North Texas,Ind,Jerry Moore,A,Tulsa,MVC,John Cooper,L,27,28
 1980-10-18,North Texas,Ind,Jerry Moore,A,Memphis,Ind,Richard Williamson,W,29,10
 1980-11-01,North Texas,Ind,Jerry Moore,A,New Mexico State,MVC,Gil Krueger,W,38,28
-1980-11-08,North Texas,Ind,Jerry Moore,A,Brigham Young,WAC,LaVell Edwards,L,23,41
+1980-11-08,North Texas,Ind,Jerry Moore,A,BYU,WAC,LaVell Edwards,L,23,41
 1980-11-15,North Texas,Ind,Jerry Moore,H,Louisiana-Monroe,Ind,John David Crow,W,26,18
 1980-11-22,North Texas,Ind,Jerry Moore,A,Miami (FL),Ind,Howard Schnellenberger,L,8,26
 1980-09-13,Wyoming,WAC,Pat Dye,H,Oregon State,Pac-10,Joe Avezzano,W,30,10
 1980-09-20,Wyoming,WAC,Pat Dye,H,Richmond,Ind,Dal Shealy,W,35,14
 1980-09-27,Wyoming,WAC,Pat Dye,H,Hawaii,WAC,Dick Tomey,W,45,20
 1980-10-04,Wyoming,WAC,Pat Dye,H,New Mexico,WAC,Joe Morrison,L,21,24
-1980-10-11,Wyoming,WAC,Pat Dye,A,Brigham Young,WAC,LaVell Edwards,L,17,52
+1980-10-11,Wyoming,WAC,Pat Dye,A,BYU,WAC,LaVell Edwards,L,17,52
 1980-10-18,Wyoming,WAC,Pat Dye,H,Utah,WAC,Wayne Howard,W,24,21
 1980-10-25,Wyoming,WAC,Pat Dye,H,San Diego State,WAC,Claude Gilbert,W,34,9
 1980-11-01,Wyoming,WAC,Pat Dye,A,Colorado State,WAC,Sarkis Arslanian,L,25,28
 1980-11-08,Wyoming,WAC,Pat Dye,A,Nevada-Las Vegas,Ind,Tony Knap,L,26,33
 1980-11-15,Wyoming,WAC,Pat Dye,A,Air Force,WAC,Ken Hatfield,L,7,25
 1980-11-22,Wyoming,WAC,Pat Dye,A,UTEP,WAC,Bill Michael,W,52,7
-1980-09-06,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Morrison,L,21,25
-1980-09-13,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Claude Gilbert,W,35,11
-1980-09-20,Brigham Young,WAC,LaVell Edwards,A,Wisconsin,Big Ten,Dave McClain,W,28,3
-1980-09-27,Brigham Young,WAC,LaVell Edwards,H,Long Beach State,PCAA,Dave Currey,W,41,25
-1980-10-11,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Pat Dye,W,52,17
-1980-10-18,Brigham Young,WAC,LaVell Edwards,A,Utah State,PCAA,Bruce Snyder,W,70,46
-1980-10-25,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,34,7
-1980-11-01,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,83,7
-1980-11-08,Brigham Young,WAC,LaVell Edwards,H,North Texas,Ind,Jerry Moore,W,41,23
-1980-11-15,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,W,45,14
-1980-11-22,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Wayne Howard,W,56,6
-1980-11-29,Brigham Young,WAC,LaVell Edwards,A,Nevada-Las Vegas,Ind,Tony Knap,W,54,14
-1980-12-19,Brigham Young,WAC,LaVell Edwards,N,SMU,SWC,Ron Meyer,W,46,45
+1980-09-06,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Morrison,L,21,25
+1980-09-13,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Claude Gilbert,W,35,11
+1980-09-20,BYU,WAC,LaVell Edwards,A,Wisconsin,Big Ten,Dave McClain,W,28,3
+1980-09-27,BYU,WAC,LaVell Edwards,H,Long Beach State,PCAA,Dave Currey,W,41,25
+1980-10-11,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Pat Dye,W,52,17
+1980-10-18,BYU,WAC,LaVell Edwards,A,Utah State,PCAA,Bruce Snyder,W,70,46
+1980-10-25,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,34,7
+1980-11-01,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,83,7
+1980-11-08,BYU,WAC,LaVell Edwards,H,North Texas,Ind,Jerry Moore,W,41,23
+1980-11-15,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,W,45,14
+1980-11-22,BYU,WAC,LaVell Edwards,A,Utah,WAC,Wayne Howard,W,56,6
+1980-11-29,BYU,WAC,LaVell Edwards,A,Nevada-Las Vegas,Ind,Tony Knap,W,54,14
+1980-12-19,BYU,WAC,LaVell Edwards,N,SMU,SWC,Ron Meyer,W,46,45
 1980-09-20,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,W,45,17
 1980-10-04,Yale,Ivy,Carmen Cozza,H,Air Force,WAC,Ken Hatfield,W,17,16
 1980-10-11,Yale,Ivy,Carmen Cozza,A,Boston College,Ind,Ed Chlebek,L,9,27
@@ -788,7 +788,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-11-01,Nevada-Las Vegas,Ind,Tony Knap,A,New Mexico,WAC,Joe Morrison,W,72,7
 1980-11-08,Nevada-Las Vegas,Ind,Tony Knap,H,Wyoming,WAC,Pat Dye,W,33,26
 1980-11-15,Nevada-Las Vegas,Ind,Tony Knap,H,Hawaii,WAC,Dick Tomey,L,19,24
-1980-11-29,Nevada-Las Vegas,Ind,Tony Knap,H,Brigham Young,WAC,LaVell Edwards,L,14,54
+1980-11-29,Nevada-Las Vegas,Ind,Tony Knap,H,BYU,WAC,LaVell Edwards,L,14,54
 1980-09-06,Virginia Military Institute,Southern,Bob Thalman,A,Western Carolina,Southern,Bob Waters,L,14,16
 1980-09-13,Virginia Military Institute,Southern,Bob Thalman,A,William & Mary,Ind,Jimmye Laycock,W,13,10
 1980-09-20,Virginia Military Institute,Southern,Bob Thalman,H,Marshall,Southern,Sonny Randle,W,17,3
@@ -938,7 +938,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-10-11,UTEP,WAC,Bill Michael,H,Utah,WAC,Wayne Howard,L,7,31
 1980-10-18,UTEP,WAC,Bill Michael,A,Nevada-Las Vegas,Ind,Tony Knap,L,14,53
 1980-10-25,UTEP,WAC,Bill Michael,H,New Mexico,WAC,Joe Morrison,L,21,22
-1980-11-01,UTEP,WAC,Bill Michael,A,Brigham Young,WAC,LaVell Edwards,L,7,83
+1980-11-01,UTEP,WAC,Bill Michael,A,BYU,WAC,LaVell Edwards,L,7,83
 1980-11-08,UTEP,WAC,Bill Michael,A,Colorado State,WAC,Sarkis Arslanian,L,7,37
 1980-11-15,UTEP,WAC,Bill Michael,H,San Diego State,WAC,Claude Gilbert,L,7,28
 1980-11-22,UTEP,WAC,Bill Michael,H,Wyoming,WAC,Pat Dye,L,7,52
@@ -1215,7 +1215,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1980-10-25,Colorado State,WAC,Sarkis Arslanian,A,Utah,WAC,Wayne Howard,T,21,21
 1980-11-01,Colorado State,WAC,Sarkis Arslanian,H,Wyoming,WAC,Pat Dye,W,28,25
 1980-11-08,Colorado State,WAC,Sarkis Arslanian,H,UTEP,WAC,Bill Michael,W,37,7
-1980-11-15,Colorado State,WAC,Sarkis Arslanian,A,Brigham Young,WAC,LaVell Edwards,L,14,45
+1980-11-15,Colorado State,WAC,Sarkis Arslanian,A,BYU,WAC,LaVell Edwards,L,14,45
 1980-09-13,Rice,SWC,Ray Alborn,A,Clemson,ACC,Danny Ford,L,3,19
 1980-09-20,Rice,SWC,Ray Alborn,A,Tulane,Ind,Vince Gibson,L,14,35
 1980-09-27,Rice,SWC,Ray Alborn,H,LSU,SEC,Jerry Stovall,W,17,7

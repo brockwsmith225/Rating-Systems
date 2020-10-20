@@ -64,7 +64,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-09-24,Arizona State,WAC,Frank Kush,A,Wyoming,WAC,Lloyd Eaton,L,6,23
 1966-10-01,Arizona State,WAC,Frank Kush,H,West Texas A&M,Ind,Joe Kerbel,L,20,21
 1966-10-09,Arizona State,WAC,Frank Kush,A,Washington State,AAWU,Bert Clark,L,15,24
-1966-10-14,Arizona State,WAC,Frank Kush,A,Brigham Young,WAC,Tommy Hudspeth,W,10,7
+1966-10-14,Arizona State,WAC,Frank Kush,A,BYU,WAC,Tommy Hudspeth,W,10,7
 1966-10-22,Arizona State,WAC,Frank Kush,H,Oregon State,AAWU,Dee Andros,L,17,18
 1966-11-05,Arizona State,WAC,Frank Kush,H,Utah,WAC,Mike Giddings,L,6,21
 1966-11-12,Arizona State,WAC,Frank Kush,H,Oregon,AAWU,Len Casanova,W,14,10
@@ -82,7 +82,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-10-22,Utah,WAC,Mike Giddings,A,Arizona,WAC,Jim LaRue,W,24,19
 1966-10-29,Utah,WAC,Mike Giddings,H,New Mexico,WAC,Bill Weeks,W,27,0
 1966-11-05,Utah,WAC,Mike Giddings,A,Arizona State,WAC,Frank Kush,W,21,6
-1966-11-12,Utah,WAC,Mike Giddings,H,Brigham Young,WAC,Tommy Hudspeth,L,13,35
+1966-11-12,Utah,WAC,Mike Giddings,H,BYU,WAC,Tommy Hudspeth,L,13,35
 1966-11-19,Utah,WAC,Mike Giddings,H,Utah State,Ind,Tony Knap,L,7,13
 1966-11-26,Utah,WAC,Mike Giddings,A,UTEP,Ind,Robert Dobbs,L,20,27
 1966-12-03,Utah,WAC,Mike Giddings,A,Houston,Ind,Bill Yeoman,L,14,34
@@ -117,7 +117,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-10-01,Arizona,WAC,Jim LaRue,A,Wyoming,WAC,Lloyd Eaton,L,6,36
 1966-10-08,Arizona,WAC,Jim LaRue,A,New Mexico,WAC,Bill Weeks,W,36,15
 1966-10-22,Arizona,WAC,Jim LaRue,H,Utah,WAC,Mike Giddings,L,19,24
-1966-10-29,Arizona,WAC,Jim LaRue,H,Brigham Young,WAC,Tommy Hudspeth,L,14,16
+1966-10-29,Arizona,WAC,Jim LaRue,H,BYU,WAC,Tommy Hudspeth,L,14,16
 1966-11-05,Arizona,WAC,Jim LaRue,A,Oregon State,AAWU,Dee Andros,L,12,31
 1966-11-12,Arizona,WAC,Jim LaRue,H,Washington State,AAWU,Bert Clark,W,28,18
 1966-11-19,Arizona,WAC,Jim LaRue,H,Iowa State,Big 8,Clay Stapleton,W,27,24
@@ -366,7 +366,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-09-17,Utah State,Ind,Tony Knap,A,New Mexico,WAC,Bill Weeks,L,8,17
 1966-09-24,Utah State,Ind,Tony Knap,A,Nebraska,Big 8,Bob Devaney,L,7,28
 1966-10-01,Utah State,Ind,Tony Knap,H,New Mexico State,Ind,Warren Woodson,L,7,23
-1966-10-08,Utah State,Ind,Tony Knap,A,Brigham Young,WAC,Tommy Hudspeth,L,7,27
+1966-10-08,Utah State,Ind,Tony Knap,A,BYU,WAC,Tommy Hudspeth,L,7,27
 1966-10-15,Utah State,Ind,Tony Knap,H,Colorado State,Ind,Milo Lude,L,7,10
 1966-10-22,Utah State,Ind,Tony Knap,A,Wyoming,WAC,Lloyd Eaton,L,10,35
 1966-11-05,Utah State,Ind,Tony Knap,A,Pacific,Ind,Doug Scovil,W,47,9
@@ -383,7 +383,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-11-12,Missouri,Big 8,Dan Devine,A,Oklahoma,Big 8,Jim MacKenzie,W,10,7
 1966-11-19,Missouri,Big 8,Dan Devine,H,Kansas,Big 8,Jack Mitchell,W,7,0
 1966-09-17,San Jose State,Ind,Harry Anderson,A,Stanford,AAWU,John Ralston,L,21,25
-1966-09-24,San Jose State,Ind,Harry Anderson,H,Brigham Young,WAC,Tommy Hudspeth,L,9,19
+1966-09-24,San Jose State,Ind,Harry Anderson,H,BYU,WAC,Tommy Hudspeth,L,9,19
 1966-10-01,San Jose State,Ind,Harry Anderson,A,Oregon,AAWU,Len Casanova,W,21,7
 1966-10-08,San Jose State,Ind,Harry Anderson,A,California,AAWU,Ray Willsey,W,24,0
 1966-10-22,San Jose State,Ind,Harry Anderson,A,UTEP,Ind,Robert Dobbs,L,0,35
@@ -450,7 +450,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-10-01,New Mexico,WAC,Bill Weeks,A,UTEP,Ind,Robert Dobbs,L,3,51
 1966-10-08,New Mexico,WAC,Bill Weeks,H,Arizona,WAC,Jim LaRue,L,15,36
 1966-10-15,New Mexico,WAC,Bill Weeks,A,Wyoming,WAC,Lloyd Eaton,L,7,37
-1966-10-22,New Mexico,WAC,Bill Weeks,H,Brigham Young,WAC,Tommy Hudspeth,L,6,33
+1966-10-22,New Mexico,WAC,Bill Weeks,H,BYU,WAC,Tommy Hudspeth,L,6,33
 1966-10-29,New Mexico,WAC,Bill Weeks,A,Utah,WAC,Mike Giddings,L,0,27
 1966-11-05,New Mexico,WAC,Bill Weeks,H,Colorado State,Ind,Milo Lude,L,6,45
 1966-11-12,New Mexico,WAC,Bill Weeks,H,New Mexico State,Ind,Warren Woodson,L,12,47
@@ -460,7 +460,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-10-08,Pacific,Ind,Doug Scovil,A,New Mexico State,Ind,Warren Woodson,L,23,49
 1966-10-29,Pacific,Ind,Doug Scovil,H,San Jose State,Ind,Harry Anderson,W,38,35
 1966-11-05,Pacific,Ind,Doug Scovil,H,Utah State,Ind,Tony Knap,L,9,47
-1966-11-26,Pacific,Ind,Doug Scovil,A,Brigham Young,WAC,Tommy Hudspeth,L,0,38
+1966-11-26,Pacific,Ind,Doug Scovil,A,BYU,WAC,Tommy Hudspeth,L,0,38
 1966-09-24,Notre Dame,Ind,Ara Parseghian,H,Purdue,Big Ten,Jack Mollenkopf,W,26,14
 1966-10-01,Notre Dame,Ind,Ara Parseghian,A,Northwestern,Big Ten,Alex Agase,W,35,7
 1966-10-08,Notre Dame,Ind,Ara Parseghian,H,Army,Ind,Thomas Cahill,W,35,0
@@ -532,18 +532,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-10-29,Wyoming,WAC,Lloyd Eaton,A,Colorado State,Ind,Milo Lude,L,10,12
 1966-11-05,Wyoming,WAC,Lloyd Eaton,A,Wichita State,MVC,George Karras,W,55,0
 1966-11-12,Wyoming,WAC,Lloyd Eaton,A,UTEP,Ind,Robert Dobbs,W,31,7
-1966-11-19,Wyoming,WAC,Lloyd Eaton,A,Brigham Young,WAC,Tommy Hudspeth,W,47,14
+1966-11-19,Wyoming,WAC,Lloyd Eaton,A,BYU,WAC,Tommy Hudspeth,W,47,14
 1966-12-24,Wyoming,WAC,Lloyd Eaton,N,Florida State,Ind,Bill Peterson,W,28,20
-1966-09-24,Brigham Young,WAC,Tommy Hudspeth,A,San Jose State,Ind,Harry Anderson,W,19,9
-1966-09-30,Brigham Young,WAC,Tommy Hudspeth,H,Colorado State,Ind,Milo Lude,W,27,24
-1966-10-08,Brigham Young,WAC,Tommy Hudspeth,H,Utah State,Ind,Tony Knap,W,27,7
-1966-10-14,Brigham Young,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,7,10
-1966-10-22,Brigham Young,WAC,Tommy Hudspeth,A,New Mexico,WAC,Bill Weeks,W,33,6
-1966-10-29,Brigham Young,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,W,16,14
-1966-11-05,Brigham Young,WAC,Tommy Hudspeth,H,UTEP,Ind,Robert Dobbs,W,53,33
-1966-11-12,Brigham Young,WAC,Tommy Hudspeth,A,Utah,WAC,Mike Giddings,W,35,13
-1966-11-19,Brigham Young,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,L,14,47
-1966-11-26,Brigham Young,WAC,Tommy Hudspeth,H,Pacific,Ind,Doug Scovil,W,38,0
+1966-09-24,BYU,WAC,Tommy Hudspeth,A,San Jose State,Ind,Harry Anderson,W,19,9
+1966-09-30,BYU,WAC,Tommy Hudspeth,H,Colorado State,Ind,Milo Lude,W,27,24
+1966-10-08,BYU,WAC,Tommy Hudspeth,H,Utah State,Ind,Tony Knap,W,27,7
+1966-10-14,BYU,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,7,10
+1966-10-22,BYU,WAC,Tommy Hudspeth,A,New Mexico,WAC,Bill Weeks,W,33,6
+1966-10-29,BYU,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,W,16,14
+1966-11-05,BYU,WAC,Tommy Hudspeth,H,UTEP,Ind,Robert Dobbs,W,53,33
+1966-11-12,BYU,WAC,Tommy Hudspeth,A,Utah,WAC,Mike Giddings,W,35,13
+1966-11-19,BYU,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,L,14,47
+1966-11-26,BYU,WAC,Tommy Hudspeth,H,Pacific,Ind,Doug Scovil,W,38,0
 1966-10-01,Yale,Ivy,Carmen Cozza,H,Rutgers,Ind,John Bateman,L,14,17
 1966-10-08,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,John McLaughry,W,24,0
 1966-10-15,Yale,Ivy,Carmen Cozza,H,Columbia,Ivy,Aldo Donelli,W,44,21
@@ -713,7 +713,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-10-01,UTEP,Ind,Robert Dobbs,H,New Mexico,WAC,Bill Weeks,W,51,3
 1966-10-08,UTEP,Ind,Robert Dobbs,A,West Texas A&M,Ind,Joe Kerbel,W,9,3
 1966-10-22,UTEP,Ind,Robert Dobbs,H,San Jose State,Ind,Harry Anderson,W,35,0
-1966-11-05,UTEP,Ind,Robert Dobbs,A,Brigham Young,WAC,Tommy Hudspeth,L,33,53
+1966-11-05,UTEP,Ind,Robert Dobbs,A,BYU,WAC,Tommy Hudspeth,L,33,53
 1966-11-12,UTEP,Ind,Robert Dobbs,H,Wyoming,WAC,Lloyd Eaton,L,7,31
 1966-11-19,UTEP,Ind,Robert Dobbs,H,New Mexico State,Ind,Warren Woodson,W,28,14
 1966-11-26,UTEP,Ind,Robert Dobbs,H,Utah,WAC,Mike Giddings,W,27,20
@@ -935,7 +935,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1966-11-05,Colorado,Big 8,Eddie Crowder,A,Missouri,Big 8,Dan Devine,W,26,0
 1966-11-12,Colorado,Big 8,Eddie Crowder,A,Kansas,Big 8,Jack Mitchell,W,35,18
 1966-11-19,Colorado,Big 8,Eddie Crowder,H,Air Force,Ind,Ben Martin,W,10,9
-1966-09-30,Colorado State,Ind,Milo Lude,A,Brigham Young,WAC,Tommy Hudspeth,L,24,27
+1966-09-30,Colorado State,Ind,Milo Lude,A,BYU,WAC,Tommy Hudspeth,L,24,27
 1966-10-08,Colorado State,Ind,Milo Lude,H,Tulsa,MVC,Glenn Dobbs,L,6,20
 1966-10-15,Colorado State,Ind,Milo Lude,A,Utah State,Ind,Tony Knap,W,10,7
 1966-10-22,Colorado State,Ind,Milo Lude,A,Air Force,Ind,Ben Martin,W,41,21

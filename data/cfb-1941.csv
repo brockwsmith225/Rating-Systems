@@ -51,7 +51,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-11-22,Furman,Southern,,H,Clemson,Southern,Frank Howard,L,6,34
 1941-09-27,Utah,MSAC,Ike Armstrong,A,Idaho,PCC,Francis Schmidt,W,26,7
 1941-10-11,Utah,MSAC,Ike Armstrong,H,Wyoming,MSAC,Bunny Oakes,W,60,6
-1941-10-18,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,T,6,6
+1941-10-18,Utah,MSAC,Ike Armstrong,H,BYU,MSAC,Edwin Kimball,T,6,6
 1941-10-25,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,T,0,0
 1941-11-01,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Jim Yeager,W,46,6
 1941-11-15,Utah,MSAC,Ike Armstrong,A,Colorado State,MSAC,Harry Hughes,W,26,13
@@ -96,7 +96,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-11-08,Georgetown,Ind,Jack Hagerty,H,Maryland,Southern,Jack Faber,W,26,0
 1941-11-15,Georgetown,Ind,Jack Hagerty,H,North Carolina State,Southern,,W,20,7
 1941-11-20,Georgetown,Ind,Jack Hagerty,A,Manhattan,Ind,Herb Kopf,W,7,0
-1941-09-26,Montana,PCC,Doug Fessenden,A,Brigham Young,MSAC,Edwin Kimball,W,20,7
+1941-09-26,Montana,PCC,Doug Fessenden,A,BYU,MSAC,Edwin Kimball,W,20,7
 1941-10-10,Montana,PCC,Doug Fessenden,A,UCLA,PCC,Babe Horrell,L,7,14
 1941-10-18,Montana,PCC,Doug Fessenden,A,Gonzaga,Ind,Puggy Hunton,W,13,6
 1941-11-01,Montana,PCC,Doug Fessenden,A,Washington,PCC,James Phelan,L,0,21
@@ -326,7 +326,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-10-11,Utah State,MSAC,E. Lowell Romney,A,Colorado,MSAC,Jim Yeager,L,7,13
 1941-10-18,Utah State,MSAC,E. Lowell Romney,H,Idaho,PCC,Francis Schmidt,L,0,16
 1941-10-25,Utah State,MSAC,E. Lowell Romney,H,Colorado State,MSAC,Harry Hughes,L,6,7
-1941-11-01,Utah State,MSAC,E. Lowell Romney,H,Brigham Young,MSAC,Edwin Kimball,L,0,28
+1941-11-01,Utah State,MSAC,E. Lowell Romney,H,BYU,MSAC,Edwin Kimball,L,0,28
 1941-11-08,Utah State,MSAC,E. Lowell Romney,H,Denver,MSAC,Cac Hubbard,L,6,14
 1941-11-15,Utah State,MSAC,E. Lowell Romney,A,Wyoming,MSAC,Bunny Oakes,L,6,12
 1941-11-26,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,L,21,33
@@ -348,7 +348,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-12-06,Hardin-Simmons,BIAA,Warren Woodson,A,Arizona State,BIAA,Dixie Howell,W,20,0
 1941-09-26,Denver,MSAC,Cac Hubbard,H,Iowa State,Big 6,Ray Donels,L,6,7
 1941-10-04,Denver,MSAC,Cac Hubbard,H,Baylor,SWC,Frank Kimbrough,L,0,14
-1941-10-10,Denver,MSAC,Cac Hubbard,H,Brigham Young,MSAC,Edwin Kimball,L,7,13
+1941-10-10,Denver,MSAC,Cac Hubbard,H,BYU,MSAC,Edwin Kimball,L,7,13
 1941-10-18,Denver,MSAC,Cac Hubbard,A,Wyoming,MSAC,Bunny Oakes,W,40,0
 1941-10-25,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,T,0,0
 1941-11-01,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Harry Hughes,T,6,6
@@ -466,17 +466,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-10-11,Wyoming,MSAC,Bunny Oakes,A,Utah,MSAC,Ike Armstrong,L,6,60
 1941-10-18,Wyoming,MSAC,Bunny Oakes,H,Denver,MSAC,Cac Hubbard,L,0,40
 1941-10-25,Wyoming,MSAC,Bunny Oakes,A,Colorado,MSAC,Jim Yeager,L,0,27
-1941-11-08,Wyoming,MSAC,Bunny Oakes,H,Brigham Young,MSAC,Edwin Kimball,L,7,23
+1941-11-08,Wyoming,MSAC,Bunny Oakes,H,BYU,MSAC,Edwin Kimball,L,7,23
 1941-11-15,Wyoming,MSAC,Bunny Oakes,H,Utah State,MSAC,E. Lowell Romney,W,12,6
 1941-11-29,Wyoming,MSAC,Bunny Oakes,A,New Mexico,BIAA,Ted Shipkey,L,0,28
-1941-09-26,Brigham Young,MSAC,Edwin Kimball,H,Montana,PCC,Doug Fessenden,L,7,20
-1941-10-10,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,W,13,7
-1941-10-18,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,T,6,6
-1941-10-24,Brigham Young,MSAC,Edwin Kimball,A,San Francisco,Ind,Jeff Cravath,L,13,25
-1941-11-01,Brigham Young,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,W,28,0
-1941-11-08,Brigham Young,MSAC,Edwin Kimball,A,Wyoming,MSAC,Bunny Oakes,W,23,7
-1941-11-15,Brigham Young,MSAC,Edwin Kimball,H,Colorado,MSAC,Jim Yeager,T,13,13
-1941-11-22,Brigham Young,MSAC,Edwin Kimball,H,Colorado State,MSAC,Harry Hughes,L,7,22
+1941-09-26,BYU,MSAC,Edwin Kimball,H,Montana,PCC,Doug Fessenden,L,7,20
+1941-10-10,BYU,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,W,13,7
+1941-10-18,BYU,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,T,6,6
+1941-10-24,BYU,MSAC,Edwin Kimball,A,San Francisco,Ind,Jeff Cravath,L,13,25
+1941-11-01,BYU,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,W,28,0
+1941-11-08,BYU,MSAC,Edwin Kimball,A,Wyoming,MSAC,Bunny Oakes,W,23,7
+1941-11-15,BYU,MSAC,Edwin Kimball,H,Colorado,MSAC,Jim Yeager,T,13,13
+1941-11-22,BYU,MSAC,Edwin Kimball,H,Colorado State,MSAC,Harry Hughes,L,7,22
 1941-10-10,Duquesne,Ind,,A,Manhattan,Ind,Herb Kopf,W,26,7
 1941-10-25,Duquesne,Ind,,A,Marquette,Ind,Tom Stidham,W,31,14
 1941-11-01,Duquesne,Ind,,H,Villanova,Ind,,W,7,0
@@ -782,14 +782,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-10-18,Colorado,MSAC,Jim Yeager,H,Colorado State,MSAC,Harry Hughes,W,26,13
 1941-10-25,Colorado,MSAC,Jim Yeager,H,Wyoming,MSAC,Bunny Oakes,W,27,0
 1941-11-01,Colorado,MSAC,Jim Yeager,A,Utah,MSAC,Ike Armstrong,L,6,46
-1941-11-15,Colorado,MSAC,Jim Yeager,A,Brigham Young,MSAC,Edwin Kimball,T,13,13
+1941-11-15,Colorado,MSAC,Jim Yeager,A,BYU,MSAC,Edwin Kimball,T,13,13
 1941-11-20,Colorado,MSAC,Jim Yeager,A,Denver,MSAC,Cac Hubbard,L,0,27
 1941-10-04,Colorado State,MSAC,Harry Hughes,H,Wyoming,MSAC,Bunny Oakes,W,27,0
 1941-10-18,Colorado State,MSAC,Harry Hughes,A,Colorado,MSAC,Jim Yeager,L,13,26
 1941-10-25,Colorado State,MSAC,Harry Hughes,A,Utah State,MSAC,E. Lowell Romney,W,7,6
 1941-11-01,Colorado State,MSAC,Harry Hughes,A,Denver,MSAC,Cac Hubbard,T,6,6
 1941-11-15,Colorado State,MSAC,Harry Hughes,H,Utah,MSAC,Ike Armstrong,L,13,26
-1941-11-22,Colorado State,MSAC,Harry Hughes,A,Brigham Young,MSAC,Edwin Kimball,W,22,7
+1941-11-22,Colorado State,MSAC,Harry Hughes,A,BYU,MSAC,Edwin Kimball,W,22,7
 1941-10-11,Rice,SWC,Jess Neely,H,Tulane,SEC,Red Dawson,W,10,9
 1941-10-18,Rice,SWC,Jess Neely,A,LSU,SEC,Bernie Moore,L,0,27
 1941-10-25,Rice,SWC,Jess Neely,A,Texas,SWC,Dana Bible,L,0,40
@@ -884,7 +884,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1941-09-27,San Francisco,Ind,Jeff Cravath,A,Santa Clara,Ind,Buck Shaw,L,7,32
 1941-10-11,San Francisco,Ind,Jeff Cravath,H,Saint Mary's (CA),Ind,Red Strader,L,0,30
 1941-10-18,San Francisco,Ind,Jeff Cravath,A,Stanford,PCC,Clark Shaughnessy,L,26,42
-1941-10-24,San Francisco,Ind,Jeff Cravath,H,Brigham Young,MSAC,Edwin Kimball,W,25,13
+1941-10-24,San Francisco,Ind,Jeff Cravath,H,BYU,MSAC,Edwin Kimball,W,25,13
 1941-11-09,San Francisco,Ind,Jeff Cravath,A,Loyola Marymount,Ind,Marty Brill,W,27,20
 1941-12-06,San Francisco,Ind,Jeff Cravath,H,Mississippi State,SEC,Allyn McKeen,L,13,26
 1941-09-27,Navy,Ind,Swede Larson,H,William & Mary,Southern,,W,34,0

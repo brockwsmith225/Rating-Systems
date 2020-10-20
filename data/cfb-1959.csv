@@ -49,7 +49,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-10-24,Arizona State,BIAA,Frank Kush,A,San Jose State,Ind,Robert Titchenal,L,15,24
 1959-10-31,Arizona State,BIAA,Frank Kush,H,New Mexico State,BIAA,Warren Woodson,W,35,31
 1959-11-07,Arizona State,BIAA,Frank Kush,A,UTEP,BIAA,Ben Collins,W,20,7
-1959-11-14,Arizona State,BIAA,Frank Kush,H,Brigham Young,Skyline,Tally Stevens,W,27,9
+1959-11-14,Arizona State,BIAA,Frank Kush,H,BYU,Skyline,Tally Stevens,W,27,9
 1959-11-21,Arizona State,BIAA,Frank Kush,H,Hardin-Simmons,BIAA,Sammy Baugh,W,14,8
 1959-11-28,Arizona State,BIAA,Frank Kush,H,Arizona,BIAA,Jim LaRue,W,15,9
 1959-09-26,Furman,Southern,Robert King,A,South Carolina,ACC,Warren Giese,L,0,30
@@ -61,7 +61,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-11-28,Furman,Southern,Robert King,H,Clemson,ACC,Frank Howard,L,3,56
 1959-09-26,Utah,Skyline,Ray Nagel,A,Oregon,Ind,Len Casanova,L,6,21
 1959-10-03,Utah,Skyline,Ray Nagel,A,Washington,AAWU,Jim Owens,L,6,51
-1959-10-09,Utah,Skyline,Ray Nagel,H,Brigham Young,Skyline,Tally Stevens,W,20,8
+1959-10-09,Utah,Skyline,Ray Nagel,H,BYU,Skyline,Tally Stevens,W,20,8
 1959-10-16,Utah,Skyline,Ray Nagel,A,Denver,Skyline,John Roning,W,26,12
 1959-10-24,Utah,Skyline,Ray Nagel,H,Wyoming,Skyline,Bob Devaney,L,7,21
 1959-10-31,Utah,Skyline,Ray Nagel,H,Arizona,BIAA,Jim LaRue,W,54,6
@@ -97,7 +97,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-11-21,Syracuse,Ind,Ben Schwartzwalder,A,Boston University,Ind,Steve Sinko,W,46,0
 1959-12-05,Syracuse,Ind,Ben Schwartzwalder,A,UCLA,AAWU,Bill Barnes,W,36,8
 1960-01-01,Syracuse,Ind,Ben Schwartzwalder,N,Texas,SWC,Darrell Royal,W,23,14
-1959-09-19,Arizona,BIAA,Jim LaRue,H,Brigham Young,Skyline,Tally Stevens,L,14,18
+1959-09-19,Arizona,BIAA,Jim LaRue,H,BYU,Skyline,Tally Stevens,L,14,18
 1959-09-26,Arizona,BIAA,Jim LaRue,A,West Texas A&M,BIAA,Clark Jarnagin,W,7,6
 1959-10-03,Arizona,BIAA,Jim LaRue,H,Idaho,Ind,Skip Stahley,W,16,14
 1959-10-17,Arizona,BIAA,Jim LaRue,H,New Mexico,Skyline,Marv Levy,L,7,28
@@ -108,7 +108,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-11-21,Arizona,BIAA,Jim LaRue,H,UTEP,BIAA,Ben Collins,W,14,10
 1959-11-28,Arizona,BIAA,Jim LaRue,A,Arizona State,BIAA,Frank Kush,L,9,15
 1959-09-19,Montana,Skyline,Ray Jenkins,N,Wyoming,Skyline,Bob Devaney,L,0,58
-1959-10-03,Montana,Skyline,Ray Jenkins,A,Brigham Young,Skyline,Tally Stevens,W,12,0
+1959-10-03,Montana,Skyline,Ray Jenkins,A,BYU,Skyline,Tally Stevens,W,12,0
 1959-10-10,Montana,Skyline,Ray Jenkins,H,Denver,Skyline,John Roning,L,12,27
 1959-10-17,Montana,Skyline,Ray Jenkins,A,Utah State,Skyline,John Ralston,L,0,28
 1959-10-24,Montana,Skyline,Ray Jenkins,H,New Mexico,Skyline,Marv Levy,L,14,55
@@ -355,7 +355,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-10-03,Utah State,Skyline,John Ralston,A,Wyoming,Skyline,Bob Devaney,L,2,27
 1959-10-10,Utah State,Skyline,John Ralston,H,New Mexico,Skyline,Marv Levy,L,6,28
 1959-10-17,Utah State,Skyline,John Ralston,H,Montana,Skyline,Ray Jenkins,W,28,0
-1959-10-31,Utah State,Skyline,John Ralston,A,Brigham Young,Skyline,Tally Stevens,L,0,18
+1959-10-31,Utah State,Skyline,John Ralston,A,BYU,Skyline,Tally Stevens,L,0,18
 1959-11-07,Utah State,Skyline,John Ralston,A,Colorado State,Skyline,Tuffy Mullison,L,7,10
 1959-11-14,Utah State,Skyline,John Ralston,A,Denver,Skyline,John Roning,W,21,14
 1959-11-21,Utah State,Skyline,John Ralston,A,Utah,Skyline,Ray Nagel,L,21,35
@@ -392,7 +392,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-10-03,Denver,Skyline,John Roning,A,Colorado State,Skyline,Tuffy Mullison,L,0,15
 1959-10-10,Denver,Skyline,John Roning,A,Montana,Skyline,Ray Jenkins,W,27,12
 1959-10-16,Denver,Skyline,John Roning,H,Utah,Skyline,Ray Nagel,L,12,26
-1959-10-24,Denver,Skyline,John Roning,A,Brigham Young,Skyline,Tally Stevens,W,14,7
+1959-10-24,Denver,Skyline,John Roning,A,BYU,Skyline,Tally Stevens,W,14,7
 1959-10-31,Denver,Skyline,John Roning,A,New Mexico,Skyline,Marv Levy,L,0,42
 1959-11-07,Denver,Skyline,John Roning,A,Oklahoma State,Ind,Cliff Speegle,L,12,20
 1959-11-14,Denver,Skyline,John Roning,H,Utah State,Skyline,John Ralston,L,14,21
@@ -455,7 +455,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-10-17,New Mexico,Skyline,Marv Levy,A,Arizona,BIAA,Jim LaRue,W,28,7
 1959-10-24,New Mexico,Skyline,Marv Levy,A,Montana,Skyline,Ray Jenkins,W,55,14
 1959-10-31,New Mexico,Skyline,Marv Levy,H,Denver,Skyline,John Roning,W,42,0
-1959-11-07,New Mexico,Skyline,Marv Levy,H,Brigham Young,Skyline,Tally Stevens,W,21,6
+1959-11-07,New Mexico,Skyline,Marv Levy,H,BYU,Skyline,Tally Stevens,W,21,6
 1959-11-14,New Mexico,Skyline,Marv Levy,H,Wyoming,Skyline,Bob Devaney,L,20,25
 1959-11-21,New Mexico,Skyline,Marv Levy,A,Air Force,Ind,Ben Martin,W,28,27
 1959-09-19,Pacific,Ind,Moose Myers,H,Colorado State,Skyline,Tuffy Mullison,L,6,9
@@ -513,21 +513,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-09-26,Wyoming,Skyline,Bob Devaney,H,Air Force,Ind,Ben Martin,L,7,20
 1959-10-03,Wyoming,Skyline,Bob Devaney,H,Utah State,Skyline,John Ralston,W,27,2
 1959-10-10,Wyoming,Skyline,Bob Devaney,H,Colorado State,Skyline,Tuffy Mullison,W,29,0
-1959-10-17,Wyoming,Skyline,Bob Devaney,H,Brigham Young,Skyline,Tally Stevens,W,21,6
+1959-10-17,Wyoming,Skyline,Bob Devaney,H,BYU,Skyline,Tally Stevens,W,21,6
 1959-10-24,Wyoming,Skyline,Bob Devaney,A,Utah,Skyline,Ray Nagel,W,21,7
 1959-10-31,Wyoming,Skyline,Bob Devaney,A,North Carolina State,ACC,Earle Edwards,W,26,0
 1959-11-07,Wyoming,Skyline,Bob Devaney,A,San Jose State,Ind,Robert Titchenal,W,28,7
 1959-11-14,Wyoming,Skyline,Bob Devaney,A,New Mexico,Skyline,Marv Levy,W,25,20
 1959-11-21,Wyoming,Skyline,Bob Devaney,A,Denver,Skyline,John Roning,W,45,0
-1959-09-19,Brigham Young,Skyline,Tally Stevens,A,Arizona,BIAA,Jim LaRue,W,18,14
-1959-10-03,Brigham Young,Skyline,Tally Stevens,H,Montana,Skyline,Ray Jenkins,L,0,12
-1959-10-09,Brigham Young,Skyline,Tally Stevens,A,Utah,Skyline,Ray Nagel,L,8,20
-1959-10-17,Brigham Young,Skyline,Tally Stevens,A,Wyoming,Skyline,Bob Devaney,L,6,21
-1959-10-24,Brigham Young,Skyline,Tally Stevens,H,Denver,Skyline,John Roning,L,7,14
-1959-10-31,Brigham Young,Skyline,Tally Stevens,H,Utah State,Skyline,John Ralston,W,18,0
-1959-11-07,Brigham Young,Skyline,Tally Stevens,A,New Mexico,Skyline,Marv Levy,L,6,21
-1959-11-14,Brigham Young,Skyline,Tally Stevens,A,Arizona State,BIAA,Frank Kush,L,9,27
-1959-11-21,Brigham Young,Skyline,Tally Stevens,H,Colorado State,Skyline,Tuffy Mullison,W,14,13
+1959-09-19,BYU,Skyline,Tally Stevens,A,Arizona,BIAA,Jim LaRue,W,18,14
+1959-10-03,BYU,Skyline,Tally Stevens,H,Montana,Skyline,Ray Jenkins,L,0,12
+1959-10-09,BYU,Skyline,Tally Stevens,A,Utah,Skyline,Ray Nagel,L,8,20
+1959-10-17,BYU,Skyline,Tally Stevens,A,Wyoming,Skyline,Bob Devaney,L,6,21
+1959-10-24,BYU,Skyline,Tally Stevens,H,Denver,Skyline,John Roning,L,7,14
+1959-10-31,BYU,Skyline,Tally Stevens,H,Utah State,Skyline,John Ralston,W,18,0
+1959-11-07,BYU,Skyline,Tally Stevens,A,New Mexico,Skyline,Marv Levy,L,6,21
+1959-11-14,BYU,Skyline,Tally Stevens,A,Arizona State,BIAA,Frank Kush,L,9,27
+1959-11-21,BYU,Skyline,Tally Stevens,H,Colorado State,Skyline,Tuffy Mullison,W,14,13
 1959-10-03,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,John McLaughry,W,17,0
 1959-10-10,Yale,Ivy,Jordan Olivar,H,Columbia,Ivy,Aldo Donelli,W,14,0
 1959-10-17,Yale,Ivy,Jordan Olivar,A,Cornell,Ivy,George James,W,23,0
@@ -884,7 +884,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1959-10-31,Colorado State,Skyline,Tuffy Mullison,A,Montana,Skyline,Ray Jenkins,W,26,16
 1959-11-07,Colorado State,Skyline,Tuffy Mullison,H,Utah State,Skyline,John Ralston,W,10,7
 1959-11-14,Colorado State,Skyline,Tuffy Mullison,A,Utah,Skyline,Ray Nagel,W,21,17
-1959-11-21,Colorado State,Skyline,Tuffy Mullison,A,Brigham Young,Skyline,Tally Stevens,L,13,14
+1959-11-21,Colorado State,Skyline,Tuffy Mullison,A,BYU,Skyline,Tally Stevens,L,13,14
 1959-09-19,Rice,SWC,Jess Neely,A,LSU,SEC,Paul Dietzel,L,3,26
 1959-10-03,Rice,SWC,Jess Neely,A,Duke,ACC,Bill Murray,L,7,24
 1959-10-10,Rice,SWC,Jess Neely,H,Florida,SEC,Bob Woodruff,T,13,13

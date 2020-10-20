@@ -83,7 +83,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-10-24,Utah,WAC,Jim Fassel,H,Utah State,PCAA,Chuck Shelton,L,36,41
 1987-11-07,Utah,WAC,Jim Fassel,H,UTEP,WAC,Bob Stull,L,24,30
 1987-11-14,Utah,WAC,Jim Fassel,H,Wyoming,WAC,Paul Roach,L,7,31
-1987-11-21,Utah,WAC,Jim Fassel,A,Brigham Young,WAC,LaVell Edwards,L,18,21
+1987-11-21,Utah,WAC,Jim Fassel,A,BYU,WAC,LaVell Edwards,L,18,21
 1987-09-05,Cal State Fullerton,PCAA,Gene Murphy,A,Hawaii,WAC,Bob Wagner,L,0,44
 1987-09-12,Cal State Fullerton,PCAA,Gene Murphy,A,LSU,SEC,Mike Archer,L,12,56
 1987-09-19,Cal State Fullerton,PCAA,Gene Murphy,H,Long Beach State,PCAA,Larry Reisbig,W,31,12
@@ -249,7 +249,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-11-07,Virginia,ACC,George Welsh,A,Georgia Tech,ACC,Bobby Ross,W,23,14
 1987-11-14,Virginia,ACC,George Welsh,H,North Carolina,ACC,Dick Crum,W,20,17
 1987-11-21,Virginia,ACC,George Welsh,A,North Carolina State,ACC,Dick Sheridan,W,34,31
-1987-12-22,Virginia,ACC,George Welsh,N,Brigham Young,WAC,LaVell Edwards,W,22,16
+1987-12-22,Virginia,ACC,George Welsh,N,BYU,WAC,LaVell Edwards,W,22,16
 1987-09-12,Oklahoma,Big 8,Barry Switzer,H,North Carolina,ACC,Dick Crum,W,28,0
 1987-09-26,Oklahoma,Big 8,Barry Switzer,A,Tulsa,Ind,George Henshaw,W,65,0
 1987-10-03,Oklahoma,Big 8,Barry Switzer,A,Iowa State,Big 8,Jim Walden,W,56,3
@@ -358,7 +358,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-09-05,Utah State,PCAA,Chuck Shelton,A,Nebraska,Big 8,Tom Osborne,L,12,56
 1987-09-12,Utah State,PCAA,Chuck Shelton,A,Kentucky,SEC,Jerry Claiborne,L,0,41
 1987-09-26,Utah State,PCAA,Chuck Shelton,H,Cal State Fullerton,PCAA,Gene Murphy,L,11,30
-1987-10-02,Utah State,PCAA,Chuck Shelton,A,Brigham Young,WAC,LaVell Edwards,L,24,45
+1987-10-02,Utah State,PCAA,Chuck Shelton,A,BYU,WAC,LaVell Edwards,L,24,45
 1987-10-10,Utah State,PCAA,Chuck Shelton,A,Nevada-Las Vegas,PCAA,Wayne Nunnely,L,27,28
 1987-10-17,Utah State,PCAA,Chuck Shelton,H,Pacific,PCAA,Bob Cope,W,17,13
 1987-10-24,Utah State,PCAA,Chuck Shelton,A,Utah,WAC,Jim Fassel,W,41,36
@@ -440,7 +440,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-10-17,San Diego State,WAC,Dennis Stolz,H,Stanford,Pac-10,Jack Elway,L,40,44
 1987-10-24,San Diego State,WAC,Dennis Stolz,A,Long Beach State,PCAA,Larry Reisbig,W,52,42
 1987-10-31,San Diego State,WAC,Dennis Stolz,A,Hawaii,WAC,Bob Wagner,W,29,21
-1987-11-07,San Diego State,WAC,Dennis Stolz,A,Brigham Young,WAC,LaVell Edwards,L,21,38
+1987-11-07,San Diego State,WAC,Dennis Stolz,A,BYU,WAC,LaVell Edwards,L,21,38
 1987-11-14,San Diego State,WAC,Dennis Stolz,H,Colorado State,WAC,Leon Fuller,W,26,12
 1987-11-21,San Diego State,WAC,Dennis Stolz,H,New Mexico,WAC,Mike Sheppard,W,53,30
 1987-09-05,Hawaii,WAC,Bob Wagner,H,Cal State Fullerton,PCAA,Gene Murphy,W,44,0
@@ -448,7 +448,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-09-26,Hawaii,WAC,Bob Wagner,A,UTEP,WAC,Bob Stull,L,13,37
 1987-10-10,Hawaii,WAC,Bob Wagner,A,New Mexico,WAC,Mike Sheppard,W,41,31
 1987-10-17,Hawaii,WAC,Bob Wagner,H,Utah,WAC,Jim Fassel,W,25,14
-1987-10-24,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,L,14,16
+1987-10-24,Hawaii,WAC,Bob Wagner,H,BYU,WAC,LaVell Edwards,L,14,16
 1987-10-31,Hawaii,WAC,Bob Wagner,H,San Diego State,WAC,Dennis Stolz,L,21,29
 1987-11-07,Hawaii,WAC,Bob Wagner,H,Colorado State,WAC,Leon Fuller,W,39,38
 1987-11-21,Hawaii,WAC,Bob Wagner,H,Air Force,WAC,Fisher DeBerry,L,31,34
@@ -512,7 +512,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-09-05,New Mexico,WAC,Mike Sheppard,A,Utah,WAC,Jim Fassel,L,20,24
 1987-09-12,New Mexico,WAC,Mike Sheppard,A,New Mexico State,PCAA,Mike Knoll,L,14,17
 1987-09-19,New Mexico,WAC,Mike Sheppard,A,Arizona,Pac-10,Dick Tomey,L,9,20
-1987-09-26,New Mexico,WAC,Mike Sheppard,H,Brigham Young,WAC,LaVell Edwards,L,25,45
+1987-09-26,New Mexico,WAC,Mike Sheppard,H,BYU,WAC,LaVell Edwards,L,25,45
 1987-10-10,New Mexico,WAC,Mike Sheppard,H,Hawaii,WAC,Bob Wagner,L,31,41
 1987-10-17,New Mexico,WAC,Mike Sheppard,A,Colorado State,WAC,Leon Fuller,L,13,35
 1987-10-31,New Mexico,WAC,Mike Sheppard,A,UTEP,WAC,Bob Stull,L,0,34
@@ -572,7 +572,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-11-05,Toledo,MAC,Dan Simrell,H,Eastern Michigan,MAC,Jim Harkema,L,9,38
 1987-11-14,Toledo,MAC,Dan Simrell,A,Central Michigan,MAC,Herb Deromedi,T,17,17
 1987-11-21,Toledo,MAC,Dan Simrell,A,Miami (FL),Ind,Jimmy Johnson,L,14,24
-1987-09-02,Pitt,Ind,Mike Gottfried,A,Brigham Young,WAC,LaVell Edwards,W,27,17
+1987-09-02,Pitt,Ind,Mike Gottfried,A,BYU,WAC,LaVell Edwards,W,27,17
 1987-09-12,Pitt,Ind,Mike Gottfried,H,North Carolina State,ACC,Dick Sheridan,W,34,0
 1987-09-19,Pitt,Ind,Mike Gottfried,H,Temple,Ind,Bruce Arians,L,21,24
 1987-09-26,Pitt,Ind,Mike Gottfried,A,West Virginia,Ind,Don Nehlen,W,6,3
@@ -596,7 +596,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-09-19,Wyoming,WAC,Paul Roach,H,Oklahoma State,Big 8,Pat Jones,L,29,35
 1987-09-26,Wyoming,WAC,Paul Roach,H,Iowa State,Big 8,Jim Walden,W,34,17
 1987-10-03,Wyoming,WAC,Paul Roach,H,San Diego State,WAC,Dennis Stolz,W,52,10
-1987-10-10,Wyoming,WAC,Paul Roach,A,Brigham Young,WAC,LaVell Edwards,W,29,27
+1987-10-10,Wyoming,WAC,Paul Roach,A,BYU,WAC,LaVell Edwards,W,29,27
 1987-10-17,Wyoming,WAC,Paul Roach,H,Houston,SWC,Jack Pardee,W,37,35
 1987-10-31,Wyoming,WAC,Paul Roach,H,Colorado State,WAC,Leon Fuller,W,20,15
 1987-11-07,Wyoming,WAC,Paul Roach,A,New Mexico,WAC,Mike Sheppard,W,59,16
@@ -604,19 +604,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-11-21,Wyoming,WAC,Paul Roach,A,UTEP,WAC,Bob Stull,W,37,13
 1987-11-28,Wyoming,WAC,Paul Roach,A,Hawaii,WAC,Bob Wagner,W,24,20
 1987-12-30,Wyoming,WAC,Paul Roach,N,Iowa,Big Ten,Hayden Fry,L,19,20
-1987-09-02,Brigham Young,WAC,LaVell Edwards,H,Pitt,Ind,Mike Gottfried,L,17,27
-1987-09-12,Brigham Young,WAC,LaVell Edwards,A,Texas,SWC,David McWilliams,W,22,17
-1987-09-19,Brigham Young,WAC,LaVell Edwards,A,Texas Christian,SWC,Jim Wacker,L,12,33
-1987-09-26,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,45,25
-1987-10-02,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Chuck Shelton,W,45,24
-1987-10-10,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Paul Roach,L,27,29
-1987-10-24,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,W,16,14
-1987-10-31,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,24,13
-1987-11-07,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Dennis Stolz,W,38,21
-1987-11-14,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Bob Stull,W,37,24
-1987-11-21,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,21,18
-1987-12-04,Brigham Young,WAC,LaVell Edwards,N,Colorado State,WAC,Leon Fuller,W,30,26
-1987-12-22,Brigham Young,WAC,LaVell Edwards,N,Virginia,ACC,George Welsh,L,16,22
+1987-09-02,BYU,WAC,LaVell Edwards,H,Pitt,Ind,Mike Gottfried,L,17,27
+1987-09-12,BYU,WAC,LaVell Edwards,A,Texas,SWC,David McWilliams,W,22,17
+1987-09-19,BYU,WAC,LaVell Edwards,A,Texas Christian,SWC,Jim Wacker,L,12,33
+1987-09-26,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,45,25
+1987-10-02,BYU,WAC,LaVell Edwards,H,Utah State,PCAA,Chuck Shelton,W,45,24
+1987-10-10,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Paul Roach,L,27,29
+1987-10-24,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,W,16,14
+1987-10-31,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,24,13
+1987-11-07,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Dennis Stolz,W,38,21
+1987-11-14,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Bob Stull,W,37,24
+1987-11-21,BYU,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,21,18
+1987-12-04,BYU,WAC,LaVell Edwards,N,Colorado State,WAC,Leon Fuller,W,30,26
+1987-12-22,BYU,WAC,LaVell Edwards,N,Virginia,ACC,George Welsh,L,16,22
 1987-09-19,Georgia Tech,ACC,Bobby Ross,H,North Carolina,ACC,Dick Crum,L,23,30
 1987-09-26,Georgia Tech,ACC,Bobby Ross,A,Clemson,ACC,Danny Ford,L,12,33
 1987-10-03,Georgia Tech,ACC,Bobby Ross,A,North Carolina State,ACC,Dick Sheridan,L,0,17
@@ -744,7 +744,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-10-24,UTEP,WAC,Bob Stull,A,Air Force,WAC,Fisher DeBerry,L,7,35
 1987-10-31,UTEP,WAC,Bob Stull,H,New Mexico,WAC,Mike Sheppard,W,34,0
 1987-11-07,UTEP,WAC,Bob Stull,A,Utah,WAC,Jim Fassel,W,30,24
-1987-11-14,UTEP,WAC,Bob Stull,H,Brigham Young,WAC,LaVell Edwards,L,24,37
+1987-11-14,UTEP,WAC,Bob Stull,H,BYU,WAC,LaVell Edwards,L,24,37
 1987-11-21,UTEP,WAC,Bob Stull,H,Wyoming,WAC,Paul Roach,L,13,37
 1987-09-05,LSU,SEC,Mike Archer,A,Texas A&M,SWC,Jackie Sherrill,W,17,3
 1987-09-12,LSU,SEC,Mike Archer,H,Cal State Fullerton,PCAA,Gene Murphy,W,56,12
@@ -782,7 +782,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-11-21,Iowa,Big Ten,Hayden Fry,H,Minnesota,Big Ten,John Gutekunst,W,34,20
 1987-12-30,Iowa,Big Ten,Hayden Fry,N,Wyoming,WAC,Paul Roach,W,20,19
 1987-09-05,Texas,SWC,David McWilliams,A,Auburn,SEC,Pat Dye,L,3,31
-1987-09-12,Texas,SWC,David McWilliams,H,Brigham Young,WAC,LaVell Edwards,L,17,22
+1987-09-12,Texas,SWC,David McWilliams,H,BYU,WAC,LaVell Edwards,L,17,22
 1987-09-26,Texas,SWC,David McWilliams,H,Oregon State,Pac-10,Dave Kragthorpe,W,61,16
 1987-10-03,Texas,SWC,David McWilliams,H,Rice,SWC,Jerry Berndt,W,45,26
 1987-10-10,Texas,SWC,David McWilliams,N,Oklahoma,Big 8,Barry Switzer,L,9,44
@@ -795,7 +795,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-12-31,Texas,SWC,David McWilliams,N,Pitt,Ind,Mike Gottfried,W,32,27
 1987-09-05,Texas Christian,SWC,Jim Wacker,A,Boston College,Ind,Jack Bicknell,L,20,38
 1987-09-12,Texas Christian,SWC,Jim Wacker,A,Air Force,WAC,Fisher DeBerry,L,10,21
-1987-09-19,Texas Christian,SWC,Jim Wacker,H,Brigham Young,WAC,LaVell Edwards,W,33,12
+1987-09-19,Texas Christian,SWC,Jim Wacker,H,BYU,WAC,LaVell Edwards,W,33,12
 1987-10-03,Texas Christian,SWC,Jim Wacker,H,Arkansas,SWC,Ken Hatfield,L,10,20
 1987-10-10,Texas Christian,SWC,Jim Wacker,A,Rice,SWC,Jerry Berndt,W,30,16
 1987-10-24,Texas Christian,SWC,Jim Wacker,A,Baylor,SWC,Grant Teaff,W,24,0
@@ -811,7 +811,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-10-10,Air Force,WAC,Fisher DeBerry,A,Navy,Ind,Elliot Uzelac,W,23,13
 1987-10-17,Air Force,WAC,Fisher DeBerry,H,Notre Dame,Ind,Lou Holtz,L,14,35
 1987-10-24,Air Force,WAC,Fisher DeBerry,H,UTEP,WAC,Bob Stull,W,35,7
-1987-10-31,Air Force,WAC,Fisher DeBerry,A,Brigham Young,WAC,LaVell Edwards,L,13,24
+1987-10-31,Air Force,WAC,Fisher DeBerry,A,BYU,WAC,LaVell Edwards,L,13,24
 1987-11-07,Air Force,WAC,Fisher DeBerry,H,Army,Ind,Jim Young,W,27,10
 1987-11-14,Air Force,WAC,Fisher DeBerry,A,New Mexico,WAC,Mike Sheppard,W,73,26
 1987-11-21,Air Force,WAC,Fisher DeBerry,A,Hawaii,WAC,Bob Wagner,W,34,31
@@ -944,7 +944,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1987-11-07,Colorado State,WAC,Leon Fuller,A,Hawaii,WAC,Bob Wagner,L,38,39
 1987-11-14,Colorado State,WAC,Leon Fuller,A,San Diego State,WAC,Dennis Stolz,L,12,26
 1987-11-21,Colorado State,WAC,Leon Fuller,A,Louisiana,Ind,Nelson Stokley,L,28,35
-1987-12-04,Colorado State,WAC,Leon Fuller,N,Brigham Young,WAC,LaVell Edwards,L,26,30
+1987-12-04,Colorado State,WAC,Leon Fuller,N,BYU,WAC,LaVell Edwards,L,26,30
 1987-09-12,Rice,SWC,Jerry Berndt,A,Indiana,Big Ten,Bill Mallory,L,13,35
 1987-09-19,Rice,SWC,Jerry Berndt,A,LSU,SEC,Mike Archer,L,16,49
 1987-10-03,Rice,SWC,Jerry Berndt,A,Texas,SWC,David McWilliams,L,26,45

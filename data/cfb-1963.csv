@@ -76,7 +76,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-09-21,Utah,WAC,Ray Nagel,H,Oregon State,Ind,Tommy Prothro,L,14,29
 1963-09-28,Utah,WAC,Ray Nagel,A,Idaho,Ind,Dee Andros,L,9,10
 1963-10-05,Utah,WAC,Ray Nagel,A,New Mexico,WAC,Bill Weeks,W,19,6
-1963-10-12,Utah,WAC,Ray Nagel,H,Brigham Young,WAC,Hal Mitchell,W,15,6
+1963-10-12,Utah,WAC,Ray Nagel,H,BYU,WAC,Hal Mitchell,W,15,6
 1963-10-19,Utah,WAC,Ray Nagel,H,Colorado State,Ind,Milo Lude,W,48,14
 1963-10-26,Utah,WAC,Ray Nagel,H,Wyoming,WAC,Lloyd Eaton,L,23,26
 1963-11-02,Utah,WAC,Ray Nagel,A,Arizona State,WAC,Frank Kush,L,22,30
@@ -109,7 +109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-11-16,Syracuse,Ind,Ben Schwartzwalder,H,Richmond,Southern,Edwin Merrick,W,50,0
 1963-11-28,Syracuse,Ind,Ben Schwartzwalder,H,Notre Dame,Ind,Hugh Devore,W,14,7
 1963-09-21,Arizona,WAC,Jim LaRue,H,Utah State,Ind,Tony Knap,L,0,43
-1963-09-28,Arizona,WAC,Jim LaRue,H,Brigham Young,WAC,Hal Mitchell,W,33,7
+1963-09-28,Arizona,WAC,Jim LaRue,H,BYU,WAC,Hal Mitchell,W,33,7
 1963-10-05,Arizona,WAC,Jim LaRue,A,Washington State,AAWU,Jim Sutherland,L,2,7
 1963-10-12,Arizona,WAC,Jim LaRue,H,UTEP,Ind,Warren Harper,W,13,7
 1963-10-19,Arizona,WAC,Jim LaRue,H,Oregon,Ind,Len Casanova,L,12,28
@@ -367,7 +367,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-10-05,Utah State,Ind,Tony Knap,H,San Jose State,Ind,Robert Titchenal,W,20,0
 1963-10-12,Utah State,Ind,Tony Knap,H,New Mexico,WAC,Bill Weeks,W,47,14
 1963-10-26,Utah State,Ind,Tony Knap,H,Pacific,Ind,John Rohde,W,40,14
-1963-11-02,Utah State,Ind,Tony Knap,A,Brigham Young,WAC,Hal Mitchell,W,26,0
+1963-11-02,Utah State,Ind,Tony Knap,A,BYU,WAC,Hal Mitchell,W,26,0
 1963-11-09,Utah State,Ind,Tony Knap,A,Colorado State,Ind,Milo Lude,W,36,13
 1963-11-16,Utah State,Ind,Tony Knap,A,New Mexico State,Ind,Warren Woodson,W,7,6
 1963-11-23,Utah State,Ind,Tony Knap,H,Utah,WAC,Ray Nagel,L,23,25
@@ -460,13 +460,13 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-11-02,New Mexico,WAC,Bill Weeks,A,Colorado State,Ind,Milo Lude,W,25,0
 1963-11-09,New Mexico,WAC,Bill Weeks,H,Wyoming,WAC,Lloyd Eaton,W,17,6
 1963-11-16,New Mexico,WAC,Bill Weeks,H,Air Force,Ind,Ben Martin,L,8,30
-1963-11-30,New Mexico,WAC,Bill Weeks,H,Brigham Young,WAC,Hal Mitchell,W,26,0
+1963-11-30,New Mexico,WAC,Bill Weeks,H,BYU,WAC,Hal Mitchell,W,26,0
 1963-12-07,New Mexico,WAC,Bill Weeks,A,Arizona,WAC,Jim LaRue,W,22,15
 1963-09-21,Pacific,Ind,John Rohde,H,Colorado State,Ind,Milo Lude,L,0,20
 1963-09-28,Pacific,Ind,John Rohde,A,West Texas A&M,Ind,Joe Kerbel,L,8,32
 1963-10-19,Pacific,Ind,John Rohde,A,Idaho,Ind,Dee Andros,L,6,64
 1963-10-26,Pacific,Ind,John Rohde,A,Utah State,Ind,Tony Knap,L,14,40
-1963-11-16,Pacific,Ind,John Rohde,H,Brigham Young,WAC,Hal Mitchell,W,14,0
+1963-11-16,Pacific,Ind,John Rohde,H,BYU,WAC,Hal Mitchell,W,14,0
 1963-11-30,Pacific,Ind,John Rohde,A,San Jose State,Ind,Robert Titchenal,L,20,32
 1963-09-28,Notre Dame,Ind,Hugh Devore,H,Wisconsin,Big Ten,Milt Bruhn,L,9,14
 1963-10-05,Notre Dame,Ind,Hugh Devore,A,Purdue,Big Ten,Jack Mollenkopf,L,6,7
@@ -509,7 +509,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-10-19,George Washington,Southern,Jim Camp,A,Villanova,Ind,Alex Bell,L,13,14
 1963-10-26,George Washington,Southern,Jim Camp,A,William & Mary,Southern,Milt Drewer,W,32,14
 1963-11-02,George Washington,Southern,Jim Camp,H,West Virginia,Southern,Gene Corum,L,16,20
-1963-11-09,George Washington,Southern,Jim Camp,H,Brigham Young,WAC,Hal Mitchell,W,23,6
+1963-11-09,George Washington,Southern,Jim Camp,H,BYU,WAC,Hal Mitchell,W,23,6
 1963-11-23,George Washington,Southern,Jim Camp,A,Vanderbilt,SEC,Jack Green,L,0,31
 1963-09-21,North Texas,MVC,Odus Mitchell,A,UTEP,Ind,Warren Harper,L,7,34
 1963-09-28,North Texas,MVC,Odus Mitchell,H,Louisville,MVC,Frank Camp,W,26,6
@@ -521,21 +521,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-09-28,Wyoming,WAC,Lloyd Eaton,H,Utah State,Ind,Tony Knap,W,21,14
 1963-10-05,Wyoming,WAC,Lloyd Eaton,H,Kansas,Big 8,Jack Mitchell,L,21,25
 1963-10-12,Wyoming,WAC,Lloyd Eaton,H,Colorado State,Ind,Milo Lude,W,21,3
-1963-10-19,Wyoming,WAC,Lloyd Eaton,H,Brigham Young,WAC,Hal Mitchell,W,41,14
+1963-10-19,Wyoming,WAC,Lloyd Eaton,H,BYU,WAC,Hal Mitchell,W,41,14
 1963-10-26,Wyoming,WAC,Lloyd Eaton,A,Utah,WAC,Ray Nagel,W,26,23
 1963-11-02,Wyoming,WAC,Lloyd Eaton,A,Arizona,WAC,Jim LaRue,L,7,15
 1963-11-09,Wyoming,WAC,Lloyd Eaton,A,New Mexico,WAC,Bill Weeks,L,6,17
 1963-11-16,Wyoming,WAC,Lloyd Eaton,A,Arizona State,WAC,Frank Kush,L,6,35
 1963-12-07,Wyoming,WAC,Lloyd Eaton,A,UTEP,Ind,Warren Harper,W,7,6
-1963-09-21,Brigham Young,WAC,Hal Mitchell,A,Kansas State,Big 8,Doug Weaver,L,7,24
-1963-09-28,Brigham Young,WAC,Hal Mitchell,A,Arizona,WAC,Jim LaRue,L,7,33
-1963-10-12,Brigham Young,WAC,Hal Mitchell,A,Utah,WAC,Ray Nagel,L,6,15
-1963-10-19,Brigham Young,WAC,Hal Mitchell,A,Wyoming,WAC,Lloyd Eaton,L,14,41
-1963-11-02,Brigham Young,WAC,Hal Mitchell,H,Utah State,Ind,Tony Knap,L,0,26
-1963-11-09,Brigham Young,WAC,Hal Mitchell,A,George Washington,Southern,Jim Camp,L,6,23
-1963-11-16,Brigham Young,WAC,Hal Mitchell,A,Pacific,Ind,John Rohde,L,0,14
-1963-11-23,Brigham Young,WAC,Hal Mitchell,H,Colorado State,Ind,Milo Lude,W,24,20
-1963-11-30,Brigham Young,WAC,Hal Mitchell,A,New Mexico,WAC,Bill Weeks,L,0,26
+1963-09-21,BYU,WAC,Hal Mitchell,A,Kansas State,Big 8,Doug Weaver,L,7,24
+1963-09-28,BYU,WAC,Hal Mitchell,A,Arizona,WAC,Jim LaRue,L,7,33
+1963-10-12,BYU,WAC,Hal Mitchell,A,Utah,WAC,Ray Nagel,L,6,15
+1963-10-19,BYU,WAC,Hal Mitchell,A,Wyoming,WAC,Lloyd Eaton,L,14,41
+1963-11-02,BYU,WAC,Hal Mitchell,H,Utah State,Ind,Tony Knap,L,0,26
+1963-11-09,BYU,WAC,Hal Mitchell,A,George Washington,Southern,Jim Camp,L,6,23
+1963-11-16,BYU,WAC,Hal Mitchell,A,Pacific,Ind,John Rohde,L,0,14
+1963-11-23,BYU,WAC,Hal Mitchell,H,Colorado State,Ind,Milo Lude,W,24,20
+1963-11-30,BYU,WAC,Hal Mitchell,A,New Mexico,WAC,Bill Weeks,L,0,26
 1963-10-05,Yale,Ivy,John Pont,H,Brown,Ivy,John McLaughry,L,7,12
 1963-10-12,Yale,Ivy,John Pont,H,Columbia,Ivy,Aldo Donelli,W,19,7
 1963-10-19,Yale,Ivy,John Pont,A,Cornell,Ivy,Tom Harp,L,10,13
@@ -608,7 +608,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-10-19,Buffalo,Ind,Dick Offenhamer,H,Boston University,Ind,Steve Sinko,W,22,13
 1963-11-09,Buffalo,Ind,Dick Offenhamer,A,Boston College,Ind,Jim Miller,L,0,15
 1963-11-16,Buffalo,Ind,Dick Offenhamer,H,Colgate,Ind,Hal Lahar,W,23,0
-1963-09-21,Kansas State,Big 8,Doug Weaver,H,Brigham Young,WAC,Hal Mitchell,W,24,7
+1963-09-21,Kansas State,Big 8,Doug Weaver,H,BYU,WAC,Hal Mitchell,W,24,7
 1963-09-28,Kansas State,Big 8,Doug Weaver,A,San Jose State,Ind,Robert Titchenal,L,0,16
 1963-10-05,Kansas State,Big 8,Doug Weaver,H,Colorado,Big 8,Eddie Crowder,L,7,21
 1963-10-12,Kansas State,Big 8,Doug Weaver,A,Missouri,Big 8,Dan Devine,L,11,21
@@ -932,7 +932,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1963-10-26,Colorado State,Ind,Milo Lude,H,UTEP,Ind,Warren Harper,W,21,14
 1963-11-02,Colorado State,Ind,Milo Lude,H,New Mexico,WAC,Bill Weeks,L,0,25
 1963-11-09,Colorado State,Ind,Milo Lude,H,Utah State,Ind,Tony Knap,L,13,36
-1963-11-23,Colorado State,Ind,Milo Lude,A,Brigham Young,WAC,Hal Mitchell,L,20,24
+1963-11-23,Colorado State,Ind,Milo Lude,A,BYU,WAC,Hal Mitchell,L,20,24
 1963-09-28,Rice,SWC,Jess Neely,H,LSU,SEC,Charles McClendon,W,21,12
 1963-10-05,Rice,SWC,Jess Neely,A,Penn State,Ind,Rip Engle,L,7,28
 1963-10-12,Rice,SWC,Jess Neely,H,Stanford,AAWU,John Ralston,W,23,13

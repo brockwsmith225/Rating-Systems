@@ -42,7 +42,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-12-30,Florida State,Ind,Bill Peterson,N,LSU,SEC,Charles McClendon,L,27,31
 1968-09-14,Iowa State,Big 8,Johnny Majors,H,Buffalo,Ind,Doc Urich,W,28,10
 1968-09-21,Iowa State,Big 8,Johnny Majors,H,Arizona,WAC,Darrell Mudra,L,12,21
-1968-09-28,Iowa State,Big 8,Johnny Majors,A,Brigham Young,WAC,Tommy Hudspeth,W,28,20
+1968-09-28,Iowa State,Big 8,Johnny Majors,A,BYU,WAC,Tommy Hudspeth,W,28,20
 1968-10-05,Iowa State,Big 8,Johnny Majors,H,Colorado,Big 8,Eddie Crowder,L,18,28
 1968-10-12,Iowa State,Big 8,Johnny Majors,A,Kansas State,Big 8,Vince Gibson,W,23,14
 1968-10-19,Iowa State,Big 8,Johnny Majors,A,Oklahoma,Big 8,Chuck Fairbanks,L,7,42
@@ -67,7 +67,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-10-19,Arizona State,WAC,Frank Kush,A,Oregon State,Pac-8,Dee Andros,L,9,28
 1968-11-02,Arizona State,WAC,Frank Kush,H,New Mexico,WAC,Rudy Feldman,W,63,28
 1968-11-09,Arizona State,WAC,Frank Kush,H,Utah,WAC,Bill Meek,W,59,21
-1968-11-16,Arizona State,WAC,Frank Kush,A,Brigham Young,WAC,Tommy Hudspeth,W,47,12
+1968-11-16,Arizona State,WAC,Frank Kush,A,BYU,WAC,Tommy Hudspeth,W,47,12
 1968-11-23,Arizona State,WAC,Frank Kush,H,San Jose State,Ind,Harry Anderson,W,66,0
 1968-11-30,Arizona State,WAC,Frank Kush,A,Arizona,WAC,Darrell Mudra,W,30,7
 1968-10-05,Furman,Southern,Robert King,H,Citadel,Southern,Red Parker,L,12,31
@@ -80,7 +80,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-10-12,Utah,WAC,Bill Meek,H,New Mexico,WAC,Rudy Feldman,W,30,7
 1968-10-19,Utah,WAC,Bill Meek,A,Wyoming,WAC,Lloyd Eaton,L,9,20
 1968-10-26,Utah,WAC,Bill Meek,A,Oregon,Pac-8,Jerry Frei,L,6,14
-1968-11-02,Utah,WAC,Bill Meek,H,Brigham Young,WAC,Tommy Hudspeth,W,30,21
+1968-11-02,Utah,WAC,Bill Meek,H,BYU,WAC,Tommy Hudspeth,W,30,21
 1968-11-09,Utah,WAC,Bill Meek,A,Arizona State,WAC,Frank Kush,L,21,59
 1968-11-16,Utah,WAC,Bill Meek,H,Arizona,WAC,Darrell Mudra,L,15,16
 1968-11-23,Utah,WAC,Bill Meek,A,Utah State,Ind,Chuck Mills,L,13,28
@@ -113,7 +113,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-09-21,Arizona,WAC,Darrell Mudra,A,Iowa State,Big 8,Johnny Majors,W,21,12
 1968-09-28,Arizona,WAC,Darrell Mudra,A,New Mexico,WAC,Rudy Feldman,W,19,8
 1968-10-05,Arizona,WAC,Darrell Mudra,H,UTEP,WAC,Robert Dobbs,W,25,0
-1968-10-19,Arizona,WAC,Darrell Mudra,H,Brigham Young,WAC,Tommy Hudspeth,W,19,3
+1968-10-19,Arizona,WAC,Darrell Mudra,H,BYU,WAC,Tommy Hudspeth,W,19,3
 1968-10-26,Arizona,WAC,Darrell Mudra,A,Indiana,Big Ten,John Pont,L,13,16
 1968-11-02,Arizona,WAC,Darrell Mudra,H,Washington State,Pac-8,Jim Sweeney,W,28,14
 1968-11-09,Arizona,WAC,Darrell Mudra,A,Air Force,Ind,Ben Martin,W,14,10
@@ -368,7 +368,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-10-12,Utah State,Ind,Chuck Mills,A,Wisconsin,Big Ten,John Coatta,W,20,0
 1968-10-19,Utah State,Ind,Chuck Mills,A,Pacific,Ind,Doug Scovil,L,7,18
 1968-10-26,Utah State,Ind,Chuck Mills,H,West Texas A&M,Ind,Joe Kerbel,W,20,10
-1968-11-09,Utah State,Ind,Chuck Mills,A,Brigham Young,WAC,Tommy Hudspeth,W,34,8
+1968-11-09,Utah State,Ind,Chuck Mills,A,BYU,WAC,Tommy Hudspeth,W,34,8
 1968-11-23,Utah State,Ind,Chuck Mills,H,Utah,WAC,Bill Meek,W,28,13
 1968-09-21,Missouri,Big 8,Dan Devine,A,Kentucky,SEC,Charley Bradshaw,L,6,12
 1968-09-28,Missouri,Big 8,Dan Devine,A,Illinois,Big Ten,James Valek,W,44,0
@@ -388,7 +388,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-11-09,San Jose State,Ind,Harry Anderson,H,Idaho,Ind,Y.C. McNease,L,17,35
 1968-11-16,San Jose State,Ind,Harry Anderson,H,Washington State,Pac-8,Jim Sweeney,L,0,46
 1968-11-23,San Jose State,Ind,Harry Anderson,A,Arizona State,WAC,Frank Kush,L,0,66
-1968-11-30,San Jose State,Ind,Harry Anderson,H,Brigham Young,WAC,Tommy Hudspeth,W,25,21
+1968-11-30,San Jose State,Ind,Harry Anderson,H,BYU,WAC,Tommy Hudspeth,W,25,21
 1968-09-28,Bowling Green State,MAC,Don Nehlen,H,Dayton,Ind,John McVay,W,20,14
 1968-10-05,Bowling Green State,MAC,Don Nehlen,A,Western Michigan,MAC,Bill Doolittle,W,17,10
 1968-10-12,Bowling Green State,MAC,Don Nehlen,A,Toledo,MAC,Frank Lauterbur,T,0,0
@@ -454,7 +454,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-10-26,New Mexico,WAC,Rudy Feldman,A,Wyoming,WAC,Lloyd Eaton,L,6,35
 1968-11-02,New Mexico,WAC,Rudy Feldman,A,Arizona State,WAC,Frank Kush,L,28,63
 1968-11-16,New Mexico,WAC,Rudy Feldman,H,New Mexico State,Ind,Jim Wood,L,6,33
-1968-11-23,New Mexico,WAC,Rudy Feldman,H,Brigham Young,WAC,Tommy Hudspeth,L,6,35
+1968-11-23,New Mexico,WAC,Rudy Feldman,H,BYU,WAC,Tommy Hudspeth,L,6,35
 1968-09-21,Pacific,Ind,Doug Scovil,H,Miami (OH),MAC,Bo Schembechler,W,21,20
 1968-09-28,Pacific,Ind,Doug Scovil,A,West Texas A&M,Ind,Joe Kerbel,L,7,23
 1968-10-05,Pacific,Ind,Doug Scovil,A,Idaho,Ind,Y.C. McNease,L,14,31
@@ -519,22 +519,22 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-09-21,Wyoming,WAC,Lloyd Eaton,H,Utah State,Ind,Chuck Mills,W,48,3
 1968-09-28,Wyoming,WAC,Lloyd Eaton,A,Air Force,Ind,Ben Martin,L,3,10
 1968-10-05,Wyoming,WAC,Lloyd Eaton,H,Arizona State,WAC,Frank Kush,W,27,13
-1968-10-12,Wyoming,WAC,Lloyd Eaton,A,Brigham Young,WAC,Tommy Hudspeth,W,20,17
+1968-10-12,Wyoming,WAC,Lloyd Eaton,A,BYU,WAC,Tommy Hudspeth,W,20,17
 1968-10-19,Wyoming,WAC,Lloyd Eaton,H,Utah,WAC,Bill Meek,W,20,9
 1968-10-26,Wyoming,WAC,Lloyd Eaton,H,New Mexico,WAC,Rudy Feldman,W,35,6
 1968-11-02,Wyoming,WAC,Lloyd Eaton,A,Colorado State,WAC,Milo Lude,W,46,14
 1968-11-16,Wyoming,WAC,Lloyd Eaton,A,UTEP,WAC,Robert Dobbs,W,26,19
 1968-11-23,Wyoming,WAC,Lloyd Eaton,A,Arizona,WAC,Darrell Mudra,L,7,14
-1968-09-21,Brigham Young,WAC,Tommy Hudspeth,A,Western Michigan,MAC,Bill Doolittle,W,17,7
-1968-09-28,Brigham Young,WAC,Tommy Hudspeth,H,Iowa State,Big 8,Johnny Majors,L,20,28
-1968-10-12,Brigham Young,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,L,17,20
-1968-10-19,Brigham Young,WAC,Tommy Hudspeth,A,Arizona,WAC,Darrell Mudra,L,3,19
-1968-10-26,Brigham Young,WAC,Tommy Hudspeth,H,UTEP,WAC,Robert Dobbs,L,25,31
-1968-11-02,Brigham Young,WAC,Tommy Hudspeth,A,Utah,WAC,Bill Meek,L,21,30
-1968-11-09,Brigham Young,WAC,Tommy Hudspeth,H,Utah State,Ind,Chuck Mills,L,8,34
-1968-11-16,Brigham Young,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,12,47
-1968-11-23,Brigham Young,WAC,Tommy Hudspeth,A,New Mexico,WAC,Rudy Feldman,W,35,6
-1968-11-30,Brigham Young,WAC,Tommy Hudspeth,A,San Jose State,Ind,Harry Anderson,L,21,25
+1968-09-21,BYU,WAC,Tommy Hudspeth,A,Western Michigan,MAC,Bill Doolittle,W,17,7
+1968-09-28,BYU,WAC,Tommy Hudspeth,H,Iowa State,Big 8,Johnny Majors,L,20,28
+1968-10-12,BYU,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,L,17,20
+1968-10-19,BYU,WAC,Tommy Hudspeth,A,Arizona,WAC,Darrell Mudra,L,3,19
+1968-10-26,BYU,WAC,Tommy Hudspeth,H,UTEP,WAC,Robert Dobbs,L,25,31
+1968-11-02,BYU,WAC,Tommy Hudspeth,A,Utah,WAC,Bill Meek,L,21,30
+1968-11-09,BYU,WAC,Tommy Hudspeth,H,Utah State,Ind,Chuck Mills,L,8,34
+1968-11-16,BYU,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,12,47
+1968-11-23,BYU,WAC,Tommy Hudspeth,A,New Mexico,WAC,Rudy Feldman,W,35,6
+1968-11-30,BYU,WAC,Tommy Hudspeth,A,San Jose State,Ind,Harry Anderson,L,21,25
 1968-10-05,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,49,14
 1968-10-12,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,Leonard Jardine,W,35,13
 1968-10-19,Yale,Ivy,Carmen Cozza,H,Columbia,Ivy,Frank Navarro,W,29,7
@@ -686,7 +686,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-11-16,Kansas,Big 8,Pepper Rodgers,A,Kansas State,Big 8,Vince Gibson,W,38,29
 1968-11-23,Kansas,Big 8,Pepper Rodgers,A,Missouri,Big 8,Dan Devine,W,21,19
 1969-01-01,Kansas,Big 8,Pepper Rodgers,N,Penn State,Ind,Joe Paterno,L,14,15
-1968-09-21,Western Michigan,MAC,Bill Doolittle,H,Brigham Young,WAC,Tommy Hudspeth,L,7,17
+1968-09-21,Western Michigan,MAC,Bill Doolittle,H,BYU,WAC,Tommy Hudspeth,L,7,17
 1968-09-28,Western Michigan,MAC,Bill Doolittle,A,Miami (OH),MAC,Bo Schembechler,L,0,28
 1968-10-05,Western Michigan,MAC,Bill Doolittle,H,Bowling Green State,MAC,Don Nehlen,L,10,17
 1968-10-12,Western Michigan,MAC,Bill Doolittle,A,Kent State,MAC,Dave Puddington,W,14,0
@@ -708,7 +708,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1968-09-28,UTEP,WAC,Robert Dobbs,A,Arizona State,WAC,Frank Kush,L,19,31
 1968-10-05,UTEP,WAC,Robert Dobbs,A,Arizona,WAC,Darrell Mudra,L,0,25
 1968-10-19,UTEP,WAC,Robert Dobbs,H,New Mexico State,Ind,Jim Wood,W,30,14
-1968-10-26,UTEP,WAC,Robert Dobbs,A,Brigham Young,WAC,Tommy Hudspeth,W,31,25
+1968-10-26,UTEP,WAC,Robert Dobbs,A,BYU,WAC,Tommy Hudspeth,W,31,25
 1968-11-09,UTEP,WAC,Robert Dobbs,H,North Texas,MVC,Rod Rust,L,31,34
 1968-11-16,UTEP,WAC,Robert Dobbs,H,Wyoming,WAC,Lloyd Eaton,L,19,26
 1968-11-23,UTEP,WAC,Robert Dobbs,H,Colorado State,WAC,Milo Lude,W,23,19

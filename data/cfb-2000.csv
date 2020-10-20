@@ -32,7 +32,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-11-04,Indiana,Big Ten,Cam Cameron,A,Illinois,Big Ten,Ron Turner,L,35,42,10,18,130,0,65,447,5,7,23,12,110,1,1
 2000-11-11,Indiana,Big Ten,Cam Cameron,H,Wisconsin,Big Ten,Barry Alvarez,L,22,43,15,35,209,0,47,250,2,12,9,6,53,1,4
 2000-11-18,Indiana,Big Ten,Cam Cameron,A,Purdue,Big Ten,Joe Tiller,L,13,41,13,28,123,1,36,205,1,3,14,4,25,1,3
-2000-08-26,Florida State,ACC,Bobby Bowden,H,Brigham Young,MWC,LaVell Edwards,W,29,3,32,51,318,2,36,57,2,11,1,10,90,1,0
+2000-08-26,Florida State,ACC,Bobby Bowden,H,BYU,MWC,LaVell Edwards,W,29,3,32,51,318,2,36,57,2,11,1,10,90,1,0
 2000-09-09,Florida State,ACC,Bobby Bowden,A,Georgia Tech,ACC,George O'Leary,W,26,21,26,40,463,2,34,73,1,19,4,15,114,1,1
 2000-09-16,Florida State,ACC,Bobby Bowden,H,North Carolina,ACC,Carl Torbush,W,63,14,15,27,346,5,41,194,3,12,9,10,105,0,0
 2000-09-23,Florida State,ACC,Bobby Bowden,H,Louisville,CUSA,John Smith,W,31,0,23,34,274,1,48,235,2,11,12,13,110,2,3
@@ -87,11 +87,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-10-28,Utah,MWC,Ron McBride,A,New Mexico,MWC,Rocky Long,L,3,10,13,31,185,0,27,60,0,5,5,6,64,0,2
 2000-11-04,Utah,MWC,Ron McBride,H,Nevada-Las Vegas,MWC,John Robinson,W,38,16,13,21,157,3,44,193,2,6,9,4,40,1,0
 2000-11-11,Utah,MWC,Ron McBride,A,Wyoming,MWC,Vic Koenning,W,34,0,7,16,146,1,41,183,2,4,9,8,74,0,0
-2000-11-24,Utah,MWC,Ron McBride,H,Brigham Young,MWC,LaVell Edwards,L,27,34,16,34,252,1,30,70,1,9,4,7,84,1,1
+2000-11-24,Utah,MWC,Ron McBride,H,BYU,MWC,LaVell Edwards,L,27,34,16,34,252,1,30,70,1,9,4,7,84,1,1
 2000-09-02,Syracuse,Big East,Paul Pasqualoni,H,Buffalo,MAC,Craig Cirbus,W,63,7,6,9,82,1,50,298,6,3,19,10,88,0,1
 2000-09-09,Syracuse,Big East,Paul Pasqualoni,A,Cincinnati,CUSA,Rick Minter,L,10,12,21,30,221,1,37,105,0,11,7,1,15,1,2
 2000-09-23,Syracuse,Big East,Paul Pasqualoni,A,East Carolina,CUSA,Steve Logan,L,17,34,12,22,179,0,48,247,2,7,10,12,80,0,2
-2000-09-30,Syracuse,Big East,Paul Pasqualoni,H,Brigham Young,MWC,LaVell Edwards,W,42,14,10,12,228,2,50,224,4,7,9,8,61,0,0
+2000-09-30,Syracuse,Big East,Paul Pasqualoni,H,BYU,MWC,LaVell Edwards,W,42,14,10,12,228,2,50,224,4,7,9,8,61,0,0
 2000-10-07,Syracuse,Big East,Paul Pasqualoni,H,Pitt,Big East,Walt Harris,W,24,17,20,29,279,2,53,160,1,10,12,8,90,0,0
 2000-10-14,Syracuse,Big East,Paul Pasqualoni,A,Boston College,Big East,Tom O'Brien,L,13,20,9,22,134,1,46,306,0,7,11,5,27,0,4
 2000-10-21,Syracuse,Big East,Paul Pasqualoni,H,Virginia Tech,Big East,Frank Beamer,L,14,22,13,25,217,1,41,111,1,6,8,12,77,1,4
@@ -262,7 +262,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-11-04,Maryland,ACC,Ron Vanderlinden,H,North Carolina State,ACC,Chuck Amato,W,35,28,21,34,200,2,41,138,3,8,13,4,35,0,1
 2000-11-11,Maryland,ACC,Ron Vanderlinden,A,North Carolina,ACC,Carl Torbush,L,10,13,16,31,164,1,47,145,0,7,8,2,10,0,1
 2000-11-18,Maryland,ACC,Ron Vanderlinden,H,Georgia Tech,ACC,George O'Leary,L,22,35,29,46,318,3,22,20,0,13,4,6,50,2,1
-2000-09-02,Virginia,ACC,George Welsh,H,Brigham Young,MWC,LaVell Edwards,L,35,38,13,23,217,1,42,270,4,9,10,2,15,0,1
+2000-09-02,Virginia,ACC,George Welsh,H,BYU,MWC,LaVell Edwards,L,35,38,13,23,217,1,42,270,4,9,10,2,15,0,1
 2000-09-16,Virginia,ACC,George Welsh,A,Duke,ACC,Carl Franks,W,26,10,20,30,333,3,45,119,0,15,8,6,42,0,0
 2000-09-23,Virginia,ACC,George Welsh,H,Clemson,ACC,Tommy Bowden,L,10,31,17,39,170,0,36,111,1,9,7,4,35,0,1
 2000-09-30,Virginia,ACC,George Welsh,A,Wake Forest,ACC,Jim Caldwell,W,27,10,16,27,179,1,47,237,2,10,11,9,93,0,0
@@ -380,7 +380,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-09-02,Utah State,Big West,Mick Dennehy,A,Texas Tech,Big 12,Mike Leach,L,16,38,16,35,153,2,28,147,0,9,7,7,74,2,1
 2000-09-23,Utah State,Big West,Mick Dennehy,A,Arizona State,Pac-10,Bruce Snyder,L,20,44,17,38,240,1,32,103,1,9,5,8,77,1,3
 2000-09-30,Utah State,Big West,Mick Dennehy,H,Utah,MWC,Ron McBride,L,14,35,19,43,230,1,19,52,0,10,3,8,69,0,3
-2000-10-06,Utah State,Big West,Mick Dennehy,A,Brigham Young,MWC,LaVell Edwards,L,14,38,22,34,209,1,25,11,1,11,3,3,35,1,0
+2000-10-06,Utah State,Big West,Mick Dennehy,A,BYU,MWC,LaVell Edwards,L,14,38,22,34,209,1,25,11,1,11,3,3,35,1,0
 2000-10-14,Utah State,Big West,Mick Dennehy,A,North Texas,Big West,Darrell Dickey,W,17,12,21,36,170,0,40,156,2,5,12,6,51,0,1
 2000-10-21,Utah State,Big West,Mick Dennehy,H,Idaho,Big West,Tom Cable,W,31,14,20,36,439,3,37,130,1,13,8,4,40,2,0
 2000-10-28,Utah State,Big West,Mick Dennehy,H,Arkansas State,Big West,Joe Hollis,W,44,31,24,43,247,1,39,236,4,11,14,8,71,1,0
@@ -471,7 +471,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-09-23,San Diego State,MWC,Ted Tollner,A,Oregon State,Pac-10,Dennis Erickson,L,3,35,15,30,156,0,38,71,0,8,5,3,25,3,4
 2000-10-07,San Diego State,MWC,Ted Tollner,A,Wyoming,MWC,Vic Koenning,W,34,0,19,27,317,2,42,117,2,14,7,3,35,1,1
 2000-10-14,San Diego State,MWC,Ted Tollner,H,Utah,MWC,Ron McBride,L,7,21,15,39,157,0,35,93,1,7,6,8,60,0,0
-2000-10-21,San Diego State,MWC,Ted Tollner,A,Brigham Young,MWC,LaVell Edwards,W,16,15,14,30,239,0,28,70,2,8,6,4,50,2,0
+2000-10-21,San Diego State,MWC,Ted Tollner,A,BYU,MWC,LaVell Edwards,W,16,15,14,30,239,0,28,70,2,8,6,4,50,2,0
 2000-10-28,San Diego State,MWC,Ted Tollner,H,Colorado State,MWC,Sonny Lubick,L,22,34,30,46,393,1,25,26,0,13,4,5,50,1,2
 2000-11-04,San Diego State,MWC,Ted Tollner,A,New Mexico,MWC,Rocky Long,W,17,16,12,24,148,0,38,35,1,9,6,6,42,2,0
 2000-11-18,San Diego State,MWC,Ted Tollner,A,Air Force,MWC,Fisher DeBerry,L,24,45,14,26,269,2,28,81,1,9,6,5,35,2,1
@@ -551,7 +551,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-10-28,New Mexico,MWC,Rocky Long,H,Utah,MWC,Ron McBride,W,10,3,6,12,39,1,53,161,0,1,9,4,35,0,0
 2000-11-04,New Mexico,MWC,Rocky Long,H,San Diego State,MWC,Ted Tollner,L,16,17,14,30,154,0,42,114,1,10,5,4,27,1,1
 2000-11-11,New Mexico,MWC,Rocky Long,A,Nevada-Las Vegas,MWC,John Robinson,L,14,18,4,11,61,0,43,143,2,2,4,3,25,1,2
-2000-11-18,New Mexico,MWC,Rocky Long,A,Brigham Young,MWC,LaVell Edwards,L,13,37,11,28,178,1,33,90,0,7,6,8,65,2,0
+2000-11-18,New Mexico,MWC,Rocky Long,A,BYU,MWC,LaVell Edwards,L,13,37,11,28,178,1,33,90,0,7,6,8,65,2,0
 2000-09-02,Notre Dame,Ind,Bob Davie,H,Texas A&M,Big 12,R.C. Slocum,W,24,10,10,16,133,2,49,194,1,6,13,5,59,0,0
 2000-09-09,Notre Dame,Ind,Bob Davie,H,Nebraska,Big 12,Frank Solich,L,24,27,3,15,40,0,40,184,1,2,7,8,67,0,1
 2000-09-16,Notre Dame,Ind,Bob Davie,H,Purdue,Big Ten,Joe Tiller,W,23,21,14,25,158,0,34,78,1,5,8,5,23,0,1
@@ -648,21 +648,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-10-07,Wyoming,MWC,Vic Koenning,H,San Diego State,MWC,Ted Tollner,L,0,34,20,30,158,0,30,26,0,8,2,2,15,2,1
 2000-10-14,Wyoming,MWC,Vic Koenning,H,Air Force,MWC,Fisher DeBerry,L,34,51,28,41,339,2,29,82,2,16,7,2,6,0,1
 2000-10-21,Wyoming,MWC,Vic Koenning,A,Nevada-Las Vegas,MWC,John Robinson,L,23,42,28,42,237,2,43,127,1,13,9,1,13,1,0
-2000-10-26,Wyoming,MWC,Vic Koenning,A,Brigham Young,MWC,LaVell Edwards,L,7,19,19,30,169,1,36,68,0,11,6,5,21,1,4
+2000-10-26,Wyoming,MWC,Vic Koenning,A,BYU,MWC,LaVell Edwards,L,7,19,19,30,169,1,36,68,0,11,6,5,21,1,4
 2000-11-11,Wyoming,MWC,Vic Koenning,H,Utah,MWC,Ron McBride,L,0,34,15,36,186,0,34,63,0,9,4,4,30,1,1
 2000-11-16,Wyoming,MWC,Vic Koenning,A,Colorado State,MWC,Sonny Lubick,L,13,37,14,30,138,1,39,152,0,7,8,5,36,1,3
-2000-08-26,Brigham Young,MWC,LaVell Edwards,A,Florida State,ACC,Bobby Bowden,L,3,29,18,46,227,0,24,-2,0,17,5,11,93,0,3
-2000-09-02,Brigham Young,MWC,LaVell Edwards,A,Virginia,ACC,George Welsh,W,38,35,34,42,447,2,34,93,3,15,10,6,45,1,2
-2000-09-09,Brigham Young,MWC,LaVell Edwards,A,Air Force,MWC,Fisher DeBerry,L,23,31,18,40,235,1,26,125,1,12,8,5,32,2,1
-2000-09-14,Brigham Young,MWC,LaVell Edwards,H,Mississippi State,SEC,Jackie Sherrill,L,28,44,27,50,268,2,32,74,2,13,6,7,57,2,2
-2000-09-23,Brigham Young,MWC,LaVell Edwards,H,Nevada-Las Vegas,MWC,John Robinson,W,10,7,15,29,157,0,47,196,1,4,15,6,57,0,1
-2000-09-30,Brigham Young,MWC,LaVell Edwards,A,Syracuse,Big East,Paul Pasqualoni,L,14,42,24,44,272,2,21,21,0,15,1,8,42,1,0
-2000-10-06,Brigham Young,MWC,LaVell Edwards,H,Utah State,Big West,Mick Dennehy,W,38,14,25,39,335,1,38,198,4,16,11,4,45,0,0
-2000-10-21,Brigham Young,MWC,LaVell Edwards,H,San Diego State,MWC,Ted Tollner,L,15,16,34,58,376,1,34,63,0,21,4,11,159,1,0
-2000-10-26,Brigham Young,MWC,LaVell Edwards,H,Wyoming,MWC,Vic Koenning,W,19,7,22,34,225,0,40,128,2,8,10,5,50,3,1
-2000-11-02,Brigham Young,MWC,LaVell Edwards,A,Colorado State,MWC,Sonny Lubick,L,21,45,18,41,120,1,16,57,2,6,3,8,56,2,3
-2000-11-18,Brigham Young,MWC,LaVell Edwards,H,New Mexico,MWC,Rocky Long,W,37,13,21,35,349,0,44,149,4,16,5,5,52,1,1
-2000-11-24,Brigham Young,MWC,LaVell Edwards,A,Utah,MWC,Ron McBride,W,34,27,16,29,284,1,42,100,2,9,8,7,69,0,1
+2000-08-26,BYU,MWC,LaVell Edwards,A,Florida State,ACC,Bobby Bowden,L,3,29,18,46,227,0,24,-2,0,17,5,11,93,0,3
+2000-09-02,BYU,MWC,LaVell Edwards,A,Virginia,ACC,George Welsh,W,38,35,34,42,447,2,34,93,3,15,10,6,45,1,2
+2000-09-09,BYU,MWC,LaVell Edwards,A,Air Force,MWC,Fisher DeBerry,L,23,31,18,40,235,1,26,125,1,12,8,5,32,2,1
+2000-09-14,BYU,MWC,LaVell Edwards,H,Mississippi State,SEC,Jackie Sherrill,L,28,44,27,50,268,2,32,74,2,13,6,7,57,2,2
+2000-09-23,BYU,MWC,LaVell Edwards,H,Nevada-Las Vegas,MWC,John Robinson,W,10,7,15,29,157,0,47,196,1,4,15,6,57,0,1
+2000-09-30,BYU,MWC,LaVell Edwards,A,Syracuse,Big East,Paul Pasqualoni,L,14,42,24,44,272,2,21,21,0,15,1,8,42,1,0
+2000-10-06,BYU,MWC,LaVell Edwards,H,Utah State,Big West,Mick Dennehy,W,38,14,25,39,335,1,38,198,4,16,11,4,45,0,0
+2000-10-21,BYU,MWC,LaVell Edwards,H,San Diego State,MWC,Ted Tollner,L,15,16,34,58,376,1,34,63,0,21,4,11,159,1,0
+2000-10-26,BYU,MWC,LaVell Edwards,H,Wyoming,MWC,Vic Koenning,W,19,7,22,34,225,0,40,128,2,8,10,5,50,3,1
+2000-11-02,BYU,MWC,LaVell Edwards,A,Colorado State,MWC,Sonny Lubick,L,21,45,18,41,120,1,16,57,2,6,3,8,56,2,3
+2000-11-18,BYU,MWC,LaVell Edwards,H,New Mexico,MWC,Rocky Long,W,37,13,21,35,349,0,44,149,4,16,5,5,52,1,1
+2000-11-24,BYU,MWC,LaVell Edwards,A,Utah,MWC,Ron McBride,W,34,27,16,29,284,1,42,100,2,9,8,7,69,0,1
 2000-09-02,Georgia Tech,ACC,George O'Leary,H,UCF,Ind,Mike Kruczek,W,21,17,23,41,226,3,44,110,0,13,11,9,90,2,0
 2000-09-09,Georgia Tech,ACC,George O'Leary,H,Florida State,ACC,Bobby Bowden,L,21,26,22,37,219,1,34,79,1,11,5,19,140,0,0
 2000-09-16,Georgia Tech,ACC,George O'Leary,H,Navy,Ind,Charlie Weatherbie,W,40,13,10,19,166,3,40,139,1,9,8,5,45,1,0
@@ -695,7 +695,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-11-04,Arkansas State,Big West,Joe Hollis,H,Boise State,Big West,Dirk Koetter,L,14,42,19,28,219,2,23,53,0,8,3,7,79,1,0
 2000-11-11,Arkansas State,Big West,Joe Hollis,H,North Texas,Big West,Darrell Dickey,W,53,28,21,38,213,2,31,193,3,8,10,9,93,0,1
 2000-09-02,Mississippi State,SEC,Jackie Sherrill,A,Memphis,CUSA,Rip Scherer,W,17,3,10,20,82,0,35,45,2,3,4,13,105,1,1
-2000-09-14,Mississippi State,SEC,Jackie Sherrill,A,Brigham Young,MWC,LaVell Edwards,W,44,28,13,20,167,1,32,217,2,5,9,16,132,2,0
+2000-09-14,Mississippi State,SEC,Jackie Sherrill,A,BYU,MWC,LaVell Edwards,W,44,28,13,20,167,1,32,217,2,5,9,16,132,2,0
 2000-09-23,Mississippi State,SEC,Jackie Sherrill,A,South Carolina,SEC,Lou Holtz,L,19,23,17,36,224,0,37,94,1,11,5,10,54,2,1
 2000-09-30,Mississippi State,SEC,Jackie Sherrill,H,Florida,SEC,Steve Spurrier,W,47,35,14,27,166,1,57,351,4,7,18,10,85,1,2
 2000-10-07,Mississippi State,SEC,Jackie Sherrill,H,Auburn,SEC,Tommy Tuberville,W,17,10,18,31,208,1,42,135,1,8,9,5,40,2,1
@@ -707,7 +707,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-11-23,Mississippi State,SEC,Jackie Sherrill,A,Ole Miss,SEC,David Cutcliffe,L,30,45,13,27,184,1,40,184,3,9,8,10,81,1,1
 2000-09-09,Nevada-Las Vegas,MWC,John Robinson,A,Iowa State,Big 12,Dan McCarney,L,22,37,9,25,190,2,47,197,1,8,11,12,101,1,1
 2000-09-16,Nevada-Las Vegas,MWC,John Robinson,H,North Texas,Big West,Darrell Dickey,W,38,0,7,15,133,2,44,314,3,4,12,8,76,1,0
-2000-09-23,Nevada-Las Vegas,MWC,John Robinson,A,Brigham Young,MWC,LaVell Edwards,L,7,10,11,17,202,0,33,41,1,6,4,1,5,1,1
+2000-09-23,Nevada-Las Vegas,MWC,John Robinson,A,BYU,MWC,LaVell Edwards,L,7,10,11,17,202,0,33,41,1,6,4,1,5,1,1
 2000-09-30,Nevada-Las Vegas,MWC,John Robinson,H,Air Force,MWC,Fisher DeBerry,W,34,13,16,22,259,1,46,224,3,12,12,8,80,1,0
 2000-10-07,Nevada-Las Vegas,MWC,John Robinson,H,Nevada,WAC,Chris Tormey,W,38,7,8,14,152,2,53,321,3,5,14,12,132,0,0
 2000-10-14,Nevada-Las Vegas,MWC,John Robinson,A,Colorado State,MWC,Sonny Lubick,L,19,20,9,14,80,2,43,200,1,4,10,4,20,0,0
@@ -909,7 +909,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-11-11,Texas Christian,WAC,Gary Patterson,H,Fresno State,WAC,Pat Hill,W,24,7,7,15,78,0,62,217,3,4,11,11,84,1,0
 2000-11-18,Texas Christian,WAC,Gary Patterson,H,UTEP,WAC,Gary Nord,W,47,14,10,18,216,2,49,313,4,8,11,13,142,2,0
 2000-11-24,Texas Christian,WAC,Gary Patterson,A,SMU,WAC,Mike Cavan,W,62,7,13,20,251,4,48,307,3,8,12,8,90,0,1
-2000-09-09,Air Force,MWC,Fisher DeBerry,H,Brigham Young,MWC,LaVell Edwards,W,31,23,11,16,203,4,53,186,0,9,7,7,45,0,0
+2000-09-09,Air Force,MWC,Fisher DeBerry,H,BYU,MWC,LaVell Edwards,W,31,23,11,16,203,4,53,186,0,9,7,7,45,0,0
 2000-09-23,Air Force,MWC,Fisher DeBerry,A,Utah,MWC,Ron McBride,W,23,14,5,11,149,2,54,242,1,4,14,1,5,1,0
 2000-09-30,Air Force,MWC,Fisher DeBerry,A,Nevada-Las Vegas,MWC,John Robinson,L,13,34,9,21,133,1,51,219,1,8,13,3,24,0,1
 2000-10-07,Air Force,MWC,Fisher DeBerry,H,Navy,Ind,Charlie Weatherbie,W,27,13,6,13,101,0,47,135,3,5,7,12,92,0,1
@@ -1033,7 +1033,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2000-10-14,Colorado State,MWC,Sonny Lubick,H,Nevada-Las Vegas,MWC,John Robinson,W,20,19,20,28,222,0,42,158,2,13,9,3,40,1,1
 2000-10-21,Colorado State,MWC,Sonny Lubick,A,Utah,MWC,Ron McBride,W,24,17,18,36,207,2,35,68,0,8,6,4,35,0,1
 2000-10-28,Colorado State,MWC,Sonny Lubick,A,San Diego State,MWC,Ted Tollner,W,34,22,22,34,232,2,33,84,1,11,4,5,45,1,1
-2000-11-02,Colorado State,MWC,Sonny Lubick,H,Brigham Young,MWC,LaVell Edwards,W,45,21,19,31,298,3,43,165,3,11,9,3,25,3,0
+2000-11-02,Colorado State,MWC,Sonny Lubick,H,BYU,MWC,LaVell Edwards,W,45,21,19,31,298,3,43,165,3,11,9,3,25,3,0
 2000-11-11,Colorado State,MWC,Sonny Lubick,A,Air Force,MWC,Fisher DeBerry,L,40,44,22,41,334,5,18,178,1,16,4,1,5,2,1
 2000-11-16,Colorado State,MWC,Sonny Lubick,H,Wyoming,MWC,Vic Koenning,W,37,13,17,26,216,2,33,74,1,12,3,4,25,2,0
 2000-09-02,Rice,WAC,Ken Hatfield,H,Houston,CUSA,Dana Dimel,W,30,27,5,16,85,0,61,198,2,4,10,6,50,2,0

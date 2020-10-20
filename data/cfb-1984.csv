@@ -84,7 +84,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-10-27,Utah,WAC,Chuck Stobart,H,UTEP,WAC,Bill Yung,W,43,15
 1984-11-03,Utah,WAC,Chuck Stobart,H,Colorado State,WAC,Leon Fuller,W,35,23
 1984-11-10,Utah,WAC,Chuck Stobart,A,Utah State,PCAA,Chris Pella,W,21,10
-1984-11-17,Utah,WAC,Chuck Stobart,H,Brigham Young,WAC,LaVell Edwards,L,14,24
+1984-11-17,Utah,WAC,Chuck Stobart,H,BYU,WAC,LaVell Edwards,L,14,24
 1984-09-08,Cal State Fullerton,PCAA,Gene Murphy,A,Hawaii,WAC,Dick Tomey,W,21,13
 1984-09-22,Cal State Fullerton,PCAA,Gene Murphy,A,Colorado State,WAC,Leon Fuller,W,34,22
 1984-09-29,Cal State Fullerton,PCAA,Gene Murphy,H,Utah State,PCAA,Chris Pella,W,27,16
@@ -218,7 +218,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-10-27,Illinois,Big Ten,Mike White,A,Michigan,Big Ten,Bo Schembechler,L,18,26
 1984-11-03,Illinois,Big Ten,Mike White,H,Minnesota,Big Ten,Lou Holtz,W,48,3
 1984-11-10,Illinois,Big Ten,Mike White,A,Indiana,Big Ten,Bill Mallory,W,34,7
-1984-09-08,Baylor,SWC,Grant Teaff,A,Brigham Young,WAC,LaVell Edwards,L,13,47
+1984-09-08,Baylor,SWC,Grant Teaff,A,BYU,WAC,LaVell Edwards,L,13,47
 1984-09-22,Baylor,SWC,Grant Teaff,A,Oklahoma,Big 8,Barry Switzer,L,15,34
 1984-09-29,Baylor,SWC,Grant Teaff,A,Texas Tech,SWC,Jerry Moore,W,18,9
 1984-10-06,Baylor,SWC,Grant Teaff,H,Houston,SWC,Bill Yeoman,L,17,27
@@ -394,7 +394,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-11-03,Utah State,PCAA,Chris Pella,A,Arizona,Pac-10,Larry Smith,L,10,45
 1984-11-10,Utah State,PCAA,Chris Pella,H,Utah,WAC,Chuck Stobart,L,10,21
 1984-11-17,Utah State,PCAA,Chris Pella,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,20,36
-1984-11-24,Utah State,PCAA,Chris Pella,A,Brigham Young,WAC,LaVell Edwards,L,13,38
+1984-11-24,Utah State,PCAA,Chris Pella,A,BYU,WAC,LaVell Edwards,L,13,38
 1984-09-08,Missouri,Big 8,Warren Powers,A,Illinois,Big Ten,Mike White,L,24,30
 1984-09-15,Missouri,Big 8,Warren Powers,H,Wisconsin,Big Ten,Dave McClain,L,34,35
 1984-09-22,Missouri,Big 8,Warren Powers,H,Mississippi State,SEC,Emory Bellard,W,47,30
@@ -470,12 +470,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-10-20,San Diego State,WAC,Doug Scovil,H,Colorado State,WAC,Leon Fuller,W,41,24
 1984-10-27,San Diego State,WAC,Doug Scovil,A,Hawaii,WAC,Dick Tomey,L,10,16
 1984-11-03,San Diego State,WAC,Doug Scovil,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,14,30
-1984-11-10,San Diego State,WAC,Doug Scovil,A,Brigham Young,WAC,LaVell Edwards,L,3,34
+1984-11-10,San Diego State,WAC,Doug Scovil,A,BYU,WAC,LaVell Edwards,L,3,34
 1984-11-17,San Diego State,WAC,Doug Scovil,H,New Mexico,WAC,Joe Lee Dunn,W,37,31
 1984-11-24,San Diego State,WAC,Doug Scovil,H,Long Beach State,PCAA,Mike Sheppard,L,17,18
 1984-09-08,Hawaii,WAC,Dick Tomey,H,Cal State Fullerton,PCAA,Gene Murphy,L,13,21
 1984-09-15,Hawaii,WAC,Dick Tomey,A,Colorado State,WAC,Leon Fuller,L,3,10
-1984-09-22,Hawaii,WAC,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,13,18
+1984-09-22,Hawaii,WAC,Dick Tomey,H,BYU,WAC,LaVell Edwards,L,13,18
 1984-09-29,Hawaii,WAC,Dick Tomey,H,Nevada-Las Vegas,PCAA,Harvey Hyde,W,16,12
 1984-10-06,Hawaii,WAC,Dick Tomey,H,Fresno State,PCAA,Jim Sweeney,W,27,15
 1984-10-13,Hawaii,WAC,Dick Tomey,A,UTEP,WAC,Bill Yung,W,24,20
@@ -523,7 +523,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-11-03,Michigan,Big Ten,Bo Schembechler,A,Purdue,Big Ten,Leon Burtnett,L,29,31
 1984-11-10,Michigan,Big Ten,Bo Schembechler,H,Minnesota,Big Ten,Lou Holtz,W,31,7
 1984-11-17,Michigan,Big Ten,Bo Schembechler,A,Ohio State,Big Ten,Earle Bruce,L,6,21
-1984-12-21,Michigan,Big Ten,Bo Schembechler,N,Brigham Young,WAC,LaVell Edwards,L,17,24
+1984-12-21,Michigan,Big Ten,Bo Schembechler,N,BYU,WAC,LaVell Edwards,L,17,24
 1984-09-08,Temple,Ind,Bruce Arians,H,East Carolina,Ind,Ed Emory,W,17,0
 1984-09-15,Temple,Ind,Bruce Arians,A,Rutgers,Ind,Dick Anderson,L,9,10
 1984-09-22,Temple,Ind,Bruce Arians,H,Pitt,Ind,Foge Fazio,W,13,12
@@ -540,7 +540,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-10-05,New Mexico,WAC,Joe Lee Dunn,A,Utah,WAC,Chuck Stobart,L,14,38
 1984-10-13,New Mexico,WAC,Joe Lee Dunn,H,Colorado State,WAC,Leon Fuller,L,10,16
 1984-10-20,New Mexico,WAC,Joe Lee Dunn,A,Wyoming,WAC,Al Kincaid,L,21,59
-1984-10-25,New Mexico,WAC,Joe Lee Dunn,H,Brigham Young,WAC,LaVell Edwards,L,0,48
+1984-10-25,New Mexico,WAC,Joe Lee Dunn,H,BYU,WAC,LaVell Edwards,L,0,48
 1984-11-03,New Mexico,WAC,Joe Lee Dunn,A,Baylor,SWC,Grant Teaff,L,2,38
 1984-11-10,New Mexico,WAC,Joe Lee Dunn,H,Air Force,WAC,Fisher DeBerry,L,9,23
 1984-11-17,New Mexico,WAC,Joe Lee Dunn,A,San Diego State,WAC,Doug Scovil,L,31,37
@@ -593,7 +593,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-11-17,Toledo,MAC,Dan Simrell,A,Central Michigan,MAC,Herb Deromedi,W,14,7
 1984-11-30,Toledo,MAC,Dan Simrell,A,Temple,Ind,Bruce Arians,L,6,35
 1984-12-15,Toledo,MAC,Dan Simrell,N,Nevada-Las Vegas,PCAA,Harvey Hyde,L,13,30
-1984-09-01,Pitt,Ind,Foge Fazio,H,Brigham Young,WAC,LaVell Edwards,L,14,20
+1984-09-01,Pitt,Ind,Foge Fazio,H,BYU,WAC,LaVell Edwards,L,14,20
 1984-09-15,Pitt,Ind,Foge Fazio,H,Oklahoma,Big 8,Barry Switzer,L,10,42
 1984-09-22,Pitt,Ind,Foge Fazio,A,Temple,Ind,Bruce Arians,L,12,13
 1984-09-29,Pitt,Ind,Foge Fazio,H,West Virginia,Ind,Don Nehlen,L,10,28
@@ -617,24 +617,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-09-22,Wyoming,WAC,Al Kincaid,A,Oregon State,Pac-10,Joe Avezzano,L,14,41
 1984-09-29,Wyoming,WAC,Al Kincaid,H,Utah,WAC,Chuck Stobart,W,21,14
 1984-10-06,Wyoming,WAC,Al Kincaid,H,San Diego State,WAC,Doug Scovil,L,0,21
-1984-10-13,Wyoming,WAC,Al Kincaid,A,Brigham Young,WAC,LaVell Edwards,L,38,41
+1984-10-13,Wyoming,WAC,Al Kincaid,A,BYU,WAC,LaVell Edwards,L,38,41
 1984-10-20,Wyoming,WAC,Al Kincaid,H,New Mexico,WAC,Joe Lee Dunn,W,59,21
 1984-10-27,Wyoming,WAC,Al Kincaid,A,Colorado State,WAC,Leon Fuller,W,43,34
 1984-11-03,Wyoming,WAC,Al Kincaid,A,Hawaii,WAC,Dick Tomey,L,28,31
 1984-11-17,Wyoming,WAC,Al Kincaid,A,UTEP,WAC,Bill Yung,L,22,35
-1984-09-01,Brigham Young,WAC,LaVell Edwards,A,Pitt,Ind,Foge Fazio,W,20,14
-1984-09-08,Brigham Young,WAC,LaVell Edwards,H,Baylor,SWC,Grant Teaff,W,47,13
-1984-09-15,Brigham Young,WAC,LaVell Edwards,H,Tulsa,MVC,John Cooper,W,38,15
-1984-09-22,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,18,13
-1984-10-06,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Leon Fuller,W,52,9
-1984-10-13,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,41,38
-1984-10-20,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,30,25
-1984-10-25,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Lee Dunn,W,48,0
-1984-11-03,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bill Yung,W,42,9
-1984-11-10,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,34,3
-1984-11-17,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Chuck Stobart,W,24,14
-1984-11-24,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Chris Pella,W,38,13
-1984-12-21,Brigham Young,WAC,LaVell Edwards,N,Michigan,Big Ten,Bo Schembechler,W,24,17
+1984-09-01,BYU,WAC,LaVell Edwards,A,Pitt,Ind,Foge Fazio,W,20,14
+1984-09-08,BYU,WAC,LaVell Edwards,H,Baylor,SWC,Grant Teaff,W,47,13
+1984-09-15,BYU,WAC,LaVell Edwards,H,Tulsa,MVC,John Cooper,W,38,15
+1984-09-22,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,18,13
+1984-10-06,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Leon Fuller,W,52,9
+1984-10-13,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,41,38
+1984-10-20,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,30,25
+1984-10-25,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Lee Dunn,W,48,0
+1984-11-03,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Bill Yung,W,42,9
+1984-11-10,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,34,3
+1984-11-17,BYU,WAC,LaVell Edwards,A,Utah,WAC,Chuck Stobart,W,24,14
+1984-11-24,BYU,WAC,LaVell Edwards,H,Utah State,PCAA,Chris Pella,W,38,13
+1984-12-21,BYU,WAC,LaVell Edwards,N,Michigan,Big Ten,Bo Schembechler,W,24,17
 1984-09-15,Georgia Tech,ACC,Bill Curry,H,Alabama,SEC,Ray Perkins,W,16,6
 1984-09-29,Georgia Tech,ACC,Bill Curry,H,Clemson,ACC,Danny Ford,W,28,21
 1984-10-06,Georgia Tech,ACC,Bill Curry,H,North Carolina State,ACC,Tom Reed,L,22,27
@@ -767,7 +767,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-10-06,UTEP,WAC,Bill Yung,A,New Mexico State,PCAA,Fred Zechman,L,16,27
 1984-10-13,UTEP,WAC,Bill Yung,H,Hawaii,WAC,Dick Tomey,L,20,24
 1984-10-27,UTEP,WAC,Bill Yung,A,Utah,WAC,Chuck Stobart,L,15,43
-1984-11-03,UTEP,WAC,Bill Yung,A,Brigham Young,WAC,LaVell Edwards,L,9,42
+1984-11-03,UTEP,WAC,Bill Yung,A,BYU,WAC,LaVell Edwards,L,9,42
 1984-11-10,UTEP,WAC,Bill Yung,A,Colorado State,WAC,Leon Fuller,L,31,59
 1984-11-17,UTEP,WAC,Bill Yung,H,Wyoming,WAC,Al Kincaid,W,35,22
 1984-11-24,UTEP,WAC,Bill Yung,H,Air Force,WAC,Fisher DeBerry,L,12,38
@@ -790,7 +790,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-11-24,LSU,SEC,Bill Arnsparger,H,Tulane,Ind,Wally English,W,33,15
 1985-01-01,LSU,SEC,Bill Arnsparger,N,Nebraska,Big 8,Tom Osborne,L,10,28
 1984-09-01,Tulsa,MVC,John Cooper,H,Southern Illinois,MVC,Ray Door,W,23,10
-1984-09-15,Tulsa,MVC,John Cooper,A,Brigham Young,WAC,LaVell Edwards,L,15,38
+1984-09-15,Tulsa,MVC,John Cooper,A,BYU,WAC,LaVell Edwards,L,15,38
 1984-09-22,Tulsa,MVC,John Cooper,A,Arkansas,SWC,Ken Hatfield,L,9,18
 1984-09-29,Tulsa,MVC,John Cooper,H,Oklahoma State,Big 8,Pat Jones,L,7,31
 1984-10-05,Tulsa,MVC,John Cooper,A,West Texas A&M,MVC,,W,35,7
@@ -842,7 +842,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-09-29,Air Force,WAC,Fisher DeBerry,H,Colorado State,WAC,Leon Fuller,W,52,10
 1984-10-06,Air Force,WAC,Fisher DeBerry,H,Navy,Ind,Gary Tranquill,W,29,22
 1984-10-13,Air Force,WAC,Fisher DeBerry,A,Notre Dame,Ind,Gerry Faust,W,21,7
-1984-10-20,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,25,30
+1984-10-20,Air Force,WAC,Fisher DeBerry,H,BYU,WAC,LaVell Edwards,L,25,30
 1984-11-03,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Jim Young,L,12,24
 1984-11-10,Air Force,WAC,Fisher DeBerry,A,New Mexico,WAC,Joe Lee Dunn,W,23,9
 1984-11-24,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,Bill Yung,W,38,12
@@ -967,7 +967,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1984-09-15,Colorado State,WAC,Leon Fuller,H,Hawaii,WAC,Dick Tomey,W,10,3
 1984-09-22,Colorado State,WAC,Leon Fuller,H,Cal State Fullerton,PCAA,Gene Murphy,L,22,34
 1984-09-29,Colorado State,WAC,Leon Fuller,A,Air Force,WAC,Fisher DeBerry,L,10,52
-1984-10-06,Colorado State,WAC,Leon Fuller,H,Brigham Young,WAC,LaVell Edwards,L,9,52
+1984-10-06,Colorado State,WAC,Leon Fuller,H,BYU,WAC,LaVell Edwards,L,9,52
 1984-10-13,Colorado State,WAC,Leon Fuller,A,New Mexico,WAC,Joe Lee Dunn,W,16,10
 1984-10-20,Colorado State,WAC,Leon Fuller,A,San Diego State,WAC,Doug Scovil,L,24,41
 1984-10-27,Colorado State,WAC,Leon Fuller,H,Wyoming,WAC,Al Kincaid,L,34,43

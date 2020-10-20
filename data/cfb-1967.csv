@@ -68,7 +68,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-10-21,Arizona State,WAC,Frank Kush,A,Washington State,AAWU,Bert Clark,W,31,20
 1967-10-28,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Lloyd Eaton,L,13,15
 1967-11-04,Arizona State,WAC,Frank Kush,A,Utah,WAC,Mike Giddings,W,49,32
-1967-11-18,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,Tommy Hudspeth,W,31,22
+1967-11-18,Arizona State,WAC,Frank Kush,H,BYU,WAC,Tommy Hudspeth,W,31,22
 1967-11-25,Arizona State,WAC,Frank Kush,H,Arizona,WAC,Darrell Mudra,W,47,7
 1967-09-23,Furman,Southern,Robert King,H,Davidson,Southern,Homer Smith,L,22,45
 1967-10-14,Furman,Southern,Robert King,H,Richmond,Southern,Frank Jones,L,14,42
@@ -80,7 +80,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-10-07,Utah,WAC,Mike Giddings,A,New Mexico,WAC,Bill Weeks,W,42,27
 1967-10-14,Utah,WAC,Mike Giddings,H,Wyoming,WAC,Lloyd Eaton,L,0,28
 1967-10-21,Utah,WAC,Mike Giddings,A,Arizona,WAC,Darrell Mudra,W,33,29
-1967-10-28,Utah,WAC,Mike Giddings,A,Brigham Young,WAC,Tommy Hudspeth,L,13,17
+1967-10-28,Utah,WAC,Mike Giddings,A,BYU,WAC,Tommy Hudspeth,L,13,17
 1967-11-04,Utah,WAC,Mike Giddings,H,Arizona State,WAC,Frank Kush,L,32,49
 1967-11-11,Utah,WAC,Mike Giddings,A,Army,Ind,Thomas Cahill,L,0,22
 1967-11-18,Utah,WAC,Mike Giddings,H,Utah State,Ind,Chuck Mills,L,18,19
@@ -118,7 +118,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-10-21,Arizona,WAC,Darrell Mudra,H,Utah,WAC,Mike Giddings,L,29,33
 1967-10-28,Arizona,WAC,Darrell Mudra,H,Indiana,Big Ten,John Pont,L,7,42
 1967-11-04,Arizona,WAC,Darrell Mudra,H,New Mexico,WAC,Bill Weeks,W,48,13
-1967-11-11,Arizona,WAC,Darrell Mudra,A,Brigham Young,WAC,Tommy Hudspeth,L,14,17
+1967-11-11,Arizona,WAC,Darrell Mudra,A,BYU,WAC,Tommy Hudspeth,L,14,17
 1967-11-18,Arizona,WAC,Darrell Mudra,H,Air Force,Ind,Ben Martin,W,14,10
 1967-11-25,Arizona,WAC,Darrell Mudra,A,Arizona State,WAC,Frank Kush,L,7,47
 1967-09-23,Penn State,Ind,Joe Paterno,A,Navy,Ind,William Elias,L,22,23
@@ -362,7 +362,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-10-07,Utah State,Ind,Chuck Mills,H,Memphis,Ind,Billy Murphy,W,28,14
 1967-10-14,Utah State,Ind,Chuck Mills,H,Pacific,Ind,Doug Scovil,W,7,6
 1967-10-21,Utah State,Ind,Chuck Mills,A,Colorado State,Ind,Milo Lude,L,14,17
-1967-11-04,Utah State,Ind,Chuck Mills,H,Brigham Young,WAC,Tommy Hudspeth,W,30,9
+1967-11-04,Utah State,Ind,Chuck Mills,H,BYU,WAC,Tommy Hudspeth,W,30,9
 1967-11-18,Utah State,Ind,Chuck Mills,A,Utah,WAC,Mike Giddings,W,19,18
 1967-09-23,Missouri,Big 8,Dan Devine,H,SMU,SWC,Hayden Fry,W,21,0
 1967-09-30,Missouri,Big 8,Dan Devine,A,Northwestern,Big Ten,Alex Agase,W,13,6
@@ -381,7 +381,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-10-28,San Jose State,Ind,Harry Anderson,H,Pacific,Ind,Doug Scovil,L,14,34
 1967-11-04,San Jose State,Ind,Harry Anderson,H,Wyoming,WAC,Lloyd Eaton,L,7,28
 1967-11-11,San Jose State,Ind,Harry Anderson,A,California,AAWU,Ray Willsey,L,6,30
-1967-11-25,San Jose State,Ind,Harry Anderson,A,Brigham Young,WAC,Tommy Hudspeth,L,8,67
+1967-11-25,San Jose State,Ind,Harry Anderson,A,BYU,WAC,Tommy Hudspeth,L,8,67
 1967-09-30,Bowling Green State,MAC,Bob Gibson,A,Dayton,Ind,John McVay,W,7,0
 1967-10-07,Bowling Green State,MAC,Bob Gibson,H,Western Michigan,MAC,Bill Doolittle,L,6,10
 1967-10-14,Bowling Green State,MAC,Bob Gibson,H,Toledo,MAC,Frank Lauterbur,L,0,33
@@ -436,7 +436,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-11-11,Michigan,Big Ten,Bump Elliott,A,Illinois,Big Ten,James Valek,W,21,14
 1967-11-18,Michigan,Big Ten,Bump Elliott,A,Wisconsin,Big Ten,John Coatta,W,27,14
 1967-11-25,Michigan,Big Ten,Bump Elliott,H,Ohio State,Big Ten,Woody Hayes,L,14,24
-1967-09-23,New Mexico,WAC,Bill Weeks,A,Brigham Young,WAC,Tommy Hudspeth,L,14,44
+1967-09-23,New Mexico,WAC,Bill Weeks,A,BYU,WAC,Tommy Hudspeth,L,14,44
 1967-09-30,New Mexico,WAC,Bill Weeks,A,Iowa State,Big 8,Clay Stapleton,L,12,17
 1967-10-07,New Mexico,WAC,Bill Weeks,H,Utah,WAC,Mike Giddings,L,27,42
 1967-10-14,New Mexico,WAC,Bill Weeks,H,Arizona State,WAC,Frank Kush,L,23,56
@@ -504,7 +504,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-09-16,Wyoming,WAC,Lloyd Eaton,A,Arizona,WAC,Darrell Mudra,W,36,17
 1967-09-23,Wyoming,WAC,Lloyd Eaton,H,Air Force,Ind,Ben Martin,W,37,10
 1967-09-30,Wyoming,WAC,Lloyd Eaton,H,Colorado State,Ind,Milo Lude,W,13,10
-1967-10-07,Wyoming,WAC,Lloyd Eaton,H,Brigham Young,WAC,Tommy Hudspeth,W,26,10
+1967-10-07,Wyoming,WAC,Lloyd Eaton,H,BYU,WAC,Tommy Hudspeth,W,26,10
 1967-10-14,Wyoming,WAC,Lloyd Eaton,A,Utah,WAC,Mike Giddings,W,28,0
 1967-10-21,Wyoming,WAC,Lloyd Eaton,H,Wichita State,MVC,Boyd Converse,W,30,7
 1967-10-28,Wyoming,WAC,Lloyd Eaton,A,Arizona State,WAC,Frank Kush,W,15,13
@@ -512,16 +512,16 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-11-11,Wyoming,WAC,Lloyd Eaton,A,New Mexico,WAC,Bill Weeks,W,42,6
 1967-11-18,Wyoming,WAC,Lloyd Eaton,A,UTEP,Ind,Robert Dobbs,W,21,19
 1968-01-01,Wyoming,WAC,Lloyd Eaton,N,LSU,SEC,Charles McClendon,L,13,20
-1967-09-23,Brigham Young,WAC,Tommy Hudspeth,H,New Mexico,WAC,Bill Weeks,W,44,14
-1967-09-29,Brigham Young,WAC,Tommy Hudspeth,H,Western Michigan,MAC,Bill Doolittle,W,44,19
-1967-10-07,Brigham Young,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,10,26
-1967-10-14,Brigham Young,WAC,Tommy Hudspeth,A,Oregon State,AAWU,Dee Andros,W,31,13
-1967-10-21,Brigham Young,WAC,Tommy Hudspeth,A,UTEP,Ind,Robert Dobbs,L,17,47
-1967-10-28,Brigham Young,WAC,Tommy Hudspeth,H,Utah,WAC,Mike Giddings,W,17,13
-1967-11-04,Brigham Young,WAC,Tommy Hudspeth,A,Utah State,Ind,Chuck Mills,L,9,30
-1967-11-11,Brigham Young,WAC,Tommy Hudspeth,H,Arizona,WAC,Darrell Mudra,W,17,14
-1967-11-18,Brigham Young,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,L,22,31
-1967-11-25,Brigham Young,WAC,Tommy Hudspeth,H,San Jose State,Ind,Harry Anderson,W,67,8
+1967-09-23,BYU,WAC,Tommy Hudspeth,H,New Mexico,WAC,Bill Weeks,W,44,14
+1967-09-29,BYU,WAC,Tommy Hudspeth,H,Western Michigan,MAC,Bill Doolittle,W,44,19
+1967-10-07,BYU,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,10,26
+1967-10-14,BYU,WAC,Tommy Hudspeth,A,Oregon State,AAWU,Dee Andros,W,31,13
+1967-10-21,BYU,WAC,Tommy Hudspeth,A,UTEP,Ind,Robert Dobbs,L,17,47
+1967-10-28,BYU,WAC,Tommy Hudspeth,H,Utah,WAC,Mike Giddings,W,17,13
+1967-11-04,BYU,WAC,Tommy Hudspeth,A,Utah State,Ind,Chuck Mills,L,9,30
+1967-11-11,BYU,WAC,Tommy Hudspeth,H,Arizona,WAC,Darrell Mudra,W,17,14
+1967-11-18,BYU,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,L,22,31
+1967-11-25,BYU,WAC,Tommy Hudspeth,H,San Jose State,Ind,Harry Anderson,W,67,8
 1967-09-30,Yale,Ivy,Carmen Cozza,H,Holy Cross,Ind,Tom Boisture,L,14,26
 1967-10-14,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,Leonard Jardine,W,35,0
 1967-10-21,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Aldo Donelli,W,21,7
@@ -669,7 +669,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-11-18,Kansas,Big 8,Pepper Rodgers,A,Oklahoma,Big 8,Chuck Fairbanks,L,10,14
 1967-11-25,Kansas,Big 8,Pepper Rodgers,H,Missouri,Big 8,Dan Devine,W,17,6
 1967-09-16,Western Michigan,MAC,Bill Doolittle,H,Miami (OH),MAC,Bo Schembechler,W,24,14
-1967-09-29,Western Michigan,MAC,Bill Doolittle,A,Brigham Young,WAC,Tommy Hudspeth,L,19,44
+1967-09-29,Western Michigan,MAC,Bill Doolittle,A,BYU,WAC,Tommy Hudspeth,L,19,44
 1967-10-07,Western Michigan,MAC,Bill Doolittle,A,Bowling Green State,MAC,Bob Gibson,W,10,6
 1967-10-14,Western Michigan,MAC,Bill Doolittle,H,Kent State,MAC,Leo Strang,W,16,7
 1967-10-21,Western Michigan,MAC,Bill Doolittle,A,Toledo,MAC,Frank Lauterbur,L,9,35
@@ -687,7 +687,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-11-19,William & Mary,Southern,Marv Levy,H,Richmond,Southern,Frank Jones,L,7,16
 1967-10-07,UTEP,Ind,Robert Dobbs,A,Arizona State,WAC,Frank Kush,L,32,33
 1967-10-14,UTEP,Ind,Robert Dobbs,A,Arizona,WAC,Darrell Mudra,T,9,9
-1967-10-21,UTEP,Ind,Robert Dobbs,H,Brigham Young,WAC,Tommy Hudspeth,W,47,17
+1967-10-21,UTEP,Ind,Robert Dobbs,H,BYU,WAC,Tommy Hudspeth,W,47,17
 1967-10-27,UTEP,Ind,Robert Dobbs,A,New Mexico,WAC,Bill Weeks,W,75,12
 1967-11-04,UTEP,Ind,Robert Dobbs,H,New Mexico State,Ind,Warren Woodson,W,46,24
 1967-11-11,UTEP,Ind,Robert Dobbs,H,Colorado State,Ind,Milo Lude,W,17,0
@@ -827,7 +827,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1967-09-23,Oregon State,AAWU,Dee Andros,A,Arizona State,WAC,Frank Kush,W,27,21
 1967-09-30,Oregon State,AAWU,Dee Andros,A,Iowa,Big Ten,Ray Nagel,W,38,18
 1967-10-07,Oregon State,AAWU,Dee Andros,A,Washington,AAWU,Jim Owens,L,6,13
-1967-10-14,Oregon State,AAWU,Dee Andros,H,Brigham Young,WAC,Tommy Hudspeth,L,13,31
+1967-10-14,Oregon State,AAWU,Dee Andros,H,BYU,WAC,Tommy Hudspeth,L,13,31
 1967-10-21,Oregon State,AAWU,Dee Andros,A,Purdue,Big Ten,Jack Mollenkopf,W,22,14
 1967-10-28,Oregon State,AAWU,Dee Andros,H,Washington State,AAWU,Bert Clark,W,35,7
 1967-11-04,Oregon State,AAWU,Dee Andros,A,UCLA,AAWU,Tommy Prothro,T,16,16

@@ -38,7 +38,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-10-25,Arizona State,BIAA,Clyde Smith,H,Houston,MVC,Clyde Lee,L,0,6
 1952-11-08,Arizona State,BIAA,Clyde Smith,A,Arizona,BIAA,Warren Woodson,W,20,18
 1952-11-22,Arizona State,BIAA,Clyde Smith,H,UTEP,BIAA,Mike Brumbelow,W,39,0
-1952-11-29,Arizona State,BIAA,Clyde Smith,H,Brigham Young,Skyline,Charles Atkinson,W,47,6
+1952-11-29,Arizona State,BIAA,Clyde Smith,H,BYU,Skyline,Charles Atkinson,W,47,6
 1952-09-27,Furman,Southern,William Young,A,West Virginia,Southern,Art Lewis,W,22,14
 1952-10-04,Furman,Southern,William Young,H,South Carolina,Southern,Rex Enright,L,7,27
 1952-10-17,Furman,Southern,William Young,N,Citadel,Southern,Quinn Decker,T,7,7
@@ -47,7 +47,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-09-20,Utah,Skyline,Jack Curtice,H,Oregon State,PCC,Kip Taylor,L,7,14
 1952-09-27,Utah,Skyline,Jack Curtice,A,Idaho,PCC,Babe Curfman,T,21,21
 1952-10-04,Utah,Skyline,Jack Curtice,H,Arizona,BIAA,Warren Woodson,L,0,27
-1952-10-11,Utah,Skyline,Jack Curtice,H,Brigham Young,Skyline,Charles Atkinson,W,34,6
+1952-10-11,Utah,Skyline,Jack Curtice,H,BYU,Skyline,Charles Atkinson,W,34,6
 1952-10-18,Utah,Skyline,Jack Curtice,A,Denver,Skyline,John Baker,W,35,0
 1952-10-25,Utah,Skyline,Jack Curtice,A,Wyoming,Skyline,Bowden Wyatt,W,27,21
 1952-11-01,Utah,Skyline,Jack Curtice,H,Colorado,Big 7,Dallas Ward,L,14,20
@@ -97,7 +97,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-11-22,Arizona,BIAA,Warren Woodson,H,Texas Tech,BIAA,DeWitt Weaver,L,14,19
 1952-09-20,Montana,Skyline,Eddie Chinske,H,Utah State,Skyline,John Roning,L,0,7
 1952-09-27,Montana,Skyline,Eddie Chinske,A,Wyoming,Skyline,Bowden Wyatt,L,0,14
-1952-10-04,Montana,Skyline,Eddie Chinske,H,Brigham Young,Skyline,Charles Atkinson,L,7,28
+1952-10-04,Montana,Skyline,Eddie Chinske,H,BYU,Skyline,Charles Atkinson,L,7,28
 1952-10-11,Montana,Skyline,Eddie Chinske,H,Denver,Skyline,John Baker,W,17,7
 1952-10-18,Montana,Skyline,Eddie Chinske,A,Colorado State,Skyline,Robert Davis,L,0,41
 1952-10-25,Montana,Skyline,Eddie Chinske,A,Oregon,PCC,Len Casanova,T,14,14
@@ -347,7 +347,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-10-11,Utah State,Skyline,John Roning,H,Idaho,PCC,Babe Curfman,L,3,6
 1952-10-25,Utah State,Skyline,John Roning,H,Colorado State,Skyline,Robert Davis,L,7,21
 1952-11-01,Utah State,Skyline,John Roning,A,Wichita State,MVC,Bob Carlson,T,20,20
-1952-11-15,Utah State,Skyline,John Roning,H,Brigham Young,Skyline,Charles Atkinson,W,27,26
+1952-11-15,Utah State,Skyline,John Roning,H,BYU,Skyline,Charles Atkinson,W,27,26
 1952-11-22,Utah State,Skyline,John Roning,H,Denver,Skyline,John Baker,W,29,13
 1952-11-27,Utah State,Skyline,John Roning,A,Utah,Skyline,Jack Curtice,L,0,20
 1952-12-06,Utah State,Skyline,John Roning,A,New Mexico,Skyline,Dudley DeGroot,L,0,28
@@ -365,7 +365,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-10-04,San Jose State,Ind,Robert Bronzan,A,Arizona State,BIAA,Clyde Smith,W,21,14
 1952-10-18,San Jose State,Ind,Robert Bronzan,A,Pacific,Ind,Ernie Jorge,W,26,21
 1952-11-01,San Jose State,Ind,Robert Bronzan,A,Stanford,PCC,Chuck Taylor,L,13,35
-1952-11-07,San Jose State,Ind,Robert Bronzan,H,Brigham Young,Skyline,Charles Atkinson,W,44,27
+1952-11-07,San Jose State,Ind,Robert Bronzan,H,BYU,Skyline,Charles Atkinson,W,44,27
 1952-11-14,San Jose State,Ind,Robert Bronzan,H,Montana,Skyline,Eddie Chinske,W,39,20
 1952-11-27,San Jose State,Ind,Robert Bronzan,H,Santa Clara,Ind,Richard Gallagher,L,7,15
 1952-09-20,Hardin-Simmons,BIAA,Murray Evans,H,Arizona State,BIAA,Clyde Smith,L,7,26
@@ -378,7 +378,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-10-04,Denver,Skyline,John Baker,H,Colorado State,Skyline,Robert Davis,L,6,28
 1952-10-11,Denver,Skyline,John Baker,A,Montana,Skyline,Eddie Chinske,L,7,17
 1952-10-18,Denver,Skyline,John Baker,H,Utah,Skyline,Jack Curtice,L,0,35
-1952-10-25,Denver,Skyline,John Baker,A,Brigham Young,Skyline,Charles Atkinson,L,13,14
+1952-10-25,Denver,Skyline,John Baker,A,BYU,Skyline,Charles Atkinson,L,13,14
 1952-11-01,Denver,Skyline,John Baker,A,Drake,Ind,Warren Gaer,W,27,19
 1952-11-08,Denver,Skyline,John Baker,H,New Mexico,Skyline,Dudley DeGroot,L,0,15
 1952-11-22,Denver,Skyline,John Baker,A,Utah State,Skyline,John Roning,L,13,29
@@ -445,7 +445,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-11-08,Temple,Ind,Al Kawal,A,Boston University,Ind,Aldo Donelli,T,14,14
 1952-11-15,Temple,Ind,Al Kawal,H,Fordham,Ind,Edward Danowski,L,6,33
 1952-11-22,Temple,Ind,Al Kawal,A,Holy Cross,Ind,Edward Anderson,L,0,28
-1952-09-27,New Mexico,Skyline,Dudley DeGroot,A,Brigham Young,Skyline,Charles Atkinson,L,10,14
+1952-09-27,New Mexico,Skyline,Dudley DeGroot,A,BYU,Skyline,Charles Atkinson,L,10,14
 1952-10-04,New Mexico,Skyline,Dudley DeGroot,H,New Mexico State,BIAA,Joe Coleman,W,23,0
 1952-10-18,New Mexico,Skyline,Dudley DeGroot,A,Wyoming,Skyline,Bowden Wyatt,W,7,0
 1952-10-25,New Mexico,Skyline,Dudley DeGroot,A,UTEP,BIAA,Mike Brumbelow,W,14,13
@@ -498,19 +498,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-10-11,Wyoming,Skyline,Bowden Wyatt,H,Colorado State,Skyline,Robert Davis,L,0,14
 1952-10-18,Wyoming,Skyline,Bowden Wyatt,H,New Mexico,Skyline,Dudley DeGroot,L,0,7
 1952-10-25,Wyoming,Skyline,Bowden Wyatt,H,Utah,Skyline,Jack Curtice,L,21,27
-1952-11-01,Wyoming,Skyline,Bowden Wyatt,A,Brigham Young,Skyline,Charles Atkinson,W,24,13
+1952-11-01,Wyoming,Skyline,Bowden Wyatt,A,BYU,Skyline,Charles Atkinson,W,24,13
 1952-11-08,Wyoming,Skyline,Bowden Wyatt,A,Kansas State,Big 7,Bill Meek,W,20,7
 1952-11-27,Wyoming,Skyline,Bowden Wyatt,A,Denver,Skyline,John Baker,W,21,14
 1952-12-06,Wyoming,Skyline,Bowden Wyatt,A,Houston,MVC,Clyde Lee,L,0,20
-1952-09-27,Brigham Young,Skyline,Charles Atkinson,H,New Mexico,Skyline,Dudley DeGroot,W,14,10
-1952-10-04,Brigham Young,Skyline,Charles Atkinson,A,Montana,Skyline,Eddie Chinske,W,28,7
-1952-10-11,Brigham Young,Skyline,Charles Atkinson,A,Utah,Skyline,Jack Curtice,L,6,34
-1952-10-25,Brigham Young,Skyline,Charles Atkinson,H,Denver,Skyline,John Baker,W,14,13
-1952-11-01,Brigham Young,Skyline,Charles Atkinson,H,Wyoming,Skyline,Bowden Wyatt,L,13,24
-1952-11-07,Brigham Young,Skyline,Charles Atkinson,A,San Jose State,Ind,Robert Bronzan,L,27,44
-1952-11-15,Brigham Young,Skyline,Charles Atkinson,A,Utah State,Skyline,John Roning,L,26,27
-1952-11-22,Brigham Young,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,6,27
-1952-11-29,Brigham Young,Skyline,Charles Atkinson,A,Arizona State,BIAA,Clyde Smith,L,6,47
+1952-09-27,BYU,Skyline,Charles Atkinson,H,New Mexico,Skyline,Dudley DeGroot,W,14,10
+1952-10-04,BYU,Skyline,Charles Atkinson,A,Montana,Skyline,Eddie Chinske,W,28,7
+1952-10-11,BYU,Skyline,Charles Atkinson,A,Utah,Skyline,Jack Curtice,L,6,34
+1952-10-25,BYU,Skyline,Charles Atkinson,H,Denver,Skyline,John Baker,W,14,13
+1952-11-01,BYU,Skyline,Charles Atkinson,H,Wyoming,Skyline,Bowden Wyatt,L,13,24
+1952-11-07,BYU,Skyline,Charles Atkinson,A,San Jose State,Ind,Robert Bronzan,L,27,44
+1952-11-15,BYU,Skyline,Charles Atkinson,A,Utah State,Skyline,John Roning,L,26,27
+1952-11-22,BYU,Skyline,Charles Atkinson,A,Colorado State,Skyline,Robert Davis,L,6,27
+1952-11-29,BYU,Skyline,Charles Atkinson,A,Arizona State,BIAA,Clyde Smith,L,6,47
 1952-09-27,Yale,Ind,Jordan Olivar,A,Navy,Ind,Eddie Erdelatz,L,0,31
 1952-10-04,Yale,Ind,Jordan Olivar,H,Brown,Ind,Alva Kelley,W,28,0
 1952-10-11,Yale,Ind,Jordan Olivar,H,Columbia,Ind,Lou Little,W,35,28
@@ -838,7 +838,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1952-10-25,Colorado State,Skyline,Robert Davis,A,Utah State,Skyline,John Roning,W,21,7
 1952-11-08,Colorado State,Skyline,Robert Davis,H,Utah,Skyline,Jack Curtice,L,6,14
 1952-11-15,Colorado State,Skyline,Robert Davis,A,New Mexico,Skyline,Dudley DeGroot,L,0,3
-1952-11-22,Colorado State,Skyline,Robert Davis,H,Brigham Young,Skyline,Charles Atkinson,W,27,6
+1952-11-22,Colorado State,Skyline,Robert Davis,H,BYU,Skyline,Charles Atkinson,W,27,6
 1952-11-29,Colorado State,Skyline,Robert Davis,A,Colorado,Big 7,Dallas Ward,L,0,61
 1952-09-27,Rice,SWC,Jess Neely,H,Texas Tech,BIAA,DeWitt Weaver,W,34,7
 1952-10-04,Rice,SWC,Jess Neely,H,LSU,SEC,Gaynell Tinsley,L,7,27

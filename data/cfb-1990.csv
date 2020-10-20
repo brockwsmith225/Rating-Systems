@@ -85,7 +85,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-10-27,Utah,WAC,Ron McBride,A,Air Force,WAC,Fisher DeBerry,L,21,52
 1990-11-03,Utah,WAC,Ron McBride,A,San Diego State,WAC,Al Luginbill,L,14,66
 1990-11-10,Utah,WAC,Ron McBride,A,New Mexico,WAC,Mike Sheppard,W,29,27
-1990-11-17,Utah,WAC,Ron McBride,H,Brigham Young,WAC,LaVell Edwards,L,22,45
+1990-11-17,Utah,WAC,Ron McBride,H,BYU,WAC,LaVell Edwards,L,22,45
 1990-09-08,Cal State Fullerton,Big West,Gene Murphy,A,Auburn,SEC,Pat Dye,L,17,38
 1990-09-15,Cal State Fullerton,Big West,Gene Murphy,A,Mississippi State,SEC,Rockey Felker,L,13,27
 1990-09-22,Cal State Fullerton,Big West,Gene Murphy,A,Akron,Ind,Gerry Faust,L,17,48
@@ -191,7 +191,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-11-17,Stanford,Pac-10,Dennis Green,A,California,Pac-10,Bruce Snyder,W,27,25
 1990-09-01,Washington State,Pac-10,Mike Price,A,Texas Christian,SWC,Jim Wacker,W,21,3
 1990-09-08,Washington State,Pac-10,Mike Price,H,Wyoming,WAC,Paul Roach,L,13,34
-1990-09-15,Washington State,Pac-10,Mike Price,A,Brigham Young,WAC,LaVell Edwards,L,36,50
+1990-09-15,Washington State,Pac-10,Mike Price,A,BYU,WAC,LaVell Edwards,L,36,50
 1990-09-22,Washington State,Pac-10,Mike Price,H,California,Pac-10,Bruce Snyder,W,41,31
 1990-09-29,Washington State,Pac-10,Mike Price,H,UCLA,Pac-10,Terry Donahue,L,20,30
 1990-10-06,Washington State,Pac-10,Mike Price,A,USC,Pac-10,Larry Smith,L,17,30
@@ -379,7 +379,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-11-03,Utah State,Big West,Chuck Shelton,H,New Mexico State,Big West,Jim Hess,W,55,10
 1990-11-10,Utah State,Big West,Chuck Shelton,A,Cal State Fullerton,Big West,Gene Murphy,W,45,17
 1990-11-17,Utah State,Big West,Chuck Shelton,H,Pacific,Big West,Walt Harris,W,51,45
-1990-11-24,Utah State,Big West,Chuck Shelton,A,Brigham Young,WAC,LaVell Edwards,L,10,45
+1990-11-24,Utah State,Big West,Chuck Shelton,A,BYU,WAC,LaVell Edwards,L,10,45
 1990-09-08,Missouri,Big 8,Bob Stull,H,Texas Christian,SWC,Jim Wacker,L,19,20
 1990-09-15,Missouri,Big 8,Bob Stull,H,Utah State,Big West,Chuck Shelton,W,45,10
 1990-09-22,Missouri,Big 8,Bob Stull,A,Indiana,Big Ten,Bill Mallory,L,7,58
@@ -449,7 +449,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-12-28,North Carolina State,ACC,Dick Sheridan,N,Southern Mississippi,Ind,Jeff Bower,W,31,27
 1990-09-08,San Diego State,WAC,Al Luginbill,A,Oregon,Pac-10,Rich Brooks,L,21,42
 1990-09-15,San Diego State,WAC,Al Luginbill,H,Long Beach State,Big West,George Allen,W,38,20
-1990-09-22,San Diego State,WAC,Al Luginbill,A,Brigham Young,WAC,LaVell Edwards,L,34,62
+1990-09-22,San Diego State,WAC,Al Luginbill,A,BYU,WAC,LaVell Edwards,L,34,62
 1990-09-29,San Diego State,WAC,Al Luginbill,H,Air Force,WAC,Fisher DeBerry,W,48,18
 1990-10-06,San Diego State,WAC,Al Luginbill,A,Wyoming,WAC,Paul Roach,L,51,52
 1990-10-13,San Diego State,WAC,Al Luginbill,A,UCLA,Pac-10,Terry Donahue,L,31,45
@@ -468,7 +468,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-11-10,Hawaii,WAC,Bob Wagner,A,San Diego State,WAC,Al Luginbill,L,38,44
 1990-11-17,Hawaii,WAC,Bob Wagner,H,Wyoming,WAC,Paul Roach,W,38,17
 1990-11-24,Hawaii,WAC,Bob Wagner,H,Colorado State,WAC,Earle Bruce,L,27,30
-1990-12-01,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,W,59,28
+1990-12-01,Hawaii,WAC,Bob Wagner,H,BYU,WAC,LaVell Edwards,W,59,28
 1990-09-08,Rutgers,Ind,Doug Graber,H,Kentucky,SEC,Bill Curry,W,24,8
 1990-09-22,Rutgers,Ind,Doug Graber,A,Penn State,Ind,Joe Paterno,L,0,28
 1990-09-29,Rutgers,Ind,Doug Graber,H,Michigan State,Big Ten,George Perles,L,10,34
@@ -531,7 +531,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-10-06,New Mexico,WAC,Mike Sheppard,H,UTEP,WAC,David Lee,W,48,28
 1990-10-13,New Mexico,WAC,Mike Sheppard,A,Wyoming,WAC,Paul Roach,L,22,25
 1990-10-20,New Mexico,WAC,Mike Sheppard,A,Colorado State,WAC,Earle Bruce,L,7,47
-1990-10-29,New Mexico,WAC,Mike Sheppard,A,Brigham Young,WAC,LaVell Edwards,L,31,55
+1990-10-29,New Mexico,WAC,Mike Sheppard,A,BYU,WAC,LaVell Edwards,L,31,55
 1990-11-03,New Mexico,WAC,Mike Sheppard,A,Hawaii,WAC,Bob Wagner,L,16,43
 1990-11-10,New Mexico,WAC,Mike Sheppard,H,Utah,WAC,Ron McBride,L,27,29
 1990-11-17,New Mexico,WAC,Mike Sheppard,H,San Diego State,WAC,Al Luginbill,L,34,40
@@ -617,22 +617,22 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-10-13,Wyoming,WAC,Paul Roach,H,New Mexico,WAC,Mike Sheppard,W,25,22
 1990-10-27,Wyoming,WAC,Paul Roach,A,UTEP,WAC,David Lee,W,17,10
 1990-11-03,Wyoming,WAC,Paul Roach,A,Colorado State,WAC,Earle Bruce,L,8,17
-1990-11-10,Wyoming,WAC,Paul Roach,H,Brigham Young,WAC,LaVell Edwards,L,14,45
+1990-11-10,Wyoming,WAC,Paul Roach,H,BYU,WAC,LaVell Edwards,L,14,45
 1990-11-17,Wyoming,WAC,Paul Roach,A,Hawaii,WAC,Bob Wagner,L,17,38
 1990-12-31,Wyoming,WAC,Paul Roach,N,California,Pac-10,Bruce Snyder,L,15,17
-1990-09-01,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,David Lee,W,30,10
-1990-09-08,Brigham Young,WAC,LaVell Edwards,H,Miami (FL),Ind,Dennis Erickson,W,28,21
-1990-09-15,Brigham Young,WAC,LaVell Edwards,H,Washington State,Pac-10,Mike Price,W,50,36
-1990-09-22,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Al Luginbill,W,62,34
-1990-09-29,Brigham Young,WAC,LaVell Edwards,A,Oregon,Pac-10,Rich Brooks,L,16,32
-1990-10-13,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Earle Bruce,W,52,9
-1990-10-29,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Mike Sheppard,W,55,31
-1990-11-03,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,54,7
-1990-11-10,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Paul Roach,W,45,14
-1990-11-17,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,45,22
-1990-11-24,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,45,10
-1990-12-01,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,28,59
-1990-12-29,Brigham Young,WAC,LaVell Edwards,N,Texas A&M,SWC,R.C. Slocum,L,14,65
+1990-09-01,BYU,WAC,LaVell Edwards,A,UTEP,WAC,David Lee,W,30,10
+1990-09-08,BYU,WAC,LaVell Edwards,H,Miami (FL),Ind,Dennis Erickson,W,28,21
+1990-09-15,BYU,WAC,LaVell Edwards,H,Washington State,Pac-10,Mike Price,W,50,36
+1990-09-22,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Al Luginbill,W,62,34
+1990-09-29,BYU,WAC,LaVell Edwards,A,Oregon,Pac-10,Rich Brooks,L,16,32
+1990-10-13,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Earle Bruce,W,52,9
+1990-10-29,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Mike Sheppard,W,55,31
+1990-11-03,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,54,7
+1990-11-10,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Paul Roach,W,45,14
+1990-11-17,BYU,WAC,LaVell Edwards,A,Utah,WAC,Ron McBride,W,45,22
+1990-11-24,BYU,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,45,10
+1990-12-01,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,L,28,59
+1990-12-29,BYU,WAC,LaVell Edwards,N,Texas A&M,SWC,R.C. Slocum,L,14,65
 1990-09-08,Georgia Tech,ACC,Bobby Ross,H,North Carolina State,ACC,Dick Sheridan,W,21,13
 1990-09-29,Georgia Tech,ACC,Bobby Ross,H,South Carolina,Ind,Sparky Woods,W,27,6
 1990-10-06,Georgia Tech,ACC,Bobby Ross,A,Maryland,ACC,Joe Krivak,W,31,3
@@ -765,7 +765,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-11-03,Western Michigan,MAC,Al Molde,H,Toledo,MAC,Nick Saban,L,9,37
 1990-11-10,Western Michigan,MAC,Al Molde,A,Bowling Green State,MAC,Moe Ankney,W,19,13
 1990-11-17,Western Michigan,MAC,Al Molde,H,Miami (OH),MAC,Randy Walker,W,31,17
-1990-09-01,UTEP,WAC,David Lee,H,Brigham Young,WAC,LaVell Edwards,L,10,30
+1990-09-01,UTEP,WAC,David Lee,H,BYU,WAC,LaVell Edwards,L,10,30
 1990-09-08,UTEP,WAC,David Lee,H,New Mexico State,Big West,Jim Hess,W,27,24
 1990-09-15,UTEP,WAC,David Lee,A,Tennessee,SEC,Johnny Majors,L,0,56
 1990-09-22,UTEP,WAC,David Lee,A,Colorado State,WAC,Earle Bruce,L,20,38
@@ -837,11 +837,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-10-06,Air Force,WAC,Fisher DeBerry,H,Navy,Ind,George Chaump,W,24,7
 1990-10-13,Air Force,WAC,Fisher DeBerry,A,Notre Dame,Ind,Lou Holtz,L,27,57
 1990-10-27,Air Force,WAC,Fisher DeBerry,H,Utah,WAC,Ron McBride,W,52,21
-1990-11-03,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,7,54
+1990-11-03,Air Force,WAC,Fisher DeBerry,H,BYU,WAC,LaVell Edwards,L,7,54
 1990-11-10,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Jim Young,W,15,3
 1990-11-17,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,David Lee,W,14,13
 1990-12-27,Air Force,WAC,Fisher DeBerry,N,Ohio State,Big Ten,John Cooper,W,23,11
-1990-09-08,Miami (FL),Ind,Dennis Erickson,A,Brigham Young,WAC,LaVell Edwards,L,21,28
+1990-09-08,Miami (FL),Ind,Dennis Erickson,A,BYU,WAC,LaVell Edwards,L,21,28
 1990-09-15,Miami (FL),Ind,Dennis Erickson,A,California,Pac-10,Bruce Snyder,W,52,24
 1990-09-29,Miami (FL),Ind,Dennis Erickson,H,Iowa,Big Ten,Hayden Fry,W,48,21
 1990-10-06,Miami (FL),Ind,Dennis Erickson,H,Florida State,Ind,Bobby Bowden,W,31,22
@@ -855,7 +855,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-01-01,Miami (FL),Ind,Dennis Erickson,N,Texas,SWC,David McWilliams,W,46,3
 1990-09-08,Oregon,Pac-10,Rich Brooks,H,San Diego State,WAC,Al Luginbill,W,42,21
 1990-09-22,Oregon,Pac-10,Rich Brooks,A,Arizona,Pac-10,Dick Tomey,L,17,22
-1990-09-29,Oregon,Pac-10,Rich Brooks,H,Brigham Young,WAC,LaVell Edwards,W,32,16
+1990-09-29,Oregon,Pac-10,Rich Brooks,H,BYU,WAC,LaVell Edwards,W,32,16
 1990-10-06,Oregon,Pac-10,Rich Brooks,H,Utah State,Big West,Chuck Shelton,W,52,7
 1990-10-13,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,17,38
 1990-10-20,Oregon,Pac-10,Rich Brooks,H,Arizona State,Pac-10,Larry Marmie,W,27,7
@@ -960,7 +960,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-09-22,Colorado State,WAC,Earle Bruce,H,UTEP,WAC,David Lee,W,38,20
 1990-09-29,Colorado State,WAC,Earle Bruce,A,Arkansas,SWC,Jack Crowe,L,20,31
 1990-10-06,Colorado State,WAC,Earle Bruce,H,Utah,WAC,Ron McBride,W,28,13
-1990-10-13,Colorado State,WAC,Earle Bruce,A,Brigham Young,WAC,LaVell Edwards,L,9,52
+1990-10-13,Colorado State,WAC,Earle Bruce,A,BYU,WAC,LaVell Edwards,L,9,52
 1990-10-20,Colorado State,WAC,Earle Bruce,H,New Mexico,WAC,Mike Sheppard,W,47,7
 1990-11-03,Colorado State,WAC,Earle Bruce,H,Wyoming,WAC,Paul Roach,W,17,8
 1990-11-10,Colorado State,WAC,Earle Bruce,H,Tulsa,Ind,David Rader,W,31,13
@@ -989,7 +989,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1990-11-17,Texas A&M,SWC,R.C. Slocum,A,Arkansas,SWC,Jack Crowe,W,20,16
 1990-11-24,Texas A&M,SWC,R.C. Slocum,H,Texas Christian,SWC,Jim Wacker,W,56,10
 1990-12-01,Texas A&M,SWC,R.C. Slocum,A,Texas,SWC,David McWilliams,L,27,28
-1990-12-29,Texas A&M,SWC,R.C. Slocum,N,Brigham Young,WAC,LaVell Edwards,W,65,14
+1990-12-29,Texas A&M,SWC,R.C. Slocum,N,BYU,WAC,LaVell Edwards,W,65,14
 1990-09-15,Michigan State,Big Ten,George Perles,A,Syracuse,Ind,Dick MacPherson,T,23,23
 1990-09-22,Michigan State,Big Ten,George Perles,H,Notre Dame,Ind,Lou Holtz,L,19,20
 1990-09-29,Michigan State,Big Ten,George Perles,A,Rutgers,Ind,Doug Graber,W,34,10

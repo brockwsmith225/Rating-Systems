@@ -47,7 +47,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1939-11-25,Furman,Southern,,H,Clemson,Southern,Jess Neely,L,3,14
 1939-09-30,Utah,MSAC,Ike Armstrong,H,Santa Clara,Ind,Buck Shaw,T,7,7
 1939-10-07,Utah,MSAC,Ike Armstrong,H,Wyoming,MSAC,Joel Hunt,W,60,0
-1939-10-14,Utah,MSAC,Ike Armstrong,A,Brigham Young,MSAC,Edwin Kimball,W,35,13
+1939-10-14,Utah,MSAC,Ike Armstrong,A,BYU,MSAC,Edwin Kimball,W,35,13
 1939-10-21,Utah,MSAC,Ike Armstrong,A,Idaho,PCC,Ted Bank,W,35,0
 1939-10-28,Utah,MSAC,Ike Armstrong,A,Denver,MSAC,Cac Hubbard,T,7,7
 1939-11-04,Utah,MSAC,Ike Armstrong,H,Colorado,MSAC,Bunny Oakes,L,14,21
@@ -239,7 +239,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1939-11-04,Idaho,PCC,Ted Bank,H,Utah State,MSAC,E. Lowell Romney,W,19,7
 1939-11-11,Idaho,PCC,Ted Bank,A,Washington State,PCC,O.E. Hollingbery,L,13,21
 1939-11-18,Idaho,PCC,Ted Bank,A,Denver,MSAC,Cac Hubbard,L,0,23
-1939-09-23,Northern Arizona,BIAA,Garrett Arbelbide,H,Brigham Young,MSAC,Edwin Kimball,L,0,25
+1939-09-23,Northern Arizona,BIAA,Garrett Arbelbide,H,BYU,MSAC,Edwin Kimball,L,0,25
 1939-10-07,Northern Arizona,BIAA,Garrett Arbelbide,H,New Mexico State,BIAA,Gerald Hines,L,13,25
 1939-10-14,Northern Arizona,BIAA,Garrett Arbelbide,A,Texas Tech,BIAA,Pete Cawthon,L,0,54
 1939-10-27,Northern Arizona,BIAA,Garrett Arbelbide,A,New Mexico,BIAA,Ted Shipkey,L,0,33
@@ -331,7 +331,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1939-10-21,Utah State,MSAC,E. Lowell Romney,H,Denver,MSAC,Cac Hubbard,L,0,7
 1939-10-28,Utah State,MSAC,E. Lowell Romney,H,Colorado State,MSAC,Harry Hughes,L,0,9
 1939-11-04,Utah State,MSAC,E. Lowell Romney,A,Idaho,PCC,Ted Bank,L,7,19
-1939-11-11,Utah State,MSAC,E. Lowell Romney,H,Brigham Young,MSAC,Edwin Kimball,T,0,0
+1939-11-11,Utah State,MSAC,E. Lowell Romney,H,BYU,MSAC,Edwin Kimball,T,0,0
 1939-11-18,Utah State,MSAC,E. Lowell Romney,A,Wyoming,MSAC,Joel Hunt,W,20,13
 1939-11-23,Utah State,MSAC,E. Lowell Romney,A,Utah,MSAC,Ike Armstrong,L,0,27
 1939-09-30,Missouri,Big 6,Don Faurot,H,Colorado,MSAC,Bunny Oakes,W,30,0
@@ -355,7 +355,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1939-10-13,Denver,MSAC,Cac Hubbard,H,Wyoming,MSAC,Joel Hunt,W,32,7
 1939-10-21,Denver,MSAC,Cac Hubbard,A,Utah State,MSAC,E. Lowell Romney,W,7,0
 1939-10-28,Denver,MSAC,Cac Hubbard,H,Utah,MSAC,Ike Armstrong,T,7,7
-1939-11-04,Denver,MSAC,Cac Hubbard,H,Brigham Young,MSAC,Edwin Kimball,L,18,21
+1939-11-04,Denver,MSAC,Cac Hubbard,H,BYU,MSAC,Edwin Kimball,L,18,21
 1939-11-11,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Harry Hughes,W,13,6
 1939-11-18,Denver,MSAC,Cac Hubbard,H,Idaho,PCC,Ted Bank,W,23,0
 1939-11-30,Denver,MSAC,Cac Hubbard,A,Colorado,MSAC,Bunny Oakes,L,17,27
@@ -481,14 +481,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1939-11-04,Wyoming,MSAC,Joel Hunt,A,Colorado State,MSAC,Harry Hughes,L,0,22
 1939-11-10,Wyoming,MSAC,Joel Hunt,A,Saint Louis,MVC,,L,6,39
 1939-11-18,Wyoming,MSAC,Joel Hunt,H,Utah State,MSAC,E. Lowell Romney,L,13,20
-1939-11-25,Wyoming,MSAC,Joel Hunt,H,Brigham Young,MSAC,Edwin Kimball,T,7,7
-1939-09-23,Brigham Young,MSAC,Edwin Kimball,A,Northern Arizona,BIAA,Garrett Arbelbide,W,25,0
-1939-10-07,Brigham Young,MSAC,Edwin Kimball,H,Colorado State,MSAC,Harry Hughes,W,13,12
-1939-10-14,Brigham Young,MSAC,Edwin Kimball,H,Utah,MSAC,Ike Armstrong,L,13,35
-1939-11-04,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,W,21,18
-1939-11-11,Brigham Young,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,T,0,0
-1939-11-18,Brigham Young,MSAC,Edwin Kimball,H,Colorado,MSAC,Bunny Oakes,L,6,12
-1939-11-25,Brigham Young,MSAC,Edwin Kimball,A,Wyoming,MSAC,Joel Hunt,T,7,7
+1939-11-25,Wyoming,MSAC,Joel Hunt,H,BYU,MSAC,Edwin Kimball,T,7,7
+1939-09-23,BYU,MSAC,Edwin Kimball,A,Northern Arizona,BIAA,Garrett Arbelbide,W,25,0
+1939-10-07,BYU,MSAC,Edwin Kimball,H,Colorado State,MSAC,Harry Hughes,W,13,12
+1939-10-14,BYU,MSAC,Edwin Kimball,H,Utah,MSAC,Ike Armstrong,L,13,35
+1939-11-04,BYU,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,W,21,18
+1939-11-11,BYU,MSAC,Edwin Kimball,A,Utah State,MSAC,E. Lowell Romney,T,0,0
+1939-11-18,BYU,MSAC,Edwin Kimball,H,Colorado,MSAC,Bunny Oakes,L,6,12
+1939-11-25,BYU,MSAC,Edwin Kimball,A,Wyoming,MSAC,Joel Hunt,T,7,7
 1939-10-14,Duquesne,Ind,Aldo Donelli,A,Manhattan,Ind,Herb Kopf,W,7,0
 1939-10-21,Duquesne,Ind,Aldo Donelli,A,Pitt,Ind,Charles Bowser,W,21,13
 1939-10-27,Duquesne,Ind,Aldo Donelli,H,Texas Tech,BIAA,Pete Cawthon,W,13,0
@@ -782,9 +782,9 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1939-10-21,Colorado,MSAC,Bunny Oakes,H,Colorado State,MSAC,Harry Hughes,W,13,0
 1939-10-28,Colorado,MSAC,Bunny Oakes,A,Wyoming,MSAC,Joel Hunt,W,27,7
 1939-11-04,Colorado,MSAC,Bunny Oakes,A,Utah,MSAC,Ike Armstrong,W,21,14
-1939-11-18,Colorado,MSAC,Bunny Oakes,A,Brigham Young,MSAC,Edwin Kimball,W,12,6
+1939-11-18,Colorado,MSAC,Bunny Oakes,A,BYU,MSAC,Edwin Kimball,W,12,6
 1939-11-30,Colorado,MSAC,Bunny Oakes,H,Denver,MSAC,Cac Hubbard,W,27,17
-1939-10-07,Colorado State,MSAC,Harry Hughes,A,Brigham Young,MSAC,Edwin Kimball,L,12,13
+1939-10-07,Colorado State,MSAC,Harry Hughes,A,BYU,MSAC,Edwin Kimball,L,12,13
 1939-10-14,Colorado State,MSAC,Harry Hughes,H,Kansas,Big 6,Gwinn Henry,L,0,7
 1939-10-21,Colorado State,MSAC,Harry Hughes,A,Colorado,MSAC,Bunny Oakes,L,0,13
 1939-10-28,Colorado State,MSAC,Harry Hughes,A,Utah State,MSAC,E. Lowell Romney,W,9,0

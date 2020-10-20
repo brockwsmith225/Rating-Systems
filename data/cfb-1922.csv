@@ -31,7 +31,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1922-11-18,Furman,Ind,,A,Wofford,Ind,Rip Major,W,41,0
 1922-11-25,Furman,Ind,,H,Clemson,Southern,Edward Stewart,W,20,6
 1922-11-30,Furman,Ind,,H,Davidson,Ind,Wooly Grey,W,13,0
-1922-10-14,Utah,RMC,Thomas Fitzpatrick,H,Brigham Young,RMC,Alvin Twitchell,W,49,0
+1922-10-14,Utah,RMC,Thomas Fitzpatrick,H,BYU,RMC,Alvin Twitchell,W,49,0
 1922-10-21,Utah,RMC,Thomas Fitzpatrick,A,Colorado,RMC,Myron Witham,W,3,0
 1922-10-25,Utah,RMC,Thomas Fitzpatrick,A,Wyoming,RMC,John Corbett,W,27,0
 1922-11-04,Utah,RMC,Thomas Fitzpatrick,H,Colorado College,RMC,Tefler Meade,W,20,7
@@ -211,7 +211,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1922-11-11,Washington,PCC,Enoch Bagshaw,H,California,PCC,Andy Smith,L,7,45
 1922-11-18,Washington,PCC,Enoch Bagshaw,A,Stanford,PCC,Andrew Kerr,W,12,8
 1922-11-30,Washington,PCC,Enoch Bagshaw,H,Oregon,PCC,Shy Huntington,T,3,3
-1922-10-07,Utah State,RMC,,A,Brigham Young,RMC,Alvin Twitchell,W,42,3
+1922-10-07,Utah State,RMC,,A,BYU,RMC,Alvin Twitchell,W,42,3
 1922-10-21,Utah State,RMC,,H,Colorado Mines,RMC,Tim Callahan,L,0,19
 1922-10-28,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,6,34
 1922-11-11,Utah State,RMC,,H,Wyoming,RMC,John Corbett,W,26,0
@@ -257,7 +257,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1923-01-01,USC,PCC,Gus Henderson,H,Penn State,Ind,Hugo Bezdek,W,14,3
 1922-10-07,Colorado Mines,RMC,Tim Callahan,H,Wyoming,RMC,John Corbett,W,32,0
 1922-10-21,Colorado Mines,RMC,Tim Callahan,A,Utah State,RMC,,W,19,0
-1922-10-24,Colorado Mines,RMC,Tim Callahan,A,Brigham Young,RMC,Alvin Twitchell,W,47,0
+1922-10-24,Colorado Mines,RMC,Tim Callahan,A,BYU,RMC,Alvin Twitchell,W,47,0
 1922-11-11,Colorado Mines,RMC,Tim Callahan,A,Denver,RMC,Fred Murphy,T,7,7
 1922-11-18,Colorado Mines,RMC,Tim Callahan,A,Colorado State,RMC,Harry Hughes,L,0,19
 1922-11-23,Colorado Mines,RMC,Tim Callahan,H,Colorado,RMC,Myron Witham,L,0,16
@@ -315,15 +315,15 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1922-10-25,Wyoming,RMC,John Corbett,H,Utah,RMC,Thomas Fitzpatrick,L,0,27
 1922-11-04,Wyoming,RMC,John Corbett,A,Denver,RMC,Fred Murphy,L,0,7
 1922-11-11,Wyoming,RMC,John Corbett,A,Utah State,RMC,,L,0,26
-1922-11-14,Wyoming,RMC,John Corbett,A,Brigham Young,RMC,Alvin Twitchell,L,0,7
+1922-11-14,Wyoming,RMC,John Corbett,A,BYU,RMC,Alvin Twitchell,L,0,7
 1922-11-21,Wyoming,RMC,John Corbett,A,Gonzaga,Ind,Gus Dorais,L,0,77
-1922-11-30,Wyoming,RMC,John Corbett,H,Brigham Young,RMC,Alvin Twitchell,W,13,0
-1922-10-07,Brigham Young,RMC,Alvin Twitchell,H,Utah State,RMC,,L,3,42
-1922-10-14,Brigham Young,RMC,Alvin Twitchell,A,Utah,RMC,Thomas Fitzpatrick,L,0,49
-1922-10-24,Brigham Young,RMC,Alvin Twitchell,H,Colorado Mines,RMC,Tim Callahan,L,0,47
-1922-11-14,Brigham Young,RMC,Alvin Twitchell,H,Wyoming,RMC,John Corbett,W,7,0
-1922-11-25,Brigham Young,RMC,Alvin Twitchell,A,Colorado State,RMC,Harry Hughes,L,0,33
-1922-11-30,Brigham Young,RMC,Alvin Twitchell,A,Wyoming,RMC,John Corbett,L,0,13
+1922-11-30,Wyoming,RMC,John Corbett,H,BYU,RMC,Alvin Twitchell,W,13,0
+1922-10-07,BYU,RMC,Alvin Twitchell,H,Utah State,RMC,,L,3,42
+1922-10-14,BYU,RMC,Alvin Twitchell,A,Utah,RMC,Thomas Fitzpatrick,L,0,49
+1922-10-24,BYU,RMC,Alvin Twitchell,H,Colorado Mines,RMC,Tim Callahan,L,0,47
+1922-11-14,BYU,RMC,Alvin Twitchell,H,Wyoming,RMC,John Corbett,W,7,0
+1922-11-25,BYU,RMC,Alvin Twitchell,A,Colorado State,RMC,Harry Hughes,L,0,33
+1922-11-30,BYU,RMC,Alvin Twitchell,A,Wyoming,RMC,John Corbett,L,0,13
 1922-09-30,Yale,Ind,Tad Jones,H,Carnegie Mellon,Ind,Walter Steffen,W,13,0
 1922-10-07,Yale,Ind,Tad Jones,H,North Carolina,Southern,William Fetzer,W,18,0
 1922-10-14,Yale,Ind,Tad Jones,H,Iowa,Western,Howard Jones,L,0,6
@@ -564,7 +564,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1922-11-04,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,L,0,7
 1922-11-11,Colorado State,RMC,Harry Hughes,A,Drake,MVIAA,Ossie Solem,L,6,19
 1922-11-18,Colorado State,RMC,Harry Hughes,H,Colorado Mines,RMC,Tim Callahan,W,19,0
-1922-11-25,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,Alvin Twitchell,W,33,0
+1922-11-25,Colorado State,RMC,Harry Hughes,H,BYU,RMC,Alvin Twitchell,W,33,0
 1922-12-02,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Fred Murphy,W,27,6
 1922-10-14,Rice,SWC,Phillip Arbuckle,H,Baylor,SWC,Frank Bridges,L,0,31
 1922-10-21,Rice,SWC,Phillip Arbuckle,A,Oklahoma State,SWC,John Maulbetsch,L,0,21

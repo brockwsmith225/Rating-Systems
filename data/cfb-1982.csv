@@ -86,7 +86,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-10-30,Utah,WAC,Chuck Stobart,A,San Diego State,WAC,Doug Scovil,L,17,21
 1982-11-06,Utah,WAC,Chuck Stobart,H,Utah State,PCAA,Bruce Snyder,W,42,10
 1982-11-13,Utah,WAC,Chuck Stobart,A,UTEP,WAC,Bill Yung,W,45,30
-1982-11-20,Utah,WAC,Chuck Stobart,H,Brigham Young,WAC,LaVell Edwards,L,12,17
+1982-11-20,Utah,WAC,Chuck Stobart,H,BYU,WAC,LaVell Edwards,L,12,17
 1982-09-25,Cal State Fullerton,PCAA,Gene Murphy,H,Utah State,PCAA,Bruce Snyder,L,0,19
 1982-10-01,Cal State Fullerton,PCAA,Gene Murphy,N,Long Beach State,PCAA,Dave Currey,L,3,7
 1982-10-09,Cal State Fullerton,PCAA,Gene Murphy,H,San Jose State,PCAA,Jack Elway,L,15,38
@@ -246,7 +246,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-11-20,SMU,SWC,Bobby Collins,H,Arkansas,SWC,Lou Holtz,T,17,17
 1983-01-01,SMU,SWC,Bobby Collins,H,Pitt,Ind,Foge Fazio,W,7,3
 1982-09-06,Georgia,SEC,Vince Dooley,H,Clemson,ACC,Danny Ford,W,13,7
-1982-09-11,Georgia,SEC,Vince Dooley,H,Brigham Young,WAC,LaVell Edwards,W,17,14
+1982-09-11,Georgia,SEC,Vince Dooley,H,BYU,WAC,LaVell Edwards,W,17,14
 1982-09-25,Georgia,SEC,Vince Dooley,A,South Carolina,Ind,Richard Bell,W,34,18
 1982-10-02,Georgia,SEC,Vince Dooley,A,Mississippi State,SEC,Emory Bellard,W,29,22
 1982-10-09,Georgia,SEC,Vince Dooley,H,Ole Miss,SEC,Steve Sloan,W,33,10
@@ -395,7 +395,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-09-25,Utah State,PCAA,Bruce Snyder,A,Cal State Fullerton,PCAA,Gene Murphy,W,19,0
 1982-10-02,Utah State,PCAA,Bruce Snyder,A,Fresno State,PCAA,Jim Sweeney,L,6,31
 1982-10-16,Utah State,PCAA,Bruce Snyder,H,Pacific,PCAA,Bob Toledo,W,14,12
-1982-10-30,Utah State,PCAA,Bruce Snyder,H,Brigham Young,WAC,LaVell Edwards,W,20,17
+1982-10-30,Utah State,PCAA,Bruce Snyder,H,BYU,WAC,LaVell Edwards,W,20,17
 1982-11-06,Utah State,PCAA,Bruce Snyder,A,Utah,WAC,Chuck Stobart,L,10,42
 1982-11-20,Utah State,PCAA,Bruce Snyder,A,San Jose State,PCAA,Jack Elway,L,26,49
 1982-11-27,Utah State,PCAA,Bruce Snyder,A,Long Beach State,PCAA,Dave Currey,L,17,44
@@ -474,14 +474,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-10-23,San Diego State,WAC,Doug Scovil,H,Long Beach State,PCAA,Dave Currey,W,51,17
 1982-10-30,San Diego State,WAC,Doug Scovil,H,Utah,WAC,Chuck Stobart,W,21,17
 1982-11-06,San Diego State,WAC,Doug Scovil,A,Hawaii,WAC,Dick Tomey,W,31,28
-1982-11-13,San Diego State,WAC,Doug Scovil,A,Brigham Young,WAC,LaVell Edwards,L,8,58
+1982-11-13,San Diego State,WAC,Doug Scovil,A,BYU,WAC,LaVell Edwards,L,8,58
 1982-11-20,San Diego State,WAC,Doug Scovil,H,Colorado State,WAC,Leon Fuller,W,38,10
 1982-11-27,San Diego State,WAC,Doug Scovil,H,Oklahoma State,Big 8,Jimmy Johnson,W,35,6
 1982-09-18,Hawaii,WAC,Dick Tomey,A,Colorado State,WAC,Leon Fuller,W,23,13
 1982-09-25,Hawaii,WAC,Dick Tomey,H,UTEP,WAC,Bill Yung,W,17,10
 1982-10-02,Hawaii,WAC,Dick Tomey,H,Wyoming,WAC,Al Kincaid,L,10,28
 1982-10-09,Hawaii,WAC,Dick Tomey,H,Utah,WAC,Chuck Stobart,W,10,7
-1982-10-16,Hawaii,WAC,Dick Tomey,A,Brigham Young,WAC,LaVell Edwards,L,25,39
+1982-10-16,Hawaii,WAC,Dick Tomey,A,BYU,WAC,LaVell Edwards,L,25,39
 1982-10-30,Hawaii,WAC,Dick Tomey,H,Cal State Fullerton,PCAA,Gene Murphy,W,9,3
 1982-11-06,Hawaii,WAC,Dick Tomey,H,San Diego State,WAC,Doug Scovil,L,28,31
 1982-11-20,Hawaii,WAC,Dick Tomey,A,New Mexico,WAC,Joe Morrison,L,17,41
@@ -542,7 +542,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-09-11,New Mexico,WAC,Joe Morrison,H,Texas Tech,SWC,Jerry Moore,W,14,0
 1982-09-18,New Mexico,WAC,Joe Morrison,H,Nevada-Las Vegas,PCAA,Harvey Hyde,W,49,21
 1982-10-02,New Mexico,WAC,Joe Morrison,A,Air Force,WAC,Ken Hatfield,W,49,37
-1982-10-09,New Mexico,WAC,Joe Morrison,H,Brigham Young,WAC,LaVell Edwards,L,12,40
+1982-10-09,New Mexico,WAC,Joe Morrison,H,BYU,WAC,LaVell Edwards,L,12,40
 1982-10-16,New Mexico,WAC,Joe Morrison,A,San Diego State,WAC,Doug Scovil,W,22,17
 1982-10-23,New Mexico,WAC,Joe Morrison,H,New Mexico State,MVC,Gil Krueger,W,66,14
 1982-10-30,New Mexico,WAC,Joe Morrison,A,North Texas,Ind,Corky Nelson,W,20,17
@@ -630,21 +630,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-10-16,Wyoming,WAC,Al Kincaid,H,Cal State Fullerton,PCAA,Gene Murphy,L,16,20
 1982-10-23,Wyoming,WAC,Al Kincaid,H,Utah,WAC,Chuck Stobart,W,16,13
 1982-10-30,Wyoming,WAC,Al Kincaid,A,Air Force,WAC,Ken Hatfield,L,34,44
-1982-11-06,Wyoming,WAC,Al Kincaid,A,Brigham Young,WAC,LaVell Edwards,L,13,23
+1982-11-06,Wyoming,WAC,Al Kincaid,A,BYU,WAC,LaVell Edwards,L,13,23
 1982-11-13,Wyoming,WAC,Al Kincaid,H,Wichita State,MVC,Willie Jeffries,W,24,20
 1982-11-20,Wyoming,WAC,Al Kincaid,A,UTEP,WAC,Bill Yung,L,32,39
-1982-09-02,Brigham Young,WAC,LaVell Edwards,A,Nevada-Las Vegas,PCAA,Harvey Hyde,W,27,0
-1982-09-11,Brigham Young,WAC,LaVell Edwards,A,Georgia,SEC,Vince Dooley,L,14,17
-1982-09-25,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Ken Hatfield,L,38,39
-1982-10-02,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,W,51,3
-1982-10-09,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Morrison,W,40,12
-1982-10-16,Brigham Young,WAC,LaVell Edwards,H,Hawaii,WAC,Dick Tomey,W,39,25
-1982-10-23,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,34,18
-1982-10-30,Brigham Young,WAC,LaVell Edwards,A,Utah State,PCAA,Bruce Snyder,L,17,20
-1982-11-06,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,23,13
-1982-11-13,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,58,8
-1982-11-20,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Chuck Stobart,W,17,12
-1982-12-17,Brigham Young,WAC,LaVell Edwards,N,Ohio State,Big Ten,Earle Bruce,L,17,47
+1982-09-02,BYU,WAC,LaVell Edwards,A,Nevada-Las Vegas,PCAA,Harvey Hyde,W,27,0
+1982-09-11,BYU,WAC,LaVell Edwards,A,Georgia,SEC,Vince Dooley,L,14,17
+1982-09-25,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Ken Hatfield,L,38,39
+1982-10-02,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,W,51,3
+1982-10-09,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Morrison,W,40,12
+1982-10-16,BYU,WAC,LaVell Edwards,H,Hawaii,WAC,Dick Tomey,W,39,25
+1982-10-23,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,34,18
+1982-10-30,BYU,WAC,LaVell Edwards,A,Utah State,PCAA,Bruce Snyder,L,17,20
+1982-11-06,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,23,13
+1982-11-13,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,58,8
+1982-11-20,BYU,WAC,LaVell Edwards,A,Utah,WAC,Chuck Stobart,W,17,12
+1982-12-17,BYU,WAC,LaVell Edwards,N,Ohio State,Big Ten,Earle Bruce,L,17,47
 1982-09-11,Georgia Tech,Ind,Bill Curry,H,Alabama,SEC,Bear Bryant,L,7,45
 1982-09-25,Georgia Tech,Ind,Bill Curry,A,Memphis,Ind,Rex Dockery,W,24,20
 1982-10-02,Georgia Tech,Ind,Bill Curry,A,North Carolina,ACC,Dick Crum,L,0,41
@@ -674,7 +674,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-10-30,Mississippi State,SEC,Emory Bellard,H,Alabama,SEC,Bear Bryant,L,12,20
 1982-11-13,Mississippi State,SEC,Emory Bellard,H,LSU,SEC,Jerry Stovall,W,27,24
 1982-11-20,Mississippi State,SEC,Emory Bellard,N,Ole Miss,SEC,Steve Sloan,W,27,10
-1982-09-02,Nevada-Las Vegas,PCAA,Harvey Hyde,H,Brigham Young,WAC,LaVell Edwards,L,0,27
+1982-09-02,Nevada-Las Vegas,PCAA,Harvey Hyde,H,BYU,WAC,LaVell Edwards,L,0,27
 1982-09-18,Nevada-Las Vegas,PCAA,Harvey Hyde,A,New Mexico,WAC,Joe Morrison,L,21,49
 1982-09-25,Nevada-Las Vegas,PCAA,Harvey Hyde,A,San Diego State,WAC,Doug Scovil,L,23,26
 1982-10-02,Nevada-Las Vegas,PCAA,Harvey Hyde,A,Pacific,PCAA,Bob Toledo,L,27,29
@@ -778,7 +778,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-09-11,UTEP,WAC,Bill Yung,A,Washington,Pac-10,Don James,L,0,55
 1982-09-18,UTEP,WAC,Bill Yung,H,SMU,SWC,Bobby Collins,L,10,31
 1982-09-25,UTEP,WAC,Bill Yung,A,Hawaii,WAC,Dick Tomey,L,10,17
-1982-10-02,UTEP,WAC,Bill Yung,H,Brigham Young,WAC,LaVell Edwards,L,3,51
+1982-10-02,UTEP,WAC,Bill Yung,H,BYU,WAC,LaVell Edwards,L,3,51
 1982-10-09,UTEP,WAC,Bill Yung,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,21,28
 1982-10-16,UTEP,WAC,Bill Yung,A,Arizona State,Pac-10,Darryl Rogers,L,6,37
 1982-10-23,UTEP,WAC,Bill Yung,H,Air Force,WAC,Ken Hatfield,L,7,35
@@ -856,7 +856,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-09-04,Air Force,WAC,Ken Hatfield,A,Tulsa,MVC,John Cooper,L,17,35
 1982-09-11,Air Force,WAC,Ken Hatfield,H,San Diego State,WAC,Doug Scovil,W,44,32
 1982-09-18,Air Force,WAC,Ken Hatfield,A,Texas Tech,SWC,Jerry Moore,L,30,31
-1982-09-25,Air Force,WAC,Ken Hatfield,A,Brigham Young,WAC,LaVell Edwards,W,39,38
+1982-09-25,Air Force,WAC,Ken Hatfield,A,BYU,WAC,LaVell Edwards,W,39,38
 1982-10-02,Air Force,WAC,Ken Hatfield,H,New Mexico,WAC,Joe Morrison,L,37,49
 1982-10-09,Air Force,WAC,Ken Hatfield,H,Navy,Ind,Gary Tranquill,W,24,21
 1982-10-16,Air Force,WAC,Ken Hatfield,H,Colorado State,WAC,Leon Fuller,L,11,21
@@ -994,7 +994,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-09-25,Colorado State,WAC,Leon Fuller,H,New Mexico State,MVC,Gil Krueger,W,28,17
 1982-10-01,Colorado State,WAC,Leon Fuller,A,Utah,WAC,Chuck Stobart,L,14,35
 1982-10-16,Colorado State,WAC,Leon Fuller,A,Air Force,WAC,Ken Hatfield,W,21,11
-1982-10-23,Colorado State,WAC,Leon Fuller,A,Brigham Young,WAC,LaVell Edwards,L,18,34
+1982-10-23,Colorado State,WAC,Leon Fuller,A,BYU,WAC,LaVell Edwards,L,18,34
 1982-10-30,Colorado State,WAC,Leon Fuller,H,UTEP,WAC,Bill Yung,W,38,13
 1982-11-06,Colorado State,WAC,Leon Fuller,H,Nevada-Las Vegas,PCAA,Harvey Hyde,L,31,36
 1982-11-13,Colorado State,WAC,Leon Fuller,A,New Mexico,WAC,Joe Morrison,L,24,29
@@ -1154,7 +1154,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1982-11-06,Ohio State,Big Ten,Earle Bruce,H,Minnesota,Big Ten,Joe Salem,W,35,10
 1982-11-13,Ohio State,Big Ten,Earle Bruce,A,Northwestern,Big Ten,Dennis Green,W,40,28
 1982-11-20,Ohio State,Big Ten,Earle Bruce,H,Michigan,Big Ten,Bo Schembechler,W,24,14
-1982-12-17,Ohio State,Big Ten,Earle Bruce,N,Brigham Young,WAC,LaVell Edwards,W,47,17
+1982-12-17,Ohio State,Big Ten,Earle Bruce,N,BYU,WAC,LaVell Edwards,W,47,17
 1982-09-04,Ohio,MAC,Brian Burke,A,Bowling Green State,MAC,Dennis Stolz,L,0,40
 1982-09-11,Ohio,MAC,Brian Burke,A,Minnesota,Big Ten,Joe Salem,L,7,57
 1982-09-18,Ohio,MAC,Brian Burke,H,Richmond,Ind,,W,23,14

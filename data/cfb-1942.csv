@@ -53,7 +53,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1942-11-21,Furman,Southern,,A,Clemson,Southern,Frank Howard,L,7,12
 1942-09-26,Utah,MSAC,Ike Armstrong,H,Santa Clara,Ind,Buck Shaw,L,0,12
 1942-10-03,Utah,MSAC,Ike Armstrong,A,Arizona,BIAA,Miles Casteel,L,0,14
-1942-10-10,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Floyd Millet,L,7,12
+1942-10-10,Utah,MSAC,Ike Armstrong,H,BYU,MSAC,Floyd Millet,L,7,12
 1942-10-17,Utah,MSAC,Ike Armstrong,A,Utah State,MSAC,E. Lowell Romney,W,34,6
 1942-10-24,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Ellison Ketchum,W,21,12
 1942-10-31,Utah,MSAC,Ike Armstrong,H,Colorado State,MSAC,Julius Wagner,W,33,14
@@ -105,7 +105,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1942-11-07,Georgetown,Ind,Jack Hagerty,H,North Carolina Pre-Flight,Ind,Jimmy Crowley,L,7,23
 1942-11-14,Georgetown,Ind,Jack Hagerty,A,North Carolina State,Southern,,W,28,20
 1942-11-21,Georgetown,Ind,Jack Hagerty,H,George Washington,Southern,John Baker,W,21,0
-1942-09-26,Montana,PCC,Clyde Carpenter,H,Brigham Young,MSAC,Floyd Millet,L,6,12
+1942-09-26,Montana,PCC,Clyde Carpenter,H,BYU,MSAC,Floyd Millet,L,6,12
 1942-10-10,Montana,PCC,Clyde Carpenter,A,Washington State,PCC,O.E. Hollingbery,L,16,68
 1942-10-17,Montana,PCC,Clyde Carpenter,A,Washington,PCC,Ralph Welch,L,0,35
 1942-10-31,Montana,PCC,Clyde Carpenter,H,Idaho,PCC,Francis Schmidt,L,0,21
@@ -336,7 +336,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1942-11-28,Holy Cross,Ind,,N,Boston College,Ind,Denny Myers,W,55,12
 1942-10-09,Utah State,MSAC,E. Lowell Romney,A,Colorado,MSAC,Jim Yeager,L,14,31
 1942-10-17,Utah State,MSAC,E. Lowell Romney,H,Utah,MSAC,Ike Armstrong,L,6,34
-1942-10-31,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Floyd Millet,W,9,6
+1942-10-31,Utah State,MSAC,E. Lowell Romney,A,BYU,MSAC,Floyd Millet,W,9,6
 1942-11-07,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Julius Wagner,L,0,25
 1942-11-14,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Ellison Ketchum,T,13,13
 1942-11-21,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Bunny Oakes,W,14,6
@@ -363,7 +363,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1942-10-10,Denver,MSAC,Ellison Ketchum,H,Colorado State,MSAC,Julius Wagner,W,26,0
 1942-10-17,Denver,MSAC,Ellison Ketchum,H,Wyoming,MSAC,Bunny Oakes,W,17,14
 1942-10-24,Denver,MSAC,Ellison Ketchum,A,Utah,MSAC,Ike Armstrong,L,12,21
-1942-11-07,Denver,MSAC,Ellison Ketchum,A,Brigham Young,MSAC,Floyd Millet,W,26,6
+1942-11-07,Denver,MSAC,Ellison Ketchum,A,BYU,MSAC,Floyd Millet,W,26,6
 1942-11-14,Denver,MSAC,Ellison Ketchum,H,Utah State,MSAC,E. Lowell Romney,T,13,13
 1942-11-26,Denver,MSAC,Ellison Ketchum,H,Colorado,MSAC,Jim Yeager,L,6,31
 1942-09-26,Great Lakes Navy,Ind,,A,Michigan,Western,Fritz Crisler,L,0,9
@@ -498,17 +498,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1942-11-13,George Washington,Southern,John Baker,H,Wake Forest,Southern,D.C. Walker,L,0,20
 1942-11-21,George Washington,Southern,John Baker,A,Georgetown,Ind,Jack Hagerty,L,0,21
 1942-09-26,Wyoming,MSAC,Bunny Oakes,H,Colorado State,MSAC,Julius Wagner,L,0,10
-1942-10-02,Wyoming,MSAC,Bunny Oakes,A,Brigham Young,MSAC,Floyd Millet,W,13,6
+1942-10-02,Wyoming,MSAC,Bunny Oakes,A,BYU,MSAC,Floyd Millet,W,13,6
 1942-10-17,Wyoming,MSAC,Bunny Oakes,A,Denver,MSAC,Ellison Ketchum,L,14,17
 1942-10-31,Wyoming,MSAC,Bunny Oakes,A,Colorado,MSAC,Jim Yeager,L,7,28
 1942-11-14,Wyoming,MSAC,Bunny Oakes,H,Utah,MSAC,Ike Armstrong,L,7,34
 1942-11-21,Wyoming,MSAC,Bunny Oakes,A,Utah State,MSAC,E. Lowell Romney,L,6,14
-1942-09-26,Brigham Young,MSAC,Floyd Millet,A,Montana,PCC,Clyde Carpenter,W,12,6
-1942-10-02,Brigham Young,MSAC,Floyd Millet,H,Wyoming,MSAC,Bunny Oakes,L,6,13
-1942-10-10,Brigham Young,MSAC,Floyd Millet,A,Utah,MSAC,Ike Armstrong,W,12,7
-1942-10-31,Brigham Young,MSAC,Floyd Millet,H,Utah State,MSAC,E. Lowell Romney,L,6,9
-1942-11-07,Brigham Young,MSAC,Floyd Millet,H,Denver,MSAC,Ellison Ketchum,L,6,26
-1942-11-14,Brigham Young,MSAC,Floyd Millet,A,Colorado,MSAC,Jim Yeager,L,0,48
+1942-09-26,BYU,MSAC,Floyd Millet,A,Montana,PCC,Clyde Carpenter,W,12,6
+1942-10-02,BYU,MSAC,Floyd Millet,H,Wyoming,MSAC,Bunny Oakes,L,6,13
+1942-10-10,BYU,MSAC,Floyd Millet,A,Utah,MSAC,Ike Armstrong,W,12,7
+1942-10-31,BYU,MSAC,Floyd Millet,H,Utah State,MSAC,E. Lowell Romney,L,6,9
+1942-11-07,BYU,MSAC,Floyd Millet,H,Denver,MSAC,Ellison Ketchum,L,6,26
+1942-11-14,BYU,MSAC,Floyd Millet,A,Colorado,MSAC,Jim Yeager,L,0,48
 1942-10-03,Duquesne,Ind,,A,Holy Cross,Ind,,W,25,0
 1942-10-10,Duquesne,Ind,,H,Kansas State,Big 6,Ward Haylett,W,33,0
 1942-10-17,Duquesne,Ind,,A,North Carolina,Southern,Jim Tatum,L,6,13
@@ -844,7 +844,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1942-10-24,Colorado,MSAC,Jim Yeager,A,Colorado State,MSAC,Julius Wagner,W,34,7
 1942-10-31,Colorado,MSAC,Jim Yeager,H,Wyoming,MSAC,Bunny Oakes,W,28,7
 1942-11-07,Colorado,MSAC,Jim Yeager,H,Utah,MSAC,Ike Armstrong,L,0,13
-1942-11-14,Colorado,MSAC,Jim Yeager,H,Brigham Young,MSAC,Floyd Millet,W,48,0
+1942-11-14,Colorado,MSAC,Jim Yeager,H,BYU,MSAC,Floyd Millet,W,48,0
 1942-11-26,Colorado,MSAC,Jim Yeager,A,Denver,MSAC,Ellison Ketchum,W,31,6
 1942-09-26,Colorado State,MSAC,Julius Wagner,A,Wyoming,MSAC,Bunny Oakes,W,10,0
 1942-10-10,Colorado State,MSAC,Julius Wagner,A,Denver,MSAC,Ellison Ketchum,L,0,26

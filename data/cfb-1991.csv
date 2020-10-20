@@ -32,7 +32,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-11-16,Indiana,Big Ten,Bill Mallory,A,Ohio State,Big Ten,John Cooper,L,16,20
 1991-11-23,Indiana,Big Ten,Bill Mallory,H,Purdue,Big Ten,Jim Colletto,W,24,22
 1991-12-31,Indiana,Big Ten,Bill Mallory,N,Baylor,SWC,Grant Teaff,W,24,0
-1991-08-29,Florida State,Ind,Bobby Bowden,N,Brigham Young,WAC,LaVell Edwards,W,44,28
+1991-08-29,Florida State,Ind,Bobby Bowden,N,BYU,WAC,LaVell Edwards,W,44,28
 1991-09-07,Florida State,Ind,Bobby Bowden,H,Tulane,Ind,Greg Davis,W,38,11
 1991-09-14,Florida State,Ind,Bobby Bowden,H,Western Michigan,MAC,Al Molde,W,58,0
 1991-09-28,Florida State,Ind,Bobby Bowden,A,Michigan,Big Ten,Gary Moeller,W,51,31
@@ -86,7 +86,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-11-02,Utah,WAC,Ron McBride,A,Hawaii,WAC,Bob Wagner,L,26,52
 1991-11-09,Utah,WAC,Ron McBride,H,New Mexico,WAC,Mike Sheppard,W,30,7
 1991-11-16,Utah,WAC,Ron McBride,A,UTEP,WAC,David Lee,W,10,9
-1991-11-23,Utah,WAC,Ron McBride,A,Brigham Young,WAC,LaVell Edwards,L,17,48
+1991-11-23,Utah,WAC,Ron McBride,A,BYU,WAC,LaVell Edwards,L,17,48
 1991-08-31,Cal State Fullerton,Big West,Gene Murphy,A,Mississippi State,SEC,Jackie Sherrill,L,3,47
 1991-09-07,Cal State Fullerton,Big West,Gene Murphy,A,Texas Tech,SWC,Spike Dykes,L,7,41
 1991-09-28,Cal State Fullerton,Big West,Gene Murphy,A,Georgia,SEC,Ray Goff,L,14,27
@@ -123,7 +123,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-08-28,Penn State,Ind,Joe Paterno,N,Georgia Tech,ACC,Bobby Ross,W,34,22
 1991-09-07,Penn State,Ind,Joe Paterno,H,Cincinnati,Ind,Tim Murphy,W,81,0
 1991-09-14,Penn State,Ind,Joe Paterno,A,USC,Pac-10,Larry Smith,L,10,21
-1991-09-21,Penn State,Ind,Joe Paterno,H,Brigham Young,WAC,LaVell Edwards,W,33,7
+1991-09-21,Penn State,Ind,Joe Paterno,H,BYU,WAC,LaVell Edwards,W,33,7
 1991-09-28,Penn State,Ind,Joe Paterno,H,Boston College,Big East,Tom Coughlin,W,28,21
 1991-10-05,Penn State,Ind,Joe Paterno,A,Temple,Big East,Jerry Berndt,W,24,7
 1991-10-12,Penn State,Ind,Joe Paterno,A,Miami (FL),Big East,Dennis Erickson,L,20,26
@@ -379,7 +379,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-09-07,Utah State,Big West,Chuck Shelton,A,Nebraska,Big 8,Tom Osborne,L,28,59
 1991-09-21,Utah State,Big West,Chuck Shelton,A,Oklahoma,Big 8,Gary Gibbs,L,21,55
 1991-09-28,Utah State,Big West,Chuck Shelton,H,San Jose State,Big West,Terry Shea,L,7,23
-1991-10-04,Utah State,Big West,Chuck Shelton,A,Brigham Young,WAC,LaVell Edwards,L,12,38
+1991-10-04,Utah State,Big West,Chuck Shelton,A,BYU,WAC,LaVell Edwards,L,12,38
 1991-10-19,Utah State,Big West,Chuck Shelton,H,Cal State Fullerton,Big West,Gene Murphy,W,26,3
 1991-10-26,Utah State,Big West,Chuck Shelton,A,Long Beach State,Big West,Willie Brown,L,6,7
 1991-11-02,Utah State,Big West,Chuck Shelton,H,Fresno State,Big West,Jim Sweeney,W,20,19
@@ -462,7 +462,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-10-26,San Diego State,WAC,Al Luginbill,A,Utah,WAC,Ron McBride,W,24,21
 1991-11-02,San Diego State,WAC,Al Luginbill,H,Wyoming,WAC,Joe Tiller,W,24,22
 1991-11-09,San Diego State,WAC,Al Luginbill,H,Colorado State,WAC,Earle Bruce,W,42,32
-1991-11-16,San Diego State,WAC,Al Luginbill,H,Brigham Young,WAC,LaVell Edwards,T,52,52
+1991-11-16,San Diego State,WAC,Al Luginbill,H,BYU,WAC,LaVell Edwards,T,52,52
 1991-11-30,San Diego State,WAC,Al Luginbill,A,Miami (FL),Big East,Dennis Erickson,L,12,39
 1991-12-30,San Diego State,WAC,Al Luginbill,N,Tulsa,Ind,David Rader,L,17,28
 1991-08-31,Hawaii,WAC,Bob Wagner,A,Wyoming,WAC,Joe Tiller,W,32,17
@@ -471,7 +471,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-09-21,Hawaii,WAC,Bob Wagner,H,Pacific,Big West,Walt Harris,W,30,21
 1991-09-28,Hawaii,WAC,Bob Wagner,A,Colorado State,WAC,Earle Bruce,L,16,28
 1991-10-05,Hawaii,WAC,Bob Wagner,H,San Diego State,WAC,Al Luginbill,L,21,47
-1991-10-19,Hawaii,WAC,Bob Wagner,A,Brigham Young,WAC,LaVell Edwards,L,18,35
+1991-10-19,Hawaii,WAC,Bob Wagner,A,BYU,WAC,LaVell Edwards,L,18,35
 1991-11-02,Hawaii,WAC,Bob Wagner,H,Utah,WAC,Ron McBride,W,52,26
 1991-11-09,Hawaii,WAC,Bob Wagner,H,UTEP,WAC,David Lee,L,24,41
 1991-11-16,Hawaii,WAC,Bob Wagner,A,San Jose State,Big West,Terry Shea,T,35,35
@@ -539,7 +539,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-10-05,New Mexico,WAC,Mike Sheppard,A,Fresno State,Big West,Jim Sweeney,L,17,94
 1991-10-12,New Mexico,WAC,Mike Sheppard,A,San Diego State,WAC,Al Luginbill,L,24,38
 1991-10-19,New Mexico,WAC,Mike Sheppard,H,Wyoming,WAC,Joe Tiller,L,19,39
-1991-10-26,New Mexico,WAC,Mike Sheppard,H,Brigham Young,WAC,LaVell Edwards,L,23,41
+1991-10-26,New Mexico,WAC,Mike Sheppard,H,BYU,WAC,LaVell Edwards,L,23,41
 1991-11-02,New Mexico,WAC,Mike Sheppard,H,Air Force,WAC,Fisher DeBerry,W,34,32
 1991-11-09,New Mexico,WAC,Mike Sheppard,A,Utah,WAC,Ron McBride,L,7,30
 1991-11-16,New Mexico,WAC,Mike Sheppard,A,Colorado State,WAC,Earle Bruce,W,38,36
@@ -627,20 +627,20 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-10-19,Wyoming,WAC,Joe Tiller,A,New Mexico,WAC,Mike Sheppard,W,39,19
 1991-10-26,Wyoming,WAC,Joe Tiller,H,Colorado State,WAC,Earle Bruce,W,35,28
 1991-11-02,Wyoming,WAC,Joe Tiller,A,San Diego State,WAC,Al Luginbill,L,22,24
-1991-11-09,Wyoming,WAC,Joe Tiller,A,Brigham Young,WAC,LaVell Edwards,L,31,56
-1991-08-29,Brigham Young,WAC,LaVell Edwards,N,Florida State,Ind,Bobby Bowden,L,28,44
-1991-09-07,Brigham Young,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,L,23,27
-1991-09-21,Brigham Young,WAC,LaVell Edwards,A,Penn State,Ind,Joe Paterno,L,7,33
-1991-09-28,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,21,7
-1991-10-04,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,38,12
-1991-10-12,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,David Lee,W,31,29
-1991-10-19,Brigham Young,WAC,LaVell Edwards,H,Hawaii,WAC,Bob Wagner,W,35,18
-1991-10-26,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,41,23
-1991-10-31,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Earle Bruce,W,40,17
-1991-11-09,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Joe Tiller,W,56,31
-1991-11-16,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,T,52,52
-1991-11-23,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Ron McBride,W,48,17
-1991-12-30,Brigham Young,WAC,LaVell Edwards,N,Iowa,Big Ten,Hayden Fry,T,13,13
+1991-11-09,Wyoming,WAC,Joe Tiller,A,BYU,WAC,LaVell Edwards,L,31,56
+1991-08-29,BYU,WAC,LaVell Edwards,N,Florida State,Ind,Bobby Bowden,L,28,44
+1991-09-07,BYU,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,L,23,27
+1991-09-21,BYU,WAC,LaVell Edwards,A,Penn State,Ind,Joe Paterno,L,7,33
+1991-09-28,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,21,7
+1991-10-04,BYU,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,38,12
+1991-10-12,BYU,WAC,LaVell Edwards,H,UTEP,WAC,David Lee,W,31,29
+1991-10-19,BYU,WAC,LaVell Edwards,H,Hawaii,WAC,Bob Wagner,W,35,18
+1991-10-26,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Mike Sheppard,W,41,23
+1991-10-31,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Earle Bruce,W,40,17
+1991-11-09,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Joe Tiller,W,56,31
+1991-11-16,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Al Luginbill,T,52,52
+1991-11-23,BYU,WAC,LaVell Edwards,H,Utah,WAC,Ron McBride,W,48,17
+1991-12-30,BYU,WAC,LaVell Edwards,N,Iowa,Big Ten,Hayden Fry,T,13,13
 1991-08-28,Georgia Tech,ACC,Bobby Ross,N,Penn State,Ind,Joe Paterno,L,22,34
 1991-09-14,Georgia Tech,ACC,Bobby Ross,A,Boston College,Big East,Tom Coughlin,W,30,14
 1991-09-19,Georgia Tech,ACC,Bobby Ross,H,Virginia,ACC,George Welsh,W,24,21
@@ -719,7 +719,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-11-09,Army,Ind,Bob Sutton,A,Air Force,WAC,Fisher DeBerry,L,0,25
 1991-11-16,Army,Ind,Bob Sutton,H,Akron,Ind,Gerry Faust,W,19,0
 1991-12-07,Army,Ind,Bob Sutton,N,Navy,Ind,George Chaump,L,3,24
-1991-09-07,UCLA,Pac-10,Terry Donahue,H,Brigham Young,WAC,LaVell Edwards,W,27,23
+1991-09-07,UCLA,Pac-10,Terry Donahue,H,BYU,WAC,LaVell Edwards,W,27,23
 1991-09-14,UCLA,Pac-10,Terry Donahue,A,Tennessee,SEC,Johnny Majors,L,16,30
 1991-09-26,UCLA,Pac-10,Terry Donahue,A,San Diego State,WAC,Al Luginbill,W,37,12
 1991-10-05,UCLA,Pac-10,Terry Donahue,H,California,Pac-10,Bruce Snyder,L,24,27
@@ -779,7 +779,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-09-14,UTEP,WAC,David Lee,A,New Mexico State,Big West,Jim Hess,W,22,21
 1991-09-28,UTEP,WAC,David Lee,A,Wyoming,WAC,Joe Tiller,T,28,28
 1991-10-05,UTEP,WAC,David Lee,H,Colorado State,WAC,Earle Bruce,L,18,23
-1991-10-12,UTEP,WAC,David Lee,A,Brigham Young,WAC,LaVell Edwards,L,29,31
+1991-10-12,UTEP,WAC,David Lee,A,BYU,WAC,LaVell Edwards,L,29,31
 1991-10-19,UTEP,WAC,David Lee,H,San Diego State,WAC,Al Luginbill,L,21,28
 1991-10-26,UTEP,WAC,David Lee,A,Air Force,WAC,Fisher DeBerry,L,13,20
 1991-11-09,UTEP,WAC,David Lee,A,Hawaii,WAC,Bob Wagner,W,41,24
@@ -818,7 +818,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-11-09,Iowa,Big Ten,Hayden Fry,H,Indiana,Big Ten,Bill Mallory,W,38,21
 1991-11-16,Iowa,Big Ten,Hayden Fry,A,Northwestern,Big Ten,Francis Peay,W,24,10
 1991-11-23,Iowa,Big Ten,Hayden Fry,H,Minnesota,Big Ten,John Gutekunst,W,23,8
-1991-12-30,Iowa,Big Ten,Hayden Fry,N,Brigham Young,WAC,LaVell Edwards,T,13,13
+1991-12-30,Iowa,Big Ten,Hayden Fry,N,BYU,WAC,LaVell Edwards,T,13,13
 1991-09-07,Texas,SWC,David McWilliams,A,Mississippi State,SEC,Jackie Sherrill,L,6,13
 1991-09-21,Texas,SWC,David McWilliams,H,Auburn,SEC,Pat Dye,L,10,14
 1991-10-05,Texas,SWC,David McWilliams,H,Rice,SWC,Fred Goldsmith,W,28,7
@@ -844,7 +844,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-09-07,Air Force,WAC,Fisher DeBerry,A,Colorado State,WAC,Earle Bruce,W,31,26
 1991-09-14,Air Force,WAC,Fisher DeBerry,A,Utah,WAC,Ron McBride,W,24,21
 1991-09-21,Air Force,WAC,Fisher DeBerry,H,San Diego State,WAC,Al Luginbill,W,21,20
-1991-09-28,Air Force,WAC,Fisher DeBerry,A,Brigham Young,WAC,LaVell Edwards,L,7,21
+1991-09-28,Air Force,WAC,Fisher DeBerry,A,BYU,WAC,LaVell Edwards,L,7,21
 1991-10-05,Air Force,WAC,Fisher DeBerry,H,Wyoming,WAC,Joe Tiller,W,51,28
 1991-10-12,Air Force,WAC,Fisher DeBerry,A,Navy,Ind,George Chaump,W,46,6
 1991-10-19,Air Force,WAC,Fisher DeBerry,H,Notre Dame,Ind,Lou Holtz,L,15,28
@@ -975,7 +975,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1991-10-05,Colorado State,WAC,Earle Bruce,A,UTEP,WAC,David Lee,W,23,18
 1991-10-19,Colorado State,WAC,Earle Bruce,A,Utah,WAC,Ron McBride,L,16,21
 1991-10-26,Colorado State,WAC,Earle Bruce,A,Wyoming,WAC,Joe Tiller,L,28,35
-1991-10-31,Colorado State,WAC,Earle Bruce,H,Brigham Young,WAC,LaVell Edwards,L,17,40
+1991-10-31,Colorado State,WAC,Earle Bruce,H,BYU,WAC,LaVell Edwards,L,17,40
 1991-11-09,Colorado State,WAC,Earle Bruce,A,San Diego State,WAC,Al Luginbill,L,32,42
 1991-11-16,Colorado State,WAC,Earle Bruce,H,New Mexico,WAC,Mike Sheppard,L,36,38
 1991-09-14,Rice,SWC,Fred Goldsmith,A,Northwestern,Big Ten,Francis Peay,W,36,7

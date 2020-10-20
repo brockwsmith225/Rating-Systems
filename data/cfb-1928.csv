@@ -38,7 +38,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1928-10-27,Utah,RMC,Ike Armstrong,A,Colorado,RMC,Myron Witham,W,25,6
 1928-11-03,Utah,RMC,Ike Armstrong,H,Colorado College,RMC,W.T. VandeGraaff,W,27,21
 1928-11-10,Utah,RMC,Ike Armstrong,A,Creighton,MVC,,T,7,7
-1928-11-17,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,T,0,0
+1928-11-17,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,T,0,0
 1928-11-29,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,20,0
 1928-10-06,Northern Colorado,RMC,William Saunders,A,Colorado State,RMC,Harry Hughes,L,6,26
 1928-10-13,Northern Colorado,RMC,William Saunders,H,Colorado,RMC,Myron Witham,L,6,21
@@ -141,7 +141,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1928-11-29,Washington State,PCC,O.E. Hollingbery,A,Washington,PCC,Enoch Bagshaw,L,0,6
 1928-09-29,Western State,RMC,Stewart Clark,A,Denver,RMC,Fred Dawson,L,6,37
 1928-10-13,Western State,RMC,Stewart Clark,A,Colorado College,RMC,W.T. VandeGraaff,L,6,24
-1928-10-20,Western State,RMC,Stewart Clark,H,Brigham Young,RMC,Ott Romney,L,0,46
+1928-10-20,Western State,RMC,Stewart Clark,H,BYU,RMC,Ott Romney,L,0,46
 1928-10-27,Western State,RMC,Stewart Clark,A,Colorado Mines,RMC,George Allen,L,19,26
 1928-11-10,Western State,RMC,Stewart Clark,A,Utah State,RMC,,L,0,54
 1928-11-17,Western State,RMC,Stewart Clark,H,Northern Colorado,RMC,William Saunders,L,0,54
@@ -233,7 +233,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1928-09-29,Utah State,RMC,,A,USC,PCC,Howard Jones,L,12,40
 1928-10-13,Utah State,RMC,,A,Denver,RMC,Fred Dawson,T,7,7
 1928-10-19,Utah State,RMC,,A,Wyoming,RMC,George McLaren,W,24,6
-1928-10-27,Utah State,RMC,,A,Brigham Young,RMC,Ott Romney,W,10,0
+1928-10-27,Utah State,RMC,,A,BYU,RMC,Ott Romney,W,10,0
 1928-11-03,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,L,6,7
 1928-11-10,Utah State,RMC,,H,Western State,RMC,Stewart Clark,W,54,0
 1928-11-17,Utah State,RMC,,H,Montana State,RMC,Schubert Dyche,W,15,7
@@ -250,7 +250,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1928-10-13,Montana State,RMC,Schubert Dyche,A,Nebraska,Big 6,Ernest Bearg,L,6,26
 1928-10-20,Montana State,RMC,Schubert Dyche,H,Northern Colorado,RMC,William Saunders,W,6,2
 1928-10-27,Montana State,RMC,Schubert Dyche,A,Montana,PCC,Frank Millburn,T,0,0
-1928-11-03,Montana State,RMC,Schubert Dyche,H,Brigham Young,RMC,Ott Romney,W,19,7
+1928-11-03,Montana State,RMC,Schubert Dyche,H,BYU,RMC,Ott Romney,W,19,7
 1928-11-10,Montana State,RMC,Schubert Dyche,H,Wyoming,RMC,George McLaren,W,14,7
 1928-11-17,Montana State,RMC,Schubert Dyche,A,Utah State,RMC,,L,7,15
 1928-09-29,Denver,RMC,Fred Dawson,H,Western State,RMC,Stewart Clark,W,37,6
@@ -329,11 +329,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1928-11-03,Wyoming,RMC,George McLaren,A,Denver,RMC,Fred Dawson,L,7,26
 1928-11-10,Wyoming,RMC,George McLaren,A,Montana State,RMC,Schubert Dyche,L,7,14
 1928-11-24,Wyoming,RMC,George McLaren,A,Colorado College,RMC,W.T. VandeGraaff,L,25,48
-1928-10-13,Brigham Young,RMC,Ott Romney,A,Colorado State,RMC,Harry Hughes,L,6,15
-1928-10-20,Brigham Young,RMC,Ott Romney,A,Western State,RMC,Stewart Clark,W,46,0
-1928-10-27,Brigham Young,RMC,Ott Romney,H,Utah State,RMC,,L,0,10
-1928-11-03,Brigham Young,RMC,Ott Romney,A,Montana State,RMC,Schubert Dyche,L,7,19
-1928-11-17,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,T,0,0
+1928-10-13,BYU,RMC,Ott Romney,A,Colorado State,RMC,Harry Hughes,L,6,15
+1928-10-20,BYU,RMC,Ott Romney,A,Western State,RMC,Stewart Clark,W,46,0
+1928-10-27,BYU,RMC,Ott Romney,H,Utah State,RMC,,L,0,10
+1928-11-03,BYU,RMC,Ott Romney,A,Montana State,RMC,Schubert Dyche,L,7,19
+1928-11-17,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,T,0,0
 1928-10-13,Yale,Ind,Mal Stevens,H,Georgia,Southern,Harry Mehre,W,21,6
 1928-10-20,Yale,Ind,Mal Stevens,H,Brown,Ind,DeOrmond McLaughry,W,32,14
 1928-10-27,Yale,Ind,Mal Stevens,H,Army,Ind,Biff Jones,L,6,18
@@ -531,7 +531,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1928-11-17,Colorado,RMC,Myron Witham,A,Colorado College,RMC,W.T. VandeGraaff,W,24,19
 1928-11-29,Colorado,RMC,Myron Witham,A,Denver,RMC,Fred Dawson,W,7,0
 1928-10-06,Colorado State,RMC,Harry Hughes,H,Northern Colorado,RMC,William Saunders,W,26,6
-1928-10-13,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,Ott Romney,W,15,6
+1928-10-13,Colorado State,RMC,Harry Hughes,H,BYU,RMC,Ott Romney,W,15,6
 1928-10-20,Colorado State,RMC,Harry Hughes,A,Utah,RMC,Ike Armstrong,L,0,6
 1928-11-03,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,W,7,6
 1928-11-10,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,L,7,13

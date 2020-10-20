@@ -83,7 +83,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-11-25,Arizona State,Pac-12,Dennis Erickson,H,California,Pac-12,Jeff Tedford,L,38,47,21,37,264,3,32,213,2,12,8,11,121,2,2
 2011-12-22,Arizona State,Pac-12,Dennis Erickson,N,Boise State,MWC,Chris Petersen,L,24,56,30,47,395,2,21,-11,0,17,1,10,92,1,1
 2011-09-10,Utah,Pac-12,Kyle Whittingham,A,USC,Pac-12,Lane Kiffin,L,14,23,23,46,238,1,25,81,1,12,6,8,43,1,0
-2011-09-17,Utah,Pac-12,Kyle Whittingham,A,Brigham Young,Ind,Bronco Mendenhall,W,54,10,16,31,239,2,38,242,3,9,8,3,26,1,1
+2011-09-17,Utah,Pac-12,Kyle Whittingham,A,BYU,Ind,Bronco Mendenhall,W,54,10,16,31,239,2,38,242,3,9,8,3,26,1,1
 2011-10-01,Utah,Pac-12,Kyle Whittingham,H,Washington,Pac-12,Steve Sarkisian,L,14,31,22,33,305,2,23,17,0,13,3,4,41,3,2
 2011-10-08,Utah,Pac-12,Kyle Whittingham,H,Arizona State,Pac-12,Dennis Erickson,L,14,35,18,30,199,1,30,121,1,9,4,7,71,2,3
 2011-10-15,Utah,Pac-12,Kyle Whittingham,A,Pitt,Big East,Keith Patterson,W,26,14,14,23,127,1,52,124,0,8,8,10,97,0,0
@@ -325,7 +325,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-10-15,Idaho,WAC,Robb Akey,A,New Mexico State,WAC,DeWayne Walker,L,24,31,22,35,167,0,29,114,1,8,5,2,17,3,1
 2011-10-29,Idaho,WAC,Robb Akey,H,Hawaii,WAC,Greg McMackin,L,14,16,11,24,85,0,38,149,1,3,9,4,55,0,2
 2011-11-05,Idaho,WAC,Robb Akey,A,San Jose State,WAC,Mike MacIntyre,W,32,29,13,20,162,1,46,183,3,7,8,3,14,2,1
-2011-11-12,Idaho,WAC,Robb Akey,A,Brigham Young,Ind,Bronco Mendenhall,L,7,42,11,21,50,0,33,191,1,2,6,11,105,0,2
+2011-11-12,Idaho,WAC,Robb Akey,A,BYU,Ind,Bronco Mendenhall,L,7,42,11,21,50,0,33,191,1,2,6,11,105,0,2
 2011-11-19,Idaho,WAC,Robb Akey,H,Utah State,WAC,Gary Andersen,L,42,49,27,39,275,1,53,175,3,13,9,10,87,1,1
 2011-12-03,Idaho,WAC,Robb Akey,A,Nevada,WAC,Chris Ault,L,3,56,13,36,178,0,27,128,0,10,3,9,78,0,3
 2011-09-03,Oklahoma,Big 12,Bob Stoops,H,Tulsa,CUSA,Bill Blankenship,W,47,14,39,54,417,1,46,246,5,21,12,2,20,1,0
@@ -442,7 +442,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-12-24,Southern Mississippi,CUSA,Larry Fedora,N,Nevada,WAC,Chris Ault,W,24,17,18,42,165,2,40,171,0,8,9,8,35,2,0
 2011-09-03,Utah State,WAC,Gary Andersen,A,Auburn,SEC,Gene Chizik,L,38,42,22,31,221,0,53,227,5,12,14,6,38,0,0
 2011-09-24,Utah State,WAC,Gary Andersen,H,Colorado State,MWC,Steve Fairchild,L,34,35,9,15,86,0,52,279,5,4,13,3,31,4,0
-2011-09-30,Utah State,WAC,Gary Andersen,A,Brigham Young,Ind,Bronco Mendenhall,L,24,27,13,26,122,2,37,284,1,7,10,7,45,0,0
+2011-09-30,Utah State,WAC,Gary Andersen,A,BYU,Ind,Bronco Mendenhall,L,24,27,13,26,122,2,37,284,1,7,10,7,45,0,0
 2011-10-08,Utah State,WAC,Gary Andersen,H,Wyoming,MWC,Dave Christensen,W,63,19,18,24,245,5,52,303,4,11,16,8,80,1,0
 2011-10-15,Utah State,WAC,Gary Andersen,A,Fresno State,WAC,Pat Hill,L,21,31,16,32,204,1,41,250,2,8,9,11,118,1,0
 2011-10-22,Utah State,WAC,Gary Andersen,H,Louisiana Tech,WAC,Sonny Dykes,L,17,24,16,24,128,0,46,166,2,7,8,7,70,0,1
@@ -469,7 +469,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-09-17,San Jose State,WAC,Mike MacIntyre,H,Nevada,WAC,Chris Ault,L,14,17,13,33,152,0,30,138,2,8,6,3,35,3,1
 2011-09-24,San Jose State,WAC,Mike MacIntyre,H,New Mexico State,WAC,DeWayne Walker,W,34,24,24,38,236,2,39,230,2,13,8,1,5,1,0
 2011-10-01,San Jose State,WAC,Mike MacIntyre,A,Colorado State,MWC,Steve Fairchild,W,38,31,25,38,313,2,39,137,2,15,8,3,46,2,1
-2011-10-08,San Jose State,WAC,Mike MacIntyre,A,Brigham Young,Ind,Bronco Mendenhall,L,16,29,25,35,255,0,26,70,1,12,4,0,0,0,2
+2011-10-08,San Jose State,WAC,Mike MacIntyre,A,BYU,Ind,Bronco Mendenhall,L,16,29,25,35,255,0,26,70,1,12,4,0,0,0,2
 2011-10-14,San Jose State,WAC,Mike MacIntyre,H,Hawaii,WAC,Greg McMackin,W,28,27,27,41,366,1,40,103,1,16,5,6,45,3,3
 2011-10-29,San Jose State,WAC,Mike MacIntyre,A,Louisiana Tech,WAC,Sonny Dykes,L,28,38,34,50,338,3,17,12,1,14,1,3,25,1,4
 2011-11-05,San Jose State,WAC,Mike MacIntyre,H,Idaho,WAC,Robb Akey,L,29,32,29,42,289,1,25,68,2,14,3,3,25,1,0
@@ -559,7 +559,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-11-12,Hawaii,WAC,Greg McMackin,A,Nevada,WAC,Chris Ault,L,28,42,20,45,269,1,16,38,1,16,1,7,60,1,3
 2011-11-19,Hawaii,WAC,Greg McMackin,H,Fresno State,WAC,Pat Hill,L,21,24,19,40,244,2,19,62,1,13,3,4,30,0,0
 2011-11-26,Hawaii,WAC,Greg McMackin,H,Tulane,CUSA,Mark Hutson,W,35,23,30,48,358,2,24,124,3,17,8,4,20,0,2
-2011-12-03,Hawaii,WAC,Greg McMackin,H,Brigham Young,Ind,Bronco Mendenhall,L,20,41,25,47,282,2,16,17,1,12,1,8,65,1,0
+2011-12-03,Hawaii,WAC,Greg McMackin,H,BYU,Ind,Bronco Mendenhall,L,20,41,25,47,282,2,16,17,1,12,1,8,65,1,0
 2011-09-10,Rutgers,Big East,Greg Schiano,A,North Carolina,ACC,Everett Withers,L,22,24,25,47,243,2,25,1,0,13,2,8,50,0,0
 2011-09-24,Rutgers,Big East,Greg Schiano,H,Ohio,MAC,Frank Solich,W,38,26,22,35,251,3,43,159,1,13,8,6,45,1,1
 2011-10-01,Rutgers,Big East,Greg Schiano,A,Syracuse,Big East,Doug Marrone,W,19,16,29,57,297,1,38,5,0,14,4,13,73,3,1
@@ -669,7 +669,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-12-17,Louisiana,Sun Belt,Mark Hudspeth,N,San Diego State,MWC,Rocky Long,W,32,30,25,44,492,3,30,76,0,19,5,9,76,0,1
 2011-09-10,UCF,CUSA,George O'Leary,H,Boston College,ACC,Frank Spaziani,W,30,3,20,25,187,0,45,235,3,7,11,5,51,0,0
 2011-09-17,UCF,CUSA,George O'Leary,A,Florida International,Sun Belt,Mario Cristobal,L,10,17,17,27,181,0,40,119,1,8,10,10,71,2,0
-2011-09-23,UCF,CUSA,George O'Leary,A,Brigham Young,Ind,Bronco Mendenhall,L,17,24,21,31,318,0,34,81,2,13,5,2,12,2,1
+2011-09-23,UCF,CUSA,George O'Leary,A,BYU,Ind,Bronco Mendenhall,L,17,24,21,31,318,0,34,81,2,13,5,2,12,2,1
 2011-10-08,UCF,CUSA,George O'Leary,H,Marshall,CUSA,Doc Holliday,W,16,6,13,22,147,1,51,240,1,6,12,5,45,2,1
 2011-10-15,UCF,CUSA,George O'Leary,A,SMU,CUSA,June Jones,L,17,38,32,44,349,2,36,110,0,14,9,5,40,0,0
 2011-10-20,UCF,CUSA,George O'Leary,A,UAB,CUSA,Neil Callaway,L,24,26,19,32,235,0,24,96,3,12,6,5,45,0,2
@@ -761,18 +761,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-11-26,Wyoming,MWC,Dave Christensen,A,Boise State,MWC,Chris Petersen,L,14,36,17,25,78,1,30,113,0,3,7,4,30,1,1
 2011-12-03,Wyoming,MWC,Dave Christensen,A,Colorado State,MWC,Steve Fairchild,W,22,19,11,23,191,2,41,225,1,6,11,8,98,1,2
 2011-12-17,Wyoming,MWC,Dave Christensen,N,Temple,MAC,Steve Addazio,L,15,37,20,30,127,2,33,140,0,7,10,5,56,0,3
-2011-09-03,Brigham Young,Ind,Bronco Mendenhall,A,Ole Miss,SEC,Houston Nutt,W,14,13,24,38,225,1,31,91,0,15,4,6,40,0,1
-2011-09-10,Brigham Young,Ind,Bronco Mendenhall,A,Texas,Big 12,Mack Brown,L,16,17,22,38,192,1,23,43,0,9,3,3,25,0,2
-2011-09-17,Brigham Young,Ind,Bronco Mendenhall,H,Utah,Pac-12,Kyle Whittingham,L,10,54,30,56,343,1,22,11,0,18,1,8,70,6,1
-2011-09-23,Brigham Young,Ind,Bronco Mendenhall,H,UCF,CUSA,George O'Leary,W,24,17,16,35,133,0,32,127,2,7,8,3,35,0,1
-2011-09-30,Brigham Young,Ind,Bronco Mendenhall,H,Utah State,WAC,Gary Andersen,W,27,24,21,39,251,2,46,200,1,13,14,3,25,1,0
-2011-10-08,Brigham Young,Ind,Bronco Mendenhall,H,San Jose State,WAC,Mike MacIntyre,W,29,16,14,24,219,3,44,224,0,10,15,4,29,1,2
-2011-10-15,Brigham Young,Ind,Bronco Mendenhall,A,Oregon State,Pac-12,Mike Riley,W,38,28,17,29,217,3,48,282,2,10,12,10,79,1,1
-2011-10-28,Brigham Young,Ind,Bronco Mendenhall,A,Texas Christian,MWC,Gary Patterson,L,28,38,15,31,215,1,50,139,1,10,12,5,39,1,2
-2011-11-12,Brigham Young,Ind,Bronco Mendenhall,H,Idaho,WAC,Robb Akey,W,42,7,21,33,262,3,42,243,3,13,13,7,45,0,1
-2011-11-19,Brigham Young,Ind,Bronco Mendenhall,H,New Mexico State,WAC,DeWayne Walker,W,42,7,21,36,238,4,34,173,2,12,9,7,61,0,1
-2011-12-03,Brigham Young,Ind,Bronco Mendenhall,A,Hawaii,WAC,Greg McMackin,W,41,20,25,38,363,3,38,167,1,18,8,5,55,0,0
-2011-12-30,Brigham Young,Ind,Bronco Mendenhall,N,Tulsa,CUSA,Bill Blankenship,W,24,21,17,40,250,3,40,94,0,11,7,5,60,0,2
+2011-09-03,BYU,Ind,Bronco Mendenhall,A,Ole Miss,SEC,Houston Nutt,W,14,13,24,38,225,1,31,91,0,15,4,6,40,0,1
+2011-09-10,BYU,Ind,Bronco Mendenhall,A,Texas,Big 12,Mack Brown,L,16,17,22,38,192,1,23,43,0,9,3,3,25,0,2
+2011-09-17,BYU,Ind,Bronco Mendenhall,H,Utah,Pac-12,Kyle Whittingham,L,10,54,30,56,343,1,22,11,0,18,1,8,70,6,1
+2011-09-23,BYU,Ind,Bronco Mendenhall,H,UCF,CUSA,George O'Leary,W,24,17,16,35,133,0,32,127,2,7,8,3,35,0,1
+2011-09-30,BYU,Ind,Bronco Mendenhall,H,Utah State,WAC,Gary Andersen,W,27,24,21,39,251,2,46,200,1,13,14,3,25,1,0
+2011-10-08,BYU,Ind,Bronco Mendenhall,H,San Jose State,WAC,Mike MacIntyre,W,29,16,14,24,219,3,44,224,0,10,15,4,29,1,2
+2011-10-15,BYU,Ind,Bronco Mendenhall,A,Oregon State,Pac-12,Mike Riley,W,38,28,17,29,217,3,48,282,2,10,12,10,79,1,1
+2011-10-28,BYU,Ind,Bronco Mendenhall,A,Texas Christian,MWC,Gary Patterson,L,28,38,15,31,215,1,50,139,1,10,12,5,39,1,2
+2011-11-12,BYU,Ind,Bronco Mendenhall,H,Idaho,WAC,Robb Akey,W,42,7,21,33,262,3,42,243,3,13,13,7,45,0,1
+2011-11-19,BYU,Ind,Bronco Mendenhall,H,New Mexico State,WAC,DeWayne Walker,W,42,7,21,36,238,4,34,173,2,12,9,7,61,0,1
+2011-12-03,BYU,Ind,Bronco Mendenhall,A,Hawaii,WAC,Greg McMackin,W,41,20,25,38,363,3,38,167,1,18,8,5,55,0,0
+2011-12-30,BYU,Ind,Bronco Mendenhall,N,Tulsa,CUSA,Bill Blankenship,W,24,21,17,40,250,3,40,94,0,11,7,5,60,0,2
 2011-09-03,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Florida,SEC,Will Muschamp,L,3,41,14,27,107,0,30,30,0,6,3,5,45,0,0
 2011-09-10,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Michigan State,Big Ten,Mark Dantonio,L,0,44,6,13,26,0,20,22,0,1,0,5,55,1,0
 2011-09-24,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Auburn,SEC,Gene Chizik,L,14,30,21,32,199,1,34,108,0,11,8,6,51,0,3
@@ -1021,7 +1021,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-11-12,Tulsa,CUSA,Bill Blankenship,H,Marshall,CUSA,Doc Holliday,W,59,17,24,34,302,4,52,380,4,18,13,2,19,1,1
 2011-11-19,Tulsa,CUSA,Bill Blankenship,A,UTEP,CUSA,Mike Price,W,57,28,21,27,300,3,33,200,3,13,10,4,60,1,1
 2011-11-25,Tulsa,CUSA,Bill Blankenship,H,Houston,CUSA,Tony Levine,L,16,48,19,38,176,1,42,161,0,9,8,2,9,1,2
-2011-12-30,Tulsa,CUSA,Bill Blankenship,N,Brigham Young,Ind,Bronco Mendenhall,L,21,24,18,32,235,3,27,37,0,10,2,1,5,2,0
+2011-12-30,Tulsa,CUSA,Bill Blankenship,N,BYU,Ind,Bronco Mendenhall,L,21,24,18,32,235,3,27,37,0,10,2,1,5,2,0
 2011-09-10,Iowa,Big Ten,Kirk Ferentz,A,Iowa State,Big 12,Paul Rhoads,L,41,44,16,29,207,2,43,158,2,8,9,6,35,1,0
 2011-09-17,Iowa,Big Ten,Kirk Ferentz,H,Pitt,Big East,Keith Patterson,W,31,27,31,48,399,3,33,76,1,19,5,8,85,0,1
 2011-09-24,Iowa,Big Ten,Kirk Ferentz,H,Louisiana-Monroe,Sun Belt,Todd Berry,W,45,17,22,33,273,3,34,180,3,14,11,1,10,1,0
@@ -1035,7 +1035,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-11-25,Iowa,Big Ten,Kirk Ferentz,A,Nebraska,Big Ten,Bo Pelini,L,7,20,16,35,182,0,24,88,1,7,7,5,50,1,1
 2011-12-30,Iowa,Big Ten,Kirk Ferentz,N,Oklahoma,Big 12,Bob Stoops,L,14,31,23,45,216,2,37,76,0,14,5,6,36,0,2
 2011-09-03,Texas,Big 12,Mack Brown,H,Rice,CUSA,David Bailiff,W,34,9,15,27,277,2,48,229,2,10,12,6,69,1,0
-2011-09-10,Texas,Big 12,Mack Brown,H,Brigham Young,Ind,Bronco Mendenhall,W,17,16,12,20,123,0,43,166,2,5,9,8,46,0,2
+2011-09-10,Texas,Big 12,Mack Brown,H,BYU,Ind,Bronco Mendenhall,W,17,16,12,20,123,0,43,166,2,5,9,8,46,0,2
 2011-09-17,Texas,Big 12,Mack Brown,A,UCLA,Pac-12,Mike Johnson,W,49,20,16,20,204,3,50,284,4,7,15,3,25,2,0
 2011-10-01,Texas,Big 12,Mack Brown,A,Iowa State,Big 12,Paul Rhoads,W,37,14,14,24,255,2,40,145,1,10,7,10,74,0,0
 2011-10-08,Texas,Big 12,Mack Brown,N,Oklahoma,Big 12,Bob Stoops,L,17,55,20,36,223,1,45,36,0,12,7,5,60,3,2
@@ -1053,7 +1053,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-10-01,Texas Christian,MWC,Gary Patterson,H,SMU,CUSA,June Jones,L,33,40,30,43,304,3,31,150,1,13,6,9,115,1,0
 2011-10-08,Texas Christian,MWC,Gary Patterson,A,San Diego State,MWC,Rocky Long,W,27,14,14,22,212,2,52,234,1,8,13,3,25,2,2
 2011-10-22,Texas Christian,MWC,Gary Patterson,H,New Mexico,MWC,George Barlow,W,69,0,15,21,251,2,44,264,7,11,11,6,41,0,0
-2011-10-28,Texas Christian,MWC,Gary Patterson,H,Brigham Young,Ind,Bronco Mendenhall,W,38,28,13,23,147,2,39,136,3,5,7,6,58,0,0
+2011-10-28,Texas Christian,MWC,Gary Patterson,H,BYU,Ind,Bronco Mendenhall,W,38,28,13,23,147,2,39,136,3,5,7,6,58,0,0
 2011-11-05,Texas Christian,MWC,Gary Patterson,A,Wyoming,MWC,Dave Christensen,W,31,20,17,24,227,0,47,390,4,12,15,5,58,4,1
 2011-11-12,Texas Christian,MWC,Gary Patterson,A,Boise State,MWC,Chris Petersen,W,36,35,24,37,473,5,26,33,0,16,4,11,114,1,1
 2011-11-19,Texas Christian,MWC,Gary Patterson,H,Colorado State,MWC,Steve Fairchild,W,34,10,13,20,117,0,43,255,3,6,13,3,20,1,0
@@ -1109,7 +1109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-09-24,Oregon State,Pac-12,Mike Riley,H,UCLA,Pac-12,Mike Johnson,L,19,27,24,40,287,1,29,88,0,15,6,3,30,1,1
 2011-10-01,Oregon State,Pac-12,Mike Riley,A,Arizona State,Pac-12,Dennis Erickson,L,20,35,40,66,341,1,14,47,1,17,2,13,139,1,4
 2011-10-08,Oregon State,Pac-12,Mike Riley,H,Arizona,Pac-12,Tim Kish,W,37,27,33,43,280,2,35,128,1,15,6,6,75,0,2
-2011-10-15,Oregon State,Pac-12,Mike Riley,H,Brigham Young,Ind,Bronco Mendenhall,L,28,38,27,43,306,1,23,59,2,13,5,8,55,2,2
+2011-10-15,Oregon State,Pac-12,Mike Riley,H,BYU,Ind,Bronco Mendenhall,L,28,38,27,43,306,1,23,59,2,13,5,8,55,2,2
 2011-10-22,Oregon State,Pac-12,Mike Riley,A,Washington State,Pac-12,Paul Wulff,W,44,21,26,34,376,4,34,175,1,17,8,14,120,0,1
 2011-10-29,Oregon State,Pac-12,Mike Riley,A,Utah,Pac-12,Kyle Whittingham,L,8,27,27,49,231,1,26,32,0,11,3,6,35,1,3
 2011-11-05,Oregon State,Pac-12,Mike Riley,H,Stanford,Pac-12,David Shaw,L,13,38,18,30,252,1,17,33,1,11,2,5,55,1,0
@@ -1260,7 +1260,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-10-29,New Mexico State,WAC,DeWayne Walker,H,Nevada,WAC,Chris Ault,L,34,48,22,46,466,3,29,48,2,16,4,11,85,0,3
 2011-11-05,New Mexico State,WAC,DeWayne Walker,A,Georgia,SEC,Mark Richt,L,16,63,20,36,276,1,31,126,1,13,6,8,52,2,1
 2011-11-12,New Mexico State,WAC,DeWayne Walker,H,Fresno State,WAC,Pat Hill,W,48,45,26,44,367,2,38,133,3,17,12,4,37,0,1
-2011-11-19,New Mexico State,WAC,DeWayne Walker,A,Brigham Young,Ind,Bronco Mendenhall,L,7,42,19,34,159,1,37,90,0,8,9,8,58,2,0
+2011-11-19,New Mexico State,WAC,DeWayne Walker,A,BYU,Ind,Bronco Mendenhall,L,7,42,19,34,159,1,37,90,0,8,9,8,58,2,0
 2011-11-26,New Mexico State,WAC,DeWayne Walker,A,Louisiana Tech,WAC,Sonny Dykes,L,0,44,15,25,118,0,45,161,0,6,9,5,40,1,3
 2011-12-03,New Mexico State,WAC,DeWayne Walker,H,Utah State,WAC,Gary Andersen,L,21,24,17,40,252,1,24,145,2,9,6,3,20,1,2
 2011-09-03,Louisiana Tech,WAC,Sonny Dykes,A,Southern Mississippi,CUSA,Larry Fedora,L,17,19,20,36,176,0,33,68,1,7,6,9,101,0,0
@@ -1286,7 +1286,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-11-12,Minnesota,Big Ten,Jerry Kill,H,Wisconsin,Big Ten,Bret Bielema,L,13,42,6,16,51,0,32,105,1,2,6,3,20,0,1
 2011-11-19,Minnesota,Big Ten,Jerry Kill,A,Northwestern,Big Ten,Pat Fitzgerald,L,13,28,9,22,124,0,51,269,1,5,17,5,43,1,1
 2011-11-26,Minnesota,Big Ten,Jerry Kill,H,Illinois,Big Ten,Vic Koenning,W,27,7,7,15,85,1,53,248,2,6,12,2,30,0,0
-2011-09-03,Ole Miss,SEC,Houston Nutt,H,Brigham Young,Ind,Bronco Mendenhall,L,13,14,16,29,145,0,28,69,0,9,3,4,40,2,0
+2011-09-03,Ole Miss,SEC,Houston Nutt,H,BYU,Ind,Bronco Mendenhall,L,13,14,16,29,145,0,28,69,0,9,3,4,40,2,0
 2011-09-17,Ole Miss,SEC,Houston Nutt,A,Vanderbilt,SEC,James Franklin,L,7,30,15,30,149,1,32,85,0,6,7,6,51,0,5
 2011-09-24,Ole Miss,SEC,Houston Nutt,H,Georgia,SEC,Mark Richt,L,13,27,12,30,149,1,26,34,0,6,2,8,69,0,2
 2011-10-01,Ole Miss,SEC,Houston Nutt,A,Fresno State,WAC,Pat Hill,W,38,28,8,18,214,1,44,216,4,7,10,10,107,0,0

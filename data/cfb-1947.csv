@@ -50,7 +50,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-11-22,Furman,Southern,Robert Smith,A,Georgia Tech,SEC,Bobby Dodd,L,0,51
 1947-11-27,Furman,Southern,Robert Smith,H,Davidson,Southern,William Story,L,6,20
 1947-09-27,Utah,MSAC,Ike Armstrong,H,Oregon State,PCC,Lon Stiner,W,7,6
-1947-10-11,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,W,28,6
+1947-10-11,Utah,MSAC,Ike Armstrong,H,BYU,MSAC,Edwin Kimball,W,28,6
 1947-10-18,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Cac Hubbard,W,13,7
 1947-10-25,Utah,MSAC,Ike Armstrong,A,Wyoming,MSAC,Bowden Wyatt,W,26,7
 1947-11-01,Utah,MSAC,Ike Armstrong,A,Colorado,MSAC,Jim Yeager,W,13,7
@@ -352,7 +352,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-10-04,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Robert Davis,W,26,13
 1947-10-11,Utah State,MSAC,E. Lowell Romney,H,Montana,PCC,Doug Fessenden,W,13,7
 1947-10-18,Utah State,MSAC,E. Lowell Romney,A,Wyoming,MSAC,Bowden Wyatt,L,19,33
-1947-10-25,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Edwin Kimball,L,12,27
+1947-10-25,Utah State,MSAC,E. Lowell Romney,A,BYU,MSAC,Edwin Kimball,L,12,27
 1947-11-01,Utah State,MSAC,E. Lowell Romney,A,Montana State,Ind,Clyde Carpenter,W,28,13
 1947-11-08,Utah State,MSAC,E. Lowell Romney,H,Colorado,MSAC,Jim Yeager,W,35,12
 1947-11-15,Utah State,MSAC,E. Lowell Romney,H,Denver,MSAC,Cac Hubbard,W,20,0
@@ -368,7 +368,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-11-15,Missouri,Big 6,Don Faurot,H,Oklahoma,Big 6,Bud Wilkinson,L,12,21
 1947-11-22,Missouri,Big 6,Don Faurot,A,Kansas,Big 6,George Sauer,L,14,20
 1947-09-20,Montana State,Ind,Clyde Carpenter,A,Oregon,PCC,Jim Aiken,L,14,27
-1947-09-26,Montana State,Ind,Clyde Carpenter,A,Brigham Young,MSAC,Edwin Kimball,L,14,19
+1947-09-26,Montana State,Ind,Clyde Carpenter,A,BYU,MSAC,Edwin Kimball,L,14,19
 1947-10-18,Montana State,Ind,Clyde Carpenter,N,Montana,PCC,Doug Fessenden,W,13,12
 1947-11-01,Montana State,Ind,Clyde Carpenter,H,Utah State,MSAC,E. Lowell Romney,L,13,28
 1947-11-08,Montana State,Ind,Clyde Carpenter,H,Portland,Ind,,W,20,13
@@ -385,7 +385,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-10-11,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Robert Davis,T,13,13
 1947-10-18,Denver,MSAC,Cac Hubbard,A,Utah,MSAC,Ike Armstrong,L,7,13
 1947-10-25,Denver,MSAC,Cac Hubbard,H,Texas Tech,BIAA,Dell Morgan,L,7,36
-1947-11-01,Denver,MSAC,Cac Hubbard,H,Brigham Young,MSAC,Edwin Kimball,W,20,6
+1947-11-01,Denver,MSAC,Cac Hubbard,H,BYU,MSAC,Edwin Kimball,W,20,6
 1947-11-08,Denver,MSAC,Cac Hubbard,H,Wyoming,MSAC,Bowden Wyatt,W,27,7
 1947-11-15,Denver,MSAC,Cac Hubbard,A,Utah State,MSAC,E. Lowell Romney,L,0,20
 1947-11-27,Denver,MSAC,Cac Hubbard,H,Colorado,MSAC,Jim Yeager,W,26,20
@@ -516,19 +516,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-11-22,George Washington,Southern,Skip Stahley,A,Georgetown,Ind,Jack Hagerty,T,0,0
 1947-11-27,George Washington,Southern,Skip Stahley,H,Merchant Marine,Ind,Bill Reinhart,W,40,0
 1947-09-27,Wyoming,MSAC,Bowden Wyatt,A,Arizona,BIAA,Miles Casteel,L,7,27
-1947-10-04,Wyoming,MSAC,Bowden Wyatt,H,Brigham Young,MSAC,Edwin Kimball,W,12,7
+1947-10-04,Wyoming,MSAC,Bowden Wyatt,H,BYU,MSAC,Edwin Kimball,W,12,7
 1947-10-18,Wyoming,MSAC,Bowden Wyatt,H,Utah State,MSAC,E. Lowell Romney,W,33,19
 1947-10-25,Wyoming,MSAC,Bowden Wyatt,H,Utah,MSAC,Ike Armstrong,L,7,26
 1947-11-08,Wyoming,MSAC,Bowden Wyatt,A,Denver,MSAC,Cac Hubbard,L,7,27
 1947-11-15,Wyoming,MSAC,Bowden Wyatt,A,Colorado,MSAC,Jim Yeager,L,6,21
 1947-11-22,Wyoming,MSAC,Bowden Wyatt,A,Colorado State,MSAC,Robert Davis,L,6,21
-1947-09-26,Brigham Young,MSAC,Edwin Kimball,H,Montana State,Ind,Clyde Carpenter,W,19,14
-1947-10-04,Brigham Young,MSAC,Edwin Kimball,A,Wyoming,MSAC,Bowden Wyatt,L,7,12
-1947-10-11,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,L,6,28
-1947-10-18,Brigham Young,MSAC,Edwin Kimball,A,Colorado,MSAC,Jim Yeager,L,7,9
-1947-10-25,Brigham Young,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,W,27,12
-1947-11-01,Brigham Young,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,L,6,20
-1947-11-15,Brigham Young,MSAC,Edwin Kimball,H,Colorado State,MSAC,Robert Davis,L,25,27
+1947-09-26,BYU,MSAC,Edwin Kimball,H,Montana State,Ind,Clyde Carpenter,W,19,14
+1947-10-04,BYU,MSAC,Edwin Kimball,A,Wyoming,MSAC,Bowden Wyatt,L,7,12
+1947-10-11,BYU,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,L,6,28
+1947-10-18,BYU,MSAC,Edwin Kimball,A,Colorado,MSAC,Jim Yeager,L,7,9
+1947-10-25,BYU,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,W,27,12
+1947-11-01,BYU,MSAC,Edwin Kimball,A,Denver,MSAC,Cac Hubbard,L,6,20
+1947-11-15,BYU,MSAC,Edwin Kimball,H,Colorado State,MSAC,Robert Davis,L,25,27
 1947-10-05,Duquesne,Ind,Kass Kovalcheck,A,San Francisco,Ind,Ed McKeever,L,0,51
 1947-10-11,Duquesne,Ind,Kass Kovalcheck,A,Alabama,SEC,Red Drew,L,0,26
 1947-10-18,Duquesne,Ind,Kass Kovalcheck,A,Mississippi State,SEC,Allyn McKeen,L,0,34
@@ -865,7 +865,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-09-27,Colorado,MSAC,Jim Yeager,A,Iowa State,Big 6,Abe Stuber,W,7,0
 1947-10-04,Colorado,MSAC,Jim Yeager,A,Army,Ind,Red Blaik,L,0,47
 1947-10-11,Colorado,MSAC,Jim Yeager,H,Missouri,Big 6,Don Faurot,L,0,21
-1947-10-18,Colorado,MSAC,Jim Yeager,H,Brigham Young,MSAC,Edwin Kimball,W,9,7
+1947-10-18,Colorado,MSAC,Jim Yeager,H,BYU,MSAC,Edwin Kimball,W,9,7
 1947-10-25,Colorado,MSAC,Jim Yeager,A,Colorado State,MSAC,Robert Davis,W,14,7
 1947-11-01,Colorado,MSAC,Jim Yeager,H,Utah,MSAC,Ike Armstrong,L,7,13
 1947-11-08,Colorado,MSAC,Jim Yeager,A,Utah State,MSAC,E. Lowell Romney,L,12,35
@@ -876,7 +876,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1947-10-11,Colorado State,MSAC,Robert Davis,A,Denver,MSAC,Cac Hubbard,T,13,13
 1947-10-25,Colorado State,MSAC,Robert Davis,H,Colorado,MSAC,Jim Yeager,L,7,14
 1947-11-08,Colorado State,MSAC,Robert Davis,A,Utah,MSAC,Ike Armstrong,L,0,19
-1947-11-15,Colorado State,MSAC,Robert Davis,A,Brigham Young,MSAC,Edwin Kimball,W,27,25
+1947-11-15,Colorado State,MSAC,Robert Davis,A,BYU,MSAC,Edwin Kimball,W,27,25
 1947-11-22,Colorado State,MSAC,Robert Davis,H,Wyoming,MSAC,Bowden Wyatt,W,21,6
 1947-11-29,Colorado State,MSAC,Robert Davis,A,Montana,PCC,Doug Fessenden,L,7,41
 1947-09-27,Rice,SWC,Jess Neely,A,LSU,SEC,Bernie Moore,L,14,21

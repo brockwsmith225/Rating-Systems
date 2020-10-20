@@ -189,7 +189,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-11-01,California,Pac-12,Sonny Dykes,A,Oregon State,Pac-12,Mike Riley,W,45,31,24,47,277,1,47,269,4,16,14,9,71,0,0
 2014-11-13,California,Pac-12,Sonny Dykes,A,USC,Pac-12,Steve Sarkisian,L,30,38,29,47,279,3,31,105,1,15,6,11,117,1,0
 2014-11-22,California,Pac-12,Sonny Dykes,H,Stanford,Pac-12,David Shaw,L,17,38,21,40,231,1,36,179,1,14,8,12,113,1,4
-2014-11-29,California,Pac-12,Sonny Dykes,H,Brigham Young,Ind,Bronco Mendenhall,L,35,42,38,60,393,4,41,173,1,22,8,7,78,0,1
+2014-11-29,California,Pac-12,Sonny Dykes,H,BYU,Ind,Bronco Mendenhall,L,35,42,38,60,393,4,41,173,1,22,8,7,78,0,1
 2014-09-06,Florida,SEC,Will Muschamp,H,Eastern Michigan,MAC,Chris Creighton,W,65,0,33,47,396,3,39,259,4,12,13,10,100,0,0
 2014-09-13,Florida,SEC,Will Muschamp,H,Kentucky,SEC,Mark Stoops,W,36,30,25,44,295,3,50,237,1,13,14,8,78,0,1
 2014-09-20,Florida,SEC,Will Muschamp,A,Alabama,SEC,Nick Saban,L,21,42,9,28,93,1,27,107,1,5,5,5,36,1,2
@@ -258,7 +258,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-11-22,Illinois,Big Ten,Tim Beckman,H,Penn State,Big Ten,James Franklin,W,16,14,26,42,215,1,27,68,0,8,5,3,30,0,0
 2014-11-29,Illinois,Big Ten,Tim Beckman,A,Northwestern,Big Ten,Pat Fitzgerald,W,47,33,17,28,147,3,47,291,2,6,14,6,50,0,1
 2014-12-26,Illinois,Big Ten,Tim Beckman,N,Louisiana Tech,CUSA,Skip Holtz,L,18,35,28,47,329,1,33,122,1,18,6,9,68,1,1
-2014-08-29,Connecticut,American,Bob Diaco,H,Brigham Young,Ind,Bronco Mendenhall,L,10,35,25,48,284,0,31,71,1,14,3,8,90,1,1
+2014-08-29,Connecticut,American,Bob Diaco,H,BYU,Ind,Bronco Mendenhall,L,10,35,25,48,284,0,31,71,1,14,3,8,90,1,1
 2014-09-13,Connecticut,American,Bob Diaco,H,Boise State,MWC,Bryan Harsin,L,21,38,22,38,242,2,36,48,0,11,6,3,30,1,2
 2014-09-19,Connecticut,American,Bob Diaco,A,South Florida,American,Willie Taggart,L,14,17,6,10,88,1,26,57,0,3,2,9,61,1,0
 2014-09-27,Connecticut,American,Bob Diaco,H,Temple,American,Matt Rhule,L,10,36,14,28,174,1,43,133,0,6,10,7,70,1,2
@@ -330,7 +330,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-12-30,Maryland,Big Ten,Randy Edsall,N,Stanford,Pac-12,David Shaw,L,21,45,15,27,205,0,27,17,2,10,1,5,39,0,1
 2014-08-30,Virginia,ACC,Mike London,H,UCLA,Pac-12,Jim Mora,L,20,28,29,45,266,2,39,120,0,12,3,4,20,1,2
 2014-09-13,Virginia,ACC,Mike London,H,Louisville,ACC,Bobby Petrino,W,23,21,16,30,171,1,40,114,1,8,5,7,46,1,2
-2014-09-20,Virginia,ACC,Mike London,A,Brigham Young,Ind,Bronco Mendenhall,L,33,41,35,58,327,1,44,192,2,18,11,8,86,1,1
+2014-09-20,Virginia,ACC,Mike London,A,BYU,Ind,Bronco Mendenhall,L,33,41,35,58,327,1,44,192,2,18,11,8,86,1,1
 2014-09-27,Virginia,ACC,Mike London,H,Kent State,MAC,Paul Haynes,W,45,13,19,32,266,2,45,254,3,13,12,9,79,1,2
 2014-10-04,Virginia,ACC,Mike London,H,Pitt,ACC,Paul Chryst,W,24,19,10,17,121,1,43,225,1,5,11,6,65,0,1
 2014-10-18,Virginia,ACC,Mike London,A,Duke,ACC,David Cutcliffe,L,13,20,22,47,325,1,31,140,0,15,7,6,60,1,0
@@ -483,7 +483,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-08-31,Utah State,MWC,Matt Wells,A,Tennessee,SEC,Butch Jones,L,7,38,18,35,144,1,24,100,0,6,4,5,42,1,2
 2014-09-13,Utah State,MWC,Matt Wells,H,Wake Forest,ACC,Dave Clawson,W,36,24,32,44,331,3,35,60,0,13,5,8,65,1,2
 2014-09-20,Utah State,MWC,Matt Wells,A,Arkansas State,Sun Belt,Blake Anderson,L,14,21,27,47,268,2,37,145,0,6,12,11,100,0,1
-2014-10-03,Utah State,MWC,Matt Wells,A,Brigham Young,Ind,Bronco Mendenhall,W,35,20,19,25,321,3,46,136,2,12,7,12,105,1,0
+2014-10-03,Utah State,MWC,Matt Wells,A,BYU,Ind,Bronco Mendenhall,W,35,20,19,25,321,3,46,136,2,12,7,12,105,1,0
 2014-10-11,Utah State,MWC,Matt Wells,H,Air Force,MWC,Troy Calhoun,W,34,16,22,31,311,2,28,77,2,9,5,3,43,1,0
 2014-10-18,Utah State,MWC,Matt Wells,A,Colorado State,MWC,Jim McElwain,L,13,16,19,31,160,0,19,100,1,6,3,6,45,0,1
 2014-10-25,Utah State,MWC,Matt Wells,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,34,20,16,29,266,3,47,178,1,7,10,7,60,1,0
@@ -548,7 +548,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-09-27,Nevada,MWC,Brian Polian,A,San Jose State,MWC,Ron Caragher,W,21,10,10,18,64,0,36,192,2,2,12,8,56,0,0
 2014-10-04,Nevada,MWC,Brian Polian,H,Boise State,MWC,Bryan Harsin,L,46,51,23,43,306,3,30,156,2,15,6,3,22,0,4
 2014-10-11,Nevada,MWC,Brian Polian,H,Colorado State,MWC,Jim McElwain,L,24,31,27,50,297,2,36,160,1,16,8,3,45,0,1
-2014-10-18,Nevada,MWC,Brian Polian,A,Brigham Young,Ind,Bronco Mendenhall,W,42,35,26,40,285,1,36,126,4,12,7,6,36,0,0
+2014-10-18,Nevada,MWC,Brian Polian,A,BYU,Ind,Bronco Mendenhall,W,42,35,26,40,285,1,36,126,4,12,7,6,36,0,0
 2014-10-25,Nevada,MWC,Brian Polian,A,Hawaii,MWC,Norm Chow,W,26,18,18,28,132,1,60,295,2,7,19,4,36,0,1
 2014-11-01,Nevada,MWC,Brian Polian,H,San Diego State,MWC,Rocky Long,W,30,14,10,24,109,1,47,229,2,6,9,5,44,0,1
 2014-11-15,Nevada,MWC,Brian Polian,A,Air Force,MWC,Troy Calhoun,L,38,45,24,36,275,2,45,223,3,15,11,4,42,0,1
@@ -712,7 +712,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-08-30,UCF,American,George O'Leary,N,Penn State,Big Ten,James Franklin,L,24,26,12,22,222,1,29,24,2,8,1,8,47,1,0
 2014-09-13,UCF,American,George O'Leary,A,Missouri,SEC,Gary Pinkel,L,10,38,22,36,209,1,39,90,0,10,9,6,53,2,2
 2014-10-02,UCF,American,George O'Leary,A,Houston,American,Tony Levine,W,17,12,6,18,101,2,37,127,0,4,6,10,90,1,0
-2014-10-09,UCF,American,George O'Leary,H,Brigham Young,Ind,Bronco Mendenhall,W,31,24,30,52,326,2,33,63,2,16,4,4,44,2,2
+2014-10-09,UCF,American,George O'Leary,H,BYU,Ind,Bronco Mendenhall,W,31,24,30,52,326,2,33,63,2,16,4,4,44,2,2
 2014-10-18,UCF,American,George O'Leary,H,Tulane,American,Curtis Johnson,W,20,13,12,24,139,1,38,94,1,5,7,8,67,2,2
 2014-10-25,UCF,American,George O'Leary,H,Temple,American,Matt Rhule,W,34,14,25,39,336,2,47,130,2,15,10,5,58,2,0
 2014-11-01,UCF,American,George O'Leary,A,Connecticut,American,Bob Diaco,L,29,37,22,42,284,2,37,145,2,8,10,8,89,0,4
@@ -764,7 +764,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-09-27,Boise State,MWC,Bryan Harsin,A,Air Force,MWC,Troy Calhoun,L,14,28,30,58,370,2,29,97,0,16,6,9,80,2,5
 2014-10-04,Boise State,MWC,Bryan Harsin,A,Nevada,MWC,Brian Polian,W,51,46,26,31,346,2,48,224,4,17,6,5,63,2,1
 2014-10-17,Boise State,MWC,Bryan Harsin,H,Fresno State,MWC,Tim DeRuyter,W,37,27,23,32,228,2,51,264,2,13,10,6,30,1,0
-2014-10-24,Boise State,MWC,Bryan Harsin,H,Brigham Young,Ind,Bronco Mendenhall,W,55,30,24,31,410,4,48,227,3,15,13,8,70,0,1
+2014-10-24,Boise State,MWC,Bryan Harsin,H,BYU,Ind,Bronco Mendenhall,W,55,30,24,31,410,4,48,227,3,15,13,8,70,0,1
 2014-11-08,Boise State,MWC,Bryan Harsin,A,New Mexico,MWC,Bob Davie,W,60,49,21,32,367,4,48,291,4,16,17,3,24,0,0
 2014-11-15,Boise State,MWC,Bryan Harsin,H,San Diego State,MWC,Rocky Long,W,38,29,19,28,187,1,47,212,4,10,10,5,37,0,2
 2014-11-22,Boise State,MWC,Bryan Harsin,A,Wyoming,MWC,Craig Bohl,W,63,14,13,19,246,3,49,312,4,9,15,2,20,1,0
@@ -804,18 +804,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-11-07,Wyoming,MWC,Craig Bohl,H,Utah State,MWC,Matt Wells,L,3,20,20,40,212,0,35,151,0,10,7,10,95,0,2
 2014-11-22,Wyoming,MWC,Craig Bohl,H,Boise State,MWC,Bryan Harsin,L,14,63,16,29,147,0,38,80,2,7,5,3,20,2,1
 2014-11-29,Wyoming,MWC,Craig Bohl,A,New Mexico,MWC,Bob Davie,L,30,36,21,43,366,1,51,175,2,19,7,6,30,0,1
-2014-08-29,Brigham Young,Ind,Bronco Mendenhall,A,Connecticut,American,Bob Diaco,W,35,10,28,36,308,3,37,205,2,13,11,15,150,2,0
-2014-09-06,Brigham Young,Ind,Bronco Mendenhall,A,Texas,Big 12,Charlie Strong,W,41,7,18,28,181,0,60,248,5,12,15,6,40,1,1
-2014-09-11,Brigham Young,Ind,Bronco Mendenhall,H,Houston,American,Tony Levine,W,33,25,21,34,200,1,62,323,3,9,19,11,98,1,2
-2014-09-20,Brigham Young,Ind,Bronco Mendenhall,H,Virginia,ACC,Mike London,W,41,33,13,23,187,2,37,145,2,7,7,12,133,0,0
-2014-10-03,Brigham Young,Ind,Bronco Mendenhall,H,Utah State,MWC,Matt Wells,L,20,35,18,40,271,1,34,154,1,8,12,9,60,1,3
-2014-10-09,Brigham Young,Ind,Bronco Mendenhall,A,UCF,American,George O'Leary,L,24,31,22,37,153,3,49,189,0,7,14,9,71,1,1
-2014-10-18,Brigham Young,Ind,Bronco Mendenhall,H,Nevada,MWC,Brian Polian,L,35,42,39,63,408,4,39,193,1,25,13,6,75,3,0
-2014-10-24,Brigham Young,Ind,Bronco Mendenhall,A,Boise State,MWC,Bryan Harsin,L,30,55,23,38,259,1,26,63,2,12,4,7,70,1,1
-2014-11-01,Brigham Young,Ind,Bronco Mendenhall,A,Middle Tennessee State,CUSA,Rick Stockstill,W,27,7,28,45,316,2,39,128,2,15,9,7,70,0,0
-2014-11-15,Brigham Young,Ind,Bronco Mendenhall,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,42,23,18,32,325,3,41,267,3,12,10,5,50,2,0
-2014-11-29,Brigham Young,Ind,Bronco Mendenhall,A,California,Pac-12,Sonny Dykes,W,42,35,23,38,433,5,39,107,1,16,6,9,90,1,1
-2014-12-22,Brigham Young,Ind,Bronco Mendenhall,N,Memphis,American,Justin Fuente,L,48,55,23,49,348,3,42,77,2,15,6,7,70,1,3
+2014-08-29,BYU,Ind,Bronco Mendenhall,A,Connecticut,American,Bob Diaco,W,35,10,28,36,308,3,37,205,2,13,11,15,150,2,0
+2014-09-06,BYU,Ind,Bronco Mendenhall,A,Texas,Big 12,Charlie Strong,W,41,7,18,28,181,0,60,248,5,12,15,6,40,1,1
+2014-09-11,BYU,Ind,Bronco Mendenhall,H,Houston,American,Tony Levine,W,33,25,21,34,200,1,62,323,3,9,19,11,98,1,2
+2014-09-20,BYU,Ind,Bronco Mendenhall,H,Virginia,ACC,Mike London,W,41,33,13,23,187,2,37,145,2,7,7,12,133,0,0
+2014-10-03,BYU,Ind,Bronco Mendenhall,H,Utah State,MWC,Matt Wells,L,20,35,18,40,271,1,34,154,1,8,12,9,60,1,3
+2014-10-09,BYU,Ind,Bronco Mendenhall,A,UCF,American,George O'Leary,L,24,31,22,37,153,3,49,189,0,7,14,9,71,1,1
+2014-10-18,BYU,Ind,Bronco Mendenhall,H,Nevada,MWC,Brian Polian,L,35,42,39,63,408,4,39,193,1,25,13,6,75,3,0
+2014-10-24,BYU,Ind,Bronco Mendenhall,A,Boise State,MWC,Bryan Harsin,L,30,55,23,38,259,1,26,63,2,12,4,7,70,1,1
+2014-11-01,BYU,Ind,Bronco Mendenhall,A,Middle Tennessee State,CUSA,Rick Stockstill,W,27,7,28,45,316,2,39,128,2,15,9,7,70,0,0
+2014-11-15,BYU,Ind,Bronco Mendenhall,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,42,23,18,32,325,3,41,267,3,12,10,5,50,2,0
+2014-11-29,BYU,Ind,Bronco Mendenhall,A,California,Pac-12,Sonny Dykes,W,42,35,23,38,433,5,39,107,1,16,6,9,90,1,1
+2014-12-22,BYU,Ind,Bronco Mendenhall,N,Memphis,American,Justin Fuente,L,48,55,23,49,348,3,42,77,2,15,6,7,70,1,3
 2014-08-30,Florida Atlantic,CUSA,Charlie Partridge,A,Nebraska,Big Ten,Barney Cotton,L,7,55,11,30,95,1,30,105,0,5,7,3,22,0,0
 2014-09-06,Florida Atlantic,CUSA,Charlie Partridge,A,Alabama,SEC,Nick Saban,L,0,41,12,19,88,0,24,57,0,4,3,3,23,1,0
 2014-09-13,Florida Atlantic,CUSA,Charlie Partridge,H,Tulsa,American,Bill Blankenship,W,50,21,18,23,341,4,42,177,1,11,7,4,37,0,0
@@ -898,7 +898,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-10-25,Nevada-Las Vegas,MWC,Bobby Hauck,A,Utah State,MWC,Matt Wells,L,20,34,22,38,267,3,27,15,0,10,2,4,35,1,2
 2014-11-01,Nevada-Las Vegas,MWC,Bobby Hauck,H,New Mexico,MWC,Bob Davie,L,28,31,28,44,271,0,37,214,4,14,13,10,69,1,2
 2014-11-08,Nevada-Las Vegas,MWC,Bobby Hauck,H,Air Force,MWC,Troy Calhoun,L,21,48,22,45,306,1,30,33,2,12,5,3,30,0,0
-2014-11-15,Nevada-Las Vegas,MWC,Bobby Hauck,A,Brigham Young,Ind,Bronco Mendenhall,L,23,42,20,45,204,1,45,199,1,10,7,6,43,0,1
+2014-11-15,Nevada-Las Vegas,MWC,Bobby Hauck,A,BYU,Ind,Bronco Mendenhall,L,23,42,20,45,204,1,45,199,1,10,7,6,43,0,1
 2014-11-22,Nevada-Las Vegas,MWC,Bobby Hauck,A,Hawaii,MWC,Norm Chow,L,35,37,24,44,423,3,26,51,2,17,4,7,80,0,1
 2014-11-29,Nevada-Las Vegas,MWC,Bobby Hauck,H,Nevada,MWC,Brian Polian,L,27,49,21,39,171,2,36,205,1,9,12,3,35,1,3
 2014-09-06,South Florida,American,Willie Taggart,H,Maryland,Big Ten,Randy Edsall,L,17,24,15,37,174,0,37,83,1,9,6,6,39,0,1
@@ -923,7 +923,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-11-15,Memphis,American,Justin Fuente,A,Tulane,American,Curtis Johnson,W,38,7,14,25,178,1,40,156,2,8,5,4,51,2,0
 2014-11-22,Memphis,American,Justin Fuente,H,South Florida,American,Willie Taggart,W,31,20,18,23,232,2,39,238,2,8,10,6,58,0,0
 2014-11-29,Memphis,American,Justin Fuente,H,Connecticut,American,Bob Diaco,W,41,10,22,41,194,4,44,178,1,10,12,4,40,0,0
-2014-12-22,Memphis,American,Justin Fuente,N,Brigham Young,Ind,Bronco Mendenhall,W,55,48,24,46,306,4,51,174,3,15,8,6,43,2,3
+2014-12-22,Memphis,American,Justin Fuente,N,BYU,Ind,Bronco Mendenhall,W,55,48,24,46,306,4,51,174,3,15,8,6,43,2,3
 2014-09-06,Buffalo,MAC,Jeff Quinn,A,Army,Ind,Jeff Monken,L,39,47,34,50,396,5,29,153,0,21,8,7,59,0,3
 2014-09-12,Buffalo,MAC,Jeff Quinn,H,Baylor,Big 12,Art Briles,L,21,63,18,31,255,2,39,139,1,8,5,8,59,1,0
 2014-09-27,Buffalo,MAC,Jeff Quinn,H,Miami (OH),MAC,Chuck Martin,W,35,27,29,39,302,2,49,273,3,14,14,5,58,0,0
@@ -1089,7 +1089,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-11-28,Iowa,Big Ten,Kirk Ferentz,H,Nebraska,Big Ten,Barney Cotton,L,34,37,19,38,230,2,50,142,0,11,11,3,21,3,1
 2015-01-02,Iowa,Big Ten,Kirk Ferentz,N,Tennessee,SEC,Butch Jones,L,28,45,15,31,177,2,35,244,2,10,9,4,37,1,1
 2014-08-30,Texas,Big 12,Charlie Strong,H,North Texas,CUSA,Dan McCarney,W,38,7,19,34,190,1,40,163,3,10,6,7,65,2,0
-2014-09-06,Texas,Big 12,Charlie Strong,H,Brigham Young,Ind,Bronco Mendenhall,L,7,41,20,31,176,1,35,82,0,9,6,6,64,3,1
+2014-09-06,Texas,Big 12,Charlie Strong,H,BYU,Ind,Bronco Mendenhall,L,7,41,20,31,176,1,35,82,0,9,6,6,64,3,1
 2014-09-13,Texas,Big 12,Charlie Strong,N,UCLA,Pac-12,Jim Mora,L,17,20,24,34,196,2,30,126,0,8,6,7,50,0,0
 2014-09-27,Texas,Big 12,Charlie Strong,A,Kansas,Big 12,Clint Bowen,W,23,0,19,34,218,2,36,111,1,9,8,6,46,1,0
 2014-10-04,Texas,Big 12,Charlie Strong,H,Baylor,Big 12,Art Briles,L,7,28,16,34,144,0,40,190,1,6,9,5,45,1,2
@@ -1440,7 +1440,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-10-04,Middle Tennessee State,CUSA,Rick Stockstill,H,Southern Mississippi,CUSA,Todd Monken,W,37,31,22,27,344,2,39,239,3,13,9,6,49,1,0
 2014-10-11,Middle Tennessee State,CUSA,Rick Stockstill,A,Marshall,CUSA,Doc Holliday,L,24,49,25,37,201,2,37,169,1,8,10,8,101,1,1
 2014-10-18,Middle Tennessee State,CUSA,Rick Stockstill,H,UAB,CUSA,Bill Clark,W,34,22,6,19,141,2,41,229,3,3,8,8,70,0,0
-2014-11-01,Middle Tennessee State,CUSA,Rick Stockstill,H,Brigham Young,Ind,Bronco Mendenhall,L,7,27,16,32,119,1,37,109,0,6,9,2,12,0,2
+2014-11-01,Middle Tennessee State,CUSA,Rick Stockstill,H,BYU,Ind,Bronco Mendenhall,L,7,27,16,32,119,1,37,109,0,6,9,2,12,0,2
 2014-11-15,Middle Tennessee State,CUSA,Rick Stockstill,A,Florida International,CUSA,Ron Turner,L,28,38,21,33,286,3,45,142,1,12,9,7,70,2,3
 2014-11-22,Middle Tennessee State,CUSA,Rick Stockstill,H,Florida Atlantic,CUSA,Charlie Partridge,W,35,34,20,27,160,2,46,310,3,7,15,3,20,1,1
 2014-11-29,Middle Tennessee State,CUSA,Rick Stockstill,A,UTEP,CUSA,Sean Kugler,L,21,24,9,17,99,0,44,259,3,4,14,6,35,0,1
@@ -1506,7 +1506,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2014-11-18,Ohio,MAC,Frank Solich,H,Northern Illinois,MAC,Rod Carey,L,14,21,19,28,141,1,39,203,1,6,15,4,30,1,1
 2014-11-25,Ohio,MAC,Frank Solich,A,Miami (OH),MAC,Chuck Martin,W,24,21,14,26,174,2,40,179,0,7,12,3,24,0,3
 2014-08-29,Houston,American,Tony Levine,H,UTSA,CUSA,Larry Coker,L,7,27,25,50,234,0,23,-26,1,10,4,9,47,2,4
-2014-09-11,Houston,American,Tony Levine,A,Brigham Young,Ind,Bronco Mendenhall,L,25,33,31,53,315,3,13,10,0,14,1,8,83,0,0
+2014-09-11,Houston,American,Tony Levine,A,BYU,Ind,Bronco Mendenhall,L,25,33,31,53,315,3,13,10,0,14,1,8,83,0,0
 2014-09-20,Houston,American,Tony Levine,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,47,14,12,29,135,2,52,399,4,6,19,9,110,0,2
 2014-10-02,Houston,American,Tony Levine,H,UCF,American,George O'Leary,L,12,17,22,43,214,0,33,117,0,7,9,11,99,1,2
 2014-10-11,Houston,American,Tony Levine,A,Memphis,American,Justin Fuente,W,28,24,17,28,188,1,40,166,3,8,6,3,32,2,1

@@ -40,7 +40,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-11-22,Florida State,Ind,Bill Peterson,H,North Carolina State,ACC,Earle Edwards,W,33,22
 1969-11-29,Florida State,Ind,Bill Peterson,A,Houston,Ind,Bill Yeoman,L,13,41
 1969-09-20,Iowa State,Big 8,Johnny Majors,A,Syracuse,Ind,Ben Schwartzwalder,L,13,14
-1969-09-27,Iowa State,Big 8,Johnny Majors,H,Brigham Young,WAC,Tommy Hudspeth,W,10,0
+1969-09-27,Iowa State,Big 8,Johnny Majors,H,BYU,WAC,Tommy Hudspeth,W,10,0
 1969-10-04,Iowa State,Big 8,Johnny Majors,A,Illinois,Big Ten,James Valek,W,48,20
 1969-10-11,Iowa State,Big 8,Johnny Majors,H,Colorado,Big 8,Eddie Crowder,L,0,14
 1969-10-18,Iowa State,Big 8,Johnny Majors,A,Kansas State,Big 8,Vince Gibson,L,7,34
@@ -61,7 +61,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-11-22,Cincinnati,MVC,Ray Callahan,H,Miami (OH),MAC,Bill Mallory,L,20,36
 1969-09-20,Arizona State,WAC,Frank Kush,H,Minnesota,Big Ten,Murray Warmath,W,48,26
 1969-09-27,Arizona State,WAC,Frank Kush,H,Oregon State,Pac-8,Dee Andros,L,7,30
-1969-10-04,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,Tommy Hudspeth,W,23,7
+1969-10-04,Arizona State,WAC,Frank Kush,H,BYU,WAC,Tommy Hudspeth,W,23,7
 1969-10-11,Arizona State,WAC,Frank Kush,A,Utah,WAC,Bill Meek,L,23,24
 1969-10-18,Arizona State,WAC,Frank Kush,A,San Jose State,PCAA,Joe McMullen,W,45,11
 1969-11-01,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Lloyd Eaton,W,30,14
@@ -82,7 +82,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-11-01,Utah,WAC,Bill Meek,H,Utah State,Ind,Chuck Mills,W,27,7
 1969-11-08,Utah,WAC,Bill Meek,H,Wyoming,WAC,Lloyd Eaton,W,34,10
 1969-11-15,Utah,WAC,Bill Meek,A,Arizona,WAC,Bob Weber,L,16,17
-1969-11-22,Utah,WAC,Bill Meek,A,Brigham Young,WAC,Tommy Hudspeth,W,16,6
+1969-11-22,Utah,WAC,Bill Meek,A,BYU,WAC,Tommy Hudspeth,W,16,6
 1969-09-13,Wichita State,MVC,Ben Wilson,H,Utah State,Ind,Chuck Mills,W,17,7
 1969-09-20,Wichita State,MVC,Ben Wilson,A,Florida State,Ind,Bill Peterson,L,0,24
 1969-09-27,Wichita State,MVC,Ben Wilson,A,Colorado State,WAC,Milo Lude,L,21,50
@@ -115,7 +115,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-10-11,Arizona,WAC,Bob Weber,H,Houston,Ind,Bill Yeoman,L,17,34
 1969-10-18,Arizona,WAC,Bob Weber,H,UTEP,WAC,Robert Dobbs,W,26,10
 1969-10-25,Arizona,WAC,Bob Weber,H,New Mexico,WAC,Rudy Feldman,W,52,28
-1969-11-01,Arizona,WAC,Bob Weber,A,Brigham Young,WAC,Tommy Hudspeth,L,21,31
+1969-11-01,Arizona,WAC,Bob Weber,A,BYU,WAC,Tommy Hudspeth,L,21,31
 1969-11-08,Arizona,WAC,Bob Weber,A,Syracuse,Ind,Ben Schwartzwalder,L,0,23
 1969-11-15,Arizona,WAC,Bob Weber,H,Utah,WAC,Bill Meek,W,17,16
 1969-11-29,Arizona,WAC,Bob Weber,A,Arizona State,WAC,Frank Kush,L,24,38
@@ -363,7 +363,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-10-25,Utah State,Ind,Chuck Mills,H,Memphis,MVC,Billy Murphy,L,0,40
 1969-11-01,Utah State,Ind,Chuck Mills,A,Utah,WAC,Bill Meek,L,7,27
 1969-11-08,Utah State,Ind,Chuck Mills,A,Air Force,Ind,Ben Martin,L,13,38
-1969-11-15,Utah State,Ind,Chuck Mills,H,Brigham Young,WAC,Tommy Hudspeth,L,3,21
+1969-11-15,Utah State,Ind,Chuck Mills,H,BYU,WAC,Tommy Hudspeth,L,3,21
 1969-11-22,Utah State,Ind,Chuck Mills,A,Idaho,Ind,Y.C. McNease,W,31,21
 1969-09-20,Missouri,Big 8,Dan Devine,H,Air Force,Ind,Ben Martin,W,19,17
 1969-09-27,Missouri,Big 8,Dan Devine,N,Illinois,Big Ten,James Valek,W,37,6
@@ -383,7 +383,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-10-18,San Jose State,PCAA,Joe McMullen,H,Arizona State,WAC,Frank Kush,L,11,45
 1969-10-25,San Jose State,PCAA,Joe McMullen,A,Wyoming,WAC,Lloyd Eaton,L,7,16
 1969-11-01,San Jose State,PCAA,Joe McMullen,H,New Mexico,WAC,Rudy Feldman,L,24,27
-1969-11-08,San Jose State,PCAA,Joe McMullen,A,Brigham Young,WAC,Tommy Hudspeth,L,3,21
+1969-11-08,San Jose State,PCAA,Joe McMullen,A,BYU,WAC,Tommy Hudspeth,L,3,21
 1969-11-15,San Jose State,PCAA,Joe McMullen,A,California,Pac-8,Ray Willsey,L,7,31
 1969-11-22,San Jose State,PCAA,Joe McMullen,H,Pacific,PCAA,Doug Scovil,W,15,12
 1969-09-20,Bowling Green State,MAC,Don Nehlen,H,Utah State,Ind,Chuck Mills,L,6,14
@@ -455,7 +455,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-09-20,New Mexico,WAC,Rudy Feldman,A,Army,Ind,Thomas Cahill,L,14,31
 1969-09-27,New Mexico,WAC,Rudy Feldman,H,UTEP,WAC,Robert Dobbs,L,6,21
 1969-10-04,New Mexico,WAC,Rudy Feldman,H,Kansas,Big 8,Pepper Rodgers,W,16,7
-1969-10-11,New Mexico,WAC,Rudy Feldman,A,Brigham Young,WAC,Tommy Hudspeth,L,15,41
+1969-10-11,New Mexico,WAC,Rudy Feldman,A,BYU,WAC,Tommy Hudspeth,L,15,41
 1969-10-18,New Mexico,WAC,Rudy Feldman,H,Utah,WAC,Bill Meek,L,0,24
 1969-10-25,New Mexico,WAC,Rudy Feldman,A,Arizona,WAC,Bob Weber,L,28,52
 1969-11-01,New Mexico,WAC,Rudy Feldman,A,San Jose State,PCAA,Joe McMullen,W,27,24
@@ -528,22 +528,22 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-09-27,Wyoming,WAC,Lloyd Eaton,A,Air Force,Ind,Ben Martin,W,27,25
 1969-10-04,Wyoming,WAC,Lloyd Eaton,H,Colorado State,WAC,Milo Lude,W,39,3
 1969-10-11,Wyoming,WAC,Lloyd Eaton,H,UTEP,WAC,Robert Dobbs,W,37,9
-1969-10-18,Wyoming,WAC,Lloyd Eaton,H,Brigham Young,WAC,Tommy Hudspeth,W,40,7
+1969-10-18,Wyoming,WAC,Lloyd Eaton,H,BYU,WAC,Tommy Hudspeth,W,40,7
 1969-10-25,Wyoming,WAC,Lloyd Eaton,H,San Jose State,PCAA,Joe McMullen,W,16,7
 1969-11-01,Wyoming,WAC,Lloyd Eaton,A,Arizona State,WAC,Frank Kush,L,14,30
 1969-11-08,Wyoming,WAC,Lloyd Eaton,A,Utah,WAC,Bill Meek,L,10,34
 1969-11-15,Wyoming,WAC,Lloyd Eaton,A,New Mexico,WAC,Rudy Feldman,L,12,24
 1969-11-22,Wyoming,WAC,Lloyd Eaton,A,Houston,Ind,Bill Yeoman,L,14,41
-1969-09-20,Brigham Young,WAC,Tommy Hudspeth,H,Colorado State,WAC,Milo Lude,W,22,20
-1969-09-27,Brigham Young,WAC,Tommy Hudspeth,A,Iowa State,Big 8,Johnny Majors,L,0,10
-1969-10-04,Brigham Young,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,L,7,23
-1969-10-11,Brigham Young,WAC,Tommy Hudspeth,H,New Mexico,WAC,Rudy Feldman,W,41,15
-1969-10-18,Brigham Young,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,7,40
-1969-10-25,Brigham Young,WAC,Tommy Hudspeth,A,UTEP,WAC,Robert Dobbs,W,30,7
-1969-11-01,Brigham Young,WAC,Tommy Hudspeth,H,Arizona,WAC,Bob Weber,W,31,21
-1969-11-08,Brigham Young,WAC,Tommy Hudspeth,H,San Jose State,PCAA,Joe McMullen,W,21,3
-1969-11-15,Brigham Young,WAC,Tommy Hudspeth,A,Utah State,Ind,Chuck Mills,W,21,3
-1969-11-22,Brigham Young,WAC,Tommy Hudspeth,H,Utah,WAC,Bill Meek,L,6,16
+1969-09-20,BYU,WAC,Tommy Hudspeth,H,Colorado State,WAC,Milo Lude,W,22,20
+1969-09-27,BYU,WAC,Tommy Hudspeth,A,Iowa State,Big 8,Johnny Majors,L,0,10
+1969-10-04,BYU,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,L,7,23
+1969-10-11,BYU,WAC,Tommy Hudspeth,H,New Mexico,WAC,Rudy Feldman,W,41,15
+1969-10-18,BYU,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,7,40
+1969-10-25,BYU,WAC,Tommy Hudspeth,A,UTEP,WAC,Robert Dobbs,W,30,7
+1969-11-01,BYU,WAC,Tommy Hudspeth,H,Arizona,WAC,Bob Weber,W,31,21
+1969-11-08,BYU,WAC,Tommy Hudspeth,H,San Jose State,PCAA,Joe McMullen,W,21,3
+1969-11-15,BYU,WAC,Tommy Hudspeth,A,Utah State,Ind,Chuck Mills,W,21,3
+1969-11-22,BYU,WAC,Tommy Hudspeth,H,Utah,WAC,Bill Meek,L,6,16
 1969-10-04,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,40,21
 1969-10-11,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,Leonard Jardine,W,27,13
 1969-10-18,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Frank Navarro,W,41,6
@@ -721,7 +721,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-10-04,UTEP,WAC,Robert Dobbs,H,Utah,WAC,Bill Meek,L,6,24
 1969-10-11,UTEP,WAC,Robert Dobbs,A,Wyoming,WAC,Lloyd Eaton,L,9,37
 1969-10-18,UTEP,WAC,Robert Dobbs,A,Arizona,WAC,Bob Weber,L,10,26
-1969-10-25,UTEP,WAC,Robert Dobbs,H,Brigham Young,WAC,Tommy Hudspeth,L,7,30
+1969-10-25,UTEP,WAC,Robert Dobbs,H,BYU,WAC,Tommy Hudspeth,L,7,30
 1969-11-01,UTEP,WAC,Robert Dobbs,A,Colorado State,WAC,Milo Lude,W,17,16
 1969-11-08,UTEP,WAC,Robert Dobbs,H,New Mexico State,Ind,Jim Wood,L,38,41
 1969-11-15,UTEP,WAC,Robert Dobbs,H,Arizona State,WAC,Frank Kush,L,19,42
@@ -939,7 +939,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1969-11-15,Colorado,Big 8,Eddie Crowder,H,Oklahoma State,Big 8,Floyd Gass,W,17,14
 1969-11-22,Colorado,Big 8,Eddie Crowder,H,Kansas State,Big 8,Vince Gibson,W,45,32
 1969-12-13,Colorado,Big 8,Eddie Crowder,N,Alabama,SEC,Bear Bryant,W,47,33
-1969-09-20,Colorado State,WAC,Milo Lude,A,Brigham Young,WAC,Tommy Hudspeth,L,20,22
+1969-09-20,Colorado State,WAC,Milo Lude,A,BYU,WAC,Tommy Hudspeth,L,20,22
 1969-09-27,Colorado State,WAC,Milo Lude,H,Wichita State,MVC,Ben Wilson,W,50,21
 1969-10-04,Colorado State,WAC,Milo Lude,A,Wyoming,WAC,Lloyd Eaton,L,3,39
 1969-10-11,Colorado State,WAC,Milo Lude,A,Utah State,Ind,Chuck Mills,W,37,33

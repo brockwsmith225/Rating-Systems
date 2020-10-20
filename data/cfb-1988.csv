@@ -82,7 +82,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-10-29,Utah,WAC,Jim Fassel,H,San Diego State,WAC,Dennis Stolz,W,41,20
 1988-11-05,Utah,WAC,Jim Fassel,H,Colorado State,WAC,Leon Fuller,W,46,7
 1988-11-12,Utah,WAC,Jim Fassel,A,Utah State,Big West,Chuck Shelton,W,42,21
-1988-11-19,Utah,WAC,Jim Fassel,H,Brigham Young,WAC,LaVell Edwards,W,57,28
+1988-11-19,Utah,WAC,Jim Fassel,H,BYU,WAC,LaVell Edwards,W,57,28
 1988-09-03,Cal State Fullerton,Big West,Gene Murphy,A,Louisiana,Ind,Nelson Stokley,L,9,24
 1988-09-10,Cal State Fullerton,Big West,Gene Murphy,A,West Virginia,Ind,Don Nehlen,L,10,45
 1988-09-17,Cal State Fullerton,Big West,Gene Murphy,A,Nevada-Las Vegas,Big West,Wayne Nunnely,W,20,10
@@ -357,7 +357,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-09-03,Utah State,Big West,Chuck Shelton,A,Nebraska,Big 8,Tom Osborne,L,13,63
 1988-09-10,Utah State,Big West,Chuck Shelton,A,Missouri,Big 8,Woody Widenhofer,L,21,35
 1988-09-24,Utah State,Big West,Chuck Shelton,H,New Mexico State,Big West,Mike Knoll,W,32,20
-1988-09-30,Utah State,Big West,Chuck Shelton,A,Brigham Young,WAC,LaVell Edwards,L,3,38
+1988-09-30,Utah State,Big West,Chuck Shelton,A,BYU,WAC,LaVell Edwards,L,3,38
 1988-10-08,Utah State,Big West,Chuck Shelton,H,Long Beach State,Big West,Larry Reisbig,W,31,24
 1988-10-15,Utah State,Big West,Chuck Shelton,A,Fresno State,Big West,Jim Sweeney,L,10,51
 1988-10-22,Utah State,Big West,Chuck Shelton,A,San Jose State,Big West,Claude Gilbert,L,31,36
@@ -439,7 +439,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-10-15,San Diego State,WAC,Dennis Stolz,H,Hawaii,WAC,Bob Wagner,L,30,32
 1988-10-22,San Diego State,WAC,Dennis Stolz,A,Colorado State,WAC,Leon Fuller,L,7,13
 1988-10-29,San Diego State,WAC,Dennis Stolz,A,Utah,WAC,Jim Fassel,L,20,41
-1988-11-05,San Diego State,WAC,Dennis Stolz,H,Brigham Young,WAC,LaVell Edwards,W,27,15
+1988-11-05,San Diego State,WAC,Dennis Stolz,H,BYU,WAC,LaVell Edwards,W,27,15
 1988-11-12,San Diego State,WAC,Dennis Stolz,A,UTEP,WAC,Bob Stull,L,7,58
 1988-11-19,San Diego State,WAC,Dennis Stolz,A,New Mexico,WAC,Mike Sheppard,W,18,10
 1988-09-03,Hawaii,WAC,Bob Wagner,H,Iowa,Big Ten,Hayden Fry,W,27,24
@@ -448,7 +448,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-09-24,Hawaii,WAC,Bob Wagner,A,Utah,WAC,Jim Fassel,W,48,20
 1988-10-08,Hawaii,WAC,Bob Wagner,H,UTEP,WAC,Bob Stull,L,25,42
 1988-10-15,Hawaii,WAC,Bob Wagner,A,San Diego State,WAC,Dennis Stolz,W,32,30
-1988-10-22,Hawaii,WAC,Bob Wagner,H,Brigham Young,WAC,LaVell Edwards,L,23,24
+1988-10-22,Hawaii,WAC,Bob Wagner,H,BYU,WAC,LaVell Edwards,L,23,24
 1988-10-29,Hawaii,WAC,Bob Wagner,H,Long Beach State,Big West,Larry Reisbig,W,34,31
 1988-11-05,Hawaii,WAC,Bob Wagner,H,New Mexico,WAC,Mike Sheppard,W,45,3
 1988-11-19,Hawaii,WAC,Bob Wagner,H,Wyoming,WAC,Paul Roach,L,22,28
@@ -514,7 +514,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-10-08,New Mexico,WAC,Mike Sheppard,H,Utah,WAC,Jim Fassel,L,27,33
 1988-10-15,New Mexico,WAC,Mike Sheppard,A,Wyoming,WAC,Paul Roach,L,7,55
 1988-10-22,New Mexico,WAC,Mike Sheppard,H,UTEP,WAC,Bob Stull,L,0,37
-1988-10-29,New Mexico,WAC,Mike Sheppard,A,Brigham Young,WAC,LaVell Edwards,L,0,65
+1988-10-29,New Mexico,WAC,Mike Sheppard,A,BYU,WAC,LaVell Edwards,L,0,65
 1988-11-05,New Mexico,WAC,Mike Sheppard,A,Hawaii,WAC,Bob Wagner,L,3,45
 1988-11-12,New Mexico,WAC,Mike Sheppard,H,Colorado State,WAC,Leon Fuller,W,24,23
 1988-11-19,New Mexico,WAC,Mike Sheppard,H,San Diego State,WAC,Dennis Stolz,L,10,18
@@ -586,7 +586,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-10-29,Akron,Ind,Gerry Faust,H,Cal State Fullerton,Big West,Gene Murphy,W,15,14
 1988-11-05,Akron,Ind,Gerry Faust,H,New Mexico State,Big West,Mike Knoll,W,52,7
 1988-11-12,Akron,Ind,Gerry Faust,H,Temple,Ind,Bruce Arians,L,17,37
-1988-09-01,Wyoming,WAC,Paul Roach,H,Brigham Young,WAC,LaVell Edwards,W,24,14
+1988-09-01,Wyoming,WAC,Paul Roach,H,BYU,WAC,LaVell Edwards,W,24,14
 1988-09-08,Wyoming,WAC,Paul Roach,A,Louisville,Ind,Howard Schnellenberger,W,44,9
 1988-09-17,Wyoming,WAC,Paul Roach,H,Louisiana Tech,Ind,Joe Peace,W,38,6
 1988-09-24,Wyoming,WAC,Paul Roach,A,Air Force,WAC,Fisher DeBerry,W,48,45
@@ -599,19 +599,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-11-12,Wyoming,WAC,Paul Roach,A,Houston,SWC,Jack Pardee,L,10,34
 1988-11-19,Wyoming,WAC,Paul Roach,A,Hawaii,WAC,Bob Wagner,W,28,22
 1988-12-30,Wyoming,WAC,Paul Roach,N,Oklahoma State,Big 8,Pat Jones,L,14,62
-1988-09-01,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Paul Roach,L,14,24
-1988-09-08,Brigham Young,WAC,LaVell Edwards,H,Texas,SWC,David McWilliams,W,47,6
-1988-09-17,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bob Stull,W,31,27
-1988-09-30,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,38,3
-1988-10-08,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,42,7
-1988-10-15,Brigham Young,WAC,LaVell Edwards,H,Texas Christian,SWC,Jim Wacker,W,31,18
-1988-10-22,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,W,24,23
-1988-10-29,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Mike Sheppard,W,65,0
-1988-11-05,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Dennis Stolz,L,15,27
-1988-11-12,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,49,31
-1988-11-19,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Jim Fassel,L,28,57
-1988-12-03,Brigham Young,WAC,LaVell Edwards,A,Miami (FL),Ind,Jimmy Johnson,L,17,41
-1988-12-29,Brigham Young,WAC,LaVell Edwards,N,Colorado,Big 8,Bill McCartney,W,20,17
+1988-09-01,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Paul Roach,L,14,24
+1988-09-08,BYU,WAC,LaVell Edwards,H,Texas,SWC,David McWilliams,W,47,6
+1988-09-17,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Bob Stull,W,31,27
+1988-09-30,BYU,WAC,LaVell Edwards,H,Utah State,Big West,Chuck Shelton,W,38,3
+1988-10-08,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,42,7
+1988-10-15,BYU,WAC,LaVell Edwards,H,Texas Christian,SWC,Jim Wacker,W,31,18
+1988-10-22,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Bob Wagner,W,24,23
+1988-10-29,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Mike Sheppard,W,65,0
+1988-11-05,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Dennis Stolz,L,15,27
+1988-11-12,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Fisher DeBerry,W,49,31
+1988-11-19,BYU,WAC,LaVell Edwards,A,Utah,WAC,Jim Fassel,L,28,57
+1988-12-03,BYU,WAC,LaVell Edwards,A,Miami (FL),Ind,Jimmy Johnson,L,17,41
+1988-12-29,BYU,WAC,LaVell Edwards,N,Colorado,Big 8,Bill McCartney,W,20,17
 1988-09-17,Georgia Tech,ACC,Bobby Ross,A,Virginia,ACC,George Welsh,L,16,17
 1988-09-24,Georgia Tech,ACC,Bobby Ross,H,Clemson,ACC,Danny Ford,L,13,30
 1988-10-01,Georgia Tech,ACC,Bobby Ross,H,North Carolina State,ACC,Dick Sheridan,L,6,14
@@ -737,7 +737,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-11-12,Western Michigan,MAC,Al Molde,A,Northern Illinois,Ind,Jerry Pettibone,L,7,15
 1988-11-19,Western Michigan,MAC,Al Molde,H,Ohio,MAC,Cleve Bryant,W,23,16
 1988-12-10,Western Michigan,MAC,Al Molde,A,Fresno State,Big West,Jim Sweeney,L,30,35
-1988-09-17,UTEP,WAC,Bob Stull,A,Brigham Young,WAC,LaVell Edwards,L,27,31
+1988-09-17,UTEP,WAC,Bob Stull,A,BYU,WAC,LaVell Edwards,L,27,31
 1988-09-24,UTEP,WAC,Bob Stull,A,Tulsa,Ind,David Rader,W,27,24
 1988-10-01,UTEP,WAC,Bob Stull,H,Utah,WAC,Jim Fassel,W,38,28
 1988-10-08,UTEP,WAC,Bob Stull,A,Hawaii,WAC,Bob Wagner,W,42,25
@@ -784,7 +784,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-11-12,Iowa,Big Ten,Hayden Fry,H,Ohio State,Big Ten,John Cooper,T,24,24
 1988-11-19,Iowa,Big Ten,Hayden Fry,A,Minnesota,Big Ten,John Gutekunst,W,31,22
 1988-12-31,Iowa,Big Ten,Hayden Fry,N,North Carolina State,ACC,Dick Sheridan,L,23,28
-1988-09-08,Texas,SWC,David McWilliams,A,Brigham Young,WAC,LaVell Edwards,L,6,47
+1988-09-08,Texas,SWC,David McWilliams,A,BYU,WAC,LaVell Edwards,L,6,47
 1988-09-17,Texas,SWC,David McWilliams,H,New Mexico,WAC,Mike Sheppard,W,47,0
 1988-10-01,Texas,SWC,David McWilliams,A,Rice,SWC,Jerry Berndt,W,20,13
 1988-10-08,Texas,SWC,David McWilliams,N,Oklahoma,Big 8,Barry Switzer,L,13,28
@@ -799,7 +799,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-09-24,Texas Christian,SWC,Jim Wacker,H,Boston College,Ind,Jack Bicknell,W,31,17
 1988-10-01,Texas Christian,SWC,Jim Wacker,A,Arkansas,SWC,Ken Hatfield,L,10,53
 1988-10-08,Texas Christian,SWC,Jim Wacker,H,Rice,SWC,Jerry Berndt,W,21,10
-1988-10-15,Texas Christian,SWC,Jim Wacker,A,Brigham Young,WAC,LaVell Edwards,L,18,31
+1988-10-15,Texas Christian,SWC,Jim Wacker,A,BYU,WAC,LaVell Edwards,L,18,31
 1988-10-22,Texas Christian,SWC,Jim Wacker,H,Baylor,SWC,Grant Teaff,W,24,14
 1988-10-29,Texas Christian,SWC,Jim Wacker,A,Houston,SWC,Jack Pardee,L,12,40
 1988-11-05,Texas Christian,SWC,Jim Wacker,H,Texas Tech,SWC,Spike Dykes,L,10,23
@@ -814,7 +814,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-10-15,Air Force,WAC,Fisher DeBerry,A,Utah,WAC,Jim Fassel,W,56,49
 1988-10-22,Air Force,WAC,Fisher DeBerry,A,Notre Dame,Ind,Lou Holtz,L,13,41
 1988-11-05,Air Force,WAC,Fisher DeBerry,A,Army,Ind,Jim Young,L,15,28
-1988-11-12,Air Force,WAC,Fisher DeBerry,H,Brigham Young,WAC,LaVell Edwards,L,31,49
+1988-11-12,Air Force,WAC,Fisher DeBerry,H,BYU,WAC,LaVell Edwards,L,31,49
 1988-11-19,Air Force,WAC,Fisher DeBerry,A,UTEP,WAC,Bob Stull,L,24,31
 1988-11-26,Air Force,WAC,Fisher DeBerry,A,Hawaii,WAC,Bob Wagner,L,14,19
 1988-09-03,Miami (FL),Ind,Jimmy Johnson,H,Florida State,Ind,Bobby Bowden,W,31,0
@@ -827,7 +827,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-11-05,Miami (FL),Ind,Jimmy Johnson,H,Tulsa,Ind,David Rader,W,34,3
 1988-11-19,Miami (FL),Ind,Jimmy Johnson,A,LSU,SEC,Mike Archer,W,44,3
 1988-11-26,Miami (FL),Ind,Jimmy Johnson,H,Arkansas,SWC,Ken Hatfield,W,18,16
-1988-12-03,Miami (FL),Ind,Jimmy Johnson,H,Brigham Young,WAC,LaVell Edwards,W,41,17
+1988-12-03,Miami (FL),Ind,Jimmy Johnson,H,BYU,WAC,LaVell Edwards,W,41,17
 1989-01-02,Miami (FL),Ind,Jimmy Johnson,H,Nebraska,Big 8,Tom Osborne,W,23,3
 1988-09-10,Oregon,Pac-10,Rich Brooks,H,Long Beach State,Big West,Larry Reisbig,W,49,0
 1988-09-17,Oregon,Pac-10,Rich Brooks,A,Washington State,Pac-10,Dennis Erickson,W,43,28
@@ -933,12 +933,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1988-11-05,Colorado,Big 8,Bill McCartney,A,Missouri,Big 8,Woody Widenhofer,W,45,8
 1988-11-12,Colorado,Big 8,Bill McCartney,A,Nebraska,Big 8,Tom Osborne,L,0,7
 1988-11-19,Colorado,Big 8,Bill McCartney,H,Kansas State,Big 8,Stan Parrish,W,56,14
-1988-12-29,Colorado,Big 8,Bill McCartney,N,Brigham Young,WAC,LaVell Edwards,L,17,20
+1988-12-29,Colorado,Big 8,Bill McCartney,N,BYU,WAC,LaVell Edwards,L,17,20
 1988-09-03,Colorado State,WAC,Leon Fuller,H,Air Force,WAC,Fisher DeBerry,L,23,29
 1988-09-10,Colorado State,WAC,Leon Fuller,H,Hawaii,WAC,Bob Wagner,L,23,31
 1988-09-17,Colorado State,WAC,Leon Fuller,A,Arizona State,Pac-10,Larry Marmie,L,17,28
 1988-10-01,Colorado State,WAC,Leon Fuller,H,Colorado,Big 8,Bill McCartney,L,23,27
-1988-10-08,Colorado State,WAC,Leon Fuller,A,Brigham Young,WAC,LaVell Edwards,L,7,42
+1988-10-08,Colorado State,WAC,Leon Fuller,A,BYU,WAC,LaVell Edwards,L,7,42
 1988-10-15,Colorado State,WAC,Leon Fuller,A,UTEP,WAC,Bob Stull,L,14,34
 1988-10-22,Colorado State,WAC,Leon Fuller,H,San Diego State,WAC,Dennis Stolz,W,13,7
 1988-10-29,Colorado State,WAC,Leon Fuller,H,Wyoming,WAC,Paul Roach,L,14,48

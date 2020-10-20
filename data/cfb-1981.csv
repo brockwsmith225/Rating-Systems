@@ -93,7 +93,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-10-31,Utah,WAC,Wayne Howard,H,San Diego State,WAC,Doug Scovil,W,17,14
 1981-11-07,Utah,WAC,Wayne Howard,A,New Mexico,WAC,Joe Morrison,T,7,7
 1981-11-14,Utah,WAC,Wayne Howard,H,Wyoming,WAC,Al Kincaid,W,30,27
-1981-11-21,Utah,WAC,Wayne Howard,A,Brigham Young,WAC,LaVell Edwards,L,28,56
+1981-11-21,Utah,WAC,Wayne Howard,A,BYU,WAC,LaVell Edwards,L,28,56
 1981-09-05,Cal State Fullerton,PCAA,Gene Murphy,A,Wyoming,WAC,Al Kincaid,L,13,38
 1981-09-12,Cal State Fullerton,PCAA,Gene Murphy,A,Utah State,PCAA,Bruce Snyder,L,9,14
 1981-09-19,Cal State Fullerton,PCAA,Gene Murphy,A,Hawaii,WAC,Dick Tomey,L,12,38
@@ -227,7 +227,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-11-07,Washington State,Pac-10,Jim Walden,H,Oregon,Pac-10,Rich Brooks,W,39,7
 1981-11-14,Washington State,Pac-10,Jim Walden,H,California,Pac-10,Roger Theder,W,19,0
 1981-11-21,Washington State,Pac-10,Jim Walden,A,Washington,Pac-10,Don James,L,10,23
-1981-12-18,Washington State,Pac-10,Jim Walden,N,Brigham Young,WAC,LaVell Edwards,L,36,38
+1981-12-18,Washington State,Pac-10,Jim Walden,N,BYU,WAC,LaVell Edwards,L,36,38
 1981-09-05,Illinois,Big Ten,Mike White,A,Pitt,Ind,Jackie Sherrill,L,6,26
 1981-09-12,Illinois,Big Ten,Mike White,A,Michigan State,Big Ten,Frank Waters,W,27,17
 1981-09-19,Illinois,Big Ten,Mike White,H,Syracuse,Ind,Dick MacPherson,W,17,14
@@ -431,7 +431,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-11-21,Southern Mississippi,Ind,Bobby Collins,A,Louisville,Ind,Bob Weber,L,10,13
 1981-11-28,Southern Mississippi,Ind,Bobby Collins,H,Lamar,Southland,Bob Frederick,W,45,14
 1981-12-19,Southern Mississippi,Ind,Bobby Collins,N,Missouri,Big 8,Warren Powers,L,17,19
-1981-09-05,Long Beach State,PCAA,Dave Currey,H,Brigham Young,WAC,LaVell Edwards,L,8,31
+1981-09-05,Long Beach State,PCAA,Dave Currey,H,BYU,WAC,LaVell Edwards,L,8,31
 1981-09-12,Long Beach State,PCAA,Dave Currey,A,Northern Illinois,MAC,Bill Mallory,W,17,7
 1981-09-19,Long Beach State,PCAA,Dave Currey,A,Louisville,Ind,Bob Weber,L,13,35
 1981-09-26,Long Beach State,PCAA,Dave Currey,A,Nevada-Las Vegas,Ind,Tony Knap,L,31,32
@@ -444,7 +444,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-09-05,Utah State,PCAA,Bruce Snyder,A,Utah,WAC,Wayne Howard,L,0,10
 1981-09-12,Utah State,PCAA,Bruce Snyder,H,Cal State Fullerton,PCAA,Gene Murphy,W,14,9
 1981-09-26,Utah State,PCAA,Bruce Snyder,A,Houston,SWC,Bill Yeoman,L,7,35
-1981-10-02,Utah State,PCAA,Bruce Snyder,A,Brigham Young,WAC,LaVell Edwards,L,26,32
+1981-10-02,Utah State,PCAA,Bruce Snyder,A,BYU,WAC,LaVell Edwards,L,26,32
 1981-10-10,Utah State,PCAA,Bruce Snyder,A,Pacific,PCAA,Bob Toledo,W,17,14
 1981-10-17,Utah State,PCAA,Bruce Snyder,A,Texas Christian,SWC,F. Dry,T,13,13
 1981-10-24,Utah State,PCAA,Bruce Snyder,H,San Jose State,PCAA,Jack Elway,L,24,27
@@ -523,7 +523,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-09-26,San Diego State,WAC,Doug Scovil,A,Oklahoma State,Big 8,Jimmy Johnson,W,23,16
 1981-10-03,San Diego State,WAC,Doug Scovil,A,New Mexico,WAC,Joe Morrison,W,17,15
 1981-10-10,San Diego State,WAC,Doug Scovil,H,Iowa State,Big 8,Donnie Duncan,W,52,31
-1981-10-17,San Diego State,WAC,Doug Scovil,H,Brigham Young,WAC,LaVell Edwards,L,7,27
+1981-10-17,San Diego State,WAC,Doug Scovil,H,BYU,WAC,LaVell Edwards,L,7,27
 1981-10-24,San Diego State,WAC,Doug Scovil,H,Hawaii,WAC,Dick Tomey,L,10,28
 1981-10-31,San Diego State,WAC,Doug Scovil,A,Utah,WAC,Wayne Howard,L,14,17
 1981-11-07,San Diego State,WAC,Doug Scovil,H,Wyoming,WAC,Al Kincaid,L,13,24
@@ -536,7 +536,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-10-24,Hawaii,WAC,Dick Tomey,A,San Diego State,WAC,Doug Scovil,W,28,10
 1981-10-31,Hawaii,WAC,Dick Tomey,H,Nevada-Las Vegas,Ind,Tony Knap,W,57,21
 1981-11-07,Hawaii,WAC,Dick Tomey,A,UTEP,WAC,Billy Alton,W,35,7
-1981-11-14,Hawaii,WAC,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,3,13
+1981-11-14,Hawaii,WAC,Dick Tomey,H,BYU,WAC,LaVell Edwards,L,3,13
 1981-11-21,Hawaii,WAC,Dick Tomey,H,Pacific,PCAA,Bob Toledo,L,17,23
 1981-11-28,Hawaii,WAC,Dick Tomey,H,Colorado State,WAC,Chester Caddas,W,59,6
 1981-12-05,Hawaii,WAC,Dick Tomey,H,South Carolina,Ind,Jim Carlen,W,33,10
@@ -601,7 +601,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-10-10,New Mexico,WAC,Joe Morrison,H,UTEP,WAC,Billy Alton,W,26,3
 1981-10-17,New Mexico,WAC,Joe Morrison,A,Hawaii,WAC,Dick Tomey,L,13,23
 1981-10-24,New Mexico,WAC,Joe Morrison,A,New Mexico State,MVC,Gil Krueger,W,17,13
-1981-10-31,New Mexico,WAC,Joe Morrison,A,Brigham Young,WAC,LaVell Edwards,L,7,31
+1981-10-31,New Mexico,WAC,Joe Morrison,A,BYU,WAC,LaVell Edwards,L,7,31
 1981-11-07,New Mexico,WAC,Joe Morrison,H,Utah,WAC,Wayne Howard,T,7,7
 1981-11-14,New Mexico,WAC,Joe Morrison,A,Colorado State,WAC,Chester Caddas,W,28,16
 1981-11-21,New Mexico,WAC,Joe Morrison,H,Wyoming,WAC,Al Kincaid,L,12,13
@@ -700,24 +700,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-10-03,Wyoming,WAC,Al Kincaid,H,Nevada-Las Vegas,Ind,Tony Knap,W,45,21
 1981-10-10,Wyoming,WAC,Al Kincaid,H,Hawaii,WAC,Dick Tomey,L,9,14
 1981-10-17,Wyoming,WAC,Al Kincaid,H,UTEP,WAC,Billy Alton,W,63,12
-1981-10-24,Wyoming,WAC,Al Kincaid,H,Brigham Young,WAC,LaVell Edwards,W,33,20
+1981-10-24,Wyoming,WAC,Al Kincaid,H,BYU,WAC,LaVell Edwards,W,33,20
 1981-10-31,Wyoming,WAC,Al Kincaid,H,Colorado State,WAC,Chester Caddas,W,55,21
 1981-11-07,Wyoming,WAC,Al Kincaid,A,San Diego State,WAC,Doug Scovil,W,24,13
 1981-11-14,Wyoming,WAC,Al Kincaid,A,Utah,WAC,Wayne Howard,L,27,30
 1981-11-21,Wyoming,WAC,Al Kincaid,A,New Mexico,WAC,Joe Morrison,W,13,12
-1981-09-05,Brigham Young,WAC,LaVell Edwards,A,Long Beach State,PCAA,Dave Currey,W,31,8
-1981-09-12,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Ken Hatfield,W,45,21
-1981-09-19,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Billy Alton,W,65,8
-1981-09-26,Brigham Young,WAC,LaVell Edwards,A,Colorado,Big 8,Chuck Fairbanks,W,41,20
-1981-10-02,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Bruce Snyder,W,32,26
-1981-10-10,Brigham Young,WAC,LaVell Edwards,H,Nevada-Las Vegas,Ind,Tony Knap,L,41,45
-1981-10-17,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Doug Scovil,W,27,7
-1981-10-24,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Al Kincaid,L,20,33
-1981-10-31,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Morrison,W,31,7
-1981-11-07,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Chester Caddas,W,63,14
-1981-11-14,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,13,3
-1981-11-21,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Wayne Howard,W,56,28
-1981-12-18,Brigham Young,WAC,LaVell Edwards,N,Washington State,Pac-10,Jim Walden,W,38,36
+1981-09-05,BYU,WAC,LaVell Edwards,A,Long Beach State,PCAA,Dave Currey,W,31,8
+1981-09-12,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Ken Hatfield,W,45,21
+1981-09-19,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Billy Alton,W,65,8
+1981-09-26,BYU,WAC,LaVell Edwards,A,Colorado,Big 8,Chuck Fairbanks,W,41,20
+1981-10-02,BYU,WAC,LaVell Edwards,H,Utah State,PCAA,Bruce Snyder,W,32,26
+1981-10-10,BYU,WAC,LaVell Edwards,H,Nevada-Las Vegas,Ind,Tony Knap,L,41,45
+1981-10-17,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Doug Scovil,W,27,7
+1981-10-24,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Al Kincaid,L,20,33
+1981-10-31,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Morrison,W,31,7
+1981-11-07,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Chester Caddas,W,63,14
+1981-11-14,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,13,3
+1981-11-21,BYU,WAC,LaVell Edwards,H,Utah,WAC,Wayne Howard,W,56,28
+1981-12-18,BYU,WAC,LaVell Edwards,N,Washington State,Pac-10,Jim Walden,W,38,36
 1981-09-19,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,John Anderson,W,28,7
 1981-10-03,Yale,Ivy,Carmen Cozza,H,Navy,Ind,George Welsh,W,23,19
 1981-10-10,Yale,Ivy,Carmen Cozza,A,Holy Cross,Ind,Rick Carter,W,29,28
@@ -777,7 +777,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-09-19,Nevada-Las Vegas,Ind,Tony Knap,H,West Texas A&M,MVC,,L,17,21
 1981-09-26,Nevada-Las Vegas,Ind,Tony Knap,H,Long Beach State,PCAA,Dave Currey,W,32,31
 1981-10-03,Nevada-Las Vegas,Ind,Tony Knap,A,Wyoming,WAC,Al Kincaid,L,21,45
-1981-10-10,Nevada-Las Vegas,Ind,Tony Knap,A,Brigham Young,WAC,LaVell Edwards,W,45,41
+1981-10-10,Nevada-Las Vegas,Ind,Tony Knap,A,BYU,WAC,LaVell Edwards,W,45,41
 1981-10-24,Nevada-Las Vegas,Ind,Tony Knap,H,Utah,WAC,Wayne Howard,L,28,69
 1981-10-31,Nevada-Las Vegas,Ind,Tony Knap,A,Hawaii,WAC,Dick Tomey,L,21,57
 1981-11-07,Nevada-Las Vegas,Ind,Tony Knap,A,Fresno State,PCAA,Jim Sweeney,L,26,42
@@ -929,7 +929,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-11-14,William & Mary,Ind,Jimmye Laycock,A,East Carolina,Ind,Ed Emory,W,31,21
 1981-11-21,William & Mary,Ind,Jimmye Laycock,H,Richmond,Ind,Dal Shealy,W,35,21
 1981-09-05,UTEP,WAC,Billy Alton,H,New Mexico State,MVC,Gil Krueger,L,7,14
-1981-09-19,UTEP,WAC,Billy Alton,H,Brigham Young,WAC,LaVell Edwards,L,8,65
+1981-09-19,UTEP,WAC,Billy Alton,H,BYU,WAC,LaVell Edwards,L,8,65
 1981-10-02,UTEP,WAC,Billy Alton,A,Utah,WAC,Wayne Howard,L,10,38
 1981-10-10,UTEP,WAC,Billy Alton,A,New Mexico,WAC,Joe Morrison,L,3,26
 1981-10-17,UTEP,WAC,Billy Alton,A,Wyoming,WAC,Al Kincaid,L,12,63
@@ -1022,7 +1022,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-11-07,Texas Christian,SWC,F. Dry,A,Texas Tech,SWC,Jerry Moore,T,39,39
 1981-11-14,Texas Christian,SWC,F. Dry,A,Texas,SWC,Fred Akers,L,15,31
 1981-11-21,Texas Christian,SWC,F. Dry,H,Texas A&M,SWC,Tom Wilson,L,7,37
-1981-09-12,Air Force,WAC,Ken Hatfield,A,Brigham Young,WAC,LaVell Edwards,L,21,45
+1981-09-12,Air Force,WAC,Ken Hatfield,A,BYU,WAC,LaVell Edwards,L,21,45
 1981-09-19,Air Force,WAC,Ken Hatfield,H,Wyoming,WAC,Al Kincaid,L,10,17
 1981-09-26,Air Force,WAC,Ken Hatfield,A,New Mexico,WAC,Joe Morrison,L,10,27
 1981-10-03,Air Force,WAC,Ken Hatfield,H,Colorado State,WAC,Chester Caddas,W,28,14
@@ -1196,7 +1196,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-11-14,East Tennessee State,Southern,Jack Carlisle,H,Appalachian State,Southern,Mike Working,W,21,14
 1981-09-12,Colorado,Big 8,Chuck Fairbanks,H,Texas Tech,SWC,Jerry Moore,W,45,27
 1981-09-19,Colorado,Big 8,Chuck Fairbanks,H,Washington State,Pac-10,Jim Walden,L,10,14
-1981-09-26,Colorado,Big 8,Chuck Fairbanks,H,Brigham Young,WAC,LaVell Edwards,L,20,41
+1981-09-26,Colorado,Big 8,Chuck Fairbanks,H,BYU,WAC,LaVell Edwards,L,20,41
 1981-10-03,Colorado,Big 8,Chuck Fairbanks,A,UCLA,Pac-10,Terry Donahue,L,7,27
 1981-10-10,Colorado,Big 8,Chuck Fairbanks,A,Nebraska,Big 8,Tom Osborne,L,0,59
 1981-10-17,Colorado,Big 8,Chuck Fairbanks,H,Oklahoma State,Big 8,Jimmy Johnson,W,11,10
@@ -1213,7 +1213,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1981-10-17,Colorado State,WAC,Chester Caddas,H,Utah,WAC,Wayne Howard,L,13,24
 1981-10-24,Colorado State,WAC,Chester Caddas,A,UTEP,WAC,Billy Alton,L,29,35
 1981-10-31,Colorado State,WAC,Chester Caddas,A,Wyoming,WAC,Al Kincaid,L,21,55
-1981-11-07,Colorado State,WAC,Chester Caddas,H,Brigham Young,WAC,LaVell Edwards,L,14,63
+1981-11-07,Colorado State,WAC,Chester Caddas,H,BYU,WAC,LaVell Edwards,L,14,63
 1981-11-14,Colorado State,WAC,Chester Caddas,H,New Mexico,WAC,Joe Morrison,L,16,28
 1981-11-21,Colorado State,WAC,Chester Caddas,A,Arizona State,Pac-10,Darryl Rogers,L,7,52
 1981-11-28,Colorado State,WAC,Chester Caddas,A,Hawaii,WAC,Dick Tomey,L,6,59

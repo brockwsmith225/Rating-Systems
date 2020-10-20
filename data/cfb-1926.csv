@@ -32,10 +32,10 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1926-10-23,Utah,RMC,Ike Armstrong,A,Colorado,RMC,Myron Witham,W,37,3
 1926-10-30,Utah,RMC,Ike Armstrong,H,Colorado State,RMC,Harry Hughes,W,10,6
 1926-11-06,Utah,RMC,Ike Armstrong,A,Denver,RMC,Fred Dawson,W,13,0
-1926-11-13,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,C.J. Hart,W,40,7
+1926-11-13,Utah,RMC,Ike Armstrong,H,BYU,RMC,C.J. Hart,W,40,7
 1926-11-25,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,34,0
 1926-10-02,Northern Colorado,RMC,George Cooper,A,Iowa,Western,Burton Ingwersen,L,0,24
-1926-10-09,Northern Colorado,RMC,George Cooper,H,Brigham Young,RMC,C.J. Hart,W,12,6
+1926-10-09,Northern Colorado,RMC,George Cooper,H,BYU,RMC,C.J. Hart,W,12,6
 1926-10-16,Northern Colorado,RMC,George Cooper,A,Colorado Mines,RMC,William Courtright,W,26,7
 1926-10-23,Northern Colorado,RMC,George Cooper,A,Denver,RMC,Fred Dawson,L,0,22
 1926-10-30,Northern Colorado,RMC,George Cooper,A,Montana State,RMC,Ott Romney,L,6,9
@@ -116,7 +116,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1926-11-13,Washington State,PCC,O.E. Hollingbery,H,Oregon,PCC,John McEwan,W,7,0
 1926-10-02,Western State,RMC,Eugene Maynor,A,Colorado College,RMC,W.T. VandeGraaff,L,0,3
 1926-10-09,Western State,RMC,Eugene Maynor,A,Denver,RMC,Fred Dawson,L,13,21
-1926-10-23,Western State,RMC,Eugene Maynor,H,Brigham Young,RMC,C.J. Hart,L,0,30
+1926-10-23,Western State,RMC,Eugene Maynor,H,BYU,RMC,C.J. Hart,L,0,30
 1926-10-30,Western State,RMC,Eugene Maynor,H,Colorado Mines,RMC,William Courtright,L,0,10
 1926-11-06,Western State,RMC,Eugene Maynor,A,Northern Colorado,RMC,George Cooper,L,0,48
 1926-11-13,Western State,RMC,Eugene Maynor,A,Utah State,RMC,,L,0,31
@@ -214,7 +214,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1926-11-13,Washington,PCC,Enoch Bagshaw,A,Stanford,PCC,Pop Warner,L,10,29
 1926-11-25,Washington,PCC,Enoch Bagshaw,H,Nebraska,MVIAA,Ernest Bearg,W,10,6
 1926-10-09,Utah State,RMC,,H,Colorado College,RMC,W.T. VandeGraaff,W,7,0
-1926-10-15,Utah State,RMC,,A,Brigham Young,RMC,C.J. Hart,T,0,0
+1926-10-15,Utah State,RMC,,A,BYU,RMC,C.J. Hart,T,0,0
 1926-10-23,Utah State,RMC,,A,Wyoming,RMC,William Dietz,T,6,6
 1926-10-30,Utah State,RMC,,A,Denver,RMC,Fred Dawson,W,7,3
 1926-11-06,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,W,13,0
@@ -232,7 +232,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1926-10-09,Montana State,RMC,Ott Romney,A,Colorado,RMC,Myron Witham,W,6,3
 1926-10-23,Montana State,RMC,Ott Romney,N,Montana,PCC,Frank Millburn,L,0,27
 1926-10-30,Montana State,RMC,Ott Romney,H,Northern Colorado,RMC,George Cooper,W,9,6
-1926-11-06,Montana State,RMC,Ott Romney,H,Brigham Young,RMC,C.J. Hart,W,27,0
+1926-11-06,Montana State,RMC,Ott Romney,H,BYU,RMC,C.J. Hart,W,27,0
 1926-11-13,Montana State,RMC,Ott Romney,A,Wyoming,RMC,William Dietz,W,10,0
 1926-10-02,Denver,RMC,Fred Dawson,H,Colorado Mines,RMC,William Courtright,W,27,7
 1926-10-09,Denver,RMC,Fred Dawson,H,Western State,RMC,Eugene Maynor,W,21,13
@@ -312,12 +312,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1926-11-06,Wyoming,RMC,William Dietz,A,Colorado College,RMC,W.T. VandeGraaff,L,0,26
 1926-11-13,Wyoming,RMC,William Dietz,H,Montana State,RMC,Ott Romney,L,0,10
 1926-11-25,Wyoming,RMC,William Dietz,H,Western State,RMC,Eugene Maynor,W,71,0
-1926-10-09,Brigham Young,RMC,C.J. Hart,A,Northern Colorado,RMC,George Cooper,L,6,12
-1926-10-15,Brigham Young,RMC,C.J. Hart,H,Utah State,RMC,,T,0,0
-1926-10-23,Brigham Young,RMC,C.J. Hart,A,Western State,RMC,Eugene Maynor,W,30,0
-1926-11-06,Brigham Young,RMC,C.J. Hart,A,Montana State,RMC,Ott Romney,L,0,27
-1926-11-13,Brigham Young,RMC,C.J. Hart,A,Utah,RMC,Ike Armstrong,L,7,40
-1926-11-20,Brigham Young,RMC,C.J. Hart,H,Colorado State,RMC,Harry Hughes,L,6,19
+1926-10-09,BYU,RMC,C.J. Hart,A,Northern Colorado,RMC,George Cooper,L,6,12
+1926-10-15,BYU,RMC,C.J. Hart,H,Utah State,RMC,,T,0,0
+1926-10-23,BYU,RMC,C.J. Hart,A,Western State,RMC,Eugene Maynor,W,30,0
+1926-11-06,BYU,RMC,C.J. Hart,A,Montana State,RMC,Ott Romney,L,0,27
+1926-11-13,BYU,RMC,C.J. Hart,A,Utah,RMC,Ike Armstrong,L,7,40
+1926-11-20,BYU,RMC,C.J. Hart,H,Colorado State,RMC,Harry Hughes,L,6,19
 1926-10-09,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,W,19,0
 1926-10-16,Yale,Ind,Tad Jones,H,Dartmouth,Ind,Jesse Hawley,W,14,7
 1926-10-23,Yale,Ind,Tad Jones,H,Brown,Ind,DeOrmond McLaughry,L,0,7
@@ -498,7 +498,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1926-10-30,Colorado State,RMC,Harry Hughes,A,Utah,RMC,Ike Armstrong,L,6,10
 1926-11-06,Colorado State,RMC,Harry Hughes,H,Utah State,RMC,,L,0,13
 1926-11-13,Colorado State,RMC,Harry Hughes,A,Colorado,RMC,Myron Witham,W,3,0
-1926-11-20,Colorado State,RMC,Harry Hughes,A,Brigham Young,RMC,C.J. Hart,W,19,6
+1926-11-20,Colorado State,RMC,Harry Hughes,A,BYU,RMC,C.J. Hart,W,19,6
 1926-10-23,Rice,SWC,John Heisman,H,Texas,SWC,Edward Stewart,L,0,20
 1926-11-06,Rice,SWC,John Heisman,A,SMU,SWC,Ray Morrison,L,0,20
 1926-11-12,Rice,SWC,John Heisman,A,Texas A&M,SWC,Dana Bible,L,0,20

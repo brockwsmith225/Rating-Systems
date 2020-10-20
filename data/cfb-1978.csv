@@ -66,7 +66,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-11-18,Cincinnati,Ind,Ralph Staub,A,Miami (OH),MAC,Tom Reed,L,24,28
 1978-11-25,Cincinnati,Ind,Ralph Staub,A,Memphis,Ind,Richard Williamson,W,34,14
 1978-09-09,Arizona State,Pac-10,Frank Kush,H,Pacific,PCAA,Chester Caddas,W,42,7
-1978-09-16,Arizona State,Pac-10,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,24,17
+1978-09-16,Arizona State,Pac-10,Frank Kush,H,BYU,WAC,LaVell Edwards,W,24,17
 1978-09-23,Arizona State,Pac-10,Frank Kush,A,Washington State,Pac-10,Jim Walden,L,26,51
 1978-09-30,Arizona State,Pac-10,Frank Kush,H,UTEP,WAC,Bill Michael,W,27,0
 1978-10-07,Arizona State,Pac-10,Frank Kush,A,Northwestern,Big Ten,Rick Venturi,W,56,14
@@ -90,7 +90,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-10-21,Utah,WAC,Wayne Howard,A,Wyoming,WAC,Bill Lewis,L,21,34
 1978-11-04,Utah,WAC,Wayne Howard,H,New Mexico,WAC,Bill Mondt,L,12,24
 1978-11-11,Utah,WAC,Wayne Howard,A,UTEP,WAC,Bill Michael,W,38,0
-1978-11-18,Utah,WAC,Wayne Howard,H,Brigham Young,WAC,LaVell Edwards,W,23,22
+1978-11-18,Utah,WAC,Wayne Howard,H,BYU,WAC,LaVell Edwards,W,23,22
 1978-11-25,Utah,WAC,Wayne Howard,A,Utah State,PCAA,Bruce Snyder,W,23,20
 1978-12-02,Utah,WAC,Wayne Howard,A,San Diego State,WAC,Claude Gilbert,W,20,18
 1978-09-30,Cal State Fullerton,PCAA,Jim Colletto,A,Hawaii,Ind,Dick Tomey,L,33,42
@@ -451,7 +451,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-09-16,Utah State,PCAA,Bruce Snyder,A,Colorado State,WAC,Sarkis Arslanian,W,21,20
 1978-09-23,Utah State,PCAA,Bruce Snyder,H,Fresno State,PCAA,Bob Padilla,W,45,22
 1978-09-30,Utah State,PCAA,Bruce Snyder,A,Wyoming,WAC,Bill Lewis,W,20,13
-1978-10-07,Utah State,PCAA,Bruce Snyder,A,Brigham Young,WAC,LaVell Edwards,W,24,7
+1978-10-07,Utah State,PCAA,Bruce Snyder,A,BYU,WAC,LaVell Edwards,W,24,7
 1978-10-14,Utah State,PCAA,Bruce Snyder,H,Long Beach State,PCAA,Dave Currey,L,17,33
 1978-10-21,Utah State,PCAA,Bruce Snyder,A,Miami (FL),Ind,Lou Saban,L,16,17
 1978-10-28,Utah State,PCAA,Bruce Snyder,H,San Jose State,PCAA,Lynn Stiles,W,31,21
@@ -530,7 +530,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-10-21,San Diego State,WAC,Claude Gilbert,H,Pacific,PCAA,Chester Caddas,W,31,28
 1978-10-28,San Diego State,WAC,Claude Gilbert,A,Long Beach State,PCAA,Dave Currey,L,25,27
 1978-11-04,San Diego State,WAC,Claude Gilbert,H,Colorado State,WAC,Sarkis Arslanian,W,34,31
-1978-11-11,San Diego State,WAC,Claude Gilbert,A,Brigham Young,WAC,LaVell Edwards,L,3,21
+1978-11-11,San Diego State,WAC,Claude Gilbert,A,BYU,WAC,LaVell Edwards,L,3,21
 1978-11-18,San Diego State,WAC,Claude Gilbert,A,Miami (FL),Ind,Lou Saban,L,14,16
 1978-11-25,San Diego State,WAC,Claude Gilbert,H,New Mexico,WAC,Bill Mondt,W,27,24
 1978-12-02,San Diego State,WAC,Claude Gilbert,H,Utah,WAC,Wayne Howard,L,18,20
@@ -543,7 +543,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-11-04,Hawaii,Ind,Dick Tomey,H,UTEP,WAC,Bill Michael,W,35,13
 1978-11-11,Hawaii,Ind,Dick Tomey,H,New Mexico State,MVC,Gil Krueger,W,35,20
 1978-11-18,Hawaii,Ind,Dick Tomey,H,Wyoming,WAC,Bill Lewis,W,27,22
-1978-11-25,Hawaii,Ind,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,13,31
+1978-11-25,Hawaii,Ind,Dick Tomey,H,BYU,WAC,LaVell Edwards,L,13,31
 1978-12-02,Hawaii,Ind,Dick Tomey,H,USC,Pac-10,John Robinson,L,5,21
 1978-09-09,Rutgers,Ind,Frank Burns,A,Penn State,Ind,Joe Paterno,L,10,26
 1978-09-30,Rutgers,Ind,Frank Burns,N,Princeton,Ivy,Frank Navarro,W,24,0
@@ -604,7 +604,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-09-09,New Mexico,WAC,Bill Mondt,A,Hawaii,Ind,Dick Tomey,L,16,22
 1978-09-16,New Mexico,WAC,Bill Mondt,A,Wichita State,MVC,Jim Wright,W,16,14
 1978-09-23,New Mexico,WAC,Bill Mondt,H,Nevada-Las Vegas,Ind,Tony Knap,W,24,0
-1978-09-30,New Mexico,WAC,Bill Mondt,H,Brigham Young,WAC,LaVell Edwards,L,23,27
+1978-09-30,New Mexico,WAC,Bill Mondt,H,BYU,WAC,LaVell Edwards,L,23,27
 1978-10-07,New Mexico,WAC,Bill Mondt,A,Wyoming,WAC,Bill Lewis,W,19,15
 1978-10-14,New Mexico,WAC,Bill Mondt,H,Texas Tech,SWC,Rex Dockery,L,23,36
 1978-10-21,New Mexico,WAC,Bill Mondt,H,New Mexico State,MVC,Gil Krueger,W,35,20
@@ -710,24 +710,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-10-14,Wyoming,WAC,Bill Lewis,H,San Diego State,WAC,Claude Gilbert,W,31,22
 1978-10-21,Wyoming,WAC,Bill Lewis,H,Utah,WAC,Wayne Howard,W,34,21
 1978-10-28,Wyoming,WAC,Bill Lewis,A,Colorado State,WAC,Sarkis Arslanian,W,13,3
-1978-11-04,Wyoming,WAC,Bill Lewis,A,Brigham Young,WAC,LaVell Edwards,L,14,48
+1978-11-04,Wyoming,WAC,Bill Lewis,A,BYU,WAC,LaVell Edwards,L,14,48
 1978-11-11,Wyoming,WAC,Bill Lewis,A,Nevada-Las Vegas,Ind,Tony Knap,L,10,12
 1978-11-18,Wyoming,WAC,Bill Lewis,A,Hawaii,Ind,Dick Tomey,L,22,27
 1978-11-25,Wyoming,WAC,Bill Lewis,A,UTEP,WAC,Bill Michael,W,51,21
 1978-12-02,Wyoming,WAC,Bill Lewis,A,LSU,SEC,Charles McClendon,L,17,24
-1978-09-09,Brigham Young,WAC,LaVell Edwards,A,Oregon State,Pac-10,Craig Fertig,W,10,6
-1978-09-16,Brigham Young,WAC,LaVell Edwards,A,Arizona State,Pac-10,Frank Kush,L,17,24
-1978-09-23,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,W,32,6
-1978-09-30,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Bill Mondt,W,27,23
-1978-10-07,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Bruce Snyder,L,7,24
-1978-10-14,Brigham Young,WAC,LaVell Edwards,A,Oregon,Pac-10,Rich Brooks,W,17,16
-1978-10-21,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,44,0
-1978-11-04,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Bill Lewis,W,48,14
-1978-11-11,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Claude Gilbert,W,21,3
-1978-11-18,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Wayne Howard,L,22,23
-1978-11-25,Brigham Young,WAC,LaVell Edwards,A,Hawaii,Ind,Dick Tomey,W,31,13
-1978-12-02,Brigham Young,WAC,LaVell Edwards,N,Nevada-Las Vegas,Ind,Tony Knap,W,28,24
-1978-12-22,Brigham Young,WAC,LaVell Edwards,N,Navy,Ind,George Welsh,L,16,23
+1978-09-09,BYU,WAC,LaVell Edwards,A,Oregon State,Pac-10,Craig Fertig,W,10,6
+1978-09-16,BYU,WAC,LaVell Edwards,A,Arizona State,Pac-10,Frank Kush,L,17,24
+1978-09-23,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,W,32,6
+1978-09-30,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Bill Mondt,W,27,23
+1978-10-07,BYU,WAC,LaVell Edwards,H,Utah State,PCAA,Bruce Snyder,L,7,24
+1978-10-14,BYU,WAC,LaVell Edwards,A,Oregon,Pac-10,Rich Brooks,W,17,16
+1978-10-21,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Bill Michael,W,44,0
+1978-11-04,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Bill Lewis,W,48,14
+1978-11-11,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Claude Gilbert,W,21,3
+1978-11-18,BYU,WAC,LaVell Edwards,A,Utah,WAC,Wayne Howard,L,22,23
+1978-11-25,BYU,WAC,LaVell Edwards,A,Hawaii,Ind,Dick Tomey,W,31,13
+1978-12-02,BYU,WAC,LaVell Edwards,N,Nevada-Las Vegas,Ind,Tony Knap,W,28,24
+1978-12-22,BYU,WAC,LaVell Edwards,N,Navy,Ind,George Welsh,L,16,23
 1978-09-23,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,W,21,0
 1978-10-07,Yale,Ivy,Carmen Cozza,H,Rutgers,Ind,Frank Burns,L,27,28
 1978-10-14,Yale,Ivy,Carmen Cozza,A,Dartmouth,Ivy,Joseph Yukica,L,3,10
@@ -788,7 +788,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-11-11,Nevada-Las Vegas,Ind,Tony Knap,H,Wyoming,WAC,Bill Lewis,W,12,10
 1978-11-18,Nevada-Las Vegas,Ind,Tony Knap,H,UTEP,WAC,Bill Michael,W,27,0
 1978-11-24,Nevada-Las Vegas,Ind,Tony Knap,H,Cal State Fullerton,PCAA,Jim Colletto,W,24,7
-1978-12-02,Nevada-Las Vegas,Ind,Tony Knap,N,Brigham Young,WAC,LaVell Edwards,L,24,28
+1978-12-02,Nevada-Las Vegas,Ind,Tony Knap,N,BYU,WAC,LaVell Edwards,L,24,28
 1978-09-09,Virginia Military Institute,Southern,Bob Thalman,A,William & Mary,Ind,James Root,L,3,10
 1978-09-23,Virginia Military Institute,Southern,Bob Thalman,A,Citadel,Southern,Art Baker,L,3,14
 1978-09-30,Virginia Military Institute,Southern,Bob Thalman,A,Virginia,ACC,Dick Bestwick,W,17,9
@@ -936,7 +936,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-09-23,UTEP,WAC,Bill Michael,H,San Diego State,WAC,Claude Gilbert,W,31,24
 1978-09-30,UTEP,WAC,Bill Michael,A,Arizona State,Pac-10,Frank Kush,L,0,27
 1978-10-07,UTEP,WAC,Bill Michael,A,Colorado State,WAC,Sarkis Arslanian,L,29,39
-1978-10-21,UTEP,WAC,Bill Michael,A,Brigham Young,WAC,LaVell Edwards,L,0,44
+1978-10-21,UTEP,WAC,Bill Michael,A,BYU,WAC,LaVell Edwards,L,0,44
 1978-10-28,UTEP,WAC,Bill Michael,H,New Mexico,WAC,Bill Mondt,L,0,21
 1978-11-04,UTEP,WAC,Bill Michael,A,Hawaii,Ind,Dick Tomey,L,13,35
 1978-11-11,UTEP,WAC,Bill Michael,H,Utah,WAC,Wayne Howard,L,0,38
@@ -1062,7 +1062,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-09-23,Oregon,Pac-10,Rich Brooks,H,Texas Christian,SWC,F. Dry,L,10,14
 1978-09-30,Oregon,Pac-10,Rich Brooks,A,Wisconsin,Big Ten,Dave McClain,L,19,22
 1978-10-07,Oregon,Pac-10,Rich Brooks,A,California,Pac-10,Roger Theder,L,18,21
-1978-10-14,Oregon,Pac-10,Rich Brooks,H,Brigham Young,WAC,LaVell Edwards,L,16,17
+1978-10-14,Oregon,Pac-10,Rich Brooks,H,BYU,WAC,LaVell Edwards,L,16,17
 1978-10-21,Oregon,Pac-10,Rich Brooks,A,Washington,Pac-10,Don James,L,14,20
 1978-10-28,Oregon,Pac-10,Rich Brooks,H,Washington State,Pac-10,Jim Walden,W,31,7
 1978-11-04,Oregon,Pac-10,Rich Brooks,A,UCLA,Pac-10,Terry Donahue,L,21,23
@@ -1106,7 +1106,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-10-28,Texas-Arlington,Southland,Harold Elliott,H,Arkansas State,Southland,Bill Davidson,L,7,27
 1978-11-04,Texas-Arlington,Southland,Harold Elliott,H,Northwestern State,Ind,,W,30,7
 1978-11-18,Texas-Arlington,Southland,Harold Elliott,A,McNeese State,Southland,Jack Doland,W,20,17
-1978-09-09,Oregon State,Pac-10,Craig Fertig,H,Brigham Young,WAC,LaVell Edwards,L,6,10
+1978-09-09,Oregon State,Pac-10,Craig Fertig,H,BYU,WAC,LaVell Edwards,L,6,10
 1978-09-16,Oregon State,Pac-10,Craig Fertig,A,Arizona,Pac-10,Tony Mason,L,7,21
 1978-09-23,Oregon State,Pac-10,Craig Fertig,A,Tennessee,SEC,Johnny Majors,T,13,13
 1978-09-30,Oregon State,Pac-10,Craig Fertig,H,Washington,Pac-10,Don James,L,0,34
@@ -1195,7 +1195,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-11-11,Colorado,Big 8,Bill Mallory,A,Kansas State,Big 8,Jim Dickey,L,10,20
 1978-11-18,Colorado,Big 8,Bill Mallory,H,Iowa State,Big 8,Earle Bruce,L,16,20
 1978-09-16,Colorado State,WAC,Sarkis Arslanian,H,Utah State,PCAA,Bruce Snyder,L,20,21
-1978-09-23,Colorado State,WAC,Sarkis Arslanian,A,Brigham Young,WAC,LaVell Edwards,L,6,32
+1978-09-23,Colorado State,WAC,Sarkis Arslanian,A,BYU,WAC,LaVell Edwards,L,6,32
 1978-09-30,Colorado State,WAC,Sarkis Arslanian,A,Utah,WAC,Wayne Howard,L,6,30
 1978-10-07,Colorado State,WAC,Sarkis Arslanian,H,UTEP,WAC,Bill Michael,W,39,29
 1978-10-14,Colorado State,WAC,Sarkis Arslanian,A,Air Force,Ind,Bill Parcells,W,31,13
@@ -1339,7 +1339,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1978-11-11,Navy,Ind,George Welsh,A,Syracuse,Ind,Frank Maloney,L,17,20
 1978-11-18,Navy,Ind,George Welsh,A,Florida State,Ind,Bobby Bowden,L,6,38
 1978-12-02,Navy,Ind,George Welsh,N,Army,Ind,Homer Smith,W,28,0
-1978-12-22,Navy,Ind,George Welsh,N,Brigham Young,WAC,LaVell Edwards,W,23,16
+1978-12-22,Navy,Ind,George Welsh,N,BYU,WAC,LaVell Edwards,W,23,16
 1978-09-09,Lamar,Southland,Bob Frederick,A,Northwestern State,Ind,,L,17,21
 1978-09-16,Lamar,Southland,Bob Frederick,H,Southern Illinois,MVC,Rey Dempsey,L,20,22
 1978-09-30,Lamar,Southland,Bob Frederick,A,Louisiana,Southland,Augie Tammariello,L,16,23

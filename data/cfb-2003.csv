@@ -92,7 +92,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-10-25,Utah,MWC,Urban Meyer,H,New Mexico,MWC,Rocky Long,L,35,47,18,32,220,4,27,80,1,8,5,5,50,1,0
 2003-11-01,Utah,MWC,Urban Meyer,A,Air Force,MWC,Fisher DeBerry,W,45,43,22,32,297,1,40,162,5,15,8,7,76,1,1
 2003-11-15,Utah,MWC,Urban Meyer,H,Wyoming,MWC,Joe Glenn,W,47,17,17,26,296,2,51,252,4,14,14,6,50,1,0
-2003-11-22,Utah,MWC,Urban Meyer,A,Brigham Young,MWC,Gary Crowton,W,3,0,11,20,113,0,46,107,0,4,7,9,80,1,1
+2003-11-22,Utah,MWC,Urban Meyer,A,BYU,MWC,Gary Crowton,W,3,0,11,20,113,0,46,107,0,4,7,9,80,1,1
 2003-12-31,Utah,MWC,Urban Meyer,N,Southern Mississippi,CUSA,Jeff Bower,W,17,0,8,19,124,0,45,104,1,3,9,12,85,2,1
 2003-09-06,Syracuse,Big East,Paul Pasqualoni,A,North Carolina,ACC,John Bunting,W,49,47,20,33,288,3,47,230,3,13,11,10,112,0,0
 2003-09-13,Syracuse,Big East,Paul Pasqualoni,H,Louisville,CUSA,Bobby Petrino,L,20,30,19,30,229,0,41,217,2,11,11,2,20,2,0
@@ -189,7 +189,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-11-15,Troy,Ind,Larry Blakeney,A,Utah State,Sun Belt,Mick Dennehy,W,23,14,7,18,105,0,61,223,3,5,12,7,50,1,0
 2003-11-22,Troy,Ind,Larry Blakeney,H,Louisiana-Monroe,Sun Belt,Charlie Weatherbie,W,28,24,17,41,192,2,35,42,2,10,4,3,31,1,0
 2003-09-06,Stanford,Pac-10,Buddy Teevens,H,San Jose State,WAC,Fitz Hill,W,31,10,24,45,293,2,41,164,2,15,11,11,89,1,2
-2003-09-20,Stanford,Pac-10,Buddy Teevens,A,Brigham Young,MWC,Gary Crowton,W,18,14,11,24,56,0,44,144,2,1,11,7,56,0,2
+2003-09-20,Stanford,Pac-10,Buddy Teevens,A,BYU,MWC,Gary Crowton,W,18,14,11,24,56,0,44,144,2,1,11,7,56,0,2
 2003-09-27,Stanford,Pac-10,Buddy Teevens,A,Washington,Pac-10,Keith Gilbertson,L,17,28,16,32,159,2,40,129,0,10,5,9,90,0,2
 2003-10-11,Stanford,Pac-10,Buddy Teevens,A,USC,Pac-10,Pete Carroll,L,21,44,19,40,156,1,31,86,1,7,7,9,65,2,2
 2003-10-18,Stanford,Pac-10,Buddy Teevens,H,Washington State,Pac-10,Bill Doba,L,14,24,20,50,217,1,34,42,1,10,3,12,95,0,2
@@ -501,7 +501,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-11-15,Nevada,WAC,Chris Tormey,H,Hawaii,WAC,June Jones,W,24,14,15,30,169,0,49,143,1,11,9,2,20,1,1
 2003-11-29,Nevada,WAC,Chris Tormey,A,Boise State,WAC,Dan Hawkins,L,3,56,13,36,127,0,32,149,0,4,6,19,157,0,3
 2003-08-30,USC,Pac-10,Pete Carroll,A,Auburn,SEC,Tommy Tuberville,W,23,0,17,30,192,1,36,123,1,7,8,4,43,0,0
-2003-09-06,USC,Pac-10,Pete Carroll,H,Brigham Young,MWC,Gary Crowton,W,35,18,19,34,235,3,33,71,1,10,4,7,69,0,3
+2003-09-06,USC,Pac-10,Pete Carroll,H,BYU,MWC,Gary Crowton,W,35,18,19,34,235,3,33,71,1,10,4,7,69,0,3
 2003-09-13,USC,Pac-10,Pete Carroll,H,Hawaii,WAC,June Jones,W,61,32,18,26,254,2,33,164,4,12,7,5,41,2,0
 2003-09-27,USC,Pac-10,Pete Carroll,A,California,Pac-10,Jeff Tedford,L,31,34,21,39,277,2,24,99,1,13,5,8,73,1,3
 2003-10-04,USC,Pac-10,Pete Carroll,A,Arizona State,Pac-10,Dirk Koetter,W,37,17,17,34,331,2,36,198,2,10,10,3,12,2,1
@@ -528,7 +528,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-09-06,San Diego State,MWC,Tom Craft,A,Ohio State,Big Ten,Jim Tressel,L,13,16,24,41,188,1,26,28,0,10,3,8,64,2,2
 2003-09-13,San Diego State,MWC,Tom Craft,A,UTEP,WAC,Gary Nord,W,34,0,18,29,180,0,34,137,3,10,4,6,41,2,0
 2003-09-27,San Diego State,MWC,Tom Craft,A,UCLA,Pac-10,Karl Dorrell,L,10,20,19,37,110,0,29,120,1,3,7,9,82,1,2
-2003-10-04,San Diego State,MWC,Tom Craft,H,Brigham Young,MWC,Gary Crowton,L,36,44,18,35,352,3,34,40,0,11,3,7,70,2,1
+2003-10-04,San Diego State,MWC,Tom Craft,H,BYU,MWC,Gary Crowton,L,36,44,18,35,352,3,34,40,0,11,3,7,70,2,1
 2003-10-11,San Diego State,MWC,Tom Craft,A,Utah,MWC,Urban Meyer,L,6,27,19,36,203,0,24,49,0,10,4,6,52,0,1
 2003-10-18,San Diego State,MWC,Tom Craft,H,New Mexico,MWC,Rocky Long,L,7,30,32,59,354,0,25,38,1,15,4,4,38,1,5
 2003-10-25,San Diego State,MWC,Tom Craft,H,Wyoming,MWC,Joe Glenn,W,25,20,14,26,191,1,47,206,1,9,11,7,60,1,1
@@ -605,7 +605,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-11-22,Temple,Big East,Bobby Wallace,H,Pitt,Big East,Walt Harris,L,16,30,24,40,278,1,33,92,1,13,6,9,60,0,1
 2003-11-29,Temple,Big East,Bobby Wallace,A,West Virginia,Big East,Rich Rodriguez,L,28,45,17,33,171,0,49,176,4,10,8,11,95,1,3
 2003-09-06,New Mexico,MWC,Rocky Long,A,Texas Tech,Big 12,Mike Leach,L,28,42,22,42,349,1,51,235,3,12,12,9,75,1,3
-2003-09-13,New Mexico,MWC,Rocky Long,H,Brigham Young,MWC,Gary Crowton,L,7,10,11,24,141,0,48,171,1,6,9,6,32,1,0
+2003-09-13,New Mexico,MWC,Rocky Long,H,BYU,MWC,Gary Crowton,L,7,10,11,24,141,0,48,171,1,6,9,6,32,1,0
 2003-09-20,New Mexico,MWC,Rocky Long,A,Washington State,Pac-10,Bill Doba,L,13,23,17,33,235,2,23,22,0,9,2,9,101,1,0
 2003-09-27,New Mexico,MWC,Rocky Long,H,New Mexico State,Sun Belt,Tony Samuel,W,24,17,10,18,83,1,49,145,2,6,6,4,30,1,2
 2003-10-04,New Mexico,MWC,Rocky Long,H,Utah State,Sun Belt,Mick Dennehy,W,34,7,14,28,244,1,51,160,3,11,10,9,62,0,1
@@ -625,7 +625,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-10-25,Notre Dame,Ind,Tyrone Willingham,A,Boston College,Big East,Tom O'Brien,L,25,27,23,39,350,2,34,47,0,15,4,2,20,0,2
 2003-11-01,Notre Dame,Ind,Tyrone Willingham,H,Florida State,ACC,Bobby Bowden,L,0,37,20,52,175,0,30,146,0,9,5,8,77,0,3
 2003-11-08,Notre Dame,Ind,Tyrone Willingham,H,Navy,Ind,Paul Johnson,W,27,24,14,27,137,1,48,280,2,8,15,6,50,0,0
-2003-11-15,Notre Dame,Ind,Tyrone Willingham,H,Brigham Young,MWC,Gary Crowton,W,33,14,15,30,156,0,50,204,3,7,10,3,30,0,1
+2003-11-15,Notre Dame,Ind,Tyrone Willingham,H,BYU,MWC,Gary Crowton,W,33,14,15,30,156,0,50,204,3,7,10,3,30,0,1
 2003-11-29,Notre Dame,Ind,Tyrone Willingham,A,Stanford,Pac-10,Buddy Teevens,W,57,7,10,16,192,2,50,320,4,6,12,7,55,0,1
 2003-12-06,Notre Dame,Ind,Tyrone Willingham,A,Syracuse,Big East,Paul Pasqualoni,L,12,38,18,34,199,1,36,62,0,9,5,2,10,2,2
 2003-08-30,Louisiana,Sun Belt,Rickey Bustle,A,South Carolina,SEC,Lou Holtz,L,7,14,12,27,134,0,35,134,0,6,5,3,17,2,1
@@ -693,7 +693,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-10-11,Boise State,WAC,Dan Hawkins,H,Tulsa,WAC,Steve Kragthorpe,W,27,20,12,27,199,0,44,164,3,7,9,4,40,0,1
 2003-10-18,Boise State,WAC,Dan Hawkins,A,SMU,WAC,Phil Bennett,W,45,3,32,45,560,4,32,81,2,20,5,7,35,0,0
 2003-10-25,Boise State,WAC,Dan Hawkins,H,San Jose State,WAC,Fitz Hill,W,77,14,19,31,439,6,34,132,3,14,7,5,50,1,0
-2003-10-30,Boise State,WAC,Dan Hawkins,A,Brigham Young,MWC,Gary Crowton,W,50,12,12,24,247,2,45,134,3,8,8,6,75,0,1
+2003-10-30,Boise State,WAC,Dan Hawkins,A,BYU,MWC,Gary Crowton,W,50,12,12,24,247,2,45,134,3,8,8,6,75,0,1
 2003-11-15,Boise State,WAC,Dan Hawkins,H,UTEP,WAC,Gary Nord,W,51,21,16,34,218,2,45,256,4,14,12,6,65,0,1
 2003-11-21,Boise State,WAC,Dan Hawkins,A,Fresno State,WAC,Pat Hill,W,31,17,22,31,273,2,35,90,2,12,5,6,65,0,1
 2003-11-29,Boise State,WAC,Dan Hawkins,H,Nevada,WAC,Chris Tormey,W,56,3,21,31,437,4,45,140,4,18,5,6,49,0,1
@@ -727,25 +727,25 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-09-20,Wyoming,MWC,Joe Glenn,A,Air Force,MWC,Fisher DeBerry,L,29,35,27,52,398,3,28,88,1,18,6,8,70,0,0
 2003-09-27,Wyoming,MWC,Joe Glenn,A,Boise State,WAC,Dan Hawkins,L,17,33,15,34,241,2,25,32,0,9,2,3,34,0,2
 2003-10-11,Wyoming,MWC,Joe Glenn,A,Utah State,Sun Belt,Mick Dennehy,W,48,21,14,25,242,3,47,192,3,10,11,15,127,0,0
-2003-10-18,Wyoming,MWC,Joe Glenn,H,Brigham Young,MWC,Gary Crowton,W,13,10,20,32,140,0,32,85,0,8,7,1,5,1,2
+2003-10-18,Wyoming,MWC,Joe Glenn,H,BYU,MWC,Gary Crowton,W,13,10,20,32,140,0,32,85,0,8,7,1,5,1,2
 2003-10-25,Wyoming,MWC,Joe Glenn,A,San Diego State,MWC,Tom Craft,L,20,25,25,45,247,2,27,45,0,11,5,7,56,0,3
 2003-11-01,Wyoming,MWC,Joe Glenn,H,Colorado State,MWC,Sonny Lubick,W,35,28,23,36,337,2,30,129,3,13,10,3,20,0,1
 2003-11-15,Wyoming,MWC,Joe Glenn,A,Utah,MWC,Urban Meyer,L,17,47,19,31,272,1,22,60,1,12,3,6,56,0,0
 2003-11-22,Wyoming,MWC,Joe Glenn,H,New Mexico,MWC,Rocky Long,L,3,26,12,25,99,0,23,23,0,5,4,3,11,1,1
 2003-11-29,Wyoming,MWC,Joe Glenn,H,Nevada-Las Vegas,MWC,John Robinson,L,24,35,27,44,321,2,42,74,1,14,7,3,35,1,0
-2003-08-28,Brigham Young,MWC,Gary Crowton,H,Georgia Tech,ACC,Chan Gailey,W,24,13,31,47,276,3,32,86,0,14,6,16,132,0,2
-2003-09-06,Brigham Young,MWC,Gary Crowton,A,USC,Pac-10,Pete Carroll,L,18,35,29,46,313,1,26,46,0,13,3,10,91,2,3
-2003-09-13,Brigham Young,MWC,Gary Crowton,A,New Mexico,MWC,Rocky Long,W,10,7,20,37,172,1,29,136,0,7,6,7,74,0,0
-2003-09-20,Brigham Young,MWC,Gary Crowton,H,Stanford,Pac-10,Buddy Teevens,L,14,18,23,46,310,2,25,-5,0,10,2,8,76,3,2
-2003-09-27,Brigham Young,MWC,Gary Crowton,H,Air Force,MWC,Fisher DeBerry,L,10,24,19,36,193,1,36,113,0,10,7,7,50,1,0
-2003-10-04,Brigham Young,MWC,Gary Crowton,A,San Diego State,MWC,Tom Craft,W,44,36,17,27,180,2,45,238,2,9,6,5,55,3,0
-2003-10-09,Brigham Young,MWC,Gary Crowton,H,Colorado State,MWC,Sonny Lubick,L,13,58,11,27,139,1,38,130,0,5,8,5,50,2,2
-2003-10-18,Brigham Young,MWC,Gary Crowton,A,Wyoming,MWC,Joe Glenn,L,10,13,21,36,225,0,36,103,1,12,7,10,56,1,2
-2003-10-25,Brigham Young,MWC,Gary Crowton,A,Nevada-Las Vegas,MWC,John Robinson,W,27,20,31,44,274,2,37,58,1,13,9,4,39,3,2
-2003-10-30,Brigham Young,MWC,Gary Crowton,H,Boise State,WAC,Dan Hawkins,L,12,50,21,59,207,0,35,122,1,12,6,4,39,0,4
-2003-11-15,Brigham Young,MWC,Gary Crowton,A,Notre Dame,Ind,Tyrone Willingham,L,14,33,18,30,250,0,26,53,2,8,4,5,40,1,3
-2003-11-22,Brigham Young,MWC,Gary Crowton,H,Utah,MWC,Urban Meyer,L,0,3,4,14,41,0,32,115,0,1,6,6,64,1,2
-2003-08-28,Georgia Tech,ACC,Chan Gailey,A,Brigham Young,MWC,Gary Crowton,L,13,24,15,24,147,0,23,96,0,9,3,9,82,3,1
+2003-08-28,BYU,MWC,Gary Crowton,H,Georgia Tech,ACC,Chan Gailey,W,24,13,31,47,276,3,32,86,0,14,6,16,132,0,2
+2003-09-06,BYU,MWC,Gary Crowton,A,USC,Pac-10,Pete Carroll,L,18,35,29,46,313,1,26,46,0,13,3,10,91,2,3
+2003-09-13,BYU,MWC,Gary Crowton,A,New Mexico,MWC,Rocky Long,W,10,7,20,37,172,1,29,136,0,7,6,7,74,0,0
+2003-09-20,BYU,MWC,Gary Crowton,H,Stanford,Pac-10,Buddy Teevens,L,14,18,23,46,310,2,25,-5,0,10,2,8,76,3,2
+2003-09-27,BYU,MWC,Gary Crowton,H,Air Force,MWC,Fisher DeBerry,L,10,24,19,36,193,1,36,113,0,10,7,7,50,1,0
+2003-10-04,BYU,MWC,Gary Crowton,A,San Diego State,MWC,Tom Craft,W,44,36,17,27,180,2,45,238,2,9,6,5,55,3,0
+2003-10-09,BYU,MWC,Gary Crowton,H,Colorado State,MWC,Sonny Lubick,L,13,58,11,27,139,1,38,130,0,5,8,5,50,2,2
+2003-10-18,BYU,MWC,Gary Crowton,A,Wyoming,MWC,Joe Glenn,L,10,13,21,36,225,0,36,103,1,12,7,10,56,1,2
+2003-10-25,BYU,MWC,Gary Crowton,A,Nevada-Las Vegas,MWC,John Robinson,W,27,20,31,44,274,2,37,58,1,13,9,4,39,3,2
+2003-10-30,BYU,MWC,Gary Crowton,H,Boise State,WAC,Dan Hawkins,L,12,50,21,59,207,0,35,122,1,12,6,4,39,0,4
+2003-11-15,BYU,MWC,Gary Crowton,A,Notre Dame,Ind,Tyrone Willingham,L,14,33,18,30,250,0,26,53,2,8,4,5,40,1,3
+2003-11-22,BYU,MWC,Gary Crowton,H,Utah,MWC,Urban Meyer,L,0,3,4,14,41,0,32,115,0,1,6,6,64,1,2
+2003-08-28,Georgia Tech,ACC,Chan Gailey,A,BYU,MWC,Gary Crowton,L,13,24,15,24,147,0,23,96,0,9,3,9,82,3,1
 2003-09-06,Georgia Tech,ACC,Chan Gailey,H,Auburn,SEC,Tommy Tuberville,W,17,3,9,21,149,1,39,102,1,6,5,9,65,1,0
 2003-09-13,Georgia Tech,ACC,Chan Gailey,A,Florida State,ACC,Bobby Bowden,L,13,14,12,25,128,0,39,112,1,7,6,7,56,2,1
 2003-09-20,Georgia Tech,ACC,Chan Gailey,H,Clemson,ACC,Tommy Bowden,L,3,39,19,42,248,0,33,45,0,10,5,5,51,1,1
@@ -799,7 +799,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-10-04,Nevada-Las Vegas,MWC,John Robinson,A,Nevada,WAC,Chris Tormey,W,16,12,27,40,255,0,48,128,1,12,8,11,116,2,1
 2003-10-11,Nevada-Las Vegas,MWC,John Robinson,A,Air Force,MWC,Fisher DeBerry,L,7,24,8,20,84,0,41,166,1,7,6,5,33,1,1
 2003-10-18,Nevada-Las Vegas,MWC,John Robinson,H,Utah,MWC,Urban Meyer,L,10,28,13,31,211,1,35,85,0,9,4,10,80,2,0
-2003-10-25,Nevada-Las Vegas,MWC,John Robinson,H,Brigham Young,MWC,Gary Crowton,L,20,27,14,36,161,1,44,110,1,9,7,3,20,1,1
+2003-10-25,Nevada-Las Vegas,MWC,John Robinson,H,BYU,MWC,Gary Crowton,L,20,27,14,36,161,1,44,110,1,9,7,3,20,1,1
 2003-11-01,Nevada-Las Vegas,MWC,John Robinson,A,New Mexico,MWC,Rocky Long,W,37,35,15,24,155,2,49,74,0,9,6,7,52,1,0
 2003-11-08,Nevada-Las Vegas,MWC,John Robinson,H,San Diego State,MWC,Tom Craft,L,0,7,15,34,144,0,22,31,0,7,1,9,75,1,3
 2003-11-22,Nevada-Las Vegas,MWC,John Robinson,H,Colorado State,MWC,Sonny Lubick,L,23,24,12,27,172,0,48,168,1,8,10,5,50,0,0
@@ -1022,7 +1022,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-09-06,Air Force,MWC,Fisher DeBerry,A,Northwestern,Big Ten,Randy Walker,W,22,21,6,12,139,0,53,270,2,5,9,5,35,2,0
 2003-09-13,Air Force,MWC,Fisher DeBerry,H,North Texas,Sun Belt,Darrell Dickey,W,34,21,10,16,156,3,60,271,1,9,13,4,32,3,1
 2003-09-20,Air Force,MWC,Fisher DeBerry,H,Wyoming,MWC,Joe Glenn,W,35,29,8,13,79,1,75,431,4,4,26,6,50,1,1
-2003-09-27,Air Force,MWC,Fisher DeBerry,A,Brigham Young,MWC,Gary Crowton,W,24,10,12,22,134,1,47,194,2,5,10,2,20,0,1
+2003-09-27,Air Force,MWC,Fisher DeBerry,A,BYU,MWC,Gary Crowton,W,24,10,12,22,134,1,47,194,2,5,10,2,20,0,1
 2003-10-04,Air Force,MWC,Fisher DeBerry,A,Navy,Ind,Paul Johnson,L,25,28,7,16,87,0,61,275,3,5,17,5,45,0,1
 2003-10-11,Air Force,MWC,Fisher DeBerry,H,Nevada-Las Vegas,MWC,John Robinson,W,24,7,5,10,63,0,59,261,2,2,12,2,10,0,0
 2003-10-16,Air Force,MWC,Fisher DeBerry,A,Colorado State,MWC,Sonny Lubick,L,20,30,4,14,154,1,52,276,2,4,14,5,32,1,2
@@ -1162,7 +1162,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2003-09-20,Colorado State,MWC,Sonny Lubick,H,Miami (OH),MAC,Terry Hoeppner,L,21,41,17,28,349,3,29,39,0,10,4,4,45,1,1
 2003-09-27,Colorado State,MWC,Sonny Lubick,H,Utah,MWC,Urban Meyer,L,21,28,22,32,267,1,41,102,2,14,6,4,20,4,2
 2003-10-04,Colorado State,MWC,Sonny Lubick,H,Fresno State,WAC,Pat Hill,W,34,10,17,29,197,2,41,270,2,12,11,6,32,0,2
-2003-10-09,Colorado State,MWC,Sonny Lubick,A,Brigham Young,MWC,Gary Crowton,W,58,13,10,15,232,3,51,214,4,7,11,2,20,2,0
+2003-10-09,Colorado State,MWC,Sonny Lubick,A,BYU,MWC,Gary Crowton,W,58,13,10,15,232,3,51,214,4,7,11,2,20,2,0
 2003-10-16,Colorado State,MWC,Sonny Lubick,H,Air Force,MWC,Fisher DeBerry,W,30,20,14,22,258,1,53,306,3,10,17,4,40,1,0
 2003-11-01,Colorado State,MWC,Sonny Lubick,A,Wyoming,MWC,Joe Glenn,L,28,35,17,29,205,1,46,304,3,11,16,8,70,2,0
 2003-11-07,Colorado State,MWC,Sonny Lubick,A,New Mexico,MWC,Rocky Long,L,34,37,16,24,217,1,40,111,2,10,6,5,35,2,0

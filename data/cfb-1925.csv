@@ -32,7 +32,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-11-26,Furman,Ind,,H,Clemson,Southern,Bud Saunders,W,26,0
 1925-10-10,Utah,RMC,Ike Armstrong,A,USC,PCC,Howard Jones,L,2,28
 1925-10-24,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Myron Witham,W,12,7
-1925-10-31,Utah,RMC,Ike Armstrong,A,Brigham Young,RMC,C.J. Hart,W,27,0
+1925-10-31,Utah,RMC,Ike Armstrong,A,BYU,RMC,C.J. Hart,W,27,0
 1925-11-07,Utah,RMC,Ike Armstrong,H,Denver,RMC,Fred Dawson,W,27,0
 1925-11-14,Utah,RMC,Ike Armstrong,A,Colorado College,RMC,Tefler Meade,W,20,0
 1925-11-18,Utah,RMC,Ike Armstrong,A,Wyoming,RMC,William Dietz,W,7,6
@@ -84,7 +84,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-11-14,Vanderbilt,Southern,Dan McGugin,A,Auburn,Southern,David Morey,L,9,10
 1925-11-21,Vanderbilt,Southern,Dan McGugin,H,Sewanee,Southern,M.S. Bennett,W,19,7
 1925-09-26,Colorado College,RMC,Tefler Meade,A,Western State,RMC,Eugene Maynor,W,6,0
-1925-10-17,Colorado College,RMC,Tefler Meade,A,Brigham Young,RMC,C.J. Hart,L,6,7
+1925-10-17,Colorado College,RMC,Tefler Meade,A,BYU,RMC,C.J. Hart,L,6,7
 1925-10-24,Colorado College,RMC,Tefler Meade,H,Colorado State,RMC,Harry Hughes,L,3,7
 1925-10-31,Colorado College,RMC,Tefler Meade,A,Denver,RMC,Fred Dawson,W,38,7
 1925-11-07,Colorado College,RMC,Tefler Meade,A,Colorado,RMC,Myron Witham,L,6,23
@@ -138,7 +138,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-10-03,Western State,RMC,Eugene Maynor,A,Colorado Mines,RMC,William Courtright,W,15,6
 1925-10-10,Western State,RMC,Eugene Maynor,H,Wyoming,RMC,William Dietz,L,0,7
 1925-10-24,Western State,RMC,Eugene Maynor,H,Northern Colorado,RMC,George Cooper,W,18,7
-1925-11-07,Western State,RMC,Eugene Maynor,A,Brigham Young,RMC,C.J. Hart,L,6,39
+1925-11-07,Western State,RMC,Eugene Maynor,A,BYU,RMC,C.J. Hart,L,6,39
 1925-11-21,Western State,RMC,Eugene Maynor,A,Colorado,RMC,Myron Witham,L,0,34
 1925-10-03,Illinois,Western,Robert Zuppke,H,Nebraska,MVIAA,Ernest Bearg,L,0,14
 1925-10-17,Illinois,Western,Robert Zuppke,A,Iowa,Western,Burton Ingwersen,L,10,12
@@ -241,7 +241,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-11-28,Washington,PCC,Enoch Bagshaw,H,Oregon,PCC,Richard Smith,W,15,14
 1926-01-01,Washington,PCC,Enoch Bagshaw,N,Alabama,Southern,Wallace Wade,L,19,20
 1925-10-10,Utah State,RMC,,A,Denver,RMC,Fred Dawson,W,13,0
-1925-10-24,Utah State,RMC,,H,Brigham Young,RMC,C.J. Hart,W,14,0
+1925-10-24,Utah State,RMC,,H,BYU,RMC,C.J. Hart,W,14,0
 1925-10-31,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,13
 1925-11-05,Utah State,RMC,,H,Wyoming,RMC,William Dietz,W,26,13
 1925-11-14,Utah State,RMC,,H,Montana State,RMC,Ott Romney,W,10,7
@@ -257,7 +257,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-10-30,Montana State,RMC,Ott Romney,H,Wyoming,RMC,William Dietz,L,0,7
 1925-11-07,Montana State,RMC,Ott Romney,A,Colorado Mines,RMC,William Courtright,W,25,0
 1925-11-14,Montana State,RMC,Ott Romney,A,Utah State,RMC,,L,7,10
-1925-11-21,Montana State,RMC,Ott Romney,A,Brigham Young,RMC,C.J. Hart,L,7,16
+1925-11-21,Montana State,RMC,Ott Romney,A,BYU,RMC,C.J. Hart,L,7,16
 1925-11-28,Montana State,RMC,Ott Romney,H,Montana,PCC,Click Clark,L,7,28
 1925-10-03,Denver,RMC,Fred Dawson,H,Northern Colorado,RMC,George Cooper,W,13,0
 1925-10-10,Denver,RMC,Fred Dawson,H,Utah State,RMC,,L,0,13
@@ -350,12 +350,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-11-11,Wyoming,RMC,William Dietz,H,Northern Colorado,RMC,George Cooper,W,13,10
 1925-11-18,Wyoming,RMC,William Dietz,H,Utah,RMC,Ike Armstrong,L,6,7
 1925-11-26,Wyoming,RMC,William Dietz,A,Colorado State,RMC,Harry Hughes,L,0,40
-1925-10-10,Brigham Young,RMC,C.J. Hart,A,Colorado State,RMC,Harry Hughes,L,7,21
-1925-10-17,Brigham Young,RMC,C.J. Hart,H,Colorado College,RMC,Tefler Meade,W,7,6
-1925-10-24,Brigham Young,RMC,C.J. Hart,A,Utah State,RMC,,L,0,14
-1925-10-31,Brigham Young,RMC,C.J. Hart,H,Utah,RMC,Ike Armstrong,L,0,27
-1925-11-07,Brigham Young,RMC,C.J. Hart,H,Western State,RMC,Eugene Maynor,W,39,6
-1925-11-21,Brigham Young,RMC,C.J. Hart,H,Montana State,RMC,Ott Romney,W,16,7
+1925-10-10,BYU,RMC,C.J. Hart,A,Colorado State,RMC,Harry Hughes,L,7,21
+1925-10-17,BYU,RMC,C.J. Hart,H,Colorado College,RMC,Tefler Meade,W,7,6
+1925-10-24,BYU,RMC,C.J. Hart,A,Utah State,RMC,,L,0,14
+1925-10-31,BYU,RMC,C.J. Hart,H,Utah,RMC,Ike Armstrong,L,0,27
+1925-11-07,BYU,RMC,C.J. Hart,H,Western State,RMC,Eugene Maynor,W,39,6
+1925-11-21,BYU,RMC,C.J. Hart,H,Montana State,RMC,Ott Romney,W,16,7
 1925-10-10,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,W,35,7
 1925-10-17,Yale,Ind,Tad Jones,H,Pennsylvania,Ind,Lou Young,L,13,16
 1925-10-24,Yale,Ind,Tad Jones,A,Brown,Ind,Edward Robinson,W,20,7
@@ -548,7 +548,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1925-11-07,Oglethorpe,Ind,Jim Robertson,H,Citadel,Ind,Carl Prause,W,7,0
 1925-11-13,Oglethorpe,Ind,Jim Robertson,A,Presbyterian,Ind,Walter Johnson,W,17,16
 1925-11-21,Oglethorpe,Ind,Jim Robertson,H,Mercer,Ind,,L,6,21
-1925-10-10,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,C.J. Hart,W,21,7
+1925-10-10,Colorado State,RMC,Harry Hughes,H,BYU,RMC,C.J. Hart,W,21,7
 1925-10-17,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Fred Dawson,W,17,0
 1925-10-24,Colorado State,RMC,Harry Hughes,A,Colorado College,RMC,Tefler Meade,W,7,3
 1925-10-31,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,13,0

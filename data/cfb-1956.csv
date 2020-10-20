@@ -62,7 +62,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-12-01,Furman,Southern,Homer Hobbs,A,Clemson,ACC,Frank Howard,L,7,28
 1956-09-21,Utah,Skyline,Jack Curtice,A,UCLA,PCC,Red Sanders,L,7,13
 1956-09-29,Utah,Skyline,Jack Curtice,H,Montana,Skyline,Jerry Williams,W,26,6
-1956-10-05,Utah,Skyline,Jack Curtice,A,Brigham Young,Skyline,Harold Kopp,W,41,6
+1956-10-05,Utah,Skyline,Jack Curtice,A,BYU,Skyline,Harold Kopp,W,41,6
 1956-10-13,Utah,Skyline,Jack Curtice,H,Denver,Skyline,John Roning,W,27,13
 1956-10-20,Utah,Skyline,Jack Curtice,A,Wyoming,Skyline,Phil Dickens,L,20,30
 1956-10-27,Utah,Skyline,Jack Curtice,H,Idaho,PCC,Skip Stahley,L,21,27
@@ -70,7 +70,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-11-10,Utah,Skyline,Jack Curtice,A,Colorado State,Skyline,Tuffy Mullison,W,49,27
 1956-11-17,Utah,Skyline,Jack Curtice,H,Colorado,Big 7,Dallas Ward,L,7,21
 1956-11-22,Utah,Skyline,Jack Curtice,H,Utah State,Skyline,Everett Faunce,W,29,7
-1956-09-15,Wichita State,MVC,Pete Tillman,H,Brigham Young,Skyline,Harold Kopp,W,13,0
+1956-09-15,Wichita State,MVC,Pete Tillman,H,BYU,Skyline,Harold Kopp,W,13,0
 1956-09-22,Wichita State,MVC,Pete Tillman,A,Arizona State,BIAA,Dan Devine,L,9,37
 1956-09-29,Wichita State,MVC,Pete Tillman,H,Hardin-Simmons,BIAA,Sammy Baugh,L,7,20
 1956-10-06,Wichita State,MVC,Pete Tillman,H,Oklahoma State,MVC,Cliff Speegle,L,6,32
@@ -111,7 +111,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-09-29,Montana,Skyline,Jerry Williams,A,Utah,Skyline,Jack Curtice,L,6,26
 1956-10-05,Montana,Skyline,Jerry Williams,A,Denver,Skyline,John Roning,L,13,22
 1956-10-13,Montana,Skyline,Jerry Williams,H,Utah State,Skyline,Everett Faunce,L,13,27
-1956-10-20,Montana,Skyline,Jerry Williams,H,Brigham Young,Skyline,Harold Kopp,W,21,14
+1956-10-20,Montana,Skyline,Jerry Williams,H,BYU,Skyline,Harold Kopp,W,21,14
 1956-10-27,Montana,Skyline,Jerry Williams,A,Colorado State,Skyline,Tuffy Mullison,L,20,34
 1956-11-10,Montana,Skyline,Jerry Williams,N,Wyoming,Skyline,Phil Dickens,L,13,34
 1956-11-17,Montana,Skyline,Jerry Williams,A,New Mexico,Skyline,Dick Clausen,L,13,14
@@ -342,7 +342,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-10-06,Utah State,Skyline,Everett Faunce,A,Arizona,BIAA,Warren Woodson,W,12,7
 1956-10-13,Utah State,Skyline,Everett Faunce,A,Montana,Skyline,Jerry Williams,W,27,13
 1956-10-20,Utah State,Skyline,Everett Faunce,H,Colorado State,Skyline,Tuffy Mullison,W,46,7
-1956-10-27,Utah State,Skyline,Everett Faunce,H,Brigham Young,Skyline,Harold Kopp,W,33,7
+1956-10-27,Utah State,Skyline,Everett Faunce,H,BYU,Skyline,Harold Kopp,W,33,7
 1956-11-03,Utah State,Skyline,Everett Faunce,H,Wyoming,Skyline,Phil Dickens,L,0,21
 1956-11-10,Utah State,Skyline,Everett Faunce,A,Idaho,PCC,Skip Stahley,L,20,42
 1956-11-22,Utah State,Skyline,Everett Faunce,A,Utah,Skyline,Jack Curtice,L,7,29
@@ -378,7 +378,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-10-13,Denver,Skyline,John Roning,A,Utah,Skyline,Jack Curtice,L,13,27
 1956-10-26,Denver,Skyline,John Roning,H,New Mexico,Skyline,Dick Clausen,W,20,14
 1956-11-03,Denver,Skyline,John Roning,A,San Jose State,Ind,Robert Bronzan,W,35,26
-1956-11-10,Denver,Skyline,John Roning,H,Brigham Young,Skyline,Harold Kopp,W,58,34
+1956-11-10,Denver,Skyline,John Roning,H,BYU,Skyline,Harold Kopp,W,58,34
 1956-11-22,Denver,Skyline,John Roning,H,Colorado State,Skyline,Tuffy Mullison,W,39,13
 1956-09-29,Wisconsin,Big Ten,Milt Bruhn,H,Marquette,Ind,Johnny Druze,W,41,0
 1956-10-06,Wisconsin,Big Ten,Milt Bruhn,H,USC,PCC,Jess Hill,L,6,13
@@ -439,7 +439,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-10-13,New Mexico,Skyline,Dick Clausen,A,Wyoming,Skyline,Phil Dickens,L,13,20
 1956-10-20,New Mexico,Skyline,Dick Clausen,H,Arizona,BIAA,Warren Woodson,L,12,26
 1956-10-26,New Mexico,Skyline,Dick Clausen,A,Denver,Skyline,John Roning,L,14,20
-1956-11-03,New Mexico,Skyline,Dick Clausen,A,Brigham Young,Skyline,Harold Kopp,L,12,33
+1956-11-03,New Mexico,Skyline,Dick Clausen,A,BYU,Skyline,Harold Kopp,L,12,33
 1956-11-17,New Mexico,Skyline,Dick Clausen,H,Montana,Skyline,Jerry Williams,W,14,13
 1956-12-01,New Mexico,Skyline,Dick Clausen,H,Colorado State,Skyline,Tuffy Mullison,L,27,28
 1956-09-22,Pacific,Ind,Moose Myers,H,Colorado State,Skyline,Tuffy Mullison,W,39,14
@@ -497,15 +497,15 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-10-27,Wyoming,Skyline,Phil Dickens,H,Kansas State,Big 7,Bernard Mertes,W,27,15
 1956-11-03,Wyoming,Skyline,Phil Dickens,A,Utah State,Skyline,Everett Faunce,W,21,0
 1956-11-10,Wyoming,Skyline,Phil Dickens,N,Montana,Skyline,Jerry Williams,W,34,13
-1956-11-17,Wyoming,Skyline,Phil Dickens,A,Brigham Young,Skyline,Harold Kopp,W,7,6
-1956-09-15,Brigham Young,Skyline,Harold Kopp,A,Wichita State,MVC,Pete Tillman,L,0,13
-1956-09-29,Brigham Young,Skyline,Harold Kopp,A,Colorado State,Skyline,Tuffy Mullison,T,0,0
-1956-10-05,Brigham Young,Skyline,Harold Kopp,H,Utah,Skyline,Jack Curtice,L,6,41
-1956-10-20,Brigham Young,Skyline,Harold Kopp,A,Montana,Skyline,Jerry Williams,L,14,21
-1956-10-27,Brigham Young,Skyline,Harold Kopp,A,Utah State,Skyline,Everett Faunce,L,7,33
-1956-11-03,Brigham Young,Skyline,Harold Kopp,H,New Mexico,Skyline,Dick Clausen,W,33,12
-1956-11-10,Brigham Young,Skyline,Harold Kopp,A,Denver,Skyline,John Roning,L,34,58
-1956-11-17,Brigham Young,Skyline,Harold Kopp,H,Wyoming,Skyline,Phil Dickens,L,6,7
+1956-11-17,Wyoming,Skyline,Phil Dickens,A,BYU,Skyline,Harold Kopp,W,7,6
+1956-09-15,BYU,Skyline,Harold Kopp,A,Wichita State,MVC,Pete Tillman,L,0,13
+1956-09-29,BYU,Skyline,Harold Kopp,A,Colorado State,Skyline,Tuffy Mullison,T,0,0
+1956-10-05,BYU,Skyline,Harold Kopp,H,Utah,Skyline,Jack Curtice,L,6,41
+1956-10-20,BYU,Skyline,Harold Kopp,A,Montana,Skyline,Jerry Williams,L,14,21
+1956-10-27,BYU,Skyline,Harold Kopp,A,Utah State,Skyline,Everett Faunce,L,7,33
+1956-11-03,BYU,Skyline,Harold Kopp,H,New Mexico,Skyline,Dick Clausen,W,33,12
+1956-11-10,BYU,Skyline,Harold Kopp,A,Denver,Skyline,John Roning,L,34,58
+1956-11-17,BYU,Skyline,Harold Kopp,H,Wyoming,Skyline,Phil Dickens,L,6,7
 1956-10-06,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,Alva Kelley,W,20,2
 1956-10-13,Yale,Ivy,Jordan Olivar,A,Columbia,Ivy,Lou Little,W,33,19
 1956-10-20,Yale,Ivy,Jordan Olivar,H,Cornell,Ivy,George James,W,25,7
@@ -841,7 +841,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1956-11-24,Colorado,Big 7,Dallas Ward,A,Arizona,BIAA,Warren Woodson,W,38,7
 1957-01-01,Colorado,Big 7,Dallas Ward,N,Clemson,ACC,Frank Howard,W,27,21
 1956-09-22,Colorado State,Skyline,Tuffy Mullison,A,Pacific,Ind,Moose Myers,L,14,39
-1956-09-29,Colorado State,Skyline,Tuffy Mullison,H,Brigham Young,Skyline,Harold Kopp,T,0,0
+1956-09-29,Colorado State,Skyline,Tuffy Mullison,H,BYU,Skyline,Harold Kopp,T,0,0
 1956-10-06,Colorado State,Skyline,Tuffy Mullison,H,Wyoming,Skyline,Phil Dickens,L,12,20
 1956-10-13,Colorado State,Skyline,Tuffy Mullison,A,Colorado,Big 7,Dallas Ward,L,7,47
 1956-10-20,Colorado State,Skyline,Tuffy Mullison,A,Utah State,Skyline,Everett Faunce,L,7,46

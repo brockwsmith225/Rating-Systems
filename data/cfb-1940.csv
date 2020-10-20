@@ -47,7 +47,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-11-16,Furman,Southern,,H,South Carolina,Southern,Rex Enright,W,25,7
 1940-11-23,Furman,Southern,,H,Clemson,Southern,Frank Howard,L,7,13
 1940-09-28,Utah,MSAC,Ike Armstrong,A,Santa Clara,Ind,Buck Shaw,L,13,34
-1940-10-05,Utah,MSAC,Ike Armstrong,H,Brigham Young,MSAC,Edwin Kimball,W,12,6
+1940-10-05,Utah,MSAC,Ike Armstrong,H,BYU,MSAC,Edwin Kimball,W,12,6
 1940-10-12,Utah,MSAC,Ike Armstrong,H,Arizona,BIAA,Miles Casteel,W,24,0
 1940-10-19,Utah,MSAC,Ike Armstrong,A,Utah State,MSAC,E. Lowell Romney,L,0,7
 1940-10-26,Utah,MSAC,Ike Armstrong,H,Denver,MSAC,Cac Hubbard,W,25,14
@@ -326,7 +326,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-10-12,Utah State,MSAC,E. Lowell Romney,H,Colorado,MSAC,Frank Potts,L,0,26
 1940-10-19,Utah State,MSAC,E. Lowell Romney,H,Utah,MSAC,Ike Armstrong,W,7,0
 1940-10-26,Utah State,MSAC,E. Lowell Romney,A,Idaho,PCC,Ted Bank,T,0,0
-1940-11-02,Utah State,MSAC,E. Lowell Romney,A,Brigham Young,MSAC,Edwin Kimball,L,7,12
+1940-11-02,Utah State,MSAC,E. Lowell Romney,A,BYU,MSAC,Edwin Kimball,L,7,12
 1940-11-09,Utah State,MSAC,E. Lowell Romney,A,Colorado State,MSAC,Harry Hughes,L,12,13
 1940-11-16,Utah State,MSAC,E. Lowell Romney,A,Denver,MSAC,Cac Hubbard,L,6,34
 1940-11-23,Utah State,MSAC,E. Lowell Romney,H,Wyoming,MSAC,Okie Blanchard,W,16,0
@@ -349,7 +349,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-10-12,Denver,MSAC,Cac Hubbard,H,Colorado State,MSAC,Harry Hughes,W,14,13
 1940-10-19,Denver,MSAC,Cac Hubbard,H,Wyoming,MSAC,Okie Blanchard,W,41,9
 1940-10-26,Denver,MSAC,Cac Hubbard,A,Utah,MSAC,Ike Armstrong,L,14,25
-1940-11-09,Denver,MSAC,Cac Hubbard,A,Brigham Young,MSAC,Edwin Kimball,W,9,0
+1940-11-09,Denver,MSAC,Cac Hubbard,A,BYU,MSAC,Edwin Kimball,W,9,0
 1940-11-16,Denver,MSAC,Cac Hubbard,H,Utah State,MSAC,E. Lowell Romney,W,34,6
 1940-11-21,Denver,MSAC,Cac Hubbard,H,Colorado,MSAC,Frank Potts,T,3,3
 1940-10-05,Wisconsin,Western,Harry Stuhldreher,H,Marquette,Ind,Paddy Driscoll,W,33,19
@@ -456,18 +456,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-11-23,George Washington,Ind,Bill Reinhard,H,Georgetown,Ind,Jack Hagerty,L,0,8
 1940-09-28,Wyoming,MSAC,Okie Blanchard,H,New Mexico,BIAA,Ted Shipkey,W,7,3
 1940-10-05,Wyoming,MSAC,Okie Blanchard,H,Colorado State,MSAC,Harry Hughes,T,0,0
-1940-10-11,Wyoming,MSAC,Okie Blanchard,A,Brigham Young,MSAC,Edwin Kimball,L,0,20
+1940-10-11,Wyoming,MSAC,Okie Blanchard,A,BYU,MSAC,Edwin Kimball,L,0,20
 1940-10-19,Wyoming,MSAC,Okie Blanchard,A,Denver,MSAC,Cac Hubbard,L,9,41
 1940-10-26,Wyoming,MSAC,Okie Blanchard,A,Colorado,MSAC,Frank Potts,L,0,62
 1940-11-09,Wyoming,MSAC,Okie Blanchard,H,Utah,MSAC,Ike Armstrong,L,7,34
 1940-11-23,Wyoming,MSAC,Okie Blanchard,A,Utah State,MSAC,E. Lowell Romney,L,0,16
-1940-10-05,Brigham Young,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,L,6,12
-1940-10-11,Brigham Young,MSAC,Edwin Kimball,H,Wyoming,MSAC,Okie Blanchard,W,20,0
-1940-10-18,Brigham Young,MSAC,Edwin Kimball,A,Texas Tech,BIAA,Pete Cawthon,L,20,21
-1940-11-02,Brigham Young,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,W,12,7
-1940-11-09,Brigham Young,MSAC,Edwin Kimball,H,Denver,MSAC,Cac Hubbard,L,0,9
-1940-11-16,Brigham Young,MSAC,Edwin Kimball,A,Colorado,MSAC,Frank Potts,L,2,25
-1940-11-23,Brigham Young,MSAC,Edwin Kimball,A,Colorado State,MSAC,Harry Hughes,T,13,13
+1940-10-05,BYU,MSAC,Edwin Kimball,A,Utah,MSAC,Ike Armstrong,L,6,12
+1940-10-11,BYU,MSAC,Edwin Kimball,H,Wyoming,MSAC,Okie Blanchard,W,20,0
+1940-10-18,BYU,MSAC,Edwin Kimball,A,Texas Tech,BIAA,Pete Cawthon,L,20,21
+1940-11-02,BYU,MSAC,Edwin Kimball,H,Utah State,MSAC,E. Lowell Romney,W,12,7
+1940-11-09,BYU,MSAC,Edwin Kimball,H,Denver,MSAC,Cac Hubbard,L,0,9
+1940-11-16,BYU,MSAC,Edwin Kimball,A,Colorado,MSAC,Frank Potts,L,2,25
+1940-11-23,BYU,MSAC,Edwin Kimball,A,Colorado State,MSAC,Harry Hughes,T,13,13
 1940-10-11,Duquesne,Ind,Aldo Donelli,H,South Carolina,Southern,Rex Enright,W,27,21
 1940-10-19,Duquesne,Ind,Aldo Donelli,A,Ole Miss,SEC,Harry Mehre,L,6,14
 1940-10-25,Duquesne,Ind,Aldo Donelli,H,Manhattan,Ind,Herb Kopf,W,10,6
@@ -768,7 +768,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-10-26,Colorado,MSAC,Frank Potts,H,Wyoming,MSAC,Okie Blanchard,W,62,0
 1940-11-02,Colorado,MSAC,Frank Potts,H,Utah,MSAC,Ike Armstrong,L,13,21
 1940-11-09,Colorado,MSAC,Frank Potts,H,Missouri,Big 6,Don Faurot,L,6,21
-1940-11-16,Colorado,MSAC,Frank Potts,H,Brigham Young,MSAC,Edwin Kimball,W,25,2
+1940-11-16,Colorado,MSAC,Frank Potts,H,BYU,MSAC,Edwin Kimball,W,25,2
 1940-11-21,Colorado,MSAC,Frank Potts,A,Denver,MSAC,Cac Hubbard,T,3,3
 1940-10-05,Colorado State,MSAC,Harry Hughes,A,Wyoming,MSAC,Okie Blanchard,T,0,0
 1940-10-12,Colorado State,MSAC,Harry Hughes,A,Denver,MSAC,Cac Hubbard,L,13,14
@@ -776,7 +776,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-10-26,Colorado State,MSAC,Harry Hughes,H,New Mexico,BIAA,Ted Shipkey,W,7,6
 1940-11-09,Colorado State,MSAC,Harry Hughes,H,Utah State,MSAC,E. Lowell Romney,W,13,12
 1940-11-16,Colorado State,MSAC,Harry Hughes,A,Utah,MSAC,Ike Armstrong,L,0,27
-1940-11-23,Colorado State,MSAC,Harry Hughes,H,Brigham Young,MSAC,Edwin Kimball,T,13,13
+1940-11-23,Colorado State,MSAC,Harry Hughes,H,BYU,MSAC,Edwin Kimball,T,13,13
 1940-11-28,Colorado State,MSAC,Harry Hughes,A,Kansas,Big 6,Gwinn Henry,L,0,26
 1940-10-05,Rice,SWC,Jess Neely,H,Centenary (LA),Ind,Jake Hanna,W,25,0
 1940-10-12,Rice,SWC,Jess Neely,H,LSU,SEC,Bernie Moore,W,23,0
@@ -889,7 +889,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1940-09-27,Texas Tech,BIAA,Pete Cawthon,H,Oklahoma State,MVC,Jim Lookabaugh,T,6,6
 1940-10-05,Texas Tech,BIAA,Pete Cawthon,H,Loyola Marymount,Ind,Marty Brill,W,19,0
 1940-10-12,Texas Tech,BIAA,Pete Cawthon,A,Montana,PCC,Doug Fessenden,W,32,19
-1940-10-18,Texas Tech,BIAA,Pete Cawthon,H,Brigham Young,MSAC,Edwin Kimball,W,21,20
+1940-10-18,Texas Tech,BIAA,Pete Cawthon,H,BYU,MSAC,Edwin Kimball,W,21,20
 1940-10-26,Texas Tech,BIAA,Pete Cawthon,A,Marquette,Ind,Paddy Driscoll,W,20,13
 1940-11-01,Texas Tech,BIAA,Pete Cawthon,H,Miami (FL),Ind,Jack Harding,W,61,14
 1940-11-11,Texas Tech,BIAA,Pete Cawthon,H,Centenary (LA),Ind,Jake Hanna,W,26,6

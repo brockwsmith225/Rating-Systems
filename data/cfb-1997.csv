@@ -70,7 +70,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-12-29,Cincinnati,CUSA,Rick Minter,N,Utah State,Big West,John Smith,W,35,19
 1997-08-30,Arizona State,Pac-10,Bruce Snyder,H,New Mexico State,Big West,Tony Samuel,W,41,10
 1997-09-13,Arizona State,Pac-10,Bruce Snyder,A,Miami (FL),Big East,Butch Davis,W,23,12
-1997-09-20,Arizona State,Pac-10,Bruce Snyder,H,Brigham Young,WAC,LaVell Edwards,L,10,13
+1997-09-20,Arizona State,Pac-10,Bruce Snyder,H,BYU,WAC,LaVell Edwards,L,10,13
 1997-09-27,Arizona State,Pac-10,Bruce Snyder,A,Oregon State,Pac-10,Mike Riley,W,13,10
 1997-10-04,Arizona State,Pac-10,Bruce Snyder,A,Washington,Pac-10,Jim Lambright,L,14,26
 1997-10-11,Arizona State,Pac-10,Bruce Snyder,H,USC,Pac-10,John Robinson,W,35,7
@@ -90,7 +90,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-10-25,Utah,WAC,Ron McBride,H,New Mexico,WAC,Dennis Franchione,W,15,10
 1997-11-01,Utah,WAC,Ron McBride,A,Tulsa,WAC,David Rader,L,13,21
 1997-11-15,Utah,WAC,Ron McBride,H,Rice,WAC,Ken Hatfield,W,31,14
-1997-11-22,Utah,WAC,Ron McBride,A,Brigham Young,WAC,LaVell Edwards,W,20,14
+1997-11-22,Utah,WAC,Ron McBride,A,BYU,WAC,LaVell Edwards,W,20,14
 1997-08-24,Syracuse,Big East,Paul Pasqualoni,N,Wisconsin,Big Ten,Barry Alvarez,W,34,0
 1997-08-30,Syracuse,Big East,Paul Pasqualoni,H,North Carolina State,ACC,Mike O'Cain,L,31,32
 1997-09-06,Syracuse,Big East,Paul Pasqualoni,A,Oklahoma,Big 12,John Blake,L,34,36
@@ -229,7 +229,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-09-06,SMU,WAC,Mike Cavan,A,Ole Miss,SEC,Tommy Tuberville,L,15,23
 1997-09-13,SMU,WAC,Mike Cavan,N,Arkansas,SEC,Danny Ford,W,31,9
 1997-09-20,SMU,WAC,Mike Cavan,H,Navy,Ind,Charlie Weatherbie,L,16,46
-1997-09-27,SMU,WAC,Mike Cavan,H,Brigham Young,WAC,LaVell Edwards,L,16,19
+1997-09-27,SMU,WAC,Mike Cavan,H,BYU,WAC,LaVell Edwards,L,16,19
 1997-10-04,SMU,WAC,Mike Cavan,A,New Mexico,WAC,Dennis Franchione,L,15,22
 1997-10-11,SMU,WAC,Mike Cavan,A,Utah,WAC,Ron McBride,W,20,19
 1997-10-25,SMU,WAC,Mike Cavan,H,Wyoming,WAC,Dana Dimel,W,22,17
@@ -345,7 +345,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-11-01,South Carolina,SEC,Brad Scott,A,Tennessee,SEC,Phillip Fulmer,L,7,22
 1997-11-15,South Carolina,SEC,Brad Scott,H,Florida,SEC,Steve Spurrier,L,21,48
 1997-11-22,South Carolina,SEC,Brad Scott,H,Clemson,ACC,Tommy West,L,21,47
-1997-09-06,Washington,Pac-10,Jim Lambright,A,Brigham Young,WAC,LaVell Edwards,W,42,20
+1997-09-06,Washington,Pac-10,Jim Lambright,A,BYU,WAC,LaVell Edwards,W,42,20
 1997-09-13,Washington,Pac-10,Jim Lambright,H,San Diego State,WAC,Ted Tollner,W,36,3
 1997-09-20,Washington,Pac-10,Jim Lambright,H,Nebraska,Big 12,Tom Osborne,L,14,27
 1997-10-04,Washington,Pac-10,Jim Lambright,H,Arizona State,Pac-10,Bruce Snyder,W,26,14
@@ -382,7 +382,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-08-30,Utah State,Big West,John Smith,A,Utah,WAC,Ron McBride,W,21,14
 1997-09-13,Utah State,Big West,John Smith,H,Colorado State,WAC,Sonny Lubick,L,24,35
 1997-09-20,Utah State,Big West,John Smith,H,New Mexico,WAC,Dennis Franchione,L,22,25
-1997-10-03,Utah State,Big West,John Smith,A,Brigham Young,WAC,LaVell Edwards,L,35,42
+1997-10-03,Utah State,Big West,John Smith,A,BYU,WAC,LaVell Edwards,L,35,42
 1997-10-11,Utah State,Big West,John Smith,A,Oregon State,Pac-10,Mike Riley,L,16,24
 1997-10-18,Utah State,Big West,John Smith,H,New Mexico State,Big West,Tony Samuel,W,38,7
 1997-10-25,Utah State,Big West,John Smith,A,Idaho,Big West,Chris Tormey,W,63,17
@@ -487,7 +487,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-09-20,Hawaii,WAC,Fred Vonappen,A,Nevada-Las Vegas,WAC,Jeff Horton,L,15,25
 1997-10-04,Hawaii,WAC,Fred Vonappen,A,Colorado State,WAC,Sonny Lubick,L,0,63
 1997-10-11,Hawaii,WAC,Fred Vonappen,H,Fresno State,WAC,Pat Hill,W,28,16
-1997-10-18,Hawaii,WAC,Fred Vonappen,A,Brigham Young,WAC,LaVell Edwards,L,3,17
+1997-10-18,Hawaii,WAC,Fred Vonappen,A,BYU,WAC,LaVell Edwards,L,3,17
 1997-10-25,Hawaii,WAC,Fred Vonappen,H,San Diego State,WAC,Ted Tollner,L,3,10
 1997-11-01,Hawaii,WAC,Fred Vonappen,H,Air Force,WAC,Fisher DeBerry,L,27,34
 1997-11-15,Hawaii,WAC,Fred Vonappen,A,San Jose State,WAC,Dave Baldwin,L,14,38
@@ -557,7 +557,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-10-18,New Mexico,WAC,Dennis Franchione,H,Rice,WAC,Ken Hatfield,L,23,35
 1997-10-25,New Mexico,WAC,Dennis Franchione,A,Utah,WAC,Ron McBride,L,10,15
 1997-11-01,New Mexico,WAC,Dennis Franchione,A,Texas Christian,WAC,Pat Sullivan,W,40,10
-1997-11-15,New Mexico,WAC,Dennis Franchione,H,Brigham Young,WAC,LaVell Edwards,W,38,28
+1997-11-15,New Mexico,WAC,Dennis Franchione,H,BYU,WAC,LaVell Edwards,W,38,28
 1997-11-22,New Mexico,WAC,Dennis Franchione,H,Tulsa,WAC,David Rader,W,51,13
 1997-12-06,New Mexico,WAC,Dennis Franchione,N,Colorado State,WAC,Sonny Lubick,L,13,41
 1997-12-27,New Mexico,WAC,Dennis Franchione,A,Arizona,Pac-10,Dick Tomey,L,14,20
@@ -671,17 +671,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-11-08,Wyoming,WAC,Dana Dimel,H,Nevada-Las Vegas,WAC,Jeff Horton,W,35,23
 1997-11-15,Wyoming,WAC,Dana Dimel,A,Air Force,WAC,Fisher DeBerry,L,3,14
 1997-11-22,Wyoming,WAC,Dana Dimel,A,Fresno State,WAC,Pat Hill,L,7,24
-1997-09-06,Brigham Young,WAC,LaVell Edwards,H,Washington,Pac-10,Jim Lambright,L,20,42
-1997-09-20,Brigham Young,WAC,LaVell Edwards,A,Arizona State,Pac-10,Bruce Snyder,W,13,10
-1997-09-27,Brigham Young,WAC,LaVell Edwards,A,SMU,WAC,Mike Cavan,W,19,16
-1997-10-03,Brigham Young,WAC,LaVell Edwards,H,Utah State,Big West,John Smith,W,42,35
-1997-10-11,Brigham Young,WAC,LaVell Edwards,A,Rice,WAC,Ken Hatfield,L,14,27
-1997-10-18,Brigham Young,WAC,LaVell Edwards,H,Hawaii,WAC,Fred Vonappen,W,17,3
-1997-10-25,Brigham Young,WAC,LaVell Edwards,H,Texas Christian,WAC,Pat Sullivan,W,31,10
-1997-11-01,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Charlie Bailey,L,3,14
-1997-11-08,Brigham Young,WAC,LaVell Edwards,H,Tulsa,WAC,David Rader,W,49,39
-1997-11-15,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Dennis Franchione,L,28,38
-1997-11-22,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Ron McBride,L,14,20
+1997-09-06,BYU,WAC,LaVell Edwards,H,Washington,Pac-10,Jim Lambright,L,20,42
+1997-09-20,BYU,WAC,LaVell Edwards,A,Arizona State,Pac-10,Bruce Snyder,W,13,10
+1997-09-27,BYU,WAC,LaVell Edwards,A,SMU,WAC,Mike Cavan,W,19,16
+1997-10-03,BYU,WAC,LaVell Edwards,H,Utah State,Big West,John Smith,W,42,35
+1997-10-11,BYU,WAC,LaVell Edwards,A,Rice,WAC,Ken Hatfield,L,14,27
+1997-10-18,BYU,WAC,LaVell Edwards,H,Hawaii,WAC,Fred Vonappen,W,17,3
+1997-10-25,BYU,WAC,LaVell Edwards,H,Texas Christian,WAC,Pat Sullivan,W,31,10
+1997-11-01,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Charlie Bailey,L,3,14
+1997-11-08,BYU,WAC,LaVell Edwards,H,Tulsa,WAC,David Rader,W,49,39
+1997-11-15,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Dennis Franchione,L,28,38
+1997-11-22,BYU,WAC,LaVell Edwards,H,Utah,WAC,Ron McBride,L,14,20
 1997-09-06,Georgia Tech,ACC,George O'Leary,A,Notre Dame,Ind,Bob Davie,L,13,17
 1997-09-20,Georgia Tech,ACC,George O'Leary,A,Wake Forest,ACC,Jim Caldwell,W,28,26
 1997-09-27,Georgia Tech,ACC,George O'Leary,H,Clemson,ACC,Tommy West,W,23,20
@@ -854,7 +854,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-10-04,UTEP,WAC,Charlie Bailey,A,Clemson,ACC,Tommy West,L,7,39
 1997-10-11,UTEP,WAC,Charlie Bailey,A,Tulsa,WAC,David Rader,W,33,18
 1997-10-18,UTEP,WAC,Charlie Bailey,H,San Jose State,WAC,Dave Baldwin,L,7,10
-1997-11-01,UTEP,WAC,Charlie Bailey,H,Brigham Young,WAC,LaVell Edwards,W,14,3
+1997-11-01,UTEP,WAC,Charlie Bailey,H,BYU,WAC,LaVell Edwards,W,14,3
 1997-11-08,UTEP,WAC,Charlie Bailey,A,SMU,WAC,Mike Cavan,L,14,28
 1997-11-15,UTEP,WAC,Charlie Bailey,H,Texas Christian,WAC,Pat Sullivan,W,24,17
 1997-11-22,UTEP,WAC,Charlie Bailey,A,Rice,WAC,Ken Hatfield,L,13,31
@@ -878,7 +878,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-10-18,Tulsa,WAC,David Rader,A,Texas Christian,WAC,Pat Sullivan,W,33,22
 1997-10-26,Tulsa,WAC,David Rader,A,Colorado State,WAC,Sonny Lubick,L,8,44
 1997-11-01,Tulsa,WAC,David Rader,H,Utah,WAC,Ron McBride,W,21,13
-1997-11-08,Tulsa,WAC,David Rader,A,Brigham Young,WAC,LaVell Edwards,L,39,49
+1997-11-08,Tulsa,WAC,David Rader,A,BYU,WAC,LaVell Edwards,L,39,49
 1997-11-15,Tulsa,WAC,David Rader,H,SMU,WAC,Mike Cavan,L,41,42
 1997-11-22,Tulsa,WAC,David Rader,A,New Mexico,WAC,Dennis Franchione,L,13,51
 1997-09-13,Iowa,Big Ten,Hayden Fry,H,Tulsa,WAC,David Rader,W,54,16
@@ -909,7 +909,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-10-04,Texas Christian,WAC,Pat Sullivan,H,North Carolina,ACC,Carl Torbush,L,10,31
 1997-10-11,Texas Christian,WAC,Pat Sullivan,A,Nevada-Las Vegas,WAC,Jeff Horton,L,19,21
 1997-10-18,Texas Christian,WAC,Pat Sullivan,H,Tulsa,WAC,David Rader,L,22,33
-1997-10-25,Texas Christian,WAC,Pat Sullivan,A,Brigham Young,WAC,LaVell Edwards,L,10,31
+1997-10-25,Texas Christian,WAC,Pat Sullivan,A,BYU,WAC,LaVell Edwards,L,10,31
 1997-11-01,Texas Christian,WAC,Pat Sullivan,H,New Mexico,WAC,Dennis Franchione,L,10,40
 1997-11-08,Texas Christian,WAC,Pat Sullivan,A,Rice,WAC,Ken Hatfield,L,19,38
 1997-11-15,Texas Christian,WAC,Pat Sullivan,A,UTEP,WAC,Charlie Bailey,L,17,24
@@ -1062,7 +1062,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1997-09-20,Rice,WAC,Ken Hatfield,A,Northwestern,Big Ten,Gary Barnett,W,40,34
 1997-09-27,Rice,WAC,Ken Hatfield,H,Texas,Big 12,John Mackovic,L,31,38
 1997-10-04,Rice,WAC,Ken Hatfield,A,Tulsa,WAC,David Rader,W,42,24
-1997-10-11,Rice,WAC,Ken Hatfield,H,Brigham Young,WAC,LaVell Edwards,W,27,14
+1997-10-11,Rice,WAC,Ken Hatfield,H,BYU,WAC,LaVell Edwards,W,27,14
 1997-10-18,Rice,WAC,Ken Hatfield,A,New Mexico,WAC,Dennis Franchione,W,35,23
 1997-11-01,Rice,WAC,Ken Hatfield,A,SMU,WAC,Mike Cavan,L,6,24
 1997-11-08,Rice,WAC,Ken Hatfield,H,Texas Christian,WAC,Pat Sullivan,W,38,19

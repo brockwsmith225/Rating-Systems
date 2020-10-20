@@ -76,7 +76,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-09-22,Utah,WAC,Ray Nagel,H,Colorado,Big 8,Bud Davis,W,37,21
 1962-09-29,Utah,WAC,Ray Nagel,A,Oregon,Ind,Len Casanova,L,8,35
 1962-10-06,Utah,WAC,Ray Nagel,A,Wyoming,WAC,Lloyd Eaton,L,7,16
-1962-10-13,Utah,WAC,Ray Nagel,H,Brigham Young,WAC,Hal Mitchell,W,35,20
+1962-10-13,Utah,WAC,Ray Nagel,H,BYU,WAC,Hal Mitchell,W,35,20
 1962-10-20,Utah,WAC,Ray Nagel,H,New Mexico,WAC,Bill Weeks,T,7,7
 1962-10-27,Utah,WAC,Ray Nagel,H,Idaho,Ind,Dee Andros,W,25,21
 1962-11-03,Utah,WAC,Ray Nagel,A,Colorado State,Ind,Milo Lude,W,26,8
@@ -108,7 +108,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-11-17,Syracuse,Ind,Ben Schwartzwalder,H,George Washington,Southern,Jim Camp,W,35,0
 1962-11-24,Syracuse,Ind,Ben Schwartzwalder,H,West Virginia,Southern,Gene Corum,L,6,17
 1962-12-08,Syracuse,Ind,Ben Schwartzwalder,A,UCLA,AAWU,Bill Barnes,W,12,7
-1962-09-22,Arizona,WAC,Jim LaRue,H,Brigham Young,WAC,Hal Mitchell,W,27,21
+1962-09-22,Arizona,WAC,Jim LaRue,H,BYU,WAC,Hal Mitchell,W,27,21
 1962-09-29,Arizona,WAC,Jim LaRue,A,New Mexico,WAC,Bill Weeks,L,25,35
 1962-10-06,Arizona,WAC,Jim LaRue,A,Missouri,Big 8,Dan Devine,L,7,17
 1962-10-13,Arizona,WAC,Jim LaRue,H,Air Force,Ind,Ben Martin,L,6,20
@@ -121,7 +121,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-09-15,Montana,Ind,Ray Jenkins,H,Wyoming,WAC,Lloyd Eaton,L,0,13
 1962-09-29,Montana,Ind,Ray Jenkins,A,Utah State,Ind,John Ralston,L,20,43
 1962-10-06,Montana,Ind,Ray Jenkins,H,Idaho,Ind,Dee Andros,W,22,16
-1962-10-20,Montana,Ind,Ray Jenkins,H,Brigham Young,WAC,Hal Mitchell,L,0,27
+1962-10-20,Montana,Ind,Ray Jenkins,H,BYU,WAC,Hal Mitchell,L,0,27
 1962-11-17,Montana,Ind,Ray Jenkins,A,New Mexico,WAC,Bill Weeks,L,12,41
 1962-11-22,Montana,Ind,Ray Jenkins,A,Colorado State,Ind,Milo Lude,W,16,15
 1962-09-22,Penn State,Ind,Rip Engle,H,Navy,Ind,Wayne Hardin,W,41,7
@@ -372,7 +372,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-09-29,Utah State,Ind,John Ralston,H,Montana,Ind,Ray Jenkins,W,43,20
 1962-10-13,Utah State,Ind,John Ralston,A,New Mexico,WAC,Bill Weeks,L,13,14
 1962-10-20,Utah State,Ind,John Ralston,H,Colorado State,Ind,Milo Lude,W,21,0
-1962-10-27,Utah State,Ind,John Ralston,H,Brigham Young,WAC,Hal Mitchell,W,27,21
+1962-10-27,Utah State,Ind,John Ralston,H,BYU,WAC,Hal Mitchell,W,27,21
 1962-11-03,Utah State,Ind,John Ralston,A,Arizona State,WAC,Frank Kush,L,15,34
 1962-11-10,Utah State,Ind,John Ralston,H,Wyoming,WAC,Lloyd Eaton,W,20,6
 1962-11-17,Utah State,Ind,John Ralston,A,Utah,WAC,Ray Nagel,W,19,6
@@ -471,10 +471,10 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-10-13,New Mexico,WAC,Bill Weeks,H,Utah State,Ind,John Ralston,W,14,13
 1962-10-20,New Mexico,WAC,Bill Weeks,A,Utah,WAC,Ray Nagel,T,7,7
 1962-10-27,New Mexico,WAC,Bill Weeks,A,San Jose State,Ind,Robert Titchenal,W,25,13
-1962-11-03,New Mexico,WAC,Bill Weeks,A,Brigham Young,WAC,Hal Mitchell,L,0,27
+1962-11-03,New Mexico,WAC,Bill Weeks,A,BYU,WAC,Hal Mitchell,L,0,27
 1962-11-10,New Mexico,WAC,Bill Weeks,H,Colorado State,Ind,Milo Lude,W,21,8
 1962-11-17,New Mexico,WAC,Bill Weeks,H,Montana,Ind,Ray Jenkins,W,41,12
-1962-09-15,Pacific,Ind,John Rohde,H,Brigham Young,WAC,Hal Mitchell,W,26,7
+1962-09-15,Pacific,Ind,John Rohde,H,BYU,WAC,Hal Mitchell,W,26,7
 1962-09-22,Pacific,Ind,John Rohde,A,New Mexico State,Ind,Warren Woodson,L,6,28
 1962-10-20,Pacific,Ind,John Rohde,A,Oregon State,Ind,Tommy Prothro,L,6,40
 1962-10-27,Pacific,Ind,John Rohde,H,Washington State,AAWU,Jim Sutherland,W,13,12
@@ -517,7 +517,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-12-31,West Texas A&M,Ind,Joe Kerbel,N,Ohio,MAC,Bill Hess,W,15,14
 1962-09-15,George Washington,Southern,Jim Camp,A,Virginia Military Institute,Southern,John McKenna,L,6,22
 1962-09-22,George Washington,Southern,Jim Camp,A,Virginia Tech,Southern,Jerry Claiborne,L,14,15
-1962-09-29,George Washington,Southern,Jim Camp,A,Brigham Young,WAC,Hal Mitchell,W,13,12
+1962-09-29,George Washington,Southern,Jim Camp,A,BYU,WAC,Hal Mitchell,W,13,12
 1962-10-05,George Washington,Southern,Jim Camp,H,Furman,Southern,Robert King,W,14,7
 1962-10-13,George Washington,Southern,Jim Camp,H,Boston University,Ind,Steve Sinko,W,14,6
 1962-10-20,George Washington,Southern,Jim Camp,A,West Virginia,Southern,Gene Corum,L,25,27
@@ -543,17 +543,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-10-27,Wyoming,WAC,Lloyd Eaton,A,Colorado State,Ind,Milo Lude,W,28,7
 1962-11-03,Wyoming,WAC,Lloyd Eaton,A,Air Force,Ind,Ben Martin,L,14,35
 1962-11-10,Wyoming,WAC,Lloyd Eaton,A,Utah State,Ind,John Ralston,L,6,20
-1962-11-17,Wyoming,WAC,Lloyd Eaton,A,Brigham Young,WAC,Hal Mitchell,L,7,14
-1962-09-15,Brigham Young,WAC,Hal Mitchell,A,Pacific,Ind,John Rohde,L,7,26
-1962-09-22,Brigham Young,WAC,Hal Mitchell,A,Arizona,WAC,Jim LaRue,L,21,27
-1962-09-29,Brigham Young,WAC,Hal Mitchell,H,George Washington,Southern,Jim Camp,L,12,13
-1962-10-06,Brigham Young,WAC,Hal Mitchell,A,Colorado State,Ind,Milo Lude,W,28,7
-1962-10-13,Brigham Young,WAC,Hal Mitchell,A,Utah,WAC,Ray Nagel,L,20,35
-1962-10-20,Brigham Young,WAC,Hal Mitchell,A,Montana,Ind,Ray Jenkins,W,27,0
-1962-10-27,Brigham Young,WAC,Hal Mitchell,A,Utah State,Ind,John Ralston,L,21,27
-1962-11-03,Brigham Young,WAC,Hal Mitchell,H,New Mexico,WAC,Bill Weeks,W,27,0
-1962-11-10,Brigham Young,WAC,Hal Mitchell,A,Western Michigan,MAC,Merle Schlosser,L,20,28
-1962-11-17,Brigham Young,WAC,Hal Mitchell,H,Wyoming,WAC,Lloyd Eaton,W,14,7
+1962-11-17,Wyoming,WAC,Lloyd Eaton,A,BYU,WAC,Hal Mitchell,L,7,14
+1962-09-15,BYU,WAC,Hal Mitchell,A,Pacific,Ind,John Rohde,L,7,26
+1962-09-22,BYU,WAC,Hal Mitchell,A,Arizona,WAC,Jim LaRue,L,21,27
+1962-09-29,BYU,WAC,Hal Mitchell,H,George Washington,Southern,Jim Camp,L,12,13
+1962-10-06,BYU,WAC,Hal Mitchell,A,Colorado State,Ind,Milo Lude,W,28,7
+1962-10-13,BYU,WAC,Hal Mitchell,A,Utah,WAC,Ray Nagel,L,20,35
+1962-10-20,BYU,WAC,Hal Mitchell,A,Montana,Ind,Ray Jenkins,W,27,0
+1962-10-27,BYU,WAC,Hal Mitchell,A,Utah State,Ind,John Ralston,L,21,27
+1962-11-03,BYU,WAC,Hal Mitchell,H,New Mexico,WAC,Bill Weeks,W,27,0
+1962-11-10,BYU,WAC,Hal Mitchell,A,Western Michigan,MAC,Merle Schlosser,L,20,28
+1962-11-17,BYU,WAC,Hal Mitchell,H,Wyoming,WAC,Lloyd Eaton,W,14,7
 1962-10-06,Yale,Ivy,Jordan Olivar,A,Brown,Ivy,John McLaughry,T,6,6
 1962-10-13,Yale,Ivy,Jordan Olivar,A,Columbia,Ivy,Aldo Donelli,L,10,14
 1962-10-20,Yale,Ivy,Jordan Olivar,H,Cornell,Ivy,Tom Harp,W,26,8
@@ -702,7 +702,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-10-20,Western Michigan,MAC,Merle Schlosser,H,Toledo,MAC,Clive Rush,W,21,0
 1962-10-27,Western Michigan,MAC,Merle Schlosser,A,Marshall,MAC,Charlie Snyder,W,12,0
 1962-11-03,Western Michigan,MAC,Merle Schlosser,A,Kent State,MAC,Trevor Rees,W,19,6
-1962-11-10,Western Michigan,MAC,Merle Schlosser,H,Brigham Young,WAC,Hal Mitchell,W,28,20
+1962-11-10,Western Michigan,MAC,Merle Schlosser,H,BYU,WAC,Hal Mitchell,W,28,20
 1962-11-17,Western Michigan,MAC,Merle Schlosser,H,Ohio,MAC,Bill Hess,L,16,32
 1962-09-15,William & Mary,Southern,Milt Drewer,H,Virginia Tech,Southern,Jerry Claiborne,W,3,0
 1962-09-22,William & Mary,Southern,Milt Drewer,H,Virginia,ACC,William Elias,L,7,19
@@ -935,7 +935,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1962-11-24,Colorado,Big 8,Bud Davis,H,Air Force,Ind,Ben Martin,W,34,10
 1962-09-22,Colorado State,Ind,Milo Lude,A,Air Force,Ind,Ben Martin,L,0,34
 1962-09-29,Colorado State,Ind,Milo Lude,A,Arizona State,WAC,Frank Kush,L,0,35
-1962-10-06,Colorado State,Ind,Milo Lude,H,Brigham Young,WAC,Hal Mitchell,L,7,28
+1962-10-06,Colorado State,Ind,Milo Lude,H,BYU,WAC,Hal Mitchell,L,7,28
 1962-10-12,Colorado State,Ind,Milo Lude,A,UCLA,AAWU,Bill Barnes,L,7,35
 1962-10-20,Colorado State,Ind,Milo Lude,A,Utah State,Ind,John Ralston,L,0,21
 1962-10-27,Colorado State,Ind,Milo Lude,H,Wyoming,WAC,Lloyd Eaton,L,7,28

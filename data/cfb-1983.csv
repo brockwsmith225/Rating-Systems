@@ -87,7 +87,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-10-22,Utah,WAC,Chuck Stobart,A,Air Force,WAC,Ken Hatfield,L,31,33
 1983-11-05,Utah,WAC,Chuck Stobart,H,Cal State Fullerton,PCAA,Gene Murphy,W,47,20
 1983-11-12,Utah,WAC,Chuck Stobart,A,Utah State,PCAA,Chris Pella,L,17,21
-1983-11-19,Utah,WAC,Chuck Stobart,A,Brigham Young,WAC,LaVell Edwards,L,7,55
+1983-11-19,Utah,WAC,Chuck Stobart,A,BYU,WAC,LaVell Edwards,L,7,55
 1983-09-10,Cal State Fullerton,PCAA,Gene Murphy,A,Long Beach State,PCAA,Dave Currey,W,25,19
 1983-09-17,Cal State Fullerton,PCAA,Gene Murphy,A,Utah State,PCAA,Chris Pella,W,25,24
 1983-09-24,Cal State Fullerton,PCAA,Gene Murphy,A,Arizona,Pac-10,Larry Smith,L,10,27
@@ -225,7 +225,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-11-12,Illinois,Big Ten,Mike White,H,Indiana,Big Ten,Sam Wyche,W,49,21
 1983-11-19,Illinois,Big Ten,Mike White,A,Northwestern,Big Ten,Dennis Green,W,56,24
 1984-01-02,Illinois,Big Ten,Mike White,A,UCLA,Pac-10,Terry Donahue,L,9,45
-1983-09-10,Baylor,SWC,Grant Teaff,H,Brigham Young,WAC,LaVell Edwards,W,40,36
+1983-09-10,Baylor,SWC,Grant Teaff,H,BYU,WAC,LaVell Edwards,W,40,36
 1983-09-17,Baylor,SWC,Grant Teaff,A,UTEP,WAC,Bill Yung,W,20,6
 1983-09-24,Baylor,SWC,Grant Teaff,H,Texas Tech,SWC,Jerry Moore,L,11,26
 1983-10-01,Baylor,SWC,Grant Teaff,A,Houston,SWC,Bill Yeoman,W,42,21
@@ -397,7 +397,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-10-01,Utah State,PCAA,Chris Pella,H,Fresno State,PCAA,Jim Sweeney,W,20,12
 1983-10-08,Utah State,PCAA,Chris Pella,A,Pacific,PCAA,Bob Cope,W,27,10
 1983-10-22,Utah State,PCAA,Chris Pella,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,10,28
-1983-10-29,Utah State,PCAA,Chris Pella,A,Brigham Young,WAC,LaVell Edwards,L,34,38
+1983-10-29,Utah State,PCAA,Chris Pella,A,BYU,WAC,LaVell Edwards,L,34,38
 1983-11-05,Utah State,PCAA,Chris Pella,H,San Jose State,PCAA,Jack Elway,W,22,15
 1983-11-12,Utah State,PCAA,Chris Pella,H,Utah,WAC,Chuck Stobart,W,21,17
 1983-11-25,Utah State,PCAA,Chris Pella,A,Long Beach State,PCAA,Dave Currey,L,3,6
@@ -412,7 +412,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-11-05,Missouri,Big 8,Warren Powers,H,Oklahoma,Big 8,Barry Switzer,W,10,0
 1983-11-12,Missouri,Big 8,Warren Powers,H,Oklahoma State,Big 8,Jimmy Johnson,W,16,10
 1983-11-19,Missouri,Big 8,Warren Powers,A,Kansas,Big 8,Mike Gottfried,L,27,37
-1983-12-23,Missouri,Big 8,Warren Powers,N,Brigham Young,WAC,LaVell Edwards,L,17,21
+1983-12-23,Missouri,Big 8,Warren Powers,N,BYU,WAC,LaVell Edwards,L,17,21
 1983-09-10,San Jose State,PCAA,Jack Elway,H,Nevada-Las Vegas,PCAA,Harvey Hyde,W,31,26
 1983-09-17,San Jose State,PCAA,Jack Elway,A,California,Pac-10,Joe Kapp,L,9,30
 1983-09-24,San Jose State,PCAA,Jack Elway,A,Stanford,Pac-10,Paul Wiggin,W,23,10
@@ -425,7 +425,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-11-19,San Jose State,PCAA,Jack Elway,A,Arizona State,Pac-10,Darryl Rogers,L,17,24
 1983-11-26,San Jose State,PCAA,Jack Elway,H,Louisiana,Ind,Sam Robertson,L,21,25
 1983-09-10,Bowling Green State,MAC,Dennis Stolz,A,Fresno State,PCAA,Jim Sweeney,W,35,27
-1983-09-17,Bowling Green State,MAC,Dennis Stolz,A,Brigham Young,WAC,LaVell Edwards,L,28,63
+1983-09-17,Bowling Green State,MAC,Dennis Stolz,A,BYU,WAC,LaVell Edwards,L,28,63
 1983-09-24,Bowling Green State,MAC,Dennis Stolz,H,Miami (OH),MAC,Tim Rose,W,17,14
 1983-10-01,Bowling Green State,MAC,Dennis Stolz,A,Eastern Michigan,MAC,Jim Harkema,W,26,21
 1983-10-08,Bowling Green State,MAC,Dennis Stolz,H,Toledo,MAC,Dan Simrell,L,3,6
@@ -473,7 +473,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-10-01,San Diego State,WAC,Doug Scovil,A,Hawaii,WAC,Dick Tomey,T,27,27
 1983-10-08,San Diego State,WAC,Doug Scovil,A,Long Beach State,PCAA,Dave Currey,L,13,20
 1983-10-15,San Diego State,WAC,Doug Scovil,A,Colorado State,WAC,Leon Fuller,L,15,17
-1983-10-22,San Diego State,WAC,Doug Scovil,H,Brigham Young,WAC,LaVell Edwards,L,12,47
+1983-10-22,San Diego State,WAC,Doug Scovil,H,BYU,WAC,LaVell Edwards,L,12,47
 1983-10-29,San Diego State,WAC,Doug Scovil,A,Nevada-Las Vegas,PCAA,Harvey Hyde,L,10,28
 1983-11-12,San Diego State,WAC,Doug Scovil,H,Wyoming,WAC,Al Kincaid,L,21,33
 1983-11-19,San Diego State,WAC,Doug Scovil,A,New Mexico,WAC,Joe Lee Dunn,L,14,34
@@ -544,7 +544,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-09-17,New Mexico,WAC,Joe Lee Dunn,A,Arkansas,SWC,Lou Holtz,L,0,17
 1983-09-24,New Mexico,WAC,Joe Lee Dunn,A,New Mexico State,MVC,Fred Zechman,W,31,10
 1983-10-08,New Mexico,WAC,Joe Lee Dunn,A,Texas Tech,SWC,Jerry Moore,W,30,10
-1983-10-15,New Mexico,WAC,Joe Lee Dunn,A,Brigham Young,WAC,LaVell Edwards,L,21,66
+1983-10-15,New Mexico,WAC,Joe Lee Dunn,A,BYU,WAC,LaVell Edwards,L,21,66
 1983-10-22,New Mexico,WAC,Joe Lee Dunn,A,Hawaii,WAC,Dick Tomey,L,16,25
 1983-10-29,New Mexico,WAC,Joe Lee Dunn,A,Colorado State,WAC,Leon Fuller,L,24,25
 1983-11-05,New Mexico,WAC,Joe Lee Dunn,H,Wyoming,WAC,Al Kincaid,W,17,10
@@ -617,24 +617,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-09-17,Wyoming,WAC,Al Kincaid,H,Air Force,WAC,Ken Hatfield,W,14,7
 1983-09-24,Wyoming,WAC,Al Kincaid,A,Kansas State,Big 8,Jim Dickey,L,25,27
 1983-10-01,Wyoming,WAC,Al Kincaid,H,UTEP,WAC,Bill Yung,W,49,17
-1983-10-08,Wyoming,WAC,Al Kincaid,H,Brigham Young,WAC,LaVell Edwards,L,10,41
+1983-10-08,Wyoming,WAC,Al Kincaid,H,BYU,WAC,LaVell Edwards,L,10,41
 1983-10-15,Wyoming,WAC,Al Kincaid,A,Utah,WAC,Chuck Stobart,L,14,69
 1983-11-05,Wyoming,WAC,Al Kincaid,A,New Mexico,WAC,Joe Lee Dunn,L,10,17
 1983-11-12,Wyoming,WAC,Al Kincaid,A,San Diego State,WAC,Doug Scovil,W,33,21
 1983-11-19,Wyoming,WAC,Al Kincaid,H,Colorado State,WAC,Leon Fuller,W,42,17
 1983-11-26,Wyoming,WAC,Al Kincaid,A,Hawaii,WAC,Dick Tomey,W,31,13
-1983-09-10,Brigham Young,WAC,LaVell Edwards,A,Baylor,SWC,Grant Teaff,L,36,40
-1983-09-17,Brigham Young,WAC,LaVell Edwards,H,Bowling Green State,MAC,Dennis Stolz,W,63,28
-1983-09-24,Brigham Young,WAC,LaVell Edwards,A,Air Force,WAC,Ken Hatfield,W,46,28
-1983-10-01,Brigham Young,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,W,37,35
-1983-10-08,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Al Kincaid,W,41,10
-1983-10-15,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Lee Dunn,W,66,21
-1983-10-22,Brigham Young,WAC,LaVell Edwards,A,San Diego State,WAC,Doug Scovil,W,47,12
-1983-10-29,Brigham Young,WAC,LaVell Edwards,H,Utah State,PCAA,Chris Pella,W,38,34
-1983-11-05,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,W,31,9
-1983-11-12,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,24,6
-1983-11-19,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Chuck Stobart,W,55,7
-1983-12-23,Brigham Young,WAC,LaVell Edwards,N,Missouri,Big 8,Warren Powers,W,21,17
+1983-09-10,BYU,WAC,LaVell Edwards,A,Baylor,SWC,Grant Teaff,L,36,40
+1983-09-17,BYU,WAC,LaVell Edwards,H,Bowling Green State,MAC,Dennis Stolz,W,63,28
+1983-09-24,BYU,WAC,LaVell Edwards,A,Air Force,WAC,Ken Hatfield,W,46,28
+1983-10-01,BYU,WAC,LaVell Edwards,A,UCLA,Pac-10,Terry Donahue,W,37,35
+1983-10-08,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Al Kincaid,W,41,10
+1983-10-15,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Joe Lee Dunn,W,66,21
+1983-10-22,BYU,WAC,LaVell Edwards,A,San Diego State,WAC,Doug Scovil,W,47,12
+1983-10-29,BYU,WAC,LaVell Edwards,H,Utah State,PCAA,Chris Pella,W,38,34
+1983-11-05,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,W,31,9
+1983-11-12,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Leon Fuller,W,24,6
+1983-11-19,BYU,WAC,LaVell Edwards,H,Utah,WAC,Chuck Stobart,W,55,7
+1983-12-23,BYU,WAC,LaVell Edwards,N,Missouri,Big 8,Warren Powers,W,21,17
 1983-09-10,Georgia Tech,ACC,Bill Curry,A,Alabama,SEC,Ray Perkins,L,7,20
 1983-09-24,Georgia Tech,ACC,Bill Curry,A,Clemson,ACC,Danny Ford,L,14,41
 1983-10-01,Georgia Tech,ACC,Bill Curry,H,North Carolina,ACC,Dick Crum,L,21,38
@@ -706,7 +706,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-09-03,UCLA,Pac-10,Terry Donahue,A,Georgia,SEC,Vince Dooley,L,8,19
 1983-09-17,UCLA,Pac-10,Terry Donahue,H,Arizona State,Pac-10,Darryl Rogers,T,26,26
 1983-09-24,UCLA,Pac-10,Terry Donahue,A,Nebraska,Big 8,Tom Osborne,L,10,42
-1983-10-01,UCLA,Pac-10,Terry Donahue,H,Brigham Young,WAC,LaVell Edwards,L,35,37
+1983-10-01,UCLA,Pac-10,Terry Donahue,H,BYU,WAC,LaVell Edwards,L,35,37
 1983-10-08,UCLA,Pac-10,Terry Donahue,A,Stanford,Pac-10,Paul Wiggin,W,39,21
 1983-10-15,UCLA,Pac-10,Terry Donahue,A,Washington State,Pac-10,Jim Walden,W,24,14
 1983-10-22,UCLA,Pac-10,Terry Donahue,H,California,Pac-10,Joe Kapp,W,20,16
@@ -772,7 +772,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-10-15,UTEP,WAC,Bill Yung,A,Air Force,WAC,Ken Hatfield,L,25,37
 1983-10-22,UTEP,WAC,Bill Yung,H,Colorado State,WAC,Leon Fuller,L,15,31
 1983-10-29,UTEP,WAC,Bill Yung,A,Hawaii,WAC,Dick Tomey,L,24,25
-1983-11-05,UTEP,WAC,Bill Yung,H,Brigham Young,WAC,LaVell Edwards,L,9,31
+1983-11-05,UTEP,WAC,Bill Yung,H,BYU,WAC,LaVell Edwards,L,9,31
 1983-11-12,UTEP,WAC,Bill Yung,A,New Mexico,WAC,Joe Lee Dunn,L,0,35
 1983-09-17,Indiana State,MVC,,A,Florida,SEC,Charley Pell,L,13,17
 1983-10-01,Indiana State,MVC,,A,Illinois State,MVC,,L,20,37
@@ -840,7 +840,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-09-03,Air Force,WAC,Ken Hatfield,A,Colorado State,WAC,Leon Fuller,W,34,13
 1983-09-10,Air Force,WAC,Ken Hatfield,H,Texas Tech,SWC,Jerry Moore,W,28,13
 1983-09-17,Air Force,WAC,Ken Hatfield,A,Wyoming,WAC,Al Kincaid,L,7,14
-1983-09-24,Air Force,WAC,Ken Hatfield,H,Brigham Young,WAC,LaVell Edwards,L,28,46
+1983-09-24,Air Force,WAC,Ken Hatfield,H,BYU,WAC,LaVell Edwards,L,28,46
 1983-10-08,Air Force,WAC,Ken Hatfield,A,Navy,Ind,Gary Tranquill,W,44,17
 1983-10-15,Air Force,WAC,Ken Hatfield,H,UTEP,WAC,Bill Yung,W,37,25
 1983-10-22,Air Force,WAC,Ken Hatfield,H,Utah,WAC,Chuck Stobart,W,33,31
@@ -978,7 +978,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1983-10-15,Colorado State,WAC,Leon Fuller,H,San Diego State,WAC,Doug Scovil,W,17,15
 1983-10-22,Colorado State,WAC,Leon Fuller,A,UTEP,WAC,Bill Yung,W,31,15
 1983-10-29,Colorado State,WAC,Leon Fuller,H,New Mexico,WAC,Joe Lee Dunn,W,25,24
-1983-11-12,Colorado State,WAC,Leon Fuller,A,Brigham Young,WAC,LaVell Edwards,L,6,24
+1983-11-12,Colorado State,WAC,Leon Fuller,A,BYU,WAC,LaVell Edwards,L,6,24
 1983-11-19,Colorado State,WAC,Leon Fuller,A,Wyoming,WAC,Al Kincaid,L,17,42
 1983-09-01,Rice,SWC,Ray Alborn,H,Houston,SWC,Bill Yeoman,L,14,45
 1983-09-10,Rice,SWC,Ray Alborn,H,Minnesota,Big Ten,Joe Salem,L,17,21

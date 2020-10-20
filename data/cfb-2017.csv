@@ -90,7 +90,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-11-18,Arizona State,Pac-12,Todd Graham,A,Oregon State,Pac-12,Gary Andersen,W,40,24,12,19,167,2,49,286,3,6,15,7,71,1,0
 2017-11-25,Arizona State,Pac-12,Todd Graham,H,Arizona,Pac-12,Rich Rodriguez,W,42,30,11,17,163,3,49,227,3,7,10,5,50,1,1
 2017-12-29,Arizona State,Pac-12,Todd Graham,N,North Carolina State,ACC,Dave Doeren,L,31,52,25,40,352,3,30,117,1,15,8,1,4,1,3
-2017-09-09,Utah,Pac-12,Kyle Whittingham,A,Brigham Young,Ind,Kalani Sitake,W,19,13,28,37,314,0,36,116,1,11,6,11,97,2,0
+2017-09-09,Utah,Pac-12,Kyle Whittingham,A,BYU,Ind,Kalani Sitake,W,19,13,28,37,314,0,36,116,1,11,6,11,97,2,0
 2017-09-16,Utah,Pac-12,Kyle Whittingham,H,San Jose State,MWC,Brent Brennan,W,54,16,30,44,341,4,40,160,2,15,12,6,50,2,1
 2017-09-22,Utah,Pac-12,Kyle Whittingham,A,Arizona,Pac-12,Rich Rodriguez,W,30,24,17,28,229,1,38,112,1,8,9,9,83,2,0
 2017-10-07,Utah,Pac-12,Kyle Whittingham,H,Stanford,Pac-12,David Shaw,L,20,23,20,40,238,1,33,144,1,12,9,7,62,0,2
@@ -490,12 +490,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-10-21,Massachusetts,Ind,Mark Whipple,H,Georgia Southern,Sun Belt,Tyson Summers,W,55,20,21,28,350,4,44,320,4,15,13,8,70,2,0
 2017-10-28,Massachusetts,Ind,Mark Whipple,H,Appalachian State,Sun Belt,Scott Satterfield,W,30,27,20,33,190,0,39,209,3,9,6,11,82,2,2
 2017-11-04,Massachusetts,Ind,Mark Whipple,A,Mississippi State,SEC,Greg Knox,L,23,34,15,28,223,1,32,127,0,3,6,5,55,0,1
-2017-11-18,Massachusetts,Ind,Mark Whipple,A,Brigham Young,Ind,Kalani Sitake,W,16,10,21,35,230,1,33,69,0,14,4,3,30,0,0
+2017-11-18,Massachusetts,Ind,Mark Whipple,A,BYU,Ind,Kalani Sitake,W,16,10,21,35,230,1,33,69,0,14,4,3,30,0,0
 2017-12-02,Massachusetts,Ind,Mark Whipple,A,Florida International,CUSA,Butch Davis,L,45,63,34,49,392,4,24,156,2,17,8,6,57,2,1
 2017-09-01,Utah State,MWC,Matt Wells,A,Wisconsin,Big Ten,Paul Chryst,L,10,59,25,41,219,0,27,85,1,11,3,9,93,1,3
 2017-09-16,Utah State,MWC,Matt Wells,A,Wake Forest,ACC,Dave Clawson,L,10,46,15,37,225,1,31,42,0,7,4,4,39,0,1
 2017-09-23,Utah State,MWC,Matt Wells,A,San Jose State,MWC,Brent Brennan,W,61,10,28,41,271,3,57,318,3,16,12,7,60,1,2
-2017-09-29,Utah State,MWC,Matt Wells,H,Brigham Young,Ind,Kalani Sitake,W,40,24,16,30,176,2,44,112,1,6,7,4,38,0,1
+2017-09-29,Utah State,MWC,Matt Wells,H,BYU,Ind,Kalani Sitake,W,40,24,16,30,176,2,44,112,1,6,7,4,38,0,1
 2017-10-07,Utah State,MWC,Matt Wells,H,Colorado State,MWC,Mike Bobo,L,14,27,18,34,149,1,29,63,0,5,5,7,73,0,0
 2017-10-14,Utah State,MWC,Matt Wells,H,Wyoming,MWC,Craig Bohl,L,23,28,20,39,232,1,37,131,1,12,9,4,50,2,3
 2017-10-21,Utah State,MWC,Matt Wells,A,Nevada-Las Vegas,MWC,Tony Sanchez,W,52,28,20,29,323,2,47,265,5,10,15,6,55,2,0
@@ -523,7 +523,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-09-30,San Jose State,MWC,Brent Brennan,A,Nevada-Las Vegas,MWC,Tony Sanchez,L,13,41,30,49,315,1,33,147,0,20,7,7,60,1,2
 2017-10-07,San Jose State,MWC,Brent Brennan,H,Fresno State,MWC,Jeff Tedford,L,10,27,15,26,97,1,33,108,0,4,7,9,78,2,2
 2017-10-14,San Jose State,MWC,Brent Brennan,A,Hawaii,MWC,Nick Rolovich,L,26,37,21,33,381,2,37,123,0,12,7,11,104,1,1
-2017-10-28,San Jose State,MWC,Brent Brennan,A,Brigham Young,Ind,Kalani Sitake,L,20,41,25,39,198,2,41,140,0,12,9,2,10,4,1
+2017-10-28,San Jose State,MWC,Brent Brennan,A,BYU,Ind,Kalani Sitake,L,20,41,25,39,198,2,41,140,0,12,9,2,10,4,1
 2017-11-04,San Jose State,MWC,Brent Brennan,H,San Diego State,MWC,Rocky Long,L,7,52,12,22,167,1,21,33,0,5,3,4,30,1,2
 2017-11-11,San Jose State,MWC,Brent Brennan,A,Nevada,MWC,Jay Norvell,L,14,59,11,22,129,1,55,173,1,7,13,6,67,2,3
 2017-11-18,San Jose State,MWC,Brent Brennan,A,Colorado State,MWC,Mike Bobo,L,14,42,17,33,208,0,33,131,2,8,6,2,10,0,1
@@ -541,7 +541,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-11-21,Bowling Green State,MAC,Mike Jinks,A,Eastern Michigan,MAC,Chris Creighton,L,31,34,21,34,256,2,31,209,2,11,8,8,78,1,1
 2017-09-01,Wisconsin,Big Ten,Paul Chryst,H,Utah State,MWC,Matt Wells,W,59,10,15,23,244,3,45,234,4,12,9,9,73,2,0
 2017-09-09,Wisconsin,Big Ten,Paul Chryst,H,Florida Atlantic,CUSA,Lane Kiffin,W,31,14,17,30,207,1,54,357,3,10,18,1,10,1,1
-2017-09-16,Wisconsin,Big Ten,Paul Chryst,A,Brigham Young,Ind,Kalani Sitake,W,40,6,18,19,256,4,49,235,1,9,19,6,56,0,0
+2017-09-16,Wisconsin,Big Ten,Paul Chryst,A,BYU,Ind,Kalani Sitake,W,40,6,18,19,256,4,49,235,1,9,19,6,56,0,0
 2017-09-30,Wisconsin,Big Ten,Paul Chryst,H,Northwestern,Big Ten,Pat Fitzgerald,W,33,24,11,20,197,1,37,109,2,6,7,5,47,1,2
 2017-10-07,Wisconsin,Big Ten,Paul Chryst,A,Nebraska,Big Ten,Mike Riley,W,38,17,9,17,113,1,49,353,3,4,14,8,78,0,1
 2017-10-14,Wisconsin,Big Ten,Paul Chryst,H,Purdue,Big Ten,Jeff Brohm,W,17,9,13,18,199,1,50,299,1,10,13,8,65,1,2
@@ -612,7 +612,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-11-04,Hawaii,MWC,Nick Rolovich,A,Nevada-Las Vegas,MWC,Tony Sanchez,L,23,31,24,47,269,1,28,131,1,12,9,6,65,0,0
 2017-11-11,Hawaii,MWC,Nick Rolovich,H,Fresno State,MWC,Jeff Tedford,L,21,31,18,31,154,2,37,118,0,7,8,4,36,1,1
 2017-11-18,Hawaii,MWC,Nick Rolovich,A,Utah State,MWC,Matt Wells,L,0,38,19,35,146,0,47,172,0,7,12,8,60,1,0
-2017-11-25,Hawaii,MWC,Nick Rolovich,H,Brigham Young,Ind,Kalani Sitake,L,20,30,28,38,258,2,15,28,0,11,2,6,55,1,0
+2017-11-25,Hawaii,MWC,Nick Rolovich,H,BYU,Ind,Kalani Sitake,L,20,30,28,38,258,2,15,28,0,11,2,6,55,1,0
 2017-09-01,Rutgers,Big Ten,Chris Ash,H,Washington,Pac-12,Chris Petersen,L,14,30,24,35,178,2,42,131,0,9,9,4,25,0,2
 2017-09-09,Rutgers,Big Ten,Chris Ash,H,Eastern Michigan,MAC,Chris Creighton,L,13,16,17,38,198,0,30,128,1,7,5,9,88,0,2
 2017-09-23,Rutgers,Big Ten,Chris Ash,A,Nebraska,Big Ten,Mike Riley,L,17,27,15,29,126,0,24,68,1,7,4,4,35,0,2
@@ -738,7 +738,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-09-30,East Carolina,American,Scottie Montgomery,H,South Florida,American,Charlie Strong,L,31,61,21,46,306,2,36,108,2,13,7,6,58,0,2
 2017-10-07,East Carolina,American,Scottie Montgomery,H,Temple,American,Geoff Collins,L,10,34,20,38,253,1,22,34,0,11,3,8,96,0,1
 2017-10-14,East Carolina,American,Scottie Montgomery,A,UCF,American,Scott Frost,L,21,63,15,33,160,3,37,187,0,8,5,10,50,0,1
-2017-10-21,East Carolina,American,Scottie Montgomery,H,Brigham Young,Ind,Kalani Sitake,W,33,17,20,30,298,2,35,115,1,12,8,2,15,1,0
+2017-10-21,East Carolina,American,Scottie Montgomery,H,BYU,Ind,Kalani Sitake,W,33,17,20,30,298,2,35,115,1,12,8,2,15,1,0
 2017-11-04,East Carolina,American,Scottie Montgomery,A,Houston,American,Major Applewhite,L,27,52,54,74,468,3,24,36,0,27,4,7,51,1,2
 2017-11-11,East Carolina,American,Scottie Montgomery,H,Tulane,American,Willie Fritz,L,24,31,25,53,228,1,32,161,2,12,9,2,20,0,1
 2017-11-18,East Carolina,American,Scottie Montgomery,H,Cincinnati,American,Luke Fickell,W,48,20,32,46,464,5,33,114,1,19,6,7,54,0,0
@@ -771,7 +771,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-09-09,Boise State,MWC,Bryan Harsin,A,Washington State,Pac-12,Mike Leach,L,44,47,19,28,237,2,42,168,2,10,9,5,34,3,1
 2017-09-14,Boise State,MWC,Bryan Harsin,H,New Mexico,MWC,Bob Davie,W,28,14,15,19,137,2,32,127,2,7,5,8,73,0,0
 2017-09-22,Boise State,MWC,Bryan Harsin,H,Virginia,ACC,Bronco Mendenhall,L,23,42,28,53,353,1,24,30,2,16,3,9,64,0,1
-2017-10-06,Boise State,MWC,Bryan Harsin,A,Brigham Young,Ind,Kalani Sitake,W,24,7,13,20,142,1,47,158,2,8,10,1,5,0,1
+2017-10-06,Boise State,MWC,Bryan Harsin,A,BYU,Ind,Kalani Sitake,W,24,7,13,20,142,1,47,158,2,8,10,1,5,0,1
 2017-10-14,Boise State,MWC,Bryan Harsin,A,San Diego State,MWC,Rocky Long,W,31,14,14,23,125,1,34,186,1,4,10,3,35,0,0
 2017-10-21,Boise State,MWC,Bryan Harsin,H,Wyoming,MWC,Craig Bohl,W,24,14,18,24,177,1,43,166,2,9,11,3,35,0,0
 2017-10-28,Boise State,MWC,Bryan Harsin,A,Utah State,MWC,Matt Wells,W,41,14,24,34,370,5,45,163,0,17,7,9,72,0,0
@@ -830,18 +830,18 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-11-18,Wyoming,MWC,Craig Bohl,H,Fresno State,MWC,Jeff Tedford,L,7,13,20,33,231,1,28,77,0,9,3,3,15,2,0
 2017-11-25,Wyoming,MWC,Craig Bohl,A,San Jose State,MWC,Brent Brennan,L,17,20,18,38,170,1,43,187,1,5,10,4,35,0,2
 2017-12-22,Wyoming,MWC,Craig Bohl,N,Central Michigan,MAC,John Bonamego,W,37,14,11,19,154,3,42,121,0,8,6,5,49,0,0
-2017-09-02,Brigham Young,Ind,Kalani Sitake,N,LSU,SEC,Ed Orgeron,L,0,27,12,24,102,0,14,-5,0,4,1,5,39,0,1
-2017-09-09,Brigham Young,Ind,Kalani Sitake,H,Utah,Pac-12,Kyle Whittingham,L,13,19,21,39,170,1,24,63,1,8,3,4,35,0,3
-2017-09-16,Brigham Young,Ind,Kalani Sitake,H,Wisconsin,Big Ten,Paul Chryst,L,6,40,11,20,111,0,26,81,0,5,5,5,33,0,2
-2017-09-29,Brigham Young,Ind,Kalani Sitake,A,Utah State,MWC,Matt Wells,L,24,40,12,29,186,2,46,210,0,9,11,8,55,3,4
-2017-10-06,Brigham Young,Ind,Kalani Sitake,H,Boise State,MWC,Bryan Harsin,L,7,24,20,37,172,0,23,66,1,8,4,3,35,0,2
-2017-10-14,Brigham Young,Ind,Kalani Sitake,A,Mississippi State,SEC,Greg Knox,L,10,35,17,29,147,1,17,29,0,4,2,2,22,1,1
-2017-10-21,Brigham Young,Ind,Kalani Sitake,A,East Carolina,American,Scottie Montgomery,L,17,33,26,41,319,2,31,102,0,14,7,8,69,0,1
-2017-10-28,Brigham Young,Ind,Kalani Sitake,H,San Jose State,MWC,Brent Brennan,W,41,20,21,38,332,3,39,266,2,15,7,6,65,1,1
-2017-11-04,Brigham Young,Ind,Kalani Sitake,A,Fresno State,MWC,Jeff Tedford,L,13,20,23,43,214,0,27,122,1,10,10,3,25,1,0
-2017-11-10,Brigham Young,Ind,Kalani Sitake,A,Nevada-Las Vegas,MWC,Tony Sanchez,W,31,21,14,22,160,1,42,265,3,9,13,2,20,0,0
-2017-11-18,Brigham Young,Ind,Kalani Sitake,H,Massachusetts,Ind,Mark Whipple,L,10,16,21,45,257,1,26,42,0,10,7,5,35,0,4
-2017-11-25,Brigham Young,Ind,Kalani Sitake,A,Hawaii,MWC,Nick Rolovich,W,30,20,14,24,166,1,54,285,3,10,14,1,6,2,0
+2017-09-02,BYU,Ind,Kalani Sitake,N,LSU,SEC,Ed Orgeron,L,0,27,12,24,102,0,14,-5,0,4,1,5,39,0,1
+2017-09-09,BYU,Ind,Kalani Sitake,H,Utah,Pac-12,Kyle Whittingham,L,13,19,21,39,170,1,24,63,1,8,3,4,35,0,3
+2017-09-16,BYU,Ind,Kalani Sitake,H,Wisconsin,Big Ten,Paul Chryst,L,6,40,11,20,111,0,26,81,0,5,5,5,33,0,2
+2017-09-29,BYU,Ind,Kalani Sitake,A,Utah State,MWC,Matt Wells,L,24,40,12,29,186,2,46,210,0,9,11,8,55,3,4
+2017-10-06,BYU,Ind,Kalani Sitake,H,Boise State,MWC,Bryan Harsin,L,7,24,20,37,172,0,23,66,1,8,4,3,35,0,2
+2017-10-14,BYU,Ind,Kalani Sitake,A,Mississippi State,SEC,Greg Knox,L,10,35,17,29,147,1,17,29,0,4,2,2,22,1,1
+2017-10-21,BYU,Ind,Kalani Sitake,A,East Carolina,American,Scottie Montgomery,L,17,33,26,41,319,2,31,102,0,14,7,8,69,0,1
+2017-10-28,BYU,Ind,Kalani Sitake,H,San Jose State,MWC,Brent Brennan,W,41,20,21,38,332,3,39,266,2,15,7,6,65,1,1
+2017-11-04,BYU,Ind,Kalani Sitake,A,Fresno State,MWC,Jeff Tedford,L,13,20,23,43,214,0,27,122,1,10,10,3,25,1,0
+2017-11-10,BYU,Ind,Kalani Sitake,A,Nevada-Las Vegas,MWC,Tony Sanchez,W,31,21,14,22,160,1,42,265,3,9,13,2,20,0,0
+2017-11-18,BYU,Ind,Kalani Sitake,H,Massachusetts,Ind,Mark Whipple,L,10,16,21,45,257,1,26,42,0,10,7,5,35,0,4
+2017-11-25,BYU,Ind,Kalani Sitake,A,Hawaii,MWC,Nick Rolovich,W,30,20,14,24,166,1,54,285,3,10,14,1,6,2,0
 2017-09-01,Florida Atlantic,CUSA,Lane Kiffin,H,Navy,American,Ken Niumatalolo,L,19,42,21,33,286,2,24,40,0,8,7,4,20,0,2
 2017-09-09,Florida Atlantic,CUSA,Lane Kiffin,A,Wisconsin,Big Ten,Paul Chryst,L,14,31,9,19,142,1,35,106,1,4,5,8,73,0,0
 2017-09-23,Florida Atlantic,CUSA,Lane Kiffin,A,Buffalo,MAC,Lance Leipold,L,31,34,17,29,150,0,37,262,4,7,15,8,65,0,1
@@ -903,7 +903,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-09-16,Mississippi State,SEC,Greg Knox,H,LSU,SEC,Ed Orgeron,W,37,7,15,23,180,2,48,285,2,9,12,5,49,0,0
 2017-09-23,Mississippi State,SEC,Greg Knox,A,Georgia,SEC,Kirby Smart,L,3,31,15,33,103,0,37,177,0,5,10,4,35,0,2
 2017-09-30,Mississippi State,SEC,Greg Knox,A,Auburn,SEC,Gus Malzahn,L,10,49,13,37,157,1,47,194,0,5,12,10,39,0,2
-2017-10-14,Mississippi State,SEC,Greg Knox,H,Brigham Young,Ind,Kalani Sitake,W,35,10,20,31,240,2,53,306,3,14,19,6,60,1,2
+2017-10-14,Mississippi State,SEC,Greg Knox,H,BYU,Ind,Kalani Sitake,W,35,10,20,31,240,2,53,306,3,14,19,6,60,1,2
 2017-10-21,Mississippi State,SEC,Greg Knox,H,Kentucky,SEC,Mark Stoops,W,45,7,19,27,159,1,48,282,4,7,16,5,55,0,0
 2017-10-28,Mississippi State,SEC,Greg Knox,A,Texas A&M,SEC,Kevin Sumlin,W,35,14,12,21,141,2,52,228,2,7,11,5,45,0,1
 2017-11-04,Mississippi State,SEC,Greg Knox,H,Massachusetts,Ind,Mark Whipple,W,34,23,14,26,139,0,45,254,2,7,13,5,63,0,3
@@ -919,7 +919,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-10-21,Nevada-Las Vegas,MWC,Tony Sanchez,H,Utah State,MWC,Matt Wells,L,28,52,13,30,85,0,53,375,4,3,20,4,32,1,2
 2017-10-28,Nevada-Las Vegas,MWC,Tony Sanchez,A,Fresno State,MWC,Jeff Tedford,W,26,16,17,29,155,0,44,173,2,10,9,5,35,0,0
 2017-11-04,Nevada-Las Vegas,MWC,Tony Sanchez,H,Hawaii,MWC,Nick Rolovich,W,31,23,20,31,281,2,42,131,2,15,7,4,36,0,1
-2017-11-10,Nevada-Las Vegas,MWC,Tony Sanchez,H,Brigham Young,Ind,Kalani Sitake,L,21,31,20,33,325,2,34,122,1,12,9,6,75,0,2
+2017-11-10,Nevada-Las Vegas,MWC,Tony Sanchez,H,BYU,Ind,Kalani Sitake,L,21,31,20,33,325,2,34,122,1,12,9,6,75,0,2
 2017-11-17,Nevada-Las Vegas,MWC,Tony Sanchez,A,New Mexico,MWC,Bob Davie,W,38,35,13,25,211,1,46,323,3,10,14,1,5,0,0
 2017-11-25,Nevada-Las Vegas,MWC,Tony Sanchez,A,Nevada,MWC,Jay Norvell,L,16,23,12,23,160,0,50,164,1,7,14,1,5,1,0
 2017-08-26,South Florida,American,Charlie Strong,A,San Jose State,MWC,Brent Brennan,W,42,22,13,26,233,2,74,315,4,10,17,10,57,0,0
@@ -1078,7 +1078,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-11-11,UTEP,CUSA,Sean Kugler,A,North Texas,CUSA,Seth Littrell,L,10,45,16,32,131,0,32,100,0,6,7,7,59,0,1
 2017-11-18,UTEP,CUSA,Sean Kugler,H,Louisiana Tech,CUSA,Skip Holtz,L,21,42,12,26,261,2,35,163,1,7,8,9,79,1,2
 2017-11-25,UTEP,CUSA,Sean Kugler,A,UAB,CUSA,Bill Clark,L,7,28,8,20,107,1,30,101,0,3,5,7,60,0,2
-2017-09-02,LSU,SEC,Ed Orgeron,N,Brigham Young,Ind,Kalani Sitake,W,27,0,15,18,183,0,57,296,3,8,16,10,86,0,0
+2017-09-02,LSU,SEC,Ed Orgeron,N,BYU,Ind,Kalani Sitake,W,27,0,15,18,183,0,57,296,3,8,16,10,86,0,0
 2017-09-16,LSU,SEC,Ed Orgeron,A,Mississippi State,SEC,Greg Knox,L,7,37,13,29,137,0,29,133,1,6,5,9,112,0,0
 2017-09-23,LSU,SEC,Ed Orgeron,H,Syracuse,ACC,Dino Babers,W,35,26,14,23,263,2,38,151,3,7,10,3,25,0,1
 2017-09-30,LSU,SEC,Ed Orgeron,H,Troy,Sun Belt,Neal Brown,L,21,24,21,32,266,3,29,162,0,11,10,4,29,2,2
@@ -1448,7 +1448,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2017-10-14,Fresno State,MWC,Jeff Tedford,H,New Mexico,MWC,Bob Davie,W,38,0,13,23,299,3,36,227,2,7,9,2,25,1,0
 2017-10-21,Fresno State,MWC,Jeff Tedford,A,San Diego State,MWC,Rocky Long,W,27,3,10,16,176,0,38,199,3,6,9,5,40,0,0
 2017-10-28,Fresno State,MWC,Jeff Tedford,H,Nevada-Las Vegas,MWC,Tony Sanchez,L,16,26,16,27,152,0,34,140,2,7,12,5,40,1,0
-2017-11-04,Fresno State,MWC,Jeff Tedford,H,Brigham Young,Ind,Kalani Sitake,W,20,13,14,20,174,0,40,136,2,8,7,5,40,0,0
+2017-11-04,Fresno State,MWC,Jeff Tedford,H,BYU,Ind,Kalani Sitake,W,20,13,14,20,174,0,40,136,2,8,7,5,40,0,0
 2017-11-11,Fresno State,MWC,Jeff Tedford,A,Hawaii,MWC,Nick Rolovich,W,31,21,19,36,226,4,36,175,0,11,12,6,46,0,2
 2017-11-18,Fresno State,MWC,Jeff Tedford,A,Wyoming,MWC,Craig Bohl,W,13,7,14,23,186,1,45,147,0,6,9,5,35,1,0
 2017-11-25,Fresno State,MWC,Jeff Tedford,H,Boise State,MWC,Bryan Harsin,W,28,17,23,36,332,2,30,99,1,13,5,3,40,0,0

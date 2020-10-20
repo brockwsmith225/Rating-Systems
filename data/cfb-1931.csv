@@ -32,7 +32,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1931-10-31,Arizona State,BIAA,Ted Shipkey,H,Arizona,BIAA,Fred Enke,W,19,6
 1931-11-14,Arizona State,BIAA,Ted Shipkey,H,Northern Arizona,BIAA,Rudy Lavik,L,6,13
 1931-09-26,Utah,RMC,Ike Armstrong,A,Washington,PCC,James Phelan,L,6,7
-1931-10-17,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Ott Romney,W,43,0
+1931-10-17,Utah,RMC,Ike Armstrong,H,BYU,RMC,Ott Romney,W,43,0
 1931-10-24,Utah,RMC,Ike Armstrong,A,Denver,RMC,Jeff Cravath,W,46,0
 1931-10-31,Utah,RMC,Ike Armstrong,H,Colorado State,RMC,Harry Hughes,W,60,6
 1931-11-07,Utah,RMC,Ike Armstrong,A,Colorado College,RMC,W.T. VandeGraaff,W,28,6
@@ -42,7 +42,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1931-10-03,Northern Colorado,RMC,William Saunders,A,Denver,RMC,Jeff Cravath,L,0,14
 1931-10-10,Northern Colorado,RMC,William Saunders,H,Wyoming,RMC,John Rhodes,L,6,13
 1931-10-17,Northern Colorado,RMC,William Saunders,A,Colorado College,RMC,W.T. VandeGraaff,L,7,9
-1931-10-31,Northern Colorado,RMC,William Saunders,H,Brigham Young,RMC,Ott Romney,W,6,0
+1931-10-31,Northern Colorado,RMC,William Saunders,H,BYU,RMC,Ott Romney,W,6,0
 1931-11-07,Northern Colorado,RMC,William Saunders,A,Colorado Mines,RMC,George Allen,T,12,12
 1931-11-14,Northern Colorado,RMC,William Saunders,H,Western State,RMC,Tefler Meade,W,12,0
 1931-11-28,Northern Colorado,RMC,William Saunders,A,Colorado State,RMC,Harry Hughes,L,7,21
@@ -163,7 +163,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1931-09-26,Western State,RMC,Tefler Meade,A,Colorado College,RMC,W.T. VandeGraaff,L,3,14
 1931-10-10,Western State,RMC,Tefler Meade,A,Utah State,RMC,,L,20,38
 1931-10-17,Western State,RMC,Tefler Meade,H,Colorado Mines,RMC,George Allen,W,19,0
-1931-10-24,Western State,RMC,Tefler Meade,A,Brigham Young,RMC,Ott Romney,L,0,31
+1931-10-24,Western State,RMC,Tefler Meade,A,BYU,RMC,Ott Romney,L,0,31
 1931-10-31,Western State,RMC,Tefler Meade,H,Denver,RMC,Jeff Cravath,L,7,25
 1931-11-14,Western State,RMC,Tefler Meade,A,Northern Colorado,RMC,William Saunders,L,0,12
 1931-10-10,Illinois,Western,Robert Zuppke,A,Purdue,Western,Noble Kizer,L,0,7
@@ -270,7 +270,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1931-10-10,Utah State,RMC,,H,Western State,RMC,Tefler Meade,W,38,20
 1931-10-17,Utah State,RMC,,H,Denver,RMC,Jeff Cravath,W,12,6
 1931-10-24,Utah State,RMC,,A,Wyoming,RMC,John Rhodes,W,12,0
-1931-11-07,Utah State,RMC,,N,Brigham Young,RMC,Ott Romney,L,0,6
+1931-11-07,Utah State,RMC,,N,BYU,RMC,Ott Romney,L,0,6
 1931-11-14,Utah State,RMC,,A,Colorado State,RMC,Harry Hughes,W,6,0
 1931-11-26,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,34
 1931-10-03,Missouri,Big 6,Gwinn Henry,A,Texas,SWC,Clyde Littlefield,L,0,31
@@ -403,13 +403,13 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1931-10-17,Wyoming,RMC,John Rhodes,A,Montana State,RMC,Schubert Dyche,W,32,13
 1931-10-24,Wyoming,RMC,John Rhodes,H,Utah State,RMC,,L,0,12
 1931-11-07,Wyoming,RMC,John Rhodes,H,Colorado State,RMC,Harry Hughes,L,6,26
-1931-11-13,Wyoming,RMC,John Rhodes,A,Brigham Young,RMC,Ott Romney,W,13,7
+1931-11-13,Wyoming,RMC,John Rhodes,A,BYU,RMC,Ott Romney,W,13,7
 1931-11-26,Wyoming,RMC,John Rhodes,A,New Mexico,BIAA,,W,12,2
-1931-10-17,Brigham Young,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,43
-1931-10-24,Brigham Young,RMC,Ott Romney,H,Western State,RMC,Tefler Meade,W,31,0
-1931-10-31,Brigham Young,RMC,Ott Romney,A,Northern Colorado,RMC,William Saunders,L,0,6
-1931-11-07,Brigham Young,RMC,Ott Romney,N,Utah State,RMC,,W,6,0
-1931-11-13,Brigham Young,RMC,Ott Romney,H,Wyoming,RMC,John Rhodes,L,7,13
+1931-10-17,BYU,RMC,Ott Romney,A,Utah,RMC,Ike Armstrong,L,0,43
+1931-10-24,BYU,RMC,Ott Romney,H,Western State,RMC,Tefler Meade,W,31,0
+1931-10-31,BYU,RMC,Ott Romney,A,Northern Colorado,RMC,William Saunders,L,0,6
+1931-11-07,BYU,RMC,Ott Romney,N,Utah State,RMC,,W,6,0
+1931-11-13,BYU,RMC,Ott Romney,H,Wyoming,RMC,John Rhodes,L,7,13
 1931-10-10,Yale,Ind,Mal Stevens,H,Georgia,Southern,Harry Mehre,L,7,26
 1931-10-17,Yale,Ind,Mal Stevens,A,Chicago,Western,Amos Alonzo Stagg,W,27,0
 1931-10-24,Yale,Ind,Mal Stevens,H,Army,Ind,Arthur Parmalee,T,6,6

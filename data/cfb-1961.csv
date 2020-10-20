@@ -65,7 +65,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-09-23,Utah,Skyline,Ray Nagel,A,Wisconsin,Big Ten,Milt Bruhn,L,0,7
 1961-09-30,Utah,Skyline,Ray Nagel,H,Oregon,Ind,Len Casanova,W,14,6
 1961-10-07,Utah,Skyline,Ray Nagel,A,Arizona State,BIAA,Frank Kush,W,28,26
-1961-10-14,Utah,Skyline,Ray Nagel,H,Brigham Young,Skyline,Hal Mitchell,W,21,20
+1961-10-14,Utah,Skyline,Ray Nagel,H,BYU,Skyline,Hal Mitchell,W,21,20
 1961-10-21,Utah,Skyline,Ray Nagel,A,Montana,Skyline,Ray Jenkins,W,24,12
 1961-10-28,Utah,Skyline,Ray Nagel,H,Wyoming,Skyline,Bob Devaney,L,6,13
 1961-11-04,Utah,Skyline,Ray Nagel,A,New Mexico,Skyline,Bill Weeks,L,16,21
@@ -109,7 +109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-09-16,Montana,Skyline,Ray Jenkins,H,Wyoming,Skyline,Bob Devaney,L,0,29
 1961-09-23,Montana,Skyline,Ray Jenkins,A,Utah State,Skyline,John Ralston,L,6,54
 1961-09-30,Montana,Skyline,Ray Jenkins,H,New Mexico,Skyline,Bill Weeks,W,40,8
-1961-10-07,Montana,Skyline,Ray Jenkins,A,Brigham Young,Skyline,Hal Mitchell,L,6,7
+1961-10-07,Montana,Skyline,Ray Jenkins,A,BYU,Skyline,Hal Mitchell,L,6,7
 1961-10-21,Montana,Skyline,Ray Jenkins,H,Utah,Skyline,Ray Nagel,L,12,24
 1961-10-28,Montana,Skyline,Ray Jenkins,H,Colorado State,Skyline,Tuffy Mullison,W,22,19
 1961-11-18,Montana,Skyline,Ray Jenkins,H,Idaho,Ind,Skip Stahley,L,14,16
@@ -350,7 +350,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-10-14,Utah State,Skyline,John Ralston,H,New Mexico,Skyline,Bill Weeks,W,41,7
 1961-10-21,Utah State,Skyline,John Ralston,A,Colorado State,Skyline,Tuffy Mullison,W,49,3
 1961-10-28,Utah State,Skyline,John Ralston,H,Idaho,Ind,Skip Stahley,W,69,0
-1961-11-04,Utah State,Skyline,John Ralston,A,Brigham Young,Skyline,Hal Mitchell,W,31,8
+1961-11-04,Utah State,Skyline,John Ralston,A,BYU,Skyline,Hal Mitchell,W,31,8
 1961-11-18,Utah State,Skyline,John Ralston,A,Utah,Skyline,Ray Nagel,W,17,6
 1961-12-09,Utah State,Skyline,John Ralston,N,Baylor,SWC,John Bridgers,L,9,24
 1961-09-23,Missouri,Big 8,Dan Devine,H,Washington State,Ind,Jim Sutherland,W,28,6
@@ -363,7 +363,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-11-11,Missouri,Big 8,Dan Devine,H,Oklahoma,Big 8,Bud Wilkinson,L,0,7
 1961-11-18,Missouri,Big 8,Dan Devine,H,Kansas State,Big 8,Doug Weaver,W,27,9
 1961-11-25,Missouri,Big 8,Dan Devine,A,Kansas,Big 8,Jack Mitchell,W,10,7
-1961-09-16,San Jose State,Ind,Robert Titchenal,A,Brigham Young,Skyline,Hal Mitchell,W,14,13
+1961-09-16,San Jose State,Ind,Robert Titchenal,A,BYU,Skyline,Hal Mitchell,W,14,13
 1961-09-22,San Jose State,Ind,Robert Titchenal,H,Pacific,Ind,John Rohde,W,16,0
 1961-09-30,San Jose State,Ind,Robert Titchenal,A,Idaho,Ind,Skip Stahley,L,18,27
 1961-10-07,San Jose State,Ind,Robert Titchenal,H,Colorado State,Skyline,Tuffy Mullison,W,14,0
@@ -438,7 +438,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-11-04,New Mexico,Skyline,Bill Weeks,H,Utah,Skyline,Ray Nagel,W,21,16
 1961-11-11,New Mexico,Skyline,Bill Weeks,H,Wyoming,Skyline,Bob Devaney,L,7,33
 1961-11-18,New Mexico,Skyline,Bill Weeks,A,Colorado State,Skyline,Tuffy Mullison,W,20,8
-1961-11-25,New Mexico,Skyline,Bill Weeks,H,Brigham Young,Skyline,Hal Mitchell,W,34,6
+1961-11-25,New Mexico,Skyline,Bill Weeks,H,BYU,Skyline,Hal Mitchell,W,34,6
 1961-09-22,Pacific,Ind,John Rohde,A,San Jose State,Ind,Robert Titchenal,L,0,16
 1961-10-14,Pacific,Ind,John Rohde,A,New Mexico State,BIAA,Warren Woodson,L,19,70
 1961-11-04,Pacific,Ind,John Rohde,A,Idaho,Ind,Skip Stahley,W,27,2
@@ -463,7 +463,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-11-11,Pitt,Ind,John Michelosen,H,Notre Dame,Ind,Joe Kuharich,L,20,26
 1961-11-18,Pitt,Ind,John Michelosen,H,USC,AAWU,John McKay,W,10,9
 1961-11-25,Pitt,Ind,John Michelosen,H,Penn State,Ind,Rip Engle,L,26,47
-1961-09-23,West Texas A&M,BIAA,Joe Kerbel,H,Brigham Young,Skyline,Hal Mitchell,W,55,8
+1961-09-23,West Texas A&M,BIAA,Joe Kerbel,H,BYU,Skyline,Hal Mitchell,W,55,8
 1961-09-30,West Texas A&M,BIAA,Joe Kerbel,A,UTEP,BIAA,Ben Collins,W,56,27
 1961-10-07,West Texas A&M,BIAA,Joe Kerbel,H,Wichita State,MVC,Hank Foldberg,L,34,41
 1961-10-14,West Texas A&M,BIAA,Joe Kerbel,H,Arizona State,BIAA,Frank Kush,L,11,28
@@ -481,7 +481,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-11-04,George Washington,Southern,Jim Camp,H,West Virginia,Southern,Gene Corum,L,7,12
 1961-11-17,George Washington,Southern,Jim Camp,A,Virginia Tech,Southern,Jerry Claiborne,L,3,14
 1961-09-23,North Texas,MVC,Odus Mitchell,A,Hardin-Simmons,BIAA,Howard McChesney,W,9,7
-1961-09-30,North Texas,MVC,Odus Mitchell,H,Brigham Young,Skyline,Hal Mitchell,W,41,30
+1961-09-30,North Texas,MVC,Odus Mitchell,H,BYU,Skyline,Hal Mitchell,W,41,30
 1961-10-07,North Texas,MVC,Odus Mitchell,H,New Mexico State,BIAA,Warren Woodson,T,14,14
 1961-10-14,North Texas,MVC,Odus Mitchell,H,Wichita State,MVC,Hank Foldberg,L,14,26
 1961-10-21,North Texas,MVC,Odus Mitchell,H,Tulsa,MVC,Glenn Dobbs,W,23,12
@@ -493,20 +493,20 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-09-30,Wyoming,Skyline,Bob Devaney,A,Kansas,Big 8,Jack Mitchell,T,6,6
 1961-10-07,Wyoming,Skyline,Bob Devaney,H,Utah State,Skyline,John Ralston,T,6,6
 1961-10-14,Wyoming,Skyline,Bob Devaney,H,Colorado State,Skyline,Tuffy Mullison,W,18,7
-1961-10-21,Wyoming,Skyline,Bob Devaney,H,Brigham Young,Skyline,Hal Mitchell,W,36,8
+1961-10-21,Wyoming,Skyline,Bob Devaney,H,BYU,Skyline,Hal Mitchell,W,36,8
 1961-10-28,Wyoming,Skyline,Bob Devaney,A,Utah,Skyline,Ray Nagel,W,13,6
 1961-11-04,Wyoming,Skyline,Bob Devaney,A,Arizona,Ind,Jim LaRue,L,15,20
 1961-11-11,Wyoming,Skyline,Bob Devaney,A,New Mexico,Skyline,Bill Weeks,W,33,7
-1961-09-16,Brigham Young,Skyline,Hal Mitchell,H,San Jose State,Ind,Robert Titchenal,L,13,14
-1961-09-23,Brigham Young,Skyline,Hal Mitchell,A,West Texas A&M,BIAA,Joe Kerbel,L,8,55
-1961-09-30,Brigham Young,Skyline,Hal Mitchell,A,North Texas,MVC,Odus Mitchell,L,30,41
-1961-10-07,Brigham Young,Skyline,Hal Mitchell,H,Montana,Skyline,Ray Jenkins,W,7,6
-1961-10-14,Brigham Young,Skyline,Hal Mitchell,A,Utah,Skyline,Ray Nagel,L,20,21
-1961-10-21,Brigham Young,Skyline,Hal Mitchell,A,Wyoming,Skyline,Bob Devaney,L,8,36
-1961-11-04,Brigham Young,Skyline,Hal Mitchell,H,Utah State,Skyline,John Ralston,L,8,31
-1961-11-11,Brigham Young,Skyline,Hal Mitchell,H,Colorado State,Skyline,Tuffy Mullison,W,30,16
-1961-11-18,Brigham Young,Skyline,Hal Mitchell,A,Oregon State,Ind,Tommy Prothro,L,0,35
-1961-11-25,Brigham Young,Skyline,Hal Mitchell,A,New Mexico,Skyline,Bill Weeks,L,6,34
+1961-09-16,BYU,Skyline,Hal Mitchell,H,San Jose State,Ind,Robert Titchenal,L,13,14
+1961-09-23,BYU,Skyline,Hal Mitchell,A,West Texas A&M,BIAA,Joe Kerbel,L,8,55
+1961-09-30,BYU,Skyline,Hal Mitchell,A,North Texas,MVC,Odus Mitchell,L,30,41
+1961-10-07,BYU,Skyline,Hal Mitchell,H,Montana,Skyline,Ray Jenkins,W,7,6
+1961-10-14,BYU,Skyline,Hal Mitchell,A,Utah,Skyline,Ray Nagel,L,20,21
+1961-10-21,BYU,Skyline,Hal Mitchell,A,Wyoming,Skyline,Bob Devaney,L,8,36
+1961-11-04,BYU,Skyline,Hal Mitchell,H,Utah State,Skyline,John Ralston,L,8,31
+1961-11-11,BYU,Skyline,Hal Mitchell,H,Colorado State,Skyline,Tuffy Mullison,W,30,16
+1961-11-18,BYU,Skyline,Hal Mitchell,A,Oregon State,Ind,Tommy Prothro,L,0,35
+1961-11-25,BYU,Skyline,Hal Mitchell,A,New Mexico,Skyline,Bill Weeks,L,6,34
 1961-10-07,Yale,Ivy,Jordan Olivar,H,Brown,Ivy,John McLaughry,W,14,3
 1961-10-14,Yale,Ivy,Jordan Olivar,H,Columbia,Ivy,Aldo Donelli,L,0,11
 1961-10-21,Yale,Ivy,Jordan Olivar,A,Cornell,Ivy,Tom Harp,W,12,0
@@ -782,7 +782,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-10-21,Oregon State,Ind,Tommy Prothro,A,Arizona State,BIAA,Frank Kush,L,23,24
 1961-11-04,Oregon State,Ind,Tommy Prothro,H,Washington State,Ind,Jim Sutherland,W,14,6
 1961-11-11,Oregon State,Ind,Tommy Prothro,A,Washington,AAWU,Jim Owens,W,3,0
-1961-11-18,Oregon State,Ind,Tommy Prothro,H,Brigham Young,Skyline,Hal Mitchell,W,35,0
+1961-11-18,Oregon State,Ind,Tommy Prothro,H,BYU,Skyline,Hal Mitchell,W,35,0
 1961-11-25,Oregon State,Ind,Tommy Prothro,A,Oregon,Ind,Len Casanova,W,6,2
 1961-12-02,Oregon State,Ind,Tommy Prothro,A,Houston,Ind,Hal Lahar,L,12,23
 1961-09-23,Alabama,SEC,Bear Bryant,A,Georgia,SEC,Johnny Griffith,W,32,6
@@ -865,7 +865,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1961-10-21,Colorado State,Skyline,Tuffy Mullison,H,Utah State,Skyline,John Ralston,L,3,49
 1961-10-28,Colorado State,Skyline,Tuffy Mullison,A,Montana,Skyline,Ray Jenkins,L,19,22
 1961-11-04,Colorado State,Skyline,Tuffy Mullison,A,Air Force,Ind,Ben Martin,L,9,14
-1961-11-11,Colorado State,Skyline,Tuffy Mullison,A,Brigham Young,Skyline,Hal Mitchell,L,16,30
+1961-11-11,Colorado State,Skyline,Tuffy Mullison,A,BYU,Skyline,Hal Mitchell,L,16,30
 1961-11-18,Colorado State,Skyline,Tuffy Mullison,H,New Mexico,Skyline,Bill Weeks,L,8,20
 1961-09-23,Rice,SWC,Jess Neely,H,LSU,SEC,Paul Dietzel,W,16,3
 1961-09-30,Rice,SWC,Jess Neely,A,Georgia Tech,SEC,Bobby Dodd,L,0,24

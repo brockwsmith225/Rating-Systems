@@ -95,7 +95,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-10-27,Utah,MWC,Kyle Whittingham,A,Colorado State,MWC,Sonny Lubick,W,27,3,14,22,130,2,49,322,1,7,16,3,42,1,1
 2007-11-10,Utah,MWC,Kyle Whittingham,H,Wyoming,MWC,Joe Glenn,W,50,0,19,32,227,1,51,278,5,8,14,11,90,0,1
 2007-11-17,Utah,MWC,Kyle Whittingham,H,New Mexico,MWC,Rocky Long,W,28,10,17,28,172,2,44,138,1,7,10,4,30,1,1
-2007-11-24,Utah,MWC,Kyle Whittingham,A,Brigham Young,MWC,Bronco Mendenhall,L,10,17,17,29,129,0,39,115,1,8,5,10,94,0,2
+2007-11-24,Utah,MWC,Kyle Whittingham,A,BYU,MWC,Bronco Mendenhall,L,10,17,17,29,129,0,39,115,1,8,5,10,94,0,2
 2007-12-20,Utah,MWC,Kyle Whittingham,N,Navy,Ind,Ken Niumatalolo,W,35,32,22,27,238,1,45,213,4,15,11,4,37,1,1
 2007-08-31,Syracuse,Big East,Greg Robinson,H,Washington,Pac-10,Tyrone Willingham,L,12,42,20,32,199,1,29,8,0,9,3,7,45,1,0
 2007-09-08,Syracuse,Big East,Greg Robinson,A,Iowa,Big Ten,Kirk Ferentz,L,0,35,7,20,79,0,30,24,0,3,2,6,40,0,1
@@ -109,7 +109,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-11-10,Syracuse,Big East,Greg Robinson,H,South Florida,Big East,Jim Leavitt,L,10,41,21,38,276,1,17,15,0,12,1,8,60,2,2
 2007-11-17,Syracuse,Big East,Greg Robinson,A,Connecticut,Big East,Randy Edsall,L,7,30,15,38,120,1,32,135,0,5,10,9,79,1,2
 2007-11-24,Syracuse,Big East,Greg Robinson,H,Cincinnati,Big East,Brian Kelly,L,31,52,31,51,428,3,34,-15,1,18,1,9,95,1,0
-2007-09-01,Arizona,Pac-10,Mike Stoops,A,Brigham Young,MWC,Bronco Mendenhall,L,7,20,28,38,223,1,19,32,0,8,0,7,56,0,0
+2007-09-01,Arizona,Pac-10,Mike Stoops,A,BYU,MWC,Bronco Mendenhall,L,7,20,28,38,223,1,19,32,0,8,0,7,56,0,0
 2007-09-15,Arizona,Pac-10,Mike Stoops,H,New Mexico,MWC,Rocky Long,L,27,29,30,53,446,3,21,38,0,20,3,9,76,2,1
 2007-09-22,Arizona,Pac-10,Mike Stoops,A,California,Pac-10,Jeff Tedford,L,27,45,42,62,309,1,20,21,2,13,6,8,73,2,2
 2007-09-29,Arizona,Pac-10,Mike Stoops,H,Washington State,Pac-10,Bill Doba,W,48,20,22,31,346,5,45,221,1,12,15,4,50,1,0
@@ -548,7 +548,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-11-10,San Diego State,MWC,Chuck Long,A,Nevada-Las Vegas,MWC,Mike Sanford,W,38,30,17,23,196,2,26,122,1,10,7,3,20,0,1
 2007-11-17,San Diego State,MWC,Chuck Long,A,Air Force,MWC,Troy Calhoun,L,23,55,29,47,410,1,35,96,2,16,3,4,35,2,1
 2007-11-24,San Diego State,MWC,Chuck Long,H,Texas Christian,MWC,Gary Patterson,L,33,45,26,51,366,2,21,75,2,11,4,4,29,0,0
-2007-12-01,San Diego State,MWC,Chuck Long,H,Brigham Young,MWC,Bronco Mendenhall,L,27,48,33,55,288,1,26,68,2,13,7,7,64,0,1
+2007-12-01,San Diego State,MWC,Chuck Long,H,BYU,MWC,Bronco Mendenhall,L,27,48,33,55,288,1,26,68,2,13,7,7,64,0,1
 2007-09-08,Hawaii,WAC,June Jones,A,Louisiana Tech,WAC,Derek Dooley,W,45,44,43,61,548,4,20,45,2,25,4,10,80,2,1
 2007-09-15,Hawaii,WAC,June Jones,A,Nevada-Las Vegas,MWC,Mike Sanford,W,49,14,29,39,396,3,29,96,3,14,6,12,97,0,0
 2007-09-29,Hawaii,WAC,June Jones,A,Idaho,WAC,Robb Akey,W,48,20,32,51,394,3,25,91,1,22,5,5,88,1,5
@@ -635,7 +635,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-09-01,New Mexico,MWC,Rocky Long,A,UTEP,CUSA,Mike Price,L,6,10,25,40,190,0,51,193,0,9,13,9,80,0,0
 2007-09-08,New Mexico,MWC,Rocky Long,H,New Mexico State,WAC,Hal Mumme,W,44,34,17,24,342,2,39,154,3,13,4,2,20,1,0
 2007-09-15,New Mexico,MWC,Rocky Long,A,Arizona,Pac-10,Mike Stoops,W,29,27,29,42,327,3,39,94,0,13,6,9,70,1,1
-2007-09-29,New Mexico,MWC,Rocky Long,H,Brigham Young,MWC,Bronco Mendenhall,L,24,31,20,38,231,1,36,115,2,7,9,8,60,3,2
+2007-09-29,New Mexico,MWC,Rocky Long,H,BYU,MWC,Bronco Mendenhall,L,24,31,20,38,231,1,36,115,2,7,9,8,60,3,2
 2007-10-13,New Mexico,MWC,Rocky Long,A,Wyoming,MWC,Joe Glenn,W,20,3,14,23,215,1,44,129,0,7,8,3,15,0,0
 2007-10-20,New Mexico,MWC,Rocky Long,A,San Diego State,MWC,Chuck Long,W,20,17,18,35,239,1,38,126,1,10,8,7,55,0,2
 2007-10-25,New Mexico,MWC,Rocky Long,H,Air Force,MWC,Troy Calhoun,W,34,31,16,28,169,1,48,156,2,7,10,8,44,1,1
@@ -762,20 +762,20 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-10-27,Wyoming,MWC,Joe Glenn,H,Nevada-Las Vegas,MWC,Mike Sanford,W,29,24,13,33,156,2,46,208,1,8,7,11,120,0,2
 2007-11-03,Wyoming,MWC,Joe Glenn,A,San Diego State,MWC,Chuck Long,L,24,27,22,30,159,2,47,91,0,7,10,2,10,0,1
 2007-11-10,Wyoming,MWC,Joe Glenn,A,Utah,MWC,Kyle Whittingham,L,0,50,13,32,85,0,30,37,0,4,6,8,55,3,2
-2007-11-17,Wyoming,MWC,Joe Glenn,H,Brigham Young,MWC,Bronco Mendenhall,L,10,35,24,40,268,0,24,9,1,12,3,5,51,0,1
+2007-11-17,Wyoming,MWC,Joe Glenn,H,BYU,MWC,Bronco Mendenhall,L,10,35,24,40,268,0,24,9,1,12,3,5,51,0,1
 2007-11-23,Wyoming,MWC,Joe Glenn,A,Colorado State,MWC,Sonny Lubick,L,28,36,21,34,229,0,27,99,3,10,5,10,90,2,0
-2007-09-01,Brigham Young,MWC,Bronco Mendenhall,H,Arizona,Pac-10,Mike Stoops,W,20,7,26,39,288,2,32,104,1,15,6,5,27,1,0
-2007-09-08,Brigham Young,MWC,Bronco Mendenhall,A,UCLA,Pac-10,DeWayne Walker,L,17,27,30,53,391,2,25,44,0,21,1,11,84,2,1
-2007-09-15,Brigham Young,MWC,Bronco Mendenhall,A,Tulsa,CUSA,Todd Graham,L,47,55,34,58,537,4,36,157,3,25,9,14,138,2,2
-2007-09-22,Brigham Young,MWC,Bronco Mendenhall,H,Air Force,MWC,Troy Calhoun,W,31,6,23,33,293,2,44,159,2,15,8,8,65,1,1
-2007-09-29,Brigham Young,MWC,Bronco Mendenhall,A,New Mexico,MWC,Rocky Long,W,31,24,18,40,251,2,43,112,1,11,8,7,56,1,1
-2007-10-13,Brigham Young,MWC,Bronco Mendenhall,A,Nevada-Las Vegas,MWC,Mike Sanford,W,24,14,21,33,214,1,45,227,2,11,14,7,64,1,3
-2007-11-03,Brigham Young,MWC,Bronco Mendenhall,H,Colorado State,MWC,Sonny Lubick,W,35,16,22,31,355,3,38,106,2,14,7,4,30,1,1
-2007-11-08,Brigham Young,MWC,Bronco Mendenhall,H,Texas Christian,MWC,Gary Patterson,W,27,22,26,44,305,1,34,112,2,14,4,4,30,1,1
-2007-11-17,Brigham Young,MWC,Bronco Mendenhall,A,Wyoming,MWC,Joe Glenn,W,35,10,28,40,362,3,36,135,2,16,9,10,95,0,0
-2007-11-24,Brigham Young,MWC,Bronco Mendenhall,H,Utah,MWC,Kyle Whittingham,W,17,10,17,41,269,0,33,155,1,11,7,5,48,1,1
-2007-12-01,Brigham Young,MWC,Bronco Mendenhall,A,San Diego State,MWC,Chuck Long,W,48,27,19,26,227,3,52,311,4,10,22,7,71,0,1
-2007-12-22,Brigham Young,MWC,Bronco Mendenhall,N,UCLA,Pac-10,DeWayne Walker,W,17,16,21,35,231,2,28,34,0,9,6,2,20,2,0
+2007-09-01,BYU,MWC,Bronco Mendenhall,H,Arizona,Pac-10,Mike Stoops,W,20,7,26,39,288,2,32,104,1,15,6,5,27,1,0
+2007-09-08,BYU,MWC,Bronco Mendenhall,A,UCLA,Pac-10,DeWayne Walker,L,17,27,30,53,391,2,25,44,0,21,1,11,84,2,1
+2007-09-15,BYU,MWC,Bronco Mendenhall,A,Tulsa,CUSA,Todd Graham,L,47,55,34,58,537,4,36,157,3,25,9,14,138,2,2
+2007-09-22,BYU,MWC,Bronco Mendenhall,H,Air Force,MWC,Troy Calhoun,W,31,6,23,33,293,2,44,159,2,15,8,8,65,1,1
+2007-09-29,BYU,MWC,Bronco Mendenhall,A,New Mexico,MWC,Rocky Long,W,31,24,18,40,251,2,43,112,1,11,8,7,56,1,1
+2007-10-13,BYU,MWC,Bronco Mendenhall,A,Nevada-Las Vegas,MWC,Mike Sanford,W,24,14,21,33,214,1,45,227,2,11,14,7,64,1,3
+2007-11-03,BYU,MWC,Bronco Mendenhall,H,Colorado State,MWC,Sonny Lubick,W,35,16,22,31,355,3,38,106,2,14,7,4,30,1,1
+2007-11-08,BYU,MWC,Bronco Mendenhall,H,Texas Christian,MWC,Gary Patterson,W,27,22,26,44,305,1,34,112,2,14,4,4,30,1,1
+2007-11-17,BYU,MWC,Bronco Mendenhall,A,Wyoming,MWC,Joe Glenn,W,35,10,28,40,362,3,36,135,2,16,9,10,95,0,0
+2007-11-24,BYU,MWC,Bronco Mendenhall,H,Utah,MWC,Kyle Whittingham,W,17,10,17,41,269,0,33,155,1,11,7,5,48,1,1
+2007-12-01,BYU,MWC,Bronco Mendenhall,A,San Diego State,MWC,Chuck Long,W,48,27,19,26,227,3,52,311,4,10,22,7,71,0,1
+2007-12-22,BYU,MWC,Bronco Mendenhall,N,UCLA,Pac-10,DeWayne Walker,W,17,16,21,35,231,2,28,34,0,9,6,2,20,2,0
 2007-09-01,Florida Atlantic,Sun Belt,Howard Schnellenberger,H,Middle Tennessee State,Sun Belt,Rick Stockstill,W,27,14,12,27,195,2,42,216,1,6,12,5,30,1,0
 2007-09-08,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Oklahoma State,Big 12,Mike Gundy,L,6,42,19,32,175,0,34,28,0,7,4,6,33,0,2
 2007-09-15,Florida Atlantic,Sun Belt,Howard Schnellenberger,H,Minnesota,Big Ten,Tim Brewster,W,42,39,27,44,463,5,41,117,1,14,10,7,56,0,0
@@ -844,7 +844,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-09-22,Nevada-Las Vegas,MWC,Mike Sanford,H,Utah,MWC,Kyle Whittingham,W,27,0,12,27,144,1,46,196,2,8,10,5,45,1,2
 2007-09-29,Nevada-Las Vegas,MWC,Mike Sanford,A,Nevada,WAC,Chris Ault,L,20,27,18,40,249,1,39,205,1,15,8,5,35,0,1
 2007-10-06,Nevada-Las Vegas,MWC,Mike Sanford,A,Air Force,MWC,Troy Calhoun,L,14,31,24,39,287,0,47,184,2,15,10,6,38,1,0
-2007-10-13,Nevada-Las Vegas,MWC,Mike Sanford,H,Brigham Young,MWC,Bronco Mendenhall,L,14,24,16,26,121,1,25,96,0,8,4,5,33,0,1
+2007-10-13,Nevada-Las Vegas,MWC,Mike Sanford,H,BYU,MWC,Bronco Mendenhall,L,14,24,16,26,121,1,25,96,0,8,4,5,33,0,1
 2007-10-20,Nevada-Las Vegas,MWC,Mike Sanford,H,Colorado State,MWC,Sonny Lubick,L,23,48,25,39,337,2,38,222,1,16,9,6,30,2,3
 2007-10-27,Nevada-Las Vegas,MWC,Mike Sanford,A,Wyoming,MWC,Joe Glenn,L,24,29,21,39,223,1,41,43,1,14,4,14,113,0,2
 2007-11-10,Nevada-Las Vegas,MWC,Mike Sanford,H,San Diego State,MWC,Chuck Long,L,30,38,18,29,207,3,49,275,1,12,12,3,33,0,1
@@ -920,7 +920,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-11-17,Louisiana-Monroe,Sun Belt,Charlie Weatherbie,A,Alabama,SEC,Nick Saban,W,21,14,14,24,161,1,44,121,2,10,7,7,65,0,0
 2007-11-24,Louisiana-Monroe,Sun Belt,Charlie Weatherbie,A,Louisiana,Sun Belt,Rickey Bustle,W,17,11,11,19,99,0,52,196,1,4,14,6,52,0,0
 2007-09-01,UCLA,Pac-10,DeWayne Walker,A,Stanford,Pac-10,Jim Harbaugh,W,45,17,16,29,286,5,50,338,1,11,13,7,56,0,0
-2007-09-08,UCLA,Pac-10,DeWayne Walker,H,Brigham Young,MWC,Bronco Mendenhall,W,27,17,13,28,126,0,37,110,2,7,6,4,30,0,1
+2007-09-08,UCLA,Pac-10,DeWayne Walker,H,BYU,MWC,Bronco Mendenhall,W,27,17,13,28,126,0,37,110,2,7,6,4,30,0,1
 2007-09-15,UCLA,Pac-10,DeWayne Walker,A,Utah,MWC,Kyle Whittingham,L,6,44,20,40,290,0,31,83,0,12,5,10,66,2,3
 2007-09-22,UCLA,Pac-10,DeWayne Walker,H,Washington,Pac-10,Tyrone Willingham,W,44,31,18,33,204,1,51,333,2,9,14,10,88,1,1
 2007-09-29,UCLA,Pac-10,DeWayne Walker,A,Oregon State,Pac-10,Mike Riley,W,40,14,14,25,220,2,50,133,3,6,8,8,54,2,1
@@ -931,7 +931,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-11-10,UCLA,Pac-10,DeWayne Walker,H,Arizona State,Pac-10,Dennis Erickson,L,20,24,14,29,181,0,33,119,1,7,6,5,49,1,1
 2007-11-24,UCLA,Pac-10,DeWayne Walker,H,Oregon,Pac-10,Mike Bellotti,W,16,0,4,17,64,0,51,156,1,2,8,2,19,0,2
 2007-12-01,UCLA,Pac-10,DeWayne Walker,A,USC,Pac-10,Pete Carroll,L,7,24,13,29,156,1,25,12,0,6,3,10,86,3,1
-2007-12-22,UCLA,Pac-10,DeWayne Walker,N,Brigham Young,MWC,Bronco Mendenhall,L,16,17,11,29,154,1,47,162,0,5,13,5,46,1,1
+2007-12-22,UCLA,Pac-10,DeWayne Walker,N,BYU,MWC,Bronco Mendenhall,L,16,17,11,29,154,1,47,162,0,5,13,5,46,1,1
 2007-09-01,Auburn,SEC,Tommy Tuberville,H,Kansas State,Big 12,Ron Prince,W,23,13,17,30,229,1,37,62,0,10,2,8,71,0,2
 2007-09-08,Auburn,SEC,Tommy Tuberville,H,South Florida,Big East,Jim Leavitt,L,23,26,16,35,165,1,35,125,1,9,5,7,55,3,2
 2007-09-15,Auburn,SEC,Tommy Tuberville,H,Mississippi State,SEC,Sylvester Croom,L,14,19,12,22,107,0,46,216,2,3,12,4,42,2,3
@@ -1015,7 +1015,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-12-01,LSU,SEC,Les Miles,N,Tennessee,SEC,Phillip Fulmer,W,21,14,21,33,252,1,47,212,0,12,9,9,44,1,1
 2008-01-07,LSU,SEC,Les Miles,N,Ohio State,Big Ten,Jim Tressel,W,38,24,19,27,174,4,49,152,1,9,12,4,36,0,1
 2007-08-30,Tulsa,CUSA,Todd Graham,A,Louisiana-Monroe,Sun Belt,Charlie Weatherbie,W,35,17,22,31,307,3,55,216,2,16,10,8,74,1,1
-2007-09-15,Tulsa,CUSA,Todd Graham,H,Brigham Young,MWC,Bronco Mendenhall,W,55,47,22,37,490,5,33,105,1,17,5,4,31,0,1
+2007-09-15,Tulsa,CUSA,Todd Graham,H,BYU,MWC,Bronco Mendenhall,W,55,47,22,37,490,5,33,105,1,17,5,4,31,0,1
 2007-09-21,Tulsa,CUSA,Todd Graham,H,Oklahoma,Big 12,Bob Stoops,L,21,62,23,37,354,2,36,44,1,14,2,10,93,0,2
 2007-09-29,Tulsa,CUSA,Todd Graham,H,UAB,CUSA,Neil Callaway,W,38,30,19,37,333,3,49,362,2,15,17,4,36,1,2
 2007-10-06,Tulsa,CUSA,Todd Graham,A,UTEP,CUSA,Mike Price,L,47,48,27,45,409,2,43,239,4,14,12,8,85,1,2
@@ -1062,13 +1062,13 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-10-13,Texas Christian,MWC,Gary Patterson,A,Stanford,Pac-10,Jim Harbaugh,W,38,36,23,34,344,2,48,150,3,13,13,7,71,1,0
 2007-10-18,Texas Christian,MWC,Gary Patterson,H,Utah,MWC,Kyle Whittingham,L,20,27,21,46,191,0,27,94,1,12,4,6,50,0,4
 2007-11-03,Texas Christian,MWC,Gary Patterson,H,New Mexico,MWC,Rocky Long,W,37,0,13,22,183,3,60,238,0,8,12,3,25,0,1
-2007-11-08,Texas Christian,MWC,Gary Patterson,A,Brigham Young,MWC,Bronco Mendenhall,L,22,27,24,37,222,1,39,130,1,13,9,3,37,0,1
+2007-11-08,Texas Christian,MWC,Gary Patterson,A,BYU,MWC,Bronco Mendenhall,L,22,27,24,37,222,1,39,130,1,13,9,3,37,0,1
 2007-11-17,Texas Christian,MWC,Gary Patterson,H,Nevada-Las Vegas,MWC,Mike Sanford,W,34,10,12,23,126,0,58,251,4,9,12,5,63,0,1
 2007-11-24,Texas Christian,MWC,Gary Patterson,A,San Diego State,MWC,Chuck Long,W,45,33,26,42,318,0,69,376,6,18,21,0,0,3,0
 2007-12-28,Texas Christian,MWC,Gary Patterson,A,Houston,CUSA,Art Briles,W,20,13,21,30,249,0,39,116,2,12,6,11,85,0,1
 2007-09-08,Air Force,MWC,Troy Calhoun,A,Utah,MWC,Kyle Whittingham,W,20,12,8,14,56,0,63,334,2,2,17,5,53,1,0
 2007-09-13,Air Force,MWC,Troy Calhoun,H,Texas Christian,MWC,Gary Patterson,W,20,17,17,28,193,1,42,146,1,7,7,6,47,0,1
-2007-09-22,Air Force,MWC,Troy Calhoun,A,Brigham Young,MWC,Bronco Mendenhall,L,6,31,10,21,98,0,32,133,1,4,7,2,17,0,1
+2007-09-22,Air Force,MWC,Troy Calhoun,A,BYU,MWC,Bronco Mendenhall,L,6,31,10,21,98,0,32,133,1,4,7,2,17,0,1
 2007-09-29,Air Force,MWC,Troy Calhoun,A,Navy,Ind,Ken Niumatalolo,L,20,31,18,23,237,0,52,237,2,11,13,6,65,1,0
 2007-10-06,Air Force,MWC,Troy Calhoun,H,Nevada-Las Vegas,MWC,Mike Sanford,W,31,14,9,14,123,0,42,309,4,3,12,2,20,2,0
 2007-10-13,Air Force,MWC,Troy Calhoun,A,Colorado State,MWC,Sonny Lubick,W,45,21,3,5,52,1,69,385,4,2,21,3,32,1,0
@@ -1211,7 +1211,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2007-10-13,Colorado State,MWC,Sonny Lubick,H,Air Force,MWC,Troy Calhoun,L,21,45,16,29,156,1,43,224,1,7,15,5,45,0,4
 2007-10-20,Colorado State,MWC,Sonny Lubick,A,Nevada-Las Vegas,MWC,Mike Sanford,W,48,23,13,19,218,1,49,279,3,6,15,4,55,1,0
 2007-10-27,Colorado State,MWC,Sonny Lubick,H,Utah,MWC,Kyle Whittingham,L,3,27,16,28,140,0,34,131,0,8,8,6,54,0,1
-2007-11-03,Colorado State,MWC,Sonny Lubick,A,Brigham Young,MWC,Bronco Mendenhall,L,16,35,18,35,161,0,43,150,1,7,12,5,30,0,1
+2007-11-03,Colorado State,MWC,Sonny Lubick,A,BYU,MWC,Bronco Mendenhall,L,16,35,18,35,161,0,43,150,1,7,12,5,30,0,1
 2007-11-10,Colorado State,MWC,Sonny Lubick,A,New Mexico,MWC,Rocky Long,L,23,26,13,19,221,2,53,178,0,7,14,6,55,0,0
 2007-11-23,Colorado State,MWC,Sonny Lubick,H,Wyoming,MWC,Joe Glenn,W,36,28,16,22,245,2,52,152,2,13,6,4,20,1,1
 2007-09-08,Rice,CUSA,David Bailiff,A,Baylor,Big 12,Guy Morriss,L,17,42,23,30,239,0,38,110,2,9,11,6,40,0,1

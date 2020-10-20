@@ -81,7 +81,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-10-17,Utah,WAC,Ray Nagel,A,Colorado State,Ind,Milo Lude,W,13,3
 1964-10-24,Utah,WAC,Ray Nagel,H,Arizona State,WAC,Frank Kush,W,16,3
 1964-10-31,Utah,WAC,Ray Nagel,A,UTEP,Ind,Warren Harper,W,41,0
-1964-11-07,Utah,WAC,Ray Nagel,H,Brigham Young,WAC,Tommy Hudspeth,W,47,13
+1964-11-07,Utah,WAC,Ray Nagel,H,BYU,WAC,Tommy Hudspeth,W,47,13
 1964-11-14,Utah,WAC,Ray Nagel,A,California,AAWU,Ray Willsey,W,14,0
 1964-11-21,Utah,WAC,Ray Nagel,H,Utah State,Ind,Tony Knap,W,14,6
 1964-12-19,Utah,WAC,Ray Nagel,N,West Virginia,Southern,Gene Corum,W,32,6
@@ -112,7 +112,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-11-14,Syracuse,Ind,Ben Schwartzwalder,H,Virginia Tech,Southern,Jerry Claiborne,W,20,15
 1964-11-21,Syracuse,Ind,Ben Schwartzwalder,A,West Virginia,Southern,Gene Corum,L,27,28
 1965-01-01,Syracuse,Ind,Ben Schwartzwalder,N,LSU,SEC,Charles McClendon,L,10,13
-1964-09-26,Arizona,WAC,Jim LaRue,H,Brigham Young,WAC,Tommy Hudspeth,W,39,6
+1964-09-26,Arizona,WAC,Jim LaRue,H,BYU,WAC,Tommy Hudspeth,W,39,6
 1964-10-03,Arizona,WAC,Jim LaRue,H,Washington State,AAWU,Bert Clark,W,28,12
 1964-10-10,Arizona,WAC,Jim LaRue,A,New Mexico,WAC,Bill Weeks,L,7,10
 1964-10-17,Arizona,WAC,Jim LaRue,A,Oregon,AAWU,Len Casanova,L,0,21
@@ -371,7 +371,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-10-10,Utah State,Ind,Tony Knap,H,Wichita State,MVC,Chelo Huerta,W,51,7
 1964-10-17,Utah State,Ind,Tony Knap,A,New Mexico,WAC,Bill Weeks,W,14,3
 1964-10-24,Utah State,Ind,Tony Knap,H,Colorado State,Ind,Milo Lude,W,42,13
-1964-10-31,Utah State,Ind,Tony Knap,A,Brigham Young,WAC,Tommy Hudspeth,L,14,28
+1964-10-31,Utah State,Ind,Tony Knap,A,BYU,WAC,Tommy Hudspeth,L,14,28
 1964-11-07,Utah State,Ind,Tony Knap,H,Wyoming,WAC,Lloyd Eaton,T,20,20
 1964-11-14,Utah State,Ind,Tony Knap,A,Idaho,Ind,Dee Andros,L,22,27
 1964-11-21,Utah State,Ind,Tony Knap,A,Utah,WAC,Ray Nagel,L,6,14
@@ -457,7 +457,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-11-14,Detroit Mercy,Ind,John Idzik,A,Xavier,Ind,Edward Biles,L,27,38
 1964-11-21,Detroit Mercy,Ind,John Idzik,A,Boston College,Ind,Jim Miller,L,9,17
 1964-09-19,New Mexico,WAC,Bill Weeks,A,Utah,WAC,Ray Nagel,L,0,16
-1964-10-02,New Mexico,WAC,Bill Weeks,A,Brigham Young,WAC,Tommy Hudspeth,W,26,14
+1964-10-02,New Mexico,WAC,Bill Weeks,A,BYU,WAC,Tommy Hudspeth,W,26,14
 1964-10-10,New Mexico,WAC,Bill Weeks,H,Arizona,WAC,Jim LaRue,W,10,7
 1964-10-17,New Mexico,WAC,Bill Weeks,H,Utah State,Ind,Tony Knap,L,3,14
 1964-10-24,New Mexico,WAC,Bill Weeks,H,New Mexico State,Ind,Warren Woodson,W,18,14
@@ -467,7 +467,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-11-28,New Mexico,WAC,Bill Weeks,H,Kansas State,Big 8,Doug Weaver,W,9,7
 1964-09-26,Pacific,Ind,Don Campora,A,Colorado State,Ind,Milo Lude,L,0,7
 1964-10-10,Pacific,Ind,Don Campora,A,Washington State,AAWU,Bert Clark,L,0,50
-1964-10-17,Pacific,Ind,Don Campora,A,Brigham Young,WAC,Tommy Hudspeth,L,0,21
+1964-10-17,Pacific,Ind,Don Campora,A,BYU,WAC,Tommy Hudspeth,L,0,21
 1964-10-24,Pacific,Ind,Don Campora,H,San Jose State,Ind,Robert Titchenal,L,13,37
 1964-10-31,Pacific,Ind,Don Campora,H,Idaho,Ind,Dee Andros,L,0,40
 1964-09-26,Notre Dame,Ind,Ara Parseghian,A,Wisconsin,Big Ten,Milt Bruhn,W,31,7
@@ -533,17 +533,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-10-31,Wyoming,WAC,Lloyd Eaton,H,New Mexico,WAC,Bill Weeks,L,6,17
 1964-11-07,Wyoming,WAC,Lloyd Eaton,A,Utah State,Ind,Tony Knap,T,20,20
 1964-11-14,Wyoming,WAC,Lloyd Eaton,A,Air Force,Ind,Ben Martin,T,7,7
-1964-11-21,Wyoming,WAC,Lloyd Eaton,A,Brigham Young,WAC,Tommy Hudspeth,W,31,11
-1964-09-19,Brigham Young,WAC,Tommy Hudspeth,A,Oregon,AAWU,Len Casanova,L,13,20
-1964-09-26,Brigham Young,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,L,6,39
-1964-10-02,Brigham Young,WAC,Tommy Hudspeth,H,New Mexico,WAC,Bill Weeks,L,14,26
-1964-10-10,Brigham Young,WAC,Tommy Hudspeth,A,Colorado State,Ind,Milo Lude,L,6,7
-1964-10-17,Brigham Young,WAC,Tommy Hudspeth,H,Pacific,Ind,Don Campora,W,21,0
-1964-10-24,Brigham Young,WAC,Tommy Hudspeth,A,UTEP,Ind,Warren Harper,T,18,18
-1964-10-31,Brigham Young,WAC,Tommy Hudspeth,H,Utah State,Ind,Tony Knap,W,28,14
-1964-11-07,Brigham Young,WAC,Tommy Hudspeth,A,Utah,WAC,Ray Nagel,L,13,47
-1964-11-14,Brigham Young,WAC,Tommy Hudspeth,H,Western Michigan,MAC,Bill Doolittle,W,43,8
-1964-11-21,Brigham Young,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,L,11,31
+1964-11-21,Wyoming,WAC,Lloyd Eaton,A,BYU,WAC,Tommy Hudspeth,W,31,11
+1964-09-19,BYU,WAC,Tommy Hudspeth,A,Oregon,AAWU,Len Casanova,L,13,20
+1964-09-26,BYU,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,L,6,39
+1964-10-02,BYU,WAC,Tommy Hudspeth,H,New Mexico,WAC,Bill Weeks,L,14,26
+1964-10-10,BYU,WAC,Tommy Hudspeth,A,Colorado State,Ind,Milo Lude,L,6,7
+1964-10-17,BYU,WAC,Tommy Hudspeth,H,Pacific,Ind,Don Campora,W,21,0
+1964-10-24,BYU,WAC,Tommy Hudspeth,A,UTEP,Ind,Warren Harper,T,18,18
+1964-10-31,BYU,WAC,Tommy Hudspeth,H,Utah State,Ind,Tony Knap,W,28,14
+1964-11-07,BYU,WAC,Tommy Hudspeth,A,Utah,WAC,Ray Nagel,L,13,47
+1964-11-14,BYU,WAC,Tommy Hudspeth,H,Western Michigan,MAC,Bill Doolittle,W,43,8
+1964-11-21,BYU,WAC,Tommy Hudspeth,H,Wyoming,WAC,Lloyd Eaton,L,11,31
 1964-10-03,Yale,Ivy,John Pont,H,Lehigh,Ind,Mike Cooley,W,54,0
 1964-10-10,Yale,Ivy,John Pont,H,Brown,Ivy,John McLaughry,W,15,7
 1964-10-17,Yale,Ivy,John Pont,H,Columbia,Ivy,Aldo Donelli,T,9,9
@@ -695,7 +695,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-10-24,Western Michigan,MAC,Bill Doolittle,H,Toledo,MAC,Frank Lauterbur,L,13,21
 1964-10-31,Western Michigan,MAC,Bill Doolittle,A,Marshall,MAC,Charlie Snyder,L,7,16
 1964-11-07,Western Michigan,MAC,Bill Doolittle,H,Ohio,MAC,Bill Hess,W,13,8
-1964-11-14,Western Michigan,MAC,Bill Doolittle,A,Brigham Young,WAC,Tommy Hudspeth,L,8,43
+1964-11-14,Western Michigan,MAC,Bill Doolittle,A,BYU,WAC,Tommy Hudspeth,L,8,43
 1964-09-19,William & Mary,Southern,Marv Levy,A,Virginia Military Institute,Southern,John McKenna,W,14,12
 1964-09-26,William & Mary,Southern,Marv Levy,A,Navy,Ind,Wayne Hardin,L,6,35
 1964-10-03,William & Mary,Southern,Marv Levy,A,Pitt,Ind,John Michelosen,L,7,34
@@ -710,7 +710,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-10-03,UTEP,Ind,Warren Harper,A,West Texas A&M,Ind,Joe Kerbel,L,0,14
 1964-10-10,UTEP,Ind,Warren Harper,A,Arizona State,WAC,Frank Kush,L,13,42
 1964-10-17,UTEP,Ind,Warren Harper,A,Wyoming,WAC,Lloyd Eaton,L,6,20
-1964-10-24,UTEP,Ind,Warren Harper,H,Brigham Young,WAC,Tommy Hudspeth,T,18,18
+1964-10-24,UTEP,Ind,Warren Harper,H,BYU,WAC,Tommy Hudspeth,T,18,18
 1964-10-31,UTEP,Ind,Warren Harper,H,Utah,WAC,Ray Nagel,L,0,41
 1964-11-07,UTEP,Ind,Warren Harper,H,New Mexico,WAC,Bill Weeks,L,12,20
 1964-11-14,UTEP,Ind,Warren Harper,H,Arizona,WAC,Jim LaRue,L,0,14
@@ -814,7 +814,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-11-07,Richmond,Southern,Edwin Merrick,A,Buffalo,Ind,Dick Offenhamer,L,13,28
 1964-11-14,Richmond,Southern,Edwin Merrick,H,Furman,Southern,Robert King,L,18,19
 1964-11-26,Richmond,Southern,Edwin Merrick,H,William & Mary,Southern,Marv Levy,L,13,33
-1964-09-19,Oregon,AAWU,Len Casanova,H,Brigham Young,WAC,Tommy Hudspeth,W,20,13
+1964-09-19,Oregon,AAWU,Len Casanova,H,BYU,WAC,Tommy Hudspeth,W,20,13
 1964-09-26,Oregon,AAWU,Len Casanova,H,Pitt,Ind,John Michelosen,W,22,13
 1964-10-03,Oregon,AAWU,Len Casanova,A,Penn State,Ind,Rip Engle,W,22,14
 1964-10-10,Oregon,AAWU,Len Casanova,A,Idaho,Ind,Dee Andros,W,14,8
@@ -935,7 +935,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1964-09-19,Colorado State,Ind,Milo Lude,A,Wyoming,WAC,Lloyd Eaton,L,7,31
 1964-09-26,Colorado State,Ind,Milo Lude,H,Pacific,Ind,Don Campora,W,7,0
 1964-10-03,Colorado State,Ind,Milo Lude,A,Air Force,Ind,Ben Martin,L,6,14
-1964-10-10,Colorado State,Ind,Milo Lude,H,Brigham Young,WAC,Tommy Hudspeth,W,7,6
+1964-10-10,Colorado State,Ind,Milo Lude,H,BYU,WAC,Tommy Hudspeth,W,7,6
 1964-10-17,Colorado State,Ind,Milo Lude,H,Utah,WAC,Ray Nagel,L,3,13
 1964-10-24,Colorado State,Ind,Milo Lude,A,Utah State,Ind,Tony Knap,L,13,42
 1964-10-31,Colorado State,Ind,Milo Lude,A,Arizona State,WAC,Frank Kush,L,6,34

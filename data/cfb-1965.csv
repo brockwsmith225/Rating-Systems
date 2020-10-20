@@ -57,7 +57,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-10-30,Cincinnati,MVC,Charles Studley,H,North Texas,MVC,Odus Mitchell,L,24,28
 1965-11-06,Cincinnati,MVC,Charles Studley,A,Kansas State,Big 8,Doug Weaver,W,21,14
 1965-11-20,Cincinnati,MVC,Charles Studley,H,Miami (OH),MAC,Bo Schembechler,L,7,37
-1965-09-18,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,Tommy Hudspeth,L,6,24
+1965-09-18,Arizona State,WAC,Frank Kush,H,BYU,WAC,Tommy Hudspeth,L,6,24
 1965-09-25,Arizona State,WAC,Frank Kush,H,Utah State,Ind,Tony Knap,L,0,13
 1965-10-02,Arizona State,WAC,Frank Kush,A,West Texas A&M,Ind,Joe Kerbel,L,14,22
 1965-10-09,Arizona State,WAC,Frank Kush,H,Wichita State,MVC,George Karras,W,8,6
@@ -79,7 +79,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-10-16,Utah,WAC,Ray Nagel,A,New Mexico,WAC,Bill Weeks,L,10,13
 1965-10-23,Utah,WAC,Ray Nagel,A,Oregon State,AAWU,Dee Andros,L,6,10
 1965-10-30,Utah,WAC,Ray Nagel,H,Colorado State,Ind,Milo Lude,W,22,19
-1965-11-06,Utah,WAC,Ray Nagel,A,Brigham Young,WAC,Tommy Hudspeth,L,20,25
+1965-11-06,Utah,WAC,Ray Nagel,A,BYU,WAC,Tommy Hudspeth,L,20,25
 1965-11-13,Utah,WAC,Ray Nagel,H,UTEP,Ind,Robert Dobbs,L,19,20
 1965-11-20,Utah,WAC,Ray Nagel,H,Utah State,Ind,Tony Knap,L,7,14
 1965-10-02,Wichita State,MVC,George Karras,A,Cincinnati,MVC,Charles Studley,L,6,14
@@ -114,7 +114,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-10-23,Arizona,WAC,Jim LaRue,H,San Jose State,Ind,Harry Anderson,L,7,13
 1965-11-06,Arizona,WAC,Jim LaRue,H,UTEP,Ind,Robert Dobbs,W,10,3
 1965-11-13,Arizona,WAC,Jim LaRue,H,Air Force,Ind,Ben Martin,L,7,34
-1965-11-20,Arizona,WAC,Jim LaRue,H,Brigham Young,WAC,Tommy Hudspeth,L,3,20
+1965-11-20,Arizona,WAC,Jim LaRue,H,BYU,WAC,Tommy Hudspeth,L,3,20
 1965-11-27,Arizona,WAC,Jim LaRue,A,Arizona State,WAC,Frank Kush,L,6,14
 1965-09-25,Penn State,Ind,Rip Engle,H,Michigan State,Big Ten,Duffy Daugherty,L,0,23
 1965-10-02,Penn State,Ind,Rip Engle,H,UCLA,AAWU,Tommy Prothro,L,22,24
@@ -357,7 +357,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-10-02,Utah State,Ind,Tony Knap,A,San Jose State,Ind,Harry Anderson,W,35,8
 1965-10-09,Utah State,Ind,Tony Knap,H,Idaho,Ind,Steve Musseau,W,30,19
 1965-10-23,Utah State,Ind,Tony Knap,A,Colorado State,Ind,Milo Lude,W,41,20
-1965-10-30,Utah State,Ind,Tony Knap,H,Brigham Young,WAC,Tommy Hudspeth,W,34,21
+1965-10-30,Utah State,Ind,Tony Knap,H,BYU,WAC,Tommy Hudspeth,W,34,21
 1965-11-06,Utah State,Ind,Tony Knap,A,Memphis,Ind,Billy Murphy,L,0,7
 1965-11-13,Utah State,Ind,Tony Knap,A,Wichita State,MVC,George Karras,L,19,21
 1965-11-20,Utah State,Ind,Tony Knap,A,Utah,WAC,Ray Nagel,W,14,7
@@ -375,7 +375,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-09-17,San Jose State,Ind,Harry Anderson,A,Stanford,AAWU,John Ralston,L,6,26
 1965-09-25,San Jose State,Ind,Harry Anderson,A,Idaho,Ind,Steve Musseau,L,7,17
 1965-10-02,San Jose State,Ind,Harry Anderson,H,Utah State,Ind,Tony Knap,L,8,35
-1965-10-08,San Jose State,Ind,Harry Anderson,A,Brigham Young,WAC,Tommy Hudspeth,L,7,34
+1965-10-08,San Jose State,Ind,Harry Anderson,A,BYU,WAC,Tommy Hudspeth,L,7,34
 1965-10-16,San Jose State,Ind,Harry Anderson,H,Arizona State,WAC,Frank Kush,W,21,14
 1965-10-23,San Jose State,Ind,Harry Anderson,A,Arizona,WAC,Jim LaRue,W,13,7
 1965-10-30,San Jose State,Ind,Harry Anderson,A,New Mexico,WAC,Bill Weeks,W,27,7
@@ -443,7 +443,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-11-06,New Mexico,WAC,Bill Weeks,H,Wyoming,WAC,Lloyd Eaton,L,9,27
 1965-11-13,New Mexico,WAC,Bill Weeks,A,New Mexico State,Ind,Warren Woodson,L,6,20
 1965-11-20,New Mexico,WAC,Bill Weeks,H,Iowa State,Big 8,Clay Stapleton,W,10,9
-1965-11-27,New Mexico,WAC,Bill Weeks,H,Brigham Young,WAC,Tommy Hudspeth,L,8,42
+1965-11-27,New Mexico,WAC,Bill Weeks,H,BYU,WAC,Tommy Hudspeth,L,8,42
 1965-09-25,Pacific,Ind,Don Campora,A,Iowa State,Big 8,Clay Stapleton,L,13,38
 1965-10-09,Pacific,Ind,Don Campora,H,New Mexico State,Ind,Warren Woodson,L,6,14
 1965-10-23,Pacific,Ind,Don Campora,H,Air Force,Ind,Ben Martin,L,0,40
@@ -512,21 +512,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-10-02,Wyoming,WAC,Lloyd Eaton,H,Arizona,WAC,Jim LaRue,W,19,0
 1965-10-09,Wyoming,WAC,Lloyd Eaton,A,Utah,WAC,Ray Nagel,L,3,42
 1965-10-16,Wyoming,WAC,Lloyd Eaton,H,UTEP,Ind,Robert Dobbs,W,38,14
-1965-10-23,Wyoming,WAC,Lloyd Eaton,H,Brigham Young,WAC,Tommy Hudspeth,W,34,6
+1965-10-23,Wyoming,WAC,Lloyd Eaton,H,BYU,WAC,Tommy Hudspeth,W,34,6
 1965-11-06,Wyoming,WAC,Lloyd Eaton,A,New Mexico,WAC,Bill Weeks,W,27,9
 1965-11-13,Wyoming,WAC,Lloyd Eaton,A,Army,Ind,Paul Dietzel,L,0,13
 1965-11-20,Wyoming,WAC,Lloyd Eaton,A,Arizona State,WAC,Frank Kush,L,10,14
 1965-11-27,Wyoming,WAC,Lloyd Eaton,A,USC,AAWU,John McKay,L,6,56
-1965-09-18,Brigham Young,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,W,24,6
-1965-09-24,Brigham Young,WAC,Tommy Hudspeth,H,Kansas State,Big 8,Doug Weaver,W,21,3
-1965-10-02,Brigham Young,WAC,Tommy Hudspeth,A,Oregon,AAWU,Len Casanova,L,14,27
-1965-10-08,Brigham Young,WAC,Tommy Hudspeth,H,San Jose State,Ind,Harry Anderson,W,34,7
-1965-10-23,Brigham Young,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,6,34
-1965-10-30,Brigham Young,WAC,Tommy Hudspeth,A,Utah State,Ind,Tony Knap,L,21,34
-1965-11-06,Brigham Young,WAC,Tommy Hudspeth,H,Utah,WAC,Ray Nagel,W,25,20
-1965-11-13,Brigham Young,WAC,Tommy Hudspeth,H,Colorado State,Ind,Milo Lude,L,22,36
-1965-11-20,Brigham Young,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,W,20,3
-1965-11-27,Brigham Young,WAC,Tommy Hudspeth,A,New Mexico,WAC,Bill Weeks,W,42,8
+1965-09-18,BYU,WAC,Tommy Hudspeth,A,Arizona State,WAC,Frank Kush,W,24,6
+1965-09-24,BYU,WAC,Tommy Hudspeth,H,Kansas State,Big 8,Doug Weaver,W,21,3
+1965-10-02,BYU,WAC,Tommy Hudspeth,A,Oregon,AAWU,Len Casanova,L,14,27
+1965-10-08,BYU,WAC,Tommy Hudspeth,H,San Jose State,Ind,Harry Anderson,W,34,7
+1965-10-23,BYU,WAC,Tommy Hudspeth,A,Wyoming,WAC,Lloyd Eaton,L,6,34
+1965-10-30,BYU,WAC,Tommy Hudspeth,A,Utah State,Ind,Tony Knap,L,21,34
+1965-11-06,BYU,WAC,Tommy Hudspeth,H,Utah,WAC,Ray Nagel,W,25,20
+1965-11-13,BYU,WAC,Tommy Hudspeth,H,Colorado State,Ind,Milo Lude,L,22,36
+1965-11-20,BYU,WAC,Tommy Hudspeth,A,Arizona,WAC,Jim LaRue,W,20,3
+1965-11-27,BYU,WAC,Tommy Hudspeth,A,New Mexico,WAC,Bill Weeks,W,42,8
 1965-10-02,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Hal Lahar,L,0,7
 1965-10-09,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John McLaughry,W,3,0
 1965-10-16,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Aldo Donelli,L,7,21
@@ -600,7 +600,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-11-13,Buffalo,Ind,Dick Offenhamer,H,Colgate,Ind,Hal Lahar,W,28,0
 1965-11-20,Buffalo,Ind,Dick Offenhamer,A,Villanova,Ind,Alex Bell,W,20,7
 1965-09-18,Kansas State,Big 8,Doug Weaver,A,Indiana,Big Ten,John Pont,L,7,19
-1965-09-24,Kansas State,Big 8,Doug Weaver,A,Brigham Young,WAC,Tommy Hudspeth,L,3,21
+1965-09-24,Kansas State,Big 8,Doug Weaver,A,BYU,WAC,Tommy Hudspeth,L,3,21
 1965-10-02,Kansas State,Big 8,Doug Weaver,H,Colorado,Big 8,Eddie Crowder,L,0,36
 1965-10-09,Kansas State,Big 8,Doug Weaver,A,Missouri,Big 8,Dan Devine,L,6,28
 1965-10-16,Kansas State,Big 8,Doug Weaver,H,Nebraska,Big 8,Bob Devaney,L,0,41
@@ -804,7 +804,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-11-20,Richmond,Southern,Edwin Merrick,A,William & Mary,Southern,Marv Levy,L,0,21
 1965-09-18,Oregon,AAWU,Len Casanova,A,Pitt,Ind,John Michelosen,W,17,15
 1965-09-25,Oregon,AAWU,Len Casanova,A,Utah,WAC,Ray Nagel,W,31,14
-1965-10-02,Oregon,AAWU,Len Casanova,H,Brigham Young,WAC,Tommy Hudspeth,W,27,14
+1965-10-02,Oregon,AAWU,Len Casanova,H,BYU,WAC,Tommy Hudspeth,W,27,14
 1965-10-09,Oregon,AAWU,Len Casanova,A,Stanford,AAWU,John Ralston,L,14,17
 1965-10-16,Oregon,AAWU,Len Casanova,H,Air Force,Ind,Ben Martin,T,18,18
 1965-10-23,Oregon,AAWU,Len Casanova,H,Washington,AAWU,Jim Owens,L,20,24
@@ -937,7 +937,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1965-10-16,Colorado State,Ind,Milo Lude,A,West Texas A&M,Ind,Joe Kerbel,L,12,15
 1965-10-23,Colorado State,Ind,Milo Lude,H,Utah State,Ind,Tony Knap,L,20,41
 1965-10-30,Colorado State,Ind,Milo Lude,A,Utah,WAC,Ray Nagel,L,19,22
-1965-11-13,Colorado State,Ind,Milo Lude,A,Brigham Young,WAC,Tommy Hudspeth,W,36,22
+1965-11-13,Colorado State,Ind,Milo Lude,A,BYU,WAC,Tommy Hudspeth,W,36,22
 1965-11-25,Colorado State,Ind,Milo Lude,A,Tulsa,MVC,Glenn Dobbs,L,20,48
 1965-09-25,Rice,SWC,Jess Neely,A,LSU,SEC,Charles McClendon,L,14,42
 1965-10-02,Rice,SWC,Jess Neely,H,Duke,ACC,Bill Murray,L,21,41

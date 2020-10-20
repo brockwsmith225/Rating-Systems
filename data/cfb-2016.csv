@@ -65,7 +65,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-10-08,Cincinnati,American,Tommy Tuberville,A,Connecticut,American,Bob Diaco,L,9,20,29,56,315,0,22,2,0,18,2,5,57,0,1
 2016-10-22,Cincinnati,American,Tommy Tuberville,H,East Carolina,American,Scottie Montgomery,W,31,19,23,40,348,4,35,165,0,11,12,9,82,0,0
 2016-10-29,Cincinnati,American,Tommy Tuberville,A,Temple,American,Matt Rhule,L,13,34,15,27,119,2,22,67,0,8,2,4,35,2,0
-2016-11-05,Cincinnati,American,Tommy Tuberville,H,Brigham Young,Ind,Kalani Sitake,L,3,20,19,32,199,0,25,96,0,12,4,4,40,0,1
+2016-11-05,Cincinnati,American,Tommy Tuberville,H,BYU,Ind,Kalani Sitake,L,3,20,19,32,199,0,25,96,0,12,4,4,40,0,1
 2016-11-12,Cincinnati,American,Tommy Tuberville,A,UCF,American,Scott Frost,L,3,24,19,42,220,0,36,107,0,11,6,2,15,1,2
 2016-11-18,Cincinnati,American,Tommy Tuberville,H,Memphis,American,Mike Norvell,L,7,34,23,34,144,1,35,100,0,9,7,5,52,1,2
 2016-11-25,Cincinnati,American,Tommy Tuberville,A,Tulsa,American,Philip Montgomery,L,37,40,21,38,400,4,33,134,0,12,5,5,43,0,0
@@ -92,7 +92,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-11-10,Arizona State,Pac-12,Todd Graham,H,Utah,Pac-12,Kyle Whittingham,L,26,49,20,32,355,1,47,41,2,10,8,8,75,0,2
 2016-11-19,Arizona State,Pac-12,Todd Graham,A,Washington,Pac-12,Chris Petersen,L,18,44,21,33,230,2,27,15,0,10,1,9,66,1,1
 2016-11-25,Arizona State,Pac-12,Todd Graham,A,Arizona,Pac-12,Rich Rodriguez,L,35,56,43,60,372,3,38,120,1,16,9,8,61,1,1
-2016-09-10,Utah,Pac-12,Kyle Whittingham,H,Brigham Young,Ind,Kalani Sitake,W,20,19,14,23,194,1,42,169,0,8,9,9,85,3,3
+2016-09-10,Utah,Pac-12,Kyle Whittingham,H,BYU,Ind,Kalani Sitake,W,20,19,14,23,194,1,42,169,0,8,9,9,85,3,3
 2016-09-17,Utah,Pac-12,Kyle Whittingham,A,San Jose State,MWC,Ron Caragher,W,34,17,21,30,255,1,37,201,3,8,11,7,69,1,1
 2016-09-23,Utah,Pac-12,Kyle Whittingham,H,USC,Pac-12,Clay Helton,W,31,27,21,34,270,2,47,186,1,12,16,5,43,1,0
 2016-10-01,Utah,Pac-12,Kyle Whittingham,A,California,Pac-12,Sonny Dykes,L,23,28,24,43,266,0,54,176,3,13,14,3,30,0,0
@@ -115,7 +115,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-11-12,Syracuse,ACC,Dino Babers,H,North Carolina State,ACC,Dave Doeren,L,20,35,14,25,190,1,28,28,1,5,4,5,45,1,1
 2016-11-19,Syracuse,ACC,Dino Babers,H,Florida State,ACC,Jimbo Fisher,L,14,45,16,37,196,2,35,37,0,9,1,10,77,0,2
 2016-11-26,Syracuse,ACC,Dino Babers,A,Pitt,ACC,Pat Narduzzi,L,61,76,43,61,440,5,45,228,4,21,14,7,50,0,1
-2016-09-03,Arizona,Pac-12,Rich Rodriguez,N,Brigham Young,Ind,Kalani Sitake,L,16,18,20,30,213,0,26,115,2,9,6,4,20,0,2
+2016-09-03,Arizona,Pac-12,Rich Rodriguez,N,BYU,Ind,Kalani Sitake,L,16,18,20,30,213,0,26,115,2,9,6,4,20,0,2
 2016-09-17,Arizona,Pac-12,Rich Rodriguez,H,Hawaii,MWC,Nick Rolovich,W,47,28,16,21,235,1,49,347,5,8,19,11,105,0,0
 2016-09-24,Arizona,Pac-12,Rich Rodriguez,H,Washington,Pac-12,Chris Petersen,L,28,35,19,31,167,1,43,308,3,8,12,2,30,2,1
 2016-10-01,Arizona,Pac-12,Rich Rodriguez,A,UCLA,Pac-12,Jim Mora,L,24,45,13,31,145,3,49,242,0,7,11,5,40,0,0
@@ -475,7 +475,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-10-15,Massachusetts,Ind,Mark Whipple,H,Louisiana Tech,CUSA,Skip Holtz,L,28,56,29,40,268,3,33,131,1,14,11,7,73,1,1
 2016-10-22,Massachusetts,Ind,Mark Whipple,A,South Carolina,SEC,Will Muschamp,L,28,34,20,42,247,3,37,142,1,13,8,8,77,2,2
 2016-11-05,Massachusetts,Ind,Mark Whipple,A,Troy,Sun Belt,Neal Brown,L,31,52,23,44,316,3,28,44,1,13,5,8,76,1,1
-2016-11-19,Massachusetts,Ind,Mark Whipple,A,Brigham Young,Ind,Kalani Sitake,L,9,51,27,40,288,1,20,40,0,10,3,9,94,2,2
+2016-11-19,Massachusetts,Ind,Mark Whipple,A,BYU,Ind,Kalani Sitake,L,9,51,27,40,288,1,20,40,0,10,3,9,94,2,2
 2016-11-26,Massachusetts,Ind,Mark Whipple,A,Hawaii,MWC,Nick Rolovich,L,40,46,24,38,342,3,34,117,2,12,10,9,85,1,0
 2016-09-10,Utah State,MWC,Matt Wells,A,USC,Pac-12,Clay Helton,L,7,45,25,39,204,1,26,49,0,10,1,5,38,0,1
 2016-09-16,Utah State,MWC,Matt Wells,H,Arkansas State,Sun Belt,Blake Anderson,W,34,20,11,25,136,1,47,198,3,7,9,6,54,0,1
@@ -487,7 +487,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-11-05,Utah State,MWC,Matt Wells,A,Wyoming,MWC,Craig Bohl,L,28,52,24,45,303,1,24,111,3,11,4,7,58,1,1
 2016-11-12,Utah State,MWC,Matt Wells,H,New Mexico,MWC,Bob Davie,L,21,24,21,27,263,1,28,128,2,10,7,7,75,0,1
 2016-11-19,Utah State,MWC,Matt Wells,A,Nevada,MWC,Brian Polian,L,37,38,10,18,127,0,50,396,4,6,15,9,74,1,1
-2016-11-26,Utah State,MWC,Matt Wells,A,Brigham Young,Ind,Kalani Sitake,L,10,28,12,23,103,0,28,97,1,6,4,11,94,1,1
+2016-11-26,Utah State,MWC,Matt Wells,A,BYU,Ind,Kalani Sitake,L,10,28,12,23,103,0,28,97,1,6,4,11,94,1,1
 2016-09-03,Missouri,SEC,Barry Odom,A,West Virginia,Big 12,Dana Holgorsen,L,11,26,24,53,282,1,47,180,0,11,13,6,51,1,0
 2016-09-10,Missouri,SEC,Barry Odom,H,Eastern Michigan,MAC,Chris Creighton,W,61,21,27,40,477,5,38,170,2,15,12,8,75,2,0
 2016-09-17,Missouri,SEC,Barry Odom,H,Georgia,SEC,Kirby Smart,L,27,28,23,38,376,3,37,95,0,10,8,7,50,2,3
@@ -731,7 +731,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-11-26,East Carolina,American,Scottie Montgomery,A,Temple,American,Matt Rhule,L,10,37,21,34,183,1,27,42,0,9,4,4,33,1,0
 2016-09-02,Toledo,MAC,Jason Candle,A,Arkansas State,Sun Belt,Blake Anderson,W,31,10,23,31,371,3,45,185,1,14,9,6,58,2,0
 2016-09-17,Toledo,MAC,Jason Candle,H,Fresno State,MWC,Tim DeRuyter,W,52,17,16,28,301,5,55,318,2,10,15,6,45,0,0
-2016-09-30,Toledo,MAC,Jason Candle,A,Brigham Young,Ind,Kalani Sitake,L,53,55,30,38,505,5,41,187,2,19,10,8,81,0,2
+2016-09-30,Toledo,MAC,Jason Candle,A,BYU,Ind,Kalani Sitake,L,53,55,30,38,505,5,41,187,2,19,10,8,81,0,2
 2016-10-08,Toledo,MAC,Jason Candle,A,Eastern Michigan,MAC,Chris Creighton,W,35,20,25,31,247,4,51,220,1,15,13,6,60,0,0
 2016-10-15,Toledo,MAC,Jason Candle,H,Bowling Green State,MAC,Mike Jinks,W,42,35,23,30,322,4,43,219,2,14,8,7,73,0,1
 2016-10-22,Toledo,MAC,Jason Candle,H,Central Michigan,MAC,John Bonamego,W,31,17,23,32,264,4,37,140,0,13,6,7,67,0,0
@@ -759,7 +759,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-10-01,Boise State,MWC,Bryan Harsin,H,Utah State,MWC,Matt Wells,W,21,10,17,26,230,3,40,154,0,9,8,8,101,1,0
 2016-10-07,Boise State,MWC,Bryan Harsin,A,New Mexico,MWC,Bob Davie,W,49,21,21,30,391,5,29,65,2,16,2,2,15,0,0
 2016-10-15,Boise State,MWC,Bryan Harsin,H,Colorado State,MWC,Mike Bobo,W,28,23,17,25,218,2,48,226,2,10,11,3,19,0,0
-2016-10-20,Boise State,MWC,Bryan Harsin,H,Brigham Young,Ind,Kalani Sitake,W,28,27,25,39,442,3,35,129,1,18,6,8,65,3,2
+2016-10-20,Boise State,MWC,Bryan Harsin,H,BYU,Ind,Kalani Sitake,W,28,27,25,39,442,3,35,129,1,18,6,8,65,3,2
 2016-10-29,Boise State,MWC,Bryan Harsin,A,Wyoming,MWC,Craig Bohl,L,28,30,23,36,328,1,27,159,3,16,8,4,24,1,1
 2016-11-04,Boise State,MWC,Bryan Harsin,H,San Jose State,MWC,Ron Caragher,W,45,31,16,21,219,3,54,298,3,12,15,2,10,0,0
 2016-11-12,Boise State,MWC,Bryan Harsin,A,Hawaii,MWC,Nick Rolovich,W,52,16,20,24,357,4,44,246,3,11,11,6,55,0,0
@@ -812,19 +812,19 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-11-19,Wyoming,MWC,Craig Bohl,H,San Diego State,MWC,Rocky Long,W,34,33,16,31,282,2,53,205,2,12,15,2,20,0,1
 2016-11-26,Wyoming,MWC,Craig Bohl,A,New Mexico,MWC,Bob Davie,L,35,56,18,28,248,0,45,201,5,11,12,4,44,1,0
 2016-12-03,Wyoming,MWC,Craig Bohl,H,San Diego State,MWC,Rocky Long,L,24,27,14,31,248,3,31,95,0,10,3,6,45,1,2
-2016-12-21,Wyoming,MWC,Craig Bohl,N,Brigham Young,Ind,Kalani Sitake,L,21,24,17,33,207,2,45,186,1,9,10,7,59,0,2
-2016-09-03,Brigham Young,Ind,Kalani Sitake,N,Arizona,Pac-12,Rich Rodriguez,W,18,16,21,29,202,1,47,213,1,10,14,8,65,0,0
-2016-09-10,Brigham Young,Ind,Kalani Sitake,A,Utah,Pac-12,Kyle Whittingham,L,19,20,22,39,185,0,28,146,2,11,6,10,112,0,2
-2016-09-17,Brigham Young,Ind,Kalani Sitake,H,UCLA,Pac-12,Jim Mora,L,14,17,26,49,250,1,25,23,1,12,4,2,15,0,1
-2016-09-24,Brigham Young,Ind,Kalani Sitake,N,West Virginia,Big 12,Dana Holgorsen,L,32,35,23,36,241,2,40,280,2,14,12,8,51,1,3
-2016-09-30,Brigham Young,Ind,Kalani Sitake,H,Toledo,MAC,Jason Candle,W,55,53,11,21,248,1,45,338,6,10,14,7,82,0,0
-2016-10-08,Brigham Young,Ind,Kalani Sitake,A,Michigan State,Big Ten,Mark Dantonio,W,31,14,18,29,138,1,49,260,3,7,15,3,24,0,0
-2016-10-14,Brigham Young,Ind,Kalani Sitake,H,Mississippi State,SEC,Dan Mullen,W,28,21,16,28,165,3,46,147,1,8,8,9,84,1,1
-2016-10-20,Brigham Young,Ind,Kalani Sitake,A,Boise State,MWC,Bryan Harsin,L,27,28,21,41,187,0,38,135,1,9,9,7,61,0,0
-2016-11-05,Brigham Young,Ind,Kalani Sitake,A,Cincinnati,American,Tommy Tuberville,W,20,3,15,25,130,0,47,207,2,9,12,5,28,0,1
-2016-11-19,Brigham Young,Ind,Kalani Sitake,H,Massachusetts,Ind,Mark Whipple,W,51,9,20,34,184,1,49,247,4,11,12,5,64,1,0
-2016-11-26,Brigham Young,Ind,Kalani Sitake,H,Utah State,MWC,Matt Wells,W,28,10,11,22,106,2,54,249,1,5,14,8,68,0,2
-2016-12-21,Brigham Young,Ind,Kalani Sitake,N,Wyoming,MWC,Craig Bohl,W,24,21,8,15,96,1,35,216,2,5,7,5,63,1,1
+2016-12-21,Wyoming,MWC,Craig Bohl,N,BYU,Ind,Kalani Sitake,L,21,24,17,33,207,2,45,186,1,9,10,7,59,0,2
+2016-09-03,BYU,Ind,Kalani Sitake,N,Arizona,Pac-12,Rich Rodriguez,W,18,16,21,29,202,1,47,213,1,10,14,8,65,0,0
+2016-09-10,BYU,Ind,Kalani Sitake,A,Utah,Pac-12,Kyle Whittingham,L,19,20,22,39,185,0,28,146,2,11,6,10,112,0,2
+2016-09-17,BYU,Ind,Kalani Sitake,H,UCLA,Pac-12,Jim Mora,L,14,17,26,49,250,1,25,23,1,12,4,2,15,0,1
+2016-09-24,BYU,Ind,Kalani Sitake,N,West Virginia,Big 12,Dana Holgorsen,L,32,35,23,36,241,2,40,280,2,14,12,8,51,1,3
+2016-09-30,BYU,Ind,Kalani Sitake,H,Toledo,MAC,Jason Candle,W,55,53,11,21,248,1,45,338,6,10,14,7,82,0,0
+2016-10-08,BYU,Ind,Kalani Sitake,A,Michigan State,Big Ten,Mark Dantonio,W,31,14,18,29,138,1,49,260,3,7,15,3,24,0,0
+2016-10-14,BYU,Ind,Kalani Sitake,H,Mississippi State,SEC,Dan Mullen,W,28,21,16,28,165,3,46,147,1,8,8,9,84,1,1
+2016-10-20,BYU,Ind,Kalani Sitake,A,Boise State,MWC,Bryan Harsin,L,27,28,21,41,187,0,38,135,1,9,9,7,61,0,0
+2016-11-05,BYU,Ind,Kalani Sitake,A,Cincinnati,American,Tommy Tuberville,W,20,3,15,25,130,0,47,207,2,9,12,5,28,0,1
+2016-11-19,BYU,Ind,Kalani Sitake,H,Massachusetts,Ind,Mark Whipple,W,51,9,20,34,184,1,49,247,4,11,12,5,64,1,0
+2016-11-26,BYU,Ind,Kalani Sitake,H,Utah State,MWC,Matt Wells,W,28,10,11,22,106,2,54,249,1,5,14,8,68,0,2
+2016-12-21,BYU,Ind,Kalani Sitake,N,Wyoming,MWC,Craig Bohl,W,24,21,8,15,96,1,35,216,2,5,7,5,63,1,1
 2016-09-10,Florida Atlantic,CUSA,Charlie Partridge,A,Miami (FL),ACC,Mark Richt,L,10,38,18,37,167,0,34,47,1,7,4,6,45,0,1
 2016-09-17,Florida Atlantic,CUSA,Charlie Partridge,A,Kansas State,Big 12,Bill Snyder,L,7,63,15,28,129,0,37,82,1,4,8,10,93,2,2
 2016-09-24,Florida Atlantic,CUSA,Charlie Partridge,H,Ball State,MAC,Mike Neu,L,27,31,25,37,324,1,36,121,2,12,8,2,20,1,1
@@ -888,7 +888,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-09-17,Mississippi State,SEC,Dan Mullen,A,LSU,SEC,Les Miles,L,20,23,17,32,214,1,32,56,1,9,4,5,35,1,0
 2016-09-24,Mississippi State,SEC,Dan Mullen,A,Massachusetts,Ind,Mark Whipple,W,47,35,26,39,305,3,44,297,2,14,17,9,90,1,0
 2016-10-08,Mississippi State,SEC,Dan Mullen,H,Auburn,SEC,Gus Malzahn,L,14,38,18,35,186,2,33,103,0,9,7,7,80,2,1
-2016-10-14,Mississippi State,SEC,Dan Mullen,A,Brigham Young,Ind,Kalani Sitake,L,21,28,18,37,223,1,49,163,2,11,9,7,63,0,2
+2016-10-14,Mississippi State,SEC,Dan Mullen,A,BYU,Ind,Kalani Sitake,L,21,28,18,37,223,1,49,163,2,11,9,7,63,0,2
 2016-10-22,Mississippi State,SEC,Dan Mullen,A,Kentucky,SEC,Mark Stoops,L,38,40,13,21,81,1,39,281,3,4,11,7,50,0,1
 2016-11-05,Mississippi State,SEC,Dan Mullen,H,Texas A&M,SEC,Kevin Sumlin,W,35,28,18,31,209,2,58,365,3,8,19,3,30,0,2
 2016-11-12,Mississippi State,SEC,Dan Mullen,A,Alabama,SEC,Nick Saban,L,3,51,16,43,180,0,35,94,0,9,6,4,31,0,1
@@ -977,7 +977,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-12-03,Louisiana-Monroe,Sun Belt,Matt Viator,H,Louisiana,Sun Belt,Mark Hudspeth,L,3,30,3,14,31,0,38,116,0,2,6,3,35,3,2
 2016-09-03,UCLA,Pac-12,Jim Mora,A,Texas A&M,SEC,Kevin Sumlin,L,24,31,26,47,343,1,40,125,1,16,8,4,17,0,3
 2016-09-10,UCLA,Pac-12,Jim Mora,H,Nevada-Las Vegas,MWC,Tony Sanchez,W,42,21,24,39,280,1,40,219,5,15,13,9,74,1,0
-2016-09-17,UCLA,Pac-12,Jim Mora,A,Brigham Young,Ind,Kalani Sitake,W,17,14,26,40,307,2,34,50,0,14,3,5,49,0,1
+2016-09-17,UCLA,Pac-12,Jim Mora,A,BYU,Ind,Kalani Sitake,W,17,14,26,40,307,2,34,50,0,14,3,5,49,0,1
 2016-09-24,UCLA,Pac-12,Jim Mora,H,Stanford,Pac-12,David Shaw,L,13,22,18,27,248,1,33,77,0,11,5,5,45,1,0
 2016-10-01,UCLA,Pac-12,Jim Mora,H,Arizona,Pac-12,Rich Rodriguez,W,45,24,20,37,350,3,32,125,3,15,4,5,60,0,0
 2016-10-08,UCLA,Pac-12,Jim Mora,A,Arizona State,Pac-12,Todd Graham,L,20,23,27,54,444,2,23,-1,0,14,2,5,50,1,3
@@ -1226,7 +1226,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-11-25,Nebraska,Big Ten,Mike Riley,A,Iowa,Big Ten,Kirk Ferentz,L,10,40,14,37,127,1,31,90,0,8,6,8,57,0,0
 2016-12-30,Nebraska,Big Ten,Mike Riley,N,Tennessee,SEC,Butch Jones,L,24,38,19,42,257,2,28,61,1,12,5,7,41,1,0
 2016-09-03,West Virginia,Big 12,Dana Holgorsen,H,Missouri,SEC,Barry Odom,W,26,11,23,37,253,0,48,241,2,13,9,4,45,1,2
-2016-09-24,West Virginia,Big 12,Dana Holgorsen,N,Brigham Young,Ind,Kalani Sitake,W,35,32,31,40,332,1,35,149,3,17,7,4,38,1,1
+2016-09-24,West Virginia,Big 12,Dana Holgorsen,N,BYU,Ind,Kalani Sitake,W,35,32,31,40,332,1,35,149,3,17,7,4,38,1,1
 2016-10-01,West Virginia,Big 12,Dana Holgorsen,H,Kansas State,Big 12,Bill Snyder,W,17,16,24,41,298,1,35,124,1,15,6,6,60,1,1
 2016-10-15,West Virginia,Big 12,Dana Holgorsen,A,Texas Tech,Big 12,Kliff Kingsbury,W,48,17,21,31,318,1,46,332,5,12,15,9,95,0,0
 2016-10-22,West Virginia,Big 12,Dana Holgorsen,H,Texas Christian,Big 12,Gary Patterson,W,34,10,16,23,231,4,48,158,0,12,11,7,45,0,0
@@ -1300,7 +1300,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2016-09-17,Michigan State,Big Ten,Mark Dantonio,A,Notre Dame,Ind,Brian Kelly,W,36,28,19,26,241,2,52,260,3,12,9,3,45,0,1
 2016-09-24,Michigan State,Big Ten,Mark Dantonio,H,Wisconsin,Big Ten,Paul Chryst,L,6,30,20,43,250,0,27,75,0,15,4,5,35,1,3
 2016-10-01,Michigan State,Big Ten,Mark Dantonio,A,Indiana,Big Ten,Tom Allen,L,21,24,21,35,263,3,41,175,0,10,10,11,98,1,0
-2016-10-08,Michigan State,Big Ten,Mark Dantonio,H,Brigham Young,Ind,Kalani Sitake,L,14,31,13,21,121,0,32,85,2,7,5,4,39,0,1
+2016-10-08,Michigan State,Big Ten,Mark Dantonio,H,BYU,Ind,Kalani Sitake,L,14,31,13,21,121,0,32,85,2,7,5,4,39,0,1
 2016-10-15,Michigan State,Big Ten,Mark Dantonio,H,Northwestern,Big Ten,Pat Fitzgerald,L,40,54,27,42,424,4,23,51,0,15,3,5,34,1,1
 2016-10-22,Michigan State,Big Ten,Mark Dantonio,A,Maryland,Big Ten,D.J. Durkin,L,17,28,11,24,156,0,44,270,2,9,13,7,84,1,1
 2016-10-29,Michigan State,Big Ten,Mark Dantonio,H,Michigan,Big Ten,Jim Harbaugh,L,23,32,13,28,184,2,42,217,1,7,12,7,57,0,1

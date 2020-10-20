@@ -45,7 +45,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-11-23,Florida State,Ind,Darrell Mudra,H,Houston,Ind,Bill Yeoman,L,8,23
 1974-09-14,Iowa State,Big 8,Earle Bruce,A,Texas Tech,SWC,Jim Carlen,L,3,24
 1974-09-21,Iowa State,Big 8,Earle Bruce,A,Washington,Pac-8,Jim Owens,L,28,31
-1974-09-28,Iowa State,Big 8,Earle Bruce,H,Brigham Young,WAC,LaVell Edwards,W,34,7
+1974-09-28,Iowa State,Big 8,Earle Bruce,H,BYU,WAC,LaVell Edwards,W,34,7
 1974-10-05,Iowa State,Big 8,Earle Bruce,H,New Mexico,WAC,Bill Mondt,W,27,3
 1974-10-12,Iowa State,Big 8,Earle Bruce,A,Colorado,Big 8,Bill Mallory,L,7,34
 1974-10-19,Iowa State,Big 8,Earle Bruce,H,Kansas State,Big 8,Vince Gibson,W,23,18
@@ -71,7 +71,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-10-19,Arizona State,WAC,Frank Kush,H,Utah,WAC,Tom Lovat,W,32,0
 1974-10-26,Arizona State,WAC,Frank Kush,H,New Mexico,WAC,Bill Mondt,W,41,7
 1974-11-02,Arizona State,WAC,Frank Kush,H,UTEP,WAC,Gil Bartosh,L,27,31
-1974-11-09,Arizona State,WAC,Frank Kush,A,Brigham Young,WAC,LaVell Edwards,L,18,21
+1974-11-09,Arizona State,WAC,Frank Kush,A,BYU,WAC,LaVell Edwards,L,18,21
 1974-11-16,Arizona State,WAC,Frank Kush,H,North Carolina State,ACC,Lou Holtz,L,14,35
 1974-11-23,Arizona State,WAC,Frank Kush,H,Colorado State,WAC,Sarkis Arslanian,W,26,21
 1974-11-30,Arizona State,WAC,Frank Kush,A,Arizona,WAC,Jim Young,L,0,10
@@ -92,7 +92,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-11-02,Utah,WAC,Tom Lovat,H,San Jose State,PCAA,Darryl Rogers,L,6,24
 1974-11-09,Utah,WAC,Tom Lovat,H,New Mexico,WAC,Bill Mondt,W,21,10
 1974-11-16,Utah,WAC,Tom Lovat,A,Utah State,Ind,Phil Krueger,L,0,34
-1974-11-23,Utah,WAC,Tom Lovat,A,Brigham Young,WAC,LaVell Edwards,L,20,48
+1974-11-23,Utah,WAC,Tom Lovat,A,BYU,WAC,LaVell Edwards,L,20,48
 1974-11-30,Utah,WAC,Tom Lovat,A,LSU,SEC,Charles McClendon,L,10,35
 1974-09-07,Wichita State,MVC,Jim Wright,H,New Mexico State,MVC,Jim Bradley,L,12,13
 1974-09-14,Wichita State,MVC,Jim Wright,A,Oklahoma State,Big 8,Jim Stanley,L,0,59
@@ -131,7 +131,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-10-05,Arizona,WAC,Jim Young,H,UTEP,WAC,Gil Bartosh,W,42,13
 1974-10-12,Arizona,WAC,Jim Young,A,Utah,WAC,Tom Lovat,W,41,8
 1974-10-19,Arizona,WAC,Jim Young,A,Texas Tech,SWC,Jim Carlen,L,8,17
-1974-10-26,Arizona,WAC,Jim Young,H,Brigham Young,WAC,LaVell Edwards,L,13,37
+1974-10-26,Arizona,WAC,Jim Young,H,BYU,WAC,LaVell Edwards,L,13,37
 1974-11-09,Arizona,WAC,Jim Young,H,Colorado State,WAC,Sarkis Arslanian,W,34,21
 1974-11-16,Arizona,WAC,Jim Young,A,Air Force,Ind,Ben Martin,W,27,24
 1974-11-23,Arizona,WAC,Jim Young,H,Wyoming,WAC,Fritz Shurmur,W,21,14
@@ -422,7 +422,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-11-16,Long Beach State,PCAA,Wayne Howard,H,Western Michigan,MAC,Bill Doolittle,W,34,33
 1974-11-23,Long Beach State,PCAA,Wayne Howard,A,North Texas,MVC,Hayden Fry,W,35,19
 1974-09-14,Utah State,Ind,Phil Krueger,A,Wyoming,WAC,Fritz Shurmur,W,17,7
-1974-09-21,Utah State,Ind,Phil Krueger,A,Brigham Young,WAC,LaVell Edwards,W,9,6
+1974-09-21,Utah State,Ind,Phil Krueger,A,BYU,WAC,LaVell Edwards,W,9,6
 1974-09-28,Utah State,Ind,Phil Krueger,A,Oklahoma,Big 8,Barry Switzer,L,3,72
 1974-10-12,Utah State,Ind,Phil Krueger,H,Colorado State,WAC,Sarkis Arslanian,W,24,23
 1974-10-19,Utah State,Ind,Phil Krueger,A,Kent State,MAC,Don James,W,27,24
@@ -509,7 +509,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-11-16,San Diego State,PCAA,Claude Gilbert,H,New Mexico State,MVC,Jim Bradley,W,35,14
 1974-11-23,San Diego State,PCAA,Claude Gilbert,H,Bowling Green State,MAC,Don Nehlen,T,21,21
 1974-11-30,San Diego State,PCAA,Claude Gilbert,H,Utah State,Ind,Phil Krueger,W,34,6
-1974-09-14,Hawaii,Ind,Larry Price,H,Brigham Young,WAC,LaVell Edwards,W,15,13
+1974-09-14,Hawaii,Ind,Larry Price,H,BYU,WAC,LaVell Edwards,W,15,13
 1974-10-05,Hawaii,Ind,Larry Price,A,Pacific,PCAA,Chester Caddas,W,23,14
 1974-10-19,Hawaii,Ind,Larry Price,H,Long Beach State,PCAA,Wayne Howard,W,28,21
 1974-11-09,Hawaii,Ind,Larry Price,H,San Jose State,PCAA,Darryl Rogers,L,11,32
@@ -550,7 +550,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-10-26,New Mexico,WAC,Bill Mondt,A,Arizona State,WAC,Frank Kush,L,7,41
 1974-11-02,New Mexico,WAC,Bill Mondt,H,New Mexico State,MVC,Jim Bradley,W,26,24
 1974-11-09,New Mexico,WAC,Bill Mondt,A,Utah,WAC,Tom Lovat,L,10,21
-1974-11-16,New Mexico,WAC,Bill Mondt,H,Brigham Young,WAC,LaVell Edwards,L,3,36
+1974-11-16,New Mexico,WAC,Bill Mondt,H,BYU,WAC,LaVell Edwards,L,3,36
 1974-11-23,New Mexico,WAC,Bill Mondt,A,UTEP,WAC,Gil Bartosh,W,37,21
 1974-09-14,Pacific,PCAA,Chester Caddas,A,UTEP,WAC,Gil Bartosh,W,17,14
 1974-09-21,Pacific,PCAA,Chester Caddas,H,Long Beach State,PCAA,Wayne Howard,W,38,6
@@ -639,25 +639,25 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-09-21,Wyoming,WAC,Fritz Shurmur,A,Texas,SWC,Darrell Royal,L,7,34
 1974-09-28,Wyoming,WAC,Fritz Shurmur,H,Air Force,Ind,Ben Martin,W,20,16
 1974-10-05,Wyoming,WAC,Fritz Shurmur,H,Arizona State,WAC,Frank Kush,L,10,16
-1974-10-12,Wyoming,WAC,Fritz Shurmur,A,Brigham Young,WAC,LaVell Edwards,L,7,38
+1974-10-12,Wyoming,WAC,Fritz Shurmur,A,BYU,WAC,LaVell Edwards,L,7,38
 1974-10-19,Wyoming,WAC,Fritz Shurmur,H,New Mexico,WAC,Bill Mondt,L,21,32
 1974-10-26,Wyoming,WAC,Fritz Shurmur,H,Utah,WAC,Tom Lovat,W,31,13
 1974-11-02,Wyoming,WAC,Fritz Shurmur,A,Colorado State,WAC,Sarkis Arslanian,L,6,11
 1974-11-09,Wyoming,WAC,Fritz Shurmur,A,UTEP,WAC,Gil Bartosh,L,13,35
 1974-11-16,Wyoming,WAC,Fritz Shurmur,H,Pacific,PCAA,Chester Caddas,L,14,50
 1974-11-23,Wyoming,WAC,Fritz Shurmur,A,Arizona,WAC,Jim Young,L,14,21
-1974-09-14,Brigham Young,WAC,LaVell Edwards,A,Hawaii,Ind,Larry Price,L,13,15
-1974-09-21,Brigham Young,WAC,LaVell Edwards,H,Utah State,Ind,Phil Krueger,L,6,9
-1974-09-28,Brigham Young,WAC,LaVell Edwards,A,Iowa State,Big 8,Earle Bruce,L,7,34
-1974-10-05,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,T,33,33
-1974-10-12,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Fritz Shurmur,W,38,7
-1974-10-19,Brigham Young,WAC,LaVell Edwards,H,UTEP,WAC,Gil Bartosh,W,45,21
-1974-10-26,Brigham Young,WAC,LaVell Edwards,A,Arizona,WAC,Jim Young,W,37,13
-1974-11-02,Brigham Young,WAC,LaVell Edwards,A,Air Force,Ind,Ben Martin,W,12,10
-1974-11-09,Brigham Young,WAC,LaVell Edwards,H,Arizona State,WAC,Frank Kush,W,21,18
-1974-11-16,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Bill Mondt,W,36,3
-1974-11-23,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Tom Lovat,W,48,20
-1974-12-28,Brigham Young,WAC,LaVell Edwards,N,Oklahoma State,Big 8,Jim Stanley,L,6,16
+1974-09-14,BYU,WAC,LaVell Edwards,A,Hawaii,Ind,Larry Price,L,13,15
+1974-09-21,BYU,WAC,LaVell Edwards,H,Utah State,Ind,Phil Krueger,L,6,9
+1974-09-28,BYU,WAC,LaVell Edwards,A,Iowa State,Big 8,Earle Bruce,L,7,34
+1974-10-05,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Sarkis Arslanian,T,33,33
+1974-10-12,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Fritz Shurmur,W,38,7
+1974-10-19,BYU,WAC,LaVell Edwards,H,UTEP,WAC,Gil Bartosh,W,45,21
+1974-10-26,BYU,WAC,LaVell Edwards,A,Arizona,WAC,Jim Young,W,37,13
+1974-11-02,BYU,WAC,LaVell Edwards,A,Air Force,Ind,Ben Martin,W,12,10
+1974-11-09,BYU,WAC,LaVell Edwards,H,Arizona State,WAC,Frank Kush,W,21,18
+1974-11-16,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Bill Mondt,W,36,3
+1974-11-23,BYU,WAC,LaVell Edwards,H,Utah,WAC,Tom Lovat,W,48,20
+1974-12-28,BYU,WAC,LaVell Edwards,N,Oklahoma State,Big 8,Jim Stanley,L,6,16
 1974-10-05,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,30,7
 1974-10-12,Yale,Ivy,Carmen Cozza,H,Brown,Ivy,John Anderson,W,24,0
 1974-10-19,Yale,Ivy,Carmen Cozza,H,Columbia,Ivy,William Campbell,W,42,2
@@ -839,7 +839,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-09-28,UTEP,WAC,Gil Bartosh,H,San Diego State,PCAA,Claude Gilbert,L,12,26
 1974-10-05,UTEP,WAC,Gil Bartosh,A,Arizona,WAC,Jim Young,L,13,42
 1974-10-12,UTEP,WAC,Gil Bartosh,A,New Mexico State,MVC,Jim Bradley,L,13,14
-1974-10-19,UTEP,WAC,Gil Bartosh,A,Brigham Young,WAC,LaVell Edwards,L,21,45
+1974-10-19,UTEP,WAC,Gil Bartosh,A,BYU,WAC,LaVell Edwards,L,21,45
 1974-10-26,UTEP,WAC,Gil Bartosh,A,Texas-Arlington,Ind,Harold Elliott,W,28,14
 1974-11-02,UTEP,WAC,Gil Bartosh,A,Arizona State,WAC,Frank Kush,W,31,27
 1974-11-09,UTEP,WAC,Gil Bartosh,H,Wyoming,WAC,Fritz Shurmur,W,35,13
@@ -931,7 +931,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-10-12,Air Force,Ind,Ben Martin,H,Tulane,Ind,Bennie Ellender,L,3,10
 1974-10-19,Air Force,Ind,Ben Martin,H,Navy,Ind,George Welsh,W,19,16
 1974-10-26,Air Force,Ind,Ben Martin,A,Rutgers,Ind,Frank Burns,L,3,20
-1974-11-02,Air Force,Ind,Ben Martin,H,Brigham Young,WAC,LaVell Edwards,L,10,12
+1974-11-02,Air Force,Ind,Ben Martin,H,BYU,WAC,LaVell Edwards,L,10,12
 1974-11-09,Air Force,Ind,Ben Martin,A,Army,Ind,Homer Smith,L,16,17
 1974-11-16,Air Force,Ind,Ben Martin,H,Arizona,WAC,Jim Young,L,24,27
 1974-11-23,Air Force,Ind,Ben Martin,A,Notre Dame,Ind,Ara Parseghian,L,0,38
@@ -1084,7 +1084,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-11-16,Oklahoma State,Big 8,Jim Stanley,H,Colorado,Big 8,Bill Mallory,L,20,37
 1974-11-23,Oklahoma State,Big 8,Jim Stanley,H,Iowa State,Big 8,Earle Bruce,W,14,12
 1974-11-30,Oklahoma State,Big 8,Jim Stanley,A,Oklahoma,Big 8,Barry Switzer,L,13,44
-1974-12-28,Oklahoma State,Big 8,Jim Stanley,N,Brigham Young,WAC,LaVell Edwards,W,16,6
+1974-12-28,Oklahoma State,Big 8,Jim Stanley,N,BYU,WAC,LaVell Edwards,W,16,6
 1974-09-14,Colorado,Big 8,Bill Mallory,A,LSU,SEC,Charles McClendon,L,14,42
 1974-09-21,Colorado,Big 8,Bill Mallory,A,Michigan,Big Ten,Bo Schembechler,L,0,31
 1974-09-28,Colorado,Big 8,Bill Mallory,H,Wisconsin,Big Ten,John Jardine,W,24,21
@@ -1099,7 +1099,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1974-09-14,Colorado State,WAC,Sarkis Arslanian,A,New Mexico,WAC,Bill Mondt,L,23,32
 1974-09-21,Colorado State,WAC,Sarkis Arslanian,A,Florida State,Ind,Darrell Mudra,W,14,7
 1974-09-28,Colorado State,WAC,Sarkis Arslanian,H,Memphis,Ind,Fred Pancoast,L,18,20
-1974-10-05,Colorado State,WAC,Sarkis Arslanian,H,Brigham Young,WAC,LaVell Edwards,T,33,33
+1974-10-05,Colorado State,WAC,Sarkis Arslanian,H,BYU,WAC,LaVell Edwards,T,33,33
 1974-10-12,Colorado State,WAC,Sarkis Arslanian,A,Utah State,Ind,Phil Krueger,L,23,24
 1974-10-26,Colorado State,WAC,Sarkis Arslanian,A,Arkansas,SWC,Frank Broyles,L,9,43
 1974-11-02,Colorado State,WAC,Sarkis Arslanian,H,Wyoming,WAC,Fritz Shurmur,W,11,6

@@ -35,11 +35,11 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1927-10-22,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Myron Witham,W,20,13
 1927-10-29,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,L,0,12
 1927-11-05,Utah,RMC,Ike Armstrong,H,Creighton,Ind,,L,7,16
-1927-11-12,Utah,RMC,Ike Armstrong,A,Brigham Young,RMC,C.J. Hart,W,20,0
+1927-11-12,Utah,RMC,Ike Armstrong,A,BYU,RMC,C.J. Hart,W,20,0
 1927-11-24,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,T,0,0
 1927-10-01,Northern Colorado,RMC,George Cooper,H,Colorado State,RMC,Harry Hughes,L,0,33
 1927-10-15,Northern Colorado,RMC,George Cooper,A,Colorado,RMC,Myron Witham,L,0,43
-1927-10-22,Northern Colorado,RMC,George Cooper,A,Brigham Young,RMC,C.J. Hart,W,21,7
+1927-10-22,Northern Colorado,RMC,George Cooper,A,BYU,RMC,C.J. Hart,W,21,7
 1927-10-29,Northern Colorado,RMC,George Cooper,A,Western State,RMC,John Van Liew,L,2,6
 1927-11-05,Northern Colorado,RMC,George Cooper,H,Colorado Mines,RMC,George Allen,L,12,37
 1927-11-19,Northern Colorado,RMC,George Cooper,A,Colorado College,RMC,W.T. VandeGraaff,L,0,20
@@ -130,7 +130,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1927-10-08,Western State,RMC,John Van Liew,A,Utah State,RMC,,L,0,39
 1927-10-15,Western State,RMC,John Van Liew,A,Colorado Mines,RMC,George Allen,L,6,51
 1927-10-29,Western State,RMC,John Van Liew,H,Northern Colorado,RMC,George Cooper,W,6,2
-1927-11-05,Western State,RMC,John Van Liew,A,Brigham Young,RMC,C.J. Hart,L,7,60
+1927-11-05,Western State,RMC,John Van Liew,A,BYU,RMC,C.J. Hart,L,7,60
 1927-11-12,Western State,RMC,John Van Liew,H,Colorado College,RMC,W.T. VandeGraaff,L,6,33
 1927-10-15,Illinois,Western,Robert Zuppke,H,Iowa State,MVIAA,,T,12,12
 1927-10-22,Illinois,Western,Robert Zuppke,A,Northwestern,Western,Dick Hanley,W,7,6
@@ -219,7 +219,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1927-10-08,Utah State,RMC,,H,Western State,RMC,John Van Liew,W,39,0
 1927-10-15,Utah State,RMC,,H,Montana State,RMC,Ott Romney,L,6,13
 1927-10-22,Utah State,RMC,,H,Wyoming,RMC,George McLaren,W,42,0
-1927-10-29,Utah State,RMC,,H,Brigham Young,RMC,C.J. Hart,W,22,0
+1927-10-29,Utah State,RMC,,H,BYU,RMC,C.J. Hart,W,22,0
 1927-11-05,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,L,0,6
 1927-11-11,Utah State,RMC,,A,Denver,RMC,Fred Dawson,L,0,13
 1927-11-24,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,T,0,0
@@ -270,7 +270,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1927-10-29,Colorado Mines,RMC,George Allen,A,Colorado,RMC,Myron Witham,L,18,28
 1927-11-05,Colorado Mines,RMC,George Allen,A,Northern Colorado,RMC,George Cooper,W,37,12
 1927-11-12,Colorado Mines,RMC,George Allen,H,Colorado State,RMC,Harry Hughes,L,6,37
-1927-11-19,Colorado Mines,RMC,George Allen,A,Brigham Young,RMC,C.J. Hart,L,19,38
+1927-11-19,Colorado Mines,RMC,George Allen,A,BYU,RMC,C.J. Hart,L,19,38
 1927-09-30,North Carolina State,Southern,Gus Tebell,A,Furman,Ind,,L,0,20
 1927-10-08,North Carolina State,Southern,Gus Tebell,H,Clemson,Southern,Josh Cody,W,18,6
 1927-10-13,North Carolina State,Southern,Gus Tebell,H,Wake Forest,Ind,James Baldwin,W,30,7
@@ -318,12 +318,12 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1927-10-29,Wyoming,RMC,George McLaren,H,Colorado College,RMC,W.T. VandeGraaff,L,8,12
 1927-11-11,Wyoming,RMC,George McLaren,N,Montana State,RMC,Ott Romney,L,0,6
 1927-11-24,Wyoming,RMC,George McLaren,A,Northern Colorado,RMC,George Cooper,W,27,6
-1927-10-08,Brigham Young,RMC,C.J. Hart,A,Colorado State,RMC,Harry Hughes,L,0,29
-1927-10-22,Brigham Young,RMC,C.J. Hart,H,Northern Colorado,RMC,George Cooper,L,7,21
-1927-10-29,Brigham Young,RMC,C.J. Hart,A,Utah State,RMC,,L,0,22
-1927-11-05,Brigham Young,RMC,C.J. Hart,H,Western State,RMC,John Van Liew,W,60,7
-1927-11-12,Brigham Young,RMC,C.J. Hart,H,Utah,RMC,Ike Armstrong,L,0,20
-1927-11-19,Brigham Young,RMC,C.J. Hart,H,Colorado Mines,RMC,George Allen,W,38,19
+1927-10-08,BYU,RMC,C.J. Hart,A,Colorado State,RMC,Harry Hughes,L,0,29
+1927-10-22,BYU,RMC,C.J. Hart,H,Northern Colorado,RMC,George Cooper,L,7,21
+1927-10-29,BYU,RMC,C.J. Hart,A,Utah State,RMC,,L,0,22
+1927-11-05,BYU,RMC,C.J. Hart,H,Western State,RMC,John Van Liew,W,60,7
+1927-11-12,BYU,RMC,C.J. Hart,H,Utah,RMC,Ike Armstrong,L,0,20
+1927-11-19,BYU,RMC,C.J. Hart,H,Colorado Mines,RMC,George Allen,W,38,19
 1927-10-08,Yale,Ind,Tad Jones,H,Georgia,Southern,George Woodruff,L,10,14
 1927-10-15,Yale,Ind,Tad Jones,H,Brown,Ind,DeOrmond McLaughry,W,19,0
 1927-10-22,Yale,Ind,Tad Jones,H,Army,Ind,Biff Jones,W,10,6
@@ -522,7 +522,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1927-11-19,Colorado,RMC,Myron Witham,A,Colorado State,RMC,Harry Hughes,L,7,39
 1927-11-24,Colorado,RMC,Myron Witham,A,Denver,RMC,Fred Dawson,L,0,48
 1927-10-01,Colorado State,RMC,Harry Hughes,A,Northern Colorado,RMC,George Cooper,W,33,0
-1927-10-08,Colorado State,RMC,Harry Hughes,H,Brigham Young,RMC,C.J. Hart,W,29,0
+1927-10-08,Colorado State,RMC,Harry Hughes,H,BYU,RMC,C.J. Hart,W,29,0
 1927-10-15,Colorado State,RMC,Harry Hughes,A,Denver,RMC,Fred Dawson,L,0,6
 1927-10-29,Colorado State,RMC,Harry Hughes,H,Utah,RMC,Ike Armstrong,W,12,0
 1927-11-05,Colorado State,RMC,Harry Hughes,A,Utah State,RMC,,W,6,0

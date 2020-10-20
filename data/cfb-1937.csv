@@ -40,14 +40,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1937-11-13,Furman,Southern,,A,South Carolina,Southern,Don McCallister,W,12,0
 1937-11-25,Furman,Southern,,H,Clemson,Southern,Jess Neely,T,0,0
 1937-09-25,Utah,RMC,Ike Armstrong,A,Montana State,RMC,Jack Croft,W,19,7
-1937-10-02,Utah,RMC,Ike Armstrong,H,Brigham Young,RMC,Edwin Kimball,W,14,0
+1937-10-02,Utah,RMC,Ike Armstrong,H,BYU,RMC,Edwin Kimball,W,14,0
 1937-10-09,Utah,RMC,Ike Armstrong,H,Idaho,PCC,Ted Bank,L,7,9
 1937-10-16,Utah,RMC,Ike Armstrong,A,Northern Colorado,RMC,J.W. Hancock,W,7,6
 1937-10-23,Utah,RMC,Ike Armstrong,H,Denver,RMC,William Saunders,L,7,13
 1937-11-06,Utah,RMC,Ike Armstrong,H,Colorado,RMC,Bunny Oakes,L,7,17
 1937-11-13,Utah,RMC,Ike Armstrong,A,Colorado State,RMC,Harry Hughes,W,45,0
 1937-11-25,Utah,RMC,Ike Armstrong,H,Utah State,RMC,,W,27,0
-1937-09-25,Northern Colorado,RMC,J.W. Hancock,A,Brigham Young,RMC,Edwin Kimball,L,0,7
+1937-09-25,Northern Colorado,RMC,J.W. Hancock,A,BYU,RMC,Edwin Kimball,L,0,7
 1937-10-09,Northern Colorado,RMC,J.W. Hancock,H,Montana State,RMC,Jack Croft,W,33,26
 1937-10-16,Northern Colorado,RMC,J.W. Hancock,H,Utah,RMC,Ike Armstrong,L,6,7
 1937-10-23,Northern Colorado,RMC,J.W. Hancock,H,Western State,RMC,Paul Wright,L,0,7
@@ -186,7 +186,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1937-11-20,Washington State,PCC,O.E. Hollingbery,A,Oregon State,PCC,Lon Stiner,W,7,0
 1937-10-02,Western State,RMC,Paul Wright,A,Colorado College,RMC,W.T. VandeGraaff,W,7,3
 1937-10-23,Western State,RMC,Paul Wright,A,Northern Colorado,RMC,J.W. Hancock,W,7,0
-1937-10-30,Western State,RMC,Paul Wright,A,Brigham Young,RMC,Edwin Kimball,L,0,21
+1937-10-30,Western State,RMC,Paul Wright,A,BYU,RMC,Edwin Kimball,L,0,21
 1937-11-06,Western State,RMC,Paul Wright,H,Colorado Mines,RMC,John Mason,W,26,0
 1937-11-13,Western State,RMC,Paul Wright,A,New Mexico State,BIAA,Gerald Hines,L,6,33
 1937-10-09,Illinois,Western,Robert Zuppke,H,Notre Dame,Ind,Elmer Layden,T,0,0
@@ -337,7 +337,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1937-10-23,Utah State,RMC,,H,Wyoming,RMC,Dutch Witte,W,34,7
 1937-10-30,Utah State,RMC,,H,Colorado State,RMC,Harry Hughes,W,7,0
 1937-11-06,Utah State,RMC,,A,Denver,RMC,William Saunders,L,0,25
-1937-11-13,Utah State,RMC,,H,Brigham Young,RMC,Edwin Kimball,L,0,54
+1937-11-13,Utah State,RMC,,H,BYU,RMC,Edwin Kimball,L,0,54
 1937-11-25,Utah State,RMC,,A,Utah,RMC,Ike Armstrong,L,0,27
 1937-10-02,Missouri,Big 6,Don Faurot,A,Colorado,RMC,Bunny Oakes,L,6,14
 1937-10-09,Missouri,Big 6,Don Faurot,H,Kansas State,Big 6,Wesley Fry,W,14,7
@@ -353,7 +353,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1937-10-02,Montana State,RMC,Jack Croft,A,Utah State,RMC,,T,6,6
 1937-10-09,Montana State,RMC,Jack Croft,A,Northern Colorado,RMC,J.W. Hancock,L,26,33
 1937-10-23,Montana State,RMC,Jack Croft,N,Montana,PCC,Doug Fessenden,L,0,19
-1937-11-20,Montana State,RMC,Jack Croft,A,Brigham Young,RMC,Edwin Kimball,L,0,19
+1937-11-20,Montana State,RMC,Jack Croft,A,BYU,RMC,Edwin Kimball,L,0,19
 1937-09-25,Denver,RMC,William Saunders,A,Colorado Mines,RMC,John Mason,W,12,0
 1937-10-01,Denver,RMC,William Saunders,H,New Mexico,BIAA,Ted Shipkey,W,12,0
 1937-10-09,Denver,RMC,William Saunders,H,Colorado State,RMC,Harry Hughes,W,22,0
@@ -487,16 +487,16 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1937-10-09,Wyoming,RMC,Dutch Witte,A,Colorado College,RMC,W.T. VandeGraaff,L,6,9
 1937-10-16,Wyoming,RMC,Dutch Witte,A,Colorado State,RMC,Harry Hughes,W,7,0
 1937-10-23,Wyoming,RMC,Dutch Witte,A,Utah State,RMC,,L,7,34
-1937-11-06,Wyoming,RMC,Dutch Witte,H,Brigham Young,RMC,Edwin Kimball,L,0,19
+1937-11-06,Wyoming,RMC,Dutch Witte,H,BYU,RMC,Edwin Kimball,L,0,19
 1937-11-13,Wyoming,RMC,Dutch Witte,A,Denver,RMC,William Saunders,L,6,21
 1937-11-25,Wyoming,RMC,Dutch Witte,H,Northern Colorado,RMC,J.W. Hancock,W,33,0
-1937-09-25,Brigham Young,RMC,Edwin Kimball,H,Northern Colorado,RMC,J.W. Hancock,W,7,0
-1937-10-02,Brigham Young,RMC,Edwin Kimball,A,Utah,RMC,Ike Armstrong,L,0,14
-1937-10-16,Brigham Young,RMC,Edwin Kimball,A,Colorado,RMC,Bunny Oakes,L,0,14
-1937-10-30,Brigham Young,RMC,Edwin Kimball,H,Western State,RMC,Paul Wright,W,21,0
-1937-11-06,Brigham Young,RMC,Edwin Kimball,A,Wyoming,RMC,Dutch Witte,W,19,0
-1937-11-13,Brigham Young,RMC,Edwin Kimball,A,Utah State,RMC,,W,54,0
-1937-11-20,Brigham Young,RMC,Edwin Kimball,H,Montana State,RMC,Jack Croft,W,19,0
+1937-09-25,BYU,RMC,Edwin Kimball,H,Northern Colorado,RMC,J.W. Hancock,W,7,0
+1937-10-02,BYU,RMC,Edwin Kimball,A,Utah,RMC,Ike Armstrong,L,0,14
+1937-10-16,BYU,RMC,Edwin Kimball,A,Colorado,RMC,Bunny Oakes,L,0,14
+1937-10-30,BYU,RMC,Edwin Kimball,H,Western State,RMC,Paul Wright,W,21,0
+1937-11-06,BYU,RMC,Edwin Kimball,A,Wyoming,RMC,Dutch Witte,W,19,0
+1937-11-13,BYU,RMC,Edwin Kimball,A,Utah State,RMC,,W,54,0
+1937-11-20,BYU,RMC,Edwin Kimball,H,Montana State,RMC,Jack Croft,W,19,0
 1937-10-09,Duquesne,Ind,Clipper Smith,A,Pitt,Ind,Jock Sutherland,L,0,6
 1937-10-29,Duquesne,Ind,Clipper Smith,H,Richmond,Southern,Glenn Thistlethwaite,W,24,0
 1937-11-06,Duquesne,Ind,Clipper Smith,H,Carnegie Mellon,Ind,William Kern,L,0,6
@@ -777,7 +777,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1937-11-27,Oklahoma State,MVC,Ted Cox,H,Centenary (LA),Ind,Curtis Player,L,0,19
 1937-10-02,Colorado,RMC,Bunny Oakes,H,Missouri,Big 6,Don Faurot,W,14,6
 1937-10-09,Colorado,RMC,Bunny Oakes,H,Utah State,RMC,,W,33,0
-1937-10-16,Colorado,RMC,Bunny Oakes,H,Brigham Young,RMC,Edwin Kimball,W,14,0
+1937-10-16,Colorado,RMC,Bunny Oakes,H,BYU,RMC,Edwin Kimball,W,14,0
 1937-10-23,Colorado,RMC,Bunny Oakes,H,Colorado State,RMC,Harry Hughes,W,47,0
 1937-10-30,Colorado,RMC,Bunny Oakes,H,Colorado Mines,RMC,John Mason,W,54,0
 1937-11-06,Colorado,RMC,Bunny Oakes,A,Utah,RMC,Ike Armstrong,W,17,7

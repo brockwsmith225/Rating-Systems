@@ -37,7 +37,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-11-20,Indiana,Big Ten,Bill Lynch,N,Penn State,Big Ten,Joe Paterno,L,24,41,23,42,242,2,21,90,1,12,6,0,0,0,1
 2010-11-27,Indiana,Big Ten,Bill Lynch,A,Purdue,Big Ten,Danny Hope,W,34,31,31,52,330,3,30,73,1,17,5,5,30,2,0
 2010-09-11,Florida State,ACC,Jimbo Fisher,A,Oklahoma,Big 12,Bob Stoops,L,17,47,15,36,222,1,32,123,1,8,5,12,95,1,2
-2010-09-18,Florida State,ACC,Jimbo Fisher,H,Brigham Young,MWC,Bronco Mendenhall,W,34,10,14,21,149,1,44,278,3,7,11,8,65,1,0
+2010-09-18,Florida State,ACC,Jimbo Fisher,H,BYU,MWC,Bronco Mendenhall,W,34,10,14,21,149,1,44,278,3,7,11,8,65,1,0
 2010-09-25,Florida State,ACC,Jimbo Fisher,H,Wake Forest,ACC,Jim Grobe,W,31,0,26,39,284,3,39,201,1,13,14,8,85,2,0
 2010-10-02,Florida State,ACC,Jimbo Fisher,A,Virginia,ACC,Mike London,W,34,14,17,29,172,1,42,256,3,8,14,4,42,1,0
 2010-10-09,Florida State,ACC,Jimbo Fisher,A,Miami (FL),ACC,Jeff Stoutland,W,45,17,13,22,173,2,40,298,4,8,10,8,79,0,1
@@ -92,7 +92,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-11-06,Utah,MWC,Kyle Whittingham,H,Texas Christian,MWC,Gary Patterson,L,7,47,16,35,148,1,17,51,0,5,5,3,22,2,2
 2010-11-13,Utah,MWC,Kyle Whittingham,A,Notre Dame,Ind,Brian Kelly,L,3,28,24,40,194,0,29,71,0,10,5,11,70,1,1
 2010-11-20,Utah,MWC,Kyle Whittingham,A,San Diego State,MWC,Brady Hoke,W,38,34,21,34,362,2,35,138,3,15,6,8,75,0,0
-2010-11-27,Utah,MWC,Kyle Whittingham,H,Brigham Young,MWC,Bronco Mendenhall,W,17,16,15,37,207,1,28,89,1,8,5,3,40,0,3
+2010-11-27,Utah,MWC,Kyle Whittingham,H,BYU,MWC,Bronco Mendenhall,W,17,16,15,37,207,1,28,89,1,8,5,3,40,0,3
 2010-12-22,Utah,MWC,Kyle Whittingham,N,Boise State,WAC,Chris Petersen,L,3,26,10,24,93,0,29,107,0,3,4,10,83,3,0
 2010-09-04,Syracuse,Big East,Doug Marrone,A,Akron,MAC,Rob Ianello,W,29,3,17,27,229,2,45,202,1,10,8,5,43,2,1
 2010-09-11,Syracuse,Big East,Doug Marrone,A,Washington,Pac-10,Steve Sarkisian,L,20,41,19,37,224,1,31,112,1,10,5,10,80,1,1
@@ -408,7 +408,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-11-27,South Carolina,SEC,Steve Spurrier,A,Clemson,ACC,Dabo Swinney,W,29,7,14,30,227,2,36,95,0,7,5,6,60,0,0
 2010-12-04,South Carolina,SEC,Steve Spurrier,N,Auburn,SEC,Gene Chizik,L,17,56,20,33,193,2,30,156,0,9,9,4,31,0,2
 2010-12-31,South Carolina,SEC,Steve Spurrier,N,Florida State,ACC,Jimbo Fisher,L,17,26,21,36,275,1,32,139,1,11,9,5,58,2,3
-2010-09-04,Washington,Pac-10,Steve Sarkisian,A,Brigham Young,MWC,Bronco Mendenhall,L,17,23,20,39,266,1,31,128,1,12,6,5,66,0,0
+2010-09-04,Washington,Pac-10,Steve Sarkisian,A,BYU,MWC,Bronco Mendenhall,L,17,23,20,39,266,1,31,128,1,12,6,5,66,0,0
 2010-09-11,Washington,Pac-10,Steve Sarkisian,H,Syracuse,Big East,Doug Marrone,W,41,20,23,34,292,4,33,175,1,14,5,7,65,1,0
 2010-09-18,Washington,Pac-10,Steve Sarkisian,H,Nebraska,Big 12,Bo Pelini,L,21,56,4,20,71,1,39,175,2,2,10,2,15,0,2
 2010-10-02,Washington,Pac-10,Steve Sarkisian,A,USC,Pac-10,Lane Kiffin,W,32,31,25,41,311,2,34,225,1,16,11,5,36,1,0
@@ -446,7 +446,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-09-04,Utah State,WAC,Gary Andersen,A,Oklahoma,Big 12,Bob Stoops,L,24,31,17,37,341,2,38,80,1,12,6,6,48,1,3
 2010-09-18,Utah State,WAC,Gary Andersen,H,Fresno State,WAC,Pat Hill,L,24,41,11,23,106,1,45,205,2,7,10,2,19,0,0
 2010-09-25,Utah State,WAC,Gary Andersen,A,San Diego State,MWC,Brady Hoke,L,7,41,14,31,130,0,40,115,1,6,6,8,80,0,1
-2010-10-01,Utah State,WAC,Gary Andersen,H,Brigham Young,MWC,Bronco Mendenhall,W,31,16,10,13,192,1,59,242,3,7,10,12,105,1,0
+2010-10-01,Utah State,WAC,Gary Andersen,H,BYU,MWC,Bronco Mendenhall,W,31,16,10,13,192,1,59,242,3,7,10,12,105,1,0
 2010-10-09,Utah State,WAC,Gary Andersen,A,Louisiana Tech,WAC,Sonny Dykes,L,6,24,14,23,73,0,35,122,0,4,6,6,46,0,0
 2010-10-23,Utah State,WAC,Gary Andersen,H,Hawaii,WAC,Greg McMackin,L,7,45,10,26,123,0,35,58,1,7,4,6,59,1,2
 2010-10-30,Utah State,WAC,Gary Andersen,A,Nevada,WAC,Chris Ault,L,42,56,24,39,399,2,37,91,3,17,7,7,69,1,0
@@ -503,7 +503,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2011-01-01,Wisconsin,Big Ten,Bret Bielema,N,Texas Christian,MWC,Gary Patterson,L,19,21,12,21,159,0,46,226,2,9,11,6,41,0,0
 2010-09-11,Nevada,WAC,Chris Ault,H,Colorado State,MWC,Steve Fairchild,W,51,6,23,33,255,2,46,376,4,13,20,4,30,0,0
 2010-09-17,Nevada,WAC,Chris Ault,H,California,Pac-10,Jeff Tedford,W,52,31,10,15,181,2,49,316,4,10,15,5,45,1,0
-2010-09-25,Nevada,WAC,Chris Ault,A,Brigham Young,MWC,Bronco Mendenhall,W,27,13,16,26,196,1,53,239,2,7,16,6,65,1,1
+2010-09-25,Nevada,WAC,Chris Ault,A,BYU,MWC,Bronco Mendenhall,W,27,13,16,26,196,1,53,239,2,7,16,6,65,1,1
 2010-10-02,Nevada,WAC,Chris Ault,A,Nevada-Las Vegas,MWC,Bobby Hauck,W,44,26,14,19,142,1,50,374,5,8,21,5,61,2,1
 2010-10-09,Nevada,WAC,Chris Ault,H,San Jose State,WAC,Mike MacIntyre,W,35,13,20,28,273,0,41,367,5,13,17,8,89,0,2
 2010-10-16,Nevada,WAC,Chris Ault,A,Hawaii,WAC,Greg McMackin,L,21,27,14,26,159,2,43,134,1,10,6,3,22,2,2
@@ -542,7 +542,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-09-11,San Diego State,MWC,Brady Hoke,A,New Mexico State,WAC,DeWayne Walker,W,41,21,20,43,319,1,40,244,4,13,8,10,106,0,0
 2010-09-18,San Diego State,MWC,Brady Hoke,A,Missouri,Big 12,Gary Pinkel,L,24,27,20,44,190,0,33,250,3,10,5,10,56,0,1
 2010-09-25,San Diego State,MWC,Brady Hoke,H,Utah State,WAC,Gary Andersen,W,41,7,17,24,362,3,38,142,2,9,9,7,70,1,1
-2010-10-09,San Diego State,MWC,Brady Hoke,A,Brigham Young,MWC,Bronco Mendenhall,L,21,24,20,36,220,3,12,53,0,9,3,4,37,0,1
+2010-10-09,San Diego State,MWC,Brady Hoke,A,BYU,MWC,Bronco Mendenhall,L,21,24,20,36,220,3,12,53,0,9,3,4,37,0,1
 2010-10-16,San Diego State,MWC,Brady Hoke,H,Air Force,MWC,Troy Calhoun,W,27,25,14,27,247,1,31,205,2,8,8,5,50,0,1
 2010-10-23,San Diego State,MWC,Brady Hoke,A,New Mexico,MWC,Mike Locksley,W,30,20,18,37,249,2,41,135,1,12,8,5,66,1,1
 2010-10-30,San Diego State,MWC,Brady Hoke,A,Wyoming,MWC,Dave Christensen,W,48,38,16,32,365,3,37,76,3,15,2,5,40,1,2
@@ -644,7 +644,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-10-30,New Mexico,MWC,Mike Locksley,A,Colorado State,MWC,Steve Fairchild,L,14,38,12,22,141,1,34,96,1,5,6,4,30,0,0
 2010-11-06,New Mexico,MWC,Mike Locksley,H,Wyoming,MWC,Dave Christensen,W,34,31,16,20,211,2,58,219,2,7,15,3,25,0,0
 2010-11-13,New Mexico,MWC,Mike Locksley,A,Air Force,MWC,Troy Calhoun,L,23,48,15,25,99,1,39,159,2,7,8,6,45,2,0
-2010-11-20,New Mexico,MWC,Mike Locksley,A,Brigham Young,MWC,Bronco Mendenhall,L,7,40,15,30,159,1,31,100,0,5,8,5,25,1,3
+2010-11-20,New Mexico,MWC,Mike Locksley,A,BYU,MWC,Bronco Mendenhall,L,7,40,15,30,159,1,31,100,0,5,8,5,25,1,3
 2010-11-27,New Mexico,MWC,Mike Locksley,H,Texas Christian,MWC,Gary Patterson,L,17,66,9,21,34,0,40,96,2,0,7,4,49,2,1
 2010-09-04,Notre Dame,Ind,Brian Kelly,H,Purdue,Big Ten,Danny Hope,W,23,12,19,26,205,1,36,153,1,10,10,2,15,1,0
 2010-09-11,Notre Dame,Ind,Brian Kelly,H,Michigan,Big Ten,Rich Rodriguez,L,24,28,21,44,381,2,32,154,1,12,8,4,29,0,3
@@ -764,24 +764,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-10-02,Wyoming,MWC,Dave Christensen,A,Toledo,MAC,Tim Beckman,W,20,15,13,24,173,1,44,93,1,4,7,4,45,1,1
 2010-10-09,Wyoming,MWC,Dave Christensen,A,Texas Christian,MWC,Gary Patterson,L,0,45,11,17,116,0,28,75,0,5,2,5,30,0,1
 2010-10-16,Wyoming,MWC,Dave Christensen,H,Utah,MWC,Kyle Whittingham,L,6,30,10,17,116,1,38,67,0,4,5,2,20,0,0
-2010-10-23,Wyoming,MWC,Dave Christensen,A,Brigham Young,MWC,Bronco Mendenhall,L,20,25,13,29,110,1,27,63,0,7,4,7,65,1,0
+2010-10-23,Wyoming,MWC,Dave Christensen,A,BYU,MWC,Bronco Mendenhall,L,20,25,13,29,110,1,27,63,0,7,4,7,65,1,0
 2010-10-30,Wyoming,MWC,Dave Christensen,H,San Diego State,MWC,Brady Hoke,L,38,48,20,40,186,3,34,152,2,12,7,10,72,0,1
 2010-11-06,Wyoming,MWC,Dave Christensen,A,New Mexico,MWC,Mike Locksley,L,31,34,6,12,144,1,45,392,3,6,13,3,35,3,1
 2010-11-13,Wyoming,MWC,Dave Christensen,A,Nevada-Las Vegas,MWC,Bobby Hauck,L,16,42,14,23,140,1,30,133,1,3,8,9,64,1,1
 2010-11-20,Wyoming,MWC,Dave Christensen,H,Colorado State,MWC,Steve Fairchild,W,44,0,23,32,267,0,39,212,6,11,10,7,77,0,0
-2010-09-04,Brigham Young,MWC,Bronco Mendenhall,H,Washington,Pac-10,Steve Sarkisian,W,23,17,24,40,262,2,33,146,0,9,11,6,60,0,0
-2010-09-11,Brigham Young,MWC,Bronco Mendenhall,A,Air Force,MWC,Troy Calhoun,L,14,35,10,25,88,0,34,221,2,5,6,7,45,2,1
-2010-09-18,Brigham Young,MWC,Bronco Mendenhall,A,Florida State,ACC,Jimbo Fisher,L,10,34,16,35,115,1,35,76,0,8,7,5,45,1,1
-2010-09-25,Brigham Young,MWC,Bronco Mendenhall,H,Nevada,WAC,Chris Ault,L,13,27,24,45,229,0,25,91,1,16,3,1,5,0,0
-2010-10-01,Brigham Young,MWC,Bronco Mendenhall,A,Utah State,WAC,Gary Andersen,L,16,31,27,54,270,0,25,65,2,15,3,6,45,0,2
-2010-10-09,Brigham Young,MWC,Bronco Mendenhall,H,San Diego State,MWC,Brady Hoke,W,24,21,16,23,142,0,62,271,3,7,15,5,25,1,1
-2010-10-16,Brigham Young,MWC,Bronco Mendenhall,A,Texas Christian,MWC,Gary Patterson,L,3,31,14,30,91,0,27,56,0,5,4,4,20,0,2
-2010-10-23,Brigham Young,MWC,Bronco Mendenhall,H,Wyoming,MWC,Dave Christensen,W,25,20,10,18,81,1,51,217,2,4,13,8,70,1,1
-2010-11-06,Brigham Young,MWC,Bronco Mendenhall,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,55,7,20,32,300,2,51,216,5,15,12,4,30,0,0
-2010-11-13,Brigham Young,MWC,Bronco Mendenhall,A,Colorado State,MWC,Steve Fairchild,W,49,10,15,20,242,4,44,284,2,10,14,2,23,2,0
-2010-11-20,Brigham Young,MWC,Bronco Mendenhall,H,New Mexico,MWC,Mike Locksley,W,40,7,19,33,236,2,44,258,3,12,17,14,141,0,0
-2010-11-27,Brigham Young,MWC,Bronco Mendenhall,A,Utah,MWC,Kyle Whittingham,L,16,17,22,37,228,1,37,65,0,12,5,2,20,3,1
-2010-12-18,Brigham Young,MWC,Bronco Mendenhall,N,UTEP,CUSA,Mike Price,W,52,24,26,36,295,4,50,219,3,18,8,6,54,0,2
+2010-09-04,BYU,MWC,Bronco Mendenhall,H,Washington,Pac-10,Steve Sarkisian,W,23,17,24,40,262,2,33,146,0,9,11,6,60,0,0
+2010-09-11,BYU,MWC,Bronco Mendenhall,A,Air Force,MWC,Troy Calhoun,L,14,35,10,25,88,0,34,221,2,5,6,7,45,2,1
+2010-09-18,BYU,MWC,Bronco Mendenhall,A,Florida State,ACC,Jimbo Fisher,L,10,34,16,35,115,1,35,76,0,8,7,5,45,1,1
+2010-09-25,BYU,MWC,Bronco Mendenhall,H,Nevada,WAC,Chris Ault,L,13,27,24,45,229,0,25,91,1,16,3,1,5,0,0
+2010-10-01,BYU,MWC,Bronco Mendenhall,A,Utah State,WAC,Gary Andersen,L,16,31,27,54,270,0,25,65,2,15,3,6,45,0,2
+2010-10-09,BYU,MWC,Bronco Mendenhall,H,San Diego State,MWC,Brady Hoke,W,24,21,16,23,142,0,62,271,3,7,15,5,25,1,1
+2010-10-16,BYU,MWC,Bronco Mendenhall,A,Texas Christian,MWC,Gary Patterson,L,3,31,14,30,91,0,27,56,0,5,4,4,20,0,2
+2010-10-23,BYU,MWC,Bronco Mendenhall,H,Wyoming,MWC,Dave Christensen,W,25,20,10,18,81,1,51,217,2,4,13,8,70,1,1
+2010-11-06,BYU,MWC,Bronco Mendenhall,H,Nevada-Las Vegas,MWC,Bobby Hauck,W,55,7,20,32,300,2,51,216,5,15,12,4,30,0,0
+2010-11-13,BYU,MWC,Bronco Mendenhall,A,Colorado State,MWC,Steve Fairchild,W,49,10,15,20,242,4,44,284,2,10,14,2,23,2,0
+2010-11-20,BYU,MWC,Bronco Mendenhall,H,New Mexico,MWC,Mike Locksley,W,40,7,19,33,236,2,44,258,3,12,17,14,141,0,0
+2010-11-27,BYU,MWC,Bronco Mendenhall,A,Utah,MWC,Kyle Whittingham,L,16,17,22,37,228,1,37,65,0,12,5,2,20,3,1
+2010-12-18,BYU,MWC,Bronco Mendenhall,N,UTEP,CUSA,Mike Price,W,52,24,26,36,295,4,50,219,3,18,8,6,54,0,2
 2010-09-02,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,UAB,CUSA,Neil Callaway,W,32,31,15,25,257,3,27,90,1,7,5,3,15,0,1
 2010-09-11,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Michigan State,Big Ten,Mark Dantonio,L,17,30,24,37,256,1,34,45,1,10,7,11,85,1,0
 2010-09-25,Florida Atlantic,Sun Belt,Howard Schnellenberger,H,North Texas,Sun Belt,Mike Canales,L,17,21,20,31,273,1,24,84,1,13,4,8,40,1,1
@@ -849,7 +849,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-10-09,Nevada-Las Vegas,MWC,Bobby Hauck,A,West Virginia,Big East,Bill Stewart,L,10,49,20,32,180,1,40,96,0,7,5,4,43,0,2
 2010-10-16,Nevada-Las Vegas,MWC,Bobby Hauck,A,Colorado State,MWC,Steve Fairchild,L,10,43,16,24,125,0,45,149,1,6,11,6,72,2,0
 2010-10-30,Nevada-Las Vegas,MWC,Bobby Hauck,H,Texas Christian,MWC,Gary Patterson,L,6,48,15,32,128,1,24,69,0,5,5,9,88,0,2
-2010-11-06,Nevada-Las Vegas,MWC,Bobby Hauck,A,Brigham Young,MWC,Bronco Mendenhall,L,7,55,11,29,122,1,28,22,0,6,4,6,70,0,2
+2010-11-06,Nevada-Las Vegas,MWC,Bobby Hauck,A,BYU,MWC,Bronco Mendenhall,L,7,55,11,29,122,1,28,22,0,6,4,6,70,0,2
 2010-11-13,Nevada-Las Vegas,MWC,Bobby Hauck,H,Wyoming,MWC,Dave Christensen,W,42,16,14,19,179,3,44,197,3,8,12,8,89,1,0
 2010-11-18,Nevada-Las Vegas,MWC,Bobby Hauck,H,Air Force,MWC,Troy Calhoun,L,20,35,18,31,224,1,36,113,1,12,5,3,33,0,1
 2010-11-27,Nevada-Las Vegas,MWC,Bobby Hauck,A,San Diego State,MWC,Brady Hoke,L,14,48,14,30,167,1,28,67,0,9,5,3,31,0,0
@@ -1006,7 +1006,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-11-06,UTEP,CUSA,Mike Price,H,SMU,CUSA,June Jones,W,28,14,18,29,201,3,34,118,1,13,5,5,52,0,0
 2010-11-13,UTEP,CUSA,Mike Price,A,Arkansas,SEC,Bobby Petrino,L,21,58,18,28,238,1,25,117,1,10,5,7,73,1,2
 2010-11-20,UTEP,CUSA,Mike Price,A,Tulsa,CUSA,Todd Graham,L,28,31,9,23,140,0,40,223,3,6,11,3,30,0,1
-2010-12-18,UTEP,CUSA,Mike Price,N,Brigham Young,MWC,Bronco Mendenhall,L,24,52,14,33,245,3,22,-12,0,9,2,7,52,0,3
+2010-12-18,UTEP,CUSA,Mike Price,N,BYU,MWC,Bronco Mendenhall,L,24,52,14,33,245,3,22,-12,0,9,2,7,52,0,3
 2010-09-04,LSU,SEC,Les Miles,N,North Carolina,ACC,Butch Davis,W,30,24,15,21,151,2,36,162,1,6,5,8,65,4,1
 2010-09-11,LSU,SEC,Les Miles,A,Vanderbilt,SEC,Robbie Caldwell,W,27,3,9,21,112,0,50,280,3,7,14,3,15,0,1
 2010-09-18,LSU,SEC,Les Miles,H,Mississippi State,SEC,Dan Mullen,W,29,7,10,16,97,0,39,167,2,5,10,5,35,1,0
@@ -1060,14 +1060,14 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-09-24,Texas Christian,MWC,Gary Patterson,A,SMU,CUSA,June Jones,W,41,24,15,27,185,1,46,190,4,10,10,3,35,0,2
 2010-10-02,Texas Christian,MWC,Gary Patterson,A,Colorado State,MWC,Steve Fairchild,W,27,0,12,25,128,1,49,346,2,4,20,4,30,0,0
 2010-10-09,Texas Christian,MWC,Gary Patterson,H,Wyoming,MWC,Dave Christensen,W,45,0,15,18,281,3,46,305,3,11,16,11,84,0,0
-2010-10-16,Texas Christian,MWC,Gary Patterson,H,Brigham Young,MWC,Bronco Mendenhall,W,31,3,24,36,273,4,38,108,0,16,7,4,20,0,0
+2010-10-16,Texas Christian,MWC,Gary Patterson,H,BYU,MWC,Bronco Mendenhall,W,31,3,24,36,273,4,38,108,0,16,7,4,20,0,0
 2010-10-23,Texas Christian,MWC,Gary Patterson,H,Air Force,MWC,Troy Calhoun,W,38,7,11,20,185,1,51,377,4,8,22,3,25,0,1
 2010-10-30,Texas Christian,MWC,Gary Patterson,A,Nevada-Las Vegas,MWC,Bobby Hauck,W,48,6,17,25,257,2,52,273,4,13,16,3,35,2,0
 2010-11-06,Texas Christian,MWC,Gary Patterson,A,Utah,MWC,Kyle Whittingham,W,47,7,22,27,381,4,45,177,2,14,9,3,30,1,0
 2010-11-13,Texas Christian,MWC,Gary Patterson,H,San Diego State,MWC,Brady Hoke,W,40,35,21,36,240,4,54,226,1,12,13,6,45,1,1
 2010-11-27,Texas Christian,MWC,Gary Patterson,A,New Mexico,MWC,Mike Locksley,W,66,17,13,23,210,4,50,293,5,7,14,10,73,2,0
 2011-01-01,Texas Christian,MWC,Gary Patterson,N,Wisconsin,Big Ten,Bret Bielema,W,21,19,15,23,219,1,26,82,2,10,6,4,20,0,0
-2010-09-11,Air Force,MWC,Troy Calhoun,H,Brigham Young,MWC,Bronco Mendenhall,W,35,14,5,13,68,1,65,409,4,3,18,10,125,0,1
+2010-09-11,Air Force,MWC,Troy Calhoun,H,BYU,MWC,Bronco Mendenhall,W,35,14,5,13,68,1,65,409,4,3,18,10,125,0,1
 2010-09-18,Air Force,MWC,Troy Calhoun,A,Oklahoma,Big 12,Bob Stoops,L,24,27,8,14,107,0,63,351,3,5,20,4,35,1,0
 2010-09-25,Air Force,MWC,Troy Calhoun,A,Wyoming,MWC,Dave Christensen,W,20,14,5,13,66,0,71,379,3,3,23,7,54,0,1
 2010-10-02,Air Force,MWC,Troy Calhoun,H,Navy,Ind,Ken Niumatalolo,W,14,6,5,7,83,0,53,292,2,4,9,5,52,2,0
@@ -1210,7 +1210,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2010-10-23,Colorado State,MWC,Steve Fairchild,A,Utah,MWC,Kyle Whittingham,L,6,59,19,28,185,0,24,28,0,10,2,6,47,1,1
 2010-10-30,Colorado State,MWC,Steve Fairchild,H,New Mexico,MWC,Mike Locksley,W,38,14,17,26,256,1,50,328,4,14,15,2,15,0,0
 2010-11-06,Colorado State,MWC,Steve Fairchild,A,San Diego State,MWC,Brady Hoke,L,19,24,22,41,266,1,34,27,0,13,5,4,35,0,1
-2010-11-13,Colorado State,MWC,Steve Fairchild,H,Brigham Young,MWC,Bronco Mendenhall,L,10,49,28,42,292,1,24,83,0,13,6,5,60,2,2
+2010-11-13,Colorado State,MWC,Steve Fairchild,H,BYU,MWC,Bronco Mendenhall,L,10,49,28,42,292,1,24,83,0,13,6,5,60,2,2
 2010-11-20,Colorado State,MWC,Steve Fairchild,A,Wyoming,MWC,Dave Christensen,L,0,44,16,33,97,0,33,65,0,5,6,5,55,1,1
 2010-09-04,Rice,CUSA,David Bailiff,H,Texas,Big 12,Mack Brown,L,17,34,12,18,131,1,42,88,1,5,8,4,40,1,1
 2010-09-11,Rice,CUSA,David Bailiff,A,North Texas,Sun Belt,Mike Canales,W,32,31,15,33,245,2,39,106,1,9,3,6,54,1,1

@@ -46,7 +46,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-09-22,Iowa State,Big 8,Earle Bruce,H,Idaho,Ind,Don Robbins,W,48,0
 1973-09-29,Iowa State,Big 8,Earle Bruce,A,Arkansas,SWC,Frank Broyles,L,19,21
 1973-10-06,Iowa State,Big 8,Earle Bruce,H,Colorado,Big 8,Eddie Crowder,L,16,23
-1973-10-13,Iowa State,Big 8,Earle Bruce,A,Brigham Young,WAC,LaVell Edwards,W,26,24
+1973-10-13,Iowa State,Big 8,Earle Bruce,A,BYU,WAC,LaVell Edwards,W,26,24
 1973-10-20,Iowa State,Big 8,Earle Bruce,A,Kansas State,Big 8,Vince Gibson,L,19,21
 1973-10-27,Iowa State,Big 8,Earle Bruce,H,Kansas,Big 8,Don Fambrough,L,20,22
 1973-11-03,Iowa State,Big 8,Earle Bruce,A,Oklahoma,Big 8,Barry Switzer,L,17,34
@@ -70,7 +70,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-09-29,Arizona State,WAC,Frank Kush,H,Colorado State,WAC,Sarkis Arslanian,W,67,14
 1973-10-06,Arizona State,WAC,Frank Kush,A,New Mexico,WAC,Rudy Feldman,W,67,24
 1973-10-13,Arizona State,WAC,Frank Kush,H,San Jose State,PCAA,Darryl Rogers,W,28,3
-1973-10-20,Arizona State,WAC,Frank Kush,H,Brigham Young,WAC,LaVell Edwards,W,52,12
+1973-10-20,Arizona State,WAC,Frank Kush,H,BYU,WAC,LaVell Edwards,W,52,12
 1973-10-27,Arizona State,WAC,Frank Kush,A,Oregon State,Pac-8,Dee Andros,W,44,14
 1973-11-03,Arizona State,WAC,Frank Kush,A,Utah,WAC,Bill Meek,L,31,36
 1973-11-10,Arizona State,WAC,Frank Kush,H,Wyoming,WAC,Fritz Shurmur,W,47,0
@@ -94,7 +94,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-11-03,Utah,WAC,Bill Meek,H,Arizona State,WAC,Frank Kush,W,36,31
 1973-11-10,Utah,WAC,Bill Meek,A,New Mexico,WAC,Rudy Feldman,W,36,35
 1973-11-17,Utah,WAC,Bill Meek,H,Utah State,Ind,Phil Krueger,W,31,28
-1973-11-24,Utah,WAC,Bill Meek,H,Brigham Young,WAC,LaVell Edwards,L,22,46
+1973-11-24,Utah,WAC,Bill Meek,H,BYU,WAC,LaVell Edwards,L,22,46
 1973-09-15,Wichita State,MVC,Bob Seaman,A,Texas A&M,SWC,Emory Bellard,L,0,48
 1973-09-29,Wichita State,MVC,Bob Seaman,A,New Mexico State,MVC,Jim Bradley,L,18,44
 1973-10-06,Wichita State,MVC,Bob Seaman,A,Louisville,MVC,Tom Alley,L,10,24
@@ -132,7 +132,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-10-20,Arizona,WAC,Jim Young,H,Texas Tech,SWC,Jim Carlen,L,17,31
 1973-10-27,Arizona,WAC,Jim Young,H,Utah,WAC,Bill Meek,W,42,21
 1973-11-03,Arizona,WAC,Jim Young,A,UTEP,WAC,Tommy Hudspeth,W,35,18
-1973-11-10,Arizona,WAC,Jim Young,A,Brigham Young,WAC,LaVell Edwards,W,24,10
+1973-11-10,Arizona,WAC,Jim Young,A,BYU,WAC,LaVell Edwards,W,24,10
 1973-11-17,Arizona,WAC,Jim Young,H,Air Force,Ind,Ben Martin,L,26,27
 1973-11-25,Arizona,WAC,Jim Young,A,Arizona State,WAC,Frank Kush,L,19,55
 1973-09-15,Penn State,Ind,Joe Paterno,A,Stanford,Pac-8,Jack Christiansen,W,20,6
@@ -413,7 +413,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-11-10,Long Beach State,PCAA,Jim Strangeland,A,San Diego State,PCAA,Claude Gilbert,L,2,17
 1973-11-17,Long Beach State,PCAA,Jim Strangeland,A,Wichita State,MVC,Bob Seaman,W,35,10
 1973-09-22,Utah State,Ind,Phil Krueger,H,San Diego State,PCAA,Claude Gilbert,L,7,35
-1973-10-06,Utah State,Ind,Phil Krueger,H,Brigham Young,WAC,LaVell Edwards,W,13,7
+1973-10-06,Utah State,Ind,Phil Krueger,H,BYU,WAC,LaVell Edwards,W,13,7
 1973-10-13,Utah State,Ind,Phil Krueger,A,Colorado State,WAC,Sarkis Arslanian,W,34,18
 1973-10-20,Utah State,Ind,Phil Krueger,A,West Texas A&M,MVC,Gene Mayfield,W,36,14
 1973-10-27,Utah State,Ind,Phil Krueger,H,Kent State,MAC,Don James,L,16,27
@@ -527,7 +527,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-10-13,New Mexico,WAC,Rudy Feldman,A,Arizona,WAC,Jim Young,L,14,22
 1973-10-20,New Mexico,WAC,Rudy Feldman,H,UTEP,WAC,Tommy Hudspeth,W,49,0
 1973-10-27,New Mexico,WAC,Rudy Feldman,A,San Jose State,PCAA,Darryl Rogers,L,0,15
-1973-11-03,New Mexico,WAC,Rudy Feldman,A,Brigham Young,WAC,LaVell Edwards,L,21,56
+1973-11-03,New Mexico,WAC,Rudy Feldman,A,BYU,WAC,LaVell Edwards,L,21,56
 1973-11-10,New Mexico,WAC,Rudy Feldman,H,Utah,WAC,Bill Meek,L,35,36
 1973-11-17,New Mexico,WAC,Rudy Feldman,H,Wyoming,WAC,Fritz Shurmur,W,23,21
 1973-11-24,New Mexico,WAC,Rudy Feldman,A,Colorado State,WAC,Sarkis Arslanian,W,30,13
@@ -615,21 +615,21 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-10-06,Wyoming,WAC,Fritz Shurmur,A,Wisconsin,Big Ten,John Jardine,L,28,37
 1973-10-13,Wyoming,WAC,Fritz Shurmur,A,Utah,WAC,Bill Meek,L,16,50
 1973-10-20,Wyoming,WAC,Fritz Shurmur,H,Colorado State,WAC,Sarkis Arslanian,W,35,3
-1973-10-27,Wyoming,WAC,Fritz Shurmur,H,Brigham Young,WAC,LaVell Edwards,W,41,21
+1973-10-27,Wyoming,WAC,Fritz Shurmur,H,BYU,WAC,LaVell Edwards,W,41,21
 1973-11-03,Wyoming,WAC,Fritz Shurmur,A,Utah State,Ind,Phil Krueger,L,20,31
 1973-11-10,Wyoming,WAC,Fritz Shurmur,A,Arizona State,WAC,Frank Kush,L,0,47
 1973-11-17,Wyoming,WAC,Fritz Shurmur,A,New Mexico,WAC,Rudy Feldman,L,21,23
 1973-11-24,Wyoming,WAC,Fritz Shurmur,A,Houston,Ind,Bill Yeoman,L,0,35
-1973-09-15,Brigham Young,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,L,13,21
-1973-09-29,Brigham Young,WAC,LaVell Edwards,H,Oregon State,Pac-8,Dee Andros,W,37,14
-1973-10-06,Brigham Young,WAC,LaVell Edwards,A,Utah State,Ind,Phil Krueger,L,7,13
-1973-10-13,Brigham Young,WAC,LaVell Edwards,H,Iowa State,Big 8,Earle Bruce,L,24,26
-1973-10-20,Brigham Young,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,12,52
-1973-10-27,Brigham Young,WAC,LaVell Edwards,A,Wyoming,WAC,Fritz Shurmur,L,21,41
-1973-11-03,Brigham Young,WAC,LaVell Edwards,H,New Mexico,WAC,Rudy Feldman,W,56,21
-1973-11-10,Brigham Young,WAC,LaVell Edwards,H,Arizona,WAC,Jim Young,L,10,24
-1973-11-24,Brigham Young,WAC,LaVell Edwards,A,Utah,WAC,Bill Meek,W,46,22
-1973-12-01,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Tommy Hudspeth,W,63,0
+1973-09-15,BYU,WAC,LaVell Edwards,H,Colorado State,WAC,Sarkis Arslanian,L,13,21
+1973-09-29,BYU,WAC,LaVell Edwards,H,Oregon State,Pac-8,Dee Andros,W,37,14
+1973-10-06,BYU,WAC,LaVell Edwards,A,Utah State,Ind,Phil Krueger,L,7,13
+1973-10-13,BYU,WAC,LaVell Edwards,H,Iowa State,Big 8,Earle Bruce,L,24,26
+1973-10-20,BYU,WAC,LaVell Edwards,A,Arizona State,WAC,Frank Kush,L,12,52
+1973-10-27,BYU,WAC,LaVell Edwards,A,Wyoming,WAC,Fritz Shurmur,L,21,41
+1973-11-03,BYU,WAC,LaVell Edwards,H,New Mexico,WAC,Rudy Feldman,W,56,21
+1973-11-10,BYU,WAC,LaVell Edwards,H,Arizona,WAC,Jim Young,L,10,24
+1973-11-24,BYU,WAC,LaVell Edwards,A,Utah,WAC,Bill Meek,W,46,22
+1973-12-01,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Tommy Hudspeth,W,63,0
 1973-10-06,Yale,Ivy,Carmen Cozza,H,Colgate,Ind,Neil Wheelwright,W,24,18
 1973-10-13,Yale,Ivy,Carmen Cozza,A,Brown,Ivy,John Anderson,L,25,34
 1973-10-20,Yale,Ivy,Carmen Cozza,A,Columbia,Ivy,Frank Navarro,W,29,0
@@ -822,7 +822,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-10-27,UTEP,WAC,Tommy Hudspeth,H,Colorado State,WAC,Sarkis Arslanian,L,24,76
 1973-11-03,UTEP,WAC,Tommy Hudspeth,H,Arizona,WAC,Jim Young,L,18,35
 1973-11-17,UTEP,WAC,Tommy Hudspeth,H,Arizona State,WAC,Frank Kush,L,13,54
-1973-12-01,UTEP,WAC,Tommy Hudspeth,H,Brigham Young,WAC,LaVell Edwards,L,0,63
+1973-12-01,UTEP,WAC,Tommy Hudspeth,H,BYU,WAC,LaVell Edwards,L,0,63
 1973-09-15,LSU,SEC,Charles McClendon,H,Colorado,Big 8,Eddie Crowder,W,17,6
 1973-09-22,LSU,SEC,Charles McClendon,H,Texas A&M,SWC,Emory Bellard,W,28,23
 1973-09-29,LSU,SEC,Charles McClendon,H,Rice,SWC,Al Conover,W,24,9
@@ -977,7 +977,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-11-24,Texas-Arlington,Ind,John Symank,H,Lamar,Ind,,L,3,10
 1973-09-15,Oregon State,Pac-8,Dee Andros,A,Auburn,SEC,Ralph Jordan,L,9,18
 1973-09-22,Oregon State,Pac-8,Dee Andros,H,SMU,SWC,Dave Smith,L,16,35
-1973-09-29,Oregon State,Pac-8,Dee Andros,A,Brigham Young,WAC,LaVell Edwards,L,14,37
+1973-09-29,Oregon State,Pac-8,Dee Andros,A,BYU,WAC,LaVell Edwards,L,14,37
 1973-10-06,Oregon State,Pac-8,Dee Andros,H,USC,Pac-8,John McKay,L,7,21
 1973-10-13,Oregon State,Pac-8,Dee Andros,A,Washington,Pac-8,Jim Owens,W,31,7
 1973-10-20,Oregon State,Pac-8,Dee Andros,A,California,Pac-8,Mike White,L,14,24
@@ -1070,7 +1070,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1973-11-17,Colorado,Big 8,Eddie Crowder,H,Oklahoma State,Big 8,Jim Stanley,L,24,38
 1973-11-24,Colorado,Big 8,Eddie Crowder,H,Kansas State,Big 8,Vince Gibson,L,14,17
 1973-09-08,Colorado State,WAC,Sarkis Arslanian,H,Arizona,WAC,Jim Young,L,0,31
-1973-09-15,Colorado State,WAC,Sarkis Arslanian,A,Brigham Young,WAC,LaVell Edwards,W,21,13
+1973-09-15,Colorado State,WAC,Sarkis Arslanian,A,BYU,WAC,LaVell Edwards,W,21,13
 1973-09-22,Colorado State,WAC,Sarkis Arslanian,H,New Mexico State,MVC,Jim Bradley,W,31,27
 1973-09-29,Colorado State,WAC,Sarkis Arslanian,A,Arizona State,WAC,Frank Kush,L,14,67
 1973-10-06,Colorado State,WAC,Sarkis Arslanian,A,Idaho,Ind,Don Robbins,W,33,30

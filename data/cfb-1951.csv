@@ -51,7 +51,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1951-11-17,Furman,Southern,William Young,H,Clemson,Southern,Frank Howard,L,14,34
 1951-09-22,Utah,Skyline,Jack Curtice,A,Arizona,BIAA,Robert Winslow,W,27,7
 1951-09-29,Utah,Skyline,Jack Curtice,A,Oregon State,PCC,Kip Taylor,L,28,61
-1951-10-06,Utah,Skyline,Jack Curtice,H,Brigham Young,Skyline,Charles Atkinson,W,7,6
+1951-10-06,Utah,Skyline,Jack Curtice,H,BYU,Skyline,Charles Atkinson,W,7,6
 1951-10-13,Utah,Skyline,Jack Curtice,A,Kansas,Big 7,Jules Sikes,L,7,26
 1951-10-20,Utah,Skyline,Jack Curtice,H,Denver,Skyline,John Baker,W,17,14
 1951-10-27,Utah,Skyline,Jack Curtice,H,Wyoming,Skyline,Bowden Wyatt,L,0,13
@@ -354,7 +354,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1951-10-20,Utah State,Skyline,John Roning,A,Colorado State,Skyline,Robert Davis,T,20,20
 1951-10-27,Utah State,Skyline,John Roning,H,Montana,Skyline,Ted Shipkey,W,19,6
 1951-11-03,Utah State,Skyline,John Roning,H,Utah,Skyline,Jack Curtice,L,20,28
-1951-11-10,Utah State,Skyline,John Roning,A,Brigham Young,Skyline,Charles Atkinson,L,27,28
+1951-11-10,Utah State,Skyline,John Roning,A,BYU,Skyline,Charles Atkinson,L,27,28
 1951-11-17,Utah State,Skyline,John Roning,A,Denver,Skyline,John Baker,W,14,7
 1951-12-01,Utah State,Skyline,John Roning,A,New Mexico,Skyline,Dudley DeGroot,L,13,17
 1951-09-22,Missouri,Big 7,Don Faurot,H,Fordham,Ind,Edward Danowski,L,20,34
@@ -389,7 +389,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1951-10-06,Denver,Skyline,John Baker,A,Montana,Skyline,Ted Shipkey,W,55,0
 1951-10-13,Denver,Skyline,John Baker,H,New Mexico,Skyline,Dudley DeGroot,W,33,17
 1951-10-20,Denver,Skyline,John Baker,A,Utah,Skyline,Jack Curtice,L,14,17
-1951-10-27,Denver,Skyline,John Baker,H,Brigham Young,Skyline,Charles Atkinson,W,56,6
+1951-10-27,Denver,Skyline,John Baker,H,BYU,Skyline,Charles Atkinson,W,56,6
 1951-11-10,Denver,Skyline,John Baker,A,Pacific,Ind,Ernie Jorge,W,35,33
 1951-11-17,Denver,Skyline,John Baker,H,Utah State,Skyline,John Roning,L,7,14
 1951-11-24,Denver,Skyline,John Baker,H,Colorado State,Skyline,Robert Davis,W,21,6
@@ -466,7 +466,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1951-10-27,New Mexico,Skyline,Dudley DeGroot,H,Colorado State,Skyline,Robert Davis,L,15,20
 1951-11-03,New Mexico,Skyline,Dudley DeGroot,A,Arizona,BIAA,Robert Winslow,L,20,32
 1951-11-10,New Mexico,Skyline,Dudley DeGroot,H,Wyoming,Skyline,Bowden Wyatt,L,7,41
-1951-11-17,New Mexico,Skyline,Dudley DeGroot,H,Brigham Young,Skyline,Charles Atkinson,W,34,0
+1951-11-17,New Mexico,Skyline,Dudley DeGroot,H,BYU,Skyline,Charles Atkinson,W,34,0
 1951-11-24,New Mexico,Skyline,Dudley DeGroot,H,Texas Tech,BIAA,DeWitt Weaver,L,14,60
 1951-12-01,New Mexico,Skyline,Dudley DeGroot,H,Utah State,Skyline,John Roning,W,17,13
 1951-09-22,Pacific,Ind,Ernie Jorge,H,Hardin-Simmons,BIAA,Warren Woodson,W,33,7
@@ -519,17 +519,17 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1951-09-29,Wyoming,Skyline,Bowden Wyatt,H,Denver,Skyline,John Baker,W,20,14
 1951-10-06,Wyoming,Skyline,Bowden Wyatt,H,Utah State,Skyline,John Roning,W,37,0
 1951-10-13,Wyoming,Skyline,Bowden Wyatt,A,Colorado State,Skyline,Robert Davis,L,7,14
-1951-10-20,Wyoming,Skyline,Bowden Wyatt,H,Brigham Young,Skyline,Charles Atkinson,T,20,20
+1951-10-20,Wyoming,Skyline,Bowden Wyatt,H,BYU,Skyline,Charles Atkinson,T,20,20
 1951-10-27,Wyoming,Skyline,Bowden Wyatt,A,Utah,Skyline,Jack Curtice,W,13,0
 1951-11-03,Wyoming,Skyline,Bowden Wyatt,A,Montana,Skyline,Ted Shipkey,W,34,7
 1951-11-10,Wyoming,Skyline,Bowden Wyatt,A,New Mexico,Skyline,Dudley DeGroot,W,41,7
 1951-11-24,Wyoming,Skyline,Bowden Wyatt,A,Arizona State,BIAA,Larry Siemering,W,20,7
-1951-10-06,Brigham Young,Skyline,Charles Atkinson,A,Utah,Skyline,Jack Curtice,L,6,7
-1951-10-20,Brigham Young,Skyline,Charles Atkinson,A,Wyoming,Skyline,Bowden Wyatt,T,20,20
-1951-10-27,Brigham Young,Skyline,Charles Atkinson,A,Denver,Skyline,John Baker,L,6,56
-1951-11-03,Brigham Young,Skyline,Charles Atkinson,H,Colorado State,Skyline,Robert Davis,W,21,19
-1951-11-10,Brigham Young,Skyline,Charles Atkinson,H,Utah State,Skyline,John Roning,W,28,27
-1951-11-17,Brigham Young,Skyline,Charles Atkinson,A,New Mexico,Skyline,Dudley DeGroot,L,0,34
+1951-10-06,BYU,Skyline,Charles Atkinson,A,Utah,Skyline,Jack Curtice,L,6,7
+1951-10-20,BYU,Skyline,Charles Atkinson,A,Wyoming,Skyline,Bowden Wyatt,T,20,20
+1951-10-27,BYU,Skyline,Charles Atkinson,A,Denver,Skyline,John Baker,L,6,56
+1951-11-03,BYU,Skyline,Charles Atkinson,H,Colorado State,Skyline,Robert Davis,W,21,19
+1951-11-10,BYU,Skyline,Charles Atkinson,H,Utah State,Skyline,John Roning,W,28,27
+1951-11-17,BYU,Skyline,Charles Atkinson,A,New Mexico,Skyline,Dudley DeGroot,L,0,34
 1951-09-29,Yale,Ind,Herman Hickman,H,Navy,Ind,Eddie Erdelatz,T,7,7
 1951-10-06,Yale,Ind,Herman Hickman,H,Brown,Ind,Alva Kelley,L,13,14
 1951-10-13,Yale,Ind,Herman Hickman,A,Columbia,Ind,Lou Little,L,0,14
@@ -860,7 +860,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1951-10-13,Colorado State,Skyline,Robert Davis,H,Wyoming,Skyline,Bowden Wyatt,W,14,7
 1951-10-20,Colorado State,Skyline,Robert Davis,H,Utah State,Skyline,John Roning,T,20,20
 1951-10-27,Colorado State,Skyline,Robert Davis,A,New Mexico,Skyline,Dudley DeGroot,W,20,15
-1951-11-03,Colorado State,Skyline,Robert Davis,A,Brigham Young,Skyline,Charles Atkinson,L,19,21
+1951-11-03,Colorado State,Skyline,Robert Davis,A,BYU,Skyline,Charles Atkinson,L,19,21
 1951-11-10,Colorado State,Skyline,Robert Davis,H,Montana,Skyline,Ted Shipkey,W,34,6
 1951-11-17,Colorado State,Skyline,Robert Davis,A,Utah,Skyline,Jack Curtice,L,21,27
 1951-11-24,Colorado State,Skyline,Robert Davis,A,Denver,Skyline,John Baker,L,6,21

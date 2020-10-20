@@ -84,7 +84,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-11-02,Utah,WAC,Jim Fassel,H,Utah State,PCAA,Chris Pella,W,34,7
 1985-11-09,Utah,WAC,Jim Fassel,H,New Mexico,WAC,Joe Lee Dunn,W,58,49
 1985-11-16,Utah,WAC,Jim Fassel,A,Colorado State,WAC,Leon Fuller,L,19,21
-1985-11-23,Utah,WAC,Jim Fassel,A,Brigham Young,WAC,LaVell Edwards,L,28,38
+1985-11-23,Utah,WAC,Jim Fassel,A,BYU,WAC,LaVell Edwards,L,28,38
 1985-09-21,Cal State Fullerton,PCAA,Gene Murphy,A,Wyoming,WAC,Al Kincaid,L,8,31
 1985-10-03,Cal State Fullerton,PCAA,Gene Murphy,A,San Jose State,PCAA,Claude Gilbert,W,20,18
 1985-10-12,Cal State Fullerton,PCAA,Gene Murphy,A,Utah State,PCAA,Chris Pella,W,32,30
@@ -344,7 +344,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-11-16,South Carolina,Ind,Joe Morrison,H,Navy,Ind,Gary Tranquill,W,34,31
 1985-11-23,South Carolina,Ind,Joe Morrison,H,Clemson,ACC,Danny Ford,L,17,24
 1985-09-07,Washington,Pac-10,Don James,H,Oklahoma State,Big 8,Pat Jones,L,17,31
-1985-09-14,Washington,Pac-10,Don James,A,Brigham Young,WAC,LaVell Edwards,L,3,31
+1985-09-14,Washington,Pac-10,Don James,A,BYU,WAC,LaVell Edwards,L,3,31
 1985-09-21,Washington,Pac-10,Don James,A,Houston,SWC,Bill Yeoman,W,29,12
 1985-09-28,Washington,Pac-10,Don James,H,UCLA,Pac-10,Terry Donahue,W,21,14
 1985-10-05,Washington,Pac-10,Don James,A,Oregon,Pac-10,Rich Brooks,W,19,13
@@ -394,7 +394,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-10-19,Utah State,PCAA,Chris Pella,A,Arizona State,Pac-10,John Cooper,L,10,42
 1985-10-26,Utah State,PCAA,Chris Pella,H,Fresno State,PCAA,Jim Sweeney,L,19,38
 1985-11-02,Utah State,PCAA,Chris Pella,A,Utah,WAC,Jim Fassel,L,7,34
-1985-11-09,Utah State,PCAA,Chris Pella,H,Brigham Young,WAC,LaVell Edwards,L,0,44
+1985-11-09,Utah State,PCAA,Chris Pella,H,BYU,WAC,LaVell Edwards,L,0,44
 1985-11-23,Utah State,PCAA,Chris Pella,A,New Mexico State,PCAA,Fred Zechman,W,40,23
 1985-09-14,Missouri,Big 8,Woody Widenhofer,H,Northwestern,Big Ten,Dennis Green,L,23,27
 1985-09-21,Missouri,Big 8,Woody Widenhofer,A,Texas,SWC,Fred Akers,L,17,21
@@ -466,7 +466,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-09-21,San Diego State,WAC,Doug Scovil,A,UCLA,Pac-10,Terry Donahue,L,16,34
 1985-09-28,San Diego State,WAC,Doug Scovil,H,Colorado State,WAC,Leon Fuller,W,48,23
 1985-10-05,San Diego State,WAC,Doug Scovil,H,Stanford,Pac-10,Jack Elway,W,41,22
-1985-10-12,San Diego State,WAC,Doug Scovil,A,Brigham Young,WAC,LaVell Edwards,L,0,28
+1985-10-12,San Diego State,WAC,Doug Scovil,A,BYU,WAC,LaVell Edwards,L,0,28
 1985-10-19,San Diego State,WAC,Doug Scovil,H,Utah,WAC,Jim Fassel,L,37,39
 1985-10-26,San Diego State,WAC,Doug Scovil,H,Oregon,Pac-10,Rich Brooks,L,37,49
 1985-11-02,San Diego State,WAC,Doug Scovil,A,Air Force,WAC,Fisher DeBerry,L,10,31
@@ -485,7 +485,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-11-09,Hawaii,WAC,Dick Tomey,A,UTEP,WAC,Bill Yung,W,23,7
 1985-11-23,Hawaii,WAC,Dick Tomey,H,Air Force,WAC,Fisher DeBerry,L,20,27
 1985-11-30,Hawaii,WAC,Dick Tomey,H,San Diego State,WAC,Doug Scovil,T,10,10
-1985-12-07,Hawaii,WAC,Dick Tomey,H,Brigham Young,WAC,LaVell Edwards,L,6,26
+1985-12-07,Hawaii,WAC,Dick Tomey,H,BYU,WAC,LaVell Edwards,L,6,26
 1985-09-14,Rutgers,Ind,Dick Anderson,A,Florida,SEC,Galen Hall,T,28,28
 1985-09-21,Rutgers,Ind,Dick Anderson,A,Army,Ind,Jim Young,L,16,20
 1985-09-28,Rutgers,Ind,Dick Anderson,H,Penn State,Ind,Joe Paterno,L,10,17
@@ -528,7 +528,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1986-01-01,Michigan,Big Ten,Bo Schembechler,N,Nebraska,Big 8,Tom Osborne,W,27,23
 1985-09-07,Temple,Ind,Bruce Arians,A,Boston College,Ind,Jack Bicknell,L,25,28
 1985-09-14,Temple,Ind,Bruce Arians,A,Penn State,Ind,Joe Paterno,L,25,27
-1985-09-21,Temple,Ind,Bruce Arians,H,Brigham Young,WAC,LaVell Edwards,L,24,26
+1985-09-21,Temple,Ind,Bruce Arians,H,BYU,WAC,LaVell Edwards,L,24,26
 1985-09-28,Temple,Ind,Bruce Arians,A,East Carolina,Ind,Art Baker,W,21,7
 1985-10-05,Temple,Ind,Bruce Arians,A,Cincinnati,Ind,Dave Currey,W,28,16
 1985-10-12,Temple,Ind,Bruce Arians,H,Rutgers,Ind,Dick Anderson,W,14,13
@@ -540,7 +540,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-09-28,New Mexico,WAC,Joe Lee Dunn,H,Air Force,WAC,Fisher DeBerry,L,12,49
 1985-10-05,New Mexico,WAC,Joe Lee Dunn,A,Nebraska,Big 8,Tom Osborne,L,7,38
 1985-10-12,New Mexico,WAC,Joe Lee Dunn,H,Colorado State,WAC,Leon Fuller,L,28,45
-1985-10-19,New Mexico,WAC,Joe Lee Dunn,H,Brigham Young,WAC,LaVell Edwards,L,23,45
+1985-10-19,New Mexico,WAC,Joe Lee Dunn,H,BYU,WAC,LaVell Edwards,L,23,45
 1985-10-26,New Mexico,WAC,Joe Lee Dunn,H,Hawaii,WAC,Dick Tomey,L,17,27
 1985-11-02,New Mexico,WAC,Joe Lee Dunn,A,UTEP,WAC,Bill Yung,W,27,23
 1985-11-09,New Mexico,WAC,Joe Lee Dunn,A,Utah,WAC,Jim Fassel,L,49,58
@@ -620,24 +620,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-10-04,Wyoming,WAC,Al Kincaid,A,Utah,WAC,Jim Fassel,L,20,37
 1985-10-12,Wyoming,WAC,Al Kincaid,H,Hawaii,WAC,Dick Tomey,L,18,26
 1985-10-26,Wyoming,WAC,Al Kincaid,H,Colorado State,WAC,Leon Fuller,L,19,30
-1985-11-02,Wyoming,WAC,Al Kincaid,A,Brigham Young,WAC,LaVell Edwards,L,0,59
+1985-11-02,Wyoming,WAC,Al Kincaid,A,BYU,WAC,LaVell Edwards,L,0,59
 1985-11-09,Wyoming,WAC,Al Kincaid,H,San Diego State,WAC,Doug Scovil,W,41,20
 1985-11-16,Wyoming,WAC,Al Kincaid,A,New Mexico,WAC,Joe Lee Dunn,L,16,41
 1985-12-06,Wyoming,WAC,Al Kincaid,N,UTEP,WAC,Bill Yung,W,24,21
-1985-08-29,Brigham Young,WAC,LaVell Edwards,N,Boston College,Ind,Jack Bicknell,W,28,14
-1985-09-07,Brigham Young,WAC,LaVell Edwards,H,UCLA,Pac-10,Terry Donahue,L,24,27
-1985-09-14,Brigham Young,WAC,LaVell Edwards,H,Washington,Pac-10,Don James,W,31,3
-1985-09-21,Brigham Young,WAC,LaVell Edwards,A,Temple,Ind,Bruce Arians,W,26,24
-1985-10-05,Brigham Young,WAC,LaVell Edwards,A,Colorado State,WAC,Leon Fuller,W,42,7
-1985-10-12,Brigham Young,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,28,0
-1985-10-19,Brigham Young,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Lee Dunn,W,45,23
-1985-10-26,Brigham Young,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,L,16,23
-1985-11-02,Brigham Young,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,59,0
-1985-11-09,Brigham Young,WAC,LaVell Edwards,A,Utah State,PCAA,Chris Pella,W,44,0
-1985-11-16,Brigham Young,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,28,21
-1985-11-23,Brigham Young,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,38,28
-1985-12-07,Brigham Young,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,26,6
-1985-12-28,Brigham Young,WAC,LaVell Edwards,N,Ohio State,Big Ten,Earle Bruce,L,7,10
+1985-08-29,BYU,WAC,LaVell Edwards,N,Boston College,Ind,Jack Bicknell,W,28,14
+1985-09-07,BYU,WAC,LaVell Edwards,H,UCLA,Pac-10,Terry Donahue,L,24,27
+1985-09-14,BYU,WAC,LaVell Edwards,H,Washington,Pac-10,Don James,W,31,3
+1985-09-21,BYU,WAC,LaVell Edwards,A,Temple,Ind,Bruce Arians,W,26,24
+1985-10-05,BYU,WAC,LaVell Edwards,A,Colorado State,WAC,Leon Fuller,W,42,7
+1985-10-12,BYU,WAC,LaVell Edwards,H,San Diego State,WAC,Doug Scovil,W,28,0
+1985-10-19,BYU,WAC,LaVell Edwards,A,New Mexico,WAC,Joe Lee Dunn,W,45,23
+1985-10-26,BYU,WAC,LaVell Edwards,A,UTEP,WAC,Bill Yung,L,16,23
+1985-11-02,BYU,WAC,LaVell Edwards,H,Wyoming,WAC,Al Kincaid,W,59,0
+1985-11-09,BYU,WAC,LaVell Edwards,A,Utah State,PCAA,Chris Pella,W,44,0
+1985-11-16,BYU,WAC,LaVell Edwards,H,Air Force,WAC,Fisher DeBerry,W,28,21
+1985-11-23,BYU,WAC,LaVell Edwards,H,Utah,WAC,Jim Fassel,W,38,28
+1985-12-07,BYU,WAC,LaVell Edwards,A,Hawaii,WAC,Dick Tomey,W,26,6
+1985-12-28,BYU,WAC,LaVell Edwards,N,Ohio State,Big Ten,Earle Bruce,L,7,10
 1985-09-14,Georgia Tech,ACC,Bill Curry,A,North Carolina State,ACC,Tom Reed,W,28,18
 1985-09-21,Georgia Tech,ACC,Bill Curry,H,Virginia,ACC,George Welsh,L,13,24
 1985-09-28,Georgia Tech,ACC,Bill Curry,A,Clemson,ACC,Danny Ford,W,14,3
@@ -702,7 +702,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-11-16,Army,Ind,Jim Young,H,Memphis,Ind,Rey Dempsey,W,49,7
 1985-12-07,Army,Ind,Jim Young,N,Navy,Ind,Gary Tranquill,L,7,17
 1985-12-31,Army,Ind,Jim Young,N,Illinois,Big Ten,Mike White,W,31,29
-1985-09-07,UCLA,Pac-10,Terry Donahue,A,Brigham Young,WAC,LaVell Edwards,W,27,24
+1985-09-07,UCLA,Pac-10,Terry Donahue,A,BYU,WAC,LaVell Edwards,W,27,24
 1985-09-14,UCLA,Pac-10,Terry Donahue,A,Tennessee,SEC,Johnny Majors,T,26,26
 1985-09-21,UCLA,Pac-10,Terry Donahue,H,San Diego State,WAC,Doug Scovil,W,34,16
 1985-09-28,UCLA,Pac-10,Terry Donahue,A,Washington,Pac-10,Don James,L,14,21
@@ -765,7 +765,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-09-21,UTEP,WAC,Bill Yung,H,New Mexico State,PCAA,Fred Zechman,L,20,22
 1985-09-28,UTEP,WAC,Bill Yung,A,Utah,WAC,Jim Fassel,L,19,55
 1985-10-12,UTEP,WAC,Bill Yung,A,Kent State,MAC,Dick Scesniak,L,24,51
-1985-10-26,UTEP,WAC,Bill Yung,H,Brigham Young,WAC,LaVell Edwards,W,23,16
+1985-10-26,UTEP,WAC,Bill Yung,H,BYU,WAC,LaVell Edwards,W,23,16
 1985-11-02,UTEP,WAC,Bill Yung,H,New Mexico,WAC,Joe Lee Dunn,L,23,27
 1985-11-09,UTEP,WAC,Bill Yung,H,Hawaii,WAC,Dick Tomey,L,7,23
 1985-11-16,UTEP,WAC,Bill Yung,H,San Diego State,WAC,Doug Scovil,L,6,34
@@ -843,7 +843,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-10-26,Air Force,WAC,Fisher DeBerry,H,Utah,WAC,Jim Fassel,W,37,15
 1985-11-02,Air Force,WAC,Fisher DeBerry,H,San Diego State,WAC,Doug Scovil,W,31,10
 1985-11-09,Air Force,WAC,Fisher DeBerry,H,Army,Ind,Jim Young,W,45,7
-1985-11-16,Air Force,WAC,Fisher DeBerry,A,Brigham Young,WAC,LaVell Edwards,L,21,28
+1985-11-16,Air Force,WAC,Fisher DeBerry,A,BYU,WAC,LaVell Edwards,L,21,28
 1985-11-23,Air Force,WAC,Fisher DeBerry,A,Hawaii,WAC,Dick Tomey,W,27,20
 1985-12-31,Air Force,WAC,Fisher DeBerry,N,Texas,SWC,Fred Akers,W,24,16
 1985-09-07,Miami (FL),Ind,Jimmy Johnson,H,Florida,SEC,Galen Hall,L,23,35
@@ -963,7 +963,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-09-14,Colorado State,WAC,Leon Fuller,H,UTEP,WAC,Bill Yung,W,41,24
 1985-09-21,Colorado State,WAC,Leon Fuller,A,LSU,SEC,Bill Arnsparger,L,3,17
 1985-09-28,Colorado State,WAC,Leon Fuller,A,San Diego State,WAC,Doug Scovil,L,23,48
-1985-10-05,Colorado State,WAC,Leon Fuller,H,Brigham Young,WAC,LaVell Edwards,L,7,42
+1985-10-05,Colorado State,WAC,Leon Fuller,H,BYU,WAC,LaVell Edwards,L,7,42
 1985-10-12,Colorado State,WAC,Leon Fuller,A,New Mexico,WAC,Joe Lee Dunn,W,45,28
 1985-10-19,Colorado State,WAC,Leon Fuller,H,Air Force,WAC,Fisher DeBerry,L,19,35
 1985-10-26,Colorado State,WAC,Leon Fuller,A,Wyoming,WAC,Al Kincaid,W,30,19
@@ -1004,7 +1004,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-11-16,Michigan State,Big Ten,George Perles,H,Northwestern,Big Ten,Dennis Green,W,32,0
 1985-11-23,Michigan State,Big Ten,George Perles,A,Wisconsin,Big Ten,Dave McClain,W,41,7
 1985-12-31,Michigan State,Big Ten,George Perles,N,Georgia Tech,ACC,Bill Curry,L,14,17
-1985-08-29,Boston College,Ind,Jack Bicknell,N,Brigham Young,WAC,LaVell Edwards,L,14,28
+1985-08-29,Boston College,Ind,Jack Bicknell,N,BYU,WAC,LaVell Edwards,L,14,28
 1985-09-07,Boston College,Ind,Jack Bicknell,H,Temple,Ind,Bruce Arians,W,28,25
 1985-09-14,Boston College,Ind,Jack Bicknell,H,Maryland,ACC,Bobby Ross,L,13,31
 1985-09-21,Boston College,Ind,Jack Bicknell,A,Pitt,Ind,Foge Fazio,W,29,22
@@ -1131,7 +1131,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 1985-11-09,Ohio State,Big Ten,Earle Bruce,A,Northwestern,Big Ten,Dennis Green,W,35,17
 1985-11-16,Ohio State,Big Ten,Earle Bruce,H,Wisconsin,Big Ten,Dave McClain,L,7,12
 1985-11-23,Ohio State,Big Ten,Earle Bruce,A,Michigan,Big Ten,Bo Schembechler,L,17,27
-1985-12-28,Ohio State,Big Ten,Earle Bruce,N,Brigham Young,WAC,LaVell Edwards,W,10,7
+1985-12-28,Ohio State,Big Ten,Earle Bruce,N,BYU,WAC,LaVell Edwards,W,10,7
 1985-09-21,Ohio,MAC,Cleve Bryant,A,Duke,ACC,Steve Sloan,L,13,34
 1985-09-28,Ohio,MAC,Cleve Bryant,H,Central Michigan,MAC,Herb Deromedi,L,7,13
 1985-10-05,Ohio,MAC,Cleve Bryant,A,Miami (OH),MAC,Tim Rose,L,22,29

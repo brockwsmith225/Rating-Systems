@@ -90,7 +90,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-10-30,Utah,MWC,Urban Meyer,A,San Diego State,MWC,Tom Craft,W,51,28,25,36,375,5,44,173,1,16,8,6,53,1,0
 2004-11-06,Utah,MWC,Urban Meyer,H,Colorado State,MWC,Sonny Lubick,W,63,31,23,29,292,4,45,242,4,14,11,13,130,0,0
 2004-11-13,Utah,MWC,Urban Meyer,A,Wyoming,MWC,Joe Glenn,W,45,28,17,27,244,3,42,244,3,12,14,6,35,1,0
-2004-11-20,Utah,MWC,Urban Meyer,H,Brigham Young,MWC,Gary Crowton,W,52,21,17,26,184,1,48,354,5,8,15,8,93,0,2
+2004-11-20,Utah,MWC,Urban Meyer,H,BYU,MWC,Gary Crowton,W,52,21,17,26,184,1,48,354,5,8,15,8,93,0,2
 2005-01-01,Utah,MWC,Urban Meyer,N,Pitt,Big East,Walt Harris,W,35,7,29,37,328,4,31,139,1,16,8,7,51,1,0
 2004-09-05,Syracuse,Big East,Paul Pasqualoni,A,Purdue,Big Ten,Joe Tiller,L,0,51,15,26,157,0,32,40,0,6,4,8,55,1,2
 2004-09-11,Syracuse,Big East,Paul Pasqualoni,A,Buffalo,MAC,Jim Hofher,W,37,17,9,24,84,0,48,191,2,5,7,9,100,2,1
@@ -183,7 +183,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-11-20,Troy,Sun Belt,Larry Blakeney,H,Middle Tennessee State,Sun Belt,Andy McCollum,W,37,17,8,17,144,2,43,222,1,5,9,8,100,3,0
 2004-12-30,Troy,Sun Belt,Larry Blakeney,N,Northern Illinois,MAC,Joe Novak,L,21,34,6,22,122,1,41,170,2,4,9,4,29,0,1
 2004-09-04,Stanford,Pac-10,Buddy Teevens,H,San Jose State,WAC,Fitz Hill,W,43,3,20,33,333,2,39,132,4,13,8,2,14,0,0
-2004-09-11,Stanford,Pac-10,Buddy Teevens,H,Brigham Young,MWC,Gary Crowton,W,37,10,20,42,297,3,35,72,0,11,4,7,64,2,0
+2004-09-11,Stanford,Pac-10,Buddy Teevens,H,BYU,MWC,Gary Crowton,W,37,10,20,42,297,3,35,72,0,11,4,7,64,2,0
 2004-09-25,Stanford,Pac-10,Buddy Teevens,H,USC,Pac-10,Pete Carroll,L,28,31,23,35,183,2,30,144,2,10,7,6,35,0,1
 2004-10-02,Stanford,Pac-10,Buddy Teevens,H,Washington,Pac-10,Keith Gilbertson,W,27,13,23,35,254,0,34,202,3,9,6,8,77,1,3
 2004-10-09,Stanford,Pac-10,Buddy Teevens,A,Notre Dame,Ind,Kent Baer,L,15,23,17,38,267,0,25,67,1,11,3,9,59,0,0
@@ -478,7 +478,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-11-27,Nevada,WAC,Chris Ault,H,Boise State,WAC,Dan Hawkins,L,21,58,27,46,304,1,27,70,1,14,3,2,25,1,2
 2004-08-28,USC,Pac-10,Pete Carroll,N,Virginia Tech,ACC,Frank Beamer,W,24,13,19,29,272,3,29,101,0,8,7,7,60,0,0
 2004-09-11,USC,Pac-10,Pete Carroll,H,Colorado State,MWC,Sonny Lubick,W,49,0,20,31,231,2,45,322,4,13,17,7,60,2,0
-2004-09-18,USC,Pac-10,Pete Carroll,A,Brigham Young,MWC,Gary Crowton,W,42,10,22,34,236,2,51,278,4,12,13,8,73,0,1
+2004-09-18,USC,Pac-10,Pete Carroll,A,BYU,MWC,Gary Crowton,W,42,10,22,34,236,2,51,278,4,12,13,8,73,0,1
 2004-09-25,USC,Pac-10,Pete Carroll,A,Stanford,Pac-10,Buddy Teevens,W,31,28,23,30,284,1,34,99,3,12,9,2,20,0,1
 2004-10-09,USC,Pac-10,Pete Carroll,H,California,Pac-10,Jeff Tedford,W,23,17,15,25,164,2,25,41,0,5,6,5,36,0,1
 2004-10-16,USC,Pac-10,Pete Carroll,H,Arizona State,Pac-10,Dirk Koetter,W,45,7,17,28,301,5,38,145,1,11,10,4,25,1,0
@@ -506,7 +506,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-10-16,San Diego State,MWC,Tom Craft,H,Colorado State,MWC,Sonny Lubick,L,17,21,19,41,238,1,32,128,0,8,8,3,30,1,2
 2004-10-23,San Diego State,MWC,Tom Craft,A,New Mexico,MWC,Rocky Long,L,9,19,16,32,165,1,30,-19,0,9,3,7,55,0,2
 2004-10-30,San Diego State,MWC,Tom Craft,H,Utah,MWC,Urban Meyer,L,28,51,21,43,252,2,33,162,1,12,10,9,116,0,2
-2004-11-06,San Diego State,MWC,Tom Craft,A,Brigham Young,MWC,Gary Crowton,L,16,49,21,47,229,1,35,163,1,11,7,7,48,1,2
+2004-11-06,San Diego State,MWC,Tom Craft,A,BYU,MWC,Gary Crowton,L,16,49,21,47,229,1,35,163,1,11,7,7,48,1,2
 2004-11-13,San Diego State,MWC,Tom Craft,A,Air Force,MWC,Fisher DeBerry,W,37,31,17,33,232,2,43,224,2,12,10,9,90,1,1
 2004-11-20,San Diego State,MWC,Tom Craft,H,Nevada-Las Vegas,MWC,John Robinson,W,21,3,16,26,175,1,31,109,0,5,6,11,85,1,0
 2004-09-04,Hawaii,WAC,June Jones,H,Florida Atlantic,Sun Belt,Howard Schnellenberger,L,28,35,38,66,302,2,10,27,2,13,4,7,60,0,0
@@ -589,10 +589,10 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-10-16,New Mexico,MWC,Rocky Long,A,Nevada-Las Vegas,MWC,John Robinson,W,24,20,14,27,92,1,50,284,2,4,13,11,101,0,0
 2004-10-23,New Mexico,MWC,Rocky Long,H,San Diego State,MWC,Tom Craft,W,19,9,10,17,106,1,51,114,1,5,10,9,71,1,0
 2004-10-30,New Mexico,MWC,Rocky Long,A,Colorado State,MWC,Sonny Lubick,W,26,17,7,17,110,1,45,181,1,3,10,8,79,0,0
-2004-11-13,New Mexico,MWC,Rocky Long,A,Brigham Young,MWC,Gary Crowton,W,21,14,7,12,143,1,46,114,2,6,5,8,65,0,1
+2004-11-13,New Mexico,MWC,Rocky Long,A,BYU,MWC,Gary Crowton,W,21,14,7,12,143,1,46,114,2,6,5,8,65,0,1
 2004-11-20,New Mexico,MWC,Rocky Long,H,Wyoming,MWC,Joe Glenn,W,16,9,5,15,40,0,45,304,2,1,16,4,25,1,1
 2004-12-30,New Mexico,MWC,Rocky Long,N,Navy,Ind,Paul Johnson,L,19,34,15,24,207,1,42,212,2,10,12,9,85,1,2
-2004-09-04,Notre Dame,Ind,Kent Baer,A,Brigham Young,MWC,Gary Crowton,L,17,20,26,47,265,1,21,11,0,9,3,7,55,1,0
+2004-09-04,Notre Dame,Ind,Kent Baer,A,BYU,MWC,Gary Crowton,L,17,20,26,47,265,1,21,11,0,9,3,7,55,1,0
 2004-09-11,Notre Dame,Ind,Kent Baer,H,Michigan,Big Ten,Lloyd Carr,W,28,20,10,21,178,2,40,135,2,6,7,5,49,1,3
 2004-09-18,Notre Dame,Ind,Kent Baer,A,Michigan State,Big Ten,John Smith,W,31,24,11,24,215,1,48,173,2,8,11,4,22,2,1
 2004-09-25,Notre Dame,Ind,Kent Baer,H,Washington,Pac-10,Keith Gilbertson,W,38,3,17,32,266,4,46,146,1,12,8,10,101,0,1
@@ -663,7 +663,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-09-04,Boise State,WAC,Dan Hawkins,H,Idaho,Sun Belt,Nick Holt,W,65,7,16,22,318,0,47,254,8,13,14,4,49,2,1
 2004-09-10,Boise State,WAC,Dan Hawkins,H,Oregon State,Pac-10,Mike Riley,W,53,34,21,35,246,4,52,246,1,12,13,6,40,0,1
 2004-09-18,Boise State,WAC,Dan Hawkins,A,UTEP,WAC,Mike Price,W,47,31,26,37,392,2,49,175,4,20,8,11,92,2,2
-2004-09-24,Boise State,WAC,Dan Hawkins,H,Brigham Young,MWC,Gary Crowton,W,28,27,21,29,310,2,45,89,1,12,7,5,45,1,1
+2004-09-24,Boise State,WAC,Dan Hawkins,H,BYU,MWC,Gary Crowton,W,28,27,21,29,310,2,45,89,1,12,7,5,45,1,1
 2004-10-02,Boise State,WAC,Dan Hawkins,H,SMU,WAC,Phil Bennett,W,38,20,22,40,218,2,44,208,2,11,14,7,50,0,2
 2004-10-16,Boise State,WAC,Dan Hawkins,A,Tulsa,WAC,Steve Kragthorpe,W,45,42,18,34,261,2,56,264,3,11,18,11,95,0,2
 2004-10-23,Boise State,WAC,Dan Hawkins,H,Fresno State,WAC,Pat Hill,W,33,16,15,23,227,1,55,164,2,8,10,4,32,1,0
@@ -699,24 +699,24 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-09-25,Wyoming,MWC,Joe Glenn,H,Ole Miss,SEC,David Cutcliffe,W,37,32,16,32,239,2,38,158,1,11,8,6,44,1,1
 2004-10-02,Wyoming,MWC,Joe Glenn,H,Louisiana-Monroe,Sun Belt,Charlie Weatherbie,W,31,10,16,28,175,1,53,261,3,9,17,2,10,0,1
 2004-10-09,Wyoming,MWC,Joe Glenn,H,San Diego State,MWC,Tom Craft,W,20,10,16,29,192,2,34,72,0,8,4,6,50,0,0
-2004-10-16,Wyoming,MWC,Joe Glenn,A,Brigham Young,MWC,Gary Crowton,L,13,24,23,40,219,1,37,103,0,10,6,6,66,0,4
+2004-10-16,Wyoming,MWC,Joe Glenn,A,BYU,MWC,Gary Crowton,L,13,24,23,40,219,1,37,103,0,10,6,6,66,0,4
 2004-10-22,Wyoming,MWC,Joe Glenn,A,Colorado State,MWC,Sonny Lubick,L,7,30,26,39,256,0,29,80,1,14,4,3,22,2,2
 2004-10-30,Wyoming,MWC,Joe Glenn,H,Air Force,MWC,Fisher DeBerry,W,43,26,20,29,268,2,59,291,3,14,15,6,61,0,0
 2004-11-06,Wyoming,MWC,Joe Glenn,A,Nevada-Las Vegas,MWC,John Robinson,W,53,45,23,37,240,4,42,83,3,12,4,4,50,1,1
 2004-11-13,Wyoming,MWC,Joe Glenn,H,Utah,MWC,Urban Meyer,L,28,45,17,28,278,2,39,132,2,12,6,7,61,1,2
 2004-11-20,Wyoming,MWC,Joe Glenn,A,New Mexico,MWC,Rocky Long,L,9,16,20,35,234,0,40,33,0,11,6,7,42,0,1
 2004-12-23,Wyoming,MWC,Joe Glenn,N,UCLA,Pac-10,Karl Dorrell,W,24,21,21,38,329,3,30,76,0,12,5,11,114,0,1
-2004-09-04,Brigham Young,MWC,Gary Crowton,H,Notre Dame,Ind,Kent Baer,W,20,17,22,33,263,1,35,22,1,10,2,9,74,1,1
-2004-09-11,Brigham Young,MWC,Gary Crowton,A,Stanford,Pac-10,Buddy Teevens,L,10,37,28,56,288,0,27,41,1,17,3,14,125,3,4
-2004-09-18,Brigham Young,MWC,Gary Crowton,H,USC,Pac-10,Pete Carroll,L,10,42,18,33,194,1,25,13,0,9,1,7,54,1,3
-2004-09-24,Brigham Young,MWC,Gary Crowton,A,Boise State,WAC,Dan Hawkins,L,27,28,20,35,390,2,35,25,1,10,4,7,39,0,0
-2004-10-02,Brigham Young,MWC,Gary Crowton,A,Colorado State,MWC,Sonny Lubick,W,31,21,24,42,238,1,46,207,3,12,12,7,69,0,1
-2004-10-08,Brigham Young,MWC,Gary Crowton,H,Nevada-Las Vegas,MWC,John Robinson,L,20,24,34,68,358,1,28,91,0,17,7,6,59,4,1
-2004-10-16,Brigham Young,MWC,Gary Crowton,H,Wyoming,MWC,Joe Glenn,W,24,13,11,26,179,1,44,237,2,7,13,3,30,2,1
-2004-10-23,Brigham Young,MWC,Gary Crowton,A,Air Force,MWC,Fisher DeBerry,W,41,24,21,32,354,4,39,173,0,11,9,9,70,1,1
-2004-11-06,Brigham Young,MWC,Gary Crowton,H,San Diego State,MWC,Tom Craft,W,49,16,16,27,339,3,43,187,3,9,8,10,75,1,0
-2004-11-13,Brigham Young,MWC,Gary Crowton,H,New Mexico,MWC,Rocky Long,L,14,21,23,38,259,2,34,58,0,12,5,5,55,2,1
-2004-11-20,Brigham Young,MWC,Gary Crowton,A,Utah,MWC,Urban Meyer,L,21,52,17,33,213,2,27,81,1,10,5,6,52,1,1
+2004-09-04,BYU,MWC,Gary Crowton,H,Notre Dame,Ind,Kent Baer,W,20,17,22,33,263,1,35,22,1,10,2,9,74,1,1
+2004-09-11,BYU,MWC,Gary Crowton,A,Stanford,Pac-10,Buddy Teevens,L,10,37,28,56,288,0,27,41,1,17,3,14,125,3,4
+2004-09-18,BYU,MWC,Gary Crowton,H,USC,Pac-10,Pete Carroll,L,10,42,18,33,194,1,25,13,0,9,1,7,54,1,3
+2004-09-24,BYU,MWC,Gary Crowton,A,Boise State,WAC,Dan Hawkins,L,27,28,20,35,390,2,35,25,1,10,4,7,39,0,0
+2004-10-02,BYU,MWC,Gary Crowton,A,Colorado State,MWC,Sonny Lubick,W,31,21,24,42,238,1,46,207,3,12,12,7,69,0,1
+2004-10-08,BYU,MWC,Gary Crowton,H,Nevada-Las Vegas,MWC,John Robinson,L,20,24,34,68,358,1,28,91,0,17,7,6,59,4,1
+2004-10-16,BYU,MWC,Gary Crowton,H,Wyoming,MWC,Joe Glenn,W,24,13,11,26,179,1,44,237,2,7,13,3,30,2,1
+2004-10-23,BYU,MWC,Gary Crowton,A,Air Force,MWC,Fisher DeBerry,W,41,24,21,32,354,4,39,173,0,11,9,9,70,1,1
+2004-11-06,BYU,MWC,Gary Crowton,H,San Diego State,MWC,Tom Craft,W,49,16,16,27,339,3,43,187,3,9,8,10,75,1,0
+2004-11-13,BYU,MWC,Gary Crowton,H,New Mexico,MWC,Rocky Long,L,14,21,23,38,259,2,34,58,0,12,5,5,55,2,1
+2004-11-20,BYU,MWC,Gary Crowton,A,Utah,MWC,Urban Meyer,L,21,52,17,33,213,2,27,81,1,10,5,6,52,1,1
 2004-09-04,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Hawaii,WAC,June Jones,W,35,28,29,46,298,2,39,147,2,16,9,11,108,0,3
 2004-09-11,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,North Texas,Sun Belt,Darrell Dickey,W,20,13,20,28,280,0,44,177,2,12,8,6,34,1,0
 2004-09-18,Florida Atlantic,Sun Belt,Howard Schnellenberger,A,Middle Tennessee State,Sun Belt,Andy McCollum,W,27,20,23,33,335,3,35,87,0,12,5,12,107,0,0
@@ -772,7 +772,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-09-18,Nevada-Las Vegas,MWC,John Robinson,H,Air Force,MWC,Fisher DeBerry,L,10,27,12,27,160,1,24,98,0,7,5,4,26,1,2
 2004-09-25,Nevada-Las Vegas,MWC,John Robinson,H,Utah State,Sun Belt,Mick Dennehy,L,21,31,20,35,283,1,45,267,2,12,10,11,105,1,4
 2004-10-02,Nevada-Las Vegas,MWC,John Robinson,H,Nevada,WAC,Chris Ault,W,48,13,11,19,128,2,47,238,4,7,8,6,45,1,0
-2004-10-08,Nevada-Las Vegas,MWC,John Robinson,A,Brigham Young,MWC,Gary Crowton,W,24,20,9,27,130,1,46,128,2,6,8,10,85,1,1
+2004-10-08,Nevada-Las Vegas,MWC,John Robinson,A,BYU,MWC,Gary Crowton,W,24,20,9,27,130,1,46,128,2,6,8,10,85,1,1
 2004-10-16,Nevada-Las Vegas,MWC,John Robinson,H,New Mexico,MWC,Rocky Long,L,20,24,17,33,206,2,36,156,0,10,5,4,35,4,2
 2004-10-23,Nevada-Las Vegas,MWC,John Robinson,A,Utah,MWC,Urban Meyer,L,28,63,9,22,111,0,48,311,4,4,13,11,89,2,2
 2004-11-06,Nevada-Las Vegas,MWC,John Robinson,H,Wyoming,MWC,Joe Glenn,L,45,53,20,34,223,4,50,209,2,12,13,22,167,1,2
@@ -985,7 +985,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-09-25,Air Force,MWC,Fisher DeBerry,A,Utah,MWC,Urban Meyer,L,35,49,11,16,169,1,66,302,4,5,15,4,40,2,1
 2004-09-30,Air Force,MWC,Fisher DeBerry,H,Navy,Ind,Paul Johnson,L,21,24,18,24,233,2,57,182,0,14,10,7,55,0,2
 2004-10-09,Air Force,MWC,Fisher DeBerry,H,New Mexico,MWC,Rocky Long,W,28,23,4,9,95,0,53,239,4,3,11,2,19,0,0
-2004-10-23,Air Force,MWC,Fisher DeBerry,H,Brigham Young,MWC,Gary Crowton,L,24,41,10,24,150,1,47,213,2,7,11,9,70,0,0
+2004-10-23,Air Force,MWC,Fisher DeBerry,H,BYU,MWC,Gary Crowton,L,24,41,10,24,150,1,47,213,2,7,11,9,70,0,0
 2004-10-30,Air Force,MWC,Fisher DeBerry,A,Wyoming,MWC,Joe Glenn,L,26,43,10,21,189,1,48,231,3,7,14,9,72,1,1
 2004-11-06,Air Force,MWC,Fisher DeBerry,A,Army,CUSA,Bobby Ross,W,31,22,7,8,84,0,66,345,4,4,18,4,40,0,0
 2004-11-13,Air Force,MWC,Fisher DeBerry,H,San Diego State,MWC,Tom Craft,L,31,37,10,20,133,0,65,353,4,8,17,6,55,4,2
@@ -1110,7 +1110,7 @@ Date,Team,Conference,Coach,Location,Opponent,OpponentConference,OpponentCoach,Re
 2004-09-04,Colorado State,MWC,Sonny Lubick,A,Colorado,Big 12,Gary Barnett,L,24,27,29,42,403,2,28,44,1,20,0,6,35,0,1
 2004-09-11,Colorado State,MWC,Sonny Lubick,A,USC,Pac-10,Pete Carroll,L,0,49,19,35,233,0,27,48,0,10,3,7,45,2,4
 2004-09-18,Colorado State,MWC,Sonny Lubick,H,Minnesota,Big Ten,Glen Mason,L,16,34,25,41,298,1,35,126,0,15,9,1,5,1,3
-2004-10-02,Colorado State,MWC,Sonny Lubick,H,Brigham Young,MWC,Gary Crowton,L,21,31,22,36,359,1,30,103,2,13,3,6,70,1,1
+2004-10-02,Colorado State,MWC,Sonny Lubick,H,BYU,MWC,Gary Crowton,L,21,31,22,36,359,1,30,103,2,13,3,6,70,1,1
 2004-10-16,Colorado State,MWC,Sonny Lubick,A,San Diego State,MWC,Tom Craft,W,21,17,17,28,133,1,38,63,1,4,7,1,5,1,1
 2004-10-22,Colorado State,MWC,Sonny Lubick,H,Wyoming,MWC,Joe Glenn,W,30,7,11,22,167,0,50,233,2,8,12,2,25,1,1
 2004-10-30,Colorado State,MWC,Sonny Lubick,H,New Mexico,MWC,Rocky Long,L,17,26,20,37,285,2,34,35,0,12,6,3,25,2,1
