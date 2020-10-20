@@ -8,7 +8,7 @@ import ratingsystems.common.ratingsystem.Prediction;
 import java.util.List;
 import java.util.Map;
 
-public class Predict extends Command {
+public class Predict extends Command<Runner> {
     @Override
     public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         String team1 = arguments.get(0);

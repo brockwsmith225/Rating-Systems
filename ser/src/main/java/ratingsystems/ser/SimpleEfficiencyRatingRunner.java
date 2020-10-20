@@ -9,7 +9,7 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 import java.io.FileNotFoundException;
 import java.util.Map;
 
-public class SimpleEfficiencyRatingRunner extends Runner {
+public class SimpleEfficiencyRatingRunner extends Runner<SimpleEfficiencyRating> {
 
     public SimpleEfficiencyRatingRunner() {
         super();
@@ -21,9 +21,9 @@ public class SimpleEfficiencyRatingRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
+    public SimpleEfficiencyRating loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         try {
-            RatingSystem ratingSystem;
+            SimpleEfficiencyRating ratingSystem;
             if (parameters.containsKey("WEEK")) {
                 if (parameters.containsKey("START_YEAR") && (int) parameters.getValue("START_YEAR") < (int) parameters.getValue("YEAR")) {
                     int[] years = new int[(int) parameters.getValue("YEAR") - (int) parameters.getValue("START_YEAR") + 1];
@@ -59,9 +59,9 @@ public class SimpleEfficiencyRatingRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year) {
+    public SimpleEfficiencyRating loadNewRatingSystem(Interpreter interpreter, int year) {
         try {
-            RatingSystem ratingSystem = new SimpleEfficiencyRating(interpreter, year);
+            SimpleEfficiencyRating ratingSystem = new SimpleEfficiencyRating(interpreter, year);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {
@@ -70,9 +70,9 @@ public class SimpleEfficiencyRatingRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
+    public SimpleEfficiencyRating loadNewRatingSystem(Interpreter interpreter, int year, int week) {
         try {
-            RatingSystem ratingSystem = new SimpleEfficiencyRating(interpreter, year, week);
+            SimpleEfficiencyRating ratingSystem = new SimpleEfficiencyRating(interpreter, year, week);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {

@@ -8,7 +8,7 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 import java.util.List;
 import java.util.Map;
 
-public class Predictions extends Command {
+public class Predictions extends Command<Runner> {
     @Override
     public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         RatingSystem ratingSystem = runner.loadRatingSystem(options, parameters);

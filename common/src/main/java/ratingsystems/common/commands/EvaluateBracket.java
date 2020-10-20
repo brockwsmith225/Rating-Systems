@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Map;
 
-public class EvaluateBracket extends Command {
+public class EvaluateBracket extends Command<Runner> {
     @Override
     public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode) {
         RatingSystem ratingSystem = runner.loadRatingSystem(options, parameters);

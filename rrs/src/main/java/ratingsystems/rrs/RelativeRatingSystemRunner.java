@@ -10,7 +10,7 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 import java.io.FileNotFoundException;
 import java.util.Map;
 
-public class RelativeRatingSystemRunner extends Runner {
+public class RelativeRatingSystemRunner extends Runner<RelativeRatingSystem> {
 
     public RelativeRatingSystemRunner() {
         super();
@@ -23,9 +23,9 @@ public class RelativeRatingSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
+    public RelativeRatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         try {
-            RatingSystem ratingSystem;
+            RelativeRatingSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
                 if (parameters.containsKey("START_YEAR") && (int) parameters.getValue("START_YEAR") < (int) parameters.getValue("YEAR")) {
                     int[] years = new int[(int) parameters.getValue("YEAR") - (int) parameters.getValue("START_YEAR") + 1];
@@ -59,9 +59,9 @@ public class RelativeRatingSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year) {
+    public RelativeRatingSystem loadNewRatingSystem(Interpreter interpreter, int year) {
         try {
-            RatingSystem ratingSystem = new RelativeRatingSystem(interpreter, year);
+            RelativeRatingSystem ratingSystem = new RelativeRatingSystem(interpreter, year);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {
@@ -70,9 +70,9 @@ public class RelativeRatingSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
+    public RelativeRatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
         try {
-            RatingSystem ratingSystem = new RelativeRatingSystem(interpreter, year, week);
+            RelativeRatingSystem ratingSystem = new RelativeRatingSystem(interpreter, year, week);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {

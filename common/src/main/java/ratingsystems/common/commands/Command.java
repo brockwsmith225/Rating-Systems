@@ -7,14 +7,14 @@ import ratingsystems.common.interpreter.Interpreter;
 import java.util.List;
 import java.util.Map;
 
-public abstract class Command {
+public abstract class Command<T extends Runner> {
 
     /**
      * Runs the command
      *
      * @param runner the runner to get necessary parameters from
      */
-    abstract public Object run(Runner runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode);
+    abstract public Object run(T runner, List<String> arguments, Map<String, Boolean> options, Parameters parameters, CommandMode commandMode);
 
     /**
      * Validates that the input from the user will be enough to run the command

@@ -226,10 +226,6 @@ public class HistoricalPredictionSystem extends RatingSystem {
         double team1ModifiedCount = 0.0;
         double team2ModifiedCount = 0.0;
 
-//        double team1OffEff = 1.0;
-//        double team1DefEff = 1.0;
-//        double team2OffEff = 1.0;
-//        double team2DefEff = 1.0;
         for (int year = this.year; year >= this.year - statNumRecentYears; year--) {
             if (allTeams.containsKey(year)) {
                 double team1RecencyModifier = Math.pow(statRecencyBias, (this.year - year) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
@@ -237,21 +233,13 @@ public class HistoricalPredictionSystem extends RatingSystem {
                 if (allTeams.get(year).containsKey(team1) && allTeams.get(year).get(team1).getNumberOfGames() > 0) {
                     team1Years.put(year, team1RecencyModifier);
                     team1ModifiedCount += team1RecencyModifier;
-//                    team1OffEff *= Math.pow(allTeams.get(year).get(team1).offenseEfficiency(), recencyModifier);
-//                    team1DefEff *= Math.pow(allTeams.get(year).get(team1).defenseEfficiency(), recencyModifier);
                 }
                 if (allTeams.get(year).containsKey(team2) && allTeams.get(year).get(team2).getNumberOfGames() > 0) {
                     team2Years.put(year, team2RecencyModifier);
                     team2ModifiedCount += team2RecencyModifier;
-//                    team2OffEff *= Math.pow(allTeams.get(year).get(team2).offenseEfficiency(), recencyModifier);
-//                    team2DefEff *= Math.pow(allTeams.get(year).get(team2).defenseEfficiency(), recencyModifier);
                 }
             }
         }
-//        team1OffEff = Math.pow(team1OffEff, 1.0 / team1ModifiedCount);
-//        team1DefEff = Math.pow(team1DefEff, 1.0 / team1ModifiedCount);
-//        team2OffEff = Math.pow(team2OffEff, 1.0 / team2ModifiedCount);
-//        team2DefEff = Math.pow(team2DefEff, 1.0 / team2ModifiedCount);
 
         Map<String, Double> team1Similarities = new HashMap<>();
         Map<String, Double> team2Similarities = new HashMap<>();
@@ -300,12 +288,6 @@ public class HistoricalPredictionSystem extends RatingSystem {
         avgScore /= gameSimilarities.size();
 
         Vector gameSimilaritiesVector = new Vector(gameSimilarities);
-//        double cutoff = gameSimilaritiesVector.percentile(0.9);
-//        for (int i = 0; i < gameSimilaritiesVector.size(); i++) {
-//            if (gameSimilaritiesVector.get(i) < cutoff) {
-//                gameSimilaritiesVector.set(i, 0.0);
-//            }
-//        }
         gameSimilaritiesVector = gameSimilaritiesVector.modifiedSoftmax();
 
         Vector team1ScoresVector = new Vector(team1Scores);
@@ -351,12 +333,9 @@ public class HistoricalPredictionSystem extends RatingSystem {
         if (Double.isNaN(team1RawScore)) team1RawScore = avgScore;
         if (Double.isNaN(team2RawScore)) team2RawScore = avgScore;
 
-//        System.out.println(team1RawScore + " " + Math.pow(team1Off / team2Def, serPow));
-//        System.out.println(team2RawScore + " " + Math.pow(team2Off / team1Def, serPow));
         double team1ExpectedScore = team1RawScore * Math.pow(team1Off / team2Def, serPow);
         double team2ExpectedScore = team2RawScore * Math.pow(team2Off / team1Def, serPow);
 
-//        double odds = team1ExpectedScore / (team1ExpectedScore + team2ExpectedScore);
         double odds = 1.0 / (1.0 + Math.exp(4 * (team2ExpectedScore - team1ExpectedScore) / (team1ExpectedScore + team2ExpectedScore)));
 
         return new Prediction(team1, team2, odds, team1ExpectedScore, team2ExpectedScore, location);
@@ -364,6 +343,10 @@ public class HistoricalPredictionSystem extends RatingSystem {
 
     public boolean hasTeam(String team) {
         return teams.containsKey(team);
+    }
+
+    public void printTeamStats() {
+
     }
 
 
@@ -407,7 +390,7 @@ public class HistoricalPredictionSystem extends RatingSystem {
         }
     }
 
-    public Prediction predictVersusAverage(String team1, Location location) {
+    private Prediction predictVersusAverage(String team1, Location location) {
         // VARIABLES
         int statNumRecentYears = 1;
         double statRecencyBias = 0.9;

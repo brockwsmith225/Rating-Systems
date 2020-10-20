@@ -5,11 +5,12 @@ import ratingsystems.common.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.ratingsystem.RatingSystem;
+import ratingsystems.hps.command.GameStats;
 
 import java.io.FileNotFoundException;
 import java.util.Map;
 
-public class HistoricalPredictionSystemRunner extends Runner {
+public class HistoricalPredictionSystemRunner extends Runner<HistoricalPredictionSystem> {
 
     public HistoricalPredictionSystemRunner() {
         super();
@@ -18,12 +19,13 @@ public class HistoricalPredictionSystemRunner extends Runner {
         //Add HPS specific parameters here
 
         //Add HPS specific commands here
+        commands.put("game-stats", new GameStats());
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
+    public HistoricalPredictionSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         try {
-            RatingSystem ratingSystem;
+            HistoricalPredictionSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
                 if (parameters.containsKey("START_YEAR") && (int) parameters.getValue("START_YEAR") < (int) parameters.getValue("YEAR")) {
                     int[] years = new int[(int) parameters.getValue("YEAR") - (int) parameters.getValue("START_YEAR") + 1];
@@ -57,9 +59,9 @@ public class HistoricalPredictionSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year) {
+    public HistoricalPredictionSystem loadNewRatingSystem(Interpreter interpreter, int year) {
         try {
-            RatingSystem ratingSystem = new HistoricalPredictionSystem(interpreter, year);
+            HistoricalPredictionSystem ratingSystem = new HistoricalPredictionSystem(interpreter, year);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {
@@ -68,9 +70,9 @@ public class HistoricalPredictionSystemRunner extends Runner {
     }
 
     @Override
-    public RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
+    public HistoricalPredictionSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
         try {
-            RatingSystem ratingSystem = new HistoricalPredictionSystem(interpreter, year, week);
+            HistoricalPredictionSystem ratingSystem = new HistoricalPredictionSystem(interpreter, year, week);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {

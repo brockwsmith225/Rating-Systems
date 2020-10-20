@@ -15,12 +15,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public abstract class Runner {
+public abstract class Runner<T extends RatingSystem> {
     public String prefix;
 
     protected HashMap<String, Interpreter> interpreters;
     protected HashMap<String, Command> commands;
-    protected HashMap<Parameters, RatingSystem> ratingSystems;
+    protected HashMap<Parameters, T> ratingSystems;
 
     /**
      * Creates a new Runner object
@@ -82,7 +82,7 @@ public abstract class Runner {
      *
      * @return the rating system needed for the given command
      */
-    public RatingSystem loadRatingSystem(Map<String, Boolean> options, Parameters parameters) {
+    public T loadRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         boolean cleanFlag = options.get("CLEAN");
 
         if (cleanFlag || !ratingSystems.containsKey(parameters)) {
@@ -100,7 +100,7 @@ public abstract class Runner {
      * @param week the week of the rating system to return
      * @return the rating system needed for the given command
      */
-    public RatingSystem loadRatingSystem(Map<String, Boolean> options, Parameters parameters, int week) {
+    public T loadRatingSystem(Map<String, Boolean> options, Parameters parameters, int week) {
         boolean cleanFlag = options.get("CLEAN");
 
         parameters.setParameterValue("WEEK", week);
@@ -111,7 +111,7 @@ public abstract class Runner {
         return ratingSystems.get(parameters);
     }
 
-    public abstract RatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters);
+    public abstract T loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters);
 
     /**
      * Loads a new rating system with the given interpreter and year
@@ -121,7 +121,7 @@ public abstract class Runner {
      * @return a new rating system
      */
     @Deprecated
-    public abstract RatingSystem loadNewRatingSystem(Interpreter interpreter, int year);
+    public abstract T loadNewRatingSystem(Interpreter interpreter, int year);
 
     /**
      * Loads a new rating system with the given interpreter, year, and week
@@ -132,7 +132,7 @@ public abstract class Runner {
      * @return a new rating system
      */
     @Deprecated
-    public abstract RatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week);
+    public abstract T loadNewRatingSystem(Interpreter interpreter, int year, int week);
 
     public java.util.Set<String> getLeagues() {
         return interpreters.keySet();
