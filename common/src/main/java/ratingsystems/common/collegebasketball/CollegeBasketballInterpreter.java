@@ -30,6 +30,14 @@ public class CollegeBasketballInterpreter extends Interpreter {
 
         addDefensiveStatistics(teams);
 
+        data = new Scanner(new File("data/cbb-teams.csv"));
+        while (data.hasNext()) {
+            String team = data.nextLine().replace("\n", "").replace(",", "");
+            if (!teams.containsKey(team)) {
+                teams.put(team, new Team(team, "", "", year));
+            }
+        }
+
         return teams;
     }
 
@@ -51,6 +59,14 @@ public class CollegeBasketballInterpreter extends Interpreter {
         }
 
         addDefensiveStatistics(teams);
+
+        data = new Scanner(new File("data/cbb-teams.csv"));
+        while (data.hasNext()) {
+            String team = data.nextLine().replace("\n", "").replace(",", "");
+            if (!teams.containsKey(team)) {
+                teams.put(team, new Team(team, "", "", year));
+            }
+        }
 
         return teams;
     }

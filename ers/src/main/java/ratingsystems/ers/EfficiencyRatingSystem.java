@@ -4,20 +4,21 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Location;
-import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.ratingsystem.Prediction;
 import ratingsystems.common.ratingsystem.RatingSystem;
-import ratingsystems.ser.SimpleEfficiencyRating;
-import ratingsystems.ser.SERTeam;
+import ratingsystems.sdr.SimpleDifferenceRating;
 
 import java.io.FileNotFoundException;
 import java.util.*;
 
 public class EfficiencyRatingSystem extends RatingSystem {
 
-    private double ppg;
+    private static final double RECENCY_BIAS = 0.75;
+    private static final int NUM_OF_YEARS = 1;
+
+    private double ppg, ppgStdDev;
     private Map<String, ERSTeam> teams;
-    private SimpleEfficiencyRating[] ser;
+    private SimpleDifferenceRating[] ser;
 
     public EfficiencyRatingSystem() {
         super();
@@ -57,24 +58,24 @@ public class EfficiencyRatingSystem extends RatingSystem {
 
     @Override
     public void setup() {
-        int prevYears = 3;
+        int prevYears = NUM_OF_YEARS;
         try {
             if (this.interpreter.hasData(this.year) && this.week != 0) {
-                ser = new SimpleEfficiencyRating[prevYears + 1];
+                ser = new SimpleDifferenceRating[prevYears + 1];
                 for (int i = 0; i < ser.length - 1; i++) {
-                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
+                    this.ser[i] = new SimpleDifferenceRating(this.interpreter, this.year - (prevYears - i));
                     this.ser[i].setup();
                 }
                 if (this.week == -1) {
-                    this.ser[ser.length - 1] = new SimpleEfficiencyRating(this.interpreter, this.year);
+                    this.ser[ser.length - 1] = new SimpleDifferenceRating(this.interpreter, this.year);
                 } else {
-                    this.ser[ser.length - 1] = new SimpleEfficiencyRating(this.interpreter, this.year, this.week);
+                    this.ser[ser.length - 1] = new SimpleDifferenceRating(this.interpreter, this.year, this.week);
                 }
                 this.ser[ser.length - 1].setup();
             } else {
-                ser = new SimpleEfficiencyRating[prevYears];
+                ser = new SimpleDifferenceRating[prevYears];
                 for (int i = 0; i < ser.length; i++) {
-                    this.ser[i] = new SimpleEfficiencyRating(this.interpreter, this.year - (prevYears - i));
+                    this.ser[i] = new SimpleDifferenceRating(this.interpreter, this.year - (prevYears - i));
                     this.ser[i].setup();
                 }
             }
@@ -87,8 +88,6 @@ public class EfficiencyRatingSystem extends RatingSystem {
         calculateEfficiencies();
 
         rankTeams();
-
-        calculateOtherEfficiences();
     }
 
     @Override
@@ -97,18 +96,61 @@ public class EfficiencyRatingSystem extends RatingSystem {
             return new Prediction(team1, team2, 0.5);
         }
 
-        double team1OffensiveEfficiency = teams.get(team1).getOffensiveEfficiency();
-        double team1DefensiveEfficiency = teams.get(team1).getDefensiveEfficiency();
-        double team2OffensiveEfficiency = teams.get(team2).getOffensiveEfficiency();
-        double team2DefensiveEfficiency = teams.get(team2).getDefensiveEfficiency();
+        double team1OffensiveEfficiency = teams.get(team1).getOffensiveRating();
+        double team1DefensiveEfficiency = teams.get(team1).getDefensiveRating();
+        double team2OffensiveEfficiency = teams.get(team2).getOffensiveRating();
+        double team2DefensiveEfficiency = teams.get(team2).getDefensiveRating();
 
-        double team1Production = Math.sqrt(team1OffensiveEfficiency / team2DefensiveEfficiency);
-        double team2Production = Math.sqrt(team2OffensiveEfficiency / team1DefensiveEfficiency);
+        double team1Production = team1OffensiveEfficiency + team2DefensiveEfficiency;
+        double team2Production = team2OffensiveEfficiency + team1DefensiveEfficiency;
 
-        double team1Score = team1Production * ppg;
-        double team2Score = team2Production * ppg;
+        double team1Score = team1Production + ppg;
+        double team2Score = team2Production + ppg;
 
-        double odds = cdf(0, Math.log(team2Production) - Math.log(team1Production), 0.6);
+        double team1PPGStdDev = 0.0;
+        double team1OPPGStdDev = 0.0;
+        double team1Count = 0.0;
+        double team2PPGStdDev = teams.get(team2).getPointsPerGameStDev();
+        double team2OPPGStdDev = teams.get(team2).getPointsAllowedPerGameStDev();
+        double team2Count = 0.0;
+        for (int i = 0; i < ser.length; i++) {
+            if (ser[i].hasTeam(team1)) {
+                double team1RecencyModifier = Math.pow(RECENCY_BIAS, (ser.length - i - 1) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
+                double team1GamesModifier = 1 - Math.exp(-1 * ser[i].getTeam(team1).getNumberOfGames());
+                team1PPGStdDev += ser[i].getSDRTeam(team1).getPointsPerGameStDev() * team1RecencyModifier * team1GamesModifier;
+                team1OPPGStdDev += ser[i].getSDRTeam(team1).getPointsAllowedPerGameStDev() * team1RecencyModifier * team1GamesModifier;
+                team1Count += team1RecencyModifier * team1GamesModifier;
+            }
+            if (ser[i].hasTeam(team2)) {
+                double team2RecencyModifier = Math.pow(RECENCY_BIAS, (ser.length - i - 1) * (this.teams.get(team2).getNumberOfGames() == 0 ? 1 : this.teams.get(team2).getNumberOfGames()));
+                double team2GamesModifier = 1 - Math.exp(-1 * ser[i].getTeam(team2).getNumberOfGames());
+                team2PPGStdDev += ser[i].getSDRTeam(team2).getPointsPerGameStDev() * team2RecencyModifier * team2GamesModifier;
+                team2OPPGStdDev += ser[i].getSDRTeam(team2).getPointsAllowedPerGameStDev() * team2RecencyModifier * team2GamesModifier;
+                team2Count += team2RecencyModifier * team2GamesModifier;
+            }
+        }
+        team1PPGStdDev /= team1Count;
+        team1OPPGStdDev /= team1Count;
+        team2PPGStdDev /= team2Count;
+        team2OPPGStdDev /= team2Count;
+
+        if (Double.isNaN(team1PPGStdDev)) {
+            team1PPGStdDev = ppgStdDev;
+        }
+        if (Double.isNaN(team1OPPGStdDev)) {
+            team1OPPGStdDev = ppgStdDev;
+        }
+        if (Double.isNaN(team2PPGStdDev)) {
+            team2PPGStdDev = ppgStdDev;
+        }
+        if (Double.isNaN(team2OPPGStdDev)) {
+            team2OPPGStdDev = ppgStdDev;
+        }
+
+        double team1ProductionStdDev = (team1PPGStdDev + team2OPPGStdDev) / 2;
+        double team2ProductionStdDev = (team2PPGStdDev + team1OPPGStdDev) / 2;
+
+        double odds = cdf(0, team2Production - team1Production, Math.sqrt(Math.pow(team1ProductionStdDev, 2) + Math.pow(team2ProductionStdDev, 2)));
 
         return new Prediction(team1, team2, odds, team1Score, team2Score);
     }
@@ -180,135 +222,29 @@ public class EfficiencyRatingSystem extends RatingSystem {
      * Calculates the season efficiencies of every team
      */
     private void calculateEfficiencies() {
+        double games = 0.0;
         for (String team : teams.keySet()) {
-            double offensiveEfficiency = 1.0;
-            double defensiveEfficiency = 1.0;
-            double weightedCount = 1.0;
+            double offensiveEfficiency = 0.0;
+            double defensiveEfficiency = 0.0;
+            double weightedCount = 0.0;
             for (int i = 0; i < ser.length; i++) {
-                double recencyModifier = Math.pow(0.9, (ser.length - i - 1) * (this.teams.get(team).getNumberOfGames() == 0 ? 1 : this.teams.get(team).getNumberOfGames()));
                 if (ser[i].hasTeam(team)) {
-                    offensiveEfficiency *= Math.pow(ser[i].getSERTeam(team).getOffensiveRating(), recencyModifier);
-                    defensiveEfficiency *= Math.pow(ser[i].getSERTeam(team).getDefensiveRating(), recencyModifier);
-                    weightedCount += recencyModifier;
-                }
-            }
-            teams.get(team).setOffensiveEfficiency(Math.pow(offensiveEfficiency, 1.0 / weightedCount));
-            teams.get(team).setDefensiveEfficiency(Math.pow(defensiveEfficiency, 1.0 / weightedCount));
-            teams.get(team).calculateEfficiency();
-            teams.get(team).setOffensiveRating(ppg * teams.get(team).getOffensiveEfficiency());
-            teams.get(team).setDefensiveRating(ppg / teams.get(team).getDefensiveEfficiency());
-            teams.get(team).calculateRating();
-        }
-    }
-
-    private void calculateOtherEfficiences() {
-        for (SERTeam team : teams.values()) {
-            double quad1Efficiency = 1.0;
-            int quad1Games = 0;
-            double quad2Efficiency = 1.0;
-            int quad2Games = 0;
-            double quad3Efficiency = 1.0;
-            int quad3Games = 0;
-            double quad4Efficiency = 1.0;
-            int quad4Games = 0;
-            double homeEfficiency = 1.0;
-            int homeGames = 0;
-            double awayEfficiency = 1.0;
-            int awayGames = 0;
-            for (Game game : team.getGames()) {
-                double singleGameEff = calculateOffensiveEfficiency(game) / calculateDefensiveEfficiency(game);
-                int opponentRank = 0;
-                for (; opponentRank < rankedTeams.size(); opponentRank++) {
-                    if (rankedTeams.get(opponentRank).getName().equals(game.getOpponent())) {
-                        break;
+                    double recencyModifier = Math.pow(RECENCY_BIAS, (ser.length - i - 1) * (this.teams.get(team).getNumberOfGames() == 0 ? 1 : this.teams.get(team).getNumberOfGames()));
+                    double gamesModifier = 1 - Math.exp(-1 * ser[i].getTeam(team).getNumberOfGames());
+                    offensiveEfficiency += ser[i].getSDRTeam(team).getOffensiveRating() * recencyModifier * gamesModifier;
+                    defensiveEfficiency += ser[i].getSDRTeam(team).getDefensiveRating() * recencyModifier * gamesModifier;
+                    weightedCount += recencyModifier * gamesModifier;
+                    for (Game game : ser[i].getTeam(team).getGames()) {
+                        ppgStdDev += Math.pow(game.getScore() - ppg, 2);
+                        games++;
                     }
                 }
-                if ((opponentRank < 30 && game.getLocation() == Location.HOME)
-                        || (opponentRank < 50 && game.getLocation() == Location.NEUTRAL)
-                        || (opponentRank < 75 && game.getLocation() == Location.AWAY)) {
-                    quad1Efficiency *= singleGameEff;
-                    quad1Games++;
-                } else if ((opponentRank < 75 && game.getLocation() == Location.HOME)
-                        || (opponentRank < 100 && game.getLocation() == Location.NEUTRAL)
-                        || (opponentRank < 135 && game.getLocation() == Location.AWAY)) {
-                    quad2Efficiency *= singleGameEff;
-                    quad2Games++;
-                } else if ((opponentRank < 160 && game.getLocation() == Location.HOME)
-                        || (opponentRank < 200 && game.getLocation() == Location.NEUTRAL)
-                        || (opponentRank < 240 && game.getLocation() == Location.AWAY)) {
-                    quad3Efficiency *= singleGameEff;
-                    quad3Games++;
-                } else {
-                    quad4Efficiency *= singleGameEff;
-                    quad4Games++;
-                }
-                if (game.getLocation() == Location.HOME) {
-                    homeEfficiency *= singleGameEff;
-                    homeGames++;
-                } else {
-                    awayEfficiency *= singleGameEff;
-                    awayGames++;
-                }
             }
-            if (quad1Games > 0) {
-                team.setQuad1Rating(Math.pow(quad1Efficiency, 1.0 / quad1Games));
-            } else {
-                team.setQuad1Rating(1.0);
-            }
-            if (quad2Games > 0) {
-                team.setQuad2Rating(Math.pow(quad2Efficiency, 1.0 / quad2Games));
-            } else {
-                team.setQuad2Rating(1.0);
-            }
-            if (quad3Games > 0) {
-                team.setQuad3Rating(Math.pow(quad3Efficiency, 1.0 / quad3Games));
-            } else {
-                team.setQuad3Rating(1.0);
-            }
-            if (quad4Games > 0) {
-                team.setQuad4Rating(Math.pow(quad4Efficiency, 1.0 / quad4Games));
-            } else {
-                team.setQuad4Rating(1.0);
-            }
-            if (homeGames > 0) {
-                team.setHomeRating(Math.pow(homeEfficiency, 1.0 / homeGames));
-            } else {
-                team.setHomeRating(1.0);
-            }
-            if (awayGames > 0) {
-                team.setAwayRating(Math.pow(awayEfficiency, 1.0 / awayGames));
-            } else {
-                team.setAwayRating(1.0);
-            }
+            teams.get(team).setOffensiveRating(offensiveEfficiency / weightedCount);
+            teams.get(team).setDefensiveRating(defensiveEfficiency / weightedCount);
+            teams.get(team).calculateRating();
         }
-    }
-
-    /**
-     * Calculates the offensive efficiency of a single team during a single game
-     *
-     * @param game the game for which the offensive efficiency will be calculated
-     * @return the offensive efficiency of the team from the game
-     */
-    private double calculateOffensiveEfficiency(Game game) {
-        double offensiveEfficiency = game.getScore() / teams.get(game.getOpponent()).getPointsAllowedPerGame();
-        if (Double.isNaN(offensiveEfficiency)) return 1.0;
-        return Math.exp(offensiveEfficiency - 1);
-    }
-
-    /**
-     * Calculates the defensive efficiency of a single team during a single game
-     *
-     * @param game the game for which the defensive efficiency will be calculated
-     * @return the defensive efficiency of the team from the game
-     */
-    private double calculateDefensiveEfficiency(Game game) {
-        double defensiveEfficiency = game.getOpponentScore() / teams.get(game.getOpponent()).getPointsPerGame();
-        if (Double.isNaN(defensiveEfficiency)) return 1.0;
-        return 1.0 / Math.exp(defensiveEfficiency - 1);
-    }
-
-    private double sigmoid(double x) {
-        return 1 / (1 + Math.exp(-1 * x));
+        ppgStdDev = Math.sqrt(ppgStdDev / games);
     }
 
     private static double pdf(double x) {
