@@ -10,10 +10,10 @@
         <module name="api" />
         <module name="common" />
         <module name="ser" />
-        <module name="rrs" />
+        <module name="rhps" />
         <module name="ers" />
         <module name="hps" />
-        <module name="rhps" />
+        <module name="rrs" />
       </profile>
     </annotationProcessing>
   </component>

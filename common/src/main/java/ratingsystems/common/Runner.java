@@ -44,6 +44,7 @@ public abstract class Runner<T extends RatingSystem> {
         commands.put("predict", new Predict());
         commands.put("play", new Play());
         commands.put("rank", new Rank());
+        commands.put("standings", new Standings());
         commands.put("predictions", new Predictions());
         commands.put("bracket", new EvaluateBracket());
         commands.put("fetch-bracket", new FetchBracket());

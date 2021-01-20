@@ -126,6 +126,52 @@ public abstract class RatingSystem {
         return rankings.toString();
     }
 
+    public String printTeamStandings(boolean prettyPrint, boolean allStats) {
+        Set<String> conferences = new HashSet<>();
+        for (String team : teams.keySet()) {
+            conferences.add(teams.get(team).getConference());
+        }
+        StringBuilder standings = new StringBuilder();
+        for (String conference : conferences) {
+            if (prettyPrint) {
+                standings.append(prettyPrintStandingsHeader(conference, allStats));
+                standings.append("\n");
+                standings.append(prettyPrintColumnHeaders(allStats));
+                standings.append("\n");
+            } else {
+                standings.append(printStandingsHeader(conference));
+                standings.append("\n");
+            }
+            int rank = 1;
+            int standing = 1;
+            int s = 0;
+            for (int i = 0; i < rankedTeams.size(); i++) {
+                if (i > 0 && rankedTeams.get(i).getRating() != rankedTeams.get(i - 1).getRating()) {
+                    rank = i + 1;
+                    standing = s + 1;
+                }
+                if (rankedTeams.get(i).getConference().equals(conference)) {
+                    if (prettyPrint) {
+                        standings.append(Terminal.rightJustify(standing + " (" + rank + ")", 8));
+                        standings.append(". ");
+                        standings.append(prettyPrintTeam(rankedTeams.get(i).getName() + (!cumulative ? "-" + rankedTeams.get(i).getYear() : ""), allStats));
+                        standings.append("\n");
+                    } else {
+                        standings.append(standing);
+                        standings.append("\t");
+                        standings.append(rank);
+                        standings.append("\t");
+                        standings.append(printTeam(rankedTeams.get(i).getName() + (!cumulative ? "-" + rankedTeams.get(i).getYear() : ""), allStats));
+                        standings.append("\n");
+                    }
+                    s++;
+                }
+            }
+            standings.append("\n");
+        }
+        return standings.toString();
+    }
+
     public List<Team> getTeamRankings() {
         return List.copyOf(rankedTeams);
     }
@@ -229,9 +275,13 @@ public abstract class RatingSystem {
         StringBuilder header = new StringBuilder();
         header.append("---------------\n");
         if (week < 0) {
-            header.append(" " + year);
+            header.append(" ");
+            header.append(year);
         } else {
-            header.append(" " + year + " Week " + week);
+            header.append(" ");
+            header.append(year);
+            header.append(" Week ");
+            header.append(week);
         }
         header.append("\n---------------\n");
         return header.toString();
@@ -255,13 +305,62 @@ public abstract class RatingSystem {
     }
 
     /**
+     * Returns the header to be printed when printing team rankings
+     *
+     * @return the header to be printed when printing team rankings
+     */
+    protected String printStandingsHeader(String conference) {
+        StringBuilder header = new StringBuilder();
+        header.append("---------------\n");
+        if (week < 0) {
+            header.append(" ");
+            header.append(conference);
+            header.append(" ");
+            header.append(year);
+        } else {
+            header.append(" ");
+            header.append(conference);
+            header.append(" ");
+            header.append(year);
+            header.append(" Week ");
+            header.append(week);
+        }
+        header.append("\n---------------\n");
+        return header.toString();
+    }
+
+    /**
+     * Returns a pretty print version of the header to be printed when printing team rankings
+     *
+     * @return a pretty print version of the header to be printed when printing team rankings
+     */
+    protected String prettyPrintStandingsHeader(String conference, boolean allStats) {
+        StringBuilder header = new StringBuilder();
+        header.append("----------------------------------------------------------------------------------\n");
+        if (week < 0) {
+            header.append(Terminal.centerJustify(conference + " " + Integer.toString(year), 82));
+        } else {
+            header.append(Terminal.centerJustify(conference + " " + year + " Week " + week, 82));
+        }
+        header.append("\n----------------------------------------------------------------------------------");
+        return header.toString();
+    }
+
+    /**
      * Returns a pretty print version of the column headers to be printed when printing team rankings
      *
      * @return a pretty print version of the column headers to be printed when printing team rankings
      */
     protected String prettyPrintColumnHeaders(boolean allStats) {
         StringBuilder header = new StringBuilder();
-        header.append("     " + Terminal.leftJustify("Team", 50) + "   " + (!cumulative ? "Year" : "") + "   " + Terminal.leftJustify("Rating", 10) + "   " + Terminal.leftJustify("Record", 10));
+        header.append("     ");
+        header.append(Terminal.leftJustify("Team", 50));
+        header.append("   ");
+        header.append(!cumulative ? "Year" : "");
+        header.append("   ");
+        header.append(Terminal.leftJustify("Rating", 10));
+        header.append("   ");
+        header.append(Terminal.leftJustify("Record", 10));
         return header.toString();
     }
 
