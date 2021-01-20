@@ -4,15 +4,13 @@ import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.Runner;
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
-import ratingsystems.common.ratingsystem.RatingSystem;
-import ratingsystems.ers.EfficiencyRatingSystem;
 
 import java.io.FileNotFoundException;
 import java.util.Map;
 
-public class EfficiencyRatingSystemRunner extends Runner<EfficiencyRatingSystem> {
+public class DifferencePredictionSystemRunner extends Runner<DifferencePredictionSystem> {
 
-    public EfficiencyRatingSystemRunner() {
+    public DifferencePredictionSystemRunner() {
         super();
         prefix = " [ERS] ";
 
@@ -22,21 +20,21 @@ public class EfficiencyRatingSystemRunner extends Runner<EfficiencyRatingSystem>
     }
 
     @Override
-    public EfficiencyRatingSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
+    public DifferencePredictionSystem loadNewRatingSystem(Map<String, Boolean> options, Parameters parameters) {
         try {
-            EfficiencyRatingSystem ratingSystem;
+            DifferencePredictionSystem ratingSystem;
             if (parameters.containsKey("WEEK")) {
                 if (parameters.containsKey("START_YEAR") && (int) parameters.getValue("START_YEAR") < (int) parameters.getValue("YEAR")) {
                     int[] years = new int[(int) parameters.getValue("YEAR") - (int) parameters.getValue("START_YEAR") + 1];
                     for (int i = 0; i < years.length; i++) {
                         years[i] = i + (int) parameters.getValue("START_YEAR");
                     }
-                    ratingSystem = new EfficiencyRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                    ratingSystem = new DifferencePredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                             years,
                             (int) parameters.getValue("WEEK"),
                             options.get("CUMULATIVE"));
                 } else {
-                    ratingSystem = new EfficiencyRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                    ratingSystem = new DifferencePredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                             (int) parameters.getValue("YEAR"),
                             (int) parameters.getValue("WEEK"));
                 }
@@ -45,11 +43,11 @@ public class EfficiencyRatingSystemRunner extends Runner<EfficiencyRatingSystem>
                 for (int i = 0; i < years.length; i++) {
                     years[i] = i + (int) parameters.getValue("START_YEAR");
                 }
-                ratingSystem = new EfficiencyRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                ratingSystem = new DifferencePredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                         years,
                         options.get("CUMULATIVE"));
             } else {
-                ratingSystem = new EfficiencyRatingSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
+                ratingSystem = new DifferencePredictionSystem(interpreters.get((String) parameters.getValue("LEAGUE")),
                         (int) parameters.getValue("YEAR"));
             }
             ratingSystem.setup();
@@ -60,9 +58,9 @@ public class EfficiencyRatingSystemRunner extends Runner<EfficiencyRatingSystem>
     }
 
     @Override
-    public EfficiencyRatingSystem loadNewRatingSystem(Interpreter interpreter, int year) {
+    public DifferencePredictionSystem loadNewRatingSystem(Interpreter interpreter, int year) {
         try {
-            EfficiencyRatingSystem ratingSystem = new EfficiencyRatingSystem(interpreter, year);
+            DifferencePredictionSystem ratingSystem = new DifferencePredictionSystem(interpreter, year);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {
@@ -71,9 +69,9 @@ public class EfficiencyRatingSystemRunner extends Runner<EfficiencyRatingSystem>
     }
 
     @Override
-    public EfficiencyRatingSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
+    public DifferencePredictionSystem loadNewRatingSystem(Interpreter interpreter, int year, int week) {
         try {
-            EfficiencyRatingSystem ratingSystem = new EfficiencyRatingSystem(interpreter, year, week);
+            DifferencePredictionSystem ratingSystem = new DifferencePredictionSystem(interpreter, year, week);
             ratingSystem.setup();
             return ratingSystem;
         } catch (FileNotFoundException e) {
@@ -82,7 +80,7 @@ public class EfficiencyRatingSystemRunner extends Runner<EfficiencyRatingSystem>
     }
 
     public static void main(String[] args) {
-        new Terminal(new EfficiencyRatingSystemRunner()).start();
+        new Terminal(new DifferencePredictionSystemRunner()).start();
     }
 
 }

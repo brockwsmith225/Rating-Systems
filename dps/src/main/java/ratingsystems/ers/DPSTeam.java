@@ -5,8 +5,8 @@ import ratingsystems.common.interpreter.Team;
 import ratingsystems.sdr.SDRTeam;
 import ratingsystems.ser.SERTeam;
 
-public class ERSTeam extends SDRTeam {
-    public ERSTeam(Team team) {
+public class DPSTeam extends SDRTeam {
+    public DPSTeam(Team team) {
         super(team);
         this.team = team;
     }

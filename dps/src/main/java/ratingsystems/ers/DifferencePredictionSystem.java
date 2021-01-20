@@ -11,48 +11,48 @@ import ratingsystems.sdr.SimpleDifferenceRating;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class EfficiencyRatingSystem extends RatingSystem {
+public class DifferencePredictionSystem extends RatingSystem {
 
     private static final double RECENCY_BIAS = 0.75;
     private static final int NUM_OF_YEARS = 1;
 
     private double ppg, ppgStdDev;
-    private Map<String, ERSTeam> teams;
+    private Map<String, DPSTeam> teams;
     private SimpleDifferenceRating[] ser;
 
-    public EfficiencyRatingSystem() {
+    public DifferencePredictionSystem() {
         super();
     }
 
-    public EfficiencyRatingSystem(Interpreter interpreter, int year) throws FileNotFoundException {
+    public DifferencePredictionSystem(Interpreter interpreter, int year) throws FileNotFoundException {
         super(interpreter, year);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new ERSTeam(super.teams.get(team)));
+            this.teams.put(team, new DPSTeam(super.teams.get(team)));
         }
     }
 
-    public EfficiencyRatingSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
+    public DifferencePredictionSystem(Interpreter interpreter, int year, int week) throws FileNotFoundException {
         super(interpreter, year, week);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new ERSTeam(super.teams.get(team)));
+            this.teams.put(team, new DPSTeam(super.teams.get(team)));
         }
     }
 
-    public EfficiencyRatingSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
+    public DifferencePredictionSystem(Interpreter interpreter, int[] years, boolean cumulative) throws FileNotFoundException {
         super(interpreter, years, cumulative);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new ERSTeam(super.teams.get(team)));
+            this.teams.put(team, new DPSTeam(super.teams.get(team)));
         }
     }
 
-    public EfficiencyRatingSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
+    public DifferencePredictionSystem(Interpreter interpreter, int[] years, int week, boolean cumulative) throws FileNotFoundException {
         super(interpreter, years, week, cumulative);
         this.teams = new HashMap<>();
         for (String team : super.teams.keySet()) {
-            this.teams.put(team, new ERSTeam(super.teams.get(team)));
+            this.teams.put(team, new DPSTeam(super.teams.get(team)));
         }
     }
 
