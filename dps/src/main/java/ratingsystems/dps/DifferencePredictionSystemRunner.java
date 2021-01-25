@@ -1,4 +1,4 @@
-package ratingsystems.ers;
+package ratingsystems.dps;
 
 import ratingsystems.common.parameters.Parameters;
 import ratingsystems.common.Runner;
@@ -12,7 +12,7 @@ public class DifferencePredictionSystemRunner extends Runner<DifferencePredictio
 
     public DifferencePredictionSystemRunner() {
         super();
-        prefix = " [ERS] ";
+        prefix = " [DPS] ";
 
         //Add RRS specific parameters here
 

@@ -24,6 +24,7 @@
         <module>rhps</module>
         <module>dps</module>
         <module>sdr</module>
+        <module>eps</module>
     </modules>
     
 </project>

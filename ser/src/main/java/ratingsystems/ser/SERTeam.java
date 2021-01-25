@@ -1,6 +1,7 @@
 package ratingsystems.ser;
 
 import ratingsystems.common.interpreter.CustomTeam;
+import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
 
 public class SERTeam extends CustomTeam {
@@ -15,7 +16,8 @@ public class SERTeam extends CustomTeam {
     }
 
     public void calculateRating() {
-        team.setRating(Math.sqrt(this.offensiveRating * this.defensiveRating));
+        team.setRating(this.offensiveRating * this.defensiveRating);
+        //team.setRating(Math.sqrt(this.offensiveRating * this.defensiveRating));
     }
 
     public void setOffensiveRating(double offensiveRating) {
@@ -32,6 +34,24 @@ public class SERTeam extends CustomTeam {
         } else {
             this.defensiveRating = defensiveRating;
         }
+    }
+
+    public double getPointsPerGameStDev() {
+        double std = 0.0;
+        double mean = this.getPointsPerGame();
+        for (Game game : this.getGames()) {
+            std += Math.pow(game.getScore() - mean, 2);
+        }
+        return Math.sqrt(std / this.getNumberOfGames());
+    }
+
+    public double getPointsAllowedPerGameStDev() {
+        double std = 0.0;
+        double mean = this.getPointsAllowedPerGame();
+        for (Game game : this.getGames()) {
+            std += Math.pow(game.getOpponentScore() - mean, 2);
+        }
+        return Math.sqrt(std / this.getNumberOfGames());
     }
 
     public void setQuad1Rating(double quad1Rating) {

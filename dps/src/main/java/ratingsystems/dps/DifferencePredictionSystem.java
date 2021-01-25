@@ -1,4 +1,4 @@
-package ratingsystems.ers;
+package ratingsystems.dps;
 
 import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Game;
@@ -18,7 +18,7 @@ public class DifferencePredictionSystem extends RatingSystem {
 
     private double ppg, ppgStdDev;
     private Map<String, DPSTeam> teams;
-    private SimpleDifferenceRating[] ser;
+    private SimpleDifferenceRating[] sdr;
 
     public DifferencePredictionSystem() {
         super();
@@ -61,29 +61,29 @@ public class DifferencePredictionSystem extends RatingSystem {
         int prevYears = NUM_OF_YEARS;
         try {
             if (this.interpreter.hasData(this.year) && this.week != 0) {
-                ser = new SimpleDifferenceRating[prevYears + 1];
-                for (int i = 0; i < ser.length - 1; i++) {
-                    this.ser[i] = new SimpleDifferenceRating(this.interpreter, this.year - (prevYears - i));
-                    this.ser[i].setup();
+                sdr = new SimpleDifferenceRating[prevYears + 1];
+                for (int i = 0; i < sdr.length - 1; i++) {
+                    this.sdr[i] = new SimpleDifferenceRating(this.interpreter, this.year - (prevYears - i));
+                    this.sdr[i].setup();
                 }
                 if (this.week == -1) {
-                    this.ser[ser.length - 1] = new SimpleDifferenceRating(this.interpreter, this.year);
+                    this.sdr[sdr.length - 1] = new SimpleDifferenceRating(this.interpreter, this.year);
                 } else {
-                    this.ser[ser.length - 1] = new SimpleDifferenceRating(this.interpreter, this.year, this.week);
+                    this.sdr[sdr.length - 1] = new SimpleDifferenceRating(this.interpreter, this.year, this.week);
                 }
-                this.ser[ser.length - 1].setup();
+                this.sdr[sdr.length - 1].setup();
             } else {
-                ser = new SimpleDifferenceRating[prevYears];
-                for (int i = 0; i < ser.length; i++) {
-                    this.ser[i] = new SimpleDifferenceRating(this.interpreter, this.year - (prevYears - i));
-                    this.ser[i].setup();
+                sdr = new SimpleDifferenceRating[prevYears];
+                for (int i = 0; i < sdr.length; i++) {
+                    this.sdr[i] = new SimpleDifferenceRating(this.interpreter, this.year - (prevYears - i));
+                    this.sdr[i].setup();
                 }
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
 
-        ppg = ser[ser.length - 1].getPPG();
+        ppg = sdr[sdr.length - 1].getPPG();
 
         calculateEfficiencies();
 
@@ -113,19 +113,19 @@ public class DifferencePredictionSystem extends RatingSystem {
         double team2PPGStdDev = teams.get(team2).getPointsPerGameStDev();
         double team2OPPGStdDev = teams.get(team2).getPointsAllowedPerGameStDev();
         double team2Count = 0.0;
-        for (int i = 0; i < ser.length; i++) {
-            if (ser[i].hasTeam(team1)) {
-                double team1RecencyModifier = Math.pow(RECENCY_BIAS, (ser.length - i - 1) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
-                double team1GamesModifier = 1 - Math.exp(-1 * ser[i].getTeam(team1).getNumberOfGames());
-                team1PPGStdDev += ser[i].getSDRTeam(team1).getPointsPerGameStDev() * team1RecencyModifier * team1GamesModifier;
-                team1OPPGStdDev += ser[i].getSDRTeam(team1).getPointsAllowedPerGameStDev() * team1RecencyModifier * team1GamesModifier;
+        for (int i = 0; i < sdr.length; i++) {
+            if (sdr[i].hasTeam(team1)) {
+                double team1RecencyModifier = Math.pow(RECENCY_BIAS, (sdr.length - i - 1) * (this.teams.get(team1).getNumberOfGames() == 0 ? 1 : this.teams.get(team1).getNumberOfGames()));
+                double team1GamesModifier = 1 - Math.exp(-1 * sdr[i].getTeam(team1).getNumberOfGames());
+                team1PPGStdDev += sdr[i].getSDRTeam(team1).getPointsPerGameStDev() * team1RecencyModifier * team1GamesModifier;
+                team1OPPGStdDev += sdr[i].getSDRTeam(team1).getPointsAllowedPerGameStDev() * team1RecencyModifier * team1GamesModifier;
                 team1Count += team1RecencyModifier * team1GamesModifier;
             }
-            if (ser[i].hasTeam(team2)) {
-                double team2RecencyModifier = Math.pow(RECENCY_BIAS, (ser.length - i - 1) * (this.teams.get(team2).getNumberOfGames() == 0 ? 1 : this.teams.get(team2).getNumberOfGames()));
-                double team2GamesModifier = 1 - Math.exp(-1 * ser[i].getTeam(team2).getNumberOfGames());
-                team2PPGStdDev += ser[i].getSDRTeam(team2).getPointsPerGameStDev() * team2RecencyModifier * team2GamesModifier;
-                team2OPPGStdDev += ser[i].getSDRTeam(team2).getPointsAllowedPerGameStDev() * team2RecencyModifier * team2GamesModifier;
+            if (sdr[i].hasTeam(team2)) {
+                double team2RecencyModifier = Math.pow(RECENCY_BIAS, (sdr.length - i - 1) * (this.teams.get(team2).getNumberOfGames() == 0 ? 1 : this.teams.get(team2).getNumberOfGames()));
+                double team2GamesModifier = 1 - Math.exp(-1 * sdr[i].getTeam(team2).getNumberOfGames());
+                team2PPGStdDev += sdr[i].getSDRTeam(team2).getPointsPerGameStDev() * team2RecencyModifier * team2GamesModifier;
+                team2OPPGStdDev += sdr[i].getSDRTeam(team2).getPointsAllowedPerGameStDev() * team2RecencyModifier * team2GamesModifier;
                 team2Count += team2RecencyModifier * team2GamesModifier;
             }
         }
@@ -227,14 +227,14 @@ public class DifferencePredictionSystem extends RatingSystem {
             double offensiveEfficiency = 0.0;
             double defensiveEfficiency = 0.0;
             double weightedCount = 0.0;
-            for (int i = 0; i < ser.length; i++) {
-                if (ser[i].hasTeam(team)) {
-                    double recencyModifier = Math.pow(RECENCY_BIAS, (ser.length - i - 1) * (this.teams.get(team).getNumberOfGames() == 0 ? 1 : this.teams.get(team).getNumberOfGames()));
-                    double gamesModifier = 1 - Math.exp(-1 * ser[i].getTeam(team).getNumberOfGames());
-                    offensiveEfficiency += ser[i].getSDRTeam(team).getOffensiveRating() * recencyModifier * gamesModifier;
-                    defensiveEfficiency += ser[i].getSDRTeam(team).getDefensiveRating() * recencyModifier * gamesModifier;
+            for (int i = 0; i < sdr.length; i++) {
+                if (sdr[i].hasTeam(team)) {
+                    double recencyModifier = Math.pow(RECENCY_BIAS, (sdr.length - i - 1) * (this.teams.get(team).getNumberOfGames() == 0 ? 1 : this.teams.get(team).getNumberOfGames()));
+                    double gamesModifier = 1 - Math.exp(-1 * sdr[i].getTeam(team).getNumberOfGames());
+                    offensiveEfficiency += sdr[i].getSDRTeam(team).getOffensiveRating() * recencyModifier * gamesModifier;
+                    defensiveEfficiency += sdr[i].getSDRTeam(team).getDefensiveRating() * recencyModifier * gamesModifier;
                     weightedCount += recencyModifier * gamesModifier;
-                    for (Game game : ser[i].getTeam(team).getGames()) {
+                    for (Game game : sdr[i].getTeam(team).getGames()) {
                         ppgStdDev += Math.pow(game.getScore() - ppg, 2);
                         games++;
                     }

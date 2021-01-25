@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dps</artifactId>
+    <artifactId>eps</artifactId>
 
     <dependencies>
         <dependency>
@@ -19,7 +19,7 @@
         </dependency>
         <dependency>
             <groupId>com.ratingsystems</groupId>
-            <artifactId>sdr</artifactId>
+            <artifactId>ser</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>
@@ -32,6 +32,5 @@
             </resource>
         </resources>
     </build>
-
 
 </project>
