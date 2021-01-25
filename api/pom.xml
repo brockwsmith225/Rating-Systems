@@ -30,6 +30,21 @@
         </dependency>
         <dependency>
             <groupId>com.ratingsystems</groupId>
+            <artifactId>sdr</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ratingsystems</groupId>
+            <artifactId>dps</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ratingsystems</groupId>
+            <artifactId>eps</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ratingsystems</groupId>
             <artifactId>hps</artifactId>
             <version>1.0</version>
         </dependency>

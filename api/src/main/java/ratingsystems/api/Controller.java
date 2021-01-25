@@ -1,13 +1,15 @@
 package ratingsystems.api;
 
 import org.springframework.web.bind.annotation.*;
-import ratingsystems.common.cli.CommandInput;
 import ratingsystems.common.Runner;
 import ratingsystems.common.commands.CommandMode;
 import ratingsystems.common.parameters.Parameters;
-import ratingsystems.common.ratingsystem.RatingSystem;
 import ratingsystems.hps.HistoricalPredictionSystemRunner;
 import ratingsystems.rrs.RelativeRatingSystemRunner;
+import ratingsystems.sdr.SimpleDifferenceRatingRunner;
+import ratingsystems.ser.SimpleEfficiencyRatingRunner;
+import ratingsystems.eps.EfficiencyPredictionSystemRunner;
+import ratingsystems.dps.DifferencePredictionSystemRunner;
 
 import java.util.*;
 
@@ -19,6 +21,10 @@ public class Controller {
     public Controller() {
         ratingSystems = new HashMap<>();
         ratingSystems.put("rrs", new RelativeRatingSystemRunner());
+        ratingSystems.put("ser", new SimpleEfficiencyRatingRunner());
+        ratingSystems.put("sdr", new SimpleDifferenceRatingRunner());
+        ratingSystems.put("eps", new EfficiencyPredictionSystemRunner());
+        ratingSystems.put("dps", new RelativeRatingSystemRunner());
         ratingSystems.put("hps", new HistoricalPredictionSystemRunner());
 
         Parameters.leagues = new HashSet<>();
