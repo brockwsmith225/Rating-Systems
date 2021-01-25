@@ -9,6 +9,8 @@ import ratingsystems.common.ratingsystem.RatingSystem;
 import ratingsystems.ser.SimpleEfficiencyRating;
 
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -89,6 +91,12 @@ public class EfficiencyPredictionSystem extends RatingSystem {
         calculateEfficiencies();
 
         rankTeams();
+    }
+
+    @Override
+    public void rankTeams() {
+        rankedTeams = new ArrayList<>(teams.values());
+        Collections.sort(rankedTeams);
     }
 
     @Override

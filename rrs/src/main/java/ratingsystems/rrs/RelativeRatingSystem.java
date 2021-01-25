@@ -14,10 +14,10 @@ import java.util.*;
 
 public class RelativeRatingSystem extends RatingSystem {
 
-    protected HashMap<String, RRSTeam> teams;
+    protected Map<String, RRSTeam> teams;
     private Matrix posMatrix, negMatrix;
-    protected HashMap<String, Integer> teamNameToIndex;
-    protected HashMap<Integer, String> teamIndexToName;
+    protected Map<String, Integer> teamNameToIndex;
+    protected Map<Integer, String> teamIndexToName;
 
     public RelativeRatingSystem() {
         super();
@@ -100,6 +100,12 @@ public class RelativeRatingSystem extends RatingSystem {
         setRatings();
 
         rankTeams();
+    }
+
+    @Override
+    public void rankTeams() {
+        rankedTeams = new ArrayList<>(teams.values());
+        Collections.sort(rankedTeams);
     }
 
     @Override

@@ -64,6 +64,12 @@ public class SimpleEfficiencyRating extends RatingSystem {
     }
 
     @Override
+    public void rankTeams() {
+        rankedTeams = new ArrayList<>(teams.values());
+        Collections.sort(rankedTeams);
+    }
+
+    @Override
     public Prediction predictGame(String team1, String team2, Location location) {
         if (!teams.keySet().contains(team1) || !teams.keySet().contains(team2)) {
             return new Prediction(team1, team2, 0.5);

@@ -1,20 +1,19 @@
 package ratingsystems.rrs;
 
-import ratingsystems.common.interpreter.CustomTeam;
 import ratingsystems.common.interpreter.Team;
 
-public class RRSTeam extends CustomTeam {
+public class RRSTeam extends Team {
 
     private double positiveRating, negativeRating;
 
     public RRSTeam(Team team) {
-        this.team = team;
+        super(team);
         this.positiveRating = 0;
         this.negativeRating = 0;
     }
 
     public void calculateRating() {
-        team.setRating(this.positiveRating - this.negativeRating);
+        this.setRating(this.positiveRating - this.negativeRating);
     }
 
     public void setPositiveRating(double positiveRating) {

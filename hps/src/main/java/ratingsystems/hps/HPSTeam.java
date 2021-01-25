@@ -31,7 +31,7 @@ public class HPSTeam extends SERTeam {
 
     public void setScaledStats(Map<String, HPSTeam> teams) {
         scaledStats = new HashMap<>();
-        for (Game game : team.getGames()) {
+        for (Game game : this.getGames()) {
             for (String stat : game.getStatistics().keySet()) {
                 double scaledStat = Math.exp(game.getStatistic(stat) / teams.get(game.getOpponent()).avgStats.get(stat) - 1);
                 if (Double.isNaN(scaledStat) || Double.isInfinite(scaledStat)) scaledStat = 1.0;
@@ -42,7 +42,7 @@ public class HPSTeam extends SERTeam {
                 }
             }
         }
-        scaledStats.replaceAll((key, value) -> Math.pow(value, 1.0 / team.getNumberOfGames()));
+        scaledStats.replaceAll((key, value) -> Math.pow(value, 1.0 / this.getNumberOfGames()));
     }
 
     public void setTop25Rating(Double top25Rating) {

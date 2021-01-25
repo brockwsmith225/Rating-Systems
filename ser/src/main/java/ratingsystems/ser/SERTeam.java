@@ -1,22 +1,21 @@
 package ratingsystems.ser;
 
-import ratingsystems.common.interpreter.CustomTeam;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
 
-public class SERTeam extends CustomTeam {
+public class SERTeam extends Team {
     private double offensiveRating, defensiveRating;
     private double quad1Rating, quad2Rating, quad3Rating, quad4Rating;
     private double homeRating, awayRating;
 
     public SERTeam(Team team) {
-        this.team = team;
+        super(team);
         this.offensiveRating = 1.0;
         this.defensiveRating = 1.0;
     }
 
     public void calculateRating() {
-        team.setRating(this.offensiveRating * this.defensiveRating);
+        this.setRating(this.offensiveRating * this.defensiveRating);
         //team.setRating(Math.sqrt(this.offensiveRating * this.defensiveRating));
     }
 

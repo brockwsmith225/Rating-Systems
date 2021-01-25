@@ -44,6 +44,16 @@ public class Team implements Comparable<Team>, Serializable {
         this.games = new ArrayList<>();
     }
 
+    protected Team(Team team) {
+        this.name = team.name;
+        this.conference = team.conference;
+        this.coach = team.coach;
+        this.year = team.year;
+        this.rating = team.rating;
+        this.numberOfGames = team.numberOfGames;
+        this.games = team.games;
+    }
+
     /**
      * Returns the name of the team
      *
@@ -199,15 +209,5 @@ public class Team implements Comparable<Team>, Serializable {
     @Override
     public String toString() {
         return name;
-    }
-
-    public static Team copyOf(Team team) {
-        Team copy = new Team(team.name, team.conference, team.coach, team.year);
-        copy.rating = team.rating;
-        copy.numberOfGames = team.numberOfGames;
-        for (Game game : team.games) {
-            copy.games.add(Game.copyOf(game));
-        }
-        return copy;
     }
 }

@@ -6,7 +6,6 @@ import ratingsystems.ser.SERTeam;
 public class EPSTeam extends SERTeam {
     public EPSTeam(Team team) {
         super(team);
-        this.team = team;
     }
 
 //    public void calculateRating() {

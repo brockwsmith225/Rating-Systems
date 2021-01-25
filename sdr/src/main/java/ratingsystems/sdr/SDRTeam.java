@@ -1,22 +1,21 @@
 package ratingsystems.sdr;
 
-import ratingsystems.common.interpreter.CustomTeam;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Team;
 
-public class SDRTeam extends CustomTeam {
+public class SDRTeam extends Team {
     private double offensiveRating, defensiveRating;
     private double quad1Rating, quad2Rating, quad3Rating, quad4Rating;
     private double homeRating, awayRating;
 
     public SDRTeam(Team team) {
-        this.team = team;
+        super(team);
         this.offensiveRating = 0.0;
         this.defensiveRating = 0.0;
     }
 
     public void calculateRating() {
-        team.setRating(this.offensiveRating - this.defensiveRating);
+        this.setRating(this.offensiveRating - this.defensiveRating);
     }
 
     public void setOffensiveRating(double offensiveRating) {

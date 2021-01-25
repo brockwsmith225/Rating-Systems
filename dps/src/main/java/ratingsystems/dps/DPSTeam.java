@@ -6,6 +6,5 @@ import ratingsystems.sdr.SDRTeam;
 public class DPSTeam extends SDRTeam {
     public DPSTeam(Team team) {
         super(team);
-        this.team = team;
     }
 }
