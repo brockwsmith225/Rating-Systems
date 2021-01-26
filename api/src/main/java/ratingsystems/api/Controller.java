@@ -24,7 +24,7 @@ public class Controller {
         ratingSystems.put("ser", new SimpleEfficiencyRatingRunner());
         ratingSystems.put("sdr", new SimpleDifferenceRatingRunner());
         ratingSystems.put("eps", new EfficiencyPredictionSystemRunner());
-        ratingSystems.put("dps", new RelativeRatingSystemRunner());
+        ratingSystems.put("dps", new DifferencePredictionSystemRunner());
         ratingSystems.put("hps", new HistoricalPredictionSystemRunner());
 
         Parameters.leagues = new HashSet<>();
