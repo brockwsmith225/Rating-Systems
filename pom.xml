@@ -25,6 +25,7 @@
         <module>dps</module>
         <module>sdr</module>
         <module>eps</module>
+        <module>srs</module>
     </modules>
     
 </project>

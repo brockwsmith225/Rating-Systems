@@ -5,7 +5,6 @@ ratingsystems\common\collegebasketball\CollegeBasketballEntry.class
 ratingsystems\common\interpreter\Team.class
 ratingsystems\common\collegebasketball\CollegeBasketballInterpreter.class
 ratingsystems\common\cli\CommandInput.class
-ratingsystems\common\interpreter\CustomTeam.class
 ratingsystems\common\collegefootball\CollegeFootballConferencesInterpreter.class
 ratingsystems\common\interpreter\Interpreter.class
 ratingsystems\common\ratingsystem\Prediction.class

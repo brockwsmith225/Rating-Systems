@@ -11,6 +11,7 @@
         <module name="api" />
         <module name="common" />
         <module name="ser" />
+        <module name="srs" />
         <module name="eps" />
         <module name="rhps" />
         <module name="sdr" />
