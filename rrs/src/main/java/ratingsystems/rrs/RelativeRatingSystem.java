@@ -4,6 +4,7 @@ import ratingsystems.common.cli.Terminal;
 import ratingsystems.common.interpreter.Interpreter;
 import ratingsystems.common.interpreter.Game;
 import ratingsystems.common.interpreter.Location;
+import ratingsystems.common.interpreter.Team;
 import ratingsystems.common.linalg.Matrix;
 import ratingsystems.common.linalg.Vector;
 import ratingsystems.common.ratingsystem.Prediction;
@@ -165,6 +166,133 @@ public class RelativeRatingSystem extends RatingSystem {
         return Terminal.leftJustify(teams.get(team).getName(), 50) + "   "
                 + Terminal.rightJustify(Integer.toString((int)teams.get(team).getRating()), 10) + "   "
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
+    }
+
+    @Override
+    public String printTeamStats(String t) {
+        RRSTeam team = teams.get(t);
+        String stats = team.getName() + "\t"
+                + team.getRecord() + "\t"
+                + team.getRating() + "\t"
+                + team.getPositiveRating() + "\t"
+                + team.getNegativeRating() + "\n";
+        Map<String, Double> opponentTotalsWins = new HashMap<>();
+        Map<String, Double> opponentTotalsLosses = new HashMap<>();
+        Map<String, Double> opponentPosCol = new HashMap<>();
+        Map<String, Double> opponentNegCol = new HashMap<>();
+        double posTotal = posMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(t));
+        double negTotal = negMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(t));
+        double totalScore = 0.0;
+        for (Game game : team.getGames()) {
+            String opponent = game.getOpponent();
+            totalScore += Math.abs(game.getWeightedScoreDiff());
+            if (game.getScoreDiff() > 0) {
+                if (!opponentTotalsWins.containsKey(opponent)) {
+                    opponentTotalsWins.put(opponent, 0.0);
+//                    negTotal += posMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+                }
+                opponentTotalsWins.put(opponent, opponentTotalsWins.get(opponent) + game.getWeightedScoreDiff());
+                double colTotal = 0.0;
+                for (int i = 0; i < posMatrix.rows(); i++) {
+                    colTotal += posMatrix.get(i, teamNameToIndex.get(opponent));
+                }
+                opponentPosCol.put(opponent, colTotal);
+            } else {
+                if (!opponentTotalsLosses.containsKey(opponent)) {
+                    opponentTotalsLosses.put(opponent, 0.0);
+//                    posTotal += negMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+                }
+                opponentTotalsLosses.put(opponent, opponentTotalsLosses.get(opponent) + game.getWeightedScoreDiff());
+                double colTotal = 0.0;
+                for (int i = 0; i < negMatrix.rows(); i++) {
+                    colTotal += negMatrix.get(i, teamNameToIndex.get(opponent));
+                }
+                opponentNegCol.put(opponent, colTotal);
+            }
+        }
+        posTotal = 0.0;
+        negTotal = 0.0;
+        for (int i = 0; i < posMatrix.rows(); i++) {
+            posTotal += posMatrix.get(i, teamNameToIndex.get(t));
+            negTotal += negMatrix.get(i, teamNameToIndex.get(t));
+        }
+        double total = 0.0;
+        for (Game game : team.getGames()) {
+            String opponent = game.getOpponent();
+            double change, pctChange = 0.0;
+            if (game.getScoreDiff() > 0) {
+                double gamePortion = game.getWeightedScoreDiff() / opponentTotalsWins.get(opponent);
+                double gameScore = gamePortion * posMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+                change = gameScore / opponentPosCol.get(opponent) * teams.get(opponent).getPositiveRating()
+                        + 0.9 * game.getWeightedScoreDiff() / totalScore * team.getNegativeRating()
+                        + 0.9 * game.getWeightedScoreDiff() / totalScore * team.getPositiveRating()
+                ;
+            } else {
+                double gamePortion = game.getWeightedScoreDiff() / opponentTotalsLosses.get(opponent);
+                double gameScore = gamePortion * negMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+                change = gameScore / opponentNegCol.get(opponent) * teams.get(opponent).getNegativeRating()
+                        + 0.9 * game.getWeightedScoreDiff() / totalScore * team.getPositiveRating()
+                        + 0.9 * game.getWeightedScoreDiff() / totalScore * team.getNegativeRating()
+                ;
+            }
+            stats += opponent + "\t"
+                    + (game.getScoreDiff() > 0 ? "W" : "L") + "\t"
+                    + game.getScore() + "\t"
+                    + game.getOpponentScore() + "\t"
+                    + (game.getScoreDiff() > 0 ? "" : "-") + change + "\t"
+                    + (game.getScoreDiff() > 0 ? "" : "-") + pctChange + "\n";
+        }
+        System.out.println(totalScore);
+        System.out.println(total);
+        return stats;
+    }
+
+    @Override
+    public String prettyPrintTeamStats(String t) {
+        RRSTeam team = teams.get(t);
+        String stats = team.getName() + " ("
+                + team.getRecord() + ") "
+                + Terminal.round(team.getRating(),0) + "\n"
+                + "Wins:   " + Terminal.round(team.getPositiveRating(), 0) + "\n"
+                + "Losses: " + Terminal.round(team.getNegativeRating(), 0) + "\n";
+        Map<String, Double> opponentTotalsWins = new HashMap<>();
+        Map<String, Double> opponentTotalsLosses = new HashMap<>();
+        double posTotal = 0.0;
+        double negTotal = 0.0;
+        for (Game game : team.getGames()) {
+            String opponent = game.getOpponent();
+            if (game.getScoreDiff() > 0) {
+                if (!opponentTotalsWins.containsKey(opponent)) {
+                    opponentTotalsWins.put(opponent, 0.0);
+                    posTotal += posMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+                }
+                opponentTotalsWins.put(opponent, opponentTotalsWins.get(opponent) + game.getWeightedScoreDiff());
+            } else {
+                if (!opponentTotalsLosses.containsKey(opponent)) {
+                    opponentTotalsLosses.put(opponent, 0.0);
+                    negTotal += negMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+                }
+                opponentTotalsLosses.put(opponent, opponentTotalsLosses.get(opponent) + game.getWeightedScoreDiff());
+            }
+        }
+        for (Game game : team.getGames()) {
+            String opponent = game.getOpponent();
+            double change, pctChange = 0.0;
+            if (game.getScoreDiff() > 0) {
+                double gamePortion = game.getWeightedScoreDiff() / opponentTotalsWins.get(opponent);
+                change = gamePortion * posMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+            } else {
+                double gamePortion = game.getWeightedScoreDiff() / opponentTotalsLosses.get(opponent);
+                change = gamePortion * negMatrix.get(teamNameToIndex.get(t), teamNameToIndex.get(opponent));
+            }
+            stats += Terminal.leftJustify(opponent, 25) + "   "
+                    + (game.getScoreDiff() > 0 ? "W" : "L") + "   "
+                    + Terminal.rightJustify(Terminal.round(game.getScore(), 0), 3) + " - "
+                    + Terminal.leftJustify(Terminal.round(game.getOpponentScore(), 0), 3) + "   "
+                    + Terminal.rightJustify((game.getScoreDiff() > 0 ? "+" : "-") + Terminal.round(change, 2), 6) + "   "
+                    + Terminal.rightJustify((game.getScoreDiff() > 0 ? "+" : "-") + Terminal.round(pctChange * 100, 2), 6) + "%\n";
+        }
+        return stats;
     }
 
     public boolean hasTeam(String team) {

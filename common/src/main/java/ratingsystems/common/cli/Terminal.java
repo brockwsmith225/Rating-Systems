@@ -82,10 +82,7 @@ public class Terminal {
     public static String round(double number, int places) {
         double pow10 = Math.pow(10, places);
         StringBuilder result = new StringBuilder(Double.toString(Math.round(number * pow10) / pow10));
-        if (!result.toString().contains(".")) result.append(".");
-        while (result.toString().split("\\.")[1].length() < places) {
-            result.append("0");
-        }
+        if (places == 0) result.replace(result.length() - 2, result.length(), "");
         return result.toString();
     }
 

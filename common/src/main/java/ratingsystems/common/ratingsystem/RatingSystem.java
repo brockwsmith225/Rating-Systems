@@ -391,6 +391,21 @@ public abstract class RatingSystem {
                 + Terminal.rightJustify(teams.get(team).getRecord(), 10);
     }
 
+    public String printTeamStats(String t) {
+        Team team = teams.get(t);
+        return team.getName() + "\t"
+                + team.getRecord() + "\t"
+                + team.getRating();
+    }
+
+    public String prettyPrintTeamStats(String t) {
+        Team team = teams.get(t);
+        return team.getName() + " ("
+                + team.getRecord() + ") "
+                + Terminal.round(team.getRating(),2);
+    }
+
+
     /**
      * Calculates the odds of a team winning in a given game
      *

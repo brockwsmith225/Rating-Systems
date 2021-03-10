@@ -108,6 +108,10 @@ public class SampleRatingSystem extends RatingSystem {
         double totalPoints = (team1TotalMean + team2TotalMean) / 2.0;
         if (debug) System.out.println("Total Points = " + totalPoints);
 
+        if (debug) System.out.println("Team 1 Offense Std Dev = " + team1OffenseStdDev);
+        if (debug) System.out.println("Team 1 Defense Std Dev = " + team1DefenseStdDev);
+        if (debug) System.out.println("Team 2 Offense Std Dev = " + team2OffenseStdDev);
+        if (debug) System.out.println("Team 2 Defense Std Dev = " + team2DefenseStdDev);
         double team1ProductionStdDev = Math.sqrt(Math.pow(team1OffenseStdDev, 2) + Math.pow(team2DefenseStdDev, 2));
         double team2ProductionStdDev = Math.sqrt(Math.pow(team2OffenseStdDev, 2) + Math.pow(team1DefenseStdDev, 2));
         double totalProductionStdDev = Math.sqrt(Math.pow(team1ProductionStdDev, 2) + Math.pow(team2ProductionStdDev, 2));

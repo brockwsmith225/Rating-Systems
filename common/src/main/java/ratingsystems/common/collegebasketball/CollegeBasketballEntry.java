@@ -38,7 +38,7 @@ public class CollegeBasketballEntry {
         this.result = entry[8].charAt(0);
         this.teamScore = Integer.parseInt(entry[9]);
         this.opponentScore = Integer.parseInt(entry[10]);
-        this.weightedScoreDifference = 10 + Math.abs(this.teamScore - this.opponentScore);
+        this.weightedScoreDifference = 10 + Math.min(Math.abs(this.teamScore - this.opponentScore), 15) + (this.location == Location.HOME ? -5 : this.location == Location.AWAY ? 5 : 0);
         this.statistics = new HashMap<>();
         for (int i = 11; i < entry.length; i++) {
             this.statistics.put(statisticNames[i], Double.parseDouble(entry[i]));

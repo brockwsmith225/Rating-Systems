@@ -74,6 +74,9 @@ public class SRSTeam extends Team {
         double adjStd = 0.0;
         double adjMean = getAdjustedPointsPerGame(ratingSystem);
         for (Game game : this.getGames()) {
+            System.out.println(game.getScore() - ratingSystem.getTeam(game.getOpponent()).getPointsAllowedPerGame());
+            System.out.println(Math.pow((game.getScore() - ratingSystem.getTeam(game.getOpponent()).getPointsAllowedPerGame()) - adjMean, 2));
+            System.out.println();
             adjStd += Math.pow((game.getScore() - ratingSystem.getTeam(game.getOpponent()).getPointsAllowedPerGame()) - adjMean, 2);
         }
         return Math.sqrt(adjStd / numberOfGames);
